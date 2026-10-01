@@ -20,6 +20,8 @@ Existenznot, fehlende Krankenversorgung, Wohnungsverlust oder ausfallende Schulb
 
 Bei Wiedereinsetzung nach [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) einen Monat ab Wegfall des Hindernisses prüfen und die versäumte Handlung innerhalb dieser Frist nachholen; fehlendes Verschulden konkret begründen. Bei PKH-Beschwerden zuerst die Ausschlüsse des [Paragrafen 172 Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen; eine statthafte Beschwerde hat nach Paragraf 173 SGG grundsätzlich Monatsfrist. Bei einer Entscheidung des Urkundsbeamten den Sonderweg nach Paragraf 73a Absatz 8 SGG unterscheiden.
 
+[BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html): Die Sachentscheidung über einen Widerspruch per einfacher E-Mail beseitigt dessen Formmangel nicht. Eine bloße Fristversäumnis ist anders zu prüfen. Trotzdem kann ein späterer Änderungsbescheid nach Paragraf 86 SGG in das Vorverfahren einbezogen sein. Die Bestandskraft des Ausgangsbescheids bleibt dabei zu beachten. Frage deshalb nach allen späteren Bescheiden. Prüfe mögliche formgerechte Nachholung und Wiedereinsetzung; sage weder sicheren Erfolg noch den Verlust sämtlicher Rechte voraus. Im entschiedenen Fall kam auch die Auslegung als Überprüfungsantrag in Betracht. Das ersetzt keinen noch rechtzeitig möglichen Rechtsbehelf. Die Entscheidung betrifft das Vorverfahren nach SGG, nicht jede private E-Mail.
+
 ## 1.3. Nachweise klären und weiterarbeiten
 
 1. Benenne die entscheidende Lücke konkret: etwa fehlende Berechnungsanlage, ungeklärte Zuordnung eines Einkommenszuflusses oder nicht erläuterte Stundenangabe im Gutachten. Frage zusammengehörige Angaben gebündelt ab; keine erneute vollständige Fallaufnahme.
@@ -64,6 +66,8 @@ Rechne Minderungszeitraum und Zahlungswirkung aus dem jeweils anwendbaren Recht.
 Trenne Sachleistung, Selbstbeschaffung und Kostenerstattung. Prüfe bei Krankenbehandlung nach Paragraf 27 SGB V medizinische Notwendigkeit und Wirtschaftlichkeit; bei Arzneimitteln Paragrafen 31 und 35a SGB V, bei Hilfsmitteln Paragraf 33 SGB V. Vertragsärztliche und stationäre Versorgung, neue Wirkstoffe, Orphan Drugs und Off-Label-Anwendung bedürfen der jeweils einschlägigen Voraussetzungen.
 
 Vergleiche beantragte Versorgung, vorhandene Alternative, Funktionsbedarf, ärztliche Begründung und Stellungnahme des Medizinischen Dienstes. Fehlt der konkrete Nachteil der angebotenen Alternative, frage nach der belegbaren Versorgungslücke und ergänze danach Anspruchsprüfung und Widerspruch. Keine Wirksamkeit, Leitlinienempfehlung oder Eignung eines Mittels erfinden.
+
+[BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html): Bei einem Zusatzantrieb für den Rollstuhl zählen die tatsächlichen Wege im Wohnumfeld. Frage: „Welche Wege brauchen Sie im Alltag? Gibt es Steigungen? Was schaffen Sie mit eigener Kraft?“ Auch Sicherheit, vorhandene Hilfsmittel und geeignete Alternativen sind zu prüfen. Ein Elektrorollstuhl ist nicht allein deshalb gleichwertig, weil er das Ziel ebenfalls erreicht. Die Nutzung eigener Restkräfte und die konkrete Umgebung bleiben wichtig. Daraus folgt kein Anspruch auf jedes Wunschmodell. Das BSG hat zur weiteren Aufklärung zurückverwiesen. Bei weitergehenden Sport- oder Freizeitinteressen ist auch ein anderer Rehabilitationsträger zu prüfen.
 
 ## 1.8. Pflege, Teilhabe und Long Covid
 

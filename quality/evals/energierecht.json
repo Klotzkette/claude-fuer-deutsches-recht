@@ -9,7 +9,7 @@
       "supports": "Antwort auf Verbraucherbeschwerden binnen vier Wochen ab Zugang sowie Gründe und Schlichtungshinweise bei Nichtabhilfe."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=82565",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_148-17.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 07.02.2018, Az. VIII ZR 148/17: Konkrete unerklärliche Verbrauchssteigerung kann ernsthafte Möglichkeit eines offensichtlichen Fehlers begründen; berechtigte Einwendungen im Zahlungsprozess widerlegen. Grenze: Einzelfall der Stromgrundversorgung, keine beliebige Beanstandung und keine automatische Übertragung auf Sondervertrag oder Energieprojekte."
     },
@@ -64,7 +64,7 @@
       "Alle bestehenden Abrechnungs-, Netz-, EEG/KWK-, Wärme-, Fusions-, Transaktions-, Infrastruktur-, Stadtwerke-, Lade- und Vertragszweige erhalten",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "80d9c379b31448de47be14d7782992b4d3c65cb761ae51fb7ade3ee62493586b"
+    "sha256": "bebbb1ca1c02b292e73f84b094c9a6a4a2a921324c02fa2ece99159a094a7f0c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -77,7 +77,7 @@
       "Preisänderungsnachweise und Sechswochenvorlauf in der Grundversorgung nach Gegenprüfung ausdrücklich erhalten.",
       "Zählerwechsel, Preisperioden und Gutschriften, technische Anschlussgründe gegenüber unvollständigem Antrag, Speicher-Nutzungsmodell, PPA-Risiken und Verbraucherbeschwerde mit zugangsbezogener Vierwochenfrist."
     ],
-    "sha256": "f74be33b693672bea0b446b80dfca5ca88cdb6af6ac2e4888b7c56b45d8d8a6d"
+    "sha256": "c882727d1768fda3843be5a0f0651d0855f6fb81be5d26b2a9ff4e0ac9e39538"
   },
   "selection": {
     "positive": [
@@ -141,7 +141,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 07.02.2018, Az. VIII ZR 148/17",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=82565",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_148-17.pdf?__blob=publicationFile&v=1",
         "application": "Konkrete unerklärliche Verbrauchssteigerung kann ernsthafte Möglichkeit eines offensichtlichen Fehlers begründen; berechtigte Einwendungen im Zahlungsprozess widerlegen.",
         "limit": "Einzelfall der Stromgrundversorgung, keine beliebige Beanstandung und keine automatische Übertragung auf Sondervertrag oder Energieprojekte."
       }
@@ -164,5 +164,17 @@
     "continuation": "Neue Wärmepumpe oder belegter Zählerwechsel -> Verbrauchsperioden, Rechnungsabwehr und Antrag ändern; nicht jede Mehrmenge als Abrechnungsfehler behandeln.",
     "enrichment": "Zählerwechsel, Preisperioden und Gutschriften, technische Anschlussgründe gegenüber unvollständigem Antrag, Speicher-Nutzungsmodell, PPA-Risiken und Verbraucherbeschwerde mit zugangsbezogener Vierwochenfrist.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=82565",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_148-17.pdf?__blob=publicationFile&v=1",
+        "sha256": "63db04e1bd43e5511aa45d820ebd98f549fd8aa396877ffb5f2efbdce151452f"
+      }
+    ]
   }
 }

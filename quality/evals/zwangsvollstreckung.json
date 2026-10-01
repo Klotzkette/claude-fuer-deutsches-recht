@@ -39,7 +39,7 @@
       "supports": "Amtlichen Text zu Paragraf 367 BGB gelesen; Bezug: Titulierte Forderung, Zahlungszuordnung und tatsächlich offenen Vollstreckungsbetrag abgleichen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 15.06.2016, VII ZB 58/15: Bei behauptet falscher Anrechnung außerhalb der Vollstreckung geleisteter Zahlung den materiellen Abwehrweg und Gegenrechnung prüfen; Vollstreckungsgericht prüft die Gläubigerverrechnung nicht materiell nach Paragraf 367 Absatz 1 BGB. Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare."
     },
@@ -91,7 +91,7 @@
       "Leerer Einstieg bietet Forderungsauftrag, PfÜB oder Abwehr; Dateien ohne Aufgabe still lesen.",
       "Neue Bank, vereinbarte Hauptforderungstilgung und medizinischer Nachweis ändern Maßnahme, Zinslauf oder Schutzantrag konkret."
     ],
-    "sha256": "ebdc9fed9c1ca099cfc0eda6a50e74655864641787b2cec45e125f2fb9b3dc89",
+    "sha256": "65f0efd2e6f6506e38a2e13abd4ae120e9fb1e53806c47a94ec1a95d6acfd064",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -103,7 +103,7 @@
       "Zahlungseingang, Tilgungsabrede und notwendige Kosten getrennt prüfen; neue Belege ändern Rechnung und Antrag gemeinsam.",
       "Räumungstermin und Entstehung des Schutzgrunds als Fristauslöser sowie spätere Zahlung, Einstellung oder Ratenbitte bis zur aktualisierten Fassung behandeln."
     ],
-    "sha256": "8990d511244982cbddabb19b9dda6adc8fd558e3382df0c23cde5517f1b374a0",
+    "sha256": "a0d34f4411b9dcc25f473a5fb5f076d870d360bfefa0708009cc6d37d9fe84a1",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -223,7 +223,7 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 15.06.2016, VII ZB 58/15",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1",
         "application": "Bei behauptet falscher Anrechnung außerhalb der Vollstreckung geleisteter Zahlung den materiellen Abwehrweg und Gegenrechnung prüfen; Vollstreckungsgericht prüft die Gläubigerverrechnung nicht materiell nach Paragraf 367 Absatz 1 BGB.",
         "limit": "Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare."
       }
@@ -233,6 +233,18 @@
       "Amtlicher Leitsatz gelesen; direkter Volltextabruf 403, entscheidende Randnummern nicht verfügbar. Keine materielle Richtigkeitsgarantie, keine Billigung sämtlicher Kosten oder Übernahme historischer Formulare.",
       "Kein Live-Formular- oder Vollstreckungstest; widersprüchliche Zukunftstermine im nicht freigegebenen README/Skill-Bestand nicht repariert. Formulare, Pfändungsbeträge und Übergangsrecht bleiben antragszeitbezogen zu verifizieren.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1",
+        "sha256": "71bd925c33a64c5d76215891af0640a4437c4e80605fb81a710e537ab2388215"
+      }
     ]
   }
 }

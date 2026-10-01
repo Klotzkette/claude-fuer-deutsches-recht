@@ -29,7 +29,7 @@
       "supports": "Amtlichen Text zu Paragraf 286 ZPO gelesen; Bezug: Antragsbezogene Entscheidungsreife statt allgemeinem Herstellungsauftrag. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 17.11.2022, V ZR 25/22: Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung. Amtliche Metadaten und entscheidende Rn. 10 bis 11 gelesen, direkter PDF-Abruf gestört. Keine Vorgabe persönlicher Wahrnehmung, kein bestimmtes Beweisergebnis, keine Beweislastumkehr."
     }
@@ -42,7 +42,7 @@
       "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
       "Gerichtliche Antwort zum Inhalt der Kiste verändert Beweisabschnitt, Hauptforderung und Kosten; keine erfundene Zuordnung einer Unterschrift."
     ],
-    "sha256": "caf355187a5d8878ec2ae3213f0430a9c086548d1651256713d968d85557e14b"
+    "sha256": "49b3b7d0733b1a9ec8aa60dc2241733207d1459e87d68114e230746be16bf0fc"
   },
   "selection": {
     "positive": [
@@ -97,7 +97,7 @@
       "Fehlender Preisvortrag führt zum bestimmten Hinweis; Antwort verändert Schlüssigkeit und Beweisbedarf. Kistenzuordnung, Inhalt und richterliche Überzeugung getrennt.",
       "Zahlungsbeleg verändert Rechnung und abhängige Nebenentscheidungen, ersetzt aber keine Rücknahme- oder Erledigungserklärung."
     ],
-    "sha256": "7af0b38e46cad8f397e65948f78751559d5c638c10d35a23003310c87e4ebe24"
+    "sha256": "385fa9337f945f7a2a9e3978ec0a5e20c5f6d688408789979c99782ffa7f7495"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -128,7 +128,7 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 17.11.2022, V ZR 25/22",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1",
         "application": "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
         "limit": "Amtliche Metadaten und entscheidende Rn. 10 bis 11 gelesen, direkter PDF-Abruf gestört. Keine Vorgabe persönlicher Wahrnehmung, kein bestimmtes Beweisergebnis, keine Beweislastumkehr."
       }
@@ -137,6 +137,18 @@
       "Amtliche Metadaten und entscheidende Rn. 10 bis 11 gelesen, direkter PDF-Abruf gestört. Keine Vorgabe persönlicher Wahrnehmung, kein bestimmtes Beweisergebnis, keine Beweislastumkehr.",
       "Keine persönliche Beweiswahrnehmung und keine erlassene Entscheidung; Rechtsbehelfs- und Nebenentscheidungsrecht nicht vollständig neu verifiziert.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "82e6cb24d0e393ebd75a8d44eb497137e0283062b0cff73664f215c0ce758d02"
+      }
     ]
   }
 }

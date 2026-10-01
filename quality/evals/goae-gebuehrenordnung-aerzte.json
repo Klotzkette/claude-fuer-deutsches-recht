@@ -19,7 +19,7 @@
       "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 5 Absatz 2 und Paragraf 12 Absatz 3 GOÄ. Keine Gesamtverifikation sämtlicher Nebenmaterien."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 08.11.2007, III ZR 54/07: Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen. Grenze/Prüftiefe: Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen."
     }
@@ -32,7 +32,7 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "036e11ec18cdbdad25b0e2c82edaec1685d587d785a9e043e4995f55e8898f39"
+    "sha256": "2e0db90451acf7216e50870a046bcb27a41d1b40bc22b2aef770db89f53047da"
   },
   "selection": {
     "positive": [
@@ -86,7 +86,7 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung."
     ],
-    "sha256": "bc888defb267e4044a21f19b5976006cc316b7dfc19bf7ba13ddd4f0e4532971"
+    "sha256": "273a08920d155c3b3610c1fd413d30fc2dc4e1178fa7b3d5b1bdc70a6bf77526"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -103,7 +103,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 08.11.2007, III ZR 54/07",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1",
         "application": "Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen.",
         "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen."
       }
@@ -125,5 +125,17 @@
     "continuation": "Neue Faktorbegründung -> einzelne Position neu beurteilen; Tarifauszug -> Erstattungsargument statt Gebührenanspruch ändern.",
     "enrichment": "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1",
+        "sha256": "ac68dc99f891298e91e8053fa14dc89780bfad2734ffcac09a814da368f70a52"
+      }
+    ]
   }
 }

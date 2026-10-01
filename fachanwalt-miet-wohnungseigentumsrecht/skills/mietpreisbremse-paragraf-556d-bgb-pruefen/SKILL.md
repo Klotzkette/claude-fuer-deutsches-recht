@@ -25,6 +25,8 @@ Nutze den Skill bei einer behauptet überhöhten Anfangsmiete. Entscheidend sind
 
 Die zeitlich anwendbare Fassung von Paragraf 556g BGB ist für jeden Mietbeginn gesondert festzustellen.
 
+Bei sanierungsbedürftigem Altbestand prüfe [BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1), Rn. 28–44: Paragraf 556f Satz 1 BGB kann auch zuvor wegen Schäden nicht mehr zu Wohnzwecken nutzbare Räume erfassen, die mit wesentlichem Bauaufwand dauerhaft wieder nutzbar gemacht und nach dem 1. Oktober 2014 erstmals wieder genutzt und vermietet werden. Das ist von bloßer Modernisierung nach Satz 2 zu trennen. Fordere Vorzustand, Schadenszeitraum, Bauleistungen, Kosten und Nutzung-/Mietbeginn an; rechne den wesentlichen Bauaufwand gegenüber einer vergleichbaren Neubauwohnung ohne Grundstücksanteil (Rn. 42: mindestens ein Drittel). Hohe Kosten allein genügen nicht; bloße Erweiterung, Aufteilung oder Zusammenlegung vorhandenen Wohnraums ist kein solcher Neubau. Schäden durch einen Voreigentümer schließen die Ausnahme nicht automatisch aus; konkreten Rechtsmissbrauch nach Paragraf 242 BGB gesondert prüfen. Der BGH verwies zur Tatsachenklärung zurück und stellte die Ausnahme im Einzelfall nicht abschließend fest. Auskunft, Rüge und Rückforderung weiterhin nach der für den eigenen Mietbeginn geltenden Fassung prüfen; im Urteil galt insoweit altes Recht.
+
 ## 4. Prüfprogramm
 
 1. Mietbeginn, Lage und zu diesem Zeitpunkt geltende Landesverordnung feststellen.

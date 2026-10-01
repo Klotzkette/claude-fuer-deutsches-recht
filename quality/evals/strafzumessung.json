@@ -77,19 +77,50 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
       "checked_on": "2026-09-22",
       "supports": "Aktueller amtlicher Normtext gelesen: Spätere Entscheidung über alleinige Tagessatzhöhenbeschränkung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 24.02.2026, 5 StR 623/25, Rn. 4. Amtlichen Volltext gelesen. Anwendung: Bloße Mittäterschaft nicht nochmals unter der Bezeichnung gemeinschaftlicher Begehung strafschärfend werten. Konkrete Urteilspassage von zusätzlich festgestellter Ausführung und Tatfolge abgrenzen. Grenze: Kein bestimmter Strafabschlag; der Wegfall der Einzelstrafen erfordert auch erneute Gesamtstrafenbildung. Keine pauschale Unverwertbarkeit jeder zusätzlichen Ausführungstatsache."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__46.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Schuld, konkrete Zumessungsumstände und Doppelverwertungsverbot."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__46a.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Täter-Opfer-Ausgleich und Schadenswiedergutmachung; keine Gesamtstrafennorm."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__49.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Besondere gesetzliche Milderung, nicht Regelbeispiele."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__55.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Nachträgliche Gesamtstrafe im StGB, nicht § 55 JGG."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__257c.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Verständigung, nicht Täter-Opfer-Ausgleich."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztextreview: bisherige Zäsurentscheidung erhalten; leeren Einstieg, stilles Lesen und direkten Auftrag getrennt; neue Zahlungs- und Vollstreckungsantworten ändern das konkrete Dokument. Kein Live-Modelltest.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
     "changes": [
       "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
       "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
       "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
-      "Konkrete Fortsetzung bei bezahlter Vorstrafe, nur versprochener Entschädigung und Bewährungsprognose; Mini unter beiden 7500-Grenzen."
+      "Konkrete Fortsetzung bei bezahlter Vorstrafe, nur versprochener Entschädigung und Bewährungsprognose; Mini unter beiden 7500-Grenzen.",
+      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "834b980efed8a884a3280a66608e04ac15d56c992d508daa38f9ee9f4a0cff9d",
-    "reviewed_on": "2026-09-23",
+    "sha256": "3c6b23a95ba7a781144a875c62405fd34d364954a81c45ed68bd6e4f12ea8709",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -202,16 +233,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztextreview der erweiterten Werkstatt: Zahlungszuordnung, belastende Gegenbefunde, Bewährungsentwicklung, Gesamtstrafenantrag und Revisionsfristen mit konkreten Antwortfolgen ausgebaut; vorhandene Spezialthemen und Zäsuranker erhalten. Kein Live-Modelltest.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
     "changes": [
       "Einspruchsumfang und spätere Tagessatzentscheidung als benötigte Belege bezeichnet.",
       "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
       "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
       "Neue Arbeitszweige vom Zahlungsbeleg zum Plädoyer, vom Therapieabbruch zur Prognose und von Erledigungsdaten zum passenden Antrag.",
-      "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste."
+      "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste.",
+      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
     ],
-    "sha256": "c543e2041e1c06291b89b3a6971fd8eb9edf37b1d2cd5f1b490f04c07f8836e3",
-    "reviewed_on": "2026-09-23",
+    "sha256": "971a5592f76aa353e89d7640b22328691f0de96995e69c91a5615bd017810c45",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_workflow_review": {
@@ -227,10 +259,11 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "strafzumessung/strafzumessung-schnellstart.md",
-      "strafzumessung/strafzumessung-werkstatt.md"
+      "strafzumessung/strafzumessung-werkstatt.md",
+      "strafzumessung/skills/paragraph-46-stgb-grundsatz-strafzumessung/SKILL.md"
     ],
     "opening_change": "Tatbezogenen Strafrahmen und Einzelstrafe begründen, dann Vorverurteilungen nach Tatzeit und Vollstreckung auf Gesamtstrafenfähigkeit prüfen.",
     "norms": [
@@ -244,13 +277,21 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/1_StS/2019/1_StR_535-19.pdf?__blob=publicationFile&v=1",
         "application": "Bei auf Tagessatzhöhe beschränktem Einspruch ist die spätere Entscheidung nach Paragraf 411 Absatz 1 Satz 3 StPO für die Zäsur maßgeblich; Tatbeendigung und frühere Tatzeiten feststellen.",
         "limit": "Ohne Einspruch kann der Strafbefehlserlass maßgeblich sein; Einbeziehbarkeit benötigt weiterhin Erledigungsstand und übrige Voraussetzungen. Keine bestimmte Gesamtstrafenhöhe vorgegeben."
+      },
+      {
+        "citation": "BGH, Beschluss vom 24.02.2026, 5 StR 623/25, Rn. 4",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bloße Mittäterschaft nicht nochmals unter der Bezeichnung gemeinschaftlicher Begehung strafschärfend werten. Konkrete Urteilspassage von zusätzlich festgestellter Ausführung und Tatfolge abgrenzen.",
+        "limit": "Kein bestimmter Strafabschlag; der Wegfall der Einzelstrafen erfordert auch erneute Gesamtstrafenbildung. Keine pauschale Unverwertbarkeit jeder zusätzlichen Ausführungstatsache.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
       "Keine allgemeine Strafenvergleichsdatenbank oder verbindliche Strafmaßprognose.",
       "Weitere Härteausgleichs-, Auslandsstrafen-, Maßregel- und Jugendfragen nicht vollumfänglich neu verifiziert.",
-      "Workflow-Erweiterung am 23. September: neue Normbezüge gezielt geprüft; BGH-Zäsuranker aus dem dokumentierten vorherigen Review unverändert übernommen. Normen 56 StGB sowie 341 und 345 StPO im amtlichen Suchabruf statt gescheitertem Direktabruf gelesen."
+      "Workflow-Erweiterung am 23. September: neue Normbezüge gezielt geprüft; BGH-Zäsuranker aus dem dokumentierten vorherigen Review unverändert übernommen. Normen 56 StGB sowie 341 und 345 StPO im amtlichen Suchabruf statt gescheitertem Direktabruf gelesen.",
+      "Enger Quellenabgleich 01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
     ]
   }
 }

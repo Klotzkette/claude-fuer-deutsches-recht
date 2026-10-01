@@ -24,7 +24,7 @@ BGH, Urteil vom 19.07.2017, IV ZR 535/15, amtlicher Leitsatz, verlangt bei untre
 
 Berechnen Sie die rückständigen Renten monateweise nach vertraglichem Leistungsbeginn, Karenz, Dynamik und Zahlungen. Weisen Sie Beitragsbefreiung getrennt aus. Verzugszinsen nicht automatisch ab Krankheitseintritt verlangen und Zukunftsrenten nicht als sofort fällige Gesamtsumme ausgeben.
 
-Am 22.09.2026 geprüft: [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und BGH, Urteil vom 19.07.2017, IV ZR 535/15, [amtlicher Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7) im amtlichen Suchauszug. Direkter Volltextabruf gesperrt; keine Randnummern oder umfassende Volltextprüfung behaupten. Übertragbarkeit auf Beruf und Bedingungsfassung prüfen.
+Am 22.09.2026 geprüft: [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und BGH, Urteil vom 19.07.2017, IV ZR 535/15, [amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1) im amtlichen Suchauszug. Direkter Volltextabruf gesperrt; keine Randnummern oder umfassende Volltextprüfung behaupten. Übertragbarkeit auf Beruf und Bedingungsfassung prüfen.
 
 ## 5. Ergebnis und Freigabe
 

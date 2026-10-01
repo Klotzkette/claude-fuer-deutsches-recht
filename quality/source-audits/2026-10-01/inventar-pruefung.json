@@ -1,0 +1,16 @@
+{
+  "checked_on": "2026-10-01",
+  "scope": "Baseline-CLI und aktuelle Datei-/Profilprüfsummen; keine juristische Prüfung.",
+  "default_baseline_executed": true,
+  "new_baseline_initial_result": {
+    "unchanged_profiles": 256,
+    "changed_profiles": 0,
+    "new_profiles": 2
+  },
+  "same_inventory_roundtrip": {
+    "unchanged_profiles": 258,
+    "unchanged_prompt_files": 804,
+    "changed": 0
+  },
+  "passed": true
+}

@@ -34,17 +34,17 @@
       "supports": "BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, Randnummern 13 bis 20: Windnutzung trotz landwirtschaftlicher Restnutzung; gesamte einschlägige Entgelte bei längerfristigem Zweckwegfall und erheblichem Gewinn. Grenze: Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19: Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform. Grenze: Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11: Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation. Grenze: Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15: Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung. Grenze: Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert."
     },
@@ -174,7 +174,7 @@
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
       "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung."
     ],
-    "sha256": "d15ea36b5d14f51f906713ad26089420addb0b8f5bf3abf622cb8c6418c6b667"
+    "sha256": "69ac99806f49961afbbd348136b1c24557995e6f85b0e0532c56030bd515f5d0"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -200,19 +200,19 @@
       },
       {
         "citation": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1",
         "application": "Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform.",
         "limit": "Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform."
       },
       {
         "citation": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1",
         "application": "Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation.",
         "limit": "Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge."
       },
       {
         "citation": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
         "application": "Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung.",
         "limit": "Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert."
       }
@@ -235,5 +235,27 @@
     "continuation": "Windentgelt ist erst später zugeflossen oder betrifft andere Flächen -> Bezugszeitraum, Erlöszuordnung und Nachabfindungsschreiben ändern.",
     "enrichment": "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1",
+        "sha256": "1d04437a297dfc2be37816f98ba1cc765f7456ad954dbb702943dbe67a351b20"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1",
+        "sha256": "a135851c8e945028094f5e583e290a24852051b87c15ca5f3ad11d1dbc999af4"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
+        "sha256": "a24c5072eaa02676a5c2a95c220b42a790fbc40090e08f3fc8f49914e36875f3"
+      }
+    ]
   }
 }

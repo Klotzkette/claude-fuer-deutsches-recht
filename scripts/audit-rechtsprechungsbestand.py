@@ -25,9 +25,17 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--include-files", action="store_true", help="Vollständige Dateiliste für lokale Detailanalyse einschließen")
+    parser.add_argument("--baseline-inventory", type=Path, help="Früheres bestand.json statt der Ausgangssnapshots vom 25.09.2026 vergleichen")
     args = parser.parse_args()
-    old_profiles = {x["plugin"]: x for x in json.loads((BASELINE / "profile-snapshot.json").read_text())}
-    old_prompts = {x["path"]: x for x in json.loads((BASELINE / "prompt-snapshot.json").read_text())}
+    if args.baseline_inventory:
+        previous = json.loads(args.baseline_inventory.read_text())["plugins"]
+        old_profiles = {x["plugin"]: {"sha256": x["profile_sha256"]} for x in previous}
+        old_prompts = {x["path"]: x for plugin in previous for x in plugin["prompt_files"]}
+        baseline_label = args.baseline_inventory.as_posix()
+    else:
+        old_profiles = {x["plugin"]: x for x in json.loads((BASELINE / "profile-snapshot.json").read_text())}
+        old_prompts = {x["path"]: x for x in json.loads((BASELINE / "prompt-snapshot.json").read_text())}
+        baseline_label = "2026-09-25"
     market = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())
     rows = []
     for plugin in sorted(market["plugins"], key=lambda x: x["name"]):
@@ -66,7 +74,7 @@ def main() -> None:
                      "prompt_files": [f for f in file_rows if "/skills/" not in f["path"] and "/references/" not in f["path"]],
                      **({"files": file_rows} if args.include_files else {})})
     data = {"method": "automated_inventory_and_baseline_diff_not_legal_verification",
-            "baseline": "2026-09-25", "plugin_count": len(rows),
+            "baseline": baseline_label, "plugin_count": len(rows),
             "file_count": sum(x["files_scanned"] for x in rows),
             "limits": "Aktenzeichen-Erkennung ist heuristisch; weder Vollständigkeit noch Gültigkeit oder Entscheidungsjahr folgen aus einem Treffer. Unveränderte Dateien behalten nur ihren früher dokumentierten Prüfstatus. Quellenprüfung und 2026-Recherche stehen getrennt in den Fachberichten.",
             "plugins": rows}

@@ -51,14 +51,14 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 
 - **Ein Monat ab Beschlussfassung**
 - Frist absolut — keine Wiedereinsetzung außer bei nicht-Verschulden
-- **Begründung** bis zum Ablauf der Frist erforderlich (im Zweifel form-formuliert dann ausformulieren)
+- **Begründung binnen zwei Monaten ab Beschlussfassung**; beide Fristen stehen in Paragraf 45 Satz 1 WEG. Kein zusätzlicher Zweimonatszeitraum nach Klageerhebung. Wiedereinsetzung nach Satz 2 in Verbindung mit Paragrafen 233 bis 238 ZPO gesondert prüfen.
 
 ## Schritt 3 — Formelle Anfechtungsgründe
 
 ### Einberufung
 
 - **Frist § 24 Abs. 4 S. 2 WEG n.F.** drei Wochen vor Versammlung (seit WEMoG 1.12.2020; davor zwei Wochen)
-- **Form** schriftlich (Brief E-Mail mit Zustimmung)
+- **Form** Textform nach Paragraf 24 Absatz 4 WEG; eine E-Mail bedarf dafür keiner zusätzlichen allgemeinen Zustimmung.
 - **Inhalt** Tagesordnung Zeit Ort
 
 ### Tagesordnung
@@ -89,7 +89,7 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 ### Protokoll § 24 Abs. 6 WEG
 
 - Schriftlich
-- Verwalter Verfahrens-Beirat oder zwei Eigentümer Unterschrift
+- Unterschriften des Vorsitzenden, eines Wohnungseigentümers und, wenn ein Beirat bestellt ist, dessen Vorsitzenden oder Vertreters (Paragraf 24 Absatz 6 WEG).
 
 ## Schritt 4 — Materielle Anfechtungsgründe
 
@@ -201,17 +201,11 @@ Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft 
 
 - WEG §§ 5 9a 14 16 19 20 24 25 26 28 29 43 44 45
 - BGB §§ 134 138 242
-- GKG § 49a
+- GKG § 49
 - BGH V. Zivilsenat nur mit Datum, Aktenzeichen und frei prüfbarer Quelle
 
-## Aktuelle Rechtsprechung — Leitsaetze (Stand 05/2026, verifiziert dejure.org)
+## Geprüfter Rechtsprechungsanker zur Beschlussklage
 
-- **BGH 16.07.2021, V ZR 284/19**: WEMoG-Uebergangsrecht — auch nach WEG-Reform 01.12.2020 ist die Wohnungseigentuemergemeinschaft prozessual aktiv-/passivlegitimiert (§ 9a Abs. 2 WEG n.F.). Quelle: dejure.org/2021,25770.
-- **BGH 17.09.2021, V ZR 12/21**: Bauliche Veraenderungen (§ 20 WEG n.F.) — Mehrheitsbeschluss genuegt; Anspruch des bauwilligen Eigentuemers gegen die GdW auf Beschlussfassung. Quelle: dejure.org/2021,30989.
-- **BGH 10.07.2020, V ZR 234/19**: Beschlussanfechtung — strikt einzuhaltende Klagefrist 1 Monat nach Beschlussfassung (§ 45 WEG n.F. / § 46 a.F.); materielle Ausschlussfrist. Quelle: dejure.org/2020,21566.
-- **BGH 27.10.2023, V ZR 43/23**: Anforderungen an ordnungsgemaesse Verwaltung; Beschluss über Sonderumlage muss verhaeltnismaessig und sachlich begruendet sein. Quelle: dejure.org/2023,30420.
-- **BGH 13.01.2023, V ZR 43/22**: Stimmrecht und Beschlussfaehigkeit nach WEMoG; Mehrheitsprinzip § 25 WEG n.F. — keine besondere Beschlussfaehigkeitsschranke mehr. Quelle: dejure.org/2023,1112.
+Für die Beklagtenbezeichnung gilt [BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1), Rn. 10–17 und 20–29: Beschlussklagen seit dem 1. Dezember 2020 gegen die Gemeinschaft der Wohnungseigentümer richten. Die Benennung der übrigen Eigentümer wahrt die Monatsfrist grundsätzlich nicht. Eine Auslegung als Klage gegen die Gemeinschaft setzt einen zweifelsfreien Willen im übrigen Klageinhalt voraus; die zusätzliche Nennung des Verwalters genügt nicht. Prüfe daher Rubrum und vollständige Klageschrift vor Fristablauf. Anfechtung und Nichtigkeit betreffen denselben Streitgegenstand; unterschiedliche Fristenfolgen bleiben bestehen. Das Urteil enthält keinen allgemeinen Rechtssatz zur Beschlussfähigkeit oder zu Sonderumlagen.
 
-**Gesetzeslage 2026:** WEMoG vom 16.10.2020 (BGBl. I 2187) in Kraft seit 01.12.2020 — Verfahrensrecht §§ 43-45 WEG, materielle Anforderungen §§ 18-21 WEG (bauliche Veraenderungen, Verwaltung).
-
-Weitere Entscheidungen vor Ausgabe per dejure.org / bundesgerichtshof.de verifizieren.
+Für bauliche Veränderungen sind Beschlusskompetenz, Gestattungsanspruch und Kostentragung nach Paragrafen 20 und 21 WEG gesondert zu prüfen. Der zuvor genannte Anker „17.09.2021, V ZR 12/21“ konnte nicht amtlich verifiziert werden und wird nicht als Beleg verwendet. Für Sonderumlagen sind konkreter Beschluss, Finanzbedarf, Verteilung und ordnungsmäßige Verwaltung zu prüfen; V ZR 43/23 betrifft stattdessen Grundstückskauf und Terrassendach. V ZR 234/19 vom 11.06.2021 betrifft Baumüberhang, nicht die Klagefrist. Der bisher pauschale Übergangsverweis V ZR 284/19 wird hier nicht als Beleg einer allgemeinen Aktiv-/Passivlegitimation verwendet; seine Reichweite vor Verwendung gesondert prüfen.

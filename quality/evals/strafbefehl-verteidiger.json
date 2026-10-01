@@ -52,11 +52,36 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__411.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Text zum besonderen Beschlussverfahren, den Zustimmungen, Vertretung und fehlender allgemeiner Bindung an den Strafbefehl gelesen."
+    },
+    {
+      "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-17546?hl=true",
+      "checked_on": "2026-10-01",
+      "supports": "LG Nürnberg-Fürth, Beschluss vom 24.07.2026, 12 Qs 43/26, Rn. 9–13. Amtlichen Volltext gelesen. Anwendung: Fehlende Tatbezeichnung und angewendete Vorschriften nach Rechtskraft nicht ergänzen, wenn der tatsächlich beschlossene rechtliche Inhalt unklar bleibt; bloßes Schreibversehen von neuer rechtlicher Bewertung unterscheiden. Grenze: Keine automatische Nichtigkeit oder Aufhebung; Beschluss über Beschwerde gegen abgelehnte Berichtigung. Einspruch/Wiedereinsetzung und revisionsgerichtliche Korrektur haben eigene Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__407.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Verfahrensarten, aktueller abschließender Sanktionskatalog, Verteidigung bei Freiheitsstrafe und keine notwendige vorherige gerichtliche Anhörung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__408.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Zuständigkeitsweg, Ablehnung mangels hinreichenden Tatverdachts und Hauptverhandlung bei Bedenken."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__408b.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Verteidigerbestellung bei beantragter Freiheitsstrafe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stpo/__409.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen Normtext gelesen: Pflichtinhalt einschließlich Tat, Vorschriften, Rechtsfolgen und Belehrung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
     "changes": [
       "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
       "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
@@ -64,15 +89,16 @@
       "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
       "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
-      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt."
+      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
+      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "f5cc86755f8c193e12f610dc8c1fdd35b43100dbf39b3f9bada60ee2e9e52754",
-    "reviewed_on": "2026-09-23",
+    "sha256": "c5d52c75889264377326eb4769dff4dbf855282e4f4f492e02e30bfb735fa770",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
     "changes": [
       "Allgemeine Anfangsvollmacht nicht als ausdrückliche konkrete Verzichtsermächtigung behandelt; keine notwendige Schriftform erfunden.",
       "Kenntnis des Strafbefehls nicht mit Wegfall jedes Hindernisses gleichgesetzt; Tatsachen und Handlungswege prüfen.",
@@ -80,10 +106,11 @@
       "Leerstart: fristwahrender Einspruch, Tagessatzhöhe oder Tatverteidigung wählen.",
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
       "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
-      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt."
+      "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
+      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
     ],
-    "sha256": "674db587d008559cf5430405d72b943b8c49ef2d1afb2fcc6757c6feeb802115",
-    "reviewed_on": "2026-09-23",
+    "sha256": "ae8bf5dd95ed6568ac39e1ec039777e8d80c108d43768368b243e5b5bb42c6bd",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -131,10 +158,11 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md",
-      "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md"
+      "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md",
+      "strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407/SKILL.md"
     ],
     "opening_change": "Wirksame Zustellung und verbleibenden Einspruchsumfang vor Tatnachweis, Tagessätzen und Nebenfolgen bestimmen.",
     "norms": [
@@ -146,13 +174,21 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/rk20260715_2bvr135123.html",
         "application": "Tatsächliches Hindernis bei behaupteter Zwangslage in philippinischer Abschiebehaft prüfen, nicht allein Dokumentkenntnis; Verteidigerverzicht erfordert ausdrückliche konkrete Ermächtigung statt bloßer allgemeiner Anfangsvollmacht.",
         "limit": "Zurückverweisung, keine automatische Wiedereinsetzung bei Auslandsinhaftierung; Ermächtigung kann mündlich erteilt werden. Frist, Verschulden, Tatsachenvortrag, Glaubhaftmachung und Nachholung bleiben gesondert."
+      },
+      {
+        "citation": "LG Nürnberg-Fürth, Beschluss vom 24.07.2026, 12 Qs 43/26, Rn. 9–13",
+        "url": "https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-17546?hl=true",
+        "application": "Fehlende Tatbezeichnung und angewendete Vorschriften nach Rechtskraft nicht ergänzen, wenn der tatsächlich beschlossene rechtliche Inhalt unklar bleibt; bloßes Schreibversehen von neuer rechtlicher Bewertung unterscheiden.",
+        "limit": "Keine automatische Nichtigkeit oder Aufhebung; Beschluss über Beschwerde gegen abgelehnte Berichtigung. Einspruch/Wiedereinsetzung und revisionsgerichtliche Korrektur haben eigene Voraussetzungen.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Desk- und Primärquellenreview, kein Live-Client- oder Modelltest.",
       "BVerfG hat zur weiteren Prüfung zurückverwiesen, keine Wiedereinsetzung generell gewährt.",
       "Weitere Zustellungs-, Aufnahme-, Register- und Aufenthaltsfolgen nicht umfassend neu verifiziert.",
-      "Workflow-Vertiefung 2026-09-23: BVerfG 2 BvR 1351/23 und die vorhandene Prüfung der elektronischen Einreichungspflicht bleiben mit ihren Grenzen erhalten. Keine automatische Wiedereinsetzung oder umfassende neue Register-, Aufenthalts- und Fahrerlaubnisfolgenprüfung. Desk review; keine Live-Client-Ausführung."
+      "Workflow-Vertiefung 2026-09-23: BVerfG 2 BvR 1351/23 und die vorhandene Prüfung der elektronischen Einreichungspflicht bleiben mit ihren Grenzen erhalten. Keine automatische Wiedereinsetzung oder umfassende neue Register-, Aufenthalts- und Fahrerlaubnisfolgenprüfung. Desk review; keine Live-Client-Ausführung.",
+      "Enger Quellenabgleich 01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

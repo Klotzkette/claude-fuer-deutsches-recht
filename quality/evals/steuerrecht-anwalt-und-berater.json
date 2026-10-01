@@ -52,39 +52,46 @@
       "url": "https://www.gesetze-im-internet.de/ao_1977/__162.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlich indexierte Passage zur Berücksichtigung aller bedeutsamen Schätzungsumstände geprüft; direkter Abruf nicht erreichbar. Bestehende Volltextprüfung vom 22.09.2026 nicht als neu durchgeführt ausgegeben."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
+      "checked_on": "2026-10-01",
+      "supports": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33. Amtlichen Volltext gelesen. Anwendung: Bereits fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs verletzt die Regeln zur Methodenwahl. Vorhandene Einkaufs-, Bestands- und Preisdaten mit Richtsatzrechnung vergleichen und übergangenen Rechenweg benennen. Grenze: Schätzungsbefugnis blieb bestehen; kein Nullzuschlag oder automatische Anerkennung der Gegenrechnung. Rn. 34–37 zu Frostverderb, Zeugenverzicht/Amtsermittlung und Richtsatzkritik sind ausdrücklich Hinweise für den zweiten Rechtsgang."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
       "Nicht tragende Richtsatzkritik und historische Kassenanforderungen von geltenden Paragrafen 158 und 162 AO getrennt.",
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
-      "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt."
+      "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "0e04fcfdae3d55c5587acefea0b70b79ca863c25c3674a4648230c9baa24f79a",
-    "reviewed_on": "2026-09-23",
+    "sha256": "3f9c84da2e5dd5669eea0c6e3d056ef94130b7dfab9e87522e63229194475bf2",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem-Prompt und Fokus-Skill vollständig einzeln gelesen und auf Gegenkalkulation, Startverhalten und konsistente Fortsetzung abgestimmt. Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
+    "reason": "Begrenzter Quellenabgleich der fachbezogenen Einfügung und ihres Zusammenhangs am 01.10.2026. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
       "Nicht tragende Richtsatzkritik und historische Kassenanforderungen von geltenden Paragrafen 158 und 162 AO getrennt.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
-      "Leere Eingabe, Dateien ohne Auftrag und klaren Auftrag im Fokus und zugehörigen Skill getrennt behandelt."
+      "Leere Eingabe, Dateien ohne Auftrag und klaren Auftrag im Fokus und zugehörigen Skill getrennt behandelt.",
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
     "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
-    "prompt_sha256": "4d6ccf4bb4cd73c8d64bae031e3a480c10705de188472cbaa6025ad560aa7041",
+    "prompt_sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
     "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
-    "skill_sha256": "6b6fad6ff7521c21800ab84e938374e88f30d9f2dc770eac1b922262121493c4"
+    "skill_sha256": "22d17b76ad483dd882ebab88d40fa98ed8b4af8ac4134c9952da86dbc6c3548c"
   },
   "selection": {
     "positive": [
@@ -188,21 +195,22 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
     "changes": [
       "X R 19/21 in alle drei Prompts und Fokus-Skill mit genauerem Betriebsvergleich bei zumutbarem Aufwand eingebunden.",
       "Fehlende Rezepturen nicht zugunsten des Betriebs verwertet; kein automatischer Anspruch auf zweite Schätzung.",
       "Nicht tragende Richtsatzkritik und historische Kassenanforderungen von geltenden Paragrafen 158 und 162 AO getrennt.",
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
-      "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt."
+      "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
     ],
-    "sha256": "f44c2536a3a352ef1ea3fb165ac0ad11ddf2f580405679bdd1449db6d9ab09e8",
-    "reviewed_on": "2026-09-23",
+    "sha256": "2c01d835bd0224adf20aa34186f044fbd99632a771562db427bde0cd2e295110",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
@@ -223,12 +231,20 @@
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
         "application": "Bei Hinzuschätzung eine mit zumutbarem Aufwand genauere betriebsinterne Kalkulation anhand Warenbestand, Rezepturen, Mengen und zeitgleichen Preisen prüfen. Ihre Ablehnung muss begründet werden; fehlende Rezepturen wirken nicht zugunsten des Betriebs.",
         "limit": "Kein freies Wahlrecht der Behörde und kein genereller Anspruch auf zweite Methode. Kritik an der Richtsatzsammlung war nicht tragender Entscheidungsgrund; historische Kassenregeln nicht als heutige Fassung ausgeben."
+      },
+      {
+        "citation": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
+        "application": "Bereits fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs verletzt die Regeln zur Methodenwahl. Vorhandene Einkaufs-, Bestands- und Preisdaten mit Richtsatzrechnung vergleichen und übergangenen Rechenweg benennen.",
+        "limit": "Schätzungsbefugnis blieb bestehen; kein Nullzuschlag oder automatische Anerkennung der Gegenrechnung. Rn. 34–37 zu Frostverderb, Zeugenverzicht/Amtsermittlung und Richtsatzkritik sind ausdrücklich Hinweise für den zweiten Rechtsgang.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "Prüfung der Schätzung und aktuellen Paragrafen 158/162 AO; keine neue Vollverifikation sämtlicher materieller Steuerarten, DBA oder Strafverteidigungsfragen.",
-      "Workflow-Vertiefung 2026-09-23: Keine neue Vollverifikation sämtlicher Steuerarten, DBA oder Steuerstrafrechtsfragen. BFH X R 19/21 und XI R 17/22 mit vorhandenen Anwendungsgrenzen erhalten; neue Zahlenbeispiele sind transparente Rechenbeispiele, keine tatsächlichen Betriebsfeststellungen. Desk review; keine Live-Client-Ausführung."
+      "Workflow-Vertiefung 2026-09-23: Keine neue Vollverifikation sämtlicher Steuerarten, DBA oder Steuerstrafrechtsfragen. BFH X R 19/21 und XI R 17/22 mit vorhandenen Anwendungsgrenzen erhalten; neue Zahlenbeispiele sind transparente Rechenbeispiele, keine tatsächlichen Betriebsfeststellungen. Desk review; keine Live-Client-Ausführung.",
+      "Enger Quellenabgleich 01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

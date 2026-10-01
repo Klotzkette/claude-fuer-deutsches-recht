@@ -24,7 +24,7 @@ Der optionale [Quellenprüfvermerk](references/historische-quellenpruefung.md) e
 
 1.3.4. Eine historische Entschädigungsregel beweist für sich weder ihre Anwendung auf einen bestimmten Schaden noch einen heutigen Anspruch. Entstehung, späteres Zwischenrecht und heutige Durchsetzbarkeit als getrennte Fragen behandeln.
 
-1.3.5. Bei Aufopferung Einleitung Paragrafen 74 und 75 PrALR als historischen Ausgangspunkt lesen. BGH, Urteil vom 07.09.2017, [III ZR 71/17](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2017-9&nr=79600&linked=urt&Blank=1&file=dokument.pdf), amtlicher Leitsatz, erfasst beim allgemeinen Aufopferungsanspruch wegen Eingriffs in die körperliche Unversehrtheit auch immaterielle Nachteile. Das belegt eine spätere Fortentwicklung, nicht denselben Anspruchsumfang im Jahr 1794. Historische Falllösung und heutige Anspruchsprüfung dürfen deshalb zu unterschiedlichen Fragen und Ergebnissen führen.
+1.3.5. Bei Aufopferung Einleitung Paragrafen 74 und 75 PrALR als historischen Ausgangspunkt lesen. BGH, Urteil vom 07.09.2017, [III ZR 71/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2017/III_ZR__71-17.pdf?__blob=publicationFile&v=1), amtlicher Leitsatz, erfasst beim allgemeinen Aufopferungsanspruch wegen Eingriffs in die körperliche Unversehrtheit auch immaterielle Nachteile. Das belegt eine spätere Fortentwicklung, nicht denselben Anspruchsumfang im Jahr 1794. Historische Falllösung und heutige Anspruchsprüfung dürfen deshalb zu unterschiedlichen Fragen und Ergebnissen führen.
 
 ## 1.4. Ergebnis ausarbeiten und nach Quellenzugang fortsetzen
 

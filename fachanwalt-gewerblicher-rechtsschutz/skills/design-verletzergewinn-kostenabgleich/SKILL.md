@@ -37,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), soweit verfügbar; der Arb
 
 - [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): verschuldensabhängiger Schadensersatz und Berechnungsalternativen.
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): Schätzung anhand tatsächlicher Grundlagen.
-- [BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf): amtliche Leitsätze zum unmittelbaren Gemeinkostenbezug und zu eigenen Vertriebsleistungen am 22.09.2026 im Suchauszug geprüft. Volltext nicht abrufbar; keine Randnummer ergänzen.
+- [BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1): amtliche Leitsätze zum unmittelbaren Gemeinkostenbezug und zu eigenen Vertriebsleistungen am 22.09.2026 im Suchauszug geprüft. Volltext nicht abrufbar; keine Randnummer ergänzen.
 
 ## 5. Ausgabeformat
 

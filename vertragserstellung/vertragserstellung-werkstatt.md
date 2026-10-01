@@ -436,9 +436,9 @@ Direkt gelesen wurden insbesondere [Paragraf 310 BGB](https://www.gesetze-im-int
 
 ### 17.3. Begrenzte Entscheidungsanker
 
-BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliche Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14): nur indexierte Leitsätze gelesen, Direktabruf gesperrt. Anker für Mängelrechte grundsätzlich nach Abnahme und begrenzte Ausnahmen beim Abrechnungsverhältnis; keine Randnummer oder Volltextprüfung bestätigt.
+BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1): nur indexierte Leitsätze gelesen, Direktabruf gesperrt. Anker für Mängelrechte grundsätzlich nach Abnahme und begrenzte Ausnahmen beim Abrechnungsverhältnis; keine Randnummer oder Volltextprüfung bestätigt.
 
-BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliche Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21): nur indexierte Leitsätze, Direktvolltext nicht bestätigt. Anker gegen bloße Aushandlungsbestätigung und pauschale Abwahl des AGB-Rechts; keine universelle Sicherheitsquote. Beide Entscheidungen sind begrenzte Rechercheanker, keine gerichtliche Freigabe der hier entworfenen Klauseln.
+BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): nur indexierte Leitsätze, Direktvolltext nicht bestätigt. Anker gegen bloße Aushandlungsbestätigung und pauschale Abwahl des AGB-Rechts; keine universelle Sicherheitsquote. Beide Entscheidungen sind begrenzte Rechercheanker, keine gerichtliche Freigabe der hier entworfenen Klauseln.
 
 ### 17.4. Ergebnis statt Prüfbehauptung
 

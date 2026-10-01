@@ -19,7 +19,7 @@
       "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 4 Absatz 1 AMVV; Paragraf 17 Absatz 5 ApBetrO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_123-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 08.01.2015, I ZR 123/13: Bei Abgabe ohne schriftliche Verschreibung ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose verlangen; Notstand nur bei akuter anders nicht abwendbarer erheblicher Gefahr. Grenze/Prüftiefe: Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis."
     },
@@ -30,7 +30,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "937ff7f4e5b5c46bd3c4fa2dcdd5e0b4fcddd0e38eff4cd75097397362b6c840",
+    "sha256": "ffce5b2abee2a27d10a1cbc9761c3f316144cca4051a192355daff4cc834ea6b",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
@@ -49,7 +49,7 @@
       "Positionsbezogene Retaxation, ärztliche Mitteilung bei fehlendem Rezept und Herstellungsnachweise mit getrennten Sicherheits- und Versandfreigaben.",
       "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
     ],
-    "sha256": "e72467dfb4dd25170484393f46a5fb027c74aae9fded18ed424aba4c562ff676"
+    "sha256": "508918b1945af94bafcd6c9af559d4cb1bfc3b3570fc95eb11ee9389d7cac4a6"
   },
   "selection": {
     "positive": [
@@ -123,7 +123,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 08.01.2015, I ZR 123/13",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_123-13.pdf?__blob=publicationFile&v=1",
         "application": "Bei Abgabe ohne schriftliche Verschreibung ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose verlangen; Notstand nur bei akuter anders nicht abwendbarer erheblicher Gefahr.",
         "limit": "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis."
       }
@@ -132,6 +132,18 @@
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. I ZR 123/13 weiterhin nur im vorhandenen Leitsatzumfang b/c; konkrete Retaxvertragsfassungen und pharmazeutische Befunde nicht durch Musterworkflow ersetzt."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_123-13.pdf?__blob=publicationFile&v=1",
+        "sha256": "4c8933287b7d46cfa49a524f5b7350f5c917a82107e2c35b6d0138f1ae0010e7"
+      }
     ]
   }
 }

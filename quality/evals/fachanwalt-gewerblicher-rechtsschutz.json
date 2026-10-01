@@ -29,7 +29,7 @@
       "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98: amtliche Leitsätze im Suchauszug zur unmittelbaren Gemeinkostenzurechnung und eigenen Vertriebsleistung gelesen. Direkter Volltextabruf mit Zugriffssperre; keine Volltext- oder Randnummernverifikation behauptet."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze. Anwendung: Kostenabzug erfordert unmittelbare Zuordnung zur Verletzungsproduktion; Gemeinkosten nicht automatisch vom Verletzergewinn abziehen. Grenze und Prüfzugang: Historische Anspruchsnorm; heutige Grundlage Paragraf 42 DesignG und gesonderte Kausalitätsquote prüfen. Amtlicher indexierter Leitsatz geprüft, Volltextabruf gesperrt."
     },
@@ -63,7 +63,7 @@
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "21b156e6b3ded68f5301b591314de2dfedcf008ca67bfadc5d139b1e05f28a20"
+    "sha256": "1b68d3fd73517071a637b8279186fe9393c6948657ce50671e6295fdcd0a9760"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -77,9 +77,9 @@
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
-    "prompt_sha256": "c600b3f60cbac924cc411b11de31759986cb6451701bddbbe0a92a91880c2813",
+    "prompt_sha256": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae",
     "skill_path": "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
-    "skill_sha256": "ff1e5b57ef92cbdad0b0f1c0e8d125df195872f8c90669ac0e28cbaee656d50e"
+    "skill_sha256": "90db02f8fafc1a37f2d3b0e6abb1094d885eb983d08fa4ba1ae7be9384dc7ed7"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -90,7 +90,7 @@
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen."
     ],
-    "sha256": "2772e48225425367ccb08c0369780c169bb9538511d09e001a401d7b21c179f9"
+    "sha256": "61b5fab4f60fdcb900fa671a90cebe1c4b530c9b8eb60e715207391f20d521cd"
   },
   "selection": {
     "positive": [
@@ -164,7 +164,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1",
         "application": "Kostenabzug erfordert unmittelbare Zuordnung zur Verletzungsproduktion; Gemeinkosten nicht automatisch vom Verletzergewinn abziehen.",
         "limit": "Historische Anspruchsnorm; heutige Grundlage Paragraf 42 DesignG und gesonderte Kausalitätsquote prüfen. Amtlicher indexierter Leitsatz geprüft, Volltextabruf gesperrt."
       },
@@ -193,5 +193,17 @@
     "continuation": "Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn.",
     "enrichment": "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1",
+        "sha256": "aee8ef9d138e6ae97147968ff25536a905a7ed7aa6bd34d53c908e8c9c1aef83"
+      }
+    ]
   }
 }

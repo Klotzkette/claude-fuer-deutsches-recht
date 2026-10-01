@@ -29,12 +29,12 @@
       "supports": "Amtlich indexierter Paragraf 310 Absatz 1: Paragraf 309 nicht unmittelbar im Unternehmerverkehr anwendbar; differenzierter AGB-Maßstab."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr. Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Vertragsstrafenklausel im Einheitspreisvertrag nach Bezugsgröße und Obergrenze prüfen, keine pauschale Freigabe wegen Fünf-Prozent-Angabe. Konkrete AGB-Klausel eines Einheitspreisvertrags; keine allgemeine Obergrenze für alle Vertragstypen. Amtlich indexierter Leitsatz geprüft."
     },
@@ -55,7 +55,7 @@
       "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt.",
       "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
     ],
-    "sha256": "71e9669c70b029e2e8518646c0af3374555a93872846ac8d508774b5929afe1f",
+    "sha256": "70b1f57200a4537d5627fee0f37da44ebe5971126ca1a2a30451950fbdb923ca",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -112,7 +112,7 @@
       "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung.",
       "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
     ],
-    "sha256": "5660f1f5890b98c11eecfc4f638229f0e5277cfb530f869edf1fdf4c43fa0e29",
+    "sha256": "91ef5ef1170ccc5b416b7adaa310c3019fdec0067bbe2c05904f5803182fd294",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
@@ -141,19 +141,36 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
         "application": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr.",
         "limit": "Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
       },
       {
         "citation": "BGH, Urteil vom 15. Februar 2024, VII ZR 42/22, amtlicher Leitsatz",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
         "application": "Vertragsstrafenklausel im Einheitspreisvertrag nach Bezugsgröße und Obergrenze prüfen, keine pauschale Freigabe wegen Fünf-Prozent-Angabe.",
         "limit": "Konkrete AGB-Klausel eines Einheitspreisvertrags; keine allgemeine Obergrenze für alle Vertragstypen. Amtlich indexierter Leitsatz geprüft."
       }
     ],
     "remaining_limits": [
       "Keine Live-Modellprüfung oder technische Exportprüfung durchgeführt; fallbezogene weitere Rechtsprechung bleibt zu prüfen."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+        "sha256": "a1a1aa3afabacdb33291a2cbdc7d3755ee3fecbe7534b44c70a83f490c0a7f37"
+      }
     ]
   }
 }

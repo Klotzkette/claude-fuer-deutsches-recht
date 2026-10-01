@@ -20,7 +20,7 @@ Führe „Merkmal / Vortrag / Gegenposition / Beweislast / Beleg oder Beweisange
 
 ## 1.3. Berufungsprüfung
 
-Bei korrigierter Rechnung oder geändertem Sachvortrag BGH, Beschluss vom 20.11.2024, VII ZR 191/23, Rn. 10 bis 14 ([amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256)), beachten: Erheblichen Beweis nicht erst davon abhängig machen, dass der Grund des Vortragswechsels bewiesen wird. Widersprüche gehören gegebenenfalls in die Würdigung nach Paragraf 286 ZPO; ihr vorschnelles Ausscheiden verletzt Artikel 103 Absatz 1 GG. Der Beschluss bestätigt keine Rechnungsposition und beseitigt nicht die gesondert zu prüfenden Berufungs- und Präklusionsregeln.
+Bei korrigierter Rechnung oder geändertem Sachvortrag BGH, Beschluss vom 20.11.2024, VII ZR 191/23, Rn. 10 bis 14 ([amtliche Entscheidung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_191-23.pdf?__blob=publicationFile&v=1)), beachten: Erheblichen Beweis nicht erst davon abhängig machen, dass der Grund des Vortragswechsels bewiesen wird. Widersprüche gehören gegebenenfalls in die Würdigung nach Paragraf 286 ZPO; ihr vorschnelles Ausscheiden verletzt Artikel 103 Absatz 1 GG. Der Beschluss bestätigt keine Rechnungsposition und beseitigt nicht die gesondert zu prüfenden Berufungs- und Präklusionsregeln.
 
 Erfasse Beschwer, Zulassung, Einlegung, Begründung und konkreten Angriff gegen jeden tragenden Urteilsgrund. Prüfe die Bindung an Feststellungen nach Paragraf 529 ZPO und konkrete Zweifel, statt den gesamten Fall kommentarlos neu aufzurollen.
 

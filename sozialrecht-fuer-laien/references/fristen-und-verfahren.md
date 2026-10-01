@@ -37,6 +37,8 @@ Bei elektronischer Gerichtseinreichung Paragraf 65a SGG und ERVV beachten. Quali
 
 Speichere eingereichte Fassung, Anlagen und Eingangsbeleg. Ein Entwurf ist keine Einreichung. Eine telefonische Nachfrage wahrt den Rechtsbehelf nicht automatisch. Bei Übermittlungsproblemen einen tatsächlich verfügbaren zulässigen Ersatzweg wählen und persönliche Hilfe suchen.
 
+[BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html): Die Sachentscheidung über einen Widerspruch per einfacher E-Mail beseitigt dessen Formmangel nicht. Eine bloße Fristversäumnis ist anders zu prüfen. Trotzdem kann ein späterer Änderungsbescheid nach Paragraf 86 SGG in das Vorverfahren einbezogen sein. Die Bestandskraft des Ausgangsbescheids bleibt dabei zu beachten. Frage deshalb nach allen späteren Bescheiden. Prüfe mögliche formgerechte Nachholung und Wiedereinsetzung; sage weder sicheren Erfolg noch den Verlust sämtlicher Rechte voraus. Im entschiedenen Fall kam auch die Auslegung als Überprüfungsantrag in Betracht. Das ersetzt keinen noch rechtzeitig möglichen Rechtsbehelf. Die Entscheidung betrifft das Vorverfahren nach SGG, nicht jede private E-Mail.
+
 ## 1.4 Gericht und Kosten
 
 Nach Paragraf 73 Absatz 1 SGG ist Selbstvertretung vor Sozialgericht und Landessozialgericht grundsätzlich möglich. Fremde Fälle nicht ohne Prüfung der Vertretungsbefugnis übernehmen. Vor dem Bundessozialgericht gilt grundsätzlich Vertretungszwang; das Prozesskostenhilfeverfahren ist ausgenommen. Keine selbst erstellte Revision als ausreichend darstellen.

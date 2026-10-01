@@ -14,12 +14,12 @@
       "supports": "Anforderungen an elektronische Form und gleichlautende elektronisch signierte Vertragsdokumente."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr. Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=140942",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR__32-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Einfamilienhausbegriff und entsprechendes Provisionsrecht bei Vertragsschluss durch einen Dritten abgrenzen. Kein Nachweis, dass eine bestimmte E-Mail Textform oder Vertragsschluss erfüllt; amtliche Leitsätze geprüft."
     },
@@ -65,7 +65,7 @@
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
       "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
     ],
-    "sha256": "d9c19e044d3eb8f4d0d05025f66e7747ee2d7aff21bd652969e68a0af60bc8a7",
+    "sha256": "e1d039883b17ea7103d5f36fa367aaad76192041a11602895a5167c7305be5fc",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -80,7 +80,7 @@
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
       "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
     ],
-    "sha256": "3d761b42f9d8478c95229f4cdd0a40fc9fe38d9e94122b936279a715f1960487",
+    "sha256": "79bbbed7a8816a2bb2045f336f5c255f92d585f1147c024c446acf845b0be063",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -176,13 +176,13 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
         "application": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr.",
         "limit": "Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
       },
       {
         "citation": "BGH, Urteil vom 6. März 2025, I ZR 32/24, amtliche Leitsätze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=140942",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR__32-24.pdf?__blob=publicationFile&v=1",
         "application": "Einfamilienhausbegriff und entsprechendes Provisionsrecht bei Vertragsschluss durch einen Dritten abgrenzen.",
         "limit": "Kein Nachweis, dass eine bestimmte E-Mail Textform oder Vertragsschluss erfüllt; amtliche Leitsätze geprüft."
       }
@@ -203,5 +203,22 @@
     "continuation": "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
     "enrichment": "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+        "sha256": "a1a1aa3afabacdb33291a2cbdc7d3755ee3fecbe7534b44c70a83f490c0a7f37"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=140942",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR__32-24.pdf?__blob=publicationFile&v=1",
+        "sha256": "cfb33f8978c6109cb617028898a5e7441f4fd2613c20f3a08e51a285215886b9"
+      }
+    ]
   }
 }

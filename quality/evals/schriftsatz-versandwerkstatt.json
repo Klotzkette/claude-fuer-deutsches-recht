@@ -14,7 +14,7 @@
       "supports": "Amtlichen Text zu Paragraf 130a Absatz 3 und 5 ZPO gelesen; Bezug: Bestätigte Fassung technisch herstellen und ihren tatsächlichen Eingang kontrollieren. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Eingangsbestätigung der tatsächlich freigegebenen Endfassung über sinnvollen Dateinamen und Inhaltsvergleich zuordnen. Amtlicher Leitsatz gelesen, Volltextzugriff gestört. Kein materieller Schriftsatzcheck; Dateiname und Status ersetzen Freigabe oder Signatur nicht."
     },
@@ -219,5 +219,17 @@
       "limit": "Organisationsanforderung an die Ausgangskontrolle; keine Anlagenstempelpflicht und keine materielle Prüfung. Amtlicher Volltext am 30.09.2026 in den Rn. 26–29 geprüft."
     },
     "limits": "Keine neue Gesamtprüfung aller Quellen oder Live-Modelltest."
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
+      }
+    ]
   }
 }

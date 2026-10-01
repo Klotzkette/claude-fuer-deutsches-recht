@@ -1,0 +1,72 @@
+{
+  "checked_on": "2026-10-01",
+  "downloads": [
+    {
+      "id": "v43-23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR__43-23.pdf?__blob=publicationFile&v=1",
+      "bytes": 178903,
+      "sha256": "b527ba21e271e4510b14d1daf59c82dce4cabca252afcecca2c52aedac79a7f0"
+    },
+    {
+      "id": "v43-22",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
+      "bytes": 197908,
+      "sha256": "4d294cb73471f054fa6fceac16fff307e6e3d7543a533eaafa7c7f7313e194f5"
+    },
+    {
+      "id": "viii50-23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
+      "bytes": 174603,
+      "sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999"
+    },
+    {
+      "id": "vii25-13",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR__25-13.pdf?__blob=publicationFile&v=1",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "id": "v234-19",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2019/V_ZR_234-19.pdf?__blob=publicationFile&v=1",
+      "bytes": 75275,
+      "sha256": "95395d8c733fbc0c49bdf9bae1d5b3a9fe3489afd060b4a4cd53199e75938805"
+    },
+    {
+      "id": "vii119-24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+      "bytes": 250734,
+      "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9"
+    }
+  ],
+  "passages": {
+    "vii119-24": {
+      "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+      "application": "Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden.",
+      "limit": "Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler.",
+      "passages": "Kopf/Leitsätze, Rn. 39–41 und 63–77"
+    },
+    "viii50-23": {
+      "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
+      "application": "§ 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen.",
+      "limit": "Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen.",
+      "passages": "Kopf/Leitsatz, Rn. 28–44; Tatbestand zur Einordnung"
+    },
+    "v43-22": {
+      "citation": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29",
+      "application": "Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend.",
+      "limit": "Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht.",
+      "passages": "Kopf/Leitsätze, Rn. 10–17 und 20–29"
+    },
+    "v43-23": {
+      "citation": "BGH, Urteil vom 27.10.2023 – Az. V ZR 43/23",
+      "application": "Identitäts-/Themenabgleich: Grundstückskauf und undichtes Terrassendach, kein Sonderumlagenanker. Falsche Zuordnung entfernt.",
+      "limit": "Hier nur Kopf, Leitsätze und Tatbestand gelesen; keine neue Anwendung des Kaufrechts im Plugin.",
+      "passages": "Kopf, Leitsätze und Rn. 1–3"
+    },
+    "v234-19": {
+      "citation": "BGH, Urteil vom 11.06.2021 – Az. V ZR 234/19",
+      "application": "Identitäts-/Themenabgleich: Selbsthilfe bei Baumüberhang nach § 910 BGB, kein Beleg für die WEG-Anfechtungsfrist. Falsches Datum 10.07.2020 und Zuordnung entfernt.",
+      "limit": "Nur Kopf, Leitsatz und Tatbestandsbeginn gelesen; kein materieller Nachbarrechtsupdate.",
+      "passages": "Kopf, Leitsatz und Rn. 1"
+    }
+  }
+}

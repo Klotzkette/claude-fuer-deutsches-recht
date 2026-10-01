@@ -17,7 +17,7 @@ Erfasse Versicherungsart, Antrag, beantragtes Hilfsmittel oder Behandlung, Besch
 
 1. Trenne gesetzliche Krankenversicherung, soziale Pflegeversicherung und private Versicherungsverträge. Nicht jeder Streit gehört zum Sozialgericht.
 2. Prüfe die konkrete Leistung. Ein Rollstuhl betrifft unter anderem Paragraf 33 SGB V; ein Pflegegrad die Selbstständigkeit nach Paragrafen 14 und 15 SGB XI. Ein Medikament wird nicht schon durch seinen hohen Preis rechtswidrig verweigert oder automatisch geschuldet.
-3. Vergleiche die Ablehnungsgründe mit belegten Einschränkungen. Frage konkret: „Welche Strecke schaffen Sie an einem normalen Tag? Welche Hilfe brauchen Sie dabei?“ Vermeide einen nur besonders guten oder schlechten Tag als Dauerzustand.
+3. Vergleiche die Ablehnungsgründe mit belegten Einschränkungen. Frage konkret: „Welche Strecke schaffen Sie an einem normalen Tag? Welche Hilfe brauchen Sie dabei?“ Bei Mobilität auch tatsächliche Alltagswege, Steigungen, eigene Restkräfte, sichere Nutzung und geeignete Alternativen belegen. Vermeide einen nur besonders guten oder schlechten Tag als Dauerzustand.
 4. Bei Pflege prüfe die einschlägigen Module. Diagnose, Alter und Wohnungszustand ersetzen keine Feststellungen zum jeweiligen Kriterium. Verweise für vertiefte Pflegefragen auf die vorhandenen Fachressourcen, ohne fehlende Installation vorzutäuschen.
 5. Warne vor eigenem Kauf oder Behandlungsvertrag in Erwartung späterer Erstattung. Prüfe Paragraf 13 SGB V mit zeitlichem Ablauf und Ablehnungsgrund. Eine verspätete Entscheidung allein sichert die gewünschte Sachleistung nicht.
 6. Erstelle Antragsergänzung oder Widerspruch; bei aktueller Gefahr zusätzlich den Eilweg. Liste nur medizinische Aussagen auf, die tatsächlich belegt sind.
@@ -25,6 +25,8 @@ Erfasse Versicherungsart, Antrag, beantragtes Hilfsmittel oder Behandlung, Besch
 ## 4. Quellenpflicht
 
 [Zitierweise](../../references/zitierweise.md) und [Quellen und Hilfe](../../references/quellen-und-hilfe.md). BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R zur Genehmigungsfiktion; BSG, Urteil vom 05.03.2026, B 3 P 5/24 R zur Pflegegradbewertung. Nutze den tatsächlichen Entscheidungssatz mit Grenzen, nicht bloß das Aktenzeichen als Dekoration.
+
+[BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html): Bei einem Zusatzantrieb für den Rollstuhl zählen die tatsächlichen Wege im Wohnumfeld. Frage: „Welche Wege brauchen Sie im Alltag? Gibt es Steigungen? Was schaffen Sie mit eigener Kraft?“ Auch Sicherheit, vorhandene Hilfsmittel und geeignete Alternativen sind zu prüfen. Ein Elektrorollstuhl ist nicht allein deshalb gleichwertig, weil er das Ziel ebenfalls erreicht. Die Nutzung eigener Restkräfte und die konkrete Umgebung bleiben wichtig. Daraus folgt kein Anspruch auf jedes Wunschmodell. Das BSG hat zur weiteren Aufklärung zurückverwiesen. Bei weitergehenden Sport- oder Freizeitinteressen ist auch ein anderer Rehabilitationsträger zu prüfen.
 
 ## 5. Ausgabeformat
 

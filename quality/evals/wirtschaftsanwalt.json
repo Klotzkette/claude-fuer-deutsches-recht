@@ -84,7 +84,7 @@
       "checked_on": "2026-09-23"
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
       "supports": "Amtlicher Suchauszug bestätigt BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, ECLI und Leitsatz. Direkter Webvolltextabruf erfolglos. Separat identifiziertes Repository-PDF lokal gelesen; Herkunft unten dokumentiert.",
       "checked_on": "2026-09-23"
     },
@@ -122,7 +122,7 @@
         "pages": 11
       },
       "provenance": "Bereits vor dieser Arbeit vorhandenes Urteils-PDF im gemeinsamen Repository; Deckblatt, Entscheidungsdaten, ECLI und vollständiger extrahierter Text gelesen. Metadaten und Leitsatz mit amtlichem Web-Suchauszug abgeglichen. Keine kryptografische amtliche Signatur oder Bytegleichheit mit einem aktuell heruntergeladenen Gerichtsoriginal behauptet.",
-      "official_reference": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+      "official_reference": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
       "scope": "Randnummern 12 bis 17 zur Darlegung der Zahlungsunfähigkeit; Randnummern 18 bis 22 betreffen alten Paragraf 64 GmbHG und sind keine heutige Haftungsfreigabe nach Paragraf 15b InsO.",
       "runtime_limit": "PDF nicht im Plugin mitgeliefert. Optionaler absoluter GitHub-Link im Quellenverzeichnis; Hauptworkflow setzt weder Nachbarplugin noch diesen Volltext voraus."
     }
@@ -148,7 +148,7 @@
       "Stimmverbote nicht auf sämtliche eigenen Organfragen erweitert; Quellenanker mit enger Reichweite.",
       "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke."
     ],
-    "sha256": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
+    "sha256": "b031bad40bdee894db75aacddd52af3b9553610369f3cf238e684cefef4318ea",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -193,7 +193,7 @@
       },
       {
         "citation": "BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, Randnummern 12 bis 17",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
         "application": "Identifiziertes lokales Urteils-PDF gelesen; aussagekräftige Liquiditätsstatus als Darlegungsmittel. Amtlicher Suchnachweis bestätigt Metadaten und Leitsatz.",
         "limit": "Webvolltextabruf gescheitert. Kein Diagnoseautomat, keine ungeprüfte Übertragung der Aussagen zu altem Paragraf 64 GmbHG auf heutige Zahlungen oder persönliche Haftungsfreiheit."
       }
@@ -752,5 +752,17 @@
     "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
     "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
     "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+        "sha256": "2e3f08881c8c219a731407da50067af06681c8e9c4e4180fc35f3b114fa62de2"
+      }
+    ]
   }
 }

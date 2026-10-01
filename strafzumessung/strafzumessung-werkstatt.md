@@ -24,6 +24,8 @@ Für eine Milderung nach Paragraf 49 StGB zunächst den verweisenden Tatbestand 
 
 Prüfe nach Paragraf 46 StGB insbesondere Beweggründe, Tatfolgen, Pflichtwidrigkeit, einschlägige Vorstrafen, Geständnis, Wiedergutmachung, persönliche Verhältnisse und Verfahrensdauer. Ordne jedem tragenden Umstand den konkreten Akten- oder Beweisfund zu. Ein Tatbestandsmerkmal nicht nochmals als selbständigen Strafschärfungsgrund verwerten.
 
+BGH, Beschluss vom 24.02.2026 – 5 StR 623/25, Rn. 4 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Die bloße gemeinschaftliche Begehung nochmals strafschärfend anzuführen, obwohl damit nur Mittäterschaft nach Paragraf 25 Absatz 2 StGB beschrieben wird, verletzt Paragraf 46 Absatz 3 StGB. Markiere die konkrete Urteilsformulierung und trenne sie von zusätzlich festgestellter besonderer Ausführung oder Tatfolge. Die Entscheidung gibt keinen automatischen Strafabschlag vor; nach Wegfall der Einzelstrafen war auch die Gesamtstrafe neu zu bilden.
+
 Unterscheide tatsächliche Wiedergutmachung von Angebot oder bloßer Absicht. Fehlt der Zahlungsnachweis, frage nach Betrag, Datum, Empfänger und Beleg. Nach Antwort Gewichtung und betroffene Begründungspassage aktualisieren; eine teilweise Zahlung nicht als vollständigen Ausgleich darstellen.
 
 Prüfe Täter-Opfer-Ausgleich und Schadenswiedergutmachung nach Paragraf 46a StGB eigenständig. Für Milderung nach Paragraf 49 Absatz 1 StGB oder ein mögliches Absehen von Strafe Voraussetzungen und gesetzliche Grenzen, insbesondere ein Jahr Freiheitsstrafe beziehungsweise 360 Tagessätze, am Fall prüfen. Keine Zustimmung des Geschädigten oder erfolgreiche Aussöhnung erfinden.

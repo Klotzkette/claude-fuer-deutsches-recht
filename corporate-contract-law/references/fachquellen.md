@@ -61,7 +61,7 @@ Weitere in den Skills bezeichnete Normen sind konkrete Rechercheaufträge, keine
 
 ### 1.4.2. Aushandeln und Sicherheitenkumulation
 
-**Entscheidung:** BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliches PDF](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21).
+**Entscheidung:** BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliches PDF](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1).
 
 **Rechercheaussage:** Die amtlich indexierten Leitsätze betreffen unter anderem den fehlenden Nachweis echten Aushandelns durch eine bloße Verhandlungsbestätigung und den fehlenden freien Ausschluss der AGB-Kontrolle. Der Fall betrifft außerdem eine konkrete Sicherheitenregelung im Generalunternehmervertrag.
 
@@ -71,7 +71,7 @@ Weitere in den Skills bezeichnete Normen sind konkrete Rechercheaufträge, keine
 
 ### 1.4.3. Abnahme und Abrechnungsverhältnis
 
-**Entscheidung:** BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliches PDF](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14).
+**Entscheidung:** BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliches PDF](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1).
 
 **Rechercheaussage:** Der amtlich indexierte Leitsatz unterscheidet die grundsätzlich erforderliche Abnahme für Mängelrechte und ein mögliches Abrechnungsverhältnis. Ein bloßes Vorschussverlangen allein genügt nach dem sichtbaren Leitsatz nicht.
 
@@ -81,7 +81,7 @@ Weitere in den Skills bezeichnete Normen sind konkrete Rechercheaufträge, keine
 
 ### 1.4.4. Vertragsstrafenbasis im Einheitspreisvertrag
 
-**Entscheidung:** BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22, [amtliches PDF](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0).
+**Entscheidung:** BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22, [amtliches PDF](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1).
 
 **Rechercheaussage:** Der amtlich indexierte Leitsatz betrifft die Unwirksamkeit einer konkreten Auftraggeberklausel mit täglichem Satz und einer Grenze von fünf Prozent der im Auftragsschreiben genannten Nettosumme in einem Einheitspreisvertrag.
 

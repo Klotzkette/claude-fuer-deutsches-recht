@@ -10,6 +10,8 @@ Trenne erwiesene Tatsachen, unterstellte Szenarien und offene Schuldfragen. Stra
 
 Nach Paragraf 46 StGB die schuldbezogenen Umstände und Wirkungen auf das künftige Leben gewichten. Tatbestandsmerkmale nicht nochmals als selbstständigen Erschwerungsgrund verwerten. Geständnis, Wiedergutmachung, Vorstrafen und Tatfolgen konkret belegen; keine automatischen Prozentabschläge oder Strafpunktekataloge.
 
+BGH, Beschluss vom 24.02.2026 – 5 StR 623/25, Rn. 4 ([amtlich](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Bloße Mittäterschaft nicht nochmals als gemeinschaftliche Begehung strafschärfend verwerten. Den konkreten Satz von zusätzlichen Ausführungsmerkmalen unterscheiden; der Fehler begründet keinen festen Strafabschlag.
+
 ## 1.2. Einzelstrafe und Gesamtstrafe
 
 Für jede Tat eine eigene Zumessung vornehmen. Bei Geldstrafe Tagessatzanzahl und Tagessatzhöhe unterscheiden; bei Freiheitsstrafe kurze Freiheitsstrafe und Bewährung gesondert prüfen. Ein geringes Einkommen beeinflusst nicht automatisch die schuldbezogene Tagessatzanzahl.

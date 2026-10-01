@@ -34,7 +34,7 @@
       "supports": "Bestimmte Leistungszeit gegenüber fehlender Zeitbestimmung."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form. Amtliche Leitsätze geprüft; keine vollständige Neuverifikation sämtlicher Fallgruppen oder Theoriequellen."
     },
@@ -126,7 +126,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 23.06.2023, V ZR 89/22, amtliche Leitsätze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1",
         "application": "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden.",
         "limit": "Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form."
       },
@@ -153,5 +153,17 @@
     "continuation": "Bestätigte Raumlieferung oder nachgereichtes Formular verändert Prämisse, Auslegungsargument und Leistungsergebnis im bestehenden Nutzerpfad, etwa auslegungsvermerk.md.",
     "enrichment": "Konkurrierende Fassungen und Lesarten, Anlagenrang, erkennbare Verständigung, AGB-Zweig, historische Quellenklassifikation, Gegenfall zur Analogie und Abschluss mit begründeter konkreter Rechtsfolge vertieft.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "a4c0979dde92aede870a405ea9fcb5b7182348586bef068f0219efd543c1d1c3"
+      }
+    ]
   }
 }

@@ -23,7 +23,7 @@ Lies Police, maßgebliche Bedingungen, Nachträge, Leistungsantrag, Ablehnung, B
 
 ## 4. Quellenpflicht
 
-Am 14.09.2026 geprüft: [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html). BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15, [amtliche Entscheidung, Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7): Der bloße Zeitanteil genügt bei einer untrennbaren Teilhandlung eines beruflichen Gesamtvorgangs nicht. Das ersetzt nicht den individuellen Tätigkeits- und Funktionsnachweis.
+Am 14.09.2026 geprüft: [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html). BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15, [amtliche Entscheidung, Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1): Der bloße Zeitanteil genügt bei einer untrennbaren Teilhandlung eines beruflichen Gesamtvorgangs nicht. Das ersetzt nicht den individuellen Tätigkeits- und Funktionsnachweis.
 
 Bei Nutzung Bedingungen, Normstand und Übertragbarkeit prüfen. Gericht, Entscheidungsform, Datum, Aktenzeichen, URL und belegte Passage nennen; die [Zitierweise](../../references/zitierweise.md) ist eine optionale Vertiefung. Ohne geprüften Volltext auf den Leitsatz begrenzen, keine Randnummern oder Literatur erfinden.
 

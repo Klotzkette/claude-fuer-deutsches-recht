@@ -34,7 +34,7 @@ Eine Entscheidungsmeldung erklärt Tenor, tragende Gründe und Rechtsmittelstand
 - BGB Paragraf 823 Absatz 1 und Paragraf 1004 analog: Unterlassung, Beseitigung und Ersatz bei Persönlichkeitsrechtsverletzungen.
 - KUG Paragraf 22 und Paragraf 23: Einwilligung, Bildnisse aus dem Bereich der Zeitgeschichte und berechtigte Interessen.
 
-Bei einem namentlichen Vorwurf prüfe nach [BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, Leitsätze a und b](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=125294&Blank=1.pdf) Beweistatsachen, erhebliches Informationsinteresse und Vorverurteilung. Berücksichtige eine eingegangene Stellungnahme sichtbar im Text; bloßes Anfragen genügt nicht. Eine Anhörung heilt weder fehlende Belege noch unzulässige Bildverwendung.
+Bei einem namentlichen Vorwurf prüfe nach [BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, Leitsätze a und b](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_1241-20.pdf?__blob=publicationFile&v=1) Beweistatsachen, erhebliches Informationsinteresse und Vorverurteilung. Berücksichtige eine eingegangene Stellungnahme sichtbar im Text; bloßes Anfragen genügt nicht. Eine Anhörung heilt weder fehlende Belege noch unzulässige Bildverwendung.
 
 Nach [BVerfG, Beschluss vom 03.11.2025, Az. 1 BvR 573/25](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/11/rk20251103_1bvr057325.html) sind Sinn im Kontext, Eingriffsschwere und öffentliches Interesse abzuwägen, nicht starr strafprozessuale Verdachtsstufen zu verlangen. Das erlaubt keine ungeprüfte Übernahme eines Vorwurfs. Prüfe bei Sitzungsaufnahmen zusätzlich Paragraf 169 GVG, bei amtlichen Strafverfahrensdokumenten Paragraf 353d StGB.
 

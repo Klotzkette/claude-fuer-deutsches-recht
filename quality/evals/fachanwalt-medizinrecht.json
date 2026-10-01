@@ -39,12 +39,12 @@
       "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 630d, Paragraf 630e und Paragraf 630h BGB; Paragraf 843 BGB; Paragraf 287 ZPO. Keine Gesamtverifikation sämtlicher Nebenmaterien."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 20.12.2022, VI ZR 375/21: Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbaren zusätzlichen Überlegungsbedarf bei medizinisch möglichem Aufschub berücksichtigen. Grenze/Prüftiefe: Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 03.02.2009, VI ZR 183/08: Haushaltsschaden aus tatsächlichen Aufgaben und Einschränkungen berechnen; Tabellen nur als Orientierung ohne abweichende Umstände. Grenze/Prüftiefe: Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis."
     },
@@ -62,7 +62,7 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "15bb27f164ea9d1d0f80ea1495b90bab4112b028bfa63129a9d5fb31f323ba8d"
+    "sha256": "c08aa9cb7531ceca7670a241ea63be10850b59433a2a534aeadd42487d387f8c"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -87,7 +87,7 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang."
     ],
-    "sha256": "730fa9b8e7ca260e8edc38dac4b68181f13072168f867bf46b2a97678f00c51b"
+    "sha256": "580258c9a531295c62c9b1ee796ab4313eec202cd4f1d73e14170dba25ca202e"
   },
   "selection": {
     "positive": [
@@ -167,13 +167,13 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 20.12.2022, VI ZR 375/21",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1",
         "application": "Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbaren zusätzlichen Überlegungsbedarf bei medizinisch möglichem Aufschub berücksichtigen.",
         "limit": "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung."
       },
       {
         "citation": "BGH, Urteil vom 03.02.2009, VI ZR 183/08",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
         "application": "Haushaltsschaden aus tatsächlichen Aufgaben und Einschränkungen berechnen; Tabellen nur als Orientierung ohne abweichende Umstände.",
         "limit": "Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis."
       }
@@ -195,5 +195,22 @@
     "continuation": "Einkaufen ist seit Juni wieder möglich -> Hilfebedarf und Monate korrigieren; neuer Gerätebericht -> Dokumentationslücke von fortbestehender Behandlungsfrage trennen.",
     "enrichment": "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1",
+        "sha256": "6fd269bca0c196fefdc1a87dabbfc34fbdbbb46ef034b7397ff3e95340f924dd"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
+        "sha256": "f2f94c7fd09eb06b9a89269b0ee5cd8432d704ed39f5b813258b50f17fc20ee4"
+      }
+    ]
   }
 }

@@ -59,12 +59,12 @@
       "supports": "Artikel 28 in amtlicher BMF-Ausgabe AO 2023 gelesen, besonders Weisungsausnahme, Unterauftraege und Rueckgabe oder Loeschung. Datierte Wiedergabe, kein Nachweis aktueller Vollpruefung aller DSGVO-Artikel."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "Begrenzter Anker fuer Maengelrechte grundsaetzlich nach Abnahme und Ausnahmen beim Abrechnungsverhaeltnis. Amtlich indexierte Leitsaetze gelesen. Direktabruf 403, kein gelesener Volltext, keine Randnummer bestaetigt. Keine Rechtlosigkeit vor Abnahme und keine automatische Uebertragung auf Kauf oder Dienstleistung."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "Blosse Verhandlungsbestaetigung belegt Aushandeln nicht; AGB-Recht nicht unabhaengig von seinen Voraussetzungen abwaehlbar. Amtlich indexierte Leitsaetze gelesen. Direktvolltext nicht bestaetigt, keine Randnummer verifiziert. Konkreter Generalunternehmervertrag, keine universelle Sicherheitsquote oder gerichtliche Freigabe neuer Klauseln."
     }
@@ -78,7 +78,7 @@
       "Drei Eingangsmodi, konkrete Rueckfragen und Fortsetzung derselben Fassung erhalten.",
       "Abnahme, kaufmaennische Ruege, B2B-AGB und Handlungsschranke mit praezisen Grenzen formuliert."
     ],
-    "sha256": "9af14af22f2fc7afd86a3312034859053e5c13c5695bd40473e0e4f41599ba9b"
+    "sha256": "4fd375a9a44a485123ee96e8dbf8beb2dc00eed5e073eefbdacacf2b81b4ed21"
   },
   "workshop_review": {
     "reviewed_on": "2026-09-23",
@@ -90,7 +90,7 @@
       "Konkrete Fortsetzung fuer Wartungszusage und zusaetzliches Geraet ausformuliert.",
       "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt."
     ],
-    "sha256": "efa55662abb5474a706776e09f63a32fa8d2a1abe056abf0338520ae47b781bc"
+    "sha256": "73fced458bfeb5f7b2111a77166ec1d99be71ecc2aab1a137f4abf644a80562f"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -102,7 +102,7 @@
       "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill."
     ],
     "prompt_path": "vertragserstellung/vertragserstellung-hauptproblem.md",
-    "prompt_sha256": "4bc6955a14c0b71fbee05fc994dd878f11ccad30b9796f396299e0b83a56bcde",
+    "prompt_sha256": "c951d5057ae7f18d9115412e55a04854efdda41f39a6f487fa352ca2a2a46c23",
     "skill_path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
     "skill_sha256": "5b5bfd0b6e6b3f77e088a0e842a1c7682a2565a9b7e25a9d6f78e9cca7a716ca"
   },
@@ -125,13 +125,13 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, amtlich indexierte Leitsaetze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
         "application": "Begrenzter Anker fuer Maengelrechte grundsaetzlich nach Abnahme und Ausnahmen beim Abrechnungsverhaeltnis. Amtlich indexierte Leitsaetze gelesen.",
         "limit": "Direktabruf 403, kein gelesener Volltext, keine Randnummer bestaetigt. Keine Rechtlosigkeit vor Abnahme und keine automatische Uebertragung auf Kauf oder Dienstleistung."
       },
       {
         "citation": "BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, amtlich indexierte Leitsaetze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
         "application": "Blosse Verhandlungsbestaetigung belegt Aushandeln nicht; AGB-Recht nicht unabhaengig von seinen Voraussetzungen abwaehlbar. Amtlich indexierte Leitsaetze gelesen.",
         "limit": "Direktvolltext nicht bestaetigt, keine Randnummer verifiziert. Konkreter Generalunternehmervertrag, keine universelle Sicherheitsquote oder gerichtliche Freigabe neuer Klauseln."
       }
@@ -553,5 +553,27 @@
         }
       ]
     }
-  ]
+  ],
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+        "sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+        "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb"
+      }
+    ]
+  }
 }

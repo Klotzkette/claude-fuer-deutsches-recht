@@ -31,6 +31,8 @@ Ordne Mängel den Paragrafen 535, 536 und 536c BGB zu, Betriebskosten den Paragr
 
 Fehlt bei einem Mangel der Zeitraum der Beeinträchtigung, frage nach Beginn, betroffenen Räumen und Abhilfe. Passe nach der Antwort Monatsberechnung und Instandsetzungs- oder Antwortschreiben an. Fehlt bei Betriebskosten ein Verteilungsbeleg, benenne die konkrete Position und vervollständige nach Einsicht Rechnung und Einwendung.
 
+Bei Mietpreisbremse: [BGH, Urteil vom 01.07.2026, VIII ZR 50/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1), Rn. 29–44, erfasst auch dauerhaft wiederhergestellten, zuvor unbewohnbaren Altbestand nach Paragraf 556f Satz 1 BGB. Vorzustand, wesentlichen Bauaufwand und erstmalige Wiedernutzung/Vermietung nach dem 1. Oktober 2014 belegen; bloße Modernisierung genügt nicht. Zurückverweisung, keine abschließende Anerkennung der Ausnahme.
+
 ## 1.4. Bis zum bestellten Dokument weiterarbeiten
 
 Liefere die beauftragte Prüfung oder das ausformulierte Schreiben mit der erforderlichen Rechnung und Begründung. Ein Gutachten verlangt keinen zusätzlichen Klageentwurf. Stelle Tabellen nur dort dar, wo Zahlungen, Kosten oder Zeiträume tatsächlich verglichen werden.

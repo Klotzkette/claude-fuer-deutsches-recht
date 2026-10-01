@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-bau-architektenrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
@@ -32,6 +32,47 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__642.html",
       "supports": "Erneuter Normabruf zur unterlassenen Mitwirkung und angemessenen Entschädigung; Dauer, Vergütung, Ersparnis und anderweitiger Erwerb am konkreten Ablauf prüfen.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77: Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden. Gelesen: Kopf/Leitsätze, Rn. 39–41 und 63–77. Grenze: Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler.",
+      "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__640.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1–3 vollständig gelesen: Fertigstellung, Unternehmerfrist, Verweigerung mit mindestens einer Mangelangabe, besonderer Verbraucherhinweis und begrenzter Vorbehaltstatbestand."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__641.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 und 3: Teilabnahme/Vergütung und angemessener Einbehalt regelmäßig in doppelter Höhe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650g.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absatz 4 gelesen: Abnahme/Entbehrlichkeit und prüffähige Schlussrechnung als Fälligkeitsvoraussetzungen beim Bauvertrag; 30-Tage-Prüffähigkeitsfiktion nicht als sachliche Anerkennung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__214.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absatz 1 gelesen: Verjährung begründet Leistungsverweigerungsrecht, kein automatisches Erlöschen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absatz 1 gelesen: regelmäßiger Verjährungsbeginn am Jahresende bei Anspruchsentstehung und Kenntnis/grob fahrlässiger Unkenntnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__634a.html",
+      "checked_on": "2026-10-01",
+      "supports": "Einzeltext gelesen: Bauwerksmängelansprüche und Beginn bei Abnahme, Arglist und Gestaltungsrechte gesondert."
+    },
+    {
+      "url": "https://www.fib-bund.de/Inhalt/Vergabe/VOB/VOB-B_2016_nichtamtliche_Fassung.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Frei zugängliche ausdrücklich nichtamtliche Bundesbau-Fassung gezielt gelesen: §§ 12 Abs. 5, 13 Abs. 4–5, 14 Abs. 3–4 und 16 Abs. 3. Schlussrechnungsstellung, Fälligkeit und Nachforderungsausschluss unterscheiden; kein allgemeines Erlöschen nach zwei Monaten. Einbeziehung und Klauselkontrolle nicht abschließend geprüft."
     }
   ],
   "mini_review": {
@@ -41,9 +82,11 @@
       "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
       "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben."
     ],
-    "sha256": "2b330a578504db246cc16b1e044f3347b40b9144a8e13b8a77f1fe6365aff8eb"
+    "sha256": "cb0ada6d30b39098e91cfb6f2db7c584631469d3754c066d46b7fbb7057b9918",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -52,9 +95,11 @@
       "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
       "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
-      "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten."
+      "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
+      "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben."
     ],
-    "sha256": "733648fd3f0df0ff6d9094b5c81a9d5b8a0fd3ecd93fdfa05e7bea10b97e5a89"
+    "sha256": "56fe755ca0a794f5c8fe2fdea4930e057a0c78db9a7ae4dcb6ccf24264373cd4",
+    "reviewed_on": "2026-10-01"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -132,14 +177,16 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
       "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md",
       "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
       "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
       "fachanwalt-bau-architektenrecht/README.md",
-      "quality/evals/fachanwalt-bau-architektenrecht.json"
+      "quality/evals/fachanwalt-bau-architektenrecht.json",
+      "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/SKILL.md",
+      "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md"
     ],
     "opening_change": "Vereinbarte, geänderte, erbrachte und abgenommene Leistung mit Forderung und Abwehr abgleichen; Fokus rechnet Beschäftigte und Geräte. Workflow-Ergänzung: Leer: Mängelrüge, Nachtragsforderung oder Bauzeitentschädigung anbieten. Dateien ohne Aufgabe: Vertrag, Pläne, Bautagebuch und Kostenbelege still lesen; Mangel-, Vergütungs- oder Vorhalteziel klären. Klarer Auftrag: verlangte Rüge, Rechnung oder Anspruchserwiderung unmittelbar bearbeiten, bekannte Bauabschnitte übernehmen.",
     "norms": [
@@ -161,12 +208,21 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
         "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
         "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden.",
+        "limit": "Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler."
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Zwei BGH-Urteile anhand amtlicher tragender Gründe geprüft; weitere alte Entscheidungen und öffentlich-rechtliche Unterthemen ausdrücklich nicht insgesamt neu verifiziert.",
-      "Workflow-Review 23.09.2026: Paragraf 642 BGB erneut eingesehen; Vorhaltung und Folgezeiten bleiben getrennt, keine neue Entscheidung zu konkreten Bauabläufen behauptet."
+      "Workflow-Review 23.09.2026: Paragraf 642 BGB erneut eingesehen; Vorhaltung und Folgezeiten bleiben getrennt, keine neue Entscheidung zu konkreten Bauabläufen behauptet.",
+      "Begrenzter Nachtrag 01.10.2026: Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests.",
+      "Enger Abschlussabgleich im selben Abnahmeskill: falsche Schlusszahlungs-/Verjährungsverlustregeln korrigiert; § 650g Abs. 4 BGB ergänzt. Keine weiteren Entscheidungen hinzugefügt."
     ]
   },
   "prompt_workflow_review": {

@@ -19,7 +19,7 @@
       "supports": "Vereinbarte Leistungszeit im individuellen Prüffall."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_165-19.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Amtliche Identität/Fundstelle; maßgebliche Begründung in separat dokumentierter Volltextwiedergabe geprüft. Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände. Gerichtliche Identität amtlich bestätigt; Begründung wegen gesperrtem Direktabruf in veröffentlichter Volltextwiedergabe bei anwalt24 gelesen. Keine vollständige Prüfung sämtlicher Memosachgebiete."
     },
@@ -37,7 +37,7 @@
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten."
     ],
-    "sha256": "5479d28274c9bbf79abef61887f179c0a612556a6ffade6f0eef6c7bbcefe045"
+    "sha256": "49124b632e14eb005f302317833e737cf24394d2fa44706856bcc32753e5991d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -48,7 +48,7 @@
       "Vertragsfassung und Tatsachenbeleg unterscheiden; abhängige Fragen und konkrete Gegenbelege in Kurzantwort und Empfehlung übersetzen.",
       "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen."
     ],
-    "sha256": "6d5a10dc254a31406f25d665dace83bd6c734c7df1dbe88c8ca2a67e271dce11"
+    "sha256": "644b8a4b58efe991110a26c603874e1ddfd5b93af080748fae6e249179712786"
   },
   "selection": {
     "positive": [
@@ -107,7 +107,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 16.09.2021, IX ZR 165/19, Randnummern 28 bis 31",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_165-19.pdf?__blob=publicationFile&v=1",
         "application": "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren.",
         "limit": "Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände."
       }
@@ -128,5 +128,17 @@
     "continuation": "Beiderseitiger Vertragsnachtrag verändert Sachverhalt, zugeordnete Kurzantwort und Empfehlung im bestehenden Nutzerpfad, etwa memo.md; unverändert tragfähige Teile bleiben erhalten.",
     "enrichment": "Vorgreifliche Fragen, tatsächliche Vertragsfassungen, Gegenbelege, rechtliche und wirtschaftliche Entscheidungsgründe, fristgerechte Beratung, Empfängerwechsel und eindeutiger interner Abschluss konkretisiert.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_165-19.pdf?__blob=publicationFile&v=1",
+        "sha256": "f1f18b4a852a4edf574ce4a14f7292d9d9d65365deca5b1618ed0f17c33daa2d"
+      }
+    ]
   }
 }

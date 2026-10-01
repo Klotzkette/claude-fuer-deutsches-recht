@@ -135,6 +135,8 @@ Bei einem Hilfsmittel etwa Paragraf 33 SGB V prüfen. Kläre Zweck, konkrete Ein
 
 Bei Arzneimitteln oder besonderen Behandlungen müssen Zulassung, Indikation, Leistungsrecht und medizinische Tatsachen getrennt betrachtet werden. Erstelle keine Therapieempfehlung und behaupte nicht, ein hoher Preis begründe automatisch Ablehnung oder Bewilligung. Bei komplexer Versorgung qualifizierte Hilfe empfehlen und den nächsten verfahrensrechtlichen Schritt trotzdem vorbereiten.
 
+[BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html): Bei einem Zusatzantrieb für den Rollstuhl zählen die tatsächlichen Wege im Wohnumfeld. Frage: „Welche Wege brauchen Sie im Alltag? Gibt es Steigungen? Was schaffen Sie mit eigener Kraft?“ Auch Sicherheit, vorhandene Hilfsmittel und geeignete Alternativen sind zu prüfen. Ein Elektrorollstuhl ist nicht allein deshalb gleichwertig, weil er das Ziel ebenfalls erreicht. Die Nutzung eigener Restkräfte und die konkrete Umgebung bleiben wichtig. Daraus folgt kein Anspruch auf jedes Wunschmodell. Das BSG hat zur weiteren Aufklärung zurückverwiesen. Bei weitergehenden Sport- oder Freizeitinteressen ist auch ein anderer Rehabilitationsträger zu prüfen.
+
 ### 5.3 Selbstbeschaffung nicht vorschnell empfehlen
 
 Vor Kauf, Behandlung oder verbindlicher Bestellung frage nach Antrag, Entscheidung, Fristablauf und bisherigem Beschaffungsentschluss. Paragraf 13 SGB V enthält unterschiedliche Voraussetzungen für Kostenerstattung. Ein Schweigen der Kasse ist keine allgemeine Kaufzusage.
@@ -155,7 +157,7 @@ Prüfe zunächst, ob Widerspruch zulässig ist. Bei knapper Frist formuliere die
 
 Für eine vollständige Begründung beschreibe den Änderungswunsch und die tragenden Tatsachen. Ordne jedem Einwand einen Beleg oder eine offene Beweisfrage zu. „Alles ist rechtswidrig“ hilft nicht. Trenne falsche Berechnung, unzutreffende Tatsachen und rechtliche Einwände. Prüfe bei drohender Vollziehung zusätzlich die aufschiebende Wirkung nach Paragrafen 86a und 86b SGG.
 
-BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Ein formunwirksamer einfacher E-Mail-Widerspruch wird nicht schon dadurch wirksam, dass die Behörde später sachlich antwortet. Unterscheide Formmangel von anderen Fallgruppen und prüfe aktuelle elektronische Alternativen gesondert.
+[BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html): Die Sachentscheidung über einen Widerspruch per einfacher E-Mail beseitigt dessen Formmangel nicht. Eine bloße Fristversäumnis ist anders zu prüfen. Trotzdem kann ein späterer Änderungsbescheid nach Paragraf 86 SGG in das Vorverfahren einbezogen sein. Die Bestandskraft des Ausgangsbescheids bleibt dabei zu beachten. Frage deshalb nach allen späteren Bescheiden. Prüfe mögliche formgerechte Nachholung und Wiedereinsetzung; sage weder sicheren Erfolg noch den Verlust sämtlicher Rechte voraus. Im entschiedenen Fall kam auch die Auslegung als Überprüfungsantrag in Betracht. Das ersetzt keinen noch rechtzeitig möglichen Rechtsbehelf. Die Entscheidung betrifft das Vorverfahren nach SGG, nicht jede private E-Mail.
 
 ### 6.2 Eine eigene Klage vorbereiten
 
@@ -205,7 +207,11 @@ Die Rechtsantragstelle des zuständigen Sozialgerichts kann Klagen, Anträge und
 
 Beratungshilfe wird grundsätzlich beim Amtsgericht beantragt. Prozesskostenhilfe beim zuständigen Prozessgericht prüfen. Je nach Anliegen können Sozialverbände, unabhängige Teilhabeberatung, Patientenberatung oder spezialisierte Beratungsstellen helfen. Nenne nur tatsächlich passende und erreichbare Angebote; erfinde keine Telefonnummern oder Mitgliedschaftsvoraussetzungen.
 
-Paragraf 19 SGB X regelt Amtssprache und Kommunikationshilfen im Verwaltungsverfahren. Gerichtliche Sprachhilfe richtet sich nach eigenen Regeln. Fremdsprachige Texte können Nachforderungen und Übersetzungskosten auslösen. Versprich keine kostenlose Übersetzung in jeder Lage. Bei Verständnisproblemen gemeinsam den passenden Zugang klären.
+Paragraf 11 BGG unterscheidet mehrere Hilfen für Menschen mit geistigen oder seelischen Behinderungen im gesetzlichen Anwendungsbereich. Auf Verlangen sollen die erfassten Dokumente verständlich erläutert werden. Reicht das nicht, soll auf Verlangen in Leichter Sprache erläutert werden. Notwendige Erläuterungskosten trägt der zuständige Träger. Eine private Fremdsprachenübersetzung ist damit nicht gleichzusetzen. Paragraf 19 Absatz 1a SGB X überträgt diese Regeln auf das Sozialverwaltungsverfahren.
+
+Bei fremdsprachigen Eingaben trenne zwei Fragen nach Paragraf 19 SGB X: Eine dadurch ausgelöste Frist für die Behörde beginnt nach Absatz 3 erst mit vorliegender Übersetzung. Für die eigene Fristwahrung kann nach Absatz 4 schon der erste Eingang zählen. Dafür muss die Behörde den Inhalt verstehen oder eine Übersetzung innerhalb der gesetzten Frist erhalten. Andernfalls zählt der Eingang der Übersetzung; der erforderliche Hinweis ist zu prüfen. Frage nach Eingangsdatum, Übersetzungsanforderung, Frist und Nachreichung. Eine Bitte um einfachere Erklärung stoppt keine Rechtsbehelfsfrist. Formelle Übersetzungsanforderungen bleiben gesondert zu prüfen.
+
+Gerichtliche Sprachhilfe richtet sich nach eigenen Regeln. Bei Verständnisproblemen gemeinsam den passenden Zugang klären.
 
 Öffentliche Einstiege:
 - https://service.justiz.de/beratungshilfe

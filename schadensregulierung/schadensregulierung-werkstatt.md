@@ -233,17 +233,17 @@ Schließe erst, wenn Vereinbarung, Zahlung oder Ablehnung dokumentiert und offen
 
 ### 16.1. Gesamtbemessung des Schmerzensgeldes
 
-BGH, Urteil vom 15.02.2022, VI ZR 937/20, amtliche Leitsätze a und b: Wird Schmerzensgeld nach Tagen berechnet, ersetze die Formel durch eine Gesamtwürdigung von Verletzungsschwere, Leiden, Dauer, wahrgenommener Beeinträchtigung und Verschulden. Paragraf 253 Absatz 2 BGB verlangt eine einheitliche billige Entschädigung. Die Methode liefert keinen festen Betrag für einen leichten Türunfall. [Amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&Sort=1&file=dokument.pdf&linked=urt&nr=128339).
+BGH, Urteil vom 15.02.2022, VI ZR 937/20, amtliche Leitsätze a und b: Wird Schmerzensgeld nach Tagen berechnet, ersetze die Formel durch eine Gesamtwürdigung von Verletzungsschwere, Leiden, Dauer, wahrgenommener Beeinträchtigung und Verschulden. Paragraf 253 Absatz 2 BGB verlangt eine einheitliche billige Entschädigung. Die Methode liefert keinen festen Betrag für einen leichten Türunfall. [Amtliche Entscheidung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1).
 
 ### 16.2. Psychische Gesundheitsverletzung
 
-BGH, Urteil vom 06.12.2022, VI ZR 168/21, amtlicher Leitsatz: Bei mittelbarer psychischer Verletzung durch Schädigung eines Dritten reicht für den Verletzungstatbestand der Krankheitswert; keine zusätzliche Überschreitung typischer Angehörigenreaktionen verlangen. Das beweist weder Kausalität noch einen bestimmten Betrag. Für den unmittelbar gefährdeten Fahrgast bleibt dessen eigene Verletzung maßgeblich. [Amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197).
+BGH, Urteil vom 06.12.2022, VI ZR 168/21, amtlicher Leitsatz: Bei mittelbarer psychischer Verletzung durch Schädigung eines Dritten reicht für den Verletzungstatbestand der Krankheitswert; keine zusätzliche Überschreitung typischer Angehörigenreaktionen verlangen. Das beweist weder Kausalität noch einen bestimmten Betrag. Für den unmittelbar gefährdeten Fahrgast bleibt dessen eigene Verletzung maßgeblich. [Amtliche Entscheidung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_168-21.pdf?__blob=publicationFile&v=1).
 
 ### 16.3. Hoheitlich beauftragtes Abschleppen
 
 BGH, Urteil vom 18.02.2014, VI ZR 383/12, amtliche Leitsätze a bis c: Bei behördlicher Ersatzvornahme ist der private Unternehmer hoheitlich tätig; öffentlich-rechtliche Verwahrung und entsprechende Anwendung von BGB Paragraf 276, Paragraf 278 und Paragraf 280 ff. sind zu berücksichtigen. Der Eigentümer fällt in dieser Konstellation nicht in den Schutzbereich des Behördenvertrags. Arbeitsfolge: öffentlichen Auftrag, Verwaltungsträger, Außenanspruch und internen Rückgriff auseinanderhalten. Keine Aussage über jeden privaten Abschleppauftrag, eine bestimmte Police oder einen automatischen Ersatz jedes Kratzers. Abgeglichen sind amtlicher Kopf und Leitsätze; vor fallbezogener Freigabe Volltext und Fortentwicklung nachziehen.
 
-Amtliche Fundstelle zum Abschleppen: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24
+Amtliche Fundstelle zum Abschleppen: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2012/VI_ZR_383-12.pdf?__blob=publicationFile&v=1
 
 ### 16.4. Normen und Verifikation
 

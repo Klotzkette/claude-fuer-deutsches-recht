@@ -32,6 +32,10 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 ## Spezialwissen: Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 - **Normen-/Quellenanker:** BGB, VOB, HOAI.
 
+## Planerbeiträge konkret zurechnen
+
+Bei mehreren Planern trenne Entwurfsplanung, Ausführungsplanung, Überwachung und Koordination: [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 39–41, 63–77. Der Ausführungsplaner muss fremde Vorplanung im zumutbaren Umfang prüfen und Bedenken klar an den Besteller richten; verschließt sich ein Empfangsbevollmächtigter, ist der Besteller selbst zu informieren. Die Übernahme fremder Pläne entlastet nicht automatisch. Dem Besteller können gegenüber dem Ausführungsplaner Fehler seines Entwurfsplaners und seines Koordinators zugerechnet werden; bloßes Überwachungsverschulden ist davon zu unterscheiden. Gegenüber dem wegen unterlassener Koordination haftenden Architekten ist ein Planungsfehler regelmäßig nicht als Bestellermitverschulden anzurechnen, soweit dessen Koordination keine mangelfreien Pläne voraussetzt. Frage nach konkretem Auftrag, Planübergabe, Bedenkenempfänger und dem nach Hinweis tatsächlich veranlassten Klärungsschritt; danach Haftungsbeiträge im selben Vermerk neu zuordnen. Keine pauschale Quote aus dem Urteil übernehmen. Vertragsstand 2009/2010 und damalige HOAI, keine automatische Gleichsetzung heutiger Phasenbezeichnungen mit dem geschuldeten Auftrag.
+
 ## Fallweichen
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

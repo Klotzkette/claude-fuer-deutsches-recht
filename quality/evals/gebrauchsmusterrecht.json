@@ -9,7 +9,7 @@
       "supports": "Schriftliche Beschreibungen und inländische Benutzung; sechsmonatige Schonfrist für auf der Ausarbeitung des Anmelders beruhende Offenbarung."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c. Anwendung: Erfinderischen Schritt qualitativ mit den patentrechtlichen Grundsätzen prüfen, nicht durch pauschal geringere Erfindungshöhe ersetzen. Grenze und Prüfzugang: Abweichender Stand der Technik des Paragraf 3 GebrMG bleibt; kein Schutz unabhängiger Wettbewerberoffenbarung durch Schonfrist. Amtliche Leitsätze einschließlich Fortsetzung indexiert geprüft, direkter Volltext gesperrt."
     },
@@ -38,7 +38,7 @@
       "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
       "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
     ],
-    "sha256": "ab9a0ae0412fae4d96b8444cc2c7624f70e1bb1d1ea053458bdec82706a265e8"
+    "sha256": "d78064466c53d7dc0f6df430647255c52b574830a4a2aeccc99719647919a43d"
   },
   "selection": {
     "positive": [
@@ -93,7 +93,7 @@
       "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
       "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert."
     ],
-    "sha256": "f0c093f878f318976b0d203efd3cf336b4fd03db99ba4abcf8d457de854d916f"
+    "sha256": "a8b711b8aed2f5cc87537e27dea3bb0ee400c15ee745aabcddad7f2331a8a2ab"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -112,7 +112,7 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
         "application": "Erfinderischen Schritt qualitativ mit den patentrechtlichen Grundsätzen prüfen, nicht durch pauschal geringere Erfindungshöhe ersetzen.",
         "limit": "Abweichender Stand der Technik des Paragraf 3 GebrMG bleibt; kein Schutz unabhängiger Wettbewerberoffenbarung durch Schonfrist. Amtliche Leitsätze einschließlich Fortsetzung indexiert geprüft, direkter Volltext gesperrt."
       }
@@ -134,5 +134,17 @@
     "continuation": "Unabhängige Wettbewerberlehre -> Schonfrist greift nicht; neue Ursprungszeichnung -> beschränkte Anspruchsfassung; amtliches Datum -> Abzweigung neu rechnen.",
     "enrichment": "Messeoffenbarung, Herkunftsnachweis, ursprüngliche technische Kombination, zeitliche Alternativen und unbekannte Verletzungsmerkmale konkretisiert.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
+        "sha256": "568f22ac85ac913232b8d783c4d6e29c0ea8533f96891849e3fd95abdd045865"
+      }
+    ]
   }
 }

@@ -9,7 +9,7 @@
       "supports": "Artikel 12 und 16: nichttextile tierische Teile kennzeichnen; Faserinformationen vor Onlinekauf sichtbar bereitstellen."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze. Anwendung: Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen. Grenze und Prüfzugang: Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar."
     },
@@ -33,7 +33,7 @@
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "30a58c50233db2ee9c4c041ff96c3a29a8fc37b80e3b5bb4d35dc50ea8d1c5d8"
+    "sha256": "cd641d6dc1f65f4fe18dece2363faae5d459576df80494d9807ed146cc6882ac"
   },
   "selection": {
     "positive": [
@@ -88,7 +88,7 @@
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf."
     ],
-    "sha256": "7cb6ceff76e1c5a8d108d9a3a14b40ac7808bf7dac0f5096fe14e7828d2a7bad"
+    "sha256": "e86d70e8127b903816ea8fc57824d4fde5f18ea459deff1ccf8533e7fe905134"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -107,7 +107,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
         "application": "Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen.",
         "limit": "Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar."
       }
@@ -130,5 +130,17 @@
     "continuation": "Nur schwarze Variante hat Leder oder Kampagne wird auf bezahlte Werbung erweitert -> konkrete Artikelhinweise und Vegan-Aussage beziehungsweise Lizenzumfang und Freigabe ändern.",
     "enrichment": "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
+        "sha256": "9d344965aca3b51c72fd0049194119d864c258d1b1f9fdb66026ff41ef296ed8"
+      }
+    ]
   }
 }

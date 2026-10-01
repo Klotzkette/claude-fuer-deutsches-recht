@@ -38,7 +38,7 @@ Prüfe vor Verwendung die maßgebliche Fassung und spätere Rechtsprechung anhan
 
 - [Paragraf 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html): Schadensersatz und Berechnungsalternativen.
 - [Paragraf 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html): tatsächliche Grundlage der Schätzung.
-- [BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf): Am 22.09.2026 amtliche Leitsätze im Suchauszug geprüft; Volltext nicht abrufbar. Keine ungeprüfte Randnummer oder vollständige Aktualitätsprüfung behaupten.
+- [BGH, Urteil vom 02.11.2000, I ZR 246/98, Gemeinkostenanteil](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1): Am 22.09.2026 amtliche Leitsätze im Suchauszug geprüft; Volltext nicht abrufbar. Keine ungeprüfte Randnummer oder vollständige Aktualitätsprüfung behaupten.
 
 ## 1.6. Technische Arbeitsgrenzen
 

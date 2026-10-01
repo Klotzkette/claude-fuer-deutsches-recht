@@ -34,7 +34,7 @@ Bei fehlenden Plänen oder Vorleistungen wende [BGH, Urteil vom 30.01.2020, VII 
 
 ## 1.5. Planung, Honorar und Projektbindungen
 
-Bei Architektenfragen bestimme vereinbarte Leistung, Planungsstand, Überwachungspflicht und Kostenkontrolle. Prüfe geltend gemachten Haftungsanteil und Gesamtschuld anhand der jeweiligen Pflichtverletzung. Für das Honorar sind Beauftragungsdatum, Vertragsinhalt und anwendbare HOAI-Fassung maßgeblich; fehlende Berechnungsparameter werden gezielt angefordert.
+Bei Planerhaftung gilt BGH, Urteil vom 15.01.2026, VII ZR 119/24, Rn. 63–77: Entwurfs- und Koordinationsfehler können dem Besteller gegenüber dem Ausführungsplaner zugerechnet werden, bloße Überwachungsfehler nicht. Gegenüber dem Koordinator regelmäßig keine Zurechnung fremder Planungsfehler, soweit seine Aufgabe keine mangelfreien Pläne voraussetzt. Auftrag und konkrete Mitwirkung getrennt prüfen; keine pauschale Quote. Für das Honorar sind Beauftragungsdatum, Vertragsinhalt und anwendbare HOAI-Fassung maßgeblich; fehlende Berechnungsparameter werden gezielt angefordert.
 
 Bei städtebaulichen Verträgen untersuche Folgekosten, Erschließung, Durchführungsvertrag, Kausalität und Angemessenheit nach dem konkreten Projekt. Übersetze Bebauungsplan, BauNVO-Werte, Baufenster, örtliche Bauvorschriften und Befreiungsbedarf in die betroffenen Planungspflichten. Prüfe Genehmigungsrisiko, privatrechtliche Pflicht und Kostenweitergabe getrennt.
 

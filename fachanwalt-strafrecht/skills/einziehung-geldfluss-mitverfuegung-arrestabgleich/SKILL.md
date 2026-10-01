@@ -23,6 +23,8 @@ Vergib für jeden behaupteten Tatertrag eine eindeutige Kennung. Erfasse Tat, Ge
 
 Prüfe für jede Person das tatsächlich Erlangte nach Paragraf 73 StGB. Mittäterschaft ersetzt keinen Nachweis eigener oder gemeinsamer Verfügungsmacht. Untersuche Zugangsdaten, Weisungsabhängigkeit, Dauer, Zugriffsmöglichkeit und ungehinderte Verfügung konkret. Kurzzeitige Weitergabe ohne Verfügungsmacht ist von kurzzeitiger, aber tatsächlicher Herrschaft zu unterscheiden. Spätere Weiterleitung hebt vorheriges Erlangen nicht automatisch auf.
 
+BGH, Urteil vom 08.01.2026 – 3 StR 203/25, Rn. 7–15 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1)): Wird die Beute einvernehmlich im frei zugänglichen Schreibtisch der allein bewohnten Wohnung verwahrt, kann umfassende tatsächliche Mitverfügung bestehen. Eine ausdrückliche Abrede aller Hinterleute ist nicht nötig; gelebtes konkludentes Einvernehmen kann genügen. Prüfe Wohnungszugang, Zugriffssperren, Lagerdauer und tatsächliche Kontrolle vor Ort. Die bloße Pflicht zur späteren Weiterleitung beweist keinen transitorischen Besitz; der konkrete Fall trägt aber keine automatische Zurechnung allein wegen der Wohnungsinhaberschaft.
+
 Stelle für jede streitige Position Behauptung der Strafverfolgung, tragenden Beleg, Gegenbeleg und verbleibende Ungewissheit gegenüber. Keine zivilprozessuale Beweislastumkehr zulasten des Beschuldigten; Schweigen nicht als Zuflussnachweis behandeln. Bei tatsächlich gemeinsamer Verfügung gesamtschuldnerische Überschneidung kennzeichnen, nicht schematisch nach Köpfen teilen.
 
 ### 1.3.3. Gegenrechnung und Sicherung

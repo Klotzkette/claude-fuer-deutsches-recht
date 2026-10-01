@@ -1,0 +1,857 @@
+[
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "zwangsverwaltung-zvg",
+        "citation": "BGH, Urteil vom 23.09.2009, VIII ZR 336/08",
+        "dockets": [
+          "VIII ZR 336/08"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "01042c1ad8f06de05e04e92ac665b3204a2585a0af2938b533d3dc858ac93297",
+    "pages": 7,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "vertragsrecht",
+        "citation": "BGH, Urteil vom 15. Februar 2024, VII ZR 42/22, amtlicher Leitsatz",
+        "dockets": [
+          "VII ZR 42/22"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb",
+    "pages": 20,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2009-2&Gericht=bgh&Sort=1&anz=282&nr=47069&pos=10",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-medizinrecht",
+        "citation": "BGH, Urteil vom 03.02.2009, VI ZR 183/08",
+        "dockets": [
+          "VI ZR 183/08"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "f2f94c7fd09eb06b9a89269b0ee5cd8432d704ed39f5b813258b50f17fc20ee4",
+    "pages": 8,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "mandantenanfragen-assistent",
+        "citation": "BGH, Beschluss vom 03.11.2011, IX ZR 49/09, Randnummer 3",
+        "dockets": [
+          "IX ZR 49/09"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "cc502da074d57fe21949c3ef4ffffb0f6740e8a99895a63c6a1a8c081b217bf4",
+    "pages": 4,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2011/IV_ZR_197-11.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "versicherungsrecht",
+        "citation": "BGH, Urteil vom 09.01.2013, IV ZR 197/11",
+        "dockets": [
+          "IV ZR 197/11"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "9eca89fcfb1aa61354007f00c1b1cafe21732dd5eb24e8cc15bfb3dde5925c34",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "richter-landgericht-zivilkammer",
+        "citation": "BGH, Urteil vom 18.04.2013, III ZR 156/12",
+        "dockets": [
+          "III ZR 156/12"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "01a44d929a652a7859e29032ef927cc71f9d6ff265b104c4b532f0aaf556ea42",
+    "pages": 12,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-2-18&Gericht=bgh&anz=27&nr=67195&pos=24",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2012/VI_ZR_383-12.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "schadensregulierung",
+        "citation": "BGH, Urteil vom 18.02.2014, VI ZR 383/12",
+        "dockets": [
+          "VI ZR 383/12"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "16f64512c1b75b4c5ae5c4744d6d0aea91c7cb1940035f152ab34fb9e6007724",
+    "pages": 10,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "vertragserstellung",
+        "citation": "BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, amtlich indexierte Leitsaetze",
+        "dockets": [
+          "VII ZR 248/13"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb",
+    "pages": 17,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2016-6-15&Gericht=bgh&anz=11&nr=75277&pos=5",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZB__58-15.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "zwangsvollstreckung",
+        "citation": "BGH, Beschluss vom 15.06.2016, VII ZB 58/15",
+        "dockets": [
+          "VII ZB 58/15"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "71bd925c33a64c5d76215891af0640a4437c4e80605fb81a710e537ab2388215",
+    "pages": 9,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "vertragserstellung",
+        "citation": "BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, amtlich indexierte Leitsaetze",
+        "dockets": [
+          "VII ZR 301/13"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345",
+    "pages": 17,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-versicherungsrecht",
+        "citation": "BGH, Urteil vom 19.07.2017, IV ZR 535/15",
+        "dockets": [
+          "IV ZR 535/15"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "f5d4ed65bbd67e1e893e0269f93f43d850f829347dbd44e7b5bebcc974c67578",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "relationstechnik-zivilrecht",
+        "citation": "BGH, Beschluss vom 17.11.2022, V ZR 25/22",
+        "dockets": [
+          "V ZR 25/22"
+        ]
+      },
+      {
+        "plugin": "urteilsbauer-relationsmacher",
+        "citation": "BGH, Beschluss vom 17.11.2022, V ZR 25/22",
+        "dockets": [
+          "V ZR 25/22"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "82e6cb24d0e393ebd75a8d44eb497137e0283062b0cff73664f215c0ce758d02",
+    "pages": 8,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=6&anz=3167&nr=132234&pos=197",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_168-21.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "schadensregulierung",
+        "citation": "BGH, Urteil vom 06.12.2022, VI ZR 168/21",
+        "dockets": [
+          "VI ZR 168/21"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "d958c2ff85f49443369d207f60c76684c3bd99ababcec9d0d419c353e351375d",
+    "pages": 19,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&anz=3168&nr=132534&pos=29",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-medizinrecht",
+        "citation": "BGH, Urteil vom 20.12.2022, VI ZR 375/21",
+        "dockets": [
+          "VI ZR 375/21"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "6fd269bca0c196fefdc1a87dabbfc34fbdbbb46ef034b7397ff3e95340f924dd",
+    "pages": 18,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022-6-28&Gericht=bgh&Sort=3&anz=38&nr=130746&pos=27",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_112-21.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "wirtschaftsanwalt",
+        "citation": "BGH, Urteil vom 28.06.2022, Az. II ZR 112/21, Randnummern 12 bis 17",
+        "dockets": [
+          "II ZR 112/21"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "2e3f08881c8c219a731407da50067af06681c8e9c4e4180fc35f3b114fa62de2",
+    "pages": 11,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "aktenauszug-gerichtsverfahren",
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "dockets": [
+          "VIII ZB 80/22"
+        ]
+      },
+      {
+        "plugin": "anlagen-zu-schriftsaetzen",
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "dockets": [
+          "VIII ZB 80/22"
+        ]
+      },
+      {
+        "plugin": "prozessrecht",
+        "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
+        "dockets": [
+          "VIII ZB 80/22"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f",
+    "pages": 18,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-6-23&Gericht=bgh&anz=3&client=13&nr=136183&pos=2",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__89-22.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "methodenlehre-buergerliches-recht",
+        "citation": "BGH, Urteil vom 23.06.2023, V ZR 89/22, amtliche Leitsätze",
+        "dockets": [
+          "V ZR 89/22"
+        ]
+      },
+      {
+        "plugin": "vertragsausfueller",
+        "citation": "BGH, Urteil vom 23. Juni 2023, V ZR 89/22, amtliche Leitsätze",
+        "dockets": [
+          "V ZR 89/22"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "a4c0979dde92aede870a405ea9fcb5b7182348586bef068f0219efd543c1d1c3",
+    "pages": 18,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_191-23.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "richter-landgericht-zivilkammer",
+        "citation": "BGH, Beschluss vom 20.11.2024, VII ZR 191/23",
+        "dockets": [
+          "VII ZR 191/23"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "f50dd06c1fda788f9c638814c568a447702badac1c0a74a0c873eaa1237b8a38",
+    "pages": 7,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=750&nr=131581&pos=11",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "schriftform-und-textform-bgb",
+        "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
+        "dockets": [
+          "VII ZR 895/21"
+        ]
+      },
+      {
+        "plugin": "vertragsrecht",
+        "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
+        "dockets": [
+          "VII ZR 895/21"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "a1a1aa3afabacdb33291a2cbdc7d3755ee3fecbe7534b44c70a83f490c0a7f37",
+    "pages": 10,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=Aktuell&Gericht=bgh&Sort=12288&anz=992&nr=143841&pos=27",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR_134-24.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "tabellenreview-3d",
+        "citation": "BGH, Beschluss vom 02.12.2025, II ZR 134/24",
+        "dockets": [
+          "II ZR 134/24"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "a7949d0bfd5b423e5a8d3662306947660d29c3306d9958b9e9a55e0b089b5b45",
+    "pages": 9,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=113643",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-agrarrecht",
+        "citation": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19",
+        "dockets": []
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "1d04437a297dfc2be37816f98ba1cc765f7456ad954dbb702943dbe67a351b20",
+    "pages": 11,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=63050",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-agrarrecht",
+        "citation": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11",
+        "dockets": []
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "a135851c8e945028094f5e583e290a24852051b87c15ca5f3ad11d1dbc999af4",
+    "pages": 16,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&nr=75010",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-agrarrecht",
+        "citation": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15",
+        "dockets": []
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "a24c5072eaa02676a5c2a95c220b42a790fbc40090e08f3fc8f49914e36875f3",
+    "pages": 12,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Frame=1&Gericht=bgh&nr=49839",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2005/X_ZB__27-05.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "gebrauchsmusterrecht",
+        "citation": "BGH, Beschluss vom 20.06.2006, Az. X ZB 27/05, Demonstrationsschrank, Leitsätze a und c",
+        "dockets": [
+          "X ZB 27/05"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "568f22ac85ac913232b8d783c4d6e29c0ea8533f96891849e3fd95abdd045865",
+    "pages": 23,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2007-11&Gericht=bgh&file=dokument.pdf&linked=urt&nr=41965",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "goae-gebuehrenordnung-aerzte",
+        "citation": "BGH, Urteil vom 08.11.2007, III ZR 54/07",
+        "dockets": [
+          "III ZR 54/07"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "ac68dc99f891298e91e8053fa14dc89780bfad2734ffcac09a814da368f70a52",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "versicherungsrecht",
+        "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
+        "dockets": [
+          "IV ZR 225/10"
+        ]
+      },
+      {
+        "plugin": "fachanwalt-versicherungsrecht",
+        "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
+        "dockets": [
+          "IV ZR 225/10"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "623a495b96b385bd2dccac21be602602ad3273ff431ecf1c676712a112486045",
+    "pages": 19,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2014&Gericht=bgh&file=dokument.pdf&linked=urt&nr=69626",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2014/VI_ZR__76-14.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "juristische-presseberichterstattung",
+        "citation": "BGH, Urteil vom 18.11.2014, Az. VI ZR 76/14, amtlicher Leitsatz",
+        "dockets": [
+          "VI ZR 76/14"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "9f912a3caff7a221f6d3a191d442b0ea48444f7de2b1aa17188616cde81e9b08",
+    "pages": 22,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2015-1&Gericht=bgh&file=dokument.pdf&linked=bes&nr=72074",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_123-13.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "apothekenrecht",
+        "citation": "BGH, Urteil vom 08.01.2015, I ZR 123/13",
+        "dockets": [
+          "I ZR 123/13"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "4c8933287b7d46cfa49a524f5b7350f5c917a82107e2c35b6d0138f1ae0010e7",
+    "pages": 16,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2018-2&Gericht=bgh&file=dokument.pdf&linked=urt&nr=82565",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_148-17.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "energierecht",
+        "citation": "BGH, Urteil vom 07.02.2018, Az. VIII ZR 148/17",
+        "dockets": [
+          "VIII ZR 148/17"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "63db04e1bd43e5511aa45d820ebd98f549fd8aa396877ffb5f2efbdce151452f",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2022&Gericht=bgh&Sort=1&file=dokument.pdf&linked=urt&nr=128339",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "schadensregulierung",
+        "citation": "BGH, Urteil vom 15.02.2022, VI ZR 937/20, berichtigt am 23.02.2022",
+        "dockets": [
+          "VI ZR 937/20"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "c631ad9844bf90cd021d62556973e064ef8be2b732407b4651d784db2b6a8344",
+    "pages": 18,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2025&Gericht=bgh&file=dokument.pdf&linked=urt&nr=140942",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR__32-24.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "schriftform-und-textform-bgb",
+        "citation": "BGH, Urteil vom 6. März 2025, I ZR 32/24, amtliche Leitsätze",
+        "dockets": [
+          "I ZR 32/24"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "cfb33f8978c6109cb617028898a5e7441f4fd2613c20f3a08e51a285215886b9",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=108768&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR__93-19.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-urheber-medienrecht",
+        "citation": "BGH, Urteil vom 18.06.2020, Az. I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz",
+        "dockets": [
+          "I ZR 93/19"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "c94413fccd9c110ad280db80c26460e1fc98f62afa65ceb2c16393bc58d3de0c",
+    "pages": 20,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "influencer-recht",
+        "citation": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c",
+        "dockets": [
+          "I ZR 90/20"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "d042482252c2e935ddfacb611c4968ee7cbfb153ea4f2e7ea29a017b1014ac3c",
+    "pages": 56,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122686&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_165-19.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "memorandums-ersteller",
+        "citation": "BGH, Urteil vom 16.09.2021, IX ZR 165/19, Randnummern 28 bis 31",
+        "dockets": [
+          "IX ZR 165/19"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "f1f18b4a852a4edf574ce4a14f7292d9d9d65365deca5b1618ed0f17c33daa2d",
+    "pages": 24,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=125294&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_1241-20.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "juristische-presseberichterstattung",
+        "citation": "BGH, Urteil vom 16.11.2021, Az. VI ZR 1241/20, amtliche Leitsätze",
+        "dockets": [
+          "VI ZR 1241/20"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "f3ef2557d10d3e587cacda64dcd0d31dad80e9cc1bc262c440896cc68619c038",
+    "pages": 20,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=138206&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fashion-law-moderecht",
+        "citation": "BGH, Urteil vom 27.06.2024, Az. I ZR 98/23, klimaneutral, amtliche Leitsätze",
+        "dockets": [
+          "I ZR 98/23"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "9d344965aca3b51c72fd0049194119d864c258d1b1f9fdb66026ff41ef296ed8",
+    "pages": 23,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=141463&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_431-23.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "subsumtions-pruefer",
+        "citation": "BGH, Urteil vom 10.04.2025, III ZR 431/23, Randnummern 17 bis 20",
+        "dockets": [
+          "III ZR 431/23"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "deeeaf524b09d83c146882423cf79c440bbf7bea2b66cd7e5607f3eb3bc03e75",
+    "pages": 14,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=22971&Blank=1.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+        "citation": "BGH, Urteil vom 02.11.2000, Az. I ZR 246/98, Gemeinkostenanteil, amtliche Leitsätze",
+        "dockets": [
+          "I ZR 246/98"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "aee8ef9d138e6ae97147968ff25536a905a7ed7aa6bd34d53c908e8c9c1aef83",
+    "pages": 15,
+    "status": "replacement_metadata_matched"
+  },
+  {
+    "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2017-9&nr=79600&linked=urt&Blank=1&file=dokument.pdf",
+    "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2017/III_ZR__71-17.pdf?__blob=publicationFile&v=1",
+    "references": [
+      {
+        "plugin": "preussisches-allgemeines-landrecht-pralr",
+        "citation": "BGH, Urteil vom 07.09.2017, III ZR 71/17, amtlicher Leitsatz",
+        "dockets": [
+          "III ZR 71/17"
+        ]
+      }
+    ],
+    "checked_on": "2026-10-01",
+    "scope": "Entscheidungsidentität und Abrufziel; keine erneute inhaltliche Prüfung sämtlicher Rechtssätze.",
+    "docket_matched": true,
+    "date_matched": true,
+    "court_matched": true,
+    "sha256": "59d91b4d5c3b80e222edfb38c0ac9b2074cd279b4b6102efea4cf0bbd482a761",
+    "pages": 13,
+    "status": "replacement_metadata_matched"
+  }
+]

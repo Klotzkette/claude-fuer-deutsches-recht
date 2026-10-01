@@ -1,0 +1,674 @@
+{
+  "base_commit": "3fcd595306f5fcb686db7c68cde57542204fed2d",
+  "scope": "Vorhandene geänderte Dateien; neue Prüfberichte getrennt.",
+  "files": [
+    {
+      "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-schnellstart.md",
+      "sha256": "449b0dd78f6a45bd2b7f45f821bfd4f4fdc0b5e2cf59dea6b8a4f734de215a10"
+    },
+    {
+      "path": "aktenauszug-gerichtsverfahren/aktenauszug-gerichtsverfahren-werkstatt.md",
+      "sha256": "d0d449df232f3025fbc0934afec2478a2fb1d7bc117cb494dc3c67d8670cac47"
+    },
+    {
+      "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+      "sha256": "a2c688a14c18ce8be9a90e43e4f0219d1bc88c1f24d7d250af1dd28d550ea6ee"
+    },
+    {
+      "path": "apothekenrecht/apothekenrecht-schnellstart.md",
+      "sha256": "ffce5b2abee2a27d10a1cbc9761c3f316144cca4051a192355daff4cc834ea6b"
+    },
+    {
+      "path": "apothekenrecht/apothekenrecht-werkstatt.md",
+      "sha256": "508918b1945af94bafcd6c9af559d4cb1bfc3b3570fc95eb11ee9389d7cac4a6"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "sha256": "860337cce4825b93169f6ae7ad7b54a874756d34cfb7143b9f8c72a18f0f509c"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+      "sha256": "bb2ca716fbf4927696357e1fea4f99edffc46f96d5b4dd7dd801f6f4aed9715c"
+    },
+    {
+      "path": "bauwirtschaft/bauwirtschaft-schnellstart.md",
+      "sha256": "a31cdb871e7a7d1cbca55bb939ab843def7c123821081ad6bc19dd4e0d0e5a93"
+    },
+    {
+      "path": "bauwirtschaft/references/entscheidungsanker-2026.md",
+      "sha256": "22b5818fc7e3ca9171ca179edda7e4b8fd1e3a60c96a91da389391e9780ca7e7"
+    },
+    {
+      "path": "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
+      "sha256": "ede4047b2b9f52c53ce2eef33edd94bdfaea554cbb9cb13c7da78c82abd17c3f"
+    },
+    {
+      "path": "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md",
+      "sha256": "6f25cf0643cf8fa3b18086103a07015aa7ab9af38916e30b0de159c914648aeb"
+    },
+    {
+      "path": "corporate-contract-law/references/fachquellen.md",
+      "sha256": "51605cc5701742c6552cd05883e5258058b7f2e6d2916dd084dd0e6e7aa47df9"
+    },
+    {
+      "path": "energierecht/energierecht-schnellstart.md",
+      "sha256": "bebbb1ca1c02b292e73f84b094c9a6a4a2a921324c02fa2ece99159a094a7f0c"
+    },
+    {
+      "path": "energierecht/energierecht-werkstatt.md",
+      "sha256": "c882727d1768fda3843be5a0f0651d0855f6fb81be5d26b2a9ff4e0ac9e39538"
+    },
+    {
+      "path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+      "sha256": "69ac99806f49961afbbd348136b1c24557995e6f85b0e0532c56030bd515f5d0"
+    },
+    {
+      "path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-schnellstart.md",
+      "sha256": "cb0ada6d30b39098e91cfb6f2db7c584631469d3754c066d46b7fbb7057b9918"
+    },
+    {
+      "path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-werkstatt.md",
+      "sha256": "56fe755ca0a794f5c8fe2fdea4930e057a0c78db9a7ae4dcb6ccf24264373cd4"
+    },
+    {
+      "path": "fachanwalt-bau-architektenrecht/skills/abnahme-mit-vorbehalt/SKILL.md",
+      "sha256": "7491e4fcecdf81f772f08e9676de738f7fda37bada4546f6d3d3284c088eb662"
+    },
+    {
+      "path": "fachanwalt-bau-architektenrecht/skills/architektenrecht-tatbestand-beweis-und-belege/SKILL.md",
+      "sha256": "fbb110a9dc56aaa169cd83b423f8149bf64a8d6c32cc7549a89cd8971cfab3ca"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
+      "sha256": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "sha256": "1b68d3fd73517071a637b8279186fe9393c6948657ce50671e6295fdcd0a9760"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "sha256": "61b5fab4f60fdcb900fa671a90cebe1c4b530c9b8eb60e715207391f20d521cd"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
+      "sha256": "90db02f8fafc1a37f2d3b0e6abb1094d885eb983d08fa4ba1ae7be9384dc7ed7"
+    },
+    {
+      "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-schnellstart.md",
+      "sha256": "c08aa9cb7531ceca7670a241ea63be10850b59433a2a534aeadd42487d387f8c"
+    },
+    {
+      "path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-werkstatt.md",
+      "sha256": "580258c9a531295c62c9b1ee796ab4313eec202cd4f1d73e14170dba25ca202e"
+    },
+    {
+      "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
+      "sha256": "0c1b1a04b2879d78f643b461d03200c93e688246ccdcd534c7d622fb18e86304"
+    },
+    {
+      "path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
+      "sha256": "1e022388bdac75dcec4562cb759aab9ae80a77db1ed1264cde197f536270330c"
+    },
+    {
+      "path": "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
+      "sha256": "380f55d1edfda62a09d82cf292aaeadca120cbd3bad5bedad32dac32addffecc"
+    },
+    {
+      "path": "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md",
+      "sha256": "57aa48d1543270e6715f611f80c262ede18e61b7f4d3899bb56da8b1947d7157"
+    },
+    {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "sha256": "7444bd184c31652218543bd910cca84bf0bc0685ce159adc880294fe7f92c720"
+    },
+    {
+      "path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "sha256": "772d34dcb7352c03021f16cc17954e2d635d3af712c2fb9e58a8615bf01aca2c"
+    },
+    {
+      "path": "fachanwalt-sozialrecht/skills/hilfsmittelantrag-pruefen/SKILL.md",
+      "sha256": "e036ebd7319672bcb7f4e56111981c46f7b1ab5d525fe69ce7690eb5a7de68bc"
+    },
+    {
+      "path": "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md",
+      "sha256": "605bb7e54ee59fb4909cdfa029ad4b6ab080bfee334fa486ca76db3eb185c2ad"
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
+      "sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830"
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+      "sha256": "de6dc9f0477208dbfd8d015922d288fc0d4e70d982c4c706e0e03bf60ba89a8f"
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+      "sha256": "ff2ef3e892a93920579c88249a27db7fe2dbecad5db31f28c9418bf0755a86db"
+    },
+    {
+      "path": "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
+      "sha256": "1af08087afef3b8dce1bc60c90169d75dde74206a4c254d76982c3b16a9c4595"
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
+      "sha256": "a0440f968aeeeff0771ff7f4484f9b6c32b8901311c68e3d4c779f774068b01a"
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
+      "sha256": "9f8a4d981b53942a241bbc431f2451d28f8ac426b3bdfd393c714d33d2a145cb"
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md",
+      "sha256": "aa7a9f15958f3d6295088071b8fa7f5a02474d6287f156921bb579a07ae14911"
+    },
+    {
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
+      "sha256": "af863f9b895d56af7917f29d52b7c9a2bf1648b7fb7e2c65e64d6e4b5ab5a80d"
+    },
+    {
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+      "sha256": "68c4cb13f4b27333d4e884aa4529dc924eb72849138a53b92cd401619aff9733"
+    },
+    {
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md",
+      "sha256": "bf4315755be5dd64905aea6c997fe8cd13c3de7b57b29e2b8fc19de99462f4d9"
+    },
+    {
+      "path": "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
+      "sha256": "b5589b4b95633e129ad16295c77df7d47b34fbaa73536b073d4dc4a11c401c06"
+    },
+    {
+      "path": "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+      "sha256": "cd641d6dc1f65f4fe18dece2363faae5d459576df80494d9807ed146cc6882ac"
+    },
+    {
+      "path": "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+      "sha256": "e86d70e8127b903816ea8fc57824d4fde5f18ea459deff1ccf8533e7fe905134"
+    },
+    {
+      "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-schnellstart.md",
+      "sha256": "d78064466c53d7dc0f6df430647255c52b574830a4a2aeccc99719647919a43d"
+    },
+    {
+      "path": "gebrauchsmusterrecht/gebrauchsmusterrecht-werkstatt.md",
+      "sha256": "a8b711b8aed2f5cc87537e27dea3bb0ee400c15ee745aabcddad7f2331a8a2ab"
+    },
+    {
+      "path": "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-schnellstart.md",
+      "sha256": "1537ccd63312c434f7b822315c7c69f99e2f968a5ce16743944398b91103d3ec"
+    },
+    {
+      "path": "gerichtsplugins/relationstechnik-zivilrecht/relationstechnik-zivilrecht-werkstatt.md",
+      "sha256": "72979173aa04cc992305210bf34878c9984dd2e4c2f408a12aca2b58b1e5ecfb"
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-schnellstart.md",
+      "sha256": "4e20c6b89bc3242a4f185d8c27f200820e96abf0810dfcdfa7ef0312cf457e12"
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-zivilkammer/richter-landgericht-zivilkammer-werkstatt.md",
+      "sha256": "4152e8b9fc98c317b1fe7152040ef0681e5d14f21d41de5a3565871bc15920aa"
+    },
+    {
+      "path": "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-schnellstart.md",
+      "sha256": "2e0db90451acf7216e50870a046bcb27a41d1b40bc22b2aef770db89f53047da"
+    },
+    {
+      "path": "goae-gebuehrenordnung-aerzte/goae-gebuehrenordnung-aerzte-werkstatt.md",
+      "sha256": "273a08920d155c3b3610c1fd413d30fc2dc4e1178fa7b3d5b1bdc70a6bf77526"
+    },
+    {
+      "path": "influencer-recht/influencer-recht-schnellstart.md",
+      "sha256": "c701a5d07fc0b239d60491e8b64e2d1ca888f8b8893d37016d0002d72d0b5903"
+    },
+    {
+      "path": "influencer-recht/influencer-recht-werkstatt.md",
+      "sha256": "ad01a3fd416aac50bd4784642441b4a1b620fe788aad27ddb85091fa48e192d5"
+    },
+    {
+      "path": "jura-in-einfacher-sprache/jura-in-einfacher-sprache-schnellstart.md",
+      "sha256": "1d41884347a5d85f27ed43630096ad37e128cb832600987d30ca271b1c3b703d"
+    },
+    {
+      "path": "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md",
+      "sha256": "ac1c63ca315b00435316dd504923e6fec7bb5f2970cea73c57588a84bcbee883"
+    },
+    {
+      "path": "jura-in-einfacher-sprache/references/quellen-und-grenzen.md",
+      "sha256": "3e591b80c66bf126c11920638b68574222d3cc79ab845908cc602fc7828dce19"
+    },
+    {
+      "path": "jura-in-einfacher-sprache/skills/auf-juristische-post-antworten/SKILL.md",
+      "sha256": "92bfb7c5ae07ff87a6473626503d0a5f3d4424ad6ad08305c0726f94e5677350"
+    },
+    {
+      "path": "juristische-presseberichterstattung/juristische-presseberichterstattung-schnellstart.md",
+      "sha256": "70adbe3190e385c5845e0a8b70ed7334bec5a7d0467b2c90772f9f1f6c79f763"
+    },
+    {
+      "path": "juristische-presseberichterstattung/juristische-presseberichterstattung-werkstatt.md",
+      "sha256": "8fe91c98832808872dbb9daf174081838cd8328f48b9b07e61fa8d66318df4f7"
+    },
+    {
+      "path": "memorandums-ersteller/memorandums-ersteller-schnellstart.md",
+      "sha256": "49124b632e14eb005f302317833e737cf24394d2fa44706856bcc32753e5991d"
+    },
+    {
+      "path": "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+      "sha256": "644b8a4b58efe991110a26c603874e1ddfd5b93af080748fae6e249179712786"
+    },
+    {
+      "path": "mietrecht/mietrecht-schnellstart.md",
+      "sha256": "b33b7887e79b693ee237a8acdf3641a6c76aca1eed633c943b87c8a9799e91b7"
+    },
+    {
+      "path": "mietrecht/mietrecht-werkstatt.md",
+      "sha256": "f0c71dc853dd464e351bcbc9b6b1be8df24b5ddf0020f8824726acd18eadd02c"
+    },
+    {
+      "path": "mietrecht/skills/weg-beschluss-anfechten/SKILL.md",
+      "sha256": "c17d1d6a4e8b5005caeb6bb65622efb2183cac7515bf03db055d1c7ea1fe181a"
+    },
+    {
+      "path": "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-schnellstart.md",
+      "sha256": "8a77135148c351cd5d90ba7cbbe7970bff0d6a7d3a14a61d22ba119f15f8cfe4"
+    },
+    {
+      "path": "preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md",
+      "sha256": "1649c53233b402810ce07b9426333d41d895743439cb2d5fb7023a93019117ea"
+    },
+    {
+      "path": "prozessrecht/prozessrecht-schnellstart.md",
+      "sha256": "aa636dd11fc6e2f8df59cbc841c5c0998929cc8f3b71cc14d7c128f22827b2c7"
+    },
+    {
+      "path": "prozessrecht/prozessrecht-werkstatt.md",
+      "sha256": "93401a389943e7e884a4f1a6ae355427a602844b335f06ede05cc708d6d07ead"
+    },
+    {
+      "path": "quality/evals/aktenauszug-gerichtsverfahren.json",
+      "sha256": "2827c0997e5c024d4fc6e4fcd45894b1ba6069a65573573020c92fe0ba2746de"
+    },
+    {
+      "path": "quality/evals/anlagen-zu-schriftsaetzen.json",
+      "sha256": "a1997a89f4a5e89bb38cc63c053aa1d2e11cbe4ac26eaa090e4b8d03b75689b5"
+    },
+    {
+      "path": "quality/evals/apothekenrecht.json",
+      "sha256": "429804ce49e167d27c0ccea4bd896894bfe68a512060fa5f88d39e0c97094e46"
+    },
+    {
+      "path": "quality/evals/bauwirtschaft.json",
+      "sha256": "7aedb4941468f1f8d668d5a8ff79a9aaba0c1484000e5aaf9a67100d8f904e4e"
+    },
+    {
+      "path": "quality/evals/corporate-contract-law.json",
+      "sha256": "3cf096d5256c88e8c2054f65dd55ae7d72bf6571bf2e11d07303685b59dede63"
+    },
+    {
+      "path": "quality/evals/energierecht.json",
+      "sha256": "ff80ae86efd0eb8d8efff0ef62ed58a79dd2c906532c11b4e6752d5fe9e100e2"
+    },
+    {
+      "path": "quality/evals/fachanwalt-agrarrecht.json",
+      "sha256": "0ec3b6e96753a9d8d7dfc5047c7d15b9213d87ef8d0b3ac3f6acd7a2be57d78f"
+    },
+    {
+      "path": "quality/evals/fachanwalt-bau-architektenrecht.json",
+      "sha256": "96618a91233afa4267cd1925d8dfaa8c1b0130c9c30a61996f6e6c3a782ea345"
+    },
+    {
+      "path": "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json",
+      "sha256": "f9c08d71d2700ee510c9d79cb36c1689f3e89619ffd1ee58a7c94444343e95d2"
+    },
+    {
+      "path": "quality/evals/fachanwalt-it-recht.json",
+      "sha256": "eca7adc50b8213cecb74a9050e91ee3ebafc2e30f36ec79e2691d02a77024610"
+    },
+    {
+      "path": "quality/evals/fachanwalt-medizinrecht.json",
+      "sha256": "32542673508b4b7283c4e896a0b85ccfcf8d932d765b34d6e86a936c952d98bc"
+    },
+    {
+      "path": "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
+      "sha256": "cb897d2f690f8c3cd3a768431282333a61f5a5edb8f7f2a00d6e0fb64d6cc282"
+    },
+    {
+      "path": "quality/evals/fachanwalt-sozialrecht.json",
+      "sha256": "f8f4896d1d1371f82c4456b32f23573783e2c82dce8706770783513f272abe0f"
+    },
+    {
+      "path": "quality/evals/fachanwalt-strafrecht.json",
+      "sha256": "7d5e13cdedbf6b2f5a58a1a70093313c443d6bb9c44ae8a829df21db5f3159bc"
+    },
+    {
+      "path": "quality/evals/fachanwalt-urheber-medienrecht.json",
+      "sha256": "ef1c1b759dea1bbfc7a662197dc96b06fa021b7b205ce6e475442a0bc9a1c88b"
+    },
+    {
+      "path": "quality/evals/fachanwalt-versicherungsrecht.json",
+      "sha256": "82e29f44b575cef9a3c4af1f125c8ec1010db709e69fd10b18e0e00b8a111476"
+    },
+    {
+      "path": "quality/evals/fashion-law-moderecht.json",
+      "sha256": "eb3caa525d9e0d69599d2fde4c10774c1ec26aa27b4fe49f151659a658557470"
+    },
+    {
+      "path": "quality/evals/gebrauchsmusterrecht.json",
+      "sha256": "2e598c671731ff9de9d505e3e24c62625aba7e16933bac3f46e09c34ccb17054"
+    },
+    {
+      "path": "quality/evals/goae-gebuehrenordnung-aerzte.json",
+      "sha256": "7738ef5105f4f2c3391a00d43fb3a48fb78681eb2c620e0c914c9d889ff40a29"
+    },
+    {
+      "path": "quality/evals/influencer-recht.json",
+      "sha256": "7d564436346a7dc249a57c205dfa6fe7613e5ac51abaa4db618f77644062d0d6"
+    },
+    {
+      "path": "quality/evals/jura-in-einfacher-sprache.json",
+      "sha256": "b7135f405410c8c3d13f37092478927a35ea5447a6f8e73a0bd10f0746f49351"
+    },
+    {
+      "path": "quality/evals/juristische-presseberichterstattung.json",
+      "sha256": "bc7eb602f20a1035232ea27c35a8045d0a62ec5fb99843bcbef171272ac017a9"
+    },
+    {
+      "path": "quality/evals/mandantenanfragen-assistent.json",
+      "sha256": "d258653d65a5d392472e044628260dc0d516b56d362256e4cc746e9a2f33173b"
+    },
+    {
+      "path": "quality/evals/memorandums-ersteller.json",
+      "sha256": "9a9af753c19bc7cfcbf2a5ef82175449134af1077f16b454886b131eed40a176"
+    },
+    {
+      "path": "quality/evals/methodenlehre-buergerliches-recht.json",
+      "sha256": "ef6dc58b31710f918f42acf5682eaabf21bea7608495688524b21867d6b25787"
+    },
+    {
+      "path": "quality/evals/mietrecht.json",
+      "sha256": "9baac4cbedc995f1a3f4a70d98c78ec186dcb6c4ce173c6bafdc9be17d8e27a0"
+    },
+    {
+      "path": "quality/evals/preussisches-allgemeines-landrecht-pralr.json",
+      "sha256": "0e4435a0f03441af53a4de60e26f65977bbae1f4a50bb8488e644c9217733fcb"
+    },
+    {
+      "path": "quality/evals/prozessrecht.json",
+      "sha256": "914500008c35ced5f141276a23bfddea69feb7812b6703d9525e80db32db6922"
+    },
+    {
+      "path": "quality/evals/relationstechnik-zivilrecht.json",
+      "sha256": "d166a3be19e99194a3f953b3689108e5c704df36fb77ee759ec181f63fbb3691"
+    },
+    {
+      "path": "quality/evals/richter-landgericht-zivilkammer.json",
+      "sha256": "98d15ff9c3a71185ca591817ad557e4c47e8419e57e592bf7973f26586dfcec9"
+    },
+    {
+      "path": "quality/evals/schadensregulierung.json",
+      "sha256": "a842a50f70bbf6e8dc3d52cba41c947fe63484cba5dc2cf8587fbe2c93ccd1b2"
+    },
+    {
+      "path": "quality/evals/schriftform-und-textform-bgb.json",
+      "sha256": "7def0e04d69f36f0450e55ad44a9e6eb5dfc5cc7153b3364687588f1ad7f3109"
+    },
+    {
+      "path": "quality/evals/schriftsatz-versandwerkstatt.json",
+      "sha256": "8b86db24f6a4014b7a1831327de084124b359612279b0c73f2f8d112f13e4808"
+    },
+    {
+      "path": "quality/evals/sozialrecht-fuer-laien.json",
+      "sha256": "9a2b4468bacf967d5fcf8030ec3fd4ff8cdbc49f3cd03249c6798065ef8c63e5"
+    },
+    {
+      "path": "quality/evals/steuerrecht-anwalt-und-berater.json",
+      "sha256": "580f0b564455ee957361b26f2e1ec7122f94c190f09f1eb7b1d1cfe7976f8082"
+    },
+    {
+      "path": "quality/evals/strafbefehl-verteidiger.json",
+      "sha256": "0cb4a57cc0c4cac89259a64de7d29b76255e45d6f5a93b127606af529d59f95d"
+    },
+    {
+      "path": "quality/evals/strafzumessung.json",
+      "sha256": "caa9b40981ebe503542cf2a553c3939435b478727c4cea98f027fd1ef2c47e79"
+    },
+    {
+      "path": "quality/evals/subsumtions-pruefer.json",
+      "sha256": "77a6e9e482dca1471f7d386ae40a214684cc4a2bbb1d37f51c0f5ab259905cda"
+    },
+    {
+      "path": "quality/evals/tabellenreview-3d.json",
+      "sha256": "6469649086a984ff0d2a973a29b0bed566f1d230b8474a4685368f6a816b8ac8"
+    },
+    {
+      "path": "quality/evals/urteilsbauer-relationsmacher.json",
+      "sha256": "7eae8294c83256083003b700c1c8bcd29a0de37a284f520362a4f90e858b96a5"
+    },
+    {
+      "path": "quality/evals/versicherungsrecht.json",
+      "sha256": "50d210fdd197a02125372377755cfa9f4adae5e8c67fe0410bb1fa7fd1d31361"
+    },
+    {
+      "path": "quality/evals/vertragsausfueller.json",
+      "sha256": "805e68bec545224334e980bccc4bbd7f7edabba58e82365ca394c692a0c73e20"
+    },
+    {
+      "path": "quality/evals/vertragserstellung.json",
+      "sha256": "69377194c5cde71424a997073e243435ee7cb3a24953155ec265be9999e45733"
+    },
+    {
+      "path": "quality/evals/vertragsrecht.json",
+      "sha256": "437b1a80b9e2cfb5780d6db38784d24e9aa22070345c639ae2291196a47171d8"
+    },
+    {
+      "path": "quality/evals/wirtschaftsanwalt.json",
+      "sha256": "19d7e39a2a76201ab70d9ac9b57546517dcfb66dc1aa0bc0044947977767f938"
+    },
+    {
+      "path": "quality/evals/zwangsverwaltung-zvg.json",
+      "sha256": "71bc88d672e2164dcbe64ca5d0fc41cd8367d394e1213c8022424cf48f6727b0"
+    },
+    {
+      "path": "quality/evals/zwangsvollstreckung.json",
+      "sha256": "ef8623e6873af1e310f8b30c7f63c953ac55f1a6fc09aaac86b04ac774394686"
+    },
+    {
+      "path": "schadensregulierung/references/haftung-und-regulierung.md",
+      "sha256": "ff87940690281f60b5d3a410835594ef5114dc1cab7a159287d8cd0a9396ce24"
+    },
+    {
+      "path": "schadensregulierung/schadensregulierung-werkstatt.md",
+      "sha256": "fc50e4b28dc891b0741a66def8e71f51d5113afafd9ab4c5c0f9b973677ed5ad"
+    },
+    {
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md",
+      "sha256": "e1d039883b17ea7103d5f36fa367aaad76192041a11602895a5167c7305be5fc"
+    },
+    {
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "sha256": "79bbbed7a8816a2bb2045f336f5c255f92d585f1147c024c446acf845b0be063"
+    },
+    {
+      "path": "scripts/audit-rechtsprechungsbestand.py",
+      "sha256": "f0720fae3f5b46157c4da90510d73d6d92528928f1a92284e7f6d1054e45b088"
+    },
+    {
+      "path": "skills-index/strafbefehl-verteidiger.md",
+      "sha256": "c05c76c1ccbda3b26772e60db772acc6ed1123c03e18e62b50a5fee498496139"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/references/fristen-und-verfahren.md",
+      "sha256": "d5f47ac58e64b9c8379ba52868df6c45b86c3575f900720185ce25503f19e6f2"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/references/quellen-und-hilfe.md",
+      "sha256": "d9883aae38b4d7a8a15756be8eb6cf077dbb31d864c0bb8e76eec824000761b1"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md",
+      "sha256": "50b02b2878ac3a6b631cf4d93c9d18c95185d39bea98263c5f5df06f254168cb"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/skills/widerspruch-schreiben/SKILL.md",
+      "sha256": "15eace4c528700e3cdce1d91570022037dd104a6c822bc6b9361020069752fbf"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md",
+      "sha256": "838149a6fc2bb4bd8cc6fab443dec6cecf2744dfebe2f6694bfb5d3ce4d95a06"
+    },
+    {
+      "path": "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md",
+      "sha256": "3112090b08adab465f0f24171fe44296778c2302b952b7a4a0a2a73b970f569d"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+      "sha256": "22d17b76ad483dd882ebab88d40fa98ed8b4af8ac4134c9952da86dbc6c3548c"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+      "sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+      "sha256": "3f9c84da2e5dd5669eea0c6e3d056ef94130b7dfab9e87522e63229194475bf2"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md",
+      "sha256": "2c01d835bd0224adf20aa34186f044fbd99632a771562db427bde0cd2e295110"
+    },
+    {
+      "path": "strafbefehl-verteidiger/README.md",
+      "sha256": "f348b56f65f524b3ad4ef94c6aa5a5472c9bcc6dbca057312df89bba937c1d05"
+    },
+    {
+      "path": "strafbefehl-verteidiger/skills/strafbefehl-zulaessigkeit-407/SKILL.md",
+      "sha256": "7b2c10f7b6c3ead97f306ffc55ebcc29a4f022bbc22c041a452aeed37e0917e0"
+    },
+    {
+      "path": "strafbefehl-verteidiger/strafbefehl-verteidiger-schnellstart.md",
+      "sha256": "c5d52c75889264377326eb4769dff4dbf855282e4f4f492e02e30bfb735fa770"
+    },
+    {
+      "path": "strafbefehl-verteidiger/strafbefehl-verteidiger-werkstatt.md",
+      "sha256": "ae8bf5dd95ed6568ac39e1ec039777e8d80c108d43768368b243e5b5bb42c6bd"
+    },
+    {
+      "path": "strafzumessung/skills/paragraph-46-stgb-grundsatz-strafzumessung/SKILL.md",
+      "sha256": "0efc14e27318f7654043204cd4ea85a9c0104492939e56346b96daf4236be2e0"
+    },
+    {
+      "path": "strafzumessung/strafzumessung-schnellstart.md",
+      "sha256": "3c6b23a95ba7a781144a875c62405fd34d364954a81c45ed68bd6e4f12ea8709"
+    },
+    {
+      "path": "strafzumessung/strafzumessung-werkstatt.md",
+      "sha256": "971a5592f76aa353e89d7640b22328691f0de96995e69c91a5615bd017810c45"
+    },
+    {
+      "path": "subsumtions-pruefer/subsumtions-pruefer-schnellstart.md",
+      "sha256": "146516c1c1078b70f72448ae6b615f56eb68edc0a995b07b3bb339c3bcce22c7"
+    },
+    {
+      "path": "subsumtions-pruefer/subsumtions-pruefer-werkstatt.md",
+      "sha256": "d85b651f9f4b5f7b1a96d7bd429ff5782d175a28140f6bb80b9b43f8ffdc02a1"
+    },
+    {
+      "path": "tabellenreview-3d/tabellenreview-3d-schnellstart.md",
+      "sha256": "c52b5f288191d66175068a3de66b9f04badea859c610d9965be35240008690ec"
+    },
+    {
+      "path": "tabellenreview-3d/tabellenreview-3d-werkstatt.md",
+      "sha256": "84a4792683b5331e5f1aef4bb4b4ade6f034ccfac25ff1a3b5e8a37f9212f67c"
+    },
+    {
+      "path": "testakten/megaprompts/bauwirtschaft.md",
+      "sha256": "41f42b3866a83fa45a1c68364a7d56a6836f555930b57c3f4498a8e1a26c3549"
+    },
+    {
+      "path": "testakten/megaprompts/fachanwalt-gewerblicher-rechtsschutz.md",
+      "sha256": "e79f6b676109edcacd13ea15cd3660a8aeadb7ef08cab1332a5b8ea4dd8304b6"
+    },
+    {
+      "path": "testakten/megaprompts/fachanwalt-versicherungsrecht.md",
+      "sha256": "e3f1c5eb70bcf04cc807c74b9884f2e534cb9ccbbab58a4fa364b53af4ce3805"
+    },
+    {
+      "path": "testakten/megaprompts/strafbefehl-verteidiger.md",
+      "sha256": "02577c1135a49ad63e9150c16dbb26f7b1641b8f6a9e974f58ddfc775c500c73"
+    },
+    {
+      "path": "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-schnellstart.md",
+      "sha256": "49b3b7d0733b1a9ec8aa60dc2241733207d1459e87d68114e230746be16bf0fc"
+    },
+    {
+      "path": "urteilsbauer-relationsmacher/urteilsbauer-relationsmacher-werkstatt.md",
+      "sha256": "385fa9337f945f7a2a9e3978ec0a5e20c5f6d688408789979c99782ffa7f7495"
+    },
+    {
+      "path": "versicherungsrecht/versicherungsrecht-schnellstart.md",
+      "sha256": "4160f1268a6ce39095c0b2abb19d3261704e3720ab1ffeb946b2aef195827b0d"
+    },
+    {
+      "path": "versicherungsrecht/versicherungsrecht-werkstatt.md",
+      "sha256": "3c2c6eabc77bcdafee79114f227410f717b277ddabe318cb57152afcf6405ab2"
+    },
+    {
+      "path": "vertragsausfueller/vertragsausfueller-schnellstart.md",
+      "sha256": "1ba67ed382b581e1a236b71660ef5c108465fcba396b2c904d4ebe32ff0760f0"
+    },
+    {
+      "path": "vertragsausfueller/vertragsausfueller-werkstatt.md",
+      "sha256": "afe0ff58cc5cc92105aa9793b0ebda977b7eb83193b7cf1dc67317304f2cd7bd"
+    },
+    {
+      "path": "vertragserstellung/references/fachquellen.md",
+      "sha256": "d43d2ebdb04c1abee3799397411e77661f8a35d42b04a676da5bdaebe901b12f"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-hauptproblem.md",
+      "sha256": "c951d5057ae7f18d9115412e55a04854efdda41f39a6f487fa352ca2a2a46c23"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-schnellstart.md",
+      "sha256": "4fd375a9a44a485123ee96e8dbf8beb2dc00eed5e073eefbdacacf2b81b4ed21"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-werkstatt.md",
+      "sha256": "73fced458bfeb5f7b2111a77166ec1d99be71ecc2aab1a137f4abf644a80562f"
+    },
+    {
+      "path": "vertragsrecht/vertragsrecht-schnellstart.md",
+      "sha256": "70b1f57200a4537d5627fee0f37da44ebe5971126ca1a2a30451950fbdb923ca"
+    },
+    {
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "sha256": "91ef5ef1170ccc5b416b7adaa310c3019fdec0067bbe2c05904f5803182fd294"
+    },
+    {
+      "path": "wirtschaftsanwalt/references/fachquellen.md",
+      "sha256": "b36959f3570de42d1794c604bc4e9b02c9643d165258f406c9e89a26d39a28b9"
+    },
+    {
+      "path": "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md",
+      "sha256": "b031bad40bdee894db75aacddd52af3b9553610369f3cf238e684cefef4318ea"
+    },
+    {
+      "path": "zwangsverwaltung-zvg/zwangsverwaltung-zvg-schnellstart.md",
+      "sha256": "5e317110184cd939c30de2bb753a4c789b72a1e6d5d4f7bc15c5de2e17eacb23"
+    },
+    {
+      "path": "zwangsverwaltung-zvg/zwangsverwaltung-zvg-werkstatt.md",
+      "sha256": "1a449d56159247f1184d2e59a03c002e0e6cadf3436768628cf2c910bbca7342"
+    },
+    {
+      "path": "zwangsvollstreckung/zwangsvollstreckung-schnellstart.md",
+      "sha256": "65f0efd2e6f6506e38a2e13abd4ae120e9fb1e53806c47a94ec1a95d6acfd064"
+    },
+    {
+      "path": "zwangsvollstreckung/zwangsvollstreckung-werkstatt.md",
+      "sha256": "a0d34f4411b9dcc25f473a5fb5f076d870d360bfefa0708009cc6d37d9fe84a1"
+    }
+  ]
+}

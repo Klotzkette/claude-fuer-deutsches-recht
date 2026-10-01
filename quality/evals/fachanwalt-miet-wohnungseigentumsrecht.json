@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__559.html",
@@ -67,6 +67,48 @@
       "url": "https://www.gesetze-im-internet.de/woeigg/__45.html",
       "supports": "Erneuter Normabruf: Anfechtungsklage innerhalb eines Monats, Begründung innerhalb zweier Monate jeweils nach Beschlussfassung; eigenständige Fristen beachten.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44: § 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen. Gelesen: Kopf/Leitsatz, Rn. 28–44; Tatbestand zur Einordnung. Grenze: Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen.",
+      "sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29: Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend. Gelesen: Kopf/Leitsätze, Rn. 10–17 und 20–29. Grenze: Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht.",
+      "sha256": "4d294cb73471f054fa6fceac16fff307e6e3d7543a533eaafa7c7f7313e194f5"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__24.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 4 und 6: Textform, grundsätzlich dreiwöchige Frist, Protokollunterzeichnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__44.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 und 2: Klagearten, GdWE als Beklagte, keine angeordnete aufschiebende Wirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__45.html",
+      "checked_on": "2026-10-01",
+      "supports": "Beide Fristen ab Beschlussfassung; Wiedereinsetzungsverweisung in Satz 2."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__9b.html",
+      "checked_on": "2026-10-01",
+      "supports": "Gesamtvertretung durch Wohnungseigentümer bei fehlendem Verwalter."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__23.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 3 und 4: Umlaufbeschluss in Textform und Nichtigkeitsmaßstab."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gkg_2004/__49.html",
+      "checked_on": "2026-10-01",
+      "supports": "Siebeneinhalbfachgrenze und Verkehrswertgrenze einschließlich Beigetretener."
     }
   ],
   "mini_review": {
@@ -76,9 +118,11 @@
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert."
     ],
-    "sha256": "7600ebd7ef3238379956185aa296f18780463920d3f9c9594c97e83a42adace4"
+    "sha256": "0c1b1a04b2879d78f643b461d03200c93e688246ccdcd534c7d622fb18e86304",
+    "reviewed_on": "2026-10-01"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -155,19 +199,23 @@
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
-      "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen."
+      "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
+      "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert."
     ],
-    "sha256": "0acf9c6508e799ba28d91f39a6862aca4493fd993a366961ed2627ab01e9675c"
+    "sha256": "1e022388bdac75dcec4562cb759aab9ae80a77db1ed1264cde197f536270330c",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
       "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md",
       "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md",
       "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
       "fachanwalt-miet-wohnungseigentumsrecht/README.md",
-      "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json"
+      "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung/SKILL.md",
+      "fachanwalt-miet-wohnungseigentumsrecht/skills/mietpreisbremse-paragraf-556d-bgb-pruefen/SKILL.md"
     ],
     "opening_change": "Geschuldete Miete und wirksame Beendigung statt abstraktem Auftrag; Hauptproblem vom Rechnungsbetrag zur konkreten Monatsmiete. Workflow-Ergänzung: Leer: Mietkonto und Kündigung, Abrechnungsabwehr oder WEG-Beschluss anbieten. Dateien ohne Aufgabe: Konto, Kostenbelege und Beschluss still lesen; Zahlungs-, Modernisierungs- oder Beschlussziel klären. Klarer Auftrag: konkrete Rechnung, Einwendung oder Klagevorbereitung unmittelbar bearbeiten; bekannte Wohnungsdaten nicht wiederholen.",
     "norms": [
@@ -184,13 +232,28 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
         "application": "Bei noch funktionierenden alten Bauteilen abnutzungsbezogenen Erhaltungsabzug prüfen; Vermieter beweist Modernisierung und umlagefähige Kosten, auch bei negativer Feststellungsklage. Fehlender Abzug nicht automatisch Formfehler, trennbare Erhöhungsteile nach Paragraf 139 prüfen.",
         "limit": "Alte Umlageregelung; keine Übernahme der damaligen elf Prozent oder automatische Übertragung auf besondere Heizungs- und Pauschalmodelle."
+      },
+      {
+        "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "§ 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen.",
+        "limit": "Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend.",
+        "limit": "Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht."
       }
     ],
     "remaining_limits": [
       "Desk- und Quellenreview, kein Live-Modelltest.",
       "Modernisierungsentscheidung gezielt amtlich geprüft; sonstige alte Urteile in der Werkstatt bleiben ausdrücklich Recherchehinweise. Keine vollständige Neuprüfung von WEG- oder CO₂-Recht.",
       "Aktueller Wortlaut der Heizungsumlage gelesen, nicht sämtliche Übergangs- und Gebäudemodernisierungsregeln geprüft; Maßnahmenzeitpunkt weiter entscheidend.",
-      "Workflow-Review 23.09.2026: Paragraf 45 WEG erneut eingesehen; Fristen ab Beschlussfassung, nicht pauschal ab Protokollzugang. Vorhandene mietrechtliche Differenzierungen erhalten."
+      "Workflow-Review 23.09.2026: Paragraf 45 WEG erneut eingesehen; Fristen ab Beschlussfassung, nicht pauschal ab Protokollzugang. Vorhandene mietrechtliche Differenzierungen erhalten.",
+      "Begrenzter Nachtrag 01.10.2026: VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests."
     ]
   },
   "prompt_workflow_review": {

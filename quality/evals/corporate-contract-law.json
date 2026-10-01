@@ -109,17 +109,17 @@
       "supports": "Amtliche Seite zunächst mit Inhalt geöffnet; Leitsatz und Metadaten gelesen. Artikel 17 und 18 der Richtlinie 86/653/EWG bei EU-Tätigkeit trotz Drittstaatensitz und dessen Rechtswahl. Keine vollständige Gründeprüfung; spätere Abrufe gesperrt."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "BGH 20.03.2014, VII ZR 248/13: amtlich indexierter Leitsatz als Aushandlungsanker; Direktabruf 403. Nicht volltextverifiziert, keine Randnummer bestätigt."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "BGH 19.01.2017, VII ZR 301/13: amtlich indexierter Leitsatz zur Abnahme und zum Abrechnungsverhältnis. Direktabruf fehlgeschlagen; kein bestätigter Volltext."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "BGH 15.02.2024, VII ZR 42/22: indexierter Leitsatz zur konkreten Einheitspreis-Vertragsstrafe. Direktabruf 403; kein allgemeiner Fünf-Prozent-Freibrief und kein bestätigter Volltext."
     },
@@ -898,5 +898,27 @@
     "corporate-contract-law/skills/vertrieb-haendler-und-handelsvertreter-gestalten/SKILL.md": "aaf2cc09a6f45d0dca953a59718596c665b7ba8e6c9b7fa9609ebc34f227dfb2",
     "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md": "8c6d6a29df0a940b4c0ac144983367d41d824134325959bf5eaa58a8fbfc3575"
   },
-  "source_verification": "Gelesene amtliche Normtexte und begrenzte Ingmar-Leitsatzaussage; weitere Anker nur mit dokumentierten Zugriffslücken. Kein globaler Volltext- oder Aktualitätsnachweis."
+  "source_verification": "Gelesene amtliche Normtexte und begrenzte Ingmar-Leitsatzaussage; weitere Anker nur mit dokumentierten Zugriffslücken. Kein globaler Volltext- oder Aktualitätsnachweis.",
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?.pdf=&Art=en&Datum=Aktuell&Frame=4&Gericht=bgh&anz=1&nr=136872&pos=0",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "381f7fdaa60f5b63ee91435cfe1b8a87072f71240114878033509bec460abecb"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2014-3-20&Gericht=bgh&anz=30&nr=67527&pos=21",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+        "sha256": "4a835c89d9a72df07140c77a24c5e2c95cdee5192b781edb9fdbe669c17144fb"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+        "sha256": "0b725d4cf5a062d1dbc7b66ffc2229963aecd8dec68da59fa323b1380b53b345"
+      }
+    ]
+  }
 }

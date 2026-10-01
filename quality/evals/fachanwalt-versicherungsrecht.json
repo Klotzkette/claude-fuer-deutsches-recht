@@ -14,7 +14,7 @@
       "supports": "Differenzierte Rechtsfolgen und Beweislast bei vertraglichen Obliegenheiten; insbesondere fehlende grobe Fahrlässigkeit und Kausalitätsgegenbeweis."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-14",
       "supports": "BGH, Urteil vom 19.07.2017, Az. IV ZR 535/15: amtlich indexierten Leitsatz zur untrennbaren Teilhandlung eines Gesamtvorgangs geprüft. Direkter Volltextabruf gescheitert, keine Randnummern verwendet."
     },
@@ -24,12 +24,12 @@
       "supports": "Aktueller amtlicher Normtext zur Prüfung: Paragraf 172 VVG; Paragraf 28 VVG; Paragraf 81 Absatz 2 VVG. Keine Gesamtverifikation sämtlicher Nebenmaterien."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 19.07.2017, IV ZR 535/15: Zeitanteil einer nicht mehr möglichen Teilhandlung nicht isolieren, wenn diese untrennbarer Bestandteil eines beruflichen Gesamtvorgangs ist. Grenze/Prüftiefe: Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 22.06.2011, IV ZR 225/10: Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen. Grenze/Prüftiefe: Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
     },
@@ -60,7 +60,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
     ],
-    "sha256": "25831b94f1a97eb288d41a6906eed9258abb5e0168ad81970e206259ceb4fc7e",
+    "sha256": "68c4cb13f4b27333d4e884aa4529dc924eb72849138a53b92cd401619aff9733",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -74,9 +74,9 @@
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
-    "prompt_sha256": "3f1e7f9900d0f23e1e64dbb7f1c210cf3f23a292e9aa16f9d1b90b6839638346",
+    "prompt_sha256": "af863f9b895d56af7917f29d52b7c9a2bf1648b7fb7e2c65e64d6e4b5ab5a80d",
     "skill_path": "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
-    "skill_sha256": "b9ce13fec055d61fd3bf43ab5ad024f84455e1071b2b78cff686d1ea456803db"
+    "skill_sha256": "b5589b4b95633e129ad16295c77df7d47b34fbaa73536b073d4dc4a11c401c06"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -87,7 +87,7 @@
       "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
       "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
     ],
-    "sha256": "eacfae3f4f08fbf2a67562349bee9751a10de0e5c0fc6b6515594c0056ed96b6",
+    "sha256": "bf4315755be5dd64905aea6c997fe8cd13c3de7b57b29e2b8fc19de99462f4d9",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -161,13 +161,13 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 19.07.2017, IV ZR 535/15",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1",
         "application": "Zeitanteil einer nicht mehr möglichen Teilhandlung nicht isolieren, wenn diese untrennbarer Bestandteil eines beruflichen Gesamtvorgangs ist.",
         "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; kein automatischer Vollbeweis bedingungsgemäßer Berufsunfähigkeit."
       },
       {
         "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
         "application": "Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen.",
         "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
       }
@@ -189,5 +189,22 @@
     "continuation": "Dauerhafte Transporthilfe steht erst seit Juni bereit -> Tätigkeitsabschnitte und Rentenmonate ändern, nicht den gesunden Ausgangsberuf rückwirkend ersetzen.",
     "enrichment": "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1",
+        "sha256": "f5d4ed65bbd67e1e893e0269f93f43d850f829347dbd44e7b5bebcc974c67578"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
+        "sha256": "623a495b96b385bd2dccac21be602602ad3273ff431ecf1c676712a112486045"
+      }
+    ]
   }
 }

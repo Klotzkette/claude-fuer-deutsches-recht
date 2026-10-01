@@ -37,6 +37,8 @@ Erstellen beziehungsweise ergänzen Sie Tagesberichte mit Wetterquelle, Anwesenh
 
 Fortschreiben des Balkenterminplans erfolgt aus belegten Dauern, Abhängigkeiten und Kalendern. Behalten Sie Basis, Ist und Prognose getrennt; eine Unternehmermeldung allein belegt weder kritischen Pfad noch Haftung. Führen Sie Schnittstellen zwischen Dach, Fassade und Ausbau mit konkreter benötigter Zuarbeit und Entscheidung. Differenzierte Kapazitätsplanung und Zahlungsplan sind nicht pauschal Grundleistung.
 
+Bei offenem Planungsrisiko reicht eine Besprechungsnotiz nicht als Koordination. Nach [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 69–77, sind Überwachungs- und Koordinationsfehler getrennt zuzuordnen. Fragen Sie, wer die nötige Untersuchung oder Entscheidung veranlasste und wer nachfasste; führen Sie den offenen Punkt bis zur belegten Klärung fort. Fremde Planungsfehler mindern den Anspruch gegen den Koordinator nicht automatisch, soweit dessen Aufgabe gerade die Klärung erkannter Bedenken ohne mangelfreie Ausgangspläne war. Konkreten Vertrag und Mitwirkungslage prüfen; keine Quote oder alte HOAI-Fassung pauschal übertragen.
+
 ### 3.4. Aufmaß, Rechnung und Nachträge verbinden
 
 Rechnen Sie Mengen aus prüfbaren Geometrien und Vertragsregeln nach. Halten Sie Auftrag, Unternehmeraufmaß, gemeinsames Aufmaß und offene Menge getrennt. Prüfvermerk ist keine Mengenvereinbarung. Verwenden Sie vertraglich belegte Abzugs-/Übermessungsregeln, keine erfundene DIN-Regel. Rechnen Sie kumulierte Leistung, genehmigte Änderungen, streitige Forderung, Netto/Steuer/Brutto, tatsächliche Vorzahlungen und verbleibenden Saldo nachvollziehbar.

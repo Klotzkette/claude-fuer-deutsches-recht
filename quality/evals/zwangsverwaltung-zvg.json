@@ -29,7 +29,7 @@
       "supports": "Amtlichen Text zu Paragraf 152 Absatz 2 ZVG gelesen; Bezug: Mietforderungen, tatsächliche Liquidität und zweckgebundene Gelder abgleichen. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 23.09.2009, VIII ZR 336/08: Bei vor Beschlagnahme überlassener Wohnung Kautionsanlage auch ohne Übergabe verlangen; begrenzten Mieteinbehalt und Mittelbedarf vor Mahnung beziehungsweise Ausschüttung berücksichtigen. Amtlich indizierter Volltext einschließlich Rn. 10 bis 13 gelesen; direkter Abruf 403. Kein unbegrenzter Einbehalt, kein allgemeiner Insolvenzrang und keine ungeprüfte Gewerbemietübertragung."
     },
@@ -71,7 +71,7 @@
       "Übernahmebericht, Mieterbrief oder Rechnungslegung als konkrete Wege bei leerer Eingabe; Dateien ohne Aufgabe still lesen.",
       "Nachgewiesene Kautionsanlage verändert Einwand und Brief; geänderte Reparaturkosten verändern Budget, Vorschuss und Verteilungsempfehlung."
     ],
-    "sha256": "d11ef20cbfbedf6884396e05b1b2c16460646829b8cd6b3b134e495c737c56a3",
+    "sha256": "5e317110184cd939c30de2bb753a4c789b72a1e6d5d4f7bc15c5de2e17eacb23",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -83,7 +83,7 @@
       "Kautionsbelege, tatsächlicher Zahlungseingang und höhere Reparaturkosten bis zur aktualisierten Vorschussbegründung verfolgen.",
       "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen."
     ],
-    "sha256": "33e22ae6b1775d743c6ed939418a91f39e370043a19a76d2d93b8e671fdaada7",
+    "sha256": "1a449d56159247f1184d2e59a03c002e0e6cadf3436768628cf2c910bbca7342",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -161,7 +161,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 23.09.2009, VIII ZR 336/08",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1",
         "application": "Bei vor Beschlagnahme überlassener Wohnung Kautionsanlage auch ohne Übergabe verlangen; begrenzten Mieteinbehalt und Mittelbedarf vor Mahnung beziehungsweise Ausschüttung berücksichtigen.",
         "limit": "Amtlich indizierter Volltext einschließlich Rn. 10 bis 13 gelesen; direkter Abruf 403. Kein unbegrenzter Einbehalt, kein allgemeiner Insolvenzrang und keine ungeprüfte Gewerbemietübertragung."
       }
@@ -171,6 +171,18 @@
       "Amtlich indizierter Volltext einschließlich Rn. 10 bis 13 gelesen; direkter Abruf 403. Kein unbegrenzter Einbehalt, kein allgemeiner Insolvenzrang und keine ungeprüfte Gewerbemietübertragung.",
       "Keine Live-Abrechnung und keine vollständige Neuprüfung der ZwVwV-Vergütung; Wohnraumentscheidung begründet keinen allgemeinen Insolvenzrang.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/bgh_notp/document.py?Art=en&Datum=2009-9-23&Gericht=bgh&Sort=3&anz=21&pos=13",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1",
+        "sha256": "01042c1ad8f06de05e04e92ac665b3204a2585a0af2938b533d3dc858ac93297"
+      }
     ]
   }
 }

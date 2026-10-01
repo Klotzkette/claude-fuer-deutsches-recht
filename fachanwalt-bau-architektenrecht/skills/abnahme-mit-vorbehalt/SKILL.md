@@ -23,7 +23,7 @@ description: "Für Abnahme mit Vorbehalt: ordnet Norm, Beweislast und Gegenargum
 1. Welche Abnahmeform liegt vor — förmlich (Begehungsprotokoll), konkludent (Ingebrauchnahme), fiktiv (§ 640 Abs. 2 BGB nach Fristablauf), VOB/B § 12?
 2. Liegt eine Abnahmeerklärung schriftlich oder mündlich vor? Welche Mängel waren bei Abnahme erkennbar oder bekannt?
 3. Bestehen Vertragsstrafenansprüche wegen Bauzeitüberschreitung (§ 339 BGB) — wurde Vorbehalt nach § 341 Abs. 3 BGB bei Abnahme erklärt?
-4. Sollen einzelne Werkteile abgenommen werden (Teilabnahme § 640 Abs. 1 Satz 2 BGB) oder Gesamtabnahme?
+4. Sollen einzelne Werkteile abgenommen werden (Teilabnahme: Vertragsgrundlage und gegebenenfalls § 641 Abs. 1 Satz 2 BGB prüfen) oder Gesamtabnahme?
 5. Welche Mängel werden im Abnahmeprotokoll dokumentiert, mit welchen Nachbesserungsfristen?
 6. Besteht Streit über Abnahmefähigkeit — verweigert der Besteller Abnahme wegen behaupteter wesentlicher Mängel?
 7. Wie hoch ist der Werklohn, der mit Abnahme fällig wird? Gibt es offene Abschlagsrechnungen?
@@ -35,24 +35,25 @@ description: "Für Abnahme mit Vorbehalt: ordnet Norm, Beweislast und Gegenargum
 | Norm | Inhalt |
 |------|--------|
 | § 640 Abs. 1 BGB | Abnahmepflicht — Besteller muss vertragsgemäß fertiggestelltes Werk abnehmen; Verweigerung wegen unwesentlicher Mängel unzulässig |
-| § 640 Abs. 2 BGB | Fiktive Abnahme — Fristsetzung zur Abnahme; nach fruchtlosem Fristablauf Abnahmewirkung kraft Gesetzes |
+| § 640 Abs. 2 BGB | Fiktive Abnahme — Unternehmerfrist nach Fertigstellung, keine rechtzeitige Verweigerung mit mindestens einer Mangelangabe; bei Verbrauchern zusätzlicher Textformhinweis |
 | § 640 Abs. 3 BGB | Vorbehalt bei bekannten Mängeln — zwingend bei Kenntnis; sonst Verlust Mängelansprüche §§ 634 Nr. 1–3 BGB |
-| § 641 Abs. 1 BGB | Fälligkeit Werklohn mit Abnahme |
+| § 641 Abs. 1, § 650g Abs. 4 BGB | Abnahme und Fälligkeit trennen; beim Bauvertrag grundsätzlich zusätzlich prüffähige Schlussrechnung erforderlich |
 | § 641 Abs. 3 BGB | Einbehalt — doppelter Mängelbeseitigungsaufwand bis zur Nacherfüllung |
 | § 644 BGB | Gefahrübergang mit Abnahme — Zufallsschäden trägt danach Besteller |
 | § 634a BGB | Verjährungsbeginn der Mängelansprüche mit Abnahme — 5 Jahre Bauwerk |
 | § 341 Abs. 3 BGB | Vertragsstrafenvorbehalt — muss bei Annahme der Leistung (= Abnahme) erklärt werden |
 | § 339 BGB | Vertragsstrafe — verwirkt bei Überschreitung Fertigstellungstermin |
 | § 12 VOB/B | Förmliche Abnahme — gemeinsame Begehung, Niederschrift, Vorbehalte; fiktive Abnahme § 12 Nr. 5 VOB/B |
-| § 13 Nr. 5 VOB/B | Verjährung Mängelansprüche nach VOB/B — 4 Jahre Bauwerk |
+| § 13 Abs. 4 VOB/B | Bei wirksamer Einbeziehung regelmäßig vier Jahre für Bauwerke, soweit nicht anders vereinbart; Sonderfälle und Absatz 5 gesondert prüfen |
 
-## Leitentscheidungen (verifiziert dejure.org)
+## Leitentscheidungen und Quellenstatus
 
 | Gericht | Aktenzeichen | Datum | Kernaussage | Quelle |
 |---------|-------------|-------|-------------|--------|
-| BGH | VII ZR 49/15 | 25.02.2016 | Bautraegervertrag: Abnahme-Klausel in AGB, die einen vom Bautraeger bestimmten Sachverstaendigen über die Abnahme entscheiden lässt, ist nach §§ 307, 309 Nr. 8 BGB unwirksam (Erwerberschutz) | dejure.org/2016,3146 / NJW 2016, 1572 |
-| BGH | VII ZR 25/13 | 30.04.2014 | Konkludente Abnahme: Ingebrauchnahme + Restzahlung + Ablauf angemessener Prüfzeit (regelmaessig 6 Monate) deuten auf Abnahme hin | dejure.org/2014,7990 |
+| BGH | VII ZR 49/15 | 25.02.2016 | Recherche zum Erwerberschutz bei formularmäßiger Abnahmebindung: konkrete Klausel und tragende Passage prüfen, keine allgemeine Aussage über jede Sachverständigenabnahme | dejure.org/2016,3146 / NJW 2016, 1572 |
 | BGH | VII ZR 46/17 | 22.02.2018 | Aufgabe der fiktiven Schadensberechnung nach Mangelbeseitigungskosten | dejure.org/2018,2890 |
+
+Die frühere Angabe „BGH, 30.04.2014, VII ZR 25/13“ wurde nicht amtlich verifiziert und wird nicht als Entscheidungsbeleg verwendet. Für konkludente Abnahme anhand konkreter Umstände prüfen, ob das Verhalten als Billigung der Leistung als im Wesentlichen vertragsgemäß verstanden werden durfte; keine allgemeine Sechsmonatsfrist behaupten.
 
 Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren.
 
@@ -67,7 +68,7 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 | 3 | Abnahmeform bestimmt | §§ 640, 12 VOB/B | Protokoll / konkludent / fiktiv |
 | 4 | Bekannte Mängel bei Abnahme — Vorbehalt erklärt? | § 640 Abs. 3 BGB | Nein → Verlust Mängelansprüche §§ 634 Nr. 1–3 |
 | 5 | Vertragsstrafe verwirkt — Vorbehalt § 341 Abs. 3 erklärt? | § 341 Abs. 3 BGB | Nein → Verlust Vertragsstrafenrecht |
-| 6 | Einbehalt nach § 641 Abs. 3 BGB? | § 641 Abs. 3 BGB | Bis zu doppelte Mängelbeseitigungskosten zurückbehalten |
+| 6 | Einbehalt nach § 641 Abs. 3 BGB? | § 641 Abs. 3 BGB | Angemessenen Betrag, regelmäßig das Doppelte der erforderlichen Beseitigungskosten, zurückbehalten |
 | 7 | Verjährungsfrist dokumentiert? | § 634a BGB | Beginn Fristlauf; Fristenbuch eintragen |
 
 ## Abnahmeformen im Detail
@@ -91,28 +92,20 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 
 ### Konkludente Abnahme
 
-**Tatbestand:** Ingebrauchnahme ohne ausdrückliche Rüge oder Vorbehalt.
-- Gefahr: Auftraggeber nimmt Werk in Betrieb → Abnahme unterstellt
-- Schutz: Nutzungsaufnahme unter Vorbehalt schriftlich erklären
-
-**Praxis-Fallen:**
-- Restzahlung ohne Mängelrüge → Indiz konkludente Abnahme
-- Einzug in Wohnung/Inbetriebnahme Anlage → konkludente Abnahme
-- Lange Nutzungsdauer ohne Beanstandung → stillschweigende Abnahme
+**Prüfung:** Nutzung, Zahlung, Prüfgelegenheit, Beanstandungen und Begleitumstände gemeinsam auslegen. Nutzung oder Zeitablauf allein beweisen keine Abnahme; einen pauschalen Zeitraum von sechs Monaten nicht ansetzen. Bei fortbestehenden Beanstandungen Reichweite der Erklärung und Zugang dokumentieren. Eine ausdrückliche Klarstellung zur Nutzungsaufnahme kann gegen einen Billigungswillen sprechen, ersetzt aber nicht die Gesamtwürdigung.
 
 ### Fiktive Abnahme § 640 Abs. 2 BGB
 
-**Voraussetzungen:**
-1. Werk ist fertiggestellt
-2. Auftragnehmer hat Fertigstellung mitgeteilt (schriftlich)
-3. Besteller setzt (oder erhält) Frist zur Abnahme
-4. Frist verstrichen ohne Abnahmeerklärung oder Mängelrüge
+**Voraussetzungen nach [Paragraf 640 Absatz 2 BGB](https://www.gesetze-im-internet.de/bgb/__640.html), amtlich gelesen am 01.10.2026:**
 
-**Folge:** Abnahmewirkung kraft Gesetzes — alle Rechtsfolgen wie bei förmlicher Abnahme.
+1. Das Werk ist fertiggestellt; Fertigstellung und Mangelfreiheit unterscheiden.
+2. Der Unternehmer setzt dem Besteller nach Fertigstellung eine angemessene Abnahmefrist. Zugang und Fristbemessung belegen; das Gesetz verlangt hierfür keine allgemeine Schriftform.
+3. Der Besteller hat nicht rechtzeitig die Abnahme unter Angabe mindestens eines Mangels verweigert. Für die Abwehr der Fiktion muss kein wesentlicher Mangel benannt sein; die Pflicht zur tatsächlichen Abnahme nach Absatz 1 gesondert prüfen.
+4. Bei einem Verbraucher muss der Unternehmer zusammen mit der Abnahmeaufforderung in Textform auf die Folgen sowohl fehlender Erklärung als auch einer Verweigerung ohne Mangelangabe hinweisen. Ohne ordnungsgemäßen Hinweis keine Fiktion nach Absatz 2.
 
-**Schutz vor ungewollter fiktiver Abnahme:**
-- Mängel schriftlich rügen vor Fristablauf
-- Abnahme-Verweigerungserklärung mit Begründung
+Vertragsdatum und Übergangsrecht prüfen, bevor die heutige Fassung auf ältere Verträge angewandt wird. Gesetzliche Fiktion und vertragliche VOB/B-Fiktion getrennt behandeln. Den Mängelvorbehalt nach Absatz 3 nicht pauschal auf jede Fiktion übertragen: Sein Wortlaut knüpft an Abnahme nach Absatz 1 Satz 1 an.
+
+**Fortsetzung:** Aufforderung, Zugang, vollständigen Verbraucherhinweis und rechtzeitige Antwort lesen. Fehlt ein Beleg, Wirkung offenlassen und die konkret benötigte Nachricht nachfordern. Bei Verweigerung den bezeichneten Mangel und den Zugang festhalten; anschließend Abnahmestand, Fälligkeit und nächsten Entwurf aktualisieren.
 
 ### Fiktive Abnahme VOB/B § 12 Nr. 5
 
@@ -124,11 +117,13 @@ Weitere Entscheidungen vor Verwendung per dejure.org / BGH-Webseite verifizieren
 
 | Rechtswirkung | Inhalt | Konsequenz |
 |--------------|--------|-----------|
-| Fälligkeit Werklohn | § 641 Abs. 1 BGB | Auftraggeber muss Schlussrechnung innerhalb vereinbarter Frist bezahlen |
+| Fälligkeit Werklohn | § 641 Abs. 1, § 650g Abs. 4 BGB | Beim Bauvertrag Abnahme oder Entbehrlichkeit nach § 641 Abs. 2 und prüffähige Schlussrechnung; wirksame Zahlungsabreden gesondert prüfen |
 | Verjährungsbeginn | § 634a Abs. 2 BGB | 5-Jahres-Frist beginnt mit Abnahme; Fristenbuch eintragen |
 | Gefahrübergang | § 644 BGB | Zufallsschäden (Brand, Sturm) nach Abnahme trägt Auftraggeber |
-| Verlust Mangelansprüche | § 640 Abs. 3 BGB | Für bei Abnahme bekannte Mängel ohne Vorbehalt |
+| Verlust von Rechten nach § 634 Nr. 1–3 | § 640 Abs. 3 BGB | Bei Abnahme nach Abs. 1 Satz 1 in Kenntnis des Mangels ohne Vorbehalt |
 | Vertragsstrafenrecht | § 341 Abs. 3 BGB | Ohne Vorbehalt bei Abnahme: Verlust Vertragsstrafenrecht |
+
+Beim Bauvertrag prüfen Sie nach [§ 650g Absatz 4 BGB](https://www.gesetze-im-internet.de/bgb/__650g.html) Zugang, Übersichtlichkeit und Nachvollziehbarkeit der Schlussrechnung. Ohne begründete Einwendungen gegen die Prüffähigkeit binnen 30 Tagen nach Zugang gilt sie als prüffähig; sachliche Richtigkeit und Einwendungen gegen die Forderung bleiben gesondert. Abnahme allein ersetzt diesen Fälligkeitsschritt nicht.
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
@@ -138,7 +133,7 @@ Bevor das Template eins-zu-eins gefuellt wird, ist zu prüfen welche Variante zu
 |---|---|
 | Standard — Abnahme mit Maengelvorbehalten erklaeren | Abnahmeprotokoll-Vorlage und Fristsetzung unten |
 | Variante A — Abnahme soll ganz verweigert werden (wesentliche Maengel) | Abnahme-Verweigerungsschreiben; Template weiter unten nutzen |
-| Variante B — fiktive Abnahme bereits eingetreten | Fiktionswirkung prüfen § 640 Abs. 2 BGB; Vorbehalt nachholen wenn möglich |
+| Variante B — fiktive Abnahme bereits eingetreten | Fiktionsvoraussetzungen samt Verbraucherhinweis prüfen; spätere Mängelanzeige beseitigt eine eingetretene Fiktion nicht automatisch |
 | Variante C — Auftraggeber will Preis einbehalten | Maengeleinbehalt und Vorbehalts-Erklaerung kombinieren |
 
 Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
@@ -196,7 +191,7 @@ III. VORBEHALTE
 IV. FRISTEN
 Schlussrechnung: bis [Datum] einzureichen
 Zahlungsfrist: [Datum]
-Verjährung Mängel: [Datum = Abnahme + 5 Jahre BGB / + 4 Jahre VOB/B]
+Verjährung Mängel: [anspruchsbezogen berechnetes Datum nach Prüfung von Vertrag, Abnahme, Sonderfristen und Hemmung/Neubeginn]
 
 UNTERSCHRIFTEN
 Auftraggeber: ............................ Datum: ..............
@@ -223,15 +218,20 @@ zur Abnahme bis zum [Datum] (= [Anzahl] Tage ab Zugang).
 
 Wir bitten Sie, bis zu diesem Datum entweder
 — die Abnahme zu erklären (förmliches Protokoll oder schriftlich) oder
-— konkrete Mängel zu benennen, die eine Abnahme hindern.
+— die Abnahme unter Angabe mindestens eines Mangels zu verweigern.
 
-Sollten Sie innerhalb der Frist weder Abnahme erklären noch
-wesentliche Mängel benennen, tritt die Abnahme gemäß § 640
-Abs. 2 BGB kraft Gesetzes ein.
+Hinweis auf die Rechtsfolgen: Das Werk gilt nach Ablauf dieser
+angemessenen Frist als abgenommen, wenn Sie weder die Abnahme
+erklären noch sie unter Angabe mindestens eines Mangels verweigern.
+Die Abnahmefiktion tritt insbesondere ein, wenn Sie innerhalb der
+Frist gar nicht reagieren oder die Abnahme ohne Angabe eines Mangels
+verweigern (§ 640 Abs. 2 BGB).
 
 Mit freundlichen Grüßen
 [Auftragnehmer]
 ```
+
+Der Hinweis ist zusammen mit der Aufforderung in Textform zu übermitteln. Angemessenheit der Frist und Fertigstellung müssen bereits belegt sein; der Text allein schafft diese Voraussetzungen nicht.
 
 ### Abnahme-Verweigerung wegen wesentlicher Mängel
 
@@ -281,20 +281,22 @@ wesentlichen Mängel möglich.
 
 | Frist | Auslöser | Dauer | Folge bei Versäumnis |
 |-------|---------|-------|----------------------|
-| Vorbehalt § 640 Abs. 3 BGB | Abnahme mit Kenntnis von Mängeln | Bei Abnahme, unverzüglich | Verlust Mängelansprüche §§ 634 Nr. 1–3 BGB |
-| Vorbehalt § 341 Abs. 3 BGB | Abnahme bei Vertragsstrafen-Tatbestand | Bei Abnahme, unverzüglich | Verlust Vertragsstrafenrecht |
-| Abnahme-Fristsetzung § 640 Abs. 2 BGB | Fertigstellungsmeldung AN | In Fristsetzung (üblich 12 Werktage) | Fiktive Abnahme nach Ablauf |
-| Schlussrechnung VOB/B | Abnahme | Innerhalb 2 Monate § 16 Abs. 3 VOB/B | Schlusszahlungsrecht erlischt |
-| Verjährung Mängelansprüche BGB | Abnahme | 5 Jahre § 634a BGB | Anspruchsverlust |
-| Verjährung Mängelansprüche VOB/B | Abnahme | 4 Jahre § 13 Nr. 4 VOB/B | Anspruchsverlust |
-| Verjährung Werklohnanspruch | Fälligkeit | 3 Jahre § 195 BGB | Anspruchsverlust |
+| Vorbehalt § 640 Abs. 3 BGB | Abnahme mit Kenntnis von Mängeln | Bei der Abnahme, nicht erst später | Verlust Mängelansprüche §§ 634 Nr. 1–3 BGB |
+| Vorbehalt § 341 Abs. 3 BGB | Abnahme bei Vertragsstrafen-Tatbestand | Bei der Abnahme, nicht erst später | Verlust Vertragsstrafenrecht |
+| Abnahme-Fristsetzung § 640 Abs. 2 BGB | Fertigstellung und Unternehmeraufforderung | Angemessene Frist fallbezogen bestimmen | Fiktive Abnahme nach Ablauf |
+| Schlusszahlung VOB/B | Zugang der Schlussrechnung; weitere Fälligkeitsvoraussetzungen prüfen | § 16 Abs. 3 Nr. 1: spätestens 30 Tage; höchstens 60 nur bei ausdrücklicher, sachlich gerechtfertigter Vereinbarung | Kein Anspruchsverlust durch diesen Fristablauf |
+| Verjährung von Bauwerksmängelansprüchen | Abnahme | Regelmäßig fünf Jahre nach § 634a Abs. 1 Nr. 2, Abs. 2 BGB; Sonderfälle prüfen | Leistungsverweigerungsrecht nach § 214 BGB, kein automatisches Erlöschen |
+| Verjährung von Bauwerksmängelansprüchen bei VOB/B | Abnahme | § 13 Abs. 4: regelmäßig vier Jahre; Vertrag und Sonderregelungen einschließlich Abs. 5 prüfen | Verjährungseinrede, kein automatisches Erlöschen |
+| Regelmäßige Verjährung des Werklohnanspruchs | Jahresende bei Anspruchsentstehung und Kenntnis beziehungsweise grob fahrlässiger Unkenntnis nach § 199 Abs. 1 BGB | Drei Jahre nach § 195 BGB; Hemmung und Neubeginn gesondert | Leistungsverweigerungsrecht nach § 214 BGB |
+
+Schlussrechnungsstellung nach § 14 VOB/B, Zahlungsfrist und ein möglicher Ausschluss von Nachforderungen nach § 16 Absatz 3 Nummern 2 bis 6 sind verschiedene Vorgänge. Für Letzteren wirksame Klausel, schriftliche Schlusszahlungsmitteilung mit Hinweis und Vorbehalts-/Begründungsfristen konkret prüfen; kein pauschales Erlöschen sämtlicher Vergütung nach zwei Monaten.
 
 ## Gegenargumente und Reaktion
 
 | Gegenargument | Reaktion |
 |--------------|---------|
 | "Vertragsstrafenvorbehalt vergessen" | § 341 Abs. 3 BGB ist Ausschlussregel — kein Wiedereinsetzungsrecht; Schaden als Schadensersatz nach §§ 280, 286 BGB geltend machen |
-| "Einbehalt überhöht" | § 641 Abs. 3 BGB: Einbehalt auf doppelten Mängelbeseitigungsaufwand begrenzt; Unverhältnismäßigkeit als Einwand |
+| "Einbehalt überhöht" | § 641 Abs. 3 BGB: angemessenen Einbehalt begründen; das Doppelte der erforderlichen Beseitigungskosten ist der Regelfall, keine starre Höchstgrenze |
 
 ## Streitwert und Kosten
 
@@ -302,7 +304,7 @@ wesentlichen Mängel möglich.
 - Streitwert = offene Werklohnforderung nach Abnahme
 
 **Einbehalt § 641 Abs. 3 BGB:**
-- Einbehalt = doppelte voraussichtliche Mängelbeseitigungskosten
+- Angemessener Einbehalt; regelmäßig doppelte erforderliche Mängelbeseitigungskosten, Abweichung begründen
 
 **Vertragsstrafe:**
 - Streitwert = Vertragsstrafenbetrag (z.B. 0.2 % je Werktag Verzug der Gesamtvergütung, max. 5 % Gesamtvergütung üblich)
@@ -329,12 +331,11 @@ wesentlichen Mängel möglich.
 
 ## Quellen
 
-- BGB §§ 339, 341, 634a, 640, 641, 644
-- VOB/B § 12, § 13 Nr. 4–5
-- BGH VII ZR 49/15 (25.02.2016), BGH VII ZR 25/13 (30.04.2014), BGH VII ZR 46/17 (22.02.2018) — verifiziert dejure.org
+- BGB §§ 199, 214, 339, 341, 634a, 640, 641, 644 und 650g: §§ 199 Abs. 1, 214 Abs. 1, 634a und 650g Abs. 4 am 01.10.2026 zusätzlich im amtlichen Einzeltext gelesen.
+- [VOB/B 2016, frei zugängliche nichtamtliche Bundesbau-Fassung](https://www.fib-bund.de/Inhalt/Vergabe/VOB/VOB-B_2016_nichtamtliche_Fassung.pdf): §§ 12 Abs. 5, 13 Abs. 4–5, 14 Abs. 3–4 und 16 Abs. 3 am 01.10.2026 gezielt gelesen. Vertragsfassung, Einbeziehung und Klauselwirksamkeit bleiben gesondert; keine Vollprüfung aller VOB/B-Klauseln.
+- BGH VII ZR 49/15 (25.02.2016) und VII ZR 46/17 (22.02.2018): jeweilige tragende Passage vor Anwendung prüfen; nicht Bestandteil der neuen Volltextprüfung vom 01.10.2026.
 - Vor Verwendung weiterer Rechtsprechung: dejure.org / bundesgerichtshof.de Verifikation
-- Werner/Pastor, Der Bauprozess, 16. Aufl.
-- Kniffka/Koeble, Fachüberblick des Baurechts, 5. Aufl.
+- Literatur nur aus bereitgestelltem Text oder verifiziertem lizenziertem Zugriff; keine behauptete Auflage oder Randnummer ohne Quelle.
 - Stand: 05/2026
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.

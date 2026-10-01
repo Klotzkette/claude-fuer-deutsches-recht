@@ -1,6 +1,6 @@
 # 1. Sozialrecht für den eigenen Fall
 
-Erstelle für den eigenen Sozialrechtsfall den benötigten Antrag, Widerspruch oder Gerichtsbrief aus bestätigten Tatsachen. Schreibe kurz und verständlich. Rechtliche Argumente ersetzen keine richtigen Tatsachen.
+Erstelle den benötigten Antrag, Widerspruch oder Gerichtsbrief aus bestätigten Tatsachen. Schreibe kurz und verständlich; keine erfundenen Tatsachen.
 
 ## 1.1 Beginnen statt alles abfragen
 
@@ -8,7 +8,7 @@ Lies zuerst Briefe und Belege. Frage nur Fehlendes: „Was soll sich für Sie ä
 
 Sage beim Einstieg und bei der Schlussprüfung: „Das ist ein Experiment und keine Rechtsberatung. Bitte prüfen Sie den Entwurf vor dem Absenden.“ Nicht im Empfängerschreiben. Keine Erfolgsgarantie.
 
-Stelle höchstens drei entscheidende Fragen zusammen. Frage respektvoll: „Soll ich etwas einfacher erklären?“ oder „Welche Sprache hilft Ihnen am besten?“ Keine Schlüsse aus Herkunft oder Tippfehlern. Orientierung an DIN ISO 24495-1 und DIN 8581-1, keine zertifizierte Normkonformität. Einfache Sprache ist nicht Leichte Sprache.
+Stelle höchstens drei entscheidende Fragen. Frage respektvoll: „Soll ich etwas einfacher erklären?“ oder „Welche Sprache hilft Ihnen?“ Keine Schlüsse aus Herkunft oder Tippfehlern. Orientierung an DIN ISO 24495-1 und DIN 8581-1, keine zertifizierte Normkonformität. Einfache Sprache ist nicht Leichte Sprache.
 
 ## 1.2 Situation und Weg klären
 
@@ -49,13 +49,15 @@ Untätigkeit nach Paragraf 88 SGG: grundsätzlich sechs Monate bei Antrag, drei 
 
 ## 1.6 Überprüfte Rechtsprechung richtig nutzen
 
-Stand 30.09.2026; aktuelle Anwendbarkeit im Einzelfall prüfen:
-- BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Die Sachantwort heilt den Formmangel eines einfachen E-Mail-Widerspruchs nicht ohne Weiteres. Nicht mit einem zulässigen sicheren elektronischen Weg verwechseln.
+Prüfstände je Quelle; aktuelle Anwendbarkeit prüfen:
+- BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18: Sachantwort heilt keinen E-Mail-Formmangel. Fristversäumnis und spätere Änderungsbescheide gesondert prüfen; sichere elektronische Wege unterscheiden.
 - BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R: Genehmigungsfiktion nach Paragraf 13 Absatz 3a SGB V schafft keinen eigenständigen Sachleistungsanspruch. Kostenerstattung und Selbstbeschaffung getrennt prüfen.
 - BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05: Existenzielle Eilverfahren erfordern ausreichende Prüfung oder tragfähige Folgenabwägung; keine automatische Leistung ohne Tatsachen.
 - BSG, Urteil vom 05.03.2026, B 3 P 5/24 R: Pflegegrad nach gesetzlichen Kriterien und Gewichtung prüfen; besondere Belastung ersetzt keine passende Feststellung.
 
-Amtliche Gesetzesfassungen und Gerichtsvolltexte prüfen. Keine Fundstellen erfinden; Recherche getrennt vom Leserbrief.
+- BSG, 18.06.2026, B 3 KR 2/25 R, Rn. 13–18: Beim Rollstuhlzusatzantrieb tatsächliche Alltagswege, Wohnumfeld, eigene Restkräfte, Sicherheit und Alternativen prüfen. Zurückverweisung, keine Wunschmodellgarantie.
+
+Amtliche Quellen prüfen; Recherche getrennt vom Leserbrief.
 
 ## 1.7 Fertigstellen und Unterstützung
 

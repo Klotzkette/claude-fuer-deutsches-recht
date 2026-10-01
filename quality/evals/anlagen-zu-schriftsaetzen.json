@@ -29,7 +29,7 @@
       "supports": "BAG, Beschluss vom 22.01.2025, 7 ABR 23/23: Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären. Volltext Rn. 33 bis 36 gelesen; arbeitsgerichtlicher Fall mit entsprechendem Formweg. Negativer Prüfvermerk ist keine unwiderlegliche Vermutung, gewöhnliche beigefügte Anlagen brauchen keine eigene Signatur."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: amtlicher Leitsatz zur Ausgangskontrolle gelesen. Eingangsbestätigung anhand sinnvollen Dateinamens dem tatsächlich fristgebundenen Schriftsatz zuordnen; Anlagenbeleg ersetzt ihn nicht. Volltextabruf gestört, keine Aussage zur Beweiskraft des Anlageninhalts."
     },
@@ -64,7 +64,7 @@
       "Belegkonflikt, neue Datei nach Signatur, Nummernkollision, Nachreichung, Schwärzungen und tabellarische Ausschnitte ohne materielle Beweisentscheidung.",
       "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument."
     ],
-    "sha256": "188741940f30ef2b86ed7adb05c41e1e98ef251bd4b706e55ce1525936dd4023"
+    "sha256": "a2c688a14c18ce8be9a90e43e4f0219d1bc88c1f24d7d250af1dd28d550ea6ee"
   },
   "selection": {
     "positive": [
@@ -145,7 +145,7 @@
       },
       {
         "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "application": "Eingangsnachweis dem verfahrensbestimmenden Schriftsatz zuordnen; Anlage allein ersetzt dessen Eingang nicht.",
         "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gestört; Ausgangskontrolle, keine Beweiskraftregel für Anlagen."
       }
@@ -155,6 +155,18 @@
       "Keine Live-PDF-Erzeugung oder Signaturprüfung; Berliner Dateivorgaben ersetzen keine abweichende gerichtliche Anordnung.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. VIII ZB 80/22 weiterhin nur im dokumentierten amtlichen Leitsatzumfang; technische Datei- und Signaturprüfung hier nicht ausgeführt."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
+      }
     ]
   }
 }

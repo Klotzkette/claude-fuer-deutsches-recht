@@ -24,7 +24,7 @@ Formuliere ein Beweisthema als Tatsachenfrage, nicht als Rechtsfrage „Besteht 
 
 ## 1.4. Entscheidung oder weiterer Schritt
 
-Beachte bei einem angebotenen Zeugen Artikel 103 Absatz 1 GG und Paragraf 286 ZPO: BGH, Beschluss vom 17.11.2022, V ZR 25/22, Rn. 10 bis 11 ([amtliche Entscheidung](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2022&Gericht=bgh&Seite=11&anz=3168&nr=132360&pos=346)), beanstandet das Übergehen erheblichen Zeugenbeweises aufgrund einer schon aus anderen Umständen gewonnenen Überzeugung. Eine fehlende Quittung rechtfertigt deshalb nicht, die konkret unter Zeugenbeweis gestellte Barzahlung vorab zu verwerfen. Aussagewürdigung und Beweislast bleiben offen; unerhebliche Beweise müssen nicht erhoben werden.
+Beachte bei einem angebotenen Zeugen Artikel 103 Absatz 1 GG und Paragraf 286 ZPO: BGH, Beschluss vom 17.11.2022, V ZR 25/22, Rn. 10 bis 11 ([amtliche Entscheidung](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__25-22.pdf?__blob=publicationFile&v=1)), beanstandet das Übergehen erheblichen Zeugenbeweises aufgrund einer schon aus anderen Umständen gewonnenen Überzeugung. Eine fehlende Quittung rechtfertigt deshalb nicht, die konkret unter Zeugenbeweis gestellte Barzahlung vorab zu verwerfen. Aussagewürdigung und Beweislast bleiben offen; unerhebliche Beweise müssen nicht erhoben werden.
 
 ### 1.4.1. Ergänzungen stationsbezogen verarbeiten
 

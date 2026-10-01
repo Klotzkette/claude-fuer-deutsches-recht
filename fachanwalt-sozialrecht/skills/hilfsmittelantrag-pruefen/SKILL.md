@@ -29,14 +29,14 @@ description: "Für Hilfsmittelantrag Prüfen: erstellt Entwurf mit Antrag, Bewei
 ### Krankenversicherung (SGB V)
 
 - **§ 33 SGB V** Hilfsmittel zur Sicherung des Erfolgs der Krankenbehandlung zur Vorbeugung Behinderung oder zum Behinderungsausgleich.
-- **§ 139 SGB V** Hilfsmittelverzeichnis des GKV-Spitzenverbands — Voraussetzung für Standard-Hilfsmittel.
-- **§ 33 Abs. 6 SGB V** Festbetraege.
-- **§ 33 Abs. 1 Satz 4 SGB V** Mehrkostenübernahme bei medizinisch begründetem Sondermodell.
+- **§ 33 Abs. 1 SGB V**: Gesetzliche Anspruchsvoraussetzungen und Qualitätsanforderungen unterscheiden. Die Verzeichnung nach § 139 SGB V nicht als eigenständige pauschale Anspruchsvoraussetzung behandeln; das Fehlen einer Listung allein ersetzt keine Leistungsprüfung.
+- **§ 33 Abs. 6 und 7 SGB V**: Wahl unter Vertragspartnern und vertraglich vereinbarte Preise; Absatz 6 ist keine Festbetragsnorm.
+- **§ 33 Abs. 1 SGB V**: Erforderliche Versorgung von darüber hinausgehenden Wünschen trennen. Satz 9 betrifft selbst zu tragende Mehr- und Folgekosten einer über das Notwendige hinausgehenden Wahl; Satz 4 ist keine Mehrkostenanspruchsnorm.
 
 ### Pflegeversicherung (SGB XI)
 
 - **§ 40 SGB XI** Pflegehilfsmittel zur Erleichterung der Pflege (Pflegebett Rollstuhl mit Pflegemerkmalen) und zum Verbrauch bestimmte Pflegehilfsmittel.
-- **§ 40 Abs. 4 SGB XI** Maßnahmen zur Verbesserung des individuellen Wohnumfelds (Treppenlift bis 4000 EUR pro Maßnahme im Regelfall).
+- **[§ 40 Abs. 4 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__40.html)**: Subsidiärer Zuschuss zu erforderlichen Wohnumfeldmaßnahmen, aktuell höchstens 4.180 Euro je Maßnahme und berechtigter Person; bei gemeinsamer Wohnung insgesamt höchstens 16.720 Euro. Keine automatische volle Kostenzusage für jeden Treppenlift.
 
 ### Eingliederungshilfe (SGB IX Teil 2)
 
@@ -44,7 +44,7 @@ description: "Für Hilfsmittelantrag Prüfen: erstellt Entwurf mit Antrag, Bewei
 
 ### Sozialhilfe (SGB XII)
 
-- **§§ 53 ff. SGB XII** Hilfen in besonderen Lebenslagen — subsidiaer.
+- **[§ 61 SGB XII](https://www.gesetze-im-internet.de/sgb_12/__61.html)**: Hilfe zur Pflege nach persönlichem Bedarf und zumutbarem Einsatz von Einkommen/Vermögen prüfen; Pflegehilfsmittel nach § 64d, Wohnumfeldmaßnahmen nach § 64e. Die früheren §§ 53 bis 60 SGB XII sind weggefallen; Eingliederungshilfe nach SGB IX prüfen.
 
 ## Prüfraster
 
@@ -56,13 +56,14 @@ description: "Für Hilfsmittelantrag Prüfen: erstellt Entwurf mit Antrag, Bewei
 
 ### Zuständigkeit
 
-- Welcher Träger ist primaer zuständig? Bei Streit § 14 SGB IX — Zuständigkeitsklärung binnen zwei Wochen sonst Vorleistungspflicht.
-- Kommunikation mit der Kasse: Antrag immer schriftlich; Aktenzeichen vergeben; Frist § 18 SGB IX (zwei Monate für Rehabilitationsträger).
+- Bei Teilhabeleistungen [§ 14 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html): Zuständigkeitsprüfung, Weiterleitung und Verantwortung des leistenden Rehabilitationsträgers unterscheiden. Die Zweiwochenfrist schafft keine automatische Bewilligung oder bloß vorläufige Leistungspflicht.
+- Antrag und Eingang nachweisbar dokumentieren, vorhandenes Aktenzeichen übernehmen. Nicht für jeden Antrag zwingende Schriftform behaupten. Fristregime nach Leistungsziel bestimmen, nicht allein nach der Bezeichnung „Hilfsmittel“.
 
 ### Genehmigungsfiktion § 18 SGB IX / § 13 Abs. 3a SGB V
 
-- **§ 13 Abs. 3a SGB V** — Krankenkasse muss innerhalb von drei Wochen über Antrag entscheiden (fünf Wochen bei MDK-Gutachten). Bei Untätigkeit gilt Antrag als genehmigt.
-- **§ 18 SGB IX** — bei Teilhabe-Anträgen zwei Monate.
+- **[§ 13 Abs. 3a SGB V](https://www.gesetze-im-internet.de/sgb_5/__13.html)**: Im Anwendungsbereich grundsätzlich drei Wochen, bei gutachtlicher Stellungnahme fünf Wochen; Unterrichtung und rechtzeitige Mitteilung eines hinreichenden Verzögerungsgrundes prüfen. Keine automatische Kaufempfehlung aus Schweigen. Medizinische Rehabilitation richtet sich nach §§ 14 bis 24 SGB IX.
+- **[§ 18 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__18.html)**: Zwei Monate ab Eingang beim leistenden Rehabilitationsträger, begründete taggenaue Mitteilung sowie Voraussetzungen und Grenzen der Erstattung gesondert prüfen. Absätze 1 bis 5 gelten insbesondere nicht für Träger der Eingliederungshilfe und öffentlichen Jugendhilfe; weitere Ausnahmen in Absatz 7 beachten.
+- Sachleistungsanspruch, fingierte Genehmigung und Erstattung nach Selbstbeschaffung unterscheiden. Leistung, Zeitpunkte, Kenntnis und Kosten belegen; vor einer Bestellung den konkreten Erstattungsweg prüfen.
 - Pflichtschritt: Frist im Fristenbuch (Skill `fristenbuch-sozialrecht`).
 
 ### Mehrkosten und Sondermodelle
@@ -74,8 +75,8 @@ description: "Für Hilfsmittelantrag Prüfen: erstellt Entwurf mit Antrag, Bewei
 
 ### Rollstuhl
 
-- Elektrorollstuhl bei eingeschraenkter Bewegungsfähigkeit + Ausschluss handbetriebener Versorgung.
-- Pflegerollstuhl bei stationärer Pflege über SGB XI möglich.
+- Bei motorunterstützter Mobilität konkrete Alltagswege und örtliche Verhältnisse statt starrer abstrakter Reichweite prüfen. Eigene Restkräfte, Sicherheit und gleich geeignete Alternativen erfassen; nicht jede Versorgung mit Motor setzt völlige Unfähigkeit zum Handantrieb voraus.
+- Bei stationärer Pflege individuellen Behinderungsausgleich nach § 33 Abs. 1 SGB V von der Vorhaltepflicht der Einrichtung und den Voraussetzungen der Pflegeleistungen trennen. Ein „Pflegerollstuhl“ gehört nicht allein wegen seines Namens zur Pflegekasse.
 
 ### Hörhilfe / Cochlea-Implantat
 
@@ -107,12 +108,14 @@ description: "Für Hilfsmittelantrag Prüfen: erstellt Entwurf mit Antrag, Bewei
 
 ## Triage — kläre vor Antragsstellung oder Widerspruch
 
-1. Welcher Träger ist primär zuständig — Krankenkasse (§ 33 SGB V), Pflegekasse (§ 40 SGB XI), Eingliederungshilfeträger (§§ 102 ff. SGB IX) oder Sozialhilfe (§§ 53 ff. SGB XII)?
-2. Liegt ärztliche Verordnung vor, und entspricht das Hilfsmittel dem Hilfsmittelverzeichnis (§ 139 SGB V)?
-3. Läuft Genehmigungsfiktion nach § 13 Abs. 3a SGB V (drei Wochen) oder § 18 SGB IX (zwei Monate) — Frist bereits abgelaufen?
+1. Welches Leistungsziel und welcher Träger: Krankenkasse (§ 33 SGB V), Pflegekasse (§ 40 SGB XI), Eingliederungshilfe (SGB IX Teil 2) oder Hilfe zur Pflege (§§ 61 ff. SGB XII)? Zuständigkeitsklärung ist keine Anspruchsbewilligung.
+2. Welche medizinischen Feststellungen und Verordnungen sind tatsächlich erforderlich und vorhanden? § 33 Abs. 5a SGB V beachten; Qualitätsanforderungen und Listung nach § 139 SGB V nicht mit dem gesamten Leistungsanspruch gleichsetzen.
+3. Welches Fristregime gilt? Antragseingang, Gutachtenhinweis, Verzögerungsmitteilung, Ausnahmen und tatsächliche Beschaffung vor einer Aussage zur Genehmigungsfiktion prüfen.
 4. Ist das Standardmodell medizinisch ausreichend, oder ist Mehrkosten-Übernahme für ein Sondermodell begründbar?
 5. Eilbedürftigkeit: ist das Hilfsmittel lebensnotwendig oder schulisch/beruflich unabweisbar? (→ § 86b SGG)
 
-## Aktuelle Rechtsprechung
+## 1. Aktuelle Rechtsprechung zur Mobilität
 
-> Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+[BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html): Beim Restkraft-Zusatzantrieb sind die konkreten örtlichen Alltags-, Versorgungs- und Gesunderhaltungswege einschließlich zugehöriger Freizeitwege zu ermitteln. Eigene Körperkraft, Gefälle/Steigungen, motorische und kognitive Fähigkeiten, Eigen-/Fremdgefährdung und gleich geeignete Alternativen prüfen. Ein Elektrorollstuhl ist nicht allein wegen der erreichbaren Ziele gleichwertig. Frage nach gewöhnlichen Wegen und vorhandenen Hilfen; danach Versorgungsvergleich und Antrag vollständig ausformulieren. Zurückverweisung, keine pauschale Zusage des Wunschmodells. Weitergehende Sport-/Freizeitziele können einen anderen Rehabilitationsträger betreffen.
+
+Der amtliche Text und die Randnummern 13 bis 18 wurden am 01.10.2026 geprüft. Die Entscheidung verändert nicht die gesonderten Voraussetzungen einer Kostenerstattung nach Selbstbeschaffung.

@@ -204,6 +204,8 @@ Ermitteln Sie den vereinbarten Planungsumfang, besondere Detailpflichten und die
 
 Fixieren Sie den belegten Ausgangsstand einschließlich Auflagen, maßgeblicher Schnitte und Bezugsniveaus. Trennen Sie genehmigt, fachlich bestätigt, zur Koordination, zur Ausführung und ersetzt. Ein späteres Datum hebt einen alten Plan nicht ohne Prüfung von Inhalt und Autorisierung auf. Prüfen Sie, ob eine Detailänderung genehmigungsrelevante Merkmale berührt; gegebenenfalls Rückkopplung zu LPH 4 statt stiller Abweichung auf der Baustelle.
 
+Nach [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 39–41, muss der Ausführungsplaner fremde Entwurfsplanung im zumutbaren Umfang prüfen und erkennbare Bedenken klar dem Besteller mitteilen. Übernahme oder Planfreigabe allein entlasten nicht. Ermitteln Sie Fachwissen, konkretes Risiko, Empfänger und Antwort; bei verschlossenem Empfangsbevollmächtigten ist der Besteller selbst zu informieren. Überarbeiten Sie danach betroffene Details und Versandstand. Das Urteil betrifft Verträge 2009/2010; heutigen Auftrag selbstständig auslegen.
+
 ### 3.2. Detail wirklich ausarbeiten
 
 Zeigen Sie beim beauftragten Detail Geometrie, Bezugskanten, Schichten, Materialien, Anschlüsse, Befestigungsprinzip, Toleranz-/Bewegungsraum und Gewerkeübergänge, soweit belegt und im Auftrag. Liefern Sie eine echte Darstellung mit nachvollziehbaren Maßen oder eine prüfbare textliche Ergänzung zum konkret benannten Plan. Eine Liste „Detail noch erstellen“ ist kein Detailprodukt.
@@ -291,6 +293,8 @@ Ein freigegebener Plan beweist nicht seinen Einbau; ein Foto beweist keine unsic
 Erstellen beziehungsweise ergänzen Sie Tagesberichte mit Wetterquelle, Anwesenheit, Tätigkeiten, Kontrollen, Lieferungen, Störungen, Weisungsgeber und Anlagen. Nachgetragene Information erhält Erfassungsdatum und Herkunft. Unterschrift, gemeinsame Anwesenheit oder damalige Kenntnis nicht nacherfinden.
 
 Fortschreiben des Balkenterminplans erfolgt aus belegten Dauern, Abhängigkeiten und Kalendern. Behalten Sie Basis, Ist und Prognose getrennt; eine Unternehmermeldung allein belegt weder kritischen Pfad noch Haftung. Führen Sie Schnittstellen zwischen Dach, Fassade und Ausbau mit konkreter benötigter Zuarbeit und Entscheidung. Differenzierte Kapazitätsplanung und Zahlungsplan sind nicht pauschal Grundleistung.
+
+Bei offenem Planungsrisiko reicht eine Besprechungsnotiz nicht als Koordination. Nach [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 69–77, sind Überwachungs- und Koordinationsfehler getrennt zuzuordnen. Fragen Sie, wer die nötige Untersuchung oder Entscheidung veranlasste und wer nachfasste; führen Sie den offenen Punkt bis zur belegten Klärung fort. Fremde Planungsfehler mindern den Anspruch gegen den Koordinator nicht automatisch, soweit dessen Aufgabe gerade die Klärung erkannter Bedenken ohne mangelfreie Ausgangspläne war. Konkreten Vertrag und Mitwirkungslage prüfen; keine Quote oder alte HOAI-Fassung pauschal übertragen.
 
 ### 3.4. Aufmaß, Rechnung und Nachträge verbinden
 

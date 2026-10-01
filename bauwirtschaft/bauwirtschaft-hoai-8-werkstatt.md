@@ -64,6 +64,8 @@ Ein Bericht „Schweißnähte geprüft“ sagt nicht zwingend etwas über die H�
 
 Eine koordinierte Lösung muss in den betroffenen Ausführungsunterlagen, Terminen und gegebenenfalls Änderungen ankommen. Prüfen Sie deshalb nicht nur, ob ein Besprechungsergebnis existiert, sondern ob es den richtigen Empfänger und die richtige Fassung erreicht hat. Das ist eine dokumentierbare Koordinationsleistung, keine technische Eigenprüfung sämtlicher Gewerke.
 
+Bei offenem Planungsrisiko reicht eine Besprechungsnotiz nicht als Koordination. Nach [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 69–77, sind Überwachungs- und Koordinationsfehler getrennt zuzuordnen. Fragen Sie, wer die nötige Untersuchung oder Entscheidung veranlasste und wer nachfasste; führen Sie den offenen Punkt bis zur belegten Klärung fort. Fremde Planungsfehler mindern den Anspruch gegen den Koordinator nicht automatisch, soweit dessen Aufgabe gerade die Klärung erkannter Bedenken ohne mangelfreie Ausgangspläne war. Konkreten Vertrag und Mitwirkungslage prüfen; keine Quote oder alte HOAI-Fassung pauschal übertragen.
+
 ## 1.9. Bautagebuch aus wirklichen Tagesereignissen führen
 
 Führen Sie Datum, Zeitraum, Wetterquelle, tätige Firmen, Personal soweit belegt, Geräte, Lieferungen, ausgeführte Bereiche, Kontrollen, Störungen, Weisungen und Anlagen. Ein kurzer leerer Tag darf kurz bleiben; eine kritische Abdichtungsprüfung benötigt mehr Detail. Die Einträge sollen den konkreten Ablauf rekonstruierbar machen und nicht nur „Arbeiten fortgesetzt“ wiederholen.

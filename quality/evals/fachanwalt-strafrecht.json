@@ -102,50 +102,58 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__410.html",
       "supports": "Erneuter Normabruf zur grundsätzlich zweiwöchigen Einspruchsfrist nach Zustellung und Möglichkeit der Beschränkung; strategische Beschränkung nicht aus bloßem Betragsstreit ableiten.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 08.01.2026, 3 StR 203/25, Rn. 7–15. Amtlichen Volltext gelesen. Anwendung: Einvernehmliche Verwahrung der Beute in allein bewohnter Wohnung mit freiem Zugriff als tatsächliche Mitverfügung prüfen; konkludentes Einvernehmen kann genügen. Zugang, Kontrolle und Lagerdauer statt bloßer Ablieferungspflicht auswerten. Grenze: Keine automatische Zurechnung an jeden Wohnungsinhaber; Mittäterschaft allein genügt weiterhin nicht. Tatsächlich erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Belegabhängige Verteidigungsprüfung statt Pflichtmatrix; tatsächliche Zugriffsmacht und bloße Weiterleitung operativ unterschieden und aktueller elektronischer Strafbefehlseinspruch aufgenommen. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Gegenstand ist noch sichergestellt statt zurückgegeben oder veräußert -> Einziehungsart, Gegenrechnung und Antrag ändern; ergänzter Chatkontext -> belastende und entlastende Schlussfolgerungen neu bewerten.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
     "changes": [
       "Verfügungsgewalt, Tatlohn, Rückführung und bloße Sicherstellung anhand zweier vollständig gelesener BGH-Beschlüsse getrennt.",
       "Verständigungsprüfung um Hauptverhandlungsbeweis, erfolglose Gespräche und konkrete Mitteilungspflichten ergänzt.",
       "Sitzungspolizei nicht pauschal auf Verteidiger ausgedehnt; Beweisantragsablehnung, Insolvenz-Selbstbelastung und elektronischer Einspruch korrigiert.",
       "Unverifizierte Aussagen zum aktuellen EU-Ratsstand entfernt; Vorschlag und geltendes Recht getrennt, kein Abschlussersatz durch bloße Checkliste.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden."
     ],
-    "sha256": "c9de83f7cdde1c31cb3f76edfe9ec4cb52e672e08a411860d40ab2a7e129a1ef",
-    "reviewed_on": "2026-09-23",
+    "sha256": "de6dc9f0477208dbfd8d015922d288fc0d4e70d982c4c706e0e03bf60ba89a8f",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "focus_review": {
-    "reviewed_on": "2026-09-23",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
-    "reason": "Hauptproblem und zugeordneter Einziehungs-Skill vollständig gelesen. Hauptproblem auf persönliche Herrschaft über Ertrag und Grenzen transitorischen Besitzes zugespitzt; beide BGH-Beschlüsse amtlich in Volltext geprüft. Skill unverändert inhaltlich passend. Kein Live-Modelltest. Workflow-Ergänzung: Gegenstand ist noch sichergestellt statt zurückgegeben oder veräußert -> Einziehungsart, Gegenrechnung und Antrag ändern; ergänzter Chatkontext -> belastende und entlastende Schlussfolgerungen neu bewerten. Zugeordneten Fokus-Skill auf Kohärenz gelesen und unverändert belassen.",
+    "reason": "Begrenzter Quellenabgleich der fachbezogenen Einfügung und ihres Zusammenhangs am 01.10.2026. 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
     "changes": [
       "Einleitung auf konkrete Zugriffskette und Gegenrechnung bezogen.",
       "6 StR 546/24 mit Trigger, Folge und Grenze späterer Weiterleitung ausformuliert; 6 StR 160/26 sachbeutebezogen erhalten.",
       "Fokus-Skill gelesen und unverändert belassen.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden."
     ],
     "prompt_path": "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
-    "prompt_sha256": "fb8d2c176cef70c06743658a3e51efb42a6fbc82397be364c5d9291a0951d3ab",
+    "prompt_sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830",
     "skill_path": "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
-    "skill_sha256": "5ab063c5f04a3eefe1026746d3e015e4459ac319ec7c1a57ea1aaec1f2750650"
+    "skill_sha256": "1af08087afef3b8dce1bc60c90169d75dde74206a4c254d76982c3b16a9c4595"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Neugliederung nach Tat, Eingriff, Einziehung, Fristen, Hauptverhandlung und besonderen Mandaten. Alle zwölf speziellen Arbeitswege erhalten, wiederholte Leerformeln und zivilrechtlichen Anspruchsbaustein entfernt. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Digitale Zuordnung und konkrete Gegenhypothese, Beweistatsache gegenüber Ermittlungsfrage, persönliche Verfügungsmacht, Asservat gegenüber Rückführung, tatsächliche Arrestbindung sowie Strafbefehlseinspruch und vollständiger Rügevortrag.",
+    "reason": "Begrenzter fachlicher Quellen- und Passagenreview am 01.10.2026; bestehender Arbeitsablauf erhalten. 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
     "changes": [
       "Verfügungsgewalt, Tatlohn, Rückführung und bloße Sicherstellung anhand zweier vollständig gelesener BGH-Beschlüsse getrennt.",
       "Verständigungsprüfung um Hauptverhandlungsbeweis, erfolglose Gespräche und konkrete Mitteilungspflichten ergänzt.",
       "Sitzungspolizei nicht pauschal auf Verteidiger ausgedehnt; Beweisantragsablehnung, Insolvenz-Selbstbelastung und elektronischer Einspruch korrigiert.",
       "Unverifizierte Aussagen zum aktuellen EU-Ratsstand entfernt; Vorschlag und geltendes Recht getrennt, kein Abschlussersatz durch bloße Checkliste.",
-      "Digitale Zuordnung und konkrete Gegenhypothese, Beweistatsache gegenüber Ermittlungsfrage, persönliche Verfügungsmacht, Asservat gegenüber Rückführung, tatsächliche Arrestbindung sowie Strafbefehlseinspruch und vollständiger Rügevortrag."
+      "Digitale Zuordnung und konkrete Gegenhypothese, Beweistatsache gegenüber Ermittlungsfrage, persönliche Verfügungsmacht, Asservat gegenüber Rückführung, tatsächliche Arrestbindung sowie Strafbefehlseinspruch und vollständiger Rügevortrag.",
+      "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden."
     ],
-    "sha256": "38ce0548fe0d35d27acbc820cced718276d3682778b105d743e79ecc367029bf",
-    "reviewed_on": "2026-09-23",
+    "sha256": "ff2ef3e892a93920579c88249a27db7fe2dbecad5db31f28c9418bf0755a86db",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -201,7 +209,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
       "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
@@ -233,6 +241,13 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
         "application": "Verständigungsbezogene Gespräche auch ohne Einigung erfassen und mitteilen; Schöffen beteiligen, Geständnis durch Beweiserhebung in der Hauptverhandlung überprüfen; staatsanwaltschaftliche Kontrollverantwortung beachten.",
         "limit": "Reine Terminabsprachen nicht erfasst; kein generelles Verständigungsverbot und nicht jeder Fehler automatisch absoluter Revisionsgrund."
+      },
+      {
+        "citation": "BGH, Urteil vom 08.01.2026, 3 StR 203/25, Rn. 7–15",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/3_StS/2025/3_StR_203-25.pdf?__blob=publicationFile&v=1",
+        "application": "Einvernehmliche Verwahrung der Beute in allein bewohnter Wohnung mit freiem Zugriff als tatsächliche Mitverfügung prüfen; konkludentes Einvernehmen kann genügen. Zugang, Kontrolle und Lagerdauer statt bloßer Ablieferungspflicht auswerten.",
+        "limit": "Keine automatische Zurechnung an jeden Wohnungsinhaber; Mittäterschaft allein genügt weiterhin nicht. Tatsächlich erlangte Verfügungsmacht entfällt nicht durch spätere Weiterleitung.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -240,7 +255,8 @@
       "Fokus-Skill vollständig gelesen und inhaltlich unverändert passend; nur Hauptproblem-Prompt präzisiert.",
       "EUR-Lex-Vorschlagsseite durch Abrufschutz nicht inhaltlich zugänglich; kein aktueller Verfahrens- oder Gesetzgebungsstand behauptet.",
       "Keine Vollverifikation sämtlicher Aussage-, Nebenstrafrechts- oder Eingriffsfragen.",
-      "Workflow-Review 23.09.2026: Paragraf 410 StPO erneut eingesehen; vorhandene Einziehungs- und Verständigungsentscheidungen mit ihren Grenzen erhalten. Keine neue Aussagepsychologie- oder Erhebungsrechtsprechung behauptet."
+      "Workflow-Review 23.09.2026: Paragraf 410 StPO erneut eingesehen; vorhandene Einziehungs- und Verständigungsentscheidungen mit ihren Grenzen erhalten. Keine neue Aussagepsychologie- oder Erhebungsrechtsprechung behauptet.",
+      "Enger Quellenabgleich 01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
     ]
   },
   "prompt_workflow_review": {

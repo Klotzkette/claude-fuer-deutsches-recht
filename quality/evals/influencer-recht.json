@@ -9,7 +9,7 @@
       "supports": "Amtlicher Volltext Absatz 4: kommerzieller Zweck, Fremdwerbung ohne Gegenleistung und Vermutung."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c. Anwendung: Gegenleistung für Beitrag begründet geschäftliche Handlung für das beworbene Unternehmen; Honorar und Produktvergütung konkret zuordnen. Grenze und Prüfzugang: Urteil zum früheren Recht; unbezahlte Fremdwerbung heute gesondert nach Gegenleistungsvermutung und Widerlegung. Amtlicher indexierter Leitsatz geprüft, Volltext nicht neu gelesen."
     },
@@ -33,7 +33,7 @@
       "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "36afa26b4bcd72c1c797cc7093bbfee2002ebb2f687ca84c92169135c37975a4"
+    "sha256": "c701a5d07fc0b239d60491e8b64e2d1ca888f8b8893d37016d0002d72d0b5903"
   },
   "selection": {
     "positive": [
@@ -88,7 +88,7 @@
       "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
       "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext."
     ],
-    "sha256": "1aa3afd59f62c1dac0aee80227096d10f5bb81d7b338f29c7cc6dfa924d0e0b6"
+    "sha256": "ad01a3fd416aac50bd4784642441b4a1b620fe788aad27ddb85091fa48e192d5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -108,7 +108,7 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 09.09.2021, Az. I ZR 90/20, Influencer I, Leitsatz c",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1",
         "application": "Gegenleistung für Beitrag begründet geschäftliche Handlung für das beworbene Unternehmen; Honorar und Produktvergütung konkret zuordnen.",
         "limit": "Urteil zum früheren Recht; unbezahlte Fremdwerbung heute gesondert nach Gegenleistungsvermutung und Widerlegung. Amtlicher indexierter Leitsatz geprüft, Volltext nicht neu gelesen."
       }
@@ -130,5 +130,17 @@
     "continuation": "Affiliate-Antwort -> Gegenleistungszuordnung; neue Musiklizenz -> Nutzungsumfang; geänderter Claim -> Beitragsfassung; Sperrgrund -> Beschwerdeargument ändern.",
     "enrichment": "Geschenkabsprache, organisches Reposting versus Anzeigen, getrennte Rechtekette, produktspezifischer Wirkungsnachweis und begrenzter Unterlassungstext.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=122152&Blank=1.pdf",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1",
+        "sha256": "d042482252c2e935ddfacb611c4968ee7cbfb153ea4f2e7ea29a017b1014ac3c"
+      }
+    ]
   }
 }

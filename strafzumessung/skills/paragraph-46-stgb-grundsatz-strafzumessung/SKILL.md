@@ -13,7 +13,7 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: StGB §§ 13, 22, 23, 25, 32, 35, 46, 47, 56, 57, StPO §§ 100a, 102, 105, 112, 136, 137, 140, 147, 152, 153a, 244, 257c, 261, 264, 265, 267, 304, 341, 344, 349; § 56; § 49 Regelbeispiele besonders schwerer Fall Verstaendigung; § 257c StPO TOA; § 46a Gesamtstrafe; § 55 JGG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
+- Tragende Normen am Fall verifizieren: § 46 StGB für die Zumessung, § 46a StGB für Täter-Opfer-Ausgleich und Schadenswiedergutmachung, § 49 StGB für gesetzliche Milderung, § 55 StGB für nachträgliche Gesamtstrafe, § 56 StGB für Bewährung sowie §§ 257c und 267 Abs. 3 StPO für Verständigung und Urteilsgründe. Regelbeispiele ergeben sich aus der jeweils einschlägigen Deliktsnorm, nicht aus § 49 StGB. Maßgebliche Fassung amtlich prüfen; keine Modellwissen-Zitate.
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
@@ -58,6 +58,8 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
  - Nachtatverhalten: Reue, Gestaendnis, TOA (§ 46a StGB), Schadenswiedergutmachung.
 4. **Abwaegung**: Strafmildernde gegen strafschaerfende Faktoren; das Gewicht muss explizit werden.
 5. **Doppelverwertungsverbot prüfen**: Wenn etwa § 224 Abs. 1 Nr. 2 StGB (gefaehrliches Werkzeug) verwirklicht ist, darf die Tatsache "Messer verwendet" nicht noch einmal strafschaerfend angefuehrt werden.
+
+BGH, Beschluss vom 24.02.2026 – 5 StR 623/25, Rn. 4 ([amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Strafsenate/5_StS/2025/5_StR_623-25.pdf?__blob=publicationFile&v=1)): Die bloße gemeinschaftliche Begehung nochmals strafschärfend anzuführen, obwohl damit nur Mittäterschaft nach Paragraf 25 Absatz 2 StGB beschrieben wird, verletzt Paragraf 46 Absatz 3 StGB. Markiere die konkrete Urteilsformulierung und trenne sie von zusätzlich festgestellter besonderer Ausführung oder Tatfolge. Die Entscheidung gibt keinen automatischen Strafabschlag vor; nach Wegfall der Einzelstrafen war auch die Gesamtstrafe neu zu bilden.
 6. **Begruendung**: Im Urteil muss die Strafzumessung so dargelegt werden, dass das Revisionsgericht sie überprüfen kann (§ 267 Abs. 3 StPO).
 
 ## Strafmildernde Faktoren (Standardkatalog)
@@ -76,21 +78,21 @@ Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1
 - Vorstrafen, einschlaegige Vorbelastung
 - Hoher Schaden, intensive Tatfolgen
 - Brutale, demuetigende, ueberlange Ausfuehrung
-- Menschenverachtende Motive (§ 46 Abs. 2 StGB ausdruecklich; Gesetz 2015 erweitert um geschlechtsspezifische und gegen sexuelle Orientierung gerichtete Motive)
+- Menschenverachtende Motive (§ 46 Abs. 2 StGB; maßgebliche Tatzeitfassung prüfen)
 - Vertrauensbruch (Amtstraeger, Pflegende, Eltern)
-- Tatbeteiligung mehrerer (Bandenstruktur)
+- Konkrete zusätzliche Ausführungsmerkmale bei mehreren Beteiligten feststellen; bloße Mittäterschaft und bereits verbrauchte Bandenmerkmale nicht nochmals erschwerend werten.
 - Verhalten waehrend der Hauptverhandlung (Verleumdung der Geschaedigten)
 
 ## Typische Fehler
 
 - **Doppelverwertung**: Tatbestandsmerkmal wird nochmal als Schaerfungsgrund herangezogen. Revisionsangriff: Verletzung § 46 Abs. 3 StGB.
-- **Unzulaessige Schaerfung wegen Schweigen**: Schweigen des Angeklagten (§ 136 StPO, § 243 Abs. 5 StPO) darf nicht zum Nachteil verwertet werden (st. Rspr.). Wohl aber Lueg-Verhalten oder Verleumdung in der Verteidigung.
+- **Unzulaessige Schaerfung wegen Schweigen**: Schweigen des Angeklagten (§ 136 StPO, § 243 Abs. 5 StPO) darf nicht zum Nachteil verwertet werden (st. Rspr.). Aus wahrheitswidrigem Bestreiten keine pauschale Strafschärfung ableiten. Bei behaupteter Herabwürdigung des Verletzten konkrete Äußerung, Verteidigungsbezug und zusätzliche Rechtsverletzung gesondert prüfen; eine erfolglose Verteidigung allein trägt keinen Schärfungsgrund.
 - **Vorstrafen ohne Bezug** wahllos zitiert: erforderlich ist konkrete Bezugnahme auf die Gefaehrlichkeit oder einschlaegige Naehe.
 - **Praevention vor Schuld**: Wenn die Strafe über den Schuldrahmen hinaus aus Generalpraevention erhoeht wird, verletzt das § 46 Abs. 1 StGB.
 - **Strafzumessung pauschal**: "unter Beruecksichtigung aller Umstaende" ohne Einzelabwaegung ist revisionsanfaellig (§ 267 Abs. 3 StPO).
 
-## Quellen und Stand 05/2026
+## Quellen und begrenzter Prüfstand 01.10.2026
 
-- § 46 StGB in der seit 01.08.2015 geltenden Fassung (Erweiterung um geschlechtsspezifische, gegen sexuelle Orientierung gerichtete Beweggruende).
+- [§ 46 StGB](https://www.gesetze-im-internet.de/stgb/__46.html) und die maßgebliche Tatzeitfassung prüfen; die oben genannten Beweggründe nicht pauschal einer Gesetzesfassung von 2015 zuordnen.
 - BGH GS BGHSt 7, 28 (Spielraumtheorie) — Aktenzeichen vor Zitat in dejure.org/openjur.de verifizieren.
 - Quellenregel: Kommentar-/Aufsatzfundstellen nur auf Nutzerquellenbasis oder lizenzierten Live-Zugriff; vgl. `references/zitierweise.md`.

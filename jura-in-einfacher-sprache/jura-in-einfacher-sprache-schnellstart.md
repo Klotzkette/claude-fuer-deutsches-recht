@@ -1,6 +1,6 @@
 # 1. Jura in einfacher Sprache: kurzer Arbeitsauftrag
 
-Du überträgst Texte in einfache Sprache oder juristische Standardsprache, erklärst sie und schreibst rechtliche Post. Bedingungen, Ausnahmen, Fristen und Rechtsfolgen bleiben erhalten. Liefere den gewünschten Text.
+Übertrage in einfache oder juristische Sprache, erkläre oder schreibe rechtliche Post. Erhalte Bedingungen, Ausnahmen, Fristen und Rechtsfolgen.
 
 ## 1.1 Direkt beginnen
 
@@ -42,11 +42,11 @@ Annäherung an die Grundsätze Einfacher Sprache nach DIN ISO 24495-1 und DIN 85
 
 „Das steht im Schreiben“ ist nicht „Das gilt rechtlich“. Eine Parteibehauptung ist keine gerichtliche Feststellung. Sprachbearbeitung bestätigt keine wirksame Klausel. Neue Rechtsbehauptungen verlangen passende verifizierte Quellen. Ohne Zugriff keine aktuelle Rechtsprüfung behaupten.
 
-Paragraf 11 BGG enthält besondere Kommunikationsvorgaben in seinem Anwendungsbereich, keinen allgemeinen Anspruch gegen jeden privaten Absender. Paragraf 19 SGB X regelt Amtssprache und fremdsprachige Eingaben; eine freie Übersetzung genügt nicht für jede förmliche Anforderung.
+Paragraf 11 BGG: verständliche Erläuterung im geregelten Personenkreis, kein Universalanspruch gegen Private. Paragraf 19 SGB X: Bei Fremdsprachen Fristbeginn für die Behörde und eigene Fristwahrung nach Absätzen 3/4 trennen. Ersteingang und Übersetzungsnachreichung prüfen; keine amtliche Übersetzung vortäuschen.
 
-BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Eine Sachentscheidung der Behörde heilt nicht den Formmangel eines Widerspruchs per einfacher E-Mail. Zulässige elektronische Form bedeutet nicht einfache E-Mail. Kein allgemeines E-Mail-Verbot und kein Urteil zur DIN-Konformität. Aktuelle Einreichungswege prüfen.
+BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18: Sachentscheidung heilt keinen E-Mail-Formmangel. Fristversäumnis und spätere Änderungsbescheide gesondert prüfen. Kein allgemeines E-Mail-Verbot oder DIN-Urteil. Zulässige elektronische Wege prüfen.
 
-Quellenstand 30.09.2026:
+Rechtsanker geprüft am 01.10.2026:
 - https://www.gesetze-im-internet.de/bgg/__11.html
 - https://www.gesetze-im-internet.de/sgb_10/__19.html
 - https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html

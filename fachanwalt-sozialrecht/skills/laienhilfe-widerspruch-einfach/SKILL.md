@@ -49,7 +49,7 @@ Dieser Skill erklaert **Widerspruch Einfach** so, dass auch Menschen ohne jurist
 | ... | ... | ... |
 
 **Naechster Schritt**
-Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, Aktenzeichen, Datum, Anlagenliste und Frist.
+Formuliere den Widerspruch als vollständigen Brief mit eindeutiger Anfechtung, Bescheid, Aktenzeichen und gewünschter Änderung. Einfache E-Mail nur für formfreie Rückfragen anbieten; für den Widerspruch einen gesetzlich zugelassenen Weg nach § 84 SGG mit § 36a SGB I prüfen. Eingangsbeleg sichern. [BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Rn. 9–18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html): Eine Sachentscheidung heilt den E-Mail-Formmangel nicht. Spätere Änderungsbescheide und mögliche formgerechte Nachholung bleiben gesondert zu prüfen; nicht pauschal sämtliche Rechte für verloren erklären.
 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.

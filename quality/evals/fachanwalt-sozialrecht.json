@@ -57,6 +57,51 @@
       "url": "https://www.gesetze-im-internet.de/sgg/__84.html",
       "supports": "Erneuter Normabruf: grundsätzlich ein Monat für Widerspruch, bei Bekanntgabe im Ausland drei Monate; Form, Bekanntgabe und Empfänger konkret prüfen.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18. Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen. Grenze: Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18. Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen. Grenze: Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__33.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1, 5a, 6 und 7: Hilfsmittelanspruch, Qualitätsanforderungen, Verordnung, Vertragspartner und Preise; keine Festbetragsnorm in Absatz 6."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_11/__40.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 bis 7: aktuelle Zuschussgrenze 4.180 Euro und Voraussetzungen; keine automatische Vollkostenzusage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__13.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen, tragend Absatz 3a: Fristregime, Mitteilung und medizinische Rehabilitation."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__18.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen: Mitteilung, Erstattung und Trägerausnahmen in Absatz 7."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_9_2018/__14.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen: Zuständigkeitsklärung und leistender Rehabilitationsträger, keine automatische Bewilligung nach zwei Wochen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_12/",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliches Inhaltsverzeichnis gelesen: §§ 53 bis 60 weggefallen; Hilfe zur Pflege in §§ 61 ff., Hilfsmittel § 64d und Wohnumfeld § 64e."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_12/__61.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen: Hilfe zur Pflege, Pflegebedürftigkeit und Mittel aus Einkommen/Vermögen."
     }
   ],
   "mini_review": {
@@ -68,7 +113,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "56820c39ac10d69af6991a2c036337f7aa704b36bc24e70d587c6bbb1d362552",
+    "sha256": "7444bd184c31652218543bd910cca84bf0bc0685ce159adc880294fe7f92c720",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -149,7 +194,7 @@
       "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
       "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
     ],
-    "sha256": "bb934cdb8c0f11ec98297c3bf9f1391b4772301270941ec905c078eb8f9ee536",
+    "sha256": "772d34dcb7352c03021f16cc17954e2d635d3af712c2fb9e58a8615bf01aca2c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -180,6 +225,22 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
         "application": "Existenzielle Nachteile verlangen abschließende Prüfung oder bei rechtzeitig nicht möglicher Aufklärung Folgenabwägung; heutige Mittel belegen.",
         "limit": "Kein Wegfall der materiellen Voraussetzungen und keine automatische Leistung."
+      },
+      {
+        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
+        "application": "Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen.",
+        "limit": "Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen.",
+        "checked_on": "2026-10-01",
+        "read_scope": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18."
+      },
+      {
+        "citation": "BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+        "application": "Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen.",
+        "limit": "Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert.",
+        "checked_on": "2026-10-01",
+        "read_scope": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18."
       }
     ],
     "remaining_limits": [
@@ -207,5 +268,17 @@
     "decisions": [],
     "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
     "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
+  },
+  "source_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-10-01/sozial-und-neue-plugins.md",
+    "scope": "Gezielt Formmangel, Änderungsbescheide, Kommunikations-/Übersetzungsregeln sowie Mobilitätshilfen und die unmittelbar betroffenen Normfehler; kein erneuter Vollcheck alter Entscheidungen, aller Fachskills oder DIN-Normen. Frühere redaktionelle Reviewdaten bleiben historische Angaben.",
+    "changed_files": [
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-schnellstart.md",
+      "fachanwalt-sozialrecht/fachanwalt-sozialrecht-werkstatt.md",
+      "fachanwalt-sozialrecht/skills/hilfsmittelantrag-pruefen/SKILL.md",
+      "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
+    ]
   }
 }

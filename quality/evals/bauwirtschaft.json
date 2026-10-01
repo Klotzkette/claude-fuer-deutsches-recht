@@ -2,7 +2,7 @@
   "schema_version": 1,
   "plugin": "bauwirtschaft",
   "author": "Klotzkette",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/rdg/__3.html",
@@ -248,6 +248,12 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2012/VII_ZR_308-12.pdf?__blob=publicationFile&v=1",
       "supports": "Amtliche Entscheidung mit bezeichneten tragenden Passagen am 28.09.2026 geprüft; Aussageumfang und Übertragungsgrenzen im Quellenmanifest und in bauwirtschaft/references/entscheidungsanker-2026.md beziehungsweise entscheidungsanker-bautraeger-2026.md dokumentiert.",
       "checked_on": "2026-09-28"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77: Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden. Gelesen: Kopf/Leitsätze, Rn. 39–41 und 63–77. Grenze: Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler.",
+      "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9"
     }
   ],
   "source_access_limits": [
@@ -259,7 +265,7 @@
     "Keine beobachtete automatische Skill-Auswahl und keine vollständige fachliche Modellbewertung aller 29 Skills oder zugeordneten Testakten. Zwei separat dokumentierte manuelle Verhaltenstests mit je einer Erst- und Folgeantwort sind hiervon getrennt (quality/hildesheim-lebensakte/verhaltenstest.md)."
   ],
   "mini_review": {
-    "reviewed_on": "2026-09-28",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review",
     "verdict": "revised",
     "reason": "Kompakten Prompt erneut vollständig gelesen: unmittelbares Arbeitsprodukt, belegte Fortsetzung und gezielte Rückfragen bleiben erhalten. Den zuvor begrenzten Vertragsstrafenanker nach Prüfung des amtlichen Volltexts aktualisiert; Zeichen- und Bytebudget eingehalten. Kein vollständiger Lauf aller enthaltenen Arbeitsstationen.",
@@ -269,9 +275,10 @@
       "Kosten, Liquidität, Rechnungsprüfung und Buchung als unterschiedliche Ergebnisse erhalten.",
       "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt.",
       "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten.",
-      "Am 28.09.2026 VII ZR 42/22 anhand der amtlichen PDF und Randnummern 30 bis 41 präzisiert; frühere Leitsatzgrenze überholt."
+      "Am 28.09.2026 VII ZR 42/22 anhand der amtlichen PDF und Randnummern 30 bis 41 präzisiert; frühere Leitsatzgrenze überholt.",
+      "VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet."
     ],
-    "sha256": "f74922891a21daae2e5c6dea681700586bf023510d2558a256e78483f75303d3"
+    "sha256": "a31cdb871e7a7d1cbca55bb939ab843def7c123821081ad6bc19dd4e0d0e5a93"
   },
   "workshop_review": {
     "reviewed_on": "2026-09-28",
@@ -308,12 +315,17 @@
     "skill_sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-28",
+    "date": "2026-10-01",
     "files": [
       "bauwirtschaft/bauwirtschaft-schnellstart.md",
       "bauwirtschaft/bauwirtschaft-werkstatt.md",
       "bauwirtschaft/bauwirtschaft-hauptproblem.md",
-      "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md"
+      "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
+      "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
+      "bauwirtschaft/references/entscheidungsanker-2026.md",
+      "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
+      "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md"
     ],
     "opening_change": "Alle drei Prompts beginnen mit dem konkreten Bauprojektprodukt, unterscheiden leeren Start, Ordner ohne Auftrag und klares Ziel und führen nach Antworten dieselbe Tabelle oder Dokumentfassung fort.",
     "norms": [
@@ -341,6 +353,13 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
         "application": "Begrenzter Mehrmengenanker zur Preisbildung nach Paragraf 2 Absatz 3 Nummer 2 VOB/B bei fehlender abweichender Vereinbarung.",
         "limit": "Amtliche PDF einschließlich Berichtigung vom 18.09.2019 am 28.09.2026: Randnummern 13 bis 26 gelesen. Keine generelle Formel für Pauschalverträge, Änderungen nach BGB oder sämtliche Nachträge."
+      },
+      {
+        "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden.",
+        "limit": "Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler."
       }
     ],
     "remaining_limits": [
@@ -349,7 +368,8 @@
       "EUR-Lex-Verordnung 2025/2152 nicht im Volltext lesbar; Schwellenwertabgleich anhand datierten Bundeserlasses.",
       "VOB/A-Änderungstext 2026, gesamtes Landesbau- und Landesvergaberecht, kommunale Satzungen, Förderbedingungen und technische DIN-/ATV-Volltexte nicht vollständig geprüft.",
       "Keine vollständige Prüfung historischer Honorarregime, steuerlicher Übergangsregeln oder sämtlicher Rechtsprechung bis zum Stichtag.",
-      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der zugeordneten Testakten behauptet."
+      "Keine Ausführung der Ergebnisfälle, keine Live-Modelltests, keine beobachtete Skill-Auswahl und keine bestandene Bearbeitung der zugeordneten Testakten behauptet.",
+      "Begrenzter Nachtrag 01.10.2026: VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests."
     ]
   },
   "prompt_workflow_review": {
@@ -1991,9 +2011,9 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
-      "sha256": "4d312bb20f6661d07c95ababdaa4bfdf91d6bfa7cfe0dd0b31b530a4aaf05ebb",
+      "sha256": "ede4047b2b9f52c53ce2eef33edd94bdfaea554cbb9cb13c7da78c82abd17c3f",
       "case_id": "hoai-5-detail-versand-und-montageplan",
-      "reviewed_on": "2026-09-28",
+      "reviewed_on": "2026-10-01",
       "method": "desk_review",
       "verdict": "revised",
       "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
@@ -2040,9 +2060,9 @@
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md",
-      "sha256": "b25c0eea09a42e8f5a5b914da1b00f8858ae397cf759d0dfe0ecc5979cca4616",
+      "sha256": "6f25cf0643cf8fa3b18086103a07015aa7ab9af38916e30b0de159c914648aeb",
       "case_id": "hoai-8-aufmass-vorzahlung-und-verdeckung",
-      "reviewed_on": "2026-09-28",
+      "reviewed_on": "2026-10-01",
       "method": "desk_review",
       "verdict": "revised",
       "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Ergänzung am 28.09.2026: aufgabengerechten lokalen Modulverweis, belegte Fortsetzung, gezielte Rückfragen und Quellenabgrenzung redaktionell geprüft; kein vollständiger Modelllauf dieses Prüffalls.",
@@ -2111,10 +2131,10 @@
     {
       "phase": 5,
       "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
-      "sha256": "6b76d9e01152b9299781bde3cf3b56c9dfd620954c67b6e4a69f913414d4829a",
-      "reviewed_on": "2026-09-25",
+      "sha256": "860337cce4825b93169f6ae7ad7b54a874756d34cfb7143b9f8c72a18f0f509c",
+      "reviewed_on": "2026-10-01",
       "method": "desk_review",
-      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung.",
+      "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
       "runtime_status": "not_run"
     },
     {
@@ -2138,10 +2158,10 @@
     {
       "phase": 8,
       "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
-      "sha256": "b15bd840ad87aca56ec39516b4cdfb9045bef6a055503d138d7e370ceff32cce",
-      "reviewed_on": "2026-09-25",
+      "sha256": "bb2ca716fbf4927696357e1fea4f99edffc46f96d5b4dd7dd801f6f4aed9715c",
+      "reviewed_on": "2026-10-01",
       "method": "desk_review",
-      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden.",
+      "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
       "runtime_status": "not_run"
     },
     {

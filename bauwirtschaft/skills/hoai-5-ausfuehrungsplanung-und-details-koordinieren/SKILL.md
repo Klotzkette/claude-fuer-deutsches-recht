@@ -25,6 +25,8 @@ Ermitteln Sie den vereinbarten Planungsumfang, besondere Detailpflichten und die
 
 Fixieren Sie den belegten Ausgangsstand einschließlich Auflagen, maßgeblicher Schnitte und Bezugsniveaus. Trennen Sie genehmigt, fachlich bestätigt, zur Koordination, zur Ausführung und ersetzt. Ein späteres Datum hebt einen alten Plan nicht ohne Prüfung von Inhalt und Autorisierung auf. Prüfen Sie, ob eine Detailänderung genehmigungsrelevante Merkmale berührt; gegebenenfalls Rückkopplung zu LPH 4 statt stiller Abweichung auf der Baustelle.
 
+Nach [BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1), Rn. 39–41, muss der Ausführungsplaner fremde Entwurfsplanung im zumutbaren Umfang prüfen und erkennbare Bedenken klar dem Besteller mitteilen. Übernahme oder Planfreigabe allein entlasten nicht. Ermitteln Sie Fachwissen, konkretes Risiko, Empfänger und Antwort; bei verschlossenem Empfangsbevollmächtigten ist der Besteller selbst zu informieren. Überarbeiten Sie danach betroffene Details und Versandstand. Das Urteil betrifft Verträge 2009/2010; heutigen Auftrag selbstständig auslegen.
+
 ### 3.2. Detail wirklich ausarbeiten
 
 Zeigen Sie beim beauftragten Detail Geometrie, Bezugskanten, Schichten, Materialien, Anschlüsse, Befestigungsprinzip, Toleranz-/Bewegungsraum und Gewerkeübergänge, soweit belegt und im Auftrag. Liefern Sie eine echte Darstellung mit nachvollziehbaren Maßen oder eine prüfbare textliche Ergänzung zum konkret benannten Plan. Eine Liste „Detail noch erstellen“ ist kein Detailprodukt.

@@ -20,8 +20,8 @@
     },
     {
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
-      "checked_on": "2026-09-30",
-      "supports": "Formmangel einfacher E-Mail und fehlende automatische Heilung durch Sachentscheidung."
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18. Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen. Grenze: Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen."
     },
     {
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_26_B_01_KR_09_18_R.html",
@@ -32,6 +32,26 @@
       "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
       "checked_on": "2026-09-30",
       "supports": "Existenzielle Eilverfahren und ausreichende Prüfung beziehungsweise Folgenabwägung."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18. Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen. Grenze: Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 bis 4 vollständig: Erläuterung auf Verlangen, abgestufte einfache/Leichte Sprache und notwendige Erläuterungskosten im gesetzlichen Personenkreis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__19.html",
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen; insbesondere Absätze 1a, 3 und 4: Verständnishilfe, Beginn einer Behördenfrist und Erhaltung des Ersteingangs durch verständliche Eingabe oder rechtzeitige Übersetzung getrennt."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
+      "checked_on": "2026-09-30",
+      "supports": "Bestehender Pflegeanker des Laienprompts. Vorhandenen Primärquellenbeleg aus quality/source-audits/2026-09-30/arbeit-sozial.md übernommen: amtlicher Volltext zu Kriterien/Gewichtung und besonderen Bedarfskonstellationen. Kein Neuabruf im Durchgang 01.10.2026."
     }
   ],
   "selection": {
@@ -382,10 +402,12 @@
     ],
     "decisions": [
       {
-        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R",
+        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
-        "application": "Formmangel vor schöner Begründung erkennen und sichere Einreichung erklären.",
-        "limit": "Keine pauschale Gleichsetzung normaler E-Mail mit zulässigen sicheren Portalen."
+        "application": "Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen.",
+        "limit": "Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen.",
+        "checked_on": "2026-10-01",
+        "read_scope": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18."
       },
       {
         "citation": "BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R",
@@ -398,6 +420,21 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
         "application": "Existenzielle Nachteile mit aktueller Tatsachengrundlage und passendem Eilverfahren verbinden.",
         "limit": "Keine automatische Leistungszusage oder erfundene Glaubhaftmachung."
+      },
+      {
+        "citation": "BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html",
+        "application": "Mobilitätsversorgung anhand konkreter örtlicher Alltagswege, eigener Restkräfte, Sicherheit und geeigneter Alternativen.",
+        "limit": "Zurückverweisung, keine Wunschmodellgarantie; weitergehende Sport-/Freizeitziele und anderer Rehabilitationsträger gesondert.",
+        "checked_on": "2026-10-01",
+        "read_scope": "Amtlicher HTML-Volltext vollständig, amtliches PDF für Rn. 1–19 abgeglichen; tragend Rn. 13–18."
+      },
+      {
+        "citation": "BSG, Urteil vom 05.03.2026, B 3 P 5/24 R",
+        "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html",
+        "checked_on": "2026-09-30",
+        "application": "Bestehende Pflegegradpassage: gesetzliche Kriterien und Gewichtung statt Diagnose oder frei erfundener Ersatzbewertung.",
+        "limit": "Historischer Primärquellenbeleg aus dem Audit arbeit-sozial.md vom 30.09.2026; am 01.10.2026 nicht neu abgerufen. Keine automatische Einstufung aus besonderer Belastung."
       }
     ],
     "remaining_limits": [
@@ -424,7 +461,7 @@
     "changes": [
       "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht."
     ],
-    "sha256": "c1aa9392e6d5802efed957a7cd44eecda75ae52f287ea37319866ecdaec0d483"
+    "sha256": "838149a6fc2bb4bd8cc6fab443dec6cecf2744dfebe2f6694bfb5d3ce4d95a06"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -432,6 +469,20 @@
     "changes": [
       "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf."
     ],
-    "sha256": "df4d0cccdd95122d571d1e09c755673df6137adebdd57bf01f5f617e1b5f3bf9"
+    "sha256": "3112090b08adab465f0f24171fe44296778c2302b952b7a4a0a2a73b970f569d"
+  },
+  "source_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-10-01/sozial-und-neue-plugins.md",
+    "scope": "Gezielt Formmangel, Änderungsbescheide, Kommunikations-/Übersetzungsregeln sowie Mobilitätshilfen und die unmittelbar betroffenen Normfehler; kein erneuter Vollcheck alter Entscheidungen, aller Fachskills oder DIN-Normen. Frühere redaktionelle Reviewdaten bleiben historische Angaben.",
+    "changed_files": [
+      "sozialrecht-fuer-laien/references/fristen-und-verfahren.md",
+      "sozialrecht-fuer-laien/references/quellen-und-hilfe.md",
+      "sozialrecht-fuer-laien/skills/kranken-und-pflegekasse-antworten/SKILL.md",
+      "sozialrecht-fuer-laien/skills/widerspruch-schreiben/SKILL.md",
+      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md",
+      "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md"
+    ]
   }
 }

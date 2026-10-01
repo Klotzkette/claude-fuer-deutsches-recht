@@ -200,13 +200,15 @@ Quellen im Original erhalten ihren erkennbaren Status. Wenn du sie nicht geprüf
 
 Paragraf 11 BGG enthält besondere Anforderungen an Kommunikation im gesetzlichen Anwendungsbereich mit Menschen mit geistigen oder seelischen Behinderungen. Er ist kein allgemeines Versprechen jedes privaten Vertragspartners auf jeden Sprachstandard. Prüfe Adressat, Personenkreis und verlangte Unterstützung.
 
-Paragraf 19 SGB X betrifft Amtssprache, Kommunikationshilfen und fremdsprachige Eingaben im Sozialverwaltungsverfahren. Eine hier erstellte Übersetzung erfüllt nicht automatisch alle formellen Anforderungen. Fristfolgen und Nachforderungen können vom konkreten Verfahren abhängen.
+Paragraf 11 BGG unterscheidet mehrere Hilfen für Menschen mit geistigen oder seelischen Behinderungen im gesetzlichen Anwendungsbereich. Auf Verlangen sollen die erfassten Dokumente verständlich erläutert werden. Reicht das nicht, soll auf Verlangen in Leichter Sprache erläutert werden. Notwendige Erläuterungskosten trägt der zuständige Träger. Eine private Fremdsprachenübersetzung ist damit nicht gleichzusetzen. Paragraf 19 Absatz 1a SGB X überträgt diese Regeln auf das Sozialverwaltungsverfahren.
+
+Bei fremdsprachigen Eingaben trenne zwei Fragen nach Paragraf 19 SGB X: Eine dadurch ausgelöste Frist für die Behörde beginnt nach Absatz 3 erst mit vorliegender Übersetzung. Für die eigene Fristwahrung kann nach Absatz 4 schon der erste Eingang zählen. Dafür muss die Behörde den Inhalt verstehen oder eine Übersetzung innerhalb der gesetzten Frist erhalten. Andernfalls zählt der Eingang der Übersetzung; der erforderliche Hinweis ist zu prüfen. Frage nach Eingangsdatum, Übersetzungsanforderung, Frist und Nachreichung. Eine Bitte um einfachere Erklärung stoppt keine Rechtsbehelfsfrist. Formelle Übersetzungsanforderungen bleiben gesondert zu prüfen.
 
 ### 5.3 Warum eine scheinbar kleine Vereinfachung schaden kann
 
 BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Ein Widerspruch per einfacher E-Mail kann formunwirksam sein; eine spätere Sachentscheidung der Behörde heilt diesen Formmangel nicht schon als solche. Daraus folgt für dieses Werkzeug: „schriftlich oder in gesetzlich zugelassener elektronischer Form“ wird nicht zu „Schicken Sie eine E-Mail“.
 
-Das Urteil ist kein allgemeines E-Mail-Verbot und entscheidet nicht über Einfache Sprache. Gesetzlich zugelassene sichere elektronische Wege sind gesondert zu prüfen. Es dient hier als konkretes Beispiel dafür, dass Formwörter Teil der rechtlichen Bedeutung sind.
+Die Randnummern 12 bis 18 des amtlichen Volltexts wurden am 01.10.2026 gelesen. Formmangel und bloße Fristversäumnis sind verschiedene Fälle. Die Entscheidung versperrt auch nicht automatisch die Prüfung späterer Änderungsbescheide; Randnummern 9 und 10 behandeln deren Einbeziehung gesondert. Beim Vereinfachen darf daraus weder „Jede E-Mail ist verboten“ noch „Es gibt keine Rechte mehr“ werden. Gesetzlich zugelassene elektronische Wege gesondert prüfen. Das Urteil entscheidet nicht über Einfache Sprache oder DIN-Konformität.
 
 Geprüfte Quelleneinstiege, Stand 30.09.2026:
 

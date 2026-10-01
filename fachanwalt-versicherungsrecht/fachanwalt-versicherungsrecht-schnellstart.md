@@ -24,7 +24,7 @@ Bei Sachschäden Schadenpositionen, Selbstbehalt, Unterversicherung und bereits 
 
 ## 4. Amtliche Quellen
 
-Am 22.09.2026 geprüft: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html), [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und [amtlicher Leitsatz zu IV ZR 535/15](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-7-19&Gericht=bgh&anz=22&nr=79199&pos=7). Direkter Entscheidungsabruf gesperrt; keine Volltextprüfung behaupten. Weitere Normen und Fortentwicklung fallbezogen prüfen; Vertragsbeleg, Norm und Annahme unterscheiden.
+Am 22.09.2026 geprüft: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html), [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und [amtlicher Leitsatz zu IV ZR 535/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1). Direkter Entscheidungsabruf gesperrt; keine Volltextprüfung behaupten. Weitere Normen und Fortentwicklung fallbezogen prüfen; Vertragsbeleg, Norm und Annahme unterscheiden.
 
 ## 5. Ergebnis und Freigabe
 

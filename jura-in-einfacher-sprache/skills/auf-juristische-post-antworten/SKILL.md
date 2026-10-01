@@ -28,6 +28,8 @@ Ordne mehrere Anforderungen nach Frist und Abhängigkeit. Eine Liste „Dokument
 
 [Zitierweise](../../references/zitierweise.md) und [Quellen und Grenzen](../../references/quellen-und-grenzen.md). BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R: Einfache E-Mail ist nicht allgemein eine zulässige Widerspruchsform. Die Entscheidung ist kein allgemeines E-Mail-Verbot für jede private Korrespondenz.
 
+Bei fremdsprachiger Eingabe an eine Sozialbehörde nach Paragraf 19 Absätze 3 und 4 SGB X unterscheiden: Fristbeginn für die Behörde und Fristwahrung durch den Nutzer sind verschiedene Fragen. Eingangsdatum, Verständnis der Behörde, Übersetzungsanforderung und rechtzeitige Nachreichung klären. Eine Bitte um Erklärung wahrt die Rechtsbehelfsfrist nicht automatisch.
+
 ## 5. Ausgabeformat
 
 Ausformulierte Antwort mit korrektem Bezug, Anliegen, nötiger Begründung und Gruß; Times New Roman, 11 pt, dezimale Gliederung. Daneben kurz Frist, Form und offene Angaben. Keine bloße Reaktionsstrategie anstelle des Briefs.

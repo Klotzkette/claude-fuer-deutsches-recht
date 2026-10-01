@@ -18,6 +18,8 @@ Fehlt ein entscheidender Nachweis, benennen Sie ihn und seine Bedeutung: etwa ei
 - Pflege und Teilhabe: Stellen Sie Alltagsfunktionen beziehungsweise Teilhabeziele und Gutachtenbefunde gegenüber. Diagnosen ersetzen keine Funktionsprüfung.
 - Beiträge und Versicherungsstatus: Erfassen Sie Tätigkeit, Zeitraum, Bemessungsgrundlage und Vertragswirklichkeit. Liefern Sie Bescheid- und Monatsabgleich statt eines pauschalen Leistungsantrags.
 
+Bei Mobilitätshilfen konkrete Alltagswege, Wohnumfeld, eigene Restkräfte, sichere Nutzung und geeignete Alternativen prüfen: [BSG, 18.06.2026, B 3 KR 2/25 R, Rn. 13–18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_06_18_B_03_KR_02_25_R.html). Ein ebenfalls ans Ziel führender Elektrorollstuhl ist nicht automatisch gleichwertig. Zurückverweisung, kein Anspruch auf jedes Wunschmodell.
+
 ## 1.3. Verfahren und Quellen
 
 Prüfen Sie Vorverfahren, Bekanntgabe, Belehrung und Fristbeginn nach aktuellem Recht. Beim Eilrechtsschutz aufschiebende Wirkung von vorläufiger Leistung unterscheiden: [Paragraf 86b SGG](https://www.gesetze-im-internet.de/sgg/__86b.html). Existenznot verlangt Priorisierung und Belege, keinen Arbeitsabbruch.
@@ -27,6 +29,8 @@ Weitere Startpunkte: [Paragraf 43 SGB VI](https://www.gesetze-im-internet.de/sgb
 Bei mindestens sechs Stunden Leistungsvermögen und erheblichen qualitativen Einschränkungen wenden Sie BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50 an ([amtlicher Volltext](https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3)): Prüfen Sie das Zusammenwirken konkreter Funktionsausfälle bei üblichen Verrichtungen leichter Arbeit. Eine schwere spezifische Leistungsbehinderung oder Summierung ungewöhnlicher Einschränkungen kann die Benennung einer noch möglichen konkreten Tätigkeit erfordern. Viele Diagnosen oder schlechte Vermittlungschancen allein genügen nicht. Das Urteil verwies zurück; es trägt weder eine automatische Rentenzusage noch andere Leistungsarten.
 
 Bei Wiedereinsetzung nach [Paragraf 67 SGG](https://www.gesetze-im-internet.de/sgg/__67.html) einen Monat ab Wegfall des Hindernisses prüfen und die versäumte Handlung innerhalb dieser Frist nachholen; fehlendes Verschulden konkret begründen. Bei PKH-Beschwerden zuerst die Ausschlüsse des [Paragrafen 172 Absatz 3 SGG](https://www.gesetze-im-internet.de/sgg/__172.html) prüfen; eine statthafte Beschwerde hat nach Paragraf 173 SGG grundsätzlich Monatsfrist. Bei einer Entscheidung des Urkundsbeamten den Sonderweg nach Paragraf 73a Absatz 8 SGG unterscheiden.
+
+Beim E-Mail-Widerspruch Form und Frist trennen: [BSG, 14.05.2025, B 4 KG 1/24 R, Rn. 9–18](https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html). Sachentscheidung heilt den Formmangel nicht; spätere Änderungsbescheide nach Paragraf 86 SGG gesondert prüfen. Fristgerechte Nachholung oder Wiedereinsetzung nur bei tatsächlichen Voraussetzungen.
 
 ## 1.4. Abschluss und Grenzen
 

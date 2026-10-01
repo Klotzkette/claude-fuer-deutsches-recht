@@ -14,7 +14,7 @@
       "supports": "Amtlichen Text zu Paragraf 276 ZPO gelesen; Bezug: Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22: Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage. Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit."
     },
@@ -43,7 +43,7 @@
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
     ],
-    "sha256": "1607cd8c231273c6255e40eb1413c0219c391dc0fffd098525a07f40e3d2150b",
+    "sha256": "aa636dd11fc6e2f8df59cbc841c5c0998929cc8f3b71cc14d7c128f22827b2c7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -56,7 +56,7 @@
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
     ],
-    "sha256": "f9689c92a8c6aab012ed2694c93e19fcd28909276a3428635779d73a6b7f6d0d",
+    "sha256": "93401a389943e7e884a4f1a6ae355427a602844b335f06ede05cc708d6d07ead",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -120,7 +120,7 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 21.03.2023, VIII ZB 80/22",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "application": "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
         "limit": "Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit."
       }
@@ -143,5 +143,17 @@
     "continuation": "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
     "enrichment": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
+        "sha256": "5ad7c07c3d209bfe580cc3f216afaf0575227655115459f3b0b004f97037d06f"
+      }
+    ]
   }
 }

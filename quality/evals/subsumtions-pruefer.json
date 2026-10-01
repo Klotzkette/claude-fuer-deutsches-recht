@@ -39,7 +39,7 @@
       "supports": "Gerichtliche Würdigung und Schätzung bei Schaden und Höhe unter Würdigung aller Umstände; keine Voraussetzung, dass sämtliche anderen Beweismittel ausgeschlossen sind."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=141463&Blank=1.pdf",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_431-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Amtliche Identität/Fundstelle; maßgebliche Begründung in separat dokumentierter Volltextwiedergabe geprüft. Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle. Amtliche Entscheidungsidentität und wesentliche Passage im Suchindex; Randnummern zusätzlich in veröffentlichter Volltextwiedergabe gelesen, direkter amtlicher PDF-Abruf nicht auswertbar."
     },
@@ -57,7 +57,7 @@
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
       "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
     ],
-    "sha256": "078d06cbec9674513922b498f829a006d1f501029f0c763f3788f6e871e87134"
+    "sha256": "146516c1c1078b70f72448ae6b615f56eb68edc0a995b07b3bb339c3bcce22c7"
   },
   "selection": {
     "positive": [
@@ -74,12 +74,32 @@
       "id": "unbelegte-beweislastumkehr",
       "request": "Prüfen Sie in ergebnis.md meinen Absatz aus Sicht des Prozessgegners und liefern Sie anschließend eine verbesserte Fassung. Ein Unternehmer verlangt aus einem ausgehandelten Kaufvertrag Zahlung. Vertragsschluss und Fälligkeit sind unstreitig. Der Käufer behauptet Überweisung, nennt aber weder Datum noch Bank noch Betrag und legt keinen Beleg vor. Mein Absatz lautet: Weil der Verkäufer leichter seine Kontoauszüge beschaffen kann, kehrt sich die Beweislast um. Er muss beweisen, dass keine Zahlung eingegangen ist. Wir gewinnen deshalb ohne weiteren Vortrag. Eine besondere Beweisvereinbarung oder ein Nachweis der behaupteten Zahlung liegt nicht vor. Eine Klage oder einen vollständigen Schriftsatz brauche ich nicht.",
       "input_files": [],
-      "deliverables": ["ergebnis.md"],
+      "deliverables": [
+        "ergebnis.md"
+      ],
       "target_skill": "rechtsfolge-bestimmen-einreden-interaktiver",
       "criteria": [
-        {"id": "C01", "text": "Trennt Entstehung und Fälligkeit der Forderung von der behaupteten Erfüllung; bloße Verfügbarkeit von Kontoauszügen begründet keine automatische Beweislastumkehr.", "deliverables": ["ergebnis.md"]},
-        {"id": "C02", "text": "Fordert konkrete Zahlungsangaben beziehungsweise Nachweise, ohne deren Inhalt zu erfinden; bewertet das Fehlen eines Belegs nicht als bewiesene Nichtzahlung.", "deliverables": ["ergebnis.md"]},
-        {"id": "C03", "text": "Formuliert eine begründete Gegenposition und eine korrigierte Passage ohne sicheren Prozesserfolg oder ungefragte Klageschrift.", "deliverables": ["ergebnis.md"]}
+        {
+          "id": "C01",
+          "text": "Trennt Entstehung und Fälligkeit der Forderung von der behaupteten Erfüllung; bloße Verfügbarkeit von Kontoauszügen begründet keine automatische Beweislastumkehr.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Fordert konkrete Zahlungsangaben beziehungsweise Nachweise, ohne deren Inhalt zu erfinden; bewertet das Fehlen eines Belegs nicht als bewiesene Nichtzahlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eine begründete Gegenposition und eine korrigierte Passage ohne sicheren Prozesserfolg oder ungefragte Klageschrift.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
       ]
     },
     {
@@ -123,7 +143,7 @@
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
       "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
     ],
-    "sha256": "5162380c3e79809d6651c1969847d2fc19f016aa494a40e74551d972f76980be"
+    "sha256": "d85b651f9f4b5f7b1a96d7bd429ff5782d175a28140f6bb80b9b43f8ffdc02a1"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -150,13 +170,25 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 10.04.2025, III ZR 431/23, Randnummern 17 bis 20",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=141463&Blank=1.pdf",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_431-23.pdf?__blob=publicationFile&v=1",
         "application": "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus.",
         "limit": "Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
       }
     ],
     "remaining_limits": [
       "Amtliche Entscheidungsidentität und wesentliche Passage im Suchindex; Randnummern zusätzlich in veröffentlichter Volltextwiedergabe gelesen, direkter amtlicher PDF-Abruf nicht auswertbar."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=141463&Blank=1.pdf",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR_431-23.pdf?__blob=publicationFile&v=1",
+        "sha256": "deeeaf524b09d83c146882423cf79c440bbf7bea2b66cd7e5607f3eb3bc03e75"
+      }
     ]
   }
 }

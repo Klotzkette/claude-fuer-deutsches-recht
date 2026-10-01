@@ -38,7 +38,7 @@ Ein Nachtrag bestimmt Ausgangsvertrag, Nummer, Ersatztext, Beginn und Fortgeltun
 
 Amtliche Normbasis: [BGB](https://www.gesetze-im-internet.de/bgb/BJNR001950896.html), besonders Paragrafen 125 bis 127, 145 bis 150, 164, 177, 271a, 276, 305 bis 310, 314, 433, 611, 631, 640, 648 und 766, sowie [Paragraf 377 HGB](https://www.gesetze-im-internet.de/hgb/__377.html). Normen ersetzen keine konkreten Tatsachennachweise.
 
-BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: Der [amtlich indexierte Leitsatz](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1-19&Gericht=bgh&anz=22&nr=77407&pos=14) behandelt Mängelrechte grundsätzlich nach Abnahme und begrenzte Ausnahmen beim Abrechnungsverhältnis. Direktvolltext am Prüfdatum gesperrt; keine Randnummer bestätigt und keine allgemeine Rechtlosigkeit vor Abnahme behaupten. Keine erfundenen Gerichte, Aktenzeichen, Literatur oder Parallelfundstellen. Fehlenden Zugang als gezielten Prüfpunkt benennen. Quellenprüfung und Textprüfung sind keine Live-Ausführung eines Mandats.
+BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: Der [amtlich indexierte Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1) behandelt Mängelrechte grundsätzlich nach Abnahme und begrenzte Ausnahmen beim Abrechnungsverhältnis. Direktvolltext am Prüfdatum gesperrt; keine Randnummer bestätigt und keine allgemeine Rechtlosigkeit vor Abnahme behaupten. Keine erfundenen Gerichte, Aktenzeichen, Literatur oder Parallelfundstellen. Fehlenden Zugang als gezielten Prüfpunkt benennen. Quellenprüfung und Textprüfung sind keine Live-Ausführung eines Mandats.
 
 ## 1.6. Liefern Sie das Ergebnis
 

@@ -179,7 +179,7 @@ Für delegierten Versand ist BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 
 
 Der Versandprozess endet nicht beim Klick auf Senden. Prüfe die automatisierte gerichtliche Eingangsbestätigung auf Gericht, Aktenzeichen, Zeit, Hauptdatei, sämtliche Anhänge und positiven Status.
 
-BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), verlangt auch den Abgleich des sinnvoll vergebenen Dateinamens mit der Eingangsbestätigung nach Paragraf 130a Absatz 5 Satz 2 ZPO. Eine erfolgreiche Nachricht mit falschem Schriftsatz genügt nicht. Ergänze deshalb den Kontrollauftrag um den Vergleich mit dem finalen Versandmanifest. Der Leitsatz belegt keine materielle Richtigkeit oder Vollständigkeit der Belege; der Volltext war hier nicht erreichbar.
+BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1)), verlangt auch den Abgleich des sinnvoll vergebenen Dateinamens mit der Eingangsbestätigung nach Paragraf 130a Absatz 5 Satz 2 ZPO. Eine erfolgreiche Nachricht mit falschem Schriftsatz genügt nicht. Ergänze deshalb den Kontrollauftrag um den Vergleich mit dem finalen Versandmanifest. Der Leitsatz belegt keine materielle Richtigkeit oder Vollständigkeit der Belege; der Volltext war hier nicht erreichbar.
 
 Speichere Exportnachricht, Prüfvermerk, Eingangsbestätigung und exakt versandte Dateien gemeinsam in der Mandatsakte. Frist erst danach erledigen.
 

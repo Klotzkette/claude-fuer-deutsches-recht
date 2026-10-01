@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "mietrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/BJNR001950896.html",
@@ -37,6 +37,45 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-23",
       "supports": "BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12: Schonfristzahlung heilt eine ordentliche Zahlungsverzugskündigung weder unmittelbar noch analog; deren Voraussetzungen nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen. Grenze: Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie. Amtlichen Volltext gelesen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44: § 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen. Gelesen: Kopf/Leitsatz, Rn. 28–44; Tatbestand zur Einordnung. Grenze: Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen.",
+      "sha256": "88137f539f5dba1b717c36b71b3f198bba6d011b3f1131d1036f67d8e46d3999"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29: Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend. Gelesen: Kopf/Leitsätze, Rn. 10–17 und 20–29. Grenze: Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht.",
+      "sha256": "4d294cb73471f054fa6fceac16fff307e6e3d7543a533eaafa7c7f7313e194f5"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR__43-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 27.10.2023 – Az. V ZR 43/23: Identitäts-/Themenabgleich: Grundstückskauf und undichtes Terrassendach, kein Sonderumlagenanker. Falsche Zuordnung entfernt. Gelesen: Kopf, Leitsätze und Rn. 1–3. Grenze: Hier nur Kopf, Leitsätze und Tatbestand gelesen; keine neue Anwendung des Kaufrechts im Plugin.",
+      "sha256": "b527ba21e271e4510b14d1daf59c82dce4cabca252afcecca2c52aedac79a7f0"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2019/V_ZR_234-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Urteil vom 11.06.2021 – Az. V ZR 234/19: Identitäts-/Themenabgleich: Selbsthilfe bei Baumüberhang nach § 910 BGB, kein Beleg für die WEG-Anfechtungsfrist. Falsches Datum 10.07.2020 und Zuordnung entfernt. Gelesen: Kopf, Leitsatz und Rn. 1. Grenze: Nur Kopf, Leitsatz und Tatbestandsbeginn gelesen; kein materieller Nachbarrechtsupdate.",
+      "sha256": "95395d8c733fbc0c49bdf9bae1d5b3a9fe3489afd060b4a4cd53199e75938805"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__24.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 4 und 6: Textform, grundsätzlich dreiwöchige Frist, Protokollunterzeichnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__44.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 und 2: Klagearten, GdWE als Beklagte, keine angeordnete aufschiebende Wirkung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/woeigg/__45.html",
+      "checked_on": "2026-10-01",
+      "supports": "Beide Fristen ab Beschlussfassung; Wiedereinsetzungsverweisung in Satz 2."
     }
   ],
   "mini_review": {
@@ -46,9 +85,11 @@
       "VIII ZR 287/23 vollständig amtlich gelesen und in beiden Prompts mit Zurückverweisungsgrenze sowie eigenständiger Prüfung nach Paragraf 573 BGB angewendet.",
       "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
       "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
-      "Zahlungseingang verändert Monatsrechnung und Begründung im bestehenden Dokument; Mangelzeitraum gesondert prüfen."
+      "Zahlungseingang verändert Monatsrechnung und Begründung im bestehenden Dokument; Mangelzeitraum gesondert prüfen.",
+      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent."
     ],
-    "sha256": "48c18a419cbc9b289edb968d48292f15323c3e28c3cc9f61acd3b4fa942e37ec"
+    "sha256": "b33b7887e79b693ee237a8acdf3641a6c76aca1eed633c943b87c8a9799e91b7",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -102,18 +143,21 @@
       "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
       "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
       "Streitige Minderung, Guthabenverrechnung und verschiedene Rückstandsstichtage in Rechnung und Kündigungsbewertung getrennt.",
-      "Kostenaufteilung, Teilreparatur, Flächennachweis, geänderte Nutzungsplanung und Rückgabezeitpunkt mit konkreten Dokumentfolgen ergänzt."
+      "Kostenaufteilung, Teilreparatur, Flächennachweis, geänderte Nutzungsplanung und Rückgabezeitpunkt mit konkreten Dokumentfolgen ergänzt.",
+      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent."
     ],
-    "sha256": "02df9b59098b17b7ef9809689eb8e99e247bf7ba8df88320ecc2f792fae2860f"
+    "sha256": "f0c71dc853dd464e351bcbc9b6b1be8df24b5ddf0020f8824726acd18eadd02c",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "mietrecht/README.md",
       "mietrecht/mietrecht-schnellstart.md",
       "mietrecht/mietrecht-werkstatt.md",
       "quality/evals/mietrecht.json",
-      "mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md"
+      "mietrecht/skills/mahnung-zahlungsverzug-mieter/SKILL.md",
+      "mietrecht/skills/weg-beschluss-anfechten/SKILL.md"
     ],
     "opening_change": "Kündigungsrelevanten Rückstand aus Monaten und Einwendungen berechnen; andere Mietstreitpunkte nach ihrem konkreten Anspruch bearbeiten.",
     "norms": [
@@ -131,13 +175,42 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1",
         "application": "Schonfristzahlung heilt eine ordentliche Zahlungsverzugskündigung weder unmittelbar noch analog; deren Voraussetzungen nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen.",
         "limit": "Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie."
+      },
+      {
+        "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR__50-23.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "§ 556f Satz 1 BGB kann dauerhafte Wiedernutzbarmachung zuvor unbewohnbaren Altbestands mit wesentlichem Bauaufwand erfassen. Vorzustand, Wiederbeginn und Kostenvergleich separat feststellen.",
+        "limit": "Zurückverweisung ohne abschließende Tatsachenfeststellung; keine Ausnahme allein bei hohen Kosten oder gewöhnlicher Modernisierung. Im Ausgangsfall ältere Auskunfts-/Rügeregeln; nicht ungeprüft übertragen."
+      },
+      {
+        "citation": "BGH, Urteil vom 13.01.2023 – Az. V ZR 43/22, Rn. 10–17 und 20–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__43-22.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Einheitlicher Streitgegenstand von Anfechtung und Nichtigkeit; Gemeinschaft als Beklagte, falsche Eigentümerbezeichnung grundsätzlich nicht fristwahrend.",
+        "limit": "Kein Stimmrechts- oder Beschlussfähigkeitsanker. Auslegung fehlerhafter Parteibezeichnung nur bei zweifelsfrei erkennbarem Willen im übrigen Klageinhalt; Verwalternennung reicht nicht."
+      },
+      {
+        "citation": "BGH, Urteil vom 27.10.2023 – Az. V ZR 43/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR__43-23.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Identitäts-/Themenabgleich: Grundstückskauf und undichtes Terrassendach, kein Sonderumlagenanker. Falsche Zuordnung entfernt.",
+        "limit": "Hier nur Kopf, Leitsätze und Tatbestand gelesen; keine neue Anwendung des Kaufrechts im Plugin."
+      },
+      {
+        "citation": "BGH, Urteil vom 11.06.2021 – Az. V ZR 234/19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2019/V_ZR_234-19.pdf?__blob=publicationFile&v=1",
+        "checked_on": "2026-10-01",
+        "application": "Identitäts-/Themenabgleich: Selbsthilfe bei Baumüberhang nach § 910 BGB, kein Beleg für die WEG-Anfechtungsfrist. Falsches Datum 10.07.2020 und Zuordnung entfernt.",
+        "limit": "Nur Kopf, Leitsatz und Tatbestandsbeginn gelesen; kein materieller Nachbarrechtsupdate."
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Modell- oder Mandatstest; örtliche Mietspiegel und Verordnungen nicht flächendeckend aktualisiert.",
       "Ordentlicher Skill mahnung-zahlungsverzug-mieter nur gelesen, nicht im Schreibbereich: dort verbleiben zu pauschale Aussagen zur Wirksamkeit ordentlicher Kündigung, Unterschrift aller Vermieter und ältere ungeprüfte Entscheidungen; Prompts verlangen eigenständige Prüfung.",
       "Weitere Spezialrechtsprechung zu Schönheitsreparaturen, Aufzug und Eigenbedarf nicht als neu verifiziert ausgewiesen.",
-      "Workflow-Ergänzung 2026-09-23: Alle bisherigen Profil-URLs erneut aufgerufen. Paragraf 578 BGB und Artikel 229 Paragraf 70 EGBGB erneut amtlich gelesen; Paragrafen 548, 556 und 569 BGB über Gesamttext geprüft. Erneuter Abruf des BGH-PDF VIII ZR 287/23 erfolglos; die frühere datierte Volltextprüfung wird erhalten und nicht als neuer Abruf ausgegeben. Keine flächendeckende Mietspiegelprüfung, keine Live-Mandatsausführung."
+      "Workflow-Ergänzung 2026-09-23: Alle bisherigen Profil-URLs erneut aufgerufen. Paragraf 578 BGB und Artikel 229 Paragraf 70 EGBGB erneut amtlich gelesen; Paragrafen 548, 556 und 569 BGB über Gesamttext geprüft. Erneuter Abruf des BGH-PDF VIII ZR 287/23 erfolglos; die frühere datierte Volltextprüfung wird erhalten und nicht als neuer Abruf ausgegeben. Keine flächendeckende Mietspiegelprüfung, keine Live-Mandatsausführung.",
+      "Begrenzter Nachtrag 01.10.2026: VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent. Keine Gesamtneuverifikation aller Altanker oder Live-Modelltests."
     ]
   },
   "prompt_workflow_review": {

@@ -5,18 +5,18 @@
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgg/__11.html",
-      "checked_on": "2026-09-30",
-      "supports": "Begrenzter gesetzlicher Anwendungsbereich verständlicher Kommunikation, kein Universalanspruch gegen Private."
+      "checked_on": "2026-10-01",
+      "supports": "Absätze 1 bis 4 vollständig: Erläuterung auf Verlangen, abgestufte einfache/Leichte Sprache und notwendige Erläuterungskosten im gesetzlichen Personenkreis."
     },
     {
       "url": "https://www.gesetze-im-internet.de/sgb_10/__19.html",
-      "checked_on": "2026-09-30",
-      "supports": "Amtssprache und besondere Anforderungen bei fremdsprachigen Eingaben."
+      "checked_on": "2026-10-01",
+      "supports": "Vollständig gelesen; insbesondere Absätze 1a, 3 und 4: Verständnishilfe, Beginn einer Behördenfrist und Erhaltung des Ersteingangs durch verständliche Eingabe oder rechtzeitige Übersetzung getrennt."
     },
     {
       "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
-      "checked_on": "2026-09-30",
-      "supports": "Konkretes Beispiel für schädlichen Bedeutungsverlust bei Vereinfachung von Formanforderungen."
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18. Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen. Grenze: Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen."
     }
   ],
   "selection": {
@@ -367,10 +367,12 @@
     ],
     "decisions": [
       {
-        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R",
+        "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2025/2025_05_14_B_04_KG_01_24_R.html",
-        "application": "Formvorgaben sind Bedeutung, nicht frei kürzbare Sprachhülle.",
-        "limit": "Kein allgemeines E-Mail-Verbot und keine Entscheidung über Normkonformität Einfacher Sprache."
+        "application": "Sachentscheidung heilt keinen einfachen E-Mail-Formmangel; Form und Verspätung sowie Einbeziehung späterer Änderungsbescheide getrennt prüfen.",
+        "limit": "Keine allgemeine E-Mail-Sperre und kein Verlust aller Ansprüche; Bestandskraft, Nachholung und Wiedereinsetzung fallbezogen.",
+        "checked_on": "2026-10-01",
+        "read_scope": "Amtlicher HTML-Volltext vollständig, Randnummern am amtlichen PDF abgeglichen; tragend Rn. 9–18."
       }
     ],
     "remaining_limits": [
@@ -398,7 +400,7 @@
       "Form, Modalität, Fristen und Aussageart ausdrücklich erhalten.",
       "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert."
     ],
-    "sha256": "b6b56b94404fbf70eef31a61158e18073a5acceec3564a0807276deef7f5181e"
+    "sha256": "1d41884347a5d85f27ed43630096ad37e128cb832600987d30ca271b1c3b703d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -407,6 +409,18 @@
       "Mehrdeutigkeit, Rückfragen, Übersetzungsgrenzen und unabhängige Endprüfung.",
       "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern."
     ],
-    "sha256": "a1196eaec760d0c2424a9e4d8fe0d8501d0d6691a7f1d75131dfed4e7109af04"
+    "sha256": "ac1c63ca315b00435316dd504923e6fec7bb5f2970cea73c57588a84bcbee883"
+  },
+  "source_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "method": "targeted_primary_source_review",
+    "report": "quality/source-audits/2026-10-01/sozial-und-neue-plugins.md",
+    "scope": "Gezielt Formmangel, Änderungsbescheide, Kommunikations-/Übersetzungsregeln sowie Mobilitätshilfen und die unmittelbar betroffenen Normfehler; kein erneuter Vollcheck alter Entscheidungen, aller Fachskills oder DIN-Normen. Frühere redaktionelle Reviewdaten bleiben historische Angaben.",
+    "changed_files": [
+      "jura-in-einfacher-sprache/jura-in-einfacher-sprache-schnellstart.md",
+      "jura-in-einfacher-sprache/jura-in-einfacher-sprache-werkstatt.md",
+      "jura-in-einfacher-sprache/references/quellen-und-grenzen.md",
+      "jura-in-einfacher-sprache/skills/auf-juristische-post-antworten/SKILL.md"
+    ]
   }
 }

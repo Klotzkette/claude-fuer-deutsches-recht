@@ -4,7 +4,7 @@
   "reviewed_on": "2026-09-23",
   "sources": [
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis. Identität und entscheidende Passage im amtlichen Suchindex geprüft; direkter PDF-Abruf nicht auswertbar, keine vollständige Neuprüfung aller übrigen Normen behauptet."
     }
@@ -90,7 +90,7 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 03.11.2011, IX ZR 49/09, Randnummer 3",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
         "application": "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden.",
         "limit": "Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis."
       }
@@ -111,5 +111,17 @@
     "continuation": "Kanzleientscheidung gegen Übernahme ersetzt im vereinbarten Pfad, beispielsweise korrespondenz/antwort-sommer.md, den Terminabsatz durch eine klare Absage und entfernt unnötige Unterlagenbitten; Anrede und Signatur nicht erneut erheben.",
     "enrichment": "Anhang- und Prüfstatus, ältere zitierte Zusagen, Angehörigenanfragen, berichtete Dringlichkeit, beschlossene Absage, unbrauchbarer Telefonweg, Preisgrenze und nachweisabhängige Rechtsschutzantwort bis zur vollständigen E-Mail.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2011-11-3&Gericht=bgh&anz=22&nr=58234&pos=16",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2009/IX_ZR__49-09.pdf?__blob=publicationFile&v=1",
+        "sha256": "cc502da074d57fe21949c3ef4ffffb0f6740e8a99895a63c6a1a8c081b217bf4"
+      }
+    ]
   }
 }

@@ -9,18 +9,18 @@ Diese Vollprüfung enthält top-15 von 61 Skills des Plugins `strafbefehl-vertei
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn in Strafbefehl Verteidiger ein juristisches Arbeitsprodukt tragfähig begründet werden muss; verb…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
 3. **strafbefehls-erstpruefung-und-mandatsziel** — Für Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis:…
-4. **strafbefehl-dokumentenmatrix-und-lueckenliste** — Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenma…
-5. **strafbefehl-einspruch-beschraenkung** — Für Beschränkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; …
-6. **einspruchsentscheidung-und-folgen** — Für Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Er…
-7. **strafbefehl-wiedereinsetzung** — Für Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO: ordnet Norm, Beweislast und Gegenargument; Erge…
-8. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-9. **fahrerlaubnis-mandantenentscheidung** — Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-10. **strafbefehl-abwesenheit-vertretung** — Für Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
-11. **wiedereinsetzung-zahlen-schwellen-und-berechnung** — Für Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
-12. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-13. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
-14. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
-15. **strafbefehl-deal-verstaendigung** — Für Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Pr…
+4. **strafbefehl-zulaessigkeit-407** — Prüft Verfahrensvoraussetzungen, Sanktionskatalog und Pflichtinhalt eines Strafbefehls sowie Grenzen nachträglicher Beri…
+5. **strafbefehl-dokumentenmatrix-und-lueckenliste** — Für Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: ordnet Akte, Belege und Lücken; Ergebnis: Dokumentenma…
+6. **strafbefehl-einspruch-beschraenkung** — Für Beschränkter Einspruch gegen den Strafbefehl — Paragraf 410 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; …
+7. **einspruchsentscheidung-und-folgen** — Für Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: ordnet Norm, Beweislast und Gegenargument; Er…
+8. **strafbefehl-wiedereinsetzung** — Für Wiedereinsetzung nach versäumter Einspruchsfrist — Paragraf 44 StPO: ordnet Norm, Beweislast und Gegenargument; Erge…
+9. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+10. **fahrerlaubnis-mandantenentscheidung** — Für Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+11. **strafbefehl-abwesenheit-vertretung** — Für Abwesenheit in der Hauptverhandlung — Paragraf 411 Abs. 2 StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis:…
+12. **wiedereinsetzung-zahlen-schwellen-und-berechnung** — Für Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: rechnet Beträge, Schwellen und Varianten; Ergebnis: Berechn…
+13. **anschluss-routing** — Für Anschluss-Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+14. **mandantenkommunikation-redteam-qualitygate** — Für Mandantenkommunikation: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristen…
+15. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
 
 ---
 
@@ -227,6 +227,81 @@ Liefere danach den vollständigen bestellten Text. Bei verbleibendem Hindernis d
 Vor tragender Verwendung amtliche Normen prüfen und Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und konkreter Aussage verifizieren. Keine Datenbankfundstellen aus Modellwissen erfinden. Verifizierte Ausgangsquellen für den Ablauf sind [StPO Paragraf 410](https://www.gesetze-im-internet.de/stpo/__410.html), [Paragraf 411](https://www.gesetze-im-internet.de/stpo/__411.html) und [Paragraf 408b](https://www.gesetze-im-internet.de/stpo/__408b.html); fallbezogene Aktualitätsprüfung bleibt erforderlich.
 
 Das Ergebnis ist in vollständigen Sätzen auszuarbeiten, nicht als bloße Matrix oder Risikofarbe. Beachte gewünschten Dateinamen, dezimale Gliederung und soweit möglich Times New Roman 11 pt. Interne Recherche- und Zugriffshinweise getrennt vom Empfängertext halten; keine tatsächlich nicht erfolgte technische Prüfung oder Versendung behaupten.
+
+---
+
+## Skill: `strafbefehl-zulaessigkeit-407`
+
+_Prüft Verfahrensvoraussetzungen, Sanktionskatalog und Pflichtinhalt eines Strafbefehls sowie Grenzen nachträglicher Berichtigung. Verknüpft jeden konkreten Mangel mit Rechtsfolge, Frist und passendem Verteidigungsentwurf._
+
+# 1. Zulässigkeit und Inhalt des Strafbefehls
+
+## 1.1. Zweck und Anwendungsfall
+
+Prüfe einen Strafbefehlsantrag oder bereits erlassenen Strafbefehl nach §§ 407–409 StPO. Unterscheide zulässige Verfahrensart, hinreichenden Tatverdacht, zulässige Sanktion, bestimmte Tatbeschreibung und spätere Berichtigung. Ein festgestellter Fehler bedeutet nicht automatisch Nichtigkeit oder Wegfall der Einspruchsfrist. Liefere den beauftragten Vermerk, Einspruchsentwurf oder die Stellungnahme zur beabsichtigten Berichtigung.
+
+Ohne Auftrag biete die Prüfung des Inhalts, der Sanktion oder einer nachträglichen Änderung an. Unterlagen zuerst lesen; bei klarem Auftrag direkt arbeiten. Nur entscheidende Lücken erfragen und nach Antwort die betroffene Frist, Bewertung und Erklärung fortschreiben.
+
+## 1.2. Eingaben und Fristsicherung
+
+Benötigt werden Strafbefehl beziehungsweise Antrag in vollständiger Originalfassung, Zustellungsnachweis, Belehrung, Verteidigungsstand und bereits abgegebene Erklärungen. Bei Berichtigung zusätzlich beide Textfassungen, Änderungsantrag oder Beschluss, Zustellungen und Angaben zur Rechtskraft vergleichen. Fehlende Unterlagen gezielt benennen; aus einem Rechtskraftvermerk allein keine materiell richtige Entscheidung ableiten.
+
+Erfasse pro Vorwurf Tatzeit, Tatort, Handlung, gesetzliche Merkmale, Konkurrenzbewertung und festgesetzte Rechtsfolge. Bei Freiheitsstrafe Verteidigerbestellung, Dauer und Bewährung; bei Fahrerlaubnisentziehung Dauer der Sperre feststellen. Untersuchungshaft ist kein in § 407 StPO genannter pauschaler Ausschluss; Haft, notwendige Verteidigung und tatsächliche Verteidigungsmöglichkeiten eigenständig prüfen.
+
+Parallel Zustellung, Zweiwochenfrist und Umfang des Einspruchs nach § 410 StPO prüfen. Anwaltliche elektronische Form nach §§ 32a, 32d StPO berücksichtigen. Bei behaupteter Fristversäumung Zustellungswirksamkeit, Hindernis, Wegfall, Glaubhaftmachung und Nachholung nach §§ 44, 45 StPO gesondert untersuchen. Ein Berichtigungsbegehren wahrt nicht anstelle des Einspruchs dessen Frist.
+
+## 1.3. Ablauf und Checkliste
+
+### 1.3.1. Verfahrensart und gerichtliche Entscheidung
+
+1. Ordne den Vorwurf nach § 12 StGB als Vergehen oder Verbrechen ein; tatsächliche Strafhöhe oder ein minder schwerer Fall allein ändern die gesetzliche Einordnung nicht. § 407 Abs. 1 StPO erfasst Vergehen im Verfahren vor dem Strafrichter und im zur Zuständigkeit des Schöffengerichts gehörenden Verfahren. Das Schöffengericht nicht pauschal ausschließen.
+2. Prüfe den schriftlichen Antrag der Staatsanwaltschaft und dessen bestimmte Rechtsfolgen. Der Antrag erhebt die öffentliche Klage. § 407 Abs. 3 StPO verlangt keine vorherige gerichtliche Anhörung; daraus keine generelle Entbehrlichkeit aller Beschuldigtenrechte ableiten.
+3. Ordne Zuständigkeitszweifel nach § 408 Abs. 1 StPO ein. Bei fehlendem hinreichendem Tatverdacht lehnt der Richter den Erlass nach Absatz 2 ab; die dort bestimmte Wirkung von einer Hauptverhandlungsanberaumung trennen.
+4. Bestehen Bedenken gegen eine Entscheidung ohne Verhandlung, beraumt der Richter nach § 408 Abs. 3 StPO Hauptverhandlung an. Dasselbe gilt bei abweichender rechtlicher Bewertung oder anderer beabsichtigter Rechtsfolge, wenn die Staatsanwaltschaft an ihrem Antrag festhält. Komplexe Beweisfragen also konkret diesem Entscheidungsweg zuordnen, nicht pauschal eine Ablehnung des Antrags behaupten.
+
+### 1.3.2. Zulässige Rechtsfolgen
+
+Gleiche jede Rechtsfolge mit dem abschließenden Katalog des § 407 Abs. 2 StPO ab; mehrere zulässige Rechtsfolgen können nebeneinander festgesetzt werden. Prüfe zusätzlich ihre materiellen Voraussetzungen und den Umfang im konkreten Fall.
+
+| Rechtsfolge | Maßstab im Strafbefehlsverfahren |
+| --- | --- |
+| Geldstrafe, Verwarnung mit Strafvorbehalt, Fahrverbot | Im Katalog enthalten; materiell-rechtliche Voraussetzungen und Einzel-/Gesamtstrafe gesondert bestimmen. Das strafrechtliche Fahrverbot nicht mit § 25 StVG gleichsetzen. |
+| Einziehung, Vernichtung, Unbrauchbarmachung, Bekanntgabe der Verurteilung | Im Katalog enthalten; die jeweils tragende materielle Grundlage konkret nennen. „Verfall“ nicht als eigenständige heutige Sanktion hinzufügen. |
+| Geldbuße gegen juristische Person oder Personenvereinigung | Im Katalog enthalten; Adressat, Beteiligung und gesetzliche Grundlage gesondert prüfen. |
+| Entziehung der Fahrerlaubnis | Nur bei Sperre von höchstens zwei Jahren im Strafbefehl. |
+| Verbot des Haltens, Betreuens, Handels oder sonstigen berufsmäßigen Umgangs mit Tieren | § 407 Abs. 2 Nr. 2a: gesetzlich bestimmter Umfang, ein bis drei Jahre; kein allgemeines Berufsverbot nach § 70 StGB. |
+| Absehen von Strafe | Im Katalog enthalten; Voraussetzungen der einschlägigen Norm prüfen. |
+| Freiheitsstrafe | § 407 Abs. 2 Satz 2: höchstens ein Jahr, Aussetzung zur Bewährung und Verteidiger erforderlich. Erwägt das Gericht eine entsprechende Entscheidung ohne vorhandenen Verteidiger, § 408b StPO anwenden. |
+
+Allgemeines Berufsverbot nach § 70 StGB, Sicherungsverwahrung, Unterbringung in einer Entziehungsanstalt und unbedingte Freiheitsstrafe gehören nicht zum zulässigen Katalog. Die Höhe einer Einzelgeldstrafe nicht ungeprüft als Grenze jeder Gesamtgeldstrafe ausgeben.
+
+### 1.3.3. Pflichtinhalt und Bestimmtheit
+
+Kontrolliere § 409 Abs. 1 StPO am Dokument: Person und Nebenbeteiligte, Verteidiger, Tat mit Zeit, Ort und gesetzlichen Merkmalen, angewendete Vorschriften, Beweismittel, festgesetzte Rechtsfolgen sowie Einspruchsbelehrung mit Frist, Form und Rechtskraft-/Vollstreckungshinweis. Die rechtliche Tatbezeichnung und die konkrete prozessuale Tat auseinanderhalten. Besondere Belehrungen bei Freiheitsstrafe, Strafvorbehalt oder Fahrverbot zusätzlich prüfen.
+
+Markiere jede fehlende oder widersprüchliche Angabe mit Fundstelle. Begründe, ob sie die Identifizierung der Tat, die Reichweite des Schuldspruchs, eine bestimmte Sanktion oder nur eine äußerliche Darstellung betrifft. Nicht jede unrichtige Normangabe macht einen Strafbefehl unwirksam. Bei laufender Einspruchsfrist die beauftragte Fristsicherung nicht wegen einer noch offenen Nichtigkeitsfrage verzögern.
+
+### 1.3.4. Berichtigung nach Rechtskraft
+
+LG Nürnberg-Fürth, Beschluss vom 24.07.2026 – 12 Qs 43/26, Rn. 9–13: Nach Rechtskraft sind nur offensichtliche Schreibversehen oder Unrichtigkeiten in engen Grenzen berichtigungsfähig. Entscheidend ist, ob der tatsächlich beschlossene Inhalt zweifelsfrei erkennbar ist; eine neue rechtliche Bewertung ist keine Berichtigung.
+
+Im entschiedenen Fall fehlten kumulativ rechtliche Tatbezeichnung und angewendete Vorschriften. Die Ergänzung scheiterte, weil die ursprünglichen rechtlichen Erwägungen des Amtsrichters nicht erkennbar waren. Eine objektiv naheliegende richtige Subsumtion ersetzt diesen Nachweis nicht. Vergleiche deshalb Original, Änderungsfassung und sonstige klar erkennbare Anhaltspunkte für das tatsächlich Entschiedene. Revisionsgerichtliche Befugnisse nach § 354 StPO nicht auf schlichte nachträgliche Berichtigung übertragen. Der Beschluss gewährt weder automatisch einen Freispruch noch die Aufhebung des Strafbefehls.
+
+## 1.4. Quellenpflicht und Prüfgrenze
+
+Amtlich am 01.10.2026 gelesen: [§ 407 StPO](https://www.gesetze-im-internet.de/stpo/__407.html), [§ 408 StPO](https://www.gesetze-im-internet.de/stpo/__408.html), [§ 408b StPO](https://www.gesetze-im-internet.de/stpo/__408b.html), [§ 409 StPO](https://www.gesetze-im-internet.de/stpo/__409.html) und [LG Nürnberg-Fürth, 24.07.2026 – 12 Qs 43/26](https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2026-N-17546?hl=true), Rn. 9–13. Maßgebliche zeitliche Fassung prüfen. Weitere Frist-, Vollmachts- und Nichtigkeitsfragen benötigen ihren eigenen fallbezogenen Nachweis; die Entscheidung zur Berichtigung nicht hierfür verallgemeinern. Zitierweise nach `references/zitierweise.md`; keine unüberprüften Aktenzeichen oder Literaturzitate.
+
+## 1.5. Ausgabeformat und Abschluss
+
+Liefere das konkret bestellte Dokument in vollständigen, ausformulierten Sätzen. Ein Vermerk nennt Befund, Aktenstelle, rechtlichen Maßstab, konkrete Verfahrensfolge und stärkstes Gegenargument; ein Einspruch enthält die eindeutige Erklärung mit bestimmtem Umfang, ohne ungefragte Einlassung zur Sache. Eine Stellungnahme zur Änderung vergleicht die Fassungen und begründet, weshalb eine bloße Berichtigung zulässig oder unzulässig erscheint. Keine bloße Checkliste als Endprodukt.
+
+Vor Ausgabe Frist, Tatidentität, Sanktionsgrenze, Verteidigungsstand und Widersprüche zwischen Begründung und Antrag abgleichen. Formatiere soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung. Quellenzugriffs- und Exporthinweise getrennt vom Empfängertext. Keine Einreichung, Rücknahme oder Beschränkung aus dem bloßen Prüfauftrag ableiten.
+
+## 1.6. Beispiele und Fortsetzung
+
+Ein Strafbefehl setzt acht Monate Freiheitsstrafe zur Bewährung fest, die Unterlagen enthalten aber keinen Verteidiger: Vorhandene Bestellung oder Mandatierung konkret erfragen und §§ 407 Abs. 2 Satz 2, 408b StPO prüfen; nicht pauschal Haftfreiheit oder eine Nichtigkeitsfolge unterstellen. Geht der Bestellungsbeschluss ein, den Mangelvorwurf und den darauf aufbauenden Antrag entsprechend korrigieren.
+
+Nach Ablauf der Einspruchsfrist soll erstmals „§ 266a Abs. 1 StGB“ samt Tatbezeichnung eingefügt werden. Vergleiche den ursprünglichen Inhalt mit dem beantragten Zusatz und prüfe den genannten LG-Beschluss. Ein vollständig geschilderter tatsächlicher Vorgang belegt allein noch nicht die damals tatsächlich beschlossene rechtliche Bewertung. Liefere auf Auftrag die begründete Stellungnahme; Einspruch und mögliche Wiedereinsetzung bleiben eigene, fristgebundene Prüfungen.
 
 ---
 
@@ -960,103 +1035,6 @@ Dieser Quellen-Livecheck für **Strafbefehl Verteidiger** trennt amtliche Normfa
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-
----
-
-## Skill: `strafbefehl-deal-verstaendigung`
-
-_Für Verständigung im Strafbefehlsverfahren — Paragraf 257c StPO: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt._
-
-# Verstaendigung im Strafbefehlsverfahren — § 257c StPO
-
-## Arbeitsbereich
-
-Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB. Arbeite entlang dieser konkreten Prüfungslinie und trenne Rolle, Frist, Zuständigkeit, Beweislast und gewünschten Output.
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: die im Plugin-Kontext einschlägigen Normen über gesetze-im-internet.de, dejure.org, eur-lex.europa.eu und die amtlichen Bundes-/Landesportale live prüfen — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Triage zu Beginn
-
-1. **Ist eine Verstaendigung im Strafbefehlsverfahren sinnvoll?** — Strafbefehlsverfahren ist ungeeignet für komplexe Deals; einfacher: § 153a-Antrag oder direkter Strafmass-Einspruch mit Gestaendnis.
-2. **Liegt Gestaendnisbereitschaft des Mandanten vor?** — Verstaendigung setzt nach BGH ein Gestaendnis voraus (§ 257c Abs. 2 StPO).
-3. **Was ist das Ziel?** — Geldstrafe statt Bewaehrungsstrafe? Fahrverbot-Vermeidung? Einstellung nach § 153a? Klares Ziel formulieren.
-4. **Ist die Staatsanwaltschaft kontaktierbar?** — Fruehzeitige informelle Sondierung vor foermlicher Verstaendigungsanfrage ist zulässig.
-5. **Sind Mitbeschuldigte betroffen?** — Verstaendigung darf nur das eigene Verfahren betreffen.
-
-## Zentrale Normen
-
-- **§ 257c StPO** — Verstaendigung: Voraussetzungen, Inhalt, Bindung, Belehrung
-- **§ 257c Abs. 1 StPO** — Verstaendigung nur mit Zustimmung aller Verfahrensbeteiligter (Gericht, StA, Verteidiger/Angeklagter)
-- **§ 257c Abs. 2 StPO** — Gegenstand: Rechtsfolgen, prozessuale Handlungen; NICHT: Schuldspruch
-- **§ 257c Abs. 4 StPO** — Bindungswirkung entfaellt bei veraenderter Sachlage
-- **§ 257c Abs. 5 StPO** — Belehrungspflicht vor Verstaendigung
-- **§ 153 StPO** — Einstellung bei Geringfuegigkeit (ohne Auflage)
-- **§ 153a StPO** — Einstellung gegen Auflage (Praxis-Alternative zur Verstaendigung)
-- **§ 46a StGB** — Taeter-Opfer-Ausgleich als Strafmilderungsgrund
-
-## Aktuelle Rechtsprechung (Stand Mai 2026)
-
-- BGH 20.11.2025 — 4 StR 232/25 (4. Strafsenat): TOA § 46a Nr. 1 StGB setzt einen friedensstiftenden kommunikativen Prozess voraus; bloße Zahlung an das Opfer reicht für Strafmilderung nicht aus. Offene Fundstelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.11.2025&Aktenzeichen=4+StR+232/25
-- BVerfG-Rahmen (Stand-by) zu § 257c StPO: Maßstab weiterhin BVerfG 19.03.2013 — 2 BvR 2628/10, 2 BvR 2155/11, 2 BvR 2883/10 (Verstaendigungs-Urteil); Aktualisierungen vor Ausgabe in dejure.org / bverfg.de prüfen. Offene Fundstelle Verstaendigungs-Urteil: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+BvR+2628/10
-- Hinweis: Eine BGH-Leitentscheidung 2025/2026 speziell zur Anwendung des § 257c StPO im Strafbefehlsverfahren ist Stand Mai 2026 nicht im Volltext zugänglich; vor Ausgabe Aktenzeichen-Recherche in dejure.org / openjur.de unter "§ 257c StPO Strafbefehl" durchführen.
-
-## Abgrenzung: Wann welches Instrument?
-
-| Instrument | Geeignet wenn | Vorteil |
-|-----------|--------------|---------|
-| § 153 StPO | Bagatelldelikt, keine Vorstrafe, geringer Schaden | Keine Auflage, kein Eintrag |
-| § 153a StPO | Mittelgraes Delikt, Zahlungsbereitschaft | Kein Strafregister (Tilgung), flexibel |
-| § 257c StPO | Schweres Delikt, Hauptverhandlung notwendig | Strafmass-Sicherheit, Verfahrensabkuerzung |
-| § 46a StGB + Gestaendnis | Geschaedigter vorhanden, Wiedergutmachung möglich | Erhebliche Strafmilderung, kann Bewaehrung ermoeglichen |
-
-## Schritt-für-Schritt-Workflow
-
-1. **Zieldefinition mit Mandant:** Was soll das Ergebnis sein? (Strafmass, Fahrverbot, Eintrag)
-2. **Informelle Sondierung:** Staatsanwalt telefonisch kontaktieren — Einstellungsbereitschaft testen.
-3. **§ 153a-Antrag formulieren** wenn Einstellungsbereitschaft vorhanden — einfacher als foermliche Verstaendigung.
-4. **Wenn § 257c notwendig:** Schriftlichen Verstaendigungsvorschlag formulieren mit exakten Rechtsfolgen-Grenzen.
-5. **Hauptverhandlung:** Gericht macht Verstaendigungsvorschlag; alle Beteiligten stimmen zu; Belehrung nach § 257c Abs. 5 StPO protokollieren lassen.
-6. **Gestaendnis:** Konkret, glaubhaft, auf Beweislage abgestimmt.
-7. **Protokollkontrolle:** Verstaendigungsinhalt korrekt protokolliert? Belehrung dokumentiert?
-
-## Output-Template § 153a-Antrag
-
-**Adressat:** Staatsanwaltschaft — Tonfall: sachlich-kooperativ
-
-```
-In der Strafsache gegen [NAME]
-Az.: [AKTENZEICHEN]
-
-Antrag auf Einstellung nach § 153a StPO
-
-Sehr geehrte Damen und Herren,
-
-ich rege an, das Verfahren gegen [NAME] gegen Zahlung einer
-Geldbusse von [BETRAG] EUR an [EINRICHTUNG] nach § 153a Abs. 1
-StPO einzustellen.
-
-Mein Mandant ist ersttaetig, zeigt Reue und hat [Wiedergutmachung]
-geleistet. Der Tatvorwurf betrifft [kurze Tat-Charakterisierung].
-Publik-Interesse an Strafverfolgung steht in keinem Verhaeltnis
-zum Aufwand.
-
-[NAME] erklaert seine Zustimmung zur Einstellung.
-
-Mit freundlichen Gruessen [KANZLEI]
-```
-
-## Harte Leitplanken
-
-- Verstaendigung NIEMALS ohne Belehrung nach § 257c Abs. 5 StPO — Revisionsrisiko.
-- Informelle Zusagen nicht vertrauen — nur foermliche Verstaendigung im Protokoll ist bindend.
-- Bindungswirkung entfaellt bei neuen Erkenntnissen (§ 257c Abs. 4 StPO) — Mandant darauf hinweisen.
-- Anwaltliche Endkontrolle bei Gestaendnisformulierung und Protokoll.
 
 ---
 

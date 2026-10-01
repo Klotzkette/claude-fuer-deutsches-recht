@@ -14,7 +14,7 @@ Im schriftlichen Vorverfahren nach ZPO Paragraf 276 die Anzeige der Verteidigung
 
 ## 1.2. Antrag und Tatsachengrundlage
 
-Bei elektronischer Fristsicherung genügt eine beliebige Versandbestätigung nicht: BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2023-3-21&Gericht=bgh&anz=20&nr=133514&pos=10)), verlangt für die anwaltliche Ausgangskontrolle die Zuordnung der Eingangsbestätigung zum Schriftsatz anhand eines sinnvollen Dateinamens. Gleiche nach Paragraf 130a Absatz 5 Satz 2 ZPO die Verteidigungsanzeige selbst ab, nicht nur ihre Anlagen. Das ersetzt weder Formprüfung noch Sachverteidigung und verlängert keine Frist.
+Bei elektronischer Fristsicherung genügt eine beliebige Versandbestätigung nicht: BGH, Beschluss vom 21.03.2023, VIII ZB 80/22, amtlicher Leitsatz ([Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1)), verlangt für die anwaltliche Ausgangskontrolle die Zuordnung der Eingangsbestätigung zum Schriftsatz anhand eines sinnvollen Dateinamens. Gleiche nach Paragraf 130a Absatz 5 Satz 2 ZPO die Verteidigungsanzeige selbst ab, nicht nur ihre Anlagen. Das ersetzt weder Formprüfung noch Sachverteidigung und verlängert keine Frist.
 
 Formuliere, welche gerichtliche Entscheidung zu welchem Lebenssachverhalt verlangt wird. Bezifferte Hauptforderung, Zinsbeginn und weitere Ansprüche trennen. Haupt- und Hilfsbegehren nicht als gleichzeitige unbedingte Forderungen ausgeben. Bei Klageänderung, Erledigung oder Widerklage den bisherigen Streitgegenstand und die konkrete Änderung gegenüberstellen, bevor der neue Antrag geschrieben wird.
 

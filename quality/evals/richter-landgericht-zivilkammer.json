@@ -44,12 +44,12 @@
       "supports": "Amtlichen Text zu Paragraf 531 Absatz 2 ZPO gelesen: Zulassung neuen Vorbringens bei übersehenem Gesichtspunkt, Verfahrensmangel oder fehlender Nachlässigkeit. Keine vollständige neue Verifikation sämtlicher weiterer Normen des Plugins."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_191-23.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 20.11.2024, VII ZR 191/23: Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen. Amtlicher Leitsatz und entscheidende Rn. 9 bis 14 im primär indizierten PDF gelesen; direkter PDF-Abruf gestört. Keine materielle Rechnungsbestätigung, keine Aufhebung von Präklusionsregeln."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 18.04.2013, III ZR 156/12: amtliche Leitsätze a und b im primär indizierten Entscheidungs-PDF gelesen. Bei Wegfall des Klageanlasses vor Rechtshängigkeit und anschließender Rücknahme Wahl zwischen Kostenantrag nach Paragraf 269 Absatz 3 Satz 3, Absatz 4 ZPO und materieller Kostenerstattungsklage; möglicher Kostenantrag beseitigt deren Rechtsschutzbedürfnis nicht. Kein Beleg für die Begründetheit des materiellen Anspruchs. Direkter Volltextabruf scheitert an Weiterleitung, Entscheidungsgründe nicht vollständig geprüft."
     },
@@ -78,7 +78,7 @@
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
       "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
     ],
-    "sha256": "526ff6a151115f7b1a61a0f6850a1651cc9c0b5b74138be94d499ba69d27d12b",
+    "sha256": "4e20c6b89bc3242a4f185d8c27f200820e96abf0810dfcdfa7ef0312cf457e12",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -92,7 +92,7 @@
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
       "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
     ],
-    "sha256": "2392f7887f120ade88b59ac648bcf9e2bfde8487e4d4c8813a12ad2544b86d9c",
+    "sha256": "4152e8b9fc98c317b1fe7152040ef0681e5d14f21d41de5a3565871bc15920aa",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -226,13 +226,13 @@
     "decisions": [
       {
         "citation": "BGH, Beschluss vom 20.11.2024, VII ZR 191/23",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_191-23.pdf?__blob=publicationFile&v=1",
         "application": "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
         "limit": "Amtlicher Leitsatz und entscheidende Rn. 9 bis 14 im primär indizierten PDF gelesen; direkter PDF-Abruf gestört. Keine materielle Rechnungsbestätigung, keine Aufhebung von Präklusionsregeln."
       },
       {
         "citation": "BGH, Urteil vom 18.04.2013, III ZR 156/12",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
         "application": "Bei Wegfall des Klageanlasses vor Rechtshängigkeit und anschließender Rücknahme gesonderte materielle Kostenerstattungsklage als Alternative zum Kostenantrag nach Paragraf 269 Absatz 3 Satz 3 und Absatz 4 ZPO zulassen; Rechtsschutzbedürfnis nicht allein wegen des Kostenantrags verneinen.",
         "limit": "Amtliche Leitsätze a und b im primär indizierten PDF gelesen, direkter Volltextabruf gestört; keine vollständige Prüfung der Entscheidungsgründe. Materielle Grundlage, Kausalität, Kostenumfang und frühere Kostenentscheidungen eigenständig prüfen, keine automatische Erstattung."
       }
@@ -256,5 +256,22 @@
     "continuation": "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
     "enrichment": "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
     "limits": "desk review; no live client execution"
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013-4-18&Gericht=bgh&anz=21&nr=64171&pos=0",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_156-12.pdf?__blob=publicationFile&v=1",
+        "sha256": "01a44d929a652a7859e29032ef927cc71f9d6ff265b104c4b532f0aaf556ea42"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2024-11&Gericht=bgh&Seite=8&Sort=1024&anz=302&nr=140011&pos=256",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2023/VII_ZR_191-23.pdf?__blob=publicationFile&v=1",
+        "sha256": "f50dd06c1fda788f9c638814c568a447702badac1c0a74a0c873eaa1237b8a38"
+      }
+    ]
   }
 }

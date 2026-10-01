@@ -29,12 +29,12 @@
       "supports": "Aktueller amtlicher Normtext zur Prüfung von Paragraf 28 Absatz 2 bis 4 VVG. Diese URL belegt nicht Artikel 2 und Artikel 30 Verordnung (EU) 2022/2554; keine Gesamtverifikation sämtlicher Nebenmaterien."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2011/IV_ZR_197-11.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 09.01.2013, IV ZR 197/11: Deutlich hervorgehobene Belehrung im Fragebogen kann gesonderte Mitteilung sein; Originalgestaltung anfordern und eigenständig würdigen. Grenze/Prüftiefe: Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
     },
     {
-      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 22.06.2011, IV ZR 225/10: Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen. Grenze/Prüftiefe: Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
     },
@@ -65,7 +65,7 @@
       "Stillen Dateieinstieg und drei konkrete Dokumentwege ergänzt; nachträgliches Gutachten verändert Beweisargument und Erfolgseinschätzung statt nur den Sachstand.",
       "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
     ],
-    "sha256": "0559f2e203baa0d1e5185e868085dbfdc9e5f3269d35d2e5c25373c9be8730c4",
+    "sha256": "4160f1268a6ce39095c0b2abb19d3261704e3720ab1ffeb946b2aef195827b0d",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -78,7 +78,7 @@
       "Gegenbeweise, nachgereichtes Belehrungslayout, Abschlag nach Paragraf 14 VVG, Zugang nach Paragraf 15 VVG und veränderte Berufstätigkeit in konkrete Dokumentfortsetzung eingebunden.",
       "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
     ],
-    "sha256": "60263505db08a157d2ed2264cb454b7d42875e23f30d092bbf6f080ab0861984",
+    "sha256": "3c2c6eabc77bcdafee79114f227410f717b277ddabe318cb57152afcf6405ab2",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -154,13 +154,13 @@
     "decisions": [
       {
         "citation": "BGH, Urteil vom 09.01.2013, IV ZR 197/11",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2011/IV_ZR_197-11.pdf?__blob=publicationFile&v=1",
         "application": "Deutlich hervorgehobene Belehrung im Fragebogen kann gesonderte Mitteilung sein; Originalgestaltung anfordern und eigenständig würdigen.",
         "limit": "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
       },
       {
         "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
-        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
         "application": "Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen.",
         "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
       }
@@ -168,6 +168,23 @@
     "remaining_limits": [
       "Desk- und Quellenprüfung, kein Live-Client- oder Modelltest; übrige Fachzweige nicht vollständig rechtlich neu verifiziert.",
       "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
+    ]
+  },
+  "source_link_audit_2026_10_01": {
+    "checked_on": "2026-10-01",
+    "scope": "Ausschließlich Linkziel und Entscheidungsidentität anhand amtlicher PDF-Köpfe erneut geprüft; keine neue materielle Freigabe älterer Aussagen. Historische Quellenprüfdaten bleiben erhalten.",
+    "report": "quality/source-audits/2026-10-01/quellenlinks.md",
+    "replacements": [
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2013&Gericht=bgh&Sort=1&anz=3204&nr=62935&pos=29",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2011/IV_ZR_197-11.pdf?__blob=publicationFile&v=1",
+        "sha256": "9eca89fcfb1aa61354007f00c1b1cafe21732dd5eb24e8cc15bfb3dde5925c34"
+      },
+      {
+        "old_url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=pm&Blank=1&Datum=2011-6&Gericht=bgh&file=dokument.pdf&linked=urt&nr=57104",
+        "new_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
+        "sha256": "623a495b96b385bd2dccac21be602602ad3273ff431ecf1c676712a112486045"
+      }
     ]
   }
 }
