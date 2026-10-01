@@ -77,6 +77,7 @@ jobs:
       - name: Release- und PDF-Helfer testen
         run: |
           python3 scripts/test-release-assets.py
+          python3 scripts/test-complete-package.py
           python3 scripts/test-release-routing.py
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakte-projektordner.py
@@ -346,66 +347,10 @@ jobs:
           # Arbeitsakten-Filter gebaut wie die Einzel-Testakten-ZIPs.
           test -s dist/alle-testakten.zip
 
-          # alles-komplettpaket.zip enthaelt die Einzel-ZIPs, Sammel-ZIPs,
-          # Marketplace und zentrale Uebersichten. Ein Download fuer alles,
-          # ohne die installierbaren Plugin-ZIPs mit Rohordnern zu vermischen.
-          mkdir -p dist/komplettpaket/plugins dist/komplettpaket/testakten dist/komplettpaket/uebersichten dist/komplettpaket/skills-markdown
-          python3 -c 'import sys; from pathlib import Path; sys.path.insert(0, "scripts"); from testakte_disclaimer import NOTICE_BYTES; Path("dist/komplettpaket/README.txt").write_bytes(NOTICE_BYTES)'
-          cp dist/marketplace.json dist/komplettpaket/marketplace.json
-          cp dist/alle-plugins-megazip.zip dist/komplettpaket/alle-plugins-megazip.zip
-          cp dist/alle-testakten.zip dist/komplettpaket/alle-testakten.zip
-          cp dist/alle-testakten-einzelpdfs.zip dist/komplettpaket/alle-testakten-einzelpdfs.zip
-          cp dist/alle-skills-markdown.zip dist/komplettpaket/alle-skills-markdown.zip
-          cp dist/alle-pluginlokalen-testakten.zip dist/komplettpaket/alle-pluginlokalen-testakten.zip
-          cp dist/alle-pluginlokalen-testakten-einzelpdfs.zip dist/komplettpaket/alle-pluginlokalen-testakten-einzelpdfs.zip
-          for plugin in ${{ steps.plugins.outputs.names }}; do
-            cp "dist/${plugin}.zip" "dist/komplettpaket/plugins/${plugin}.zip"
-          done
-          for z in dist/skills-markdown/*-skills-markdown.zip; do
-            [ -e "$z" ] || continue
-            # alle-skills-markdown.zip nicht doppelt mitnehmen
-            base="$(basename "$z")"
-            if [ "$base" = "alle-skills-markdown.zip" ]; then continue; fi
-            cp "$z" "dist/komplettpaket/skills-markdown/$base"
-          done
-          if [ -d testakten ]; then
-            for z in dist/testakte-*.zip; do
-              [ -e "$z" ] || continue
-              cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
-            done
-            for z in dist/testakten-einzelpdfs/testakte-*-einzelpdfs.zip; do
-              [ -e "$z" ] || continue
-              cp "$z" "dist/komplettpaket/testakten/$(basename "$z")"
-            done
-          fi
-          for z in dist/*-testakte.zip; do
-            [ -e "$z" ] || continue
-            base="$(basename "$z")"
-            case "$base" in
-              testakte-*) continue ;;
-              alle-*) continue ;;
-            esac
-            cp "$z" "dist/komplettpaket/testakten/$base"
-          done
-          for z in dist/*-testakte-einzelpdfs.zip; do
-            [ -e "$z" ] || continue
-            base="$(basename "$z")"
-            case "$base" in
-              testakte-*) continue ;;
-              alle-*) continue ;;
-            esac
-            cp "$z" "dist/komplettpaket/testakten/$base"
-          done
-          cp README.md SKILLS.md ASSET_INDEX.md SCHWERPUNKTE.md QUALITY.md CHANGELOG.md dist/komplettpaket/uebersichten/
-          cp -R quality dist/komplettpaket/uebersichten/quality
-          # skills-index/ enthaelt die pro-Plugin-Detailseiten, auf die SKILLS.md
-          # mit relativen Links zeigt. Ohne diesen Ordner waeren die Links im
-          # ZIP-Download ins Leere gerichtet.
-          if [ -d skills-index ]; then
-            cp -R skills-index dist/komplettpaket/uebersichten/skills-index
-          fi
-          (cd dist/komplettpaket && zip -rq "../alles-komplettpaket.zip" . -x '*.DS_Store')
-          rm -rf dist/komplettpaket
+          # Ein Download mit sämtlichen Einzelpaketen, Marketplace und
+          # Übersichten. Sammel-ZIPs bleiben separate Downloads; ihre Pakete
+          # werden hier nur einmal und bytegleich eingebettet.
+          python3 scripts/build-complete-package.py dist
 
           test -s dist/alle-plugins-megazip.zip
           test -s dist/alle-testakten.zip

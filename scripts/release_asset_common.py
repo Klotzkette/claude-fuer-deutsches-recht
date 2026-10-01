@@ -12,6 +12,9 @@ from release_routing import check_asset_limit
 
 SPECIAL_ASSETS = {"marketplace.json", "checksums-sha256.txt"}
 ASSET_SUFFIXES = {".zip", ".md"}
+# GitHub verlangt pro Release-Asset strikt weniger als 2 GiB.
+# https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases
+MAX_RELEASE_ASSET_BYTES = 2 ** 31
 CHECKSUM_RE = re.compile(r"^([0-9a-f]{64})  ([^/\\]+)$")
 
 
@@ -23,6 +26,15 @@ def is_release_asset(path: Path) -> bool:
     )
 
 
+def check_asset_size(path: Path) -> None:
+    size = path.stat().st_size
+    if size >= MAX_RELEASE_ASSET_BYTES:
+        raise ValueError(
+            f"{path.name}: {size:,} Bytes; GitHub-Release-Assets müssen kleiner "
+            f"als {MAX_RELEASE_ASSET_BYTES:,} Bytes (2 GiB) sein. Paketaufteilung korrigieren."
+        )
+
+
 def release_assets(dist: Path, *, include_checksums: bool = True) -> list[Path]:
     assets = sorted(
         (path for path in dist.iterdir() if is_release_asset(path)),
@@ -30,6 +42,9 @@ def release_assets(dist: Path, *, include_checksums: bool = True) -> list[Path]:
     )
     if not include_checksums:
         assets = [path for path in assets if path.name != "checksums-sha256.txt"]
+    # Vor Hashing, Staging und jeder Netzwerkaktion abbrechen.
+    for path in assets:
+        check_asset_size(path)
     return assets
 
 
