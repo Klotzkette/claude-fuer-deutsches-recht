@@ -1,13 +1,21 @@
+<!-- decimal-anchor --> <a id="antidiskriminierung-nach-dem-agg"></a>
+
 # 1. Antidiskriminierung nach dem AGG
 
+<!-- decimal-headings -->
+
 <!-- BEGIN direkt-loslegen (autogen) -->
-## Was ist das hier?
+<!-- decimal-anchor --> <a id="was-ist-das-hier"></a>
+
+## 1.1. Was ist das hier?
 
 Antidiskriminierung nach dem AGG: Bewerbungen, Arbeitsbedingungen, Beschwerden, Wohnraum und Dienstleistungen prüfen. Zehn Workflows verbinden Fristen, Indizien, Rechtfertigung und konkrete Schreiben mit kultursensibler Sachverhaltsaufnahme.
 
 Dieses Plugin gehört zum Marketplace mit 259 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
-## Welche Datei wofür? / Which file should I use?
+<!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
+
+## 1.2. Welche Datei wofür? / Which file should I use?
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
@@ -21,13 +29,15 @@ Links mit „MD herunterladen / Download MD“ starten einen Dateidownload. Navi
 
 Links labelled “MD herunterladen / Download MD” start a file download. Navigation links to README and index pages remain normal GitHub pages.
 
-Die Skill-Liste bildet den Quellbestand ab. Im installierten Paket werden umfangreiche Spezialserien teilweise über einen Fachrouter bei Bedarf geladen und erscheinen dann nicht als eigene auswählbare Skills. Beim manuellen Einsatz eines einzelnen Skills müssen zusätzlich benötigte Referenzen oder Werkzeuge verfügbar sein.
+Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein.
 
-The skill index lists the source collection. In the installed package, some specialist series are accessed through a topic router rather than separate menu entries. A standalone skill may need additional reference files or tools. Choose one entry point, then add only what the matter requires.
+All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references.
 
 Direktnavigation: [30-Sekunden-Start](#in-30-sekunden-starten) · [Startseite](../README.md) · [Plugin-Katalog](../README.md#was-ist-drin) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/antidiskriminierung-agg.md) · [Plugin-Dateien](.) · [Download-Index](../ASSET_INDEX.md) · [Installation](../INSTALLATION_EINFACH.md) · [Testakten](../testakten/README.md)
 
-## In 30 Sekunden starten
+<!-- decimal-anchor --> <a id="in-30-sekunden-starten"></a>
+
+## 1.3. In 30 Sekunden starten
 
 Wählen Sie im Plugin `agg-fall-zum-schreiben-fuehren`. Ohne Installation genügt der Mini-Prompt oder die ausführliche Werkstatt aus der Downloadtabelle. Beispiel:
 
@@ -35,7 +45,9 @@ Wählen Sie im Plugin `agg-fall-zum-schreiben-fuehren`. Ohne Installation genüg
 
 Der Arbeitsweg trennt Bewerbung, Arbeitsplatz und Zivilverkehr. Vorhandene Angaben werden weiterverwendet; nach Ihrer Antwort wird am selben Entwurf gearbeitet. Das Paket ist ein Experiment und keine Rechtsberatung.
 
-## Downloads
+<!-- decimal-anchor --> <a id="downloads"></a>
+
+## 1.4. Downloads
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
@@ -46,7 +58,9 @@ Der Arbeitsweg trennt Bewerbung, Arbeitsplatz und Zivilverkehr. Vorhandene Angab
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 259 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
-## Zugeordnete Testakten
+<!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
+
+## 1.5. Zugeordnete Testakten
 
 Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
 
@@ -63,13 +77,17 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Eine Absage, ungleiche Bezahlung oder eine Beschwerde am Arbeitsplatz erfordert unterschiedliche Antworten. Dieses Paket führt vom konkreten Vorgang zum passenden Schreiben: Anspruch geltend machen, Beschwerde bearbeiten, Auswahlentscheidung überprüfen oder einen Prozess vorbereiten. Es behandelt auch Benachteiligungen bei Wohnraum und Dienstleistungen, soweit das AGG anwendbar ist.
 
-## 1.1. Schnell beginnen
+<!-- decimal-anchor --> <a id="schnell-beginnen"></a>
+
+## 1.6. Schnell beginnen
 
 Wählen Sie `agg-fall-zum-schreiben-fuehren`. Legen Sie vorhandene Schreiben und das gewünschte Ergebnis dazu. Beispiel: „Die Absage und zwei Stellenanzeigen liegen im Ordner. Prüfe die Fristen und hilf mir mit einem sachlichen Schreiben an den Arbeitgeber.“ Ohne konkreten Auftrag werden zunächst Rolle und Ziel geklärt. Bereits bekannte Angaben werden nicht erneut abgefragt.
 
 Genau zehn Skills sind enthalten. Werkstatt und Schnellstart sind eigenständige Markdown-Prompts, keine zusätzlichen installierten Skills. Der Schnellstart bearbeitet einen Kernvorgang; die Werkstatt bietet ausführlichere Verzweigungen. Nur die für die Aufgabe benötigten Referenzen werden gelesen.
 
-## 1.2. Arbeitswege
+<!-- decimal-anchor --> <a id="arbeitswege"></a>
+
+## 1.7. Arbeitswege
 
 | Anliegen | Einstieg |
 | --- | --- |
@@ -84,26 +102,34 @@ Genau zehn Skills sind enthalten. Werkstatt und Schnellstart sind eigenständige
 | Gerichtlicher Antrag oder Verteidigung | `agg-klage-und-erwiderung-entwerfen` |
 | Abhilfe, Vergleich oder neue Auswahlregel | `agg-abhilfe-und-vereinbarung-gestalten` |
 
-## 1.3. Grenzen und respektvolle Bearbeitung
+<!-- decimal-anchor --> <a id="grenzen-und-respektvolle-bearbeitung"></a>
+
+## 1.8. Grenzen und respektvolle Bearbeitung
 
 Eine Ungerechtigkeit ist nicht automatisch ein AGG-Verstoß. Das Paket trennt nachgewiesene Tatsachen, Angaben der Beteiligten und noch offene Fragen. Herkunft, Religion oder Sprachkenntnisse werden nicht aus Namen oder Aussehen abgeleitet. Es gibt keine Listen mit Beschimpfungen. Für den Fall wichtige Aussagen werden sachlich beschrieben; Originalbelege werden unverändert gesichert.
 
 Das Paket ist ein Experiment und keine Rechtsberatung. Ausschlussfristen können Ansprüche endgültig vernichten. Eine Beschwerde oder Beratung bei der Antidiskriminierungsstelle wahrt eine Anspruchsfrist nicht automatisch. Vor Versand oder Einreichung sind Tatsachen, Form, Frist und Zuständigkeit zu prüfen. Ein tatsächlicher Versand erfolgt nicht ohne ausdrücklichen Auftrag.
 
-## 1.4. Fallakte
+<!-- decimal-anchor --> <a id="fallakte"></a>
+
+## 1.9. Fallakte
 
 Die Berliner Bewerbungsakte enthält zwei Fassungen einer Ausschreibung, Bewerbung, E-Mails, Gesprächsnotizen und ein Änderungsprotokoll. Die Beteiligten geben unterschiedliche Gründe für die Absage an. Es gibt keine Musterlösung und keine ausgeschriebenen Beschimpfungen. Die Akte wird separat geladen und nicht mitinstalliert.
 
 [Zur Akte und den drei Downloadfassungen](../testakten/agg-bewerbung-sprachanforderung-berlin/README.md)
 
-## 1.5. English Overview
+<!-- decimal-anchor --> <a id="english-overview"></a>
+
+## 1.10. English Overview
 
 Ten focused workflows support German AGG matters, from recruitment and workplace complaints to housing and services. They distinguish facts, evidence, justification, deadlines and the requested letter or pleading. The case uses respectful language without slurs or a model answer. Workshop and mini prompt are separate Markdown downloads. This is an experiment, not legal advice; automatic skill selection and litigation outcomes are not guaranteed.
 
 
 <!-- BEGIN SKILLS-LOGIC (auto-generated) -->
 
-## Orientierung nach Arbeitslogik
+<!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
+
+## 1.11. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -120,7 +146,9 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
-## Alle Skills im Überblick
+<!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
+
+## 1.12. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 10 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 
