@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Vereinskasse, Sponsoring und Untreue Kassel](../testakten/strafrecht-untreue-vereinskasse-kassel/README.md) | [Gesamt-PDF](../testakten/strafrecht-untreue-vereinskasse-kassel/gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) | [`testakte-strafrecht-untreue-vereinskasse-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-strafrecht-untreue-vereinskasse-kassel.zip) | [`testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip) |
+| [Vereinskasse, Sponsoring und Untreue Kassel](../testakten/strafrecht-untreue-vereinskasse-kassel/README.md) | [Gesamt-PDF](../testakten/strafrecht-untreue-vereinskasse-kassel/gesamt-pdf/strafrecht-untreue-vereinskasse-kassel_gesamt.pdf) | [`testakte-strafrecht-untreue-vereinskasse-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-strafrecht-untreue-vereinskasse-kassel.zip) | [`testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-strafrecht-untreue-vereinskasse-kassel-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

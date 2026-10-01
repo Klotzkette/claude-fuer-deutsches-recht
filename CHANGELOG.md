@@ -1,3 +1,17 @@
+# v445.25.1 - Kleine Münchner Forderungsakte
+
+## 1. Pistazien-Brezelbäckerei mit fünf Gläubigern
+
+Zweite, bewusst überschaubare Akte für den Insolvenzforderungen-Checker: 22 eigenständige Unterlagen aus einem fortgeführten Münchner Backbetrieb. Fünf Anmeldungen werden durch Rechnungen, einen Lieferschein, eine Gutschrift, Verträge, Buchungen und E-Mails ergänzt. Die Arbeitsunterlagen enthalten keine Lösungsmatrix oder abschließende Bewertung.
+
+## 2. Drei abgestimmte Downloadfassungen
+
+Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP mit 17 Word-Dokumenten, drei E-Mails und zwei CSV-Dateien. Eigenständige Dokumente bleiben getrennt; zweisprachige Hinweise stehen auf den Downloadseiten und in den ZIP-READMEs. Plugin- und zentrale Übersichten führen die neue Akte auf.
+
+## 3. Beleg- und Ausgabeprüfungen
+
+Zusätzliche Regressionen prüfen Dokumentenzahl, fünf Anmeldungen, Rechenstimmigkeit der Bankbuchungen, Rechnungsbezüge, Verfahrensdaten, E-Mail-Header, CSV-Spalten und den vollständigen PDF-Bestand. Die bestehende Kölner Akte und die Fachskills bleiben inhaltlich unverändert.
+
 # v445.25.0 - Insolvenzforderungen für die Verwaltung prüfen
 
 ## 1. Hauptworkflow und zehn Fachskills

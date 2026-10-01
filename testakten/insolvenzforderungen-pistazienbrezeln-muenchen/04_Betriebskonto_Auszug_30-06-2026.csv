@@ -1,0 +1,9 @@
+Valuta;Buchungstext;Soll_EUR;Haben_EUR;Saldo_EUR;Beleg
+30.04.2026;Übertrag aus April;0,00;4000,00;4000,00;AB-0430
+15.05.2026;Bareinzahlung Ladenumsätze;0,00;2000,00;6000,00;BE-0515
+20.05.2026;Auenmühle AM-260511 Teilzahlung;535,00;0,00;5465,00;ZA-0520-18
+27.05.2026;Hofwinkel Miete Mai 2026;900,00;0,00;4565,00;ZA-0527-03
+03.06.2026;Bareinzahlung Ladenumsätze;0,00;1800,00;6365,00;BE-0603
+10.06.2026;Lohnabschläge Juni;1600,00;0,00;4765,00;ZA-0610-01
+18.06.2026;Energie laufende Abschläge;900,00;0,00;3865,00;ZA-0618-09
+25.06.2026;Lohnabschläge Juni;1500,00;0,00;2365,00;ZA-0625-02

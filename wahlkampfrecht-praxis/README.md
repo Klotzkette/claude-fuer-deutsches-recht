@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Wahlkampfakte Morgenstadt 2026 - Landesliste, Plakatierung und digitale Lage](../testakten/wahlkampfrecht-landtagswahl-morgenstadt-2026/README.md) | [Gesamt-PDF](../testakten/wahlkampfrecht-landtagswahl-morgenstadt-2026/gesamt-pdf/wahlkampfrecht-landtagswahl-morgenstadt-2026_gesamt.pdf) | [`testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip) | [`testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026-einzelpdfs.zip) |
+| [Wahlkampfakte Morgenstadt 2026 - Landesliste, Plakatierung und digitale Lage](../testakten/wahlkampfrecht-landtagswahl-morgenstadt-2026/README.md) | [Gesamt-PDF](../testakten/wahlkampfrecht-landtagswahl-morgenstadt-2026/gesamt-pdf/wahlkampfrecht-landtagswahl-morgenstadt-2026_gesamt.pdf) | [`testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026.zip) | [`testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-wahlkampfrecht-landtagswahl-morgenstadt-2026-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

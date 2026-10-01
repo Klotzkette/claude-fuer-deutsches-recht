@@ -42,7 +42,7 @@ Das Paket arbeitet für die Insolvenzverwaltung. Es trennt angemeldete Beträge,
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`insolvenzforderungen-checker.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungen-checker.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`insolvenzforderungen-checker-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md) |
 | Großer Prompt (Werkstatt) | Markdown | [`insolvenzforderungen-checker-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) |
-| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 266 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -56,12 +56,13 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Insolvenzforderungen Rheinsteg Handwerk Köln](../testakten/insolvenzforderungen-handwerk-koeln/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-handwerk-koeln/gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) | [`testakte-insolvenzforderungen-handwerk-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-insolvenzforderungen-handwerk-koeln.zip) | [`testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
+| [Insolvenzforderungen Rheinsteg Handwerk Köln](../testakten/insolvenzforderungen-handwerk-koeln/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-handwerk-koeln/gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) | [`testakte-insolvenzforderungen-handwerk-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-handwerk-koeln.zip) | [`testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
+| [Insolvenzforderungen der Münchner Pistazien-Brezelbäckerei](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/gesamt-pdf/insolvenzforderungen-pistazienbrezeln-muenchen_gesamt.pdf) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.1/testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.25.0. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
+Version 445.25.1. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
 
 Das kompakte Paket ergänzt [Insolvenzforderungsanmeldungsprüfung](../insolvenzforderungsanmeldungspruefung/README.md) und [Insolvenzverwaltung](../insolvenzverwaltung/README.md), ersetzt sie aber nicht. Sein Fokus ist die konkrete Forderungsprüfung bis zum Tabellenvorschlag und Gläubigerbrief; ein zusätzlicher Einstieg über die anderen Pakete ist nicht erforderlich.
 
