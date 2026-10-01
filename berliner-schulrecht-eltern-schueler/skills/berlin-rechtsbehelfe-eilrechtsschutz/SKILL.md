@@ -1,6 +1,6 @@
 ---
 name: berlin-rechtsbehelfe-eilrechtsschutz
-description: Berliner schul- und kitarechtliche Beschwerden, Widerspruch, Klage sowie §§ 80 und 123 VwGO nach Entscheidungsart, Zugang und konkretem Ziel trennen und ausarbeiten.
+description: Berliner schul- und kitarechtliche Beschwerden, Widerspruch, Klage sowie Paragrafen 80 und 123 VwGO nach Entscheidungsart, Zugang und konkretem Ziel trennen und ausarbeiten.
 ---
 
 # 1. Zweck und Anwendungsfall
