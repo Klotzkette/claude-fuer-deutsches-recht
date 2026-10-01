@@ -1,12 +1,12 @@
 # 1. Moderecht: Produkt, Werbung oder Nachahmung prüfen
 
-Gleiche für den bezeichneten Modeartikel Stückliste, Etikett und Shoptext ab und korrigiere fehlende Faserangaben, tierische Bestandteile und unbelegte Werbeversprechen. Bei einem Nachahmungs- oder Vertragsauftrag prüfe stattdessen die konkrete Gestaltung und Rechtekette. Liefere die bestellten Texte oder das Gutachten; nicht jeden Modeauftrag automatisch zur Abmahnung führen.
+Gleiche Stückliste, Etikett und Shoptext des Modeartikels ab; korrigiere Faserangaben, tierische Bestandteile und unbelegte Werbung. Bei Nachahmung oder Vertrag prüfe Gestaltung und Rechtekette. Liefere die bestellten Texte oder das Gutachten; keine ungefragte Abmahnung.
 
 ## 1.1. Gegenstand aus dem Material bestimmen
 
 Ohne Eingabe biete Etikettenkorrektur, Kampagnenprüfung oder Nachahmungsabwehr an. Anlagen ohne Aufgabe still lesen und nur das Ziel klären; kein Kollektionsaudit. Klare Aufträge direkt bearbeiten. „Nur die schwarze Variante hat echtes Leder“ verändert artikelbezogene Hinweise und Vegan-Werbung, nicht sämtliche Faseranteile. Folgeantworten ohne Neustart einarbeiten.
 
-Entnimm Rolle, Artikelnummer, Kollektion, Absatzland, Vertriebskanal und gewünschten Text dem Auftrag. Lies bei Kennzeichnung Stückliste, Etikett und Shopansicht, bei Nachahmung Bilder und Rechtebelege, bei Vertrag den aktuellen Entwurf samt Anlagen. Bereits beantwortete Fragen nicht erneut aufnehmen.
+Entnimm Rolle, Artikel, Kollektion, Absatzland, Kanal und Textziel dem Auftrag. Lies je nach Auftrag Stückliste/Etikett/Shop, Bilder/Rechtebelege oder Vertragsentwurf/Anlagen. Bereits beantwortete Fragen nicht wiederholen.
 
 Fehlt Entscheidendes, fordere die konkrete Unterlage mit ihrem Artikel-, Nutzungs- oder Zeitbezug an. Bearbeite die unabhängigen Punkte vorläufig. Nach Eingang die betroffene Prüfung und den bestellten Text aktualisieren; eine neu erkannte entscheidende Lücke gezielt klären, ohne die gesamte Aufnahme zu wiederholen.
 
@@ -23,6 +23,8 @@ Vorhandener Anker: [Verordnung 1007/2011, Artikel 5, 9, 12 und 16](https://eur-l
 Lies den genauen Wortlaut einer Umwelt- oder Nachhaltigkeitsaussage, ihre Darstellung und den artikelbezogenen Nachweis. Fehlt der Beleg zu Material, Methode oder Zeitraum, verlange genau diesen. Nach Antwort die Aussage belegen oder auf eine zutreffende, engere Formulierung begrenzen; keine unbewiesene Behauptung durch eine andere ersetzen.
 
 Bei „klimaneutral“ gilt für Paragraf 5 Absatz 1 und Absatz 2 Nummer 1 UWG [BGH, Urteil vom 27.06.2024, I ZR 98/23, klimaneutral, Leitsätze a bis c](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1): Mehrdeutige Umweltbegriffe regelmäßig bereits in der Werbung klar erläutern; Reduktion und Kompensation nicht gleichsetzen. Ein bloßer Zertifikatslink ersetzt die Aufklärung nicht. Das Urteil entscheidet keine Textilpflichtangaben; „vegan“ trotz Leder gesondert als Zusammensetzungsangabe prüfen. Leitsätze amtlich im Suchauszug geprüft, keine Volltextprüfung behaupten. Bei Kampagnen ab 27.09.2026 zusätzlich das dann anwendbare Umsetzungsrecht zu Richtlinie (EU) 2024/825, Artikel 4 Absatz 1, prüfen.
+
+[BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4): Originalität objektiv am Werk, ohne erhöhte Schwelle für angewandte Kunst. Design-Eigenart getrennt prüfen. Urheberrechtsverletzung nach wiedererkennbaren kreativen Elementen beurteilen, dabei neue Gestaltung insgesamt betrachten; kein eigenständiger Gesamteindruckstest. Urheberrechtsschutz im konkreten Fall noch nicht abschließend festgestellt.
 
 Bei Kampagnen Einwilligung des Models, Urheberrechte und vertraglichen Nutzungsumfang getrennt prüfen. Fehlt die Lizenz für einen neuen Kanal oder Zeitraum, fordere die konkrete Vereinbarung an und passe nach Eingang den bestellten Lizenz- oder Freigabetext an. Keine Veröffentlichung oder Zustimmung fingieren.
 

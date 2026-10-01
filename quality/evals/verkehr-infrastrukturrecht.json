@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "verkehr-infrastrukturrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/pbefg/__28.html",
@@ -37,33 +37,40 @@
       "url": "https://www.gesetze-im-internet.de/aeg_1994/__18.html",
       "checked_on": "2026-09-23",
       "supports": "Eisenbahnbetriebsanlagen, Änderungsbegriff und Ausnahmen."
+    },
+    {
+      "url": "https://www.bverwg.de/260526U7C5.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Webansicht: Tenor und Rn. 1–17, verwendet 8–15. Vom auf derselben Seite vorangestellten Beschluss 7 B 1.25 aus 2025 getrennt. Die gerichtliche Begründungsfrist des § 6 UmwRG erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen bei Individual- und Verbandsklagen. Grenze: Keine pauschale Unzulässigkeit der ganzen Klage; Anwendungsbereich, rechtzeitiger Vortrag, Vertiefung, Entschuldigung und gesetzliche Ausnahme geringen Ermittlungsaufwands gesondert prüfen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini nach Erweiterung vollständig nachgelesen: Eingangslagen, Planabweichung, konkrete Zufahrts- und Lärmbetroffenheit sowie Ladepunktzugang führen zu geändertem Dokument. Bestehende Fachnormen und Entscheidungsgrenzen erhalten; Desk-Review, kein Live-Modelltest.",
+    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
       "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
-      "Generische Ablaufwiederholung durch konkrete Antworten zu Seitenzufahrt, Immissionsort, Nutzerkreis und begrenztem Bauumfang ersetzt."
+      "Generische Ablaufwiederholung durch konkrete Antworten zu Seitenzufahrt, Immissionsort, Nutzerkreis und begrenztem Bauumfang ersetzt.",
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
     ],
-    "sha256": "298a889a40bcb8eec8720ff05ab3488f485eb4730e14cb5ccd9176c930052f30",
-    "reviewed_on": "2026-09-23",
+    "sha256": "5ae04927939f526cc5aec4ba5887b226588810378fa4bd1106265b34cd1a214f",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig nachgelesen: Bauabschnitt, wirksame Planfassung und Flächenzugriff werden getrennt; Gegenbelege ändern Einwendung und Schutzforderung. Aktueller Paragraf 28 PBefG trägt den ergänzten Vollzugszweig. Desk-Review, kein Live-Modelltest.",
+    "reason": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Einstieg auf zugelassenen Bauumfang, konkreten Planbezug und Schutzforderung zugeschnitten.",
       "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
       "Leitungsarbeiten und Gleisbau planblattbezogen in Vermerk und Klärungsschreiben übersetzt; Bekanntgabe, Vorverfahren und Eilrechtsschutz differenziert.",
-      "Bau- und Betriebslärm, Ersatzzuwegung, Ladepunktzugang und Schulwegkonflikt mit gezielten Rückfragen und konkreten Textänderungen verbunden."
+      "Bau- und Betriebslärm, Ersatzzuwegung, Ladepunktzugang und Schulwegkonflikt mit gezielten Rückfragen und konkreten Textänderungen verbunden.",
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
     ],
-    "sha256": "ef99de677e86c9e63e25b1fa290eba7a7075a6d9e908d4aee8b3167f4009cbf1",
-    "reviewed_on": "2026-09-23",
+    "sha256": "a8de21b1822de0b36e1070c65e15331aebe855f13ce1a357fdde2ca55b9ba715",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_workflow_review": {
@@ -123,7 +130,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
       "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md"
@@ -141,12 +148,31 @@
         "citation": "BVerwG, Urteil vom 30. März 2017, 7 C 17.15",
         "url": "https://www.bverwg.de/300317U7C17.15.0",
         "application": "Versäumte Beteiligung nicht mit umfassender gerichtlicher Präklusion gleichsetzen; UVP-Anwendungsbereich und eigene Rechte bestimmen.",
-        "limit": "Rn. 20–28 im amtlichen Volltext gelesen. Bergrechtlicher Ausgangsfall, keine verkehrsrechtliche Bauzulassung und keine Befreiung von gerichtlichen Fristen."
+        "limit": "Rn. 20–28 im amtlichen Volltext gelesen. Bergrechtlicher Ausgangsfall, keine verkehrsrechtliche Bauzulassung und keine Befreiung von gerichtlichen Fristen.",
+        "checked_on": "2026-09-23"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.05.2026, 7 C 5.25",
+        "url": "https://www.bverwg.de/260526U7C5.25.0",
+        "application": "Die gerichtliche Begründungsfrist des § 6 UmwRG erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen bei Individual- und Verbandsklagen.",
+        "limit": "Keine pauschale Unzulässigkeit der ganzen Klage; Anwendungsbereich, rechtzeitiger Vortrag, Vertiefung, Entschuldigung und gesetzliche Ausnahme geringen Ermittlungsaufwands gesondert prüfen.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "EuGH C-137/14 nur mittelbar im amtlichen BVerwG-Volltext geprüft; eigener Volltextabruf technisch gescheitert.",
       "Keine vollständige Neuverifikation aller Fachbeiträge, Landesgesetze oder technischen Regelwerke; kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md",
+        "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md"
+      ],
+      "result": "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
+      "search_2026": "2026-Präklusionssuche lieferte auch 9 A 8.17 wegen einer FFH-Gebietsnummer 2026; kein Jahresnachweis. Sachlich passender 7 C 5.25 frisch gelesen und ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

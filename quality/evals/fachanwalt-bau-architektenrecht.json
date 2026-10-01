@@ -201,13 +201,17 @@
         "citation": "BGH, Urteil vom 30.01.2020, VII ZR 33/19, Rn. 38–42 und 47–58",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__33-19.pdf?__blob=publicationFile&v=1",
         "application": "Bei fehlender Bestellermitwirkung Anspruchsgrund ohne zusätzlichen Kostennachteil, Höhe nach konkreter unproduktiver Vorhaltung und Vergütungsanteilen; möglicher Ersatzauftrag muss kein echter Füllauftrag sein.",
-        "limit": "Keine vollständige Umsatzkompensation und keine späteren Lohn-/Materialmehrkosten; Abwägung statt Kündigungsabrechnung, Annahmeverzug gesondert nachzuweisen."
+        "limit": "Keine vollständige Umsatzkompensation und keine späteren Lohn-/Materialmehrkosten; Abwägung statt Kündigungsabrechnung, Annahmeverzug gesondert nachzuweisen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
         "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
-        "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen."
+        "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
@@ -236,5 +240,13 @@
     "continuation": "Kran wurde abbestellt oder Personal anderweitig eingesetzt -> tatsächliche Vorhaltung, ersparte Kosten und Entschädigungsforderung korrigieren.",
     "enrichment": "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

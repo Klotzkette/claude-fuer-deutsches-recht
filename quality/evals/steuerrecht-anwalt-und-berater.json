@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "steuerrecht-anwalt-und-berater",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/ao_1977/__162.html",
@@ -57,6 +57,11 @@
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/",
       "checked_on": "2026-10-01",
       "supports": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33. Amtlichen Volltext gelesen. Anwendung: Bereits fehlendes erkennbares Erwägen eines möglichen inneren Betriebsvergleichs verletzt die Regeln zur Methodenwahl. Vorhandene Einkaufs-, Bestands- und Preisdaten mit Richtsatzrechnung vergleichen und übergangenen Rechenweg benennen. Grenze: Schätzungsbefugnis blieb bestehen; kein Nullzuschlag oder automatische Anerkennung der Gegenrechnung. Rn. 34–37 zu Frostverderb, Zeugenverzicht/Amtsermittlung und Richtsatzkritik sind ausdrücklich Hinweise für den zweiten Rechtsgang."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher Volltext neu: Einleitung der Entscheidungsgründe II / Rn. 31. Bisheriger Nachweis zu Rn. 48–63 aus Vorprüfung übernommen. Im Außenprüfungsskill den Charakter der allgemeinen Richtsatzkritik als nicht tragend klargestellt; Methodenwahl und vorhandene betriebsinterne Daten bleiben tragender Prüfpunkt. Grenze: Kein generelles Richtsatzverbot. Die bereits am 01.10.2026 im vorigen Durchgang geprüfte Folgeentscheidung X R 14/24 wird übernommen, nicht nochmals als frisch gelesener Volltext ausgegeben."
     }
   ],
   "mini_review": {
@@ -217,7 +222,8 @@
       "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
       "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
       "steuerrecht-anwalt-und-berater/README.md",
-      "quality/evals/steuerrecht-anwalt-und-berater.json"
+      "quality/evals/steuerrecht-anwalt-und-berater.json",
+      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md"
     ],
     "opening_change": "Konkrete Abweichung zwischen Erklärung, Bescheid und Prüfungsrechnung untersuchen; im Hauptproblem Waren-Gegenkalkulation aufbauen.",
     "norms": [
@@ -230,7 +236,8 @@
         "citation": "BFH, Urteil vom 18.06.2025, X R 19/21, Rn. 31, 48–63",
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/",
         "application": "Bei Hinzuschätzung eine mit zumutbarem Aufwand genauere betriebsinterne Kalkulation anhand Warenbestand, Rezepturen, Mengen und zeitgleichen Preisen prüfen. Ihre Ablehnung muss begründet werden; fehlende Rezepturen wirken nicht zugunsten des Betriebs.",
-        "limit": "Kein freies Wahlrecht der Behörde und kein genereller Anspruch auf zweite Methode. Kritik an der Richtsatzsammlung war nicht tragender Entscheidungsgrund; historische Kassenregeln nicht als heutige Fassung ausgeben."
+        "limit": "Kein freies Wahlrecht der Behörde und kein genereller Anspruch auf zweite Methode. Kritik an der Richtsatzsammlung war nicht tragender Entscheidungsgrund; historische Kassenregeln nicht als heutige Fassung ausgeben.",
+        "checked_on": "2026-10-01"
       },
       {
         "citation": "BFH, Urteil vom 15.04.2026, X R 14/24, Rn. 19–37, insbesondere 28–33",
@@ -245,7 +252,21 @@
       "Prüfung der Schätzung und aktuellen Paragrafen 158/162 AO; keine neue Vollverifikation sämtlicher materieller Steuerarten, DBA oder Strafverteidigungsfragen.",
       "Workflow-Vertiefung 2026-09-23: Keine neue Vollverifikation sämtlicher Steuerarten, DBA oder Steuerstrafrechtsfragen. BFH X R 19/21 und XI R 17/22 mit vorhandenen Anwendungsgrenzen erhalten; neue Zahlenbeispiele sind transparente Rechenbeispiele, keine tatsächlichen Betriebsfeststellungen. Desk review; keine Live-Client-Ausführung.",
       "Enger Quellenabgleich 01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt. Ältere Anker nicht erneut als gelesen bestätigt; keine Vollprüfung aller Skills, kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md",
+        "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
+        "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
+        "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-schnellstart.md",
+        "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-werkstatt.md"
+      ],
+      "result": "Zentrale Prompts benennen die Richtsatzkritik bereits als nicht tragend. Abweichenden Außenprüfungsskill angepasst; dort auch den bereits verifizierten Methodenwahlfall X R 14/24 konkret nachgezogen.",
+      "search_2026": "X R 14/24 vom 15.04.2026 bestätigt; Volltextprüfung aus dem früheren Durchgang am selben Tag übernommen. X R 19/21 frisch hinsichtlich des nicht tragenden Teils nachgelesen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

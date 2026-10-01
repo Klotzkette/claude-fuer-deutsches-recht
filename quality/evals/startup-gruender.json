@@ -90,7 +90,7 @@
       "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
       "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
     ],
-    "sha256": "4d8e44880746c85d7e1736af7cc038930244dd90431f9786a91ce85ae9e25ade",
+    "sha256": "823cf3078cf74aecb160c2b06ecd24436a95c2d394da8ef2102549365ff498a2",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -399,5 +399,15 @@
         }
       ]
     }
-  ]
+  ],
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "startup-gruender/startup-gruender-schnellstart.md",
+      "startup-gruender/startup-gruender-schnellstart.txt"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
+  }
 }

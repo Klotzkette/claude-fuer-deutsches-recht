@@ -176,26 +176,44 @@
         "citation": "BVerwG, Urteil vom 16. November 2010, 1 C 20.09, Randnummern 19–23, 28–34",
         "url": "https://www.bverwg.de/161110U1C20.09.0",
         "application": "Familienbedarf, konkrete Ausnahmeprüfung und Korrektur behördlicher Freibetrags-/Aufwandsabzüge beim Ehegattennachzug.",
-        "limit": "Keine aktuellen Bedarfsbeträge; Korrektur im Richtlinienbereich, nicht unterschiedslos bei allen Titeln. Historische Ausweisungsregeln nicht übertragen."
+        "limit": "Keine aktuellen Bedarfsbeträge; Korrektur im Richtlinienbereich, nicht unterschiedslos bei allen Titeln. Historische Ausweisungsregeln nicht übertragen.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BVerwG, Urteil vom 24.03.2026 – 1 C 6.25, Leitsätze 1–2, Randnummern 12–17",
         "url": "https://www.bverwg.de/240326U1C6.25.0",
         "application": "Ausländische Flüchtlingsanerkennung, Reiseausweis und Verantwortungsübergang ergeben für sich keinen Aufenthaltstitel nach § 25 Abs. 2 Satz 1 Alt. 1 AufenthG.",
-        "limit": "Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert."
+        "limit": "Andere Titelgrundlagen, Abschiebungsschutz und spätere GEAS-Anwendbarkeit gesondert.",
+        "checked_on": "2026-09-30"
       },
       {
         "citation": "BVerwG, Urteil vom 26.08.2026 – 1 C 27.25, Randnummern 10–13, 19–30, 41–43",
         "url": "https://www.bverwg.de/260826U1C27.25.0",
         "application": "Passersatzmitwirkung kann trotz Nationalpass erforderlich sein; Zusatz isoliert anfechtbar und Folgen können nach Duldungsablauf fortwirken.",
-        "limit": "Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses."
+        "limit": "Nur konkrete Pass-/Passersatzpflicht bei individueller Zumutbarkeit, Kausalität und Vertretenmüssen; keine allgemeine Pflicht zur Beseitigung jedes Vollzugshindernisses.",
+        "checked_on": "2026-09-30"
       }
     ],
     "remaining_limits": [
       "GEAS-Übergang, aktuelle Nachzugssonderregeln und länderspezifische Praxis nicht umfassend neu verifiziert; keine Live-Modellprüfung.",
       "Workflow-Review 23.09.2026: Paragraf 2 AufenthG erneut eingesehen. GEAS-Übergangsrecht bleibt verfahrens- und datumsbezogen zu prüfen; keine neue pauschale Asylrechtsregel ergänzt.",
       "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
+        "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-schnellstart.md",
+        "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-werkstatt.md",
+        "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
+        "fachanwalt-migrationsrecht/skills/passbeschaffung-zumutbarkeit/SKILL.md",
+        "fachanwalt-migrationsrecht/skills/reiseausweis-fluechtling/SKILL.md"
+      ],
+      "result": "Familienbedarf, ausländische Flüchtlingsanerkennung und Passersatzmitwirkung bleiben getrennte Fallgruppen. Der Titel-Ausschluss ist präzise auf § 25 Absatz 2 Satz 1 Alternative 1 begrenzt; Vorprüfung vom 30.09.2026 wiederverwendet.",
+      "search_2026": "Die gezielte Suche bestätigte die bereits am 30.09.2026 geprüften 1 C 6.25 und 1 C 27.25; keine zusätzliche neue Entscheidung eingebaut.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

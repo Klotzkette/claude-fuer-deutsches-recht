@@ -220,13 +220,25 @@
         "citation": "BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Rn. 44 bis 69, Wanka",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/02/es20180227_2bve000116.html",
         "application": "Amtliche Ressourcen und abschreckende parteiergreifende Veröffentlichung auch außerhalb des Wahlkampfs auf Chancengleichheit prüfen.",
-        "limit": "Sachliche Regierungserläuterung und private Parteibetätigung unterscheiden; keine generelle Neutralitätspflicht für Private oder ungeprüfte Gleichsetzung kommunaler Rollen."
+        "limit": "Sachliche Regierungserläuterung und private Parteibetätigung unterscheiden; keine generelle Neutralitätspflicht für Private oder ungeprüfte Gleichsetzung kommunaler Rollen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Paragraf 25 PartG, Wanka und bezeichnete EU-Artikel geprüft; örtliche Sondernutzungsregeln, Landeswahlrecht, Durchführungsformate und Plattformangebote nicht vollständig verifiziert.",
       "Desk-/Quellenreview, kein Live-Kampagnen- oder Modelltest.",
       "Workflow-Erweiterung 23.09.2026: Paragraf 25 PartG erneut amtlich gelesen. EUR-Lex lieferte zunächst einen amtlichen Texteinstieg, anschließende Artikel- und PDF-Abrufe aber nur eine JavaScript-/Robot-Prüfung; keine erneute Detailverifikation der erhaltenen Artikel 11, 12, 18 und 19 oder neuer Durchführungsformate behauptet. Wanka nicht erneut im Volltext geprüft."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "wahlkampfrecht-praxis/wahlkampfrecht-praxis-schnellstart.md",
+        "wahlkampfrecht-praxis/wahlkampfrecht-praxis-werkstatt.md"
+      ],
+      "result": "Wanka bezieht Neutralität auf amtliche Ressourcen und parteiergreifende Veröffentlichung. Sachliche Regierungserläuterung, private Parteitätigkeit und kommunale Rolle bleiben getrennt.",
+      "search_2026": "Exakte amtliche Suche nach 2026-Neutralität im Wahlkampf ohne passenden neuen Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

@@ -125,19 +125,25 @@
         "citation": "BGH, Urteil vom 15.02.2022, VI ZR 937/20, berichtigt am 23.02.2022",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1",
         "application": "Taggenaue Berechnung durch Gesamtwürdigung von Verletzung, Leiden, Dauer und wahrgenommener Lebensbeeinträchtigung ersetzen.",
-        "limit": "Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen."
+        "limit": "Amtliche Leitsätze a und b gelesen, Volltextabruf gescheitert; keine feste Taxe für Bagatellverletzungen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 06.12.2022, VI ZR 168/21",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_168-21.pdf?__blob=publicationFile&v=1",
         "application": "Schockbedingte psychische Störung mit Krankheitswert als eigene Gesundheitsverletzung prüfen.",
-        "limit": "Amtlicher Leitsatz; kein Erfordernis über das Übliche hinausgehender Angehörigenreaktion, aber Kausalität bleibt nötig."
+        "limit": "Amtlicher Leitsatz; kein Erfordernis über das Übliche hinausgehender Angehörigenreaktion, aber Kausalität bleibt nötig.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 18.02.2014, VI ZR 383/12",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2012/VI_ZR_383-12.pdf?__blob=publicationFile&v=1",
         "application": "Hoheitliches Abschleppen als Ersatzvornahme und öffentlich-rechtliche Verwahrung prüfen.",
-        "limit": "Amtliche Leitsätze a bis c; nicht auf privates Parkplatzabschleppen übertragen."
+        "limit": "Amtliche Leitsätze a bis c; nicht auf privates Parkplatzabschleppen übertragen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -179,5 +185,13 @@
         "sha256": "c631ad9844bf90cd021d62556973e064ef8be2b732407b4651d784db2b6a8344"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

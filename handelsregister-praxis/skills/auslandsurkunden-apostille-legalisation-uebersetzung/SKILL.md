@@ -34,6 +34,8 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis.
 
+Bei Onlinebeglaubigung die abstrakten Verfahrensgarantien des Herkunftsrechts prüfen: [BGH, Beschluss vom 25.02.2026 – II ZB 13/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1), Rn. 8–29, verneint die Gleichwertigkeit der geprüften österreichischen Onlinebeglaubigung nach Paragraf 79 Absatz 9 in Verbindung mit Paragraf 69b Absatz 2 Satz 1 Nummer 1 oder 2 öNotO. Frage nach Identifizierung, persönlicher Prüfung durch den Notar, elektronischem Lichtbild und hoheitlicher Plattform; einzelne zusätzliche Maßnahmen ersetzen keine abstrakte Gleichwertigkeit. Die Entscheidung verwirft nicht sämtliche ausländischen Präsenzbeglaubigungen. Maßgebliche heutige Verfahrensfassung und Paragraf 12 HGB zusätzlich prüfen.
+
 ## Quellenrahmen
 
 HGB §§ 8 ff. und § 15, FamFG-Registerverfahrensrecht, GmbHG/HGB/AktG/UmwG je nach Gesellschaftsform, HRV/Registerportal-Praxis.

@@ -108,7 +108,8 @@
         "citation": "BVerfG, Beschluss vom 02.03.1999, Az. 1 BvL 7/91, Randnummern 92 bis 104",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1999/03/ls19990302_1bvl000791.html",
         "application": "Bei fehlender sinnvoller Nutzung und praktischer Unveräußerlichkeit reale Entlastung und gesetzlich vorgesehenen Ausgleich mit der belastenden Entscheidung prüfen.",
-        "limit": "Früheres rheinland-pfälzisches Recht; weder jeder Sanierungsverlust noch die Entscheidung selbst begründet einen Abriss- oder unmittelbaren Geldanspruch."
+        "limit": "Früheres rheinland-pfälzisches Recht; weder jeder Sanierungsverlust noch die Entscheidung selbst begründet einen Abriss- oder unmittelbaren Geldanspruch.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
@@ -116,7 +117,21 @@
       "BVerfG-Direktabruf gesperrt; amtlich indexierte Leitsätze und entscheidende Randnummern 92 bis 104 ausgewertet, kein vollständig direkt abgerufener Urteilstext.",
       "Keine aktuelle Vollprüfung der sechzehn Landesgesetze, Steuerbescheinigungen oder konkreten Welterbevorhaben.",
       "Workflow-Review 23.09.2026: erneuter Abruf von Artikel 6 BayDSchG nicht erfolgreich; BVerfG-Zugang auf amtlich indexierte Passagen begrenzt. Keine Vollprüfung aller Landesdenkmalschutzgesetze."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "denkmalschutzrecht/denkmalschutzrecht-schnellstart.md",
+        "denkmalschutzrecht/denkmalschutzrecht-werkstatt.md",
+        "denkmalschutzrecht/skills/art-14-gg-eigentum-und-denkmalschutz/SKILL.md",
+        "denkmalschutzrecht/skills/enteignung-uebernahme-und-entschaedigung/SKILL.md",
+        "denkmalschutzrecht/skills/rechtsprechungsanker-denkmalrecht/SKILL.md"
+      ],
+      "result": "Fehlende Nutzungsmöglichkeit, Unveräußerlichkeit und gesetzlicher Ausgleich werden geprüft. Der historische Rheinland-Pfalz-Fall wird weder zur automatischen Abrisserlaubnis noch zum unmittelbaren Geldanspruch erweitert.",
+      "search_2026": "Gezielte Suche zu Denkmalschutz, Eigentum und Zumutbarkeit ergab ältere Fälle, keinen passenden neuen 2026-Anker.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

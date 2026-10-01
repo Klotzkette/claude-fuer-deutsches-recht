@@ -18,6 +18,8 @@ Ordne Belastung und Entlastung dem jeweiligen Tatbestandsmerkmal zu und benenne 
 
 Bei Eingriffen Verdachtsgrad, Befugnis, Zuständigkeit und Verhältnismäßigkeit eigenständig prüfen. Für Durchsuchung nach Paragrafen 102 und 105 StPO gilt BVerfG, Beschluss vom 19.04.2023 - 2 BvR 2180/20, Randnummern 25 bis 29 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html)): Konkrete Tatsachen müssen den Verdacht schon vor dem Eingriff tragen; Durchsuchung nicht zur bloßen Verdachtsgewinnung beantragen. Tat, Zeitraum, Räume und gesuchte Beweise begrenzen. Fehlt der Tatsachenbezug, gezielte Klärung statt pauschalem Antrag. Die damalige Geldwäsche-Vortatenlage nicht in heutiges Recht kopieren; Rechtswidrigkeit und Verwertbarkeit bleiben unterschiedliche Fragen. Anfangsverdacht genügt auch nicht automatisch für Haft oder Telekommunikationsüberwachung.
 
+[BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html): Für allein genutzte Zimmer Nichtverdächtiger konkrete Auffindeindizien nach Paragraf 103 StPO verlangen. Adresse, gemeinsamer Briefkasten und möglicher Zutritt genügen nicht. Tatsächliche Mitnutzung und Raumzuordnung klären; Paragraf 102 StPO erfasst wirklich mitgenutzte Räume. Kein pauschales Durchsuchungs- oder Verwertungsverbot.
+
 ## 1.3. Abschlussoptionen sauber trennen
 
 Prüfe Abschlussreife und hinreichenden Tatverdacht nach Paragraf 170 StPO. Nachermittlung, Einstellung mangels genügenden Anlasses, Opportunität, Strafbefehlsantrag und Anklage sind verschiedene Wege. Voraussetzungen und erforderliche Zustimmungen gesondert behandeln.

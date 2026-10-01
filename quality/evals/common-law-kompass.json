@@ -17,6 +17,11 @@
       "url": "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part31",
       "checked_on": "2026-09-23",
       "supports": "Erneut sichtbarer amtlicher Abschnitt bis CPR 31.7: Disclosure, Einsicht und Standard-Disclosure einschließlich nachteiliger Dokumente sowie angemessener Suche; übrige Teilregeln nicht als heute vollständig erneut gelesen ausgewiesen."
+    },
+    {
+      "url": "https://supremecourt.uk/uploads/uksc_2015_0212_judgment_bd11dce464.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 9–16. Wortlaut und Vertragskontext für SPA-Freistellung zusammen auslegen; Gewicht abhängig von Vertrag/Gestaltung. Grenze: Kein spezieller Entire-Agreement-/Misrepresentation-Anker."
     }
   ],
   "mini_review": {
@@ -112,15 +117,26 @@
     ],
     "decisions": [
       {
-        "citation": "UKSC, 29.03.2017, Wood v Capita, [2017] UKSC 24, Absätze 10 bis 13",
+        "citation": "UK Supreme Court, Urteil vom 29.03.2017 – Wood v Capita, [2017] UKSC 24, Kopf, Rn. 9–16",
         "url": "https://supremecourt.uk/uploads/uksc_2015_0212_judgment_bd11dce464.pdf",
-        "application": "Vertragswortlaut und Kontext bei konkurrierenden Lesarten zusammen prüfen.",
-        "limit": "Englische Vertragsauslegung; kein US-weiter Rechtssatz und keine Korrektur bloß unvorteilhafter Verträge."
+        "application": "Wortlaut und Vertragskontext für SPA-Freistellung zusammen auslegen; Gewicht abhängig von Vertrag/Gestaltung.",
+        "limit": "Kein spezieller Entire-Agreement-/Misrepresentation-Anker.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
       "US-Einzelstaatsrecht und konkrete Disclosure-Anordnung bleiben fallabhängig zu ermitteln.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Erneute CPR-Lektüre nur bis zum sichtbaren Abschnitt 31.7; 31.8, 31.19 und PD 57AD nicht als heute voll geprüft dargestellt. Historische Wood-Einordnung bleibt England und Wales zugeordnet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "common-law-kompass/skills/ma-commercial-drafting/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

@@ -117,12 +117,24 @@
         "citation": "BVerwG, Urteil vom 6. April 2016, 3 C 10.15, Randnummern 21–24",
         "url": "https://www.bverwg.de/060416U3C10.15.0",
         "application": "Streit um Bekanntgabe eines Haltverbots: Umschau, besonderer Nachschauanlass und Beweislast der Behörde anhand datierter Fotos prüfen.",
-        "limit": "Kein allgemeines Abschreitgebot, aber mögliche Verdeckung oder Dunkelheit können Nachschau auslösen; nicht unverändert auf fließenden Verkehr übertragen."
+        "limit": "Kein allgemeines Abschreitgebot, aber mögliche Verdeckung oder Dunkelheit können Nachschau auslösen; nicht unverändert auf fließenden Verkehr übertragen.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
       "Amtliche Entscheidungsgründe, insbesondere Randnummern 15–30, und aktueller Paragraf 45 geprüft; keine vollständige Prüfung aller Landeszuständigkeiten, VwV-StVO-Fassungen oder Abschleppkostentatbestände.",
       "Redaktionelle Akten-/Quellenprüfung, kein Live-Test mit einem Mandanten oder Modell."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-schnellstart.md",
+        "strassenverkehrsrecht-stvo/strassenverkehrsrecht-stvo-werkstatt.md"
+      ],
+      "result": "Sichtbarkeit von Haltverboten wird mit Umschau, besonderem Anlass zur Nachschau und behördlicher Beweislast verbunden; kein generelles Abschreitgebot oder ungeprüfter Übertrag auf fließenden Verkehr.",
+      "search_2026": "3 B 9.25 vom 24.06.2026 gefunden, betrifft prozessuale Klageänderung/Frist und nicht den bisherigen Sichtbarkeitsmaßstab. Keine ungeprüfte materielle Änderung vorgenommen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

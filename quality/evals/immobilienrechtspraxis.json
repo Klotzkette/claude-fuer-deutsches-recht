@@ -106,7 +106,9 @@
         "citation": "BGH, Urteil vom 15.09.2023, V ZR 77/22, Rn. 33–46",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2022/V_ZR__77-22.pdf?__blob=publicationFile&v=1",
         "application": "Bei bekannten erheblichen Sanierungslasten genügt Datenraumzugriff nur bei berechtigter Erwartung der Kenntnisnahme; Uploadzeit, Ordnung, Hinweis und Prüfungsumfang konkret prüfen.",
-        "limit": "Keine allgemeine gesetzliche Due-Diligence-Pflicht und keine automatische Arglist bei spätem Upload; Zurückverweisung, Schaden, Kausalität und Verschulden bleiben fallbezogen."
+        "limit": "Keine allgemeine gesetzliche Due-Diligence-Pflicht und keine automatische Arglist bei spätem Upload; Zurückverweisung, Schaden, Kausalität und Verschulden bleiben fallbezogen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -127,5 +129,13 @@
     "continuation": "Neue Ablöse -> Zahlungsaufteilung; Käufermail -> Kenntnisprüfung; WEG-Korrektur -> nur betroffene Mieterpositionen; Bankbestätigung -> begrenzten Vollzugspfad ändern.",
     "enrichment": "Ablösefrist und Treuhandauflagen, Offenlegung versus Garantie, unvollendeter Bauträgerbau, Kostenanteile und vollständige objektbezogene Klauseln.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

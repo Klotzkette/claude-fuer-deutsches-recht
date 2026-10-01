@@ -52,6 +52,11 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
       "supports": "Erneuter Normabruf zum Erstattungsanspruch bei nicht autorisiertem Zahlungsvorgang, zeitlicher Leistungspflicht und gesetzlicher Verdachtsausnahme.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 1–35. Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen. Grenze: Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen."
     }
   ],
   "mini_review": {
@@ -63,7 +68,7 @@
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
     ],
-    "sha256": "89aa790de4780764e35582675f0c71cdbe74bf51cf99846b69da8002ee2f2075"
+    "sha256": "75ecc8bdb9041895f14fd2d7bf635f031d5864e0f090ae4931e02e4dbdcb0dc8"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -77,9 +82,9 @@
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
     ],
     "prompt_path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
-    "prompt_sha256": "92ca29df4d429486d25f63bed13edf06866643c6d10c81627824780fda12714c",
+    "prompt_sha256": "5e071992d7dcd2236ae7d9c9cb6e1d41d92ed8fab877e9d41e6f453d18fe85f2",
     "skill_path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
-    "skill_sha256": "96ad2b2b1760e4ad3fc8718fcc3be036c711e10e112006fef80e385a5298b05f"
+    "skill_sha256": "644432ad8c9aef373a727e2737aa13cfe6efb638e343555e3b1aa9627b4da7d2"
   },
   "selection": {
     "positive": [
@@ -156,7 +161,7 @@
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
       "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto."
     ],
-    "sha256": "70e64307b08759d41947c00f7bb50c7d952c03101a790488f6b99ab63e956b6b"
+    "sha256": "ae18e123249d85a370b7f31ae5acf485be34e9cd182d97af46fe4a5e857b6ff3"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -186,6 +191,14 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1",
         "application": "Datenschutzschaden bei Zahlungsbetrug erfordert eine belegte Kausalität; das Nebeneinander von Artikel 82 DSGVO und Paragraf 675u Satz 2 BGB wurde nicht abschließend entschieden.",
         "limit": "Nichtzulassungsbeschwerde, keine neue allgemeine Regel zur Autorisierung oder zum Anspruchsausschluss."
+      },
+      {
+        "citation": "BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Kopf, Rn. 1–35",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+        "application": "Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen.",
+        "limit": "Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -205,5 +218,17 @@
     "continuation": "Vorläufige Gutschrift wird endgültig oder ein Protokoll belegt einen anderen Freigabebetrag -> Forderungshöhe und Autorisierungsargument im Schreiben korrigieren.",
     "enrichment": "Technische Freigabe gegenüber Zahlungszustimmung, Sperrzeitpunkt und Betragszuordnung, Erstattungszeit und Betrugsverdachtsausnahme, beratungsbezogene Verlustrechnung sowie Kredit- und Sicherheitenkonto.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

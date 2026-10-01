@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-agrarrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/h_feo/__17.html",
@@ -77,6 +77,11 @@
       "url": "https://www.gesetze-im-internet.de/bgbeg/art_229__70.html",
       "checked_on": "2026-09-22",
       "supports": "Absatz 2 Altvertrags-Schriftform bis einschließlich 01.07.2026, frühere Anwendung bei Änderungen ab 2025."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliches PDF: Kopf, Entscheidungsdatum und Leitsätze a und b. Docket im Landpacht-/Hoferbfolge-Skill von LwZB 2/15 auf BLw 2/15 berichtigt. Kauf und eng verbundene Verpachtung zur Umgehung des Siedlungsvorkaufsrechts prüfen. Grenze: Frisch nur Titel und Leitsätze gelesen; kein behaupteter vollständiger neuer Durchgang der Gründe. Nicht jeder Kauf mit Pacht ist betroffen."
     }
   ],
   "mini_review": {
@@ -177,14 +182,15 @@
     "sha256": "69ac99806f49961afbbd348136b1c24557995e6f85b0e0532c56030bd515f5d0"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
       "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
       "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
       "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
       "fachanwalt-agrarrecht/README.md",
-      "quality/evals/fachanwalt-agrarrecht.json"
+      "quality/evals/fachanwalt-agrarrecht.json",
+      "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md"
     ],
     "opening_change": "Pachtbindung, Hofübergang und Beteiligung weichender Erben an tatsächlichen Windentgelten konkret benannt. Workflow-Ergänzung: Leer: Landpacht, Hoferbfolge oder Fördermittelkontrolle anbieten. Dateien ohne Aufgabe: Flurstücks-, Hof- und Windentgeltbelege still lesen; Pacht-, Nachabfindungs- oder Abwehrziel klären. Klarer Auftrag: konkretes Auskunfts-, Anspruchs- oder Abwehrschreiben direkt ausarbeiten; bekannte Hof- und Beteiligtenangaben nicht wiederholen.",
     "norms": [
@@ -196,25 +202,29 @@
         "citation": "BGH, Beschluss vom 24.04.2009, Az. BLw 21/08, Randnummern 13 bis 20",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/BLw__21-08.pdf?__blob=publicationFile&v=1",
         "application": "Windnutzung trotz landwirtschaftlicher Restnutzung; gesamte einschlägige Entgelte bei längerfristigem Zweckwegfall und erheblichem Gewinn.",
-        "limit": "Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis."
+        "limit": "Anspruchsgrund bestätigt, endgültige Höhe und Eigenleistungen gesondert; keine Übernahme damaliger Hofwertbasis.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BGH, Urteil vom 06.11.2020, Az. LwZR 5/19",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2019/LwZR___5-19.pdf?__blob=publicationFile&v=1",
         "application": "Fehlender Vertretungszusatz einer GbR unter damaliger Schriftform.",
-        "limit": "Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform."
+        "limit": "Nur zeitlich einschlägige Altfrage; keine heutige Unterschriftspflicht bei Textform.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BGH, Beschluss vom 23.11.2012, Az. BLw 12/11",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2011/BLw__12-11.pdf?__blob=publicationFile&v=1",
         "application": "Hofeigenschaft im Vorerbfall und spätere Nacherbfolge; besondere Treuwidrigkeitskonstellation.",
-        "limit": "Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge."
+        "limit": "Historische Normfassung, nicht jeder spätere Hofverlust oder irrtümliche Pflichtteilsanspruch beseitigt Sondererbfolge.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BGH, Beschluss vom 29.04.2016, Az. BLw 2/15",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2015/BLw___2-15.pdf?__blob=publicationFile&v=1",
         "application": "Kauf unter siedlungsrechtlichem Vorkaufsrecht mit eng verbundener Verpachtung an Käufer; Beanstandung und Aufhebung.",
-        "limit": "Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert."
+        "limit": "Nicht jeder Kauf mit Pacht, kein abstrakter Pachtzinsgrenzwert.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -222,7 +232,31 @@
       "BLw 21/08 vollständig amtlich gelesen; drei weitere BGH-Fälle anhand amtlich indexierter Leitsätze geprüft, keine vollständige Direktlektüre behauptet.",
       "Keine Vollverifikation sämtlicher Förderjahre, Düngegebiete, Artenschutz- oder Tierhaltungsregelungen.",
       "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 13 HöfeO scheiterte; bestehende Nachabfindungsanker unverändert in ihrer dokumentierten Reichweite, keine erneute Volltextprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
+        "fachanwalt-agrarrecht/fachanwalt-agrarrecht-schnellstart.md",
+        "fachanwalt-agrarrecht/fachanwalt-agrarrecht-werkstatt.md",
+        "fachanwalt-agrarrecht/skills/agrarerbe-pflichtteil-paragraf-2316-bgb-hoefeordnung/SKILL.md",
+        "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-hoefe-uebergabe/SKILL.md",
+        "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-pachtvertrag-streitig/SKILL.md",
+        "fachanwalt-agrarrecht/skills/fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung/SKILL.md",
+        "fachanwalt-agrarrecht/skills/hoefe-uebergabe/SKILL.md",
+        "fachanwalt-agrarrecht/skills/hoeferecht-nachabfindung-20-jahre-paragraf-13-hoefeordnung/SKILL.md",
+        "fachanwalt-agrarrecht/skills/juristischer-argumentationskern/SKILL.md",
+        "fachanwalt-agrarrecht/skills/landpacht-anzeige-beanstandung-pachtzins/SKILL.md",
+        "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+        "fachanwalt-agrarrecht/skills/pachtvertrag-streitig/SKILL.md",
+        "fachanwalt-agrarrecht/skills/verhandlung-landpacht-schlichtung/SKILL.md",
+        "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md"
+      ],
+      "result": "Vier Agraranker und Wiederholungen in Spezialskills abgeglichen. Konkrete fehlerhafte Schreibweise LwZB 2/15 in einem Skill auf BLw 2/15 korrigiert; Alt-Schriftform und heutige Textform bleiben zeitlich getrennt.",
+      "search_2026": "2026-Landpacht-/Höfe-Suche ergab keine passende neue Entscheidung. Der frisch überprüfte BLw 2/15 bleibt ausdrücklich von 2016.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

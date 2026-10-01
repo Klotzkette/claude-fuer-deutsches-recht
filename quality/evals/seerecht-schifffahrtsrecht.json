@@ -160,7 +160,9 @@
         "citation": "BGH, Urteil vom 1. Dezember 2016, I ZR 128/15, Rn. 29–34",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR_128-15.pdf?__blob=publicationFile&v=1",
         "application": "Verschiffungsbezogener Containerumschlag regelmäßig Seestrecke.",
-        "limit": "Tätigkeit und Obhut entscheidend; Altfall ist kein Beleg für unverändert geltende ADSp- oder Haftungsregeln."
+        "limit": "Tätigkeit und Obhut entscheidend; Altfall ist kein Beleg für unverändert geltende ADSp- oder Haftungsregeln.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -180,5 +182,13 @@
     "continuation": "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
     "enrichment": "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

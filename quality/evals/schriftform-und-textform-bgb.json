@@ -52,6 +52,16 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130e.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Normtext zur Formfiktion elektronischer Prozesserklärungen nach anfänglichem Zugriffsfehler erfolgreich gelesen; kein technischer Signaturtest."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Berichtigung vom14.07.2026, Rn. 12–32; tragend24–31. Individuelle doppelte Schriftform grundsätzlich nicht mündlich abbedingen; Treuepflicht kann formgerechte rückwirkende Zustimmung verlangen. Grenze: Freiberuflersozietät, zurückverwiesen; weder automatische Heilung noch Übertragung auf §305bAGB oder gesetzliche Beurkundung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 16–23. Geschäftliche E-Mail während üblicher Geschäftszeiten mit Abrufbarkeit auf Empfängerserver zugegangen. Grenze: Privatempfang und außerhalb üblicher Zeiten ausdrücklich nicht entschieden; Absenden allein kein Zugangsbeweis."
     }
   ],
   "mini_review": {
@@ -65,7 +75,7 @@
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
       "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
     ],
-    "sha256": "e1d039883b17ea7103d5f36fa367aaad76192041a11602895a5167c7305be5fc",
+    "sha256": "0c73f2f650caa4898ea5f7207190ee7303d6a2e0b73f57b3b5951b9f119307b2",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -80,7 +90,7 @@
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
       "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
     ],
-    "sha256": "79bbbed7a8816a2bb2045f336f5c255f92d585f1147c024c446acf845b0be063",
+    "sha256": "e93b3b55ae777154c7780922ea22e57cf3818a88839cb2aae95137b8645eddd0",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -175,16 +185,26 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
+        "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
-        "application": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr.",
-        "limit": "Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
+        "application": "Geschäftliche E-Mail während üblicher Geschäftszeiten mit Abrufbarkeit auf Empfängerserver zugegangen.",
+        "limit": "Privatempfang und außerhalb üblicher Zeiten ausdrücklich nicht entschieden; Absenden allein kein Zugangsbeweis.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       },
       {
         "citation": "BGH, Urteil vom 6. März 2025, I ZR 32/24, amtliche Leitsätze",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR__32-24.pdf?__blob=publicationFile&v=1",
         "application": "Einfamilienhausbegriff und entsprechendes Provisionsrecht bei Vertragsschluss durch einen Dritten abgrenzen.",
         "limit": "Kein Nachweis, dass eine bestimmte E-Mail Textform oder Vertragsschluss erfüllt; amtliche Leitsätze geprüft."
+      },
+      {
+        "citation": "BGH, Urteil vom 16.06.2026 – II ZR 85/25, Kopf/Berichtigung vom14.07.2026, Rn. 12–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1",
+        "application": "Individuelle doppelte Schriftform grundsätzlich nicht mündlich abbedingen; Treuepflicht kann formgerechte rückwirkende Zustimmung verlangen.",
+        "limit": "Freiberuflersozietät, zurückverwiesen; weder automatische Heilung noch Übertragung auf §305bAGB oder gesetzliche Beurkundung.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -220,5 +240,16 @@
         "sha256": "cfb33f8978c6109cb617028898a5e7441f4fd2613c20f3a08e51a285215886b9"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md",
+      "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "schriftform-und-textform-bgb/skills/sftf-doppelschriftform-aufhebung-spezial/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

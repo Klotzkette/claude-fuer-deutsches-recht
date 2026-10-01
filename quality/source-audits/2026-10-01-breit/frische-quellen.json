@@ -1,0 +1,476 @@
+{
+  "scope": "Frische Lektüre amtlicher Quellen im dokumentierten Umfang; keine Zählung bloß wiederverwendeter Altprüfungen. Mehrfach verwendete Quellen nur einmal gezählt.",
+  "decision_count": 36,
+  "decisions_2026": 30,
+  "decisions": [
+    {
+      "citation": "BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tenor und Rn. 1–29",
+      "application": "Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht.",
+      "limit": "Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tenor und Gründe Rn. 1–44 vollständig",
+      "application": "Ersatzfax braucht wirksame Signatur; konkrete technische Unmöglichkeit glaubhaft machen; Wegfall des Hindernisses und Wiedereinsetzungsfrist getrennt erfassen.",
+      "limit": "Berufungsbegründung: Monatsfrist, keine Verlängerung durch bloße Stellungnahmefrist; Faxalternative nur bei Zumutbarkeit. Zurückverweisung, keine automatische Wiedereinsetzung.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tatbestand, Tenor und Gründe Rn. 1–33 vollständig",
+      "application": "Verschlechterte Erfolgsaussichten eigenständig bewerten und auch rechtsschutzversicherte Mandanten beraten, bevor Aussichtslosigkeit erreicht ist.",
+      "limit": "Beratungspflicht von Beweis der Kausalität, Schaden und Anscheinsbeweis unterscheiden; nur Zurückverweisung.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tatbestand, Tenor und Gründe Rn. 1–34 vollständig",
+      "application": "Reichweite einer Honorarabrede zuerst auslegen, dann Textform prüfen; formularmäßige Anerkennung von Zeitaufwand durch einmonatiges Schweigen auch B2B unwirksam.",
+      "limit": "Auslegungsumstände außerhalb des Texts ersetzen nicht den im Text erkennbaren Anwendungsbereich. Fehlerhafter Kostenerstattungshinweis vernichtet nicht automatisch Honorarabrede.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tenor, Sachverhalt und Rn. 1–27 vollständig",
+      "application": "Tatsächliche Mitnutzung nach §102 StPO von allein genutzten Räumen Nichtverdächtiger nach §103 StPO abgrenzen; dort konkrete Auffindeindizien verlangen.",
+      "limit": "Gemeinsame Anschrift, Briefkasten, Wohnprojektetikett und bloß möglicher Zutritt reichen nicht. Keine generelle Unzulässigkeit von WG-Durchsuchungen, kein automatisches Verwertungsverbot.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260114_1bvr140925.html",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Tenor und Rn. 1–19 vollständig",
+      "application": "Umgrenzungsfunktion anhand Gesamtschau vom eigenständigen Verhältnismäßigkeitsgebot trennen; Rechtsbehelfe der Gesellschaft und Geschäftsführerin unterscheiden.",
+      "limit": "Fehlender ausdrücklicher Tatzeitraum nicht stets fatal; entschiedener kurzer Betriebszeitraum und konkret getragener Verdacht. Verhältnismäßigkeit mangels Rüge nicht vertieft entschieden.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/iii_zr___8-25.pdf",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtlicher BGH-Volltext bei Curia: Kopf, Tenor und Rn. 1–37 vollständig",
+      "application": "Mindestlaufzeit auch beim erstmaligen Glasfaserdienstvertrag ab Vertragsschluss; §56Abs1 TKG verdrängt §309Nr9a BGB nicht.",
+      "limit": "Reine Herstellung der physischen Verbindung nach §56Abs2 TKG gesondert. Urteil betrifft konkrete Verbraucher-AGB, entscheidet keinen allgemeinen Schadensersatz.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Leitsätze, Tenor und Anspruch 1; tragende Gründe insbesondere Rn. 19–28 und 79–86, umliegende technische Erläuterungen ausschnittweise.",
+      "application": "Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen.",
+      "limit": "Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66",
+      "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+      "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050de.pdf",
+      "decision_year": 2026,
+      "evidence_kind": "official_press_release",
+      "checked_on": "2026-10-01",
+      "read_passages": "Gerichtliche Pressemitteilung 50/26 S. 1–2 vollständig; Volltextzugriff gescheitert, keine Randnummernprüfung",
+      "application": "Erkennbarer künstlerischer Dialog und wahrnehmbare Unterschiede; Pastiche für Kenner des Ausgangswerks erkennbar, gesonderter Nachweis subjektiver Absicht nicht nötig.",
+      "limit": "Pressemitteilung ist kein Urteilsvolltext; keine pauschale Remix-, Stil- oder Plagiatfreigabe. Nationale Entscheidung über konkretes Sampling bleibt gesondert.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Im parallelen Wirtschaftsprüfstrang Kopf/Tatbestand Rn. 1–15 und Gründe Rn. 16–35 gelesen; Übernahme des dokumentierten Prüfbefunds",
+      "application": "Fehlender Empfängername auf manuellem chipTAN-Generator schließt starke Authentifizierung hier nicht aus; IBAN/Betragsbindung und Onlinebanking-Anzeige berücksichtigen.",
+      "limit": "Rn27 und31 lassen weitergehende Grundsatzfragen zur dynamischen Verknüpfung bzw. genereller Namensanzeige offen; kein pauschaler Beweis grober Fahrlässigkeit.",
+      "group_reports": [
+        "prozess-digital.json",
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 07.07.2026 – XI ZR 129/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_129-24.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 17–44",
+      "application": "Entgeltinformation nach §5ZKG kann AGB enthalten; konkrete standardisierte Gutschriftklausel erfasste keine Storno-/Berichtigungsbuchungen.",
+      "limit": "Informationsüberschrift entscheidet nicht allein über Regelungscharakter; keine pauschale Unwirksamkeit aller Buchungsgebühren.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Beschluss vom 18.02.2026 – II ZB 2/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf/Tenor, Rn. 20–25, 32–38, 43–49",
+      "application": "Überschießende private Registerdaten nach Einwilligungswiderruf: ordnungsgemäße Ersatzfassung im öffentlichen Ordner nach §9Abs7HRV.",
+      "limit": "Pflichtangaben nicht pauschal entfernen; Original verbleibt in nicht allgemein öffentlicher Registerakte, notarielle Form beachten.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Beschluss vom 25.02.2026 – II ZB 13/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 8–29",
+      "application": "Geprüfte österreichische Onlinebeglaubigung nicht abstrakt gleichwertig; Verfahrensgarantien statt Einzelfallbemühung prüfen.",
+      "limit": "Keine allgemeine Zurückweisung ausländischer Präsenzbeglaubigungen; heutige Verfahrensnormen gesondert.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 21.04.2026 – II ZR 50/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 10–25",
+      "application": "Materielle Mitgliedschaftsfeststellung gegen GmbH kann trotz richtiger Liste nötig sein, wenn ernsthafte Bestreitung gegenwärtige Unsicherheit erzeugt.",
+      "limit": "Keine automatische Klage bei unstreitigem Status und keine materielle Eigentumsfeststellung durch Registergericht.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 16.06.2026 – II ZR 85/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf/Berichtigung vom14.07.2026, Rn. 12–32; tragend24–31",
+      "application": "Individuelle doppelte Schriftform grundsätzlich nicht mündlich abbedingen; Treuepflicht kann formgerechte rückwirkende Zustimmung verlangen.",
+      "limit": "Freiberuflersozietät, zurückverwiesen; weder automatische Heilung noch Übertragung auf §305bAGB oder gesetzliche Beurkundung.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 16.07.2026 – I ZR 200/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 16–36",
+      "application": "Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend.",
+      "limit": "Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "EuGH, Urteil vom 23.04.2026 – C-204/25, Kempen Advies Beerse",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0204",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 1–37 und Tenor; tragend23–36",
+      "application": "Zwingender Ausgleichsschutz besteht während Kündigungsfrist; Kenntnis der Kündigung bedeutet noch keinen Vertragsablauf nach Art15/19RL86/653.",
+      "limit": "Nicht jeder Vergleich verboten; eine vorzeitige Abweichung setzt ex ante feststehende Nachteilsfreiheit bei Vertragsende voraus. Deutsche Umsetzung §89bAbs4HGB und konkrete Frist getrennt.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "UK Supreme Court, Urteil vom 29.03.2017 – Wood v Capita, [2017] UKSC 24",
+      "url": "https://supremecourt.uk/uploads/uksc_2015_0212_judgment_bd11dce464.pdf",
+      "decision_year": 2017,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 9–16",
+      "application": "Wortlaut und Vertragskontext für SPA-Freistellung zusammen auslegen; Gewicht abhängig von Vertrag/Gestaltung.",
+      "limit": "Kein spezieller Entire-Agreement-/Misrepresentation-Anker.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 27.04.2021 – XI ZR 26/20",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2021,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 29–32 frisch; frühere18–32/38–40 wiederverwendet",
+      "application": "Unbeschränkte Zustimmungsfiktion ist unwirksam; sachliche Änderungsreichweite prüfen.",
+      "limit": "Kein allgemeines Formerfordernis ausdrücklicher Zustimmung zu jeder Vertragsänderung.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 20.03.2018 – XI ZR 309/16",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2016/XI_ZR_309-16.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2018,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 1–23; tragend11–20",
+      "application": "Umfassendes Bank-Aufrechnungsverbot gegenüber Verbrauchern unwirksam, weil es Widerrufsrückabwicklung erfasst; §309Nr3 genügt nicht allein.",
+      "limit": "Konkrete Sparkassenklausel und damaliges Widerrufsrecht; keine pauschale Gleichsetzung aller B2B-Klauseln.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2022,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 16–23",
+      "application": "Geschäftliche E-Mail während üblicher Geschäftszeiten mit Abrufbarkeit auf Empfängerserver zugegangen.",
+      "limit": "Privatempfang und außerhalb üblicher Zeiten ausdrücklich nicht entschieden; Absenden allein kein Zugangsbeweis.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 19.01.2017 – VII ZR 301/13",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2017,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 31–51",
+      "application": "Mängelrechte grundsätzlich nach Abnahme; beim endgültigen Abrechnungsverhältnis begrenzte Ausnahme, Vorschussverlangen allein genügt nicht.",
+      "limit": "Vor Abnahme Erfüllung/allgemeine Leistungsstörung erhalten; keine automatische Übertragung auf Kauf/Dienstleistung.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 20.03.2014 – VII ZR 248/13",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2014,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Kopf, Rn. 22–32",
+      "application": "Tatsächliches Zur-Disposition-Stellen des Klauselkerns belegen; bloße Verhandlungsbestätigung/Abwahl des AGB-Rechts reichen nicht.",
+      "limit": "Konkreter Bau-Sicherheitenfall begründet keine allgemeine Prozentgrenze.",
+      "group_reports": [
+        "wirtschaft.json"
+      ]
+    },
+    {
+      "citation": "BVerfG, Beschluss vom 24.03.2026, 2 BvL 3/18",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/03/ls20260324_2bvl000318.html",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtliche Entscheidungsseite: Leitsatz, Rn. 49–51, 54–59, 62–68; Zitierung auf 49–50, 58–59, 67–68 beschränkt.",
+      "application": "Die Zweitveröffentlichungsermächtigung des § 44 Absatz 6 LHG Baden-Württemberg ist wegen der ausschließlichen Bundeskompetenz für Urheberrecht nichtig. Konkrete Rechtsgrundlage der verlangten Publikation ermitteln.",
+      "limit": "Keine generelle Unzulässigkeit von Open Access oder jeder Promotionspublikationspflicht. Satzungsautonomie erweitert die Landeskompetenz nicht.",
+      "group_reports": [
+        "oeffentlich.json"
+      ]
+    },
+    {
+      "citation": "BVerwG, Beschluss vom 25.06.2026, 1 WB 64.25",
+      "url": "https://www.bverwg.de/de/250626B1WB64.25.0",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtliche Webansicht: Tenor und Rn. 19–40, verwendet Rn. 35–40. Direkter HTTP-Abruf war gesperrt, Webansicht lesbar.",
+      "application": "Zeitnahe Ablehnung mehrerer Dienstposten wegen derselben konkreten Kindeserkrankung belegt nicht schon fehlende grundsätzliche Mobilitätsbereitschaft. Auswahlzeitpunkt, frühere Verwendungen und Hinderungszeitraum abgleichen.",
+      "limit": "Laufbahnzulassung und konkrete Versetzung trennen; Neubescheidung, kein Wunschdienstposten. Fehlende Nachweise eines konkreten Hindernisses belegen keine innere Mobilitätsverweigerung.",
+      "group_reports": [
+        "oeffentlich.json"
+      ]
+    },
+    {
+      "citation": "BVerwG, Urteil vom 26.05.2026, 7 C 5.25",
+      "url": "https://www.bverwg.de/260526U7C5.25.0",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtliche Webansicht: Tenor und Rn. 1–17, verwendet 8–15. Vom auf derselben Seite vorangestellten Beschluss 7 B 1.25 aus 2025 getrennt.",
+      "application": "Die gerichtliche Begründungsfrist des § 6 UmwRG erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen bei Individual- und Verbandsklagen.",
+      "limit": "Keine pauschale Unzulässigkeit der ganzen Klage; Anwendungsbereich, rechtzeitiger Vortrag, Vertiefung, Entschuldigung und gesetzliche Ausnahme geringen Ermittlungsaufwands gesondert prüfen.",
+      "group_reports": [
+        "oeffentlich.json"
+      ]
+    },
+    {
+      "citation": "BVerwG, Urteil vom 23.04.2026, 3 C 2.25",
+      "url": "https://www.bverwg.de/230426U3C2.25.0",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtliche Webansicht: Tenor, Sachverhalt und Rn. 11–44; Rn. 25–45 gesondert nachgelesen; verwendet 17–29, 34–42. Auf derselben Seite stehenden Vorbeschluss aus 2025 getrennt.",
+      "application": "§§ 2 und 16a TierSchG ermöglichen Einschreiten auch ohne spezielle Putenhaltungsverordnung. Puteneckwerte 2013 sind kein antizipiertes Sachverständigengutachten; Dichte, Gruppengröße, Stallstruktur sowie Kosten und Wirkung von Verbesserungen zusammen prüfen.",
+      "limit": "Neubescheidung mit behördlicher Maßnahmenwahl, kein pauschaler Haltungsstopp und keine bundesweite feste Besatzgrenze.",
+      "group_reports": [
+        "oeffentlich.json"
+      ]
+    },
+    {
+      "citation": "BFH, Beschluss vom 04.03.2026, VI B 44/25 (AdV)",
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610056/",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Amtlicher Volltext: Tenor und Entscheidungsgründe II.1–6 gelesen, verwendet II.1–3.",
+      "application": "Ernstliche Zweifel an einem Einzelansatz tragen keine AdV, soweit gegenläufige Fehler desselben Bescheids die Entlastung aufzehren. Beide Korrekturen und verbleibenden Aussetzungsbetrag berechnen.",
+      "limit": "Verböserungsverbot beachten; keine Verrechnung beliebiger anderer Steuerjahre. Materielle Auslegung des § 50d Absatz 9 Satz 4 EStG blieb im Eilverfahren offen.",
+      "group_reports": [
+        "oeffentlich.json"
+      ]
+    },
+    {
+      "citation": "BAG, Urteil vom 29.01.2026, 8 AZR 49/25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Entscheidungskopf und Rn. 10–37; insbesondere Rn. 19–21, 24–27 und 31–37.",
+      "application": "Selektives Kopftuchverbot von allgemeiner Neutralität trennen; Mitursächlichkeit und objektive Handlungen des eingeschalteten Vermittlers prüfen.",
+      "limit": "§ 15 Abs. 2 AGG erfordert kein nach § 278 BGB zurechenbares Verschulden; Anforderungen sachlich belegen. Nicht jede Bekleidungsregel entschieden.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Entscheidungskopf, Tatbestand und Rn. 1–19; tragend Rn. 13–17.",
+      "application": "Anpassungsstichtag, Bezugszeitraum und Wirksamkeitsdatum einer Tariferhöhung anhand des konkreten BV-Wortlauts zuordnen.",
+      "limit": "Keine allgemeine Einjahresverzögerung und keine Entscheidung über § 16 BetrAVG.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "BGH, Beschluss vom 29.07.2026, XII ZB 171/26",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2026/XII_ZB_171-26.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Alle 7 PDF-Seiten einschließlich Rn. 1–12; tragend Rn. 5–11.",
+      "application": "Beschränkten Beschwerdegegenstand und fortbestehende Beteiligung des bestellten Verfahrenspflegers prüfen; anwaltliche Vertretung beendet Bestellung nicht automatisch.",
+      "limit": "Zurückverweisung zur Betreuerauswahl, keine automatische Aufhebung der gesamten Betreuung.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "BGH, Beschluss vom 13.05.2026, IV ZB 7/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Alle 13 PDF-Seiten, Rn. 1–26; tragend Rn. 8–25.",
+      "application": "Bei § 1933 BGB Scheidungsvoraussetzungen, Antrag/Zustimmung und wirksame Rücknahme beim Erbfall prüfen; 18 Jahre Stillstand ersetzen keine Rücknahme.",
+      "limit": "Keine automatische Enterbung jedes getrennten Ehegatten; testamentarische Berufung gesondert.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "BGH, Urteil vom 18.06.2026, I ZR 125/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1",
+      "decision_year": 2026,
+      "evidence_kind": "official_decision_named_passages",
+      "checked_on": "2026-10-01",
+      "read_passages": "Alle 16 PDF-Seiten, Rn. 1–41; insbesondere Rn. 14–25, 29–31 und 35.",
+      "application": "Vertraglich übernommene Verladung verschiebt Obhutsbeginn auf Besitzergreifung zum Verladen; konkrete Gerätezusage spricht regelmäßig für Übernahme der Ladepflicht.",
+      "limit": "Bloße Hebebühne/Fahrerhilfe genügt nicht; Mitverschulden und Schaden offen, kein endgültiger Vollersatz.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "EuG, Urteil vom 04.03.2026, T-656/24, European Air Charter; amtliche PM 26/26",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260026de.pdf",
+      "decision_year": 2026,
+      "evidence_kind": "official_press_release",
+      "checked_on": "2026-10-01",
+      "read_passages": "Pressemitteilung vollständig, beide Seiten einschließlich Fußnoten 1–4. EUR-Lex-Volltext wegen JavaScript-Prüfung nicht gelesen.",
+      "application": "Eigenständiges nicht zwingendes Warten kann als entscheidende Ursache die unmittelbare Kausalität zum außergewöhnlichen Ereignis beim Vorflug unterbrechen.",
+      "limit": "Amtliche Pressemitteilung, kein gelesener Urteilsvolltext und keine Randnummern; keine pauschale Aussage für jede Warteentscheidung.",
+      "group_reports": [
+        "privat-sozial.json"
+      ]
+    },
+    {
+      "citation": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler",
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038en.pdf",
+      "decision_year": 2026,
+      "evidence_kind": "official_press_release",
+      "checked_on": "2026-10-01",
+      "read_passages": "Englische amtliche Pressemitteilung 38/26 vollständig",
+      "application": "Erster Auskunftsantrag kann bei nachgewiesener künstlicher Herbeiführung eines Ersatzanspruchs exzessiv sein; Schaden und Kausalität eigenständig prüfen.",
+      "limit": "Nur amtliche Pressemitteilung frisch gelesen; kein Volltext, keine Urteilsrandnummer. Zahl früherer Anträge allein genügt nicht.",
+      "group_reports": [
+        "prozess-digital.json"
+      ]
+    }
+  ]
+}

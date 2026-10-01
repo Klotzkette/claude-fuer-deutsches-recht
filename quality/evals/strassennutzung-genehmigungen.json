@@ -517,31 +517,36 @@
         "citation": "BVerwG, Urteil vom 6. Juni 2024, 3 C 5.23, Rn. 39–63",
         "url": "https://ssl.bverwg.de/060624U3C5.23.0",
         "application": "Eigene erhebliche Gehwegbeeinträchtigung begründet begrenzten Bescheidungsanspruch.",
-        "limit": "Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet."
+        "limit": "Keine feste Restbreite, kein automatisches Abschleppen im Stadtgebiet.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Urteile vom 11. Dezember 2014, 3 C 6.13 und 3 C 7.13, Rn. 13–30",
         "url": "https://ssl.bverwg.de/111214U3C6.13.0",
         "application": "Bauzaun als mögliches Hindernis und Konzentration bei objektiv erforderlicher Verkehrsausnahme.",
-        "limit": "Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis."
+        "limit": "Landesrechtliche Zuständigkeit und fortbestehende Gebühren; nicht jede Sondernutzung ist Hindernis.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Beschluss vom 25. Juli 2019, 9 B 8.19, Rn. 3–5",
         "url": "https://www.bverwg.de/de/250719B9B8.19.0",
         "application": "Unterscheidung eigener Containerbedienung im Straßenraum von beliebigen Fremdparkern.",
-        "limit": "Nichtzulassungsbeschluss zu hessischem Recht, keine bundesweite Ladeninhaberhaftung."
+        "limit": "Nichtzulassungsbeschluss zu hessischem Recht, keine bundesweite Ladeninhaberhaftung.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13",
         "url": "https://www.bverwg.de/300614B9B6.14.0",
         "application": "Günstige Verkehrsanbindung nicht unveränderlich; Anliegerbelange abwägungsrelevant.",
-        "limit": "Planfeststellungskontext, keine feste Transportdistanz oder automatische Ausnahme."
+        "limit": "Planfeststellungskontext, keine feste Transportdistanz oder automatische Ausnahme.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "VG Minden, Beschluss vom 24. September 2021, 2 L 450/21, Rn. 13–20, 33–48, 71–80 und 101–103",
         "url": "https://nrwe.justiz.nrw.de/ovgs/vg_minden/j2021/2_L_450_21_Beschluss_20210924.html",
         "application": "Regelnde Poller, befristeter Versuch und behördliche Vollzugsfolgenbeseitigung.",
-        "limit": "Historische StVO-Fassung, Eilverfahren und keine private Abbaubefugnis."
+        "limit": "Historische StVO-Fassung, Eilverfahren und keine private Abbaubefugnis.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
@@ -549,6 +554,26 @@
       "Desk-/Quellenprüfung; zehn Evaluationsfälle nicht als Live-Modelltest ausgeführt.",
       "Keine Änderungen an den zehn gewöhnlichen Skills oder an QA/README.",
       "Workflow-Erweiterung: Paragrafen 70, 74, 75 und 123 VwGO sowie BVerwG 3 C 5.23 erneut amtlich gelesen. Direktabrufe von Paragraf 46 StVO und 80 VwGO scheiterten; deren vorhandene Aussagen wurden aus dem dokumentierten Vorreview übernommen, nicht als frisch verifiziert ausgegeben."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "strassennutzung-genehmigungen/references/strassenrecht-quellen.md",
+        "strassennutzung-genehmigungen/references/zitierweise.md",
+        "strassennutzung-genehmigungen/skills/anliegergebrauch-und-lieferzufahrt-sichern/SKILL.md",
+        "strassennutzung-genehmigungen/skills/antraege-rechtsbehelfe-und-eilrechtsschutz/SKILL.md",
+        "strassennutzung-genehmigungen/skills/gehwegparken-und-behoerdliches-einschreiten/SKILL.md",
+        "strassennutzung-genehmigungen/skills/halten-parken-und-ladeflaechen-klaeren/SKILL.md",
+        "strassennutzung-genehmigungen/skills/ladeninhaber-und-fremdparker-abgrenzen/SKILL.md",
+        "strassennutzung-genehmigungen/skills/schulstrasse-und-verkehrsanordnung-pruefen/SKILL.md",
+        "strassennutzung-genehmigungen/skills/sondernutzung-und-ausnahme-abstimmen/SKILL.md",
+        "strassennutzung-genehmigungen/strassennutzung-genehmigungen-schnellstart.md",
+        "strassennutzung-genehmigungen/strassennutzung-genehmigungen-werkstatt.md"
+      ],
+      "result": "Fünf Straßenanker samt Spezialreferenzen abgeglichen: eigener Gehwegbescheidungsanspruch, Bauzaun-Konzentration, Containerbedienung, Anbindung und Pollerversuch bleiben getrennt. Keine bundesweite feste Gehwegbreite oder private Pollerabbau-Befugnis.",
+      "search_2026": "Exakte 2026-Suche zu Gehwegparken und Bescheidungsanspruch ohne passenden neuen Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

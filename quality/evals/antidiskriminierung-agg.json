@@ -31,7 +31,9 @@
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/",
       "checked_on": "2026-10-01",
-      "supports": "Mitursächlichkeit, Vermittlung und berufliche Anforderungen."
+      "supports": "BAG, Urteil vom 29.01.2026, 8 AZR 49/25: Selektives Kopftuchverbot von allgemeiner Neutralität trennen; Mitursächlichkeit und objektive Handlungen des eingeschalteten Vermittlers prüfen. Grenze: § 15 Abs. 2 AGG erfordert kein nach § 278 BGB zurechenbares Verschulden; Anforderungen sachlich belegen. Nicht jede Bekleidungsregel entschieden. Gelesener Umfang: Entscheidungskopf und Rn. 10–37; insbesondere Rn. 19–21, 24–27 und 31–37.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "1b00cfc0fe663ce9bedbc767cfcf900e740d89ab0f4b2fcd08d278d8d47e7504"
     },
     {
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-269-24/",
@@ -397,19 +399,57 @@
         "citation": "BAG, Urteil vom 29.06.2017, 8 AZR 402/15",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-402-15/",
         "application": "Spracherwerb von erforderlicher Sprachleistung unterscheiden.",
-        "limit": "Kein pauschales Verbot guter Deutschkenntnisse."
+        "limit": "Kein pauschales Verbot guter Deutschkenntnisse.",
+        "checked_on": "2026-10-01",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BAG, Urteil vom 25.07.2024, 8 AZR 21/23",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-21-23/",
         "application": "Tatsachenkenntnis und Ausschlussfristen einzeln bestimmen.",
-        "limit": "Keine neue Frist durch spätere Rechtsberatung."
+        "limit": "Keine neue Frist durch spätere Rechtsberatung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BAG, Urteil vom 29.01.2026, 8 AZR 49/25",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-49-25/",
-        "application": "Gesamtwürdigung, Vermittlung und konkrete Anforderungen.",
-        "limit": "Nicht jedes Bekleidungsverbot gleichsetzen."
+        "application": "Selektives Kopftuchverbot von allgemeiner Neutralität trennen; Mitursächlichkeit und objektive Handlungen des eingeschalteten Vermittlers prüfen.",
+        "limit": "§ 15 Abs. 2 AGG erfordert kein nach § 278 BGB zurechenbares Verschulden; Anforderungen sachlich belegen. Nicht jede Bekleidungsregel entschieden.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "passages_read": "Entscheidungskopf und Rn. 10–37; insbesondere Rn. 19–21, 24–27 und 31–37.",
+        "evidence_sha256": "1b00cfc0fe663ce9bedbc767cfcf900e740d89ab0f4b2fcd08d278d8d47e7504"
+      },
+      {
+        "citation": "BAG, Urteil vom 23.11.2017, 8 AZR 372/16",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-372-16/",
+        "application": "Die Anforderung sehr guter Deutschkenntnisse trägt für sich genommen nicht ohne Weiteres die Vermutung ethnischer Benachteiligung. Untersuche daneben Auswahlpraxis, weitere Äußerungen und tatsächliche Anforderungen. Kein Freibrief für jedes Sprachniveau und kein Beweis allein aus dem Namen des Bewerbers.",
+        "limit": "Vorhandene Fallkarte und Quellenart übernommen; keine zusätzliche heutige Volltextprüfung dieses Ankers.",
+        "checked_on": "2026-10-01",
+        "verification_status": "wiederverwendete_fallkarte",
+        "passages_read": "Fallkarte ## 1.2. Erlernbare Sprachkenntnisse; bei I ZR 129/25 ausschließlich Pressemitteilung.",
+        "previous_review": "antidiskriminierung-agg/references/rechtsprechung.md"
+      },
+      {
+        "citation": "BAG, Urteil vom 23.10.2025, 8 AZR 269/24",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-269-24/",
+        "application": "Wer aus Monatsvergütungen unterschiedliche Bruttostundenlöhne ableitet, muss die zugrunde liegende Arbeitszeit darlegen. Vergleiche gleiche oder gleichwertige Arbeit sowie Grundlohn, Zulagen und Zeitraum. Die Entscheidung ersetzt weder den Nachweis vergleichbarer Arbeit noch begründet sie einen unbegrenzten Zugriff auf Personalakten.",
+        "limit": "Vorhandene Fallkarte und Quellenart übernommen; keine zusätzliche heutige Volltextprüfung dieses Ankers.",
+        "checked_on": "2026-10-01",
+        "verification_status": "wiederverwendete_fallkarte",
+        "passages_read": "Fallkarte ## 1.5. Entgeltvergleich braucht eine Stundenbasis; bei I ZR 129/25 ausschließlich Pressemitteilung.",
+        "previous_review": "antidiskriminierung-agg/references/rechtsprechung.md"
+      },
+      {
+        "citation": "BGH, Urteil vom 29.01.2026, I ZR 129/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026025.html",
+        "application": "Nach der amtlichen Pressemitteilung kann ein Wohnungsmakler für ethnische Benachteiligung bei der Auswahl von Mietinteressenten selbst nach Paragraf 21 Absatz 2 AGG haften. Vergleichbare Kontaktanfragen waren im konkreten Verfahren für den Indizienbeweis bedeutsam. Keine feste Entschädigungstabelle, kein allgemeiner Anspruch auf den Mietvertrag und keine Erlaubnis zu Identitätsmissbrauch. Quellenstatus hier: Pressemitteilung, keine weitergehenden Randnummern oder Aussagen zum Verschulden erfinden.",
+        "limit": "Vorhandene Fallkarte und Quellenart übernommen; keine zusätzliche heutige Volltextprüfung dieses Ankers.",
+        "checked_on": "2026-10-01",
+        "verification_status": "wiederverwendete_fallkarte",
+        "passages_read": "Fallkarte ## 1.6. Eigene Verantwortung des Wohnungsmaklers; bei I ZR 129/25 ausschließlich Pressemitteilung.",
+        "previous_review": "antidiskriminierung-agg/references/rechtsprechung.md"
       }
     ],
     "remaining_limits": [
@@ -445,5 +485,33 @@
       "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme."
     ],
     "sha256": "8960d08eaad198f60a3dede64378834361d9a8d27204280365464d1e716a1acc"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "erneut_gepruefter_anker",
+        "citation": "BAG, Urteil vom 29.01.2026, 8 AZR 49/25"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 23.11.2017, 8 AZR 372/16",
+        "status": "wiederverwendete_fallkarte"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 23.10.2025, 8 AZR 269/24",
+        "status": "wiederverwendete_fallkarte"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 29.01.2026, I ZR 129/25",
+        "status": "wiederverwendete_fallkarte"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

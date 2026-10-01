@@ -1,0 +1,275 @@
+{
+  "method": "Git-Diff gegenüber Arbeitszweig-Basis; Plugin-Inhaltsdateien ohne MEGAPROMPT.md. Generierte pluginbenannte Vollprüfungen können enthalten sein. Fachliche Einzelbewertung in Gruppenberichten.",
+  "plugin_count": 55,
+  "plugins": {
+    "agb-recht-pruefer": [
+      "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+      "agb-recht-pruefer/skills/agb-im-bankvertrag-sparkassen-und-banken/SKILL.md",
+      "agb-recht-pruefer/skills/bankvertrag-sparkassen-bauvertrag-vob/SKILL.md"
+    ],
+    "anlagen-zu-schriftsaetzen": [
+      "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+      "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md"
+    ],
+    "bank-rechtsabteilung": [
+      "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+      "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md"
+    ],
+    "bav-strategie-konzern": [
+      "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+      "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+      "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md"
+    ],
+    "berufsrecht-anwaelte": [
+      "berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md",
+      "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
+      "berufsrecht-anwaelte/skills/honorarvereinbarung-rvg/SKILL.md",
+      "berufsrecht-anwaelte/skills/honorarvereinbarung-und-rvg-transparenz-rechtsprechung/SKILL.md"
+    ],
+    "betreuungsrecht": [
+      "betreuungsrecht/betreuungsrecht-schnellstart.md",
+      "betreuungsrecht/betreuungsrecht-werkstatt.md",
+      "betreuungsrecht/skills/betreuungsgericht-kommunikation-angehoerige/SKILL.md",
+      "betreuungsrecht/skills/betreuungsgericht-kommunikation-fuer-angehoerige/SKILL.md"
+    ],
+    "bundeswehrrecht-wehrrecht": [
+      "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+      "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+      "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md"
+    ],
+    "common-law-kompass": [
+      "common-law-kompass/skills/ma-commercial-drafting/SKILL.md"
+    ],
+    "designrecht-geschmacksmusterrecht": [
+      "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-schnellstart.md",
+      "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md",
+      "designrecht-geschmacksmusterrecht/skills/design-und-urheberrecht-angewandte-kunst/SKILL.md"
+    ],
+    "diesel-schadensersatz": [
+      "diesel-schadensersatz/skills/18-vergleich-abfindung-nachzahlung/SKILL.md"
+    ],
+    "fachanwalt-agrarrecht": [
+      "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md"
+    ],
+    "fachanwalt-bank-kapitalmarktrecht": [
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md"
+    ],
+    "fachanwalt-erbrecht": [
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+      "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "fachanwalt-erbrecht/skills/gesetzliche-erbfolge-bestimmen/SKILL.md"
+    ],
+    "fachanwalt-gewerblicher-rechtsschutz": [
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md"
+    ],
+    "fachanwalt-strafrecht": [
+      "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+      "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md"
+    ],
+    "fachanwalt-transport-speditionsrecht": [
+      "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+      "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+      "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-ladungsschaden/SKILL.md",
+      "fachanwalt-transport-speditionsrecht/skills/frachtfuehrerhaftung-pruefen/SKILL.md",
+      "fachanwalt-transport-speditionsrecht/skills/ladungsschaden/SKILL.md",
+      "fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md"
+    ],
+    "fachanwalt-urheber-medienrecht": [
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
+      "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md"
+    ],
+    "fashion-law-moderecht": [
+      "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+      "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md"
+    ],
+    "fluggastrechte": [
+      "fluggastrechte/fluggastrechte-schnellstart.md",
+      "fluggastrechte/fluggastrechte-werkstatt.md",
+      "fluggastrechte/skills/airline-standardausreden-annullierung/SKILL.md",
+      "fluggastrechte/skills/airline-standardausreden-pruefen/SKILL.md",
+      "fluggastrechte/skills/anschluss-router/SKILL.md",
+      "fluggastrechte/skills/aussergewoehnliche-umstaende-strikt/SKILL.md",
+      "fluggastrechte/skills/aussergewoehnliche-umstaende/SKILL.md",
+      "fluggastrechte/skills/forderungsschreiben-mahnung-klage-amtsgericht/SKILL.md",
+      "fluggastrechte/skills/forderungsschreiben-mahnung/SKILL.md",
+      "fluggastrechte/skills/kaltstart-triage/SKILL.md"
+    ],
+    "gesellschaftsrecht": [
+      "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "gesellschaftsrecht/skills/gesellschafterliste-legitimation-und-widerspruch/SKILL.md",
+      "gesellschaftsrecht/skills/gesellschafterliste-registerstreit-legitimationswirkung/SKILL.md"
+    ],
+    "gesellschaftsrechtliche-treuepflicht": [
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md"
+    ],
+    "handelsregister-praxis": [
+      "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+      "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+      "handelsregister-praxis/skills/auslandsurkunden-apostille-legalisation-uebersetzung/SKILL.md",
+      "handelsregister-praxis/skills/registergericht-und-datenschutz/SKILL.md"
+    ],
+    "handelsvertreterrecht": [
+      "handelsvertreterrecht/handelsvertreterrecht-schnellstart.md",
+      "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+      "handelsvertreterrecht/skills/ausgleich-ausschlussgruende/SKILL.md",
+      "handelsvertreterrecht/skills/vergleich-verjaehrung-vermittlungsvertreter/SKILL.md",
+      "handelsvertreterrecht/skills/vergleich/SKILL.md"
+    ],
+    "hochschulrecht-laender": [
+      "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
+      "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
+      "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/SKILL.md"
+    ],
+    "insiderrecht-compliance": [
+      "insiderrecht-compliance/skills/aufschubentscheidung-market/SKILL.md",
+      "insiderrecht-compliance/skills/insiderinformation-zwischenschritte/SKILL.md",
+      "insiderrecht-compliance/skills/zwischenschritte-ma/SKILL.md"
+    ],
+    "insolvenzrecht": [
+      "insolvenzrecht/skills/antragspflicht-15a-17-19/SKILL.md",
+      "insolvenzrecht/skills/antragspflicht-15a-inso/SKILL.md",
+      "insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md",
+      "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md"
+    ],
+    "kanzlei-allgemein": [
+      "kanzlei-allgemein/kanzlei-allgemein-schnellstart.md",
+      "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
+      "kanzlei-allgemein/skills/bea-versand-pruefen/SKILL.md"
+    ],
+    "kanzlei-mandant-lifecycle": [
+      "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-schnellstart.md",
+      "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md",
+      "kanzlei-mandant-lifecycle/skills/budget-overrun-escalation/SKILL.md"
+    ],
+    "kartellrecht-marktabgrenzung-pruefung": [
+      "kartellrecht-marktabgrenzung-pruefung/skills/eugh-rechtsprechung-beweislast-jurisdiktion/SKILL.md",
+      "kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung/SKILL.md"
+    ],
+    "memorandums-ersteller": [
+      "memorandums-ersteller/memorandums-ersteller-schnellstart.md",
+      "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+      "memorandums-ersteller/skills/haftungsrisiko-rechtsanwalt-board-pack/SKILL.md"
+    ],
+    "patentrecherche": [
+      "patentrecherche/patentrecherche-schnellstart.md",
+      "patentrecherche/patentrecherche-werkstatt.md",
+      "patentrecherche/skills/erfinderische-taetigkeit-freedom-to-ki-patent/SKILL.md"
+    ],
+    "patentrecht": [
+      "patentrecht/patentrecht-schnellstart.md",
+      "patentrecht/patentrecht-werkstatt.md",
+      "patentrecht/skills/juristischer-argumentationskern/SKILL.md"
+    ],
+    "phishing-vorfall-pruefer": [
+      "phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md",
+      "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md"
+    ],
+    "private-equity-praxis": [
+      "private-equity-praxis/private-equity-praxis-schnellstart.md",
+      "private-equity-praxis/private-equity-praxis-werkstatt.md"
+    ],
+    "prozessrecht": [
+      "prozessrecht/prozessrecht-schnellstart.md",
+      "prozessrecht/prozessrecht-werkstatt.md",
+      "prozessrecht/skills/bea-wiedereinsetzung-ersatzeinreichung-2026/SKILL.md",
+      "prozessrecht/skills/start-chronologie-fristen/SKILL.md"
+    ],
+    "richter-amtsgericht-handelsregister": [
+      "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-schnellstart.md",
+      "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md"
+    ],
+    "richter-finanzgericht": [
+      "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
+      "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+      "gerichtsplugins/richter-finanzgericht/skills/03-aussetzung-der-vollziehung/SKILL.md"
+    ],
+    "roemisch-katholisches-kirchenrecht": [
+      "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md"
+    ],
+    "schriftform-und-textform-bgb": [
+      "schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md",
+      "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "schriftform-und-textform-bgb/skills/sftf-doppelschriftform-aufhebung-spezial/SKILL.md"
+    ],
+    "staatsanwaltschaft-amtsanwaltschaft": [
+      "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/skills/04-durchsuchung-und-beschlagnahme-antrag/SKILL.md",
+      "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md",
+      "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md"
+    ],
+    "staatsanwaltschaft-praxis-einstieg": [
+      "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/wohnungsdurchsuchung-gefahr-im-verzug/SKILL.md",
+      "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md",
+      "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md"
+    ],
+    "startup-gruender": [
+      "startup-gruender/startup-gruender-schnellstart.md",
+      "startup-gruender/startup-gruender-schnellstart.txt"
+    ],
+    "steuerrecht-anwalt-und-berater": [
+      "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md"
+    ],
+    "telekommunikationsrecht": [
+      "telekommunikationsrecht/skills/mindestvertragslaufzeit-tk-umzug/SKILL.md",
+      "telekommunikationsrecht/telekommunikationsrecht-schnellstart.md",
+      "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md"
+    ],
+    "tierschutzrecht": [
+      "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md",
+      "tierschutzrecht/tierschutzrecht-schnellstart.md",
+      "tierschutzrecht/tierschutzrecht-werkstatt.md"
+    ],
+    "umweltschutzverband-verbandsklage": [
+      "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md",
+      "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
+      "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md"
+    ],
+    "urheberrecht-de-eu": [
+      "urheberrecht-de-eu/skills/architektur-angewandte-kunst/SKILL.md",
+      "urheberrecht-de-eu/skills/sampling-pastiche-remix/SKILL.md",
+      "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+      "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md"
+    ],
+    "verbraucherschutzrecht-pruefer": [
+      "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-abo-kuendigung-button/SKILL.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md"
+    ],
+    "verbraucherschutzverband-durchsetzung": [
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md",
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md"
+    ],
+    "verfassungsrecht": [
+      "verfassungsrecht/verfassungsrecht-werkstatt.md"
+    ],
+    "verkehr-infrastrukturrecht": [
+      "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md",
+      "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md"
+    ],
+    "vertragserstellung": [
+      "vertragserstellung/references/fachquellen.md",
+      "vertragserstellung/skills/haftung-und-maengelrechte-abstimmen/SKILL.md",
+      "vertragserstellung/skills/leistung-mitwirkung-und-abnahme-ausformulieren/SKILL.md",
+      "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
+      "vertragserstellung/skills/vertragsrangfolge-und-agb-bereinigen/SKILL.md",
+      "vertragserstellung/vertragserstellung-hauptproblem.md",
+      "vertragserstellung/vertragserstellung-schnellstart.md",
+      "vertragserstellung/vertragserstellung-werkstatt.md"
+    ],
+    "vertragsrecht": [
+      "vertragsrecht/vertragsrecht-werkstatt.md"
+    ],
+    "weg-hausverwaltung": [
+      "weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md"
+    ],
+    "word-legal-ai-plugin-and-skill-for-german-lawyers": [
+      "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md",
+      "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md"
+    ]
+  }
+}

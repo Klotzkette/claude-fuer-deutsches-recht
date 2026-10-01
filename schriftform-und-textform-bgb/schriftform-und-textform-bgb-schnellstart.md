@@ -28,6 +28,8 @@ Ordne Original, Scan, E-Mail-Anhang, Portalnachricht und Briefversand jeweils zu
 
 Gerichtliche Einreichungen nach Paragraf 130a ZPO gesondert behandeln. [Paragraf 130e ZPO](https://www.gesetze-im-internet.de/zpo/__130e.html) und Paragraf 46h ArbGG enthalten eine Formfiktion für klar erkennbare Willenserklärungen in formgerecht elektronisch eingereichten und dem Empfänger zugestellten oder mitgeteilten vorbereitenden Schriftsätzen, auch bei Ausschluss elektronischer Ersetzung. Bloße Einreichung, direkte E-Mail und spätere gerichtliche Übermittlung nicht gleichsetzen; Vertretung und Zugangstag zusätzlich prüfen.
 
+[BGH, 16.06.2026 – II ZR 85/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1), Rn. 24–31: Individuelle doppelte Schriftformklausel grundsätzlich nicht mündlich abbedingen. Im Sozietätsfall kann Treuepflicht formwirksame rückwirkende Zustimmung verlangen; keine automatische Heilung. Individualabrede/AGB, Notwendigkeit, Zumutbarkeit und Form unterscheiden.
+
 ## 1.4. Ergebnis und sichere Korrektur
 
 „Der Prüfbericht gehört zur Vorversion“ lässt die aktuelle Signaturprüfung offen; daraus folgt noch kein nachgewiesener Formmangel. „Nur eine Partei hat die geänderte Fassung signiert“ führt zum Inhaltsabgleich beider Dokumente nach Paragraf 126a Absatz 2 BGB. „Der Schriftsatz wurde gestern nur eingereicht“ reicht nicht als gerichtliche Übermittlung nach Paragraf 130e ZPO. Passe den Vermerk und den noch möglichen Erklärungstext genau an diese Antwort an.

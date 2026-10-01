@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "berufsrecht-anwaelte",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/BJNR005650959.html",
@@ -47,31 +47,45 @@
       "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
       "checked_on": "2026-09-23",
       "supports": "Dienstleisterzugriff: Auswahl, Textformbindung, erforderlicher Zugang, weitere Personen, Auslandsschutz und Absatz 5 getrennt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tatbestand, Tenor und Gründe Rn. 1–34 vollständig. Reichweite einer Honorarabrede zuerst auslegen, dann Textform prüfen; formularmäßige Anerkennung von Zeitaufwand durch einmonatiges Schweigen auch B2B unwirksam. Grenze: Auslegungsumstände außerhalb des Texts ersetzen nicht den im Text erkennbaren Anwendungsbereich. Fehlerhafter Kostenerstattungshinweis vernichtet nicht automatisch Honorarabrede."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tatbestand, Tenor und Gründe Rn. 1–33 vollständig. Verschlechterte Erfolgsaussichten eigenständig bewerten und auch rechtsschutzversicherte Mandanten beraten, bevor Aussichtslosigkeit erreicht ist. Grenze: Beratungspflicht von Beweis der Kausalität, Schaden und Anscheinsbeweis unterscheiden; nur Zurückverweisung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Persönlicher Seitenwechsel und bloße Sozietätserstreckung bleiben getrennt; der Vergütungsverlust wird an eine tatsächlich festgestellte Kollision geknüpft. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Persönliches Verbot und Textformzustimmung zur Erstreckung präzisiert.",
       "Vertragsnichtigkeit und Wegfall vertraglicher Vergütung aus IX ZR 241/14 eingeordnet.",
       "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
       "Leer: Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung. Dateien: still lesen und Annahmevotum, Absage oder Regelung konkret auswählen lassen. Klar: bestelltes Dokument ohne Aufnahmeformular erstellen.",
-      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe."
+      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "5b1453f02d587efa149a5c2819e9d8e51b2e08c8af03407998cce7bc9f3a41ac"
+    "sha256": "7035b68954d2a83ee51696b237a70af40b4f4078e543042161be3f6234b3cc26",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Der Mandatsvergleich erhält eine belastbare Vertragsfolge; die fehlende Kollision im entschiedenen Gebührenmodell verhindert eine überweite Anwendung. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Persönliches Verbot und Textformzustimmung zur Erstreckung präzisiert.",
       "Vertragsnichtigkeit und Wegfall vertraglicher Vergütung aus IX ZR 241/14 eingeordnet.",
       "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
       "Mandatswechsel, wirksame Schutzorganisation, Dienstleisterketten, Teilzuordnung von Fremdgeld und Beweiswert von Versandprotokollen vertieft.",
-      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe."
+      "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "514e7b3c2d3106b12808be03161f389f53555106320e23cdf34f17144475c1b7"
+    "sha256": "2698c1db2d53404c192fe8c63fb0fa92e84b9a0b5497241a1a4dcfc74f9a9d51",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -130,7 +144,7 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
       "berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md",
@@ -149,6 +163,18 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_241-14.pdf?__blob=publicationFile&v=1",
         "application": "Tatsächlicher Verstoß gegen das persönliche Tätigkeitsverbot führt über Paragraf 134 BGB zu Vertragsnichtigkeit und Wegfall vertraglicher Vergütung.",
         "limit": "Im entschiedenen Fall lag gerade kein Interessenwiderstreit vor; Gebühreninteresse genügte nicht. Heutige Erstreckungsausnahmen im geänderten Paragraf 43a Absatz 4 BRAO gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1",
+        "application": "Reichweite einer Honorarabrede zuerst auslegen, dann Textform prüfen; formularmäßige Anerkennung von Zeitaufwand durch einmonatiges Schweigen auch B2B unwirksam.",
+        "limit": "Auslegungsumstände außerhalb des Texts ersetzen nicht den im Text erkennbaren Anwendungsbereich. Fehlerhafter Kostenerstattungshinweis vernichtet nicht automatisch Honorarabrede."
+      },
+      {
+        "citation": "BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1",
+        "application": "Verschlechterte Erfolgsaussichten eigenständig bewerten und auch rechtsschutzversicherte Mandanten beraten, bevor Aussichtslosigkeit erreicht ist.",
+        "limit": "Beratungspflicht von Beweis der Kausalität, Schaden und Anscheinsbeweis unterscheiden; nur Zurückverweisung."
       }
     ],
     "remaining_limits": [

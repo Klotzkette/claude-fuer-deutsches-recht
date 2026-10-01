@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "phishing-vorfall-pruefer",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__675w.html",
@@ -67,30 +67,39 @@
       "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-02/xi_zr_107-24.pdf",
       "checked_on": "2026-09-23",
       "supports": "Amtlich bereitgestellter BGH-Volltext XI ZR 107/24, Randnummern 25 bis 39 erneut gelesen: konkrete Zahlung für starke Authentifizierung, eigenständige Gesamtwürdigung und Bankmitverschulden; keine pauschale Haftung sämtlicher Phishingopfer."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Im parallelen Wirtschaftsprüfstrang Kopf/Tatbestand Rn. 1–15 und Gründe Rn. 16–35 gelesen; Übernahme des dokumentierten Prüfbefunds. Fehlender Empfängername auf manuellem chipTAN-Generator schließt starke Authentifizierung hier nicht aus; IBAN/Betragsbindung und Onlinebanking-Anzeige berücksichtigen. Grenze: Rn27 und31 lassen weitergehende Grundsatzfragen zur dynamischen Verknüpfung bzw. genereller Namensanzeige offen; kein pauschaler Beweis grober Fahrlässigkeit."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 einzeln gelesen und überarbeitet: drei Einstiegsarten, konkrete Nachfrage zur Zahlungsanzeige und fortgeschriebene Restforderung im benannten Reklamationstext; bestehende BGH-Abgrenzungen erhalten. Desk Review ohne Live-Ausführung.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
       "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
       "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
-      "2026-09-23: Leere Eingabe, Dateien ohne Auftrag und klare Aufgabe ausdrücklich getrennt; Anzeigeart und weitere Gutschrift als konkrete Fortsetzungsfälle."
+      "2026-09-23: Leere Eingabe, Dateien ohne Auftrag und klare Aufgabe ausdrücklich getrennt; Anzeigeart und weitere Gutschrift als konkrete Fortsetzungsfälle.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "b09646b798e4c69321d104ed8165af34f8b29bfc25e166991ea45ab0f301d91b"
+    "sha256": "dc7251428e17bcc63d91ddcd21dc27b5a261b18684d9cec08cc6d65eb5eb4969",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 2026-09-23 vollständig gelesen und individuell ergänzt: widersprechende Freigabedaten, Fernzugriff, Meldungszeitfolge, Kontofolgen und tragende Bankablehnungsgründe führen zu konkreten Dokumentänderungen. Spezialgebiete und frühere Rechtsabgrenzungen erhalten; keine Live-Ausführung.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "XI ZR 91/14 und XI ZR 107/24 mit technischen Voraussetzungen und Fallgrenzen eingearbeitet.",
       "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
       "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
       "2026-09-23: Sitzungszuordnung, abgebrochene Versuche und nachträgliche Umsatzanzeigen von Freigabedialogen getrennt; Meldung und Instrumentverwendung zeitlich zugeordnet.",
-      "2026-09-23: Vorläufige Gutschrift, belastungsbedingte Kontofolgen, zielgerichtete Ablehnungserwiderung und vollständige Fortsetzung in bankreklamation.md beziehungsweise Nutzerpfad ergänzt."
+      "2026-09-23: Vorläufige Gutschrift, belastungsbedingte Kontofolgen, zielgerichtete Ablehnungserwiderung und vollständige Fortsetzung in bankreklamation.md beziehungsweise Nutzerpfad ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "fdfd6ab8c7521fee151badd1a9ff82b4dcfa757685beeac78d170a6de9ce4413"
+    "sha256": "6898606766fac8826f622e9b5db441ee007968159e3d5b26a512fd93a7e30461",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -137,7 +146,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "phishing-vorfall-pruefer/README.md",
@@ -162,6 +171,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_107-24.pdf?__blob=publicationFile&v=1",
         "application": "Starke Kundenauthentifizierung des Zahlungsvorgangs vom Login trennen; Bankmitverschulden eigenständig prüfen.",
         "limit": "Konkreter Telefon-/chipTAN-Sachverhalt, keine pauschale grobe Fahrlässigkeit aller Phishingopfer."
+      },
+      {
+        "citation": "BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+        "application": "Fehlender Empfängername auf manuellem chipTAN-Generator schließt starke Authentifizierung hier nicht aus; IBAN/Betragsbindung und Onlinebanking-Anzeige berücksichtigen.",
+        "limit": "Rn27 und31 lassen weitergehende Grundsatzfragen zur dynamischen Verknüpfung bzw. genereller Namensanzeige offen; kein pauschaler Beweis grober Fahrlässigkeit."
       }
     ],
     "remaining_limits": [

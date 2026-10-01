@@ -135,13 +135,15 @@
         "citation": "EuGH, Urteil vom 11. Mai 2006, C-340/04, Carbotermo, Rn. 36–40",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62004CJ0340",
         "application": "Eigentum ersetzt keine Steuerungsrechte bei autonomer Geschäftsleitung.",
-        "limit": "Historisches Vergaberecht; keine heutige Tätigkeitsquote und kein generelles Holdingverbot."
+        "limit": "Historisches Vergaberecht; keine heutige Tätigkeitsquote und kein generelles Holdingverbot.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Urteil vom 15. April 2015, 8 C 6.14, Rn. 14–26",
         "url": "https://ssl.bverwg.de/150415U8C6.14.0",
         "application": "Untersagung zum Behördenentscheidungszeitpunkt; spätere Besserung gesondert.",
-        "limit": "Kein starrer Schuldenbetrag und kein pauschales insolvenzrechtliches Vollstreckungsverbot."
+        "limit": "Kein starrer Schuldenbetrag und kein pauschales insolvenzrechtliches Vollstreckungsverbot.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
@@ -150,7 +152,18 @@
       "GewO-Zitat 8 B 6.23 aus Altfassung nicht verifiziert und entfernt.",
       "Ordentlicher Skill oew-006-inhouse-vergabe-pruefen gelesen, außerhalb Schreibbereich und unverändert; dort nur generisches Prüfschema.",
       "Workflow-Nachprüfung 2026-09-23: Frühere Quellenprüfung als datierter Nachweis erhalten. GWB Paragraf 108 im Gesamttext und BVerwG-Gründe erneut zugänglich; Carbotermo-Abruf lieferte diesmal keinen lesbaren Entscheidungstext, GewO-Einzelseiten Abruffehler. Keine erneute Vollverifikation dieser Quellen behauptet; kein Live-Mandat, keine Rats- oder Behördenausführung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-schnellstart.md",
+        "oeffentliches-wirtschaftsrecht/oeffentliches-wirtschaftsrecht-werkstatt.md"
+      ],
+      "result": "Inhouse-Steuerungsrechte werden nicht allein aus Eigentum abgeleitet. Gewerbeuntersagung prüft Zuverlässigkeit zum maßgeblichen Zeitpunkt; spätere Besserung und Insolvenzschutz bleiben gesondert.",
+      "search_2026": "2026-Curia-Treffer zur Abfallvergabe/Jelgava war als Schlussantrags-/Dokumenttreffer nicht hinreichend als Urteil verifiziert; keine neue Inhouse-Regel daraus abgeleitet.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

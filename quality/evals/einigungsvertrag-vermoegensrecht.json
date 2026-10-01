@@ -113,14 +113,26 @@
         "citation": "BVerwG, Urteil vom 27.11.2019, Az. 8 C 13.18, Randnummern 24 bis 31",
         "url": "https://www.bverwg.de/271119U8C13.18.0",
         "application": "Pauschale Altanmeldung auf konkrete zum Vermögenswert führende Ermittlungsansätze prüfen; Präzisierung nicht mit Austausch oder Neuanmeldung verwechseln.",
-        "limit": "Rückgabe von Büchern nach AusglLeistG; dessen Sonderfrist nicht auf Grundstücke übertragen, Anspruchsgrund und Objekt weiterhin gesondert prüfen."
+        "limit": "Rückgabe von Büchern nach AusglLeistG; dessen Sonderfrist nicht auf Grundstücke übertragen, Anspruchsgrund und Objekt weiterhin gesondert prüfen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "Amtlichen Entscheidungstext insbesondere Randnummern 19 bis 31 gelesen; keine Vollverifikation sämtlicher Treuhand-, Bodenreform-, Partei- oder Zuordnungsvarianten.",
       "Workflow-Review 23.09.2026: Paragraf 30a VermG erneut eingesehen; Frist 31.12.1992 nur für den einschlägigen Anwendungsbereich und mit Sonderregeln. Vorhandene BVerwG-Grenzen erhalten."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md",
+        "einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md"
+      ],
+      "result": "Altanmeldung und spätere Konkretisierung bleiben getrennt. Die AusglLeistG-Frist des Bücherfalls wird nicht auf Grundstücksrückgabe übertragen.",
+      "search_2026": "Suche nach 2026-VermG-Altanmeldungsfällen ergab ältere Entscheidungen, keinen passenden neuen Fall verifiziert.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -25,6 +25,8 @@ Frage nach entscheidenden Lücken auch bei vorhandenen Dateien. Ein Beschlussvor
 4. Verlangtes Verhalten, Alternativen, Eilbedarf und passende Rechtsfolge des Treuepflichtverstoßes bestimmen.
 5. Die begründete Bewertung in das bestellte Dokument überführen.
 
+[BGH, 16.06.2026 – II ZR 85/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1), Rn. 24–31: Individuelle doppelte Schriftformklausel grundsätzlich nicht mündlich abbedingen. Im Sozietätsfall kann Treuepflicht formwirksame rückwirkende Zustimmung verlangen; keine automatische Heilung. Individualabrede/AGB, Notwendigkeit, Zumutbarkeit und Form unterscheiden.
+
 ## 1.4. Nachweise zu Notwendigkeit und Belastung
 
 Fehlen bei einer verlangten Sanierungszustimmung Angaben zum drohenden Verlust oder zu Alternativen, frage nach Liquiditätsplanung, Finanzierungsangeboten und der konkreten Belastung des betroffenen Gesellschafters. Gleiche die Antwort mit den bisherigen Unterlagen ab und aktualisiere Notwendigkeits- und Zumutbarkeitsprüfung. Formuliere danach das bestellte Gutachten oder Aufforderungsschreiben fertig.

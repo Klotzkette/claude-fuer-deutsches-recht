@@ -18,6 +18,8 @@ Prüfe [Paragraf 16 BetrAVG](https://www.gesetze-im-internet.de/betravg/__16.htm
 
 Erfasse Rentenbeginn, letzte Prüfung, Zusagetext, Finanzierung und tatsächliche Überschussverwendung, bevor eine Ausnahme bejaht wird. Entgeltumwandlung nach Absatz 5 zusätzlich unterscheiden. Keine pauschale automatische Bindung aller Systeme an den Verbraucherpreisindex behaupten. Berechnung, wirtschaftliche Bewertung und Beschlussentwurf getrennt ausweisen; fehlende Index- oder Finanzdaten nicht erfinden.
 
+BAG, Urteil vom 12.05.2026 – 3 AZR 159/25, [Rn. 13–17](https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/): Bei der dortigen Betriebsvereinbarung erfasste die jährliche Anpassung am 1. Juli nur Tariferhöhungen bis zum Vortag. Eine zum 1. Juli 2023 wirksame Tariferhöhung floss deshalb erst zum 1. Juli 2024 ein. Fordere Klauselwortlaut, Referenzzeitraum und Wirksamkeitsdatum an und ordne die Erhöhung dem richtigen Anpassungstermin zu. Keine allgemeine einjährige Verzögerung aller Betriebsrenten und keine Entscheidung über die gesetzliche Anpassungsprüfung nach Paragraf 16 BetrAVG.
+
 ## 1.3. Harmonisierung ohne Besitzstandsverlust zu verdecken
 
 Vergleiche Alt- und Neuregelung nach konkreten Kohorten: aktive Beschäftigte, ausgeschiedene Berechtigte und Rentner. Bereits erdiente Positionen, künftige Dynamik und künftigen Erwerb getrennt erfassen. Das einschlägige Änderungsinstrument, tarifliche Bindungen, Mitbestimmung und gegebenenfalls gestufte Eingriffsrechtfertigung amtlich prüfen. Eine bloße Kostenersparnis nicht als universelle Änderungsbefugnis behandeln.

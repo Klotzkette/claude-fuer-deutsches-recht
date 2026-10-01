@@ -12,6 +12,16 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Beschluss vom 19.09.2023 - II ZB 15/22, Rn. 8 bis 12: Bei aus Gerichtssicht unbehebbarem Eintragungshindernis keinen Rücknahmehinweis als Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG ausgeben; Ablehnungsbeschluss nach Absatz 3 erforderlich. Grenze: Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Materielle Besonderheiten der Sparkassenvereinigung nicht auf jede Gesellschaft übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Tenor, Rn. 20–25, 32–38, 43–49. Überschießende private Registerdaten nach Einwilligungswiderruf: ordnungsgemäße Ersatzfassung im öffentlichen Ordner nach §9Abs7HRV. Grenze: Pflichtangaben nicht pauschal entfernen; Original verbleibt in nicht allgemein öffentlicher Registerakte, notarielle Form beachten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 8–29. Geprüfte österreichische Onlinebeglaubigung nicht abstrakt gleichwertig; Verfahrensgarantien statt Einzelfallbemühung prüfen. Grenze: Keine allgemeine Zurückweisung ausländischer Präsenzbeglaubigungen; heutige Verfahrensnormen gesondert."
     }
   ],
   "mini_review": {
@@ -23,7 +33,7 @@
       "Entscheidungsform Beschluss präzisiert.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "0df9a75802811c7f665216e95741b5bb7cedaff3087649d1fc6686264b4fbd12"
+    "sha256": "df95ca20e288c0e4c0e660bf1e97660fa55ec05392cdd9151787c73eefdad7c6"
   },
   "selection": {
     "positive": [
@@ -78,7 +88,7 @@
       "Entscheidungsform Beschluss präzisiert.",
       "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform."
     ],
-    "sha256": "80a32728b87c3411deb83005fad2fb20223ad247bef260a3136f5c6949513419"
+    "sha256": "c1cb837c98bba2e2eda4ebd2c8f02c9e908b238563f8dd34aea53730b1246065"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -100,6 +110,22 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
         "application": "Bei aus Gerichtssicht unbehebbarem Eintragungshindernis keinen Rücknahmehinweis als Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG ausgeben; Ablehnungsbeschluss nach Absatz 3 erforderlich.",
         "limit": "Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Materielle Besonderheiten der Sparkassenvereinigung nicht auf jede Gesellschaft übertragen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 18.02.2026 – II ZB 2/25, Kopf/Tenor, Rn. 20–25, 32–38, 43–49",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+        "application": "Überschießende private Registerdaten nach Einwilligungswiderruf: ordnungsgemäße Ersatzfassung im öffentlichen Ordner nach §9Abs7HRV.",
+        "limit": "Pflichtangaben nicht pauschal entfernen; Original verbleibt in nicht allgemein öffentlicher Registerakte, notarielle Form beachten.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
+      },
+      {
+        "citation": "BGH, Beschluss vom 25.02.2026 – II ZB 13/24, Kopf, Rn. 8–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+        "application": "Geprüfte österreichische Onlinebeglaubigung nicht abstrakt gleichwertig; Verfahrensgarantien statt Einzelfallbemühung prüfen.",
+        "limit": "Keine allgemeine Zurückweisung ausländischer Präsenzbeglaubigungen; heutige Verfahrensnormen gesondert.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -119,5 +145,17 @@
     "continuation": "Neue Beschlussfassung -> Nachweis/Anlagen; abweichende Vertretungsregel -> Unterzeichnerkreis; Ablehnung -> Rechtsbehelf statt Nachreichung prüfen.",
     "enrichment": "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+      "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+      "handelsregister-praxis/skills/auslandsurkunden-apostille-legalisation-uebersetzung/SKILL.md",
+      "handelsregister-praxis/skills/registergericht-und-datenschutz/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

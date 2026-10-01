@@ -32,6 +32,13 @@
       "url": "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Normtext zu Statusfeststellung, laufenden Verfahren und Drittbeziehungen gelesen; Prognose und tatsächliche Durchführung unterscheiden."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-30",
+      "supports": "BSG, Urteil vom 23.07.2026, B 12 BA 10/24 R; Terminbericht 24/26 Nummer 4 PDF-Seite 4: Satzungsmäßig verbindlichen Stichentscheid trotz 50/50 prüfen. Grenze: Amtlicher Bericht, keine Urteilsrandnummern; keine pauschale Abkehr von der 50-Prozent-Rechtsprechung. Gelesener Umfang: Amtlicher Bericht, keine Urteilsrandnummern; keine pauschale Abkehr von der 50-Prozent-Rechtsprechung.",
+      "verification_status": "wiederverwendeter_passagennachweis",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
     }
   ],
   "mini_review": {
@@ -125,7 +132,19 @@
         "citation": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
         "application": "Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen.",
-        "limit": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen."
+        "limit": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 10/24 R; Terminbericht 24/26 Nummer 4 PDF-Seite 4",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Satzungsmäßig verbindlichen Stichentscheid trotz 50/50 prüfen.",
+        "limit": "Amtlicher Bericht, keine Urteilsrandnummern; keine pauschale Abkehr von der 50-Prozent-Rechtsprechung.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+        "passages_read": "Amtlicher Bericht, keine Urteilsrandnummern; keine pauschale Abkehr von der 50-Prozent-Rechtsprechung."
       }
     ],
     "remaining_limits": [
@@ -160,5 +179,19 @@
     ],
     "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
     "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 10/24 R; Terminbericht 24/26 Nummer 4 PDF-Seite 4",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

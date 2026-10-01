@@ -110,7 +110,9 @@
         "citation": "BVerwG, Urteil vom 14.04.2011, 3 C 17.10",
         "url": "https://www.bverwg.de/140411U3C17.10.0",
         "application": "Versorgungsvertrag bindet die Krankenhausplanung nicht automatisch; eigenen Aufnahmeanspruch nach Planungsmaßstäben prüfen.",
-        "limit": "Volltext Rn. 12 bis 23; keine Entscheidung über heutige Leistungsgruppen oder konkrete Förderhöhe."
+        "limit": "Volltext Rn. 12 bis 23; keine Entscheidung über heutige Leistungsgruppen oder konkrete Förderhöhe.",
+        "checked_on": "2026-09-22",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       }
     ],
     "remaining_limits": [
@@ -130,5 +132,13 @@
     "continuation": "Förderbescheid verändert in finanzierung.md Deckung und Abruf; Befund oder Empfangsbeleg verändert in md-erwiderung.md die konkrete Kürzung, Anlagen und Restforderung. Nutzerpfad geht vor.",
     "enrichment": "Standortbezogener Personal- und Kooperationsnachweis, Ausbauabsicht gegenüber verfügbarer Struktur, Förderlücke mit 12/4/6 Millionen Euro und Zwischenfinanzierung, Personal-Doppelansätze sowie erbrachte, dokumentierte und rechtzeitig übermittelte Leistung getrennt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

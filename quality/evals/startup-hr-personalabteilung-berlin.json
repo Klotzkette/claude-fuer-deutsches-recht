@@ -114,7 +114,9 @@
         "citation": "BAG, Beschluss vom 13.09.2022, 1 ABR 22/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/",
         "application": "Beginn und Ende einschließlich Überstunden erfassen; Betriebsrat gestaltet gesetzlich offenen Rahmen mit, entscheidet nicht über das gesetzliche Ob.",
-        "limit": "Volltext Rn. 42 bis 43 und 60 bis 67; keine Pflicht zu elektronischer Form und keine Erlaubnis dauernder Bildschirmüberwachung."
+        "limit": "Volltext Rn. 42 bis 43 und 60 bis 67; keine Pflicht zu elektronischer Form und keine Erlaubnis dauernder Bildschirmüberwachung.",
+        "checked_on": "2026-09-22",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       }
     ],
     "remaining_limits": [
@@ -134,5 +136,13 @@
     "continuation": "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
     "enrichment": "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

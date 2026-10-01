@@ -117,14 +117,26 @@
         "citation": "OVG NRW, Beschluss vom 5. Mai 2025, 19 A 1077/23, Rn. 9 bis 19",
         "url": "https://nrwe.justiz.nrw.de/ovgs/ovg_nrw/j2025/19_A_1077_23_Beschluss_20250505.html",
         "application": "Dokumentierte Gewalttatsachen, tatsächliche Anhörungsgelegenheit und konkrete Dringlichkeit prüfen; mehrere Ordnungsmaßnahmen eigenständig würdigen.",
-        "limit": "Berufungszulassungsentscheidung nach NRW-Recht; keine Vermutung zulasten jedes streitenden Schülers und keine ungeprüfte Übertragung auf andere Länder."
+        "limit": "Berufungszulassungsentscheidung nach NRW-Recht; keine Vermutung zulasten jedes streitenden Schülers und keine ungeprüfte Übertragung auf andere Länder.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Paragraf 53 SchulG NRW und amtlicher Beschluss geprüft; nicht alle 16 Landesgesetze und schulischen Ordnungen neu verifiziert.",
       "Desk-/Quellenreview, kein Live-Schulfall oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: NRW-Beispiel, keine neue Verifikation aller 16 Landesrechte. Bereits geprüfte Gründe zu OVG NRW 19 A 1077/23 mit vorhandener Reichweite übernommen, nicht als erneut vollständig gelesen bezeichnet. Desk review; keine Live-Client-Ausführung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "schulrecht-laender/schulrecht-laender-schnellstart.md",
+        "schulrecht-laender/schulrecht-laender-werkstatt.md"
+      ],
+      "result": "NRW-Ordnungsmaßnahmen prüfen Gewalttatsachen, Anhörungsgelegenheit und Dringlichkeit separat; keine Übertragung auf beliebige Schulfälle oder andere Länder.",
+      "search_2026": "Exakte amtliche 2026-Suche zu NRW-Unterrichtsausschluss und Ordnungsmaßnahmen ohne passenden neuen Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

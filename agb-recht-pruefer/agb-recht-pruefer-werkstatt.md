@@ -106,6 +106,8 @@ Bei Verweisen auf Preislisten, technische Dokumentationen oder Nutzungsregeln pr
 
 ### 9.1. Kontrollfähigkeit an der Funktion der Regelung prüfen
 
+Eine Entgeltinformation nach Paragraf 5 ZKG kann AGB enthalten, wenn Kunden darin eine Vertragsregel sehen: [BGH, Urteil vom 07.07.2026 – XI ZR 129/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_129-24.pdf?__blob=publicationFile&v=1), Rn. 17–27, 35–42. Frage nach Dokumentzweck, standardisierten Begriffen und Vertragsumfeld. Die dortige 0,50-Euro-Gutschriftklausel erfasste nach Auslegung gerade keine Storno- oder Berichtigungsbuchungen; das Urteil erklärt nicht jede Entgeltinformation oder Buchungsgebühr für unwirksam.
+
 Bestimme, ob die Klausel die echte Hauptleistung beschreibt oder gesetzliche Pflichten einschränkt, modifiziert oder zusätzlich bepreist. Die Bezeichnung als Leistungsbeschreibung entscheidet dies nicht. Frage etwa, ob ein Entgelt eine eigenständig angebotene Leistung vergütet oder eine ohnehin geschuldete Tätigkeit des Verwenders auf den Kunden verlagert. Stelle die genaue gesetzliche Ausgangslage fest, bevor die Klausel mit einem vermeintlichen Leitbild verglichen wird.
 
 [Paragraf 307 Absatz 3 BGB](https://www.gesetze-im-internet.de/bgb/__307.html) begrenzt die Inhaltskontrolle, lässt aber die dort angeordnete Transparenzkontrolle zu. BGH, Urteil vom 07.04.2022, Az. I ZR 212/20, Randnummer 43, erläutert die enge Freistellung der Hauptleistungsbeschreibung. Die [Kontrollmaßstabsreferenz](skills/klauselinhalt-und-verbote-pruefen/references/kontrollmassstab.md) ordnet den Beleg und die Rechtfertigung einer Leitbildabweichung zu. Kein Ergebnis allein aus dem Etikett „Preis“, „Service“ oder „Hauptpflicht“ ableiten.

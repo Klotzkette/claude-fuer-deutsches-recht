@@ -136,13 +136,25 @@
         "citation": "EuGH, Urteil vom 28. Mai 2020, C-535/18, Randnummern 76 und 119",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62018CJ0535",
         "application": "Mögliche Gewässerwirkungen vor Zulassung untersuchen; chemische Grundwasserverschlechterung anhand einzelner Messstellen statt allein aggregierter Werte beurteilen.",
-        "limit": "Keine Entscheidung, dass jede Entnahme verboten ist; mengenmäßiger Zustand und gesetzliche Ausnahmevoraussetzungen bleiben eigenständig."
+        "limit": "Keine Entscheidung, dass jede Entnahme verboten ist; mengenmäßiger Zustand und gesetzliche Ausnahmevoraussetzungen bleiben eigenständig.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
       "EuGH-Identität und Entscheidungsbeginn direkt amtlich gelesen; maßgebliche Randnummern 75–84 sowie 109–119 aus indexierten amtlichen EUR-Lex-Volltextpassagen und amtlichem Entscheidungstenor verifiziert. Wiederholter Direktabruf des gesamten Textes durch Zugriffsschutz blockiert; keine vollständige Gesamtlektüre behauptet.",
       "Paragraf 13 BImSchG und Paragrafen 8, 12, 47 WHG aktuell vollständig geprüft. Übrige Spezialgebiete, Landesrecht, TEHG und dynamische ESG-/Lieferkettenregeln nicht umfassend neu verifiziert.",
       "Desk-/Quellenreview, kein Live-Mandanten- oder Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "umweltrecht/umweltrecht-schnellstart.md",
+        "umweltrecht/umweltrecht-werkstatt.md"
+      ],
+      "result": "Wasserrechtlicher C-535/18-Anker bleibt auf vorherige Untersuchung und einzelne Grundwassermessstellen begrenzt. Nicht jede Entnahme wird als verboten ausgegeben; keine neue Volltextverifikation dieses Altankers.",
+      "search_2026": "Amtliche PM 54/26 vom 08.07.2026 zu A39-Ergänzungsplanung gefunden; ohne neue Lektüre konkreter tragender Gründe nicht als Wasserrechtsanker ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

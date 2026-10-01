@@ -22,6 +22,8 @@ BGH, Urteil vom 20.09.2006, VIII ZR 100/05, Rn. 16 bis 24: Zugriff auf ein Syste
 
 Bei Ausgleichsfragen prüfe Paragraf 89b Absätze 1 bis 4 HGB: erhebliche fortbestehende Vorteile aus geworbenen oder entsprechend erweiterten Kundenverbindungen, Billigkeit, Ausschlussgründe und Geltendmachung binnen eines Jahres. Die Jahresvergütung ist nur die Höchstgrenze. Für Versicherungs- und Bausparkassenvertreter Absatz 5 gesondert beachten.
 
+[EuGH, 23.04.2026 – C-204/25, Kempen Advies Beerse](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0204), Rn. 23–36: Zugang der Kündigung beendet den zwingenden Ausgleichsschutz nicht; maßgeblich ist der Ablauf der Kündigungsfrist. Vor Vergleich/Verzicht Enddatum und Nachteil prüfen, für deutsche Verträge Paragraf 89b Absatz 4 HGB. Kein Verbot jedes Vergleichs.
+
 ## 1.4 Ergebnis mit Zahlen
 
 Liefere Kurzbewertung, positionsweisen Abgleich und den benötigten Schreibenentwurf. Bei einer Buchauszugsanforderung benenne Zeitraum, Geschäftskreis und fehlende Angaben; fordere nicht unbegründet sämtliche Unternehmensdaten. Weise Basis, Satz, Sollprovision, verbuchte Provision und Differenz getrennt aus. Vermeide Doppelzählungen von Abschlägen und Schlussabrechnung. Kennzeichne offene Positionen ohne erfundene Beträge. Bei Ausgleichsfragen benenne stattdessen die benötigten Angaben zu Kundenverbindungen, Vorteilen, Provisionen und Beendigungsumständen.

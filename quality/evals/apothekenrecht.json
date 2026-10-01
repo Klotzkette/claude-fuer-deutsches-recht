@@ -125,7 +125,9 @@
         "citation": "BGH, Urteil vom 08.01.2015, I ZR 123/13",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_123-13.pdf?__blob=publicationFile&v=1",
         "application": "Bei Abgabe ohne schriftliche Verschreibung ärztliche Therapieentscheidung auf ordnungsgemäßer Diagnose verlangen; Notstand nur bei akuter anders nicht abwendbarer erheblicher Gefahr.",
-        "limit": "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis."
+        "limit": "Amtliche Leitsätze b und c gelesen; kein erreichbarer Volltext. Keine automatische Retaxhöhe oder allgemeine Notabgabebefugnis.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -145,5 +147,13 @@
         "sha256": "4c8933287b7d46cfa49a524f5b7350f5c917a82107e2c35b6d0138f1ae0010e7"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

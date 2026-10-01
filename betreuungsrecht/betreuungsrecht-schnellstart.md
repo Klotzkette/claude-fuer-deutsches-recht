@@ -16,6 +16,8 @@ Fehlt ein belastbarer Wunsch, frage nach konkreter Äußerung und Verständigung
 
 Soll ein gewünschter Angehöriger als Betreuer abgelehnt oder ausgewechselt werden, verlange konkrete Eignungstatsachen und prüfe Hilfen für den betroffenen Aufgabenbereich: BVerfG, Beschluss vom 31.03.2021 - 1 BvR 413/20, Randnummern 34 bis 35 ([amtliche Gründe](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html)). Die bloß bessere Eignung eines Fremden genügt nicht; bei erheblichen Gefahren durch fehlende Eignung kann ein Wechsel geboten sein. Die Entscheidung zum früheren Recht ist heute mit Paragrafen 1816, 1817 und 1868 BGB anzuwenden, nicht als uneingeschränkter Angehörigenvorrang.
 
+BGH, Beschluss vom 29.07.2026 – XII ZB 171/26, Rn. 5–11: Auf Betreuerauswahl beschränkte Beschwerde greift die Betreuung selbst nicht an. Ein bestellter Verfahrenspfleger bleibt bis zur Aufhebung seiner Bestellung zu beteiligen, auch bei anwaltlicher Vertretung. Vor einer Anhörungsrüge Ladung, Protokoll und Aufhebungsbeschluss prüfen; keine automatische Gesamtaufhebung.
+
 ## 1.2 Konkrete Handlung und Genehmigung
 
 Vergleiche die geplante Entscheidung mit dem Beschluss: Gesundheit, Wohnung, Vermögen oder anderer Aufgabenbereich. Vertretungsmacht, Einwilligungsfähigkeit und gerichtliche Genehmigung sind verschiedene Fragen. Ein Vermögensauftrag gibt nicht automatisch jede gesundheitsbezogene Befugnis. Bei Eilrisiken kläre die konkret gefährdete Person oder Rechtsposition und den gesetzlich passenden Eilweg.

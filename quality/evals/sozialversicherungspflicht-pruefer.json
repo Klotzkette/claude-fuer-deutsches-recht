@@ -27,6 +27,14 @@
       "url": "https://rvrecht.deutsche-rentenversicherung.de/SharedDocs/rvRecht/01_GRA_SGB/06_SGB_VI/pp_0001_25/gra_sgb006_p_0006.html",
       "checked_on": "2026-09-30",
       "supports": "Verwaltungspraxis, Stand 12.08.2026, zu Arbeitgeberwechsel und Übernahmeverträgen."
+    },
+    {
+      "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+      "checked_on": "2026-09-25",
+      "supports": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38: Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen. Grenze: Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen. Gelesener Umfang: Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#sozialversicherungsstatus-pruefer:BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+      "source_sha256": "6cf6168355eeb3e90a1c946f97daf72fe4f64895610d61c8bf07fdb6ba017157"
     }
   ],
   "selection": {
@@ -321,13 +329,68 @@
         "citation": "BSG, Urteil vom 23.07.2026 – B 12 BA 10/24 R; amtlicher Terminbericht 24/26, Nummer 4, PDF-Seite 4",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
         "application": "Bei einer Beteiligung von 50/50 und einem wirksamen Stichentscheid durch Dritte die tatsächliche Verhinderungsmacht prüfen.",
-        "limit": "Bericht statt Urteilsvolltext; keine Urteilsrandnummern und keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent."
+        "limit": "Bericht statt Urteilsvolltext; keine Urteilsrandnummern und keine pauschale Abkehr von der Rechtsprechung zu 50 Prozent.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BSG, Urteil vom 13.11.2025 – B 12 BA 2/23 R, Randnummern 21–35",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2025/2025_11_13_B_12_BA_02_23_R.pdf?__blob=publicationFile&v=2",
         "application": "Status gesondert prüfen; ältere offene Verfahren und Zustimmung nach Paragraf 127 differenzieren.",
-        "limit": "Bestandskräftige Altbescheide wurden offengelassen. Die gesetzlichen Enddaten wurden 2026 verlängert."
+        "limit": "Bestandskräftige Altbescheide wurden offengelassen. Die gesetzlichen Enddaten wurden 2026 verlängert.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_fachquellenbeleg"
+      },
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 3/25 R; Terminbericht 24/26",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Berufsständische Befreiung tätigkeitsbezogen prüfen, insbesondere bei Arbeitgeberwechsel.",
+        "limit": "Versorgungswerksmitgliedschaft allein ersetzt weder Antrag noch tätigkeitsbezogene Prüfung.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+        "passages_read": "Nummer 3, PDF-Seite 3",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+      },
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 12/24 R; Terminbericht 24/26",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "VHS-Lehrtätigkeit nach Eingliederung und tatsächlicher Ausgestaltung prüfen.",
+        "limit": "Kein Statusautomatismus jeder Lehrkraft; Übergang nach § 127 SGB IV gesondert.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+        "passages_read": "Nummer 5, PDF-Seiten 5–6",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+      },
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 7/24 R; Terminbericht 24/26",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Rufbereitschaft und einzelne Einsätze nach ihren jeweiligen Vereinbarungen abgrenzen.",
+        "limit": "Nicht alle Bereitschaftskonstellationen gleichsetzen.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+        "passages_read": "Nummer 1, PDF-Seiten 1–2",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+      },
+      {
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 9/24 R; Terminbericht 24/26",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Terminberichte/2026/2026_24_Terminbericht.pdf?__blob=publicationFile&v=2",
+        "application": "Mitwirkungsrechte und Rechtsmacht bei der KG-Verwaltung konkret bestimmen.",
+        "limit": "Keine Statusentscheidung allein aus einer Beteiligungsquote oder Berufsbezeichnung.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_amtlicher_terminbericht",
+        "passages_read": "Nummer 2, PDF-Seiten 2–3",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+      },
+      {
+        "citation": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+        "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_11_05_B_12_BA_03_23_R.pdf?__blob=publicationFile&v=2",
+        "application": "Fachlich freier VHS-Dozent kann bei fremdbestimmter Organisation ohne gewichtige unternehmerische Chancen beschäftigt sein; tatsächliche Durchführung und Zeiträume gesondert würdigen.",
+        "limit": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#sozialversicherungsstatus-pruefer:BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+        "passages_read": "Gesamtwürdigung übertragbar, Ergebnis nicht pauschal auf Berufe; spätere gesetzliche Lehrkräfte-Übergangsregel gesondert prüfen.",
+        "evidence_sha256": "6cf6168355eeb3e90a1c946f97daf72fe4f64895610d61c8bf07fdb6ba017157"
       }
     ],
     "remaining_limits": [
@@ -368,5 +431,39 @@
       "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
     ],
     "sha256": "83d1bc30282c30ae151001145c45ded9793023942c3582db280b1fdac0c843e3"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 3/25 R; Terminbericht 24/26",
+        "status": "wiederverwendeter_amtlicher_terminbericht"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 12/24 R; Terminbericht 24/26",
+        "status": "wiederverwendeter_amtlicher_terminbericht"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 7/24 R; Terminbericht 24/26",
+        "status": "wiederverwendeter_amtlicher_terminbericht"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 23.07.2026, B 12 BA 9/24 R; Terminbericht 24/26",
+        "status": "wiederverwendeter_amtlicher_terminbericht"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BSG, Urteil vom 05.11.2024, B 12 BA 3/23 R, Randnummern 13 bis 18, 31, 36 bis 38",
+        "status": "wiederverwendeter_auditnachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

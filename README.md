@@ -691,6 +691,8 @@ Die kompakte Anleitung mit den drei Nutzungswegen steht im [Schnellstart](./QUIC
 
 ## Repo-interner Release-Check
 
+Der [breite Rechtsprechungsabgleich vom 1. Oktober 2026](./quality/source-audits/2026-10-01-breit/README.md) dokumentiert alle 259 Plugins, konkrete Fachkorrekturen, neue 2026-Quellen und die Grenzen der Prüfung.
+
 Vor einem Release sollten mindestens diese Prüfungen grün sein:
 
 ```bash

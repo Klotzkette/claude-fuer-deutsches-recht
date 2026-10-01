@@ -133,5 +133,15 @@
     "continuation": "Zertifizierung mit Datum und Verwendungsbereich -> marktdefinition.md mit geänderter Kundengruppe, zeitlichem Nenner, Marktanteil und Begründung; bei Behördenauftrag stattdessen betroffene Antwortpassage.",
     "enrichment": "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "kartellrecht-marktabgrenzung-pruefung/skills/eugh-rechtsprechung-beweislast-jurisdiktion/SKILL.md",
+      "kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

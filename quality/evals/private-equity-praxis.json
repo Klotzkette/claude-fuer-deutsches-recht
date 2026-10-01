@@ -22,6 +22,11 @@
       "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
       "checked_on": "2026-09-23",
       "supports": "Normtext gelesen: Formanforderungen für Anteilsübertragung und Verpflichtung hierzu. Eine nachgereichte Verhandlungsnachricht ist nicht ungeprüft eine wirksame SPA-Änderung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Wiederverwendet:18–21,55–58,66–67; Bericht30.09.2026 zivil-wirtschaft. Marktpreis/Verlustrisiko schließen funktionsgebundenes Management-Rückerwerbsmodell nicht allein aus; Missbrauch der Abberufung gesondert. Grenze: KG-Managementfall, Zurückverweisung; keine pauschale Freigabe von Founder-Vesting/Bad-Leaver-Abschlägen."
     }
   ],
   "mini_review": {
@@ -33,7 +38,7 @@
       "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
       "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk."
     ],
-    "sha256": "ff1eecc162ae91aa63a29d4f9e372a0371ca9d37da9c3b9fdf91c9f154c6a6ac"
+    "sha256": "43c7093b8ca98baccbeaedbf7bbc4bc62f2f6e58176c994997cf6275d2430100"
   },
   "selection": {
     "positive": [
@@ -89,7 +94,7 @@
       "2026-09-23: Waterfall mit ausdrücklich angenommener Rechenfolge, Fonds- versus Erwerbsvehikelebene und Nachwirkung einer Aufholklausel ergänzt.",
       "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert."
     ],
-    "sha256": "d4ea24433e84b09d16c4b32b71843232bb4496751487ed6ac094ff368245b5ca"
+    "sha256": "0a05821774896c54c67c10c76b0f4fd5a9c22865399366408213af3dd0d09be5"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -112,6 +117,14 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2004/II_ZR_173-04.pdf?__blob=publicationFile&v=1",
         "application": "Rückübertragung einer verbilligten, risikoarmen Minderheitsbeteiligung als Annex zur Geschäftsführerstellung von sachgrundlosem Hinauskündigen unterscheiden; Erwerbspreis, Risiko, Gewinnfunktion und Austrittsanlass prüfen.",
         "limit": "Keine pauschale Billigung jeder PE-Leaver-Klausel oder selbst finanzierten Vollwertbeteiligung. Treuwidrig herbeigeführter Bedingungseintritt nach Paragraf 162 Absatz 2 BGB bleibt gesondert zu prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 10.02.2026 – II ZR 71/24, Wiederverwendet:18–21,55–58,66–67",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+        "application": "Marktpreis/Verlustrisiko schließen funktionsgebundenes Management-Rückerwerbsmodell nicht allein aus; Missbrauch der Abberufung gesondert.",
+        "limit": "KG-Managementfall, Zurückverweisung; keine pauschale Freigabe von Founder-Vesting/Bad-Leaver-Abschlägen.",
+        "checked_on": "2026-10-01",
+        "verification": "reused_prior_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -131,5 +144,15 @@
     "continuation": "Wirksam vereinbarte Erhöhung erlaubter Beratungskosten von 50000 auf 60000 Euro ändert Überschuss, Gesamtabzug und Restpreis in kaufpreisvermerk.md beziehungsweise Nutzerpfad; neue Ablösebescheinigung ändert Zahlungstag, Finanzierungslücke und Beträge im Vollzugsvermerk.",
     "enrichment": "Verteilung nach Ebene und Zahlungszeit, Aufholklausel, streitige Bilanzpositionen, Zugang von Kaufpreiseinwänden, bekannte Risiken und Drittanspruchsverfahren sowie tagesbezogene Ablösung und konkrete Vollzugsbedingungen ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "private-equity-praxis/private-equity-praxis-schnellstart.md",
+      "private-equity-praxis/private-equity-praxis-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

@@ -42,6 +42,8 @@ Vergleiche Anforderungsprofil, Beurteilungszeitraum, Tatsachengrundlage, Verglei
 
 Fehlt die Auswahlbegründung oder aktuelle Beurteilung, fordere genau diese Unterlage an. Formuliere vorhandene Tatsachenbeanstandungen vorläufig. Nach Eingang überarbeite die Argumentation und den verlangten Beurteilungseinwand oder Rechtsschutzentwurf. Eilbedarf anhand der geplanten Besetzung prüfen, nicht lediglich eine Maßnahmenliste liefern.
 
+[BVerwG, Beschluss vom 25.06.2026 – 1 WB 64.25](https://www.bverwg.de/de/250626B1WB64.25.0), Rn. 35–40: Mehrere zeitnah wegen derselben konkret erläuterten Kindeserkrankung abgelehnte Dienstposten belegen nicht schon fehlende grundsätzliche Mobilitätsbereitschaft. Auswahlzeitpunkt, tatsächliche frühere Verwendungen und familiären Hinderungszeitraum abgleichen. Die Zulassung zum Laufbahnaufstieg und die Rechtmäßigkeit einer konkreten Versetzung bleiben verschiedene Fragen; fehlende Nachweise des Versetzungshindernisses beweisen keine innere Mobilitätsverweigerung. Zugesprochen wurde Neubescheidung, kein Wunschdienstposten.
+
 ## 1.5. Gesundheit, Dienstfähigkeit und Versorgung
 
 Trenne medizinischen Befund, Verwendungsfähigkeit, Statusentscheidung und Leistungsanspruch. Bei Berufssoldaten prüfe Dienstunfähigkeit und Begutachtung nach Paragraf 44 Absätze 3 und 4 SG, die zusätzlichen Ruhestandsvoraussetzungen nach Absatz 5 sowie andernfalls Paragraf 46 Absatz 2 Satz 1 Nummer 6 SG. Bei Soldaten auf Zeit gilt für die Entlassung Paragraf 55 Absatz 2 und 6 SG. Paragraf 45 SG betrifft Altersgrenzen, nicht den allgemeinen Dienstunfähigkeitstatbestand. Tauglichkeitskürzel nicht ohne konkrete Definition als dauerhafte Dienstunfähigkeit auslegen; Versorgung gesondert nach Status und SVG prüfen.

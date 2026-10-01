@@ -203,7 +203,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - Bei mangelnder Mitwirkung Schätzungsbefugnis FA weit.
 - Anfechtungs-Strategie: Konkrete Daten nachreichen; Schätzungsrahmen auf Willkür prüfen.
-- **BFH, Urteil vom 18.06.2025 — X R 19/21**: Erhebliche Zweifel daran, dass die amtliche **Richtsatzsammlung des BMF** in der gegenwaertigen Form als Schaetzungsgrundlage taugt; aeusserer Betriebsvergleich mit Rohgewinnaufschlagsatz von 300 Prozent nicht hinreichend substantiiert. Volltext über BFH-Datenbank (STRE202520256).
+- **BFH, Urteil vom 18.06.2025 – X R 19/21**, [amtlicher Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520256/), Rn. 31 und 48–63: Tragend war die nicht nachvollziehbar begründete Methodenwahl und Hinzuschätzung. Vergleiche verfügbare Betriebsdaten und begründe die zuverlässigere Methode. Die allgemeine Kritik an der damaligen Richtsatzsammlung ist ausdrücklich ergänzend, nicht tragend; kein generelles Schätzungsverbot. **BFH, Urteil vom 15.04.2026 – X R 14/24**, [Rn. 28–33](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202650130/): Schon das fehlende erkennbare Erwägen eines möglichen inneren Betriebsvergleichs ist rechtsfehlerhaft; die Schätzungsbefugnis bleibt gesondert.
 - **Grundsatz** (BFH stRspr.): innerer Betriebsvergleich vorrangig vor aeusserem; relativ unsichere Methoden sind subsidiaer. Wahlfreiheit FA / FG ist durch § 5 AO begrenzt.
 
 ### Typische Fehler

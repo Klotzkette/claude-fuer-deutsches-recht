@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "urheberrecht-de-eu",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
@@ -27,29 +27,43 @@
       "url": "https://www.gesetze-im-internet.de/urhg/__51.html",
       "checked_on": "2026-09-22",
       "supports": "Eigenständiger Zitatzweck und durch ihn gerechtfertigter Umfang."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050de.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Gerichtliche Pressemitteilung 50/26 S. 1–2 vollständig; Volltextzugriff gescheitert, keine Randnummernprüfung. Erkennbarer künstlerischer Dialog und wahrnehmbare Unterschiede; Pastiche für Kenner des Ausgangswerks erkennbar, gesonderter Nachweis subjektiver Absicht nicht nötig. Grenze: Pressemitteilung ist kein Urteilsvolltext; keine pauschale Remix-, Stil- oder Plagiatfreigabe. Nationale Entscheidung über konkretes Sampling bleibt gesondert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Zitat verlangt inhaltliche Auseinandersetzung und angemessenen Umfang, nicht bloß Quellenangabe oder eine feste Wortzahl. Am 23. September vollständig erneut gelesen: drei Dokumenteinstiege, nachgereichte redaktionelle Analyse und Print-/Online-Nachtrag in konkrete Textänderungen überführt; unter 7500 Bytes und Zeichen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
-      "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen."
+      "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "1f69e79b8c088aae96b5b2a4a01001de218a24c02c2be672c7170b647456e062"
+    "sha256": "8fb3e13068eb60672b941b2e1284072188da5b25f27fb1c39260cacde9297ed3",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werk, Lizenz, Schranke, Beweis und Anspruch getrennt; Software, Sampling, Text- und Data-Mining und Bilder bleiben eigene Zweige. Am 23. September vollständig erneut gelesen: Kampagnenlizenz, Rezension/Banner und Bildabmahnung mit Belegen, Gegenargumenten und vollständigen Anschlussdokumenten ausgebaut.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Spiegel Online auf geistige Verbindung zwischen Zitat und eigenen Ausführungen angewandt",
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
-      "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung."
+      "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "8767d075eae808dd3ebc5c59f7594d352c79f2e0868a0b43fade73f44576dc0d"
+    "sha256": "6e506530964559bbb1568f3b7a57ce519f87feb55404dac722b0812c971eeb3c",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -108,7 +122,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
       "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
@@ -126,6 +140,18 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62017CJ0516",
         "application": "Zitatzweck anhand enger geistiger Verbindung zu eigenen Ausführungen und verhältnismäßigem Umfang bestimmen.",
         "limit": "Verlinkte Datei kann zitierfähig sein, aber nicht jede Verlinkung oder werbliche Dekoration ist Zitat; keine feste Wortzahl."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
+      },
+      {
+        "citation": "EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-04/cp260050de.pdf",
+        "application": "Erkennbarer künstlerischer Dialog und wahrnehmbare Unterschiede; Pastiche für Kenner des Ausgangswerks erkennbar, gesonderter Nachweis subjektiver Absicht nicht nötig.",
+        "limit": "Pressemitteilung ist kein Urteilsvolltext; keine pauschale Remix-, Stil- oder Plagiatfreigabe. Nationale Entscheidung über konkretes Sampling bleibt gesondert."
       }
     ],
     "remaining_limits": [

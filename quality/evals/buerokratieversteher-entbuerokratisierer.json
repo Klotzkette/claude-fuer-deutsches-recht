@@ -128,12 +128,24 @@
         "citation": "BSG, Urteil vom 3. Dezember 2024, B 2 U 13/22 R, Randnummern 14–25",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2024/2024_12_03_B_02_U_13_22_R.pdf?__blob=publicationFile&v=2",
         "application": "Tragende Tatsachen mitteilen, Äußerungsfrist abwarten und wirksame Nachholung prüfen; Widerspruch allein heilt nicht.",
-        "limit": "Ausnahmen einschließlich abschließender frühzeitiger Äußerung beachten; besondere Dauerrentenfolge nicht auf Bürgergeld übertragen."
+        "limit": "Ausnahmen einschließlich abschließender frühzeitiger Äußerung beachten; besondere Dauerrentenfolge nicht auf Bürgergeld übertragen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Keine abschließende Prüfung aller Sozialleistungs-, Steuer-, Aufenthalts- oder Landesrechtswege; Verständnishilfe bleibt ohne ungefragte Prozessführung.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-schnellstart.md",
+        "buerokratieversteher-entbuerokratisierer/buerokratieversteher-entbuerokratisierer-werkstatt.md"
+      ],
+      "result": "Anhörung wird auf die tragenden Tatsachen und Äußerungsfrist bezogen. Widerspruchseinlegung allein wird nicht zur Heilung erklärt; abschließende frühzeitige Äußerung bleibt eine getrennte Ausnahme.",
+      "search_2026": "Keine passenden Ergebnisse der gezielten amtlichen 2026-Suche zu Anhörung und Äußerungsfrist im Sozialverwaltungsverfahren.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

@@ -110,7 +110,9 @@
         "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
         "application": "Bei existenziellen, später nicht behebbaren Nachteilen abschließend prüfen oder bei rechtzeitig nicht möglicher Aufklärung konkrete Folgenabwägung durchführen.",
-        "limit": "Kein Verzicht auf Anspruchsvoraussetzungen und Glaubhaftmachung; keine Bewilligung allein wegen Kontostands, keine Übertragung auf Leistungshöhe."
+        "limit": "Kein Verzicht auf Anspruchsvoraussetzungen und Glaubhaftmachung; keine Bewilligung allein wegen Kontostands, keine Übertragung auf Leistungshöhe.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -130,5 +132,13 @@
     "continuation": "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
     "enrichment": "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

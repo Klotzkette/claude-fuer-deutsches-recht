@@ -112,14 +112,26 @@
         "citation": "BVerwG, Urteil vom 10.12.2003, 8 C 18.03, Gründe II",
         "url": "https://www.bverwg.de/101203U8C18.03.0",
         "application": "Bloße Zählgemeinschaft zur Gewinnung zusätzlicher Ausschusssitze: Vergleich der Sitzverteilungen und Minderheitenschutz.",
-        "limit": "Keine gewöhnliche Sachabstimmung, keine perfekte Spiegelung; damaliges d'Hondt-Verfahren und Nachbesetzungsrecht nicht als heutiges GO-NRW-Recht übernehmen."
+        "limit": "Keine gewöhnliche Sachabstimmung, keine perfekte Spiegelung; damaliges d'Hondt-Verfahren und Nachbesetzungsrecht nicht als heutiges GO-NRW-Recht übernehmen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "GO NRW Paragrafen 49 und 50 amtlich geprüft; keine Vollprüfung aller Landeskommunalordnungen, örtlichen Regeln oder Abgabenkalkulationen.",
       "Kein Live-Modelltest.",
       "2026-09-23: Workflow-Desk-Review. Profilquellen erneut geöffnet; aktuelle GO NRW Paragrafen 49/50 und Auszüge aus BVerwG 8 C 18.03 erneut gelesen, Altfassung vom 01.11.2025 nur als historische Fassung eingeordnet. Keine neue Vollprüfung anderer Länder, örtlicher Satzungen, Heilungsregeln oder Abgabenkalkulationen; kein Live-Client-Test."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "kommunalrecht-laender/kommunalrecht-laender-schnellstart.md",
+        "kommunalrecht-laender/kommunalrecht-laender-werkstatt.md"
+      ],
+      "result": "Ausschussbesetzung und bloße Zählgemeinschaft bleiben von Sachabstimmung getrennt. Kein altes d’Hondt- oder Nachbesetzungsrecht als heutige GO-NRW-Regel ausgegeben.",
+      "search_2026": "Keine passende neue 2026-Entscheidung zur Ausschussspiegelbildlichkeit verifiziert; ältere einschlägige 8 C 18.03 bleibt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

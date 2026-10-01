@@ -37,6 +37,11 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
       "checked_on": "2026-09-22",
       "supports": "Aktueller amtlicher Normtext zur elektronischen Widerrufsfunktion gelesen; von Kündigung getrennt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 16–36. Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend. Grenze: Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden."
     }
   ],
   "mini_review": {
@@ -49,7 +54,7 @@
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
       "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt."
     ],
-    "sha256": "f6366c6311a30e0fc11cccd2d998709896c175f4f47ac8cfaee395612b35af96"
+    "sha256": "5b199d101b856c73399df2cb5d5c0902863f6ec787d928e4211c88830d714df4"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -118,7 +123,7 @@
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
       "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet."
     ],
-    "sha256": "fbaa622e5f17a923c4f54418f4fc89a83efbd1231acb50fc2c68f3e8037b7b42"
+    "sha256": "7bd8a6f707321ca4902c8cc6427159bd5a51120743282db8829f5fd3cbb33b22"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -140,11 +145,29 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62022CJ0757",
         "application": "Verletzte Informationsrechte als Gegenstand datenschutzbezogener Verbandsklage einordnen.",
         "limit": "Amtlicher Volltext Rn. 40–44 und 61–65 gelesen; kein pauschaler Zugang zu kollektiven Zahlungsansprüchen."
+      },
+      {
+        "citation": "BGH, Urteil vom 16.07.2026 – I ZR 200/25, Kopf, Rn. 16–36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend.",
+        "limit": "Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
       "Workflow-Review: Paragrafen 4, 15 und 46 VDuG aktuell vollständig gelesen. Bestehende EuGH-Anker in ihren Grenzen erhalten, keine neue vollständige Fallprüfung behauptet; keine flächendeckende Neuprüfung von Diesel-, Energie-, Banken- oder Registerpraxis.",
       "Keine Live-Modellprüfung; Quellen- und Vertragsfassung für den Einzelfall erneut abgleichen."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md",
+      "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

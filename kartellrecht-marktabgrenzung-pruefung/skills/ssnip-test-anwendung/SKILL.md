@@ -34,7 +34,7 @@ EU-Kommission, Bekanntmachung zur Marktdefinition 2024, Rn. 14 ff.; Bekanntmachu
 ### 1. Ausgangspunkt bestimmen
 
 - Welches Produkt/welche Produktgruppe steht im Zentrum?
-- Welcher Preis gilt als Ausgangspreis? (CAVE: bei Kampfpreisen → Cellophane Fallacy)
+- Welcher Preis gilt als Ausgangspreis? (Cellophane-Fehlschluss bei bereits überhöhtem Preis prüfen)
 
 ### 2. Preiserhöhungsreaktion analysieren
 
@@ -63,7 +63,7 @@ Wenn Preiserhöhung nicht profitabel: Nächstes Substitut einbeziehen und Test w
 
 Leitfälle:
 - EuGH, Rs. 85/76 — *Hoffmann-La Roche*: Vitaminmärkte.
-- EuGH, Rs. 27/76 — *United Brands*: Ausgangspreis-Problematik bei Bananenmarkt.
+- EuGH, Urteil vom 14.02.1978, Rs. 27/76 – *United Brands*, Rn. 22–35: qualitative Nachfragesubstitution bei Bananen. Dieser geprüfte Abschnitt belegt keine SSNIP-Ausgangspreisregel; Wettbewerbspreis und beobachteten Preis anhand konkreter Marktbelege getrennt bestimmen.
 
 ### 5. Grenzen des SSNIP-Tests
 

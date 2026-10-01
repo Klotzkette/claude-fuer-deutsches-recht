@@ -32,6 +32,11 @@
       "url": "https://www.gesetze-im-internet.de/hgb/__88.html",
       "checked_on": "2026-09-22",
       "supports": "Amtlicher Wortlaut geprüft: Norm ist weggefallen; keine vierjährige Sonderverjährung aus altem Wortlaut als geltendes Recht behandeln."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0204",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 1–37 und Tenor; tragend23–36. Zwingender Ausgleichsschutz besteht während Kündigungsfrist; Kenntnis der Kündigung bedeutet noch keinen Vertragsablauf nach Art15/19RL86/653. Grenze: Nicht jeder Vergleich verboten; eine vorzeitige Abweichung setzt ex ante feststehende Nachteilsfreiheit bei Vertragsende voraus. Deutsche Umsetzung §89bAbs4HGB und konkrete Frist getrennt."
     }
   ],
   "mini_review": {
@@ -43,7 +48,7 @@
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "5e642a4d321fa0e9346ce067d8637df42eec437dd86164e12da133019c7e229d"
+    "sha256": "219d4e3dfbe31cc8f327a97d9ba7abde2684bebda7209b613c85567329d592c2"
   },
   "selection": {
     "positive": [
@@ -98,7 +103,7 @@
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
       "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung."
     ],
-    "sha256": "6d4efed0512272508c77480f701307380119c55ee4135d5c02f0eb420086edb6"
+    "sha256": "d2c4c4f0fb9eb7a5ec4889b5b8ef6207c86e8153959ad5e87980e9b9fcb7ed65"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -121,6 +126,14 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZR_100-05.pdf?__blob=publicationFile&v=1",
         "application": "Flüchtiger aktueller Systemzugang ersetzt keinen geordneten Buchauszug; Genehmigungsfiktion durch Schweigen verletzt zwingende Informationsrechte.",
         "limit": "Versicherungsvertreterfall; kein Verbot elektronischer Buchauszüge, eindeutige tatsächliche Abrechnungseinigung und einzelne Zahlungsansprüche gesondert."
+      },
+      {
+        "citation": "EuGH, Urteil vom 23.04.2026 – C-204/25, Kempen Advies Beerse, Kopf, Rn. 1–37 und Tenor",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0204",
+        "application": "Zwingender Ausgleichsschutz besteht während Kündigungsfrist; Kenntnis der Kündigung bedeutet noch keinen Vertragsablauf nach Art15/19RL86/653.",
+        "limit": "Nicht jeder Vergleich verboten; eine vorzeitige Abweichung setzt ex ante feststehende Nachteilsfreiheit bei Vertragsende voraus. Deutsche Umsetzung §89bAbs4HGB und konkrete Frist getrennt.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -141,5 +154,18 @@
     "continuation": "Neuer Stornogrund -> Provision neu zuordnen; vollständiger Buchauszug -> Zahlungsweg; Kundenverlust -> Ausgleichsvorteile und Rechnung ändern.",
     "enrichment": "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "handelsvertreterrecht/handelsvertreterrecht-schnellstart.md",
+      "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+      "handelsvertreterrecht/skills/ausgleich-ausschlussgruende/SKILL.md",
+      "handelsvertreterrecht/skills/vergleich-verjaehrung-vermittlungsvertreter/SKILL.md",
+      "handelsvertreterrecht/skills/vergleich/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

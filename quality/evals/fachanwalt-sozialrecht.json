@@ -218,13 +218,17 @@
         "citation": "BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, Randnummern 30 bis 40, 49 bis 50",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2019/2019_12_11_B_13_R_07_18_R.pdf?__blob=publicationFile&v=3",
         "application": "Bei mindestens sechs Stunden schwere spezifische Leistungsbehinderung oder ungewöhnliche Summierung funktional prüfen; gegebenenfalls konkrete Tätigkeit benennen.",
-        "limit": "Diagnosezahl und schlechte Vermittlung genügen nicht; Zurückverweisung ohne Rentenzuspruch."
+        "limit": "Diagnosezahl und schlechte Vermittlung genügen nicht; Zurückverweisung ohne Rentenzuspruch.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05, Randnummern 24 bis 30",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
         "application": "Existenzielle Nachteile verlangen abschließende Prüfung oder bei rechtzeitig nicht möglicher Aufklärung Folgenabwägung; heutige Mittel belegen.",
-        "limit": "Kein Wegfall der materiellen Voraussetzungen und keine automatische Leistung."
+        "limit": "Kein Wegfall der materiellen Voraussetzungen und keine automatische Leistung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BSG, Urteil vom 14.05.2025, B 4 KG 1/24 R, Randnummern 9 bis 18",
@@ -280,5 +284,13 @@
       "fachanwalt-sozialrecht/skills/hilfsmittelantrag-pruefen/SKILL.md",
       "fachanwalt-sozialrecht/skills/laienhilfe-widerspruch-einfach/SKILL.md"
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

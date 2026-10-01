@@ -16,24 +16,23 @@ description: "Für AGB im Bankvertrag Sparkassen und Banken: ordnet Norm, Beweis
 
 - Allgemeine Geschäftsbedingungen der privaten Banken Stand 01.07.2023 (BVR, BdB, VOEB), Sparkassen-AGB Stand 01.07.2023, AGB der Volks- und Raiffeisenbanken.
 - Inhaltskontrolle § 307 BGB grundsätzlich anwendbar.
-- BGH-Linie: AGB-rechtlich strenger Maßstab für Banken wegen ueberlegener Marktstellung.
+- Kontrollmaßstab aus Paragrafen 307–309 BGB, Vertragsart und Kundengruppe ableiten; keine pauschale Unwirksamkeit wegen behaupteter Marktüberlegenheit.
 
 ## Klassische Problemklauseln
 
 ### Entgeltklauseln
-- BGH XI ZR 26/20: Kontofuehrungsgebuehren durch einseitige Änderung der AGB unwirksam, wenn keine ausdrueckliche Zustimmung des Kunden vorliegt.
-- Folge: alle Banken mussten in 2021/2022 ihre Kunden um aktive Zustimmung zu erhoehten Entgelten bitten.
+- [BGH, Urteil vom 27.04.2021 – XI ZR 26/20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1), Rn. 29–32: Eine unbeschränkte Vertragsumgestaltung durch Zustimmungsfiktion hält der AGB-Kontrolle nicht stand. Vereinbarungsgrundlage und Änderungsumfang prüfen; das Urteil ordnet kein allgemeines Formerfordernis ausdrücklicher Zustimmung für jede Vertragsänderung an.
+- Eine Entgeltinformation nach Paragraf 5 ZKG kann AGB enthalten, wenn Kunden darin eine Vertragsregel sehen: [BGH, Urteil vom 07.07.2026 – XI ZR 129/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_129-24.pdf?__blob=publicationFile&v=1), Rn. 17–27, 35–42. Frage nach Dokumentzweck, standardisierten Begriffen und Vertragsumfeld. Die dortige 0,50-Euro-Gutschriftklausel erfasste nach Auslegung gerade keine Storno- oder Berichtigungsbuchungen; das Urteil erklärt nicht jede Entgeltinformation oder Buchungsgebühr für unwirksam.
 
 ### Änderungsklauseln
-- Änderungsklausel "Änderungen der Bedingungen werden mit zweimonatiger Vorlaufzeit wirksam, sofern der Kunde nicht widerspricht" ist nach BGH unwirksam.
-- BGH XI ZR 26/20 hat diese seit Jahrzehnten verwendete Klausel gekippt.
+- Bei Zustimmungsfiktionen den sachlichen Änderungsumfang prüfen. Zwei Monate Vorlauf und Kündigungsmöglichkeit retten keine unbeschränkte Änderungsmacht; sachlich und gegenständlich eingegrenzte Klauseln gesondert beurteilen (XI ZR 26/20, Rn. 29–32).
 
 ### Verwahrentgelt (Negativzinsen)
 - BGH, Urteile vom 04.02.2025 - XI ZR 61/23, XI ZR 65/23 und XI ZR 161/23: Verwahrentgelt auf einem Girokonto kann eine kontrollfreie Hauptpreisabrede sein, die konkrete Klausel kann aber am Transparenzgebot scheitern, wenn der maßgebliche Guthabenstand nicht bestimmbar ist.
 - BGH, Urteile vom 04.02.2025 - XI ZR 161/23 und XI ZR 183/23: Klauseln zu Verwahrentgelten auf Tagesgeld- und Sparkonten unterliegen der Inhaltskontrolle und benachteiligten Verbraucher in den entschiedenen Fassungen unangemessen. Kontoart und Klauselwortlaut strikt trennen.
 
 ### Aufrechnungsverbot
-- AGB-Klausel "Der Kunde darf nur mit unbestrittenen oder rechtskraeftig festgestellten Forderungen aufrechnen" wirksam.
+- Ein solches umfassendes Aufrechnungsverbot ist in Verbraucher-Bank-AGB nicht pauschal wirksam: [BGH, Urteil vom 20.03.2018 – XI ZR 309/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2016/XI_ZR_309-16.pdf?__blob=publicationFile&v=1), Rn. 11–20, verwirft die Sparkassenklausel, weil sie auch Rückabwicklungsforderungen nach Widerruf erfasst. Paragraf 309 Nummer 3 BGB allein genügt nicht; Paragraf 307 und zwingenden Verbraucherschutz mitprüfen. Die damaligen Widerrufsabsätze nicht ungeprüft auf heutige Verträge übertragen.
 
 ### Schliessfachvertraege
 - Standardklauseln zu Haftungsbegrenzung haben oft AGB-Risiken; BGH XI ZR 56/15.

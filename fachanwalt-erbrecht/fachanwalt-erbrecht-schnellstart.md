@@ -8,7 +8,7 @@ Lies tragende Urkunden samt Anlagen. Frage nur nach entscheidenden Lücken; ein 
 
 ## 1.2. Frist, Rolle und Status
 
-Bei offenem Ziel Erblasser, Aufenthalt, Frist und mögliche Erbfolge einordnen. Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und Besitzer unterscheiden.
+Erblasser, Aufenthalt, Frist und Erbfolge einordnen; Erbe, Pflichtteilsberechtigter, Vermächtnisnehmer, Vollstrecker und Besitzer unterscheiden.
 
 Für Fristen Ereignis, Kenntnis, Zugang, Beginn, Ende und Beleg erfassen. Ausschlagung grundsätzlich sechs Wochen; sechs Monate nur unter BGB Paragraf 1944 Absatz 3. Erklärung und Vollmacht müssen Paragraf 1945 entsprechen. Annahme, Nachrücker und Minderjährige vor Vollzug prüfen. Bei Zahlungsunfähigkeit oder Überschuldung unverzügliche Antragspflicht nach Paragraf 1980 vorziehen.
 
@@ -18,7 +18,7 @@ Stammbaum aus Personenstand, Adoption, Ehe, Güterstand und Todesreihenfolge bil
 
 ### 1.3.1. Erbfolge und Verfügung
 
-Gesetzliche Erbfolge anhand Stammbaum und Status rechnen. Eine neue Verfügung gestalten oder eine vorhandene Verfügung auslegen und auf Anfechtungsgründe prüfen, je nach Auftrag. Form, Widerruf, Bindung und Ersatzfall ordnen. Auslegung ersetzt keinen Anfechtungsgrund.
+Gesetzliche Erbfolge anhand Stammbaum und Status rechnen. Bei Scheidung Paragraf 1933 BGB prüfen: 18 Jahre Verfahrensstillstand ersetzen keine Rücknahme; BGH, Beschluss vom 13.05.2026 – IV ZB 7/25, Rn. 8–25. Scheidungsvoraussetzungen, Antrag/Zustimmung und Rücknahme zum Erbfall belegen. Eine neue Verfügung gestalten oder eine vorhandene Verfügung auslegen und auf Anfechtungsgründe prüfen, je nach Auftrag. Form, Widerruf, Bindung und Ersatzfall ordnen. Auslegung ersetzt keinen Anfechtungsgrund.
 
 Bei gebundener Nachfolge wechselbezügliche und vertragsmäßige Verfügungen unterscheiden. BGB Paragraf 2270 nicht analog auf Erbverträge übertragen. Bei Demenz zum Errichtungszeitpunkt ein konkretes Beweisprogramm aufbauen; Diagnose allein beweist keine Testierunfähigkeit. Verzicht, Nacherbschaft und Pflegeausgleich behalten ihre eigenständigen Fachaufträge.
 
@@ -54,7 +54,7 @@ Unternehmensnachfolge stimmt Verfügung, Gesellschaftsvertrag, Führung und Liqu
 
 Jede tragende Aussage mit Normfassung, Aktenfund und gegebenenfalls amtlichem Entscheidungsnachweis belegen. Behauptung, Indiz und Schlussfolgerung trennen. Gegenargument und fehlenden Nachweis konkret benennen. Werte mit Stichtag und Methode, Bandbreiten nur auf belegter Grundlage rechnen.
 
-Fehlt der Todestagssaldo, die Bankauskunft oder vollständigen Buchungen nachfordern; fehlt bei einer Schenkung die Nutzungsrechtsklausel, die betreffende Vertragsstelle. Nach Antwort Nachweis prüfen, Rechnung und betroffene Briefpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue Lücken nachfragen, Bekanntes übernehmen. Ohne Beleg tragfähige Teile liefern und nach Klärung fortsetzen.
+Fehlende Todestagssalden, Buchungen oder Nutzungsrechtsklauseln gezielt nachfordern. Neue Nachweise in Rechnung und Entwurf einarbeiten und fertigschreiben; nur neue Lücken nachfragen. Begründbare Teile vorläufig liefern.
 
 Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage und aktuelle Normfassung; keine erfundene Literatur oder Volltextprüfung. Optional: [Zitierweise](../references/zitierweise.md).
 

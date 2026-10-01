@@ -41,7 +41,7 @@ Stimme Abnahme und Zahlungsmeilensteine, Mitwirkung und Termine, Prüfparameter 
 
 ## 4. Quellenpflicht
 
-[Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md) verwenden. Ausgangsnormen: Paragrafen 433, 611, 631 bis 643 BGB sowie Paragraf 377 HGB. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: amtlich indexierte Leitsätze zu Mängelrechten grundsätzlich nach Abnahme und möglichen Abrechnungsverhältnissen; Volltextabruf gesperrt, keine Randnummer verifiziert. Daraus weder Rechtlosigkeit vor Abnahme noch eine generelle Pflicht zur Abnahme trotz erheblicher Mängel ableiten. Aktuellen Normtext und fallrelevante Ausnahme vor tragender Bewertung prüfen.
+[Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md) verwenden. Ausgangsnormen: Paragrafen 433, 611, 631 bis 643 BGB sowie Paragraf 377 HGB. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: amtlicher Volltext, Rn. 31–51, am 01.10.2026 gelesen: Mängelrechte grundsätzlich nach Abnahme; Ausnahme beim endgültigen Abrechnungsverhältnis. Allein ein Vorschussverlangen genügt nicht; konkret nachfragen, ob jede weitere Erfüllung ausgeschlossen ist. Daraus weder Rechtlosigkeit vor Abnahme noch eine generelle Pflicht zur Abnahme trotz erheblicher Mängel ableiten. Aktuellen Normtext und fallrelevante Ausnahme vor tragender Bewertung prüfen.
 
 ## 5. Ausgabeformat
 

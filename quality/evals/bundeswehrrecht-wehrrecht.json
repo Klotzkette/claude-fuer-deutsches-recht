@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "bundeswehrrecht-wehrrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/wbo/__6.html",
@@ -42,20 +42,32 @@
       "url": "https://www.gesetze-im-internet.de/wbo/__6.html",
       "checked_on": "2026-09-23",
       "supports": "Kenntnis vom Beschwerdeanlass, Monatsfrist und Ablauf einer Nacht; späterer Ausdruck ist nicht automatisch neuer Auslöser."
+    },
+    {
+      "url": "https://www.bverwg.de/de/250626B1WB64.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Webansicht: Tenor und Rn. 19–40, verwendet Rn. 35–40. Direkter HTTP-Abruf war gesperrt, Webansicht lesbar. Zeitnahe Ablehnung mehrerer Dienstposten wegen derselben konkreten Kindeserkrankung belegt nicht schon fehlende grundsätzliche Mobilitätsbereitschaft. Auswahlzeitpunkt, frühere Verwendungen und Hinderungszeitraum abgleichen. Grenze: Laufbahnzulassung und konkrete Versetzung trennen; Neubescheidung, kein Wunschdienstposten. Fehlende Nachweise eines konkreten Hindernisses belegen keine innere Mobilitätsverweigerung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sg/__23.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlichen § 23 SG frisch gelesen: Dienstvergehen, keine Personalaktenregel. Falsche Fachskill-Zuordnung korrigiert; § 29 SG nicht neu verifiziert."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Versetzung und Beschwerde werden an tatsächlicher Pflegebelastung, Empfangszuständigkeit und konkreter Abhilfe geprüft; kein automatischer Wunschstandort oder Aufschub. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
       "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
       "Familienpflege und Empfangszuständigkeit in bestehende Versetzungs- und Beschwerdeprüfung integriert.",
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Leer: Verwendung, Beurteilung oder Statusklärung. Dateien: still lesen und dienstrechtlich passenden Dokumentweg anbieten. Klar: direkt bestellte Beschwerde oder Beratung ausarbeiten.",
-      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung."
+      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
     ],
-    "sha256": "9065a2c19ab836bb445c90f36d75727be5486f49fd30215941a8ec743c0ad490"
+    "sha256": "86e5302a7f6efe74708621ff196fb30d099d75b763528d3ffa955628f7e7a055",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -103,15 +115,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt enthält differenzierte Verwendungs-, Status- und Beschwerdewege; Dienstunfähigkeit, Altersgrenzen und Entschädigung wurden normgenau auseinandergezogen. Individuelle Text- und Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Konkrete Belastung und beauftragte Abhilfe statt allgemeiner Dokumentenbestellung im Einstieg.",
       "Familienpflege und Empfangszuständigkeit in bestehende Versetzungs- und Beschwerdeprüfung integriert.",
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Pflegekonkretisierung, Kenntnis- und Beschwerdebeleg, Beurteilungszeitraum, medizinischer Umfang und Ausbildungskosten vertieft.",
-      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung."
+      "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
     ],
-    "sha256": "23a9b00239261926f839e104f126f216ed506dec59712e96b9745ad6093e4d6c"
+    "sha256": "9e4677c96d17fc9a89aa23de1571f21dd74341025e436e90292b948467e0c979",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -126,13 +140,14 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "bundeswehrrecht-wehrrecht/README.md",
       "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
       "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
-      "quality/evals/bundeswehrrecht-wehrrecht.json"
+      "quality/evals/bundeswehrrecht-wehrrecht.json",
+      "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md"
     ],
     "opening_change": "Beanstandete Verwendung, Befehl und Beurteilung auf konkrete Abhilfe und Schutzbedarf beziehen.",
     "norms": [
@@ -147,12 +162,32 @@
         "citation": "BVerwG, Beschluss vom 1. März 2018, 1 WB 27.17, Randnummern 18–38",
         "url": "https://www.bverwg.de/010318B1WB27.17.0",
         "application": "Tatsächliche Pflegeleistung und Ersatzbetreuung gegen dienstlichen Bedarf abwägen; qualifizierten Gesprächsvermerk auf wirksame Beschwerde prüfen.",
-        "limit": "Kein Wunschstandortanspruch oder automatischer Aufschub; damaligen Versetzungserlass nicht als heutige Fassung unterstellen."
+        "limit": "Kein Wunschstandortanspruch oder automatischer Aufschub; damaligen Versetzungserlass nicht als heutige Fassung unterstellen.",
+        "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 25.06.2026, 1 WB 64.25",
+        "url": "https://www.bverwg.de/de/250626B1WB64.25.0",
+        "application": "Zeitnahe Ablehnung mehrerer Dienstposten wegen derselben konkreten Kindeserkrankung belegt nicht schon fehlende grundsätzliche Mobilitätsbereitschaft. Auswahlzeitpunkt, frühere Verwendungen und Hinderungszeitraum abgleichen.",
+        "limit": "Laufbahnzulassung und konkrete Versetzung trennen; Neubescheidung, kein Wunschdienstposten. Fehlende Nachweise eines konkreten Hindernisses belegen keine innere Mobilitätsverweigerung.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Aktuelle interne Erlasse sowie Status- und Entschädigungsrecht benötigen fallbezogene zusätzliche Prüfung.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+        "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+        "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md"
+      ],
+      "result": "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
+      "search_2026": "1 WB 64.25 vom 25.06.2026 neu amtlich gelesen und konkret ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

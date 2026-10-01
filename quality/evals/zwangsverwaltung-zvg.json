@@ -163,7 +163,9 @@
         "citation": "BGH, Urteil vom 23.09.2009, VIII ZR 336/08",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_336-08.pdf?__blob=publicationFile&v=1",
         "application": "Bei vor Beschlagnahme überlassener Wohnung Kautionsanlage auch ohne Übergabe verlangen; begrenzten Mieteinbehalt und Mittelbedarf vor Mahnung beziehungsweise Ausschüttung berücksichtigen.",
-        "limit": "Amtlich indizierter Volltext einschließlich Rn. 10 bis 13 gelesen; direkter Abruf 403. Kein unbegrenzter Einbehalt, kein allgemeiner Insolvenzrang und keine ungeprüfte Gewerbemietübertragung."
+        "limit": "Amtlich indizierter Volltext einschließlich Rn. 10 bis 13 gelesen; direkter Abruf 403. Kein unbegrenzter Einbehalt, kein allgemeiner Insolvenzrang und keine ungeprüfte Gewerbemietübertragung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -184,5 +186,13 @@
         "sha256": "01042c1ad8f06de05e04e92ac665b3204a2585a0af2938b533d3dc858ac93297"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

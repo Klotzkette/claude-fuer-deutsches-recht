@@ -212,6 +212,8 @@ Direkte Klagen beim Gericht der Europäischen Union werden über e-Curia und nic
 
 ## 3. Signaturentscheidung
 
+Bei zwei einfachen Unterschriften unter derselben Endfassung prüfe [BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1): Versendet der verantwortende, einfach signierende Anwalt selbst aus seinem persönlichen beA, schadet die zusätzliche einfache Signatur eines weiteren Anwalts nicht. Stelle Name unter dem Schriftsatz und tatsächlichen Absender gegenüber. Daraus folgt keine Freigabe des Versands durch Mitarbeiter ohne qualifizierte Signatur; die Übermittlung aus einem Gesellschaftspostfach bleibt in dieser Entscheidung ausdrücklich offen.
+
 | Variante | Erfordernis |
 | --- | --- |
 | qualifizierte elektronische Signatur | verantwortende Person signiert qualifiziert; technischer Versand kann durch Mitarbeiter erfolgen |
@@ -246,7 +248,7 @@ BGH, Beschluss vom 30. Januar 2024, VIII ZB 85/22, verlangt eine organisierte Au
 
 ZPO Paragraf 130a Absatz 6 betrifft die geeignete Nachreichung nach Hinweis auf ein bereits eingegangenes, technisch ungeeignetes Dokument. Eine vorübergehende technische Unmöglichkeit und Ersatzeinreichung richtet sich nach ZPO Paragraf 130d Sätze 2 bis 4 beziehungsweise der Parallelvorschrift.
 
-Bei Störung direkt in `bea-wiedereinsetzung-ersatzeinreichung-2026` wechseln. Die Angabe `beA ging nicht` reicht nicht.
+Bei Störung den Skill `bea-wiedereinsetzung-ersatzeinreichung-2026` aus dem Plugin Prozessrecht verwenden; falls er nicht verfügbar ist, technische Unmöglichkeit, Ersatzform, Glaubhaftmachung und Wiedereinsetzung nach den hier genannten Normen getrennt prüfen. Die Angabe `beA ging nicht` reicht nicht.
 
 ## 7. Output
 

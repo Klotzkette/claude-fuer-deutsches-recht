@@ -42,6 +42,14 @@
       "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
       "checked_on": "2026-09-22",
       "supports": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25: Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar. Grenze/Prüftiefe: Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20: Schulnotentabelle für qualifiziertes Zeugnis durch individuelle Sätze über belegte Leistung und Verhalten ersetzen. Grenze: Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge. Gelesener Umfang: Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnisgenerator:BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+      "source_sha256": "03ee5d0a0265981d21ee5aeaf84511c1ec8634ffbff5311070a4ced373ac5219"
     }
   ],
   "mini_review": {
@@ -140,25 +148,44 @@
         "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
         "application": "Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht.",
-        "limit": "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel."
+        "limit": "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
         "application": "Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen.",
-        "limit": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil."
+        "limit": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
         "application": "Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam.",
-        "limit": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB."
+        "limit": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
         "application": "Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar.",
-        "limit": "Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern."
+        "limit": "Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
+        "application": "Schulnotentabelle für qualifiziertes Zeugnis durch individuelle Sätze über belegte Leistung und Verhalten ersetzen.",
+        "limit": "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnisgenerator:BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+        "passages_read": "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
+        "evidence_sha256": "03ee5d0a0265981d21ee5aeaf84511c1ec8634ffbff5311070a4ced373ac5219"
       }
     ],
     "remaining_limits": [
@@ -166,5 +193,19 @@
       "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Keine neue materielle Rechtsbehauptung aus zusätzlicher Rechtsprechung; bestehende Entscheidungsnachweise und deren damaliger Prüfstand erhalten."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
+        "status": "wiederverwendeter_auditnachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

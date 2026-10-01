@@ -87,6 +87,8 @@ Gleiche beschlossene Änderung, bisherige Satzung und vollständigen neuen Wortl
 
 ### 1.4.8 Amtslöschung und Registerbereinigung
 
+Bei privaten Anschriften oder Unterschriften im öffentlichen Registerordner Pflichtdaten von überschießenden Angaben trennen. [BGH, Beschluss vom 18.02.2026 – II ZB 2/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1), Rn. 20–25, 32–38 und 43–49: Nach Widerruf einer Einwilligung kann bei nicht vorgeschriebenen Daten ein Löschungsanspruch durch Austausch gegen eine ordnungsgemäße geschwärzte Fassung nach Paragraf 9 Absatz 7 HRV umgesetzt werden. Das Ursprungsdokument bleibt in der nicht allgemein öffentlichen Registerakte; keine eigenmächtige Veränderung der Urschrift und kein pauschales Löschen gesetzlicher Pflichtangaben. Frage nach betroffener Seite, Datenpflicht, Einwilligung und geeigneter notarieller Ersatzfassung; entwirf dann den bestimmten Austausch-/Löschungsantrag.
+
 Lies Androhung oder Anhörung und bestimme den konkreten Löschungsgrund. Unterscheide Unrichtigkeit, Vermögenslosigkeit und andere registerrechtliche Gründe; prüfe insbesondere den Anwendungsbereich von Paragraf 395 FamFG. Fordere bei streitiger Vermögenslosigkeit konkrete Vermögensnachweise an, ohne eine bloße Behauptung der Beteiligten als Nachweis auszugeben. Nach Eingang überarbeite die bestellte Stellungnahme und benenne verbleibende Widersprüche.
 
 ### 1.4.9 Anmeldung und Vollmacht
@@ -94,6 +96,8 @@ Lies Androhung oder Anhörung und bestimme den konkreten Löschungsgrund. Unters
 Prüfe anmeldende Person, Vertretungsmacht, Umfang einer Vollmacht und etwaige Untervollmacht getrennt von Unterschriftsbeglaubigung, Signatur und elektronischer Einreichung nach Paragraf 12 HGB. Die Berechtigung zum Übermitteln ersetzt nicht die Berechtigung zur abzugebenden Erklärung. Gleiche Namen, Registerdaten und Vertretungsregel in sämtlichen einschlägigen Urkunden ab und korrigiere nur belegte Schreib- oder Zuordnungsfehler.
 
 ### 1.4.10 Ausländische Urkunden
+
+Bei Onlinebeglaubigung die abstrakten Verfahrensgarantien des Herkunftsrechts prüfen: [BGH, Beschluss vom 25.02.2026 – II ZB 13/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1), Rn. 8–29, verneint die Gleichwertigkeit der geprüften österreichischen Onlinebeglaubigung nach Paragraf 79 Absatz 9 in Verbindung mit Paragraf 69b Absatz 2 Satz 1 Nummer 1 oder 2 öNotO. Frage nach Identifizierung, persönlicher Prüfung durch den Notar, elektronischem Lichtbild und hoheitlicher Plattform; einzelne zusätzliche Maßnahmen ersetzen keine abstrakte Gleichwertigkeit. Die Entscheidung verwirft nicht sämtliche ausländischen Präsenzbeglaubigungen. Maßgebliche heutige Verfahrensfassung und Paragraf 12 HGB zusätzlich prüfen.
 
 Bestimme Herkunft, Aussteller, Aussagegehalt und Verwendungszweck. Prüfe Existenz- und Vertretungsnachweis, Übersetzung sowie gegebenenfalls Apostille oder Legalisation anhand der konkret anwendbaren Regeln. Verlange nicht automatisch alle Förmlichkeiten für jede Auslandsurkunde. Fehlt die maßgebliche Passage oder eine zuverlässige Übersetzung, benenne genau diese Lücke; eine Echtheitsbestätigung beweist nicht jede behauptete materielle Rechtsfolge.
 

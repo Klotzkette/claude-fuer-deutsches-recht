@@ -34,6 +34,8 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 - Anerkannte Umweltvereinigungen, Beteiligung, Präklusionsfragen
 - UIG/Aarhus-Logik und Öffentlichkeitsbeteiligung
 
+[BVerwG, Urteil vom 26.05.2026 – 7 C 5.25](https://www.bverwg.de/260526U7C5.25.0), Rn. 8–15: Im Anwendungsbereich des Paragrafen 6 UmwRG erfasst die Begründungsfrist auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen, bei Individual- wie Verbandsklagen. Erfasse deshalb sämtliche tatsächlichen Angriffslinien rechtzeitig. Spätere Vertiefung, genügende Entschuldigung und die gesetzliche Ausnahme geringer Ermittlungsaufwände gesondert prüfen; kein automatischer Ausschluss der gesamten Klage.
+
 ## Prüfroutine
 
 1. **Scope:** Was genau soll entschieden, beantragt, abgewehrt oder dokumentiert werden? Welche Einheit ist betroffen und welches Recht gilt wirklich?

@@ -112,6 +112,20 @@
       "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
       "supports": "Erneuter Normabruf zur Dreiwochenfrist und zum Angriff gegen die konkrete Kündigung; Folgekündigungen getrennt behandeln.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+      "checked_on": "2026-09-30",
+      "supports": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57: Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen. Grenze: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde. Gelesener Umfang: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
+      "verification_status": "wiederverwendeter_passagennachweis",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+      "checked_on": "2026-09-30",
+      "supports": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26: Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen. Grenze: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze. Gelesener Umfang: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze.",
+      "verification_status": "wiederverwendeter_passagennachweis",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
     }
   ],
   "mini_review": {
@@ -279,67 +293,109 @@
         "citation": "BAG, Urteil vom 12.02.2025, 5 AZR 127/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/",
         "application": "Einseitig freigestellter Arbeitnehmer muss vor Vertragsende ohne besondere Umstände keine andere Beschäftigung allein zur Entlastung des Arbeitgebers aufnehmen.",
-        "limit": "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext."
+        "limit": "Volltext Rn. 16 bis 25; kein allgemeiner Verzicht auf Anrechnung nach Vertragsende. BAG 5 AZR 37/25 nur Pressemitteilung, kein Volltext.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
         "application": "Einlieferung und Status ohne Auslieferungsbeleg tragen keinen Anscheinsbeweis des Zugangs.",
-        "limit": "Volltext Rn. 10 bis 20; andere Beweise bleiben offen."
+        "limit": "Volltext Rn. 10 bis 20; andere Beweise bleiben offen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 30.07.2026, 2 AZR 96/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24/",
         "application": "Annahmeverzug nach unwirksamer Arbeitgeberkündigung kann nicht vorab vollständig ausgeschlossen werden.",
-        "limit": "Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend."
+        "limit": "Volltext Rn. 10 bis 20; nicht sämtliche Gestaltungen zu Paragraf 615 BGB zwingend.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 26.08.2026, 5 AZR 37/25",
         "url": "https://www.bundesarbeitsgericht.de/presse/annahmeverzugsverguetung-kein-auskunftsanspruch-zu-bewerbungen-auf-stellenangebote/",
         "application": "Auskunft über Vermittlungsangebote von Bewerbungsdetails und sekundärer Darlegung unterscheiden.",
-        "limit": "Nur amtliche Pressemitteilung 29/26; kein Volltext und keine allgemeine Befreiung von Prozessvortrag."
+        "limit": "Nur amtliche Pressemitteilung 29/26; kein Volltext und keine allgemeine Befreiung von Prozessvortrag.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 27.05.2020, 5 AZR 387/19",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-387-19/",
         "application": "Arbeitgeber trägt Einwendung, Auskunft über behördliche Vermittlungsangebote dient Sachaufklärung.",
-        "limit": "Volltext Rn. 27 bis 28 und 43 bis 50; sekundäre Darlegung kehrt Beweislast nicht um."
+        "limit": "Volltext Rn. 27 bis 28 und 43 bis 50; sekundäre Darlegung kehrt Beweislast nicht um.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 09.02.2022, 5 AZR 347/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-347-21/",
         "application": "Zwischenverdienst in die Gesamtberechnung des maßgeblichen Verzugszeitraums einordnen.",
-        "limit": "Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten."
+        "limit": "Volltext Rn. 25 bis 29; Grenzen von Anträgen und erhobener Einwendung beachten.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 07.05.2026, 2 AZR 130/25",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-130-25/",
         "application": "Unterschreiben einzelne Mitglieder des gesamtvertretungsbefugten GmbH-Aufsichtsrats, Satzung, Ermächtigung, Nachweis und unverzügliche Zurückweisung nach Paragraf 174 BGB entsprechend prüfen.",
-        "limit": "Amtlicher Volltext, Rn. 16 bis 33: konkrete Kenntnisgabe der Einzelermächtigung kann Zurückweisung ausschließen; keine Urkundenvorlagepflicht für sämtliche Organvertreter."
+        "limit": "Amtlicher Volltext, Rn. 16 bis 33: konkrete Kenntnisgabe der Einzelermächtigung kann Zurückweisung ausschließen; keine Urkundenvorlagepflicht für sämtliche Organvertreter.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 24.08.2023, 2 AZR 17/23",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-17-23/",
         "application": "Bei groben beleidigenden und menschenverachtenden Gruppenchatäußerungen besondere Darlegung berechtigter Vertraulichkeit anhand Inhalt, Zusammensetzung, Beteiligung und Medium verlangen.",
-        "limit": "Amtlicher Volltext, Rn. 15 bis 41: keine feste Teilnehmergrenze, keine abschließende Kündigungsbestätigung; Interessenabwägung und Verwertbarkeit gesondert."
+        "limit": "Amtlicher Volltext, Rn. 15 bis 41: keine feste Teilnehmergrenze, keine abschließende Kündigungsbestätigung; Interessenabwägung und Verwertbarkeit gesondert.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Großer Senat, Beschluss vom 27.02.1985, GS 1/84; amtlich bestätigt durch BAG, Urteil vom 31.03.2022, 8 AZR 207/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-207-21/",
         "application": "Allgemeinen Weiterbeschäftigungsanspruch nach stattgebendem Kündigungsschutzurteil und überwiegende Gegeninteressen prüfen; vor einem Urteil regelmäßig Nichtbeschäftigungsinteresse, außer insbesondere bei offensichtlich unwirksamer Kündigung.",
-        "limit": "Amtliche Rn. 71 bis 75 der Folgeentscheidung gelesen; historischer Originalvolltext nicht amtlich abrufbar. Keine Übertragung der dort behandelten Steuerschadensfrage oder Gleichsetzung mit Annahmeverzugslohn."
+        "limit": "Amtliche Rn. 71 bis 75 der Folgeentscheidung gelesen; historischer Originalvolltext nicht amtlich abrufbar. Keine Übertragung der dort behandelten Steuerschadensfrage oder Gleichsetzung mit Annahmeverzugslohn.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 05.12.2019, 2 AZR 240/19",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-240-19/",
         "application": "Bei Weiterbeschäftigung aktuelles Instanzurteil und geänderte Sachlage einschließlich späterem Auflösungsantrag prüfen.",
-        "limit": "Amtliche Rn. 117 bis 123 gelesen; früheres erstinstanzliches Obsiegen trägt nicht unabhängig von divergierenden Folgeentscheidungen. Keine Aussage zum konkreten Vollstreckungsschutzverfahren."
+        "limit": "Amtliche Rn. 117 bis 123 gelesen; früheres erstinstanzliches Obsiegen trägt nicht unabhängig von divergierenden Folgeentscheidungen. Keine Aussage zum konkreten Vollstreckungsschutzverfahren.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 27.05.2020, 5 AZR 247/19",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-247-19/",
         "application": "Allgemeine Weiterbeschäftigung von der gesetzlichen Weiterbeschäftigung nach ordnungsgemäßem Betriebsratswiderspruch unterscheiden.",
-        "limit": "Amtliche Rn. 23 bis 29 und 39 bis 44 gelesen; Voraussetzungen und Rechtsfolgen des Paragrafen 102 Absatz 5 BetrVG nicht analog auf den allgemeinen Anspruch übertragen."
+        "limit": "Amtliche Rn. 23 bis 29 und 39 bis 44 gelesen; Voraussetzungen und Rechtsfolgen des Paragrafen 102 Absatz 5 BetrVG nicht analog auf den allgemeinen Anspruch übertragen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+        "application": "Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen.",
+        "limit": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+        "passages_read": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde."
+      },
+      {
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+        "application": "Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen.",
+        "limit": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+        "passages_read": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze."
       }
     ],
     "remaining_limits": [
@@ -381,5 +437,24 @@
     ],
     "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
     "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

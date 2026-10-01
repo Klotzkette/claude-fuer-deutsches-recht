@@ -1,0 +1,3070 @@
+{
+  "method": "heuristic_full_specialist_markdown_crosscheck_not_legal_verification",
+  "plugin_count": 259,
+  "files_scanned": 24495,
+  "docket_occurrences": 9201,
+  "occurrences_with_existing_profile_anchor": 3454,
+  "unique_dockets_outside_profiles": 1423,
+  "possible_date_conflicts": 10,
+  "plugins": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "directory": "agb-recht-pruefer",
+      "files_scanned": 295,
+      "docket_occurrences": 130,
+      "unique_detected_dockets": 67,
+      "profile_dockets": [
+        "C-191/15",
+        "C-260/18",
+        "IIIZR165/24",
+        "IIIZR426/23",
+        "IZR212/20",
+        "XIZR129/24",
+        "XIZR26/20",
+        "XIZR309/16"
+      ]
+    },
+    {
+      "plugin": "aktenaufbereiter-strafrecht",
+      "directory": "aktenaufbereiter-strafrecht",
+      "files_scanned": 63,
+      "docket_occurrences": 7,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "2BvR2628/10"
+      ]
+    },
+    {
+      "plugin": "aktenauszug-gerichtsverfahren",
+      "directory": "aktenauszug-gerichtsverfahren",
+      "files_scanned": 63,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VIIIZB80/22"
+      ]
+    },
+    {
+      "plugin": "aktienrecht-hauptversammlung-ag-se",
+      "directory": "aktienrecht-hauptversammlung-ag-se",
+      "files_scanned": 103,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IIZR208/22"
+      ]
+    },
+    {
+      "plugin": "anlagen-zu-schriftsaetzen",
+      "directory": "anlagen-zu-schriftsaetzen",
+      "files_scanned": 124,
+      "docket_occurrences": 38,
+      "unique_detected_dockets": 20,
+      "profile_dockets": [
+        "7ABR23/23",
+        "IZR106/25",
+        "VIIIZB80/22"
+      ]
+    },
+    {
+      "plugin": "antidiskriminierung-agg",
+      "directory": "antidiskriminierung-agg",
+      "files_scanned": 14,
+      "docket_occurrences": 35,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "8AZR21/23",
+        "8AZR269/24",
+        "8AZR372/16",
+        "8AZR402/15",
+        "8AZR49/25",
+        "IZR129/25"
+      ]
+    },
+    {
+      "plugin": "anwaltschaft-generell",
+      "directory": "anwaltschaft-generell",
+      "files_scanned": 15,
+      "docket_occurrences": 29,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "2AZR68/24",
+        "C-154/21"
+      ]
+    },
+    {
+      "plugin": "apothekenrecht",
+      "directory": "apothekenrecht",
+      "files_scanned": 69,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "IZR123/13"
+      ]
+    },
+    {
+      "plugin": "arbeitsrecht",
+      "directory": "arbeitsrecht",
+      "files_scanned": 104,
+      "docket_occurrences": 127,
+      "unique_detected_dockets": 45,
+      "profile_dockets": [
+        "2AZR68/24",
+        "5AZR96/25",
+        "8AZR153/25"
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnis-analyse",
+      "directory": "arbeitszeugnis-analyse",
+      "files_scanned": 53,
+      "docket_occurrences": 96,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "2AZR96/24",
+        "8AZB25/25",
+        "9AZR262/20",
+        "9AZR386/10",
+        "9AZR584/13"
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnisgenerator",
+      "directory": "arbeitszeugnisgenerator",
+      "files_scanned": 43,
+      "docket_occurrences": 154,
+      "unique_detected_dockets": 16,
+      "profile_dockets": [
+        "2AZR96/24",
+        "8AZB25/25",
+        "9AZR146/21",
+        "9AZR262/20",
+        "9AZR272/22",
+        "9AZR386/10",
+        "9AZR584/13"
+      ]
+    },
+    {
+      "plugin": "arbeitszeugnispruefer",
+      "directory": "arbeitszeugnispruefer",
+      "files_scanned": 34,
+      "docket_occurrences": 84,
+      "unique_detected_dockets": 15,
+      "profile_dockets": [
+        "2AZR96/24",
+        "8AZB25/25",
+        "9AZB49/16",
+        "9AZR146/21",
+        "9AZR227/11",
+        "9AZR262/20",
+        "9AZR272/22",
+        "9AZR386/10",
+        "9AZR584/13"
+      ]
+    },
+    {
+      "plugin": "aufsichtsrat-ag-se-praxis",
+      "directory": "aufsichtsrat-ag-se-praxis",
+      "files_scanned": 103,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIZR24/17"
+      ]
+    },
+    {
+      "plugin": "aussenwirtschaft-zoll-sanktionen",
+      "directory": "aussenwirtschaft-zoll-sanktionen",
+      "files_scanned": 129,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-72/11"
+      ]
+    },
+    {
+      "plugin": "bank-rechtsabteilung",
+      "directory": "bank-rechtsabteilung",
+      "files_scanned": 126,
+      "docket_occurrences": 25,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "XIZR20/24",
+        "XIZR91/14"
+      ]
+    },
+    {
+      "plugin": "barrierefreiheit-web-checker",
+      "directory": "barrierefreiheit-web-checker",
+      "files_scanned": 63,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIIZR79/09"
+      ]
+    },
+    {
+      "plugin": "bautraegervertrag-pruefer",
+      "directory": "bautraegervertrag-pruefer",
+      "files_scanned": 34,
+      "docket_occurrences": 55,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "VIIZR308/12",
+        "VIIZR310/99",
+        "VIIZR46/17"
+      ]
+    },
+    {
+      "plugin": "bautraegervertragspruefer",
+      "directory": "bautraegervertragspruefer",
+      "files_scanned": 33,
+      "docket_occurrences": 70,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "VIIZR308/12",
+        "VIIZR310/99",
+        "VIIZR46/17"
+      ]
+    },
+    {
+      "plugin": "bauwirtschaft",
+      "directory": "bauwirtschaft",
+      "files_scanned": 70,
+      "docket_occurrences": 125,
+      "unique_detected_dockets": 21,
+      "profile_dockets": [
+        "IIIZR121/12",
+        "VIIZR108/24",
+        "VIIZR119/24",
+        "VIIZR190/22",
+        "VIIZR310/99",
+        "VIIZR34/18",
+        "VIIZR42/22",
+        "VIIZR46/17",
+        "VIIZR68/24",
+        "VIIZR88/25",
+        "VZR91/25",
+        "XZB3/17"
+      ]
+    },
+    {
+      "plugin": "bav-strategie-konzern",
+      "directory": "bav-strategie-konzern",
+      "files_scanned": 62,
+      "docket_occurrences": 11,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "3AZR159/25",
+        "3AZR408/10",
+        "3AZR517/13"
+      ]
+    },
+    {
+      "plugin": "bea-versand",
+      "directory": "bea-versand",
+      "files_scanned": 3,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VIIIZB80/22"
+      ]
+    },
+    {
+      "plugin": "beamtenrecht",
+      "directory": "beamtenrecht",
+      "files_scanned": 182,
+      "docket_occurrences": 186,
+      "unique_detected_dockets": 42,
+      "profile_dockets": [
+        "2VR4.24"
+      ]
+    },
+    {
+      "plugin": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "directory": "bereicherungs-und-anfechtungsrecht-pruefer",
+      "files_scanned": 142,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "IXZR247/19",
+        "VIIIZR100/18"
+      ]
+    },
+    {
+      "plugin": "berichtspflichten-erlediger",
+      "directory": "berichtspflichten-erlediger",
+      "files_scanned": 61,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "8C9.16"
+      ]
+    },
+    {
+      "plugin": "berufsgerichtliche-verfahren-freie-berufe",
+      "directory": "berufsgerichtliche-verfahren-freie-berufe",
+      "files_scanned": 102,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvR1751/12"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-anwaelte",
+      "directory": "berufsrecht-anwaelte",
+      "files_scanned": 211,
+      "docket_occurrences": 15,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "IXZR154/24",
+        "IXZR226/22",
+        "IXZR241/14"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-ki-vertragspruefung",
+      "directory": "berufsrecht-ki-vertragspruefung",
+      "files_scanned": 104,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-311/18"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-notare",
+      "directory": "berufsrecht-notare",
+      "files_scanned": 207,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IVZR40/25"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-patentanwaelte",
+      "directory": "berufsrecht-patentanwaelte",
+      "files_scanned": 207,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "XZB7/21"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-steuerberater",
+      "directory": "berufsrecht-steuerberater",
+      "files_scanned": 207,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IXZR178/03"
+      ]
+    },
+    {
+      "plugin": "berufsrecht-wirtschaftspruefer",
+      "directory": "berufsrecht-wirtschaftspruefer",
+      "files_scanned": 235,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "XaZR175/07"
+      ]
+    },
+    {
+      "plugin": "betaeubungsmittelrecht",
+      "directory": "betaeubungsmittelrecht",
+      "files_scanned": 129,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "1StR106/24"
+      ]
+    },
+    {
+      "plugin": "betreuungsrecht",
+      "directory": "betreuungsrecht",
+      "files_scanned": 123,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "1BvR413/20",
+        "XIIZB171/26"
+      ]
+    },
+    {
+      "plugin": "betriebskosten-hausverwaltung",
+      "directory": "betriebskosten-hausverwaltung",
+      "files_scanned": 14,
+      "docket_occurrences": 27,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "VIIIZR118/19",
+        "VIIIZR156/11",
+        "VIIIZR220/17",
+        "VIIIZR249/15",
+        "VIIIZR27/07",
+        "VIIIZR66/20"
+      ]
+    },
+    {
+      "plugin": "bgb-at-pruefer",
+      "directory": "bgb-at-pruefer",
+      "files_scanned": 101,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "VIIIZR289/09"
+      ]
+    },
+    {
+      "plugin": "bgb-bt-pruefer",
+      "directory": "bgb-bt-pruefer",
+      "files_scanned": 112,
+      "docket_occurrences": 20,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "VIIZR46/17"
+      ]
+    },
+    {
+      "plugin": "buerokratieversteher-entbuerokratisierer",
+      "directory": "buerokratieversteher-entbuerokratisierer",
+      "files_scanned": 104,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "B2U13/22R"
+      ]
+    },
+    {
+      "plugin": "bundesnetzagentur-verfahren",
+      "directory": "bundesnetzagentur-verfahren",
+      "files_scanned": 225,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 7,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "bundeswehrrecht-wehrrecht",
+      "directory": "bundeswehrrecht-wehrrecht",
+      "files_scanned": 110,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "commercial-courts-deutschland",
+      "directory": "commercial-courts-deutschland",
+      "files_scanned": 62,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-566/22"
+      ]
+    },
+    {
+      "plugin": "common-law-kompass",
+      "directory": "common-law-kompass",
+      "files_scanned": 63,
+      "docket_occurrences": 1,
+      "unique_detected_dockets": 1,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "corporate-contract-law",
+      "directory": "corporate-contract-law",
+      "files_scanned": 25,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "C-381/98"
+      ]
+    },
+    {
+      "plugin": "corporate-kanzlei",
+      "directory": "corporate-kanzlei",
+      "files_scanned": 94,
+      "docket_occurrences": 18,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "IIZR364/18"
+      ]
+    },
+    {
+      "plugin": "datenbankrecht",
+      "directory": "datenbankrecht",
+      "files_scanned": 132,
+      "docket_occurrences": 109,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "C-304/07"
+      ]
+    },
+    {
+      "plugin": "datenschutz-sanktionsverfahren-verteidigung",
+      "directory": "datenschutz-sanktionsverfahren-verteidigung",
+      "files_scanned": 105,
+      "docket_occurrences": 348,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "C-807/21"
+      ]
+    },
+    {
+      "plugin": "datenschutzrecht",
+      "directory": "datenschutzrecht",
+      "files_scanned": 352,
+      "docket_occurrences": 608,
+      "unique_detected_dockets": 35,
+      "profile_dockets": [
+        "C-300/21",
+        "C-487/21",
+        "C-526/24"
+      ]
+    },
+    {
+      "plugin": "denkmalschutzrecht",
+      "directory": "denkmalschutzrecht",
+      "files_scanned": 53,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvL7/91"
+      ]
+    },
+    {
+      "plugin": "designrecht-geschmacksmusterrecht",
+      "directory": "designrecht-geschmacksmusterrecht",
+      "files_scanned": 54,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "C-345/13",
+        "IZR96/22"
+      ]
+    },
+    {
+      "plugin": "deutsche-rechtsgeschichte",
+      "directory": "deutsche-rechtsgeschichte",
+      "files_scanned": 209,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "2BvR1851/94"
+      ]
+    },
+    {
+      "plugin": "dfg-foerderantrag",
+      "directory": "dfg-foerderantrag",
+      "files_scanned": 88,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvR2219/20"
+      ]
+    },
+    {
+      "plugin": "diesel-schadensersatz",
+      "directory": "diesel-schadensersatz",
+      "files_scanned": 41,
+      "docket_occurrences": 757,
+      "unique_detected_dockets": 123,
+      "profile_dockets": [
+        "C-100/21",
+        "C-113/26",
+        "C-232/21",
+        "C-38/21",
+        "C-47/21",
+        "VIaZB3/24",
+        "VIaZR1157/23",
+        "VIaZR151/23",
+        "VIaZR1559/22",
+        "VIaZR17/23",
+        "VIaZR335/21",
+        "VIaZR46/24",
+        "VIaZR545/23",
+        "VIaZR549/24",
+        "VIaZR782/23",
+        "XZR83/20"
+      ]
+    },
+    {
+      "plugin": "dsa-dma-digitalregulierung",
+      "directory": "dsa-dma-digitalregulierung",
+      "files_scanned": 62,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "T-1077/23",
+        "T-348/23"
+      ]
+    },
+    {
+      "plugin": "ecommerce-recht",
+      "directory": "ecommerce-recht",
+      "files_scanned": 76,
+      "docket_occurrences": 19,
+      "unique_detected_dockets": 12,
+      "profile_dockets": [
+        "C-249/21",
+        "C-565/22"
+      ]
+    },
+    {
+      "plugin": "einfache-leichte-sprache-jura",
+      "directory": "einfache-leichte-sprache-jura",
+      "files_scanned": 93,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-278/16"
+      ]
+    },
+    {
+      "plugin": "einigungsvertrag-vermoegensrecht",
+      "directory": "einigungsvertrag-vermoegensrecht",
+      "files_scanned": 127,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "8C13.18"
+      ]
+    },
+    {
+      "plugin": "email-umformulierer-berufsrecht",
+      "directory": "email-umformulierer-berufsrecht",
+      "files_scanned": 87,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvR1751/12"
+      ]
+    },
+    {
+      "plugin": "energierecht",
+      "directory": "energierecht",
+      "files_scanned": 100,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 11,
+      "profile_dockets": [
+        "VIIIZR148/17"
+      ]
+    },
+    {
+      "plugin": "enteignung-artikel-14",
+      "directory": "enteignung-artikel-14",
+      "files_scanned": 14,
+      "docket_occurrences": 21,
+      "unique_detected_dockets": 5,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "erbbaurecht-praxis",
+      "directory": "erbbaurecht-praxis",
+      "files_scanned": 54,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VZR110/09"
+      ]
+    },
+    {
+      "plugin": "europaeisches-prozessrecht",
+      "directory": "europaeisches-prozessrecht",
+      "files_scanned": 24,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "C-561/19"
+      ]
+    },
+    {
+      "plugin": "europarecht-kompass",
+      "directory": "europarecht-kompass",
+      "files_scanned": 62,
+      "docket_occurrences": 16,
+      "unique_detected_dockets": 12,
+      "profile_dockets": [
+        "C-573/17"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-agrarrecht",
+      "directory": "fachanwalt-agrarrecht",
+      "files_scanned": 86,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 6,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "fachanwalt-arbeitsrecht",
+      "directory": "fachanwalt-arbeitsrecht",
+      "files_scanned": 128,
+      "docket_occurrences": 281,
+      "unique_detected_dockets": 70,
+      "profile_dockets": [
+        "2AZR130/25",
+        "2AZR17/23",
+        "2AZR240/19",
+        "2AZR68/24",
+        "2AZR96/24",
+        "5AZR127/24",
+        "5AZR247/19",
+        "5AZR347/21",
+        "5AZR37/25",
+        "5AZR387/19",
+        "5AZR96/25",
+        "8AZR153/25",
+        "8AZR207/21"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-bank-kapitalmarktrecht",
+      "directory": "fachanwalt-bank-kapitalmarktrecht",
+      "files_scanned": 94,
+      "docket_occurrences": 132,
+      "unique_detected_dockets": 37,
+      "profile_dockets": [
+        "XIZR20/24",
+        "XIZR71/25",
+        "XIZR91/14"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-bau-architektenrecht",
+      "directory": "fachanwalt-bau-architektenrecht",
+      "files_scanned": 128,
+      "docket_occurrences": 133,
+      "unique_detected_dockets": 46,
+      "profile_dockets": [
+        "VIIZR119/24",
+        "VIIZR33/19",
+        "VIIZR46/17"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-erbrecht",
+      "directory": "fachanwalt-erbrecht",
+      "files_scanned": 80,
+      "docket_occurrences": 41,
+      "unique_detected_dockets": 25,
+      "profile_dockets": [
+        "IVZB4/26",
+        "IVZB7/25",
+        "IVZR193/19",
+        "IVZR40/25",
+        "IVZR88/24",
+        "IVZR93/24"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-familienrecht",
+      "directory": "fachanwalt-familienrecht",
+      "files_scanned": 143,
+      "docket_occurrences": 102,
+      "unique_detected_dockets": 50,
+      "profile_dockets": [
+        "XIIZB415/25",
+        "XIIZB558/23"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-gewerblicher-rechtsschutz",
+      "directory": "fachanwalt-gewerblicher-rechtsschutz",
+      "files_scanned": 115,
+      "docket_occurrences": 55,
+      "unique_detected_dockets": 32,
+      "profile_dockets": [
+        "C-345/13",
+        "IZR246/98",
+        "IZR96/22"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-handels-gesellschaftsrecht",
+      "directory": "fachanwalt-handels-gesellschaftsrecht",
+      "files_scanned": 102,
+      "docket_occurrences": 42,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "IIZR342/14",
+        "IIZR65/16"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-insolvenz-sanierungsrecht",
+      "directory": "fachanwalt-insolvenz-sanierungsrecht",
+      "files_scanned": 146,
+      "docket_occurrences": 103,
+      "unique_detected_dockets": 27,
+      "profile_dockets": [
+        "IIZR319/15"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-internationales-wirtschaftsrecht",
+      "directory": "fachanwalt-internationales-wirtschaftsrecht",
+      "files_scanned": 85,
+      "docket_occurrences": 18,
+      "unique_detected_dockets": 8,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "fachanwalt-it-recht",
+      "directory": "fachanwalt-it-recht",
+      "files_scanned": 146,
+      "docket_occurrences": 47,
+      "unique_detected_dockets": 18,
+      "profile_dockets": [
+        "VIIZR301/13"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-medizinrecht",
+      "directory": "fachanwalt-medizinrecht",
+      "files_scanned": 167,
+      "docket_occurrences": 58,
+      "unique_detected_dockets": 10,
+      "profile_dockets": [
+        "VIZR183/08",
+        "VIZR375/21"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-miet-wohnungseigentumsrecht",
+      "directory": "fachanwalt-miet-wohnungseigentumsrecht",
+      "files_scanned": 390,
+      "docket_occurrences": 235,
+      "unique_detected_dockets": 51,
+      "profile_dockets": [
+        "VIIIZR50/23",
+        "VIIIZR81/19",
+        "VZR43/22"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-migrationsrecht",
+      "directory": "fachanwalt-migrationsrecht",
+      "files_scanned": 261,
+      "docket_occurrences": 52,
+      "unique_detected_dockets": 21,
+      "profile_dockets": [
+        "1C20.09",
+        "1C27.25",
+        "1C6.25"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-sozialrecht",
+      "directory": "fachanwalt-sozialrecht",
+      "files_scanned": 121,
+      "docket_occurrences": 101,
+      "unique_detected_dockets": 35,
+      "profile_dockets": [
+        "1BvR569/05",
+        "B13R7/18R",
+        "B3KR2/25R",
+        "B4KG1/24R"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-sportrecht",
+      "directory": "fachanwalt-sportrecht",
+      "files_scanned": 85,
+      "docket_occurrences": 30,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "7AZR312/16"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-strafrecht",
+      "directory": "fachanwalt-strafrecht",
+      "files_scanned": 248,
+      "docket_occurrences": 131,
+      "unique_detected_dockets": 46,
+      "profile_dockets": [
+        "1BvR1409/25",
+        "1BvR2232/24",
+        "2BvR2628/10",
+        "3StR203/25",
+        "6StR160/26",
+        "6StR546/24"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-transport-speditionsrecht",
+      "directory": "fachanwalt-transport-speditionsrecht",
+      "files_scanned": 85,
+      "docket_occurrences": 16,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IZR125/25",
+        "IZR134/25",
+        "IZR87/11"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-urheber-medienrecht",
+      "directory": "fachanwalt-urheber-medienrecht",
+      "files_scanned": 85,
+      "docket_occurrences": 19,
+      "unique_detected_dockets": 12,
+      "profile_dockets": [
+        "IZR93/19",
+        "IZR96/22"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "directory": "fachanwalt-vergaberecht",
+      "files_scanned": 130,
+      "docket_occurrences": 112,
+      "unique_detected_dockets": 36,
+      "profile_dockets": [
+        "C-316/25",
+        "XZB3/17"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-verkehrsrecht",
+      "directory": "fachanwalt-verkehrsrecht",
+      "files_scanned": 85,
+      "docket_occurrences": 139,
+      "unique_detected_dockets": 13,
+      "profile_dockets": [
+        "VIZR253/22"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "directory": "fachanwalt-versicherungsrecht",
+      "files_scanned": 99,
+      "docket_occurrences": 65,
+      "unique_detected_dockets": 16,
+      "profile_dockets": [
+        "IVZR225/10",
+        "IVZR259/25",
+        "IVZR41/25",
+        "IVZR535/15"
+      ]
+    },
+    {
+      "plugin": "fachanwalt-verwaltungsrecht",
+      "directory": "fachanwalt-verwaltungsrecht",
+      "files_scanned": 88,
+      "docket_occurrences": 30,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "8C11.21"
+      ]
+    },
+    {
+      "plugin": "factoring-recht",
+      "directory": "factoring-recht",
+      "files_scanned": 66,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "IXZR128/12"
+      ]
+    },
+    {
+      "plugin": "fahrgastrechte",
+      "directory": "fahrgastrechte",
+      "files_scanned": 22,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-509/11"
+      ]
+    },
+    {
+      "plugin": "fashion-law-moderecht",
+      "directory": "fashion-law-moderecht",
+      "files_scanned": 54,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "IZR96/22",
+        "IZR98/23"
+      ]
+    },
+    {
+      "plugin": "festlandchina-wirtschaftsverkehr",
+      "directory": "festlandchina-wirtschaftsverkehr",
+      "files_scanned": 202,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IZB37/23"
+      ]
+    },
+    {
+      "plugin": "fluggastrechte",
+      "directory": "fluggastrechte",
+      "files_scanned": 94,
+      "docket_occurrences": 201,
+      "unique_detected_dockets": 24,
+      "profile_dockets": [
+        "C-28/20",
+        "C-402/07",
+        "C-432/07",
+        "C-537/17",
+        "C-549/07",
+        "T-656/24"
+      ]
+    },
+    {
+      "plugin": "forderungsmanagement-klagewerkstatt",
+      "directory": "forderungsmanagement-klagewerkstatt",
+      "files_scanned": 91,
+      "docket_occurrences": 42,
+      "unique_detected_dockets": 25,
+      "profile_dockets": [
+        "IIIZR156/12",
+        "IIIZR91/07"
+      ]
+    },
+    {
+      "plugin": "forschungszulage-antragstellung",
+      "directory": "forschungszulage-antragstellung",
+      "files_scanned": 88,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "fortbestehensprognose",
+      "directory": "fortbestehensprognose",
+      "files_scanned": 65,
+      "docket_occurrences": 38,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "IIZR84/20"
+      ]
+    },
+    {
+      "plugin": "franchiserecht-praxis",
+      "directory": "franchiserecht-praxis",
+      "files_scanned": 125,
+      "docket_occurrences": 16,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "VIIZR109/13"
+      ]
+    },
+    {
+      "plugin": "gebrauchsmusterrecht",
+      "directory": "gebrauchsmusterrecht",
+      "files_scanned": 54,
+      "docket_occurrences": 11,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "XZB27/05"
+      ]
+    },
+    {
+      "plugin": "geldwaeschepraevention-aml-kyc",
+      "directory": "geldwaeschepraevention-aml-kyc",
+      "files_scanned": 25,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "C-305/05"
+      ]
+    },
+    {
+      "plugin": "gesellschaftsgruender",
+      "directory": "gesellschaftsgruender",
+      "files_scanned": 119,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IIZB25/10"
+      ]
+    },
+    {
+      "plugin": "gesellschaftsrecht",
+      "directory": "gesellschaftsrecht",
+      "files_scanned": 130,
+      "docket_occurrences": 42,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "IIZR12/17",
+        "IIZR50/25",
+        "IIZR71/24"
+      ]
+    },
+    {
+      "plugin": "gesellschaftsrecht-legal-english",
+      "directory": "gesellschaftsrecht-legal-english",
+      "files_scanned": 57,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "IIZR12/17"
+      ]
+    },
+    {
+      "plugin": "gesellschaftsrechtliche-treuepflicht",
+      "directory": "gesellschaftsrechtliche-treuepflicht",
+      "files_scanned": 103,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "IIZR275/14",
+        "IIZR85/25"
+      ]
+    },
+    {
+      "plugin": "gewerblicher-rechtsschutz",
+      "directory": "gewerblicher-rechtsschutz",
+      "files_scanned": 98,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "C-355/96"
+      ]
+    },
+    {
+      "plugin": "gmbh-gesellschafterversammlung",
+      "directory": "gmbh-gesellschafterversammlung",
+      "files_scanned": 13,
+      "docket_occurrences": 23,
+      "unique_detected_dockets": 8,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "goae-gebuehrenordnung-aerzte",
+      "directory": "goae-gebuehrenordnung-aerzte",
+      "files_scanned": 69,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIIZR54/07"
+      ]
+    },
+    {
+      "plugin": "grosskanzlei-corporate-ma",
+      "directory": "grosskanzlei-corporate-ma",
+      "files_scanned": 245,
+      "docket_occurrences": 46,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "C-746/21",
+        "VZR77/22"
+      ]
+    },
+    {
+      "plugin": "grundbuchamt-praxis",
+      "directory": "grundbuchamt-praxis",
+      "files_scanned": 68,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VZB8/23"
+      ]
+    },
+    {
+      "plugin": "grundsteuerrecht",
+      "directory": "grundsteuerrecht",
+      "files_scanned": 14,
+      "docket_occurrences": 10,
+      "unique_detected_dockets": 4,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "handelsrecht-hgb",
+      "directory": "handelsrecht-hgb",
+      "files_scanned": 59,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "VIIIZR246/16"
+      ]
+    },
+    {
+      "plugin": "handelsregister-praxis",
+      "directory": "handelsregister-praxis",
+      "files_scanned": 81,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IIZB13/24",
+        "IIZB15/22",
+        "IIZB2/25"
+      ]
+    },
+    {
+      "plugin": "handelsvertreterrecht",
+      "directory": "handelsvertreterrecht",
+      "files_scanned": 132,
+      "docket_occurrences": 21,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "C-204/25",
+        "VIIIZR100/05"
+      ]
+    },
+    {
+      "plugin": "hausarbeitenmacher",
+      "directory": "hausarbeitenmacher",
+      "files_scanned": 63,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "6B16.20"
+      ]
+    },
+    {
+      "plugin": "haushaltsrecht-bho-bund-laender",
+      "directory": "haushaltsrecht-bho-bund-laender",
+      "files_scanned": 274,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "hinweisgeberschutz-compliance",
+      "directory": "hinweisgeberschutz-compliance",
+      "files_scanned": 105,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvR2049/00"
+      ]
+    },
+    {
+      "plugin": "hoai-leistungsphasen-praxis",
+      "directory": "hoai-leistungsphasen-praxis",
+      "files_scanned": 181,
+      "docket_occurrences": 38,
+      "unique_detected_dockets": 24,
+      "profile_dockets": [
+        "VIIZR174/19"
+      ]
+    },
+    {
+      "plugin": "hochschulrecht-laender",
+      "directory": "hochschulrecht-laender",
+      "files_scanned": 104,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "1BvR1141/19",
+        "2BvL3/18"
+      ]
+    },
+    {
+      "plugin": "immobilienrechtspraxis",
+      "directory": "immobilienrechtspraxis",
+      "files_scanned": 66,
+      "docket_occurrences": 11,
+      "unique_detected_dockets": 10,
+      "profile_dockets": [
+        "VZR77/22"
+      ]
+    },
+    {
+      "plugin": "influencer-recht",
+      "directory": "influencer-recht",
+      "files_scanned": 132,
+      "docket_occurrences": 40,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "IZR90/20"
+      ]
+    },
+    {
+      "plugin": "informationsfreiheit-presseauskunft",
+      "directory": "informationsfreiheit-presseauskunft",
+      "files_scanned": 121,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "7C23.18"
+      ]
+    },
+    {
+      "plugin": "insiderrecht-compliance",
+      "directory": "insiderrecht-compliance",
+      "files_scanned": 114,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "C-19/11"
+      ]
+    },
+    {
+      "plugin": "insolvenzforderungsanmeldungspruefung",
+      "directory": "insolvenzforderungsanmeldungspruefung",
+      "files_scanned": 66,
+      "docket_occurrences": 18,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "IXZR47/19"
+      ]
+    },
+    {
+      "plugin": "insolvenzplan-starug-planwerkstatt",
+      "directory": "insolvenzplan-starug-planwerkstatt",
+      "files_scanned": 64,
+      "docket_occurrences": 30,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "IXZB13/16",
+        "IXZB18/25"
+      ]
+    },
+    {
+      "plugin": "insolvenzrecht",
+      "directory": "insolvenzrecht",
+      "files_scanned": 107,
+      "docket_occurrences": 154,
+      "unique_detected_dockets": 31,
+      "profile_dockets": [
+        "IIZR88/16",
+        "IXZR18/25",
+        "IXZR229/22"
+      ]
+    },
+    {
+      "plugin": "insolvenzverwaltung",
+      "directory": "insolvenzverwaltung",
+      "files_scanned": 61,
+      "docket_occurrences": 28,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "IXZR125/17",
+        "IXZR18/25"
+      ]
+    },
+    {
+      "plugin": "internal-investigations-praxis",
+      "directory": "internal-investigations-praxis",
+      "files_scanned": 112,
+      "docket_occurrences": 35,
+      "unique_detected_dockets": 16,
+      "profile_dockets": [
+        "2AZR681/16"
+      ]
+    },
+    {
+      "plugin": "internationales-handelsrecht-lex-mercatoria",
+      "directory": "internationales-handelsrecht-lex-mercatoria",
+      "files_scanned": 196,
+      "docket_occurrences": 10,
+      "unique_detected_dockets": 7,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "jura-in-einfacher-sprache",
+      "directory": "jura-in-einfacher-sprache",
+      "files_scanned": 10,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "B4KG1/24R"
+      ]
+    },
+    {
+      "plugin": "jurastudium",
+      "directory": "jurastudium",
+      "files_scanned": 62,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "6B16.20"
+      ]
+    },
+    {
+      "plugin": "juristische-praesentationen",
+      "directory": "juristische-praesentationen",
+      "files_scanned": 18,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "juristische-presseberichterstattung",
+      "directory": "juristische-presseberichterstattung",
+      "files_scanned": 24,
+      "docket_occurrences": 29,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "1BvR573/25",
+        "VIZR1241/20",
+        "VIZR76/14"
+      ]
+    },
+    {
+      "plugin": "juristische-sprache-deutsch-als-zweitsprache",
+      "directory": "juristische-sprache-deutsch-als-zweitsprache",
+      "files_scanned": 59,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "C-278/16"
+      ]
+    },
+    {
+      "plugin": "jveg-kostenpruefer",
+      "directory": "jveg-kostenpruefer",
+      "files_scanned": 66,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "10C4.16"
+      ]
+    },
+    {
+      "plugin": "kanzlei-allgemein",
+      "directory": "kanzlei-allgemein",
+      "files_scanned": 57,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "IZB85/25",
+        "IZR106/25",
+        "VIIIZB9/20"
+      ]
+    },
+    {
+      "plugin": "kanzlei-builder-hub",
+      "directory": "kanzlei-builder-hub",
+      "files_scanned": 71,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-340/21"
+      ]
+    },
+    {
+      "plugin": "kanzlei-management",
+      "directory": "kanzlei-management",
+      "files_scanned": 104,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "2StR588/18"
+      ]
+    },
+    {
+      "plugin": "kanzlei-mandant-lifecycle",
+      "directory": "kanzlei-mandant-lifecycle",
+      "files_scanned": 119,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IXZR140/19",
+        "IXZR154/24",
+        "IXZR226/22"
+      ]
+    },
+    {
+      "plugin": "kartellrecht-marktabgrenzung-pruefung",
+      "directory": "kartellrecht-marktabgrenzung-pruefung",
+      "files_scanned": 201,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 5,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "ki-governance",
+      "directory": "ki-governance",
+      "files_scanned": 66,
+      "docket_occurrences": 7,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "C-634/21"
+      ]
+    },
+    {
+      "plugin": "ki-richtlinie-kanzleien",
+      "directory": "ki-richtlinie-kanzleien",
+      "files_scanned": 65,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "ki-verordnung-hochrisiko-pruefer",
+      "directory": "ki-verordnung-hochrisiko-pruefer",
+      "files_scanned": 14,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "C-634/21"
+      ]
+    },
+    {
+      "plugin": "ki-verordnung-transparenzpruefer",
+      "directory": "ki-verordnung-transparenzpruefer",
+      "files_scanned": 12,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "ki-vo-ai-act-pruefer",
+      "directory": "ki-vo-ai-act-pruefer",
+      "files_scanned": 129,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "C-634/21"
+      ]
+    },
+    {
+      "plugin": "kommunalrecht-laender",
+      "directory": "kommunalrecht-laender",
+      "files_scanned": 180,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "8C18.03"
+      ]
+    },
+    {
+      "plugin": "krankenhausrecht",
+      "directory": "krankenhausrecht",
+      "files_scanned": 72,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "3C17.10"
+      ]
+    },
+    {
+      "plugin": "krankenkassenrecht-krankenversicherung",
+      "directory": "krankenkassenrecht-krankenversicherung",
+      "files_scanned": 164,
+      "docket_occurrences": 185,
+      "unique_detected_dockets": 103,
+      "profile_dockets": [
+        "B1KR6/21R",
+        "IVZR533/15"
+      ]
+    },
+    {
+      "plugin": "kriegsdienstverweigerung-wehrdienst",
+      "directory": "kriegsdienstverweigerung-wehrdienst",
+      "files_scanned": 141,
+      "docket_occurrences": 39,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "6B124.18"
+      ]
+    },
+    {
+      "plugin": "krisenfrueherkennung-starug",
+      "directory": "krisenfrueherkennung-starug",
+      "files_scanned": 61,
+      "docket_occurrences": 40,
+      "unique_detected_dockets": 16,
+      "profile_dockets": [
+        "IIZR84/20"
+      ]
+    },
+    {
+      "plugin": "leasingrecht-praxis",
+      "directory": "leasingrecht-praxis",
+      "files_scanned": 120,
+      "docket_occurrences": 91,
+      "unique_detected_dockets": 19,
+      "profile_dockets": [
+        "VIIIZR36/20"
+      ]
+    },
+    {
+      "plugin": "legistik-werkstatt",
+      "directory": "legistik-werkstatt",
+      "files_scanned": 257,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvL5/08"
+      ]
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "directory": "liquiditaetsplanung",
+      "files_scanned": 79,
+      "docket_occurrences": 109,
+      "unique_detected_dockets": 13,
+      "profile_dockets": [
+        "IIZR112/21",
+        "IIZR139/23",
+        "IIZR84/20",
+        "IIZR88/16",
+        "IXZB38/24",
+        "IXZR123/04",
+        "IXZR129/22",
+        "IXZR133/14",
+        "IXZR18/25",
+        "IXZR228/03",
+        "IXZR229/22",
+        "IXZR48/21"
+      ]
+    },
+    {
+      "plugin": "lizenzvertragsersteller",
+      "directory": "lizenzvertragsersteller",
+      "files_scanned": 35,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "IZR70/10"
+      ]
+    },
+    {
+      "plugin": "lobbyregister-bundestag",
+      "directory": "lobbyregister-bundestag",
+      "files_scanned": 58,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "luftrecht-flughafenrecht",
+      "directory": "luftrecht-flughafenrecht",
+      "files_scanned": 243,
+      "docket_occurrences": 36,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "4C8.09"
+      ]
+    },
+    {
+      "plugin": "mandantenanfragen-assistent",
+      "directory": "mandantenanfragen-assistent",
+      "files_scanned": 63,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IXZR49/09"
+      ]
+    },
+    {
+      "plugin": "markenrecht-fashion-luxus",
+      "directory": "markenrecht-fashion-luxus",
+      "files_scanned": 93,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "C-59/08"
+      ]
+    },
+    {
+      "plugin": "meinungspruefer",
+      "directory": "meinungspruefer",
+      "files_scanned": 56,
+      "docket_occurrences": 30,
+      "unique_detected_dockets": 21,
+      "profile_dockets": [
+        "1BvR2619/13"
+      ]
+    },
+    {
+      "plugin": "memorandums-ersteller",
+      "directory": "memorandums-ersteller",
+      "files_scanned": 62,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "IXZR154/24",
+        "IXZR165/19"
+      ]
+    },
+    {
+      "plugin": "methodenlehre-buergerliches-recht",
+      "directory": "methodenlehre-buergerliches-recht",
+      "files_scanned": 164,
+      "docket_occurrences": 21,
+      "unique_detected_dockets": 10,
+      "profile_dockets": [
+        "1BvR918/10",
+        "VZR89/22"
+      ]
+    },
+    {
+      "plugin": "mietrecht",
+      "directory": "mietrecht",
+      "files_scanned": 70,
+      "docket_occurrences": 71,
+      "unique_detected_dockets": 45,
+      "profile_dockets": [
+        "VIIIZR287/23",
+        "VIIIZR50/23",
+        "VZR234/19",
+        "VZR43/22",
+        "VZR43/23"
+      ]
+    },
+    {
+      "plugin": "mittelstand-corporate-ma",
+      "directory": "mittelstand-corporate-ma",
+      "files_scanned": 107,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIZR364/18"
+      ]
+    },
+    {
+      "plugin": "nachbarschaftsstreit-pruefer",
+      "directory": "nachbarschaftsstreit-pruefer",
+      "files_scanned": 62,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VZR234/19"
+      ]
+    },
+    {
+      "plugin": "nda-abgleich",
+      "directory": "nda-abgleich",
+      "files_scanned": 96,
+      "docket_occurrences": 29,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "8AZR172/23"
+      ]
+    },
+    {
+      "plugin": "nda-verschwiegenheit-generator-checker",
+      "directory": "nda-verschwiegenheit-generator-checker",
+      "files_scanned": 104,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "8AZR172/23"
+      ]
+    },
+    {
+      "plugin": "nis2-cybersecurity-compliance",
+      "directory": "nis2-cybersecurity-compliance",
+      "files_scanned": 106,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "C-340/21"
+      ]
+    },
+    {
+      "plugin": "normenkontrolle-bauleitplanung",
+      "directory": "normenkontrolle-bauleitplanung",
+      "files_scanned": 114,
+      "docket_occurrences": 31,
+      "unique_detected_dockets": 13,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "normenkontrollrat-nkr",
+      "directory": "normenkontrollrat-nkr",
+      "files_scanned": 66,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvL1/09"
+      ]
+    },
+    {
+      "plugin": "notariat-alltag",
+      "directory": "notariat-alltag",
+      "files_scanned": 25,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "IIIZR121/12",
+        "IVZR40/25",
+        "XIIZB604/15",
+        "XIIZB61/16",
+        "XIIZR265/02"
+      ]
+    },
+    {
+      "plugin": "oeffentliches-wirtschaftsrecht",
+      "directory": "oeffentliches-wirtschaftsrecht",
+      "files_scanned": 123,
+      "docket_occurrences": 7,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "8C6.14",
+        "C-340/04"
+      ]
+    },
+    {
+      "plugin": "ordnungswidrigkeitenrecht",
+      "directory": "ordnungswidrigkeitenrecht",
+      "files_scanned": 137,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "2BvR1616/18"
+      ]
+    },
+    {
+      "plugin": "parteienrecht-parteiorganisation",
+      "directory": "parteienrecht-parteiorganisation",
+      "files_scanned": 114,
+      "docket_occurrences": 12,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "2BvR121/14"
+      ]
+    },
+    {
+      "plugin": "patentrecherche",
+      "directory": "patentrecherche",
+      "files_scanned": 64,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "XZR35/24"
+      ]
+    },
+    {
+      "plugin": "patentrecht",
+      "directory": "patentrecht",
+      "files_scanned": 66,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "XZR168/00",
+        "XZR35/24"
+      ]
+    },
+    {
+      "plugin": "pflegerecht-sgb-xi",
+      "directory": "pflegerecht-sgb-xi",
+      "files_scanned": 15,
+      "docket_occurrences": 55,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "B3P1/25R",
+        "B3P3/24R",
+        "B3P5/22R",
+        "B3P5/24R",
+        "B3P8/23R",
+        "B3P9/23R"
+      ]
+    },
+    {
+      "plugin": "phishing-vorfall-pruefer",
+      "directory": "phishing-vorfall-pruefer",
+      "files_scanned": 65,
+      "docket_occurrences": 24,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "XIZR107/24",
+        "XIZR20/24",
+        "XIZR91/14"
+      ]
+    },
+    {
+      "plugin": "preussisches-allgemeines-landrecht-pralr",
+      "directory": "preussisches-allgemeines-landrecht-pralr",
+      "files_scanned": 241,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "IIIZR71/17"
+      ]
+    },
+    {
+      "plugin": "private-equity-praxis",
+      "directory": "private-equity-praxis",
+      "files_scanned": 111,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "IIZR173/04",
+        "IIZR71/24"
+      ]
+    },
+    {
+      "plugin": "produktrecht",
+      "directory": "produktrecht",
+      "files_scanned": 75,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "VIZR107/08"
+      ]
+    },
+    {
+      "plugin": "prozessrecht",
+      "directory": "prozessrecht",
+      "files_scanned": 72,
+      "docket_occurrences": 21,
+      "unique_detected_dockets": 13,
+      "profile_dockets": [
+        "IZB85/25",
+        "VIIIZB80/22"
+      ]
+    },
+    {
+      "plugin": "pruefungsrecht-hochschule",
+      "directory": "pruefungsrecht-hochschule",
+      "files_scanned": 112,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "2B57.17"
+      ]
+    },
+    {
+      "plugin": "rechtsberatungsstelle",
+      "directory": "rechtsberatungsstelle",
+      "files_scanned": 66,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "1BvR322/09"
+      ]
+    },
+    {
+      "plugin": "rechtstheorie-rechtsphilosophie",
+      "directory": "rechtstheorie-rechtsphilosophie",
+      "files_scanned": 68,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "1BvR918/10"
+      ]
+    },
+    {
+      "plugin": "regulatorisches-recht",
+      "directory": "regulatorisches-recht",
+      "files_scanned": 68,
+      "docket_occurrences": 7,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "C-15/16"
+      ]
+    },
+    {
+      "plugin": "relationstechnik-zivilrecht",
+      "directory": "gerichtsplugins/relationstechnik-zivilrecht",
+      "files_scanned": 25,
+      "docket_occurrences": 15,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "VZR25/22"
+      ]
+    },
+    {
+      "plugin": "rentenpruefer",
+      "directory": "rentenpruefer",
+      "files_scanned": 76,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "B13R19/14R",
+        "B13R7/18R"
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-handelsregister",
+      "directory": "gerichtsplugins/richter-amtsgericht-handelsregister",
+      "files_scanned": 15,
+      "docket_occurrences": 41,
+      "unique_detected_dockets": 10,
+      "profile_dockets": [
+        "IIZB13/24",
+        "IIZB15/22",
+        "IIZB2/25"
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-insolvenz-restrukturierung",
+      "directory": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung",
+      "files_scanned": 15,
+      "docket_occurrences": 37,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "IXZR229/22"
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-straf",
+      "directory": "gerichtsplugins/richter-amtsgericht-straf",
+      "files_scanned": 16,
+      "docket_occurrences": 54,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "2BvR2628/10"
+      ]
+    },
+    {
+      "plugin": "richter-amtsgericht-zivil",
+      "directory": "gerichtsplugins/richter-amtsgericht-zivil",
+      "files_scanned": 16,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "2BvR977/16"
+      ]
+    },
+    {
+      "plugin": "richter-arbeitsgericht",
+      "directory": "gerichtsplugins/richter-arbeitsgericht",
+      "files_scanned": 16,
+      "docket_occurrences": 15,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "2AZR68/24"
+      ]
+    },
+    {
+      "plugin": "richter-bverfg-verfassungsbeschwerden",
+      "directory": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden",
+      "files_scanned": 15,
+      "docket_occurrences": 55,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "2BvR1457/23",
+        "2BvR625/25"
+      ]
+    },
+    {
+      "plugin": "richter-familiengericht",
+      "directory": "gerichtsplugins/richter-familiengericht",
+      "files_scanned": 16,
+      "docket_occurrences": 22,
+      "unique_detected_dockets": 17,
+      "profile_dockets": [
+        "XIIZB558/23"
+      ]
+    },
+    {
+      "plugin": "richter-finanzgericht",
+      "directory": "gerichtsplugins/richter-finanzgericht",
+      "files_scanned": 16,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 10,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "richter-landgericht-strafkammer",
+      "directory": "gerichtsplugins/richter-landgericht-strafkammer",
+      "files_scanned": 16,
+      "docket_occurrences": 45,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "2BvR2628/10"
+      ]
+    },
+    {
+      "plugin": "richter-landgericht-zivilkammer",
+      "directory": "gerichtsplugins/richter-landgericht-zivilkammer",
+      "files_scanned": 16,
+      "docket_occurrences": 16,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "IIIZR156/12",
+        "VIIZR191/23"
+      ]
+    },
+    {
+      "plugin": "richter-sozialgericht",
+      "directory": "gerichtsplugins/richter-sozialgericht",
+      "files_scanned": 16,
+      "docket_occurrences": 15,
+      "unique_detected_dockets": 11,
+      "profile_dockets": [
+        "1BvR569/05"
+      ]
+    },
+    {
+      "plugin": "richter-verwaltungsgericht",
+      "directory": "gerichtsplugins/richter-verwaltungsgericht",
+      "files_scanned": 16,
+      "docket_occurrences": 28,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "10VR3.25",
+        "2VR5.26"
+      ]
+    },
+    {
+      "plugin": "robotik-recht",
+      "directory": "robotik-recht",
+      "files_scanned": 219,
+      "docket_occurrences": 14,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "VIZR107/08"
+      ]
+    },
+    {
+      "plugin": "roemisch-katholisches-kirchenrecht",
+      "directory": "roemisch-katholisches-kirchenrecht",
+      "files_scanned": 173,
+      "docket_occurrences": 14,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "8AZR194/25",
+        "C-258/24",
+        "C-68/17"
+      ]
+    },
+    {
+      "plugin": "roemisches-recht",
+      "directory": "roemisches-recht",
+      "files_scanned": 288,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "schadensregulierung",
+      "directory": "schadensregulierung",
+      "files_scanned": 14,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "VIZR168/21",
+        "VIZR383/12",
+        "VIZR937/20"
+      ]
+    },
+    {
+      "plugin": "schoeffen-handelsrichter-praxis",
+      "directory": "schoeffen-handelsrichter-praxis",
+      "files_scanned": 84,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "5StR153/21"
+      ]
+    },
+    {
+      "plugin": "schriftform-und-textform-bgb",
+      "directory": "schriftform-und-textform-bgb",
+      "files_scanned": 64,
+      "docket_occurrences": 26,
+      "unique_detected_dockets": 11,
+      "profile_dockets": [
+        "IIZR85/25",
+        "IZR32/24",
+        "VIIZR895/21"
+      ]
+    },
+    {
+      "plugin": "schriftsatz-versandwerkstatt",
+      "directory": "schriftsatz-versandwerkstatt",
+      "files_scanned": 14,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VIIIZB80/22"
+      ]
+    },
+    {
+      "plugin": "schulrecht-laender",
+      "directory": "schulrecht-laender",
+      "files_scanned": 104,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "seerecht-schifffahrtsrecht",
+      "directory": "seerecht-schifffahrtsrecht",
+      "files_scanned": 242,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IZR128/15"
+      ]
+    },
+    {
+      "plugin": "selbstvertreter-amtsgericht",
+      "directory": "selbstvertreter-amtsgericht",
+      "files_scanned": 93,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "2BvR977/16"
+      ]
+    },
+    {
+      "plugin": "selbstvertreter-sozialgericht",
+      "directory": "selbstvertreter-sozialgericht",
+      "files_scanned": 142,
+      "docket_occurrences": 11,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "1BvR569/05"
+      ]
+    },
+    {
+      "plugin": "softwarerecht-de-eu-us",
+      "directory": "softwarerecht-de-eu-us",
+      "files_scanned": 109,
+      "docket_occurrences": 7,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "C-128/11",
+        "IIIZR79/09"
+      ]
+    },
+    {
+      "plugin": "solo-selbststaendige-praxis",
+      "directory": "solo-selbststaendige-praxis",
+      "files_scanned": 205,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "VIIZR193/15"
+      ]
+    },
+    {
+      "plugin": "sozialrecht-fuer-laien",
+      "directory": "sozialrecht-fuer-laien",
+      "files_scanned": 16,
+      "docket_occurrences": 29,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "1BvR569/05",
+        "B1KR9/18R",
+        "B3KR2/25R",
+        "B3P5/24R",
+        "B4KG1/24R"
+      ]
+    },
+    {
+      "plugin": "sozialversicherungspflicht-pruefer",
+      "directory": "sozialversicherungspflicht-pruefer",
+      "files_scanned": 16,
+      "docket_occurrences": 70,
+      "unique_detected_dockets": 18,
+      "profile_dockets": [
+        "B12BA10/24R",
+        "B12BA12/24R",
+        "B12BA2/23R",
+        "B12BA3/23R",
+        "B12BA3/25R",
+        "B12BA7/24R",
+        "B12BA9/24R"
+      ]
+    },
+    {
+      "plugin": "sozialversicherungsstatus-pruefer",
+      "directory": "sozialversicherungsstatus-pruefer",
+      "files_scanned": 105,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "B12BA10/24R",
+        "B12BA3/23R"
+      ]
+    },
+    {
+      "plugin": "staatsanwaltschaft-amtsanwaltschaft",
+      "directory": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft",
+      "files_scanned": 34,
+      "docket_occurrences": 64,
+      "unique_detected_dockets": 19,
+      "profile_dockets": [
+        "1BvR2232/24",
+        "2BvR2180/20"
+      ]
+    },
+    {
+      "plugin": "staatsanwaltschaft-praxis-einstieg",
+      "directory": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg",
+      "files_scanned": 148,
+      "docket_occurrences": 52,
+      "unique_detected_dockets": 18,
+      "profile_dockets": [
+        "1BvR1409/25",
+        "1BvR2232/24",
+        "2BvR2180/20",
+        "2BvR2628/10"
+      ]
+    },
+    {
+      "plugin": "startup-gruender",
+      "directory": "startup-gruender",
+      "files_scanned": 23,
+      "docket_occurrences": 54,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "IIIZR139/20",
+        "IIIZR427/15",
+        "IIZR151/03",
+        "IIZR216/13",
+        "IIZR275/14",
+        "IIZR71/23",
+        "IIZR71/24"
+      ]
+    },
+    {
+      "plugin": "startup-hr-personalabteilung-berlin",
+      "directory": "startup-hr-personalabteilung-berlin",
+      "files_scanned": 114,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "1ABR22/21"
+      ]
+    },
+    {
+      "plugin": "status-navigator-step-plan",
+      "directory": "status-navigator-step-plan",
+      "files_scanned": 38,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "2AZR68/24"
+      ]
+    },
+    {
+      "plugin": "steuerrecht-anwalt-und-berater",
+      "directory": "steuerrecht-anwalt-und-berater",
+      "files_scanned": 295,
+      "docket_occurrences": 48,
+      "unique_detected_dockets": 20,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "strafanzeige-vorbereiter",
+      "directory": "strafanzeige-vorbereiter",
+      "files_scanned": 60,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "1BvR2049/00"
+      ]
+    },
+    {
+      "plugin": "strafbefehl-verteidiger",
+      "directory": "strafbefehl-verteidiger",
+      "files_scanned": 66,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 10,
+      "profile_dockets": [
+        "2BvR1351/23"
+      ]
+    },
+    {
+      "plugin": "strafzumessung",
+      "directory": "strafzumessung",
+      "files_scanned": 63,
+      "docket_occurrences": 91,
+      "unique_detected_dockets": 14,
+      "profile_dockets": [
+        "1StR535/19",
+        "5StR623/25"
+      ]
+    },
+    {
+      "plugin": "strassennutzung-genehmigungen",
+      "directory": "strassennutzung-genehmigungen",
+      "files_scanned": 14,
+      "docket_occurrences": 25,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "3C5.23",
+        "3C6.13",
+        "3C7.13",
+        "9B6.14",
+        "9B8.19"
+      ]
+    },
+    {
+      "plugin": "strassenrecht-infrastruktur",
+      "directory": "strassenrecht-infrastruktur",
+      "files_scanned": 130,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "3C6.13",
+        "9B6.14"
+      ]
+    },
+    {
+      "plugin": "strassenverkehrsrecht-stvo",
+      "directory": "strassenverkehrsrecht-stvo",
+      "files_scanned": 121,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "3C10.15"
+      ]
+    },
+    {
+      "plugin": "subsumtions-pruefer",
+      "directory": "subsumtions-pruefer",
+      "files_scanned": 66,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "IIIZR431/23"
+      ]
+    },
+    {
+      "plugin": "tabellenreview-3d",
+      "directory": "tabellenreview-3d",
+      "files_scanned": 89,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIZR134/24"
+      ]
+    },
+    {
+      "plugin": "telekommunikationsrecht",
+      "directory": "telekommunikationsrecht",
+      "files_scanned": 61,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "IIIZR8/25",
+        "IIIZR98/12"
+      ]
+    },
+    {
+      "plugin": "tierschutzrecht",
+      "directory": "tierschutzrecht",
+      "files_scanned": 132,
+      "docket_occurrences": 9,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "3C2.25",
+        "3C28.16",
+        "7C5.11"
+      ]
+    },
+    {
+      "plugin": "umweltrecht",
+      "directory": "umweltrecht",
+      "files_scanned": 63,
+      "docket_occurrences": 33,
+      "unique_detected_dockets": 12,
+      "profile_dockets": [
+        "C-535/18"
+      ]
+    },
+    {
+      "plugin": "umweltschutzverband-verbandsklage",
+      "directory": "umweltschutzverband-verbandsklage",
+      "files_scanned": 116,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "7C5.25"
+      ]
+    },
+    {
+      "plugin": "urheberrecht-de-eu",
+      "directory": "urheberrecht-de-eu",
+      "files_scanned": 68,
+      "docket_occurrences": 34,
+      "unique_detected_dockets": 16,
+      "profile_dockets": [
+        "C-516/17",
+        "C-590/23",
+        "IZR96/22"
+      ]
+    },
+    {
+      "plugin": "urteilsbauer-relationsmacher",
+      "directory": "urteilsbauer-relationsmacher",
+      "files_scanned": 89,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "VZR25/22"
+      ]
+    },
+    {
+      "plugin": "us-bankruptcy-code",
+      "directory": "us-bankruptcy-code",
+      "files_scanned": 104,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "us-copyright-registrierung-verlag",
+      "directory": "us-copyright-registrierung-verlag",
+      "files_scanned": 104,
+      "docket_occurrences": 0,
+      "unique_detected_dockets": 0,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "venture-capital-geber",
+      "directory": "venture-capital-geber",
+      "files_scanned": 109,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "IIZR275/14"
+      ]
+    },
+    {
+      "plugin": "verbraucher-rechtsstaat-alltag",
+      "directory": "verbraucher-rechtsstaat-alltag",
+      "files_scanned": 70,
+      "docket_occurrences": 56,
+      "unique_detected_dockets": 20,
+      "profile_dockets": [
+        "IIIZR91/07"
+      ]
+    },
+    {
+      "plugin": "verbraucherinsolvenz-schuldenbereinigung",
+      "directory": "verbraucherinsolvenz-schuldenbereinigung",
+      "files_scanned": 72,
+      "docket_occurrences": 10,
+      "unique_detected_dockets": 9,
+      "profile_dockets": [
+        "IXZB55/04"
+      ]
+    },
+    {
+      "plugin": "verbraucherschutzrecht-pruefer",
+      "directory": "verbraucherschutzrecht-pruefer",
+      "files_scanned": 151,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "C-565/22",
+        "IZR200/25"
+      ]
+    },
+    {
+      "plugin": "verbraucherschutzverband-durchsetzung",
+      "directory": "verbraucherschutzverband-durchsetzung",
+      "files_scanned": 125,
+      "docket_occurrences": 84,
+      "unique_detected_dockets": 18,
+      "profile_dockets": [
+        "C-757/22",
+        "IZR200/25"
+      ]
+    },
+    {
+      "plugin": "vereinsrecht-vereinsmanager",
+      "directory": "vereinsrecht-vereinsmanager",
+      "files_scanned": 62,
+      "docket_occurrences": 8,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IIZR111/05"
+      ]
+    },
+    {
+      "plugin": "verfassungsrecht",
+      "directory": "verfassungsrecht",
+      "files_scanned": 73,
+      "docket_occurrences": 140,
+      "unique_detected_dockets": 78,
+      "profile_dockets": [
+        "2BvE4/23",
+        "2BvL3/18",
+        "2BvR625/25"
+      ]
+    },
+    {
+      "plugin": "vergesellschaftung-artikel-15",
+      "directory": "vergesellschaftung-artikel-15",
+      "files_scanned": 14,
+      "docket_occurrences": 15,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "1BvR2821/11",
+        "C-105/12",
+        "C-107/12"
+      ]
+    },
+    {
+      "plugin": "verhaeltnismaessigkeitspruefer",
+      "directory": "verhaeltnismaessigkeitspruefer",
+      "files_scanned": 88,
+      "docket_occurrences": 141,
+      "unique_detected_dockets": 70,
+      "profile_dockets": [
+        "1BvR2380/21",
+        "1BvR2449/21"
+      ]
+    },
+    {
+      "plugin": "verkehr-infrastrukturrecht",
+      "directory": "verkehr-infrastrukturrecht",
+      "files_scanned": 64,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "7C17.15",
+        "7C5.25"
+      ]
+    },
+    {
+      "plugin": "verkehrsowi-verteidiger",
+      "directory": "verkehrsowi-verteidiger",
+      "files_scanned": 66,
+      "docket_occurrences": 46,
+      "unique_detected_dockets": 8,
+      "profile_dockets": [
+        "2BvR1167/20",
+        "2BvR1616/18",
+        "4StR235/25"
+      ]
+    },
+    {
+      "plugin": "verlagsrecht-buchpreisbindung",
+      "directory": "verlagsrecht-buchpreisbindung",
+      "files_scanned": 103,
+      "docket_occurrences": 60,
+      "unique_detected_dockets": 38,
+      "profile_dockets": []
+    },
+    {
+      "plugin": "verlagsredaktion",
+      "directory": "verlagsredaktion",
+      "files_scanned": 121,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "1BvR573/25"
+      ]
+    },
+    {
+      "plugin": "versammlungsrecht",
+      "directory": "versammlungsrecht",
+      "files_scanned": 59,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "1BvR2211/15"
+      ]
+    },
+    {
+      "plugin": "versicherungsrecht",
+      "directory": "versicherungsrecht",
+      "files_scanned": 68,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 7,
+      "profile_dockets": [
+        "IVZR197/11",
+        "IVZR225/10",
+        "IVZR235/25",
+        "IVZR41/25"
+      ]
+    },
+    {
+      "plugin": "vertragsausfueller",
+      "directory": "vertragsausfueller",
+      "files_scanned": 66,
+      "docket_occurrences": 2,
+      "unique_detected_dockets": 1,
+      "profile_dockets": [
+        "VZR89/22"
+      ]
+    },
+    {
+      "plugin": "vertragserstellung",
+      "directory": "vertragserstellung",
+      "files_scanned": 15,
+      "docket_occurrences": 13,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "VIIZR248/13",
+        "VIIZR301/13"
+      ]
+    },
+    {
+      "plugin": "vertragsrecht",
+      "directory": "vertragsrecht",
+      "files_scanned": 65,
+      "docket_occurrences": 14,
+      "unique_detected_dockets": 6,
+      "profile_dockets": [
+        "VIIZR42/22",
+        "VIIZR895/21"
+      ]
+    },
+    {
+      "plugin": "wahlkampfrecht-praxis",
+      "directory": "wahlkampfrecht-praxis",
+      "files_scanned": 124,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 5,
+      "profile_dockets": [
+        "2BvE1/16"
+      ]
+    },
+    {
+      "plugin": "wandeldarlehen-lebenszyklus",
+      "directory": "wandeldarlehen-lebenszyklus",
+      "files_scanned": 57,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "IXZR133/14"
+      ]
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "directory": "weg-hausverwaltung",
+      "files_scanned": 97,
+      "docket_occurrences": 139,
+      "unique_detected_dockets": 25,
+      "profile_dockets": [
+        "VZR102/23",
+        "VZR102/24",
+        "VZR195/23"
+      ]
+    },
+    {
+      "plugin": "weltraumrecht",
+      "directory": "weltraumrecht",
+      "files_scanned": 183,
+      "docket_occurrences": 3,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "C-415/23",
+        "C-515/19"
+      ]
+    },
+    {
+      "plugin": "wirtschaftsanwalt",
+      "directory": "wirtschaftsanwalt",
+      "files_scanned": 15,
+      "docket_occurrences": 17,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "2AZR68/24",
+        "IIZR112/21"
+      ]
+    },
+    {
+      "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "directory": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "files_scanned": 56,
+      "docket_occurrences": 5,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "7ABR23/23",
+        "IZR106/25"
+      ]
+    },
+    {
+      "plugin": "zitierweise-deutsches-recht",
+      "directory": "zitierweise-deutsches-recht",
+      "files_scanned": 89,
+      "docket_occurrences": 6,
+      "unique_detected_dockets": 4,
+      "profile_dockets": [
+        "C-516/17"
+      ]
+    },
+    {
+      "plugin": "zugewinnausgleich",
+      "directory": "zugewinnausgleich",
+      "files_scanned": 15,
+      "docket_occurrences": 31,
+      "unique_detected_dockets": 3,
+      "profile_dockets": [
+        "XIIZB306/14",
+        "XIIZB558/23",
+        "XIIZR40/09"
+      ]
+    },
+    {
+      "plugin": "zwangsverwaltung-zvg",
+      "directory": "zwangsverwaltung-zvg",
+      "files_scanned": 64,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "VIIIZR336/08"
+      ]
+    },
+    {
+      "plugin": "zwangsvollstreckung",
+      "directory": "zwangsvollstreckung",
+      "files_scanned": 63,
+      "docket_occurrences": 4,
+      "unique_detected_dockets": 2,
+      "profile_dockets": [
+        "VIIZB58/15"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "path": "agb-recht-pruefer/skills/vertragsaenderung-durch-zustimmung-pruefen/references/bankbedingungen.md",
+      "line": 27,
+      "docket": "XI ZR 26/20",
+      "observed_dates": [
+        "2026-09-05"
+      ],
+      "profile_dates": [
+        "2021-04-27"
+      ],
+      "context": "Geprüft am 05.09.2026: [Paragraf 675g BGB](https://www.gesetze-im-internet.de/bgb/__675g.html), [Paragraf 675e BGB](https://www.gesetze-im-internet.de/bgb/__675e.html), [BGH XI ZR 26/20](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1) und [EuGH DenizBank](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62019CJ0287). Paragraf 675o BGB betrifft die Ablehnung eines Zahlungsauftrags und ist kein allgemeiner Prüfmaßstab für AGB-Änderungen.",
+      "references": [
+        {
+          "plugin": "agb-recht-pruefer",
+          "citation": "BGH, Urteil vom 27.04.2021 – XI ZR 26/20, Kopf, Rn. 29–32 frisch",
+          "dates": [
+            "2021-04-27"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "bauwirtschaft",
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "line": 201,
+      "docket": "VII ZR 119/24",
+      "observed_dates": [
+        "2026-09-25",
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2026-01-15"
+      ],
+      "context": "Prüfen Sie [HOAI Anlage 10](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html), [Paragraf 34 HOAI](https://www.gesetze-im-internet.de/hoai_2013/__34.html) und [Paragraf 650p BGB](https://www.gesetze-im-internet.de/bgb/__650p.html) live. Quellenstatus 25.09.2026: Anlage 10 mit LPH 5 und Fußnote im amtlichen Webtext gelesen; Paragraf 34 und Paragraf 650p nach erfolgloser Webdarstellung direkt per HTTP gelesen. Kein technischer DIN-Volltext geprüft. Ergänzend am 01.10.2026 die oben bezeichneten Passagen von VII ZR 119/24 im amtlichen PDF gelesen. Genehmigung, Vertrag und Fachnachweis bleiben eigenständige Belege. Optional dienen die [Fachquellen im Repository](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bauwirtschaft/references/fachquellen.md) zur Vertiefung; lokale Begleitdateien sind nicht erforderlich.",
+      "references": [
+        {
+          "plugin": "bauwirtschaft",
+          "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+          "dates": [
+            "2026-01-15"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "plugin": "fachanwalt-bau-architektenrecht",
+          "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
+          "dates": [
+            "2026-01-15"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_119-24.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "diesel-schadensersatz",
+      "path": "diesel-schadensersatz/references/ea288-rechtsprechung-instanzen.md",
+      "line": 40,
+      "docket": "C-100/21",
+      "observed_dates": [
+        "2022-06-02"
+      ],
+      "profile_dates": [
+        "2023-03-21"
+      ],
+      "context": "| GA Rantos | 02.06.2022 | `C-100/21` | Typgenehmigungsvorschriften schützen das Käuferinteresse; vollständige Anspruchsaufzehrung durch deutsche Anrechnungsmethode als unionsrechtswidrig angegriffen. |",
+      "references": [
+        {
+          "plugin": "diesel-schadensersatz",
+          "citation": "EuGH, Urteil vom 21.03.2023 – C-100/21, ECLI:EU:C:2023:229",
+          "dates": [
+            "2023-03-21"
+          ],
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0100"
+        }
+      ]
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "context": "Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die konkrete Aussage von C-316/25 beruht auf dem amtlichen Tenor; darüber hinausgehende Prozesszitate nur nach zusätzlichem Volltextabgleich.",
+      "references": [
+        {
+          "plugin": "fachanwalt-vergaberecht",
+          "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor",
+          "dates": [
+            "2026-02-03"
+          ],
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF"
+        }
+      ]
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "context": "Aktueller Normtext: [Paragraf 108 GWB](https://www.gesetze-im-internet.de/gwb/__108.html), am 30.09.2026 gelesen. Bei historischen Verträgen maßgebliche Fassung und Anwendungszeitpunkt bestimmen; geänderte Absatznummern nicht ungeprüft rückübertragen. Die konkrete Aussage von C-316/25 beruht auf dem amtlichen Tenor; darüber hinausgehende Prozesszitate nur nach zusätzlichem Volltextabgleich.",
+      "references": [
+        {
+          "plugin": "fachanwalt-vergaberecht",
+          "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor",
+          "dates": [
+            "2026-02-03"
+          ],
+          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF"
+        }
+      ]
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+      "line": 27,
+      "docket": "IV ZR 535/15",
+      "observed_dates": [
+        "2026-09-22"
+      ],
+      "profile_dates": [
+        "2017-07-19"
+      ],
+      "context": "Am 22.09.2026 geprüft: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg_2008/__28.html), [Paragraf 172 VVG](https://www.gesetze-im-internet.de/vvg_2008/__172.html) und [amtlicher Leitsatz zu IV ZR 535/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1). Direkter Entscheidungsabruf gesperrt; keine Volltextprüfung behaupten. Weitere Normen und Fortentwicklung fallbezogen prüfen; Vertragsbeleg, Norm und Annahme unterscheiden.",
+      "references": [
+        {
+          "plugin": "fachanwalt-versicherungsrecht",
+          "citation": "BGH, Urteil vom 19.07.2017, IV ZR 535/15",
+          "dates": [
+            "2017-07-19"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_535-15.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "path": "liquiditaetsplanung/references/rechtsprechung/INDEX.md",
+      "line": 23,
+      "docket": "IX ZR 133/14",
+      "observed_dates": [
+        "2015-03-24"
+      ],
+      "profile_dates": [
+        "2015-03-05"
+      ],
+      "context": "Zu IX ZR 133/14 gehört der [Berichtigungsbeschluss vom 24.03.2015](../../../liquiditaetsplanung/references/rechtsprechung/BGH_IX_ZR_133-14_Berichtigung_vom_2015-03-24.pdf) ([amtlicher Download](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14A.pdf?__blob=publicationFile&v=1)): In Rn. 53 heißt es „Kläger“ statt „Beklagter“. Die materiellen Rangrücktrittsaussagen bleiben unverändert.",
+      "references": [
+        {
+          "plugin": "liquiditaetsplanung",
+          "citation": "BGH, Urteil vom 05.03.2015 – IX ZR 133/14, Rn. 15–24, 32, 35–42",
+          "dates": [
+            "2015-03-05"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "plugin": "wandeldarlehen-lebenszyklus",
+          "citation": "BGH, Urteil vom 05.03.2015 - IX ZR 133/14, Rn. 15 bis 45 und 46 ff.",
+          "dates": [
+            "2015-03-05"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_133-14.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "schriftform-und-textform-bgb",
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "line": 48,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "context": "[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1), Rn. 16–23 (amtlicher Volltext am 01.10.2026 gelesen): Eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail geht im unternehmerischen Geschäftsverkehr grundsätzlich bereits dann zu; tatsächliches Lesen ist nicht nötig. Prüfe deshalb Serverbereitstellung, Empfängeradresse und Geschäftszeiten. Der Gesendet-Ordner beweist diese Umstände nicht. Private Empfänger und Nachrichten außerhalb der Geschäftszeiten gesondert beurteilen.",
+      "references": [
+        {
+          "plugin": "schriftform-und-textform-bgb",
+          "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
+          "dates": [
+            "2022-10-06"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "plugin": "vertragsrecht",
+          "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
+          "dates": [
+            "2022-10-06"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "vertragsrecht",
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "line": 73,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "context": "[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1), Rn. 16–23 (amtlicher Volltext am 01.10.2026 gelesen): Eine im unternehmerischen Geschäftsverkehr während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail geht grundsätzlich bereits zu diesem Zeitpunkt zu. Tatsächliches Lesen ist nicht erforderlich. Für den Kündigungsentwurf dennoch Formklausel und für die Fristwahrung Empfängeradresse, Übermittlung und Geschäftszeiten prüfen. Das Urteil schafft weder einen Zugangsbeweis durch bloßes Absenden noch eine einheitliche Regel für Privatempfänger oder Nachtversand.",
+      "references": [
+        {
+          "plugin": "schriftform-und-textform-bgb",
+          "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
+          "dates": [
+            "2022-10-06"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "plugin": "vertragsrecht",
+          "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
+          "dates": [
+            "2022-10-06"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "path": "weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md",
+      "line": 18,
+      "docket": "V ZR 102/24",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-04-24"
+      ],
+      "context": "Rechtsprechungsnachprüfung: 30.09.2026; gezielt V ZR 102/24, keine Gesamtprüfung sämtlicher Normen.",
+      "references": [
+        {
+          "plugin": "weg-hausverwaltung",
+          "citation": "BGH, Urteil vom 24.04.2026, V ZR 102/24",
+          "dates": [
+            "2026-04-24"
+          ],
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1"
+        }
+      ]
+    }
+  ]
+}

@@ -55,7 +55,7 @@ Lies die Endfassung aus Sicht beider Vertragsparteien: Wer muss wann was leisten
 
 ## 4. Quellenpflicht
 
-Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Tragende Normen am konkreten Stand prüfen: Paragrafen 125 bis 127, 145 bis 150, 164, 177, 271a, 276, 305 bis 310, 314, 433, 611, 631 und 640 BGB. B2B schließt Paragraf 307 sowie Paragraf 308 Nummern 1a und 1b BGB nicht pauschal aus. Paragraf 377 HGB setzt beiderseitigen Handelskauf voraus. Der amtlich indexierte Leitsatz zu BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, ist nur begrenzter Abnahmeanker, kein hier gelesener Volltext. Keine erfundenen Randnummern oder Literatur. Quellenprüfung ist kein ausgeführter Mandatstest.
+Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Tragende Normen am konkreten Stand prüfen: Paragrafen 125 bis 127, 145 bis 150, 164, 177, 271a, 276, 305 bis 310, 314, 433, 611, 631 und 640 BGB. B2B schließt Paragraf 307 sowie Paragraf 308 Nummern 1a und 1b BGB nicht pauschal aus. Paragraf 377 HGB setzt beiderseitigen Handelskauf voraus. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Rn. 31–51, am 01.10.2026 im amtlichen Volltext gelesen: Mängelrechte grundsätzlich nach Abnahme; Vorschuss allein schafft kein endgültiges Abrechnungsverhältnis. Weitere Erfüllungsbereitschaft konkret klären. Keine erfundenen Randnummern oder Literatur. Quellenprüfung ist kein ausgeführter Mandatstest.
 
 ## 5. Ausgabeformat
 

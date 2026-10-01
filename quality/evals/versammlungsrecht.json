@@ -137,13 +137,25 @@
         "citation": "BVerfG, Kammerbeschluss vom 11. September 2015, 1 BvR 2211/15, Rn. 3 bis 6",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2015/09/rk20150911_1bvr221115.html",
         "application": "Fremde Gewalt grundsätzlich gegen Störer abwehren; Kräfte, Amtshilfe und zeitliche Alternativen vor Polizeinotstand prüfen.",
-        "limit": "Eilantrag dort wegen konkreter schwerer Gewaltprognose erfolglos; keine Durchführungsgarantie und keine Übernahme fremder Landesbefugnisse."
+        "limit": "Eilantrag dort wegen konkreter schwerer Gewaltprognose erfolglos; keine Durchführungsgarantie und keine Übernahme fremder Landesbefugnisse.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
       "Amtlicher vollständiger Kammerbeschluss und Paragraf 15 VersammlG geprüft; Länderbefugnisse, Bannmeilen und Camps bleiben fallbezogen zu recherchieren.",
       "Desk-/Quellenreview, kein Live-Eilverfahren oder Modelltest.",
       "Workflow-Erweiterung 23.09.2026: Paragraf 14 VersammlG aktuell geöffnet und Kammerbeschluss von 2015 vollständig amtlich indexiert gelesen; keine landesrechtliche Vollprüfung oder tatsächliche Einsatzkräfteprüfung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "versammlungsrecht/versammlungsrecht-schnellstart.md",
+        "versammlungsrecht/versammlungsrecht-werkstatt.md"
+      ],
+      "result": "Fremde Gewalt, verfügbare Kräfte und Amtshilfe werden vor Polizeinotstand geprüft. Der erfolglose Eilantrag 2015 wird nicht zur Durchführungsgarantie umgedeutet.",
+      "search_2026": "Exakte amtliche Suche nach 2026-Polizeinotstand und Versammlungsfreiheit ohne passenden neuen Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

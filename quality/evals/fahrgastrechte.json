@@ -217,7 +217,9 @@
         "citation": "EuGH, Urteil vom 26.09.2013, C-509/11, ÖBB-Personenverkehr",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0509",
         "application": "Rn. 37–42 und 46–52: Pauschale Fahrpreisentschädigung und individueller Verspätungsschaden getrennt; Entlastungsgründe nicht zwischen Anspruchsarten und Verkehrsträgern übertragen.",
-        "limit": "Urteil zur VO 1371/2007; dessen Ablehnung einer Höhere-Gewalt-Ausnahme ist durch heutigen Artikel 19 Absatz 10 nicht unverändert übertragbar."
+        "limit": "Urteil zur VO 1371/2007; dessen Ablehnung einer Höhere-Gewalt-Ausnahme ist durch heutigen Artikel 19 Absatz 10 nicht unverändert übertragbar.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -238,5 +240,13 @@
     "continuation": "Fahrpreis bereits erstattet oder Zielankunft nur 110 statt 130 Minuten verspätet -> Entschädigungsbasis beziehungsweise Stufe und Forderung korrigieren; Hotelkosten eigenständig prüfen.",
     "enrichment": "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "patentrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/__14.html",
@@ -42,35 +42,42 @@
       "url": "https://www.gesetze-im-internet.de/patg/__81.html",
       "checked_on": "2026-09-23",
       "supports": "Absatz 2 gelesen: Sperre der nationalen Nichtigkeitsklage während möglichem oder anhängigem Einspruch; nicht ungeprüft auf andere Bestandsverfahren übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor, Anspruch 1, Gründe Rn. 13–43, 44–93 (ausgewählte Passagen), insbesondere 19–28 und 79–86. Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen. Grenze: Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Fachliche Auswahl bei leerer Eingabe, stille Dateiannahme und direkter Auftragseinstieg ergänzt; neue Serienversion verändert gezielt den Merkmalsvergleich statt erneuter Aufnahme.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
       "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
       "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
       "Drei Einstiege für Produktvergleich, Bescheidserwiderung oder Lizenz; keine Startübersicht bei klarem Auftrag.",
-      "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam."
+      "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "5126fc07c2d8b1bdd598299909b4ff95c9dc01801955ebbce804d6b989f3e18a",
-    "reviewed_on": "2026-09-23",
+    "sha256": "bc69ce940af872ddff915eaa987f09cae02de0e7c02fd4f88c8628ff76d82e3d",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Technische Varianten und Offenbarungsstütze, Änderung und Bestandsweg, konkrete Produktuntersuchung sowie abrechenbare Lizenzmechanik substanziell ergänzt; Spezialverfahren erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Schneidmesser I in die Prüfung abgewandelter Mittel integriert",
       "Zahlenangaben des Anspruchs nicht zu bloßen Beispielen erklärt",
       "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
       "Neue Entwicklung von ursprünglicher Offenbarung getrennt; Beschränkung, Argumentation und Hilfsanträge am tatsächlichen Bescheideinwand ausgerichtet.",
       "EPA-Einspruchsbeginn und Gebühr, nationale Nichtigkeitssperre sowie eigenständige Grenzen nach Artikel 123 EPÜ ergänzt.",
-      "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet."
+      "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "2a192aef56080f4512140ed15607b395571f512d1b9cd5c578e22231094fc912",
-    "reviewed_on": "2026-09-23",
+    "sha256": "6e96e9b3d3924356a0d21b1192b825896857abb9e29f8c12838cd1a4fba7df08",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -118,7 +125,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "patentrecht/patentrecht-werkstatt.md",
       "patentrecht/patentrecht-schnellstart.md",
@@ -137,6 +144,12 @@
         "url": "https://www.wipo.int/wipolex/en/text/597230",
         "application": "Abgewandeltes Mittel nach Gleichwirkung, fachmännischer Auffindbarkeit und anspruchsorientierter Gleichwertigkeit prüfen.",
         "limit": "Keine allgemeine Abweichungstoleranz und kein Ersatz numerischer Anspruchsgrenzen durch bloßen Erfindungsgedanken; gerichtliche Gründe bei WIPO Lex gelesen."
+      },
+      {
+        "citation": "BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+        "application": "Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen.",
+        "limit": "Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
       }
     ],
     "remaining_limits": [

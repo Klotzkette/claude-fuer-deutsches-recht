@@ -51,8 +51,7 @@ Compliance-Risiko, erst beim finalen Abschluss zu prüfen und frühere Schritte 
 
 Prüfe für jeden identifizierten Zwischenschritt:
 a) Handelt es sich um eine konkrete Tatsache oder ein Ereignis (Präzision)?
-b) Ist der Eintritt des finalen Ereignisses aus Sicht des jeweiligen Zeitpunkts hinreichend
- wahrscheinlich? (Kein Automatismus: 50 % genügen nicht stets, 90 % fast immer.)
+b) Ist der Schritt bereits eingetreten oder nur erwartet? Bereits eingetretene Schritte selbständig auf Präzision prüfen. Bei erwarteten Ereignissen tatsächliche Erwartbarkeit aus den damaligen Umständen begründen; keine feste 50-/90-Prozent-Regel und kein allgemeiner Zwang, auch das finale Ereignis zu prognostizieren (EuGH, 28.06.2012 – C-19/11, Geltl, Rn. 38–40, 49–56).
 c) Ist der Zwischenschritt selbst kursrelevant, weil ein verständiger Anleger ihn bei seiner
  Investitionsentscheidung berücksichtigen würde?
 d) Ist die Information noch nicht öffentlich?
@@ -68,9 +67,8 @@ d) Ist die Information noch nicht öffentlich?
 
 - Löse Insiderliste (Art. 18 MAR) für alle Wissensträger ab dem ersten Insiderinformations-
  zeitpunkt aus.
-- Prüfe Aufschub der Ad-hoc-Meldung nach Art. 17 Abs. 4 MAR: Sind die drei Aufschubvoraus-
- setzungen (legitimes Interesse, keine Irreführung, Vertraulichkeit gewährbar) erfüllt?
-- Erstelle Aufschubakte und Leak-Überwachungsprotokoll.
+- Prüfe zuerst die Veröffentlichungspflicht nach der seit 05.06.2026 geltenden Fassung von Artikel 17 MAR (Verordnung EU 2024/2809, Artikel 2 Nummer 6 und Artikel 4 Absatz 3). Qualifizierte Zwischenschritte eines gestreckten Vorgangs benötigen keinen fingierten Aufschub; Handelsverbote und Geheimhaltung bleiben bestehen.
+- Nur bei bestehender Veröffentlichungspflicht den Aufschub prüfen: legitimes Interesse, kein Widerspruch zur letzten öffentlichen Kommunikation in derselben Angelegenheit und gewährleistete Geheimhaltung. Finale Ereignisse und Konkretisierungen nach Verordnung EU 2026/789 wie im Werkstatt-Prompt gesondert prüfen. Leak-Überwachung dokumentieren.
 - Prüfe Handelsverbote für alle Insider (Art. 14 MAR, Art. 19 MAR Closed Periods).
 
 ### Schritt 5 – Ereignis-Trigger und Eskalation

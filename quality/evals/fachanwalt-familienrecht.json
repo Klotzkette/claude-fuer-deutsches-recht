@@ -244,7 +244,19 @@
         "citation": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
         "application": "Niedrigeres Endvermögen nach erfüllender Trennungsauskunft: Auskunftstitel oder verlangtes Datum und Erfüllungsannahme bestimmen die Beweislastfolge.",
-        "limit": "Bloßer Kontobeleg reicht nicht; abweichender tatsächlicher Trennungstag beseitigt Folge nicht automatisch; Zurückverweisung statt Feststellung jeder Minderung als illoyal."
+        "limit": "Bloßer Kontobeleg reicht nicht; abweichender tatsächlicher Trennungstag beseitigt Folge nicht automatisch; Zurückverweisung statt Feststellung jeder Minderung als illoyal.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Beschluss vom 15.04.2026, XII ZB 415/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2025/XII_ZB_415-25.pdf?__blob=publicationFile&v=1",
+        "application": "XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
+        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
+        "previous_review": "quality/source-audits/2026-09-30/zivil-wirtschaft.md"
       }
     ],
     "remaining_limits": [
@@ -264,5 +276,19 @@
     "continuation": "Geld wurde auf ein eigenes Depot übertragen statt verbraucht -> Vermögenszuordnung und Hinzurechnungsargument ändern; belegter Umzug -> betroffene Umgangszeiten neu regeln.",
     "enrichment": "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 15.04.2026, XII ZB 415/25",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

@@ -1,6 +1,6 @@
 # 1. Transportverlust, Haftungsgrenze und Regress
 
-Klären Sie anhand der Übergaben, in wessen Obhut die Ware verloren ging oder beschädigt wurde. Berechnen Sie den belegten Schaden und die einschlägige Haftungsgrenze und begründen Sie die beauftragte Forderung, Erwiderung oder Regressbewertung.
+Bestimmen Sie Obhut, Schaden und Haftungsgrenze anhand der Übergaben und Belege und begründen Sie die bestellte Forderung, Erwiderung oder Regressbewertung.
 
 ## 1.1. Transportakte
 
@@ -20,6 +20,8 @@ Lesen Sie Auftrag, Strecke, Verkehrsträger, Frachtbrief, Unterfrachtauftrag, Ü
 Fehlt der Nachweis zum Ausgangsinhalt oder Gewicht, fragen Sie gezielt nach Packprotokoll, Wiegebeleg und Wahrnehmungen der beteiligten Personen. Ordnen Sie nachgereichte Nachweise dem Packstück und Zeitpunkt zu; passen Sie Verlustzeitraum, Warenwert und Gewichtsgrenze an und schreiben Sie die bestellte Anspruchsbegründung oder Erwiderung fertig. Ein Widerspruch zwischen Wiegedaten und Scan kann eine weitere konkrete Nachfrage erfordern, beweist aber für sich noch keine Manipulation.
 
 Fehlt im Regress die Ablehnung oder ihr Zugang, fordern Sie diese Korrespondenz an und aktualisieren Sie nur die Frist des betroffenen Vertragsglieds. Bereiten Sie bei Eile den erforderlichen Sicherungsschritt zur Entscheidung vor, ohne dessen Ausführung zu behaupten. Neue Antworten dürfen weitere entscheidende Lücken zeigen; fragen Sie dazu nach, nicht erneut nach bereits geklärten Transportdaten.
+
+Bei Verladeunfällen Gerätezusage und Vertrag prüfen: BGH, Urteil vom 18.06.2026 – I ZR 125/25, Rn. 14–25. Vertraglich übernommene Verladung lässt Obhut bereits mit Besitzergreifung beginnen; vorhandene Hebebühne oder Fahrerhilfe allein beweist diese Abrede nicht.
 
 ## 1.3. Fristen und Beweis
 

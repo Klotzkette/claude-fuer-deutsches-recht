@@ -138,19 +138,32 @@
         "citation": "BVerwG, Urteil vom 11. Dezember 2014, 3 C 6.13, Rn. 13–19",
         "url": "https://ssl.bverwg.de/111214U3C6.13.0",
         "application": "Bauzaun mit erforderlicher Verkehrsausnahme: Konzentration trotz noch fehlender Erteilung, Gebühren bleiben möglich.",
-        "limit": "Niedersächsischer Fall; heutige Bundeszuständigkeit aus Paragraf 8 Absatz 6 FStrG."
+        "limit": "Niedersächsischer Fall; heutige Bundeszuständigkeit aus Paragraf 8 Absatz 6 FStrG.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Beschluss vom 30. Juni 2014, 9 B 6.14, Rn. 13",
         "url": "https://www.bverwg.de/300614B9B6.14.0",
         "application": "Veränderte Anbindung ohne Bestandsgarantie des Lagevorteils, Anliegerbelang in Abwägung.",
-        "limit": "Nichtzulassungsbeschluss zur Planung, keine pauschale Zufahrtsentscheidung."
+        "limit": "Nichtzulassungsbeschluss zur Planung, keine pauschale Zufahrtsentscheidung.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Modelllauf.",
       "Landesstraßenrecht, konkrete Widmung und Kostenvereinbarungen bleiben fallbezogen zu prüfen; Kreuzungsgesetze und sämtliche Planungsfristen nicht vollständig neu verifiziert.",
       "Workflow-Review: Paragrafen 8 und 8a FStrG sowie 74 VwGO erneut amtlich gelesen; vorhandene gerichtliche Anker aus dem vorherigen Quellenreview übernommen. Abrufe von Paragraf 17e FStrG und 73 VwVfG scheiterten; daraus keine neue konkrete Sonderfrist abgeleitet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "strassenrecht-infrastruktur/strassenrecht-infrastruktur-schnellstart.md",
+        "strassenrecht-infrastruktur/strassenrecht-infrastruktur-werkstatt.md"
+      ],
+      "result": "Bauzaun-Konzentration und verbleibende Gebühren korrekt getrennt. Lagevorteile sind keine unveränderliche Anbindungsgarantie; Landes- und Bundeszuständigkeit bleiben getrennt.",
+      "search_2026": "9 B 1.25 vom 27.01.2026 gefunden; Suchpassagen Rn. 4–7 zu nicht revisiblem hessischem Straßenrecht. Kein sachlicher Grund für Änderung der vorhandenen Bauzaun-/Anbindungsanker.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

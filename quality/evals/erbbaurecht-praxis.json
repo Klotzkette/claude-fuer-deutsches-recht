@@ -120,7 +120,9 @@
         "citation": "BGH, Urteil vom 11.12.2009, V ZR 110/09, Rn. 9–16",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2009/V_ZR_110-09.pdf?__blob=publicationFile&v=1",
         "application": "Frühere nicht ausgeschöpfte Anpassung ändert den Vertragsmaßstab nicht automatisch; ursprüngliche Abrede und spätere Änderungsvereinbarung auseinanderhalten.",
-        "limit": "Mittelwert aus Einkommen und Lebenshaltungskosten folgt konkreter Klausel; keine Universalformel, Wohnzweckgrenze und Dreijahresabstand gesondert prüfen."
+        "limit": "Mittelwert aus Einkommen und Lebenshaltungskosten folgt konkreter Klausel; keine Universalformel, Wohnzweckgrenze und Dreijahresabstand gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -140,5 +142,13 @@
     "continuation": "Nachtrag ändert Indexbasis oder Wohnnutzung -> Erbbauzinsrechnung und Anpassungsschreiben ändern; zusätzliche Bankbelastung -> Zustimmungs- und Rangregelung gesondert prüfen.",
     "enrichment": "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

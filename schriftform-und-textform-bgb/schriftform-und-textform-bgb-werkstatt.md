@@ -35,6 +35,8 @@ Eine qualifizierte elektronische Signatur ersetzt nicht pauschal eine notwendige
 
 ### 2.3. Formverstoß und Verteidigung
 
+Bei einer individuell vereinbarten doppelten Schriftformklausel nicht aus der mündlichen Abrede zugleich deren formlose Aufhebung ableiten: [BGH, Urteil vom 16.06.2026 – II ZR 85/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1), Rn. 24–31. Im Freiberuflersozietätsfall kann die Treuepflicht unter engen Voraussetzungen eine rückwirkende formwirksame Zustimmung zur Gewinnverteilungsänderung verlangen; sie macht die mündliche Änderung nicht automatisch wirksam. Frage nach Individualabrede oder AGB, vollständiger Formklausel, zwingender Notwendigkeit, Belastung und formgerechter Zustimmung. Paragraf 305b BGB bei AGB und gesetzliche Beurkundungsgebote gesondert prüfen; das Urteil verweist zur Tatsachenklärung zurück.
+
 Bestimme die konkrete Rechtsfolge aus BGB Paragraf 125 und gegebenenfalls einer abweichenden Spezialregel. Nichtigkeit, besondere Vertragsfolge, mögliche Heilung und Nachholung nicht gleichsetzen. Ein rechtzeitiger neuer Abschluss ist etwas anderes als die rückwirkende Wirksamkeit einer alten Erklärung.
 
 Bei einem Formangriff prüfe tatsächliche Einhaltung, Umfang des Formgebots, eine gesetzliche Heilung und gegebenenfalls einen eng begründeten Einwand aus BGB Paragraf 242. Treuwidrigkeit ist kein allgemeiner Ersatz für die Form. Entwickle die beauftragte Verteidigung oder Klauseländerung anhand der belegten Umstände; kein ungefragter Klageentwurf.
@@ -43,7 +45,7 @@ Bei einem Formangriff prüfe tatsächliche Einhaltung, Umfang des Formgebots, ei
 
 Rekonstruiere, welche Fassung wann auf welchem Weg den richtigen Empfänger erreicht haben soll. Prüfe BGB Paragraf 130 oder das einschlägige Zustellungsregime. Versanddatum, behaupteter Empfang und nachgewiesener Zugang bleiben unterscheidbar; ein Einlieferungsbeleg beweist nicht ohne Weiteres Inhalt und Zugang.
 
-[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1), amtlicher Leitsatz: Eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail geht im unternehmerischen Geschäftsverkehr grundsätzlich bereits dann zu; tatsächliches Lesen ist nicht nötig. Prüfe deshalb Serverbereitstellung, Empfängeradresse und Geschäftszeiten. Der Gesendet-Ordner beweist diese Umstände nicht. Private Empfänger und Nachrichten außerhalb der Geschäftszeiten gesondert beurteilen.
+[BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1), Rn. 16–23 (amtlicher Volltext am 01.10.2026 gelesen): Eine während üblicher Geschäftszeiten auf dem Empfängerserver abrufbare E-Mail geht im unternehmerischen Geschäftsverkehr grundsätzlich bereits dann zu; tatsächliches Lesen ist nicht nötig. Prüfe deshalb Serverbereitstellung, Empfängeradresse und Geschäftszeiten. Der Gesendet-Ordner beweist diese Umstände nicht. Private Empfänger und Nachrichten außerhalb der Geschäftszeiten gesondert beurteilen.
 
 Ordne Originalbrief, Scan, E-Mail-Anhang, Messenger-Nachricht und Portalübermittlung konkret zu. Bei einer elektronisch signierten Erklärung prüfe auch die tatsächlich beim Empfänger verfügbare Fassung und ihre Prüfbarkeit. Nachgereichte Empfangsdaten müssen die Fristbewertung und den noch möglichen Korrekturweg aktualisieren.
 

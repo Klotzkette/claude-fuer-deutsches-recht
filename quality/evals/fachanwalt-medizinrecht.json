@@ -169,13 +169,17 @@
         "citation": "BGH, Urteil vom 20.12.2022, VI ZR 375/21",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2021/VI_ZR_375-21.pdf?__blob=publicationFile&v=1",
         "application": "Nach rechtzeitiger Aufklärung keine abstrakte Wartefrist; erkennbaren zusätzlichen Überlegungsbedarf bei medizinisch möglichem Aufschub berücksichtigen.",
-        "limit": "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung."
+        "limit": "Amtliche Leitsätze b und c, Volltextabruf gescheitert; keine Entbehrlichkeit rechtzeitiger Aufklärung und keine Übertragung auf Studienzustimmung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 03.02.2009, VI ZR 183/08",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_183-08.pdf?__blob=publicationFile&v=1",
         "application": "Haushaltsschaden aus tatsächlichen Aufgaben und Einschränkungen berechnen; Tabellen nur als Orientierung ohne abweichende Umstände.",
-        "limit": "Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis."
+        "limit": "Amtlicher Leitsatz, Volltext nicht erreichbar; kein automatischer Stundenpreis oder Kausalitätsbeweis.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -212,5 +216,13 @@
         "sha256": "f2f94c7fd09eb06b9a89269b0ee5cd8432d704ed39f5b813258b50f17fc20ee4"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

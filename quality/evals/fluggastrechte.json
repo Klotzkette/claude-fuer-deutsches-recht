@@ -37,18 +37,25 @@
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0261",
       "checked_on": "2026-09-23",
       "supports": "Artikel 5 Absatz 4 und Artikel 7 Absatz 3 im amtlichen englischen Text gelesen: Informationsnachweis und Gutscheinvereinbarung; deutsche Direktabrufe technisch gesperrt."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260026de.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "EuG, Urteil vom 04.03.2026, T-656/24, European Air Charter; amtliche PM 26/26: Eigenständiges nicht zwingendes Warten kann als entscheidende Ursache die unmittelbare Kausalität zum außergewöhnlichen Ereignis beim Vorflug unterbrechen. Grenze: Amtliche Pressemitteilung, kein gelesener Urteilsvolltext und keine Randnummern; keine pauschale Aussage für jede Warteentscheidung. Gelesener Umfang: Pressemitteilung vollständig, beide Seiten einschließlich Fußnoten 1–4. EUR-Lex-Volltext wegen JavaScript-Prüfung nicht gelesen.",
+      "verification_status": "frisch_amtliche_pressemitteilung"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort.",
+    "reason": "Rechenstufen, Sturgeon-Anwendung und technische Defekte mit operativem Wallentin-Hermann-Anker ergänzt; Anfrage führt bis zur fertigen Antwort. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
       "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
-      "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis."
     ],
-    "sha256": "3860d88d2c345a78bb2a9d4112746126ff47e17ea5169e85fbbc1e45f5a6daae"
+    "sha256": "58012c1fad85b15e995d5d847330d549d23db851b93e7ea05677af126eda81c3"
   },
   "selection": {
     "positive": [
@@ -96,14 +103,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt.",
+    "reason": "Alle Störungs- und Verfahrenszweige erhalten; vier Entscheidungen mit Auslöser, Folge und Grenze erklärt, ungeprüfte Datums-/Aktenzeichenreste und Mietrechtsausflug entfernt. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "Betrag pro Person und Beispiel 880 km/5 Stunden ergänzt, keine Begrenzung auf Ticketpreis.",
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
       "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
-      "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt."
+      "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: eigenständige Warteentscheidung und Kausalität; PM-Quellengrenze."
     ],
-    "sha256": "db216598c8883d63cebf0394ab7abbfc0211fa4fa0df47a15e0a17cdc6fac95a"
+    "sha256": "3a1fc945b93ff978582f4f80374c2b1cb1bc7d16ac1998a3e1dd978b55ee165d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -124,25 +132,42 @@
         "citation": "EuGH, Urteil vom 22.12.2008, C-549/07, Wallentin-Hermann",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=ecli:ECLI:EU:C:2008:771",
         "application": "Rn. 23–27, 39–43: Technisches Ereignis und externe Ursache unterscheiden; Mindestwartung ersetzt nicht Nachweis zumutbarer Maßnahmen.",
-        "limit": "Verdeckter externer Fabrikationsfehler kann anders liegen; keine wirtschaftlich untragbaren Maßnahmen verlangt."
+        "limit": "Verdeckter externer Fabrikationsfehler kann anders liegen; keine wirtschaftlich untragbaren Maßnahmen verlangt.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "EuGH, Urteil vom 19.11.2009, C-402/07 und C-432/07, Sturgeon",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62007CJ0402",
         "application": "Rn. 61–63: Ausgleich bei mindestens drei Stunden Endzielverlust, Kürzung in passender Langstreckenkategorie prüfen.",
-        "limit": "Keine begriffliche Gleichstellung zur Annullierung; Entlastung und Anwendungsbereich bleiben erforderlich."
+        "limit": "Keine begriffliche Gleichstellung zur Annullierung; Entlastung und Anwendungsbereich bleiben erforderlich.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "EuGH, Urteil vom 31.05.2018, C-537/17, Wegener",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:62017CJ0537",
         "application": "Rn. 16–25: Einheitliche EU-Abflugbuchung bleibt trotz Flugzeugwechsel im Drittstaat zusammenhängende Beförderung.",
-        "limit": "Keine automatische Übertragung auf getrennte Buchungen oder Rückflug."
+        "limit": "Keine automatische Übertragung auf getrennte Buchungen oder Rückflug.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "EuGH, Urteil vom 23.03.2021, C-28/20, Airhelp",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex:62020CJ0028",
         "application": "Rn. 30–42 und Tenor: Rechtmäßiger eigener Tarifstreik nicht allein außergewöhnlicher Umstand.",
-        "limit": "Externe Streiks und andere Streikziele separat würdigen."
+        "limit": "Externe Streiks und andere Streikziele separat würdigen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "EuG, Urteil vom 04.03.2026, T-656/24, European Air Charter; amtliche PM 26/26",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260026de.pdf",
+        "application": "Eigenständiges nicht zwingendes Warten kann als entscheidende Ursache die unmittelbare Kausalität zum außergewöhnlichen Ereignis beim Vorflug unterbrechen.",
+        "limit": "Amtliche Pressemitteilung, kein gelesener Urteilsvolltext und keine Randnummern; keine pauschale Aussage für jede Warteentscheidung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_pressemitteilung",
+        "passages_read": "Pressemitteilung vollständig, beide Seiten einschließlich Fußnoten 1–4. EUR-Lex-Volltext wegen JavaScript-Prüfung nicht gelesen."
       }
     ],
     "remaining_limits": [
@@ -163,5 +188,19 @@
     "continuation": "Zahlungszweck -> richtige Position und Restforderung; Mitteilungszugang -> Ausgleichsausnahme; Ereignisbericht -> konkrete Erwiderung ändern.",
     "enrichment": "Gutschein und Vergleich, Informationsnachweis, Ersatzangebot, Mehrpersonenbelege und selbst beschaffter Ersatzflug ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "EuG, Urteil vom 04.03.2026, T-656/24, European Air Charter; amtliche PM 26/26",
+        "status": "frisch_amtliche_pressemitteilung"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

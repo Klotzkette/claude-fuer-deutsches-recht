@@ -83,7 +83,7 @@ Wenn die Airline mit einer typischen Begründung argumentiert siehe Skill
 
 | Airline-Begründung | Kerngegenargument | Rspr. (offene Quelle curia.europa.eu) |
 |---|---|---|
-| "Technischer Defekt" | nicht außergewöhnlich | EuGH C-549/07 (Wallentin-Hermann, 22.12.2008) |
+| "Technischer Defekt" | Übliche Betriebs-/Wartungsprobleme regelmäßig nicht außergewöhnlich; externe nicht beherrschbare Ursache und Gegenmaßnahmen gesondert prüfen | EuGH C-549/07 (Wallentin-Hermann, 22.12.2008) |
 | "Crew-Engpass" | nicht außergewöhnlich | st. Rspr. — Teil normalen Betriebs |
 | "Streik eigener Mitarbeiter" | nicht außergewöhnlich | EuGH-Linie zum Personal — konkrete Aktenzeichen in curia.europa.eu vor Versand verifizieren |
 | "Vorverlegung um wenige Stunden" | bei mehr als 1 h: Annullierung | EuGH C-394/23 (9.1.2025); C-146/20 u.a. (21.12.2021) |
@@ -146,7 +146,7 @@ Wichtig: Die Mahnung nimmt regelmäßig dieselben Anlagen wie das Erstschreiben 
 ## Aktuelle Rechtsprechung (Stand Mai 2026; offene Quelle curia.europa.eu)
 
 - EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
-- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — techn. Defekt kein außergewöhnlicher Umstand
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — übliche technische Betriebsprobleme regelmäßig nicht außergewöhnlich; externe Ursachen und Gegenmaßnahmen gesondert prüfen
 - EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspätung Anschlussflüge
 - EuGH, Urt. v. 9.1.2025, C-394/23 — Vorverlegung als Annullierung
 - EuGH, Urt. v. 13.6.2025, C-411/23 — versteckter Konstruktionsfehler Triebwerk

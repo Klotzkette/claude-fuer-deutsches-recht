@@ -1,0 +1,1338 @@
+{
+  "base_commit": "6e5a745620e2f8d48f7e414506afdbb725b6fa8a",
+  "scope": "Geänderte/neu angelegte Dateien dieses Durchgangs; dieses Manifest selbst ist ausgenommen.",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "139ede6ff9c42ccaa4ec6c45c2214683a3cca3b132de9ef66a0964042bb07b64"
+    },
+    {
+      "path": "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+      "sha256": "b9dd731e3959ebed2bbeac699e6b5ce27104d635eee0705eab44f88101801faa"
+    },
+    {
+      "path": "agb-recht-pruefer/skills/agb-im-bankvertrag-sparkassen-und-banken/SKILL.md",
+      "sha256": "277988026246e89e7f7b1e8daf7a9a44f256d91277c17765ab9be85073d42542"
+    },
+    {
+      "path": "agb-recht-pruefer/skills/bankvertrag-sparkassen-bauvertrag-vob/SKILL.md",
+      "sha256": "1297760eefaf5811237b9ce345459bb4a440b87a430495401f5c65011ad63fea"
+    },
+    {
+      "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-schnellstart.md",
+      "sha256": "8c7b8279cfbd4253434d0af947f57247c099e2044e27fd3954b0e899aa532ed7"
+    },
+    {
+      "path": "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
+      "sha256": "4b34543337fbbe32c0d951763deb8afe599dcbeea4ae50fcf5e302622067a860"
+    },
+    {
+      "path": "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+      "sha256": "26a361098d6ba8096ff1d05b2c0f4057c94cc26c6d27d0bd3c73c6d12b4ae7bc"
+    },
+    {
+      "path": "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md",
+      "sha256": "d0affa2ad5374fd5ced9aa45f8149e36872a93635c3f416f8f6020b5d9729fc8"
+    },
+    {
+      "path": "bav-strategie-konzern/bav-strategie-konzern-schnellstart.md",
+      "sha256": "7d23ce9ec55bd1b0279e669eaaebb9f55d5781c3faedf6b0fd442ce4aa9f2a33"
+    },
+    {
+      "path": "bav-strategie-konzern/bav-strategie-konzern-werkstatt.md",
+      "sha256": "17f8777de02168622c8eec53ddd9cbacb13096e5a101b2857a69b31f8c59c539"
+    },
+    {
+      "path": "bav-strategie-konzern/skills/versorgungsordnung-und-betriebsvereinbarung-drafting/SKILL.md",
+      "sha256": "400bbc83efb6bb42937e96fe3b097ac6ea614d8239322d38abf078d13395b996"
+    },
+    {
+      "path": "berufsrecht-anwaelte/berufsrecht-anwaelte-schnellstart.md",
+      "sha256": "7035b68954d2a83ee51696b237a70af40b4f4078e543042161be3f6234b3cc26"
+    },
+    {
+      "path": "berufsrecht-anwaelte/berufsrecht-anwaelte-werkstatt.md",
+      "sha256": "2698c1db2d53404c192fe8c63fb0fa92e84b9a0b5497241a1a4dcfc74f9a9d51"
+    },
+    {
+      "path": "berufsrecht-anwaelte/skills/honorarvereinbarung-rvg/SKILL.md",
+      "sha256": "ce722e6b7c6e2f9fcd61e492992eb1387115557c69ae9902c1125f3fc7aae293"
+    },
+    {
+      "path": "berufsrecht-anwaelte/skills/honorarvereinbarung-und-rvg-transparenz-rechtsprechung/SKILL.md",
+      "sha256": "6cc32e581b30e06ab7b21d955cd26ae031d2e82b80aa6c5dc229929bd5909841"
+    },
+    {
+      "path": "betreuungsrecht/betreuungsrecht-schnellstart.md",
+      "sha256": "41259f85a308650e8dcece276bd18d73a9467f914c5ec875ffb25bbff35715fa"
+    },
+    {
+      "path": "betreuungsrecht/betreuungsrecht-werkstatt.md",
+      "sha256": "27d4d268cf763a531474367777da3df5d5b619f37637dff9c5fa6b73499127be"
+    },
+    {
+      "path": "betreuungsrecht/skills/betreuungsgericht-kommunikation-angehoerige/SKILL.md",
+      "sha256": "13e763a8fb6b8b78119af978a207d901b5f8b1b401b52a9d23d89c1dd9ae3ac7"
+    },
+    {
+      "path": "betreuungsrecht/skills/betreuungsgericht-kommunikation-fuer-angehoerige/SKILL.md",
+      "sha256": "e1ce257c4cb202d93b3013cc8f1388e0fc39933ecdf8d5cf9156d3134af22cd3"
+    },
+    {
+      "path": "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-schnellstart.md",
+      "sha256": "86e5302a7f6efe74708621ff196fb30d099d75b763528d3ffa955628f7e7a055"
+    },
+    {
+      "path": "bundeswehrrecht-wehrrecht/bundeswehrrecht-wehrrecht-werkstatt.md",
+      "sha256": "9e4677c96d17fc9a89aa23de1571f21dd74341025e436e90292b948467e0c979"
+    },
+    {
+      "path": "bundeswehrrecht-wehrrecht/skills/beurteilung-konkurrentenstreit-auswahlentscheidung/SKILL.md",
+      "sha256": "b1ad17f29b7fbe46a13dde0293c865c202ed3bd92635b60b024d33fc721eafa7"
+    },
+    {
+      "path": "common-law-kompass/skills/ma-commercial-drafting/SKILL.md",
+      "sha256": "61c73cf977548080e84239d142e0b52f0203ab6986ed2f6f026f26ab726d333c"
+    },
+    {
+      "path": "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-schnellstart.md",
+      "sha256": "655908f8f7e04d1b373d58a016cb68ecf0d05a0bf2a92a429019670db5881f14"
+    },
+    {
+      "path": "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md",
+      "sha256": "8db1ad0e8152ecfb7270dbf56bce4505165b7d9d7c2e577d326e32fbfc35fb33"
+    },
+    {
+      "path": "designrecht-geschmacksmusterrecht/skills/design-und-urheberrecht-angewandte-kunst/SKILL.md",
+      "sha256": "75e6662bb03a4215d00acb41cb4a62dbc9ca5b022b45a1bb2a133330f2589f5c"
+    },
+    {
+      "path": "diesel-schadensersatz/skills/18-vergleich-abfindung-nachzahlung/SKILL.md",
+      "sha256": "2aa8b0e7fd94a587c201146af82f23d04a97c70bfe1f9233a17ff5874c20349c"
+    },
+    {
+      "path": "fachanwalt-agrarrecht/skills/landpacht-und-hoferbfolge-pruefen/SKILL.md",
+      "sha256": "4119bc6060f3423f3f78d7af22088fa5aa43b4a4ec1116d95dfea6cb8506623b"
+    },
+    {
+      "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
+      "sha256": "5e071992d7dcd2236ae7d9c9cb6e1d41d92ed8fab877e9d41e6f453d18fe85f2"
+    },
+    {
+      "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-schnellstart.md",
+      "sha256": "75ecc8bdb9041895f14fd2d7bf635f031d5864e0f090ae4931e02e4dbdcb0dc8"
+    },
+    {
+      "path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-werkstatt.md",
+      "sha256": "ae18e123249d85a370b7f31ae5acf485be34e9cd182d97af46fe4a5e857b6ff3"
+    },
+    {
+      "path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
+      "sha256": "644432ad8c9aef373a727e2737aa13cfe6efb638e343555e3b1aa9627b4da7d2"
+    },
+    {
+      "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-schnellstart.md",
+      "sha256": "bc976da0dc4099de9e76b28041e37b7a4e179678aef59b3359bb263ed86b3404"
+    },
+    {
+      "path": "fachanwalt-erbrecht/fachanwalt-erbrecht-werkstatt.md",
+      "sha256": "b4d764e63dfe5fb8c6d3c9b497b9c3707df588b42b2612dd0c262f6e9afe5afb"
+    },
+    {
+      "path": "fachanwalt-erbrecht/skills/gesetzliche-erbfolge-bestimmen/SKILL.md",
+      "sha256": "1ba4802b4e3d9706904b1c1ed82d36784dcc672a2a933d02465376b5da52478b"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
+      "sha256": "72d7f31f5eed4a1711b8952fdb9729514e3914429dc3428ed89a344c1ac2bf80"
+    },
+    {
+      "path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
+      "sha256": "a84f1219f163d4b666c899fda1ce86490c993abc6141b68dcdca45b009b45c6f"
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-schnellstart.md",
+      "sha256": "5346daa0ab4d7e925c3e8104ed0983cc7e74ed6c9fe187074043bef529b7fc3e"
+    },
+    {
+      "path": "fachanwalt-strafrecht/fachanwalt-strafrecht-werkstatt.md",
+      "sha256": "ba7539a0425d80e2721e31f371d96a881d0b606a86c1959b385400f9948c3795"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-schnellstart.md",
+      "sha256": "ec0053962188d16343c5233b6604fff707d5bed654a70d4f16ac021c5a10a9dd"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-werkstatt.md",
+      "sha256": "384ebb48e2288834ca425951a5ce17b4e9b7b8c588dfc592e46ceddf0f12eb87"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/skills/fachanwalt-transport-speditionsrecht-ladungsschaden/SKILL.md",
+      "sha256": "6c1c7f22eefa2c8febb49749d0efcafbbd992fc6f12d2f488322e62544215bbf"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/skills/frachtfuehrerhaftung-pruefen/SKILL.md",
+      "sha256": "a4b546a50ecef15f324d6f99403c7f1c69694c0769aa7164510fcaba2e2ef1ee"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/skills/ladungsschaden/SKILL.md",
+      "sha256": "8c98e179359d1eb71757d90907c1e764aa3ce28968325863fb975aad4899f13f"
+    },
+    {
+      "path": "fachanwalt-transport-speditionsrecht/skills/reklamationsschreiben-cmr-hgb/SKILL.md",
+      "sha256": "bf7cfe34ff5946ca5707a876174d48829eb6fcc5c48b1ee0ea7cba48eb083f42"
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
+      "sha256": "17d30d2c32eb7d6e91394a85f8a03de1592fee814783110a91aff074bfe47ec9"
+    },
+    {
+      "path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-werkstatt.md",
+      "sha256": "e8483cbed6136dcf691364deee311959119c1d13678a9759c115815ad66ccfac"
+    },
+    {
+      "path": "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
+      "sha256": "06214c247f3b817bc5862dfe4ffc7339173b5f899d444f1898e046ee50e0926c"
+    },
+    {
+      "path": "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
+      "sha256": "288b9380dfa1b414515ae6ec3b221622e7cc388906c5d54f025558d16b65a9bf"
+    },
+    {
+      "path": "fluggastrechte/fluggastrechte-schnellstart.md",
+      "sha256": "58012c1fad85b15e995d5d847330d549d23db851b93e7ea05677af126eda81c3"
+    },
+    {
+      "path": "fluggastrechte/fluggastrechte-werkstatt.md",
+      "sha256": "3a1fc945b93ff978582f4f80374c2b1cb1bc7d16ac1998a3e1dd978b55ee165d"
+    },
+    {
+      "path": "fluggastrechte/skills/airline-standardausreden-annullierung/SKILL.md",
+      "sha256": "02a8ec0fe32d2ac5c5383242ec626c6b57a420961da78e145cb2ff7025618c84"
+    },
+    {
+      "path": "fluggastrechte/skills/airline-standardausreden-pruefen/SKILL.md",
+      "sha256": "e851f51783e50aab0ec054105492eaa7b75195c297435a10252318387625bd25"
+    },
+    {
+      "path": "fluggastrechte/skills/anschluss-router/SKILL.md",
+      "sha256": "ba628e289c93d3a0139b36983057ae4bca8e398f7dd394f1b86a6dc3648cd2c1"
+    },
+    {
+      "path": "fluggastrechte/skills/aussergewoehnliche-umstaende-strikt/SKILL.md",
+      "sha256": "a2d92e282f7e54813edec690de878e1e8df3a08aa3b5a70e6b225f30319603dc"
+    },
+    {
+      "path": "fluggastrechte/skills/aussergewoehnliche-umstaende/SKILL.md",
+      "sha256": "a24f0b4790aa3217a30ed375535a24af23b2806f68f5cd27af3093a6548f0183"
+    },
+    {
+      "path": "fluggastrechte/skills/forderungsschreiben-mahnung-klage-amtsgericht/SKILL.md",
+      "sha256": "fc4b63425f8735c8f6732c4260264ead321f4b94551fb4b96940e301cfbb5744"
+    },
+    {
+      "path": "fluggastrechte/skills/forderungsschreiben-mahnung/SKILL.md",
+      "sha256": "ca2e981a75eede2fa85b103d9481cc3e8284d7db7811f1322b21f016f4d05c45"
+    },
+    {
+      "path": "fluggastrechte/skills/kaltstart-triage/SKILL.md",
+      "sha256": "26396cc34251dbb3f0766dd076f6b78306e50e60dcb16fec152e7e019f67372d"
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-schnellstart.md",
+      "sha256": "b8f3ef914ee0fa673399735496da0665ff75a0cef8467d71ec272fc9ca2b6f53"
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md",
+      "sha256": "5a3319c65a4f16df065f819bc591835c791221822101a35c7e2e8100ab725723"
+    },
+    {
+      "path": "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
+      "sha256": "ee5479f00bfaa419cde6d229ad0b7cfc8bb8f1ac92b84842e54f29da4108c113"
+    },
+    {
+      "path": "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+      "sha256": "5a162410331c32c6c004634668157ac83cde36956058d2e4c7972b6ad094e82e"
+    },
+    {
+      "path": "gerichtsplugins/richter-finanzgericht/skills/03-aussetzung-der-vollziehung/SKILL.md",
+      "sha256": "690586f4bc9149b2401eb71dd72f7901018bca22994d91d739b5c349970d49f7"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/skills/04-durchsuchung-und-beschlagnahme-antrag/SKILL.md",
+      "sha256": "c974c388b897cda15bcb01ac3b0cd79dbc80d55d3f0299a3698abf007689d4b7"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md",
+      "sha256": "c388fab987e39df6a53dd43e4ec1236204a680f9e0d1d5e8e3a201031d695263"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md",
+      "sha256": "2b0a97b93f384cbf0daa340ee1b69fe5ae505c74e15942d6053d276e34c810b1"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/skills/wohnungsdurchsuchung-gefahr-im-verzug/SKILL.md",
+      "sha256": "ce4ac74e045a9145deaa928fdfd8df028d6db1f2f80dc110317e02c277ce7fed"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md",
+      "sha256": "812e89235927441a1eaac23205779612734242489c8af08935a27d5b785477b8"
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md",
+      "sha256": "77f675049cf708be133ab2192c13561f2966db502659fc34ca88377e1320c8eb"
+    },
+    {
+      "path": "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "sha256": "deb5156fc1542a27c10076e82606afa5b7e768e780ff9d6fc67f74eb85fd9e31"
+    },
+    {
+      "path": "gesellschaftsrecht/skills/gesellschafterliste-legitimation-und-widerspruch/SKILL.md",
+      "sha256": "b08075e04f6da5e082ce970ed4c0dae2174c4feb62107a49b50adfe57ea5973a"
+    },
+    {
+      "path": "gesellschaftsrecht/skills/gesellschafterliste-registerstreit-legitimationswirkung/SKILL.md",
+      "sha256": "a00c8798da9b46f872a1f08c8608482231137a5b07877afa91add0dee86e0f16"
+    },
+    {
+      "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+      "sha256": "efe651c325a654ed9862154dd30503f7a01f92359f7b91bef2d47380539cce01"
+    },
+    {
+      "path": "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md",
+      "sha256": "686b845201a8d6f17bf567afba0f61557b9ce43ce5b1fe7c263ce3844948eeb1"
+    },
+    {
+      "path": "handelsregister-praxis/handelsregister-praxis-schnellstart.md",
+      "sha256": "df95ca20e288c0e4c0e660bf1e97660fa55ec05392cdd9151787c73eefdad7c6"
+    },
+    {
+      "path": "handelsregister-praxis/handelsregister-praxis-werkstatt.md",
+      "sha256": "c1cb837c98bba2e2eda4ebd2c8f02c9e908b238563f8dd34aea53730b1246065"
+    },
+    {
+      "path": "handelsregister-praxis/skills/auslandsurkunden-apostille-legalisation-uebersetzung/SKILL.md",
+      "sha256": "0dd822d8ce875366488d6079e2a14ab56b61732673e17d6da014c7b3891dc070"
+    },
+    {
+      "path": "handelsregister-praxis/skills/registergericht-und-datenschutz/SKILL.md",
+      "sha256": "b37779d5991794006dda8436676fd6d814bfda5da55a2474cf7d6bdf51363121"
+    },
+    {
+      "path": "handelsvertreterrecht/handelsvertreterrecht-schnellstart.md",
+      "sha256": "219d4e3dfbe31cc8f327a97d9ba7abde2684bebda7209b613c85567329d592c2"
+    },
+    {
+      "path": "handelsvertreterrecht/handelsvertreterrecht-werkstatt.md",
+      "sha256": "d2c4c4f0fb9eb7a5ec4889b5b8ef6207c86e8153959ad5e87980e9b9fcb7ed65"
+    },
+    {
+      "path": "handelsvertreterrecht/skills/ausgleich-ausschlussgruende/SKILL.md",
+      "sha256": "5a7ea0ff818d6b783a71c18cf527f15b66c7d850d8a78468d6aae4bb06c45521"
+    },
+    {
+      "path": "handelsvertreterrecht/skills/vergleich-verjaehrung-vermittlungsvertreter/SKILL.md",
+      "sha256": "da33bd89e794cca3d044fdd7584f5535dac31c21636b357fe78682e146b3cdbb"
+    },
+    {
+      "path": "handelsvertreterrecht/skills/vergleich/SKILL.md",
+      "sha256": "9555923f63cc9f1a77207d4039ab257db0574e804078db54de5b03be2e110e6e"
+    },
+    {
+      "path": "hochschulrecht-laender/hochschulrecht-laender-schnellstart.md",
+      "sha256": "55c0d407c68df53fd268119824fc2d671592a3f45423bdb174403350e0fadab4"
+    },
+    {
+      "path": "hochschulrecht-laender/hochschulrecht-laender-werkstatt.md",
+      "sha256": "3cdc82ec8ad020f3becae1a04ca64a67829fc5f9cd5f460157fb7a39281de0f8"
+    },
+    {
+      "path": "hochschulrecht-laender/skills/publikationsfreiheit-affiliation/SKILL.md",
+      "sha256": "5212bc5ae4d58a8f462fc1af43530b252b7c5aa65bd744b417037c1a3d9190ab"
+    },
+    {
+      "path": "insiderrecht-compliance/skills/aufschubentscheidung-market/SKILL.md",
+      "sha256": "eb79493c611ee4827dcb9a0f30bf21e73934b74ae37795addcdadeae59bc2c7c"
+    },
+    {
+      "path": "insiderrecht-compliance/skills/insiderinformation-zwischenschritte/SKILL.md",
+      "sha256": "8249cca35d61329a04c10f3f819080a70ce0426439ef558461c251c951cc4bd7"
+    },
+    {
+      "path": "insiderrecht-compliance/skills/zwischenschritte-ma/SKILL.md",
+      "sha256": "acb27e9485cdd4de2bf537b8e9936b8bfae23eaa3e716bddcff5f6dd13ea2f31"
+    },
+    {
+      "path": "insolvenzrecht/skills/antragspflicht-15a-17-19/SKILL.md",
+      "sha256": "6d4dce840c195932393d54b0b0a6f7a7f03efea04d4816d0bf002be3e7cb18f2"
+    },
+    {
+      "path": "insolvenzrecht/skills/antragspflicht-15a-inso/SKILL.md",
+      "sha256": "bf0d7b79320f4de28626183d74fd08ce54c24455b3a485f130484e3409f37007"
+    },
+    {
+      "path": "insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "sha256": "fb333b5f3cefcc57780fa7fbac67c73c2d9cc80b6f17cc81f68b9705869d8d7a"
+    },
+    {
+      "path": "insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md",
+      "sha256": "b9377ca35632c3dc04b400a63a06e66374bdd6495145ab9d694f04c0af9fa281"
+    },
+    {
+      "path": "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md",
+      "sha256": "924a676fd7deab03d2a39c99249cbe03a541b6f31e8b840ac0b62bbe6b84f288"
+    },
+    {
+      "path": "kanzlei-allgemein/kanzlei-allgemein-schnellstart.md",
+      "sha256": "e8abe0ff5a61f1ddd99deb9b1eabce72f48bf687c327569dc75855d05e4e36a4"
+    },
+    {
+      "path": "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
+      "sha256": "40c0e2d6bbdfd882f3db8977bbc1782d389965343aae02845b736aba0099f818"
+    },
+    {
+      "path": "kanzlei-allgemein/skills/bea-versand-pruefen/SKILL.md",
+      "sha256": "914b20ea78d7e01f4502bb4653da6a428e75d108666c97c31e769bd1ba1ca44e"
+    },
+    {
+      "path": "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-schnellstart.md",
+      "sha256": "34c19d464690db6f9af39c6a42561c85dae56a06dc434ea037dbd38061283053"
+    },
+    {
+      "path": "kanzlei-mandant-lifecycle/kanzlei-mandant-lifecycle-werkstatt.md",
+      "sha256": "f59bf8cfa5c06b024aa287720d30084d4d49dc771c46d2ea7bf0883210e79663"
+    },
+    {
+      "path": "kanzlei-mandant-lifecycle/skills/budget-overrun-escalation/SKILL.md",
+      "sha256": "9bd065e4cf3179afb39c48e65080490aee9d4328ae2a0f574f0003ad46bfc94d"
+    },
+    {
+      "path": "kartellrecht-marktabgrenzung-pruefung/skills/eugh-rechtsprechung-beweislast-jurisdiktion/SKILL.md",
+      "sha256": "e881a70104570c5c42274a129e9962b6ce441b4f30d6afde0dc625076a3c254a"
+    },
+    {
+      "path": "kartellrecht-marktabgrenzung-pruefung/skills/ssnip-test-anwendung/SKILL.md",
+      "sha256": "ec0ff237a1de7195980102e8da6dbea0aa70ce858eab4b729c93786190370a0e"
+    },
+    {
+      "path": "memorandums-ersteller/memorandums-ersteller-schnellstart.md",
+      "sha256": "301059dd6a97f71e591bff6ea2eb4079566071ea34eda8ef2df75714800f3a0f"
+    },
+    {
+      "path": "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
+      "sha256": "37bdad927c20cd1c8411a768a373fa4b85fce804e1484bd42494f4ac00cf3ef9"
+    },
+    {
+      "path": "memorandums-ersteller/skills/haftungsrisiko-rechtsanwalt-board-pack/SKILL.md",
+      "sha256": "d112ff12ab67c09b0c5faa0576396d9b6601234bc300160936bf12b64d6cffc3"
+    },
+    {
+      "path": "patentrecherche/patentrecherche-schnellstart.md",
+      "sha256": "8ed6ad2b04cb1a3c3bc40f78578821c0be7a09e70b72d9827863196a98d66701"
+    },
+    {
+      "path": "patentrecherche/patentrecherche-werkstatt.md",
+      "sha256": "fc46829625cf00bfbfea10ecc7a69e3535b4af7ebcf307890c17f76d2fe0a5eb"
+    },
+    {
+      "path": "patentrecherche/skills/erfinderische-taetigkeit-freedom-to-ki-patent/SKILL.md",
+      "sha256": "26a5a4f45a4c85b616e00a145f5779b92e5a7e4834091dba8b0b021c11141a5a"
+    },
+    {
+      "path": "patentrecht/patentrecht-schnellstart.md",
+      "sha256": "bc69ce940af872ddff915eaa987f09cae02de0e7c02fd4f88c8628ff76d82e3d"
+    },
+    {
+      "path": "patentrecht/patentrecht-werkstatt.md",
+      "sha256": "6e96e9b3d3924356a0d21b1192b825896857abb9e29f8c12838cd1a4fba7df08"
+    },
+    {
+      "path": "patentrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "sha256": "f52fbf615415836c26fa4819245970bc7bdccbf342c7d104556d0ccb8d9f7fb9"
+    },
+    {
+      "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md",
+      "sha256": "dc7251428e17bcc63d91ddcd21dc27b5a261b18684d9cec08cc6d65eb5eb4969"
+    },
+    {
+      "path": "phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md",
+      "sha256": "6898606766fac8826f622e9b5db441ee007968159e3d5b26a512fd93a7e30461"
+    },
+    {
+      "path": "private-equity-praxis/private-equity-praxis-schnellstart.md",
+      "sha256": "43c7093b8ca98baccbeaedbf7bbc4bc62f2f6e58176c994997cf6275d2430100"
+    },
+    {
+      "path": "private-equity-praxis/private-equity-praxis-werkstatt.md",
+      "sha256": "0a05821774896c54c67c10c76b0f4fd5a9c22865399366408213af3dd0d09be5"
+    },
+    {
+      "path": "prozessrecht/prozessrecht-schnellstart.md",
+      "sha256": "7a762ff5c1c0acdee556533f6005160e59fb9539c6c30cd2eac3d6f1b80d323c"
+    },
+    {
+      "path": "prozessrecht/prozessrecht-werkstatt.md",
+      "sha256": "863dad82d9c6b8a713282b8577c091917c676469d5c4d2958b1be12b01124380"
+    },
+    {
+      "path": "prozessrecht/skills/bea-wiedereinsetzung-ersatzeinreichung-2026/SKILL.md",
+      "sha256": "200f3f1f958e173b1bbcc703af376d277247dcc12a9a8804fff807724a1b3907"
+    },
+    {
+      "path": "prozessrecht/skills/start-chronologie-fristen/SKILL.md",
+      "sha256": "5c351ebd391f90c545bb8e741906283da0bcce208f47dc8b99a72fe453990db4"
+    },
+    {
+      "path": "quality/evals/agb-recht-pruefer.json",
+      "sha256": "d98f9164f7abc4077e954f158bebcb541a61ef3a6be1509c2bd8ee6b617bcf3d"
+    },
+    {
+      "path": "quality/evals/anlagen-zu-schriftsaetzen.json",
+      "sha256": "000de5e8a81401303dffbba684856909698105160734761fa56281d3c7d4b75a"
+    },
+    {
+      "path": "quality/evals/antidiskriminierung-agg.json",
+      "sha256": "e279c4e3a162d6797a8ad23363d70fb54d0e78e4e8c484829f397b918041c1b8"
+    },
+    {
+      "path": "quality/evals/apothekenrecht.json",
+      "sha256": "354dd032f1f35241e61651203588dcdf3c580ceade2cc4afc422a8e68dbb57a2"
+    },
+    {
+      "path": "quality/evals/arbeitsrecht.json",
+      "sha256": "037fcea5c384b9f6589786f6de57928b124076edb7337c91d5cdba76b5b355a9"
+    },
+    {
+      "path": "quality/evals/arbeitszeugnis-analyse.json",
+      "sha256": "58896b6b653692a36bb673fc071acfb2efc93cf922c637f3a3be65a59cbe89f5"
+    },
+    {
+      "path": "quality/evals/arbeitszeugnisgenerator.json",
+      "sha256": "a69be1d0bcbc4e30b6488949ea3aca349664d6596b8daad169c7ddd79889e305"
+    },
+    {
+      "path": "quality/evals/arbeitszeugnispruefer.json",
+      "sha256": "243157f05d559b11b6a00ba6cc3e326aeee601ee54f9833468db7b66397dd2c5"
+    },
+    {
+      "path": "quality/evals/aussenwirtschaft-zoll-sanktionen.json",
+      "sha256": "bf84600293f484d3d1cc954dc50da95907da0a492e36998db2ed4cbf48e290ff"
+    },
+    {
+      "path": "quality/evals/bank-rechtsabteilung.json",
+      "sha256": "7b6dbb886aec8ae120140f3804ffcb66e42ffa0e0e0e801f5c8a2d1d60ce6232"
+    },
+    {
+      "path": "quality/evals/bautraegervertrag-pruefer.json",
+      "sha256": "1ecac0bf4d870001ff2afe95c46a6a403507a664847fc2968a4f866b11e68515"
+    },
+    {
+      "path": "quality/evals/bautraegervertragspruefer.json",
+      "sha256": "e6bdb36997b5a8862391ce7afca7d56b355865b6f4ca3032376742f0c5168a76"
+    },
+    {
+      "path": "quality/evals/bauwirtschaft.json",
+      "sha256": "f26f72d488150a90444dd7d88608a8b4e6e3708f6cf8d7de4bd774ee7fc0bab0"
+    },
+    {
+      "path": "quality/evals/bav-strategie-konzern.json",
+      "sha256": "9c555ba3f989abbbed91bf28746a2574ea7411b8cef20d2468f450e06e7b0abb"
+    },
+    {
+      "path": "quality/evals/beamtenrecht.json",
+      "sha256": "52ac8aff916fde85ba7eb33c2edf13bdea75ef1fa75317fefe271c4ab104ed78"
+    },
+    {
+      "path": "quality/evals/berichtspflichten-erlediger.json",
+      "sha256": "f9427aae91db5dc6fdf9768e0922f9518a69766a85ba3366c7a3d76f16ff42b6"
+    },
+    {
+      "path": "quality/evals/berufsrecht-anwaelte.json",
+      "sha256": "9e5ea67917d17c2956ead45cfe36f239d13892cba7eff4371cb67658878a3dd2"
+    },
+    {
+      "path": "quality/evals/betreuungsrecht.json",
+      "sha256": "739262c1bad2b6c272eea8eaf5b4c4fdae334ce0ef9a16d27e0c2a1ca0d76aef"
+    },
+    {
+      "path": "quality/evals/betriebskosten-hausverwaltung.json",
+      "sha256": "a4789e11a81c072f91095865425d90a9081206a1a7b4773e748fddc901504ad8"
+    },
+    {
+      "path": "quality/evals/buerokratieversteher-entbuerokratisierer.json",
+      "sha256": "2d6b0526ed08711f264a98813accc498521a8c14898e6b2ecdd5fcc1f271160e"
+    },
+    {
+      "path": "quality/evals/bundesnetzagentur-verfahren.json",
+      "sha256": "5e4013c09f02ae8741e1b527acb06f9d660dcc11d661d276a50f7bb40f7cdb6b"
+    },
+    {
+      "path": "quality/evals/bundeswehrrecht-wehrrecht.json",
+      "sha256": "34ca13853da312031b6ff63af7127c76744e1f918f1f27e826cdb62aa2046574"
+    },
+    {
+      "path": "quality/evals/common-law-kompass.json",
+      "sha256": "88358bc3c515afbd89e81a820affe66c5cd5d56e56b80c75a7e6f1eaf2b31a79"
+    },
+    {
+      "path": "quality/evals/datenschutzrecht.json",
+      "sha256": "1ce8a6717f6474f5aa7d796d140e0865d46638d7ce06e23aa3ab0bfb9dfe20f7"
+    },
+    {
+      "path": "quality/evals/denkmalschutzrecht.json",
+      "sha256": "7e066e7ac4b7fa0c36507b9a37ad352654b6244d8dda001d049cfdac81d819dd"
+    },
+    {
+      "path": "quality/evals/designrecht-geschmacksmusterrecht.json",
+      "sha256": "20732a978c8babebedd8f295035d71233bb2e75a5a97e085557c6033a38a0dd9"
+    },
+    {
+      "path": "quality/evals/dfg-foerderantrag.json",
+      "sha256": "e9d631bf22e9ab64548fc744d682b2e97a74c424b74b586e2f46f3ae542038dd"
+    },
+    {
+      "path": "quality/evals/diesel-schadensersatz.json",
+      "sha256": "aadc02201718105c5559ed0db7b6f9a059722006722c8527ef30db3d2d5cdb0c"
+    },
+    {
+      "path": "quality/evals/einigungsvertrag-vermoegensrecht.json",
+      "sha256": "7dfd77202e47560ac57934090f3d571a853c5c2a0d63aa2ba485d7fa75ae712e"
+    },
+    {
+      "path": "quality/evals/energierecht.json",
+      "sha256": "16be9969cf36b4db211193aa85dd8f16135a98ee9984600a070958c8c0c42a8f"
+    },
+    {
+      "path": "quality/evals/enteignung-artikel-14.json",
+      "sha256": "5b4cb85598cb8e8882f87f8b745e866dd571f8ea5c34f14da72948802c30891a"
+    },
+    {
+      "path": "quality/evals/erbbaurecht-praxis.json",
+      "sha256": "688429e5e62842867b5ea16035dee0bbef450e19efdcb38570db93037fde6a04"
+    },
+    {
+      "path": "quality/evals/europarecht-kompass.json",
+      "sha256": "5ba551c8e1940593f25cf2b0866d9f60a787e2dfbe7e015a66de0e2d97487dd7"
+    },
+    {
+      "path": "quality/evals/fachanwalt-agrarrecht.json",
+      "sha256": "ce445b90935fdd087c9501c1ed2c3b8c52680142aebb85b4fea9b9c5e5e7c6bd"
+    },
+    {
+      "path": "quality/evals/fachanwalt-arbeitsrecht.json",
+      "sha256": "fb440512601f4272d9ae6d0c5b01e015de8daf702f9a3d8b179d46a140339f2e"
+    },
+    {
+      "path": "quality/evals/fachanwalt-bank-kapitalmarktrecht.json",
+      "sha256": "ce74e7ff589761594581e4092db3240f621c8084483b104952982e0cc640ce4b"
+    },
+    {
+      "path": "quality/evals/fachanwalt-bau-architektenrecht.json",
+      "sha256": "d5dcd064d81feb16f7f5c6de6634bbe902caa9870876287fac5707c0c739c52e"
+    },
+    {
+      "path": "quality/evals/fachanwalt-erbrecht.json",
+      "sha256": "3b1534c68d6a26d5789450fb9b3b22ff3b63994e1d57bba2134c424a5cdea295"
+    },
+    {
+      "path": "quality/evals/fachanwalt-familienrecht.json",
+      "sha256": "888607b4771ad86b66c62116665fe9baba1c9043524f0fdd6844745ed02f499e"
+    },
+    {
+      "path": "quality/evals/fachanwalt-gewerblicher-rechtsschutz.json",
+      "sha256": "6deba651e0d6572d50401f30576e8223d44dfab54a9ed95d67e8e0299c822509"
+    },
+    {
+      "path": "quality/evals/fachanwalt-medizinrecht.json",
+      "sha256": "165aabc1e91a0677d89a00e5a06a354a1ab48b24591f6a2f8d2c56b6361a8cc8"
+    },
+    {
+      "path": "quality/evals/fachanwalt-miet-wohnungseigentumsrecht.json",
+      "sha256": "77ae50eccb6e3aace44b86e3d678bf860bdbcd0c5fca011d38e52da017e75926"
+    },
+    {
+      "path": "quality/evals/fachanwalt-migrationsrecht.json",
+      "sha256": "1c1d1ed079027e68d33db5774d9381e5c56270da0d397426ee4310833645c559"
+    },
+    {
+      "path": "quality/evals/fachanwalt-sozialrecht.json",
+      "sha256": "668ab60c40c565b8cee529cde5dc33741e8ba3a1a20480faa310f29dacc272f8"
+    },
+    {
+      "path": "quality/evals/fachanwalt-sportrecht.json",
+      "sha256": "1b6aba8eca9835365ccdc94bf2006f60ac68d2335216eb4925496376b0b1583a"
+    },
+    {
+      "path": "quality/evals/fachanwalt-strafrecht.json",
+      "sha256": "d052af1674c60eb9eb5e39320f80fc6db75a33c04d8debccbcda1be9ec40d29a"
+    },
+    {
+      "path": "quality/evals/fachanwalt-transport-speditionsrecht.json",
+      "sha256": "a31cc8a969458432d07ea561124987e0741f5bc8adbd67689492f64b08a5ce74"
+    },
+    {
+      "path": "quality/evals/fachanwalt-urheber-medienrecht.json",
+      "sha256": "89df2e0bcd933b9b591b0a72f954aab5340245696e03f858f8528c71f58cf67f"
+    },
+    {
+      "path": "quality/evals/fachanwalt-vergaberecht.json",
+      "sha256": "695a725f708bd2335a0942499c2df90baf014754620284cda23cb565f38a2f9c"
+    },
+    {
+      "path": "quality/evals/fachanwalt-verkehrsrecht.json",
+      "sha256": "c010deeaee909943087ee67275a6b854066c2d739c70f7d1932d3be1822ca032"
+    },
+    {
+      "path": "quality/evals/fachanwalt-versicherungsrecht.json",
+      "sha256": "e96a631eb9c51559d6a27e964de723801e2fc35e6748206a134babd5c4d35141"
+    },
+    {
+      "path": "quality/evals/fachanwalt-verwaltungsrecht.json",
+      "sha256": "655548a556c50c18f746c1ba8c8ba0da5da226227ad91e9ec6b6ba1911f37d55"
+    },
+    {
+      "path": "quality/evals/fahrgastrechte.json",
+      "sha256": "13cd4305c82bc29d65d9f943089cd94ad6773c5f10274c3616b54c4adf018cb1"
+    },
+    {
+      "path": "quality/evals/fashion-law-moderecht.json",
+      "sha256": "454056f431920918682abe46f4e307c91c98c6e49f31d799595c96ad8cc4d90d"
+    },
+    {
+      "path": "quality/evals/fluggastrechte.json",
+      "sha256": "793249f3961a07a0a7b2e0f1a97de16d4c84fea56f72af6125ed7248a2f5a4a3"
+    },
+    {
+      "path": "quality/evals/forschungszulage-antragstellung.json",
+      "sha256": "8f2d29f28313f62418da914fd5c80a1295cc3517c6eaeeb1d7aa63e607d2021d"
+    },
+    {
+      "path": "quality/evals/gesellschaftsrecht.json",
+      "sha256": "a91e1737a620b48d15931e64821e939d37d92e8a88c859626354ba494174cf29"
+    },
+    {
+      "path": "quality/evals/gesellschaftsrechtliche-treuepflicht.json",
+      "sha256": "96a5da0dae4379a655da397db6ffcdc92f3f7a671e41e191cf96beb8152e87bf"
+    },
+    {
+      "path": "quality/evals/goae-gebuehrenordnung-aerzte.json",
+      "sha256": "00309764afbd3d479405443ef81c5d033434c5c208e28d065de7d11443b65e29"
+    },
+    {
+      "path": "quality/evals/grundbuchamt-praxis.json",
+      "sha256": "2c9b3462e69ffd4ee6d70f7a0b8714e4c9e7e2f0ea6862b0853d19711e3faaad"
+    },
+    {
+      "path": "quality/evals/grundsteuerrecht.json",
+      "sha256": "be5670b1e1a0058a10a5b373b342a8b9cc433153131cba831179c6f78d48eff6"
+    },
+    {
+      "path": "quality/evals/handelsregister-praxis.json",
+      "sha256": "1d8e356119739290b2057fa8b9a45c133623611c8cc11be45d91961d7c8fac33"
+    },
+    {
+      "path": "quality/evals/handelsvertreterrecht.json",
+      "sha256": "8c8c489e5b7429472ec34a870bc5e6039a651a5e56e378cdb6c2e54640100d13"
+    },
+    {
+      "path": "quality/evals/haushaltsrecht-bho-bund-laender.json",
+      "sha256": "a8037e640a4f1d4f5d9c125c4f6c7ecd2489423007197e32695a7d8aa919a145"
+    },
+    {
+      "path": "quality/evals/hoai-leistungsphasen-praxis.json",
+      "sha256": "06f88b9a175c29cc7e381a1ccad0c6b2426615eede85bcb1c71822293991b67f"
+    },
+    {
+      "path": "quality/evals/hochschulrecht-laender.json",
+      "sha256": "d245fa680dd5fb47015079fb107d5e0c5ebb05a2bc6b28f2f870df20cfb99bed"
+    },
+    {
+      "path": "quality/evals/immobilienrechtspraxis.json",
+      "sha256": "74e844110791bc856de9b6d4b34b1c4138453d9eeb27cca60ea68f4573d9d096"
+    },
+    {
+      "path": "quality/evals/informationsfreiheit-presseauskunft.json",
+      "sha256": "3697114b5a1546a616c3cdbf6d53de28ce922ce864f22721ea5e342b0198a226"
+    },
+    {
+      "path": "quality/evals/insiderrecht-compliance.json",
+      "sha256": "d6153dd8c331f3f0a8cc518a178f0bd4d7ffea188bf3ab7ecad2ec33d3d85374"
+    },
+    {
+      "path": "quality/evals/insolvenzrecht.json",
+      "sha256": "234807792732eb210e7db930096c35078f69b8533430943030265798dd2b5003"
+    },
+    {
+      "path": "quality/evals/jura-in-einfacher-sprache.json",
+      "sha256": "c2e8bc9f241972502232097af044e74b25980d130091b186cd86550c4fd52183"
+    },
+    {
+      "path": "quality/evals/kanzlei-allgemein.json",
+      "sha256": "ddcaf6f30e8c18678e89d92c15fcf06b3bbc6cdf4a8092c4dd7b06d14c2b05f6"
+    },
+    {
+      "path": "quality/evals/kanzlei-mandant-lifecycle.json",
+      "sha256": "88c2fb33883b8879bfe6cb8306333d2108d652a94a2f61ee86b37885964f9ee4"
+    },
+    {
+      "path": "quality/evals/kartellrecht-marktabgrenzung-pruefung.json",
+      "sha256": "cf244084f06c042951be04d03ecc5032e7940a1e9a1020ade819f3c025facd8b"
+    },
+    {
+      "path": "quality/evals/kommunalrecht-laender.json",
+      "sha256": "3d8571ba3b893ae50918f652e92c22492f5018c4cea18b7a3fbb6e27a5611160"
+    },
+    {
+      "path": "quality/evals/krankenhausrecht.json",
+      "sha256": "a2c1c7128615469561c0647c6e34bf6ddab9e792f9f2f60c5a72fedbca3d6630"
+    },
+    {
+      "path": "quality/evals/krankenkassenrecht-krankenversicherung.json",
+      "sha256": "3aa580b7dea84088aad828228d9cd454475050e6f552993ee4898942686d1099"
+    },
+    {
+      "path": "quality/evals/kriegsdienstverweigerung-wehrdienst.json",
+      "sha256": "a094c528d51ec1ec632311dfdf97975b040a86b0fbec8bd6dd54f312c4c6df7e"
+    },
+    {
+      "path": "quality/evals/legistik-werkstatt.json",
+      "sha256": "810cc7f39c1af468b740cd2ed4a8e2aed7e4844643b3d65f16d099faaac0fd29"
+    },
+    {
+      "path": "quality/evals/lobbyregister-bundestag.json",
+      "sha256": "d7693f15e047dc47bd05a5f68ce2bd8bf077f34a7ddab390baafbb4d17e86daf"
+    },
+    {
+      "path": "quality/evals/luftrecht-flughafenrecht.json",
+      "sha256": "44bb1d55f44855c406919de9e7fd6ae398dc57ea7cdbb5f836b18bd7a83d8b58"
+    },
+    {
+      "path": "quality/evals/memorandums-ersteller.json",
+      "sha256": "dc88fa9cd60da594a9b610f1a1b1f963fce727b0fe0362108637c649acd8f3ac"
+    },
+    {
+      "path": "quality/evals/mietrecht.json",
+      "sha256": "f45daf07e675c136787ea76fb16e8a2ed2034971463b07ff8cbe3607a3b5eba7"
+    },
+    {
+      "path": "quality/evals/nachbarschaftsstreit-pruefer.json",
+      "sha256": "4d2ac263a49d6f77b25e4b875bbb922dcf696d8b7f0ff69700a83cf252e747bf"
+    },
+    {
+      "path": "quality/evals/normenkontrolle-bauleitplanung.json",
+      "sha256": "d4ba1f95b9d39bd33a176805ace66aceebf89ab638576174e757cff74eb3edc1"
+    },
+    {
+      "path": "quality/evals/normenkontrollrat-nkr.json",
+      "sha256": "d10f43989fd37dc99efb54e09281341a10aff5dd59d55efb24a65160ff055559"
+    },
+    {
+      "path": "quality/evals/notariat-alltag.json",
+      "sha256": "813a1fff8b956ff77a85c0ad4e642df8b520590b2edd39978898fc24251d6c0c"
+    },
+    {
+      "path": "quality/evals/oeffentliches-wirtschaftsrecht.json",
+      "sha256": "33d1b27454193dc53dd38c1536b1c0f8a52be9322e3f4f5edeb1df734bc83bda"
+    },
+    {
+      "path": "quality/evals/parteienrecht-parteiorganisation.json",
+      "sha256": "23d29a4cb115ed44e115d725d4bd858fcdf4bbe912b0a33a15c8b24b0e3edbf3"
+    },
+    {
+      "path": "quality/evals/patentrecherche.json",
+      "sha256": "f8f4bd5433307ccdf5346021ca818efe5872694256c34bcd176cffb43de2da26"
+    },
+    {
+      "path": "quality/evals/patentrecht.json",
+      "sha256": "c33a9cbd4fae56108a4890b0e2f427be99a2c74eb4fe2fdafe54f1e64800e324"
+    },
+    {
+      "path": "quality/evals/pflegerecht-sgb-xi.json",
+      "sha256": "2fa6d520111946b5370bc78f91b74d48a7e320d665d7683680bee086da62ab04"
+    },
+    {
+      "path": "quality/evals/phishing-vorfall-pruefer.json",
+      "sha256": "0e20bc9242e758302604cb4d609a71b32f0f57d1ada7a50e484c539fd29e77e8"
+    },
+    {
+      "path": "quality/evals/private-equity-praxis.json",
+      "sha256": "7ace7137033109fbd8e45579f4c25f167e5619091941c752f243905518ff08fb"
+    },
+    {
+      "path": "quality/evals/prozessrecht.json",
+      "sha256": "0c17808179bd2f20aedefec2cfe2b6d310b49df76aeca4f6947737cec045602f"
+    },
+    {
+      "path": "quality/evals/pruefungsrecht-hochschule.json",
+      "sha256": "8c58e2aa9bb3c596cc03be2d094ee8831f11043b85b93d904e5edeab3ee2cb35"
+    },
+    {
+      "path": "quality/evals/regulatorisches-recht.json",
+      "sha256": "d25aa980f032707a920b174a5a751638bd04e36c4489b222824d62d2bf82541a"
+    },
+    {
+      "path": "quality/evals/rentenpruefer.json",
+      "sha256": "b083ff4e4b742b67c16b1c2c0119dd8c2b1c912e97667094ef2d41f540f2db9f"
+    },
+    {
+      "path": "quality/evals/richter-amtsgericht-handelsregister.json",
+      "sha256": "c3a909a1e9373f036a034e9845ff83f1ec9e51f85e7e73e109dc81dc476cf0af"
+    },
+    {
+      "path": "quality/evals/richter-arbeitsgericht.json",
+      "sha256": "6c06784c3b69a8d2f24ae0fc77d88f61e88a67d5987b990a2c5b9880471a2a37"
+    },
+    {
+      "path": "quality/evals/richter-bverfg-verfassungsbeschwerden.json",
+      "sha256": "98af547ba0eb1bba4751632453f3d33bf94122abd46159d2830603ad57eeb18a"
+    },
+    {
+      "path": "quality/evals/richter-familiengericht.json",
+      "sha256": "3a558d946341eacd7a84b4fce2af84a2013de0320cb0b4cc172196b8c7c52f16"
+    },
+    {
+      "path": "quality/evals/richter-finanzgericht.json",
+      "sha256": "7bd6eaf4364d8aed212c8e0a3383c056e7691cdf48af5fe8c25a0f361fc47f0a"
+    },
+    {
+      "path": "quality/evals/richter-sozialgericht.json",
+      "sha256": "8d5de51ee9c0aa459d3cd45b5494dde6c12c8ca1f9d838fbf8060bfc1f347511"
+    },
+    {
+      "path": "quality/evals/richter-verwaltungsgericht.json",
+      "sha256": "a64381e4fa3beefda2756a0c5153a92bc7b0c79eef2be13d2735c9b621822b1b"
+    },
+    {
+      "path": "quality/evals/roemisch-katholisches-kirchenrecht.json",
+      "sha256": "e1b21783b6fc3b00447786fa12dcfa87e8a3992ea308d2276b0e3df9530776a5"
+    },
+    {
+      "path": "quality/evals/schadensregulierung.json",
+      "sha256": "f6e8375a9fdaf2597231513c4943b82ebe3dfca4aa6c3e1a329a2b1d839198a7"
+    },
+    {
+      "path": "quality/evals/schriftform-und-textform-bgb.json",
+      "sha256": "54a105ed1053f2a626df3bd6766e903fb0b6ed813c213532e07c7efc76fa6693"
+    },
+    {
+      "path": "quality/evals/schulrecht-laender.json",
+      "sha256": "3882745ccf067bda5ca977c6b64c2197cfbd3dba9d2e2bd9e491341b199708f2"
+    },
+    {
+      "path": "quality/evals/seerecht-schifffahrtsrecht.json",
+      "sha256": "ed182d1561464319ead9c3d970d0b1f50559aa15a6b399f75ed62fb43db64066"
+    },
+    {
+      "path": "quality/evals/selbstvertreter-sozialgericht.json",
+      "sha256": "b8fd62abc9270e5530e0305a9a03401d9e76d8c28f5e156cdf5946dfaa0b7947"
+    },
+    {
+      "path": "quality/evals/solo-selbststaendige-praxis.json",
+      "sha256": "4cc6e912a622b48834680a55027e658998b83012bc6d67f4adf054401497a2a8"
+    },
+    {
+      "path": "quality/evals/sozialrecht-fuer-laien.json",
+      "sha256": "2ba740c414963306745d36282c66eaabc494b1c005100eb14019c7f25bdb8a5e"
+    },
+    {
+      "path": "quality/evals/sozialversicherungspflicht-pruefer.json",
+      "sha256": "7025e9e997797bd1c68d22c79b966944c83cbcf2bce11803e209b628a2eb25c9"
+    },
+    {
+      "path": "quality/evals/sozialversicherungsstatus-pruefer.json",
+      "sha256": "2a7e0b677f6f15e22ed31b2fef0875605c8c10ba5d4591c2b90683408977a70a"
+    },
+    {
+      "path": "quality/evals/staatsanwaltschaft-amtsanwaltschaft.json",
+      "sha256": "a561f70b1f8f1658f3ae69228cc7c625bf9787e4f66e715cc77e24bfa5f6da3f"
+    },
+    {
+      "path": "quality/evals/staatsanwaltschaft-praxis-einstieg.json",
+      "sha256": "a7f682a0039dd7449e8534d3a8fab8456c9dd262b7d18a6a868dd8da73ae1e0f"
+    },
+    {
+      "path": "quality/evals/startup-gruender.json",
+      "sha256": "1c1ef3aeed18bf019ceadd82bf1d0bb3c6505733e05c4506b77375ea53877466"
+    },
+    {
+      "path": "quality/evals/startup-hr-personalabteilung-berlin.json",
+      "sha256": "70f545df402a86dcdcf60acd3d64113bb646d06bd75d70d351195e97a2eabf79"
+    },
+    {
+      "path": "quality/evals/status-navigator-step-plan.json",
+      "sha256": "33a7d5fa130613b43c14a97d68eb14e391aa2f792c5c695d341eaff2c3135672"
+    },
+    {
+      "path": "quality/evals/steuerrecht-anwalt-und-berater.json",
+      "sha256": "ae3c0ee6caecf49bd3ab4fba6833e331cd9b6d77231651195b6c18194a76729a"
+    },
+    {
+      "path": "quality/evals/strassennutzung-genehmigungen.json",
+      "sha256": "e9f62bd4d514708913fa715a7a8464bc4c62bdd0ae9d6f31bfea428cc8a19355"
+    },
+    {
+      "path": "quality/evals/strassenrecht-infrastruktur.json",
+      "sha256": "0db33825e975fb4d9392e6878d6bd2a04ae266f6458b8ad11d133043d3bc85a8"
+    },
+    {
+      "path": "quality/evals/strassenverkehrsrecht-stvo.json",
+      "sha256": "fff292c51bda1b2d9e6a5eb03f4c9cf973f1fc30c186f69d1f9ba52812d4c8d3"
+    },
+    {
+      "path": "quality/evals/telekommunikationsrecht.json",
+      "sha256": "d6b7de9a16687a97f9f150568487af1601cb02db357cd82ba124cb8da9c68582"
+    },
+    {
+      "path": "quality/evals/tierschutzrecht.json",
+      "sha256": "89626b414ffcbe072066830a9becbc3b9460f82845f3fcb49b4d73a97d00b5ae"
+    },
+    {
+      "path": "quality/evals/umweltrecht.json",
+      "sha256": "f6a4406b50a47f33690033118522ce2f5cdf805209769eb9949fc8de9366fc53"
+    },
+    {
+      "path": "quality/evals/umweltschutzverband-verbandsklage.json",
+      "sha256": "59873e18bdd33adaddad73689ed7ec2f6fa9f0750a3bb2dd0615c064d843d6f7"
+    },
+    {
+      "path": "quality/evals/urheberrecht-de-eu.json",
+      "sha256": "7427aef2197a4e2f66ff91bbdd4e1a32ea40018cebc0b06f901e634ac5fc332d"
+    },
+    {
+      "path": "quality/evals/verbraucherschutzrecht-pruefer.json",
+      "sha256": "6586a5bb1eff21b78d2ed7a740b54afb139d03efc6bd8afd6b87eeacd94f514d"
+    },
+    {
+      "path": "quality/evals/verbraucherschutzverband-durchsetzung.json",
+      "sha256": "d26de6ce2dee1172c108dfdae06fc92c774056ef4ea12a27b0c24ca313da36dd"
+    },
+    {
+      "path": "quality/evals/verfassungsrecht.json",
+      "sha256": "398905e069ae441a0aa0a889bac43fd214273a9b29afc4139cd129173b33586a"
+    },
+    {
+      "path": "quality/evals/vergesellschaftung-artikel-15.json",
+      "sha256": "46dc57d471c9a64a13f37c6835301e66230fa0f3539b270d49e729e7e3df8449"
+    },
+    {
+      "path": "quality/evals/verhaeltnismaessigkeitspruefer.json",
+      "sha256": "dd03a3cc100be72b9e306542dda27283d93e5518f5caf921f391d636cb2ee831"
+    },
+    {
+      "path": "quality/evals/verkehr-infrastrukturrecht.json",
+      "sha256": "63c1100ffe893f157c7ab605cb439b099cfa89aaaa3ed6014d5240126b0d680a"
+    },
+    {
+      "path": "quality/evals/versammlungsrecht.json",
+      "sha256": "93aa70675f9467b8ef140703d91df0fcc304ce0c97a6c3e1f031e7525ef11df5"
+    },
+    {
+      "path": "quality/evals/versicherungsrecht.json",
+      "sha256": "29e53e9ebad5a92eff8ea95f5f64cc9d886b7097e02e79afd74f50bbc340ee6a"
+    },
+    {
+      "path": "quality/evals/vertragserstellung.json",
+      "sha256": "5e30577211e41096dd492c65d95670673e01f31ad74f3c4545713f28db4f0e78"
+    },
+    {
+      "path": "quality/evals/vertragsrecht.json",
+      "sha256": "89861607d06e15fa2cb1eb84cfd0b2d8b39cb52bd890aefdc1be12f82cdf76fb"
+    },
+    {
+      "path": "quality/evals/wahlkampfrecht-praxis.json",
+      "sha256": "161963f0dc159622d89322648b6a04f89fd6bdb8172e1393644d49734d741390"
+    },
+    {
+      "path": "quality/evals/weg-hausverwaltung.json",
+      "sha256": "264ecf1103e92bc3b723651960336a44b98dca8c60e7f28e8e72b611b71f51e6"
+    },
+    {
+      "path": "quality/evals/weltraumrecht.json",
+      "sha256": "880743c0ce39f642956c251ed8bfe371cb402812588db930baf6bfd2fb6d9b5d"
+    },
+    {
+      "path": "quality/evals/word-legal-ai-plugin-and-skill-for-german-lawyers.json",
+      "sha256": "1d3d9ab5bb718e389d7ad65da7b0c34aee922f962e2efb67bdb8994f658b3436"
+    },
+    {
+      "path": "quality/evals/zugewinnausgleich.json",
+      "sha256": "9059d069f834ac62f511f27245f79b7223fa9ab310d06d04e99d21b8f442d142"
+    },
+    {
+      "path": "quality/evals/zwangsverwaltung-zvg.json",
+      "sha256": "e2ef2f9bcff5ff830bc76153282fe29d01e31bdb47d7173b461aec94b6545b36"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/README.md",
+      "sha256": "3e96a655d7a045ccd52cc32d7fd641451fe342759b74bbbf735ad3ffbfafd748"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/bestand.json",
+      "sha256": "0f73334fc7ffd51ede83f5b35f341c3069530d2b26142e660cfb2fc2df78d45b"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/datumsabgleich.json",
+      "sha256": "f248af647d4676397000fcdad1af4ba3e9b4e1a5920a8535e0935e4cffbef3ab"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/fachaenderungen.json",
+      "sha256": "7c46720939a88028b601be48fb61c27a6bb64750f52b67aaff8153d46109e2c7"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/frische-quellen.json",
+      "sha256": "d474b639e3aeae8ff8a479156240df040c89a290b7c0acc55931a7886d9fa616"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/konsistenz-ende.json",
+      "sha256": "c6f7673c25aec4433db5999ee47d0b2a163405e69aa23f90a9881aaaf7c8455f"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/konsistenz-start.json",
+      "sha256": "b78046c7d88240a6a98ded9a8937bd2eb2e6a92e3e7fcb1a7c091bfcaf34c4da"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/oeffentlich.json",
+      "sha256": "80cc72850d86723280e098bb1b07b6bfd6ded1f07fe2d59e3ab0f4d01de5487d"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/oeffentlich.md",
+      "sha256": "d1022d88334e6af276b5277e4954ad95ae164d257386ea30f6b7d15395068494"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+      "sha256": "d5bffc527642fecf18ca20e4e637c0c08ee97f650ae9b7048cd1aea553995a90"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/privat-sozial.md",
+      "sha256": "186d89076b49320217f73c52888b4158af494a9738cfe514d65d552fc712b582"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/prozess-digital.json",
+      "sha256": "375a8e74188769af6a066a41e4be93a32d304fb5149b769f5d1618351a5e6d3a"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/prozess-digital.md",
+      "sha256": "b7b36285ccb4a7e8502abe9df42d5760372e3f5d88dc9aed43b2f4a4a3773f6a"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/pruefungen.json",
+      "sha256": "8f3c65d3776f565dbed687659ca386070b7b8d3db77a202b1eb60f618360f69a"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+      "sha256": "40a75ab59967d973c1050484e02c7395d4dbe8ed90780d38bc6ed7832683cfbc"
+    },
+    {
+      "path": "quality/source-audits/2026-10-01-breit/wirtschaft.md",
+      "sha256": "26128f7eabee7ad3069679534fde30053027da8401b7b6198547d80043704b25"
+    },
+    {
+      "path": "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md",
+      "sha256": "d6606a5ee9b95cd529b2f4b0040e25bea2f07fd09b3c24250cd449ea52a31f99"
+    },
+    {
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-schnellstart.md",
+      "sha256": "0c73f2f650caa4898ea5f7207190ee7303d6a2e0b73f57b3b5951b9f119307b2"
+    },
+    {
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "sha256": "e93b3b55ae777154c7780922ea22e57cf3818a88839cb2aae95137b8645eddd0"
+    },
+    {
+      "path": "schriftform-und-textform-bgb/skills/sftf-doppelschriftform-aufhebung-spezial/SKILL.md",
+      "sha256": "e20538aad7916f85e1013db7530ee10b6df5821e3e548b567f114d9debc13930"
+    },
+    {
+      "path": "scripts/audit-rechtsprechungs-konsistenz.py",
+      "sha256": "729736463ba94c9a4ef2543ee87c80e3ffbce13863e80281f4b569ead3bef6fe"
+    },
+    {
+      "path": "startup-gruender/startup-gruender-schnellstart.md",
+      "sha256": "823cf3078cf74aecb160c2b06ecd24436a95c2d394da8ef2102549365ff498a2"
+    },
+    {
+      "path": "startup-gruender/startup-gruender-schnellstart.txt",
+      "sha256": "823cf3078cf74aecb160c2b06ecd24436a95c2d394da8ef2102549365ff498a2"
+    },
+    {
+      "path": "steuerrecht-anwalt-und-berater/skills/aussenpruefung-strategien/SKILL.md",
+      "sha256": "cb5078c56ce69d700a6c471a7a3cae5ccd9ff3a678300be7e04a511f45159537"
+    },
+    {
+      "path": "telekommunikationsrecht/skills/mindestvertragslaufzeit-tk-umzug/SKILL.md",
+      "sha256": "31888e903369f27d82a2e1670c9d45517eb3f8bd5cb79e74659fc51222e07064"
+    },
+    {
+      "path": "telekommunikationsrecht/telekommunikationsrecht-schnellstart.md",
+      "sha256": "fffd931f53a7136833782c0fc33c8485b5b92a352b7ad111a38e0eb2f7a9c7a1"
+    },
+    {
+      "path": "telekommunikationsrecht/telekommunikationsrecht-werkstatt.md",
+      "sha256": "99446873084de8cd55998dff598415c351fb8d9829d6960a3e123704f3383fc9"
+    },
+    {
+      "path": "testakten/megaprompts/designrecht-geschmacksmusterrecht.md",
+      "sha256": "fbb7480df46d67670d09e1eeab93867954147847855725911b8295ee7e86297e"
+    },
+    {
+      "path": "testakten/megaprompts/fachanwalt-erbrecht.md",
+      "sha256": "2d367a3de6ca614353fe72c93d147f38e83d2228af08644ed29cc97b5cca02a5"
+    },
+    {
+      "path": "testakten/megaprompts/fluggastrechte.md",
+      "sha256": "4ad74671de87c70d4ca4016bfa288f9e1bea857e24e5ede373a1331a2bc75123"
+    },
+    {
+      "path": "testakten/megaprompts/handelsregister-praxis.md",
+      "sha256": "fb42d1a4a11491a0356a51c6fbb62133fbd5db4aa0d83218fa1e9717578ae962"
+    },
+    {
+      "path": "testakten/megaprompts/insiderrecht-compliance.md",
+      "sha256": "0bf7e621a2fa239a529c3c9133eb98cfa65ce39dbd4411206297fb739cbdc9e8"
+    },
+    {
+      "path": "testakten/megaprompts/insolvenzrecht.md",
+      "sha256": "fceb21b9c530a4f6002c67bdf0d3f2240fbcfb59e46bfaed4361c71b3b97a898"
+    },
+    {
+      "path": "testakten/megaprompts/kanzlei-allgemein.md",
+      "sha256": "98ee41c175feae5d41cb4ede588731ae8bf3d995d8136e7f564e5cad7f15e065"
+    },
+    {
+      "path": "testakten/megaprompts/patentrecht.md",
+      "sha256": "16d892a42effb0c337f515b7f42b0cd2002c52693d6f66426d40569dd5a48833"
+    },
+    {
+      "path": "testakten/megaprompts/prozessrecht.md",
+      "sha256": "ba8e466409a33da7538c40cbdcb617b5b97c4f4183a7c8e4bc750be0ee496159"
+    },
+    {
+      "path": "testakten/megaprompts/richter-finanzgericht.md",
+      "sha256": "b1776ac4eaa79872eb0c111755557c4b9d72bf1cf50ced174c5e0c3246ec06b8"
+    },
+    {
+      "path": "testakten/megaprompts/vertragserstellung.md",
+      "sha256": "a086a9b308bd19da0f7940edb86de4b6b3aafb2493a364522dc850eac40cbd99"
+    },
+    {
+      "path": "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md",
+      "sha256": "cb9a565bae65b83773b4d0eee0edd0974dc825b2b852b3369be50357a017e7a6"
+    },
+    {
+      "path": "tierschutzrecht/tierschutzrecht-schnellstart.md",
+      "sha256": "63a16a2acb71c8431da88ca3d061ba153f6e0846c14ce3f4b846c5582ccf10ca"
+    },
+    {
+      "path": "tierschutzrecht/tierschutzrecht-werkstatt.md",
+      "sha256": "2f5c8f18bb1cd402595f359493a7193d0141b3afcc639018554251fd88abfdf8"
+    },
+    {
+      "path": "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md",
+      "sha256": "b0c55b360e51392d53218e4c37686ec9fef269a0d273d84e73ea03850b5b42b0"
+    },
+    {
+      "path": "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
+      "sha256": "03512869a01077641c73650c1a77bcf63ad921823283833e159ad3978926ee4f"
+    },
+    {
+      "path": "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+      "sha256": "9a95f188efc53ddac74028e831bf5b0bd3c30ac089d033c09d2a4152b02b1ff6"
+    },
+    {
+      "path": "urheberrecht-de-eu/skills/architektur-angewandte-kunst/SKILL.md",
+      "sha256": "f463362d5e03d66aed229af7ea487fe051af724ec3cc69d38a830a2aff59c340"
+    },
+    {
+      "path": "urheberrecht-de-eu/skills/sampling-pastiche-remix/SKILL.md",
+      "sha256": "7bff4ee642c42366e0e11bc070dbe06a0a764a11d1e5c3a67fe76f2bf7d82295"
+    },
+    {
+      "path": "urheberrecht-de-eu/urheberrecht-de-eu-schnellstart.md",
+      "sha256": "8fb3e13068eb60672b941b2e1284072188da5b25f27fb1c39260cacde9297ed3"
+    },
+    {
+      "path": "urheberrecht-de-eu/urheberrecht-de-eu-werkstatt.md",
+      "sha256": "6e506530964559bbb1568f3b7a57ce519f87feb55404dac722b0812c971eeb3c"
+    },
+    {
+      "path": "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-abo-kuendigung-button/SKILL.md",
+      "sha256": "e9bb37c050c348d82645e95e9695313610a704bbc3669b28c6758912f16ff019"
+    },
+    {
+      "path": "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+      "sha256": "4602c4b74bb2cb4d28301bdd2b8cb16e818fb77230f7896f093b01fbd8692b77"
+    },
+    {
+      "path": "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md",
+      "sha256": "8a3ab1c76f26bcdf553ccc33a6e2ed5f1a09e6c50b5369a09bc8590c314bc188"
+    },
+    {
+      "path": "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-schnellstart.md",
+      "sha256": "5b199d101b856c73399df2cb5d5c0902863f6ec787d928e4211c88830d714df4"
+    },
+    {
+      "path": "verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md",
+      "sha256": "7bd8a6f707321ca4902c8cc6427159bd5a51120743282db8829f5fd3cbb33b22"
+    },
+    {
+      "path": "verfassungsrecht/verfassungsrecht-werkstatt.md",
+      "sha256": "a9bbb87cb868c64e3dd8ab82526389268fd561016b7105d87349a53fa6674d02"
+    },
+    {
+      "path": "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-schnellstart.md",
+      "sha256": "5ae04927939f526cc5aec4ba5887b226588810378fa4bd1106265b34cd1a214f"
+    },
+    {
+      "path": "verkehr-infrastrukturrecht/verkehr-infrastrukturrecht-werkstatt.md",
+      "sha256": "a8de21b1822de0b36e1070c65e15331aebe855f13ce1a357fdde2ca55b9ba715"
+    },
+    {
+      "path": "vertragserstellung/references/fachquellen.md",
+      "sha256": "1a1bb95ea3d82fb9575244bfb67f192a510fca087c1d3d5767227efbd70ae87a"
+    },
+    {
+      "path": "vertragserstellung/skills/haftung-und-maengelrechte-abstimmen/SKILL.md",
+      "sha256": "e733788318dd9eb8f04bccb1e3b88b60b8f6fd301cd617b48a87d3a22d07d8d7"
+    },
+    {
+      "path": "vertragserstellung/skills/leistung-mitwirkung-und-abnahme-ausformulieren/SKILL.md",
+      "sha256": "1062e5e044b24f2377ce78d07fde2f0ad2edebf51abcd1fd8ad199ca04e8f592"
+    },
+    {
+      "path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
+      "sha256": "f7f2a4190e453ad19883b1d32876c99651519b114ff1aacb1ed46096e779081e"
+    },
+    {
+      "path": "vertragserstellung/skills/vertragsrangfolge-und-agb-bereinigen/SKILL.md",
+      "sha256": "217512e39e0fb17dfb0654f48c8b32a024450c38335cc444015160d46eb61f99"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-hauptproblem.md",
+      "sha256": "118079f3ff8271e16142bb2794865bbefaa83b487e6779e56b3dd97bbbd5ef64"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-schnellstart.md",
+      "sha256": "4011e29943ab0a7130b15b8b8f862bdfa9f9bc229240ad6958b7b9adedd15bbd"
+    },
+    {
+      "path": "vertragserstellung/vertragserstellung-werkstatt.md",
+      "sha256": "43dbc9158b1a9a5e4faaedd81e732a9d8fa75c226d2cf0b10db3acac93fe11dc"
+    },
+    {
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "sha256": "87c0638dd1e79b2bc7ebb7d0244fd40d8acafa956953adf10a293a390130b27e"
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md",
+      "sha256": "b9912ba55ee9d79059d1771df2d92a9182a757c1cc9470d4b44b7e1df759d10b"
+    },
+    {
+      "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-schnellstart.md",
+      "sha256": "166e18e54bedc0caf86aeb39f1477bf8383dd16af768b629add9d97063b57a8c"
+    },
+    {
+      "path": "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md",
+      "sha256": "19ad8cbc49123f0d1421a9269de621df61232a340897adb8641878581293e4d0"
+    }
+  ]
+}

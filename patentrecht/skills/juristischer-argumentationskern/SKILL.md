@@ -62,6 +62,8 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
+Für Anspruchsauslegung und Rechercheauswahl [BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1) verwenden: Bestimme anhand Anspruch und Beschreibung, ob eine Zweckangabe nur Eignung beschreibt oder einen auszuführenden Verfahrensschritt begrenzt. Die bloße Etikettierung als Zweckangabe entscheidet das nicht. Begründe außerdem mit Umständen am Prioritätstag, weshalb der Fachmann gerade diese Entgegenhaltung als Ausgangspunkt und gegebenenfalls ein fremdes Fachgebiet heranziehen würde. Beim Klebstoffauftrag konnten Lösungen aus der Schweißsteuerung wegen vergleichbarer optischer Führungsprobleme Anlass bieten. Das ist weder ein allgemeines Verbot gebietsübergreifender Recherche noch ein universelles Gebot tatsächlicher Zweckverwendung.
+
 5.1. BGH, Urteil vom 12.03.2002 - X ZR 168/00: Schneidmesser I bestimmt Anspruchsauslegung und die Grenzen äquivalenter Verletzung bei Zahlen- und Maßangaben.
 5.2. EuGH, Urteil vom 16.07.2015 - C-170/13: Huawei gegen ZTE ordnet die wechselseitigen Schritte vor einer Unterlassungsklage aus einem standardessenziellen Patent mit FRAND-Zusage.
 

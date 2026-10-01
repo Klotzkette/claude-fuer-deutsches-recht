@@ -636,19 +636,22 @@
         "citation": "BVerfG, Urteil vom 06.12.2016, 1 BvR 2821/11 u.a., BVerfGE 143, 246, Rn. 246–248",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2016/12/rs20161206_1bvr282111.html",
         "application": "Eigentumszuordnung und Güterbeschaffung zur Abgrenzung des Artikels 14 Absatz 3.",
-        "limit": "Atomausstieg, keine unmittelbare Entscheidung über Artikel-15-Vergesellschaftung."
+        "limit": "Atomausstieg, keine unmittelbare Entscheidung über Artikel-15-Vergesellschaftung.",
+        "checked_on": "2026-09-28"
       },
       {
         "citation": "BVerfG, Beschluss vom 15.10.1997, 2 BvN 1/95, BVerfGE 96, 345, Rn. 62–69",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1997/10/ns19971015_2bvn000195.html",
         "application": "Konkrete Normkollision und Fortgeltung vereinbarer Landesgrundrechte.",
-        "limit": "Keine Entscheidung über Hessenbogen oder Artikel 15; technische Direktabrufgrenze im Quellenvermerk dokumentiert."
+        "limit": "Keine Entscheidung über Hessenbogen oder Artikel 15; technische Direktabrufgrenze im Quellenvermerk dokumentiert.",
+        "checked_on": "2026-09-28"
       },
       {
         "citation": "EuGH, Urteil vom 22.10.2013, C-105/12 bis C-107/12, Essent, ECLI:EU:C:2013:677, Rn. 29–38 und 66–68",
         "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=celex%3A62012CJ0105",
         "application": "Öffentliche Netzträgerschaft unterliegt weiterhin Grundfreiheiten und konkreter Rechtfertigung.",
-        "limit": "Amtliche Leitsätze und indexierte Volltextpassagen; kein deutsches Vergesellschaftungsgesetz entschieden."
+        "limit": "Amtliche Leitsätze und indexierte Volltextpassagen; kein deutsches Vergesellschaftungsgesetz entschieden.",
+        "checked_on": "2026-09-28"
       }
     ],
     "remaining_limits": [
@@ -656,7 +659,21 @@
       "Historische Titelkette, Konzessionsverträge und Bewertungsgutachten fehlen bewusst in der Arbeitsakte; keine fertige materielle Musterlösung ausgeliefert.",
       "Zentrale Aggregate, ZIPs, globale Promptprofile und Veröffentlichung werden separat integriert.",
       "Bericht 2023 und Sondervoten redaktionell ausgewertet; neue Evaluationsfälle sind nicht als Live-Modelllauf ausgeführt."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "vergesellschaftung-artikel-15/references/vergesellschaftung-quellen.md",
+        "vergesellschaftung-artikel-15/skills/energienetz-und-unionsrecht-abgleichen/SKILL.md",
+        "vergesellschaftung-artikel-15/skills/landeskompetenz-und-hessenrecht-pruefen/SKILL.md",
+        "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-schnellstart.md",
+        "vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md"
+      ],
+      "result": "Atomausstieg bleibt Abgrenzungsfall zu Artikel 14; Landesgrundrechtskollision und Essent sind keine unmittelbaren Artikel-15-Entscheidungen. Bisherige Grenzen des direkten Quellenzugriffs bleiben ausdrücklich bestehen.",
+      "search_2026": "Exakte amtliche Suche nach neuer Artikel-15-Vergesellschaftungsentscheidung 2026 ohne einschlägigen Treffer. Keine unmittelbare BVerfG-Billigung oder Verwerfung erfunden.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-30",

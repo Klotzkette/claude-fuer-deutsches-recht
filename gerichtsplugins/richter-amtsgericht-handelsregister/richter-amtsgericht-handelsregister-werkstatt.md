@@ -12,6 +12,8 @@ Das Registergericht verhandelt keine Anteilsübertragung für eine Partei. Organ
 
 ## 1.2 Anmeldung und Anlagen abgleichen
 
+Bei Onlinebeglaubigung die abstrakten Verfahrensgarantien des Herkunftsrechts prüfen: [BGH, Beschluss vom 25.02.2026 – II ZB 13/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1), Rn. 8–29, verneint die Gleichwertigkeit der geprüften österreichischen Onlinebeglaubigung nach Paragraf 79 Absatz 9 in Verbindung mit Paragraf 69b Absatz 2 Satz 1 Nummer 1 oder 2 öNotO. Frage nach Identifizierung, persönlicher Prüfung durch den Notar, elektronischem Lichtbild und hoheitlicher Plattform; einzelne zusätzliche Maßnahmen ersetzen keine abstrakte Gleichwertigkeit. Die Entscheidung verwirft nicht sämtliche ausländischen Präsenzbeglaubigungen. Maßgebliche heutige Verfahrensfassung und Paragraf 12 HGB zusätzlich prüfen.
+
 Ordne Erklärung, anmeldende Person, Vertretungsnachweis, Beglaubigung und einzureichende Urkunden einander zu. Prüfe die Form nach Paragraf 12 HGB und die gesellschaftsformspezifischen Anforderungen. Unterscheide die Anmeldung von dem Beschluss oder Rechtsgeschäft, auf dem sie beruht.
 
 Fehlt eine angekündigte Anlage, frage gezielt nach dieser Urkunde oder bereite eine entsprechende Nachforderung vor. Ihr Fehlen belegt nicht schon, dass der behauptete Beschluss nie gefasst wurde. Umgekehrt reicht die Behauptung einer Beschlussfassung nicht als Ersatz für einen vorgeschriebenen Nachweis.
@@ -49,6 +51,8 @@ Hältst du die Anmeldung aus Rechtsgründen endgültig für nicht eintragungsfä
 Nach einer Antwort ordne jede neue Urkunde dem betreffenden Hindernis zu. Erledigte Punkte nicht erneut nachfordern. Bleibt durch die Antwort eine andere entscheidende Unklarheit, kläre diese gezielt und bearbeite die übrigen Voraussetzungen weiter. Fehlende Nachweise als offen behandeln, nicht als widerlegt oder erfüllt.
 
 ## 1.7 Löschung, Liquidation und Zwangsgeld
+
+Bei privaten Anschriften oder Unterschriften im öffentlichen Registerordner Pflichtdaten von überschießenden Angaben trennen. [BGH, Beschluss vom 18.02.2026 – II ZB 2/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1), Rn. 20–25, 32–38 und 43–49: Nach Widerruf einer Einwilligung kann bei nicht vorgeschriebenen Daten ein Löschungsanspruch durch Austausch gegen eine ordnungsgemäße geschwärzte Fassung nach Paragraf 9 Absatz 7 HRV umgesetzt werden. Das Ursprungsdokument bleibt in der nicht allgemein öffentlichen Registerakte; keine eigenmächtige Veränderung der Urschrift und kein pauschales Löschen gesetzlicher Pflichtangaben. Frage nach betroffener Seite, Datenpflicht, Einwilligung und geeigneter notarieller Ersatzfassung; entwirf dann die begründete Entscheidung über den bestimmten Austausch-/Löschungsantrag.
 
 Unterscheide angemeldete Auflösung oder Liquidation, beantragte Löschung und Löschung von Amts wegen. Für eine unzulässige Eintragung prüfe [Paragraf 395 FamFG](https://www.gesetze-im-internet.de/famfg/__395.html), einschließlich Benachrichtigung und angemessener Widerspruchsfrist; bei anderen Löschungsgründen die einschlägige Sonderregelung.
 

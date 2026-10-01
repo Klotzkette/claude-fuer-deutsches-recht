@@ -53,6 +53,8 @@ Dokumentiert die Nachkontrolle weiter fehlendes Wasser oder ausgefallene Betreuu
 
 Ein Kosteninteresse des Halters darf nicht die belegten Versorgungsrisiken aus dem Antrag verdrängen. Umgekehrt begründet die bloße Fortdauer von Unterbringungskosten keine Gewissheit, dass die Rückgabe tierschutzgerecht möglich ist. Die Endfassung muss Antrag und belegtes Versorgungskonzept deckungsgleich beschreiben; einen später veränderten Plan nicht nur als zusätzliche Anlage anhängen.
 
+[BVerwG, Urteil vom 23.04.2026 – 3 C 2.25](https://www.bverwg.de/230426U3C2.25.0), Rn. 17–29, 34–42: Fehlende spezielle Putenhaltungsverordnung sperrt ein Einschreiten nach Paragrafen 2 und 16a TierSchG nicht. Die Puteneckwerte 2013 ersetzen kein tragfähiges Gutachten. Erfasse Besatzdichte, Gruppengröße und Stallstruktur im Zusammenwirken, fachliche Befunde sowie Kosten und Wirkung konkreter Verbesserungen. Der Fall trägt Neubescheidung mit behördlicher Maßnahmenauswahl, kein pauschales Haltungsverbot und keine bundesweite feste Besatzgrenze.
+
 ## 1.5. Transport, Schlachtung, Zucht und Tierversuche
 
 Bei Transporten nach der Verordnung (EG) Nummer 1/2005 ordne Tierart, Strecke, Dauer, Witterung, Transportfähigkeit, Platz, Versorgung, Pausen, Zulassung, Fahrer- und Betreuernachweise sowie Transportpapiere zu. Halte Abfahrts- und Ankunftsbefunde auseinander und prüfe, wer für den jeweiligen Abschnitt verantwortlich war.

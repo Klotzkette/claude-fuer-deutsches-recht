@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-urheber-medienrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
@@ -47,29 +47,38 @@
       "url": "https://www.gesetze-im-internet.de/urhg/__31.html",
       "supports": "Erneuter Normabruf zu begrenzten Nutzungsrechten und Vertragszweck; Medien, Nutzer, Bearbeitung und Weitergabe konkret regeln.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Nachträgliche Vergleichsgebühr wird nicht ungeprüft zum üblichen Marktpreis der rechtzeitigen Lizenz. Workflow-Ergänzung einzeln geprüft: Vergleichsbetrag enthält Anwaltskosten oder Vertrag erlaubt Social Media -> Vergleichspreis beziehungsweise ungedeckten Nutzungsumfang und Zahlungsbrief ändern.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
       "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
       "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "9f8a4d981b53942a241bbc431f2451d28f8ac426b3bdfd393c714d33d2a145cb"
+    "sha256": "17d30d2c32eb7d6e91394a85f8a03de1592fee814783110a91aff074bfe47ec9",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Foto-, Presse-, Lizenz- und Datenbankzweige bleiben erhalten; Nachlizenzierung bestimmt die Belegauswahl für die Lizenzanalogie. Workflow-Ergänzung einzeln geprüft: Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
       "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
       "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
-      "Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen."
+      "Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "aa7a9f15958f3d6295088071b8fa7f5a02474d6287f156921bb579a07ae14911"
+    "sha256": "e8483cbed6136dcf691364deee311959119c1d13678a9759c115815ad66ccfac",
+    "reviewed_on": "2026-10-01"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -140,7 +149,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-schnellstart.md",
       "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
@@ -161,6 +170,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR__93-19.pdf?__blob=publicationFile&v=1",
         "application": "Nach Verletzung vereinbarte Zahlungen regelmäßig nicht ohne Bereinigung als Indikator für den Preis einer zuvor eingeräumten Lizenz verwenden.",
         "limit": "Kein kategorisches Verbot sämtlicher nachträglicher Vereinbarungen und keine verbindliche Pauschaltariftabelle; Leitsatz amtlich indexiert, Volltext gesperrt."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
       }
     ],
     "remaining_limits": [

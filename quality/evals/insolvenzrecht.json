@@ -57,6 +57,16 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-30",
       "supports": "BGH, Urteil vom 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2025/IX_ZR__18-25.pdf?__blob=publicationFile&v=1), Rn. 24–32: Tatsächlich verfügbare Drittmittel zählen auch ohne einklagbaren Anspruch gegen den Geldgeber. Frage nach Kontoauszug, Zahlweg, Betrag und Zeitpunkt; eine bloße Hoffnung genügt nicht. Über längere Zeit bis zur Eröffnung unbezahlte erhebliche Schulden im Gesamtbild würdigen, einschließlich tatsächlicher Zahlungen von Angehörigen oder verbundenen Unternehmen. Ein außenstehender Prozessgegner muss keine ihm unbekannten Schuldnerfinanzen rekonstruieren; vorgelegte Urkunden werden nicht zu seiner eigenen Wahrnehmung. Das Urteil verweist insoweit zurück und stellt Zahlungsunfähigkeit nicht abschließend fest."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze1,4–6: Objektive Antragspflicht und subjektive Strafvoraussetzungen trennen; Fahrlässigkeit inAbsatz5 ausdrücklich erfasst."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__270.html",
+      "checked_on": "2026-10-01",
+      "supports": "Absätze1–2: Eigenverwaltung durch gerichtliche Anordnung; keine pauschale Opferung dieser Option bei rechtzeitigem Eröffnungsantrag."
     }
   ],
   "mini_review": {
@@ -208,5 +218,18 @@
     "continuation": "Neue konkrete Stundung -> nur erfasste Forderungen und betroffene Fälligkeitstage in Status, Dreiwochenbrücke und Organvermerk ändern; späterer Zahlungseingang bleibt von damaliger Prognose getrennt.",
     "enrichment": "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "insolvenzrecht/skills/antragspflicht-15a-17-19/SKILL.md",
+      "insolvenzrecht/skills/antragspflicht-15a-inso/SKILL.md",
+      "insolvenzrecht/skills/juristischer-argumentationskern/SKILL.md",
+      "insolvenzrecht/skills/liquiditaetsvorschau-insolvenzrechtlich/SKILL.md",
+      "insolvenzrecht/skills/zahlungsunfaehigkeit-pruefung-17-inso/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

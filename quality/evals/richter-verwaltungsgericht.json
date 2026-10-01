@@ -131,19 +131,22 @@
         "citation": "BVerwG, Beschluss vom 14.04.2025, 10 VR 3.25",
         "url": "https://www.bverwg.de/de/pm/2025/31",
         "application": "Amtlich mitveröffentlichte Entscheidungsgründe Rn. 9 bis 18: Eilgrund trotz fehlenden Auskunftsanspruchs; zeitkritische Informationen und entgegenstehende Schutzinteressen getrennt prüfen.",
-        "limit": "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe."
+        "limit": "Entscheidende Gründe in amtlicher Veröffentlichung gelesen, nicht nur Pressezusammenfassung. Presse/BND-Fall, kein allgemeiner Anspruch auf Akteneinsicht und keine ungeprüfte Übertragung spezifischer Geheimhaltungsgründe.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BVerwG, Beschluss vom 14.04.2025 – 10 VR 3.25, Randnummern 9–18",
         "url": "https://www.bverwg.de/de/140425B10VR3.25.0",
         "application": "Vorhandenen Anker im direkten amtlichen Entscheidungstext nachgelesen: Dringlichkeit und Anspruch getrennt; Pressevorwegnahme nicht pauschal verbieten.",
-        "limit": "Materielles Presserecht und BND-Schutzzwecke nicht auf jeden Einsichtsanspruch übertragen."
+        "limit": "Materielles Presserecht und BND-Schutzzwecke nicht auf jeden Einsichtsanspruch übertragen.",
+        "checked_on": "2026-09-30"
       },
       {
         "citation": "BVerwG, Beschluss vom 27.05.2026 – 2 VR 5.26, Randnummern 12–21",
         "url": "https://www.bverwg.de/de/270526B2VR5.26.0",
         "application": "Sachlicher Umsetzungsgrund ersetzt keine Abwägung für die Vorverlegung; zeitlich begrenzten Unterlassungstenor prüfen.",
-        "limit": "BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist."
+        "limit": "BND-Sonderfall, Verwaltungsaktqualität offen; kein Wunschdienstpostenanspruch und keine allgemeine Monatsfrist.",
+        "checked_on": "2026-09-30"
       }
     ],
     "remaining_limits": [
@@ -152,7 +155,19 @@
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Paragraf 123 erneut amtlich gelesen; vorhandene Begrenzung des presserechtlichen BND-Falls bewahrt, keine neue Länderrechtsprüfung behauptet. Desk review; kein Live-Client-Test.",
       "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-schnellstart.md",
+        "gerichtsplugins/richter-verwaltungsgericht/richter-verwaltungsgericht-werkstatt.md",
+        "gerichtsplugins/richter-verwaltungsgericht/skills/06-eilrechtsschutz-paragraf-123/SKILL.md"
+      ],
+      "result": "Presserechtliche Dringlichkeit und Anspruch bleiben getrennt. 2 VR 5.26 begründet zeitlich beschränkte Prüfung der Vorverlegung, keinen Wunschdienstposten und keine allgemeine Monatsfrist. Vorprüfung 30.09.2026 übernommen.",
+      "search_2026": "10 VR 6.25 vom 23.01.2026 als neuer Presserechtsfund gesehen (indexierte Rn. 1–8), nicht vollständig neu geprüft. Bestehender 2 VR 5.26 aus Vorprüfung 30.09.2026 übernommen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

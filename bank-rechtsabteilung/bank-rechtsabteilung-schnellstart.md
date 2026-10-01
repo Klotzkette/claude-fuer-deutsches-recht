@@ -18,7 +18,9 @@ Bestimme Institutstyp, Produkt, Kundengruppe, verantwortlichen Fachbereich und k
 
 3.4. Fehlen Freigabeanzeige oder Transaktionsprotokoll, fordere genau diese Daten vom Zahlungsverkehrs- oder IT-Bereich an. Nach Eingang Autorisierung und Haftung erneut prüfen und die bestellte Kundenantwort anpassen. Kundenvortrag nicht allein durch Nachreichung zum Beweis erklären. Kundenantwort, interne Entscheidung und Beweisanforderung auseinanderhalten. Entscheidung enthält Betrag, Rechtsgrund, offene Tatsachen, zuständigen Fachbereich und Termin. Nur ausgeführte Sperren, Rückrufe oder Erstattungen als erfolgt beschreiben.
 
-BGH, Urteil vom 26.01.2016, XI ZR 91/14, Randnummern 18, 19 und 68 bis 75 ([Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1)): Bei bloßem TAN-Erfolgslog weder Zustimmung noch grobe Fahrlässigkeit unterstellen. Für einen Anscheinsbeweis der Autorisierung müssen Sicherheit und fehlerfreie Anwendung des konkreten Verfahrens feststehen; grobe Fahrlässigkeit folgt nicht aus der Aufzeichnung. Fordere den Freigabeinhalt und Störungsnachweise an. Die Entscheidung zum früheren Recht ersetzt nicht die heutige Prüfung von Paragraf 675v Absätze 4 und 5 BGB oder den Nachweis einer tatsächlich erteilten Zustimmung.
+BGH, 26.01.2016 – XI ZR 91/14, Rn. 18–19, 68–75: TAN-Erfolgslogs beweisen weder Zustimmung noch grobe Fahrlässigkeit. Für einen Anscheinsbeweis Sicherheit und fehlerfreie Anwendung belegen; Freigabeinhalt und Störungen anfordern. Das Urteil zum früheren Recht ersetzt nicht Paragraf 675v Absätze 4 und 5 BGB.
+
+[BGH, 03.03.2026 – XI ZR 20/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1), Rn. 16–35: Beim manuellen chipTAN belegt ein fehlender Empfängername am Generator allein keine fehlende starke Authentifizierung. IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe klären; allgemeine Namenspflicht und weitere Verknüpfungsanforderungen bleiben teils offen. Kein pauschaler Nachweis grober Fahrlässigkeit.
 
 ## 4. Andere Bankgeschäfte
 

@@ -12,6 +12,10 @@ Ordne jedem Tatbestandsmerkmal die belastende und entlastende Tatsache mit Akten
 
 Vor Eingriffen Anfangsverdacht nach Paragraf 152 Absatz 2 StPO und Belastung wie Entlastung nach Paragraf 160 Absatz 2 prüfen. Bei Durchsuchungsanträgen nach Paragrafen 102 und 105 StPO verlangt BVerfG, Beschluss vom 19.04.2023 - 2 BvR 2180/20, Randnummern 25 bis 29 ([amtlicher Volltext](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html)), konkrete vorherige Verdachtstatsachen. Die Maßnahme darf nicht erst den Anfangsverdacht beschaffen. Tat, Zeitraum und Beweisziel benennen; ohne Tatsachengrundlage eine zulässige gezielte Klärung vorbereiten, keinen pauschalen Suchantrag. Keine automatische Unverwertbarkeit oder Übernahme der historischen Geldwäsche-Vortatenbegrenzung in heutiges Recht ableiten.
 
+[BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html): Für allein genutzte Zimmer Nichtverdächtiger konkrete Auffindeindizien nach Paragraf 103 StPO verlangen. Adresse, gemeinsamer Briefkasten und möglicher Zutritt genügen nicht. Tatsächliche Mitnutzung und Raumzuordnung klären; Paragraf 102 StPO erfasst wirklich mitgenutzte Räume. Kein pauschales Durchsuchungs- oder Verwertungsverbot.
+
+[BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260114_1bvr140925.html): Ein fehlender ausdrücklicher Tatzeitraum macht den Beschluss nicht stets unwirksam; Gesamtschau und konkreten Ermittlungsstand prüfen. Umgrenzung und Verhältnismäßigkeit getrennt begründen. Eigene Rechte und Rechtsbehelfe von Gesellschaft und Geschäftsführung auseinanderhalten.
+
 ## 1.2. Abschlussreife und Abschlussart
 
 Paragraf 170 StPO unterscheidet Anklageerhebung bei genügendem Anlass und Einstellung anderenfalls. Die erforderliche Beweisprognose muss aus dem Ermittlungsergebnis folgen, nicht aus dem Wunsch nach schneller Erledigung. Quelle: https://www.gesetze-im-internet.de/stpo/__170.html

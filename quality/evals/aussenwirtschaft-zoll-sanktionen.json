@@ -122,13 +122,25 @@
         "citation": "EuGH, Urteil vom 21.12.2011, Az. C-72/11, Afrasiabi, Randnummern 45 bis 57",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62011CJ0072",
         "application": "Kontrollierten Zwischenempfänger und beabsichtigten Endnutzen prüfen; fehlende sofortige Verwendungsbereitschaft schließt wirtschaftliche Ressource nicht aus.",
-        "limit": "Historischer Iran-Fall mit Sinterofen; aktuelle Verbotsnorm, Listung und subjektive Voraussetzungen gesondert, keine allgemeine Sperre jeder Zwischenlieferung."
+        "limit": "Historischer Iran-Fall mit Sinterofen; aktuelle Verbotsnorm, Listung und subjektive Voraussetzungen gesondert, keine allgemeine Sperre jeder Zwischenlieferung.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "Keine aktuelle Transaktions-, Sanktionslisten-, TARIC- oder CBAM-Gesamtprüfung; historische Entscheidung ersetzt keine heutige regimebezogene Freigabe.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-schnellstart.md",
+        "aussenwirtschaft-zoll-sanktionen/aussenwirtschaft-zoll-sanktionen-werkstatt.md"
+      ],
+      "result": "Afrasiabi bleibt am kontrollierten Zwischenempfänger und dem Endnutzen verankert. Die Texte erklären keine allgemeine Sperre jeder Zwischenlieferung; heutige Listung und subjektive Voraussetzungen bleiben getrennt.",
+      "search_2026": "Amtliche Presseinformation 73/26 vom 21.05.2026 zu C-483/23, C-428/24 und C-476/24 gefunden; nur Presseinformation gelesen, keine neue Ratio in den Workflow übernommen. Schlussanträge C-530/25 P ausdrücklich nicht als Urteil behandelt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

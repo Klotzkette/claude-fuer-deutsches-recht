@@ -118,7 +118,9 @@
         "citation": "BGH, Urteil vom 11. Juni 2021, V ZR 234/19",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2021/2021109.html",
         "application": "Selbsthilfe wegen Überhangs trotz drohender Schädigung des Baums einordnen.",
-        "limit": "Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Nutzungsbeeinträchtigung, Naturschutz und sichere Durchführung gesondert prüfen; keine allgemeine Fäll- oder Zutrittsbefugnis."
+        "limit": "Amtliche Pressemitteilung vollständig gelesen, kein Volltext. Nutzungsbeeinträchtigung, Naturschutz und sichere Durchführung gesondert prüfen; keine allgemeine Fäll- oder Zutrittsbefugnis.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -137,5 +139,13 @@
     "continuation": "Neuer Vermessungsplan ändert Grenzbeschreibung und Schnittbereich im vorhandenen nachbarbrief.md; Gärtnerzusage ändert Zugang und Termin in der bestellten zugangsvereinbarung.md, ohne bekannte Fakten neu aufzunehmen.",
     "enrichment": "Gegenursachen und eigene Eingriffe, bestimmte Gutachterfrage, Sicherung bei Baugrube, vorübergehender Gerüstzugang gegenüber Notweg, begrenzte Einigung und fertig ausformulierter Dokumentstand.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

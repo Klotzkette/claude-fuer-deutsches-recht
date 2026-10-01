@@ -27,6 +27,16 @@
       "url": "https://www.gesetze-im-internet.de/gmbhg/__39.html",
       "checked_on": "2026-09-23",
       "supports": "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage. Prüftiefe: Einzelabrufe gestört; maßgebliche Normpassagen über amtlichen Suchindex gelesen. Keine neue Prüfung aller Registerarten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Tenor, Rn. 20–25, 32–38, 43–49. Überschießende private Registerdaten nach Einwilligungswiderruf: ordnungsgemäße Ersatzfassung im öffentlichen Ordner nach §9Abs7HRV. Grenze: Pflichtangaben nicht pauschal entfernen; Original verbleibt in nicht allgemein öffentlicher Registerakte, notarielle Form beachten."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 8–29. Geprüfte österreichische Onlinebeglaubigung nicht abstrakt gleichwertig; Verfahrensgarantien statt Einzelfallbemühung prüfen. Grenze: Keine allgemeine Zurückweisung ausländischer Präsenzbeglaubigungen; heutige Verfahrensnormen gesondert."
     }
   ],
   "mini_review": {
@@ -39,7 +49,7 @@
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
       "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
     ],
-    "sha256": "11d9b69b6659495fa2947c0fd1ced21f0d9fab55f9d0e3d32fe23a17983379ed",
+    "sha256": "b8f3ef914ee0fa673399735496da0665ff75a0cef8467d71ec272fc9ca2b6f53",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -97,7 +107,7 @@
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
       "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
     ],
-    "sha256": "5c15db229e37190d3f3995a9972f69bc3dd28d985e33f85043c6f461c956f103",
+    "sha256": "5a3319c65a4f16df065f819bc591835c791221822101a35c7e2e8100ab725723",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -121,6 +131,22 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1",
         "application": "Bei aus Gerichtssicht unbehebbarem Eintragungshindernis keinen Rücknahmehinweis als Zwischenverfügung nach Paragraf 382 Absatz 4 FamFG ausgeben; Ablehnungsbeschluss nach Absatz 3 erforderlich.",
         "limit": "Aufhebung einer unzulässigen Zwischenverfügung ersetzt nicht die Eintragungsprüfung. Materielle Besonderheiten der Sparkassenvereinigung nicht auf jede Gesellschaft übertragen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 18.02.2026 – II ZB 2/25, Kopf/Tenor, Rn. 20–25, 32–38, 43–49",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1",
+        "application": "Überschießende private Registerdaten nach Einwilligungswiderruf: ordnungsgemäße Ersatzfassung im öffentlichen Ordner nach §9Abs7HRV.",
+        "limit": "Pflichtangaben nicht pauschal entfernen; Original verbleibt in nicht allgemein öffentlicher Registerakte, notarielle Form beachten.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
+      },
+      {
+        "citation": "BGH, Beschluss vom 25.02.2026 – II ZB 13/24, Kopf, Rn. 8–29",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1",
+        "application": "Geprüfte österreichische Onlinebeglaubigung nicht abstrakt gleichwertig; Verfahrensgarantien statt Einzelfallbemühung prüfen.",
+        "limit": "Keine allgemeine Zurückweisung ausländischer Präsenzbeglaubigungen; heutige Verfahrensnormen gesondert.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -140,5 +166,15 @@
     "continuation": "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
     "enrichment": "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-schnellstart.md",
+      "gerichtsplugins/richter-amtsgericht-handelsregister/richter-amtsgericht-handelsregister-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

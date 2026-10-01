@@ -550,19 +550,25 @@
         "citation": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
         "application": "Erfüllende Trennungsauskunft, Titel und Annahme bestimmen Beweislast bei niedrigerem Endvermögen.",
-        "limit": "Kein Automatismus aus beliebiger Kontoliste und keine Feststellung jeder Minderung als illoyal."
+        "limit": "Kein Automatismus aus beliebiger Kontoliste und keine Feststellung jeder Minderung als illoyal.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 09.02.2011, XII ZR 40/09, Randnummern 16 bis 37 und 52 bis 58",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1",
         "application": "Praxiswert mit individuellem Unternehmerlohn, latenten Steuern und Abgrenzung zum Unterhalt; Gesamtschuld samt durchsetzbarem Innenausgleich.",
-        "limit": "Keine Umsatz- oder Steuerpauschale; konkrete Methode, Personeneinsatz und anderweitige Schuldabrede prüfen."
+        "limit": "Keine Umsatz- oder Steuerpauschale; konkrete Methode, Personeneinsatz und anderweitige Schuldabrede prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Beschluss vom 06.05.2015, XII ZB 306/14, Randnummern 21 bis 27",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1",
         "application": "Bei privilegierter Übertragung altersbedingtes Abschmelzen und marktbedingtes Steigen der Nießbrauchslast unterschiedlich rechnen.",
-        "limit": "Kein pauschaler Wegfall jeder Last; bei Wertanstieg beide Stichtagslasten ohne zusätzlichen negativen gleitenden Erwerb."
+        "limit": "Kein pauschaler Wegfall jeder Last; bei Wertanstieg beide Stichtagslasten ohne zusätzlichen negativen gleitenden Erwerb.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -571,5 +577,13 @@
       "Vorhandene Quellenrecords früherer Bearbeitung unverändert erhalten; hier nur genannte Entscheidungsabschnitte und Normen erneut geprüft.",
       "Keine neuen amtlichen Indexwerte abgerufen, keine steuerliche oder sachverständige Individualbewertung."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-amtsanwaltschaft",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__160.html",
@@ -52,21 +52,27 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlich indexierte Abschlussvoraussetzung geprüft; kein aktuell vollständig gelesener Einzelvolltext behauptet."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor, Sachverhalt und Rn. 1–27 vollständig. Tatsächliche Mitnutzung nach §102 StPO von allein genutzten Räumen Nichtverdächtiger nach §103 StPO abgrenzen; dort konkrete Auffindeindizien verlangen. Grenze: Gemeinsame Anschrift, Briefkasten, Wohnprojektetikett und bloß möglicher Zutritt reichen nicht. Keine generelle Unzulässigkeit von WG-Durchsuchungen, kein automatisches Verwertungsverbot."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
       "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
       "Maßnahmerechtmäßigkeit nicht automatisch mit Beweisunverwertbarkeit gleichsetzen.",
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
-      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten."
+      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "8b3693a97aa45db8ef46890ffb745e9f5d4c2a2a59017dc651bd25a471b821f0",
-    "reviewed_on": "2026-09-23",
+    "sha256": "c388fab987e39df6a53dd43e4ec1236204a680f9e0d1d5e8e3a201031d695263",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -115,21 +121,22 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Durchsuchung nicht zur Erzeugung eines erst vermuteten Anfangsverdachts einsetzen.",
       "Tat, Zeitraum und Suchgegenstand schon in der Anordnung begrenzen; historische Geldwäschelage nicht übertragen.",
       "Maßnahmerechtmäßigkeit nicht automatisch mit Beweisunverwertbarkeit gleichsetzen.",
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
-      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten."
+      "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "8dc847fd30f03511a0fb197ed6e5d50eccc41b5f303378c122bd914afae7f6bf",
-    "reviewed_on": "2026-09-23",
+    "sha256": "2b0a97b93f384cbf0daa340ee1b69fe5ae505c74e15942d6053d276e34c810b1",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-schnellstart.md",
       "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/staatsanwaltschaft-amtsanwaltschaft-werkstatt.md"
@@ -145,6 +152,12 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/04/rk20230419_2bvr218020.html",
         "application": "Durchsuchungsantrag auf konkrete vorherige Verdachtstatsachen stützen und Tat, Zeitraum und gesuchte Beweise begrenzen; keine Durchsuchung erst zur Gewinnung eines Anfangsverdachts.",
         "limit": "Historische Geldwäsche-Vortatenlage nicht in heutiges materielles Recht übertragen; kein automatisches Verwertungsverbot. Fehlende Begrenzung von Tat und Suchgegenstand von bloß ergänzbarer Begründung unterscheiden."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
+        "application": "Tatsächliche Mitnutzung nach §102 StPO von allein genutzten Räumen Nichtverdächtiger nach §103 StPO abgrenzen; dort konkrete Auffindeindizien verlangen.",
+        "limit": "Gemeinsame Anschrift, Briefkasten, Wohnprojektetikett und bloß möglicher Zutritt reichen nicht. Keine generelle Unzulässigkeit von WG-Durchsuchungen, kein automatisches Verwertungsverbot."
       }
     ],
     "remaining_limits": [

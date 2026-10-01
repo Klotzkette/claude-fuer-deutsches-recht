@@ -104,14 +104,26 @@
         "citation": "BVerwG, Urteil vom 10.04.2019, Az. 7 C 23.18, Randnummern 36 bis 41",
         "url": "https://www.bverwg.de/100419U7C23.18.0",
         "application": "Unverhältnismäßigen Verwaltungsaufwand anhand institutioneller Belastung begründen; Teilzugang nicht mit gewöhnlichem Prüfaufwand verweigern.",
-        "limit": "Identifikation, Rechtsprüfung und Drittanhörung zählen zum Aufwand; Geheimhaltungsgründe entfallen nicht."
+        "limit": "Identifikation, Rechtsprüfung und Drittanhörung zählen zum Aufwand; Geheimhaltungsgründe entfallen nicht.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Desk-/Quellenprüfung, kein Live-Ergebnistest.",
       "Länderrechtliche Presseauskunft und besondere Archivregeln nur als gesonderte Prüfwege, nicht vollständig neu verifiziert.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-schnellstart.md",
+        "informationsfreiheit-presseauskunft/informationsfreiheit-presseauskunft-werkstatt.md"
+      ],
+      "result": "Aufwand und Teilzugang sind institutionell statt pauschal bemessen. Neuer Archivfall 10 A 2.25 nur teilweise gelesen und wegen offen gebliebener Folgerandnummern nicht als neue vollständige IFG-Regel eingebaut.",
+      "search_2026": "10 A 2.25 vom 04.06.2026 gefunden; Rn. 15–28 gelesen, weitere Abrufe mit 403/Zeitüberschreitung. Archivrechtlichen neuen Fall deshalb nicht als vollständig geprüften IFG-Ersatz ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

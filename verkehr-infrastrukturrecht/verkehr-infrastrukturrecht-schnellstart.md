@@ -42,7 +42,7 @@ Straßenverkehrsrechtliche Anordnung, straßenrechtliche Sondernutzung und bauli
 
 ## 1.7. Dokument fertigstellen
 
-[BVerwG, Urteil vom 30. März 2017, 7 C 17.15, Rn. 20–28](https://www.bverwg.de/300317U7C17.15.0): Im UVP-rechtlichen Anwendungsbereich dürfen Einwendungen im gerichtlichen Verfahren nicht allein wegen fehlenden Vortrags im Verwaltungsverfahren ausgeschlossen werden; das gilt auch ohne unmittelbaren Umweltbezug. Der bergrechtliche Ausgangsfall liefert einen Verfahrensanker, keine Straßenbahn-Bauzulassung und keine allgemeine Fristbefreiung. Heute Paragraf 7 Absatz 4 UmwRG, dessen Entscheidungskategorien und gerichtliche Begründungsfristen gesondert prüfen. Die vom Urteil herangezogene Entscheidung EuGH C-137/14 ist kein Ersatz für diesen Fallabgleich.
+[BVerwG, 30.03.2017 – 7 C 17.15](https://www.bverwg.de/300317U7C17.15.0), Rn. 20–28: Fehlender Vortrag im Verwaltungsverfahren allein schließt gerichtliche Einwendungen im UVP-Anwendungsbereich nicht aus. Heute Paragraf 7 Absatz 4 UmwRG und Entscheidungskategorie prüfen; der Bergbaufall ersetzt keine Straßenbahnzulassung. Davon getrennt gilt die gerichtliche Zehnwochenfrist: [BVerwG, 26.05.2026 – 7 C 5.25](https://www.bverwg.de/260526U7C5.25.0), Rn. 8–15, erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen. Fristbeginn, konkreten Vortrag und gesetzliche Ausnahmen prüfen; keine pauschale Verwerfung der gesamten Klage.
 
 Formuliere die verlangte Einwendung, Stellungnahme oder rechtliche Bewertung mit konkretem Planbezug, tragenden Tatsachen und begründeter Rechtsfolge. Prüfe das stärkste Gegenargument und eine mögliche Schutzauflage als Alternative. Tabellen dienen nur einem benötigten Plan-, Varianten- oder Belegvergleich und ersetzen nicht den bestellten Text.
 

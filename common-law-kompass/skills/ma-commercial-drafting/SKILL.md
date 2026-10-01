@@ -64,9 +64,10 @@ Before proceeding, clarify:
 
 ## Key Case Law
 
-- **Wood v Capita Insurance Services** [2017] UKSC 24 — Entire agreement clauses and their effect on pre-contract representations; clear words needed to exclude misrepresentation claims.
-- **Takeda v Dodd** [2019] EWHC 3040 (Comm) — Indemnity vs. warranty: indemnity provides pound-for-pound recovery; warranty damages subject to mitigation and remoteness; distinction critical in M&A tax indemnities.
-- **Renault v Dodd** [2004] EWHC 2530 (Comm) — Material adverse change (MAC) clauses: English courts interpret MAC narrowly; short-term volatility rarely triggers MAC; US Delaware courts also strict.
+- **Wood v Capita Insurance Services Ltd**, UK Supreme Court, 29.03.2017, [2017] UKSC 24, [Rn. 9–16](https://supremecourt.uk/uploads/uksc_2015_0212_judgment_bd11dce464.pdf): Wortlaut und Vertragskontext bei einer SPA-Freistellung zusammen auslegen; Gewicht hängt von Vertrag und Formulierung ab. Kein spezieller Anker für den Ausschluss vorvertraglicher Misrepresentation-Ansprüche durch Entire-Agreement-Klauseln.
+
+Für die behaupteten Fundstellen „Takeda v Dodd [2019] EWHC 3040 (Comm)“ und „Renault v Dodd [2004] EWHC 2530 (Comm)“ ließ sich am 01.10.2026 kein belastbarer Entscheidungsnachweis finden; sie werden nicht als Belege verwendet. Stattdessen für die konkrete Warranty-/Indemnity- oder MAC-Klausel Rechtsordnung, Wortlaut, Anspruchsvoraussetzungen und einschlägigen amtlichen Volltext recherchieren. Wood v Capita ersetzt diese gesonderte Recherche nicht.
+
 - **IBP Inc v Tyson Foods** 789 A2d 14 (Del Ch 2001) — Delaware MAC clause: must be substantially threatening to long-term earnings capacity; general economic downturns excluded.
 
 ## Normen und Quellen

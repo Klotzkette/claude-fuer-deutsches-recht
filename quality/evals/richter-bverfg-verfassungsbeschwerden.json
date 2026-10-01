@@ -129,20 +129,33 @@
         "citation": "BVerfG, Kammerbeschluss vom 17. Mai 2024, 2 BvR 1457/23, Rn. 9 bis 16",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/05/rk20240517_2bvr145723.html",
         "application": "Fehlender tragfähiger Schluss von Haltereigenschaft auf Täterschaft als Willkür; auch geringer Betrag schließt Annahme nicht aus.",
-        "limit": "Keine erneute freie Beweiswürdigung; begründete Zeugenabwägung nicht gleichsetzen und andere Grundrechtsmaßstäbe nicht auf Willkür reduzieren."
+        "limit": "Keine erneute freie Beweiswürdigung; begründete Zeugenabwägung nicht gleichsetzen und andere Grundrechtsmaßstäbe nicht auf Willkür reduzieren.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Rn. 18 bis 23",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html",
         "application": "Pauschale Anlagenverweise und abweichender Sachverhalt ersetzen keine Auseinandersetzung mit tragenden Gründen.",
-        "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung."
+        "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Amtliche Entscheidungsgründe und Annahmenorm geprüft; nicht sämtliche materiellen Grundrechtsgebiete oder interne Geschäftsverteilung verifiziert.",
       "Desk-/Quellenreview, kein Live-Gerichts- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Paragrafen 93 und 93a erneut amtlich gelesen; vorhandene Entscheidungsnachweise mit ihren Anwendungsgrenzen erhalten. Desk review; kein Live-Client-Test."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-schnellstart.md",
+        "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/richter-bverfg-verfassungsbeschwerden-werkstatt.md"
+      ],
+      "result": "Haltereigenschaft allein und qualifizierte Tatsachenwürdigung werden getrennt. ANOM-Beschwerde liefert Darlegungsanforderungen, keine allgemeine Billigung ausländischer Ermittlungsmaßnahmen.",
+      "search_2026": "Amtliche Pressemitteilung 20/26 vom 18.03.2026 gefunden, kein gelesener einschlägiger Volltext zu den bestehenden Halter-/ANOM-Ankern. Nicht als neue Entscheidung ausgegeben.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

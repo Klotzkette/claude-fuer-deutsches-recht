@@ -483,37 +483,49 @@
         "citation": "BGH, Urteil vom 01.02.2012, VIII ZR 156/11, Rn. 10–14",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2011/VIII_ZR_156-11.pdf?__blob=publicationFile&v=1",
         "application": "Bei Abrechnung bloßer Jahreszahlungen Periodenverbrauch nach Paragraf 7 Absatz 2 HeizkostenV rekonstruieren; 15-Prozent-Kürzung heilt diesen Fehler nicht.",
-        "limit": "Keine allgemeine FIFO-Pflicht; sachgerechte Schätzung und nachträgliche Nachforderungsgrenze gesondert prüfen."
+        "limit": "Keine allgemeine FIFO-Pflicht; sachgerechte Schätzung und nachträgliche Nachforderungsgrenze gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 25.01.2017, VIII ZR 249/15, Rn. 17 und 46–47",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR_249-15.pdf?__blob=publicationFile&v=1",
         "application": "Mietabrechnung ohne Abhängigkeit von WEG-Beschluss fristgerecht erstellen; bei Verspätung eigene Beschaffungsbemühungen darlegen.",
-        "limit": "Vor WEG-Reform; keine automatische Entschuldigung oder heutige WEG-Kostenverteilung aus dem Urteil."
+        "limit": "Vor WEG-Reform; keine automatische Entschuldigung oder heutige WEG-Kostenverteilung aus dem Urteil.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 09.12.2020, VIII ZR 118/19, Rn. 12–17",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR_118-19.pdf?__blob=publicationFile&v=1",
         "application": "Zahlungsbelege auch beim Leistungsprinzip zugänglich machen; berechtigt verlangte verweigerte Einsicht kann vorübergehende Leistungsverweigerung zur Nachforderung begründen.",
-        "limit": "Kein endgültiger Forderungswegfall oder pauschaler Mietzahlungsstopp; heutige elektronische Bereitstellung zusätzlich nach Paragraf 556 Absatz 4 BGB."
+        "limit": "Kein endgültiger Forderungswegfall oder pauschaler Mietzahlungsstopp; heutige elektronische Bereitstellung zusätzlich nach Paragraf 556 Absatz 4 BGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 15.12.2021, VIII ZR 66/20, Rn. 13–19",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZR__66-20.pdf?__blob=publicationFile&v=1",
         "application": "Historische Originalbelegregel und digitale Ursprungsbelege unterscheiden.",
-        "limit": "Früheres Recht; kein pauschaler Papierzwang unter heutigem Paragraf 556 Absatz 4 BGB."
+        "limit": "Früheres Recht; kein pauschaler Papierzwang unter heutigem Paragraf 556 Absatz 4 BGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 30.05.2018, VIII ZR 220/17, Rn. 19–23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_220-17.pdf?__blob=publicationFile&v=1",
         "application": "Bei Flächenumlage tatsächliche Wohnungs- und Gesamtfläche statt Zehnprozenttoleranz verwenden.",
-        "limit": "Keine Entscheidung über spätere WEG-Auffangregel des Paragrafen 556a Absatz 3 BGB."
+        "limit": "Keine Entscheidung über spätere WEG-Auffangregel des Paragrafen 556a Absatz 3 BGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Versäumnisurteil vom 20.02.2008, VIII ZR 27/07, Rn. 28–32",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__27-07.pdf?__blob=publicationFile&v=1",
         "application": "Hauswartkosten nach tatsächlichem Aufwand aufteilen; bei bestrittenem Heizstrom Schätzgrundlage offenlegen.",
-        "limit": "Keine allgemeine Zehnprozentkürzung oder universelle Schätzquote."
+        "limit": "Keine allgemeine Zehnprozentkürzung oder universelle Schätzquote.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -521,5 +533,13 @@
       "Sechs gerichtliche Kernaussagen amtlich nachgelesen; historische CO2-Verkündung und Berliner Steuerwerte in dieser Anschlussprüfung nicht erneut vollständig verifiziert, vorhandene Nachweise und Datierungen unverändert.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 556 BGB beim erneuten Abruf nicht erreichbar; geprüfter Normstand vom 22.09.2026 und periodengebundene 2025-Grundlagen unverändert, keine neue Vollverifikation behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

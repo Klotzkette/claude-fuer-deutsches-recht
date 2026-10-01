@@ -22,6 +22,8 @@ Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerl
 - **Entscheidende Weiche:** Status, Befehl/Dienstpflicht, Gewissen/KDV, Besoldung/Versorgung, Disziplinarweg, Eilrechtsschutz und Nachweisführung trennen.
 - **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
 
+[BVerwG, Beschluss vom 25.06.2026 – 1 WB 64.25](https://www.bverwg.de/de/250626B1WB64.25.0), Rn. 35–40: Mehrere zeitnah wegen derselben konkret erläuterten Kindeserkrankung abgelehnte Dienstposten belegen nicht schon fehlende grundsätzliche Mobilitätsbereitschaft. Auswahlzeitpunkt, tatsächliche frühere Verwendungen und familiären Hinderungszeitraum abgleichen. Die Zulassung zum Laufbahnaufstieg und die Rechtmäßigkeit einer konkreten Versetzung bleiben verschiedene Fragen; fehlende Nachweise des Versetzungshindernisses beweisen keine innere Mobilitätsverweigerung. Zugesprochen wurde Neubescheidung, kein Wunschdienstposten.
+
 ## Fachlicher Kontext
 
 Beurteilungen sind Grundlage für Beförderungen und Verwendungsentscheidungen. Fehlerhafte Beurteilungen blockieren Karrieren; unterlegene Bewerber haben Konkurrentenschutzrecht aus Art. 33 Abs. 2 GG.
@@ -32,7 +34,7 @@ Typische Fehler: unzuständiger Beurteiler, fehlende Begründung, Nichtberücksi
 
 - Art. 33 Abs. 2 GG — Bestenauslese
 - § 3 SG — Ernennungs- und Verwendungsgrundsätze
-- § 23 SG — Personalakte und Beurteilungen
+- Personalaktenrecht und Beurteilungsgrundlage getrennt prüfen; § 23 SG regelt Dienstvergehen, nicht Personalakten.
 - ZDv A-1340/50 — Beurteilungsbestimmungen
 - §§ 6, 17 WBO — Beschwerde und gerichtlicher Antrag
 - § 123 VwGO — Einstweiliger Rechtsschutz (analog)

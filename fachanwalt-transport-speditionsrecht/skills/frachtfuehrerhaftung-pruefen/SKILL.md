@@ -91,7 +91,7 @@ Die Frachtführerhaftung ist das Herzstück des Transportrechts. Der entscheiden
 | 11 | Verjährung berechnen: 1 Jahr ab Ablieferung; Hemmung durch Reklamation | CMR Art. 32, § 439 HGB |
 | 12 | Gerichtsstand bestimmen: CMR Art. 31 Wahl; HGB: § 30 ZPO | CMR Art. 31 |
 | 13 | ADSp-Prüfung: wirksam in Vertrag einbezogen? AGB-Kontrolle § 305 ff. BGB | § 449 HGB, §§ 305 ff. BGB |
-| 14 | Regressmöglichkeiten: Frachtführer gegen Unterfrachtführer | § 437 HGB, CMR Art. 34 ff. |
+| 14 | Regressgrundlage aus Unterfrachtvertrag und gegebenenfalls Gesamtschuldnerausgleich bestimmen; § 437 HGB betrifft die Außenhaftung | §§ 407, 425 HGB, § 426 BGB; CMR Art. 34 ff. nur bei deren besonderen Voraussetzungen |
 
 ---
 

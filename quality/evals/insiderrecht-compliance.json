@@ -128,5 +128,16 @@
     "continuation": "Ältere Vorstandsvorlage -> Informationsbeginn; präzises Gerücht -> Geheimhaltung/Publizität; neue Zahlen -> Prognose; Brokerbeleg -> Orderbewertung ändern.",
     "enrichment": "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "insiderrecht-compliance/skills/aufschubentscheidung-market/SKILL.md",
+      "insiderrecht-compliance/skills/insiderinformation-zwischenschritte/SKILL.md",
+      "insiderrecht-compliance/skills/zwischenschritte-ma/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

@@ -5,6 +5,10 @@ description: "Für Außergewöhnliche: Zahlen, Schwellenwerte und Berechnung: or
 
 # Aussergewoehnliche: Zahlen, Schwellenwerte und Berechnung
 
+## 1. Flugrotation und Kausalität
+
+Bei einer Verspätung aus einem früheren Umlauf die Entscheidungen des Unternehmens aufschlüsseln: EuG, Urteil vom 04.03.2026 – T-656/24, European Air Charter, nach [amtlicher Pressemitteilung 26/26, Seiten 1–2](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260026de.pdf). Eigenständiges Warten auf bei der Sicherheitskontrolle zurückgehaltene Reisende kann die unmittelbare Kausalität für einen späteren Flug unterbrechen, wenn das Warten dessen entscheidende Ursache war und für die Airline nicht zwingend war. Rotationsplan, Zeitanteile, Warteentscheidung und behauptete Verpflichtung belegen lassen; danach den Einwand neu beurteilen. Kein Automatismus bei jeder Sicherheitskontrolle oder jeder Warteentscheidung. Hier ist die Pressemitteilung geprüft, nicht der Urteilsvolltext; keine erfundenen Randnummern.
+
 ## Normenanker
 
 Vor einer rechtlichen Schlussfolgerung diese Anker am aktuellen Normtext prüfen; Spezial- und Landesrecht nur hinzunehmen, wenn es den konkreten Auftrag traegt:

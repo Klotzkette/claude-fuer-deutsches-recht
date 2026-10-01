@@ -121,7 +121,8 @@
         "citation": "BVerfG, Beschluss vom 17.12.2013, 1 BvL 5/08, Rn. 40 bis 49 und 62 bis 68",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/ls20131217_1bvl000508.html",
         "application": "Belastende Änderung für abgeschlossene Sachverhalte: vermeintliche Klarstellung anhand alten und neuen Rechts prüfen; Übergangsrecht oder tragfähige Ausnahme begründen.",
-        "limit": "Steuerfall; nicht jede Änderung laufender Verfahren ist echte Rückwirkung, bloße Auslegungsbedürftigkeit keine ausreichende Ausnahme."
+        "limit": "Steuerfall; nicht jede Änderung laufender Verfahren ist echte Rückwirkung, bloße Auslegungsbedürftigkeit keine ausreichende Ausnahme.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
@@ -129,7 +130,18 @@
       "Desk-Review ohne Modelllauf.",
       "Artikel 5/6 Richtlinie 2015/1535 und Artikel 288 AEUV am 23. September ergänzend amtlich gelesen. Der erneute Abruf des Artikel-51-GRCh-Normvolltexts blieb technisch erfolglos; keine Volltextverifikation dieses Artikels behauptet.",
       "Nachprüfung am 2026-09-23 für die Workflow-Ergänzung: Alle bestehenden Profil-URLs erneut aufgerufen. Artikel 80/82 GG und der alternative GG-Gesamttext scheiterten am Abruf, BVerfG 1 BvL 5/08 an HTTP 403, beide EUR-Lex-Texte an einer JavaScript-Sperre. Der frühere Quellenbefund bleibt als datierter Prüfstand erhalten; keine erneute Volltextbestätigung. Ergänzungen betreffen Gestaltung und Belegverarbeitung, keine neue Entscheidung oder zusätzliche behauptete gesetzliche Frist."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "legistik-werkstatt/legistik-werkstatt-schnellstart.md",
+        "legistik-werkstatt/legistik-werkstatt-werkstatt.md"
+      ],
+      "result": "Rückwirkungsprüfung vergleicht tatsächlichen Regelungswechsel und abgeschlossene Sachverhalte. Keine Vermengung jeder laufenden Verfahrensänderung mit echter Rückwirkung.",
+      "search_2026": "2 BvR 886/21 vom 02.07.2026 als Rückwirkungsfund gesehen, nur indexierte Rn. 71–73; mangels vollständigen konkreten Normkontexts nicht als neuen Anker ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

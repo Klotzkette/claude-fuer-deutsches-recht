@@ -174,7 +174,9 @@
         "citation": "BGH, Urteil vom 23.07.2025, VIII ZR 287/23, Rn. 10–12",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2023/VIII_ZR_287-23.pdf?__blob=publicationFile&v=1",
         "application": "Schonfristzahlung heilt eine ordentliche Zahlungsverzugskündigung weder unmittelbar noch analog; deren Voraussetzungen nach Paragraf 573 Absatz 2 Nummer 1 BGB getrennt prüfen.",
-        "limit": "Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie."
+        "limit": "Im Fall nur ordentliche Kündigung; sonstige Voraussetzungen revisionsrechtlich unterstellt und Zurückverweisung, deshalb keine automatische Wirksamkeit oder Erfolgsgarantie.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
@@ -224,5 +226,13 @@
     "continuation": "Zahlung, Mangelbeleg oder Flächennachweis ändern betroffene Monate, Anspruchsumfang und Begründung im bisherigen Nutzerpfad, ersatzweise ergebnis.md; Kündigungsstichtag und späterer Saldo bleiben getrennt.",
     "enrichment": "Guthaben und Minderung, Einzelpositionen der Betriebskosten, Teilabhilfe bei Mängeln, Mietspiegelmerkmale, Nutzungsplanung, Härtebelege und Rückgabe als Auslöser konkreter Rechnungs- und Textänderungen ergänzt.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

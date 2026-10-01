@@ -32,6 +32,11 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__675u.html",
       "checked_on": "2026-09-23",
       "supports": "Unverzügliche Erstattung spätestens bis Ende des folgenden Geschäftstags; gesetzliche Ausnahme nur mit berechtigten Betrugsverdachtsgründen gegen den Zahler und schriftlicher Behördenmitteilung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 1–35. Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen. Grenze: Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen."
     }
   ],
   "mini_review": {
@@ -43,7 +48,7 @@
       "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten. Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag. Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten.",
       "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
     ],
-    "sha256": "79b29e2a2f80bde5ad7050407c124a567aa3b620c16599dfd6f828e171ef338d"
+    "sha256": "26a361098d6ba8096ff1d05b2c0f4057c94cc26c6d27d0bd3c73c6d12b4ae7bc"
   },
   "selection": {
     "positive": [
@@ -98,7 +103,7 @@
       "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
       "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
     ],
-    "sha256": "e5ffed99c3c3b42ea4e2a5bcf4d3a44cee26f7b9d4cb91ef482f72a79e6ada97"
+    "sha256": "d0affa2ad5374fd5ced9aa45f8149e36872a93635c3f416f8f6020b5d9729fc8"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -131,6 +136,14 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1",
         "application": "Bei bestrittenen Onlinezahlungen muss die Bank mehr als ein Erfolgslog vorlegen: Autorisierung, konkrete Verfahrenssicherheit und fehlerfreie Anwendung getrennt würdigen; kein typischer Schluss auf grobe Fahrlässigkeit.",
         "limit": "Entscheidung zum damaligen Zahlungsdiensterecht; kein Ausschluss des Vollbeweises und keine Übernahme alter Absatznummern in Paragraf 675v BGB."
+      },
+      {
+        "citation": "BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Kopf, Rn. 1–35",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1",
+        "application": "Manuelles chipTAN: fehlender Name am Generator allein belegt keinen Ausschluss nach §675vAbs4S1Nr1; IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe konkret prüfen.",
+        "limit": "Rn.27/31 lassen allgemeine zusätzliche Anforderungen teils offen; konkrete grobe Fahrlässigkeit nicht aus einem Erfolgslog auf alle Betrugsfälle übertragen.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -138,5 +151,15 @@
       "Kredit- und Aufsichtsrecht nicht vollständig neu verifiziert; institutsspezifische Schwellen und Anzeigeformate bleiben einzelfallbezogen zu prüfen.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "bank-rechtsabteilung/bank-rechtsabteilung-schnellstart.md",
+      "bank-rechtsabteilung/bank-rechtsabteilung-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

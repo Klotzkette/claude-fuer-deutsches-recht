@@ -19,7 +19,7 @@ Stand: 05/2026.
 
 ## Ziel
 
-Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollieren. Beschlossen werden nach WEMoG **nur** Nachschüsse, Vorschussanpassungen und der Wirtschaftsplan — nicht mehr "die Abrechnung als solche" (BGH, Urteil vom 19.07.2024, V ZR 102/23: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
+Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollieren. Nach § 28 Abs. 1 WEG wird über Vorschüsse auf Kosten und Rücklagen auf Grundlage des Wirtschaftsplans beschlossen; nach Absatz 2 über Nachschüsse und Anpassung beschlossener Vorschüsse auf Grundlage der Jahresabrechnung. Plan und Abrechnung als Rechenwerke sind von diesen Zahlungspflichten zu trennen (BGH, Urteil vom 19.07.2024, V ZR 102/23: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
 
 ## Prüfblöcke
 

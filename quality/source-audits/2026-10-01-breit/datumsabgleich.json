@@ -1,0 +1,147 @@
+{
+  "checked_on": "2026-10-01",
+  "scope": "Manuelle Auflösung der zehn heuristischen Datumsverdachtsstellen; keine Aussage über sämtliche anderen Aktenzeichen.",
+  "findings": [
+    {
+      "plugin": "agb-recht-pruefer",
+      "path": "agb-recht-pruefer/skills/vertragsaenderung-durch-zustimmung-pruefen/references/bankbedingungen.md",
+      "line": 27,
+      "docket": "XI ZR 26/20",
+      "observed_dates": [
+        "2026-09-05"
+      ],
+      "profile_dates": [
+        "2021-04-27"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    },
+    {
+      "plugin": "bauwirtschaft",
+      "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
+      "line": 201,
+      "docket": "VII ZR 119/24",
+      "observed_dates": [
+        "2026-09-25",
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2026-01-15"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    },
+    {
+      "plugin": "diesel-schadensersatz",
+      "path": "diesel-schadensersatz/references/ea288-rechtsprechung-instanzen.md",
+      "line": 40,
+      "docket": "C-100/21",
+      "observed_dates": [
+        "2022-06-02"
+      ],
+      "profile_dates": [
+        "2023-03-21"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "02.06.2022 bezeichnet ausdrücklich die Schlussanträge des Generalanwalts, das registrierte Urteil erging am 21.03.2023."
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    },
+    {
+      "plugin": "fachanwalt-vergaberecht",
+      "path": "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md",
+      "line": 39,
+      "docket": "C-316/25",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-02-03"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    },
+    {
+      "plugin": "fachanwalt-versicherungsrecht",
+      "path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md",
+      "line": 27,
+      "docket": "IV ZR 535/15",
+      "observed_dates": [
+        "2026-09-22"
+      ],
+      "profile_dates": [
+        "2017-07-19"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    },
+    {
+      "plugin": "liquiditaetsplanung",
+      "path": "liquiditaetsplanung/references/rechtsprechung/INDEX.md",
+      "line": 23,
+      "docket": "IX ZR 133/14",
+      "observed_dates": [
+        "2015-03-24"
+      ],
+      "profile_dates": [
+        "2015-03-05"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "24.03.2015 bezeichnet ausdrücklich den Berichtigungsbeschluss; 05.03.2015 das Haupturteil."
+    },
+    {
+      "plugin": "schriftform-und-textform-bgb",
+      "path": "schriftform-und-textform-bgb/schriftform-und-textform-bgb-werkstatt.md",
+      "line": 48,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das Haupturteil ist richtig mit 6. Oktober 2022 ausgeschrieben. 01.10.2026 bezeichnet die Quellenprüfung; der einfache Parser erkennt nur numerische Datumsformen."
+    },
+    {
+      "plugin": "vertragsrecht",
+      "path": "vertragsrecht/vertragsrecht-werkstatt.md",
+      "line": 73,
+      "docket": "VII ZR 895/21",
+      "observed_dates": [
+        "2026-10-01"
+      ],
+      "profile_dates": [
+        "2022-10-06"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das Haupturteil ist richtig mit 6. Oktober 2022 ausgeschrieben. 01.10.2026 bezeichnet die Quellenprüfung; der einfache Parser erkennt nur numerische Datumsformen."
+    },
+    {
+      "plugin": "weg-hausverwaltung",
+      "path": "weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md",
+      "line": 18,
+      "docket": "V ZR 102/24",
+      "observed_dates": [
+        "2026-09-30"
+      ],
+      "profile_dates": [
+        "2026-04-24"
+      ],
+      "assessment": "false_positive_after_context_review",
+      "reason": "Das erkannte numerische Datum bezeichnet die Quellen-/Rechtsprechungsnachprüfung, nicht das Entscheidungsdatum."
+    }
+  ]
+}

@@ -242,7 +242,7 @@ Differenz zu regulärer Haftung: EUR 65.583
 | 21 Tage nach Ablieferung | Lieferfristüberschreitung (Verspätung) | CMR Art. 30 Abs. 3, § 438 Abs. 4 HGB |
 | 1 Jahr ab Ablieferung | Verjährungsfrist (regulär) | CMR Art. 32, § 439 HGB |
 | 3 Jahre | Verlängerte Verjährung bei Vorsatz oder gleichstehendem Verschulden | CMR Art. 32 Abs. 1 S. 2 |
-| Ab schriftlicher Reklamation | Hemmung der Verjährung bis schriftliche Ablehnung | CMR Art. 32 Abs. 2, § 439 Abs. 3 HGB |
+| Ab qualifizierter Anspruchserhebung | HGB: Anspruchserhebung und Ablehnung in Textform; gleiche erneute Erklärung hemmt nicht nochmals. CMR: schriftliche Reklamation und eigene Voraussetzungen nach Art. 32 Abs. 2 separat prüfen | § 439 Abs. 3 HGB; CMR Art. 32 Abs. 2 |
 
 ---
 

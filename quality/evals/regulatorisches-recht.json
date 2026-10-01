@@ -120,14 +120,26 @@
         "citation": "EuGH, Urteil vom 19. Juni 2018, C-15/16, Baumeister, Randnummern 34 bis 39 und 50 bis 56",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62016CJ0015",
         "application": "Geheimnisschutz in Finanzaufsichtsakten dokumentbezogen und zum Zugangsentscheidungszeitpunkt prüfen; Alter wirtschaftlicher Informationen beachten.",
-        "limit": "Artikel 54 Absatz 1 der damaligen MiFID; kein eigener Zugangsanspruch oder Recht zur Meldeverweigerung, kein DORA-Vertragsurteil."
+        "limit": "Artikel 54 Absatz 1 der damaligen MiFID; kein eigener Zugangsanspruch oder Recht zur Meldeverweigerung, kein DORA-Vertragsurteil.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Nur Geheimnisschutzanker neu vertieft. Gewöhnlicher DORA-Skill enthält weiterhin falsche/ungeklärte Unterverweise und bleibt gemäß Schreibgrenze unverändert; Prompt übernimmt sie nicht.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Vertiefung 2026-09-23: DORA-HTML durch Zugriffsschutz gesperrt; Artikel 30 Absatz 2 Buchstabe f über amtlich indizierten PDF-Text gelesen, keine Vollverifikation aller technischen Rechtsakte. Desk review; kein Live-Client-Test."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "regulatorisches-recht/regulatorisches-recht-schnellstart.md",
+        "regulatorisches-recht/regulatorisches-recht-werkstatt.md"
+      ],
+      "result": "Baumeister schützt nicht automatisch alle Aufsichtsakten. Dokumentbezug, Zeitablauf und Zugangszeitpunkt bleiben Prüfmerkmale; kein DORA-Vertragsurteil oder Meldeverweigerungsrecht daraus gemacht.",
+      "search_2026": "Exakte amtliche Suche nach 2026-Berufsgeheimnis/Finanzaufsichtsakten ohne passenden neuen Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

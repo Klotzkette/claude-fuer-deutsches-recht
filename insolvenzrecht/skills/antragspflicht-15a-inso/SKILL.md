@@ -168,6 +168,8 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 
  Bei streitigen Forderungen gilt: Der objektive Eintritt hängt nicht vom subjektiven Bestreiten ab. Wird eine Forderung aus dem Liquiditätsstatus herausgenommen, muss die Geschäftsleitung den Gegenstand, die Einwendung, die Belege und ein etwaiges finales Rechtsgutachten dokumentieren. Ein Irrtum entlastet nur ausnahmsweise; nach BGH IX ZR 229/22, Randnummer 27, ist die Schwelle bei ungeklärten Rechtsfragen eng und bei eigener Vertragsauslegung regelmäßig nicht erreicht.
 
+Die Irrtumsaussage in Rn. 27 betrifft die subjektiven Voraussetzungen der Vorsatzanfechtung. Sie ist weder ein allgemeiner Entlastungstatbestand noch ein automatischer Verschuldensmaßstab für Antragspflicht oder Geschäftsleiterhaftung. Objektiven Forderungsbestand, tatsächliche Kenntnis und die Voraussetzungen des konkret geprüften Anspruchs getrennt begründen.
+
 3. **Sanierungsversuche dokumentieren**
  Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
  Verschulden und können im Einzelfall belegen, dass keine Pflicht­verletzung

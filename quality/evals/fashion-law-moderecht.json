@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fashion-law-moderecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2011/1007/oj/deu",
@@ -22,18 +22,25 @@
       "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32011R1007",
       "checked_on": "2026-09-22",
       "supports": "Artikel 5, 9, 12 und 16 im amtlichen Text gelesen: Faserbezeichnungen, Gewichtsanteile, tierische Teile, Information vor Onlinekauf."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Klimaneutral-Aussage erfordert Erklärung der Reduktion oder Kompensation in der Werbung; Lederbestandteile getrennt prüfen. Workflow-Ergänzung einzeln geprüft: Nur schwarze Variante hat Leder oder Kampagne wird auf bezahlte Werbung erweitert -> konkrete Artikelhinweise und Vegan-Aussage beziehungsweise Lizenzumfang und Freigabe ändern.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "cd641d6dc1f65f4fe18dece2363faae5d459576df80494d9807ed146cc6882ac"
+    "sha256": "06214c247f3b817bc5862dfe4ffc7339173b5f899d444f1898e046ee50e0926c",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -81,17 +88,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Produkt-, Lieferketten-, IP- und Kampagnenfragen werden am konkreten Produkt gehalten; Umweltwerbung nicht aus allgemeiner Nachhaltigkeit abgeleitet. Workflow-Ergänzung einzeln geprüft: Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Klimaneutral-Entscheidung unmittelbar auf Kampagnenkorrektur angewandt",
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
-      "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf."
+      "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "e86d70e8127b903816ea8fc57824d4fde5f18ea459deff1ccf8533e7fe905134"
+    "sha256": "288b9380dfa1b414515ae6ec3b221622e7cc388906c5d54f025558d16b65a9bf",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fashion-law-moderecht/fashion-law-moderecht-schnellstart.md",
       "fashion-law-moderecht/fashion-law-moderecht-werkstatt.md",
@@ -110,6 +119,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZR__98-23.pdf?__blob=publicationFile&v=1",
         "application": "Mehrdeutige Klimaneutralitätswerbung am Werbemittel selbst erklären; Reduktion und Kompensation nicht gleichsetzen.",
         "limit": "Keine Entscheidung über jede vegane Materialangabe oder sämtliche ab September 2026 geltenden Regeln; Leitsätze amtlich indexiert, direkter Volltext nicht abrufbar."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
       }
     ],
     "remaining_limits": [

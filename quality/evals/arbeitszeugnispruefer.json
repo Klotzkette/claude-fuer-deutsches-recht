@@ -102,6 +102,30 @@
       "url": "https://www.anwalt24.de/urteile/bag/1992-09-09/5-azr-509_91",
       "checked_on": "2026-09-30",
       "supports": "Nichtamtliche Volltextwiedergabe, Gründe II–III, dort Rn.11–15: ursprüngliches Ausstellungsdatum bei Berichtigung unter den genannten Voraussetzungen; kein automatisches Enddatum."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13: Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht. Grenze: Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel. Gelesener Umfang: Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+      "source_sha256": "5630c4ce73083854fdeb31faba5898cf162a14e4199a272d5814e44201d3be38"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10: Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen. Grenze: Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil. Gelesener Umfang: Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+      "source_sha256": "333ad2d3781cf6fc42993b04263994cfffb06665fedff8265cac63fa18e419af"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B): Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam. Grenze: Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB. Gelesener Umfang: Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+      "source_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
     }
   ],
   "mini_review": {
@@ -748,37 +772,82 @@
         "citation": "BAG, Urteil vom 11.12.2012, 9 AZR 227/11, Rn. 20",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-227-11/",
         "application": "Bei beredtem Schweigen zu Einzelmerkmalen Berufsüblichkeit und mögliche Beeinträchtigung des beruflichen Fortkommens prüfen.",
-        "limit": "Nur gesetzlich geschuldeter Zeugnisinhalt, keine Übertragung auf Dank und Zukunftswünsche."
+        "limit": "Nur gesetzlich geschuldeter Zeugnisinhalt, keine Übertragung auf Dank und Zukunftswünsche.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
         "application": "Individuelle Leistungs- und Verhaltensbeurteilung regelmäßig als gewichteter Text statt schulzeugnisartiger Einzelnotentabelle.",
-        "limit": "Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu."
+        "limit": "Kein allgemeines Listenverbot; übersichtliche Tätigkeitslisten bleiben möglich und das Urteil spricht keine bessere Note zu.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
         "application": "Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln.",
-        "limit": "Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen."
+        "limit": "Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
         "application": "Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
-        "limit": "Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht."
+        "limit": "Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Beschluss vom 14.02.2017, 9 AZB 49/16",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azb-49-16/",
         "application": "Für die Vollstreckung die konkrete titulierte Zeugnisformulierung prüfen.",
-        "limit": "Eine bloße Notenstufe legt regelmäßig keine vollstreckbare konkrete Leistungspflicht fest."
+        "limit": "Eine bloße Notenstufe legt regelmäßig keine vollstreckbare konkrete Leistungspflicht fest.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Beschluss vom 07.05.2026 – Az. 8 AZB 25/25, Rn. 12 bis 22",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
         "application": "Arbeitnehmerentwurf mit Abweichung nur aus wichtigem Grund als mögliche Konkretisierung eines vollstreckbaren Titels prüfen.",
-        "limit": "Eindeutiger maßgeblicher Entwurf sowie Wahrheit und Klarheit bleiben erforderlich; konkrete Einwendungen können Zwangsgeld verhindern."
+        "limit": "Eindeutiger maßgeblicher Entwurf sowie Wahrheit und Klarheit bleiben erforderlich; konkrete Einwendungen können Zwangsgeld verhindern.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
+      },
+      {
+        "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
+        "application": "Wer eine gute statt durchschnittlicher Bewertung verlangt, muss entsprechende Leistungstatsachen darlegen; Branchenhäufigkeiten ersetzen sie nicht.",
+        "limit": "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+        "passages_read": "Volltext Rn. 8 bis 13; keine Beweislastregel für jeden Formmangel.",
+        "evidence_sha256": "5630c4ce73083854fdeb31faba5898cf162a14e4199a272d5814e44201d3be38"
+      },
+      {
+        "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+        "application": "Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen.",
+        "limit": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "passages_read": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+        "evidence_sha256": "333ad2d3781cf6fc42993b04263994cfffb06665fedff8265cac63fa18e419af"
+      },
+      {
+        "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+        "application": "Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam.",
+        "limit": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "passages_read": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+        "evidence_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
       }
     ],
     "remaining_limits": [
@@ -786,5 +855,29 @@
       "Die Promptprüfung ersetzt keine Einzelfallrecherche zu Landesrecht, Tarifvertrag, Ausschlussfrist oder prozessualem Sonderweg.",
       "Keine Live-Client-Ausführung in diesem redaktionellen Prüfschritt behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "status": "wiederverwendeter_auditnachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

@@ -166,13 +166,17 @@
         "citation": "BGH, Urteil vom 29.03.2017, IV ZR 533/15, Randnummern 20 bis 31",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2015/IV_ZR_533-15.pdf?__blob=publicationFile&v=1",
         "application": "Eine verfügbare Brille allein schließt bei den dortigen Bedingungen medizinische Notwendigkeit einer LASIK nicht aus; objektive Befunde zum Behandlungszeitpunkt prüfen.",
-        "limit": "Tarifabhängig; Zurückverweisung zur Notwendigkeit, keine allgemeine Kostenzusage und keine GKV-Regel."
+        "limit": "Tarifabhängig; Zurückverweisung zur Notwendigkeit, keine allgemeine Kostenzusage und keine GKV-Regel.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BSG, Urteil vom 10.03.2022, B 1 KR 6/21 R, Randnummern 12 bis 25",
         "url": "https://www.bsg.bund.de/SharedDocs/Downloads/DE/Entscheidungen/2022/2022_03_10_B_01_KR_06_21_R.pdf?__blob=publicationFile&v=2",
         "application": "Fristabhängige Kostenerstattung setzt unter anderem Gutgläubigkeit, Kosten und Ursächlichkeit voraus; vorherige Vorfestlegung und tatsächlichen Zugang der MD-Unterrichtung prüfen.",
-        "limit": "Keine automatische Sachleistung; Vorauszahlung nur gewichtiges Indiz, Unaufschiebbarkeit eigenständig nach Absatz 3."
+        "limit": "Keine automatische Sachleistung; Vorauszahlung nur gewichtiges Indiz, Unaufschiebbarkeit eigenständig nach Absatz 3.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -192,5 +196,13 @@
     "continuation": "Tarifnachtrag korrigiert in leistungsbrief.md Quote und Restforderung; Nachweis zur AU-Feststellung korrigiert in krankengeld-widerspruch.md Zeitraum und Begründung. Vorhandene Nutzerpfade gelten.",
     "enrichment": "Auskunft vor PKV-Behandlung über 2000 Euro mit Frist und begrenzter Vermutungswirkung, Feststellung gegenüber AU-Übermittlung, Stornoregel/Vorauszahlung als Tatsachen zur Vorfestlegung, 400-Euro-Restrechnung und funktionelle Befundanfrage.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

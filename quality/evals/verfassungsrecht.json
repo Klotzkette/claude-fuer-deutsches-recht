@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "verfassungsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bverfgg/__13.html",
@@ -57,6 +57,11 @@
       "url": "https://www.gesetze-im-internet.de/gg/art_94.html",
       "checked_on": "2026-09-22",
       "supports": "Aktuelle verfassungsgerichtliche Zuständigkeiten nach Absatz 1."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/03/ls20260324_2bvl000318.html",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Entscheidungsseite: Leitsatz, Rn. 49–51, 54–59, 62–68; Zitierung auf 49–50, 58–59, 67–68 beschränkt. Die Zweitveröffentlichungsermächtigung des § 44 Absatz 6 LHG Baden-Württemberg ist wegen der ausschließlichen Bundeskompetenz für Urheberrecht nichtig. Konkrete Rechtsgrundlage der verlangten Publikation ermitteln. Grenze: Keine generelle Unzulässigkeit von Open Access oder jeder Promotionspublikationspflicht. Satzungsautonomie erweitert die Landeskompetenz nicht."
     }
   ],
   "mini_review": {
@@ -72,14 +77,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Am 23.09.2026 vollständig erneut gelesen: Zustelldaten, behauptetes Übergehen, unabhängige Entscheidungsgründe, Entwurfsfassungen und geänderter Vollzug führen zu konkreten Beschwerde-, Organstreit- oder Gutachtenänderungen. Bestehende ANOM-/GEG-Verfahrensgrenzen bleiben erhalten; neue Normprüfung gezielt dokumentiert.",
+    "reason": "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Fristauslöser und Wiedereinsetzung, Belegabgleich jeder tragenden Rüge und nachteiliger Kontext bis zum Beschwerdetext ausgearbeitet.",
       "Beteiligungsnachteil im Organstreit, neue Gesetzesfassung und veränderter Vollzug im Eilantrag mit konkreten Dokumentfolgen ergänzt.",
       "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
-      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt."
+      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt.",
+      "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt."
     ],
-    "sha256": "4877734fdddbdf18e59354f5225255d85b274d376d54555870ae404055a5d25d"
+    "sha256": "a9bbb87cb868c64e3dd8ab82526389268fd561016b7105d87349a53fa6674d02",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -170,7 +177,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "verfassungsrecht/README.md",
@@ -188,19 +195,40 @@
         "citation": "BVerfG, Kammerbeschluss vom 23. September 2025, 2 BvR 625/25, Rn. 18 bis 23",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250923_2bvr062525.html",
         "application": "Pauschale Anlagenverweise und abweichender Sachverhalt ersetzen keine Auseinandersetzung mit tragenden Gründen.",
-        "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung."
+        "limit": "ANOM-Verfahren; Darlegungsmaßstab übertragbar, keine allgemeine Billigung fremder Datenerhebung.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BVerfG, Urteil vom 23. Juli 2026, 2 BvE 4/23, Rn. 83 bis 90, 109 bis 130",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/07/es20260723_2bve000423.html",
         "application": "Bei verkürzter Gesetzesberatung Fassungsstände, Informationszugang und Beteiligungsnachteil darlegen; früheren Eilstopp von verworfener Hauptsache trennen.",
-        "limit": "Kein individuelles Anhörungs- oder informelles Gesprächsteilnahmerecht; weder Gesetzesnichtigkeit noch allgemeine Billigung jeder Beschleunigung."
+        "limit": "Kein individuelles Anhörungs- oder informelles Gesprächsteilnahmerecht; weder Gesetzesnichtigkeit noch allgemeine Billigung jeder Beschleunigung.",
+        "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 24.03.2026, 2 BvL 3/18",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/03/ls20260324_2bvl000318.html",
+        "application": "Die Zweitveröffentlichungsermächtigung des § 44 Absatz 6 LHG Baden-Württemberg ist wegen der ausschließlichen Bundeskompetenz für Urheberrecht nichtig. Konkrete Rechtsgrundlage der verlangten Publikation ermitteln.",
+        "limit": "Keine generelle Unzulässigkeit von Open Access oder jeder Promotionspublikationspflicht. Satzungsautonomie erweitert die Landeskompetenz nicht.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Workflow-Review: Paragrafen 13, 93, 64 und 32 BVerfGG aktuell gelesen. Vorhandene ANOM-/GEG-Quellenprüfung samt Grenzen erhalten, nicht neu als vollständige Entscheidungsprüfung ausgegeben; materielle Grundrechte, Landesverfahren und Übermittlungswege nicht flächendeckend neu verifiziert.",
       "Amtliche tragende Passagen und aktuelle Fristnorm gelesen; keine vollständige Verifikation aller materiellen Grundrechts-, Parteien- oder Landesverfahren.",
       "Desk-/Quellenreview, kein Live-Mandat oder Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "verfassungsrecht/skills/organstreit-bundestag-fraktion-opposition/SKILL.md",
+        "verfassungsrecht/verfassungsrecht-schnellstart.md",
+        "verfassungsrecht/verfassungsrecht-werkstatt.md"
+      ],
+      "result": "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt.",
+      "search_2026": "2 BvL 3/18 neu gelesen und zur Kompetenzprüfung ergänzt. Bereits vorhandener 2 BvE 4/23 aus Juli 2026 bleibt mit seinem bisherigen Prüfstatus erhalten.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

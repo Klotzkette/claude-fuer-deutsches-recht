@@ -175,13 +175,27 @@
         "citation": "BGH, Urteil vom 20.09.2024, V ZR 195/23, Rn. 7–10 und 17",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_195-23.pdf?__blob=publicationFile&v=1",
         "application": "Abrechnungsfehler bis zur Einzelspitze durchrechnen; für Ungültigerklärung wegen eines Fehlers des Zahlenwerks ist Auswirkung auf Zahlungspflicht erforderlich, beschlossene Sollvorschüsse bleiben Ausgangspunkt.",
-        "limit": "Keine Freistellung von richtiger Rechnungslegung oder sonstigen Beschlussmängeln; besondere Umsatzsteueroption und Steuersätze 2020 nicht verallgemeinern."
+        "limit": "Keine Freistellung von richtiger Rechnungslegung oder sonstigen Beschlussmängeln; besondere Umsatzsteueroption und Steuersätze 2020 nicht verallgemeinern.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 19.07.2024, V ZR 102/23, Rn. 5–9",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZR_102-23.pdf?__blob=publicationFile&v=1",
         "application": "Nach dem 30.11.2020 formulierte Genehmigung von Gesamt- und Einzelabrechnungen objektiv als Festlegung von Abrechnungsspitzen auslegen statt allein wegen Wortwahl Nichtigkeit anzunehmen.",
-        "limit": "Auslegung anhand Beschluss und Anlagen; keine Bestätigung rechnerischer Richtigkeit oder sämtlicher Anforderungen ordnungsmäßiger Verwaltung."
+        "limit": "Auslegung anhand Beschluss und Anlagen; keine Bestätigung rechnerischer Richtigkeit oder sämtlicher Anforderungen ordnungsmäßiger Verwaltung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Urteil vom 24.04.2026, V ZR 102/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2024/V_ZR_102-24.pdf?__blob=publicationFile&v=1",
+        "application": "V ZR 102/24: Rn. 13–23 und 25–29 geprüft; Beschlusskompetenz trotz delegierter Balkonerhaltung, gesonderte Handlungspflicht und fortbestehende vereinbarte Kostenlast.",
+        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "V ZR 102/24: Rn. 13–23 und 25–29 geprüft; Beschlusskompetenz trotz delegierter Balkonerhaltung, gesonderte Handlungspflicht und fortbestehende vereinbarte Kostenlast.",
+        "previous_review": "quality/source-audits/2026-09-30/zivil-wirtschaft.md"
       }
     ],
     "remaining_limits": [
@@ -189,5 +203,19 @@
       "V ZR 102/23 und V ZR 195/23 amtlich im Volltext mit entscheidenden Gründen gelesen; weitere Schlüsseländerungs- und Bauträgerentscheidungen nicht neu verifiziert.",
       "Gewöhnlichen Abrechnungsskill nur gelesen, nicht geändert: dessen ungenaue Aussage zum Wirtschaftsplan als Beschlussgegenstand und pauschale Altanker bleiben außerhalb des Schreibbereichs."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 24.04.2026, V ZR 102/24",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

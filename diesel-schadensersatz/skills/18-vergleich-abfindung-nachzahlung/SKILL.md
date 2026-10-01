@@ -56,7 +56,7 @@ Aktiver Satz mit höchstens sechs Ankern. Die vollständige Zuordnung bleibt in 
 
 | Anker | Aussage für diesen Skill | Status |
 | --- | --- | --- |
-| BGH, Urt. v. 26.06.2023 - VIa ZR 335/21 (BGHZ 237, 245); VIa ZR 533/21; VIa ZR 1031/22 | Die gerichtliche Quote von 5 bis 15 Prozent des Kaufpreises ist der Maßstab, an dem jedes Herstellerangebot gemessen wird. | Bestätigt |
+| BGH, Urt. v. 26.06.2023 - VIa ZR 335/21 (BGHZ 237, 245); VIa ZR 533/21; VIa ZR 1031/22 | Die Quote von 5 bis 15 Prozent ist nur die Ausgangsgröße. Jedes Angebot mit dem Nettoanspruch nach Nutzungs-/Restwertanrechnung sowie Beweis-, Kosten- und Verjährungsrisiken vergleichen; vollständige Aufzehrung mitrechnen. | Bestätigt |
 | BGH, Urt. v. 25.05.2020 - VI ZR 252/19 (BGHZ 225, 316) | Bei tragfähiger Vorsatzlinie ist der Vergleichsmaßstab die volle Rückabwicklung abzüglich Nutzungsentschädigung. | Bestätigt |
 | BGH, Urt. v. 30.07.2020 - VI ZR 354/19; VI ZR 397/19 | Zinspositionen im Vergleich an §§ 286, 288, 291 BGB messen; § 849 BGB spielt keine Rolle. | Bestätigt |
 | EA288-Instanzsammlung: 131 Entscheidungen, references/ea288-rechtsprechung-instanzen.md | Das EA288-Betragsspektrum ist nur Vergleichsmaterial; Angebot zusätzlich gegen aktuelle Aufzehrungsrechnung, Kosten und Beweisrisiko messen. | Nutzermaterial, live prüfen |
@@ -92,7 +92,7 @@ Jede Partei kann diesen Vergleich durch Schriftsatz gegenüber dem Gericht bis z
 
 **Baustein 2 — Ablehnung eines Abfindungsangebots mit Gegenvorschlag:**
 
-Das mit Schreiben vom [Datum TT.MM.JJJJ] unterbreitete Abfindungsangebot über [Betrag in EUR] nimmt die Anspruchstellerin nicht an. Das Angebot entspricht lediglich [Quote in Prozent] des Kaufpreises von [Betrag in EUR] und bleibt damit hinter dem Erwartungswert zurück, der sich aus der Schätzbandbreite von 5 bis 15 Prozent des Kaufpreises nach § 287 ZPO (BGH, Urt. v. 26.06.2023 - VIa ZR 335/21), der Beweislage und dem Kostenrisiko ergibt; eine Kostenregelung enthält das Angebot nicht. Die Anspruchstellerin ist zur einvernehmlichen Erledigung bereit, wenn Sie bis zum [Datum TT.MM.JJJJ] die Zahlung von [Betrag in EUR] zuzüglich der entstandenen Rechtsverfolgungskosten anbieten. Nach fruchtlosem Fristablauf wird Klage erhoben beziehungsweise das anhängige Verfahren fortgesetzt.
+Das mit Schreiben vom [Datum TT.MM.JJJJ] unterbreitete Abfindungsangebot über [Betrag in EUR] nimmt die Anspruchstellerin nicht an. Das Angebot entspricht lediglich [Quote in Prozent] des Kaufpreises von [Betrag in EUR] und bleibt damit hinter dem Erwartungswert zurück, der sich aus der Schätzbandbreite von 5 bis 15 Prozent des Kaufpreises nach § 287 ZPO (BGH, Urt. v. 26.06.2023 - VIa ZR 335/21), der nachgewiesenen Nutzungs-/Restwertanrechnung sowie Beweislage, Verjährungs- und Kostenrisiko ergibt; eine Kostenregelung enthält das Angebot nicht. Die Anspruchstellerin ist zur einvernehmlichen Erledigung bereit, wenn Sie bis zum [Datum TT.MM.JJJJ] die Zahlung von [Betrag in EUR] zuzüglich der entstandenen Rechtsverfolgungskosten anbieten. Nach fruchtlosem Fristablauf wird Klage erhoben beziehungsweise das anhängige Verfahren fortgesetzt.
 
 **Baustein 3 — Annahmeerklärung mit Klarstellung der Zahlungsmechanik:**
 

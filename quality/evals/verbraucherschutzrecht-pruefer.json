@@ -48,6 +48,11 @@
       "checked_on": "2026-09-30",
       "supports": "Urteil 2026-02-11 – VIII ZR 37/24. Geprüft: Kopf/Leitsatz a und Rn. 25–40, Schwerpunkt 31–39. Anwaltlich erklärter Widerruf/Anfechtung kann nach erkennbarem Rückabwicklungsziel zugleich Rücktrittserklärung sein. Kein Automatismus; Empfängerhorizont zählt. Materielle Rücktrittsvoraussetzungen nicht abschließend beurteilt. Kauf2019/§434BGBaF nicht ungeprüft in heutiges Mängelrecht übertragen. Der weitere Komplex Wucher/Marktwert wurde nicht vertieft.",
       "source_sha256": "bcaeded64a0357403b3ee1a68961354b9d403793d2c5818745085569114f228e"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 16–36. Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend. Grenze: Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden."
     }
   ],
   "mini_review": {
@@ -60,7 +65,7 @@
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
       "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "fb7944f878f9dc8d07f3b6827c027c5402846c3ee88ea476134fc9991fb80d42",
+    "sha256": "4602c4b74bb2cb4d28301bdd2b8cb16e818fb77230f7896f093b01fbd8692b77",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -74,7 +79,7 @@
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
       "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
     ],
-    "sha256": "800886d2d2f7575db94146517772341d25685f1f83a707ad10237c4df6f96246",
+    "sha256": "8a3ab1c76f26bcdf553ccc33a6e2ed5f1a09e6c50b5369a09bc8590c314bc188",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
@@ -158,6 +163,14 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565",
         "application": "Bei Probeabo mit transparent mitgeteiltem späteren Gesamtpreis und unveränderten Bedingungen grundsätzlich einmaliges Widerrufsrecht; bei fehlender transparenter Information nach Testphase neues Recht, sofern ein bindender Vertrag besteht.",
         "limit": "Nationale Feststellung der Information erforderlich; keine Entscheidung über Paragraf 327r BGB, keine pauschale Wirksamkeit aller Verlängerungsklauseln; alte Richtlinienfassung im Ausgangsverfahren beachten."
+      },
+      {
+        "citation": "BGH, Urteil vom 16.07.2026 – I ZR 200/25, Kopf, Rn. 16–36",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1",
+        "application": "Bestätigungsseite des Kündigungsbuttons darf keine Rückgewinnungs-/Pausenangebote enthalten; zulässige Inhalte abschließend.",
+        "limit": "Angebote vor erster Schaltfläche gesondert; Beschriftung und Seiteninhalt verschiedene Verletzungsformen, individueller Endtermin nicht automatisch entschieden.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -167,5 +180,16 @@
       "Kein verifizierter spezifischer Entscheidungsanker zu Paragraf 327r oder neuer Widerrufsfunktion behauptet; Sofatutor bewusst auf Probeabo beschränkt.",
       "Reise-, Energie-, Finanz-, Gesundheits- und Pflege-Spezialrecht nicht vollständig neu verifiziert; bestehende differenzierte Prüfzweige erhalten."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "verbraucherschutzrecht-pruefer/skills/verbraucherrecht-abo-kuendigung-button/SKILL.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-schnellstart.md",
+      "verbraucherschutzrecht-pruefer/verbraucherschutzrecht-pruefer-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

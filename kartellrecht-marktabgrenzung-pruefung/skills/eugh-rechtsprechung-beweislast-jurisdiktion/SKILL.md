@@ -24,7 +24,7 @@ Vor Verwendung im Schriftsatz immer über [curia.europa.eu](https://curia.europa
 
 **EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission):** Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung. Drei getrennte Märkte für Fleischkonserven, Fischwaren und Metalldeckel.
 
-**EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission):** Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere Menschen) keine Substitution durch andere Früchte erlauben. Grundlage der qualitativen Bedarfsanalyse. Marktanteile 41-45 % als ausreichend für Marktbeherrschung anerkannt.
+**EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission):** Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere Menschen) keine Substitution durch andere Früchte erlauben. Grundlage der qualitativen Bedarfsanalyse. Aus der in Rn. 22–35 behandelten Marktabgrenzung folgt keine feste Marktanteilsschwelle für Marktbeherrschung; Marktstellung und Wettbewerbsbedingungen gesondert prüfen.
 
 **EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission):** Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig. Grundlegende Definition marktbeherrschender Stellung als "wirtschaftliche Machtstellung, die ein Unternehmen in die Lage versetzt, einen wirksamen Wettbewerb auf dem relevanten Markt zu verhindern, indem sie ihm die Möglichkeit verschafft, sich seinen Wettbewerbern, seinen Abnehmern und schließlich den Verbrauchern gegenüber in einem nennenswerten Umfang unabhängig zu verhalten".
 

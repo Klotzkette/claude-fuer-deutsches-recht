@@ -68,6 +68,21 @@
       "checked_on": "2026-09-30",
       "supports": "Urteil 2026-07-14 – XI ZR 46/25. Geprüft: Kopf/Leitsatz und Rn. 26–32. Kein freies Verbraucherwahlrecht zwischen Gesamtnichtigkeit und Vertragsfortbestand nach §306 BGB. Grenzen richtlinienkonformer Auslegung; unzumutbare Härte und eigene Voraussetzungen ergänzender Auslegung getrennt. Prämiensparfall, keine allgemeine Erlaubnis zur Reparatur missbräuchlicher Klauseln. Zinsreihen und weitere Feststellungsziele nicht neu geprüft.",
       "source_sha256": "765b3b49f52b87dde22d9205aaaf2d99d8fb47c3e9e71711f1be975b8f2caec6"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_129-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 17–44. Entgeltinformation nach §5ZKG kann AGB enthalten; konkrete standardisierte Gutschriftklausel erfasste keine Storno-/Berichtigungsbuchungen. Grenze: Informationsüberschrift entscheidet nicht allein über Regelungscharakter; keine pauschale Unwirksamkeit aller Buchungsgebühren."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 29–32 frisch; frühere18–32/38–40 wiederverwendet. Unbeschränkte Zustimmungsfiktion ist unwirksam; sachliche Änderungsreichweite prüfen. Grenze: Kein allgemeines Formerfordernis ausdrücklicher Zustimmung zu jeder Vertragsänderung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2016/XI_ZR_309-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 1–23; tragend11–20. Umfassendes Bank-Aufrechnungsverbot gegenüber Verbrauchern unwirksam, weil es Widerrufsrückabwicklung erfasst; §309Nr3 genügt nicht allein. Grenze: Konkrete Sparkassenklausel und damaliges Widerrufsrecht; keine pauschale Gleichsetzung aller B2B-Klauseln."
     }
   ],
   "mini_review": {
@@ -94,7 +109,7 @@
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
       "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt."
     ],
-    "sha256": "5e9108e85baa24375626c4da1aacfca9a069e5c92976a6edf16fa881e694a37a",
+    "sha256": "b9dd731e3959ebed2bbeac699e6b5ce27104d635eee0705eab44f88101801faa",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -187,10 +202,12 @@
         "limit": "Pakettransportfall; genaue vertragliche Funktion und gesetzliches Leitbild in anderen Branchen gesondert prüfen."
       },
       {
-        "citation": "BGH, Urteil vom 27.04.2021, XI ZR 26/20, Rn. 18–32, 38–40",
+        "citation": "BGH, Urteil vom 27.04.2021 – XI ZR 26/20, Kopf, Rn. 29–32 frisch",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2020/XI_ZR__26-20.pdf?__blob=publicationFile&v=1",
-        "application": "Unbeschränkte Umgestaltung mittels Zustimmungsfiktion wird nicht allein durch Vorankündigung und Kündigungsrecht wirksam; sachlichen Änderungsumfang prüfen.",
-        "limit": "Bank-AGB gegenüber Verbrauchern; Zweimonatsregel des Paragrafen 675g BGB ist keine allgemeine Branchenregel."
+        "application": "Unbeschränkte Zustimmungsfiktion ist unwirksam; sachliche Änderungsreichweite prüfen.",
+        "limit": "Kein allgemeines Formerfordernis ausdrücklicher Zustimmung zu jeder Vertragsänderung.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       },
       {
         "citation": "EuGH, Urteil vom 03.10.2019, C-260/18, Dziubak, Rn. 48, 51 und 62",
@@ -203,6 +220,22 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0191",
         "application": "Bei Verbraucher-Rechtswahl prüfen, ob die Klausel irreführend ausschließliches Sitzrecht suggeriert und den zwingenden Schutz nach Artikel 6 Absatz 2 Rom I verschweigt.",
         "limit": "Rechtswahl grundsätzlich zulässig; Einzelfallprüfung und tatsächliche Anknüpfung erforderlich, keine allgemeine Anwendung deutschen Rechts."
+      },
+      {
+        "citation": "BGH, Urteil vom 07.07.2026 – XI ZR 129/24, Kopf, Rn. 17–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR_129-24.pdf?__blob=publicationFile&v=1",
+        "application": "Entgeltinformation nach §5ZKG kann AGB enthalten; konkrete standardisierte Gutschriftklausel erfasste keine Storno-/Berichtigungsbuchungen.",
+        "limit": "Informationsüberschrift entscheidet nicht allein über Regelungscharakter; keine pauschale Unwirksamkeit aller Buchungsgebühren.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
+      },
+      {
+        "citation": "BGH, Urteil vom 20.03.2018 – XI ZR 309/16, Kopf, Rn. 1–23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2016/XI_ZR_309-16.pdf?__blob=publicationFile&v=1",
+        "application": "Umfassendes Bank-Aufrechnungsverbot gegenüber Verbrauchern unwirksam, weil es Widerrufsrückabwicklung erfasst; §309Nr3 genügt nicht allein.",
+        "limit": "Konkrete Sparkassenklausel und damaliges Widerrufsrecht; keine pauschale Gleichsetzung aller B2B-Klauseln.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -210,5 +243,16 @@
       "Keine vollständige neue Prüfung aller optionalen Spezialskills; 10 AZR 275/09 bleibt ausdrücklich ungeprüfter Recherchehinweis.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet. Paragraf 309 BGB war beim erneuten Abruf nicht erreichbar; vorhandene geprüfte Fassung und Nachweise beibehalten. Neu gelesen wurde Paragraf 306 BGB."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "agb-recht-pruefer/agb-recht-pruefer-werkstatt.md",
+      "agb-recht-pruefer/skills/agb-im-bankvertrag-sparkassen-und-banken/SKILL.md",
+      "agb-recht-pruefer/skills/bankvertrag-sparkassen-bauvertrag-vob/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

@@ -5,6 +5,8 @@ description: "Für Vergleich: entwickelt Ziel, Vergleich und Eskalation; Ergebni
 
 # Vergleich
 
+Bei einem Ausgleichsvergleich während der Kündigungsfrist Zugang der Kündigung und tatsächliches Vertragsende trennen: [EuGH, Urteil vom 23.04.2026 – C-204/25, Kempen Advies Beerse](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62025CJ0204), Rn. 23–36, versteht den Vertragsablauf nach Artikeln 15 Absatz 2 und 19 Richtlinie 86/653/EWG erst als Ablauf der Kündigungsfrist. Ein Zugang der Kündigung beendet den zwingenden Ausgleichsschutz nicht. Vor einer Verzichtsklausel daher Enddatum und Reichweite des Nachteils prüfen; eine Abweichung kann nach Rn. 29 nur zulässig sein, wenn ex ante feststeht, dass sie bei Vertragsende nicht nachteilig sein wird. Für den deutschen Fall Paragraf 89b Absatz 4 HGB anwenden; keine pauschale Unwirksamkeit jedes Vergleichs und keine unionsrechtliche Festsetzung der konkreten deutschen Kündigungsfrist.
+
 ## Wofür dieser Skill da ist
 Provision, Buchauszug, Ausgleich, Kundendaten, Wettbewerbsverbot, Steuer und Erledigung.
 

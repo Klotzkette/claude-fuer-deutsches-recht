@@ -722,13 +722,15 @@
         "citation": "BVerfG, Urteil vom17.12.2013, Az.1 BvR3139/08 und1 BvR3386/08, Rn.166,183.",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/rs20131217_1bvr313908.html",
         "application": "Gemeinwohlziel, Projekt und konkrete Flächenerforderlichkeit getrennt prüfen.",
-        "limit": "Bergrechtlicher Ausgangsfall, kein BauGB-Rechtswegbeleg und kein vorweggenommener Ausgang der Göttinger Akte."
+        "limit": "Bergrechtlicher Ausgangsfall, kein BauGB-Rechtswegbeleg und kein vorweggenommener Ausgang der Göttinger Akte.",
+        "checked_on": "2026-09-28"
       },
       {
         "citation": "BVerfG, Urteil vom06.12.2016, Az.1 BvR2821/11,1 BvR321/12 und1 BvR1456/12, Rn.243–246.",
         "url": "https://mkuem.rlp.de/fileadmin/14/Themen/Umweltschutz/Strahlenschutz/Urteil_BVG_zum_Verfassungsbeschwerdeverfahren.pdf",
         "application": "Zuordnungsänderung und Güterbeschaffung statt bloßer Belastungsintensität.",
-        "limit": "Atomrechtlicher Sachverhalt; keine pauschale Entschädigungsaussage für kommunale Verkehrsflächen."
+        "limit": "Atomrechtlicher Sachverhalt; keine pauschale Entschädigungsaussage für kommunale Verkehrsflächen.",
+        "checked_on": "2026-09-28"
       }
     ],
     "remaining_limits": [
@@ -736,6 +738,21 @@
       "Globale Veröffentlichung, Profile, Aggregate und Downloadpakete sind gesonderte Integration.",
       "Keine dokumentierte Live-Ausführung der zehn Evaluationsaufträge.",
       "Bericht 2023 und Sondervoten redaktionell ausgewertet; neue Evaluationsfälle sind nicht als Live-Modelllauf ausgeführt."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "enteignung-artikel-14/enteignung-artikel-14-schnellstart.md",
+        "enteignung-artikel-14/enteignung-artikel-14-werkstatt.md",
+        "enteignung-artikel-14/references/berliner-kommissionsbericht.md",
+        "enteignung-artikel-14/references/rechtsgrundlagen.md",
+        "enteignung-artikel-14/references/zitierweise.md",
+        "enteignung-artikel-14/skills/enteignungszweck-und-alternativen-pruefen/SKILL.md"
+      ],
+      "result": "Garzweiler wird für Gemeinwohlziel und konkrete Flächenerforderlichkeit, Atomausstieg für Güterbeschaffung herangezogen. Weder BauGB-Rechtsweg noch Entschädigung für kommunale Verkehrsflächen werden aus dem falschen Fall abgeleitet.",
+      "search_2026": "Keine passende neue 2026-Entscheidung zu Artikel 14 und konkreter Enteignung in den ausgewerteten amtlichen Treffern.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

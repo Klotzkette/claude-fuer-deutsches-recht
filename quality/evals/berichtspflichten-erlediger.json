@@ -115,13 +115,25 @@
         "citation": "BVerwG, Urteil vom 15. März 2017, 8 C 9.16, Randnummern 15 bis 24",
         "url": "https://www.bverwg.de/150317U8C9.16.0",
         "application": "Bei statistischer Heranziehung Auswahl und Rotation anhand Repräsentativität und übermäßiger Belastung prüfen.",
-        "limit": "Historisches Dienstleistungsstatistikrecht; keine automatische Entbindung von heutigen Meldungen."
+        "limit": "Historisches Dienstleistungsstatistikrecht; keine automatische Entbindung von heutigen Meldungen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Spezialstatistik, Auswahlbescheid und aktuelles Erhebungsprogramm sind nicht durch den historischen Dienstleistungsstatistikfall verifiziert.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "berichtspflichten-erlediger/berichtspflichten-erlediger-schnellstart.md",
+        "berichtspflichten-erlediger/berichtspflichten-erlediger-werkstatt.md"
+      ],
+      "result": "Statistische Rotation wird mit Auswahl und Belastung verbunden. Der 2017er Dienstleistungsstatistikfall wird nicht als allgemeiner Befreiungsanspruch von Meldungen eingesetzt.",
+      "search_2026": "Keine passenden Ergebnisse der gezielten amtlichen 2026-Suche zu statistischer Auskunft und Rotation.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

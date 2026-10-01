@@ -45,7 +45,7 @@ Prüfe Dokumentation und Vollständigkeit der Vertragsabrede auch dann streng, w
 ### 2.4 Landpachtrechtsprechung
 
 - BGH, Urteil vom 06.11.2020 - LwZR 5/19: Bei einer Gesellschaft bürgerlichen Rechts als Partei eines langfristigen Vertrags konnte die Unterschrift nur eines Gesellschafters ohne Vertretungszusatz die damalige Schriftform verfehlen. Für heutige Verträge die geänderte Textform und für Altfälle das Übergangsrecht voranstellen.
-- BGH, Beschluss vom 29.04.2016 - LwZB 2/15: Ein anzeigepflichtiger Landpachtvertrag kann wegen ungesunder Verteilung der Bodennutzung beanstandet und gerichtlich aufgehoben werden; die gerichtliche Prüfung wird nicht durch eine behauptete anderweitige Unwirksamkeit überflüssig.
+- BGH, Beschluss vom 29.04.2016 - BLw 2/15: Ein anzeigepflichtiger Landpachtvertrag kann wegen ungesunder Verteilung der Bodennutzung beanstandet und gerichtlich aufgehoben werden; die gerichtliche Prüfung wird nicht durch eine behauptete anderweitige Unwirksamkeit überflüssig.
 - BGH, Urteil vom 28.04.2017 - LwZR 4/16: Bei als Ackerland verpachteten Flächen kann ordnungsmäßige Bewirtschaftung verlangen, die Ackerlandeigenschaft durch rechtzeitigen Umbruch zu erhalten; ein Mitverschulden des sachkundigen Verpächters ist gesondert zu prüfen.
 
 ## 3. Hofnachfolgespur

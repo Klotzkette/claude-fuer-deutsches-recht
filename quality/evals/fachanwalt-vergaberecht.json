@@ -226,13 +226,15 @@
         "citation": "BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
         "application": "Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen.",
-        "limit": "Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen."
+        "limit": "Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "EuGH, Beschluss vom 03.02.2026 – C-316/25, Regione Umbria, Tenor",
         "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62025CO0316_INF",
         "application": "Leistungseinkauf gegen Entgelt ist nicht allein wegen öffentlicher Rechtsform vergabefreie Kooperation. Amtliche Entscheidungsinformation mit Tenor gelesen.",
-        "limit": "Italienischer Registervertrag; kein behaupteter Volltextabruf. Inhouse-Kontrolle und heutiger § 108 GWB getrennt prüfen."
+        "limit": "Italienischer Registervertrag; kein behaupteter Volltextabruf. Inhouse-Kontrolle und heutiger § 108 GWB getrennt prüfen.",
+        "checked_on": "2026-09-30"
       }
     ],
     "remaining_limits": [
@@ -242,7 +244,22 @@
       "Desk-/Quellenreview mit Nachrechnung, kein Live-Mandanten- oder Modelltest.",
       "Workflow-Review 23.09.2026: Paragraf 56 VgV erneut eingesehen; dokumentierte Volltextprüfung von X ZB 3/17 und geänderten GWB-Normen aus der vorhandenen Redaktion erhalten. Keine neue Landes- oder Schwellenwertvollprüfung.",
       "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md",
+        "fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md",
+        "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
+        "fachanwalt-vergaberecht/skills/fachanwalt-vergaberecht-inhouse-interkommunal/SKILL.md",
+        "fachanwalt-vergaberecht/skills/inhouse-interkommunal/SKILL.md"
+      ],
+      "result": "Notenmodell und dokumentierte Angebotswertung werden unterschieden. C-316/25 nur mit gelesenem amtlichem Tenor belegt; zwei vom Datumsscan gemeldete Konflikte sind Prüftag 30.09. versus Entscheidungsdatum 03.02.2026, keine falschen Entscheidungsdaten.",
+      "search_2026": "2026-Suche lieferte überwiegend Ergebnislisten; bestehender C-316/25 bleibt auf amtlichen Tenor aus der Vorprüfung beschränkt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

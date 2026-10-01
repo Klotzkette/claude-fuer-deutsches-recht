@@ -16,6 +16,10 @@ Untersuche zuerst den materiellen Vorgang, etwa Bestellung oder Satzungsänderun
 
 Ordne Gesellschafterliste, Handelsregistereintragung und Transparenzregistermeldung getrennt zu. Auslandsurkunden brauchen eine eigene Prüfung von Herkunft, Vertretungsnachweis, Übersetzung und gegebenenfalls Echtheitsnachweis. Fordere nicht reflexhaft für jedes ausländische Dokument dieselben Förmlichkeiten.
 
+[BGH, 18.02.2026 – II ZB 2/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1), Rn. 20–25, 32–38: Überschießende Privatdaten nach Einwilligungswiderruf durch ordnungsgemäße Ersatzfassung aus dem öffentlichen Registerordner entfernen; Pflichtdaten und nicht öffentliche Ursprungsakte bleiben gesondert. Datenpflicht und Ersatzfassung konkret klären.
+
+[BGH, 25.02.2026 – II ZB 13/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1), Rn. 8–29: Geprüfte österreichische Onlinebeglaubigung nicht gleichwertig. Identifizierung und abstrakte Verfahrensgarantien prüfen; keine Aussage gegen alle ausländischen Präsenzurkunden.
+
 ## 1.3 Beanstandung abarbeiten
 
 Zerlege jede gerichtliche Beanstandung in Wortlaut, behauptetes Hindernis, geforderten Nachweis und Bearbeitungsfrist. Unterscheide Zwischenverfügung wegen eines behebbaren Hindernisses und Ablehnung. Paragraf 382 Absatz 4 FamFG sieht für unvollständige Anmeldungen oder andere behebbare Hindernisse eine angemessene Beseitigungsfrist und die Anfechtbarkeit mit Beschwerde vor. Bestimme Rechtsbehelf und Frist anhand der konkreten Entscheidung und Bekanntgabe; übernimm keine Standardfrist aus anderen Verfahren.

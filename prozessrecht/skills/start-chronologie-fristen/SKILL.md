@@ -203,6 +203,8 @@ Das Plugin richtet sich an Generalisten-Kanzleien, die Zivilprozesse fuehren, so
 
 ## Quellen und Aktualitaet
 
+Bei technischer Störung und Ersatzfax wende [BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1) an: Dokumentiere Zeitpunkt, konkrete Fehlermeldungen und weshalb gerade die elektronische Übermittlung unmöglich war; eine allgemeine Meldung über Einschränkungen reicht nicht. Ein Computerfax mit bloßem Hinweis auf elektronische Signatur erfüllt die Unterschriftsanforderungen nicht. Für die versäumte Berufungsbegründung Hinderniswegfall, Monatsfrist und Nachholung gesondert erfassen; eine längere gerichtliche Stellungnahmefrist verlängert diese Frist nicht. Das Scheitern eines nur vorsorglich versuchten Faxwegs ist nur relevant, soweit dieser Weg überhaupt zumutbar geboten war. Der Beschluss verweist zurück und gewährt keine automatische Wiedereinsetzung.
+
 - Stand: 05/2026
 - ZPO in geltender Fassung
 - GKG und RVG in geltender Fassung

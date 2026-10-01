@@ -126,14 +126,26 @@
         "citation": "BVerfG, Kammerbeschluss vom 27.05.2020, 2 BvR 121/14, Rn. 37 bis 42",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/05/rk20200527_2bvr012114.html",
         "application": "Staatlichen Angriff gegen schiedsgerichtlichen Ausschluss auf kontrollierbare Rechts-, Verfahrens-, Tatsachen- oder Missbrauchsfehler stützen.",
-        "limit": "Keine eigene politische Zweckmäßigkeitsbewertung; keine Übertragung auf Geheimwahlpflicht oder Beschränkung der anwaltlichen Prüfung eines Ausschlussantrags."
+        "limit": "Keine eigene politische Zweckmäßigkeitsbewertung; keine Übertragung auf Geheimwahlpflicht oder Beschränkung der anwaltlichen Prüfung eines Ausschlussantrags.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Kammerbeschluss in entscheidenden amtlichen Abschnitten und PartG Paragrafen 10/15 neu geprüft; keine Prüfung individueller Satzungen oder sämtlicher Finanzierungsgrenzen.",
       "Desk-Review ohne Wahl- oder Modelltest.",
       "Workflow-Nachprüfung 2026-09-23: PartG Paragrafen 10 und 15 erneut gelesen, Paragraf 14 geöffnet. BVerfG-URL diesmal HTTP 403; vorheriger datierter Quellenreview bleibt erhalten und wird nicht als heutige Volltextverifikation ausgegeben. Keine individuelle Satzung, Wahlsoftware, Rechenschaftsbuchung oder aktuelle Finanzierungsschwelle vollgeprüft."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-schnellstart.md",
+        "parteienrecht-parteiorganisation/parteienrecht-parteiorganisation-werkstatt.md"
+      ],
+      "result": "Staatliche Kontrolle des Parteiausschlusses ist auf Rechts-, Verfahrens-, Tatsachen- und Missbrauchsfehler bezogen. Die Beratung selbst wird dadurch nicht auf bloße Willkürprüfung verkürzt.",
+      "search_2026": "Exakte amtliche Suche nach 2026-Parteiausschlussentscheidungen ohne passenden Treffer.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

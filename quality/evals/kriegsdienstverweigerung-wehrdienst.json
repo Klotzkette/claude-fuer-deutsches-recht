@@ -181,14 +181,36 @@
         "citation": "BVerwG, Beschluss vom 03.08.2018, 6 B 124.18, Rn. 10 bis 15",
         "url": "https://www.bverwg.de/030818B6B124.18.0",
         "application": "Persönliche verbindliche Gewissensentscheidung und nachvollziehbarer Wandel nach Waffendienst; allmähliche Entwicklung möglich.",
-        "limit": "Gerichtliche Aufklärung beim Berufssoldaten, keine Anerkennungsautomatik oder Pflicht zum Schlüsselerlebnis; behördliche Anhörung bleibt gesondert."
+        "limit": "Gerichtliche Aufklärung beim Berufssoldaten, keine Anerkennungsautomatik oder Pflicht zum Schlüsselerlebnis; behördliche Anhörung bleibt gesondert.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Aktuelle KDVG-Kernvorschriften und WPflG Paragraf 2 amtlich geprüft; keine umfassende Prüfung einzelner Befehle, Entlassungsfolgen oder aktueller Verwaltungskapazitäten.",
       "Keine Live-Anhörung und kein Modelltest.",
       "2026-09-23: Workflow-Desk-Review. Bestehende Profil-URLs erneut aufgerufen; nach Zeitüberschreitungen bei KDVG-Einzelnormen amtliche Gesamtfassung für Paragrafen 2, 5 und 6 gelesen. WPflG Paragraf 2, KDVG Paragrafen 3/13, BAFzA-Hinweise und BVerwG 6 B 124.18 Rn. 10–15 erneut zugänglich. Keine Prüfung individueller Befehle, keine Anhörung, keine Anerkennungsprognose oder Live-Client-Ausführung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-schnellstart.md",
+        "kriegsdienstverweigerung-wehrdienst/kriegsdienstverweigerung-wehrdienst-werkstatt.md",
+        "kriegsdienstverweigerung-wehrdienst/references/quellenkarte-kdv-wehrdienst.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/begruendung-fuer-aktive-soldaten/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/beweislast-und-ueberzeugungsbildung/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/bverwg-2018-innere-umkehr/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/gewissensentscheidung-massstab-glossar-kdv/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/innere-umkehr-gediente/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/kaltstart-triage/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/lebensfuehrung-und-plausibilitaet/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/lebenslauf-luecken-und-widersprueche/SKILL.md",
+        "kriegsdienstverweigerung-wehrdienst/skills/schluesselerlebnis-wandel-schriftliche/SKILL.md"
+      ],
+      "result": "Gewissensentwicklung darf allmählich erfolgen. Vorheriger Waffendienst führt weder automatisch zur Ablehnung noch verlangt der Text ein bestimmtes Schlüsselerlebnis.",
+      "search_2026": "Suche nach 2026-Gewissensentscheidungen ergab ältere Fälle (6 B 124.18, 6 B 63.23), keinen neuen tragfähigen Fall.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

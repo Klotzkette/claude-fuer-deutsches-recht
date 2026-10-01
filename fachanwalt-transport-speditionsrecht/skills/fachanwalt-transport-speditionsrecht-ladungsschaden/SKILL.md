@@ -7,7 +7,7 @@ description: "Für Ladungsschaden – Innerdeutscher Frachtverkehr (HGB): ordnet
 
 ## Kernsachverhalt & Mandantenfragen
 
-Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tausende von Transporten. Die HGB-Haftung ist konzeptionell ähnlich wie die CMR, aber nicht identisch. Besonders praxisrelevant: Die Möglichkeit, bei qualifiziertem Verschulden nach § 435 HGB die Haftungsobergrenze von 8.33 SZR/kg zu durchbrechen – was die BGH-Rechtsprechung bei Organisationsmängeln großzügig bejaht.
+Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tausende von Transporten. Die HGB-Haftung ist konzeptionell ähnlich wie die CMR, aber nicht identisch. Besonders praxisrelevant: Die Möglichkeit, bei qualifiziertem Verschulden nach § 435 HGB die Haftungsobergrenze von 8.33 SZR/kg zu durchbrechen – wofür Vorsatz oder Leichtfertigkeit mit Schadensbewusstsein konkret nachzuweisen ist; ein Organisationsmangel allein genügt nicht.
 
 **8 Kaltstart-Rückfragen:**
 
@@ -37,7 +37,7 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 | § 431 HGB | Haftungshöchstbetrag: 8.33 SZR/kg Bruttogewicht; bei Verspätung dreifache Fracht |
 | § 432 HGB | Ersatz von Zoll, Steuern und sonstigen Kosten bei vollständigem Verlust |
 | § 435 HGB | Qualifiziertes Verschulden: Vorsatz oder Leichtfertigkeit mit Bewusstsein = unbegrenzte Haftung |
-| § 437 HGB | Regressansprüche: gegen aufeinanderfolgende Frachtführer und Unterfrachtführer |
+| § 437 HGB | Direkte Haftung des ausführenden Frachtführers; Gesamtschuld mit dem vertraglichen Frachtführer |
 | § 438 HGB | Schadensanzeige: sofort / 7 Tage / 21 Tage; Beweiswirkung |
 | § 439 HGB | Verjährung: 1 Jahr; 3 Jahre bei Vorsatz oder gleichstehendem Verschulden |
 | § 449 HGB | Wertdeklaration: Abweichung vom Haftungshöchstbetrag nach oben |
@@ -46,6 +46,10 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 | § 459 HGB | Fixkosten-Spediteur: Frachtführerhaftung bei fest vereinbartem Preis |
 
 ---
+
+## 1. Vertragsabrede und Beginn der Obhut
+
+Bei einem Verladeunfall zuerst die vertragliche Aufgabenverteilung klären. BGH, Urteil vom 18.06.2026 – I ZR 125/25, [Rn. 14–25, 35](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1): Die ausdrücklich vereinbarte Bereitstellung eines bestimmten Verladungsmittels durch den Frachtführer spricht regelmäßig dafür, dass er auch die Verladung schuldet. Dann beginnt seine Obhut schon mit Besitzergreifung zum Verladen. Eine bloß vorhandene Hebebühne oder tatsächliche Fahrerhilfe genügt für diese Vertragsabweichung nicht allein. Auftrag, Gerätezusage und bisherige Vertragsdurchführung anfordern; Obhutsbeginn anschließend berichtigen. Haftungsausschluss, Mitverschulden und Schaden bleiben gesondert zu prüfen; die Zurückverweisung sprach keinen endgültigen Vollersatz zu.
 
 ## Leitentscheidungen
 
@@ -65,13 +69,13 @@ Ein Ladungsschaden im innerdeutschen Strassenfrachtverkehr betrifft täglich Tau
 | 5 | Haftungsausschlüsse: unvermeidbare Ereignisse, Sorgfalt ordentlicher Frachtführer | § 426 HGB |
 | 6 | Privilegierungstatbestände: offenes Fahrzeug, unzureichende Verpackung, Schüttgut | § 427 HGB |
 | 7 | Schadensberechnung: Verkehrswert am Übernahmeort × Schadensquote | § 429 HGB |
-| 8 | Haftungshöchstbetrag: kg × 8.33 SZR × SDR-Tageskurs (Zahlungstag) | § 431 HGB |
+| 8 | Haftungshöchstbetrag: kg × 8.33 SZR × SZR-Kurs am Übernahmetag oder vereinbarten Tag (§ 431 Abs. 4 HGB) | § 431 HGB |
 | 9 | Wertdeklaration § 449 HGB prüfen: im Frachtvertrag vereinbart? Höchstbetrag aufgehoben? | § 449 HGB |
 | 10 | Qualifiziertes Verschulden § 435 HGB: Organisationsmangel? Fehlende Scans? Unsicherer Stellplatz? | § 435 HGB |
 | 11 | Reklamationsfrist § 438 HGB: sofort / 7 Tage / 21 Tage; schriftlich und nachweisbar? | § 438 HGB |
-| 12 | Verjährung § 439 HGB: 1 Jahr / 3 Jahre; Hemmung durch Reklamation bis schriftliche Ablehnung | § 439 HGB |
+| 12 | Verjährung § 439 HGB: 1 Jahr / 3 Jahre; Hemmung durch Anspruchserhebung bis Ablehnung, jeweils in Textform | § 439 HGB |
 | 13 | ADSp-Prüfung: wirksam einbezogen? Inhaltskontrolle nach §§ 307 ff. BGB | § 449 HGB |
-| 14 | Regressansprüche § 437 HGB: gegen Unterfrachtführer; wer hat die Sendung tatsächlich befördert? | § 437 HGB |
+| 14 | Regress aus Unterfrachtvertrag und gegebenenfalls Gesamtschuldnerausgleich getrennt prüfen; § 437 betrifft die Außenhaftung | §§ 407, 425 HGB; § 426 BGB |
 
 ---
 
@@ -110,7 +114,7 @@ Sehr geehrte Damen und Herren,
 
 ich zeige die anwaltliche Vertretung der [Mandantschaft] an.
 
-I. SACHVERHALT
+1. SACHVERHALT
 
 Die Sendung [Bezeichnung], Bruttogewicht [X] kg, Warenwert
 EUR [Betrag] (Handelsrechnung Anlage K1), wurde am [Datum]
@@ -121,30 +125,31 @@ Am [Datum] wurde die Sendung am Zielort [Ort] wie folgt
 beschädigt/unvollständig übergeben: [Beschreibung].
 Schadensprotokoll Anlage K3, Fotos Anlage K4.
 
-II. REKLAMATION
+2. REKLAMATION
 
 Reklamation gemäß § 438 HGB erfolgte mit Schreiben vom
-[Datum] (Anlage K5, fristgerecht innerhalb 7 Tage nach
-Entdeckung des verdeckten Schadens).
+[Datum] (Anlage K5, innerhalb von sieben Tagen nach Ablieferung abgesandt;
+Textform und Absendung sind belegt).
 
-III. HAFTUNG
+3. HAFTUNG
 
 Die Beklagte haftet aus § 425 Abs. 1 HGB. Haftungsaus-
 schlüsse § 426 HGB greifen nicht. Hilfsweise: Privilegierung
 § 427 HGB liegt nicht vor, da die Verpackung bei Übernahme
 ordnungsgemäß war (Anlage K6: Übernahmefotos).
 
-IV. QUALIFIZIERTES VERSCHULDEN § 435 HGB
+4. QUALIFIZIERTES VERSCHULDEN § 435 HGB
 
 Die Beklagte hat leichtfertig im Bewusstsein des wahrschein-
 lichen Schadenseintritts gehandelt:
-– Kein Eingangsscan bei Übernahme im Depot [Ort]
-– Kein Nachweis des letzten Kontaktpunkts mit der Sendung
-– Fahrzeug war [X Stunden] auf unbewachtem Parkplatz abgestellt
+[Konkretes zurechenbares Verhalten, besonders schwere Pflichtverletzung
+und Tatsachen für das Bewusstsein wahrscheinlichen Schadenseintritts
+ausformulieren und belegen.] Fehlende Scans oder ein unbewachter
+Parkplatz allein tragen diese Schlussfolgerung nicht. Sind die
+Voraussetzungen belegt, entfällt die gesetzliche Haftungsbegrenzung;
+andernfalls ist die begrenzte Forderung gesondert zu berechnen.
 
-Die Haftungsbegrenzung § 431 HGB entfällt.
-
-V. SCHADENSHÖHE
+5. SCHADENSHÖHE
 
 Warenwert: EUR [X] (Anlage K1)
 Frachtanteil § 432 HGB (bei Totalverlust): EUR [X]
@@ -153,8 +158,7 @@ Gutachterkosten: EUR [X]
 
 GESAMTFORDERUNG: EUR [X]
 
-Wir fordern Zahlung bis [Datum 14 Tage]. Bei Ausbleiben
-werden wir klagen. Verjährungsende § 439 HGB: [Datum].
+Wir fordern Zahlung bis [Datum 14 Tage]. Bei Ausbleiben werden wir die beauftragten weiteren Schritte prüfen. Verjährungsende § 439 HGB: [Datum].
 
 Mit freundlichen Grüßen
 [Unterschrift, Kanzlei]
@@ -165,7 +169,7 @@ Mit freundlichen Grüßen
 ```
 KLAGEERWIDERUNG
 
-I. PRIVILEG § 427 ABS. 1 NR. 2 HGB (fehlende Verpackung)
+1. PRIVILEG § 427 ABS. 1 NR. 2 HGB (fehlende Verpackung)
 
 Die Sendung war bei Übernahme unzureichend verpackt.
 Dies ergibt sich aus: [Frachtbrief-Vermerk "Verpackung mangel-
@@ -175,7 +179,7 @@ Der Frachtführer hat die Unzulänglichkeit bei Übernahme
 dokumentiert und Beförderung unter Vorbehalt durchgeführt.
 Das typische Risiko solcher Verpackung hat sich realisiert.
 
-II. KEIN QUALIFIZIERTES VERSCHULDEN § 435 HGB
+2. KEIN QUALIFIZIERTES VERSCHULDEN § 435 HGB
 
 Der Frachtführer betreibt ein vollständiges Kontrollsystem:
 – Eingangsscan bei Übernahme (Anlage B3)
@@ -184,7 +188,7 @@ Der Frachtführer betreibt ein vollständiges Kontrollsystem:
 – Abgesicherter Parkplatz [Standort] mit Videoüberwachung
 
 
-III. HILFSWEISE HAFTUNGSHÖCHSTBETRAG § 431 HGB
+3. HILFSWEISE HAFTUNGSHÖCHSTBETRAG § 431 HGB
 
 Selbst wenn Haftung besteht, ist sie auf § 431 HGB begrenzt:
 [X] kg × 8.33 SZR × SDR-Kurs EUR [Z] = EUR [Betrag].
@@ -202,7 +206,7 @@ Beklagter: [Unterfrachtführer]
 
 Streitwert: EUR [bereits gezahlter Betrag]
 
-KLAGE auf Regress gemäß § 437 HGB
+KLAGE auf Schadensersatz aus dem Unterfrachtvertrag gemäß §§ 407, 425 HGB
 
 Der Kläger hat an den Auftraggeber [Name] EUR [X] als
 Schadensersatz für den Ladungsschaden aus dem Transport
@@ -212,8 +216,13 @@ Der Schaden entstand nach Übergabe der Sendung an den
 Beklagten als Unterfrachtführer in [Ort] am [Datum]
 (Übergabe-Protokoll Anlage K1 ohne Schäden).
 
-Gemäß § 437 HGB (Rückgriff gegenüber Unterfrachtführer)
-ist der Beklagte verpflichtet, den Schaden zu erstatten.
+Der Beklagte schuldet aus dem Unterfrachtvertrag vom [Datum] nach
+§§ 407, 425 HGB Ersatz des während seiner Obhut eingetretenen
+Schadens. Die Anspruchsberechtigung und Schadenshöhe ergeben sich
+aus [konkrete vertragliche Stellung, Haftung und Zahlungsbeleg].
+Ein daneben bestehender Gesamtschuldnerausgleich nach § 426 BGB
+ist nach Haftungsanteilen und Erfüllung gesondert zu begründen.
+§ 437 HGB allein ist keine selbständige Regressgrundlage.
 
 ANTRAG:
 Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
@@ -221,10 +230,9 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 [Ort, Datum, Unterschrift]
 ```
 
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
-2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+## 2. Vor Versand klären
+
+Forderungsziel, belegten Mindestbetrag, Vergleichsgrenze und Fristsicherung festhalten. Fehlende Übergabe- oder Zahlungsnachweise konkret nachfordern; nach Antwort Haftungsweg, Rechnung und bestellten Text vervollständigen. Kein ungefragter Klageauftrag.
 
 ---
 
@@ -242,12 +250,12 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Frist | Inhalt | Norm |
 |---|---|---|
-| Sofort bei Annahme | Äußerlich erkennbarer Schaden/Verlust: schriftlicher Vorbehalt im Frachtbrief | § 438 Abs. 1 HGB |
-| 7 Tage nach Ablieferung | Verdeckter (nicht erkennbarer) Schaden: schriftliche Anzeige | § 438 Abs. 2 HGB |
-| 21 Tage nach Ablieferung | Verspätungsanzeige | § 438 Abs. 4 HGB |
-| 1 Jahr | Reguläre Verjährung: ab Ablieferungstag (bei Verlust: 30 Tage nach vereinbarter Lieferfrist) | § 439 Abs. 2 HGB |
+| Spätestens bei Ablieferung | Äußerlich erkennbarer Schaden/Verlust hinreichend deutlich anzeigen; Textform nach Ablieferung | § 438 Abs. 1, 4 und 5 HGB |
+| 7 Tage nach Ablieferung | Verdeckter Schaden: Anzeige in Textform, rechtzeitige Absendung genügt; Versäumnis bewirkt Vermutung | § 438 Abs. 2 und 4 HGB |
+| 21 Tage nach Ablieferung | Verspätungsanzeige; bei Versäumnis Anspruchserlöschen | § 438 Abs. 3 und 4 HGB |
+| 1 Jahr | Reguläre Verjährung ab Ablauf des Ablieferungstags; bei Nichtablieferung ab Ablauf des Tages, an dem hätte abgeliefert werden müssen; Rückgriffs-Sonderbeginn gesondert prüfen | § 439 Abs. 2 HGB |
 | 3 Jahre | Verlängerte Verjährung bei Vorsatz oder gleichstehendem Verschulden | § 439 Abs. 1 S. 2 HGB |
-| Hemmung | Durch schriftliche Reklamation bis schriftliche Ablehnung | § 439 Abs. 3 HGB |
+| Hemmung | Durch Anspruchserhebung und Ablehnung in Textform; gleiche erneute Erklärung hemmt nicht nochmals | § 439 Abs. 3 HGB |
 
 ---
 
@@ -255,9 +263,9 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 | Gegenargument | Erwiderung |
 |---|---|
-| "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Unterschreitung des gesetzlichen Höchstbetrags nicht wirksam; § 435 HGB-Haftung gilt zwingend bei qualifiziertem Verschulden und kann nicht abbedungen werden |
+| "Wir haften maximal 8.33 SZR/kg; mehr ist vertraglich ausgeschlossen" | § 449 HGB: Individualvereinbarung, zulässige AGB-Abweichung und Verbraucherschutz getrennt prüfen; nicht jede Unterschreitung ist unwirksam. § 435 HGB gesondert nach Tatbestand und wirksamer Vertragslage prüfen |
 | "Frachtbrief-Vorbehalt fehlt; Anspruch erloschen" | § 438 HGB begründet nur Beweisvermutung zugunsten Frachtführer, keinen materiellen Anspruchsverlust; Schaden kann trotzdem bewiesen werden |
-| "Schaden entstand durch unzureichende Verpackung" | § 427 HGB Abs. 1 Nr. 2: Frachtführer muss beweisen, dass Verpackungsmangel erkennbar war und er Vorbehalt eingetragen hat; stille Übernahme schließt diesen Einwand aus |
+| "Schaden entstand durch unzureichende Verpackung" | § 427 Abs. 1 Nr. 2 und Abs. 2 HGB: ungenügende Verpackung durch den Absender und mögliche Schadensursächlichkeit konkret belegen; ein fehlender Vorbehalt sperrt den Einwand nicht automatisch |
 
 ---
 
@@ -266,7 +274,7 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 | Position | Berechnung |
 |---|---|
 | Vollhaftung § 435 HGB | Voller Warenwert gemäß Handelsrechnung; erheblich höher |
-| Anwaltsgebühren Gegenstandswert EUR 30.000 | Ca. EUR 2.400 netto (VV-RVG 2300) |
+| Anwaltsgebühren Gegenstandswert EUR 30.000 | Nach geltender RVG-Tabelle, maßgeblicher Gebühr und konkretem Auftrag berechnen; keine ungeprüfte Pauschale |
 | Sachverständigengutachten | EUR 1.500–5.000; als Schadensposition bei § 435 HGB-Erfolg erstattungsfähig |
 | Gerichtskosten AG (bis EUR 10.000) / LG (über EUR 10.000) | Nach GKG Anlage 2 |
 
@@ -296,3 +304,7 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 ## Quellen
 
 > Quellenregel: Entscheidungen nur nach Prüfung einer amtlichen oder frei zugänglichen Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage ausgeben.
+
+## 3. Quellen- und Ausgabekontrolle
+
+Amtliche Normen: [HGB § 431](https://www.gesetze-im-internet.de/hgb/__431.html), [§ 437](https://www.gesetze-im-internet.de/hgb/__437.html), [§ 438](https://www.gesetze-im-internet.de/hgb/__438.html), [§ 439](https://www.gesetze-im-internet.de/hgb/__439.html), [§ 449](https://www.gesetze-im-internet.de/hgb/__449.html). Vollständige ausformulierte Anträge, Tatsachen und Begründungen liefern; Platzhalter nur für fehlende Aktenangaben. Times New Roman 11 pt und dezimale Gliederung beim Export.

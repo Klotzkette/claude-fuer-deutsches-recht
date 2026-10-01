@@ -88,6 +88,8 @@ Bei Berufungsvereinbarungen Ausstattung, Dauer, Verstetigung, Widerruf, Zuständ
 
 Prüfe Bewilligung, Nebenbestimmungen, Arbeitsprogramm, Mittelverwendung und Berichte. Bei möglicher Rückforderung konkrete Pflicht, behauptete Abweichung und Entscheidungsgrundlage untersuchen. Fehlt der Verwendungsnachweis, passende Unterlagen nachfordern und danach Beträge, Stellungnahme oder Förderantrag aktualisieren. Publikationsfreiheit, Rechtezuordnung und Haushaltsbindung gesondert beachten.
 
+[BVerfG, Beschluss vom 24.03.2026 – 2 BvL 3/18](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/03/ls20260324_2bvl000318.html), Rn. 49–50, 58–59 und 67–68: Die baden-württembergische Satzungsermächtigung zur Zweitveröffentlichung in Paragraf 44 Absatz 6 LHG ist wegen der ausschließlichen Bundeskompetenz für Urheberrecht nichtig. Prüfe deshalb, ob die verlangte Veröffentlichung auf dieser Ermächtigung, einem Vertrag oder einer anderen Regel beruht. Hochschuleigene Satzungsautonomie erweitert die Gesetzgebungskompetenz des Landes nicht. Die Entscheidung verbietet nicht allgemein Open Access oder jede Promotionspublikationspflicht.
+
 ### 1.5.2. Erfindungen und Ausgründung
 
 Bei Hochschulerfindungen ArbEG, bei Software gegebenenfalls Paragraf 69b UrhG sowie Arbeits- und Drittmittelvertrag prüfen. Urheberschaft, Erfindungsbeitrag, Meldung, Rechteinhaberschaft, Verwertung und Publikation trennen.

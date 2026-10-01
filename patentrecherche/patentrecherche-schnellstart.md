@@ -20,6 +20,8 @@ PatG Paragraf 3 unterscheidet öffentlich zugänglichen Stand der Technik und be
 
 Nach [EPA, Technische Beschwerdekammer 3.2.2, Entscheidung vom 01.09.1989, Az. T 305/87, Nummer 5.3](https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf) genügt auch ein einziges Dokument nicht, wenn die Merkmale nur in getrennten Ausführungsformen stehen und das Dokument ihre Kombination nicht selbst nahelegt. Ordne deshalb jedes Merkmal seiner Ausführungsform zu. Der Maßstab zu Artikel 54 EPÜ entscheidet über Neuheit; eine Kombination wegen Naheliegens nach Artikel 56 EPÜ beziehungsweise Paragraf 4 PatG ist gesondert zu begründen.
 
+[BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1): Zweckangabe und zwingenden Verfahrensschritt aus Anspruch und Beschreibung unterscheiden. Ausgangspunkt und Suche in einem fremden Fachgebiet durch konkrete technische Anlässe am Prioritätstag begründen. Weder gleiche Branche noch bloße Eignung entscheiden automatisch.
+
 ## 1.3. Familien und Rechtsstand
 
 Fasse verwandte Dokumente zur Übersicht zusammen, ohne sie als technisch oder rechtlich identisch zu behandeln. Anspruchsfassungen und territoriale Wirkungen können abweichen. Für eine Recherche zur Benutzungsfreiheit maßgebliche Ansprüche und Registerereignisse im betreffenden Land gesondert prüfen; ein abgelaufenes ausländisches Familienmitglied beweist keine Freiheit in Deutschland. Ein fehlender Treffer ist kein Nachweis, dass es keine blockierenden Rechte gibt.

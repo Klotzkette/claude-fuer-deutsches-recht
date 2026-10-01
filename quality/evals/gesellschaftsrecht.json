@@ -17,6 +17,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-30",
       "supports": "BGH, Urteil vom 10.02.2026 – II ZR 71/24, Rn. 19–22, 45–61: Sachliche Rechtfertigung einer Management-Hinauskündigung unter Gesamtwürdigung; Klausel, Abfindung und Ausübung getrennt. Keine pauschale Billigung beliebiger Leaver-Abschläge; strategische Abberufung vor Exit kann missbräuchlich sein, Zurückverweisung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 10–25. Materielle Mitgliedschaftsfeststellung gegen GmbH kann trotz richtiger Liste nötig sein, wenn ernsthafte Bestreitung gegenwärtige Unsicherheit erzeugt. Grenze: Keine automatische Klage bei unstreitigem Status und keine materielle Eigentumsfeststellung durch Registergericht."
     }
   ],
   "mini_review": {
@@ -83,7 +88,7 @@
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
       "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt."
     ],
-    "sha256": "4c435fc39153f234cfe93740956d2fafa710407b2f06b6cc644b2192df793c02"
+    "sha256": "deb5156fc1542a27c10076e82606afa5b7e768e780ff9d6fc67f74eb85fd9e31"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -114,6 +119,14 @@
         "checked_on": "2026-09-30",
         "application": "Sachliche Rechtfertigung einer Management-Hinauskündigung unter Gesamtwürdigung; Klausel, Abfindung und Ausübung getrennt.",
         "limit": "Keine pauschale Billigung beliebiger Leaver-Abschläge; strategische Abberufung vor Exit kann missbräuchlich sein, Zurückverweisung."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.04.2026 – II ZR 50/25, Kopf, Rn. 10–25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+        "application": "Materielle Mitgliedschaftsfeststellung gegen GmbH kann trotz richtiger Liste nötig sein, wenn ernsthafte Bestreitung gegenwärtige Unsicherheit erzeugt.",
+        "limit": "Keine automatische Klage bei unstreitigem Status und keine materielle Eigentumsfeststellung durch Registergericht.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -146,5 +159,16 @@
       "gesellschaftsrecht/skills/satzungsgestaltung-gmbh-kernklauseln/SKILL.md",
       "gesellschaftsrecht/skills/vollzugs-checkliste/SKILL.md"
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "gesellschaftsrecht/gesellschaftsrecht-werkstatt.md",
+      "gesellschaftsrecht/skills/gesellschafterliste-legitimation-und-widerspruch/SKILL.md",
+      "gesellschaftsrecht/skills/gesellschafterliste-registerstreit-legitimationswirkung/SKILL.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

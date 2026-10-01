@@ -136,13 +136,25 @@
         "citation": "BGH, Beschluss vom 8. Oktober 2019, EnVR 12/18, berichtigt am 25. Februar 2020, Randnummern 19 bis 30",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2018/EnVR__12-18.pdf?__blob=publicationFile&v=1",
         "application": "Geschäftsgeheimnisse auch bei aussagekräftigen Rückschlüssen aus Aggregaten; Ermächtigung zur Veröffentlichung getrennt prüfen.",
-        "limit": "Damals Paragraf 31 ARegV; Erlösobergrenze und Regulierungskontosaldo nicht unterschiedslos geheim."
+        "limit": "Damals Paragraf 31 ARegV; Erlösobergrenze und Regulierungskontosaldo nicht unterschiedslos geheim.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Keine vollständige Neuprüfung von Post-, Eisenbahn-, TKG- und DSA-Recht; aktuelle Festlegungen und Fristen im Einzelverfahren prüfen.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-schnellstart.md",
+        "bundesnetzagentur-verfahren/bundesnetzagentur-verfahren-werkstatt.md"
+      ],
+      "result": "Geheimhaltung von Aggregaten und gesetzliche Veröffentlichungsermächtigung werden getrennt; die Prompts erklären nicht unterschiedslos alle Netzentgeltdaten für geheim.",
+      "search_2026": "Suche nach 2026-Entscheidungen zu EnVR, Geschäftsgeheimnissen und BNetzA ergab überwiegend ältere Fälle, keine konkret geeignete neue Entscheidung verifiziert.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

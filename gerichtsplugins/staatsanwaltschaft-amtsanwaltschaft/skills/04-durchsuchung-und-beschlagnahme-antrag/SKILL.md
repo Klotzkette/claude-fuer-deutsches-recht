@@ -41,6 +41,8 @@ Strukturierter Arbeitsstand: Pruefungspunkte, Zitate, offene Fragen, Vorschlag z
 
 ## Normen & Rechtsprechung
 
+Für Räume nichtverdächtiger Mitbewohner verlangt [BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html) konkrete tatsachengestützte Auffindegründe nach Paragraf 103 StPO. Gemeinsame Adresse, Briefkasten, Bezeichnung als Wohnprojekt oder bloß möglicher Zutritt tragen weder Mitnutzung aller Zimmer noch diesen Auffindeverdacht. Erfrage Raumzuordnung, Nutzungsabreden, tatsächlichen Zugang und beweismittelbezogene Indizien. Tatsächlich vom Beschuldigten mitgenutzte Räume fallen dagegen unter Paragraf 102 StPO; bei vor Ort erkennbarer Alleinnutzung durch Dritte reicht dessen Beschluss nicht aus. Den Antrag raumbezogen begründen, gegebenenfalls ergänzende richterliche Anordnung einholen. Kein automatisches Verwertungsverbot ableiten.
+
 - BVerfG, Beschluss vom 20.02.2001 - 2 BvR 1444/00, BVerfGE 103, 142: Gefahr im Verzug darf den Richtervorbehalt nur bei dokumentierter Eilbedürftigkeit verdrängen.
 - BVerfG, Beschluss vom 12.04.2005 - 2 BvR 1027/02, BVerfGE 113, 29: Durchsuchung und Beschlagnahme bei Berufsgeheimnisträgern verlangen gesteigerte Verhältnismäßigkeit und Schutz vertraulicher Mandatskommunikation.
 - BVerfG, Urteil vom 19.03.2013 - 2 BvR 2628/10, 2 BvR 2883/10 und 2 BvR 2155/11, BVerfGE 133, 168: Verständigungen und verfahrensbeendende Absprachen brauchen Transparenz, Belehrung und Protokollierung.

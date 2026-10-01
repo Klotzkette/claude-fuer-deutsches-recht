@@ -135,13 +135,25 @@
         "citation": "BVerfG, Beschluss vom 29. September 2022, 1 BvR 2380/21 und 1 BvR 2449/21, Rn. 114 bis 120 und 134 bis 140",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2022/09/rs20220929_1bvr238021.html",
         "application": "Weniger wirksames Mittel widerlegt nicht Erforderlichkeit, kann aber Schutzdefizit und Belastung in Angemessenheit anders gewichten.",
-        "limit": "Tierarztvorbehalt für bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren; nur Methode auf Lärmschutz und andere Maßnahmen übertragen."
+        "limit": "Tierarztvorbehalt für bestimmte Humanhomöopathika bei nicht lebensmittelliefernden Tieren; nur Methode auf Lärmschutz und andere Maßnahmen übertragen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Amtliche Entscheidungsgründe und GG Artikel 2/20 gelesen; rechtsvergleichende Normstände und weitere spezielle Grundrechtsmaterien nicht umfassend verifiziert.",
       "Desk-/Quellenreview, kein Live-Maßnahmenvergleich oder Modelltest.",
       "Workflow-Erweiterung 23.09.2026: Paragraf 93 BVerfGG aktuell gelesen; erneuter Direktabruf der Entscheidung von 2022 mit 403 gesperrt. Vorhandenen qualifizierten Entscheidungsnachweis erhalten, keine neue Volltextprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-schnellstart.md",
+        "verhaeltnismaessigkeitspruefer/verhaeltnismaessigkeitspruefer-werkstatt.md"
+      ],
+      "result": "Erforderlichkeit und Angemessenheit unterscheiden relative Wirksamkeit und Belastungsgewicht. Tierarzneimittelfall wird nur methodisch auf andere Maßnahmen übertragen.",
+      "search_2026": "2 BvR 1096/22 vom 21.05.2026 als Suchtreffer gefunden, nur allgemeine Zweckpassage. Ohne konkreten vollständig gelesenen Fallabgleich nicht als Universalanker eingefügt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

@@ -154,9 +154,9 @@ Bei einer laufenden Tätigkeit kann ein Leistungsnachweis zweckmäßig sein. Bes
 
 ### 6.5. Abnahme und Mängelstadium
 
-BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, ist ein begrenzter Rechercheanker: Die amtlich indexierten Leitsätze betreffen Mängelrechte grundsätzlich nach Abnahme und mögliche Ausnahmen beim Abrechnungsverhältnis. Der Volltextabruf war gesperrt; keine Randnummer ist hier verifiziert. Daraus nicht ableiten, der Besteller habe vor Abnahme keinerlei Rechte. Erfüllungsanspruch und allgemeine Leistungsstörungsrechte bleiben gesondert zu prüfen.
+BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Rn. 31–51, wurde am 01.10.2026 im amtlichen Volltext gelesen: Mängelrechte grundsätzlich nach Abnahme, ausnahmsweise beim endgültigen Abrechnungsverhältnis. Ein Vorschussverlangen allein genügt nicht; klären Sie, ob der Besteller weitere Erfüllung endgültig ausschließt (Rn. 44–48). Daraus nicht ableiten, der Besteller habe vor Abnahme keinerlei Rechte. Erfüllungsanspruch und allgemeine Leistungsstörungsrechte bleiben gesondert zu prüfen.
 
-Ein bloßes Verlangen nach Vorschuss zur Selbstvornahme genügt nach dem sichtbaren Leitsatz nicht schon für jedes Abrechnungsverhältnis. Übertragen Sie den Bauwerksfall nicht pauschal auf alle Kauf-, Dienst- oder Wartungsleistungen. Für den Entwurf bedeutet dies: Erfüllung, Prüfung, Abnahme, Nacherfüllung und Abrechnung sprachlich auseinanderhalten und keine Rechte allein durch einen unklaren Statusbegriff verschwinden lassen.
+Ein bloßes Verlangen nach Vorschuss zur Selbstvornahme genügt nach Rn. 45 nicht schon für jedes Abrechnungsverhältnis. Übertragen Sie den Bauwerksfall nicht pauschal auf alle Kauf-, Dienst- oder Wartungsleistungen. Für den Entwurf bedeutet dies: Erfüllung, Prüfung, Abnahme, Nacherfüllung und Abrechnung sprachlich auseinanderhalten und keine Rechte allein durch einen unklaren Statusbegriff verschwinden lassen.
 
 ## 7. Preis, Zahlung und Änderung der Vergütung gestalten
 
@@ -320,7 +320,7 @@ Ein individueller Auftrag kann Vorrang für Menge und Termin haben, ohne gleichz
 
 Prüfen Sie Vorformulierung, beabsichtigte Mehrfachverwendung, Stellen durch eine Partei und tatsächliche Gestaltungsfreiheit. Ein anwaltlich bearbeitetes Formular bleibt möglicherweise AGB. Eine individuell ausgehandelte Preiszeile macht den vorgegebenen Haftungsausschluss nicht automatisch individuell. Auch handschriftlicher Zusatz oder Unterschrift unter jeder Seite ersetzt keine tatsächliche Einflussmöglichkeit auf den Klauselkern.
 
-BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, bietet einen begrenzten amtlich indexierten Leitsatzanker: Die bloße Bestätigung intensiver Verhandlungen belegt das Aushandeln nicht; AGB-Recht kann nicht unabhängig von seinen Voraussetzungen durch individualrechtliche Formel abgewählt werden. Der direkte Volltext war nicht zugänglich. Keine Randnummer oder weitergehende Detailaussage aus Erinnerung ergänzen. Dokumentieren Sie tatsächliche Änderungsangebote statt einer unwahren Aushandlungsbestätigung.
+BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, Rn. 22–32, wurde am 01.10.2026 im amtlichen Volltext gelesen: Die bloße Bestätigung intensiver Verhandlungen belegt das Aushandeln nicht; AGB-Recht kann nicht unabhängig von seinen Voraussetzungen durch individualrechtliche Formel abgewählt werden. Rn. 27 verlangt eine reale Möglichkeit, den Klauselkern zur Disposition zu stellen; die Bezeichnung als Individualvertrag genügt nicht. Dokumentieren Sie tatsächliche Änderungsangebote statt einer unwahren Aushandlungsbestätigung.
 
 ### 12.4. Unternehmerkontrolle präzise durchführen
 
@@ -436,9 +436,9 @@ Direkt gelesen wurden insbesondere [Paragraf 310 BGB](https://www.gesetze-im-int
 
 ### 17.3. Begrenzte Entscheidungsanker
 
-BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1): nur indexierte Leitsätze gelesen, Direktabruf gesperrt. Anker für Mängelrechte grundsätzlich nach Abnahme und begrenzte Ausnahmen beim Abrechnungsverhältnis; keine Randnummer oder Volltextprüfung bestätigt.
+BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_301-13.pdf?__blob=publicationFile&v=1): Rn. 31–51 am 01.10.2026 gelesen. Mängelrechte grundsätzlich nach Abnahme; Vorschuss allein begründet kein endgültiges Abrechnungsverhältnis. Erfüllung und allgemeine Leistungsstörungsrechte vor Abnahme gesondert prüfen.
 
-BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): nur indexierte Leitsätze, Direktvolltext nicht bestätigt. Anker gegen bloße Aushandlungsbestätigung und pauschale Abwahl des AGB-Rechts; keine universelle Sicherheitsquote. Beide Entscheidungen sind begrenzte Rechercheanker, keine gerichtliche Freigabe der hier entworfenen Klauseln.
+BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13, [amtliche Quelle](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2013/VII_ZR_248-13.pdf?__blob=publicationFile&v=1): Rn. 22–32 am 01.10.2026 gelesen. Bloße Aushandlungsbestätigung und pauschale Abwahl des AGB-Rechts reichen nicht; keine universelle Sicherheitsquote und keine gerichtliche Freigabe hier entworfener Klauseln.
 
 ### 17.4. Ergebnis statt Prüfbehauptung
 

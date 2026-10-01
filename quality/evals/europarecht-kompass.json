@@ -97,14 +97,26 @@
         "citation": "EuGH, Urteil vom 24. Juni 2019, C-573/17, Popławski, Randnummern 60 bis 68",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62017CJ0573",
         "application": "Vorrang von unmittelbarer Wirkung trennen; Richtlinie allein begründet grundsätzlich keine zusätzliche Pflicht eines Privaten.",
-        "limit": "Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen."
+        "limit": "Ausgangsfall Rahmenbeschluss; andere unmittelbar wirksame Unionsnormen und konforme Auslegung separat prüfen.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Keine neue Gesamtprüfung von Grundfreiheiten, Beihilfen oder Charta-Rechtsprechung; entscheidende Unionsnorm jeweils gesondert prüfen.",
       "Desk-/Quellenreview, kein Live-Client- oder Modelltest. Bestehende Auswahl- und Ergebnisfälle unverändert erhalten.",
       "Workflow-Review 23.09.2026: erneuter AEUV-288-Abruf lieferte keinen auswertbaren Volltext; vorhandene Wirkungs- und Fallgrenzen erhalten, keine neue Vollprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "europarecht-kompass/europarecht-kompass-schnellstart.md",
+        "europarecht-kompass/europarecht-kompass-werkstatt.md"
+      ],
+      "result": "Popławski dient der Trennung von Vorrang, unmittelbarer Wirkung und konformer Auslegung. Keine zusätzliche private Pflicht allein aus einer Richtlinie behauptet.",
+      "search_2026": "2026-Suche zu unmittelbarer Richtlinienwirkung ergab unter anderem einen Rechtsprechungsüberblick, keine neu verifizierte einschlägige Entscheidung.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -139,12 +139,25 @@
         "citation": "BVerwG, Beschluss vom 3. März 2025, 2 VR 4.24, Randnummern 46–49, 60–68",
         "url": "https://www.bverwg.de/030325B2VR4.24.0",
         "application": "Reale Auswahlchance trotz unterstelltem Beurteilungsfehler; bei fiktiver Fortschreibung Vergleichsgruppe und Beförderungen prüfen.",
-        "limit": "Keine willkürliche Notenverbesserung; damaliger gesetzlicher Übergang ist nicht ungeprüft heutiges Recht."
+        "limit": "Keine willkürliche Notenverbesserung; damaliger gesetzlicher Übergang ist nicht ungeprüft heutiges Recht.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Landesrecht und spätere Rechtsgrundlagen fiktiver Fortschreibung fallbezogen aktuell zu prüfen; keine vollständige Rechtsprüfung sämtlicher Teilmaterien.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "beamtenrecht/beamtenrecht-schnellstart.md",
+        "beamtenrecht/beamtenrecht-werkstatt.md",
+        "beamtenrecht/skills/konkurrentenschutz-bestenauslese-art-richter/SKILL.md"
+      ],
+      "result": "Auswahlchance, Vergleichsgruppe und fiktive Fortschreibung werden in Mini, Werkstatt und Konkurrentenschutz-Skill unterschieden. Der historische Übergang wird nicht als aktuelle Beurteilungsgrundlage ausgegeben.",
+      "search_2026": "Enger 2026-Suchlauf ohne passenden neuen Auswahl-/Fortschreibungsfall. 2 A 7.24 ist eine Entscheidung vom 11.12.2025 trotz neuer Veröffentlichung; nicht als 2026-Fall verwendet.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

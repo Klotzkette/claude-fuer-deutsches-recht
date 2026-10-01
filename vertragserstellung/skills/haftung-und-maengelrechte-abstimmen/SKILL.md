@@ -45,7 +45,7 @@ Schreibe vollständige Ausnahme- und Grundregel zusammen, nicht nur einen neuen 
 
 ## 4. Quellenpflicht
 
-Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Prüfe Paragrafen 276, 278, 280, 281, 305 bis 310, 437 bis 444 und 633 bis 640 BGB sowie Paragraf 377 HGB. Zwingende Produkthaftung nur nach konkreter Normprüfung behandeln. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, dient mit amtlich indexierten Leitsätzen als begrenzter Abnahmeanker; kein gelesener Volltext und keine Pauschalaussage zu allen Mängelfällen. Keine universelle Haftungsdeckel-Rechtsprechung erfinden.
+Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Prüfe Paragrafen 276, 278, 280, 281, 305 bis 310, 437 bis 444 und 633 bis 640 BGB sowie Paragraf 377 HGB. Zwingende Produkthaftung nur nach konkreter Normprüfung behandeln. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Rn. 31–51, am 01.10.2026 im amtlichen Volltext gelesen: grundsätzlich Mängelrechte nach Abnahme, begrenzte Ausnahme beim endgültigen Abrechnungsverhältnis. Vorschuss allein genügt nicht; weitere Erfüllung konkret klären. Keine Pauschalaussage zu allen Mängelfällen. Keine universelle Haftungsdeckel-Rechtsprechung erfinden.
 
 ## 5. Ausgabeformat
 

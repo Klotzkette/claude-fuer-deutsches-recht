@@ -1,6 +1,6 @@
 # 1. Verbraucherverbände: Durchsetzung im Schnellstart
 
-Prüfe, welche beanstandete Geschäftspraxis der Verband untersagen lassen kann und für welche Verbraucher eine gemeinsame Zahlungs- oder Feststellungsklage tragfähig ist. Vergleiche die Vertragsfassungen und Zahlungsbelege, grenze die Anspruchsgruppen ab und arbeite die beauftragte Abmahnung oder Klageschrift aus. Derselbe Anbieter allein verbindet noch keine unterschiedlichen Ansprüche.
+Prüfe Unterlassung und gemeinsame Zahlungs-/Feststellungsklage. Vergleiche Vertragsfassungen und Zahlungsbelege, grenze Anspruchsgruppen ab und schreibe die bestellte Abmahnung oder Klage. Derselbe Anbieter allein verbindet keine unterschiedlichen Ansprüche.
 
 ## 1.1. Verband und Ziel
 
@@ -20,7 +20,9 @@ Das [Verbraucherquorum nach Paragraf 4 VDuG](https://www.gesetze-im-internet.de/
 
 ## 1.3. Betrag und Beweis
 
-Bei Beschwerden über erschwerte Online-Vertragsbeendigung Widerrufsfunktion nach Paragraf 356a BGB und Kündigungsbutton nach Paragraf 312k BGB getrennt untersuchen. Beide Erklärungsstufen, Dateneingaben und Bestätigung sichern; eine fehlende Kündigung beweist keinen fehlenden Widerruf und umgekehrt. Vertrags- und Oberflächenfassung bestimmen den jeweiligen Unterlassungsantrag.
+Widerrufsfunktion (§ 356a BGB) und Kündigungsbutton (§ 312k BGB) trennen. Erklärungsstufen, Daten und Bestätigung sichern; Vertrags-/Oberflächenfassung bestimmen den Unterlassungsantrag.
+
+[BGH, 16.07.2026 – I ZR 200/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1), Rn. 16–36: Auf der Bestätigungsseite des Kündigungsbuttons keine Rückgewinnungs-/Pausenangebote. Beide Seiten sichern; Angebote vor dem ersten Klick gesondert prüfen. Kein automatisch bestimmter individueller Vertragsendtermin.
 
 Lege Anspruchsvoraussetzungen und Berechnungsmethode je Gruppe offen. Bei laufenden Entgelten Zeitraum, Monatsbetrag, bereits erstattete Summen und Rundung je Person prüfen. Hochrechnungen nur mit ausgewiesener Datenbasis; einen Gesamtbetrag nicht aus ungeprüften Beschwerdezahlen multiplizieren. Ordne jedem gemeinsamen Rechtsproblem die maßgebliche Vertragsklausel, Belegfassung und stärkste Gegenposition zu.
 

@@ -30,9 +30,9 @@ Aus XI ZR 91/14 folgt bei bloßen Statuscodes konkret: Die Bank muss für einen 
 
 Vor Verwendung aktuelle Normen und amtliche Entscheidung prüfen. Keine erfundenen Fundstellen oder Literaturzitate.
 
-- BGB [Paragraf 675u](https://www.gesetze-im-internet.de/bgb/__675u.html), [Paragraf 675v](https://www.gesetze-im-internet.de/bgb/__675v.html), [Paragraf 675w](https://www.gesetze-im-internet.de/bgb/__675w.html), [Paragraf 676b](https://www.gesetze-im-internet.de/bgb/__676b.html).
-- BGH, Beschluss vom 07.07.2026, Az. XI ZR 71/25, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2025/XI_ZR__71-25.pdf?__blob=publicationFile&v=1), Seite 2, am 15.09.2026 vollständig geprüft: Der Senat ließ einen zusätzlichen Anspruch nach Artikel 82 Absatz 1 der Datenschutz-Grundverordnung neben Paragraf 675u Satz 2 BGB offen und verneinte im konkreten Fall den Kausalzusammenhang. Kein allgemeiner Ausschluss von Datenschutzschadensersatz und kein eigenständiger Maßstab für Autorisierung oder grobe Fahrlässigkeit.
-- BGH, Urteil vom 26.01.2016, Az. XI ZR 91/14, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2014/XI_ZR__91-14.pdf?__blob=publicationFile&v=1), Randnummern 18 und 19, 75 sowie 79 bis 81: Grenzen technischer Nachweise und Beweissicherung. Alte Rechtslage; keine Übernahme damaliger Haftungsabsätze oder technischer Sicherheitsannahmen ohne Prüfung.
+- BGH, 26.01.2016 – XI ZR 91/14, Rn. 18–19, 75, 79–81: technische Nachweise begrenzen, Freigabe und Störungen sichern; frühere Rechtslage.
+
+[BGH, 03.03.2026 – XI ZR 20/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2024/XI_ZR__20-24.pdf?__blob=publicationFile&v=1), Rn. 16–35: Beim manuellen chipTAN belegt ein fehlender Empfängername am Generator allein keine fehlende starke Authentifizierung. IBAN/Betrag, Onlinebanking-Anzeige und TAN-Weitergabe klären; allgemeine Namenspflicht und weitere Verknüpfungsanforderungen bleiben teils offen. Kein pauschaler Nachweis grober Fahrlässigkeit.
 
 ## 1.4. Lieferung und Grenze
 

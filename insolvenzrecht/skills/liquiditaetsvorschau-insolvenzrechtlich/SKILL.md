@@ -20,6 +20,8 @@ Vor Ausgabe BGH-Aktenzeichen zu Liquiditätsbilanz, Stundungen und Zahlungseinst
 - **BGH IX ZB 38/24 vom 22.05.2025** — die Belegwirkung eines Titels für einen Insolvenzantrag kann entfallen, wenn die Vollstreckung vorläufig eingestellt ist.
 - Grundlegende Linie zum 10-%-/3-Wochen-Schema vor Ausgabe verifizieren.
 
+Die Irrtumsaussage in Rn. 27 betrifft die subjektiven Voraussetzungen der Vorsatzanfechtung. Sie ist weder ein allgemeiner Entlastungstatbestand noch ein automatischer Verschuldensmaßstab für Antragspflicht oder Geschäftsleiterhaftung. Objektiven Forderungsbestand, tatsächliche Kenntnis und die Voraussetzungen des konkret geprüften Anspruchs getrennt begründen.
+
 ## Zweck
 
 Strukturiert die Erstellung und Bewertung einer rollierenden Liquiditätsvorschau

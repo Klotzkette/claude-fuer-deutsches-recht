@@ -1,6 +1,6 @@
 # 1. Verbraucherschutzrecht: Schnellstart
 
-Prüfe, ob der Verbraucher an Bestellung oder Abonnement gebunden ist und welche Ansprüche ein Mangel oder der Entzug zugesagter digitaler Funktionen auslöst. Vergleiche vereinbarte Leistung, Belehrung und tatsächlichen Ablauf und verfasse die verlangte Beratung, Klauselprüfung oder Erklärung. Eine Prüfung führt nicht automatisch zu Widerruf oder Klage.
+Prüfe Bindung an Bestellung/Abonnement sowie Ansprüche bei Mängeln oder entfallenen Digitalfunktionen. Vergleiche Leistung, Belehrung und Ablauf; verfasse die bestellte Beratung, Klauselprüfung oder Erklärung. Keine automatische Klage oder Widerrufserklärung.
 
 ## 1.1. Vertrag und damaliges Angebot lesen
 
@@ -34,7 +34,9 @@ Bei „Die alte Version gibt es doch noch“ kläre, ob die zugesagte Funktion o
 
 Bei einem Probeabo prüfe den damaligen Gesamtpreis- und Laufzeithinweis nach Paragrafen 312c, 312d, 312j, 355 und 356 BGB. Nach [EuGH, Urteil vom 05.10.2023, C-565/22, Sofatutor, Rn. 43–50](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62022CJ0565), besteht nach Artikel 9 Absatz 1 der Richtlinie 2011/83/EU bei transparent vereinbartem Übergang von kostenlos zu kostenpflichtig und automatischer Verlängerung grundsätzlich nur einmal ein Widerrufsrecht. Fehlt die klare Information über den späteren Gesamtpreis, kommt nach der Testphase ein neues Widerrufsrecht in Betracht, sofern überhaupt ein bindender Vertrag besteht. Prüfe den damaligen Bestellvorgang; das Urteil entscheidet nicht über späteren Funktionsentzug nach Paragraf 327r BGB.
 
-Unterscheide die Widerrufsfunktion nach [Paragraf 356a BGB](https://www.gesetze-im-internet.de/bgb/__356a.html) vom Kündigungsbutton nach Paragraf 312k BGB: Bei Online-Fernabsatz während der Widerrufsfrist Erklärung mit Name, Vertragszuordnung und Kommunikationsweg, danach Bestätigung; Eingangsbestätigung mit Inhalt, Datum und Uhrzeit auf dauerhaftem Datenträger sichern. Absatz 5 schützt den rechtzeitigen Versand über die Funktion. Bei fehlender Funktion andere wirksame Erklärung nach Paragraf 355 BGB prüfen, nicht auf Reparatur warten. Dienstleistungen stehen beim Erlöschen aktuell in Paragraf 356 Absatz 5, digitale Inhalte in Absatz 6.
+Widerrufsfunktion (§ 356a BGB) und Kündigungsbutton (§ 312k BGB) trennen. Beim Online-Widerruf Name, Vertrag und Kommunikationsweg erfassen, bestätigen und Eingangsbestätigung mit Inhalt, Datum/Uhrzeit dauerhaft sichern. Absatz 5 schützt rechtzeitigen Versand. Bei Ausfall andere Erklärung nach § 355 prüfen. Erlöschen: § 356 Absatz 5 für Dienstleistungen, Absatz 6 für digitale Inhalte.
+
+[BGH, 16.07.2026 – I ZR 200/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_200-25.pdf?__blob=publicationFile&v=1), Rn. 16–36: Auf der Bestätigungsseite des Kündigungsbuttons keine Rückgewinnungs-/Pausenangebote. Beide Seiten sichern; Angebote vor dem ersten Klick gesondert prüfen. Kein automatisch bestimmter individueller Vertragsendtermin.
 
 Bei AGB nach Paragrafen 305 bis 310 BGB Wortlaut, Einbeziehung, Transparenz und Rechtsfolge prüfen; eine unwirksame Klausel macht nach Paragraf 306 BGB nicht automatisch den ganzen Vertrag unwirksam. Beim Warenkauf Paragrafen 434, 474 und 477 BGB statt ungeprüft das reine Digitalrecht anwenden.
 

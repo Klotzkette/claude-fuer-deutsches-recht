@@ -152,6 +152,62 @@
       "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314810&doclang=DE&mode=req&pageIndex=0&part=1",
       "checked_on": "2026-09-30",
       "supports": "C-554/25: Beschluss des Präsidenten vom 06.08.2026, ECLI:EU:C:2026:636; nach Rücknahme gestrichen, keine Sachantwort zur Vorkonditionierung oder Regeneration."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR__17-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 26.08.2026, VIa ZR 17/23: Beim behaupteten Neuwagenkauf eines Audi SQ5 3.0 TDI Euro 5 durfte der Differenzschaden nicht allein wegen eines verneinten Schutzgesetzcharakters der §§ 6, 27 EG-FGV abgelehnt werden. Der BGH verwies zur Prüfung der Anspruchsvoraussetzungen zurück. Grenze: Als Anwendungsanker der Differenzschadenlinie verwenden, nicht als Feststellung einer unzulässigen Abschalteinrichtung, einer Haftung dem Grunde nach oder einer bestimmten Schadenshöhe. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-via-zr17-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_1157-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-30",
+      "supports": "BGH, Urteil vom 26.08.2026, VIa ZR 1157/23: Im EA288-Euro-6-Fall ist konkreter Vortrag zu einer temperaturabhängig reduzierten Abgasrückführung nicht schon wegen fehlender interner Detailkenntnis Vortrag ins Blaue hinein. Bei objektivem Verstoß gegen §§ 6, 27 EG-FGV wird das Verschulden vermutet; tatsächlicher Verbotsirrtum und Unvermeidbarkeit sind vom Hersteller darzulegen und zu beweisen. Grenze: Als aktuellen EA288-Anwendungs- und Darlegungslastanker verwenden. Die Zurückverweisung belegt weder das Vorliegen einer unzulässigen Abschalteinrichtung noch Haftung, Quote oder Schadenshöhe im Einzelfall. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-via-zr1157-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZB___3-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Beschluss vom 11.08.2026, VIa ZB 3/24: Wird gegen Haupt- und Ergänzungsurteil jeweils Berufung eingelegt, muss die Begründung die selbständig angefochtene Entscheidung und deren tragende Erwägungen erfassen. Eine Gegenerklärung, die nur bestreitet, dass bereits über alle Anträge entschieden worden sei, ersetzt keine den Anforderungen des § 520 Abs. 3 Satz 2 ZPO genügende Begründung gegen das Ergänzungsurteil. Ein Urteil ist nicht ergänzungsbedürftig, wenn Tenor und tragende Begründung sämtliche vollständig wiedergegebenen Anträge insgesamt abweisen. Grenze: Nach Haupt-, Teil- oder Ergänzungsurteil Tenor, Tatbestand, Gründe und jeden Antrag getrennt abgleichen. Für jedes selbständig angefochtene Urteil eine fristgerechte, entscheidungsbezogene Berufungsbegründung führen; Verbindung der Rechtsmittel ersetzt sie nicht. Vor einem Ergänzungsantrag nach § 321 ZPO prüfen, ob Tenor und Gründe den Antrag bereits insgesamt erfassen, und Gehörsrügen passage- sowie entscheidungserheblich begründen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazb3-24-ergaenzungsurteil-berufung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_782-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-09",
+      "supports": "BGH, Urteil vom 28.07.2026, VIa ZR 782/23: Der BGH wandte die Differenzschadenlinie auf einen Mercedes-Benz Marco Polo 250d mit OM651 und Euro 6 an und verwies zur Prüfung der Voraussetzungen zurück. Die Entscheidung bestätigt den Prüfpfad, stellt aber weder eine unzulässige Abschalteinrichtung noch Haftung oder Schadenshöhe im konkreten Fahrzeug fest. Grenze: Als aktuellen OM651-Anwendungsanker für den Differenzschadenspfad verwenden, nicht als Betroffenheits- oder Haftungsbeweis. Kühlmittel-Solltemperatur-Regelung, Fahrzeugkonfiguration, Verschulden, Kausalität, Quote und Vorteilsausgleich weiterhin konkret vortragen und belegen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr782-23-om651-anwendung"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_545-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Urteil vom 28.07.2026, VIa ZR 545/23: Konkreter Vortrag, die Abgasrückführung werde unter +17 °C um 33 Prozent reduziert und unter +5 °C sowie über +33 °C vollständig deaktiviert, genügte den Darlegungsanforderungen für die Prüfung eines Thermofensters. Der BGH bestätigte nur die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies zur erstmaligen Prüfung des Differenzschadens zurück; Einrichtung, Verschulden, Kausalität und Schadenshöhe wurden nicht festgestellt. Grenze: Temperaturschwellen, Reduktionsgrad und Abschaltwirkung mit fahrzeugbezogener Quelle vortragen und wirksames Bestreiten gesondert prüfen. Das Urteil als Darlegungs- und Anwendungsanker für Fiat-Euro-5-Wohnmobile verwenden, nicht als Serien-, Haftungs- oder Quotenbeweis; § 826 BGB und § 823 Abs. 2 BGB strikt trennen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr545-23-fiat-thermofenster-vortrag"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR__46-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Beschluss vom 28.07.2026, VIa ZR 46/24: In einem EA288-Euro-6-Fall durfte das Berufungsgericht bei der Bejahung von § 826 BGB den zentralen Beklagtenvortrag nicht übergehen, das Kraftfahrt-Bundesamt habe die Fahrkurvenerkennung geprüft und nicht als unzulässig bewertet. Das Übergehen war entscheidungserheblich und verletzte Art. 103 Abs. 1 GG; der BGH stellte weder die Rechtmäßigkeit der Funktion noch einen allgemeinen Haftungsausschluss fest. Grenze: Konkret belegten Behördenvortrag und seine Informationsgrundlage bei der §-826-Vorsatz- und Sittenwidrigkeitsprüfung würdigen und beantworten. Den Beschluss nicht auf § 823 Abs. 2 BGB übertragen: Er enthält keine Entscheidung zu Differenzschaden, tatsächlichem Verbotsirrtum, vollständiger Behördeninformation oder Unvermeidbarkeit und ist kein Serienbeweis für EA288. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr46-24-ea288-fahrkurve-gehoer"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_151-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-26",
+      "supports": "BGH, Urteil vom 28.07.2026, VIa ZR 151/23: Der bereits erstinstanzlich gehaltene Vortrag zum Temperaturbereich einer reduzierten Abgasrückführung war nicht ins Blaue hinein erfolgt und durfte die Prüfung eines Differenzschadens nicht abschneiden. Der BGH billigte die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies nur zur Prüfung der Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit §§ 6, 27 EG-FGV zurück. Grenze: Im OM651-Euro-5-Fall Temperatursteuerung und Fahrzeugbezug konkret, aber ohne unerreichbare interne Detailkenntnis vortragen. Die Zurückverweisung belegt weder eine unzulässige Abschalteinrichtung noch Verschulden, Haftung oder Quote; Vorsatz- und Fahrlässigkeitsspur getrennt halten. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr151-23-om651-thermofenster-vortrag"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR_549-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-08-09",
+      "supports": "BGH, Beschluss vom 21.07.2026, VIa ZR 549/24: Der BGH beanstandete es nicht, dass das Berufungsgericht die Nutzungsvorteile wegen einer über 13 Jahre festgestellten, mit durchschnittlich 5.750 Kilometern ungewöhnlich niedrigen Jahresfahrleistung zeitanteilig nach einem Bruchteil des Kaufpreises geschätzt hatte. Die Wahl der Schätzungsmethode liegt innerhalb der Grenzen des § 287 ZPO im tatrichterlichen Ermessen; die Entscheidung schreibt weder allgemein eine Zeitmethode noch allgemein die lineare Kilometermethode vor. Grenze: Bei Wohnmobilen, Sammler- oder sonstigen Fahrzeugen mit atypisch geringer Jahresfahrleistung mindestens Kilometer- und Zeitmethode als Sensitivität rechnen. Fahrzeugart, Nutzungsdauer, Jahresfahrleistung, Gesamtlaufleistungsannahme und wirtschaftliche Plausibilität offenlegen; keine Methode als universell zwingend ausgeben. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen. Gelesener Umfang: Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+      "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+      "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr549-24-nutzungsmethode"
     }
   ],
   "selection": {
@@ -203,37 +259,129 @@
         "citation": "EuGH, Urteil vom 21.03.2023 – C-100/21, ECLI:EU:C:2023:229",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0100",
         "application": "Unionsrechtlichen Käuferindividualschutz als Ausgangspunkt der deutschen Differenzschadenspur verwenden.",
-        "limit": "Keine automatische Herstellerhaftung, keine Fahrzeugbetroffenheit und keine feste Quote; objektiver Verstoß, Verschulden, Kausalität und Schaden bleiben fallbezogen."
+        "limit": "Keine automatische Herstellerhaftung, keine Fahrzeugbetroffenheit und keine feste Quote; objektiver Verstoß, Verschulden, Kausalität und Schaden bleiben fallbezogen.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BGH, Urteil vom 26.06.2023 – VIa ZR 335/21",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2021/VIa_ZR_335-21.pdf?__blob=publicationFile&v=1",
         "application": "Differenzschaden im Korridor von fünf bis fünfzehn Prozent zunächst brutto bestimmen und den Vorteilsausgleich anschließend transparent prüfen.",
-        "limit": "Die Entscheidung beweist keine konkrete Abschalteinrichtung und erlaubt keine schematische Zehn-Prozent-Quote."
+        "limit": "Die Entscheidung beweist keine konkrete Abschalteinrichtung und erlaubt keine schematische Zehn-Prozent-Quote.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BGH, Urteil vom 28.11.2023 – X ZR 83/20",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2020/X_ZR__83-20.pdf?__blob=publicationFile&v=1",
         "application": "Für Paragraf 852 Satz 2 BGB die Zehnjahresfrist ab Entstehung des ursprünglichen Anspruchs und nicht erst ab dessen Regelverjährung berechnen.",
-        "limit": "Herstellerzufluss, unerlaubte Handlung, konkrete Erwerbskette und mögliche Hemmung werden dadurch nicht fingiert."
+        "limit": "Herstellerzufluss, unerlaubte Handlung, konkrete Erwerbskette und mögliche Hemmung werden dadurch nicht fingiert.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "EuGH, Urteil vom 21.12.2023 – verbundene Rechtssachen C-38/21, C-47/21 und C-232/21",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A62021CJ0038",
         "application": "Beim Kfz-Kredit vor jeder Detailprüfung von Pflichtangaben die vollständige Erfüllung anhand der Zahlungs- und Saldenbelege klären.",
-        "limit": "Ohne Vollerfüllung bleiben konkrete Widerrufsinformation, historische Normfassung, Musterschutz und Relevanz zu prüfen; technische Dieselansprüche folgen daraus nicht."
+        "limit": "Ohne Vollerfüllung bleiben konkrete Widerrufsinformation, historische Normfassung, Musterschutz und Relevanz zu prüfen; technische Dieselansprüche folgen daraus nicht.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BGH, Urteil vom 18.06.2026 – VIa ZR 1559/22",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2022/VIa_ZR_1559-22.pdf?__blob=publicationFile&v=1",
         "application": "Beim Übergang von Paketierung zu Einreichung entweder qES oder einfache Signatur plus persönliche sichere Übermittlung und VHN vollständig belegen.",
-        "limit": "Ein lokales Paket, eine beA-/EGVP-Kanalangabe oder eine nicht attestierte Receipt-Datei beweist weder wirksame Signatur noch gerichtlichen Eingang."
+        "limit": "Ein lokales Paket, eine beA-/EGVP-Kanalangabe oder eine nicht attestierte Receipt-Datei beweist weder wirksame Signatur noch gerichtlichen Eingang.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "EuGH, Beschluss des Präsidenten vom 05.08.2026 – C-113/26, ECLI:EU:C:2026:639",
         "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=314805&doclang=DE&mode=req&pageIndex=0&part=1",
         "application": "C-113/26 ausschließlich als nach Rücknahme gestrichene Statusakte kennzeichnen.",
-        "limit": "Keine Sachantwort zur Höhenkorrektur, Systemgrenze, Grenzwertfrage oder Beweislast; weder anhängiger Aussetzungsanker noch materielle EuGH-Leitlinie."
+        "limit": "Keine Sachantwort zur Höhenkorrektur, Systemgrenze, Grenzwertfrage oder Beweislast; weder anhängiger Aussetzungsanker noch materielle EuGH-Leitlinie.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
+      },
+      {
+        "citation": "BGH, Urteil vom 26.08.2026, VIa ZR 17/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR__17-23.pdf?__blob=publicationFile&v=1",
+        "application": "Beim behaupteten Neuwagenkauf eines Audi SQ5 3.0 TDI Euro 5 durfte der Differenzschaden nicht allein wegen eines verneinten Schutzgesetzcharakters der §§ 6, 27 EG-FGV abgelehnt werden. Der BGH verwies zur Prüfung der Anspruchsvoraussetzungen zurück.",
+        "limit": "Als Anwendungsanker der Differenzschadenlinie verwenden, nicht als Feststellung einer unzulässigen Abschalteinrichtung, einer Haftung dem Grunde nach oder einer bestimmten Schadenshöhe. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-via-zr17-23"
+      },
+      {
+        "citation": "BGH, Urteil vom 26.08.2026, VIa ZR 1157/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_1157-23.pdf?__blob=publicationFile&v=1",
+        "application": "Im EA288-Euro-6-Fall ist konkreter Vortrag zu einer temperaturabhängig reduzierten Abgasrückführung nicht schon wegen fehlender interner Detailkenntnis Vortrag ins Blaue hinein. Bei objektivem Verstoß gegen §§ 6, 27 EG-FGV wird das Verschulden vermutet; tatsächlicher Verbotsirrtum und Unvermeidbarkeit sind vom Hersteller darzulegen und zu beweisen.",
+        "limit": "Als aktuellen EA288-Anwendungs- und Darlegungslastanker verwenden. Die Zurückverweisung belegt weder das Vorliegen einer unzulässigen Abschalteinrichtung noch Haftung, Quote oder Schadenshöhe im Einzelfall. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-via-zr1157-23"
+      },
+      {
+        "citation": "BGH, Beschluss vom 11.08.2026, VIa ZB 3/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZB___3-24.pdf?__blob=publicationFile&v=1",
+        "application": "Wird gegen Haupt- und Ergänzungsurteil jeweils Berufung eingelegt, muss die Begründung die selbständig angefochtene Entscheidung und deren tragende Erwägungen erfassen. Eine Gegenerklärung, die nur bestreitet, dass bereits über alle Anträge entschieden worden sei, ersetzt keine den Anforderungen des § 520 Abs. 3 Satz 2 ZPO genügende Begründung gegen das Ergänzungsurteil. Ein Urteil ist nicht ergänzungsbedürftig, wenn Tenor und tragende Begründung sämtliche vollständig wiedergegebenen Anträge insgesamt abweisen.",
+        "limit": "Nach Haupt-, Teil- oder Ergänzungsurteil Tenor, Tatbestand, Gründe und jeden Antrag getrennt abgleichen. Für jedes selbständig angefochtene Urteil eine fristgerechte, entscheidungsbezogene Berufungsbegründung führen; Verbindung der Rechtsmittel ersetzt sie nicht. Vor einem Ergänzungsantrag nach § 321 ZPO prüfen, ob Tenor und Gründe den Antrag bereits insgesamt erfassen, und Gehörsrügen passage- sowie entscheidungserheblich begründen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-26",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazb3-24-ergaenzungsurteil-berufung"
+      },
+      {
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 782/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_782-23.pdf?__blob=publicationFile&v=1",
+        "application": "Der BGH wandte die Differenzschadenlinie auf einen Mercedes-Benz Marco Polo 250d mit OM651 und Euro 6 an und verwies zur Prüfung der Voraussetzungen zurück. Die Entscheidung bestätigt den Prüfpfad, stellt aber weder eine unzulässige Abschalteinrichtung noch Haftung oder Schadenshöhe im konkreten Fahrzeug fest.",
+        "limit": "Als aktuellen OM651-Anwendungsanker für den Differenzschadenspfad verwenden, nicht als Betroffenheits- oder Haftungsbeweis. Kühlmittel-Solltemperatur-Regelung, Fahrzeugkonfiguration, Verschulden, Kausalität, Quote und Vorteilsausgleich weiterhin konkret vortragen und belegen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-09",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr782-23-om651-anwendung"
+      },
+      {
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 545/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_545-23.pdf?__blob=publicationFile&v=1",
+        "application": "Konkreter Vortrag, die Abgasrückführung werde unter +17 °C um 33 Prozent reduziert und unter +5 °C sowie über +33 °C vollständig deaktiviert, genügte den Darlegungsanforderungen für die Prüfung eines Thermofensters. Der BGH bestätigte nur die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies zur erstmaligen Prüfung des Differenzschadens zurück; Einrichtung, Verschulden, Kausalität und Schadenshöhe wurden nicht festgestellt.",
+        "limit": "Temperaturschwellen, Reduktionsgrad und Abschaltwirkung mit fahrzeugbezogener Quelle vortragen und wirksames Bestreiten gesondert prüfen. Das Urteil als Darlegungs- und Anwendungsanker für Fiat-Euro-5-Wohnmobile verwenden, nicht als Serien-, Haftungs- oder Quotenbeweis; § 826 BGB und § 823 Abs. 2 BGB strikt trennen. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-26",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr545-23-fiat-thermofenster-vortrag"
+      },
+      {
+        "citation": "BGH, Beschluss vom 28.07.2026, VIa ZR 46/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR__46-24.pdf?__blob=publicationFile&v=1",
+        "application": "In einem EA288-Euro-6-Fall durfte das Berufungsgericht bei der Bejahung von § 826 BGB den zentralen Beklagtenvortrag nicht übergehen, das Kraftfahrt-Bundesamt habe die Fahrkurvenerkennung geprüft und nicht als unzulässig bewertet. Das Übergehen war entscheidungserheblich und verletzte Art. 103 Abs. 1 GG; der BGH stellte weder die Rechtmäßigkeit der Funktion noch einen allgemeinen Haftungsausschluss fest.",
+        "limit": "Konkret belegten Behördenvortrag und seine Informationsgrundlage bei der §-826-Vorsatz- und Sittenwidrigkeitsprüfung würdigen und beantworten. Den Beschluss nicht auf § 823 Abs. 2 BGB übertragen: Er enthält keine Entscheidung zu Differenzschaden, tatsächlichem Verbotsirrtum, vollständiger Behördeninformation oder Unvermeidbarkeit und ist kein Serienbeweis für EA288. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-26",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr46-24-ea288-fahrkurve-gehoer"
+      },
+      {
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 151/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2023/VIa_ZR_151-23.pdf?__blob=publicationFile&v=1",
+        "application": "Der bereits erstinstanzlich gehaltene Vortrag zum Temperaturbereich einer reduzierten Abgasrückführung war nicht ins Blaue hinein erfolgt und durfte die Prüfung eines Differenzschadens nicht abschneiden. Der BGH billigte die Ablehnung des großen Schadensersatzes aus § 826 BGB und verwies nur zur Prüfung der Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit §§ 6, 27 EG-FGV zurück.",
+        "limit": "Im OM651-Euro-5-Fall Temperatursteuerung und Fahrzeugbezug konkret, aber ohne unerreichbare interne Detailkenntnis vortragen. Die Zurückverweisung belegt weder eine unzulässige Abschalteinrichtung noch Verschulden, Haftung oder Quote; Vorsatz- und Fahrlässigkeitsspur getrennt halten. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-26",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr151-23-om651-thermofenster-vortrag"
+      },
+      {
+        "citation": "BGH, Beschluss vom 21.07.2026, VIa ZR 549/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIa_ZS/2024/VIa_ZR_549-24.pdf?__blob=publicationFile&v=1",
+        "application": "Der BGH beanstandete es nicht, dass das Berufungsgericht die Nutzungsvorteile wegen einer über 13 Jahre festgestellten, mit durchschnittlich 5.750 Kilometern ungewöhnlich niedrigen Jahresfahrleistung zeitanteilig nach einem Bruchteil des Kaufpreises geschätzt hatte. Die Wahl der Schätzungsmethode liegt innerhalb der Grenzen des § 287 ZPO im tatrichterlichen Ermessen; die Entscheidung schreibt weder allgemein eine Zeitmethode noch allgemein die lineare Kilometermethode vor.",
+        "limit": "Bei Wohnmobilen, Sammler- oder sonstigen Fahrzeugen mit atypisch geringer Jahresfahrleistung mindestens Kilometer- und Zeitmethode als Sensitivität rechnen. Fahrzeugart, Nutzungsdauer, Jahresfahrleistung, Gesamtlaufleistungsannahme und wirtschaftliche Plausibilität offenlegen; keine Methode als universell zwingend ausgeben. Volltext, Randnummer, Fassung und Folgeentwicklung unmittelbar vor Einreichung erneut prüfen.",
+        "checked_on": "2026-08-09",
+        "verification_status": "wiederverwendeter_quellenmatrix_nachweis",
+        "passages_read": "Vorhandener Datensatz bezeichnet Volltextprüfung, nennt hier aber keine einzelnen Randnummern; keine heutige neue Passagenprüfung behauptet.",
+        "previous_review": "diesel-schadensersatz/references/diesel-rechtsprechung-2021-2026.json#bgh-viazr549-24-nutzungsmethode"
       }
     ],
     "remaining_limits": [
@@ -563,5 +711,54 @@
         }
       ]
     }
-  ]
+  ],
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 26.08.2026, VIa ZR 17/23",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 26.08.2026, VIa ZR 1157/23",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 11.08.2026, VIa ZB 3/24",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 782/23",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 545/23",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 28.07.2026, VIa ZR 46/24",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 28.07.2026, VIa ZR 151/23",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 21.07.2026, VIa ZR 549/24",
+        "status": "wiederverwendeter_quellenmatrix_nachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  }
 }

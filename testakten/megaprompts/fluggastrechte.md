@@ -355,7 +355,7 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 
 - EuGH, Urt. v. 19.11.2009, C-402/07 und C-432/07 (Sturgeon u.a.) — 3-Stunden-Schwelle
 - EuGH, Urt. v. 23.10.2012, C-581/10 und C-629/10 (Nelson u.a.) — Bestaetigung Sturgeon
-- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte kein außergewöhnlicher Umstand
+- EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — übliche technische Betriebsprobleme regelmäßig nicht außergewöhnlich; externe Ursachen und Gegenmaßnahmen gesondert prüfen
 - EuGH, Urt. v. 26.2.2013, C-11/11 (Folkerts) — Endziel-Verspaetung bei Anschlussfluegen
 - EuGH, Urt. v. 4.5.2017, C-315/15 (Pesková) — Vogelschlag als außergewöhnlicher Umstand
 - EuGH, Urt. v. 31.5.2018, C-537/17 (Wegener) — einheitliche Buchung in Drittstaat
@@ -410,7 +410,7 @@ Zentrale EuGH-Entscheidungen (Stand Mai 2026; jeweils Volltext in curia.europa.e
 - § 23 Nr. 1 GVG: Streitwertgrenze 10.000 EUR seit 01.01.2026
 - EuGH-Rechtsprechung (verifiziert mit curia.europa.eu, Auszug):
  - C-402/07 / C-432/07 (Sturgeon, 19.11.2009) — 3-Stunden-Schwelle
- - C-549/07 (Wallentin-Hermann, 22.12.2008) — technischer Defekt kein außergewöhnlicher Umstand
+ - C-549/07 (Wallentin-Hermann, 22.12.2008) — übliche technische Betriebsprobleme regelmäßig nicht außergewöhnlich; externe Ursachen und Gegenmaßnahmen gesondert prüfen
  - C-11/11 (Folkerts, 26.2.2013) — Endziel-Verspätung bei Anschlussfluegen
  - C-315/15 (Pesková, 4.5.2017) — Vogelschlag
  - C-537/17 (Wegener, 31.5.2018) — einheitliche Buchung Drittstaat

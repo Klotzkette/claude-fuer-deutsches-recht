@@ -122,7 +122,9 @@
         "citation": "BGH, Beschluss vom 13.11.2024, XII ZB 558/23, Randnummern 17 bis 23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2023/XII_ZB_558-23.pdf?__blob=publicationFile&v=1",
         "application": "Bei niedrigerem Endvermögen erfüllende Auskunft feststellen und beweisbelastetem Beteiligten gegebenenfalls neutralen Hinweis zu Verbrauchsbelegen erteilen.",
-        "limit": "Keine Feststellung allein aus Kontorückgang; Gehör und Beweiswürdigung bleiben erforderlich; keine allgemeine FamFG-Amtsermittlung in Zugewinnsachen."
+        "limit": "Keine Feststellung allein aus Kontorückgang; Gehör und Beweiswürdigung bleiben erforderlich; keine allgemeine FamFG-Amtsermittlung in Zugewinnsachen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -143,5 +145,13 @@
     "continuation": "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
     "enrichment": "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

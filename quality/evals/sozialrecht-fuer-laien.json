@@ -413,13 +413,17 @@
         "citation": "BSG, Urteil vom 26.05.2020, B 1 KR 9/18 R",
         "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2020/2020_05_26_B_01_KR_09_18_R.html",
         "application": "Kein automatisches Sachleistungsversprechen aus Genehmigungsfiktion.",
-        "limit": "Erstattung, Selbstbeschaffung und Sonderrecht gesondert prüfen."
+        "limit": "Erstattung, Selbstbeschaffung und Sonderrecht gesondert prüfen.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BVerfG, Beschluss vom 12.05.2005, 1 BvR 569/05",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2005/05/rk20050512_1bvr056905.html",
         "application": "Existenzielle Nachteile mit aktueller Tatsachengrundlage und passendem Eilverfahren verbinden.",
-        "limit": "Keine automatische Leistungszusage oder erfundene Glaubhaftmachung."
+        "limit": "Keine automatische Leistungszusage oder erfundene Glaubhaftmachung.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BSG, Urteil vom 18.06.2026, B 3 KR 2/25 R, Randnummern 13 bis 18",
@@ -484,5 +488,13 @@
       "sozialrecht-fuer-laien/sozialrecht-fuer-laien-schnellstart.md",
       "sozialrecht-fuer-laien/sozialrecht-fuer-laien-werkstatt.md"
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

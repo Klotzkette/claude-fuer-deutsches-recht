@@ -254,6 +254,38 @@
       "checked_on": "2026-10-01",
       "supports": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77: Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden. Gelesen: Kopf/Leitsätze, Rn. 39–41 und 63–77. Grenze: Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler.",
       "sha256": "c3e0f687d48ee889bf561ec662a4af94faa2962bad441712a1b2cc117964acf9"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53: Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen. Grenze: Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen. Gelesener Umfang: Rn. 39–48, 50–53",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-058",
+      "source_sha256": "05ed336ba8867e92898bcc18bcff72447b96ade55a336b4becc98513aaf3abfc"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16: Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch. Grenze: Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung. Gelesener Umfang: Amtliche Seiten11–16",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-011",
+      "source_sha256": "e305b618e4a4624897cfa27773fd421d193f1e9ff13cc1fade1021d0eafd8655"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22: Sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz, sonst vorzeitige Beurkundung ablehnen. Grenze: Amtshaftung; keine automatische Vertragsnichtigkeit und kein allgemeines Zweiwochengebot. Gelesener Umfang: Amtliche PDF gelesen; Identität, Datum, zitierte Passagen, Anwendung und genannte Grenzen geprüft. Prüfstellen entsprechen der citation.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#notariat-alltag:BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22",
+      "source_sha256": "71eb74535d13b7e64b4036ed396e9d5c72e06021188f432bd5d3b40fadcc693c"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-09-25",
+      "supports": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54: Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl. Grenze: Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen. Gelesener Umfang: Rn.31–37,48–54",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-030",
+      "source_sha256": "71b431aa6d7828abd11505b6e8c761de6ab68c371a217e4aec66e85f811e0036"
     }
   ],
   "source_access_limits": [
@@ -340,19 +372,25 @@
         "citation": "BGH, Urteil vom 09.11.2023, Az. VII ZR 190/22",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR_190-22.pdf?__blob=publicationFile&v=1",
         "application": "Individuelle Skontoklausel des Architekten für den Bauherrn: keine erlaubte Nebenleistung nach Paragraf 5 RDG. HOAI und Planervollmacht ersetzen keine Befugnis; Randnummern 28 bis 38.",
-        "limit": "Rubrum, Leitsatz und Randnummern 25 bis 40 am 26.09.2026 im amtlichen PDF gelesen. Kein Verbot sämtlicher Vergabemitwirkung. Eigene Angelegenheit, anwaltliches Mandat und technische Zusammenstellung getrennt; Erfüllungsgehilfe heilt unbefugte Verpflichtung nicht."
+        "limit": "Rubrum, Leitsatz und Randnummern 25 bis 40 am 26.09.2026 im amtlichen PDF gelesen. Kein Verbot sämtlicher Vergabemitwirkung. Eigene Angelegenheit, anwaltliches Mandat und technische Zusammenstellung getrennt; Erfüllungsgehilfe heilt unbefugte Verpflichtung nicht.",
+        "checked_on": "2026-09-28",
+        "verification_status": "wiederverwendeter_dokumentierter_profilstand"
       },
       {
         "citation": "BGH, Urteil vom 15.02.2024, Az. VII ZR 42/22",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2022/VII_ZR__42-22.pdf?__blob=publicationFile&v=1",
         "application": "Enger Leitsatzanker: Unwirksamkeit der konkret verwendeten Vertragsstrafenklausel im Einheitspreisvertrag nach Paragraf 307 BGB; Klauselwortlaut und Bezugsgröße prüfen.",
-        "limit": "Amtliche PDF am 28.09.2026: Randnummern 30 bis 41 gelesen. Konkreter Einheitspreisvertrag und konkrete AGB; keine Freigabe jeder Fünfprozentklausel."
+        "limit": "Amtliche PDF am 28.09.2026: Randnummern 30 bis 41 gelesen. Konkreter Einheitspreisvertrag und konkrete AGB; keine Freigabe jeder Fünfprozentklausel.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 08.08.2019, Az. VII ZR 34/18",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
         "application": "Begrenzter Mehrmengenanker zur Preisbildung nach Paragraf 2 Absatz 3 Nummer 2 VOB/B bei fehlender abweichender Vereinbarung.",
-        "limit": "Amtliche PDF einschließlich Berichtigung vom 18.09.2019 am 28.09.2026: Randnummern 13 bis 26 gelesen. Keine generelle Formel für Pauschalverträge, Änderungen nach BGB oder sämtliche Nachträge."
+        "limit": "Amtliche PDF einschließlich Berichtigung vom 18.09.2019 am 28.09.2026: Randnummern 13 bis 26 gelesen. Keine generelle Formel für Pauschalverträge, Änderungen nach BGB oder sämtliche Nachträge.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 15.01.2026 – Az. VII ZR 119/24, Rn. 39–41 und 63–77",
@@ -360,6 +398,90 @@
         "checked_on": "2026-10-01",
         "application": "Zumutbare Prüfung fremder Vorplanung; Planungs-, Überwachungs- und Koordinationsbeiträge nach konkretem Vertragsverhältnis und erforderlicher Bestellermitwirkung unterscheiden.",
         "limit": "Verträge 2009/2010, damalige HOAI; keine automatische Leistungsphasenzurechnung und keine pauschale Mitverschuldensquote. Keine Gleichsetzung des Koordinationsfehlers mit bloßem Überwachungsfehler."
+      },
+      {
+        "citation": "BGH, Urteil vom 22.04.2026, VII ZR 88/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2025/VII_ZR__88-25.pdf?__blob=publicationFile&v=1",
+        "application": "Tragend ist die Auslegung des gesamten konkreten Vertrags: Die letzte Rate war bei der dortigen Kombination von vollständiger Fertigstellung und protokollierten Mängelbeseitigungspflichten noch nicht fällig. Abnahmereife genügte nicht. Der BGH entschied die abstrakte Auslegung des gewerberechtlichen Fertigstellungsbegriffs ausdrücklich nicht abschließend. Umsetzung: Der Entwurf trennt Bezugsfertigkeit, individuelle Abnahme, Besitzübergabe und Schlussrate; die letzte Rate setzt ausdrücklich auch die Erledigung protokollierter Restleistungen und Mängel voraus. Der Verkäufer schützt seine Liquidität durch prüfbare Teilraten, keine künstliche Schlussratenfälligkeit.",
+        "limit": "Früheren dokumentierten Prüfstand übernommen; bei VII ZR 68/24 und 108/24 altes Schuldrecht/AGBG, keine heutige pauschale 30-Jahresfrist.",
+        "checked_on": "2026-09-28",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Rn. 19–30.**",
+        "previous_review": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+      },
+      {
+        "citation": "BGH, Urteil vom 26.03.2026, VII ZR 68/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR__68-24.pdf?__blob=publicationFile&v=1",
+        "application": "Die obligatorische GE-Abnahme durch drei Erwerbervertreter entzieht dem einzelnen Erwerber das eigene Prüf- und Erklärungsrecht. Eine frei gewählte Vertretung bleibt möglich. Die Aussagen zur Verjährung und 30-Jahres-Obergrenze betreffen den dortigen Kostenvorschussanspruch nach altem Schuldrecht. Umsetzung: gemeinsame Begehung organisatorisch bündeln, anschließend für jeden Erwerber eine eigene Erklärung dokumentieren; keine Mehrheitsabnahme und kein behaupteter allgemeiner Verjährungsbeginn für alle acht Käufer.",
+        "limit": "Früheren dokumentierten Prüfstand übernommen; bei VII ZR 68/24 und 108/24 altes Schuldrecht/AGBG, keine heutige pauschale 30-Jahresfrist.",
+        "checked_on": "2026-09-28",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Rn. 36–43, 49–54.**",
+        "previous_review": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+      },
+      {
+        "citation": "BGH, Urteil vom 26.03.2026, VII ZR 108/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZR_108-24.pdf?__blob=publicationFile&v=1",
+        "application": "Die formularmäßig zwingende Abnahme durch einen von der ersten Eigentümerversammlung zu bestellenden vereidigten Sachverständigen hielt der Kontrolle nicht stand. Die Fachkunde des Dritten genügt nicht, wenn das eigene Abnahmerecht entfällt. Umsetzung: Technischer Gutachter begleitet die Begehung, seine Bescheinigung ist weder kaufvertragliche Abnahme noch Freibrief für die Schlussrate. Auch diese Entscheidung betrifft vor 2002 begründete Vertragsverhältnisse; die 30-Jahres-Grenze wird nicht in die neuen Vertragsbedingungen übernommen.",
+        "limit": "Früheren dokumentierten Prüfstand übernommen; bei VII ZR 68/24 und 108/24 altes Schuldrecht/AGBG, keine heutige pauschale 30-Jahresfrist.",
+        "checked_on": "2026-09-28",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Rn. 33–40, 41–55.**",
+        "previous_review": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+      },
+      {
+        "citation": "BGH, Urteil vom 23.01.2026, V ZR 91/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2025/V_ZR__91-25.pdf?__blob=publicationFile&v=1",
+        "application": "Private Vermögensverwaltung kann Verbraucherhandeln bleiben; eine umsatzsteuerliche Unternehmerbezeichnung entscheidet dies nicht. Ein formularmäßiger Änderungs- oder Zustimmungsmechanismus muss triftige Gründe konkret benennen und zumutbar bleiben. Als Beispiele behandelt der BGH behördliche Auflagen, Erschließungssicherung, Planungsfehler und Sonderwünsche anderer Erwerber. Ein unwirksamer Mechanismus lässt sich regelmäßig nicht über Treu und Glauben retten. Umsetzung: keine freie oder nur negativ begrenzte Vollmacht; jeder Änderungsfall erhält Grund, betroffene Planstelle und Interessenvergleich. Wohnung, Fläche, Kostenquote, Nutzungsart und zugeordneter Stellplatz werden nicht einseitig verschlechtert.",
+        "limit": "Früheren dokumentierten Prüfstand übernommen; bei VII ZR 68/24 und 108/24 altes Schuldrecht/AGBG, keine heutige pauschale 30-Jahresfrist.",
+        "checked_on": "2026-09-28",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Rn. 12–16, 17–27.**",
+        "previous_review": "bauwirtschaft/references/entscheidungsanker-bautraeger-2026.md"
+      },
+      {
+        "citation": "BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2017/X_ZB___3-17.pdf?__blob=publicationFile&v=1",
+        "application": "Bei streitigen Konzeptnoten zwischen zulässigem Notenmodell und konkret dokumentierter Bewertung unterscheiden; Angebotszusagen und Vergleichsbegründung abgleichen.",
+        "limit": "Keine eigene Wunschbenotung oder automatische Neuwertung allein wegen fehlender Punktebeschreibung; besondere Komplexität in Randnummer 48 offengelassen, Hinweise zur konkreten Wertung nicht als bereits festgestellter Wertungsfehler darstellen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-058",
+        "passages_read": "Rn. 39–48, 50–53",
+        "evidence_sha256": "05ed336ba8867e92898bcc18bcff72447b96ade55a336b4becc98513aaf3abfc"
+      },
+      {
+        "citation": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZR_310-99.pdf?__blob=publicationFile&v=1",
+        "application": "Verfrühte erste Rate führte zur Unwirksamkeit des gesamten Zahlungsplans; MaBV-Stufen ersetzen ihn nicht automatisch.",
+        "limit": "Vertrag von 1994 und damalige Rechtslage; heutige Fälligkeit zusätzlich nach Paragraf 650v BGB und Paragraf 1 AbschlagsV prüfen, keine automatische Gesamtrückzahlung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-011",
+        "passages_read": "Amtliche Seiten11–16",
+        "evidence_sha256": "e305b618e4a4624897cfa27773fd421d193f1e9ff13cc1fade1021d0eafd8655"
+      },
+      {
+        "citation": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_121-12.pdf?__blob=publicationFile&v=1",
+        "application": "Sachlicher Verkürzungsgrund und anderweitiger Übereilungsschutz, sonst vorzeitige Beurkundung ablehnen.",
+        "limit": "Amtshaftung; keine automatische Vertragsnichtigkeit und kein allgemeines Zweiwochengebot.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#notariat-alltag:BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22",
+        "passages_read": "Amtliche PDF gelesen; Identität, Datum, zitierte Passagen, Anwendung und genannte Grenzen geprüft. Prüfstellen entsprechen der citation.",
+        "evidence_sha256": "71eb74535d13b7e64b4036ed396e9d5c72e06021188f432bd5d3b40fadcc693c"
+      },
+      {
+        "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__46-17A.pdf?__blob=publicationFile&v=1",
+        "application": "Bei behaltenem mangelhaftem Werk Beseitigungsabsicht feststellen: kein kleiner Schadensersatz nach fiktiven Beseitigungskosten, aber zweckgebundener abzurechnender Vorschuss bei geplanter Beseitigung grundsätzlich auch nach Schadensersatzwahl.",
+        "limit": "Werkvertragsrecht, keine allgemeine Übertragung auf Kauf oder Delikt; Anspruchsvoraussetzungen und tatsächliche Dispositionen bleiben gesondert zu prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#BGH-030",
+        "passages_read": "Rn.31–37,48–54",
+        "evidence_sha256": "71b431aa6d7828abd11505b6e8c761de6ab68c371a217e4aec66e85f811e0036"
       }
     ],
     "remaining_limits": [
@@ -2173,5 +2295,54 @@
       "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",
       "runtime_status": "not_run"
     }
-  ]
+  ],
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 22.04.2026, VII ZR 88/25",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 26.03.2026, VII ZR 68/24",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 26.03.2026, VII ZR 108/24",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 23.01.2026, V ZR 91/25",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 4. April 2017, X ZB 3/17, Postdienstleistungen, Randnummern 39–48 und Hinweise 50–53",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 22.12.2000, VII ZR 310/99, amtlicher Volltext S. 11–16",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 07.02.2013, III ZR 121/12, Randnummern 20 bis 22",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 22.02.2018, VII ZR 46/17, Rn. 31–37 und 48–54",
+        "status": "wiederverwendeter_auditnachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  }
 }

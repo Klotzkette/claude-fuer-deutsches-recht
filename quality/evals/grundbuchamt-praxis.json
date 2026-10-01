@@ -126,7 +126,9 @@
         "citation": "BGH, Beschluss vom 19.10.2023, V ZB 8/23, Rn. 10–18 und 25–31",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2023/V_ZB___8-23.pdf?__blob=publicationFile&v=1",
         "application": "Bloße Behauptung der Testierunfähigkeit rechtfertigt keinen Zeugniszwang; bei tatsächlichen nachlassgerichtlichen Ermittlungen Zeugnis oder Verfahrensausgang abwarten. Testamentsvollstreckervermerk belegt nicht Person oder konkrete Verfügungsbefugnis.",
-        "limit": "Grundbuchrechtlicher Nachweis bei öffentlicher Verfügung; keine materielle Bestätigung jedes Testaments, keine positive Publizität des Vollstreckervermerks."
+        "limit": "Grundbuchrechtlicher Nachweis bei öffentlicher Verfügung; keine materielle Bestätigung jedes Testaments, keine positive Publizität des Vollstreckervermerks.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -146,5 +148,13 @@
     "continuation": "Neue Urkunde -> fehlender Nachweis oder neue materielle Erklärung unterscheiden; Schuldtilgung -> Löschungsunterlagen statt automatische Löschung; Rangänderung -> Antrag anpassen.",
     "enrichment": "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

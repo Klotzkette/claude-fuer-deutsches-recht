@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "prozessrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__276.html",
@@ -32,32 +32,39 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__139.html",
       "checked_on": "2026-09-23",
       "supports": "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil. Prüftiefe: Normtexte erneut gelesen; bisherige Grenze des BGH-Leitsatzabrufs bleibt bestehen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Gründe Rn. 1–44 vollständig. Ersatzfax braucht wirksame Signatur; konkrete technische Unmöglichkeit glaubhaft machen; Wegfall des Hindernisses und Wiedereinsetzungsfrist getrennt erfassen. Grenze: Berufungsbegründung: Monatsfrist, keine Verlängerung durch bloße Stellungnahmefrist; Faxalternative nur bei Zumutbarkeit. Zurückverweisung, keine automatische Wiedereinsetzung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Fristsichernde Erklärung samt eigenem Eingangsbeleg behandelt; sachfremde strafrechtliche Warnnormen entfernt, besondere Verfahrenslagen erhalten.",
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
-      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
+      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "aa636dd11fc6e2f8df59cbc841c5c0998929cc8f3b71cc14d7c128f22827b2c7",
-    "reviewed_on": "2026-09-23",
+    "sha256": "7a762ff5c1c0acdee556533f6005160e59fb9539c6c30cd2eac3d6f1b80d323c",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt individuell auf Einstieg, fachliche Fortsetzung und vollständiges Arbeitsprodukt geprüft. Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Verteidigungsanzeige und Sachverteidigung aus konkreter Zustellung und Verfügung entwickeln.",
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
-      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil."
+      "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "93401a389943e7e884a4f1a6ae355427a602844b335f06ede05cc708d6d07ead",
-    "reviewed_on": "2026-09-23",
+    "sha256": "863dad82d9c6b8a713282b8577c091917c676469d5c4d2958b1be12b01124380",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -105,7 +112,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "prozessrecht/README.md",
       "prozessrecht/prozessrecht-werkstatt.md",
@@ -123,6 +130,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "application": "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
         "limit": "Amtlicher Leitsatz gelesen; Volltextzugriff gestört. Ausgangskontrolle bewirkt weder Fristverlängerung noch eine Aussage zur Schlüssigkeit."
+      },
+      {
+        "citation": "BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1",
+        "application": "Ersatzfax braucht wirksame Signatur; konkrete technische Unmöglichkeit glaubhaft machen; Wegfall des Hindernisses und Wiedereinsetzungsfrist getrennt erfassen.",
+        "limit": "Berufungsbegründung: Monatsfrist, keine Verlängerung durch bloße Stellungnahmefrist; Faxalternative nur bei Zumutbarkeit. Zurückverweisung, keine automatische Wiedereinsetzung."
       }
     ],
     "remaining_limits": [

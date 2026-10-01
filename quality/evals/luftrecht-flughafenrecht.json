@@ -144,7 +144,8 @@
         "citation": "BVerwG, Urteil vom 4. April 2012, 4 C 8.09, Rn. 372 bis 378 und 386 bis 388",
         "url": "https://www.bverwg.de/040412U4C8.09.0",
         "application": "Amtliche entscheidende Gründe gelesen: Begrenzung tagähnlicher Spitzen auch in Nachtrandstunden; gesamte künftige Belastung bei dortigem Ausbau, nicht nur rechnerischer Zuwachs.",
-        "limit": "Frankfurter Betriebs- und Kontingentkonzept nicht bundesweit übertragbar; kein allgemeines Nachtflugverbot und kein automatischer baulicher Schallschutzanspruch."
+        "limit": "Frankfurter Betriebs- und Kontingentkonzept nicht bundesweit übertragbar; kein allgemeines Nachtflugverbot und kein automatischer baulicher Schallschutzanspruch.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
@@ -152,7 +153,18 @@
       "Kapstadt-Ratifikationen, Flughafenfestsetzungen, technische ICAO/IATA-Originaltexte und alle aktuellen EU-Ausnahmen nicht vollständig verifiziert; fallbezogener Abruf bleibt nötig.",
       "Gelesene gewöhnliche Skills flughafen-planfeststellung und pfaendung-flugzeug-deutschland außerhalb Schreibbereich: enthalten weiter unzutreffende pauschale Registerlisten, Präklusionsaussagen beziehungsweise Vollstreckungsnormen. README enthält weiter pauschalen Rechtsberatungs-Ausschluss; nicht verändert.",
       "Nachprüfung am 2026-09-23: Alle Profil-URLs erneut geöffnet. Paragrafen 6, 8 und 29b LuftVG, Paragraf 99 LuftFzgG und Paragraf 171b ZVG vollständig lesbar; BVerwG 4 C 8.09 Rn. 372 bis 378 erneut gelesen. Paragraf 27 LuftVG scheiterte beim erneuten Abruf technisch; früherer Quellenstand erhalten. Keine Vollverifikation aller EU-, Auslands-, Register- und Fachregeltexte, keine Prognoseberechnung oder betriebliche Ausführung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "luftrecht-flughafenrecht/luftrecht-flughafenrecht-schnellstart.md",
+        "luftrecht-flughafenrecht/luftrecht-flughafenrecht-werkstatt.md"
+      ],
+      "result": "Frankfurter Nachtkontingente bleiben einzelfallbezogen. Nachtrandstunden, Gesamtbelastung und Ausbau werden getrennt; kein bundesweites Nachtflugverbot behauptet.",
+      "search_2026": "2026-Suche zum Nachtflugrecht ergab ältere Entscheidungen; kein geeigneter neuer Fall vollständig verifiziert.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

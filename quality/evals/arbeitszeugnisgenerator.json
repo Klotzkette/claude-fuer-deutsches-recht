@@ -32,6 +32,46 @@
       "url": "https://www.gesetze-im-internet.de/gewo/__109.html",
       "checked_on": "2026-09-23",
       "supports": "Absatz 3: elektronische Erteilung mit Einwilligung; PDF-Dateiformat allein ist keine gesicherte formgerechte Erteilung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25: Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar. Grenze: Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern. Gelesener Umfang: Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
+      "source_sha256": "ca1da9ad0d3eeb8bc7d2431455154c4783aa2cd72129d5b47d7750a7103be5eb"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B): Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam. Grenze: Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB. Gelesener Umfang: Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+      "source_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22: Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen. Grenze: Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht. Gelesener Umfang: {\"status\": \"supported\", \"metadata_checked\": [\"court\", \"decision_type\", \"date\", \"docket\"], \"checked_paragraphs\": [\"9–25\", \"30–34\"], \"application_paragraphs\": [\"9\", \"13\", \"16–24\"], \"limit_paragraphs\": [\"21\", \"30–34\"], \"finding\": \"Kein sachlicher Fehler. § 612a BGB kann die Wiederaufnahme einer als Reaktion auf berechtigte Beanstandung entfernten Schlussformel verlangen. Rn. 31 verlangt die Rechtsausübung als wesentliches Motiv; Rn. 32–34 behandeln Darlegung, Beweis und die konkrete Kausalitätswürdigung.\", \"scope_note\": \"Kein zeitlicher Automatismus und keine allgemeine Unabänderlichkeit aller Schlussformeln. Rn. 21 lässt sachliche Gründe für ein Abweichen zu. Die Entscheidung ist korrekt als Versäumnisurteil bezeichnet; sie beruht laut Rn. 12 auf einer Sachprüfung.\"}",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnispruefer:BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+      "source_sha256": "e0b7c15ed90622f34b1e887008f6fe4bfb412f015eb18eb3f0993f9d4f0d7093"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21: Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln. Grenze: Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen. Gelesener Umfang: {\"status\": \"supported\", \"metadata_checked\": [\"court\", \"decision_type\", \"date\", \"docket\"], \"checked_paragraphs\": [\"11–14\", \"21–25\"], \"application_paragraphs\": [\"11–12\", \"21–24\"], \"limit_paragraphs\": [\"21–24\"], \"finding\": \"Kein sachlicher Fehler. Ein allgemeiner Anspruch auf eine Dankes- und Wunschformel folgt weder aus § 109 GewO noch aus dem Rücksichtnahmegebot. Die Aufforderung, andere Anspruchsgrundlagen gesondert zu prüfen, verleiht solche Ansprüche nicht pauschal.\", \"scope_note\": \"Vertragliche Zusagen werden nicht durch dieses Urteil abschließend entschieden. Zur gesonderten Prüfung einer vertraglichen Verpflichtung ergänzend 9 AZR 227/11 Rn. 14; zur Maßregelung 9 AZR 272/22 Rn. 13–23 und 30–34.\"}",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnispruefer:BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+      "source_sha256": "63bc3f1aa09b054cd4f353b23fd057637328290057f85e00964bee5ecfcb3286"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+      "checked_on": "2026-09-25",
+      "supports": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10: Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen. Grenze: Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil. Gelesener Umfang: Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+      "verification_status": "wiederverwendeter_auditnachweis",
+      "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+      "source_sha256": "333ad2d3781cf6fc42993b04263994cfffb06665fedff8265cac63fa18e419af"
     }
   ],
   "mini_review": {
@@ -130,13 +170,116 @@
         "citation": "BAG, Urteil vom 27.04.2021, 9 AZR 262/20",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-262-20/",
         "application": "Schulnotentabelle für qualifiziertes Zeugnis durch individuelle Sätze über belegte Leistung und Verhalten ersetzen.",
-        "limit": "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge."
+        "limit": "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 18.11.2014, 9 AZR 584/13",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-584-13/",
         "application": "Gute Bewertung verlangt konkrete Leistungstatsachen.",
-        "limit": "Volltext Rn. 8 bis 13; keine automatische Note bei fehlender Bewertung."
+        "limit": "Volltext Rn. 8 bis 13; keine automatische Note bei fehlender Bewertung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+        "application": "Vergleich mit Entwurfsrecht ist unter den festgelegten Bindungen vollstreckbar.",
+        "limit": "Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
+        "passages_read": "Volltext Rn. 10 bis 20; plausible Wahrheits- und Klarheitseinwände können neues Erkenntnisverfahren erfordern.",
+        "evidence_sha256": "ca1da9ad0d3eeb8bc7d2431455154c4783aa2cd72129d5b47d7750a7103be5eb"
+      },
+      {
+        "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-96-24-b/",
+        "application": "Vor Beendigung vereinbarter Verzicht auf qualifiziertes Zeugnis unwirksam.",
+        "limit": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "passages_read": "Volltext Rn. 49 bis 61; kollisionsrechtlich Altvertrag nach Artikel 30 EGBGB.",
+        "evidence_sha256": "d1d749033be04b503b5d91fd083199bbea3d14d0e447ebf0890bf1eb165ba4f2"
+      },
+      {
+        "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-272-22/",
+        "application": "Nachteilige Entfernung einer erteilten Schlussformel nach berechtigter Beanstandung an Paragraf 612a BGB prüfen.",
+        "limit": "Zulässige Rechtsausübung muss wesentliches Motiv sein; zeitliche Folge allein genügt nicht.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnispruefer:BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+        "passages_read": {
+          "status": "supported",
+          "metadata_checked": [
+            "court",
+            "decision_type",
+            "date",
+            "docket"
+          ],
+          "checked_paragraphs": [
+            "9–25",
+            "30–34"
+          ],
+          "application_paragraphs": [
+            "9",
+            "13",
+            "16–24"
+          ],
+          "limit_paragraphs": [
+            "21",
+            "30–34"
+          ],
+          "finding": "Kein sachlicher Fehler. § 612a BGB kann die Wiederaufnahme einer als Reaktion auf berechtigte Beanstandung entfernten Schlussformel verlangen. Rn. 31 verlangt die Rechtsausübung als wesentliches Motiv; Rn. 32–34 behandeln Darlegung, Beweis und die konkrete Kausalitätswürdigung.",
+          "scope_note": "Kein zeitlicher Automatismus und keine allgemeine Unabänderlichkeit aller Schlussformeln. Rn. 21 lässt sachliche Gründe für ein Abweichen zu. Die Entscheidung ist korrekt als Versäumnisurteil bezeichnet; sie beruht laut Rn. 12 auf einer Sachprüfung."
+        },
+        "evidence_sha256": "e0b7c15ed90622f34b1e887008f6fe4bfb412f015eb18eb3f0993f9d4f0d7093"
+      },
+      {
+        "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-146-21/",
+        "application": "Fehlenden erstmaligen Dank nicht als allgemeinen gesetzlichen Berichtigungsanspruch behandeln.",
+        "limit": "Zusage, Vereinbarung und Maßregelung wegen berechtigter Beanstandung gesondert prüfen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnispruefer:BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+        "passages_read": {
+          "status": "supported",
+          "metadata_checked": [
+            "court",
+            "decision_type",
+            "date",
+            "docket"
+          ],
+          "checked_paragraphs": [
+            "11–14",
+            "21–25"
+          ],
+          "application_paragraphs": [
+            "11–12",
+            "21–24"
+          ],
+          "limit_paragraphs": [
+            "21–24"
+          ],
+          "finding": "Kein sachlicher Fehler. Ein allgemeiner Anspruch auf eine Dankes- und Wunschformel folgt weder aus § 109 GewO noch aus dem Rücksichtnahmegebot. Die Aufforderung, andere Anspruchsgrundlagen gesondert zu prüfen, verleiht solche Ansprüche nicht pauschal.",
+          "scope_note": "Vertragliche Zusagen werden nicht durch dieses Urteil abschließend entschieden. Zur gesonderten Prüfung einer vertraglichen Verpflichtung ergänzend 9 AZR 227/11 Rn. 14; zur Maßregelung 9 AZR 272/22 Rn. 13–23 und 30–34."
+        },
+        "evidence_sha256": "63bc3f1aa09b054cd4f353b23fd057637328290057f85e00964bee5ecfcb3286"
+      },
+      {
+        "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-386-10/",
+        "application": "Bei kennen gelernt den Gesamtzusammenhang auslegen statt negativen Code unterstellen.",
+        "limit": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis",
+        "previous_review": "quality/source-audits/2026-09-25/profile-register.json#arbeitszeugnis-analyse:BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "passages_read": "Volltext Rn. 23 bis 31; kein Anspruch auf beliebigen Stil.",
+        "evidence_sha256": "333ad2d3781cf6fc42993b04263994cfffb06665fedff8265cac63fa18e419af"
       }
     ],
     "remaining_limits": [
@@ -144,5 +287,39 @@
       "Volltext Rn. 15 bis 18; kein Anspruch auf beliebige Superlative oder erfundene Erfolge.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Beschluss vom 07.05.2026, 8 AZB 25/25",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Teilurteil vom 18.06.2025, 2 AZR 96/24 (B)",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Versäumnisurteil vom 06.06.2023, 9 AZR 272/22",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 25.01.2022, 9 AZR 146/21",
+        "status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 15.11.2011, 9 AZR 386/10",
+        "status": "wiederverwendeter_auditnachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

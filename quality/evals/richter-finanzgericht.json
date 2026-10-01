@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "richter-finanzgericht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/fgo/__69.html",
@@ -37,32 +37,39 @@
       "url": "https://www.gesetze-im-internet.de/fgo/__68.html",
       "checked_on": "2026-09-23",
       "supports": "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen. Quellenstatus: Paragraf 69 direkt gelesen; Paragraf 68 nach gescheitertem Direktabruf im amtlichen Suchindex geprüft. Bisherige BFH-Anwendungsgrenze bleibt."
+    },
+    {
+      "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610056/",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher Volltext: Tenor und Entscheidungsgründe II.1–6 gelesen, verwendet II.1–3. Ernstliche Zweifel an einem Einzelansatz tragen keine AdV, soweit gegenläufige Fehler desselben Bescheids die Entlastung aufzehren. Beide Korrekturen und verbleibenden Aussetzungsbetrag berechnen. Grenze: Verböserungsverbot beachten; keine Verrechnung beliebiger anderer Steuerjahre. Materielle Auslegung des § 50d Absatz 9 Satz 4 EStG blieb im Eilverfahren offen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "AdV-Maßstab ohne überwiegende Erfolgswahrscheinlichkeit mit Doppelzählungsfall verknüpft; Beschwerde und Revision sowie Paragraf 114 abgegrenzt.",
       "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
       "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
-      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen."
+      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen.",
+      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar."
     ],
-    "sha256": "cc9ca36d1d77e9b27564ccdc516697c580ebc1fb40edf657a39c78f3de59ddbc",
-    "reviewed_on": "2026-09-23",
+    "sha256": "ee5479f00bfaa419cde6d229ad0b7cfc8bb8f1ac92b84842e54f29da4108c113",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individuelle Lektüre und Workflow-Vertiefung: Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen. Desk review, keine Live-Client-Ausführung.",
+    "reason": "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Streitige Steuerfestsetzung und Aussetzungsbetrag aus Bescheidkette und Gegenrechnung bestimmen.",
       "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
       "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
-      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen."
+      "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen.",
+      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar."
     ],
-    "sha256": "15bc4f91f9ef136d8140a38142bbcf0aa3d91d1937630e64ce3cda8e54978242",
-    "reviewed_on": "2026-09-23",
+    "sha256": "5a162410331c32c6c004634668157ac83cde36956058d2e4c7972b6ad094e82e",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -142,12 +149,13 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "gerichtsplugins/richter-finanzgericht/README.md",
       "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
       "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
-      "quality/evals/richter-finanzgericht.json"
+      "quality/evals/richter-finanzgericht.json",
+      "gerichtsplugins/richter-finanzgericht/skills/03-aussetzung-der-vollziehung/SKILL.md"
     ],
     "opening_change": "Streitige Steuerfestsetzung und Aussetzungsbetrag aus Bescheidkette und Gegenrechnung bestimmen",
     "norms": [
@@ -160,7 +168,15 @@
         "citation": "BFH, Beschluss vom 06.06.2025, II B 43/24 (AdV)",
         "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202520179/",
         "application": "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
-        "limit": "Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten."
+        "limit": "Amtlicher Volltext gelesen, tragend Gründe II.1; Schenkungsteuerfall liefert nur allgemeinen AdV-Maßstab, nicht materielles Ergebnis anderer Steuerarten.",
+        "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "BFH, Beschluss vom 04.03.2026, VI B 44/25 (AdV)",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610056/",
+        "application": "Ernstliche Zweifel an einem Einzelansatz tragen keine AdV, soweit gegenläufige Fehler desselben Bescheids die Entlastung aufzehren. Beide Korrekturen und verbleibenden Aussetzungsbetrag berechnen.",
+        "limit": "Verböserungsverbot beachten; keine Verrechnung beliebiger anderer Steuerjahre. Materielle Auslegung des § 50d Absatz 9 Satz 4 EStG blieb im Eilverfahren offen.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
@@ -168,7 +184,19 @@
       "Keine vollständige Prüfung des materiellen Rechts sämtlicher Steuerarten oder Live-Berechnung einer Steuerakte.",
       "Individuelle redaktionelle Akten- und Quellenprüfung (desk review), kein Live-Client- oder Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Paragraf 69 direkt gelesen; Paragraf 68 nach gescheitertem Direktabruf im amtlichen Suchindex geprüft. Bisherige BFH-Anwendungsgrenze bleibt. Desk review; kein Live-Client-Test."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-schnellstart.md",
+        "gerichtsplugins/richter-finanzgericht/richter-finanzgericht-werkstatt.md",
+        "gerichtsplugins/richter-finanzgericht/skills/03-aussetzung-der-vollziehung/SKILL.md"
+      ],
+      "result": "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar.",
+      "search_2026": "VI B 44/25 (AdV) vom 04.03.2026 neu amtlich gelesen und ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

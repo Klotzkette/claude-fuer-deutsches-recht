@@ -105,7 +105,9 @@
         "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
         "application": "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
-        "limit": "Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister."
+        "limit": "Amtlicher Volltext gelesen, Rn. 15 bis 20. Kündigungszugang, keine Entscheidung über Vertragsfreigabe; kein Beweis des Nichtzugangs und keine abschließende Beweiswürdigung durch Dokumentenregister.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -126,5 +128,13 @@
     "continuation": "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
     "enrichment": "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

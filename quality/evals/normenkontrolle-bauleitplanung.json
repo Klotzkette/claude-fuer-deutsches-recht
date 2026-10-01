@@ -132,13 +132,15 @@
         "citation": "BVerwG, Urteil vom 20. Januar 2021, 4 CN 7.19, Rn. 25",
         "url": "https://ssl.bverwg.de/200121U4CN7.19.0",
         "application": "Eigene Gründe gelesen: Rüge braucht konkret substantiierten Sachverhalt, Auslegung im Aktenkontext kann Fachamtsstellungnahmen erfassen.",
-        "limit": "Keine pauschale Fehlererhaltung und keine materielle Planunwirksamkeit allein durch wirksame Rüge; damalige Beteiligungsfassung gesondert vom heutigen Paragraf 3."
+        "limit": "Keine pauschale Fehlererhaltung und keine materielle Planunwirksamkeit allein durch wirksame Rüge; damalige Beteiligungsfassung gesondert vom heutigen Paragraf 3.",
+        "checked_on": "2026-09-23"
       },
       {
         "citation": "BVerwG, Urteil vom 18. Juli 2023, 4 CN 3.22, Rn. 8 bis 21",
         "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2024-03/4_cn_3.22_entscheidung_18.07.2023_deutsche_fassung.pdf",
         "application": "Amtlicher Volltext gelesen: pauschale Befreiung von Umweltprüfung im früheren Paragraf 13b unionsrechtswidrig; rechtzeitig gerügter Umweltprüfungs- und Berichtsfehler führte dort zur Gesamtunwirksamkeit.",
-        "limit": "Kein allgemeines Verbot des Paragrafen 13a; spätere Fehlerbehebung und geltende Planerhaltung gesondert prüfen."
+        "limit": "Kein allgemeines Verbot des Paragrafen 13a; spätere Fehlerbehebung und geltende Planerhaltung gesondert prüfen.",
+        "checked_on": "2026-09-23"
       }
     ],
     "remaining_limits": [
@@ -146,7 +148,18 @@
       "Nicht verifizierte Altfundstellen aus der Werkstatt entfernt; spezielle weitere Vertragsrechtsprechung bleibt fallbezogene Recherche.",
       "Gewöhnlicher Frist-Skill nicht geändert; sein pauschaler Wiedereinsetzungs- und Bekanntmachungsansatz wird im Mini weiterhin ausdrücklich nicht übernommen.",
       "Workflow-Nachprüfung 2026-09-23: alle bisherigen Profilquellen erneut geöffnet; Paragraf 215 nach Browserfehler direkt amtlich gelesen, BVerwG-Pinpoints und Normfassungen erneut abgeglichen. Keine neuen Entscheidungen oder pauschale Vollverifikation landesrechtlicher Bekanntmachung, Umweltgutachten, Verbandszugänge oder städtebaulicher Verträge. Bisheriger datierter Quellenreview bleibt erhalten."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-schnellstart.md",
+        "normenkontrolle-bauleitplanung/normenkontrolle-bauleitplanung-werkstatt.md"
+      ],
+      "result": "Substantiierte §-215-Rüge bleibt vom materiellen Planfehler getrennt; alter § 13b und heutige Planerhaltung werden auseinandergehalten. Neuer Erhaltungssatzungsfund wurde nicht pauschal auf Bebauungsplanabwägung übertragen.",
+      "search_2026": "4 CN 2.25 vom 23.06.2026 zur Erhaltungssatzung gefunden, nur amtlichen Suchtreffer/Leitsatz gelesen. Nicht ungeprüft auf Bebauungsplanabwägung übertragen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

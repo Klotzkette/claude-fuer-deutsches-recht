@@ -127,18 +127,31 @@
         "citation": "EuGH, Urteil vom 15. April 2021, C-515/19, Eutelsat",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0515",
         "application": "Satellitenteil braucht keinen überwiegenden Datenverkehr, aber einen tatsächlichen und notwendigen Systembeitrag; Bedingungen ergänzender Bodenkomponenten prüfen.",
-        "limit": "Amtlicher Volltext einschließlich Tenor geprüft. Entscheidung betrifft mobile Satellitendienste nach Entscheidung 626/2008/EG, keine allgemeine Startzulassung oder unbegrenzte terrestrische Netznutzung."
+        "limit": "Amtlicher Volltext einschließlich Tenor geprüft. Entscheidung betrifft mobile Satellitendienste nach Entscheidung 626/2008/EG, keine allgemeine Startzulassung oder unbegrenzte terrestrische Netznutzung.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "EuGH, Urteil vom 12. Juni 2025, C-415/23 P, OHB System/Kommission, Randnummern 66 bis 82",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62023CJ0415",
         "application": "Objektive Anhaltspunkte zur Unabhängigkeit von Angeboten im Galileo-Vergabeverfahren verlangen Aufklärung, nicht zwingend bereits Vollbeweis einer Einflussnahme.",
-        "limit": "Amtlicher Volltext geprüft. Personalwechsel allein kein automatischer Ausschlussgrund; Zurückverweisung, kein endgültiger Zuschlag oder Wettbewerberausschluss."
+        "limit": "Amtlicher Volltext geprüft. Personalwechsel allein kein automatischer Ausschlussgrund; Zurückverweisung, kein endgültiger Zuschlag oder Wettbewerberausschluss.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Workflow-Review: keine neue Gesamtprüfung nationaler Zulassungsgesetze oder aktueller Staatenbindungen; UNOOSA-PDFs nicht erneut erreichbar, neuer Fristenbeleg aus UNTS.",
       "Keine Live-Modellprüfung; nationale Zuständigkeit und spätere Gesetzesänderungen müssen bei konkreter Verwendung zusätzlich geprüft werden."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "weltraumrecht/weltraumrecht-schnellstart.md",
+        "weltraumrecht/weltraumrecht-werkstatt.md"
+      ],
+      "result": "Eutelsat betrifft notwendigen Satellitenbeitrag im mobilen System, keine allgemeine Startzulassung. OHB 2025 trägt Aufklärung bei objektiven Anhaltspunkten, keinen automatischen Ausschluss nach Personalwechsel.",
+      "search_2026": "Eutelsat-Treffer betrafen den bekannten Fall aus 2021; keine neue 2026-Satellitenentscheidung verifiziert. OHB 2025 bleibt als solcher ausgewiesen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

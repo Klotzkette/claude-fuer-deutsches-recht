@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "patentrecherche",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/patg/BJNR201170936.html",
@@ -32,35 +32,42 @@
       "url": "https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf",
       "checked_on": "2026-09-23",
       "supports": "T 305/87 Nummer 5.3 im amtlichen Amtsblatt-Auszug erneut gelesen. Anwendung auf unterschiedliche Ausführungsformen innerhalb eines Dokuments erhalten; veröffentlichter Text ausdrücklich gekürzt, keine Volltextprüfung sämtlicher Entscheidungsgründe behauptet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor, Anspruch 1, Gründe Rn. 13–43, 44–93 (ausgewählte Passagen), insbesondere 19–28 und 79–86. Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen. Grenze: Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Drei konkrete Rechercheeinstiege, stille Dokumentaufnahme und Weiterarbeit bei mechanischer statt elektrischer Anzeige ergänzt; Neuheits- und FTO-Grenzen erhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
       "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
       "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
       "Leere Eingabe auf Suchplan, Trefferbewertung oder Drittrechte begrenzt; klare Aufgabe direkt bearbeitet.",
-      "Technische Antwort verändert Merkmalsdefinition, geplante Suchabfragen und Trefferprüfung in recherchebericht.md, ohne alte Suchläufe umzuschreiben."
+      "Technische Antwort verändert Merkmalsdefinition, geplante Suchabfragen und Trefferprüfung in recherchebericht.md, ohne alte Suchläufe umzuschreiben.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "421a9cc6ed27cd24eba2b95fb9836499876313bdd4c6114f8fe5c6b421c4a53c",
-    "reviewed_on": "2026-09-23",
+    "sha256": "8ed6ad2b04cb1a3c3bc40f78578821c0be7a09e70b72d9827863196a98d66701",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Individueller Ganztext-Desk-Review am 2026-09-23: Suchläufe, technische Fehlstellen, Zugänglichkeitsbelege, gegenteilige Offenbarungsbefunde und Registerereignisse bis zum begrenzten Abschluss des Berichts ausgearbeitet.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "T 305/87 unmittelbar in Fundstellen- und Merkmalsprüfung integriert",
       "Neuheitsprüfung von zulässiger Kombination bei erfinderischer Tätigkeit getrennt",
       "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
       "Konkrete Steckverbinder-Suchlogik mit Nulltreffer- und Übermengenzweigen sowie getrenntem Planungsstatus ergänzt.",
       "Datierung von Katalog, Webseite und Familienvariante getrennt von technischem Inhalt geprüft; ältere Anmeldungen nicht zur erfinderischen Tätigkeit herangezogen.",
-      "Registerereignisse, Überwachungsanlass, technische Gegenlesart und begründete Recherchebeendigung mit Dokumentfortsetzung ergänzt."
+      "Registerereignisse, Überwachungsanlass, technische Gegenlesart und begründete Recherchebeendigung mit Dokumentfortsetzung ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "b6d837003cadf7b52087cca1dd1da7abac65c1a88dd1c2f99009a978dd223a74",
-    "reviewed_on": "2026-09-23",
+    "sha256": "fc46829625cf00bfbfea10ecc7a69e3535b4af7ebcf307890c17f76d2fe0a5eb",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -108,7 +115,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "patentrecherche/patentrecherche-schnellstart.md",
       "patentrecherche/patentrecherche-werkstatt.md",
@@ -126,6 +133,12 @@
         "url": "https://www.epo.org/de/legal/attachments/official-journal/1991/08/p429/1991-p429.pdf",
         "application": "Bei Neuheit keine künstliche Merkmalskombination verschiedener Ausführungsformen derselben Quelle ohne entsprechende Offenbarung bilden.",
         "limit": "Keine allgemeine Unzulässigkeit von Kombinationen bei erfinderischer Tätigkeit; konkret offenbartes Zusammenwirken gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1",
+        "application": "Zweckangabe oder zwingender Verfahrensschritt durch Anspruchsauslegung bestimmen; Ausgangspunkt und Übergriff auf fremdes Fachgebiet mit konkretem Anlass begründen.",
+        "limit": "Keine allgemeine Pflicht zur tatsächlichen Zweckverwendung und kein Verbot gebietsübergreifender Recherche; deutsche Nichtigkeitsentscheidung, keine Aussage zur Bindung der EPA-Kammern."
       }
     ],
     "remaining_limits": [

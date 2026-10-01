@@ -7,6 +7,8 @@ description: "Für Design und Urheberrecht Angewandte Kunst: ordnet Norm, Beweis
 
 ## Arbeitsweg
 
+Bei einem zusätzlichen Urheberrechtsschutz für Produktgestaltung prüfe [BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4): Originalität objektiv an den erkennbaren kreativen Gestaltungsentscheidungen des Werks beurteilen, ohne erhöhte Schwelle für angewandte Kunst oder entscheidendes Abstellen auf eine behauptete Schöpfungsabsicht. Neuheit und Eigenart des Designs ersetzen diese Prüfung nicht. Für die Verletzung benenne die geschützten kreativen Elemente und ihre Wiedererkennbarkeit in der neuen Gestaltung; ein eigener Vergleich bloßer Gesamteindrücke ist kein entscheidender Urheberrechtsmaßstab mehr. Die neue Gestaltung trotzdem insgesamt betrachten. Das Urteil verweist die urheberrechtlichen Ansprüche zurück und stellt den Schutz von USM Haller nicht endgültig fest.
+
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
 - Fristen und Eilrisiken zuerst markieren: DesignG § 6 Neuheitsschonfrist 12 Monate, GGV Art. 7 (2) ebenfalls 12 Monate, DesignG § 27 Schutzdauer 25 Jahre in 5-Jahres-Verlängerungen, § 41 GGV Priorität 6 Monate.
 - Tragende Normen verifizieren: DesignG §§ 1, 2, 4, 6, 27, 38, 42, 52a, GGV (VO 6/2002) Art. 3, 4, 6, 19, 21, 41, 81, GeschmMG (alt), HABM/EUIPO-Verfahren — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.

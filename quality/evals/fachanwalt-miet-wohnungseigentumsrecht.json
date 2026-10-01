@@ -231,7 +231,9 @@
         "citation": "BGH, Versäumnisurteil vom 17.06.2020, VIII ZR 81/19, Rn. 27–35 und 36–49",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR__81-19.pdf?__blob=publicationFile&v=1",
         "application": "Bei noch funktionierenden alten Bauteilen abnutzungsbezogenen Erhaltungsabzug prüfen; Vermieter beweist Modernisierung und umlagefähige Kosten, auch bei negativer Feststellungsklage. Fehlender Abzug nicht automatisch Formfehler, trennbare Erhöhungsteile nach Paragraf 139 prüfen.",
-        "limit": "Alte Umlageregelung; keine Übernahme der damaligen elf Prozent oder automatische Übertragung auf besondere Heizungs- und Pauschalmodelle."
+        "limit": "Alte Umlageregelung; keine Übernahme der damaligen elf Prozent oder automatische Übertragung auf besondere Heizungs- und Pauschalmodelle.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 01.07.2026 – Az. VIII ZR 50/23, Rn. 28–44",
@@ -267,5 +269,13 @@
     "continuation": "Förderung betrifft nur die Fassade oder Gutschrift ist bereits im Rechnungsbetrag enthalten -> Kostenverteilung und Einwendung ändern, keinen doppelten Abzug vornehmen.",
     "enrichment": "Zahlungszuordnung und Rückbuchung, Mangelzeiträume, Kündigungsarten, Modernisierung gegenüber Erhaltung, Zuschüsse pro Gewerk und WEG-Beschlusswortlaut mit getrennten Klage- und Begründungsfristen.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

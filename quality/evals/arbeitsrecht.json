@@ -52,6 +52,20 @@
       "url": "https://www.gesetze-im-internet.de/arbgg/__46.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlicher Wortlaut gelesen: Urteilsverfahren für Rechtsstreitigkeiten nach Paragraf 2 Absätze 1 bis 4 und besondere Abweichungen von der ZPO."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+      "checked_on": "2026-09-30",
+      "supports": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57: Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen. Grenze: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde. Gelesener Umfang: Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
+      "verification_status": "wiederverwendeter_passagennachweis",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+      "checked_on": "2026-09-30",
+      "supports": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26: Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen. Grenze: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze. Gelesener Umfang: Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze.",
+      "verification_status": "wiederverwendeter_passagennachweis",
+      "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md"
     }
   ],
   "mini_review": {
@@ -153,7 +167,29 @@
         "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
         "application": "Bei bestrittenem Einwurf tragen Einlieferung und Status allein keinen Anscheinsbeweis; Zugangstatsachen für den Beginn der Klagefrist aufklären.",
-        "limit": "Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben."
+        "limit": "Volltext Rn. 10 bis 20; andere Beweismittel bleiben möglich, kein genereller Unwirksamkeitssatz für Einwurf-Einschreiben.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-96-25/",
+        "application": "Proportionale Zuschlagsgrenze im konkreten Teilzeit-Tarifmodell prüfen.",
+        "limit": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+        "passages_read": "Tarifliche Ausgangsregel und sachliche Rechtfertigung prüfen; kein allgemeiner Zuschlag für jede Mehrstunde."
+      },
+      {
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "url": "https://www.bundesarbeitsgericht.de/presse/materieller-schadensersatz-wegen-diskriminierung-im-stellenbesetzungsverfahren-haftungsumfang/",
+        "application": "Zurechnungszusammenhang späteren Verdienstausfalls bei neuer angemessener und verfestigter Beschäftigung prüfen.",
+        "limit": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "previous_review": "quality/source-audits/2026-09-30/arbeit-sozial.md",
+        "passages_read": "Nur amtlicher Pressetext gelesen; keine Urteilsrandnummern, keine starre zeitliche Grenze."
       }
     ],
     "remaining_limits": [
@@ -182,5 +218,24 @@
     ],
     "report": "quality/source-audits/2026-09-30/arbeit-sozial.md",
     "limits": "Gezielte Quellen- und Fachkorrekturen; keine Vollprüfung sämtlicher Skills oder Rechtsprechung dieses Gebiets und kein neuer Modelltest."
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 28.04.2026, 5 AZR 96/25, Rn. 19, 24–28 und 53–57",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 10.09.2026, 8 AZR 153/25; amtliche Pressemitteilung 30/26",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

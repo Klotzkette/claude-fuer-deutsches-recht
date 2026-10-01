@@ -46,9 +46,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Titel und Vollstreckung:** Bei vorläufig vollstreckbarem Titel und eingeleiteter Vollstreckung ist die Forderung mit dem Nennwert zu berücksichtigen; nicht nur der erwartete kurzfristige Abfluss zählt.
 - **Belege Überschuldung:** Bilanz zu Liquidationswerten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (positiv: keine Überschuldung), Sanierungsbausteine (Rangrücktritt § 19 Abs. 2 Satz 2 InsO, Patronatserklärung).
 - **Lückenliste typisch:** Sozialversicherungsrückstände (§ 266a StGB!), Steuerrückstände (§§ 34, 69 AO), letzte Bilanz, BWA aktuell, Liquiditätsplan 13 Wochen, Verträge mit Kovenantenbruch.
-- **Trade-off:** Frühe Antragstellung schützt vor § 15a Abs. 4/5 InsO und § 15b InsO Zahlungsverbot, opfert aber Eigenverwaltungsoptionen, die nur freiwillig eröffnet werden.
-- **Praxis:** Bei Unklarheit erst Liquiditätsstatus erstellen, dann Fortbestehensprognose; § 15a Abs. 4 InsO Strafbarkeit beginnt mit positiver Kenntnis des Eröffnungsgrunds.
+- **Verfahrensweg:** Rechtzeitige Antragstellung und Zahlungsverantwortung nach § 15b InsO getrennt prüfen. Ein Antrag beseitigt weder frühere Verstöße noch automatisch alle Zahlungsbeschränkungen. Eigenverwaltung erfordert gerichtliche Anordnung und ihre eigenen Voraussetzungen (§§ 270 ff. InsO); rechtzeitige Antragstellung bedeutet keinen pauschalen Verlust dieser Option.
+- **Praxis:** Zahlungsunfähigkeit und Überschuldung mit ihren jeweiligen Voraussetzungen zeitnah prüfen. Antragspflicht, objektive Verspätung, Vorsatz nach § 15a Absatz 4 InsO und Fahrlässigkeit nach Absatz 5 getrennt behandeln; fehlende positive Kenntnis schließt Strafbarkeit nicht allgemein aus. Amtlichen Normtext am 01.10.2026 geprüft: https://www.gesetze-im-internet.de/inso/__15a.html.
 
 ## Geschäftsleiterstandpunkt bei streitigen Forderungen
 
 Ein Rechtsirrtum schützt nur eng. Nach BGH IX ZR 229/22 vom 23.01.2025 kann ein Irrtum über den Bestand einer Forderung nur dann Gewicht haben, wenn es um eine seit langem umstrittene, ungeklärte Rechtsfrage mit divergierenden Auffassungen geht. Reine Vertragsauslegung, an der die Schuldnerseite selbst mitgewirkt hat, trägt diese Entlastung regelmäßig nicht. Ein finales Gutachten kann den vertretbaren ex-ante-Standpunkt dokumentieren, ersetzt aber nicht die objektive Prüfung von Bestand und Fälligkeit.
+
+Die Irrtumsaussage in Rn. 27 betrifft die subjektiven Voraussetzungen der Vorsatzanfechtung. Sie ist weder ein allgemeiner Entlastungstatbestand noch ein automatischer Verschuldensmaßstab für Antragspflicht oder Geschäftsleiterhaftung. Objektiven Forderungsbestand, tatsächliche Kenntnis und die Voraussetzungen des konkret geprüften Anspruchs getrennt begründen.

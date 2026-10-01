@@ -52,18 +52,26 @@
       "url": "https://www.gesetze-im-internet.de/bgb/__1833.html",
       "checked_on": "2026-09-23",
       "supports": "Aufgabe selbst genutzten Wohnraums: unverzügliche Anzeige mit Gründen und Sichtweise, Genehmigung bestimmter Rechtsgeschäfte gesondert von Kündigung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2026/XII_ZB_171-26.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "BGH, Beschluss vom 29.07.2026, XII ZB 171/26: Beschränkten Beschwerdegegenstand und fortbestehende Beteiligung des bestellten Verfahrenspflegers prüfen; anwaltliche Vertretung beendet Bestellung nicht automatisch. Grenze: Zurückverweisung zur Betreuerauswahl, keine automatische Aufhebung der gesamten Betreuung. Gelesener Umfang: Alle 7 PDF-Seiten einschließlich Rn. 1–12; tragend Rn. 5–11.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "baa9e51e8c323ddd6e0cdf8817cf78240a83ad687055c1e98536c72a551dafd7"
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig auf Unterstützung, Vertretung und Bestellungsstichtag geprüft. Die Auswahl eines Angehörigen ist nun mit konkreter Eignungsprüfung und verfassungsrechtlichem Maßstab verbunden. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Mini vollständig auf Unterstützung, Vertretung und Bestellungsstichtag geprüft. Die Auswahl eines Angehörigen ist nun mit konkreter Eignungsprüfung und verfassungsrechtlichem Maßstab verbunden. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "BVerfG 1 BvR 413/20 in Wunsch- und Eignungsprüfung integriert, ohne Angehörigenvorrang zu behaupten.",
       "Jahresbericht nach Paragraf 1863 und Rechnungslegung nach Paragraf 1865 BGB getrennt; Dokumentenstart und Fortsetzung erhalten.",
       "Leer: Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht. Dateien: still lesen und passendes Betreuungsdokument anbieten. Klar: direkt bestelltes Schreiben oder Verzeichnis erstellen.",
-      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung."
+      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Beteiligungs- und Rechtsmittelgrenze im Mini."
     ],
-    "sha256": "32737e5eadec193d28fd203c3335fe64f0983e908ca4ac92386627ed786b0526",
+    "sha256": "41259f85a308650e8dcece276bd18d73a9467f914c5ec875ffb25bbff35715fa",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },
@@ -113,15 +121,16 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig gelesen und veraltete Normzuordnungen sowie ungeprüfte Entscheidungslisten bereinigt. Eignung, Betreuungshandlung und gerichtliche Genehmigung werden fallbezogen zugeordnet. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt vollständig gelesen und veraltete Normzuordnungen sowie ungeprüfte Entscheidungslisten bereinigt. Eignung, Betreuungshandlung und gerichtliche Genehmigung werden fallbezogen zugeordnet. Redaktioneller Desk-Review, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "Aktuelle Betreuungsvorschriften für Wunsch, Auswahl, Vermögensverzeichnis, Rechnung und Genehmigungen präzisiert.",
       "Familienkonflikt verlangt konkrete Eignungsfeststellungen und Prüfung von Hilfen; BVerfG-Gründe mit Grenze des Altrechts eingebaut.",
       "Unverifizierte BGH-Aktenzeichen entfernt; detaillierte Alltags- und Berichtswege beibehalten.",
       "Wohnungsanzeige und Genehmigung, Beschlussumfang, Interessenkonflikt, Kontenabgleich und wiedererlangte Selbstbesorgung vertieft.",
-      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung."
+      "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Anhörungsteilnahme und Beschwerdeumfang."
     ],
-    "sha256": "e5920696d66050fb12dbbf29796512157ba9eceb710b5c3330951cf5582b3b71",
+    "sha256": "27d4d268cf763a531474367777da3df5d5b619f37637dff9c5fa6b73499127be",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },
@@ -152,7 +161,19 @@
         "citation": "BVerfG, Beschluss vom 31.03.2021, 1 BvR 413/20, Randnummern 20, 23, 34 bis 35",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2021/03/rk20210331_1bvr041320.html",
         "application": "Bei Ablehnung oder Entlassung eines gewünschten Angehörigen konkrete Eignung, familiäre Bindung und unterstützende Alternativen prüfen.",
-        "limit": "Kein absoluter Angehörigenvorrang; Entscheidung zu altem Betreuungsrecht, Übertragung nur mit aktuellen Paragrafen 1816, 1817 und 1868 BGB."
+        "limit": "Kein absoluter Angehörigenvorrang; Entscheidung zu altem Betreuungsrecht, Übertragung nur mit aktuellen Paragrafen 1816, 1817 und 1868 BGB.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Beschluss vom 29.07.2026, XII ZB 171/26",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2026/XII_ZB_171-26.pdf?__blob=publicationFile&v=1",
+        "application": "Beschränkten Beschwerdegegenstand und fortbestehende Beteiligung des bestellten Verfahrenspflegers prüfen; anwaltliche Vertretung beendet Bestellung nicht automatisch.",
+        "limit": "Zurückverweisung zur Betreuerauswahl, keine automatische Aufhebung der gesamten Betreuung.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "passages_read": "Alle 7 PDF-Seiten einschließlich Rn. 1–12; tragend Rn. 5–11.",
+        "evidence_sha256": "baa9e51e8c323ddd6e0cdf8817cf78240a83ad687055c1e98536c72a551dafd7"
       }
     ],
     "remaining_limits": [
@@ -160,5 +181,19 @@
       "Keine vollständige Prüfung sämtlicher Vergütungs-, Genehmigungs- und landesrechtlicher Unterbringungsfragen; Paragraf 1832 BGB erfordert besondere Aktualitätsprüfung.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 29.07.2026, XII ZB 171/26",
+        "status": "frisch_volltextpassagen"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

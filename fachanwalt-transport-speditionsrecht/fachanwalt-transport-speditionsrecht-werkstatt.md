@@ -94,6 +94,8 @@ Verlust, Teilverlust, Beschädigung und Verspätung anhand von Übernahme, Umsch
 
 Nach fehlendem Übergabenachweis fragen und nach Eingang Schadenszeitraum, Haftungsgrund und Rechnung aktualisieren. Mitverantwortung, Entlastung, Verjährung und Versicherung nur nach dem belegten Vorgang beurteilen. Nicht jede Beleglücke als qualifiziertes Verschulden behandeln.
 
+Bei einem Verladeunfall zuerst die vertragliche Aufgabenverteilung klären. BGH, Urteil vom 18.06.2026 – I ZR 125/25, [Rn. 14–25, 35](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_125-25.pdf?__blob=publicationFile&v=1): Die ausdrücklich vereinbarte Bereitstellung eines bestimmten Verladungsmittels durch den Frachtführer spricht regelmäßig dafür, dass er auch die Verladung schuldet. Dann beginnt seine Obhut schon mit Besitzergreifung zum Verladen. Eine bloß vorhandene Hebebühne oder tatsächliche Fahrerhilfe genügt für diese Vertragsabweichung nicht allein. Auftrag, Gerätezusage und bisherige Vertragsdurchführung anfordern; Obhutsbeginn anschließend berichtigen. Haftungsausschluss, Mitverschulden und Schaden bleiben gesondert zu prüfen; die Zurückverweisung sprach keinen endgültigen Vollersatz zu.
+
 ### 1.8.2. CMR und Haftungsgrenze
 
 Anwendungsbereich nach Artikel 1 CMR anhand entgeltlicher grenzüberschreitender Straßenbeförderung prüfen. Frachtbrief nach Artikel 4 und zwingende Wirkung nach Artikel 41 CMR gesondert einordnen; die Parteienbezeichnung allein entscheidet nicht über das Regime.

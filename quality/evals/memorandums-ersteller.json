@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "memorandums-ersteller",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__271.html",
@@ -27,28 +27,37 @@
       "url": "https://www.anwalt24.de/urteile/bgh/2021-09-16/ix-zr-165_19",
       "supports": "Volltextwiedergabe des gerichtlichen Primärtexts, Randnummern 28 bis 31; keine Gleichsetzung mit amtlich erfolgreichem PDF-Abruf.",
       "checked_on": "2026-09-22"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tatbestand, Tenor und Gründe Rn. 1–33 vollständig. Verschlechterte Erfolgsaussichten eigenständig bewerten und auch rechtsschutzversicherte Mandanten beraten, bevor Aussichtslosigkeit erreicht ist. Grenze: Beratungspflicht von Beweis der Kausalität, Schaden und Anscheinsbeweis unterscheiden; nur Zurückverweisung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini individuell mit drei Eingangsmodi und Lieferterminbeispiel vertieft: Neue Einigung ändert Sachverhalt, Kurzantwort und Empfehlung im bisherigen Dokument; keine Dateianforderung bei vollständig wiedergegebenem Sachverhalt. Desk-Prüfung.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
-      "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten."
+      "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "49124b632e14eb005f302317833e737cf24394d2fa44706856bcc32753e5991d"
+    "sha256": "301059dd6a97f71e591bff6ea2eb4079566071ea34eda8ef2df75714800f3a0f",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt individuell um vorgreifliche Fragen, Durchsetzbarkeit, wirtschaftliche Entscheidung, Gegenbelege, interne und prozessuale Termine sowie adressatengerechten Abschluss erweitert. Vier-Teile-Aufbau und alle Spezialrouten erhalten; kein Live-Test.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Vertragsfassung und Tatsachenbeleg unterscheiden; abhängige Fragen und konkrete Gegenbelege in Kurzantwort und Empfehlung übersetzen.",
-      "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen."
+      "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "644b8a4b58efe991110a26c603874e1ddfd5b93af080748fae6e249179712786"
+    "sha256": "37bdad927c20cd1c8411a768a373fa4b85fce804e1484bd42494f4ac00cf3ef9",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -95,7 +104,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "memorandums-ersteller/memorandums-ersteller-werkstatt.md",
       "memorandums-ersteller/memorandums-ersteller-schnellstart.md"
@@ -110,6 +119,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_165-19.pdf?__blob=publicationFile&v=1",
         "application": "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren.",
         "limit": "Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände."
+      },
+      {
+        "citation": "BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_154-24.pdf?__blob=publicationFile&v=1",
+        "application": "Verschlechterte Erfolgsaussichten eigenständig bewerten und auch rechtsschutzversicherte Mandanten beraten, bevor Aussichtslosigkeit erreicht ist.",
+        "limit": "Beratungspflicht von Beweis der Kausalität, Schaden und Anscheinsbeweis unterscheiden; nur Zurückverweisung."
       }
     ],
     "remaining_limits": [

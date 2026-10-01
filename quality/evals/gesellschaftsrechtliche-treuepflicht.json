@@ -12,6 +12,11 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-09-22",
       "supports": "BGH, Urteil vom 12.04.2016 - II ZR 275/14, Rn. 13 bis 19 und 23: Erzwungene Zustimmung nur bei objektiv unabweisbarer Maßnahme zur Werterhaltung oder Schadensvermeidung und Zumutbarkeit prüfen; Alternativen und Eigeninteressen des Abstimmenden konkret würdigen. Grenze: Bloße Zweckmäßigkeit und Mehrheitswille genügen nicht. Der Standortfall entscheidet keine generelle Nachschuss- oder Finanzierungsverpflichtung; missbräuchlicher Sondervorteil war dort nicht festgestellt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Berichtigung vom14.07.2026, Rn. 12–32; tragend24–31. Individuelle doppelte Schriftform grundsätzlich nicht mündlich abbedingen; Treuepflicht kann formgerechte rückwirkende Zustimmung verlangen. Grenze: Freiberuflersozietät, zurückverwiesen; weder automatische Heilung noch Übertragung auf §305bAGB oder gesetzliche Beurkundung."
     }
   ],
   "mini_review": {
@@ -24,7 +29,7 @@
       "Schlusslektüre: Überschriften benennen Mitgliedschafts- und Organpflicht sowie Zustimmungserfordernis, Alternativen und Rechtsfolge statt interner Arbeitsbegriffe.",
       "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "220c9ad5dc791e7d5ba0fa0b7258cefcb7d89cdf524382453ad8eff26f582be1"
+    "sha256": "efe651c325a654ed9862154dd30503f7a01f92359f7b91bef2d47380539cce01"
   },
   "selection": {
     "positive": [
@@ -79,7 +84,7 @@
       "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
       "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität."
     ],
-    "sha256": "74c60e5d51dcfeddf35637eaa51dc0f1204c77ea1ef3ce5b21d7381cc257bab1"
+    "sha256": "686b845201a8d6f17bf567afba0f61557b9ce43ce5b1fe7c263ce3844948eeb1"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",
@@ -103,6 +108,14 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
         "application": "Erzwungene Zustimmung nur bei objektiv unabweisbarer Maßnahme zur Werterhaltung oder Schadensvermeidung und Zumutbarkeit prüfen; Alternativen und Eigeninteressen des Abstimmenden konkret würdigen.",
         "limit": "Bloße Zweckmäßigkeit und Mehrheitswille genügen nicht. Der Standortfall entscheidet keine generelle Nachschuss- oder Finanzierungsverpflichtung; missbräuchlicher Sondervorteil war dort nicht festgestellt."
+      },
+      {
+        "citation": "BGH, Urteil vom 16.06.2026 – II ZR 85/25, Kopf/Berichtigung vom14.07.2026, Rn. 12–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__85-25.pdf?__blob=publicationFile&v=1",
+        "application": "Individuelle doppelte Schriftform grundsätzlich nicht mündlich abbedingen; Treuepflicht kann formgerechte rückwirkende Zustimmung verlangen.",
+        "limit": "Freiberuflersozietät, zurückverwiesen; weder automatische Heilung noch Übertragung auf §305bAGB oder gesetzliche Beurkundung.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       }
     ],
     "remaining_limits": [
@@ -123,5 +136,15 @@
     "continuation": "Belastbare Bankalternative -> Erforderlichkeit und Zustimmungsforderung ändern; neuer Beschluss -> passenden Rechtsschutz statt bloßer Abstimmungsaufforderung prüfen.",
     "enrichment": "Finanzierungsalternativen, Zumutbarkeit persönlicher Sicherheiten, legitimes Eigeninteresse, Beschlussstadium und Schadenskausalität.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-schnellstart.md",
+      "gesellschaftsrechtliche-treuepflicht/gesellschaftsrechtliche-treuepflicht-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

@@ -6,6 +6,10 @@ description: "Für Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführu
 # Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen
 
 
+## 1. Vertragliche Rentendynamik
+
+BAG, Urteil vom 12.05.2026 – 3 AZR 159/25, [Rn. 13–17](https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/): Bei der dortigen Betriebsvereinbarung erfasste die jährliche Anpassung am 1. Juli nur Tariferhöhungen bis zum Vortag. Eine zum 1. Juli 2023 wirksame Tariferhöhung floss deshalb erst zum 1. Juli 2024 ein. Fordere Klauselwortlaut, Referenzzeitraum und Wirksamkeitsdatum an und ordne die Erhöhung dem richtigen Anpassungstermin zu. Keine allgemeine einjährige Verzögerung aller Betriebsrenten und keine Entscheidung über die gesetzliche Anpassungsprüfung nach Paragraf 16 BetrAVG.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

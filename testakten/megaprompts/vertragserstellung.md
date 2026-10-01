@@ -135,7 +135,7 @@ Lies die Endfassung aus Sicht beider Vertragsparteien: Wer muss wann was leisten
 
 ## 4. Quellenpflicht
 
-Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Tragende Normen am konkreten Stand prüfen: Paragrafen 125 bis 127, 145 bis 150, 164, 177, 271a, 276, 305 bis 310, 314, 433, 611, 631 und 640 BGB. B2B schließt Paragraf 307 sowie Paragraf 308 Nummern 1a und 1b BGB nicht pauschal aus. Paragraf 377 HGB setzt beiderseitigen Handelskauf voraus. Der amtlich indexierte Leitsatz zu BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, ist nur begrenzter Abnahmeanker, kein hier gelesener Volltext. Keine erfundenen Randnummern oder Literatur. Quellenprüfung ist kein ausgeführter Mandatstest.
+Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Tragende Normen am konkreten Stand prüfen: Paragrafen 125 bis 127, 145 bis 150, 164, 177, 271a, 276, 305 bis 310, 314, 433, 611, 631 und 640 BGB. B2B schließt Paragraf 307 sowie Paragraf 308 Nummern 1a und 1b BGB nicht pauschal aus. Paragraf 377 HGB setzt beiderseitigen Handelskauf voraus. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Rn. 31–51, am 01.10.2026 im amtlichen Volltext gelesen: Mängelrechte grundsätzlich nach Abnahme; Vorschuss allein schafft kein endgültiges Abrechnungsverhältnis. Weitere Erfüllungsbereitschaft konkret klären. Keine erfundenen Randnummern oder Literatur. Quellenprüfung ist kein ausgeführter Mandatstest.
 
 ## 5. Ausgabeformat
 
@@ -255,7 +255,7 @@ Schreibe vollständige Ausnahme- und Grundregel zusammen, nicht nur einen neuen 
 
 ## 4. Quellenpflicht
 
-Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Prüfe Paragrafen 276, 278, 280, 281, 305 bis 310, 437 bis 444 und 633 bis 640 BGB sowie Paragraf 377 HGB. Zwingende Produkthaftung nur nach konkreter Normprüfung behandeln. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, dient mit amtlich indexierten Leitsätzen als begrenzter Abnahmeanker; kein gelesener Volltext und keine Pauschalaussage zu allen Mängelfällen. Keine universelle Haftungsdeckel-Rechtsprechung erfinden.
+Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Prüfe Paragrafen 276, 278, 280, 281, 305 bis 310, 437 bis 444 und 633 bis 640 BGB sowie Paragraf 377 HGB. Zwingende Produkthaftung nur nach konkreter Normprüfung behandeln. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13, Rn. 31–51, am 01.10.2026 im amtlichen Volltext gelesen: grundsätzlich Mängelrechte nach Abnahme, begrenzte Ausnahme beim endgültigen Abrechnungsverhältnis. Vorschuss allein genügt nicht; weitere Erfüllung konkret klären. Keine Pauschalaussage zu allen Mängelfällen. Keine universelle Haftungsdeckel-Rechtsprechung erfinden.
 
 ## 5. Ausgabeformat
 
@@ -311,7 +311,7 @@ Stimme Abnahme und Zahlungsmeilensteine, Mitwirkung und Termine, Prüfparameter 
 
 ## 4. Quellenpflicht
 
-[Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md) verwenden. Ausgangsnormen: Paragrafen 433, 611, 631 bis 643 BGB sowie Paragraf 377 HGB. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: amtlich indexierte Leitsätze zu Mängelrechten grundsätzlich nach Abnahme und möglichen Abrechnungsverhältnissen; Volltextabruf gesperrt, keine Randnummer verifiziert. Daraus weder Rechtlosigkeit vor Abnahme noch eine generelle Pflicht zur Abnahme trotz erheblicher Mängel ableiten. Aktuellen Normtext und fallrelevante Ausnahme vor tragender Bewertung prüfen.
+[Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md) verwenden. Ausgangsnormen: Paragrafen 433, 611, 631 bis 643 BGB sowie Paragraf 377 HGB. BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: amtlicher Volltext, Rn. 31–51, am 01.10.2026 gelesen: Mängelrechte grundsätzlich nach Abnahme; Ausnahme beim endgültigen Abrechnungsverhältnis. Allein ein Vorschussverlangen genügt nicht; konkret nachfragen, ob jede weitere Erfüllung ausgeschlossen ist. Daraus weder Rechtlosigkeit vor Abnahme noch eine generelle Pflicht zur Abnahme trotz erheblicher Mängel ableiten. Aktuellen Normtext und fallrelevante Ausnahme vor tragender Bewertung prüfen.
 
 ## 5. Ausgabeformat
 
@@ -545,7 +545,7 @@ Setze Entscheidungen in den Vertrag, markiere die wirklich verbleibenden Fragen 
 
 ## 4. Quellenpflicht
 
-Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Paragrafen 133, 157, 145 bis 150, 305, 305b, 305c, 306, 307, 308 und 310 BGB tragen den Prüfweg. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: amtlich indexierte Leitsätze zur fehlenden Aussagekraft einer bloßen Verhandlungsbestätigung und zum nicht frei abdingbaren AGB-Recht; Direktvolltext nicht bestätigt. Keine Randnummer aus Erinnerung; konkrete Bau-Sicherheitenentscheidung nicht zur universellen Prozentgrenze umdeuten.
+Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/zitierweise.md) und [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vertragserstellung/references/fachquellen.md). Paragrafen 133, 157, 145 bis 150, 305, 305b, 305c, 306, 307, 308 und 310 BGB tragen den Prüfweg. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: amtlicher Volltext, Rn. 22–32, am 01.10.2026 gelesen: Eine bloße Verhandlungsbestätigung belegt kein Aushandeln; AGB-Recht ist nicht frei abwählbar. Die tatsächliche Dispositionsfreiheit über den Klauselkern belegen; konkrete Bau-Sicherheitenentscheidung nicht zur universellen Prozentgrenze umdeuten.
 
 ## 5. Ausgabeformat
 

@@ -22,6 +22,8 @@ Arbeitsfokus: **Publikationsfreiheit und Affiliation**. Prüfe diese Anker am Sa
 
 Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei prüfbare Quelle vorliegen; keine BeckRS-/juris-Blindzitate verwenden.
 
+[BVerfG, Beschluss vom 24.03.2026 – 2 BvL 3/18](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/03/ls20260324_2bvl000318.html), Rn. 49–50, 58–59 und 67–68: Die baden-württembergische Satzungsermächtigung zur Zweitveröffentlichung in Paragraf 44 Absatz 6 LHG ist wegen der ausschließlichen Bundeskompetenz für Urheberrecht nichtig. Prüfe deshalb, ob die verlangte Veröffentlichung auf dieser Ermächtigung, einem Vertrag oder einer anderen Regel beruht. Hochschuleigene Satzungsautonomie erweitert die Gesetzgebungskompetenz des Landes nicht. Die Entscheidung verbietet nicht allgemein Open Access oder jede Promotionspublikationspflicht.
+
 ## Arbeitsweg
 
 - Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?

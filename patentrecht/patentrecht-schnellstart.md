@@ -20,6 +20,8 @@ Eine allgemeine Funktionsähnlichkeit ersetzt keinen Nachweis aller Anspruchsmer
 
 Nach [BGH, Urteil vom 12.03.2002, Az. X ZR 168/00, Schneidmesser I, Gründe II.3.a bis d](https://www.wipo.int/wipolex/en/text/597230) verlangt Äquivalenz neben Gleichwirkung und Auffindbarkeit eine am Anspruch orientierte Gleichwertigkeit. Prüfe beim Ersatz eines optischen Sensors durch Strommessung daher gerade die Wirkung des beanspruchten Mittels, nicht nur die gleiche Abschaltung. Paragraf 14 PatG und Artikel 69 EPÜ mit Auslegungsprotokoll bleiben die Grundlage. Die Entscheidung belegt keine allgemeine Austauschbarkeit von Sensoren oder starre Toleranzgrenze.
 
+[BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2024/X_ZR__35-24.pdf?__blob=publicationFile&v=1): Zweckangabe und zwingenden Verfahrensschritt aus Anspruch und Beschreibung unterscheiden. Ausgangspunkt und Suche in einem fremden Fachgebiet durch konkrete technische Anlässe am Prioritätstag begründen. Weder gleiche Branche noch bloße Eignung entscheiden automatisch.
+
 ## 1.3. Rechtsfolge und Verfahrensweg
 
 Rechtsinhaber, geltende Fassung, Land, konkrete Benutzungshandlung und Zeitpunkt vor einem Anspruchsschreiben prüfen. Bestehende Lizenz, Zustimmung und vorgetragene Einwendungen gesondert behandeln. Verletzung und Rechtsbeständigkeit bleiben unterschiedliche Fragen: Eine erteilte Urkunde ersetzt weder den Produktvergleich noch die Prüfung eines konkret erhobenen Bestandsangriffs. Verfahren und Fristen bei nationalem Amt, europäischem Amt und Gericht nicht vermischen; für den tatsächlichen Verfahrensstand den aktuellen amtlichen Maßstab verifizieren.

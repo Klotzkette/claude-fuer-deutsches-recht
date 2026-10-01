@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "tierschutzrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/tierschg/__16a.html",
@@ -32,29 +32,38 @@
       "url": "https://www.bverwg.de/130619U3C28.16.0",
       "checked_on": "2026-09-22",
       "supports": "Wirtschaftliche Vorteile der Legehennenzucht sind für sich genommen kein vernünftiger Grund zur Tötung männlicher Küken. Amtlicher Volltext geprüft. Damalige Übergangsausführungen sind keine aktuelle Freigabe; inzwischen Paragraf 4c TierSchG beachten."
+    },
+    {
+      "url": "https://www.bverwg.de/230426U3C2.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Webansicht: Tenor, Sachverhalt und Rn. 11–44; Rn. 25–45 gesondert nachgelesen; verwendet 17–29, 34–42. Auf derselben Seite stehenden Vorbeschluss aus 2025 getrennt. §§ 2 und 16a TierSchG ermöglichen Einschreiten auch ohne spezielle Putenhaltungsverordnung. Puteneckwerte 2013 sind kein antizipiertes Sachverständigengutachten; Dichte, Gruppengröße, Stallstruktur sowie Kosten und Wirkung von Verbesserungen zusammen prüfen. Grenze: Neubescheidung mit behördlicher Maßnahmenwahl, kein pauschaler Haltungsstopp und keine bundesweite feste Besatzgrenze."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen: drei konkrete Einstiegswege, tierbezogene Anhörungsantwort, nachgewiesene Abhilfe gegenüber Gegenbefund und Rückgabe gegenüber Veräußerungsschutz ergänzt. Generische Prüfungsliste durch Fallarbeit ersetzt; keine Live-Modellprüfung.",
+    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Stille Dateilektüre, unmittelbarer Dokumentbeginn und konkrete Fortsetzung bei Nachbefund oder bereits abgelaufenem Anhörungstermin ergänzt.",
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
       "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
-      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten."
+      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
+      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
     ],
-    "sha256": "10e2bd54753c5cdba35107b3262c3b49fe68bcac8e8382057c457164d616a2ae"
+    "sha256": "63a16a2acb71c8431da88ca3d061ba153f6e0846c14ce3f4b846c5582ccf10ca",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt erneut gelesen: unterschiedliche Tierbefunde, belegtes Versorgungskonzept, belastende Nachkontrolle, Rückgabe und Veräußerungsschutz sowie tierbezogene Kosten- und Fristarbeit bis zum fertigen Dokument vertieft. Bestehende Entscheidungen und Grenzen erhalten; keine Live-Modellprüfung.",
+    "reason": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "Substantielle Anhörungs-, Rückgabe- und Gegenbefundzweige ergänzt; Ein-/Auslieferungsdaten ändern Kostenpositionen, Bekanntgabe und Verfahrensstand den Rechtsbehelf.",
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
       "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
-      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten."
+      "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
+      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
     ],
-    "sha256": "cde7a8bfe086193b8fa06f84b1a8d2b74d057485ac02d9e71e3e01c5523f0cde"
+    "sha256": "2f5c8f18bb1cd402595f359493a7193d0141b3afcc639018554251fd88abfdf8",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -113,10 +122,11 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "tierschutzrecht/tierschutzrecht-werkstatt.md",
-      "tierschutzrecht/tierschutzrecht-schnellstart.md"
+      "tierschutzrecht/tierschutzrecht-schnellstart.md",
+      "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md"
     ],
     "opening_change": "Tierbezogene Haltungsanforderung und rechtlich getrennte Maßnahmen statt pauschaler Vollzugsprüfung.",
     "norms": [
@@ -129,17 +139,38 @@
         "citation": "BVerwG, Urteil vom 12. Januar 2012, 7 C 5.11, Randnummern 17 bis 32",
         "url": "https://www.bverwg.de/120112U7C5.11.0",
         "application": "Grundverfügung, unmittelbaren Vollzug und Veräußerung getrennt prüfen; Landesvollstreckungsrecht und Bekanntgabe berücksichtigen.",
-        "limit": "Volltext geprüft. Ausnahme vom Gutachten betrifft vollständig unversorgte Tiere bei Abwesenheit des Halters, nicht pauschal jede Dringlichkeit. Die Seite enthält zusätzlich eine frühere Entscheidung; maßgeblich ist das Urteil vom 12. Januar 2012."
+        "limit": "Volltext geprüft. Ausnahme vom Gutachten betrifft vollständig unversorgte Tiere bei Abwesenheit des Halters, nicht pauschal jede Dringlichkeit. Die Seite enthält zusätzlich eine frühere Entscheidung; maßgeblich ist das Urteil vom 12. Januar 2012.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "BVerwG, Urteil vom 13. Juni 2019, 3 C 28.16",
         "url": "https://www.bverwg.de/130619U3C28.16.0",
         "application": "Wirtschaftliche Vorteile der Legehennenzucht sind für sich genommen kein vernünftiger Grund zur Tötung männlicher Küken.",
-        "limit": "Amtlicher Volltext geprüft. Damalige Übergangsausführungen sind keine aktuelle Freigabe; inzwischen Paragraf 4c TierSchG beachten."
+        "limit": "Amtlicher Volltext geprüft. Damalige Übergangsausführungen sind keine aktuelle Freigabe; inzwischen Paragraf 4c TierSchG beachten.",
+        "checked_on": "2026-09-22"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 23.04.2026, 3 C 2.25",
+        "url": "https://www.bverwg.de/230426U3C2.25.0",
+        "application": "§§ 2 und 16a TierSchG ermöglichen Einschreiten auch ohne spezielle Putenhaltungsverordnung. Puteneckwerte 2013 sind kein antizipiertes Sachverständigengutachten; Dichte, Gruppengröße, Stallstruktur sowie Kosten und Wirkung von Verbesserungen zusammen prüfen.",
+        "limit": "Neubescheidung mit behördlicher Maßnahmenwahl, kein pauschaler Haltungsstopp und keine bundesweite feste Besatzgrenze.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Keine Live-Modellprüfung; nationale Zuständigkeit und spätere Gesetzesänderungen müssen bei konkreter Verwendung zusätzlich geprüft werden."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "tierschutzrecht/tierschutzrecht-schnellstart.md",
+        "tierschutzrecht/tierschutzrecht-werkstatt.md",
+        "tierschutzrecht/skills/nutztierhaltung-kontrolle/SKILL.md"
+      ],
+      "result": "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill.",
+      "search_2026": "3 C 2.25 vom 23.04.2026 neu amtlich gelesen und ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

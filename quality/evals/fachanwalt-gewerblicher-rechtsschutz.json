@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-gewerblicher-rechtsschutz",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschmmg_2004/__46.html",
@@ -52,18 +52,25 @@
       "url": "https://www.gesetze-im-internet.de/designg/__42.html",
       "supports": "Erneuter Normabruf zu designrechtlichen Verletzungsansprüchen; Anspruch und konkrete Berechnungsart bleiben positionsbezogen zu prüfen.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Gemeinkosten sind keine frei wählbare pauschale Gewinnminderung; Berechnung wird an Beleg und Designkausalität gebunden. Workflow-Ergänzung einzeln geprüft: Spezialwerkzeug wurde nur für die angegriffene Serie gemietet -> Kostenansatz im Verletzergewinn ändern, nicht automatisch den kausalen Designanteil am Gewinn.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "1b68d3fd73517071a637b8279186fe9393c6948657ce50671e6295fdcd0a9760"
+    "sha256": "72d7f31f5eed4a1711b8952fdb9729514e3914429dc3428ed89a344c1ac2bf80",
+    "reviewed_on": "2026-10-01"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -83,14 +90,16 @@
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Breite Werkstatt von redundanten Standardabläufen befreit; Markenwiderspruch, Design, technische Rechte, UWG, Geheimnisse, Abmahnung und Vollziehung behalten getrennte Wege. Workflow-Ergänzung einzeln geprüft: Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
-      "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen."
+      "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "61b5fab4f60fdcb900fa671a90cebe1c4b530c9b8eb60e715207391f20d521cd"
+    "sha256": "a84f1219f163d4b666c899fda1ce86490c993abc6141b68dcdca45b009b45c6f",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -145,7 +154,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-werkstatt.md",
       "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-schnellstart.md",
@@ -173,6 +182,12 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
         "application": "Eigenartvergleich der Werkstatt gegen einzelne ältere Gestaltungen.",
         "limit": "Kein Mosaik einzelner Elemente und kein Ersatz für Nachahmungsnachweis."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
       }
     ],
     "remaining_limits": [

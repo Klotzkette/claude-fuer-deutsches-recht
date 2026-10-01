@@ -43,7 +43,7 @@ Setze Entscheidungen in den Vertrag, markiere die wirklich verbleibenden Fragen 
 
 ## 4. Quellenpflicht
 
-Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Paragrafen 133, 157, 145 bis 150, 305, 305b, 305c, 306, 307, 308 und 310 BGB tragen den Prüfweg. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: amtlich indexierte Leitsätze zur fehlenden Aussagekraft einer bloßen Verhandlungsbestätigung und zum nicht frei abdingbaren AGB-Recht; Direktvolltext nicht bestätigt. Keine Randnummer aus Erinnerung; konkrete Bau-Sicherheitenentscheidung nicht zur universellen Prozentgrenze umdeuten.
+Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../references/fachquellen.md). Paragrafen 133, 157, 145 bis 150, 305, 305b, 305c, 306, 307, 308 und 310 BGB tragen den Prüfweg. BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: amtlicher Volltext, Rn. 22–32, am 01.10.2026 gelesen: Eine bloße Verhandlungsbestätigung belegt kein Aushandeln; AGB-Recht ist nicht frei abwählbar. Die tatsächliche Dispositionsfreiheit über den Klauselkern belegen; konkrete Bau-Sicherheitenentscheidung nicht zur universellen Prozentgrenze umdeuten.
 
 ## 5. Ausgabeformat
 

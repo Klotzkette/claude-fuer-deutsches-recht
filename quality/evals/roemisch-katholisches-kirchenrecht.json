@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "roemisch-katholisches-kirchenrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html",
@@ -37,6 +37,11 @@
       "url": "https://www.vatican.va/archive/cod-iuris-canonici/deu/documents/cic_libro7_cann1732-1739_ge.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Text der Canones 1732 bis 1739 gelesen; hierarchischer Rekurs, vorgelagerte Bitte und Aussetzungsfrage."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0068",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche EUR-Lex-Webansicht: Rn. 53–56 frisch gelesen. Frühere Rn. 43–50 sowie 2026-Fälle aus dem bestehenden Profil übernommen. Pauschale Behauptung einer europarechtswidrigen Chefarztkündigung durch Prüfung wesentlicher, rechtmäßiger und gerechtfertigter beruflicher Anforderungen, erheblicher Ethosgefährdung und Verhältnismäßigkeit ersetzt. Grenze: Nationale Einzelfallprüfung; keine Aussage über kanonische Ehegültigkeit oder Rekursfristen."
     }
   ],
   "mini_review": {
@@ -114,10 +119,11 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
-      "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md"
+      "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md",
+      "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md"
     ],
     "opening_change": "Akt, Rechtsposition und konkreter Antrag oder Rekurs im Mittelpunkt; staatliche Wirkungen separat.",
     "norms": [
@@ -127,28 +133,44 @@
     ],
     "decisions": [
       {
-        "citation": "EuGH, 11.09.2018, C-68/17, IR, Randnummern 43 bis 50",
+        "citation": "EuGH, Urteil vom 11.09.2018, C-68/17, IR/JQ, Rn. 43–50 (Vorprüfung) und 53–56 (01.10.2026)",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0068",
-        "application": "Berufsbezogene Rechtfertigung konfessionsabhängiger Loyalitätsanforderungen und gerichtliche Kontrolle.",
-        "limit": "Kein Maßstab kanonischer Ehegültigkeit oder CIC-Rekursfrist."
+        "application": "Pauschale Behauptung einer europarechtswidrigen Chefarztkündigung durch Prüfung wesentlicher, rechtmäßiger und gerechtfertigter beruflicher Anforderungen, erheblicher Ethosgefährdung und Verhältnismäßigkeit ersetzt.",
+        "limit": "Nationale Einzelfallprüfung; keine Aussage über kanonische Ehegültigkeit oder Rekursfristen.",
+        "checked_on": "2026-10-01"
       },
       {
         "citation": "BAG, 21.05.2026, 8 AZR 194/25 (F), Randnummern 13 und 21 bis 27",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-194-25-f/",
         "application": "Stellenausschreibung und Einstellungsanforderung.",
-        "limit": "Kein allgemeines Privileg kirchlicher Arbeitgeber."
+        "limit": "Kein allgemeines Privileg kirchlicher Arbeitgeber.",
+        "checked_on": "2026-09-22"
       },
       {
         "citation": "EuGH, 17.03.2026, C-258/24, Randnummern 58, 68 und 75 bis 76",
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62024CJ0258",
         "application": "Arbeitsrechtliche Folgen des Kirchenaustritts.",
-        "limit": "Keine Entscheidung über kanonischen Status."
+        "limit": "Keine Entscheidung über kanonischen Status.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "CIC-Rekursabschnitt und die genannten arbeitsrechtlichen Entscheidungen geprüft. Partikularrecht sowie nachfolgende Entwicklungen sind im Einzelfall erneut abzugleichen; keine Durchführung einer kanonischen Verfahrensprüfung im Modelltest.",
       "Workflow-Vertiefung 2026-09-23: Partikularrecht, CCEO-Spezialfragen und staatliche Beschäftigungsfolgen nicht vollständig neu verifiziert. Die bereits dokumentierten Entscheidungen von EuGH und BAG einschließlich 2026 bleiben mit ihren bisherigen Reichweitengrenzen erhalten. Desk review; keine Live-Client-Ausführung."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-schnellstart.md",
+        "roemisch-katholisches-kirchenrecht/roemisch-katholisches-kirchenrecht-werkstatt.md",
+        "roemisch-katholisches-kirchenrecht/skills/juristischer-argumentationskern/SKILL.md",
+        "roemisch-katholisches-kirchenrecht/skills/kirchliche-arbeitsverhaltnisse-und-loyalitat/SKILL.md"
+      ],
+      "result": "Werkstatt/Mini wahren die Grenzen von Loyalitätsanforderungen, Kirchenaustritt und kanonischem Status. Spezialskill enthielt verkürzte Aussage C-68/17; nun anhand Rn. 53–56 berufsbezogen und einzelfalloffen formuliert.",
+      "search_2026": "2026-Suche bestätigte den bereits enthaltenen C-258/24; dessen Volltext und 8 AZR 194/25 (F) nicht erneut vollständig gelesen. Frisch C-68/17-Rn. 53–56 zum konkreten Altfehler nachgelesen.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

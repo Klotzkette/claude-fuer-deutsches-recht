@@ -34,7 +34,7 @@ Replik, Duplik und weiterer Schriftsatz setzen den bisherigen Nummernkreis fort.
 
 ### 3.4. PDF erzeugen
 
-Jede Versandanlage wird eine eigene PDF. Originaldatei intern erhalten. Word, Tabelle, Präsentation oder Bild kontrolliert konvertieren; danach Seitenumbrüche, abgeschnittene Spalten, Kommentare, Drehung, Auflösung und OCR visuell prüfen. PDF/A nur bestätigen, wenn technisch validiert.
+Je Versandanlage eine PDF; Original intern erhalten. Kontrolliert konvertieren und Umbrüche, Spalten, Kommentare, Drehung, Auflösung und OCR visuell prüfen. PDF/A nur nach technischer Validierung bestätigen.
 
 ### 3.5. Jede Seite stempeln
 
@@ -61,19 +61,21 @@ Prüfe Öffnung ohne Kennwort, Seitenzahl, Lesbarkeit, OCR, eingebettete Dateien
 
 Paragraf 130a Absatz 3 ZPO: Hauptdokument qualifiziert signieren oder einfach signiert persönlich sicher versenden; gewöhnliche Anlagen sind ausgenommen. Bei Mitarbeiter-Versand verlangt BAG, Beschluss vom 22.01.2025, 7 ABR 23/23, Rn. 33 bis 36 ([Volltext](https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/)), die qualifizierte Signatur. Der Beschluss betrifft Paragraf 46c ArbGG mit entsprechendem Formweg. „Nein“ im Signaturvermerk ist kein unwiderleglicher Beweis: Widersprüche an Originaldatei und Signatur technisch klären. Ungeklärte Delegation sperrt nur Versand, nicht Belegarbeit.
 
+Zwei einfache Signaturen sind bei persönlichem Versand durch den verantwortenden, selbst einfach signierenden Anwalt unschädlich: [BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1). Namen und tatsächlichen Absender abgleichen. Gesellschaftspostfach ausdrücklich offengelassen; Mitarbeiter-Versand gesondert prüfen.
+
 ### 4.2. Eingangskontrolle
 
-Paragraf 130a Absatz 5 ZPO knüpft den Eingang an die Speicherung auf der gerichtlichen Empfangseinrichtung und sieht eine automatisierte Bestätigung vor. Bereite einen Kontrollauftrag für Empfänger, Verfahren, Dateien, Übermittlungsstatus und Eingangszeitpunkt vor. Ein lokal fertiges Paket belegt keinen gerichtlichen Eingang. Die Frist bleibt im internen Ablauf bis zur positiven Eingangskontrolle offen.
+Nach Paragraf 130a Absatz 5 ZPO zählt die Speicherung beim Gericht. Kontrollauftrag: Empfänger, Verfahren, Dateien, Bestätigung, Status und Eingangszeit. Ein lokal fertiges Paket beweist keinen Eingang; Frist intern erst nach positiver Kontrolle erledigen.
 
 ### 4.3. Störung
 
-ZPO Paragraf 130a Absatz 6 betrifft ein eingegangenes, aber technisch ungeeignetes Dokument. Die Ersatzeinreichung bei vorübergehender technischer Unmöglichkeit steht in [Paragraf 130d ZPO](https://www.gesetze-im-internet.de/zpo/__130d.html). Halte Fehlerzeit, betroffene Funktion, Fehlermeldung und Versuche fest. Keine Ersatzübermittlung allein aus einem unspezifischen Fehlerhinweis freigeben. Fallbezogene Rechtsprechung nur nach amtlicher Verifikation hinzunehmen.
+Technisch ungeeignete eingegangene Dateien: Paragraf 130a Absatz 6 ZPO. Vorübergehende technische Unmöglichkeit: [Paragraf 130d ZPO](https://www.gesetze-im-internet.de/zpo/__130d.html). Fehlerzeit, Funktion, Meldung und Versuche belegen; unspezifische Hinweise genügen nicht. Rechtsprechung amtlich prüfen.
 
 ## 5. Freigabehindernisse
 
 Stoppe die Freigabe bei ungeklärter Frist oder Gericht, nicht finalem Hauptdokument, falschem Signaturweg, fehlender oder unleserlicher Anlage, widersprüchlichem Nummernkreis, aktivem PDF-Inhalt, verschlüsselter Datei oder nicht kontrollierter Konvertierung.
 
-Bei einer bloßen OCR- oder PDF/A-Prüflücke liefere den konkreten Prüfschritt und Verantwortlichen. Stelle niemals eine nicht gemessene Eigenschaft als erfüllt dar.
+Bei OCR-/PDF/A-Prüflücken Prüfschritt und Verantwortlichen nennen; ungemessene Eigenschaften nicht bestätigen.
 
 ## 6. Auslieferung
 

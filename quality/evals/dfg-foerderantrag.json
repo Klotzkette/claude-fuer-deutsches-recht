@@ -106,13 +106,25 @@
         "citation": "BVerfG, Kammerbeschluss vom 25. September 2023, 1 BvR 2219/20, Randnummern 9–15",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/09/rk20230925_1bvr221920.html",
         "application": "Bei vertraulichen Interviews Schutzkonzept und realistische Teilnehmerinformation aus Bedeutung der Forschungsfreiheit ableiten.",
-        "limit": "Ergänzende Erwägungen in unzulässiger Verfassungsbeschwerde; weder allgemeines Beschlagnahmeverbot noch DFG-Förderanspruch entschieden."
+        "limit": "Ergänzende Erwägungen in unzulässiger Verfassungsbeschwerde; weder allgemeines Beschlagnahmeverbot noch DFG-Förderanspruch entschieden.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Aktuelle Programmformulare und Personalmittelsätze im konkreten Antrag weiter zu prüfen; kein unmittelbar einschlägiges Budget- oder Bewilligungsurteil verifiziert.",
       "Workflow-Review 23.09.2026: DFG-Formularportal erneut eingesehen; keine neuen Fördersätze, Fristen oder Bewilligungszusagen abgeleitet. Keine sachfremde Rechtsprechung ergänzt."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "dfg-foerderantrag/dfg-foerderantrag-schnellstart.md",
+        "dfg-foerderantrag/dfg-foerderantrag-werkstatt.md"
+      ],
+      "result": "Forschungsfreiheit wird in Schutzkonzept und Teilnehmerinformation übersetzt. Die ergänzenden Erwägungen einer unzulässigen Beschwerde werden nicht als Beschlagnahmeverbot oder DFG-Förderanspruch ausgegeben.",
+      "search_2026": "2 BvL 3/18 gefunden; Zweitveröffentlichungsrecht betrifft nicht den bisher behandelten Schutz vertraulicher Forschungsteilnehmer. Kein bloß jahresbezogenes Zusatzziat eingefügt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

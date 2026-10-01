@@ -106,14 +106,26 @@
         "citation": "VG Berlin, Urteil vom 14.02.2025, 8 K 7/23, Rn. 33–42",
         "url": "https://gesetze.berlin.de/bsbe/document/NJRE001601780",
         "application": "Bei pauschaler Projektbeschreibung sind technische Aufgabe, geplante Arbeiten, Zeit und Ressourcen zu konkretisieren. Patent und frühere Entwicklung belegen nicht von selbst das zur Bescheinigung gestellte Vorhaben; ein Gantt-Diagramm ist nicht zwingend.",
-        "limit": "Einzelfall einer unzureichend beschriebenen Entwicklung; keine allgemeine Förderunfähigkeit patentierter Vorhaben. Amtlich indexierte Entscheidungsgründe gelesen, Rechtskraft nicht geprüft."
+        "limit": "Einzelfall einer unzureichend beschriebenen Entwicklung; keine allgemeine Förderunfähigkeit patentierter Vorhaben. Amtlich indexierte Entscheidungsgründe gelesen, Rechtskraft nicht geprüft.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Redaktionelle Akten- und Quellenprüfung, kein Live-Client- oder Modelltest.",
       "VG-Rechtskraft nicht verifiziert; amtlich indexierte Entscheidungsgründe geprüft, Direktseite technisch eingeschränkt. Keine Förderzusage oder Gesamtprüfung aller Beihilfeschwellen.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "forschungszulage-antragstellung/forschungszulage-antragstellung-schnellstart.md",
+        "forschungszulage-antragstellung/forschungszulage-antragstellung-werkstatt.md"
+      ],
+      "result": "Projektbeschreibung wird auf technische Aufgabe, Arbeiten, Zeit und Ressourcen zurückgeführt. Patent weder Fördergarantie noch Ausschluss; Gantt-Diagramm nicht zwingend. Der Nachweis bleibt amtlich indexierte Gründe, keine neu behauptete Rechtskraftprüfung.",
+      "search_2026": "Keine passende neue 2026-Entscheidung zur Bescheinigung eines FuE-Vorhabens gefunden; bestehender 2025-Fall bleibt mit Indexgrenze erhalten.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

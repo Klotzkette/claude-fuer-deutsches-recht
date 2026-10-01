@@ -43,6 +43,11 @@
       "checked_on": "2026-09-30",
       "supports": "Urteil 2026-02-11 – VIII ZR 37/24. Geprüft: Kopf/Leitsatz a und Rn. 25–40, Schwerpunkt 31–39. Anwaltlich erklärter Widerruf/Anfechtung kann nach erkennbarem Rückabwicklungsziel zugleich Rücktrittserklärung sein. Kein Automatismus; Empfängerhorizont zählt. Materielle Rücktrittsvoraussetzungen nicht abschließend beurteilt. Kauf2019/§434BGBaF nicht ungeprüft in heutiges Mängelrecht übertragen. Der weitere Komplex Wucher/Marktwert wurde nicht vertieft.",
       "source_sha256": "bcaeded64a0357403b3ee1a68961354b9d403793d2c5818745085569114f228e"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Rn. 16–23. Geschäftliche E-Mail während üblicher Geschäftszeiten mit Abrufbarkeit auf Empfängerserver zugegangen. Grenze: Privatempfang und außerhalb üblicher Zeiten ausdrücklich nicht entschieden; Absenden allein kein Zugangsbeweis."
     }
   ],
   "mini_review": {
@@ -112,7 +117,7 @@
       "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung.",
       "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
     ],
-    "sha256": "91ef5ef1170ccc5b416b7adaa310c3019fdec0067bbe2c05904f5803182fd294",
+    "sha256": "87c0638dd1e79b2bc7ebb7d0244fd40d8acafa956953adf10a293a390130b27e",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {
@@ -140,10 +145,12 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urteil vom 6. Oktober 2022, VII ZR 895/21, amtlicher Leitsatz",
+        "citation": "BGH, Urteil vom 06.10.2022 – VII ZR 895/21, Kopf, Rn. 16–23",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2021/VII_ZR_895-21.pdf?__blob=publicationFile&v=1",
-        "application": "E-Mail-Zugang bei abrufbarer Bereitstellung auf dem Empfängerserver während üblicher Geschäftszeiten im Unternehmerverkehr.",
-        "limit": "Keine automatische Übertragung auf private Empfänger, Nachtversand oder Beweis durch bloßes Absenden. Amtlich indexierter Leitsatz geprüft; direkter PDF-Abruf gesperrt."
+        "application": "Geschäftliche E-Mail während üblicher Geschäftszeiten mit Abrufbarkeit auf Empfängerserver zugegangen.",
+        "limit": "Privatempfang und außerhalb üblicher Zeiten ausdrücklich nicht entschieden; Absenden allein kein Zugangsbeweis.",
+        "checked_on": "2026-10-01",
+        "verification": "fresh_primary_passages"
       },
       {
         "citation": "BGH, Urteil vom 15. Februar 2024, VII ZR 42/22, amtlicher Leitsatz",
@@ -172,5 +179,14 @@
         "sha256": "a1a1aa3afabacdb33291a2cbdc7d3755ee3fecbe7534b44c70a83f490c0a7f37"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "context_and_primary_passages",
+    "report": "quality/source-audits/2026-10-01-breit/wirtschaft.json",
+    "files_changed": [
+      "vertragsrecht/vertragsrecht-werkstatt.md"
+    ],
+    "limits": "Gezielter Kontextabgleich zentraler Anker plus erfasster Spezialskill-Treffer; kein Volltext-Neuabruf aller Altentscheidungen, kein Live-Mandatstest."
   }
 }

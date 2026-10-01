@@ -143,7 +143,8 @@
         "citation": "BGH, Urteil vom 07.02.2018, Az. VIII ZR 148/17",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_148-17.pdf?__blob=publicationFile&v=1",
         "application": "Konkrete unerklärliche Verbrauchssteigerung kann ernsthafte Möglichkeit eines offensichtlichen Fehlers begründen; berechtigte Einwendungen im Zahlungsprozess widerlegen.",
-        "limit": "Einzelfall der Stromgrundversorgung, keine beliebige Beanstandung und keine automatische Übertragung auf Sondervertrag oder Energieprojekte."
+        "limit": "Einzelfall der Stromgrundversorgung, keine beliebige Beanstandung und keine automatische Übertragung auf Sondervertrag oder Energieprojekte.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
@@ -151,7 +152,18 @@
       "BGH-PDF direkt gesperrt; Gericht, Datum, Aktenzeichen und zwei amtlich indexierte Leitsätze verifiziert. Kein vollständiger Direktabruf der Entscheidungsgründe.",
       "Keine Vollverifikation aktueller Regulierungsfestlegungen, sämtlicher Förderbedingungen, Fusionsgesetzgebung oder projektbezogener Genehmigungsanforderungen.",
       "Workflow-Review 23.09.2026: Paragraf 111a EnWG erneut eingesehen; keine neue Preis-, Förder- oder Marktstandszusage. Vorhandene spezialgesetzliche Grenzen bleiben fallbezogen."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "energierecht/energierecht-schnellstart.md",
+        "energierecht/energierecht-werkstatt.md"
+      ],
+      "result": "Der Stromgrundversorgungsfall bleibt auf konkrete unerklärliche Verbrauchssprünge und Gegenbeweis im Zahlungsprozess beschränkt. Kein Übertrag auf jede Rechnung oder beliebigen Sondervertrag.",
+      "search_2026": "Suche nach 2026-Stromrechnung/Verbrauchsfällen ergab ältere BGH-Fälle; VIII ZR 199/20 vom 21.12.2022 nicht mit einem 2026-Fall verwechselt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

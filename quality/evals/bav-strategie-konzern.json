@@ -27,28 +27,37 @@
       "url": "https://www.gesetze-im-internet.de/betravg/__16.html",
       "checked_on": "2026-09-23",
       "supports": "Absätze 3 und 4: konkret nachzuweisende Ausnahmen und begrenzte Dreikalendermonatsregel bei qualifizierter Mitteilung; keine allgemeine Klagefrist."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
+      "checked_on": "2026-10-01",
+      "supports": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25: Anpassungsstichtag, Bezugszeitraum und Wirksamkeitsdatum einer Tariferhöhung anhand des konkreten BV-Wortlauts zuordnen. Grenze: Keine allgemeine Einjahresverzögerung und keine Entscheidung über § 16 BetrAVG. Gelesener Umfang: Entscheidungskopf, Tatbestand und Rn. 1–19; tragend Rn. 13–17.",
+      "verification_status": "frisch_volltextpassagen",
+      "source_sha256": "ffa694ea558c24cee6a0ec67e98098a3bacafb2c5423fe02bea29ba51578ddae"
     }
   ],
   "mini_review": {
-    "sha256": "13965ebb219348ab2c2cc0abe782e6cac1ec7b5f0bec16ed9919a98057770471",
+    "sha256": "7d23ce9ec55bd1b0279e669eaaebb9f55d5781c3faedf6b0fd442ce4aa9f2a33",
     "verdict": "revised",
-    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten. Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären. Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen.",
-      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch."
+      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten."
     ]
   },
   "workshop_review": {
-    "sha256": "0596345f78f5007dcd757aa0316e9628f68f8fbd737d536231bd8cbd702d4444",
+    "sha256": "17f8777de02168622c8eec53ddd9cbacb13096e5a101b2857a69b31f8c59c539",
     "verdict": "revised",
-    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
       "Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
-      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch."
+      "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert."
     ]
   },
   "selection": {
@@ -125,13 +134,27 @@
         "citation": "BAG, Urteil vom 19.06.2012, 3 AZR 408/10",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-408-10/",
         "application": "Bei Leistungskürzung der Pensionskasse zugesagte und gezahlte Leistung vergleichen; dynamische Satzungsverweisung beseitigt Einstandspflicht nicht.",
-        "limit": "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden."
+        "limit": "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BAG, Urteil vom 14.07.2015, 3 AZR 517/13",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-517-13/",
         "application": "Dynamische Bezugnahme bei späterer Versorgungsänderung durch dreistufigen Schutz prüfen.",
-        "limit": "Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung."
+        "limit": "Volltext Rn. 25 bis 31; kirchlicher Vertragsfall, keine steuerrechtliche Globalbewertung.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/",
+        "application": "Anpassungsstichtag, Bezugszeitraum und Wirksamkeitsdatum einer Tariferhöhung anhand des konkreten BV-Wortlauts zuordnen.",
+        "limit": "Keine allgemeine Einjahresverzögerung und keine Entscheidung über § 16 BetrAVG.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_volltextpassagen",
+        "passages_read": "Entscheidungskopf, Tatbestand und Rn. 1–19; tragend Rn. 13–17.",
+        "evidence_sha256": "ffa694ea558c24cee6a0ec67e98098a3bacafb2c5423fe02bea29ba51578ddae"
       }
     ],
     "remaining_limits": [
@@ -139,5 +162,19 @@
       "Volltext Rn. 36 bis 44; heutige reine Beitragszusage war nicht entschieden.",
       "Workflow-Anschlussprüfung 23.09.2026: individuelle Text- und Quellenprüfung, keine Live-Client-Ausführung. Frühere Entscheidungsprüfungen und ihre Reichweitengrenzen bleiben unverändert; keine erneute vollständige Rechtsprechungsprüfung behauptet."
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BAG, Urteil vom 12.05.2026, 3 AZR 159/25",
+        "status": "frisch_volltextpassagen"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

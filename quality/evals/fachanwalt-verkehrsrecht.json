@@ -144,7 +144,9 @@
         "citation": "BGH, Urteil vom 16.01.2024, VI ZR 253/22",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2022/VI_ZR_253-22.pdf?__blob=publicationFile&v=1",
         "application": "Rn. 14–20 und 25–28: Bei konkreter Unfallreparatur umfasst Werkstattrisiko auch nicht erkennbare Nichtausführung; bei offener Rechnung Zahlung an Werkstatt Zug um Zug gegen entsprechende Werkstattansprüche.",
-        "limit": "Unfallbezug und fehlendes Auswahl-/Überwachungsverschulden bleiben erforderlich; bei Zahlung an sich oder Freistellung objektiver Nachweis. Keine pauschale Zessionars-, Kasko- oder Totalschadenregel."
+        "limit": "Unfallbezug und fehlendes Auswahl-/Überwachungsverschulden bleiben erforderlich; bei Zahlung an sich oder Freistellung objektiver Nachweis. Keine pauschale Zessionars-, Kasko- oder Totalschadenregel.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -164,5 +166,13 @@
     "continuation": "Versicherung zahlte an den Geschädigten statt an die Werkstatt oder dieser zahlte inzwischen selbst -> beide Salden und Zahlungsempfänger im Schreiben aktualisieren.",
     "enrichment": "Fotoperspektive und tatsächliche Unfallposition, Vorschadenzone, konkrete Kürzungsart, Direkt- und Eigenzahlung, belegte Abholbereitschaft, Vergleichsgrenze für Personenschäden sowie getrennte Bußgeld- und Fahrerlaubniswege.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

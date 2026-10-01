@@ -916,6 +916,8 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 - Amtlich geprüft am 14. September 2026: [Paragraf 69 FGO](https://www.gesetze-im-internet.de/fgo/__69.html), [Paragraf 128 FGO](https://www.gesetze-im-internet.de/fgo/__128.html) und [Paragraf 114 FGO](https://www.gesetze-im-internet.de/fgo/__114.html).
 - Ständige Rechtsprechung des BFH zur AdV: Die Prüfung bleibt summarisch, darf aber bei offenen Rechtsfragen die Erfolgsaussichten nicht schematisch verneinen; konkrete Fundstelle vor produktiver Zitierung verifizieren.
 
+[BFH, Beschluss vom 04.03.2026 – VI B 44/25 (AdV)](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610056/), Gründe II.1–3: Ernstliche Zweifel an einem Einzelansatz führen nicht zur Aussetzung, soweit belegte gegenläufige Fehler desselben Steuerbescheids die Entlastung aufzehren. Berechne deshalb beide Korrekturen und den verbleibenden Aussetzungsbetrag unter Beachtung des Verböserungsverbots. Der Luxemburg-Fall erlaubt keine Verrechnung beliebiger anderer Steuerjahre; die materielle Streitfrage blieb im Eilverfahren offen.
+
 ## Prüfungsschema in Stufen
 
 1. Statthaften AdV-Antrag und angefochtenen Verwaltungsakt prüfen; Behördenvorbefassung einschließlich der Ausnahmen nach Paragraf 69 Absatz 4 FGO einordnen. Der Antrag ist auch vor Klageerhebung möglich.

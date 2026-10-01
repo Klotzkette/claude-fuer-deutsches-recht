@@ -123,13 +123,25 @@
         "citation": "BVerfG, Urteil vom 9. Februar 2010, 1 BvL 1/09 und weitere, Randnummern 139 bis 142",
         "url": "https://www.bundesverfassungsgericht.de/e/ls20100209_1bvl000109.html",
         "application": "Bei Existenzsicherungsregelungen Datengrundlage und Methodenabweichungen der Leistungsbemessung gesondert prüfen.",
-        "limit": "Amtlichen Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 139 bis 142 vollständig gelesen. Kein allgemeiner NKR-Auftrag und keine pauschale Nichtigkeit mangelhafter Kostentabellen."
+        "limit": "Amtlichen Volltext am 25.09.2026 inhaltlich geprüft, Randnummern 139 bis 142 vollständig gelesen. Kein allgemeiner NKR-Auftrag und keine pauschale Nichtigkeit mangelhafter Kostentabellen.",
+        "checked_on": "2026-09-25"
       }
     ],
     "remaining_limits": [
       "Keine Live-Modellprüfung; Quelle und Register- beziehungsweise Verfahrensstand sind für den konkreten Fall zusätzlich abzugleichen.",
       "Workflow-Nachprüfung 2026-09-23: alle bisherigen Profilquellen erneut geöffnet, NKRG 1, 2 und 4 sowie GGO 43 abgeglichen; BVerfG-Pinpoints nach Browserfehler direkt amtlich gelesen. Rechenbeispiele sind fiktiv, keine erhobenen Ressortdaten. Kein neuer Methodenleitfaden, keine Vollprüfung aktueller One-in-one-out-Buchungsregeln und keine neue materielle Verfassungsprüfung. Quellenreview vom 2026-09-22 bleibt als Vorbefund erhalten."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "normenkontrollrat-nkr/normenkontrollrat-nkr-schnellstart.md",
+        "normenkontrollrat-nkr/normenkontrollrat-nkr-werkstatt.md"
+      ],
+      "result": "Existenzsicherungsrechtlicher Methodenanker bleibt eng. Kostenfolgenprüfung beim NKR wird nicht aus dem Hartz-IV-Urteil zum eigenständigen verfassungsrechtlichen Prüfmandat umgedeutet.",
+      "search_2026": "1 BvL 5/21 aus 2026 betrifft Leistungsbemessung, kein allgemeines NKR-Prüfmandat. Kein beliebiger 2026-Anker angefügt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

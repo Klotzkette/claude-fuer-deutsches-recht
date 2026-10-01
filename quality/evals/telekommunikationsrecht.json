@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "telekommunikationsrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/tkg_2021/__57.html",
@@ -32,17 +32,24 @@
       "url": "https://www.gesetze-im-internet.de/tkg_2021/__58.html",
       "checked_on": "2026-09-22",
       "supports": "Aktueller Volltext: Entstörung, Tagesstaffel, Terminversäumnis und wechselseitige Anrechnung."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/iii_zr___8-25.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Amtlicher BGH-Volltext bei Curia: Kopf, Tenor und Rn. 1–37 vollständig. Mindestlaufzeit auch beim erstmaligen Glasfaserdienstvertrag ab Vertragsschluss; §56Abs1 TKG verdrängt §309Nr9a BGB nicht. Grenze: Reine Herstellung der physischen Verbindung nach §56Abs2 TKG gesondert. Urteil betrifft konkrete Verbraucher-AGB, entscheidet keinen allgemeinen Schadensersatz."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut gelesen: drei Einstiegsmodi, konkrete Tagesrechnung, Gutschrift-/Mitwirkungsklärung und Änderungsmitteilung führen zum aktualisierten Anbieterbrief. Nutzungsausfallschaden und Terminfall samt Grenzen erhalten; kein Live-Test.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Dokumentwahl ohne Materialbericht, Tagesbeispiel und Rückwirkung neuer Tickets beziehungsweise Änderungsmitteilungen auf Betrag und Kündigungsdatum ergänzt.",
       "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
-      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert."
+      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "f253b364556b1f8ec654f0957de945da8de2c54b19d7ff503705d14fc213b22d"
+    "sha256": "fffd931f53a7136833782c0fc33c8485b5b92a352b7ad111a38e0eb2f7a9c7a1",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -90,13 +97,15 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Gesamte Werkstatt erneut gelesen: Ticket-/Ersatzprüfung, konkrete Ausfallrechnung, Gutschriftzuordnung, Minderleistung gegenüber Änderungs-Kündigung und tenorbezogener Regulierungseinwand bis zum Dokumentabschluss ausgebaut. Vorhandene BGH-Grenzen erhalten; keine pauschale Vollverifikation aller Nebenmaterien.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Drei substantielle Verbraucherzweige samt Gegenargumenten und gesonderter Fortsetzung des Behördenfalls ergänzt; Fristauslöser aus Unterrichtung oder Bekanntgabe ermitteln.",
       "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
-      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert."
+      "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "59812c8a6ede0eb458d5ffba3802de9b425a195686d2de309eb167d3d06bd469"
+    "sha256": "99446873084de8cd55998dff598415c351fb8d9829d6960a3e123704f3383fc9",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -111,7 +120,7 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "telekommunikationsrecht/README.md",
@@ -130,6 +139,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR__98-12.pdf?__blob=publicationFile&v=1",
         "application": "Privater Internetausfall kann ohne Zusatzkosten Vermögensschaden auslösen; gleichwertigen Ersatz und objektiven Nutzungswert prüfen.",
         "limit": "Haftungsgrund revisionsrechtlich vorausgesetzt; verlangte 50 Euro keine zugesprochene Pauschale, heutige TKG-Anrechnung zusätzlich prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/iii_zr___8-25.pdf",
+        "application": "Mindestlaufzeit auch beim erstmaligen Glasfaserdienstvertrag ab Vertragsschluss; §56Abs1 TKG verdrängt §309Nr9a BGB nicht.",
+        "limit": "Reine Herstellung der physischen Verbindung nach §56Abs2 TKG gesondert. Urteil betrifft konkrete Verbraucher-AGB, entscheidet keinen allgemeinen Schadensersatz."
       }
     ],
     "remaining_limits": [

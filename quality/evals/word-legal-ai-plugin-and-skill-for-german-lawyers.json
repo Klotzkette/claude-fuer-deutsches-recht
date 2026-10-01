@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "word-legal-ai-plugin-and-skill-for-german-lawyers",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -22,30 +22,37 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlichen Normtext erneut gelesen: Dokumenteignung, Signatur und Übermittlungsweg sowie tatsächlicher Eingang getrennt. Keine technische Prüfung einer Datei oder Signatur und keine erneute BAG-Volltextprüfung."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Rn. 1–29. Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht. Grenze: Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kurzprompt vollständig erneut gelesen. Fachliche Einstiege und konkrete Konflikte bei Zahlungsfrist, Haftungsbezugsgröße und Lieferschein bis zur geänderten Fassung ergänzt; BAG- und Exportgrenzen bewahrt.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Leerer Einstieg bietet Änderungsvereinbarung, Vertragsüberarbeitung oder bereinigten Schriftsatz; Dateien ohne Aufgabe still lesen.",
-      "Antwort zur verbindlichen Zahlungsfrist oder zum Lieferablauf ändert Klausel, Anlagen und Tatsachenvortrag."
+      "Antwort zur verbindlichen Zahlungsfrist oder zum Lieferablauf ändert Klausel, Anlagen und Tatsachenvortrag.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "9dc7214b74c0b0aebda3f6e40798d37d907133827373b4fd591ac265ad54dc21",
+    "sha256": "166e18e54bedc0caf86aeb39f1477bf8383dd16af768b629add9d97063b57a8c",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt vollständig erneut gelesen. Vertragskommentare, widersprüchliche Prozessbelege und unterschriftsreife Rückläufe in konkrete Bearbeitungszweige umgesetzt; kein Word- oder Signaturtest.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Bezugsperiode einer Haftungsgrenze, Fristauslöser und widersprüchliche Term-Sheet-Angaben bis zur Klauselfassung klären.",
       "Gegnerbehauptung, Mandantenerklärung und Anlage mit Paragraf 138 ZPO abgleichen; ungünstige Belege und Zustellungsdatum berücksichtigen.",
-      "Rücklauf und Empfängerkopie auf inhaltliche Abweichung, offene Klauselfreigabe und vertrauliche Kommentare getrennt prüfen."
+      "Rücklauf und Empfängerkopie auf inhaltliche Abweichung, offene Klauselfreigabe und vertrauliche Kommentare getrennt prüfen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "d121c630fc78c5d2bbe456263d38af134808fcfe8bf77617e8cfa65bdac4bdca",
+    "sha256": "19ad8cbc49123f0d1421a9269de621df61232a340897adb8641878581293e4d0",
     "method": "desk_review",
-    "reviewed_on": "2026-09-23"
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -143,7 +150,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "word-legal-ai-plugin-and-skill-for-german-lawyers/README.md",
       "word-legal-ai-plugin-and-skill-for-german-lawyers/word-legal-ai-plugin-and-skill-for-german-lawyers-werkstatt.md",
@@ -162,6 +169,12 @@
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/7-abr-23-23/",
         "application": "Mitarbeiterversand verlangt qualifizierte Signatur der verantwortenden Person an der endgültigen Schriftsatzdatei; negativer technischer Vermerk allein nicht unwiderleglich.",
         "limit": "Amtlicher Volltext Rn. 33 bis 36 gelesen. Arbeitsgerichtlicher Formfall, keine allgemeine Signaturpflicht interner Entwürfe, keine Prüfung aller Vertragsklauseln oder technische Live-Signaturvalidierung."
+      },
+      {
+        "citation": "BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+        "application": "Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht.",
+        "limit": "Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
       }
     ],
     "remaining_limits": [

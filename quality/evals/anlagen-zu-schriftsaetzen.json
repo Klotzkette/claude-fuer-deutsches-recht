@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "anlagen-zu-schriftsaetzen",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -42,29 +42,38 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-23",
       "supports": "Absätze 3, 5 und 6: Formalternative am Hauptdokument, Eingang und besondere Nachreichung bei technischer Ungeeignetheit getrennt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Rn. 1–29. Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht. Grenze: Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
     }
   ],
   "mini_review": {
-    "sha256": "fc7000a0a9d65861f60ee76f92f0c10f41f639cd0266cd7f6294e45fc7bfb9ec",
+    "sha256": "8c7b8279cfbd4253434d0af947f57247c099e2044e27fd3954b0e899aa532ed7",
     "verdict": "revised",
-    "reason": "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt.",
       "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
       "Leerstart: Belegabgleich, PDF-Produktion oder Versandkontrolle anbieten. Dateien: Schriftsatz und Belege still zuordnen; keine Vollproduktion ohne Auftrag. Klarer Auftrag: Nur bestellte Prüfung oder Produktion durchführen.",
-      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument."
-    ]
+      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+    ],
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Erneutes pauschales Einlesen interner Bestände beendet; delegierten Versand und widersprüchlichen Signaturvermerk konkret behandelt; ungeprüfte Entscheidungsliste durch belegte Aussagen ersetzt. Die vollständige Werkstatt wurde einschließlich Rückfragen, Fortsetzung und Auftragsgrenzen redaktionell durchgesehen. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Anlagenreferenzen mit richtigen Belegfassungen abgleichen und nummerierte Versanddateien herstellen.",
       "Bei Mitarbeiter-Versand qualifizierte Signatur der verantwortenden Person prüfen; bei widersprüchlichem Prüfvermerk Originaldatei und Signatur technisch klären.",
       "Belegkonflikt, neue Datei nach Signatur, Nummernkollision, Nachreichung, Schwärzungen und tabellarische Ausschnitte ohne materielle Beweisentscheidung.",
-      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument."
+      "Nachgereichte Mahnungsfassung verändert Anlagenbezug und Manifest; Assistenzversand verändert Signaturkontrolle am Hauptdokument.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "a2c688a14c18ce8be9a90e43e4f0219d1bc88c1f24d7d250af1dd28d550ea6ee"
+    "sha256": "4b34543337fbbe32c0d951763deb8afe599dcbeea4ae50fcf5e302622067a860",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -123,7 +132,7 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "anlagen-zu-schriftsaetzen/README.md",
       "anlagen-zu-schriftsaetzen/anlagen-zu-schriftsaetzen-werkstatt.md",
@@ -148,6 +157,12 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1",
         "application": "Eingangsnachweis dem verfahrensbestimmenden Schriftsatz zuordnen; Anlage allein ersetzt dessen Eingang nicht.",
         "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gestört; Ausgangskontrolle, keine Beweiskraftregel für Anlagen."
+      },
+      {
+        "citation": "BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+        "application": "Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht.",
+        "limit": "Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
       }
     ],
     "remaining_limits": [

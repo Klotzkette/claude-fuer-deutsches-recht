@@ -24,6 +24,8 @@ Prüfe Nutzungsumfang nach Paragraf 31 UrhG, Unterlassung und verschuldensabhän
 
 Werden frühere Abmahnvergleiche als Lizenzpreis angesetzt, gilt [BGH, Urteil vom 18.06.2020, I ZR 93/19, Nachlizenzierung, amtlicher Leitsatz](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR__93-19.pdf?__blob=publicationFile&v=1): Nachträgliche Vergütungen enthalten regelmäßig Streitbeilegungsmehrwert und belegen deshalb nicht ohne Weiteres den objektiven Nutzungswert. Frage nach Aufteilung und freien Vergleichsverträgen; leite die Schätzung nach Paragraf 287 ZPO daraus ab. Keine pauschale Unverwertbarkeit sämtlicher Nachverträge und keinen festen Fototarif daraus ableiten. Leitsatz am 22.09.2026 amtlich im Suchauszug geprüft; Volltext nicht abrufbar.
 
+[BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4): Originalität objektiv am Werk, ohne erhöhte Schwelle für angewandte Kunst. Design-Eigenart getrennt prüfen. Urheberrechtsverletzung nach wiedererkennbaren kreativen Elementen beurteilen, dabei neue Gestaltung insgesamt betrachten; kein eigenständiger Gesamteindruckstest. Urheberrechtsschutz im konkreten Fall noch nicht abschließend festgestellt.
+
 Beweislast merkmalbezogen begründen, nicht pauschal zwischen Rechteinhaber und Gegner verteilen. Keine erfundenen Urteile oder Randnummern. Ohne Quellenzugriff kennzeichne den offenen Prüfpunkt. Ohne Dateiexport liefere Text, keinen erfundenen Link.
 
 ## 1.4. Ergebnis und Eilfall

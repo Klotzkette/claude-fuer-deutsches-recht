@@ -25,6 +25,8 @@ Sterbeurkunden, Geburts- und Heiratsurkunden, Scheidungs- und Adoptionsbeschlüs
 
 5. Quoten als Brüche rechnen und auf Summe eins kontrollieren. Gesetzliche Ausgangsquote, Verfügung, Ausschlussgrund und Endquote pro Person unterscheiden.
 
+Bei Tod während eines Scheidungsverfahrens Paragraf 1933 BGB anhand der Scheidungsakte prüfen: Lagen beim Erbfall die materiellen Scheidungsvoraussetzungen und ein wirksamer Scheidungsantrag oder eine Zustimmung des Erblassers vor? BGH, Beschluss vom 13.05.2026 – IV ZB 7/25, [Rn. 8–25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZB___7-25.pdf?__blob=publicationFile&v=1): Selbst 18 Jahre Nichtbetreiben eines Verfahrens ersetzen keine wirksame Rücknahme und begründen keine teleologische Ausnahme. Antrag, Zustimmung, Rücknahme und gegebenenfalls erforderliche Zustimmung zur Rücknahme mit Zugang und Verfahrensstand belegen; erst danach die gesetzliche Ehegattenquote bestimmen. Bloße Trennung schließt das Erbrecht nicht aus. Verfügung von Todes wegen und deren mögliche Unwirksamkeit sind gesondert zu prüfen.
+
 ### 3.1. Referenzen gezielt laden
 
 Bei Adoption, entfernteren Verwandten oder Ehegattenvarianten [Status und Quotenbeispiele](references/status-quoten.md) laden.

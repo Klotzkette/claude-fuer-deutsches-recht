@@ -125,7 +125,9 @@
         "citation": "BGH, Urteil vom 19.01.2017, VII ZR 193/15, Randnummern 25 bis 45",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2015/VII_ZR_193-15.pdf?__blob=publicationFile&v=1",
         "application": "Volltext gelesen: Mängelrechte grundsätzlich ab Abnahme, davor Erfüllungsrecht; Ausnahme beim endgültigen Abrechnungsverhältnis, nicht allein durch Vorschussverlangen.",
-        "limit": "Keine Übertragung auf Dienstverträge; die Entscheidung erlaubt keine pauschale Abnahmeverweigerung bei unwesentlichen Mängeln und keine automatische Freigabe des gesamten Werklohns."
+        "limit": "Keine Übertragung auf Dienstverträge; die Entscheidung erlaubt keine pauschale Abnahmeverweigerung bei unwesentlichen Mängeln und keine automatische Freigabe des gesamten Werklohns.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -146,5 +148,13 @@
     "continuation": "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
     "enrichment": "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

@@ -18,13 +18,15 @@ Bei vollständigem Ausfall unterscheide Entschädigung nach Paragraf 58 TKG, Min
 
 ## 1.3. Ausfallrechnung
 
-Nach Paragraf 58 Absatz 3 TKG beginnt die Entschädigung bei nicht binnen zwei Kalendertagen nach Meldung beseitigter Störung ab dem Folgetag. Stelle Meldetag, die beiden Folgetage und die danach vollständig ausgefallenen Tage ausdrücklich dar. Bei gleichbleibendem Monatsentgelt vergleiche für den dritten und vierten Tag jeweils 5 Euro mit 10 Prozent, ab dem fünften Tag jeweils 10 Euro mit 20 Prozent des vereinbarten Monatsentgelts; verwende den höheren Betrag. Grenztage mit nur teilweisem Ausfall gesondert prüfen, nicht still mitzählen.
+Paragraf 58 Absatz 3 TKG: Meldetag, zwei Folgetage und anschließende vollständige Ausfalltage einzeln erfassen. Ab dem dritten Tag nach Meldung bei unverändertem Monatsentgelt für Tag drei/vier 5 Euro oder 10 Prozent, ab Tag fünf 10 Euro oder 20 Prozent ansetzen, jeweils den höheren Betrag. Teilweise ausgefallene Grenztage gesondert prüfen.
 
 Liefere eine Tagesliste und Zwischensummen. Bereits erhaltene Zahlungen sowie gesetzliche Anrechnungen von Minderung und Schadensersatz sichtbar behandeln; dieselbe Störung nicht mehrfach vollständig abrechnen. Weiteren Schaden mit konkretem Aufwand, Kausalität und Beleg darstellen, nicht mit einem pauschalen Homeoffice-Tageslohn.
 
 Meldung am 1. September, Vollausfall bis 7. September einschließlich und 60 Euro Monatsentgelt ergeben unter diesen Annahmen für 4. bis 7. September 6 + 6 + 12 + 12 = 36 Euro. Ändert ein Ticket die Wiederherstellung, ändere Tagesliste und Brief. Bei Gutschriften kläre Zweck und Zeitraum vor der Anrechnung. Bei behaupteter fehlender Mitwirkung prüfe die konkrete Aufforderung und ihren Einfluss auf die Ausfalldauer; ein Ersatzangebot erst nach Prüfung tatsächlicher Nutzbarkeit bewerten.
 
-Bei längerem privaten Internetausfall auch Paragrafen 280 und 249 BGB prüfen: BGH, Urteil vom 24. Januar 2013, III ZR 98/12, Randnummern 16 bis 22, lässt Nutzungsausfallschaden ohne Zusatzkosten oder Verdienstausfall zu. Kläre einen annähernd gleichwertigen Ersatz; Mobiltelefonbesitz allein beweist keinen Internetzugang. Das Urteil setzte die Haftung dem Grunde nach voraus und sprach keine feste Tagespauschale zu. Die dort verlangten 50 Euro waren Parteiforderung. Erspartes Entgelt und die heutige Anrechnung nach Paragraf 58 Absatz 3 TKG berücksichtigen; das Urteil legt dessen Tagesstaffel nicht fest.
+Bei längerem Privatausfall Paragrafen 280, 249 BGB prüfen: BGH, Urteil vom 24.01.2013, III ZR 98/12, Rn. 16–22, erlaubt Nutzungsausfallschaden ohne Zusatzkosten/Verdienstausfall. Gleichwertigen Ersatz klären; Handybesitz beweist keinen Internetzugang. Haftung war vorausgesetzt; 50 Euro täglich waren nur Parteiforderung. Erspartes Entgelt und heutige Anrechnung nach Paragraf 58 Absatz 3 TKG beachten; dessen Tagesstaffel folgt nicht aus dem Urteil.
+
+Glasfaser: [BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/iii_zr___8-25.pdf). Mindestlaufzeit des Erst-Dienstvertrags ab Vertragsschluss, nicht Freischaltung; beide Daten belegen. Paragraf 56 Absatz 1 TKG verdrängt Paragraf 309 Nummer 9 Buchstabe a BGB nicht. Reinen physischen Anschlussvertrag nach Absatz 2 und Geschäftskunden gesondert prüfen.
 
 ## 1.4. Passenden Rechtsweg wählen
 

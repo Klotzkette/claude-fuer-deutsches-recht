@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "designrecht-geschmacksmusterrecht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/geschmmg_2004/BJNR039010004.html",
@@ -27,29 +27,38 @@
       "url": "https://www.gesetze-im-internet.de/designg/__6.html",
       "supports": "Erneuter Normabruf zur Neuheitsschonfrist; eigene und zurechenbare Offenbarung von fremden Veröffentlichungen trennen, keine allgemeine Schonfrist für fremde Designs.",
       "checked_on": "2026-09-23"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf/Leitsätze/Tenor und tragende Gründe Rn. 20–32, 56–66. Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest. Grenze: Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Die Eigenart wird gegen einzelne ältere Gestaltungen geprüft statt aus isolierten Designelementen zusammengesetzt. Workflow-Ergänzung einzeln geprüft: Älteres Bild zeigt zusätzlich die Rückseite -> Einzelvergleich, Eigenartsangriff und Anspruchs- oder Abwehrtext neu bewerten, kein Merkmalsmosaik bilden.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Mosaikvergleich bei Eigenart ausgeschlossen",
       "Vermutungsregel nicht mit Nachahmungsnachweis verwechselt",
       "Offenbarungs- und Bildnachforderungen mit fertigem Entwurf verknüpft",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "ddd009f0ee319682f7035c7e7455a5b10e6ac380a17122c2dfd501ec082a08b8"
+    "sha256": "655908f8f7e04d1b373d58a016cb68ecf0d05a0bf2a92a429019670db5881f14",
+    "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Anmeldung, Nichtigkeit und Verletzung bleiben eigenständig; Karen Millen wird für Gesamteindruck und Vermutung beim nicht eingetragenen Design funktional genutzt. Workflow-Ergänzung einzeln geprüft: Konsistente Ansichten für Anmeldung, eigene und fremde Offenbarung, Beweis des nicht eingetragenen Schutzes, produktbezogene Verkaufsnachweise, Lizenzumfang und Abverkauf mit Freigabegrenzen.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Mosaikvergleich bei Eigenart ausgeschlossen",
       "Vermutungsregel nicht mit Nachahmungsnachweis verwechselt",
       "Offenbarungs- und Bildnachforderungen mit fertigem Entwurf verknüpft",
-      "Konsistente Ansichten für Anmeldung, eigene und fremde Offenbarung, Beweis des nicht eingetragenen Schutzes, produktbezogene Verkaufsnachweise, Lizenzumfang und Abverkauf mit Freigabegrenzen."
+      "Konsistente Ansichten für Anmeldung, eigene und fremde Offenbarung, Beweis des nicht eingetragenen Schutzes, produktbezogene Verkaufsnachweise, Lizenzumfang und Abverkauf mit Freigabegrenzen.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "088945d2a2fd5334be602f1e2ef2d12ed6907d7692d4953cb098b715732cfc8b"
+    "sha256": "8db1ad0e8152ecfb7270dbf56bce4505165b7d9d7c2e577d326e32fbfc35fb33",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -96,7 +105,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "files": [
       "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-werkstatt.md",
       "designrecht-geschmacksmusterrecht/designrecht-geschmacksmusterrecht-schnellstart.md",
@@ -114,6 +123,12 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=ecli:ECLI:EU:C:2014:2013",
         "application": "Eigenart am Gesamteindruck einzelner älterer Designs; besondere Darlegung für Gültigkeitsvermutung des nicht eingetragenen Designs.",
         "limit": "Kein Ersatz für Nachahmungsnachweis; nicht sämtliche Fragen technischer Bedingtheit oder Ersatzteile entschieden."
+      },
+      {
+        "citation": "BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR__96-22A.pdf?__blob=publicationFile&v=4",
+        "application": "Originalität objektiv am Werk bestimmen, keine erhöhte Schwelle für angewandte Kunst; wiedererkennbare Übernahme kreativer Elemente statt eigenständigem Gesamteindruckstest.",
+        "limit": "Designrechtliche Eigenart bleibt anderer Maßstab; neue Gestaltung insgesamt betrachten. Urheberrechtliche Anträge zurückverwiesen, Schutz des Möbelsystems nicht endgültig festgestellt. PDF ohne A ist Vorlagebeschluss 2023."
       }
     ],
     "remaining_limits": [

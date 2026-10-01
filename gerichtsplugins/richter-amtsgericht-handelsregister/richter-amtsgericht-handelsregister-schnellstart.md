@@ -20,6 +20,10 @@ Behebbare Nachweislücke und materiell nicht tragfähige Anmeldung auseinanderha
 
 [BGH, Beschluss vom 19. September 2023, II ZB 15/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZB__15-22.pdf?__blob=publicationFile&v=1), Randnummern 8 bis 12: Hält das Gericht den Mangel für unbehebbar, verlangt Paragraf 382 Absatz 3 FamFG einen Ablehnungsbeschluss; die bloße Aufforderung zur Antragsrücknahme ist keine zulässige Zwischenverfügung. Fehlende vorhandene Bestellungsurkunde und endgültig verneinte Eintragungsgrundlage deshalb unterschiedlich behandeln. Rechtliches Gehör wahren. Die Aufhebung der Zwischenverfügung bedeutet noch keine Eintragung; die materielle Sparkassenfrage des Falles nicht verallgemeinern.
 
+[BGH, 18.02.2026 – II ZB 2/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZB___2-25.pdf?__blob=publicationFile&v=1), Rn. 20–25, 32–38: Überschießende Privatdaten nach Einwilligungswiderruf durch ordnungsgemäße Ersatzfassung aus dem öffentlichen Registerordner entfernen; Pflichtdaten und nicht öffentliche Ursprungsakte bleiben gesondert. Datenpflicht und Ersatzfassung konkret klären.
+
+[BGH, 25.02.2026 – II ZB 13/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZB__13-24.pdf?__blob=publicationFile&v=1), Rn. 8–29: Geprüfte österreichische Onlinebeglaubigung nicht gleichwertig. Identifizierung und abstrakte Verfahrensgarantien prüfen; keine Aussage gegen alle ausländischen Präsenzurkunden.
+
 ## 1.3. Entscheidung und Rechtsbehelf
 
 Prüfe nach Eingang neuer Unterlagen, welche Hindernisse tatsächlich beseitigt sind. Eine vergangene Frist ersetzt nicht die Würdigung rechtzeitig oder inzwischen eingegangenen Materials. Eintragung, Zurückweisung und Zwischenverfügung unterscheiden: FamFG Paragraf 382 Absatz 1 knüpft die Wirksamkeit der Eintragung an ihren Vollzug; eine ablehnende Entscheidung ergeht nach Absatz 3 durch Beschluss. Nicht allein aus einem vorbereiteten Entwurf einen Registervollzug ableiten.

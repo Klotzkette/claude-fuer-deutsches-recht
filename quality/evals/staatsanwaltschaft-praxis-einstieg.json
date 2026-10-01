@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "staatsanwaltschaft-praxis-einstieg",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
@@ -62,36 +62,48 @@
       "url": "https://www.gesetze-im-internet.de/stpo/__170.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlich indexierte Passage zum Abschluss nach Ermittlungsergebnis geprüft; keine neue vollständige Einzeltextprüfung behauptet."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor, Sachverhalt und Rn. 1–27 vollständig. Tatsächliche Mitnutzung nach §102 StPO von allein genutzten Räumen Nichtverdächtiger nach §103 StPO abgrenzen; dort konkrete Auffindeindizien verlangen. Grenze: Gemeinsame Anschrift, Briefkasten, Wohnprojektetikett und bloß möglicher Zutritt reichen nicht. Keine generelle Unzulässigkeit von WG-Durchsuchungen, kein automatisches Verwertungsverbot."
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260114_1bvr140925.html",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Rn. 1–19 vollständig. Umgrenzungsfunktion anhand Gesamtschau vom eigenständigen Verhältnismäßigkeitsgebot trennen; Rechtsbehelfe der Gesellschaft und Geschäftsführerin unterscheiden. Grenze: Fehlender ausdrücklicher Tatzeitraum nicht stets fatal; entschiedener kurzer Betriebszeitraum und konkret getragener Verdacht. Verhältnismäßigkeit mangels Rüge nicht vertieft entschieden."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Fachliche Startvarianten und konkrete Antwortfortsetzung einzeln geprüft. Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
       "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
       "Gesetzmäßigkeitskontrolle bei Verständigung mit 2 BvR 2628/10 begründet, keine gerichtliche Rollenübernahme.",
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
-      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten."
+      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "9e3d8ac8f440651ff9a5d76e957ffb4bfaba67464f06dbffa4f4edfc3f6a24ee",
-    "reviewed_on": "2026-09-23",
+    "sha256": "812e89235927441a1eaac23205779612734242489c8af08935a27d5b785477b8",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt mit zusätzlichen fachlichen Entscheidungs- und Dokumentwegen einzeln geprüft. Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "Paragrafen 152 Absatz 2 und 160 Absatz 2 als unterschiedliche Verdachts- und Ermittlungsanforderungen konkretisiert.",
       "Vorherige Verdachtstatsachen und begrenztes Suchziel anhand 2 BvR 2180/20 eingefordert.",
       "Gesetzmäßigkeitskontrolle bei Verständigung mit 2 BvR 2628/10 begründet, keine gerichtliche Rollenübernahme.",
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
-      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten."
+      "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "e4b5a263c996e08a895a90bcfd9096055d6cc3f5e96e9031b670431930a8c006",
-    "reviewed_on": "2026-09-23",
+    "sha256": "77f675049cf708be133ab2192c13561f2966db502659fc34ca88377e1320c8eb",
+    "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
   "selection": {
@@ -139,7 +151,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-schnellstart.md",
       "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/staatsanwaltschaft-praxis-einstieg-werkstatt.md"
@@ -160,6 +172,18 @@
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/03/rs20130319_2bvr262810.html",
         "application": "Eigene staatsanwaltschaftliche Kontrollverantwortung bei Verständigung: Unzulässigkeit oder Transparenzmangel konkret beanstanden und erforderliche Klärung sowie Rechtsmittelprüfung vorbereiten.",
         "limit": "Kein Ersatz gerichtlicher Wahrheitsermittlung, keine informellen Nebenabreden und keine automatische Rechtsmittelpflicht bei jeder Meinungsverschiedenheit."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/08/rk20260803_1bvr223224.html",
+        "application": "Tatsächliche Mitnutzung nach §102 StPO von allein genutzten Räumen Nichtverdächtiger nach §103 StPO abgrenzen; dort konkrete Auffindeindizien verlangen.",
+        "limit": "Gemeinsame Anschrift, Briefkasten, Wohnprojektetikett und bloß möglicher Zutritt reichen nicht. Keine generelle Unzulässigkeit von WG-Durchsuchungen, kein automatisches Verwertungsverbot."
+      },
+      {
+        "citation": "BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2026/01/rk20260114_1bvr140925.html",
+        "application": "Umgrenzungsfunktion anhand Gesamtschau vom eigenständigen Verhältnismäßigkeitsgebot trennen; Rechtsbehelfe der Gesellschaft und Geschäftsführerin unterscheiden.",
+        "limit": "Fehlender ausdrücklicher Tatzeitraum nicht stets fatal; entschiedener kurzer Betriebszeitraum und konkret getragener Verdacht. Verhältnismäßigkeit mangels Rüge nicht vertieft entschieden."
       }
     ],
     "remaining_limits": [

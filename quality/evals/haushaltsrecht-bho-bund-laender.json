@@ -117,13 +117,25 @@
         "citation": "BVerfG, Urteil vom 15. November 2023, 2 BvF 1/22, Randnummern 158–178",
         "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/fs20231115_2bvf000122.html",
         "application": "Aufstellung, Geltungszeitraum und Kassenwirksamkeit jahresbezogen trennen; Fondszuweisung ersetzt keine erforderliche Ermächtigung.",
-        "limit": "Gesetzliche Ausgabereste bleiben möglich. Urteil betrifft frühere Verfassungslage; heutige Artikel 115 und 143h GG gesondert geprüft, kein generelles Sondervermögensverbot."
+        "limit": "Gesetzliche Ausgabereste bleiben möglich. Urteil betrifft frühere Verfassungslage; heutige Artikel 115 und 143h GG gesondert geprüft, kein generelles Sondervermögensverbot.",
+        "checked_on": "2026-09-22"
       }
     ],
     "remaining_limits": [
       "Landeshaushaltsrecht, jährliche Haushaltsgesetze und interne Einwilligungen weiterhin vorgangsbezogen zu prüfen; keine umfassende Prüfung aller Sondervermögensgesetze.",
       "Workflow-Ergänzung am 2026-09-23: individuelle Textprüfung, keine erneute Gesamtverifikation der bestehenden Entscheidungsanker; deren dokumentierte Quellen- und Zugriffsgrenzen bleiben bestehen."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-schnellstart.md",
+        "haushaltsrecht-bho-bund-laender/haushaltsrecht-bho-bund-laender-werkstatt.md"
+      ],
+      "result": "Jährlichkeit und Kassenwirksamkeit bleiben von gesetzlich möglichen Ausgaberesten getrennt. Die 2023er Schuldenbremsenentscheidung wird mit historischem Verfassungsstand ausgewiesen.",
+      "search_2026": "1 BvL 5/21 vom 15.04.2026 zu existenzsichernden Leistungen gefunden, kein sachlich passender neuer Schuldenbremsenanker.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

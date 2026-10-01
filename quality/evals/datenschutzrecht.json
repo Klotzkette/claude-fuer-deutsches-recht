@@ -57,6 +57,11 @@
       "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/",
       "checked_on": "2026-09-30",
       "supports": "BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.1 und II.3: vorherige Anspruchsanmeldung; keine eidesstattliche Auskunftsversicherung der Finanzbehörde; BGB-Analogie gegenüber privaten Verantwortlichen offenlassen."
+    },
+    {
+      "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038en.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Gerichtliche englische PM 38/26 vollständig neu gelesen; kein Volltext und keine Randnummernprüfung. Zahl früherer Anträge allein genügt nicht. Erster Auskunftsantrag kann bei nachgewiesener künstlicher Herbeiführung eines Ersatzanspruchs exzessiv sein; Schaden und Kausalität eigenständig prüfen."
     }
   ],
   "mini_review": {
@@ -168,7 +173,7 @@
     }
   ],
   "prompt_editorial_review": {
-    "date": "2026-09-23",
+    "date": "2026-10-01",
     "method": "desk_review",
     "files": [
       "datenschutzrecht/README.md",
@@ -193,6 +198,18 @@
         "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300",
         "application": "Verstoß, Schaden und Kausalität getrennt; keine Erheblichkeitsschwelle beim immateriellen Schaden.",
         "limit": "Verstoß allein genügt nicht, keine automatische Schadenspauschale oder Strafentschädigung."
+      },
+      {
+        "citation": "EuGH, Urteil vom 19.03.2026 – C-526/24, Brillen Rottler",
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038en.pdf",
+        "application": "Erster Auskunftsantrag kann bei nachgewiesener künstlicher Herbeiführung eines Ersatzanspruchs exzessiv sein; Schaden und Kausalität eigenständig prüfen.",
+        "limit": "Gerichtliche englische PM 38/26 vollständig neu gelesen; kein Volltext und keine Randnummernprüfung. Zahl früherer Anträge allein genügt nicht."
+      },
+      {
+        "citation": "BFH, Urteil vom 30.06.2026 – IX R 2/25, Gründe II.1 und II.3",
+        "url": "https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/",
+        "application": "Keine eidesstattliche Auskunftsversicherung der Finanzbehörde; vorherige Anspruchsanmeldung vor Artikel-82-Klage im Finanzrechtsweg getrennt prüfen.",
+        "limit": "Vorhandene Quellenprüfung vom 01.10.2026 aus Vorprüfung wiederverwendet, heute nur Prompt-/Registerabgleich; keine ungeprüfte Übertragung der BGB-Analogie auf private Verantwortliche."
       }
     ],
     "remaining_limits": [

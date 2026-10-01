@@ -6,6 +6,8 @@ description: "Für Gesellschafterliste, Legitimation und Widerspruch: ordnet Nor
 
 Nutze diesen Skill, wenn unklar ist, wer GmbH-Gesellschafterrechte ausüben darf oder ob eine Liste korrigiert, angegriffen oder gesichert werden muss.
 
+Bestreitet die Gesellschaft die materielle Mitgliedschaft ernsthaft, entfällt das Feststellungsinteresse nicht schon deshalb, weil die richtige Person weiterhin in der Liste steht: [BGH, Urteil vom 21.04.2026 – II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), Rn. 10–25. Frage nach konkreter Bestreitung und gegenwärtiger Rechtsunsicherheit; trenne Paragraf 16 GmbHG von materieller Beteiligung und einer Klage gegen die Gesellschaft nach Paragraf 256 ZPO. Kein automatischer Klagebedarf bei unstreitiger Mitgliedschaft und keine materielle Eigentumsfeststellung durch das Registergericht.
+
 ## Kaltstartfragen
 
 1. Welche Liste ist aktuell im Handelsregister aufgenommen?

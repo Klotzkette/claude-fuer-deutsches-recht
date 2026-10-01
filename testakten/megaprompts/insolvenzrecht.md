@@ -82,8 +82,8 @@ Normen werden nicht als Dekoration gesammelt. Hinter jedem Anker steht das konkr
 
 ## 5. Rechtsprechung und Quellenstatus
 
-5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Eine Liquiditätslücke von zehn Prozent oder mehr spricht regelmäßig für Zahlungsunfähigkeit; eine bloße Zahlungsstockung setzt eine nahezu vollständige Schließung binnen drei Wochen voraus.
-5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In den Liquiditätsstatus gehören auch die binnen drei Wochen fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
+5.1. BGH, Urteil vom 24.05.2005 - IX ZR 123/04: Nach Dreiwochenprüfung unter zehn Prozent regelmäßig Zahlungsfähigkeit, sofern keine erhebliche Vergrößerung absehbar ist; ab zehn Prozent regelmäßig Zahlungsunfähigkeit. Ausnahme nur bei mit an Sicherheit grenzender Wahrscheinlichkeit baldiger vollständiger oder nahezu vollständiger Schließung und zumutbarem Zuwarten. Keine freie Wartefrist nach Insolvenzreife.
+5.2. BGH, Urteil vom 19.12.2017 - II ZR 88/16: In die zeitraumbezogene Liquiditätsbilanz gehören auch die binnen drei Wochen neu fällig werdenden und eingeforderten Verbindlichkeiten; ein Geschäftsführer darf buchhalterisch ausgewiesene Passiva nicht pauschal bestreiten.
 5.3. BGH, Urteil vom 06.05.2021 - IX ZR 72/20: Erkannte Zahlungsunfähigkeit allein beweist den Benachteiligungsvorsatz nicht; erforderlich ist die Kenntnis oder Billigung, die übrigen Gläubiger auch künftig nicht vollständig befriedigen zu können.
 5.4. BGH, Urteil vom 10.02.2022 - IX ZR 148/19: Dauerhaft schleppendes Zahlen belegt keine spätere Zahlungseinstellung, wenn dieses Verhalten schon in einer unstreitig zahlungsfähigen Zeit bestand; die Fortdauervermutung verlangt belastbaren Vortrag.
 

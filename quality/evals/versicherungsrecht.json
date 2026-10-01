@@ -156,13 +156,37 @@
         "citation": "BGH, Urteil vom 09.01.2013, IV ZR 197/11",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2011/IV_ZR_197-11.pdf?__blob=publicationFile&v=1",
         "application": "Deutlich hervorgehobene Belehrung im Fragebogen kann gesonderte Mitteilung sein; Originalgestaltung anfordern und eigenständig würdigen.",
-        "limit": "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität."
+        "limit": "Amtliche Leitsätze 1 und 2 gelesen, Volltextabruf gescheitert; AVB allein genügen nicht, Belehrung beweist weder Verschulden noch Kausalität.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       },
       {
         "citation": "BGH, Urteil vom 22.06.2011, IV ZR 225/10",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2010/IV_ZR_225-10.pdf?__blob=publicationFile&v=1",
         "application": "Bei besonders schwerer grober Fahrlässigkeit kann Paragraf 81 Absatz 2 VVG ausnahmsweise vollständige Kürzung tragen.",
-        "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen."
+        "limit": "Amtlicher Leitsatz; Alkohol-Fahruntüchtigkeit individuell würdigen, nicht auf jede verspätete Auskunft übertragen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
+      },
+      {
+        "citation": "BGH, Urteil vom 09.09.2026, IV ZR 235/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR_235-25.pdf?__blob=publicationFile&v=1",
+        "application": "Urteil 2026-09-09 – IV ZR 235/25. Geprüft: Leitsatz, Rn. 1–16 (gesamter Entscheidungsinhalt). Kasko-Reparaturkosten nach A.2.6.2 AKB: Werkstattrisiko regelmäßig beim Versicherungsnehmer; objektiv unnötige oder nicht erbrachte Leistungen nicht gedeckt. Ausnahme bei Versichererweisung/Partnerwerkstatt nicht abschließend entschieden. Haftpflichtgrundsätze nicht pauschal übertragen.",
+        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Urteil 2026-09-09 – IV ZR 235/25. Geprüft: Leitsatz, Rn. 1–16 (gesamter Entscheidungsinhalt). Kasko-Reparaturkosten nach A.2.6.2 AKB: Werkstattrisiko regelmäßig beim Versicherungsnehmer; objektiv unnötige oder nicht erbrachte Leistungen nicht gedeckt. Ausnahme bei Versichererweisung/Partnerwerkstatt nicht abschließend entschieden. Haftpflichtgrundsätze nicht pauschal übertragen.",
+        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
+      },
+      {
+        "citation": "BGH, Beschluss vom 28.01.2026, IV ZR 41/25",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2025/IV_ZR__41-25.pdf?__blob=publicationFile&v=1",
+        "application": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
+        "limit": "Aussage und Grenze aus dem dokumentierten früheren Passagencheck übernommen; am 01.10.2026 Promptkontext abgeglichen, kein erneuter Volltextabruf.",
+        "checked_on": "2026-09-30",
+        "verification_status": "wiederverwendeter_passagennachweis",
+        "passages_read": "Beschluss 2026-01-28 – IV ZR 41/25. Geprüft: Entscheidungskopf; Rn. 7–20, insbesondere 10–18 und 20. Unbekannte PKV-Kalkulationsgrundlagen grundsätzlich mit Nichtwissen bestreitbar; Versicherer beweist erhöhte Prämie, auch bei Rückforderung. Andere Lastverteilung für zusätzliche Beitragslimitierung nach §155 Abs.2 VAG. Nach Sachverständigenbeweis können konkrete Einwendungen erforderlich sein. Gehörsbedingte Zurückverweisung, keine abschließende Gesamtunwirksamkeit sämtlicher Beiträge.",
+        "previous_review": "quality/source-audits/2026-09-30-zweiter-durchgang/vertraege-versicherung.md"
       }
     ],
     "remaining_limits": [
@@ -186,5 +210,24 @@
         "sha256": "623a495b96b385bd2dccac21be602602ad3273ff431ecf1c676712a112486045"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Urteil vom 09.09.2026, IV ZR 235/25",
+        "status": "wiederverwendeter_passagennachweis"
+      },
+      {
+        "action": "registerluecke_geschlossen",
+        "citation": "BGH, Beschluss vom 28.01.2026, IV ZR 41/25",
+        "status": "wiederverwendeter_passagennachweis"
+      }
+    ],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

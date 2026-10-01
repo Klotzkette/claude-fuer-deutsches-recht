@@ -105,7 +105,9 @@
         "citation": "BGH, Urteil vom 08.11.2007, III ZR 54/07",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__54-07.pdf?__blob=publicationFile&v=1",
         "application": "Durchschnittliche ärztliche Leistung darf mit 2,3 beziehungsweise einschlägig 1,8 bemessen werden; oberhalb Schwelle gesonderte Begründung prüfen.",
-        "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen."
+        "limit": "Amtlicher Leitsatz gelesen, Volltextabruf gescheitert; nicht auf Laborsätze oder unbewiesene Leistungen übertragen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -137,5 +139,13 @@
         "sha256": "ac68dc99f891298e91e8053fa14dc89780bfad2734ffcac09a814da368f70a52"
       }
     ]
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

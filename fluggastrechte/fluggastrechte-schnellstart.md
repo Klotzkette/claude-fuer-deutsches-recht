@@ -14,7 +14,7 @@ Frage nach entscheidenden fehlenden Nachweisen auch dann, wenn Dateien vorliegen
 
 Fehlt bei Verspätung die tatsächliche Ankunftszeit, frage nach Mitteilungen, Fotos oder konkreten Wahrnehmungen zur Türöffnung. Gleiche die Antwort mit dem Flugverlauf ab, berechne den Zeitverlust und die betroffene Ausgleichsposition neu und schreibe die Forderung oder Erwiderung fertig. Bei Annullierung kläre den Zugang der Mitteilung sowie angebotene Ersatzzeiten. Ergibt sich daraus eine neue entscheidende Unklarheit, frage dazu gezielt nach.
 
-Beruft sich das Unternehmen pauschal auf außergewöhnliche Umstände, verlange eine konkrete Erläuterung von Ereignis, Flugbezug und Gegenmaßnahmen. Werte die Antwort aus und überarbeite die betroffene Argumentation; behandle die behauptete Ursache nicht ungeprüft als feststehend. Eine nachgewiesene Ausnahme beim Ausgleich beendet nicht automatisch die Prüfung von Betreuung und Erstattung.
+Bei außergewöhnlichen Umständen Ereignis, Flugbezug und Gegenmaßnahmen belegen lassen. EuG, 04.03.2026 – T-656/24, laut amtlicher PM 26/26, S. 1–2: Eigenständiges, nicht zwingendes Warten auf verspätete Passagiere kann als entscheidende Ursache die Kausalität zum früheren Umlauf unterbrechen. Rotationszeiten und Wartegrund nachfordern, dann den Einwand neu beurteilen. Keine automatische Entlastung; Betreuung bleibt separat.
 
 ## 1.3. Störung, Anspruch und Betrag
 

@@ -164,13 +164,15 @@
         "citation": "BVerwG, Urteil vom 25. Mai 2022, 8 C 11.21, Randnummern 13 bis 21",
         "url": "https://www.bverwg.de/de/250522U8C11.21.0",
         "application": "Bereitstellungszweck von Teilnahme unterscheiden; Jahresfrist je Widerrufsgrund, vollständige Kenntnis einschließlich Anhörungsantwort oder Fristablauf prüfen.",
-        "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; Revision wegen fehlender Zweckverfehlung erfolglos, nicht wegen Fristablaufs. Abweichende Zweckklauseln gesondert prüfen."
+        "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; Revision wegen fehlender Zweckverfehlung erfolglos, nicht wegen Fristablaufs. Abweichende Zweckklauseln gesondert prüfen.",
+        "checked_on": "2026-09-30"
       },
       {
         "citation": "BVerwG, Urteil vom 25.05.2022 – 8 C 11.21, Randnummern 13–21",
         "url": "https://www.bverwg.de/de/250522U8C11.21.0",
         "application": "Anhörung verlangt erkennbaren Bezug zur konkret beabsichtigten Entscheidung und Gelegenheit zur Stellungnahme; bloße Mitteilung eines Prüfvermerks genügt nicht. Zweckbindung und Kenntnis je Widerrufsgrund bestätigt.",
-        "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; keine pauschale laufende Jahresfrist allein ab Prüfvermerk, andere Förderzwecke gesondert."
+        "limit": "Wortgleiches Landesrecht Mecklenburg-Vorpommerns; keine pauschale laufende Jahresfrist allein ab Prüfvermerk, andere Förderzwecke gesondert.",
+        "checked_on": "2026-09-30"
       }
     ],
     "remaining_limits": [
@@ -178,7 +180,20 @@
       "Desk-/Quellenreview, kein Live-Mandat oder Modelltest.",
       "Workflow-Review 23.09.2026: erneuter Abruf von Paragraf 74 VwGO scheiterte; keine neue pauschale Klagefrist eingeführt. Vorhandene Fördermittelentscheidung und Normprüfungen in ihrer dokumentierten Reichweite erhalten.",
       "Zweiter Schnelldurchgang 30.09.2026: ausschließlich die neu dokumentierten Fachpassagen und Entscheidungen; kein Vollaudit aller Skills, kein Live-Modelltest."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_reused",
+      "files": [
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-schnellstart.md",
+        "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-werkstatt.md",
+        "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md"
+      ],
+      "result": "Zuwendungszweck, Anhörungsbezug und Kenntnis je Widerrufsgrund bleiben korrekt getrennt. Zwei zentrale Datensätze betreffen dieselbe Entscheidung; sie sind keine zwei unterschiedlichen Fälle. Vorprüfung 30.09.2026 übernommen.",
+      "search_2026": "2026-Suche zu Zuwendungswiderruf, Anhörung und Jahresfrist ergab ältere einschlägige Entscheidungen; kein weiterer 2026-Fall neu verifiziert.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

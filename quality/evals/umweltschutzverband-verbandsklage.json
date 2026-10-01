@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "umweltschutzverband-verbandsklage",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/umwrg/BJNR281600006.html",
@@ -37,18 +37,25 @@
       "url": "https://www.gesetze-im-internet.de/umwrg/__7.html",
       "checked_on": "2026-09-23",
       "supports": "Volltext: Plan-/Programmpräklusion mit Bebauungsplanausnahme, Ausschluss bestimmter Verwaltungspräklusion und materielle Fehlerheilung."
+    },
+    {
+      "url": "https://www.bverwg.de/260526U7C5.25.0",
+      "checked_on": "2026-10-01",
+      "supports": "Amtliche Webansicht: Tenor und Rn. 1–17, verwendet 8–15. Vom auf derselben Seite vorangestellten Beschluss 7 B 1.25 aus 2025 getrennt. Die gerichtliche Begründungsfrist des § 6 UmwRG erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen bei Individual- und Verbandsklagen. Grenze: Keine pauschale Unzulässigkeit der ganzen Klage; Anwendungsbereich, rechtzeitiger Vortrag, Vertiefung, Entschuldigung und gesetzliche Ausnahme geringen Ermittlungsaufwands gesondert prüfen."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Alle Mini-Abschnitte individuell gelesen; Beteiligungsberechtigung und Äußerung nach Fallgruppe differenziert, Fristversäumung mit operativem BVerwG-Anker statt pauschaler Unzulässigkeit behandelt. Am 23. September vollständig erneut gelesen: drei konkrete Einstiegswege und Fortsetzung vom Kartierungsnachtrag zur geänderten Rüge ergänzt; Umfang unter 7500 Bytes und Zeichen.",
+    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
       "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
       "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
-      "Leere Eingabe, stille Dateisichtung und klaren Auftrag ausdrücklich getrennt; Brutstättenbefund verändert Rüge und räumlichen Sicherungsbedarf."
+      "Leere Eingabe, stille Dateisichtung und klaren Auftrag ausdrücklich getrennt; Brutstättenbefund verändert Rüge und räumlichen Sicherungsbedarf.",
+      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
     ],
-    "sha256": "a5d4333b51ce7792e043f11060ea9a3c229d55da7f69ec2a6118e337b2342656"
+    "sha256": "03512869a01077641c73650c1a77bcf63ad921823283833e159ad3978926ee4f",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -103,15 +110,17 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständige Werkstatt einschließlich Fachgutachten und Eilrechtsschutz gelesen; Fristbeispiel, Beweismittelpräklusion, Plan-/Programmabgrenzung und abgestufte Fehlerfolgen ergänzt, unbestätigte Rechtsprechungsliste entfernt. Am 23. September vollständig erneut gelesen: fristnaher Gewässervortrag, Gegenmaterial und konkrete Nachbesserungsbedingungen als interaktive Dokumentwege ausgebaut.",
+    "reason": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt. Begrenzte Ankerprüfung, kein Live-Client-Test.",
     "changes": [
       "BVerwG 9 A 8.17 Randnummern 13–15 in beiden Prompts bei neuem versus vertiefendem Vortrag angewandt; keine Verzögerungsvoraussetzung oder Belehrungsabhängigkeit erfunden.",
       "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
       "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
       "Neuen Tatsachenvortrag anhand rechtzeitiger Passage abgleichen; Aktenlücke, Flächenauslassung und ungünstiges Gutachtenergebnis unterscheiden.",
-      "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet."
+      "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet.",
+      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
     ],
-    "sha256": "5a58b3e79f8c49fab60203ec02dbbe80ce1001e0e81e7bb337f290d0d516d158"
+    "sha256": "9a95f188efc53ddac74028e831bf5b0bd3c30ac089d033c09d2a4152b02b1ff6",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -126,12 +135,13 @@
     "limits": "desk review; no live client execution"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "umweltschutzverband-verbandsklage/README.md",
       "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
       "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
-      "quality/evals/umweltschutzverband-verbandsklage.json"
+      "quality/evals/umweltschutzverband-verbandsklage.json",
+      "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md"
     ],
     "opening_change": "Rechtsbehelfsbefugnis, rechtzeitigen Tatsachenvortrag und konkrete Fehlerfolge aus der Verbandsakte statt abstrakter Rechtsschutzfassung benannt.",
     "norms": [
@@ -144,13 +154,33 @@
         "citation": "BVerwG, Urteil vom 27. November 2018, 9 A 8.17, Randnummern 13–15",
         "url": "https://www.bverwg.de/271118U9A8.17.0",
         "application": "Bei verspätetem Umweltklagevortrag Tatsachen und Beweismittel, genügende Entschuldigung und bloße Vertiefung unterscheiden; Ausschluss erfordert keine konkrete Verzögerung.",
-        "limit": "Keine allgemeine Unzulässigkeit der Klage, keine Belehrungspflicht als Fristvoraussetzung; heutiges Fachsonderrecht und gesetzliche Ausnahmen bleiben zu prüfen."
+        "limit": "Keine allgemeine Unzulässigkeit der Klage, keine Belehrungspflicht als Fristvoraussetzung; heutiges Fachsonderrecht und gesetzliche Ausnahmen bleiben zu prüfen.",
+        "checked_on": "2026-09-23"
+      },
+      {
+        "citation": "BVerwG, Urteil vom 26.05.2026, 7 C 5.25",
+        "url": "https://www.bverwg.de/260526U7C5.25.0",
+        "application": "Die gerichtliche Begründungsfrist des § 6 UmwRG erfasst auch Tatsachen und Beweismittel zu nicht umweltbezogenen Einwendungen bei Individual- und Verbandsklagen.",
+        "limit": "Keine pauschale Unzulässigkeit der ganzen Klage; Anwendungsbereich, rechtzeitiger Vortrag, Vertiefung, Entschuldigung und gesetzliche Ausnahme geringen Ermittlungsaufwands gesondert prüfen.",
+        "checked_on": "2026-10-01"
       }
     ],
     "remaining_limits": [
       "Amtliche Entscheidungsgründe Randnummern 10–15 vollständig gelesen; keine vollständige Neuverifikation sämtlicher im Fachgebiet relevanter Umweltrechtsprechung.",
       "Paragrafen 2, 4, 6 und 7 UmwRG im aktuellen amtlichen Volltext geprüft; Landes-UIG, Fachplanungs-Sonderrecht und sämtliche Naturschutzmaßstäbe nicht flächendeckend neu recherchiert.",
       "Desk-/Quellenreview, kein Live-Test."
-    ]
+    ],
+    "anchor_context_review": {
+      "date": "2026-10-01",
+      "scope": "anchor_context_review_with_targeted_correction",
+      "files": [
+        "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-schnellstart.md",
+        "umweltschutzverband-verbandsklage/umweltschutzverband-verbandsklage-werkstatt.md",
+        "umweltschutzverband-verbandsklage/skills/umwrg-anwendungsbereich-routen/SKILL.md"
+      ],
+      "result": "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt.",
+      "search_2026": "7 C 5.25 vom 26.05.2026 neu amtlich gelesen und ergänzt.",
+      "limits": "Ankerpassagen mit angrenzendem Arbeitsablauf; keine vollständige Neuprüfung aller übrigen Rechtsaussagen, Normen oder Testakten. Altquellendaten bleiben erhalten. Vollständige Einzelabgrenzung im Audit öffentliches Recht."
+    }
   }
 }

@@ -119,7 +119,9 @@
         "citation": "BAG, Urteil vom 30.01.2025, 2 AZR 68/24",
         "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/",
         "application": "Fehlender Auslieferungsbeleg begrenzt Anscheinsbeweis des Einwurfs; Parteivortrag, angebotene Zeugen und andere Beweismittel neutral aufklären.",
-        "limit": "Volltext Rn. 10 bis 20; kein vorweggenommener Beweiswert eines noch nicht vernommenen Zeugen."
+        "limit": "Volltext Rn. 10 bis 20; kein vorweggenommener Beweiswert eines noch nicht vernommenen Zeugen.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -139,5 +141,13 @@
     "continuation": "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
     "enrichment": "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }

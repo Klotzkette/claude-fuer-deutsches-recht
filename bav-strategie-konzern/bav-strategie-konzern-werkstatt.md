@@ -31,6 +31,8 @@ Prüfe bei laufenden Leistungen Paragraf 16 und Paragraf 17 BetrAVG mit Anpassun
 
 Ermittle die zuständigen Entscheidungsträger und dokumentiere, welche Daten einer Anpassungsentscheidung zugrunde liegen. Bei einem Auftrag zur Geschäftsordnung eines Versorgungsausschusses regle Aufgaben, Entscheidungsbefugnis, Informationsfluss, Interessenkonflikte und Nachprüfung konkret. Personal- und Finanzbereich erhalten nur die tatsächlich für die Umsetzung erforderlichen Aufgaben, nicht eine allgemeine Liste aller Versorgungsthemen.
 
+BAG, Urteil vom 12.05.2026 – 3 AZR 159/25, [Rn. 13–17](https://www.bundesarbeitsgericht.de/entscheidung/3-azr-159-25/): Bei der dortigen Betriebsvereinbarung erfasste die jährliche Anpassung am 1. Juli nur Tariferhöhungen bis zum Vortag. Eine zum 1. Juli 2023 wirksame Tariferhöhung floss deshalb erst zum 1. Juli 2024 ein. Fordere Klauselwortlaut, Referenzzeitraum und Wirksamkeitsdatum an und ordne die Erhöhung dem richtigen Anpassungstermin zu. Keine allgemeine einjährige Verzögerung aller Betriebsrenten und keine Entscheidung über die gesetzliche Anpassungsprüfung nach Paragraf 16 BetrAVG.
+
 ## 1.5. Ablösung und Harmonisierung
 
 Vergleiche Alt- und Neuleistung für die betroffenen Personen beziehungsweise aussagekräftige Gruppen am maßgeblichen Stichtag. Unterscheide erdienten Teilbetrag, erdiente Dynamik und noch nicht erdiente Zuwächse. Ordne einen behaupteten Eingriff der konkreten Stufe zu und prüfe seine Rechtfertigung, Vertrauensschutz und Verhältnismäßigkeit.

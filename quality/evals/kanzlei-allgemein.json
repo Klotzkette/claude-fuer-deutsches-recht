@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "kanzlei-allgemein",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-01",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
@@ -37,18 +37,30 @@
       "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
       "checked_on": "2026-09-23",
       "supports": "Amtlicher Wortlaut erneut gelesen: Form, Übermittlungsweg und Eingang nach Absatz 5 getrennt; Bestätigung einer Nachricht ersetzt keinen Abgleich der tatsächlich übermittelten Dokumente."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Rn. 1–29. Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht. Grenze: Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-01",
+      "supports": "Kopf, Tenor und Gründe Rn. 1–44 vollständig. Ersatzfax braucht wirksame Signatur; konkrete technische Unmöglichkeit glaubhaft machen; Wegfall des Hindernisses und Wiedereinsetzungsfrist getrennt erfassen. Grenze: Berufungsbegründung: Monatsfrist, keine Verlängerung durch bloße Stellungnahmefrist; Faxalternative nur bei Zumutbarkeit. Zurückverweisung, keine automatische Wiedereinsetzung."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Kernfall beA erhält einen operativen Kontrollmaßstab einschließlich Verantwortlichem und Reaktionsreserve. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "9e8a52bc917bb605b0ee79013653f98e5a5a2b432a650cadaae8d090f8443dd8"
+    "sha256": "e8abe0ff5a61f1ddd99deb9b1eabce72f48bf687c327569dc75855d05e4e36a4",
+    "reviewed_on": "2026-10-01"
   },
   "selection": {
     "positive": [
@@ -96,17 +108,19 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Organisationsverschulden und Wiedereinsetzung an konkrete Kontrollanweisungen gebunden; alte unscharfe Zustellungs- und Sachverständigenverweise bereinigt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest.",
+    "reason": "Ankerkontext am 01.10.2026 geprüft; neue Quellen gemäß individuellem Quellenstatus integriert. Bestehende fachliche Workflow-Schritte erhalten.",
     "changes": [
       "VIII ZB 9/20 in beiden Versandkontrollen verankert.",
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
-      "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft."
+      "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft.",
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
     ],
-    "sha256": "35c21aee7fe1481764ade7eae01982c364ad0689d6060caec833bd5c0e3bf6bb"
+    "sha256": "40c0e2d6bbdfd882f3db8977bbc1782d389965343aae02845b736aba0099f818",
+    "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {
-    "date": "2026-09-22",
+    "date": "2026-10-01",
     "files": [
       "kanzlei-allgemein/kanzlei-allgemein-werkstatt.md",
       "kanzlei-allgemein/kanzlei-allgemein-schnellstart.md",
@@ -125,6 +139,18 @@
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZB___9-20.pdf?__blob=publicationFile&v=1",
         "application": "Randnummern 18, 21 bis 24 und 41 bis 54: Gerichtseingang und konkrete organisatorische Kontrolle der automatisierten Bestätigung; fehlender Nachweis verlangt rechtzeitige Klärung.",
         "limit": "Eingangsbestätigung ersetzt weder Inhalts- noch Formprüfung; bloß fehlende Bestätigung beweist noch keine Verspätung."
+      },
+      {
+        "citation": "BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZR_106-25.pdf?__blob=publicationFile&v=1",
+        "application": "Zusätzliche einfache Signatur eines zweiten Anwalts schadet bei einfacher Signatur und persönlichem beA-Versand durch verantwortenden Anwalt nicht.",
+        "limit": "Rn. 22 lässt die Übermittlung aus einem Gesellschaftspostfach ausdrücklich offen; gewöhnliche Anlagen und qualifizierte Signaturen getrennt prüfen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2025/I_ZB__85-25.pdf?__blob=publicationFile&v=1",
+        "application": "Ersatzfax braucht wirksame Signatur; konkrete technische Unmöglichkeit glaubhaft machen; Wegfall des Hindernisses und Wiedereinsetzungsfrist getrennt erfassen.",
+        "limit": "Berufungsbegründung: Monatsfrist, keine Verlängerung durch bloße Stellungnahmefrist; Faxalternative nur bei Zumutbarkeit. Zurückverweisung, keine automatische Wiedereinsetzung."
       }
     ],
     "remaining_limits": [

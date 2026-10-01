@@ -17,7 +17,7 @@ description: "Für Airline-Standardausreden — Katalog und Gegenargumente: ordn
 
 **Gegenargument**:
 
-> EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — technische Defekte sind grundsätzlich Teil der normalen Tätigkeit eines Luftfahrtunternehmens und kein außergewöhnlicher Umstand. Volltext auf curia.europa.eu vor Versand aufrufen und Randnummer (typisch Rn. 24 ff.) einsetzen.
+> EuGH, Urt. v. 22.12.2008, C-549/07 (Wallentin-Hermann) — Übliche technische Betriebs-/Wartungsprobleme entlasten regelmäßig nicht. Rn. 23–27 und 39–43 unterscheiden externe, nicht beherrschbare Ursachen wie einen verdeckten Fabrikationsfehler; auch dann Kausalität und zumutbare Gegenmaßnahmen konkret belegen. Keine ungeprüften Randnummern einsetzen.
 >
 > Ausnahme: versteckter Konstruktionsfehler des Herstellers — EuGH, Urt. v. 13.6.2025, C-411/23 (curia.europa.eu) — kann ausnahmsweise außergewöhnlich sein, auch wenn die Airline Monate vor dem Flug informiert war.
 

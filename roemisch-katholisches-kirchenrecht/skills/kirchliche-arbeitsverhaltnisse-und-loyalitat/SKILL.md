@@ -63,7 +63,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 ### Staats- und Verfassungsrecht
 - **Art. 137 Abs. 3 WRV i.V.m. Art. 140 GG**: kirchliches Selbstbestimmungsrecht in eigenen Angelegenheiten.
 - **EuGH Egenberger** (Urt. v. 17.04.2018 - C-414/16): Beschraenkung der Loyalitaetspflicht durch Antidiskriminierungsrecht; gerichtliche Überprüfung der Tendenzschutzbehauptung.
-- **EuGH IR / JQ** (Urt. v. 11.09.2018 - C-68/17): Kuendigung wegen Wiederheirat eines Chefarztes europarechtswidrig.
+- **EuGH, Urteil vom 11.09.2018 – C-68/17, IR/JQ**, [Rn. 53–56](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0068): Konfessionsabhängige Loyalitätsanforderungen brauchen einen wesentlichen, rechtmäßigen und gerechtfertigten Tätigkeitsbezug sowie verhältnismäßige Ausgestaltung. Konkrete Aufgabe, unterschiedliche Behandlung und behauptete erhebliche Ethosgefährdung prüfen. Die abschließende Sachverhaltsbewertung obliegt dem nationalen Gericht; keine pauschale Entscheidung über jede Wiederheirat oder den kanonischen Status.
 - **BAG** Folgeentscheidungen 2019/2020 (Az im Digitalisat live verifizieren).
 
 ### CIC-Bezuge

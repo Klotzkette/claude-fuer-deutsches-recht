@@ -50,6 +50,8 @@ Auch der Antrag, einem Geschäftsführer die Entlastung ausdrücklich zu verweig
 
 ## 1.3. Gesellschafterstreit und Listenlage
 
+Bestreitet die Gesellschaft die materielle Mitgliedschaft ernsthaft, entfällt das Feststellungsinteresse nicht schon deshalb, weil die richtige Person weiterhin in der Liste steht: [BGH, Urteil vom 21.04.2026 – II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), Rn. 10–25. Frage nach konkreter Bestreitung und gegenwärtiger Rechtsunsicherheit; trenne Paragraf 16 GmbHG von materieller Beteiligung und einer Klage gegen die Gesellschaft nach Paragraf 256 ZPO. Kein automatischer Klagebedarf bei unstreitiger Mitgliedschaft und keine materielle Eigentumsfeststellung durch das Registergericht.
+
 Trenne Beschlussmangel, Abberufung, Anstellungsvertrag, Einziehung, Ausschluss und Abfindung. Satzungsgrundlage, Tatsachen, Gegenposition, Treuepflicht und jeweilige Rechtsfolge einzeln prüfen. Ein Beratungsauftrag führt nicht automatisch zu einer Anfechtungsklage oder einem unbedingten Vergleichsangebot.
 
 Bei streitiger Liste Registerstand, Übertragungsurkunde, Einreichung, Notarvermerk und Widerspruch abgleichen. Legitimationswirkung nach Paragraf 16 GmbHG, Korrekturanspruch und Eilrechtsschutz getrennt behandeln. Fehlt die maßgebliche Urkunde, konkret nachfordern und nach Eingang das beauftragte Listen- oder Anspruchsschreiben fertigstellen.

@@ -116,7 +116,9 @@
         "citation": "BGH, Urteil vom 02.06.2022, VII ZR 174/19, Rn. 17–29",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR_174-19A.pdf?__blob=publicationFile&v=1",
         "application": "Mindestsatzaufstockung aus HOAI-2013-Altvertrag zwischen Privaten nicht allein wegen Richtlinienverstoßes ablehnen; damalige Ausnahme und konkreten Vertrauensschutz prüfen.",
-        "limit": "Reiner Inlandssachverhalt zwischen Privaten; keine Übertragung auf HOAI 2021, öffentliche Auftraggeber oder fehlenden Stufenabruf."
+        "limit": "Reiner Inlandssachverhalt zwischen Privaten; keine Übertragung auf HOAI 2021, öffentliche Auftraggeber oder fehlenden Stufenabruf.",
+        "checked_on": "2026-09-25",
+        "verification_status": "wiederverwendeter_auditnachweis"
       }
     ],
     "remaining_limits": [
@@ -136,5 +138,13 @@
     "continuation": "Neuer Planvergleich -> Änderung oder Nachbesserung; Stufenabruf -> Leistungsumfang; Zahlungsbeleg -> Saldo; Gutachten -> Pflichtzuordnung ändern.",
     "enrichment": "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile.",
     "limits": "desk review; no live client execution"
+  },
+  "source_audit_2026_10_01_breit": {
+    "date": "2026-10-01",
+    "method": "anchor_context_crosscheck_with_selective_primary_review",
+    "report": "quality/source-audits/2026-10-01-breit/privat-sozial.json",
+    "status": "Ankerkontext gelesen; Quellenstatus je Entscheidung im Bericht differenziert.",
+    "registry_changes": [],
+    "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
   }
 }
