@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "verfahren": {
+    "aktenzeichen": "71 IN 1/26",
+    "schuldner": "Beispielbetrieb GmbH",
+    "gericht": "Amtsgericht Köln",
+    "eroeffnung": "2026-07-01",
+    "anmeldefrist": "2026-08-14",
+    "stichtag": "2026-09-10"
+  },
+  "forderungen": [
+    {
+      "id": "F-0001",
+      "tabellenblatt": 1,
+      "glaeubiger": "Beispiellieferant GmbH",
+      "eingang": "2026-08-10",
+      "rang_angemeldet": "Paragraf 38 InsO",
+      "hauptforderung": "1000.00",
+      "zinsen": "0.00",
+      "kosten": "0.00",
+      "unerlaubte_handlung": "0.00",
+      "grund": "Lieferung vom 15. April 2026, Rechnung R-17",
+      "belege": ["Anmeldung vom 10. August 2026", "Rechnung R-17"],
+      "tituliert": false,
+      "titel_bei_den_akten": false,
+      "fuer_den_ausfall": false,
+      "sicherheit": "Keine Sicherheit angemeldet; Unterlagen noch nicht geprüft.",
+      "pruefung": {
+        "status": "offen",
+        "begruendung": "Technisches Eingabebeispiel, keine Fallprüfung. Lieferschein und Zahlungsabgleich fehlen."
+      }
+    }
+  ]
+}

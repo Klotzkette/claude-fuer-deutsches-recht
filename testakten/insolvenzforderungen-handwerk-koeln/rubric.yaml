@@ -1,0 +1,27 @@
+name: Insolvenzforderungen Rheinsteg Handwerk Köln
+plugin: insolvenzforderungen-checker
+stand: '2026-09-10'
+checks:
+  - id: unterlagenumfang
+    check_type: working_file_count
+    description: Der Aktenbestand enthält 59 eigenständige native Unterlagen.
+    min: 59
+  - id: lesefassung
+    check_type: file_exists
+    description: Die gemeinsame Lesefassung wird durch den zentralen Export erstellt.
+    path: gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf
+offene_pruefkriterien:
+  - Werden Anmeldegegenstand, Gläubiger, Entstehungsgrund, Leistungszeitraum und Belege für jede der zehn Eingaben einzeln erfasst?
+  - Werden die Angaben der Gläubiger von feststehenden Tatsachen und noch offenen Ermittlungen getrennt?
+  - Werden Zahlungen, Rechnungskorrekturen und die Zuordnung zu verschiedenen Bestellkreisen anhand der Ursprungsbelege abgeglichen?
+  - Werden Verfahrensbeginn, Eröffnung, Anmeldefrist, Berichtstermin, Prüfungstermin und Aktenstand zeitlich richtig unterschieden?
+  - Wird der Umfang des Zustimmungsvorbehalts vom Umfang der konkreten gerichtlichen Einzelermächtigung abgegrenzt?
+  - Werden Sicherungsrechte, Eigentumsrechte, persönliche Forderung und mögliche Verteilungsberechtigung getrennt untersucht?
+  - Werden tatsächliche Verwertungserlöse von Nennwerten und unverbindlichen Wertschätzungen unterschieden?
+  - Werden bei Gesellschafterfinanzierungen Beteiligung, Darlehenszweck, Vertragsinhalt und gerichtliche Aufforderungen geprüft?
+  - Werden Voraussetzungen und Verfahrensfolgen einer nachträglichen Anmeldung anhand des konkreten Eingangszeitpunkts untersucht?
+  - Werden Inhalt, Parteien, Vollstreckbarkeit und Zustellung eines Titels sowie die Folgen eines etwaigen Bestreitens berücksichtigt?
+  - Werden die angebotenen elektronischen Übermittlungswege, der sichere Weg und die postalische Alternative eigenständig überprüft?
+  - Werden Vorfinanzierungszustimmung, individuelle Abtretungen, Entgeltzeitraum und tatsächliche Zahlungsströme belegt und ohne Doppelzählung verarbeitet?
+  - Werden erforderliche Rückfragen präzise formuliert, ohne fehlende Tatsachen durch Annahmen zu ersetzen?
+  - Bleiben mögliche Feststellung, Bestreiten, Rang- und Sonderrechtsfragen bis zur begründeten Einzelfallprüfung offen?

@@ -1,3 +1,25 @@
+# v445.25.0 - Insolvenzforderungen für die Verwaltung prüfen
+
+## 1. Hauptworkflow und zehn Fachskills
+
+Neues kompaktes Paket `insolvenzforderungen-checker`: vom Eingang der Anmeldungen über Gläubigerklärung, Verträge, Zahlungen und Rang bis zum begründeten Tabellenvorschlag und zum vollständigen Gläubigerbrief. Sicherheiten, Masseforderungen, Nachrang, Verspätung und Titel erhalten eigene Prüfwege. Bestehende Pakete zur Insolvenzverwaltung und Forderungsanmeldung bleiben erhalten.
+
+## 2. Werkstatt, Mini-Prompt und Rechtsgrundlagen
+
+Eigenständig nutzbare Fachprompts mit gezielter Aktenaufnahme und Fortsetzung nach neuen Belegen. Amtliche BGH-Anker betreffen veränderte Anmeldegegenstände nach Rückabtretung, Individualisierung und schwache vorläufige Verwaltung. Gesetzliche Anmeldewege, Insolvenzgeldvorfinanzierung und spätere Ausfallberücksichtigung sind voneinander abgegrenzt. Interne Vorschläge werden nicht als gerichtliche Feststellung ausgegeben.
+
+## 3. Kölner Handwerksakte
+
+Zusammenhängende Akte einer fortgeführten Handwerks-GmbH mit vorläufigem Verfahren, Eröffnung, Gutachten und Insolvenzgeldvorfinanzierung. Zehn Anmeldungen werden durch eigenständige Verträge, Rechnungen, Leistungs- und Zahlungsbelege, Korrespondenz und Sicherungsunterlagen ergänzt. Native Dateien, Gesamt-PDF und flache Einzel-PDF- beziehungsweise Originalformat-ZIPs; keine Lösungsmatrix im Arbeitsbestand.
+
+## 4. Kontrollierter Datenexport
+
+Lokaler Exporthelfer mit centgenauer Dezimalrechnung, getrennten Prüfständen, CSV-Formelschutz und Schutz vor Überschreiben. JSON, CSV und internes XML bleiben neutrale Arbeitsdaten. Der optionale XJustiz-Entwurf verwendet Version 3.6.2 und die erstmalige Tabellenübergabe ohne Erklärungen; er verlangt passende Stammdaten und ein vollständiges amtliches XSD-Paket. Schematron, externe Codelisten, Gerichtsvorgaben und manuelle Versandfreigabe bleiben eigenständige Prüfungen. Kein automatischer Versand.
+
+## 5. Qualität und Verzeichnisse
+
+Elf fachlich zugeschnittene Bewertungsszenarien, Exportregressionen sowie Paket- und Belegprüfungen. Technische Schema-Prüfung und redaktionelle Szenarien werden nicht mit beobachteten Modellläufen oder gerichtlicher Annahme gleichgesetzt. Marketplace, thematische Skillnavigation und zentrale Downloadregister ergänzt.
+
 # v445.24.0 - Vier Registerwerkstätten mit zwölf Akten
 
 ## 1. Vier eigenständige Plugins mit je elf Skills

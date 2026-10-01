@@ -11,7 +11,7 @@
 
 DPMA und EUIPO: Marken recherchieren, anmelden, verteidigen, umschreiben und nachhalten. Zehn Fachskills und ein Hauptproblem-Skill mit konkreten Rechtsprechungsankern aus 2026, optionalem freigegebenem Portalvollzug und drei Testakten.
 
-Dieses Plugin gehört zum Marketplace mit 265 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 266 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -64,7 +64,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.md" download>markenamt-assistent-hauptproblem.md</a> · [`markenamt-assistent-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=markenamt-assistent/markenamt-assistent-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 265 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 266 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -78,9 +78,9 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Farbwerk – Wem gehört das Aubergine im Baumarkt?](../testakten/markenamt-farbwerk/README.md) | [Gesamt-PDF](../testakten/markenamt-farbwerk/gesamt-pdf/markenamt-farbwerk_gesamt.pdf) | [`testakte-markenamt-farbwerk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-farbwerk.zip) | [`testakte-markenamt-farbwerk-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-farbwerk-einzelpdfs.zip) |
-| [Kichererbse – Streit um das neue Supermarktregal](../testakten/markenamt-kichererbse/README.md) | [Gesamt-PDF](../testakten/markenamt-kichererbse/gesamt-pdf/markenamt-kichererbse_gesamt.pdf) | [`testakte-markenamt-kichererbse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-kichererbse.zip) | [`testakte-markenamt-kichererbse-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-kichererbse-einzelpdfs.zip) |
-| [Rumpelrad – Das Fahrrad passt in den Hausflur](../testakten/markenamt-rumpelrad/README.md) | [Gesamt-PDF](../testakten/markenamt-rumpelrad/gesamt-pdf/markenamt-rumpelrad_gesamt.pdf) | [`testakte-markenamt-rumpelrad.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-rumpelrad.zip) | [`testakte-markenamt-rumpelrad-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-markenamt-rumpelrad-einzelpdfs.zip) |
+| [Farbwerk – Wem gehört das Aubergine im Baumarkt?](../testakten/markenamt-farbwerk/README.md) | [Gesamt-PDF](../testakten/markenamt-farbwerk/gesamt-pdf/markenamt-farbwerk_gesamt.pdf) | [`testakte-markenamt-farbwerk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-farbwerk.zip) | [`testakte-markenamt-farbwerk-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-farbwerk-einzelpdfs.zip) |
+| [Kichererbse – Streit um das neue Supermarktregal](../testakten/markenamt-kichererbse/README.md) | [Gesamt-PDF](../testakten/markenamt-kichererbse/gesamt-pdf/markenamt-kichererbse_gesamt.pdf) | [`testakte-markenamt-kichererbse.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-kichererbse.zip) | [`testakte-markenamt-kichererbse-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-kichererbse-einzelpdfs.zip) |
+| [Rumpelrad – Das Fahrrad passt in den Hausflur](../testakten/markenamt-rumpelrad/README.md) | [Gesamt-PDF](../testakten/markenamt-rumpelrad/gesamt-pdf/markenamt-rumpelrad_gesamt.pdf) | [`testakte-markenamt-rumpelrad.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-rumpelrad.zip) | [`testakte-markenamt-rumpelrad-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-markenamt-rumpelrad-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

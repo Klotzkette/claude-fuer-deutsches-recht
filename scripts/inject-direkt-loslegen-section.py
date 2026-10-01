@@ -356,6 +356,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "insolvenzforderungen-checker":
+        return """## In 30 Sekunden starten
+
+Wählen Sie `forderungen-pruefen-und-tabelle-vorbereiten`. Ohne Installation verwenden Sie den Mini-Prompt oder die ausführliche Werkstatt aus der Downloadtabelle.
+
+> Eröffnungsbeschluss, zehn Forderungsanmeldungen und Belege liegen im Ordner. Gleiche Beträge, Verträge, Zahlungen und Sicherheiten ab. Erstelle begründete Tabellenvorschläge und die dazugehörigen Gläubigerbriefe. Frage nur nach entscheidenden fehlenden Unterlagen.
+
+Das Paket arbeitet für die Insolvenzverwaltung. Es trennt angemeldete Beträge, interne Prüfung und gerichtliche Feststellung. Verspätete und nachrangige Anmeldungen sowie Sicherheiten erhalten eigene Prüfwege. Elektronische Exporte werden vorbereitet, aber nicht automatisch versandt. Dies ist ein Experiment und keine Rechtsberatung."""
     if plugin_name == "eigenbedarfskuendigungschecker":
         return """## In 30 Sekunden starten
 
@@ -576,6 +584,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     elif plugin_name in {"transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent"}:
         skill_note = "Alle elf Skills sind unmittelbar enthalten: zehn Fachskills und der Hauptproblem-Skill. Werkstatt, Mini und Hauptproblem-Prompt sind getrennte eigenständige Downloads. Beim Einzel-Download eines Skills müssen die verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All eleven skills are directly included: ten task workflows and one main problem workflow. Workshop, mini and focus prompts are separate standalone downloads. A downloaded individual skill also needs its linked references."
+    elif plugin_name == "insolvenzforderungen-checker":
+        skill_note = "Alle elf Skills sind unmittelbar enthalten: ein Hauptskill und zehn Fachskills. Werkstatt und Mini-Prompt sind eigenständige Downloads. Der optionale Exporthelfer und seine Referenz gehören zum Plugin-ZIP; einzelne Skill-Downloads benötigen diese Hilfsdateien zusätzlich."
+        skill_note_en = "All eleven skills are included directly: one main workflow and ten specialist skills. Workshop and mini prompt are standalone downloads. The optional export helper and its reference are bundled in the plugin ZIP; individual skill downloads need those files separately."
     elif plugin_name == "gmbh-gesellschafterversammlung":
         skill_note = "Alle sechs Skills sind unmittelbar enthalten: fünf Fachskills und der Hauptproblem-Skill gesellschafterversammlung-organisieren. Die Werkstatt und der Mini-Prompt sind gesonderte eigenständige Downloads. Referenzen, Ausgabebausteine und Stimmenprüfer gehören zum Plugin-ZIP; beim Einzel-Download eines Skills müssen seine Hilfsdateien zusätzlich verfügbar sein."
         skill_note_en = "All six skills are included directly: five task skills and one main workflow. The workshop and mini prompt are separate standalone downloads. References, drafting blocks and the vote calculator are included in the plugin ZIP; an individual skill download does not include its supporting files."

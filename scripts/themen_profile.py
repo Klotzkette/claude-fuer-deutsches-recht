@@ -6095,6 +6095,7 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "handelsregister-assistent": "gesellschaft",
     "grundbuchamt-assistent": "immobilien",
     "markenamt-assistent": "marke",
+    "insolvenzforderungen-checker": "insolvenz",
     "eigenbedarfskuendigungschecker": "miet",
     "antidiskriminierung-agg": "arbeits",
     "mietchecker": "miet",

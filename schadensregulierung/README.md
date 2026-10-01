@@ -5,7 +5,7 @@
 
 Schadensabwicklung für Unternehmen und Haftpflichtversicherer: Personen-, Sach- und Abschleppschäden, Haftung, Deckung, Besichtigung, Regress und kontrollierte Regulierung. Zehn fokussierte Arbeitswege mit getrennten internen Vorlagen und Außenbriefen.
 
-Dieses Plugin gehört zum Marketplace mit 265 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 266 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`schadensregulierung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 265 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 266 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,8 +62,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Fahrzeugschaden nach Umsetzung aus einer Berliner Busspur](../testakten/schadensregulierung-abschleppschaden-busspur-berlin/README.md) | [Gesamt-PDF](../testakten/schadensregulierung-abschleppschaden-busspur-berlin/gesamt-pdf/schadensregulierung-abschleppschaden-busspur-berlin_gesamt.pdf) | [`testakte-schadensregulierung-abschleppschaden-busspur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-schadensregulierung-abschleppschaden-busspur-berlin.zip) | [`testakte-schadensregulierung-abschleppschaden-busspur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-schadensregulierung-abschleppschaden-busspur-berlin-einzelpdfs.zip) |
-| [Türvorfall am Märkischen Museum in Berlin](../testakten/schadensregulierung-ubahn-tuerunfall-berlin/README.md) | [Gesamt-PDF](../testakten/schadensregulierung-ubahn-tuerunfall-berlin/gesamt-pdf/schadensregulierung-ubahn-tuerunfall-berlin_gesamt.pdf) | [`testakte-schadensregulierung-ubahn-tuerunfall-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-schadensregulierung-ubahn-tuerunfall-berlin.zip) | [`testakte-schadensregulierung-ubahn-tuerunfall-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.24.0/testakte-schadensregulierung-ubahn-tuerunfall-berlin-einzelpdfs.zip) |
+| [Fahrzeugschaden nach Umsetzung aus einer Berliner Busspur](../testakten/schadensregulierung-abschleppschaden-busspur-berlin/README.md) | [Gesamt-PDF](../testakten/schadensregulierung-abschleppschaden-busspur-berlin/gesamt-pdf/schadensregulierung-abschleppschaden-busspur-berlin_gesamt.pdf) | [`testakte-schadensregulierung-abschleppschaden-busspur-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-schadensregulierung-abschleppschaden-busspur-berlin.zip) | [`testakte-schadensregulierung-abschleppschaden-busspur-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-schadensregulierung-abschleppschaden-busspur-berlin-einzelpdfs.zip) |
+| [Türvorfall am Märkischen Museum in Berlin](../testakten/schadensregulierung-ubahn-tuerunfall-berlin/README.md) | [Gesamt-PDF](../testakten/schadensregulierung-ubahn-tuerunfall-berlin/gesamt-pdf/schadensregulierung-ubahn-tuerunfall-berlin_gesamt.pdf) | [`testakte-schadensregulierung-ubahn-tuerunfall-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-schadensregulierung-ubahn-tuerunfall-berlin.zip) | [`testakte-schadensregulierung-ubahn-tuerunfall-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.25.0/testakte-schadensregulierung-ubahn-tuerunfall-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

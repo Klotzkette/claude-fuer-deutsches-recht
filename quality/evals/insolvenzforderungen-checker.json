@@ -1,0 +1,453 @@
+{
+  "schema_version": 1,
+  "plugin": "insolvenzforderungen-checker",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__174.html",
+      "checked_on": "2026-10-01",
+      "supports": "Anmeldeinhalt, nachrangige Anmeldung nur auf Aufforderung und elektronische Übermittlungswege."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__177.html",
+      "checked_on": "2026-10-01",
+      "supports": "Verspätete Anmeldung und gesonderte Prüfung."
+    },
+    {
+      "url": "https://xjustiz.justiz.de/XJustiz-Versionen/index.php",
+      "checked_on": "2026-10-01",
+      "supports": "Geltende Version 3.6.2 und Wechsel zum 30. April 2027."
+    }
+  ],
+  "selection": {
+    "target_skill": "forderungen-pruefen-und-tabelle-vorbereiten",
+    "positive": [
+      "Prüfe die eingegangenen Insolvenzforderungen und erstelle Tabellenvorschläge samt Gläubigerbriefen.",
+      "Gleiche zehn Anmeldungen für die Verwaltung mit den Verträgen und Zahlungen ab."
+    ],
+    "negative": [
+      "Prüfe allein die Zahlungsunfähigkeit vor einem Insolvenzantrag.",
+      "Entwirf ausschließlich einen Sanierungsplan."
+    ]
+  },
+  "cases": [
+    {
+      "id": "eingang",
+      "target_skill": "forderungen-pruefen-und-tabelle-vorbereiten",
+      "request": "Die Verfahrensbeschlüsse, zehn Anmeldungen und Originalbelege liegen im Ordner. Bitte bereite die Tabelle und die Gläubigerbriefe vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest zunächst Beschlüsse und Unterlagen, ohne bekannte Tatsachen erneut abzufragen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Hält Anmeldung, Prüfungsvorschlag und gerichtliche Feststellung auseinander.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert belegte Tabellenzeilen und ausformulierte Schreiben statt nur einer Aktenzusammenfassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doppelanmeldung",
+      "target_skill": "anmeldung-und-glaeubiger-klaeren",
+      "request": "Zedent und Zessionar melden denselben Rechnungsbetrag an. Erst nach dem Prüfungstermin erfolgt eine Rückabtretung. Können wir nur den Namen austauschen?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Forderungsinhaber, Anmeldeinhalt und Zeitpunkte anhand IX ZR 114/23.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet bloße Bezeichnungsberichtigung vom veränderten Gegenstand der Anmeldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Veranlasst erforderliche erneute Anmeldung und Prüfung, ohne beide Anmeldungen doppelt zu berücksichtigen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "belegluecke",
+      "target_skill": "forderungsgrund-und-belege-abgleichen",
+      "request": "Die Anmeldung nennt einen konkret bezeichneten Liefervertrag und drei Rechnungen. Die Lieferscheine fehlen. Ist die Anmeldung deshalb automatisch unwirksam?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Individualisierung nach IX ZR 47/19 von materiellem Nachweis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Vertrag, Leistung, Rechnung und Einwendungen jeweils gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert gezielte Nachforderung und gegebenenfalls begründetes Bestreiten, keine automatische Feststellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teilzahlung",
+      "target_skill": "zahlungen-zinsen-und-kosten-pruefen",
+      "request": "Angemeldet sind 14280 EUR. Vor Eröffnung wurden 3570 EUR gezahlt und 1190 EUR gutgeschrieben; beide Belege betreffen genau diese Rechnung. Weitere Einwendungen bestehen nicht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Rechnet 9520 EUR verbleibend und 4760 EUR als nicht offene Differenz aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Löscht die ursprüngliche Anmeldung nicht aus dem Eingangsbuch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt einen begründeten Teilbestreitensvorschlag und einen sachlichen Gläubigerbrief.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorlaeufig",
+      "target_skill": "insolvenz-und-masseforderungen-trennen",
+      "request": "Während schwacher vorläufiger Verwaltung wurden neue Werkstattlieferungen bestellt. Der Beschluss enthält nur einen Zustimmungsvorbehalt; eine Einzelermächtigung liegt bisher nicht vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet keine pauschale Massehaftung aus Fortführung oder Zustimmung ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft konkret bestimmte Ermächtigung und Zeitpunkt nach IX ZR 195/01 sowie aktuelle Sondernormen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert nur den entscheidenden Beschlussteil nach und trennt alte Leistungen von neuen Bestellungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sicherheit",
+      "target_skill": "sicherheiten-und-ausfall-pruefen",
+      "request": "Der Finanzierer meldet 48000 EUR und eine Sicherungsabtretung an. Der erwartete Erlös ist 12000 EUR, bisher wurde nichts verwertet. Daneben steht eine gelieferte Hebebühne unter einfachem Eigentumsvorbehalt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zieht den geschätzten Erlös nicht automatisch vom persönlichen Tabellenbetrag ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Absonderung und spätere Ausfallberücksichtigung nach Paragrafen 52 und 190 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt den einfachen Eigentumsvorbehalt gesondert über Eigentum, Paragrafen 103 und 107 InsO; erfindet keine Erfüllungswahl.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachrang",
+      "target_skill": "nachrang-und-gesellschafterdarlehen-pruefen",
+      "request": "Eine Holding hält 60 Prozent der GmbH und meldet 60000 EUR aus einem gewöhnlichen Gesellschafterdarlehen im Rang 38 an. Das Gericht hat nicht zur Anmeldung nachrangiger Forderungen aufgefordert.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Darlehenscharakter und einschlägige Privilegien statt jede Gesellschafterforderung gleichzusetzen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet Paragraf 39 Absatz 1 Nummer 5 und Paragraf 174 Absatz 3 InsO auf den belegten Sachverhalt an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfasst den Eingang und formuliert einen Hinweis auf fehlende Aufforderung; keine stillschweigende Umqualifizierung in gerichtlich festgestellt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verspaetung",
+      "target_skill": "verspaetete-anmeldungen-und-termine-bearbeiten",
+      "request": "Anmeldefrist war der 14. August; eine Anmeldung über 8330 EUR ging am 1. September ein. Prüfungstermin ist am 15. September. Noch hat niemand der Prüfung widersprochen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt die Anmeldefrist nicht als Ausschlussfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Einbeziehung in den allgemeinen Termin sowie Widerspruch und Sonderprüfung nach Paragraf 177 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet keine automatische Kostenpflicht oder Ablehnung allein wegen des verspäteten Eingangs.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "titel",
+      "target_skill": "bestreiten-titel-und-feststellung-bearbeiten",
+      "request": "Ein vollstreckbarer Schuldtitel liegt bei den Akten; die Verwaltung möchte trotzdem bestreiten. Der Schuldner widerspricht ebenfalls. Welche Schritte folgen?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Verfolgungslast des Bestreitenden nach Paragraf 179 Absatz 2 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Verwalterwiderspruch vom Schuldnerwiderspruch und dessen Wirkung nach Paragrafen 178 und 184 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erfindet keine allgemeine Monatsfrist für den Verwalter aus Paragraf 179 InsO.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brief",
+      "target_skill": "glaeubigerbriefe-und-nachforderungen-erstellen",
+      "request": "Der Gläubiger hat eine Rechnung eingereicht; Abnahmebeleg und Abtretungskette fehlen. Bitte schreibe ihm und wahre den Prüfungsvorbehalt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Benennt genau die fehlenden Nachweise mit Bezug auf Anmeldung und Aktenzeichen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert einen vollständigen Brief ohne ungewolltes Anerkenntnis oder gerichtliche Feststellungsbehauptung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Setzt eine interne Rückfragefrist nicht mit einer gesetzlichen Ausschlussfrist gleich und verschickt nichts automatisch.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xml",
+      "target_skill": "tabelle-und-elektronische-uebergabe-vorbereiten",
+      "request": "Ich habe eine interne XML-Liste und einen Teilbestreitensvorschlag. Benenne sie einfach in XJustiz um und melde die Forderung als festgestellt an das Gericht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Lehnt bloßes Umbenennen und Erfinden gerichtlicher Feststellungen ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet neutralen Export von XJustiz 3.6.2 mit amtlichem Schema, Stammdaten, passenden Codelisten und Gerichtsvorgaben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bereitet Ereignis 044 nur ohne Erklärungen vor; nennt zusätzliche Schematronprüfung und manuelle Versandfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md",
+      "insolvenzforderungen-checker/insolvenzforderungen-checker-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Forderungsprüfung für die Insolvenzverwaltung bis zur Tabellenzeile und zum Gläubigerbrief.",
+    "norms": [
+      "Paragrafen 38 und 39 InsO",
+      "Paragrafen 47 bis 55 und 103 bis 108 InsO",
+      "Paragrafen 174 bis 190 InsO"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.12.2024, IX ZR 114/23",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2023/IX_ZR_114-23.pdf?__blob=publicationFile&v=1",
+        "application": "Anmeldegegenstand und nach dem Prüfungstermin erfolgte Rückabtretung; amtlicher Volltext geprüft.",
+        "limit": "Nicht jeden Gläubigerwechsel mit einem neuen Streitgegenstand gleichsetzen; Bezeichnungsberichtigung gesondert prüfen."
+      },
+      {
+        "citation": "BGH, Urteil vom 25.06.2020, IX ZR 47/19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR__47-19.pdf?__blob=publicationFile&v=1",
+        "application": "Individualisierung von Schlüssigkeit und materieller Berechtigung unterscheiden; amtlicher Volltext geprüft.",
+        "limit": "Spätere Individualisierung wirkt nicht auf die Anmeldung zurück."
+      },
+      {
+        "citation": "BGH, Urteil vom 18.07.2002, IX ZR 195/01",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2001/IX_ZR_195-01.pdf?__blob=publicationFile&v=1",
+        "application": "Schwache vorläufige Verwaltung und bestimmte Einzelermächtigung; maßgebliche Seiten des amtlichen Volltexts geprüft.",
+        "limit": "Aktuelle Sondernormen und Einzelfallermächtigungen bleiben gesondert zu prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarien sind keine beobachteten Modellläufe.",
+      "XSD-Prüfung ersetzt weder externe Codelisten noch Schematron, Zielgerichtsprofil oder Versandfreigabe."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Beschlüsse und Anmeldungen zuerst lesen.",
+      "Bei unbekanntem Auftrag gewünschtes Prüflos und Stichtag klären.",
+      "Bei Terminproblemen Anmelde-, Prüfungs- und Verteilungsphase trennen."
+    ],
+    "continuation": "Neue Belege ändern nur betroffene Forderungspositionen; frühere Prüfstände und stabile Kennungen bleiben nachvollziehbar.",
+    "enrichment": "Getrennte Wege für Belege, Teilzahlungen, Masse, Sicherheiten, Nachrang, Verspätung und Titel.",
+    "limits": "Keine automatische Anerkennung, gerichtliche Feststellung oder Übermittlung."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet.",
+    "changes": [
+      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt."
+    ],
+    "sha256": "2aedcf957b23d085c4b8785e9fc1b8a57276899ba549d6e33fee14e2f81f7667"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe.",
+    "changes": [
+      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten."
+    ],
+    "sha256": "79b444915a6762c27323ac0c0770c6a232c736ef747055163f7e4c89441162e0"
+  }
+}
