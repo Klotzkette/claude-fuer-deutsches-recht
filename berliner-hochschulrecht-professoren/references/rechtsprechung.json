@@ -1,0 +1,62 @@
+[
+  {
+    "key": "gremien2025",
+    "citation": "BVerfG, Beschluss vom 30.09.2025 – 1 BvR 1141/19",
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250930_1bvr114119.html",
+    "passages": "Rn. 77–85 und 110–120; Kopf und Entscheidungsform",
+    "application": "Wissenschaftsrelevanz auch organisatorischer und haushaltsbezogener Entscheidungen; Gesamtgefüge von Beteiligung und Kontrolle; Schutz vor nicht unerheblichem wissenschaftsfremden Einfluss.",
+    "limit": "Thüringer Hochschulgesetz. Keine automatische Ungültigkeit Berliner Gremien, kein Ausschluss jeder technischen oder administrativen Mitwirkung. Die thüringische Übergangsregel wird nicht auf Berlin übertragen.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "nachwuchs2025",
+    "citation": "BVerfG, Beschluss vom 25.06.2025 – 1 BvR 368/22",
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250625_1bvr036822.html",
+    "passages": "Tenor; Rn. 1–4, 20–24 und 34–55",
+    "application": "§ 110 Absatz 6 Sätze 2 und 3 BerlHG in der geprüften Fassung nichtig; Wissenschaftsfreiheit erfasst wissenschaftsrelevante Personalentscheidungen; Sperrwirkung des bundesrechtlich abschließend geregelten Befristungsrechts.",
+    "limit": "Nicht der ganze § 110, nicht jeder individuelle Vertrag und nicht die neu geschaffene Stellenstruktur § 110a BerlHG 2026. Keine automatische Vernichtung vertraglicher Zusagen. Hochschullehrende sind vom persönlichen Anwendungsbereich des § 1 Absatz 1 WissZeitVG ausgenommen.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "klinik2021",
+    "citation": "BVerwG, Urteil vom 03.02.2021 – 2 C 4.19",
+    "url": "https://www.bverwg.de/030221U2C4.19.0",
+    "passages": "Leitsatz; Rn. 15–22",
+    "application": "Wissenschaftliche Aufgaben und Krankenversorgung trennen. Keine aus Art. 5 Absatz 3 GG allein folgende Garantie jeder klinischen Leitungsfunktion; erforderliche wissenschaftliche Betätigung konkret prüfen.",
+    "limit": "Hessischer Klinikfall; Sonderrecht der Charité oder Berliner Veterinärmedizin gesondert prüfen. Nicht pauschal auf reine Forschungslabore oder konkrete vertragliche Leistungsansprüche übertragen.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "berufung2016",
+    "citation": "BVerwG, Urteil vom 20.10.2016 – 2 C 30.15",
+    "url": "https://www.bverwg.de/201016U2C30.15.0",
+    "passages": "Leitsätze; Rn. 18–30",
+    "application": "Beurteilungsspielraum im Hochschullehrerauswahlverfahren; sachlicher Publikationsstichtag; Primärrechtsschutz grundsätzlich unmittelbar im Anschluss an maßgebliche Konkurrentenmitteilung.",
+    "limit": "NRW-Fall mit eigenem Organ- und Vorverfahrensrecht. Keine Berliner Zuständigkeitsregel und keine feste universelle Wartefrist; keine automatische Ernennung oder Schadensersatzzusage.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "lehre2012",
+    "citation": "BVerwG, Urteil vom 26.09.2012 – 6 CN 1.11",
+    "url": "https://www.bverwg.de/260912U6CN1.11.0",
+    "passages": "Rn. 20–29",
+    "application": "Wissenschaftsfreiheit und Koordination des notwendigen Lehrangebots; Vorrang kollegialer Selbstkoordination gegenüber einseitiger Zuweisung, bei deren Scheitern rechtmäßige Koordination möglich.",
+    "limit": "Schleswig-holsteinische Verordnung. Keine Übertragung dortiger Deputatshöhen oder Ermäßigungstatbestände nach Berlin; keine automatische Lehrbefreiung durch Forschungsaufgaben.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "zusage2009",
+    "citation": "BVerwG, Beschluss vom 17.08.2009 – 6 B 9.09",
+    "url": "https://www.bverwg.de/de/170809B6B9.09.0",
+    "passages": "Leitsatz; Rn. 3–8",
+    "application": "Kein absoluter verfassungsrechtlicher Bestandsschutz von Berufungsvereinbarungen gegen gesetzliche Änderungen; Mindestfunktionsfähigkeit, sachlicher Grund, Vertrauensschutz und Übergang beachten.",
+    "limit": "Nichtzulassungsbeschwerde aus einem brandenburgischen Altzusagenfall. Dessen gesetzliche Befristung ist keine Berliner Frist. Die Entscheidung legitimiert keine beliebige Kürzung durch Verwaltung oder bloßen Haushaltsbrief.",
+    "checked_on": "2026-10-01",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  }
+]

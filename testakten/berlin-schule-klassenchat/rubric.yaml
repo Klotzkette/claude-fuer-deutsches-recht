@@ -1,0 +1,18 @@
+name: Klassenchat und schriftlicher Verweis
+plugin: berliner-schulrecht-eltern-schueler
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-schule-klassenchat_gesamt.pdf
+offene_pruefkriterien:
+- Werden Chatvolltext, Bildausschnitt und individuelle Beteiligung getrennt gewürdigt?
+- Werden Anhörung, zuständige Konferenz, Zugang und Art der tatsächlich verfügten
+  Maßnahme geprüft?
+- Bleibt die Bearbeitung bei den Rechten des Schülers und liefert ein ausformuliertes
+  Elternschreiben?

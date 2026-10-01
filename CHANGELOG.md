@@ -1,3 +1,17 @@
+# v445.26.0 - Berliner Kita-, Schul- und Hochschulrecht
+
+## 1. Zwei eigenständige Berliner Plugins
+
+Berliner Kita- und Schulrecht führt Eltern und Schüler durch Aufnahme, Schulwechsel, Leistungsbewertung, Förderung, Betreuung, Ordnungsmaßnahmen und Rechtsschutz. Verfahren gegen Lehrkräfte gehören nicht zum Auftrag. Das Hochschulplugin behandelt aus Professorensicht Berufung, Ausstattung, Status, Forschung, Lehre, Gremien, Drittmittel und Nachwuchs. Beide enthalten jeweils zehn Fachskills und einen übergreifenden Hauptskill. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts bleiben außerhalb der elf installierbaren Skills.
+
+## 2. Geprüfte Rechtsgrundlagen und Arbeitsabläufe
+
+Die Quellenarbeit berücksichtigt insbesondere SchulG, Sek I-VO und SopädVO in ihren Änderungen von 2026 sowie die BerlHG-Reform vom 21. Januar 2026. Amtliche Entscheidungen werden mit Datum, Aktenzeichen, konkreter Aussage und Übertragungsgrenze verwendet. Quellenlektüre, redaktionelle Prüfungen, tatsächliche Probeläufe und technische Strukturprüfungen sind in den Prüfunterlagen getrennt ausgewiesen. Die Werkstätten stehen zusätzlich als bearbeitbare Word-Dokumente und PDF-Lesefassungen bereit. Mini- und Hauptproblem-Prompts bleiben jeweils unter 7.500 UTF-8-Bytes.
+
+## 3. Sechs überschaubare Akten aus dem Bildungsalltag
+
+Kita Sonnenkringel, Schulplatz in der siebten Klasse, Klassenchat, Berufungszusage, Lehrdeputat und Forschungslabor enthalten jeweils 18 eigenständige Unterlagen. Insgesamt stehen 48 Word-Dokumente, 42 E-Mails, zwölf Textdateien und sechs Excel-Arbeitsmappen zur Verfügung. Echte MIME-Anlagen, berechenbare Tabellen und widersprüchliche Zwischenstände ermöglichen die Arbeit am konkreten Fall. Gesamt-PDFs und beide ZIP-Formate sowie Plugin- und zentrale Verzeichnisse werden aus diesem Bestand erzeugt.
+
 # v445.25.2 - Betriebskauf in beiden Forderungsakten vorbereiten
 
 ## 1. Zwei Erwerbsvorgänge im bestehenden Aktenbestand

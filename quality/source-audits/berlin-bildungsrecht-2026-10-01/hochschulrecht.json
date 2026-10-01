@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "plugin": "berliner-hochschulrecht-professoren",
+  "date": "2026-10-01",
+  "method": "live_primary_source_review_and_desk_review",
+  "model_execution_claim": "Keine beobachteten Modellläufe. Die Evalfälle sind Prüfszenarien, nicht berichtete Testergebnisse.",
+  "norms": [
+    {
+      "key": "verfassung-berlin",
+      "authority": "Land Berlin, Senatskanzlei / amtliche Normdarstellung",
+      "citation": "Verfassung von Berlin, insbesondere Art. 10, 19 Absatz 2 und 21",
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41548.php",
+      "passages": "Art. 10, 19 und 21",
+      "supports": "Gleichheit, Zugang zu öffentlichen Ämtern und Freiheit von Wissenschaft, Forschung und Lehre.",
+      "limit": "Die Seite ist eine amtliche Darstellung; fallbezogene aktuelle und historische Fassung bleibt zu prüfen. VvB nicht als Ersatz für Bundeskompetenzrecht oder konkrete Anspruchsnorm verwenden.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "berlhg2026",
+      "authority": "Land Berlin, Gesetz- und Verordnungsblatt",
+      "citation": "Drittes Gesetz zur Fortschreibung des Berliner Hochschulrechts vom 21.01.2026, GVBl. S. 23–29",
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-3-vom-322026-s-21-56.pdf",
+      "passages": "GVBl. S. 23–29; insbesondere Art. 1 Nr. 2/8 (§§ 2, 35a), Nr. 25–28 (§§ 101, 102, 102d), Nr. 30 (§ 104), Nr. 32 (§§ 110, 110a), Nr. 35 (§ 126f), Art. 4 und Art. 6",
+      "supports": "Seit 04.02.2026 neue Berufungssatzung, mögliche Pilotübertragung, Angestellten- und Tandemstatus, hybride Promotion, Nachwuchsstruktur und LVVO-Anpassung.",
+      "limit": "Änderungsgesetz, keine vollständig neu konsolidierte Fassung. Konkrete Satzung, Übertragungsakt und spätere Änderungen gesondert prüfen; § 104 verlangt keine im Gesetz so bezeichnete Übertragungsverordnung.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "lvvo2025",
+      "authority": "Land Berlin, Senatsverwaltung für Wissenschaft, Gesundheit und Pflege; GVBl.",
+      "citation": "Sechste Verordnung zur Änderung der Lehrverpflichtungsverordnung vom 13.01.2025, GVBl. S. 47–50",
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2025/ausgabe-nr-3-vom-3112025-s-21-112.pdf",
+      "passages": "GVBl. S. 47–50; §§ 1, 2, 3a, 5, 9, 11 und 14 in den jeweiligen Änderungsbefehlen",
+      "supports": "Digitale Lehre, differenzierte Regeldeputate, Zuständigkeit und Anrechnung/Ermäßigung; Übergang bis Ende Wintersemester 2024/2025 für betroffene Fälle.",
+      "limit": "Zusammen mit der Änderung 2026 lesen. Kein allgemeiner Deputatswert für jede Hochschule oder Kategorie; alte Mitarbeiterkategorien beachten.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "wisszeitvg",
+      "authority": "Bundesministerium der Justiz und Bundesamt für Justiz, Gesetze im Internet",
+      "citation": "§ 1 WissZeitVG",
+      "url": "https://www.gesetze-im-internet.de/wisszeitvg/__1.html",
+      "passages": "Absätze 1 und 2 vollständig",
+      "supports": "Persönlicher Anwendungsbereich nimmt Hochschullehrerinnen und Hochschullehrer aus; unbefristete Beschäftigung und TzBfG bleiben im bezeichneten Rahmen möglich.",
+      "limit": "Kein allgemeines Verbot befristeter Professuren; einschlägiges Status- oder Befristungsrecht separat prüfen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "erfindung",
+      "authority": "Bundesministerium der Justiz und Bundesamt für Justiz, Gesetze im Internet",
+      "citation": "§ 42 ArbnErfG",
+      "url": "https://www.gesetze-im-internet.de/arbnerfg/__42.html",
+      "passages": "Nummern 1–5 vollständig",
+      "supports": "Besonderheiten der Hochschulerfindung, Offenbarungsanzeige, negative Publikationsfreiheit, verbleibendes Forschungsnutzungsrecht und Verwertungsvergütung.",
+      "limit": "Keine automatische Zuordnung aller Daten oder Urheberrechte; weitere Regeln der Diensterfindung bleiben erforderlich.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "eilrecht",
+      "authority": "Bundesministerium der Justiz und Bundesamt für Justiz, Gesetze im Internet",
+      "citation": "§ 123 VwGO",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "passages": "Absätze 1–5 vollständig",
+      "supports": "Sicherungs- und Regelungsanordnung, Gerichtszuständigkeit, Glaubhaftmachung über ZPO-Verweisung und Abgrenzung zu §§ 80/80a.",
+      "limit": "Statthaftigkeit, Rechtsschutzbedürfnis und materieller Anspruch folgen aus dem konkreten Streit; keine Lösung jedes Professorenkonflikts durch § 123.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "zusicherung",
+      "authority": "Bundesministerium der Justiz und Bundesamt für Justiz, Gesetze im Internet",
+      "citation": "§ 38 VwVfG",
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__38.html",
+      "passages": "Normseite geöffnet; Schriftform, Zuständigkeit und Bezug auf künftigen Verwaltungsakt",
+      "supports": "Zusage und Zusicherung nicht gleichsetzen; anwendbares Berliner Verfahrensrecht vorschalten.",
+      "limit": "Nicht jede Berufungsvereinbarung ist Zusicherung. Öffentlich-rechtliche Verträge nach eigenen Regeln prüfen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "key": "beamten-neben",
+      "authority": "Bundesministerium der Justiz und Bundesamt für Justiz, Gesetze im Internet",
+      "citation": "§ 40 BeamtStG",
+      "url": "https://www.gesetze-im-internet.de/beamtstg/__40.html",
+      "passages": "Normseite und Grundregel der Anzeige-/Erlaubnis- bzw. Verbotsvorbehalte",
+      "supports": "Statusrechtlicher Einstieg in Nebentätigkeitsprüfung.",
+      "limit": "Berliner Nebentätigkeitsrecht und Hochschulsonderrecht nicht ersetzt; keine Anwendung allein aus Professorentitel.",
+      "checked_on": "2026-10-01",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    }
+  ],
+  "decisions": [
+    {
+      "key": "gremien2025",
+      "citation": "BVerfG, Beschluss vom 30.09.2025 – 1 BvR 1141/19",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250930_1bvr114119.html",
+      "passages": "Rn. 77–85 und 110–120; Kopf und Entscheidungsform",
+      "application": "Wissenschaftsrelevanz auch organisatorischer und haushaltsbezogener Entscheidungen; Gesamtgefüge von Beteiligung und Kontrolle; Schutz vor nicht unerheblichem wissenschaftsfremden Einfluss.",
+      "limit": "Thüringer Hochschulgesetz. Keine automatische Ungültigkeit Berliner Gremien, kein Ausschluss jeder technischen oder administrativen Mitwirkung. Die thüringische Übergangsregel wird nicht auf Berlin übertragen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "nachwuchs2025",
+      "citation": "BVerfG, Beschluss vom 25.06.2025 – 1 BvR 368/22",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250625_1bvr036822.html",
+      "passages": "Tenor; Rn. 1–4, 20–24 und 34–55",
+      "application": "§ 110 Absatz 6 Sätze 2 und 3 BerlHG in der geprüften Fassung nichtig; Wissenschaftsfreiheit erfasst wissenschaftsrelevante Personalentscheidungen; Sperrwirkung des bundesrechtlich abschließend geregelten Befristungsrechts.",
+      "limit": "Nicht der ganze § 110, nicht jeder individuelle Vertrag und nicht die neu geschaffene Stellenstruktur § 110a BerlHG 2026. Keine automatische Vernichtung vertraglicher Zusagen. Hochschullehrende sind vom persönlichen Anwendungsbereich des § 1 Absatz 1 WissZeitVG ausgenommen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "klinik2021",
+      "citation": "BVerwG, Urteil vom 03.02.2021 – 2 C 4.19",
+      "url": "https://www.bverwg.de/030221U2C4.19.0",
+      "passages": "Leitsatz; Rn. 15–22",
+      "application": "Wissenschaftliche Aufgaben und Krankenversorgung trennen. Keine aus Art. 5 Absatz 3 GG allein folgende Garantie jeder klinischen Leitungsfunktion; erforderliche wissenschaftliche Betätigung konkret prüfen.",
+      "limit": "Hessischer Klinikfall; Sonderrecht der Charité oder Berliner Veterinärmedizin gesondert prüfen. Nicht pauschal auf reine Forschungslabore oder konkrete vertragliche Leistungsansprüche übertragen.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "berufung2016",
+      "citation": "BVerwG, Urteil vom 20.10.2016 – 2 C 30.15",
+      "url": "https://www.bverwg.de/201016U2C30.15.0",
+      "passages": "Leitsätze; Rn. 18–30",
+      "application": "Beurteilungsspielraum im Hochschullehrerauswahlverfahren; sachlicher Publikationsstichtag; Primärrechtsschutz grundsätzlich unmittelbar im Anschluss an maßgebliche Konkurrentenmitteilung.",
+      "limit": "NRW-Fall mit eigenem Organ- und Vorverfahrensrecht. Keine Berliner Zuständigkeitsregel und keine feste universelle Wartefrist; keine automatische Ernennung oder Schadensersatzzusage.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "lehre2012",
+      "citation": "BVerwG, Urteil vom 26.09.2012 – 6 CN 1.11",
+      "url": "https://www.bverwg.de/260912U6CN1.11.0",
+      "passages": "Rn. 20–29",
+      "application": "Wissenschaftsfreiheit und Koordination des notwendigen Lehrangebots; Vorrang kollegialer Selbstkoordination gegenüber einseitiger Zuweisung, bei deren Scheitern rechtmäßige Koordination möglich.",
+      "limit": "Schleswig-holsteinische Verordnung. Keine Übertragung dortiger Deputatshöhen oder Ermäßigungstatbestände nach Berlin; keine automatische Lehrbefreiung durch Forschungsaufgaben.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "zusage2009",
+      "citation": "BVerwG, Beschluss vom 17.08.2009 – 6 B 9.09",
+      "url": "https://www.bverwg.de/de/170809B6B9.09.0",
+      "passages": "Leitsatz; Rn. 3–8",
+      "application": "Kein absoluter verfassungsrechtlicher Bestandsschutz von Berufungsvereinbarungen gegen gesetzliche Änderungen; Mindestfunktionsfähigkeit, sachlicher Grund, Vertrauensschutz und Übergang beachten.",
+      "limit": "Nichtzulassungsbeschwerde aus einem brandenburgischen Altzusagenfall. Dessen gesetzliche Befristung ist keine Berliner Frist. Die Entscheidung legitimiert keine beliebige Kürzung durch Verwaltung oder bloßen Haushaltsbrief.",
+      "checked_on": "2026-10-01",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    }
+  ],
+  "queries": [
+    "site.berlin.de gerichte Professor 2026 Berufung Lehrverpflichtung Hochschule",
+    "site.bverwg.de 2026 Professor Hochschule Berufung Wissenschaftsfreiheit",
+    "site.gesetze.berlin.de Lehrverpflichtungsverordnung 2026",
+    "site.bverwg.de Berufungszusage Professor Ausstattung Hochschule 2025 2026"
+  ],
+  "search_2026_result": "2026 einschlägiges Berliner Änderungsgesetz und LVVO-Änderungen gefunden. Keine für diese Module eindeutig einschlägigere höchstrichterliche 2026-Entscheidung verifiziert; deshalb konkrete Entscheidungen von 2025 und ältere tragfähige Anker mit Landesrechtsgrenzen.",
+  "limits": [
+    "Keine vollständige lückenlose Rechtsprechungsrecherche oder Vollständigkeitsgarantie.",
+    "BerlHG-/LVVO-Portalrahmen wegen JavaScript/Abruffehler nicht als konsolidierte Volltexte gelesen.",
+    "Örtliche Satzungen, Berufungsrechtsübertragungen, Tarifbindung und Folgerecht im konkreten Mandat erneut prüfen.",
+    "Kein Kommentar oder Aufsatz aus Modellwissen als überprüfte Literatur zitiert."
+  ],
+  "observed_primary_snapshot_sha256": [
+    {
+      "source": "nachwuchs2025",
+      "sha256": "43979f77e275a0ef286cd453b0d38bf052a7f22b9286cb6f848cd1e5971735c2",
+      "scope": "tatsächlich abgerufener amtlicher HTML-Text; lokaler Arbeitsnachweis, kein behaupteter amtlicher Hash"
+    },
+    {
+      "source": "gremien2025",
+      "sha256": "15b53c740601c97a9238f461ad446811351c6b4f3fa1f8048817eb2bbe3133cb",
+      "scope": "tatsächlich abgerufener amtlicher HTML-Text; lokaler Arbeitsnachweis, kein behaupteter amtlicher Hash"
+    }
+  ],
+  "prompt_structure_review": {
+    "reviewed_on": "2026-10-02",
+    "method": "deterministic_structure_and_body_identity_check",
+    "changes": "Nur Überschriftenebenen und Abschnittsnummern sowie eine strukturelle Eingangsunterüberschrift angepasst; sämtlicher Fließtext unverändert.",
+    "artifacts": [
+      {
+        "kind": "schnellstart",
+        "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-schnellstart.md",
+        "characters": 7195,
+        "utf8_bytes": 7306,
+        "sha256": "80086bc3a9dddf69a2364a7d000060a0b7e178fc3d37b25bbcadad6eee7fb969",
+        "single_h1": true,
+        "ordered_decimal_h2": true,
+        "body_unchanged": true,
+        "txt_byte_identical": true
+      },
+      {
+        "kind": "hauptproblem",
+        "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-hauptproblem.md",
+        "characters": 7152,
+        "utf8_bytes": 7269,
+        "sha256": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149",
+        "single_h1": true,
+        "ordered_decimal_h2": true,
+        "body_unchanged": true,
+        "txt_byte_identical": true
+      },
+      {
+        "kind": "werkstatt",
+        "path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+        "characters": 90138,
+        "utf8_bytes": 91797,
+        "sha256": "62bba69ba6a4824d8d6248e6f2002e435e914d033b8d3a5351b06aec3ed95ebd",
+        "single_h1": true,
+        "ordered_decimal_h2": true,
+        "body_unchanged": true,
+        "txt_byte_identical": true
+      }
+    ],
+    "validation": "scripts/audit-quickstart-usability.py mit plugin_entries ausschließlich auf berliner-hochschulrecht-professoren begrenzt ausgeführt: OK; enthält validate_profile. Zusätzlich drei MD/TXT-Paare und Evalhashes verifiziert."
+  },
+  "installable_link_review": {
+    "reviewed_on": "2026-10-02",
+    "method": "skill_link_targets_compared_with_existing_installable_zip_members",
+    "existing_zip_path": "/tmp/berlin-bildung-root/dist/berliner-hochschulrecht-professoren.zip",
+    "existing_zip_sha256": "0d61d683493e5b0bd82806b2a4024e4739d9da0568673c07d164b409a3ace034",
+    "skills_checked": 11,
+    "local_skill_links_checked": 33,
+    "all_targets_present_and_byte_identical": true,
+    "main_skill_sha256": "e100ca41ee98e3613ea56089af70925a00bc8667ab8891c7c79cada98f4e2322",
+    "packaging_required": "Der geänderte Hauptskill und das README müssen in das nächste ZIP übernommen werden; hier wurde kein Archiv neu gebaut.",
+    "changes": "Nicht verlinkte Werkstatt-Abhängigkeit im Hauptskill durch mitgelieferte Fachreferenzen ersetzt; fünf lokale README-Downloads zu ausgeschlossenen Dateien auf externe Downloadlinks umgestellt."
+  }
+}

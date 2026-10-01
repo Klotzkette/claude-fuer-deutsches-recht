@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-02",
+  "type": "moderierter Vorwärtslauf durch Root, kein isolierter Benchmark",
+  "prompt": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-schnellstart.md",
+  "prompt_sha256": "ebcf5141d971f71e169b2b8ee9183b0fd2b3b96996580f27d16a9c63bb5f817b",
+  "output_sha256": "8d266430e6bc29df6e0c7e225f35748f739552647bc1e5a6e30c495cadb51960",
+  "raw_files": {
+    "testakten/berlin-professur-berufungszusage/01_Auftrag_Ahrens.docx": "b0ddd638c01680441217a49665db025f97d84f28fabe3ccc5513d478d3f3bdc0",
+    "testakten/berlin-professur-berufungszusage/02_Ruf_W2.docx": "263ca556d9beeab8d1d271946c0cf738050304d525ea14361e7abe79f72478f6",
+    "testakten/berlin-professur-berufungszusage/03_Verhandlungsnotiz_Dekan.eml": "f5c4c8dc678290f086e0b4fdcb109f9c8215ebae4264a1c315d9c74aff820119",
+    "testakten/berlin-professur-berufungszusage/04_Schriftliche_Berufungszusage.docx": "44d038b81f875f4a229ab0295b4050c85ea1746104268c806e715a1fd2f6e6a9",
+    "testakten/berlin-professur-berufungszusage/05_Rufannahme.docx": "a8f05b8e662b1427fd4a92d22d2e0227b139557126d7127b1f93d0cf24fb7604",
+    "testakten/berlin-professur-berufungszusage/06_Budgetanlage.eml": "fcafd364687885784c2b597caf039d10cff5cb56547f55e1db75289baa9df985",
+    "testakten/berlin-professur-berufungszusage/07_Antritt_und_Uebergabe.docx": "23bf4b6c497aa5d772bb05e9b0a243daec24c028dec55feaf4e0338708bc4ef9",
+    "testakten/berlin-professur-berufungszusage/08_Ausstattung_Stand_September.xlsx": "1547d57cd46c4801ca7e680c6c93044080afdc4eb70b1777d2072ad0c67dc2c3",
+    "testakten/berlin-professur-berufungszusage/09_Raumverzug.eml": "b134eac60acfefe80de265fd2fa7d398fa47f86fa20b6c142084b3252482a8ce",
+    "testakten/berlin-professur-berufungszusage/10_Telefonnotiz_Dekan.txt": "90a6489b05036236f1c728b3ff36da0f0373b6cf901316d323ecdbd670d58f5c",
+    "testakten/berlin-professur-berufungszusage/11_Mitteilung_Budget.docx": "4606f4e6d39906042673a144ca98e9492151bcba5ee8eedfb2224cb8bfcd2784",
+    "testakten/berlin-professur-berufungszusage/12_Bedarfsmeldung.eml": "e787742948cf0e03c31057c0152e4820bed73bc548907a3966af239ef169c021",
+    "testakten/berlin-professur-berufungszusage/13_Begehung_C032.docx": "b5dc54c6b99ea9a49de9a55a9256aee5b0735c601b3c5d36080f540e88d27bb3",
+    "testakten/berlin-professur-berufungszusage/14_Liefertermin_Kabine.eml": "77dfac5e3aa04329a7c874018fa651d932b30ea9ebd1622e818470c2de8c4620",
+    "testakten/berlin-professur-berufungszusage/15_Bitte_um_Umsetzung.docx": "ab01c93af7de320ca8da18359071908cbc4250212faf4d2333eb3db8a9d022c0",
+    "testakten/berlin-professur-berufungszusage/16_Notiz_Kursplanung.txt": "99b44fb4fa11dae1a6e99bb484ef7f671fc445f93c1facd668ed28bb96b2caf8",
+    "testakten/berlin-professur-berufungszusage/17_Praesidium_Zwischenstand.eml": "0a6fd7b10d1e3b65639b18c0feedccca9cc5d11213ba1e01826d2c507b6460ec",
+    "testakten/berlin-professur-berufungszusage/18_Nachtrag_Mandantin.eml": "e42d44cbc89179e681397f411b482677f68e27ff8185221868cda23345e0b15f"
+  },
+  "passed": [
+    "konkreter Mandantenbrief statt bloßer Prüfliste",
+    "5.Oktober Lieferantenfrist vor 6.Oktober Präsidiumstermin erkannt",
+    "54.400 gebunden und 65.600 ungebunden, keine Behauptung bezahlt",
+    "8.200 zusätzliche unfreigegebene Bestellungen getrennt",
+    "keine automatische Bindung an Raum B-214",
+    "Status und Vertretung offen benannt",
+    "kein Außenkontakt bei Auftrag nur an Mandantin",
+    "keine künstliche Gerichtsfrist aus Lieferantenfrist"
+  ],
+  "limits": [
+    "ein Fall, keine statistische Zuverlässigkeitsaussage",
+    "Root hatte Quellenkontext aus der Integrationsprüfung",
+    "fehlende Status- und Zugangsunterlagen verhindern abschließende Rechtsweg- und Fristfestlegung"
+  ]
+}

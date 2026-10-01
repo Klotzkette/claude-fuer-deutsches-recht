@@ -1,0 +1,17 @@
+name: Berufungszusage und Laborbeginn
+plugin: berliner-hochschulrecht-professoren
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-professur-berufungszusage_gesamt.pdf
+offene_pruefkriterien:
+- Werden Ruf, Ausstattungszusage, Status und Annahme voneinander getrennt?
+- Werden ungebundene Mittel, Bestellung und tatsächliche Zahlung korrekt unterschieden?
+- Werden Liefertermin, Gesprächsdatum, Raumfunktionen und konkrete Freigaben miteinander
+  abgeglichen?

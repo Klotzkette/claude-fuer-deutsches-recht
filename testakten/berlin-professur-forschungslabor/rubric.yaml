@@ -1,0 +1,19 @@
+name: Forschungslabor und Raumverteilung
+plugin: berliner-hochschulrecht-professoren
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-professur-forschungslabor_gesamt.pdf
+offene_pruefkriterien:
+- Werden Projektvertrag, Raumbedarf und tatsächlich entscheidende Hochschulorgane
+  getrennt geprüft?
+- Werden Befangenheit, Beschlussgrundlage und wissenschaftliche Funktion anhand der
+  Akte untersucht?
+- Entsteht eine verhältnismäßige Zwischenlösung mit gesicherter Nutzung statt pauschalem
+  Anspruch auf einen bestimmten Raum?

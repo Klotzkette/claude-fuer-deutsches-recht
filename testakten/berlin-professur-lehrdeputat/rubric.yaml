@@ -1,0 +1,18 @@
+name: Lehrdeputat und Forschungsentlastung
+plugin: berliner-hochschulrecht-professoren
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-professur-lehrdeputat_gesamt.pdf
+offene_pruefkriterien:
+- Werden Personalkategorie, Semester, Vorlesungswochen und anrechenbare Lehranteile
+  festgestellt?
+- Werden Ermäßigungsantrag und erteilte Entscheidung auseinandergehalten?
+- Wird die Deputatsrechnung mit dem tatsächlichen Lehrplan verbunden und ein konkretes
+  Schreiben ausgearbeitet?

@@ -1,0 +1,19 @@
+name: Kita Sonnenkringel
+plugin: berliner-schulrecht-eltern-schueler
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf
+offene_pruefkriterien:
+- Werden Betreuungsumfang, tatsächlich nutzbarer Platz, Öffnungszeiten und Wege getrennt
+  geprüft?
+- Werden der frühere Bescheid und der spätere Erweiterungsantrag zeitlich getrennt
+  bearbeitet?
+- Entsteht aus wechselnden Arbeitszeiten und ungeklärter Randzeit ein konkreter Antrag
+  mit belegten Zeitangaben?

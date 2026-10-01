@@ -1,6 +1,18 @@
 {
   "schema_version": 1,
   "plugins": {
+    "berliner-schulrecht-eltern-schueler": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "berliner-hochschulrecht-professoren": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "insolvenzforderungen-checker": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],

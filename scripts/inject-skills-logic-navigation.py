@@ -121,6 +121,18 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "berliner-schulrecht-eltern-schueler": [
+        ("1. Anliegen und Bildungsweg", ["berlin-bildungsmandat-steuern", "berlin-kita-gutschein-betreuung", "berlin-ganztag-ergaenzende-foerderung"]),
+        ("2. Schulplatz und Übergänge", ["berlin-schulaufnahme-grundschule", "berlin-sekundarstufe-schulplatz-wechsel"]),
+        ("3. Schulalltag und individuelle Förderung", ["berlin-leistungsbewertung-versetzung", "berlin-inklusion-nachteilsausgleich", "berlin-schulpflicht-fehlzeiten-befreiung"]),
+        ("4. Konflikte und Rechtsschutz", ["berlin-erziehung-ordnungsmassnahmen", "berlin-beteiligung-schuldaten-konflikte", "berlin-rechtsbehelfe-eilrechtsschutz"]),
+    ],
+    "berliner-hochschulrecht-professoren": [
+        ("1. Vorgang und Berufung", ["professur-mandat-zum-ergebnis-fuehren", "professur-berufung-und-konkurrenz", "professur-rufverhandlung-und-zusagen"]),
+        ("2. Amt und Hochschulalltag", ["professur-status-und-dienstpflichten", "professur-lehre-deputat-und-pruefung", "professur-gremien-und-befangenheit"]),
+        ("3. Forschung und Nachwuchs", ["professur-forschungsfreiheit-und-ausstattung", "professur-drittmittel-daten-ip-ethik", "professur-promotion-und-nachwuchs", "professur-nebentaetigkeit-und-publikation"]),
+        ("4. Verständigung und Rechtsschutz", ["professur-konflikt-verfahren-und-eilrechtsschutz"]),
+    ],
     'transparenzregister-assistent': [('1. Auftrag und Berechtigung', ['hauptproblem-unklare-kontrolle-loesen', 'registervorgang-aufnehmen']), ('2. Kontrolle und Sonderstrukturen', ['kontrollketten-und-stimmrechte-pruefen', 'treuhand-stiftung-und-trust-pruefen', 'pep-und-mittelherkunft-trennen']), ('3. Meldung und Aufklärung', ['erstmeldung-vollstaendig-vorbereiten', 'aenderung-und-berichtigung-ordnen', 'unstimmigkeiten-pruefen-und-beantworten', 'registerkorrespondenz-und-anhoerung']), ('4. Einsicht und Portalvollzug', ['einsicht-und-datenschutz-steuern', 'portalbedienung-und-nachhalten'])],
     'handelsregister-assistent': [('1. Recherche und Registerlage', ['hauptproblem-registervorgang-zum-vollzug', 'registerrecherche-und-auszuege', 'registerdaten-und-datenschutz']), ('2. Vertretung und Gesellschafterliste', ['vertretung-und-registerpublizitaet', 'auslandsvertretung-und-urkunden', 'gesellschafterliste-erstellen-und-abgleichen']), ('3. Anmeldungen und Strukturänderungen', ['gruendung-satzung-und-kapital-anmelden', 'organwechsel-und-prokura', 'sitz-zweigniederlassung-und-strukturwechsel']), ('4. Schriftverkehr und Vollzug', ['registerschriftverkehr-und-zwischenverfuegung', 'einreichung-und-vollzug-nachhalten'])],
     'grundbuchamt-assistent': [('1. Auftrag und Einsicht', ['grundbuchvorgang-zum-ergebnis-fuehren', 'grundbucheinsicht-begruenden', 'grundbuch-und-bezugsurkunden-lesen']), ('2. Nachweise und Erwerb', ['grundbuchantrag-und-form-pruefen', 'vertretung-und-urkundenkette-pruefen', 'eigentum-vormerkung-und-vollzug', 'erbfolge-und-grundbuchberichtigung']), ('3. Grundpfandrechte und Brief', ['grundschuld-rang-und-loeschung', 'grundschuldbrief-aufgebot-und-wiederfund']), ('4. Verfahren und Vollzug', ['zwischenverfuegung-und-beschwerde', 'vollzug-kosten-und-zugriff-dokumentieren'])],

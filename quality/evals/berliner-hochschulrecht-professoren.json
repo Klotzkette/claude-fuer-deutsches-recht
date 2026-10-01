@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "plugin": "berliner-hochschulrecht-professoren",
+  "reviewed_on": "2026-10-01",
+  "selection": {
+    "target_skill": "professur-mandat-zum-ergebnis-fuehren",
+    "positive": [
+      "Meine Berliner Berufungszusage wird nicht umgesetzt. Bitte machen Sie das Schreiben.",
+      "Prüfen Sie mein Deputat und den Forschungsantrag an einer Berliner Universität.",
+      "Das Messlabor soll umziehen. Entwerfen Sie eine tragfähige Zwischenregelung."
+    ],
+    "negative": [
+      "Mein Kind braucht einen Platz an einer Berliner Grundschule.",
+      "Ich möchte als Student einen zusätzlichen Studienplatz einklagen.",
+      "Erstellen Sie eine Markenanmeldung."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41548.php",
+      "checked_on": "2026-10-01",
+      "supports": "Gleichheit, Zugang zu öffentlichen Ämtern und Freiheit von Wissenschaft, Forschung und Lehre.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-3-vom-322026-s-21-56.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Seit 04.02.2026 neue Berufungssatzung, mögliche Pilotübertragung, Angestellten- und Tandemstatus, hybride Promotion, Nachwuchsstruktur und LVVO-Anpassung.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2025/ausgabe-nr-3-vom-3112025-s-21-112.pdf",
+      "checked_on": "2026-10-01",
+      "supports": "Digitale Lehre, differenzierte Regeldeputate, Zuständigkeit und Anrechnung/Ermäßigung; Übergang bis Ende Wintersemester 2024/2025 für betroffene Fälle.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/wisszeitvg/__1.html",
+      "checked_on": "2026-10-01",
+      "supports": "Persönlicher Anwendungsbereich nimmt Hochschullehrerinnen und Hochschullehrer aus; unbefristete Beschäftigung und TzBfG bleiben im bezeichneten Rahmen möglich.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbnerfg/__42.html",
+      "checked_on": "2026-10-01",
+      "supports": "Besonderheiten der Hochschulerfindung, Offenbarungsanzeige, negative Publikationsfreiheit, verbleibendes Forschungsnutzungsrecht und Verwertungsvergütung.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "checked_on": "2026-10-01",
+      "supports": "Sicherungs- und Regelungsanordnung, Gerichtszuständigkeit, Glaubhaftmachung über ZPO-Verweisung und Abgrenzung zu §§ 80/80a.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vwvfg/__38.html",
+      "checked_on": "2026-10-01",
+      "supports": "Zusage und Zusicherung nicht gleichsetzen; anwendbares Berliner Verfahrensrecht vorschalten.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/beamtstg/__40.html",
+      "checked_on": "2026-10-01",
+      "supports": "Statusrechtlicher Einstieg in Nebentätigkeitsprüfung.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250930_1bvr114119.html",
+      "checked_on": "2026-10-01",
+      "supports": "Wissenschaftsrelevanz auch organisatorischer und haushaltsbezogener Entscheidungen; Gesamtgefüge von Beteiligung und Kontrolle; Schutz vor nicht unerheblichem wissenschaftsfremden Einfluss.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250625_1bvr036822.html",
+      "checked_on": "2026-10-01",
+      "supports": "§ 110 Absatz 6 Sätze 2 und 3 BerlHG in der geprüften Fassung nichtig; Wissenschaftsfreiheit erfasst wissenschaftsrelevante Personalentscheidungen; Sperrwirkung des bundesrechtlich abschließend geregelten Befristungsrechts.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bverwg.de/030221U2C4.19.0",
+      "checked_on": "2026-10-01",
+      "supports": "Wissenschaftliche Aufgaben und Krankenversorgung trennen. Keine aus Art. 5 Absatz 3 GG allein folgende Garantie jeder klinischen Leitungsfunktion; erforderliche wissenschaftliche Betätigung konkret prüfen.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bverwg.de/201016U2C30.15.0",
+      "checked_on": "2026-10-01",
+      "supports": "Beurteilungsspielraum im Hochschullehrerauswahlverfahren; sachlicher Publikationsstichtag; Primärrechtsschutz grundsätzlich unmittelbar im Anschluss an maßgebliche Konkurrentenmitteilung.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bverwg.de/260912U6CN1.11.0",
+      "checked_on": "2026-10-01",
+      "supports": "Wissenschaftsfreiheit und Koordination des notwendigen Lehrangebots; Vorrang kollegialer Selbstkoordination gegenüber einseitiger Zuweisung, bei deren Scheitern rechtmäßige Koordination möglich.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "url": "https://www.bverwg.de/de/170809B6B9.09.0",
+      "checked_on": "2026-10-01",
+      "supports": "Kein absoluter verfassungsrechtlicher Bestandsschutz von Berufungsvereinbarungen gegen gesetzliche Änderungen; Mindestfunktionsfähigkeit, sachlicher Grund, Vertrauensschutz und Übergang beachten.",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    }
+  ],
+  "cases": [
+    {
+      "id": "berufungszusage-umsetzen",
+      "target_skill": "professur-mandat-zum-ergebnis-fuehren",
+      "request": "Prüfen Sie Nela Ahrens Berufungszusage und fertigen Sie das freundliche bestimmte Umsetzungsschreiben. Die Hochschule bietet Zwischenräume an und beruft sich auf eine interne Budgetlage.",
+      "input_files": [
+        "testakten/berlin-professur-berufungszusage/01_Auftrag_Ahrens.docx",
+        "testakten/berlin-professur-berufungszusage/04_Schriftliche_Berufungszusage.docx",
+        "testakten/berlin-professur-berufungszusage/11_Mitteilung_Budget.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest Zusage und Änderungsmitteilung; trennt Einmalmittel, Jahresbudget, Teilzeitstelle und funktionale Raumzusage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfindet keinen allgemeinen Haushaltsvorbehalt; prüft tatsächlichen Text, zeitliche Reichweite und funktionsgerechte Alternative.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständiges Umsetzungsschreiben, fragt nur nach verbleibender entscheidender Lücke und behauptet keinen Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deputat-projekt-und-block",
+      "target_skill": "professur-lehre-deputat-und-pruefung",
+      "request": "Prüfen Sie Bergmanns Lehrplan und den offenen Ermäßigungsantrag. Fertigen Sie das nächste Schreiben mit nachvollziehbarer Rechnung aus der Akte.",
+      "input_files": [
+        "testakten/berlin-professur-lehrdeputat/01_Auftrag_Bergmann.docx",
+        "testakten/berlin-professur-lehrdeputat/04_Vorjahr_Bescheid.docx",
+        "testakten/berlin-professur-lehrdeputat/06_Lehrplanung_WS2026_27.xlsx",
+        "testakten/berlin-professur-lehrdeputat/07_Lehrkalender.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet den belegten Semesterkalender und die tatsächlichen Einheiten; unterscheidet Rechenwert von rechtlicher Anrechnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine automatische Reduktion durch Drittmittelprojekt; Vorjahresbescheid und aktueller Antrag nach Zeitraum trennen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begründeten Antrag oder Sachstandsschreiben und erhält die gesicherte Pflichtlehre; keine eigenmächtige Veranstaltungsabsage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "labor-nutzung-und-mittel",
+      "target_skill": "professur-forschungsfreiheit-und-ausstattung",
+      "request": "Prüfen Sie Lindens Raum- und Mittelentscheidung und entwerfen Sie eine sachliche Intervention vor dem Umzug mit praktikabler Zwischenlösung.",
+      "input_files": [
+        "testakten/berlin-professur-forschungslabor/01_Auftrag_Linden.docx",
+        "testakten/berlin-professur-forschungslabor/11_Protokoll_Raumkommission.docx",
+        "testakten/berlin-professur-forschungslabor/12_Dekan_Raum_und_Pool.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft den vollständigen Bedarf und technische Eignung einschließlich 48-Stunden-Messfenstern; unterscheidet Kommissionsempfehlung und Dekanatsentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt projektgebundene Mittel, allgemeine Sachmittel, wissenschaftliche Mindestfunktion und etwaige Zusagen; kein Eigentumsanspruch am Alt-Labor.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begrenzten ausformulierten Antrag mit Übergang und relevanten Belegen; prüft Eile ohne erfundene Frist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "konkurrentenmitteilung",
+      "target_skill": "professur-berufung-und-konkurrenz",
+      "request": "Die Auswahlmitteilung nennt die beschlossene Liste und Gründe. Die Ernennung könnte nächste Woche folgen. Formulieren Sie meinen nächsten Schritt; ich will nicht bis zur endgültigen Urkunde warten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Sichert Zugang und Vollzugsstand, prüft zeitnahen Primärrechtsschutz ohne pauschale Sechswochenfrist.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Beachtet begrenzte Kontrolle wissenschaftlicher Beurteilung und benennt konkrete mögliche Auswahlfehler.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Status, tatsächliche Berufungszuständigkeit und richtigen Gegner; liefert ein vollständiges Sicherungsschreiben bzw. erforderlichen Entwurf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pilot-berufungsrecht2026",
+      "target_skill": "professur-berufung-und-konkurrenz",
+      "request": "Das Präsidium behauptet, seit Februar 2026 entscheide jede Berliner Hochschule allein über Berufungen. Bitte prüfen Sie das für meinen Konkurrentenstreit.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt § 101 Absatz 1 als Ausgangspunkt und § 104 als mögliche konkrete befristete Übertragung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt Übertragungsakt und Laufzeit statt landesweiter Automatik; erfindet keine zwingende Form einer Rechtsverordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Überträgt die zehntägige organschaftliche Exzellenzberufungsfrist nicht auf individuellen Konkurrentenrechtsschutz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "angestellte-professur",
+      "target_skill": "professur-status-und-dienstpflichten",
+      "request": "Mein unbefristeter Arbeitsvertrag nennt W2-Professur. Die Aufgaben sollen geändert werden. Bitte schreiben Sie den passenden Statusvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Schließt nicht von W2 oder Titel auf Beamtenstatus; prüft privatrechtlichen Vertrag und tatsächliche Tarifgeltung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet nicht pauschal WissZeitVG-Befristung auf die Professur an und kennt § 102 Absatz 5 seit 2026.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Beschäftigungsstatus, konkrete Aufgaben und Wissenschaftsfreiheit sowie Verwaltungs-/Arbeitsrechtsweg.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zusage-keine-jede-zusicherung",
+      "target_skill": "professur-rufverhandlung-und-zusagen",
+      "request": "Die Dekanin schrieb, das Präsidium werde voraussichtlich zwei Stellen bewilligen. Die unterschriebene Vereinbarung nennt nur Sachmittel. Bitte entwerfen Sie meine Rückfrage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft objektiven Erklärungswert, Zuständigkeit, Form und Anlagen, ohne verbindliche Stellenzusage zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Zusage, §-38-Zusicherung und öffentlich-rechtlichen Vertrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begrenzte ausformulierte Klärungsanfrage mit Fortsetzung anhand der Antwort.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gremien2025-berlin-transfer",
+      "target_skill": "professur-gremien-und-befangenheit",
+      "request": "In unserem Berliner Fakultätsrat wirken mehrere Statusgruppen an einer Laborverteilung mit. Prüfen Sie meine Beteiligungsrechte anhand der konkreten Grundordnung und formulieren Sie einen sachlichen Antrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt individuelles Ausstattungsrecht von Organ-/Mitgliedsrecht und liest die konkrete Ordnung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet 1 BvR 1141/19 nur als verfassungsrechtlichen Maßstab an; keine automatische Unwirksamkeit Berliner Gremien.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft wissenschaftliche Relevanz, Gesamtgefüge, Besetzung und Interessenkonflikt, nicht nur eine abstrakte Mehrheitszahl.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drittmittel-publikationsklausel",
+      "target_skill": "professur-drittmittel-daten-ip-ethik",
+      "request": "Unser Unternehmenspartner verlangt unbefristete Zustimmung vor jedem Aufsatz und alle pseudonymisierten Datensätze. Bitte liefern Sie eine konkrete Vertragsänderung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Publikationsfreiheit, Schutzrechtsprüfung, Datenschutz und institutionelle Vertretungsmacht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt Pseudonymisierung nicht als Anonymisierung und Art. 89 DSGVO nicht als universelle Erlaubnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständige begrenzte Prüf-/Aufschubklausel ohne unbegrenztes Ergebnisveto und ohne eigenmächtige Datenübermittlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachwuchs-alt-und-neu",
+      "target_skill": "professur-promotion-und-nachwuchs",
+      "request": "Für eine neue Lecturer-Stelle im Jahr 2026 soll eine Anschlusszusage geprüft werden. Ein Kollege sagt, das Bundesverfassungsgericht habe jede solche Zusage verboten.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt nichtigen alten § 110 Absatz 6 Sätze 2/3 von der neuen Kategorie § 110a und individueller vertraglicher Bindung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft vorab definierte Kriterien, Evaluation, aktuelle Satzung und Vertretungszuständigkeit; keine allgemeine Postdoc-Dauerstellenautomatik.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkrete Personalvorlage statt pauschaler Entfristung oder pauschalem Verbot.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hybride-promotion",
+      "target_skill": "professur-promotion-und-nachwuchs",
+      "request": "Ich soll an einer Berliner Kunsthochschule eine hybride Promotion betreuen. Bitte entwerfen Sie die Betreuungsregelung anhand der örtlichen Unterlagen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 35a, verliehenes Promotionsrecht und besonderes strukturiertes Programm; § 35 nicht ungeprüft anwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt künstlerische und wissenschaftliche Betreuung, Prüfungszuständigkeit, Beschäftigung und Finanzierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ausformulierte Vereinbarung ohne Noten-/Abschlussgarantie.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nebentaetigkeit-keine-pauschalgenehmigung",
+      "target_skill": "professur-nebentaetigkeit-und-publikation",
+      "request": "Ich bin angestellte Professorin und plane bezahlte Fachberatung. Bitte prüfen Sie den Vertrag und erstellen Sie die erforderliche Anzeige; Hochschuldaten nutze ich nicht.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Beschäftigtenregime und Vertrag, statt BeamtStG allein aus Titel anzuwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfasst Umfang, Vergütung und tatsächlich vorgesehene Ressourcen; klärt erforderliche Anzeige oder Genehmigung konkret.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt vollständige Anzeige und behauptet keine externe Genehmigung oder Vertragsannahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verfahren-eile-kein-einheitsweg",
+      "target_skill": "professur-konflikt-verfahren-und-eilrechtsschutz",
+      "request": "Die Hochschule nennt ihre Raumumstellung eine interne Weisung. Mein schriftlicher Antrag blieb unbeantwortet; nächste Woche sollen Geräte versetzt werden. Bitte fertigen Sie den rechtlich passenden Entwurf.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Rechtsakt und Streitgegenstand ein; keine automatische Anfechtung jedes Briefes.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Grenzt §§ 80/80a und § 123 VwGO ab, benennt konkreten Eilgrund und glaubhaftmachbare Tatsachen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert bestimmten verhältnismäßigen Antrag, prüft Gegner und Eingang; Aufsichtsbeschwerde nicht als sicheren Fristenersatz behandeln.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-werkstatt.md",
+      "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-schnellstart.md",
+      "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-hauptproblem.md"
+    ],
+    "opening_change": "Vorhandene professorale Akte lesen, konkretes Produkt erstellen, nur entscheidende Lücken nachfragen.",
+    "norms": [
+      "Art. 21 VvB; Art. 5 Absatz 3 und 33 Absatz 2 GG",
+      "BerlHG-Reform vom 21.01.2026, GVBl. S. 23–29, seit 04.02.2026",
+      "LVVO-Novelle vom 13.01.2025, GVBl. S. 47–50, mit Änderung 2026",
+      "§ 1 WissZeitVG; § 42 ArbnErfG; § 123 VwGO"
+    ],
+    "decisions": [
+      {
+        "key": "gremien2025",
+        "citation": "BVerfG, Beschluss vom 30.09.2025 – 1 BvR 1141/19",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rs20250930_1bvr114119.html",
+        "passages": "Rn. 77–85 und 110–120; Kopf und Entscheidungsform",
+        "application": "Wissenschaftsrelevanz auch organisatorischer und haushaltsbezogener Entscheidungen; Gesamtgefüge von Beteiligung und Kontrolle; Schutz vor nicht unerheblichem wissenschaftsfremden Einfluss.",
+        "limit": "Thüringer Hochschulgesetz. Keine automatische Ungültigkeit Berliner Gremien, kein Ausschluss jeder technischen oder administrativen Mitwirkung. Die thüringische Übergangsregel wird nicht auf Berlin übertragen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "nachwuchs2025",
+        "citation": "BVerfG, Beschluss vom 25.06.2025 – 1 BvR 368/22",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/06/rs20250625_1bvr036822.html",
+        "passages": "Tenor; Rn. 1–4, 20–24 und 34–55",
+        "application": "§ 110 Absatz 6 Sätze 2 und 3 BerlHG in der geprüften Fassung nichtig; Wissenschaftsfreiheit erfasst wissenschaftsrelevante Personalentscheidungen; Sperrwirkung des bundesrechtlich abschließend geregelten Befristungsrechts.",
+        "limit": "Nicht der ganze § 110, nicht jeder individuelle Vertrag und nicht die neu geschaffene Stellenstruktur § 110a BerlHG 2026. Keine automatische Vernichtung vertraglicher Zusagen. Hochschullehrende sind vom persönlichen Anwendungsbereich des § 1 Absatz 1 WissZeitVG ausgenommen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "klinik2021",
+        "citation": "BVerwG, Urteil vom 03.02.2021 – 2 C 4.19",
+        "url": "https://www.bverwg.de/030221U2C4.19.0",
+        "passages": "Leitsatz; Rn. 15–22",
+        "application": "Wissenschaftliche Aufgaben und Krankenversorgung trennen. Keine aus Art. 5 Absatz 3 GG allein folgende Garantie jeder klinischen Leitungsfunktion; erforderliche wissenschaftliche Betätigung konkret prüfen.",
+        "limit": "Hessischer Klinikfall; Sonderrecht der Charité oder Berliner Veterinärmedizin gesondert prüfen. Nicht pauschal auf reine Forschungslabore oder konkrete vertragliche Leistungsansprüche übertragen.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "berufung2016",
+        "citation": "BVerwG, Urteil vom 20.10.2016 – 2 C 30.15",
+        "url": "https://www.bverwg.de/201016U2C30.15.0",
+        "passages": "Leitsätze; Rn. 18–30",
+        "application": "Beurteilungsspielraum im Hochschullehrerauswahlverfahren; sachlicher Publikationsstichtag; Primärrechtsschutz grundsätzlich unmittelbar im Anschluss an maßgebliche Konkurrentenmitteilung.",
+        "limit": "NRW-Fall mit eigenem Organ- und Vorverfahrensrecht. Keine Berliner Zuständigkeitsregel und keine feste universelle Wartefrist; keine automatische Ernennung oder Schadensersatzzusage.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "lehre2012",
+        "citation": "BVerwG, Urteil vom 26.09.2012 – 6 CN 1.11",
+        "url": "https://www.bverwg.de/260912U6CN1.11.0",
+        "passages": "Rn. 20–29",
+        "application": "Wissenschaftsfreiheit und Koordination des notwendigen Lehrangebots; Vorrang kollegialer Selbstkoordination gegenüber einseitiger Zuweisung, bei deren Scheitern rechtmäßige Koordination möglich.",
+        "limit": "Schleswig-holsteinische Verordnung. Keine Übertragung dortiger Deputatshöhen oder Ermäßigungstatbestände nach Berlin; keine automatische Lehrbefreiung durch Forschungsaufgaben.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      },
+      {
+        "key": "zusage2009",
+        "citation": "BVerwG, Beschluss vom 17.08.2009 – 6 B 9.09",
+        "url": "https://www.bverwg.de/de/170809B6B9.09.0",
+        "passages": "Leitsatz; Rn. 3–8",
+        "application": "Kein absoluter verfassungsrechtlicher Bestandsschutz von Berufungsvereinbarungen gegen gesetzliche Änderungen; Mindestfunktionsfähigkeit, sachlicher Grund, Vertrauensschutz und Übergang beachten.",
+        "limit": "Nichtzulassungsbeschwerde aus einem brandenburgischen Altzusagenfall. Dessen gesetzliche Befristung ist keine Berliner Frist. Die Entscheidung legitimiert keine beliebige Kürzung durch Verwaltung oder bloßen Haushaltsbrief.",
+        "checked_on": "2026-10-01",
+        "verification_status": "frisch_amtliche_entscheidungspassagen"
+      }
+    ],
+    "remaining_limits": [
+      "Keine vollständige lückenlose Rechtsprechungsrecherche oder Vollständigkeitsgarantie.",
+      "BerlHG-/LVVO-Portalrahmen wegen JavaScript/Abruffehler nicht als konsolidierte Volltexte gelesen.",
+      "Örtliche Satzungen, Berufungsrechtsübertragungen, Tarifbindung und Folgerecht im konkreten Mandat erneut prüfen.",
+      "Kein Kommentar oder Aufsatz aus Modellwissen als überprüfte Literatur zitiert.",
+      "Redaktionelle Deskprüfung und geplante Evaluationsfälle; keine beobachteten Modellläufe."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bekannte Zusage konkret umsetzen.",
+      "Lehrplan und aktuellen Ermäßigungsstand rechnen.",
+      "Laborbedarf mit Alternativen und Vollzug vergleichen.",
+      "Antwort im bestehenden Entwurf verarbeiten."
+    ],
+    "continuation": "Zweckbezogene Fragen, unabhängige Teile fortführen, neue Angaben in das bestellte Dokument einarbeiten.",
+    "enrichment": "Eigenständige Workflows für Auswahl, Zusagen, Status, Forschung, Lehre, Gremien, Drittmittel, Nachwuchs, Nebentätigkeit und Verfahren.",
+    "limits": "Keine Schulzulassung, pauschale Verbeamtung, automatische Deputatsreduktion, erfundene Einreichung oder universelle Rechtsbehelfsfrist."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern.",
+    "changes": [
+      "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
+      "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
+      "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+    ],
+    "sha256": "80086bc3a9dddf69a2364a7d000060a0b7e178fc3d37b25bbcadad6eee7fb969"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Neues fachlich eigenständiges Plugin mit Berlin- und Professorenperspektive sowie überprüften Primärankern.",
+    "changes": [
+      "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
+      "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
+      "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+    ],
+    "sha256": "62bba69ba6a4824d8d6248e6f2002e435e914d033b8d3a5351b06aec3ed95ebd"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Übergreifendes Hauptproblem wird anhand der vorhandenen Akte fachlich geroutet und bis zum Produkt fortgeführt.",
+    "changes": [
+      "Zehn Fachrouten integriert.",
+      "Konkrete Zuständigkeit, Frist und Beleglage statt Einheitsablauf.",
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
+      "Hauptskill verwendet mitgelieferte Fachreferenzen; keine Abhängigkeit von getrennt herunterladbarer Werkstatt."
+    ],
+    "method": "desk_review",
+    "reviewed_on": "2026-10-02",
+    "prompt_path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-hauptproblem.md",
+    "skill_path": "berliner-hochschulrecht-professoren/skills/professur-mandat-zum-ergebnis-fuehren/SKILL.md",
+    "prompt_sha256": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149",
+    "skill_sha256": "e100ca41ee98e3613ea56089af70925a00bc8667ab8891c7c79cada98f4e2322"
+  }
+}

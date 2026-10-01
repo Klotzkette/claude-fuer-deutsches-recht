@@ -1,0 +1,18 @@
+name: Schulplatz in der siebten Klasse
+plugin: berliner-schulrecht-eltern-schueler
+stand: '2026-10-02'
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der Bestand enthält 18 eigenständige native Unterlagen.
+  min: 18
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die Originaldateien.
+  path: gesamt-pdf/berlin-schulplatz-siebte-klasse_gesamt.pdf
+offene_pruefkriterien:
+- Wird der konkrete Übergangsjahrgang und die Schulart für die Auswahlregel festgestellt?
+- Werden Anmeldung, fristgerechte Nachweise und spätere Nachreichung anhand der Originalbelege
+  unterschieden?
+- Entsteht ein passender Rechtsbehelf ohne Erfolgsgarantie oder erfundenen freien
+  Platz?

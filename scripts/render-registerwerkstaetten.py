@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lesefassungen der vier Registerwerkstätten: TNR 11, native Office-Ausgabe, QA-PNGs."""
+"""Lesefassungen kuratierter Werkstätten: TNR 11, native Office-Ausgabe, QA-PNGs."""
 from pathlib import Path
 import argparse,hashlib,importlib.util,json,re,subprocess,sys,io,zipfile
 from datetime import datetime,timezone
@@ -14,7 +14,7 @@ ROOT=Path(__file__).resolve().parents[1]
 spec=importlib.util.spec_from_file_location('workshop_base',ROOT/'scripts/render-startup-gruender-werkstatt.py');base=importlib.util.module_from_spec(spec);spec.loader.exec_module(base)
 DATE=datetime(2026,10,1,9,tzinfo=timezone.utc)
 def clean(s):return re.sub(r'\*\*([^*]+)\*\*|`([^`]+)`',lambda m:m[1] or m[2],s)
-def build(text,target,title):
+def build(text,target,title,author='Registerwerkstätten'):
  d=Document();s=d.sections[0];s.page_width=Cm(21);s.page_height=Cm(29.7)
  s.left_margin=s.right_margin=Cm(2.4);s.top_margin=s.bottom_margin=Cm(2.2);s.header_distance=s.footer_distance=Cm(1.2)
  for name,size in [('Normal',11),('Title',20),('Heading 1',14),('Heading 2',12),('Heading 3',11)]:
@@ -27,7 +27,7 @@ def build(text,target,title):
   for key in list(node.attrib):
    if 'theme' in key.lower():del node.attrib[key]
   node.set(qn('w:ascii'),'Times New Roman');node.set(qn('w:hAnsi'),'Times New Roman')
- d.core_properties.title=title;d.core_properties.author='Registerwerkstätten';d.core_properties.created=d.core_properties.modified=DATE
+ d.core_properties.title=title;d.core_properties.author=author;d.core_properties.created=d.core_properties.modified=DATE
  lines=text.splitlines();i=0;headings=0
  while i<len(lines):
   line=lines[i].strip()
@@ -65,7 +65,7 @@ def build(text,target,title):
  return headings
 
 def main():
- p=argparse.ArgumentParser();p.add_argument('plugins',nargs='+');p.add_argument('--qa-dir',type=Path,required=True);p.add_argument('--renderer',type=Path,required=True);a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument('plugins',nargs='+');p.add_argument('--qa-dir',type=Path,required=True);p.add_argument('--renderer',type=Path,required=True);p.add_argument('--author',default='Registerwerkstätten');a=p.parse_args()
  runtime=Path(sys.executable).resolve().parents[3]
  for slug in a.plugins:
   source=ROOT/slug/f'{slug}-werkstatt.md';text=source.read_text();title=source.read_text().splitlines()[0].lstrip('# ')
@@ -76,14 +76,14 @@ def main():
    return '['+label+'](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'+quote(path.as_posix(),safe='/')+')'
   text=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',absolute_link,text)
   out=ROOT/slug/'assets';out.mkdir(exist_ok=True);qa=a.qa_dir/slug;qa.mkdir(parents=True,exist_ok=True);render=qa/'render';render.mkdir(exist_ok=True)
-  docx=out/f'{slug}-werkstatt.docx';headings=build(text,docx,title);digest=hashlib.sha256(source.read_bytes()).hexdigest()
+  docx=out/f'{slug}-werkstatt.docx';headings=build(text,docx,title,a.author);digest=hashlib.sha256(source.read_bytes()).hexdigest()
   for obsolete in render.glob('page-*.png'):obsolete.unlink()
   env=base.renderer_environment(qa,runtime)
   result=subprocess.run([sys.executable,str(a.renderer),str(docx),'--output_dir',str(render),'--emit_pdf','--dpi','100'],env=env,capture_output=True,text=True,timeout=300)
   (qa/'render.log').write_text(result.stdout+result.stderr)
   if result.returncode:raise RuntimeError((result.stdout+result.stderr)[-4000:])
   raw=render/f'{slug}-werkstatt.pdf';reader=PdfReader(raw);writer=PdfWriter();writer.clone_document_from_reader(reader)
-  writer.add_metadata({'/Title':title,'/Author':'Registerwerkstätten','/CreationDate':'D:20261001090000Z','/ModDate':'D:20261001090000Z'})
+  writer.add_metadata({'/Title':title,'/Author':a.author,'/CreationDate':'D:20261001090000Z','/ModDate':'D:20261001090000Z'})
   if '/Metadata' in writer._root_object:del writer._root_object[NameObject('/Metadata')]
   token=bytes.fromhex(digest[:32]);writer._ID=ArrayObject([ByteStringObject(token),ByteStringObject(token)])
   target=out/f'{slug}-werkstatt.pdf'
