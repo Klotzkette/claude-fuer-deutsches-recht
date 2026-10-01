@@ -1,3 +1,21 @@
+# v445.23.0 - Eigenbedarfskündigungen für beide Mietparteien prüfen
+
+## 1. Zehn konkrete Arbeitswege
+
+Neues Paket `eigenbedarfskuendigungschecker` mit Hauptskill und neun fachlichen Vertiefungen. Vermieterstellung, Bedarfsperson, tatsächlicher Nutzungswunsch, freie Alternativwohnungen, Form und Zugang, Vertragsbindung, Umwandlungsschutz, Härte, Bedarfswegfall und Einigung führen zum beauftragten Schreiben. Vorhandene Unterlagen werden zuerst gelesen; Nachträge führen nicht zu einer erneuten Vollaufnahme.
+
+## 2. Eigenständige Prompts und aktuelle Entscheidungsgrenzen
+
+Ausführliche Werkstatt und kompakter Schnellstart mit Normen, konkreten Verzweigungen und sieben begrenzten BGH-Ankern. Insbesondere die Entscheidungen vom 21.01.2026, 23.06.2026 und 01.09.2026 zu Familiengesellschaft, Alternativwohnung sowie Gesundheitsfolgen und Ersatzwohnungssuche sind berücksichtigt. Quellenstatus bleibt transparent. Die aktuelle Textform des Härtewiderspruchs wird von der Kündigungsschriftform getrennt.
+
+## 3. Zwei vollständige Belegakten
+
+Berlin: Überlassung, Umwandlung und Eigentumsvollzug mit Familienkorrespondenz. Regensburg: Rückkehr des Sohnes, ärztliche Beobachtung, Wohnungssuche und Ersatzwohnungsangebot. Je zwölf eigenständige Unterlagen in DOCX, EML, CSV und TXT, dazu Gesamt-PDF und flache ZIP-Varianten ohne Musterlösung. Warnhinweise stehen an den Downloads und in den ZIP-Readmes, nicht in den PDFs.
+
+## 4. Prüfung, Navigation und Release-Reparatur
+
+Individuelle Bewertungsszenarien für alle zehn Skills und Regressionen für Paket, Quellenunterscheidung, Aktenbestand, E-Mail-Header und Beträge. Redaktionelle Prüfungen werden nicht als beobachtete Modellläufe ausgegeben. Marketplace und Register ergänzt. Der Gründer-Schnellstart erreicht mit einem konkreten Fortsetzungshinweis wieder seine ausdrücklich verlangten 7500 Zeichen; Markdown, Textfassung und Prüfsumme stimmen überein.
+
 # v445.22.0 - Mietchecker für beide Mietparteien
 
 ## 1. Zehn aufeinander abgestimmte Arbeitswege

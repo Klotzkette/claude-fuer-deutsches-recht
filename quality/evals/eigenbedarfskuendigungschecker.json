@@ -1,0 +1,427 @@
+{
+  "schema_version": 1,
+  "plugin": "eigenbedarfskuendigungschecker",
+  "reviewed_on": "2026-10-01",
+  "sources": [
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE616382026&psml=bsjrsprod.psml&max=true",
+      "checked_on": "2026-10-01",
+      "supports": "Gesundheitsfolgen, Prognosebeweis und Wohnungssuche. Amtlicher Volltext gelesen."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE600892026&psml=bsjrsprod.psml&max=true",
+      "checked_on": "2026-10-01",
+      "supports": "Alternative für eigene Nutzung und Anbietpflicht trennen. Amtlicher Volltext gelesen."
+    },
+    {
+      "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE701642026&psml=bsjrsprod.psml&max=true",
+      "checked_on": "2026-10-01",
+      "supports": "Familien-GbR und Umwandlungssperrfrist. Amtliche Leitsätze geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__574b.html",
+      "checked_on": "2026-10-01",
+      "supports": "Aktuelle Textform und Widerspruchsfrist."
+    }
+  ],
+  "selection": {
+    "target_skill": "eigenbedarf-pruefen-und-klaeren",
+    "positive": [
+      "Prüfe meine Eigenbedarfskündigung und schreibe eine sachliche Antwort.",
+      "Wir möchten die Wohnung für unseren Sohn nutzen und brauchen einen geprüften Entwurf."
+    ],
+    "negative": [
+      "Rechne die Heizkostenabrechnung nach.",
+      "Vergleiche nur die Miethöhe mit dem örtlichen Mietspiegel."
+    ]
+  },
+  "cases": [
+    {
+      "id": "auftrag",
+      "target_skill": "eigenbedarf-pruefen-und-klaeren",
+      "request": "Wir haben Vertrag und Kündigung bereitgestellt und brauchen eine sachliche Antwort für die Mieter. Frage nicht erneut nach Angaben, die bereits im Brief stehen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest zuerst die Unterlagen und erfragt nur entscheidende Lücken.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Form und Frist vor einer endgültigen Aussage und trennt Härte von Wirksamkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert den verlangten Brief und einen nächsten Schritt ohne automatischen Versand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cousin",
+      "target_skill": "vermieter-und-bedarfsperson-pruefen",
+      "request": "Meine Cousine ist wie eine Schwester für mich, sie wohnt aber nicht in meinem Haushalt. Bitte schreibe deshalb eine Eigenbedarfskündigung zugunsten meiner Cousine.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Privilegiert die Cousine nicht allein wegen Nähe nach VIII ZR 276/23.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfindet keine Haushaltszugehörigkeit oder andere Beziehung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begründete Rückmeldung statt freigegebener Kündigung auf falscher Grundlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alternative",
+      "target_skill": "nutzungswunsch-und-alternativen-pruefen",
+      "request": "Im selben Haus wird eine passende Wohnung frei. Der Sohn könnte ohne wesentliche Abstriche dort wohnen, aber der Vermieter möchte trotzdem die andere Wohnung kündigen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Missbrauch wegen einer Alternative für die Bedarfsperson nach VIII ZR 237/25.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt die Anbietpflicht gegenüber dem Mieter und deren Schadensfolgen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verlangt konkrete Vergleichsdaten und behauptet weder stets Wirksamkeit noch stets Unwirksamkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scan",
+      "target_skill": "kuendigung-form-und-zugang-pruefen",
+      "request": "Der Vermieter hat mir nur einen unterschriebenen Scan per normaler E-Mail geschickt. Das Original wurde weder übergeben noch zugestellt. Kann ich von diesem Datum an rechnen?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt Schriftformproblem nach Paragraf 568 BGB.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Setzt die normale E-Mail nicht einer qualifiziert elektronisch signierten Erklärung gleich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft tatsächliche Erklärung und mögliche spätere Originalzustellung statt ungeprüften Endtermin zu nennen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fristen",
+      "target_skill": "kuendigungsfristen-und-vertragsschutz-pruefen",
+      "request": "Überlassung war am 1. September 2013. Die formgerechte Kündigung ging am 29. September 2026 zu. Sonstige Schutzabreden fehlen. Bitte prüfe den genannten Termin 30. Juni 2027.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet die Vermieterfrist nach mehr als acht Jahren an.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Zählt September wegen Überschreitung des dritten Werktags nicht als ersten Monat und bestätigt vorbehaltlich weiterer Voraussetzungen Ende Juni 2027.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Führt Widerspruch und etwaige Sperrfrist gesondert und erklärt nicht allein durch Fristrechnung die Kündigung wirksam.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "familiengesellschaft",
+      "target_skill": "umwandlung-und-sperrfrist-pruefen",
+      "request": "Die Wohnung wurde erst nach dem Einzug umgewandelt und dann in eine Familien-GbR eingebracht. Der Eigentümer meint, deshalb greife überhaupt keine Sperrfrist.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Absatz 1 anhand Überlassung, Umwandlung und Eigentumsvollzug.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Überträgt Familienausnahme des Absatzes 1a nicht auf Absatz 1 und nennt VIII ZR 247/24.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verifiziert örtliche Verordnung und macht keine ungeprüfte Aussage über die heutige Eigenbedarfsfähigkeit jeder GbR.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesundheit",
+      "target_skill": "haerte-und-ersatzwohnung-pruefen",
+      "request": "Der Arzt beschreibt erhebliche Gesundheitsgefahren bei einem Umzug, hält einen gut vorbereiteten Wechsel aber nicht für völlig unmöglich. Reicht das schon, um jede Härte abzulehnen?",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt keine vollständige Umzugsunfähigkeit als zwingende Voraussetzung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Tatsachen des behandelnden Arztes und prognostischen Sachverständigenbeweis nach VIII ZR 16/26.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Abhilfe und konkrete Wohnungssuche sowie Vermieterinteressen ohne automatische Dauerfortsetzung. Beachtet den Ausschluss bei tatsächlich bestehendem fristlosem Kündigungsgrund nach Paragraf 574 Absatz 1 Satz 2 BGB; ein Vorwurf genügt nicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "textform",
+      "target_skill": "widerspruch-und-fortsetzung-formulieren",
+      "request": "Für das aktuelle Mietverhältnis habe ich rechtzeitig per E-Mail mit meinem Namen konkrete Härtegründe und Fortsetzung verlangt. Der Vermieter sagt, ohne Originalunterschrift sei das immer unwirksam.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft aktuelle Textform nach Paragraf 574b BGB und verwechselt sie nicht mit Kündigungsschriftform.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Inhalt, erkennbaren Erklärenden und nachweisbaren rechtzeitigen Zugang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert sachliche Antwort und behandelt gerichtliche Fristen gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leerstand",
+      "target_skill": "bedarfswegfall-und-nachweise-pruefen",
+      "request": "Nach unserem Auszug steht die Wohnung leer. Ein Nachbar sagt, die Tochter habe eine andere Stelle angenommen. Bitte verlange sofort alle Umzugskosten, denn damit sei Betrug bewiesen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt ursprünglichen Bedarf, Planänderung, Kenntnis und Kündigungsfristende.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt Leerstand nicht als alleinigen Täuschungsbeweis und behauptet keine pauschale Beweislastumkehr.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert zunächst belegbezogene Anfrage und prüft Schäden einzeln statt strafrechtlicher Drohung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "einigung",
+      "target_skill": "einigung-und-raeumungsuebergang-gestalten",
+      "request": "Beide Seiten möchten über sechs weitere Monate und einen Zuschuss zum Umzug reden. Noch soll kein Auszug fest zugesagt und kein Anspruch erlassen werden. Formuliere ein Gesprächsangebot.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erstellt unverbindliches Gesprächsangebot und keine Aufhebungsvereinbarung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine Generalquittung, kein Anerkenntnis und keine automatische Aufgabe unbekannter Ansprüche.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Nennt offene Kosten- und Terminpunkte, wahrt Fristen und sendet nichts selbst.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "files": [
+      "eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md",
+      "eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-schnellstart.md"
+    ],
+    "opening_change": "Konkreter Wohnbedarf und Kündigungsschutz mit anschließender Dokumentenproduktion statt allgemeinem Aktenbericht.",
+    "norms": [
+      "Paragrafen 568 und 573 BGB",
+      "Paragrafen 573c und 574 bis 574b BGB",
+      "Paragraf 577a BGB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 01.09.2026, VIII ZR 16/26",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE616382026&psml=bsjrsprod.psml&max=true",
+        "application": "Gesundheitsfolgen, Prognosebeweis und Wohnungssuche. Amtlicher Volltext gelesen.",
+        "limit": "Keine automatische dauerhafte Fortsetzung."
+      },
+      {
+        "citation": "BGH, Beschluss vom 23.06.2026, VIII ZR 237/25",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=jb-KORE600892026&psml=bsjrsprod.psml&max=true",
+        "application": "Alternative für eigene Nutzung und Anbietpflicht trennen. Amtlicher Volltext gelesen.",
+        "limit": "Keine schematische Pflicht zur Nutzung jeder anderen Wohnung."
+      },
+      {
+        "citation": "BGH, Urteil vom 21.01.2026, VIII ZR 247/24",
+        "url": "https://www.rechtsprechung-im-internet.de/jportal/?quelle=jlink&docid=KORE701642026&psml=bsjrsprod.psml&max=true",
+        "application": "Familien-GbR und Umwandlungssperrfrist. Amtliche Leitsätze geprüft.",
+        "limit": "Familienausnahme aus Absatz 1a nicht auf Absatz 1 übertragen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarien sind keine beobachteten Modellläufe.",
+      "Weitere amtliche BGH-Leitsätze dienen begrenzt als Anker, keine ungelesenen Randnummern.",
+      "Örtliches Recht und historische Fassung sind bei jedem neuen Stichtag erneut zu prüfen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-01",
+    "method": "desk_review",
+    "opening_modes": [
+      "Kündigung und Vertrag direkt prüfen.",
+      "Ohne Auftrag Rolle und gewünschtes Schreiben klären.",
+      "Bei gerichtlicher Post Zustellung und Fristen vorziehen."
+    ],
+    "continuation": "Neue Grundbuchdaten, Atteste oder Einzugspläne ändern nur betroffene Feststellungen und Entwürfe.",
+    "enrichment": "Eigenständige Wege für Bedarf, Form, Sperrfrist, Härte, Wegfall und Einigung mit beiden Perspektiven.",
+    "limits": "Kein automatischer Versand, Auszug, Verzicht oder medizinischer Befund."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
+    "changes": [
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+    ],
+    "sha256": "a4938b05862e3f409534359aff6163c2ec0354637567aeee17c05430431ab373"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
+    "changes": [
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+    ],
+    "sha256": "0fade5b70f5de776152d13b392323dc2f7b56d90f29cfb81d2ebfac5701bf350"
+  }
+}

@@ -1,6 +1,6 @@
 # deutsche-rechtsgeschichte
 
-**206 Skills** · Stand `v445.22.0`
+**206 Skills** · Stand `v445.23.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../deutsche-rechtsgeschichte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

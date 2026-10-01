@@ -37,8 +37,8 @@ Die [Aktenübersicht Wolkenfels](../testakten/steuer-grundsteuer-wolkenfels-berl
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte lesen](../testakten/steuer-grundsteuer-wolkenfels-berlin/gesamt-pdf/steuer-grundsteuer-wolkenfels-berlin_gesamt.pdf) |
-| Originaldateien | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
-| Einzel-PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-steuer-grundsteuer-wolkenfels-berlin-einzelpdfs.zip) |
+| Originaldateien | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-steuer-grundsteuer-wolkenfels-berlin.zip) |
+| Einzel-PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-steuer-grundsteuer-wolkenfels-berlin-einzelpdfs.zip) |
 
 English: Both entry points use the same case. The two supplied PDFs are unchanged; additional correspondence remains separate. ZIP files contain no subfolders or Markdown documents.
 

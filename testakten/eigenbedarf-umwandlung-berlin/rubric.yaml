@@ -1,0 +1,18 @@
+name: eigenbedarf-umwandlung-berlin
+plugin: eigenbedarfskuendigungschecker
+description: Eigentumsfolge, Kündigung und Korrespondenz zu einer Berliner Wohnung.
+checks:
+  - id: vertrag
+    check_type: file_exists
+    description: Mietvertrag als eigenständiges Dokument.
+    path: 01_mietvertrag.docx
+  - id: vollzug
+    check_type: file_exists
+    description: Eigentumsdaten aus einer zeitnahen Mitteilung.
+    path: 03_vollzugsmitteilung.docx
+  - id: neutralitaet
+    check_type: human_review
+    description: Aktenstücke enthalten Vorgänge und Parteiaussagen ohne vorgegebene Lösung.
+  - id: konsistenz
+    check_type: human_review
+    description: Daten, Personen und Beträge stimmen zwischen den Unterlagen überein.

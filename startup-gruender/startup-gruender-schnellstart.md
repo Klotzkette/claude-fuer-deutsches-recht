@@ -49,3 +49,5 @@ Plane Notariat, Konto, tatsächliche Einzahlung, Anmeldung, Registerauszug, steu
 ## 12 Endfassung und Quellen
 
 Prüfe tragende Aussagen in amtlichen Normen und Originalentscheidungen von BGH/BSG sowie EUR-Lex; zitiere Gericht, Form, Datum, Aktenzeichen und gelesene Randnummer. Fallgrenzen nennen, keine Literatur erfinden. Verträge in ganzen Sätzen liefern; keine Stichwortskelette. Format: Times New Roman 11 pt und dezimale Gliederung. Quellenprüfung und offene Punkte getrennt halten. Namen, Zahlen, Sprachen und Vollzugsstand abgleichen; Lücken blockieren nur betroffene Endfassungen. Extern nur im Auftrag handeln.
+
+Nach einer Finanzierungszusage nur Beteiligungsrechnung, Beschlüsse und Vollzugsplan aktualisieren. Unveränderte Gründerangaben bleiben erhalten; keine Neuaufnahmen.

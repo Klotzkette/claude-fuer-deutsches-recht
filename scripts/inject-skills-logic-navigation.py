@@ -121,6 +121,12 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "eigenbedarfskuendigungschecker": [
+        ("1. Auftrag und Wohnbedarf", ["eigenbedarf-pruefen-und-klaeren", "vermieter-und-bedarfsperson-pruefen", "nutzungswunsch-und-alternativen-pruefen"]),
+        ("2. Erklärung und Kündigungsschutz", ["kuendigung-form-und-zugang-pruefen", "kuendigungsfristen-und-vertragsschutz-pruefen", "umwandlung-und-sperrfrist-pruefen"]),
+        ("3. Härte und Fortsetzung", ["haerte-und-ersatzwohnung-pruefen", "widerspruch-und-fortsetzung-formulieren"]),
+        ("4. Änderungen und Verständigung", ["bedarfswegfall-und-nachweise-pruefen", "einigung-und-raeumungsuebergang-gestalten"]),
+    ],
     "mietchecker": [
         ("1. Wohnung und Prüfweg", ["miete-pruefen-und-klaeren", "mietrecht-vor-ort-bestimmen", "wohnflaeche-und-mietbestandteile-klaeren"]),
         ("2. Örtliche Vergleichsmiete", ["berliner-vergleichsmiete-berechnen", "regensburger-vergleichsmiete-berechnen"]),

@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf`](gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -56,4 +56,4 @@ Die Akte eignet sich besonders für `schulrecht-laender`, `fachanwalt-verwaltung
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 - Gesamt-PDF: [`gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf`](./gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf)
-- Akten-ZIP: [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip)
+- Akten-ZIP: [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip)

@@ -5,7 +5,7 @@
 
 Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber, Sach- und Haftpflichtdeckung.
 
-Dieses Plugin gehört zum Marketplace mit 260 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 261 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`versicherungsrecht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=versicherungsrecht/versicherungsrecht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 260 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 261 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,8 +62,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [BGB: Geliehenes E-Bike, Ladegerät und Kellerbrand in Freiburg](../testakten/bgb-leihe-e-bike-akkubrand-freiburg/README.md) | [Gesamt-PDF](../testakten/bgb-leihe-e-bike-akkubrand-freiburg/gesamt-pdf/bgb-leihe-e-bike-akkubrand-freiburg_gesamt.pdf) | [`testakte-bgb-leihe-e-bike-akkubrand-freiburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-bgb-leihe-e-bike-akkubrand-freiburg.zip) | [`testakte-bgb-leihe-e-bike-akkubrand-freiburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-bgb-leihe-e-bike-akkubrand-freiburg-einzelpdfs.zip) |
-| [Brandstiftung Lagerhalle Magdeburg-Rothensee](../testakten/strafrecht-brandstiftung-lagerhalle-magdeburg/README.md) | [Gesamt-PDF](../testakten/strafrecht-brandstiftung-lagerhalle-magdeburg/gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf) | [`testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip) | [`testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.22.0/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip) |
+| [BGB: Geliehenes E-Bike, Ladegerät und Kellerbrand in Freiburg](../testakten/bgb-leihe-e-bike-akkubrand-freiburg/README.md) | [Gesamt-PDF](../testakten/bgb-leihe-e-bike-akkubrand-freiburg/gesamt-pdf/bgb-leihe-e-bike-akkubrand-freiburg_gesamt.pdf) | [`testakte-bgb-leihe-e-bike-akkubrand-freiburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-bgb-leihe-e-bike-akkubrand-freiburg.zip) | [`testakte-bgb-leihe-e-bike-akkubrand-freiburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-bgb-leihe-e-bike-akkubrand-freiburg-einzelpdfs.zip) |
+| [Brandstiftung Lagerhalle Magdeburg-Rothensee](../testakten/strafrecht-brandstiftung-lagerhalle-magdeburg/README.md) | [Gesamt-PDF](../testakten/strafrecht-brandstiftung-lagerhalle-magdeburg/gesamt-pdf/strafrecht-brandstiftung-lagerhalle-magdeburg_gesamt.pdf) | [`testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg.zip) | [`testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.23.0/testakte-strafrecht-brandstiftung-lagerhalle-magdeburg-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

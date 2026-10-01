@@ -1,0 +1,19 @@
+name: eigenbedarf-haerte-ersatzwohnung-regensburg
+plugin: eigenbedarfskuendigungschecker
+description: Wohnbedarf, Gesundheitsbeobachtung und Ersatzwohnung in Regensburg.
+checks:
+  - id: kuendigung
+    check_type: file_exists
+    description: Kündigung als eigenständiges Dokument.
+    path: 03_kuendigung.docx
+  - id: befund
+    check_type: file_exists
+    description: Ärztliche Stellungnahme liegt gesondert vor.
+    path: 04_aerztliche_stellungnahme.docx
+  - id: suche
+    check_type: file_exists
+    description: Suchverlauf ist auswertbar.
+    path: 09_wohnungssuche.csv
+  - id: konsistenz
+    check_type: human_review
+    description: Parteien, Termine, Wohnungsdaten und Beträge bleiben konsistent und ohne vorgegebene Lösung.

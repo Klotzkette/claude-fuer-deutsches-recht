@@ -1,6 +1,6 @@
 {
   "name": "mietchecker",
-  "version": "445.22.0",
+  "version": "445.23.0",
   "description": "Miethoehen fuer Mieter und Vermieter nachvollziehbar pruefen: oertlicher Mietspiegel, Landesverordnung, Neuvermietung und Mieterhoehung. Zehn Skills fuehren von Belegen zu Berechnung und sachlicher Klaerung; mit Faellen aus Berlin und Regensburg.",
   "license": "Apache-2.0 OR MIT",
   "author": {

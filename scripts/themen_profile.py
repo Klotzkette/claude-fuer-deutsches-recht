@@ -6091,6 +6091,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "eigenbedarfskuendigungschecker": "miet",
     "antidiskriminierung-agg": "arbeits",
     "mietchecker": "miet",
     "jura-in-einfacher-sprache": "methodik",

@@ -1,8 +1,8 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **22579 Skills** in **260 Plugins**.
+Automatisch generierte Gesamtübersicht aller **22589 Skills** in **261 Plugins**.
 
-Stand: `v445.22.0`.
+Stand: `v445.23.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -10,8 +10,8 @@ Stand: `v445.22.0`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 260 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Alle Plugins (installierbar)** | Alle 260 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 261 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Plugins (installierbar)** | Alle 261 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
@@ -37,7 +37,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22579 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22589 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -124,6 +124,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | Plugin | Skills | Detailseite | Werkstatt (Markdown) | Schnellstart (Markdown) | Plugin-ZIP |
 | --- | ---: | --- | --- | --- | --- |
 | **ecommerce-recht** | 73 | [Skills ansehen](skills-index/ecommerce-recht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) |
+| **eigenbedarfskuendigungschecker** | 10 | [Skills ansehen](skills-index/eigenbedarfskuendigungschecker.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/eigenbedarfskuendigungschecker.zip) |
 | **einfache-leichte-sprache-jura** | 87 | [Skills ansehen](skills-index/einfache-leichte-sprache-jura.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einfache-leichte-sprache-jura/einfache-leichte-sprache-jura-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip) |
 | **einigungsvertrag-vermoegensrecht** | 124 | [Skills ansehen](skills-index/einigungsvertrag-vermoegensrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=einigungsvertrag-vermoegensrecht/einigungsvertrag-vermoegensrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einigungsvertrag-vermoegensrecht.zip) |
 | **email-umformulierer-berufsrecht** | 83 | [Skills ansehen](skills-index/email-umformulierer-berufsrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=email-umformulierer-berufsrecht/email-umformulierer-berufsrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip) |

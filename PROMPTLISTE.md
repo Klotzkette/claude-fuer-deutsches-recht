@@ -46,7 +46,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [IT-Recht](#it-recht) | 19 |
 | [Kartell- und Wettbewerbsrecht](#kartell--und-wettbewerbsrecht) | 1 |
 | [Medizinrecht](#medizinrecht) | 6 |
-| [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 6 |
+| [Miet- und Wohnungseigentumsrecht](#miet--und-wohnungseigentumsrecht) | 7 |
 | [Migrationsrecht](#migrationsrecht) | 1 |
 | [Prozess- und Verfahrenspraxis](#prozess--und-verfahrenspraxis) | 15 |
 | [Rechtsgeschichte und Vermögensrecht der Wiedervereinigung](#rechtsgeschichte-und-vermögensrecht-der-wiedervereinigung) | 2 |
@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 34 |
 
-248 kuratierte Plugins in 34 Kategorien, aus insgesamt 260 Marketplace-Plugins (Abgleich: 1. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+249 kuratierte Plugins in 34 Kategorien, aus insgesamt 261 Marketplace-Plugins (Abgleich: 1. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -268,6 +268,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Miet- und Wohnungseigentumsrecht
 
 - [betriebskosten-hausverwaltung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/betriebskosten-hausverwaltung): Belege, Zahlungen und Verbrauchsdaten bis zur Betriebskostenabrechnung oder zum Antwortbrief prüfen; mit WEG-Überleitung, Heizölvorrat, CO2-Kosten und Grundsteuer. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=betriebskosten-hausverwaltung/betriebskosten-hausverwaltung-werkstatt.md)
+- [eigenbedarfskuendigungschecker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/eigenbedarfskuendigungschecker): Eigenbedarf für beide Mietparteien prüfen und bis zum Schreiben klären; Bedarfsperson, Alternativen, Form, Fristen, Umwandlungsschutz und Härte. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=eigenbedarfskuendigungschecker/eigenbedarfskuendigungschecker-werkstatt.md)
 - [fachanwalt-miet-wohnungseigentumsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-miet-wohnungseigentumsrecht): Großer Fachanwalt-Kompass Miet- und Wohnungseigentumsrecht mit über 200 Skills für Wohnraum, Gewerberaum, Betriebskosten, WEG, Hausverwaltung, Beschlüsse, GEG… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-werkstatt.md)
 - [grundbuchamt-praxis](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundbuchamt-praxis): Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=grundbuchamt-praxis/grundbuchamt-praxis-werkstatt.md)
 - [mietchecker](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/mietchecker): Miethöhe für Mieter und Vermieter anhand örtlichen Mietspiegels und Landesrechts nachrechnen und sachlich klären; Berlin und Regensburg mit eigenen Rechenwegen · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=mietchecker/mietchecker-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=mietchecker/mietchecker-werkstatt.md)
