@@ -38,6 +38,14 @@ PACKAGES = {
         },
     ),
 }
+ADDITIONAL_CASES = {
+    "vertragserstellung": {
+        "vertragserstellung-gbr-fahrradwerkstatt-leipzig",
+        "vertragserstellung-ladenkooperation-keramik-freiburg",
+        "vertragserstellung-softwarelizenz-pumpen-bremen",
+        "vertragserstellung-ug-eventkueche-regensburg",
+    },
+}
 
 
 def script_module(name):
@@ -96,12 +104,12 @@ class CompactPracticeTests(unittest.TestCase):
             for kind in ("werkstatt", "schnellstart", "hauptproblem"):
                 self.assertTrue((ROOT / name / f"{name}-{kind}.md").is_file())
 
-    def test_exact_three_assigned_cases_and_native_sources(self):
+    def test_assigned_cases_and_original_native_sources(self):
         injector = script_module("inject-direkt-loslegen-section")
         entries = json.loads((ROOT / ".claude-plugin/marketplace.json").read_text())["plugins"]
         mapping = injector.discover_testakten_mapping(entries)
         for name, (_, cases) in PACKAGES.items():
-            self.assertEqual(set(mapping[name]), cases)
+            self.assertEqual(set(mapping[name]), cases | ADDITIONAL_CASES.get(name, set()))
             for slug in cases:
                 directory = ROOT / "testakten" / slug
                 sources = working_dump_flat_pairs(directory, include_gesamt_pdf=False)

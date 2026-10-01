@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.25.2. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
+Version 445.26.0. Elf unmittelbar enthaltene Skills für die Prüfung angemeldeter Forderungen: von der freigegebenen Akte zu einem begründeten Prüfvorschlag, einer Tabellenzeile und einem passenden Gläubigerbrief. Für die vorbereitende Arbeit in der Insolvenzverwaltung; bei einem Gläubigerauftrag wird die Perspektive ausdrücklich umgestellt.
 
 Das kompakte Paket ergänzt [Insolvenzforderungsanmeldungsprüfung](../insolvenzforderungsanmeldungspruefung/README.md) und [Insolvenzverwaltung](../insolvenzverwaltung/README.md), ersetzt sie aber nicht. Sein Fokus ist die konkrete Forderungsprüfung bis zum Tabellenvorschlag und Gläubigerbrief; ein zusätzlicher Einstieg über die anderen Pakete ist nicht erforderlich.
 

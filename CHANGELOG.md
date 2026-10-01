@@ -12,6 +12,20 @@ Die Quellenarbeit berücksichtigt insbesondere SchulG, Sek I-VO und SopädVO in 
 
 Kita Sonnenkringel, Schulplatz in der siebten Klasse, Klassenchat, Berufungszusage, Lehrdeputat und Forschungslabor enthalten jeweils 18 eigenständige Unterlagen. Insgesamt stehen 48 Word-Dokumente, 42 E-Mails, zwölf Textdateien und sechs Excel-Arbeitsmappen zur Verfügung. Echte MIME-Anlagen, berechenbare Tabellen und widersprüchliche Zwischenstände ermöglichen die Arbeit am konkreten Fall. Gesamt-PDFs und beide ZIP-Formate sowie Plugin- und zentrale Verzeichnisse werden aus diesem Bestand erzeugt.
 
+# v445.25.3 - Vier neue Mandatsakten für die Vertragsgestaltung
+
+## 1. Gründung, Softwarelizenz und Ladenkooperation
+
+Vier eigenständige Fälle ergänzen die bestehende Vertragswerkstatt: ein Lastenradverleih als GbR in Leipzig, eine Softwarelizenz nach einem Pilotbetrieb in Bremen, eine Catering-UG in Regensburg und Keramikverkauf in einem Freiburger Buchladen. Jede Akte enthält zwölf individuell ausgearbeitete Quellen. Auftragsumfang, Verhandlungsstand und entscheidende Rückfragen ergeben sich aus der Korrespondenz, nicht aus einer mitgelieferten Lösung.
+
+## 2. Originalunterlagen und Belegketten
+
+Insgesamt 16 bearbeitbare Word-Dokumente, 16 E-Mails mit tatsächlich eingebetteten Anlagen, zwölf Chatabschriften und Notizen sowie vier Excel-Dateien mit je zwei Tabellenblättern. Fremde Vertragsentwürfe stehen neben ursprünglichen Rechnungen, Angeboten, Arbeitszeitangaben, Entwicklungsvereinbarungen, Kassenbewegungen und Rückmeldungen von Vermietern, Notariat und Versicherung. Aussagen der Beteiligten werden nicht als abschließende rechtliche Bewertung ausgegeben.
+
+## 3. Downloads, Zuordnung und Qualitätssicherung
+
+Jede Akte ist als Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP verfügbar. Evaluatorunterlagen bleiben außerhalb der Downloads. Passende Fachzuordnungen ergänzen die kompakte Vertragswerkstatt, ohne ihre Skills oder Prompts inhaltlich zu verändern. Neue Regressionen prüfen Dateibestand, Mail-Header, bytegleiche Anhänge, gespeicherte Excel-Ergebnisse und PDF-Vollständigkeit. Die Übersichten und Downloadlinks sind aktualisiert.
+
 # v445.25.2 - Betriebskauf in beiden Forderungsakten vorbereiten
 
 ## 1. Zwei Erwerbsvorgänge im bestehenden Aktenbestand

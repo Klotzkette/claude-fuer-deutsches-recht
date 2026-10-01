@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-02",
+  "scope": "Zwei neue Berliner Plugins; allgemeine Strukturprüfungen repositoryweit. Keine Vollprüfung der übrigen Fachinhalte.",
+  "base_integrated": "6f06e71d45b",
+  "version": "445.26.0",
+  "plugins": 268,
+  "skills": 22666,
+  "central_cases": 414,
+  "technical_checks": [
+    {
+      "check": "validate-yaml-frontmatter.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-marketplace-import.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-runtime-performance.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-quality-lab.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-schwerpunkt-coverage.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-prompt-publication-profiles.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-prompt-generator-excerpts.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-prompt-routing-scope.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-prompt-workflow-preservation.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-prompt-hygiene-links.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-portable-starts.py",
+      "returncode": 0
+    },
+    {
+      "check": "audit-generated-prompt-hygiene.py",
+      "returncode": 0
+    },
+    {
+      "check": "audit-prompt-profile-routing.py",
+      "returncode": 0
+    },
+    {
+      "check": "audit-quickstart-usability.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-current-law-sentinels.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-root-readme-overview.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-readme-navigation.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-markdown-structure.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-testakten-readme-downloads.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-testakten-keine-markdown-aktenstuecke.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-testakten-csv.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-testakten-ohne-loesungen.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-testakten-dokumentqualitaet.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-registerwerkstaetten.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-registerakten-print-profile.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-office-resilience.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-testakten-email-quality.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-release-routing.py",
+      "returncode": 0
+    },
+    {
+      "check": "test-complete-package.py",
+      "returncode": 0
+    },
+    {
+      "check": "validate-plugin-structure.mjs",
+      "returncode": 0
+    },
+    {
+      "check": "validate-marketplace-import.mjs",
+      "returncode": 0
+    },
+    {
+      "check": "run-eval.py",
+      "returncode": 0
+    }
+  ],
+  "checks_after_main_integration": [
+    {
+      "check": "validate-yaml-frontmatter.py",
+      "returncode": 0,
+      "tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+    },
+    {
+      "check": "validate-plugin-structure.mjs",
+      "returncode": 0,
+      "tail": "validate-plugin-structure OK\n"
+    },
+    {
+      "check": "validate-marketplace-import.mjs",
+      "returncode": 0,
+      "tail": "Marketplace-Importprüfung: 268 Plugins, 22666 Skills, 268 README-Dateien\nOK\n"
+    },
+    {
+      "check": "test-schwerpunkt-coverage.py",
+      "returncode": 0,
+      "tail": "......\n----------------------------------------------------------------------\nRan 6 tests in 1.043s\n\nOK\n"
+    },
+    {
+      "check": "validate-root-readme-overview.py",
+      "returncode": 0,
+      "tail": "validate-root-readme-overview OK (268 Plugins, 22666 Skills, 268 Werkstatt-Prompts, 267 Schnellstart-Prompts, 414 zentrale / 417 Testakten gesamt, Stand v445.26.0)\n"
+    },
+    {
+      "check": "test-vertragserstellung-mandatsakten.py",
+      "returncode": 0,
+      "tail": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.339s\n\nOK\n"
+    },
+    {
+      "check": "test-kompakte-wirtschaftspakete.py",
+      "returncode": 0,
+      "tail": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.221s\n\nOK\n"
+    },
+    {
+      "check": "run-eval.py",
+      "returncode": 0,
+      "tail": "Testakten: 416 | mit Rubric: 414 | Vollständig bestanden: 221 | Technische Fehler: 0 | Fachprüfung offen: 193 | Rubric fehlt: 0\n"
+    }
+  ],
+  "individual_plugin_archives": [
+    {
+      "plugin": "berliner-schulrecht-eltern-schueler",
+      "skills": 11,
+      "local_skill_links_checked": 33,
+      "sha256": "58f75ef2c858f9ff91ba72bfac3b72714094f753c029efeb3280cf22a8c02a70",
+      "bytes": 42889
+    },
+    {
+      "plugin": "berliner-hochschulrecht-professoren",
+      "skills": 11,
+      "local_skill_links_checked": 33,
+      "sha256": "1c1504a50b423db1512e2914da4d056f8e3b445ac35432cb6270671012aaaf78",
+      "bytes": 50600
+    }
+  ],
+  "individual_case_archives": {
+    "scope": "Sechs neue Einzelarchive je Format; Sammelarchive sind nicht Gegenstand dieses lokalen Laufs.",
+    "results": [
+      {
+        "case": "berlin-kita-sonnenkringel",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      },
+      {
+        "case": "berlin-professur-berufungszusage",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      },
+      {
+        "case": "berlin-professur-forschungslabor",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      },
+      {
+        "case": "berlin-professur-lehrdeputat",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      },
+      {
+        "case": "berlin-schule-klassenchat",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      },
+      {
+        "case": "berlin-schulplatz-siebte-klasse",
+        "native_and_pdf_archives": "passed",
+        "pdf_documents": 18
+      }
+    ]
+  },
+  "limits": [
+    "Lokale ZIP-Prüfung erfasst zwei Plugin-ZIPs und zwölf neue Akten-ZIPs, keine vollständigen Sammelarchive.",
+    "Redaktionelle und strukturelle Tests sind keine beobachteten Modellläufe. Die zwei dokumentierten Probeläufe stehen in eigenen Prüfberichten.",
+    "Release-Veröffentlichung und öffentliche Downloadprüfung sind ein nachgelagerter Schritt und werden hier nicht als erledigt behauptet."
+  ]
+}
