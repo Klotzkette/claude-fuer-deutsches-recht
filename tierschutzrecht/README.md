@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Tierschutzakte Pferdehof Auenwiese](../testakten/tierschutzrecht-veterinaeramt-pferdehof-auenwiese/README.md) | [Gesamt-PDF](../testakten/tierschutzrecht-veterinaeramt-pferdehof-auenwiese/gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) | [`testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip) | [`testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip) |
+| [Tierschutzakte Pferdehof Auenwiese](../testakten/tierschutzrecht-veterinaeramt-pferdehof-auenwiese/README.md) | [Gesamt-PDF](../testakten/tierschutzrecht-veterinaeramt-pferdehof-auenwiese/gesamt-pdf/tierschutzrecht-veterinaeramt-pferdehof-auenwiese_gesamt.pdf) | [`testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese.zip) | [`testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-tierschutzrecht-veterinaeramt-pferdehof-auenwiese-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

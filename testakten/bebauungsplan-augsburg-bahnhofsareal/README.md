@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf`](gesamt-pdf/bebauungsplan-augsburg-bahnhofsareal_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-bebauungsplan-augsburg-bahnhofsareal-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,7 +31,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-bebauungsplan-augsburg-bahnhofsareal` (Akte) | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
+| `testakte-bebauungsplan-augsburg-bahnhofsareal` (Akte) | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf`](gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-venture-capital-geber-nebelstern-portfolio-berlin-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

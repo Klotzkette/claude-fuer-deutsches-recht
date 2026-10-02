@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Verbandsakte Abo-Falle](../testakten/verbraucherschutzverband-abo-falle-sammelklage/README.md) | [Gesamt-PDF](../testakten/verbraucherschutzverband-abo-falle-sammelklage/gesamt-pdf/verbraucherschutzverband-abo-falle-sammelklage_gesamt.pdf) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-verbraucherschutzverband-abo-falle-sammelklage.zip) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip) |
+| [Verbandsakte Abo-Falle](../testakten/verbraucherschutzverband-abo-falle-sammelklage/README.md) | [Gesamt-PDF](../testakten/verbraucherschutzverband-abo-falle-sammelklage/gesamt-pdf/verbraucherschutzverband-abo-falle-sammelklage_gesamt.pdf) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-verbraucherschutzverband-abo-falle-sammelklage.zip) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

@@ -1,3 +1,17 @@
+# v445.30.2 - Zwei Vorführakten zum Gesellschafterstreit
+
+## 1. Berlin: Klageerwiderung
+
+20 Originalunterlagen eines Bühnenbeleuchtungsbetriebs mit Klage, Verfügung, Zustellung, Gesellschaftsunterlagen, streitigem Einkauf, Zeugenmail und Projektkonto. Die Akte ermöglicht eine beleggestützte Klageerwiderung, ohne eine fertige Verteidigung vorzugeben.
+
+## 2. München: Shareholder Agreement
+
+18 Originalunterlagen zur Investorenaufnahme in einen Gerätebaubetrieb. Gründerentwurf, abweichende Vertragswünsche, Entwicklungsrechte, Bankkorrespondenz und eine berechenbare Beteiligungstabelle ermöglichen eine eigenständige Vertragsgestaltung.
+
+## 3. Darstellung und Prüfung
+
+Beide Akten haben sieben Kernunterlagen für eine gemeinsame einstündige Vorführung, vollständige E-Mails mit Anlagen sowie bearbeitbare Word- und Excel-Dateien. Gesamt-PDFs mit Register und Lesezeichen, flache Originalformat- und Einzel-PDF-ZIPs. 17 fallbezogene Regressionstests sichern Bestand, Rechenketten, Anhänge und Exporttreue. Plugin, zentrale Übersicht und Download-Index sind ergänzt. Bestehende Skills, Prompts und Akten bleiben unverändert.
+
 # v445.28.1 - Kleinhausen als einfache WEG-Einstiegsakte
 
 ## 1. Fünf Wohnungen und eine überschaubare Abrechnung
