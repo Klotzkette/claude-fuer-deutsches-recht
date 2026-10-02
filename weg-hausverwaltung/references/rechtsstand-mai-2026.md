@@ -1,6 +1,6 @@
 # Rechtsstand Mai 2026 — WEG und Hausverwaltung
 
-Grundbestand: 05/2026; gezielte Aktualisierung des Heizungsrechts am 30.09.2026. Keine erneute Vollprüfung aller übrigen Einträge.
+Historischer Grundbestand 05/2026 mit Heizungsnachtrag 30.09.2026 und ausdrücklich gekennzeichneten Korrekturen vom 02.10.2026. Für heutige Fallarbeit die [geprüfte Arbeitsreferenz Oktober 2026](rechtsstand-oktober-2026.md) und die [Miet-/Datenschutzreferenz](miete-befall-datenschutz-oktober-2026.md) verwenden. Die ältere Linksammlung bleibt zur Nachvollziehbarkeit erhalten und ist kein Nachweis, dass jeder frühere Nebensatz zutrifft.
 
 ## Quellenregel (strikt)
 
@@ -14,7 +14,7 @@ Grundbestand: 05/2026; gezielte Aktualisierung des Heizungsrechts am 30.09.2026.
 | Thema | Normen | Praxisfolge |
 | --- | --- | --- |
 | Gemeinschaft, ordnungsmäßige Verwaltung | §§ 9a, 18, 19 WEG | Ansprüche richten sich regelmäßig gegen die GdWE; Verwaltung muss ordnungsmäßig, wirtschaftlich, dokumentiert sein. |
-| Kostenverteilung | § 16 Abs. 2 Satz 2 WEG | Mehrheitsbeschluss zur Änderung des Verteilungsschlüssels möglich – aber nur mit sachlichem Grund; gilt auch für Erhaltungsrücklage. |
+| Kostenverteilung | § 16 Abs. 2 Satz 2 WEG | Kompetenz und Angemessenheit getrennt prüfen; BGH V ZR 50/25 vom 24.04.2026 präzisiert die Grenzen. Ein besonderer sachlicher Änderungsgrund ist nicht für jeden anerkannten Betriebskostenschlüssel nötig. |
 | Bauliche Veränderungen | §§ 20, 21 WEG | Anspruch, Gestattung, Grenzen und Kostenfolge getrennt prüfen. |
 | Privilegierte bauliche Veränderungen | § 20 Abs. 2 WEG | Steckersolar, Wallbox/E-Mobilität, Barrierefreiheit, Einbruchsschutz, Glasfaseranschluss. |
 | Eigentümerversammlung | §§ 23–25 WEG | Einladung, Tagesordnung, Beschlussfassung, Stimmrecht, Vollmacht, virtuelle Versammlung getrennt dokumentieren. |
@@ -41,13 +41,13 @@ Grundbestand: 05/2026; gezielte Aktualisierung des Heizungsrechts am 30.09.2026.
 | --- | --- | --- |
 | BGH, Urteil vom 14.02.2025, V ZR 236/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html | § 16 Abs. 2 Satz 2 WEG eröffnet die Kompetenz, durch Mehrheitsbeschluss von einer gegenständlich abgegrenzten Kostenseparierung (z. B. Tiefgaragenkosten nur für Stellplatzeigentümer) abzuweichen; das entspricht aber regelmäßig nicht ordnungsmäßiger Verwaltung, wenn kein sachlicher Grund für die Heranziehung der übrigen Eigentümer besteht. |
 | BGH, Urteil vom 14.02.2025, V ZR 128/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23 | § 16 Abs. 2 Satz 2 WEG erfasst auch die Änderung des Verteilungsschlüssels für die Erhaltungsrücklage. Bisherige Schlüssel können durch Mehrheitsbeschluss geändert werden, wenn für die alte Regelung kein sachlicher Rechtfertigungsgrund (mehr) besteht. |
-| BGH, Urteil vom 09.02.2024, V ZR 244/22 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244/22 | Mehrheitsbeschluss zu baulicher Veränderung kann auch die Zuweisung eines Sondernutzungsrechts am Gemeinschaftseigentum mit umfassen; Maßnahmen aus § 20 Abs. 2 WEG sind regelmäßig angemessen. |
+| BGH, Urteil vom 09.02.2024, V ZR 244/22 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244/22 | Privilegierter Barriereabbau und seine Grenzen; Nutzungsbefugnis nach § 21 WEG ist nicht mit einem dinglichen Sondernutzungsrecht gleichzusetzen. |
 
 ### V. Zivilsenat – Jahresabrechnung / Vorschüsse / Verwalterhaftung
 
 | Entscheidung | Quelle | Kernaussage |
 | --- | --- | --- |
-| BGH, Urteil vom 19.04.2024, V ZR 167/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23 | Der Anspruch des einzelnen Eigentümers auf Erstellung der Jahresabrechnung richtet sich nach WEMoG gegen die GdWE, nicht persönlich gegen den Verwalter. Parteiwechsel in der Berufungsinstanz auf die GdWE ist im Regelfall sachgerecht. |
+| BGH, Urteil vom 19.04.2024, V ZR 167/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23 | Der Anspruch des einzelnen Eigentümers auf Erstellung der Jahresabrechnung richtet sich nach WEMoG gegen die GdWE, nicht persönlich gegen den Verwalter. Der behandelte Parteiwechsel betrifft die Übergangslage eines vor dem WEMoG begonnenen Verfahrens; keine allgemeine Heilungsregel. |
 | BGH, Urteil vom 19.07.2024, V ZR 102/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23 | Beschluss "über die Jahresabrechnung" ist nach WEMoG so auszulegen, dass nur die Abrechnungsspitzen (Nachschüsse/Vorschussanpassung) beschlossen werden; alte Wortwahl führt nicht automatisch zur Ungültigkeit. |
 | BGH, Urteil vom 05.07.2024, V ZR 34/24 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24 | Der Verwaltervertrag entfaltet keine Schutzwirkung für den einzelnen Eigentümer; Schadensersatzansprüche aus Pflichtverletzungen des Verwalters richten sich gegen die GdWE. |
 | BGH, Urteil vom 19.07.2024, V ZR 139/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+139/23 ; https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2024/2024151.html | Prozesskosten der in einer Beschlussklage unterliegenden GdWE sind Verwaltungskosten i.S.d. § 16 Abs. 2 Satz 1 WEG; sie werden grundsätzlich nach allgemeinem Schlüssel verteilt, auch der obsiegende Anfechtungskläger trägt seinen Anteil mit. |
@@ -65,14 +65,14 @@ Grundbestand: 05/2026; gezielte Aktualisierung des Heizungsrechts am 30.09.2026.
 
 | Entscheidung | Quelle | Kernaussage |
 | --- | --- | --- |
-| BGH, Urteil vom 09.02.2024, V ZR 33/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23 | Die Klagebegründungsfrist des § 45 Satz 1 WEG (zwei Monate) ist eine materielle Ausschlussfrist; Verlängerung grundsätzlich nicht möglich. |
-| BGH, Urteil vom 25.10.2024, V ZR 17/24 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24 | Im WEG-Beschlussanfechtungsverfahren muss der Kläger spätestens innerhalb eines Jahres nach Ablauf der Monatsfrist beim Gericht den Sachstand zur Klagezustellung erfragen (Erkundigungsobliegenheit); andernfalls beginnt eine ihm zurechenbare Zustellungsverzögerung i. S. d. § 167 ZPO. |
+| BGH, Urteil vom 09.02.2024, V ZR 33/23 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23 | Korrektur 02.10.2026: Entscheidung zur privilegierten baulichen Veränderung, kein Beleg für Fristen. Klage-/Begründungsfrist unmittelbar aus § 45 WEG prüfen. |
+| BGH, Urteil vom 25.10.2024, V ZR 17/24 | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24 | Hat der Kläger die ihm obliegenden Schritte einschließlich Vorschusszahlung bereits erledigt, besteht dennoch spätestens ein Jahr nach Ablauf der Monatsfrist eine äußere Erkundigungsgrenze. Kein allgemeines Recht, frühere gerichtliche Rückfragen oder Zahlungsanforderungen ein Jahr unbearbeitet zu lassen; Rn. 10–19 der neuen Referenz beachten. |
 
 ## Operatives Qualitätsgate
 
 1. Rolle und Organstellung klären: Verwalter, GdWE, einzelner Eigentümer, Beirat, vermietender Eigentümer, Mieter.
 2. Dokumente sichern: Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Angebote, Rechnungen.
-3. Fristen zuerst: Einladungsfrist (§ 24 WEG), Beschlussklagefrist (ein Monat, § 45 WEG), Klagebegründung (zwei Monate, § 45 WEG), Erkundigungsobliegenheit (ein Jahr), Betriebskostenfrist (§ 556 Abs. 3 BGB, ein Jahr), Mahnfrist, Gewährleistungs- und Verjährungsfristen.
+3. Fristen zuerst: Einladungsfrist (§ 24 WEG), Beschlussklagefrist (ein Monat, § 45 WEG), Klagebegründung (zwei Monate, § 45 WEG), Zustellungsnachhaltung nach der konkreten Verfahrenslage, keine pauschale einjährige Wartefrist, Betriebskostenfrist (§ 556 Abs. 3 BGB, ein Jahr), Mahnfrist, Gewährleistungs- und Verjährungsfristen.
 4. Beschlusskompetenz prüfen: Darf die GdWE darüber beschließen? Reicht Mehrheit? Ist Vereinbarung nötig?
-5. Kostenfolge getrennt prüfen: Wer trägt was, nach welchem Schlüssel, ab wann, mit welcher Fälligkeit? Bei Schlüsseländerung sachlichen Grund i. S. d. BGH V ZR 236/23 / V ZR 128/23 dokumentieren.
+5. Kostenfolge getrennt prüfen: Wer trägt was, nach welchem Schlüssel, ab wann, mit welcher Fälligkeit? Fallgruppe, angemessene Interessenwahrung und Mehrbelastung nach V ZR 50/25 prüfen; gegenständliche Kostentrennung und Wegfall bisheriger Privilegien gesondert behandeln.
 6. Eskalationsschwelle markieren: Anfechtung, Nichtigkeit, größere Baumaßnahme, Sonderumlage, Verwalterhaftung, Datenschutz, gerichtliche Geltendmachung.

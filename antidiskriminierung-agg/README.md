@@ -68,7 +68,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [1. Bewerbung im Berliner Kundenservice](../testakten/agg-bewerbung-sprachanforderung-berlin/README.md) | [Gesamt-PDF](../testakten/agg-bewerbung-sprachanforderung-berlin/gesamt-pdf/agg-bewerbung-sprachanforderung-berlin_gesamt.pdf) | [`testakte-agg-bewerbung-sprachanforderung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-agg-bewerbung-sprachanforderung-berlin.zip) | [`testakte-agg-bewerbung-sprachanforderung-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-agg-bewerbung-sprachanforderung-berlin-einzelpdfs.zip) |
+| [1. Bewerbung im Berliner Kundenservice](../testakten/agg-bewerbung-sprachanforderung-berlin/README.md) | [Gesamt-PDF](../testakten/agg-bewerbung-sprachanforderung-berlin/gesamt-pdf/agg-bewerbung-sprachanforderung-berlin_gesamt.pdf) | [`testakte-agg-bewerbung-sprachanforderung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-agg-bewerbung-sprachanforderung-berlin.zip) | [`testakte-agg-bewerbung-sprachanforderung-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-agg-bewerbung-sprachanforderung-berlin-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

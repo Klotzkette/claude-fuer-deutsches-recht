@@ -1,0 +1,98 @@
+1. Freigabeentscheidung am 02.10.2026
+
+Die versandte Fassung vom 06.09.2026 und die Beschlussvorlage über 600 EUR werden nicht zur Beschlussfassung freigegeben. Als fachlich korrigierte Arbeitsfassung kann das folgende Zahlenwerk mit einem Nachschuss von insgesamt 360 EUR weiterbearbeitet werden. Es gibt bislang keinen Jahresabrechnungsbeschluss zu korrigieren: Die Beschlussvorlage ist ein Entwurf, die Abrechnungen wurden lediglich verschickt. Neue Zahlungsaufforderungen oder Einladungsänderungen sind laut Auftrag erst nach Freigabe der Verwaltung zu versenden. Es wurde nichts versandt.
+
+Der alte Dezemberrückstand von Frau Popescu ist inzwischen vollständig ausgeglichen. Die Korrektur der Abrechnungsspitze beruht auf dem Sollmaßstab, nicht darauf, dass eine 2026 eingegangene Zahlung nachträglich als Einnahme 2025 behandelt wird.
+
+2. Bank- und Rücklagenabstimmung zum 31.12.2025
+
+Konto                         Anfang       Externe Einnahmen    Externe Ausgaben     Interner Übertrag      Ende
+Betrieb                      3.000,00          31.680,00           24.360,00              -7.920,00        2.400,00
+Erhaltungsrücklage          40.000,00              80,00                0,00              +7.920,00       48.000,00
+Gesamt                     43.000,00          31.760,00           24.360,00                   0,00       50.400,00
+
+Das Betriebskonto lässt sich mit 3.000 + 31.680 − 24.360 − 7.920 = 2.400 EUR abstimmen. Das Rücklagenkonto ergibt 40.000 + 7.920 + 80 Zinsen = 48.000 EUR. Zusammen 43.000 + 31.680 + 80 − 24.360 = 50.400 EUR. Der interne Transfer ist weder eine zusätzliche externe Ausgabe noch zusätzlicher Gemeinschaftsertrag. Grundlage: 05_Buchhaltung_2025.xlsx, Blätter Betriebskonto und Ruecklage; bankseitige Jahresübersicht 06; Beiratsnotiz 28.
+
+Rücklagensoll 2025: 8.000 EUR. Tatsächlich von Eigentümern gezahlt und übertragen: 7.920 EUR. Offener Beitragsanteil am Stichtag: 80 EUR. Hinzu kommen 80 EUR Zinsen, weshalb der Bankstand trotz fehlendem Beitrag genau 48.000 EUR beträgt. Die Zinsen sind kein Beitrag der säumigen Eigentümerin und beseitigen deren Stichtagsrückstand nicht. Die Dachreparatur von 2.400 EUR wurde vom Betriebskonto bezahlt; keine Rücklagenentnahme buchen und die 7.920 EUR nicht zusätzlich als Verbrauch verteilen.
+
+Hausgeldsoll 32.000 EUR = 24.000 Kostenvorschüsse + 8.000 Rücklagenbeiträge. Ist 31.680 EUR = 23.760 Kostenanteil + 7.920 Rücklagenanteil. Differenz 320 EUR = 240 + 80. Die Jahresbeträge des Beschlusses vom 21.11.2024 sind maßgeblich; gerundete Monatsraten werden nach diesem Beschluss im Dezember ausgeglichen. Die angezeigten gerundeten Monatsraten werden daher nicht mit zwölf multipliziert, um künstliche Cent-Rückstände zu erzeugen.
+
+Die Buchhaltung bestätigt am 16.09.2026 den Zahlungseingang vom 11.09.2026 über 320 EUR mit der eindeutigen Zweckangabe Dezember 2025. 240 EUR tilgen den alten Kostenrückstand, 80 EUR den alten Rücklagenrückstand. Aktueller offener Dezemberbetrag: 0 EUR. Der am 16.09. ausgelöste Rücklagentransfer ist noch kein durch einen vorliegenden Bankauszug nachgewiesener Vollzug. Er ist 2026 abzugleichen. Kein Schlussbestand 2025 wird verändert.
+
+Für den Vermögensbericht 2025 stehen damit 2.400 EUR Betriebsguthaben, 48.000 EUR Rücklagenbankbestand und 320 EUR offene Vorschussforderungen am Stichtag fest; diese belegten Positionen summieren sich auf 50.720 EUR. Die spätere Tilgung ist als Ereignis 2026 zu erläutern. Ein vollständiger Vermögensbericht muss zusätzlich wesentliches sonstiges Gemeinschaftsvermögen und bestehende Verbindlichkeiten erfassen. Deren Nichtvorhandensein ist bislang nicht bestätigt. § 28 Abs. 4 WEG verlangt Bereitstellung an jeden Eigentümer; die Tabelle allein wird daher noch nicht als vollständiger Bericht ausgegeben (https://www.gesetze-im-internet.de/woeigg/__28.html).
+
+3. Kosten und korrigierte Abrechnungsspitzen
+
+Gemeinschaftskosten, jeweils 2025 und nach MEA gemäß Gemeinschaftsordnung verteilt:
+Wasser/Abwasser 3.840 EUR (07, W-25-818), Müll 2.880 EUR (08, M-25-180), Versicherung 2.160 EUR (09, GV-25-188), Allgemeinstrom 720 EUR (10, ST-25-991), Reinigung 3.600 EUR (11, R-25-144), Hausmeister 4.800 EUR (12, HM-25-218), Dachreparatur 2.400 EUR (14, D-25-512), Verwaltung 3.840 EUR (15, V-25-118), Bank 120 EUR (16, BK-25-118). Summe 24.360 EUR. Die Jahresbestätigungen sind keine zweiten Forderungen neben den Monatszahlungen. Die Beträge stimmen mit dem Kostenblatt und dem Beiratsabgleich überein. Wohnungsheizkosten fehlen zu Recht, weil Gasetagenheizungen individuell betrieben werden.
+
+Beschlussanlage LH-2025-F2-Nachschuesse, Stand 02.10.2026:
+WE Eigentümer                MEA     Kosten      Soll Kosten   Spitze    RL-Soll    RL-Ist 2025
+01 Edeltraud Tüddel          100    2.436,00       2.400,00      36,00      800,00       800,00
+02 Kian Yilmaz               110    2.679,60       2.640,00      39,60      880,00       880,00
+03 Kunigunde Wackernagel     120    2.923,20       2.880,00      43,20      960,00       960,00
+04 Mirela Popescu            120    2.923,20       2.880,00      43,20      960,00       880,00
+05 Alwin Pfitzner            130    3.166,80       3.120,00      46,80    1.040,00     1.040,00
+06 Asha Krüger               130    3.166,80       3.120,00      46,80    1.040,00     1.040,00
+07 Bodo Zuckermann           140    3.410,40       3.360,00      50,40    1.120,00     1.120,00
+08 Noa Winter                150    3.654,00       3.600,00      54,00    1.200,00     1.200,00
+Summe                      1.000   24.360,00      24.000,00     360,00    8.000,00     7.920,00
+
+Jede Kostenzeile je Wohnung lässt sich mit ihrem MEA-Anteil × Gebäudekosten / 1.000 nachrechnen. Für WE04 sind die neun Kostenanteile 460,80 + 345,60 + 259,20 + 86,40 + 432,00 + 576,00 + 288,00 + 460,80 + 14,40 = 2.923,20 EUR. Abzüglich beschlossener Kostenvorschüsse 2.880 EUR folgt eine Spitze von 43,20 EUR.
+
+Fehlerfolge: Die Vorfassung rechnete 2.923,20 − 2.640 Istzahlung = 283,20 EUR. Darin steckten 240 EUR alter Kostenrückstand. Deshalb waren die Vorlagensumme von 600 EUR und WE04 jeweils um 240 EUR zu hoch; die übrigen sieben Spitzen bleiben unverändert. Die zusätzliche Forderung von 320 EUR hätte bei zugleich verlangten 283,20 EUR den Kostenrückstand doppelt erfasst. Durch richtige Sollrechnung lautet die am Stichtag getrennte Darstellung 43,20 EUR geplante Spitze plus 320 EUR bestehender Vorschussrückstand. Nach belegtem Zahlungseingang 2026 bleibt nur die noch zu beschließende Spitze von 43,20 EUR. Die volle Zahlung 320 EUR wird nicht von dieser Spitze abgezogen und nicht als Anerkenntnis einer neuen Nachforderung behandelt. § 28 Abs. 1–3 WEG unterscheidet Vorschüsse und nachträgliche Einforderung/Anpassung (https://www.gesetze-im-internet.de/woeigg/__28.html).
+
+4. Beschlussbedarf und Termin
+
+Vorgeschlagener Beschlusstext:
+
+„Die Wohnungseigentümer beschließen auf Grundlage der Jahresabrechnung 2025, Fassung 2 vom 02.10.2026, die Einforderung folgender Nachschüsse: WE01 36,00 EUR; WE02 39,60 EUR; WE03 43,20 EUR; WE04 43,20 EUR; WE05 46,80 EUR; WE06 46,80 EUR; WE07 50,40 EUR; WE08 54,00 EUR, insgesamt 360,00 EUR. Die als Anlage beigefügte und eindeutig mit LH-2025-F2-Nachschuesse, Stand 02.10.2026 bezeichnete Tabelle ist Bestandteil dieses Beschlusses. Die Nachschüsse werden vier Wochen nach dieser Beschlussfassung zur Zahlung auf das bereits bekannte Gemeinschaftskonto fällig. Bestehende Ansprüche aus dem Wirtschaftsplan 2025 werden mit diesem Beschluss weder erneut begründet noch erhöht. Auf solche Vorschussforderungen geleistete Zahlungen werden entsprechend ihrer Tilgungsbestimmung berücksichtigt. Die nicht beschlossene Vorlage vom 16.09.2026 mit Bezug auf die Einzelabrechnungen vom 06.09.2026 wird nicht zur Abstimmung gestellt.“
+
+Der Vermögensbericht wird bereitgestellt; keine fingierte Genehmigung des gesamten Rechenwerks oder Entlastung in diesen Zahlungsbeschluss aufnehmen. Rückstände müssen nicht erneut beschlossen werden. Es ist noch kein Korrekturbeschluss zu einem früheren Jahresabrechnungsbeschluss nötig, da ein solcher nicht belegt ist. Taucht ein bereits gefasster Beschluss auf, ist dessen Wortlaut vor weiterer Verwendung zu prüfen; ein Austausch der Tabelle allein änderte ihn nicht.
+
+Wichtig für den heutigen Ablauf: Die Einladung vom 16.09. ist ausdrücklich als unversandt abgelegt. Für die Versammlung am 22.10.2026 wäre die reguläre Dreiwochenfrist bei erstmaligem Zugang ab 02.10. nicht gewahrt. § 24 Abs. 4 WEG sieht Textform und grundsätzlich mindestens drei Wochen vor, außer bei besonderer Dringlichkeit (https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html, § 24). Normale Abrechnungsvorbereitung belegt hier keine solche Dringlichkeit. Zunächst tatsächlichen zwischenzeitlichen Versand und Zugang feststellen. Wenn es keinen rechtzeitigen Versand gab, späteren Termin mit gesichertem fristgerechtem Zugang und Raumverfügbarkeit festlegen; kein erfundenes neues Datum als bereits gebucht ausgeben. Auch die Fälligkeit darf erst aus der tatsächlichen Beschlussfassung folgen: Bei gültiger Beschlussfassung am 22.10. wäre vier Wochen später der 19.11.2026; bei Verschiebung verschiebt sich dieses Datum. Die Tagesordnung muss den Zahlungsbeschluss und die zutreffende Anlage bezeichnen. Abstimmung, Mehrheit und Verkündung sind noch offen.
+
+5. Hausmeister und Mieterschnittstelle
+
+Die nachgereichte Aufschlüsselung liegt bereits vor und darf nicht erneut so behandelt werden, als fehle jede Antwort: 180 Stunden × 20 EUR = 3.600 EUR Mülltonnen/Sichtkontrollen; 45 Stunden × 20 EUR = 900 EUR gemischte Reparatur-/Leuchtenarbeiten einschließlich ungeklärter Materialanteile; 15 Stunden × 20 EUR = 300 EUR Terminabstimmung und Ablage. Summe 4.800 EUR. Die E-Mail vom 14.09. klärt außerdem, dass Kuno nicht das Treppenhaus gereinigt hat. Es besteht keine zweite Treppenreinigung neben Bertas Rechnung.
+
+Für die WEG bleibt die belegte volle Ausgabe von 4.800 EUR Teil des Kostenpools. Für eine Vermieterunterlage werden 3.600 EUR als nach derzeitiger Beschreibung laufende Hauswartleistung ausgewiesen, 300 EUR Verwaltung ausgeschlossen und die 900 EUR wegen der gemischten Arbeiten nicht ungeprüft freigegeben. Es ist weder sachgerecht, die gesamte Pauschale als Reinigung zu bezeichnen, noch frei 25 % ohne Tatsachengrundlage abzuziehen. Für WE04 entsprechen diese Gruppen 432 EUR, 36 EUR und 108 EUR. Einfache Leuchtmittelwechsel und vollständiger Ersatz von Gehäusen sind zu unterscheiden; aus den Originalwochenzetteln und Einkaufsbelegen muss der Dienstleister die Arbeit/Material- und Tätigkeitsanteile nachvollziehbar zuordnen. Diese Unterlagen sind noch nicht vollständig im Input. Die Mietumlage folgt erst aus Mietvertrag, einschlägiger Kostenart und Umlageschlüssel. Die Dachreparatur von WE04 288 EUR ist Erhaltung und keine Betriebskostenposition. Verwaltung, Bankentgelte und Rücklagenbeiträge werden ebenfalls nicht unverändert weitergereicht. Die GdWE-Unterlage ersetzt keine individuelle Mieterabrechnung (https://www.gesetze-im-internet.de/betrkv/BJNR234700003.html, §§ 1–2).
+
+6. Persönlicher Antwortentwurf an Mirela Popescu
+
+Sehr geehrte Frau Popescu,
+
+Sie haben den Fehler richtig erkannt. In Ihrer Abrechnung vom 6. September wurden von den Kosten Ihrer Wohnung von 2.923,20 EUR nur die im Jahr 2025 tatsächlich gezahlten 2.640 EUR Kostenvorschüsse abgezogen. Maßgeblich für den neuen Nachschuss sind jedoch die beschlossenen 2.880 EUR. Der Nachschuss beträgt deshalb 43,20 EUR und nicht 283,20 EUR.
+
+Ihre Überweisung von 320 EUR ist am 11. September 2026 eingegangen. Sie wurde wie von Ihnen angegeben mit 240 EUR auf die laufenden Kosten und mit 80 EUR auf die Rücklage für Dezember 2025 gebucht. Diese alte Dezemberforderung ist damit ausgeglichen. Sie müssen die 320 EUR nicht nochmals zahlen. Der Zahlungseingang wird im Jahr 2026 ausgewiesen; er verändert die Kontostände zum 31. Dezember 2025 nicht.
+
+Die beigefügte Fassung 2 vom 2. Oktober ersetzt für die anstehende Beratung Ihre Vorfassung. Der Betrag von 43,20 EUR ist noch nicht beschlossen und wird mit diesem Schreiben nicht zur Zahlung angefordert. Wir klären gegenwärtig auch den Einladungsstand und teilen den verbindlichen Versammlungstermin sowie eine gegebenenfalls beschlossene Fälligkeit gesondert mit.
+
+Die Dachreparatur können Sie Ihrem Mieter nicht als laufende Betriebskosten weiterbelasten. Bei den Hausmeisterkosten haben wir inzwischen eine Tätigkeitsaufstellung erhalten. Für Ihre Wohnung entfallen daraus 432 EUR auf Mülltonnen und Sichtkontrollen, 36 EUR auf Verwaltung und 108 EUR auf noch genauer abzugrenzende Reparatur- und Leuchtenarbeiten. Eine fertige Mieterabrechnung ergibt sich daraus noch nicht; dafür benötigen wir einen gesonderten Auftrag und Ihren Mietvertrag.
+
+Gern ermöglichen wir Ihnen Einsicht in Ihre Abrechnungsgrundlagen. Bitte nennen Sie uns einen passenden Terminwunsch, damit wir Rechnungen, relevante Zahlungseinträge und die vorhandenen Leistungsnachweise bereitlegen können.
+
+Mit freundlichen Grüßen
+Noura Selim
+Havel und Hof Hausverwaltung GmbH
+
+7. Antwortentwurf an den Beirat
+
+Sehr geehrter Herr Pfitzner, sehr geehrte Frau Tüddel,
+
+die Bankabstimmung bestätigt für Ende 2025 insgesamt 50.400 EUR: 2.400 EUR auf dem Betriebskonto und 48.000 EUR auf dem Rücklagenkonto. Der Rücklagenzugang aus Beiträgen beträgt 7.920 EUR; weitere 80 EUR sind Zinsen. Es sind daher keine 80 EUR aus der Bank verschwunden. Die am Stichtag offene Beitragsforderung wird getrennt gezeigt; ihre nachträgliche Tilgung gehört in das Jahr 2026.
+
+In Fassung 2 beträgt die Summe der zu beschließenden Nachschüsse 360 EUR statt 600 EUR. Die Abweichung entstand durch einen bereits bestehenden Vorschussrückstand, der in der Vorfassung teilweise erneut enthalten war. Die personenbezogene Tilgungszuordnung erläutern wir der betroffenen Eigentümerin gesondert.
+
+Die Hausmeisterantwort liegt seit 14. September vor. Die 4.800 EUR Gemeinschaftsausgabe bleiben rechnerisch vollständig enthalten. Eine pauschale Bescheinigung als mietrechtlich umlagefähig erteilen wir wegen der Reparatur-, Material- und Verwaltungsanteile nicht. Bitte prüfen Sie die beigefügte datierte Fassung 2 erneut. Der Stand Ihrer Einsicht vom 25. September wird in der Akte nachgetragen; eine bereits erfolgte abschließende Freigabe unterstellen wir nicht.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+8. Noch erforderliche Arbeit und Grenzen
+
+Unverzüglich tatsächlichen Einladungszugang klären und sonst Termin anpassen. Den vergangenen Einsichtstermin 25.09. dokumentieren und verbliebene Einsichtswünsche ermöglichen. Beiratsprüfung ersetzt das Recht jedes Eigentümers aus § 18 Abs. 4 WEG nicht (https://www.gesetze-im-internet.de/woeigg/__18.html). Keine Kontounterlagen im Hauschat veröffentlichen; jedes Eigentümeranschreiben erhält die richtige WE, Kostenzeile und Fassung.
+
+Originalauszüge des Betriebskontos und monatliche Zahlungseinträge liegen laut Auftrag im Büro, aber nicht vollständig in der hier gelesenen Dateiakte vor. Die vorhandene Buchhaltung, Bankjahresübersicht der Rücklage und Beiratsbestätigung erlauben die gezeigte Abstimmung, nicht die Behauptung einer vollständigen eigenen Bankbelegprüfung. Den Vollzug des Rücklagentransfers 2026 bestätigen lassen. Wesentliches sonstiges Vermögen/Verbindlichkeiten für den Vermögensbericht ergänzen. Dachauftrag und interne Beschluss-/Befugnisgrundlage nachfordern: Die Zahlung ist belegt, der gesonderte Reparaturbeschluss nicht. Sein Fehlen in dieser Akte macht die tatsächliche Ausgabe nicht unsichtbar, kann aber eine gesonderte Befugnis-/Haftungsfrage auslösen. Hausmeisterwochenzettel und Einkaufsbelege gezielt nachfordern. Vorfassungen mit Versanddatum 08.09. erhalten; F2 nicht unter demselben Namen überschreiben.
+
+Die beauftragten Textentwürfe und das Rechenwerk sind konkret vorbereitet. Keine unbewiesene Versandfreigabe, Bankauthentifizierung, Vollständigkeit des Vermögensberichts oder abschließende Mietabrechnung. Gelesen wurden die tatsächlichen 36 nummerierten DOCX-, XLSX-, EML- und TXT-Unterlagen, einschließlich Formeln und gespeicherter Werte. Diese Probe 2 wurde unmittelbar nach Probe 1 im selben Agentenkontext durchgeführt. Keine Test-Rubric oder Musterlösung wurde gelesen.

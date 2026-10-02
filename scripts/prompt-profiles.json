@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "weg-hausverwaltung": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": true,
+      "hand_curated": true
+    },
     "berliner-asog-polizeirecht": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],

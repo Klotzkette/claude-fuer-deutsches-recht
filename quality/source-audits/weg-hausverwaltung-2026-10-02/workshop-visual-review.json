@@ -1,0 +1,165 @@
+{
+  "plugin": "weg-hausverwaltung",
+  "source_sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+  "source_words": 9999,
+  "headings": 79,
+  "pages": 30,
+  "font": "Times New Roman",
+  "body_points": 11,
+  "line_spacing": 1.5,
+  "manual_page_breaks": 0,
+  "visual_review": "pass",
+  "visual_review_method": "Root hat alle 30 finalen Seiten einzeln mit view_image angesehen. Keine abgeschnittenen Inhalte oder Layoutfehler; die anfänglich zusammengezogene Liste wurde vor diesem finalen Render korrigiert.",
+  "page_proofs": [
+    {
+      "page": 1,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-1.png",
+      "sha256": "23037c7a626f7086b15dbd06fbe34171efa6c37685fc5be19f2570a349ab3430"
+    },
+    {
+      "page": 2,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-2.png",
+      "sha256": "de5c4f2125070789114c744db4fe25a9fd0ccead3a8405ed9c260e63dcc3fc11"
+    },
+    {
+      "page": 3,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-3.png",
+      "sha256": "e2465fbabb59f21e60fe0fd8e24ff4cf71bf14765e158204750e6d871729f434"
+    },
+    {
+      "page": 4,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-4.png",
+      "sha256": "3a574cdde71ce08878e5220e4996665e3eb9a8f3a7ecfa4aef22edffa60ddd22"
+    },
+    {
+      "page": 5,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-5.png",
+      "sha256": "1ff49e6ba2841b8625d74fd6a65afcda3204925be0cf20c46faf0d23d4cf6b5c"
+    },
+    {
+      "page": 6,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-6.png",
+      "sha256": "40d92e1137560b8c1baa7db3209ff5385408c07da0f21a3c77745e503483abe6"
+    },
+    {
+      "page": 7,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-7.png",
+      "sha256": "5e54499261a2c44b0fa39b566262ff0ca6c5b9c5579870aba50374081a0cf77c"
+    },
+    {
+      "page": 8,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-8.png",
+      "sha256": "91e1b8a64af94fe3c6f980ba14e0aba23a47cf5e13825c641fb5ffac93d4b248"
+    },
+    {
+      "page": 9,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-9.png",
+      "sha256": "9d9ebbfb0a0dd5ef69d7fc21521e898679d7969440e913fb03d147124f7d53e7"
+    },
+    {
+      "page": 10,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-10.png",
+      "sha256": "80cb4b8fcbfa60617eec4e8321becf19a4aa73e4239539c8ed23d1ee34a69416"
+    },
+    {
+      "page": 11,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-11.png",
+      "sha256": "53c3a6cf2c1e0b8b8f15b351b5f818fd45c1822b739eaf1ad262b7138c312a67"
+    },
+    {
+      "page": 12,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-12.png",
+      "sha256": "e79f4e37cc2c36e67f080c645ae5cca1a90a4e884f3b849cca3dbba2f2e3e611"
+    },
+    {
+      "page": 13,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-13.png",
+      "sha256": "cdfbe574498d7fc03a0d487a4ddcc1d5d80e86d2222890c07ebca4ace9899c6e"
+    },
+    {
+      "page": 14,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-14.png",
+      "sha256": "6bd03a1760361ac1aad75e2cbd6b8b16b967514d40cf3444b3ebea159b8928d0"
+    },
+    {
+      "page": 15,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-15.png",
+      "sha256": "f31a0a03668149c561486daa4cd48a315da449b2090f83be94f0fda71a0ed4d5"
+    },
+    {
+      "page": 16,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-16.png",
+      "sha256": "c784de8b536b7a953cca9c56e0afbbd1bca41eb8fa9ec8ff2252feaf5c44a829"
+    },
+    {
+      "page": 17,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-17.png",
+      "sha256": "88686c2f415ce94d50fb4967fe7b92ba6cc3e85f095b89f9987ca529ac95e5fe"
+    },
+    {
+      "page": 18,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-18.png",
+      "sha256": "602aec0c67d37284210c7342165d02ff737d1acf98493541ed201ffc0b98d1eb"
+    },
+    {
+      "page": 19,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-19.png",
+      "sha256": "acfc34238041c4d6c0eb53ebaa0b68039f7a5d650c4421bc6680f8415d2d8e43"
+    },
+    {
+      "page": 20,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-20.png",
+      "sha256": "c4afe82f4766d053b96a8cd6a174d27ad670c5ee67b7eebfdfe1688a923363b3"
+    },
+    {
+      "page": 21,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-21.png",
+      "sha256": "962d55e73e9fe83b1132b202646fafea6350057184a836c5734d35f983870ef3"
+    },
+    {
+      "page": 22,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-22.png",
+      "sha256": "ddf62ba12e8b7603cccf789985a30ac020ff42bfbb3725a6928dcbee7c1112cf"
+    },
+    {
+      "page": 23,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-23.png",
+      "sha256": "0799c771cb8f9a51915647c4f83ee983aeaa09714c809488837f562ff7843701"
+    },
+    {
+      "page": 24,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-24.png",
+      "sha256": "ed36a34ace72fb8d21eef45fa2fd3e1f68d1d0ca3604bcbfadf490b775f52e3e"
+    },
+    {
+      "page": 25,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-25.png",
+      "sha256": "b48354a269803f848c211a618908cfc9283cc51aa1a3c9eb383d7d4b6f7a8fea"
+    },
+    {
+      "page": 26,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-26.png",
+      "sha256": "2a6ddab4593c5c9e06f2d1049cd0e79cd7025a4480eec508011b81f9e7786fd0"
+    },
+    {
+      "page": 27,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-27.png",
+      "sha256": "b76159f4a390fcd97534e1e4fe156e96929253a4532b3d04859f6afb830a1baa"
+    },
+    {
+      "page": 28,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-28.png",
+      "sha256": "0a3ade50bf59f244a5effbb35a95cdfbf11a26beafdf05e14a0503d9d7ffb7a1"
+    },
+    {
+      "page": 29,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-29.png",
+      "sha256": "5ae22f5b511fcb15865ea9600b3eb15c340c40f12ccd48c995fd0cdb408b5b82"
+    },
+    {
+      "page": 30,
+      "path": "build-evidence/qa/workshops/weg-hausverwaltung/render/page-30.png",
+      "sha256": "366e5119f122ebc01c1a2daa2245c64284d584511542a9e26c23e6124ce9497b"
+    }
+  ]
+}

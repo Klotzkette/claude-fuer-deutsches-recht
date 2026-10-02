@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Apothekenrecht: Retaxation und Kühlkette in Bremen](../testakten/apothekenrecht-retaxation-kuehlkette-bremen/README.md) | [Gesamt-PDF](../testakten/apothekenrecht-retaxation-kuehlkette-bremen/gesamt-pdf/apothekenrecht-retaxation-kuehlkette-bremen_gesamt.pdf) | [`testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip) | [`testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip) |
+| [Apothekenrecht: Retaxation und Kühlkette in Bremen](../testakten/apothekenrecht-retaxation-kuehlkette-bremen/README.md) | [Gesamt-PDF](../testakten/apothekenrecht-retaxation-kuehlkette-bremen/gesamt-pdf/apothekenrecht-retaxation-kuehlkette-bremen_gesamt.pdf) | [`testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen.zip) | [`testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-apothekenrecht-retaxation-kuehlkette-bremen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

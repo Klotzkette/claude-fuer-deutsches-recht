@@ -1,0 +1,151 @@
+{
+  "run": "one sequential agent, same context; not independent models",
+  "case": "weg-spreebogen-mieterumlage-belege",
+  "request": "Die Eigentümerin will den gesamten Hausgeldbetrag an den Mieter weiterreichen. Prüfe, was heute versandfähig ist, rechne belegbar und entwirf eine knappe Antwort an Eigentümerin und Mieter; fehlende Belege nicht erfinden.",
+  "request_sha256": "ec7344e185565a65990daf5e9f655cf98ab479cfe2fbfd3cd93ba6961d61ed69",
+  "prompt": "weg-hausverwaltung/weg-hausverwaltung-schnellstart.md",
+  "prompt_sha256": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+  "inputs": [
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/01_Auftrag_Vermieterabrechnung.docx",
+      "sha256": "2c79181b959d18ce834b9ede5cb03799d356010bff81fab3409600e53ccdb10b"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/02_Mietvertrag.docx",
+      "sha256": "bfea676aa51324a7c856e5ac7a413074dfaf9461416fc27ff9cfa96174fd1032"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/03_WEG_Jahresabrechnung.docx",
+      "sha256": "f6d6bd87a4dff74fefb124d94ba0d8b917f53046348aa0a012a71742a7510161"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/04_Hausgeldexport.xlsx",
+      "sha256": "de1decebee26f26c6e94e2534c47bb14102b6232b4f874bbf5c5de69bcddbd84"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/05_Wasser.docx",
+      "sha256": "bc5cb29dcd987e0a67b320280e20caa362838329ff3c8c04fe6ab07a5e44574f"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/06_Muell.docx",
+      "sha256": "6a54eb46a2fa39150dcd0d9861b7e85c98768007d6ec0baa6903bcfb66ed7b61"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/07_Versicherung.docx",
+      "sha256": "954876af1f2208f1428ef6fe3ff3e0ab7accdebe83ecbd45e60ce7daef05718a"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/08_Reinigung.docx",
+      "sha256": "80e1ce86a2984bbb2207632ccf1105c7cd21aeb62d28ca1a73b4ca69f2e20ee1"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/09_Hausmeister.docx",
+      "sha256": "724a9753dcdb5c909866c3adeb98eaf96ed715db61db08c524f824187bfca28f"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/10_Allgemeinstrom.docx",
+      "sha256": "45723650977f2c79d85bdb1f52fd26671dc68615138924dd20c427efa8d36f2c"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/11_Gasrechnung.docx",
+      "sha256": "bca5b67c3f059beb929ea1b48ad47abf26ae3fbbd63a5169af6692c4c5132090"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/12_Heizkostenabrechnung.docx",
+      "sha256": "579b8788e08788221bbb256276d760c3c88b59c8ce634117ddc633d00857bd6e"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/13_Verbrauchsablesung.docx",
+      "sha256": "c588f80ac392eb5830436964a799e826db53b3d30a072ce48a4de5beec4cd76a"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/14_CO2_Liefernachweis.docx",
+      "sha256": "32d07cfbb9cab812c8248b4f4e2afd2c5caab16234f084480b8b52af996fa7dd"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/15_Verwalterentgelt.docx",
+      "sha256": "a02f163d70f4e7a8a95a9b6285675476cd1a5583571ba693422cc909e4602cd1"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/16_Dachrechnung.docx",
+      "sha256": "25a3f65c7fc613d21ad254042122a32e861303f5adde94e417fcc3c8658e2718"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/17_Ruecklagennachweis.docx",
+      "sha256": "83cbdeb4b194381c69de2acd4ef422a68d293b31c3ad4e75ef148a695990b237"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/18_Mieterabrechnung_Vorfassung.docx",
+      "sha256": "c8ce76811dd2e0708bc464a5fdb93d96c249ae190866ab84e8e67003476aef51"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/19_Versand_an_Mieter.eml",
+      "sha256": "07a9d26fb3c21358bfdf7ca22a50deafe333dc262a751b4ab2a2e50c172a5f8c"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/20_Postzugang_Notiz.docx",
+      "sha256": "bf82935e5710e14c35c1a1c03f1f9a0752f6343ed12192714d3724488a4df9d5"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/21_Einwendungen_Mieter.eml",
+      "sha256": "dac26eaa58a9678a988b904b469454bbcc8e7af7a37b2cb137b06631ea951c0c"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/22_Hausverwaltung_an_Eigentuemer.eml",
+      "sha256": "0354e76d78e9d2ddc82407a16b10c0d99c0988cdf05e459ff587863d65ad67a0"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/23_Terminangebot_Belege.eml",
+      "sha256": "b422a3fe3795e519baacf591a83e2f028e1dfa3da381f919f02f2a05748ca035"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/24_Mieter_Terminbestaetigung.eml",
+      "sha256": "7f4aa26796d681f095281a10052b68067dcf4739ca956f080d119fb08ab2e6bd"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/25_Chat_Knoepfle_Tochter.txt",
+      "sha256": "d09e8ea359745ea1f41b53a464f4688848e432c213902e74551c0fb2796eb168"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/26_Flaechenverzeichnis.docx",
+      "sha256": "5186bc754852d3df957d8a1a1302e2bf2e4f37797c59e888c0bfbafb75e2b644"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/27_Reparaturauftrag_Dach.docx",
+      "sha256": "8ce17fb0e32206806965183506c133490a18c02b68e1662a87ef85979be8a143"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/28_Eigentuemer_Beauftragung.eml",
+      "sha256": "153b0de57904cfc638c1b7bcf8ed044fca7579a5ea3aef7ae37e60408b0c54ca"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/29_Mietvorauszahlungen.xlsx",
+      "sha256": "ef7eaed534ee51e6403ced72a560ae0a6e266e72dc7ea5b40513738632d6ad29"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/30_Antwortbrief_Vorfassung.docx",
+      "sha256": "889336b4768add69428071fc443dc6c2862d4a2923835fcceb6a92a85334f397"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/31_Belege_an_Vermieter.eml",
+      "sha256": "eac8ea063b06ddc26c8297d62f036b467630a81c8a36aa543772ee2276c41fff"
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/32_Bearbeitungsauftrag_Nachtrag.eml",
+      "sha256": "ee98ba5b907d3a214357dff5a5031bf6790cd4c9ade692d2c9d7c3b282232bb2"
+    }
+  ],
+  "input_manifest_sha256": "3a8bfe59776a0456817995356a66c8628e1f2ec6857134a5891d0c4164944386",
+  "extracted_text_sha256": "8168f6ed476d7cc5ddccaf56d574cf5671b0f096f63158374f1f0fe89f9ec9bb",
+  "excluded": "README.md, quality/evals, rubrics, model solutions; no source files modified",
+  "sequence": 1,
+  "actual_output_sha256": "a571b6131c0c75b941eaad147b5bf07691989196ccc495e5ccef2f4d47438d20",
+  "additional_reference": {
+    "path": "weg-hausverwaltung/references/miete-befall-datenschutz-oktober-2026.md",
+    "sha256_at_finalization": "62d101d2d922034159424c38f06eac298f99b4901234d6bd051242470acaffe8",
+    "use": "read during probe 1; remained in agent context for later probes"
+  },
+  "model_isolation": false,
+  "file_reads": "python-docx, openpyxl read-only values/formulas, Python email parsing; all numbered raw documents read",
+  "external_actions": []
+}

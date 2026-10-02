@@ -47,3 +47,9 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Haftung nach Aufgaben- und Ursachenzuordnung
+
+V ZR 34/24 vom 05.07.2024, Rn. 18–24: Keine Schutzwirkung des Verwaltervertrags zugunsten einzelner Eigentümer; deliktische Direktansprüche nicht ausgeschlossen. V ZR 18/25 vom 27.02.2026, Rn. 16–24: keine automatische Haftung für jeden Schaden aus Gemeinschaftseigentum. Kenntnis, gebotene Reaktion, rechtzeitige Entscheidungs-/Sanierungsmöglichkeit, Verschulden, konkreten Schaden und hypothetischen schadensvermeidenden Ablauf belegen. Eigentümeranspruch gegen GdWE und deren Regress getrennt ausformulieren; bei unwirksamer Bestellung zusätzlich V ZR 76/25 vom 30.01.2026, Rn. 18–19, prüfen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

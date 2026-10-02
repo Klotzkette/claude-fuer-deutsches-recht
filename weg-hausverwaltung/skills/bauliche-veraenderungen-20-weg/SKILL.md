@@ -31,8 +31,8 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 
 1. **Maßnahme beschreiben** und betroffenes Eigentum klären (Gemeinschafts-/Sondereigentum, Sondernutzungsrecht).
 2. **Privilegierte Maßnahme** nach § 20 Abs. 2 WEG?
- - Nr. 1: Laden elektrisch betriebener Fahrzeuge (Wallbox).
- - Nr. 2: Barrierefreier Aus- und Umbau.
+ - Nr. 1: Gebrauch durch Menschen mit Behinderungen (Barriereabbau).
+ - Nr. 2: Laden elektrisch betriebener Fahrzeuge (Wallbox).
  - Nr. 3: Einbruchsschutz.
  - Nr. 4: Glasfaseranschluss.
  - Nr. 5: Steckersolargerät (Balkonkraftwerk).
@@ -43,8 +43,8 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 4. **Ausführung**: Fachbetrieb, Sicherheit, Statik, Brandschutz, Optik, Wartung, Versicherung, Rückbau bei Veräußerung/Nutzungsende.
 5. **Kostenfolge nach § 21 WEG** sauber von der Gestattung trennen:
  - Verlangender trägt grundsätzlich (§ 21 Abs. 1 WEG).
- - Bei Beschluss mit Zweidrittelmehrheit und mehr als der Hälfte der MEA (§ 21 Abs. 2 Nr. 1 WEG): alle Eigentümer; entgegenstehende Eigentümer können nicht zur Kostentragung gezwungen werden, wenn Maßnahme nicht amortisierbar.
- - Bei Maßnahme nach § 20 Abs. 2 WEG (privilegiert): nur die nutzenden Eigentümer (§ 21 Abs. 1, Abs. 3 WEG).
+ - § 21 Abs. 2 Nr. 1 WEG: Mehr als zwei Drittel der abgegebenen Stimmen und die Hälfte aller MEA können zur Kostentragung aller führen, außer bei unverhältnismäßigen Kosten. Amortisation innerhalb eines angemessenen Zeitraums ist die eigenständige Alternative des Abs. 2 Nr. 2, keine zusätzliche Voraussetzung der Nr. 1.
+ - Bei einer auf Verlangen durchgeführten oder individuell gestatteten Maßnahme § 21 Abs. 1 WEG anwenden. Für sonstige Maßnahmen außerhalb Abs. 2 tragen nach Abs. 3 grundsätzlich die zustimmenden Eigentümer; tatsächliche Nutzung allein ist kein universeller Kostenschlüssel. Späteren Nutzungsbeitritt nach Abs. 4 und abweichende Beschlüsse nach Abs. 5 gesondert prüfen.
 6. **Beschlusswortlaut mit Auflagen** (siehe Muster unten).
 7. **Vermieter-Konstellation** beachten: Bei Maßnahmen des Mieters ohne Gestattungsbeschluss kann der vermietende Eigentümer mittelbarer Handlungsstörer sein (BGH, Urteil vom 21.03.2025, V ZR 1/24). Verwalter sollte vermietende Eigentümer im Vorfeld auf das Beschlusserfordernis hinweisen. (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.03.2025&Aktenzeichen=V+ZR+1/24)
 
@@ -83,3 +83,9 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` und `references/rechtsstand-mai-2026.md` zwingend laden, bevor Rechtsprechungsaussagen ausgegeben werden.
+
+## 2026: Anspruch, Abwägung und Bestimmtheit
+
+BGH, Urt. v. 17.07.2026 – Az. V ZR 162/25, Rn. 7–16: Bei § 20 Abs. 3 WEG die Eigentumsinteressen beider Seiten abwägen; der unveränderte Zustand genießt keinen automatischen Vorrang. Ein Klimasplitgerät ist damit nicht zu einer privilegierten Maßnahme nach Abs. 2 geworden. Betriebsimmissionen und Gestattung getrennt prüfen. BGH, Urt. v. 25.09.2026 – Az. V ZR 165/25, Rn. 7–24: Bestimmtheit einer Streetart-Gestattung anhand Künstler, Fläche, Kosten und Dauer; keine Übertragung auf unbegrenzte Bauaufträge. Vorbefassung für gerichtliche Zulässigkeit nach V ZR 86/24 ersetzt nicht den Tatsachennachweis in der Sachprüfung.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

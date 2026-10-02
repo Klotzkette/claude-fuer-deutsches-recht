@@ -116,3 +116,9 @@ Ausgangspunkt für dieses Plugin: Die Gemeinschaft belegt Beschlusstext, ordnung
 10.5. Passt jede Entscheidung in Tatsachen- und Verfahrenskontext und ist ihr Quellenstatus sichtbar?
 10.6. Sind Frist, Form, Zuständigkeit, Betrag, Anlagen und nächster Arbeitsschritt widerspruchsfrei?
 10.7. Ist das Ergebnis unmittelbar als Beschluss, Versammlungsunterlage, Abrechnung, Verwalterhandlung, Gestattung oder Beschlussklage verwendbar?
+
+## Konkrete 2026-Anker auswählen
+
+Bei Erhaltungsverteilung V ZR 50/25, Rn. 13–23 (angemessene Interessenwahrung, Größenunterschiede); bei Vergabe V ZR 7/25, Rn. 15–25 (tragfähige Auswahlgrundlage ohne starre Angebotszahl); bei verzögerter Schadensbearbeitung V ZR 18/25, Rn. 16–24 (Pflichtverletzung, Reaktionszeit, hypothetischer Verlauf und Kausalität); bei Umlaufverfahren V ZR 190/25, Rn. 11–18/30–34 (zwei Beschlüsse, getrennte Fristen) verwenden. Nur den tatsächlich einschlägigen Anker mit Datum und Belegstelle einsetzen; den Gegenstand des Urteils und Grenzen ausdrücklich auf die Akte beziehen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

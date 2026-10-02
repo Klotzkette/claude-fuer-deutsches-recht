@@ -55,7 +55,7 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 
 - **Vorbefassung Beschlussersetzungsklage**: Antragsteller muss in der Versammlung exakt den Beschluss verlangen, der später gerichtlich begehrt wird, aber keine vollständige Beweisaufnahme leisten — BGH, Urteil vom 14.02.2025, V ZR 86/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24). Verwalter sollten Anträge so übernehmen, dass der Wortlaut bestimmbar ist.
 - **Jahresabrechnung**: TOP klar als "Abrechnungsspitzen" (Nachschüsse, Vorschussanpassung) formulieren — BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
-- **Schlüsseländerung**: sachlicher Grund in Begründungstext aufnehmen — BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
+- **Schlüsseländerung**: Schlüssel, Belastungsvergleich und sachgerechte Interessenwahrung im Begründungstext erläutern; besonderer Änderungsgrund nach Fallgruppe prüfen — BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 ; https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
 
 ## Cross-Refs
 
@@ -67,3 +67,9 @@ Die Versammlung soll beschlussfähig, verständlich und anfechtungsarm vorbereit
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 23, § 24, § 25 WEG: https://www.gesetze-im-internet.de/woeigg/__23.html, https://www.gesetze-im-internet.de/woeigg/__24.html, https://www.gesetze-im-internet.de/woeigg/__25.html .
+
+## Umlaufbeschluss und Stimmrechte: Entscheidungen 2026
+
+BGH, Urt. v. 17.07.2026 – Az. V ZR 190/25, Rn. 11–18 und 30–34: Absenkungsbeschluss nach § 23 Abs. 3 Satz 2 WEG und nachfolgenden Sachbeschluss getrennt protokollieren, verkünden und in der Fristenakte führen. Die Nichtigkeit/Anfechtung der Absenkung macht den Folgebeschluss nicht automatisch nichtig; dessen Bestandskraft kann das Interesse am Angriff gegen die verbrauchte Absenkung entfallen lassen. BGH, Urt. v. 27.02.2026 – Az. V ZR 189/24, Rn. 14–24: Ein Ausschluss von Tiefgarageneigentümern bei Verwalterbestellung und § 28-Entscheidungen ist nichtig. Bei anderen objektbezogenen Angelegenheiten Vereinbarung, Betroffenheit und Kosten gesondert prüfen; nicht sämtliche Stimmrechtsregelungen einer Mehrhausanlage gleich behandeln.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

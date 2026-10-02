@@ -1,0 +1,107 @@
+name: Spreebogen und das weitergereichte Hausgeld
+plugin: weg-hausverwaltung
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: weg-spreebogen-mieterumlage-belege
+  fachprofil: quality/evals/weg-hausverwaltung.json
+  hinweis: Fallbezogene Kriterien für eine spätere Bearbeitung. Der zentrale Dateifilter schließt diese
+    Bewertungsdatei aus Arbeitsmaterial und Exporten aus.
+erwartete_ergebnisformate:
+- datei: Mietabrechnung_Korrekturfassung.xlsx
+  zweck: Kostenarten, Schlüssel, Heiz- und CO₂-Daten sowie Vorauszahlungen nachvollziehbar berechnen.
+- datei: Antwort_Mieter.docx
+  zweck: Ausformulierter Antwortentwurf mit Korrektur und konkretem Belegzugang.
+- datei: Vermerk_Fristen_und_Auftrag.docx
+  zweck: Abrechnungszugang, Einwendungen und zusätzlichen Mietverwaltungsauftrag getrennt prüfen.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien. Berechnungen müssen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. Empfängertexte sind vollständig auszuformulieren.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Die vollständige native Arbeitsakte ist vorhanden; Bewertungsdatei und Gesamt-PDF zählen
+    nicht mit.
+  min: 32
+- id: format-docx
+  check_type: file_count
+  description: Mindestens 21 native DOCX-Unterlagen sind vorhanden.
+  glob: '*.docx'
+  min: 21
+- id: format-eml
+  check_type: file_count
+  description: Mindestens 8 native EML-Unterlagen sind vorhanden.
+  glob: '*.eml'
+  min: 8
+- id: format-txt
+  check_type: file_count
+  description: Mindestens 1 native TXT-Unterlagen sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: format-xlsx
+  check_type: file_count
+  description: Mindestens 2 native XLSX-Unterlagen sind vorhanden.
+  glob: '*.xlsx'
+  min: 2
+- id: readme
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/weg-spreebogen-mieterumlage-belege_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 02_Mietvertrag.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 14_CO2_Liefernachweis.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 18_Mieterabrechnung_Vorfassung.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 29_Mietvorauszahlungen.xlsx
+- id: fach-mietvertrag
+  check_type: human_review
+  description: Werden Gemeinschaftsverwaltung und individuelle Mietverwaltung anhand der Beauftragung
+    abgegrenzt und die Umlagevereinbarung des konkreten Mietvertrags geprüft?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-kostenarten
+  check_type: human_review
+  description: Werden Verwaltung, Rücklage, Dachreparatur und laufende Betriebskosten einzeln eingeordnet,
+    statt den Hausgeldexport als fertige Mietabrechnung zu behandeln? Bleibt die gemischte Hausmeisterposition
+    belegabhängig?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-waerme-co2
+  check_type: human_review
+  description: Werden Fläche, Verbrauch und Lieferdaten für 2025 nachvollziehbar gerechnet und der Vermieteranteil
+    gesondert geprüft, ohne Übergangsrecht 2026/2028/2029 rückwirkend anzuwenden oder den Anteil doppelt
+    abzuziehen?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-zugang-fristen
+  check_type: human_review
+  description: Werden E-Mail-Versand und belegter Postzugang unterschieden, die jeweils maßgeblichen Fristen
+    geprüft und ein WEG-Beschluss nicht zur notwendigen Voraussetzung der Mietabrechnung erklärt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-belege
+  check_type: human_review
+  description: Wird der bestätigte Termin mit benötigten Rechnungs-, Leistungs-, Zahlungs- und Verbrauchsbelegen
+    organisiert, ohne besonderen Missbrauchsverdacht als Voraussetzung der Einsicht zu verlangen?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-ergebnis
+  check_type: human_review
+  description: Entstehen Abrechnung und persönliche Antwort mit offenen Belegfragen, ohne die Nachforderung
+    als unstreitig fällig zu behaupten, Kündigung zu entwerfen oder Versand zu fingieren?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'

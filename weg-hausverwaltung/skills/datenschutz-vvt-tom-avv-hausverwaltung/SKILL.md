@@ -1,65 +1,54 @@
 ---
 name: datenschutz-vvt-tom-avv-hausverwaltung
-description: "Für Datenschutz: VVT, TOM und AVV für die Hausverwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft die tatsächlichen Datenflüsse einer Hausverwaltung; erstellt Rollenvermerk, VVT, Dienstleisterprüfung sowie Zugriffs- und Löschkonzept für Abrechnung, Bewohnerdaten, Video oder Datenvorfall."
 ---
 
-# Datenschutz: VVT, TOM und AVV für die Hausverwaltung
+# Datenschutzrollen, Verarbeitungstätigkeiten und sichere Verwaltung
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Erstelle ein an den tatsächlichen Verwaltungsabläufen orientiertes Datenschutzpaket: Rollenprüfung, VVT, Dienstleisterprüfung, Berechtigungskonzept und begründete Aufbewahrung. Keine pauschalen Vertrags- oder Löschregeln aus Softwaremarken ableiten.
 
-## Ziel
+## 2. Eingaben
 
-Hausverwaltungen sind Verantwortliche im Sinne des Art. 4 Nr. 7 DSGVO und müssen ein vollständiges Verzeichnis von Verarbeitungstätigkeiten (VVT) nach Art. 30 führen, angemessene technisch-organisatorische Maßnahmen (TOM) nach Art. 32 umsetzen und mit allen Auftragsverarbeitern schriftliche AVV nach Art. 28 schließen. Der Skill erzeugt fertige Muster-Dokumente und prüft Lücken im Datenschutz-Setup.
+Verwaltervertrag, konkrete Verfahren und Datenflüsse, Portal-/Softwareverträge, Empfänger, Dienstleister, Kameraplan, bestehende Datenschutzhinweise und Vorfälle lesen. Entscheidend ist: Wer bestimmt Zwecke und wesentliche Mittel, wer verarbeitet auf dokumentierte Weisung, welche Daten werden wozu tatsächlich benötigt?
 
-## Verarbeitungstätigkeiten (VVT-Tabelle)
+## 3. Workflow
 
-| Verarbeitungstätigkeit | Kategorie personenbezogener Daten | Zweck | Rechtsgrundlage | Löschfrist |
-|---|---|---|---|---|
-| Eigentümerstammdaten | Name, Adresse, Bankverbindung | Vertragserfüllung WEG-Verwaltung | Art. 6 Abs. 1 lit. b | 10 Jahre (§ 257 HGB) |
-| Beschlusssammlung | Namen abstimmender Eigentümer | Dokumentationspflicht § 24 WEG | Art. 6 Abs. 1 lit. c | Dauerhaft (Gemeinschaftseigentum) |
-| Buchhaltung / Mahnwesen | Bankdaten, Zahlungsrückstände | Vertragserfüllung, berechtigtes Interesse | Art. 6 Abs. 1 lit. b/f | 10 Jahre (§ 257 HGB) |
-| Versammlungsprotokolle | Namen, Wortbeiträge, Stimmverhalten | § 24 Abs. 6 WEG | Art. 6 Abs. 1 lit. c | 30 Jahre empfohlen |
-| Beirats-Kommunikation | Namen, E-Mail, Telefon | Vertragserfüllung | Art. 6 Abs. 1 lit. b | 3 Jahre nach Mandatsende |
-| Videoüberwachung Eingang | Bildaufnahmen | Hausrecht, Einbruchsschutz | Art. 6 Abs. 1 lit. f | Max. 72 Stunden (DSK-OH) |
-| Schlüsselverwaltung | Namen, Schlüssel-Nr., Ausgabedatum | Sicherheit Gemeinschaftseigentum | Art. 6 Abs. 1 lit. f | 5 Jahre nach Rückgabe |
+### 3.1. Rollen und Rechtsgrundlagen
 
-Norm Art. 30 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+Für GdWE, Verwaltung und jeden Dienstleister die Rolle je Verarbeitung anhand Art. 4 Nr. 7/8 DSGVO bestimmen. Nicht jede Hausverwaltung ist für jede Handlung gleich einzuordnen. Art. 6 Abs. 1 Buchst. b nur verwenden, wenn gerade die betroffene Person Vertragspartei und die Verarbeitung hierfür erforderlich ist; Verwaltervertrag mit der Gemeinschaft deckt nicht automatisch alle Bewohnerdaten. Gesetzliche Pflichten und berechtigte Interessen mit Norm beziehungsweise konkreter Abwägung dokumentieren; bei Gesundheits-/Strafdaten Art. 9/10 extra prüfen.
 
-## AVV-Pflichten gegenüber Auftragsverarbeitern
+### 3.2. VVT und Aufbewahrung
 
-AVV nach Art. 28 Abs. 3 DSGVO ist Pflicht bei: Buchhaltungssoftware (DATEV, Karthago, Sander+Doll, Casavi), Cloud-Speicher (Microsoft 365, Google Workspace), Steuerberater (wenn Zugriff auf Mandantendaten), Versammlungs-Tools (Zoom, MS Teams), Inkassobüros, externen Beiratsplattformen und IT-Dienstleistern. Prüfpunkte je AVV: Weisungsgebundenheit, Unterauftragnehmer-Liste, Löschverpflichtung nach Vertragsende, Audit-Recht des Verantwortlichen, Sicherheitsmaßnahmen (Art. 32). Fehlt eine AVV, droht Bußgeld bis 10 Mio. Euro oder 2 % des Jahresumsatzes (Art. 83 Abs. 4 DSGVO).
+Für Stammdaten, Buchungen/Mahnwesen, Versammlung, Schlüssel, Schäden, Befall, Video und Beschäftigte jeweils Zweck, Betroffene, Datenarten, Grundlage, Empfänger, Zugriff, Löschkriterium und Schutzmaßnahme erfassen. Art. 30 einschließlich Abs. 5 prüfen; laufende Verwaltung ist typischerweise nicht nur gelegentliche Verarbeitung. Das VVT selbst ist keine zusätzliche Datenerlaubnis.
 
-## TOM-Mindeststandards für Hausverwaltungen
+Aufbewahrung nach Dokumentart und tatsächlich einschlägiger Verpflichtung bestimmen. Keine pauschalen zehn Jahre für sämtliche Eigentümerdaten, keine gesetzlich behaupteten 30 Jahre für jedes Protokoll und keine unterschiedslose Sechsmonatsfrist für Beschäftigtenakten. Buchungsbelege, steuerliche Dokumente, Ansprüche, Beschlusssammlung und Kontaktlisten getrennt behandeln. Gesetzesänderungen, offene Verfahren und eingeschränkte Archivzugriffe dokumentieren; eine Pflicht zur Aufbewahrung erlaubt keine weitere Marketingnutzung.
 
-- **Rollen-/Rechtekonzept:** Getrennte Zugänge je Mitarbeiter, kein gemeinsames Login, Protokollierung Admin-Zugriffe.
-- **2-Faktor-Authentifizierung:** Pflicht für alle Cloud-Zugänge (Microsoft 365, Google Workspace, Casavi-Portal).
-- **Verschlüsselte Backups:** AES-256, mindestens 3-2-1-Regel (3 Kopien, 2 Medien, 1 off-site), Wiederherstellungstest quartalsweise.
-- **Festplattenverschlüsselung:** BitLocker (Windows) oder FileVault (macOS) auf jedem Verwalter-Laptop und -Tablet; Belege für Einrichtung aufbewahren.
-- **Schreddervorgaben Papierakten:** DIN 66399 Sicherheitsstufe P-4 (Partikelschnitt) für Unterlagen mit personenbezogenen Daten; Schredder-Protokoll oder Zertifikat Dienstleister.
-- **Schlüsseltresor:** Schlüsselausgabe nur gegen Unterschrift, Protokoll aller Entnahmen und Rückgaben, Tresor-Zugriffsprotokoll.
-- **Passwortrichtlinie:** Mindestlänge 12 Zeichen, keine Wiederverwendung, Password-Manager für Team.
+### 3.3. Dienstleister und TOM
 
-Norm Art. 32 DSGVO: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679
+Ein AVV nach Art. 28 ist nötig, wenn tatsächlich Auftragsverarbeitung vorliegt; bloßer Datenzugriff genügt nicht. Steuerberater, Anwälte, Inkasso und Versicherer nicht automatisch als Auftragsverarbeiter bezeichnen. Bei Cloud/IT/Portal Funktion, Weisungen, Unterauftragnehmer, Drittlandtransfer, Auskunftshilfe, Rückgabe/Löschung und Sicherheitsnachweise prüfen.
 
-## Beschäftigtendatenschutz (wenn Verwalter Mitarbeiter hat)
+Sicherheitsmaßnahmen risikogerecht nach Art. 32 festlegen: personengebundene Konten, erforderliche Rollenrechte, Mehrfaktorzugang für risikobehaftete Fernzugriffe, Verschlüsselung, überprüfbare Backups, Wiederherstellung, sicherer Versand und dokumentierte Schlüsselverwaltung. AES-256, eine bestimmte Passwortlänge oder ein bestimmter Hersteller sind keine wortwörtlichen gesetzlichen Universalvorgaben. Wirksamkeit testen und Verantwortliche für Änderungen benennen.
 
-§ 26 BDSG regelt Verarbeitung von Beschäftigtendaten: Bewerbungsunterlagen (Aufbewahrung max. 6 Monate nach Absage), Gehaltsunterlagen (10 Jahre), Krankheitstage (nur Zeitraum, nicht Diagnose). Betriebsrat-Vereinbarungen gehen als Erlaubnistatbestand dem Art. 6 DSGVO vor. Norm: https://www.gesetze-im-internet.de/bdsg_2018/__26.html
+### 3.4. Diebstahl, Kameras und Vorfälle
 
-## Haftung nach Art. 82 DSGVO
+Bei Laptopdiebstahl Zugriffsschutz, betroffene Daten, Datenabfluss, Sicherungen und Risiko für Betroffene prüfen; nach Art. 33/34 dokumentiert über Meldung und Benachrichtigung entscheiden. Art. 33-Frist läuft grundsätzlich ab Bekanntwerden, nicht erst nach abgeschlossener Untersuchung. Unbefugter Zugang löst nicht automatisch ohne Prüfung einen Geldanspruch aus: Art. 82 verlangt Verstoß, materiellen oder immateriellen Schaden und Kausalität sowie Prüfung der Verantwortlichkeit. Keine feste Entschädigungssumme erfinden.
 
-EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugte Offenlegung oder der unbefugte Zugang begründet Haftung, ohne dass materieller Schaden bewiesen werden muss; immaterieller Schaden (Kontrollverlust über Daten) genügt. Für Hausverwaltungen bedeutet dies: Gestohlener Laptop ohne Verschlüsselung = Schadenersatzpflicht gegenüber betroffenen Eigentümern. Urteil: https://curia.europa.eu/juris/document/document.jsf?docid=280325&doclang=DE
+Kameraüberwachung unabhängig vom Eigentümerbeschluss nach Art. 6 Abs. 1 Buchst. f, Art. 5, 13, 25 und gegebenenfalls 35 prüfen. Konkrete Vorfälle, mildere Mittel, Erfassungsbereich, maskierte Wohnungs-/Straßenbereiche, Zugriff und kurze Löschintervalle dokumentieren. Weder 48 noch 72 Stunden sind allgemeine gesetzliche Freigabezeiten. Routineaufnahmen und konkret notwendige Ereignissicherung getrennt behandeln. Keine Livebilder an alle Bewohner; Audio deaktivieren und § 201 StGB beachten. V ZR 220/12 und C-708/18 nur mit ihrem historischen Normkontext verwenden.
 
-## Cross-Refs
+### 3.5. Konkrete Arbeitsprodukte
 
-- Dokumentenfreigabe und Einsichtsrechte → `datenschutz-dokumentenfreigabe`
-- Betroffenenrechte (Auskunft, Löschung) → `datenschutz-betroffenenrechte-auskunft-loeschung-weg`
-- Datenpannen melden → `datenschutz-datenpanne-meldung-72h`
-- Verwalterpflichten allgemein → `verwalterpflichten-26-27-weg`
+Verfasse die tatsächlich benötigten VVT-Einträge, den Dienstleisterprüfvermerk, ein rollengerechtes Zugriffs-/Löschkonzept und das datensparsame Anschreiben. Für offene Grundlagen benenne die genaue fehlende Vertragsklausel oder technische Information; nicht die gesamte Prüfung mit einem pauschalen DSGVO-Hinweis beenden.
 
-## Quellenpflicht
+## 4. Quellenpflicht
 
-`rechtsstand-mai-2026-faktenbank` laden. DSGVO-Texte über https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32016R0679 live verifizieren. BDSG über https://www.gesetze-im-internet.de/bdsg_2018/ abrufen. DSK-Orientierungshilfen unter https://www.datenschutzkonferenz-online.de prüfen — Fassungen ändern sich.
+[Miet-, Befalls- und Datenschutzreferenz](../../references/miete-befall-datenschutz-oktober-2026.md); zusätzlich [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu) und [§ 26 BDSG](https://www.gesetze-im-internet.de/bdsg_2018/__26.html). Nach [Zitierweise](../../references/zitierweise.md) arbeiten. Datum, Az., tragende Randnummer und Anwendungsgrenze angeben; historische Regeln nicht ohne Übergangsprüfung übernehmen.
+
+## 5. Ausgabeformat
+
+Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
+
+## 6. Beispiel
+
+Nach Kellerdiebstählen soll jeder Eigentümer per App sämtliche Kamerabilder sehen. Erarbeite aus Vorfällen und Lageplan eine Alternativenprüfung und gegebenenfalls ein enges Zugriffskonzept. Ein Mehrheitsbeschluss ersetzt weder Erforderlichkeit noch die Rechte von Mietern und Besuchern.

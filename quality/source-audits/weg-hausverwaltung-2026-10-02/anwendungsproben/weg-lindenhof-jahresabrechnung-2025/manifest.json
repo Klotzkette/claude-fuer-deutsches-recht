@@ -1,0 +1,167 @@
+{
+  "run": "one sequential agent, same context; not independent models",
+  "case": "weg-lindenhof-jahresabrechnung-2025",
+  "request": "Abrechnung für Eigentümer freigeben? Bank und Rücklage abstimmen, Fehler und Beschlussbedarf nennen, erste Rückfragen beantworten.",
+  "request_sha256": "0802c2ef89c2091533f03557e60d4ee2dfb1815c8f12460f4e17fc771b17fc12",
+  "prompt": "weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md",
+  "prompt_sha256": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+  "inputs": [
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/01_Auftrag_Abrechnung.docx",
+      "sha256": "059da7907ddfac5e9d10f40cda54e973005b06568169a1caac3a0af48eba165e"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/02_Gemeinschaftsordnung.docx",
+      "sha256": "3ceff1a904ddb62cded79b43ce6531500fe44ea6223df7f38b178597ce953062"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/03_Eigentuemer_und_Vorschuesse.xlsx",
+      "sha256": "9ef3ee298649117269f4e44681d90cf9c016b4a94bb37e80e25977875930ca7e"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/04_Wirtschaftsplan_Beschluss.docx",
+      "sha256": "467d34e469185ba393150814c83d3bb56d46c523b6f0107f29b3c7b6f7a3e180"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/05_Buchhaltung_2025.xlsx",
+      "sha256": "3046fd28da96dc76ff2a1e570fa1510d01c625544cb83d476a97a375755520b0"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/06_Ruecklagenkonto_Bankauszug.docx",
+      "sha256": "e0e6a161dd6fca0cce5474a86f2541daad606124b98e65a1a18efc9c9d260cc1"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/07_Wasserrechnung.docx",
+      "sha256": "6fbf679369138b9e1019e3570a39995eada57970f1903be484cecac1287ca999"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/08_Muellrechnung.docx",
+      "sha256": "c2184108e2350362cf2aebf72d911116b0cd5fd34d74bf71b53d5c8b38d9997d"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/09_Gebaeudeversicherung.docx",
+      "sha256": "a6cfb55abccc6593ca48047d56b3fa6c6aaeccdaac1c604cc5da87380e108368"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/10_Stromrechnung.docx",
+      "sha256": "3bd9a97abab97a5d7bd940912d3fb12ec4a6fbef55eee75b821374954965d439"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/11_Reinigung.docx",
+      "sha256": "03d0bccc9c24dfa4cf6d4817d3f0aa07377e6da7271bcd95610ab301f24f6315"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/12_Hausmeisterrechnung.docx",
+      "sha256": "634cd185002bd771a76e5a4005dbd0821323434dd319ee6d85bd4732320f860a"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/13_Hausmeister_Leistungsnachweis.docx",
+      "sha256": "4c4694a6332905e2f20fd1db012c83662a84e156f22793e524a3c797bb087ad8"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/14_Dachreparatur.docx",
+      "sha256": "d88ae3bae56a651f248c77df06bd790e9662c529aab753e6c95914df970c29a5"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/15_Verwalterhonorar.docx",
+      "sha256": "66288422e8ae1c2c56cfc8b42bcdd4489f76520c4a994f56920db7c90eec11e1"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/16_Bankentgelte.docx",
+      "sha256": "e9a498481f9a7387253dd225f582c82278abea4fd0618426c39cbe5b53b6f2ce"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/17_Gesamtabrechnung_Entwurf.docx",
+      "sha256": "3a756e16952ddb78e04f595137d64a851a694cc92bab56516815b0f5b99ffb7e"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/18_Einzelabrechnung_WE01.docx",
+      "sha256": "be89e196f2949bcd8d9a3e3bbcb4113863123f3856624fd5c59d6669d8410b52"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/19_Einzelabrechnung_WE02.docx",
+      "sha256": "7f871396e221bd4a35d35290f5f0d7f2be3bf10620e0edb9aafde5bc1555d832"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/20_Einzelabrechnung_WE03.docx",
+      "sha256": "47f4debaf6c9cc0f74825cb79a9d2812c28dd47f8a32c0b7e2a5c1af2661cc12"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/21_Einzelabrechnung_WE04.docx",
+      "sha256": "ae620cb22b802ff58772e5be5c099f37005e81df42c73fd54e2bc5b0c76ccdc6"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/22_Einzelabrechnung_WE05.docx",
+      "sha256": "7f0eb5e907bbcb3c1318a8671134fb38bfae37cd31ccba8978cc9f9da641c05c"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/23_Einzelabrechnung_WE06.docx",
+      "sha256": "77d1c7fd445b36dde5c5875b0b4645d565ffe15897e9bd6640c36dd9030276d9"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/24_Einzelabrechnung_WE07.docx",
+      "sha256": "4498b83b841775780ba4912add6e77594049be15792d02e1c14281e096e4bb38"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/25_Einzelabrechnung_WE08.docx",
+      "sha256": "0b9ed699b1b3cfd46330149dde5d6e27d99e949cdb0147e5b367772a20180bcf"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/26_Versand_Abrechnung.eml",
+      "sha256": "cf2e52b602a63350be3a8f769ad7046121371dba1f012bd2bb60b40986df0655"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/27_Popescu_Rueckfrage.eml",
+      "sha256": "30eb50b928212b3ca7734e8d0dd6d44203985e468ed6e6ee443b8bdc99fe57c0"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/28_Beiratsnotiz.docx",
+      "sha256": "15f0ec2f8bc12c8bf25f9f7fbb1afe94175199cf0b76a639863cf26f5dfe4833"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/29_Anfrage_Hausmeister.eml",
+      "sha256": "d52746cf8f3a8e68190ec6da45d2800d8809ac2463dec6b5e3bd628463b213aa"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/30_Antwort_Hausmeister.eml",
+      "sha256": "d67a27846e1f917680b599664ebebdf49e87a75338222a32f625e5bc6ad98e99"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/31_Beirat_Chat.txt",
+      "sha256": "dc2a6c7f3beadeb4bbaab4df76bd1d72c4660f46079b13184ae302af60c7d1ed"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/32_Einladung_Entwurf.docx",
+      "sha256": "80ca46bfe2d91ac8b9e002270bfd14584e6b604066069e0c9ce070a3ae21329f"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/33_Beschlussvorlage_Arbeitsfassung.docx",
+      "sha256": "e3ebeed64b39a90430915f73cb022f70668ce6168e9a98fcd56d2f6dd548351c"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/34_Ueberweisungsbestaetigung_Popescu.docx",
+      "sha256": "cf34d5087f83f3057aa98b0aedd6e6da1f43bf47b98e781e95ecbe611074f968"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/35_Buchung_Nachzahlung.eml",
+      "sha256": "b67693ab18f16e85b01482092e559e8023723780b4e69f12ebcc7829bd09e78f"
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/36_Auftrag_Fassung_zwei.eml",
+      "sha256": "81524d721760973679603de4abae6cd70f13a0553bcd67182ee5a6555eb0d07d"
+    }
+  ],
+  "input_manifest_sha256": "5ac2e04dccdeb71113c13ca8d85ede616bccbc778e71f2ac95ed2cdb59e8e25a",
+  "extracted_text_sha256": "eff6a61b8b59c7b875317dba35e88f3e9e34c12be5d9b73fa71224ef2c78f338",
+  "excluded": "README.md, quality/evals, rubrics, model solutions; no source files modified",
+  "sequence": 2,
+  "actual_output_sha256": "a7b059e31d7a7fb33f5e146a802bd68394a4cb3cbd1d955c01599bcaf8781c68",
+  "additional_reference": {
+    "path": "weg-hausverwaltung/references/miete-befall-datenschutz-oktober-2026.md",
+    "sha256_at_finalization": "62d101d2d922034159424c38f06eac298f99b4901234d6bd051242470acaffe8",
+    "use": "read during probe 1; remained in agent context for later probes"
+  },
+  "model_isolation": false,
+  "file_reads": "python-docx, openpyxl read-only values/formulas, Python email parsing; all numbered raw documents read",
+  "external_actions": []
+}

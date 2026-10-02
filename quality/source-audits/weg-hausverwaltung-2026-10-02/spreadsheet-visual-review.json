@@ -1,0 +1,58 @@
+{
+  "status": "pass",
+  "review": "Alle 13 Artifact-Tool-Blätter einzeln in Originaldarstellung geprüft: keine abgeschnittenen Überschriften oder Zahlen, Quellenbezüge lesbar, Zeilenhöhen ausreichend. LibreOffice-Ausgabe visuell zusätzlich durch Root im PDF-Bau zu prüfen.",
+  "images": [
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-kastanienhof-kellerdiebstahl__19_Kosten_und_Schaeden__Gemeinschaft.png",
+      "sha256": "0bd671697a97468a92698060a157cc0cc00e9dd5d34b263f949b5ac99f2dc737"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-kastanienhof-kellerdiebstahl__19_Kosten_und_Schaeden__Private_Meldungen.png",
+      "sha256": "100ee26ade4088a97c13d7ebbe8f4fd7c29124d90b394739a8f50d03718ce22c"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-kastanienhof-kellerdiebstahl__19_Kosten_und_Schaeden__Verteilung_Arbeitsblatt.png",
+      "sha256": "3767e22fca417c367ec36b6c059bb1caf6e0f8dabf00187b9eafe90444b04a32"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-lindenhof-jahresabrechnung-2025__03_Eigentuemer_und_Vorschuesse__Eigentum.png",
+      "sha256": "22893c6831f1455d994e5ea7204cff891e1db17d7cd82fb245c2b68788f21b48"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-lindenhof-jahresabrechnung-2025__03_Eigentuemer_und_Vorschuesse__Vorschuesse.png",
+      "sha256": "03b1e28102883d6ad1d7ac2a79e6e755754988e5bdb5cd634b51ef3afcc94076"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-lindenhof-jahresabrechnung-2025__05_Buchhaltung_2025__Betriebskonto.png",
+      "sha256": "f706bb602dfca77f8d157446dde5bc5542e184b89a35c79ef5b1b30ef4f358db"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-lindenhof-jahresabrechnung-2025__05_Buchhaltung_2025__Kosten.png",
+      "sha256": "73b89fed76d104467a91e62297259f570a77347b2e612d7f5750d7483578e644"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-lindenhof-jahresabrechnung-2025__05_Buchhaltung_2025__Ruecklage.png",
+      "sha256": "b0c64f0077f965ec4770e8e600795a0c96947e578e8bd894307bdae01bf55f45"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-sonnenwinkel-bettwanzen__27_Kosten_und_Termine__Kosten.png",
+      "sha256": "ccd0c4b4f112c00258be214f548df1cdd118c86f7e9ef8b216a2edf0592ae0e5"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-sonnenwinkel-bettwanzen__27_Kosten_und_Termine__Zugang.png",
+      "sha256": "85b03473127e7797bc541b371c193567a442b4637c47051b060be081a212372a"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-spreebogen-mieterumlage-belege__04_Hausgeldexport__Eigentuemerkosten.png",
+      "sha256": "2592848deb966d0cdcb6d1eb5542410ab906d6708f66bcf9ab5442b68a5a6faf"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-spreebogen-mieterumlage-belege__04_Hausgeldexport__Heizdaten.png",
+      "sha256": "bfd074989e95cf4754f3401cfeb706149ce4770728c2c20c6ecddd93ee3b539e"
+    },
+    {
+      "path": "build-evidence/qa/native/tabellen/weg-spreebogen-mieterumlage-belege__29_Mietvorauszahlungen__Mietkonto.png",
+      "sha256": "44be406479a46a394538099f78939f450aaf4d15e9e17cff0582230f79aba6a9"
+    }
+  ]
+}

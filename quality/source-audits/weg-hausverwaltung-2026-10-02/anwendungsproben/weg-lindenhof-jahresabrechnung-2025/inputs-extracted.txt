@@ -1,0 +1,456 @@
+FILE 01_Auftrag_Abrechnung.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Rechtsanwältin Friederike Morgenkanzlei@morgen.example
+Abrechnung Lindenhof vor der Eigentümerversammlung
+18.09.2026
+Sehr geehrte Frau Morgen,
+bitte prüfen Sie die bereits versandten Abrechnungen für 2025 und erstellen Sie eine verständliche Antwort an Frau Popescu sowie eine belastbare Beschlussvorlage für die Versammlung am 22. Oktober. Acht Einheiten gehören acht verschiedenen Personen. Unsere frühere Buchhalterin hat die Zahlen exportiert, ich habe die Briefe am 8. September verschickt. Nach einer Rückfrage bin ich unsicher, ob die Spalte „Nachzahlung“ überall dasselbe enthält.
+Frau Popescu hat im Dezember 2025 ein Hausgeld ausgelassen. Der Beirat findet außerdem die Hausmeisterrechnung zu pauschal. Die Dachreparatur wurde vom laufenden Konto bezahlt, die Rücklage blieb auf ihrem Konto. Die Reserve soll nicht noch einmal als Verbrauch in der Abrechnung erscheinen. Für die Vermietungen stellen wir auf Wunsch Unterlagen bereit; eine Mieterabrechnung ist nicht Bestandteil unseres laufenden Verwaltervertrags.
+Ich brauche jetzt korrigierbare Einzelbriefe, eine Liste der noch benötigten Belege und einen eindeutigen Vorschlag, welche Fassung in der Versammlung behandelt wird. Bitte keine Zahlungsaufforderungen oder Einladungsänderungen ohne unsere Freigabe versenden. Die Originalauszüge liegen im Büro bereit. Frau Tüddel möchte die Unterlagen am 25. September einsehen; bitte berücksichtigen Sie, dass ich ihr dafür bereits einen Termin zugesagt habe.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 02_Gemeinschaftsordnung.docx
+Gemeinschaft der Wohnungseigentümer Lindenhof 18
+Ausfertigung für die Verwaltung
+Gemeinschaftsordnung Lindenhof 18
+17.05.2014
+1. Einheiten und Beteiligung
+Die Wohnanlage besteht aus acht Wohnungen. Die Miteigentumsanteile ergeben sich aus dem Einheitenverzeichnis und betragen zusammen 1.000 Tausendstel. Kellerabteile sind den Wohnungen zugeordnet; tragende Bauteile, Dach, Fassade und gemeinsame Leitungen gehören zum gemeinschaftlichen Eigentum. Die Einheiten werden ausschließlich zu Wohnzwecken genutzt.
+2. Kostenverteilung
+Die Kosten der gemeinschaftlichen Verwaltung und des gemeinschaftlichen Gebrauchs werden nach Miteigentumsanteilen verteilt, soweit keine gesetzlich zwingende oder wirksam beschlossene abweichende Verteilung gilt. In der Anlage besitzt jede Wohnung eine eigene Gasetagenheizung. Der Gasverbrauch der Wohnungen wird nicht durch die Gemeinschaft abgerechnet. Für Wasser bestehen keine wohnungsweisen Zähler; die Gemeinschaftskosten werden nach dem vorgenannten Schlüssel verteilt.
+3. Vorschüsse und Erhaltungsrücklage
+Die Eigentümer leisten die beschlossenen monatlichen Vorschüsse auf das Gemeinschaftskonto. Die im Wirtschaftsplan gesondert bezeichneten Rücklagenbeiträge sind auf einem getrennten Konto der Gemeinschaft anzulegen. Entnahmen erfolgen nur aufgrund eines Beschlusses oder einer anderweitig bestehenden gesetzlichen Befugnis. Kontoauszüge und Verwendungsnachweise sind zu den Verwaltungsunterlagen zu nehmen.
+4. Unterlagen und Verwaltung
+Die Verwaltung führt eine nach Jahren geordnete Belegablage. Auf Verlangen eines Eigentümers stimmt sie einen Termin zur Einsicht in die Verwaltungsunterlagen ab. Unterlagen über andere Eigentümer sind nicht für eine Veröffentlichung in Hauschats bestimmt. Die Beauftragung einer individuellen Mietverwaltung bedarf einer gesonderten Vereinbarung.
+Diese Abschrift enthält die für den Abrechnungsvorgang einschlägigen Bestimmungen. Nach dem von der Verwaltung geführten Beschlussverzeichnis ist für 2025 keine Änderung der Kostenverteilung eingetragen.
+
+FILE 03_Eigentuemer_und_Vorschuesse.xlsx
+SHEET Eigentum
+A1=Einheit | B1=Eigentümer | C1=MEA von 1000 | D1=Wohnfläche m² | E1=Nutzung | F1=Kontokennung
+A2=1 | B2=Edeltraud Tüddel | C2=100 | D2=80 | E2=Selbstnutzung | F2=WE01
+A3=2 | B3=Kian Yilmaz | C3=110 | D3=88 | E3=Vermietet | F3=WE02
+A4=3 | B4=Kunigunde Wackernagel | C4=120 | D4=96 | E4=Selbstnutzung | F4=WE03
+A5=4 | B5=Mirela Popescu | C5=120 | D5=96 | E5=Vermietet | F5=WE04
+A6=5 | B6=Alwin Pfitzner | C6=130 | D6=104 | E6=Selbstnutzung | F6=WE05
+A7=6 | B7=Asha Krüger | C7=130 | D7=104 | E7=Vermietet | F7=WE06
+A8=7 | B8=Bodo Zuckermann | C8=140 | D8=112 | E8=Selbstnutzung | F8=WE07
+A9=8 | B9=Noa Winter | C9=150 | D9=120 | E9=Vermietet | F9=WE08
+SHEET Vorschuesse
+A1=Einheit | B1=Eigentümer | C1=Kosten monatlich EUR | D1=Rücklage monatlich EUR | E1=Soll Jahr EUR | F1=Ist Jahr EUR | G1=Offen EUR
+A2=1 | B2=Edeltraud Tüddel | C2=200 | D2=66.67 | E2==Eigentum!C2*32 [cached=3200] | F2=3200 | G2==E2-F2 [cached=0]
+A3=2 | B3=Kian Yilmaz | C3=220 | D3=73.33 | E3==Eigentum!C3*32 [cached=3520] | F3=3520 | G3==E3-F3 [cached=0]
+A4=3 | B4=Kunigunde Wackernagel | C4=240 | D4=80 | E4==Eigentum!C4*32 [cached=3840] | F4=3840 | G4==E4-F4 [cached=0]
+A5=4 | B5=Mirela Popescu | C5=240 | D5=80 | E5==Eigentum!C5*32 [cached=3840] | F5=3520 | G5==E5-F5 [cached=320]
+A6=5 | B6=Alwin Pfitzner | C6=260 | D6=86.67 | E6==Eigentum!C6*32 [cached=4160] | F6=4160 | G6==E6-F6 [cached=0]
+A7=6 | B7=Asha Krüger | C7=260 | D7=86.67 | E7==Eigentum!C7*32 [cached=4160] | F7=4160 | G7==E7-F7 [cached=0]
+A8=7 | B8=Bodo Zuckermann | C8=280 | D8=93.33 | E8==Eigentum!C8*32 [cached=4480] | F8=4480 | G8==E8-F8 [cached=0]
+A9=8 | B9=Noa Winter | C9=300 | D9=100 | E9==Eigentum!C9*32 [cached=4800] | F9=4800 | G9==E9-F9 [cached=0]
+A10=Summe | C10==SUM(C2:C9) [cached=2000] | D10==SUM(D2:D9) [cached=666.67] | E10==SUM(E2:E9) [cached=32000] | F10==SUM(F2:F9) [cached=31680] | G10==SUM(G2:G9) [cached=320]
+
+FILE 04_Wirtschaftsplan_Beschluss.docx
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Niederschrift der Eigentümerversammlung
+Beschluss über die Vorschüsse für 2025
+21.11.2024
+Die Eigentümer beschließen für das Kalenderjahr 2025 Kostenvorschüsse von insgesamt 24.000 EUR und Beiträge zur Erhaltungsrücklage von insgesamt 8.000 EUR. Beide Beträge werden nach Miteigentumsanteilen verteilt. Die in der Anlage ausgewiesenen Monatsraten sind zum dritten Werktag jedes Monats fällig. Die Jahresbeträge je Einheit sind maßgeblich; Rundungsdifferenzen der Monatsraten werden mit der Dezemberrate ausgeglichen.
+Für Wohnung 4 entfallen jährlich 2.880 EUR auf die laufenden Kosten und 960 EUR auf die Rücklage. Die Monatsrate beträgt dort 320 EUR. Für die übrigen Einheiten gelten die im Vorschussverzeichnis aufgeführten anteiligen Beträge. Für diesen Beschluss stimmen alle acht Eigentümer; Gegenstimmen und Enthaltungen werden nicht abgegeben.
+Die Dachrinnenstelle über dem Hof wird im Frühjahr untersucht. Über eine etwa erforderliche Reparatur soll nach Vorlage eines Angebots gesondert entschieden werden. Der Wirtschaftsplan ermächtigt nicht zur Verwendung von Rücklagemitteln für einen bestimmten Auftrag.
+Versammlungsleiterin Noura Selim; Beiratsvorsitzender Alwin Pfitzner; Eigentümerin Edeltraud Tüddel. Die Niederschrift wurde von den Genannten am 25.11.2024 unterzeichnet.
+
+FILE 05_Buchhaltung_2025.xlsx
+SHEET Kosten
+A1=Kostenart | B1=Bezahlt EUR | C1=Belegnummer | D1=Unterlage
+A2=Wasser und Abwasser | B2=3840 | C2=W-25-818 | D2=07_Wasserrechnung.docx
+A3=Müllentsorgung | B3=2880 | C3=M-25-180 | D3=08_Muellrechnung.docx
+A4=Gebäudeversicherung | B4=2160 | C4=GV-25-188 | D4=09_Gebaeudeversicherung.docx
+A5=Allgemeinstrom | B5=720 | C5=ST-25-991 | D5=10_Stromrechnung.docx
+A6=Treppenreinigung | B6=3600 | C6=R-25-144 | D6=11_Reinigung.docx
+A7=Hausmeister | B7=4800 | C7=HM-25-218 | D7=12_Hausmeisterrechnung.docx
+A8=Dachreparatur | B8=2400 | C8=D-25-512 | D8=14_Dachreparatur.docx
+A9=Verwaltung | B9=3840 | C9=V-25-118 | D9=15_Verwalterhonorar.docx
+A10=Kontoführung | B10=120 | C10=BK-25-118 | D10=16_Bankentgelte.docx
+A11=Summe | B11==SUM(B2:B10) [cached=24360]
+SHEET Betriebskonto
+A1=Datum | B1=Buchung | C1=Eingang EUR | D1=Ausgang EUR | E1=Saldo EUR | F1=Quelle
+A2=2025-01-01 00:00:00 | B2=Anfangsbestand Betrieb | C2=3000 | D2=0 | E2==C2-D2 [cached=3000] | F2=Kontoauszug Anfang
+A3=2025-12-31 00:00:00 | B3=Hausgeldzahlungen Januar bis November | C3=29333.37 | D3=0 | E3==E2+C3-D3 [cached=32333.37] | F3=Zahlungsjournal 2025
+A4=2025-12-31 00:00:00 | B4=Hausgeldzahlungen Dezember | C4=2346.63 | D4=0 | E4==E3+C4-D4 [cached=34680] | F4=Zahlungsjournal 2025
+A5=2025-12-31 00:00:00 | B5=Ausgaben laut Kostenblatt | C5=0 | D5=24360 | E5==E4+C5-D5 [cached=10320] | F5=Belege 07 bis 16
+A6=2025-12-31 00:00:00 | B6=Übertrag Rücklage | C6=0 | D6=7920 | E6==E5+C6-D6 [cached=2400] | F6=Kontoauszug Rücklage
+SHEET Ruecklage
+A1=Datum | B1=Buchung | C1=Eingang EUR | D1=Ausgang EUR | E1=Saldo EUR
+A2=2025-01-01 00:00:00 | B2=Anfangsbestand | C2=40000 | D2=0 | E2==C2-D2 [cached=40000]
+A3=2025-12-31 00:00:00 | B3=Übertrag aus Betrieb | C3=7920 | D3=0 | E3==E2+C3-D3 [cached=47920]
+A4=2025-12-31 00:00:00 | B4=Zinsgutschrift | C4=80 | D4=0 | E4==E3+C4-D4 [cached=48000]
+
+FILE 06_Ruecklagenkonto_Bankauszug.docx
+Bürgerbank an der HavelKundenservice Gemeinschaftskontenservice@buergerbank.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Jahresübersicht Rücklagenkonto 2025
+05.01.2026
+Konto: Rücklage Lindenhof, interne Kontonummer RL-118. Kontoinhaberin ist die Gemeinschaft der Wohnungseigentümer Lindenhof 18. Diese Übersicht enthält aus Gründen der internen Ablage keine Zahlungsadresse.
+Der Bestand am 01.01.2025 betrug 40.000,00 EUR. Im Kalenderjahr wurden vom Betriebskonto insgesamt 7.920,00 EUR übertragen. Entnahmen sind nicht gebucht. Am 31.12.2025 wurden 80,00 EUR Zinsen gutgeschrieben. Der Schlussbestand am 31.12.2025 beträgt 48.000,00 EUR.
+Die Überträge stimmen mit den von der Verwaltung veranlassten Buchungen überein. Die Bank hat nicht geprüft, ob alle Eigentümer ihre beschlossenen Beiträge geleistet haben. Eine Sollstellung von 8.000 EUR ist keine Bankbuchung. Für einzelne Zahlungsaufträge sind die monatlichen Auszüge maßgeblich.
+
+FILE 07_Wasserrechnung.docx
+Wasserwerk KieztalAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Wasser und Abwasser 2025
+31.12.2025 · W-25-818
+Sehr geehrte Damen und Herren,
+Trinkwasser 2.160 EUR einschließlich 7 Prozent Umsatzsteuer; Abwassergebühr 1.680 EUR ohne Umsatzsteuer. Der Hauptzähler L18-44 wurde am 02.01.2025 mit 12.100 m³ und am 02.01.2026 mit 12.940 m³ abgelesen. Abgerechnet werden 840 m³. Die hier ausgewiesenen Jahreskosten enthalten keine wohnungsweisen Verbräuche.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 3.840,00 EUR. Die Rechnungsnummer lautet W-25-818. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die zwölf Abschläge und die Ausgleichszahlung sind vollständig eingegangen. Ein Guthaben besteht nicht.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 08_Muellrechnung.docx
+Sauberer Hof EntsorgungAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Entsorgungsentgelte 2025
+31.12.2025 · M-25-180
+Sehr geehrte Damen und Herren,
+Für die regelmäßige Leerung der Gemeinschaftsbehälter werden für Januar bis Dezember 2025 insgesamt 2.880 EUR berechnet. Sperrmüllabholungen oder private Entrümpelungen sind nicht enthalten. Die Abrechnung erfolgt als öffentlich-rechtliche Gebühr ohne gesonderten Umsatzsteuerausweis.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 2.880,00 EUR. Die Rechnungsnummer lautet M-25-180. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Der Jahresbetrag wurde mit vier Raten zu je 720 EUR beglichen.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 09_Gebaeudeversicherung.docx
+Havel Schutz VersicherungAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Beitragsrechnung Gebäudeversicherung 2025
+31.12.2025 · GV-25-188
+Sehr geehrte Damen und Herren,
+Versichert ist das Gebäude Lindenhof 18. Der Zeitraum läuft vom 01.01. bis 31.12.2025. Der Bruttobeitrag von 2.160 EUR enthält Versicherungssteuer und keine Umsatzsteuer. Privater Hausrat der Bewohner ist nicht Gegenstand dieses Vertrags.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 2.160,00 EUR. Die Rechnungsnummer lautet GV-25-188. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Der Beitrag wurde am 06.01.2025 vom Betriebskonto eingezogen. Eine Schadenleistung wurde 2025 nicht erbracht.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 10_Stromrechnung.docx
+Kiezstrom Energie GmbHAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Allgemeinstrom 2025
+31.12.2025 · ST-25-991
+Sehr geehrte Damen und Herren,
+Der Zähler AL18-09 versorgt Treppenhauslicht, Kellerlicht und die gemeinschaftliche Klingelanlage. Die Jahresabrechnung für 2025 beträgt 605,04 EUR netto zuzüglich 114,96 EUR Umsatzsteuer. Der Verbrauch beträgt 1.800 kWh. Die Wohnungshauptzähler sind nicht erfasst.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 720,00 EUR. Die Rechnungsnummer lautet ST-25-991. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die geleisteten Abschläge entsprechen dem Bruttobetrag. Eine Restforderung besteht nicht.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 11_Reinigung.docx
+Blitzblank Berta e.K.Abrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Treppenhausreinigung 2025
+31.12.2025 · R-25-144
+Sehr geehrte Damen und Herren,
+Abgerechnet werden 50 ausgeführte Reinigungen des Treppenhauses einschließlich Geländer und Eingangsbereich. Zwei vereinbarte Feiertagswochen wurden mit einer zusätzlichen Reinigung in der Folgewoche ausgeglichen. Das Jahreshonorar beträgt 3.025,21 EUR netto und 574,79 EUR Umsatzsteuer.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 3.600,00 EUR. Die Rechnungsnummer lautet R-25-144. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die monatlichen Rechnungen zu 300 EUR brutto sind beglichen. Diese Jahresbestätigung fordert keine zweite Zahlung an.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 12_Hausmeisterrechnung.docx
+Hausdienst Kuno KnarzkopfAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Jahresabrechnung Hausmeisterdienst 2025
+31.12.2025 · HM-25-218
+Sehr geehrte Damen und Herren,
+Für die Betreuung der Anlage werden 4.033,61 EUR netto zuzüglich 766,39 EUR Umsatzsteuer berechnet. Die Pauschale umfasst Kontrollgänge, Bereitstellen der Müllbehälter, kleinere Reparaturen und die monatliche Ablage von Handwerkerterminen. Unsere ursprüngliche Rechnung unterscheidet diese Bestandteile nicht betragsmäßig.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 4.800,00 EUR. Die Rechnungsnummer lautet HM-25-218. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die monatlichen zwölf Raten zu 400 EUR brutto sind bezahlt. Auf die Anfrage der Verwaltung können wir eine Tätigkeitsaufstellung nachreichen.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 13_Hausmeister_Leistungsnachweis.docx
+Hausdienst Kuno Knarzkopf
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Tätigkeitsnachweis Hausdienst 2025
+31.12.2025
+Die Wochenzettel nennen 180 Stunden für Mülltonnen und Sichtkontrollen, 45 Stunden für das Einstellen von Türen, das Ersetzen einzelner Leuchten und ähnliche Arbeiten sowie 15 Stunden für Terminabstimmung und Ablage. Der kalkulatorische Satz für diese Jahresauswertung beträgt 20 EUR brutto je Stunde. Der Gesamtbetrag von 4.800 EUR stimmt mit der bezahlten Jahrespauschale überein.
+Bei den 45 Stunden sind Arbeits- und Materialanteile nicht getrennt erfasst. Zwei Leuchten wurden vollständig ersetzt, an anderen Tagen wurden nur Leuchtmittel gewechselt. Die Unterlagen enthalten keine wohnungsweisen Tätigkeiten. Die 15 Stunden betreffen Termine der Verwaltung und keine Reinigung.
+Diese Aufstellung wurde zunächst für unsere eigene Nachkalkulation erstellt. Sie ersetzt nicht die Rechnung. Kuno Knarzkopf hat die Angaben am 31.12.2025 aus den Wochenzetteln übertragen. Die Wochenzettel liegen im Büro des Hausdienstes und können nach Terminvereinbarung bereitgestellt werden.
+
+FILE 14_Dachreparatur.docx
+Dach und Drauf Dachbau GmbHAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Rechnung über die Reparatur der Dachrinne
+31.12.2025 · D-25-512
+Sehr geehrte Damen und Herren,
+Am 15.05.2025 wurden drei laufende Meter korrodierte Dachrinne am Hofanschluss ersetzt und der betroffene Ablauf neu abgedichtet. Abgerechnet werden 2.016,81 EUR netto zuzüglich 383,19 EUR Umsatzsteuer. Wiederkehrende Reinigung ist nicht enthalten. Der Auftrag entspricht dem angenommenen Angebot vom 20.04.2025.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 2.400,00 EUR. Die Rechnungsnummer lautet D-25-512. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die Zahlung ging am 28.05.2025 vom Betriebskonto Lindenhof ein. Die Verwaltung benannte dieses Konto ausdrücklich als Zahlungskonto.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 15_Verwalterhonorar.docx
+Havel und Hof Hausverwaltung GmbHAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Jahresbestätigung Verwalterhonorar 2025
+31.12.2025 · V-25-118
+Sehr geehrte Damen und Herren,
+Die Grundvergütung beträgt je Wohnung monatlich 40 EUR brutto. Acht Wohnungen und zwölf Monate ergeben 3.840 EUR brutto, darin 3.226,89 EUR netto und 613,11 EUR Umsatzsteuer. Die Grundvergütung erfasst Gemeinschaftsverwaltung, eine ordentliche Versammlung und die gemeinschaftliche Abrechnung.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 3.840,00 EUR. Die Rechnungsnummer lautet V-25-118. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die zwölf Monatsbeträge sind bezahlt. Eine individuelle Betriebskostenabrechnung für einen Mietvertrag ist nicht umfasst.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 16_Bankentgelte.docx
+Bürgerbank an der HavelAbrechnung Lindenhof 18rechnung@lieferant.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Entgeltabrechnung Gemeinschaftskonto 2025
+31.12.2025 · BK-25-118
+Sehr geehrte Damen und Herren,
+Für das Betriebskonto wurden zwölf monatliche Entgelte von jeweils 10 EUR belastet. Die Kontoführung ist umsatzsteuerfrei. Der Rücklagenkontovertrag enthält im Jahr 2025 kein zusätzliches Entgelt.
+Der Bruttobetrag für den bezeichneten Leistungszeitraum beträgt 120,00 EUR. Die Rechnungsnummer lautet BK-25-118. Die Leistung wurde für die Gemeinschaft am Objekt Lindenhof 18 erbracht. Die Abrechnung betrifft ausschließlich die vorstehend genannten Leistungen.
+Die Belastungen sind in der Jahressumme der Betriebskontoausgänge enthalten. Es wurde kein Entgelt vom privaten Konto eines Eigentümers eingezogen.
+Bitte führen Sie Rückfragen unter Angabe der Rechnungsnummer an unsere Buchhaltung. Ein Austausch des Dokuments soll erst nach Abstimmung erfolgen; die ursprüngliche Rechnung bleibt in unserer Ablage erhalten.
+
+FILE 17_Gesamtabrechnung_Entwurf.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Gemeinschaft der Wohnungseigentümer Lindenhof 18Lindenhof 18, Berlin
+Jahresabrechnung 2025 Fassung vom 6 September
+06.09.2026
+1. Zahlungen und Konten
+Das Betriebskonto beginnt mit 3.000 EUR. Im Jahr 2025 gingen 31.680 EUR Hausgeld ein. Die Ausgaben für das Gebäude und die Verwaltung betragen 24.360 EUR; auf das Rücklagenkonto wurden 7.920 EUR überwiesen. Der Schlussbestand auf dem Betriebskonto beträgt 2.400 EUR. Die Rücklage stieg von 40.000 EUR durch Beiträge von 7.920 EUR und Zinsen von 80 EUR auf 48.000 EUR.
+2. Kostenverteilung
+Die 24.360 EUR werden nach 1.000 Miteigentumsanteilen verteilt. Die Vorschusszahlungen werden nach dem Export der Buchhaltung gegengerechnet. Der Export setzt bei Wohnung 4 für laufende Kosten 2.640 EUR statt des Jahresplanwerts ein. Die Liste weist deshalb Nachzahlungen von zusammen 600 EUR aus. Rücklagenbeiträge werden in diesem Abschnitt nicht als Gebäudekosten mitverteilt.
+3. Stand der Unterlagen
+Die Dachreparatur wurde im Mai vom Betriebskonto bezahlt. Eine Entnahme aus der Rücklage ist nicht gebucht. Der Hausmeister hat die Tätigkeitsnachweise noch nicht nachgereicht. Diese Fassung wurde von der Sachbearbeitung erstellt und dem Beirat zur Prüfung überlassen; eine Beschlussfassung liegt noch nicht vor.
+Noura Selim
+
+FILE 18_Einzelabrechnung_WE01.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Edeltraud TüddelEigentum Wohnung 1, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 1
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 100 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 2.436,00 EUR. In der Buchhaltung sind für laufende Kosten 2.400,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 36,00 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 800,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 800,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 19_Einzelabrechnung_WE02.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Kian YilmazEigentum Wohnung 2, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 2
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 110 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 2.679,60 EUR. In der Buchhaltung sind für laufende Kosten 2.640,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 39,60 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 880,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 880,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 20_Einzelabrechnung_WE03.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Kunigunde WackernagelEigentum Wohnung 3, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 3
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 120 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 2.923,20 EUR. In der Buchhaltung sind für laufende Kosten 2.880,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 43,20 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 960,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 960,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 21_Einzelabrechnung_WE04.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Mirela PopescuEigentum Wohnung 4, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 4
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 120 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 2.923,20 EUR. In der Buchhaltung sind für laufende Kosten 2.640,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 283,20 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 880,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 960,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 22_Einzelabrechnung_WE05.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Alwin PfitznerEigentum Wohnung 5, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 5
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 130 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 3.166,80 EUR. In der Buchhaltung sind für laufende Kosten 3.120,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 46,80 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 1.040,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 1.040,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 23_Einzelabrechnung_WE06.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Asha KrügerEigentum Wohnung 6, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 6
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 130 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 3.166,80 EUR. In der Buchhaltung sind für laufende Kosten 3.120,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 46,80 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 1.040,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 1.040,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 24_Einzelabrechnung_WE07.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Bodo ZuckermannEigentum Wohnung 7, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 7
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 140 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 3.410,40 EUR. In der Buchhaltung sind für laufende Kosten 3.360,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 50,40 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 1.120,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 1.120,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 25_Einzelabrechnung_WE08.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Noa WinterEigentum Wohnung 8, Lindenhof 18
+Jahresabrechnung 2025 Wohnung 8
+06.09.2026
+Sehr geehrte Eigentümerin, sehr geehrter Eigentümer,
+Ihre Wohnung ist mit 150 von 1.000 Miteigentumsanteilen an der Anlage beteiligt. Die gemeinschaftlichen Jahreskosten von 24.360 EUR ergeben für Ihre Einheit 3.654,00 EUR. In der Buchhaltung sind für laufende Kosten 3.600,00 EUR als Zahlung berücksichtigt. Daraus weist unser vorliegender Export eine Nachzahlung von 54,00 EUR aus. Der Betrag soll Gegenstand der Beschlussfassung am 22. Oktober sein und ist mit diesem Entwurf noch nicht neu angefordert.
+Auf die Erhaltungsrücklage wurden für Ihre Einheit im Jahr 2025 1.200,00 EUR gezahlt. Der anteilige Jahresplanwert beträgt 1.200,00 EUR. Die Rücklage ist in der vorstehenden Kostensumme nicht enthalten. Die vollständigen Gemeinschaftsbestände entnehmen Sie bitte der Gesamtabrechnung.
+Die Kosten bestehen aus Wasser, Müll, Gebäudeversicherung, Allgemeinstrom, Treppenreinigung, Hausmeister, Dachreparatur, Verwaltung und Kontoführung. Alle Positionen wurden nach Miteigentumsanteilen verteilt. Ob einzelne Bestandteile gegenüber einem Mieter abzurechnen sind, ist nicht Gegenstand dieses Schreibens. Bitte reichen Sie Rückfragen möglichst vor der Versammlung ein.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 26_Versand_Abrechnung.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Mirela Popescu <mirela@popescu.example>
+Subject: Lindenhof: Ihre Abrechnung für 2025
+Date: Tue, 08 Sep 2026 11:34:00 +0200
+Message-ID: <26_Versand_Abrechnung.weg-lindenhof-jahresabrechnung-2025@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-lindenhof-jahresabrechnung-2025-26_Versand_Abrechnung"
+Sehr geehrte Frau Popescu,
+
+anbei erhalten Sie die Gesamtabrechnung und den Export für Ihre Wohnung 4. Die Abrechnung wird auf der Versammlung behandelt. Eine Einladung mit den übrigen Tagesordnungspunkten folgt gesondert. Bitte gleichen Sie die Angaben mit Ihren Zahlungen ab. Für die Belegeinsicht stimmen wir gern einen Termin ab.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+
+FILE 27_Popescu_Rueckfrage.eml
+From: Mirela Popescu <mirela@popescu.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Re: Lindenhof: Warum 283,20 Euro und nochmals 320 Euro?
+Date: Thu, 10 Sep 2026 08:19:00 +0200
+Message-ID: <27_Popescu_Rueckfrage.weg-lindenhof-jahresabrechnung-2025@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Liebe Frau Selim,
+
+auf meiner Abrechnung stehen 283,20 EUR. Zugleich fordert Ihre Zahlungserinnerung weiter 320 EUR aus Dezember 2025. Mein Dauerauftrag war nach dem Bankwechsel wirklich ausgefallen; das bestreite ich nicht. Aber wird damit nicht ein Teil zweimal verlangt? Im Wirtschaftsplan stehen für laufende Kosten doch 2.880 EUR für mich.
+
+Die 320 EUR habe ich heute überwiesen. Bitte sagen Sie mir, wofür die Zahlung jetzt gebucht wird. Mein Mieter hat schon gefragt, ob die Dachreparatur auf ihn zukommt. Ich möchte ihm noch nichts Falsches schicken.
+
+Herzliche Grüße
+Mirela Popescu
+
+
+FILE 28_Beiratsnotiz.docx
+Alwin Pfitzner und Edeltraud TüddelVerwaltungsbeirat
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Notizen aus der Belegprüfung am 12 September
+12.09.2026
+Wir haben am 12.09.2026 die Jahresunterlagen im Büro angesehen. Die Summe der neun Kostenpositionen lässt sich mit den vorgelegten Zahlungsbestätigungen auf 24.360 EUR abstimmen. Das Rücklagenkonto zeigt 48.000 EUR. Den Übertrag von 7.920 EUR haben wir auf beiden Konten gefunden. Die anfängliche mündliche Angabe „8.000 eingezahlt“ war gerundet und stimmt mit dem Bankbestand nicht überein.
+Bei Wohnung 4 ist die offene Dezemberrate in der Eigentümerkontokarte und außerdem teilweise in der Spalte Nachzahlung enthalten. Uns fehlt eine Erklärung, ob die Versammlung darüber doppelt beschließen soll. Wir möchten, dass die Darstellung vor der Einladung berichtigt oder jedenfalls verständlich getrennt wird.
+Die Hausmeisterrechnung enthält auch Reparaturen und Ablagearbeit. Für die WEG-Gesamtausgabe ist der volle bezahlte Betrag vorhanden. Für Bescheinigungen und Vermieterunterlagen benötigen wir die tatsächliche Aufteilung. Eine vorbehaltlose Empfehlung zur Beschlussfassung haben wir deshalb noch nicht abgegeben. Frau Selim wird uns die nächste Fassung mit sichtbarem Datum zusenden.
+
+FILE 29_Anfrage_Hausmeister.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Kuno Knarzkopf <kuno@hausdienst.example>
+Subject: HM-25-218: Bitte Tätigkeiten aufteilen
+Date: Sat, 12 Sep 2026 14:05:00 +0200
+Message-ID: <29_Anfrage_Hausmeister.weg-lindenhof-jahresabrechnung-2025@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Guten Tag Herr Knarzkopf,
+
+bitte senden Sie uns Ihre Jahresaufstellung zu den Kontrollgängen, Reparaturen und Büroarbeiten. Auf der Rechnung steht nur die Pauschale von 4.800 EUR. Wir benötigen keine neue Rechnung mit einem anderen Gesamtbetrag, sondern eine nachvollziehbare Zuordnung. Bitte erläutern Sie auch, was mit den ersetzten Leuchten gemeint ist.
+
+Viele Grüße
+Noura Selim
+
+
+FILE 30_Antwort_Hausmeister.eml
+From: Kuno Knarzkopf <kuno@hausdienst.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Re: HM-25-218 Tätigkeitsnachweis
+Date: Mon, 14 Sep 2026 09:22:00 +0200
+Message-ID: <30_Antwort_Hausmeister.weg-lindenhof-jahresabrechnung-2025@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-lindenhof-jahresabrechnung-2025-30_Antwort_Hausmeister"
+Guten Morgen Frau Selim,
+
+anbei die Jahresaufstellung. Die 180 Stunden ergeben kalkulatorisch 3.600 EUR, die 45 Stunden 900 EUR und die 15 Stunden 300 EUR. Das sind keine zusätzlichen Forderungen. Bei zwei der Leuchten habe ich das komplette Gehäuse ausgetauscht. Den Materialanteil bekomme ich aus der Jahrespauschale nicht ohne die einzelnen Einkaufsbelege heraus.
+
+Die Frau in Wohnung 3 hat übrigens recht: Das Putzen der Treppe war nicht meine Leistung, dafür kam Berta. Ich habe nur die Behälter bewegt und die Anlagen angesehen. Bitte nicht zweimal als Reinigung bezeichnen.
+
+Freundliche Grüße
+Kuno Knarzkopf
+
+
+FILE 31_Beirat_Chat.txt
+Ausschnitt aus dem Beiratschat
+15.09.2026
+
+15.09.2026 18:42 Edeltraud: Im Flur heißt es schon wieder, die Verwaltung hätte 80 Euro verloren.
+15.09.2026 18:44 Alwin: Die 80 fehlen nicht auf dem Bankkonto. Die Monatsrate aus Wohnung 4 war noch offen.
+15.09.2026 18:45 Edeltraud: Dann bitte genau so erklären, ohne Kontodaten von Mirela an alle zu schicken.
+15.09.2026 18:47 Noura: Ihre Zahlung kam inzwischen. Ich schicke morgen den Buchungsvermerk, keine Kontoauszüge in den Chat.
+15.09.2026 18:49 Alwin: Und bitte Fassung zwei deutlich anders nennen. Bei mir heißen beide Anhänge Abrechnung_final.
+
+
+FILE 32_Einladung_Entwurf.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Eigentümerinnen und Eigentümer Lindenhof 18
+Einladung zur Eigentümerversammlung am 22 Oktober
+16.09.2026
+Sehr geehrte Damen und Herren,
+wir laden Sie zur Eigentümerversammlung am 22.10.2026 um 18.30 Uhr in den Gemeinschaftsraum des Nachbarschaftshauses am Lindenhof ein. Die Tagesordnung umfasst die Feststellung der Teilnahme, den Bericht der Verwaltung, die Beschlussfassung über Nachschüsse oder die Anpassung der beschlossenen Vorschüsse auf Grundlage der Jahresabrechnung 2025 sowie den Wirtschaftsplan 2027.
+Die bisher übersandten Einzelabrechnungen werden derzeit anhand der Beiratsrückfragen geprüft. Die endgültige Fassung soll mit der Einladung bereitgestellt werden. Diese im Verwaltungsordner gespeicherte Einladung ist noch nicht versandt. Der Beschlussvorschlag verweist bislang auf die Fassung vom 6. September; dieser Verweis ist vor dem Versand abzugleichen.
+Für die Einsicht in die Belege steht am 25.09.2026 ab 10 Uhr ein Termin im Verwaltungsbüro bereit. Bitte melden Sie sich an, damit wir die Unterlagen bereitlegen können. Wer verhindert ist, kann einen weiteren Termin abstimmen.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 33_Beschlussvorlage_Arbeitsfassung.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Interne Vorbereitung der Eigentümerversammlung
+Beschlussvorlage Jahresabrechnung 2025
+16.09.2026
+Die Wohnungseigentümer beschließen die in den Einzelabrechnungen vom 06.09.2026 ausgewiesenen Nachzahlungen von insgesamt 600 EUR. Die Zahlung soll vier Wochen nach der Versammlung fällig werden. Die Rückstände aus dem Wirtschaftsplan bleiben daneben fällig.
+Die Hausverwaltung stellt diese Formulierung zur internen Abstimmung mit dem Beirat bereit. Eine Abstimmung der Eigentümer ist nicht erfolgt. Frau Selim hat die Vorlage am 16.09.2026 aus dem früheren Textbaustein übernommen; sie ist wegen der offenen Rückfrage zu Wohnung 4 noch nicht für den Einladungsversand freigegeben.
+
+FILE 34_Ueberweisungsbestaetigung_Popescu.docx
+Mirela PopescuAusdruck aus ihrem Zahlungsjournal
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Überweisung Hausgeld Dezember 2025
+10.09.2026
+Ausführung am 10.09.2026 um 08.01 Uhr. Zahlungsempfängerin: Gemeinschaft der Wohnungseigentümer Lindenhof 18. Betrag: 320,00 EUR. Verwendungszweck: WE04 Hausgeld Dezember 2025, laufende Kosten 240 EUR und Rücklage 80 EUR.
+Der Auftrag ist im Onlinebanking als ausgeführt markiert. Die Darstellung zeigt die internen Kontobezeichnungen Privat-Popescu und WEG-Lindenhof. Eine vollständige IBAN ist in diesem Ausdruck nicht enthalten. Frau Popescu hat den Ausdruck am selben Morgen an Frau Selim weitergeleitet.
+Diese Überweisung betrifft nicht die neue Abrechnung für 2025 und enthält keine Erklärung zur Anerkennung der dort ausgewiesenen Nachzahlung.
+
+FILE 35_Buchung_Nachzahlung.eml
+From: Oskar Pudel <buchhaltung@havelhof.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: WE04: Eingang 320 EUR am 11. September
+Date: Wed, 16 Sep 2026 11:02:00 +0200
+Message-ID: <35_Buchung_Nachzahlung.weg-lindenhof-jahresabrechnung-2025@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Hallo Noura,
+
+die 320 EUR wurden am 11. September 2026 gutgeschrieben. Ich habe sie mit dem angegebenen Zweck auf die alte Dezemberforderung gebucht: 240 EUR Kosten und 80 EUR Rücklage. Das verändert den Bankbestand 2026, nicht den Schlussbestand zum 31. Dezember 2025. Den Rücklagenübertrag für die 80 EUR habe ich heute ausgelöst.
+
+Im Eigentümerkonto ist die Dezemberforderung jetzt ausgeglichen. Die schon verschickte Abrechnung bleibt aber unverändert im Archiv. Ich kann die Vorfassung nicht einfach durch eine neue Datei unter demselben Namen ersetzen, weil Frau Popescu sie bereits hat.
+
+Viele Grüße
+Oskar
+
+
+FILE 36_Auftrag_Fassung_zwei.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Friederike Morgen <kanzlei@morgen.example>
+Subject: Lindenhof: Bitte korrigierte Unterlagen zusammenstellen
+Date: Fri, 18 Sep 2026 16:07:00 +0200
+Message-ID: <36_Auftrag_Fassung_zwei.weg-lindenhof-jahresabrechnung-2025@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-lindenhof-jahresabrechnung-2025-36_Auftrag_Fassung_zwei"
+Sehr geehrte Frau Morgen,
+
+Sie erhalten ergänzend die Rückmeldung der Buchhaltung und den Beiratsvermerk. Bitte entwerfen Sie eine persönliche Antwort an Frau Popescu, die überarbeitete Beschlussformulierung und die dazu passenden Zahlen je Wohnung. Die Eigentümer sollen erkennen, welche Fassung ersetzt wird und was sich verändert. Eine abstrakte Erläuterung allein reicht uns nicht, weil die Einladung jetzt vorbereitet werden muss.
+
+Bitte trennen Sie außerdem die interne Gemeinschaftsabrechnung von der Unterlage, die vermietende Eigentümer eventuell für ihre Mieter brauchen. Die Hausmeisteraufteilung möchte ich nicht ungeprüft als „voll umlagefähig“ bescheinigen.
+
+Mit freundlichen Grüßen
+Noura Selim

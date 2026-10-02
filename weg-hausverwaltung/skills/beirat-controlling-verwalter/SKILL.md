@@ -1,78 +1,38 @@
 ---
 name: beirat-controlling-verwalter
-description: "Für Beirat: Controlling und Verwalterbegleitung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Unterstützt den Verwaltungsbeirat bei Prüfung von Wirtschaftsplan, Jahresabrechnung, Belegen und Aufträgen; erstellt einen Prüfbericht mit konkreten Differenzen, Nachforderungen und Beschlussempfehlungen."
 ---
 
-# Beirat: Controlling und Verwalterbegleitung
+# Beiratsprüfung mit belegter Stellungnahme
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Prüfe Wirtschaftsplan und Jahresabrechnung für die Stellungnahme des Beirats und begleite die Verwaltung, ohne eine nicht übertragene Entscheidungskompetenz zu behaupten. Gib eine konkrete Freigabeempfehlung, eine Korrekturliste und einen ausformulierten Prüfvermerk aus.
 
-## Fachkern: Beirat: Controlling und Verwalterbegleitung
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Stand: 05/2026.
+Plan- und Abrechnungsfassung, Soll-Vorschüsse, Einzelabrechnungen, Bankkonten, Rücklagenstand, Belegliste, Stichprobenbelege, Maßnahmenbeschlüsse und wesentliche offene Vorgänge lesen. Umfang und Grenzen der tatsächlich vorgenommenen Prüfung dokumentieren. Nicht behaupten, alle Belege seien geprüft, wenn nur eine Stichprobe vorliegt.
 
-## Ziel
+## 3. Ablauf und fachliche Weichen
 
-Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterstützungsrolle. § 29 WEG: Beirat unterstützt die Verwaltung, prüft Wirtschaftsplan, Jahresabrechnung und Vermögensbericht vor Vorlage in der Versammlung, gibt eine Stellungnahme ab.
+§ 29 Abs. 2 WEG nennt Unterstützung und Überwachung des Verwalters sowie Prüfung von Wirtschaftsplan/Jahresabrechnung mit Stellungnahme vor den § 28-Beschlüssen. Eine zusätzliche Plausibilitätsprüfung des Vermögensberichts ist sinnvoll, aber nicht als wörtlich gleicher gesetzlicher Prüfauftrag auszugeben. Unentgeltliche Beiratsmitglieder haften nach Abs. 3 nur für Vorsatz und grobe Fahrlässigkeit; daraus folgt keine Befreiung von sorgfältiger tatsächlicher Prüfung.
 
-## Checkliste Prüfen
+Geldkonten einschließlich Umbuchungen abstimmen; Endbankguthaben ist nicht einfach die Summe der Kosten. Rücklagensoll, tatsächliche Zuführung, Entnahme und offene Rücklagenforderungen unterscheiden. Bei Einzelabrechnungen Kostenanteil minus Soll-Vorschüsse prüfen; Zahlungsverzug daneben. Doppelbelege, unterlassene Gutschriften, falsche Schlüssel und fehlende Auftragsgrundlage als konkrete Beanstandung mit Beleg-ID nennen.
 
-### Jahresabrechnung und Vermögensbericht
-- Bankkontostand zum Stichtag = Summe in der Abrechnung?
-- Erhaltungsrücklage saldiert (Anfangsbestand + Zuführung − Entnahme = Endbestand)?
-- Einzelabrechnungen rechnerisch korrekt, Schlüssel angewendet wie beschlossen?
-- Pflicht-Vermögensbericht nach § 28 Abs. 4 WEG vorhanden und plausibel?
-- Belegliste vollständig, stichprobenhaft Belege gezogen?
-- Werden Daten für CO2KostAufG bereitgestellt?
+Angebote hinsichtlich hinreichender Tatsachengrundlage bewerten, nicht nur zählen. BGH, Urt. v. 27.03.2026 – Az. V ZR 7/25, Rn. 15–25, verlangt keinen allgemeinen Drei-Angebote-Nachweis, lässt aber Eignungs-/Wirtschaftlichkeitsprüfung bestehen. Bei Schlüsselwechseln V ZR 50/25, Rn. 13–23, anwenden und Mehrbelastung kleiner Einheiten rechnen. Bestandskräftige Beschlüsse nicht kommentarlos durch Beiratsentscheidung ersetzen.
 
-### Angebotstabelle bei Handwerkermaßnahmen
-- Mindestens 2–3 Vergleichsangebote bei substanzieller Maßnahme?
-- Vergleich Brutto, Leistung, Gewährleistung, Ausschlüsse?
-- Plausibler Bezug zum Maßnahmenbeschluss?
+Offene Beschlüsse mit Zuständigkeit, Termin, Budgetverbrauch und Verzögerungsgrund verfolgen. Sondervergütung anhand tatsächlicher Vertragsgrundlage prüfen; keine erfundene Sonderhonorarentscheidung zitieren. Vor Entlastung konkret erkennbare mögliche Ersatzansprüche und die Wirkung des vorgesehenen Wortlauts prüfen.
 
-### Umsetzung alter Beschlüsse
-- Status je offenem Beschluss (offen, in Arbeit, erledigt)?
-- Fristen / Mahnstand / Liquiditätsfolge?
+Prüfvermerk ausformulieren: „Wir haben die Fassung vom [Datum] anhand der in Anlage 1 aufgeführten Unterlagen geprüft. Die Geldkontenabstimmung ergab [konkretes Ergebnis]. Bei den [Anzahl] einzeln bezeichneten Stichprobenbelegen fanden wir [Befund]. Nicht geprüft wurden [abgegrenzter Bereich mit Grund]. Vor Beschlussfassung sind [konkrete Korrekturen] erforderlich. Unter diesen Voraussetzungen empfehlen wir [begründete Empfehlung].“ Ein Beiratsvermerk ersetzt weder Eigentümereinsicht noch die erforderlichen Eigentümerbeschlüsse.
 
-### Beschlusssammlung und Protokoll
-- Eintragungen unverzüglich, vollständig, mit Verkündung?
-- Auslegungsklarheit (z. B. Abrechnungsspitzen statt "Genehmigung der Abrechnung")?
+## 4. Quellenpflicht
 
-### Verwaltervertrag, Sondervergütungen, Interessenkonflikte
-- Aktuelle Fassung des Verwaltervertrags vorhanden?
-- Sondervergütungen einzeln vereinbart und genehmigt?
-- Verbindungen zu beauftragten Firmen offengelegt?
+[Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) für die konkret berührten Fragen lesen. Die amtlichen Entscheidungslinks, Randnummern und Anwendungsgrenzen dort beachten; Normstand anhand der verlinkten Einzelnormen prüfen. Nach [Zitierweise](../../references/zitierweise.md) zitieren. Keine Literaturfundstellen aus Modellwissen und keine Entscheidung nur wegen eines ähnlichen Schlagworts übernehmen.
 
-## Wichtige BGH-Linien für den Beirat
+## 5. Ausgabeformat
 
-- Schadensersatzansprüche aus Verwalterpflichtverletzungen laufen über die GdWE, nicht direkt gegen den Verwalter — BGH, Urteil vom 05.07.2024, V ZR 34/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24).
-- Anspruch auf Erstellung der Jahresabrechnung gegen GdWE — BGH, Urteil vom 19.04.2024, V ZR 167/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23).
-- Prozesskosten aus verlorener Beschlussklage sind Verwaltungskosten und auch vom obsiegenden Anfechtungskläger anteilig zu tragen — BGH, Urteil vom 19.07.2024, V ZR 139/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+139/23). Beirat sollte das im Vorfeld einer Anfechtung gegenüber Eigentümern transparent machen.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
-## Mustertext Beiratsprüfvermerk
+## 6. Beispiel
 
-> **Beiratsprüfvermerk Jahresabrechnung [Jahr]**
-> Geprüft am [Datum] durch [Beiratsmitglieder].
-> 1. Bankbestand zum [Stichtag]: [Betrag] EUR — übereinstimmend mit Abrechnung.
-> 2. Erhaltungsrücklage: Anfangsbestand [...], Zuführung [...], Entnahme [...], Endbestand [...].
-> 3. Belegstichprobe: [Anzahl] Belege geprüft; Auffälligkeiten: [keine / siehe Anlage].
-> 4. Einzelabrechnungen: Schlüssel und Rechnung stichprobenartig nachvollzogen.
-> 5. Vermögensbericht zum [Stichtag]: liegt vor und ist plausibel.
-> Empfehlung an Eigentümer: Beschlussfassung über Abrechnungsspitzen mit dem Wortlaut gemäß Anlage [X] [befürworten / mit folgenden Korrekturen befürworten].
-
-## Cross-Refs
-
-- Verwalterkompetenz / Haftung → `verwalterpflichten-26-27-weg`
-- Jahresabrechnung → `wirtschaftsplan-jahresabrechnung-28-weg`
-- Anfechtungsrisiko → `beschlussanfechtung-risiko`
-- Vergabe / Angebote → `handwerker-beauftragung-vergabe`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. § 29 WEG: https://www.gesetze-im-internet.de/woeigg/__29.html .
+Eine Rechnung erscheint doppelt, die Verwaltung verweist auf „PDF und Original“. Markiere einen wirtschaftlichen Vorgang, prüfe ob tatsächlich einmal oder zweimal gezahlt wurde, und verlange gezielt Buchungskorrektur beziehungsweise Rückzahlung. Eine allgemeine Bescheinigung „Belege geprüft, alles in Ordnung“ wird nicht ausgegeben.

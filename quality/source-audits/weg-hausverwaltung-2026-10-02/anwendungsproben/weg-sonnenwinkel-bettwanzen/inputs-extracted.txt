@@ -1,0 +1,437 @@
+FILE 01_Auftrag_Bettwanzen.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Rechtsanwältin Friederike Morgen
+Befall im Sonnenwinkel und die Kostenfrage
+24.09.2026
+Sehr geehrte Frau Morgen,
+im Sonnenwinkel wurden in zwei Wohnungen Bettwanzen fachlich festgestellt. Die erste Meldung stammt aus Wohnung 4, eine spätere aus Wohnung 5. Der Schädlingsbekämpfer kann den Ausgangspunkt bisher nicht bestimmen. Die Eigentümerin von Wohnung 4 hat bereits eine erste Untersuchung beauftragt; die Gemeinschaft hat anschließend ein abgestimmtes Vorgehen beschlossen. Nun will ein Eigentümer sämtliche Rechnungen als laufende Betriebskosten weiterreichen.
+Bitte klären Sie die Zuständigkeiten und erstellen Sie konkrete Schreiben an die betroffenen Eigentümer und Vermieter. Die Mieter sollen Zugangstermine und angemessene Hinweise erhalten, ohne dass ihnen ein unbewiesener Vorwurf gemacht wird. Wir brauchen außerdem eine nachvollziehbare Zuordnung der bisherigen Kosten und eine Entscheidungsvorlage für die noch anstehende Kontrolle. Private Erstattungswünsche sollen separat erfasst werden.
+Die Gemeinschaft hat keine regelmäßige Schädlingsbekämpfungspauschale vereinbart. Es geht um diesen einzelnen Vorgang. Die vorhandenen Rechnungen, Zugangsabsprachen und Befundberichte sind beigefügt. Eine eigenständige medizinische Bewertung von Hautreaktionen oder Anleitung zur Selbstbehandlung ist nicht beauftragt. Bitte keine Namen betroffener Mieter in einen allgemeinen Hausbrief übernehmen.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 02_Objekt_Mietverhaeltnisse.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Interne Objektakte
+Einheiten und Ansprechpartner Sonnenwinkel
+03.08.2026
+Die Gemeinschaft Sonnenwinkel 12 besteht aus sechs Wohnungen. Alle Einheiten haben 90 m² Wohnfläche und gleiche Miteigentumsanteile. Die Verteilung gemeinschaftlicher Kosten richtet sich nach diesen Anteilen. Wohnung 4 gehört Roswitha Rumpel und ist seit 2022 an Amina Diop und Carlo Klee vermietet. Wohnung 5 gehört Theobald Schreck und ist seit 2024 an Linh Tran vermietet. Wohnung 6 bewohnt Eigentümerin Esmeralda Fuchs selbst.
+Die Wohnungstrennwände, Leitungsschächte und gemeinschaftlichen Installationen sind gemeinschaftliches Eigentum. Die Wohnungsinnenausstattung und privaten Möbel stehen nicht im Eigentum der Gemeinschaft. Die Verwaltung verfügt über keine Generalschlüssel zu den Wohnungen. Zugang wird mit den jeweiligen Berechtigten konkret vereinbart.
+Eine vorangegangene Schädlingsbekämpfung ist in der seit 2019 geführten Objektakte nicht dokumentiert. Es besteht kein Dauerdienstvertrag für Bekämpfung oder Monitoring. Die regelmäßige Treppenreinigung umfasst keine Schädlingsbehandlung.
+
+FILE 03_Erstmeldung_Mieter.eml
+From: Amina Diop <amina@diop.example>
+To: Roswitha Rumpel <roswitha@rumpel.example>
+Subject: Kleine Insekten am Bett, bitte um Prüfung
+Date: Tue, 18 Aug 2026 07:26:00 +0200
+Message-ID: <03_Erstmeldung_Mieter.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Rumpel,
+
+seit einigen Tagen finden wir kleine Tiere am Bettgestell. Wir haben eines in einem verschlossenen Behälter aufbewahrt. Im Internet sieht vieles ähnlich aus; wir möchten nicht selbst raten. Carlo hat Hautreaktionen, lässt diese aber unabhängig davon ärztlich abklären.
+
+Bitte organisieren Sie zeitnah eine fachliche Besichtigung. Wir waren im Juli auf einer Reise, haben aber auch im Juni ein gebrauchtes Regal gekauft. Ob irgendetwas damit zusammenhängt, wissen wir nicht. Wir möchten nicht, dass im Haus herumgeht, wir hätten die Tiere sicher eingeschleppt.
+
+Freundliche Grüße
+Amina Diop
+
+
+FILE 04_Vermieterin_Beauftragt_Befund.eml
+From: Roswitha Rumpel <roswitha@rumpel.example>
+To: Sachverständigendienst Kiezklar <service@kiezklar.example>
+Subject: Bitte Wohnung 4 fachlich untersuchen
+Date: Tue, 18 Aug 2026 12:45:00 +0200
+Message-ID: <04_Vermieterin_Beauftragt_Befund.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Damen und Herren,
+
+ich beauftrage die angebotene Erstbesichtigung meiner vermieteten Wohnung 4 im Sonnenwinkel 12 für 297,50 EUR brutto. Die Mieter Amina Diop und Carlo Klee können am 20. August ab 15 Uhr Zugang ermöglichen. Bitte bestimmen Sie den Fund fachlich und teilen Sie mit, welche weiteren Untersuchungen sinnvoll sind.
+
+Eine vollständige Bekämpfung, ein Öffnen gemeinschaftlicher Bauteile oder die Entsorgung von Möbeln sind mit diesem Erstauftrag noch nicht freigegeben. Bitte sprechen Sie zusätzliche Maßnahmen vorher mit mir und bei gemeinschaftlichen Bereichen mit der Verwaltung ab.
+
+Mit freundlichen Grüßen
+Roswitha Rumpel
+
+
+FILE 05_Befund_Wohnung4.docx
+Kiezklar Schädlingsmanagement GmbHFachberaterin Dr. Tessa Blumservice@kiezklar.example
+Roswitha Rumpel
+Befundbericht Wohnung 4
+20.08.2026
+Am 20.08.2026 wurden die von den Bewohnern gesicherten Exemplare untersucht und als Bettwanzen bestimmt. Bei der Besichtigung fanden sich weitere Spuren am Bettgestell und in dessen unmittelbarer Umgebung. Die Untersuchung bestätigt einen Befall der Wohnung 4. Eine medizinische Diagnose bei Bewohnern wurde nicht vorgenommen.
+Der Zeitpunkt des Eintrags und der Ausgangspunkt lassen sich aus diesem Befund nicht verlässlich ableiten. Reisegepäck, gebrauchte Gegenstände oder ein Übergang aus anderen Bereichen sind ohne zusätzliche Feststellungen keine bewiesene Ursache. Die sichtbare Ordnung oder Sauberkeit der Wohnung erlaubt keine eindeutige Aussage darüber, wie die Tiere eingetragen wurden.
+Wir empfehlen ein abgestimmtes Vorgehen mit der Verwaltung und eine fachliche Prüfung angrenzender Bereiche. Maßnahmen in anderen Wohnungen erfordern abgestimmte Zugangstermine. Überflüssiges Umstellen von Gegenständen in gemeinschaftliche Flure sollte bis zur fachlichen Abstimmung unterbleiben. Die konkrete Durchführung und produktspezifische Sicherheitsunterweisung erfolgen ausschließlich durch den beauftragten Fachbetrieb.
+Der Bericht umfasst die Untersuchung vom 20. August; er erklärt nicht sämtliche weiteren Wohnungen für befallsfrei.
+
+FILE 06_Rechnung_Erstbesichtigung.docx
+Kiezklar Schädlingsmanagement GmbH
+Roswitha Rumpel
+Rechnung Erstbesichtigung Wohnung 4
+21.08.2026 · KK-260821-4
+Für die beauftragte Besichtigung und fachliche Bestimmung am 20.08.2026 berechnen wir 250 EUR netto zuzüglich 47,50 EUR Umsatzsteuer, insgesamt 297,50 EUR brutto. Die Leistung umfasst Anfahrt, Untersuchung der vorgelegten Exemplare, Besichtigung des betroffenen Bereichs und den schriftlichen Befundbericht.
+Eine Behandlung anderer Wohnungen und die Durchführung weiterer Kontrollen sind nicht enthalten. Der Betrag ist bis zum 04.09.2026 zu zahlen. Eine Beauftragung oder Zahlung der Gemeinschaft ist in unserem Kundenkonto nicht erfasst.
+Bitte verwenden Sie bei Rückfragen die Rechnungsnummer KK-260821-4. Die Benennung der Rechnungsempfängerin enthält keine Feststellung dazu, wer die Kosten im Innenverhältnis letztlich tragen muss.
+
+FILE 07_Meldung_an_Verwaltung.eml
+From: Roswitha Rumpel <roswitha@rumpel.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Befund Wohnung 4 und gemeinschaftliche Bereiche
+Date: Fri, 21 Aug 2026 09:43:00 +0200
+Message-ID: <07_Meldung_an_Verwaltung.weg-sonnenwinkel-bettwanzen@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-sonnenwinkel-bettwanzen-07_Meldung_an_Verwaltung"
+Sehr geehrte Frau Selim,
+
+anbei der fachliche Befund. Bitte stimmen Sie mit dem Unternehmen ab, ob gemeinschaftliche Schächte oder angrenzende Wohnungen untersucht werden müssen. Ich habe zunächst nur die Untersuchung in meiner Wohnung beauftragt. Eine Verursachung durch meine Mieter ist damit ausdrücklich nicht nachgewiesen.
+
+Ich möchte die Kostenfrage getrennt besprechen. Mir geht es jetzt darum, dass keine unkoordinierten Einzelmaßnahmen den Ablauf erschweren. Bitte behandeln Sie Namen und Gesundheitsangaben vertraulich.
+
+Mit freundlichen Grüßen
+Roswitha Rumpel
+
+
+FILE 08_Folgemeldung_Wohnung5.eml
+From: Linh Tran <linh@tran.example>
+To: Theobald Schreck <theobald@schreck.example>
+Subject: Auch bei mir wurde ein Tier gefunden
+Date: Mon, 24 Aug 2026 20:18:00 +0200
+Message-ID: <08_Folgemeldung_Wohnung5.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Guten Abend Herr Schreck,
+
+ich habe heute ein Tier am Sofa gefunden und getrennt gesichert. Ob es dasselbe ist wie bei den Nachbarn, kann ich nicht sagen. Bitte organisieren Sie eine Prüfung. Ich bin Mittwoch nach 16 Uhr oder Donnerstag vormittags da.
+
+Ich habe bisher nichts auf den Flur gestellt und keinen Fachbetrieb eigenständig beauftragt. Aus dem Hauschat möchte ich nicht erfahren müssen, dass ich angeblich die Ursache bin. Bitte geben Sie keine Behauptung weiter, nur weil mein Sofa gebraucht gekauft war.
+
+Linh Tran
+
+
+FILE 09_Folgebefund_Wohnung5.docx
+Kiezklar Schädlingsmanagement GmbH
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Befundbericht Wohnung 5 und Anschlussbereiche
+27.08.2026
+Am 27.08.2026 wurde das in Wohnung 5 gesicherte Exemplar ebenfalls als Bettwanze bestimmt. Weitere Spuren wurden am Sofa festgestellt. Im zugänglichen Abschnitt des Installationsschachts zwischen den Wohnungen 4 und 5 fanden sich bei dieser Sichtprüfung keine eindeutigen Befunde. Verdeckte Bereiche wurden nicht geöffnet.
+Die Untersuchung kann einen Übergang zwischen Wohnungen weder beweisen noch ausschließen. Auch die Reihenfolge der Meldungen erlaubt keinen sicheren Schluss auf die zuerst betroffene Wohnung. Eine Aussage, Amina Diop, Carlo Klee oder Linh Tran hätten den Befall verursacht, ist fachlich nicht begründet.
+Wir schlagen eine abgestimmte Behandlung beider bestätigten Befallsbereiche mit nachfolgenden Kontrollen vor. Weitere Wohnungen sollen bei konkreten Hinweisen oder nach fachlicher Einschätzung gezielt einbezogen werden. Pauschale Erklärungen über die Befallsfreiheit des ganzen Hauses sind vor Abschluss der vorgesehenen Kontrollen nicht möglich.
+
+FILE 10_Angebot_Kiezklar.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Angebot abgestimmter Maßnahmen für zwei Wohnungen
+28.08.2026 · KK-A-260828
+Für die koordinierte Behandlung der bestätigten Befallsbereiche in den Wohnungen 4 und 5 bieten wir einen ersten Einsatz für 1.200 EUR netto zuzüglich 228 EUR Umsatzsteuer, insgesamt 1.428 EUR brutto, an. Darin enthalten sind die Terminabstimmung, die fachgerechte Durchführung und ein schriftlicher Einsatzbericht. Eine Kontrolle mit erforderlicher fachlicher Nachbearbeitung wird gesondert für 600 EUR netto zuzüglich 114 EUR Umsatzsteuer, insgesamt 714 EUR brutto, angeboten.
+Der erste Einsatz ist für den 03.09.2026 vorgesehen. Die Kontrolle soll nach Abstimmung am 17.09.2026 erfolgen. Zusätzliche Einsätze werden vor Beauftragung gesondert beschrieben und beziffert. Ein bestimmter Erfolg nach einem einzigen Termin wird nicht garantiert. Die Bewohner erhalten die für den konkreten Einsatz erforderlichen Hinweise unmittelbar durch unser Fachpersonal.
+Die Erstuntersuchung in Wohnung 4 ist bereits gesondert abgerechnet und in diesen Beträgen nicht nochmals enthalten. Abdichtungsarbeiten durch einen Handwerksbetrieb und private Reinigungskosten sind ebenfalls nicht enthalten. Die Frage einer rechtlichen Kostentragung zwischen Gemeinschaft, Eigentümern und Mietern ist nicht Gegenstand unseres Angebots.
+
+FILE 11_Vergleichsangebot.docx
+Befund und Ruhe Schädlingsserviceangebot@befundruhe.example
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Angebot Sichtprüfung und weitere Planung
+29.08.2026
+Wir bieten eine erneute Sichtprüfung beider betroffener Wohnungen einschließlich Bericht für 420 EUR netto zuzüglich 79,80 EUR Umsatzsteuer, insgesamt 499,80 EUR brutto, an. Ein erster Termin wäre am 11.09.2026 möglich. Die eigentliche Behandlung und spätere Kontrollen sind nicht Bestandteil dieses Betrags; hierfür würden wir nach der Besichtigung ein weiteres Angebot erstellen.
+Vorhandene Befundberichte können Sie uns vorab übermitteln. Wir übernehmen nicht ohne eigene Untersuchung die Beurteilung des bisherigen Dienstleisters. Der angebotene Betrag ist deshalb nicht unmittelbar mit einem bereits bezifferten Behandlungsangebot für beide Wohnungen vergleichbar.
+Das Angebot ist bis zum 08.09.2026 gültig. Einen Auftrag oder eine Terminreservierung haben wir bisher nicht erhalten.
+
+FILE 12_Beschluss_Abgestimmtes_Vorgehen.docx
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Niederschrift der außerordentlichen Eigentümerversammlung
+Beschluss zur koordinierten Bearbeitung des Befalls
+31.08.2026
+Die Gemeinschaft beauftragt Kiezklar Schädlingsmanagement mit dem im Angebot KK-A-260828 bezeichneten ersten Einsatz in beiden betroffenen Wohnungen für 1.428 EUR brutto und der Kontrolle für 714 EUR brutto. Die Verwaltung stimmt die Zugangstermine mit den Eigentümern und Mietern ab. Die Gemeinschaft verauslagt diese beiden Beträge aus dem laufenden Konto. Über eine mögliche Erstattung durch Dritte wird damit nicht entschieden.
+Die Eigentümer wurden darüber informiert, dass die Ursache fachlich noch offen ist und die Vergleichsanfrage nur eine spätere Untersuchung, nicht dieselben Behandlungsleistungen umfasst. Fünf Eigentümer stimmen zu, Theobald Schreck enthält sich. Eine Kostenumlage auf einzelne Mieter oder ein personenbezogener Verursacherbeschluss werden nicht gefasst.
+Ein Angebot für eine fachlich empfohlene Abdichtung soll getrennt eingeholt werden. Die Verwaltung darf für diesen zusätzlichen Auftrag aus diesem Beschluss noch keine Zahlung zusagen. Weitere Bekämpfungstermine über die genannten Leistungen hinaus bedürfen einer erneuten Abstimmung, soweit keine anderweitige Befugnis besteht.
+
+FILE 13_Zugangsabstimmung.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Amina Diop und Linh Tran <termine@bewohner-sonnenwinkel.example>
+Subject: Sonnenwinkel: Termine am 3. September
+Date: Tue, 01 Sep 2026 10:47:00 +0200
+Message-ID: <13_Zugangsabstimmung.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Diop, sehr geehrte Frau Tran,
+
+der Fachbetrieb schlägt für Wohnung 4 am 3. September 9 Uhr und für Wohnung 5 am selben Tag 11 Uhr vor. Bitte bestätigen Sie jeweils Ihren eigenen Zugang. Eine Weitergabe Ihres Wohnungsschlüssels an andere Bewohner ist nicht erforderlich. Der Fachbetrieb erläutert Ihnen seine konkreten vorbereitenden Hinweise direkt.
+
+Die Nachricht enthält keine Festlegung zur endgültigen Kostentragung. Bitte stellen Sie bis zur Abstimmung keine Gegenstände in den Gemeinschaftsflur. Falls der Termin wegen Arbeit oder Betreuung nicht möglich ist, teilen Sie uns eine konkrete Alternative mit.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+
+FILE 14_Abweichender_Termin.eml
+From: Linh Tran <linh@tran.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Wohnung 5: 11 Uhr geht nicht
+Date: Tue, 01 Sep 2026 16:02:00 +0200
+Message-ID: <14_Abweichender_Termin.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Selim,
+
+ich habe am Donnerstag eine medizinische Untersuchung und komme voraussichtlich erst gegen 12.30 Uhr zurück. Ich kann den Zugang ab 13 Uhr ermöglichen. Meine Nachbarin hat keinen Schlüssel und soll auch keinen bekommen. Bitte werten Sie die Uhrzeitänderung nicht als Verweigerung des Termins.
+
+Am 17. September bin ich ganztägig verfügbar. Wenn der erste Termin um 13 Uhr nicht möglich ist, könnte ich Freitag ab 8 Uhr. Bitte bestätigen Sie die tatsächliche Zeit, damit ich nicht den ganzen Nachmittag warten muss.
+
+Freundliche Grüße
+Linh Tran
+
+
+FILE 15_Bestaetigung_Dienstleister.eml
+From: Kiezklar Disposition <service@kiezklar.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Wohnung 5 am 3. September um 13 Uhr
+Date: Wed, 02 Sep 2026 09:20:00 +0200
+Message-ID: <15_Bestaetigung_Dienstleister.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Guten Morgen Frau Selim,
+
+die Verschiebung von Wohnung 5 auf 13 Uhr ist möglich und verursacht keine Zusatzkosten. Wohnung 4 bleibt bei 9 Uhr. Wir haben beide Bewohnerinnen direkt informiert und ihre Bestätigungen erhalten. Unsere Mitarbeitenden führen die einsatzbezogene Unterweisung jeweils vor Ort durch.
+
+Bitte streichen Sie die alte 11-Uhr-Angabe aus dem Terminblatt. Für den 17. September bleibt die Kontrolle ab 9 Uhr vorgesehen; die genaue Reihenfolge stimmen wir vorher ab.
+
+Viele Grüße
+Tessa Blum
+
+
+FILE 16_Einsatzbericht_Erster_Termin.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Einsatzbericht vom 3 September
+03.09.2026
+Der beauftragte erste Einsatz wurde am 03.09.2026 in Wohnung 4 ab 9 Uhr und in Wohnung 5 ab 13 Uhr durchgeführt. Beide Wohnungen waren zum jeweils vereinbarten Termin zugänglich. Eine erfolglose Anfahrt ist nicht angefallen. Die Bewohner erhielten die konkreten Hinweise durch die eingesetzten Fachkräfte und bestätigten deren Empfang.
+Die Bearbeitung bezog sich auf die fachlich festgestellten Bereiche. Das Vorgehen und die verwendeten zugelassenen Mittel sind in der beim Unternehmen geführten Einsatzdokumentation hinterlegt. Dieser Verwaltungsbericht enthält keine Anleitung zur eigenständigen Anwendung. Für Rückfragen sollen die Bewohner unmittelbar den Fachbetrieb kontaktieren.
+Die Kontrolle am 17. September bleibt erforderlich. Aus dem Abschluss des ersten Einsatzes wird keine endgültige Befallsfreiheit abgeleitet. Die Ursache und eine personenbezogene Verantwortung sind weiterhin nicht festgestellt. Im zugänglichen Schachtbereich wurde eine bauliche Fuge vermerkt, deren Abdichtung gesondert durch einen geeigneten Handwerksbetrieb geprüft werden soll.
+
+FILE 17_Rechnung_Erster_Einsatz.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Rechnung koordinierter Einsatz
+04.09.2026 · KK-260904-12
+Für den ersten Einsatz in den Wohnungen 4 und 5 am 03.09.2026 berechnen wir gemäß Angebot KK-A-260828 1.200 EUR netto zuzüglich 228 EUR Umsatzsteuer, insgesamt 1.428 EUR brutto. Der Betrag umfasst beide Wohnungen und die abgestimmte Terminänderung. Eine gesonderte Ausfallpauschale wird nicht berechnet.
+Die Zahlung ging am 09.09.2026 vom Konto der Gemeinschaft ein. Eine interne Aufteilung auf die beiden Eigentümer oder deren Mieter haben wir nicht vorgenommen. Die Erstbesichtigung von Wohnung 4 wird nicht nochmals berechnet. Die spätere Kontrolle ist Gegenstand einer eigenen Rechnung.
+Die Rechnung trägt die Nummer KK-260904-12 und ist vollständig ausgeglichen.
+
+FILE 18_Kontrollbericht.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Kontrolle am 17 September
+17.09.2026
+Am 17.09.2026 waren beide Wohnungen nach vereinbarter Reihenfolge zugänglich. In Wohnung 4 wurden bei der Kontrolle keine lebenden Exemplare festgestellt. In Wohnung 5 wurde ein weiterer eindeutiger Befund erhoben und fachlich nachbearbeitet. Die Kontrollleistung einschließlich der vorgesehenen Nachbearbeitung fällt unter das Angebot vom 28. August.
+Ein einzelner unauffälliger Kontrolltermin reicht nicht aus, um eine dauerhafte Befallsfreiheit sämtlicher Bereiche des Hauses zu bestätigen. Wir empfehlen eine weitere Kontrolle beider Wohnungen Anfang Oktober. Dies wäre eine zusätzliche, noch zu beauftragende Leistung. Die Gemeinschaft sollte den Zugang rechtzeitig abstimmen.
+Aus dem erneuten Befund in Wohnung 5 kann nicht auf einen Neueintrag durch Frau Tran geschlossen werden. Ebenso wenig belegt die frühere Meldung aus Wohnung 4 einen von dort ausgehenden Eintrag. Der Zusammenhang bleibt fachlich offen.
+
+FILE 19_Rechnung_Kontrolle.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Rechnung Kontrolle und Nachbearbeitung
+18.09.2026 · KK-260918-12
+Für die Kontrolle und im vereinbarten Umfang ausgeführte Nachbearbeitung am 17.09.2026 berechnen wir 600 EUR netto zuzüglich 114 EUR Umsatzsteuer, insgesamt 714 EUR brutto. Die Rechnung beruht auf dem zweiten ausdrücklich angebotenen Leistungsblock im Angebot KK-A-260828.
+Der Betrag ist bis zum 02.10.2026 zu zahlen. Am Ausstellungsdatum ist noch kein Zahlungseingang gebucht. Eine weitere Kontrolle im Oktober ist nicht in dieser Rechnung enthalten. Ihre Kosten werden nur aufgrund eines gesonderten Auftrags abgerechnet.
+Bitte geben Sie im Verwendungszweck KK-260918-12 an. Die bestehende Gemeinschaftsbeauftragung wird nicht durch eine Rechnung gegen einen einzelnen Mieter ersetzt.
+
+FILE 20_Angebot_Fugenabdichtung.docx
+Dicht und Gut Bauhandwerkangebot@dichtgut.example
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Angebot Abdichtung gemeinschaftlicher Anschlussfuge
+19.09.2026
+Wir bieten die fachgerechte Abdichtung der zugänglichen Anschlussfuge im gemeinschaftlichen Installationsbereich zwischen den Wohnungen 4 und 5 für 450 EUR netto zuzüglich 85,50 EUR Umsatzsteuer, insgesamt 535,50 EUR brutto, an. Die Arbeiten sollen nach Abstimmung mit dem Schädlingsfachbetrieb erfolgen. Eine Öffnung weiterer Bauteile ist nicht umfasst.
+Die Abdichtung ist eine bauliche Maßnahme und kein Ersatz für die erforderlichen Kontrollen. Wir bestätigen weder eine bestimmte Herkunft des Befalls noch, dass diese einzelne Fuge dessen Ausbreitungsweg war. Der angebotene Termin ist der 06.10.2026 ab 9 Uhr. Für Arbeiten innerhalb der Wohnungen muss der Zugang gesondert vereinbart werden.
+Das Angebot ist bis zum 30.09.2026 gültig. Eine Beauftragung liegt nicht vor. Mehrleistungen werden nur nach Rücksprache und zusätzlicher Freigabe ausgeführt.
+
+FILE 21_Schreck_Will_Umlage.eml
+From: Theobald Schreck <theobald@schreck.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Die Rechnungen gehören in die Betriebskosten
+Date: Sun, 20 Sep 2026 11:23:00 +0200
+Message-ID: <21_Schreck_Will_Umlage.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Selim,
+
+Schädlingsbekämpfung steht doch irgendwo in den Betriebskosten. Bitte verteilen Sie deshalb sämtliche Beträge einschließlich Fugenarbeiten in der nächsten Abrechnung und schreiben Sie in meiner Mieterliste „umlagefähig“. Frau Tran hat ein gebrauchtes Sofa; für mich liegt der Zusammenhang nahe.
+
+Ich habe noch keinen Fachbeleg für diese Vermutung. Trotzdem möchte ich nicht als Eigentümer zahlen. Falls die Gemeinschaft mir etwas belastet, reiche ich das einfach vollständig an die Mieterin weiter. Bitte schicken Sie mir dafür einen fertigen Absatz.
+
+Mit freundlichen Grüßen
+Theobald Schreck
+
+
+FILE 22_Mietvertrag_Wohnung5.docx
+Theobald Schreck
+Linh Tran
+Mietvertrag Sonnenwinkel Wohnung 5
+10.06.2024
+1. Mietgegenstand und Beginn
+Theobald Schreck vermietet Linh Tran die Wohnung 5 im Sonnenwinkel 12 in Berlin mit 90 m² Wohnfläche. Die Wohnung umfasst drei Zimmer, Küche, Bad und Flur. Das Mietverhältnis beginnt am 01.07.2024 und läuft auf unbestimmte Zeit. Ein Kellerabteil wird zur Nutzung überlassen.
+2. Miete und Betriebskosten
+Die monatliche Nettokaltmiete beträgt 1.170 EUR. Für Betriebskosten einschließlich Heizung werden monatlich 290 EUR vorausgezahlt. Der Vermieter rechnet kalenderjährlich ab. Umlagefähig sind die nach der Betriebskostenverordnung vereinbarten laufenden Betriebskosten, soweit sie tatsächlich anfallen. Eine allgemeine Pflicht der Mieterin, sämtliche vom Wohnungseigentümer gezahlten Gemeinschaftskosten zu erstatten, wird nicht vereinbart.
+3. Erhaltung und Mängelanzeige
+Die Mieterin zeigt auftretende Mängel dem Vermieter ohne schuldhaftes Zögern an. Der Vermieter veranlasst die im Rahmen seiner Pflichten erforderliche Prüfung und Abhilfe. Ein Zugang zu erforderlichen Arbeiten wird nach Ankündigung unter Berücksichtigung berechtigter Interessen abgestimmt. Eine generelle Schlüsselhinterlegung bei der Hausverwaltung ist nicht vereinbart.
+4. Verantwortlichkeit
+Gesetzliche Ansprüche wegen schuldhaft verursachter Schäden bleiben unberührt. Weder die bloße Feststellung eines Mangels in der Wohnung noch die Reihenfolge einer Meldung wird durch den Vertrag als Nachweis eines Verschuldens festgelegt. Zusätzliche Vereinbarungen über einen laufenden Schädlingsbekämpfungsdienst bestehen nicht.
+Theobald Schreck und Linh Tran haben den Vertrag am 10.06.2024 unterzeichnet.
+
+FILE 23_Mieterin_Widerspricht.eml
+From: Linh Tran <linh@tran.example>
+To: Theobald Schreck <theobald@schreck.example>
+Subject: Ihre Nachricht zur Kostenübernahme
+Date: Mon, 21 Sep 2026 08:04:00 +0200
+Message-ID: <23_Mieterin_Widerspricht.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrter Herr Schreck,
+
+ich habe Ihre Nachricht verstanden, dass Sie mir alle Kosten weiterreichen wollen. Damit bin ich nicht einverstanden. Der Fachbericht sagt gerade nicht, dass mein Sofa die Ursache war. Ich habe den ersten Fund sofort gemeldet und alle abgestimmten Termine ermöglicht. Die Änderung von 11 auf 13 Uhr war bestätigt und kostenfrei.
+
+Bitte schicken Sie mir die genaue Forderung und ihre Grundlage, falls Sie daran festhalten. Ich möchte eine weitere Kontrolle ermöglichen; das ist keine Anerkennung einer Zahlungspflicht. Für einen Termin Anfang Oktober kann ich Montag nach 15 Uhr oder Dienstagvormittag anbieten.
+
+Mit freundlichen Grüßen
+Linh Tran
+
+
+FILE 24_Waschereibeleg.docx
+Waschsalon Seifenblaseservice@seifenblase.example
+Amina Diop
+Beleg über beauftragte Wäschereileistung
+08.09.2026 · SB-260907-18
+Am 07.09.2026 wurden die von der Kundin bezeichneten Textilien nach zuvor mit dem Fachbetrieb abgestimmter Behandlung zur Reinigung übernommen und am Folgetag zurückgegeben. Für die vereinbarte Dienstleistung werden 72,61 EUR netto zuzüglich 13,79 EUR Umsatzsteuer, insgesamt 86,40 EUR brutto, berechnet.
+Die Kundin zahlte bei Abholung mit Karte. Der Waschsalon bescheinigt die ausgeführte Reinigungsleistung, nicht eine fachliche Befallsdiagnose oder die Verantwortlichkeit Dritter. Gegenstände wurden nicht im Gemeinschaftsflur abgestellt. Die Abholbestätigung ist auf denselben Auftrag bezogen.
+Auftragsnummer SB-260907-18. Die Rechnung ist vollständig bezahlt.
+
+FILE 25_Erstattungsbitte_Mieter.eml
+From: Amina Diop <amina@diop.example>
+To: Roswitha Rumpel <roswitha@rumpel.example>
+Subject: Kosten Wäscherei und zusätzlicher Aufwand
+Date: Mon, 21 Sep 2026 17:22:00 +0200
+Message-ID: <25_Erstattungsbitte_Mieter.weg-sonnenwinkel-bettwanzen@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-sonnenwinkel-bettwanzen-25_Erstattungsbitte_Mieter"
+Sehr geehrte Frau Rumpel,
+
+anbei der Beleg über 86,40 EUR. Wir bitten um Prüfung, ob Sie uns diese Kosten erstatten. Wir haben außerdem zwei Nachmittage für die Termine freigehalten. Dafür stellen wir zunächst keinen Betrag in Rechnung. Eine Hotelübernachtung war nicht erforderlich und wird nicht verlangt.
+
+Carlo hat eine neue Matratze gekauft, aber wir wissen selbst noch nicht, ob der Kauf nötig war oder eher seine persönliche Entscheidung. Wir möchten den Kauf deshalb nicht einfach in dieselbe Forderung aufnehmen. Bitte geben Sie die Wäschereirechnung nicht ohne Anlass in den Hauschat.
+
+Mit freundlichen Grüßen
+Amina Diop
+
+
+FILE 26_Hauschat_Befall.txt
+Hauschat Sonnenwinkel
+22.09.2026
+
+22.09.2026 18:10 Esmeralda: Bitte stellt keine Matratzen auf den Flur. Dort kommt man mit dem Kinderwagen kaum durch.
+22.09.2026 18:12 Amina: Von uns steht dort nichts. Das braune Regal gehört zum Umzug im Erdgeschoss.
+22.09.2026 18:14 Theobald: Irgendjemand muss das doch angeschleppt haben.
+22.09.2026 18:17 Roswitha: Der Fachbericht sagt, die Ursache ist offen. Wir brauchen zuerst die Kontrolle.
+22.09.2026 18:20 Noura: Bitte meldet eigene Beobachtungen direkt an uns. Namen, Gesundheitsangaben und Vermutungen gehören nicht in diesen Verteiler.
+22.09.2026 18:23 Linh: Danke. Ich habe die Termine nicht verweigert. 13 Uhr war bestätigt.
+
+
+FILE 27_Kosten_und_Termine.xlsx
+SHEET Kosten
+A1=Vorgang | B1=Brutto EUR | C1=Bezahlt EUR | D1=Offen EUR | E1=Auftraggeber und Stand
+A2=Erstbesichtigung | B2=297.5 | C2=297.5 | D2==B2-C2 [cached=0] | E2=Roswitha Rumpel, bezahlt
+A3=Erster Einsatz | B3=1428 | C3=1428 | D3==B3-C3 [cached=0] | E3=Gemeinschaft, bezahlt
+A4=Kontrolle September | B4=714 | C4=0 | D4==B4-C4 [cached=714] | E4=Gemeinschaft, beauftragt
+A5=Fugenabdichtung | B5=535.5 | C5=0 | D5==B5-C5 [cached=535.5] | E5=Nur Angebot, nicht beauftragt
+A6=Wäscherei | B6=86.4 | C6=86.4 | D6==B6-C6 [cached=0] | E6=Amina Diop, Erstattung erbeten
+A7=Summe Unterlagen | B7==SUM(B2:B6) [cached=3061.4] | C7==SUM(C2:C6) [cached=1811.9] | D7==SUM(D2:D6) [cached=1249.5] | E7=Keine Festlegung der Tragung
+SHEET Zugang
+A1=Datum | B1=Wohnung | C1=Bestätigte Uhrzeit | D1=Status | E1=Quelle
+A2=2026-08-20 00:00:00 | B2=4 | C2=15:00 | D2=Erfolgt | E2=05_Befund_Wohnung4.docx
+A3=2026-08-27 00:00:00 | B3=5 | C3=10:00 | D3=Erfolgt | E3=09_Folgebefund_Wohnung5.docx
+A4=2026-09-03 00:00:00 | B4=4 | C4=09:00 | D4=Erfolgt | E4=16_Einsatzbericht_Erster_Termin.docx
+A5=2026-09-03 00:00:00 | B5=5 | C5=13:00 | D5=Erfolgt, keine Ausfallkosten | E5=15_Bestaetigung_Dienstleister.eml
+A6=2026-09-17 00:00:00 | B6=4 | C6=09:00 | D6=Erfolgt | E6=18_Kontrollbericht.docx
+A7=2026-09-17 00:00:00 | B7=5 | C7=10:30 | D7=Erfolgt | E7=18_Kontrollbericht.docx
+A8=2026-10-06 00:00:00 | B8=4 | C8=09:00 | D8=Noch abzustimmen | E8=20_Angebot_Fugenabdichtung.docx
+A9=2026-10-06 00:00:00 | B9=5 | C9=09:00 | D9=Noch abzustimmen | E9=20_Angebot_Fugenabdichtung.docx
+
+FILE 28_Angebot_Oktoberkontrolle.docx
+Kiezklar Schädlingsmanagement GmbH
+Gemeinschaft der Wohnungseigentümer Sonnenwinkel 12Sonnenwinkel 12, Berlin
+Angebot weitere Kontrolle im Oktober
+22.09.2026
+Für eine weitere Kontrolle der Wohnungen 4 und 5 bieten wir 300 EUR netto zuzüglich 57 EUR Umsatzsteuer, insgesamt 357 EUR brutto, an. Es handelt sich um eine neue Leistung nach den bereits beauftragten Septemberterminen. Zusätzliche Maßnahmen bei einem erneuten Befund würden vor Durchführung gesondert beschrieben und abgestimmt.
+Ein Termin ist am 05.10.2026 ab 15 Uhr möglich. Für Wohnung 5 wurde bisher nur eine Verfügbarkeit am Montag nach 15 Uhr oder Dienstagvormittag genannt; für Wohnung 4 fehlt eine verbindliche Rückmeldung. Die anschließende bauliche Abdichtung muss mit dem ausführenden Handwerksbetrieb koordiniert werden.
+Die Rechnung vom 18. September enthält diese Oktoberkontrolle nicht. Bitte senden Sie eine eindeutige Beauftragung und die abgestimmten Zugangsdaten. Ohne Bestätigung fahren wir die Wohnungen nicht auf Verdacht an.
+
+FILE 29_Beirat_Kostenfrage.eml
+From: Esmeralda Fuchs <esmeralda@fuchs.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Wer zahlt was und welcher Beschluss fehlt?
+Date: Wed, 23 Sep 2026 09:42:00 +0200
+Message-ID: <29_Beirat_Kostenfrage.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Liebe Frau Selim,
+
+in der Tabelle steht alles zusammen, auch die privat bezahlte Erstbesichtigung und die Wäscherei. Bitte verhindern Sie, dass die Gesamtsumme ohne Prüfung als Gemeinschaftsausgabe gebucht wird. Zugleich soll Frau Rumpel ihre Frage nach Erstattung ordentlich stellen können.
+
+Für die Fuge haben wir noch keinen Auftrag beschlossen. Die Oktoberkontrolle steht ebenfalls erst als Angebot im Raum. Ich möchte nicht, dass wegen der Kostenfrage die Termine aus dem Blick geraten. Können wir die erforderlichen Schritte und die spätere Tragung sauber getrennt entscheiden?
+
+Viele Grüße
+Esmeralda
+
+
+FILE 30_Eigentuemerbrief_Vorfassung.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Eigentümerinnen und Eigentümer Sonnenwinkel 12
+Hinweis auf zusätzliche Kosten im Sonnenwinkel
+23.09.2026
+Sehr geehrte Damen und Herren,
+im Zusammenhang mit dem derzeitigen Befall liegen uns verschiedene Rechnungen und Angebote vor. Die Verwaltung beabsichtigt, die im Kostenblatt genannten Beträge in der Jahresabrechnung zu berücksichtigen. In der bisherigen internen Textvorlage steht dazu „sämtliche Maßnahmen als umlagefähige Schädlingsbekämpfungskosten erfassen“.
+Der Beirat hat dieser pauschalen Formulierung widersprochen und eine Trennung nach Auftrag, Zahlung und Gegenstand verlangt. Der Brief ist deshalb noch nicht versandt. Die von einzelnen Eigentümern oder Mietern privat bezahlten Leistungen werden bis zur Klärung nicht als bereits aus dem Gemeinschaftskonto bezahlt bezeichnet.
+Für die nächste Kontrolle und die angebotene Abdichtung werden konkrete Entscheidungen vorbereitet. Über eine Verantwortung einer bestimmten Person ist bislang keine Feststellung getroffen worden.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 31_Vermieterin_Klaert_Auftrag.eml
+From: Roswitha Rumpel <roswitha@rumpel.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Erstbesichtigung war mein eigener Auftrag
+Date: Wed, 23 Sep 2026 14:11:00 +0200
+Message-ID: <31_Vermieterin_Klaert_Auftrag.weg-sonnenwinkel-bettwanzen@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Selim,
+
+ich bestätige nochmals, dass ich die 297,50 EUR selbst beauftragt und am 25.08.2026 aus meinem Privatkonto bezahlt habe. Ich bitte um Prüfung einer möglichen Erstattung, behaupte aber nicht, die Gemeinschaft hätte den Auftrag damals erteilt. Meine Mieter haben die Meldung frühzeitig gemacht und kooperiert.
+
+Der Wäschereibeleg betrifft deren eigene Zahlung. Bitte unterscheiden Sie diese Forderung von meiner Rechnung. Eine Abtretung oder gemeinsame Zahlungsvereinbarung gibt es nicht. Ich möchte beiden gegenüber nachvollziehbar erklären können, wie weiter vorgegangen wird.
+
+Mit freundlichen Grüßen
+Roswitha Rumpel
+
+
+FILE 32_Abschlussauftrag_Verwaltung.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Friederike Morgen <kanzlei@morgen.example>
+Subject: Sonnenwinkel: Jetzt konkrete Briefe und Entscheidungsvorlage
+Date: Thu, 24 Sep 2026 11:36:00 +0200
+Message-ID: <32_Abschlussauftrag_Verwaltung.weg-sonnenwinkel-bettwanzen@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-sonnenwinkel-bettwanzen-32_Abschlussauftrag_Verwaltung"
+Sehr geehrte Frau Morgen,
+
+bitte erstellen Sie die Antwort an Herrn Schreck, einen diskreten allgemeinen Bewohnerhinweis und eine Vorlage für die weitere Beauftragung. Für die Buchhaltung benötigen wir die eindeutige Trennung von bezahlter Gemeinschaftsleistung, offener Rechnung, bloßem Angebot und privater Erstattungsbitte. Die Unterlagen sollen anschließend bei Rückfragen nicht wieder vermischt werden.
+
+Die Kontrollen und die Abstimmung des Zugangs sollen weiterlaufen. Eine abschließende Verursacherfeststellung liegt nicht vor. Wenn für einen Anspruch oder die endgültige Kostenverteilung weitere Angaben entscheidend sind, formulieren Sie bitte die konkrete Nachfrage an die richtige Person. Ein Schreiben mit einem unbewiesenen Schuldvorwurf soll nicht entstehen.
+
+Mit freundlichen Grüßen
+Noura Selim

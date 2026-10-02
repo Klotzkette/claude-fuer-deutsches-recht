@@ -69,3 +69,9 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Reformlogik:** Seit der WEG-Reform ist nicht „die Jahresabrechnung als Zahlenwerk“ der Beschlussgegenstand, sondern Nachschüsse und Anpassung der Vorschüsse nach § 28 Abs. 2 WEG. Das ist die zentrale Weiche für Anfechtung, Bestimmtheit und Fehlerrelevanz.
 - **Praktische Prüfung:** Beschlusskompetenz, Bestimmtheit, Ladung/Tagesordnung, Stimmrecht, Verteilungsschlüssel, Belegprüfung, Rücklage/Vermögensbericht, HeizKV, Umsatzsteuer/Vorsteuer und Anfechtungsfrist getrennt prüfen.
 - **Output-Pflicht:** Für Verwaltung/Eigentümer immer eine Beschluss- oder Anfechtungsmatrix liefern: Beschlusswortlaut, Rechtsgrundlage, Fehler, Zahlungsrelevanz, Beleg, Frist, Heilungs- oder Neufassungsoption.
+
+## Soll, Ist, Vermögensbericht und neue Kostenschlüssel
+
+Für die konkrete Rechnungskette den [Abrechnungs-Leitweg](../wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md) verwenden: Rechnung und Dublette, externe Zahlung und interne Umbuchung, beschlossene Soll-Vorschüsse und tatsächlich gezahlte Beträge auseinanderhalten. § 28-Spitze wird nicht aus rückständigem Hausgeld gebildet. Vermögensbericht mit Rücklagenstand/wesentlichem Gemeinschaftsvermögen jedem Eigentümer bereitstellen. Bei Schlüsseländerungen V ZR 50/25 vom 24.04.2026, Rn. 13–23, mit konkretem Belastungsvergleich anwenden. Zu jeder Korrektur Beleg-ID, alter/neuer Betrag, Grund und gegebenenfalls neuen Beschlussbedarf angeben; anschließend den verständlichen Eigentümerbrief verfassen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

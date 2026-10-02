@@ -1,7 +1,7 @@
 {
   "name": "weg-hausverwaltung",
-  "version": "445.27.0",
-  "description": "Operatives WEG- und Hausverwaltungs-Plugin für Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.",
+  "version": "445.28.0",
+  "description": "WEG-Hausverwaltung von Belegen und Bankbewegungen über Jahresabrechnung, Eigentümerrückfragen und Mietüberleitung bis zu Beschlüssen, Handwerkeraufträgen und Schadenfällen einschließlich Diebstahl und Bettwanzen.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",
@@ -27,6 +27,11 @@
     "verwalter",
     "bauliche-veraenderung",
     "steckersolar",
-    "wallbox"
+    "wallbox",
+    "belegeinsicht",
+    "mietueberleitung",
+    "diebstahl",
+    "bettwanzen",
+    "schadensregulierung"
   ]
 }

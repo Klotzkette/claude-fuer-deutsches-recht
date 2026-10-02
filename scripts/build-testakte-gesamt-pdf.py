@@ -184,6 +184,12 @@ class DocumentRenderError(RuntimeError):
 
 def escape(s: str) -> str:
     escaped = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+    # Die PDF-Standardschrift enthält keine tiefgestellten Unicode-Ziffern.
+    # Nach XML-Escaping echte Tiefstellung setzen, etwa für CO₂; vom Quelltext
+    # mitgebrachte Markup-Tags bleiben weiterhin ungefährlicher Klartext.
+    escaped = re.sub(r"[₀-₉]+", lambda match: "<sub>" + "".join(
+        str(ord(character) - ord("₀")) for character in match.group(0)
+    ) + "</sub>", escaped)
     extra = set(re.findall(r"[\u0100-\u024f]", escaped))
     if not extra:
         return escaped

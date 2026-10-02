@@ -25,13 +25,13 @@ Privilegierte Maßnahmen zügig ermöglichen, aber technisch und organisatorisch
 
 | Nr. | Maßnahme | Norm |
 | --- | --- | --- |
-| 1 | Laden elektrisch betriebener Fahrzeuge (Wallbox) | § 20 Abs. 2 Nr. 1 WEG |
-| 2 | Barrierefreier Aus- und Umbau | § 20 Abs. 2 Nr. 2 WEG |
+| 1 | Gebrauch durch Menschen mit Behinderungen (Barriereabbau) | § 20 Abs. 2 Nr. 1 WEG |
+| 2 | Laden elektrisch betriebener Fahrzeuge (Wallbox) | § 20 Abs. 2 Nr. 2 WEG |
 | 3 | Einbruchsschutz | § 20 Abs. 2 Nr. 3 WEG |
 | 4 | Glasfaseranschluss | § 20 Abs. 2 Nr. 4 WEG |
 | 5 | Steckersolargerät (Balkonkraftwerk) | § 20 Abs. 2 Nr. 5 WEG |
 
-Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "Wie" (Ausführung, Optik, Sicherheit) regeln, nicht aber den Anspruch durch sachfremde Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
+Folgen: **Anspruch auf angemessene bauliche Veränderung** bei erfüllten Voraussetzungen und unter den Grenzen des § 20 Abs. 4 WEG; Durchführung nach § 20 Abs. 2 Satz 2 beschließen. Die GdWE darf das "Wie" (Ausführung, Optik, Sicherheit) regeln, nicht aber den Anspruch durch sachfremde Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
 
 ## Mieter-Schiene (Steckersolar)
 
@@ -60,11 +60,11 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 
 > Der Eigentümer/die Eigentümerin der Einheit Nr. [...] erhält die Gestattung, ein Steckersolargerät (Balkonkraftwerk) gemäß § 20 Abs. 2 Nr. 5 WEG mit folgenden Auflagen am Balkon/Geländer der Einheit Nr. [...] zu installieren:
 > 1. Module/Halterung nach Datenblatt (Anlage [X]), max. Gewicht [kg], Befestigung gemäß Herstellervorgaben durch geeignete Person.
-> 2. Wechselrichter zulässige Einspeiseleistung gemäß geltendem Recht; Anmeldung beim Marktstammdatenregister und beim Netzbetreiber durch den Antragsteller.
-> 3. Elektrische Anschlussinstallation durch Elektrofachbetrieb (Nachweis), Verwendung einer geeigneten Energiesteckdose.
+> 2. Wechselrichter zulässige Einspeiseleistung gemäß geltendem Recht; Registrierung und weitere Meldungen nach der konkret geltenden Regelung; keine zusätzliche Netzbetreibermeldung für gesetzlich vereinfachte Steckersolargeräte pauschal verlangen.
+> 3. Eignung des vorhandenen Anschlusses und der konkreten Geräte-/Steckerkombination nach aktuellen technischen Regeln nachweisen; erforderliche Arbeiten an der festen Installation durch Fachbetrieb. Nicht ohne technische Begründung jede steckerfertige Anlage von einer neuen Spezialsteckdose abhängig machen.
 > 4. Optische Einfügung gemäß Anlage [Y] (Farbgebung, Position).
 > 5. Versicherung, Wartung, Rückbau bei Auszug/Wegfall der Nutzung trägt der Antragsteller.
-> 6. Schäden am Gemeinschaftseigentum sind dem Antragsteller anzuzeigen und auf seine Kosten zu beheben.
+> 6. Schäden am Gemeinschaftseigentum sind der Verwaltung unverzüglich mitzuteilen. Verantwortlichkeit und Ersatzpflicht nach Schadensursache und wirksamer Regelung prüfen; keine verschuldensunabhängige Pauschalhaftung ohne Rechtsgrund.
 > Die Kosten der Maßnahme trägt der Antragsteller (§ 21 Abs. 1 WEG).
 
 ## Mustertext Beschluss (Wallbox, mit Lastmanagement)

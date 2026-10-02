@@ -1,0 +1,93 @@
+{
+  "raw_verification": [
+    {
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "sequence": 1,
+      "raw_file_count": 32,
+      "raw_file_hash_mismatches": [],
+      "independent_extraction_matches_saved_bytes": true,
+      "extracted_sha256": "8168f6ed476d7cc5ddccaf56d574cf5671b0f096f63158374f1f0fe89f9ec9bb",
+      "extracted_hash_matches_manifest": true,
+      "prompt_copy_sha256": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+      "prompt_copy_matches_manifest": true,
+      "request_matches_manifest": true,
+      "actual_output_sha256": "a571b6131c0c75b941eaad147b5bf07691989196ccc495e5ccef2f4d47438d20"
+    },
+    {
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "sequence": 2,
+      "raw_file_count": 36,
+      "raw_file_hash_mismatches": [],
+      "independent_extraction_matches_saved_bytes": true,
+      "extracted_sha256": "eff6a61b8b59c7b875317dba35e88f3e9e34c12be5d9b73fa71224ef2c78f338",
+      "extracted_hash_matches_manifest": true,
+      "prompt_copy_sha256": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+      "prompt_copy_matches_manifest": true,
+      "request_matches_manifest": true,
+      "actual_output_sha256": "a7b059e31d7a7fb33f5e146a802bd68394a4cb3cbd1d955c01599bcaf8781c68"
+    },
+    {
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "sequence": 3,
+      "raw_file_count": 32,
+      "raw_file_hash_mismatches": [],
+      "independent_extraction_matches_saved_bytes": true,
+      "extracted_sha256": "eeab87e555cee00b01aa52d812430aab532184ca2839fa7efcf26471911bf1b9",
+      "extracted_hash_matches_manifest": true,
+      "prompt_copy_sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+      "prompt_copy_matches_manifest": true,
+      "request_matches_manifest": true,
+      "actual_output_sha256": "b4b54d32e1edd4463c3c58edf05f638320c29071cfb3605d67f0bc0b796669c6"
+    }
+  ],
+  "independent_decimal_calculations": {
+    "spreebogen": {
+      "kalte_kosten": "1716",
+      "heizung_vor_co2": "2160.0",
+      "co2_kg_je_m2": "34",
+      "vermieter_co2": "90.0",
+      "mietkosten": "3786.0",
+      "vorauszahlungen": "3360",
+      "nachzahlung": "426.0",
+      "herausgenommene_eigentuemerkosten": "2290"
+    },
+    "lindenhof": {
+      "kosten": "24360",
+      "betrieb_ende": "2400",
+      "ruecklage_ende": "48000",
+      "bank_gesamt": "50400",
+      "spitzen": [
+        "36",
+        "39.6",
+        "43.2",
+        "43.2",
+        "46.8",
+        "46.8",
+        "50.4",
+        "54"
+      ],
+      "summe_spitzen": "360",
+      "we04_alt": "283.20",
+      "offen_2025": "320",
+      "2026_zahlung": "320.00",
+      "offen_nach_tilgung": "0.00"
+    },
+    "sonnenwinkel": {
+      "gemeinschaft_beauftragt": "2142",
+      "gemeinschaft_bezahlt": "1428.00",
+      "offene_rechnung_aktenstand": "714.00",
+      "neue_angebote": "892.50",
+      "private_zahlungen": "383.90",
+      "alle_belege_inkl_angebote": "3418.40",
+      "bisher_je_einheit": "357",
+      "potenziell_nach_beiden_zusatzauftraegen_je_einheit": "505.75"
+    },
+    "datumskontrolle": {
+      "tage_zwischen_02_10_und_22_10_2026": 20,
+      "vier_wochen_nach_22_10_2026": "2026-11-19",
+      "2026_10_31_wochentag": "Saturday",
+      "2027_09_19_wochentag": "Sunday"
+    }
+  },
+  "method": "Read-only verification of original numbered files, DOCX XML, XLSX typed values/formulas and caches, MIME text; independent Decimal calculations; no source or actual-output file changed."
+}

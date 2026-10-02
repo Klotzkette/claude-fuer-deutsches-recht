@@ -1,82 +1,46 @@
 ---
 name: handwerker-beauftragung-vergabe
-description: "Für Handwerkerbeauftragung und Vergabe: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Handwerkerangebote und Beauftragungsbefugnis einer GdWE; erstellt eine belegte Vergabeempfehlung mit Leistungsumfang, Wirtschaftlichkeit, Finanzierung und Vollzugskontrolle."
 ---
 
-# Handwerkerbeauftragung und Vergabe
+# Handwerkerbeauftragung von der Diagnose bis zur Rechnung
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Erstelle eine wirtschaftlich begründete Vergabeentscheidung und einen vollständig ausgearbeiteten Auftrag. Bearbeite danach Nachtrag, Abnahme, Rechnung und Mängelnachverfolgung anhand derselben Belegkette.
 
-## Fachkern: Handwerkerbeauftragung und Vergabe
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Stand: 05/2026.
+Schadensbericht, Aufmaß/Fotos, technische Empfehlung, Angebote, bisherige Erfahrungen, konkreten Maßnahmen- und Finanzierungsbeschluss sowie Verwalterermächtigung lesen. Leistungsumfang, Preisart, Ausführungstermin, Nebenleistungen und Ausnahmen nur nachfordern, wenn sie für Vergleich oder Auftrag fehlen.
 
-## Ziel
+## 3. Ablauf und fachliche Weichen
 
-Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Beschlussvorgang.
+### 3.1. Tragfähige Entscheidung statt Angebotszählen
 
-## Workflow
+BGH, Urt. v. 27.03.2026 – Az. V ZR 7/25, Rn. 8, 15–25: Es gibt keine allgemeine starre Zwei-/Drei-Angebote-Pflicht oder feste Bagatellgrenze für Erhaltungsmaßnahmen. Die Entscheidung benötigt weiterhin ausreichende Informationen über geeignete Leistung und marktgerechten Preis. Prüfe Komplexität, Schadensdruck, lokale Verfügbarkeit, Sonderfachplanung, unabhängige Preisbewertung und dokumentierte Erfahrung. Ein bloßer Satz „bekannt und bewährt“ ersetzt keine Prüfung, wenn die Akte erhebliche Preis- oder Qualitätszweifel enthält. Bestehende konkrete Beschluss- und Vertragsvorgaben sowie Interessenkonflikte gesondert auswerten.
 
-1. **Schaden/Maßnahme beschreiben**: Fotos, Ort, Dringlichkeit, Fachgewerk, betroffene Eigentumsteile, Sicherungsmaßnahmen.
-2. **Leistungsbeschreibung** erstellen: gewünschtes Ergebnis, vorhandene Bausubstanz, Ausführungszeitfenster, einzuhaltende Normen.
-3. **Angebote vergleichbar machen**:
- - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
- - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist (abhängig von Werkart und VOB/B-Vereinbarung — siehe Mustertabelle), Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
-4. **Beschlussbedarf prüfen** (siehe Tabelle).
-5. **Beauftragung** mit klarer Vollmacht, Auftragsbestätigung, ggf. VOB/B-Vereinbarung, Versicherungsnachweis.
-6. **Nachträge** schriftlich vereinbaren (Mehrkostenrisiko sichtbar machen), Beirat ggf. einbinden.
-7. **Abnahme** dokumentieren (Protokoll, Mängelliste, Beginn Gewährleistung).
-8. **Rechnungsprüfung** gegen Angebot, Aufmaß und Abnahme; ggf. Sicherheitseinbehalt.
+Vergleichsangebote einholen, wenn dies angesichts des Vorgangs eine sinnvolle Informationslücke schließt. Leistungsumfang, Brutto/Netto, Material, Mengen, Anfahrt, Entsorgung, Ausschlüsse, Termin, Abnahme und Gewährleistung vergleichbar machen. Wenn nur ein Anbieter verfügbar ist, Anfragen/Absagen und alternative Preisgrundlage dokumentieren. Eignung oder Überteuerung bleiben eigenständige Mängel, auch wenn weitere Angebote nicht zwingend waren.
 
-## Beschlussbedarf (Faustregel)
+### 3.2. Auftrag und Finanzierung
 
-| Maßnahme | Verwalter allein | Beschluss |
-| --- | --- | --- |
-| Bagatell-/Routine (kleine Reparaturen) | ja (untergeordnete Bedeutung, § 27 Abs. 1 Nr. 1 WEG) | nein |
-| Eilmaßnahme (Schadensabwehr) | ja (§ 27 Abs. 1 Nr. 2 WEG), Bericht | nein |
-| Erhaltung über Schwellwert | nur wenn Verwaltervertrag/Beschluss ermächtigt | Mehrheitsbeschluss |
-| Modernisierende Erhaltung | nein | Mehrheitsbeschluss, Kostenrahmen |
-| Bauliche Veränderung § 20 WEG | nein | Beschluss mit Auflagen, Kostenfolge nach § 21 WEG |
-| Heizungstausch (GEG § 71) | nein | Beschluss mit GEG-konformem Konzept |
+Interne Befugnis nach § 27 WEG und Vertretung nach § 9b WEG auseinanderhalten. Auftragsgegenstand, Beschlussdatum/TOP, konkreter Anbieter, Kostenrahmen, Finanzierung, Ausführung und Änderungsvorbehalt bestimmen. Beirat ist nicht automatisch Ersatz für eine Eigentümerentscheidung. Gesetzeskonformität eines Heizungstauschs anhand der für Einbauzeitpunkt/Gebäude geltenden aktuellen Heizungsnormen prüfen; keinen ungeprüften Altverweis auf § 71 GEG als universelle heutige Vorgabe einsetzen.
 
-## Vergleichstabelle Angebote (Schema)
+Für den Vertragsentwurf vollständige Sätze formulieren: „Wir beauftragen Sie namens der Gemeinschaft der Wohnungseigentümer [Bezeichnung] mit den in Ihrem Angebot [Nummer/Datum] beschriebenen und in Anlage 1 konkretisierten Arbeiten. Der vereinbarte [Pauschalpreis/Einheitspreis] beträgt [Betrag] EUR einschließlich [Umsatzsteuerangabe]. Die Ausführung beginnt am [Datum] und ist bis [Datum] fertigzustellen. Änderungen des Leistungsumfangs und der Vergütung bedürfen vor Ausführung einer gesonderten Vereinbarung durch eine hierfür vertretungsberechtigte Person.“ Ausnahmen für erforderliche Sofortmaßnahmen konkret regeln, nicht pauschal Vollmacht für beliebige Mehrkosten erteilen.
 
-| Punkt | Angebot A | Angebot B | Angebot C |
-| --- | --- | --- | --- |
-| Brutto Festpreis | ... | ... | ... |
-| Ausführungszeit | ... | ... | ... |
-| Gewährleistungsfrist (BGB: Bauwerk 5 J, sonstige Werkleistungen/Wartung 2 J — § 634a Abs. 1 BGB; VOB/B § 13 Abs. 4: Bauwerk 4 J, andere Arbeiten und Wartungsarbeiten 2 J, soweit VOB/B wirksam vereinbart) | ... | ... | ... |
-| Materialqualität / Typ | ... | ... | ... |
-| Ausgeschlossene Leistungen | ... | ... | ... |
-| Versicherung / Sachkunde | ... | ... | ... |
-| Bonität / Referenzen | ... | ... | ... |
-| Nachweise (BAFA, GEG) | ... | ... | ... |
+### 3.3. Abnahme, Mängel und Rechnung
 
-## Mustertext Auftragsbestätigung
+Tatsächlich ausgeführte Leistung und Nachträge mit Beschluss/Auftrag vergleichen. Abnahmebefugnis, konkrete Mängel, Vorbehalte, Nacherfüllungsfrist und dokumentierten Zahlungseinbehalt prüfen. Verjährung nicht pauschal aus „Handwerker = zwei Jahre“ ableiten: Werkart, § 634a BGB, wirksame Vertragsabreden, Abnahme und Sonderregeln entscheiden. VOB/B nur heranziehen, wenn tatsächlich wirksam einbezogen und im maßgeblichen Text verfügbar.
 
-> Sehr geehrte Damen und Herren,
-> auf Grundlage Ihres Angebots vom [Datum] und des Beschlusses der WEG [Adresse] vom [Datum, TOP X] beauftragen wir Sie verbindlich mit der Ausführung der Maßnahme [Bezeichnung] zu folgenden Konditionen:
-> 1. Leistungsumfang gemäß Angebot Anlage 1.
-> 2. Pauschalpreis brutto [Betrag] EUR (inkl. USt.).
-> 3. Ausführungszeitraum: [Beginn]–[Ende].
-> 4. Abnahme: gemeinsam vor Ort am [Datum].
-> 5. Gewährleistungsfrist: [Bauwerk-Arbeit BGB 5 Jahre / Bauwerk-Arbeit mit wirksam vereinbarter VOB/B 4 Jahre / sonstige Werkleistung oder Wartung 2 Jahre — passend zur Auftragsart streichen] ab Abnahme.
-> 6. Versicherungsnachweis bitte bis [Datum] vorlegen.
-> 7. Nachträge nur schriftlich nach vorheriger Freigabe der Verwaltung.
+Rechnungsempfänger, Leistungszeit, Aufmaß, Preis, Doppelrechnung/Gutschrift und Zahlungsempfänger plausibilisieren. Bei geänderter Bankverbindung Rückbestätigung über einen bekannten Kontaktweg als Betrugsprävention vorsehen. Kein automatischer Auftrag oder Zahlungsvollzug aus diesem Entwurf.
 
-## Cross-Refs
+## 4. Quellenpflicht
 
-- Erhaltung / Modernisierung / GEG → `erhaltung-modernisierung-baumaengel`
-- Bauliche Veränderung → `bauliche-veraenderungen-20-weg`
-- Beschluss / Sonderumlage → `beschlussvorlagen-erstellen`, `hausgeld-sonderumlage-liquiditaet`
-- Beiratskontrolle → `beirat-controlling-verwalter`
+[Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) für die konkret berührten Fragen lesen. Die amtlichen Entscheidungslinks, Randnummern und Anwendungsgrenzen dort beachten; Normstand anhand der verlinkten Einzelnormen prüfen. Nach [Zitierweise](../../references/zitierweise.md) zitieren. Keine Literaturfundstellen aus Modellwissen und keine Entscheidung nur wegen eines ähnlichen Schlagworts übernehmen.
 
-## Quellenpflicht
+## 5. Ausgabeformat
 
-`rechtsstand-mai-2026-faktenbank` laden. § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__27.html . Bei Heizungstausch GEG § 71 (https://www.gesetze-im-internet.de/geg/__71.html) prüfen.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+
+## 6. Beispiel
+
+Für die defekte Kellertür liegt nur ein Angebot vor. Die Firma hat zwei vergleichbare Türen mängelfrei erneuert; Material und Preis sind anhand der Voraufträge plausibel, die vorhandene Tür schließt nicht. Formuliere eine begründete Entscheidung unter Prüfung der Eilbefugnis und der konkreten Ermächtigung. Drei künstliche Angebote und eine unbegründete Freihandfreigabe sind gleichermaßen unbrauchbar.

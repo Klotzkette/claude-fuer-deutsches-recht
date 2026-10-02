@@ -40,9 +40,9 @@ Handlauf-Nachrüstung: Fast immer verfahrensfrei. Türverbreiterung Hauseingang:
 
 ## Kostentragung
 
-§ 21 Abs. 1 WEG: Antragsteller trägt, wenn Maßnahme nur ihm nützt (individuell privilegierte Maßnahme nach § 20 Abs. 2 Nr. 2 WEG). Norm: https://www.gesetze-im-internet.de/woeigg/__21.html
+§ 21 Abs. 1 WEG: Bei einer individuell gestatteten oder auf Verlangen nach § 20 Abs. 2 WEG durchgeführten Maßnahme trägt grundsätzlich der betreffende Eigentümer die Kosten; nicht allein an den tatsächlichen Nutzen anknüpfen. Norm: https://www.gesetze-im-internet.de/woeigg/__21.html
 
-§ 21 Abs. 2 WEG: Kosten trägt die GdWE nach Miteigentumsanteilen, wenn die Maßnahme der Instandsetzung oder einer gesetzlichen Verpflichtung dient (z. B. Arbeitsstättenverordnung bei Gewerbeeinheiten, Verkehrssicherungspflicht). Tipp: Sonderumlage statt laufender Hausgelderhöhung bei Einmalkosten, da günstiger für Hausgeld-Rückstandsprüfung. Norm § 28 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html
+Erhaltungskosten nach § 16 Abs. 2 WEG von Kosten baulicher Veränderungen nach § 21 WEG trennen. § 21 Abs. 2 Nr. 1 verlangt mehr als zwei Drittel der abgegebenen Stimmen und die Hälfte aller MEA, mit Ausnahme unverhältnismäßiger Kosten; Nr. 2 ist die eigenständige Amortisationsalternative. Gesetzliche Pflicht, Finanzierung und Kostenverteilung jeweils konkret prüfen. Ob Rücklage, Vorschüsse oder Sonderumlage sachgerecht sind, folgt aus Zweck, Beschlusslage und Liquidität, nicht aus einem pauschalen Kostenvorteil.
 
 ## Praxistipp: Stufenkantenmarkierung und Bewegungsmelder
 

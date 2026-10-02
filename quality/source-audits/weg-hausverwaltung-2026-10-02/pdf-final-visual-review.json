@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "total_pages": 364,
+  "individually_viewed_unique_pages": 271,
+  "exact_rgb_duplicate_pages": 93,
+  "method": "271 unterschiedliche vollständige Seiten einzeln visuell geprüft; 93 weitere Seiten über vollständige identische dekodierte RGB-Pixel zu bereits geprüften Seiten zugeordnet. Vier CO₂-Glyphfehler korrigiert und final erneut angesehen.",
+  "cases": {
+    "weg-kastanienhof-kellerdiebstahl": {
+      "individual_pages": 34,
+      "combined_pages": 50
+    },
+    "weg-lindenhof-jahresabrechnung-2025": {
+      "individual_pages": 39,
+      "combined_pages": 68
+    },
+    "weg-sonnenwinkel-bettwanzen": {
+      "individual_pages": 33,
+      "combined_pages": 51
+    },
+    "weg-spreebogen-mieterumlage-belege": {
+      "individual_pages": 33,
+      "combined_pages": 56
+    }
+  }
+}

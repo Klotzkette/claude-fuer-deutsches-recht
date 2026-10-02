@@ -1,0 +1,412 @@
+FILE 01_Auftrag_Vermieterabrechnung.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Rechtsanwältin Friederike Morgen
+Abrechnung für Frau Nair und Herrn Biber
+25.09.2026
+Sehr geehrte Frau Morgen,
+Herr Ottfried Knöpfle vermietet Wohnung 4 im Spreebogen 7 an Leela Nair und Juri Biber. Er hat unseren WEG-Export in einen eigenen Brief eingefügt und fordert nun 2.806 EUR nach. Die Mieter fragen nach Belegen und halten den Betrag für falsch. Herr Knöpfle meint, wir hätten ihm eine mietrechtlich fertige Abrechnung gegeben. Unser Verwaltervertrag betrifft nur die Gemeinschaft; im September hat er uns erstmals wegen seiner Mieter geschrieben.
+Bitte prüfen Sie, welche Unterlagen wir gegenüber Herrn Knöpfle bereitstellen sollen und wie eine getrennte, nachvollziehbare Mietabrechnung aussehen müsste. Für den Vermieter bitten wir um einen überarbeitbaren Abrechnungsentwurf und einen individuellen Antwortbrief. Dazu hat er uns am 24. September ausdrücklich beauftragt. Der Versand erfolgt erst nach seiner Freigabe. Bei fehlenden Tatsachen bitte gezielt nachfragen.
+Wir haben Heizdaten und CO₂-Angaben nachgefordert. Die Gemeinschaft hat eine zentrale Gasheizung, alle acht Wohnungen sind gleich groß. Die Dachrechnung ist eine einmalige Reparatur. Ein unterschriebener gesonderter Beschluss zur Verteilung von Mietbetriebskosten existiert nicht. Die Mieter haben für 2025 monatlich 280 EUR vorausgezahlt.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 02_Mietvertrag.docx
+Ottfried Knöpfle, Vermieterottfried@knoepfle.example
+Leela Nair und Juri Biber, Mieterleela@nair.example
+Wohnraummietvertrag Spreebogen Wohnung 4
+12.11.2023
+1. Wohnung und Mietbeginn
+Ottfried Knöpfle vermietet Leela Nair und Juri Biber die Wohnung 4 im zweiten Obergeschoss des Hauses Spreebogen 7 in Berlin. Die Wohnung umfasst drei Zimmer, Küche, Bad, Flur und Balkon mit einer vereinbarten Wohnfläche von 80 m². Das zugeordnete Kellerabteil darf mitbenutzt werden. Das Mietverhältnis beginnt am 01.01.2024 und läuft auf unbestimmte Zeit. Beide Mieter haften für ihre vertraglichen Zahlungspflichten als Gesamtschuldner.
+2. Miete und Vorauszahlungen
+Die monatliche Nettokaltmiete beträgt 1.050 EUR. Zusätzlich werden monatlich 280 EUR als Vorauszahlung auf Betriebskosten einschließlich Heiz- und Warmwasserkosten geleistet. Der Gesamtbetrag von 1.330 EUR ist monatlich spätestens zum dritten Werktag auf das benannte Mietkonto zu entrichten. Abgerechnet wird jährlich nach dem Kalenderjahr; geleistete Vorauszahlungen werden angerechnet.
+3. Vereinbarte Betriebskosten
+Die Mieter tragen die umlagefähigen Betriebskosten nach der Betriebskostenverordnung, soweit sie für das Gebäude tatsächlich anfallen. Vereinbart sind insbesondere Wasser und Entwässerung, Müllentsorgung, Gebäudereinigung, Allgemeinstrom, Sach- und Haftpflichtversicherung sowie umlagefähige Hauswartleistungen. Verwaltungs-, Instandhaltungs- und Instandsetzungskosten sind nicht als Betriebskosten vereinbart. Sonstige Betriebskosten werden durch diesen Vertrag nicht zusätzlich benannt.
+4. Verteilung und Heizkosten
+Soweit keine zwingenden Vorschriften oder Verbrauchserfassung etwas anderes erfordern, werden die vereinbarten Betriebskosten nach Wohnfläche verteilt. Die zentrale Heizung wird entsprechend der Heizkostenverordnung abgerechnet. Die Wohnung wird ganzjährig von beiden Mietern genutzt. Änderungen der Personenzahl allein ändern den vereinbarten Flächenschlüssel nicht. Auf die Jahresabrechnung folgt keine automatische Anerkennung durch Schweigen.
+5. Nutzung und Kommunikation
+Die Mieter zeigen Mängel der Wohnung dem Vermieter an. Die WEG-Hausverwaltung ist für gemeinschaftliche Gebäudefragen erreichbar, wird dadurch aber nicht selbst Vermieterin. Ein Einsichtstermin zu Abrechnungsbelegen wird mit dem Vermieter abgestimmt. Er kann die Verwaltung mit der Bereitstellung beauftragen, bleibt Ansprechpartner für die eigene Abrechnung.
+Der Vertrag wurde am 12.11.2023 von Ottfried Knöpfle, Leela Nair und Juri Biber unterzeichnet. Im Jahr 2025 wurden die Vorauszahlungen nicht geändert.
+
+FILE 03_WEG_Jahresabrechnung.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Ottfried Knöpfle
+WEG Abrechnung 2025 Wohnung 4
+14.09.2026
+Die acht Wohnungen im Spreebogen 7 haben je 80 m² Wohnfläche und je 125 von 1.000 Miteigentumsanteilen. Für Wohnung 4 entfallen aus der gemeinschaftlichen Kostenrechnung 360 EUR auf Wasser, 240 EUR auf Müll, 264 EUR auf die Gebäudeversicherung, 360 EUR auf Reinigung, 360 EUR auf Hausmeisterleistungen und 132 EUR auf Allgemeinstrom. Die Heizkostenabrechnung weist 2.160 EUR aus.
+Hinzu kommen 480 EUR Verwaltung, 750 EUR Dachreparatur und 60 EUR Bankkosten. Die gemeinschaftlichen Kosten für diese Wohnung betragen damit 5.166 EUR. Die geleisteten Beiträge zur Erhaltungsrücklage von 1.000 EUR werden getrennt nachgewiesen. Der beigefügte Datenexport summiert sämtliche für den Eigentümer dargestellten Positionen einschließlich dieses Beitrags auf 6.166 EUR.
+Der Bankkostenanteil beruht auf insgesamt 480 EUR jährlichen Kontoführungs- und Transaktionsentgelten. Die Rücklage ist auf dem Gemeinschaftskonto angelegt und wurde 2025 nicht für die Dachrechnung eingesetzt. Die Heizkosten enthalten nach Mitteilung des Messdienstes noch die vollen CO₂-Kosten; eine mietvertragliche Weiterverrechnung wurde durch die Verwaltung nicht vorgenommen.
+Diese Eigentümerunterlage enthält keine Abrechnung gegenüber Leela Nair und Juri Biber. Die WEG-Beschlüsse und der Mietvertrag sind verschiedene Unterlagen. Noura Selim hat den Export auf Wunsch des Eigentümers zusätzlich als Excel-Datei bereitgestellt.
+
+FILE 04_Hausgeldexport.xlsx
+SHEET Eigentuemerkosten
+A1=Position | B1=Haus gesamt EUR | C1=Teiler | D1=Wohnung 4 EUR | E1=Quelle
+A2=Wasser | B2=2880 | C2=8 | D2==B2/C2 [cached=360] | E2=05_Wasser.docx
+A3=Müll | B3=1920 | C3=8 | D3==B3/C3 [cached=240] | E3=06_Muell.docx
+A4=Gebäudeversicherung | B4=2112 | C4=8 | D4==B4/C4 [cached=264] | E4=07_Versicherung.docx
+A5=Reinigung | B5=2880 | C5=8 | D5==B5/C5 [cached=360] | E5=08_Reinigung.docx
+A6=Hausmeister | B6=2880 | C6=8 | D6==B6/C6 [cached=360] | E6=09_Hausmeister.docx
+A7=Allgemeinstrom | B7=1056 | C7=8 | D7==B7/C7 [cached=132] | E7=10_Allgemeinstrom.docx
+A8=Heizung | B8=17280 | C8=8 | D8==B8/C8 [cached=2160] | E8=11_Gasrechnung.docx
+A9=Verwaltung | B9=3840 | C9=8 | D9==B9/C9 [cached=480] | E9=15_Verwalterentgelt.docx
+A10=Dachreparatur | B10=6000 | C10=8 | D10==B10/C10 [cached=750] | E10=16_Dachrechnung.docx
+A11=Bankkosten | B11=480 | C11=8 | D11==B11/C11 [cached=60] | E11=03_WEG_Jahresabrechnung.docx
+A12=Rücklagenbeitrag | B12=8000 | C12=8 | D12==B12/C12 [cached=1000] | E12=17_Ruecklagennachweis.docx
+A13=Summe | B13==SUM(B2:B12) [cached=49328] | D13==SUM(D2:D12) [cached=6166] | E13=Export für Vermieter vom 15. September
+SHEET Heizdaten
+A1=Messgröße | B1=Wert | C1=Einheit | D1=Quelle
+A2=Wohnfläche Gebäude | B2=640 | C2=m² | D2=26_Flaechenverzeichnis.docx
+A3=Wohnfläche Wohnung 4 | B3=80 | C3=m² | D3=26_Flaechenverzeichnis.docx
+A4=Verteilte Heizkosten | B4=17280 | C4=EUR | D4=12_Heizkostenabrechnung.docx
+A5=CO₂ Emissionen Gebäude | B5=21760 | C5=kg | D5=14_CO2_Liefernachweis.docx
+A6=CO₂ je Wohnfläche | B6==B5/B2 [cached=34] | C6=kg/m² | D6=Liefernachweis und Flächen
+A7=CO₂ Kosten Gebäude | B7=1440 | C7=EUR | D7=14_CO2_Liefernachweis.docx
+A8=CO₂ Kosten Wohnung 4 | B8==B7*B3/B2 [cached=180] | C8=EUR | D8=Heizkostenanteil hier 1/8
+
+FILE 05_Wasser.docx
+Kanal und Quellerechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Wasser und Abwasser 2025
+31.12.2025 · W-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Der Jahresbetrag besteht aus Trinkwasser von 1.680 EUR einschließlich 7 Prozent Umsatzsteuer und Abwassergebühren von 1.200 EUR ohne Umsatzsteuer. Erfasst wird ausschließlich der Hauptzähler SP-7001; Wohnungswasserzähler bestehen nicht.
+Der Gesamtbetrag beträgt 2.880,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer W-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 06_Muell.docx
+Stadtsauber Spreerechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Müllentsorgung 2025
+31.12.2025 · M-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Regelmäßige Leerung der Restmüll- und Wertstoffbehälter im Kalenderjahr 2025. Der Gebührenbescheid weist keine Umsatzsteuer aus. Private Sperrmüllbestellungen sind nicht enthalten.
+Der Gesamtbetrag beträgt 1.920,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer M-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 07_Versicherung.docx
+Spree Schutz Versicherungrechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Gebäudeversicherung 2025
+31.12.2025 · GV-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Versichert sind Gebäude und gemeinschaftliche Anlagen. Der Beitrag enthält Versicherungssteuer und keine Umsatzsteuer. Er beinhaltet keine private Rechtsschutzversicherung des Verwalters oder Vermieters.
+Der Gesamtbetrag beträgt 2.112,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer GV-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 08_Reinigung.docx
+Feudel Feinschliff GmbHrechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Reinigung der Gemeinschaftsflächen 2025
+31.12.2025 · R-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Treppenhaus und Eingangsbereich wurden einmal wöchentlich gereinigt. Die Summe entspricht 2.420,17 EUR netto zuzüglich 459,83 EUR Umsatzsteuer. Eine Sonderreinigung nach Bauarbeiten ist nicht enthalten.
+Der Gesamtbetrag beträgt 2.880,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer R-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 09_Hausmeister.docx
+Balthasar Balkon Hausdienstrechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Hausmeisterleistungen 2025
+31.12.2025 · HM-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Bereitstellen der Müllbehälter, Reinigung des Hofablaufs und Kontrollgänge wurden monatlich erbracht. Reparatur- und Verwaltungstätigkeiten wurden nicht abgerechnet. Die Summe entspricht 2.420,17 EUR netto zuzüglich 459,83 EUR Umsatzsteuer. Die wöchentlichen Tätigkeitszettel liegen zur Einsicht vor.
+Der Gesamtbetrag beträgt 2.880,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer HM-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 10_Allgemeinstrom.docx
+Kiezstrom Energie GmbHrechnung@spree-lieferant.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Stromrechnung Treppenhaus 2025
+31.12.2025 · ST-SP-25
+Sehr geehrte Damen und Herren,
+für den Zeitraum 01.01.2025 bis 31.12.2025 rechnen wir die nachfolgenden Leistungen für das Haus Spreebogen 7 ab. Der Zähler SP-AL02 versorgt nur Treppenhaus, Keller und Hofbeleuchtung. Die Summe entspricht 887,39 EUR netto zuzüglich 168,61 EUR Umsatzsteuer. Der Energieverbrauch beträgt 2.640 kWh.
+Der Gesamtbetrag beträgt 1.056,00 EUR. Die geleisteten Abschläge beziehungsweise Monatszahlungen decken den Betrag vollständig. Diese Jahresbestätigung begründet keine zusätzliche Forderung. Die im Eigentümerexport genannten Teilbeträge stammen aus der Verteilung durch die Hausverwaltung, nicht aus einer wohnungsweisen Lieferrechnung.
+Bitte nennen Sie bei Rückfragen die Rechnungsnummer ST-SP-25. Leistungsnachweise und Zahlungszuordnung können nach Terminabstimmung eingesehen werden.
+
+FILE 11_Gasrechnung.docx
+Spreegas Energie GmbHrechnung@spreegas.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Gaslieferung Zentralheizung 2025
+12.02.2026 · SG-2025-701
+Die Jahreslieferung vom 01.01. bis 31.12.2025 für den Zähler SP-G701 umfasst 108.800 kWh Gas. Der Bruttobetrag beträgt 17.280 EUR, darin 14.521,01 EUR netto und 2.758,99 EUR Umsatzsteuer. Der Betrag enthält sämtliche in dieser Rechnung ausgewiesenen Lieferentgelte. Die gesondert erläuterten CO₂-Kosten von 1.440 EUR brutto sind Teil dieses Betrags und dürfen nicht nochmals hinzuaddiert werden.
+Die Abschläge von insgesamt 16.800 EUR und die am 27.02.2026 geleistete Schlusszahlung von 480 EUR gleichen die Rechnung aus. Für die Heizkostenaufstellung 2025 wurde der gesamte Lieferbetrag dem Verbrauchszeitraum 2025 zugeordnet. Die Zahlung der Schlussrechnung erst im Folgejahr ist in der Verwaltung dokumentiert.
+Die aus der Lieferung resultierenden CO₂-Emissionen betragen 21.760 kg. Weitere Angaben enthält der Liefernachweis. Unsere Rechnung bestimmt nicht, welcher Anteil zwischen einem Eigentümer und dessen Mietern zu tragen ist. Es wurden keine Kosten für Reparatur oder Neuanschaffung der Heizungsanlage abgerechnet.
+
+FILE 12_Heizkostenabrechnung.docx
+Messdienst Wärmewort GmbHservice@waermewort.example
+Ottfried Knöpfle über Havel und Hof
+Heizkosten 2025 Wohnung 4
+02.09.2026
+1. Abrechnungseinheit
+Das Haus Spreebogen 7 verfügt über eine zentrale Gasheizung ohne zentrale Warmwasserbereitung. Warmwasser wird in den Wohnungen elektrisch erzeugt. Die verteilten Heizkosten betragen 17.280 EUR. Zusätzliche Wartungs- oder Messdienstkosten wurden für diesen Zeitraum nicht in diese Kostenaufstellung eingestellt. Abgerechnet wird das volle Kalenderjahr 2025.
+2. Verteilung
+30 Prozent, somit 5.184 EUR, werden nach 640 m² Wohnfläche verteilt. Auf die 80 m² der Wohnung 4 entfallen 648 EUR. 70 Prozent, somit 12.096 EUR, werden nach 80.000 Verbrauchseinheiten verteilt. Für Wohnung 4 sind 10.000 Einheiten erfasst; ihr Anteil beträgt 1.512 EUR. Insgesamt ergeben sich 2.160 EUR.
+3. CO₂ und Weiterverwendung
+Der ausgewiesene Anteil enthält 180 EUR der in der Lieferrechnung enthaltenen CO₂-Kosten. Die vom Eigentümer zu tragende beziehungsweise gegenüber Mietern anzusetzende Quote wurde in dieser an die WEG gerichteten technischen Kostenverteilung noch nicht umgesetzt. Der Liefernachweis und die Flächenangaben sind beigefügt. Für die vermieterseitige Abrechnung benötigt der Auftraggeber eine entsprechende gesonderte Prüfung.
+Die Werte beruhen auf den vollständig abgelesenen Geräten. Es liegt weder eine Verbrauchsschätzung noch ein Nutzerwechsel vor.
+
+FILE 13_Verbrauchsablesung.docx
+Messdienst Wärmewort GmbH
+Verwaltungsablage Spreebogen 7
+Ableseprotokoll Wohnung 4
+05.01.2026
+Abgelesen wurde am 05.01.2026 der gespeicherte Stichtagswert zum 31.12.2025. Im Wohnzimmer sind 3.800, im Schlafzimmer 2.300, im Arbeitszimmer 2.600 und in der Küche 1.300 bewertete Einheiten gespeichert. Zusammen ergeben sich 10.000 Einheiten. Die Gerätekennungen lauten SP4-W, SP4-S, SP4-A und SP4-K.
+Leela Nair war bei der Funktionskontrolle anwesend. Es wurden keine defekten Geräte und keine fehlenden Stichtagswerte vermerkt. Die Summe aller acht Wohnungen beträgt nach dem Hausprotokoll 80.000 Einheiten. Ein Foto einer Geräteanzeige aus dem Mai 2026 betrifft einen anderen laufenden Zeitraum und wurde nicht als Jahresendwert verwendet.
+Technikerin Minou Herbst hat die Werte am 05.01.2026 in das Erfassungsblatt übernommen. Die Mieter haben den Termin bestätigt, nicht die spätere Kostenverteilung anerkannt.
+
+FILE 14_CO2_Liefernachweis.docx
+Spreegas Energie GmbH
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+CO2 Angaben zur Gaslieferung 2025
+12.02.2026
+Zur Rechnung SG-2025-701 bestätigen wir einen Energiegehalt der gelieferten Brennstoffmenge von 108.800 kWh, daraus resultierende CO₂-Emissionen von 21.760 kg und enthaltene CO₂-Kosten von 1.440 EUR brutto. Die Angaben beziehen sich ausschließlich auf den Lieferzeitraum 01.01. bis 31.12.2025.
+Die Verwaltung hat uns als gesamte Wohnfläche 640 m² mitgeteilt. Eine tatsächliche Vermessung des Gebäudes haben wir nicht vorgenommen. Die jährlichen Emissionen je Quadratmeter sind aus Liefermenge und der zutreffenden Fläche zu bestimmen. Die Gebäudeakte enthält nach Auskunft der Verwaltung keine baurechtliche oder denkmalschutzrechtliche Beschränkung einer energetischen Verbesserung; eine eigenständige Prüfung dieser Auskunft haben wir nicht vorgenommen.
+Unsere Auskunft ist eine Lieferinformation. Sie enthält weder eine mietrechtliche Abrechnung noch eine Zusicherung, dass eine bestimmte Ausnahme oder Verteilung im Verhältnis zwischen Vermieter und Mietern vorliegt.
+
+FILE 15_Verwalterentgelt.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Verwaltervergütung für 2025
+31.12.2025 · HH-SP-25
+Die vereinbarte monatliche Grundvergütung beträgt 40 EUR brutto je Einheit. Acht Einheiten und zwölf Monate ergeben 3.840 EUR brutto. Darin enthalten sind 3.226,89 EUR netto und 613,11 EUR Umsatzsteuer. Die Vergütung erfasst ausschließlich Gemeinschaftsverwaltung, Buchhaltung, Versammlung und die hierfür vereinbarten Grundleistungen.
+Die zwölf Lastschriften wurden vom Konto der Gemeinschaft eingelöst. Der auf Wohnung 4 entfallende Eigentümeranteil beträgt bei acht gleich großen Einheiten 480 EUR. Ein Anspruch gegen die Mieter dieser Wohnung wird durch diese Rechnung nicht begründet. Eine gesonderte Mietverwaltung wurde für 2025 nicht beauftragt.
+
+FILE 16_Dachrechnung.docx
+Dachkultur Emil und Söhne GmbHrechnung@dachkultur.example
+Gemeinschaft der Wohnungseigentümer Spreebogen 7Spreebogen 7, Berlin
+Abdichtung am Dachanschluss Spreebogen
+17.06.2025 · DK-25-611
+Für die am 10. und 11.06.2025 ausgeführte Reparatur des undichten Anschlusses zur Hoffassade berechnen wir 5.042,02 EUR netto zuzüglich 957,98 EUR Umsatzsteuer, insgesamt 6.000 EUR. Der schadhafte Anschluss wurde geöffnet, die beschädigte Abdichtung ersetzt und die Anschlussbleche neu befestigt. Die Rechnung enthält keine jährliche Wartung.
+Der Auftrag beruhte auf der schriftlichen Beauftragung vom 28.05.2025. Der Verwalter hat die Leistung am 12.06.2025 anhand des Fertigstellungsberichts entgegengenommen. Am 30.06.2025 gingen 6.000 EUR vom Betriebskonto der Gemeinschaft ein. Der Zahlungseingang wurde vollständig zugeordnet.
+Die Feststellung, ob die Kosten gegenüber einem Mieter abzurechnen sind, war nicht Gegenstand unseres Auftrags. Herr Knöpfle hat die Rechnung am 20.09.2026 nochmals angefordert; es handelt sich dabei um eine Kopie derselben Rechnung.
+
+FILE 17_Ruecklagennachweis.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Ottfried Knöpfle
+Rücklagenbeiträge und Bestände 2025
+14.09.2026
+Die Eigentümer haben für 2025 Beiträge zur Erhaltungsrücklage von insgesamt 8.000 EUR beschlossen und vollständig geleistet. Auf Wohnung 4 entfallen 1.000 EUR. Der Betrag ist als Beitrag auf dem Rücklagenkonto ausgewiesen und wurde nicht für eine Leistung verbraucht.
+Der Anfangsbestand von 24.000 EUR und die Jahresbeiträge ergeben einen Schlussbestand von 32.000 EUR. Im betrachteten Zeitraum sind weder Entnahmen noch Zinsen gebucht. Die Dachreparatur wurde aus dem Betriebskonto beglichen. Ein bloßer Eigentümerexport mit der Überschrift „Kosten und Beiträge“ fasst unterschiedliche Zahlungen zusammen und ersetzt deren Belege nicht.
+Die Kontounterlagen stehen zur Einsicht bei der Verwaltung bereit. Diese Aufstellung dient der Zuordnung im Verhältnis zwischen Gemeinschaft und Eigentümer.
+
+FILE 18_Mieterabrechnung_Vorfassung.docx
+Ottfried Knöpfle
+Leela Nair und Juri BiberSpreebogen 7, Wohnung 4
+Betriebskostenabrechnung 2025
+16.09.2026
+Sehr geehrte Frau Nair, sehr geehrter Herr Biber,
+die Verwaltung hat für unsere Wohnung im Kalenderjahr 2025 insgesamt 6.166 EUR mitgeteilt. Die dazugehörige Aufstellung füge ich bei. Ihre Vorauszahlungen von monatlich 280 EUR ergeben 3.360 EUR. Damit verbleibt eine Nachzahlung von 2.806 EUR. Bitte überweisen Sie diesen Betrag bis zum 30.09.2026 auf das bekannte Mietkonto.
+Die Wohnung hat 80 m² von insgesamt 640 m². Ich habe den für meine Wohnung genannten Betrag unverändert übernommen, weil ich als Eigentümer alles bezahlen musste. Die Heizkosten sind in der Summe enthalten. Eine weitere CO₂-Berechnung habe ich nicht gemacht, da dies nach meiner Auffassung bereits der Messdienst erledigt haben müsste.
+Bitte richten Sie Fragen zu Rechnungen direkt an die Hausverwaltung. Ich selbst habe nur die Jahresübersicht. Wenn die Verwaltung später andere Werte liefert, werde ich das prüfen.
+Mit freundlichen GrüßenOttfried Knöpfle
+
+FILE 19_Versand_an_Mieter.eml
+From: Ottfried Knöpfle <ottfried@knoepfle.example>
+To: Leela Nair <leela@nair.example>
+Subject: Abrechnung 2025 zur Kenntnis
+Date: Wed, 16 Sep 2026 19:14:00 +0200
+Message-ID: <19_Versand_an_Mieter.weg-spreebogen-mieterumlage-belege@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-spreebogen-mieterumlage-belege-19_Versand_an_Mieter"
+Guten Abend Frau Nair,
+
+anbei mein Abrechnungsbrief und die Unterlage der Verwaltung. Ich sende beides morgen auch per Post, damit Sie es in Papier haben. Sie müssen nichts doppelt bezahlen. Das Datum 30. September habe ich gewählt, weil ich die Dachrechnung ja schon vorgestreckt habe.
+
+Viele Grüße
+Ottfried Knöpfle
+
+
+FILE 20_Postzugang_Notiz.docx
+Leela Nair und Juri Biber
+Private Unterlagen zur Wohnung 4
+Eingang des Abrechnungsbriefs
+19.09.2026
+Der Briefumschlag mit dem Abrechnungsbrief vom 16.09.2026 lag am Samstag, 19.09.2026, nachmittags im Briefkasten. Der Umschlag trug einen Poststempel vom 17.09.2026. Darin lagen zwei Unterlagen: der Brief über die Nachzahlung und die WEG-Jahresabrechnung. Einzelrechnungen waren nicht enthalten.
+Leela hatte die E-Mail bereits am 16.09.2026 auf dem Mobiltelefon gesehen und am nächsten Morgen mit den Anhängen gespeichert. Juri hat erst den Papierbrief gelesen. Ein Einschreibebeleg oder eine persönliche Übergabe liegen nicht vor. Die Notiz wurde am Tag des Briefeingangs gemeinsam erstellt.
+
+FILE 21_Einwendungen_Mieter.eml
+From: Leela Nair und Juri Biber <leela@nair.example>
+To: Ottfried Knöpfle <ottfried@knoepfle.example>
+Subject: Abrechnung 2025: Belege und Rücklagen
+Date: Mon, 21 Sep 2026 10:23:00 +0200
+Message-ID: <21_Einwendungen_Mieter.weg-spreebogen-mieterumlage-belege@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrter Herr Knöpfle,
+
+wir können Ihre Nachforderung so nicht nachvollziehen. In der beigefügten Übersicht stehen Verwaltung, Dachreparatur, Bankkosten und Rücklage. Wir möchten wissen, warum diese Positionen bei uns landen. Die Heizkostenabrechnung erwähnt außerdem, dass die CO₂-Verteilung noch nicht berücksichtigt ist.
+
+Bitte schicken Sie eine nach Kostenarten und unserem Anteil nachvollziehbare Abrechnung und ermöglichen Sie Einsicht in die Rechnungen sowie die zugehörigen Zahlungsbelege. Mit Ihrer bisherigen Zahlungsfrist sind wir nicht einverstanden. Wir verweigern keine Prüfung einer nachvollziehbaren Forderung, möchten aber nicht erst 2.806 EUR zahlen und dann hinterherlaufen.
+
+Freundliche Grüße
+Leela Nair und Juri Biber
+
+
+FILE 22_Hausverwaltung_an_Eigentuemer.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Ottfried Knöpfle <ottfried@knoepfle.example>
+Subject: Spreebogen WE4: Ihre weitergeleitete Mietabrechnung
+Date: Tue, 22 Sep 2026 08:48:00 +0200
+Message-ID: <22_Hausverwaltung_an_Eigentuemer.weg-spreebogen-mieterumlage-belege@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrter Herr Knöpfle,
+
+unser Export ist die Eigentümerübersicht. Die Kennzeichnung als fertige Mieterabrechnung stammt nicht von uns. Wir können Ihnen die Originalbelege und Heizdaten bereitstellen. Ob und wie Sie diese gegenüber Ihren Mietern abrechnen, muss anhand Ihres Mietvertrags geprüft werden.
+
+Für einen Einsichtstermin benötigen wir Ihre Beauftragung, weil wir die Mieter nicht ohne Abstimmung in sämtliche Eigentümerunterlagen einsehen lassen. Die für deren Abrechnung benötigten Rechnungen und Zahlungszuordnungen können wir geordnet bereitstellen. Bitte schicken Sie uns den Vertrag und teilen Sie mit, ob wir auch die Erstellung einer korrigierten Abrechnung koordinieren sollen.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+
+FILE 23_Terminangebot_Belege.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Leela Nair <leela@nair.example>
+Subject: Belegeinsicht Spreebogen: zwei Termine
+Date: Wed, 23 Sep 2026 14:21:00 +0200
+Message-ID: <23_Terminangebot_Belege.weg-spreebogen-mieterumlage-belege@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Nair,
+
+Herr Knöpfle hat uns heute mit der Bereitstellung der Abrechnungsbelege beauftragt. Wir bieten Ihnen Montag, den 28. September, um 16 Uhr oder Mittwoch, den 30. September, um 10 Uhr in unserem Verwaltungsbüro an. Die Rechnungen und die zugehörigen Zahlungseinträge liegen bereit. Sie können die einschlägigen Unterlagen ansehen und mit einem eigenen Gerät Aufnahmen für Ihre Prüfung anfertigen.
+
+Die Kontobewegungen anderer Eigentümer werden wir nicht offen auslegen. Falls Sie weitere konkret bezeichnete Unterlagen benötigen, teilen Sie uns dies bitte vorher mit. Die Entscheidung über die geltend gemachte Mietnachforderung treffen wir mit diesem Terminangebot nicht.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+
+FILE 24_Mieter_Terminbestaetigung.eml
+From: Leela Nair <leela@nair.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Re: Belegeinsicht am 28. September
+Date: Thu, 24 Sep 2026 07:52:00 +0200
+Message-ID: <24_Mieter_Terminbestaetigung.weg-spreebogen-mieterumlage-belege@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Guten Morgen Frau Selim,
+
+wir kommen am Montag um 16 Uhr. Bitte legen Sie auch die Tätigkeitszettel des Hausmeisters und den Nachweis über die Dachzahlung bereit. Uns geht es nicht darum, die privaten Zahlungsprobleme anderer Eigentümer zu sehen. Wir wollen verstehen, wofür die auf unserer Abrechnung genannten Beträge stehen.
+
+Ich bringe den Brief mit, der am Samstag eingegangen ist. Das im Mai aufgenommene Heizgerätefoto finde ich ebenfalls, weiß aber nicht, ob es für 2025 etwas sagt.
+
+Viele Grüße
+Leela Nair
+
+
+FILE 25_Chat_Knoepfle_Tochter.txt
+Chat Ottfried und Finja
+24.09.2026
+
+24.09.2026 18:11 Ottfried: Wenn ich das zahlen muss, müssen die Mieter es doch auch zahlen.
+24.09.2026 18:14 Finja: Die Rücklage bleibt doch dein Geld im Gemeinschaftstopf. Schau lieber in den Vertrag.
+24.09.2026 18:16 Ottfried: Die Verwaltung soll nicht so tun, als wäre das mein Problem. Da stand 6166.
+24.09.2026 18:19 Finja: Du hast die Überschrift Betriebskosten selbst darüber geschrieben.
+24.09.2026 18:26 Ottfried: Gut. Ich will keinen Streit um jeden Cent, aber auch nichts verschenken. Frau Selim soll eine ordentliche neue Fassung machen lassen.
+
+
+FILE 26_Flaechenverzeichnis.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Abrechnungsablage
+Flächen und Einheiten Spreebogen 7
+02.01.2025
+Das Gebäude umfasst acht Wohnungen mit jeweils 80 m² Wohnfläche. Die Gesamtwohnfläche beträgt 640 m². Jede Wohnung ist mit 125 von 1.000 Miteigentumsanteilen verbunden. Gemeinschaftliche Keller- und Treppenhausflächen sind in diesen Wohnflächen nicht enthalten. Eine gewerbliche Einheit besteht nicht.
+Wohnung 4 wird im gesamten Jahr 2025 von Leela Nair und Juri Biber bewohnt. Ottfried Knöpfle ist im betrachteten Jahr durchgehend Eigentümer und Vermieter. Ein Nutzer- oder Eigentümerwechsel ist für diese Wohnung nicht vermerkt. Die Flächen stammen aus der bei der Verwaltung hinterlegten Teilungserklärung und wurden seit deren Erstellung nicht verändert.
+Eine Einschränkung energetischer Maßnahmen durch Denkmalschutz ist in der Objektakte nicht abgelegt. Die Verwaltung kann eine fehlende Unterlage nicht durch eine abschließende öffentlich-rechtliche Auskunft ersetzen.
+
+FILE 27_Reparaturauftrag_Dach.docx
+Havel und Hof Hausverwaltung GmbHSachbearbeiterin Noura Selim, Berlinverwaltung@havelhof.example
+Dachkultur Emil und Söhne GmbH
+Auftrag zur Abdichtung des Dachanschlusses
+28.05.2025
+Sehr geehrte Damen und Herren,
+namens der Gemeinschaft der Wohnungseigentümer Spreebogen 7 beauftragen wir die im Angebot DK-A-250519 beschriebenen Arbeiten für 6.000 EUR brutto. Gegenstand ist die Beseitigung der festgestellten Undichtigkeit am hofseitigen Dachanschluss. Ein turnusmäßiger Wartungsvertrag wird damit nicht abgeschlossen.
+Die Eigentümer haben den Auftrag am 27.05.2025 mit acht Ja-Stimmen beschlossen. Die Zahlung soll vom laufenden Gemeinschaftskonto erfolgen. Eine Rücklagenentnahme ist nicht beschlossen. Bitte stimmen Sie den Zugang zum Dach über das Treppenhaus mindestens zwei Werktage vorher mit uns ab und hinterlassen Sie die Verkehrsflächen nach Abschluss sauber.
+Zusatzleistungen bedürfen einer gesonderten Beauftragung. Einen nachträglich entdeckten weiteren Schaden teilen Sie uns zunächst mit; dieser Auftrag enthält keine unbeschränkte Mehrkostenfreigabe.
+Mit freundlichen GrüßenNoura Selim
+
+FILE 28_Eigentuemer_Beauftragung.eml
+From: Ottfried Knöpfle <ottfried@knoepfle.example>
+To: Noura Selim <verwaltung@havelhof.example>
+Subject: Bitte Mietabrechnung prüfen lassen
+Date: Thu, 24 Sep 2026 19:02:00 +0200
+Message-ID: <28_Eigentuemer_Beauftragung.weg-spreebogen-mieterumlage-belege@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-spreebogen-mieterumlage-belege-28_Eigentuemer_Beauftragung"
+Sehr geehrte Frau Selim,
+
+ich beauftrage Sie, die Belege für den Termin bereitzustellen und Frau Morgen um einen korrigierten Abrechnungsentwurf sowie eine Antwort an meine Mieter zu bitten. Den Mietvertrag füge ich bei. Bitte versenden Sie noch keine neue Forderung. Ich möchte den Betrag und die Begründung vorher verstehen.
+
+Die Mietzahlungen sind vollständig eingegangen. Auf dem Mietkonto steht seit Januar 2025 jeden Monat 1.330 EUR. Davon sind 280 EUR die Vorauszahlungen. Eine Sondervereinbarung, nach der die Mieter mein Hausgeld tragen, gibt es neben dem Vertrag nicht.
+
+Mit freundlichen Grüßen
+Ottfried Knöpfle
+
+
+FILE 29_Mietvorauszahlungen.xlsx
+SHEET Mietkonto
+A1=Datum | B1=Buchung | C1=Vorauszahlung EUR | D1=Quelle
+A2=2025-01-05 00:00:00 | B2=Vorauszahlung 01/2025 | C2=280 | D2=Mietkonto N-04
+A3=2025-02-05 00:00:00 | B3=Vorauszahlung 02/2025 | C3=280 | D3=Mietkonto N-04
+A4=2025-03-05 00:00:00 | B4=Vorauszahlung 03/2025 | C4=280 | D4=Mietkonto N-04
+A5=2025-04-05 00:00:00 | B5=Vorauszahlung 04/2025 | C5=280 | D5=Mietkonto N-04
+A6=2025-05-05 00:00:00 | B6=Vorauszahlung 05/2025 | C6=280 | D6=Mietkonto N-04
+A7=2025-06-05 00:00:00 | B7=Vorauszahlung 06/2025 | C7=280 | D7=Mietkonto N-04
+A8=2025-07-05 00:00:00 | B8=Vorauszahlung 07/2025 | C8=280 | D8=Mietkonto N-04
+A9=2025-08-05 00:00:00 | B9=Vorauszahlung 08/2025 | C9=280 | D9=Mietkonto N-04
+A10=2025-09-05 00:00:00 | B10=Vorauszahlung 09/2025 | C10=280 | D10=Mietkonto N-04
+A11=2025-10-05 00:00:00 | B11=Vorauszahlung 10/2025 | C11=280 | D11=Mietkonto N-04
+A12=2025-11-05 00:00:00 | B12=Vorauszahlung 11/2025 | C12=280 | D12=Mietkonto N-04
+A13=2025-12-05 00:00:00 | B13=Vorauszahlung 12/2025 | C13=280 | D13=Mietkonto N-04
+A14=2025-12-31 00:00:00 | B14=Summe | C14==SUM(C2:C13) [cached=3360]
+
+FILE 30_Antwortbrief_Vorfassung.docx
+Ottfried Knöpfle
+Leela Nair und Juri Biber
+Antwort auf Ihre Fragen zur Abrechnung
+24.09.2026
+Sehr geehrte Frau Nair, sehr geehrter Herr Biber,
+ich habe Ihre Einwendungen an die Verwaltung weitergegeben. Nach meiner bisherigen Ansicht müssen alle tatsächlich von mir gezahlten Positionen weiterberechnet werden. Ich habe für Sie keine zusätzlichen Leistungen bestellt. Deshalb halte ich die bisherige Nachforderung zunächst aufrecht. Die Belege können Sie am vereinbarten Termin bei der Verwaltung ansehen.
+Die CO₂-Kosten müssten nach meinem Verständnis schon in den Heizkosten erledigt sein. Ob in der beigefügten technischen Abrechnung etwas anderes steht, lasse ich noch klären. Eine neue Zahlungsfrist habe ich noch nicht festgelegt.
+Mit freundlichen GrüßenOttfried Knöpfle
+Der Brief liegt als nicht versandter Entwurf im E-Mail-Anhang an die Verwaltung. Herr Knöpfle hat um Prüfung gebeten, bevor er ihn abschickt.
+
+FILE 31_Belege_an_Vermieter.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Ottfried Knöpfle <ottfried@knoepfle.example>
+Subject: Spreebogen: Gasbeleg und Messdienstunterlagen
+Date: Fri, 25 Sep 2026 09:15:00 +0200
+Message-ID: <31_Belege_an_Vermieter.weg-spreebogen-mieterumlage-belege@akten.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="berlin-weg-spreebogen-mieterumlage-belege-31_Belege_an_Vermieter"
+Sehr geehrter Herr Knöpfle,
+
+anbei die Gasrechnung, die technische Heizkostenverteilung und der CO₂-Liefernachweis. Die technischen Angaben nennen eine noch nicht umgesetzte Verteilung zwischen Ihnen und Ihren Mietern. Bitte verwenden Sie deshalb Ihren vorbereiteten Antwortbrief zunächst nicht.
+
+Die Jahresrechnung der Gemeinschaft und die Beiträge zur Rücklage bleiben in unserer Akte unverändert erhalten. Die daraus zu erstellende Mietabrechnung wird eine eigene Datei mit eigenem Datum erhalten. Die beiden Vorgänge sollen anschließend auch bei Rückfragen zugeordnet werden können.
+
+Mit freundlichen Grüßen
+Noura Selim
+
+
+FILE 32_Bearbeitungsauftrag_Nachtrag.eml
+From: Noura Selim <verwaltung@havelhof.example>
+To: Friederike Morgen <kanzlei@morgen.example>
+Subject: Spreebogen: Zahlenbrief und Antwort zusammenführen
+Date: Fri, 25 Sep 2026 13:46:00 +0200
+Message-ID: <32_Bearbeitungsauftrag_Nachtrag.weg-spreebogen-mieterumlage-belege@akten.example>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+Sehr geehrte Frau Morgen,
+
+bitte berücksichtigen Sie den unterschiedlichen Zugang per E-Mail und Post, die bereits vereinbarte Belegeinsicht und den unversandten Antwortentwurf. Wir benötigen für Herrn Knöpfle einen konkreten nächsten Schritt. Er soll erkennen können, welche Kostenposition welchen Beleg trägt, welche Daten noch zu prüfen sind und welche neue Nachricht an die Mieter sinnvoll ist.
+
+Die Mieter haben seit dem Schreiben keine Zahlung gekürzt. Eine Kündigung oder gerichtliche Geltendmachung ist nicht beauftragt. Bitte behandeln Sie die Nachforderung nicht vorschnell als unstreitig fällig.
+
+Mit freundlichen Grüßen
+Noura Selim

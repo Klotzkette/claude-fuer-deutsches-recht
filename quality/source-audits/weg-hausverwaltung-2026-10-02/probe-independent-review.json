@@ -1,0 +1,136 @@
+{
+  "pruefdatum": "2026-10-02",
+  "pruefer": "Separater Bewertungsagent weg_probe_bewertung",
+  "gegenstand": "Drei vorhandene tatsächliche Textausgaben, vollständig gelesen und gegen die gespeicherten Promptkopien, Anfragen und 100 nummerierten Rohaktenstücke geprüft.",
+  "methodik": {
+    "erzeugung": "Laut run-notes.txt ein Agent, drei Anwendungen in fester Reihenfolge im selben fortbestehenden Kontext. Keine drei unabhängigen Modelle, kein API-Benchmark und keine verblindete Wiederholung.",
+    "bewertung": "Nachgelagerte unabhängige Bewertung durch einen anderen Agenten. Die Laufnotiz mit ihrer Selbsteinschätzung war sichtbar; die Bewertung ist daher nicht verblindet. Keine neue Modellausgabe erzeugt oder als Testlauf ausgegeben.",
+    "aktenabgleich": "Alle drei inputs-extracted.txt vollständig gelesen. Eine gesonderte erneute Extraktion der Originaldateien aus dem Repository stimmt bytegenau mit allen drei gespeicherten Extraktionen überein. Alle 100 Rohdatei-SHA256, die drei Promptkopien und die Anfragen stimmen mit ihren Manifesten überein.",
+    "rechenpruefung": "Zentrale Summen, Verteilungen und Datumsdifferenzen unabhängig mit Python Decimal beziehungsweise datetime nachgerechnet. XLSX-Dateien nur gelesen, keine Tabellen oder Formelergebnisse verändert.",
+    "nachweis": "probe-review-source-checks.json",
+    "umfangsgrenze": "Fallbezogene Bewertung dieser drei Ausgaben. Kein vollständiges Audit der 93 Skills, keine Plugin-Fehlerfreiheitszusage, keine Echtheitsprüfung der synthetischen Belege und kein zweiter Ausführungslauf. Nicht jede Fundstelle des langen Werkstattprompts wurde recherchiert. Test-Rubrics und Musterlösungen wurden nicht zur Bewertung gelesen. Keine Repositoryänderungen."
+  },
+  "ergebnis": "Die zentralen Rechnungen, Rollenabgrenzungen und nächsten Schritte sind in allen drei geprüften Ausgaben mit den Akten vereinbar. Kein kritischer fachlicher oder sicherheitsrelevanter Fehler in diesem begrenzten Prüfbereich festgestellt. Die Ergebnisse sind vorbereitete Texte mit ausdrücklich offenen tatsächlichen und rechtlichen Freigabepunkten.",
+  "kritische_fehler": [],
+  "gemeinsame_kriterien": [
+    {
+      "kriterium": "Ausformulierte Empfängertexte und konkrete Rechnungen statt bloßer Gliederungen",
+      "status": "erfuellt",
+      "beleg": "Spreebogen Abschnitte 2, 5 und 6; Lindenhof Abschnitte 2 bis 4, 6 und 7; Sonnenwinkel Abschnitte 3 und 5 bis 9."
+    },
+    {
+      "kriterium": "Tatsächliche Durchführung von Vorbereitung unterscheiden",
+      "status": "erfuellt",
+      "beleg": "Alle Ausgaben kennzeichnen Entwürfe und erklären, dass weder Versand noch Auftrag/Zahlung ausgeführt wurde; kein nicht existierender DOCX-/XLSX-Export wird behauptet."
+    },
+    {
+      "kriterium": "Getrennter Exporthinweis für reine Textausgaben nach Repository-Leitfaden",
+      "status": "nicht_erfuellt",
+      "schwere": "gering_formal",
+      "beleg": "CLAUDE.md verlangt bei Markdown-/Chat-Ausgabe den getrennten Hinweis Times New Roman, 11 pt, dezimale Gliederung. Er fehlt in allen drei actual-output.txt. Die Dezimalgliederung selbst ist vorhanden. Kein Zahlen- oder Rechtsfehler."
+    },
+    {
+      "kriterium": "Eigenständige versandfertige Dateien und empirisch geprüfter Serienversand",
+      "status": "nicht_geprueft",
+      "beleg": "Die belegten Arbeitsprodukte sind Textdateien. Layout, separate Empfängeranlagen, native Office-Ausgabe und tatsächlicher Versand waren keine durchgeführten Prüfungen. Dies mindert nicht die bestätigte inhaltliche Textprüfung."
+    }
+  ],
+  "faelle": [
+    {
+      "reihenfolge": 1,
+      "fall": "weg-spreebogen-mieterumlage-belege",
+      "output_sha256": "a571b6131c0c75b941eaad147b5bf07691989196ccc495e5ccef2f4d47438d20",
+      "prompt_sha256": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+      "rohdokumente": 32,
+      "erfuellt": [
+        "Eigentümer/Vermieter Knöpfle und beide Mieter richtig aus der Akte übernommen; abweichende Bezeichnung Eigentümerin aus der Anfrage korrigiert. Gesonderter Entwurfsauftrag vom 24.09. und fehlende Versandfreigabe berücksichtigt (01, 02, 28).",
+        "6.166 EUR minus 2.290 EUR Eigentümerkosten minus 90 EUR Vermieter-CO₂-Anteil = 3.786 EUR. Nach 3.360 EUR Vorauszahlungen verbleiben 426 EUR; gegenüber 2.806 EUR Korrektur um 2.380 EUR. Keine doppelte Gas-Schlusszahlung oder Dachrechnung (03–17, 27, 29).",
+        "Wohnflächenquote 80/640, Heizung 648 + 1.512 = 2.160 EUR, 34 kg CO₂/m² und 50/50-Stufe korrekt. 2025 wird nicht rückwirkend nach einer späteren Sonderregel abgerechnet (02, 11–14, 26).",
+        "Hauswartaufwand anhand beschriebener Leistungen eingeordnet, keine erfundene Quote oder Doppelreinigung. Tatsächlich fehlende Wochenzettel und Zahlungseinträge werden nachgefordert; vorhandene Rechnungen nicht pauschal gestrichen (05–10, 23–24).",
+        "Abrechnungsfrist 31.12.2026 und unterschiedliche Zugangsstände behandelt; Einwendungen vom 21.09. rechtzeitig. Vergangene Einsichtstermine 28./30.09. nicht als zukünftige Angebote ausgegeben (19–24, 32).",
+        "Kurzer Eigentümerbrief und individueller Mieterbrief nennen nachvollziehbare Beträge, nehmen die alte Forderung/Frist zurück und verlangen noch keine streitige neue Zahlung."
+      ],
+      "offene_kriterien": [
+        {
+          "kriterium": "Endgültig durchsetzbare Nachforderung einschließlich CO₂-Kürzung",
+          "status": "bewusst_offen",
+          "bewertung": "§ 7 Abs. 4 CO2KostAufG und rechnerisch 64,80 EUR auf den ursprünglichen Heizbetrag werden erkannt, Ausübung und Wirkung der Korrektur aber nicht abschließend entschieden. 426 EUR werden zutreffend nicht als unstreitig fällig ausgegeben. Kein behaupteter Abschluss dieser Teilfrage."
+        },
+        {
+          "kriterium": "Abgeschlossene Belegeinsicht, Zugang der vollständigen Korrektur und Versandfreigabe",
+          "status": "aktenbedingt_offen",
+          "bewertung": "Konkrete Nachfragen sind vorbereitet; tatsächliche Durchführung oder Genehmigung ist nicht belegt."
+        }
+      ]
+    },
+    {
+      "reihenfolge": 2,
+      "fall": "weg-lindenhof-jahresabrechnung-2025",
+      "output_sha256": "a7b059e31d7a7fb33f5e146a802bd68394a4cb3cbd1d955c01599bcaf8781c68",
+      "prompt_sha256": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+      "rohdokumente": 36,
+      "erfuellt": [
+        "Betriebskonto 3.000 + 31.680 − 24.360 − 7.920 = 2.400 EUR, Rücklage 40.000 + 7.920 + 80 = 48.000 EUR, Gesamtbank 50.400 EUR. Interner Transfer nicht als zusätzlicher externer Verbrauch erfasst (05, 06, 17, 28).",
+        "8.000 EUR Sollzuführung, 7.920 EUR Beiträge, 80 EUR Zinsen und 80 EUR Beitragsrückstand am Stichtag getrennt. Kein vermeintlicher Verlust von 80 EUR und keine Rücklagenentnahme für das Dach (04–06, 14, 31).",
+        "Alle acht MEA-Anteile und Spitzen richtig: 36; 39,60; 43,20; 43,20; 46,80; 46,80; 50,40; 54 EUR, zusammen 360 statt 600 EUR. WE04 mit Sollvorschuss 2.880 EUR statt Ist 2.640 EUR gerechnet (02–05, 18–25, 33).",
+        "320 EUR Zahlung von 2026 auf die alte Dezemberforderung 240 + 80 EUR angerechnet, ohne Rückdatierung oder nochmaligen Abzug von der Spitze. Aktuell 0 EUR alter Rückstand, 43,20 EUR erst vorgeschlagener Nachschuss (27, 34, 35).",
+        "Konkreter Beschlusstext und eindeutig datierte Anlage; keine fingierte Vorbeschlusskorrektur. Unversandte Einladung und unzureichende Dreiwochenfrist bis 22.10. erkannt; 19.11. nur bedingt als vierwöchige Fälligkeit genannt (32–33).",
+        "Hauswartaufteilung 3.600/900/300 EUR übernommen, 900 EUR Mischanteil nicht ungeprüft zur Mietumlage freigegeben. Popescu- und Beiratsantwort verständlich, Fassungserhalt und Einsichtsrecht beachtet (13, 28–31, 36)."
+      ],
+      "offene_kriterien": [
+        {
+          "kriterium": "Vollständiger Vermögensbericht und eigene vollständige Bankbelegprüfung",
+          "status": "aktenbedingt_offen",
+          "bewertung": "50.720 EUR aus Bank und Stichtagsforderungen sind nur belegte Teilpositionen. Sonstiges wesentliches Vermögen/Verbindlichkeiten und Originalbetriebsauszüge fehlen. Die Ausgabe behauptet insoweit keine Vollständigkeit."
+        },
+        {
+          "kriterium": "Endgültige Versammlungs- und Versandfreigabe",
+          "status": "bewusst_offen",
+          "bewertung": "Zwischenzeitlicher Einladungszugang, sonst späterer Termin und Freigabe müssen geklärt werden. Kein erfundener gebuchter Ersatztermin und keine bestehende Nachschussforderung."
+        }
+      ]
+    },
+    {
+      "reihenfolge": 3,
+      "fall": "weg-sonnenwinkel-bettwanzen",
+      "output_sha256": "b4b54d32e1edd4463c3c58edf05f638320c29071cfb3605d67f0bc0b796669c6",
+      "prompt_sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+      "rohdokumente": 32,
+      "erfuellt": [
+        "Generalschlüsselannahme anhand 02 verneint; kein eigenmächtiger Zutritt. Bestätigte kostenfreie Verschiebung 11 auf 13 Uhr nicht als Zugangsverweigerung behandelt; keine Ausfallforderung erfunden (13–16, 22–23).",
+        "Keine Ursachen-/Verschuldenszuweisung an Diop, Klee oder Tran aus Meldereihenfolge, Reise, Möbeln oder Wiederbefund; kein automatischer Mangelvorwurf gegen den Fachbetrieb (03–05, 08–09, 18).",
+        "1.428 EUR bezahlte Gemeinschaftsleistung, 714 EUR offene Rechnung am Aktenstand, 892,50 EUR neue Angebote und 383,90 EUR Privatleistungen richtig getrennt. 3.061,40 EUR alte XLSX-Summe wird nicht als Gemeinschaftsschuld übernommen; 357 EUR Oktoberangebot ergänzt (06, 17, 19–20, 24, 27–28, 31).",
+        "Begrenzter nächster Kontrollschritt für 357 EUR vorbereitet. § 9b-Außenvertretung und § 27-interne Befugnis getrennt; alternativ einstimmiger Umlaufbeschluss. Keine unbeschränkte Folgebehandlung oder Bauteilöffnung freigegeben (12, 18, 28).",
+        "05.10. nur angebotener Kontrolltermin mit fehlender verbindlicher WE04-Zusage; 714 EUR heute fällig mit aktuellem Zahlungsabgleich; Fugenangebot am 30.09. abgelaufen, 06.10. nicht als bereits beauftragt dargestellt (19–20, 23, 28).",
+        "Einmalige Befallsbeseitigung, WEG-Kostenzuordnung und Schadensersatz getrennt; keine pauschale Betriebskostenweitergabe oder Minderungsquote. Private 297,50/86,40 EUR und möglicher Aufwendungsersatz nach § 555a Abs. 3 BGB gesondert (21–25, 29–32).",
+        "Schreck-Antwort, getrennte Zugangsbriefe, Rumpel-Antwort und allgemeiner Bewohnerhinweis ausformuliert. Allgemeiner Brief nennt weder betroffene Personen noch Gesundheitsdaten; keine Diagnose oder Eigenbehandlungsanleitung."
+      ],
+      "offene_kriterien": [
+        {
+          "kriterium": "Sofort verbindlich versendbarer Handwerkerauftrag",
+          "status": "aktenbedingt_offen",
+          "bewertung": "Befugnis, Zugang WE04, konkrete Reihenfolge/Dauer und fachliche Abstimmung zur Fuge fehlen. Die Ausgabe benennt dies und liefert einen begrenzten Auftragstext sowie unverbindliche Klärungsschritte; Abhilfe wird nicht wegen der Schuldfrage blockiert."
+        },
+        {
+          "kriterium": "Endgültige Erstattungs- und Kostenverteilungsentscheidung",
+          "status": "bewusst_offen",
+          "bewertung": "Erforderlichkeit privater Reinigung, Rechtsgrund einer Erstattung Rumpels und weitergehende Tatsachen sind nicht abschließend belegt. Die Ausgabe erfindet weder Anspruch noch Abtretung oder Anerkenntnis."
+        }
+      ]
+    }
+  ],
+  "amtliche_stichproben": [
+    {"quelle": "https://www.gesetze-im-internet.de/bgb/__556.html", "pruefung": "Abrechnungs-/Einwendungsfristen und elektronische Belege; erfolgreich geöffnet."},
+    {"quelle": "https://www.gesetze-im-internet.de/co2kostaufg/__7.html", "pruefung": "CO₂-Abrechnungspflichten und 3-%-Kürzungsrecht; erfolgreich geöffnet. Keine abschließende Bewertung der Heilungswirkung einer späteren Korrektur."},
+    {"quelle": "https://www.gesetze-im-internet.de/co2kostaufg/anlage.html", "pruefung": "34 kg/m² liegt in Stufe 32 bis unter 37, 50/50; erfolgreich geöffnet."},
+    {"quelle": "https://www.gesetze-im-internet.de/co2kostaufg/__11.html", "pruefung": "Anwendung der Aufteilung auf 2025 bestätigt; keine Vollprüfung sämtlicher Neuerungen 2026."},
+    {"quelle": "https://www.gesetze-im-internet.de/woeigg/__28.html", "pruefung": "Nachschüsse/Vorschüsse/Fälligkeit/Vermögensbericht unterschieden; erfolgreich geöffnet."},
+    {"quelle": "https://www.gesetze-im-internet.de/woeigg/BJNR001750951.html", "pruefung": "§§ 9b, 23 Abs. 3, 24 Abs. 4 und 27 geprüft. Einzelabruf § 24 fehlgeschlagen; Vollgesetz erfolgreich als Ersatz gelesen."},
+    {"quelle": "https://www.gesetze-im-internet.de/woeigg/__45.html", "pruefung": "Ein-/Zweimonatsfrist ab Beschlussfassung; erfolgreich geöffnet. Kalenderlage der genannten Folgefristen unabhängig kontrolliert."},
+    {"quelle": "https://www.gesetze-im-internet.de/bgb/__858.html", "pruefung": "Kein allgemeines Recht zum eigenmächtigen Wohnungszutritt; erfolgreich geöffnet."},
+    {"quelle": "https://www.gesetze-im-internet.de/bgb/__555a.html", "pruefung": "Ankündigung, Duldung und angemessener Aufwendungsersatz; erfolgreich geöffnet."},
+    {"quelle": "https://www.gesetze-im-internet.de/betrkv/BJNR234700003.html", "pruefung": "Laufende Betriebskosten, Verwaltungs-/Erhaltungsausschluss sowie Ungeziefer- und Hauswartpositionen. Einzelabruf § 1 fehlgeschlagen; Vollverordnung erfolgreich gelesen."},
+    {"quelle": "https://nrwe.justiz.nrw.de/olgs/duesseldorf/j2025/24_U_227_23_Beschluss_20250522.html", "pruefung": "Hinweisbeschluss OLG Düsseldorf vom 22.05.2025, 24 U 227/23; Rn. 35–38 tragen die begrenzte Aussage zum gewöhnlichen Reise-/Gebrauchtmöbelgebrauch. Keine pauschale Übertragung von Rücktritt oder Mietminderung."},
+    {"quelle": "https://www.umweltbundesamt.de/bettwanzen", "pruefung": "Datum 24.09.2026 sowie fehlender Schluss auf hygienische/soziale Bedingungen bestätigt; Fachinformation, kein Nachweis einer Ursache im Haus."}
+  ]
+}

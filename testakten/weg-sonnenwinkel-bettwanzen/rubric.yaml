@@ -1,0 +1,114 @@
+name: Sonnenwinkel und die ungeklärte Befallsquelle
+plugin: weg-hausverwaltung
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: weg-sonnenwinkel-bettwanzen
+  fachprofil: quality/evals/weg-hausverwaltung.json
+  hinweis: Fallbezogene Kriterien für eine spätere Bearbeitung. Der zentrale Dateifilter schließt diese
+    Bewertungsdatei aus Arbeitsmaterial und Exporten aus.
+erwartete_ergebnisformate:
+- datei: Kosten_und_Terminabgleich.xlsx
+  zweck: Auftraggeber, Rechnung, Zahlung, Erstattungsbitte und bloßes Angebot mit Zugangsterminen abstimmen.
+- datei: Eigentuemerbrief.docx
+  zweck: Die unversandte pauschale Vorfassung durch eine konkrete ausformulierte Mitteilung ersetzen.
+- datei: Bewohnerantwort.docx
+  zweck: Maßnahmen und nächste Schritte erläutern, ohne offene Verantwortlichkeit vorwegzunehmen.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien. Berechnungen müssen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. Empfängertexte sind vollständig auszuformulieren.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Die vollständige native Arbeitsakte ist vorhanden; Bewertungsdatei und Gesamt-PDF zählen
+    nicht mit.
+  min: 32
+- id: format-docx
+  check_type: file_count
+  description: Mindestens 17 native DOCX-Unterlagen sind vorhanden.
+  glob: '*.docx'
+  min: 17
+- id: format-eml
+  check_type: file_count
+  description: Mindestens 13 native EML-Unterlagen sind vorhanden.
+  glob: '*.eml'
+  min: 13
+- id: format-txt
+  check_type: file_count
+  description: Mindestens 1 native TXT-Unterlagen sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: format-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: readme
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/weg-sonnenwinkel-bettwanzen_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 05_Befund_Wohnung4.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 12_Beschluss_Abgestimmtes_Vorgehen.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 27_Kosten_und_Termine.xlsx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 31_Vermieterin_Klaert_Auftrag.eml
+- id: fach-befund
+  check_type: human_review
+  description: Wird zwischen fachlich bestätigtem Befall, unbekannter Eintragsquelle und Hauschatbehauptungen
+    unterschieden, ohne Reise, gebrauchte Möbel oder Hygiene allein als Verschuldensbeweis zu behandeln?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-auftraege
+  check_type: human_review
+  description: Werden private Erstbesichtigung, gemeinschaftliche Einsätze, privater Wäschereibeleg und
+    nicht beauftragte Abdichtung getrennt, statt die gesamte Kostentabelle als eine Gemeinschaftsforderung
+    auszugeben?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-umlage-regress
+  check_type: human_review
+  description: Werden laufende Betriebskosten, einmalige Befallsbeseitigung, Erhaltung und etwaiger Schadensersatz
+    gesondert geprüft; machen mehrere Kontrollen desselben Ausbruchs die Kosten nicht automatisch regelmäßig?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-zugang
+  check_type: human_review
+  description: Wird die bestätigte geänderte Uhrzeit berücksichtigt, ohne gewährten Zugang als Verweigerung
+    oder eine Ausfallgebühr als entstanden zu behaupten; bleiben spätere Termine und Aufträge vorläufig?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-zustand-miete
+  check_type: human_review
+  description: Wird der Kontrollbefund weder als sofortige Befallsfreiheit noch als feststehender erneuter
+    Eintrag interpretiert; werden Mietrechte und Erstattung konkret geprüft statt einer erfundenen festen
+    Minderungsquote?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-antworten
+  check_type: human_review
+  description: Werden pauschale Umlageformulierungen in der unversandten Vorfassung durch empfängerbezogene
+    ausformulierte Aussagen ersetzt und private Erstattungsbitten samt offener Anspruchslage getrennt
+    beantwortet?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-datenschutz
+  check_type: human_review
+  description: Bleibt die Bewohnerinformation auf erforderliche Maßnahmen beschränkt, ohne Diagnosen,
+    Verdächtigungen oder Namen betroffener Haushalte ungeprüft in den Hauschat zu übernehmen?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'

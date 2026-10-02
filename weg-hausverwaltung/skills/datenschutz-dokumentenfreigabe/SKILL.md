@@ -33,7 +33,7 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 
 | Anliegen | Empfehlung |
 | --- | --- |
-| Eigentümerliste an alle versenden | nur Name + Einheit + Anteil bei berechtigtem Interesse; Telefon/E-Mail nur mit Einwilligung |
+| Eigentümerliste an alle versenden | Eigentümerstellung und Zweck prüfen; für notwendige Verwaltung/Kontaktaufnahme erforderliche Namen/ladungsfähige Anschriften nicht pauschal sperren; Telefon/E-Mail und weitere Daten benötigen eigene Grundlage/Erforderlichkeit |
 | Belegeinsicht Jahresabrechnung | Vor Ort oder über sicheres Portal; sensible Belege (Krankheits-/Gesundheitsdaten) schwärzen |
 | Mieterbeschwerde an WEG-Verwalter | mit Eigentümer kommunizieren; Klartext-Daten der Mieter nur, soweit erforderlich |
 | Handwerker erhält Eigentümerliste | regelmäßig **nicht**; nur Kontakt der WEG-Verwaltung oder benannte Ansprechpartner |
@@ -74,3 +74,9 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 18 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__18.html ; § 28 Abs. 4 WEG: https://www.gesetze-im-internet.de/woeigg/__28.html ; DSGVO siehe Datenschutzrecht-Plugin.
+
+## Konkrete Belegfreigabe und Kameraprüfung
+
+Bei § 18 Abs. 4 WEG für jede Schwärzung benennen, welche sachfremden Daten betroffen sind und warum die Prüfung der Rechnung weiterhin möglich bleibt. Datenschutz nicht pauschal gegen Eigentümereinsicht ausspielen; Anspruch, Empfänger und sichere Ausführung gemeinsam prüfen. Der Vermögensbericht nach § 28 Abs. 4 ist jedem Eigentümer bereitzustellen. Für Mietereinsicht gilt zusätzlich der separate Weg über den Vermieter nach § 556 Abs. 4 BGB.
+
+Diebstahl rechtfertigt keine unbegrenzte Kamera- oder Audiodatensammlung. Vorfälle, mildere Mittel, Erfassungsbereich, maskierte Bereiche, Zugang, Löschung und notwendige Ereignissicherung konkret festlegen. Für die aktualisierten Kameraanker und gesetzlichen Grenzen [Miet-, Befalls- und Datenschutzreferenz](../../references/miete-befall-datenschutz-oktober-2026.md) lesen. Kein Eigentümerbeschluss ersetzt die heutige Datenschutzprüfung.

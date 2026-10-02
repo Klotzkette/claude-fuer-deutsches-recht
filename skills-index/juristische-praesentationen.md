@@ -1,6 +1,6 @@
 # juristische-praesentationen
 
-**12 Skills** · Stand `v445.27.0`
+**12 Skills** · Stand `v445.28.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../juristische-praesentationen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

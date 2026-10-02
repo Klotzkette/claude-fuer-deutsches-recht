@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-10-02",
+  "plugin": "weg-hausverwaltung",
+  "scope": "Mietüberleitung, Belegeinsicht, Heiz-/CO2-Kosten, Bettwanzen, Diebstahlbeweise und Datenschutz",
+  "verification_method": "Amtliche Normtexte und Entscheidungen gezielt im Volltext gelesen; tatsächliche gelesene Stellen und Grenzen stehen je Anker. Recherchezeitpunkt ist kein Vollständigkeitsversprechen für sämtliche Entscheidungen.",
+  "citation_rules": "references/zitierweise.md; Entscheidungen nach Gericht, Datum und Aktenzeichen, amtlicher Fundstelle und geprüften Randnummern.",
+  "anchors": [
+    {
+      "id": "MD01",
+      "title": "Mietüberleitung, unterschiedliche Fristen und Verteilungsschlüssel",
+      "kind": "Normen",
+      "sources": [
+        {
+          "label": "§ 556 BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__556.html"
+        },
+        {
+          "label": "§ 556a BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__556a.html"
+        },
+        {
+          "label": "§ 1 BetrKV",
+          "url": "https://www.gesetze-im-internet.de/betrkv/__1.html"
+        },
+        {
+          "label": "§ 2 BetrKV",
+          "url": "https://www.gesetze-im-internet.de/betrkv/__2.html"
+        }
+      ],
+      "read_scope": "§ 556 Abs. 1, 3–5; § 556a Abs. 1–4; § 1 BetrKV vollständig und § 2 BetrKV insbesondere Nr. 9, 14.",
+      "finding": "Betriebskosten müssen vereinbart und laufend sein. Verwaltung sowie Instandhaltung/Instandsetzung sind keine Betriebskosten. Bei vermietetem Wohnungseigentum gilt ohne andere Abrede grundsätzlich der Eigentümerschlüssel, sofern er billigem Ermessen entspricht (§ 556a Abs. 3). Vermieterabrechnung: zwölf Monate nach Periodenende; Mietereinwendungen: zwölf Monate nach Abrechnungszugang. Für den Nachforderungsausschluss und den Einwendungsausschluss jeweils die gesetzliche Ausnahme fehlenden Vertretenmüssens prüfen.",
+      "limits": "Die Übernahme des WEG-Schlüssels schafft keine Umlagefähigkeit einer Kostenart. Heizkostenrecht und CO2-Regeln gesondert. Ausschlussfristen, Verjährung und vorübergehende Leistungsverweigerung sind verschiedene Fragen.",
+      "workflow": "Belegzeile um Vertragsgrundlage, Kostenart, Zeitraum, Schlüssel, nicht umlagefähigen Anteil und Empfänger ergänzen. Zwei Zugangs-/Fristenregister führen; Verwaltung, Rücklage, Reparaturen und WEG-Nachschuss nicht pauschal als Mieterposition übernehmen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD02",
+      "title": "BGH, Urt. v. 25.01.2017 – Az. VIII ZR 249/15",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher Volltext",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2015/VIII_ZR_249-15.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "read_scope": "Rn. 17, 35–36, 45–47 im amtlichen PDF.",
+      "finding": "Der Beschluss über die WEG-Jahresabrechnung ist keine Voraussetzung der Betriebskostenabrechnung gegenüber dem Mieter. Ein Vermieter muss eigene zumutbare Bemühungen um rechtzeitige Unterlagen darlegen; bloßes Warten auf den Verwalter entlastet nicht. Verwaltung und Erhaltung sind bei der Mietüberleitung herauszurechnen.",
+      "limits": "Die Entscheidung arbeitet mit WEG-Normen vor dem WEMoG. Die damalige Schlüsselbeschreibung in Rn. 35 ist heute um § 556a Abs. 3 BGB zu ergänzen. Ein zusätzlicher Auftrag des Verwalters zur Mietabrechnung kann für § 278 BGB bedeutsam sein; keine pauschale Aussage, Verwalterverschulden sei stets unbeachtlich.",
+      "workflow": "Bei verspäteter WEG-Abrechnung eigene Beschaffungsbemühungen, Erinnerungen und erreichbare Daten prüfen. Einen WEG-Beschluss nicht als automatische Verlängerung der mietrechtlichen Frist verbuchen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD03",
+      "title": "BGH, Urt. v. 20.05.2026 – Az. VIII ZR 6/24",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher Volltext",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2024/VIII_ZR___6-24.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "read_scope": "Leitsätze; Rn. 21–22, 27–46, 56–60, 62–69 und 71–73 im amtlichen PDF, nicht nur Pressemitteilung.",
+      "finding": "Auch der Wirtschaftlichkeitseinwand unterliegt grundsätzlich § 556 Abs. 3 Satz 5 und 6 BGB. Fehlende Vergleichsangebote allein belegen keinen Verstoß; objektiv überhöhte Kosten und die mieterseitige Darlegungs-/Beweislast sind zu prüfen. Gemischte Hauswart-/Vollwartungsleistungen müssen nach tatsächlichem Aufwand abgegrenzt werden. Materielle Fehler einzelner Positionen machen die gesamte Abrechnung nicht ohne Weiteres unwirksam.",
+      "limits": "Kein Freibrief für teure Vergaben und keine Umkehr der Vermieterbeweislast für tatsächlichen Verbrauch. § 287 ZPO betrifft richterliche Schätzung mit Anknüpfungstatsachen, keine frei erfundene Verwaltungsquote. Rn. 62–69 betreffen konkrete Grundsteuerhindernisse; keine generelle Fristverlängerung um drei Monate. Zurückverweisung, kein endgültiger Zuspruch sämtlicher Nachforderungen.",
+      "workflow": "Preisrüge, tatsächliche Leistung, Verbrauchsrüge und gemischte Kosten getrennt bearbeiten. Zugang und konkreten Einwand erfassen, Vergleichsobjekte und Leistungsumfang bestimmen. Hauswartzeiten oder nachvollziehbare Leistungsanteile anfordern.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD04",
+      "title": "BGH, Urt. v. 07.02.2018 – Az. VIII ZR 189/17",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher Volltext",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2017/VIII_ZR_189-17.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "read_scope": "Leitsätze; Rn. 11–18 und 29 im amtlichen Volltext.",
+      "finding": "Der Vermieter trägt die Darlegungs- und Beweislast für richtige Erfassung, Zusammenstellung und Verteilung des abgerechneten Verbrauchs. Die Belegeinsicht kann erforderliche Einzelverbrauchsdaten anderer Nutzer umfassen; ein besonderes Interesse ist nicht nötig. Berechtigt verweigerte Einsicht kann ein vorübergehendes Leistungsverweigerungsrecht gegenüber der Nachforderung auslösen.",
+      "limits": "Nicht mit der Lastenverteilung bei einer Wirtschaftlichkeitsrüge verwechseln. Kein Recht auf private Gesundheitsakten anderer Bewohner, kein pauschales Recht zum Stopp sämtlicher Mietzahlungen. Die heutige Form der Bereitstellung zusätzlich nach § 556 Abs. 4 BGB bestimmen.",
+      "workflow": "Bei Verbrauchsrüge Messdaten und zugehörige Verteilungsunterlagen bereitstellen. Datenschutz so gestalten, dass rechtlich erforderliche Kontrolle möglich bleibt; keine vollständige Schwärzung aller Vergleichsverbrauchsdaten als Standard.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD05",
+      "title": "BGH, Urt. v. 09.12.2020 – Az. VIII ZR 118/19",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher Volltext",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2019/VIII_ZR_118-19.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "read_scope": "Rn. 11–19 im amtlichen PDF, Schwerpunkt Rn. 12–17.",
+      "finding": "Das Einsichtsrecht umfasst neben Rechnungen vorhandene Zahlungsbelege. Dies gilt unabhängig von Leistungs- oder Abflussprinzip und ohne besonderes Misstrauensinteresse. Bei berechtigt begehrter, nicht gewährter Einsicht besteht ein temporäres Leistungsverweigerungsrecht gegenüber der Abrechnungsnachforderung.",
+      "limits": "Fehlender Zahlungsbeleg bedeutet beim Leistungsprinzip nicht automatisch, dass die Leistung kostenrechtlich nie berücksichtigt werden darf; er kann Nachfragen und Einwendungen auslösen. Kein pauschaler Anspruch auf alle Zahlungsdaten außerhalb der Abrechnung.",
+      "workflow": "Rechnung, Zahlung, Gutschrift und Skonto miteinander verknüpfen. Einen Zahlungsnachweis nicht allein mit dem Hinweis auf die bereits vorgelegte Rechnung ablehnen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD06",
+      "title": "Originalbelege und seit 01.01.2025 zulässige elektronische Bereitstellung",
+      "kind": "Rechtsprechung und Normänderung",
+      "sources": [
+        {
+          "label": "BGH, Urt. v. 15.12.2021 – Az. VIII ZR 66/20",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2020/VIII_ZR__66-20.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "label": "§ 556 BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__556.html"
+        },
+        {
+          "label": "BGBl. 2024 I Nr. 323, Art. 14 Nr. 5 und Art. 74",
+          "url": "https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile&v=3"
+        }
+      ],
+      "read_scope": "BGH Rn. 10–20; BEG IV Art. 14 Nr. 5 auf S. 10 sowie Art. 74 Abs. 1–13 auf S. 34–35; Verkündung 29.10.2024; heutiger § 556 Abs. 4.",
+      "finding": "VIII ZR 66/20 stellte nach damaliger Rechtslage auf Originalbelege ab, einschließlich originär digitaler Belege. Seit 01.01.2025 erlaubt § 556 Abs. 4 Satz 2 BGB dem Vermieter ausdrücklich elektronische Bereitstellung. Daher ist eine allgemeine heutige Pflicht, immer Papieroriginale vor Ort vorzuzeigen, unzutreffend.",
+      "limits": "Das Urteil wird durch die neue Norm zeitlich eingeordnet, nicht als vollständig gegenstandslos bezeichnet. Die Norm beseitigt weder Vollständigkeits- und Prüfbarkeitsanforderungen noch jede denkbare Frage bei konkreten Manipulationszweifeln. Hier keine neuere BGH-Entscheidung zu sämtlichen digitalen Detailfragen behauptet.",
+      "workflow": "Funktionierenden Zugang, lesbare vollständige Dateien und sachgerechte Verknüpfung der Belege prüfen. Ein leeres Portal oder abgelaufener Link ist keine tatsächlich gewährte Einsicht. Kein besonderes Misstrauen als Voraussetzung verlangen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD07",
+      "title": "Heizkosten und CO2-Aufteilung: Ebenen und Rechenbasis",
+      "kind": "Normen",
+      "sources": [
+        {
+          "label": "HeizkostenV",
+          "url": "https://www.gesetze-im-internet.de/heizkostenv/BJNR002610981.html"
+        },
+        {
+          "label": "CO2KostAufG, gegenwärtiger Normtext",
+          "url": "https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html"
+        }
+      ],
+      "read_scope": "HeizkostenV §§ 2, 3, 7, 9 und 12; CO2KostAufG §§ 2, 5–7, 9, 11 sowie Anlagentabelle. Die als Grafik enthaltenen Detailformeln in HeizkostenV § 9 wurden nicht als Formelaudit geprüft.",
+      "finding": "Die HeizkostenV gilt grundsätzlich auch im Wohnungseigentum. Verbrauchs- und Grundanteile sowie Wärme/Warmwasser sind sachgerecht zu bestimmen. Bei der Mietabrechnung sind die vom Vermieter zu tragenden CO2-Kosten abzuziehen; Einstufung und Berechnungsgrundlagen sind auszuweisen. § 9 CO2KostAufG verlangt den Nachweis einschlägiger öffentlich-rechtlicher Beschränkungen. § 11 Abs. 2 setzt für die CO2-Aufteilung bei ab 01.01.2023 beginnenden Abrechnungsperioden an.",
+      "limits": "HeizkostenV § 12 Abs. 1 schließt die dortigen Kürzungsrechte gerade im Verhältnis einzelner Eigentümer zur Gemeinschaft aus; nicht aus einem Mieterrecht eine Hausgeldkürzung machen. Denkmalschutz bewirkt keine automatische vollständige Freistellung des Vermieters. Historische Abrechnungen benötigen den damals einschlägigen Gesetzesstand; der gesamte historische Text von 2022 ist nicht Gegenstand dieses Abrufs.",
+      "workflow": "Lieferrechnung an die Gemeinschaft, Eigentümerverteilung und Mietüberleitung getrennt rechnen. Mengen, Bezugsfläche, Periode, Rundung, Stufe, CO2-Beträge und Vermieterabzug sichtbar machen. Bei Selbstversorgung die besonderen Antrags-/Erstattungsfristen des § 6 Abs. 2 gesondert erfassen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD08",
+      "title": "CO2-Novelle 2026: Verkündung ist nicht Beginn aller Kostenfolgen",
+      "kind": "Normänderung",
+      "sources": [
+        {
+          "label": "BGBl. 2026 I Nr. 226, Art. 5 und 9",
+          "url": "https://www.recht.bund.de/bgbl/1/2026/226/regelungstext.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "label": "CO2KostAufG, gegenwärtiger Normtext",
+          "url": "https://www.gesetze-im-internet.de/co2kostaufg/BJNR215400022.html"
+        }
+      ],
+      "read_scope": "Amtlicher Änderungstext Art. 5 vollständig auf S. 48–51; Art. 9 Abs. 1–4 auf S. 58; Ausgabe 28.07.2026. Gegenwärtiger CO2KostAufG-Text §§ 5a–5d, 7 Abs. 5.",
+      "finding": "Art. 5 trat nach Art. 9 Abs. 1 am 29.07.2026 in Kraft. Die neue hälftige Belastung in § 5a Abs. 3 setzt für einschlägige Heizungsanlagen nach § 43 Abs. 1 Gebäudemodernisierungsgesetz bei Gasnetzentgelten und CO2-Kosten erst am 01.01.2028 an; bei den Kosten verpflichtend anteilig zu nutzender Brennstoffe erst am 01.01.2029 und höchstens hinsichtlich eines Brennstoffanteils von 30 Prozent. § 7 Abs. 5 regelt die anschließende Abrechnung.",
+      "limits": "Keine pauschale 50-Prozent-Regel für sämtliche Gebäude seit Juli 2026; keine Rückwirkung dieser neuen Kostenanteile auf die 2025-Akte. § 5a Abs. 4 enthält Ausfall-/Übergangsausnahmen. § 5b erfasst bestimmte bis Ende 2029 neu errichtete und erstmals genutzte Gebäude, jedoch keine vor 13.05.2026 beantragten/angezeigten Vorhaben. § 5d enthält weitere Härtefallregeln samt Informationspflichten. Die Verweisungsvoraussetzungen des § 43 wurden hier nicht als vollständiges Heizungsplanungs-Gutachten untersucht.",
+      "workflow": "Vor jeder Berechnung Abrechnungsperiode, Art und Einbauzeitpunkt der Anlage sowie einschlägiges Übergangsrecht erfassen. 2025-Testzahlen nicht durch die spätere hälftige Beteiligung überschreiben; neue zukünftige Fälle separat modellieren.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD09",
+      "title": "Bettwanzen: Mangel, Abhilfe und Verschulden getrennt prüfen",
+      "kind": "Rechtsprechung und Normen",
+      "sources": [
+        {
+          "label": "OLG Düsseldorf, Hinweisbeschl. v. 22.05.2025 – Az. 24 U 227/23",
+          "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=%2Fnrwe%2Folgs%2Fduesseldorf%2Fj2025%2F24_U_227_23_Beschluss_20250522.html"
+        },
+        {
+          "label": "§ 535 BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__535.html"
+        },
+        {
+          "label": "§ 536 BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__536.html"
+        },
+        {
+          "label": "§ 536a BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__536a.html"
+        },
+        {
+          "label": "§ 536c BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__536c.html"
+        },
+        {
+          "label": "§ 280 BGB",
+          "url": "https://www.gesetze-im-internet.de/bgb/__280.html"
+        },
+        {
+          "label": "§ 1 BetrKV",
+          "url": "https://www.gesetze-im-internet.de/betrkv/__1.html"
+        },
+        {
+          "label": "§ 2 Nr. 9 BetrKV",
+          "url": "https://www.gesetze-im-internet.de/betrkv/__2.html"
+        }
+      ],
+      "read_scope": "OLG amtlicher Volltext Rn. 1–49, besonders 22–30, 35–38, 48–49. Genannte BGB-Normen vollständig und BetrKV § 1/§ 2 Nr. 9.",
+      "finding": "Der OLG-Fall betrifft eine Monteurswohnung und den Rücktritt vor Beginn eines neuen Mietvertrags. Bettwanzen konnten die Eignung zum geschuldeten Gebrauch ausschließen; eine einzelne Behandlung bewies hier keine gesicherte Befallsfreiheit. Normale Reisetätigkeit oder gebrauchte Möbel begründeten nicht schon schuldhafte Schadensverursachung. Die beanspruchten Bekämpfungskosten waren mangels nachgewiesenen Verschuldens nicht ersatzfähig.",
+      "limits": "Hinweisbeschluss zur beabsichtigten Zurückweisung nach § 522 Abs. 2 ZPO, kein hier belegtes rechtskräftiges Endurteil. Keine automatische Kündigungsregel für jedes laufende Wohnraummietverhältnis und keine feste Minderungsquote. Kein passender höchstrichterlicher Wohnraummietfall zu Bettwanzen unabhängig verifiziert. Die im OLG-Text zitierten Kommentare/AG-Fälle wurden nicht gesondert nachgeprüft.",
+      "workflow": "Erhaltungspflicht, Minderung, Selbstvornahme und Schadenersatz anhand ihrer eigenen Voraussetzungen prüfen. Einmalige Befallsbeseitigung nicht allein wegen § 2 Nr. 9 BetrKV umlegen; § 1 verlangt laufende Kosten. Mehrere Behandlungstermine desselben Ausbruchs sind nicht automatisch laufende Prävention. Meldenden Bewohner nicht als Verursacher buchen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD10",
+      "title": "UBA-Befallsinformationen vom 24.09.2026",
+      "kind": "Behördeninformation",
+      "sources": [
+        {
+          "label": "Umweltbundesamt: Bettwanzen",
+          "url": "https://www.umweltbundesamt.de/bettwanzen"
+        }
+      ],
+      "read_scope": "Amtliche Webseite einschließlich Datumsangabe 24.09.2026 und Abschnitte zu Einschleppung, Hygiene und Bekämpfung.",
+      "finding": "Bettwanzenbefall ist unabhängig von Hygiene und sozialem Status möglich. Einschleppung kann passiv erfolgen. Fachkundige Schädlingsbekämpfung und gegebenenfalls wiederholte Maßnahmen sind erforderlich.",
+      "limits": "Fachinformation, keine Rechtsprechung und kein Nachweis, welche konkrete Person einen konkreten Befall verursacht hat. Kein medizinisches Gutachten und keine Anleitung zur selbständigen Mittelwahl oder Dosierung.",
+      "workflow": "Fachbefund, Räume, Zugänge, Behandlungstermine und Nachkontrolle als getrennte Aktenstücke führen. In Rundbriefen keine Familie als unhygienisch darstellen; Gesundheitsbeschwerden an medizinisches Fachpersonal verweisen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD11",
+      "title": "BGH, Urt. v. 24.05.2013 – Az. V ZR 220/12",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher Volltext",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/V_ZS/2012/V_ZR_220-12.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "read_scope": "Rn. 9–19, insbesondere 12–15 und 18–19 im amtlichen Volltext.",
+      "finding": "Videoüberwachung in einer WEG verlangt einen konkret bestimmten Zweck und verbindliche transparente Regeln insbesondere zu Erfassung, Speicherung und Zugriff. Auch ein einstimmiger Eigentümerbeschluss beseitigt nicht die Persönlichkeitsrechte von Besuchern. Eine spätere sachwidrige Zweckausweitung kann zur Pflicht führen, den Betrieb einzustellen.",
+      "limits": "Entscheidung zum damaligen § 6b BDSG und damaligen WEG. Keine aktuelle allgemeine Einstimmigkeits- oder Mehrheitsregel daraus ableiten. Datenschutzrechtliche Zulässigkeit nach DSGVO und heutige WEG-Kompetenz/Beschlussfassung eigenständig prüfen. Keine pauschale Erlaubnis für dauernde Flur- und Wohnungszugangsbeobachtung.",
+      "workflow": "Installation/Kosten, Betrieb, berechtigte Interessen und Datennutzung getrennt entscheiden. Kameraausschnitt, maskierte Bereiche, Zeiten, Zugriffsberechtigte und konkrete Vorfälle dokumentieren. Keine Liveansicht für alle Eigentümer vorsehen.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD12",
+      "title": "EuGH, Urt. v. 11.12.2019 – Az. C-708/18, TK",
+      "kind": "Rechtsprechung",
+      "sources": [
+        {
+          "label": "Amtlicher deutscher Volltext, ECLI:EU:C:2019:1064",
+          "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0708"
+        }
+      ],
+      "read_scope": "Amtlicher Volltext im Browser gelesen: insbesondere Rn. 3, 40–60. Kein lokal gespeicherter Volltext; Browserprüfung gesondert protokolliert.",
+      "finding": "Videoüberwachung von Gemeinschaftsbereichen kann bei tatsächlichem berechtigtem Interesse, Erforderlichkeit und überwiegender Interessenabwägung auch ohne Einwilligung zulässig sein. Gleich wirksame mildere Mittel, Datenminimierung, zeitliche/räumliche Begrenzung und berechtigte Erwartungen sind zu prüfen. Die konkrete Würdigung bleibt dem nationalen Gericht.",
+      "limits": "Die Entscheidung legt die Richtlinie 95/46/EG aus, nicht unmittelbar die DSGVO (Rn. 3). Sie ersetzt weder die heutige Prüfung von Art. 6 Abs. 1 Buchst. f DSGVO noch die WEG-Entscheidung. Aus ihr folgt keine feste Speicherdauer; dieser Gegenstand war dort nicht zur Entscheidung gestellt.",
+      "workflow": "Bei Kellerdiebstahl zunächst Vorfälle, Beleuchtung, Schließtechnik, Zugangssystem und zeitlich begrenzte Überwachung abwägen. Keine Einwilligungsfiktion durch das Betreten eines beschilderten Hauses behaupten.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD13",
+      "title": "DSGVO und EDSA: Rollen, Speicherbegrenzung und Videosicherung",
+      "kind": "Normen und Behördenleitlinien",
+      "sources": [
+        {
+          "label": "DSGVO, amtlicher deutscher Verordnungstext",
+          "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu"
+        },
+        {
+          "label": "EDSA, Leitlinien 3/2019, deutsche berichtigte Fassung",
+          "url": "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_201903_video_devices_de.pdf"
+        }
+      ],
+      "read_scope": "DSGVO im amtlichen Browsertext: Art. 4 Nr. 1, 7, 8; Art. 5, 6, 13, 17, 21, 25, 28, 32, 35. EDSA Leitlinien angenommen 29.01.2020, berichtigt 26.02.2020: Rn. 120–123. Keine Behauptung einer vollständigen neuen Lektüre aller Erwägungsgründe/Artikel.",
+      "finding": "Verantwortlichkeit und Auftragsverarbeitung richten sich nach tatsächlichen Zwecken, Mitteln und Weisungsbeziehungen. Löschung erfolgt nach Erforderlichkeit und Zweck; für einen belegten Vorfall kann eine gesonderte notwendige Sicherung zur Rechtsverfolgung in Betracht kommen. EDSA Rn. 121 verlangt insbesondere bei mehr als 72 Stunden stärker begründete Erforderlichkeit; es handelt sich nicht um eine allgemeine gesetzliche 72-Stunden-Speicherfrist.",
+      "limits": "Steuerberatung, Anwälte, Inkasso und Versicherer sind nicht allein wegen Datenzugriffs Auftragsverarbeiter. Auch die Sicherung eines Vorfalls erlaubt nicht unbegrenzte Aufbewahrung aller Aufnahmen. Die EDSA-Leitlinien sind keine Gerichtsentscheidung. Eine Datenschutz-Folgenabschätzung ist nach ihren Voraussetzungen zu prüfen, nicht bei jeder beliebigen Kamera automatisch gleich zu behandeln.",
+      "workflow": "Je Dienstleister Rolle und Rechtsgrundlage feststellen. Routinevideo automatisch kurz löschen; Ereignisausschnitt, Rechtsgrundlage, Zugriff, Empfänger und Überprüfung der weiteren Erforderlichkeit protokollieren. Dauerhafte Bewohnerverteiler für Rohaufnahmen vermeiden.",
+      "accessed": "2026-10-02"
+    },
+    {
+      "id": "MD14",
+      "title": "Berliner Video-Checkliste Februar 2026 und Tonaufnahmen",
+      "kind": "Behördeninformation und Strafnorm",
+      "sources": [
+        {
+          "label": "BlnBDI, Checkliste Videoüberwachung, Stand Februar 2026",
+          "url": "https://www.datenschutz-berlin.de/fileadmin/user_upload/pdf/dokumente/2018-BlnBDI_Checkliste_Videoueberwachung.pdf"
+        },
+        {
+          "label": "BlnBDI: Videoüberwachung in Mietshäusern",
+          "url": "https://www.datenschutz-berlin.de/themen/wohnen/videoueberwachung-in-mietshaeusern/"
+        },
+        {
+          "label": "§ 201 StGB",
+          "url": "https://www.gesetze-im-internet.de/stgb/__201.html"
+        }
+      ],
+      "read_scope": "Checkliste S. 2–8, besonders S. 5 und 8; amtliche Webseite Mietshäuser; § 201 StGB vollständig. Die Datei trägt 2018 im Namen, im Dokument steht tatsächlich Februar 2026.",
+      "finding": "Die Berliner Aufsicht verlangt konkrete Zwecke, dokumentierte Alternativen, Zugriffsbeschränkung und insbesondere eine Begründung, wenn nicht innerhalb von 48 Stunden gelöscht wird. Audiofunktionen sollen dauerhaft deaktiviert werden. Unbefugtes Aufnehmen nichtöffentlich gesprochenen Wortes kann § 201 StGB erfüllen.",
+      "limits": "48 Stunden sind die Prüfschwelle der Berliner Checkliste, keine überall geltende gesetzliche Höchstdauer; 72 Stunden im EDSA-Dokument ebenso wenig eine Freigabe bis dahin. Die Aufsichtshinweise ersetzen die Einzelfallabwägung nicht. Keine aus der Checkliste isoliert übernommene Behauptung, § 4 BDSG allein sei stets private Kamera-Rechtsgrundlage.",
+      "workflow": "Heimliche Tonaufnahmen und Audioüberwachung nicht als Sicherheitsfunktion empfehlen. Bei einem gemeldeten Aufnahmegerät Tatsachen sichern und rechtlich klären. Im Schädlingsfall bedeutet Wanzen zunächst Bettwanzen; die beiden Vorgänge nicht vermischen.",
+      "accessed": "2026-10-02"
+    }
+  ],
+  "review": {
+    "file": "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md",
+    "sha256_at_review": "8506ff653ce08776cd66227f6cbc342e9d73f8cad862fec54ff557eecf0d969d",
+    "sections": [
+      "5",
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "findings": [
+      {
+        "section": "5.2",
+        "severity": "Präzisierung",
+        "finding": "Die Wendung vorläufige Rechenfassung und das bestimmte Nachforderungsschreiben könnte eine Zahlungsnachforderung ohne hinreichende Abrechnung nahelegen.",
+        "recommendation": "Wenn Unterlagen gemeint sind: gezieltes Unterlagenanforderungsschreiben formulieren. Unvollständigkeit und zu prüfende Teilbeträge ausdrücklich bezeichnen."
+      },
+      {
+        "section": "5.4",
+        "severity": "Präzisierung",
+        "finding": "Die Frage, ob Zahlungsbelege oder Verbrauchsunterlagen benötigt werden, darf nicht als zusätzliches Misstrauens-/Sonderinteresse verstanden werden.",
+        "recommendation": "Allgemeines Kontrollinteresse genügt (VIII ZR 118/19 Rn. 12–17; VIII ZR 189/17 Rn. 15–18). Elektronische Bereitstellung nach § 556 Abs. 4 beachten."
+      },
+      {
+        "section": "6.3",
+        "severity": "Ergänzung des Übergangsrechts",
+        "finding": "Der dynamische Link führt zum seit Juli 2026 erweiterten CO2KostAufG; 2025-Testrechnungen dürfen dadurch nicht auf die erst 2028/2029 ansetzenden neuen Kostenanteile umgestellt werden.",
+        "recommendation": "MD08 einarbeiten: Inkrafttreten 29.07.2026, materielle Kostentermine und Tatbestands-/Ausnahmeregeln gesondert."
+      },
+      {
+        "section": "6.4",
+        "severity": "Klarstellung bei Konkretisierung",
+        "finding": "Kürzungsrechte müssen auch nach Anspruchsverhältnis getrennt werden.",
+        "recommendation": "§ 12 Abs. 1 HeizkostenV gilt hinsichtlich seiner Kürzungsrechte nicht zwischen einzelnen Eigentümern und Gemeinschaft; daraus keine automatische Hausgeldkürzung ableiten."
+      },
+      {
+        "section": "8.5",
+        "severity": "Präzisierung",
+        "finding": "Audio nicht nur als ungeprüfte Zusatzfunktion behandeln.",
+        "recommendation": "Audio standardmäßig deaktivieren; § 201 StGB und Berliner Checkliste S. 5. Keine pauschale 72-Stunden-Erlaubnis; Routine und Ereignissicherung unterscheiden."
+      },
+      {
+        "section": "9",
+        "severity": "Kein konkreter Fehler im gelesenen Stand",
+        "finding": "Trennung von Befund, Verschulden, laufenden Betriebskosten und anlassbezogener Bekämpfung ist sachgerecht.",
+        "recommendation": "OLG-Hinweisbeschluss und UBA-Information nur mit den in MD09/MD10 genannten Grenzen ergänzen; keine fingierte BGH-Bettwanzenentscheidung."
+      },
+      {
+        "section": "10",
+        "severity": "Kein konkreter Fehler im gelesenen Stand",
+        "finding": "Funktionale Rollenprüfung, bedingte Prüfung einer Meldung/Betroffenenbenachrichtigung und zweckbezogene Aufbewahrung sind sachgerecht.",
+        "recommendation": "Die Meldeschwelle und die 72-Stunden-Regel des Art. 33 nicht als Videolöschfrist darstellen. Art. 33/34 wurden in diesem Quellenlauf nicht gesondert im Volltext neu gelesen; diese Aussage ist keine eigenständige Vollnormvalidierung dieser beiden Artikel."
+      }
+    ],
+    "additional_reviews": [
+      {
+        "file": "weg-hausverwaltung/weg-hausverwaltung-schnellstart.md",
+        "sha256_at_review": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+        "scope": "Mietüberleitung, Belegeinsicht, Heiz-/CO2-Kosten, Kamera und Bettwanzen",
+        "finding": "Keine kritischen rechtlichen Fehler im gelesenen Stand innerhalb dieses Prüfumfangs. Allgemeines WEG-Recht und dortige Rechtsprechungsanker sind Gegenstand des parallelen Fachaudits."
+      },
+      {
+        "file": "weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md",
+        "sha256_at_review": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+        "scope": "Mietüberleitung, Belegeinsicht, Heiz-/CO2-Kosten, Kamera und Bettwanzen",
+        "finding": "Keine kritischen rechtlichen Fehler im gelesenen Stand innerhalb dieses Prüfumfangs. Allgemeines WEG-Recht und dortige Rechtsprechungsanker sind Gegenstand des parallelen Fachaudits."
+      }
+    ]
+  },
+  "checked_not_recommended_as_core_anchor": [
+    {
+      "citation": "BGH, Beschl. v. 18.08.2026 – Az. VIII ZB 82/25",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2025/VIII_ZB__82-25.pdf?__blob=publicationFile&v=1",
+      "read_scope": "Rn. 7–24",
+      "reason": "Betrifft Rechtsmittelbeschwer bei Belegeinsicht, keinen neuen materiellrechtlichen Einsichtsgrundsatz. Die dortige Berufungsgrenze 600 Euro beruhte ausdrücklich auf § 47 Nr. 1 EGZPO und altem § 511 ZPO; nicht als aktuelle allgemeine Wertgrenze in die Verwaltungswerkstatt übertragen."
+    }
+  ],
+  "browser_verifications": [
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0708",
+      "method": "Ordentlicher In-App-Browser, angezeigter amtlicher deutscher Volltext; Accessibility-Text gelesen",
+      "read_scope": "Rn. 3 und 40–60; weitere Kontextpassagen 14–20 und 28–39",
+      "local_capture": false
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu",
+      "method": "Ordentlicher In-App-Browser; angezeigter Dokumenttext, selektive Artikel aus sichtbarem DOM gelesen",
+      "read_scope": "Art. 4 Nr. 1, 7, 8; Art. 5, 6, 13, 17, 21, 25, 28, 32, 35",
+      "local_capture": false,
+      "note": "Der deutsche OJ-Text wurde gelesen. Eine anschließend geöffnete englische Konsolidierungsseite wurde nicht als vollständig gelesener deutscher Text ausgegeben."
+    }
+  ],
+  "evidence": {
+    "manifest": [
+      {
+        "file": "V-ZR-220-12.pdf",
+        "bytes": 150608,
+        "sha256": "4f050b43ee619ed850025af5b63d3eefcfda4f6e833b0c07e75a772e78ed68f9"
+      },
+      {
+        "file": "VIII-ZB-82-25.pdf",
+        "bytes": 128551,
+        "sha256": "a998ef1125d698186e8706f42bc681d7e44039319fcfe1d6812d6a078c288ee7"
+      },
+      {
+        "file": "VIII-ZR-118-19.pdf",
+        "bytes": 159247,
+        "sha256": "4e3ad574e8bd22c5d04ca7d000c605c00eb3d433bf9fd6d7e0902dc4faceca5d"
+      },
+      {
+        "file": "VIII-ZR-189-17.pdf",
+        "bytes": 144402,
+        "sha256": "693f65b7b3b9f9f7bffa14d82858174ab88188618525beabe03b383c8092dc10"
+      },
+      {
+        "file": "VIII-ZR-249-15.pdf",
+        "bytes": 179749,
+        "sha256": "31e57f41d59b090568b9651587b07641a0b7f889b164bb14aa0eba7f1c08aef0"
+      },
+      {
+        "file": "VIII-ZR-6-24.pdf",
+        "bytes": 212272,
+        "sha256": "df3576746dba387c2ca4e6564e0e06c03ab6a4ef084b26856122f60e0a324482"
+      },
+      {
+        "file": "VIII-ZR-66-20.pdf",
+        "bytes": 80899,
+        "sha256": "d6075819f16eeb22a3871b01b55d28c779212e7cc92971a9124e2bcdccb32b60"
+      },
+      {
+        "file": "berlin-mietkamera.html",
+        "bytes": 19502,
+        "sha256": "05e4bc6569ce21351dd2d4e66d85171bd928d3be0be9b727e3d9e7f94de3883a"
+      },
+      {
+        "file": "berlin-video-2026.pdf",
+        "bytes": 117535,
+        "sha256": "1ef90925d13b42568e22c526de84d8fb8e2ca310436080bbe12a8991508bce9a"
+      },
+      {
+        "file": "betrkv-1.html",
+        "bytes": 4845,
+        "sha256": "08fee2f156fff95c6ba22709ce37b6ccaef7ccf9a6d0ab73e839d8a8733acf10"
+      },
+      {
+        "file": "betrkv-2.html",
+        "bytes": 16832,
+        "sha256": "6fcfa68344b8b6c6dcd13277fb213af7ac4f31b79550b06506c077a28a6a713f"
+      },
+      {
+        "file": "bgb-280.html",
+        "bytes": 3989,
+        "sha256": "66133a0566882cd68dd85214891ae9f6489d53ba6dd307a9db58f546d3359244"
+      },
+      {
+        "file": "bgb-535.html",
+        "bytes": 3883,
+        "sha256": "46f2c983a709b3c79daae985edb9291a5d87c64412c7c39b8f1c6b62d6dff902"
+      },
+      {
+        "file": "bgb-536.html",
+        "bytes": 4665,
+        "sha256": "7d204f85501d2a14916b8938102ed44248a480decb79be29d90be782acfa2dd6"
+      },
+      {
+        "file": "bgb-536a.html",
+        "bytes": 4330,
+        "sha256": "aa2917a8a4a96601e27f46327f31df0474550d2bcdaf0dce0e61cae5f2a73b46"
+      },
+      {
+        "file": "bgb-536c.html",
+        "bytes": 4597,
+        "sha256": "1cdb6799f62ecd82adf5a5ec12d8e815f9a5e11595222d5cbbc6edbe7a7efc84"
+      },
+      {
+        "file": "bgb-556.html",
+        "bytes": 6156,
+        "sha256": "c3062312a0a56bb82f9d17cab070468f33b6971daef9b0259089e4884579eaae"
+      },
+      {
+        "file": "bgb-556a.html",
+        "bytes": 4876,
+        "sha256": "3b18fbe5b3ca612ba250e3ce29f2e71414fcbded0f4cff329020d673f7a774da"
+      },
+      {
+        "file": "bgbl-2024-323.pdf",
+        "bytes": 737586,
+        "sha256": "dbfcf74401b5009b4346362971985eded52cfcab21ab04bdec2485e626aaa55a"
+      },
+      {
+        "file": "bgbl-2026-226.pdf",
+        "bytes": 636817,
+        "sha256": "e24d08e69485cfaf53c114b62e2a6000f7236dd0fbde9e5fe2408676cfffb6df"
+      },
+      {
+        "file": "co2kostaufg.html",
+        "bytes": 55809,
+        "sha256": "9651080852f4d71b4bf2930617d4faec3bf85190d41683d24997716aa7c61c43"
+      },
+      {
+        "file": "edpb-video-de.pdf",
+        "bytes": 369782,
+        "sha256": "7ee071aa8a9170c6a619fd3ed2dbb54c12a34a19e05c077607a1cc4d0a1409f1"
+      },
+      {
+        "file": "heizkostenv.html",
+        "bytes": 62315,
+        "sha256": "aeaddcb7f61aca4c962df28928b4a7298b2076da0a5a7b5274fd69978082c3b8"
+      },
+      {
+        "file": "olg-bettwanzen.pdf",
+        "bytes": 35377,
+        "sha256": "d674cf5c5cabbf37768d72767bcdb8549a433a4689c44bc461bf80f0ea790223"
+      },
+      {
+        "file": "stgb-201.html",
+        "bytes": 5407,
+        "sha256": "87a18a13456021481b1a8d6d43722c325e2142d7098305bb52eace0348b9682c"
+      },
+      {
+        "file": "stgb-242.html",
+        "bytes": 3614,
+        "sha256": "09149a5c52bf3f07eccfd317c93076deee71940ff296112e9766cd6470709895"
+      },
+      {
+        "file": "uba-bettwanzen.html",
+        "bytes": 256775,
+        "sha256": "5f7a6bb574e9ab9c4aa9a9d7d961e054f55108db6ed47deb3c21b0ec26d2749e"
+      }
+    ],
+    "fetch_logs": [
+      "bgh-fetches.json",
+      "norm-behoerden-fetches.json",
+      "edpb-fetch.json",
+      "amendments-fetch.json"
+    ],
+    "location": "lokale Prüfarbeitsdateien; nicht im Repository enthalten"
+  },
+  "unverified": [
+    "Kein unmittelbar einschlägiger höchstrichterlicher Miet-Bettwanzenfall eigenständig bestätigt.",
+    "Rechtskraft oder späterer Endbeschluss zum OLG-Hinweisbeschluss 24 U 227/23 nicht verifiziert.",
+    "Kein vollständiges historisches Normenaudit sämtlicher Abrechnungsjahre; 2025 nicht nach 2028/2029-Regeln berechnen.",
+    "Keine fallbezogene Versicherungsdeckungsprüfung oder Festlegung medizinischer Behandlung."
+  ]
+}

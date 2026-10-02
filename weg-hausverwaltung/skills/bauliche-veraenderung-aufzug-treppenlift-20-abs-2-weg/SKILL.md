@@ -14,12 +14,12 @@ description: "Für Aufzug-Nachrüstung und Treppenlift als privilegierte baulich
 - Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
 - Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
 
-**Fokus:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
+**Fokus:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 1 WEG (Stand 06/2026): Anspruch bei erfüllten Voraussetzungen, Ausführungsermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
 
-### Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
+### Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 1 WEG
 
 ## Fachlicher Kern — Miet- und WEG-Recht
-- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
+- **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 1 WEG` und löse die dort angelegte Fachfrage; arbeite mit konkreten Tatbestandsmerkmalen, Beweisfragen und dem unmittelbar benötigten Arbeitsprodukt. Routingfragen bleiben Hilfsmittel, wenn Frist, Zuständigkeit oder Verfahrensart offen sind.
 - **Arbeitsmodus:** Immer erst Verhältnis Miete/WEG/Gewerbe/Verwaltung trennen, dann Frist, Beschlusskompetenz, Umlagefähigkeit, Belege, Gebrauchsnachteil und Kostenfolge prüfen.
 - **Outputpflicht:** Abrechnungsprüftabelle, Beschlussvorschlag, Anfechtungs-/Beschlussersetzungsskizze, Mietermail, Vermieterschreiben oder Verwalter-To-do-Liste.
 - **Fehlerbremse:** Tragende Normen/Entscheidungen live oder aus der Akte verifizieren; Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen.
@@ -28,13 +28,13 @@ Stand: 06/2026.
 
 ## Ziel
 
-Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG. Die GdWE kann das „Wie" regeln, nicht aber den Anspruch an sich verweigern. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
+Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 1 WEG. Voraussetzung sind eine angemessene Maßnahme und die Grenzen des § 20 Abs. 4 WEG; über die Durchführung entscheiden die Eigentümer im Rahmen ordnungsmäßiger Verwaltung. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
 
 ## Anspruchsgrundlage und Reichweite
 
-§ 20 Abs. 2 Nr. 2 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
+§ 20 Abs. 2 Nr. 1 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
 
-BGH, Urteil vom 09.02.2024, V ZR 244/22: Auch ein außen am Gebäude angebauter Aufzug mit erheblichen Eingriffen in das Gemeinschaftseigentum (Öffnung Fassade, Fundament) ist vom Anspruch gedeckt; Beeinträchtigungen anderer Eigentümer sind ggf. auszugleichen, heben den Anspruch aber nicht auf. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
+BGH, Urteil vom 09.02.2024, V ZR 244/22: Der Außenaufzug kann als angemessener Barriereabbau verlangt werden; die Voraussetzungen des § 20 Abs. 2 Satz 1 Nr. 1 und Abs. 4 WEG sowie sachgerechte Ausführungsentscheidungen bleiben zu prüfen. Nicht jeder gewünschte Aufzug ist uneingeschränkt zulässig. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
 
 ## Technische Mindeststandards (DIN 18040-2)
 

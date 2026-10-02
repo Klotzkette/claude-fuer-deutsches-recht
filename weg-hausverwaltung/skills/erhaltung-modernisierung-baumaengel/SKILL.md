@@ -73,3 +73,9 @@ Der am 30.09.2026 gelesene [amtliche Einzeltext des bisherigen Paragrafen 71 GEG
 - BGH, Urteil vom 14.02.2025 - V ZR 128/23: Die Kompetenz aus Paragraf 16 Absatz 2 Satz 2 WEG erfasst auch den Verteilungsschlüssel für die Zuführung zur Erhaltungsrücklage. Beschlusskompetenz, Bestimmtheit und sachgerechte Belastung getrennt prüfen.
 
 `rechtsstand-mai-2026-faktenbank` laden. § 19 WEG: https://www.gesetze-im-internet.de/woeigg/__19.html ; § 20 WEG: https://www.gesetze-im-internet.de/woeigg/__20.html ; aktueller Gebäudemodernisierungstext: https://www.gesetze-im-internet.de/geg/ .
+
+## 2026: Vergabe und Kosten gemeinsam prüfen
+
+V ZR 7/25 vom 27.03.2026, Rn. 15–25: Angemessene Tatsachengrundlage und wirtschaftliche Eignung prüfen, keine starre Drei-Angebote-Zahl. V ZR 50/25 vom 24.04.2026, Rn. 13–23: Wechsel von MEA/Fläche zu gleichen Einheiten bei Erhaltung ungleich großer Wohnungen regelmäßig unangemessen; konkrete Mehrbelastung rechnen. Die Kompetenz für delegierte Balkonerhaltung nach V ZR 102/24 ändert nicht automatisch die bisherige Kostenregel. Jede Schlussfolgerung mit Maßnahme, Anlage und Beschlusswortlaut belegen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

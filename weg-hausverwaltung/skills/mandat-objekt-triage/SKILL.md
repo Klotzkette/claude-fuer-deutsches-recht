@@ -51,8 +51,8 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 
 1. **Dokumente benennen und Lücken markieren.** (Liste: vorhanden / fehlt / unklar)
 2. **Fristen und irreversible Risiken nach oben ziehen.**
- - § 45 WEG: 1 Monat Klage, 2 Monate Begründung (BGH V ZR 33/23).
- - 1 Jahr Erkundigungsobliegenheit bei Zustellungsverzug (BGH V ZR 17/24).
+ - § 45 WEG: 1 Monat Klage, 2 Monate Begründung (§ 45 WEG).
+ - Zustellung nachhalten; V ZR 17/24 enthält nur eine äußerste Einjahresgrenze nach bereits erfüllten eigenen Mitwirkungspflichten, keine Warteempfehlung.
  - § 556 Abs. 3 BGB: 12 Monate Betriebskostenabrechnung Mieter.
  - Gewährleistung Werkvertrag 5 J. / VOB 4 J.
  - GEG § 71 Übergangsfristen für Heizungstausch (Großstädte 30.06.2026, sonst 30.06.2028).

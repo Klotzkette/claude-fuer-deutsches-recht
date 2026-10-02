@@ -86,6 +86,7 @@ jobs:
           python3 scripts/test-modefuchs-lebensakte.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
+          python3 scripts/test-weg-hausverwaltungsakten.py
           python3 scripts/test-testakten-ohne-loesungen.py
           python3 scripts/validate-testakten-ohne-loesungen.py
           python3 scripts/test-testakte-bwa-abstimmung.py

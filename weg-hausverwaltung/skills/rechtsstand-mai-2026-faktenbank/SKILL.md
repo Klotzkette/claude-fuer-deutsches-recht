@@ -1,79 +1,38 @@
 ---
 name: rechtsstand-mai-2026-faktenbank
-description: "Für Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung: ordnet Akte, Belege und Lücken; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Wählt amtlich geprüfte WEG-Entscheidungen bis Oktober 2026 anhand der konkreten Verwaltungsfrage aus; liefert Norm, Datum, Aktenzeichen, Randnummer und sachverhaltsbezogene Anwendungsgrenze."
 ---
 
-# Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung
+# Rechtsstand und überprüfte WEG-Rechtsprechung
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Diene als gepflegter Einstieg zu den tatsächlich einschlägigen Normen und Urteilen der Hausverwaltung. Der historische Ordnername bleibt bestehen, damit vorhandene Aufrufe funktionieren. Inhaltlicher Arbeitsstand ist 02.10.2026; die Heizungs- und Förderfragen des Altbestands sind keine automatisch mitgeprüfte Gesamtmaterie.
 
-## Fachkern: Rechtsstand Mai 2026 — Faktenbank WEG/Hausverwaltung
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Grundbestand: 05/2026; Heizungsrecht am 30.09.2026 aktualisiert. Der Ordnername bleibt für bestehende Verweise erhalten. Lade diese Faktenbank als Ausgangspunkt, bevor du aktuelle Aussagen zu Wohnungseigentumsrecht, Eigentümerversammlung, Beschlüssen, Abrechnung, Verwalterpflichten, baulichen Veränderungen oder Hausverwaltung triffst.
+Konkrete Rechtsfrage, Ereignis-/Beschlussdatum, Rolle, bereits vorhandene Unterlagen und Frist lesen. Bei einer Altakte das damals geltende Recht bestimmen. Eine aktuelle Entscheidung nicht rückwirkend mit einer Gesetzesänderung verwechseln.
 
-## Harte Quellenregel
+## 3. Ablauf und Quellenwahl
 
-- Erlaubt: dejure.org, openjur.de, bundesgerichtshof.de (insb. juris.bundesgerichtshof.de und V. ZS WEG-Senat), bundesverfassungsgericht.de, recht.bund.de (BGBl), OLG-/LG-Datenbanken der Länder.
-- Verboten: Beck-RS, juris ohne offene Veröffentlichung, Kommentare, Handbücher, Aufsätze aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und offen prüfbarem Link.
-- Normen bei konkreten Fristen, Beschlüssen, Zahlungen oder gerichtlichen Schritten live prüfen.
+Für Zahlung/Abrechnung die Arbeitsreferenz Abschnitte 2 und 3 sowie V ZR 195/23, V ZR 102/23, V ZR 167/23 und V ZR 190/24 lesen. Für Schlüsseländerung die abgestufte Linie V ZR 50/25 (2026), V ZR 236/23 und V ZR 128/23 heranziehen. Bei Vergabe V ZR 7/25 (2026) lesen; keine pauschale Drei-Angebote-Pflicht mehr aus dem Altbestand übernehmen.
 
-## Kernquellen WEG/BGB
+Für Schäden und Verwalter V ZR 18/25, V ZR 76/25 (beide 2026) und V ZR 34/24 prüfen. Deliktische Direktansprüche werden durch die fehlende Schutzwirkung des Verwaltervertrags nicht ausgeschlossen. Bei Technikräumen Anlage und Raum anhand V ZR 34/25 (2026) unterscheiden. Bei Balkonsanierung trotz übertragener Erhaltungslast V ZR 102/24 (2026) beachten.
 
-- WEG insgesamt: https://www.gesetze-im-internet.de/woeigg/
-- § 16 Abs. 2 Satz 2 WEG (Kostenverteilung, Mehrheitsbeschluss): https://www.gesetze-im-internet.de/woeigg/__16.html
-- § 20 WEG (bauliche Veränderungen): https://www.gesetze-im-internet.de/woeigg/__20.html
-- § 21 WEG (Kostenfolge bauliche Veränderungen): https://www.gesetze-im-internet.de/woeigg/__21.html
-- § 23 WEG (Eigentümerversammlung, virtuelle Versammlung): https://www.gesetze-im-internet.de/woeigg/__23.html
-- § 24 WEG (Einberufung): https://www.gesetze-im-internet.de/woeigg/__24.html
-- § 25 WEG (Beschlussfassung): https://www.gesetze-im-internet.de/woeigg/__25.html
-- § 26 WEG (Verwalterbestellung/-abberufung): https://www.gesetze-im-internet.de/woeigg/__26.html
-- § 27 WEG (Aufgaben/Befugnisse): https://www.gesetze-im-internet.de/woeigg/__27.html
-- § 28 WEG (Wirtschaftsplan/Jahresabrechnung): https://www.gesetze-im-internet.de/woeigg/__28.html
-- § 44 WEG (Beschlussklagen): https://www.gesetze-im-internet.de/woeigg/__44.html
-- § 45 WEG (Klage- und Begründungsfrist): https://www.gesetze-im-internet.de/woeigg/__45.html
-- BetrKV: https://www.gesetze-im-internet.de/betrkv/
-- HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/
-- § 554 BGB (Steckersolar/Mieter): https://www.gesetze-im-internet.de/bgb/__554.html
-- §§ 556, 556a BGB (Betriebskosten, Abrechnungsfrist): https://www.gesetze-im-internet.de/bgb/__556.html
+Für Versammlungsfragen V ZR 190/25 (2026) zum Umlaufverfahren, V ZR 189/24 (2026) zu Stimmrechten und V ZR 123/23 zur Hybridteilnahme auswählen. Rein virtuelle Versammlung zusätzlich nach § 23 Abs. 1a und § 48 Abs. 6 WEG prüfen. Für Anfechtungsfristen § 45 WEG direkt lesen; V ZR 33/23 ist dafür kein geeigneter Beleg.
 
-## Neuere Gesetzgebung 2023–2026
+Für bauliche Gestaltung V ZR 162/25 (17.07.2026), V ZR 165/25 (25.09.2026), V ZR 105/24, V ZR 86/24 und V ZR 244/22 nur nach der jeweiligen Fallweiche verwenden. § 20 Abs. 2 Satz 1 Nr. 1 WEG ist Barriereabbau; Nr. 2 ist E-Mobilität. V ZR 57/12 betrifft Leitungen im Gemeinschaftsbereich und trägt keine pauschale Aussage über sämtliche Badezimmerabdichtungen.
 
-- Heizungsrecht seit 29.07.2026: Gebäudemodernisierungsgesetz; der frühere § 71 ist weggefallen. Bei Neuentscheidungen nicht die frühere 65-Prozent-Regel zugrunde legen. Einbauzeitpunkt, Gebäudeart und Technik für die nun einschlägigen §§ 43–46 ermitteln; § 43 regelt insbesondere Brennstoffquoten für nach dem 29.07.2026 in Bestandsgebäuden neu eingebaute Gas-/Öl-/Flüssiggasheizungen. Historische Vorgänge nach der damals anwendbaren Fassung prüfen: https://www.gesetze-im-internet.de/geg/ .
-- CO2KostAufG (seit 01.01.2023, Aufteilung CO₂-Kosten Vermieter/Mieter, Zehn-Stufen-Modell): https://www.gesetze-im-internet.de/co2kostaufg/
-- Mietpreisbremse-Verlängerung bis 31.12.2029, Gesetz vom 17.07.2025, BGBl. 2025 I Nr. 163: https://www.recht.bund.de/bgbl/1/2025/163/VO.html
+Die aktuelle Referenz enthält je Urteil genaue Randnummern, amtlichen Volltext und Anwendungsgrenze. Bei nicht gedeckter Behauptung weiter recherchieren oder den offenen Punkt ausweisen. Nicht einfach Datum „2026“ über eine alte Tabelle schreiben. Empfängertexte erhalten nur die für ihre Funktion nötigen Quellen; Abrufprotokoll und Unsicherheiten stehen im internen Vermerk.
 
-## Rechtsprechungsanker (frei verifiziert)
+## 4. Quellenpflicht
 
-| Thema | Entscheidung | Aussage für die Verwaltung | Quelle |
-| --- | --- | --- | --- |
-| Kostenseparierung (Tiefgarage) | BGH, Urteil vom 14.02.2025, V ZR 236/23 | Mehrheitsbeschluss kann von gegenstandsbezogener Kostentrennung abweichen; entspricht aber regelmäßig nicht ordnungsmäßiger Verwaltung ohne sachlichen Grund. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23 |
-| Verteilungsschlüssel Erhaltungsrücklage | BGH, Urteil vom 14.02.2025, V ZR 128/23 | § 16 Abs. 2 Satz 2 WEG umfasst auch Schlüssel für Rücklage; alte Privilegien können bei fehlendem sachlichem Grund per Mehrheit geändert werden. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23 |
-| Beschlussersetzungsklage / Vorbefassung | BGH, Urteil vom 14.02.2025, V ZR 86/24 | Es genügt, exakt den später gerichtlich begehrten Beschluss in der Versammlung verlangt zu haben; keine Pflicht zur Vorlage von Privatgutachten in der Versammlung. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24 |
-| Klimasplitgerät / bauliche Veränderung | BGH, Urteil vom 28.03.2025, V ZR 105/24 | Bei Gestattung zählen für § 20 Abs. 4 WEG die unmittelbaren Auswirkungen; spätere Nutzung (Lärm, Geruch) nur bei jetzt evidenter unbilliger Benachteiligung. Immissionsabwehr nach § 14 Abs. 2 Nr. 1 WEG, § 1004 BGB bleibt. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=28.03.2025&Aktenzeichen=V+ZR+105/24 |
-| Vermietender Eigentümer als Störer | BGH, Urteil vom 21.03.2025, V ZR 1/24 | Mittelbare Handlungsstörerhaftung des Eigentümers, wenn Mieter ohne Gestattungsbeschluss baulich verändert und Eigentümer die Maßnahme duldet/nicht eingreift. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=21.03.2025&Aktenzeichen=V+ZR+1/24 |
-| Jahresabrechnung Auslegung | BGH, Urteil vom 19.07.2024, V ZR 102/23 | Beschluss "über die Abrechnung" ist als Beschluss über Nachschüsse/Vorschussanpassung auszulegen. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23 |
-| Anspruch auf Jahresabrechnung | BGH, Urteil vom 19.04.2024, V ZR 167/23 | Anspruch richtet sich gegen die GdWE, nicht persönlich gegen den Verwalter. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23 |
-| Verwalterhaftung | BGH, Urteil vom 05.07.2024, V ZR 34/24 | Verwaltervertrag hat keine Schutzwirkung für Einzeleigentümer; SE-Ansprüche laufen über die GdWE. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24 |
-| Prozesskosten Beschlussklage | BGH, Urteil vom 19.07.2024, V ZR 139/23 | Prozesskosten der unterliegenden GdWE = Verwaltungskosten; auch obsiegender Anfechtungskläger trägt anteilig. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+139/23 |
-| Hausgeld / Zurückbehaltung | BGH, Urteil vom 14.11.2025, V ZR 190/24 | Kein Zurückbehaltungsrecht gegen beschlossene Vorschüsse, auch nicht bei rechtskräftigem Abrechnungstitel. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.11.2025&Aktenzeichen=V+ZR+190/24 |
-| Erkundigungsobliegenheit Anfechtungsklage | BGH, Urteil vom 25.10.2024, V ZR 17/24 | Kläger muss spätestens 1 Jahr nach Ablauf der Monatsfrist beim Gericht den Sachstand erfragen; sonst geht Zustellungsverzögerung zu seinen Lasten (§ 167 ZPO). | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24 |
-| Klagebegründungsfrist | BGH, Urteil vom 09.02.2024, V ZR 33/23 | § 45 Satz 1 WEG ist materielle Ausschlussfrist; grundsätzlich keine Verlängerung. | https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23 |
+[Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) für die konkret berührten Fragen lesen. Die amtlichen Entscheidungslinks, Randnummern und Anwendungsgrenzen dort beachten; Normstand anhand der verlinkten Einzelnormen prüfen. Nach [Zitierweise](../../references/zitierweise.md) zitieren. Keine Literaturfundstellen aus Modellwissen und keine Entscheidung nur wegen eines ähnlichen Schlagworts übernehmen.
 
-Vollständige Tabellen, Erläuterungen, Kontext stehen in `references/rechtsstand-mai-2026.md`.
+## 5. Ausgabeformat
 
-## Output-Regel
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
-Jede Ausgabe mit Rechtsstand enthält:
+## 6. Beispiel
 
-1. **Normen:** konkrete Paragrafen mit offenem Link.
-2. **Rechtsprechung:** nur frei verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und offener URL.
-3. **Verwaltungsannahmen:** was aus Akte/Teilungserklärung/Verwaltervertrag stammt — getrennt von der Rechtslage darstellen.
-4. **Eskalation:** wann Anwalt, Gericht oder technische Fachplanung erforderlich ist.
-5. **Stand-Vermerk:** "Stand: 05/2026" an Ende oder Anfang jeder rechtlich tragenden Aussage.
+Eine Eigentümerin hält den Heizungsauftrag ohne drei Angebote für automatisch ungültig. Wähle V ZR 7/25 und prüfe die tatsächlich vorhandene Informationsgrundlage; bewerte anschließend eine konkret behauptete Überteuerung als eigenständigen Einwand. Verwechsle dies nicht mit der mietrechtlichen Wirtschaftlichkeitsprüfung ihres Mieters.

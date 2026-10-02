@@ -1,0 +1,851 @@
+{
+  "datum": "2026-10-02",
+  "count": 93,
+  "changed_count": 46,
+  "items": [
+    {
+      "path": "weg-hausverwaltung/skills/abrechnung-ist-plan-mieterschnittstelle/SKILL.md",
+      "sha256": "8aba2ab3fa43c7fe93b64d36abe7c767f736bba9c5c2faa44f49cc6f24b1d68d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 195/23",
+        "VIII ZR 118/19",
+        "VIII ZR 189/17",
+        "VIII ZR 249/15",
+        "VIII ZR 6/24",
+        "VIII ZR 66/20"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bad-umbau-bodengleiche-dusche-sondereigentum/SKILL.md",
+      "sha256": "c7aa64a10ad1262ae838e318cd828eac40c79646983c546dae9565e80fa2f76b",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 57/12"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft/SKILL.md",
+      "sha256": "7f1de8371777ed601ac5f18c3098ac4fa6fcebb0a701cf48971d25b3d012754d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 57/12"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/barrierefreie-einladung-protokoll-versammlung/SKILL.md",
+      "sha256": "a6b0497d468332341f12da737d5fb2e8727b38c2f737b4d8efb466f0aaa21cf9",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-formular-portal-und-einreichung/SKILL.md",
+      "sha256": "119c97d8379d7a3928d44b9829e54c0c6efd3f4b429db1ef8142146e00773b6e",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderung-aufzug-treppenlift-20/SKILL.md",
+      "sha256": "dc872c55e7bb3e928b7e03f372af74839b8462ea3d3399c640f9b2150d6535f0",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 244/22"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg/SKILL.md",
+      "sha256": "d24a87167863915a8a78da05f76d578f8476baca9850b30e9900da05ffa7a41f",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 244/22"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderungen-20-weg/SKILL.md",
+      "sha256": "dc1b9a2bc7c6aff908410ccd6f7c538b67e9e30a36aac663ba2140c00854bfb9",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 1/24",
+        "V ZR 105/24",
+        "V ZR 162/25",
+        "V ZR 165/25",
+        "V ZR 86/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bautraegeralteanlage-abnahme-maengel-gdwe/SKILL.md",
+      "sha256": "75b0755e0124e927f351a1ad1ae65a3b640b6854d58dcc742bc32eff0fec2daa",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": [
+        "VII ZR 108/24",
+        "VII ZR 68/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beirat-controlling-verwalter/SKILL.md",
+      "sha256": "dca2acb1bc44b71dfe6ec542ffa9545996f61352cddb7ede3592f824d3b78e0d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 50/25",
+        "V ZR 7/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschluesse-dokumentenmatrix-und-lueckenliste/SKILL.md",
+      "sha256": "1899a17505b7194569a9819fef93b9463aad2edec357b078c8a8c4fb263a2544",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlussanfechtung-risiko/SKILL.md",
+      "sha256": "02a53ce1ecca01615adc13d574ad02e38fa5a3a903a9b62ecbcacc0a2a68cdc6",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 105/24",
+        "V ZR 128/23",
+        "V ZR 17/24",
+        "V ZR 189/24",
+        "V ZR 190/25",
+        "V ZR 236/23"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlusssammlung-protokoll/SKILL.md",
+      "sha256": "c8903cd81612c240381dac766e1ed53d7693573483c819ec17e195aae53fd771",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 128/23",
+        "V ZR 17/24",
+        "V ZR 189/24",
+        "V ZR 190/25",
+        "V ZR 236/23"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlusssammlung-schriftsatz-brief-und-memo-bausteine/SKILL.md",
+      "sha256": "0a31f1f5c138cb4c1261c3d79f89f3f190050af5c97fc0bef93a1662b03cb155",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlussvorlagen-erstellen/SKILL.md",
+      "sha256": "3abe37cb803ef9616cf06f188f2914e7536da057fd3a7f647210f1496c21b1f6",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 165/25",
+        "V ZR 18/25",
+        "V ZR 189/24",
+        "V ZR 190/25",
+        "V ZR 236/23",
+        "V ZR 50/25",
+        "V ZR 7/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-interessen/SKILL.md",
+      "sha256": "bbb487afd3202d63c09bb95ed30eb4f7f69b0517b273e9c2fe1d5be5e05eb04f",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-mehrparteien-konflikt-und-interessen/SKILL.md",
+      "sha256": "1fe485077357afc569681f6630d42347023701aa6a51ff7f86ed026b69a77855",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-nebenkostenabrechnung/SKILL.md",
+      "sha256": "1023a70c506570ee5acbf6267cb826865bf43365b9b38d0584d2cd7cc95bd65d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "VIII ZR 118/19",
+        "VIII ZR 189/17",
+        "VIII ZR 249/15",
+        "VIII ZR 6/24",
+        "VIII ZR 66/20"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bfsg-hausverwalter-website-portal-2025/SKILL.md",
+      "sha256": "c1754a79182543a4db7b2a418a2d6376c3bc53c0c40bf428f179e5c6a1e0a49e",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/chronologie-und-belegmatrix/SKILL.md",
+      "sha256": "45bf781db7f21f9bb60e85c2acd573be1669faaa72e21b256c60c68f75f78c52",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft/SKILL.md",
+      "sha256": "9aa38c0143f46a0000dcde397d535cd8896eab35411a6538e28d85e25f2ee762",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": [
+        "C-307/22"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft-loeschung-weg/SKILL.md",
+      "sha256": "8cbc9a1f07fab59300619858acd33fb6252d79130f66cfdb26026d33c5dde8fc",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": [
+        "C-307/22"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-datenpanne-meldung-72h/SKILL.md",
+      "sha256": "9499c3be9aac91a79ca569c3155b82f6d4c3eab55374a13cf682cc5dda271a56",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-dokumentenfreigabe/SKILL.md",
+      "sha256": "3d497012032d84d2e5997fd82fb5d4d78c856e316e3cdab4f8590ec6e8babcdb",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-vvt-tom-avv-hausverwaltung/SKILL.md",
+      "sha256": "580a3f295f14db8887458fece25cfc9f4cfe9fb358644f85491d30af123f221f",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "C-708/18",
+        "V ZR 220/12"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/digitale-versammlung-screenreader-untertitel/SKILL.md",
+      "sha256": "43db125537277e8fb5dd5644afcf1af07d6497fb2cb780b5a481199e900a20ed",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 123/23",
+        "V ZR 189/24",
+        "V ZR 190/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/dokumente-intake/SKILL.md",
+      "sha256": "65ce3ed65ccad265f07b2c896ac8c5d2acd40f0d58c0cff86629fbb6850071bd",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/e-mobilitaet-steckersolar-kellerstrom/SKILL.md",
+      "sha256": "eafa29caf67d5cbbc56ef0de3fef1dc49b5ad2827d10ef86f73fe8a7b02737ca",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerkommunikation-beschwerde/SKILL.md",
+      "sha256": "89f81d2f17a244aae77f98b71ea0ec40f37f94650600b2d1a098a291768a7033",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 17/24",
+        "V ZR 18/25",
+        "V ZR 34/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerversammlung-risikoampel-und-gegenargumente/SKILL.md",
+      "sha256": "0ab56c0190d34d01927ac149cb0e0bed0d55d46d0fc5bb31170ebe9e4032f33c",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerversammlung-vorbereiten/SKILL.md",
+      "sha256": "4769cd9d284f9e01b5c0a698dfada6de55efead695385f1f0e342b8c1181de78",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 128/23",
+        "V ZR 189/24",
+        "V ZR 190/25",
+        "V ZR 236/23",
+        "V ZR 86/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/einladung-tagesordnung-fristen/SKILL.md",
+      "sha256": "acb73df4fa2faf3e8aad75f93e1c35d0a6acd829642b77c84d9d2912ff1f6aab",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 128/23",
+        "V ZR 17/24",
+        "V ZR 189/24",
+        "V ZR 190/25",
+        "V ZR 236/23",
+        "V ZR 86/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/einstieg-routing/SKILL.md",
+      "sha256": "58406e71d906a6c5d62bc06c5f7266427f012a7140e80610df3d7526f073988f",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md",
+      "sha256": "e97683f2593d35deece837ed00eb34d69d5be3a4ab139e5d484a2c7dcddab3cb",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/24",
+        "V ZR 128/23",
+        "V ZR 236/23",
+        "V ZR 50/25",
+        "V ZR 7/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eskalation-anwalt-amtsgericht/SKILL.md",
+      "sha256": "4290eb24f5e06815c25832f46efb714169963339aeb887f4e25ebb5486f8a598",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 1/24",
+        "V ZR 139/23",
+        "V ZR 17/24",
+        "V ZR 190/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/fristen-und-risikoampel/SKILL.md",
+      "sha256": "19cf7e4039c5ae8b8de30dc72b70b0006699b426a4c2e9e55a07ee57a4e435b9",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/gewerbe-restaurant-geruch-laerm-hof/SKILL.md",
+      "sha256": "36675ceed975b7b05e5b81c6f1332c04fc80c3c2e3e11fcb1ff65ee6b822dd3e",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/grossakte-konfliktlandkarte/SKILL.md",
+      "sha256": "9d8a30f3ba57a351bc36da5705a0683d87d7357dba6cf18a15e3f2eb4df7a281",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/handwerker-beauftragung-vergabe/SKILL.md",
+      "sha256": "8fb8b3c5992e87b5bdcb41fcc849199bbb8aa061f9a3c8236858979955054cc6",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 7/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/handwerker-internationaler-bezug-und-schnittstellen/SKILL.md",
+      "sha256": "678d3cd4ff94c6e1f0b88f33cabaff77a73287ac891c9d58eeaefb90ebba2bc9",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausgeld-sonderumlage-liquiditaet/SKILL.md",
+      "sha256": "10e0ed1fed82a54ac620f3c2fe7a7ad2b769787bd74ee1c83c7b708734e1f56d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 139/23",
+        "V ZR 190/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausgeld-zahlen-schwellen-und-berechnung/SKILL.md",
+      "sha256": "6686bf4cd22a653ac9496f636a6f7a045adb4234cc53c6374f817155b496d7cb",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausordnung-tauben-fahrrad-kinder/SKILL.md",
+      "sha256": "199d833450a4b7d675e1663e938fbb663a382bbcb8e589405fc4ab5e544500e9",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausordnung-tauben-fahrrad-kinder-weihnachtsbaum/SKILL.md",
+      "sha256": "52bca2cd64ac01e9bb0a8134bd1776fbb265ac09cefe5457e4d755084e545eb7",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausverwaltungs-fristen-form-und-zustaendigkeit/SKILL.md",
+      "sha256": "b8669a81ea3abd842b085beb632ea4f9e5104085dfc84a77a9543bfa311769d9",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/heizung-schaden-versicherung-notmassnahme/SKILL.md",
+      "sha256": "a499ad2af519220ef7e9aaaf4d805395a862bc210c4accdc06a5de61e62d158b",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/24",
+        "V ZR 18/25",
+        "V ZR 34/25",
+        "V ZR 69/21"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/jahresabrechnung-quellenkarte/SKILL.md",
+      "sha256": "1b2758909153b858089df0b2c98f3d98c52a2caf717dbb6f93525dac63500d14",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 195/23",
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/juristischer-argumentationskern/SKILL.md",
+      "sha256": "efe34a8624cd6b6181a01da20976a64fc11020a627f9e0e415718a66c22f0e2f",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 128/23",
+        "V ZR 18/25",
+        "V ZR 190/25",
+        "V ZR 195/23",
+        "V ZR 236/23",
+        "V ZR 50/25",
+        "V ZR 7/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kaltstart-triage/SKILL.md",
+      "sha256": "033172e93250c79c379339568e8dc7fed24486169954eadd88803be183c50cc8",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 17/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kfw-foerderung-pflegekasse-bafa-barriere/SKILL.md",
+      "sha256": "53877a4f26801f00d9435451f8896d32719ecb325e3ce9ff8fb4ea33b9292bdc",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kfw-foerderung-pflegekasse-bafa-barriere-koordination/SKILL.md",
+      "sha256": "5f652244d250deb07ce60f5dd40479958bfe9db104ab0f493e02f23b10b903de",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/mandat-belege-fristen/SKILL.md",
+      "sha256": "b73c567e9906b2164e3d46dc3209c7830206c1ac4c115baec70538bdb8bd75ed",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/mandat-objekt-triage/SKILL.md",
+      "sha256": "4fa2525a8b14fed5a4bf652b7595ac857e09634773f35e634453c4343905e569",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 17/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-akquise-neue-weg-mandate/SKILL.md",
+      "sha256": "4e78e626757e66be3e3d22e2d53f390c98d1e2e12ee1339cfd76090cdc96fb4d",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 251/21"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-newsletter-eigentuemerkommunikation/SKILL.md",
+      "sha256": "b5b3a482ed11154c5bee5ac12118fe03fa457401934c6df904cb68b8d02556af",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "VI ZR 225/17"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-website-impressum-tmg-bewertungen/SKILL.md",
+      "sha256": "98adb8ae024fc6d267c9445fc029f51a71b33cf2b63846cc5bd0811f7b29f659",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "VI ZR 1244/20",
+        "VI ZR 425/16"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-website-impressum-tmg-und-bewertungen/SKILL.md",
+      "sha256": "ad8c346cfa522f0bbd92dd031d480bb323ea861a7562b19b7c3cb23b374e31a4",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "VI ZR 1244/20",
+        "VI ZR 425/16"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/operatives-erstpruefung-und-mandatsziel/SKILL.md",
+      "sha256": "dfa586f4fd91fa3a110ff19f7d2469fbe2b6cb11310a9189dfb3ea8728230701",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/output-waehlen/SKILL.md",
+      "sha256": "97a0a054ada88ea9e4dca83b84a2978efc243e8f249869c349ccce84480dad66",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/protokoll-behoerden-gericht-und-registerweg/SKILL.md",
+      "sha256": "ac86af4702ad3e447043c54e20781f55c580a4fee66955e4668e2e3216577a44",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/protokollwerkstatt-top-marathon/SKILL.md",
+      "sha256": "6271c037a221cf0c6f493ac6bb51fcd4a48579986befb602d101ad474d1bf7d1",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/quellen-livecheck/SKILL.md",
+      "sha256": "5bbb0e7a97a2e49a4a55aa074d2fa3ab7038ec0a6ab74a3f2ee6a45efdf35c7e",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rampe-handlauf-tuerverbreiterung/SKILL.md",
+      "sha256": "3c3b32513ee18fadc0a7b7d2a8a69eff76e20d899f6c2806171abaf048cc6bf6",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich/SKILL.md",
+      "sha256": "2bb0b0a3ebf1ec2f81063dc17eb4b1f729e5a223de22b8837e891517ab1a8ce5",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rechtsstand-mai-2026-faktenbank/SKILL.md",
+      "sha256": "d8998ed45a1266343412db1d58ea82376625b99ccedc51fa8af7e6bfc52d8314",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 102/24",
+        "V ZR 105/24",
+        "V ZR 123/23",
+        "V ZR 128/23",
+        "V ZR 162/25",
+        "V ZR 165/25",
+        "V ZR 167/23",
+        "V ZR 18/25",
+        "V ZR 189/24",
+        "V ZR 190/24",
+        "V ZR 190/25",
+        "V ZR 195/23",
+        "V ZR 236/23",
+        "V ZR 244/22",
+        "V ZR 33/23",
+        "V ZR 34/24",
+        "V ZR 34/25",
+        "V ZR 50/25",
+        "V ZR 57/12",
+        "V ZR 7/25",
+        "V ZR 76/25",
+        "V ZR 86/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/sonderumlage-compliance-dokumentation-und-akte/SKILL.md",
+      "sha256": "fdbfcf52c344e5f19cdd1f6a19a4642a5cb3c75ea469f16a4bf5863d4669c2a7",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck/SKILL.md",
+      "sha256": "8f2a396fb8032040de9fa692954fe573e67c0dfd7575d8b01916def33fee5bcc",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 195/23",
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/steckersolar-wallbox-barrierefreiheit/SKILL.md",
+      "sha256": "2f1f4307fd97388e3ddba1f9af4b55cb8d02882177fcc1625c8712509232bf5a",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 1/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/stoerung-hausordnung-mieter-eigentuemer/SKILL.md",
+      "sha256": "d94f1b33b4876267cad1a72dd7ff24e9965f6e4fcade6fdecc65821b626a64ee",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 1/24",
+        "V ZR 105/24"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/top-generator-emotion-zu-beschluss/SKILL.md",
+      "sha256": "20ea257097a38f1e3d5d8aa15454c60755f5d44be35d8a42ee61985e59283362",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/unterlagen-luecken/SKILL.md",
+      "sha256": "592149f321ce3e72d9faca1a28055cc64cc4fc371f914e8476c0efc62d6dcc90",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/verwalterpflichten-26-27-weg/SKILL.md",
+      "sha256": "7611518c076191aa2d86c2703f94d37504906acabb80f551fea24b314038aefe",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 18/25",
+        "V ZR 34/24",
+        "V ZR 76/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-bauliche-formular-portal-einreichungslogik/SKILL.md",
+      "sha256": "6cb943fdfc99ce5942a3df9f63098ebe2f2a94f7bab3d58e68f6923f7f485271",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-beschluesse-dokumentenmatrix-lueckenliste-nachforderung/SKILL.md",
+      "sha256": "d2132fc2fe51048287cad67d0c641a5a617c0b9837157fb22839cb4f4263d208",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-beschlusssammlung-formfehler/SKILL.md",
+      "sha256": "d4940befcf7debc7debba49105ed389f5fe214b7a50dc720ce4e24a350e98155",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-eigentuemerversammlung-einladung-beschluss/SKILL.md",
+      "sha256": "167f5d46057fd58fadd1e8aa46c6406f63adfd8dca8cddda38a1a2c1e80b133a",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-handwerker-internationaler-bezug-schnittstellen/SKILL.md",
+      "sha256": "8e91517a813923a9b47ac30bf7b1659f7d3a500a3710d59cd6abebe4c11314bd",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-hausgeld-zahlen-schwellenwerte-berechnung/SKILL.md",
+      "sha256": "72581700dcac9f66b6056346f5af491bd0b5b941b3606cedf0c6b84d221cbaf5",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-operatives-erstpruefung-rollenklaerung-mandatsziel/SKILL.md",
+      "sha256": "46272ffc9b69eb761afbc228aca581694e2aa71191b2ab1b7f70b25bc26a8a1c",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-protokoll-behoerden-gerichts-registerweg/SKILL.md",
+      "sha256": "b52aa535a7fda893f89bc6f2d233a2c43c8d0f0313fb92568e3160bd1ab7356d",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-sonderumlage-compliance-dokumentation-aktenvermerk/SKILL.md",
+      "sha256": "835e96b86b7e81925a9cc9c0c380008f6861c40e16bc638e617915c9f1805f42",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-tatbestand-beweis-und-belege/SKILL.md",
+      "sha256": "5364134d3afdf8024a09a2431d192b575b0a9cadd23b8c87fbbc48ae33ac822d",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-tatbestandsmerkmale-beweisfragen-beleglage/SKILL.md",
+      "sha256": "52f84fe3cca7c8b22b04f927fd6e501a2a3accdc1b6a070e333918f6d6be2eeb",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-wirtschaftsplan-hausgeld/SKILL.md",
+      "sha256": "ec1bf1325cabf0a2ee7841dd93dd31b430781387907d2da04013adae3cedceb0",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-bauliche-veraenderung-beschluss-spezial/SKILL.md",
+      "sha256": "23b973e0626bcc5775304644b81fcc28a62c53349ec7a7edf002c30ec94b5c88",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-eigentuemerversammlung-bauleiter/SKILL.md",
+      "sha256": "f78a06a9ba289e9198a94fe0478eab5fdf7ea8c2000744746365e1f6716ed421",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-verwalterhaftung-spezial/SKILL.md",
+      "sha256": "be0c050cfc415049bffccaf95aca0e3922cc9be71cd6e7cc7dccb3813f45a357",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 18/25",
+        "V ZR 34/24",
+        "V ZR 76/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-wirtschaftsplan-jahresabrechnung/SKILL.md",
+      "sha256": "22f7c6c4db56b845d34119fd1d9a6c439ac21bc09a5e638696b3de842870854f",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 167/23",
+        "V ZR 195/23",
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-wirtschaftsplan-jahresabrechnung-leitfaden/SKILL.md",
+      "sha256": "2982ff1f413fea03feb971d0a0cc21ca9cb0f165e43cc0a1cbc282eaed2d2c93",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 167/23",
+        "V ZR 195/23",
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md",
+      "sha256": "eeb1daabefd6868c179627c82a87d12266e179691a1ea38a498ee4ad12c3c614",
+      "changed": true,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; gezielte fachliche Bearbeitung",
+      "case_references": [
+        "V ZR 102/23",
+        "V ZR 167/23",
+        "V ZR 195/23",
+        "V ZR 236/23",
+        "V ZR 251/21",
+        "V ZR 50/25"
+      ]
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wirtschaftsplan-verhandlung-vergleich-und-eskalation/SKILL.md",
+      "sha256": "2de8a496ac963309ef0de4aa941c78b40b130321c75eb9fb43a5f9e438f31771",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/workflow-kaltstart-und-routing/SKILL.md",
+      "sha256": "1f33d56606c26a2dd1e09b06c6bf0ff074ce4bdf98dcfa21b8dbbf150cd8e4a4",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    },
+    {
+      "path": "weg-hausverwaltung/skills/workflow-unterlagen-lueckenliste/SKILL.md",
+      "sha256": "3493b9f02d0dd93f6369b4405deb77d63f4c36e12a108ea23d8a7957db3fea51",
+      "changed": false,
+      "review": "Struktur, Frontmatter und Quellen-/Fehlzuordnungs-Suche; keine vollständige neue Sachprüfung",
+      "case_references": []
+    }
+  ],
+  "integration_note": "Elf Verweise auf die Zitierweise sind abschließend auf die identische mitinstallierte lokale Referenz umgestellt; Fachinhalt unverändert."
+}

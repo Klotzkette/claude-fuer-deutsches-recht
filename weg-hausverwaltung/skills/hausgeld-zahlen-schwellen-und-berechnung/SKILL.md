@@ -48,8 +48,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Rechtsgrundlage Forderung:** § 28 Abs. 1 WEG (Vorschuss laut Wirtschaftsplan) und § 28 Abs. 2 WEG (Nachschuss aus Jahresabrechnung). Anspruchsinhaberin ist die rechtsfähige GdWE (§ 9a WEG), nicht der einzelne Eigentümer.
 - **Verteilungsschlüssel:** § 16 Abs. 2 WEG (Miteigentumsanteil als Default); abweichende Schlüssel nur durch Vereinbarung oder Beschluss nach § 16 Abs. 2 S. 2 WEG (für einzelne Kosten möglich seit Reform 2020).
 - **Fälligkeit:** Monatlich im Voraus (üblich); konkrete Fälligkeit ergibt sich aus dem Wirtschaftsplan-Beschluss. Verzug nach § 286 Abs. 2 Nr. 1 BGB ohne Mahnung, wenn Fälligkeit kalendermäßig bestimmt.
-- **Pfändbarkeit/Vorrang:** Hausgeldforderungen genießen in der Zwangsversteigerung nach § 10 Abs. 1 Nr. 2 ZVG bevorrechtigten Rang (bis zu 5% des Verkehrswerts der letzten zwei Jahre).
-- **Praktiker-Tipp:** Vor Mahnverfahren immer den aktuellen Wirtschaftsplan-Beschluss als Titelersatzlage prüfen; Beschluss ist Voraussetzung der Fälligkeit. Bei Anfechtung bleibt der Beschluss bis zur rechtskräftigen Aufhebung wirksam (§ 23 Abs. 4 WEG).
+- **Pfändbarkeit/Vorrang:** Hausgeldforderungen genießen in der Zwangsversteigerung nach § 10 Abs. 1 Nr. 2 ZVG bevorrechtigten Rang (laufende und rückständige Beträge aus Beschlagnahmejahr und zwei Vorjahren; Höchstbetrag einschließlich Nebenleistungen fünf Prozent des nach § 74a Abs. 5 ZVG festgesetzten Werts).
+- **Praktiker-Tipp:** Vor Mahnverfahren Vorschuss-/Sonderumlagebeschluss, Zahlungsschuldner, bestimmte Beträge, Fälligkeit und tatsächliche Rückstände prüfen. Der Beschluss ist selbst kein Vollstreckungstitel; für Zwangsvollstreckung Titel und die jeweils einschlägigen besonderen Voraussetzungen gesondert prüfen. Bei Anfechtung bleibt der Beschluss bis zur rechtskräftigen Aufhebung wirksam (§ 23 Abs. 4 WEG).
 - **Stolperfalle:** Verwalter darf das Hausgeld nicht im eigenen Namen einklagen; Klägerin ist die GdWE, vertreten durch den Verwalter (§ 9b WEG).
 
 ## Qualitätsanker: WEG-Reform, Beschlussgegenstand und Abrechnungsspitze

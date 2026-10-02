@@ -1,0 +1,701 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/03_Eigentuemer_und_Vorschuesse.xlsx",
+      "sha256": "9ef3ee298649117269f4e44681d90cf9c016b4a94bb37e80e25977875930ca7e",
+      "sheets": 2,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/05_Buchhaltung_2025.xlsx",
+      "sha256": "3046fd28da96dc76ff2a1e570fa1510d01c625544cb83d476a97a375755520b0",
+      "sheets": 3,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/04_Hausgeldexport.xlsx",
+      "sha256": "de1decebee26f26c6e94e2534c47bb14102b6232b4f874bbf5c5de69bcddbd84",
+      "sheets": 2,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/29_Mietvorauszahlungen.xlsx",
+      "sha256": "ef7eaed534ee51e6403ced72a560ae0a6e266e72dc7ea5b40513738632d6ad29",
+      "sheets": 1,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/19_Kosten_und_Schaeden.xlsx",
+      "sha256": "87da46bfb15657ea1118f8e9357ad11a002764d6e0426160000c76e4d51e158c",
+      "sheets": 3,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_final_cache",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/27_Kosten_und_Termine.xlsx",
+      "sha256": "620871ed34c03556adb09280d5fa0cc658aff4eeffce8eda9a2185b46defd354",
+      "sheets": 2,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/03_Eigentuemer_und_Vorschuesse.xlsx",
+      "sheet": "Vorschuesse",
+      "input": "F5",
+      "value": 3840,
+      "output": "G10",
+      "expected": 0,
+      "actual": 0,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/05_Buchhaltung_2025.xlsx",
+      "sheet": "Kosten",
+      "input": "B8",
+      "value": 0,
+      "output": "B11",
+      "expected": 21960,
+      "actual": 21960,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/04_Hausgeldexport.xlsx",
+      "sheet": "Eigentuemerkosten",
+      "input": "B12",
+      "value": 0,
+      "output": "D13",
+      "expected": 5166,
+      "actual": 5166,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/29_Mietvorauszahlungen.xlsx",
+      "sheet": "Mietkonto",
+      "input": "C13",
+      "value": 0,
+      "output": "C14",
+      "expected": 3080,
+      "actual": 3080,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/19_Kosten_und_Schaeden.xlsx",
+      "sheet": "Gemeinschaft",
+      "input": "B4",
+      "value": 0,
+      "output": "D5",
+      "expected": 952,
+      "actual": 952,
+      "status": "pass"
+    },
+    {
+      "type": "libreoffice_input_change",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/27_Kosten_und_Termine.xlsx",
+      "sheet": "Kosten",
+      "input": "C4",
+      "value": 714,
+      "output": "D7",
+      "expected": 535.5,
+      "actual": 535.5,
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "26_Versand_Abrechnung.eml",
+      "attachments": [
+        {
+          "file": "17_Gesamtabrechnung_Entwurf.docx",
+          "sha256": "3a756e16952ddb78e04f595137d64a851a694cc92bab56516815b0f5b99ffb7e"
+        },
+        {
+          "file": "21_Einzelabrechnung_WE04.docx",
+          "sha256": "ae620cb22b802ff58772e5be5c099f37005e81df42c73fd54e2bc5b0c76ccdc6"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "27_Popescu_Rueckfrage.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "29_Anfrage_Hausmeister.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "30_Antwort_Hausmeister.eml",
+      "attachments": [
+        {
+          "file": "13_Hausmeister_Leistungsnachweis.docx",
+          "sha256": "4c4694a6332905e2f20fd1db012c83662a84e156f22793e524a3c797bb087ad8"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "35_Buchung_Nachzahlung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-lindenhof-jahresabrechnung-2025",
+      "file": "36_Auftrag_Fassung_zwei.eml",
+      "attachments": [
+        {
+          "file": "28_Beiratsnotiz.docx",
+          "sha256": "15f0ec2f8bc12c8bf25f9f7fbb1afe94175199cf0b76a639863cf26f5dfe4833"
+        },
+        {
+          "file": "35_Buchung_Nachzahlung.eml",
+          "sha256": "b67693ab18f16e85b01482092e559e8023723780b4e69f12ebcc7829bd09e78f"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "19_Versand_an_Mieter.eml",
+      "attachments": [
+        {
+          "file": "18_Mieterabrechnung_Vorfassung.docx",
+          "sha256": "c8ce76811dd2e0708bc464a5fdb93d96c249ae190866ab84e8e67003476aef51"
+        },
+        {
+          "file": "03_WEG_Jahresabrechnung.docx",
+          "sha256": "f6d6bd87a4dff74fefb124d94ba0d8b917f53046348aa0a012a71742a7510161"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "21_Einwendungen_Mieter.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "22_Hausverwaltung_an_Eigentuemer.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "23_Terminangebot_Belege.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "24_Mieter_Terminbestaetigung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "28_Eigentuemer_Beauftragung.eml",
+      "attachments": [
+        {
+          "file": "02_Mietvertrag.docx",
+          "sha256": "bfea676aa51324a7c856e5ac7a413074dfaf9461416fc27ff9cfa96174fd1032"
+        },
+        {
+          "file": "30_Antwortbrief_Vorfassung.docx",
+          "sha256": "889336b4768add69428071fc443dc6c2862d4a2923835fcceb6a92a85334f397"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "31_Belege_an_Vermieter.eml",
+      "attachments": [
+        {
+          "file": "11_Gasrechnung.docx",
+          "sha256": "bca5b67c3f059beb929ea1b48ad47abf26ae3fbbd63a5169af6692c4c5132090"
+        },
+        {
+          "file": "12_Heizkostenabrechnung.docx",
+          "sha256": "579b8788e08788221bbb256276d760c3c88b59c8ce634117ddc633d00857bd6e"
+        },
+        {
+          "file": "14_CO2_Liefernachweis.docx",
+          "sha256": "32d07cfbb9cab812c8248b4f4e2afd2c5caab16234f084480b8b52af996fa7dd"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-spreebogen-mieterumlage-belege",
+      "file": "32_Bearbeitungsauftrag_Nachtrag.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "03_Erste_Meldung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "07_Hummel_Erinnerung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "08_Hausmeister_Antwort.eml",
+      "attachments": [
+        {
+          "file": "09_Arbeitszettel_August.docx",
+          "sha256": "683a0ff5ebda90aeab4b84d1990c71e3d76f4d6d319c4fbbc66d762c60c0c0ab"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "12_Werkzeugmeldung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "14_Schadenmeldung_Gebaeude.eml",
+      "attachments": [
+        {
+          "file": "04_Besichtigungsprotokoll.docx",
+          "sha256": "a988b65dba65174f9e95cacc2884db1276cd78e7d2782a80ec253a1187759e76"
+        },
+        {
+          "file": "06_Notdienstrechnung.docx",
+          "sha256": "c5cf7e6f944dbe8e3f2c4949c408d20ed64cd7aa5fa775090a8ea8e5f6c14917"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "15_Versicherer_Nachforderung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "16_Hausratversicherung_Mieterin.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "21_Beirat_Drei_Angebote.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "22_Verteilung_nach_Wohnungen.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "23_Mieterin_an_Vermieter.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "24_Vermieter_Weiterleitung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "28_Tischler_Termin.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "29_Versicherer_Besichtigung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-kastanienhof-kellerdiebstahl",
+      "file": "32_Nachtrag_Bearbeitungsauftrag.eml",
+      "attachments": [
+        {
+          "file": "31_Telefonnotiz_Broesel.txt",
+          "sha256": "bb8739e1ec034a10e2a4f60930e031f1142570e3d18f80fdfb27c1a2b7f4984f"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "03_Erstmeldung_Mieter.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "04_Vermieterin_Beauftragt_Befund.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "07_Meldung_an_Verwaltung.eml",
+      "attachments": [
+        {
+          "file": "05_Befund_Wohnung4.docx",
+          "sha256": "1bf7fc8c7546f8c2005831fb6b56cc945136da34c75f8eca015804116f898421"
+        },
+        {
+          "file": "06_Rechnung_Erstbesichtigung.docx",
+          "sha256": "61787244e60b991e9d007f2d255f7453830c0349d0af4c346c340fdee4c85560"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "08_Folgemeldung_Wohnung5.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "13_Zugangsabstimmung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "14_Abweichender_Termin.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "15_Bestaetigung_Dienstleister.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "21_Schreck_Will_Umlage.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "23_Mieterin_Widerspricht.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "25_Erstattungsbitte_Mieter.eml",
+      "attachments": [
+        {
+          "file": "24_Waschereibeleg.docx",
+          "sha256": "abb934e826a0e7f1c9497d788a6443ff5698e72b8df7d467f3647db1bc62809d"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "29_Beirat_Kostenfrage.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "31_Vermieterin_Klaert_Auftrag.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "case": "weg-sonnenwinkel-bettwanzen",
+      "file": "32_Abschlussauftrag_Verwaltung.eml",
+      "attachments": [
+        {
+          "file": "27_Kosten_und_Termine.xlsx",
+          "sha256": "620871ed34c03556adb09280d5fa0cc658aff4eeffce8eda9a2185b46defd354"
+        },
+        {
+          "file": "28_Angebot_Oktoberkontrolle.docx",
+          "sha256": "f1380751c9b5d8449b3933264c272d756cac2a6909ddc3eb21fcc3e2fca7c1be"
+        }
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/10_Stromrechnung.docx",
+      "net": "605.04",
+      "vat": "114.96",
+      "gross": "720",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/11_Reinigung.docx",
+      "net": "3025.21",
+      "vat": "574.79",
+      "gross": "3600",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/12_Hausmeisterrechnung.docx",
+      "net": "4033.61",
+      "vat": "766.39",
+      "gross": "4800",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/14_Dachreparatur.docx",
+      "net": "2016.81",
+      "vat": "383.19",
+      "gross": "2400",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-lindenhof-jahresabrechnung-2025/15_Verwalterhonorar.docx",
+      "net": "3226.89",
+      "vat": "613.11",
+      "gross": "3840",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/08_Reinigung.docx",
+      "net": "2420.17",
+      "vat": "459.83",
+      "gross": "2880",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/09_Hausmeister.docx",
+      "net": "2420.17",
+      "vat": "459.83",
+      "gross": "2880",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/10_Allgemeinstrom.docx",
+      "net": "887.39",
+      "vat": "168.61",
+      "gross": "1056",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/11_Gasrechnung.docx",
+      "net": "14521.01",
+      "vat": "2758.99",
+      "gross": "17280",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/15_Verwalterentgelt.docx",
+      "net": "3226.89",
+      "vat": "613.11",
+      "gross": "3840",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-spreebogen-mieterumlage-belege/16_Dachrechnung.docx",
+      "net": "5042.02",
+      "vat": "957.98",
+      "gross": "6000",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/06_Notdienstrechnung.docx",
+      "net": "200",
+      "vat": "38",
+      "gross": "238",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/10_Kaufbeleg_E_Bike.docx",
+      "net": "1931.93",
+      "vat": "367.07",
+      "gross": "2299",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/11_Kaufbeleg_Kinderfahrrad.docx",
+      "net": "352.94",
+      "vat": "67.06",
+      "gross": "420",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/17_Angebot_Tuer_Reparatur.docx",
+      "net": "600",
+      "vat": "114",
+      "gross": "714",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/18_Angebot_Schliessung.docx",
+      "net": "1000",
+      "vat": "190",
+      "gross": "1190",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-kastanienhof-kellerdiebstahl/20_Angebot_Kameras.docx",
+      "net": "2400",
+      "vat": "456",
+      "gross": "2856",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/06_Rechnung_Erstbesichtigung.docx",
+      "net": "250",
+      "vat": "47.50",
+      "gross": "297.50",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/10_Angebot_Kiezklar.docx",
+      "net": "1200",
+      "vat": "228",
+      "gross": "1428",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/11_Vergleichsangebot.docx",
+      "net": "420",
+      "vat": "79.80",
+      "gross": "499.80",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/17_Rechnung_Erster_Einsatz.docx",
+      "net": "1200",
+      "vat": "228",
+      "gross": "1428",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/19_Rechnung_Kontrolle.docx",
+      "net": "600",
+      "vat": "114",
+      "gross": "714",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/20_Angebot_Fugenabdichtung.docx",
+      "net": "450",
+      "vat": "85.50",
+      "gross": "535.50",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/24_Waschereibeleg.docx",
+      "net": "72.61",
+      "vat": "13.79",
+      "gross": "86.40",
+      "status": "pass"
+    },
+    {
+      "type": "invoice_net_vat_gross",
+      "file": "testakten/weg-sonnenwinkel-bettwanzen/28_Angebot_Oktoberkontrolle.docx",
+      "net": "300",
+      "vat": "57",
+      "gross": "357",
+      "status": "pass"
+    },
+    {
+      "type": "independent_cross_document_cash_heating_allocations",
+      "status": "pass",
+      "scope": "Lindenhof MEA, Monatsrundung, Bank, Rücklage und Vorfassung; Spreebogen Flächen, Verbrauch, CO₂ und Vorauszahlung; Kastanienhof MEA; Sonnenwinkel Kostenarten"
+    }
+  ]
+}

@@ -57,3 +57,9 @@ Videoaufzeichnung der Versammlung nur mit ausdrücklicher Einwilligung aller Tei
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. Paragrafen 23 bis 25 und 48 WEG im aktuellen Gesetzestext prüfen. BGH, Urteil vom 20.09.2024 - V ZR 123/23, in der amtlichen Entscheidungsdatenbank abrufen. Funktionen eingesetzter Konferenzsysteme ändern sich mit Software-Updates und sind vor jeder Versammlung praktisch zu testen.
+
+## Umlaufbeschluss und Stimmrechte: Entscheidungen 2026
+
+BGH, Urt. v. 17.07.2026 – Az. V ZR 190/25, Rn. 11–18 und 30–34: Absenkungsbeschluss nach § 23 Abs. 3 Satz 2 WEG und nachfolgenden Sachbeschluss getrennt protokollieren, verkünden und in der Fristenakte führen. Die Nichtigkeit/Anfechtung der Absenkung macht den Folgebeschluss nicht automatisch nichtig; dessen Bestandskraft kann das Interesse am Angriff gegen die verbrauchte Absenkung entfallen lassen. BGH, Urt. v. 27.02.2026 – Az. V ZR 189/24, Rn. 14–24: Ein Ausschluss von Tiefgarageneigentümern bei Verwalterbestellung und § 28-Entscheidungen ist nichtig. Bei anderen objektbezogenen Angelegenheiten Vereinbarung, Betroffenheit und Kosten gesondert prüfen; nicht sämtliche Stimmrechtsregelungen einer Mehrhausanlage gleich behandeln.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

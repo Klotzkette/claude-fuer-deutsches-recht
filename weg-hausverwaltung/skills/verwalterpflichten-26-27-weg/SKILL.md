@@ -1,66 +1,52 @@
 ---
 name: verwalterpflichten-26-27-weg
-description: "Für Verwalterpflichten Paragrafen 26. 27 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Prüft Bestellung, Vertrag, Außenvertretung und interne Befugnisse der WEG-Verwaltung; erstellt einen konkreten Handlungs- und Haftungsvermerk zu Auftrag, Eilmaßnahme oder Pflichtverletzung."
 ---
 
-# Verwalterpflichten §§ 26, 27 WEG
+# Verwalterbefugnisse, Haftung und Regress
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 26, §§ 535, §§ 18.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Kläre, wer eine konkrete Maßnahme entscheiden, beauftragen und bezahlen darf und wer bei einem belegten Fehler in Anspruch zu nehmen ist. Liefere einen handlungsfähigen Kompetenzvermerk und den beauftragten Brief, Beschluss oder Vertragsentwurf.
 
-## Fachkern: Verwalterpflichten §§ 26, 27 WEG
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Stand: 05/2026.
+Bestellungsbeschluss mit Laufzeit, Verwaltervertrag, konkrete Ermächtigungsbeschlüsse, Gemeinschaftsordnung, Auftrag, Auftragswert, Dringlichkeit, Versicherungsvertrag und dokumentierten Schaden lesen. Bei unklarer Eilkompetenz nach dem bei Abwarten drohenden Nachteil und dem Zeitfenster einer möglichen Beschlussfassung fragen.
 
-## Ziel
+## 3. Ablauf und fachliche Weichen
 
-Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was braucht Beschluss, was muss sofort passieren — und wer haftet wem gegenüber?
+### 3.1. Bestellung und Außenvertretung
 
-## Prüfpunkte
+§ 26 WEG: Höchstens fünf Jahre; nur die erste Bestellung nach Begründung des Wohnungseigentums höchstens drei Jahre. Wiederbestellung erfordert neuen Beschluss, frühestens ein Jahr vor Ablauf. Abberufung jederzeit; Vertragsende spätestens sechs Monate später. Nicht „drei Jahre nach jeder ersten Bestellung eines neuen Verwalters“ behaupten.
 
-- **Bestellung / Laufzeit / Abberufung** (§ 26 WEG): jederzeitige Abberufbarkeit; Bestellung höchstens 5 Jahre (3 Jahre nach erster Bestellung).
-- **Aufgaben / Befugnisse** (§ 27 WEG):
- - Maßnahmen ordnungsmäßiger Verwaltung von untergeordneter Bedeutung (Bagatellen, keine erheblichen Folgen).
- - Maßnahmen zur Wahrung einer Frist oder zur Abwendung eines Nachteils (Eilmaßnahmen).
- - Vertretung der GdWE im Außenverhältnis (§ 9b WEG).
-- **Informationspflichten**: Belege, Beschlusssammlung (§ 24 Abs. 7 WEG), Vermögensbericht (§ 28 Abs. 4 WEG), Jahresabrechnung.
-- **Haftungsraster** seit WEMoG:
- - Verwaltervertrag entfaltet **keine** Schutzwirkung für einzelne Eigentümer — Ansprüche aus Pflichtverletzungen laufen über die GdWE: BGH, Urteil vom 05.07.2024, V ZR 34/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=05.07.2024&Aktenzeichen=V+ZR+34/24).
- - Anspruch auf Erstellung der Jahresabrechnung richtet sich gegen die GdWE, nicht persönlich gegen den Verwalter: BGH, Urteil vom 19.04.2024, V ZR 167/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23).
- - Einzeleigentümer kann dennoch die GdWE auf Schadensersatz in Anspruch nehmen; die GdWE nimmt anschließend Regress beim Verwalter.
+§ 9b WEG begründet Außenvertretung, aber keine unbegrenzte interne Entscheidungsermächtigung. Für Grundstückskauf und Darlehen ist auch im gesetzlichen Vertretungsrahmen ein Eigentümerbeschluss erforderlich. Beim Vorgehen der Gemeinschaft gegen den Verwalter Vertretung nach § 9b Abs. 2 WEG sicherstellen.
 
-## Kompetenzmatrix (Beispiele, immer einzelfallabhängig)
+### 3.2. Innenbefugnis
 
-| Maßnahme | Allein-Befugnis Verwalter | Beschluss erforderlich | Anmerkung |
-| --- | --- | --- | --- |
-| Routine-Instandhaltung (Glühbirne, kleine Reparatur) | ja | nein | Bagatell-Schwelle prüfen (TE, GO, Verwaltervertrag) |
-| Erhaltungsmaßnahme mittlerer Größe | ggf. ja, wenn untergeordnete Bedeutung | bei substantieller Tragweite | Vergleichsangebote dokumentieren |
-| Sanierungsbeschluss > Bagatell | nein | ja | Wirtschaftsplan / Sonderumlage |
-| Eilmaßnahme zur Schadensabwehr (Wasserrohrbruch) | ja | nein | Sofortige Information GdWE/Beirat |
-| Bauliche Veränderung § 20 WEG | nein | ja | Auflagen und Kostenfolge im Beschluss |
-| Verwalter-Abberufung | nein | ja (jederzeit, § 26 Abs. 3 WEG) | Wirksamkeit Bestellung ≠ Vertragsbeendigung |
-| Klage / Eilrechtsschutz | abhängig von Beschluss / Eilkompetenz | meist ja | Abstimmung mit Beirat / Anwalt |
+§ 27 Abs. 1 Nr. 1 WEG erfordert untergeordnete Bedeutung und keine erheblichen Verpflichtungen; Nr. 2 betrifft notwendige Fristwahrung oder Nachteilsabwehr. Größe, Folgen, Laufzeit und bestehende Delegationsbeschlüsse konkret prüfen. Keine feste gesetzliche Euro-Bagatellgrenze setzen. Ein bloßer Hinweis auf den Wirtschaftsplan ersetzt nicht jede Auftragsentscheidung. Erweiterung/Einschränkung nach Abs. 2 anhand konkreten Beschlusses prüfen.
 
-## Eskalationsgründe
+Notdienst zum Stoppen eines Wasseraustritts und umfassende Sanierung sind verschiedene Maßnahmen. Dokumentiere Zeitpunkt der Kenntnis, Gefahr, gewählte Sofortmaßnahme, Kostenrahmen, spätere Beschlussvorbereitung und Information. Nachträglicher Beschluss kann sinnvoll sein, ersetzt aber nicht die Aufarbeitung einer vorherigen Kompetenzüberschreitung.
 
-- Pflichtverletzung mit erheblichem Schaden (Versicherung, Heizung, Wasserschaden, Verzug Abrechnung).
-- Interessenkonflikt (Eigengeschäft, Provision, verbundene Unternehmen) ohne Offenlegung.
-- Wiederholt verspätete Jahresabrechnung / fehlender Vermögensbericht.
-- Verweigerung der Belegeinsicht.
-- Nichteinhaltung des CO2KostAufG (Datenbereitstellung) oder GEG-Pflichten (z. B. Heizungstausch-Beschlussvorlage).
+### 3.3. Erfüllung und Haftung
 
-## Cross-Refs
+Die Gemeinschaft schuldet dem Eigentümer ordnungsmäßige Verwaltung (§ 18 WEG); der Verwalter erfüllt die Aufgaben für sie. Der Verwaltervertrag hat keine Schutzwirkung für einzelne Eigentümer, BGH, Urt. v. 05.07.2024 – Az. V ZR 34/24, Rn. 18–23. Unmittelbare deliktische Ansprüche bleiben ausdrücklich möglich (Rn. 24). Eigenen Anspruch des Eigentümers gegen die GdWE, Regress der GdWE gegen Verwalter und etwaige Direktansprüche deshalb getrennt prüfen.
 
-- Beschlussvorlage / Neubestellung → `beschlussvorlagen-erstellen`
-- Beiratskontrolle → `beirat-controlling-verwalter`
-- Jahresabrechnung / Vermögensbericht → `wirtschaftsplan-jahresabrechnung-28-weg`
-- Eskalation Gericht → `eskalation-anwalt-amtsgericht`
+BGH, Urt. v. 27.02.2026 – Az. V ZR 18/25, Rn. 6–7 und 16–24: keine automatische Garantiehaftung für jeden Mangel. Kenntnis/Kennenmüssen, Pflichtverletzung, gebotene Reaktionszeit, Kausalität, hypothetischer Ablauf und Mitverschulden belegen. Für Integritätsschäden ist nicht stets eine Mahnung erforderlich; reine Verzögerung der Leistung gesondert prüfen. Mietausfall nicht ohne zulässige Nutzung und nachgewiesene Höhe übernehmen.
 
-## Quellenpflicht
+Ein faktischer Verwalter wird durch unwirksame Bestellung nicht pflichtenfrei: BGH, Urt. v. 30.01.2026 – Az. V ZR 76/25, Rn. 18–19. Dies legitimiert sein Handeln nicht nachträglich und begründet keine automatische Vertretungsmacht.
 
-`rechtsstand-mai-2026-faktenbank` laden. § 26, § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__26.html, https://www.gesetze-im-internet.de/woeigg/__27.html .
+### 3.4. Informationspflichten
+
+Beschlusssammlung unverzüglich pflegen (§ 24 Abs. 7 WEG), Jahresabrechnung vorbereiten, Vermögensbericht jedem Eigentümer zur Verfügung stellen (§ 28 Abs. 4 WEG) und Einsicht nach § 18 Abs. 4 WEG organisieren. Eigentümer nicht mit der Aussage abweisen, nur der Beirat dürfe Belege sehen. Antworten nach Verwaltungs- und Mietverhältnis unterscheiden.
+
+## 4. Quellenpflicht
+
+[Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) für die konkret berührten Fragen lesen. Die amtlichen Entscheidungslinks, Randnummern und Anwendungsgrenzen dort beachten; Normstand anhand der verlinkten Einzelnormen prüfen. Nach [Zitierweise](../../references/zitierweise.md) zitieren. Keine Literaturfundstellen aus Modellwissen und keine Entscheidung nur wegen eines ähnlichen Schlagworts übernehmen.
+
+## 5. Ausgabeformat
+
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+
+## 6. Beispiel
+
+Ein undichter Steigstrang wurde dreimal gemeldet, die Verwaltung veranlasste erst sechs Wochen später eine Untersuchung. Erstelle einen chronologischen Haftungsvermerk mit dem frühesten gebotenen Handlungstermin und einem vorläufig bezifferten Schaden. Behaupte weder sofortige Vollhaftung für den ursprünglichen Rohrbruch noch vollständige Immunität des Verwalters.

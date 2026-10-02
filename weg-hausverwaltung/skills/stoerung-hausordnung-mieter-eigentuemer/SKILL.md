@@ -74,3 +74,9 @@ Störungen geordnet aufnehmen, Beweise sichern und die richtige Adressatenkette 
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 14 WEG: https://www.gesetze-im-internet.de/woeigg/__14.html ; § 1004 BGB: https://www.gesetze-im-internet.de/bgb/__1004.html .
+
+## Diebstahl und Befall als eigene Vorgänge
+
+Bei Diebstahl Täterverdacht, objektiven Vorfall, Schloss-/Gebäudeschaden, entwendetes Privateigentum und Versicherung getrennt dokumentieren. Für Bettwanzen Fachbefund, Wohnungs-/Gemeinschaftsbereiche, erforderliche Zugänge, Behandlung und Nachkontrolle organisieren; keine Schuldzuweisung allein aus Meldung, Reisetätigkeit oder Hygienevorwurf. Hausordnung begründet keinen automatischen Schadenersatz- oder Zutrittsanspruch. Für Mietkosten, Behördeninformationen und Kameraeingriffe die [Miet-/Befalls-/Datenschutzreferenz](../../references/miete-befall-datenschutz-oktober-2026.md) heranziehen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

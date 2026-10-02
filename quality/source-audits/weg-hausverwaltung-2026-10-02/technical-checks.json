@@ -1,0 +1,749 @@
+{
+  "date": "2026-10-02",
+  "initial_commands": 104,
+  "corrective_commands": 10,
+  "effective_commands": 104,
+  "all_effective_passed": true,
+  "method": "104 initiale Prüfkommandos; drei Fehler korrigiert und zehn betroffene oder angrenzende Prüfungen erneut ausgeführt. Erfolgreiche Wiederholungen ersetzen die früheren Befunde. Keine Aussage über die noch offenen menschlichen Rubrikkriterien.",
+  "commands": [
+    {
+      "name": "test-skill-map-references.mjs",
+      "arguments": [
+        "--test",
+        "scripts/test-skill-map-references.mjs"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "audit-generated-prompt-hygiene.py",
+      "arguments": [
+        "scripts/audit-generated-prompt-hygiene.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "audit-prompt-profile-routing.py",
+      "arguments": [
+        "scripts/audit-prompt-profile-routing.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "audit-quickstart-usability.py",
+      "arguments": [
+        "scripts/audit-quickstart-usability.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "audit-skill-activation.py",
+      "arguments": [
+        "scripts/audit-skill-activation.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "audit-skill-selection.py",
+      "arguments": [
+        "scripts/audit-skill-selection.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "quality-lab.py",
+      "arguments": [
+        "scripts/quality-lab.py",
+        "audit"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "quality-lab.py",
+      "arguments": [
+        "scripts/quality-lab.py",
+        "audit",
+        "--require-editorial",
+        "--require-workflow",
+        "--catalog",
+        "QUALITY.md"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "run-eval.py",
+      "arguments": [
+        "scripts/run-eval.py",
+        "--quiet",
+        "--structural-only"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-antidiskriminierung-agg.py",
+      "arguments": [
+        "scripts/test-antidiskriminierung-agg.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-anwaltschaft-vertragswerkstatt.py",
+      "arguments": [
+        "scripts/test-anwaltschaft-vertragswerkstatt.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-arbeitsrecht-asset-deal.py",
+      "arguments": [
+        "scripts/test-arbeitsrecht-asset-deal.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-arbeitszeugnispruefer.py",
+      "arguments": [
+        "scripts/test-arbeitszeugnispruefer.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-einbeck.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-einbeck.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-hildesheim-lebensakte.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-hildesheim-lebensakte.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-hildesheim.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-hildesheim.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-hoai-1-3.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-hoai-1-3.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-hoai-4-6.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-hoai-4-6.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-hoai-7-9.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-hoai-7-9.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-kaufmaennisch.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-kaufmaennisch.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft-northeim.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft-northeim.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bauwirtschaft.py",
+      "arguments": [
+        "scripts/test-bauwirtschaft.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-bea-versandmappe.py",
+      "arguments": [
+        "scripts/test-bea-versandmappe.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-betriebskosten-hausverwaltung.py",
+      "arguments": [
+        "scripts/test-betriebskosten-hausverwaltung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-complete-package.py",
+      "arguments": [
+        "scripts/test-complete-package.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-datenschutz-fanpage-quellen.py",
+      "arguments": [
+        "scripts/test-datenschutz-fanpage-quellen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-digitaler-omnibus.py",
+      "arguments": [
+        "scripts/test-digitaler-omnibus.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-eigenbedarfskuendigungschecker.py",
+      "arguments": [
+        "scripts/test-eigenbedarfskuendigungschecker.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-einfache-sprache-pakete.py",
+      "arguments": [
+        "scripts/test-einfache-sprache-pakete.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-enteignung-artikel-14.py",
+      "arguments": [
+        "scripts/test-enteignung-artikel-14.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-fachpruefer-integration.py",
+      "arguments": [
+        "scripts/test-fachpruefer-integration.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-fintech-bremen.py",
+      "arguments": [
+        "scripts/test-fintech-bremen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-geldwaeschepraevention.py",
+      "arguments": [
+        "scripts/test-geldwaeschepraevention.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-generate-megaprompt.py",
+      "arguments": [
+        "scripts/test-generate-megaprompt.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-gmbh-gesellschafterversammlung.py",
+      "arguments": [
+        "scripts/test-gmbh-gesellschafterversammlung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-grundsteuer-wolkenfels.py",
+      "arguments": [
+        "scripts/test-grundsteuer-wolkenfels.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-grundsteuerrecht.py",
+      "arguments": [
+        "scripts/test-grundsteuerrecht.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-insolvenzforderungen-asset-deal.py",
+      "arguments": [
+        "scripts/test-insolvenzforderungen-asset-deal.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-insolvenzforderungen-baeckerei.py",
+      "arguments": [
+        "scripts/test-insolvenzforderungen-baeckerei.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-insolvenzforderungen-checker.py",
+      "arguments": [
+        "scripts/test-insolvenzforderungen-checker.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-insolvenzforderungen-export.py",
+      "arguments": [
+        "scripts/test-insolvenzforderungen-export.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-juristische-praesentationen.py",
+      "arguments": [
+        "scripts/test-juristische-praesentationen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-ki-verordnung-hochrisiko-pruefer.py",
+      "arguments": [
+        "scripts/test-ki-verordnung-hochrisiko-pruefer.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-ki-verordnung-transparenzpruefer.py",
+      "arguments": [
+        "scripts/test-ki-verordnung-transparenzpruefer.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-kompakte-wirtschaftspakete.py",
+      "arguments": [
+        "scripts/test-kompakte-wirtschaftspakete.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-legal-calculators.py",
+      "arguments": [
+        "scripts/test-legal-calculators.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-liquiditaetsplanung-excel.py",
+      "arguments": [
+        "scripts/test-liquiditaetsplanung-excel.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-liquiditaetsplanung-rechenlogik.mjs",
+      "arguments": [
+        "scripts/test-liquiditaetsplanung-rechenlogik.mjs"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-marketplace-import.py",
+      "arguments": [
+        "scripts/test-marketplace-import.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-mietchecker.py",
+      "arguments": [
+        "scripts/test-mietchecker.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-modefuchs-lebensakte.py",
+      "arguments": [
+        "scripts/test-modefuchs-lebensakte.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-notariatswerkstatt.py",
+      "arguments": [
+        "scripts/test-notariatswerkstatt.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-office-resilience.py",
+      "arguments": [
+        "scripts/test-office-resilience.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-official-plugin-validation.py",
+      "arguments": [
+        "scripts/test-official-plugin-validation.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-pflegerecht-sgb-xi.py",
+      "arguments": [
+        "scripts/test-pflegerecht-sgb-xi.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-portable-starts.py",
+      "arguments": [
+        "scripts/test-portable-starts.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-prompt-generator-excerpts.py",
+      "arguments": [
+        "scripts/test-prompt-generator-excerpts.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-prompt-hygiene-links.py",
+      "arguments": [
+        "scripts/test-prompt-hygiene-links.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-prompt-publication-profiles.py",
+      "arguments": [
+        "scripts/test-prompt-publication-profiles.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-prompt-routing-scope.py",
+      "arguments": [
+        "scripts/test-prompt-routing-scope.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-prompt-workflow-preservation.py",
+      "arguments": [
+        "scripts/test-prompt-workflow-preservation.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-quality-lab.py",
+      "arguments": [
+        "scripts/test-quality-lab.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-readme-navigation.py",
+      "arguments": [
+        "scripts/test-readme-navigation.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-registerakten-print-profile.py",
+      "arguments": [
+        "scripts/test-registerakten-print-profile.py",
+        "--native",
+        "build-evidence/qa/checks-native/registerakten-print-qa"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-registerwerkstaetten.py",
+      "arguments": [
+        "scripts/test-registerwerkstaetten.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-release-assets.py",
+      "arguments": [
+        "scripts/test-release-assets.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-release-routing.py",
+      "arguments": [
+        "scripts/test-release-routing.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-run-eval.py",
+      "arguments": [
+        "scripts/test-run-eval.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-schadensregulierung.py",
+      "arguments": [
+        "scripts/test-schadensregulierung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-schnittflug-erweiterung.py",
+      "arguments": [
+        "scripts/test-schnittflug-erweiterung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-schnittflug-finanz-native.py",
+      "arguments": [
+        "scripts/test-schnittflug-finanz-native.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-schriftsatz-versandwerkstatt.py",
+      "arguments": [
+        "scripts/test-schriftsatz-versandwerkstatt.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-schwerpunkt-coverage.py",
+      "arguments": [
+        "scripts/test-schwerpunkt-coverage.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-sektorenvergabe-workflow.py",
+      "arguments": [
+        "scripts/test-sektorenvergabe-workflow.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-skill-selection.py",
+      "arguments": [
+        "scripts/test-skill-selection.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-startup-gruender.py",
+      "arguments": [
+        "scripts/test-startup-gruender.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-strassennutzung.py",
+      "arguments": [
+        "scripts/test-strassennutzung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakte-bwa-abstimmung.py",
+      "arguments": [
+        "scripts/test-testakte-bwa-abstimmung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakte-pdf-build.py",
+      "arguments": [
+        "scripts/test-testakte-pdf-build.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakte-pohlmann-fristen.py",
+      "arguments": [
+        "scripts/test-testakte-pohlmann-fristen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakte-projektordner.py",
+      "arguments": [
+        "scripts/test-testakte-projektordner.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakten-email-quality.py",
+      "arguments": [
+        "scripts/test-testakten-email-quality.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-testakten-ohne-loesungen.py",
+      "arguments": [
+        "scripts/test-testakten-ohne-loesungen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-vergesellschaftung-artikel-15.py",
+      "arguments": [
+        "scripts/test-vergesellschaftung-artikel-15.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-vertragserstellung-kassel-akte.py",
+      "arguments": [
+        "scripts/test-vertragserstellung-kassel-akte.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-vertragserstellung-mandatsakten.py",
+      "arguments": [
+        "scripts/test-vertragserstellung-mandatsakten.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-weg-hausverwaltungsakten.py",
+      "arguments": [
+        "scripts/test-weg-hausverwaltungsakten.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-wirtschaftsanwalt-hannover-akte.py",
+      "arguments": [
+        "scripts/test-wirtschaftsanwalt-hannover-akte.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "test-zugewinnausgleich.py",
+      "arguments": [
+        "scripts/test-zugewinnausgleich.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-current-law-sentinels.py",
+      "arguments": [
+        "scripts/validate-current-law-sentinels.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-markdown-structure.py",
+      "arguments": [
+        "scripts/validate-markdown-structure.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-marketplace-import.mjs",
+      "arguments": [
+        "scripts/validate-marketplace-import.mjs"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-plugin-structure.mjs",
+      "arguments": [
+        "scripts/validate-plugin-structure.mjs"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-readme-navigation.py",
+      "arguments": [
+        "scripts/validate-readme-navigation.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-root-readme-overview.py",
+      "arguments": [
+        "scripts/validate-root-readme-overview.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-runtime-performance.py",
+      "arguments": [
+        "scripts/validate-runtime-performance.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakte-bwa-abstimmung.py",
+      "arguments": [
+        "scripts/validate-testakte-bwa-abstimmung.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-csv.py",
+      "arguments": [
+        "scripts/validate-testakten-csv.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-dokumentqualitaet.py",
+      "arguments": [
+        "scripts/validate-testakten-dokumentqualitaet.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-gesamt-pdf.py",
+      "arguments": [
+        "scripts/validate-testakten-gesamt-pdf.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-keine-markdown-aktenstuecke.py",
+      "arguments": [
+        "scripts/validate-testakten-keine-markdown-aktenstuecke.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-ohne-loesungen.py",
+      "arguments": [
+        "scripts/validate-testakten-ohne-loesungen.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-testakten-readme-downloads.py",
+      "arguments": [
+        "scripts/validate-testakten-readme-downloads.py"
+      ],
+      "returncode": 0
+    },
+    {
+      "name": "validate-yaml-frontmatter.py",
+      "arguments": [
+        "scripts/validate-yaml-frontmatter.py"
+      ],
+      "returncode": 0
+    }
+  ]
+}

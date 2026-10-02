@@ -1,6 +1,6 @@
 ---
 name: betriebskosten-nebenkostenabrechnung
-description: "Für Betriebskosten und Nebenkosten in der WEG-Verwaltung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Erstellt oder prüft die Mietbetriebskostenabrechnung aus WEG-Belegen; trennt nicht umlagefähige Anteile und beantwortet konkrete Einwendungen zu Wirtschaftlichkeit, Verbrauch und Belegeinsicht."
 ---
 
 # Betriebskosten und Nebenkosten in der WEG-Verwaltung
@@ -15,7 +15,7 @@ description: "Für Betriebskosten und Nebenkosten in der WEG-Verwaltung: ordnet 
 - **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
 - **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
 
-Stand: 05/2026.
+Aktualisierte Kernprüfung: 02.10.2026.
 
 ## Ziel
 
@@ -38,11 +38,11 @@ Eine WEG-Einzelabrechnung ist kein fertiger Mieternebenkostenbescheid. Sie ist R
 
 - **Umlagefähigkeit** nach Mietvertrag (Klausel auf BetrKV verweisend) und BetrKV (https://www.gesetze-im-internet.de/betrkv/).
 - **Abrechnungszeitraum**: in der Regel Kalenderjahr; muss im Mietvertrag oder konsequent praktiziert sein.
-- **Zugangsfrist**: Vermieter muss innerhalb von **12 Monaten** ab Ende des Abrechnungszeitraums abrechnen (§ 556 Abs. 3 BGB — https://www.gesetze-im-internet.de/bgb/__556.html). Nach Ablauf nur noch zugunsten des Mieters Korrekturen möglich.
+- **Zugangsfrist**: Vermieter muss innerhalb von **12 Monaten** ab Ende des Abrechnungszeitraums abrechnen (§ 556 Abs. 3 BGB — https://www.gesetze-im-internet.de/bgb/__556.html). Nach Fristablauf ist die Geltendmachung einer Nachforderung grundsätzlich ausgeschlossen, außer der Vermieter hat die Verspätung nicht zu vertreten; Ausnahme konkret belegen, nicht allein auf verspätete WEG-Unterlagen verweisen.
 - **Verteilerschlüssel** nach Mietvertrag, Wohnfläche, Verbrauch oder Einheiten; bei Heizung/Warmwasser zwingend nach HeizkostenV: verbrauchsabhängiger Anteil mindestens 50 % und höchstens 70 %, der restliche Anteil (30 % bis 50 %) nach Wohnfläche oder umbautem Raum (§§ 7, 8 HeizkostenV — https://www.gesetze-im-internet.de/heizkostenv/). Der häufige Schlüssel 70/30 (70 % Verbrauch, 30 % Fläche) ist eine zulässige Ausgestaltung innerhalb dieser Bandbreite, nicht die einzige.
 - **HeizkostenV**: Erfassung, Verteilung, Ablesung, Zwischenablesung bei Mieterwechsel.
-- **Nicht umlagefähig**: Verwaltungskosten, Instandsetzung/Erhaltung (vs. Wartung), Bankgebühren ohne Vertragsgrundlage, Reparaturen, Erhaltungsrücklage.
-- **Belegeinsicht** nach Aufforderung; Vermieter muss Einsicht ermöglichen, ggf. gegen Kostenerstattung Kopien.
+- **Nicht umlagefähig**: Verwaltungskosten, Instandsetzung/Erhaltung (vs. Wartung), Bank-/Finanzierungskosten im Wohnraummietrecht, Reparaturen, Erhaltungsrücklage.
+- **Belegeinsicht** nach Aufforderung; Vermieter muss Einsicht ermöglichen, nach § 556 Abs. 4 BGB auch elektronische Bereitstellung möglich; vollständigen, lesbaren und tatsächlich nutzbaren Zugang prüfen.
 - **Einwendungen** des Mieters: innerhalb 12 Monaten ab Zugang der Abrechnung (§ 556 Abs. 3 Satz 5 BGB).
 
 ## WEG-spezifische Übersetzung
@@ -65,9 +65,9 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 ## CO2KostAufG (seit 01.01.2023)
 
 - Verteilung der CO₂-Kosten zwischen Vermieter und Mieter nach Zehn-Stufen-Modell (kg CO₂/m²·a).
-- Hoch-Emissionsgebäude: Vermieter trägt 95 %, Mieter 5 %. EH-55-Neubau: Mieter 100 %.
+- Hoch-Emissionsgebäude: Vermieter trägt 95 %, Mieter 5 %. Unter 12 kg CO₂/m²·a trägt der Mieter nach der Anlagentabelle 100 %; eine Gebäudeklasse allein ersetzt den tatsächlichen Emissionswert nicht.
 - Nichtwohngebäude: derzeit grundsätzlich hälftige Aufteilung, kein verbindliches Stufenmodell "ab 2025" behaupten.
-- WEG-Abrechnung sollte die für die Stufenermittlung erforderlichen Daten (Brennstoffmenge, Emissionsfaktor, Energieausweis-Werte) liefern, damit der vermietende Eigentümer die Aufteilung mietvertraglich umsetzen kann.
+- WEG-Abrechnung sollte die für die Stufenermittlung erforderlichen Daten (Brennstoff-/Wärmemenge, Emissionsfaktor, CO₂-Menge/-Kosten, maßgebliche Fläche und Zeitraum) liefern, damit der vermietende Eigentümer die gesetzliche Aufteilung und Pflichtangaben korrekt umsetzen kann.
 - Quelle: https://www.gesetze-im-internet.de/co2kostaufg/
 
 ## Mietpreisbremse — Schnittstelle
@@ -104,3 +104,21 @@ Seit der WEG-Reform beschließen Eigentümer nicht mehr die Jahresabrechnung "al
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. BetrKV: https://www.gesetze-im-internet.de/betrkv/ ; HeizkostenV: https://www.gesetze-im-internet.de/heizkostenv/ ; § 556 BGB: https://www.gesetze-im-internet.de/bgb/__556.html ; CO2KostAufG: https://www.gesetze-im-internet.de/co2kostaufg/ .
+
+## Beleggestützte Überleitung und 2026-Prüfung
+
+Zuerst Mietvertrag und Abrechnungsjahr lesen. Ohne abweichende Mietvereinbarung § 556a Abs. 3 BGB beim vermieteten Wohnungseigentum prüfen; ein WEG-Schlüssel heilt keine nicht umlagefähige Kostenposition. BGH, Urt. v. 25.01.2017 – Az. VIII ZR 249/15, Rn. 20–27: WEG-Beschluss ist keine Voraussetzung der Mietabrechnung. Damalige Ausführungen zum Schlüssel nicht ungeprüft über den später eingeführten § 556a Abs. 3 stellen.
+
+Rechnung, Leistungszeit, Zahlung, Gutschrift, tatsächlich angefallene Kosten und Umlageanteil verknüpfen. WEG-Abrechnungsspitze aus Soll-Vorschüssen bilden; Zahlungsrückstände und tatsächlich geleistete Mietervorauszahlungen in eigenen Rechenkreisen führen. Hausmeister-/Vollwartungsverträge nach laufendem Betrieb, Verwaltung und Reparatur aufteilen. BGH, Urt. v. 20.05.2026 – Az. VIII ZR 6/24, Rn. 56–60: nicht umlagefähige Bestandteile nachvollziehbar aussondern, keine frei erfundene Pauschale.
+
+Wirtschaftlichkeitsrüge mit Mietereinwendungsfrist abgleichen (VIII ZR 6/24, Rn. 27–33). Fehlende Vergleichsangebote beweisen für sich keine objektive Überteuerung (Rn. 35–46); konkrete Vergleichbarkeit, Leistungsumfang und Preise prüfen. Dies ist nicht die WEG-Beschlussprüfung des Handwerkerauftrags.
+
+Belegeinsicht umfasst auch Zahlungsbelege (VIII ZR 118/19, Rn. 12–17) und bei der Heizkostenkontrolle relevante Einzelverbrauchsdaten anderer Nutzer (VIII ZR 189/17, Rn. 15–18). Allgemeines Kontrollinteresse genügt. Seit 01.01.2025 gestattet § 556 Abs. 4 Satz 2 BGB elektronische Bereitstellung; keine allgemeine Papieroriginalpflicht aus VIII ZR 66/20 fortschreiben. WEG-Einsicht nach § 18 Abs. 4 getrennt behandeln.
+
+HeizkostenV § 12 Abs. 1 gewährt seine Kürzungsrechte nicht im Verhältnis Eigentümer/GdWE. CO₂-Regeln nach Abrechnungsperiode und Anlage prüfen: Die 2026 verkündeten zusätzlichen hälftigen Belastungen aus § 5a CO2KostAufG beginnen in den erfassten Fällen erst 2028 beziehungsweise 2029; keine Rückrechnung auf 2025. Nachweise für gesetzliche Ausnahmen, etwa öffentlich-rechtliche Beschränkungen, verlangen.
+
+Einmalige Bettwanzenbekämpfung ist nicht allein wegen § 2 Nr. 9 BetrKV laufender Betriebsaufwand. Mehrere Termine desselben Ausbruchs bleiben anlassbezogen. Schadenersatz wegen Verursachung gesondert mit Verschulden/Beweisen prüfen; meldende Bewohner nicht automatisch belasten.
+
+Liefer die vollständige Überleitung mit Beleg-ID, Eigentümerposition, Rechtsgrundlage im Mietvertrag, ausgeschiedenem Betrag, Mieterschlüssel, Vorauszahlungen und Zugangstag. Daraus den konkreten Eigentümerbrief und, falls beauftragt, eine separate Mietabrechnung samt Antwort auf Einwendungen ausformulieren. Fehlende Belege mit gezieltem Anforderungsschreiben benennen, ohne unbelegte Zahlungsbeträge als feststehend zu behaupten.
+
+Amtliche Links, tatsächlich geprüfte Randnummern und Grenzen: [Miet-, Befalls- und Datenschutzreferenz](../../references/miete-befall-datenschutz-oktober-2026.md).

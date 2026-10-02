@@ -45,7 +45,7 @@ Pro Beschluss:
 - Unklare Kostenrahmen machen Bau- und Sonderumlagebeschlüsse angreifbar.
 - Bei virtueller Versammlung § 23 Abs. 1a WEG und Übergangsrecht prüfen — ohne Grundlagenbeschluss keine rein virtuelle Versammlung.
 - **Vorbefassungsfähig** ist ein TOP nur dann, wenn der spätere Beschlusswortlaut bestimmt verlangt werden konnte — sonst scheitert die Beschlussersetzungsklage. Maßstab BGH, Urteil vom 14.02.2025, V ZR 86/24 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+86/24).
-- Schlüsseländerung in der TOP **mit sachlichem Grund** vorbereiten (BGH V ZR 236/23, V ZR 128/23 vom 14.02.2025).
+- Schlüsseländerung in der TOP mit konkreter Begründung und Belastungsvergleich vorbereiten; keinen besonderen Änderungsgrund für jede Fallgruppe voraussetzen (BGH V ZR 236/23, V ZR 128/23 vom 14.02.2025).
 
 ## Fristen-Cheatsheet
 
@@ -53,8 +53,8 @@ Pro Beschluss:
 | --- | --- | --- |
 | 3 Wochen vor Termin | Einladung zugegangen | § 24 Abs. 4 WEG |
 | 1 Monat ab Beschluss | Beschlussanfechtungsklage erheben | § 45 Satz 1 WEG |
-| 2 Monate ab Beschluss | Klagebegründung (Ausschlussfrist) | § 45 Satz 1 WEG; BGH V ZR 33/23 vom 09.02.2024 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+33/23) |
-| 1 Jahr ab Ablauf Monatsfrist | Erkundigungsobliegenheit Kläger bei Zustellungsverzug | BGH V ZR 17/24 vom 25.10.2024 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24) |
+| 2 Monate ab Beschluss | Klagebegründung (Ausschlussfrist) | § 45 Satz 1 WEG |
+| Äußerste Einjahresgrenze nach Ablauf der Monatsfrist und vollständig erfüllter eigener Mitwirkung | Keine allgemeine Wartefrist; Zustellung, Vorschuss und Rückfragen aktiv nachhalten | BGH V ZR 17/24 vom 25.10.2024 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.10.2024&Aktenzeichen=V+ZR+17/24) |
 | Eintragung Beschlusssammlung | unverzüglich nach Verkündung | § 24 Abs. 7 WEG |
 
 ## Musterelemente Einladung
@@ -85,3 +85,9 @@ Pro Beschluss:
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html ; § 23 Abs. 1a WEG: https://www.gesetze-im-internet.de/woeigg/__23.html .
+
+## Umlaufbeschluss und Stimmrechte: Entscheidungen 2026
+
+BGH, Urt. v. 17.07.2026 – Az. V ZR 190/25, Rn. 11–18 und 30–34: Absenkungsbeschluss nach § 23 Abs. 3 Satz 2 WEG und nachfolgenden Sachbeschluss getrennt protokollieren, verkünden und in der Fristenakte führen. Die Nichtigkeit/Anfechtung der Absenkung macht den Folgebeschluss nicht automatisch nichtig; dessen Bestandskraft kann das Interesse am Angriff gegen die verbrauchte Absenkung entfallen lassen. BGH, Urt. v. 27.02.2026 – Az. V ZR 189/24, Rn. 14–24: Ein Ausschluss von Tiefgarageneigentümern bei Verwalterbestellung und § 28-Entscheidungen ist nichtig. Bei anderen objektbezogenen Angelegenheiten Vereinbarung, Betroffenheit und Kosten gesondert prüfen; nicht sämtliche Stimmrechtsregelungen einer Mehrhausanlage gleich behandeln.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

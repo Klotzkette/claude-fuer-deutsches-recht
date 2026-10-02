@@ -1,6 +1,6 @@
 {
   "name": "eigenbedarfskuendigungschecker",
-  "version": "445.27.0",
+  "version": "445.28.0",
   "description": "Eigenbedarfskuendigungen fuer Mieter und Vermieter pruefen: Bedarfsperson, Nutzungswunsch, Form, Fristen, Umwandlungsschutz und Haertewiderspruch. Zehn Skills fuehren zu begruendeten Schreiben und tragfaehigen Vereinbarungen; mit zwei vollstaendigen Fallakten.",
   "license": "Apache-2.0 OR MIT",
   "author": {

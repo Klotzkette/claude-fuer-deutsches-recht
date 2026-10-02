@@ -1,80 +1,56 @@
 ---
 name: wirtschaftsplan-jahresabrechnung-28-weg
-description: "Für Wirtschaftsplan und Jahresabrechnung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Erstellt oder prüft Wirtschaftsplan, Jahresabrechnung und Vermögensbericht einer GdWE; trennt Sollvorschüsse, Zahlungen und Nachschüsse und formuliert Abrechnungsbeschluss oder Eigentümerbrief."
 ---
 
-# Wirtschaftsplan und Jahresabrechnung
+# Wirtschaftsplan, Jahresabrechnung und Vermögensbericht
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Erstelle oder überprüfe die Jahresunterlagen einer GdWE und liefere die konkreten Einzelabrechnungen, einen belegten Korrekturvermerk und den erforderlichen Beschlussentwurf. Jahresabrechnung, Vorschussbeschluss, Zahlungsrückstände und Mietabrechnung bleiben eigene Rechenkreise. Rechtsstand der geprüften Anker: 02.10.2026.
 
-## Fachkern: Wirtschaftsplan und Jahresabrechnung
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Stand: 05/2026.
+Zuerst vorhandene Gemeinschaftsordnung, Kostenbeschlüsse, Wirtschaftsplan einschließlich beschlossener Soll-Vorschüsse, Buchungsjournal, Konten sämtlicher Banken, Rechnung/Gutschrift/Zahlung, Eigentümerwechsel, Einzelabrechnungen, Rücklagenspiegel und Heizkostenunterlagen lesen. Nur fehlende Angaben erfragen, die Berechnung oder Beschluss verändern: Welche Fassung wurde beschlossen, wann tatsächlich gezahlt, welche Forderung sollte eine Zahlung tilgen und welcher Schlüssel galt?
 
-## Ziel
+## 3. Ablauf und fachliche Weichen
 
-Finanzunterlagen der GdWE verwaltungspraktisch und beschlussrechtlich kontrollieren. Nach § 28 Abs. 1 WEG wird über Vorschüsse auf Kosten und Rücklagen auf Grundlage des Wirtschaftsplans beschlossen; nach Absatz 2 über Nachschüsse und Anpassung beschlossener Vorschüsse auf Grundlage der Jahresabrechnung. Plan und Abrechnung als Rechenwerke sind von diesen Zahlungspflichten zu trennen (BGH, Urteil vom 19.07.2024, V ZR 102/23: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
+### 3.1. Rechnungskette und Geldkonten
 
-## Prüfblöcke
+Jede Rechnung einmal mit eindeutiger Beleg-ID erfassen und Leistungszeit, Aussteller, Rechnungsempfänger, Brutto, Zahlungstag, Kontoauszug und Auftrag/Beschluss verknüpfen. Rechnungskopie, Mahnung und Zahlung sind nicht drei Aufwendungen. Bei fehlendem Beleg Duplikat anfordern, bekannte Bankbewegung erhalten und die Beleglücke offen ausweisen; keine Lieferantenrechnung oder Steuerangabe erfinden.
 
-- Abrechnungszeitraum, Kontenbestand, Erhaltungsrücklage, Vermögensbericht (§ 28 Abs. 4 WEG).
-- Einnahmen/Ausgaben, Kostenarten, Schlüssel, Einzelabrechnungen.
-- Nachschüsse und Anpassung der Vorschüsse als Beschlussgegenstand (§ 28 Abs. 2 WEG).
-- Wirtschaftsplan: laufende Kosten, Rücklagenzuführung, Sonderumlage, Liquidität.
-- Belegeinsicht, Abgrenzung, HeizkostenV, Schnittstelle zur mietrechtlichen Betriebskostenabrechnung (§ 556 BGB).
-- CO₂-Kosten: WEG-Abrechnung sollte Daten liefern, die der vermietende Eigentümer für die Aufteilung nach CO2KostAufG braucht (Stufe nach Energiebedarf kg CO₂/m²·a).
+Anfangsbestände plus externe Zuflüsse minus externe Abflüsse mit allen Endbeständen abstimmen. Umbuchungen zwischen Giro- und Rücklagenkonto in der Gesamtsicht eliminieren. Nicht mit schematischen Buchungssätzen „Rücklage = Aufwand“ arbeiten. Tatsächlich gebundene Rücklagenmittel, beschlossene Zuführung, offene Rücklagenforderungen und Bankguthaben getrennt erläutern. Ausgaben für Erhaltung und ihre Finanzierung aus Rücklage nicht doppelt verteilen.
 
-## Schlüsseländerungen (§ 16 Abs. 2 Satz 2 WEG)
+### 3.2. Soll, Ist und Abrechnungsspitze
 
-- Mehrheitsbeschluss möglich, aber nicht voraussetzungslos.
-- Abkehr von gegenstandsbezogener Kostentrennung (z. B. Tiefgarage) entspricht regelmäßig nicht ordnungsmäßiger Verwaltung **ohne** sachlichen Grund — BGH, Urteil vom 14.02.2025, V ZR 236/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+236/23).
-- Verteilungsschlüssel der Erhaltungsrücklage kann per Mehrheit geändert werden, wenn für das alte Privileg kein sachlicher Grund (mehr) besteht — BGH, Urteil vom 14.02.2025, V ZR 128/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23).
-- Sachgrund **schriftlich** in der Beschlussbegründung dokumentieren.
+Die nach § 28 Abs. 2 WEG zu beschließende Spitze ist aus dem auf den Eigentümer entfallenden abzurechnenden Betrag und den wirksam beschlossenen Soll-Vorschüssen zu ermitteln. Tatsächliche Zahlungseingänge werden separat gegenübergestellt. Hausgeldrückstände bleiben auf ihrem ursprünglichen Rechtsgrund bestehen; sie werden weder neu als Abrechnungsspitze begründet noch als Gebäudekosten verteilt. Zweckgebundene Sonderumlage und Rücklagenanteil eigens abgleichen. BGH, Urt. v. 20.09.2024 – Az. V ZR 195/23, Rn. 7–10 und 17: Fehler des Zahlenwerks sind für die Anfechtung des Zahlungsbeschlusses nur bei Betragsrelevanz entscheidend. Das beseitigt keine Pflicht zu korrekten Unterlagen.
 
-## Mustertext Beschluss "Abrechnungsspitzen"
+### 3.3. Verteilung und Heizkosten
 
-> Die Wohnungseigentümer beschließen auf der Grundlage der Jahresabrechnung [Jahr] (Anlage [X]) folgende Abrechnungsspitzen:
-> 1. Nachschüsse / Anpassung der Vorschüsse gemäß Einzelabrechnungen (Anlage [Y]).
-> 2. Fälligkeit der Nachschüsse: [Datum]. Guthaben werden bis [Datum] mit nächsten Hausgeldzahlungen verrechnet.
-> 3. Der Vermögensbericht zum [Stichtag] wird zur Kenntnis genommen (§ 28 Abs. 4 WEG, Anlage [Z]).
+Kostenart mit Teilungserklärung, Vereinbarung und zeitlich maßgeblichem Beschluss abgleichen. § 16 Abs. 2 WEG und § 21 WEG auseinanderhalten. Einen geplanten Wechsel je Einheit absolut und prozentual gegenüberstellen: BGH, Urt. v. 24.04.2026 – Az. V ZR 50/25, Rn. 13–23, verlangt angemessene Interessenwahrung statt bloßer Willkürkontrolle. Bei unterschiedlich großen Einheiten ist gleiche Belastung für Heizungserneuerung regelmäßig problematisch; nicht mit gleichem Zugang zur Heizung rechtfertigen. Objektbezogene Kostentrennung nach V ZR 236/23 gesondert prüfen.
 
-## Anspruch auf Erstellung
+Heizkostenabrechnung auf Verbrauch, Ablesezeitraum, Nutzerwechsel, Grund-/Verbrauchsanteile und nachvollziehbare Überleitung zu den tatsächlich geflossenen Zahlungen prüfen. CO₂-Daten sind tatsächlicher Ausstoß je Quadratmeter und Jahr, keine bloße Energiebedarfszahl. Für vermietete Einheiten liefert die Verwaltung nachvollziehbare Daten; mietrechtliche Verteilung und Pflichtangaben gesondert prüfen.
 
-- Anspruch auf Erstellung der Jahresabrechnung richtet sich gegen die GdWE, nicht persönlich gegen den Verwalter — BGH, Urteil vom 19.04.2024, V ZR 167/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.04.2024&Aktenzeichen=V+ZR+167/23).
-- Bei laufendem Verfahren gegen den (alten) Verwalter ist Parteiwechsel auf die GdWE im Regelfall sachgerecht.
+### 3.4. Vermögensbericht und Korrektur
 
-## Red Flags
+§ 28 Abs. 4 WEG verlangt Stand der Rücklagen und wesentliches Gemeinschaftsvermögen. Offene Forderungen/Verbindlichkeiten und Versicherungsleistungen zur Erklärung des Vermögensstands ergänzen. Bericht jedem Eigentümer zur Verfügung stellen; kein weiterer Zahlungsbeschluss und keine handelsrechtliche Bilanz.
 
-- Beschlusswortlaut genehmigt pauschal "die Abrechnung" ohne Trennung von Abrechnungsspitzen — auslegungsfähig (V ZR 102/23), aber besser von Anfang an klar formulieren.
-- Schlüsseltausch ohne dokumentierten sachlichen Grund (V ZR 236/23, V ZR 128/23).
-- Rücklagenentnahme ohne Beschlussklarheit (Zweckbindung, Betrag, Zeitpunkt).
-- Vermögensbericht fehlt oder wurde nicht zur Einsicht angeboten.
-- Belege fehlen oder Summen passen nicht zum Kontostand zum Bilanzstichtag.
-- CO₂-Aufteilung nicht vorbereitet → vermietende Eigentümer können Daten nicht weitergeben.
+Fehler vor Beschlussfassung mit nachvollziehbarer Versionsänderung korrigieren. Nach Beschlussfassung Bestimmtheit, Betragsrelevanz, Bestandskraft und neuen Beschlussbedarf prüfen. Ein aufgehobener vorgelagerter Kostenverteilungsbeschluss erfordert eine korrigierte Abrechnung und erneute Beschlussfassung nach BGH, Urt. v. 16.06.2023 – Az. V ZR 251/21; nicht pauschal jede wirksame Forderung durch Austausch einer Datei beseitigen.
 
-## Buchungs-Beispiele (Schemata)
+### 3.5. Ausformulierter Beschluss und Versand
 
-- Hausgeld-Vorauszahlung (Einnahme GdWE): Bank an Hausgeld-Forderung Eigentümer.
-- Erhaltungsrücklage-Zuführung: Hausgeld-Erlös an Rücklagenkonto (separate Bankverbindung empfohlen).
-- Rücklagenentnahme für beschlossene Maßnahme: Rücklagenkonto an Bank/Rechnung Handwerker.
-- Sonderumlage: Sonderumlage-Forderung Eigentümer an Sonderumlage-Erlös; Bank an Sonderumlage-Forderung bei Zahlung.
+Der Beschluss muss die neue Zahlungspflicht erkennen lassen, beispielsweise: „Die Wohnungseigentümer beschließen die in der als Anlage 1 beigefügten Aufstellung vom [Datum], Version [Nummer], je Einheit bezifferten Nachschüsse und Anpassungen der für [Jahr] beschlossenen Vorschüsse. Die Aufstellung ist Bestandteil dieses Beschlusses. Die Nachschüsse sind am [Datum] fällig. Erstattungsbeträge werden am [Datum] ausgezahlt. Bereits bestehende Vorschussforderungen werden durch diesen Beschluss nicht neu begründet.“ Eine gewünschte Verrechnung gesondert auf Rechtsgrundlage und konkrete Gegenforderung prüfen.
 
-## Cross-Refs
+Eigentümeranschreiben erläutert Betrag, Rechtsgrund, Fälligkeit und Einsichtsweg. Bei bloßem Entwurf noch keine beschlossene Forderung behaupten. BGH V ZR 102/23, Rn. 6–9, erlaubt zwar die Auslegung älterer Genehmigungsformeln, ersetzt aber nicht klare neue Formulierungen. Der individuelle Anspruch auf Erstellung richtet sich gegen die GdWE (V ZR 167/23, Rn. 12).
 
-- Liquiditätsprüfung, Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
-- Beleg- und Vergabekontrolle → `beirat-controlling-verwalter`, `handwerker-beauftragung-vergabe`
-- Anfechtungsrisiko → `beschlussanfechtung-risiko`
-- Mietrechtsschnittstelle → `betriebskosten-nebenkostenabrechnung`
+## 4. Quellenpflicht
 
-## Quellenpflicht
+[Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) für die konkret berührten Fragen lesen. Die amtlichen Entscheidungslinks, Randnummern und Anwendungsgrenzen dort beachten; Normstand anhand der verlinkten Einzelnormen prüfen. Nach [Zitierweise](../../references/zitierweise.md) zitieren. Keine Literaturfundstellen aus Modellwissen und keine Entscheidung nur wegen eines ähnlichen Schlagworts übernehmen.
 
-- BGH, Urteil vom 20.09.2024 - V ZR 195/23: Ein Fehler der zugrunde liegenden Jahresabrechnung trägt die Ungültigerklärung des Beschlusses nach Paragraf 28 Absatz 2 Satz 1 WEG nur, wenn er sich auf Abrechnungsspitze und Zahlungspflicht auswirkt.
-- BGH, Urteil vom 14.02.2025 - V ZR 128/23: Paragraf 16 Absatz 2 Satz 2 WEG verleiht Beschlusskompetenz auch für die Änderung des Verteilungsschlüssels bei Zuführungen zur Erhaltungsrücklage; Bestimmtheit und ordnungsmäßige Verwaltung bleiben gesondert zu prüfen.
+## 5. Ausgabeformat
 
-`rechtsstand-mai-2026-faktenbank` zwingend laden. Rechtsprechungsaussagen nur mit Gericht, Datum, Aktenzeichen und offen prüfbarer Quelle.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+
+## 6. Beispiel
+
+Der Kostenanteil beträgt 4.100 EUR, Soll-Vorschüsse 3.600 EUR und darauf geleistete Zahlungen 3.000 EUR. Liefere eine Spitze von 500 EUR und daneben den Vorschussrückstand von 600 EUR, jeweils mit Rechtsgrund und Fälligkeit. Erkläre die Differenz verständlich im Eigentümerbrief und übernehme nicht 1.100 EUR als neue Abrechnungsspitze.

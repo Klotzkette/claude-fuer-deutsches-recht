@@ -38,9 +38,9 @@ Neue WEG-Mandate werden über unterschiedliche Kanäle gewonnen. Der Skill struk
 
 ## Verwaltervertrag: Rechtliche Eckpunkte
 
-§ 26 WEG trennt Bestellung (körperschaftlicher Akt der GdWE, Beschluss) vom schuldrechtlichen Verwaltervertrag. Höchstvertragslaufzeit: Erstverwaltung 3 Jahre, Wiederwahl 5 Jahre (§ 26 Abs. 1 WEG). Norm: https://www.gesetze-im-internet.de/woeigg/__26.html
+§ 26 WEG trennt Bestellung (körperschaftlicher Akt der GdWE, Beschluss) vom schuldrechtlichen Verwaltervertrag. Höchstdauer der Bestellung: fünf Jahre, bei der ersten Bestellung nach Begründung des Wohnungseigentums drei Jahre (§ 26 Abs. 2 WEG). Nicht jede Bestellung eines neuen Unternehmens ist eine solche Erstbestellung. Vertragslaufzeit und spätestes Vertragsende sechs Monate nach Abberufung nach Abs. 3 gesondert prüfen. Norm: https://www.gesetze-im-internet.de/woeigg/__26.html
 
-BGH, Urteil vom 14.10.2022, V ZR 251/21: Sonderhonorare für außerordentliche Leistungen (z. B. Baubetreuung) bedürfen gesonderter vertraglicher Grundlage; pauschal in der Grundvergütung enthaltene Tätigkeiten sind nicht zusätzlich abrechenbar. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.10.2022&Aktenzeichen=V+ZR+251%2F21
+Sondervergütungen anhand des konkreten Verwaltervertrags und der Transparenz-/AGB-Kontrolle prüfen: Grund- und Zusatzleistung, Auslöser, Bemessung und mögliche Doppelabrechnung offenlegen. V ZR 251/21 ist kein Sonderhonorarurteil; der frühere Verweis wird nicht fortgeführt.
 
 Wettbewerbsrechtliche Grenzen: Keine irreführenden Kostenersparnisversprechen ohne nachweisliche Grundlage (§ 5 UWG). Norm: https://www.gesetze-im-internet.de/uwg_2004/__5.html
 

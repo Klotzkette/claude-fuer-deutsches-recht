@@ -1,0 +1,151 @@
+{
+  "run": "one sequential agent, same context; not independent models",
+  "case": "weg-sonnenwinkel-bettwanzen",
+  "request": "Die Verwaltung will dem Bewohner alle Kosten aufgeben und mit Generalschlüssel Zugang nehmen. Entwickle den nächsten rechtlich und praktisch belastbaren Arbeitsschritt, dokumentiere offene Tatsachen und verfasse erste Kommunikation.",
+  "request_sha256": "3b6c34efdba2d5e736144c36250571b2d3f1f90f63b775122034f07dac70ccec",
+  "prompt": "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md",
+  "prompt_sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+  "inputs": [
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/01_Auftrag_Bettwanzen.docx",
+      "sha256": "4561ba51056e9b40713753524c9e8b886a7710b97ec1e0f04144879e3cbcec58"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/02_Objekt_Mietverhaeltnisse.docx",
+      "sha256": "af772714c2ecfaf2c5d1ddf7fbb4d43d0ca18e3f1eed00148d566bcc162f910c"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/03_Erstmeldung_Mieter.eml",
+      "sha256": "d81ec5955fc839a233fa4dc8c34ea16d370d2d2bfceace159347ed056f2589b1"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/04_Vermieterin_Beauftragt_Befund.eml",
+      "sha256": "3681949bfea30480e17974d41c8fc320e784e625cce12895ff8a9552c4a09ac5"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/05_Befund_Wohnung4.docx",
+      "sha256": "1bf7fc8c7546f8c2005831fb6b56cc945136da34c75f8eca015804116f898421"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/06_Rechnung_Erstbesichtigung.docx",
+      "sha256": "61787244e60b991e9d007f2d255f7453830c0349d0af4c346c340fdee4c85560"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/07_Meldung_an_Verwaltung.eml",
+      "sha256": "10b8ce82b53879d96fe47696e77236479a4bb7b75401c9109e801747dc796aae"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/08_Folgemeldung_Wohnung5.eml",
+      "sha256": "c4233fe3eb6cc9813f41a3503b4420da49c5d1d28dbb5c7c419570024b86c4cc"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/09_Folgebefund_Wohnung5.docx",
+      "sha256": "bc8fd37681b7f9ff716a7690693ede999beffa7414f9c38111139de2efa16a5b"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/10_Angebot_Kiezklar.docx",
+      "sha256": "2359b3542c19eb966a64b6cb866e34337c638ee067488fc5d54340e9dd2fb0d0"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/11_Vergleichsangebot.docx",
+      "sha256": "9f63eb5dbd74286f3e8fb965f636aca22ff71fc056967508ac3d41e80c431437"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/12_Beschluss_Abgestimmtes_Vorgehen.docx",
+      "sha256": "a166138125014c8beac5ae75b66bbe8488b7d0815ac39743af5ae209597fb840"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/13_Zugangsabstimmung.eml",
+      "sha256": "0cbbef3bd5d0d55efd718a000ac466619c0a02c08f0630226c6de967b7bd2b4c"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/14_Abweichender_Termin.eml",
+      "sha256": "f2cb585245a821b25132e8e75aa4bc871d967113d82a1df16bb7cbc4eb450a9e"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/15_Bestaetigung_Dienstleister.eml",
+      "sha256": "19df207ecf62253bb68f0062dc262ab9b8f4da00ffd4e62828d11b0c8ee8ea58"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/16_Einsatzbericht_Erster_Termin.docx",
+      "sha256": "a0a32cca51ced8ab81c4a77187b170f432f481d7d5d5ba41b852a9a7e38e9ff2"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/17_Rechnung_Erster_Einsatz.docx",
+      "sha256": "c54a53cd71a770b6c4cbec61cf6712e66b9818b69e092cd90f1eba54ddbd52d9"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/18_Kontrollbericht.docx",
+      "sha256": "893a88ab6c20f8538d0c5d23c2a6bf01be528678b046a21a67819d16a5c9ae4d"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/19_Rechnung_Kontrolle.docx",
+      "sha256": "e233a7922aff275068f9057e51b237e6d347acae2fa6d9b7413be7dcda6762ab"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/20_Angebot_Fugenabdichtung.docx",
+      "sha256": "73302f56532b1a9605291b9f7c38b3b506945aa2e98438998685602c98dabe35"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/21_Schreck_Will_Umlage.eml",
+      "sha256": "92537cd088878d9ebeee804e05410e1f5ef21fc6f5fda5437b5a65a88f73cc3f"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/22_Mietvertrag_Wohnung5.docx",
+      "sha256": "595e548099bd91da42fac521688d42f7a8f825adccc6a1e849d8e8a5d05d7c55"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/23_Mieterin_Widerspricht.eml",
+      "sha256": "767726833879c10d9f7100a436570bcf7a6a82fc8bab3362650ccae9a1502b65"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/24_Waschereibeleg.docx",
+      "sha256": "abb934e826a0e7f1c9497d788a6443ff5698e72b8df7d467f3647db1bc62809d"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/25_Erstattungsbitte_Mieter.eml",
+      "sha256": "9b6ad1139458334e99c8fdf4dadb7ed32643da87456d89fa9d58722ec058bae3"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/26_Hauschat_Befall.txt",
+      "sha256": "2af7d2bc659c1123a5ab7c4d6caeafe05001f6ebe75e583ed0c6b1b8cafd6b90"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/27_Kosten_und_Termine.xlsx",
+      "sha256": "620871ed34c03556adb09280d5fa0cc658aff4eeffce8eda9a2185b46defd354"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/28_Angebot_Oktoberkontrolle.docx",
+      "sha256": "f1380751c9b5d8449b3933264c272d756cac2a6909ddc3eb21fcc3e2fca7c1be"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/29_Beirat_Kostenfrage.eml",
+      "sha256": "c4da4d6b135005ca81098ee7377b72e199a8466c8eb878b8a25b4aa9192aae86"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/30_Eigentuemerbrief_Vorfassung.docx",
+      "sha256": "0d87ab5271a3c81db2c603520427747b6fcc5da8c4dc2d3af3f50d316d879cad"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/31_Vermieterin_Klaert_Auftrag.eml",
+      "sha256": "0aeaa9a11b499060fc0137bf9ba5f63724c15ca9b9e027adecc2e591af0b1f35"
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/32_Abschlussauftrag_Verwaltung.eml",
+      "sha256": "e12204c73c3b8567269d4e6d5ad5ff5dc828e0b9f98dd99607c2d841d6fce2cc"
+    }
+  ],
+  "input_manifest_sha256": "e84ca7c59bd8cde796cbdf36c68c32e2183028bb7820c4d2f3572a8516bc188c",
+  "extracted_text_sha256": "eeab87e555cee00b01aa52d812430aab532184ca2839fa7efcf26471911bf1b9",
+  "excluded": "README.md, quality/evals, rubrics, model solutions; no source files modified",
+  "sequence": 3,
+  "actual_output_sha256": "b4b54d32e1edd4463c3c58edf05f638320c29071cfb3605d67f0bc0b796669c6",
+  "additional_reference": {
+    "path": "weg-hausverwaltung/references/miete-befall-datenschutz-oktober-2026.md",
+    "sha256_at_finalization": "62d101d2d922034159424c38f06eac298f99b4901234d6bd051242470acaffe8",
+    "use": "read during probe 1; remained in agent context for later probes"
+  },
+  "model_isolation": false,
+  "file_reads": "python-docx, openpyxl read-only values/formulas, Python email parsing; all numbered raw documents read",
+  "external_actions": []
+}

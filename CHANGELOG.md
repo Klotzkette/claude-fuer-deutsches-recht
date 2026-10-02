@@ -1,3 +1,21 @@
+# v445.28.0 - WEG-Hausverwaltung mit Belegketten und vier neuen Akten
+
+## 1. Bestehendes Plugin vertieft
+
+Alle 93 Skills bleiben erhalten; 46 werden gezielt überarbeitet. Die Arbeitswege verbinden Rechnungen, Bankbewegungen, Rücklagen, Sollvorschüsse, Abrechnungsspitzen, Eigentümeranschreiben und Rückfragen. Mietrechtliche Überleitung, Handwerkeraufträge, Haftung, Diebstahl, Bettwanzen und Datenschutz werden nach ihrem konkreten Rechtsverhältnis behandelt. Werkstatt, Mini-Prompt und Hauptproblem-Prompt sind eigenständig ausformuliert; die Werkstatt umfasst 30 geprüfte Word-/PDF-Seiten.
+
+## 2. Überprüfte Rechtsprechungsanker
+
+Die neue WEG-Referenz enthält 30 an amtlichen Volltextstellen geprüfte BGH-Entscheidungen, darunter zehn von 2026. Eine weitere Referenz behandelt Mietüberleitung, Befall und Datenschutz. Korrigiert sind insbesondere falsche Entscheidungszuordnungen, die starre Drei-Angebote-Regel, pauschale Kostenweitergabe und unzulässige Rückschlüsse auf Haftung oder Verursachung. Prüfungsumfang und Übertragungsgrenzen sind dokumentiert.
+
+## 3. Vier zusätzliche Testakten
+
+Lindenhof behandelt die Jahresabrechnung mit acht Einzelabrechnungen und Eigentümerrückfragen. Spreebogen verbindet Hausgeld mit Mietbetriebskosten, Belegeinsicht, Wärme und CO₂-Kosten. Kastanienhof behandelt Kellerdiebstahl, Türreparatur, Versicherungen und eine vorgeschlagene Kamera. Sonnenwinkel enthält den Verlauf eines Bettwanzenbefalls mit Befunden, Aufträgen, Terminen, Rechnungen und strittiger Kostentragung. Insgesamt 132 Originaldateien: 80 bearbeitbare Word-Dokumente, 41 E-Mails mit echten Anlagen, sechs Excel-Arbeitsmappen und fünf Textnotizen. Sämtliche bisherigen Akten bleiben erhalten.
+
+## 4. Nachvollziehbare Prüfung und Downloads
+
+Rechenketten, tatsächliche Tabellenneuberechnung, Eingabeänderungen und MIME-Anhänge sind gesondert geprüft. Redaktionelle Kriterien, tatsächliche qualitative Anwendungsproben und technische Prüfungen werden getrennt dokumentiert. Die Akten erhalten Gesamt-PDFs sowie Originalformat- und Einzel-PDF-ZIPs; Übersichten und Paketindizes werden aktualisiert.
+
 # v445.27.0 - Berliner Gewerbeaufsicht, Polizeirecht und Versammlungen
 
 ## 1. Drei eigenständige Berliner Arbeitswerkzeuge

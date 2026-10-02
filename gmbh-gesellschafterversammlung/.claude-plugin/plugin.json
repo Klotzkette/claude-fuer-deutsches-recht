@@ -1,6 +1,6 @@
 {
   "name": "gmbh-gesellschafterversammlung",
-  "version": "445.27.0",
+  "version": "445.28.0",
   "description": "Gesellschafterversammlungen für GmbH und UG: fünf Fachskills plus Hauptproblem-Skill für Unterlagen, Einladung, Nachträge, Stimmen, Leitfaden, Protokoll und Vollzug. Mit eigenständiger Werkstatt, Mini-Prompt und exaktem Stimmenprüfer.",
   "license": "Apache-2.0 OR MIT",
   "author": {

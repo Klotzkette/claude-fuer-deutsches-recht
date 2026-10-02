@@ -1,25 +1,25 @@
 ---
 name: bauliche-veraenderung-aufzug-treppenlift-20
-description: "Für Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 2 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Für Bauliche Veränderung: Aufzug und Treppenlift nach Paragraf 20 Abs. 2 Nr. 1 WEG: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
 ---
 
-# Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
+# Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 1 WEG
 
 ## Fachlicher Anker
 
-- **Normen:** § 20 Abs. 2 Nr. 2 WEG, §§ 535, §§ 18.
+- **Normen:** § 20 Abs. 2 Nr. 1 WEG, §§ 535, §§ 18.
 - **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
 - **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
 
 ## Ziel
 
-Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG. Die GdWE kann das „Wie" regeln, nicht aber den Anspruch an sich verweigern. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
+Eigentümer haben einen Anspruch auf Gestattung eines Aufzugs oder Treppenlifts als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 1 WEG. Voraussetzung sind eine angemessene Maßnahme und die Grenzen des § 20 Abs. 4 WEG; über die Durchführung entscheiden die Eigentümer im Rahmen ordnungsmäßiger Verwaltung. Der Skill prüft Anspruchsvoraussetzungen, technische Mindeststandards, Kostentragung und Förderung.
 
 ## Anspruchsgrundlage und Reichweite
 
-§ 20 Abs. 2 Nr. 2 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
+§ 20 Abs. 2 Nr. 1 WEG: Barrierefreier Aus- und Umbau als privilegierte Maßnahme — kein freies Ermessen der GdWE. Die GdWE darf sachgerechte Auflagen zur Ausführung, Optik, Sicherheit und zum Rückbau stellen, darf aber den Anspruch nicht durch unzumutbare Auflagen leerlaufen lassen. Norm: https://www.gesetze-im-internet.de/woeigg/__20.html
 
-BGH, Urteil vom 09.02.2024, V ZR 244/22: Auch ein außen am Gebäude angebauter Aufzug mit erheblichen Eingriffen in das Gemeinschaftseigentum (Öffnung Fassade, Fundament) ist vom Anspruch gedeckt; Beeinträchtigungen anderer Eigentümer sind ggf. auszugleichen, heben den Anspruch aber nicht auf. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
+BGH, Urteil vom 09.02.2024, V ZR 244/22: Der Außenaufzug kann als angemessener Barriereabbau verlangt werden; die Voraussetzungen des § 20 Abs. 2 Satz 1 Nr. 1 und Abs. 4 WEG sowie sachgerechte Ausführungsentscheidungen bleiben zu prüfen. Nicht jeder gewünschte Aufzug ist uneingeschränkt zulässig. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.02.2024&Aktenzeichen=V+ZR+244%2F22
 
 ## Technische Mindeststandards (DIN 18040-2)
 

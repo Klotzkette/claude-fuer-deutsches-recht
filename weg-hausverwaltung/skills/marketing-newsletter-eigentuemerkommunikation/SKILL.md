@@ -20,23 +20,23 @@ Die Hausverwaltung kommuniziert täglich mit Eigentümern — per Einladung, Pro
 | Kommunikationstyp | Rechtsgrundlage | Einwilligung erforderlich |
 |---|---|---|
 | Einladung zur Eigentümerversammlung | § 24 Abs. 4 WEG / Art. 6 Abs. 1 lit. c DSGVO | Nein |
-| Übersendung Protokoll | § 24 Abs. 6 WEG | Nein |
+| Übersendung Protokoll | Dokumentation nach § 24 Abs. 6 WEG; Übersendungsweg und Zusatzpflichten konkret prüfen | grundsätzlich keine Werbeeinwilligung |
 | Jahresabrechnung / Wirtschaftsplan | § 28 WEG | Nein |
 | Umlaufbeschluss | § 23 Abs. 3 WEG | Nein |
-| Newsletter mit Verwaltungstipps, Branchen-News | Art. 6 Abs. 1 lit. a DSGVO | Ja (Double-Opt-In) |
+| Newsletter mit Verwaltungstipps, Branchen-News | Art. 6 Abs. 1 lit. a DSGVO | bei Werbung grundsätzlich ja; Double-Opt-In dient dem Nachweis |
 | Werbung Dritter (Versicherungsmakler, Heizöl) | Art. 6 Abs. 1 lit. a DSGVO | Ja (ausdrücklich) |
 
 Norm § 24 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html
 
 ## § 7 UWG: E-Mail-Werbung
 
-§ 7 Abs. 2 Nr. 1 UWG verbietet E-Mail-Werbung ohne ausdrückliche vorherige Einwilligung. Ausnahme § 7 Abs. 3 UWG (Bestandskundenausnahme): Erlaubt, wenn (1) E-Mail-Adresse im Rahmen des Mandatsvertrags erhalten, (2) Werbung für eigene ähnliche Dienstleistungen (z. B. Hinweis auf neue Verwaltungsleistung), (3) Eigentümer nicht widersprochen hat, (4) Abmeldemöglichkeit in jeder E-Mail. Die Bestandskundenausnahme gilt **nicht** für Werbung Dritter (Kooperationspartner). Norm: https://www.gesetze-im-internet.de/uwg_2004/__7.html
+§ 7 Abs. 2 Nr. 2 UWG verbietet E-Mail-Werbung ohne ausdrückliche vorherige Einwilligung. Ausnahme § 7 Abs. 3 UWG (Bestandskundenausnahme): Erlaubt, wenn (1) E-Mail-Adresse vom tatsächlichen Kunden im Zusammenhang mit dem Verkauf einer Ware/Dienstleistung erhalten; einzelne Eigentümer sind nicht allein wegen des GdWE-Verwaltervertrags persönliche Werbekunden, (2) Werbung für eigene ähnliche Dienstleistungen (z. B. Hinweis auf neue Verwaltungsleistung), (3) Eigentümer nicht widersprochen hat, (4) klarer Widerspruchshinweis schon bei Erhebung und bei jeder Verwendung, jeweils ohne Zusatzkosten. Die Bestandskundenausnahme gilt **nicht** für Werbung Dritter (Kooperationspartner). Norm: https://www.gesetze-im-internet.de/uwg_2004/__7.html
 
-BGH, Urteil vom 10.07.2018, VI ZR 225/17: Auch eine einzelne unerbetene Werbe-E-Mail ist rechtswidrig und löst Unterlassungsanspruch aus; kein Bagatellvorbehalt. Verweis: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=10.07.2018&Aktenzeichen=VI+ZR+225%2F17
+BGH, Urt. v. 10.07.2018 – Az. VI ZR 225/17, Rn. 17–25: Auch eine mit Rechnung verschickte Kundenzufriedenheitsanfrage ist Werbung; die zulässige Rechnung beseitigt die Werbeprüfung nicht. Die Ausnahme nach § 7 Abs. 3 UWG und der Widerspruchshinweis bereits bei Erhebung bleiben zu prüfen. Amtlicher Volltext: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2017/VI_ZR_225-17.pdf?__blob=publicationFile&v=1 . Die damalige Nummerierung des § 7 Abs. 2 stimmt nicht mit der heutigen Nr. 2 überein.
 
 ## Double-Opt-In und Abmeldelink
 
-Double-Opt-In: Bestätigungs-E-Mail nach Anmeldung, Klick auf Bestätigungslink als Einwilligungsnachweis, Zeitstempel und IP-Adresse speichern (Beweislast liegt beim Werbenden). Abmeldelink: In jeder Marketing-E-Mail Pflicht (§ 7 Abs. 2 Nr. 1 i.V.m. Abs. 3 UWG), Abmeldung unmittelbar wirksam, Speicherung des Widerspruchs für Beweiszwecke.
+Double-Opt-In: Bestätigungs-E-Mail nach Anmeldung, Klick auf Bestätigungslink als Einwilligungsnachweis, Einwilligungstext, Herkunft und Bestätigung datensparsam nachweisen; IP-Speicherung nach Erforderlichkeit und Aufbewahrungszweck prüfen. Abmeldelink: In jeder Marketing-E-Mail Pflicht (§ 7 Abs. 2 Nr. 2 i.V.m. Abs. 3 UWG), Abmeldung unmittelbar wirksam, Speicherung des Widerspruchs für Beweiszwecke.
 
 ## Werbung für Versicherungen: § 34d GewO
 

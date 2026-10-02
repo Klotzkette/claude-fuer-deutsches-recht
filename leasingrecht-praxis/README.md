@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/README.md) | [Gesamt-PDF](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip) |
+| [Akte Rotorwerk: Maschinenleasing, Restwert und Insolvenzgerücht](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/README.md) | [Gesamt-PDF](../testakten/leasingrecht-maschinenfleet-restwert-insolvenz/gesamt-pdf/leasingrecht-maschinenfleet-restwert-insolvenz_gesamt.pdf) | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-leasingrecht-maschinenfleet-restwert-insolvenz.zip) | [`testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-leasingrecht-maschinenfleet-restwert-insolvenz-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

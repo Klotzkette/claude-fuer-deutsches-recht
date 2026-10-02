@@ -1,0 +1,107 @@
+name: Lindenhof und die zweite Abrechnungsfassung
+plugin: weg-hausverwaltung
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: weg-lindenhof-jahresabrechnung-2025
+  fachprofil: quality/evals/weg-hausverwaltung.json
+  hinweis: Fallbezogene Kriterien für eine spätere Bearbeitung. Der zentrale Dateifilter schließt diese
+    Bewertungsdatei aus Arbeitsmaterial und Exporten aus.
+erwartete_ergebnisformate:
+- datei: Abrechnungsabgleich.xlsx
+  zweck: Jahreskosten, Sollvorschüsse, Zahlungen, Rücklage und Einzelanteile nachvollziehbar abstimmen.
+- datei: Antwort_Popescu.docx
+  zweck: Persönliche Antwort mit erkennbarer Fassungskorrektur und aktuellem Eigentümerkonto.
+- datei: Beschlussvorlage.docx
+  zweck: Ausformulierter Beschlussgegenstand mit eindeutigen Beträgen und Fassung.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien. Berechnungen müssen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. Empfängertexte sind vollständig auszuformulieren.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Die vollständige native Arbeitsakte ist vorhanden; Bewertungsdatei und Gesamt-PDF zählen
+    nicht mit.
+  min: 36
+- id: format-docx
+  check_type: file_count
+  description: Mindestens 27 native DOCX-Unterlagen sind vorhanden.
+  glob: '*.docx'
+  min: 27
+- id: format-eml
+  check_type: file_count
+  description: Mindestens 6 native EML-Unterlagen sind vorhanden.
+  glob: '*.eml'
+  min: 6
+- id: format-txt
+  check_type: file_count
+  description: Mindestens 1 native TXT-Unterlagen sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: format-xlsx
+  check_type: file_count
+  description: Mindestens 2 native XLSX-Unterlagen sind vorhanden.
+  glob: '*.xlsx'
+  min: 2
+- id: readme
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/weg-lindenhof-jahresabrechnung-2025_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 03_Eigentuemer_und_Vorschuesse.xlsx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 05_Buchhaltung_2025.xlsx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 21_Einzelabrechnung_WE04.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die erforderliche Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 35_Buchung_Nachzahlung.eml
+- id: fach-jahresabgleich
+  check_type: human_review
+  description: Werden Originalbelege, Betriebskonto und Rücklagenkonto rechnerisch verbunden, ohne Kontoüberträge
+    als weitere Ausgaben oder Rücklagenbeiträge als verbrauchte Gebäudekosten zu verdoppeln?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-soll-ist
+  check_type: human_review
+  description: Werden beschlossene Sollvorschüsse bei der Abrechnungsspitze von tatsächlichen Zahlungen
+    und offenen Vorschüssen getrennt und alle acht Einzelabrechnungen einschließlich der abweichenden
+    Vorfassung von Wohnung 4 abgestimmt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-spaete-zahlung
+  check_type: human_review
+  description: Wird die bestätigte Zahlung im September 2026 zweckentsprechend auf die alte Dezemberforderung
+    gebucht, ohne den Bankbestand 2025 zu verändern oder dieselbe Forderung erneut einzuziehen?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-hausmeister
+  check_type: human_review
+  description: Wird die nachgereichte Leistungsaufstellung konkret geprüft, ohne Kontrollgänge, Reparaturen,
+    Material und Verwaltungsanteile pauschal als gleichartig oder vollständig mietumlagefähig zu behandeln?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-fassung
+  check_type: human_review
+  description: Werden versandte Vorfassung, Korrektur und persönlicher Antwortbrief nachvollziehbar verbunden,
+    statt die Vorfassung still zu überschreiben oder nur ein abstraktes Gutachten abzuliefern?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'
+- id: fach-beschluss-belege
+  check_type: human_review
+  description: Trennt der Beschlussentwurf die Zahlungspflichten nach § 28 Abs. 2 WEG von einer pauschalen
+    Genehmigung sämtlicher Buchungsdaten und berücksichtigt die Antwort den zugesagten Einsichtstermin?
+    Unterbleibt unautorisierter Versand?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet. Strukturchecks
+    ersetzen diese Bewertung nicht.'

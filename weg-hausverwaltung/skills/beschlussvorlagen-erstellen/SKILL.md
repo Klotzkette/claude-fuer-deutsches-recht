@@ -1,87 +1,60 @@
 ---
 name: beschlussvorlagen-erstellen
-description: "Für Beschlussvorlagen Erstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: "Formuliert bestimmte Beschlüsse zu Abrechnung, Handwerkerauftrag, Finanzierung, Kostenverteilung, baulicher Veränderung oder Verwalterbestellung; prüft Kompetenz, Stimmen, Anlagen und Vollzug."
 ---
 
-# Beschlussvorlagen Erstellen
+# Präzise Beschlussvorlagen und Vollzugsaufträge
 
-## Fachlicher Anker
+## 1. Zweck und Anwendungsfall
 
-- **Normen:** §§ 535, §§ 18, § 16 Abs. 2.
-- **Entscheidungs-/Quellenanker:** Tragende Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle einsetzen; keine Entscheidung aus Modellwissen erzwingen.
-- **Quellenhygiene:** `references/quellenhygiene.md` und `references/zitierweise.md` beachten.
+Verfasse aus der gelesenen Akte einen bestimmten, kompetenzgerechten Beschluss für die Eigentümerversammlung. Entscheidung, Finanzierung und Vollzugsauftrag müssen zusammenpassen; die Eigentümer müssen erkennen, worüber sie abstimmen.
 
-## Fachkern: Beschlussvorlagen Erstellen
-- **Normen-/Quellenanker:** WEG §§ 18-28, 44/45, BGB-Miet-/Werkvertragsrecht, BetrKV, HeizkostenV, GEG, DSGVO und landesrechtliche Bau-/Sicherheitsfragen.
-- **Entscheidende Weiche:** Trenne Beschlusskompetenz, ordnungsmäßige Verwaltung, Kostenverteilung, Anfechtungsfrist, Verwalterpflicht, Belegprüfung und Vollzug.
+## 2. Eingaben
 
-Stand: 05/2026.
+Antrag, Teilungserklärung/Gemeinschaftsordnung, bisherige Beschlüsse, Einladung/Tagesordnung, technische Unterlagen, Angebote und Finanzierungsdaten lesen. Frage nur nach entscheidenden Lücken: genaue Maßnahme, maßgebliche Anlage mit Datum/Version, Beteiligte, Höchstbetrag, gewünschter Beginn und Deckungsmittel. Nicht mit erfundenen Firmen, Abstimmungen oder Kosten auffüllen.
 
-## Ziel
+## 3. Ablauf und Formulierungsregeln
 
-Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel und nicht zu wenig regelt.
+### 3.1. Kompetenz und Abstimmung
 
-## Aufbau
+Maßnahme als Erhaltung, bauliche Veränderung, § 28-Zahlungsbeschluss oder sonstige Verwaltung einordnen. Stimmrecht und Mehrheit gesondert prüfen. Nach BGH, Urt. v. 27.02.2026 – Az. V ZR 189/24, Rn. 14–24, dürfen Tiefgarageneigentümer nicht von Verwalterbestellung und § 28-Abstimmungen ausgeschlossen werden. Beschlusskompetenz macht eine sachlich unangemessene Regel nicht rechtmäßig.
 
-1. **Beschlussgegenstand**: Was wird entschieden? (Ein Satz.)
-2. **Rechts- und Kompetenzanker**: WEG-Norm, Gemeinschaftsordnung, Vorbeschlüsse, BGH-Anker.
-3. **Ausführung**: Wer beauftragt wen, bis wann, mit welchem Budget, mit welcher Vollmacht?
-4. **Kostenfolge**: Schlüssel, Sonderumlage, Rücklage, Wirtschaftsplan, Fälligkeit. Bei Schlüsseländerung: sachlicher Grund (siehe BGH V ZR 236/23, V ZR 128/23 vom 14.02.2025).
-5. **Kontrolle**: Beirat, Vergleichsangebote, Abnahme, Gewährleistung, Berichtspflicht.
-6. **Alternativen**: Nullvariante, kleinere Lösung, Höchstpreisdeckel, Vertagung mit Frist.
+Bei Umlaufverfahren Absenkung auf Mehrheit für den einzelnen Gegenstand und nachfolgenden Sachbeschluss klar trennen. BGH, Urt. v. 17.07.2026 – Az. V ZR 190/25, Rn. 11–18 und 30–34, verlangt eine eigenständige Behandlung der Beschlüsse und Anfechtungsfolgen. Nicht bloß „künftig alles per E-Mail mit Mehrheit“ beschließen.
 
-## Stilregeln
+### 3.2. Bestimmte Entscheidung
 
-- Ein Beschluss, ein Gedanke.
-- Keine versteckten Nebenentscheidungen ("im Übrigen" - "soweit erforderlich").
-- Kosten, Schlüssel und Vollmacht ausdrücklich.
-- Anlagen präzise benennen ("Angebot Fa. X vom [Datum], Anlage 4").
-- Bei baulichen Veränderungen: Trennung von Gestattung (§ 20 WEG) und Kostentragung (§ 21 WEG) im Wortlaut.
+Auftragnehmer, Leistungsumfang, Anlagenfassung, Vergütung einschließlich Umsatzsteuer und begründete Nachtragsgrenze konkret festlegen. Unbestimmte Ermächtigungen wie „alles Weitere veranlassen“ vermeiden. Auswahlgrundlage nach V ZR 7/25, Rn. 15–25, bewerten: geeignete Vergleichsinformation, Preis/Leistung, Dringlichkeit und Besonderheiten; bloß drei Dokumente zu zählen genügt ebenso wenig wie völlig ungeprüft zu vergeben.
 
-## Mustertexte
+BGH, Urt. v. 25.09.2026 – Az. V ZR 165/25, Rn. 7–24, lässt bei bestimmtem Künstler, Fläche, Kosten- und Zeitrahmen künstlerischen Spielraum zu. Diese Besonderheit rechtfertigt keine unbestimmte Generalvollmacht für Sanierung oder unbegrenzte Nachträge.
 
-### Abrechnungsspitzen (§ 28 Abs. 2 WEG)
+### 3.3. Geld und Schlüssel
 
-> Die Wohnungseigentümer beschließen auf der Grundlage der Jahresabrechnung [Jahr] (Anlage 1):
-> 1. Die sich aus der Jahresabrechnung ergebenden Nachschüsse / Anpassungen der Vorschüsse gemäß den Einzelabrechnungen (Anlage 2).
-> 2. Fälligkeit der Nachschüsse: [Datum].
-> 3. Guthaben werden bis [Datum] mit nächsten Hausgeldzahlungen verrechnet.
-> 4. Der Vermögensbericht zum [Stichtag] (Anlage 3) wird zur Kenntnis genommen.
+Für Vorschüsse nach § 28 Abs. 1 WEG die bestimmten Einzelbeträge, Kosten-/Rücklagenanteile und Fälligkeit beschließen. Für § 28 Abs. 2 WEG die Nachschüsse beziehungsweise Vorschussanpassungen anhand genau bezeichneter Einzelabrechnungen beschließen; rückständige Soll-Vorschüsse nicht nochmals als Spitze begründen. Ein Guthaben nicht ungeprüft gegen andere Forderungen verrechnen. Der Vermögensbericht ist jedem Eigentümer bereitzustellen und kein eigener Forderungstitel.
 
-### Wirtschaftsplan (§ 28 Abs. 1 WEG)
+Sonderumlage: Zweck, Gesamtbetrag, konkreter Schlüssel, Einzelanteile und bestimmter Fälligkeitstag. Ein separates Bankkonto nicht als allgemeine gesetzliche Pflicht behaupten; Zweckbindung und Finanzierung nachvollziehbar abbilden. Bei Rücklagenentnahme Bestand, Zweck und verbleibende Liquidität zeigen.
 
-> Die Wohnungseigentümer beschließen den Wirtschaftsplan [Jahr] (Anlage 1) sowie die hieraus resultierenden Vorschüsse je Einheit gemäß Anlage 2. Fälligkeit monatlich zum [Tag], beginnend mit [Monat/Jahr].
+Schlüsseländerung nach § 16 Abs. 2 Satz 2 WEG mit belastbarem Vorher-/Nachhervergleich rechnen. V ZR 50/25, Rn. 13–23: angemessene Interessenwahrung, keine bloße Willkürprüfung. Kleine und große Wohnungen dürfen bei Erhaltung nicht ohne tragfähige Rechtfertigung gleich belastet werden. Bei anerkanntem Betriebskostenschlüssel ist ein besonderer Änderungsgrund nicht stets erforderlich; objektbezogene Kostenseparierung nach V ZR 236/23 gesondert würdigen. Rückwirkung und Bestandsschutz früherer Beschlüsse prüfen.
 
-### Sonderumlage
+Bei baulicher Veränderung Gestattung und Kosten getrennt formulieren. § 21 Abs. 1, Abs. 2 Nr. 1/2, Abs. 3–5 WEG jeweils prüfen; nicht jede beschlossene Maßnahme allein dem Antragsteller oder allein den tatsächlichen Nutzern belasten.
 
-> Die Wohnungseigentümer beschließen eine Sonderumlage in Höhe von [Betrag] EUR zur Finanzierung von [Zweck]. Verteilung nach allgemeinem Kostenschlüssel (MEA / Einheiten) gemäß Anlage [X]. Fälligkeit [Datum / X Werktage nach Zugang der Einzelabrechnung]. Buchung auf einem zweckgebundenen Konto der GdWE.
+### 3.4. Verwalterbestellung und Schadensansprüche
 
-### Schlüsseländerung mit sachlichem Grund (§ 16 Abs. 2 Satz 2 WEG)
+Bestellung und Vertrag getrennt beschließen. Laufzeit nach § 26 Abs. 2: maximal fünf Jahre, erste Bestellung nach Begründung von Wohnungseigentum maximal drei. Für den Vertragsabschluss mit dem Verwalter vertritt der Beiratsvorsitzende oder ein ermächtigter Eigentümer die GdWE (§ 9b Abs. 2); keine pauschale Selbstunterzeichnung durch den Verwalter.
 
-> Die Wohnungseigentümer beschließen, den Kostenverteilungsschlüssel für [Kostenart, z. B. Wärmeerzeugung / Erhaltungsrücklage] von [alt] auf [neu] zu ändern.
-> **Sachlicher Grund**: [konkrete Begründung, z. B. der bisherige Schlüssel privilegiert die Gewerbeeinheiten ohne sachlichen Grund; die geänderte Verteilung entspricht dem tatsächlichen Nutzen / dem aktuellen Verbrauchsverhältnis; vgl. BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23].
-> Die Änderung gilt für Abrechnungen ab dem [Datum].
+Eigentümeranspruch gegen GdWE, Entscheidung über Anerkennung/Abwehr und Regress der GdWE gegen Verwalter auseinanderhalten. Nicht beschließen, die GdWE solle gegen sich selbst klagen. Interessenkonflikt, Sondervertretung und Stimmverbote konkret prüfen. Haftungsvoraussetzungen nach V ZR 18/25, Rn. 16–24, belegen.
 
-### Bauliche Veränderung (Gestattung + Kostenfolge getrennt)
+### 3.5. Rückfrage und Vollzug
 
-> 1. (Gestattung): Den Eigentümern der Einheit Nr. [...] wird gestattet, [Maßnahme] gemäß Anlage [X] mit den dort beschriebenen Auflagen (Optik, Versicherung, Wartung, Rückbau) zu errichten.
-> 2. (Kostenfolge): Die Kosten der baulichen Veränderung sowie Folgekosten (Wartung, Versicherung, Rückbau) trägt der Antragsteller allein (§ 21 Abs. 1 WEG).
+Fehlt eine entscheidende Anlage oder belastbare Kostengrundlage, zunächst konkreten Aufklärungs-/Vorbereitungsbeschluss mit Auftrag und Frist verfassen. Zum Endbeschluss Wortlaut, Abstimmungsregel, Anlage, Finanzierung, Unterschriftsbefugnis, Vollzugskontrolle und Fristenregister liefern.
 
-### Verwaltervergabe / Bestellung
+## 4. Quellenpflicht
 
-> Die Wohnungseigentümer bestellen [Firma] zum Verwalter der WEG für die Dauer von [Laufzeit, max. 5 Jahre] beginnend zum [Datum]. Der Verwaltervertrag gemäß Anlage [X] wird beschlossen; die Verwaltung wird ermächtigt, ihn nach Maßgabe der Anlage zu unterzeichnen.
+[WEG-Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md) Nach [Zitierweise](../../references/zitierweise.md) arbeiten. Datum, Az., tragende Randnummer und Anwendungsgrenze angeben; historische Regeln nicht ohne Übergangsprüfung übernehmen.
 
-### Schadensbearbeitung über GdWE (nach BGH V ZR 34/24)
+## 5. Ausgabeformat
 
-> Die Wohnungseigentümer beschließen, den Anspruch auf Ersatz des Schadens [Sachverhalt] gegenüber der GdWE geltend zu machen; die Verwaltung wird beauftragt, etwaige Regressansprüche der GdWE gegenüber dem (vormaligen) Verwalter zu prüfen und ggf. geltend zu machen.
+Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
 
-## Cross-Refs
+## 6. Beispiel
 
-- Vorbefassung / Anfechtung → `beschlussanfechtung-risiko`
-- Einladung / Tagesordnung → `einladung-tagesordnung-fristen`
-- Bauliche Veränderungen → `bauliche-veraenderungen-20-weg`, `steckersolar-wallbox-barrierefreiheit`
-- Liquidität / Sonderumlage → `hausgeld-sonderumlage-liquiditaet`
-
-## Quellenpflicht
-
-`rechtsstand-mai-2026-faktenbank` laden. Rechtsprechungsaussagen nur mit offen prüfbarer Quelle.
+Die Hausverwaltung möchte „120.000 Euro für die neue Heizung, alle zwölf Wohnungen zahlen gleich“ beschließen. Prüfe erst Flächen-/MEA-Unterschiede, maßgeblichen Schlüssel und technische Finanzierung. Entwerfe bei vorhandenen Daten den konkreten Vergabe- und Finanzierungsbeschluss; begründe, weshalb eine Gleichverteilung die kleinen Wohnungen unangemessen belasten kann. Ein bloßer Mehrheitshinweis ersetzt diese Prüfung nicht.

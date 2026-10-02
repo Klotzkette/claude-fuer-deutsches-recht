@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Kasseler Bewerbungsauswahl](../testakten/ki-hochrisiko-bewerbungsauswahl-kassel/README.md) | [Gesamt-PDF](../testakten/ki-hochrisiko-bewerbungsauswahl-kassel/gesamt-pdf/ki-hochrisiko-bewerbungsauswahl-kassel_gesamt.pdf) | [`testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) | [`testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
+| [Kasseler Bewerbungsauswahl](../testakten/ki-hochrisiko-bewerbungsauswahl-kassel/README.md) | [Gesamt-PDF](../testakten/ki-hochrisiko-bewerbungsauswahl-kassel/gesamt-pdf/ki-hochrisiko-bewerbungsauswahl-kassel_gesamt.pdf) | [`testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel.zip) | [`testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-ki-hochrisiko-bewerbungsauswahl-kassel-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

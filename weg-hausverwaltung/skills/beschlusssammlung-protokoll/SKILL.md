@@ -36,7 +36,7 @@ Die Nachbereitung einer Eigentümerversammlung so dokumentieren, dass später kl
 ## Auslegungssicherheit
 
 - TOP zu Jahresabrechnung **immer** als "Abrechnungsspitzen" formulieren — vermeidet die nachträgliche Auslegungskonstruktion aus BGH, Urteil vom 19.07.2024, V ZR 102/23 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.07.2024&Aktenzeichen=V+ZR+102/23).
-- Bei Schlüsseländerung den sachlichen Grund **schriftlich** ins Protokoll aufnehmen (Bezug zu BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23).
+- Bei Schlüsseländerung Begründung, betroffene Eigentümer und Belastungsvergleich ins Protokoll aufnehmen; besondere Gründe nur nach der einschlägigen Fallgruppe verlangen (Bezug zu BGH, Urteile vom 14.02.2025, V ZR 236/23 und V ZR 128/23).
 - Bei Gestattungsbeschluss zur baulichen Veränderung Auflagen aus dem Wortlaut und nicht nur aus der Anlage erkennbar machen.
 
 ## Beschlusssammlung (§ 24 Abs. 7 WEG)
@@ -54,7 +54,7 @@ Tabellarisch mit:
 > Sehr geehrte Eigentümer,
 > anliegend übersende ich Ihnen das Protokoll der Eigentümerversammlung vom [Datum] (Anlage 1) sowie die Beschlüsse Nr. [...] bis [...].
 > Die Beschlüsse sind in die Beschlusssammlung gem. § 24 Abs. 7 WEG eingetragen.
-> **Hinweis Anfechtungsfristen**: Eine Beschlussanfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb von zwei Monaten begründet werden (§ 45 WEG). Bei Zustellungsverzögerungen empfiehlt sich, innerhalb eines Jahres beim Gericht den Sachstand zu erfragen (BGH, V ZR 17/24).
+> **Hinweis Anfechtungsfristen**: Eine Beschlussanfechtungsklage muss innerhalb eines Monats ab Beschlussfassung erhoben und innerhalb von zwei Monaten begründet werden (§ 45 WEG). Die Zustellung aktiv nachhalten und gerichtliche Mitwirkungs-/Vorschussanforderungen zeitnah erfüllen. V ZR 17/24 bezeichnet nur eine äußerste Einjahresgrenze nach Erfüllung der eigenen Pflichten, keine allgemeine Wartefrist.
 > Für Rückfragen stehe ich Ihnen zur Verfügung.
 
 ## Cross-Refs
@@ -66,3 +66,9 @@ Tabellarisch mit:
 ## Quellenpflicht
 
 `rechtsstand-mai-2026-faktenbank` laden. § 24 Abs. 7 WEG: https://www.gesetze-im-internet.de/woeigg/__24.html .
+
+## Umlaufbeschluss und Stimmrechte: Entscheidungen 2026
+
+BGH, Urt. v. 17.07.2026 – Az. V ZR 190/25, Rn. 11–18 und 30–34: Absenkungsbeschluss nach § 23 Abs. 3 Satz 2 WEG und nachfolgenden Sachbeschluss getrennt protokollieren, verkünden und in der Fristenakte führen. Die Nichtigkeit/Anfechtung der Absenkung macht den Folgebeschluss nicht automatisch nichtig; dessen Bestandskraft kann das Interesse am Angriff gegen die verbrauchte Absenkung entfallen lassen. BGH, Urt. v. 27.02.2026 – Az. V ZR 189/24, Rn. 14–24: Ein Ausschluss von Tiefgarageneigentümern bei Verwalterbestellung und § 28-Entscheidungen ist nichtig. Bei anderen objektbezogenen Angelegenheiten Vereinbarung, Betroffenheit und Kosten gesondert prüfen; nicht sämtliche Stimmrechtsregelungen einer Mehrhausanlage gleich behandeln.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).

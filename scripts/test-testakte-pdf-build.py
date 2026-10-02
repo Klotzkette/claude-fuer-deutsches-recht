@@ -75,6 +75,16 @@ def main() -> int:
             require(field in ledger_text, f"verdichtete Darstellung darf keinen Datensatz verlieren: {field}")
     require("Empfänger:" in ledger_text and "Müller & Sohn" in ledger_text, "Spaltenzuordnung und Umlaute müssen erhalten bleiben")
     require(G.escape("Müller & Sohn") == "Müller &amp; Sohn", "lateinischer Standardtext behält seine Darstellung")
+    subscript_pdf = io.BytesIO()
+    G.SimpleDocTemplate(subscript_pdf, pagesize=G.A4).build([
+        G.Paragraph(G.escape("CO₂-Verteilung und H₂O <sub>fremdes Markup</sub>"), G.s_body)
+    ])
+    subscript_text = G.PdfReader(io.BytesIO(subscript_pdf.getvalue())).pages[0].extract_text()
+    require("■" not in subscript_text, "tiefgestellte Ziffern dürfen keine fehlenden Glyphen erzeugen")
+    require("CO2-Verteilung" in subscript_text.replace("\n", "") and "H2O" in subscript_text.replace("\n", ""),
+            "chemische Bezeichnungen müssen mit sämtlichen Ziffern auslesbar bleiben")
+    require("<sub>fremdes Markup</sub>" in subscript_text,
+            "Quelltext darf auch neben Tiefstellung keine Formatbefehle einschleusen")
     escaped = G.escape("Aylin Yılmaz, Łukasz und Černý <Beleg>")
     require("&lt;Beleg&gt;" in escaped, "Quelltext darf keine Formatbefehle einschleusen")
     unicode_pdf = io.BytesIO()

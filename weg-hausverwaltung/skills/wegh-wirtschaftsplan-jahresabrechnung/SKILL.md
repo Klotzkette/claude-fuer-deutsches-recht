@@ -72,3 +72,9 @@ description: "Für WEG: Wirtschaftsplan und Jahresabrechnung: ordnet Norm, Bewei
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+
+## Soll, Ist, Vermögensbericht und neue Kostenschlüssel
+
+Für die konkrete Rechnungskette den [Abrechnungs-Leitweg](../wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md) verwenden: Rechnung und Dublette, externe Zahlung und interne Umbuchung, beschlossene Soll-Vorschüsse und tatsächlich gezahlte Beträge auseinanderhalten. § 28-Spitze wird nicht aus rückständigem Hausgeld gebildet. Vermögensbericht mit Rücklagenstand/wesentlichem Gemeinschaftsvermögen jedem Eigentümer bereitstellen. Bei Schlüsseländerungen V ZR 50/25 vom 24.04.2026, Rn. 13–23, mit konkretem Belastungsvergleich anwenden. Zu jeder Korrektur Beleg-ID, alter/neuer Betrag, Grund und gegebenenfalls neuen Beschlussbedarf angeben; anschließend den verständlichen Eigentümerbrief verfassen.
+
+Die amtlichen Volltexte, exakten Daten und Anwendungsgrenzen stehen in der [Arbeitsreferenz Oktober 2026](../../references/rechtsstand-oktober-2026.md).
