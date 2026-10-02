@@ -1,0 +1,35 @@
+{
+  "name": "playbook-pruefer",
+  "version": "445.29.0",
+  "description": "Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Playbook-Prüfer",
+    "shortDescription": "Verträge an Kanzleistandards prüfen.",
+    "longDescription": "Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie diesen Vertrag gegen unser freigegebenes Playbook.",
+      "Vergleichen Sie die neue Fassung mit den offenen roten Linien."
+    ]
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/playbook-pruefer",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "playbook",
+    "vertragspruefung",
+    "nda",
+    "arbeitsvertrag",
+    "redlining"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "review_id": "technisches-beispiel-001",
+  "document_precedence": "Ein einziges maßgebliches Dokument V1; dieses kleine Beispiel zeigt nur Zählung und Export, kein vollständiges NDA-Playbook.",
+  "documents": [
+    {
+      "id": "V1",
+      "title": "Beispielvereinbarung",
+      "version": "1",
+      "role": "authoritative",
+      "path": "beispielvertrag.txt",
+      "sha256": "89bb28bea0d2a0f2bed85e2f448a2810899032c53560653d25c0c6bbc10cbd9e"
+    }
+  ],
+  "playbook": {
+    "id": "DEMO",
+    "version": "1",
+    "approved_by": "Beispielkanzlei",
+    "approval_reference": "Technische Demonstration; keine Vorgabe für reale Mandate.",
+    "contract_type": "NDA-Demonstration",
+    "client_side": "Informationsempfänger",
+    "topics": [
+      {
+        "id": "BSP-01",
+        "title": "Nutzungszweck",
+        "required": true,
+        "positions": [
+          {
+            "id": "BSP-01-S",
+            "type": "starting",
+            "match_mode": "all",
+            "rules": [
+              {
+                "id": "BSP-01-S-R1",
+                "condition": "Nur Bewertung des Projekts Vorführmodell ist erlaubt."
+              }
+            ]
+          },
+          {
+            "id": "BSP-01-N",
+            "type": "not_acceptable",
+            "match_mode": "any",
+            "rules": [
+              {
+                "id": "BSP-01-N-R1",
+                "condition": "Der Empfänger darf Informationen für andere Projekte nutzen."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "BSP-02",
+        "title": "Vertragliche Dauer",
+        "required": true,
+        "positions": [
+          {
+            "id": "BSP-02-S",
+            "type": "starting",
+            "match_mode": "all",
+            "rules": [
+              {
+                "id": "BSP-02-S-R1",
+                "condition": "Vertragliche Geheimhaltung höchstens drei Jahre nach Gesprächsende."
+              }
+            ]
+          },
+          {
+            "id": "BSP-02-F1",
+            "type": "fallback",
+            "match_mode": "all",
+            "rules": [
+              {
+                "id": "BSP-02-F1-R1",
+                "condition": "Vertragliche Geheimhaltung höchstens fünf Jahre nach Gesprächsende."
+              }
+            ]
+          },
+          {
+            "id": "BSP-02-N",
+            "type": "not_acceptable",
+            "match_mode": "any",
+            "rules": [
+              {
+                "id": "BSP-02-N-R1",
+                "condition": "Die vertragliche Geheimhaltung gilt zeitlich unbegrenzt."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "topic_observations": {
+    "BSP-01": {
+      "presence": "found",
+      "reasoning": "Der konkrete Wortlaut wird an den definierten Firmenpositionen gemessen. Die rechtliche Wirksamkeit ist nicht Gegenstand dieses technischen Beispiels."
+    },
+    "BSP-02": {
+      "presence": "found",
+      "reasoning": "Der konkrete Wortlaut wird an den definierten Firmenpositionen gemessen. Die rechtliche Wirksamkeit ist nicht Gegenstand dieses technischen Beispiels."
+    }
+  },
+  "observations": {
+    "BSP-01-S-R1": {
+      "outcome": "met",
+      "basis": "quote",
+      "reasoning": "Der Wortlaut erlaubt allein den bezeichneten Projektzweck.",
+      "citations": [
+        {
+          "document_id": "V1",
+          "locator": "Ziffer 1",
+          "locator_verified": true,
+          "quote": "Vertrauliche Informationen dürfen ausschließlich zur Bewertung des Projekts Vorführmodell genutzt werden."
+        }
+      ]
+    },
+    "BSP-01-N-R1": {
+      "outcome": "not_met",
+      "basis": "quote",
+      "reasoning": "Der Wortlaut erlaubt allein den bezeichneten Projektzweck.",
+      "citations": [
+        {
+          "document_id": "V1",
+          "locator": "Ziffer 1",
+          "locator_verified": true,
+          "quote": "Vertrauliche Informationen dürfen ausschließlich zur Bewertung des Projekts Vorführmodell genutzt werden."
+        }
+      ]
+    },
+    "BSP-02-S-R1": {
+      "outcome": "not_met",
+      "basis": "quote",
+      "reasoning": "Fünf Jahre erfüllen den freigegebenen Kompromiss, aber nicht den Drei-Jahres-Ausgangspunkt; eine unbegrenzte vertragliche Dauer steht dort nicht.",
+      "citations": [
+        {
+          "document_id": "V1",
+          "locator": "Ziffer 2",
+          "locator_verified": true,
+          "quote": "Die vertragliche Geheimhaltungspflicht endet fünf Jahre nach Beendigung der Gespräche. Gesetzliche Pflichten bleiben unberührt."
+        }
+      ]
+    },
+    "BSP-02-F1-R1": {
+      "outcome": "met",
+      "basis": "quote",
+      "reasoning": "Fünf Jahre erfüllen den freigegebenen Kompromiss, aber nicht den Drei-Jahres-Ausgangspunkt; eine unbegrenzte vertragliche Dauer steht dort nicht.",
+      "citations": [
+        {
+          "document_id": "V1",
+          "locator": "Ziffer 2",
+          "locator_verified": true,
+          "quote": "Die vertragliche Geheimhaltungspflicht endet fünf Jahre nach Beendigung der Gespräche. Gesetzliche Pflichten bleiben unberührt."
+        }
+      ]
+    },
+    "BSP-02-N-R1": {
+      "outcome": "not_met",
+      "basis": "quote",
+      "reasoning": "Fünf Jahre erfüllen den freigegebenen Kompromiss, aber nicht den Drei-Jahres-Ausgangspunkt; eine unbegrenzte vertragliche Dauer steht dort nicht.",
+      "citations": [
+        {
+          "document_id": "V1",
+          "locator": "Ziffer 2",
+          "locator_verified": true,
+          "quote": "Die vertragliche Geheimhaltungspflicht endet fünf Jahre nach Beendigung der Gespräche. Gesetzliche Pflichten bleiben unberührt."
+        }
+      ]
+    }
+  }
+}

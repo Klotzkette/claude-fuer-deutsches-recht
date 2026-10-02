@@ -12,8 +12,8 @@ Diese Vollprüfung enthält top-8 von 285 Skills (gekürzt für das Arbeitsfenst
 4. **dsgvo-erstpruefung-und-mandatsziel** — Für DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Tatbes…
 5. **datenschutz-schadensersatz-art-82-dsgvo-gerichtsstreit** — Führt einen Anspruch nach DSGVO Artikel 82 auf Kläger- oder Beklagtenseite durch Verstoß, materiellen oder immateriellen…
 6. **datenschutz-schadensersatz-art-82-dsgvo** — Prüft DSGVO Artikel 82 nach Verstoß, materiellem oder immateriellem Schaden, Kausalität, Verschuldensvermutung und Entla…
-7. **ki-verordnung-compliance** — Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, n…
-8. **paket-internationaler-bezug-und-schnittstellen** — Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellen…
+7. **datenschutz-loeschpflicht-art-17-und-aufbewahrung** — Bearbeitet Löschanträge und Aufbewahrungskonflikte je Datenbestand, einschließlich Agentengedächtnis, Suchindex, Protoko…
+8. **ki-verordnung-compliance** — Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, n…
 
 ---
 
@@ -708,6 +708,58 @@ Sieben-Fragen-Diagnose:
 
 ---
 
+## Skill: `datenschutz-loeschpflicht-art-17-und-aufbewahrung`
+
+_Bearbeitet Löschanträge und Aufbewahrungskonflikte je Datenbestand, einschließlich Agentengedächtnis, Suchindex, Protokollen und Modelltraining. Erstellt begründete Antwort, Löschanweisung und überprüfbaren Nachweis ohne pauschale Sperr- oder Filterlösung._
+
+# 1. Löschung und rechtmäßige Aufbewahrung abgrenzen
+
+## 1. Zweck und Anwendungsfall
+
+Beantworte einen Löschantrag oder entwirf eine konkret ausführbare Löschanweisung. Prüfe jeden betroffenen Bestand und Zweck; weder „alles löschen“ noch „alles wegen Buchhaltung behalten“ ist eine tragfähige Entscheidung.
+
+## 2. Eingaben
+
+Lies Antrag und Eingangsdatum, Datenverzeichnis, Zwecke, Empfänger, Speicherorte und geltend gemachte Aufbewahrungsgründe. Bei Agenten zusätzlich Gedächtnis, Suchindex, Protokolle, Werkzeugdienste und etwaige Trainingsnutzung erfassen. Nur tatsächlich entscheidende Lücken nachfragen; ein fehlendes Gesamtkonzept rechtfertigt keine unbearbeitete Monatsfrist nach Artikel 12 Absatz 3 DSGVO.
+
+## 3. Ablauf und Checkliste
+
+### 3.1. Löschgrund und Ausnahme prüfen
+
+Artikel 17 Absatz 1 je Datenkategorie prüfen, dann eine konkret belegte Ausnahme nach Absatz 3. Gesetzliche Aufbewahrung und erforderliche Rechtsverteidigung erlauben nur den jeweils nötigen Umfang und Zweck. Artikel 18 hat eigene Voraussetzungen; er ist kein allgemeiner Ersatz für technisch schwierige Löschung. Zweckbeschränkung und Zugriffsschutz verbleibender Belege sind nicht automatisch eine Einschränkung nach Artikel 18.
+
+Paragraf 257 HGB unterscheidet grundsätzlich zehn Jahre für Bücher/Abschlüsse, acht für Buchungsbelege und sechs für Handelsbriefe; Sonderregeln für bestimmte Finanzunternehmen beachten. Paragraf 147 AO mit Belegart, Fristbeginn, Übergang und steuerlicher Verlängerung gesondert prüfen. Geldwäscherechtliche Dokumentation richtet sich nach Paragraf 8 Absatz 4 GwG, nicht Paragraf 17: grundsätzlich fünf Jahre, andere längere gesetzliche Pflichten und Vernichtungsgrenze berücksichtigen. Keine pauschale Sechsmonatsfrist für alle Bewerberdaten als Gesetz ausgeben.
+
+### 3.2. Speicher und Empfänger bearbeiten
+
+Unterscheide Originalakte, aktive Kopie, Sitzungsspeicher, dauerhaftes Gedächtnis, Vektorsuchindex, Werkzeugprotokolle und Sicherungen. Ein Embedding ist nicht allein wegen seines Zahlenformats anonym. Löschung in der Chatoberfläche belegt nicht die Löschung aller nachgelagerten Kopien. Auftragsverarbeiter anweisen, Nachweis einholen und Empfängerinformation nach Artikel 19 prüfen. Bei Veröffentlichung Artikel 17 Absatz 2 eigens bearbeiten.
+
+Sicherungen nicht als pauschale Dauer-Ausnahme behandeln: begründeter Löschzyklus, Zugriffsbeschränkung, Verhinderung erneuter Produktivnutzung und erneute Löschung nach Wiederherstellung. Belege für rechtlich notwendige Verteidigung zugriffsbeschränkt separieren; kein unbegrenztes Vollarchiv „für spätere Audits“.
+
+### 3.3. Trainingsdaten und Modellparameter
+
+Kläre zunächst, ob die betreffenden Daten tatsächlich für Training verwendet wurden und ob ein identifizierbarer Personenbezug im Modell verbleibt. Keine Unmöglichkeit selektiver Löschung aus dem Schlagwort Sprachmodell ableiten. Trainingskopien, Modellstände, Anpassungskomponenten und ausgegebene Inhalte getrennt untersuchen.
+
+Ein Ausgabefilter ist keine automatisch gleichwertige Löschung. Er kann eine vorläufige Schutzmaßnahme sein, beseitigt aber Speicherung, Abrufbarkeit oder Personenbezug nicht notwendig. Anbieter muss Verfahren, Wirksamkeit, verbleibende Risiken und geprüfte Alternativen erläutern; etwa erneutes Training oder eine belegte Modellanpassung fallbezogen prüfen. Pseudonymisierung nicht mit Anonymisierung gleichsetzen. Technische Unsicherheit als solche benennen und den bereits erfüllbaren Teil des Antrags bearbeiten.
+
+### 3.4. Antwort und Vollzug
+
+Begründe je Bestand: gelöscht, aus welchem Grund bis wann aufbewahrt oder noch technisch zu klären. Eine Verlängerung nach Artikel 12 Absatz 3 fristgerecht mit Grund mitteilen; kein automatischer Aufschub. Bei Ablehnung Artikel 12 Absatz 4 mit Beschwerde- und Rechtsschutzhinweis beachten. Nach Löschprotokoll die Antwort vervollständigen, statt neue Grundfragen zu stellen. Keine Löschung ohne autorisierten Auftrag ausführen.
+
+## 4. Quellenpflicht
+
+Artikel 5, 12, 17 bis 19 und 28 [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Paragraf 257 HGB](https://www.gesetze-im-internet.de/hgb/__257.html), [Paragraf 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html), [Paragraf 8 GwG](https://www.gesetze-im-internet.de/gwg_2017/__8.html). Prüfstand 2. Oktober 2026; bei späterer Verwendung aktuelle Fassung prüfen. Kein Urteil zur Gleichwertigkeit von Filtern erfinden. [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/datenschutzrecht/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Vollständig ausformulierte Betroffenenantwort oder interne Löschanweisung mit Datenumfang, Verantwortlichem, Frist und Nachweis. Keine bloße Konzeptskizze, keine Halbsätze. Times New Roman 11 pt, dezimale Gliederung. Technische Lücken getrennt dokumentieren; keine ausgeführte Löschung oder Speicherung behaupten.
+
+## 6. Beispiele
+
+Eine Rechnung muss aufbewahrt werden, ein daraus erzeugter personenbezogener Agentenmerkzettel hat keinen verbleibenden Zweck: beide Bestände getrennt entscheiden. Der Lieferant hat nur einen Namenfilter aktiviert: Schutzwirkung anerkennen, aber ohne weiteren Nachweis keine vollständige Löschbestätigung versenden.
+
+---
+
 ## Skill: `ki-verordnung-compliance`
 
 _Verbindet die Verordnung EU 2024/1689 mit der Datenschutzprüfung eines konkreten Systems. Trennt Rollen, Risikoklasse, neue Fristen, sensible Daten nach Artikel 4a und deutsche Aufsicht, ohne Reformvorschläge als geltendes Datenschutzrecht auszugeben._
@@ -748,59 +800,6 @@ Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalt
 ## 6. Beispiele
 
 Ein Bewerber-Ranking wird auf Hochrisiko, Diskriminierung und automatisierte Entscheidung geprüft, auch wenn Hochrisikopflichten noch vorbereitet werden. Bei einem Support-Chatbot können Transparenz und Datenschutz schon aktuell greifen. Ein Bias-Test mit Gesundheitsdaten benötigt eine eigenständige Artikel-4a-Prüfung und ist kein Freibrief für allgemeines Modelltraining.
-
----
-
-## Skill: `paket-internationaler-bezug-und-schnittstellen`
-
-_Für Paket: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstellenkarte mit Zuständigkeits- und Nachweisfragen. Fachgebiet: Datenschutzrecht. Route: paket-internationaler-bezug-und-schnittstellen._
-
-# Paket: Internationaler Bezug und Schnittstellen
-
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-**Fokus:** Paket: Internationaler Bezug und Schnittstellen.
-
-## Spezialwissen: Paket: Internationaler Bezug und Schnittstellen
-- **Normen-/Quellenanker:** DSGVO, BDSG, TDDDG, PIA, DPIA, AVV, Art. 15, Art. 33, Art. 44, US, DPF, SCC.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Behördenpaket Drittlandstransfer** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Internationaler Bezug Datenschutz — Schnittstellen
-- **Räumlicher Anwendungsbereich DSGVO Art. 3:**
- - Abs. 1: Verantwortlicher/Auftragsverarbeiter mit Niederlassung in EU/EWR.
- - Abs. 2: Drittlandsanbieter, der Waren/Dienste an EU-Betroffene anbietet (lit. a) oder Verhalten in EU beobachtet (lit. b).
-- **Drittlandstransfer Art. 44 ff. DSGVO:**
- - **Adäquanzbeschluss Art. 45**: aktuelle Liste auf ec.europa.eu (z. B. Schweiz, UK, Israel, Japan, Korea, Andorra, Argentinien etc.).
- - **DPF (US-Adäquanz)**: VO 2023/1795 — nur teilnehmende US-Unternehmen (Liste dataprivacyframework.gov).
- - **SCC** (Beschluss 2021/914): Modul 1 (C-C), 2 (C-P), 3 (P-P), 4 (P-C); + Annex II TOM + Annex III Subunternehmer + ggf. Annex I Beteiligte.
- - **TIA (Transfer Impact Assessment)**: nach Schrems II (Rs. C-311/18) Pflicht; nach EDSA-Empfehlung 01/2020.
-- **Behördenpaket:** Standardformulare BfDI/LDI/LDA; ggf. Auskunftsersuchen Art. 58 Abs. 1 lit. a, Anordnungen lit. d.
-- **EU/EWR-Niederlassung:** Bei Anbieter aus Drittstaat → Pflicht Vertreter Art. 27 DSGVO.
-
-## Praxis-Tipp
-DPF-Mitgliedschaft prüfen mit Datum: ein US-Unternehmen kann zwischenzeitlich aus dem DPF ausscheiden. Eine "wir nutzen DPF"-Aussage ohne aktuelle Listenüberprüfung trägt rechtlich nicht — vor jeder Bewertung dataprivacyframework.gov-Liste sichtbar dokumentieren (Screenshot, Datum).
 
 ---
 

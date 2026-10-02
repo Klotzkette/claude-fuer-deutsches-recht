@@ -104,42 +104,6 @@
   },
   "cases": [
     {
-      "id": "agenten-digitalrecht-2026",
-      "request": "Ein Einkaufsagent soll nur Bestellungen bis 2000 Euro vorbereiten. Der Vertragsentwurf erlaubt dennoch unbegrenzte Zahlungen und Wiederholung nach Zeitüberschreitung. Der Lieferant nennt einen Ausgabefilter Löschung und lehnt jegliche Unterstützung eines möglicherweise hochriskanten Folgesystems ab. Erstellen Sie verhandlungsfähige Ersatzklauseln und eine kurze Verhandlungsnotiz. Die konkrete Hochrisikoeinstufung ist noch offen; keine Bestellungen oder Änderungen auslösen.",
-      "target_skill": "itr-ki-systeme-vertragsklausel-leitfaden",
-      "input_files": [],
-      "deliverables": [
-        "Ersatzklauseln.docx",
-        "Verhandlungsnotiz.docx"
-      ],
-      "criteria": [
-        {
-          "id": "pruefpunkt-1",
-          "text": "Trennt technische Zugriffsrechte, rechtsgeschäftliche Zurechnung und zulässige Außenhandlungen; grenzt den Auftrag Vorbereitung von Zahlung ab.",
-          "deliverables": [
-            "Ersatzklauseln.docx",
-            "Verhandlungsnotiz.docx"
-          ]
-        },
-        {
-          "id": "pruefpunkt-2",
-          "text": "Vereinbart Prüfung unklaren Vollzugs vor Wiederholung, eindeutige Auftragskennung und Abnahmeproben für manipulierte Eingaben statt bloßer Fehlerfreiheit.",
-          "deliverables": [
-            "Ersatzklauseln.docx",
-            "Verhandlungsnotiz.docx"
-          ]
-        },
-        {
-          "id": "pruefpunkt-3",
-          "text": "Prüft Artikel 25 Absatz 4 mit Voraussetzungen und Ausnahmen, verlangt Lösch- und Exitnachweise und liefert vollständige Klauseln ohne universelle Herstellerhaftung.",
-          "deliverables": [
-            "Ersatzklauseln.docx",
-            "Verhandlungsnotiz.docx"
-          ]
-        }
-      ]
-    },
-    {
       "id": "erp-pilotbetrieb-migration-dashboard",
       "request": "Wir vertreten die Bestellerin eines ERP-Einführungsprojekts. Erstellen Sie ergebnis.md als Projektvotum mit Zahlungsbrücke und Antwortentwurf. Im B2B-Vertrag vom 01.02.2026 schuldet der Anbieter die funktionsfähige Gesamtimplementierung einschließlich Migration aller Kundendatensätze für 300.000 EUR netto. 240.000 EUR sind als wirksam vereinbarte Abschläge bezahlt; 60.000 EUR werden erst nach Gesamtabnahme fällig. Teilabnahmen des Grundprojekts wurden ausgeschlossen. Am 01.08. begann ausdrücklich nur ein Pilotbetrieb. Die Migration erzeugt weiterhin reproduzierbare Dubletten, entgegen der eindeutigen Vorgabe im Pflichtenheft. Am 10.08. forderte der Anbieter zur Gesamtabnahme bis 24.08. auf; am 12.08. lehnte die Geschäftsführerin schriftlich unter genauer Benennung der Dubletten die Abnahme ab und verlangte deren Beseitigung. Sie will das Projekt mit dem Anbieter fortsetzen. Zusätzlich war ein im Grundumfang nicht enthaltenes Dashboard durch beidseitig von den Geschäftsführern unterschriebenen Nachtrag für 20.000 EUR bestellt worden; dieser sieht eigene Abnahme und Fälligkeit vor. Das Dashboard wurde am 15.08. gesondert mangelfrei abgenommen, eine Zahlung darauf ist nicht erfolgt. Für die Dublettenbereinigung fordert der Anbieter weitere 40.000 EUR. Dazu existiert nur ein Ticket, in dem der IT-Sachbearbeiter der Bestellerin die Fehlerbeschreibung mit 'technisch bestätigt' markiert hat. Vertrag und bekannte Vollmachtsmatrix erlauben diesem Mitarbeiter weder Preiszusagen noch Vertragsänderungen; sonstige Genehmigungen oder Vertrauenstatbestände fehlen. Der Anbieter verlangt nun 120.000 EUR sofort. Für den Fall einer Gesamtabnahme sind erforderliche Kosten der Dublettenbereinigung von 12.000 EUR durch ein beiderseits akzeptiertes Angebot belegt. Kündigung, Vorschussklage und eigenmächtiger Versand sind nicht beauftragt. Beurteilen Sie den aktuellen Stand und erläutern Sie zusätzlich die rechnerische Bedeutung einer späteren wirksamen Gesamtabnahme mit Mängelvorbehalt.",
       "input_files": [],
@@ -184,6 +148,42 @@
         }
       ],
       "target_skill": "erp-abnahme-nachtraege-belegabgleich"
+    },
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Einkaufsagent soll nur Bestellungen bis 2000 Euro vorbereiten. Der Vertragsentwurf erlaubt dennoch unbegrenzte Zahlungen und Wiederholung nach Zeitüberschreitung. Der Lieferant nennt einen Ausgabefilter Löschung und lehnt jegliche Unterstützung eines möglicherweise hochriskanten Folgesystems ab. Erstellen Sie verhandlungsfähige Ersatzklauseln und eine kurze Verhandlungsnotiz. Die konkrete Hochrisikoeinstufung ist noch offen; keine Bestellungen oder Änderungen auslösen.",
+      "target_skill": "itr-ki-systeme-vertragsklausel-leitfaden",
+      "input_files": [],
+      "deliverables": [
+        "Ersatzklauseln.docx",
+        "Verhandlungsnotiz.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Trennt technische Zugriffsrechte, rechtsgeschäftliche Zurechnung und zulässige Außenhandlungen; grenzt den Auftrag Vorbereitung von Zahlung ab.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Vereinbart Prüfung unklaren Vollzugs vor Wiederholung, eindeutige Auftragskennung und Abnahmeproben für manipulierte Eingaben statt bloßer Fehlerfreiheit.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Prüft Artikel 25 Absatz 4 mit Voraussetzungen und Ausnahmen, verlangt Lösch- und Exitnachweise und liefert vollständige Klauseln ohne universelle Herstellerhaftung.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        }
+      ]
     }
   ],
   "workshop_review": {

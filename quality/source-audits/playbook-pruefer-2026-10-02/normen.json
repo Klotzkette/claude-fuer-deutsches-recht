@@ -1,0 +1,431 @@
+{
+  "stand": "2026-10-02",
+  "pruefung": "Gezielte Primärquellenprüfung der im neuen Playbook-Prüfer verwendeten NDA-/Arbeitsvertragsanker.",
+  "quellen": [
+    {
+      "id": "BGB-305",
+      "fundstelle": "§ 305 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "pruefabschnitt": "AGB-Charakter",
+      "anwendung": "Vorformulierung und tatsächliches Aushandeln feststellen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen; teilweise zusätzlicher Webabgleich."
+    },
+    {
+      "id": "BGB-305b",
+      "fundstelle": "§ 305b BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "pruefabschnitt": "Individualabrede",
+      "anwendung": "Vertragsrangfolge nicht mit bloßer Dateireihenfolge gleichsetzen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen; teilweise zusätzlicher Webabgleich."
+    },
+    {
+      "id": "BGB-306",
+      "fundstelle": "§ 306 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "pruefabschnitt": "Rechtsfolgen",
+      "anwendung": "Unwirksame AGB nicht ungeprüft auf das gerade noch Zulässige reduzieren.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen; teilweise zusätzlicher Webabgleich."
+    },
+    {
+      "id": "BGB-307",
+      "fundstelle": "§ 307 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "pruefabschnitt": "Inhaltskontrolle",
+      "anwendung": "Transparenz und unangemessene Benachteiligung unterscheiden.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen; teilweise zusätzlicher Webabgleich."
+    },
+    {
+      "id": "BGB-310",
+      "fundstelle": "§ 310 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "pruefabschnitt": "Anwendungsbereich",
+      "anwendung": "Unternehmervertrag, Arbeitsvertrag und kollektivrechtliche Regelung unterscheiden.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen; teilweise zusätzlicher Webabgleich."
+    },
+    {
+      "id": "GEHEIMNIS",
+      "fundstelle": "§§ 1–5 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+      "pruefabschnitt": "§ 1 Abs. 3; § 2 Nr. 1; § 3 Abs. 1 Nr. 2 und Abs. 2; § 5",
+      "anwendung": "Vertraglichen Schutz, gesetzlichen Geheimnisschutz, Untersuchungsrechte und Ausnahmen auseinanderhalten.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HINSCHG-5",
+      "fundstelle": "§ 5 HinSchG",
+      "url": "https://www.gesetze-im-internet.de/hinschg/__5.html",
+      "pruefabschnitt": "Abs. 2 Nr. 3 und 5",
+      "anwendung": "Berufsgeheimnisse sind kein pauschal freigegebenes Meldematerial.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HINSCHG-6",
+      "fundstelle": "§ 6 HinSchG",
+      "url": "https://www.gesetze-im-internet.de/hinschg/__6.html",
+      "pruefabschnitt": "Abs. 1 und 2",
+      "anwendung": "Meldung und Offenlegung von Geheimnissen nur unter den gesetzlichen Voraussetzungen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HINSCHG-32",
+      "fundstelle": "§ 32 HinSchG",
+      "url": "https://www.gesetze-im-internet.de/hinschg/__32.html",
+      "pruefabschnitt": "Abs. 1",
+      "anwendung": "Öffentliche Offenlegung hat eigene Schutzvoraussetzungen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HINSCHG-33",
+      "fundstelle": "§ 33 HinSchG",
+      "url": "https://www.gesetze-im-internet.de/hinschg/__33.html",
+      "pruefabschnitt": "Abs. 1",
+      "anwendung": "Schutzvoraussetzungen des Hinweisgebers kontrollieren.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HINSCHG-39",
+      "fundstelle": "§ 39 HinSchG",
+      "url": "https://www.gesetze-im-internet.de/hinschg/__39.html",
+      "pruefabschnitt": "Gesamte Vorschrift",
+      "anwendung": "Vertragliche Beschränkungen gesetzlicher Hinweisgeberrechte sind unwirksam.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "ARBZG-3",
+      "fundstelle": "§ 3 ArbZG",
+      "url": "https://www.gesetze-im-internet.de/arbzg/__3.html",
+      "pruefabschnitt": "Sätze 1 und 2",
+      "anwendung": "Werktägliche Grenzen sind etwas anderes als 40h-Kanzleistandard.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlicher Wortlaut über Webabruf bzw. vollständig dargestellten Primärquellen-Suchtreffer gelesen."
+    },
+    {
+      "id": "ARBZG-4",
+      "fundstelle": "§ 4 ArbZG",
+      "url": "https://www.gesetze-im-internet.de/arbzg/__4.html",
+      "pruefabschnitt": "Gesamte Vorschrift",
+      "anwendung": "Pausen nicht als frei verfügbare Mehrarbeitsstunden behandeln.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlicher Wortlaut über Webabruf bzw. vollständig dargestellten Primärquellen-Suchtreffer gelesen."
+    },
+    {
+      "id": "ARBZG-5",
+      "fundstelle": "§ 5 ArbZG",
+      "url": "https://www.gesetze-im-internet.de/arbzg/__5.html",
+      "pruefabschnitt": "Abs. 1",
+      "anwendung": "Ruhezeiten zusätzlich berücksichtigen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlicher Wortlaut über Webabruf bzw. vollständig dargestellten Primärquellen-Suchtreffer gelesen."
+    },
+    {
+      "id": "ARBSCHG-3",
+      "fundstelle": "§ 3 ArbSchG",
+      "url": "https://www.gesetze-im-internet.de/arbschg/__3.html",
+      "pruefabschnitt": "Abs. 2 Nr. 1",
+      "anwendung": "Normgrundlage des nationalen Erfassungsankers.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "MILO-3",
+      "fundstelle": "§ 3 MiLoG",
+      "url": "https://www.gesetze-im-internet.de/milog/__3.html",
+      "pruefabschnitt": "Gesamte Vorschrift",
+      "anwendung": "Mindestlohn nicht durch Ausschlussfrist oder Pauschale verkürzen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "GEWO-106",
+      "fundstelle": "§ 106 GewO",
+      "url": "https://www.gesetze-im-internet.de/gewo/__106.html",
+      "pruefabschnitt": "Satz 1",
+      "anwendung": "Weisungsrecht endet an vertraglicher Festlegung; billiges Ermessen bleibt erforderlich.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "NACHWG-2",
+      "fundstelle": "§ 2 NachwG",
+      "url": "https://www.gesetze-im-internet.de/nachwg/__2.html",
+      "pruefabschnitt": "Abs. 1 und 5",
+      "anwendung": "Textform und elektronische Übermittlung sind bedingt möglich; Vertragswirksamkeit und Nachweis trennen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "SCHWARZARB-2A",
+      "fundstelle": "§ 2a SchwarzArbG",
+      "url": "https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html",
+      "pruefabschnitt": "Abs. 1",
+      "anwendung": "Branchenkatalog für die Ausnahme im Nachweisgesetz am Einzelfall prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "BGB-622",
+      "fundstelle": "§ 622 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__622.html",
+      "pruefabschnitt": "Abs. 1, 3, 4 und 6",
+      "anwendung": "Probezeit- und Kündigungsfristen getrennt von Freistellung prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "BGB-623",
+      "fundstelle": "§ 623 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__623.html",
+      "pruefabschnitt": "Gesamte Vorschrift",
+      "anwendung": "Form der Kündigung/Auflösung bleibt von NachwG-Erleichterung getrennt.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "TZBFG-14",
+      "fundstelle": "§ 14 TzBfG",
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+      "pruefabschnitt": "Abs. 4",
+      "anwendung": "Befristungsform nicht mit bloßer Textform des Nachweises gleichsetzen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "BGB-343",
+      "fundstelle": "§ 343 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__343.html",
+      "pruefabschnitt": "Abs. 1",
+      "anwendung": "Herabsetzung ist kein Automatismus zur Rettung einer AGB-Strafklausel.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "HGB-348",
+      "fundstelle": "§ 348 HGB",
+      "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+      "pruefabschnitt": "Gesamte Vorschrift",
+      "anwendung": "Kaufmännisches Strafversprechen als Grenze der Herabsetzung nach § 343 BGB prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen."
+    },
+    {
+      "id": "BRAO-43A",
+      "fundstelle": "§ 43a BRAO",
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "pruefabschnitt": "Abs. 2",
+      "anwendung": "Anwaltliche Verschwiegenheit gesondert prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm direkt abgerufen und gelesen."
+    },
+    {
+      "id": "BRAO-43E",
+      "fundstelle": "§ 43e BRAO",
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "pruefabschnitt": "Abs. 1–6",
+      "anwendung": "Erforderlichen Dienstleisterzugang, Auswahl, Verpflichtung und Auslandskontext prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "STGB-203",
+      "fundstelle": "§ 203 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__203.html",
+      "pruefabschnitt": "Abs. 1, 3 und 4",
+      "anwendung": "Strafrechtlichen Geheimnisschutz neben Datenschutz berücksichtigen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext im Webwerkzeug geöffnet und den angegebenen Abschnitt gelesen."
+    },
+    {
+      "id": "DSGVO",
+      "fundstelle": "Art. 4 Nr. 7 und 8; Art. 5, 6, 28, 32, 44 ff. DSGVO",
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=61",
+      "herausgeber": "BfDI",
+      "quellenstand": "März 2026, 1. Auflage",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Normwiedergabe als PDF heruntergeladen, Text zu Rollen, Auftragsverarbeitung, Sicherheit und Transfers gelesen; Artikel 5 und 6 zusätzlich in BMF-Ausgabe 2026 geöffnet.",
+      "sha256": "e10b5907246e4fedaee093646dbc549b24eea53d8d72e3315dd46a5838be926e",
+      "anwendung": "NDA, AVV, Rechtsgrundlage und Drittlandtransfer sind verschiedene Prüfungen."
+    },
+    {
+      "id": "TZBFG-15",
+      "fundstelle": "§ 15 Abs. 3 TzBfG",
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__15.html",
+      "pruefabschnitt": "Probezeit bei Befristung",
+      "anwendung": "Probezeit proportional zu erwarteter Befristungsdauer und Art der Tätigkeit, keine pauschalen sechs Monate.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Nach Web-Timeout amtliche Einzelnorm direkt abgerufen und Absatz 3 gelesen."
+    },
+    {
+      "id": "GEWO-110",
+      "fundstelle": "§ 110 GewO",
+      "url": "https://www.gesetze-im-internet.de/gewo/__110.html",
+      "pruefabschnitt": "Nachvertraglicher Wettbewerb",
+      "anwendung": "Eigener gesetzlicher Prüfpfad über entsprechende Anwendung der §§ 74 bis 75f HGB.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm vollständig im Web gelesen."
+    },
+    {
+      "id": "HGB-74",
+      "fundstelle": "§ 74 HGB",
+      "url": "https://www.gesetze-im-internet.de/hgb/__74.html",
+      "pruefabschnitt": "Form und Karenzentschädigung",
+      "anwendung": "Form, Aushändigung und Mindestentschädigung unterscheiden; NDA ersetzt keinen Wettbewerbsschutzpfad.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Nach Web-Timeout amtliche Einzelnorm direkt abgerufen und vollständig gelesen."
+    },
+    {
+      "id": "HGB-74A",
+      "fundstelle": "§ 74a HGB",
+      "url": "https://www.gesetze-im-internet.de/hgb/__74a.html",
+      "pruefabschnitt": "Reichweite des Wettbewerbsverbots",
+      "anwendung": "Berechtigtes Interesse, Grenzen nach Ort/Zeit/Gegenstand und Höchstdauer eigenständig prüfen.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm vollständig im Web gelesen."
+    },
+    {
+      "id": "KSCHG-4",
+      "fundstelle": "§ 4 KSchG",
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "pruefabschnitt": "Klagefrist nach Kündigung",
+      "anwendung": "Grundsätzlich drei Wochen ab Zugang der schriftlichen Kündigung; besondere gesetzliche Anlaufregel bei Behördenzustimmung gesondert beachten. Vertragsnachweis und späterer Kündigungsvorgang bleiben getrennt.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm vollständig im Web gelesen."
+    },
+    {
+      "id": "BGB-611A",
+      "fundstelle": "§ 611a BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__611a.html",
+      "pruefabschnitt": "Vertragstyp und tatsächliche Beschäftigung",
+      "anwendung": "Arbeitsvertrag nach Gesamtumständen und tatsächlicher Durchführung bestimmen; Funktionsbezeichnung allein entscheidet nicht.",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtliche Einzelnorm im Web vollständig gelesen."
+    }
+  ],
+  "rechtsprechung": [
+    {
+      "id": "EUGH-CCOO",
+      "gericht": "EuGH",
+      "entscheidungsform": "Urt.",
+      "datum": "14.05.2019",
+      "aktenzeichen": "C-55/18",
+      "pinpoint": "60–63 und 71",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=ecli:ECLI:EU:C:2019:402",
+      "abschnitt_rechtsprechungsanker": "3.3",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-FREISTELLUNG",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "25.03.2026",
+      "aktenzeichen": "5 AZR 108/25",
+      "pinpoint": "25–34",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/",
+      "abschnitt_rechtsprechungsanker": "3.1",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-GEHEIMNIS",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "17.10.2024",
+      "aktenzeichen": "8 AZR 172/23",
+      "pinpoint": "24–27 und 31–40",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "abschnitt_rechtsprechungsanker": "2.1",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-ERFASSUNG",
+      "gericht": "BAG",
+      "entscheidungsform": "Beschl.",
+      "datum": "13.09.2022",
+      "aktenzeichen": "1 ABR 22/21",
+      "pinpoint": "43–55 und 65",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/",
+      "abschnitt_rechtsprechungsanker": "3.3",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-VERGUETUNG",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "04.05.2022",
+      "aktenzeichen": "5 AZR 359/21",
+      "pinpoint": "15–23",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-359-21/",
+      "abschnitt_rechtsprechungsanker": "3.3",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-AUSSCHLUSS",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "18.09.2018",
+      "aktenzeichen": "9 AZR 162/18",
+      "pinpoint": "Leitsatz 1; Rn. 35–45",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-162-18/",
+      "abschnitt_rechtsprechungsanker": "3.4",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BGH-STRAFE",
+      "gericht": "BGH",
+      "entscheidungsform": "Urt.",
+      "datum": "31.08.2017",
+      "aktenzeichen": "VII ZR 308/16",
+      "pinpoint": "14–23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2016/VII_ZR_308-16.pdf?__blob=publicationFile&v=1",
+      "abschnitt_rechtsprechungsanker": "2.2",
+      "verifikation": "Neuen amtlichen PDF-Volltext nach BGH-Datenbankumzug direkt heruntergeladen und Rn. 14–23 gelesen.",
+      "abgerufen": "2026-10-02",
+      "sha256": "5313f6724847ffdb5cdf37fe3df1d0aa4c09930e05ed623ef317981a0be6b578"
+    },
+    {
+      "id": "BAG-ORT",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "28.08.2013",
+      "aktenzeichen": "10 AZR 569/12",
+      "pinpoint": "18–20",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-569-12/",
+      "abschnitt_rechtsprechungsanker": "3.5",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    },
+    {
+      "id": "BAG-PAUSCHALE",
+      "gericht": "BAG",
+      "entscheidungsform": "Urt.",
+      "datum": "01.09.2010",
+      "aktenzeichen": "5 AZR 517/09",
+      "pinpoint": "13–16",
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-517-09/",
+      "abschnitt_rechtsprechungsanker": "3.2",
+      "verifikation": "Amtlichen Volltext geöffnet und angegebenen Abschnitt gelesen.",
+      "abgerufen": "2026-10-02"
+    }
+  ],
+  "literatur": "Keine Literaturfundstellen aus Modellwissen verwendet.",
+  "grenzen": [
+    "Keine Behauptung lückenloser Rechtsprechungserfassung bis zum Stichtag.",
+    "Keine automatisierte Gleichsetzung eines Playbookverbots mit gesetzlicher Unwirksamkeit.",
+    "Die materielle Schlusskontrolle der endgültigen Arbeitsakten und Promptfassungen wird gesondert dokumentiert."
+  ]
+}

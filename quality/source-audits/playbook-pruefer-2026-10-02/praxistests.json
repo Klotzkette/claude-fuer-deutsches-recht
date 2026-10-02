@@ -1,0 +1,24 @@
+{
+  "stand": "2026-10-02",
+  "status": "teilweise_abgeschlossen",
+  "nda_mini": {
+    "eingangsprompt_sha256": "276b24474f4073970bd9368eb08148aa77fb810a65b43075e6a05c4798072f1d",
+    "bericht_sha256": "ea82863ce0898156c08fb125fbb122f7e8af3e9d10d4c4b66199de50ade98bac",
+    "laufnotiz_sha256": "c0c7d0fbf63ce2895d60174065afb0ea27bb79dbe9015aa20d9148ee0d0e344f",
+    "tatsaechlicher_lauf": "Unabhängiger Agent las nur Mini und 15 Originalunterlagen; keine Musterlösung oder Eval-Vorgabe. Bericht mit 35 Regeln und Klauselentwürfen vollständig erstellt.",
+    "nachpruefung": "Separater Rechtsprüfer bestätigte 35 unveränderte Regelwortlaute, 31 auffindbare Originalzitate, vier belegte Fehlstellen ohne erfundene Zitate und korrekte Positionszähler.",
+    "befunde": [
+      "BGH-Anker zur Vertragsstrafe im Ergebnis fehlte; §307-BGB-Prüfung allein erfüllt das spezifische Quellenkriterium nicht vollständig.",
+      "Außerhalb der Regelkarten wurde Abschnitt4 der Anlage unpräzise als Anlage4 bezeichnet."
+    ],
+    "reaktion": "Mini um amtlichen BGH-Anker VII ZR308/16 samt Übertragungsgrenze ergänzt; fachliche Gegenlektüre bestanden. Kein erneuter Modelllauf behauptet.",
+    "endfassung_mini_sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd"
+  },
+  "arbeitsvertrag_werkstatt": {
+    "status": "Bericht erstellt, Abschlussprotokoll und unabhängige vollständige Gegenprüfung nicht abgeschlossen.",
+    "bericht_sha256": "205f708e5f680a7f5f0d99bcc953db317cb7d5f7012f4c3a1c8fcb027f66ecb8",
+    "grenze": "Kein bestandener vollständiger Modelltest behauptet; Schlussabschnitt Dateiinventar blieb unvollständig."
+  },
+  "abbruchgrund": "Agentenläufe erreichten das Kontingentlimit vor abschließender Testdokumentation. Fachliche Gegenlektüre und technische Tests sind separat belegt.",
+  "exportgrenze": "Beide Modellaufträge verlangten Markdown; Wordexport wurde separat nur am technischen Beispieldatensatz geprüft."
+}

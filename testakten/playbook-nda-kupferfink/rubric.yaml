@@ -1,0 +1,78 @@
+name: Kupferfink und das NDA für Federlicht
+plugin: playbook-pruefer
+stand: '2026-10-02'
+pruefstatus: Technische Bestandsprüfung und redaktionelle Aktenprüfung getrennt von einer noch offenen
+  Ergebnisbewertung.
+bewertungsgrundlage:
+  rohakte: playbook-nda-kupferfink
+  hinweis: Diese Bewertungsdatei gehört nicht zu den Arbeitsunterlagen und wird aus den Exporten ausgeschlossen.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Der vollständige native Vertragsvorgang ist vorhanden.
+  min: 15
+- id: format-docx
+  check_type: file_count
+  description: 8 Originaldateien im Format DOCX sind vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: format-eml
+  check_type: file_count
+  description: 6 Originaldateien im Format EML sind vorhanden.
+  glob: '*.eml'
+  min: 6
+- id: format-txt
+  check_type: file_count
+  description: 1 Originaldateien im Format TXT sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/playbook-nda-kupferfink_gesamt.pdf
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 02_Playbook_NDA_V1_2.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 04_NDA_Entwurf_25_September.docx
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 06_Anlage_FED_AN1.docx
+- id: fach-versionsverbund
+  check_type: human_review
+  description: Wird die aktuelle Vertragsfassung mit ihrer ranghöheren Anlage zusammen geprüft, ohne alte
+    Klauseln oder bloße Wünsche hinzuzulesen?
+  note: 'Offen: Kriterium für die spätere Bearbeitung. Bestands- und Redaktionsprüfung sind keine Bewertung
+    einer Modellausgabe.'
+- id: fach-regelabdeckung
+  check_type: human_review
+  description: Werden sämtliche stabilen Regelkennungen einzeln und mit echten Fundstellen beurteilt,
+    einschließlich literaler Zählung nicht akzeptabler Bedingungen?
+  note: 'Offen: Kriterium für die spätere Bearbeitung. Bestands- und Redaktionsprüfung sind keine Bewertung
+    einer Modellausgabe.'
+- id: fach-tatsachen
+  check_type: human_review
+  description: Werden fehlender Vertragsinhalt, nicht verifizierbare Tatsachen und bloße Abweichungen
+    vom Unternehmensstandard sauber unterschieden?
+  note: 'Offen: Kriterium für die spätere Bearbeitung. Bestands- und Redaktionsprüfung sind keine Bewertung
+    einer Modellausgabe.'
+- id: fach-rechtspruefung
+  check_type: human_review
+  description: Werden rechtliche Bedenken mit verifizierten passenden Primärquellen begründet und von
+    internen Verhandlungspositionen getrennt?
+  note: 'Offen: Kriterium für die spätere Bearbeitung. Bestands- und Redaktionsprüfung sind keine Bewertung
+    einer Modellausgabe.'
+- id: fach-ergebnis
+  check_type: human_review
+  description: Liegen ein strukturierter interner Bericht und vollständig ausformulierte Änderungsdokumente
+    vor, ohne ungefragten Versand oder automatische Abweichungsfreigabe?
+  note: 'Offen: Kriterium für die spätere Bearbeitung. Bestands- und Redaktionsprüfung sind keine Bewertung
+    einer Modellausgabe.'

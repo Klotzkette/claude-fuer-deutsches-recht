@@ -88,6 +88,12 @@ Kontrollierte Eingabedaten auf Relevanz und ausreichende Repräsentativität fü
 
 Arbeitnehmervertretung und betroffene Beschäftigte nach Absatz 7 sowie betroffene natürliche Personen nach Absatz 11 auseinanderhalten. Die Anweisung enthält einen benannten Meldeweg, Vertretung und Befugnis zur Unterbrechung. Artikel 26 Absatz 5 nicht mit dem Anbieterbericht nach Artikel 73 verwechseln. Nach neuem Anbieterhinweis nur die betroffenen Arbeitsabläufe und den bereits bestellten Entwurf ändern; keine erneute vollständige Mandatsaufnahme.
 
+### 3.4 Agentenkette tatsächlich beherrschen
+
+Legen mehrere Agenten Bewerberdaten ab, bewerten sie und versenden Absagen, müssen die Eingriffspunkte vor der erheblichen Wirkung liegen. Ein späteres Dashboard oder Not-Aus ersetzt keine echte Einzelfallprüfung. Artikel 22 DSGVO einschließlich Ausnahmen gesondert prüfen. Erlaubte Werkzeuge, Empfänger und Rechte außerhalb des Sprachmodells begrenzen; eine frei formulierte Systemanweisung allein ist keine technische Zugriffssperre.
+
+Für Störungen festlegen, wie laufende und delegierte Aufträge angehalten, ihr Vollzug geprüft und doppelte Absagen verhindert werden. Eine sichere Testprobe muss auch manipulierte Dokumentinhalte und unerwartete Werkzeugantworten abdecken. Keine generelle Speicherung jeder internen Modellüberlegung verlangen: nachvollziehbare Ereignisse, Versionen, Freigaben und relevante Ergebnisse mit Datenminimierung dokumentieren. Fehlende technische Kontrolle führt zum Nachforderungsschreiben, nicht zu einer unbelegten Freigabe.
+
 ## 4 Quellenpflicht
 
 Artikel 26, ergänzend Artikel 14 und 111/113 in geltender Fassung amtlich prüfen. [Rechtsstand und Quellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/rechtsstand-und-quellen.md) und [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-verordnung-hochrisiko-pruefer/references/zitierweise.md) beachten. Gesetzliche Pflicht, vertragliche Vorgabe und eigene organisatorische Empfehlung kenntlich trennen. Datenschutz und Mitbestimmung nicht als durch KI-Einstufung erledigt behandeln.
@@ -252,6 +258,8 @@ Ein privates Konto und ein internes Verbot sind Belege, keine abschließende Zur
 
 Prüfe getrennt eigenes Kennzeichen, wesentliche Änderung eines schon hochriskanten Systems und zweckändernde Umwidmung eines zuvor nicht hochriskanten Systems. Benenne jeweils den Gegenstand, die Änderung und den Handelnden. Eine interne Eingabe bedeutet nicht ohne Weiteres eigenes Inverkehrbringen; auch eigene Inbetriebnahme und tatsächliche Prozessintegration sind zu untersuchen. Dokumentiere offen, wenn die Tatsachen den Anbieterwechsel noch nicht tragen.
 
+Bei Agenten konkrete Änderung bezeichnen: neuer Schreibzugriff ins Bewerberportal, automatische Absage, delegierte Bewertung oder dauerhaftes Kandidatengedächtnis. Nicht jede technische Ergänzung erfüllt Artikel 25. Entscheidend sind Zweckänderung beziehungsweise wesentliche Änderung und Hochrisikobezug. Ein vom Agenten eigenständig ausgewählter Dienst ist kein rechtsfähiger Ersatzverantwortlicher; die organisatorisch eröffnete Handlungsbefugnis bleibt zu prüfen.
+
 ### 3.3 Sofortmaßnahme und Fortsetzung
 
 Entwirf eine konkret adressierte Weisung, weitere Bewerberübertragungen vorläufig zu unterbinden, vorhandene Exporte kontrolliert zu sichern und bereits beeinflusste Bewerbungen einer erneuten Sichtung zuzuführen, soweit dies der Auftrag deckt. Beschreibe Reichweite und Verantwortliche, nicht pauschal „alle KI abschalten“. Keine heimliche Mitarbeiterüberwachung. Eine weitere Herstellererklärung wird in Rollenvermerk und Anbieteranschreiben eingearbeitet.
@@ -377,6 +385,8 @@ Lies zuerst den benannten Ordner mit Leistungsbeschreibung, Gebrauchsanleitung, 
 ### 3.1 Betriebsarten trennen
 
 Beschreibe für jede Version Eingaben, Verarbeitung, Ausgabe und Übernahme in die Entscheidung. Ermittle insbesondere, ob das Werkzeug nur vorhandene Daten alphabetisch ordnet, Angaben extrahiert, Eignung bewertet oder Bewerbungen unsichtbar stellt. Prüfe bei rein deterministischen Vorgängen zuerst die KI-Systemdefinition. Unterscheide das verwendete KI-Modell vom konkret eingesetzten System einschließlich Bedienoberfläche und Prozessintegration.
+
+Bei einer Agentenkette Modell, Planung, Gedächtnis, Werkzeugrechte und Unteragenten mit der tatsächlich übernommenen Auswahlentscheidung verbinden. Ein Extraktionsagent kann isoliert vorbereitend wirken, während die Gesamtanwendung Kandidaten bewertet und automatisch ausschließt. Die Systemgrenze begründet festlegen, nicht jedes kleine Modul einzeln als Ausnahme erklären. Weder Autonomie noch Personaldaten allein ersetzen den Tatbestand des Artikels 6. Laufzeit-Anpassungsfähigkeit ist für Artikel 3 Nummer 1 nicht zwingend.
 
 ### 3.2 Zweck belegen
 

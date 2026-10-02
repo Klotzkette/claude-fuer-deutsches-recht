@@ -1,6 +1,6 @@
 # eigenbedarfskuendigungschecker
 
-**10 Skills** · Stand `v445.28.1`
+**10 Skills** · Stand `v445.29.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../eigenbedarfskuendigungschecker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,8 +1,8 @@
 # Skill-Gesamtübersicht
 
-Automatisch generierte Gesamtübersicht aller **22710 Skills** in **272 Plugins**.
+Automatisch generierte Gesamtübersicht aller **22721 Skills** in **273 Plugins**.
 
-Stand: `v445.28.1`.
+Stand: `v445.29.0`.
 
 [Repository-Start](README.md) · [Download-Index](ASSET_INDEX.md) · [Werkstatt und Schnellstart](docs/werkstatt-und-schnellstart-coverage.md) · [Testakten](testakten/README.md) · [Plugin-Katalog](README.md#was-ist-drin) · [Detailseiten](skills-index/)
 
@@ -10,8 +10,8 @@ Stand: `v445.28.1`.
 
 | Paket | Inhalt | Download |
 | --- | --- | --- |
-| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 272 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Alle Plugins (installierbar)** | Alle 272 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
+| **Alle Skills als Markdown** | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs aller 273 Plugins; Werkstatt und Schnellstart bleiben einzelne Markdown-Direktdownloads | [`alle-skills-markdown.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
+| **Alle Plugins (installierbar)** | Alle 273 Plugin-ZIPs in einem Archiv für kompatible Plugin-Oberflächen | [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) |
 | **Komplettpaket (alles)** | Plugins + Skill-Markdowns + Testakten + Übersichten | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) |
 
 Das Markdown-Paket enthält die Skilltexte und ihre Markdown-Referenzen, aber keine automatisch eingerichteten Werkzeuge oder Zugriffsrechte. Für den manuellen Einstieg sind Werkstatt oder Schnellstart meist einfacher. Links mit „MD herunterladen“ speichern die Datei über die Downloadseite; Übersichtslinks bleiben lesbare GitHub-Seiten. Das installierbare Plugin-ZIP ist ein anderes Paket.
@@ -37,7 +37,7 @@ So bekommt man die komplette Sammlung als installierbares ZIP:
 
 Die Listen werden aus den im Marketplace registrierten Plugin-Verzeichnissen erzeugt und gegen den Dateibestand geprüft. Sie zeigen den Quellbestand: Im installierten Paket werden manche umfangreichen Spezialserien über einen Fachrouter bei Bedarf geladen, statt als eigene Menüeinträge zu erscheinen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22710 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und lädt schnell, statt mit 22721 Tabellenzeilen den Browser-Renderer von GitHub zu überfordern.
 
 English: Plugin and index links open navigation pages. Links labelled **Download MD** download the unchanged skill, workshop or quick-start Markdown file instead of opening a source preview.
 
@@ -308,6 +308,7 @@ Die Plugins sind alphabetisch sortiert. Der Name öffnet die Detailseite mit all
 | **patentrecht** | 61 | [Skills ansehen](skills-index/patentrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=patentrecht/patentrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/patentrecht.zip) |
 | **pflegerecht-sgb-xi** | 10 | [Skills ansehen](skills-index/pflegerecht-sgb-xi.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=pflegerecht-sgb-xi/pflegerecht-sgb-xi-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=pflegerecht-sgb-xi/pflegerecht-sgb-xi-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/pflegerecht-sgb-xi.zip) |
 | **phishing-vorfall-pruefer** | 61 | [Skills ansehen](skills-index/phishing-vorfall-pruefer.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=phishing-vorfall-pruefer/phishing-vorfall-pruefer-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=phishing-vorfall-pruefer/phishing-vorfall-pruefer-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/phishing-vorfall-pruefer.zip) |
+| **playbook-pruefer** | 11 | [Skills ansehen](skills-index/playbook-pruefer.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.md) · [Werkstatt-TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-werkstatt.txt) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.md) · [Schnellstart-TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-schnellstart.txt) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/playbook-pruefer.zip) |
 | **preussisches-allgemeines-landrecht-pralr** | 69 | [Skills ansehen](skills-index/preussisches-allgemeines-landrecht-pralr.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=preussisches-allgemeines-landrecht-pralr/preussisches-allgemeines-landrecht-pralr-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/preussisches-allgemeines-landrecht-pralr.zip) |
 | **private-equity-praxis** | 109 | [Skills ansehen](skills-index/private-equity-praxis.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=private-equity-praxis/private-equity-praxis-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=private-equity-praxis/private-equity-praxis-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/private-equity-praxis.zip) |
 | **produktrecht** | 70 | [Skills ansehen](skills-index/produktrecht.md) | [Werkstatt-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=produktrecht/produktrecht-werkstatt.md) | [Schnellstart-MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=produktrecht/produktrecht-schnellstart.md) | [Plugin](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/produktrecht.zip) |

@@ -5,7 +5,7 @@
 
 Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte.
 
-Dieses Plugin gehört zum Marketplace mit 272 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 273 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`verbraucherschutzverband-durchsetzung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=verbraucherschutzverband-durchsetzung/verbraucherschutzverband-durchsetzung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 272 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 273 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Verbandsakte Abo-Falle](../testakten/verbraucherschutzverband-abo-falle-sammelklage/README.md) | [Gesamt-PDF](../testakten/verbraucherschutzverband-abo-falle-sammelklage/gesamt-pdf/verbraucherschutzverband-abo-falle-sammelklage_gesamt.pdf) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-verbraucherschutzverband-abo-falle-sammelklage.zip) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip) |
+| [Verbandsakte Abo-Falle](../testakten/verbraucherschutzverband-abo-falle-sammelklage/README.md) | [Gesamt-PDF](../testakten/verbraucherschutzverband-abo-falle-sammelklage/gesamt-pdf/verbraucherschutzverband-abo-falle-sammelklage_gesamt.pdf) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-verbraucherschutzverband-abo-falle-sammelklage.zip) | [`testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-verbraucherschutzverband-abo-falle-sammelklage-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

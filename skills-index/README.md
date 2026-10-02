@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.28.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.29.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22710 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22721 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -241,6 +241,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [patentrecht](./patentrecht.md) (61 Skills)
 - [pflegerecht-sgb-xi](./pflegerecht-sgb-xi.md) (10 Skills)
 - [phishing-vorfall-pruefer](./phishing-vorfall-pruefer.md) (61 Skills)
+- [playbook-pruefer](./playbook-pruefer.md) (11 Skills)
 - [preussisches-allgemeines-landrecht-pralr](./preussisches-allgemeines-landrecht-pralr.md) (69 Skills)
 - [private-equity-praxis](./private-equity-praxis.md) (109 Skills)
 - [produktrecht](./produktrecht.md) (70 Skills)

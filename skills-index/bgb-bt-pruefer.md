@@ -1,6 +1,6 @@
 # bgb-bt-pruefer
 
-**109 Skills** · Stand `v445.28.1`
+**109 Skills** · Stand `v445.29.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bgb-bt-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

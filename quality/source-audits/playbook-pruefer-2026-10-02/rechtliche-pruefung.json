@@ -1,0 +1,353 @@
+{
+  "stand": "2026-10-02",
+  "status": "abgeschlossen_mit_dokumentierten_grenzen",
+  "pruefart": "Individuelle fachliche und redaktionelle Gegenlektüre der bezeichneten Dateifassungen; gezielter Primärquellenabgleich. Kein Blindtest und kein Live-Modelllauf.",
+  "umfang": {
+    "skills": 11,
+    "eigenstaendige_prompts": 3,
+    "referenzdateien": 6,
+    "testakten": 2,
+    "originalunterlagen": 30,
+    "byteidentische_mailanlagen": 6,
+    "normgruppen": 34,
+    "entscheidungen": 9
+  },
+  "dateien": [
+    {
+      "pfad": "playbook-pruefer/skills/arbeitsvertrag-am-playbook-pruefen/SKILL.md",
+      "sha256": "e7d7ec00cb0449f61fd971d464ec432666da8d40a28212f89a9e9db7158378a6",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/klauseln-und-rueckfall-verhandeln/SKILL.md",
+      "sha256": "46adc0287e3d6f714ec17904e53cb88f032fb7fd145c07895ef71f33b1f81b3d",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/nda-am-playbook-pruefen/SKILL.md",
+      "sha256": "746979c7337888cdcdaabc0245490537ea45bde996d683af4ccb99229a482d1c",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/playbook-auswaehlen/SKILL.md",
+      "sha256": "c3085a1877a0dc1606ce750e414f0e01c66ec4477c6715df1151431ce81795dd",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
+      "sha256": "ca8b8106db569a80fb1b3877a258497703dd3398d194ce215c126a5fe5fdafbb",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/playbook-regeln-schaerfen/SKILL.md",
+      "sha256": "3ace2489bd3851e152b62912aab9be6d795187fc0afe1f1c1f3c9a0d1b564ace",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/pruefbericht-erstellen/SKILL.md",
+      "sha256": "a5f1afe2885c6f1bfc5ee9f5099555d7e3032f6cba3497a1c6a4e309e0cf6ff3",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/regeln-beurteilen/SKILL.md",
+      "sha256": "e6ded43e0a1cfd16c5dd560d334e10563a021485ae18dca807e829f9e89ad9c3",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/themenrisiken-entscheiden/SKILL.md",
+      "sha256": "9810af0b3af7995ac32ac0708d333179d13d45762ea61d74c0914b5eb8127eb0",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/vertragsbelege-erfassen/SKILL.md",
+      "sha256": "93f35541701989098f0d145360b0d8cf7449d5091d6c2c05b6dad4397f401eee",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/skills/vertragsstand-bestimmen/SKILL.md",
+      "sha256": "cb73956b4e8ce5103d6675fb754ee773c50188943fc9e9e11a934b7247441dcb",
+      "methode": "Vollständige fachliche Lektüre des Skilltexts."
+    },
+    {
+      "pfad": "playbook-pruefer/references/beleg-und-bericht.md",
+      "sha256": "affbe3f20fc5f573615a43df9e476da659692abd4a2e07c63cf28f8b13c7eedc",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/references/maschinenformat.md",
+      "sha256": "9ca64eb6fc18088492b2032a738f750fd6082b0e6f5dde2e68d4e6d6bc2e3ee4",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/references/nda-und-arbeitsvertrag.md",
+      "sha256": "991c7f2225ef7c672246e18289e684c36c947c4476df691918ec7e9f592d4ae2",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/references/prueflogik.md",
+      "sha256": "2b570f069e0917e9862738497539b590c5f831be90ff1db96e45a984691ec9ef",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/references/rechtsprechungsanker.md",
+      "sha256": "25a14d4913a2139c0c4baa180aa16a8ced09224603706e33509576bc4cf0afb1",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "methode": "Vollständige fachliche Lektüre der Referenz; Rechtsanker mit amtlichem Originalabgleich im gesonderten Quellenregister."
+    },
+    {
+      "pfad": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
+      "sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
+      "methode": "Vollständige fachliche und redaktionelle Lektüre des eigenständigen Prompts."
+    },
+    {
+      "pfad": "playbook-pruefer/playbook-pruefer-schnellstart.md",
+      "sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd",
+      "methode": "Nach dem NDA-Praxistest überarbeiteten Mini-Prompt erneut vollständig gelesen: konkreter BGH-Vertragsstrafenanker samt Original-URL, Rn. 14–23 und Übertragungsgrenze ergänzt; übrige verdichtete Workflowlogik gegengelesen."
+    },
+    {
+      "pfad": "playbook-pruefer/playbook-pruefer-werkstatt.md",
+      "sha256": "1241488e23cfdd6051d107d07af916c2d6f688cb1aa7034dc9a716899db2ff8b",
+      "methode": "Vollständige fachliche und redaktionelle Lektüre des eigenständigen Prompts.",
+      "vorheriger_fachtext_hash": "00572e0f6f443383b960ee095c36b1c11ad20b5ab6df7f4b85df8c914fd798a2",
+      "redaktionelle_nachpflege": "Nur Überschriftenebenen und Kapiteltitel; Fachtext ohne Überschriften bytegleich."
+    },
+    {
+      "pfad": "playbook-pruefer/scripts/playbook_review.py",
+      "sha256": "7174215f96c2ff73b82a8e5f48033b7822768a48200e91bcbf9a48a9fe829c01",
+      "methode": "Vollständig gelesen hinsichtlich erklärter Nachweisgrenzen, Belegrollen, Positions- und Risikologik; keine vollständige Sicherheitsprüfung."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/01_Auftrag_Vertragspruefung.eml",
+      "sha256": "78822b493042ca24ab156d8d1b22f4514d860dcf46094fb01e853d518870d11e",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/02_Playbook_NDA_V1_2.docx",
+      "sha256": "9dec62970e4744983a99465addae36affae1325b4d7574af86b72539a7b6dfaa",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/03_Freigabe_Playbook.eml",
+      "sha256": "6e00b222dabaf1df32d774393b7589e0a8faad57b9358194f385b6de8f9caa9a",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/04_NDA_Entwurf_25_September.docx",
+      "sha256": "4c88d92d2aa60c3c944ae9a0560bf9ea9b6ad6429e81708cd3c186d88e24b786",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/05_NDA_Altstand_18_September.docx",
+      "sha256": "b43d60be8daf2fcf83028f5c9f617ff045df2d630b6013fa7ff644038684b0e1",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/06_Anlage_FED_AN1.docx",
+      "sha256": "b965ed806314501ab059ca49fcb73ec6399c9d2363cc88d5ed7fad825de2aabc",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/07_Versand_Gegnerentwurf.eml",
+      "sha256": "455ca9bf472a02d1a2569db07b545edeb7c9f2069a122c9719cd3d0d371e7013",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/08_Projektblatt_Federlicht.docx",
+      "sha256": "c9720eff1d89d1faa6c390bb5e92bd19d04f8bc9c53038484c910671817d6a31",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/09_Zugriffsplan.docx",
+      "sha256": "dde718d04177a1622165a6c441681cab8a2c19b4e3fa6622dbc1976ad5ac0b98",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/10_Notiz_Sicherungskopien.docx",
+      "sha256": "4976bb2a884aee6ad70f966a6b4c0f27d45f877ce057c72d1c410faceb64ae6f",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/11_Rueckfrage_Technik.eml",
+      "sha256": "34e0aed592fe9cc75d2fd697ae4ecc756901eff1a1e822600d489f27088759a5",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/12_Besprechungsnotiz_Verhandlung.docx",
+      "sha256": "8b41953772c7e1b727d78ce67918cdc4b4a119b4783ce2d43e2cb7a2cadb9b42",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/13_Interne_Nachverhandlung.eml",
+      "sha256": "a0731aac21ce2d1498b0d3a8611dd618e3a185201914a7bf800d28b280707591",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/14_Terminbestaetigung.eml",
+      "sha256": "2320a2984200842c5681d63ede7879ae9f898341f280a7423a4004c5fb859924",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/15_Projektchat.txt",
+      "sha256": "bf7d43d8b38fdcd57fec5ecb5f6ad0ae92a3af0ebb3527dc197e9acdff66819c",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/README.md",
+      "sha256": "d7b0b3c7961727804da9a95b0a25b6f339be6118af990779424901623b62228b",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt.",
+      "vorheriger_fachtext_hash": "178a7fcff29a7aa09373ea399ea57ec3ac790c12f0c3ff770463df5b1b0b749f",
+      "redaktionelle_nachpflege": "Nur dezimale Überschriften und stabile Navigationsanker nach kanonischer README-Normalisierung; Aktenoriginale unverändert."
+    },
+    {
+      "pfad": "testakten/playbook-nda-kupferfink/rubric.yaml",
+      "sha256": "7da062d60fd7a201744754a1f4df95e46bbf56b69dae324f5b374cac3c8c7085",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/01_Auftrag_Arbeitsvertrag.eml",
+      "sha256": "5eb5ca95412ba5e63015dd3e5a47e493f63f414f653d81e9228c74793604899b",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/02_Playbook_Arbeitsvertrag_V2_0.docx",
+      "sha256": "5022ef1c6c55c0b40811a3381ea55df11d596be23fb266d502334f5789047716",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/03_Freigabe_Playbook.eml",
+      "sha256": "66f65ca527329dd2428dbb26a73eff95c8915c7708445814e1078a922c6cb4e8",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/04_Arbeitsvertrag_28_September.docx",
+      "sha256": "9b4699487bb6e34d6014989354c1b39d6d3596cad76074c6f20a1a0bd4f1ce4e",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/05_Arbeitsvertrag_Altstand_18_September.docx",
+      "sha256": "fb9130fdce8f3f0343c2d3ff257b6afc5451d63c1b195778a42e11ee7d1bc101",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/06_Anlage_Mobiles_Arbeiten.docx",
+      "sha256": "35d4586698d8a812416e219e9075d1a145c94ea0c43cccacc2a89bae40ce5958",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/07_Versand_Neufassung.eml",
+      "sha256": "7ac92b36727b7ea8a5f253bcbfb13bb5ac0de876b7bc88608e46ddf05697dee7",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/08_Personalblatt.docx",
+      "sha256": "966bd2d532a9c817864d0fc70539a893dea562eff45be9e4b201036c972da5ad",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/09_Taetigkeit_Produktdesign.docx",
+      "sha256": "86bccb40856e1fa4474d76ca5ccbb48f2abca1ee95e347d157faafdbce59a1db",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/10_Vermerk_IT_Arbeitsplatz.docx",
+      "sha256": "aade486b56526e0cf0127679a216f84c9f7b50ec1c1ded6e2673f5bb79e02f30",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/11_IT_Rueckfrage.eml",
+      "sha256": "4475f51ede21e9e58f2a1fd9cadafd7d18a8b5d55cc0ce8e4f441beda0eb2437",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/12_Gespraechsnotiz_Frieda.docx",
+      "sha256": "7040a0d782196ac1cd9606d7c8cb48c83d25d52d9dfd67ab9b555a0497c03b2c",
+      "methode": "Word-Haupttext einschließlich Tabellen vollständig extrahiert und inhaltlich gelesen; native Layoutkontrolle gesondert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/13_Personalbuero_Nachtrag.eml",
+      "sha256": "9c1bf8c7bb09dc629c0bcc7ba93e61353c58a2cbea9b5f9b00efb186c87361e7",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/14_Nora_Termin.eml",
+      "sha256": "4c0ccb337c9d7cdebd8a791ce3d736f55c99acf7f0f49452989306b28b7f4d35",
+      "methode": "Dekodierte Nachrichtenkopfzeilen und Klartextnachricht vollständig gelesen; alle eingebetteten DOCX-Anlagen zusätzlich gegen die entsprechenden Originaldateien byteidentisch abgeglichen."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/15_Personalchat.txt",
+      "sha256": "4d529641262bcd6eb8267a94aa65b04236cd020f4bfd0bd007d9f3322c437730",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/README.md",
+      "sha256": "aec9ca5bb1898685c54f8b75868d66e017cb8c626f129372e3a29432be3dbfc9",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt.",
+      "vorheriger_fachtext_hash": "77cbe4e451cf673199fb47c03e07b4ba8210507203ccba92ff5327c1566398e2",
+      "redaktionelle_nachpflege": "Nur dezimale Überschriften und stabile Navigationsanker nach kanonischer README-Normalisierung; Aktenoriginale unverändert."
+    },
+    {
+      "pfad": "testakten/playbook-arbeitsvertrag-spreebogen/rubric.yaml",
+      "sha256": "7bc0715fab21692261ed6cc204cae185c4c2e09d1a1d0cd415ab6865a6af483a",
+      "methode": "Vollständigen Text gelesen; rubric.yaml ist allein redaktioneller Maßstab, kein gelöstes Arbeitsprodukt."
+    }
+  ],
+  "pruefpunkte": [
+    "Rote Linien werden wörtlich gezählt; die Erkennung eines verbotenen Merkmals ist kein bestandener Konformitätscheck. Ausgangs- und Rückfallpositionen kumulativ, Redlines mit ausdrücklicher UND-/ODER-Logik.",
+    "Unternehmensstandard und gesetzliche Wirksamkeit, fehlende Klausel und unbekannte Tatsache, angeordnete Überstunde und Zeiterfassung sowie Nachweis- und Erklärungsform bleiben getrennt.",
+    "Jede Arbeitsakte hat eine ausdrückliche Playbookfreigabe, eine aktuelle Vertragsfassung mit ranghöherer begrenzter Anlage, eine nachvollziehbar überholte Fassung und unabhängige Kontextbelege.",
+    "35 NDA-Regeln und 34 Arbeitsvertragsregeln sind konkret formuliert; ihre gezielten Fehlklauseln und Tatsachenlücken sind didaktische Prüffälle und keine als rechtmäßig empfohlenen Musterklauseln.",
+    "Aktueller Freistellungsanker aus 2026, arbeitsvertragliche Catch-all-Geheimhaltung, B2B-Vertragsstrafe, Überstunden, Erfassung und Ausschlussfrist wurden anhand der bezeichneten amtlichen Originalpassagen geprüft.",
+    "Bericht, vollständige Klauseltexte, gezielte Rückfrage, dokumentierte Fortsetzung und echte Wordausgabe werden verlangt; unbelegte Viewer-, Speicher-, Freigabe- oder Versandhandlungen werden nicht behauptet."
+  ],
+  "befunde": [
+    {
+      "id": "RISIKO-01",
+      "status": "behoben",
+      "befund": "Die Rechenhilfe stufte ursprünglich die sichere Verfehlung sämtlicher akzeptabler Positionen bei zusätzlicher unbekannter Redline zu Not verifiable herab.",
+      "korrektur": "Sicher verfehlte akzeptable Positionen eines gefundenen Themas werden vor Ungewissheit als hohes Risiko ausgewertet. Fehlende optionale Themen bleiben davon getrennt. Geänderten Kontrollfluss erneut gelesen; technische Regressionstests werden vom Hauptagenten separat dokumentiert."
+    },
+    {
+      "id": "LOGIK-02",
+      "status": "behoben",
+      "befund": "Allgemeine Positionsbeschreibungen ließen teilweise all/any für Ausgangs- und Rückfallpositionen offen, während Rechenhilfe und tatsächliche Playbooks all voraussetzen.",
+      "korrektur": "Texte auf kumulative Ausgangs-/Rückfallpositionen und ausdrückliche all/any-Redlines vereinheitlicht; Endfassungen erneut gelesen."
+    },
+    {
+      "id": "QUELLE-03",
+      "status": "behoben",
+      "befund": "Der allgemeine EUR-Lex-CELEX-Link war während der Verifikation zeitweise nur als JavaScript-Hinweis abrufbar.",
+      "korrektur": "Der CCOO-Anker verwendet die tatsächlich gelesene deutsche amtliche ECLI-Ansicht; keine Prüfung allein aus einer erfolgreichen HTTP-Antwort abgeleitet."
+    },
+    {
+      "id": "REDAKTION-04",
+      "status": "behoben",
+      "befund": "Zwei vereinzelte sprachliche Reststellen in der Werkstatt (englisches meanwhile und fehlerhaftes brauche es) gefunden.",
+      "korrektur": "Durch deutsche grammatikalisch vollständige Formulierungen ersetzt und erneut gelesen."
+    }
+  ],
+  "bewusste_prueffehler_der_akten": [
+    "NDA Kupferfink: aktuelle verschuldensunabhängige Vertragsstrafe von 25.000 EUR, gegenüber dem Playbook fehlende Pflichtoffenlegungsregel und nicht bestätigte tatsächliche Backupkonfiguration. Die Vertragsstrafe ist kein empfohlenes Muster.",
+    "Arbeitsvertrag Spreebogen: pauschale Freistellung bei jeder Kündigung, umfassende nachvertragliche Geheimhaltung, fehlende freiwillige Fortbildungsklausel und ungeklärter tatsächlicher Sichtschutz. Die Fehler sind ausdrücklich Prüfstoff; 38,5 Stunden und 4.900 EUR sind zulässige wirtschaftliche Rückfallfragen, keine gesetzlichen Verstöße."
+  ],
+  "grenzen": [
+    "Gezielte Gegenprüfung dieses neuen Plugins, keine erneute fachliche Vollprüfung des gesamten Repositorys.",
+    "Die Recherche erfasst einschlägige Primäranker und gelesene Passagen; keine Zusicherung, sämtliche denkbaren einschlägigen Entscheidungen des Jahres 2026 erfasst zu haben.",
+    "Kein unabhängiger Modelltest: Der Prüfer kannte die Akten und ihre redaktionellen Zwecke. Qualität tatsächlich erzeugter Vertragsreviews wird gesondert anhand des Eval-Profils bewertet.",
+    "Allgemeine Pluginhinweise veranlassen bei weiteren Themen (etwa besondere Bonus-, Fortbildungsrückzahlungs- oder Tarifklauseln) gezielte zusätzliche Recherche. Sie sind kein abschließendes Gutachten zu jedem Sondervertrag.",
+    "Die Originaltextprüfung und sechs Mailanlagenabgleiche sind hier erfasst. Visuelle Veröffentlichungskontrollen und technische Validator-/Regressionsergebnisse haben gesonderte Nachweise; sie ersetzen keine Subsumtion."
+  ],
+  "nachpruefungen": [
+    {
+      "datum": "2026-10-02",
+      "datei": "playbook-pruefer/playbook-pruefer-schnellstart.md",
+      "vorher_sha256": "276b24474f4073970bd9368eb08148aa77fb810a65b43075e6a05c4798072f1d",
+      "nachher_sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd",
+      "grund": "Im tatsächlichen ersten NDA-Lauf fehlte ein einschlägiger Rechtsprechungsnachweis. Die Promptkorrektur adressiert diese Lücke; ihr späterer Verhaltenstest ist hiervon getrennt.",
+      "methode": "Vollständige Lektüre der neuen Mini-Fassung. Keine rückwirkende Änderung der Bewertung des bereits abgeschlossenen Laufs."
+    }
+  ]
+}

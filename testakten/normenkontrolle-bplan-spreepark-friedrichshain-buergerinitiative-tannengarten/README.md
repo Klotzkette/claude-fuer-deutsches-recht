@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf`](gesamt-pdf/normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-normenkontrolle-bplan-spreepark-friedrichshain-buergerinitiative-tannengarten-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

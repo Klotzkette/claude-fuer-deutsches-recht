@@ -302,6 +302,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "playbook-pruefer": "Erstelle den vollständigen Prüfbericht zum aktuellen Vertrag und seinen Anlagen anhand des freigegebenen Playbooks; bewerte jede Regel mit Originalfundstelle, zähle rote Linien wörtlich und formuliere die beauftragten Änderungen aus",
     "berliner-schulrecht-eltern-schueler": "das beauftragte Elternschreiben, den Schulplatzantrag oder den Rechtsbehelfsentwurf aus Bescheid und Belegen; trenne Kita, Grundschule und Sekundarstufe, prüfe Schuljahr, Zuständigkeit und Frist und frage nur entscheidende fehlende Angaben nach",
     "berliner-hochschulrecht-professoren": "die beauftragte Umsetzung einer Berufungszusage, Deputatsberechnung oder Stellungnahme zum Forschungseingriff; kläre Status, konkrete Hochschulregel und anstehenden Termin aus den Belegen und führe Rückantworten im selben Entwurf fort",
     "antidiskriminierung-agg": "Prüfe meine Absage und die beiden Anzeigen, sichere die AGG-Fristen und erstelle das passende Anspruchs- oder Nachfrageschreiben; unterscheide belegte Auswahlgründe und offene Tatsachen",

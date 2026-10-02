@@ -8,19 +8,19 @@ Diese Vollprüfung enthält top-15 von 60 Skills des Plugins `ki-governance`.
 
 1. **juristischer-argumentationskern** — Schaltet sich ein, wenn bei der Governance algorithmischer Systeme ein juristisches Arbeitsprodukt tragfähig begründet w…
 2. **einstieg-routing** — Für Einstieg und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächstem…
-3. **ki-rote-linien-art-5-pruefen** — Prüft verbotene Systempraktiken anhand von Zweck, tatsächlicher Verwendung und Ausnahmen. Trennt bestehende Verbote von …
-4. **use-case-risk-classification** — Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Ge…
-5. **rechtsquellen-sonderfall-edge-case** — Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
-6. **ki-governance-mandatsworkspace-kontexttrennung** — Für digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
-7. **spezial-pruefung-internationaler-bezug-und-schnittstellen** — Für Prüfung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
-8. **ki-folgenabschaetzung-ki-governance-mandat** — Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
-9. **marketing-mandantenkommunikation-entscheidungsvorlage** — Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
-10. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
-11. **triage-haftung-versicherung-anwendungsfall** — Für Triage: Fristen, Form, Zuständigkeit und Rechtsweg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfp…
-12. **vo-pflichtenpyramide-kig-ai-foundation** — Für europäischer Technikregulierungsrahmen Pflichtenpyramide: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
-13. **inventar-kontrollen-konformitaetsbewertung** — Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
-14. **konformitaetsbewertung-red-team-und-qualitaetskontrolle** — Für Konformitätsbewertung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
-15. **quellen-livecheck** — Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Sc…
+3. **ki-haftung-und-versicherung** — Prüft Schaden, Verantwortungsbeitrag und Versicherung bei fehlerhaften KI-Ausgaben oder autonomen Agentenhandlungen. Tre…
+4. **rollenmodell-use-case-vendor** — Bestimmt Anbieter, Betreiber und Zulieferer eines konkreten KI-Einsatzes einschließlich Agentenketten. Trennt gesetzlich…
+5. **ki-rote-linien-art-5-pruefen** — Prüft verbotene Systempraktiken anhand von Zweck, tatsächlicher Verwendung und Ausnahmen. Trennt bestehende Verbote von …
+6. **use-case-risk-classification** — Für Use-Case-Risikoklassifizierung nach europäischer Technikregulierungsrahmen und DSGVO: ordnet Norm, Beweislast und Ge…
+7. **rechtsquellen-sonderfall-edge-case** — Für Rechtsquellen: Sonderfall und Edge-Case-Prüfung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mi…
+8. **ki-governance-mandatsworkspace-kontexttrennung** — Für digitale Werkzeuge-Governance-Mandatsworkspace und Kontexttrennung: ordnet Norm, Beweislast und Gegenargument; Ergeb…
+9. **spezial-pruefung-internationaler-bezug-und-schnittstellen** — Für Prüfung: Internationaler Bezug und Schnittstellen: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Schnittstell…
+10. **ki-folgenabschaetzung-ki-governance-mandat** — Für /ki-folgenabschätzung – digitale Werkzeuge-Folgenabschätzung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: P…
+11. **marketing-mandantenkommunikation-entscheidungsvorlage** — Für Marketing: Mandantenkommunikation und Entscheidungsvorlage: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Man…
+12. **workflow-kaltstart-und-routing** — Für Kaltstart und Routing: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfprodukt mit Risiko und nächste…
+13. **triage-haftung-versicherung-anwendungsfall** — Für Triage: Fristen, Form, Zuständigkeit und Rechtsweg: routet Rolle, Frist, Unterlagen und Fachschritt; Ergebnis: Prüfp…
+14. **vo-pflichtenpyramide-kig-ai-foundation** — Für europäischer Technikregulierungsrahmen Pflichtenpyramide: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfp…
+15. **inventar-kontrollen-konformitaetsbewertung** — Für digitale Werkzeuge-Inventar, Governance und Kontrollen: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gege…
 
 ---
 
@@ -190,6 +190,82 @@ Dieser Einstieg routet **Ki Governance** vom ersten Sachverhalt zu Rollen, Frist
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
+
+---
+
+## Skill: `ki-haftung-und-versicherung`
+
+_Prüft Schaden, Verantwortungsbeitrag und Versicherung bei fehlerhaften KI-Ausgaben oder autonomen Agentenhandlungen. Trennt Vertrags-, Datenschutz-, Delikts- und Produkthaftung und erstellt Anspruchsabwehr, Deckungsanfrage oder begründete Leitungsentscheidung._
+
+# 1. Agentenschaden, Zurechnung und Versicherung prüfen
+
+## 1. Zweck und Anwendungsfall
+
+Bearbeite einen konkreten Schaden oder eine geplante Risikofreigabe. Ein autonomer Agent ist kein eigener Haftungsschuldner. Daraus folgt keine automatische verschuldensunabhängige Haftung jedes beteiligten Unternehmens. Ordne jede Forderung einem Anspruchsgrund, einem Verantwortungsbeitrag und einem belegten Schaden zu.
+
+## 2. Eingaben
+
+Lies Anspruchsschreiben, Vertrag, Aufgabenfreigabe, System- und Werkzeugversionen, Ereignisprotokoll sowie Police. Bei einer Meldungsfrist zuerst den fristwahrenden Entwurf vorbereiten. Frage nur nach fehlenden Tatsachen, die Schaden, Anspruchsgegner oder Deckung verändern.
+
+## 3. Ablauf und Checkliste
+
+1. Rekonstruiere Auftrag, Informationsquelle, Modellantwort, Werkzeugaufruf, menschliche Entscheidung und Außenwirkung. Halte fest, wer Konfiguration, Rechte, Updates und Unterbrechung beherrschte. Auch bei mehreren Agenten bleibt die natürliche oder juristische Person zu bestimmen. „Das Modell hat selbst entschieden“ ist keine vollständige Entlastung; ein interner Regelverstoß beweist umgekehrt nicht allein jeden Haftungstatbestand.
+2. Vertragliche Pflichtverletzung und Paragrafen 280 folgende BGB, deliktische Ansprüche nach Paragraf 823 BGB, Datenschutzschaden nach Artikel 82 und gegebenenfalls Produktfehler getrennt prüfen. Verletzung, Schaden und Kausalität nicht durch ein Bußgeldrisiko ersetzen. Beweislast am jeweiligen Anspruch erläutern; kein pauschales Beweislastumkehrversprechen für undurchsichtige Systeme.
+3. Bei rechtswidrigen Ausgaben Unterlassung von Schadensersatz unterscheiden. [LG München I, Pressemitteilung vom 12.06.2026](https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/13.php) berichtet über eigene Übersichtsaussagen einer Suchmaschine. Das ist ein persönlichkeitsrechtlicher Eilfall, kein Beleg für jeden Agentenvertrag oder allgemeine Gefährdungshaftung. Volltext, Entscheidungsdatum und Verfahrensstand vor gerichtlichem Zitat nachprüfen; keine Randnummer aus der Pressemitteilung erfinden.
+4. Die Richtlinie (EU) 2024/2853 erfasst unter ihren Voraussetzungen Software. Prüfe Umsetzung, relevanten Markt-/Inbetriebnahmezeitpunkt und Übergang zum 9. Dezember 2026. Sie ist nicht ohne nationale Umsetzung eine neue horizontale Anspruchsgrundlage gegen Private. Herstellerbegriff, wesentliche Veränderung, Fehler, erfasste Schäden sowie Offenlegung und Vermutungen gesondert prüfen. Nicht jede Anbieterrolle nach der KI-Verordnung ist ohne weitere Subsumtion Herstellerhaftung; reine Geschäftseinbußen sind nicht pauschal erfasst.
+5. Police auswerten: versichertes Unternehmen, Tätigkeit und System, Versicherungsfall, zeitliche Deckung, Serienschäden, Sublimits, Selbstbehalt und Ausschlüsse. Deckungsanfrage ohne vorschnelles Anerkenntnis entwerfen. Regulatorische Geldbußen, vertragliche Garantien oder vorsätzliches Verhalten nicht als sicher versichert ausgeben. Interne Freistellung kann am Deckungsumfang vorbeigehen.
+6. Leitungsentscheidung an Paragraf 93 AktG oder Paragraf 43 GmbHG messen. Wirtschaftliche Risikobereitschaft erlaubt keine bewusste Missachtung geltender Verbote. Ein begrenzter Pilot braucht zulässigen Zweck, begrenzte Zugriffe, wirksame Unterbrechung und erneute Prüfung bei Änderungen. Dokumentierte Bemühungen garantieren weder Haftungsfreiheit noch behördlichen Verzicht.
+7. Nach neuen Protokollen Anspruchszuordnung und Deckungsanfrage fortschreiben. Beweismittel kontrolliert sichern; personenbezogene Vollprotokolle nicht unbegrenzt auf Vorrat sammeln. Keine Anerkenntnisse, Zahlungen oder Meldungen eigenmächtig abgeben.
+
+## 4. Quellenpflicht
+
+[BGB](https://www.gesetze-im-internet.de/bgb/), [Paragraf 93 AktG](https://www.gesetze-im-internet.de/aktg/__93.html), [Paragraf 43 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__43.html), Artikel 82 DSGVO und [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de). EuGH, Urteil vom 04.05.2023, C-300/21, Randnummern 32 bis 51: Datenschutzverletzung allein genügt nicht für Ersatz; keine zusätzliche Erheblichkeitsschwelle für den Schaden. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Kein Urteil über das neue Produkthaftungsrecht. Prüfstand 2. Oktober 2026; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter Abwehrbrief, Deckungsanfrage oder Entscheidungsvermerk nach Auftrag. Anspruchs- und Deckungsvergleich als Anlage ersetzt nicht das bestellte Dokument. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Offene Tatsachen in einer Arbeitsnotiz und nötige Vorbehalte im Empfängertext kenntlich halten.
+
+## 6. Beispiele
+
+Ein Agent bestätigt eine nicht vereinbarte Liefergarantie: Erklärung, Zurechnung und Vertragsrechte prüfen, nicht aus „Halluzination“ Haftungsfreiheit folgern. Ein Angreifer veranlasst einen Werkzeugaufruf: technische Abwehr, Fehlberechtigung und kausalen Schaden prüfen; der Angriff beweist weder automatisch Verschulden noch dessen Fehlen.
+
+---
+
+## Skill: `rollenmodell-use-case-vendor`
+
+_Bestimmt Anbieter, Betreiber und Zulieferer eines konkreten KI-Einsatzes einschließlich Agentenketten. Trennt gesetzliche Rollen von internen Zuständigkeiten und Datenschutzrollen und erstellt eine begründete Rollen- und Freigabeentscheidung._
+
+# 1. Systemrollen und betriebliche Verantwortung festlegen
+
+## 1. Zweck und Anwendungsfall
+
+Ordne Verantwortung am tatsächlichen System, Zweck und Rechtsträger zu. Konzernlogo, Vertragsüberschrift und eigenes Hosting sind Indizien, keine vollständige Rollenprüfung. Die technische Autonomie eines Agenten beseitigt nicht die Verantwortung der beteiligten Personen und Unternehmen.
+
+## 2. Eingaben
+
+Lies Leistungsbeschreibung, Anbieterkennzeichnung, Konfiguration, Änderungsverlauf, Werkzeugrechte und Freigaben. Frage nur nach entscheidenden Lücken: Wer bietet welche Version unter wessen Namen an, wer verwendet sie unter eigener Verantwortung und wer darf sie verändern?
+
+## 3. Ablauf und Checkliste
+
+1. Modell, Anwendung, Orchestrierung, Gedächtnis und ausführende Werkzeuge abgrenzen. Ein Agent kann ein KI-System sein; er ist nicht schon deshalb selbst ein GPAI-Modell. Mehrere Komponenten weder ohne Prüfung zu einem Gesamtanbieter zusammenziehen noch zur Umgehung der tatsächlichen Zweckbestimmung künstlich zerlegen.
+2. Artikel 3 Nummern 3 bis 8 für Anbieter, Betreiber, Bevollmächtigten, Importeur, Händler und Produkthersteller prüfen. Entwicklung oder Beauftragung der Entwicklung sowie Inverkehrbringen oder eigene Inbetriebnahme unter eigenem Namen beachten. Beschäftigter, Konzernmutter und Agent sind nicht automatisch eigenständige Betreiber.
+3. Artikel 25 Absatz 1 getrennt prüfen: eigenes Kennzeichen, wesentliche Änderung eines Hochrisikosystems oder Zweckänderung, durch die ein bisher nicht hochriskantes System hochriskant wird. Nicht jedes neue Prompt oder Update erfüllt diese Voraussetzungen. Anbieterpflichten am konkreten geänderten System und zeitlichen Anwendungsrecht festmachen.
+4. Rechte und Pflichten gegenüber Voranbieter/Zulieferer nach Artikel 25 Absätzen 2 und 4 klären. Konzerninterne Vertragsgestaltung und Haftungsausgleich ersetzen keine gesetzlichen Außenpflichten. Bei vereinbarter Nichtverwendung für Hochrisikozwecke den genauen gesetzlichen Zusammenhang prüfen; nicht jede Mitwirkungspflicht unterschiedslos behaupten.
+5. Datenschutzrollen je Verarbeitung zusätzlich bestimmen. Verantwortlicher, Auftragsverarbeiter und gemeinsam Verantwortliche folgen Artikel 4, 26 und 28 DSGVO, nicht automatisch der Systemrolle. Training, Support, Protokolle und Werkzeugdienste getrennt zuordnen.
+6. Benenne einen betrieblichen Verantwortlichen mit Vertretung, Eingriffsrecht und erreichbarem Meldeweg. Bei Agenten getrennte Lese-, Schreib- und Versandbefugnisse sowie wirksame Unterbrechung aller delegierten Aufträge vorsehen. Vor irreversiblen Handlungen konkrete Freigabe; Änderungsprüfung bei neuen Werkzeugen, Empfängern und Zwecken.
+7. Zuständigkeit nach KI-MIG und sektoralen Regeln bestimmen, Datenschutzaufsicht separat. Keine allgemeine Frist aus dem Rollenmodell ableiten: insbesondere Artikel 73 kennt nach Ereignis unterschiedliche Fristen; sein Vorfallworkflow ist gesondert zu prüfen. Nach Antwort die Rollenentscheidung samt Vertrags- oder Organisationsänderung fertigstellen.
+
+## 4. Quellenpflicht
+
+Artikel 3, 25, 26, 111 und 113 der [Verordnung (EU) 2024/1689 in geltender Fassung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de). Der amtliche Service Desk weist bei geänderten Vorschriften teilweise selbst auf nicht aktualisierte Darstellungen hin; dann konsolidierten Text und Änderungsrechtsakt abgleichen. Prüfstand 2. Oktober 2026; [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/ki-governance/references/zitierweise.md).
+
+## 5. Ausgabeformat
+
+Ausformulierter Rollenvermerk oder Freigabebeschluss mit Systemversion, Tatsachengrundlage, Begründung, verbleibenden Voraussetzungen und benannten Verantwortlichen. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Registrierung, Konformitätserklärung oder Betriebsfreigabe nicht ungefragt ausführen.
+
+## 6. Beispiele
+
+Eine Vertriebsgesellschaft vermarktet einen zugekauften Agenten unter eigenem Namen: Rolle anhand Entwicklung/Beauftragung und Vertrieb prüfen, nicht den technischen Lieferanten automatisch allein verantwortlich nennen. Ein Sachbearbeiter nutzt einen Universalchat für einen Einzelversuch: Verwendung und organisatorische Übernahme feststellen, nicht sofort den gesamten Dienst in ein Recruiting-Produkt umdeuten.
 
 ---
 
@@ -1387,111 +1463,6 @@ KI-Inventar ist auch für Berufsträger relevant (§§ 43e BRAO / 62a StBerG / 5
 
 ## Trade-off
 Schlankes Inventar (Tabelle) ist schnell aufgesetzt, aber ohne Lebenszyklus- und Eskalations-Hooks substanzarm. Vollständige GRC-Tool-Integration (z. B. mit AIA/DPIA-Workflow) ist aufwendig, schafft aber Auditierbarkeit. Pragmatischer Mittelweg: Tabelle + Trigger-Mails bei Klassifizierungsänderung oder neuem Geltungstermin der KI-VO-Stufen.
-
----
-
-## Skill: `konformitaetsbewertung-red-team-und-qualitaetskontrolle`
-
-_Für Konformitätsbewertung: Red-Team und Qualitätskontrolle: prüft Ergebnis, Beweislast und Gegenposition; Ergebnis: Gegenprüfung mit Beweis- und Fristencheck._
-
-# Konformitaetsbewertung: Red-Team und Qualitätskontrolle
-
-## Arbeitsweg
-
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
-
-## Spezialwissen: Konformitaetsbewertung: Red-Team und Qualitätskontrolle
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Konformitätsbewertung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Konformitätsbewertungsverfahren KI-VO (Art. 43)
-- **Anhang VI — Interne Kontrolle**: Standardverfahren für die meisten Hochrisiko-KI-Systeme nach Anhang III, sofern harmonisierte Normen vollständig angewendet werden.
-- **Anhang VII — Bewertung mit benannter Stelle**: für biometrische Identifikationssysteme nach Anhang III Nr. 1 lit. a, wenn keine harmonisierten Normen vollständig angewendet werden — oder freiwillig.
-- **Konformitätsbewertung im Zuge anderer Unionsrechtsakte**: Wenn das KI-System Sicherheitsbauteil eines Produkts nach Anhang I ist (Medizinprodukt MDR, Maschine MaschinenVO etc.), wird die KI-VO-Bewertung in die bestehende Konformitätsbewertung integriert (Art. 43 Abs. 3).
-
-## Pflichtdokumentation
-- **Technische Dokumentation** Art. 11 i. V. m. Anhang IV: Systembeschreibung, Designspezifikationen, Trainingsdatenbeschreibung, Risikomanagement, Monitoring, Cybersicherheit.
-- **Logging-Architektur** Art. 12: Aufzeichnungen über Lebenszyklus, Zweck-Erreichung, Identifikation problematischer Verhaltensweisen.
-- **EU-Konformitätserklärung** Art. 47 i. V. m. Anhang V: 10 Jahre Aufbewahrung, Inhalt vorgeschrieben.
-- **CE-Kennzeichnung** Art. 48 und **EU-Datenbankregistrierung** Art. 49 / 71 (Anhang VIII).
-
-## Red-Team-Prüfungen
-- **Robustheit**: adversariale Beispiele, Eingabestörungen, Edge Cases.
-- **Bias / Fairness**: Tests über Untergruppen (Geschlecht, Alter, ethnische Herkunft, Region), Disparate-Impact-Analyse.
-- **Cybersicherheit**: Prompt-Injection (bei LLM-basierten Systemen), Model Inversion, Membership Inference.
-- **Datenleckage**: Aus Antworten rekonstruierbare Trainingsdaten (insb. bei Foundation Models).
-
-## Qualitätskontrolle
-- **Pre-Deployment**: vollständiger Konformitätsbewertungsbericht, abgenommen durch Compliance.
-- **Pilotphase**: vorgesehene Stichprobe mit verstärktem Logging und Human Override.
-- **Produktion**: Monitoring nach Art. 72 KI-VO (Marktbeobachtung durch Anbieter), Vorfallsmeldung nach Art. 73.
-- **Substantielle Änderung**: bei Modellaktualisierung mit Performance-Verschiebung neue Bewertung nach Art. 43 Abs. 4.
-
-## Trade-off
-Interne Kontrolle (Anhang VI) ist günstiger und schneller, scheitert aber bei nicht-harmonisierten Aspekten. Beauftragung benannter Stelle (Anhang VII) gibt Rechtssicherheit, kostet Zeit (Wartezeit, Auditdurchläufe) und Geld; ist für Markteintritt sensibler Systeme aber empfehlenswert. Hybride Strategie: Anhang VI mit zusätzlichem freiwilligem externem Audit zur Vertrauensbildung.
-
----
-
-## Skill: `quellen-livecheck`
-
-_Für Rechtsquellen-Livecheck: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt. Fachgebiet: Technik-Governance._
-
-# Rechtsquellen-Livecheck
-
-## Einsatzlage
-
-Dieser Quellen-Livecheck für **Ki Governance** trennt amtliche Normfassung, frei prüfbare Rechtsprechung, Behördenhinweise, Formularstand und offene Aktualitätsrisiken.
-
-## Fachlandkarte dieses Plugins
-
-- `anbieter-mehrparteien-konflikt-und-interessen` — Anbieter Mehrparteien Konflikt und Interessen
-- `anpassen` — Anpassen
-- `anschluss-router` — Anschluss Router
-- `anwendungsfall-triage` — Anwendungsfall Triage
-- `case-dpia-drift` — Case Dpia Drift
-- `dpia-risikoampel-und-gegenargumente` — Dpia Risikoampel und Gegenargumente
-- `drift-verhandlung-vergleich-und-eskalation` — Drift Verhandlung Vergleich und Eskalation
-- `dsgvo-governance-inventar` — DSGVO Governance Inventar
-- `fristen-risikoampel-mandantenkommunikation` — Fristen Risikoampel Mandantenkommunikation
-- `governance-compliance-dokumentation-und-akte` — Governance Compliance Dokumentation und Akte
-- `gpai-modelle-ki-anbieter-arbeitsrecht` — Gpai Modelle KI Anbieter Arbeitsrecht
-- `inventar-dokumentenmatrix-und-lueckenliste` — Inventar Dokumentenmatrix und Lueckenliste
-- `inventar-kontrollen-konformitaetsbewertung` — Inventar Kontrollen Konformitaetsbewertung
-- `dokumente-intake` — Dokumente Intake
-- `einstieg-routing` — Einstieg Routing
-
-## Arbeitsweg
-
-- Tragende Normen (DSGVO) zuerst amtlich verifizieren: gesetze-im-internet.de oder spezialisiertes Bundesgesetzblatt-Portal; nicht aus Modellwissen finalisieren.
-- Rechtsprechung nur mit vollständiger Zitatkette: Gericht, Senat, Entscheidungsform, Datum, Aktenzeichen, Fundstelle (BGHZ/BVerfGE/amtl. Sammlung) und frei prüfbare Quelle (dejure.org, openJur, Pressemitteilungen des Gerichts, BGH-/BVerfG-Datenbank).
-- Paywall-Quellen (juris, beck-online) nicht als alleinige Verifikation nutzen; immer eine freie Bestätigung beilegen.
-- Dynamische Bereiche im Ki Governance (Rechtsverordnungen, Verwaltungspraxis, Mietspiegel, Tarife) gesondert tagesaktuell prüfen, weil Modellwissen veraltet ist.
-- Quellenstand und offene Unsicherheit im Output sichtbar machen — kein Pseudo-Zitat ohne Live-Check.
-
-## Qualitätsanker
-
-- Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
-- Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
-- Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
 ---
 

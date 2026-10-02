@@ -5,7 +5,7 @@
 
 Super-Plugin für Online-Shops, Plattformen, Marktplätze und digitale Verbraucherprozesse.
 
-Dieses Plugin gehört zum Marketplace mit 272 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 273 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`ecommerce-recht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ecommerce-recht/ecommerce-recht-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 272 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 273 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/README.md) | [Gesamt-PDF](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026-einzelpdfs.zip) |
+| [Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/README.md) | [Gesamt-PDF](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

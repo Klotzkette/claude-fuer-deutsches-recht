@@ -1,0 +1,455 @@
+{
+  "stand": "2026-10-02",
+  "pruefart": "Technische Prüfungen und tatsächliche visuelle Seitenprüfung; die Modellprobeläufe werden separat ausgewertet.",
+  "ergebnis": "bestanden",
+  "originale": {
+    "gesamt": 30,
+    "word": 16,
+    "eml": 12,
+    "txt": 2,
+    "mime_anlagen_bytegleich": 6,
+    "reproduzierbarer_neubau": "30 von 30 Originalen byteidentisch",
+    "word_seiten_visuell": 26
+  },
+  "pdf_pruefung": {
+    "total_pages": 96,
+    "individually_viewed_unique_pages": 70,
+    "exact_rgb_duplicate_pages": 26,
+    "method": "70 unterschiedliche vollständige Seiten einzeln visuell geprüft; 26 weitere Seiten über vollständige identische dekodierte RGB-Pixel zu bereits geprüften Seiten zugeordnet. Keine visuellen Mängel festgestellt.",
+    "cases": {
+      "playbook-nda-kupferfink": {
+        "individual_pages": 20,
+        "combined_pages": 28
+      },
+      "playbook-arbeitsvertrag-spreebogen": {
+        "individual_pages": 20,
+        "combined_pages": 28
+      }
+    }
+  },
+  "pdf_textabgleich": {
+    "status": "pass",
+    "cases": [
+      {
+        "case": "playbook-nda-kupferfink",
+        "status": "pass",
+        "combined_pdf_sha256": "a90fdc6d741ae9ff5211f98d7bc9e8d83717159e6979a310bcd3c98def7aabe6",
+        "combined_pages": 28,
+        "individual_pages": 20,
+        "original_zip_sha256": "83405a96b3ab5ac7f15aa8667d0996927a79d46fa0036d64243e52d85eb91f8f",
+        "individual_pdf_zip_sha256": "4351b05178e82beef4a44fa099405be5bb47964fab813e93ab7c7f57195fefd4",
+        "documents": [
+          {
+            "source": "testakten/playbook-nda-kupferfink/01_Auftrag_Vertragspruefung.eml",
+            "source_sha256": "78822b493042ca24ab156d8d1b22f4514d860dcf46094fb01e853d518870d11e",
+            "pdf": "01_Auftrag_Vertragspruefung.pdf",
+            "pdf_sha256": "d7a8858b39823550826175f91cd7875d6505b4e3cd84682a4e3a40d0ff6d1b1e",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/02_Playbook_NDA_V1_2.docx",
+            "source_sha256": "9dec62970e4744983a99465addae36affae1325b4d7574af86b72539a7b6dfaa",
+            "pdf": "02_Playbook_NDA_V1_2.pdf",
+            "pdf_sha256": "43e971fdc62bf9e0e4ea05787c091e0bf5e09e2d09ba6a79ea847e871629b19d",
+            "pages": 4,
+            "verified_text_segments": 86
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/03_Freigabe_Playbook.eml",
+            "source_sha256": "6e00b222dabaf1df32d774393b7589e0a8faad57b9358194f385b6de8f9caa9a",
+            "pdf": "03_Freigabe_Playbook.pdf",
+            "pdf_sha256": "7c65362607c469a6e49974be20ef567fe4ae1f19450516019f2f8dcfc736f95a",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/04_NDA_Entwurf_25_September.docx",
+            "source_sha256": "4c88d92d2aa60c3c944ae9a0560bf9ea9b6ad6429e81708cd3c186d88e24b786",
+            "pdf": "04_NDA_Entwurf_25_September.pdf",
+            "pdf_sha256": "b153fa8256b098bb51a8987a6f18ad100794312a81e79611e4d63d3144dc7a25",
+            "pages": 2,
+            "verified_text_segments": 22
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/05_NDA_Altstand_18_September.docx",
+            "source_sha256": "b43d60be8daf2fcf83028f5c9f617ff045df2d630b6013fa7ff644038684b0e1",
+            "pdf": "05_NDA_Altstand_18_September.pdf",
+            "pdf_sha256": "1f72d266816ec4dc5e3569c6bf309e525f0e3ca8ba5966bdd607ff30c74b7c6f",
+            "pages": 2,
+            "verified_text_segments": 25
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/06_Anlage_FED_AN1.docx",
+            "source_sha256": "b965ed806314501ab059ca49fcb73ec6399c9d2363cc88d5ed7fad825de2aabc",
+            "pdf": "06_Anlage_FED_AN1.pdf",
+            "pdf_sha256": "d509fb103053061d0462def981038a68e906bbddc69244aa401e343ad987e0d3",
+            "pages": 1,
+            "verified_text_segments": 10
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/07_Versand_Gegnerentwurf.eml",
+            "source_sha256": "455ca9bf472a02d1a2569db07b545edeb7c9f2069a122c9719cd3d0d371e7013",
+            "pdf": "07_Versand_Gegnerentwurf.pdf",
+            "pdf_sha256": "2283cfe50a14e2f58843997adc2e6de6c85dbae6c86a231b9c433c41f4a70b60",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/08_Projektblatt_Federlicht.docx",
+            "source_sha256": "c9720eff1d89d1faa6c390bb5e92bd19d04f8bc9c53038484c910671817d6a31",
+            "pdf": "08_Projektblatt_Federlicht.pdf",
+            "pdf_sha256": "97d1635dec90bd15183cdb7195c06b837e1f574c3f1054a5b7ff6d9fad9f1856",
+            "pages": 1,
+            "verified_text_segments": 12
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/09_Zugriffsplan.docx",
+            "source_sha256": "dde718d04177a1622165a6c441681cab8a2c19b4e3fa6622dbc1976ad5ac0b98",
+            "pdf": "09_Zugriffsplan.pdf",
+            "pdf_sha256": "9309f3f7420c7c0c34cbf948ab8a0641c09a7c08611e30375e3ed6706be01b51",
+            "pages": 1,
+            "verified_text_segments": 10
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/10_Notiz_Sicherungskopien.docx",
+            "source_sha256": "4976bb2a884aee6ad70f966a6b4c0f27d45f877ce057c72d1c410faceb64ae6f",
+            "pdf": "10_Notiz_Sicherungskopien.pdf",
+            "pdf_sha256": "2f0ff4713993c6e32c03446771eabe85525e1937e88fb0e8dff4bbf9c02cc38d",
+            "pages": 1,
+            "verified_text_segments": 7
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/11_Rueckfrage_Technik.eml",
+            "source_sha256": "34e0aed592fe9cc75d2fd697ae4ecc756901eff1a1e822600d489f27088759a5",
+            "pdf": "11_Rueckfrage_Technik.pdf",
+            "pdf_sha256": "4cd47d907930e24a624a91ec87254d2ed27b31fae431fa2812bc40443b3d7fdf",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/12_Besprechungsnotiz_Verhandlung.docx",
+            "source_sha256": "8b41953772c7e1b727d78ce67918cdc4b4a119b4783ce2d43e2cb7a2cadb9b42",
+            "pdf": "12_Besprechungsnotiz_Verhandlung.pdf",
+            "pdf_sha256": "c3839777f4cb6aae52b6b768ad4b504f43a46f6f669cff27b3dfbbdc810f3768",
+            "pages": 1,
+            "verified_text_segments": 10
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/13_Interne_Nachverhandlung.eml",
+            "source_sha256": "a0731aac21ce2d1498b0d3a8611dd618e3a185201914a7bf800d28b280707591",
+            "pdf": "13_Interne_Nachverhandlung.pdf",
+            "pdf_sha256": "14a777422c749065bce8cc4e8d4c84e5829c2c24aded34eb1894a7d6e8234cf3",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/14_Terminbestaetigung.eml",
+            "source_sha256": "2320a2984200842c5681d63ede7879ae9f898341f280a7423a4004c5fb859924",
+            "pdf": "14_Terminbestaetigung.pdf",
+            "pdf_sha256": "a80c8e9998068e6969d858dd73891efb3faf6f8152fbcd737f08b96925ba2614",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-nda-kupferfink/15_Projektchat.txt",
+            "source_sha256": "bf7d43d8b38fdcd57fec5ecb5f6ad0ae92a3af0ebb3527dc197e9acdff66819c",
+            "pdf": "15_Projektchat.pdf",
+            "pdf_sha256": "b93fdd902cc24d5c9dd14d529b3bad671a63ad4d0902a3606bdc3ff5f90b5cf9",
+            "pages": 1,
+            "verified_text_segments": 1
+          }
+        ]
+      },
+      {
+        "case": "playbook-arbeitsvertrag-spreebogen",
+        "status": "pass",
+        "combined_pdf_sha256": "e1486fd4d51b1a3ac698a65f8a71cad59a674837bf2615afc7b762c274db0b2d",
+        "combined_pages": 28,
+        "individual_pages": 20,
+        "original_zip_sha256": "262979a062a12a913bad16a907d55d63f0d5d9e3137cc741843b64ce1718c081",
+        "individual_pdf_zip_sha256": "530e049ed39aeb2b88380a0770962cc29cb954c0400f977ea37a3ced59f6d5e7",
+        "documents": [
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/01_Auftrag_Arbeitsvertrag.eml",
+            "source_sha256": "5eb5ca95412ba5e63015dd3e5a47e493f63f414f653d81e9228c74793604899b",
+            "pdf": "01_Auftrag_Arbeitsvertrag.pdf",
+            "pdf_sha256": "7526efe0503736618dec8c7101d0de3e0ca80f78b82cb4d4edfd110e41ab085e",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/02_Playbook_Arbeitsvertrag_V2_0.docx",
+            "source_sha256": "5022ef1c6c55c0b40811a3381ea55df11d596be23fb266d502334f5789047716",
+            "pdf": "02_Playbook_Arbeitsvertrag_V2_0.pdf",
+            "pdf_sha256": "ad5a20685224cfc88650b717ead77937f9cd1b0bc66efee850cfa6c8b8421197",
+            "pages": 4,
+            "verified_text_segments": 85
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/03_Freigabe_Playbook.eml",
+            "source_sha256": "66f65ca527329dd2428dbb26a73eff95c8915c7708445814e1078a922c6cb4e8",
+            "pdf": "03_Freigabe_Playbook.pdf",
+            "pdf_sha256": "fe6195fabd3cd01b627cf02a0e88702da08699ba3295cb97bf3346a594db436a",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/04_Arbeitsvertrag_28_September.docx",
+            "source_sha256": "9b4699487bb6e34d6014989354c1b39d6d3596cad76074c6f20a1a0bd4f1ce4e",
+            "pdf": "04_Arbeitsvertrag_28_September.pdf",
+            "pdf_sha256": "69209baca18eea6c9eb7240c1a7a892047dd347ad804707e2ea39b4e345228cb",
+            "pages": 2,
+            "verified_text_segments": 27
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/05_Arbeitsvertrag_Altstand_18_September.docx",
+            "source_sha256": "fb9130fdce8f3f0343c2d3ff257b6afc5451d63c1b195778a42e11ee7d1bc101",
+            "pdf": "05_Arbeitsvertrag_Altstand_18_September.pdf",
+            "pdf_sha256": "ec736e6e6850c3a72207e9e7e7a29aa2e456c8db699f11aba7f0d3328427635f",
+            "pages": 2,
+            "verified_text_segments": 30
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/06_Anlage_Mobiles_Arbeiten.docx",
+            "source_sha256": "35d4586698d8a812416e219e9075d1a145c94ea0c43cccacc2a89bae40ce5958",
+            "pdf": "06_Anlage_Mobiles_Arbeiten.pdf",
+            "pdf_sha256": "d96ba53dfda2676c98fa765de859263998b42c98d07c3eaa622d5afca3154cd0",
+            "pages": 1,
+            "verified_text_segments": 13
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/07_Versand_Neufassung.eml",
+            "source_sha256": "7ac92b36727b7ea8a5f253bcbfb13bb5ac0de876b7bc88608e46ddf05697dee7",
+            "pdf": "07_Versand_Neufassung.pdf",
+            "pdf_sha256": "23a56bc54b1c438749fc3e1279c04e454e3ae9869e333f2a6c3ee6d7583e45ee",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/08_Personalblatt.docx",
+            "source_sha256": "966bd2d532a9c817864d0fc70539a893dea562eff45be9e4b201036c972da5ad",
+            "pdf": "08_Personalblatt.pdf",
+            "pdf_sha256": "ae014464386fc977bf80b2e701c1d583b862ab32ff734dd36c3d0829022d07ce",
+            "pages": 1,
+            "verified_text_segments": 12
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/09_Taetigkeit_Produktdesign.docx",
+            "source_sha256": "86bccb40856e1fa4474d76ca5ccbb48f2abca1ee95e347d157faafdbce59a1db",
+            "pdf": "09_Taetigkeit_Produktdesign.pdf",
+            "pdf_sha256": "fc9152c6335370d7ee4b8d2d01cf5b55d5f8792b1500cc34a555ff77d458b87b",
+            "pages": 1,
+            "verified_text_segments": 12
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/10_Vermerk_IT_Arbeitsplatz.docx",
+            "source_sha256": "aade486b56526e0cf0127679a216f84c9f7b50ec1c1ded6e2673f5bb79e02f30",
+            "pdf": "10_Vermerk_IT_Arbeitsplatz.pdf",
+            "pdf_sha256": "db239f4650ddb112ecc253f15f1729900bef5d28a9447aa947679f4715165a83",
+            "pages": 1,
+            "verified_text_segments": 7
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/11_IT_Rueckfrage.eml",
+            "source_sha256": "4475f51ede21e9e58f2a1fd9cadafd7d18a8b5d55cc0ce8e4f441beda0eb2437",
+            "pdf": "11_IT_Rueckfrage.pdf",
+            "pdf_sha256": "dcf6c92b3875fba9844e13537b813298fc8d02ff7ffc77c1a2ba70aba9806929",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/12_Gespraechsnotiz_Frieda.docx",
+            "source_sha256": "7040a0d782196ac1cd9606d7c8cb48c83d25d52d9dfd67ab9b555a0497c03b2c",
+            "pdf": "12_Gespraechsnotiz_Frieda.pdf",
+            "pdf_sha256": "53ed45782a15535fd208d25ca570f1fcc0618350ead660b345a072d061127690",
+            "pages": 1,
+            "verified_text_segments": 12
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/13_Personalbuero_Nachtrag.eml",
+            "source_sha256": "9c1bf8c7bb09dc629c0bcc7ba93e61353c58a2cbea9b5f9b00efb186c87361e7",
+            "pdf": "13_Personalbuero_Nachtrag.pdf",
+            "pdf_sha256": "8f9c84c7c222f11f2603734f371318df36c35c1f2c91cfcae1d32dd6cd85cbb3",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/14_Nora_Termin.eml",
+            "source_sha256": "4c0ccb337c9d7cdebd8a791ce3d736f55c99acf7f0f49452989306b28b7f4d35",
+            "pdf": "14_Nora_Termin.pdf",
+            "pdf_sha256": "b86f0e9c77c8123da49d553db16d4913c592d488b4c24eac9d529877336ffbbb",
+            "pages": 1,
+            "verified_text_segments": 1
+          },
+          {
+            "source": "testakten/playbook-arbeitsvertrag-spreebogen/15_Personalchat.txt",
+            "source_sha256": "4d529641262bcd6eb8267a94aa65b04236cd020f4bfd0bd007d9f3322c437730",
+            "pdf": "15_Personalchat.pdf",
+            "pdf_sha256": "0d343f9379600cb9cd840c67451eb82c21a9a88dcb74dfb6d7ec5c2e87efd266",
+            "pages": 1,
+            "verified_text_segments": 1
+          }
+        ]
+      }
+    ],
+    "hinweis": "Original-ZIP-Prüfsummen bezeichnen den Erstbau. Release-ZIPs enthalten später aktualisierte README-Metadaten; Originalunterlagen und PDF-Inhalte bleiben bytegleich."
+  },
+  "word_berichtsexport": {
+    "methode": "Zwei vollständige Seiten der finalen Word-Ausgabe einzeln angesehen; TNR, schwarzer Titel ohne Randlinie, vollständige Regelzählung und Originalzitate lesbar. Vorherige blaue Vorlagenlinie und Themenfont behoben.",
+    "docx_sha256": "b96940f2e68dca3cfdd26769a598689fc34ed9389a865b9c3dd53428b2c2ea06",
+    "engine_sha256": "7174215f96c2ff73b82a8e5f48033b7822768a48200e91bcbf9a48a9fe829c01",
+    "seiten": 2,
+    "grenze": "Kleiner technischer Beispieldatensatz, kein Wordexport der vollständigen Modellprobeläufe."
+  },
+  "pruefprogramme": [
+    {
+      "skript": "scripts/validate-marketplace-import.mjs",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-plugin-structure.mjs",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-yaml-frontmatter.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-gesamt-pdf.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-root-readme-overview.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-readme-navigation.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-markdown-structure.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-readme-downloads.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-dokumentqualitaet.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-keine-markdown-aktenstuecke.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-ohne-loesungen.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/validate-testakten-csv.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-testakten-email-quality.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-playbook-review.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-release-routing.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-complete-package.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-release-assets.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-testakte-pdf-build.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-marketplace-import.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-schwerpunkt-coverage.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/test-generate-megaprompt.py",
+      "argumente": [],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/run-eval.py",
+      "argumente": [
+        "playbook-nda-kupferfink",
+        "--structural-only",
+        "--quiet"
+      ],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/run-eval.py",
+      "argumente": [
+        "playbook-arbeitsvertrag-spreebogen",
+        "--structural-only",
+        "--quiet"
+      ],
+      "exitcode": 0
+    },
+    {
+      "skript": "scripts/quality-lab.py",
+      "argumente": [
+        "audit",
+        "--require-editorial",
+        "--require-workflow"
+      ],
+      "exitcode": 0
+    }
+  ],
+  "engine_verhaltenstests": 18,
+  "evidence_sha256": {
+    "native-reproduction-mime-checks.json": "266d6a788d30bd93cd33fffc8161d6d347f01b3b882dc614073c3b9c6ea68f9c",
+    "native-word-visual-review.json": "b08575bc2a73ea0f22811eef282e2dc32dec02877609dca5a98814da783b5655",
+    "new-case-pdf-source-freeze.json": "90267ccc39bf712c5b9177eacdded26dc95cb68064f254cd4f155edf4614389e",
+    "pdf-final-visual-review.json": "9a317c9ecd3f6e2e806b1d99747688c70d7f6ef55bea14df73c0248bcfbdd4b3",
+    "case-pdf-content-checks.json": "4813ca704e4a129b53e758f01cd85638ae6397afa64615d4cc503211a1f48a8f",
+    "report-export-qa.json": "602523392ffd7c427a2f8f7a6fce8a8a4344452a903906a540c0f80c754a50b3",
+    "check-results.json": "fd8bddf20b670c893d293d9a5e6aa15c0626ed8b1a1cd92726a9e5cba400ee26",
+    "check-resolutions.json": "89a33fd6a3b59a7524b7a2c8e110dd5b35689d5c53463dd9530e9c8ad64443c5"
+  },
+  "grenzen": [
+    "Layoutfreigabe bezieht sich auf die bezeichneten Dateihashes, nicht auf beliebige spätere Wordversionen.",
+    "Regelbeurteilung ist semantische Arbeit; der lokale Rechenkern überprüft strukturierte Befunde, Zitate und Aggregation und führt keine automatische juristische Auslegung durch.",
+    "Rechtsprüfung und Modellprobeläufe sind gesonderte Nachweise."
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "plugin": "playbook-pruefer",
+  "reviewed_on": "2026-10-02",
+  "selection": {
+    "target_skill": "playbook-pruefung-durchfuehren",
+    "positive": [
+      "Prüfe den aktuellen NDA samt Anlage gegen unser freigegebenes Playbook, jede einzelne Regel mit Originalbeleg und Rückfallposition.",
+      "Bewerte diesen Arbeitsvertrag anhand unseres Arbeitgeberplaybooks; trenne fehlende Klauseln, unbekannte Tatsachen und rechtliche Mängel.",
+      "Unser Playbook und zwei Vertragsfassungen widersprechen sich. Bestimme die maßgebliche Fassung und erstelle den vollständigen Review."
+    ],
+    "negative": [
+      "Extrahiere aus fünfhundert Verträgen nur Vertragsdatum und Laufzeit in eine Tabelle, ohne vertiefte Prüfung einzelner Klauseln.",
+      "Fülle nur Namen und Anschriften in einer bereits verbindlich freigegebenen Vertragsvorlage aus."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vorformulierung und tatsächliches Aushandeln feststellen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__305b.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vertragsrangfolge nicht mit bloßer Dateireihenfolge gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__306.html",
+      "checked_on": "2026-10-02",
+      "supports": "Unwirksame AGB nicht ungeprüft auf das gerade noch Zulässige reduzieren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "checked_on": "2026-10-02",
+      "supports": "Transparenz und unangemessene Benachteiligung unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+      "checked_on": "2026-10-02",
+      "supports": "Unternehmervertrag, Arbeitsvertrag und kollektivrechtliche Regelung unterscheiden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vertraglichen Schutz, gesetzlichen Geheimnisschutz, Untersuchungsrechte und Ausnahmen auseinanderhalten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__5.html",
+      "checked_on": "2026-10-02",
+      "supports": "Berufsgeheimnisse sind kein pauschal freigegebenes Meldematerial."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__6.html",
+      "checked_on": "2026-10-02",
+      "supports": "Meldung und Offenlegung von Geheimnissen nur unter den gesetzlichen Voraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__32.html",
+      "checked_on": "2026-10-02",
+      "supports": "Öffentliche Offenlegung hat eigene Schutzvoraussetzungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__33.html",
+      "checked_on": "2026-10-02",
+      "supports": "Schutzvoraussetzungen des Hinweisgebers kontrollieren."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hinschg/__39.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vertragliche Beschränkungen gesetzlicher Hinweisgeberrechte sind unwirksam."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbzg/__3.html",
+      "checked_on": "2026-10-02",
+      "supports": "Werktägliche Grenzen sind etwas anderes als 40h-Kanzleistandard."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbzg/__4.html",
+      "checked_on": "2026-10-02",
+      "supports": "Pausen nicht als frei verfügbare Mehrarbeitsstunden behandeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbzg/__5.html",
+      "checked_on": "2026-10-02",
+      "supports": "Ruhezeiten zusätzlich berücksichtigen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbschg/__3.html",
+      "checked_on": "2026-10-02",
+      "supports": "Normgrundlage des nationalen Erfassungsankers."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/milog/__3.html",
+      "checked_on": "2026-10-02",
+      "supports": "Mindestlohn nicht durch Ausschlussfrist oder Pauschale verkürzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__106.html",
+      "checked_on": "2026-10-02",
+      "supports": "Weisungsrecht endet an vertraglicher Festlegung; billiges Ermessen bleibt erforderlich."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/nachwg/__2.html",
+      "checked_on": "2026-10-02",
+      "supports": "Textform und elektronische Übermittlung sind bedingt möglich; Vertragswirksamkeit und Nachweis trennen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/schwarzarbg_2004/BJNR184210004.html",
+      "checked_on": "2026-10-02",
+      "supports": "Branchenkatalog für die Ausnahme im Nachweisgesetz am Einzelfall prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__622.html",
+      "checked_on": "2026-10-02",
+      "supports": "Probezeit- und Kündigungsfristen getrennt von Freistellung prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__623.html",
+      "checked_on": "2026-10-02",
+      "supports": "Form der Kündigung/Auflösung bleibt von NachwG-Erleichterung getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__14.html",
+      "checked_on": "2026-10-02",
+      "supports": "Befristungsform nicht mit bloßer Textform des Nachweises gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__343.html",
+      "checked_on": "2026-10-02",
+      "supports": "Herabsetzung ist kein Automatismus zur Rettung einer AGB-Strafklausel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+      "checked_on": "2026-10-02",
+      "supports": "Kaufmännisches Strafversprechen als Grenze der Herabsetzung nach § 343 BGB prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+      "checked_on": "2026-10-02",
+      "supports": "Anwaltliche Verschwiegenheit gesondert prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-10-02",
+      "supports": "Erforderlichen Dienstleisterzugang, Auswahl, Verpflichtung und Auslandskontext prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/stgb/__203.html",
+      "checked_on": "2026-10-02",
+      "supports": "Strafrechtlichen Geheimnisschutz neben Datenschutz berücksichtigen."
+    },
+    {
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=61",
+      "checked_on": "2026-10-02",
+      "supports": "NDA, AVV, Rechtsgrundlage und Drittlandtransfer sind verschiedene Prüfungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/tzbfg/__15.html",
+      "checked_on": "2026-10-02",
+      "supports": "Probezeit proportional zu erwarteter Befristungsdauer und Art der Tätigkeit, keine pauschalen sechs Monate."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__110.html",
+      "checked_on": "2026-10-02",
+      "supports": "Eigener gesetzlicher Prüfpfad über entsprechende Anwendung der §§ 74 bis 75f HGB."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__74.html",
+      "checked_on": "2026-10-02",
+      "supports": "Form, Aushändigung und Mindestentschädigung unterscheiden; NDA ersetzt keinen Wettbewerbsschutzpfad."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/hgb/__74a.html",
+      "checked_on": "2026-10-02",
+      "supports": "Berechtigtes Interesse, Grenzen nach Ort/Zeit/Gegenstand und Höchstdauer eigenständig prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "checked_on": "2026-10-02",
+      "supports": "Grundsätzlich drei Wochen ab Zugang der schriftlichen Kündigung; besondere gesetzliche Anlaufregel bei Behördenzustimmung gesondert beachten. Vertragsnachweis und späterer Kündigungsvorgang bleiben getrennt."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__611a.html",
+      "checked_on": "2026-10-02",
+      "supports": "Arbeitsvertrag nach Gesamtumständen und tatsächlicher Durchführung bestimmen; Funktionsbezeichnung allein entscheidet nicht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=ecli:ECLI:EU:C:2019:402",
+      "checked_on": "2026-10-02",
+      "supports": "Arbeitszeiterfassung erfasst die tägliche Zeit objektiv, verlässlich und zugänglich. Grenze: Keine Entscheidung über den konkreten deutschen Überstundenvergütungsanspruch."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/",
+      "checked_on": "2026-10-02",
+      "supports": "Pauschale Freistellung nach jeder Kündigung in ARB-04 am tatsächlich einschlägigen Fall von 2026 prüfen. Grenze: Konkrete überwiegende Arbeitgeberinteressen bleiben eigenständig zu prüfen; kein Verbot jeder Freistellung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/",
+      "checked_on": "2026-10-02",
+      "supports": "Tatsächliche angemessene Geheimhaltungsmaßnahmen und nachvertragliche Catch-all-Klausel getrennt prüfen. Grenze: Arbeitsvertragliche AGB-Aussage nicht pauschal auf sämtliche beiderseitigen B2B-NDAs übertragen."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/",
+      "checked_on": "2026-10-02",
+      "supports": "Arbeitsschutzrechtliche Pflicht zur Erfassung von Beginn, Ende und Dauer einschließlich Überstunden. Grenze: Nicht gleichbedeutend mit einem bestimmten elektronischen Format oder automatischem Vergütungsanspruch."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-359-21/",
+      "checked_on": "2026-10-02",
+      "supports": "Zeitumfang und arbeitgeberseitige Veranlassung von Überstunden sind getrennte Anspruchsvoraussetzungen. Grenze: Zeiterfassung kehrt die Darlegungs- und Beweislast im Vergütungsprozess nicht ohne Weiteres um."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-162-18/",
+      "checked_on": "2026-10-02",
+      "supports": "Aktuelle formularmäßige Ausschlussfrist auf den ausdrücklichen Mindestlohnausschluss und weitere zwingende Ausnahmen prüfen. Grenze: Nicht unterschiedslos auf Altverträge, Tarifnormen und individuell ausgehandelte Vereinbarungen übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2016/VII_ZR_308-16.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-02",
+      "supports": "Die formularmäßige 25.000-EUR-Strafe für jeden NDA-Verstoß am geringsten erfassten typischen Verstoß messen. Grenze: Entscheidung über einen anderen B2B-Vertrag; keine allgemeine zulässige NDA-Eurogrenze und kein Befund ohne AGB-Prüfung."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-569-12/",
+      "checked_on": "2026-10-02",
+      "supports": "Vertraglich zugesagten Arbeitsort und vorrangige Mobilvereinbarung vor dem Weisungsrecht feststellen. Grenze: Flugbegleiterfall begründet weder generelles Homeofficerecht noch beliebige Rückholbefugnis."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-517-09/",
+      "checked_on": "2026-10-02",
+      "supports": "Unbestimmte Pauschalabgeltung der Altfassung von bestimmbarer Klausel der aktuellen Fassung unterscheiden. Grenze: Zehn Stunden sind kein gesetzlicher oder gerichtlicher Safe Harbor."
+    }
+  ],
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs.",
+    "changes": [
+      "Konkreten BGH-Anker für die B2B-AGB-Vertragsstrafe ergänzt; Gutscheinfall und fehlende allgemeine NDA-Eurogrenze ausdrücklich unterschieden.",
+      "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen."
+    ],
+    "sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest.",
+    "changes": [
+      "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert."
+    ],
+    "sha256": "1241488e23cfdd6051d107d07af916c2d6f688cb1aa7034dc9a716899db2ff8b"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-02",
+    "verdict": "retained",
+    "reason": "Hauptproblem-Prompt und orchestrierender Hauptskill vollständig gegengelesen. Auswahl, Versionsdisziplin, Regelvollständigkeit, konkrete Fallanker, Rückfragen und fertige Arbeitsergebnisse sind verbunden; keine selbsttätige Vertragsfreigabe.",
+    "changes": [],
+    "prompt_path": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
+    "skill_path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
+    "prompt_sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
+    "skill_sha256": "ca8b8106db569a80fb1b3877a258497703dd3398d194ce215c126a5fe5fdafbb"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-02",
+    "opening_change": "Auf das vorhandene Playbook, den tatsächlich maßgeblichen Vertragsverbund und den jeweiligen Vertretungsstand zugeschnittener Einstieg. Kanzleistandard, Vertragswortlaut, Tatsachenbeleg und zwingendes Recht werden getrennt, danach entsteht ein vollständiger Regelbericht statt einer allgemeinen Zusammenfassung.",
+    "norms": [
+      "§ 305 BGB",
+      "§ 305b BGB",
+      "§ 306 BGB",
+      "§ 307 BGB",
+      "§ 310 BGB",
+      "§§ 1–5 GeschGehG",
+      "§ 5 HinSchG",
+      "§ 6 HinSchG",
+      "§ 32 HinSchG",
+      "§ 33 HinSchG",
+      "§ 39 HinSchG",
+      "§ 3 ArbZG",
+      "§ 4 ArbZG",
+      "§ 5 ArbZG",
+      "§ 3 ArbSchG",
+      "§ 3 MiLoG",
+      "§ 106 GewO",
+      "§ 2 NachwG",
+      "§ 2a SchwarzArbG",
+      "§ 622 BGB",
+      "§ 623 BGB",
+      "§ 14 TzBfG",
+      "§ 343 BGB",
+      "§ 348 HGB",
+      "§ 43a BRAO",
+      "§ 43e BRAO",
+      "§ 203 StGB",
+      "Art. 4 Nr. 7 und 8; Art. 5, 6, 28, 32, 44 ff. DSGVO",
+      "§ 15 Abs. 3 TzBfG",
+      "§ 110 GewO",
+      "§ 74 HGB",
+      "§ 74a HGB",
+      "§ 4 KSchG",
+      "§ 611a BGB"
+    ],
+    "files": [
+      "playbook-pruefer/playbook-pruefer-schnellstart.md",
+      "playbook-pruefer/playbook-pruefer-werkstatt.md",
+      "playbook-pruefer/playbook-pruefer-hauptproblem.md",
+      "playbook-pruefer/skills/arbeitsvertrag-am-playbook-pruefen/SKILL.md",
+      "playbook-pruefer/skills/klauseln-und-rueckfall-verhandeln/SKILL.md",
+      "playbook-pruefer/skills/nda-am-playbook-pruefen/SKILL.md",
+      "playbook-pruefer/skills/playbook-auswaehlen/SKILL.md",
+      "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
+      "playbook-pruefer/skills/playbook-regeln-schaerfen/SKILL.md",
+      "playbook-pruefer/skills/pruefbericht-erstellen/SKILL.md",
+      "playbook-pruefer/skills/regeln-beurteilen/SKILL.md",
+      "playbook-pruefer/skills/themenrisiken-entscheiden/SKILL.md",
+      "playbook-pruefer/skills/vertragsbelege-erfassen/SKILL.md",
+      "playbook-pruefer/skills/vertragsstand-bestimmen/SKILL.md",
+      "playbook-pruefer/references/beleg-und-bericht.md",
+      "playbook-pruefer/references/maschinenformat.md",
+      "playbook-pruefer/references/nda-und-arbeitsvertrag.md",
+      "playbook-pruefer/references/prueflogik.md",
+      "playbook-pruefer/references/rechtsprechungsanker.md",
+      "playbook-pruefer/references/zitierweise.md"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 14.05.2019 – Az. C-55/18, Rn. 60–63 und 71",
+        "application": "Arbeitszeiterfassung erfasst die tägliche Zeit objektiv, verlässlich und zugänglich.",
+        "limit": "Keine Entscheidung über den konkreten deutschen Überstundenvergütungsanspruch.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=ecli:ECLI:EU:C:2019:402"
+      },
+      {
+        "citation": "BAG, Urt. v. 25.03.2026 – Az. 5 AZR 108/25, Rn. 25–34",
+        "application": "Pauschale Freistellung nach jeder Kündigung in ARB-04 am tatsächlich einschlägigen Fall von 2026 prüfen.",
+        "limit": "Konkrete überwiegende Arbeitgeberinteressen bleiben eigenständig zu prüfen; kein Verbot jeder Freistellung.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/"
+      },
+      {
+        "citation": "BAG, Urt. v. 17.10.2024 – Az. 8 AZR 172/23, Rn. 24–27 und 31–40",
+        "application": "Tatsächliche angemessene Geheimhaltungsmaßnahmen und nachvertragliche Catch-all-Klausel getrennt prüfen.",
+        "limit": "Arbeitsvertragliche AGB-Aussage nicht pauschal auf sämtliche beiderseitigen B2B-NDAs übertragen.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azr-172-23/"
+      },
+      {
+        "citation": "BAG, Beschl. v. 13.09.2022 – Az. 1 ABR 22/21, Rn. 43–55 und 65",
+        "application": "Arbeitsschutzrechtliche Pflicht zur Erfassung von Beginn, Ende und Dauer einschließlich Überstunden.",
+        "limit": "Nicht gleichbedeutend mit einem bestimmten elektronischen Format oder automatischem Vergütungsanspruch.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/"
+      },
+      {
+        "citation": "BAG, Urt. v. 04.05.2022 – Az. 5 AZR 359/21, Rn. 15–23",
+        "application": "Zeitumfang und arbeitgeberseitige Veranlassung von Überstunden sind getrennte Anspruchsvoraussetzungen.",
+        "limit": "Zeiterfassung kehrt die Darlegungs- und Beweislast im Vergütungsprozess nicht ohne Weiteres um.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-359-21/"
+      },
+      {
+        "citation": "BAG, Urt. v. 18.09.2018 – Az. 9 AZR 162/18, Leitsatz 1; Rn. 35–45",
+        "application": "Aktuelle formularmäßige Ausschlussfrist auf den ausdrücklichen Mindestlohnausschluss und weitere zwingende Ausnahmen prüfen.",
+        "limit": "Nicht unterschiedslos auf Altverträge, Tarifnormen und individuell ausgehandelte Vereinbarungen übertragen.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/9-azr-162-18/"
+      },
+      {
+        "citation": "BGH, Urt. v. 31.08.2017 – Az. VII ZR 308/16, Rn. 14–23",
+        "application": "Die formularmäßige 25.000-EUR-Strafe für jeden NDA-Verstoß am geringsten erfassten typischen Verstoß messen.",
+        "limit": "Entscheidung über einen anderen B2B-Vertrag; keine allgemeine zulässige NDA-Eurogrenze und kein Befund ohne AGB-Prüfung.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2016/VII_ZR_308-16.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "BAG, Urt. v. 28.08.2013 – Az. 10 AZR 569/12, Rn. 18–20",
+        "application": "Vertraglich zugesagten Arbeitsort und vorrangige Mobilvereinbarung vor dem Weisungsrecht feststellen.",
+        "limit": "Flugbegleiterfall begründet weder generelles Homeofficerecht noch beliebige Rückholbefugnis.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/10-azr-569-12/"
+      },
+      {
+        "citation": "BAG, Urt. v. 01.09.2010 – Az. 5 AZR 517/09, Rn. 13–16",
+        "application": "Unbestimmte Pauschalabgeltung der Altfassung von bestimmbarer Klausel der aktuellen Fassung unterscheiden.",
+        "limit": "Zehn Stunden sind kein gesetzlicher oder gerichtlicher Safe Harbor.",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/5-azr-517-09/"
+      }
+    ],
+    "remaining_limits": [
+      "Gezielte Primärquellen- und redaktionelle Prüfung am 02.10.2026; keine Vollständigkeitszusage für jede denkbare Vertragsart und keine Garantie künftiger Rechtsentwicklung.",
+      "Keine Behauptung eines Live-Modelltests oder einer bestandenen tatsächlichen Vertragsbearbeitung. Die Fälle und Kriterien sind ein individualisiertes Eval-Profil.",
+      "Word-/PDF-Layoutprüfung der veröffentlichten Artefakte und unabhängig ausgeführte Verhaltenstests werden gesondert dokumentiert."
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-02",
+    "opening_modes": [
+      "Vorhandenes freigegebenes Playbook plus vollständiger Vertragsverbund: sofort alle Themen beginnen und den Stand festhalten.",
+      "Mehrere Fassungen oder eine ranghöhere Anlage: Einbeziehung und Rang klären, ohne günstige Klauseln verschiedener Stände zu mischen.",
+      "Ein fehlendes Playbook oder eine konkrete Tatsachenlücke: Maßstab beziehungsweise entscheidende Quelle gezielt erfragen und unabhängige Teile weiterbearbeiten."
+    ],
+    "continuation": "Antwort zur Backupkonfiguration oder zum mobilen Sichtschutz wird nur den betroffenen Regeln zugeordnet; Zähler, Match, Topicrisiko und abhängige Klauseln werden neu beurteilt. Vorhandene Stammdaten und erfüllte Belege werden nicht erneut abgefragt.",
+    "enrichment": "Vollständige Ersatzklauseln und Neufassungen werden gegen die betroffenen Regeln erneut geprüft; Version und Freigabestatus bleiben sichtbar. Die neue Gegenfassung erzeugt einen nachvollziehbaren Folgeprüflauf, keine stille Playbookänderung.",
+    "limits": "Desk-Review der konkreten Texte; keine empirisch bestätigte Modellauswahl, Vertragsauslegung oder Benutzerinteraktion. Rechenhilfe kontrolliert Struktur/Zitate/Zählung, nicht rechtliche Richtigkeit."
+  },
+  "cases": [
+    {
+      "id": "nda-kupferfink",
+      "request": "Prüfen Sie für Mina Kupfer den aktuellen gegenseitigen NDA zum Sensorprojekt Federlicht einschließlich der einbezogenen Anlage gegen das im Vorgang freigegebene Unternehmensplaybook. Lesen Sie die Originalunterlagen, bestimmen Sie Fassung und Rangfolge und bewerten Sie jede Regel mit wirklichen Fundstellen. Trennen Sie rechtliche Bedenken, interne Verhandlungspositionen und unbekannte Tatsachen. Liefern Sie den internen strukturierten Prüfbericht, einen vollständig formulierten Änderungsvorschlag und eine kurze Begleitmail an die Mandantin. Stellen Sie entscheidende Rückfragen konkret. Kein Versand oder Vertragsabschluss.",
+      "target_skill": "playbook-pruefung-durchfuehren",
+      "input_files": [
+        "testakten/playbook-nda-kupferfink/01_Auftrag_Vertragspruefung.eml",
+        "testakten/playbook-nda-kupferfink/02_Playbook_NDA_V1_2.docx",
+        "testakten/playbook-nda-kupferfink/03_Freigabe_Playbook.eml",
+        "testakten/playbook-nda-kupferfink/04_NDA_Entwurf_25_September.docx",
+        "testakten/playbook-nda-kupferfink/05_NDA_Altstand_18_September.docx",
+        "testakten/playbook-nda-kupferfink/06_Anlage_FED_AN1.docx",
+        "testakten/playbook-nda-kupferfink/07_Versand_Gegnerentwurf.eml",
+        "testakten/playbook-nda-kupferfink/08_Projektblatt_Federlicht.docx",
+        "testakten/playbook-nda-kupferfink/09_Zugriffsplan.docx",
+        "testakten/playbook-nda-kupferfink/10_Notiz_Sicherungskopien.docx",
+        "testakten/playbook-nda-kupferfink/11_Rueckfrage_Technik.eml",
+        "testakten/playbook-nda-kupferfink/12_Besprechungsnotiz_Verhandlung.docx",
+        "testakten/playbook-nda-kupferfink/13_Interne_Nachverhandlung.eml",
+        "testakten/playbook-nda-kupferfink/14_Terminbestaetigung.eml",
+        "testakten/playbook-nda-kupferfink/15_Projektchat.txt"
+      ],
+      "deliverables": [
+        "pruefbericht.docx",
+        "aenderungsvorschlag.docx",
+        "begleitmail.docx"
+      ],
+      "criteria": [
+        {
+          "id": "fassungen",
+          "text": "Ausschließlich LB-FED-NDA-02 vom 25.09.2026 und FED-AN1 als Vertragsverbund; Anlage geht nur für §§ 3/4 vor. Überholtes NDA vom 18.09.2026 und bloße E-Mails werden nicht zu Vertragsklauseln gemacht.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "vollstaendige-regeln",
+          "text": "PB-KF-NDA 1.2 anhand der Freigabe wählen; alle 35 Regelkennungen in acht Topics vollständig, einzeln und ohne Bedeutungsänderung prüfen. S/F1 jeweils UND, bei N jeder Treffer eigenständig; Regelbegründung und Positionenzähler, offene Regeln gesondert.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "anlagenwirkung",
+          "text": "Die gleichwertig zu verpflichtende Olga Kern und eng begrenzten Tests des Wartungsdeckels als durch FED-AN1 gedeckte Rückfallpositionen NDA-02/NDA-06 prüfen; keine freie Nachbau-/Firmwareerlaubnis, keine Löschung der für die Kooperation notwendigen Anlage.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "dauer",
+          "text": "Fünf Jahre für gewöhnliche Informationen als NDA-03-Rückfall mit dokumentierter Entscheidungspflicht behandeln; dreijährige Startposition nicht aus Altfassung ergänzen. Fortbestehender Geheimnisschutz ist kein pauschales gesetzliches Verbot unbegrenzter B2B-Vertraulichkeit.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "backup-tatsache",
+          "text": "Vertraglich 90 Tage von tatsächlich unbekannter Backupkonfiguration unterscheiden. NDA-04-S-R2 und F1-R2 bleiben nicht verifizierbar; 30-/60-Tage-Erinnerungen sind keine Bestätigung. F1-R1 ist entscheidbar, F1 daher 1/1 erfüllt plus 1 nicht verifizierbar und kein voller Match. Präzise Rückfrage an Petra Ebert zur aktuellen Konfiguration und Altbeständen.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "fehlender-inhalt",
+          "text": "NDA-05 im vollständigen aktuellen Hauptvertrag und Anlage als nicht gefunden beurteilen; Pflicht zur gewünschten Offenlegungsregel erzeugt hohes Playbookrisiko. Keine Kopie der Alt-Klausel als vorhandener Beleg, kein erfundenes Zitat und keine Gleichsetzung fehlender Ausnahme mit ausdrücklich nachgewiesenem gesetzlichem Schweigezwang.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "rote-linie",
+          "text": "NDA-07-N-R1 und N-R2 sind wegen Verschuldensunabhängigkeit und 25.000 EUR beide erkannt: 2/2 erfasste Verbotsmerkmale, hohes Risiko. Keine invertierte Zählung; gesetzliche Wirksamkeit gesondert mit § 307 BGB, AGB-Charakter und BGH VII ZR 308/16, Rn. 14–23 prüfen. 5.000 EUR im Rückfall ist keine gesetzliche Unbedenklichkeitsgrenze.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "konkrete-belege",
+          "text": "Entschiedene Vertragsregeln enthalten echte Wortlautzitate mit Datei/Fassung/Klausel; Gegenbelege und Ausnahmen werden berücksichtigt. Fehlstellen nennen vollständig gelesenen Umfang; Tatsachenkontext wird als solcher bezeichnet. Keine fiktiven Seitenzahlen oder erfundenen Gerichtsangaben.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "aenderung",
+          "text": "Vollständig ausformulierter konsistenter Änderungsvorschlag mit passenden gesetzlichen Offenlegungsausnahmen, begrenzter Vertragsstrafe oder Streichung und erhaltenen notwendigen Untersuchungsrechten; Rechtsannahmen und noch nicht erteilte Abweichungsfreigaben klar halten. Keine pauschale Freigabe aller gesetzlichen Meldungen ohne Voraussetzungen.",
+          "deliverables": [
+            "aenderungsvorschlag.docx"
+          ]
+        },
+        {
+          "id": "kommunikation",
+          "text": "Kurze interne Begleitmail an Mina Kupfer mit Entscheidungen und gezielter Tatsachenfrage, keine automatisch versandte Nachricht, keine Offenlegung interner Reservepositionen an Lindenbogen; Bericht, Text und Begleitmail in lesbaren vollständigen Dokumenten.",
+          "deliverables": [
+            "begleitmail.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arbeitsvertrag-spreebogen",
+      "request": "Prüfen Sie für Frieda Fröhlich den noch nicht unterzeichneten Arbeitsvertrag von Nora Aydin einschließlich der Anlage anhand des freigegebenen Arbeitgeberplaybooks im Vorgang. Bestimmen Sie zunächst den aktuellen Vertragsverbund und beurteilen Sie sämtliche Regeln samt Originalbelegen. Unterscheiden Sie rechtliche Wirksamkeit, wirtschaftliche Verhandlungspositionen und tatsächlich offene Angaben. Erstellen Sie einen internen strukturierten Prüfbericht, eine vollständig ausformulierte überarbeitete Vertragsfassung einschließlich der nötigen Anlage sowie einen kurzen Begleitbrief an die Geschäftsführerin. Bearbeiten Sie vorhandene Unterlagen zuerst und fragen Sie nur entscheidende fehlende Punkte nach. Kein Versand und keine Unterzeichnung.",
+      "target_skill": "arbeitsvertrag-am-playbook-pruefen",
+      "input_files": [
+        "testakten/playbook-arbeitsvertrag-spreebogen/01_Auftrag_Arbeitsvertrag.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/02_Playbook_Arbeitsvertrag_V2_0.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/03_Freigabe_Playbook.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/04_Arbeitsvertrag_28_September.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/05_Arbeitsvertrag_Altstand_18_September.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/06_Anlage_Mobiles_Arbeiten.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/07_Versand_Neufassung.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/08_Personalblatt.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/09_Taetigkeit_Produktdesign.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/10_Vermerk_IT_Arbeitsplatz.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/11_IT_Rueckfrage.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/12_Gespraechsnotiz_Frieda.docx",
+        "testakten/playbook-arbeitsvertrag-spreebogen/13_Personalbuero_Nachtrag.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/14_Nora_Termin.eml",
+        "testakten/playbook-arbeitsvertrag-spreebogen/15_Personalchat.txt"
+      ],
+      "deliverables": [
+        "pruefbericht.docx",
+        "arbeitsvertrag-ueberarbeitet.docx",
+        "begleitbrief.docx"
+      ],
+      "criteria": [
+        {
+          "id": "fassungen",
+          "text": "AV-NA-03 vom 28.09.2026 mit vorrangiger AV-NA-AN1 prüfen; 38,5 Stunden und zwei mobile Tage gehen den §§ 2/3 des Hauptvertrags vor. AV-NA-01 ist nur Verlauf; keine Mehrarbeits- oder Fortbildungsregel daraus in die aktuelle Fassung hineinlesen.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "vollstaendige-regeln",
+          "text": "PB-SP-ARB 2.0 mit Freigabe bestimmen und alle 34 Regeln der acht Topics einzeln samt S/F1/N und Zitaten abarbeiten. Start-/Rückfallpositionen kumulativ, N-Regeln als Verbotsmerkmale wörtlich zählen; unbekannte Tatsachen nicht in Nenner aufnehmen.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "arbeit-vergutung",
+          "text": "38,5 Wochenstunden erfüllen den zulässigen ARB-01-Rückfall, nicht den wörtlichen 40-Stunden-Start. Aktuell höchstens zehn angeordnete/genehmigte Überstunden mit bestimmtem weiteren Ausgleich; 40h/10h nur Firmenstandard, ArbZG-Grenzen separat. Zeitaufzeichnung ist weder Anordnung noch automatischer Vergütungsanspruch.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "mobil-tatsache",
+          "text": "Zwei mobile Tage im Inland mit Schutzpflichten erfüllen ARB-02-F1-R1. Tatsächlicher Sichtschutz bleibt unbekannt; IT-Ticket und Termin sind keine erteilte Freigabe. F1: 1/1 erfüllt plus 1 nicht verifizierbar, insgesamt kein voller Match; konkrete Frage nach Arbeitsplatzprüfung statt pauschalem Voll-Upload der Wohnung.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "gehalt",
+          "text": "4.900 EUR zum Monatsende als ARB-03-Rückfall behandeln, nicht als Verstoß gegen eine gesetzliche 4.800-EUR-Grenze. Geschäftsführerpräferenz nicht pauschal auf sämtliche abweichenden Klauseln erstrecken.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "freistellung-2026",
+          "text": "Pauschales Freistellungsrecht nach jeder Kündigung aus § 6 als ARB-04-N-Treffer und rechtlichen Mangel prüfen. BAG 25.03.2026 – 5 AZR 108/25, Rn. 25–34, einschlägig wiedergeben; konkret überwiegende berechtigte Interessen weiterhin möglich, keine Aussage jedes Freistellen sei rechtswidrig.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "geheimhaltung",
+          "text": "Die zeitlich unbegrenzte Verschwiegenheit über sämtliche internen Vorgänge als ARB-05-N-Treffer unter BAG 17.10.2024 – 8 AZR 172/23, Rn. 31–40, prüfen. Bereits vorhandene Ausnahme gesetzlich erlaubter Meldungen berücksichtigen; nicht alle Geheimhaltungsregeln streichen.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "ausschluss-neben",
+          "text": "Die vorhandene dreimonatige Textform-Ausschlussfrist mit ausdrücklich ausgenommenem Mindestlohn tatsächlich lesen; kein erfundener MiLoG-Verstoß. Nebentätigkeitsanzeige mit begrenztem Untersagungsgrund und fehlendes nachvertragliches Wettbewerbsverbot befundgerecht bewerten; gesetzliche Prüfung bleibt getrennt.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "fortbildung-form",
+          "text": "Fortbildung ist im vollständigen aktuellen Verbund nicht gefunden und gegenüber dem Playbook erforderliche Lücke; kein allgemeiner gesetzlicher Zweitagesanspruch und kein automatischer NachwG-Verstoß allein wegen fehlender freiwilliger Fortbildungszusage. Nachweispflichten/ggf. elektronische Nachweisübermittlung, unterschriebene Urkunden, Kündigungsschriftform und fehlende Befristung unterscheiden.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "belege",
+          "text": "Jedes tragende Urteil erhält konkrete Vertragsstelle oder nachvollziehbare vollständige Fehlstellensuche. Aktuelle Normen und Entscheidungen mit Datum/Az/Rn/Originalquelle; Vertragstext, Unternehmensregel, Tatsachenbeleg und rechtlicher Anker sind unterscheidbar.",
+          "deliverables": [
+            "pruefbericht.docx"
+          ]
+        },
+        {
+          "id": "korrektur",
+          "text": "Vollständigen konsistenten überarbeiteten Vertrag einschließlich Mobilanlage liefern: 38,5 Stunden, zwei mobile Tage, 4.900 EUR, konkrete rechtmäßige Freistellungs-/Geheimnisregel und abgestimmte Fortbildungsvorschläge; keine blanke Unterschriftsfreigabe trotz ungeklärter Tatsachen. Bestehende günstige Regelungen nicht versehentlich zerstören.",
+          "deliverables": [
+            "arbeitsvertrag-ueberarbeitet.docx"
+          ]
+        },
+        {
+          "id": "brief",
+          "text": "Interner Begleitbrief an Frieda Fröhlich priorisiert rechtliche Mängel, wirtschaftliche Rückfälle und IT-/Fortbildungsfragen; keine Vertretungs- oder Zustimmungsfiktion, kein Versand an Nora. Unbekannte Daten als klare offene Punkte.",
+          "deliverables": [
+            "begleitbrief.docx"
+          ]
+        }
+      ]
+    }
+  ]
+}
