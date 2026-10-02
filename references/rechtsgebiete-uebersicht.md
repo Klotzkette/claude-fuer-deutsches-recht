@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.26.0: 268 Plugins, 22666 Skills.
+Stand v445.26.0: 269 Plugins, 22677 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -218,6 +218,7 @@ Stand v445.26.0: 268 Plugins, 22666 Skills.
 | [`schriftsatz-versandwerkstatt`](../schriftsatz-versandwerkstatt/) | Fokussierte Versandwerkstatt für fertige Schriftsätze und Anlagen: konvertiert Dateien in PDF, stempelt Anlagen, prüft Dateinamen, Paketgrenzen, Absender, Signaturweg und Eingang und liefert eine kontrollierte beA-Mappe. | `445.26.0` | 10 |
 | [`schulrecht-laender`](../schulrecht-laender/) | Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. | `445.26.0` | 101 |
 | [`seerecht-schifffahrtsrecht`](../seerecht-schifffahrtsrecht/) | See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS. | `445.26.0` | 239 |
+| [`sektorenvergabe-workflow`](../sektorenvergabe-workflow/) | Sektorenvergabe aus Auftraggebersicht: fünf Skills für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis über Bekanntmachung, Rügen und Wertung bis Zuschlag und Nachprüfung. | `445.26.0` | 11 |
 | [`selbstvertreter-amtsgericht`](../selbstvertreter-amtsgericht/) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. | `445.26.0` | 90 |
 | [`selbstvertreter-sozialgericht`](../selbstvertreter-sozialgericht/) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. | `445.26.0` | 139 |
 | [`softwarerecht-de-eu-us`](../softwarerecht-de-eu-us/) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. | `445.26.0` | 106 |

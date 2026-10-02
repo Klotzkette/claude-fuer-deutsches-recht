@@ -38,6 +38,9 @@ DOWNLOAD_BASE = "https://klotzkette.github.io/claude-fuer-deutsches-recht/downlo
 DISALLOWED_ABBR = chr(75) + chr(73)
 DISALLOWED_MIXED = chr(75) + "i"
 PROSE_REPLACEMENTS = {
+    "Verfahrensfuehrung": "Verfahrensführung",
+    "Nachpruefung": "Nachprüfung",
+    "Ruegen": "Rügen",
     "Eigenbedarfskuendigungen": "Eigenbedarfskündigungen",
     "Haertewiderspruch": "Härtewiderspruch",
     "begruendeten": "begründeten",
@@ -358,6 +361,14 @@ def first_product(directory: Path, plugin_name: str) -> str:
 
 
 def quickstart_section(plugin_name: str, directory: Path) -> str:
+    if plugin_name == "sektorenvergabe-workflow":
+        return """## In 30 Sekunden starten
+
+Wählen Sie `sektorenvergabe-steuern` oder unmittelbar einen der zehn Fachschritte. Ohne Installation verwenden Sie Werkstatt oder Mini-Prompt. Einzelne Skills lassen sich mit der dokumentierten Übergabenotiz manuell als Workflow verbinden.
+
+> Flächenliste, Reinigungsintervalle und Altvertrag liegen im Ordner. Bereite Leistungsbeschreibung und Preisblatt für die Stationsreinigung vor. Prüfe den Sektorenbezug und frage nur nach Angaben, die Mengen, Kalkulation oder Verfahrenswahl verändern.
+
+Fünf Schritte erstellen die Vergabeunterlagen, fünf weitere begleiten Eingang, Rügen, Wertung, Zuschlag und Nachprüfung. Rechtsschutz kann bereits vor Zuschlag einsetzen. Veröffentlichung, Einreichung und Zuschlag bleiben ausdrücklich freizugebende externe Handlungen. Dies ist ein Experiment und keine Rechtsberatung."""
     if plugin_name == "insolvenzforderungen-checker":
         return """## In 30 Sekunden starten
 
@@ -586,6 +597,9 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     elif plugin_name in {"transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent", "berliner-schulrecht-eltern-schueler", "berliner-hochschulrecht-professoren"}:
         skill_note = "Alle elf Skills sind unmittelbar enthalten: zehn Fachskills und der Hauptproblem-Skill. Werkstatt, Mini und Hauptproblem-Prompt sind getrennte eigenständige Downloads. Beim Einzel-Download eines Skills müssen die verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All eleven skills are directly included: ten task workflows and one main problem workflow. Workshop, mini and focus prompts are separate standalone downloads. A downloaded individual skill also needs its linked references."
+    elif plugin_name == "sektorenvergabe-workflow":
+        skill_note = "Elf Skills sind direkt enthalten: fünf zur Unterlagenerstellung, fünf zur Verfahrensführung und ein Hauptskill. Jeder Fachskill enthält Eingaben, Normen, Entscheidungsanker und eine Übergabe für die manuelle Sequenz. Referenzen vertiefen die Quellenprüfung; Werkstatt und Mini sind separate eigenständige Downloads."
+        skill_note_en = "Eleven skills are included: five for tender documents, five for procedure management and one coordinating skill. Each task skill provides inputs, legal anchors and a handover for manual sequencing. References add source detail; workshop and mini prompt are separate standalone downloads."
     elif plugin_name == "insolvenzforderungen-checker":
         skill_note = "Alle elf Skills sind unmittelbar enthalten: ein Hauptskill und zehn Fachskills. Werkstatt und Mini-Prompt sind eigenständige Downloads. Der optionale Exporthelfer und seine Referenz gehören zum Plugin-ZIP; einzelne Skill-Downloads benötigen diese Hilfsdateien zusätzlich."
         skill_note_en = "All eleven skills are included directly: one main workflow and ten specialist skills. Workshop and mini prompt are standalone downloads. The optional export helper and its reference are bundled in the plugin ZIP; individual skill downloads need those files separately."

@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "sektorenvergabe-workflow": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "berliner-schulrecht-eltern-schueler": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],

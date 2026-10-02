@@ -121,6 +121,11 @@ EXACT_GROUPS: dict[str, str] = {
 }
 
 PLUGIN_GROUPS = {
+    "sektorenvergabe-workflow": [
+        ("1. Hauptskill für den laufenden Auftrag", ["sektorenvergabe-steuern"]),
+        ("2. Vergabeunterlagen in fünf Schritten", ["auftrag-und-sektorenbezug-klaeren", "reinigungsleistung-und-mengen-bestimmen", "eignung-wertung-und-vertrag-gestalten", "unterlagen-und-preisblatt-abgleichen", "bekanntmachung-und-fristen-vorbereiten"]),
+        ("3. Verfahrensführung in fünf Schritten", ["teilnahmeantraege-und-angebote-pruefen", "bieterfragen-ruegen-und-aenderungen-bearbeiten", "verhandeln-und-angebote-werten", "zuschlag-und-stillhaltefrist-sichern", "nachpruefung-und-verfahrensfortsetzung-begleiten"]),
+    ],
     "berliner-schulrecht-eltern-schueler": [
         ("1. Anliegen und Bildungsweg", ["berlin-bildungsmandat-steuern", "berlin-kita-gutschein-betreuung", "berlin-ganztag-ergaenzende-foerderung"]),
         ("2. Schulplatz und Übergänge", ["berlin-schulaufnahme-grundschule", "berlin-sekundarstufe-schulplatz-wechsel"]),

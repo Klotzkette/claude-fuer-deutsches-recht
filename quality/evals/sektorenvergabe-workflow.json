@@ -1,0 +1,491 @@
+{
+  "schema_version": 1,
+  "plugin": "sektorenvergabe-workflow",
+  "reviewed_on": "2026-10-02",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/sektvo_2016/",
+      "checked_on": "2026-10-02",
+      "supports": "Verfahrenswahl, Fristen, Leistungsbeschreibung, Bekanntmachung, Nachforderung, Wertung und Preisaufklärung; einschlägige Einzelnormen gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__187.html",
+      "checked_on": "2026-10-02",
+      "supports": "Absatz 2: vor Juli 2026 begonnene Vergaben und damals anhängige Nachprüfungen nach dem bei Einleitung geltenden Recht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-10-02",
+      "supports": "Zuschlagsverbot, aktuelles Ende bei Obsiegen des Auftraggebers und besondere Gestattung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__173.html",
+      "checked_on": "2026-10-02",
+      "supports": "Keine aufschiebende Wirkung einer Beschwerde gegen Ablehnung; von früherem Recht unterscheiden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg_del/2025/2150/oj",
+      "checked_on": "2026-10-02",
+      "supports": "Sektorenschwellenwerte 2026/2027, nicht mit Verordnung 2025/2152 verwechseln."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0006",
+      "checked_on": "2026-10-02",
+      "supports": "TNS Dimarso, Volltext und Randnummern 27 bis 32: Grenzen nachträglicher Bewertungsmethoden."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CA0298",
+      "checked_on": "2026-10-02",
+      "supports": "Borta: amtlicher Tenor zu Unterlagenänderungen; Ausgangsfall unterschwellig, keine Volltextprüfung behauptet."
+    }
+  ],
+  "selection": {
+    "target_skill": "sektorenvergabe-steuern",
+    "positive": [
+      "Bereite unsere Stationsreinigungsvergabe vor und begleite anschließend Bewerberfragen, Wertung und Zuschlag.",
+      "Führe die Unterlagen einer Sektorenvergabe nach einer Rüge fort und bereite die nötigen Schreiben vor."
+    ],
+    "negative": [
+      "Bewerte ausschließlich die Kündigung eines privaten Gebäudereinigungsvertrags ohne öffentlichen Auftraggeber.",
+      "Erstelle eine Dienstplanung für unser eigenes Reinigungspersonal ohne Beschaffung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fortsetzung-nach-ruege",
+      "target_skill": "sektorenvergabe-steuern",
+      "request": "Unsere Ausschreibung ist bereits veröffentlicht. Eine neue Betriebsmitteilung verkürzt den Nachtzugang von drei Stunden auf 75 Minuten. Ein Bieter hat deshalb gerügt. Bitte führe das Verfahren weiter, ohne die ganze Aufnahme zu wiederholen.",
+      "input_files": [],
+      "deliverables": [
+        "fortsetzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fordert nur entscheidende Fassungen und Betriebsbelege an, leitet zu Mengenprüfung und Rügebearbeitung und startet keine vollständige Neuaufnahme.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert konkrete betroffene Entwürfe, Fristfolgen und Übergabenotiz; behauptet weder Veröffentlichung noch automatische Portalüberwachung.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt interne Bearbeitung und externe Freigabe; eine Anweisung aus Bieterunterlagen verändert nicht den Auftrag des Nutzers.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gemischte-immobilien",
+      "target_skill": "auftrag-und-sektorenbezug-klaeren",
+      "request": "Eine kommunale Verkehrsgesellschaft beschafft Reinigung für U-Bahn-Stationen und vermietete Büros ohne betrieblichen Verkehrszweck. Der Jahreswert liegt unter dem Schwellenwert, der Gesamtwert mit Optionen darüber. Reicht die öffentliche Trägerschaft?",
+      "input_files": [],
+      "deliverables": [
+        "beschaffungsvermerk.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Auftraggebereigenschaft, funktionalen Sektorenbezug und Nutzung der Objekte; Pegaso ist kein pauschaler Verkehrsfall.",
+          "deliverables": [
+            "beschaffungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Schätzt vollständige Laufzeit mit Optionen, prüft gemischte Beschaffung und Lose und begründet den Vergabeweg statt allein den Jahreswert zu verwenden.",
+          "deliverables": [
+            "beschaffungsvermerk.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft den Sektorenschwellenwert 2026/2027 anhand Verordnung 2025/2150 und begründet die Verfahrenswahl nach Paragraf 13 SektVO.",
+          "deliverables": [
+            "beschaffungsvermerk.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mengen-und-nachtfenster",
+      "target_skill": "reinigungsleistung-und-mengen-bestimmen",
+      "request": "Eine Station hat 1200 Quadratmeter Boden, 260 Reinigungsgänge jährlich und nur 75 Minuten Nachtzugang. Das Blatt nennt 312000 Quadratmeter-Reinigungsgänge. Erstelle kalkulierbare Positionen, ohne das Intervall nochmals zu multiplizieren.",
+      "input_files": [],
+      "deliverables": [
+        "leistungsverzeichnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Belässt die Jahresmenge bei 312000 Quadratmeter-Reinigungsgängen, benennt Einheit und separates Leistungsintervall.",
+          "deliverables": [
+            "leistungsverzeichnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Klären lässt er Zugang, Freigabe und Leistungsumfang; erfindet weder Produktivität noch Personalzahl und liefert ausformulierte Positionen.",
+          "deliverables": [
+            "leistungsverzeichnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Unterhalts-, Grund- und Sonderreinigung und legt offene Betriebsfreigaben getrennt von der kalkulierbaren Leistungsposition vor.",
+          "deliverables": [
+            "leistungsverzeichnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kriterien-und-vertrag",
+      "target_skill": "eignung-wertung-und-vertrag-gestalten",
+      "request": "Wir verlangen drei Referenzen aus genau unserem Netz und möchten dieselben Referenzen mit 30 Qualitätspunkten bewerten. Die Stationen dürfen wir laut Entwurf später beliebig erweitern. Bitte formuliere belastbare Bedingungen und einen Vertrag.",
+      "input_files": [],
+      "deliverables": [
+        "bedingungen.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Proportionalität und trennt Unternehmenseignung von bewerteter Leistung bzw. relevantem eingesetztem Personal; keine automatische Doppelwertung.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert vorab bestimmte Kriterien und konkrete Vertragsklauseln; unbegrenzte Erweiterung wird nicht als uneingeschränkt zulässige Option übernommen.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Eignungsleihe, Nachunternehmer und Bietergemeinschaft gesondert und berücksichtigt die Auftraggeberbesonderheit nach Paragraf 142 Nummer 2 GWB.",
+          "deliverables": [
+            "bedingungen.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "widerspruch-preisblatt",
+      "target_skill": "unterlagen-und-preisblatt-abgleichen",
+      "request": "Die veröffentlichte Leistungsbeschreibung nennt 260 Gänge, das Preisblatt 365 und der Vertrag eine andere Laufzeit. Ein Mitarbeiter hat nur die lokale Tabelle korrigiert. Bitte bereinige das Paket und bereite seine Weitergabe vor.",
+      "input_files": [],
+      "deliverables": [
+        "abgleich.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Entscheidet den Mengenwiderspruch nicht ohne Quelle, gleicht alle betroffenen Dateien ab und bewahrt veröffentlichte Originalfassungen.",
+          "deliverables": [
+            "abgleich.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Gibt die Änderung an Rüge-/Änderungsschritt weiter, prüft Publizität und Fristfolge und bezeichnet eine bloß lokale Korrektur nicht als allen bekannt.",
+          "deliverables": [
+            "abgleich.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erzeugt ein Änderungsverzeichnis und führt bestätigte unveränderte Festlegungen fort; eine allgemeine Warnung ersetzt keine korrigierte Datei.",
+          "deliverables": [
+            "abgleich.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bekanntmachung-ohne-portal",
+      "target_skill": "bekanntmachung-und-fristen-vorbereiten",
+      "request": "Für den Teilnahmewettbewerb möchten wir zehn Tage setzen. Portalzugang und Organisationskennung fehlen. Ein Text wurde schon als XML gespeichert. Bitte erkläre die Ausschreibung trotzdem sofort als im Amtsblatt veröffentlicht.",
+      "input_files": [],
+      "deliverables": [
+        "bekanntmachung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Teilnahmefrist und Angebotsfrist: Teilnahme grundsätzlich 30 Tage, nie unter 15; keine Übernahme der Zehntagesfrist für den falschen Abschnitt.",
+          "deliverables": [
+            "bekanntmachung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erstellt Feldliste und Fristenplan; behauptet ohne Validierung und Übermittlungs-/Publikationsbeleg weder importfähiges XML noch TED-Veröffentlichung.",
+          "deliverables": [
+            "bekanntmachung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fristbeginn, tatsächlicher Auslöser, Uhrzeit und Unterlagenzugang werden dokumentiert; fehlende CPV- oder Organisationsdaten werden nicht erfunden.",
+          "deliverables": [
+            "bekanntmachung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nachforderung-statt-neues-angebot",
+      "target_skill": "teilnahmeantraege-und-angebote-pruefen",
+      "request": "Ein Bewerber hat eine Referenz ohne Kontaktperson abgegeben. Ein anderer will nach Angebotsende sein schwaches Qualitätskonzept ersetzen. Die Ausschreibung enthält eine Nachforderungsregel. Bitte prüfe beide Eingänge getrennt.",
+      "input_files": [],
+      "deliverables": [
+        "eingangspruefung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest die konkrete Nachforderungsregel, unterscheidet fehlenden Beleg von fehlender Eignung und wendet Paragraf 51 SektVO an.",
+          "deliverables": [
+            "eingangspruefung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erlaubt nicht unter dem Namen Klarstellung eine neue wertungsrelevante Leistung; formuliert zulässige Nachforderung mit Kalenderfrist und getrennten Gründen.",
+          "deliverables": [
+            "eingangspruefung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Dokumentiert die Entscheidung pro Bewerber gleichbehandelnd und gibt nur zulässige Angebotsfassungen zur Wertung weiter.",
+          "deliverables": [
+            "eingangspruefung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ruege-und-geheimnis",
+      "target_skill": "bieterfragen-ruegen-und-aenderungen-bearbeiten",
+      "request": "Ein Anwalt beanstandet eine unklare Quadratmeterangabe und legt die Kalkulation seines Mandanten bei. Wir möchten die Antwort samt dieser Anlage an alle schicken und jede Angebotsfrist unverändert lassen. Bereite die sachgerechte Bearbeitung vor.",
+      "input_files": [],
+      "deliverables": [
+        "ruegeantwort.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Kenntnisfrist, Erkennbarkeit und Nichtabhilfezugang; sachlicher Korrekturbedarf wird nicht allein mit Präklusion abgewiesen.",
+          "deliverables": [
+            "ruegeantwort.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erstellt individuelle Antwort und erforderliche allgemeine Information ohne fremde Kalkulation; prüft angemessene Fristverlängerung und korrigierte Dateien.",
+          "deliverables": [
+            "ruegeantwort.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Eine Zwischenmitteilung wird nicht als endgültige Nichtabhilfe behandelt; Übermittlung erfolgt nur nach ausdrücklicher Freigabe.",
+          "deliverables": [
+            "ruegeantwort.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "billigangebot-und-gewichtung",
+      "target_skill": "verhandeln-und-angebote-werten",
+      "request": "Im offenen Verfahren liegt ein Angebot 24 Prozent unter dem nächsten. Wir möchten es automatisch ausschließen und anschließend dem Zweiten einen Preisnachlass abverlangen. Die Qualitätsgewichte sollen jetzt auch anders sein. Bitte erstelle den Wertungsvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "wertung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Keine erfundene gesetzliche 20-Prozent-Ausschlussgrenze; verlangt Preisaufklärung nach Paragraf 54 SektVO mit konkreten Kalkulationspunkten.",
+          "deliverables": [
+            "wertung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Kein Preisnachlassgespräch im offenen Verfahren und keine nachträgliche Gewichtsverschiebung; begründeter Vorschlag statt automatischer Zuschlag.",
+          "deliverables": [
+            "wertung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet Preis, Qualitätsbelege und Gründe der Nichtberücksichtigung den angekündigten Kriterien zu und hält vertrauliche Details aus allgemeinen Bieterinformationen heraus.",
+          "deliverables": [
+            "wertung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "versand-und-sperren",
+      "target_skill": "zuschlag-und-stillhaltefrist-sichern",
+      "request": "Die elektronische Vorabinformation wurde nur als Entwurf gespeichert, im internen Blatt steht trotzdem gesendet. Wir wollen am zehnten Tag unterschreiben. Heute kam zusätzlich eine Mitteilung der Vergabekammer. Bitte bereite den Zuschlag vor.",
+      "input_files": [],
+      "deliverables": [
+        "sperrblatt.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt echten Versandbeleg, berechnet Wartefrist ab dem Folgetag tatsächlicher Absendung und erfindet keinen Fristbeginn.",
+          "deliverables": [
+            "sperrblatt.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft die Kammermitteilung als eigene Sperre, aktiviert Rechtsschutzschritt und liefert allenfalls bedingten Entwurf, keine freigegebene Zuschlagserteilung.",
+          "deliverables": [
+            "sperrblatt.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt vorgesehenen Auftragnehmer, individuellen Ablehnungsgrund und frühesten Vertragsschluss von einer internen Punkteübersicht.",
+          "deliverables": [
+            "sperrblatt.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "uebergangsrecht-nachpruefung",
+      "target_skill": "nachpruefung-und-verfahrensfortsetzung-begleiten",
+      "request": "Zwei Vergaben wurden am 20. Juni und am 20. Juli 2026 begonnen. In beiden hat die Kammer nun den Antrag abgelehnt. Ein alter Text behauptet immer weitere drei Wochen Sperre. Bitte prüfe die Fortsetzung für beide Verfahren getrennt.",
+      "input_files": [],
+      "deliverables": [
+        "rechtsschutz.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet Paragraf 187 Absatz 2 GWB an und beschafft für das Altverfahren die historische Fassung, statt das aktuelle Recht rückwirkend zu übertragen.",
+          "deliverables": [
+            "rechtsschutz.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt im Neufall Paragrafen 169 und 173 von zweiwöchiger Beschwerdefrist; prüft konkrete gerichtliche Anordnungen, Aktenvorlage und zulässige Fortsetzungsmaßnahmen.",
+          "deliverables": [
+            "rechtsschutz.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine begründete Stellungnahme mit getrenntem Geheimnisschutz und Fortsetzungsentscheidung statt nur abstrakter Rechtsauskunft.",
+          "deliverables": [
+            "rechtsschutz.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "files": [
+      "sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md",
+      "sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Stationsreinigung und Auftraggeberdokumente statt allgemeinem Vergaberechtsvortrag; vorhandene Dateien zuerst lesen.",
+    "norms": [
+      "Paragrafen 100, 102, 134, 142, 160, 169, 173 und 187 GWB",
+      "Paragrafen 2, 8, 13 bis 16, 28 bis 32 und 51 bis 54 SektVO",
+      "Verordnung (EU) 2025/2150"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 28.10.2020, C-521/18, Pegaso",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62018CA0521",
+        "application": "Amtlicher Tenor und indexierte Passagen zum funktionalen Zusammenhang unterstützender Leistungen.",
+        "limit": "Postfall, kein pauschaler U-Bahn- oder Konzernimmobilienfall; keine vollständige Urteilslektüre behauptet."
+      },
+      {
+        "citation": "EuGH, Urteil vom 05.04.2017, C-298/15, Borta",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:62015CA0298",
+        "application": "Amtlicher Tenor zu Änderungen, Publizität und Anpassungszeit.",
+        "limit": "Unterschwelliger Ausgangsfall; aktuelle SektVO eigenständig anwenden."
+      },
+      {
+        "citation": "EuGH, Urteil vom 10.05.2012, C-368/10, Kommission/Niederlande",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62010CA0368",
+        "application": "Amtlicher Tenor zu klaren Nachhaltigkeitsbedingungen und Gütezeichen.",
+        "limit": "Alte Richtlinie; heutige Gütezeichenmöglichkeiten nicht pauschal ausschließen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 14.07.2016, C-6/15, TNS Dimarso",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62015CJ0006",
+        "application": "Volltext, Randnummern 27 bis 32 zur unveränderten Gewichtung und diskriminierungsfreien Methode.",
+        "limit": "Keine generelle Veröffentlichungspflicht sämtlicher interner Methoden behaupten."
+      },
+      {
+        "citation": "EuGH, Urteil vom 11.05.2017, C-131/16, Archus und Gama",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=CELEX:62016CA0131",
+        "application": "Amtlich indexierter Tenor und Passagen zur Abgrenzung von Aufklärung und neuem Angebot.",
+        "limit": "Keine pauschale Unzulässigkeit sämtlicher Nachforderungen oder Verhandlungen; aktuelle Norm gesondert prüfen."
+      },
+      {
+        "citation": "EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX:62021CJ0054",
+        "application": "Amtlich indexierte Zusammenfassung und Tenorpassagen zu Vertraulichkeit und effektivem Rechtsschutz.",
+        "limit": "Kein Beleg für deutsche Wartefristberechnung; kein ungelesener Volltext als geprüft ausgegeben."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarien und Strukturtests, keine beobachteten Modellläufe.",
+      "Keine live geprüfte Anbindung an TED, Vergabeplattform oder einen bestimmten Client."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei klarem Auftrag die vorhandenen Unterlagen bearbeiten.",
+      "Bei Dateien ohne Ziel nur den nächsten erforderlichen Schritt klären.",
+      "Ohne Unterlagen Beschaffung, Auftraggeber und Verfahrensstand erfragen."
+    ],
+    "continuation": "Rügen und Nachprüfung ereignisbezogen einschalten, bei Änderungen nur betroffene Dokumente und Fristfolgen erneut bearbeiten.",
+    "enrichment": "Fünf Unterlagenschritte und fünf Verfahrensschritte mit eigenständigen Eingaben, Normen, Ergebnissen und Übergaben.",
+    "limits": "Keine automatische externe Handlung, Datenverfügbarkeit oder rechtzeitige Hintergrundüberwachung behaupten."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Kompakter vollständiger Beschaffungs- und Verfahrensablauf statt generischer Checkliste.",
+    "changes": [
+      "Reinigungsmengen, Normen, sechs Entscheidungsanker, Fristen und Rückwege eigenständig formuliert."
+    ],
+    "sha256": "bedca77b568cf621fc51c75c85d7bbdf8ce6cc7b2e16caf0ffca3341905c904e"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Unterlagenerstellung und Verfahrensführung anhand konkreter Reinigungsrisiken verbunden.",
+    "changes": [
+      "Leistungs-, Mengen-, Wertungs- und Fristarbeit bis zu vollständigen Dokumenten und rechtmäßiger Fortsetzung vertieft."
+    ],
+    "sha256": "f6e13d0983ffeaf2efd6f0a309061e46c2369cd87f23891734843bfcc180f12f"
+  }
+}

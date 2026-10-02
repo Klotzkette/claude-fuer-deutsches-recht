@@ -2108,6 +2108,16 @@
       }
     },
     {
+      "name": "sektorenvergabe-workflow",
+      "source": "./sektorenvergabe-workflow",
+      "description": "Sektorenvergabe aus Auftraggebersicht: fuenf Skills fuer Vergabeunterlagen, fuenf fuer Verfahrensfuehrung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis ueber Bekanntmachung, Ruegen und Wertung bis Zuschlag und Nachpruefung.",
+      "version": "445.26.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "selbstvertreter-amtsgericht",
       "source": "./selbstvertreter-amtsgericht",
       "description": "Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung.",
