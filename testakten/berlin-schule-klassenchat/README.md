@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Der vertauschte Termin im Klassenchat](gesamt-pdf/berlin-schule-klassenchat_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-schule-klassenchat.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-schule-klassenchat-einzelpdf.zip) |
+| [Der vertauschte Termin im Klassenchat](gesamt-pdf/berlin-schule-klassenchat_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-schule-klassenchat.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-schule-klassenchat-einzelpdfs.zip) |

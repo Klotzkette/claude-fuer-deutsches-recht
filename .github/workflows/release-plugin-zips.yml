@@ -80,6 +80,7 @@ jobs:
           python3 scripts/test-complete-package.py
           python3 scripts/test-registerakten-print-profile.py --native "$RUNNER_TEMP/registerakten-print-qa"
           python3 scripts/test-release-routing.py
+          python3 scripts/test-public-downloads.py
           python3 scripts/test-testakte-pdf-build.py
           python3 scripts/test-testakte-projektordner.py
           python3 scripts/test-fintech-bremen.py

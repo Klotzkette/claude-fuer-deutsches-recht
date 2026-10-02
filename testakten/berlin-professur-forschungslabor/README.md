@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Tareks Messlabor und die gemeinsame Raumnutzung](gesamt-pdf/berlin-professur-forschungslabor_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-professur-forschungslabor.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-professur-forschungslabor-einzelpdf.zip) |
+| [Tareks Messlabor und die gemeinsame Raumnutzung](gesamt-pdf/berlin-professur-forschungslabor_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-professur-forschungslabor.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-professur-forschungslabor-einzelpdfs.zip) |

@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-256 kuratierte Plugins in 34 Kategorien, aus insgesamt 272 Marketplace-Plugins (Abgleich: 2. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+256 kuratierte Plugins in 34 Kategorien, aus insgesamt 273 Marketplace-Plugins (Abgleich: 2. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 

@@ -74,3 +74,30 @@ auf die versionsfesten Companion-Links fortgeschrieben. Kurzfassung:
 Offline-Regressionen: `python3 scripts/test-release-routing.py`,
 `python3 scripts/test-release-assets.py` und `python3 scripts/test-readme-navigation.py`.
 Keine dieser Regressionen schreibt zu GitHub.
+
+## 4. Öffentliche Erreichbarkeit nach Veröffentlichung
+
+Ein grüner Upload- oder Offline-Check bedeutet noch nicht, dass ein Besucher die
+Dateien herunterladen kann. Entwürfe sind mit angemeldetem GitHub-Zugang sichtbar,
+ihre öffentlichen Downloadlinks liefern jedoch HTTP 404. Wird `main` vor dem
+Begleitrelease aktualisiert, besteht bis zur Veröffentlichung eine Downloadlücke.
+Diese Zwischenphase nicht als fertige Veröffentlichung melden.
+
+Nach Veröffentlichung beider Releases die Downloadtabellen ohne Anmeldung prüfen:
+
+```sh
+python3 scripts/validate-public-downloads.py
+```
+
+Für eine einzelne Pluginseite genügt beispielsweise:
+
+```sh
+python3 scripts/validate-public-downloads.py liquiditaetsplanung/README.md
+```
+
+Die Prüfung liest die öffentliche Release-API ohne Token, fasst gleiche Ziele
+zusammen und berücksichtigt alle Assetseiten. Sie meldet nicht veröffentlichte
+Releases, fehlende oder leere Dateien und unvollständige Uploads als Fehler.
+API-Limits und Netzprobleme sind nicht erfolgreich geprüfte Downloads. Die Prüfung
+ersetzt weder Prüfsummen- und Archivkontrolle noch die Navigationstests für lokale
+PDFs und Markdown-Seiten. Offline-Regression: `python3 scripts/test-public-downloads.py`.

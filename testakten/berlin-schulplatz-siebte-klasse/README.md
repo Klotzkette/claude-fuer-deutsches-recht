@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Ein Schulplatz für Mila in Klasse 7](gesamt-pdf/berlin-schulplatz-siebte-klasse_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-schulplatz-siebte-klasse.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-schulplatz-siebte-klasse-einzelpdf.zip) |
+| [Ein Schulplatz für Mila in Klasse 7](gesamt-pdf/berlin-schulplatz-siebte-klasse_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-schulplatz-siebte-klasse.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-schulplatz-siebte-klasse-einzelpdfs.zip) |

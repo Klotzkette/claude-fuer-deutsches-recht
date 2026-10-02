@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Kita Sonnenkringel und der frühe Arbeitsbeginn](gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-kita-sonnenkringel.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-kita-sonnenkringel-einzelpdf.zip) |
+| [Kita Sonnenkringel und der frühe Arbeitsbeginn](gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-kita-sonnenkringel.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-kita-sonnenkringel-einzelpdfs.zip) |

@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Nelas Labor und die Berufungszusage](gesamt-pdf/berlin-professur-berufungszusage_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-professur-berufungszusage.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berlin-professur-berufungszusage-einzelpdf.zip) |
+| [Nelas Labor und die Berufungszusage](gesamt-pdf/berlin-professur-berufungszusage_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-professur-berufungszusage.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.29.0/testakte-berlin-professur-berufungszusage-einzelpdfs.zip) |
