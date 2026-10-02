@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`gesellschafterstreit-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.md) · [`gesellschafterstreit-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`gesellschafterstreit-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.md) · [`gesellschafterstreit-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.txt) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.md" download>gesellschafterstreit-hauptproblem.md</a> · [`gesellschafterstreit-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.txt) |
-| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 274 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -78,6 +78,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
+| [1. Klageerwiderung im Gesellschafterstreit – Berlin](../testakten/gesellschafterstreit-klageerwiderung-berlin/README.md) | [Gesamt-PDF](../testakten/gesellschafterstreit-klageerwiderung-berlin/gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf) | [`testakte-gesellschafterstreit-klageerwiderung-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) | [`testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
+| [1. Drafting Shareholder Agreement – München](../testakten/gesellschafterstreit-shareholder-agreement-muenchen/README.md) | [Gesamt-PDF](../testakten/gesellschafterstreit-shareholder-agreement-muenchen/gesamt-pdf/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf) | [`testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip) | [`testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip) |
 | [1. Zink und Zunder Gesellschafter im Streit](../testakten/gesellschafterstreit-zink-und-zunder/README.md) | [Gesamt-PDF](../testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) | [`testakte-gesellschafterstreit-zink-und-zunder.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder.zip) | [`testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
@@ -123,9 +125,17 @@ Die Werkstatt vertieft den vollständigen Ablauf. Mini- und Hauptproblem-Prompt 
 | Beschlüsse angreifen und Vollzug sichern | Passende Hauptsache- oder Eilanträge mit Fristen, Parteien und Belegen entwerfen. | [SKILL.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md) |
 | Verkauf und Vergleich verhandeln | Preis, Darlehen, Organwechsel, Ansprüche und nötige Vollzugsakte abstimmen. | [SKILL.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md) |
 
-<!-- decimal-anchor --> <a id="testakte-zink-und-zunder"></a>
+<!-- decimal-anchor --> <a id="drei-testakten-für-unterschiedliche-aufträge"></a>
 
-## 1.9. Testakte Zink und Zunder
+## 1.9. Drei Testakten für unterschiedliche Aufträge
+
+Für eine einstündige Vorführung eignen sich die beiden eigenständigen Kurzmandate: [Klageerwiderung im Gesellschafterstreit – Berlin](../testakten/gesellschafterstreit-klageerwiderung-berlin/README.md) und [Drafting Shareholder Agreement – München](../testakten/gesellschafterstreit-shareholder-agreement-muenchen/README.md). Jede Akte benennt sieben Kernunterlagen für den Einstieg; weitere Belege ermöglichen gezielte Rückfragen. Je ungefähr 30 Minuten sind ein Vorschlag, keine Bearbeitungsgarantie.
+
+Berlin enthält 20 Originalunterlagen: Klage, gerichtliche Verfügung, Zustellvermerk, Satzung, Gesellschafterbeschluss, widersprechende Nachrichten, Lieferbelege, Rechnung und Projektkonto. Die GmbH beauftragt eine Klageerwiderung gegen die Beschlussklage ihres abberufenen Geschäftsführers. Eine fertige Verteidigung ist nicht enthalten.
+
+München enthält 18 Originalunterlagen zur Aufnahme eines Investors in einen kleinen Gerätebaubetrieb. Gründerentwurf, Investorenwünsche, Satzung, Entwicklungsunterlagen, Banknachricht und Beteiligungsrechnung führen zum zu gestaltenden Gesellschaftervertrag. Der vorgelegte Entwurf ist ein nicht abgestimmter Verhandlungstext, keine Musterlösung.
+
+English: Two separate matters support a sixty-minute demonstration: drafting a defence in Berlin and negotiating a shareholders’ agreement in Munich. Each includes seven core documents plus further evidence, editable Word and Excel files, and emails with actual attachments. No model answer is supplied.
 
 Drei Gesellschafter einer Berliner Metallbau-GmbH streiten über Finanzierung, gegenseitige Organ- und Mitgliedschaftsmaßnahmen, Darlehen, ein Nebenprojekt und einen möglichen Verkauf. Die Akte enthält **38 Originalunterlagen**, darunter Word-Dokumente, E-Mails mit echten Anlagen, Chat-/Zugriffstexte und zwei Excel-Arbeitsmappen. Ein Protokoll steht neben widersprechenden persönlichen Erklärungen und noch offenen Belegen.
 
@@ -137,6 +147,8 @@ Drei Gesellschafter einer Berliner Metallbau-GmbH streiten über Finanzierung, g
 
 | Testakte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
+| Klageerwiderung im Gesellschafterstreit – Berlin | [Gesamt-PDF öffnen](../testakten/gesellschafterstreit-klageerwiderung-berlin/gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf) | [Original-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) | [Einzel-PDF-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
+| Drafting Shareholder Agreement – München | [Gesamt-PDF öffnen](../testakten/gesellschafterstreit-shareholder-agreement-muenchen/gesamt-pdf/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf) | [Original-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip) | [Einzel-PDF-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip) |
 | Zink und Zunder | [Gesamt-PDF öffnen](../testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) | [Original-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder.zip) | [Einzel-PDF-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="rechtsquellen-und-tragende-abgrenzungen"></a>

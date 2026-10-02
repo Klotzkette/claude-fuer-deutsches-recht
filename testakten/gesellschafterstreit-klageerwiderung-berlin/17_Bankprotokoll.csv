@@ -1,0 +1,7 @@
+﻿Buchungstag;Uhrzeit;Referenz;Zweck;Eingang_EUR;Ausgang_EUR;Benutzer
+18.08.2026;09:10;B-0818;Lindenhof Abschlag;25000;0;Bankeingang
+19.08.2026;11:04;B-0819;Werkstattmiete;0;2400;OH
+21.08.2026;07:43;B-0821;SBS-2026-084;0;18400;GS
+24.08.2026;12:06;B-0824;Kabelkontor;0;1250;OH
+28.08.2026;10:22;B-0828;Lindenhof Restzahlung;12000;0;Bankeingang
+31.08.2026;13:17;B-0831;Löhne Sammelauftrag;0;18750;KR

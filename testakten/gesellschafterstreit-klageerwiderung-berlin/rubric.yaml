@@ -1,0 +1,47 @@
+name: Klageerwiderung im Gesellschafterstreit – Berlin
+plugin: gesellschafterstreit
+stand: '2026-10-02'
+pruefstatus: Technischer Bestand und Aktenkonsistenz geprüft; keine Bewertung einer erzeugten Lösung.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle eigenständigen Quellenunterlagen sind vorhanden.
+  min: 20
+- id: format-csv
+  check_type: file_count
+  description: Originaldateien im Format CSV.
+  glob: '*.csv'
+  min: 1
+- id: format-docx
+  check_type: file_count
+  description: Originaldateien im Format DOCX.
+  glob: '*.docx'
+  min: 10
+- id: format-eml
+  check_type: file_count
+  description: Originaldateien im Format EML.
+  glob: '*.eml'
+  min: 3
+- id: format-pdf
+  check_type: file_count
+  description: Originaldateien im Format PDF.
+  glob: '*.pdf'
+  min: 3
+- id: format-txt
+  check_type: file_count
+  description: Originaldateien im Format TXT.
+  glob: '*.txt'
+  min: 2
+- id: format-xlsx
+  check_type: file_count
+  description: Originaldateien im Format XLSX.
+  glob: '*.xlsx'
+  min: 1
+- id: gesamt-pdf
+  check_type: file_exists
+  description: Vollständige Lesefassung vorhanden.
+  path: gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf
+- id: belegtreue
+  check_type: human_review
+  description: Werden Behauptungen, Belege und noch offene Tatsachen auseinandergehalten?
+  note: Eine spätere Bearbeitung ist gesondert fachlich zu prüfen.
