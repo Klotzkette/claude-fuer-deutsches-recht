@@ -58,12 +58,12 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Transport- und Speditionsrecht](#transport--und-speditionsrecht) | 5 |
 | [Urheber- und Medienrecht](#urheber--und-medienrecht) | 5 |
 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
-| [Vergaberecht](#vergaberecht) | 1 |
+| [Vergaberecht](#vergaberecht) | 2 |
 | [Verkehrsrecht](#verkehrsrecht) | 3 |
 | [Versicherungsrecht](#versicherungsrecht) | 3 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 36 |
 
-252 kuratierte Plugins in 34 Kategorien, aus insgesamt 268 Marketplace-Plugins (Abgleich: 2. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+253 kuratierte Plugins in 34 Kategorien, aus insgesamt 269 Marketplace-Plugins (Abgleich: 2. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -371,6 +371,8 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Vergaberecht
 
 - [fachanwalt-vergaberecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-vergaberecht): Plugin Fachanwalt für Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-vergaberecht/fachanwalt-vergaberecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-vergaberecht/fachanwalt-vergaberecht-werkstatt.md)
+
+- [sektorenvergabe-workflow](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sektorenvergabe-workflow): Fünf Schritte für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill; Reinigungsleistungen, Rügen, Wertung, Zuschlag und Nachprüfung nach SektVO. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=sektorenvergabe-workflow/sektorenvergabe-workflow-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=sektorenvergabe-workflow/sektorenvergabe-workflow-werkstatt.md)
 
 ## Verkehrsrecht
 
