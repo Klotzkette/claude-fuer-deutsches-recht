@@ -112,6 +112,13 @@ class CasesTest(unittest.TestCase):
         self.assertIn('25.09.2026',text)
         self.assertIn('32 O 187/26',text)
 
+    def test_court_notice_explains_costs_and_enforcement(self):
+        item=next(d for d in BERLIN['documents'] if d['file']=='03_Gerichtliche_Verfuegung.pdf')
+        for phrase in ['notwendigen Kosten der Gegenseite','Paragraf 91 ZPO',
+                       'Paragraf 708 Nummer 2 ZPO','ohne Sicherheitsleistung',
+                       'Notfrist ist nicht verlängerbar']:
+            self.assertIn(phrase,item['body'])
+
     def test_berlin_bank_matches_csv(self):
         case=directory(BERLIN)
         wb=load_workbook(case/TABLES[BERLIN['slug']],data_only=True)

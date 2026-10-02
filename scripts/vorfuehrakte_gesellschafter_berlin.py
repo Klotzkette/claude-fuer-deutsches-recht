@@ -100,7 +100,7 @@ im oben genannten Rechtsstreit wird das schriftliche Vorverfahren angeordnet. Di
 
 Die Beklagte erhält eine weitere Frist von zwei Wochen nach Ablauf der Notfrist zur schriftlichen Klageerwiderung. Darin sind die Einwendungen gegen die Klage sowie Beweismittel mitzuteilen. Verspätetes Vorbringen kann unter den gesetzlichen Voraussetzungen unberücksichtigt bleiben. Vor dem Landgericht besteht Anwaltszwang; eine eigene Erklärung der Partei ersetzt den erforderlichen anwaltlichen Schriftsatz nicht.
 
-Geht keine rechtzeitige Verteidigungsanzeige ein, kann auf Antrag ohne mündliche Verhandlung ein Versäumnisurteil ergehen. Die Kostenfolgen und die Vollstreckbarkeit richten sich nach den gesetzlichen Vorschriften. Anträge auf Fristverlängerung für die Erwiderung sind vor Fristablauf unter Darlegung der Gründe einzureichen; über sie entscheidet das Gericht.
+Geht keine rechtzeitige Verteidigungsanzeige ein, kann auf Antrag ohne mündliche Verhandlung ein Versäumnisurteil ergehen. Soweit die Beklagte unterliegt, trägt sie die Kosten des Rechtsstreits einschließlich der notwendigen Kosten der Gegenseite nach Paragraf 91 ZPO. Das Versäumnisurteil wird nach Paragraf 708 Nummer 2 ZPO ohne Sicherheitsleistung für vorläufig vollstreckbar erklärt; bei der hier erhobenen Beschlussklage betrifft die Vollstreckung insbesondere die Kosten. Anträge auf Fristverlängerung für die Erwiderung sind vor Fristablauf unter Darlegung der Gründe einzureichen; über sie entscheidet das Gericht.
 
 Anlage: Klageschrift vom 22.09.2026 mit Anlagen K1 bis K9.
 
