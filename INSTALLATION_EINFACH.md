@@ -2,6 +2,8 @@
 
 [Startseite und fünf Verzeichnisse](./README.md#alle-vollständigen-listen-von-a-bis-z) · [Plugin-Katalog](./README.md#was-ist-drin) · [Downloads](./ASSET_INDEX.md) · [Kurzanleitung](./QUICKSTART.md)
 
+Für ChatGPT und die ChatGPT-App gelten die [Importwege im Haupt-README](./README.md#chatgpt-und-die-chatgpt-app). Die folgenden ZIP- und Organisationsschritte beschreiben die bisherige Cowork-Oberfläche; insbesondere deren Beschränkung auf private Organisations-Spiegel gilt nicht für den ChatGPT-Workspace-Import.
+
 Der robusteste Weg für einen einzelnen Nutzer ist: **ein Plugin-ZIP laden, in der Pluginverwaltung hochladen, neue Aufgabe öffnen**. Der Marketplace ist die bessere Wahl, wenn eine Organisation viele Plugins zentral verteilen und aktualisieren will.
 
 ## 1. Einzelnes Plugin installieren
@@ -55,7 +57,7 @@ Ein manueller Marketplace wird unter **Add → Upload a plugin** mit einzelnen P
 
 Für automatische Updates **Sync automatically** prüfen. Die Herstellerhilfe beschreibt die Auslöser derzeit widersprüchlich: einmal auch direkte Pushes, an anderer Stelle nur gemergte Pull Requests mit Versionsanhebung. Deshalb nicht auf eine vermeintliche Automatik verlassen, sondern Sync-Status und übernommene Version kontrollieren und bei Bedarf **Update** auslösen. 30 Minuten sind die dokumentierte Timeout-Grenze, keine Zusage eines erfolgreichen Imports.
 
-Nur im Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
+Im zugehörigen Kommandozeilen-Client kann das öffentliche Repository unmittelbar verwendet werden:
 
 ```text
 /plugin marketplace add Klotzkette/claude-fuer-deutsches-recht

@@ -1,6 +1,8 @@
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
-[Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) · [Qualitätslabor](./QUALITY.md) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [English](#english-quick-guide)
+[Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) · [Qualitätslabor](./QUALITY.md) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [ChatGPT und App](#chatgpt-und-die-chatgpt-app) · [English](#english-quick-guide)
+
+Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT-App verwenden, wenn Plugin-Nutzung und der passende Importweg im jeweiligen Konto freigeschaltet sind. [So richtest du sie ein](#chatgpt-und-die-chatgpt-app). Werkstatt- und Mini-Prompts bleiben zusätzlich ohne Plugin-Installation nutzbar.
 
 > **Experimentelles Skill-Set** für die anwaltliche Praxis im deutschen Recht – Skills, Sub-Agenten, Workflows etc. als Anregung für Kanzlei-Arbeitsabläufe. Orientiert sich an der **deutschen Rechtspraxis**, an Gesetzestexten, amtlichen Materialien und frei überprüfbarer Rechtsprechung. Enthält keinerlei Fachgutachten oder Rechtsberatung, alle Angaben ohne Gewähr – jeder Nutzer kalibriert die Skills selbst für die eigene Praxis.
 
@@ -61,6 +63,22 @@ English: [Focused workflows](./SCHWERPUNKTE.md) offer a specific skill and a sta
 
 The new [Vertragserstellung](./vertragserstellung/README.md) and [Wirtschaftsanwalt](./wirtschaftsanwalt/README.md) packages each contain exactly ten skills, three standalone prompt downloads and three assigned practice cases. The table above links directly to every new prompt. Existing [Anwaltschaft generell](./anwaltschaft-generell/README.md) and [Corporate Contract Law](./corporate-contract-law/README.md) remain available; no earlier prompt is replaced. Choose one package matching the assignment rather than loading overlapping packages together.
 
+<a id="chatgpt-und-die-chatgpt-app"></a>
+
+## 1. ChatGPT und die ChatGPT-App
+
+Stand: 2. Oktober 2026. ChatGPT unterstützt das hier verwendete Marketplace-Format `.claude-plugin/marketplace.json` und die zugehörigen Plugin-Manifeste. Es geht also nicht nur um das Kopieren von Prompttexten. Die Importwege sind in der [offiziellen Marketplace-Hilfe](https://learn.chatgpt.com/docs/enterprise/plugin-management) beschrieben.
+
+| Ausgangslage | Einstieg |
+| --- | --- |
+| Plugins bereits in Cowork eingerichtet | In der ChatGPT-Desktop-App `Settings > Import` öffnen, die bisherige Anwendung und die gewünschten Plugins auswählen. Offene Einrichtungsschritte anschließend abschließen. [Importanleitung](https://learn.chatgpt.com/docs/import). |
+| ChatGPT-Workspace mit Administratorzugang | Unter `Admin > Plugins > Add > Import marketplace` dieses Repository als Quelle eintragen: `https://github.com/Klotzkette/claude-fuer-deutsches-recht`. Das Pfadfeld leer lassen; als Branch `main` oder einen veröffentlichten Tag wählen. GitHub-Zugriff freigeben und den Importbericht prüfen. Ein privates Spiegelrepository ist für diesen ChatGPT-Import nicht nötig. [Workspace-Import](https://learn.chatgpt.com/docs/enterprise/plugin-management). |
+| Ohne Plugin-Installation starten | Einen [Werkstatt- oder Mini-Prompt](./docs/werkstatt-und-schnellstart-coverage.md) als Markdown herunterladen und mit konkretem Auftrag und Unterlagen als Arbeitsanweisung verwenden. Das installiert weder das Plugin noch dessen Hilfswerkzeuge. |
+
+Nach der Installation einen neuen Vorgang öffnen und den passenden Skill über `@` auswählen. Plugin-Skills werden in Chat und Work unterstützt, im Web sowie in der Desktop- und Mobil-App. Ein ausschließlich lokal eingerichtetes Paket ist dadurch nicht automatisch im Web verfügbar. [Skills in ChatGPT](https://learn.chatgpt.com/docs/build-skills) · [Lokale und veröffentlichte Plugins](https://developers.openai.com/plugins/build/plugins).
+
+Dateizugriff, Quellenzugänge und DOCX-, PDF- oder Excel-Erzeugung hängen weiterhin von den freigeschalteten Werkzeugen ab. Die Formatunterstützung ist keine Zusage, dass jeder Workflow in jedem Konto vollständig getestet wurde. Zunächst eine passende Testakte und einen konkreten Ausgabeauftrag verwenden; Ergebnisse fachlich kontrollieren. Werkstatt-Prompts und Testakten werden nicht automatisch mit den Plugin-ZIPs installiert.
+
 ## Schnell arbeiten, auch in einer anderen Oberfläche
 
 Rechtsstand 10. September 2026: Die Pakete zur Verordnung über künstliche Intelligenz und zum Datenschutz berücksichtigen den veröffentlichten Digital-Omnibus, die deutschen Zuständigkeiten nach KI-MIG und die davon getrennten, noch laufenden Datenschutz-Reformverfahren. Artikel 4a betrifft sensible Daten zur Verzerrungskorrektur, nicht Deepfakes. [Änderungen, Fristen und amtliche Quellen](./references/digitaler-omnibus-2026.md) · <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=references/digitaler-omnibus-2026.md" download>Rechtsstandkarte als MD herunterladen</a>.
@@ -77,7 +95,7 @@ Für einen Vorgang nur ein passendes Plugin oder einen seiner Markdown-Prompts v
 
 Die Einstiege verwenden vorhandene Unterlagen, halten den konkreten Ausgabeauftrag fest und setzen Folgewünsche ohne erneute Grundabfrage fort. Ohne Auftrag wird nach dem fachlich passenden Bearbeitungsziel gefragt; bei einem klaren Auftrag beginnt die Dokumentarbeit unmittelbar. Ein ungefragter Ordnerbericht ist nicht vorgesehen. Nach Rückfragen wird der Entwurf weitergeführt, bis das beauftragte Dokument vorliegt. Bei fehlgeschlagenen Werkzeugschritten ist höchstens ein begründeter Alternativweg vorgesehen; danach kommen ein verwertbarer Teilstand und die konkrete Blockade. Ein Teilstand ersetzt weder die noch erforderliche Endprüfung noch eine Versandfreigabe. Änderungen an Quellen oder Dateien werden erneut geprüft, unveränderte Auszüge weiterverwendet.
 
-Die Hersteller beschreiben unterschiedliche Mechanismen: stufenweise Skill-Ladung, dokumentbezogene Arbeitsaufträge und eigene Workflow-Formate. Daraus folgt keine bestätigte Übertragbarkeit dieses Marketplaces auf andere Systeme. Maßgeblich sind die freigeschalteten Funktionen der konkreten Oberfläche. Quellenstand 7. September 2026: [Skill-Ladestufen](https://claude.com/docs/skills/overview), [Dokumentarbeit](https://academy.noxtua.com/posts/getting-started), [Workflow-Einrichtung](https://legora.com/product/workflows).
+Die Hersteller beschreiben unterschiedliche Mechanismen: stufenweise Skill-Ladung, dokumentbezogene Arbeitsaufträge und eigene Workflow-Formate. Für ChatGPT sind die unterstützten Importwege [oben erläutert](#chatgpt-und-die-chatgpt-app); daraus folgt keine pauschale Übertragbarkeit auf weitere Systeme. Maßgeblich sind die freigeschalteten Funktionen der konkreten Oberfläche. Quellenstand für die folgenden weiteren Oberflächen 7. September 2026: [Skill-Ladestufen](https://claude.com/docs/skills/overview), [Dokumentarbeit](https://academy.noxtua.com/posts/getting-started), [Workflow-Einrichtung](https://legora.com/product/workflows).
 
 Geprüft werden hier Dateistruktur, Auswahlbudgets, Prompt-Erzeugung und die mitgelieferten Werkzeuge. Laufzeiten, automatische Skill-Auswahl und Dateiexporte in fremden Benutzerkonten sind damit nicht zertifiziert. Den kurzen Praxistest für die jeweils eingesetzte Oberfläche beschreibt [Schnellstart, Abschnitt 9](./QUICKSTART.md#9-portabilität-im-eigenen-arbeitsplatz-prüfen).
 
@@ -166,7 +184,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Paket | Download | Inhalt |
 | --- | --- | --- |
 | **Alle Plugins als MegaZIP** | [alle-plugins-megazip.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip) | Alle installierbaren Plugin-ZIPs plus `marketplace.json` in einem Archiv. |
-| **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Definition für Kommandozeilen-Nutzung oder ein privates beziehungsweise internes Organisations-Spiegelrepository; kein Einzel-Plugin und kein manueller ZIP-Upload. |
+| **Marketplace-Manifest** | [marketplace.json](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json) | Marketplace-Definition für unterstützte GitHub-Importe und Kommandozeilen-Nutzung; kein Einzel-Plugin und kein manueller ZIP-Upload. |
 | **Alle Skills als Markdown-ZIP** | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) | `SKILL.md`-Dateien, zugehörige Markdown-Referenzen und Plugin-READMEs. Werkstatt und Schnellstart sind bewusst nicht enthalten, sondern bleiben einzelne Markdown-Direktdownloads. Die einzelnen Skill-Markdown-Bundles liegen im Komplettpaket, nicht mehr als eigene Release-Assets. |
 | **Alle Testakten als ZIP** | [alle-testakten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Sammelarchiv der zentralen Akten-ZIPs mit PDF, DOCX, XLSX, JPEG, EML und weiteren Originalformaten, ohne Markdown. Einzelakten sind grundsätzlich flach; die Hildesheimer Lebensakte und das FinTech-Darlehensverfahren Bremen behalten ausdrücklich ihre Unterordner. Die `README.txt` auf der Wurzelebene jedes Akten-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Warnhinweis. |
 | **Alle Testakten als Einzel-PDF-ZIP** | [alle-testakten-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) | Sammelarchiv der zentralen Einzel-PDF-ZIPs mit einer separaten PDF je Unterlage. Dieselben beiden Struktur-Ausnahmen gelten wie beim Originalformat-ZIP. Die PDFs enthalten weder eine Hinweisseite noch den Warntext; die `README.txt` jedes Einzel-PDF-ZIPs und des Sammelarchivs beginnt mit dem zweisprachigen Hinweis. Pro Testakte gibt es zusätzlich ein eigenes `testakte-<name>-einzelpdfs.zip` im Release. |
@@ -838,10 +856,10 @@ claude plugin install prozessrecht@klotzkette-german-legal-skills
 A: Nein. Für Claude Desktop reicht es, Dateien hochzuladen. Nur für Claude Code sind Terminal-Grundkenntnisse hilfreich.
 
 **F: Kostet die Plugin-Nutzung Geld?**
-A: Plugins stehen nach aktuellem Produktstand in kostenpflichtigen Plänen zur Verfügung. Die Markdown-Schnellstarts und Werkstätten können unabhängig davon als normale Arbeitsdateien genutzt werden. Aktuelle Planangaben stehen unter https://claude.ai/pricing.
+A: Verfügbarkeit und Kosten richten sich nach Anbieter, Plan und Workspace-Freigaben. Die Markdown-Schnellstarts und Werkstätten können unabhängig von der Plugin-Installation als normale Arbeitsdateien genutzt werden. Für die jeweilige Oberfläche deren aktuelle Planangaben prüfen.
 
 **F: Wo funktionieren installierte Plugins?**
-A: Plugins lassen sich im Web-Chat, im Chat-Bereich von Claude Desktop und in Cowork nutzen. Die enthaltenen Skills funktionieren in allen drei Bereichen; Hooks und Sub-Agenten laufen nur in Cowork. Eine direkte Integration in Kanzleisoftware erfordert einen gesonderten, dokumentierten Anschlussweg.
+A: Neben dem Web-Chat, dem Chat-Bereich von Claude Desktop und Cowork werden auch [ChatGPT und die ChatGPT-App](#chatgpt-und-die-chatgpt-app) über die beschriebenen Importwege unterstützt. Welche Hilfswerkzeuge verfügbar sind, hängt von der jeweiligen Oberfläche ab. Eine direkte Integration in Kanzleisoftware erfordert einen gesonderten, dokumentierten Anschlussweg.
 
 **F: Sind die Skills datenschutzkonform?**
 A: Das lässt sich nicht pauschal beantworten. Anbieter, Plan, Vertrag, Datenfluss, Auftragsverarbeitung, Unterauftragnehmer, Speicherfristen und das konkrete Material müssen vor produktiver Nutzung eigenständig geprüft werden; dieses Repository erteilt keine Freigabe.
@@ -903,6 +921,8 @@ Beiträge willkommen – siehe [Beitragsleitfaden](./CONTRIBUTING.md).
 ## English Quick Guide
 
 This repository provides a large German-law plugin and skill collection for practical legal workflows. It supports document review, structured legal analysis, drafting, deadline work, evidence mapping and source-controlled research across civil, labour, corporate, insolvency, family, inheritance, social, public, criminal and specialist business law.
+
+The collection can also be used in ChatGPT and the ChatGPT app where plugins and the relevant import route are enabled. Use the desktop import flow or have a workspace administrator import this public GitHub marketplace. See the [setup table](#chatgpt-und-die-chatgpt-app), [official import guide](https://learn.chatgpt.com/docs/import) and [workspace instructions](https://learn.chatgpt.com/docs/enterprise/plugin-management). Required tools and file access remain account-dependent; this is not a claim that every workflow has been tested in every client.
 
 Start with one legal field, not the entire collection. Open its plugin README, choose either the installable plugin ZIP or one standalone prompt, and provide the relevant documents with a concrete task. The source material is mainly German; this English guide explains how to find and use it, not a separate English-language edition.
 
