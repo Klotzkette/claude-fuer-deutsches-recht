@@ -1,152 +1,50 @@
 ---
 name: avv-rolemix-getrennt-vs-gemeinsam-verantwortlich
-description: "Für Abgrenzung Rollenmix Art: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Klärt Datenschutzrollen je Verarbeitungsschritt bei Cloud-Diensten, Agenten und verbundenen Unternehmen. Prüft tatsächliche Zweck- und Mittelentscheidung statt Vertragsüberschrift und liefert Rollenvermerk, Anbieterfragen oder passende Vereinbarung.
 ---
 
-# Abgrenzung Rollenmix Art
+# 1. Verantwortlichkeit in mehrstufigen Datenwegen bestimmen
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Entscheide, wer für welchen Verarbeitungsschritt verantwortlich ist und welche Vereinbarung dazu passt. Weder gemeinsamer wirtschaftlicher Nutzen noch technische Verbindung allein begründet gemeinsame Verantwortlichkeit. Auch ein autonomer Agent wird nicht selbst Verantwortlicher nach Artikel 4 Nummer 7 DSGVO.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO; BDSG; TDDDG; Art. 44 ff — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Abgrenzung Rollenmix Art. 4 Nr. 7 versus Art. 26 versus Art. 28 DSGVO. Wann sind zwei Akteure getrennte Verantwortliche wann gemeinsam Verantwortliche wann Verantwortlicher und Auftragsverarbeiter. Test-Schema für Mischkonstellationen mit Indizien aus EDSA-Leitlinien 07/2020 und EuGH-Rechtsprechung. Output: Prüfvermerk zur Rollenzuordnung.
+Lies Leistungsbeschreibung, Konfiguration, Weisungen, Datenfluss, Aufbewahrung, Unterauftragnehmerliste und Aussagen zur Trainingsnutzung. Frage bei einer Agentenkette gezielt, welcher Rechtsträger Eingaben, Gedächtnis, Werkzeugaufrufe und Protokolle erhält und wofür. Ein fehlender Nachweis wird als Lücke benannt; keine tatsächlich nicht gelesene Architektur behaupten.
 
-### Rollenmix – Getrennt versus gemeinsam versus Auftragsverarbeitung
+## 3. Ablauf und Checkliste
 
-## Zweck / Purpose
+### 3.1. Verarbeitung abgrenzen
 
-Strukturierte Abgrenzung zwischen drei datenschutzrechtlichen Rollenmodellen in Mehr-Akteur-Konstellationen: getrennte Verantwortliche, gemeinsame Verantwortliche (Art. 26 DSGVO), Auftragsverarbeiter (Art. 28 DSGVO). Purpose (EN): Separate vs. joint vs. processor – role allocation in multi-actor data processing under GDPR.
+Prüfe zuerst Personenbezug und Verarbeitung nach Artikel 4 Nummern 1 und 2; nicht „immer ja“ annehmen. Trenne Erhebung, Bereitstellung, Inferenz, Weiterleitung, Speicherung und Training. Ein lokales System ohne Personenbezug eröffnet nicht allein wegen der Bezeichnung Agent die DSGVO. Eine lokale Installation mit personenbezogenen API-Aufrufen ist dagegen kein vollständig abgeschotteter Betrieb.
 
-## Wann dieses Modul hilft
+### 3.2. Entscheidungsmacht nachweisen
 
-- Zwei oder mehr Akteure verarbeiten dieselben personenbezogenen Daten und es ist unklar, welches Vertragsmodell zu schliessen ist.
-- Aufsichtsbehoerde fragt nach Rollenzuordnung im Verarbeitungsverzeichnis (Art. 30 DSGVO).
-- Mandant geht davon aus, "wir sind nur Auftragsverarbeiter" – Prüfung, ob nicht in Wahrheit Art. 26 DSGVO einschlaegig ist.
-- Vor Abschluss eines Joint-Controller-Agreement oder AVV soll die Einstufung gesichert sein.
+Ermittle für jeden Schritt Zweck, betroffene Personen, Datenarten, Empfänger und wesentliche Mittel. Technische Detailentscheidungen können dem Auftragsverarbeiter verbleiben. Vergütung und eigene IT-Infrastruktur machen ihn nicht schon zum Verantwortlichen. Tatsächliche eigene Zwecke, etwa produktübergreifendes Training, sind separat einzuordnen; Artikel 28 Absatz 10 bei eigenmächtiger Zweckbestimmung prüfen.
 
-## Rechtlicher Rahmen
+Bei gemeinsamer oder zusammenwirkender Festlegung von Zwecken und wesentlichen Mitteln Artikel 26 prüfen. Gleich starke Einflussnahme oder Zugang jedes Beteiligten zu sämtlichen Daten ist nicht Voraussetzung. Bloßer Datenaustausch oder beiderseitiger Nutzen genügt nicht. Zeitliche und sachliche Reichweite begrenzen: Mitentscheidung über Erhebung belegt nicht automatisch Mitverantwortung für jedes spätere Training.
 
-Die Fanpage-Entscheidung erging zur Richtlinie 95/46/EG. Die heutige Verarbeitung ist gesondert anhand von Artikel 4 Nummer 7 und Artikel 26 DSGVO zu prüfen; der Fallname allein begründet keine gemeinsame Verantwortlichkeit für jeden Verarbeitungsschritt.
+### 3.3. Modell, Anwendung und Werkzeuge trennen
 
-- Art. 4 Nr. 7 DSGVO: Verantwortlicher entscheidet allein oder gemeinsam mit anderen über Zwecke und Mittel.
-- Art. 26 DSGVO: Gemeinsam Verantwortliche.
-- Art. 28 DSGVO: Auftragsverarbeiter.
-- Art. 4 Nr. 9 DSGVO: Empfaenger.
-- EDSA-Leitlinien 07/2020 zur Abgrenzung Verantwortlicher / Auftragsverarbeiter (Final 07.07.2021).
-- EuGH C-25/17 (Zeugen Jehovas) – am Volltext für den konkreten Fall zu prüfen: Mitverantwortung durch organisatorische Mittel auch ohne unmittelbaren Datenzugang.
-- EuGH, Urt. v. 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388 (Wirtschaftsakademie Schleswig-Holstein / Fanpages); [Quelle und Prüfstand vom 25.09.2026](../../references/fanpage-entscheidung-quellenpruefung.md).
-- EuGH C-40/17 (Fashion ID) – am Volltext für den konkreten Fall zu prüfen: Like-Button-Einbinder ist für Erhebung und Uebermittlung mitverantwortlich.
+Ein Agent ist keine zusätzliche juristische Person zwischen Auftraggeber und Lieferant. Bei mehreren Agenten jede delegierte Funktion und den dahinterstehenden Rechtsträger prüfen. Der Entwickler eines lokal verwendeten Modells erhält nicht notwendig Daten; ein Diagnose- oder Suchdienst kann dagegen Empfänger sein. Anbieter-/Betreiberrollen nach Systemrecht sind keine Abkürzung für Datenschutzrollen. Automatische Auswahl eines Werkzeugdienstes beseitigt die Verantwortung für die eingerichtete Auswahl- und Zugriffsmöglichkeit nicht.
 
-## Ablauf / Checkliste
+### 3.4. Konsequenzen ausformulieren
 
-1. **Zweck- und Mittelprueung.**
+Bei Auftragsverarbeitung Artikel 28 Absatz 3 und Unterbeauftragung nach Absätzen 2 und 4 umsetzen. Bei gemeinsamer Verantwortlichkeit Pflichten, Betroffenenkontakt und wesentlichen Inhalt der Vereinbarung nach Artikel 26 ordnen; Betroffenenrechte bleiben gegenüber jedem Verantwortlichen bestehen. Bei getrennten Verantwortlichen Übermittlungs- und Empfangsgrundlage, Information und Löschung eigenständig prüfen. Eine Vereinbarung schafft keine fehlende Rechtsgrundlage.
 
- | Frage | Verantwortlicher allein | Gemeinsam Verantwortlich | Auftragsverarbeiter |
- |---|---|---|---|
- | Wer legt Zweck fest? | Akteur A allein | Akteur A und Akteur B gemeinsam | Akteur A allein, Akteur B fuehrt aus |
- | Wer legt Mittel fest? | Akteur A | Beide oder Akteur B als wesentlicher Mitbestimmer | Akteur A bestimmt wesentliche Mittel, Akteur B technische Detailmittel |
- | Eigener Nutzen aus Daten? | Nur Akteur A | Beide ziehen Nutzen | Nur Akteur A |
- | Weisungsgebundenheit? | nicht relevant | nein, kollektive Entscheidung | ja, voll |
+Für Inferenz, Gedächtnis, Protokolle und Training je Zweck Artikel 6, gegebenenfalls Artikel 9 und Kapitel V untersuchen. Berechtigtes Interesse ist kein pauschales Trainingsprivileg; Zweck, Erforderlichkeit und Abwägung getrennt belegen. Nach Anbieterantwort den Rollenvermerk und die konkret betroffene Vertragsklausel abschließen, nicht nur eine neue Fragenliste erzeugen.
 
-2. **EuGH-Indizienreihe.**
+## 4. Quellenpflicht
 
- - Wer entscheidet über Zweck der Verarbeitung? (Kerntest)
- - Wer bestimmt wesentliche Mittel (z. B. Tool-Auswahl, Speicherort, Loeschfristen)?
- - Wer profitiert wirtschaftlich von der Verarbeitung?
- - Besteht eine wechselseitige Abhaengigkeit?
- - Wird die Verarbeitung gemeinsam beworben oder organisiert?
+Artikel 4 Nummern 7 und 8, Artikel 5, 6, 9, 26, 28 und 44 folgende [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de); [EDSA-Leitlinien 07/2020](https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_en) als nicht gesetzesgleiche Auslegungshilfe.
 
-3. **Negativindizien gegen Auftragsverarbeitung.**
+EuGH, Urteil vom 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388, Wirtschaftsakademie: Entscheidung zur Richtlinie 95/46/EG, kein allgemeines Agentenurteil. Aussage und Übertragungsgrenze in der [Quellenprüfung](../../references/fanpage-entscheidung-quellenpruefung.md) beachten. Aktuelle Rollen aus Tatsachen und geltender DSGVO herleiten; kein bloßer Fallnamenbeweis. Prüfstand der Agentenergänzung: 2. Oktober 2026. [Zitierweise](../../references/zitierweise.md).
 
- - Eigene Verarbeitung für eigene Werbung, eigenes KI-Training, eigene Statistik.
- - Eigene Anonymisierung mit nachgelagerter eigener Nutzung.
- - Eigene Rechtsdienstleistung (Inkasso, Steuerberatung, Rechtsanwaltsleistung) im Auftrag des Mandanten – meist Funktionsuebertragung statt Art. 28 (Querverweis: funktionsuebertragung-vs-auftragsverarbeitung).
- - Schaltung von Tracking-Pixeln auf eigener Webseite (regelmaessig Art. 26 mit dem Tracking-Anbieter).
+## 5. Ausgabeformat
 
-4. **Negativindizien gegen Joint Control.**
+Ausformulierter Rollenvermerk, Nachforderung oder Vereinbarung nach Auftrag. Ergänzend eine knappe Tabelle: Verarbeitung, Rechtsträger, Entscheidung, Rolle, Beleg und Konsequenz. Vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung. Keine Datenübertragung oder verbindliche Freigabe ohne Auftrag.
 
- - Reiner Datenfluss zwischen zwei getrennten Geschäften ohne abgestimmte Verarbeitung.
- - Jeder Akteur hat eigene Rechtsgrundlage und eigenen Zweck.
- - Keine gemeinsame Bewerbung oder Organisation.
+## 6. Beispiele
 
-5. **Prüfraster (Stufenmodell).**
-
- - Stufe 1: Liegt eine Verarbeitung im Sinne von Art. 4 Nr. 2 DSGVO vor? (immer ja)
- - Stufe 2: Wer entscheidet über Zweck? Wenn nur einer: weiter Stufe 4. Wenn mehrere: weiter Stufe 3.
- - Stufe 3: Liegt gemeinsame Entscheidung auch über wesentliche Mittel oder gemeinsamer Nutzen vor? Wenn ja: Art. 26 DSGVO. Wenn nein: getrennte Verantwortliche.
- - Stufe 4: Ist der ausfuehrende Akteur weisungsgebunden und ohne eigenen Zweck? Wenn ja: Art. 28 DSGVO. Wenn nein: getrennte Verantwortliche oder Funktionsuebertragung.
-
-## Mustertext / Template
-
-Prüfvermerk-Vorlage zur Rollenzuordnung:
-
-```
-Pruefvermerk Rollenzuordnung DSGVO
------------------------------------
-Verarbeitung: [Beschreibung]
-Akteur A: [Bezeichnung, Funktion]
-Akteur B: [Bezeichnung, Funktion]
-Datenkategorien: [Stamm-/Verkehrs-/Inhaltsdaten/Art. 9 DSGVO]
-Betroffene: [Kategorien]
-
-1. Zweck der Verarbeitung
-
- Wer entscheidet? [A allein / A und B gemeinsam / nur für A]
- Begruendung: [Sachverhaltsbasis]
-
-2. Wesentliche Mittel
-
- Wer entscheidet? [A allein / A und B gemeinsam / A legt fest, B fuehrt aus]
- Indizien: [Tool-Auswahl, Speicherort, Loeschfristen, Sicherheitsmassnahmen]
-
-3. Wirtschaftlicher Nutzen
-
- [Nur A / beide / A nutzt für Geschaeft, B nur für Entgelt]
-
-4. Weisungsgebundenheit B?
-
- [voll / teilweise / keine]
-
-5. EuGH-Linie
-
- Vergleichbar mit: [EuGH, Urt. v. 10.07.2018 - Az. C-25/17 / EuGH, Urt. v. 05.06.2018 - Az. C-210/16 / EuGH, Urt. v. 29.07.2019 - Az. C-40/17 / keine direkte Vergleichbarkeit].
-
-6. Einordnung
-
- [ ] Akteur A allein verantwortlich (Art. 4 Nr. 7 DSGVO)
- [ ] Akteur A und B gemeinsam verantwortlich (Art. 26 DSGVO)
- [ ] Akteur A Verantwortlicher, Akteur B Auftragsverarbeiter (Art. 28 DSGVO)
- [ ] Getrennte Verantwortliche
-
-7. Folgevertrag
-
- [ ] Joint-Controller-Vereinbarung Art. 26
- [ ] AVV Art. 28
- [ ] C2C-Datenuebermittlungsklausel
- [ ] kein gesonderter Vertrag erforderlich
-
-Datum, Unterschrift Datenschutzbeauftragter
-```
-
-## Typische Drafting-Fehler
-
-- AVV abgeschlossen, obwohl Joint Control vorliegt (Fanpage / Like-Button / Webtracking).
-- Joint-Agreement abgeschlossen, obwohl getrennte Verantwortliche vorliegen (typischer Fall: Inkasso-Dienstleister).
-- "Standardloesung AVV" ohne Prüfung.
-- Berufsgeheimnistraeger als reine Auftragsverarbeiter behandelt (Funktionsuebertragung uebersehen).
-- Tracking-Anbieter als Auftragsverarbeiter behandelt, obwohl er Daten für eigene Zwecke nutzt.
-
-## Quellen Stand 06/2026
-
-- Art. 4 Nr. 7, Art. 26, Art. 28 DSGVO.
-- EDSA-Leitlinien 07/2020 (Final 07.07.2021), abrufbar über edpb.europa.eu.
-- EuGH C-25/17 (Zeugen Jehovas) – konkreten Aussagegehalt am Volltext prüfen.
-- EuGH, Urt. v. 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388 (Wirtschaftsakademie Schleswig-Holstein / Fanpages); [Quelle und Prüfstand vom 25.09.2026](../../references/fanpage-entscheidung-quellenpruefung.md).
-- EuGH C-40/17 (Fashion ID) – konkreten Aussagegehalt am Volltext prüfen.
-- Volltexte über curia.europa.eu prüfen.
-- Zitierweise: `../../../references/zitierweise.md`.
+Ein Anbieter verarbeitet Kundenanfragen weisungsgebunden, nutzt Diagnosekopien aber für eigene Produktentwicklung: Rollen für beide Zwecke getrennt prüfen. Ein Modell läuft lokal, während ein Agent Adressen an einen Kartenservice übermittelt: nicht aus „On-Premise“ auf fehlenden Empfänger oder Transfer schließen.

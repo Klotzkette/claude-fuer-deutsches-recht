@@ -76,6 +76,14 @@ Untersuche zusätzliche Emotions- und Biometriefunktionen gesondert. Werden biom
 
 Randnummern 104 bis 108 beschränken die Betreiberinformation nicht auf Hochrisikosysteme oder angemeldete Nutzer. Tatsächlich exponierte Personen und Erfassungsbereiche feststellen, einschließlich weiterer Kamerapersonen oder Beschäftigtenstimmen. Den konkreten Betrieb von Emotionserkennung beziehungsweise biometrischer Kategorisierung benennen; ein allgemeines KI-Etikett reicht nicht automatisch.
 
+### 7.1. Agentenkommunikation ohne falsche Zusagen
+
+Prüfe, ob ein Agent selbst gegenüber einer natürlichen Person antwortet oder nur einen intern geprüften Entwurf liefert. Bloße Eingriffsmöglichkeit ist keine tatsächlich ausgeübte menschliche Prüfung. Künstlichen Gesprächspartner, Auftraggeber und verfügbare Kontaktmöglichkeit verständlich unterscheiden. Der Hinweis auf den Auftraggeber besagt nichts über rechtsgeschäftliche Vollmacht oder Befugnis zur Zusage einer Leistung.
+
+Datenschutzinformation nach Artikeln 13 und 14 ist zusätzlich aus dem tatsächlichen Datenweg zu erstellen: Sitzung, dauerhaftes Gedächtnis, Werkzeugempfänger und weitere Zwecke. Ein Artikel-50-Hinweis ersetzt weder Rechtsgrundlage noch Information über Verarbeitung. Geht es um eine rechtlich erhebliche automatische Absage, Artikel 22 gesondert prüfen; „automatisch erstellt“ legitimiert keine unzulässige Entscheidung.
+
+Rein maschinelle Kommunikation zwischen Werkzeugen nicht ohne natürliche Adressaten unter Absatz 1 zwingen. Erreicht das Ergebnis anschließend einen Menschen, diesen tatsächlichen Kommunikationsschritt prüfen. Öffentliche Texte, direkte Interaktion und Deepfakes bleiben getrennte Tatbestände. Liefere den Hinweis samt Platzierung und nur die daneben benötigten Texte; keine neue Komplettprüfung, wenn die Datenwege unverändert geklärt sind.
+
 ## 8. Technische Kennzeichnung beim Anbieter klären
 
 Artikel 50 Absatz 2 verlangt die gesonderte technische Prüfung synthetischer Audio-, Bild-, Video- und Textausgaben. Erkennbarkeit, Wirksamkeit, Interoperabilität, Robustheit und Zuverlässigkeit im technisch machbaren Umfang sind anhand konkreter Ausgaben und Verfahren zu betrachten. Die Norm verlangt nicht immer dieselbe Technologie. Standardbearbeitung und nicht wesentliche Veränderung sind funktional begrenzte Ausnahmen, keine allgemeine Befreiung professioneller Nutzer.

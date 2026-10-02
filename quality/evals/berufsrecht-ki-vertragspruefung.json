@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "berufsrecht-ki-vertragspruefung",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
@@ -36,7 +36,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Datenwege und Ersatzklauseln bleiben handhabbar; Wiederholungen gekürzt, um den angewandten Transferanker unter der Byte-Grenze aufzunehmen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
+    "reason": "Datenwege und Ersatzklauseln bleiben handhabbar; Wiederholungen gekürzt, um den angewandten Transferanker unter der Byte-Grenze aufzunehmen. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Ergänzung 2. Oktober 2026: Tatsächliche Geheimnisempfänger statt pauschaler Lieferantenkette geprüft; berufsrechtliche Verpflichtung, Datenschutzrolle und Genehmigung neuer Agentenwerkzeuge getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Schrems II an den konkret auf Artikel 46 gestützten Transfer gebunden.",
       "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
@@ -44,7 +44,7 @@
       "Leer: Zweckbindung, Supportbegrenzung oder Pilotfreigabe. Dateien: still lesen und Ersatzklauseln oder Einsatzvotum anbieten. Klar: direkt Klauseln, Anbieterbrief oder Einsatzvermerk erstellen.",
       "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
     ],
-    "sha256": "a4580435c4fe874206c6cfa5ad48dd07a3b4862fa54295c22a6b3574501618d5"
+    "sha256": "8b6fc40387c1957db21f177f248623ab396ca84cd153973231943478cdfa290e"
   },
   "selection": {
     "positive": [
@@ -57,6 +57,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Eine Kanzlei nutzt ein lokal betriebenes Modell. Dessen Entwickler hat keinen Datenzugang. Der Agent darf aber eigenständig externe Suchdienste auswählen und ganze Mandatsfragen übermitteln; die Dienstleisterliste nennt nur den Hoster. Der Anbieter meint, eine allgemeine AVV und 'kein Training' genügten. Schreiben Sie konkrete Anbieterfragen und eine Ersatzklausel. Ungeklärte Empfänger nicht als genehmigt behandeln; keine Daten übermitteln.",
+      "target_skill": "subunternehmer-regelung-pruefen",
+      "input_files": [],
+      "deliverables": [
+        "Anbieterfragen.docx",
+        "Ersatzklausel.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Unterscheidet Entwickler ohne Datenzugang vom tatsächlichen Suchdienstempfänger; technische Herkunft begründet nicht automatisch Geheimniszugang.",
+          "deliverables": [
+            "Anbieterfragen.docx",
+            "Ersatzklausel.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Prüft Paragraf 43e BRAO einschließlich Textform, weiterer Personen und gegebenenfalls Einwilligung sowie Paragraf 203 StGB gesondert von Artikel 28 DSGVO.",
+          "deliverables": [
+            "Anbieterfragen.docx",
+            "Ersatzklausel.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Begrenzt neue Werkzeuge und Empfänger, verlangt Änderungsinformation und passende Verpflichtung; keine pauschale gesetzliche Einzelzustimmungspflicht erfinden.",
+          "deliverables": [
+            "Anbieterfragen.docx",
+            "Ersatzklausel.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "no-training-und-inhaltslogs",
       "request": "Eine deutsche Anwaltskanzlei möchte einen KI-Dienst zur internen Zusammenfassung vertraulicher Mandatsakten beschaffen. Die Vertriebszusage lautet: Kein Modelltraining mit Ihren Daten, Speicherung in der EU. Der Vertragsentwurf erlaubt jedoch die Nutzung von Eingaben und Ausgaben zur allgemeinen Produktverbesserung und hält vollständige Inhaltslogs 90 Tage vor. Support darf weltweit zugreifen; Standorte und Unterauftragnehmer sind nicht benannt. Eine Datenschutzvereinbarung liegt vor, enthält aber keine gesonderte Verpflichtung zum Berufsgeheimnis. Die Kanzlei will eine begrenzte Pilotnutzung mit öffentlichen Mustertexten sofort prüfen und Mandatsdaten erst nach tragfähiger Klärung einsetzen. Erstellen Sie einen kurzen Beschaffungsvermerk, vollständige Ersatzklauseln zu Zweck, Support und Löschung sowie priorisierte Anbieterfragen. Behaupten Sie keine selbst durchgeführte technische Prüfung.",
@@ -138,7 +174,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Standardklauseln werden nicht als Schutz gegen fremde Behörden missverstanden; Geheimnisschutz, Transfergrundlage und tatsächlicher Zugriff werden getrennt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen.",
+    "reason": "Standardklauseln werden nicht als Schutz gegen fremde Behörden missverstanden; Geheimnisschutz, Transfergrundlage und tatsächlicher Zugriff werden getrennt. Vollständige Text- und gezielte Primärquellenprüfung; kein Live-Mandanten- oder Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Ergänzung 2. Oktober 2026: Tatsächliche Geheimnisempfänger statt pauschaler Lieferantenkette geprüft; berufsrechtliche Verpflichtung, Datenschutzrolle und Genehmigung neuer Agentenwerkzeuge getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Schrems II an den konkret auf Artikel 46 gestützten Transfer gebunden.",
       "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
@@ -146,7 +182,7 @@
       "Vertragsrang, Datenarten, Notfallzugriff, Backup-Lebenszyklus, Unterauftragnehmerwechsel und gestufte Pilotaktivierung ausgearbeitet.",
       "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
     ],
-    "sha256": "411a3d2c4d4dbec08b26b245975636321c5b95950be8e32e9c3742a7c4270edf"
+    "sha256": "b0eb3e30ca7de4ad503af0d14dfc955db151ab27b4ab42c8864242b9db5bd53f"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

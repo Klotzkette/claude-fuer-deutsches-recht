@@ -27,6 +27,12 @@ Kontrollierte Eingabedaten auf Relevanz und ausreichende Repräsentativität fü
 
 Arbeitnehmervertretung und betroffene Beschäftigte nach Absatz 7 sowie betroffene natürliche Personen nach Absatz 11 auseinanderhalten. Die Anweisung enthält einen benannten Meldeweg, Vertretung und Befugnis zur Unterbrechung. Artikel 26 Absatz 5 nicht mit dem Anbieterbericht nach Artikel 73 verwechseln. Nach neuem Anbieterhinweis nur die betroffenen Arbeitsabläufe und den bereits bestellten Entwurf ändern; keine erneute vollständige Mandatsaufnahme.
 
+### 3.4 Agentenkette tatsächlich beherrschen
+
+Legen mehrere Agenten Bewerberdaten ab, bewerten sie und versenden Absagen, müssen die Eingriffspunkte vor der erheblichen Wirkung liegen. Ein späteres Dashboard oder Not-Aus ersetzt keine echte Einzelfallprüfung. Artikel 22 DSGVO einschließlich Ausnahmen gesondert prüfen. Erlaubte Werkzeuge, Empfänger und Rechte außerhalb des Sprachmodells begrenzen; eine frei formulierte Systemanweisung allein ist keine technische Zugriffssperre.
+
+Für Störungen festlegen, wie laufende und delegierte Aufträge angehalten, ihr Vollzug geprüft und doppelte Absagen verhindert werden. Eine sichere Testprobe muss auch manipulierte Dokumentinhalte und unerwartete Werkzeugantworten abdecken. Keine generelle Speicherung jeder internen Modellüberlegung verlangen: nachvollziehbare Ereignisse, Versionen, Freigaben und relevante Ergebnisse mit Datenminimierung dokumentieren. Fehlende technische Kontrolle führt zum Nachforderungsschreiben, nicht zu einer unbelegten Freigabe.
+
 ## 4 Quellenpflicht
 
 Artikel 26, ergänzend Artikel 14 und 111/113 in geltender Fassung amtlich prüfen. [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) und [Zitierweise](../../references/zitierweise.md) beachten. Gesetzliche Pflicht, vertragliche Vorgabe und eigene organisatorische Empfehlung kenntlich trennen. Datenschutz und Mitbestimmung nicht als durch KI-Einstufung erledigt behandeln.

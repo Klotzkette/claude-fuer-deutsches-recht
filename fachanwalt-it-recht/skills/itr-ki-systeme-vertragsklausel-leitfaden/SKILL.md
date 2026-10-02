@@ -1,63 +1,50 @@
 ---
 name: itr-ki-systeme-vertragsklausel-leitfaden
-description: "Für Itr Ki Systeme Vertragsklausel Leitfaden: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Verhandelt Verträge über KI-Systeme und handelnde Agenten anhand von Leistungsbeschreibung, Werkzeugrechten und Datenwegen. Erstellt konkrete Klauseln zu Aufsicht, Trainingsnutzung, Änderungen, Nachweisen, Haftung und Exit für Auftraggeber oder Anbieter.
 ---
 
-# Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz
+# 1. Systemvertrag und Handlungsvollmachten gestalten
 
+## 1. Zweck und Anwendungsfall
 
-## Arbeitsweg
+Überarbeite den vorliegenden Vertrag so, dass die bestellte Funktion, ihre Grenzen und die Rechtsfolgen einer Abweichung überprüfbar sind. Unterscheide Textvorschlag, Entscheidungsvorbereitung und selbstständige Ausführung. Eine allgemeine Zusage „rechtskonforme KI“ ersetzt weder Leistungsbeschreibung noch Verantwortungszuordnung.
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: nur die Fristen des konkreten Rechtsgebiets und der Akte verwenden; Widerspruch, Klage, Einspruch, Rechtsmittel, Verjährung, Verwirkung, Rüge-, Anzeige-, Anmelde- und Ausschlussfristen strikt trennen und nie aus einem anderen Fachgebiet übernehmen.
-- Tragende Normen verifizieren: DSGVO Art. 5, 6, 7, 9, 12-22, 25, 28, 30, 32, 33-34, 35, 51-58, 77-83, BDSG §§ 22-25, 26, 30; DSGVO; BDSG; TTDSG — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Mandant, Gegner, zuständige Behörde oder Gericht, Sachverständige, ggf. EU-/internationale Stelle (siehe Skill-Detail).
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: Verwaltungsakte, Vertragsurkunden, Schriftsätze, Bescheide, Protokolle, Sachverständigengutachten und externe Beweismittel des Fachgebiets — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+## 2. Eingaben
 
-**Fokus:** Leitfaden Vertragsklauseln für KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Prüfraster für Customer und Vendor.
+Lies Vertrag, Leistungsbeschreibung, Systemversion, Werkzeugliste, Preisblatt, Datenschutzvereinbarung und Verhandlungsantworten. Kläre nur offene entscheidende Punkte: Mandantenseite, erlaubte Außenhandlungen und gewünschte Fassung. Beginne mit der streitigen Klausel; verlange kein vollständiges Audit für eine einzelne Nachtragsregelung.
 
-### IT: KI-Systeme Vertragsklausel
+## 3. Ablauf und Checkliste
 
-## Spezialwissen: IT: KI-Systeme Vertragsklausel
-- **Normen-/Quellenanker:** KI, IT.
+### 3.1. Leistung und Ausführung abgrenzen
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Ordne Modell, Anwendung, Gedächtnis, Datenabruf, Werkzeuge und Unterauftragnehmer zu. Beschreibe, ob ein Agent lediglich eine Bestellung entwirft oder sie auslöst. Lege erlaubte Empfänger, Betragsgrenzen, Datenkategorien und Freigabepunkte fest. Technische Zugriffsrechte sind keine rechtsgeschäftliche Vollmacht; Zurechnung automatisierter Erklärungen sowie Paragrafen 164 folgende BGB gesondert prüfen. Keine Rechtsfähigkeit des Systems unterstellen.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+### 3.2. Abnahme und Aufsicht vereinbaren
 
-## Prüfraster
+Für erfolgsbezogene Leistungen Sollverhalten, Testdaten, Störfälle und Abnahmekriterien vereinbaren; für laufende Dienste Verfügbarkeit und Reaktionszeiten. Prüfe manipulierte Dokumente, falsche Werkzeugantworten, unzulässige Delegation und Wiederholungen nach Zeitüberschreitungen. Eine Zahlung darf nicht doppelt ausgelöst werden, weil der erste Erfolg unbekannt ist. Vereinbare eindeutige Auftragskennungen, Rückfrage bei unklarem Vollzug und Sperrung weiterer Ausführung bis zur Klärung. Notabschaltung ersetzt keine vorgelagerte Zustimmung zu irreversiblen Handlungen.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+### 3.3. Daten und Lieferkette regeln
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+Trenne Inferenz, fallübergreifendes Gedächtnis, Diagnoseprotokolle und Modelltraining. Weisungsgebundene Verarbeitung nach Artikel 28 DSGVO ist von eigenen Lieferantenzwecken zu unterscheiden. Entgelt allein begründet keine gemeinsame Verantwortlichkeit. Bei Datenempfang durch weitere Dienste Genehmigung, Weiterverpflichtung, Zugriffsorte und Kapitel V prüfen; auch ein lokales Modell kann ausländische Werkzeuge aufrufen. Vereinbare Löschung je Speicher und überprüfbare Rückgabe statt bloßer Nichtanzeige. Rechte am Output nur im tatsächlich bestehenden Umfang zusagen; keine Garantie urheberrechtlichen Schutzes jedes Ergebnisses.
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+### 3.4. Regulatorische Mitwirkung und Änderungen
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Artikel 25 Absatz 4 der Verordnung (EU) 2024/1689 betrifft die Unterstützung des Hochrisikoanbieters durch Zulieferer; Anwendungsbereich und Ausnahmen für bestimmte offen lizenzierte Komponenten prüfen. Kein allgemeiner Anspruch auf sämtliche Modellgewichte. Benötigte Informationen, Zugang, Testunterstützung, Änderungsankündigung, Vorfallkontakt und Fristen konkret vereinbaren. Gesetzliche Anbieterstellung entsteht nicht allein durch die Vertragsbezeichnung und wird gegenüber Behörden nicht beliebig wegvereinbart. Zweckänderung, neue Werkzeuge und Modellwechsel lösen die vereinbarte Änderungsprüfung aus, nicht automatisch jeweils eine neue Hochrisikoeinstufung.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+### 3.5. Haftung, Deckung und Ausstieg
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Vertragsverletzung, Fehler, Schaden, Kausalität und Zurechnung je Beteiligtem prüfen. Paragrafen 276 Absatz 3, 307 und 310 BGB bei Haftungsbegrenzungen beachten. Innenausgleich und Versicherung ersetzen keine Außenpflicht. Versicherungssumme, Serienschaden, Selbstbehalt, Ausschlüsse, Meldefrist und zeitliche Deckung anhand der Police abgleichen; Versicherbarkeit von Bußgeldern nicht versprechen. Die Richtlinie (EU) 2024/2853 nicht schon als unmittelbar anwendbare deutsche Anspruchsgrundlage behandeln: Umsetzung, Marktbereitstellung/Inbetriebnahme und Stichtag 9. Dezember 2026 prüfen. Nicht jeder reine Vermögensschaden fällt unter Produkthaftung.
+
+Exit muss Datenexport, Protokollzugang, Sperrung von Zugangsschlüsseln, Ende laufender Aufträge und nachweisbare Löschung koordinieren. Nach Anbieterantwort nur betroffene Klauseln ändern und die verhandlungsfähige Fassung fertigstellen. Ungeklärte Handlungsvollmacht sperrt die automatische Außenhandlung, nicht die Vertragsarbeit.
+
+## 4. Quellenpflicht
+
+Prüfstand 2. Oktober 2026. Maßgeblich sind [BGB](https://www.gesetze-im-internet.de/bgb/), Artikel 25 der [Verordnung (EU) 2024/1689 in aktueller Fassung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng), Artikel 5, 25, 28, 32 und 44 folgende [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de) und Artikel 2, 4, 6, 8, 21 und 22 der [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de). Gesetzliche Pflicht, verhandelbare Zusage und Schutzempfehlung trennen. [Zitierweise](../../references/zitierweise.md) beachten; kein allgemeines Agenten-Haftungsurteil erfinden.
+
+## 5. Ausgabeformat
+
+Liefere die bestellten Klauseln oder Vertragsänderungen in vollständigen, ausformulierten Sätzen, keine Klauselskelette. Eine getrennte Verhandlungsnotiz erklärt Ausgangsposition, Alternative und nicht gedeckte Risiken. Formatstandard: Times New Roman 11 pt, dezimale Gliederung. Ohne Export vollständigen Text liefern. Keine Unterzeichnung, Datenfreigabe oder technische Änderung ohne Auftrag.
+
+## 6. Beispiele
+
+Ein Einkaufsagent darf bis 2000 Euro bestellen, der Vertrag gestattet aber unbegrenzte Werkzeugaufrufe: Betrag und technische Durchsetzung abstimmen. Ein Lieferant bietet „Löschung“ nur durch einen Antwortfilter an: Rückgabe, verbleibende Speicher, Löschmaßnahmen und Nachweis verhandeln, nicht ungeprüft Erfüllung bestätigen.

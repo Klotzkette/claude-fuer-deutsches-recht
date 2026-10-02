@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "plugin": "ki-verordnung-hochrisiko-pruefer",
-  "reviewed_on": "2026-09-28",
+  "reviewed_on": "2026-10-02",
   "mini_review": {
     "verdict": "revised",
-    "reason": "Individuell verfasster Kurzworkflow mit beiden Artikel-6-Pfaden, Profiling-Sperre, Rollenwechsel, Zeitrecht und nutzbaren Dokumenten. Negativkontrolle zur arbeitnehmerseitigen Zeugnisrechtsberatung ergänzt. Redaktioneller Durchgang, kein ausgeführter Modelltest.",
+    "reason": "Individuell verfasster Kurzworkflow mit beiden Artikel-6-Pfaden, Profiling-Sperre, Rollenwechsel, Zeitrecht und nutzbaren Dokumenten. Negativkontrolle zur arbeitnehmerseitigen Zeugnisrechtsberatung ergänzt. Redaktioneller Durchgang, kein ausgeführter Modelltest. Ergänzung 2. Oktober 2026: Agenten als konkrete Gesamtanwendung geprüft; neue Werkzeuge, Zweckänderung, verdeckte Vorauswahl und wirksame Unterbrechung delegierter Aufträge unterschieden. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": ["Ordner zuerst, Fortsetzung am bestellten Dokument und konkrete Ergebnisformate aufgenommen.", "Anhang III vollständig über portable Prüfreferenz erschlossen; Recruiting nur Vertiefung.", "Geltendes Änderungsrecht und unverbindlicher Leitlinienentwurf getrennt."],
-    "sha256": "e1b5d3c03bf1046f0fa397a6a429eda8e12d69ec87a0975be2aba0d68b5ededd"
+    "sha256": "7c1795fc1173677f3b37c89840e5a521d282fd1f87c5731aa459f14f514faa26"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Handverfasste Werkstatt mit funktionsbezogener Subsumtion, belastender Gegenposition, konkreten Formulierungsbeispielen und Fortsetzung nach ergänzenden Belegen. Keine automatische Arbeitgeberentlastung durch Privatkonto und kein pauschaler Hochrisikoschluss aus Sortierung.",
+    "reason": "Handverfasste Werkstatt mit funktionsbezogener Subsumtion, belastender Gegenposition, konkreten Formulierungsbeispielen und Fortsetzung nach ergänzenden Belegen. Keine automatische Arbeitgeberentlastung durch Privatkonto und kein pauschaler Hochrisikoschluss aus Sortierung. Ergänzung 2. Oktober 2026: Agenten als konkrete Gesamtanwendung geprüft; neue Werkzeuge, Zweckänderung, verdeckte Vorauswahl und wirksame Unterbrechung delegierter Aufträge unterschieden. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": ["Zweck, tatsächlichen Einfluss und Rolle getrennt bearbeitet.", "Artikel 43, 49 und 73 weder als ein Verfahren noch als pauschal verschoben behandelt.", "Native Ergebnisdokumente und gesonderte interne Quellenprüfung vorgesehen."],
-    "sha256": "49c99c10c89af35c8c2efb3fd69da8620ffee3a00ebe0bba3ce3078ecae71bee"
+    "sha256": "3de111150e5bfea39e52a580597de235eb88c3bc92c547d8f07290b5cdb740e2"
   },
   "selection": {
     "target_skill": "artikel-6-software-einstufen",
@@ -46,6 +46,42 @@
     {"url": "https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A62021CJ0634", "checked_on": "2026-09-28", "supports": "EuGH C-634/21 zum maßgeblichen Scoreeinfluss unter Artikel 22 DSGVO, keine KI-VO-Klassifikation."}
   ],
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Recruiting-Agent sortiert zunächst nur Dateien. Nach einer Änderung bewertet er Bewerber, verbirgt einen Teil der Datensätze und darf Absagen versenden. Der Personalleiter sieht nur die Vorauswahl; ein Not-Aus beendet den Hauptprozess, nicht delegierte Versandaufträge. Schreiben Sie eine Einstufungsfortschreibung und eine Betriebsanweisung. Keine pauschale Hochrisikoeinstufung allein wegen Autonomie; das Einführungsdatum ist noch offen.",
+      "target_skill": "betreiberkonzept-bewerbungsauswahl",
+      "input_files": [],
+      "deliverables": [
+        "Einstufungsfortschreibung.docx",
+        "Betriebsanweisung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Prüft tatsächliche neue Zweckbestimmung, Artikel 6, Anhang III Nummer 4 und Profiling; isolierte Teilmodule verschleiern nicht die Gesamtfunktion.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Betriebsanweisung.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Trennt mögliche Anbieteränderung nach Artikel 25 von technischer Erweiterung und kennzeichnet das offene zeitliche Anwendungsrecht.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Betriebsanweisung.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Verlangt echte Prüfung vor Absage und Unterbrechung auch delegierter Aufträge; keine Pflicht zur unbegrenzten Speicherung interner Denkprozesse.",
+          "deliverables": [
+            "Einstufungsfortschreibung.docx",
+            "Betriebsanweisung.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "kassel-ordner-zum-dokument",
       "request": "Bearbeiten Sie den Auftrag der FuldaForm-Geschäftsführung vom 28. September 2026 anhand des vollständigen Ordners. Ich behaupte, jede Sortierung sei hochriskant. Prüfen Sie die beiden Werkzeuge und die tatsächlichen Abläufe, erstellen Sie eine begründete Entscheidungsvorlage und ein passendes Anbieteranschreiben. Nichts versenden. Bereits beantwortete Fragen nicht erneut stellen; fehlende entscheidende Tatsachen gezielt bezeichnen.",

@@ -1,14 +1,14 @@
 # 1. Verordnung über künstliche Intelligenz: Schnellstart
 
-Prüfe Systemfunktion, Verbot, Risikokategorie, Transparenzpflicht, Akteur und Geltungsbeginn. Lies Zweckbeschreibung, Vertrag und Systemakte; verfasse die beauftragte Bewertung, Vertragsprüfung oder Behördenantwort.
+Prüfe anhand der Systemakte Funktion, Rolle, Pflicht und Datum. Kläre nur fehlendes Auftragsziel oder entscheidende Lücken; sonst direkt entwerfen. Antworten ohne Neustart einarbeiten. Kein Pluginzugriff erforderlich.
 
-Omnibus-Stand: 10. September 2026; Artikel-50-Leitlinien ergänzt am 30. September 2026. Bei Veröffentlichung nur Inhalt und Kanal prüfen, nicht ungefragt eine Hochrisikoakte verlangen.
-
-Ohne Eingabe Rolle, Veröffentlichung oder Anbieterprüfung zur Wahl stellen. Dateien zuerst lesen; nur entscheidende Lücken erfragen. Bei klarem Auftrag direkt zum Dokument. Neue Antworten dort einarbeiten, bekannte Angaben nicht erneut verlangen. Keine lokalen Skills voraussetzen.
+Reformstand 10. September, Artikel-50-Leitlinien 30. September und Agentenergänzung 2. Oktober 2026; vor späterer Anwendung aktualisieren.
 
 ## 1.1. System und Rolle bestimmen
 
 Was entscheidet oder erzeugt das System tatsächlich, für wen und seit wann? Artikel 2 und 3 prüfen; Anbieter, Betreiber, Importeur, Händler und Produktintegrator trennen. Eigenes Branding, wesentliche Änderung oder neue Zweckbestimmung können Artikel 25 auslösen. Modellpflichten nach Kapitel V und Systempflichten nicht gleichsetzen.
+
+Bei Agenten Planung, Gedächtnis, Werkzeuge, Unteraufträge und Außenhandlung erfassen. Autonomie allein begründet kein Hochrisiko. Die Gesamtanwendung nicht durch isoliert harmlose Teilmodule ausnehmen. Vor irreversiblen Handlungen tatsächliche Prüfung und Befugnis klären; Not-Aus allein genügt nicht. Zuliefermitwirkung nach Artikel 25 Absatz 4 konkret vereinbaren, Ausnahmen beachten. Liefere Rollenvermerk, Betriebsregel oder Klausel statt bloßer Inventarliste.
 
 ## 1.2. Verbot und Risikoeinstufung
 
@@ -48,7 +48,7 @@ Technischen Anbieternachweis und sichtbaren Betreiberhinweis trennen. Die Textau
 
 Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt bei Dokumentexport. Versand nur nach Freigabe.
 
-Interne Abrufvermerke getrennt halten; notwendige fachliche Vorbehalte bleiben im Empfängertext.
+Abrufvermerke getrennt halten; fachliche Vorbehalte bleiben im Empfängertext.
 
 ## 1.7. Grenzen
 

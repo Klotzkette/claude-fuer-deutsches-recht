@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "datenschutzrecht",
-  "reviewed_on": "2026-09-30",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de",
@@ -66,7 +66,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini verknüpft Datenkopie und Kontext mit CRIF sowie Schaden und Kausalität mit Österreichische Post, ohne automatische Vollaktenkopie oder Schadenspauschale. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Neue Angabe zum notwendigen Kontext eines Vergleichsfelds -> Schwärzungsentscheidung und Auskunftsantwort ändern; eine bloße Linksperre -> Löschbehauptung im Vorfallsentwurf korrigieren.",
+    "reason": "Der Mini verknüpft Datenkopie und Kontext mit CRIF sowie Schaden und Kausalität mit Österreichische Post, ohne automatische Vollaktenkopie oder Schadenspauschale. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Neue Angabe zum notwendigen Kontext eines Vergleichsfelds -> Schwärzungsentscheidung und Auskunftsantwort ändern; eine bloße Linksperre -> Löschbehauptung im Vorfallsentwurf korrigieren. Ergänzung 2. Oktober 2026: Datenwege von Inferenz, Gedächtnis und Training sowie Rollen, Löschung und Aufbewahrung einzeln präzisiert; pauschale gemeinsame Verantwortlichkeit und Filterlöschung ausgeschlossen. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
@@ -74,11 +74,11 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "6ca7259e72c869f08abb827ab2b6e9cfb8151c07bc2138d3e6c9789d4a695a4c"
+    "sha256": "8ea9086b52a06f82c35454fac6e0bf4953a0dd7cef9f78ee28fe4d9d84241f46"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die einzeln neu gefasste Werkstatt erhält Auskunft, AVV, DSFA, Datenpanne, Transfer und Behördenarbeit; unzutreffende Gleichsetzungen bei Rollen, BCR und Schadensersatz sind bereinigt. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
+    "reason": "Die einzeln neu gefasste Werkstatt erhält Auskunft, AVV, DSFA, Datenpanne, Transfer und Behördenarbeit; unzutreffende Gleichsetzungen bei Rollen, BCR und Schadensersatz sind bereinigt. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe. Ergänzung 2. Oktober 2026: Datenwege von Inferenz, Gedächtnis und Training sowie Rollen, Löschung und Aufbewahrung einzeln präzisiert; pauschale gemeinsame Verantwortlichkeit und Filterlöschung ausgeschlossen. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Artikel 15 Absatz 3 und 4 DSGVO auf verständliche vollständige Datenkopie mit erforderlichem Kontext angewandt.",
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
@@ -87,7 +87,7 @@
       "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
       "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
     ],
-    "sha256": "aad52c42695038d4dda2a41841be650e9743a6b0e88844d619557379a32b6851"
+    "sha256": "54bb5088d4b78c1c9b83680c91a20034755299109d0c9bbb236337755179ddf4"
   },
   "selection": {
     "positive": [
@@ -100,6 +100,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Lieferant verarbeitet Rechnungen weisungsgebunden, betreibt daneben ein eigenes Trainingsprogramm und bewahrt ein Agentengedächtnis auf. Nach einem Löschantrag erklärt er alle Bestände wegen Buchhaltung für zehn Jahre gesperrt und nennt einen Namensfilter vollständige Löschung. Eingang war gestern. Erstellen Sie eine Betroffenenantwort und eine konkrete Anforderung an den Lieferanten. Keine Löschung ausführen; aus der Zusage kein gelesenes Löschprotokoll machen.",
+      "target_skill": "datenschutz-loeschpflicht-art-17-und-aufbewahrung",
+      "input_files": [],
+      "deliverables": [
+        "Betroffenenantwort.docx",
+        "Lieferantenanforderung.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Trennt Zweck und Rolle je Verarbeitung; Rechnungsaufbewahrung rechtfertigt nicht automatisch Gedächtnis oder eigenes Training.",
+          "deliverables": [
+            "Betroffenenantwort.docx",
+            "Lieferantenanforderung.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Prüft Artikel 17 Absatz 3, Artikel 18 und passende Aufbewahrungsnormen getrennt; Namensfilter und Zugriffssperre werden nicht ungeprüft als Löschung bestätigt.",
+          "deliverables": [
+            "Betroffenenantwort.docx",
+            "Lieferantenanforderung.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Bearbeitet erfüllbare Teile innerhalb der Antwortfrist und fordert konkrete technische Nachweise an; keine erfundene Fristverlängerung.",
+          "deliverables": [
+            "Betroffenenantwort.docx",
+            "Lieferantenanforderung.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "patientenexport-kein-warten-auf-forensik",
       "request": "Die Praxiszentrum Süd GmbH in Stuttgart erfährt am 14. September 2026 um 09:00 Uhr durch eine bestätigte Logauswertung, dass ein Mitarbeiter am Vorabend versehentlich einen unverschlüsselten Exportlink an einen unbeteiligten externen Empfänger versandt hat. Dieser hat den Export vollständig heruntergeladen. Nach dem Exportprotokoll sind ungefähr 150 Patienten mit Namen, Kontaktdaten und Diagnosen betroffen; die genaue Zahl einzelner Datensätze wird erst die Forensik am 20. September liefern. Der Link ist seit 09:10 Uhr gesperrt. Eine Löschbestätigung des Empfängers fehlt; es gibt keine Anhaltspunkte, dass die heruntergeladenen Daten unlesbar sind. Die Datenschutzkontaktstelle lautet datenschutz@praxiszentrum-sued.example. Die Geschäftsführung möchte wegen einer Nachricht über den Digitalen Omnibus 96 Stunden warten und dann den Abschlussbericht abwarten. Erstelle in ergebnis.md einen entscheidungsreifen Frist- und Risikovermerk, eine zur Freigabe geeignete Erstmeldung an die zuständige Datenschutzaufsicht und einen gesonderten Patientenbrief. Kein Versand.",

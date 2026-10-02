@@ -19,6 +19,8 @@ Lies zuerst den benannten Ordner mit Leistungsbeschreibung, Gebrauchsanleitung, 
 
 Beschreibe für jede Version Eingaben, Verarbeitung, Ausgabe und Übernahme in die Entscheidung. Ermittle insbesondere, ob das Werkzeug nur vorhandene Daten alphabetisch ordnet, Angaben extrahiert, Eignung bewertet oder Bewerbungen unsichtbar stellt. Prüfe bei rein deterministischen Vorgängen zuerst die KI-Systemdefinition. Unterscheide das verwendete KI-Modell vom konkret eingesetzten System einschließlich Bedienoberfläche und Prozessintegration.
 
+Bei einer Agentenkette Modell, Planung, Gedächtnis, Werkzeugrechte und Unteragenten mit der tatsächlich übernommenen Auswahlentscheidung verbinden. Ein Extraktionsagent kann isoliert vorbereitend wirken, während die Gesamtanwendung Kandidaten bewertet und automatisch ausschließt. Die Systemgrenze begründet festlegen, nicht jedes kleine Modul einzeln als Ausnahme erklären. Weder Autonomie noch Personaldaten allein ersetzen den Tatbestand des Artikels 6. Laufzeit-Anpassungsfähigkeit ist für Artikel 3 Nummer 1 nicht zwingend.
+
 ### 3.2 Zweck belegen
 
 Stelle Anbieterangaben aus Vertrieb und Anleitung dem nachgewiesenen Einsatz gegenüber. Die Bezeichnung „Assistenz“ ist kein Gegenbeweis zu einer tatsächlich vorgesehenen Vorauswahl. Die eigenmächtige Verwendung durch eine Beschäftigte belegt zunächst den Vorgang, nicht automatisch die Zweckänderung des gesamten Universalprodukts. Ermittle Freigabe, Wiederholbarkeit, Vorlagen, technische Anbindung und Übernahme der Ergebnisse durch die Organisation.

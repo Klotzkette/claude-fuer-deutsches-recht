@@ -23,6 +23,8 @@ Ein privates Konto und ein internes Verbot sind Belege, keine abschließende Zur
 
 Prüfe getrennt eigenes Kennzeichen, wesentliche Änderung eines schon hochriskanten Systems und zweckändernde Umwidmung eines zuvor nicht hochriskanten Systems. Benenne jeweils den Gegenstand, die Änderung und den Handelnden. Eine interne Eingabe bedeutet nicht ohne Weiteres eigenes Inverkehrbringen; auch eigene Inbetriebnahme und tatsächliche Prozessintegration sind zu untersuchen. Dokumentiere offen, wenn die Tatsachen den Anbieterwechsel noch nicht tragen.
 
+Bei Agenten konkrete Änderung bezeichnen: neuer Schreibzugriff ins Bewerberportal, automatische Absage, delegierte Bewertung oder dauerhaftes Kandidatengedächtnis. Nicht jede technische Ergänzung erfüllt Artikel 25. Entscheidend sind Zweckänderung beziehungsweise wesentliche Änderung und Hochrisikobezug. Ein vom Agenten eigenständig ausgewählter Dienst ist kein rechtsfähiger Ersatzverantwortlicher; die organisatorisch eröffnete Handlungsbefugnis bleibt zu prüfen.
+
 ### 3.3 Sofortmaßnahme und Fortsetzung
 
 Entwirf eine konkret adressierte Weisung, weitere Bewerberübertragungen vorläufig zu unterbinden, vorhandene Exporte kontrolliert zu sichern und bereits beeinflusste Bewerbungen einer erneuten Sichtung zuzuführen, soweit dies der Auftrag deckt. Beschreibe Reichweite und Verantwortliche, nicht pauschal „alle KI abschalten“. Keine heimliche Mitarbeiterüberwachung. Eine weitere Herstellererklärung wird in Rollenvermerk und Anbieteranschreiben eingearbeitet.

@@ -94,6 +94,16 @@ Gleiche vertragliche Sicherheits-, Mitwirkungs- und Meldepflichten einschließli
 
 Bei Phishing und betrügerischen Zahlungsanweisungen prüfe SPF, DKIM, DMARC, Quarantäne, Meldemöglichkeiten, Schulung und Reaktionsablauf nach ihrem konkreten Zweck. Ein Schulungsnachweis ersetzt keine Prüfung eines kompromittierten Kontos. Simulationen und Änderungen am laufenden System benötigen einen passenden Auftrag und dürfen nicht eigenmächtig gestartet werden.
 
+### 1.8.1. Agenten als ausführende Zugriffskette untersuchen
+
+Bei einem Vorfall mit Agenten getrennt feststellen: fremder Dokumentinhalt, daraus übernommene Anweisung, Werkzeugberechtigung, tatsächliche Datenübertragung und weitere delegierte Aufträge. Prüfe manipulierte Werkzeugbeschreibungen und ungewollte Datenweitergabe zwischen Aufträgen. Ein Agent ohne Schreibrecht kann über ein überprivilegiertes Werkzeug dennoch außenwirksam handeln. Berechtigungen deshalb außerhalb des Modells begrenzen; reine Verhaltensanweisungen sind keine technische Sperre.
+
+Nach Paragraf 30 BSIG bei erfassten Einrichtungen Lieferkette, minimale Zugriffsrechte, Authentisierung, Wiederherstellung und Wirksamkeitsprüfung konkretisieren. NIS-2-Betroffenheit nicht allein aus Agentennutzung folgern. Entwirf gezielte Eindämmung mit Beweissicherung und benanntem Verantwortlichen. Schlüsselwiderruf und Abbruch müssen alle betroffenen Unteraufträge erreichen. Bei unbekanntem Zahlungserfolg vor Wiederholung eindeutige Auftragskennung und Buchungsstand abgleichen. Nicht selbst in Produktivsysteme eingreifen.
+
+Der Cyber Resilience Act erfasst nicht jeden Cloud-Dienst pauschal. Produkt mit digitalen Elementen, Marktbereitstellung, Hersteller und notwendige entfernte Datenverarbeitung nach Artikeln 2 und 3 der Verordnung (EU) 2024/2847 prüfen. Artikel 14 gilt seit 11. September 2026, die allgemeine Anwendung ab 11. Dezember 2027; Übergang nach Artikel 69 beachten. Aktiv ausgenutzte Schwachstelle und schwerwiegenden Sicherheitsvorfall getrennt beurteilen. [Amtlicher Text](https://eur-lex.europa.eu/eli/reg/2024/2847/oj?locale=de).
+
+BSIG-, Datenschutz-, System- und gegebenenfalls DORA-Meldung nach Auslöser, Kenntnis und Adressat trennen. Keine allgemeine Meldung an alle Behörden. Ein Test in isolierter Umgebung mit harmlosen manipulierten Eingaben muss den wirksamen Zugriffsschutz belegen; fehlende Testergebnisse verhindern keine fristgerechte Meldung, aber eine unbedingte Wiederanlauffreigabe.
+
 ## 1.9. Aufsicht und Bußgeldverfahren
 
 Unterscheide BSI, gegebenenfalls BaFin oder sektorale Aufsicht, Vertragspartner und Versicherer. Prüfe bei einer behördlichen Anforderung Zuständigkeit, Rechtsgrundlage, Umfang, Frist und verlangten Nachweis. Ordne vorhandene Unterlagen der konkreten Frage zu, statt ungeprüft den gesamten internen Bestand offenzulegen.

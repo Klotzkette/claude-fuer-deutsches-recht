@@ -1,8 +1,6 @@
 # 1. Datenschutzrecht: Schnellstart
 
-Ohne Auftrag knapp Auskunft, Vorfall oder Vertrag klären; beigefügte Dateien zuerst still lesen. Bei klarem Auftrag direkt entwerfen. Folgeangaben einarbeiten, Bekanntes nicht erneut fragen. Der Prompt funktioniert ohne Plugin-Dateien.
-
-Rechtsstand der folgenden Reformhinweise: 14. September 2026; ihre weitere Entwicklung für den konkreten Bearbeitungszeitpunkt prüfen.
+Dateien zuerst lesen; ohne Auftrag Auskunft, Vorfall oder Vertrag klären, sonst direkt entwerfen. Nur entscheidende Lücken fragen, Folgeantworten einarbeiten. Ohne Plugin verwendbar. Reformstand 14. September, Agentenergänzung 2. Oktober 2026; späteren Stand prüfen.
 
 ## 1.1 Verantwortlichen und Frist bestimmen
 
@@ -12,13 +10,17 @@ Tatsächliche Zwecke und Mittel klären; Verantwortlicher, gemeinsam Verantwortl
 
 Auskunft: Identität verhältnismäßig klären, Daten und Empfänger auffinden, Rechte Dritter konkret schützen, verständlich antworten. Löschung: Zweckfortfall, Aufbewahrung, Anspruchsabwehr und Empfängerinformation prüfen. Vertrag: tatsächliche Weisungen, Unterauftragnehmer, Sicherheit, Löschung und Transfers gegen Artikel 28 halten. Beschwerde: Pflichtverletzung, Beleg, gewünschte Abhilfe und zuständige Datenschutzaufsicht zusammenführen.
 
-Bei verlangten E-Mails oder Aktenkopien Artikel 15 Absätze 3 und 4 nach EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Randnummern 28 bis 45, anwenden: Daten originalgetreu und verständlich wiedergeben; Dokumente oder Auszüge liefern, wenn ihr Kontext für wirksame Rechtsausübung unerlässlich ist. Rechte Dritter konkret schützen. Kein allgemeiner Anspruch auf sämtliche Akten und keine pauschale Ablehnung wegen Drittbezugs. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487).
+Bei Aktenkopien Artikel 15 Absätze 3 und 4 nach EuGH, Urteil vom 04.05.2023, C-487/21, CRIF, Randnummern 28 bis 45: Daten verständlich und originalgetreu, Dokumentkontext soweit für wirksame Rechte nötig; Rechte Dritter konkret schützen. Kein allgemeiner Vollaktenanspruch. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0487).
 
 2026-Anker: EuGH, Urteil vom 19.03.2026, C-526/24: Auch ein Erstantrag kann bei nachgewiesener Missbrauchsabsicht exzessiv sein. Bloßer Verdacht trägt weder Ablehnung noch Gebühr; Schaden und Kausalität bleiben nötig. [Gerichtliche Pressemitteilung](https://curia.europa.eu/site/upload/docs/application/pdf/2026-03/cp260038de.pdf), Volltext/Randnummern vor Zitat prüfen. BFH, Urteil vom 30.06.2026, IX R 2/25, Gründe II.3.: Bei Finanzbehörden fehlende Auskunft nachfordern, keine eidesstattliche Versicherung verlangen; private Verantwortliche gesondert prüfen. [Volltext](https://www.bundesfinanzhof.de/de/entscheidung/entscheidungen-online/detail/STRE202610168/).
 
-Datenpanne: Kenntniszeitpunkt und Meldeentscheidung dokumentieren. Die Erstmeldung enthält Art der Verletzung, soweit möglich Kategorien und ungefähre Zahlen betroffener Personen und Datensätze, Kontaktstelle, wahrscheinliche Folgen und getroffene oder geplante Abhilfe. Schätzungen kennzeichnen und Nachlieferung terminieren. Die Benachrichtigung Betroffener bei hohem Risiko separat in klarer Sprache entwerfen; eine behauptete Löschung beim Empfänger beseitigt ein belegtes Abflussrisiko nicht ohne Prüfung. Auch eine begründete Nichtmeldung gehört ins Vorfallsregister.
+Datenpanne: Kenntnis und Meldeentscheidung dokumentieren. Erstmeldung mit Verletzungsart, möglichst Kategorien/Zahlen Betroffener und Datensätze, Kontakt, Folgen und Abhilfe. Schätzungen kennzeichnen, Nachlieferung terminieren. Bei hohem Risiko gesonderte Betroffeneninformation; Empfänger-Löschzusage beweist keine Eindämmung. Auch Nichtmeldung begründen.
 
 Bei Artikel 82 Verletzung, Schaden und Kausalität trennen: EuGH, Urteil vom 04.05.2023, C-300/21, Österreichische Post, Randnummern 32 bis 51 und 58 bis 59, verlangt einen konkreten Nachteil, aber keine zusätzliche Erheblichkeitsschwelle. Frage nach Schaden und Zusammenhang; kein automatischer Pauschalbetrag oder Strafschadensersatz.
+
+### 1.2.1 Agenten
+
+Bei Agenten Inferenz, Gedächtnis, Werkzeugempfänger und Training je Zweck und Rolle prüfen. Ein lokales Modell macht externe Aufrufe nicht lokal. Ausgabefilter sind keine Löschbestätigung; Aufbewahrung begrenzt nicht automatisch jeden Löschanspruch. Artikel 18 ist kein pauschaler Ersatz. Artikel 22 verlangt Prüfung der tatsächlichen Entscheidungskette; Artikel 6 Absatz 1 Buchstabe f ist keine Ausnahme. Erfüllbare Teile beantworten, Nachweise gezielt anfordern.
 
 ## 1.3 Omnibus: geltendes Recht von Vorschlägen trennen
 

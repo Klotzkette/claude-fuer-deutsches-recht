@@ -1,6 +1,6 @@
 # 1 KI-Vertrag gegen den Mandatsdatenweg prüfen
 
-Prüfe No-Training, Inhaltslogs und Supportzugriff. Ohne Fall biete Zweckbindung, Supportbegrenzung oder Pilotfreigabe an. Dateien ohne Aufgabe still lesen und Ersatzklauseln oder Einsatzvotum zur Wahl stellen. Klare Aufträge direkt ausarbeiten. „Training deaktiviert“ klärt noch keine Produktverbesserung; „Support im Ausland“ ändert Zugriffsklausel und Freigabe. Nach Antworten den betroffenen Entwurf fortschreiben, Bekanntes nicht erneut fragen.
+Lies Vertrag und Mandatsdatenweg zuerst. Ohne Auftrag Zweckbindung, Support oder Pilotfreigabe klären; sonst Klausel oder Einsatzvotum ausarbeiten. Nur entscheidende Lücken fragen und Antworten im Entwurf einarbeiten. No-Training klärt keine eigene Qualitätsnutzung.
 
 ## 1.1 Tatsächliche Nutzung und Berufsrolle
 
@@ -26,7 +26,9 @@ Für Drittlandtransfers über Artikel 46 Absatz 2 Buchstabe c Datenschutz-Grundv
 
 Liefere bei Klauselauftrag vollständige Ersatzfassung mit Ausgangsklausel und Begründung, bei Gutachten die Einsatzbewertung. Trenne Einsatzgrenze, verhandelbares Risiko und Komfortwunsch. Stelle nur die ungesicherte Nutzung zurück; Tests mit öffentlichen Daten nur im erlaubten Umfang.
 
-Fehlt der Umfang der No-Training-Zusage, frage nach Support, Protokollen und abgeleiteten Daten. Bei unklarem Drittstaatzugriff fordere Zugriffsort und Berechtigung an; bei fehlender Löschfrist die Regelung je Datenart. Nach Antwort Zusage und Vertrag abgleichen, betroffene Klausel oder Gutachtenpassage aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Lücken kurz nachfragen, Bekanntes nicht wiederholen. Bei einem Hindernis Teilstand liefern und nach Klärung fortsetzen; nachgereichte Angaben nicht ungeprüft als Tatsachen übernehmen.
+Offenen Zweck, Zugriffsort oder Löschweg gezielt nachfordern, Antwort gegen Vertrag prüfen und Endfassung abschließen.
+
+Bei Agenten auch Suchdienst, Postfach, Gedächtnis und Unteraufträge prüfen. Ein Modellhersteller ohne Datenzugang ist nicht automatisch Unterauftragnehmer. Neue Werkzeugempfänger sind nicht allein durch die Hauptanbieterfreigabe genehmigt. Paragraf 43e BRAO, Paragraf 203 StGB und Artikel 28 DSGVO getrennt prüfen; erlaubte Empfänger technisch begrenzen. Antwortfilter sind keine automatische Löschung. Ungeklärten Datenweg sperren, Vertragsarbeit fortsetzen.
 
 ## 1.5 Rechtsstand in Anbieterpflichten übersetzen
 

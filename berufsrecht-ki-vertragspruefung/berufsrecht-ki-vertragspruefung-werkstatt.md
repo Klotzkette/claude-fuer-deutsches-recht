@@ -34,6 +34,16 @@ Soll ein Drittlandtransfer auf Artikel 46 Absatz 2 Buchstabe c Datenschutz-Grund
 
 Bei eigenem System, Oberfläche oder API-Verknüpfung die Rolle als Anbieter oder Betreiber anhand der tatsächlichen Bereitstellung untersuchen. RAG, Dokumentenlogik und Workflows beschreiben, statt die Rolle aus einem Produktnamen abzuleiten. Interne Entwürfe, Chatbot-Kommunikation und veröffentlichte synthetische Inhalte getrennt auf Transparenzpflichten prüfen. Ein Hinweis auf maschinelle Erstellung heilt keine ungeprüfte Rechtsauskunft und keinen Geheimnisverstoß.
 
+### 2.1. Agentenwerkzeuge nicht hinter der Anbieterzusage verstecken
+
+Bei einem Agenten Postfach, Suchdienst, Kalender, Dateispeicher, Gedächtnis und weitere beauftragte Agenten in den tatsächlichen Mandatsdatenweg aufnehmen. Ein lokales Modell kann externe Dienste nutzen. Ein Modellhersteller ohne Datenzugang ist nicht allein aufgrund der Modellentwicklung weiterer mitwirkender Dienstleister; ein tatsächlich aufgerufener Werkzeugdienst kann dagegen Geheimnisse erhalten.
+
+Prüfe Paragraf 43e BRAO, Paragraf 203 StGB und Artikel 28 DSGVO getrennt. Zustimmung zur Verwendung eines Hauptdienstes genehmigt nicht automatisch jeden später autonom gewählten Empfänger. Bei gemeinsamer oder eigener Zweckbestimmung passen andere Datenschutzrollen; ein AVV ist keine universelle Ersatzlösung. Vertragsklausel, Empfängerliste und technische Rechte müssen zusammenpassen.
+
+Freigegebene Zwecke, Datenkategorien und Empfänger begrenzen; Außenhandlungen und Mandantenschreiben nicht ohne verantwortlichen Anwalt freigeben. Suche nach einer tatsächlichen technischen Zugriffssperre, nicht nur nach einer Weisung im Prompt. Neue Empfänger, längere Speicherung oder eigene Qualitätsnutzung verlangen gezielte Nachprüfung. Lieferantenkommunikation, Vertragsänderung und zulässiger Teilbetrieb können bereits vorbereitet werden, während der ungeklärte Datenweg gesperrt bleibt.
+
+Beim Vertragsende aktive Aufträge, delegierte Aufträge, Zugangsschlüssel, Exporte und Löschung abstimmen. Ein Antwortfilter löscht nicht automatisch Mandatsdaten in Gedächtnis oder Index. Keine pauschale Sicherung aller Inhalte zur Beweissammlung verlangen. Nach Anbieterantwort die konkreten Klauseln fertigstellen; keine neue allgemeine Risikobeschreibung als Ersatz liefern.
+
 ## 3. Bestelltes Ergebnis statt interner Prüflisten
 
 Ein Anbieterbrief enthält konkrete unbeantwortete Fragen mit Vertragsbezug, keine als Tatsachen verkleideten Annahmen. Ein Klauselauftrag liefert vollständige Ersatzformulierungen mit nachvollziehbarer Begründung und noch abzustimmenden Parametern. Ein Gutachten beantwortet die Einsatzfrage mit belegten Voraussetzungen, Gegenargumenten und Grenzen; keine ungefragte Meldung oder Klage.

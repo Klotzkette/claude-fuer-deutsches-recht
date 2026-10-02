@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-governance",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de",
@@ -41,13 +41,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini fragt nach wirksamen menschlichen Eingriffsmöglichkeiten und Ausnahmen des Artikels 22 DSGVO statt bloßen Bestätigungsklicks. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Fehlende Übersteuerungsbefugnis -> Aufsichtsregel und bedingter Beschluss; bestätigte Sperre bei offener Menge -> Maßnahmen-/Mengenstatus der Erstmeldung ändern.",
+    "reason": "Der Mini fragt nach wirksamen menschlichen Eingriffsmöglichkeiten und Ausnahmen des Artikels 22 DSGVO statt bloßen Bestätigungsklicks. Individueller Text- und Quellenreview, kein Live-Modelltest. Individueller Workflow-Durchgang am 23.09.2026: Fehlende Übersteuerungsbefugnis -> Aufsichtsregel und bedingter Beschluss; bestätigte Sperre bei offener Menge -> Maßnahmen-/Mengenstatus der Erstmeldung ändern. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "0777600e6e46ce27bcd729f657ef1c9a6cf54c2cc7590f25e25a141f12dbb20a"
+    "sha256": "2597cfb1cf8c1bb45cd2376d05e977576d529c0a7b70b6032a70b54c79288617"
   },
   "selection": {
     "positive": [
@@ -60,6 +60,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Agent hat einem Kunden eine nicht vereinbarte Liefergarantie bestätigt. Der Kunde verlangt Ersatz reiner Geschäftseinbußen. Die Leitung meint, das Modell sei selbst verantwortlich, jede Haftung sei versichert und die neue Produkthaftungsrichtlinie entscheide schon im Oktober 2026 den Fall unmittelbar. Erstellen Sie einen internen Haftungsvermerk und eine Deckungsanfrage auf Grundlage des noch anzufordernden Vertrags und der Police. Keine Anerkenntnisse abgeben.",
+      "target_skill": "ki-haftung-und-versicherung",
+      "input_files": [],
+      "deliverables": [
+        "Haftungsvermerk.docx",
+        "Deckungsanfrage.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Ordnet Erklärungszurechnung, Pflichtverletzung, Schaden und Kausalität konkret zu; weder Agent als Haftungsschuldner noch automatische Gefährdungshaftung aller Beteiligten.",
+          "deliverables": [
+            "Haftungsvermerk.docx",
+            "Deckungsanfrage.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Prüft nationale Umsetzung und zeitlichen Anwendungsbereich der Richtlinie 2024/2853; reine Geschäftseinbußen nicht pauschal als Produkthaftungsschaden behandeln.",
+          "deliverables": [
+            "Haftungsvermerk.docx",
+            "Deckungsanfrage.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Trennt Haftung von Deckung, benennt fehlende Policenteile und formuliert die Deckungsanfrage ohne unbelegtes Anerkenntnis.",
+          "deliverables": [
+            "Haftungsvermerk.docx",
+            "Deckungsanfrage.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "datenpanne-kein-96-stunden-aufschub",
       "request": "Erstelle ergebnis.md für die Geschäftsleitung eines Unternehmens, das ein nicht als hochriskant eingestuftes Schreibsystem betreibt. Am 14. September 2026 um 10 Uhr wurde dem datenschutzrechtlich Verantwortlichen sicher bekannt, dass personenbezogene Kundendaten durch einen Konfigurationsfehler öffentlich abrufbar waren. Meldepflichtigkeit nach Artikel 33 ist für diesen Fall vorgegeben. Der Zugriff wurde durch die IT bereits gesperrt. Die Zahl betroffener Datensätze steht noch nicht fest, Kontaktstelle und Art des Fehlers sind bekannt. Ein Entwurf im Unternehmen nennt 96 Stunden aufgrund einer geplanten Datenschutzreform und will bis zur vollständigen Zählung warten. Gewünscht sind Fristbezug, Erstmeldungsentwurf mit offenen Feldern und Verantwortungszuordnung; keine Versendung.",
@@ -95,13 +131,13 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt verbindet SCHUFA mit Scoreeinsatz, Entscheidungspraxis und nachvollziehbaren Freigabebedingungen; KI-VO-Risikoklasse bleibt gesondert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
+    "reason": "Die Werkstatt verbindet SCHUFA mit Scoreeinsatz, Entscheidungspraxis und nachvollziehbaren Freigabebedingungen; KI-VO-Risikoklasse bleibt gesondert. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung. Ergänzung 2. Oktober 2026: Verantwortung, gesetzliche Rollen und Versicherung bei autonomen Außenhandlungen getrennt; pauschale Vorfallfristen und Haftungsautomatismen entfernt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
       "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung."
     ],
-    "sha256": "59945ab8074d2c9ea9349514057bf1a1e24e304c0746e75f496df76d2e99b2a4"
+    "sha256": "fd29e85a5e2f6b918d7f008b0007dbbad8593a2cef712773c5378ce69498d057"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

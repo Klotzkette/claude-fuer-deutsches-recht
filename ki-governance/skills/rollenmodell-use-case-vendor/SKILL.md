@@ -1,50 +1,36 @@
 ---
 name: rollenmodell-use-case-vendor
-description: "Für Rollenmodell: Formular, Portal und Einreichungslogik: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Bestimmt Anbieter, Betreiber und Zulieferer eines konkreten KI-Einsatzes einschließlich Agentenketten. Trennt gesetzliche Rollen von internen Zuständigkeiten und Datenschutzrollen und erstellt eine begründete Rollen- und Freigabeentscheidung.
 ---
 
-# Rollenmodell: Formular, Portal und Einreichungslogik
+# 1. Systemrollen und betriebliche Verantwortung festlegen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Ordne Verantwortung am tatsächlichen System, Zweck und Rechtsträger zu. Konzernlogo, Vertragsüberschrift und eigenes Hosting sind Indizien, keine vollständige Rollenprüfung. Die technische Autonomie eines Agenten beseitigt nicht die Verantwortung der beteiligten Personen und Unternehmen.
 
-## Spezialwissen: Rollenmodell: Formular, Portal und Einreichungslogik
-- **Normen-/Quellenanker:** EU, KI, VO, DSGVO, AIA, DPIA.
+## 2. Eingaben
 
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+Lies Leistungsbeschreibung, Anbieterkennzeichnung, Konfiguration, Änderungsverlauf, Werkzeugrechte und Freigaben. Frage nur nach entscheidenden Lücken: Wer bietet welche Version unter wessen Namen an, wer verwendet sie unter eigener Verantwortung und wer darf sie verändern?
 
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+## 3. Ablauf und Checkliste
 
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **KI-VO-Rollenmodell** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. Modell, Anwendung, Orchestrierung, Gedächtnis und ausführende Werkzeuge abgrenzen. Ein Agent kann ein KI-System sein; er ist nicht schon deshalb selbst ein GPAI-Modell. Mehrere Komponenten weder ohne Prüfung zu einem Gesamtanbieter zusammenziehen noch zur Umgehung der tatsächlichen Zweckbestimmung künstlich zerlegen.
+2. Artikel 3 Nummern 3 bis 8 für Anbieter, Betreiber, Bevollmächtigten, Importeur, Händler und Produkthersteller prüfen. Entwicklung oder Beauftragung der Entwicklung sowie Inverkehrbringen oder eigene Inbetriebnahme unter eigenem Namen beachten. Beschäftigter, Konzernmutter und Agent sind nicht automatisch eigenständige Betreiber.
+3. Artikel 25 Absatz 1 getrennt prüfen: eigenes Kennzeichen, wesentliche Änderung eines Hochrisikosystems oder Zweckänderung, durch die ein bisher nicht hochriskantes System hochriskant wird. Nicht jedes neue Prompt oder Update erfüllt diese Voraussetzungen. Anbieterpflichten am konkreten geänderten System und zeitlichen Anwendungsrecht festmachen.
+4. Rechte und Pflichten gegenüber Voranbieter/Zulieferer nach Artikel 25 Absätzen 2 und 4 klären. Konzerninterne Vertragsgestaltung und Haftungsausgleich ersetzen keine gesetzlichen Außenpflichten. Bei vereinbarter Nichtverwendung für Hochrisikozwecke den genauen gesetzlichen Zusammenhang prüfen; nicht jede Mitwirkungspflicht unterschiedslos behaupten.
+5. Datenschutzrollen je Verarbeitung zusätzlich bestimmen. Verantwortlicher, Auftragsverarbeiter und gemeinsam Verantwortliche folgen Artikel 4, 26 und 28 DSGVO, nicht automatisch der Systemrolle. Training, Support, Protokolle und Werkzeugdienste getrennt zuordnen.
+6. Benenne einen betrieblichen Verantwortlichen mit Vertretung, Eingriffsrecht und erreichbarem Meldeweg. Bei Agenten getrennte Lese-, Schreib- und Versandbefugnisse sowie wirksame Unterbrechung aller delegierten Aufträge vorsehen. Vor irreversiblen Handlungen konkrete Freigabe; Änderungsprüfung bei neuen Werkzeugen, Empfängern und Zwecken.
+7. Zuständigkeit nach KI-MIG und sektoralen Regeln bestimmen, Datenschutzaufsicht separat. Keine allgemeine Frist aus dem Rollenmodell ableiten: insbesondere Artikel 73 kennt nach Ereignis unterschiedliche Fristen; sein Vorfallworkflow ist gesondert zu prüfen. Nach Antwort die Rollenentscheidung samt Vertrags- oder Organisationsänderung fertigstellen.
 
-## KI-VO-Rollen und Einreichungswege
-- **Anbieter (Art. 3 Nr. 3 KI-VO):** entwickelt und bringt KI-System in Verkehr; Hauptverpflichteter Art. 9-15, 16-22.
-- **Betreiber (Art. 3 Nr. 4):** verwendet KI-System unter eigener Verantwortung; Art. 26 Pflichten.
-- **Importeur (Art. 3 Nr. 6):** bringt KI aus Drittland in EU; Art. 23.
-- **Händler (Art. 3 Nr. 7):** macht KI auf Markt verfügbar; Art. 24.
-- **Bevollmächtigter (Art. 3 Nr. 5):** Vertreter eines Drittland-Anbieters; Art. 22.
+## 4. Quellenpflicht
 
-## Einreichungswege Behördenkommunikation
-- **Konformitätserklärung:** Aufbewahrung 10 Jahre durch Anbieter (Art. 47 Abs. 4); Anhang V definiert Mindestinhalt.
-- **EU-Datenbank Registrierung** Art. 49 KI-VO: für Hochrisiko-Systeme nach Anhang III; öffentlich einsehbar bei EU-Kommission.
-- **CE-Kennzeichnung** Art. 48 KI-VO bei Hochrisiko.
-- **Vorfallmeldung** Art. 73 KI-VO an Marktüberwachungsbehörde: 15 Tage Standard, 2 Tage bei schwerwiegend, sofort bei Tod.
-- **Marktüberwachungsbehörden in DE:** je nach Sektor; BNetzA für Telekommunikation, BSI für Cybersicherheit, BfDI für Datenschutzaspekte. National wird die KI-VO-Aufsicht (Stand 2026) etabliert.
+Artikel 3, 25, 26, 111 und 113 der [Verordnung (EU) 2024/1689 in geltender Fassung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de). Der amtliche Service Desk weist bei geänderten Vorschriften teilweise selbst auf nicht aktualisierte Darstellungen hin; dann konsolidierten Text und Änderungsrechtsakt abgleichen. Prüfstand 2. Oktober 2026; [Zitierweise](../../references/zitierweise.md).
 
-## Praxis-Tipp
-Die KI-VO unterscheidet zwischen Anbieter und Betreiber sehr strikt — bei Substantieller Modifikation eines Hochrisiko-Systems (z. B. Fine-Tuning, neuer Anwendungszweck) wird der Betreiber zum Anbieter (Art. 25 KI-VO) und übernimmt deren Pflichten. Frühzeitig prüfen, ob unternehmensinterner Feintuning-Prozess Anbieterstellung auslöst.
+## 5. Ausgabeformat
+
+Ausformulierter Rollenvermerk oder Freigabebeschluss mit Systemversion, Tatsachengrundlage, Begründung, verbleibenden Voraussetzungen und benannten Verantwortlichen. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Registrierung, Konformitätserklärung oder Betriebsfreigabe nicht ungefragt ausführen.
+
+## 6. Beispiele
+
+Eine Vertriebsgesellschaft vermarktet einen zugekauften Agenten unter eigenem Namen: Rolle anhand Entwicklung/Beauftragung und Vertrieb prüfen, nicht den technischen Lieferanten automatisch allein verantwortlich nennen. Ein Sachbearbeiter nutzt einen Universalchat für einen Einzelversuch: Verwendung und organisatorische Übernahme feststellen, nicht sofort den gesamten Dienst in ein Recruiting-Produkt umdeuten.

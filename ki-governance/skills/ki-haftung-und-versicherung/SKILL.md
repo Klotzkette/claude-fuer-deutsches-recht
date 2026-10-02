@@ -1,58 +1,36 @@
 ---
 name: ki-haftung-und-versicherung
-description: "Für digitale Werkzeuge-Haftung und Versicherung: ordnet Norm, Beweislast und Gegenargument; Ergebnis: Prüfprodukt mit Risiko und nächstem Schritt."
+description: Prüft Schaden, Verantwortungsbeitrag und Versicherung bei fehlerhaften KI-Ausgaben oder autonomen Agentenhandlungen. Trennt Vertrags-, Datenschutz-, Delikts- und Produkthaftung und erstellt Anspruchsabwehr, Deckungsanfrage oder begründete Leitungsentscheidung.
 ---
 
-# KI-Haftung und Versicherung
+# 1. Agentenschaden, Zurechnung und Versicherung prüfen
 
-## Arbeitsweg
+## 1. Zweck und Anwendungsfall
 
-- Rolle, Ziel und gewünschtes Arbeitsprodukt klären: Wer handelt, welche Entscheidung steht an, welche Frist läuft und welcher Output wird gebraucht?
-- Fristen und Eilrisiken zuerst markieren: Verordnung (EU) 2024/1689 in der Fassung 2026/1744: Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5 für Anhang III ab 02.12.2027, für Anhang I ab 02.08.2028. Artikel 4 neuer Fassung, Artikel 4a, Verbote und Transparenz gesondert prüfen; Vorfallfrist nach Tatbestand und Ereignis, Datenschutz-Folgenabschätzung vor riskanter Verarbeitung.
-- Tragende Normen verifizieren: EU KI-VO 2024/1689 Art. 9, 10, 14, 22, 27, 50, ISO/IEC 42001, NIST AI RMF 1.0, OECD AI Principles, DSGVO Art. 22, 35, Produkthaftungs-RL 2024/2853 — Fundstellen über gesetze-im-internet.de, dejure.org, openJur, BVerfG-/BGH-/EuGH-Datenbank live prüfen; keine Modellwissen-Zitate.
-- Zuständige Stelle bestimmen und Adressaten richtig wählen: Geschäftsleitung, KI-Officer, Datenschutzbeauftragter, Compliance, Aufsichtsrat, Marktüberwachung, externer Auditor, betroffene Personen.
-- Dokumente und Beweismittel sammeln und auf Lücken prüfen: KI-Inventar, Risikoanalyse, FRIA (Fundamental Rights Impact Assessment), AI Governance Policy, Modellkarten, Audit-Bericht, DSGVO-DPIA, Schulungsnachweis — fehlende Belege durch Akteneinsicht oder Rückfrage beim Mandanten beschaffen, Live-Check für tagesaktuelle Normänderungen und Verwaltungspraxis.
+Bearbeite einen konkreten Schaden oder eine geplante Risikofreigabe. Ein autonomer Agent ist kein eigener Haftungsschuldner. Daraus folgt keine automatische verschuldensunabhängige Haftung jedes beteiligten Unternehmens. Ordne jede Forderung einem Anspruchsgrund, einem Verantwortungsbeitrag und einem belegten Schaden zu.
 
-## Spezialwissen: KI-Haftung und Versicherung
-- **Normen-/Quellenanker:** KI, VO, RL, EU.
+## 2. Eingaben
 
-## Fallweichen
-Frage zu Beginn nur ab, was für den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+Lies Anspruchsschreiben, Vertrag, Aufgabenfreigabe, System- und Werkzeugversionen, Ereignisprotokoll sowie Police. Bei einer Meldungsfrist zuerst den fristwahrenden Entwurf vorbereiten. Frage nur nach fehlenden Tatsachen, die Schaden, Anspruchsgegner oder Deckung verändern.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Verträge, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, für wen, in welcher Tonalitaet?
+## 3. Ablauf und Checkliste
 
-## Prüfraster
+1. Rekonstruiere Auftrag, Informationsquelle, Modellantwort, Werkzeugaufruf, menschliche Entscheidung und Außenwirkung. Halte fest, wer Konfiguration, Rechte, Updates und Unterbrechung beherrschte. Auch bei mehreren Agenten bleibt die natürliche oder juristische Person zu bestimmen. „Das Modell hat selbst entschieden“ ist keine vollständige Entlastung; ein interner Regelverstoß beweist umgekehrt nicht allein jeden Haftungstatbestand.
+2. Vertragliche Pflichtverletzung und Paragrafen 280 folgende BGB, deliktische Ansprüche nach Paragraf 823 BGB, Datenschutzschaden nach Artikel 82 und gegebenenfalls Produktfehler getrennt prüfen. Verletzung, Schaden und Kausalität nicht durch ein Bußgeldrisiko ersetzen. Beweislast am jeweiligen Anspruch erläutern; kein pauschales Beweislastumkehrversprechen für undurchsichtige Systeme.
+3. Bei rechtswidrigen Ausgaben Unterlassung von Schadensersatz unterscheiden. [LG München I, Pressemitteilung vom 12.06.2026](https://www.justiz.bayern.de/gerichte-und-behoerden/landgericht/muenchen-1/presse/2026/13.php) berichtet über eigene Übersichtsaussagen einer Suchmaschine. Das ist ein persönlichkeitsrechtlicher Eilfall, kein Beleg für jeden Agentenvertrag oder allgemeine Gefährdungshaftung. Volltext, Entscheidungsdatum und Verfahrensstand vor gerichtlichem Zitat nachprüfen; keine Randnummer aus der Pressemitteilung erfinden.
+4. Die Richtlinie (EU) 2024/2853 erfasst unter ihren Voraussetzungen Software. Prüfe Umsetzung, relevanten Markt-/Inbetriebnahmezeitpunkt und Übergang zum 9. Dezember 2026. Sie ist nicht ohne nationale Umsetzung eine neue horizontale Anspruchsgrundlage gegen Private. Herstellerbegriff, wesentliche Veränderung, Fehler, erfasste Schäden sowie Offenlegung und Vermutungen gesondert prüfen. Nicht jede Anbieterrolle nach der KI-Verordnung ist ohne weitere Subsumtion Herstellerhaftung; reine Geschäftseinbußen sind nicht pauschal erfasst.
+5. Police auswerten: versichertes Unternehmen, Tätigkeit und System, Versicherungsfall, zeitliche Deckung, Serienschäden, Sublimits, Selbstbehalt und Ausschlüsse. Deckungsanfrage ohne vorschnelles Anerkenntnis entwerfen. Regulatorische Geldbußen, vertragliche Garantien oder vorsätzliches Verhalten nicht als sicher versichert ausgeben. Interne Freistellung kann am Deckungsumfang vorbeigehen.
+6. Leitungsentscheidung an Paragraf 93 AktG oder Paragraf 43 GmbHG messen. Wirtschaftliche Risikobereitschaft erlaubt keine bewusste Missachtung geltender Verbote. Ein begrenzter Pilot braucht zulässigen Zweck, begrenzte Zugriffe, wirksame Unterbrechung und erneute Prüfung bei Änderungen. Dokumentierte Bemühungen garantieren weder Haftungsfreiheit noch behördlichen Verzicht.
+7. Nach neuen Protokollen Anspruchszuordnung und Deckungsanfrage fortschreiben. Beweismittel kontrolliert sichern; personenbezogene Vollprotokolle nicht unbegrenzt auf Vorrat sammeln. Keine Anerkenntnisse, Zahlungen oder Meldungen eigenmächtig abgeben.
 
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
+## 4. Quellenpflicht
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zuständige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Prüfung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+[BGB](https://www.gesetze-im-internet.de/bgb/), [Paragraf 93 AktG](https://www.gesetze-im-internet.de/aktg/__93.html), [Paragraf 43 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__43.html), Artikel 82 DSGVO und [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de). EuGH, Urteil vom 04.05.2023, C-300/21, Randnummern 32 bis 51: Datenschutzverletzung allein genügt nicht für Ersatz; keine zusätzliche Erheblichkeitsschwelle für den Schaden. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Kein Urteil über das neue Produkthaftungsrecht. Prüfstand 2. Oktober 2026; [Zitierweise](../../references/zitierweise.md).
 
-## Plugin-Kontext
-Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Normen, Fristen, Belege und Gegenargumente und erzeugt einen unmittelbar nutzbaren nächsten Schritt.
+## 5. Ausgabeformat
 
-## Output-Module
-- Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
+Ausformulierter Abwehrbrief, Deckungsanfrage oder Entscheidungsvermerk nach Auftrag. Anspruchs- und Deckungsvergleich als Anlage ersetzt nicht das bestellte Dokument. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Offene Tatsachen in einer Arbeitsnotiz und nötige Vorbehalte im Empfängertext kenntlich halten.
 
-<!-- BEGIN ausformulierungspflicht (autogen) -->
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-<!-- END ausformulierungspflicht (autogen) -->
+## 6. Beispiele
 
-## Was dieser Arbeitsgang nicht macht
-- Kein Ersatz für eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+Ein Agent bestätigt eine nicht vereinbarte Liefergarantie: Erklärung, Zurechnung und Vertragsrechte prüfen, nicht aus „Halluzination“ Haftungsfreiheit folgern. Ein Angreifer veranlasst einen Werkzeugaufruf: technische Abwehr, Fehlberechtigung und kausalen Schaden prüfen; der Angriff beweist weder automatisch Verschulden noch dessen Fehlen.

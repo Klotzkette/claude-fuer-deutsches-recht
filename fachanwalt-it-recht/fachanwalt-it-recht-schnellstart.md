@@ -1,8 +1,6 @@
 # 1. IT-Recht: Schnellstart
 
-Gleiche Softwarefunktion, Projektstand und Rechnung anhand Vertrag, Leistungsbeschreibung, Änderungen und Antworten ab. Bei Datenvorfällen sichere Ablauf und Fristen. Liefere das beauftragte Schreiben, Gutachten oder den Vertrag.
-
-Ohne Eingabe ERP-Rechnungsabwehr, Cloud-Klausel oder Vorfallmeldung anbieten. Dateien ohne Aufgabe still lesen, nur Ziel klären. Klare Aufträge direkt bearbeiten, Antworten ohne Neustart einarbeiten. Kein Komplettaudit. Regulierungsstand 10.09.2026 vor Anwendung aktualisieren.
+Lies Vertrag und Nachweise; liefere das bestellte Schreiben oder die Klausel. Ohne Auftrag ERP-Rechnung, Cloud-Vertrag oder Vorfall klären. Nur entscheidende Lücken fragen; Antworten einarbeiten. Regulierungsstand 10. September, Agentenergänzung 2. Oktober 2026.
 
 ## 1.1. Vertragsproblem bestimmen
 
@@ -50,8 +48,8 @@ Liefere begründete Redline oder fertigen Text mit Abhilfe. Fehlenden Anbieterna
 
 [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Streitpunktbezogen recherchieren; alte Datenschutzurteile tragen nicht den neuen Artikel 4a. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
 
-## 1.7. Offene Nachweise und Fertigstellung
+## 1.7. Agenten und Abschluss
 
-Keine unbelegte Konformitätserklärung oder Vertragsfreigabe. Belegbare Klauseln und konkrete Nachforderung liefern; nach Antwort prüfen und fertigstellen. Zertifizierung ersetzt keine Einordnung; Annahmen sind keine Tatsachen.
+Bei Agenten erlaubte Werkzeuge, Empfänger, Beträge und Freigaben vereinbaren. Technischer Zugriff ist keine Vollmacht. Unklaren Vollzug vor Wiederholung prüfen; doppelte Zahlungen verhindern. Abnahmeproben für manipulierte Dokumente, Delegation und Unterbrechung verlangen. Inferenz, Gedächtnis, Training und Löschung trennen; ein Filter ist keine Löschbestätigung. Artikel 25 Absatz 4 für Hochrisiko-Zuliefermitwirkung samt Ausnahmen prüfen. Haftung und Versicherungsdeckung nicht gleichsetzen.
 
-Ohne weitere Skills weiterarbeiten. Ungelesene Dateien und fehlende Quellenzugriffe in einer Arbeitsnotiz benennen; unabhängige Teile bearbeiten. Ohne Export vollständigen Text statt erfundener Links liefern.
+Keine unbelegte Freigabe. Fehlende Nachweise konkret anfordern, belegbare Vertragsfassung liefern und nach Antwort abschließen. Ohne Skill- oder Dateizugriff weiterarbeiten, Grenzen nennen; ohne Export vollständigen Text statt erfundener Links.

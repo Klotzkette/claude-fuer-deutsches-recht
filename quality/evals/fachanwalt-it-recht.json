@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "fachanwalt-it-recht",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bgb/__631.html",
@@ -66,7 +66,7 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
+    "reason": "Der Mini knüpft werkvertragliche Rechtsfolgen an den tatsächlich belegten Abnahmestand statt an Go-live oder bloße Vorschussforderung. Individueller Text- und Quellenreview, kein Live-Modelltest. Workflow-Ergänzung einzeln geprüft: Testdaten waren veraltet -> Fehlerursache, Verantwortungsbereich und Abnahmeargument ändern; nachgereichter Nachtrag -> Freigabe und Vergütungsposition getrennt aktualisieren. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
@@ -74,7 +74,7 @@
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "24203d5ed46c0130bd83fce745b4efd54b48bf3062174daf10f86060ce1794ab"
+    "sha256": "2f09d869688f66122e763d788844d58e257c2a7fdf42db77789e1dc857be847e"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -103,6 +103,42 @@
     "target_skill": "erp-abnahme-nachtraege-belegabgleich"
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Einkaufsagent soll nur Bestellungen bis 2000 Euro vorbereiten. Der Vertragsentwurf erlaubt dennoch unbegrenzte Zahlungen und Wiederholung nach Zeitüberschreitung. Der Lieferant nennt einen Ausgabefilter Löschung und lehnt jegliche Unterstützung eines möglicherweise hochriskanten Folgesystems ab. Erstellen Sie verhandlungsfähige Ersatzklauseln und eine kurze Verhandlungsnotiz. Die konkrete Hochrisikoeinstufung ist noch offen; keine Bestellungen oder Änderungen auslösen.",
+      "target_skill": "itr-ki-systeme-vertragsklausel-leitfaden",
+      "input_files": [],
+      "deliverables": [
+        "Ersatzklauseln.docx",
+        "Verhandlungsnotiz.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Trennt technische Zugriffsrechte, rechtsgeschäftliche Zurechnung und zulässige Außenhandlungen; grenzt den Auftrag Vorbereitung von Zahlung ab.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Vereinbart Prüfung unklaren Vollzugs vor Wiederholung, eindeutige Auftragskennung und Abnahmeproben für manipulierte Eingaben statt bloßer Fehlerfreiheit.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Prüft Artikel 25 Absatz 4 mit Voraussetzungen und Ausnahmen, verlangt Lösch- und Exitnachweise und liefert vollständige Klauseln ohne universelle Herstellerhaftung.",
+          "deliverables": [
+            "Ersatzklauseln.docx",
+            "Verhandlungsnotiz.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "erp-pilotbetrieb-migration-dashboard",
       "request": "Wir vertreten die Bestellerin eines ERP-Einführungsprojekts. Erstellen Sie ergebnis.md als Projektvotum mit Zahlungsbrücke und Antwortentwurf. Im B2B-Vertrag vom 01.02.2026 schuldet der Anbieter die funktionsfähige Gesamtimplementierung einschließlich Migration aller Kundendatensätze für 300.000 EUR netto. 240.000 EUR sind als wirksam vereinbarte Abschläge bezahlt; 60.000 EUR werden erst nach Gesamtabnahme fällig. Teilabnahmen des Grundprojekts wurden ausgeschlossen. Am 01.08. begann ausdrücklich nur ein Pilotbetrieb. Die Migration erzeugt weiterhin reproduzierbare Dubletten, entgegen der eindeutigen Vorgabe im Pflichtenheft. Am 10.08. forderte der Anbieter zur Gesamtabnahme bis 24.08. auf; am 12.08. lehnte die Geschäftsführerin schriftlich unter genauer Benennung der Dubletten die Abnahme ab und verlangte deren Beseitigung. Sie will das Projekt mit dem Anbieter fortsetzen. Zusätzlich war ein im Grundumfang nicht enthaltenes Dashboard durch beidseitig von den Geschäftsführern unterschriebenen Nachtrag für 20.000 EUR bestellt worden; dieser sieht eigene Abnahme und Fälligkeit vor. Das Dashboard wurde am 15.08. gesondert mangelfrei abgenommen, eine Zahlung darauf ist nicht erfolgt. Für die Dublettenbereinigung fordert der Anbieter weitere 40.000 EUR. Dazu existiert nur ein Ticket, in dem der IT-Sachbearbeiter der Bestellerin die Fehlerbeschreibung mit 'technisch bestätigt' markiert hat. Vertrag und bekannte Vollmachtsmatrix erlauben diesem Mitarbeiter weder Preiszusagen noch Vertragsänderungen; sonstige Genehmigungen oder Vertrauenstatbestände fehlen. Der Anbieter verlangt nun 120.000 EUR sofort. Für den Fall einer Gesamtabnahme sind erforderliche Kosten der Dublettenbereinigung von 12.000 EUR durch ein beiderseits akzeptiertes Angebot belegt. Kündigung, Vorschussklage und eigenmächtiger Versand sind nicht beauftragt. Beurteilen Sie den aktuellen Stand und erläutern Sie zusätzlich die rechnerische Bedeutung einer späteren wirksamen Gesamtabnahme mit Mängelvorbehalt.",
@@ -152,7 +188,7 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills.",
+    "reason": "Die Werkstatt bindet die allgemeine Werkvertragsrechtsprechung an ERP-Abnahme und Fortsetzung der Zusammenarbeit, ohne spezielle Bau-Nachtragsregeln zu importieren. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Workflow-Ergänzung einzeln geprüft: Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre. 01.10.2026: gezielter amtlicher Quellen- und Textabgleich der zwei Fachgebietsanker; kein neuer Live-Modelltest. ERP-Abnahme-/Nachtrags-Hauptproblem und Fokusskill unverändert: Die Softwareurheber-/Gerätevergütungsfälle tragen deren Kern nicht. Bestehender VII ZR301/13-Anker bleibt. Neue Anker in Lizenz- und Cloud-Fachskills. Ergänzung 2. Oktober 2026: Agentenverträge um Handlungsvollmachten, begrenzte Werkzeuge, Abnahmeproben, unklaren Vollzug, Zuliefermitwirkung und überprüfbaren Exit erweitert. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "VII ZR 301/13 zu Erfüllung, Abnahme und Abrechnungsverhältnis in allen drei Prompts verankert.",
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
@@ -160,7 +196,7 @@
       "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
       "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
     ],
-    "sha256": "83074f9812171feaeb5a92f6922509f25f527c59b6ddc0b75faf13e341623610"
+    "sha256": "cb22e15c6a2d6a66f27b01fedfc86f2bb0115217f5ded8c68e73bf06cfdb1901"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

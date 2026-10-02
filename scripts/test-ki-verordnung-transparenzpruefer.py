@@ -124,7 +124,8 @@ class TransparenzRegression(unittest.TestCase):
 
     def test_workflow_coverage(self):
         cases = {c["id"]: c for c in PROFILE["cases"]}
-        self.assertEqual(len(cases), 15)
+        self.assertEqual(len(cases), 16)
+        self.assertEqual(cases["agenten-digitalrecht-2026"]["target_skill"], "chat-und-telefonhinweise")
         self.assertEqual({c["target_skill"] for c in cases.values()}, {p.parent.name for p in SKILLS})
         complete = cases["ordnerauftrag-bis-enddokument"]
         self.assertEqual({Path(p).name for p in complete["input_files"]}, {p.name for p in ORIGINALS})

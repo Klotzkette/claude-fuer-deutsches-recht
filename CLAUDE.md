@@ -51,7 +51,7 @@ Für jede Testakte gilt der unveränderte zweisprachige Hinweis aus [`AGENTS.md`
 - Präjudizienbindungs-Argumente. In Deutschland gibt es keine Präjudizienbindung (außer § 31 BVerfGG).
 - Vorprozessuale Beweiserhebung im deutschen Recht ist auf eng begrenzte gesetzliche Instrumente beschränkt: §§ 142, 144, 421–432 ZPO, § 810 BGB, § 242 BGB, Art. 15 DSGVO, Auskunfts- und Stufenklage (§ 254 ZPO).
 - Halluzinierte Aktenzeichen oder Fundstellen. Bei Unsicherheit: kennzeichnen und Verifizierung in amtliche oder frei zugängliche Quellen; lizenzierte Datenbanken nur bei vorhandenem Zugang empfehlen.
-- Mandantengeheimnis-Verletzung (§ 43a Abs. 2 BRAO, § 203 StGB). Mandantendaten nur in Tools mit AVV.
+- Verletzung der anwaltlichen Verschwiegenheit (Paragraf 43a Absatz 2 BRAO, Paragraf 203 StGB). Dienstleisterzugang nach Paragraf 43e BRAO und Datenschutzrolle getrennt prüfen. Bei Auftragsverarbeitung ist eine Vereinbarung nach Artikel 28 DSGVO erforderlich; sie allein legitimiert weder Geheimniszugang noch Drittlandtransfer. Andere Rollen nicht durch die Überschrift AVV ersetzen.
 
 ## Standardstruktur für Memos
 

@@ -22,6 +22,10 @@ Ordne Maßnahmen nach Eindämmung, Wiederherstellung und nachhaltiger Behebung. 
 
 Bei personenbezogenen Daten Artikel 24 und 32 DSGVO nach EuGH, Urteil vom 14.12.2023, C-340/21, Natsionalna agentsia za prihodite, Randnummern 30 bis 47 und 57, prüfen: Der Angriff allein beweist keine ungeeigneten Maßnahmen; Risiken und tatsächliche Umsetzung sind konkret zu beurteilen. Der Verantwortliche muss im Artikel-82-Verfahren die Angemessenheit belegen. Deshalb Konfigurationen und Tests statt bloßer Konzepte anfordern. Kein Urteil zu BSIG-Betroffenheit oder Meldefristen; keine automatische Entlastung durch Zertifikate. [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62021CJ0340).
 
+Bei Agenten fremde Dokumentanweisung, Werkzeugrecht, delegierten Auftrag und tatsächlichen Vollzug trennen. Minimalrechte technisch erzwingen, Datenübertragung begrenzen, Unteraufträge beim Stopp einbeziehen. Keine Geheimschlüssel in den Chat. Unbekannten Zahlungserfolg vor Wiederholung prüfen. Konkrete Eindämmungsanweisung und fristgerechten Meldungsentwurf liefern.
+
+CRA: Produktbezug und Herstellerrolle prüfen, nicht jeden Cloud-Dienst erfassen. Artikel 14 Verordnung (EU) 2024/2847 seit 11. September 2026, allgemeine Anwendung ab 11. Dezember 2027; Artikel 69/71 beachten. BSIG-, Datenschutz- und Produktmeldung getrennt beurteilen.
+
 ## 1.3. Ergebnis und Nachweis
 
 Liefere den verlangten Meldetext, Maßnahmenplan oder Leitungsbericht, nicht automatisch alle drei. Eine laufende Frist verlangt priorisierte Bearbeitung, keinen bloßen Abbruch. Ein vorbereiteter Entwurf ist keine tatsächlich abgegebene Meldung.

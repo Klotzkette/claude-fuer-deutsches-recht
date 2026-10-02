@@ -46,13 +46,23 @@ Eine begründete Ausnahme wird vom Anbieter vor dem Inverkehrbringen oder der In
 
 ## 4 Beschäftigtenhandlung und Unternehmensrolle
 
-### 4.1 Nicht freigegebener Chatbot
+### 4.1 Agentenkette und organisatorische Übernahme
+
+Bei arbeitsteiligen Agenten den tatsächlichen Gesamtprozess untersuchen: Wer extrahiert, bewertet, filtert, schreibt ins Fachsystem und löst eine Absage aus? Ein nur vorbereitendes Teilmodul macht die zusammenwirkende Anwendung nicht insgesamt zur Ausnahme nach Artikel 6 Absatz 3. Umgekehrt ist nicht jeder autonome Assistent ohne einschlägigen Zweck ein Hochrisikosystem. Begründen Sie Systemgrenze und Zweck anhand Version, Konfiguration und gelebtem Ablauf.
+
+Neue Werkzeuge oder Gedächtnisfunktionen können die Risiken und Zweckverwendung ändern, lösen aber nicht automatisch Artikel 25 aus. Benennen Sie Änderung, Handelnden und Tatbestandsmerkmal. Modellanbieter, Anwendungsanbieter, Betreiber und Datenschutzverantwortlicher nicht gleichsetzen. Eigenständige technische Planung erzeugt keinen rechtsfähigen Agenten als Ersatzverantwortlichen.
+
+Eine Aufsicht muss relevante Unterlagen sehen, das Ergebnis verstehen und rechtzeitig eingreifen können. Ein später erreichbarer Stoppschalter heilt keine bereits versandte automatische Absage. Artikel 22 DSGVO einschließlich Ausnahmen zusätzlich prüfen; Artikel 14 und 26 der KI-Verordnung ersetzen diese Prüfung nicht. Automatische Protokolle sollen Ereignisse, Version, Entscheidung und Freigabe nachvollziehbar machen, nicht unbegrenzt jede interne Modellüberlegung sammeln.
+
+Erstellen Sie eine ausführbare Betriebsregel: begrenzte Werkzeugrechte, bestätigte Empfänger, Freigabe vor irreversibler Handlung, Abbruch sämtlicher Unteraufträge und Prüfung unklarer Ausführung vor Wiederholung. Prüfen Sie voraussehbare Fehlanwendung nach Artikel 9 und technische Manipulationspfade nach Artikel 15, soweit anwendbar. Eine Richtlinie allein beweist keine funktionierende Zugriffssperre. Fehlende Tests führen zu einer konkreten Nachforderung und vorläufig begrenzten Nutzung, nicht zum Abbruch der Dokumentarbeit.
+
+### 4.2 Nicht freigegebener Chatbot
 
 Ein eigenmächtiger Upload durch einen Beschäftigten ist von einer angeordneten und integrierten Auswahlroutine zu unterscheiden. Prüfen Sie dienstliche Aufgabe, Weisungen, tatsächliche Kontrolle, Kenntnis der Leitung, Wiederholung und Ergebnisübernahme. Ein Beschäftigter handelt nicht allein wegen eines privaten Kontos außerhalb jeder Unternehmensverantwortung. Ein interner Verstoß verändert aber auch nicht automatisch den allgemeinen Verwendungszweck sämtlicher Instanzen eines Universalprodukts. Das Ergebnis ist fallbezogene Subsumtion aus Artikeln 3, 6 und 25, keine gerichtlich feststehende Bereichsausnahme.
 
 Ermitteln Sie konkret, ob die Leitung nach Kenntnis nur den Vorfall untersuchen ließ oder den Prompt für weitere Stellen übernahm. Eine nachträgliche E-Mail kann für eine Prozessintegration sprechen, ohne die frühere Handlung rückwirkend zur vorherigen Freigabe zu machen. Beschreiben Sie getrennte Zeitabschnitte. Unbelegte Absicht nicht aus der bloßen Speicherung einer Datei ableiten. Datenexport, wiederverwendbare Vorlage, Zugriff mehrerer Teammitglieder und Übernahme in das Bewerbermanagement sind aussagekräftigere Anknüpfungspunkte.
 
-### 4.2 Rollenwechsel nach Artikel 25
+### 4.3 Rollenwechsel nach Artikel 25
 
 Prüfen Sie gesondert eigenes Kennzeichen, wesentliche Änderung eines bereits hochriskanten Systems und Zweckänderung eines zuvor nicht hochriskanten Systems hin zu einer Hochrisikoverwendung. Benennen Sie den Rechtsträger und die Handlung, die den jeweiligen Tatbestand erfüllen soll. Die Beschaffung eines Standardprodukts macht den Arbeitgeber nicht ohne Weiteres zum Anbieter. Eine selbst eingerichtete Auswahlfunktion kann dagegen zusätzliche Anbieterfragen auslösen. Anbieterverbote und Kooperationspflichten nach Artikel 25 Absätze 2 und 4 in geänderter Fassung getrennt prüfen; ein vertragliches Verbot verhindert nicht automatisch eine tatsächlich erfolgte Umwidmung.
 

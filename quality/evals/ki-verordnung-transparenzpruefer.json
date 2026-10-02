@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-verordnung-transparenzpruefer",
-  "reviewed_on": "2026-09-30",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {"url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj", "checked_on": "2026-09-28", "supports": "Artikel 3 Nummern 3, 4, 34, 39, 40 und 60; Artikel 5; unveränderte Artikel-50-Absätze 1 bis 5, getrennte Anbieter- und Betreiberpflichten. Mit amtlicher Anzeige und Änderungsakt abgeglichen, nicht isoliert als aktueller Gesamtstand verwendet."},
     {"url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32026R1744", "checked_on": "2026-09-30", "supports": "Amtlich indexierter Normtext: Artikel 111 Absatz 4 verlangt vor 02.08.2026 in Verkehr gebrachte Systeme; keine Ausdehnung auf bloße interne Inbetriebnahme aufgrund der weiter gefassten Leitlinien-Randnummer 153. Übergang bis 02.12.2026 nur für Anbieterpflicht 50 Absatz 2. Frühere Prüfung: Inkrafttreten 27.07.2026 und Artikel 4a Bias-Daten, keine Deepfake-Ausnahme."},
@@ -13,15 +13,15 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Eigenständig überarbeiteter Mini mit Randnummern aus dem finalen Leitlinientext, konkreten Kommunikationswegen und engen Ausnahmen; redaktioneller Quellenreview, kein Live-Modelltest.",
+    "reason": "Eigenständig überarbeiteter Mini mit Randnummern aus dem finalen Leitlinientext, konkreten Kommunikationswegen und engen Ausnahmen; redaktioneller Quellenreview, kein Live-Modelltest. Ergänzung 2. Oktober 2026: Agentenkommunikation mit tatsächlichem Auftraggeber, Vertretungsmacht und Datenschutzinformation abgeglichen; reine Werkzeugkommunikation und erhebliche Entscheidungen getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": ["E-Mail-Agent und tatsächlich menschlich versandte Antwort getrennt.", "Markierung plus Detektionsweg, technische Ausnahmen und interne Rechtsgutachten abgegrenzt.", "Realistische erfundene Sprecher, öffentliche Texte und erneute qualifizierte Freigabe eingeordnet.", "Altinhalte gesondert von der Anbieterübergangsfrist behandelt; Auftrag bis zum fertigen Dokument fortgeführt."],
-    "sha256": "7a08a5073a181c0ac9a6fdfe9ce3cc707bf8fea20036d561d3a96a3f6fee3b51"
+    "sha256": "befaa6b4216ea0e781bcb76f83c91095947ac8565168b6c47b581dd5e4029fb4"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die finalen Leitlinien wurden absatzweise in den vorhandenen Kanzleiablauf eingearbeitet, mit konkreten Nachweisen und Endprodukten. Juristischer Quellen- und Workflowreview, keine behauptete Live-Ausführung durch ein Modell.",
+    "reason": "Die finalen Leitlinien wurden absatzweise in den vorhandenen Kanzleiablauf eingearbeitet, mit konkreten Nachweisen und Endprodukten. Juristischer Quellen- und Workflowreview, keine behauptete Live-Ausführung durch ein Modell. Ergänzung 2. Oktober 2026: Agentenkommunikation mit tatsächlichem Auftraggeber, Vertretungsmacht und Datenschutzinformation abgeglichen; reine Werkzeugkommunikation und erhebliche Entscheidungen getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": ["B2B- und Echtzeitausnahmen eng an Randnummern 87 und 88 gebunden.", "Detektionsweg und menschenlesbares Prüfergebnis neben der Markierung verlangt.", "Realistische erfundene Sprecher sowie Hinweiswahrnehmung bei Clips und späterem Einstieg ergänzt.", "Neue Endprüfung kann die Textausnahme wieder tragen; generelles internes Privileg ausgeschlossen.", "Normwortlaut des Artikels 111 Absatz 4 hat Vorrang vor weiter gefasster Leitlinien-Randnummer 153."],
-    "sha256": "84512f144aeb096555430486f75d5a951267e025099e669ca0ae35ca31e72e43"
+    "sha256": "ab8d1d93cf5d2359e13643e72e5fa8bcea66c40d79754bf125f6985d20e5aa9e"
   },
   "selection": {
     "positive": [
@@ -36,6 +36,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Unternehmen lässt Kundenanfragen durch einen Agenten beantworten. Einige Nachrichten lehnen Kreditverlängerungen ohne vorherige menschliche Prüfung ab; andere sind rein interne API-Aufrufe. Ein Mitarbeiter schlägt den Hinweis 'digitaler Service, rechtsverbindlich bevollmächtigt' vor, ohne dass eine Vollmacht belegt ist. Entwerfen Sie einen passenden Kanalhinweis und einen internen Vermerk über die offenen Voraussetzungen. Nichts veröffentlichen.",
+      "target_skill": "chat-und-telefonhinweise",
+      "input_files": [],
+      "deliverables": [
+        "Kanalhinweis.docx",
+        "Interner_Vermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Prüft Artikel 50 Absatz 1 für menschliche Interaktion, nicht unterschiedslos für interne Werkzeugkommunikation.",
+          "deliverables": [
+            "Kanalhinweis.docx",
+            "Interner_Vermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Erfindet keine Vollmacht und ersetzt die Dateninformation nach Artikeln 13/14 nicht durch den Agentenhinweis.",
+          "deliverables": [
+            "Kanalhinweis.docx",
+            "Interner_Vermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Prüft Artikel 22 zusätzlich für erhebliche automatische Ablehnungen; Transparenz heilt keine fehlende Zulässigkeit und der Kanalhinweis bleibt konkret verständlich.",
+          "deliverables": [
+            "Kanalhinweis.docx",
+            "Interner_Vermerk.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "beschaeftigter-und-altprodukt",
       "target_skill": "rollen-und-anwendungsdatum",

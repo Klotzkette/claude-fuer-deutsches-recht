@@ -26,6 +26,14 @@ Bestehende Folgenabschätzung, Zweckbeschreibung, Datenfluss, Anbieterinformatio
 9. Zuständige Datenschutzaufsicht und Systemaufsicht getrennt benennen. KI-MIG: Bundesnetzagentur als Auffangbehörde, sektorale und Länderzuständigkeiten nach Paragraf 2; EU-Sonderaufsicht gegebenenfalls vorrangig. Nicht alle Unterlagen an jede Stelle versenden.
 10. COM(2025) 837 und COM(2025) 501 nur als Reformspur führen. Vorbereitungen auf Änderungen gesondert kennzeichnen; die bestehende Freigabe nicht auf vorgeschlagene Erleichterungen stützen.
 
+### 3.1. Agentenhandlungen in die Folgenabschätzung aufnehmen
+
+Bei Agenten nicht beim Modell stehen bleiben: Sitzungsspeicher, dauerhaftes Gedächtnis, externe Wissenssuche, Werkzeugaufrufe, Delegation und tatsächlich ausgelöste Entscheidung verfolgen. Für jeden Zweck Rechtsgrundlage und Datenminimum bestimmen. Artikel 6 Absatz 1 Buchstabe f verlangt Zweck, Erforderlichkeit und Abwägung; geschützte Technik verbessert die Abwägung, ersetzt aber nicht ihren Tatbestand. Sensible Daten gesondert nach Artikel 9 prüfen.
+
+Beschreibe einen konkreten Schadensweg, etwa automatische Bewerberabsage nach fremder Anweisung in einem Lebenslauf oder Übertragung einer Kundenakte an einen ungeprüften Werkzeugdienst. Rechte außerhalb des Modells begrenzen, Daten und Handlungsanweisungen trennen, wirksame Unterbrechung einschließlich Unteraufträgen und Freigabe vor irreversiblen Aktionen vorsehen. Belegte Tests von bloßen Zusagen unterscheiden.
+
+Menschliche Kontrolle braucht relevante Informationen, Zeit, Befugnis und einen Zeitpunkt vor der erheblichen Wirkung, wenn dadurch Artikel 22 Absatz 1 vermieden werden soll. Gesetzliche Ausnahmen und Garantien gesondert prüfen. Folgenabschätzung bei neuem Werkzeug oder verändertem Risiko nach Artikel 35 Absatz 11 aktualisieren. Nicht jeden Modellwechsel als automatisch neue Gesamtprüfung behandeln. Liefere den geänderten Vermerk und die betroffene konkrete Betriebsregel zusammen.
+
 ## 4. Quellenpflicht
 
 Artikel 22, 30, 35 und 36 der Datenschutz-Grundverordnung; Artikel 4, 4a, 26, 27, 111 und 113 der Verordnung (EU) 2024/1689; [Rechtsstand und Zuständigkeitskarte](../../references/digitaler-omnibus-2026.md). Fundstelle, Fassungsdatum und tatsächlichen Anwendungsfall zusammen angeben.

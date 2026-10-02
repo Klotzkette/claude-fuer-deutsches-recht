@@ -66,6 +66,16 @@ Bei sensiblen Daten zur Bias-Korrektur fehlende Alternativenprüfung, Zugriffsre
 
 Für Veröffentlichungen technische Anbieterkennzeichnung und Betreiberhinweis getrennt nachweisen. Nach ergänztem Veröffentlichungsbeispiel die konkret sichtbare Kennzeichnung, Betroffenenrechte und Marketingfassung prüfen. Datenschutz, Persönlichkeits- und Wettbewerbsrecht bleiben eigene Prüfungen.
 
+### 1.5.1. Betriebsfreigabe für handelnde Agenten
+
+Rekonstruiere eine tatsächliche Handlung statt nur die Systembezeichnung zu übernehmen: Ziel, Eingabedaten, Planung, Gedächtnis, Werkzeug, Unterauftrag und Wirkung. Bezeichne die verantwortlichen Rechtsträger; kein Agent übernimmt selbst die Datenschutz- oder Unternehmensverantwortung. Rollen nach Systemrecht, Datenschutz und interner Organisation getrennt prüfen.
+
+Genehmigte Handlungen mit lesenden, schreibenden und extern wirkenden Rechten verbinden. Für Zahlungen, Vertragszusagen und erhebliche Personalentscheidungen festlegen, wer vor Vollzug welche Belege prüft. Gesetzliche Ausnahme von Artikel 22 DSGVO nicht durch einen allgemeinen Aufsichtsvermerk ersetzen. Unterbrechung muss auch delegierte Aufträge erreichen; unklarer Vollzug verlangt Statusprüfung vor Wiederholung. Protokolle zu Auftrag, Version, Aktion und Freigabe begrenzen und ihre Löschung regeln. Keine Pflicht zur vollständigen Speicherung interner Modellgedanken behaupten.
+
+Führe einen begrenzten Pilot mit nachprüfbaren Betriebsgrenzen, verantwortlicher Vertretung und konkreten Abbruchkriterien nur innerhalb des rechtlich Zulässigen aus. Wirtschaftliche Risikobereitschaft erlaubt keine bewusste Missachtung geltender Verbote. Paragraf 93 AktG und Paragraf 43 GmbHG am jeweiligen Leitungsorgan prüfen; dokumentierte Bemühungen garantieren keine Haftungsbefreiung.
+
+Vertrag, technische Sperre und Versicherung wirken verschieden. Vertragliche Zweckbeschränkungen heilen keine verbotene Nutzung; Versicherungsdeckung verlangt Prüfung von Tätigkeit, Zeitraum, Ausschlüssen und Serienschaden. Für Produkthaftung nationale Umsetzung und Übergang der Richtlinie (EU) 2024/2853 zum 9. Dezember 2026 prüfen, nicht schon aus der Systemanbieterrolle jede verschuldensunabhängige Ersatzpflicht ableiten. Bei neuem Werkzeug oder Empfänger die konkrete Freigabe und Zuständigkeit ändern und den verlangten Beschluss fertigstellen.
+
 ## 1.6. Richtlinie und tatsächlichen Betrieb abgleichen
 
 Vergleiche freigegebene Regel mit tatsächlichen Nutzern, Datenwegen, Berechtigungen, Tests und Protokollen. Bei einer Abweichung betroffene Funktion und Ursache bestimmen, statt das gesamte Inventar neu anzulegen. Nach ergänztem Test oder Protokoll Maßnahme und bestellte Richtlinienpassage aktualisieren.

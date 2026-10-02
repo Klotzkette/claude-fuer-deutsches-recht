@@ -26,6 +26,12 @@ Erstelle eine Abnahmeprobe: frischer Chat, direkter Telefonanruf, Weiterleitung 
 
 Ergänze nach Randnummern 34 bis 40 voraussehbare Kinder, ältere Menschen und Personen mit Behinderungen sowie lange oder sensible Rechtsberatungsgespräche. Ein klarer Anfangshinweis genügt häufig; bei Rollenwechsel, Verwechslung oder besonderem Schutzbedarf begründet wiederholen, nicht mechanisch vor jeder Antwort. Eine erneute Sitzung mit einem anderen Nutzer darf den Hinweis nicht durch ein fremdes altes Bestätigungshäkchen verlieren. Ein Signalton, ein Website-Fußtext oder „LLM“ allein vermittelt den künstlichen Gesprächspartner nicht verständlich.
 
+### 3.1. Agentenhinweis mit Dateninformation abstimmen
+
+Bei Agentenkommunikation künstlichen Gesprächspartner, tatsächlichen Auftraggeber und erreichbaren menschlichen Kontakt unterscheiden. Eine Nennung des Auftraggebers begründet keine Vollmacht. Datenschutzinformation nach Artikeln 13 und 14 DSGVO muss zusätzlich die konkrete Verarbeitung abbilden; Artikel 50 ersetzt weder Rechtsgrundlage noch diese Information. Ein reiner interner Werkzeugaufruf ohne Interaktion mit natürlichen Personen ist nicht allein Absatz 1, kann aber Daten- und Sicherheitsprüfungen verlangen.
+
+Wenn die Nachricht eine erhebliche automatische Entscheidung mitteilt, Entscheidungskette und Artikel 22 zusätzlich prüfen. Der Hinweis „automatisch erstellt“ legitimiert keine unzulässige Ablehnung. Liefere neben dem Kanalhinweis nur die für diesen Fall erforderliche Dateninformation oder gezielte Nachforderung, keinen pauschalen Datenschutztext.
+
 ## 4. Quellenpflicht
 
 Artikel 50 Absätze 1 und 5; [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 2, 3.1 und 3.5, sowie [Zitierweise](../../references/zitierweise.md). Anbieterpflicht, freiwillige Serviceinformation und Datenschutztext getrennt halten.

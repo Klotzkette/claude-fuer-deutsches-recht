@@ -10,6 +10,8 @@ Ohne Eingabe biete „Systemfreigabe entscheiden“, „menschliche Aufsicht reg
 
 Bestimme Systemfunktion, Geschäftsprozess, Betroffene und verantwortlichen Leiter. Trenne Anbieterpflicht, Betreiberpflicht und Datenschutzverantwortlichkeit. Bei Fremdsoftware Informationszugang, Veränderungsrechte und tatsächliche Konfiguration prüfen. Liefere den verlangten Vorstandsbeschluss, Freigabevermerk oder Maßnahmenplan.
 
+Agenten: Gedächtnis, Werkzeuge, delegierte Aufträge und Außenwirkung erfassen. Rechte technisch begrenzen; vor irreversiblen Aktionen Freigabe, bei unklarem Vollzug Statusprüfung statt blinder Wiederholung. Ein Stoppschalter muss Unteraufträge erreichen. Wirtschaftliche Risikobereitschaft erlaubt keine Missachtung geltender Verbote. Entscheidung und konkrete Betriebsregel zusammen liefern.
+
 ## 1.2. Risikoweg und Termine
 
 Artikel 5 tatbestandsbezogen prüfen; Zertifizierung und Kennzeichnung heilen kein Verbot. Neue Buchstaben ba und bb sowie Absätze 1a und 1b zu bestimmten intimen Inhalten und Missbrauchsdarstellungen gelten ab 2. Dezember 2026. Anbieterzweck beziehungsweise vorhersehbare reproduzierbare Erzeugung ohne angemessene Schutzmaßnahmen von gezielter Betreiberverwendung trennen.

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-vo-ai-act-pruefer",
-  "reviewed_on": "2026-09-30",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://ec.europa.eu/newsroom/dae/redirection/document/131215",
@@ -41,14 +41,14 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Ergänzung am 30.09.2026: Finale Artikel-50-Leitlinien mit automatischer Kommunikation, Anbieterkennzeichnung, Deepfake-/Textabgrenzung und Inhaltsdaten in den eigenständigen Mini eingearbeitet. Die frühere Bonitätsprüfung bleibt erhalten. Individueller Text- und Quellenreview, kein Live-Modelltest.",
+    "reason": "Ergänzung am 30.09.2026: Finale Artikel-50-Leitlinien mit automatischer Kommunikation, Anbieterkennzeichnung, Deepfake-/Textabgrenzung und Inhaltsdaten in den eigenständigen Mini eingearbeitet. Die frühere Bonitätsprüfung bleibt erhalten. Individueller Text- und Quellenreview, kein Live-Modelltest. Ergänzung 2. Oktober 2026: Agentische Entscheidungsketten anhand von Zweck, tatsächlichem Einfluss und menschlicher Kontrolle ergänzt; Artikel 22 und Hochrisikoeinstufung bleiben getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Finale Artikel-50-Leitlinien mit eigenständigen Kommunikationswegen, engen Ausnahmen und gesonderten Inhaltsdaten ergänzt; Quellenreview am 30.09.2026.",
       "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
       "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
     ],
-    "sha256": "8a6c71b3ac08d4cbeaae1a4dd48cef897cf28a9d73c3c9ce8a607b5549520be1"
+    "sha256": "9f8a8036d9e4c43508b4cebbd15a55cde7782d2c3761c825f33739bd52a50662"
   },
   "selection": {
     "positive": [
@@ -61,6 +61,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Agent bewertet Kreditanträge, zeigt einem Sachbearbeiter nur fünf positive Fälle und versendet alle übrigen Ablehnungen automatisch. Die Bank verweist auf Artikel 6 Absatz 1 Buchstabe f DSGVO und einen jederzeit erreichbaren Not-Aus. Ein Betroffener verlangt eine Erklärung; der Anbieter beruft sich auf Geschäftsgeheimnisse. Verfassen Sie einen Entscheidungsvermerk und eine verständliche Betroffenenantwort. Fehlende tatsächliche Gründe nicht erfinden und nichts versenden.",
+      "target_skill": "automatisierte-entscheidung-dsgvo-art-22",
+      "input_files": [],
+      "deliverables": [
+        "Entscheidungsvermerk.docx",
+        "Betroffenenantwort.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Prüft die gesamte Entscheidungswirkung und den Zeitpunkt tatsächlicher menschlicher Kontrolle; Not-Aus und Artikel 6 Absatz 1 Buchstabe f ersetzen keine Ausnahme nach Artikel 22 Absatz 2.",
+          "deliverables": [
+            "Entscheidungsvermerk.docx",
+            "Betroffenenantwort.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Ordnet C-634/21 der maßgeblichen Entscheidungsvorbereitung und C-203/22 der nachvollziehbaren Erklärung samt Geheimnisabwägung zu, nicht der Hochrisikoklassifikation.",
+          "deliverables": [
+            "Entscheidungsvermerk.docx",
+            "Betroffenenantwort.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Liefert beide ausformulierten Dokumente mit konkret offenen Tatsachen und setzt nach Antworten dort fort, ohne eine unzulässige Ablehnung freizugeben.",
+          "deliverables": [
+            "Entscheidungsvermerk.docx",
+            "Betroffenenantwort.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "artikel-50-rollenwechsel-und-endkontrolle",
       "target_skill": "begrenztes-risiko-art-50-transparenzpflichten",
@@ -109,14 +145,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Die Werkstatt nutzt den SCHUFA-Maßstab nur für die parallele Datenschutzprüfung; Ausnahme für Betrugserkennung und zeitliche Anwendung bleiben eigenständig. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage.",
+    "reason": "Die Werkstatt nutzt den SCHUFA-Maßstab nur für die parallele Datenschutzprüfung; Ausnahme für Betrugserkennung und zeitliche Anwendung bleiben eigenständig. Die bezeichneten Anker wurden am amtlichen Entscheidungstext geprüft; keine pauschale Vollverifikation aller Nebenmaterien. Individueller Workflow-Durchgang am 23.09.2026: Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage. Ergänzung 2. Oktober 2026: Agentische Entscheidungsketten anhand von Zweck, tatsächlichem Einfluss und menschlicher Kontrolle ergänzt; Artikel 22 und Hochrisikoeinstufung bleiben getrennt. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Abschnitt 1.3.5 wendet die finalen Artikel-50-Leitlinien auf konkrete Kommunikation, Detektion und Inhaltsdaten an; Quellenreview am 30.09.2026.",
       "Operativen C-634/21-Anker in die Kredit-/Entscheidungsprüfung eingebaut.",
       "Gliederung und Kurzfassung auf die Einstufung statt allgemeinen Rechtsweg ausgerichtet.",
       "Funktionsbezogene Rollenprüfung, belastender Gegenbefund bei Scoring, vollständiger Veröffentlichungshinweis und versionsbezogene Nachforderung statt pauschaler Konformitätszusage."
     ],
-    "sha256": "e05d8e365fc0d7bf898f53918ecde6e2170ad5944b12217f9a42a7218c8ba524"
+    "sha256": "ba366308f58f1be9fa14f9b25d4a3b8da449d49a7fa25ce2f914755bf755ae60"
   },
   "prompt_editorial_review": {
     "date": "2026-09-30",

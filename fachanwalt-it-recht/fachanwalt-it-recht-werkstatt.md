@@ -76,19 +76,31 @@ Bei Verhandlungen unterscheiden sich Vorvertrag, laufende Leistung, Beendigung u
 
 ## 1.8. Systemverträge und Konformität nach dem Omnibus
 
-### 1.8.1. Neue Termine in Beschaffung und Leistungsbeschreibung
+### 1.8.1. Agentenleistungen vertraglich messbar machen
+
+Bei handelnden Systemen nicht nur Antwortqualität vereinbaren. Modell, Orchestrierung, Gedächtnis, Werkzeuge und ausführende Dienste abgrenzen. Zulässigen Geschäftsprozess mit Daten, Empfängern, Beträgen, Freigaben und Abbruchbedingungen beschreiben. Technischer Zugang ist keine rechtsgeschäftliche Vollmacht; automatisierte Erklärungen und Vertretungsmacht nach Paragrafen 164 folgende BGB gesondert würdigen. Vertragspartner bleibt ein Rechtsträger, nicht der Agent.
+
+Abnahmeproben müssen die zugesagte Handlungskette erfassen: manipuliertes Dokument, unerwartete Werkzeugantwort, nicht erlaubter Empfänger, Zeitüberschreitung und unbekannter Vollzug. Vereinbare eindeutige Auftragskennung und Statusabgleich, damit Wiederholungen keine doppelten Zahlungen auslösen. Bei irreversiblen Aktionen Zustimmung vor Ausführung; Notabschaltung einschließlich delegierter Aufträge und Vertretung der Aufsicht regeln. Technische Wirksamkeit anhand Tests nachweisen, nicht aus „sicherer Prompt“ folgern.
+
+Inferenz, Diagnose, Training und fallübergreifende Speicherung getrennt beauftragen. Datenrollen folgen tatsächlicher Zweckentscheidung, nicht dem Systemrollenetikett. Artikel 28 und Kapitel V DSGVO auch für Werkzeugdienste, Support und Unterauftragnehmer prüfen. Vertragsende muss Exporte, Protokollzugang, Ende offener Aufträge, Schlüsselwiderruf und Löschung verbinden. Eine Filterregel, die Daten nur nicht mehr anzeigt, nicht als Löschbestätigung akzeptieren.
+
+Bei Hochrisiko-Zulieferung Artikel 25 Absatz 4 samt Ausnahmen prüfen und Informationszugang, Testhilfe, Versionsmitteilung und Vorfallunterstützung konkret vereinbaren. Ein Verbot der Zweckänderung verteilt nicht beliebig die gesetzliche Anbieterrolle. Gesetzliche Pflicht, zugesagte Mehrleistung und interne Freistellung getrennt kennzeichnen. Bei Haftung Fehler, Kausalität, Schaden und Beweislast je Anspruch prüfen; Paragrafen 276 Absatz 3, 307 und 310 BGB für Begrenzungen berücksichtigen.
+
+Die [Richtlinie (EU) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj?locale=de) nicht vorweg als unmittelbar anwendbare deutsche Haftungsnorm einsetzen. Nationale Umsetzung und zeitliche Zuordnung zum 9. Dezember 2026, Hersteller-/Ändererrolle und erfasste Schadensarten prüfen. Keine verschuldensunabhängige Deckung jedes reinen Vermögensschadens versprechen. Nach Lieferantenantwort die betroffene Klausel fertig ausformulieren; nicht mit dem Risikovermerk enden, wenn eine Vertragsfassung bestellt ist.
+
+### 1.8.2. Neue Termine in Beschaffung und Leistungsbeschreibung
 
 Rechtsstand 10. September 2026: Verordnung (EU) 2026/1744 ändert die Verordnung (EU) 2024/1689 verbindlich. Artikel 113 verschiebt Kapitel III Abschnitte 1 bis 3 außer Artikel 6 Absatz 5: Anhang III ab 2. Dezember 2027, Anhang I ab 2. August 2028. Artikel 111 für Bestand und erhebliche Konzeptionsänderung ergänzen. Lieferantenfristen, Abnahmevoraussetzungen und Nachweispläne konkret ändern; keine Aussetzung bereits geltenden Datenschutz- oder Produktrechts behaupten.
 
 Artikel 43 verlangt bei Anhang III Nummer 1 die Prüfung der Voraussetzungen für interne Kontrolle nach Anhang VI oder notifizierte Stelle nach Anhang VII. Nummern 2 bis 8 grundsätzlich intern kontrollieren; keine allgemeine Zertifizierungspflicht für kritische Infrastruktur. Bei Abschnitt-A-Produkten gilt das integrierte Produktverfahren mit seiner verfügbaren Verfahrenswahl. Maschinen stehen nun in Anhang I Abschnitt B: Artikel 2 Absatz 2 und Maschinenrecht zuerst abgrenzen. Neue Artikel-6-Absätze 1a bis 1c zum Sicherheitsbezug beachten.
 
-### 1.8.2. Rechte und Mitwirkung konkret verhandeln
+### 1.8.3. Rechte und Mitwirkung konkret verhandeln
 
 Artikel 25 bei Rollenwechsel nicht durch bloße Vertragsüberschrift abbedingen. Dokumentationszugang, Versionen, wesentliche Änderung, Anbieterunterstützung, Datenzugang und Vorfallinformation in überprüfbare Klauseln übersetzen. Ein ISO-Zertifikat ersetzt weder den gesetzlichen Bewertungsweg noch den konkreten Nachweis.
 
 Artikel 4 verlangt Kompetenzförderung ohne individuelle Niveaugarantie. Artikel 4a ersetzt Artikel 10 Absatz 5 für sensible Bias-Daten: passenden Absatz, zusätzliche Bedingungen, strikte Notwendigkeit, fehlende gleich wirksame Alternativen, dokumentierte geschützte Zugriffe, keine Weitergabe und früheste Löschung prüfen. Kein allgemeines Anbietertraining an Kundendaten erlauben, nur weil der Vertrag „Qualitätssicherung“ sagt.
 
-### 1.8.3. Transparenz, Datenschutz und Behörden
+### 1.8.4. Transparenz, Datenschutz und Behörden
 
 Deepfakes gehören zu Artikel 50 Absatz 4, nicht Artikel 4a. Technische Anbieterkennzeichnung nach Absatz 2 getrennt halten. Grundsätzlich seit 2. August 2026; nur Altanbieter vor diesem Datum vermarkteter Systeme erhalten nach Artikel 111 Absatz 4 bis 2. Dezember 2026 für Absatz 2 Zeit. Neue Verbote nach Artikel 5 Buchstaben ba und bb gelten ab 2. Dezember 2026.
 

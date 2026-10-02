@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "nis2-cybersecurity-compliance",
-  "reviewed_on": "2026-09-23",
+  "reviewed_on": "2026-10-02",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
@@ -46,13 +46,13 @@
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Mini vollständig erneut im Desk Review gelesen: Betroffenheit, Meldung und Leitungsbericht als konkrete Einstiege; frühere Kenntnis und begrenzter Wiederherstellungstest ändern die betroffenen Dokumente. Kein Live-Modelltest.",
+    "reason": "Mini vollständig erneut im Desk Review gelesen: Betroffenheit, Meldung und Leitungsbericht als konkrete Einstiege; frühere Kenntnis und begrenzter Wiederherstellungstest ändern die betroffenen Dokumente. Kein Live-Modelltest. Ergänzung 2. Oktober 2026: Agentenspezifische Angriffsketten, weiterlaufende Unteraufträge und sichere Wiederaufnahme ergänzt; aktuelles BSIG und gestaffelte CRA-Anwendung statt veralteter Pauschalverweise. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
       "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
       "Stille Unterlagensichtung, sofortige Bearbeitung klarer Meldeaufträge und pfadbezogene Fortsetzung ohne vorausgesetzten Systemzugriff ergänzt."
     ],
-    "sha256": "689aa5acbaff43cac877c900894f3f3a21cbe864dd8060f0f80e481e7ec4177c"
+    "sha256": "65bc76b3862a5f9b772fa223c63610ea1218c3043eb0903ace6373ffc88c5003"
   },
   "selection": {
     "positive": [
@@ -65,6 +65,42 @@
     ]
   },
   "cases": [
+    {
+      "id": "agenten-digitalrecht-2026",
+      "request": "Ein Lieferanten-PDF hat einen Agenten zur Weiterleitung von Kundendaten an eine fremde Adresse veranlasst. Der Hauptprozess wurde gestoppt, drei Unteraufträge laufen weiter. Der Übertragungserfolg ist ungeklärt. Die Leitung fordert sofortige Löschung aller Protokolle und eine Wiederholung der letzten Zahlung. Entwerfen Sie eine begrenzte Eindämmungsanweisung und einen Meldevermerk; Unternehmensgröße, Betroffenheit nach BSIG und Produktrolle sind noch offen.",
+      "target_skill": "ki-tools-shadow-it",
+      "input_files": [],
+      "deliverables": [
+        "Eindaemmungsanweisung.docx",
+        "Meldevermerk.docx"
+      ],
+      "criteria": [
+        {
+          "id": "pruefpunkt-1",
+          "text": "Behandelt fremden Dokumentinhalt nicht als autorisierte Weisung und bezieht Unteraufträge, Zugangsschlüssel und Beweissicherung ein; unbekannter Erfolg gilt nicht als abgewehrt.",
+          "deliverables": [
+            "Eindaemmungsanweisung.docx",
+            "Meldevermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-2",
+          "text": "Prüft BSIG-Betroffenheit und konkrete Meldetatbestände statt pauschaler Meldung; trennt 24/72 Stunden und Abschlussbericht sowie Datenschutz und CRA.",
+          "deliverables": [
+            "Eindaemmungsanweisung.docx",
+            "Meldevermerk.docx"
+          ]
+        },
+        {
+          "id": "pruefpunkt-3",
+          "text": "Verhindert unkontrollierte Zahlungswiederholung, verlangt belegten Wiederanlauftest und behauptet keine tatsächlich ausgeführte Sperrung oder Meldung.",
+          "deliverables": [
+            "Eindaemmungsanweisung.docx",
+            "Meldevermerk.docx"
+          ]
+        }
+      ]
+    },
     {
       "id": "kenntnis-montagmorgen",
       "request": "Erstellen Sie ergebnis.md als Fristenblatt und frühe Erstmeldung. Eine nach BSIG wichtige deutsche Einrichtung hat am 14.09.2026 um 08:00 Uhr Berliner Zeit nach dokumentierter interner Prüfung Kenntnis von einem erheblichen Sicherheitsvorfall. Meldeweg besteht; keine sektorale Sonderregel ist betroffen. Seit 06:30 Uhr ist ihr Kundendienstportal ausgefallen, 1200 Kunden sind betroffen. Um 09:00 Uhr werden betroffene Server isoliert. Ursache und Datenabfluss sind unbekannt. Bearbeitungsstand ist 10:00 Uhr desselben Tages. Es wurde noch keine Meldung versandt; die technische Behebung läuft.",
@@ -100,14 +136,14 @@
   ],
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Vollständiger erneuter Desk Review mit individuellen Verzweigungen für Mischbetrieb, Kenntnisbeleg, Meldestufe und Sicherheitsnachweis; bestehende DSGVO-Grenzen erhalten. Keine System-, Portal- oder Mandatsausführung.",
+    "reason": "Vollständiger erneuter Desk Review mit individuellen Verzweigungen für Mischbetrieb, Kenntnisbeleg, Meldestufe und Sicherheitsnachweis; bestehende DSGVO-Grenzen erhalten. Keine System-, Portal- oder Mandatsausführung. Ergänzung 2. Oktober 2026: Agentenspezifische Angriffsketten, weiterlaufende Unteraufträge und sichere Wiederaufnahme ergänzt; aktuelles BSIG und gestaffelte CRA-Anwendung statt veralteter Pauschalverweise. Redaktionelle Prüfung, kein Live-Modelltest.",
     "changes": [
       "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
       "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
       "Mischbetriebe, widersprechende Kenntnistickets und tatsächliche Übermittlung als Fristauslöser konkretisiert.",
       "Meldestufeninhalt, MFA-Ausnahmen, befristete Abhilfeentscheidung und Datenbank-Restore gegenüber vollständigem Dienstwiederanlauf ergänzt."
     ],
-    "sha256": "19f9a2ea670f505d0f09dfa4da31cc8c368a759b32943b501f55872487ce6ce2"
+    "sha256": "b4c2986abb4f528e653a3b77a57d371fe073b1a5efd4951d7f722659c846ef82"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

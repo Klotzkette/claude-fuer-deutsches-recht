@@ -81,13 +81,25 @@ Artikel 49 Absatz 4 regelt den nicht öffentlichen Datenbankbereich für bestimm
 
 ## 1.5. Verträge, Datenschutz und besondere Anwendungen
 
-### 1.5.1. Anbieter- und Betreibervertrag
+### 1.5.1. Handelnde Agenten rechtlich einordnen
+
+Bei einem Agentenauftrag zuerst einen belegten Durchlauf untersuchen: Ziel, Planung, Gedächtnis, Datenabruf, Werkzeugaufruf, Delegation und Außenhandlung. Ein Agent ist keine rechtsfähige Person. Modell, Anwendung und eingerichteten Gesamtprozess abgrenzen; ein GPAI-Modell im Hintergrund macht die Anwendung nicht selbst zum Modell. Nachträgliche Lernfähigkeit ist nach Artikel 3 Nummer 1 optional, nicht notwendige Voraussetzung.
+
+Risikokategorien sind keine sich stets ausschließenden Schubladen. Eine Recruiting-Anwendung kann neben Hochrisikopflichten auch Transparenzpflichten auslösen. Autonomie allein begründet weder Verbot noch Hochrisiko: Artikel 5 verlangt seinen konkreten Tatbestand, etwa Manipulationsmittel, relevante Verhaltensbeeinflussung und Schadensschwelle; Artikel 6 verlangt Produkt- oder Anhangsbezug. Eine ausschließlich technische Vorstufe darf die Bewertung des zusammenwirkenden Auswahlprozesses nicht verdecken. Artikel 25 bei Umwidmung, eigenem Kennzeichen oder wesentlicher Änderung am konkreten System prüfen, nicht jeden neuen Prompt als Anbieterwechsel behandeln.
+
+Kontrollen am Handlungspunkt festlegen. Bei Zahlung, Kündigung, Kandidatenabsage oder Datenweitergabe klären, wer vor Ausführung prüfen und ablehnen darf. Ein nachträglicher Not-Aus oder allgemeiner Hinweis auf Aufsicht reicht dafür nicht. Artikel 14/26, Artikel 22 DSGVO und rechtsgeschäftliche Zurechnung verfolgen unterschiedliche Fragen. Gesetzliche Ausnahme und notwendige Garantien einer automatisierten Entscheidung separat prüfen; nicht jede Empfehlung ist verboten.
+
+Fordere bei Hochrisiko-Zulieferung die nach Artikel 25 Absatz 4 erforderliche Mitwirkung an, einschließlich der gesetzlichen Ausnahmen; keine pauschale Herausgabe aller Modellgewichte. Vertragliche Zweckgrenzen ergänzen technische Schutzmaßnahmen, beseitigen aber keine Außenpflichten. Liefere je Auftrag den Rollenvermerk, eine konkrete Betriebsregel oder verhandelbare Klausel. Änderung von Werkzeugrechten, Empfängern oder Zwecken nur im betroffenen Teil nachprüfen. Eigene technische Tests nicht behaupten.
+
+Quellenstand dieser Ergänzung: 2. Oktober 2026; Artikel 3, 5, 6, 9, 14, 15 und 25 der [konsolidierten Verordnung](https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng). Nicht aktualisierte Service-Desk-Texte an der dortigen Änderungswarnung erkennen und mit der amtlichen Fassung abgleichen.
+
+### 1.5.2. Anbieter- und Betreibervertrag
 
 Ordne Leistungen, Dokumentation, Protokollzugang, Vorfallinformation, Prüfungsrechte, Unterauftragnehmer, Daten- und Ausgaberechte, Modelländerungen, Vertragsende, Haftung und Behördenanfragen den Parteien zu. Verbinde die einschlägigen Pflichten aus Artikeln 3, 16 bis 19, 26, 27, 53 und 54 mit der tatsächlichen Leistung; eine vertragliche Rollenbezeichnung ersetzt die gesetzliche Einordnung nicht.
 
 Prüfe daneben die datenschutzrechtlichen Rollen und Artikel 26, 28, 32 und 35 DSGVO sowie Geheimnisschutz nach Paragrafen 2 und 4 GeschGehG. Leistungsstörungen nach Paragrafen 241 Absatz 2 und 280 BGB einordnen; Paragrafen 631 und folgende BGB nur bei passendem Vertragstyp anwenden. Formuliere die beauftragten Änderungen aus. Verhandlungsalternativen nur für tatsächlich offene Punkte ergänzen.
 
-### 1.5.2. Kanzleieinsatz und personenbezogene Daten
+### 1.5.3. Kanzleieinsatz und personenbezogene Daten
 
 Prüfe Verschwiegenheit nach Paragraf 203 StGB und Paragraf 43a BRAO sowie Dienstleistereinbindung nach Paragraf 43e BRAO. Mandatsvereinbarung, Geheimhaltungsabreden, BORA und einschlägige Kammerhinweise konkret berücksichtigen. Bei personenbezogenen Daten insbesondere Artikel 5, 6, 28, 32 und 44 folgende DSGVO prüfen; kein pauschales Erlaubnis- oder Verbotsurteil für sämtliche Kanzleisysteme.
 
@@ -95,13 +107,13 @@ Anhang III Nummer 8 nur bei seinem tatsächlichen Anwendungsbereich heranziehen.
 
 Bei Kreditwürdigkeitsbewertung natürlicher Personen Anhang III Nummer 5 Buchstabe b und seine Ausnahme für Betrugserkennung gesondert von Artikel 22 DSGVO prüfen. Nach EuGH, Urteil vom 07.12.2023, C-634/21, SCHUFA Holding, Randnummern 43 bis 50 und 73, kann schon die automatisierte Score-Erstellung Artikel 22 Absatz 1 unterfallen, wenn eine Drittentscheidung über Vertragsbegründung, Durchführung oder Beendigung davon maßgeblich abhängt. Fordere tatsächliche Entscheidungsregeln an; die Anbieterbezeichnung „nur Entscheidungshilfe“ genügt nicht. Prüfe Ausnahme und Garantien nach Artikel 22 Absätze 2 bis 4. Die Entscheidung legt weder Artikel 6 der KI-Verordnung noch den neuen Artikel 4a aus und verschiebt keine Datenschutzpflicht bis zum Hochrisiko-Geltungsbeginn. [Amtlicher Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0634).
 
-### 1.5.3. Biometrie und Grundrechte
+### 1.5.4. Biometrie und Grundrechte
 
 Bei Biometrie oder Emotionserkennung Zweck, Ort, Echtzeit- oder nachträgliche Nutzung, Datenquelle, Betroffenengruppe, Strafverfolgungsbezug und menschliche Kontrolle feststellen. Verbote und Ausnahmen nach Artikel 5, Hochrisikoeinordnung und nationale Eingriffsgrundlage auseinanderhalten. Artikel 9 DSGVO, BDSG, Landespolizeirecht oder StPO nur für ihren jeweiligen Anwendungsbereich prüfen.
 
 Kläre zunächst, ob Artikel 27 eine Grundrechte-Folgenabschätzung verlangt. Ist dies der Fall, dokumentiere betroffene Gruppen, Risiken etwa für Gleichbehandlung, Datenschutz, Meinungs- oder Berufsfreiheit, menschliche Kontrolle und Abhilfe. Mit einer gegebenenfalls nötigen Datenschutz-Folgenabschätzung nach Artikel 35 DSGVO abstimmen; beide Prüfungen nicht gleichsetzen.
 
-### 1.5.4. GPAI und erzeugte Rechtstexte
+### 1.5.5. GPAI und erzeugte Rechtstexte
 
 Bei GPAI Artikeln 51 bis 56 entsprechend Modellrolle, systemischem Risiko, Dokumentationspflichten und einschlägigem Verhaltenskodex nachgehen. Modellunterlagen vom Nachweis für das konkrete nachgelagerte System trennen.
 
