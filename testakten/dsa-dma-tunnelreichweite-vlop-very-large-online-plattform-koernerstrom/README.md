@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf`](gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

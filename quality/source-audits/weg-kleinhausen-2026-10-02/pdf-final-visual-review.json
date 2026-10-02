@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "total_pages": 100,
+  "individually_viewed_unique_pages": 69,
+  "exact_rgb_duplicate_pages": 31,
+  "method": "69 unterschiedliche vollständige Seiten einzeln visuell geprüft; 31 weitere Seiten über vollständige identische dekodierte RGB-Pixel zu bereits geprüften Seiten zugeordnet. Keine visuellen Mängel festgestellt.",
+  "cases": {
+    "weg-kleinhausen": {
+      "individual_pages": 38,
+      "combined_pages": 62
+    }
+  },
+  "parts": [
+    {
+      "path": "build-evidence/evidence/pdf-visual-part-1.json",
+      "sha256": "e9c7acb5de267c27c998f618ab03739731537c20066bf55e937c25f5920e9529"
+    },
+    {
+      "path": "build-evidence/evidence/pdf-visual-part-2.json",
+      "sha256": "543dd149a52f2a36c9adc0e6483bfa5cf64ae71b23e210f0eebd9c31d2094691"
+    }
+  ]
+}

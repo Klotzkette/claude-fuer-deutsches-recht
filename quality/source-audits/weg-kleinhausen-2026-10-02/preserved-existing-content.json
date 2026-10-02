@@ -1,0 +1,3193 @@
+{
+  "status": "bestanden_mit_expliziter_readme_versionsausnahme",
+  "baseline_commit": "35aed83efcf4c6a736ca1ce6b009e4b362235253",
+  "checked_at": "2026-10-02",
+  "method": "Git-Diff gegenüber 35aed83 und vollständiger Byteabgleich aller erfassten Dateien über Git-Blob-SHA-1; zusätzlich SHA-256 des aktuellen Inhalts. Originalbestände auf fehlende und hinzugefügte Dateien geprüft.",
+  "existing_cases": [
+    "bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung",
+    "betriebskosten-2025-weg-schoeneberg",
+    "weg-hausverwaltung-hohenzollernhof",
+    "weg-kastanienhof-kellerdiebstahl",
+    "weg-lindenhof-jahresabrechnung-2025",
+    "weg-sonnenwinkel-bettwanzen",
+    "weg-spreebogen-mieterumlage-belege"
+  ],
+  "summary": {
+    "existing_cases": 7,
+    "case_files_excluding_readme_byte_identical": 290,
+    "case_readmes_changed_only_by_release_version": 7,
+    "skills_byte_identical": 93,
+    "curated_prompt_mds_byte_identical": 3,
+    "added_or_deleted_existing_case_files": 0,
+    "added_or_deleted_skill_files": 0,
+    "skills_files_byte_identical": 94,
+    "other_skill_directory_files_byte_identical": [
+      "weg-hausverwaltung/skills/beschluesse-dokumentenmatrix-und-lueckenliste/references/vertiefung-spezial-beschluesse-dokumentenmatrix-und-lueckenliste.md"
+    ]
+  },
+  "clarification": "Die bisherigen Akteninhalte einschließlich Gesamt-PDFs und Rubriken sind byteunverändert. Die sieben README-Dateien sind nicht byteunverändert: ausschließlich ihre Releaseversion 445.28.0 → 445.28.1 wurde für Downloadlinks aktualisiert. Diese Ausnahme wird ausdrücklich ausgewiesen.",
+  "git_diff_name_status": "M\ttestakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/README.md\nM\ttestakten/betriebskosten-2025-weg-schoeneberg/README.md\nM\ttestakten/weg-hausverwaltung-hohenzollernhof/README.md\nM\ttestakten/weg-kastanienhof-kellerdiebstahl/README.md\nM\ttestakten/weg-lindenhof-jahresabrechnung-2025/README.md\nM\ttestakten/weg-sonnenwinkel-bettwanzen/README.md\nM\ttestakten/weg-spreebogen-mieterumlage-belege/README.md\n",
+  "preserved_files": [
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/01-bautraegervertrag-ur-188-2026-kq.docx",
+      "baseline_git_blob": "3f0082d231aa0b84851232e79da4a20c659f4796",
+      "current_git_blob": "3f0082d231aa0b84851232e79da4a20c659f4796",
+      "byte_identical": true,
+      "sha256_current": "d4747b5892f30748051d956530e9fe557f1126e69e13fdf8cb815780d318f82a",
+      "bytes": 58867
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/02_kaufpreis_nebenkosten_roh.csv",
+      "baseline_git_blob": "65a280ee16ced5f726550325ce1fe1c94078e192",
+      "current_git_blob": "65a280ee16ced5f726550325ce1fe1c94078e192",
+      "byte_identical": true,
+      "sha256_current": "c5ca80b849ddd77f817353d846ae8a330bb18f7a41a88ab28c04c7291a27ad5a",
+      "bytes": 744
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/03_bauzeitenplan_vertrieb.csv",
+      "baseline_git_blob": "30537769c27d8e1a01a858c8cacc6f1f37de144e",
+      "current_git_blob": "30537769c27d8e1a01a858c8cacc6f1f37de144e",
+      "byte_identical": true,
+      "sha256_current": "307c0c343203a8b950d1a73f56e277398fa3ae2f3ebe3dd6078a7dc94cba3193",
+      "bytes": 675
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/04_bank_finanzierungszusage_2026-03-10.eml",
+      "baseline_git_blob": "c6bc146bc4535cc12a66afda87550f07d4874c63",
+      "current_git_blob": "c6bc146bc4535cc12a66afda87550f07d4874c63",
+      "byte_identical": true,
+      "sha256_current": "f4c1cd4cfaaa252683a6737d7c62c13f1e76ec274ea654c6a06f5518f9c82261",
+      "bytes": 1251
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/05_notariat_bedenkzeit_2026-03-12.eml",
+      "baseline_git_blob": "c03eff70700dbb434e2ff604dd58d23621fd7de0",
+      "current_git_blob": "c03eff70700dbb434e2ff604dd58d23621fd7de0",
+      "byte_identical": true,
+      "sha256_current": "f167e76339c9749e57c84f955428d9b10229060b060c11566d9ebd1a0f64a2f4",
+      "bytes": 1472
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/06_vertrieb_reservierung_2026-03-13.eml",
+      "baseline_git_blob": "0e82735d82474b04d47ea420acbfe3ddd7c614f2",
+      "current_git_blob": "0e82735d82474b04d47ea420acbfe3ddd7c614f2",
+      "byte_identical": true,
+      "sha256_current": "0facdbc2408273d0bdb2b38c751a177b6e5ea13d513bf48d1afe826c4bfd6892",
+      "bytes": 1320
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/07_sonderwunschliste_wohnung_4_27.csv",
+      "baseline_git_blob": "8127f870b68598428c4d250b5160f0d2fda2b3c3",
+      "current_git_blob": "8127f870b68598428c4d250b5160f0d2fda2b3c3",
+      "byte_identical": true,
+      "sha256_current": "405dc405df7beda2c4632971a46bea25c3ef35bae4f495ac68acd0ae0fc6d156",
+      "bytes": 783
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/08_kanzlei_rueckfrage_teilungsnachtrag_2026-03-17.eml",
+      "baseline_git_blob": "773faec0f7456190762b645b27b99e2d652df2eb",
+      "current_git_blob": "773faec0f7456190762b645b27b99e2d652df2eb",
+      "byte_identical": true,
+      "sha256_current": "f62707231fadfd4883d85fc36d5b90d354c1dea20eaf8a125afaf2597c9df0af",
+      "bytes": 1473
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/09_kontoauszug_reservierung_privat.csv",
+      "baseline_git_blob": "493171c87721c0b85c0360ccac0efcb0a48f8d8c",
+      "current_git_blob": "493171c87721c0b85c0360ccac0efcb0a48f8d8c",
+      "byte_identical": true,
+      "sha256_current": "54ecc33d36a8cdf217ea1dd2bb5392433a028877cfbf8d3bf0fc376e3169cf8e",
+      "bytes": 857
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/10_sms_verlauf_vertrieb_quendel.txt",
+      "baseline_git_blob": "49ac1a25bb041d22a6095a54de9840fe9c198b03",
+      "current_git_blob": "49ac1a25bb041d22a6095a54de9840fe9c198b03",
+      "byte_identical": true,
+      "sha256_current": "17fe3e8848e7e16bb069a53ce9e690a6a8fa09043348f4f6514e0830dec1e8b7",
+      "bytes": 2369
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/docx/01-bautraegervertrag-ur-188-2026-kq.docx",
+      "baseline_git_blob": "98a40d2c0c0b6c3b5ad1bce04960ee3767744827",
+      "current_git_blob": "98a40d2c0c0b6c3b5ad1bce04960ee3767744827",
+      "byte_identical": true,
+      "sha256_current": "becd540b6683da54c704986ae16c107444d1bd272cfe6e716a1765bf9d93b2d9",
+      "bytes": 34328
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/emails/00-mandant-mail-notarentwurf-pruefen.eml",
+      "baseline_git_blob": "4844e8f12670cc0ccd5079f90e0b8029a2351fed",
+      "current_git_blob": "4844e8f12670cc0ccd5079f90e0b8029a2351fed",
+      "byte_identical": true,
+      "sha256_current": "48abb2763dd12be2b44fc4c57570af0c74f5334b7d82bfbde88dbfa52c4fe641",
+      "bytes": 1410
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/emails/01-notariat-anlagen-nachreichung.eml",
+      "baseline_git_blob": "01300a68d371340bf96b3cb3ac883446d2489870",
+      "current_git_blob": "01300a68d371340bf96b3cb3ac883446d2489870",
+      "byte_identical": true,
+      "sha256_current": "ba0d4a0bf7adf4e9c391cb66ec9e5a569b489bfd1b5a30b258e6df1bd2936507",
+      "bytes": 1822
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/gesamt-pdf/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung_gesamt.pdf",
+      "baseline_git_blob": "50039281303d98052a0d56772dcca1d99c0fe36f",
+      "current_git_blob": "50039281303d98052a0d56772dcca1d99c0fe36f",
+      "byte_identical": true,
+      "sha256_current": "c75adc7da338057160ed68b80e62c1620c00009d64b00d036ec956803fc51614",
+      "bytes": 908770
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/pdfs/01-bautraegervertrag-ur-188-2026-kq.pdf",
+      "baseline_git_blob": "d0f2a4c147f65545be6499d5751bcf75986b17f8",
+      "current_git_blob": "d0f2a4c147f65545be6499d5751bcf75986b17f8",
+      "byte_identical": true,
+      "sha256_current": "9e81db3647a707d0771f2a43a2a974564c4cb28374e9616476ca31e4148b1497",
+      "bytes": 102318
+    },
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/rubric.yaml",
+      "baseline_git_blob": "41d5a619bbbf18c17ae37b4e3e4124305bf3bef9",
+      "current_git_blob": "41d5a619bbbf18c17ae37b4e3e4124305bf3bef9",
+      "byte_identical": true,
+      "sha256_current": "f3c599ce8bb9b2b1de7e2fcfcf2614ee7285795ef318ea5f0a27237fcc3a26aa",
+      "bytes": 688
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/01_wohnungsmietvertrag_seidel_2022-03-15.docx",
+      "baseline_git_blob": "c2563069dbd45bd1966d08932044f7745439e63b",
+      "current_git_blob": "c2563069dbd45bd1966d08932044f7745439e63b",
+      "byte_identical": true,
+      "sha256_current": "23af017507825e0dbb96f8dd9a2bbc0e58e29cae9cd48ffb47783f04b8a4dfd7",
+      "bytes": 42426
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/02_verwaltungsvereinbarung_weg_sev_auszug.docx",
+      "baseline_git_blob": "78d5e58a0659bc03b548072f6e9b987eb9bdb389",
+      "current_git_blob": "78d5e58a0659bc03b548072f6e9b987eb9bdb389",
+      "byte_identical": true,
+      "sha256_current": "6661113a647574ae2890294adcc66d0eb53a816a40d91b6bd1a792ff8ef6c1f6",
+      "bytes": 40722
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/03_hausdienst_monatsnachweis_2025.docx",
+      "baseline_git_blob": "2bf465d50ef9f8dc9ae7849e2db94d846480d063",
+      "current_git_blob": "2bf465d50ef9f8dc9ae7849e2db94d846480d063",
+      "byte_identical": true,
+      "sha256_current": "0ea4b19a55dcc03ab56d0bed4db53e481cfcfcec69ed3dbf2b6d34eceda9980d",
+      "bytes": 41387
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/04_objekttermin_pv_tiefgarage_2026-01-20.docx",
+      "baseline_git_blob": "8c0ff8d578040d80fa50ef2afba7ebc6426a3fd5",
+      "current_git_blob": "8c0ff8d578040d80fa50ef2afba7ebc6426a3fd5",
+      "byte_identical": true,
+      "sha256_current": "99a884e672fed470f5f8511a01068087790452b069db0c8c211aa651a8712495",
+      "bytes": 40181
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/05_eigentuemeranschreiben_2026-08-12.docx",
+      "baseline_git_blob": "8a0cc33df7a93ad9928e11d3d5c0a0ccccd3e48e",
+      "current_git_blob": "8a0cc33df7a93ad9928e11d3d5c0a0ccccd3e48e",
+      "byte_identical": true,
+      "sha256_current": "9e638b4e1a49ed54e6eb74c42cf780b93f5757f3c1e3b12bdcb1ac01a2e96faa",
+      "bytes": 39596
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/aktenstuecke/06_schadenaufnahme_fahrradkeller_2025-07-18.docx",
+      "baseline_git_blob": "3d49ad9a35b413913bca40649dc61e7a6d1a86d5",
+      "current_git_blob": "3d49ad9a35b413913bca40649dc61e7a6d1a86d5",
+      "byte_identical": true,
+      "sha256_current": "f7b8be6e2452d21538c9bac2b8feb43bf984ee092f825248b0fe780021f2a1af",
+      "bytes": 39882
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Angebot_Tiefgarage_Ladeinfrastruktur.pdf",
+      "baseline_git_blob": "fbcf51c66c66b5cd593f0d2d70ee3c4c956c02b7",
+      "current_git_blob": "fbcf51c66c66b5cd593f0d2d70ee3c4c956c02b7",
+      "byte_identical": true,
+      "sha256_current": "44ef253475890a643e39419e0c407fce71c15c38481ae878768c3452df74ffd1",
+      "bytes": 2820
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Betriebskostenabrechnung_2025_versandt.pdf",
+      "baseline_git_blob": "6a31e19b6ec9b715e3aa9494ed297e7836342026",
+      "current_git_blob": "6a31e19b6ec9b715e3aa9494ed297e7836342026",
+      "byte_identical": true,
+      "sha256_current": "7bc03b8c012da39b8e943cfc87c5eef6284e06445adc95f0eb4ceddf582b94a6",
+      "bytes": 3413
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/DR-251118-084.pdf",
+      "baseline_git_blob": "c40d8d7ac4d51c8c199e255afda5c3d9542046af",
+      "current_git_blob": "c40d8d7ac4d51c8c199e255afda5c3d9542046af",
+      "byte_identical": true,
+      "sha256_current": "790ebd34eb6425bb6579d4b232be2553dd07cc2f483468ee4999d47043389da7",
+      "bytes": 3233
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-AU-2025_Aufzug.pdf",
+      "baseline_git_blob": "ef0b70037d3a2ad8016adff9a570d4c5d9fd390e",
+      "current_git_blob": "ef0b70037d3a2ad8016adff9a570d4c5d9fd390e",
+      "byte_identical": true,
+      "sha256_current": "f6e86ab1b5c425df27e7ca2c48347670f44a2cb8e16a7c77f004d176a7ee3c28",
+      "bytes": 2951
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-01_Allgemeinstrom.pdf",
+      "baseline_git_blob": "36e4390c00bac701cb49ada2498cde40d6d8dab8",
+      "current_git_blob": "36e4390c00bac701cb49ada2498cde40d6d8dab8",
+      "byte_identical": true,
+      "sha256_current": "e6d3666a29f222784b2bd98b51e15ec53e5c828b876f69c79f4961f019c5b08b",
+      "bytes": 3140
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-02_Allgemeinstrom.pdf",
+      "baseline_git_blob": "ed34d18ca7462e779d2b4483ad7099be316081a4",
+      "current_git_blob": "ed34d18ca7462e779d2b4483ad7099be316081a4",
+      "byte_identical": true,
+      "sha256_current": "8573e3354801513736899691ff4298a97fbff47ae652eb333e02d5287619c235",
+      "bytes": 3140
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-03_Allgemeinstrom.pdf",
+      "baseline_git_blob": "2acd30f6df24a3c79c599ea6b272ce82c8c85b89",
+      "current_git_blob": "2acd30f6df24a3c79c599ea6b272ce82c8c85b89",
+      "byte_identical": true,
+      "sha256_current": "940bd3b0cb5d5a34c125b3279450d397e3c271509802754a53c708e6744ee14c",
+      "bytes": 3141
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-04_Allgemeinstrom.pdf",
+      "baseline_git_blob": "cbcf933b47ffc79991845dc7bfb438db11a4b61c",
+      "current_git_blob": "cbcf933b47ffc79991845dc7bfb438db11a4b61c",
+      "byte_identical": true,
+      "sha256_current": "e09dcce13d85511286edfc7bbf7952df6b90daf47dbf651b2f146938575b72f1",
+      "bytes": 3139
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-05_Allgemeinstrom.pdf",
+      "baseline_git_blob": "46291b8aedc63d4a4b23a1b88c777727bf926a92",
+      "current_git_blob": "46291b8aedc63d4a4b23a1b88c777727bf926a92",
+      "byte_identical": true,
+      "sha256_current": "b20d9f03e41f2c791b7158686c1b123fcd69ef4924c7a38c10556a87515b3d9d",
+      "bytes": 3136
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-06_Allgemeinstrom.pdf",
+      "baseline_git_blob": "90fa26137f4b9f7f31dfd662437bf1ec6cbb5fc0",
+      "current_git_blob": "90fa26137f4b9f7f31dfd662437bf1ec6cbb5fc0",
+      "byte_identical": true,
+      "sha256_current": "9d5c43d1e7cbe2c9c4bfa6315ecf44019e5e85acf489cab7ae47ce11a3c51340",
+      "bytes": 3138
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-07_Allgemeinstrom.pdf",
+      "baseline_git_blob": "1ec50d226ea0266c9d081735bbb77337f72b8f19",
+      "current_git_blob": "1ec50d226ea0266c9d081735bbb77337f72b8f19",
+      "byte_identical": true,
+      "sha256_current": "c5106215538531f7f31741987e734250709f6de1e0383fb69fe033762fe7638a",
+      "bytes": 3138
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-08_Allgemeinstrom.pdf",
+      "baseline_git_blob": "3183aa12886a64d7063c62015fec9a5743405355",
+      "current_git_blob": "3183aa12886a64d7063c62015fec9a5743405355",
+      "byte_identical": true,
+      "sha256_current": "f356e33d4c76e9dc4fc4c10f92b8c0c996f040b19de61aaea795235b6616f244",
+      "bytes": 3140
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-09_Allgemeinstrom.pdf",
+      "baseline_git_blob": "2f02a0fda47051fd7c4e7fb86b2315abefe24e37",
+      "current_git_blob": "2f02a0fda47051fd7c4e7fb86b2315abefe24e37",
+      "byte_identical": true,
+      "sha256_current": "23e412c00d90d71a4846a7a7bf81884bfd24323bcc72934628ae3c2e17374d94",
+      "bytes": 3144
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-10_Allgemeinstrom.pdf",
+      "baseline_git_blob": "34ff2895ec9d68e848326112f9a0d4a7eff97cb6",
+      "current_git_blob": "34ff2895ec9d68e848326112f9a0d4a7eff97cb6",
+      "byte_identical": true,
+      "sha256_current": "6d5c4240019554fed6fb08f14fc7a48ed08ed90e3fd4a0e0f43576667ffb2d15",
+      "bytes": 3142
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-11_Allgemeinstrom.pdf",
+      "baseline_git_blob": "cff0c98cf9b9fa6f5f08cde3dfd11b74dccadabd",
+      "current_git_blob": "cff0c98cf9b9fa6f5f08cde3dfd11b74dccadabd",
+      "byte_identical": true,
+      "sha256_current": "d3834cc80ce170165672c6eeaa97b001cbf8efae5ee77a5fe458f137e0633145",
+      "bytes": 3145
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-EL-12_Allgemeinstrom.pdf",
+      "baseline_git_blob": "fc649371646bbecdbf1290bba09e1d17d80a4358",
+      "current_git_blob": "fc649371646bbecdbf1290bba09e1d17d80a4358",
+      "byte_identical": true,
+      "sha256_current": "c15bc175952e1d324bd928b446948b337656be17e88f875a3d2440c69e11d034",
+      "bytes": 3142
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-GU-2025_Gutschrift.pdf",
+      "baseline_git_blob": "212503da27e2e0b35f214216cfdcc7330e2183bd",
+      "current_git_blob": "212503da27e2e0b35f214216cfdcc7330e2183bd",
+      "byte_identical": true,
+      "sha256_current": "aec8e33ee8c5a35fd80ac65aa846d800d09a0110c701ace98a9959876815b076",
+      "bytes": 2864
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-01_Hausservice.pdf",
+      "baseline_git_blob": "5a9e55b5054a2c4a568bd4f0f2b49980bb22b431",
+      "current_git_blob": "5a9e55b5054a2c4a568bd4f0f2b49980bb22b431",
+      "byte_identical": true,
+      "sha256_current": "f98753fcd34d901ad5f85a03005f6fc66e04a18ea5ccd6a8ae3ab32556624cc2",
+      "bytes": 3291
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-02_Hausservice.pdf",
+      "baseline_git_blob": "60f59909d647fc1ff0f269a0627d7b4c891b936f",
+      "current_git_blob": "60f59909d647fc1ff0f269a0627d7b4c891b936f",
+      "byte_identical": true,
+      "sha256_current": "a637d66e0fd888d624750db409c80d07e9bd5d9192a4818c62f76bece99fb041",
+      "bytes": 3293
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-03_Hausservice.pdf",
+      "baseline_git_blob": "5610e2234298977cc0804b08c95adda27027d504",
+      "current_git_blob": "5610e2234298977cc0804b08c95adda27027d504",
+      "byte_identical": true,
+      "sha256_current": "37b8b298ce5490db00404025ad0665b7e445e1b8dc155ca4fb04266ce927a938",
+      "bytes": 3293
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-04_Hausservice.pdf",
+      "baseline_git_blob": "d1e727a549883c4f73be9360ab81fc25fdea1b50",
+      "current_git_blob": "d1e727a549883c4f73be9360ab81fc25fdea1b50",
+      "byte_identical": true,
+      "sha256_current": "d883bf3dbd5cef6f311a504d457855c5336b78a73eb2087cba2fdce48ef2b87c",
+      "bytes": 3291
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-05_Hausservice.pdf",
+      "baseline_git_blob": "3b42f08e30339f58d31aea10c892c9775e45265e",
+      "current_git_blob": "3b42f08e30339f58d31aea10c892c9775e45265e",
+      "byte_identical": true,
+      "sha256_current": "e3967b8f7a85f5b06ff2aa4064e29c77ce254f17d73ff198405521d013f41f7f",
+      "bytes": 3287
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-06_Hausservice.pdf",
+      "baseline_git_blob": "34679c9a1a3c4df9d8025ce167be3c68d98bb14b",
+      "current_git_blob": "34679c9a1a3c4df9d8025ce167be3c68d98bb14b",
+      "byte_identical": true,
+      "sha256_current": "b50e0f4b4309e9bfb32446c3ca1f6bd764b0914d53b175970ae6bd5604ff6346",
+      "bytes": 3289
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-07_Hausservice.pdf",
+      "baseline_git_blob": "7f82cf522d96e25ca33458c9ab98120bba218738",
+      "current_git_blob": "7f82cf522d96e25ca33458c9ab98120bba218738",
+      "byte_identical": true,
+      "sha256_current": "3710d9ae56f478159a3ffde742c061ab20c8842da69bfc4e338d45a4497e3c6d",
+      "bytes": 3289
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-08_Hausservice.pdf",
+      "baseline_git_blob": "7f092d7e5d2a44d9bb057398b7110fd331f30d84",
+      "current_git_blob": "7f092d7e5d2a44d9bb057398b7110fd331f30d84",
+      "byte_identical": true,
+      "sha256_current": "c16a0727e7f7891809d982a238a1b17301eac9e4ecb6fc73a2eb18a404cf7432",
+      "bytes": 3292
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-09_Hausservice.pdf",
+      "baseline_git_blob": "b5ebf6b1bca9268a2259065245be059b7ac53d61",
+      "current_git_blob": "b5ebf6b1bca9268a2259065245be059b7ac53d61",
+      "byte_identical": true,
+      "sha256_current": "ec578366fd4e90344b27284330d6da8900b2a1f93b40fbeac73b1b72fcc52eaa",
+      "bytes": 3299
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-10_Hausservice.pdf",
+      "baseline_git_blob": "9d602ff511234402dd6701a19bd2a1e2c25885d4",
+      "current_git_blob": "9d602ff511234402dd6701a19bd2a1e2c25885d4",
+      "byte_identical": true,
+      "sha256_current": "f808c2e8f224a24938870cbe96caf89985699fb57a93a27ddb0be464a73f1dd3",
+      "bytes": 3296
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-11_Hausservice.pdf",
+      "baseline_git_blob": "49933ae877b80ecb185641741ea2d41e832d9bd8",
+      "current_git_blob": "49933ae877b80ecb185641741ea2d41e832d9bd8",
+      "byte_identical": true,
+      "sha256_current": "25de2cb4623e3a52e6a52a4db1d8aead2daacb145c413c95bfa411145ac27544",
+      "bytes": 3299
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HM-12_Hausservice.pdf",
+      "baseline_git_blob": "a67ceda8323db5326365463421c5c9e1c6745e66",
+      "current_git_blob": "a67ceda8323db5326365463421c5c9e1c6745e66",
+      "byte_identical": true,
+      "sha256_current": "d0d81cb9f56b17b44f5753975ebc721f879e8fd713e6eb4cb52617573e16ca87",
+      "bytes": 3294
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HP-2025_Heizstrom.pdf",
+      "baseline_git_blob": "481575801049819742ff7d7296a5973b2b589634",
+      "current_git_blob": "481575801049819742ff7d7296a5973b2b589634",
+      "byte_identical": true,
+      "sha256_current": "8549eeadd8ba2e8794333abc477019a7231ddbddf1778c39705e290b3fc39755",
+      "bytes": 2925
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-HW-2025_Heizungswartung.pdf",
+      "baseline_git_blob": "56da2a19872d9a6148c6afd1c6673ca60e549236",
+      "current_git_blob": "56da2a19872d9a6148c6afd1c6673ca60e549236",
+      "byte_identical": true,
+      "sha256_current": "82edc6a226ffa27395a5ffa8e7aa6489e67b475065370fd925fd40bf1e3590dc",
+      "bytes": 2993
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-KU-2025_Fallrohr.pdf",
+      "baseline_git_blob": "68ad5457a10dcb0c6b128102f1c7ab7911c3bdc0",
+      "current_git_blob": "68ad5457a10dcb0c6b128102f1c7ab7911c3bdc0",
+      "byte_identical": true,
+      "sha256_current": "c1a77d5c01918285655a1dfd65fc51e712d62f3d1899597c8280b02db9d96ee3",
+      "bytes": 2945
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-LI-2025_Lichtreparatur.pdf",
+      "baseline_git_blob": "5186bb979deed316c38426f5cc9fb8a5a1921cf3",
+      "current_git_blob": "5186bb979deed316c38426f5cc9fb8a5a1921cf3",
+      "byte_identical": true,
+      "sha256_current": "42e9e3b3001a61eaabac4ca724037650edc262032ba21c3eaf1e479eb9a6ab98",
+      "bytes": 2975
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-MA-2025_Maler.pdf",
+      "baseline_git_blob": "4177843c428cc6ef174c2b35e5334960ed25e3cc",
+      "current_git_blob": "4177843c428cc6ef174c2b35e5334960ed25e3cc",
+      "byte_identical": true,
+      "sha256_current": "e962737addd1028b1e59ba1e77dc4b6d0d29885802dbb2b2ccd8bca814ff74e4",
+      "bytes": 2984
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-MD-2025_Messdienst.pdf",
+      "baseline_git_blob": "d0ef28ff2861c9b5aa6322997dd67b7e37b1a752",
+      "current_git_blob": "d0ef28ff2861c9b5aa6322997dd67b7e37b1a752",
+      "byte_identical": true,
+      "sha256_current": "92aca0ee2b3f95ed7b62b1acca333d4036b8daa22f0392e1656b31c4bded6e91",
+      "bytes": 2937
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-MU-2025_Abfall.pdf",
+      "baseline_git_blob": "3d838af50c1da50bcd50dd9473fcca93106e5432",
+      "current_git_blob": "3d838af50c1da50bcd50dd9473fcca93106e5432",
+      "byte_identical": true,
+      "sha256_current": "6d58927c547ddd4bdb999e17d54ebed997ab167fdc7fe9a3bb95fe90f78c6ae5",
+      "bytes": 2948
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-OE-01_Heizoel.pdf",
+      "baseline_git_blob": "354c9cc7e0ca4019fcb80b973cf326f6bdbb4346",
+      "current_git_blob": "354c9cc7e0ca4019fcb80b973cf326f6bdbb4346",
+      "byte_identical": true,
+      "sha256_current": "c99a9890fcf3d803cbd9babf63c2d8502e93783465b37cc40ce2bbd80ff045ec",
+      "bytes": 3134
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-OE-02_Heizoel.pdf",
+      "baseline_git_blob": "aa99bcd9077fb448c134237f951dcabad65be549",
+      "current_git_blob": "aa99bcd9077fb448c134237f951dcabad65be549",
+      "byte_identical": true,
+      "sha256_current": "f3517f9a9ad4d349a94030df40ce40993baa9a201fe2f3d1fde7e613710acc70",
+      "bytes": 3134
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-OE-03_Heizoel.pdf",
+      "baseline_git_blob": "ccf0dba5651afeb590da1b6d005e46eb6f53cbaa",
+      "current_git_blob": "ccf0dba5651afeb590da1b6d005e46eb6f53cbaa",
+      "byte_identical": true,
+      "sha256_current": "4af1bc29439cdb696fd64a9a7b4616ba064678be0b068118f08a4fbace7a1b3d",
+      "bytes": 3134
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-OE-2024_Vorjahreslieferung.pdf",
+      "baseline_git_blob": "1ec73ec34519c4dd4aa37964f4b90074958534d9",
+      "current_git_blob": "1ec73ec34519c4dd4aa37964f4b90074958534d9",
+      "byte_identical": true,
+      "sha256_current": "dd552dc8bbd3226d7dac637b7185f7ea7a31e7b9339b31bdfcde5a2772577143",
+      "bytes": 3040
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-SF-2025_Schornstein.pdf",
+      "baseline_git_blob": "f1eda9f7ac48f4d173a230778b5880bce122c0f4",
+      "current_git_blob": "f1eda9f7ac48f4d173a230778b5880bce122c0f4",
+      "byte_identical": true,
+      "sha256_current": "8cf28993311fa82aa6fada32f2558b86f24d2ebdbb44960140a5f60805ae0edc",
+      "bytes": 2955
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-ST-2025_Strassenreinigung.pdf",
+      "baseline_git_blob": "bcdd264a2c8a1204fd53545cb9f4fdf4ed09dfeb",
+      "current_git_blob": "bcdd264a2c8a1204fd53545cb9f4fdf4ed09dfeb",
+      "byte_identical": true,
+      "sha256_current": "23c5ce5da41844e26ff80c0200b6d65cef62eae5e6b7f0f97a07a7759c19bf1b",
+      "bytes": 2926
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-TU-2025_Schloss.pdf",
+      "baseline_git_blob": "ba94b95fcc9bb240d2dc9d0585f2fc43e84e4dbb",
+      "current_git_blob": "ba94b95fcc9bb240d2dc9d0585f2fc43e84e4dbb",
+      "byte_identical": true,
+      "sha256_current": "011fd72c999187e1fb5e9b05186dc72ee26eb31a2ead8d6cc6959fd848a8b9c1",
+      "bytes": 3010
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-VS-2025_Versicherung.pdf",
+      "baseline_git_blob": "650556eb64b3787ca3a67a9f5a6fb55411d688a2",
+      "current_git_blob": "650556eb64b3787ca3a67a9f5a6fb55411d688a2",
+      "byte_identical": true,
+      "sha256_current": "6256eb84424ef689bb4d58d0506e4d91ce77f286b888514a6a5d441ddccd3a7f",
+      "bytes": 2940
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EB84-WA-2025_Wasser.pdf",
+      "baseline_git_blob": "e30ed3c03f03c2d26d8a10b638b94e022eec368d",
+      "current_git_blob": "e30ed3c03f03c2d26d8a10b638b94e022eec368d",
+      "byte_identical": true,
+      "sha256_current": "2bf0227ffed766701b7963de837355ab8bfc5357b45f3b61d74a2301368e6903",
+      "bytes": 2943
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EK-EB84-LP-26-042.pdf",
+      "baseline_git_blob": "9b9e7d2cd4c595c5ce0d6d5d7d4dc7c69e2189b0",
+      "current_git_blob": "9b9e7d2cd4c595c5ce0d6d5d7d4dc7c69e2189b0",
+      "byte_identical": true,
+      "sha256_current": "e63dc26219730ba880db0bd79731217fbbfb66b2182252e995f338dffa7f55e8",
+      "bytes": 3187
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/EK-EB84-TG-26-041.pdf",
+      "baseline_git_blob": "175e658e83a441fc43b73b4e9a9c8e498fc7aa34",
+      "current_git_blob": "175e658e83a441fc43b73b4e9a9c8e498fc7aa34",
+      "byte_identical": true,
+      "sha256_current": "7f47efd8122fd10ae59861049438977ac46d489274cec59922d6a2020be04563",
+      "bytes": 3279
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Eigentuemerabrechnung_WE07_2025.pdf",
+      "baseline_git_blob": "86e39e14fe09e8abf9525d2c59c0a354480d8be9",
+      "current_git_blob": "86e39e14fe09e8abf9525d2c59c0a354480d8be9",
+      "byte_identical": true,
+      "sha256_current": "cf8c8b294359fde0bb28101efe3d13732ccac4261ae7884982da25aa8f7c04d6",
+      "bytes": 3050
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/FR-250616-084_Uebernahme.pdf",
+      "baseline_git_blob": "656e26f80511da10180014118c8bf94b788ff0ad",
+      "current_git_blob": "656e26f80511da10180014118c8bf94b788ff0ad",
+      "byte_identical": true,
+      "sha256_current": "7ef638dc7df63b2f89581dd127f03d69dc21139dcec2cd39ffaa761cebaee2f4",
+      "bytes": 3401
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/FR-250618-084.pdf",
+      "baseline_git_blob": "51e030c5c3238247cb44b594a86caeb1b8c543a0",
+      "current_git_blob": "51e030c5c3238247cb44b594a86caeb1b8c543a0",
+      "byte_identical": true,
+      "sha256_current": "18a8a838bb2ce9ae50985c18ef47b3f2c51eb2b3979761a862dde8f420d5ebdc",
+      "bytes": 3282
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/FR-250804-084.pdf",
+      "baseline_git_blob": "c85af559b62536244072235e9ca9d690a3036890",
+      "current_git_blob": "c85af559b62536244072235e9ca9d690a3036890",
+      "byte_identical": true,
+      "sha256_current": "52718593440ce3a5b111b11edbc5aa4da4b55dbac2b3a5a6186a1817ca1ab12f",
+      "bytes": 3125
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Grundsteuer_2025.pdf",
+      "baseline_git_blob": "42dfa0933a388ee5da5fd48156aee526989e5455",
+      "current_git_blob": "42dfa0933a388ee5da5fd48156aee526989e5455",
+      "byte_identical": true,
+      "sha256_current": "2c6e8781642a83f5dcc5cd8ee826471973b481e2bb27f6efa0d1f48f6cba44ab",
+      "bytes": 3063
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Grundsteuermessbetrag.pdf",
+      "baseline_git_blob": "5691055d93bc1dffc124a250c51d171aa46a2e6d",
+      "current_git_blob": "5691055d93bc1dffc124a250c51d171aa46a2e6d",
+      "byte_identical": true,
+      "sha256_current": "39007c2d2e842faa7a690b5ab834955a89760dde4feb8feabb817388d3ae84a2",
+      "bytes": 2707
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Grundsteuerwert.pdf",
+      "baseline_git_blob": "a2eea4ac46f474b811524bd797be18516592fb2f",
+      "current_git_blob": "a2eea4ac46f474b811524bd797be18516592fb2f",
+      "byte_identical": true,
+      "sha256_current": "29a42b0f7fad5d030f97c67f76a20931f57be1ae69c3ee317df5f3c1b6510655",
+      "bytes": 2730
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/SP-250919-084.pdf",
+      "baseline_git_blob": "5724d9a5a9f10b8d397426c261606e90f7518a21",
+      "current_git_blob": "5724d9a5a9f10b8d397426c261606e90f7518a21",
+      "byte_identical": true,
+      "sha256_current": "467af488ee4ef36b68d5131c8f2a6b77940e7cd58b75b2d859cccc406612bcc6",
+      "bytes": 3245
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/SP-L250919-084.pdf",
+      "baseline_git_blob": "9a33481048ea6fd277f88c7c19fcb4ca21a90566",
+      "current_git_blob": "9a33481048ea6fd277f88c7c19fcb4ca21a90566",
+      "byte_identical": true,
+      "sha256_current": "13fee7706624ea23a267dca5b146d3571dcd276abd8f06eae95b777bcd3869a6",
+      "bytes": 3408
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Tankaufnahme_und_Waermemessung.pdf",
+      "baseline_git_blob": "a241a8bfcacc31c65caf03f55a297388eb8c3750",
+      "current_git_blob": "a241a8bfcacc31c65caf03f55a297388eb8c3750",
+      "byte_identical": true,
+      "sha256_current": "10e75103565db21a2f623def349f6f08a21a73d1f29831ba46d50d333fb3d87d",
+      "bytes": 2992
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Versicherung_Schadenabrechnung.pdf",
+      "baseline_git_blob": "7e05a9c6f2ea2b9a056c26f9a6f5d8b680d2bf80",
+      "current_git_blob": "7e05a9c6f2ea2b9a056c26f9a6f5d8b680d2bf80",
+      "byte_identical": true,
+      "sha256_current": "cfcc889d00c1a6da8625fdf0c2737d919a190fef1a3e20a82f5c90b8f2a8d367",
+      "bytes": 2699
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/WK-250925-PV84.pdf",
+      "baseline_git_blob": "aa0ac2790777244dc14d69c06dde8220f314b679",
+      "current_git_blob": "aa0ac2790777244dc14d69c06dde8220f314b679",
+      "byte_identical": true,
+      "sha256_current": "7daafa3bed2e41934fd84ca5eb1e133011c62fa32fc309aad81c763b189ffc35",
+      "bytes": 3212
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/belege/Waermekosten_Rechenbogen_2025.pdf",
+      "baseline_git_blob": "f7dce37cf8a2062f7bab1fab1ca24a0e1900cae8",
+      "current_git_blob": "f7dce37cf8a2062f7bab1fab1ca24a0e1900cae8",
+      "byte_identical": true,
+      "sha256_current": "9d1e910076368cb06f7cfb7b23c71fe657aa8f131edd53491eea4a01ae2ac515",
+      "bytes": 3381
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/gesamt-pdf/betriebskosten-2025-weg-schoeneberg_gesamt.pdf",
+      "baseline_git_blob": "c92dd35cda99a6273d3ae9cda128f53a91aa1396",
+      "current_git_blob": "c92dd35cda99a6273d3ae9cda128f53a91aa1396",
+      "byte_identical": true,
+      "sha256_current": "db9dcf6057368d4ca1e584934ed645a8a7b61f820ba6bccbf3ddb668fbc4df0a",
+      "bytes": 665393
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/01_2025-07-18_seidel_schadenmeldung.eml",
+      "baseline_git_blob": "a9086b09dbd33592bb0c3568fc50d67bb4e0715b",
+      "current_git_blob": "a9086b09dbd33592bb0c3568fc50d67bb4e0715b",
+      "byte_identical": true,
+      "sha256_current": "d8b5a579a6bdd3ab4c3571b8b9511574e83e7d5fceb887ddaca9e1e6a819ad76",
+      "bytes": 2101
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/02_2025-07-24_tuerenservice_ausfuehrung.eml",
+      "baseline_git_blob": "9b8f2328e1da9e13af227869b1fc883c4090f0a5",
+      "current_git_blob": "9b8f2328e1da9e13af227869b1fc883c4090f0a5",
+      "byte_identical": true,
+      "sha256_current": "321aff152ff92c05a18a2fe12b5e51edf5e4cc20d4f39a4018bd0f991c9624f4",
+      "bytes": 2082
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/03_2025-09-12_kiezwerk_reinigung_gutschrift.eml",
+      "baseline_git_blob": "3945eb837931563349e52bbad39e57bdef4fe489",
+      "current_git_blob": "3945eb837931563349e52bbad39e57bdef4fe489",
+      "byte_identical": true,
+      "sha256_current": "5901fabdb0a3ed74c7dd99359c9da396a2807e90df57c318461fe73eaa38e8f0",
+      "bytes": 2104
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/04_2026-08-12_wendt_eigentuemerunterlagen.eml",
+      "baseline_git_blob": "28d28a11a14ec977aaf92612f0f3f360dad44ce1",
+      "current_git_blob": "28d28a11a14ec977aaf92612f0f3f360dad44ce1",
+      "byte_identical": true,
+      "sha256_current": "b97a0344626439fd5e0cd1d7c36870c478fd728fdaa308d92384cf42897840ec",
+      "bytes": 2145
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/05_2026-08-18_schuette_zustellung_mieter.eml",
+      "baseline_git_blob": "b29e999fe2b98fa267ce7a60bf3dc6b18f2f2237",
+      "current_git_blob": "b29e999fe2b98fa267ce7a60bf3dc6b18f2f2237",
+      "byte_identical": true,
+      "sha256_current": "2690ec11b51f4a7b23610da0f3bf801d5184b10a3a05d947979660801da8501b",
+      "bytes": 2177
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/06_2026-09-03_seidel_einwendungen.eml",
+      "baseline_git_blob": "d8a7ff97bfb48b8c4b47fc5fdf6da49128250715",
+      "current_git_blob": "d8a7ff97bfb48b8c4b47fc5fdf6da49128250715",
+      "byte_identical": true,
+      "sha256_current": "513ebc5b2d2f49d8d19b2111e51c50a3b380077d0a245d2f3872344a0337c0e3",
+      "bytes": 2627
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/07_2026-09-04_schuette_an_verwaltung.eml",
+      "baseline_git_blob": "4af562367d30efe12b3611ca199a0be4ae05cdd1",
+      "current_git_blob": "4af562367d30efe12b3611ca199a0be4ae05cdd1",
+      "byte_identical": true,
+      "sha256_current": "5782a50a3c093486d3fa538944e20e7b982ceae97cc8b1416b6a6d9db7cfad45",
+      "bytes": 2456
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/08_2026-09-07_wendt_rueckfrage_hausdienst.eml",
+      "baseline_git_blob": "52291d6b0720cd25f73697dbff40ba1a299b2b7e",
+      "current_git_blob": "52291d6b0720cd25f73697dbff40ba1a299b2b7e",
+      "byte_identical": true,
+      "sha256_current": "9b9548100a56cb83e2c6bae6d89ecbffe52422ac48078a9d0ab0e233a14792a4",
+      "bytes": 2344
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/09_2026-09-09_kiezwerk_leistungsdetails.eml",
+      "baseline_git_blob": "716badf7315f15e3ea9642204a7497f7149857b3",
+      "current_git_blob": "716badf7315f15e3ea9642204a7497f7149857b3",
+      "byte_identical": true,
+      "sha256_current": "39a4738305ac96bae0900e8a898feb69b4c25398a35084fec204b88c4f96443e",
+      "bytes": 2466
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/10_2026-09-14_wendt_schuette_bearbeitungsstand.eml",
+      "baseline_git_blob": "0462c96c0d73a3dcfd349f65f7e9fd0ded52c896",
+      "current_git_blob": "0462c96c0d73a3dcfd349f65f7e9fd0ded52c896",
+      "byte_identical": true,
+      "sha256_current": "ede1cc87d9f8723af06d40d5b4c5fa4f18750ffc7cbe8ec1c196fc5352e1c732",
+      "bytes": 2785
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/11_chat_schuette_wendt_kellerschaden.txt",
+      "baseline_git_blob": "14eae2e7ff0f849dc0c868d5b8f16620910a4f86",
+      "current_git_blob": "14eae2e7ff0f849dc0c868d5b8f16620910a4f86",
+      "byte_identical": true,
+      "sha256_current": "2726f9bf03de2579c1fe1bdfe9cd601ac5e399ddaef3c826ed76b2344983e4bf",
+      "bytes": 2841
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/12_chat_seidel_schuette_abrechnung.txt",
+      "baseline_git_blob": "8956743bf76bc55c94f484a2b26f1052976e3a84",
+      "current_git_blob": "8956743bf76bc55c94f484a2b26f1052976e3a84",
+      "byte_identical": true,
+      "sha256_current": "bce24c97030207eab17a000d163002d9774e7040d4738eecc3eea273f733c1e8",
+      "bytes": 2760
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/13_2025-06-18_wendt_fahrradabholung.eml",
+      "baseline_git_blob": "0e625c4231f867f4ec9e6982961175934d3275eb",
+      "current_git_blob": "0e625c4231f867f4ec9e6982961175934d3275eb",
+      "byte_identical": true,
+      "sha256_current": "c132e6ba4c1fccdec1dc53b325eeffe8a1225fd1a860f99fc1223656f9ac295e",
+      "bytes": 3043
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/14_2025-08-06_wendt_lager_blaues_rad.eml",
+      "baseline_git_blob": "5cfb11d0c554e9520fe3297cce0fd758e5bcad61",
+      "current_git_blob": "5cfb11d0c554e9520fe3297cce0fd758e5bcad61",
+      "byte_identical": true,
+      "sha256_current": "8b1f6b43e03c6624f3401f9c26ec5a4f5ecf4e8100e1eed02bc843de3a72a9ed",
+      "bytes": 2975
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/15_2025-09-26_wendt_laborbericht_ventil.eml",
+      "baseline_git_blob": "7f96d167b1cc647c54220ce51e707368cd59237d",
+      "current_git_blob": "7f96d167b1cc647c54220ce51e707368cd59237d",
+      "byte_identical": true,
+      "sha256_current": "b08db27eb3c96c45857f7a5b5d0dc8e9286e97f0dc47758e9200df2ab6cb5e5c",
+      "bytes": 3062
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/16_2026-05-08_klinker_ladeinfrastruktur.eml",
+      "baseline_git_blob": "57593921b5958bf7f37f2908aa99a382cf2e31b2",
+      "current_git_blob": "57593921b5958bf7f37f2908aa99a382cf2e31b2",
+      "byte_identical": true,
+      "sha256_current": "9028ca9d694005a8c03a4e16d0a20d18c0dca80b3d8d7c6bf652bc1b464539f3",
+      "bytes": 3653
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/korrespondenz/17_chat_seidel_wendt_belegzugang.txt",
+      "baseline_git_blob": "e4744edefcb9933257dc78e37153d0ffb2e07137",
+      "current_git_blob": "e4744edefcb9933257dc78e37153d0ffb2e07137",
+      "byte_identical": true,
+      "sha256_current": "e8cfaacbff0ca11fda3f7cb59de950e056130cae745364ca62efc4f4c6afac73",
+      "bytes": 3745
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/rubric.yaml",
+      "baseline_git_blob": "38ed6479f42c918095fa60114eb75cbec3b9c220",
+      "current_git_blob": "38ed6479f42c918095fa60114eb75cbec3b9c220",
+      "byte_identical": true,
+      "sha256_current": "afdb53fe8662bffe0d3c0311561a63d0bbe8251ff1e1ec24127c563f9e631090",
+      "bytes": 735
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Belegeingang_2025.csv",
+      "baseline_git_blob": "5c063f654579fb5081a0d7ee22e24c0d907a8935",
+      "current_git_blob": "5c063f654579fb5081a0d7ee22e24c0d907a8935",
+      "byte_identical": true,
+      "sha256_current": "34ac12fb66d4205bbc20ed4d3555028e564acde55618d5f228d0a2c3545964f9",
+      "bytes": 5731
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Belegnachtrag_2025_2026.csv",
+      "baseline_git_blob": "56e0ad6f91fa619c019b1bf6a02559dfe3a51eb1",
+      "current_git_blob": "56e0ad6f91fa619c019b1bf6a02559dfe3a51eb1",
+      "byte_identical": true,
+      "sha256_current": "5dff754fcc7ed567164241aa77eb08f4a3b611736f3777566587abbecc29bafb",
+      "bytes": 1750
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Flaechen_und_Messwerte_2025.csv",
+      "baseline_git_blob": "f60d4af3c475cd18f6ee2cf71398546b3a8c0811",
+      "current_git_blob": "f60d4af3c475cd18f6ee2cf71398546b3a8c0811",
+      "byte_identical": true,
+      "sha256_current": "8a49aeea576ed201d2c37bac1c470300f19f6eadc9651d59e919dbcb1f49a25c",
+      "bytes": 744
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Kontoauszug_Sonderbuchungen.csv",
+      "baseline_git_blob": "774c20fe748328824104f41afce660aec953840e",
+      "current_git_blob": "774c20fe748328824104f41afce660aec953840e",
+      "byte_identical": true,
+      "sha256_current": "75057274a9b4ad95318d5fb43db2c6bc632646c88db5db172ae4376f539b1d72",
+      "bytes": 401
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Mietkonto_2025.csv",
+      "baseline_git_blob": "05d9bf9d0ec05b1fb0044eb8e7260b72f71365a1",
+      "current_git_blob": "05d9bf9d0ec05b1fb0044eb8e7260b72f71365a1",
+      "byte_identical": true,
+      "sha256_current": "c6029187edea8be9c132496cfea67e1ef85334dcd98dc6215861266826fbc861",
+      "bytes": 1000
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Tankbuch_2025.csv",
+      "baseline_git_blob": "b4b442c96766ae6f752a9bb31015f217f914cedc",
+      "current_git_blob": "b4b442c96766ae6f752a9bb31015f217f914cedc",
+      "byte_identical": true,
+      "sha256_current": "d3c983928192d1f1785d68730209684b116d4ea76d3c63293dba756bbbb328fb",
+      "bytes": 387
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Verwaltungsbuchhaltung_2025.xlsx",
+      "baseline_git_blob": "663e9220a27ab7815df9ca3e66ba0d21d8c06129",
+      "current_git_blob": "663e9220a27ab7815df9ca3e66ba0d21d8c06129",
+      "byte_identical": true,
+      "sha256_current": "abcc01754c6f3ed4a3569160df21065c8cedaa99fcde93c07dc5d70d7bae9943",
+      "bytes": 16300
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/zahlenwerk/Zahlungsdetails_Nachtraege.csv",
+      "baseline_git_blob": "753042c5022a01b69b9c3cf1c36ce4e20549e3d1",
+      "current_git_blob": "753042c5022a01b69b9c3cf1c36ce4e20549e3d1",
+      "byte_identical": true,
+      "sha256_current": "39a8e00c8142634b686a86e2a3a1dc537225c618b5afdd63c208b89d8b226c00",
+      "bytes": 621
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/00-stammdaten.docx",
+      "baseline_git_blob": "bd2a5ed94950153a775ae1294dc021b969cf9363",
+      "current_git_blob": "bd2a5ed94950153a775ae1294dc021b969cf9363",
+      "byte_identical": true,
+      "sha256_current": "0ec30be6a0b3ced4988f58cb5a2b5eb98f7ec0fd4c4dddec2b5c8940e7978438",
+      "bytes": 41097
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/01-verwaltungsbeirat-notiz.docx",
+      "baseline_git_blob": "804edc4ac267724816b91651748774e32320b846",
+      "current_git_blob": "804edc4ac267724816b91651748774e32320b846",
+      "byte_identical": true,
+      "sha256_current": "7b442916e2cf1c213642f78dcf86e149cedb60802e3ff5daaece73287a732f0c",
+      "bytes": 39392
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/02-einladung-eigentuemerversammlung-entwurf.docx",
+      "baseline_git_blob": "f95879911af105d3ecfdcc71c095a267f23355d4",
+      "current_git_blob": "f95879911af105d3ecfdcc71c095a267f23355d4",
+      "byte_identical": true,
+      "sha256_current": "45c64ea363fd845d851f49dc2d733ea45cc159f86ef9aa4aef1958c633b01ae9",
+      "bytes": 39003
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/03-handwerkerangebote-balkone-und-dach.docx",
+      "baseline_git_blob": "7b595d9faf8fc8a6b6c14a8408f4b5a6aaa73aa9",
+      "current_git_blob": "7b595d9faf8fc8a6b6c14a8408f4b5a6aaa73aa9",
+      "byte_identical": true,
+      "sha256_current": "f58c0294866d17b5bdaf41ea96d947c4193eed055cdb43cd49e5e02e85237bce",
+      "bytes": 38921
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/04-jahresabrechnung-2025-rohpruefung.docx",
+      "baseline_git_blob": "da567e36871164353312729c0f76391d2d9d5953",
+      "current_git_blob": "da567e36871164353312729c0f76391d2d9d5953",
+      "byte_identical": true,
+      "sha256_current": "4a0f7286e92e58c46c3d4d2b3afb2b6a9257301b68d25ef57a2f91d1fa8c0c31",
+      "bytes": 37742
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/05-eigentuemer-und-mieterbeschwerden.docx",
+      "baseline_git_blob": "5ff88607a44262e4d9aa57663cf89678116fe904",
+      "current_git_blob": "5ff88607a44262e4d9aa57663cf89678116fe904",
+      "byte_identical": true,
+      "sha256_current": "40d793971218699854ca8cf5956fead6ecc739eb1f013af683704a68d65c4e52",
+      "bytes": 37457
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/06-beschlussliste-alt-und-neu.docx",
+      "baseline_git_blob": "848ab811567ee2af2e9cfd0dabba95946b0b88d7",
+      "current_git_blob": "848ab811567ee2af2e9cfd0dabba95946b0b88d7",
+      "byte_identical": true,
+      "sha256_current": "3ccf10710724659b51140e8d1ba5b6bbf8b150b4c0479dfda527786b622993d7",
+      "bytes": 37603
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/07-teilungserklaerung-auszug.docx",
+      "baseline_git_blob": "b93a216e1f69717939fc78fd4dabde2a503bcdc8",
+      "current_git_blob": "b93a216e1f69717939fc78fd4dabde2a503bcdc8",
+      "byte_identical": true,
+      "sha256_current": "1d986c9413851d2b74057f4315d048a1759356d90c4e042d7c24ceb96a67f6f3",
+      "bytes": 40808
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/08-verwaltervertrag-auszug.docx",
+      "baseline_git_blob": "3130c43ce9eec4a742527c38aa1f8272cef28dd0",
+      "current_git_blob": "3130c43ce9eec4a742527c38aa1f8272cef28dd0",
+      "byte_identical": true,
+      "sha256_current": "a245e2d4fd5c7177d3cd6f0a841386ebec9f79f61caf89b73803aa12da2e3a7d",
+      "bytes": 39388
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/09-wirtschaftsplan-2026-entwurf.docx",
+      "baseline_git_blob": "e4345d9b22de3596bd1187732fcf6add3ea70239",
+      "current_git_blob": "e4345d9b22de3596bd1187732fcf6add3ea70239",
+      "byte_identical": true,
+      "sha256_current": "5828e89efd8c997f6332e60550df199ac0a23d5495ed6f6bc832a82b07d819e0",
+      "bytes": 40181
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/10-beschlussvorlagen-eigentuemerversammlung.docx",
+      "baseline_git_blob": "6173e6da3dbb7c068e502234b865c70ede588f03",
+      "current_git_blob": "6173e6da3dbb7c068e502234b865c70ede588f03",
+      "byte_identical": true,
+      "sha256_current": "16fbe44c65a3a66ea7a24ad729cdd0ce505b9d6daf95cf0e9e553ab12526ccfe",
+      "bytes": 40873
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/11-co2kostaufg-aufteilungspruefung.docx",
+      "baseline_git_blob": "279a618db31d725642be1ceca917a479e5502f40",
+      "current_git_blob": "279a618db31d725642be1ceca917a479e5502f40",
+      "byte_identical": true,
+      "sha256_current": "feb7b1bb5b02c6ef1b74c82794333f8e40c302e7781928455b6bdca0c41d19c1",
+      "bytes": 41420
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/12-anfechtungsrisiko-matrix.docx",
+      "baseline_git_blob": "5e95188e89072159c42ab87a939eec69472e2d7b",
+      "current_git_blob": "5e95188e89072159c42ab87a939eec69472e2d7b",
+      "byte_identical": true,
+      "sha256_current": "bf2aed4c280ed3cdb62e8927f605f25ba54d3655a6d8d1d9ba06eaaf9911cf88",
+      "bytes": 40072
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/13-hausgeldmahnung-pasternak-WE3.docx",
+      "baseline_git_blob": "47d51225b24cc0fa54b5bb3ef328c60b691432e9",
+      "current_git_blob": "47d51225b24cc0fa54b5bb3ef328c60b691432e9",
+      "byte_identical": true,
+      "sha256_current": "4087e8e109da2b34cd17cd33ad631b61782cb44c760dd9ad1e60c28bca4cd910",
+      "bytes": 40033
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/14-fristen-kalender-2026.docx",
+      "baseline_git_blob": "838f294c70022cf9e7d08e3718ab24fa7ced009a",
+      "current_git_blob": "838f294c70022cf9e7d08e3718ab24fa7ced009a",
+      "byte_identical": true,
+      "sha256_current": "dca8e5cabd82daa9cffc7545f57efbd6aa4fd20170e258c63e3a5f4ae5aaee9d",
+      "bytes": 39035
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/15-anwaltsschreiben-eigentuemer-balkone-droht-klage.docx",
+      "baseline_git_blob": "dcb64512374787cafd02ddb9bcdb79de2a5fe28a",
+      "current_git_blob": "dcb64512374787cafd02ddb9bcdb79de2a5fe28a",
+      "byte_identical": true,
+      "sha256_current": "8c0b991ae81cab51c0ae3ee72f8f370d686adf13d1b775e006277c2cb98e0d45",
+      "bytes": 39828
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/16-protokoll-eigentuemerversammlung-vergangene.docx",
+      "baseline_git_blob": "4162bca88b28e098528f7e9d9d7e4d75bdde82ce",
+      "current_git_blob": "4162bca88b28e098528f7e9d9d7e4d75bdde82ce",
+      "byte_identical": true,
+      "sha256_current": "27e2edcfa924a8be334100d06e95af289aaced4303256ff46de26a85f416d6cc",
+      "bytes": 39129
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/17-wallbox-antrag-yildiz-WE19.docx",
+      "baseline_git_blob": "8f0d943648a5fd4f1e88b5d5dcf535384bc5edc6",
+      "current_git_blob": "8f0d943648a5fd4f1e88b5d5dcf535384bc5edc6",
+      "byte_identical": true,
+      "sha256_current": "771f1aa7982044f88532a490966914bad3eb28fdab4a4979818d378399840e0d",
+      "bytes": 39617
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/18-heizung-wasserschaden-versicherung.docx",
+      "baseline_git_blob": "8b5c3687665ff6c4b546fc893b8b9950e47adc75",
+      "current_git_blob": "8b5c3687665ff6c4b546fc893b8b9950e47adc75",
+      "byte_identical": true,
+      "sha256_current": "edd12b19f2b7284ca09b625c6486cb1a177777496531bf1e01be4805614b21f4",
+      "bytes": 38150
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/19-whatsapp-hausverwaltung-beirat-thread.docx",
+      "baseline_git_blob": "b0f88e270971e004bbe45e96c522031a14a5d5c5",
+      "current_git_blob": "b0f88e270971e004bbe45e96c522031a14a5d5c5",
+      "byte_identical": true,
+      "sha256_current": "4937b31055ac775e92549e1b82186a06cb9d694bdd579f3293e38e3045ac181b",
+      "bytes": 37653
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/20-restaurant-geruch-laerm-hof.docx",
+      "baseline_git_blob": "16ad8b1ac517d196a6e0a48cbbc19d431e41fe12",
+      "current_git_blob": "16ad8b1ac517d196a6e0a48cbbc19d431e41fe12",
+      "byte_identical": true,
+      "sha256_current": "8092a1833db8830c919ed713683df06e19dba511740b724a3fe40d41218f5364",
+      "bytes": 39082
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/21-fahrrad-tauben-kinder-weihnachtsbaum.docx",
+      "baseline_git_blob": "9487ce76226023b7af78219572d3c9008327e44f",
+      "current_git_blob": "9487ce76226023b7af78219572d3c9008327e44f",
+      "byte_identical": true,
+      "sha256_current": "5a6dc530ce29541e1e7bcd0de5e30e87c68364e7d0c44c8b0d6fcd6013273653",
+      "bytes": 37631
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/22-e-mobilitaet-pv-kellerstrom.docx",
+      "baseline_git_blob": "80f5498677b88e35118c24da9f5550c2d5d4902a",
+      "current_git_blob": "80f5498677b88e35118c24da9f5550c2d5d4902a",
+      "byte_identical": true,
+      "sha256_current": "77c27842ab48593ffa200b0bf3fd5235197b595ba7931c23ba0f6988ad66e6c2",
+      "bytes": 37732
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/23-top-marathon-einladung-und-beschlussfassungen.docx",
+      "baseline_git_blob": "18b4cddf41ab9914f216600e561a8b49830c70cd",
+      "current_git_blob": "18b4cddf41ab9914f216600e561a8b49830c70cd",
+      "byte_identical": true,
+      "sha256_current": "0663e5fcc4dcf35d0b2ddef163c620cb2cb05d6fc209a2e0b5fc1aa72c0918a3",
+      "bytes": 37433
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/24-nebenkosten-ist-plan-vermieterpaket.docx",
+      "baseline_git_blob": "8293bfc30a9b93a35acd174ae38d5a8690e6ad3f",
+      "current_git_blob": "8293bfc30a9b93a35acd174ae38d5a8690e6ad3f",
+      "byte_identical": true,
+      "sha256_current": "aefae5dd6ea071c97bec984c3fc261c97e10e9f8795b82ba06f09c80fdb0495e",
+      "bytes": 37652
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/Gesamtakte_Hohenzollernhof_WEG_Hausverwaltung.pdf",
+      "baseline_git_blob": "b8d420cab5043257f4eb754a3da55903262038c3",
+      "current_git_blob": "b8d420cab5043257f4eb754a3da55903262038c3",
+      "byte_identical": true,
+      "sha256_current": "10d2faee59b7d2e8f8b8132f2037b017ada86c1fcd225fbf85a26f9275e1ba99",
+      "bytes": 185233
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/balkon_taubenspuren.jpg",
+      "baseline_git_blob": "1a9efb25b2e8cebf75fb5a0877f8a7a91f35e264",
+      "current_git_blob": "1a9efb25b2e8cebf75fb5a0877f8a7a91f35e264",
+      "byte_identical": true,
+      "sha256_current": "cb06fe6125d9fba77a6c12d690f504a2f578c4795bd0a7b7fc168212a79fee91",
+      "bytes": 49845
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/fahrradkeller_b17.jpg",
+      "baseline_git_blob": "3ae5a84b4ea1dd45de65083082d50b72ece8cc29",
+      "current_git_blob": "3ae5a84b4ea1dd45de65083082d50b72ece8cc29",
+      "byte_identical": true,
+      "sha256_current": "f090d3d9ce67445d1ab854ffa785b4e28ebe4b7cf3d3c804d68139cf170db1f4",
+      "bytes": 50619
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/heizung_leck_technikraum.jpg",
+      "baseline_git_blob": "4749bebabb76ddebd2b887036f29b2b33d84322a",
+      "current_git_blob": "4749bebabb76ddebd2b887036f29b2b33d84322a",
+      "byte_identical": true,
+      "sha256_current": "25e6c76ca2fc813ecbfd6925986a316e9848cc9e64d133ed67186b092681ebbe",
+      "bytes": 50242
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/restaurant_hof_muell.jpg",
+      "baseline_git_blob": "cf83d20570033448a4a6951ec6ecfce3550b12fe",
+      "current_git_blob": "cf83d20570033448a4a6951ec6ecfce3550b12fe",
+      "byte_identical": true,
+      "sha256_current": "1a7ba09b6feef4ce60623072aa6f380e455e7158149e3ca647c35b6aa4800af6",
+      "bytes": 50007
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/tiefgarage_kabel_k14.jpg",
+      "baseline_git_blob": "3cf5b1934d63cdb81d6db430938ee82c7b5ae9dd",
+      "current_git_blob": "3cf5b1934d63cdb81d6db430938ee82c7b5ae9dd",
+      "byte_identical": true,
+      "sha256_current": "c8a60bfc996e2c35d9f13776c7b7a0700bb1a508d32c45d0d88f7a494640b806",
+      "bytes": 50516
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/bilder/weihnachtsbaum_eingang.jpg",
+      "baseline_git_blob": "7fd5c5ffc45e72bce9f9e0b86e9bd57aab36c595",
+      "current_git_blob": "7fd5c5ffc45e72bce9f9e0b86e9bd57aab36c595",
+      "byte_identical": true,
+      "sha256_current": "e5087b75eb5409a2abeeea309a3a8045192c64311c9ee5d07e447f66dbd0cfd7",
+      "bytes": 50671
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/eml/01-mietervertretung-geruch-und-hof.eml",
+      "baseline_git_blob": "e7a5f2b3d6510b899d90afa966d42701052f7194",
+      "current_git_blob": "e7a5f2b3d6510b899d90afa966d42701052f7194",
+      "byte_identical": true,
+      "sha256_current": "063119e22d8f6d8a5f735ccad193dcc47442ec69b1761b768957319fd945fa6a",
+      "bytes": 684
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/eml/02-verwalter-an-betreiber-il-tiglio.eml",
+      "baseline_git_blob": "53e4c4814c15392f16a224e493fe26a107e0b18c",
+      "current_git_blob": "53e4c4814c15392f16a224e493fe26a107e0b18c",
+      "byte_identical": true,
+      "sha256_current": "5996f6658b6419bf8aacb981bc1b66f00d762427e1011e664b7a0c9ef574eaf1",
+      "bytes": 574
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/eml/03-beirat-an-verwaltung-kabel-tiefgarage.eml",
+      "baseline_git_blob": "e774c63323a4445f41e855ae9622d67254ef1841",
+      "current_git_blob": "e774c63323a4445f41e855ae9622d67254ef1841",
+      "byte_identical": true,
+      "sha256_current": "ab4275a448346defa2b2e302ea24e57f80ea331337a89d7ce03cea7cd47a396c",
+      "bytes": 563
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/eml/04-betreiber-il-tiglio-antwort-wartungsnachweise.eml",
+      "baseline_git_blob": "89b482953834f3588e6678dabdfc72ad5aeb7e52",
+      "current_git_blob": "89b482953834f3588e6678dabdfc72ad5aeb7e52",
+      "byte_identical": true,
+      "sha256_current": "fce0ec5ac59e3218ba5d4dd0eac3c607a74b0d69d038d8886f4e54df48965195",
+      "bytes": 2332
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf",
+      "baseline_git_blob": "dd402c8d36c2c17e84328a212eedd2c8c601bf64",
+      "current_git_blob": "dd402c8d36c2c17e84328a212eedd2c8c601bf64",
+      "byte_identical": true,
+      "sha256_current": "d78a0bff257029576ed30253702bf39b4786774ec184249c8d26a1f0dc6a180f",
+      "bytes": 2287148
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/mandant.yaml",
+      "baseline_git_blob": "6264807dbca985449519b26d07cd1ec288dab58b",
+      "current_git_blob": "6264807dbca985449519b26d07cd1ec288dab58b",
+      "byte_identical": true,
+      "sha256_current": "b26332562dc482020b6f47cce044c87480f9ea5b6e6ff596d39aaf0ad66fd9be",
+      "bytes": 2135
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/rubric.yaml",
+      "baseline_git_blob": "989a2ab675c92e914600c5b3f02d4f8705785e70",
+      "current_git_blob": "989a2ab675c92e914600c5b3f02d4f8705785e70",
+      "byte_identical": true,
+      "sha256_current": "cbc583262817c3fb4ab345a095489029ddba682dc4b3bec257d3e084058b2bcb",
+      "bytes": 570
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/tabellen/ist-plan-nebenkosten-2025-2026.csv",
+      "baseline_git_blob": "c0c817019208d4f91f816d660b2611c96254e9ef",
+      "current_git_blob": "c0c817019208d4f91f816d660b2611c96254e9ef",
+      "byte_identical": true,
+      "sha256_current": "a37da8ec04f0caad8b451be65ac7a13a5cb854bd392fb7c2a4d938bf45deb4be",
+      "bytes": 505
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/tabellen/ist-plan-nebenkosten-2025-2026.xlsx",
+      "baseline_git_blob": "e285d5b2a69fc8239f8727c5686196fc928284b8",
+      "current_git_blob": "e285d5b2a69fc8239f8727c5686196fc928284b8",
+      "byte_identical": true,
+      "sha256_current": "711f48674bc7a63519a871f19017e6e345a7ca78ae624e04f81f753b08596669",
+      "bytes": 5507
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/01_Auftrag_Kellervorfall.docx",
+      "baseline_git_blob": "ef265b387d2842d2b8c73af554b18214261a909b",
+      "current_git_blob": "ef265b387d2842d2b8c73af554b18214261a909b",
+      "byte_identical": true,
+      "sha256_current": "135489c698b99a7ca1bcb3488220a03a1e29e0010405eb66c9bf570a13b5a388",
+      "bytes": 38078
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/02_Objekt_und_Zustaendigkeiten.docx",
+      "baseline_git_blob": "8860a632096a332565e034b0095a7a4c276ef0ec",
+      "current_git_blob": "8860a632096a332565e034b0095a7a4c276ef0ec",
+      "byte_identical": true,
+      "sha256_current": "62b41c1164365259b44df95007cd2732572723793acbeb908df68eeafca69113",
+      "bytes": 37936
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/03_Erste_Meldung.eml",
+      "baseline_git_blob": "e14c7078872a75f3042b363ff849a67d2692c105",
+      "current_git_blob": "e14c7078872a75f3042b363ff849a67d2692c105",
+      "byte_identical": true,
+      "sha256_current": "8fa8b130f467080567fa43183c959095febd7d84ff07160823a41e9b10b2643a",
+      "bytes": 1068
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/04_Besichtigungsprotokoll.docx",
+      "baseline_git_blob": "16752e69ae4a51dd64998c111f52521ddea85891",
+      "current_git_blob": "16752e69ae4a51dd64998c111f52521ddea85891",
+      "byte_identical": true,
+      "sha256_current": "a988b65dba65174f9e95cacc2884db1276cd78e7d2782a80ec253a1187759e76",
+      "bytes": 37961
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/05_Polizeiliche_Bestaetigung.docx",
+      "baseline_git_blob": "0e6e15987ef4a7a1ba63ea1bea656cdae279a5d2",
+      "current_git_blob": "0e6e15987ef4a7a1ba63ea1bea656cdae279a5d2",
+      "byte_identical": true,
+      "sha256_current": "192f5a720193b9ff6de2c90b81811d8951424cfda632973633899bda4d1c2d23",
+      "bytes": 37800
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/06_Notdienstrechnung.docx",
+      "baseline_git_blob": "1edd3be8105b053d53a12f749bb347d6cfa3ea72",
+      "current_git_blob": "1edd3be8105b053d53a12f749bb347d6cfa3ea72",
+      "byte_identical": true,
+      "sha256_current": "c5cf7e6f944dbe8e3f2c4949c408d20ed64cd7aa5fa775090a8ea8e5f6c14917",
+      "bytes": 37771
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/07_Hummel_Erinnerung.eml",
+      "baseline_git_blob": "62862a79aaca3c3b119213d928f27028554a2666",
+      "current_git_blob": "62862a79aaca3c3b119213d928f27028554a2666",
+      "byte_identical": true,
+      "sha256_current": "1785757613d25a5d848809f1ed5b670d9cad06688c239326ef1176fe7a74bcd8",
+      "bytes": 997
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/08_Hausmeister_Antwort.eml",
+      "baseline_git_blob": "42aa23f07cfe610d7f939789f855996f67036c79",
+      "current_git_blob": "42aa23f07cfe610d7f939789f855996f67036c79",
+      "byte_identical": true,
+      "sha256_current": "9452062e51a0e7963b1996fe922d997111b50a79e2bd0473403181112a2423dc",
+      "bytes": 52920
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/09_Arbeitszettel_August.docx",
+      "baseline_git_blob": "fa92067be4ea55d666aea55b2f47207fb7506e64",
+      "current_git_blob": "fa92067be4ea55d666aea55b2f47207fb7506e64",
+      "byte_identical": true,
+      "sha256_current": "683a0ff5ebda90aeab4b84d1990c71e3d76f4d6d319c4fbbc66d762c60c0c0ab",
+      "bytes": 37605
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/10_Kaufbeleg_E_Bike.docx",
+      "baseline_git_blob": "8b62405051edc4881c81653f933eb108c4cb4088",
+      "current_git_blob": "8b62405051edc4881c81653f933eb108c4cb4088",
+      "byte_identical": true,
+      "sha256_current": "535202d59534fcf807c7a8e34cdeafca3f05f2113039fe0c9063b1ff3e4804ad",
+      "bytes": 37590
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/11_Kaufbeleg_Kinderfahrrad.docx",
+      "baseline_git_blob": "c568b3bed50901a351074e5f662c81d99111b399",
+      "current_git_blob": "c568b3bed50901a351074e5f662c81d99111b399",
+      "byte_identical": true,
+      "sha256_current": "bf67f85c16302ef57347b0f174c9246b213ecb2c0daf6228e00feb38990892f1",
+      "bytes": 37513
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/12_Werkzeugmeldung.eml",
+      "baseline_git_blob": "09af0cef9721488e69092ae0c092a4156c2e7849",
+      "current_git_blob": "09af0cef9721488e69092ae0c092a4156c2e7849",
+      "byte_identical": true,
+      "sha256_current": "557c5566cc8a7e105848925ee76fc6438bfa58f49bbd0d8e4d14b25fb3183e06",
+      "bytes": 1111
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/13_Gebaeudeversicherung_Vertrag.docx",
+      "baseline_git_blob": "cd7a3e6bf3dd16543da30b5a125321cf4b0af35e",
+      "current_git_blob": "cd7a3e6bf3dd16543da30b5a125321cf4b0af35e",
+      "byte_identical": true,
+      "sha256_current": "9cf5d951bc76b2143765f76e9f28439d63e9a94f501784ec48262b9eb2f9c6cd",
+      "bytes": 37930
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/14_Schadenmeldung_Gebaeude.eml",
+      "baseline_git_blob": "b931b7e3deec7d250549d589f3dda00ae0f368d4",
+      "current_git_blob": "b931b7e3deec7d250549d589f3dda00ae0f368d4",
+      "byte_identical": true,
+      "sha256_current": "f3f26c9bb97d1f338e033b060b4c04f253f579f8393264bdd6726ce8ad8fdf08",
+      "bytes": 105677
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/15_Versicherer_Nachforderung.eml",
+      "baseline_git_blob": "1fdfe6dbfd1ad6fe7c9cf2684b0a0d1112ca8cd6",
+      "current_git_blob": "1fdfe6dbfd1ad6fe7c9cf2684b0a0d1112ca8cd6",
+      "byte_identical": true,
+      "sha256_current": "b70ce3bd422cd88c626abec189f04efdc864c33679a89acd3fea887ef99b271f",
+      "bytes": 1288
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/16_Hausratversicherung_Mieterin.eml",
+      "baseline_git_blob": "8a6369c3171a4ed78db1319c7b92f17c815df9f2",
+      "current_git_blob": "8a6369c3171a4ed78db1319c7b92f17c815df9f2",
+      "byte_identical": true,
+      "sha256_current": "5fec4a12d9ad8a090f5869a898e1ed2ffda44bf2f1301ec0069155d8579a97d8",
+      "bytes": 1163
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/17_Angebot_Tuer_Reparatur.docx",
+      "baseline_git_blob": "c723d06df00487cba7e668c8cf3ce1e0ecf60e0d",
+      "current_git_blob": "c723d06df00487cba7e668c8cf3ce1e0ecf60e0d",
+      "byte_identical": true,
+      "sha256_current": "d91edf149195680354a8ea97cca2510594961d801cb87276ff7c3e335559641a",
+      "bytes": 37764
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/18_Angebot_Schliessung.docx",
+      "baseline_git_blob": "685ff9c53c7de714467d9e3e772bf43e822372a2",
+      "current_git_blob": "685ff9c53c7de714467d9e3e772bf43e822372a2",
+      "byte_identical": true,
+      "sha256_current": "e67ffe0fe41311d8868f44744e4cdddd50d4cd191bfa3bc7e40a9b146884714c",
+      "bytes": 37757
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/19_Kosten_und_Schaeden.xlsx",
+      "baseline_git_blob": "4c3edcf969c04bd7b37316f3cb7cfaea51b1f570",
+      "current_git_blob": "4c3edcf969c04bd7b37316f3cb7cfaea51b1f570",
+      "byte_identical": true,
+      "sha256_current": "87da46bfb15657ea1118f8e9357ad11a002764d6e0426160000c76e4d51e158c",
+      "bytes": 9902
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/20_Angebot_Kameras.docx",
+      "baseline_git_blob": "551bd44cbd9040b9fa73608af1b4a45961e1a4e8",
+      "current_git_blob": "551bd44cbd9040b9fa73608af1b4a45961e1a4e8",
+      "byte_identical": true,
+      "sha256_current": "f60f7a6684195d0aaf1ca2f6f640773d834127890c512555399c6a5493476ac1",
+      "bytes": 37878
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/21_Beirat_Drei_Angebote.eml",
+      "baseline_git_blob": "cefca3612612ae7c72ae040bc19145bac652a588",
+      "current_git_blob": "cefca3612612ae7c72ae040bc19145bac652a588",
+      "byte_identical": true,
+      "sha256_current": "4e661e2eaf7a1cc9f57781a14ab36bc9a301b12a4a07a9f09488fcd480c4ff0a",
+      "bytes": 1114
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/22_Verteilung_nach_Wohnungen.eml",
+      "baseline_git_blob": "9872b42b9d6b39e699048fde4a03a72e69ee0208",
+      "current_git_blob": "9872b42b9d6b39e699048fde4a03a72e69ee0208",
+      "byte_identical": true,
+      "sha256_current": "41e6e455ccf3e3ac8a449da40fbbea918be8b8f465ad074af252199c3072e573",
+      "bytes": 1023
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/23_Mieterin_an_Vermieter.eml",
+      "baseline_git_blob": "2c4acddbe66d2b1ecb7969237512bd5607cd2cd0",
+      "current_git_blob": "2c4acddbe66d2b1ecb7969237512bd5607cd2cd0",
+      "byte_identical": true,
+      "sha256_current": "6ec503e88b916cffbb2748fd0b8e5dbef18f41e84aa6a3e054ede449d8140188",
+      "bytes": 1252
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/24_Vermieter_Weiterleitung.eml",
+      "baseline_git_blob": "cd0fcc4a617d8a3dda724c11ced84a2795968e4e",
+      "current_git_blob": "cd0fcc4a617d8a3dda724c11ced84a2795968e4e",
+      "byte_identical": true,
+      "sha256_current": "039f95b85df59332f29aeee6ce22bcf061823952363de752b286e014a451d404",
+      "bytes": 1028
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/25_Hauschat_Ausschnitt.txt",
+      "baseline_git_blob": "22be88ca85376e9b5066be6c85e0de82ca0c8825",
+      "current_git_blob": "22be88ca85376e9b5066be6c85e0de82ca0c8825",
+      "byte_identical": true,
+      "sha256_current": "db5ea27a0d58eddf013dddf4338bde12c94760dba35ff4ed00597431747e7a28",
+      "bytes": 675
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/26_Schluesselliste.docx",
+      "baseline_git_blob": "628a815177307915fca4bf746d83f1a2b9558c90",
+      "current_git_blob": "628a815177307915fca4bf746d83f1a2b9558c90",
+      "byte_identical": true,
+      "sha256_current": "094d29e3f07fcdf16fed8a36cbcaebe8bcda479e8c0170315f2903d506033398",
+      "bytes": 37799
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/27_Beschlussentwurf_Tuer.docx",
+      "baseline_git_blob": "e76b5c2afd44d9305b013bf442ae2084f5f34124",
+      "current_git_blob": "e76b5c2afd44d9305b013bf442ae2084f5f34124",
+      "byte_identical": true,
+      "sha256_current": "dc7c9e584ad469e6fec3023be864663f3ed25f6378eb6820c00ffcb040477b4d",
+      "bytes": 37845
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/28_Tischler_Termin.eml",
+      "baseline_git_blob": "83843d7941ef1e374ea3e5d7e4edb6b5499f1dc2",
+      "current_git_blob": "83843d7941ef1e374ea3e5d7e4edb6b5499f1dc2",
+      "byte_identical": true,
+      "sha256_current": "fa35d2b0cf2110d17295975c5390bcb722266401ecbf141782895726696cbaad",
+      "bytes": 994
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/29_Versicherer_Besichtigung.eml",
+      "baseline_git_blob": "57d198241881d477bfbee435e1048ff91c241dd8",
+      "current_git_blob": "57d198241881d477bfbee435e1048ff91c241dd8",
+      "byte_identical": true,
+      "sha256_current": "9439d63cdbf900e5c8d1b847c018fd86e4bb6b28a77bb8e97e552f5742e9dd47",
+      "bytes": 1120
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/30_Bewohnerinformation_Entwurf.docx",
+      "baseline_git_blob": "1cbdfeb6ae7e348c4e4a35360eb4d9b641de5e69",
+      "current_git_blob": "1cbdfeb6ae7e348c4e4a35360eb4d9b641de5e69",
+      "byte_identical": true,
+      "sha256_current": "89ba347cf444e80bb36b19950683f86d5beafa10a491aaaf2cf1608cb259d31d",
+      "bytes": 37890
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/31_Telefonnotiz_Broesel.txt",
+      "baseline_git_blob": "1b0d89085b0f7ed835d96756ec2694c53844213e",
+      "current_git_blob": "1b0d89085b0f7ed835d96756ec2694c53844213e",
+      "byte_identical": true,
+      "sha256_current": "bb8739e1ec034a10e2a4f60930e031f1142570e3d18f80fdfb27c1a2b7f4984f",
+      "bytes": 707
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/32_Nachtrag_Bearbeitungsauftrag.eml",
+      "baseline_git_blob": "44709e5caec403f08ccd50f7d278738a9209fe58",
+      "current_git_blob": "44709e5caec403f08ccd50f7d278738a9209fe58",
+      "byte_identical": true,
+      "sha256_current": "e58036284fef30f03e5d12f5344f57c08b51321bc29ca2bc85d5a720b738063f",
+      "bytes": 2654
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/gesamt-pdf/weg-kastanienhof-kellerdiebstahl_gesamt.pdf",
+      "baseline_git_blob": "9774ba75c849fd17dd1023e5cc8af101f8c1d01f",
+      "current_git_blob": "9774ba75c849fd17dd1023e5cc8af101f8c1d01f",
+      "byte_identical": true,
+      "sha256_current": "a518d36751527703c1cc79adb11596549a2bb29cc915e78962fb3e3e182fb7c0",
+      "bytes": 411265
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/rubric.yaml",
+      "baseline_git_blob": "fd733941d75a08182ccf4a9b1957c1f1f04be37f",
+      "current_git_blob": "fd733941d75a08182ccf4a9b1957c1f1f04be37f",
+      "byte_identical": true,
+      "sha256_current": "3b1265d65c24b8e59fa4f4a55117936f60f2f17eb25b787bb7230639a82d8a9d",
+      "bytes": 5934
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/01_Auftrag_Abrechnung.docx",
+      "baseline_git_blob": "85c049ffb105bbeb40e5d054e4a4c1d12ce8b0b7",
+      "current_git_blob": "85c049ffb105bbeb40e5d054e4a4c1d12ce8b0b7",
+      "byte_identical": true,
+      "sha256_current": "059da7907ddfac5e9d10f40cda54e973005b06568169a1caac3a0af48eba165e",
+      "bytes": 38106
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/02_Gemeinschaftsordnung.docx",
+      "baseline_git_blob": "0b763886d5ddd72e60200e4f1e63818cbd989205",
+      "current_git_blob": "0b763886d5ddd72e60200e4f1e63818cbd989205",
+      "byte_identical": true,
+      "sha256_current": "3ceff1a904ddb62cded79b43ce6531500fe44ea6223df7f38b178597ce953062",
+      "bytes": 38104
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/03_Eigentuemer_und_Vorschuesse.xlsx",
+      "baseline_git_blob": "ced59dab233d6727926847b22c8044c2e6120f8a",
+      "current_git_blob": "ced59dab233d6727926847b22c8044c2e6120f8a",
+      "byte_identical": true,
+      "sha256_current": "9ef3ee298649117269f4e44681d90cf9c016b4a94bb37e80e25977875930ca7e",
+      "bytes": 8765
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/04_Wirtschaftsplan_Beschluss.docx",
+      "baseline_git_blob": "6bcea18e4a5b2cf399d15826f0d5609ba33abe2c",
+      "current_git_blob": "6bcea18e4a5b2cf399d15826f0d5609ba33abe2c",
+      "byte_identical": true,
+      "sha256_current": "467d34e469185ba393150814c83d3bb56d46c523b6f0107f29b3c7b6f7a3e180",
+      "bytes": 37893
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/05_Buchhaltung_2025.xlsx",
+      "baseline_git_blob": "ba03c564207377db7536403e3b6bcb83066797db",
+      "current_git_blob": "ba03c564207377db7536403e3b6bcb83066797db",
+      "byte_identical": true,
+      "sha256_current": "3046fd28da96dc76ff2a1e570fa1510d01c625544cb83d476a97a375755520b0",
+      "bytes": 10031
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/06_Ruecklagenkonto_Bankauszug.docx",
+      "baseline_git_blob": "edb0dc09037ef3746c3ca87c78e1219ca59ef574",
+      "current_git_blob": "edb0dc09037ef3746c3ca87c78e1219ca59ef574",
+      "byte_identical": true,
+      "sha256_current": "e0e6a161dd6fca0cce5474a86f2541daad606124b98e65a1a18efc9c9d260cc1",
+      "bytes": 37715
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/07_Wasserrechnung.docx",
+      "baseline_git_blob": "f6d27699af4554a646f5788e227820430168bafa",
+      "current_git_blob": "f6d27699af4554a646f5788e227820430168bafa",
+      "byte_identical": true,
+      "sha256_current": "6fbf679369138b9e1019e3570a39995eada57970f1903be484cecac1287ca999",
+      "bytes": 37781
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/08_Muellrechnung.docx",
+      "baseline_git_blob": "ca9487e21c827557743b3659000645f8abe53f4d",
+      "current_git_blob": "ca9487e21c827557743b3659000645f8abe53f4d",
+      "byte_identical": true,
+      "sha256_current": "c2184108e2350362cf2aebf72d911116b0cd5fd34d74bf71b53d5c8b38d9997d",
+      "bytes": 37748
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/09_Gebaeudeversicherung.docx",
+      "baseline_git_blob": "352c2ccf0d11cf6e9587e6a5271df6ddd625a205",
+      "current_git_blob": "352c2ccf0d11cf6e9587e6a5271df6ddd625a205",
+      "byte_identical": true,
+      "sha256_current": "a6cfb55abccc6593ca48047d56b3fa6c6aaeccdaac1c604cc5da87380e108368",
+      "bytes": 37742
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/10_Stromrechnung.docx",
+      "baseline_git_blob": "7bcfe0de181ab3d04026f192f776416af0741294",
+      "current_git_blob": "7bcfe0de181ab3d04026f192f776416af0741294",
+      "byte_identical": true,
+      "sha256_current": "3bd9a97abab97a5d7bd940912d3fb12ec4a6fbef55eee75b821374954965d439",
+      "bytes": 37744
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/11_Reinigung.docx",
+      "baseline_git_blob": "afae0079313d4e887ec18bd4c9cc7c7802b9a3eb",
+      "current_git_blob": "afae0079313d4e887ec18bd4c9cc7c7802b9a3eb",
+      "byte_identical": true,
+      "sha256_current": "03d0bccc9c24dfa4cf6d4817d3f0aa07377e6da7271bcd95610ab301f24f6315",
+      "bytes": 37779
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/12_Hausmeisterrechnung.docx",
+      "baseline_git_blob": "34978deed9896981f88b1fa2478e41cecfe335a2",
+      "current_git_blob": "34978deed9896981f88b1fa2478e41cecfe335a2",
+      "byte_identical": true,
+      "sha256_current": "634cd185002bd771a76e5a4005dbd0821323434dd319ee6d85bd4732320f860a",
+      "bytes": 37840
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/13_Hausmeister_Leistungsnachweis.docx",
+      "baseline_git_blob": "564f9545862432444e3ae84aae37d0a0c32cba22",
+      "current_git_blob": "564f9545862432444e3ae84aae37d0a0c32cba22",
+      "byte_identical": true,
+      "sha256_current": "4c4694a6332905e2f20fd1db012c83662a84e156f22793e524a3c797bb087ad8",
+      "bytes": 37740
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/14_Dachreparatur.docx",
+      "baseline_git_blob": "73b2fb073eb7624b59210f18bccde51b1029fae0",
+      "current_git_blob": "73b2fb073eb7624b59210f18bccde51b1029fae0",
+      "byte_identical": true,
+      "sha256_current": "d88ae3bae56a651f248c77df06bd790e9662c529aab753e6c95914df970c29a5",
+      "bytes": 37838
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/15_Verwalterhonorar.docx",
+      "baseline_git_blob": "82ac9254206d6372f6c0b182a05788719c4a769f",
+      "current_git_blob": "82ac9254206d6372f6c0b182a05788719c4a769f",
+      "byte_identical": true,
+      "sha256_current": "66288422e8ae1c2c56cfc8b42bcdd4489f76520c4a994f56920db7c90eec11e1",
+      "bytes": 37795
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/16_Bankentgelte.docx",
+      "baseline_git_blob": "d0b925ceb48a347f1bfd15932bf025d6bd9ff43d",
+      "current_git_blob": "d0b925ceb48a347f1bfd15932bf025d6bd9ff43d",
+      "byte_identical": true,
+      "sha256_current": "e9a498481f9a7387253dd225f582c82278abea4fd0618426c39cbe5b53b6f2ce",
+      "bytes": 37764
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/17_Gesamtabrechnung_Entwurf.docx",
+      "baseline_git_blob": "0f08855c6e5c7564c313fb819a8b2aac47472677",
+      "current_git_blob": "0f08855c6e5c7564c313fb819a8b2aac47472677",
+      "byte_identical": true,
+      "sha256_current": "3a756e16952ddb78e04f595137d64a851a694cc92bab56516815b0f5b99ffb7e",
+      "bytes": 37914
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/18_Einzelabrechnung_WE01.docx",
+      "baseline_git_blob": "fc9868ff1f241efcf4aa787b57d25a5d041fac83",
+      "current_git_blob": "fc9868ff1f241efcf4aa787b57d25a5d041fac83",
+      "byte_identical": true,
+      "sha256_current": "be89e196f2949bcd8d9a3e3bbcb4113863123f3856624fd5c59d6669d8410b52",
+      "bytes": 37950
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/19_Einzelabrechnung_WE02.docx",
+      "baseline_git_blob": "619acc2189f36d7cbd052e7b8a9af34f904ac547",
+      "current_git_blob": "619acc2189f36d7cbd052e7b8a9af34f904ac547",
+      "byte_identical": true,
+      "sha256_current": "7f871396e221bd4a35d35290f5f0d7f2be3bf10620e0edb9aafde5bc1555d832",
+      "bytes": 37949
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/20_Einzelabrechnung_WE03.docx",
+      "baseline_git_blob": "42dac135abf0c4c51a59b8df713633459da6dde1",
+      "current_git_blob": "42dac135abf0c4c51a59b8df713633459da6dde1",
+      "byte_identical": true,
+      "sha256_current": "47f4debaf6c9cc0f74825cb79a9d2812c28dd47f8a32c0b7e2a5c1af2661cc12",
+      "bytes": 37959
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/21_Einzelabrechnung_WE04.docx",
+      "baseline_git_blob": "e3624f0110dfda95ffeb585e4c1146763d058427",
+      "current_git_blob": "e3624f0110dfda95ffeb585e4c1146763d058427",
+      "byte_identical": true,
+      "sha256_current": "ae620cb22b802ff58772e5be5c099f37005e81df42c73fd54e2bc5b0c76ccdc6",
+      "bytes": 37956
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/22_Einzelabrechnung_WE05.docx",
+      "baseline_git_blob": "d06a516d6eb63a58f4e5bb6c15f1a8839bea4f0d",
+      "current_git_blob": "d06a516d6eb63a58f4e5bb6c15f1a8839bea4f0d",
+      "byte_identical": true,
+      "sha256_current": "7f0eb5e907bbcb3c1318a8671134fb38bfae37cd31ccba8978cc9f9da641c05c",
+      "bytes": 37954
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/23_Einzelabrechnung_WE06.docx",
+      "baseline_git_blob": "7de8e0b69a1ca98143facec0180de19669eca13e",
+      "current_git_blob": "7de8e0b69a1ca98143facec0180de19669eca13e",
+      "byte_identical": true,
+      "sha256_current": "77d1c7fd445b36dde5c5875b0b4645d565ffe15897e9bd6640c36dd9030276d9",
+      "bytes": 37951
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/24_Einzelabrechnung_WE07.docx",
+      "baseline_git_blob": "f07683cc22f1fca008ac94731de58224fcd9d4fd",
+      "current_git_blob": "f07683cc22f1fca008ac94731de58224fcd9d4fd",
+      "byte_identical": true,
+      "sha256_current": "4498b83b841775780ba4912add6e77594049be15792d02e1c14281e096e4bb38",
+      "bytes": 37956
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/25_Einzelabrechnung_WE08.docx",
+      "baseline_git_blob": "d9c94ba9d0af91e2cf0f2dba2502ae8fe317e7da",
+      "current_git_blob": "d9c94ba9d0af91e2cf0f2dba2502ae8fe317e7da",
+      "byte_identical": true,
+      "sha256_current": "0b9ed699b1b3cfd46330149dde5d6e27d99e949cdb0147e5b367772a20180bcf",
+      "bytes": 37950
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/26_Versand_Abrechnung.eml",
+      "baseline_git_blob": "d0c8701ddd42d6150aeacfca6298b97220f81428",
+      "current_git_blob": "d0c8701ddd42d6150aeacfca6298b97220f81428",
+      "byte_identical": true,
+      "sha256_current": "cf2e52b602a63350be3a8f769ad7046121371dba1f012bd2bb60b40986df0655",
+      "bytes": 105463
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/27_Popescu_Rueckfrage.eml",
+      "baseline_git_blob": "ed6a9ef51be09f875e77faad2285d3415c08bc21",
+      "current_git_blob": "ed6a9ef51be09f875e77faad2285d3415c08bc21",
+      "byte_identical": true,
+      "sha256_current": "30eb50b928212b3ca7734e8d0dd6d44203985e468ed6e6ee443b8bdc99fe57c0",
+      "bytes": 1049
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/28_Beiratsnotiz.docx",
+      "baseline_git_blob": "16b395d8eb923a621c01ca17c79d9ed3eb5c4f87",
+      "current_git_blob": "16b395d8eb923a621c01ca17c79d9ed3eb5c4f87",
+      "byte_identical": true,
+      "sha256_current": "15f0ec2f8bc12c8bf25f9f7fbb1afe94175199cf0b76a639863cf26f5dfe4833",
+      "bytes": 37954
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/29_Anfrage_Hausmeister.eml",
+      "baseline_git_blob": "57a2b50795cd7c77435e6b2da9e1bf8c44a5d86c",
+      "current_git_blob": "57a2b50795cd7c77435e6b2da9e1bf8c44a5d86c",
+      "byte_identical": true,
+      "sha256_current": "d52746cf8f3a8e68190ec6da45d2800d8809ac2463dec6b5e3bd628463b213aa",
+      "bytes": 829
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/30_Antwort_Hausmeister.eml",
+      "baseline_git_blob": "1989d4f6c0f7921ba3cd170ee3251449d66b6673",
+      "current_git_blob": "1989d4f6c0f7921ba3cd170ee3251449d66b6673",
+      "byte_identical": true,
+      "sha256_current": "d67a27846e1f917680b599664ebebdf49e87a75338222a32f625e5bc6ad98e99",
+      "bytes": 53269
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/31_Beirat_Chat.txt",
+      "baseline_git_blob": "071817ee8ada8e5fe31492aeb5313d42c35b4cb9",
+      "current_git_blob": "071817ee8ada8e5fe31492aeb5313d42c35b4cb9",
+      "byte_identical": true,
+      "sha256_current": "dc2a6c7f3beadeb4bbaab4df76bd1d72c4660f46079b13184ae302af60c7d1ed",
+      "bytes": 604
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/32_Einladung_Entwurf.docx",
+      "baseline_git_blob": "7bba33ce6b34d7fbd9c1fcc50dde4d6677626066",
+      "current_git_blob": "7bba33ce6b34d7fbd9c1fcc50dde4d6677626066",
+      "byte_identical": true,
+      "sha256_current": "80ca46bfe2d91ac8b9e002270bfd14584e6b604066069e0c9ce070a3ae21329f",
+      "bytes": 37861
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/33_Beschlussvorlage_Arbeitsfassung.docx",
+      "baseline_git_blob": "114b7577398a08ab5791aae7fdadca3be6ffeac4",
+      "current_git_blob": "114b7577398a08ab5791aae7fdadca3be6ffeac4",
+      "byte_identical": true,
+      "sha256_current": "e3ebeed64b39a90430915f73cb022f70668ce6168e9a98fcd56d2f6dd548351c",
+      "bytes": 37632
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/34_Ueberweisungsbestaetigung_Popescu.docx",
+      "baseline_git_blob": "9077cf91b136116dcc9b2a16ba1b8c6473ce93f7",
+      "current_git_blob": "9077cf91b136116dcc9b2a16ba1b8c6473ce93f7",
+      "byte_identical": true,
+      "sha256_current": "cf34d5087f83f3057aa98b0aedd6e6da1f43bf47b98e781e95ecbe611074f968",
+      "bytes": 37668
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/35_Buchung_Nachzahlung.eml",
+      "baseline_git_blob": "3e45570b1c1889493a85a9ff791434351c4eb7a7",
+      "current_git_blob": "3e45570b1c1889493a85a9ff791434351c4eb7a7",
+      "byte_identical": true,
+      "sha256_current": "b67693ab18f16e85b01482092e559e8023723780b4e69f12ebcc7829bd09e78f",
+      "bytes": 1076
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/36_Auftrag_Fassung_zwei.eml",
+      "baseline_git_blob": "b32e7b47eb29580d0045514ee220d6ed974458e3",
+      "current_git_blob": "b32e7b47eb29580d0045514ee220d6ed974458e3",
+      "byte_identical": true,
+      "sha256_current": "81524d721760973679603de4abae6cd70f13a0553bcd67182ee5a6555eb0d07d",
+      "bytes": 55454
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/gesamt-pdf/weg-lindenhof-jahresabrechnung-2025_gesamt.pdf",
+      "baseline_git_blob": "5a6a59a93cb6418a39fa8922147f12513080320a",
+      "current_git_blob": "5a6a59a93cb6418a39fa8922147f12513080320a",
+      "byte_identical": true,
+      "sha256_current": "2bc6288f2e60d1dd905d757d5d569be829735c50bca5913c683f102f97dd4214",
+      "bytes": 715970
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/rubric.yaml",
+      "baseline_git_blob": "0720437594fbc50aa5e4ab8b2b38c93771aa3440",
+      "current_git_blob": "0720437594fbc50aa5e4ab8b2b38c93771aa3440",
+      "byte_identical": true,
+      "sha256_current": "015ec5c2e072856f57ac4fe82c2bb9eb802f989815e842bc59fcfaa9e549c91f",
+      "bytes": 5430
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/01_Auftrag_Bettwanzen.docx",
+      "baseline_git_blob": "528cf820262e66a4aa86cf97b15cb707ed14379b",
+      "current_git_blob": "528cf820262e66a4aa86cf97b15cb707ed14379b",
+      "byte_identical": true,
+      "sha256_current": "4561ba51056e9b40713753524c9e8b886a7710b97ec1e0f04144879e3cbcec58",
+      "bytes": 38055
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/02_Objekt_Mietverhaeltnisse.docx",
+      "baseline_git_blob": "437e1f66f7951fc077990533505b9bba6cc4e084",
+      "current_git_blob": "437e1f66f7951fc077990533505b9bba6cc4e084",
+      "byte_identical": true,
+      "sha256_current": "af772714c2ecfaf2c5d1ddf7fbb4d43d0ca18e3f1eed00148d566bcc162f910c",
+      "bytes": 37833
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/03_Erstmeldung_Mieter.eml",
+      "baseline_git_blob": "59b4a6215b5ee98b5e284ba9935dfaaafc09697d",
+      "current_git_blob": "59b4a6215b5ee98b5e284ba9935dfaaafc09697d",
+      "byte_identical": true,
+      "sha256_current": "d81ec5955fc839a233fa4dc8c34ea16d370d2d2bfceace159347ed056f2589b1",
+      "bytes": 1085
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/04_Vermieterin_Beauftragt_Befund.eml",
+      "baseline_git_blob": "d9d7b3bb68c77f8ecd58aeaffe810e8c08521749",
+      "current_git_blob": "d9d7b3bb68c77f8ecd58aeaffe810e8c08521749",
+      "byte_identical": true,
+      "sha256_current": "3681949bfea30480e17974d41c8fc320e784e625cce12895ff8a9552c4a09ac5",
+      "bytes": 1155
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/05_Befund_Wohnung4.docx",
+      "baseline_git_blob": "f9a30f978eb330932b419b456c848ca0609ef0e0",
+      "current_git_blob": "f9a30f978eb330932b419b456c848ca0609ef0e0",
+      "byte_identical": true,
+      "sha256_current": "1bf7fc8c7546f8c2005831fb6b56cc945136da34c75f8eca015804116f898421",
+      "bytes": 37939
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/06_Rechnung_Erstbesichtigung.docx",
+      "baseline_git_blob": "93e7cba49dcef8e2bed1b5011718e90b7bb58a05",
+      "current_git_blob": "93e7cba49dcef8e2bed1b5011718e90b7bb58a05",
+      "byte_identical": true,
+      "sha256_current": "61787244e60b991e9d007f2d255f7453830c0349d0af4c346c340fdee4c85560",
+      "bytes": 37637
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/07_Meldung_an_Verwaltung.eml",
+      "baseline_git_blob": "b25b36c3e6a67383cea051cfbf8d26369b2a4678",
+      "current_git_blob": "b25b36c3e6a67383cea051cfbf8d26369b2a4678",
+      "byte_identical": true,
+      "sha256_current": "10b8ce82b53879d96fe47696e77236479a4bb7b75401c9109e801747dc796aae",
+      "bytes": 105250
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/08_Folgemeldung_Wohnung5.eml",
+      "baseline_git_blob": "8a1a57ea9ebdbe5d5c1ab5498b4150cd2b0f1b7a",
+      "current_git_blob": "8a1a57ea9ebdbe5d5c1ab5498b4150cd2b0f1b7a",
+      "byte_identical": true,
+      "sha256_current": "c4233fe3eb6cc9813f41a3503b4420da49c5d1d28dbb5c7c419570024b86c4cc",
+      "bytes": 934
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/09_Folgebefund_Wohnung5.docx",
+      "baseline_git_blob": "7239fe66247286d98002834bdeac88a5951e7dbc",
+      "current_git_blob": "7239fe66247286d98002834bdeac88a5951e7dbc",
+      "byte_identical": true,
+      "sha256_current": "bc8fd37681b7f9ff716a7690693ede999beffa7414f9c38111139de2efa16a5b",
+      "bytes": 37815
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/10_Angebot_Kiezklar.docx",
+      "baseline_git_blob": "6ef816a39efdc53d939de08fb72da327c30d7c0b",
+      "current_git_blob": "6ef816a39efdc53d939de08fb72da327c30d7c0b",
+      "byte_identical": true,
+      "sha256_current": "2359b3542c19eb966a64b6cb866e34337c638ee067488fc5d54340e9dd2fb0d0",
+      "bytes": 37896
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/11_Vergleichsangebot.docx",
+      "baseline_git_blob": "47ff6278966e018876b652430541fc59f968640d",
+      "current_git_blob": "47ff6278966e018876b652430541fc59f968640d",
+      "byte_identical": true,
+      "sha256_current": "9f63eb5dbd74286f3e8fb965f636aca22ff71fc056967508ac3d41e80c431437",
+      "bytes": 37716
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/12_Beschluss_Abgestimmtes_Vorgehen.docx",
+      "baseline_git_blob": "515c6a625c1819e57298bff4c3d8162a60ed897d",
+      "current_git_blob": "515c6a625c1819e57298bff4c3d8162a60ed897d",
+      "byte_identical": true,
+      "sha256_current": "a166138125014c8beac5ae75b66bbe8488b7d0815ac39743af5ae209597fb840",
+      "bytes": 37887
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/13_Zugangsabstimmung.eml",
+      "baseline_git_blob": "42f4d1f8ee2322db5d12e42534e560595ce59599",
+      "current_git_blob": "42f4d1f8ee2322db5d12e42534e560595ce59599",
+      "byte_identical": true,
+      "sha256_current": "0cbbef3bd5d0d55efd718a000ac466619c0a02c08f0630226c6de967b7bd2b4c",
+      "bytes": 1149
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/14_Abweichender_Termin.eml",
+      "baseline_git_blob": "90ea88e17e3d7e3cf2b9e0545912aa74b6bac302",
+      "current_git_blob": "90ea88e17e3d7e3cf2b9e0545912aa74b6bac302",
+      "byte_identical": true,
+      "sha256_current": "f2cb585245a821b25132e8e75aa4bc871d967113d82a1df16bb7cbc4eb450a9e",
+      "bytes": 1010
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/15_Bestaetigung_Dienstleister.eml",
+      "baseline_git_blob": "ca72bddefda478219a43964a4ef2dfb0a698db73",
+      "current_git_blob": "ca72bddefda478219a43964a4ef2dfb0a698db73",
+      "byte_identical": true,
+      "sha256_current": "19df207ecf62253bb68f0062dc262ab9b8f4da00ffd4e62828d11b0c8ee8ea58",
+      "bytes": 946
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/16_Einsatzbericht_Erster_Termin.docx",
+      "baseline_git_blob": "ad1bc8addbae754c9ccdb5a7597492d47aef9123",
+      "current_git_blob": "ad1bc8addbae754c9ccdb5a7597492d47aef9123",
+      "byte_identical": true,
+      "sha256_current": "a0a32cca51ced8ab81c4a77187b170f432f481d7d5d5ba41b852a9a7e38e9ff2",
+      "bytes": 37821
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/17_Rechnung_Erster_Einsatz.docx",
+      "baseline_git_blob": "37bc39efd0634c338bba98bfb8187868c2eaa80a",
+      "current_git_blob": "37bc39efd0634c338bba98bfb8187868c2eaa80a",
+      "byte_identical": true,
+      "sha256_current": "c54a53cd71a770b6c4cbec61cf6712e66b9818b69e092cd90f1eba54ddbd52d9",
+      "bytes": 37620
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/18_Kontrollbericht.docx",
+      "baseline_git_blob": "6c31b3e28824c0a284059f1d49f0364b3e7a9481",
+      "current_git_blob": "6c31b3e28824c0a284059f1d49f0364b3e7a9481",
+      "byte_identical": true,
+      "sha256_current": "893a88ab6c20f8538d0c5d23c2a6bf01be528678b046a21a67819d16a5c9ae4d",
+      "bytes": 37725
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/19_Rechnung_Kontrolle.docx",
+      "baseline_git_blob": "142c80da90f828c1f88000ea22a3f8901202b3ad",
+      "current_git_blob": "142c80da90f828c1f88000ea22a3f8901202b3ad",
+      "byte_identical": true,
+      "sha256_current": "e233a7922aff275068f9057e51b237e6d347acae2fa6d9b7413be7dcda6762ab",
+      "bytes": 37648
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/20_Angebot_Fugenabdichtung.docx",
+      "baseline_git_blob": "da6d5bdb287ffcaad55fc5a37f0e6694e798a2e1",
+      "current_git_blob": "da6d5bdb287ffcaad55fc5a37f0e6694e798a2e1",
+      "byte_identical": true,
+      "sha256_current": "73302f56532b1a9605291b9f7c38b3b506945aa2e98438998685602c98dabe35",
+      "bytes": 37756
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/21_Schreck_Will_Umlage.eml",
+      "baseline_git_blob": "99ea233febea6ef513893e0c63e840ee2eb99f0d",
+      "current_git_blob": "99ea233febea6ef513893e0c63e840ee2eb99f0d",
+      "byte_identical": true,
+      "sha256_current": "92537cd088878d9ebeee804e05410e1f5ef21fc6f5fda5437b5a65a88f73cc3f",
+      "bytes": 1137
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/22_Mietvertrag_Wohnung5.docx",
+      "baseline_git_blob": "1f9fd75f115f99593743b5fee8558a6a60d88e83",
+      "current_git_blob": "1f9fd75f115f99593743b5fee8558a6a60d88e83",
+      "byte_identical": true,
+      "sha256_current": "595e548099bd91da42fac521688d42f7a8f825adccc6a1e849d8e8a5d05d7c55",
+      "bytes": 38017
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/23_Mieterin_Widerspricht.eml",
+      "baseline_git_blob": "d5fd42b7d0056bd1fee5dfa4c0715e025c82a66b",
+      "current_git_blob": "d5fd42b7d0056bd1fee5dfa4c0715e025c82a66b",
+      "byte_identical": true,
+      "sha256_current": "767726833879c10d9f7100a436570bcf7a6a82fc8bab3362650ccae9a1502b65",
+      "bytes": 1124
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/24_Waschereibeleg.docx",
+      "baseline_git_blob": "d8f013533fa8f1535311eae91c97f1331e4325c6",
+      "current_git_blob": "d8f013533fa8f1535311eae91c97f1331e4325c6",
+      "byte_identical": true,
+      "sha256_current": "abb934e826a0e7f1c9497d788a6443ff5698e72b8df7d467f3647db1bc62809d",
+      "bytes": 37629
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/25_Erstattungsbitte_Mieter.eml",
+      "baseline_git_blob": "d92f2b218d193e58542b45aa784cc2ab237274df",
+      "current_git_blob": "d92f2b218d193e58542b45aa784cc2ab237274df",
+      "byte_identical": true,
+      "sha256_current": "9b6ad1139458334e99c8fdf4dadb7ed32643da87456d89fa9d58722ec058bae3",
+      "bytes": 53134
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/26_Hauschat_Befall.txt",
+      "baseline_git_blob": "a6ab8a132a68aa570ec164a1d0a24b0e43029f0b",
+      "current_git_blob": "a6ab8a132a68aa570ec164a1d0a24b0e43029f0b",
+      "byte_identical": true,
+      "sha256_current": "2af7d2bc659c1123a5ab7c4d6caeafe05001f6ebe75e583ed0c6b1b8cafd6b90",
+      "bytes": 678
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/27_Kosten_und_Termine.xlsx",
+      "baseline_git_blob": "741803682b9512c66b9ab5fd105f988b189c0e09",
+      "current_git_blob": "741803682b9512c66b9ab5fd105f988b189c0e09",
+      "byte_identical": true,
+      "sha256_current": "620871ed34c03556adb09280d5fa0cc658aff4eeffce8eda9a2185b46defd354",
+      "bytes": 8597
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/28_Angebot_Oktoberkontrolle.docx",
+      "baseline_git_blob": "e8fba485a89aa4e9291582d84287dc59e41ae777",
+      "current_git_blob": "e8fba485a89aa4e9291582d84287dc59e41ae777",
+      "byte_identical": true,
+      "sha256_current": "f1380751c9b5d8449b3933264c272d756cac2a6909ddc3eb21fcc3e2fca7c1be",
+      "bytes": 37739
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/29_Beirat_Kostenfrage.eml",
+      "baseline_git_blob": "6c612c5bd8cbdae513079e04471b7ea6861d33ab",
+      "current_git_blob": "6c612c5bd8cbdae513079e04471b7ea6861d33ab",
+      "byte_identical": true,
+      "sha256_current": "c4da4d6b135005ca81098ee7377b72e199a8466c8eb878b8a25b4aa9192aae86",
+      "bytes": 1057
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/30_Eigentuemerbrief_Vorfassung.docx",
+      "baseline_git_blob": "0fd255cb7e5bdb228d051262f696592ee13bb1fc",
+      "current_git_blob": "0fd255cb7e5bdb228d051262f696592ee13bb1fc",
+      "byte_identical": true,
+      "sha256_current": "0d87ab5271a3c81db2c603520427747b6fcc5da8c4dc2d3af3f50d316d879cad",
+      "bytes": 37876
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/31_Vermieterin_Klaert_Auftrag.eml",
+      "baseline_git_blob": "b35f513a9e5b05d43eab4b8ef6bb75fd6e4e0221",
+      "current_git_blob": "b35f513a9e5b05d43eab4b8ef6bb75fd6e4e0221",
+      "byte_identical": true,
+      "sha256_current": "0aeaa9a11b499060fc0137bf9ba5f63724c15ca9b9e027adecc2e591af0b1f35",
+      "bytes": 1118
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/32_Abschlussauftrag_Verwaltung.eml",
+      "baseline_git_blob": "d189b9c51c3875f2ae70f60233cca52d9eb975c6",
+      "current_git_blob": "d189b9c51c3875f2ae70f60233cca52d9eb975c6",
+      "byte_identical": true,
+      "sha256_current": "e12204c73c3b8567269d4e6d5ad5ff5dc828e0b9f98dd99607c2d841d6fce2cc",
+      "bytes": 65546
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/gesamt-pdf/weg-sonnenwinkel-bettwanzen_gesamt.pdf",
+      "baseline_git_blob": "b7be36680224d9b26834689c83d87ab8da2dec3d",
+      "current_git_blob": "b7be36680224d9b26834689c83d87ab8da2dec3d",
+      "byte_identical": true,
+      "sha256_current": "c43fcc6e978ca3d91d670dff101f6174e3d9e4161206be274efee384ba33ce05",
+      "bytes": 445937
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/rubric.yaml",
+      "baseline_git_blob": "fcc632bd56c01bf1944e03f2cff34e491540f2fa",
+      "current_git_blob": "fcc632bd56c01bf1944e03f2cff34e491540f2fa",
+      "byte_identical": true,
+      "sha256_current": "719ccfe4cbd12d75b0d99dee131f23de41314fb36923f4e569f6af88fa6f6aa3",
+      "bytes": 5848
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/01_Auftrag_Vermieterabrechnung.docx",
+      "baseline_git_blob": "76634beb9f179d0323f65e9469a4d172dee5a09c",
+      "current_git_blob": "76634beb9f179d0323f65e9469a4d172dee5a09c",
+      "byte_identical": true,
+      "sha256_current": "2c79181b959d18ce834b9ede5cb03799d356010bff81fab3409600e53ccdb10b",
+      "bytes": 38002
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/02_Mietvertrag.docx",
+      "baseline_git_blob": "6f66e91128637f8a666db93adb0941a6742d550b",
+      "current_git_blob": "6f66e91128637f8a666db93adb0941a6742d550b",
+      "byte_identical": true,
+      "sha256_current": "bfea676aa51324a7c856e5ac7a413074dfaf9461416fc27ff9cfa96174fd1032",
+      "bytes": 38423
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/03_WEG_Jahresabrechnung.docx",
+      "baseline_git_blob": "3a0c71803279c5e77e5d7b5f34715a491182327b",
+      "current_git_blob": "3a0c71803279c5e77e5d7b5f34715a491182327b",
+      "byte_identical": true,
+      "sha256_current": "f6d6bd87a4dff74fefb124d94ba0d8b917f53046348aa0a012a71742a7510161",
+      "bytes": 37998
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/04_Hausgeldexport.xlsx",
+      "baseline_git_blob": "ff9072d6518af3f129e8b18ae745e7d2d27faf41",
+      "current_git_blob": "ff9072d6518af3f129e8b18ae745e7d2d27faf41",
+      "byte_identical": true,
+      "sha256_current": "de1decebee26f26c6e94e2534c47bb14102b6232b4f874bbf5c5de69bcddbd84",
+      "bytes": 8890
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/05_Wasser.docx",
+      "baseline_git_blob": "ec3d464c27f03cc154542b2894c356d708e2a6a2",
+      "current_git_blob": "ec3d464c27f03cc154542b2894c356d708e2a6a2",
+      "byte_identical": true,
+      "sha256_current": "bc5cb29dcd987e0a67b320280e20caa362838329ff3c8c04fe6ab07a5e44574f",
+      "bytes": 37732
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/06_Muell.docx",
+      "baseline_git_blob": "88b53be7da66733d2449e90c49b4040504429237",
+      "current_git_blob": "88b53be7da66733d2449e90c49b4040504429237",
+      "byte_identical": true,
+      "sha256_current": "6a54eb46a2fa39150dcd0d9861b7e85c98768007d6ec0baa6903bcfb66ed7b61",
+      "bytes": 37732
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/07_Versicherung.docx",
+      "baseline_git_blob": "6581095474f7d0501bbc15294c3d6a2220b05e2d",
+      "current_git_blob": "6581095474f7d0501bbc15294c3d6a2220b05e2d",
+      "byte_identical": true,
+      "sha256_current": "954876af1f2208f1428ef6fe3ff3e0ab7accdebe83ecbd45e60ce7daef05718a",
+      "bytes": 37717
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/08_Reinigung.docx",
+      "baseline_git_blob": "52ceeb7232370e1e7271739c6173e646bfbdd976",
+      "current_git_blob": "52ceeb7232370e1e7271739c6173e646bfbdd976",
+      "byte_identical": true,
+      "sha256_current": "80e1ce86a2984bbb2207632ccf1105c7cd21aeb62d28ca1a73b4ca69f2e20ee1",
+      "bytes": 37769
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/09_Hausmeister.docx",
+      "baseline_git_blob": "cc67f51971cd04d04070b57ab1007c109558f9ec",
+      "current_git_blob": "cc67f51971cd04d04070b57ab1007c109558f9ec",
+      "byte_identical": true,
+      "sha256_current": "724a9753dcdb5c909866c3adeb98eaf96ed715db61db08c524f824187bfca28f",
+      "bytes": 37806
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/10_Allgemeinstrom.docx",
+      "baseline_git_blob": "9f4c4d28f94550596a52c1c65f9cfc1410c686bf",
+      "current_git_blob": "9f4c4d28f94550596a52c1c65f9cfc1410c686bf",
+      "byte_identical": true,
+      "sha256_current": "45723650977f2c79d85bdb1f52fd26671dc68615138924dd20c427efa8d36f2c",
+      "bytes": 37746
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/11_Gasrechnung.docx",
+      "baseline_git_blob": "77305a4d68dc0cfeb37a6e356017f9a87410e700",
+      "current_git_blob": "77305a4d68dc0cfeb37a6e356017f9a87410e700",
+      "byte_identical": true,
+      "sha256_current": "bca5b67c3f059beb929ea1b48ad47abf26ae3fbbd63a5169af6692c4c5132090",
+      "bytes": 37840
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/12_Heizkostenabrechnung.docx",
+      "baseline_git_blob": "25fc2c137fd466e1933a632cb4c1a12b976b336f",
+      "current_git_blob": "25fc2c137fd466e1933a632cb4c1a12b976b336f",
+      "byte_identical": true,
+      "sha256_current": "579b8788e08788221bbb256276d760c3c88b59c8ce634117ddc633d00857bd6e",
+      "bytes": 37932
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/13_Verbrauchsablesung.docx",
+      "baseline_git_blob": "1d8b49b0be05946481bfcfd1be9b74532474875a",
+      "current_git_blob": "1d8b49b0be05946481bfcfd1be9b74532474875a",
+      "byte_identical": true,
+      "sha256_current": "c588f80ac392eb5830436964a799e826db53b3d30a072ce48a4de5beec4cd76a",
+      "bytes": 37640
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/14_CO2_Liefernachweis.docx",
+      "baseline_git_blob": "0eb38cf9e1b5ac5860bf1510b7aa7481145e9d05",
+      "current_git_blob": "0eb38cf9e1b5ac5860bf1510b7aa7481145e9d05",
+      "byte_identical": true,
+      "sha256_current": "32d07cfbb9cab812c8248b4f4e2afd2c5caab16234f084480b8b52af996fa7dd",
+      "bytes": 37756
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/15_Verwalterentgelt.docx",
+      "baseline_git_blob": "ee40cfccdc01ce58e80c3050acfe48175871dd77",
+      "current_git_blob": "ee40cfccdc01ce58e80c3050acfe48175871dd77",
+      "byte_identical": true,
+      "sha256_current": "a02f163d70f4e7a8a95a9b6285675476cd1a5583571ba693422cc909e4602cd1",
+      "bytes": 37672
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/16_Dachrechnung.docx",
+      "baseline_git_blob": "3244de3a09eacc40d01129916034d4a525a01d85",
+      "current_git_blob": "3244de3a09eacc40d01129916034d4a525a01d85",
+      "byte_identical": true,
+      "sha256_current": "25a3f65c7fc613d21ad254042122a32e861303f5adde94e417fcc3c8658e2718",
+      "bytes": 37782
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/17_Ruecklagennachweis.docx",
+      "baseline_git_blob": "bfec24cfe10f3b90952aa21d393ebf7b95951de0",
+      "current_git_blob": "bfec24cfe10f3b90952aa21d393ebf7b95951de0",
+      "byte_identical": true,
+      "sha256_current": "83cbdeb4b194381c69de2acd4ef422a68d293b31c3ad4e75ef148a695990b237",
+      "bytes": 37756
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/18_Mieterabrechnung_Vorfassung.docx",
+      "baseline_git_blob": "1f9c80bf211b18588526c8eca6530f2b2cd5e6f5",
+      "current_git_blob": "1f9c80bf211b18588526c8eca6530f2b2cd5e6f5",
+      "byte_identical": true,
+      "sha256_current": "c8ce76811dd2e0708bc464a5fdb93d96c249ae190866ab84e8e67003476aef51",
+      "bytes": 37745
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/19_Versand_an_Mieter.eml",
+      "baseline_git_blob": "3b8cb40ef4d89bb6f93984349cd5265610a6487a",
+      "current_git_blob": "3b8cb40ef4d89bb6f93984349cd5265610a6487a",
+      "byte_identical": true,
+      "sha256_current": "07a9d26fb3c21358bfdf7ca22a50deafe333dc262a751b4ab2a2e50c172a5f8c",
+      "bytes": 105214
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/20_Postzugang_Notiz.docx",
+      "baseline_git_blob": "4c65f42658039a1ad5ac5da4a3b21047561d94fb",
+      "current_git_blob": "4c65f42658039a1ad5ac5da4a3b21047561d94fb",
+      "byte_identical": true,
+      "sha256_current": "bf82935e5710e14c35c1a1c03f1f9a0752f6343ed12192714d3724488a4df9d5",
+      "bytes": 37517
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/21_Einwendungen_Mieter.eml",
+      "baseline_git_blob": "fd029bdd93be3c326529375f7a4aa0985c67c24d",
+      "current_git_blob": "fd029bdd93be3c326529375f7a4aa0985c67c24d",
+      "byte_identical": true,
+      "sha256_current": "dac26eaa58a9678a988b904b469454bbcc8e7af7a37b2cb137b06631ea951c0c",
+      "bytes": 1285
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/22_Hausverwaltung_an_Eigentuemer.eml",
+      "baseline_git_blob": "cccfea504183a3c5c2852dad361499c7cfa68814",
+      "current_git_blob": "cccfea504183a3c5c2852dad361499c7cfa68814",
+      "byte_identical": true,
+      "sha256_current": "0354e76d78e9d2ddc82407a16b10c0d99c0988cdf05e459ff587863d65ad67a0",
+      "bytes": 1267
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/23_Terminangebot_Belege.eml",
+      "baseline_git_blob": "b34097c2d81f75ccfb977690f5aba86b647d9ba4",
+      "current_git_blob": "b34097c2d81f75ccfb977690f5aba86b647d9ba4",
+      "byte_identical": true,
+      "sha256_current": "b422a3fe3795e519baacf591a83e2f028e1dfa3da381f919f02f2a05748ca035",
+      "bytes": 1208
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/24_Mieter_Terminbestaetigung.eml",
+      "baseline_git_blob": "f7a62ed59aece2587fd772a1144f5888b44f28a7",
+      "current_git_blob": "f7a62ed59aece2587fd772a1144f5888b44f28a7",
+      "byte_identical": true,
+      "sha256_current": "7f4aa26796d681f095281a10052b68067dcf4739ca956f080d119fb08ab2e6bd",
+      "bytes": 963
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/25_Chat_Knoepfle_Tochter.txt",
+      "baseline_git_blob": "e888545e10187b07d0c1cc5fe4d68f158ddb5215",
+      "current_git_blob": "e888545e10187b07d0c1cc5fe4d68f158ddb5215",
+      "byte_identical": true,
+      "sha256_current": "d09e8ea359745ea1f41b53a464f4688848e432c213902e74551c0fb2796eb168",
+      "bytes": 598
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/26_Flaechenverzeichnis.docx",
+      "baseline_git_blob": "e1a2544732dae38a22d8588853cb49832317370d",
+      "current_git_blob": "e1a2544732dae38a22d8588853cb49832317370d",
+      "byte_identical": true,
+      "sha256_current": "5186bc754852d3df957d8a1a1302e2bf2e4f37797c59e888c0bfbafb75e2b644",
+      "bytes": 37786
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/27_Reparaturauftrag_Dach.docx",
+      "baseline_git_blob": "a6e33240ce1ea0c8febdc338accf4be39dfdc596",
+      "current_git_blob": "a6e33240ce1ea0c8febdc338accf4be39dfdc596",
+      "byte_identical": true,
+      "sha256_current": "8ce17fb0e32206806965183506c133490a18c02b68e1662a87ef85979be8a143",
+      "bytes": 37845
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/28_Eigentuemer_Beauftragung.eml",
+      "baseline_git_blob": "d1b9d24bcedf2b82e6619b9c1686b1f048d16197",
+      "current_git_blob": "d1b9d24bcedf2b82e6619b9c1686b1f048d16197",
+      "byte_identical": true,
+      "sha256_current": "153b0de57904cfc638c1b7bcf8ed044fca7579a5ea3aef7ae37e60408b0c54ca",
+      "bytes": 106121
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/29_Mietvorauszahlungen.xlsx",
+      "baseline_git_blob": "97e8cb40061a1364771d0306659de4f3f791d018",
+      "current_git_blob": "97e8cb40061a1364771d0306659de4f3f791d018",
+      "byte_identical": true,
+      "sha256_current": "ef7eaed534ee51e6403ced72a560ae0a6e266e72dc7ea5b40513738632d6ad29",
+      "bytes": 7026
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/30_Antwortbrief_Vorfassung.docx",
+      "baseline_git_blob": "b7a6f953a54a497d0878ccd2bbf0d4d6e5615cc9",
+      "current_git_blob": "b7a6f953a54a497d0878ccd2bbf0d4d6e5615cc9",
+      "byte_identical": true,
+      "sha256_current": "889336b4768add69428071fc443dc6c2862d4a2923835fcceb6a92a85334f397",
+      "bytes": 37676
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/31_Belege_an_Vermieter.eml",
+      "baseline_git_blob": "9ced14a42747077342eadf53b01ada46d0f110d8",
+      "current_git_blob": "9ced14a42747077342eadf53b01ada46d0f110d8",
+      "byte_identical": true,
+      "sha256_current": "eac8ea063b06ddc26c8297d62f036b467630a81c8a36aa543772ee2276c41fff",
+      "bytes": 157589
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/32_Bearbeitungsauftrag_Nachtrag.eml",
+      "baseline_git_blob": "0e11d119e985999513b30974c291170159c0d69a",
+      "current_git_blob": "0e11d119e985999513b30974c291170159c0d69a",
+      "byte_identical": true,
+      "sha256_current": "ee98ba5b907d3a214357dff5a5031bf6790cd4c9ade692d2c9d7c3b282232bb2",
+      "bytes": 1157
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/gesamt-pdf/weg-spreebogen-mieterumlage-belege_gesamt.pdf",
+      "baseline_git_blob": "006bbc205a5db16bc44570448d9f2d03f7ebfbe4",
+      "current_git_blob": "006bbc205a5db16bc44570448d9f2d03f7ebfbe4",
+      "byte_identical": true,
+      "sha256_current": "13f7e8545e8b7d81066a9cb28928ef8ef7a7ae94b3fb19f1473753e0de02f24c",
+      "bytes": 560179
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/rubric.yaml",
+      "baseline_git_blob": "713802fbafdf9e2b1e7742f520b2f4ee62971f70",
+      "current_git_blob": "713802fbafdf9e2b1e7742f520b2f4ee62971f70",
+      "byte_identical": true,
+      "sha256_current": "bd192db459b908a6f6ec0af0b79093b7261b8fe0ab301296b8e55514b8e8fe36",
+      "bytes": 5362
+    },
+    {
+      "path": "weg-hausverwaltung/skills/abrechnung-ist-plan-mieterschnittstelle/SKILL.md",
+      "baseline_git_blob": "699e7c4d1a91d74710f3801a39ba329d126d8ff8",
+      "current_git_blob": "699e7c4d1a91d74710f3801a39ba329d126d8ff8",
+      "byte_identical": true,
+      "sha256_current": "8aba2ab3fa43c7fe93b64d36abe7c767f736bba9c5c2faa44f49cc6f24b1d68d",
+      "bytes": 7108
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft/SKILL.md",
+      "baseline_git_blob": "58806c57ab488d2d4d2d933c6f2c71f8c09d7462",
+      "current_git_blob": "58806c57ab488d2d4d2d933c6f2c71f8c09d7462",
+      "byte_identical": true,
+      "sha256_current": "7f1de8371777ed601ac5f18c3098ac4fa6fcebb0a701cf48971d25b3d012754d",
+      "bytes": 7741
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bad-umbau-bodengleiche-dusche-sondereigentum/SKILL.md",
+      "baseline_git_blob": "3cc87dc073537cc68c0172dcd627170f7154ecf7",
+      "current_git_blob": "3cc87dc073537cc68c0172dcd627170f7154ecf7",
+      "byte_identical": true,
+      "sha256_current": "c7aa64a10ad1262ae838e318cd828eac40c79646983c546dae9565e80fa2f76b",
+      "bytes": 5374
+    },
+    {
+      "path": "weg-hausverwaltung/skills/barrierefreie-einladung-protokoll-versammlung/SKILL.md",
+      "baseline_git_blob": "f0539266b0ba76a86511b1952df41be25da6b595",
+      "current_git_blob": "f0539266b0ba76a86511b1952df41be25da6b595",
+      "byte_identical": true,
+      "sha256_current": "a6b0497d468332341f12da737d5fb2e8727b38c2f737b4d8efb466f0aaa21cf9",
+      "bytes": 4520
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-formular-portal-und-einreichung/SKILL.md",
+      "baseline_git_blob": "13a9a37dd23deae84bf01f21154b904f9db98b00",
+      "current_git_blob": "13a9a37dd23deae84bf01f21154b904f9db98b00",
+      "byte_identical": true,
+      "sha256_current": "119c97d8379d7a3928d44b9829e54c0c6efd3f4b429db1ef8142146e00773b6e",
+      "bytes": 5594
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg/SKILL.md",
+      "baseline_git_blob": "aee352c3ee617acd3070b50110fbca52ae17abe0",
+      "current_git_blob": "aee352c3ee617acd3070b50110fbca52ae17abe0",
+      "byte_identical": true,
+      "sha256_current": "d24a87167863915a8a78da05f76d578f8476baca9850b30e9900da05ffa7a41f",
+      "bytes": 7117
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderung-aufzug-treppenlift-20/SKILL.md",
+      "baseline_git_blob": "e0bfc1f1a068e59ef7800e9090c21fc82e1916d7",
+      "current_git_blob": "e0bfc1f1a068e59ef7800e9090c21fc82e1916d7",
+      "byte_identical": true,
+      "sha256_current": "dc872c55e7bb3e928b7e03f372af74839b8462ea3d3399c640f9b2150d6535f0",
+      "bytes": 4752
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bauliche-veraenderungen-20-weg/SKILL.md",
+      "baseline_git_blob": "24c51d9765551d1872362443ca6910e97773808c",
+      "current_git_blob": "24c51d9765551d1872362443ca6910e97773808c",
+      "byte_identical": true,
+      "sha256_current": "dc1b9a2bc7c6aff908410ccd6f7c538b67e9e30a36aac663ba2140c00854bfb9",
+      "bytes": 7251
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bautraegeralteanlage-abnahme-maengel-gdwe/SKILL.md",
+      "baseline_git_blob": "41cc8f8ab05341a1e25eed140309ea1fd4a3313d",
+      "current_git_blob": "41cc8f8ab05341a1e25eed140309ea1fd4a3313d",
+      "byte_identical": true,
+      "sha256_current": "75b0755e0124e927f351a1ad1ae65a3b640b6854d58dcc742bc32eff0fec2daa",
+      "bytes": 1080
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beirat-controlling-verwalter/SKILL.md",
+      "baseline_git_blob": "e27eb980b31ea3d85ac877545ada47b7c434cc53",
+      "current_git_blob": "e27eb980b31ea3d85ac877545ada47b7c434cc53",
+      "byte_identical": true,
+      "sha256_current": "dca2acb1bc44b71dfe6ec542ffa9545996f61352cddb7ede3592f824d3b78e0d",
+      "bytes": 4766
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschluesse-dokumentenmatrix-und-lueckenliste/SKILL.md",
+      "baseline_git_blob": "67a2f9de20e8472a945cb766db0c9eaace15a41d",
+      "current_git_blob": "67a2f9de20e8472a945cb766db0c9eaace15a41d",
+      "byte_identical": true,
+      "sha256_current": "1899a17505b7194569a9819fef93b9463aad2edec357b078c8a8c4fb263a2544",
+      "bytes": 5945
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschluesse-dokumentenmatrix-und-lueckenliste/references/vertiefung-spezial-beschluesse-dokumentenmatrix-und-lueckenliste.md",
+      "baseline_git_blob": "24470527bb362c719b88d7f6cba045882059b55a",
+      "current_git_blob": "24470527bb362c719b88d7f6cba045882059b55a",
+      "byte_identical": true,
+      "sha256_current": "4ca1795032b894055d390fdea9467cc442fa4ad4170298d2cc7059a5c63b26be",
+      "bytes": 5925
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlussanfechtung-risiko/SKILL.md",
+      "baseline_git_blob": "bb52ef0965d1d330efcf2c45e01ffcd15db18e48",
+      "current_git_blob": "bb52ef0965d1d330efcf2c45e01ffcd15db18e48",
+      "byte_identical": true,
+      "sha256_current": "02a53ce1ecca01615adc13d574ad02e38fa5a3a903a9b62ecbcacc0a2a68cdc6",
+      "bytes": 6143
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlusssammlung-protokoll/SKILL.md",
+      "baseline_git_blob": "c8e25bb416c860b2275de2c9b603680cb901e0ef",
+      "current_git_blob": "c8e25bb416c860b2275de2c9b603680cb901e0ef",
+      "byte_identical": true,
+      "sha256_current": "c8903cd81612c240381dac766e1ed53d7693573483c819ec17e195aae53fd771",
+      "bytes": 5371
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlusssammlung-schriftsatz-brief-und-memo-bausteine/SKILL.md",
+      "baseline_git_blob": "47e2e8d70fcb0cc25fbd9f766d4a7fe55a323bfe",
+      "current_git_blob": "47e2e8d70fcb0cc25fbd9f766d4a7fe55a323bfe",
+      "byte_identical": true,
+      "sha256_current": "0a31f1f5c138cb4c1261c3d79f89f3f190050af5c97fc0bef93a1662b03cb155",
+      "bytes": 5689
+    },
+    {
+      "path": "weg-hausverwaltung/skills/beschlussvorlagen-erstellen/SKILL.md",
+      "baseline_git_blob": "8735d0633b464d39ed2c22936f2dd43b4337df9e",
+      "current_git_blob": "8735d0633b464d39ed2c22936f2dd43b4337df9e",
+      "byte_identical": true,
+      "sha256_current": "3abe37cb803ef9616cf06f188f2914e7536da057fd3a7f647210f1496c21b1f6",
+      "bytes": 6443
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-interessen/SKILL.md",
+      "baseline_git_blob": "e9325f5fc6877f3d6692e8df4aa6b5477447712d",
+      "current_git_blob": "e9325f5fc6877f3d6692e8df4aa6b5477447712d",
+      "byte_identical": true,
+      "sha256_current": "bbb487afd3202d63c09bb95ed30eb4f7f69b0517b273e9c2fe1d5be5e05eb04f",
+      "bytes": 3139
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-mehrparteien-konflikt-und-interessen/SKILL.md",
+      "baseline_git_blob": "09e06f979be7a87acfa10b6ea790df442829555b",
+      "current_git_blob": "09e06f979be7a87acfa10b6ea790df442829555b",
+      "byte_identical": true,
+      "sha256_current": "1fe485077357afc569681f6630d42347023701aa6a51ff7f86ed026b69a77855",
+      "bytes": 5668
+    },
+    {
+      "path": "weg-hausverwaltung/skills/betriebskosten-nebenkostenabrechnung/SKILL.md",
+      "baseline_git_blob": "5d9b48033cdaaefa7afdc5acf52e43a246d05c4a",
+      "current_git_blob": "5d9b48033cdaaefa7afdc5acf52e43a246d05c4a",
+      "byte_identical": true,
+      "sha256_current": "1023a70c506570ee5acbf6267cb826865bf43365b9b38d0584d2cd7cc95bd65d",
+      "bytes": 10851
+    },
+    {
+      "path": "weg-hausverwaltung/skills/bfsg-hausverwalter-website-portal-2025/SKILL.md",
+      "baseline_git_blob": "68fd7a4e6c6de7fa3397bf00367f8182c18234d6",
+      "current_git_blob": "68fd7a4e6c6de7fa3397bf00367f8182c18234d6",
+      "byte_identical": true,
+      "sha256_current": "c1754a79182543a4db7b2a418a2d6376c3bc53c0c40bf428f179e5c6a1e0a49e",
+      "bytes": 4153
+    },
+    {
+      "path": "weg-hausverwaltung/skills/chronologie-und-belegmatrix/SKILL.md",
+      "baseline_git_blob": "551f2c2ee980d95c14926353e8fbeb4fcb21539f",
+      "current_git_blob": "551f2c2ee980d95c14926353e8fbeb4fcb21539f",
+      "byte_identical": true,
+      "sha256_current": "45bf781db7f21f9bb60e85c2acd573be1669faaa72e21b256c60c68f75f78c52",
+      "bytes": 2122
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft-loeschung-weg/SKILL.md",
+      "baseline_git_blob": "2997791cfef673cf7d25c66edc6aeb473285a285",
+      "current_git_blob": "2997791cfef673cf7d25c66edc6aeb473285a285",
+      "byte_identical": true,
+      "sha256_current": "8cbc9a1f07fab59300619858acd33fb6252d79130f66cfdb26026d33c5dde8fc",
+      "bytes": 8383
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-betroffenenrechte-auskunft/SKILL.md",
+      "baseline_git_blob": "e71aa9726ea4ed8eb9b1a7d151316d5d5c7218af",
+      "current_git_blob": "e71aa9726ea4ed8eb9b1a7d151316d5d5c7218af",
+      "byte_identical": true,
+      "sha256_current": "9aa38c0143f46a0000dcde397d535cd8896eab35411a6538e28d85e25f2ee762",
+      "bytes": 6172
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-datenpanne-meldung-72h/SKILL.md",
+      "baseline_git_blob": "6b3516969e113e8d8e3848bf7b1346baad1aa8ec",
+      "current_git_blob": "6b3516969e113e8d8e3848bf7b1346baad1aa8ec",
+      "byte_identical": true,
+      "sha256_current": "9499c3be9aac91a79ca569c3155b82f6d4c3eab55374a13cf682cc5dda271a56",
+      "bytes": 4135
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-dokumentenfreigabe/SKILL.md",
+      "baseline_git_blob": "4727fe6b78524c4e553da981dd46aaa56898f9cb",
+      "current_git_blob": "4727fe6b78524c4e553da981dd46aaa56898f9cb",
+      "byte_identical": true,
+      "sha256_current": "3d497012032d84d2e5997fd82fb5d4d78c856e316e3cdab4f8590ec6e8babcdb",
+      "bytes": 6041
+    },
+    {
+      "path": "weg-hausverwaltung/skills/datenschutz-vvt-tom-avv-hausverwaltung/SKILL.md",
+      "baseline_git_blob": "eb0524af419360c11369a238b3f3840d99b6ead4",
+      "current_git_blob": "eb0524af419360c11369a238b3f3840d99b6ead4",
+      "byte_identical": true,
+      "sha256_current": "580a3f295f14db8887458fece25cfc9f4cfe9fb358644f85491d30af123f221f",
+      "bytes": 6216
+    },
+    {
+      "path": "weg-hausverwaltung/skills/digitale-versammlung-screenreader-untertitel/SKILL.md",
+      "baseline_git_blob": "86fd8b53a15d8df528c490983fef0afcb3f9ffe2",
+      "current_git_blob": "86fd8b53a15d8df528c490983fef0afcb3f9ffe2",
+      "byte_identical": true,
+      "sha256_current": "43db125537277e8fb5dd5644afcf1af07d6497fb2cb780b5a481199e900a20ed",
+      "bytes": 6080
+    },
+    {
+      "path": "weg-hausverwaltung/skills/dokumente-intake/SKILL.md",
+      "baseline_git_blob": "f4182b2ee92214a272cd71ae7f55f45c5d925796",
+      "current_git_blob": "f4182b2ee92214a272cd71ae7f55f45c5d925796",
+      "byte_identical": true,
+      "sha256_current": "65ce3ed65ccad265f07b2c896ac8c5d2acd40f0d58c0cff86629fbb6850071bd",
+      "bytes": 3737
+    },
+    {
+      "path": "weg-hausverwaltung/skills/e-mobilitaet-steckersolar-kellerstrom/SKILL.md",
+      "baseline_git_blob": "75e2e03b101f1418c38e4b02acfb2ef56e595105",
+      "current_git_blob": "75e2e03b101f1418c38e4b02acfb2ef56e595105",
+      "byte_identical": true,
+      "sha256_current": "eafa29caf67d5cbbc56ef0de3fef1dc49b5ad2827d10ef86f73fe8a7b02737ca",
+      "bytes": 3245
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerkommunikation-beschwerde/SKILL.md",
+      "baseline_git_blob": "5a382fbfceef0fc3cda84cd78837489bc946db5a",
+      "current_git_blob": "5a382fbfceef0fc3cda84cd78837489bc946db5a",
+      "byte_identical": true,
+      "sha256_current": "89f81d2f17a244aae77f98b71ea0ec40f37f94650600b2d1a098a291768a7033",
+      "bytes": 5339
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerversammlung-risikoampel-und-gegenargumente/SKILL.md",
+      "baseline_git_blob": "2c1bb8f722fd30abba09b081b2f72e24dc4686bc",
+      "current_git_blob": "2c1bb8f722fd30abba09b081b2f72e24dc4686bc",
+      "byte_identical": true,
+      "sha256_current": "0ab56c0190d34d01927ac149cb0e0bed0d55d46d0fc5bb31170ebe9e4032f33c",
+      "bytes": 7381
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eigentuemerversammlung-vorbereiten/SKILL.md",
+      "baseline_git_blob": "6788f40d031e489b6fe7f022cf2f9ba7c52add04",
+      "current_git_blob": "6788f40d031e489b6fe7f022cf2f9ba7c52add04",
+      "byte_identical": true,
+      "sha256_current": "4769cd9d284f9e01b5c0a698dfada6de55efead695385f1f0e342b8c1181de78",
+      "bytes": 5667
+    },
+    {
+      "path": "weg-hausverwaltung/skills/einladung-tagesordnung-fristen/SKILL.md",
+      "baseline_git_blob": "c81b75f02aecaca0e19937fc8afaaaae9e407340",
+      "current_git_blob": "c81b75f02aecaca0e19937fc8afaaaae9e407340",
+      "byte_identical": true,
+      "sha256_current": "acb73df4fa2faf3e8aad75f93e1c35d0a6acd829642b77c84d9d2912ff1f6aab",
+      "bytes": 6147
+    },
+    {
+      "path": "weg-hausverwaltung/skills/einstieg-routing/SKILL.md",
+      "baseline_git_blob": "53fe6b0884485a996762d61cd4a3ac23bd01fa8c",
+      "current_git_blob": "53fe6b0884485a996762d61cd4a3ac23bd01fa8c",
+      "byte_identical": true,
+      "sha256_current": "58406e71d906a6c5d62bc06c5f7266427f012a7140e80610df3d7526f073988f",
+      "bytes": 2844
+    },
+    {
+      "path": "weg-hausverwaltung/skills/erhaltung-modernisierung-baumaengel/SKILL.md",
+      "baseline_git_blob": "d2144cba1df2a2d9673a367d78919e9c70a3ace0",
+      "current_git_blob": "d2144cba1df2a2d9673a367d78919e9c70a3ace0",
+      "byte_identical": true,
+      "sha256_current": "e97683f2593d35deece837ed00eb34d69d5be3a4ab139e5d484a2c7dcddab3cb",
+      "bytes": 7555
+    },
+    {
+      "path": "weg-hausverwaltung/skills/eskalation-anwalt-amtsgericht/SKILL.md",
+      "baseline_git_blob": "4744feca0dceb611312722435d5d89ebed6e87b0",
+      "current_git_blob": "4744feca0dceb611312722435d5d89ebed6e87b0",
+      "byte_identical": true,
+      "sha256_current": "4290eb24f5e06815c25832f46efb714169963339aeb887f4e25ebb5486f8a598",
+      "bytes": 5013
+    },
+    {
+      "path": "weg-hausverwaltung/skills/fristen-und-risikoampel/SKILL.md",
+      "baseline_git_blob": "0f17153c6822e93e27ce0d430cd75897ab7bc00a",
+      "current_git_blob": "0f17153c6822e93e27ce0d430cd75897ab7bc00a",
+      "byte_identical": true,
+      "sha256_current": "19cf7e4039c5ae8b8de30dc72b70b0006699b426a4c2e9e55a07ee57a4e435b9",
+      "bytes": 2105
+    },
+    {
+      "path": "weg-hausverwaltung/skills/gewerbe-restaurant-geruch-laerm-hof/SKILL.md",
+      "baseline_git_blob": "2e2ea539509e87c52cad0cb7473a108f12475cac",
+      "current_git_blob": "2e2ea539509e87c52cad0cb7473a108f12475cac",
+      "byte_identical": true,
+      "sha256_current": "36675ceed975b7b05e5b81c6f1332c04fc80c3c2e3e11fcb1ff65ee6b822dd3e",
+      "bytes": 3109
+    },
+    {
+      "path": "weg-hausverwaltung/skills/grossakte-konfliktlandkarte/SKILL.md",
+      "baseline_git_blob": "5553c8f3a056216af6b09f0ba961ac7cd6fa079c",
+      "current_git_blob": "5553c8f3a056216af6b09f0ba961ac7cd6fa079c",
+      "byte_identical": true,
+      "sha256_current": "9d8a30f3ba57a351bc36da5705a0683d87d7357dba6cf18a15e3f2eb4df7a281",
+      "bytes": 1356
+    },
+    {
+      "path": "weg-hausverwaltung/skills/handwerker-beauftragung-vergabe/SKILL.md",
+      "baseline_git_blob": "859a99a3a584e31a1aa3441aabfd991a29740a23",
+      "current_git_blob": "859a99a3a584e31a1aa3441aabfd991a29740a23",
+      "byte_identical": true,
+      "sha256_current": "8fb8b3c5992e87b5bdcb41fcc849199bbb8aa061f9a3c8236858979955054cc6",
+      "bytes": 5699
+    },
+    {
+      "path": "weg-hausverwaltung/skills/handwerker-internationaler-bezug-und-schnittstellen/SKILL.md",
+      "baseline_git_blob": "b4a5ff04e1136f0d4c29db77aa11129044a02761",
+      "current_git_blob": "b4a5ff04e1136f0d4c29db77aa11129044a02761",
+      "byte_identical": true,
+      "sha256_current": "678d3cd4ff94c6e1f0b88f33cabaff77a73287ac891c9d58eeaefb90ebba2bc9",
+      "bytes": 5653
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausgeld-sonderumlage-liquiditaet/SKILL.md",
+      "baseline_git_blob": "444b657f7e8ab112979e08016cedce7069261569",
+      "current_git_blob": "444b657f7e8ab112979e08016cedce7069261569",
+      "byte_identical": true,
+      "sha256_current": "10e0ed1fed82a54ac620f3c2fe7a7ad2b769787bd74ee1c83c7b708734e1f56d",
+      "bytes": 5828
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausgeld-zahlen-schwellen-und-berechnung/SKILL.md",
+      "baseline_git_blob": "e97bab4660636882d94519e80d8c87bceb9706d3",
+      "current_git_blob": "e97bab4660636882d94519e80d8c87bceb9706d3",
+      "byte_identical": true,
+      "sha256_current": "6686bf4cd22a653ac9496f636a6f7a045adb4234cc53c6374f817155b496d7cb",
+      "bytes": 7182
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausordnung-tauben-fahrrad-kinder-weihnachtsbaum/SKILL.md",
+      "baseline_git_blob": "f03727c5aebe9a47730c77b4882134f114cd33a3",
+      "current_git_blob": "f03727c5aebe9a47730c77b4882134f114cd33a3",
+      "byte_identical": true,
+      "sha256_current": "52bca2cd64ac01e9bb0a8134bd1776fbb265ac09cefe5457e4d755084e545eb7",
+      "bytes": 5502
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausordnung-tauben-fahrrad-kinder/SKILL.md",
+      "baseline_git_blob": "6d3acf9ac3aac3d796afbb5fc5ea65914d2dab88",
+      "current_git_blob": "6d3acf9ac3aac3d796afbb5fc5ea65914d2dab88",
+      "byte_identical": true,
+      "sha256_current": "199d833450a4b7d675e1663e938fbb663a382bbcb8e589405fc4ab5e544500e9",
+      "bytes": 3141
+    },
+    {
+      "path": "weg-hausverwaltung/skills/hausverwaltungs-fristen-form-und-zustaendigkeit/SKILL.md",
+      "baseline_git_blob": "536a3597efea9832a9611d4675bbcf59f9c29e5b",
+      "current_git_blob": "536a3597efea9832a9611d4675bbcf59f9c29e5b",
+      "byte_identical": true,
+      "sha256_current": "b8669a81ea3abd842b085beb632ea4f9e5104085dfc84a77a9543bfa311769d9",
+      "bytes": 5662
+    },
+    {
+      "path": "weg-hausverwaltung/skills/heizung-schaden-versicherung-notmassnahme/SKILL.md",
+      "baseline_git_blob": "d6b6dddc3134f5b169f9140f89f1087b257791a5",
+      "current_git_blob": "d6b6dddc3134f5b169f9140f89f1087b257791a5",
+      "byte_identical": true,
+      "sha256_current": "a499ad2af519220ef7e9aaaf4d805395a862bc210c4accdc06a5de61e62d158b",
+      "bytes": 6662
+    },
+    {
+      "path": "weg-hausverwaltung/skills/jahresabrechnung-quellenkarte/SKILL.md",
+      "baseline_git_blob": "2ddb88aeb86e0d624267f4fc26488217835bfd99",
+      "current_git_blob": "2ddb88aeb86e0d624267f4fc26488217835bfd99",
+      "byte_identical": true,
+      "sha256_current": "1b2758909153b858089df0b2c98f3d98c52a2caf717dbb6f93525dac63500d14",
+      "bytes": 2920
+    },
+    {
+      "path": "weg-hausverwaltung/skills/juristischer-argumentationskern/SKILL.md",
+      "baseline_git_blob": "894157665fa01a9b7424f7f166c594cd0c93b70d",
+      "current_git_blob": "894157665fa01a9b7424f7f166c594cd0c93b70d",
+      "byte_identical": true,
+      "sha256_current": "efe34a8624cd6b6181a01da20976a64fc11020a627f9e0e415718a66c22f0e2f",
+      "bytes": 12221
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kaltstart-triage/SKILL.md",
+      "baseline_git_blob": "8f62a093dc670b358d71ce351254acf49a14a11d",
+      "current_git_blob": "8f62a093dc670b358d71ce351254acf49a14a11d",
+      "byte_identical": true,
+      "sha256_current": "033172e93250c79c379339568e8dc7fed24486169954eadd88803be183c50cc8",
+      "bytes": 6940
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kfw-foerderung-pflegekasse-bafa-barriere-koordination/SKILL.md",
+      "baseline_git_blob": "d2c3fc776f1df7d456eb835ab884bfa78d7c21e3",
+      "current_git_blob": "d2c3fc776f1df7d456eb835ab884bfa78d7c21e3",
+      "byte_identical": true,
+      "sha256_current": "5f652244d250deb07ce60f5dd40479958bfe9db104ab0f493e02f23b10b903de",
+      "bytes": 7668
+    },
+    {
+      "path": "weg-hausverwaltung/skills/kfw-foerderung-pflegekasse-bafa-barriere/SKILL.md",
+      "baseline_git_blob": "8d93ab67f5d283a1c04526745e3bb96d19ad9b08",
+      "current_git_blob": "8d93ab67f5d283a1c04526745e3bb96d19ad9b08",
+      "byte_identical": true,
+      "sha256_current": "53877a4f26801f00d9435451f8896d32719ecb325e3ce9ff8fb4ea33b9292bdc",
+      "bytes": 5305
+    },
+    {
+      "path": "weg-hausverwaltung/skills/mandat-belege-fristen/SKILL.md",
+      "baseline_git_blob": "5d0016065485900211c85fd0665b1f863c5cd6ff",
+      "current_git_blob": "5d0016065485900211c85fd0665b1f863c5cd6ff",
+      "byte_identical": true,
+      "sha256_current": "b73c567e9906b2164e3d46dc3209c7830206c1ac4c115baec70538bdb8bd75ed",
+      "bytes": 3131
+    },
+    {
+      "path": "weg-hausverwaltung/skills/mandat-objekt-triage/SKILL.md",
+      "baseline_git_blob": "7ef7efee4f77830ba253af08ce48d91818546da9",
+      "current_git_blob": "7ef7efee4f77830ba253af08ce48d91818546da9",
+      "byte_identical": true,
+      "sha256_current": "4fa2525a8b14fed5a4bf652b7595ac857e09634773f35e634453c4343905e569",
+      "bytes": 4153
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-akquise-neue-weg-mandate/SKILL.md",
+      "baseline_git_blob": "25e4266dd687622e0e87a7544ee18df28edc37b0",
+      "current_git_blob": "25e4266dd687622e0e87a7544ee18df28edc37b0",
+      "byte_identical": true,
+      "sha256_current": "4e78e626757e66be3e3d22e2d53f390c98d1e2e12ee1339cfd76090cdc96fb4d",
+      "bytes": 4528
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-newsletter-eigentuemerkommunikation/SKILL.md",
+      "baseline_git_blob": "fa1db5fadb57f474865bdfa832e04361b5384dee",
+      "current_git_blob": "fa1db5fadb57f474865bdfa832e04361b5384dee",
+      "byte_identical": true,
+      "sha256_current": "b5b3a482ed11154c5bee5ac12118fe03fa457401934c6df904cb68b8d02556af",
+      "bytes": 4897
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-website-impressum-tmg-bewertungen/SKILL.md",
+      "baseline_git_blob": "17d44dfa508355775341a9ddc77376220e972422",
+      "current_git_blob": "17d44dfa508355775341a9ddc77376220e972422",
+      "byte_identical": true,
+      "sha256_current": "98adb8ae024fc6d267c9445fc029f51a71b33cf2b63846cc5bd0811f7b29f659",
+      "bytes": 5457
+    },
+    {
+      "path": "weg-hausverwaltung/skills/marketing-website-impressum-tmg-und-bewertungen/SKILL.md",
+      "baseline_git_blob": "c320ae58d98527938ba951923c05d17c24ef8ece",
+      "current_git_blob": "c320ae58d98527938ba951923c05d17c24ef8ece",
+      "byte_identical": true,
+      "sha256_current": "ad8c346cfa522f0bbd92dd031d480bb323ea861a7562b19b7c3cb23b374e31a4",
+      "bytes": 5482
+    },
+    {
+      "path": "weg-hausverwaltung/skills/operatives-erstpruefung-und-mandatsziel/SKILL.md",
+      "baseline_git_blob": "412dcefc22b4066fe1a36e441d39bef3f92216b8",
+      "current_git_blob": "412dcefc22b4066fe1a36e441d39bef3f92216b8",
+      "byte_identical": true,
+      "sha256_current": "dfa586f4fd91fa3a110ff19f7d2469fbe2b6cb11310a9189dfb3ea8728230701",
+      "bytes": 5629
+    },
+    {
+      "path": "weg-hausverwaltung/skills/output-waehlen/SKILL.md",
+      "baseline_git_blob": "545da63923bb3d2be27c4a92fe9372da0c42bad2",
+      "current_git_blob": "545da63923bb3d2be27c4a92fe9372da0c42bad2",
+      "byte_identical": true,
+      "sha256_current": "97a0a054ada88ea9e4dca83b84a2978efc243e8f249869c349ccce84480dad66",
+      "bytes": 2917
+    },
+    {
+      "path": "weg-hausverwaltung/skills/protokoll-behoerden-gericht-und-registerweg/SKILL.md",
+      "baseline_git_blob": "fa51826e6b50a06668a7e6eda8a7f192bdba0349",
+      "current_git_blob": "fa51826e6b50a06668a7e6eda8a7f192bdba0349",
+      "byte_identical": true,
+      "sha256_current": "ac86af4702ad3e447043c54e20781f55c580a4fee66955e4668e2e3216577a44",
+      "bytes": 5606
+    },
+    {
+      "path": "weg-hausverwaltung/skills/protokollwerkstatt-top-marathon/SKILL.md",
+      "baseline_git_blob": "795d0625e89988583d14a400b3581081f3f9e99c",
+      "current_git_blob": "795d0625e89988583d14a400b3581081f3f9e99c",
+      "byte_identical": true,
+      "sha256_current": "6271c037a221cf0c6f493ac6bb51fcd4a48579986befb602d101ad474d1bf7d1",
+      "bytes": 2524
+    },
+    {
+      "path": "weg-hausverwaltung/skills/quellen-livecheck/SKILL.md",
+      "baseline_git_blob": "4e69673034d0c688509092f83fa60978681db6a0",
+      "current_git_blob": "4e69673034d0c688509092f83fa60978681db6a0",
+      "byte_identical": true,
+      "sha256_current": "5bbb0e7a97a2e49a4a55aa074d2fa3ab7038ec0a6ab74a3f2ee6a45efdf35c7e",
+      "bytes": 2901
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rampe-handlauf-tuerverbreiterung-gemeinschaftsbereich/SKILL.md",
+      "baseline_git_blob": "5595298ef701baa8a6cce49a06f9742935aca8a1",
+      "current_git_blob": "5595298ef701baa8a6cce49a06f9742935aca8a1",
+      "byte_identical": true,
+      "sha256_current": "2bb0b0a3ebf1ec2f81063dc17eb4b1f729e5a223de22b8837e891517ab1a8ce5",
+      "bytes": 7286
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rampe-handlauf-tuerverbreiterung/SKILL.md",
+      "baseline_git_blob": "c0c213d3c249d1f46b27345399a5c0c31d02ed00",
+      "current_git_blob": "c0c213d3c249d1f46b27345399a5c0c31d02ed00",
+      "byte_identical": true,
+      "sha256_current": "3c3b32513ee18fadc0a7b7d2a8a69eff76e20d899f6c2806171abaf048cc6bf6",
+      "bytes": 4845
+    },
+    {
+      "path": "weg-hausverwaltung/skills/rechtsstand-mai-2026-faktenbank/SKILL.md",
+      "baseline_git_blob": "d6cdd1153aee227e577f1972b2a664c9785bc608",
+      "current_git_blob": "d6cdd1153aee227e577f1972b2a664c9785bc608",
+      "byte_identical": true,
+      "sha256_current": "d8998ed45a1266343412db1d58ea82376625b99ccedc51fa8af7e6bfc52d8314",
+      "bytes": 4260
+    },
+    {
+      "path": "weg-hausverwaltung/skills/sonderumlage-compliance-dokumentation-und-akte/SKILL.md",
+      "baseline_git_blob": "c47ecc7f8425b65422172c214c260403d93cb290",
+      "current_git_blob": "c47ecc7f8425b65422172c214c260403d93cb290",
+      "byte_identical": true,
+      "sha256_current": "fdbfcf52c344e5f19cdd1f6a19a4642a5cb3c75ea469f16a4bf5863d4669c2a7",
+      "bytes": 7158
+    },
+    {
+      "path": "weg-hausverwaltung/skills/spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck/SKILL.md",
+      "baseline_git_blob": "985c518d2186723242d5d8f11490a57c50effe16",
+      "current_git_blob": "985c518d2186723242d5d8f11490a57c50effe16",
+      "byte_identical": true,
+      "sha256_current": "8f2a396fb8032040de9fa692954fe573e67c0dfd7575d8b01916def33fee5bcc",
+      "bytes": 8321
+    },
+    {
+      "path": "weg-hausverwaltung/skills/steckersolar-wallbox-barrierefreiheit/SKILL.md",
+      "baseline_git_blob": "fc90ae0db14d483c8d0cb104c37f9981fcbaca8d",
+      "current_git_blob": "fc90ae0db14d483c8d0cb104c37f9981fcbaca8d",
+      "byte_identical": true,
+      "sha256_current": "2f1f4307fd97388e3ddba1f9af4b55cb8d02882177fcc1625c8712509232bf5a",
+      "bytes": 6909
+    },
+    {
+      "path": "weg-hausverwaltung/skills/stoerung-hausordnung-mieter-eigentuemer/SKILL.md",
+      "baseline_git_blob": "9ed92230590b14b533c2fa8aea2bf60353ae4651",
+      "current_git_blob": "9ed92230590b14b533c2fa8aea2bf60353ae4651",
+      "byte_identical": true,
+      "sha256_current": "d94f1b33b4876267cad1a72dd7ff24e9965f6e4fcade6fdecc65821b626a64ee",
+      "bytes": 5295
+    },
+    {
+      "path": "weg-hausverwaltung/skills/top-generator-emotion-zu-beschluss/SKILL.md",
+      "baseline_git_blob": "fd434581091ed78aa3fb511e05fabc37078047b5",
+      "current_git_blob": "fd434581091ed78aa3fb511e05fabc37078047b5",
+      "byte_identical": true,
+      "sha256_current": "20ea257097a38f1e3d5d8aa15454c60755f5d44be35d8a42ee61985e59283362",
+      "bytes": 3050
+    },
+    {
+      "path": "weg-hausverwaltung/skills/unterlagen-luecken/SKILL.md",
+      "baseline_git_blob": "42c2902b36708f60961170c3b60b406066ed1216",
+      "current_git_blob": "42c2902b36708f60961170c3b60b406066ed1216",
+      "byte_identical": true,
+      "sha256_current": "592149f321ce3e72d9faca1a28055cc64cc4fc371f914e8476c0efc62d6dcc90",
+      "bytes": 2886
+    },
+    {
+      "path": "weg-hausverwaltung/skills/verwalterpflichten-26-27-weg/SKILL.md",
+      "baseline_git_blob": "e07219809b8ff1c2259ba81a25d697b848417a40",
+      "current_git_blob": "e07219809b8ff1c2259ba81a25d697b848417a40",
+      "byte_identical": true,
+      "sha256_current": "7611518c076191aa2d86c2703f94d37504906acabb80f551fea24b314038aefe",
+      "bytes": 5636
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-bauliche-formular-portal-einreichungslogik/SKILL.md",
+      "baseline_git_blob": "9c35d4a9803d0b18028344c0f3924fbe9123f7da",
+      "current_git_blob": "9c35d4a9803d0b18028344c0f3924fbe9123f7da",
+      "byte_identical": true,
+      "sha256_current": "6cb943fdfc99ce5942a3df9f63098ebe2f2a94f7bab3d58e68f6923f7f485271",
+      "bytes": 3126
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-beschluesse-dokumentenmatrix-lueckenliste-nachforderung/SKILL.md",
+      "baseline_git_blob": "100ef7752eeb35d033e9b46c46b33b244093c3ed",
+      "current_git_blob": "100ef7752eeb35d033e9b46c46b33b244093c3ed",
+      "byte_identical": true,
+      "sha256_current": "d2132fc2fe51048287cad67d0c641a5a617c0b9837157fb22839cb4f4263d208",
+      "bytes": 3167
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-beschlusssammlung-formfehler/SKILL.md",
+      "baseline_git_blob": "aa9a031d72e4f747a2f50b8e3f8fe761327899fb",
+      "current_git_blob": "aa9a031d72e4f747a2f50b8e3f8fe761327899fb",
+      "byte_identical": true,
+      "sha256_current": "d4940befcf7debc7debba49105ed389f5fe214b7a50dc720ce4e24a350e98155",
+      "bytes": 3152
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-eigentuemerversammlung-einladung-beschluss/SKILL.md",
+      "baseline_git_blob": "ffb2dfc41b0c30509cc45a3c184f618536431c90",
+      "current_git_blob": "ffb2dfc41b0c30509cc45a3c184f618536431c90",
+      "byte_identical": true,
+      "sha256_current": "167f5d46057fd58fadd1e8aa46c6406f63adfd8dca8cddda38a1a2c1e80b133a",
+      "bytes": 4850
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-handwerker-internationaler-bezug-schnittstellen/SKILL.md",
+      "baseline_git_blob": "229d47b634c3476c4bbd513c942f8d6027f966e5",
+      "current_git_blob": "229d47b634c3476c4bbd513c942f8d6027f966e5",
+      "byte_identical": true,
+      "sha256_current": "8e91517a813923a9b47ac30bf7b1659f7d3a500a3710d59cd6abebe4c11314bd",
+      "bytes": 3160
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-hausgeld-zahlen-schwellenwerte-berechnung/SKILL.md",
+      "baseline_git_blob": "92faed45a88d16fab19cd8f60cd9b6f5c93fcd23",
+      "current_git_blob": "92faed45a88d16fab19cd8f60cd9b6f5c93fcd23",
+      "byte_identical": true,
+      "sha256_current": "72581700dcac9f66b6056346f5af491bd0b5b941b3606cedf0c6b84d221cbaf5",
+      "bytes": 4715
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-operatives-erstpruefung-rollenklaerung-mandatsziel/SKILL.md",
+      "baseline_git_blob": "8fa46d9050a2671ab0a2c403299d908914fc65bf",
+      "current_git_blob": "8fa46d9050a2671ab0a2c403299d908914fc65bf",
+      "byte_identical": true,
+      "sha256_current": "46272ffc9b69eb761afbc228aca581694e2aa71191b2ab1b7f70b25bc26a8a1c",
+      "bytes": 4062
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-protokoll-behoerden-gerichts-registerweg/SKILL.md",
+      "baseline_git_blob": "14bd961c42956b4f9ceea4be5d5e1d697f494cb5",
+      "current_git_blob": "14bd961c42956b4f9ceea4be5d5e1d697f494cb5",
+      "byte_identical": true,
+      "sha256_current": "b52aa535a7fda893f89bc6f2d233a2c43c8d0f0313fb92568e3160bd1ab7356d",
+      "bytes": 3128
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-sonderumlage-compliance-dokumentation-aktenvermerk/SKILL.md",
+      "baseline_git_blob": "5f079869f69c51c35c357cc805d205336e8153c6",
+      "current_git_blob": "5f079869f69c51c35c357cc805d205336e8153c6",
+      "byte_identical": true,
+      "sha256_current": "835e96b86b7e81925a9cc9c0c380008f6861c40e16bc638e617915c9f1805f42",
+      "bytes": 4672
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-tatbestand-beweis-und-belege/SKILL.md",
+      "baseline_git_blob": "60ca16c1ba8a599c699f6f48c5c12ae77fbbb8df",
+      "current_git_blob": "60ca16c1ba8a599c699f6f48c5c12ae77fbbb8df",
+      "byte_identical": true,
+      "sha256_current": "5364134d3afdf8024a09a2431d192b575b0a9cadd23b8c87fbbc48ae33ac822d",
+      "bytes": 5577
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-tatbestandsmerkmale-beweisfragen-beleglage/SKILL.md",
+      "baseline_git_blob": "d00531ef36e1c17d0b651c7a46e0d10eb24b7492",
+      "current_git_blob": "d00531ef36e1c17d0b651c7a46e0d10eb24b7492",
+      "byte_identical": true,
+      "sha256_current": "52f84fe3cca7c8b22b04f927fd6e501a2a3accdc1b6a070e333918f6d6be2eeb",
+      "bytes": 3117
+    },
+    {
+      "path": "weg-hausverwaltung/skills/weg-wirtschaftsplan-hausgeld/SKILL.md",
+      "baseline_git_blob": "126ea54f3fa1acaf58f3b12740ee62275c148de2",
+      "current_git_blob": "126ea54f3fa1acaf58f3b12740ee62275c148de2",
+      "byte_identical": true,
+      "sha256_current": "ec1bf1325cabf0a2ee7841dd93dd31b430781387907d2da04013adae3cedceb0",
+      "bytes": 4064
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-bauliche-veraenderung-beschluss-spezial/SKILL.md",
+      "baseline_git_blob": "48133ea8caf83ed32c3a69d2cfef18cfd97f4753",
+      "current_git_blob": "48133ea8caf83ed32c3a69d2cfef18cfd97f4753",
+      "byte_identical": true,
+      "sha256_current": "23b973e0626bcc5775304644b81fcc28a62c53349ec7a7edf002c30ec94b5c88",
+      "bytes": 2894
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-eigentuemerversammlung-bauleiter/SKILL.md",
+      "baseline_git_blob": "42371693e72474f2a5251070ea405410916531f8",
+      "current_git_blob": "42371693e72474f2a5251070ea405410916531f8",
+      "byte_identical": true,
+      "sha256_current": "f78a06a9ba289e9198a94fe0478eab5fdf7ea8c2000744746365e1f6716ed421",
+      "bytes": 2878
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-verwalterhaftung-spezial/SKILL.md",
+      "baseline_git_blob": "d13245e05327552afbe46955c2099e6245d269ac",
+      "current_git_blob": "d13245e05327552afbe46955c2099e6245d269ac",
+      "byte_identical": true,
+      "sha256_current": "be0c050cfc415049bffccaf95aca0e3922cc9be71cd6e7cc7dccb3813f45a357",
+      "bytes": 3665
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-wirtschaftsplan-jahresabrechnung-leitfaden/SKILL.md",
+      "baseline_git_blob": "56b57fb5a6e4c6e6d2756e912e382021518f2f2b",
+      "current_git_blob": "56b57fb5a6e4c6e6d2756e912e382021518f2f2b",
+      "byte_identical": true,
+      "sha256_current": "2982ff1f413fea03feb971d0a0cc21ca9cb0f165e43cc0a1cbc282eaed2d2c93",
+      "bytes": 7985
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wegh-wirtschaftsplan-jahresabrechnung/SKILL.md",
+      "baseline_git_blob": "5e39dfb0f2fe8dae6ee04f82945947b747f25df9",
+      "current_git_blob": "5e39dfb0f2fe8dae6ee04f82945947b747f25df9",
+      "byte_identical": true,
+      "sha256_current": "22f7c6c4db56b845d34119fd1d9a6c439ac21bc09a5e638696b3de842870854f",
+      "bytes": 5586
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md",
+      "baseline_git_blob": "b706b74330cbbce270b9500fc5e75a25e6e1ff46",
+      "current_git_blob": "b706b74330cbbce270b9500fc5e75a25e6e1ff46",
+      "byte_identical": true,
+      "sha256_current": "eeb1daabefd6868c179627c82a87d12266e179691a1ea38a498ee4ad12c3c614",
+      "bytes": 7292
+    },
+    {
+      "path": "weg-hausverwaltung/skills/wirtschaftsplan-verhandlung-vergleich-und-eskalation/SKILL.md",
+      "baseline_git_blob": "7c62b68c85039633941ea9a9b831992ea52a3120",
+      "current_git_blob": "7c62b68c85039633941ea9a9b831992ea52a3120",
+      "byte_identical": true,
+      "sha256_current": "2de8a496ac963309ef0de4aa941c78b40b130321c75eb9fb43a5f9e438f31771",
+      "bytes": 5646
+    },
+    {
+      "path": "weg-hausverwaltung/skills/workflow-kaltstart-und-routing/SKILL.md",
+      "baseline_git_blob": "2584700336a18316a2d4dba5341f7004c826d879",
+      "current_git_blob": "2584700336a18316a2d4dba5341f7004c826d879",
+      "byte_identical": true,
+      "sha256_current": "1f33d56606c26a2dd1e09b06c6bf0ff074ce4bdf98dcfa21b8dbbf150cd8e4a4",
+      "bytes": 1853
+    },
+    {
+      "path": "weg-hausverwaltung/skills/workflow-unterlagen-lueckenliste/SKILL.md",
+      "baseline_git_blob": "21f4b8cfe0ca4d11c7690bd4f09cf980798d03f1",
+      "current_git_blob": "21f4b8cfe0ca4d11c7690bd4f09cf980798d03f1",
+      "byte_identical": true,
+      "sha256_current": "3493b9f02d0dd93f6369b4405deb77d63f4c36e12a108ea23d8a7957db3fea51",
+      "bytes": 2840
+    },
+    {
+      "path": "weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md",
+      "baseline_git_blob": "4adcda9aded8434030ed7e24a6e4da5fd0bec11c",
+      "current_git_blob": "4adcda9aded8434030ed7e24a6e4da5fd0bec11c",
+      "byte_identical": true,
+      "sha256_current": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+      "bytes": 7444
+    },
+    {
+      "path": "weg-hausverwaltung/weg-hausverwaltung-schnellstart.md",
+      "baseline_git_blob": "777ccf9a564021c0ae9fca50c578fbcf9ee54bd4",
+      "current_git_blob": "777ccf9a564021c0ae9fca50c578fbcf9ee54bd4",
+      "byte_identical": true,
+      "sha256_current": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+      "bytes": 7494
+    },
+    {
+      "path": "weg-hausverwaltung/weg-hausverwaltung-werkstatt.md",
+      "baseline_git_blob": "d05472e1cb94d05126dbf0200763fbf2e9f18c4a",
+      "current_git_blob": "d05472e1cb94d05126dbf0200763fbf2e9f18c4a",
+      "byte_identical": true,
+      "sha256_current": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+      "bytes": 87842
+    }
+  ],
+  "readme_version_only_changes": [
+    {
+      "path": "testakten/bautraegervertrag-birkenpfuhl-quendel-verbraucherpruefung/README.md",
+      "baseline_git_blob": "9c33338082ec05a88481075520efa5962e2e4c22",
+      "current_git_blob": "2965b2dbd2f6584456e37eef2a1231e5a7612d7b",
+      "byte_identical": false,
+      "sha256_current": "da78269e46438a6eac1b2e4a2c0bce1835d26bf4170f09dc45125d8f2ae02829",
+      "bytes": 4623,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/betriebskosten-2025-weg-schoeneberg/README.md",
+      "baseline_git_blob": "58b2ab928e6c8ec661e6a6ce3083ccb722a155ee",
+      "current_git_blob": "95009f5f6792988388f0b6dbfa6ab4457f1de9e4",
+      "byte_identical": false,
+      "sha256_current": "7f208118d06f944878dad950a2553770c17450278a9299ef048867d00062b505",
+      "bytes": 7389,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/weg-hausverwaltung-hohenzollernhof/README.md",
+      "baseline_git_blob": "5291b1fcf71db20e38279dc5c98cd494b59cf727",
+      "current_git_blob": "10cbe2c6f7018f2621430054184d8a964a8da611",
+      "byte_identical": false,
+      "sha256_current": "d9cafff6fb956855f57a56482f001f395e0f50eeea400e9c20b6647c3f70da36",
+      "bytes": 7680,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/weg-kastanienhof-kellerdiebstahl/README.md",
+      "baseline_git_blob": "b7f62556ab739e03bc7758f4b38e3645158aa95f",
+      "current_git_blob": "e94f2a704471b2cb80c624e5ef077a1db905949d",
+      "byte_identical": false,
+      "sha256_current": "a46046831c249544ff9f981e3f7edae0013f2431a29c16d1c50dbc5850112a3e",
+      "bytes": 6612,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/weg-lindenhof-jahresabrechnung-2025/README.md",
+      "baseline_git_blob": "5f830f64ed67edea149e788692d76d90aa2b9769",
+      "current_git_blob": "a9ef4e82d453d6ac0f64e69d83026c8e95da6305",
+      "byte_identical": false,
+      "sha256_current": "fe3f31796b2c982149cd7503c2f57163e89a02fe23575fb0dd89311487c1f072",
+      "bytes": 6997,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/weg-sonnenwinkel-bettwanzen/README.md",
+      "baseline_git_blob": "dd2e075860f4d37f9dbcc8b8c0aa60d7e90519f0",
+      "current_git_blob": "ed34ab3e179b11f1bd37da876f83e6c62ca542f7",
+      "byte_identical": false,
+      "sha256_current": "cffa85e85d1d710d81bf474037ccc3df508a3d23c2a676fdefe4e0cdbc42b6e6",
+      "bytes": 6702,
+      "only_release_version_links_changed": true
+    },
+    {
+      "path": "testakten/weg-spreebogen-mieterumlage-belege/README.md",
+      "baseline_git_blob": "d9e31e7b15df77772b91b494b002bcc8576df759",
+      "current_git_blob": "902906857397531aea56d893c90d29101eda618f",
+      "byte_identical": false,
+      "sha256_current": "44c005023659639ca3f3e66e077871c763428606bf8bc9d9f817614f25ffc7c9",
+      "bytes": 6377,
+      "only_release_version_links_changed": true
+    }
+  ]
+}

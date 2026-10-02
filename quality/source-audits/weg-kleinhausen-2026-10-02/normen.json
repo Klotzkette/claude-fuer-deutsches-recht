@@ -1,0 +1,26 @@
+{
+  "pruefung": "Gezielte Normprüfung für eine einfache WEG-Abrechnungsakte; keine erneute Prüfung des gesamten Plugins.",
+  "stand": "2026-10-02",
+  "quellen": [
+    {
+      "id": "WEG-16-2",
+      "url": "https://www.gesetze-im-internet.de/woeigg/__16.html",
+      "herausgeber": "Bundesministerium der Justiz und für Verbraucherschutz / Bundesamt für Justiz",
+      "fundstelle": "§ 16 Abs. 2 Satz 1 WEG; abweichende Verteilung: Satz 2",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext mit dem Webwerkzeug geöffnet und gelesen.",
+      "anwendung": "Ohne abweichenden Verteilungsschlüssel trägt jede der fünf Einheiten mit 200/1000 Miteigentumsanteilen ein Fünftel der Gemeinschaftskosten. Gleiche Kostenanteile ergeben sich hier aus den Miteigentumsanteilen, nicht aus einer allgemeinen Pro-Wohnung-Regel."
+    },
+    {
+      "id": "WEG-28",
+      "url": "https://www.gesetze-im-internet.de/woeigg/__28.html",
+      "herausgeber": "Bundesministerium der Justiz und für Verbraucherschutz / Bundesamt für Justiz",
+      "fundstelle": "§ 28 Abs. 1 Sätze 1 und 2, Abs. 2 Sätze 1 und 2, Abs. 3 sowie Abs. 4 Sätze 1 und 2 WEG",
+      "abgerufen": "2026-10-02",
+      "verifikation": "Amtlichen Normtext mit dem Webwerkzeug geöffnet und gelesen.",
+      "anwendung": "Kostenvorschüsse und Beiträge zur Erhaltungsrücklage werden getrennt beschlossen und dargestellt. Auf Grundlage der Jahresabrechnung wird über Nachschüsse oder Anpassungen der beschlossenen Vorschüsse beschlossen; Fälligkeit und Erfüllung können geregelt werden. Der Vermögensbericht nennt Rücklagenstand und wesentliches Gemeinschaftsvermögen und wird jedem Eigentümer bereitgestellt."
+    }
+  ],
+  "rechtsprechung": "Keine neue Rechtsprechung aufgenommen: Der Fall enthält keine streitige Spezialfrage, für die ein weiterer Entscheidungsanker erforderlich wäre. Die schon im Plugin enthaltenen Anker werden durch diese Aktenprüfung weder neu verifiziert noch erweitert.",
+  "literatur": "Keine Literatur aus Modellwissen verwendet."
+}

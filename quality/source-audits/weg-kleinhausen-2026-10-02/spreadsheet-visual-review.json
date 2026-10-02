@@ -1,0 +1,28 @@
+{
+  "status": "pass",
+  "reviewer": "Codex agent kleinhausen_akte",
+  "method": "Alle drei Tabellenblätter vollständig visuell geprüft; für das lange Bankbuch sechs lückenlose Ausschnitte des vollständigen Renders bei Originalauflösung geöffnet. Kein abgeschnittener Text, keine fehlenden Zahlen, keine Fehlerwerte. Nach nativer LibreOffice-Neuberechnung alle Zellwerte unverändert; endgültige PDF-Druckansicht folgt in der separaten Exportprüfung.",
+  "workbook": "testakten/weg-kleinhausen/06_Abrechnung_2025_Arbeitsdatei.xlsx",
+  "workbook_sha256": "ba9874a966455c731f664983c2d6133145850f1dfb3253a775f017830ad4a621",
+  "sheets": [
+    {
+      "sheet": "Abrechnungsentwurf",
+      "image": "qa/native/tabellen/weg-kleinhausen__06_Abrechnung_2025_Arbeitsdatei__Abrechnungsentwurf.png",
+      "sha256": "7a71f5fa70e6fd622579363056a3e74b32e5950dd20580fe612fe4391669899a",
+      "status": "pass"
+    },
+    {
+      "sheet": "Vorschuesse",
+      "image": "qa/native/tabellen/weg-kleinhausen__06_Abrechnung_2025_Arbeitsdatei__Vorschuesse.png",
+      "sha256": "8c7c966321d9252c585ad6ba91c0d7f7bc4ea37c16cfd35367d1f20907a480c1",
+      "status": "pass"
+    },
+    {
+      "sheet": "Bankbuch",
+      "image": "qa/native/tabellen/weg-kleinhausen__06_Abrechnung_2025_Arbeitsdatei__Bankbuch.png",
+      "sha256": "9fbb9730ab7b43ede36a2cf8479c0d847f7f14328c73bbac62694742e30c85b9",
+      "status": "pass"
+    }
+  ],
+  "source_freeze_sha256": "86670654e300665a87b7431da1e04c8f8b3eaad19389e71717d8ea379fd1d454"
+}

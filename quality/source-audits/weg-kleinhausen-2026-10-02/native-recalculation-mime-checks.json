@@ -1,0 +1,76 @@
+{
+  "status": "pass",
+  "checks": [
+    {
+      "type": "native_recalculation",
+      "engine": "Bundled LibreOffice Calc",
+      "status": "pass",
+      "all_cells_compared": true,
+      "sheets": 3
+    },
+    {
+      "type": "native_input_change",
+      "sheet": "Abrechnungsentwurf",
+      "input": "B5",
+      "value": 240,
+      "output": "D13",
+      "expected": 68,
+      "actual": 68,
+      "source_bank_unchanged": true,
+      "status": "pass"
+    },
+    {
+      "type": "native_input_change",
+      "sheet": "Abrechnungsentwurf",
+      "input": "B5",
+      "value": 0,
+      "output": "D13",
+      "expected": 116,
+      "actual": 116,
+      "source_bank_unchanged": true,
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "01_Auftrag.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "23_Versand_Abrechnung.eml",
+      "attachments": [
+        "17_Gesamtabrechnung_Entwurf.docx",
+        "18_Einzelabrechnung_WE01.docx"
+      ],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "24_Rueckfrage_Marta.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "25_Rueckfrage_Otto.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "26_Antwort_Verwaltung.eml",
+      "attachments": [],
+      "status": "pass"
+    },
+    {
+      "type": "mime",
+      "file": "29_Versand_Belege.eml",
+      "attachments": [
+        "12_Allgemeinstrom.docx",
+        "13_Treppenhausreinigung.docx"
+      ],
+      "status": "pass"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "name": "validate-marketplace-import.mjs",
+    "arguments": [
+      "scripts/validate-marketplace-import.mjs"
+    ],
+    "returncode": 1,
+    "seconds": 2.33
+  },
+  {
+    "name": "validate-plugin-structure.mjs",
+    "arguments": [
+      "scripts/validate-plugin-structure.mjs"
+    ],
+    "returncode": 0,
+    "seconds": 6.01
+  },
+  {
+    "name": "validate-yaml-frontmatter.py",
+    "arguments": [
+      "scripts/validate-yaml-frontmatter.py"
+    ],
+    "returncode": 0,
+    "seconds": 1.5
+  },
+  {
+    "name": "validate-testakten-gesamt-pdf.py",
+    "arguments": [
+      "scripts/validate-testakten-gesamt-pdf.py"
+    ],
+    "returncode": 0,
+    "seconds": 121.48
+  },
+  {
+    "name": "validate-root-readme-overview.py",
+    "arguments": [
+      "scripts/validate-root-readme-overview.py"
+    ],
+    "returncode": 0,
+    "seconds": 1.54
+  },
+  {
+    "name": "validate-readme-navigation.py",
+    "arguments": [
+      "scripts/validate-readme-navigation.py"
+    ],
+    "returncode": 0,
+    "seconds": 110.24
+  },
+  {
+    "name": "validate-markdown-structure.py",
+    "arguments": [
+      "scripts/validate-markdown-structure.py"
+    ],
+    "returncode": 0,
+    "seconds": 4.12
+  },
+  {
+    "name": "validate-testakten-readme-downloads.py",
+    "arguments": [
+      "scripts/validate-testakten-readme-downloads.py"
+    ],
+    "returncode": 0,
+    "seconds": 8.04
+  },
+  {
+    "name": "validate-testakten-dokumentqualitaet.py",
+    "arguments": [
+      "scripts/validate-testakten-dokumentqualitaet.py"
+    ],
+    "returncode": 0,
+    "seconds": 83.09
+  },
+  {
+    "name": "validate-testakten-keine-markdown-aktenstuecke.py",
+    "arguments": [
+      "scripts/validate-testakten-keine-markdown-aktenstuecke.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.1
+  },
+  {
+    "name": "validate-testakten-ohne-loesungen.py",
+    "arguments": [
+      "scripts/validate-testakten-ohne-loesungen.py"
+    ],
+    "returncode": 0,
+    "seconds": 40.4
+  },
+  {
+    "name": "validate-testakten-csv.py",
+    "arguments": [
+      "scripts/validate-testakten-csv.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.17
+  },
+  {
+    "name": "test-testakten-email-quality.py",
+    "arguments": [
+      "scripts/test-testakten-email-quality.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.23
+  },
+  {
+    "name": "test-weg-kleinhausen.py",
+    "arguments": [
+      "scripts/test-weg-kleinhausen.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.09
+  },
+  {
+    "name": "test-weg-hausverwaltungsakten.py",
+    "arguments": [
+      "scripts/test-weg-hausverwaltungsakten.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.14
+  },
+  {
+    "name": "test-release-routing.py",
+    "arguments": [
+      "scripts/test-release-routing.py"
+    ],
+    "returncode": 0,
+    "seconds": 2.71
+  },
+  {
+    "name": "test-complete-package.py",
+    "arguments": [
+      "scripts/test-complete-package.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.1
+  },
+  {
+    "name": "test-release-assets.py",
+    "arguments": [
+      "scripts/test-release-assets.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.08
+  },
+  {
+    "name": "test-testakte-pdf-build.py",
+    "arguments": [
+      "scripts/test-testakte-pdf-build.py"
+    ],
+    "returncode": 0,
+    "seconds": 7.02
+  },
+  {
+    "name": "test-marketplace-import.py",
+    "arguments": [
+      "scripts/test-marketplace-import.py"
+    ],
+    "returncode": 0,
+    "seconds": 1.03
+  },
+  {
+    "name": "test-schwerpunkt-coverage.py",
+    "arguments": [
+      "scripts/test-schwerpunkt-coverage.py"
+    ],
+    "returncode": 0,
+    "seconds": 1.29
+  },
+  {
+    "name": "test-generate-megaprompt.py",
+    "arguments": [
+      "scripts/test-generate-megaprompt.py"
+    ],
+    "returncode": 0,
+    "seconds": 0.02
+  },
+  {
+    "name": "run-eval.py",
+    "arguments": [
+      "scripts/run-eval.py",
+      "weg-kleinhausen",
+      "--structural-only",
+      "--quiet"
+    ],
+    "returncode": 0,
+    "seconds": 0.07
+  },
+  {
+    "name": "quality-lab.py",
+    "arguments": [
+      "scripts/quality-lab.py",
+      "audit",
+      "--require-editorial",
+      "--require-workflow"
+    ],
+    "returncode": 0,
+    "seconds": 0.47
+  }
+]

@@ -1,6 +1,6 @@
 # produktrecht
 
-**70 Skills** · Stand `v445.28.0`
+**70 Skills** · Stand `v445.28.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../produktrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

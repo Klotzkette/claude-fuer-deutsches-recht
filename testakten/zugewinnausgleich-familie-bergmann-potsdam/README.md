@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf`](gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -44,8 +44,8 @@ Wähle eine Variante pro Arbeitsordner. Wer Originaldateien, Gesamt-PDF und Einz
 | Fassung | Download | Verwendung |
 | --- | --- | --- |
 | Gesamt-PDF | [Alle Unterlagen in einer Datei](gesamt-pdf/zugewinnausgleich-familie-bergmann-potsdam_gesamt.pdf) | Lesen, Durchsuchen und Ausdrucken |
-| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) | Jede Unterlage als eigene PDF |
-| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | Word, Excel, E-Mails, CSV, Nachrichten, Bilder und PDFs |
+| Einzel-PDFs | [Flaches PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-zugewinnausgleich-familie-bergmann-potsdam-einzelpdfs.zip) | Jede Unterlage als eigene PDF |
+| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-zugewinnausgleich-familie-bergmann-potsdam.zip) | Word, Excel, E-Mails, CSV, Nachrichten, Bilder und PDFs |
 
 Die Archive enthalten keine Unterordner und keine Markdown-Aktenstücke. Die zweisprachige `README.txt` liegt unmittelbar im ZIP. Die PDFs enthalten keine zusätzliche Hinweisseite; der Hinweis steht hier vor den Downloads. Das Originalformat-ZIP enthält auch das Gesamt-PDF.
 

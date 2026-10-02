@@ -1,0 +1,134 @@
+{
+  "stand": "2026-10-02",
+  "status": "bestanden",
+  "pruefart": "Unabhängige redaktionelle Gegenlese und deterministischer Regressionstest der fertigen Originale. Kein neuer Modell- oder Benutzer-Anwendungstest.",
+  "umfang": {
+    "originale": 31,
+    "textoriginale_vollstaendig_gelesen": 30,
+    "docx": 23,
+    "eml": 6,
+    "txt": 1,
+    "xlsx": 1,
+    "tabellenblaetter": [
+      "Abrechnungsentwurf",
+      "Vorschuesse",
+      "Bankbuch"
+    ],
+    "bankbewegungen_einzeln_nachgerechnet": 116,
+    "vollstaendige_eigentuemer_monatsraten": 60,
+    "gepruefte_belege": 8,
+    "mime_anhaenge": 4,
+    "formelzellen_mit_numerischem_cache": 157
+  },
+  "ergebnisse": {
+    "eigentuemer": 5,
+    "miteigentumsanteile": [
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "anteile_summe": 1000,
+    "kosten_originalbelege_eur": "5660.00",
+    "kostenvorschuesse_eur": "6000.00",
+    "ruecklagenvorschuesse_eur": "1500.00",
+    "eingegangene_hausgeldraten_eur": "7500.00",
+    "offene_vorschuesse_eur": "0.00",
+    "bankbruecke": "1000 + 7500 - 5660 - 1500 = 1340",
+    "ruecklagenbruecke": "5000 + 1500 = 6500",
+    "vermoegenssumme_eur": "7840.00",
+    "tatsaechlicher_kostenanteil_eur": "1132.00",
+    "guthaben_nach_berichtigung_je_einheit_eur": "68.00",
+    "guthaben_im_ursprungsentwurf_je_einheit_eur": "64.00"
+  },
+  "bewusste_abweichungen": [
+    {
+      "gegenstand": "Allgemeinstrom",
+      "entwurf": "260.00 EUR",
+      "beleg_und_bank": "240.00 EUR",
+      "folge": "20 EUR zu hohe Gesamtkosten; 4 EUR zu niedriger Anpassungsbetrag je Einheit. Dieser eine Fehler wird in Gesamtabrechnung, fünf Einzelabrechnungen und Beschlussvorlage fortgeführt."
+    },
+    {
+      "gegenstand": "Rechnungsnummer Treppenhausreinigung",
+      "entwurf": "R-2025-71",
+      "beleg_und_bank": "R-2025-17",
+      "folge": "Keine Betragsabweichung; 960 EUR sind korrekt angesetzt und bezahlt."
+    }
+  ],
+  "materielle_gegenlese": [
+    {
+      "thema": "Beschlussgegenstand",
+      "befund": "Anpassung der beschlossenen Kostenvorschüsse wird ausdrücklich und mit Einzelbeträgen formuliert; keine pauschale Genehmigung der Jahresabrechnung."
+    },
+    {
+      "thema": "Zahlungsstatus",
+      "befund": "Alle fünf Eigentümer haben zwölf Raten gezahlt. Die erste Abrechnung und Beschlussvorlage sind klar unbeschlossene Entwürfe; Auszahlung erst nach Beschluss."
+    },
+    {
+      "thema": "Rücklage",
+      "befund": "1500 EUR sind Kontenumbuchung und nicht verbrauchte Kosten; Rücklagenstand und Rücklagenkonto werden nicht doppelt addiert."
+    },
+    {
+      "thema": "Vermögensbericht",
+      "befund": "Der Bericht zum 31.12.2025 ist als eigene Datei vorhanden; 1340 EUR Betrieb und 6500 EUR Rücklage ergeben 7840 EUR."
+    },
+    {
+      "thema": "Einfachheit",
+      "befund": "Kein Eigentümerwechsel, kein Mietverhältnis, keine zentrale Heizkosten-/CO₂-Umlage, kein Zahlungsrückstand und kein streitiger Schaden. Die Novemberversammlung ist noch nicht eingeladen."
+    }
+  ],
+  "vorab_bereinigte_nebenbefunde": [
+    {
+      "gegenstand": "Banktage",
+      "befund": "Wochenendkorrektur im frühen Generator erfasste TARGET-Schließtage nicht. Vor dem Freeze berichtigt; finaler Test prüft alle 116 Buchungstage."
+    },
+    {
+      "gegenstand": "Stichtag in Besprechungsnotiz",
+      "befund": "Gemeinschaftsbankstände in Datei 27 nun ausdrücklich dem 31.12.2025 zugeordnet. Kein ungewollter aktueller September-2026-Bankstand."
+    }
+  ],
+  "regression": {
+    "befehl": "python3 scripts/test-weg-kleinhausen.py -v",
+    "tests": 6,
+    "exitcode": 0,
+    "zusatz": "Abschließender Lauf aus einem anderen Arbeitsverzeichnis; Test verwendet eigene Originaldateileser und importiert keine Builder-Erwartungswerte.",
+    "log": "regression.log",
+    "skript_sha256": "a8f0f7ba19e614d7721d56c7db334ef41e9d45bbac56d7164c62f3160943092a"
+  },
+  "originalbestand_sha256": "b48747a36c536e0c6bfccd31b7d732a056611a92538b42edb16e735bb3327885",
+  "autorenfreeze_sha256": "86670654e300665a87b7431da1e04c8f8b3eaad19389e71717d8ea379fd1d454",
+  "autorenfreeze_bytegleich": true,
+  "mime_anhaenge": [
+    {
+      "nachricht": "23_Versand_Abrechnung.eml",
+      "datei": "17_Gesamtabrechnung_Entwurf.docx",
+      "sha256": "9b23b24b8a1f8dbecd7e7b778e0b749d150d786744bc05cf8f59d5d02b31fdb2",
+      "bytegleich": true
+    },
+    {
+      "nachricht": "23_Versand_Abrechnung.eml",
+      "datei": "18_Einzelabrechnung_WE01.docx",
+      "sha256": "6707cb8af08f7ac796cec6e63dcc7f3494dc7adbbcc6d21ff6e79412bd15e03d",
+      "bytegleich": true
+    },
+    {
+      "nachricht": "29_Versand_Belege.eml",
+      "datei": "12_Allgemeinstrom.docx",
+      "sha256": "dc1329a31376c4da004d66364cdc490d59769ab6bb17a688a8718c3aa13bb3ac",
+      "bytegleich": true
+    },
+    {
+      "nachricht": "29_Versand_Belege.eml",
+      "datei": "13_Treppenhausreinigung.docx",
+      "sha256": "058603cff15574faaa26ea6a5e9bfd6566a3dd5929ae9d9fd023426f0c484a15",
+      "bytegleich": true
+    }
+  ],
+  "grenzen": [
+    "Die Aussage über genau zwei beabsichtigte Fehler beruht auf der vollständigen redaktionellen Gegenlese der Originale und den beschriebenen Zahlenprüfungen. Sie ist keine Garantie, dass kein denkbarer anderer rechtlicher Aspekt angesprochen werden könnte.",
+    "Kein neuer Ausführungstest eines KI-Modells und keine Behauptung einer vollständigen Prüfung der 93 Skills.",
+    "Keine visuelle Freigabe der Word-, Excel- oder PDF-Darstellung durch diesen Prüfer; dafür sind getrennte Sichtprüfungen zuständig.",
+    "Die Originale bleiben bewusst unkorrigierte Arbeitsunterlagen. Dieses Prüfergebnis wird nicht in die Arbeitsakte oder deren PDF/ZIP exportiert."
+  ]
+}

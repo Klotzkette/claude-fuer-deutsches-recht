@@ -1,0 +1,11 @@
+test_emails_enthalten_echte_bytegleiche_anlagen (__main__.KleinhausenOriginaleTest.test_emails_enthalten_echte_bytegleiche_anlagen) ... ok
+test_fuenf_eigentuemer_anteile_und_vollstaendige_vorschuesse (__main__.KleinhausenOriginaleTest.test_fuenf_eigentuemer_anteile_und_vollstaendige_vorschuesse) ... ok
+test_genau_zwei_kleine_abweichungen_im_entwurf (__main__.KleinhausenOriginaleTest.test_genau_zwei_kleine_abweichungen_im_entwurf) ... ok
+test_gepruefter_originalbestand_bleibt_vollstaendig (__main__.KleinhausenOriginaleTest.test_gepruefter_originalbestand_bleibt_vollstaendig) ... ok
+test_jede_bankbewegung_und_unabhaengige_rechenbruecke (__main__.KleinhausenOriginaleTest.test_jede_bankbewegung_und_unabhaengige_rechenbruecke) ... ok
+test_nur_originalformate_und_keine_versteckte_loesung (__main__.KleinhausenOriginaleTest.test_nur_originalformate_und_keine_versteckte_loesung) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.038s
+
+OK

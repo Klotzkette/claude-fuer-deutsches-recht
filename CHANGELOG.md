@@ -1,3 +1,17 @@
+# v445.28.1 - Kleinhausen als einfache WEG-Einstiegsakte
+
+## 1. Fünf Wohnungen und eine überschaubare Abrechnung
+
+Die zusätzliche Testakte Kleinhausen begleitet eine kleine Hausverwaltung durch die Jahresabrechnung einer Gemeinschaft mit fünf Wohnungen. Gleiche Miteigentumsanteile, vollständig bezahlte Vorschüsse und ein einfacher Rücklagenverlauf ermöglichen einen gut nachvollziehbaren Einstieg. Nur zwei kleine Übertragungsfehler im Entwurf sollen anhand der Belege aufgeklärt werden.
+
+## 2. Umfangreiche Unterlagen für den Workshop
+
+Die Akte verbindet Gemeinschaftsunterlagen, Rechnungen, Bankbewegungen, eine bearbeitbare Excel-Arbeitsmappe, fünf Einzelabrechnungen sowie E-Mails mit tatsächlichen Anlagen. Freundliche Eigentümerrückfragen und eine unversandte Beschlussvorlage führen zur korrigierten Fassung und persönlichen Antwort. Die Arbeitsunterlagen enthalten keine Musterlösung.
+
+## 3. Downloads und Prüfung
+
+Gesamt-PDF, Originalformat-ZIP und Einzel-PDF-ZIP ergänzen die Übersicht des Hausverwaltungsplugins. Unabhängiger Rechenabgleich, Formeln und tatsächliche Neuberechnung sowie die Word-, Tabellen- und PDF-Darstellung werden geprüft. Alle bisherigen Akten, Skills und eigenständigen Prompts bleiben erhalten.
+
 # v445.28.0 - WEG-Hausverwaltung mit Belegketten und vier neuen Akten
 
 ## 1. Bestehendes Plugin vertieft

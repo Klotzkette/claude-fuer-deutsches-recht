@@ -1,0 +1,138 @@
+{
+  "name": "validate-marketplace-import.mjs",
+  "reason": "15 aktive Gerichtsplugin-Manifeste waren noch auf 445.28.0; Marketplace und übrige aktive Plugins sind auf 445.28.1.",
+  "original_check_results": "evidence/check-results.json",
+  "original_check_results_sha256": "6198ab6a395d7b27b6ee5c4cfb8fd780ad0d442248f4d73732f05fe32fe13bf1",
+  "original_result_preserved": true,
+  "original_failure_count": 15,
+  "mutations": [
+    {
+      "path": "gerichtsplugins/relationstechnik-zivilrecht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "d6c1fd6a5be8fe0e34bf12cbdacd80b2482e33e980a20f5fec078c355dab9b86",
+      "after_sha256": "b72d132d8d2b17ae1064f03a9ce72db3e9786fd652fdd8e4631e0756ad85f549",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-handelsregister/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "a5c82e8f1b6d3410d56dad42d7ad6149d7eb50cc3a2664238bbf748851bf49ed",
+      "after_sha256": "03d31f803ce9c1068f5be35f9a1e76336481892b07bf25ba81543d71a0e43b60",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-insolvenz-restrukturierung/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "6cc14d3b4db6b6da0e6b3ca7bd0332b8650c65f2cc936c1af23c6a457992b3b8",
+      "after_sha256": "6ae4127932d739fb8f9a056c81eed8da9745957333a69fbe9a82cc8f996a945d",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-straf/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "c755f07391a5624f88d75b1583a47987b92447baceab49f1829b5e77b1642827",
+      "after_sha256": "edc3f5302b4af72c2c03779e5d5f30d6b2f411daa4e3e26d220a34feab206b88",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-amtsgericht-zivil/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "2f7164fc32050e85e61520aed15d87e382a406f2465b5a29b419eb841e858355",
+      "after_sha256": "1053f1db62595e2100d11982bdc8284ee9d1f6668b442ca55edc2b4f6af34734",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-arbeitsgericht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "d90a622e26a21a3f60fd211448e87b4ac126b1a0853b4d6c52c702f247973404",
+      "after_sha256": "2d4e2c012a14451bede04e6808ecb782e4abff697007a7b6afa46b8a683aa1a0",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-bverfg-verfassungsbeschwerden/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "792b724ff22d470dfd60f5cc83a020daa4db081d3cf040393f2e3b79561d9994",
+      "after_sha256": "1f4bd648645716b98b98c44ab7d82d47e8b40c2bccbee1d0decdd8761d4cf98b",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-familiengericht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "0ad206c79e9c5b18153541c085d9dbf35852dcf8cc3a866622041dffe603c579",
+      "after_sha256": "df5248149fbe2c07119ed6eaf3c7c4a6ed2c0ce62c80efda293aec9420fc87c6",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-finanzgericht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "e3ccdd36f7e48d6de1b6ae80b584b8472a630fbfaba4b8daf793cc88f2eaabd0",
+      "after_sha256": "b60aea5c5d6ded5a19b7d75a124ad5744dea267d3c6d0227225b3dfeffefabbe",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-strafkammer/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "4ade645d722b8eb0e8d9c75e41a5a317400f6c47a5ae2885a924c4b0c75d126e",
+      "after_sha256": "4e3979387fe02f7954f2216a49f736d8537e72dbcd40ee57496ebef20a0c0c24",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-landgericht-zivilkammer/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "4364ba7313576f5d9138f6fc26b86d9396b4612cf04dbb64962c169e1b34c8e0",
+      "after_sha256": "3a9baa2fcde3fc66bbcdb3516161a9928ca4b5cf75260eaf6653b78e76123c37",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-sozialgericht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "deab0f7dc287fc24e1127258cc10d5918ae0bca5ba004f40ff616597b74c6fde",
+      "after_sha256": "9a5b35478d90ed424aac696828ae7e666d581a30d0c7d479c5a7bde82e9ebde7",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/richter-verwaltungsgericht/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "ee197134b66bdffc15a423724ba5381b9f307d3af585cc5a82969f3adf35a7e1",
+      "after_sha256": "09dd590d3175e301d691227ea6b732ac917ba86899b9f8ad69872a613c2bfeea",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-amtsanwaltschaft/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "f2772d590d13c876ad1196a1a1000cdb062da69cd3fd54b2d2b097cba9c34d7d",
+      "after_sha256": "6ba08b54eb65f4ae66de24cc53114b47e508f81b521ebcee7ab1ed75b5a38778",
+      "other_fields_unchanged": true
+    },
+    {
+      "path": "gerichtsplugins/staatsanwaltschaft-praxis-einstieg/.claude-plugin/plugin.json",
+      "before_version": "445.28.0",
+      "after_version": "445.28.1",
+      "before_sha256": "cd6829a9ee43f4ebc003701cf94b1a4c2ca486d04087a70b8ba42aeaa3e45950",
+      "after_sha256": "96dd6a50ad086250f41a20e5fa3ad7b8a63064bc9f4e2419a21bccd49ab17b9a",
+      "other_fields_unchanged": true
+    }
+  ],
+  "retry": {
+    "command": "node scripts/validate-marketplace-import.mjs",
+    "returncode": 0,
+    "seconds": 5.78,
+    "log": "logs/checks/validate-marketplace-import.retry.log",
+    "output": "Marketplace-Importprüfung: 272 Plugins, 22710 Skills, 272 README-Dateien\nOK\n"
+  },
+  "returncode": 0
+}

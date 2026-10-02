@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf`](gesamt-pdf/strafrecht-urkundenfaelschung-au-pflegedienst-bremen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-strafrecht-urkundenfaelschung-au-pflegedienst-bremen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

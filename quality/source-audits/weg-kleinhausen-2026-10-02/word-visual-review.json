@@ -1,0 +1,263 @@
+{
+  "status": "pass",
+  "reviewer": "Codex agent kleinhausen_akte",
+  "method": "Alle 23 Seiten einzeln mit view_image geöffnet und visuell gelesen; letzte lokale Tabellenformatierungen, verkürzte Reinigungsüberschrift und klarer Abrechnungsstichtag in der abschließenden Fassung nachgerendert und erneut angesehen.",
+  "files": [
+    {
+      "file": "testakten/weg-kleinhausen/02_Stammdaten.docx",
+      "sha256": "36d58f1d0d07f185c0b1f3a8f8e2c832cdf0ddba2bbdcb7a63dfcc278eec10fc",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/02_Stammdaten/page-1.png",
+          "sha256": "47ea00c11101aeb2a0e50bf072b52a506ee7d0b29e509722b136ed34c1bebe6a",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/03_Gemeinschaftsordnung.docx",
+      "sha256": "2ffa030c6980e93e8d0823bf79d901aea82dfd342f795e1bcfa4f3a2c3967d46",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/03_Gemeinschaftsordnung/page-1.png",
+          "sha256": "5f7cfc714a2c27668902ad293109f2ad288878f05a4e41cfe2b5309a1f134283",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/04_Verwalterauftrag.docx",
+      "sha256": "f3ee12e209f79811bdbd209fb7331e436ba396120b59e2d0dfd429b1c419a74d",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/04_Verwalterauftrag/page-1.png",
+          "sha256": "d7e4e678a81f73f2f896a89c98152b5ceaac3e6d20b055c460126b3c5d5b9e86",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/05_Vorschussbeschluss_2025.docx",
+      "sha256": "e1486b0cd5d36711cca963091295422f86d9d78b91fd3c93293c2ee9244090cd",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/05_Vorschussbeschluss_2025/page-1.png",
+          "sha256": "020d6c1fe6bef427a04a2628fd1117543f95ccf12f6f7d48c6e3a8fb85bdbd23",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/07_Bank_Jahresuebersicht.docx",
+      "sha256": "88f992ddb71c816a70ac0abc2843f2e920f960d84a7faa9fbccb8b260a9401cd",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/07_Bank_Jahresuebersicht/page-1.png",
+          "sha256": "a141b90f7b831fa170cb86ce5e7695529c8b9ff88fc466be424b3ee47a3dce9e",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/08_Ruecklagenkonto.docx",
+      "sha256": "4698ec72a556afad70de215bd66b9ffaeb322ea645dd1923d23af5b2fd6ef06d",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/08_Ruecklagenkonto/page-1.png",
+          "sha256": "7a379fa4e220198d75a0342f5536478e87fee530977004ace2cd4514881ae14e",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/09_Wasser_Abwasser.docx",
+      "sha256": "973d84aa01b240f5e0111b60c3e6501095a96a5dadf18dfa2600a40044e5c47b",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/09_Wasser_Abwasser/page-1.png",
+          "sha256": "a0affb8456f75aebc7378dc3646ca819fda36a0f3d995acc8f1724ad75ea7dbc",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/10_Muellgebuehren.docx",
+      "sha256": "827f346b737a6e9d784748f7eb0753c404082f6812c52865d93c6ab13be2370a",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/10_Muellgebuehren/page-1.png",
+          "sha256": "97e7faba03843e864e0797cd4d82d866d0e39ccd8b082dc317bf38eb32f85eca",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/11_Gebaeudeversicherung.docx",
+      "sha256": "1907b03b031b48a6cf3c1934004c3424e583fd666129def40302ac5999e5e0a3",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/11_Gebaeudeversicherung/page-1.png",
+          "sha256": "ee975bc2fdde33b141e594ff6e4e87188a1a93f972a92dfd4ba173cc126034b6",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/12_Allgemeinstrom.docx",
+      "sha256": "dc1329a31376c4da004d66364cdc490d59769ab6bb17a688a8718c3aa13bb3ac",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/12_Allgemeinstrom/page-1.png",
+          "sha256": "3a3c94db7591bc3ae1e3db81bc1751f3bbb675d66209fdafd1fa4f87b59c6ce4",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/13_Treppenhausreinigung.docx",
+      "sha256": "058603cff15574faaa26ea6a5e9bfd6566a3dd5929ae9d9fd023426f0c484a15",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/13_Treppenhausreinigung/page-1.png",
+          "sha256": "c6e0de567a5a0d6822efaa7712962c6090e0c47c639d50cbd56f258d6b321d0f",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/14_Tuerreparatur.docx",
+      "sha256": "59708e7f780edd92bfd6e1b53f29f175db0f584ba6c8fcc32bf8bb05a71059d8",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/14_Tuerreparatur/page-1.png",
+          "sha256": "7f85b200ffa9ff3ec07c5a9ce0d8b98712c8f80d7c5f8604dbbfe001cec3e96d",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/15_Verwalterhonorar.docx",
+      "sha256": "cf035ca1c6e6068e5481f4c85659267bb0bacc405b0f1222dbecc29683a8857e",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/15_Verwalterhonorar/page-1.png",
+          "sha256": "5b6e03a536c9c9ef83883d337ea7ae8225e49bd14ccf97d867d22871a3fdd1b8",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/16_Bankentgelte.docx",
+      "sha256": "5f8c618ba86b3a342e30f6ec99a93e681600f2921e8165a7ae1fe04eb83de377",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/16_Bankentgelte/page-1.png",
+          "sha256": "98a01d9df190ba8b2f8e2a4621c6db7a6df9120877ae710452340f9ac067f09a",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/17_Gesamtabrechnung_Entwurf.docx",
+      "sha256": "9b23b24b8a1f8dbecd7e7b778e0b749d150d786744bc05cf8f59d5d02b31fdb2",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/17_Gesamtabrechnung_Entwurf/page-1.png",
+          "sha256": "0a7a5ce653fb17e0bad12924974d80d2cb6b9d7f14c6cb87042227eefa416ed9",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/18_Einzelabrechnung_WE01.docx",
+      "sha256": "6707cb8af08f7ac796cec6e63dcc7f3494dc7adbbcc6d21ff6e79412bd15e03d",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/18_Einzelabrechnung_WE01/page-1.png",
+          "sha256": "ff09e6a284fb6cd7b90aa4841c977c8a49b63deb891fdfddb0b6f8ff7d7e669c",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/19_Einzelabrechnung_WE02.docx",
+      "sha256": "3df849296cfc3837f755e39fdf3099b63ea324ffa22fc6d5ed40eb453e520567",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/19_Einzelabrechnung_WE02/page-1.png",
+          "sha256": "d81f6b1d4d0d1d1073313dea86b3f8987f7ae5d234e088d9a0b5e514effaaffb",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/20_Einzelabrechnung_WE03.docx",
+      "sha256": "9a5fadca9d451eeba69c32763a66f8e7cb937e71ab3de4b85d8249deaf940fa7",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/20_Einzelabrechnung_WE03/page-1.png",
+          "sha256": "49c0c0d5f8c34c4a3b5bd95f22289170d43d67879143ebe885abe7c7a257693e",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/21_Einzelabrechnung_WE04.docx",
+      "sha256": "24a86ec95f1829623113b6be1f6461e211640aabb6bf170ff01b8775dfb2e51b",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/21_Einzelabrechnung_WE04/page-1.png",
+          "sha256": "d1e3178699b264fa07e8d19778a1992292a093ac177aa13ebffc712c0a4eb8ee",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/22_Einzelabrechnung_WE05.docx",
+      "sha256": "2fb5284b7f28d083befe5bf098b2b3f4b7dfd099de97bcc345a72c87395e65fe",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/22_Einzelabrechnung_WE05/page-1.png",
+          "sha256": "e7cb0c47db165483c58680139b5fe39c7eb1dbbe1a2dd9e9381e4c181ce3c6ae",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/27_Besprechungsnotiz.docx",
+      "sha256": "fcbe1d367b9799210c5730328ffdfae8d83187f661e05b842d951ad5db954ac9",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/27_Besprechungsnotiz/page-1.png",
+          "sha256": "5fffd99a4543cadbc7b0bd3c7a1e4acbe079d19d9c618d87ab9b5905e2dd8ca4",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/28_Beschlussvorlage_Entwurf.docx",
+      "sha256": "829de85fca9fe4e33a1ccdca446c13c03150276b2c2900faf2ecd8f3c1909818",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/28_Beschlussvorlage_Entwurf/page-1.png",
+          "sha256": "53a58f336d2ff3a4fdf374d2a6d5ec5b01e30bd478a2f5d914ce9a93306213cd",
+          "status": "pass"
+        }
+      ]
+    },
+    {
+      "file": "testakten/weg-kleinhausen/31_Vermoegensbericht.docx",
+      "sha256": "ab25bf37abfce92dff319b52818c6446dcc0b20ad600867ccee6d1baad423b69",
+      "pages": [
+        {
+          "image": "qa/native/word/weg-kleinhausen/31_Vermoegensbericht/page-1.png",
+          "sha256": "69263e05f53a94ae44db226823c1d755284ecd9e1fbe13b3cc9e4a0c5ee78e1e",
+          "status": "pass"
+        }
+      ]
+    }
+  ],
+  "documents": 23,
+  "pages": 23,
+  "source_freeze_sha256": "86670654e300665a87b7431da1e04c8f8b3eaad19389e71717d8ea379fd1d454"
+}

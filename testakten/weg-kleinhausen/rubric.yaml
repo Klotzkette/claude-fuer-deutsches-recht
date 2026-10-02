@@ -1,0 +1,87 @@
+name: Kleinhausen
+plugin: weg-hausverwaltung
+stand: '2026-10-02'
+pruefstatus: Technische Bestandsprüfung und redaktionelle Aktenprüfung getrennt von einer noch offenen
+  Ergebnisbewertung.
+bewertungsgrundlage:
+  rohakte: weg-kleinhausen
+  hinweis: Diese Bewertungsdatei gehört nicht zu den Arbeitsunterlagen und wird aus den Exporten ausgeschlossen.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Die vollständige native Einstiegsakte ist vorhanden.
+  min: 31
+- id: format-eml
+  check_type: file_count
+  description: 6 Originaldateien im Format EML sind vorhanden.
+  glob: '*.eml'
+  min: 6
+- id: format-docx
+  check_type: file_count
+  description: 23 Originaldateien im Format DOCX sind vorhanden.
+  glob: '*.docx'
+  min: 23
+- id: format-xlsx
+  check_type: file_count
+  description: 1 Originaldateien im Format XLSX sind vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: format-txt
+  check_type: file_count
+  description: 1 Originaldateien im Format TXT sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/weg-kleinhausen_gesamt.pdf
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 06_Abrechnung_2025_Arbeitsdatei.xlsx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 12_Allgemeinstrom.docx
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 13_Treppenhausreinigung.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Die Aktenunterlage oder Lesefassung ist vorhanden.
+  path: 31_Vermoegensbericht.docx
+- id: fach-belegabgleich
+  check_type: human_review
+  description: Werden die beiden kleinen Übertragungsfehler anhand der Originalbelege erkannt und gezielt
+    berichtigt, ohne zusätzliche unbelegte Vorwürfe oder Fehler zu erfinden?
+  note: 'Offen: Kriterium für eine spätere tatsächliche Bearbeitung; technische Bestandsprüfung und redaktionelle
+    Aktenprüfung sind keine Bewertung einer Modellausgabe.'
+- id: fach-rechenkette
+  check_type: human_review
+  description: Werden die fünf gleichen Anteile, Sollvorschüsse und tatsächlichen Zahlungen nachvollziehbar
+    mit Jahreskosten, Betriebskonto und Rücklagenkonto verbunden?
+  note: 'Offen: Kriterium für eine spätere tatsächliche Bearbeitung; technische Bestandsprüfung und redaktionelle
+    Aktenprüfung sind keine Bewertung einer Modellausgabe.'
+- id: fach-beschluss
+  check_type: human_review
+  description: Wird ein klarer Beschluss über die Anpassungsbeträge nach § 28 Abs. 2 WEG vorbereitet und
+    vom Vermögensbericht sowie einer pauschalen Genehmigung aller Buchungen getrennt?
+  note: 'Offen: Kriterium für eine spätere tatsächliche Bearbeitung; technische Bestandsprüfung und redaktionelle
+    Aktenprüfung sind keine Bewertung einer Modellausgabe.'
+- id: fach-kommunikation
+  check_type: human_review
+  description: Liegen kurze, freundliche und vollständig ausformulierte Antworten auf die tatsächlichen
+    Eigentümerrückfragen sowie fünf passende Einzelabrechnungen vor?
+  note: 'Offen: Kriterium für eine spätere tatsächliche Bearbeitung; technische Bestandsprüfung und redaktionelle
+    Aktenprüfung sind keine Bewertung einer Modellausgabe.'
+- id: fach-einfachheit
+  check_type: human_review
+  description: Bleibt die Bearbeitung beim überschaubaren Verwaltungsauftrag, nutzt vorhandene Daten und
+    fragt nur nach neu aufgetretenen entscheidenden Unklarheiten?
+  note: 'Offen: Kriterium für eine spätere tatsächliche Bearbeitung; technische Bestandsprüfung und redaktionelle
+    Aktenprüfung sind keine Bewertung einer Modellausgabe.'

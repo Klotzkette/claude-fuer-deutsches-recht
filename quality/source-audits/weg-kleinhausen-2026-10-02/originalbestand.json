@@ -1,0 +1,162 @@
+{
+  "pruefstand": "2026-10-02",
+  "methodik": "Alle 31 Originale einschließlich 30 Textdateien und drei Tabellenblättern gelesen. Hashbestand erst nach dem vom Autor bestätigten Endstand der Dateien fixiert. Kein Modelltest.",
+  "anzahl": 31,
+  "originale": [
+    {
+      "datei": "01_Auftrag.eml",
+      "bytes": 1829,
+      "sha256": "fb19ff8314306fbfec249fd559bcec593dad10ec8ed7875ae8fff113345f3fdc"
+    },
+    {
+      "datei": "02_Stammdaten.docx",
+      "bytes": 38041,
+      "sha256": "36d58f1d0d07f185c0b1f3a8f8e2c832cdf0ddba2bbdcb7a63dfcc278eec10fc"
+    },
+    {
+      "datei": "03_Gemeinschaftsordnung.docx",
+      "bytes": 37905,
+      "sha256": "2ffa030c6980e93e8d0823bf79d901aea82dfd342f795e1bcfa4f3a2c3967d46"
+    },
+    {
+      "datei": "04_Verwalterauftrag.docx",
+      "bytes": 38164,
+      "sha256": "f3ee12e209f79811bdbd209fb7331e436ba396120b59e2d0dfd429b1c419a74d"
+    },
+    {
+      "datei": "05_Vorschussbeschluss_2025.docx",
+      "bytes": 37928,
+      "sha256": "e1486b0cd5d36711cca963091295422f86d9d78b91fd3c93293c2ee9244090cd"
+    },
+    {
+      "datei": "06_Abrechnung_2025_Arbeitsdatei.xlsx",
+      "bytes": 14584,
+      "sha256": "ba9874a966455c731f664983c2d6133145850f1dfb3253a775f017830ad4a621"
+    },
+    {
+      "datei": "07_Bank_Jahresuebersicht.docx",
+      "bytes": 38501,
+      "sha256": "88f992ddb71c816a70ac0abc2843f2e920f960d84a7faa9fbccb8b260a9401cd"
+    },
+    {
+      "datei": "08_Ruecklagenkonto.docx",
+      "bytes": 37733,
+      "sha256": "4698ec72a556afad70de215bd66b9ffaeb322ea645dd1923d23af5b2fd6ef06d"
+    },
+    {
+      "datei": "09_Wasser_Abwasser.docx",
+      "bytes": 37746,
+      "sha256": "973d84aa01b240f5e0111b60c3e6501095a96a5dadf18dfa2600a40044e5c47b"
+    },
+    {
+      "datei": "10_Muellgebuehren.docx",
+      "bytes": 37716,
+      "sha256": "827f346b737a6e9d784748f7eb0753c404082f6812c52865d93c6ab13be2370a"
+    },
+    {
+      "datei": "11_Gebaeudeversicherung.docx",
+      "bytes": 37650,
+      "sha256": "1907b03b031b48a6cf3c1934004c3424e583fd666129def40302ac5999e5e0a3"
+    },
+    {
+      "datei": "12_Allgemeinstrom.docx",
+      "bytes": 37812,
+      "sha256": "dc1329a31376c4da004d66364cdc490d59769ab6bb17a688a8718c3aa13bb3ac"
+    },
+    {
+      "datei": "13_Treppenhausreinigung.docx",
+      "bytes": 37826,
+      "sha256": "058603cff15574faaa26ea6a5e9bfd6566a3dd5929ae9d9fd023426f0c484a15"
+    },
+    {
+      "datei": "14_Tuerreparatur.docx",
+      "bytes": 37787,
+      "sha256": "59708e7f780edd92bfd6e1b53f29f175db0f584ba6c8fcc32bf8bb05a71059d8"
+    },
+    {
+      "datei": "15_Verwalterhonorar.docx",
+      "bytes": 37812,
+      "sha256": "cf035ca1c6e6068e5481f4c85659267bb0bacc405b0f1222dbecc29683a8857e"
+    },
+    {
+      "datei": "16_Bankentgelte.docx",
+      "bytes": 37670,
+      "sha256": "5f8c618ba86b3a342e30f6ec99a93e681600f2921e8165a7ae1fe04eb83de377"
+    },
+    {
+      "datei": "17_Gesamtabrechnung_Entwurf.docx",
+      "bytes": 38540,
+      "sha256": "9b23b24b8a1f8dbecd7e7b778e0b749d150d786744bc05cf8f59d5d02b31fdb2"
+    },
+    {
+      "datei": "18_Einzelabrechnung_WE01.docx",
+      "bytes": 38035,
+      "sha256": "6707cb8af08f7ac796cec6e63dcc7f3494dc7adbbcc6d21ff6e79412bd15e03d"
+    },
+    {
+      "datei": "19_Einzelabrechnung_WE02.docx",
+      "bytes": 38033,
+      "sha256": "3df849296cfc3837f755e39fdf3099b63ea324ffa22fc6d5ed40eb453e520567"
+    },
+    {
+      "datei": "20_Einzelabrechnung_WE03.docx",
+      "bytes": 38037,
+      "sha256": "9a5fadca9d451eeba69c32763a66f8e7cb937e71ab3de4b85d8249deaf940fa7"
+    },
+    {
+      "datei": "21_Einzelabrechnung_WE04.docx",
+      "bytes": 38037,
+      "sha256": "24a86ec95f1829623113b6be1f6461e211640aabb6bf170ff01b8775dfb2e51b"
+    },
+    {
+      "datei": "22_Einzelabrechnung_WE05.docx",
+      "bytes": 38033,
+      "sha256": "2fb5284b7f28d083befe5bf098b2b3f4b7dfd099de97bcc345a72c87395e65fe"
+    },
+    {
+      "datei": "23_Versand_Abrechnung.eml",
+      "bytes": 106455,
+      "sha256": "cf1ccaa420062fcbb227913962363c2fbb502fa4f2dedd8b6f28a23e798ba934"
+    },
+    {
+      "datei": "24_Rueckfrage_Marta.eml",
+      "bytes": 1119,
+      "sha256": "6d31adaab9b9b471504996c4acdfa5d1521b046eff89a3f2f848f10c92b3f3e4"
+    },
+    {
+      "datei": "25_Rueckfrage_Otto.eml",
+      "bytes": 1025,
+      "sha256": "efe9686434122e24d44a13086854f7fb3baaa819e8cb2ac7df4d9a114c263cba"
+    },
+    {
+      "datei": "26_Antwort_Verwaltung.eml",
+      "bytes": 947,
+      "sha256": "0101aa338fb4eb0dba763b1046c70c0ab6d6d2dd1717fd0febbaae36f08d584f"
+    },
+    {
+      "datei": "27_Besprechungsnotiz.docx",
+      "bytes": 38079,
+      "sha256": "fcbe1d367b9799210c5730328ffdfae8d83187f661e05b842d951ad5db954ac9"
+    },
+    {
+      "datei": "28_Beschlussvorlage_Entwurf.docx",
+      "bytes": 38054,
+      "sha256": "829de85fca9fe4e33a1ccdca446c13c03150276b2c2900faf2ecd8f3c1909818"
+    },
+    {
+      "datei": "29_Versand_Belege.eml",
+      "bytes": 105140,
+      "sha256": "266fe27620e55af79b7a2c832eea3ae78de7fefb946cad4e94f205219248d4af"
+    },
+    {
+      "datei": "30_Hausnotiz.txt",
+      "bytes": 570,
+      "sha256": "8d1b26539cc8adaedc1a79b5a1ac0132dd9abd9c96551e04bf17af6af109aabb"
+    },
+    {
+      "datei": "31_Vermoegensbericht.docx",
+      "bytes": 38009,
+      "sha256": "ab25bf37abfce92dff319b52818c6446dcc0b20ad600867ccee6d1baad423b69"
+    }
+  ]
+}

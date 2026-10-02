@@ -1,0 +1,250 @@
+{
+  "status": "pass",
+  "reviewer": "/root/kleinhausen_release",
+  "scope": "Unique-Seitenindizes 35 bis einschließlich 68 (nullbasiert). Alle 34 PNGs einzeln und vollständig mit view_image in Originalauflösung betrachtet, keine Kontaktbögen.",
+  "method": "Sichtprüfung von Rändern, Überlagerungen, Umbruch, Abschneidungen, Ersatzzeichen, Tabellen, Überschriften und Lesbarkeit; Sichtprüfung ist keine eigenständige juristische Vollprüfung.",
+  "source_index": "build-evidence/qa/case-unique-pages.json",
+  "source_index_sha256": "0b91893c6fa2c63ef4fba07b2c0e44e48f2824e08499660468f178f2b6ac19ef",
+  "page_count": 34,
+  "pages": [
+    {
+      "index": 35,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/29_Versand_Belege/page-1.png",
+      "png_sha256": "4374335f3a3411086132a46c81c87b1fc3604d3ffb72d5c11f7bcf2c07b68be4",
+      "status": "pass",
+      "befund": "E-Mail mit lesbarer Absender-/Empfängertabelle und vollständig sichtbarem Anschreiben; keine Überlagerung, Abschneidung oder Ersatzzeichen."
+    },
+    {
+      "index": 36,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/30_Hausnotiz/page-1.png",
+      "png_sha256": "05aa0c72961e77b1ad638a1109c7881437377756f8e3ba8f162a446f3c3a1a6a",
+      "status": "pass",
+      "befund": "Kurze Hausnotiz vollständig lesbar, mit ausreichenden Rändern und sauberer Fußzeile."
+    },
+    {
+      "index": 37,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/31_Vermoegensbericht/page-1.png",
+      "png_sha256": "6d1fe600d8840206e7d75dc8983c80d691f4e1a0ae95b26795de88f59dfd28ce",
+      "status": "pass",
+      "befund": "Einseitiger Vermögensbericht mit vollständig sichtbarem Briefkopf, Datum, Fließtext und Unterschrift; keine Abschneidung am unteren Rand."
+    },
+    {
+      "index": 38,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-01.png",
+      "png_sha256": "794af6ff4e5215b74d45461f1f4f035f333b34a01bb9228b66d182edc925001d",
+      "status": "pass",
+      "befund": "Hausnotiz im Gesamt-PDF unter klarer Abschnittsüberschrift, vollständig sichtbar und sauber umbrochen."
+    },
+    {
+      "index": 39,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-02.png",
+      "png_sha256": "cb5037879a2a3f7cb60af9f92aeca273f592bfcc16e39394634c8c63cba36b45",
+      "status": "pass",
+      "befund": "Auftrags-E-Mail mit langerem Fließtext und vollständigem Schluss; Tabelle und Seitenränder sauber."
+    },
+    {
+      "index": 40,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-03.png",
+      "png_sha256": "fe3612e1bd43bc736700d96390f44ab10942666cc20733cc288f68cc52cafdcc",
+      "status": "pass",
+      "befund": "Versand-E-Mail zur ersten Abrechnungsfassung vollständig lesbar; Kopf und Schluss ohne Überlagerung."
+    },
+    {
+      "index": 41,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-04.png",
+      "png_sha256": "9f0d766c04d8cde27b8b5089b75b7d2c6af3bb32ea59ce801240f6d09db1fc70",
+      "status": "pass",
+      "befund": "Rückfrage von Marta zu Strom und Rücklage vollständig lesbar; Absätze und Kopf unverdeckt."
+    },
+    {
+      "index": 42,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-05.png",
+      "png_sha256": "d6b868d23bd14bb483c6becd614b277604d60eb783ca43f430208ef4700e6190",
+      "status": "pass",
+      "befund": "Rückfrage von Otto zur Belegnummer vollständig lesbar; Zahlen und Empfängerangaben sauber."
+    },
+    {
+      "index": 43,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-06.png",
+      "png_sha256": "965998e4c11392a236ceea4843bd8457b5b4fe9f24ed2ffdee867f768d641cc0",
+      "status": "pass",
+      "befund": "Antwort der Verwaltung vollständig lesbar; Tabellenkopf, Fließtext und Schluss sauber."
+    },
+    {
+      "index": 44,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-07.png",
+      "png_sha256": "1fb117cd312edc6aaab441c27e46c44d8fce1acbc394936c94d8fd0d22812147",
+      "status": "pass",
+      "befund": "Belegversand im Gesamt-PDF vollständig lesbar; Kopf, Absätze und Schluss ohne Layoutfehler."
+    },
+    {
+      "index": 45,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-08.png",
+      "png_sha256": "ea0964de5311336406f42bd705518120cd2905992773d584f704bc94ad6ef4fd",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt zur berechneten Excel-Druckfassung; Dateiname vollständig sichtbar, Linie und Fußzeile sauber."
+    },
+    {
+      "index": 46,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-17.png",
+      "png_sha256": "6d62c2e338a4ebb321c53b09fb60f2cb095d341526a0dfae880a2fca2ac4c666",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 02_Stammdaten.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 47,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-19.png",
+      "png_sha256": "00531fcc9bf0a6f34c1c5fa1a37dd7f459787b93b24fe2896c5e76a0b4896f7c",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 03_Gemeinschaftsordnung.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 48,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-21.png",
+      "png_sha256": "0d55d2d3515788fb18804da4b70bb94f45dc1515d5fde407a2d4b83d6e06737c",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 04_Verwalterauftrag.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 49,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-23.png",
+      "png_sha256": "72df6908928e3058f7b7fea597e5481424c3b45f1576d7e7026dc3729242d751",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 05_Vorschussbeschluss_2025.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 50,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-25.png",
+      "png_sha256": "95a66dea2341b6127d5e6006f188f195d8ad8189429d51bd5954324561cbfa63",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 07_Bank_Jahresuebersicht.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 51,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-27.png",
+      "png_sha256": "d9bfcae9179221c2ab3721660ec79bcbbe9ab3d68927e2c28366e7c18ff1dd4e",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 08_Ruecklagenkonto.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 52,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-29.png",
+      "png_sha256": "f627a2cdcee201679b6fab6d5ff7f7fb14e60bba31b772e85c6e515d98cb0d87",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 09_Wasser_Abwasser.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 53,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-31.png",
+      "png_sha256": "63232b992e1d91067f4e5dd004739d26e2208434c777224670a0e555e067cc2c",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 10_Muellgebuehren.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 54,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-33.png",
+      "png_sha256": "8c1a6e91a684f5ca2fb0c570863f89a34017b0c94b6cb963e046c6295d100898",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 11_Gebaeudeversicherung.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 55,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-35.png",
+      "png_sha256": "fbee001f9610ba4d2a4bdda45191c544563a0d4acc1523a52981a22910f3acdd",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 12_Allgemeinstrom.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 56,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-37.png",
+      "png_sha256": "77534df946cd17a1ea02b7a689548f7a10c975a485deb8c4facb2c2ec38612ed",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 13_Treppenhausreinigung.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 57,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-39.png",
+      "png_sha256": "bfbe6b2a37b836c0360c46d2cd6e2b0b5f4da5e405520487730bb840d32799f9",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 14_Tuerreparatur.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 58,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-41.png",
+      "png_sha256": "7adf6d8572f24f1c95246a4619291063eca5205047278dfc74deb286a275383d",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 15_Verwalterhonorar.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 59,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-43.png",
+      "png_sha256": "31b570cb3f38158c7461e1614d52e8fe43dc0df1e4921da9ae262133889203fe",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 16_Bankentgelte.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 60,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-45.png",
+      "png_sha256": "3f48de9c3ef0cbd647c5db15890a7b9f4ed8a84c01ca00cd1b66aefdcaca4b2c",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 17_Gesamtabrechnung_Entwurf.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 61,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-47.png",
+      "png_sha256": "2398a5171d17a53b83e61f384e45094172fb1149766d291a892465e114e3e3b7",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 18_Einzelabrechnung_WE01.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 62,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-49.png",
+      "png_sha256": "dc8ab532d3ae678348185b5ef51477611069f59daba1df1123097b8a61092d12",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 19_Einzelabrechnung_WE02.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 63,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-51.png",
+      "png_sha256": "731ded73983a2e2673178574a82dbc37d8abb6a157065317dadf688b965b7740",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 20_Einzelabrechnung_WE03.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 64,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-53.png",
+      "png_sha256": "d9578ebec82a5df3dbf40acdf4f8880ccb948c2ecf2c740fbd7cd0ac2baa3ca0",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 21_Einzelabrechnung_WE04.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 65,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-55.png",
+      "png_sha256": "5bdd8acce261dd1df65640f7942151257b67b658ebfd169cbe8427203ba2d096",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 22_Einzelabrechnung_WE05.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 66,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-57.png",
+      "png_sha256": "8b1b77ceab6c195b57ed5bbad2a68223aba852912cab00727b0fe8454041140c",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 27_Besprechungsnotiz.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 67,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-59.png",
+      "png_sha256": "3dbe452fd79bca6ba0e68838f967204482305f69385d122ef92616a846e60a5f",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 28_Beschlussvorlage_Entwurf.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    },
+    {
+      "index": 68,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/gesamt/weg-kleinhausen_gesamt/page-61.png",
+      "png_sha256": "31c45f27ccf553c610b03b21de807aaae2dfdfa35b58c759f0e4b12781adc1b6",
+      "status": "pass",
+      "befund": "Klar bezeichnetes Trennblatt für 31_Vermoegensbericht.docx; Dateiname vollständig sichtbar, keine Abschneidung oder Überlagerung, saubere Linie und Fußzeile. Die freie Fläche entspricht dem Trennblattformat."
+    }
+  ],
+  "sources_modified": false
+}

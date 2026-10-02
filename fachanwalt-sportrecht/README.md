@@ -64,7 +64,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht](../testakten/doping-uvalkanat-handballerin-cas-lausanne/README.md) | [Gesamt-PDF](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.0/testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip) |
+| [Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht](../testakten/doping-uvalkanat-handballerin-cas-lausanne/README.md) | [Gesamt-PDF](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) | [`testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.28.1/testakte-doping-uvalkanat-handballerin-cas-lausanne-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

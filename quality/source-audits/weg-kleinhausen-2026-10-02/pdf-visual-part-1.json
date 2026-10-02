@@ -1,0 +1,255 @@
+{
+  "status": "pass",
+  "reviewer": "Codex agent kleinhausen_akte",
+  "method": "Alle 35 PNGs der Indizes 0 bis einschließlich 34 einzeln mit view_image in Originalauflösung vollständig gesichtet; keine Kontaktbögen und keine Änderungen an Originalen oder PDFs.",
+  "pages_reviewed": 35,
+  "index_start": 0,
+  "index_end": 34,
+  "pages": [
+    {
+      "index": 0,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/01_Auftrag/page-1.png",
+      "png_sha256": "7930d415f823fa0d15889d4b4472dc66aca1ceeb83c524387aef5969e35d085b",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 1,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/02_Stammdaten/page-1.png",
+      "png_sha256": "ba0394ff2e4bb3af72905882631ddecb1c53736e1dd56dafd65357e25e79c829",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 2,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/03_Gemeinschaftsordnung/page-1.png",
+      "png_sha256": "a21e004eabace335890a4c5f37ddd24aa51967526a3214cd9cbd6e1388448783",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 3,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/04_Verwalterauftrag/page-1.png",
+      "png_sha256": "40657a63513d67253282845585eb3daf0c09cc78bcfcc259ad698bfd922b4156",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 4,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/05_Vorschussbeschluss_2025/page-1.png",
+      "png_sha256": "1ee1a3f0c4f2a776153418bc0d2a74250d3e3f377698e8dfec9b007bb3702c59",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 5,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-1.png",
+      "png_sha256": "a7e61dcd2f59df5c23d125dfc82e85c596884da3149ba186c4060151d3e67c46",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 6,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-2.png",
+      "png_sha256": "7ed4aa8f86c9e8cb5c1252a0d7fc204264dc8e7b56d8e759221c2bc950274e42",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 7,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-3.png",
+      "png_sha256": "35347cc757e20c84d6af2fabad86d01370dea40ff2cf38a43311232302ec1456",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 8,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-4.png",
+      "png_sha256": "031204e79e16ffc515b7a23053f34a53d0a5992bb7b0d2c56cf0d2809ef0eee3",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 9,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-5.png",
+      "png_sha256": "5feb417ee34bf9767b91ab3a3e15e57092e6b9f8ac9b224268d81ff1bb8868b3",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 10,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-6.png",
+      "png_sha256": "dae2a9b7c111304586a6f18bd61abc4bc3149be36615c86233b8fb3cf96bf709",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 11,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-7.png",
+      "png_sha256": "bfeff131495d2550f89f8633c07fe7befa5c26aaa47c5371ff4393902fbc31f6",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 12,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/06_Abrechnung_2025_Arbeitsdatei/page-8.png",
+      "png_sha256": "e21a373bdaba12b6361af5e8529853305805009f94807203b9c8fc308c5747ae",
+      "status": "pass",
+      "befund": "Tabellenwerte, Spalten und Zeilen vollständig lesbar; keine abgeschnittenen Beträge, Fehlerzeichen oder Überlagerungen."
+    },
+    {
+      "index": 13,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/07_Bank_Jahresuebersicht/page-1.png",
+      "png_sha256": "b6c0afcf7ffc380a6730a36e6f9aa44e9d0a77818009c4efabbf472fb6dc9ab4",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 14,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/08_Ruecklagenkonto/page-1.png",
+      "png_sha256": "2d6a856052f1d5ce6ec362ae2603c2f6be3442ccefcf038045840c7c87b0a9f5",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 15,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/09_Wasser_Abwasser/page-1.png",
+      "png_sha256": "b235c8947eb76c21867ad71c6a6fe3a62df376348ae8161ae7f4d6daf493683b",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 16,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/10_Muellgebuehren/page-1.png",
+      "png_sha256": "a1397ff5e566e12b8c1a70f4511712355a5aabe935d404ee390d709d4e00aec2",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 17,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/11_Gebaeudeversicherung/page-1.png",
+      "png_sha256": "d0bb07f02a3ce0a4235e559b179c010646e8f97e0784c0161d6ff463a83ed697",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 18,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/12_Allgemeinstrom/page-1.png",
+      "png_sha256": "050acdf25e4b7e349fef99c830559af744b5ec4a57d216c028b06e20ede8bd2d",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 19,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/13_Treppenhausreinigung/page-1.png",
+      "png_sha256": "191e91ed4e7d839499e39e0b36f442d97cbd1503abe6eabc011f7fd37359b702",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 20,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/14_Tuerreparatur/page-1.png",
+      "png_sha256": "f1897c6609b6dae8315dce71c215299d973f497e6c3ed466094b36af3e74555a",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 21,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/15_Verwalterhonorar/page-1.png",
+      "png_sha256": "89cbb7314e23bf092de0de71044d1a7706ea24be1701a4f62ca12ec63886c12c",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 22,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/16_Bankentgelte/page-1.png",
+      "png_sha256": "2b5bd744c97031b47ae8c632a7b5505140296d50cf8debc500412b14b80ba16d",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 23,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/17_Gesamtabrechnung_Entwurf/page-1.png",
+      "png_sha256": "ece726e17400a3a29b17c9b408bcd7c67702fe3b3d81ad30833da87d28b973d4",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 24,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/18_Einzelabrechnung_WE01/page-1.png",
+      "png_sha256": "30f21160fd6008a11ba3f38610c2ebaf3c5c1adaf494e3eca653dc6a3bc36438",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 25,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/19_Einzelabrechnung_WE02/page-1.png",
+      "png_sha256": "d4fcbc8676fb7edc9aa7b946ee3bf11d074103ae072548eb25c63a0900751c50",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 26,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/20_Einzelabrechnung_WE03/page-1.png",
+      "png_sha256": "c28a7e07c0a119393b8e024df923b61873d2ae5bf09668f52781b08de063182d",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 27,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/21_Einzelabrechnung_WE04/page-1.png",
+      "png_sha256": "802598f44249157dadb9f982256f2e5dc489f5ef896df47552867c53a8987d38",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 28,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/22_Einzelabrechnung_WE05/page-1.png",
+      "png_sha256": "0043bd223c9e9e47d94ee96cf3dffafa613faa3a6d2a41e1dc23dd5b45e89cf6",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 29,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/23_Versand_Abrechnung/page-1.png",
+      "png_sha256": "8a0f6c2cbe89683572c6f33e12258c9122e8a4f2b03433628c729222deb346c9",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 30,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/24_Rueckfrage_Marta/page-1.png",
+      "png_sha256": "19fb4f6175510c5473c3e64754312690257aed92741e6f892fdd3c1d40f3dbac",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 31,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/25_Rueckfrage_Otto/page-1.png",
+      "png_sha256": "325c59f02a0e31eb59bea9ebc04535fc07c960bebf18396b2bfe0ff12fe94f7b",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 32,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/26_Antwort_Verwaltung/page-1.png",
+      "png_sha256": "5166bc2451b97771873f774b17ae491837a6a3e28ed301a421adb93a8cbeecd4",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 33,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/27_Besprechungsnotiz/page-1.png",
+      "png_sha256": "66d1d2de3a85fab1346d579bf75aeba25947f5d5c579ed5327806fc9cd3ac04a",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    },
+    {
+      "index": 34,
+      "png": "build-evidence/qa/case-pdfs/weg-kleinhausen/einzeln/28_Beschlussvorlage_Entwurf/page-1.png",
+      "png_sha256": "a89323ea9a93994c311ab112e5cb871c6bff81e6bf2b9e1c1c1ac710d09b0036",
+      "status": "pass",
+      "befund": "Vollständige Seite bei Originalauflösung geöffnet; Text, Umlaute, Überschrift und Seitenabschluss sauber, keine Überlagerung oder abgeschnittenen Inhalte."
+    }
+  ]
+}
