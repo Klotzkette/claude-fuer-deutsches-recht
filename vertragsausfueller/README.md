@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Akte Vertragsausfüller - BSAG Kiosk Huckelriede](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/README.md) | [Gesamt-PDF](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) | [`testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) | [`testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip) |
+| [Akte Vertragsausfüller - BSAG Kiosk Huckelriede](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/README.md) | [Gesamt-PDF](../testakten/vertragsausfueller-bsag-kiosk-huckelriede/gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) | [`testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) | [`testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-vertragsausfueller-bsag-kiosk-huckelriede-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

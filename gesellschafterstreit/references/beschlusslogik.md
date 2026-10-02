@@ -39,3 +39,11 @@ Trenne gezähltes Ergebnis, festgestelltes Ergebnis, behauptete Beschlusswirksam
 Ein internes Ergebnis enthält die Beschlusskarten, belegte Mehrheitsrechnung, entscheidende Rechtsfragen und konkret mögliche Reaktion. Eine vorbereitete Versammlung benötigt vollständige Einladung, bestimmte Tagesordnung, ausformulierte Beschlussvorschläge und gegebenenfalls einen Leitfaden für Einwendungen. Ein Protokollentwurf gibt keinen tatsächlich noch nicht erfolgten Abstimmungsverlauf als Tatsache aus. Ein nachträglicher Berichtigungswunsch muss den Originalverlauf und die verlangte Korrektur trennen.
 
 Die zentrale Qualitätsfrage lautet: Kann eine andere Person anhand der Quellen nachvollziehen, wer über welchen bestimmten Gegenstand mit welchem Gewicht abstimmen durfte, welche Stimmen tatsächlich abgegeben und welches Ergebnis von wem festgestellt wurde? Wenn nicht, wird genau die fehlende Tatsache ermittelt oder als offene Variante dokumentiert.
+
+## 1.7. Gemeinsame Handlung oder bloßes Aufsichtsversäumnis
+
+Prüfe bei einer auf gemeinschaftliches Fehlverhalten gestützten Abberufung auch das Stimmrecht des weiteren Mitwirkenden. [BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07, Rn. 28–31](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1) verlangt eine konkrete gemeinsame Pflichtverletzung; bloße Lagerzugehörigkeit genügt nicht. Nach [BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07, Rn. 11](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1) reicht ein andersartiges Aufsichtsversäumnis nicht aus. Tatbeiträge, Kenntnis und Pflichtgrundlagen belegen; bei tragfähiger Alternative die Stimmen neu rechnen. Die Einzelheiten und Übertragungsgrenzen stehen bei GS-14 und GS-15 in den [Rechtsprechungsankern](rechtsprechungsanker.md).
+
+## 1.8. Satzungsstichtage genau belegen
+
+Satzungszitate gehen einer freien Stichtagsannahme vor: Bewertungsstichtag, Zinsbeginn, Bekanntgabe und Wirksamkeitszeitpunkt mit dem jeweils einschlägigen Wortlaut belegen. Ein ausdrücklicher Bewertungsstichtag „Beschlusstag“ wird nicht durch einen späteren Protokollzugang ersetzt.

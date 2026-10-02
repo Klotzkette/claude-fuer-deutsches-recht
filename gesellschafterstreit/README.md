@@ -56,26 +56,38 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 
 ## 1.4. Downloads
 
-> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
->
-> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
-
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
 | Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`gesellschafterstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschafterstreit.zip) |
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`gesellschafterstreit-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.md) · [`gesellschafterstreit-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`gesellschafterstreit-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.md) · [`gesellschafterstreit-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.txt) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.md" download>gesellschafterstreit-hauptproblem.md</a> · [`gesellschafterstreit-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.txt) |
-| Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
+| Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 274 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+
+<!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
+
+## 1.5. Zugeordnete Testakten
+
+Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP mit einzelnen PDFs erreichbar.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
+| --- | --- | --- | --- |
+| [1. Zink und Zunder Gesellschafter im Streit](../testakten/gesellschafterstreit-zink-und-zunder/README.md) | [Gesamt-PDF](../testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) | [`testakte-gesellschafterstreit-zink-und-zunder.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder.zip) | [`testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
+
+[Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 Ein Plugin für konkrete Streitigkeiten in GmbH und UG: Beschlüsse und Mehrheiten, Kapitalerhöhung und Bezugsrechte, Geschäftsführung, Wettbewerb, Darlehen, Einziehung, Rechtsschutz und geordneter Exit. **Zehn Fachskills und ein zusätzlicher Hauptskill** führen von den Belegen zu vollständig formulierten Briefen, Beschlussvorschlägen, gerichtlichen Entwürfen oder Vergleichen.
 
 <!-- decimal-anchor --> <a id="zusammenhängend-arbeiten"></a>
 
-## 1.5. Zusammenhängend arbeiten
+## 1.6. Zusammenhängend arbeiten
 
 Der Hauptskill klärt Rolle, Auftrag, Beschlussstand und zeitkritische Maßnahmen. Er liest die vorhandenen Unterlagen, fragt gezielt nach entscheidenden Lücken und führt die Antworten im bestehenden Ergebnis fort. Jeder Tagesordnungspunkt erhält eine eigene Stimmrechts- und Mehrheitsprüfung. Organamt, Anstellungsvertrag, Mitgliedschaft und Listenlegitimation werden getrennt behandelt.
 
@@ -83,11 +95,11 @@ Die Werkstatt vertieft den vollständigen Ablauf. Mini- und Hauptproblem-Prompt 
 
 <!-- decimal-anchor --> <a id="drei-eigenständige-prompts"></a>
 
-## 1.6. Drei eigenständige Prompts
+## 1.7. Drei eigenständige Prompts
 
 | Einstieg | Inhalt | Direkter Download |
 | --- | --- | --- |
-| Werkstatt | Vertiefter Ablauf mit konkreten Streitfragen, Dokumentenarbeit, Verhandlungs- und Rechtsschutzwegen sowie 13 verifizierten BGH-Ankern. | [Werkstatt als MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.txt) |
+| Werkstatt | Vertiefter Ablauf mit konkreten Streitfragen, Dokumentenarbeit, Verhandlungs- und Rechtsschutzwegen sowie 15 verifizierten BGH-Ankern. | [Werkstatt als MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-werkstatt.txt) |
 | Mini-Prompt | Kompakter Einstieg mit Rollen-, Beschluss-, Kapital- und Anspruchsprüfung bis zum konkreten Produkt. | [Mini als MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-schnellstart.txt) |
 | Hauptproblem | Zusammenhängende Bearbeitung verbundener Konflikte einschließlich geeigneter Beschlüsse, Schreiben und Vergleichsregelungen. | [Hauptproblem als MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.md) · [identisches TXT](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gesellschafterstreit/gesellschafterstreit-hauptproblem.txt) |
 
@@ -95,7 +107,7 @@ Die Werkstatt vertieft den vollständigen Ablauf. Mini- und Hauptproblem-Prompt 
 
 <!-- decimal-anchor --> <a id="die-elf-skills"></a>
 
-## 1.7. Die elf Skills
+## 1.8. Die elf Skills
 
 | Skill | Ergebnis | Direkter Skilldownload |
 | --- | --- | --- |
@@ -113,7 +125,7 @@ Die Werkstatt vertieft den vollständigen Ablauf. Mini- und Hauptproblem-Prompt 
 
 <!-- decimal-anchor --> <a id="testakte-zink-und-zunder"></a>
 
-## 1.8. Testakte Zink und Zunder
+## 1.9. Testakte Zink und Zunder
 
 Drei Gesellschafter einer Berliner Metallbau-GmbH streiten über Finanzierung, gegenseitige Organ- und Mitgliedschaftsmaßnahmen, Darlehen, ein Nebenprojekt und einen möglichen Verkauf. Die Akte enthält **38 Originalunterlagen**, darunter Word-Dokumente, E-Mails mit echten Anlagen, Chat-/Zugriffstexte und zwei Excel-Arbeitsmappen. Ein Protokoll steht neben widersprechenden persönlichen Erklärungen und noch offenen Belegen.
 
@@ -125,13 +137,13 @@ Drei Gesellschafter einer Berliner Metallbau-GmbH streiten über Finanzierung, g
 
 | Testakte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| Zink und Zunder | [Gesamt-PDF öffnen](../testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) | [Original-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-gesellschafterstreit-zink-und-zunder.zip) | [Einzel-PDF-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
+| Zink und Zunder | [Gesamt-PDF öffnen](../testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) | [Original-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder.zip) | [Einzel-PDF-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="rechtsquellen-und-tragende-abgrenzungen"></a>
 
-## 1.9. Rechtsquellen und tragende Abgrenzungen
+## 1.10. Rechtsquellen und tragende Abgrenzungen
 
-Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) wurden am 02.10.2026 anhand amtlicher Originale geprüft. Enthalten sind **13 BGH-Entscheidungen**, darunter das Urteil vom **05.05.2026 – Az. II ZR 2/25** zur eigenen Ladung jeder Gesellschaftergesellschaft und zur besonderen Konstellation eines beherrschten Vertragspartners. Jeder Anker nennt Fundstelle, Anwendung und Übertragungsgrenze; die Sammlung beansprucht keine lückenlose Erfassung sämtlicher Entscheidungen.
+Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) wurden am 02.10.2026 anhand amtlicher Originale geprüft. Enthalten sind **15 BGH-Entscheidungen**, darunter das Urteil vom **05.05.2026 – Az. II ZR 2/25** zur eigenen Ladung jeder Gesellschaftergesellschaft und zur besonderen Konstellation eines beherrschten Vertragspartners. Jeder Anker nennt Fundstelle, Anwendung und Übertragungsgrenze; die Sammlung beansprucht keine lückenlose Erfassung sämtlicher Entscheidungen.
 
 Die [Beschlusslogik](references/beschlusslogik.md) trennt Abstimmung, Mehrheitsnenner und Feststellung. Die [Verfahrenswahl](references/verfahrenswahl.md) führt zum konkreten außergerichtlichen oder gerichtlichen Produkt. [Finanzierung und Wettbewerb](references/finanzierung-und-wettbewerb.md) verbindet Kapitalmaßnahmen, Darlehen, Vertretung und geschütztes Wissen, ohne deren Voraussetzungen gleichzusetzen.
 
@@ -142,7 +154,7 @@ Alle Endprodukte werden vollständig ausformuliert. Mandantenkommunikation verwe
 
 <!-- decimal-anchor --> <a id="orientierung-nach-arbeitslogik"></a>
 
-## 1.10. Orientierung nach Arbeitslogik
+## 1.11. Orientierung nach Arbeitslogik
 
 Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
 
@@ -159,7 +171,7 @@ English: Skills are grouped by typical work phase. Clicking a skill downloads it
 
 <!-- decimal-anchor --> <a id="alle-skills-im-überblick"></a>
 
-## 1.11. Alle Skills im Überblick
+## 1.12. Alle Skills im Überblick
 
 Automatisch generierte Komplett-Liste aller 11 Skills in diesem Plugin. Jeder Skillname und der Downloadlink laden den unveränderten Inhalt der zugehörigen `SKILL.md` als Markdown-Datei. Der eindeutige Dateiname enthält Plugin und Skill; Beschreibungen stammen aus dem jeweiligen `description`-Feld.
 

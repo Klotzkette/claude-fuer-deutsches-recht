@@ -2,7 +2,7 @@
 
 ## 1. Auftrag und Reichweite
 
-**Prüfdatum: 02.10.2026.** Geprüft wurden die gezielt ausgewählten Rechtsanker des neuen Plugins `gesellschafterstreit` für GmbH und UG. Das Ergebnis umfasst 13 amtliche BGH-Entscheidungen und 77 themenbezogen geprüfte Gesetzesnormen. Für die Entscheidungen wurden amtliche Volltexte beschafft, Metadaten abgeglichen und die unten benannten tragenden Abschnitte samt erforderlichem Kontext gelesen. Nicht behauptet wird eine vollständige Kommentierung aller Entscheidungen, eine umfassende Steuerrechtsprüfung oder die vollständige Erfassung aller bis zum Stichtag veröffentlichten Rechtsprechung. Dieser Bericht bescheinigt auch keinen vollständigen Test der Skills, Prompts, Fallakten oder einer Modellausgabe.
+**Prüfdatum: 02.10.2026.** Geprüft wurden die gezielt ausgewählten Rechtsanker des neuen Plugins `gesellschafterstreit` für GmbH und UG. Das Ergebnis umfasst 15 amtliche BGH-Entscheidungen und 77 themenbezogen geprüfte Gesetzesnormen. Für die Entscheidungen wurden amtliche Volltexte beschafft, Metadaten abgeglichen und die unten benannten tragenden Abschnitte samt erforderlichem Kontext gelesen. Nicht behauptet wird eine vollständige Kommentierung aller Entscheidungen, eine umfassende Steuerrechtsprüfung oder die vollständige Erfassung aller bis zum Stichtag veröffentlichten Rechtsprechung. Dieser Bericht bescheinigt auch keinen vollständigen Test der Skills, Prompts, Fallakten oder einer Modellausgabe.
 
 Gesondert gesucht wurden aktuelle Entscheidungen aus 2025 und 2026 zu GmbH-Streit, Beschlussmängeln, Ladung, Vertretung, Einziehung, Treuepflicht, Kapitalerhöhung und Gesellschafterdarlehen. Gesicherte aktuelle Treffer sind II ZR 2/25 (2026), IX ZR 189/24 (2025) und II ZR 77/24 (2025). Für andere Teilfragen bleiben die konkret passenden älteren Entscheidungen maßgeblich; aus dem Ausbleiben eines gesicherten neuen Treffers wird keine Aussage abgeleitet, dass es keinerlei neuere Rechtsprechung gebe.
 
@@ -31,6 +31,8 @@ Alle nachfolgenden Links zeigen auf tatsächlich abgerufene amtliche BGH-Dateien
 | GS-11 | BGH, Urt. v. 12.04.2016 – [Az. II ZR 275/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1) | 13–17 | `4241bd47e2e997a6ec8c0ddc215502a87778d4e6b2d5cec6b0212eb87c941f23` |
 | GS-12 | BGH, Urt. v. 29.04.2014 – [Az. II ZR 216/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1) | 11–19 | `84254f5f4b00a3ee82132bad6e6552e28921dae6e08baf4cbe66de2aa9212e34` |
 | GS-13 | BGH, Urt. v. 18.04.2005 – [Az. II ZR 151/03](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1) | gedruckte S. 7–11, Gründe II.1.a–b und II.3; keine Rn. im Original | `69824a4629f6e639a631259804c16bfeaf8cc52da8d0ed231d5eea7e5cd22b9e` |
+| GS-14 | BGH, Urt. v. 27.04.2009 – [Az. II ZR 167/07](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1) | Rn. 28–31 samt Kontext | `427c5934c2761c01fcaedb040af16aba62adaae68c4294d15b41e484bb2a6c93` |
+| GS-15 | BGH, Beschl. v. 04.05.2009 – [Az. II ZR 166/07](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1) | Rn. 11 samt Kontext | `82f1c032f2bf5a7c0b0807b3872e0601a68269c003cf37a933f9d18513889b72` |
 
 ## 4. Konkrete Korrekturen und Übertragungsgrenzen
 
@@ -45,6 +47,8 @@ Alle nachfolgenden Links zeigen auf tatsächlich abgerufene amtliche BGH-Dateien
 - **2016, II ZR 275/14:** Enge Zustimmungspflicht aus Treuepflicht ist weder genereller Stimmrechtsentzug noch automatische Pflicht zur Finanzierung.
 - **2014, II ZR 216/13:** Kein universeller zulässiger Abfindungsabschlag aus der Entscheidung ableitbar.
 - **2005, II ZR 151/03:** Original ohne Randnummern, deshalb gedruckte Seiten/Originalabschnitt. Die damalige Regel über nur einen neuen Geschäftsanteil wurde nicht in den heutigen § 55 GmbHG übertragen. Monatsfrist ist für GmbH-Verfahren nicht unbesehen gesetzliche Universalfrist.
+
+- **2009, II ZR 167/07 und II ZR 166/07:** Konkrete gemeinschaftliche Pflichtverletzung kann einen weiteren Beteiligten bei der Abberufung des Geschäftsführers vom Stimmrecht ausschließen. Andersartige bloße Aufsichtsversäumnisse genügen nicht. Die beiden amtlichen PDFs wurden am 02.10.2026 ergänzend direkt geladen und in den genannten Abschnitten gelesen; ein blockierter Webabruf wurde durch erfolgreichen amtlichen PDF-Abruf ersetzt.
 
 ## 5. Geprüfte Normbesonderheiten
 
@@ -69,4 +73,4 @@ Das [Normenregister](normen.json) enthält für jede Quelle den konkreten Prüfg
 
 ## 7. Abschluss und verbleibende Grenzen
 
-Die 13 aufgenommenen Entscheidungen sind in den angegebenen Abschnitten primärquellenbasiert verifiziert. Die zugehörigen Sachverhaltsgrenzen und eine Normenkarte stehen im Plugin. Zitierweise wurde aus der zentralen Repository-Referenz unverändert übernommen. Änderungen an Gesetz, Rechtsprechung oder am konkreten Sachverhalt erfordern erneuten Abgleich. Dieser Quellenbericht allein trifft keine Aussage zur juristischen Vollständigkeit später erzeugter Klageentwürfe oder zur Erfolgswahrscheinlichkeit des Übungsfalls.
+Die 15 aufgenommenen Entscheidungen sind in den angegebenen Abschnitten primärquellenbasiert verifiziert. Die zugehörigen Sachverhaltsgrenzen und eine Normenkarte stehen im Plugin. Die zentralen Zitierregeln wurden unverändert übernommen. Die fachliche Anwendung auf die beiden Stimmverbotsentscheidungen sowie auf Satzungsstichtage steht in der gesonderten Referenz zur Beschlusslogik. Änderungen an Gesetz, Rechtsprechung oder am konkreten Sachverhalt erfordern erneuten Abgleich. Dieser Quellenbericht allein trifft keine Aussage zur juristischen Vollständigkeit später erzeugter Klageentwürfe oder zur Erfolgswahrscheinlichkeit des Übungsfalls.

@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf`](gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berlin-kita-sonnenkringel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-berlin-kita-sonnenkringel.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berlin-kita-sonnenkringel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-berlin-kita-sonnenkringel-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-berlin-kita-sonnenkringel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-berlin-kita-sonnenkringel.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-berlin-kita-sonnenkringel-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-berlin-kita-sonnenkringel-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -70,4 +70,4 @@ Alle Personen, Unternehmen, Schulen und die Universität an der Spree Berlin in 
 
 | Gesamt-PDF | Akten-ZIP | Einzel-PDF-ZIP |
 | --- | --- | --- |
-| [Kita Sonnenkringel und der frühe Arbeitsbeginn](gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-berlin-kita-sonnenkringel.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.0/testakte-berlin-kita-sonnenkringel-einzelpdfs.zip) |
+| [Kita Sonnenkringel und der frühe Arbeitsbeginn](gesamt-pdf/berlin-kita-sonnenkringel_gesamt.pdf) | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-berlin-kita-sonnenkringel.zip) | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.1/testakte-berlin-kita-sonnenkringel-einzelpdfs.zip) |

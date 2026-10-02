@@ -94,6 +94,8 @@ Gewöhnliche Abberufung und ordentliche Kündigung sind nicht pauschal mit einer
 
 Prüfe Vertretung und Zurechnung. Ein persönlich betroffener Geschäftsführer kann als Vertreter einer Gesellschaftergesellschaft für bestimmte Anspruchsverfolgungsbeschlüsse einem Stimmverbot unterliegen. Daraus folgt kein Ausschluss dieser Gesellschaft bei sämtlichen TOP. Verwandtschaft, wirtschaftliche Nähe oder gemeinsames Abstimmen sind keine universellen Ersatzmerkmale. Mehrere Beteiligte erhalten nur dann dieselbe Ausschlussfolge, wenn die konkrete Fallgruppe und Tatsachen dies tragen.
 
+Bei gemeinschaftlicher Pflichtverletzung prüfe auch das Stimmrecht jedes Mitwirkenden bei der Abberufung des anderen Geschäftsführers. Stelle konkrete Handlung, Kenntnis und verletzte Pflicht gegenüber; ein bloß andersartiges Aufsichtsversäumnis genügt nicht. Nutze GS-14 und GS-15 in Abschnitt 1.29. Würdige eine belegte Mitwirkung nicht nur als entlastenden oder belastenden Umstand, sondern rechne auch ihre mögliche eigenständige Stimmverbotsfolge für genau diesen TOP.
+
 Bei ernsthaft streitigen Voraussetzungen rechne offen mit Varianten. Variante eins berücksichtigt eine Stimme, Variante zwei schließt sie auf der konkret bezeichneten Grundlage aus. Nenne die Tatsachenfrage, Beweisquelle und rechtliche Bewertung, die das Ergebnis entscheidet. Die Alternative ist keine beliebige Ausweichlösung, sondern macht den relevanten Streit transparent. Ein Rechner darf dabei nicht unbemerkt den Nenner ändern.
 
 ## 1.10. Ergebnisfeststellung und Beschlusswirkung
@@ -208,7 +210,7 @@ Prüfe Einberufung, TOP, Stimmen, Mehrheiten und Feststellung gerade für diese 
 
 ## 1.21. Abfindung, Kapitaldeckung und Zeitpunkt der Wirkung
 
-Unterscheide Wirksamkeit der Maßnahme, Entstehen des Abfindungsanspruchs, Bewertungsstichtag, Fälligkeit und tatsächliche Zahlung. Eine Regel „Ausscheiden erst bei Geld“ darf ebenso wenig allgemein behauptet werden wie „Abfindung ist immer unerheblich“. Der konkrete rechtliche Weg und die einschlägige Rechtsprechung entscheiden. Die Details gehören in die Bewertung, bevor ein neues Stimmrechtsbild verwendet wird.
+Unterscheide Wirksamkeit der Maßnahme, Entstehen des Abfindungsanspruchs, Bewertungsstichtag, Fälligkeit und tatsächliche Zahlung. Lies die ausdrücklich festgelegte Bezugsgröße der Satzung zuerst: Bestimmt sie als Bewertungsstichtag den Beschlusstag und als Zinsbeginn diesen Bewertungsstichtag, sind Bekanntgabe oder späterer Protokollzugang nicht ohne gesonderte Grundlage an dessen Stelle zu setzen. Halte den konkret errechneten Tag fest; markiere keine Unsicherheit, die der eindeutige Text bereits auflöst. Eine Regel „Ausscheiden erst bei Geld“ darf ebenso wenig allgemein behauptet werden wie „Abfindung ist immer unerheblich“. Der konkrete rechtliche Weg und die einschlägige Rechtsprechung entscheiden. Die Details gehören in die Bewertung, bevor ein neues Stimmrechtsbild verwendet wird.
 
 Bei einer Einziehung kann eine bereits bei Beschlussfassung feststehende Unmöglichkeit, die Abfindung aus freiem Vermögen zu zahlen, eine andere Folge haben als ein späterer Vermögensverfall. Nicht realisierte stille Reserven sind nicht beliebig als bereits freie Deckung anzusetzen. Prüfe die konkreten Vermögenswerte, Verpflichtungen und Bewertungsgrundlagen. Eine unverbindliche Aussage „wir finden einen Käufer“ ist keine vorhandene Deckung.
 
@@ -405,7 +407,23 @@ Die Kennungen dienen nur der internen Übersicht. Im fertigen Arbeitsergebnis we
 - **Anwendung:** Abfindungsanspruch, Bewertungsregel, etwaige Begrenzung, nachgewiesene Schadensersatzansprüche und Aufrechnung getrennt prüfen. Bei Vorwürfen keine automatische Nullbewertung einsetzen.
 - **Grenze:** Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.
 
-### 1.29.13. GS-13 – Bezugsrecht und zügige Beschlussanfechtung
+### 1.29.13. GS-15 – Andersartige Aufsichtsversäumnisse begründen keine gemeinsame Stimmsperre
+
+**BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1), **Rn. 11**.
+
+- **Aussage:** Ein Stimmverbot wegen gemeinschaftlicher Pflichtverletzung greift nicht allein deshalb, weil einer vorsätzlichen Kompetenzüberschreitung des Geschäftsführers ein andersartiges Aufsichtsversäumnis eines anderen Gesellschafters gegenübersteht. Gemeinsames Fehlverhalten ist konkret darzulegen.
+- **Anwendung:** Aktive Mitwirkung an derselben Verletzung von wirtschaftlicher Zustimmung, bloßer Nähe, nachträglicher Billigung und unzureichender Überwachung unterscheiden. Die nachgewiesenen Beiträge und die jeweils verletzten Pflichten bestimmen die Fallgruppe.
+- **Grenze:** Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.
+
+### 1.29.14. GS-14 – Gemeinsame Pflichtverletzung und Abberufungsstimme
+
+**BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1), **Rn. 28–31**.
+
+- **Aussage:** Bei der Abberufung eines Geschäftsführers aus wichtigem Grund kann auch ein weiterer Gesellschafter vom Stimmrecht ausgeschlossen sein, wenn er dieselbe maßgebliche Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat. Die gemeinsame Handlung darf nicht nur für die Schwere des Vorwurfs, sondern muss auch für die Abstimmungsberechtigung geprüft werden.
+- **Anwendung:** Für jeden Beteiligten Tatbeitrag, Kenntnis, Pflicht und Beleg erfassen. Bei einer gemeinsam veranlassten pflichtwidrigen Zahlung die Stimme des Mitwirkenden gesondert prüfen und die tragfähigen Varianten neu rechnen; bloße Empfängerstellung genügt nicht.
+- **Grenze:** Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.
+
+### 1.29.15. GS-13 – Bezugsrecht und zügige Beschlussanfechtung
 
 **BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1), **gedruckte S. 7–11, Gründe II.1.a–b und II.3**. Der amtliche Originaltext enthält keine Randnummern; keine nachträglichen Datenbank-Randnummern erfinden.
 

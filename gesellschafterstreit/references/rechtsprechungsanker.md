@@ -2,11 +2,11 @@
 
 ## 1. Geltung und Arbeitsweise
 
-Gezielte Primärquellenprüfung am **02.10.2026**. Schwerpunkt ist die GmbH einschließlich UG (haftungsbeschränkt). Die nachfolgenden 13 Entscheidungen wurden anhand der amtlichen BGH-Volltexte in den angegebenen tragenden Abschnitten geprüft. Die neueste aufgenommene Entscheidung stammt vom 05.05.2026; der spätere Berichtigungsbeschluss ist berücksichtigt. Das ist keine Garantie, sämtliche bis zum Stichtag veröffentlichten Entscheidungen erfasst zu haben. Vor einer konkreten Prozesshandlung die einschlägige Quelle und zwischenzeitliche Entwicklung erneut prüfen.
+Gezielte Primärquellenprüfung am **02.10.2026**. Schwerpunkt ist die GmbH einschließlich UG (haftungsbeschränkt). Die nachfolgenden 15 Entscheidungen wurden anhand der amtlichen BGH-Volltexte in den angegebenen tragenden Abschnitten geprüft. Die neueste aufgenommene Entscheidung stammt vom 05.05.2026; der spätere Berichtigungsbeschluss ist berücksichtigt. Das ist keine Garantie, sämtliche bis zum Stichtag veröffentlichten Entscheidungen erfasst zu haben. Vor einer konkreten Prozesshandlung die einschlägige Quelle und zwischenzeitliche Entwicklung erneut prüfen.
 
 Jede Aussage benötigt den konkreten Sachverhalt, die tatsächlich geltende Satzung, den Beschlusstext und gegebenenfalls das Protokoll mit Beschlussfeststellung. **Norm, Satzungsregel, gerichtliche Aussage und eigene Übertragung getrennt ausweisen.** Eine streitige Pflichtverletzung ist keine feststehende Tatsache. Ein Stimmverbot wird für jeden einzelnen Tagesordnungspunkt geprüft. Ein Anteilssatz ist weder automatisch der richtige Mehrheitsnenner noch automatisch eine Sperrminorität.
 
-Die Kennungen GS-01 bis GS-13 dienen der internen Zuordnung; im Arbeitsprodukt vollständig zitieren. Es gelten die [Zitierregeln](zitierweise.md). Quellenzugriff, geprüfte Abschnitte und Grenzen sind im [Quellenbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/source-audits/gesellschafterstreit-2026-10-02/quellenbericht.md) dokumentiert.
+Die Kennungen GS-01 bis GS-15 dienen der internen Zuordnung; im Arbeitsprodukt vollständig zitieren. Es gelten die [Zitierregeln](zitierweise.md). Quellenzugriff, geprüfte Abschnitte und Grenzen sind im [Quellenbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/source-audits/gesellschafterstreit-2026-10-02/quellenbericht.md) dokumentiert.
 
 ## 2. Entscheidungen, chronologisch absteigend
 
@@ -106,7 +106,23 @@ Die Kennungen GS-01 bis GS-13 dienen der internen Zuordnung; im Arbeitsprodukt v
 - **Anwendung:** Abfindungsanspruch, Bewertungsregel, etwaige Begrenzung, nachgewiesene Schadensersatzansprüche und Aufrechnung getrennt prüfen. Bei Vorwürfen keine automatische Nullbewertung einsetzen.
 - **Grenze:** Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.
 
-### 2.13 GS-13 – Bezugsrecht und zügige Beschlussanfechtung
+### 2.13 GS-15 – Andersartige Aufsichtsversäumnisse begründen keine gemeinsame Stimmsperre
+
+**BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1), **Rn. 11**.
+
+- **Aussage:** Ein Stimmverbot wegen gemeinschaftlicher Pflichtverletzung greift nicht allein deshalb, weil einer vorsätzlichen Kompetenzüberschreitung des Geschäftsführers ein andersartiges Aufsichtsversäumnis eines anderen Gesellschafters gegenübersteht. Gemeinsames Fehlverhalten ist konkret darzulegen.
+- **Anwendung:** Aktive Mitwirkung an derselben Verletzung von wirtschaftlicher Zustimmung, bloßer Nähe, nachträglicher Billigung und unzureichender Überwachung unterscheiden. Die nachgewiesenen Beiträge und die jeweils verletzten Pflichten bestimmen die Fallgruppe.
+- **Grenze:** Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.
+
+### 2.14 GS-14 – Gemeinsame Pflichtverletzung und Abberufungsstimme
+
+**BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1), **Rn. 28–31**.
+
+- **Aussage:** Bei der Abberufung eines Geschäftsführers aus wichtigem Grund kann auch ein weiterer Gesellschafter vom Stimmrecht ausgeschlossen sein, wenn er dieselbe maßgebliche Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat. Die gemeinsame Handlung darf nicht nur für die Schwere des Vorwurfs, sondern muss auch für die Abstimmungsberechtigung geprüft werden.
+- **Anwendung:** Für jeden Beteiligten Tatbeitrag, Kenntnis, Pflicht und Beleg erfassen. Bei einer gemeinsam veranlassten pflichtwidrigen Zahlung die Stimme des Mitwirkenden gesondert prüfen und die tragfähigen Varianten neu rechnen; bloße Empfängerstellung genügt nicht.
+- **Grenze:** Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.
+
+### 2.15 GS-13 – Bezugsrecht und zügige Beschlussanfechtung
 
 **BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1), **gedruckte S. 7–11, Gründe II.1.a–b und II.3**. Der amtliche Originaltext enthält keine Randnummern; keine nachträglichen Datenbank-Randnummern erfinden.
 
