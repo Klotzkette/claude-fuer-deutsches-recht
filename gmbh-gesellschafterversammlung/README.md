@@ -10,7 +10,7 @@
 
 Gesellschafterversammlungen für GmbH und UG: fünf Fachskills plus Hauptproblem-Skill für Unterlagen, Einladung, Nachträge, Stimmen, Leitfaden, Protokoll und Vollzug. Mit eigenständiger Werkstatt, Mini-Prompt und exaktem Stimmenprüfer.
 
-Dieses Plugin gehört zum Marketplace mit 273 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 274 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -65,7 +65,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`gmbh-gesellschafterversammlung-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=gmbh-gesellschafterversammlung/gmbh-gesellschafterversammlung-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 273 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 274 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Von der Satzung und den bereits vorhandenen Unterlagen zu einer vollständigen Einladung, zu Nachträgen und zu einem Leitfaden, der nach der Sitzung zum tatsächlichen Protokoll wird. Entwickelt aus dem bereitgestellten „Prompt des Monats: Der Gesellschafterversammlungs-Vorbereiter“ von Tom Braegelmann; eigenständig ausgearbeitet und um amtlich geprüfte Quellen ergänzt. Die Ausgangsdatei wird nicht mitveröffentlicht.

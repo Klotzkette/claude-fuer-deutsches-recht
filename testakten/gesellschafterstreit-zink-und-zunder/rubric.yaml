@@ -1,0 +1,96 @@
+name: Zink und Zunder Gesellschafter im Streit
+plugin: gesellschafterstreit
+stand: '2026-10-02'
+pruefstatus: Technische Bestandsprüfung und redaktionelle Aktenprüfung getrennt von einer noch offenen
+  Ergebnisbewertung.
+bewertungsgrundlage:
+  rohakte: gesellschafterstreit-zink-und-zunder
+  hinweis: Diese Bewertungsdatei gehört nicht zu den Arbeitsunterlagen und wird aus den Exporten ausgeschlossen.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Der vollständige native Gesellschaftsvorgang ist vorhanden.
+  min: 38
+- id: format-docx
+  check_type: file_count
+  description: 19 Originaldateien im Format DOCX sind vorhanden.
+  glob: '*.docx'
+  min: 19
+- id: format-eml
+  check_type: file_count
+  description: 15 Originaldateien im Format EML sind vorhanden.
+  glob: '*.eml'
+  min: 15
+- id: format-txt
+  check_type: file_count
+  description: 2 Originaldateien im Format TXT sind vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: format-xlsx
+  check_type: file_count
+  description: 2 Originaldateien im Format XLSX sind vorhanden.
+  glob: '*.xlsx'
+  min: 2
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: 01_Mandatsauftrag_Romy.eml
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: 03_Satzung_Arbeitsabschrift_2023.docx
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: 27_Protokoll_25_September.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: 37_Finanzuebersicht.xlsx
+- id: kernbeleg-7
+  check_type: file_exists
+  description: Die zentrale Unterlage oder Lesefassung ist vorhanden.
+  path: 38_Stimmen_und_Kapital.xlsx
+- id: fach-rolle
+  check_type: human_review
+  description: Werden persönlicher Auftrag, gesellschaftliche Organrolle und mögliche weitere Aufträge
+    getrennt bestimmt?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'
+- id: fach-beschluesse
+  check_type: human_review
+  description: Werden die einzelnen Beschlussgegenstände mit Satzung, Zugängen, Stimmen und Einwänden
+    nachvollziehbar geprüft?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'
+- id: fach-belege
+  check_type: human_review
+  description: Werden Tatsachenbehauptungen den wirklichen Unterlagen zugeordnet und fehlende oder widersprechende
+    Belege erkennbar behandelt?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'
+- id: fach-fristen
+  check_type: human_review
+  description: Werden Fristen, Form und mögliche Schutzmaßnahmen anhand der tatsächlichen Zugänge ermittelt?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'
+- id: fach-finanzen
+  check_type: human_review
+  description: Werden die verschiedenen Finanzstichtage, Darlehensrollen und offenen Einordnungsfragen
+    anhand ihrer Quellen bearbeitet?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'
+- id: fach-ausgabe
+  check_type: human_review
+  description: Liegen vollständige, adressatengerechte Dokumententwürfe mit passenden verifizierten Rechtsquellen
+    und klar bezeichneten offenen Tatsachen vor?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung; technische Bestandsprüfung und Aktenredaktion
+    bewerten keine Modellausgabe.'

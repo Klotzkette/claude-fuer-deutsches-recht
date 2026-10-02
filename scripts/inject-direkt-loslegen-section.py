@@ -302,6 +302,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "gesellschafterstreit": "Bearbeite den konkreten Gesellschafterstreit aus Mandatsrolle, Satzung und Originalbelegen; rechne Stimmrecht und Mehrheit für jeden Beschluss, sichere Fristen und formuliere die beauftragten Anträge, Briefe und Vergleichsregelungen vollständig",
     "playbook-pruefer": "Erstelle den vollständigen Prüfbericht zum aktuellen Vertrag und seinen Anlagen anhand des freigegebenen Playbooks; bewerte jede Regel mit Originalfundstelle, zähle rote Linien wörtlich und formuliere die beauftragten Änderungen aus",
     "berliner-schulrecht-eltern-schueler": "das beauftragte Elternschreiben, den Schulplatzantrag oder den Rechtsbehelfsentwurf aus Bescheid und Belegen; trenne Kita, Grundschule und Sekundarstufe, prüfe Schuljahr, Zuständigkeit und Frist und frage nur entscheidende fehlende Angaben nach",
     "berliner-hochschulrecht-professoren": "die beauftragte Umsetzung einer Berufungszusage, Deputatsberechnung oder Stellungnahme zum Forschungseingriff; kläre Status, konkrete Hochschulregel und anstehenden Termin aus den Belegen und führe Rückantworten im selben Entwurf fort",
@@ -595,7 +596,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if plugin_name in {"vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg", "mietchecker", "eigenbedarfskuendigungschecker"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
-    elif plugin_name in {"transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent", "berliner-schulrecht-eltern-schueler", "berliner-hochschulrecht-professoren"}:
+    elif plugin_name in {"gesellschafterstreit", "transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent", "berliner-schulrecht-eltern-schueler", "berliner-hochschulrecht-professoren"}:
         skill_note = "Alle elf Skills sind unmittelbar enthalten: zehn Fachskills und der Hauptproblem-Skill. Werkstatt, Mini und Hauptproblem-Prompt sind getrennte eigenständige Downloads. Beim Einzel-Download eines Skills müssen die verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All eleven skills are directly included: ten task workflows and one main problem workflow. Workshop, mini and focus prompts are separate standalone downloads. A downloaded individual skill also needs its linked references."
     elif plugin_name == "sektorenvergabe-workflow":

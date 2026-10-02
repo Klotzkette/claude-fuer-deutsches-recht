@@ -1,0 +1,36 @@
+{
+  "name": "gesellschafterstreit",
+  "version": "445.30.0",
+  "description": "Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschafterstreit",
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "gesellschafterstreit",
+    "gmbh",
+    "stimmverbot",
+    "kapitalerhoehung",
+    "geschaeftsfuehrer",
+    "einziehung"
+  ],
+  "skills": "./skills/",
+  "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "interface": {
+    "displayName": "Gesellschafterstreit",
+    "shortDescription": "Streit in GmbH und UG gezielt bearbeiten.",
+    "longDescription": "Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie diese streitigen Gesellschafterbeschlüsse aus Sicht unserer Mandantin.",
+      "Bearbeiten Sie Kapitalerhöhung, Stimmverbote und die wechselseitigen Ausschlussanträge."
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 # gebrauchsmusterrecht
 
-**51 Skills** · Stand `v445.29.0`
+**51 Skills** · Stand `v445.30.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gebrauchsmusterrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

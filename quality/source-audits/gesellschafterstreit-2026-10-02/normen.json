@@ -1,0 +1,786 @@
+{
+  "stand": "2026-10-02",
+  "pruefung": "Gezielte Primärquellenprüfung für Gesellschafterstreit (GmbH/UG), keine vollständige Kommentierung oder Steuerrechtsprüfung.",
+  "fassungshinweis": "Gesetze-im-Internet-Fassung am Abrufdatum. Zeitlicher Anwendungsbereich ist bei älteren Vorgängen und Änderungen im konkreten Mandat gesondert zu prüfen.",
+  "quellen": [
+    {
+      "id": "GmbHG-5a",
+      "fundstelle": "§ 5a GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__5a.html",
+      "pruefabschnitt": "UG-Sonderregeln, insbesondere Rücklage und Krisenversammlung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "c97a6ef6a573dbff22a467c09d6051b74f322b0628622e19ad586e9597142edb"
+    },
+    {
+      "id": "GmbHG-15",
+      "fundstelle": "§ 15 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "pruefabschnitt": "Abtretung und Verpflichtung: notarielle Form; Zustimmungsvorbehalt",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "600e149ccdea3af563b2a33de5148222445e149f5acbf6836b8e863d1c692b11"
+    },
+    {
+      "id": "GmbHG-16",
+      "fundstelle": "§ 16 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__16.html",
+      "pruefabschnitt": "Abs. 1 Listenlegitimation; Abs. 3 gutgläubiger Erwerb und Widerspruch",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "7c96efb2d28498465d6effcb4f86735a41f7cfca42acdadc50241f78ad8e337d"
+    },
+    {
+      "id": "GmbHG-26",
+      "fundstelle": "§ 26 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__26.html",
+      "pruefabschnitt": "Satzungsmäßige Nachschusspflicht erforderlich",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "55c2f9f89c5333e27743009d2f4e2f56ba4963028218d14c0cb2d4134a9f9f22"
+    },
+    {
+      "id": "GmbHG-27",
+      "fundstelle": "§ 27 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__27.html",
+      "pruefabschnitt": "Unbeschränkte Nachschusspflicht und gesetzliche Folgen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "101427006732004b3ba63d3f5a5c38b1d78424ad6bf8f6f5373367847d11ddb2"
+    },
+    {
+      "id": "GmbHG-28",
+      "fundstelle": "§ 28 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__28.html",
+      "pruefabschnitt": "Beschränkte Nachschusspflicht",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "05deffcab86c8490141eefa2c646d4280ead650d65ae12810b7ea8d0dca28120"
+    },
+    {
+      "id": "GmbHG-29",
+      "fundstelle": "§ 29 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__29.html",
+      "pruefabschnitt": "Ergebnisverwendung und Verteilungsmaßstab",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "719cb3db7800d3562b68f8291345dce73ab79945046f132be59598f0c88f86da"
+    },
+    {
+      "id": "GmbHG-30",
+      "fundstelle": "§ 30 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__30.html",
+      "pruefabschnitt": "Abs. 1 Satz 1 Kapitalbindung; Satz 2 Ausnahmen; Satz 3 Darlehensrückgewähr",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "f5f316c156eaf12ae39bfabb6718a39d93837b62e9914a8f2705ee5b3a0cc6d5"
+    },
+    {
+      "id": "GmbHG-31",
+      "fundstelle": "§ 31 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__31.html",
+      "pruefabschnitt": "Erstattung verbotener Rückzahlungen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "aa13375b5c0b73cbad82f14af8836ac0a84245990f404da32780ae0cc6f8ed27"
+    },
+    {
+      "id": "GmbHG-33",
+      "fundstelle": "§ 33 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__33.html",
+      "pruefabschnitt": "Erwerb eigener Geschäftsanteile",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "ff6f1a37a348539a3745b14d2919f6ff303f54efa0edf2a3cae949e0f122cff4"
+    },
+    {
+      "id": "GmbHG-34",
+      "fundstelle": "§ 34 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__34.html",
+      "pruefabschnitt": "Satzungsgrundlage, Zustimmung und Kapitalerhalt bei Einziehung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "de00044448a54ee52c4f606b41c3679c68ac7566bb911be01822f3b1cde8adf5"
+    },
+    {
+      "id": "GmbHG-35",
+      "fundstelle": "§ 35 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__35.html",
+      "pruefabschnitt": "Abs. 2 Gesamtvertretung bei mehreren Geschäftsführern",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "3bd286965373645962c54e3be8111646bdb8d0f4e6ef04143f698259c0c8185f"
+    },
+    {
+      "id": "GmbHG-37",
+      "fundstelle": "§ 37 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__37.html",
+      "pruefabschnitt": "Interne Bindung und Außenwirkung unterscheiden",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "ea7cccbb57513520f8daec477747e6e131adcc0740c7dec1c15b17c2dd340a4c"
+    },
+    {
+      "id": "GmbHG-38",
+      "fundstelle": "§ 38 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__38.html",
+      "pruefabschnitt": "Organabberufung und vertragliche Ansprüche getrennt",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "2a8891d0c798a7192dbff7bc05f905268777279457bc963d31010a3f19edb383"
+    },
+    {
+      "id": "GmbHG-39",
+      "fundstelle": "§ 39 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__39.html",
+      "pruefabschnitt": "Registeranmeldung von Geschäftsführeränderungen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "8f861fb28c1c7f3576f61534d512d0711a5e2eccef8fdf1684a5220d6f42700b"
+    },
+    {
+      "id": "GmbHG-40",
+      "fundstelle": "§ 40 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__40.html",
+      "pruefabschnitt": "Gesellschafterliste; notarielle Mitwirkung nach Abs. 2",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "3ca5ad1647e840248aaaf1991b4d32293db7e4a47e3c2e3c971d5a9482a536f2"
+    },
+    {
+      "id": "GmbHG-43",
+      "fundstelle": "§ 43 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__43.html",
+      "pruefabschnitt": "Organpflichten und Gesellschaftsansprüche",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "45885838834dde8ad44093b1b40227481404145e1a80d154951cda4ff6a5d71d"
+    },
+    {
+      "id": "GmbHG-45",
+      "fundstelle": "§ 45 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__45.html",
+      "pruefabschnitt": "Satzungsautonomie und gesetzliche Auffangregeln",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "e8a31b064f5298a100403418b4d8ae871a8e4b2accabe169be03635a1e42b336"
+    },
+    {
+      "id": "GmbHG-46",
+      "fundstelle": "§ 46 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__46.html",
+      "pruefabschnitt": "Nr. 4 Einziehung; Nr. 5 Bestellung/Abberufung; Nr. 8 Anspruchsverfolgung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "35fffd8c2f7f86bebe754ffe77f7049fc1376842b8aded8217dcd57b759e915e"
+    },
+    {
+      "id": "GmbHG-47",
+      "fundstelle": "§ 47 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__47.html",
+      "pruefabschnitt": "Mehrheit abgegebener Stimmen, Textformvollmacht, TOP-bezogene Stimmverbote",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "03fdeea2aba8ae2d129c01e5fa1a8165885032dc01c243051de52f3a285ed874"
+    },
+    {
+      "id": "GmbHG-48",
+      "fundstelle": "§ 48 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__48.html",
+      "pruefabschnitt": "Versammlungsformen; im aktuellen Abs. 2 Textform für Stimmabgabe",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "5bda3cd8347c3f9e2518e0b46a62aa50debae7de9c9150c934dbee467a66502d"
+    },
+    {
+      "id": "GmbHG-49",
+      "fundstelle": "§ 49 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__49.html",
+      "pruefabschnitt": "Einberufung und Verlust der Hälfte des Stammkapitals",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "44e26fe4cffc5708ad88034d52879f8010ecadf55d3a7679ceb606983ce9157a"
+    },
+    {
+      "id": "GmbHG-50",
+      "fundstelle": "§ 50 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__50.html",
+      "pruefabschnitt": "Minderheitenverlangen, Tagesordnung und Voraussetzungen eigener Einberufung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "f590e7b80088b2162742769361d7f9c24a0d3e2cff079986ff183e653457f7f1"
+    },
+    {
+      "id": "GmbHG-51",
+      "fundstelle": "§ 51 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__51.html",
+      "pruefabschnitt": "Gesetzliche Einladungs- und Ankündigungsregeln, Satzungsabweichung gesondert",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "44cdd69c5c2de382dbb04ca4961c30a3bc3f9063f46602fc98df50d0bb529c93"
+    },
+    {
+      "id": "GmbHG-51a",
+      "fundstelle": "§ 51a GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__51a.html",
+      "pruefabschnitt": "Informationsrecht und gesetzliche Verweigerungsgründe",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "fa4497255207198d99a8bb07d637b612a04d79a4bd6d4715c32bed7409790187"
+    },
+    {
+      "id": "GmbHG-51b",
+      "fundstelle": "§ 51b GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__51b.html",
+      "pruefabschnitt": "Nur Verweisung auf § 132 Abs. 1, 3 und 4 AktG; nicht dessen Abs. 2",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "0c5a00b9c189a077b77f9cf444cefdc823cf233f70145c8f8fc8437566b6eacc"
+    },
+    {
+      "id": "GmbHG-52",
+      "fundstelle": "§ 52 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__52.html",
+      "pruefabschnitt": "Fakultativer Aufsichtsrat; nicht jeden Beirat damit gleichsetzen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "d2ae89403e81aa834a23faac9a7f3b1d18e3ac97b4ad333117297319699d5b62"
+    },
+    {
+      "id": "GmbHG-53",
+      "fundstelle": "§ 53 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "pruefabschnitt": "Abs. 2 Dreiviertelmehrheit, Abs. 3 Beurkundung, Abs. 4 Zustimmung Mehrbelasteter",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "c4c9b5281fac92237c25ae45fda48a0a247bfb62a39280c875fe64555107a82b"
+    },
+    {
+      "id": "GmbHG-54",
+      "fundstelle": "§ 54 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__54.html",
+      "pruefabschnitt": "Abs. 3 Wirksamkeit der Satzungsänderung durch Eintragung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "cbcd3ca1544324c4f0756ee3fadd846d79910b723209315815ba5d7f880e0ee1"
+    },
+    {
+      "id": "GmbHG-55",
+      "fundstelle": "§ 55 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__55.html",
+      "pruefabschnitt": "Form der Übernahme, Zulassung und weitere Anteile; keine historische Ein-Anteil-Regel übernehmen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "fb2094839d7a593794f7aa8030fd68b62c7a7e5c35538d3f4c25f492e8ad84da"
+    },
+    {
+      "id": "GmbHG-55a",
+      "fundstelle": "§ 55a GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__55a.html",
+      "pruefabschnitt": "Genehmigtes Kapital und gesetzliche Grenzen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "e729776c101e30fb373256cd830ff7e6ac87baea675f3dabade080979d7e6c9d"
+    },
+    {
+      "id": "GmbHG-56",
+      "fundstelle": "§ 56 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__56.html",
+      "pruefabschnitt": "Sacheinlagen und Festlegung im Erhöhungsbeschluss",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "e6fe832bfe03288e76929b90c9860c65bd633ddad857f6b8493f34d10a154830"
+    },
+    {
+      "id": "GmbHG-57",
+      "fundstelle": "§ 57 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__57.html",
+      "pruefabschnitt": "Anmeldung der Kapitalerhöhung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "a9d518aa55499544562172273fc8701a7d9a6597af426c47b83872fa392d89be"
+    },
+    {
+      "id": "GmbHG-58a",
+      "fundstelle": "§ 58a GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__58a.html",
+      "pruefabschnitt": "Vereinfachte Kapitalherabsetzung, gekoppelte Erhöhung und Registerfrist",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "970fe4a33ddaddee2a8e7bc8755a569d33399695a39e36f1774c76001a2c55ff"
+    },
+    {
+      "id": "GmbHG-61",
+      "fundstelle": "§ 61 GmbHG",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__61.html",
+      "pruefabschnitt": "Gerichtliche Auflösung; Mindestbeteiligung und wichtige Gründe",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "ee95ed3af2d3ba0867deafda60b50c9b770c476da56338f4c4004bef83285aba"
+    },
+    {
+      "id": "BGB-133",
+      "fundstelle": "§ 133 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__133.html",
+      "pruefabschnitt": "Auslegung der Erklärung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "c83ccd505ed2e7eb851b9444f1954e157a8850f8fa4a9e921cf6e231e24ba128"
+    },
+    {
+      "id": "BGB-157",
+      "fundstelle": "§ 157 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__157.html",
+      "pruefabschnitt": "Vertragsauslegung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "4fbb6e1ec5ad3fafbebbe60b70a7132d929f884ef8ef20ced6594aeeb66b4600"
+    },
+    {
+      "id": "BGB-181",
+      "fundstelle": "§ 181 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+      "pruefabschnitt": "Insichgeschäft und Mehrfachvertretung; Ausnahmen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "1e2ad09bab25550ef6d65583036e65d56f794f6d05c9971ea8734e4a7dc92ce1"
+    },
+    {
+      "id": "BGB-242",
+      "fundstelle": "§ 242 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__242.html",
+      "pruefabschnitt": "Treu und Glauben",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "7266216454228c0d5730af7b13306d640ca4b1e484dcf2f2493282c686d8da10"
+    },
+    {
+      "id": "BGB-488",
+      "fundstelle": "§ 488 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__488.html",
+      "pruefabschnitt": "Darlehensverpflichtungen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "63aaa153d75fc0f9287327335d42ee6c1a9952ab10a27361bbcdd314dcbc9992"
+    },
+    {
+      "id": "BGB-626",
+      "fundstelle": "§ 626 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
+      "pruefabschnitt": "Wichtiger Grund, Interessenabwägung und Zweiwochenfrist",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "756230bb8c390f271caa4a6775e8828577db430f7d3f973fd6660055ea2d5016"
+    },
+    {
+      "id": "ZPO-256",
+      "fundstelle": "§ 256 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__256.html",
+      "pruefabschnitt": "Feststellungsinteresse",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "aabeff80e0113b4c56a34fdf1796b24ce42bb8598aa3c3bc5763c4a0e042c5fb"
+    },
+    {
+      "id": "ZPO-253",
+      "fundstelle": "§ 253 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__253.html",
+      "pruefabschnitt": "Bestimmtheit von Parteien, Anspruchsgegenstand und Antrag",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-294",
+      "fundstelle": "§ 294 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__294.html",
+      "pruefabschnitt": "Glaubhaftmachung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-935",
+      "fundstelle": "§ 935 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__935.html",
+      "pruefabschnitt": "Sicherung bei drohender Vereitelung/Erschwerung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-940",
+      "fundstelle": "§ 940 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__940.html",
+      "pruefabschnitt": "Einstweilige Regelung eines streitigen Rechtsverhältnisses",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-936",
+      "fundstelle": "§ 936 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__936.html",
+      "pruefabschnitt": "Entsprechende Anwendung der Arrestvorschriften",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-929",
+      "fundstelle": "§ 929 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
+      "pruefabschnitt": "Abs. 2 gesonderte Vollziehungsfrist",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "ZPO-945",
+      "fundstelle": "§ 945 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__945.html",
+      "pruefabschnitt": "Schadensersatz bei ungerechtfertigter einstweiliger Maßnahme",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "91b0372685d7f96031816160153242fceddaca1ef66360a9ed2ce49f63547e6d"
+    },
+    {
+      "id": "InsO-15a",
+      "fundstelle": "§ 15a InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "pruefabschnitt": "Antragspflicht unverzüglich, Höchstfristen und Führungslosigkeit",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "5bea1fdb44d7f22dc33524130ebf8ceed43923bf4fc8e36cf7718262f34c6ac6"
+    },
+    {
+      "id": "InsO-15b",
+      "fundstelle": "§ 15b InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+      "pruefabschnitt": "Zahlungsverbote und Ersatz nach Insolvenzreife; Abs. 5 verursachende Zahlungen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "eaf77757ffd2bf752106df47ec424e4e4a336456e401e49c09048ec640252200"
+    },
+    {
+      "id": "InsO-17",
+      "fundstelle": "§ 17 InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+      "pruefabschnitt": "Zahlungsunfähigkeit",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "de31f0953b616e2d1e9231a7171882e81237e2b1c54e306c98763ad1dbe98425"
+    },
+    {
+      "id": "InsO-19",
+      "fundstelle": "§ 19 InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+      "pruefabschnitt": "Überschuldung und zwölfmonatiger Prognosezeitraum",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "4267129ec4b97ba5e9891bba428407f992349ac2d355d8dd4477257110e24452"
+    },
+    {
+      "id": "InsO-39",
+      "fundstelle": "§ 39 InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "pruefabschnitt": "Darlehensnachrang und Privilegien, Abs. 4 und 5; Förderbankausnahme Abs. 1 Satz 2",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "07a2de8f6fdb0ce27c0f6224dba96ec35c2ebd1e6be5b4c6e8eb13847deb2ac1"
+    },
+    {
+      "id": "InsO-135",
+      "fundstelle": "§ 135 InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__135.html",
+      "pruefabschnitt": "Abs. 1 Nr. 1 Sicherheit/Nr. 2 Rückzahlung; Abs. 4 Privilegien",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "01926bae5b57ee83d8c08d9453c6d322b182fd24f1719d2a6ac6f6d9580b6c0b"
+    },
+    {
+      "id": "InsO-143",
+      "fundstelle": "§ 143 InsO",
+      "url": "https://www.gesetze-im-internet.de/inso/__143.html",
+      "pruefabschnitt": "Rechtsfolgen der Anfechtung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "99803709cdb90ebc167651fbb9b6b41bfa0c7faf0307b0d71cd53e818d3025e7"
+    },
+    {
+      "id": "HGB-110",
+      "fundstelle": "§ 110 HGB",
+      "url": "https://www.gesetze-im-internet.de/hgb/__110.html",
+      "pruefabschnitt": "Personenhandelsgesellschaftliches Beschlussmängelrecht, nicht unmittelbar GmbH",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "5caacfafeac68091dfc5823fa18bfc260ebd882eb09dceb9cdad79a2c8339667"
+    },
+    {
+      "id": "HGB-112",
+      "fundstelle": "§ 112 HGB",
+      "url": "https://www.gesetze-im-internet.de/hgb/__112.html",
+      "pruefabschnitt": "Dreimonatsfrist nicht als allgemeine GmbH-Frist übernehmen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "a25c876f07e7de6101875278a021d417bfbe1d12d07c9a0339c3a4c4da02b993"
+    },
+    {
+      "id": "GeschGehG-2",
+      "fundstelle": "§ 2 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+      "pruefabschnitt": "Nr. 1 Geschäftsgeheimnis einschließlich angemessener Maßnahmen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "bc73c74861893709246a68f13a75ca06de32b799d0d26f7d39adef96f126c73d"
+    },
+    {
+      "id": "GeschGehG-3",
+      "fundstelle": "§ 3 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+      "pruefabschnitt": "Erlaubte Handlungen einschließlich Grenzen des Reverse Engineering",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "418a18b1b23ff195ac2bdfb14ca66c664f70b5ff4985af257733ed5f57eaf097"
+    },
+    {
+      "id": "GeschGehG-4",
+      "fundstelle": "§ 4 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__4.html",
+      "pruefabschnitt": "Verbotene Erlangung/Nutzung/Offenlegung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "919422def5dcc1c4164f312ef7431a3ac259eae70f1e5bfb525d0879a2d31c4d"
+    },
+    {
+      "id": "GeschGehG-5",
+      "fundstelle": "§ 5 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+      "pruefabschnitt": "Ausnahmen und berechtigte Interessen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "27e919b167f56d9ef4588f41c3374d9840096e89ca60ae5910f7abf75229d9fe"
+    },
+    {
+      "id": "GeschGehG-6",
+      "fundstelle": "§ 6 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__6.html",
+      "pruefabschnitt": "Beseitigung/Unterlassung und drohende Verletzung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs.",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "GeschGehG-16",
+      "fundstelle": "§ 16 GeschGehG",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/__16.html",
+      "pruefabschnitt": "Gerichtliche Geheimhaltung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "3f72706b0d2201c749caf92e73e8c3473bb4c34352670a5805042147657f824e"
+    },
+    {
+      "id": "KStG-8",
+      "fundstelle": "§ 8 KStG",
+      "url": "https://www.gesetze-im-internet.de/kstg_1977/__8.html",
+      "pruefabschnitt": "Abs. 3 Satz 2 verdeckte Gewinnausschüttung, steuerliche Anschlussprüfung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/kstg_1977/BJNR025990976.html",
+      "sha256_gesamtgesetz": "94bfbeb2bb74a8985dcd8670e78c496be2f659a922a4ba3ba0b74d0b36b1314c",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "EStG-17",
+      "fundstelle": "§ 17 EStG",
+      "url": "https://www.gesetze-im-internet.de/estg/__17.html",
+      "pruefabschnitt": "Abs. 1 Beteiligungsvoraussetzung, Abs. 2a Darlehensverluste/Anschaffungskosten, Abs. 4 Auflösung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/estg/BJNR010050934.html",
+      "sha256_gesamtgesetz": "e8ce958ef925a69e3844dc02db037613255766f49c2278770baf924906ec038e",
+      "erstzugriff_hindernis": "Remote end closed connection without response"
+    },
+    {
+      "id": "EStG-20",
+      "fundstelle": "§ 20 EStG",
+      "url": "https://www.gesetze-im-internet.de/estg/__20.html",
+      "pruefabschnitt": "Abs. 1 Nr. 1 und 7 sowie Abs. 8, Kapitalerträge und Subsidiarität",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "e77b03a7c6f4600978d136cbbf5b2e4b6b9f9699a521827bbd5f1941f6003b6c"
+    },
+    {
+      "id": "ErbStG-7",
+      "fundstelle": "§ 7 ErbStG",
+      "url": "https://www.gesetze-im-internet.de/erbstg_1974/__7.html",
+      "pruefabschnitt": "Abs. 7 und 8 Wertverschiebung bei Ausscheiden und Leistungen an Gesellschaft",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext direkt abgerufen und themenbezogenen Abschnitt gelesen.",
+      "sha256_abruf": "bb47f347de83d374b8939de2e033349c80c9d912b238405120898d9e30671854"
+    },
+    {
+      "id": "BGB-138",
+      "fundstelle": "§ 138 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__138.html",
+      "pruefabschnitt": "Sittenwidrige Abfindungs-/Wettbewerbsklauseln",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "BGB-307",
+      "fundstelle": "§ 307 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__307.html",
+      "pruefabschnitt": "AGB-Kontrolle nur bei gegebenen Anwendungsvoraussetzungen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "BGB-164",
+      "fundstelle": "§ 164 BGB",
+      "url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+      "pruefabschnitt": "Abs. 1, insbesondere Erkennbarkeit der Vertretung aus Umständen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "AktG-132",
+      "fundstelle": "§ 132 AktG",
+      "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
+      "pruefabschnitt": "Abs. 1, 3 und 4 nur im Umfang § 51b GmbHG; Abs. 2 nicht mitverwiesen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "AktG-241",
+      "fundstelle": "§ 241 AktG",
+      "url": "https://www.gesetze-im-internet.de/aktg/__241.html",
+      "pruefabschnitt": "Nr. 1 Ladungsfehler, Nr. 3 Kapitalerhaltung nur in begründeter Analogie",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "AktG-243",
+      "fundstelle": "§ 243 AktG",
+      "url": "https://www.gesetze-im-internet.de/aktg/__243.html",
+      "pruefabschnitt": "Abs. 1 und 2 Anfechtungsgründe, begründete GmbH-Übertragung",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "AktG-246",
+      "fundstelle": "§ 246 AktG",
+      "url": "https://www.gesetze-im-internet.de/aktg/__246.html",
+      "pruefabschnitt": "Abs. 1 als Leitbild gemäß BGH, keine direkte Universalfrist für GmbH",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "AktG-249",
+      "fundstelle": "§ 249 AktG",
+      "url": "https://www.gesetze-im-internet.de/aktg/__249.html",
+      "pruefabschnitt": "Nichtigkeitsklage, Anwendung auf GmbH begründen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Amtlichen Einzeltext im Webwerkzeug geöffnet und angegebenen Abschnitt gelesen; kein lokaler Hash des Webabrufs."
+    },
+    {
+      "id": "ZPO-922",
+      "fundstelle": "§ 922 ZPO",
+      "url": "https://www.gesetze-im-internet.de/zpo/__922.html",
+      "pruefabschnitt": "Abs. 2 Parteizustellung des Arrestbeschlusses, über § 936 zu prüfen",
+      "abgerufen": "2026-10-02",
+      "status": "amtlicher_abschnitt_geprueft",
+      "verifikation": "Einzelabruf scheiterte technisch; Abschnitt im anschließend erfolgreich direkt abgerufenen amtlichen Gesamtgesetz geprüft.",
+      "ersatzquelle": "https://www.gesetze-im-internet.de/zpo/BJNR005330950.html",
+      "sha256_gesamtgesetz": "8a93c25e4be8e78f040976d622023b0f6ada03854978674e9c25adcddf3d2a3e"
+    }
+  ]
+}

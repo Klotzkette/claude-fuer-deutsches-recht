@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "gesellschafterstreit": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "playbook-pruefer": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],

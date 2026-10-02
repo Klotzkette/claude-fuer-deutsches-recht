@@ -1,0 +1,12 @@
+Export technischer Dateizugriffe
+22.09.2026
+
+Interne Kennung IT-ZZ. Export durch Milena Roth, externer IT-Service. Zeitzone Europe/Berlin. Auszug aus dem Dateiserverprotokoll für die genannten Vorgänge, kein vollständiges Geräteabbild.
+
+11.09.2026 14:08 | Benutzer k.knopf | Lesen | Projekte/Altbogen/Kundenplan_Hofdurchfahrt_v1.dwg | Dateigröße 4.820.144 Byte.
+16.09.2026 18:42 | Benutzer k.knopf | Lesen | Entwicklung/Fensterrahmen_ZZ_2025_v7.step | Dateigröße 8.145.200 Byte.
+16.09.2026 18:43 | Benutzer k.knopf | Kopieren auf verbundenes USB-Laufwerk | Entwicklung/Fensterrahmen_ZZ_2025_v7.step | Dateigröße 8.145.200 Byte.
+16.09.2026 18:44 | Benutzer k.knopf | Kopieren auf verbundenes USB-Laufwerk | Projekte/Altbogen/Kundenplan_Hofdurchfahrt_v1.dwg | Dateigröße 4.820.144 Byte.
+17.09.2026 07:50 | Benutzer r.yilmaz | Lesen | Entwicklung/Fensterrahmen_ZZ_2025_v7.step | Dateigröße 8.145.200 Byte.
+
+Die Benutzerkennung bezeichnet das angemeldete Konto. Die Protokolldatei weist keine spätere Nutzung bei einem anderen Unternehmen nach. Die Zuordnung der Urheber- und Nutzungsrechte ist nicht Gegenstand des technischen Exports. Der ursprüngliche Serverbestand wurde nicht gelöscht.
