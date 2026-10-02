@@ -1,0 +1,643 @@
+{
+  "date": "2026-10-02",
+  "scope": "106 technische Prüfbefehle; keine rechtliche Gesamtbewertung",
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "test-skill-map-references.mjs",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "88507cee1aa990408da85cade41e49e076350bf838082848815145ff8c77000a"
+    },
+    {
+      "check": "validate-plugin-structure.mjs",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "ec638a559d61b57bf9e1af9fd4a127987fa60739a294161efc2780f8864cf714"
+    },
+    {
+      "check": "validate-root-readme-overview.py",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "9be8e1c51d2e17d8a65fbc5b3e28cd95f947e07435fc8c706fc7e06c4a3fee5f"
+    },
+    {
+      "check": "quality-lab.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "1d57d77311c521aad1ee4b359b794223e6d6d01e60ca923ae428614166497e53"
+    },
+    {
+      "check": "validate-yaml-frontmatter.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "3ffb841ccfa3e966b90fef0027bdc153ce57846ffb07b18a2a2c0b7f7c7a73e2"
+    },
+    {
+      "check": "test-marketplace-import.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "85d8a1d8b542440a1163c85ee051326983c5e63fc4c59f60d7ffb9ea8f092bcd"
+    },
+    {
+      "check": "validate-marketplace-import.mjs",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "5e8cf22cae903181227bd7b400360f93cd6480d75ebc42382eb382db669533d6"
+    },
+    {
+      "check": "validate-runtime-performance.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "5e6982e6f0c6f628381f46005b80cd9f0953836ed1143f544fa22bff20dd3f47"
+    },
+    {
+      "check": "test-quality-lab.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "474c38314306ec9d2b5a5341fae555e998a76c0179acc9129089d9dc8639bc8c"
+    },
+    {
+      "check": "test-schwerpunkt-coverage.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "ee2d3423a8f28279d0a5c234ac789fdb11a88cc6469a1e231215a32ad893ceb6"
+    },
+    {
+      "check": "quality-lab.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "1d57d77311c521aad1ee4b359b794223e6d6d01e60ca923ae428614166497e53"
+    },
+    {
+      "check": "test-run-eval.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "4fa1aae6b2322017d069b6716a34c257efe6c51945a120aaeb2c6c579c971b7e"
+    },
+    {
+      "check": "run-eval.py",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "9e2e58f08fb4107aebfbad9b41601884cc90c324653b9a6e1069d914165d6611"
+    },
+    {
+      "check": "test-release-assets.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "9b5102e883479abd7f96aa6f03e2df181553decba689ce649ef15b52d4c38573"
+    },
+    {
+      "check": "test-complete-package.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "c4ddf70af0d94047bbd5294e3b2de39537655f9ef8aae5a35bd206e085e05cb6"
+    },
+    {
+      "check": "test-registerakten-print-profile.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "f0762d86ced21f3408b129779860d85af42aa80d1b44bb8b080e88d384931600"
+    },
+    {
+      "check": "test-release-routing.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "aa2391de76a5f82fed5107d5bf1debbef45e9daaa510fefdacbee8cdb24c7f09"
+    },
+    {
+      "check": "test-testakte-pdf-build.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "2140e0ee2bd64d809d50efa290486f74935c8aec2c8ce6d395af2e5ec786b928"
+    },
+    {
+      "check": "test-testakte-projektordner.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "c681927e72e6665cb967899267967c00c8825b5c4cc5a0a060c5ac5052069ec5"
+    },
+    {
+      "check": "test-fintech-bremen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "22a8cedb0f101a2f0758b7d71092e4bcfed430b84ff7e3cb1541527531ea94db"
+    },
+    {
+      "check": "test-modefuchs-lebensakte.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "c1cc31a18ef1b904ea2ffc605f8d8459fcc9d7148c3cc957d0c686ae56db0390"
+    },
+    {
+      "check": "test-office-resilience.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e5dde7945d658fa5cf83bcb57bdc5273c2d17d7e6be2de34efd7712ac9ff7095"
+    },
+    {
+      "check": "test-testakten-email-quality.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "df02b792d172fe1f0afe1d6ad0bc7b94daa5b07cef6726dbcd03d53eed4f8cda"
+    },
+    {
+      "check": "test-testakten-ohne-loesungen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "2cc76f2f3d007742ed25e8b1f8d721292119272f51cac64f6ae4bec28d7017ef"
+    },
+    {
+      "check": "validate-testakten-ohne-loesungen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "47a08ffc9f97c0a790e1c651e3a9ea5fe21b76aeea1df73328b60573ad8ebcd3"
+    },
+    {
+      "check": "test-testakte-bwa-abstimmung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "3b72b8ad2dea8898725ccc2903ddaabf92a576d221f5f3367d5ec1a92de74bf1"
+    },
+    {
+      "check": "test-testakte-pohlmann-fristen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "81852c78975e10cee42c2fe80df24f9b3684847dd93e1dac3933a62ef990062c"
+    },
+    {
+      "check": "test-datenschutz-fanpage-quellen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "19dc2d2e8835a04e6715931709beaa639d9035e4e3560eefd688ae165ecf2c5d"
+    },
+    {
+      "check": "validate-testakte-bwa-abstimmung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "27a0ce154e1567ba791f7a924560c88d78328cfe37d0cc6814517330c5bbf34e"
+    },
+    {
+      "check": "test-grundsteuer-wolkenfels.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e0bf5438aa2e51fd96681719a5f5ca9e88bd779dc1f5fadb307764900f9ea6c0"
+    },
+    {
+      "check": "test-grundsteuerrecht.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "a44e3d53f6c3ae191995a982c5805f1cba1fb591f32fa061559232574423634e"
+    },
+    {
+      "check": "test-digitaler-omnibus.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "bba717f3b9f487e92d77fdeddd4c7fc485a952109cc2e781e86ec2996cf6b1b4"
+    },
+    {
+      "check": "test-schadensregulierung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "f26312c9b9d63ad7b43cfe8054df28b8294f6f37a1c9056c510d2f274d0e8fed"
+    },
+    {
+      "check": "test-pflegerecht-sgb-xi.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "01ee94f5471b250c3c0baef237ff7b4ed88b2cf8fb71f1b561073da13e23a4ba"
+    },
+    {
+      "check": "test-einfache-sprache-pakete.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "b2ed2441dd76833ca19e75ef2ba6444440bee8a140a6cbba700c31d5bc473191"
+    },
+    {
+      "check": "test-antidiskriminierung-agg.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "0b27554ea0337e612205ba2827c7b87f8ad8fc5fd32a0cfa7c117382264ba5c3"
+    },
+    {
+      "check": "test-mietchecker.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e5a0d9bff13f00d4ed42d77aca5dc1df2411ccbefc9d46b21058e704a07abde5"
+    },
+    {
+      "check": "test-eigenbedarfskuendigungschecker.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "760f925f610a0889c8d5c1badbb407f70e6453ae0c14e8bc44a552f83a6cc762"
+    },
+    {
+      "check": "test-registerwerkstaetten.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "d2d11e8001ff02bb7692a6e0de08ca365cada35299dc1914f73fdfbadbca9ede"
+    },
+    {
+      "check": "test-insolvenzforderungen-export.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "12c2a28625000070aea896c6ce859db5c3ef476530cd1abac3a6a91b54d1fdee"
+    },
+    {
+      "check": "test-insolvenzforderungen-checker.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "7580fa5504cf7d01f361b07127cfab9e8601b34007da2a9816298dc51194ce43"
+    },
+    {
+      "check": "test-sektorenvergabe-workflow.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "d1f5bab3d73ea6856229ba856967805b6961e69518a774e85bcb4ed0a348dae9"
+    },
+    {
+      "check": "test-insolvenzforderungen-baeckerei.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "61049f0b127186dc8741db5833abfab1f00b2013407c6c91c45b5558467f0b32"
+    },
+    {
+      "check": "test-insolvenzforderungen-asset-deal.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "9f3d30a8b9d96a530aa0eeee3db185ba099d75577f2d82f8b935fc58bde1eb3d"
+    },
+    {
+      "check": "test-vertragserstellung-mandatsakten.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "d72cca8b3f1342c252bd80836b03581d7e4bf9f2a3badbf618f6970054821d99"
+    },
+    {
+      "check": "test-notariatswerkstatt.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "02ffff457c3def252b0976384e585e54ad23dd08375c414c389547a6e04b417d"
+    },
+    {
+      "check": "test-arbeitszeugnispruefer.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "5fbc75b26a32db7cb70a8baaebd10611d1b3929678ea0828473a64f9f854d774"
+    },
+    {
+      "check": "test-ki-verordnung-hochrisiko-pruefer.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "ebf7f5b59e4d58d4babdad1e7d5adaf02b43485dcc26b85e66de6c4392197527"
+    },
+    {
+      "check": "test-ki-verordnung-transparenzpruefer.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e16244a6611757ce5d939e08769a4987727b6a60363689a82e9312e93c0848b2"
+    },
+    {
+      "check": "test-enteignung-artikel-14.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "24f22c41d2443bda1ba46b8e8a4f6123db660657be9c78e0caaa75be8ade7539"
+    },
+    {
+      "check": "test-vergesellschaftung-artikel-15.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "588ae35b88a6ee601167aa9072756efb96a049061141f73dbcf6c2bd8d4735da"
+    },
+    {
+      "check": "test-fachpruefer-integration.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "89c0c7dd7f57d09a29ef7651ca8fa7572cccb476ddf9c1ab24235282e4f1f69a"
+    },
+    {
+      "check": "test-juristische-praesentationen.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "2ff865dde38a54a6d5e91e33cba2ab7046987fc090cf9a63b19f663d84a9d48a"
+    },
+    {
+      "check": "test-geldwaeschepraevention.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "1b8c10372492530e6ad409ffdf373dbcd8c6ba62d32ec6684bff69f29b22444e"
+    },
+    {
+      "check": "test-arbeitsrecht-asset-deal.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "97c3331f90cd1c2734b4108b5f2a4fa42bb5bd4e1c2d683db125530e8d8fadae"
+    },
+    {
+      "check": "test-betriebskosten-hausverwaltung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "50df2f58e5512ce83a60d82171f50af7a39b3ef55e7230ca7e88e3ca4c101664"
+    },
+    {
+      "check": "test-zugewinnausgleich.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "330c1779aa5c6072f9a5e26c9de60269ee96f6cb780c0c36e4c11fbc73beb5f1"
+    },
+    {
+      "check": "test-strassennutzung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "305c88d45bc9e590e9f3e171682d23e4bbb477ff8420a7ab15eb51a4707db0ff"
+    },
+    {
+      "check": "test-anwaltschaft-vertragswerkstatt.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "19dbdc7ec70b9797f6bd825d73bad1ab6e0a04a0d3b1679321d58ef0d604d4da"
+    },
+    {
+      "check": "test-kompakte-wirtschaftspakete.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "b54c91468cd1e4bc2f83af2374f5fa6cc37d5967bc8b7005e6b36ea59245118c"
+    },
+    {
+      "check": "test-vertragserstellung-kassel-akte.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "cbbe90d3ea7858c560c0e9e188853cf5c24f678bc13f7a9885bfad7155244db7"
+    },
+    {
+      "check": "test-wirtschaftsanwalt-hannover-akte.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "8cd4250c42dacfef5f46ae48bad44aec450114b9ead3f161046aa2009b994587"
+    },
+    {
+      "check": "test-bauwirtschaft.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "47fe88551f51268759194cddefb971882ca90f4dcb99103080130d85e67a3764"
+    },
+    {
+      "check": "test-bauwirtschaft-einbeck.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "359806af8ad6ffe33f3f60150a7730e09871128dc63df342040c9e07b767eb2e"
+    },
+    {
+      "check": "test-bauwirtschaft-northeim.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "b39c18d9e8bd5882f17b154e7788dad987b303079f05fd2f3983a1ec06243069"
+    },
+    {
+      "check": "test-bauwirtschaft-kaufmaennisch.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "bb79802e5ed1f6be6f9a407dc7d48588f38eb1363f9db7d92a38a96f0677ef7d"
+    },
+    {
+      "check": "test-bauwirtschaft-hoai-1-3.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "87957cc217e1ffa9a6aa8a791d31a53ea7de3e5119a4d8ed177ac4a6bb569d78"
+    },
+    {
+      "check": "test-bauwirtschaft-hoai-4-6.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "d6f123bced60c43d8945bdc3fb6bc66c27648d2645446ff95f657eab3fb81d6b"
+    },
+    {
+      "check": "test-bauwirtschaft-hoai-7-9.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "1d871ddca89459aef2e5f7570f69d2fc8f2e8ede6683ef2fb7736dab498253e8"
+    },
+    {
+      "check": "test-bauwirtschaft-hildesheim.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "4d33bea4614f0a4f4006a606a0aad47e8a48a2d28f9e3bbd3a50394155c42b6b"
+    },
+    {
+      "check": "test-bauwirtschaft-hildesheim-lebensakte.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "9afc49badc4fae9bf32e66b3f8db54f2687620ef234c3478c711e000d135f790"
+    },
+    {
+      "check": "audit-skill-activation.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "24bc9027aa3129ea84b254b4e4d7cac6b789486d183235344a2921dc8831b624"
+    },
+    {
+      "check": "test-skill-selection.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "5fbb3ed875bcf6589bb6a648935e1d7d03baf847329574ad26c403b21c9ebc1a"
+    },
+    {
+      "check": "test-official-plugin-validation.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "f2cd2913890086f259c3428e75b10054a0569513315405c4c8ed0c752ea6abe0"
+    },
+    {
+      "check": "audit-skill-selection.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "306e00c95b30bb8dc10f9bd40edeab411e665f3d339d0e5a6bc7e6637847797c"
+    },
+    {
+      "check": "validate-testakten-dokumentqualitaet.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "7c2cbee2b4cf1a5514468d7014f7aa65ae10cfc61d0164803ced3ee0c054a0c5"
+    },
+    {
+      "check": "validate-testakten-gesamt-pdf.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "02ba6152a48d0e203264e54c3323f29bdfb137615e941ba297e6e6f1ce13f15f"
+    },
+    {
+      "check": "validate-testakten-keine-markdown-aktenstuecke.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "36b8d58c92d23299dcf68241c149f790b5ccc43197f6332922b6e81ebd1399be"
+    },
+    {
+      "check": "validate-testakten-csv.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "4d172ae01eda1ceec1505f69d8d5726c9b91913f966120798216f34c073e19d0"
+    },
+    {
+      "check": "test-prompt-publication-profiles.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "a8ea4421f68e83d11a8ff1ef30ba1cca525d147d91640c5daa49262b40cf834c"
+    },
+    {
+      "check": "test-prompt-generator-excerpts.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "74b4de32f71763ce08a4e7b7017656eb99819a7fb2b2d4d2646ab6dabbf15d78"
+    },
+    {
+      "check": "test-prompt-routing-scope.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "7c7655521bbe077edf5bcadeb20487347e7e5f18243ccc6a47ffea161cce4f6c"
+    },
+    {
+      "check": "test-prompt-workflow-preservation.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e5b7fe87fd12fedd003d21d13771108baafd2ce674e0fe9caac0313498fb9299"
+    },
+    {
+      "check": "test-prompt-hygiene-links.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "24829cfe1a9651527526987322a16d75a51c2edf92ad7514e5f927a0a53d85de"
+    },
+    {
+      "check": "test-portable-starts.py",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "c07a2c0dc7c860106b755c8c5d04f6c7ecc0542ebfd0d9ca2fd5cb50668c9ea5"
+    },
+    {
+      "check": "audit-generated-prompt-hygiene.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "86c25052b36b695c56d0a46024ab4f8462dfeda16d5a0f1b6902f60c6265f39c"
+    },
+    {
+      "check": "audit-prompt-profile-routing.py",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "916023b9fb1326bfd2d3c28c25a4fbb5b838bfb90837c144d27637833926ba99"
+    },
+    {
+      "check": "audit-quickstart-usability.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "b14f16ef572ff31c4cef5d5e430dd43e4ba40a823b2758379933706504dfa351"
+    },
+    {
+      "check": "validate-current-law-sentinels.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "1e3425a30935c2d137473be55e7d0e29c222facbcfea180bb59b680b5f7f507b"
+    },
+    {
+      "check": "test-legal-calculators.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "0c62f6e7860d573c21112bb2f4cc680ebca67b95a2e9c72bd15d59b09005dafa"
+    },
+    {
+      "check": "test-gmbh-gesellschafterversammlung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "4b9db08c18d0ebe8878d703ea7720442238eefa1d48ddedccc05838b39e05ac3"
+    },
+    {
+      "check": "test-liquiditaetsplanung-rechenlogik.mjs",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "7a7415613ca5af4ac7641558e34b541a882eaa88869700c56a49ad293b74ea8f"
+    },
+    {
+      "check": "test-liquiditaetsplanung-excel.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "2c5edfef601adc165e9e733a4fad09bbd264544d0b9572864a193f629c1b09c0"
+    },
+    {
+      "check": "test-bea-versandmappe.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "394b43552f12a8f03f118b50dbae4287b70772dfdf8449035e90af7ff2587406"
+    },
+    {
+      "check": "test-startup-gruender.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "e4f046727525cccf2127daa3ec4b555387d5ed531d1d85a6dceb43cafca428fc"
+    },
+    {
+      "check": "test-schnittflug-erweiterung.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "a721b0c9e0fa9ea5e06e26d048c438a04e47b31d7470eb3ecde3317317150564"
+    },
+    {
+      "check": "test-schnittflug-finanz-native.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "9fa43f3ed34d4746666e74b30f0fbd38184a6da50b72027f08789099ee7ee8de"
+    },
+    {
+      "check": "test-schriftsatz-versandwerkstatt.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "cea6c8ac8df8c824e97e0f26b13ab3486526530b6e71b7d80a0d79780a05eb19"
+    },
+    {
+      "check": "validate-testakten-readme-downloads.py",
+      "exit_code": 0,
+      "initial_exit_code": 1,
+      "log_sha256": "a388249844f4b01d3e2a61597122ca83ae63783a7ace82a70f77afe1dd23617f"
+    },
+    {
+      "check": "validate-readme-navigation.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "48298749174b10cdfe1f16d19346dd855cd8bf3f745aaba413864656e40365cc"
+    },
+    {
+      "check": "test-readme-navigation.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "449d2abdfd00c74daa6f67b15b1f8de5056864e9957e76fa00acf69cce768d1f"
+    },
+    {
+      "check": "validate-markdown-structure.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "671526c7ac1274d13b5cc82730a941e5896f4f3429d14f6a62145ab4a5fec15d"
+    },
+    {
+      "check": "test-generate-megaprompt.py",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "ee380f57907e0d55b3a1ad1c4ccc9309b44d123ba82648fe54d7409d5be380a0"
+    },
+    {
+      "check": "codex-manifest-berliner-asog-polizeirecht",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "9a621cfefafa2d241a59175837ce21fa31fe8816b72fd14c26076b6c3793f7fc"
+    },
+    {
+      "check": "codex-manifest-berliner-gewerbeaufsicht-betrieb",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "25598a04c370aa3b634829206ce67765f9fc867cea9d63b38c5e6cfb1dac8d89"
+    },
+    {
+      "check": "codex-manifest-berliner-versammlungsrecht",
+      "exit_code": 0,
+      "initial_exit_code": 0,
+      "log_sha256": "64f8d6fd1593d95935f653e54c9a5763e0fe4b68df576e1d510df19d394eac50"
+    }
+  ]
+}

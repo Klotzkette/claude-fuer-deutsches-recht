@@ -1,0 +1,488 @@
+{
+  "date": "2026-10-02",
+  "agent": "/root/berlin_prompt_probe",
+  "method": "Qualitative tatsächliche Einzelanwendung durch einen Agenten; drei getrennte Ausarbeitungen in derselben Sitzung, keine frischen unabhängigen Modellinstanzen, keine statistische Evaluation.",
+  "simulated_user": "Bitte prüfen Sie die Akte, priorisieren Sie das heute Notwendige und erstellen Sie den ersten verwendbaren Entwurf; Rückfragen bitte gezielt.",
+  "common_repository_instructions": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "56d7539826cec3f38efefbdbd7ed704c0a33666cf90ff85e7dac58bc6bde59fa",
+      "bytes": 2652
+    },
+    {
+      "path": "CODEX.md",
+      "sha256": "f4964d5be934b19bd69bc0ebe98c8c376cf9686e4748ce00404f7de8b84ceeac",
+      "bytes": 4755
+    },
+    {
+      "path": "CLAUDE.md",
+      "sha256": "ae6f633b0551bc96dbb4c9c59f53a4d6d26a331912b55962047ac2261ce2f1b7",
+      "bytes": 16997
+    },
+    {
+      "path": "references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+      "bytes": 8609
+    }
+  ],
+  "exclusions": "Keine Eval-Inhalte, Solution Notes, Root-Audits, andere Agentberichte oder Soll-Rubriken gelesen. Originalformatdateien statt README/Gesamt-PDF. Verzeichnisinventar enthielt beiläufig Dateinamen anderer Repository-Dateien, keine Inhaltslektüre.",
+  "reading_method": {
+    "docx": "python-docx: paragraphs and tables",
+    "xlsx": "openpyxl.load_workbook(read_only=True,data_only=False); formulas read, relevant arithmetic recomputed separately; no workbook mutation",
+    "eml": "email BytesParser policy.default, MIME text decoded, attachments compared to supplied separate originals",
+    "txt": "UTF-8 file text",
+    "python": "/Users/klotzkette/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3"
+  },
+  "asog_browser_verification": "Current total version 19.07.2026-31.12.2030 in official browser UI; latest considered change Art. 3 law 25.06.2026 GVBl. 488,492. §§38-41 explicitly read, including current §41(1) refusal ground and §41(4) costs. Direct web extraction yielded only JavaScript notice.",
+  "external_actions": "Read-only public legal research only. No external messages, filings, publication or product edits.",
+  "cases": [
+    {
+      "case": "gewerbe",
+      "prompt": {
+        "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-schnellstart.md",
+        "sha256": "ada29b5d936f5c65b9cd105cc945fe5ca9b88c6d2d18194da7c690e4923b7f5b",
+        "bytes": 7242
+      },
+      "raw_inputs": [
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/01_Auftrag_Abendfuchs.docx",
+          "sha256": "c1b9d6fe3149265067f7ebaed1feb0c72dc6bc2bf1a81dcc7b08f2d87d67fd2b",
+          "bytes": 38133
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/02_Gewerbeempfang.docx",
+          "sha256": "2223bf98db7d6c15d49c0d79b603a06c4cc3af3333ecb623b9542324796082b8",
+          "bytes": 38139
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/03_Hotelkooperation.eml",
+          "sha256": "f53134ceaad4d0f4bb0f1b7047536ec9538789d7dd302fa00098a4826b0e06ef",
+          "bytes": 837
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September.docx",
+          "sha256": "06a9c7ccd5191b298c5a59db172495e364c514e096c50aef4c9942dc97502c7f",
+          "bytes": 38204
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/05_Kontrollvermerk.docx",
+          "sha256": "fa9433a6fe6fd4b2dc8e5f216b2d2fcc8e0a2694a13f1a29c4df3b5c8091305c",
+          "bytes": 38184
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx",
+          "sha256": "3b38dd61c0404d1d98babd9fe329a7c789a376bef5188c54d7ceddbceace56bd",
+          "bytes": 5090
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/07_Kassenbon_Abschrift.txt",
+          "sha256": "718556ebc4fd2cbf48793c9b053c29dc37307d90fd605d0352f36d04646b21fe",
+          "bytes": 564
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/08_Willibald_erklaert.eml",
+          "sha256": "598b0beca48d9b1780485873b809774b263393a803dace58ce7acc88b085160e",
+          "bytes": 780
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/09_Anhoerung_Ladenoeffnung.docx",
+          "sha256": "9dd45542b5fd139135c1cf0b3975f7bc5548770bbee1578ba9002c1162d211d1",
+          "bytes": 38225
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/10_Samira_fragt_Amt.eml",
+          "sha256": "2e8d0622fd62b26f8dc626da3a2bc5727cdd232e3962c69858a573e1936180e4",
+          "bytes": 829
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/11_Antwort_mit_Sortiment.eml",
+          "sha256": "b5b56df673b74d56b2cc88baa3afeafa437c9104685ed8e08ed3f7105936a69d",
+          "bytes": 60974
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/12_Veranstalter_Absicht.docx",
+          "sha256": "37f288a86a6798c19e330ff26209bb0f55a4f4e63375514a35f76f94ae7502e0",
+          "bytes": 38154
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/13_Chat_Kaffeeidee.txt",
+          "sha256": "458cb0cc2313fcb81a39fcd729f2540484cf54373efec2faf93b9dcde9c7d80c",
+          "bytes": 579
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/14_Mietvertragsnachtrag_Entwurf.docx",
+          "sha256": "8c9330b5d9360391cccdd42399ba88b368824329f42bc83836a3e1447c4eac9c",
+          "bytes": 38177
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/15_Amt_Kopie.eml",
+          "sha256": "80a936206f1bfffd3b402d0876022ce1c67e9fae98c10d87c0c8774df6b932c6",
+          "bytes": 845
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/16_Betriebsnotiz_Wochenplanung.docx",
+          "sha256": "54a7d102e27bcf6ab279a2b6693a46e1d91c2292ff5bde1f4d4b26da077149bc",
+          "bytes": 38162
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/17_Nachbar_freundlich.eml",
+          "sha256": "c700085cc368962e238eb468e075595a2f36e59793c2df1988102257106e413b",
+          "bytes": 866
+        },
+        {
+          "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/18_Nachtrag_Fest_offen.eml",
+          "sha256": "2ca6d3cf267219804d6e0f4125b679b4c6b71295101d46e73d38d68e0debde39",
+          "bytes": 768
+        }
+      ],
+      "permitted_references": [],
+      "attachments": [
+        {
+          "email": "testakten/berlin-gewerbe-spaeti-abendfuchs/11_Antwort_mit_Sortiment.eml",
+          "filename": "04_Sortiment_September.docx",
+          "sha256": "06a9c7ccd5191b298c5a59db172495e364c514e096c50aef4c9942dc97502c7f",
+          "separate_original": "testakten/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September.docx",
+          "byte_identical": true
+        },
+        {
+          "email": "testakten/berlin-gewerbe-spaeti-abendfuchs/11_Antwort_mit_Sortiment.eml",
+          "filename": "06_Umsaetze_und_Zeiten.xlsx",
+          "sha256": "3b38dd61c0404d1d98babd9fe329a7c789a376bef5188c54d7ceddbceace56bd",
+          "separate_original": "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx",
+          "byte_identical": true
+        }
+      ],
+      "output": {
+        "path": "lokale-pruefartefakte/probes/01-gewerbe-schnellstart-anwendung.md",
+        "sha256": "01ccf2d6f9df9d834747efd98868a695d98907a7119cc7238226967172b07a7d",
+        "bytes": 13131
+      },
+      "primary_sources_opened": [
+        "https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/ordnungsamt/ladoeffg.pdf",
+        "https://www.berlin.de/sen/wirtschaft/branchen/handel/ladenoeffnungszeiten/ladenoeffnungszeiten-in-berlin-152543.php",
+        "https://service.berlin.de/dienstleistung/327974/",
+        "https://www.bverwg.de/160322U8C6.21.0",
+        "https://www.berlin.de/kultur-und-tickets/tipps/3-oktober/"
+      ],
+      "observed_material_gaps_or_limits": [
+        "Betriebsplan Mo-Sa 8-24 darf nicht für Samstag 03.10.2026 übernommen werden: gesetzlicher Feiertag.",
+        "Mail 15 erwähnt drei beschriebene Kontrollseiten einschließlich Bonkopie; außerhalb Portal nur DOCX-Kontrolltext und TXT-Bonabschrift gelesen, keine echte Bonkopie.",
+        "18 EUR Haushalt/Vorrat sind unvollständig zugeordnete Umsätze, keine Stückzahl."
+      ]
+    },
+    {
+      "case": "asog",
+      "prompt": {
+        "path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
+        "sha256": "43afdfc4a33b73f3c1cd5284b69de55806b7f999e35173deae464e034c1ecba6",
+        "bytes": 8983
+      },
+      "raw_inputs": [
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/01_Auftrag_Okafor.docx",
+          "sha256": "40825090a4f459aa006892c0103ef1a718977ad8cb7fe2b73669f0c9776b36c0",
+          "bytes": 38131
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/02_Sicherstellungsbescheinigung.docx",
+          "sha256": "794ae64d6da1163517b6bb30e97614c803531652d15aa87a0d5b1ac6013c1c4d",
+          "bytes": 38146
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/03_Kaufvertrag_Lastentransport.docx",
+          "sha256": "929c7c3b43785f6eeac36d8d13fb2a109dd0127a7606938eddadb35aec89589b",
+          "bytes": 38065
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/04_Leihbestaetigung_Hummel.docx",
+          "sha256": "52219433ff4afa900f46491f30c505dea097a1746dfecdad99e3505be9f517ab",
+          "bytes": 38090
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/05_Werkstatt_Befund.docx",
+          "sha256": "9b5937e7640f04b14db04b2ff57c0e0070b61847085b32679d0d9bc2a3d29853",
+          "bytes": 38150
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/06_Verwahrstelle_Sachstand.docx",
+          "sha256": "072ffa2a82be530bd5ae4c7e929edd405aafb4e8b6880e1f1ad9351016a916b3",
+          "bytes": 38099
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/07_Cafe_Lieferplan.docx",
+          "sha256": "f9b59c165d1fcef7a039f727fb8ce78a748f83656e96d9f843a58c20ca2fa2e3",
+          "bytes": 38123
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/08_Abholerklaerung_Berta.docx",
+          "sha256": "e0bb3413e94f858a5a5f4811b81d555466413583daa4237db473670a88d3c1f1",
+          "bytes": 38130
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/09_Kaufbeleg_gesendet.eml",
+          "sha256": "709c63d3e7d18d7467ed15b0ec0ba948ca2dff8e9ae67462f0c83f73d4fe2756",
+          "bytes": 53275
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/10_Verkaeuferin_Antwort.eml",
+          "sha256": "6cfee6491497c7bd10a0c954b8c1b420d23ddd77c1f83c5698a6d89f0523ddf0",
+          "bytes": 725
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/11_Werkstatt_Anlage.eml",
+          "sha256": "f0841e622e6cee1788b31b6c7d064b87c9da0b3318476f3e2cb4ddb929d1daab",
+          "bytes": 53362
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/12_Eingang_Unterlagen.eml",
+          "sha256": "24012be715553519f8bd9aad517a1f85e35a82b515180a490f448d085fc0365a",
+          "bytes": 703
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/13_Mietangebot.eml",
+          "sha256": "538b25f285e3c559dce8d9ab1d1ade75db5fb68028ed8ad12d5dc3f43013f70d",
+          "bytes": 672
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/14_Ausgabe_Rueckfrage.eml",
+          "sha256": "f06c77da448c0349aedffd1ad74747aee9f9408fe1e799e0b52c0d5633ec0854",
+          "bytes": 682
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/15_Auftrag_an_Kanzlei.eml",
+          "sha256": "f9ada04c17608666aaf8fc229c46e2678918c4cb852611cd0e8918e496f034bf",
+          "bytes": 53466
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/16_Chat_Berta.txt",
+          "sha256": "9b29749fe1ca97e4a3716eb99442fa0ce6f0aa7b9b321a325aa2ea144b9c042c",
+          "bytes": 362
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/17_Zugangsprotokoll.txt",
+          "sha256": "ea3900eac97fc031102259835182944ed893d9e853a75f00e022fd5c6ada5841",
+          "bytes": 405
+        },
+        {
+          "path": "testakten/berlin-asog-sicherstellung-lastenrad/18_Ersatzkosten_und_Inventar.xlsx",
+          "sha256": "ad51bc146a6d40377ab8966aceeee8a55912de054b2537cde356e6ff5fb17dcb",
+          "bytes": 4819
+        }
+      ],
+      "permitted_references": [
+        {
+          "path": "berliner-asog-polizeirecht/references/normen-und-verfahren.md",
+          "sha256": "d194715f9d90bdadf676026d38e067d360d787a8e713e3cde063ed6cb6e84b2e",
+          "bytes": 8563
+        },
+        {
+          "path": "berliner-asog-polizeirecht/references/rechtsprechung.md",
+          "sha256": "306fcbac2020568ef05a2de9b8dd2db47cc88a1834071dc8c0dca635c6ae1a17",
+          "bytes": 6502
+        },
+        {
+          "path": "berliner-asog-polizeirecht/references/zitierweise.md",
+          "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
+          "bytes": 8609
+        }
+      ],
+      "attachments": [
+        {
+          "email": "testakten/berlin-asog-sicherstellung-lastenrad/09_Kaufbeleg_gesendet.eml",
+          "filename": "03_Kaufvertrag_Lastentransport.docx",
+          "sha256": "929c7c3b43785f6eeac36d8d13fb2a109dd0127a7606938eddadb35aec89589b",
+          "separate_original": "testakten/berlin-asog-sicherstellung-lastenrad/03_Kaufvertrag_Lastentransport.docx",
+          "byte_identical": true
+        },
+        {
+          "email": "testakten/berlin-asog-sicherstellung-lastenrad/11_Werkstatt_Anlage.eml",
+          "filename": "05_Werkstatt_Befund.docx",
+          "sha256": "9b5937e7640f04b14db04b2ff57c0e0070b61847085b32679d0d9bc2a3d29853",
+          "separate_original": "testakten/berlin-asog-sicherstellung-lastenrad/05_Werkstatt_Befund.docx",
+          "byte_identical": true
+        },
+        {
+          "email": "testakten/berlin-asog-sicherstellung-lastenrad/15_Auftrag_an_Kanzlei.eml",
+          "filename": "08_Abholerklaerung_Berta.docx",
+          "sha256": "e0bb3413e94f858a5a5f4811b81d555466413583daa4237db473670a88d3c1f1",
+          "separate_original": "testakten/berlin-asog-sicherstellung-lastenrad/08_Abholerklaerung_Berta.docx",
+          "byte_identical": true
+        }
+      ],
+      "output": {
+        "path": "lokale-pruefartefakte/probes/02-asog-hauptskill-anwendung.md",
+        "sha256": "eb4da69fe466dd0a7560e98710a43bdca5f00d796833f05da1b57c92dea77c3e",
+        "bytes": 14129
+      },
+      "primary_sources_opened": [
+        "https://gesetze.berlin.de/perma?a=ASOG_BE",
+        "https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004772",
+        "https://www.gesetze-im-internet.de/vwgo/__80.html",
+        "https://www.gesetze-im-internet.de/vwgo/__123.html",
+        "https://www.gesetze-im-internet.de/vwgo/__58.html",
+        "https://www.gesetze-im-internet.de/vwgo/__70.html",
+        "https://www.gesetze-im-internet.de/vwgo/__57.html",
+        "https://www.gesetze-im-internet.de/zpo/__222.html"
+      ],
+      "observed_material_gaps_or_limits": [
+        "Gemeinsames Montag-Abholfenster 11-12 Uhr; selbst alleinige Abholung ab 9 Uhr liegt nach erster Lieferfahrt 8.30 Uhr.",
+        "Cafébrief Stornogebühr nach Sonntag 18 Uhr vs Anbieter ungebundene Vormerkung ohne Bestellung: Bindung unklar.",
+        "Werkstattbefund enthält keine neue Untersuchung in Verwahrung und keinen abschließenden Eigentumsnachweis."
+      ]
+    },
+    {
+      "case": "versammlung",
+      "prompt": {
+        "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+        "sha256": "74556800441aa466b466f17abc93b88053265f8c03d16e6cdb18e306c0ccdaa3",
+        "bytes": 102214
+      },
+      "raw_inputs": [
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/01_Auftrag_Camp.docx",
+          "sha256": "c49ce3a40922c0eb3b97fa7cc5f74e09d7882241c3ca27a3e19393c850d2185b",
+          "bytes": 38168
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/02_Ursprungskonzept.docx",
+          "sha256": "8c7c11e752f0981ae26f3732d3135d7827395f2d595bdbf057aaff5784bd6a3f",
+          "bytes": 38161
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/03_Anzeige_Camp.docx",
+          "sha256": "71eaa6cf4f8c6cbd10c4696f7aef72822b75225552c16830f4cd042bcf935c99",
+          "bytes": 38199
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/04_Anzeige_Mail.eml",
+          "sha256": "00de8eb54b0613736063131439a5337dc685e4b6291bbe458c354fc170db5159",
+          "bytes": 53399
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/05_Eingangsantwort.eml",
+          "sha256": "e22520a6fa26ee41a9f48b2a1e8635a858e066104f8181410353ca2560a6bc88",
+          "bytes": 643
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/06_Programmstand.docx",
+          "sha256": "db44c241e71fec47622da69cd05465d9cb48b154cfe599717fbfd6db7c523024",
+          "bytes": 38122
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/07_Chat_Schlafplaetze.txt",
+          "sha256": "a86653ec19d307930141c68d2ddf8c6ecf5c79e91d36a2acc1bbf0bbb5dc5867",
+          "bytes": 625
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/08_Gaestegruppe.eml",
+          "sha256": "b8d38f5576bff5573dfff77da7591303ed82d519a6374d625c013e670d6a73df",
+          "bytes": 764
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/09_Notiz_Kooperation.docx",
+          "sha256": "7478d0d7a4b8ba31a0fd7a061820cfd4c6af15b19f4ac4c061968dbc58a29abb",
+          "bytes": 38168
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/10_Anhoerung_Infrastruktur.eml",
+          "sha256": "4c3c8e3bb5d3da76dff5f16fc84e2e957d9bb5fae13df2fe57d37b8e2f2c09ea",
+          "bytes": 886
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/11_Flaeche_und_Nachtplan.xlsx",
+          "sha256": "0d1ed31a4f6a80a5c96b21c18d386d3cd87839b7becc46958c4925e65e327fb0",
+          "bytes": 5137
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/12_Anwohnergespraech.docx",
+          "sha256": "80f919d4e89569358af3452fc478c124a6ab296cef0740ace85b4185311fd3ec",
+          "bytes": 38145
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/13_Anbieterangebot.docx",
+          "sha256": "48228d049f945b21a148b2c6e12d1f1d89735b2d620e76d9d92582fb1bfdf833",
+          "bytes": 38119
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/14_Chat_Konzeptkorrektur.txt",
+          "sha256": "714e515f2f7f0418a1b2c688a43e8b1d7e00fe9f03525c5141bcc7af8da30e81",
+          "bytes": 637
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/15_An_Gaestegruppe.eml",
+          "sha256": "5bc4311a4b70e0ae50c9f5752263506ec118c7a5247dedd15976307305e08e54",
+          "bytes": 849
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/16_Beschluss_Orga.docx",
+          "sha256": "c79d95bd519764168c33445762e27a33ef6f5a9122c5c480ed9cfc7d6cfe07f9",
+          "bytes": 38242
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/17_Konzeptkorrektur.eml",
+          "sha256": "5fb53020110a3e225c0e1ec836148d56c3ccd4010a7f84e8f66d5dc18abd1f0a",
+          "bytes": 53549
+        },
+        {
+          "path": "testakten/berlin-versammlung-kiezcamp/18_Rueckmeldung_Gaeste.eml",
+          "sha256": "2f6cd5269f87da5c9205e03963dd342b413d7e367df0309cf4fcc5ea5133325e",
+          "bytes": 784
+        }
+      ],
+      "permitted_references": [],
+      "attachments": [
+        {
+          "email": "testakten/berlin-versammlung-kiezcamp/04_Anzeige_Mail.eml",
+          "filename": "03_Anzeige_Camp.docx",
+          "sha256": "71eaa6cf4f8c6cbd10c4696f7aef72822b75225552c16830f4cd042bcf935c99",
+          "separate_original": "testakten/berlin-versammlung-kiezcamp/03_Anzeige_Camp.docx",
+          "byte_identical": true
+        },
+        {
+          "email": "testakten/berlin-versammlung-kiezcamp/17_Konzeptkorrektur.eml",
+          "filename": "16_Beschluss_Orga.docx",
+          "sha256": "c79d95bd519764168c33445762e27a33ef6f5a9122c5c480ed9cfc7d6cfe07f9",
+          "separate_original": "testakten/berlin-versammlung-kiezcamp/16_Beschluss_Orga.docx",
+          "byte_identical": true
+        }
+      ],
+      "output": {
+        "path": "lokale-pruefartefakte/probes/03-versammlung-werkstatt-anwendung.md",
+        "sha256": "1766dbaf5f65400e96f2bd4ae3bcc26edef0f0b8f48c7b49e40dee7e72031f4b",
+        "bytes": 15764
+      },
+      "primary_sources_opened": [
+        "https://www.parlament-berlin.de/media/download/3646",
+        "https://www.bverwg.de/240522U6C9.20.0",
+        "https://www.bverwg.de/271124U6C4.23.0"
+      ],
+      "observed_material_gaps_or_limits": [
+        "Keine separat auffindbare maßstäbliche Flächenbeschreibung, obwohl Anzeige auf beigefügte Beschreibung verweist.",
+        "Abholung laut Angebot erst ab 19 Uhr vs Programm Material bis 19 Uhr abgeholt.",
+        "Größere barrierearme Toilette ohne Maße; 31.08 qm reduzierte Standfläche ist keine Gesamtfläche.",
+        "Nachtplan nur 22-6 Uhr; Übergänge und inhaltlicher Nachtzweck bleiben entscheidende Lücken.",
+        "Werkstatt-Prompt enthält bereits sehr aktennahe Fallvariationen und Textmodelle; keine ungesehene Generalisierungsprobe."
+      ]
+    }
+  ],
+  "hash_timing": "Die path/sha256/bytes-Einträge wurden bei Abschluss erhoben; sie sind nicht durchgehend die Hashes der ersten Lektüre. Nach bekannten parallelen Formatänderungen wurden die betroffenen Dateien semantisch erneut geprüft. Nicht aufgezeichnete anfängliche Hashes werden nicht rekonstruiert oder behauptet.",
+  "concurrent_changes": {
+    "reported_by_parent": "Späti-XLSX Spaltenbreite und passende MIME-Anlage; Camp-XLSX Spalten/Zentrierung. Keine berichteten Fallinhaltsänderungen.",
+    "initial_known_hashes": [
+      {
+        "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx",
+        "sha256": "f19c44332a88037ff30bfea543632f025ea7f29a970d72654c3cce58d8260ae0",
+        "basis": "Initial MIME attachment hash and byte match to original explicitly printed during first reading"
+      },
+      {
+        "path": "testakten/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September.docx",
+        "sha256": "06a9c7ccd5191b298c5a59db172495e364c514e096c50aef4c9942dc97502c7f",
+        "basis": "Initial MIME hash and byte match"
+      }
+    ],
+    "initial_camp_xlsx_sha256": null,
+    "initial_camp_hash_reason": "Bei Erstlektüre nicht aufgezeichnet; wird nicht erfunden.",
+    "final_semantic_comparison": "Alle Zellwerte und Formeln beider geänderten Arbeitsmappen sowie Späti-EML-Begleittext erneut ausgegeben und mit Erstlektüre abgeglichen: unverändert. Aktuelle MIME-Anlagen erneut bytegleich mit aktuellen Originalen."
+  },
+  "finalized_at": "2026-10-02T09:11:48.082291+02:00"
+}

@@ -1,0 +1,3432 @@
+{
+  "reviewer": "berlin_gewerbe_neu (independent from assembly case author)",
+  "reviewed_on": "2026-10-02",
+  "status": "passed_after_corrections",
+  "scope": {
+    "cases": 3,
+    "individual_pdf_files": 54,
+    "individual_pdf_pages": 57,
+    "combined_pdf_files": 3,
+    "combined_pdf_pages": 84,
+    "native_docx_files": 24,
+    "native_word_render_pages": 24,
+    "native_xlsx_files": 3,
+    "native_sheet_images": 6,
+    "representations_total": 171,
+    "unique_visually_opened_final_representations": 141,
+    "exactly_deduplicated_pdf_pages": 30
+  },
+  "method": "Every nonduplicate PDF page and every native Word/table rendering was individually opened at readable resolution. No contact-sheet-only review. PDF duplicates require both identical RGB pixels, dimensions and exact extracted-text SHA-256. Final changed table pages were reopened. Native Zeitlinie was rechecked by exact PNG equality to its previously viewed corrected render.",
+  "findings": [
+    {
+      "finding": "Korso time display truncated 15:20 to 15:19 through decimal-hour approximation",
+      "fix": "TIME formulas with ROUND minute differences; native and PDF final values 14:10–15:20/70 minutes and 15:20–15:30/10 minutes visually verified",
+      "status": "resolved"
+    },
+    {
+      "finding": "Numerical cells appeared too close to adjacent text in the Ordner, Camp and counting tables",
+      "fix": "Centered numerical cells and widened first Camp column; final native and PDF images checked",
+      "status": "resolved"
+    },
+    {
+      "finding": "Mahnwache counting timestamps were rendered as decimal values 16.5/17.1/17.4",
+      "fix": "Explicit text timestamps 16:50 Uhr/17:10 Uhr/17:40 Uhr; final native and PDF checked",
+      "status": "resolved"
+    }
+  ],
+  "result": "Readable final artifacts; no clipped or overlapping text, missing glyphs, broken line flow or illegible tables detected. Long-form letters, email headers/bodies, chats and cover pages all reviewed. No residual visual blocker.",
+  "limits": [
+    "This report verifies rendered layout and directly visible content coherence; it is not a complete new legal-source audit.",
+    "No live spreadsheet recalculation or formula perturbation execution was performed by this reviewer; those checks are handled by the root build process.",
+    "The reviewed native renderings do not reproduce every possible Word/Excel version or print environment."
+  ],
+  "pdf_files": [
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "01_Auftrag_Selma.pdf",
+      "pdf_sha256": "5b66db56c4f9a82a476a6fd984ad721ab4fad1e0b21871f3f6e692e5a5c62b49",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "02_Anzeige_Entwurf.pdf",
+      "pdf_sha256": "345bedfa6925d5d4d95b6f5461c6a820f4d5dc149ce4bfb0fd13b0669729b691",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "03_Anzeige_gesendet.pdf",
+      "pdf_sha256": "6ac140703ccf5c0c22756936fccdc02b561a33fea24231041fcbd881c3a38288",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "04_Eingang_Behoerde.pdf",
+      "pdf_sha256": "fdcf53d0b6d53c95551acb508360c501b6226f6311ccbb78d0644e502f1e3fcc",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "05_Chat_Einladung.pdf",
+      "pdf_sha256": "27bbff87faf6b3f8d12c8ed12529f877724a59dc4fb81f6d7b91e929f83424b7",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "06_Streckenkonzept.pdf",
+      "pdf_sha256": "e9cb521af857bb535297623766b96bf2459186c644c9f2afa970ac2dddd50c50",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "07_Einladung_Kooperation.pdf",
+      "pdf_sha256": "85d7c11cfdf546dc5b10c458cb48cd9b4b1ef7fb27ef4db7f5d7114a5b657ccf",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "08_Notiz_Kooperationsgespraech.pdf",
+      "pdf_sha256": "3af4a67bef8315303c0c406879a49eb0eb2a716d61836b48727ae169d23df04b",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "09_Bescheid_Route.pdf",
+      "pdf_sha256": "4149cb8993df7585de4023d6d363473009726453e138e0f05d89c2b5b7487b47",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "10_Zugang_Bescheid.pdf",
+      "pdf_sha256": "34c468652373b4659e7f4a2258ef687ce747cc9b32e2a2ca36d6fef7aa2b5894",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "11_Routen_und_Ablauf.pdf",
+      "pdf_sha256": "a34f1c950f440c734a04af7f5b548406a0eed1f72c91fd96d9dfc4bd8a4f03a5",
+      "pages": 2
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "12_Ordnerbriefing_Entwurf.pdf",
+      "pdf_sha256": "fd995569fc6723a0582a0b59b43dd23a73fe0ed3d7c3919575652c6b13c24307",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "13_Chat_Ordnerwechsel.pdf",
+      "pdf_sha256": "8464eea9fa1eeedc295dd6d194cfbb108da8149e6b59b634b61bc05f06038b45",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "14_Lieferbetrieb.pdf",
+      "pdf_sha256": "d567e043a8a49edce908d31513055c2cc9d9c33a94dceb087294e785a9d27ac3",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "15_Ortsbesichtigung.pdf",
+      "pdf_sha256": "9487906b21a972747800131c3e41c2a5965eeaf17217c5ba91f25d4c3b756c5f",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "16_Bauleitung_Freigabe.pdf",
+      "pdf_sha256": "3e0ffc6142789fc10e98e8088a4148bd253ae2ebbd299a896ca59c23db1295ab",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "17_Freigabe_Bauleitung.pdf",
+      "pdf_sha256": "bce954c7239159073590a422dc2008fad94e18a13a0857e3fca8620adfdf3d22",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-fahrradkorso-einzelpdfs.zip",
+      "zip_entry": "18_Nachtrag_Mandantin.pdf",
+      "pdf_sha256": "b41d275e60c8b16e2f54ad58d54bf9548eec37b0b0b416fbc85e7a7aeba846e2",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "01_Auftrag_Camp.pdf",
+      "pdf_sha256": "8b8d1ebee9912222c63546e680fb2d0a9f0abef8919a485fb3936f83c8314df2",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "02_Ursprungskonzept.pdf",
+      "pdf_sha256": "cf791dc1e456aa6a3ead2336cf4786b3bbefe8862dbcdbd5a2727be0dc48c6b3",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "03_Anzeige_Camp.pdf",
+      "pdf_sha256": "48fd62201beb23f745d284744e73beba464bdcceaf55eb132fcd930421451108",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "04_Anzeige_Mail.pdf",
+      "pdf_sha256": "a5e63ab4932dffa243e1511bb4683b881607fefcf554a868c10151981306e3eb",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "05_Eingangsantwort.pdf",
+      "pdf_sha256": "06042d5b204472d6c3d1dc9bfbf6bed3d3db206030e19a8fff091cf77ef52f3d",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "06_Programmstand.pdf",
+      "pdf_sha256": "f5e99dedc45cc22eaf655ce20644a744d28eea37adf06e4c842d221491cce785",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "07_Chat_Schlafplaetze.pdf",
+      "pdf_sha256": "daaa0838a8fd1c7f0bd4844e7bd850c8ca6d3bf70448c150dca42da5806c6866",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "08_Gaestegruppe.pdf",
+      "pdf_sha256": "4d0d361e7a96954f5f4201e02cf6908b165b69cf06f46af766833e92cd59cd86",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "09_Notiz_Kooperation.pdf",
+      "pdf_sha256": "054e48d5c76c74e733b664c2991f5a0d6844a6e4ef09741433475a78f6748d0d",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "10_Anhoerung_Infrastruktur.pdf",
+      "pdf_sha256": "8839b31b5e714239d3aad48723e4ba227240498538a639930cbb823e1967879f",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "11_Flaeche_und_Nachtplan.pdf",
+      "pdf_sha256": "a1b562c2ed6269e63caf6fb9eaa4d74701678de73d2e21634b6a0fe421795b00",
+      "pages": 2
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "12_Anwohnergespraech.pdf",
+      "pdf_sha256": "900b58d8892be4fdf139ba3a610e99be66db43cb0221d630e7511f185302efdd",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "13_Anbieterangebot.pdf",
+      "pdf_sha256": "4b9bf1db96c58b40ec3dc73a0fc7b9602968d764c8033c504a8b76221c97e766",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "14_Chat_Konzeptkorrektur.pdf",
+      "pdf_sha256": "addea2b6a089cea3e482d64573f698d51b417f1c6300094ffe4a09acd8269218",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "15_An_Gaestegruppe.pdf",
+      "pdf_sha256": "4c6dc9c074a1df53d4e9d68f0907e240e18cfaffaca30ac61c608d31db0b86ea",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "16_Beschluss_Orga.pdf",
+      "pdf_sha256": "d61d27fc7c76be62a67db6428111000289e8dcb3ea6e47f1208de89b77f41f98",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "17_Konzeptkorrektur.pdf",
+      "pdf_sha256": "79902002d9181a85735df19ac6282c9acb85693f10099de9aa95c4f0266789d3",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-kiezcamp-einzelpdfs.zip",
+      "zip_entry": "18_Rueckmeldung_Gaeste.pdf",
+      "pdf_sha256": "4891cc775625ad10e49d4d298bf7422c026cc97507e38337d5a654e3bd191673",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "01_Auftrag_Mahnwache.pdf",
+      "pdf_sha256": "d24c18053c78c3a5df5681240f0b58ea178158a5bcdbea4337a9f6e40aeb1d1b",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "02_Schliessungsinformation.pdf",
+      "pdf_sha256": "38e3024587e70b1ad71cdbf1531b1472cab4ace3ceed217314e4a5db1bbab3f9",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "03_Anlass_und_Einladung.pdf",
+      "pdf_sha256": "9d224bb3f4898f5a455dd191b885cedf495d1d320e43ccfc4e7b2dbcde009c07",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "04_Mail_an_Polizei.pdf",
+      "pdf_sha256": "e46a1b5b9fcaf7b6700b9dbf1bc0f3c46d810ceacc93a8a373ffdbd2d56f69d3",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "05_Automatische_Antwort.pdf",
+      "pdf_sha256": "5662be0f6086158c66353720500ac94680777293b0b698853f1667eb40157cc3",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "06_Chat_vor_dem_Anlass.pdf",
+      "pdf_sha256": "9da627885f6a0acfc666725dc2df9f2f065694eb3259334377a7c7dd989b595e",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "07_Telefonnotiz_Anzeige.pdf",
+      "pdf_sha256": "7672a9b5a39b57c65e8af8703ed1ee59d4224575cea00b66857f0b600da494e5",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "08_Bibliothek_Rueckmeldung.pdf",
+      "pdf_sha256": "09f58012aae710f32a94649ae47e15e76f2f6b8298267328fe9f064119a1fe24",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "09_Ablaufnotiz_Malou.pdf",
+      "pdf_sha256": "c49cb52a786d2b59a7d955a74bbd93276fabe015432ddab9846ad6c6154cc182",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "10_Erinnerung_Farid.pdf",
+      "pdf_sha256": "a64db4acc280733d5b5144498ba57b2174dc520c861f34c19ad590b58582b971",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "11_Chronologie_und_Beobachtungen.pdf",
+      "pdf_sha256": "de077ac45d6c0d55ee4d60ddb1acae32f526ab3ee20e76cf06a7eb196af2d3b1",
+      "pages": 2
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "12_Nachfrage_Veranstalterin.pdf",
+      "pdf_sha256": "681efc3331705f6ab3ebb08df5e0bc71bdbb2d3cc0713ac13315316cc7e139f7",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "13_Notiz_Kamera.pdf",
+      "pdf_sha256": "203173d103783c9b7e8c0d23017fb43320a215fc8971c1e8938dd5da35c5c315",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "14_Chat_nach_Mahnwache.pdf",
+      "pdf_sha256": "157dbde04cea7f0b519fd62e8f46f7fcd38dae783a97b8954768b02f8e1a92be",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "15_Zwischenantwort_Polizei.pdf",
+      "pdf_sha256": "70f0aaadbfd1b1e1ecfd9229f059a445402894313316e863ddef0677b0961353",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "16_Zeugin_Erinnerung.pdf",
+      "pdf_sha256": "8150af52859d1de0883dcf6964163945e3e78a5e00ee1b8fdd80833e8e6a4a1c",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "17_Antwort_Kanzlei.pdf",
+      "pdf_sha256": "13d0a4253c1ba06b1aa928e565b2be671f10be79e2243a6b9ca6758435b6f04f",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "file": "lokale-pruefartefakte/dist/testakte-berlin-versammlung-spontane-mahnwache-einzelpdfs.zip",
+      "zip_entry": "18_Letzter_Nachtrag.pdf",
+      "pdf_sha256": "9803db987fa90071e646e86b375c955d3ecb32e97f96bacc96613121154616c0",
+      "pages": 1
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "file": "testakten/berlin-versammlung-fahrradkorso/gesamt-pdf/berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "zip_entry": null,
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "pages": 28
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "file": "testakten/berlin-versammlung-kiezcamp/gesamt-pdf/berlin-versammlung-kiezcamp_gesamt.pdf",
+      "zip_entry": null,
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "pages": 28
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/gesamt-pdf/berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "zip_entry": null,
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "pages": 28
+    }
+  ],
+  "native_source_files": [
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/01_Auftrag_Selma.docx",
+      "sha256": "951bf604e9fc8789c3ddbd15b1e44300097a5e5834c5dc5c789504a8a05e2011",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/02_Anzeige_Entwurf.docx",
+      "sha256": "755c7d7495e9439d480201089c673626e99a4728701470a62bbfad512b00633c",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/06_Streckenkonzept.docx",
+      "sha256": "0423c12153c530b9e82270b07b019486802cb188d2261c7e237c4690927defd2",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/08_Notiz_Kooperationsgespraech.docx",
+      "sha256": "fcfeccafdf1e1e3eb59c107a425c6eaacf7babe410fe8fab3bf2cde93a1500d1",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/09_Bescheid_Route.docx",
+      "sha256": "703d27124abbc4351f7050e6bfd539b7f9f70d634746114519a5f53073bf3065",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/12_Ordnerbriefing_Entwurf.docx",
+      "sha256": "36c459715d3659d6aff52fce783fcf55f451d4bf7ce180f62cdb80eb7848641b",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/15_Ortsbesichtigung.docx",
+      "sha256": "6aaae0f9cb589c604502b72772681fdad0d009e4add3408c4e4cca6f8dab0077",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/16_Bauleitung_Freigabe.docx",
+      "sha256": "99653acce1a96fafcb56d54c6729c70e22dcdd1e3688f01a19f63308651c3bc2",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-fahrradkorso/11_Routen_und_Ablauf.xlsx",
+      "sha256": "21d3429414f11299cc3e16c240355a8cd4dccba73efd4938a9caaea4e13704b3",
+      "kind": "xlsx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/01_Auftrag_Camp.docx",
+      "sha256": "c49ce3a40922c0eb3b97fa7cc5f74e09d7882241c3ca27a3e19393c850d2185b",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/02_Ursprungskonzept.docx",
+      "sha256": "8c7c11e752f0981ae26f3732d3135d7827395f2d595bdbf057aaff5784bd6a3f",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/03_Anzeige_Camp.docx",
+      "sha256": "71eaa6cf4f8c6cbd10c4696f7aef72822b75225552c16830f4cd042bcf935c99",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/06_Programmstand.docx",
+      "sha256": "db44c241e71fec47622da69cd05465d9cb48b154cfe599717fbfd6db7c523024",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/09_Notiz_Kooperation.docx",
+      "sha256": "7478d0d7a4b8ba31a0fd7a061820cfd4c6af15b19f4ac4c061968dbc58a29abb",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/12_Anwohnergespraech.docx",
+      "sha256": "80f919d4e89569358af3452fc478c124a6ab296cef0740ace85b4185311fd3ec",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/13_Anbieterangebot.docx",
+      "sha256": "48228d049f945b21a148b2c6e12d1f1d89735b2d620e76d9d92582fb1bfdf833",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/16_Beschluss_Orga.docx",
+      "sha256": "c79d95bd519764168c33445762e27a33ef6f5a9122c5c480ed9cfc7d6cfe07f9",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-kiezcamp/11_Flaeche_und_Nachtplan.xlsx",
+      "sha256": "0d1ed31a4f6a80a5c96b21c18d386d3cd87839b7becc46958c4925e65e327fb0",
+      "kind": "xlsx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/01_Auftrag_Mahnwache.docx",
+      "sha256": "f281273f0f3b1250c6a0d0f44a709dcea2b3283c08a510a2f884d5b008f1a9f3",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/02_Schliessungsinformation.docx",
+      "sha256": "e437d43a0b751f91219515e0e0c09126173fb4bdd60dc562b78e25dac3b25e3b",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/03_Anlass_und_Einladung.docx",
+      "sha256": "60c853fd21529aa25a6a304c7eb20af012729960612d9bf1d961dbfe08aab848",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/07_Telefonnotiz_Anzeige.docx",
+      "sha256": "406a94a1e3fb639d1b04e5d7629248bd7a42f1ecd1756355965786d4e7cf0ddc",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/09_Ablaufnotiz_Malou.docx",
+      "sha256": "7502e24ffe154bc706a92650ece014030ba88f02c4d95214816a7b87f0e82b07",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/10_Erinnerung_Farid.docx",
+      "sha256": "5802cacc6f6873d5ac7c0fd33af962e0a1da4a83e32478506623a4368944c448",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/13_Notiz_Kamera.docx",
+      "sha256": "53856602e52850f47f7373b221758b33f4ced81d104aab2053dcc6ed0881bb1d",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/16_Zeugin_Erinnerung.docx",
+      "sha256": "4b909ebe5744841d13e21797bd931e993856a084d81f49d2179c2081a4e9b4f1",
+      "kind": "docx"
+    },
+    {
+      "file": "testakten/berlin-versammlung-spontane-mahnwache/11_Chronologie_und_Beobachtungen.xlsx",
+      "sha256": "3954d6f8da5fd68f49bdeacce5ba9b548a316878df6038168e9be811b467fa97",
+      "kind": "xlsx"
+    }
+  ],
+  "visually_opened_pdf_pages": [
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Selma.pdf",
+      "pdf_sha256": "5b66db56c4f9a82a476a6fd984ad721ab4fad1e0b21871f3f6e692e5a5c62b49",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/01_Auftrag_Selma/page-1.png",
+      "png_sha256": "f1680b1b97d0b5ef37370f71c6a9ebb9774595d1ba28861746b866509bb63611",
+      "pixel_sha256": "7381a871737ae18312a957d060cb209be3b87fd0b206f092792e901d68595688",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9c8655728b1523ccd4dcb02aff4efa2097d1cdb5bc313dcd6c6dff6805286437",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "02_Anzeige_Entwurf.pdf",
+      "pdf_sha256": "345bedfa6925d5d4d95b6f5461c6a820f4d5dc149ce4bfb0fd13b0669729b691",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/02_Anzeige_Entwurf/page-1.png",
+      "png_sha256": "9bfb756af4219b55ca1d84f13a923cf601450c9b761f19008845bad9e0e7491e",
+      "pixel_sha256": "11918195f8dab40d5fcc057b1d6bc7e5fd6dbeaaf83433e5dcd151209513e3fc",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "5f904d0b1993b1a8863d7af9f98dc7932801c00e8ce30df72755799910406674",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "03_Anzeige_gesendet.pdf",
+      "pdf_sha256": "6ac140703ccf5c0c22756936fccdc02b561a33fea24231041fcbd881c3a38288",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/03_Anzeige_gesendet/page-1.png",
+      "png_sha256": "f6cbca54af625b9e3ffe1495e3acb23cf63e372e359d94d1ff257d8c98eb6555",
+      "pixel_sha256": "0fd3e5b9022fe58bf80409e94086297895b3e5f139bb75a21ae7fa64794e6831",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "5160ae32bf08f8cdf3097e77a46b5c01abf9f203f05b32cce3ab00e1a21bac0c",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "04_Eingang_Behoerde.pdf",
+      "pdf_sha256": "fdcf53d0b6d53c95551acb508360c501b6226f6311ccbb78d0644e502f1e3fcc",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/04_Eingang_Behoerde/page-1.png",
+      "png_sha256": "0c730dd93ca2d481e5cd48716299ee6b3643af62aedacad517717f459869861d",
+      "pixel_sha256": "0c5760e183398d2f45b6cf2c9dfe453c721f09d0f31df894671e5fb28f94dd1d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ddb36d2acc20164964152ff917463a4a7bd22aa49c301ace455cdbb4af1f9208",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "05_Chat_Einladung.pdf",
+      "pdf_sha256": "27bbff87faf6b3f8d12c8ed12529f877724a59dc4fb81f6d7b91e929f83424b7",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/05_Chat_Einladung/page-1.png",
+      "png_sha256": "f6c14f2487f0577c3d1d08b7859b8975d468eee2a8767594e9495440ae855446",
+      "pixel_sha256": "54b55bb131760321274ca7136d78300dae6276cf3db0036a891ebc642622b9cf",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "feb2ea650ca86432e66202d6d5644b614a1c4708aa83c63fd8b717b488877c45",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "06_Streckenkonzept.pdf",
+      "pdf_sha256": "e9cb521af857bb535297623766b96bf2459186c644c9f2afa970ac2dddd50c50",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/06_Streckenkonzept/page-1.png",
+      "png_sha256": "e7d655b0725258ab9cab2e9dc943d2a68a2c43cd0080449a9e56a383e2a7c9de",
+      "pixel_sha256": "badc2135c3d39ead11c14e17c5423439dd455ebaeff9f99b13d2583b12da1a6e",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "c5ae142b948988d66563562e4a07881ce60c293d9adb04bfd38004d577bae87b",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "07_Einladung_Kooperation.pdf",
+      "pdf_sha256": "85d7c11cfdf546dc5b10c458cb48cd9b4b1ef7fb27ef4db7f5d7114a5b657ccf",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/07_Einladung_Kooperation/page-1.png",
+      "png_sha256": "a36780e2b1d0a21914be7a876fcbdfdfbe46dd866135542c45113060b6b2c8d4",
+      "pixel_sha256": "1a77d5fd405bc6cce9233736822971b60a1e229af4bd2e6ea67f0019e22124de",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "36fc5283b019875302f657ff1b41bb5cd142b3a4bb5d395bf4b7812e2489ab15",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "08_Notiz_Kooperationsgespraech.pdf",
+      "pdf_sha256": "3af4a67bef8315303c0c406879a49eb0eb2a716d61836b48727ae169d23df04b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/08_Notiz_Kooperationsgespraech/page-1.png",
+      "png_sha256": "ffbc8a89e336ae47de2ed37cc4a980b1dfd573aa6fba2d4b9251c418fd86bd3f",
+      "pixel_sha256": "77a17f825913f41685341f098dac20e6ac1d06c826fb2b165874899d33fed8d3",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9c4431b67f5c7eb54d4a5237fb88a209834368fc94f772621a6e7ac8902d337d",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "09_Bescheid_Route.pdf",
+      "pdf_sha256": "4149cb8993df7585de4023d6d363473009726453e138e0f05d89c2b5b7487b47",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/09_Bescheid_Route/page-1.png",
+      "png_sha256": "3c359659551c3ca60b2e976e887b00839187cf88a02f7e520c608d744ba45811",
+      "pixel_sha256": "602072cdcde3660feea78f227558f51f08e87bdb91692c9430190b6d7b8d154a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "4420aa39f187d1f08ce62d695afc8ad62d8e5bdb935a536076f696c9b9d1f603",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "10_Zugang_Bescheid.pdf",
+      "pdf_sha256": "34c468652373b4659e7f4a2258ef687ce747cc9b32e2a2ca36d6fef7aa2b5894",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/10_Zugang_Bescheid/page-1.png",
+      "png_sha256": "c9d6323f6662a11be72556e52ef6a69f36e2033aed1e48a7e1473879a58df290",
+      "pixel_sha256": "6e50ca7e8cbd15ca950ada5e691fa03e15d5f695e0ac007e0a6858b51bce1b33",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "71d9e2bc3de17c819d331903e2af7917968c4a62d8a1067e6a4d75a1731d28ba",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "11_Routen_und_Ablauf.pdf",
+      "pdf_sha256": "a34f1c950f440c734a04af7f5b548406a0eed1f72c91fd96d9dfc4bd8a4f03a5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/11_Routen_und_Ablauf/page-1.png",
+      "png_sha256": "dcf08239ba0421b630524f3ba424f139bb60f8a0ad6293325f19f87f40671ab9",
+      "pixel_sha256": "17c2146c35ca7175b3cdbbd26014ef38a5ed2c484174de22d469f6ab8401379a",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "46edcbdc9c8a4f3937ed62311ec84418c11c3c01650433ba0370cb685a85cca3",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "11_Routen_und_Ablauf.pdf",
+      "pdf_sha256": "a34f1c950f440c734a04af7f5b548406a0eed1f72c91fd96d9dfc4bd8a4f03a5",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/11_Routen_und_Ablauf/page-2.png",
+      "png_sha256": "f76b4bc0d9bfc067c3cd449f1a53543b24e54eb9837ed985478237771f921a04",
+      "pixel_sha256": "91d8a1c78a114feab7269e314e9475e8e7fbe7cba71fe0c858233ba190c9dc6f",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "8a608133947249364a442b777ba0787d695185fed9649b293e2f885bfdf7a1be",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "12_Ordnerbriefing_Entwurf.pdf",
+      "pdf_sha256": "fd995569fc6723a0582a0b59b43dd23a73fe0ed3d7c3919575652c6b13c24307",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/12_Ordnerbriefing_Entwurf/page-1.png",
+      "png_sha256": "e96d2f38fdd57d76cf4b066278d771ceb1a72c9033279ab5340afb1e915cc108",
+      "pixel_sha256": "028cc537339ce3947a0a45e2cf3fa69316d770610a561c1be9ccaf1fd4506a14",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "0a122a2928cf156b126e5c2f6220a1e9ea159400c58d387fe033767207f4ffbf",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "13_Chat_Ordnerwechsel.pdf",
+      "pdf_sha256": "8464eea9fa1eeedc295dd6d194cfbb108da8149e6b59b634b61bc05f06038b45",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/13_Chat_Ordnerwechsel/page-1.png",
+      "png_sha256": "8c1fa06f8dce33acf5530f3f1739d765a7f246ba3e7477cdac3e1f4f8755965c",
+      "pixel_sha256": "7a4bd2253bd39a6db7f2f233c0d3d01b4963a6569873ad3925d76f12b0069211",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "54a5326c4749659dbbd47e28b711e34c256093a6e4cadacd61848ae56fbb48e2",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "14_Lieferbetrieb.pdf",
+      "pdf_sha256": "d567e043a8a49edce908d31513055c2cc9d9c33a94dceb087294e785a9d27ac3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/14_Lieferbetrieb/page-1.png",
+      "png_sha256": "5b4e9f59e0b05f607bd058871f89a54c51248b9936069e1c105bd5aa1a612ecf",
+      "pixel_sha256": "9097a8e6157f66fb14f6747bd64fac7366f9cfcfc530122eecd1bd41a390d60b",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "09ff22d83c356eb8fb8ddafe458dc8dcf55da5459042b34a104b84d8671ca0c9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "15_Ortsbesichtigung.pdf",
+      "pdf_sha256": "9487906b21a972747800131c3e41c2a5965eeaf17217c5ba91f25d4c3b756c5f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/15_Ortsbesichtigung/page-1.png",
+      "png_sha256": "1599b714796edc703b091f2a344348b43c91a148cddfb57f24af0b964abb7699",
+      "pixel_sha256": "b2d46742546a12069dd8a0388eed4e9f353cb032471aac5c15a644aef035b062",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7958956d6561a4dfc598a5cb5473a6222f5a13bb7dce8799cafa4f1b3ab9f778",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "16_Bauleitung_Freigabe.pdf",
+      "pdf_sha256": "3e0ffc6142789fc10e98e8088a4148bd253ae2ebbd299a896ca59c23db1295ab",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/16_Bauleitung_Freigabe/page-1.png",
+      "png_sha256": "12a037685a66fde53095911ce0fe9dcac452435ba4ddf970d2e333ada066d7c9",
+      "pixel_sha256": "e385c78f5b97b6664abdfae631698e1b0d46baae7a130f136339e3c4381409ae",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "b4e4c09c1741cc5f32fa91fcf9ff0fc7fb0606a68c10973f07378a322deb6141",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "17_Freigabe_Bauleitung.pdf",
+      "pdf_sha256": "bce954c7239159073590a422dc2008fad94e18a13a0857e3fca8620adfdf3d22",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/17_Freigabe_Bauleitung/page-1.png",
+      "png_sha256": "799c5f72840777d6ef27fa9489be7007bf82fcfda2fd47b0790f65dfbdf04667",
+      "pixel_sha256": "bb5e1e84707dc85aa4b2d98dee66ab6da3e85ae573bfbe193c1ad9520669607f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "4cf647d304e040bbfa27cb2d38701fba52f9ba7bfdc878189b35a448227f18dc",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "einzeln",
+      "pdf": "18_Nachtrag_Mandantin.pdf",
+      "pdf_sha256": "b41d275e60c8b16e2f54ad58d54bf9548eec37b0b0b416fbc85e7a7aeba846e2",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/18_Nachtrag_Mandantin/page-1.png",
+      "png_sha256": "5973af940a86e5a809da7389d933680c856759d054726d0702de2d51513dee1d",
+      "pixel_sha256": "ff3af76d9581fbfda7635e7aa648e6d07ea94d23aee15725487c1d7c1c85484f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "1c5a97b731f6e8fa2698cdaf2765b0bf6e9c77e5b5cd9dcbf7d05c149c68059f",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Camp.pdf",
+      "pdf_sha256": "8b8d1ebee9912222c63546e680fb2d0a9f0abef8919a485fb3936f83c8314df2",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/01_Auftrag_Camp/page-1.png",
+      "png_sha256": "510b86688982c715ccfe26d77be16cd76ee272cde85b865214a9c57eac9d673a",
+      "pixel_sha256": "aac566dce0f8e284c5703d5bf7a024ecd879e769692abf65115421782ef590cd",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2bd99d659eaa16715f43eec6b3646a3b8cdb5914730341df675158a47ae91e98",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "02_Ursprungskonzept.pdf",
+      "pdf_sha256": "cf791dc1e456aa6a3ead2336cf4786b3bbefe8862dbcdbd5a2727be0dc48c6b3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/02_Ursprungskonzept/page-1.png",
+      "png_sha256": "2acd4505f241378fa67145983f9f228c13eebbd4c06e335bd8a41e12dfb5f62c",
+      "pixel_sha256": "cc8c03de286e04ed191967e4e32c2570f2390f69daa0de3df92c2b9475d10224",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "d8ea40860922d997192f205c32aef549a5eeaaf29b764bc6222871a2a96050ca",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "03_Anzeige_Camp.pdf",
+      "pdf_sha256": "48fd62201beb23f745d284744e73beba464bdcceaf55eb132fcd930421451108",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/03_Anzeige_Camp/page-1.png",
+      "png_sha256": "94312915c17ab5fe402fa2a3fa7858981dfb81ef45bf67c65d2903b2f9433cd2",
+      "pixel_sha256": "5ab84d34b7abec3b127cb67a67ad3195681608ab39790ce71687b1546411d1fd",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "8b8f1db7a35ad8ce77d7ba89aa58e7912b84924c1aee081a8070ec97a2266ead",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "04_Anzeige_Mail.pdf",
+      "pdf_sha256": "a5e63ab4932dffa243e1511bb4683b881607fefcf554a868c10151981306e3eb",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/04_Anzeige_Mail/page-1.png",
+      "png_sha256": "343abcff15eb9a14bcd42a034c07fff543a0a542e10617e41a827ced926ea0e8",
+      "pixel_sha256": "68544e563469bee2639f6ed6173d4192b023612a02db6781de4b2ff7dc67e84d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e75190385c5c4fe26a7a5bc25193cb52bf609d834ef2597c8a19e31a7d97f826",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "05_Eingangsantwort.pdf",
+      "pdf_sha256": "06042d5b204472d6c3d1dc9bfbf6bed3d3db206030e19a8fff091cf77ef52f3d",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/05_Eingangsantwort/page-1.png",
+      "png_sha256": "b2a24da1b0b957d45e0b341c30bd30b66fc4377b56ed8e62e3fddfbcdeaba8f6",
+      "pixel_sha256": "2709183cd3163505b09b33a1e9f1a9c01813c1d766b0e24006b42726b3a33ecb",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "0bd552707a2484abefe84206490108e9d64ca953f1b403af9e55a535ea9de1fe",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "06_Programmstand.pdf",
+      "pdf_sha256": "f5e99dedc45cc22eaf655ce20644a744d28eea37adf06e4c842d221491cce785",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/06_Programmstand/page-1.png",
+      "png_sha256": "03a31a3caa5356d21eb8bcaecd2ef043890ab642800baacd5a338b73a84ed0d4",
+      "pixel_sha256": "f20114f06200ff6ea42fa8681287f069262f91dc8a9789de4d8bc9d6ab4c99be",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "3592d04ebcf061883a3184cb052233905cddcf444403b32c546b334ae30385b3",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "07_Chat_Schlafplaetze.pdf",
+      "pdf_sha256": "daaa0838a8fd1c7f0bd4844e7bd850c8ca6d3bf70448c150dca42da5806c6866",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/07_Chat_Schlafplaetze/page-1.png",
+      "png_sha256": "5a0979267070b3d80b27d3551cdaf3be240678b42003a4bfb094e88a6532dedb",
+      "pixel_sha256": "cdcd0cac514b850c608f4d2d453fed6cccdec57e0f764947f0edfd5fbab7a6fa",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "62727cda208349949cd7348509d8054f5f2cdce2f79512a1455beb46c188c1a0",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "08_Gaestegruppe.pdf",
+      "pdf_sha256": "4d0d361e7a96954f5f4201e02cf6908b165b69cf06f46af766833e92cd59cd86",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/08_Gaestegruppe/page-1.png",
+      "png_sha256": "91240d63ef8c530aaeacb9c430b7775ec5e69bc29ef6eca895abc2250684f8e3",
+      "pixel_sha256": "453215957a62cba98c6412568c77ac54dfb2052d467ef0ac754073dd0bbf81f3",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "25c285b028fbacfbf92e41aa6a17909c4e89cf2f36757a33fa689f502ccc3726",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "09_Notiz_Kooperation.pdf",
+      "pdf_sha256": "054e48d5c76c74e733b664c2991f5a0d6844a6e4ef09741433475a78f6748d0d",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/09_Notiz_Kooperation/page-1.png",
+      "png_sha256": "ba8c41eb86d06bff5f210c20a4e92b867bfdae9b826a5e4539d4168491039ccc",
+      "pixel_sha256": "1d5cc65388425a7b84cae5f110794386063611ffdc4a844f59170e27223bbb9c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "fa00edbcb01ac845532d174e71f58e59f8b241950da02bea4ef7f11df9b6c00c",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "10_Anhoerung_Infrastruktur.pdf",
+      "pdf_sha256": "8839b31b5e714239d3aad48723e4ba227240498538a639930cbb823e1967879f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/10_Anhoerung_Infrastruktur/page-1.png",
+      "png_sha256": "454709be4b8f5c1e1d705b1af6c709a1bad89b9854618387d97fc4cc10386252",
+      "pixel_sha256": "39d3110a93f375956553d4f0ad523f4878fc2cde76f8865cb38f49a9651dfc37",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ea217fc5fd039fe59587feb9a6a6ecc9d8996dabf3109064385f0c12586514cf",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "11_Flaeche_und_Nachtplan.pdf",
+      "pdf_sha256": "a1b562c2ed6269e63caf6fb9eaa4d74701678de73d2e21634b6a0fe421795b00",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/11_Flaeche_und_Nachtplan/page-1.png",
+      "png_sha256": "d5aaa53775fd969fbea13e5f1dbccb957f745346c397f8f6db3e3eed22f65a22",
+      "pixel_sha256": "c69ef1938bd3fb98423be59ac3a1842e0dbaa390bf55b5224412a263c985aa2d",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "260a629fb239fb8b18e9c31a99050f4baf17734b6ca94e179faf1b1749600342",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "11_Flaeche_und_Nachtplan.pdf",
+      "pdf_sha256": "a1b562c2ed6269e63caf6fb9eaa4d74701678de73d2e21634b6a0fe421795b00",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/11_Flaeche_und_Nachtplan/page-2.png",
+      "png_sha256": "0b603e0c07d71e99d87521cde7c1eca57de9b511b12b857396730c4ea8f7fc10",
+      "pixel_sha256": "000615365456356afb4f43ef8bf126dd177d206560502c01bd85b95f1e197ede",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "b0ef7e7b47b95a251fdc1ab6680bb5b6467bf358bbeda323706b199048c06cc5",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "12_Anwohnergespraech.pdf",
+      "pdf_sha256": "900b58d8892be4fdf139ba3a610e99be66db43cb0221d630e7511f185302efdd",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/12_Anwohnergespraech/page-1.png",
+      "png_sha256": "330cf3dc8ebbf5b0957cbdb9189e8fe108b385391ffa11738c6c9e57bdd7fdc8",
+      "pixel_sha256": "6ec82a277afb674df8bb1fb8d9c4b379b0264e21256e72688de4648bad864203",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bae54cbda29c3c7ebbc561a47ffa719e86542c66868541df9dae7abf2b8d8dec",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "13_Anbieterangebot.pdf",
+      "pdf_sha256": "4b9bf1db96c58b40ec3dc73a0fc7b9602968d764c8033c504a8b76221c97e766",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/13_Anbieterangebot/page-1.png",
+      "png_sha256": "0ad9b220ac2cdace9cff6c49dbac78d6d0d476940194085b86186264428cf191",
+      "pixel_sha256": "9cddf67a84b04cfec3d3519e3d7099a16f4bedd60f4db80ffbd542d1c0b24c48",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "f1070e5595abfe9c254acf1e2f73c57a60e013bbb2208405b46f8c57e47a7a7a",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "14_Chat_Konzeptkorrektur.pdf",
+      "pdf_sha256": "addea2b6a089cea3e482d64573f698d51b417f1c6300094ffe4a09acd8269218",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/14_Chat_Konzeptkorrektur/page-1.png",
+      "png_sha256": "a5f8e30f4a55ca367b067d75ffae7891e31c5ac4143c328ab9c61fc60522c6a3",
+      "pixel_sha256": "a142d919dcf3ac242cf5bcdd74b7586cc6f646edeac01a4d2329a493b5d5a342",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7694b54ebfd84f517a7aa2dc0c195a23b6bf5ed8e637070bf6cb8aed27fc439b",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "15_An_Gaestegruppe.pdf",
+      "pdf_sha256": "4c6dc9c074a1df53d4e9d68f0907e240e18cfaffaca30ac61c608d31db0b86ea",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/15_An_Gaestegruppe/page-1.png",
+      "png_sha256": "d9fb979ec564021662dd39cadb898f06cd79632289975e9b30a63b72a235f48e",
+      "pixel_sha256": "7c82466076de18d0406112964a9a04b64687914b38e23a925df2030cf2de860f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "8196fde1a93461b8c944172c21e9e944c4c59e81c4b85f7fa2e1be4df8d029c3",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "16_Beschluss_Orga.pdf",
+      "pdf_sha256": "d61d27fc7c76be62a67db6428111000289e8dcb3ea6e47f1208de89b77f41f98",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/16_Beschluss_Orga/page-1.png",
+      "png_sha256": "75ff0a859dd332ba2f3164dc702059a55702d2801238600251db2a35e8f7bce6",
+      "pixel_sha256": "b10dbe534cdc367002344cc616bd24be58f81dcf6c7b6c7d44e1024e27e10f4a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "80f726b54942c9829b168ea0b4c890637dcc7064670e1e73cb6ab13adbc63336",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "17_Konzeptkorrektur.pdf",
+      "pdf_sha256": "79902002d9181a85735df19ac6282c9acb85693f10099de9aa95c4f0266789d3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/17_Konzeptkorrektur/page-1.png",
+      "png_sha256": "0128dafaff28ed7c73add2fcd1e39419802e9b30924f73dc0a593ccb796365c0",
+      "pixel_sha256": "9756941c337b2b094839401b7ab0f1c19023714e14611eeb1d591ad2a7e289e6",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bd3399a51d34de80cfbcd7d3d90fc6759dfb7ccee00735866d624af4ea2f0fd3",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "einzeln",
+      "pdf": "18_Rueckmeldung_Gaeste.pdf",
+      "pdf_sha256": "4891cc775625ad10e49d4d298bf7422c026cc97507e38337d5a654e3bd191673",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/18_Rueckmeldung_Gaeste/page-1.png",
+      "png_sha256": "6d89a935f1aee795cfcce76bf13a7413feb75dcdccb962ff0b4a26d2471f4a50",
+      "pixel_sha256": "f9872c2895ec610a6967bb0d992e61278e4ba9f17fc26cc79f252b5587adeeab",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "c52b72242fd65418de14e2fb2ee1c551b6d2a9204f0214d5dfcb83cf233edae2",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Mahnwache.pdf",
+      "pdf_sha256": "d24c18053c78c3a5df5681240f0b58ea178158a5bcdbea4337a9f6e40aeb1d1b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/01_Auftrag_Mahnwache/page-1.png",
+      "png_sha256": "23b5c835836e437a452c4edfedc0771ff6d39386347c1ec875c9cc90cf690d06",
+      "pixel_sha256": "3c951c6344fd639985d3170562d31be32fc3ecfbf8292951031f0c7d05d4185d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2fafc6443fa924992461a8bcae7e3e12bb1f4e97b7c075425df5f290d0d26173",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "02_Schliessungsinformation.pdf",
+      "pdf_sha256": "38e3024587e70b1ad71cdbf1531b1472cab4ace3ceed217314e4a5db1bbab3f9",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/02_Schliessungsinformation/page-1.png",
+      "png_sha256": "e93cf406bf2021f23dfabf46b0f9a751c0356863370c036ba536f66dd9b7995e",
+      "pixel_sha256": "b54c0b95ef76ee23a4386d684d87772cd543d1e4ea231c723a1b444c33020b80",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ad2c5bc9ba617a1df0cbb88c5b4c5d22716051c895c871002fec05ffd9de96ea",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "03_Anlass_und_Einladung.pdf",
+      "pdf_sha256": "9d224bb3f4898f5a455dd191b885cedf495d1d320e43ccfc4e7b2dbcde009c07",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/03_Anlass_und_Einladung/page-1.png",
+      "png_sha256": "bc33bf0cbc01bb6dde362aa31bade1334e222c81c3a2df7ba4443e0d813274f8",
+      "pixel_sha256": "2408dab9f7f56773e9314bf48d9df3d45b2a8be4d44e15c0262f2eafb6a56816",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "a0dbdf85cc0fa0b5999d3cefe7a1aa0a855efffd19314aa24f4cd09a3da51956",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "04_Mail_an_Polizei.pdf",
+      "pdf_sha256": "e46a1b5b9fcaf7b6700b9dbf1bc0f3c46d810ceacc93a8a373ffdbd2d56f69d3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/04_Mail_an_Polizei/page-1.png",
+      "png_sha256": "9e41fff19e71dd3d49f9ae35c1ea43106bfee7e4deb91232258fbb32b57255dd",
+      "pixel_sha256": "679849769b065cee03f10634f76a88af4e2a8dbd2b76b2c4ddbd0b089fcb757f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "eaf1d0344e80685440c2322f2c813ed0bb0a09b546dca27f0098e86089f42736",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "05_Automatische_Antwort.pdf",
+      "pdf_sha256": "5662be0f6086158c66353720500ac94680777293b0b698853f1667eb40157cc3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/05_Automatische_Antwort/page-1.png",
+      "png_sha256": "ed9f990182deb1704381ce0b7ac1c351fc62a4d285bc8e03d29d2cb14888b45e",
+      "pixel_sha256": "4236459ccad299af636503b2f997c93da9e2c04bab56c9db15a0c5ae5eb9ff31",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "a73a2456092fe79e835f5e5d2444ca4e7e7ccf3735d4a6d8204b0d386cad8f43",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "06_Chat_vor_dem_Anlass.pdf",
+      "pdf_sha256": "9da627885f6a0acfc666725dc2df9f2f065694eb3259334377a7c7dd989b595e",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/06_Chat_vor_dem_Anlass/page-1.png",
+      "png_sha256": "cc962d10a740edfc546f611f6c2d432615ec3473701ad696678e0eafb804dbca",
+      "pixel_sha256": "4d1d1c403c82e6426258475fcd043732ce0e152b4ae973559013fb41db53e7a9",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2a4f27250b3df78a733ff16396019c8f74a73a5c73e595667054e2368814ab13",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "07_Telefonnotiz_Anzeige.pdf",
+      "pdf_sha256": "7672a9b5a39b57c65e8af8703ed1ee59d4224575cea00b66857f0b600da494e5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/07_Telefonnotiz_Anzeige/page-1.png",
+      "png_sha256": "14abc4e4a4aaf7b52218514592f5d01f47396cf417286aa4920c12b640a1637a",
+      "pixel_sha256": "abe9396d25cc8ca86b43085f8c42ab761ab64735766a0b3ebe5e297dd312da29",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "1b0acc66d3e0695bbd65db88cd981efb6c12660fdf0036190a39efd50f9ecb57",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "08_Bibliothek_Rueckmeldung.pdf",
+      "pdf_sha256": "09f58012aae710f32a94649ae47e15e76f2f6b8298267328fe9f064119a1fe24",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/08_Bibliothek_Rueckmeldung/page-1.png",
+      "png_sha256": "eaf48ce5eedcb93f7518f5eb61902bb54f8156b821ada72c55b22c591a261716",
+      "pixel_sha256": "b5d80fec1904a95eb01677e305cd8baaadb2517f657641736cd8ca7ebcd8060e",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e465b23aff792b7f0aeb74bb7b81d64637cb6cbf3eb03d5f029aff68250ef571",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "09_Ablaufnotiz_Malou.pdf",
+      "pdf_sha256": "c49cb52a786d2b59a7d955a74bbd93276fabe015432ddab9846ad6c6154cc182",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/09_Ablaufnotiz_Malou/page-1.png",
+      "png_sha256": "95778016a062396e02167b66910347b688f1fecfdea2b9221299e6a1ae6bd071",
+      "pixel_sha256": "32b65c6cc8910baa116d4913f9205a65a80f251df9e5b117fd3a4b8dca529149",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "167af3287bdb51074d1b5b09be385914525cefc9dc9437a42d47c93deed9af88",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "10_Erinnerung_Farid.pdf",
+      "pdf_sha256": "a64db4acc280733d5b5144498ba57b2174dc520c861f34c19ad590b58582b971",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/10_Erinnerung_Farid/page-1.png",
+      "png_sha256": "76352863cb31cae24d948a794646e7f39cb8416004738d2dfe8370c56c114463",
+      "pixel_sha256": "9e48276c485f22bd179b42eb69d40bcb2ae13226edd4d00ca3e23ab3d149730c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "eba9c3eaceafe22c0fae1426327f08c9e1803840f24557a188e5d725256b4844",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "11_Chronologie_und_Beobachtungen.pdf",
+      "pdf_sha256": "de077ac45d6c0d55ee4d60ddb1acae32f526ab3ee20e76cf06a7eb196af2d3b1",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/11_Chronologie_und_Beobachtungen/page-1.png",
+      "png_sha256": "7e1856d72c44004b33d8c309acba10d359536aa4e9c72137d9d63d8a942f7f25",
+      "pixel_sha256": "a6e40f6ded5545b87c2f18f273537c0243cdcd232a23842919dba2caeee33de9",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "d49fb91e566f18fe9edd9d56cc1476ea7577700788ba4343a5e3c74568d6bd8d",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "11_Chronologie_und_Beobachtungen.pdf",
+      "pdf_sha256": "de077ac45d6c0d55ee4d60ddb1acae32f526ab3ee20e76cf06a7eb196af2d3b1",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/11_Chronologie_und_Beobachtungen/page-2.png",
+      "png_sha256": "55049bf6a277c20a01c74f20e78c7344dbf41946d1cfbdc8f548fe45649045a3",
+      "pixel_sha256": "2a5cbed02b44717d587239f1a573f46951a214dea4c01ad3535fdd82c273aaf2",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "d70e30684b540ece6d9b1b3868640f0328b1162686f5f830e696ca1130b27a6d",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "12_Nachfrage_Veranstalterin.pdf",
+      "pdf_sha256": "681efc3331705f6ab3ebb08df5e0bc71bdbb2d3cc0713ac13315316cc7e139f7",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/12_Nachfrage_Veranstalterin/page-1.png",
+      "png_sha256": "00052972a507c8edcd02f5b4b1ca63bc9d23b5f66db28dd3654743cdfde6d6f8",
+      "pixel_sha256": "7ba2b300bd33f9838ec45d4013c92d08a7f769d15baa8205cdce3c434d7f97c6",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2e6380bdb62cde2016aca03458f800851736f4cef10b92640c9b201eda6680c5",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "13_Notiz_Kamera.pdf",
+      "pdf_sha256": "203173d103783c9b7e8c0d23017fb43320a215fc8971c1e8938dd5da35c5c315",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/13_Notiz_Kamera/page-1.png",
+      "png_sha256": "e8f8032b25710edb094fe90ac43257062a95a49318ed3b4c2014cd1786023c9f",
+      "pixel_sha256": "c957af2ebb9bb839d37bacd05db1344e31c582ed2b6b426750320e74cae79661",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bbdf2f546bec3ddf1177331cd8ff51c01111d62dc300e6cf20740b1e0e905bcf",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "14_Chat_nach_Mahnwache.pdf",
+      "pdf_sha256": "157dbde04cea7f0b519fd62e8f46f7fcd38dae783a97b8954768b02f8e1a92be",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/14_Chat_nach_Mahnwache/page-1.png",
+      "png_sha256": "1e366f96c729709b69d45cac1162e27e35a72b71ce9b77e950ab44a0e1707370",
+      "pixel_sha256": "ce47ad93da1217fda0dfe2a0ff6be2ca210930171b601d6cf60fd7b4a4a9a5a1",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "95392a7ea6245e8d2c9d5d901a30799963a3dba4877d205cc31de7e4e2e81525",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "15_Zwischenantwort_Polizei.pdf",
+      "pdf_sha256": "70f0aaadbfd1b1e1ecfd9229f059a445402894313316e863ddef0677b0961353",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/15_Zwischenantwort_Polizei/page-1.png",
+      "png_sha256": "17e4731c29c37889ed35b4a2bfd84dc41632bcc7b6b0e2e9c91fbad54662df03",
+      "pixel_sha256": "055199ff58958973f425cd801fc3cc92ec7ef3b1bb86abc88ee1cb00ebe1e846",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "a47765c99bb9ebb638a656c0789829cb486d4bdf089376b69e3f9cfc6a274824",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "16_Zeugin_Erinnerung.pdf",
+      "pdf_sha256": "8150af52859d1de0883dcf6964163945e3e78a5e00ee1b8fdd80833e8e6a4a1c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/16_Zeugin_Erinnerung/page-1.png",
+      "png_sha256": "68ddf9d1dd6ae7d0ac05a410828491be5af2777e0667e88bfcc305f80a59e6f5",
+      "pixel_sha256": "fb7896d95896ec849bc5ef7aa0526e1a29648f21ec7bd9f1725318ec6928d559",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7f007f471d0bf7ce2fead2de6c9a593c12783e1cea51042f1088add63ecff84b",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "17_Antwort_Kanzlei.pdf",
+      "pdf_sha256": "13d0a4253c1ba06b1aa928e565b2be671f10be79e2243a6b9ca6758435b6f04f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/17_Antwort_Kanzlei/page-1.png",
+      "png_sha256": "f2824bde0bf8056f17640c727b89eb110981f87bddc4e1434050f490d5d09802",
+      "pixel_sha256": "ad2c26a7fd01e59716c58db5144f9b27af7ea6013020ef356b693cad6a1fea61",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "93d9ff76dcbdbaa62c9b514f6da7fb51c93f3a9ce10055ebca2e2602747757d8",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "einzeln",
+      "pdf": "18_Letzter_Nachtrag.pdf",
+      "pdf_sha256": "9803db987fa90071e646e86b375c955d3ecb32e97f96bacc96613121154616c0",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/18_Letzter_Nachtrag/page-1.png",
+      "png_sha256": "6b3e2bc047313bc328d5925953f1e3a30a96b1f9b73f3a2b9c97fa2e4dabb8c5",
+      "pixel_sha256": "67e750909b14f53e9a5bcc8ab222660bcc8bcff0ab43b79367ee0810ddf5bc9e",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "386a05baab4672e69fe9dec26865d0c691184cb97845224c0ed102369d40e0eb",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-1.png",
+      "png_sha256": "1a2fa62c6a63e325de103ffd7b69ecd3c1ca494c38b2b8ce5957dd5dec1ac921",
+      "pixel_sha256": "d92cecfb12f95ba97cd313bc5f88535a9698608bce254402dcf393c639be690f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e7960b47cd75b11fcd1e73eca4a629e51e335ed364159d59aa75acf5e43f4814",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-2.png",
+      "png_sha256": "bee0fe5d03c7d9b7dc214a4b6f659068d667c3294f30477e710273c4bb29f4cc",
+      "pixel_sha256": "cce82a2eb733d925242fcac5f879aa9de5627cff263863cd4384197b4ee63a8c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "f2a2a18f344924ff2bc8581c9da6681fb4ae8d5555ddbabd89ebb1623fa5f609",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-3.png",
+      "png_sha256": "118d85ecc30d853ccac64b474bd601f3dae7ab9857437cb5f8d5d224369a821a",
+      "pixel_sha256": "7616aacdd45fdca142d9705f30567df2f5f9dd2eb2af383d1c23553bfe484bba",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "4c4d4b4b2242b8d4c2064914087709ba2880a34229a8ac7720af3c50a857456a",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-4.png",
+      "png_sha256": "3dd03060f56d61e86db9a3fc5f50c24257da86d9cd6b474f20b6b863653a21f7",
+      "pixel_sha256": "d7b04b0c3ed84c108e2c501f13fcdfe91b5021591d7a723aa08d80b5d6a39cb2",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "811ce547b978e5cb7795eb9842961df9836236f41ed1498d39b9fd43fdcd05ad",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-5.png",
+      "png_sha256": "6ac393b629446541c2ae1331356cd30501f329b8e03ee252e4f5437cfe969e05",
+      "pixel_sha256": "80b97341798af61d11276fa297102c472f505e2b74aa28f657a5cb9b72737fd7",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "efaf1479ce1d438e3a65ad33a0f26502b63ae0b02339e5d17cb7ff24490cc990",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-6.png",
+      "png_sha256": "0edb487fd7aaa875b17cec5af625c03beacb975d171d7c555f15c3914821ca94",
+      "pixel_sha256": "42eefa01855836f942b72933a75b0ba246d1475e0614a6ea802897fbdc44f2ad",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "f4f3507b97626fb0b827d130855da2703c79c783486ea01b6ef4f74f58d267d3",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-7.png",
+      "png_sha256": "44fb6b884f95c8d0a82c3734aa7423e560b748aa69656203b97059a5bda694c8",
+      "pixel_sha256": "ddb47ca243f4f0a6f76318d12315b812bddc247ab69e42bb9fa21f10c8f7625d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "3c2483bc8bd0c1afa0d8bd087a1fb11046858b09bc85cad56231edf1023dd5b9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-8.png",
+      "png_sha256": "1b9f4e9e15743e5aa4eb42e466008b4f257f99c3307b3c582e953c075f6a4a53",
+      "pixel_sha256": "5cd5e5f6195c7ed4c049a2d8bc78a898a5725cfff57141ebe6c20f2a43b6034d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9824c424dc6e9aaef73073d7f71c3acd103a0977f9e5ec306a4e30d30e308221",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-9.png",
+      "png_sha256": "390c46d645eed618f399cc7356c97081c35038e626ddab2654199a573648cfb1",
+      "pixel_sha256": "694ece1e04174afef5746c86d3952be1840794c1670097a702360dac0aad665f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "79ee2d35bb493aadca7f43811c96bb54fafc277453f4ee33808b50890cbe5cee",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-10.png",
+      "png_sha256": "c3c3dcb0183a6517867ba4f3376bc56e109d3be66f8b517931d098203becace0",
+      "pixel_sha256": "932c14426405782fc49eb175a4b43c8dc830ff41deb429e346126a36ffb2be39",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e51ad6ea87bb4ad573b28cca0171a01e7d790c5a9ff2eb4b2e975aeaeb91c8a4",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-13.png",
+      "png_sha256": "227b1af6cc7281a7b81343753347a0c5fc111266edb2fcf1add4b373da454a8e",
+      "pixel_sha256": "72aa7621ff12cd39e2669d6c2dde899df202438893eacf1ac796fa1ee8e0dc0f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "37dd6cff2c0cc9ee2e2bfcc0ad49fe2d980993e82015040f4a3e477fc46d45b9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-15.png",
+      "png_sha256": "77d66b702be26585c7323f2ed38d02599f427b546eba5618ec812f0421f07158",
+      "pixel_sha256": "9ae1afe64fb4b348eecf12f319f8a8c7533ddfc15c484bfbb9675181b5540c8f",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "0a699c7c28c7b69b6dac431e15a98516455d32df1033a76b607132258c3a381e",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-17.png",
+      "png_sha256": "a0f9753b4f92232206f4949c018abd36a5e44e274a83a8cc7e3937f4deb53efe",
+      "pixel_sha256": "93b92e7809e3c0a25b704b573c8c0e112be86c978fe4333ac8bb4f4020fb5727",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "51c85cfb712f7993c2027232d221aac3a0d058d660f47cc686d1226ef84b2aec",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-19.png",
+      "png_sha256": "970b6cef1dd81d87074ba3bd792d1895eabf4ab01b8dbc4fa27f9cdc699613fc",
+      "pixel_sha256": "0d986299b36458f1f4fd0cf1752516bc0fa944a923dcfcecb21bdeb67392c552",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bf085d9465f861d8f3aeaad4a6f79bbca3f8cf76fb64cb120185afb1470f654e",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-21.png",
+      "png_sha256": "7738c18e4b5fdddc93a1d31bb0f68162b73124028bf82ec5ccac9e3f566d610a",
+      "pixel_sha256": "d7f040046398bb7e2c5adf09f0341971aae61fe36225099a9a81d62a1ce516f3",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ac2080732a63d9747e9387c678f58e1b73b5e5967c642c6b4a3cddfbaa769cad",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-23.png",
+      "png_sha256": "acbe8420b90554deeed180fa8098dd6d6e02f503b7b6b0306ded7c220d24bb61",
+      "pixel_sha256": "6583b08d473e03b4034813cf96a34ce35fb1675bce3583ffa721395df922e300",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "33e0be8da5328664283dff86d685018d9ca52e2e0996e4d662c94b2b3000b29d",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-25.png",
+      "png_sha256": "78d2568429b4cc8978f0fc1c063c6e8e6014292518688f0266be450d55102e54",
+      "pixel_sha256": "774dbb0b2b88347cc2a8e46be7eebeb9881956c55642dc1fbfcfd9cb77601b09",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "8afdcb61601ef3b56543e682be659d0278afdae76c5898253e89c8c56e72d9bc",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-27.png",
+      "png_sha256": "631d9819f388e2d5775a402cdde2b52b53c30490c342a0aa3d65f0b26039c3e0",
+      "pixel_sha256": "e80a9990e1877eda77fb9d3566482240781d098e4337b0fd4eef12d34aba83a8",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ad0600a114821acb7b62a39f0d0f0bc6ab25d6b415e219c5a147b6a300f0e2b4",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-1.png",
+      "png_sha256": "2849cdc0efe4a0f7292cbccbfe41e0aa79d4da9647acc6531031ba53956e73c7",
+      "pixel_sha256": "de046e6a5c519086c17ccbc19f74e6eb6bc400bb46597d2582fa35cae469b17d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9463bad660a36573a004de219f849ac8baa50c8eddbc049495fcb7edf693c377",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-2.png",
+      "png_sha256": "67081a9167b1fff29e2acebc323ef2aaab749db6ed46c035b1865fc9580f3396",
+      "pixel_sha256": "cb5402d97df14a43893449a646d42f07a156fb82a1e8998c6f0c78e6b3c76f68",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "604e952ed448bc804c81ff414c59a6d0ea9710d56eb6209948fd85c6340fea4a",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-3.png",
+      "png_sha256": "c416007b7ff6f7ecbe5b603bcd708a0e13c922f8fc2e462c991f7446d4e3c115",
+      "pixel_sha256": "bc6f5f41a2e8061fda227ea57423bbd10f61e849a6bddd12092f3013d552fdf6",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "af73bc587b3e6a637ff7ec402c647e91788ee4ac4f5353ae72506a1358f9be06",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-4.png",
+      "png_sha256": "937ef07dafe78bcfaaa8bdb87513d22b73475153f17a886993c73b9dd51c1937",
+      "pixel_sha256": "38ef7b4008edaed1295d04780dd3c6fc9fb7ffa09ef71f152f0457535fde1e3c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e725d01e7ace1cc541f926eeabae067bd679e188fa7df2d729d872daa8e92355",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-5.png",
+      "png_sha256": "493aa6f1cdd3250297da56c98f1aabbdfb94bda67f9f1c13559986b26c2821a2",
+      "pixel_sha256": "fbf8f37e42ff9b3b87fb3b9f17ba753196678db4d65db044e616b7a3e233d6a3",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "cf3ae48e0cea028a1b8d2c189bc68518accefff1243098e12546bd59c09aa034",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-6.png",
+      "png_sha256": "9753c50ea658e97f2e93981e5edd8a02e6ea524c1e1469fc43e71432eddba509",
+      "pixel_sha256": "e08f6d940ea4745a074cc0802c4ac3f1f4bba02140ec47bee568767686963ff1",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "3ee5a02dc1954ad2778ea8770ba662fa64b46b4093cf66e68e47b55ddc497995",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-7.png",
+      "png_sha256": "755c9bb2dd2e85d342a3e8913036d98ed2840db7227f322d0516efeef4024d2b",
+      "pixel_sha256": "94c7097094cf76f26481171121548687eff8ab913f383beced82b64d093b1d23",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "e6cb32060b0c0c7cfbc3ab547a3fd335fd982c508ee15be9ed0da4768881313a",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-8.png",
+      "png_sha256": "d4a052e0e321cb8e0f633d426b47670dd4ead9f74716968d2d71496c9a4b43f4",
+      "pixel_sha256": "24a70a42505901813b378e13398eebae2c2ad64c560b9c1fb4bd40fa18b443c7",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "d1a09e1b20ec3f28f563d31a3fef8440bcb524964c1235a9eeef1360a74f67cf",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-9.png",
+      "png_sha256": "e7c04cbefcc69d959db6e12146c01e97d907f9fc501bb984dc7c7803707e133a",
+      "pixel_sha256": "196339774073b8c1e774eed7ce947fe27904a09efcb4a21c38fa39ca554b539a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "942e18b48f6d2f2f6b47a10084494875ebe63f820d330e380831d74809e022cb",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-10.png",
+      "png_sha256": "a8c2061bda1edbf7e66ac8b0e633169b82a0795bdc04d5933e7670015c364aff",
+      "pixel_sha256": "f2a55067fdfbbffaafb3639d45a64b02c5bd99e20f66e9bcf0b460a9b0d912ba",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "cfdad34135dba0553dece55a6144cf78d0481d16dae2073d0666b0b851c93203",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-13.png",
+      "png_sha256": "9e95334a6348c6a0669f875a29423f5c0304ddfabb62ba0a3da32c77ef0bdb05",
+      "pixel_sha256": "1eb720860db9ab6ae563a12e2158a7deeeb28a973012532b33a73105101d434d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "5b3089e722ec6d6c394805ffa34a5ce988de870a8d32fc6fd3bf049b56f665e7",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-15.png",
+      "png_sha256": "c60b0a5942211a22aceec657836f146b03f8c994e922181e3bd7a1d2e66366c6",
+      "pixel_sha256": "c730bbdc932daf5c6550c170bb6714c593a7d9b05422e1e880a6d7fa0ba86c87",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "85abd2ed360c75ccddeadf429353603abeafd2d28fb7c710fc6cfc60bfa4c601",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-17.png",
+      "png_sha256": "f063c72d8a287cd4922abdccadfb99bf625f91d3c0941491ab230eb39ae60bf9",
+      "pixel_sha256": "bc650ee1793fa4c2da82e013cf009484d0957b725a118722498864464e8d1401",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "841c99073b02ff06b2a37b375534ac183f7c08a2f1c82de85508f769c3d1fd80",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-19.png",
+      "png_sha256": "fa228ce4d67bb350a88ef50dd9331cc0f31b664ca7b93e8a5b4ecdaed8b56155",
+      "pixel_sha256": "6ecc24833f664a9c7b24f81520944f95fcfacdf2b03cdb0ef5ba4134d7bd7c86",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "fcefb5e9ea361c541d914d93c5228fde05c68742c74dce1fc7b756df7de115ee",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-21.png",
+      "png_sha256": "77cf41f57df6b548cfd7d90bf9bbfe4ff3a3f775c9f8996f68f0b4ee5cd68c36",
+      "pixel_sha256": "e8620d2d58d6b8eaabbb1e36627b36f38bc61eaaeeb9538881325679fe9b1466",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "72e980d3cc0ead2ba2bd949eae58211a9aaf2576ed3e0d40211bad25a94b8acf",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-23.png",
+      "png_sha256": "a1b6a3808522e6ba363034f00b51c6518080d56a5514a8a966a66c75bd128807",
+      "pixel_sha256": "160506a84072a1d3cdc7987b75a0d7bf67f703b982fbeb323aa73474f3141da4",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "05fb3ea29183b16556ca6a4b47a6e2e55533a6f48fe8a2e147dc9a5f65380e04",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-25.png",
+      "png_sha256": "5f539638508299db1ebd95b3d88bb6f00390fce2e736eae8a3888853c132d260",
+      "pixel_sha256": "e0cd913058be4f7fa0d6d0e10eeb1f73fd8e7db62c037e5042f3089424a224bf",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "fd1331c88bcca3c3af4ff6560ff9de53fc863326be107655f25212642fb585b4",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-27.png",
+      "png_sha256": "acc4f4b759cd874bff4bbf0319232bef1acf3dbd2e51478a46ba2e64c1189ffb",
+      "pixel_sha256": "ab2106c1b9b12bfebe08e4205f93c1ef42f3eb7fd47a0dbed5fad97dcfe7a9c5",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "65ae09d1f79864214aa66555d6cf1b97ab267c360b51685037753d5ea3236ff4",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-1.png",
+      "png_sha256": "a66b848b5da07b8bf663e451607fa38a35adce07d8fc9c2c4df5d9478b57f226",
+      "pixel_sha256": "ea9446879c682aebc09ffd15b80025b0c9d81b62f1a9baac18a186df08758bc8",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ebe91d26b7f7aa6af69a6140e10c887481c27a953ee6087fbc54fc30cfd8d75e",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-2.png",
+      "png_sha256": "3f73b29a947ff5e94577adbdaaecd93bfa6363707fb568b07684c590fb7a7a95",
+      "pixel_sha256": "54070ae269acc212275cf373d751b86c85c54203df893745114bd17258bdb7f8",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "193076363dc0f309434abd7d7632f26199f0ce4c1a9e9b101f3c57ceeb42e22a",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-3.png",
+      "png_sha256": "f0b773c72378503f611d9d81174b76a721a1e2b2969c1e4cafb6e9e29e7c0330",
+      "pixel_sha256": "eeb19e9cab94faed7b356fd01e089dd26c3289d55818542c82fd08c1d3095e48",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "645b569205d1617eb5e3c258d9d4a6378de32ba1cc16938d181af9ea5f34abb9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-4.png",
+      "png_sha256": "a8e543911aae843e3b296ae5959994fa42dd76311332bcabf51e3479b46a2ca9",
+      "pixel_sha256": "3df339a77db65c4e2701209f6ffd3a40bc2c043d755f20c40842c562e9a98b91",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "65761c305214ca265dccf8e3390d6496237a61375b6fdb386f62dfcbf86305da",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-5.png",
+      "png_sha256": "baae36544743bcf6e72fa92c85113cbbc5c2a4d11a3a9ccb55889bce833e4f21",
+      "pixel_sha256": "ddc5ab53f6415c69ad371ae30e4c7a4eede0f7c219b9984df3105c7976d63158",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9213c6ef3b6872624c1f050cfb9aab5b5c7c0e4dcaaeed97359c147568e491a9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-6.png",
+      "png_sha256": "eed4a34da8f0496ac75f8e61b919cbef53a503658603cc0c4d39c7fe2e8802fe",
+      "pixel_sha256": "fce33cc6e51e97451fd01fbc736e2906041dd62c3c49ce8bd1fa377b712f2eff",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "cd99367566e31f17637d950a0f8f7cf58a66c66070c420f4d1b39bbbcc84af7b",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-7.png",
+      "png_sha256": "68d2e9ec7d990b2c9ea3881f619da8a5d9f423659c0f8428a3446827cde07d9a",
+      "pixel_sha256": "b0bcb16a992bc2db492c92947a4e58b155df1df0c49cd67e6c61312dc95f13ef",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "beab813093eeeb794f0b2371f3511ba097ebdce4c450d94aec4dd681a87b1306",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-8.png",
+      "png_sha256": "e1d3289a74209e6f63dadb1401c99537a3bc0463a1a0205925d8821572fa3114",
+      "pixel_sha256": "57aca731375e32547bf534470bf825613ec09bff7078ae98f6c697e313b3bba7",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "5d716e6bd8b3c95edd9d80cd153690ca5400116329ac312e478638cee538b170",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-9.png",
+      "png_sha256": "49d413e2973701377599b7d494f12b1a9f3edf6abadbd01d4db0232376e5120b",
+      "pixel_sha256": "7bfee53a309479fc9c69e3f77e717af883741838a12f446fbb87a46ce077d66e",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "462d9b4f6bee01e44e4c9641e8aca0916dcb9c4836771b370d274d11f0b78589",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-10.png",
+      "png_sha256": "9e1ba39036228026f108a65cb7dc59748f43091eb220b5b5159ab4aaf82d00b3",
+      "pixel_sha256": "700719bc4fd2e59aa5190b822ffaee54bc54478690a192984cef13f6b9d2aeee",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "4239078ce205850e0a777d2028a43e4aaa82bae620e0d54d68d55679ffd2cca7",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-13.png",
+      "png_sha256": "73718d6ddaaf7ec60eac25501aaa786ccf9bfb80d7d38bc9ba5a9bf169a2bc4b",
+      "pixel_sha256": "bfbd225eca0d93d39207a523a31b3443d44b95ddfe96436ca26ee75462544a80",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "67ba9d2c9fa7f7a6e662c539fc4ee5e78044f6758946b454115909f8d4485c2f",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-15.png",
+      "png_sha256": "1e34b16873ed9439a3d060d99064dcf6fdb663c2d1d27f7b03f9fba2537e8967",
+      "pixel_sha256": "45bc8500b3cffda1e0d61c8359321711744882e0e69dbbcd05d5662ecab1076a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "c1ab593327afb604b30311a83b4094ba8c48d6d90af7fd6163c9d664f2c5e5c0",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-17.png",
+      "png_sha256": "0b42d82b36a3fe1eb30d1f9360989da6f051d119fa5dedf41e3f60f97155769d",
+      "pixel_sha256": "0ecb4fb206433a9ff14769b623859baebdefe5326d37eee94cc039ee8cc135b7",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7b4d9710a12e33fae4676f76387532a697144acca2fb0127d3190222d80a6be9",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-19.png",
+      "png_sha256": "3cd2f6d1489cb89277d877a6c020e698c68ffb306ee08c033bc4f76db9dfd3d2",
+      "pixel_sha256": "5ccf5578a459b6b12149d590721e1c2ef194abbe6ef388c7df33528ed8526552",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "6e124a0ba37c771f499dc6a3042b24b4ba32d04ab7733f35ce5b45c682383a2d",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-21.png",
+      "png_sha256": "f2f44329f9726b0e704ddbd5017a9b956f99964e9bb8015c6782371546b82322",
+      "pixel_sha256": "9c16094bf90d6f45f1e0a4fea03011c23b031bb6d086f2cd6b00dbf4bbe68668",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "70507e47041744f6d3889bcaaf8c32d6ee9f2dc3a5c549d3d6b613a376c2e522",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-23.png",
+      "png_sha256": "75eb39e7590c36ffbc5dc4c0f55daaff7277d88a8532694715c7db51ec9ca3f6",
+      "pixel_sha256": "c94cfca7010434385491276b61b252beac03d27942ef35de9ca23f441020e94a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "d1d4bb65a6689813ae1aeacf31e392e356966aefb6a14ed1ba5578074ae60026",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-25.png",
+      "png_sha256": "d5937c5fa779ccc188f9d2c8d2f5dac3c843257e68387d60f6ed7925115ac232",
+      "pixel_sha256": "d07467d3e492dbd1ab33ae59cc21711a75c170fabe70bdc071d07d50446dc466",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "8c39c8b4a42c2de3089947e751e7930d64364e0d984b098226549ac425cf8014",
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-27.png",
+      "png_sha256": "486e4d1e25c671dec8775f62baf3bf1efa02437cb22aa9c85c3cc061c68f8cca",
+      "pixel_sha256": "2b1d18c27d1ae29bff2b1ae9c0d2eedd51ceaa85d363af6126ba63726a81d5ab",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "38e68df20f4b1f830509535b0c92b382502b43f4cc2c6a4c1702af7aff93ae32",
+      "inspection": "visually_opened_at_readable_resolution"
+    }
+  ],
+  "duplicate_pdf_pages": [
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-11.png",
+      "png_sha256": "dcf08239ba0421b630524f3ba424f139bb60f8a0ad6293325f19f87f40671ab9",
+      "pixel_sha256": "17c2146c35ca7175b3cdbbd26014ef38a5ed2c484174de22d469f6ab8401379a",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "46edcbdc9c8a4f3937ed62311ec84418c11c3c01650433ba0370cb685a85cca3",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/11_Routen_und_Ablauf/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-12.png",
+      "png_sha256": "f76b4bc0d9bfc067c3cd449f1a53543b24e54eb9837ed985478237771f921a04",
+      "pixel_sha256": "91d8a1c78a114feab7269e314e9475e8e7fbe7cba71fe0c858233ba190c9dc6f",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "8a608133947249364a442b777ba0787d695185fed9649b293e2f885bfdf7a1be",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/11_Routen_und_Ablauf/page-2.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-14.png",
+      "png_sha256": "f1680b1b97d0b5ef37370f71c6a9ebb9774595d1ba28861746b866509bb63611",
+      "pixel_sha256": "7381a871737ae18312a957d060cb209be3b87fd0b206f092792e901d68595688",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9c8655728b1523ccd4dcb02aff4efa2097d1cdb5bc313dcd6c6dff6805286437",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/01_Auftrag_Selma/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-16.png",
+      "png_sha256": "9bfb756af4219b55ca1d84f13a923cf601450c9b761f19008845bad9e0e7491e",
+      "pixel_sha256": "11918195f8dab40d5fcc057b1d6bc7e5fd6dbeaaf83433e5dcd151209513e3fc",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "5f904d0b1993b1a8863d7af9f98dc7932801c00e8ce30df72755799910406674",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/02_Anzeige_Entwurf/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-18.png",
+      "png_sha256": "e7d655b0725258ab9cab2e9dc943d2a68a2c43cd0080449a9e56a383e2a7c9de",
+      "pixel_sha256": "badc2135c3d39ead11c14e17c5423439dd455ebaeff9f99b13d2583b12da1a6e",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "c5ae142b948988d66563562e4a07881ce60c293d9adb04bfd38004d577bae87b",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/06_Streckenkonzept/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-20.png",
+      "png_sha256": "ffbc8a89e336ae47de2ed37cc4a980b1dfd573aa6fba2d4b9251c418fd86bd3f",
+      "pixel_sha256": "77a17f825913f41685341f098dac20e6ac1d06c826fb2b165874899d33fed8d3",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "9c4431b67f5c7eb54d4a5237fb88a209834368fc94f772621a6e7ac8902d337d",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/08_Notiz_Kooperationsgespraech/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-22.png",
+      "png_sha256": "3c359659551c3ca60b2e976e887b00839187cf88a02f7e520c608d744ba45811",
+      "pixel_sha256": "602072cdcde3660feea78f227558f51f08e87bdb91692c9430190b6d7b8d154a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "4420aa39f187d1f08ce62d695afc8ad62d8e5bdb935a536076f696c9b9d1f603",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/09_Bescheid_Route/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-24.png",
+      "png_sha256": "e96d2f38fdd57d76cf4b066278d771ceb1a72c9033279ab5340afb1e915cc108",
+      "pixel_sha256": "028cc537339ce3947a0a45e2cf3fa69316d770610a561c1be9ccaf1fd4506a14",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "0a122a2928cf156b126e5c2f6220a1e9ea159400c58d387fe033767207f4ffbf",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/12_Ordnerbriefing_Entwurf/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-26.png",
+      "png_sha256": "1599b714796edc703b091f2a344348b43c91a148cddfb57f24af0b964abb7699",
+      "pixel_sha256": "b2d46742546a12069dd8a0388eed4e9f353cb032471aac5c15a644aef035b062",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7958956d6561a4dfc598a5cb5473a6222f5a13bb7dce8799cafa4f1b3ab9f778",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/15_Ortsbesichtigung/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      "pdf_sha256": "1f43b3e9f96f77cb5af13a76d46e40aecf70135e5b825daf9bd045edf9501cee",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/gesamt/berlin-versammlung-fahrradkorso_gesamt/page-28.png",
+      "png_sha256": "12a037685a66fde53095911ce0fe9dcac452435ba4ddf970d2e333ada066d7c9",
+      "pixel_sha256": "e385c78f5b97b6664abdfae631698e1b0d46baae7a130f136339e3c4381409ae",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "b4e4c09c1741cc5f32fa91fcf9ff0fc7fb0606a68c10973f07378a322deb6141",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-fahrradkorso/einzeln/16_Bauleitung_Freigabe/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-11.png",
+      "png_sha256": "d5aaa53775fd969fbea13e5f1dbccb957f745346c397f8f6db3e3eed22f65a22",
+      "pixel_sha256": "c69ef1938bd3fb98423be59ac3a1842e0dbaa390bf55b5224412a263c985aa2d",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "260a629fb239fb8b18e9c31a99050f4baf17734b6ca94e179faf1b1749600342",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/11_Flaeche_und_Nachtplan/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-12.png",
+      "png_sha256": "0b603e0c07d71e99d87521cde7c1eca57de9b511b12b857396730c4ea8f7fc10",
+      "pixel_sha256": "000615365456356afb4f43ef8bf126dd177d206560502c01bd85b95f1e197ede",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "b0ef7e7b47b95a251fdc1ab6680bb5b6467bf358bbeda323706b199048c06cc5",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/11_Flaeche_und_Nachtplan/page-2.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-14.png",
+      "png_sha256": "510b86688982c715ccfe26d77be16cd76ee272cde85b865214a9c57eac9d673a",
+      "pixel_sha256": "aac566dce0f8e284c5703d5bf7a024ecd879e769692abf65115421782ef590cd",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2bd99d659eaa16715f43eec6b3646a3b8cdb5914730341df675158a47ae91e98",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/01_Auftrag_Camp/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-16.png",
+      "png_sha256": "2acd4505f241378fa67145983f9f228c13eebbd4c06e335bd8a41e12dfb5f62c",
+      "pixel_sha256": "cc8c03de286e04ed191967e4e32c2570f2390f69daa0de3df92c2b9475d10224",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "d8ea40860922d997192f205c32aef549a5eeaaf29b764bc6222871a2a96050ca",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/02_Ursprungskonzept/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-18.png",
+      "png_sha256": "94312915c17ab5fe402fa2a3fa7858981dfb81ef45bf67c65d2903b2f9433cd2",
+      "pixel_sha256": "5ab84d34b7abec3b127cb67a67ad3195681608ab39790ce71687b1546411d1fd",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "8b8f1db7a35ad8ce77d7ba89aa58e7912b84924c1aee081a8070ec97a2266ead",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/03_Anzeige_Camp/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-20.png",
+      "png_sha256": "03a31a3caa5356d21eb8bcaecd2ef043890ab642800baacd5a338b73a84ed0d4",
+      "pixel_sha256": "f20114f06200ff6ea42fa8681287f069262f91dc8a9789de4d8bc9d6ab4c99be",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "3592d04ebcf061883a3184cb052233905cddcf444403b32c546b334ae30385b3",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/06_Programmstand/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-22.png",
+      "png_sha256": "ba8c41eb86d06bff5f210c20a4e92b867bfdae9b826a5e4539d4168491039ccc",
+      "pixel_sha256": "1d5cc65388425a7b84cae5f110794386063611ffdc4a844f59170e27223bbb9c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "fa00edbcb01ac845532d174e71f58e59f8b241950da02bea4ef7f11df9b6c00c",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/09_Notiz_Kooperation/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-24.png",
+      "png_sha256": "330cf3dc8ebbf5b0957cbdb9189e8fe108b385391ffa11738c6c9e57bdd7fdc8",
+      "pixel_sha256": "6ec82a277afb674df8bb1fb8d9c4b379b0264e21256e72688de4648bad864203",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bae54cbda29c3c7ebbc561a47ffa719e86542c66868541df9dae7abf2b8d8dec",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/12_Anwohnergespraech/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-26.png",
+      "png_sha256": "0ad9b220ac2cdace9cff6c49dbac78d6d0d476940194085b86186264428cf191",
+      "pixel_sha256": "9cddf67a84b04cfec3d3519e3d7099a16f4bedd60f4db80ffbd542d1c0b24c48",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "f1070e5595abfe9c254acf1e2f73c57a60e013bbb2208405b46f8c57e47a7a7a",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/13_Anbieterangebot/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-kiezcamp_gesamt.pdf",
+      "pdf_sha256": "0c13207149e1d0cc7f274fb300640fa349276e697a10e000558a4609dbd3e243",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/gesamt/berlin-versammlung-kiezcamp_gesamt/page-28.png",
+      "png_sha256": "75ff0a859dd332ba2f3164dc702059a55702d2801238600251db2a35e8f7bce6",
+      "pixel_sha256": "b10dbe534cdc367002344cc616bd24be58f81dcf6c7b6c7d44e1024e27e10f4a",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "80f726b54942c9829b168ea0b4c890637dcc7064670e1e73cb6ab13adbc63336",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-kiezcamp/einzeln/16_Beschluss_Orga/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-11.png",
+      "png_sha256": "7e1856d72c44004b33d8c309acba10d359536aa4e9c72137d9d63d8a942f7f25",
+      "pixel_sha256": "a6e40f6ded5545b87c2f18f273537c0243cdcd232a23842919dba2caeee33de9",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "d49fb91e566f18fe9edd9d56cc1476ea7577700788ba4343a5e3c74568d6bd8d",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/11_Chronologie_und_Beobachtungen/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-12.png",
+      "png_sha256": "55049bf6a277c20a01c74f20e78c7344dbf41946d1cfbdc8f548fe45649045a3",
+      "pixel_sha256": "2a5cbed02b44717d587239f1a573f46951a214dea4c01ad3535fdd82c273aaf2",
+      "size": [
+        1170,
+        827
+      ],
+      "text_sha256": "d70e30684b540ece6d9b1b3868640f0328b1162686f5f830e696ca1130b27a6d",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/11_Chronologie_und_Beobachtungen/page-2.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-14.png",
+      "png_sha256": "23b5c835836e437a452c4edfedc0771ff6d39386347c1ec875c9cc90cf690d06",
+      "pixel_sha256": "3c951c6344fd639985d3170562d31be32fc3ecfbf8292951031f0c7d05d4185d",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "2fafc6443fa924992461a8bcae7e3e12bb1f4e97b7c075425df5f290d0d26173",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/01_Auftrag_Mahnwache/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-16.png",
+      "png_sha256": "e93cf406bf2021f23dfabf46b0f9a751c0356863370c036ba536f66dd9b7995e",
+      "pixel_sha256": "b54c0b95ef76ee23a4386d684d87772cd543d1e4ea231c723a1b444c33020b80",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "ad2c5bc9ba617a1df0cbb88c5b4c5d22716051c895c871002fec05ffd9de96ea",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/02_Schliessungsinformation/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-18.png",
+      "png_sha256": "bc33bf0cbc01bb6dde362aa31bade1334e222c81c3a2df7ba4443e0d813274f8",
+      "pixel_sha256": "2408dab9f7f56773e9314bf48d9df3d45b2a8be4d44e15c0262f2eafb6a56816",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "a0dbdf85cc0fa0b5999d3cefe7a1aa0a855efffd19314aa24f4cd09a3da51956",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/03_Anlass_und_Einladung/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-20.png",
+      "png_sha256": "14abc4e4a4aaf7b52218514592f5d01f47396cf417286aa4920c12b640a1637a",
+      "pixel_sha256": "abe9396d25cc8ca86b43085f8c42ab761ab64735766a0b3ebe5e297dd312da29",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "1b0acc66d3e0695bbd65db88cd981efb6c12660fdf0036190a39efd50f9ecb57",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/07_Telefonnotiz_Anzeige/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-22.png",
+      "png_sha256": "95778016a062396e02167b66910347b688f1fecfdea2b9221299e6a1ae6bd071",
+      "pixel_sha256": "32b65c6cc8910baa116d4913f9205a65a80f251df9e5b117fd3a4b8dca529149",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "167af3287bdb51074d1b5b09be385914525cefc9dc9437a42d47c93deed9af88",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/09_Ablaufnotiz_Malou/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-24.png",
+      "png_sha256": "76352863cb31cae24d948a794646e7f39cb8416004738d2dfe8370c56c114463",
+      "pixel_sha256": "9e48276c485f22bd179b42eb69d40bcb2ae13226edd4d00ca3e23ab3d149730c",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "eba9c3eaceafe22c0fae1426327f08c9e1803840f24557a188e5d725256b4844",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/10_Erinnerung_Farid/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-26.png",
+      "png_sha256": "e8f8032b25710edb094fe90ac43257062a95a49318ed3b4c2014cd1786023c9f",
+      "pixel_sha256": "c957af2ebb9bb839d37bacd05db1344e31c582ed2b6b426750320e74cae79661",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "bbdf2f546bec3ddf1177331cd8ff51c01111d62dc300e6cf20740b1e0e905bcf",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/13_Notiz_Kamera/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "gesamt",
+      "pdf": "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      "pdf_sha256": "0bf633db1be55ea6f1b47fba1d3cd10339e8a8a3863fe8c9dcd5af7a3fe34f8f",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/gesamt/berlin-versammlung-spontane-mahnwache_gesamt/page-28.png",
+      "png_sha256": "68ddf9d1dd6ae7d0ac05a410828491be5af2777e0667e88bfcc305f80a59e6f5",
+      "pixel_sha256": "fb7896d95896ec849bc5ef7aa0526e1a29648f21ec7bd9f1725318ec6928d559",
+      "size": [
+        827,
+        1170
+      ],
+      "text_sha256": "7f007f471d0bf7ce2fead2de6c9a593c12783e1cea51042f1088add63ecff84b",
+      "same_as": "lokale-pruefartefakte/qa/versammlung-final/berlin-versammlung-spontane-mahnwache/einzeln/16_Zeugin_Erinnerung/page-1.png",
+      "inspection": "covered_by_exact_RGB_and_text_identity"
+    }
+  ],
+  "native_word_pages": [
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/01_Auftrag_Selma.docx",
+      "source_sha256": "951bf604e9fc8789c3ddbd15b1e44300097a5e5834c5dc5c789504a8a05e2011",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/01_Auftrag_Selma/page-1.png",
+      "png_sha256": "c581fe9f5d2882dcbd71db8848e7ab33fdfb5c459c9a5a39fc495bddee406af6",
+      "pixel_sha256": "2e645adb968316ab0222898ac15525a31ee5982e48f96b1627dc1f91d91bbc04",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/02_Anzeige_Entwurf.docx",
+      "source_sha256": "755c7d7495e9439d480201089c673626e99a4728701470a62bbfad512b00633c",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/02_Anzeige_Entwurf/page-1.png",
+      "png_sha256": "d5c5e06f3804b67995fea48f8f080b7ac53b550d1a8034a20a5aba1425baa223",
+      "pixel_sha256": "27c5df3e4ea978aaa1981896efc31bbc552e42dd6142fd55c00e6ba8b111b6f4",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/06_Streckenkonzept.docx",
+      "source_sha256": "0423c12153c530b9e82270b07b019486802cb188d2261c7e237c4690927defd2",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/06_Streckenkonzept/page-1.png",
+      "png_sha256": "b61161dd6a65fe475543a96c21fd39b8dfffe363e49572d70073768bbf3edd6e",
+      "pixel_sha256": "88c42228d3b28d71d59a5449e3c6e80ba544c31f454fc0115993dabdcf6eeb57",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/08_Notiz_Kooperationsgespraech.docx",
+      "source_sha256": "fcfeccafdf1e1e3eb59c107a425c6eaacf7babe410fe8fab3bf2cde93a1500d1",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/08_Notiz_Kooperationsgespraech/page-1.png",
+      "png_sha256": "588e0af68eab4bf7fc24b1b5ea9f1be0ad5f16e5aa3a21c1066e97cad8e2f19f",
+      "pixel_sha256": "fb800d3ff600d59d2983ab14799af9316fa9ee4e0bc30554c7c19f5ff0ee2e11",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/09_Bescheid_Route.docx",
+      "source_sha256": "703d27124abbc4351f7050e6bfd539b7f9f70d634746114519a5f53073bf3065",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/09_Bescheid_Route/page-1.png",
+      "png_sha256": "128fe6ef33438f58a802e7c40ceccd15620b4f14b2de3e0f8078c2fd692c111d",
+      "pixel_sha256": "f6955d081914a30ed3b4c424277108dbc1231f5d83ce5aa5d8e0c8ebd69563b4",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/12_Ordnerbriefing_Entwurf.docx",
+      "source_sha256": "36c459715d3659d6aff52fce783fcf55f451d4bf7ce180f62cdb80eb7848641b",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/12_Ordnerbriefing_Entwurf/page-1.png",
+      "png_sha256": "69a778345f331c834169c4bc8e52b69afce2c13d430ab80f26969cf7221a49a1",
+      "pixel_sha256": "89189d9bcd1d753f71f089c3687eababb861bca5113c04dd1585e7c650078a7f",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/15_Ortsbesichtigung.docx",
+      "source_sha256": "6aaae0f9cb589c604502b72772681fdad0d009e4add3408c4e4cca6f8dab0077",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/15_Ortsbesichtigung/page-1.png",
+      "png_sha256": "cfa7a03713c57dfa03184d83f3bd51d8d4d09974e68afda213a40bc43bccbaa3",
+      "pixel_sha256": "2b7b67b822645a26bd9a8627676680d0511693206a3290fd3830154ce40019ce",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-fahrradkorso/16_Bauleitung_Freigabe.docx",
+      "source_sha256": "99653acce1a96fafcb56d54c6729c70e22dcdd1e3688f01a19f63308651c3bc2",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-fahrradkorso/16_Bauleitung_Freigabe/page-1.png",
+      "png_sha256": "97ca3f632597df865097b1aeffa768c7b0530516c37590b936d5a8704e7b5e23",
+      "pixel_sha256": "812c5676b263085740e261eb722089fa2804c0411ce4fa4a26826864f0618f42",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/01_Auftrag_Camp.docx",
+      "source_sha256": "c49ce3a40922c0eb3b97fa7cc5f74e09d7882241c3ca27a3e19393c850d2185b",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/01_Auftrag_Camp/page-1.png",
+      "png_sha256": "3666a9f5bb2996c193a18438e5e12bfa00a735dd62959881f91a58707dc0fd9e",
+      "pixel_sha256": "360b783d66247840be6116644570efee1a4a5386e74a7afe020e614ef91bc1db",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/02_Ursprungskonzept.docx",
+      "source_sha256": "8c7c11e752f0981ae26f3732d3135d7827395f2d595bdbf057aaff5784bd6a3f",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/02_Ursprungskonzept/page-1.png",
+      "png_sha256": "1aba7392f099a6db5bf7083c7fd2f3418563874233c11ce982a751c99c719d64",
+      "pixel_sha256": "0a483ef8f779df5a9c7837bbb9711e14ade6e3a3d5314c1c62705c5a5287caaa",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/03_Anzeige_Camp.docx",
+      "source_sha256": "71eaa6cf4f8c6cbd10c4696f7aef72822b75225552c16830f4cd042bcf935c99",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/03_Anzeige_Camp/page-1.png",
+      "png_sha256": "baf37d5aed2d06f7e433a35a044ca06bcf4b807fe8ca660f77b474cf20920d0c",
+      "pixel_sha256": "3f85462d6d6c499cd83b1c430451a2c76b7ef66aa91100ed5f3318adc4fde309",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/06_Programmstand.docx",
+      "source_sha256": "db44c241e71fec47622da69cd05465d9cb48b154cfe599717fbfd6db7c523024",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/06_Programmstand/page-1.png",
+      "png_sha256": "1d34e6a0aa8634160576d94254916a8e99c2bc13202ffc39ad238a3fd8abd1e0",
+      "pixel_sha256": "83a121ff7867f18fe8e7da3634393c733d1cb43136f594a535b2d355ba1635f4",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/09_Notiz_Kooperation.docx",
+      "source_sha256": "7478d0d7a4b8ba31a0fd7a061820cfd4c6af15b19f4ac4c061968dbc58a29abb",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/09_Notiz_Kooperation/page-1.png",
+      "png_sha256": "2b300e4a4fe272862f7c1220eb40133c1b7753da8327c41d5a2bbf6b928b81f8",
+      "pixel_sha256": "3bfd5874d8ee41ee9313ae0708c9a04f0bf65b35e50c1015293f1579530eef4e",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/12_Anwohnergespraech.docx",
+      "source_sha256": "80f919d4e89569358af3452fc478c124a6ab296cef0740ace85b4185311fd3ec",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/12_Anwohnergespraech/page-1.png",
+      "png_sha256": "a49811d118d887893c66e3078d62b69405655155e8af1f322995f41c240e93c3",
+      "pixel_sha256": "171b965d50f14eea8cb5adaf1d840b0e900e74c7279b00d8ed24e0f9dd238ff4",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/13_Anbieterangebot.docx",
+      "source_sha256": "48228d049f945b21a148b2c6e12d1f1d89735b2d620e76d9d92582fb1bfdf833",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/13_Anbieterangebot/page-1.png",
+      "png_sha256": "2ba3d2144e93670f066223a09d91ca1c682393facb3276c8a49b3267b52653a6",
+      "pixel_sha256": "6595f055d3bfaaa1b47df541c8eeb320fc08d59235037775084c2e36a40e2277",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-kiezcamp/16_Beschluss_Orga.docx",
+      "source_sha256": "c79d95bd519764168c33445762e27a33ef6f5a9122c5c480ed9cfc7d6cfe07f9",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-kiezcamp/16_Beschluss_Orga/page-1.png",
+      "png_sha256": "bf6c4761c61d64acc9d1a833b932d0f40151906bb313538cf584e3df7d20ed48",
+      "pixel_sha256": "c5a3fcb965e4259ef2fcc9e7f10f416cbe13b4bb7fa27624d83c3620ae6d82fb",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/01_Auftrag_Mahnwache.docx",
+      "source_sha256": "f281273f0f3b1250c6a0d0f44a709dcea2b3283c08a510a2f884d5b008f1a9f3",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/01_Auftrag_Mahnwache/page-1.png",
+      "png_sha256": "aa09fd5a22dee8e3d49dfed5602bdbfa1d206e6fd0f2f91ff9bb03b4e5c70bf6",
+      "pixel_sha256": "c10ae1d6d5c7d51d68763252ff9756197632783debce159aa054a6073bdfc2fe",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/02_Schliessungsinformation.docx",
+      "source_sha256": "e437d43a0b751f91219515e0e0c09126173fb4bdd60dc562b78e25dac3b25e3b",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/02_Schliessungsinformation/page-1.png",
+      "png_sha256": "d87fc41f7ca3667f98f54011571c6159c7887f1945e18f100b3441cda131caec",
+      "pixel_sha256": "bc096208e465b2711edce006d0d55c8d8fa5f420ba69c9430edba6328fd3302c",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/03_Anlass_und_Einladung.docx",
+      "source_sha256": "60c853fd21529aa25a6a304c7eb20af012729960612d9bf1d961dbfe08aab848",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/03_Anlass_und_Einladung/page-1.png",
+      "png_sha256": "ca80431212f9f0afb5748147969836df3bdf88cb55a22583283d56d8f5496216",
+      "pixel_sha256": "ff9126e1ea5214e779bc40643b51b48a322fc11a6705978360fad7c2d965ce4b",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/07_Telefonnotiz_Anzeige.docx",
+      "source_sha256": "406a94a1e3fb639d1b04e5d7629248bd7a42f1ecd1756355965786d4e7cf0ddc",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/07_Telefonnotiz_Anzeige/page-1.png",
+      "png_sha256": "980047d3cd63795b36819c792c951bd7cf4e6d9dec33e72982f20879a23466e8",
+      "pixel_sha256": "e541a597b3baf7582051892ed0d5c6650a8e3b6cd02e3fe80c654f7328b31438",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/09_Ablaufnotiz_Malou.docx",
+      "source_sha256": "7502e24ffe154bc706a92650ece014030ba88f02c4d95214816a7b87f0e82b07",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/09_Ablaufnotiz_Malou/page-1.png",
+      "png_sha256": "74e299113b35b4fed8cd1e05ca9cf3e339e4d450005aba5dbc244d4cfd8a856e",
+      "pixel_sha256": "717396a75bc199e805c23d360432822a921a5ec2d56aaa2d78fa56f7f8ca20b6",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/10_Erinnerung_Farid.docx",
+      "source_sha256": "5802cacc6f6873d5ac7c0fd33af962e0a1da4a83e32478506623a4368944c448",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/10_Erinnerung_Farid/page-1.png",
+      "png_sha256": "a0d8cb3a0cf35735f2eaed2d253735cf59bfaeda856edd8d4a84c4e77e60c219",
+      "pixel_sha256": "10ad9ffee28d7c13e7c85892c5851c26b81d214a46d66eae79c0a9cff770bbd1",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/13_Notiz_Kamera.docx",
+      "source_sha256": "53856602e52850f47f7373b221758b33f4ced81d104aab2053dcc6ed0881bb1d",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/13_Notiz_Kamera/page-1.png",
+      "png_sha256": "84d40ab9d7ea9a18d1f0598c90849435f61abd1a584b33f0caa2c91fa1006efa",
+      "pixel_sha256": "5e3a68b3ed4acbb1793c52857c7cd79625eac9e743fac072e574bb231cb284e8",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_word",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/16_Zeugin_Erinnerung.docx",
+      "source_sha256": "4b909ebe5744841d13e21797bd931e993856a084d81f49d2179c2081a4e9b4f1",
+      "png": "lokale-pruefartefakte/qa/versammlung/word/berlin-versammlung-spontane-mahnwache/16_Zeugin_Erinnerung/page-1.png",
+      "png_sha256": "e37c6fde3d4156e990cea16109d27799e75cfec08d976289450ce07367744309",
+      "pixel_sha256": "bf4b7e7981fb0228c7f4d0ec7be2c6ee0c754f4dff2f688f7afe03d58e23cd4d",
+      "size": [
+        827,
+        1170
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    }
+  ],
+  "native_sheet_images": [
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_sheet",
+      "sheet": "Ablauf",
+      "source": "testakten/berlin-versammlung-fahrradkorso/11_Routen_und_Ablauf.xlsx",
+      "source_sha256": "21d3429414f11299cc3e16c240355a8cd4dccba73efd4938a9caaea4e13704b3",
+      "png": "lokale-pruefartefakte/qa/versammlung-korso-fix/tabellen/berlin-versammlung-fahrradkorso__11_Routen_und_Ablauf__Ablauf.png",
+      "png_sha256": "eeb8e79f972383989b8cc52a39014aac837ba0f43820b47da9c227fa5e23c458",
+      "pixel_sha256": "a716cff116d61428ac6b7fc86e527422e2ad099098c5669c252e5264e3f9a006",
+      "size": [
+        1626,
+        294
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-fahrradkorso",
+      "kind": "native_sheet",
+      "sheet": "Ordner",
+      "source": "testakten/berlin-versammlung-fahrradkorso/11_Routen_und_Ablauf.xlsx",
+      "source_sha256": "21d3429414f11299cc3e16c240355a8cd4dccba73efd4938a9caaea4e13704b3",
+      "png": "lokale-pruefartefakte/qa/versammlung-korso-fix/tabellen/berlin-versammlung-fahrradkorso__11_Routen_und_Ablauf__Ordner.png",
+      "png_sha256": "3328fd48c4b9b2059c22094391658425be5a49f06e91618a54a154a5002923e0",
+      "pixel_sha256": "4f89bfd89069161e7eb69835f9054e4fc3e394706ab04b537296306ab3675873",
+      "size": [
+        1761,
+        294
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_sheet",
+      "sheet": "Flaeche",
+      "source": "testakten/berlin-versammlung-kiezcamp/11_Flaeche_und_Nachtplan.xlsx",
+      "source_sha256": "0d1ed31a4f6a80a5c96b21c18d386d3cd87839b7becc46958c4925e65e327fb0",
+      "png": "lokale-pruefartefakte/qa/versammlung-rest-fix/tabellen/berlin-versammlung-kiezcamp__11_Flaeche_und_Nachtplan__Flaeche.png",
+      "png_sha256": "30a27342eed0120e8af72f5ea22be180a738825a244cf7c6a8dc42f9b14e007e",
+      "pixel_sha256": "53e9cf5b5916fa4af059e0fe8067c346d1cb0627c097274c4f36a81c8cb7b6e4",
+      "size": [
+        1761,
+        390
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-kiezcamp",
+      "kind": "native_sheet",
+      "sheet": "Nachtplan",
+      "source": "testakten/berlin-versammlung-kiezcamp/11_Flaeche_und_Nachtplan.xlsx",
+      "source_sha256": "0d1ed31a4f6a80a5c96b21c18d386d3cd87839b7becc46958c4925e65e327fb0",
+      "png": "lokale-pruefartefakte/qa/versammlung-rest-fix/tabellen/berlin-versammlung-kiezcamp__11_Flaeche_und_Nachtplan__Nachtplan.png",
+      "png_sha256": "17ec40470b468f66e731352eb06d8c89e156e03d84c9a4f09782b4ad5ad5f541",
+      "pixel_sha256": "97e655725e6d8d29efdc1f7f7e5f0284b4b713090d64265d1ff0656c546ea588",
+      "size": [
+        1761,
+        294
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_sheet",
+      "sheet": "Zaehlungen",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/11_Chronologie_und_Beobachtungen.xlsx",
+      "source_sha256": "3954d6f8da5fd68f49bdeacce5ba9b548a316878df6038168e9be811b467fa97",
+      "png": "lokale-pruefartefakte/qa/mahnwache-zeiten-final/tabellen/berlin-versammlung-spontane-mahnwache__11_Chronologie_und_Beobachtungen__Zaehlungen.png",
+      "png_sha256": "299e69edc20355bb25e0bad1ce8bcb561ed0789ee4fdb2b3f61e0978db435ed2",
+      "pixel_sha256": "357fb2dcd288d23616934e4290b1078d3d28c16518ab46baf3eca0243336d800",
+      "size": [
+        1748,
+        246
+      ],
+      "inspection": "visually_opened_at_readable_resolution"
+    },
+    {
+      "case": "berlin-versammlung-spontane-mahnwache",
+      "kind": "native_sheet",
+      "sheet": "Zeitlinie",
+      "source": "testakten/berlin-versammlung-spontane-mahnwache/11_Chronologie_und_Beobachtungen.xlsx",
+      "source_sha256": "3954d6f8da5fd68f49bdeacce5ba9b548a316878df6038168e9be811b467fa97",
+      "png": "lokale-pruefartefakte/qa/mahnwache-zeiten-final/tabellen/berlin-versammlung-spontane-mahnwache__11_Chronologie_und_Beobachtungen__Zeitlinie.png",
+      "png_sha256": "85ba8b1734b1b146796ab72c8d7465130e00f2c30f88c397c5c3bbc684119eba",
+      "pixel_sha256": "6770440d1e11e10d7c01ba1b60f755b9874179ff425f17a2b1d9c128e0091406",
+      "size": [
+        1761,
+        346
+      ],
+      "inspection": "visually_opened_previous_fix_then_PNG_identity_confirmed"
+    }
+  ],
+  "changed_pdf_page_keys_since_initial_inspection": [
+    [
+      "berlin-versammlung-fahrradkorso",
+      "einzeln",
+      "11_Routen_und_Ablauf.pdf",
+      1
+    ],
+    [
+      "berlin-versammlung-fahrradkorso",
+      "einzeln",
+      "11_Routen_und_Ablauf.pdf",
+      2
+    ],
+    [
+      "berlin-versammlung-kiezcamp",
+      "einzeln",
+      "11_Flaeche_und_Nachtplan.pdf",
+      1
+    ],
+    [
+      "berlin-versammlung-kiezcamp",
+      "einzeln",
+      "11_Flaeche_und_Nachtplan.pdf",
+      2
+    ],
+    [
+      "berlin-versammlung-spontane-mahnwache",
+      "einzeln",
+      "11_Chronologie_und_Beobachtungen.pdf",
+      1
+    ],
+    [
+      "berlin-versammlung-spontane-mahnwache",
+      "einzeln",
+      "11_Chronologie_und_Beobachtungen.pdf",
+      2
+    ],
+    [
+      "berlin-versammlung-fahrradkorso",
+      "gesamt",
+      "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      11
+    ],
+    [
+      "berlin-versammlung-fahrradkorso",
+      "gesamt",
+      "berlin-versammlung-fahrradkorso_gesamt.pdf",
+      12
+    ],
+    [
+      "berlin-versammlung-kiezcamp",
+      "gesamt",
+      "berlin-versammlung-kiezcamp_gesamt.pdf",
+      11
+    ],
+    [
+      "berlin-versammlung-kiezcamp",
+      "gesamt",
+      "berlin-versammlung-kiezcamp_gesamt.pdf",
+      12
+    ],
+    [
+      "berlin-versammlung-spontane-mahnwache",
+      "gesamt",
+      "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      11
+    ],
+    [
+      "berlin-versammlung-spontane-mahnwache",
+      "gesamt",
+      "berlin-versammlung-spontane-mahnwache_gesamt.pdf",
+      12
+    ]
+  ]
+}

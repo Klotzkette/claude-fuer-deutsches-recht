@@ -1,0 +1,198 @@
+{
+  "plugin": "berliner-asog-polizeirecht",
+  "checked_on": "2026-10-02",
+  "method": "Amtliche Normen und Entscheidungspassagen, arbeitsteilige tatsächliche Lektüre, anschließend redaktioneller Abgleich; kein Modelllauf.",
+  "norm_sources": [
+    {
+      "url": "https://gesetze.berlin.de/perma?j=ASOG_BE",
+      "checked_on": "2026-10-02",
+      "supports": "Aktuelle Gesamtausgabe mit Gültigkeit19.07.2026–31.12.2030; §§ 2, 17/17a, 21, 29–41, 48/48a/50, 65/65a/67 und Übergänge maßnahmenspezifisch.",
+      "verification_status": "amtliche_normpassagen_im_root_browser_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004928",
+      "checked_on": "2026-10-02",
+      "supports": "LOG BE § 13 Detailzuständigkeit und § 51 Übergang; Altkatalog nicht pauschal fortgeltend.",
+      "verification_status": "amtliche_normpassagen_im_root_browser_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-24-vom-1872026-s-541-684.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "ZustV23.06.2026, verkündet18.07., in Kraft19.07.; §§1/6/7 und Gesamtkatalog.",
+      "verification_status": "amtliche_normpassagen_durch_root_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe_nr._8_vom_20.3.2026_s._101-136.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "Gesetz09.03.2026GVBl117 verändert alten Zuständigkeitskatalog für geografische Erzeugnisangaben, nicht allgemeine Kontrollbefugnis.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-11-vom-1542026-s-153-168.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "Gesetz01.04.2026 zu Unterbringung, §17Abs4 und Berliner Verfahrensrecht; Einzeländerungen nicht pauschal universalisieren.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/polizei/polizeimeldungen/fakten-hintergruende/artikel.1078268.php",
+      "checked_on": "2026-10-02",
+      "supports": "Amtliche Gebietsinformation zur kbO-Verordnung17.06.2026, verkündet30.06.2026; konkrete Karten müssen für den Fall gelesen werden.",
+      "verification_status": "amtliche_informationsseite_gelesen_keine_einzelfallkartenpruefung"
+    }
+  ],
+  "decision_sources": [
+    {
+      "key": "wohnung2025",
+      "citation": "BVerfG, Beschluss vom 30.09.2025 – 2 BvR 460/25",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250930_2bvr046025.html",
+      "passages": "Rn. 24, 27–30, 34–46, 48–53",
+      "application": "Wohnraum in einer Gemeinschaftsunterkunft ist geschützt. Zielgerichtetes Aufspüren einer Person verlangt eine vorausschauende Prüfung des Durchsuchungscharakters und grundsätzlich vorherige richterliche Kontrolle.",
+      "limit": "Abschiebungsfall nach AufenthG; dessen Zuständigkeit und Ermächtigung nicht als ASOG-Norm übertragen. Keine automatische Rechtswidrigkeit jeder Begleitmaßnahme.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "wohnung2026",
+      "citation": "OVG Berlin-Brandenburg, Urteil vom 24.03.2026 – OVG 3 B 20/25",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/28900",
+      "passages": "Entscheidungsgründe 1 und 2; amtliche HTML-Fassung ohne ausgewiesene Randnummern",
+      "application": "Nach Zurückverweisung bleibt die Wohnungsdurchsuchung rechtswidrig; die verfassungsgerichtliche Aufhebung erfasst nicht automatisch den bereits rechtskräftigen anderen Streitgegenstand zur Sicherstellung.",
+      "limit": "Kein neues Gesamturteil über die materielle Rechtmäßigkeit sämtlicher Sicherstellungen. Den Umfang von Tenor und Gründen getrennt lesen.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "reste2026",
+      "citation": "OVG Berlin-Brandenburg, Beschluss vom 23.07.2026 – OVG 6 S 181/26",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/29246",
+      "passages": "Gründe 1–3; amtliche HTML-Fassung ohne ausgewiesene Randnummern",
+      "application": "Herausgabe einer noch existierenden Sache, Erlös und Reste nach rechtskräftig angeordneter Vernichtung sind verschiedene Begehren. Ein bloß einfach signierter Schriftsatz aus einem fremden beA genügt nicht ohne verantwortliche Übernahme; technische Ersatzeinreichung konkret glaubhaft machen.",
+      "limit": "Beschwerdeprüfung anhand der dargelegten Gründe und tatsächliche fehlende Identifizierbarkeit der Reste. Keine pauschale Ermächtigung zur Vernichtung und keine Aussage, dass jede Sicherstellung Eigentum entzieht.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "kurzerledigt2024",
+      "citation": "BVerwG, Urteil vom 24.04.2024 – 6 C 2.22",
+      "url": "https://www.bverwg.de/240424U6C2.22.0",
+      "passages": "Urteil Rn. 16–27 und 31–38; nicht den auf derselben Seite vorangestellten Anfragebeschluss verwechseln",
+      "application": "Kurzfristige Erledigung genügt außerhalb anderer anerkannter Interessen nicht allein; qualifizierten Grundrechtseingriff oder konkrete Wiederholungsgefahr, Rehabilitation oder präjudizielle Bedeutung prüfen.",
+      "limit": "NRW-Aufenthaltsverbot; weder Berliner Eingriffstatbestand noch genereller Ausschluss nachträglichen Rechtsschutzes.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "versammlung2024",
+      "citation": "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22",
+      "url": "https://www.bverwg.de/270324U6C1.22.0",
+      "passages": "Rn. 35–67 sowie 68–83",
+      "application": "Kommunikative Blockade nicht vorschnell aus dem Versammlungsbegriff herausdefinieren. Die Ausnahme bei von Anfang an durchgehend unfriedlicher Versammlung ist eng; Dauer und Modalitäten des Gewahrsams bleiben eigenständig aufzuklären.",
+      "limit": "Fall aus Baden-Württemberg unter Bundes-VersG und damaligem Landesrecht. Berliner VersFG und Berliner Rechtswegzuweisung separat; keine Kollektivhaftung friedlicher Teilnehmender.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "beifang2025",
+      "citation": "BVerwG, Urteil vom 02.12.2025 – 6 C 1.25",
+      "url": "https://www.bverwg.de/021225U6C1.25.0",
+      "passages": "Rn. 11–21",
+      "application": "Historischen Zeitpunkt der Datenerhebung bestimmen, Kombination von Observation und Bildaufzeichnung erfassen, konkretisierte Gefahr und die notwendige Miterfassung Dritter jeweils prüfen.",
+      "limit": "NRW-Altnormen und verfassungsgerichtliche Übergangsmaßgabe bis Ende 2025. Keine Übertragung der abgelaufenen Fortgeltung auf Berlin 2026.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "observation2024",
+      "citation": "BVerfG, Beschluss vom 14.11.2024 – 1 BvL 3/22",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html",
+      "passages": "Rn. 87–107 und 110–112",
+      "application": "Kombinierte längerfristige Observation und Bildaufzeichnung hat hohes Eingriffsgewicht; hinreichend bestimmte, mindestens konkretisierte Gefahr als Maßstab der geprüften Kombination.",
+      "limit": "Verfassungswidrigkeit konkret bezeichneter NRW-Vorschriften; keine automatische Nichtigkeit der neu gefassten Berliner Datenbefugnisse.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "speicherung2024",
+      "citation": "BVerfG, Urteil vom 01.10.2024 – 1 BvR 1160/19",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/10/rs20241001_1bvr116019.html",
+      "passages": "Rn. 132–153 sowie 156–193; Leitsätze 2 und 3",
+      "application": "Zweckerreichung, zweckändernde Nutzung und vorsorgende Speicherung unterscheiden. Speicherung benötigt tragfähige Schwellen, individuelle Prognose und angemessene Dauer; alte Prognosen nicht automatisch fortschreiben.",
+      "limit": "BKAG-Verfahren mit eigenem Tenor. ASOG/BlnDSG und konkrete Datei separat prüfen; nicht jede Verfahrenseinstellung führt ausnahmslos zur Löschung.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "herausgabe2018",
+      "citation": "OVG Berlin-Brandenburg, Urteil vom 15.11.2018 – OVG 1 B 2.18",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/14012",
+      "passages": "Leitsätze 1 und 2; Entscheidungsgründe zur Herausgabe, amtliches HTML ohne Randnummern",
+      "application": "Die Rückgabe an den früheren Gewahrsamsinhaber ist von der Prüfung einer anderen berechtigten Person zu unterscheiden; Eigentumsnachweis nicht reflexhaft als einzige Rückgabevoraussetzung behandeln.",
+      "limit": "Brandenburgisches Polizeigesetz. Damals herangezogene Berliner Parallele nicht über spätere Änderungen von § 41 ASOG hinweg anwenden; heutige Verweigerungsgründe prüfen.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    },
+    {
+      "key": "stpo2018",
+      "citation": "OVG Berlin-Brandenburg, Beschluss vom 25.04.2018 – OVG 12 S 18.18",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/9050",
+      "passages": "Gründe, Absätze beginnend „§ 41 Abs. 1 ASOG regelt“ und „Waren Gegenstände zur Beweissicherung“; HTML ohne Randnummern",
+      "application": "Eine strafprozessuale Beschlagnahme wird nach Freigabe nicht durch analoge Anwendung von § 41 ASOG fortgesetzt. Für neue präventive Verwahrung braucht es eine eigenständige tragfähige Grundlage.",
+      "limit": "Besonderer Präparatefall; VG-Rechtsweg im konkreten Beschwerdeverfahren aufgrund § 17a Absatz 5 GVG bindend, kein allgemeiner VG-Rechtsweg für strafprozessuale Rückgaben.",
+      "checked_on": "2026-10-02",
+      "verification_status": "frisch_amtliche_entscheidungspassagen"
+    }
+  ],
+  "access_log": [
+    {
+      "resource": "ASOG/LOG konsolidierte Berliner Normen",
+      "access": "Unteragent: JS-Portalseite bzw. kein verfügbares CUA-IAB; Root: amtliche Gesamtausgabe im Browser gelesen.",
+      "result": "Root übermittelte genaue Absätze und Geltungsstand19.07.2026–31.12.2030. Keine Behauptung einer unabhängigen vollständigen Unteragenten-Konsolidierungslektüre."
+    },
+    {
+      "resource": "BVerfG2BvR460/25,1BvL3/22,1BvR1160/19",
+      "access": "Amtliche Seiten, teilweise web-InternalError; direkter urllib-HTTP200 und lokale Textauswertung.",
+      "result": "Tragende bezeichnete Passagen gelesen; keine nichtamtliche Zusammenfassung als Volltext ausgegeben."
+    },
+    {
+      "resource": "BVerwG6C2.22",
+      "access": "Amtliche Webseite mit vorangestelltem Anfragebeschluss und späterem endgültigem Urteil.",
+      "result": "Bezeichnete Randnummern ausdrücklich dem Urteil zugeordnet."
+    },
+    {
+      "resource": "OVG28900/29246/14012/9050",
+      "access": "Amtliche Brandenburg-Entscheidungsdatenbank, Volltexte/tragende Gründe.",
+      "result": "Keine sichtbaren Randnummern; Gliederung und identifizierender Absatzanfang verwendet."
+    },
+    {
+      "resource": "Reformgesetz11.12.2025PDF",
+      "access": "Einzelabruf des Verkündungs-PDF zeitweise429.",
+      "result": "Keine eigene erfolgreiche PDF-Lektüre behauptet; aktuelle Normpassagen und Übergänge im Root-Browser sowie §69-Portalseite geprüft."
+    }
+  ],
+  "remaining_limits": [
+    "Keine lückenlose Recherche sämtlicher Entscheidungen oder uneingeschränkte Aktualitätsgarantie.",
+    "ASOG-Konsolidierung war im Unteragentenbrowser technisch nicht verfügbar; maßgebliche Passagen wurden von Root im amtlichen Browser gelesen und mit präzisen Normangaben weitergegeben.",
+    "OVG-HTML-Fassungen zeigen keine Randnummern; deshalb Gliederung oder Absatzanfang statt erfundener Zahlen.",
+    "BVerfG-Seiten nach web-Fehler teilweise per direktem urllib-HTTP-Abruf und Textauswertung gelesen.",
+    "Historische NRW-/Brandenburg-/BW-Fälle und BKAG-Tenor werden mit ausdrücklich benannter Übertragungsgrenze verwendet.",
+    "Keine geprüfte Literatur aus bloßer Erinnerung; keine behauptete vollständige Kommentarauswertung.",
+    "Redaktionelle Prüffälle und Quellenprüfung sind keine beobachteten Modellläufe."
+  ],
+  "artifacts": {
+    "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md": {
+      "sha256": "b6dce7f60d82b8f023c72f8b6512f2aecad634b72a76d18d9ae4d417833d0249",
+      "characters": 111272,
+      "utf8_bytes": 113404
+    },
+    "berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md": {
+      "sha256": "7f823b062280e7f8dfdbcfd52a4d960c287cdfde8949d4411a5324eb32bcdb08",
+      "characters": 7221,
+      "utf8_bytes": 7376
+    },
+    "berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.md": {
+      "sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
+      "characters": 7077,
+      "utf8_bytes": 7354
+    }
+  }
+}

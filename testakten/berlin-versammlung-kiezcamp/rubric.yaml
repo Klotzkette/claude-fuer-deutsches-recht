@@ -1,0 +1,119 @@
+name: 'Kiezcamp: korrigiertes Übernachtungs- und Infrastrukturkonzept'
+plugin: berliner-versammlungsrecht
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-versammlung-kiezcamp
+  fachprofil: quality/evals/berliner-versammlungsrecht.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Antwort_Campanhoerung.docx
+  zweck: Vollständiger Entwurf zur Anhörung mit ehrlicher Darstellung der Konzeptänderung.
+- datei: Flaechen_und_Nachtplan.xlsx
+  zweck: Getrennte Flächen-, Infrastruktur- und Personenplanung mit offenen Maßen und Rollenwechseln.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-versammlung-kiezcamp_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 10_Anhoerung_Infrastruktur.eml
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 16_Beschluss_Orga.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 18_Rueckmeldung_Gaeste.eml
+- id: fach-anhoerung
+  check_type: human_review
+  description: Wird die Anhörungsfrist 6. Oktober 2026, 12 Uhr von einem verbindlichen Bescheid unterschieden?
+    Kein automatischer Widerspruch gegen die vorgeschlagene Zweizeltlösung.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-aenderung
+  check_type: human_review
+  description: Werden ursprüngliche externe Beherbergungsabsicht, späterer Beschluss und Rückmeldung
+    der Gäste offen und chronologisch dargestellt? Kein rückwirkendes Umschreiben des ursprünglichen
+    Konzepts und keine fiktive behördliche Bestätigung der Änderung.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-infrastruktur
+  check_type: human_review
+  description: Wird Übernachtungsinfrastruktur nach ihrem konkreten funktionalen Bezug zur eigenen
+    Versammlung geprüft? BVerwG 6 C 4.23 ist kein pauschales Übernachtungsverbot; 6 C 9.20 ist kein
+    Freibrief für beliebige Unterkunft.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-nachtpersonen
+  check_type: human_review
+  description: Werden vier verschiedene eigene Helfer mit wechselnden Ruhe- und Ansprechrollen erkannt
+    statt acht Personen aus addierten Schichten? Auswärtige Gäste sind nach der Änderung nicht als
+    tatsächlich eingeplante Übernachtungsgäste weiterzurechnen.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-flaeche
+  check_type: human_review
+  description: Werden 41,08 Quadratmeter reine Standfläche des alten Plans, gerundet dargestellte
+    41,1 Quadratmeter, zusätzliche Wege und noch offene Maße der größeren Sanitärkabine unterschieden?
+    Das 680-Euro-Angebot ist keine bereits ausgelöste Bestellung.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Enthält das konkrete Antwortschreiben ein nachvollziehbares eigenes Konzept, begrenzte
+    Maß- und Abholrückfragen und passende Belege? Der Excel-Plan ergänzt fehlende Maße nicht erfinderisch
+    und behauptet weder vollständige Flächengenehmigung noch Versand.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Wird die Anhörungsfrist 6. Oktober 2026, 12 Uhr von einem verbindlichen Bescheid unterschieden?
+  Kein automatischer Widerspruch gegen die vorgeschlagene Zweizeltlösung.
+- Werden ursprüngliche externe Beherbergungsabsicht, späterer Beschluss und Rückmeldung der Gäste
+  offen und chronologisch dargestellt? Kein rückwirkendes Umschreiben des ursprünglichen Konzepts
+  und keine fiktive behördliche Bestätigung der Änderung.
+- Wird Übernachtungsinfrastruktur nach ihrem konkreten funktionalen Bezug zur eigenen Versammlung
+  geprüft? BVerwG 6 C 4.23 ist kein pauschales Übernachtungsverbot; 6 C 9.20 ist kein Freibrief für
+  beliebige Unterkunft.
+- Werden vier verschiedene eigene Helfer mit wechselnden Ruhe- und Ansprechrollen erkannt statt acht
+  Personen aus addierten Schichten? Auswärtige Gäste sind nach der Änderung nicht als tatsächlich
+  eingeplante Übernachtungsgäste weiterzurechnen.
+- Werden 41,08 Quadratmeter reine Standfläche des alten Plans, gerundet dargestellte 41,1 Quadratmeter,
+  zusätzliche Wege und noch offene Maße der größeren Sanitärkabine unterschieden? Das 680-Euro-Angebot
+  ist keine bereits ausgelöste Bestellung.
+- Enthält das konkrete Antwortschreiben ein nachvollziehbares eigenes Konzept, begrenzte Maß- und
+  Abholrückfragen und passende Belege? Der Excel-Plan ergänzt fehlende Maße nicht erfinderisch und
+  behauptet weder vollständige Flächengenehmigung noch Versand.

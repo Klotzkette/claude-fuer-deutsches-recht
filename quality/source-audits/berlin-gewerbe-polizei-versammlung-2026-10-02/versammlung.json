@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "plugin": "berliner-versammlungsrecht",
+  "checked_on": "2026-10-02",
+  "review_type": "primary_source_passage_and_editorial_review",
+  "sources": [
+    {
+      "url": "https://www.parlament-berlin.de/media/download/3646",
+      "checked_on": "2026-10-02",
+      "supports": "VersFG BE vom 23.02.2021, vollständiger Gesetzestext §§ 1–32; Schwerpunkt §§ 2–20, 26–31.",
+      "verification_status": "amtlicher_gesetzestext_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/jlr-BEFFNAbsch2",
+      "checked_on": "2026-10-02",
+      "supports": "Fundstellennachweis mit Stand 19.07.2026 führt VersFG BE ohne Änderungsgesetz auf.",
+      "verification_status": "amtlich_indexierter_fundstellennachweis_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/inneres/sicherheit/polizei/recht-der-oeffentlichen-sicherheit-und-ordnung/versammlungsrecht/",
+      "checked_on": "2026-10-02",
+      "supports": "VersFG seit 28.02.2021, amtliche Verknüpfung und ergänzende Gedenkortregelung.",
+      "verification_status": "amtliche_servicepassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/",
+      "checked_on": "2026-10-02",
+      "supports": "Zuständige Versammlungsbehörde und Anzeigeinformationen als operativer Einstieg; kein Ersatz des Normtexts.",
+      "verification_status": "amtliche_servicepassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41548.php",
+      "checked_on": "2026-10-02",
+      "supports": "Artikel 26 VvB, Versammlungsfreiheit aller Männer und Frauen; Schranken bei Versammlungen unter freiem Himmel.",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/ausgabe-nr-37-vom-30122025-s-669-696.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "Gedenkortverordnung vom 16.12.2025, GVBl. S. 695, §§ 1/2; in Kraft seit 31.12.2025.",
+      "verification_status": "amtliche_verkuendung_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-24-vom-1872026-s-541-684.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "ZustV vom 23.06.2026, GVBl. S. 547, §§ 1/6/7; Gesamtkatalog S. 595, Nrn. 1.9.22.1.2, 1.9.22.2.1 und 1.9.22.2.3; seit 19.07.2026.",
+      "verification_status": "amtliche_verkuendung_passagen_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/NJRE001638744",
+      "checked_on": "2026-10-02",
+      "supports": "Kooperation als materieller Faktor; konkrete Prognose und Vergleichbarkeit; räumlich, zeitlich und gegenständlich begrenztes Ersatzversammlungsverbot.",
+      "verification_status": "amtlicher_kopf_und_indexierte_tragende_passagen_gelesen_direktportal_eingeschraenkt"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rs20251001_1bvr242820.html",
+      "checked_on": "2026-10-02",
+      "supports": "Eigenständige nicht völlig untergeordnete Gegenkommunikation kann geschützt sein; Behinderung ist nicht automatisch Unfriedlichkeit; Schutzbereich und Strafbarkeit auseinanderhalten.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/271124U6C4.23.0",
+      "checked_on": "2026-10-02",
+      "supports": "Mitveranstalter, Unterkunft für Teilnehmende anderer Versammlungen, Gesamtgepräge und konkretes Feststellungsinteresse.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/270324U6C1.22.0",
+      "checked_on": "2026-10-02",
+      "supports": "Versammlungsbegriff nicht nach missbilligtem Zweck verkürzen; fortdauernde Maßnahmen brauchen fortdauernde Voraussetzungen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/24522",
+      "checked_on": "2026-10-02",
+      "supports": "Öffentlicher Wald als Versammlungsort; konkrete Infrastruktur und Gefahrenbegründung; Begrenzung im Eilverfahren.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/240522U6C9.20.0",
+      "checked_on": "2026-10-02",
+      "supports": "Dauer nicht allein ausschlaggebend; Infrastruktur durch inhaltliche Verbindung oder logistische Erforderlichkeit und räumliche Zurechnung geschützt.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/251017U6C46.16.0",
+      "checked_on": "2026-10-02",
+      "supports": "Objektiv einschüchternde staatliche Maßnahmen können Teilnahmeentscheidung bereits im Vorfeld beeinträchtigen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html",
+      "checked_on": "2026-10-02",
+      "supports": "Unmittelbare Grundrechtsbindung öffentlich beherrschter Unternehmen und allgemein eröffnete Kommunikationsräume.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/02/rs20090217_1bvr249208.html",
+      "checked_on": "2026-10-02",
+      "supports": "Identifizierbare Aufzeichnungen können abschrecken; flüchtige Übersichtsübertragung unterscheidet sich in Gewicht und Voraussetzungen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    }
+  ],
+  "decisions": [
+    {
+      "key": "ersatz2026",
+      "citation": "VG Berlin, Urteil vom 19.02.2026 – 1 K 196/24",
+      "url": "https://gesetze.berlin.de/bsbe/document/NJRE001638744",
+      "passages": "Kopf; Rn. 24–26, 28–32 und 55–61",
+      "application": "Kooperation als materieller Faktor; konkrete Prognose und Vergleichbarkeit; räumlich, zeitlich und gegenständlich begrenztes Ersatzversammlungsverbot.",
+      "limit": "Erhebliches Gewaltrisiko im Ausgangsfall, kein generelles 48-Stunden-Verbot jeder thematisch ähnlichen Versammlung. Keine bestätigte Rechtskraft.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtlicher_kopf_und_indexierte_tragende_passagen_gelesen_direktportal_eingeschraenkt"
+    },
+    {
+      "key": "gegenprotest2025",
+      "citation": "BVerfG, Beschluss vom 01.10.2025 – 1 BvR 2428/20",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rs20251001_1bvr242820.html",
+      "passages": "Rn. 68–105 und 160–178, insbesondere 104–105",
+      "application": "Eigenständige nicht völlig untergeordnete Gegenkommunikation kann geschützt sein; Behinderung ist nicht automatisch Unfriedlichkeit; Schutzbereich und Strafbarkeit auseinanderhalten.",
+      "limit": "Prüfungsgegenstand § 21 BundesVersG; für Berlin §§ 8/26/27 mit eigenen Voraussetzungen. Keine generelle Straflosigkeit und keine schlechthin erforderliche Auflösung vor jeder Sanktion.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "schlafcamp2024",
+      "citation": "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23",
+      "url": "https://www.bverwg.de/271124U6C4.23.0",
+      "passages": "Rn. 27–49, insbesondere 34–35, 36–41 und 42–49",
+      "application": "Mitveranstalter, Unterkunft für Teilnehmende anderer Versammlungen, Gesamtgepräge und konkretes Feststellungsinteresse.",
+      "limit": "Hamburger Fall unter BundesVersG; auswärtige Gäste nicht automatisch eigene Campinfrastruktur. Geändertes Vorhaben kann Wiederholungsinteresse anders beeinflussen als wesentlich gleichbleibendes.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "polizeifest2024",
+      "citation": "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22",
+      "url": "https://www.bverwg.de/270324U6C1.22.0",
+      "passages": "Rn. 32–44 und 64–80",
+      "application": "Versammlungsbegriff nicht nach missbilligtem Zweck verkürzen; fortdauernde Maßnahmen brauchen fortdauernde Voraussetzungen.",
+      "limit": "Historischer baden-württembergischer Polizeifall; dortige Befugnisse nicht nach Berlin übertragen. Nicht alle Maßnahmen waren rechtswidrig; bei von Beginn an kollektiv unfriedlicher Zusammenkunft keine allgemeine Auflösungsvoraussetzung.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "waldcamp2024",
+      "citation": "OVG Berlin-Brandenburg, Beschluss vom 16.05.2024 – OVG 1 S 30/24",
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/24522",
+      "passages": "Gründe zu 1 und 2; ECLI:DE:OVGBEBB:2024:0516.OVG1S30.24.00",
+      "application": "Öffentlicher Wald als Versammlungsort; konkrete Infrastruktur und Gefahrenbegründung; Begrenzung im Eilverfahren.",
+      "limit": "Brandenburg, BundesVersG und dortiges Waldrecht; keine automatische Baumhauserlaubnis in Berliner Parks. Amtliche freie Ansicht ohne durchgehende Randnummern, deshalb Gliederungsstellen.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "protestcamp2022",
+      "citation": "BVerwG, Urteil vom 24.05.2022 – 6 C 9.20",
+      "url": "https://www.bverwg.de/240522U6C9.20.0",
+      "passages": "Rn. 18–30",
+      "application": "Dauer nicht allein ausschlaggebend; Infrastruktur durch inhaltliche Verbindung oder logistische Erforderlichkeit und räumliche Zurechnung geschützt.",
+      "limit": "Ländlicher rheinischer Braunkohlegebietsfall; fehlende Übernachtungsalternativen dort sind keine feststehende Tatsache für ein Berliner Stadtcamp.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "tornado2017",
+      "citation": "BVerwG, Urteil vom 25.10.2017 – 6 C 46.16",
+      "url": "https://www.bverwg.de/251017U6C46.16.0",
+      "passages": "Rn. 28–36",
+      "application": "Objektiv einschüchternde staatliche Maßnahmen können Teilnahmeentscheidung bereits im Vorfeld beeinträchtigen.",
+      "limit": "Sehr niedriger unangekündigter Tornadoüberflug; nicht jede offene Polizeipräsenz gleich gewichten. Keine neue Berliner Befugnis aus altem Recht Mecklenburg-Vorpommerns.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "fraport2011",
+      "citation": "BVerfG, Urteil vom 22.02.2011 – 1 BvR 699/06",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html",
+      "passages": "Rn. 45–60 und 62–70",
+      "application": "Unmittelbare Grundrechtsbindung öffentlich beherrschter Unternehmen und allgemein eröffnete Kommunikationsräume.",
+      "limit": "Keine beliebige private Zutrittsbefugnis; § 20 VersFG BE unterscheidet öffentliche Beherrschung und rein private Flächen mit eigener Abwägung.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "key": "bilder2009",
+      "citation": "BVerfG, Beschluss vom 17.02.2009 – 1 BvR 2492/08",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/02/rs20090217_1bvr249208.html",
+      "passages": "Rn. 129–135",
+      "application": "Identifizierbare Aufzeichnungen können abschrecken; flüchtige Übersichtsübertragung unterscheidet sich in Gewicht und Voraussetzungen.",
+      "limit": "Eilverfahren zum damaligen BayVersG, keine Berliner Speicherbefugnis. § 18 Absätze 1 bis 5 eigenständig prüfen; Bild eines Kamerafahrzeugs beweist keine Speicherung.",
+      "checked_on": "2026-10-02",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    }
+  ],
+  "norm_scope": {
+    "base_law": "VersFG BE vom 23.02.2021, GVBl. S. 180, wirksam seit 28.02.2021",
+    "full_consolidated_portal_read": false,
+    "fundstellennachweis_stand": "2026-07-19",
+    "amendment_result": "Kein Änderungsgesetz zum VersFG im gelesenen amtlichen Fundstellennachweis; GedenkortVO und ZustV als eigenständige Rechtsakte getrennt geprüft.",
+    "supplements": [
+      "GedenkortVO 16.12.2025, seit 31.12.2025.",
+      "ZustV 23.06.2026, seit 19.07.2026; § 6 erhält gesetzliche Zuständigkeit."
+    ]
+  },
+  "artifacts": {
+    "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md": {
+      "characters": 100336,
+      "utf8_bytes": 102214,
+      "sha256": "74556800441aa466b466f17abc93b88053265f8c03d16e6cdb18e306c0ccdaa3",
+      "identical_txt": true
+    },
+    "berliner-versammlungsrecht/berliner-versammlungsrecht-schnellstart.md": {
+      "characters": 7251,
+      "utf8_bytes": 7409,
+      "sha256": "4add3fd635cad5a1f9e8593b4aa18349da50f4ff5952f218b90eabe43ca85153",
+      "identical_txt": true
+    },
+    "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md": {
+      "characters": 7327,
+      "utf8_bytes": 7497,
+      "sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
+      "identical_txt": true
+    }
+  },
+  "test_data": {
+    "specification": "scripts/berlin_versammlungsakten_daten.py",
+    "cases": [
+      "berlin-versammlung-fahrradkorso",
+      "berlin-versammlung-spontane-mahnwache",
+      "berlin-versammlung-kiezcamp"
+    ],
+    "files_per_case": 18,
+    "docx_per_case": 8,
+    "eml_per_case": 7,
+    "txt_per_case": 2,
+    "xlsx_per_case": 1,
+    "sheets_per_xlsx": 2,
+    "docx_word_range": [
+      221,
+      255
+    ],
+    "native_rendering": "Separater Integrationslauf durch Hauptagent; hier keine visuelle Freigabe nativer Testaktendateien behauptet."
+  },
+  "verification_limits": [
+    "Direkte konsolidierte Berliner Portalansicht war technisch eingeschränkt; Normprüfung anhand amtlicher vollständiger Fassung, Fundstellennachweis und konkreter Verkündungen.",
+    "VG Berlin 2026: amtlicher Kopf und indexierte tragende Passagen gelesen; kein vollständig direkt geladener Portalvolltext, keine geprüfte Rechtskraft.",
+    "Redaktionelle Sollfälle, keine hier beobachteten Modellläufe oder Erfolgsgarantie.",
+    "Kein Anspruch auf vollständige Suche sämtlicher 2026-Entscheidungen; aufgenommen sind belegte einschlägige Anker.",
+    "Die neun Urteile/Beschlüsse wurden in den bezeichneten tragenden Passagen gelesen, nicht als vollständige Akten oder unveröffentlichte Verfahrensstände."
+  ],
+  "model_runs_executed": false,
+  "technical_checks": {
+    "yaml_frontmatter": "11 Dateien mit Repo-Prüffunktion, 0 Fehler/0 Warnungen",
+    "markdown_structure": "Alle Plugin-Markdowns mit Repo-inspect, 0 Befunde",
+    "headings": "Skills und Prompts genau eine H1; Skills sechs Pflichtabschnitte; dezimale Prompts",
+    "runtime_links": "Alle lokalen Referenzlinks aus Skills vorhanden",
+    "prompt_bytes": "Mini 7409 und Hauptproblem 7497 UTF-8-Bytes; MD/TXT identisch",
+    "eval": "16 Fälle, erster Fall Hauptskill, alle elf Skills abgedeckt; sämtliche Akten-Eingabepfade vorhanden",
+    "test_data": "3 x 18 Dateien, je 8 DOCX/7 EML/2 TXT/1 XLSX; DOCX 221–255 Wörter"
+  }
+}

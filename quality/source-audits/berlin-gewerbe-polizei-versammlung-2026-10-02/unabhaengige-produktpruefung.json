@@ -1,0 +1,302 @@
+{
+  "date": "2026-10-02",
+  "hash_scope": "Dateistand der statisch geprüften Hauptprodukte und der auf interne Links/Abhängigkeiten geprüften Skills/Referenzen. Kein pauschaler Volllektürenachweis.",
+  "files": [
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/README.md",
+      "sha256": "30cab191d417ce4ae3b83804740200ecc8524ca233f4583599679377359036c8"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/.codex-plugin/plugin.json",
+      "sha256": "f01022ae114b87aefce8da504002ee854b1d455ea64d44e08852c8bbee3fe192"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-schnellstart.md",
+      "sha256": "ada29b5d936f5c65b9cd105cc945fe5ca9b88c6d2d18194da7c690e4923b7f5b"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-hauptproblem.md",
+      "sha256": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-hauptproblem-zum-ergebnis-fuehren/SKILL.md",
+      "sha256": "ef3582f6a3815a719f5977fb13373051a9bd5936f3e60fcddadc69c347c3a6f3"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-lebensmittel-und-hygiene/SKILL.md",
+      "sha256": "cf8c6739d89da71e11d9de690af08c6b7ebfe5be35a6113b855acdb89a7152ab"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-gaststaette-und-uebernahme/SKILL.md",
+      "sha256": "282cf2c63d127c959c93e45ef0d9e38dbb04c237db7388fc1e9412de020255dc"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-arbeitsschutz-und-schichtbetrieb/SKILL.md",
+      "sha256": "4f540990f6b945c15ea3afde1ec264bf5713f9f10fe972e59e8f2f23e8554123"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-spaeti-und-sonntag/SKILL.md",
+      "sha256": "d2ce4dae9d3e2f177c09ed6b89bf789323f79b6d30bde0bccd24e82194c0f993"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-radiologie-und-strahlenschutz/SKILL.md",
+      "sha256": "d45f78a3c0cf32c208438ea4498077f5e929c0ad900f03295eeffda7562e0c92"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-raeume-nutzung-und-sondernutzung/SKILL.md",
+      "sha256": "f4f98012ca929b60ebbe29a583dafd0e9da169217e21f38c2b682b7bd320dde2"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-laerm-und-nachbarschaft/SKILL.md",
+      "sha256": "28972fc652e76912acec1b179c60d47a705ed43cda4adeb4d3662fa15f6b0fc5"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-kontrolle-und-anhoerung/SKILL.md",
+      "sha256": "03e5af048f81483070417a15ad37dea55d523d9e9ba0966d7be1fa915ba063de"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-zuverlaessigkeit-und-untersagung/SKILL.md",
+      "sha256": "a2b055593238224232040cb8a2969b91de3c09f2bf8e0aedbd50e4678dc78a25"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-gewerbeanzeige-und-berufsabgrenzung/SKILL.md",
+      "sha256": "b867b63bf5e05a39644215d3fc118bb4df7affa3b2ffd82e339bcd9cb1d7f365"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/laerm-und-nachbarschaft.md",
+      "sha256": "a9b24fe3c780624b97614ecf129f3425df1df9acfcdebf5802782f03c3921d23"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/mandat-und-verfahren.md",
+      "sha256": "26fa79679f2d1d4633c7a027f20384acad25ad74bb53250c44277e23a90b0309"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/normen-und-zustaendigkeit.md",
+      "sha256": "d1c1042d16948f4bf0c748336578bdd113ef2ce69434570ef285ca56591cfa1d"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/zuverlaessigkeit.md",
+      "sha256": "adb82c23ed9d1e86afe8f93c3fe09d5752dc81ca5bae4ba870fd7949492f5b68"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/kontrolle-und-anhoerung.md",
+      "sha256": "559d2cdab7a2eb7aa8ab02a82860f09d3fd98643631d9dcd5155b4e68ee80786"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/lebensmittel-und-hygiene.md",
+      "sha256": "886e35707da95aca8e38c9afecf46082bd9e4e3d978a320d92816b6bd7b108e9"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/bau-und-aussenflaechen.md",
+      "sha256": "e279f836280d68776de19c9f906db3db07f4e7e9492f81b0a95b231a870fde34"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/gaststaette.md",
+      "sha256": "5812d5caf99c898e2d74875ee8bd8d869f3cc8c6e3ae9a1cba2151df38680214"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/radiologie.md",
+      "sha256": "579131643447a107be8bde21e42fcaea7ffe6f69a370ef9f0fe5dc7611573cfd"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/rechtsprechung.md",
+      "sha256": "a080a9cabec4092d8b72cc64a12a9abb1319a091dd217b8f2ff7c663cf92fdee"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/spaeti-und-ladenoeffnung.md",
+      "sha256": "8c954396c7d45f4dc99bd451d40f4442adbcd2d679e84afaf7ac6afbd3c65d4d"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/arbeitsschutz.md",
+      "sha256": "281757b4312224bc71b663a05024b778b363c15486bf282285e41303118b5742"
+    },
+    {
+      "path": "berliner-gewerbeaufsicht-betrieb/references/gewerbeanzeige.md",
+      "sha256": "8d861e84fc1e6c93a56f6d49eaead8b05318d173f78b231a89c612651a1a095d"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/README.md",
+      "sha256": "300e113c92224ce773472d941923ea8d339eff84efcb1b79cd4bbe42475c52a2"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/.codex-plugin/plugin.json",
+      "sha256": "19f29e88ea80e342c5ceced18f031616c7ce890bba429944fd8dd857f932e397"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md",
+      "sha256": "7f823b062280e7f8dfdbcfd52a4d960c287cdfde8949d4411a5324eb32bcdb08"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.md",
+      "sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-gewahrsam-und-richterkontrolle/SKILL.md",
+      "sha256": "de64282cc4c3070019c9919a4464503d7f3283a760890b94a94f9c935e080dcd"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
+      "sha256": "43afdfc4a33b73f3c1cd5284b69de55806b7f999e35173deae464e034c1ecba6"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-vollstreckung-zwang-und-kosten/SKILL.md",
+      "sha256": "554f340e6d6eaf909d0d182039ec5bc8664b322310e0dbe37fa2b4d902a37c45"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-polizeidaten-auskunft-und-korrektur/SKILL.md",
+      "sha256": "8d32944883aa72961bc111fdd3af8acf10fb8eb77fedfdafea72c30215ea77df"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-sicherstellung-verwahrung-herausgabe/SKILL.md",
+      "sha256": "c4cb240bf0a6f519da306f1bdf1634f21a74621190d0c92f383778dd469ab48d"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-sonderlagen-und-versammlungsgrenzen/SKILL.md",
+      "sha256": "4171b4d273847f0465a5d2d0df20f1a46141cf329527fed9830d9487c6112cf2"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-identitaet-befragung-und-ed/SKILL.md",
+      "sha256": "b4c357662ef9cc76ecdcc8560d0b9071f85e5d7eff98035735f507db708cb0f4"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-rechtsbehelf-eilrechtsschutz-und-folgen/SKILL.md",
+      "sha256": "503ca313de8a149c6d1e68c961befba5edc9f85adb9de213c0f95def97fe827f"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-durchsuchung-und-wohnraumschutz/SKILL.md",
+      "sha256": "5b3396806a8d9111f1f7cafcb90fabc7eb83b91e106f1d260b4d3dc3f8df5bde"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-zustaendigkeit-gefahr-und-stoerer/SKILL.md",
+      "sha256": "27874e7ebf3a62a0015cc3d5e5da5370aafcdd2aa6ffef24f5bbc320122816ea"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/skills/asog-platzverweis-und-aufenthaltsverbot/SKILL.md",
+      "sha256": "a892794a731b9f2b1909bcd2bfc416d9dbd79f1e8db79922f7ecb154e21bac69"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-vollstreckung-zwang-und-kosten.md",
+      "sha256": "dee712449173eba97c9d7ba42e84f0d2c3ab183d974a0eba15d121322c97fe65"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-identitaet-befragung-und-ed.md",
+      "sha256": "381abdb58852f070bd80f937440f66364e3ec683d733a7f41bda2208cc0697bc"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-sonderlagen-und-versammlungsgrenzen.md",
+      "sha256": "84de6d55d2b3312772c27de388821fc5b74333f4252eef33eb60f4e9fbe5c43e"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-polizeidaten-auskunft-und-korrektur.md",
+      "sha256": "3acddb4c5ae0aa1c7d072acb582682e1acf0e348114803cdc87a8247fcc9e399"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-durchsuchung-und-wohnraumschutz.md",
+      "sha256": "9c677f373c252b00b0440541768f5387437488e131757a5606341a4b5afdcd0a"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-gewahrsam-und-richterkontrolle.md",
+      "sha256": "6332eb4066a2bb43193a2259dda9a0ee85254bb0d9f3afe1ac00c053bea06179"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-sicherstellung-verwahrung-herausgabe.md",
+      "sha256": "1eeaedd0f47438f8bc583e48bde6289c20c7e86677b6dc95fe5ef4bb51dd04d0"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/normen-und-verfahren.md",
+      "sha256": "d194715f9d90bdadf676026d38e067d360d787a8e713e3cde063ed6cb6e84b2e"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-platzverweis-und-aufenthaltsverbot.md",
+      "sha256": "6378b9133ee11e9598678ed749c0bfb30f4b235734a1e008094a18721c80fc27"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-zustaendigkeit-gefahr-und-stoerer.md",
+      "sha256": "7f65e30f2b720180ef6271970779a5c664a8972c2e4a45b8c35bdb233a846de7"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/rechtsprechung.md",
+      "sha256": "306fcbac2020568ef05a2de9b8dd2db47cc88a1834071dc8c0dca635c6ae1a17"
+    },
+    {
+      "path": "berliner-asog-polizeirecht/references/asog-rechtsbehelf-eilrechtsschutz-und-folgen.md",
+      "sha256": "255e4684cd0024a830ccaf5ebe7a9338aa274d0b8cc30c99ce2b8a8c5e54983c"
+    },
+    {
+      "path": "berliner-versammlungsrecht/README.md",
+      "sha256": "f7f669cfa7e1cd2c506c12d5a2e74b56889a9e2febed7530b6535fd060079d47"
+    },
+    {
+      "path": "berliner-versammlungsrecht/.codex-plugin/plugin.json",
+      "sha256": "708a759831fefe694919cec4d03afd8cde50b3eb3c3dc449f4dfb5818f7678b2"
+    },
+    {
+      "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-schnellstart.md",
+      "sha256": "4add3fd635cad5a1f9e8593b4aa18349da50f4ff5952f218b90eabe43ca85153"
+    },
+    {
+      "path": "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
+      "sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-gegenversammlung-und-kollision/SKILL.md",
+      "sha256": "7a45a3cff829b22161015eb8ebe0703157c3517d195431bd32762ba8c5f9ada4"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
+      "sha256": "5dbb8399bc334fbb8cf4f5443471aafcb76d84e0da13530a4dabc1cd6558ef3d"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-beschraenkungen-laerm-verkehr/SKILL.md",
+      "sha256": "230abda8d1360c2526ce27da544102509066c4cd79d1bedebe60c3bd2a706751"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-ort-route-und-flaechen/SKILL.md",
+      "sha256": "d1e4402d02af4d4dfa293e88fb16cf8443b1ef4894079fd88a3075678ad79a64"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-rechtsschutz-und-nachbereitung/SKILL.md",
+      "sha256": "94b5c43c123764ee288163c4f035f876fcf387262aafdf6f077f7b030542a361"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-verbot-aufloesung-und-einzelmassnahmen/SKILL.md",
+      "sha256": "0c55c38f2f755a43cbb81906d523bce6e647c7e479e107d086f38ce700c5095d"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-leitung-ordner-und-teilnahme/SKILL.md",
+      "sha256": "0f241839a894cd44a2f816be98f0672ccc1c2cc92d941c593d5bc82a3ec7604c"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-anzeige-und-kooperation/SKILL.md",
+      "sha256": "2da6dd3a5fb536f8d203084556798169420c569f24cffe2975d220546801d242"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-protestcamp-und-infrastruktur/SKILL.md",
+      "sha256": "de6bb392c13c7dffb60a594a50ae60c8395b03c275abb68af01dde4cd7025549"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-begriff-und-grundrechte/SKILL.md",
+      "sha256": "1855e6759fff9abc05dac68e9cddfade55c908d794206b6c715563d5fbaa58ff"
+    },
+    {
+      "path": "berliner-versammlungsrecht/skills/versammlung-polizei-beobachtung-und-daten/SKILL.md",
+      "sha256": "f04458e2e8885f014c6e258a737c66de49c8d2a01440e66f640fe5729f9a8347"
+    },
+    {
+      "path": "berliner-versammlungsrecht/references/zitierweise.md",
+      "sha256": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e"
+    },
+    {
+      "path": "berliner-versammlungsrecht/references/berlin-versammlung-fachreferenz.md",
+      "sha256": "95d0d51987898d659b7cdf72355d8e0eb028bbb7b5d6e11496fe134dea62ddb7"
+    }
+  ]
+}

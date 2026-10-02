@@ -1,6 +1,6 @@
 # fahrgastrechte
 
-**14 Skills** · Stand `v445.26.0`
+**14 Skills** · Stand `v445.27.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../fahrgastrechte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

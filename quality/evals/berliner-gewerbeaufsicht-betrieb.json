@@ -1,0 +1,839 @@
+{
+  "schema_version": 1,
+  "plugin": "berliner-gewerbeaufsicht-betrieb",
+  "reviewed_on": "2026-10-02",
+  "selection": {
+    "target_skill": "betrieb-hauptproblem-zum-ergebnis-fuehren",
+    "positive": [
+      "Unser Berliner Restaurant übernimmt eine alte Konzession. Bitte machen Sie die Behördenantwort.",
+      "Mein Späti bekam eine Anhörung wegen Sonntagsöffnung; Sortiment und Kassenbon liegen bei.",
+      "Das LAGetSi verlangt weitere Unterlagen für das CT in unserer Berliner Radiologie."
+    ],
+    "negative": [
+      "Ich brauche eine Lehrerkonkurrentenklage in Berlin.",
+      "Bitte melden Sie meine Unionsmarke in Alicante an.",
+      "Organisieren Sie meine Demonstration am Brandenburger Tor."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-22-vom-872026-s-485-536.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "Gesetz zur Neuregelung des Gaststättenrechts im Land Berlin vom 25.06.2026, GVBl. S. 488–494; Art. 1 BlnGastG, Art. 2 LImschG Bln, Art. 8.",
+      "passages": "PDF heruntergeladen, Text Seiten 488–494 gelesen. Art.8 Absatz1 sechs Monate nach Verkündung; Abs2 Sonderinkraftsetzung. §15 BlnGastG 08.01.2027, §25 LImschG Bln 07.01.2027.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/jlr-NNLBE00004768NN00000000007/format/xsl?oi=ET4hAcaADS&sourceP=%7B%22source%22%3A%22Link%22%7D",
+      "checked_on": "2026-10-02",
+      "supports": "Amtliche Portalmetadaten BlnGastG: gültig ab 09.01.2027.",
+      "passages": "Konkrete §7-Darstellung einschließlich Metadaten geöffnet; keine vorgezogene Anwendung im Herbst 2026.",
+      "verification_status": "amtliche_metadaten_und_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-24-vom-1872026-s-541-684.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "ZustV vom 23.06.2026 seit 19.07.2026; §6 erhält besondere Zuständigkeiten. Aufgabenzeilen 1.23.7.4.4/.6/.7, 1.22.1.4.4, 1.2.2.2.1/.3/.6–.8 und 1.21.1.2.3.",
+      "passages": "Primär-PDF vom Root bereitgestellt und relevante Tabellenpassagen lokal selbst gelesen: Gewerbe/OA, Lebensmittel/OA, Arbeitsschutz und ionisierender Strahlenschutz/LAGetSi. Keine vollständige Lektüre aller Katalogzeilen behauptet.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/BJNR196610017.html",
+      "checked_on": "2026-10-02",
+      "supports": "StrlSchG konsolidierter Gesamttext mit Änderungsstand Art.4 Gesetz 23.10.2024 BGBl. I Nr.324.",
+      "passages": "Gesamttext-Metadaten und einschlägige Normen geprüft; zwei Wochen sind keine erst künftig geltende Frist.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/__19.html",
+      "checked_on": "2026-10-02",
+      "supports": "Anzeige bestimmter Röntgeneinrichtungen, Zweiwochenvorlauf und Genehmigungssonderfälle.",
+      "passages": "Absätze 1–4 gelesen. Medizinische Diagnostik nicht mit technischen Sonderfällen gleichsetzen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/__20.html",
+      "checked_on": "2026-10-02",
+      "supports": "Behördliche Prüfung innerhalb zwei Wochen, mögliche frühere Mitteilung, Aussetzung und Untersagung.",
+      "passages": "Norm vollständig geöffnet; kein Automatismus bei fehlenden gesetzlichen Nachweisen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://service.berlin.de/dienstleistung/351018/",
+      "checked_on": "2026-10-02",
+      "supports": "Berliner technische Röntgenanzeige und Nachweisliste; abweichende Vierwochenangabe.",
+      "passages": "Dienstleistungsseite gelesen; Widerspruch zu §§19/20 StrlSchG ausdrücklich dokumentiert. Technischer Vorgang nicht ohne Anpassung medizinisch verwenden.",
+      "verification_status": "amtliche_servicequelle_mit_normkonflikt"
+    },
+    {
+      "url": "https://www.berlin.de/lagetsi/technik/strahlen/",
+      "checked_on": "2026-10-02",
+      "supports": "Zuständige Berliner Fachstelle und Trennung ionisierender Strahlung von nichtmedizinischen NiSV-Anwendungen.",
+      "passages": "Amtliche Überblicksseite gelesen, kein Ersatz für konkrete Genehmigung.",
+      "verification_status": "amtliche_servicequelle_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/__12.html",
+      "checked_on": "2026-10-02",
+      "supports": "Genehmigungsbedürftige Tätigkeiten, radioaktive Stoffe und Röntgen; wesentliche Änderung.",
+      "passages": "Einschlägige Nummern gelesen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/__69.html",
+      "checked_on": "2026-10-02",
+      "supports": "Strahlenschutzverantwortung einschließlich rechtsfähiger Personengesellschaft.",
+      "passages": "Vertretungsorgan, benannte Person und fortbestehende Gesamtverantwortung gelesen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/strlschg/__70.html",
+      "checked_on": "2026-10-02",
+      "supports": "Bestellung, Aufgaben, Befugnisse, Fachkunde und behördliche Mitteilung für Strahlenschutzbeauftragte.",
+      "passages": "Norm vollständig im Web geöffnet.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/nisv/__1.html",
+      "checked_on": "2026-10-02",
+      "supports": "NiSV-Anwendungsbereich für kosmetische und sonstige nichtmedizinische Anwendungen.",
+      "passages": "Per urllib gelesen; nicht als allgemeines medizinisches MRT-Regime verwenden.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://service.berlin.de/dienstleistung/327483/",
+      "checked_on": "2026-10-02",
+      "supports": "Bisherige Berliner Gaststättenerlaubnis insbesondere bei Alkoholausschank.",
+      "passages": "Amtliche Dienstleistung gelesen, zukünftiger Landeswechsel aus Verkündung separat geprüft.",
+      "verification_status": "amtliche_servicequelle_gelesen"
+    },
+    {
+      "url": "https://service.berlin.de/dienstleistung/121921/",
+      "checked_on": "2026-10-02",
+      "supports": "Gewerbeanmeldung und Abgrenzung zu ausgenommenen freien Berufen.",
+      "passages": "Amtliche Dienstleistung gelesen; keine umfassende Betriebsfreigabe.",
+      "verification_status": "amtliche_servicequelle_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__15.html",
+      "checked_on": "2026-10-02",
+      "supports": "Empfangsbescheinigung und Vorgehen bei fehlender Zulassung.",
+      "passages": "Einzelnorm gelesen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gewo/__35.html",
+      "checked_on": "2026-10-02",
+      "supports": "Untersagung, Erweiterung, Wiedergestattung und Spezialität.",
+      "passages": "Norm per urllib gelesen; konkrete Prognose und Stand der Entscheidung maßgeblich.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__2.html",
+      "checked_on": "2026-10-02",
+      "supports": "Erlaubnispflicht und Ausnahmen im noch anwendbaren bisherigen Gaststättenrecht.",
+      "passages": "Einzelnorm geöffnet.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__7.html",
+      "checked_on": "2026-10-02",
+      "supports": "Akzessorischer Warenverkauf und Abgrenzung des Mischbetriebs.",
+      "passages": "Einzelnorm geöffnet; keine Vollsortimentsprivilegierung.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__8.html",
+      "checked_on": "2026-10-02",
+      "supports": "Erlöschen der Erlaubnis und Unterbrechung.",
+      "passages": "Einzelnorm geöffnet; Fortbestand bei Übernahme nicht aus Mietvertrag ableiten.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__11.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vorläufige Erlaubnis bei Betriebsübernahme.",
+      "passages": "Volltext per urllib gelesen; regelmäßig höchstens drei Monate, Verlängerung bei wichtigem Grund.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__12.html",
+      "checked_on": "2026-10-02",
+      "supports": "Vorübergehende Gestattung aus besonderem Anlass.",
+      "passages": "Einzelnorm gelesen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gastg/__15.html",
+      "checked_on": "2026-10-02",
+      "supports": "Rücknahme, Widerruf und Unzuverlässigkeit im bisherigen Gaststättenrecht.",
+      "passages": "Einzelnorm gelesen.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/wirtschaft/branchen/handel/ladenoeffnungszeiten/ladenoeffnungszeiten-in-berlin-152543.php",
+      "checked_on": "2026-10-02",
+      "supports": "Berliner Ladenöffnung einschließlich touristischem Sortiment, speziellen Verkaufsstellen und besonderen Anlässen.",
+      "passages": "Amtliche Erläuterung gelesen; keine konsolidierte vollständige Gesetzeslektüre behauptet.",
+      "verification_status": "amtliche_servicequelle_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ifsg/__42.html",
+      "checked_on": "2026-10-02",
+      "supports": "Tätigkeits- und Beschäftigungsverbote bei bestimmten Erkrankungen bzw. Erregern.",
+      "passages": "Einzelnorm vollständig geöffnet.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ifsg/__43.html",
+      "checked_on": "2026-10-02",
+      "supports": "Erstbescheinigung und Folgebelehrung.",
+      "passages": "Norm vollständig gelesen; Dreimonatsregel bei erstmaliger Tätigkeitsaufnahme, Folgebelehrung grundsätzlich alle zwei Jahre.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/lfgb/__40.html",
+      "checked_on": "2026-10-02",
+      "supports": "Veröffentlichung, Anhörung, Berichtigung, Hinweis auf Mangelbeseitigung und Entfernung nach sechs Monaten.",
+      "passages": "Web-Zugriff zeitweise Timeout; anschließend vollständiger Primärtext per urllib gelesen, lokale Textdatei.",
+      "verification_status": "amtliche_einzelnorm_gelesen_urllib"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/arbschg/__22.html",
+      "checked_on": "2026-10-02",
+      "supports": "Auskunft, Zutritt und Anordnungen mit gesetzlichen Grenzen.",
+      "passages": "Einzelnorm vollständig geöffnet.",
+      "verification_status": "amtliche_einzelnorm_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41548.php",
+      "checked_on": "2026-10-02",
+      "supports": "Berliner Grundrechtsrahmen insbesondere Gleichheit, Gesundheit, Berufswahl, Eigentum und Rechtsschutz.",
+      "passages": "Amtliche relevante Artikel gelesen; kein eigenständiger allgemeiner Betriebszulassungsanspruch.",
+      "verification_status": "amtliche_normpassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/de/230226B3B5.25.0",
+      "checked_on": "2026-10-02",
+      "supports": "Besonderes Feststellungsinteresse nach erledigter Einzelhandelsschließung individuell prüfen; fehlende Akten nicht als automatischen alleinigen Grund ausgeben.",
+      "passages": "Rn. 6–11",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/160322U8C6.21.0",
+      "checked_on": "2026-10-02",
+      "supports": "Sachgrund, Ausnahmecharakter, Besucherprognose und räumliche Ausstrahlungswirkung anlassbezogener Sonntagsöffnung.",
+      "passages": "Rn. 11–16",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/220620U8CN1.19.0",
+      "checked_on": "2026-10-02",
+      "supports": "Die Ausnahme muss sachlich und räumlich vom Anlass getragen werden; Ladenöffnung bleibt Annex der Veranstaltung.",
+      "passages": "Rn. 18–26",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/12/rs20091201_1bvr285707.html",
+      "checked_on": "2026-10-02",
+      "supports": "Wirtschaftliches Umsatzinteresse und alltäglicher Einkaufswunsch genügen allein nicht als Ausnahmegrund vom Sonntagsschutz.",
+      "passages": "Rn. 152–158",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/150415U8C6.14.0",
+      "checked_on": "2026-10-02",
+      "supports": "Konkrete Zuverlässigkeitsprognose, tragfähiges Sanierungskonzept, erweiterter Umfang und Trennung von Untersagung und Wiedergestattung.",
+      "passages": "Rn. 14–18 und 22–27",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/fs20180321_1bvf000113.html",
+      "checked_on": "2026-10-02",
+      "supports": "Individualisierte amtliche Verbraucherinformation kann Berufsfreiheit beeinträchtigen; Dauer der Veröffentlichung benötigt gesetzliche Begrenzung.",
+      "passages": "Rn. 26–29 und 56–58",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/290819U7C29.17.0",
+      "checked_on": "2026-10-02",
+      "supports": "Für festgestellte nicht zulässige Abweichung kein vorgängiger bestandskräftiger Verwaltungsakt notwendig; abschließende aktenkundige fachliche und rechtliche Bewertung prüfen.",
+      "passages": "Rn. 24–32",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/",
+      "checked_on": "2026-10-02",
+      "supports": "Pflicht zu einem System zur Erfassung der tatsächlichen Arbeitszeiten; Sollplan genügt nicht als tatsächliche Aufzeichnung.",
+      "passages": "Rn. 42–46 und 65",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2002/178/2026-01-01/deu",
+      "checked_on": "2026-10-02",
+      "supports": "Art18 Rückverfolgbarkeit auf jeder Stufe und Art19 Rücknahme, Information, erforderlicher Rückruf sowie eigenständige Gesundheitsrisikomeldung.",
+      "passages": "Root hat Art18/19 vollständig im sichtbaren Browser-DOM der Konsolidierung01.01.2026 gelesen; keine Vollprüfung der Gesamtverordnung.",
+      "verification_status": "amtliche_normpassagen_root_browser_gegengelesen"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/dE/TXT/?uri=CELEX%3A02004R0852-20210324",
+      "checked_on": "2026-10-02",
+      "supports": "Art5 HACCP-Grundsätze nach Primärproduktion, angemessene Nachweise und Anpassung bei Änderungen; Art6 Registrierung, Änderungs- und Schließungsmeldung sowie gesonderte Zulassung.",
+      "passages": "Root hat Art5/6 vollständig im sichtbaren Browser-DOM der gelisteten Konsolidierung24.03.2021 gelesen; keine Vollprüfung der Gesamtverordnung.",
+      "verification_status": "amtliche_normpassagen_root_browser_gegengelesen"
+    }
+  ],
+  "cases": [
+    {
+      "id": "restaurant-bis-zur-antwort",
+      "target_skill": "betrieb-hauptproblem-zum-ergebnis-fuehren",
+      "request": "Bitte bearbeiten Sie die Kichererbse-Akte und erstellen Sie die konkrete Antwort an das Ordnungsamt sowie einen verständlichen Ablauf bis zur Eröffnung. Wir möchten zunächst den Entwurf lesen und beauftragen noch keine Einreichung.",
+      "input_files": [
+        "testakten/berlin-gewerbe-restaurant-kichererbse/01_Auftrag_Kichererbse.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/04_Alte_Gaststaettenerlaubnis.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/05_Betriebskonzept.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/09_Besichtigungsnotiz_Lebensmittel.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/11_Ordnungsamt_Nachforderung.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/14_Servicebericht_Kuehlung.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest Betreiberwechsel und Erlaubnisinhaber; altes GastG im Oktober 2026, neue Landesanzeige nicht vorziehen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt 24 Innenplätze, sechs Gehwegtische, Alkoholausschank und konkrete Hygieneabhilfe; keine Gesamtfreigabe aus Gewerbeanmeldung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständige freundliche Antwort und realistische bedingte Schritte; fragt nur entscheidende Lücken nach und behauptet keine Einreichung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arzt-ist-nicht-automatisch-gewerbe",
+      "target_skill": "betrieb-gewerbeanzeige-und-berufsabgrenzung",
+      "request": "Unsere ärztliche GbR betreibt bereits ein MRT und ergänzt ein CT. Muss deshalb eine Gewerbeanmeldung erfolgen? Bitte erstellen Sie einen konkreten Vermerk aus den Unterlagen und eine begrenzte Klärungsanfrage, falls die Tätigkeit nicht eindeutig beschrieben ist.",
+      "input_files": [
+        "testakten/berlin-gewerbe-radiologie-spreebogen/02_Betreiberdarstellung.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/04_Geraete_und_Raeume.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft ärztliche Tätigkeit konkret und folgert Gewerblichkeit weder aus Gerät noch Mitarbeitern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Gewerbeanzeige, Berufsrecht und ionisierenden Strahlenschutz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begründeten Vermerk oder konkrete Anfrage statt unbelegter pauschaler Freigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaststaettenuebernahme-herbst",
+      "target_skill": "betrieb-gaststaette-und-uebernahme",
+      "request": "Wir übernehmen das Café von Fritz Fröhlich und wollen am 16. Oktober Wein ausschenken. Bitte prüfen Sie die vorläufige Erlaubnis und formulieren Sie den passenden Nachreichungsantrag für unsere neue GmbH.",
+      "input_files": [
+        "testakten/berlin-gewerbe-restaurant-kichererbse/02_Uebernahmevereinbarung.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/04_Alte_Gaststaettenerlaubnis.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/11_Ordnungsamt_Nachforderung.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet alte personenbezogene Erlaubnis, echte Betriebsübernahme und §11 GastG.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet nicht vorzeitig die erst ab9.1.2027 geltende neue Landesregel an; Gestattung kein Dauerersatz.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert passenden Antrag mit Betreiber und Fläche, keine automatische Fortgeltung kraft Kaufvertrag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "raumwechsel-archiv-zum-ct",
+      "target_skill": "betrieb-raeume-nutzung-und-sondernutzung",
+      "request": "Die neue CT-Anlage steht im ehemaligen Archiv. Plan und Mietvertrag verwenden unterschiedliche Raumnummern. Bitte fertigen Sie die konkrete Klärungsanfrage zur zulässigen Nutzung und den nächsten baurechtlichen Schritt.",
+      "input_files": [
+        "testakten/berlin-gewerbe-radiologie-spreebogen/04_Geraete_und_Raeume.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/11_Planerin_Raum.eml",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/13_Pruefbericht_Auszug.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet physisch denselben Raum trotz Nummernabweichung zu und kennzeichnet offenen genehmigten Bestand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Mietzweck und Geräteprüfung ersetzen keine baurechtliche Nutzungsentscheidung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkret begrenzte Anfrage und belastbare Planreferenz, keine sachverständige Abschirmungsfreigabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spaeti-sonntagsanhoerung",
+      "target_skill": "betrieb-spaeti-und-sonntag",
+      "request": "Bitte antworten Sie auf die Anhörung nach dem Verkauf vom 20. September. Unser Hotelkontakt und das geplante Oktoberfest sollen berücksichtigt werden. Wir möchten einen rechtlich eingeordneten Plan für die nächsten Sonntage.",
+      "input_files": [
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/01_Auftrag_Abendfuchs.docx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September.docx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/05_Kontrollvermerk.docx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/09_Anhoerung_Ladenoeffnung.docx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/12_Veranstalter_Absicht.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft gesamtes Wochensortiment und tatsächlichen verpackten Kaffee statt Café-Fiktion.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Künftiges Fest rechtfertigt nicht Septemberverkauf; allgemeine Hotelnähe keine automatische Touristenbedarfs-Ausnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständige Anhörungsantwort mit Öffnungsplan, keine erfundene bereits erlassene Schließungsverfügung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kuehlvitrine-und-ruecknahme",
+      "target_skill": "betrieb-lebensmittel-und-hygiene",
+      "request": "Bitte fertigen Sie unsere Antwort zur Lebensmittelkontrolle. Die Anzeige an der Kühlvitrine war zu hoch, aber die betroffenen Speisen wurden nicht verkauft und das Gerät ist inzwischen repariert. Welche konkreten Nachweise gehören dazu?",
+      "input_files": [
+        "testakten/berlin-gewerbe-restaurant-kichererbse/09_Besichtigungsnotiz_Lebensmittel.docx",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/10_Lieferant_Ruecknahme.eml",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/13_Temperaturnotizen.txt",
+        "testakten/berlin-gewerbe-restaurant-kichererbse/14_Servicebericht_Kuehlung.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Luftanzeige von Produkttemperatur und damaligen Befund von späterer Reparatur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verfolgt konkrete betroffene Waren und Rückgabe; keine erfundenen nachträglichen Istmessungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkrete Antwort und Maßnahmen, benennt nur fehlende entscheidende Belege.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "flaschen-nach-zweiundzwanzig",
+      "target_skill": "betrieb-laerm-und-nachbarschaft",
+      "request": "Unsere Nachbarin hört gegen 22.30 Uhr Flaschen, während die Lüftung nach unserem Plan um 21 Uhr endet. Eine Messung fehlt. Bitte erstellen Sie eine freundliche Antwort und eine konkrete, für den Betrieb machbare Abhilferegel.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Quellen, tatsächliche Zeiten, Zurechnung und geltende Auflagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erfindet keine Dezibelmessung oder allgemeine Berliner Einheitssperrzeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ausformulierten Brief und überprüfbare Leerungs-/Abschlussregel ohne unbegründetes Anerkenntnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anhoerung-kein-bescheid",
+      "target_skill": "betrieb-kontrolle-und-anhoerung",
+      "request": "Das Ordnungsamt schreibt, es erwäge eine Untersagung unserer Sonntagsöffnung und gibt Gelegenheit zur Äußerung. Bitte formulieren Sie die nächste Antwort und sichern Sie die Frist, ohne schon eine Klage zu erheben.",
+      "input_files": [
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/09_Anhoerung_Ladenoeffnung.docx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/15_Amt_Kopie.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt Anhörung und Datum; behauptet keine bereits eingetretene Verfügung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Anhörungsfrist und gesetzliche Rechtsbehelfsfrist; keine automatische Fristwahrung durch Rückruf.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert konkretes Antwortschreiben statt Gerichtsverfahren und setzt nach neuen Belegen fort.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schulden-und-wiedergestattung",
+      "target_skill": "betrieb-zuverlaessigkeit-und-untersagung",
+      "request": "Die bestandskräftige Gewerbeuntersagung liegt acht Monate zurück. Nun bestehen Ratenvereinbarungen; ein Gläubigersaldo fehlt und neue Umsatzsteuer wurde bezahlt. Bitte entwerfen Sie den sachlich passenden nächsten Antrag.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt spätere Wiedergestattung nach §35Abs6 von Angriff auf alte Verfügung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft belegte Zahlungsfähigkeit, laufende Pflichten und besondere Gründe für frühere Wiederzulassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständigen bedingten Entwurf, fragt nach fehlendem aktuellen Saldo, verspricht keine automatische Zulassung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oeffnungszeiten-sind-keine-istzeiten",
+      "target_skill": "betrieb-arbeitsschutz-und-schichtbetrieb",
+      "request": "Der Späti öffnet lange, aber Samira und Willibald wechseln sich ab. Bitte erstellen Sie eine brauchbare Erfassungs- und Übergaberegel. Die Tabelle zeigt Öffnungszeiten, keine individuellen Istzeiten und bislang keine erfassten Pausen.",
+      "input_files": [
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx",
+        "testakten/berlin-gewerbe-spaeti-abendfuchs/16_Betriebsnotiz_Wochenplanung.docx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Leitet individuelle Arbeitszeit nicht aus gesamten Öffnungsstunden ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet Soll und Ist, Pausen, Ruhezeit sowie Tätigkeitsrisiken.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständige Regel; BAG1ABR22/21 verlangt keine bestimmte Software; spätere Rechtslage prüfen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ct-start-ohne-endgueltigen-nachweis",
+      "target_skill": "betrieb-radiologie-und-strahlenschutz",
+      "request": "Bitte erstellen Sie die Antwort auf die LAGetSi-Nachforderung. Der Lieferant nennt die Anlage startbereit, der Prüfauszug ist noch nicht endgültig und die ersten Patiententermine sind vorläufig. Prüfen Sie den Termin ohne pauschale Freigabe.",
+      "input_files": [
+        "testakten/berlin-gewerbe-radiologie-spreebogen/01_Auftrag_Radiologie.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/05_Personal_Fachkunde.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/08_Anzeige_Nachreichung.eml",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/09_LAGetSi_Nachforderung.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/13_Pruefbericht_Auszug.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/16_Verantwortungszuordnung_Entwurf.docx",
+        "testakten/berlin-gewerbe-radiologie-spreebogen/18_Planung_bleibt_vorlaeufig.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt CT, bestehenden MRT-Betrieb, Teleradiologieidee und radioaktive Stoffe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt gesetzliche Zweiwochenfrist und Portalwiderspruch, fehlende endgültige Sachverständigenbescheinigung und Fachkundebelege.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ausformulierte Nachreichungsantwort mit bedingtem Startplan; Übergabe und Schweigen sind keine allgemeine Genehmigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "files": [
+      "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md",
+      "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-schnellstart.md",
+      "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-hauptproblem.md"
+    ],
+    "opening_change": "Vorhandene Betriebsakte lesen und am konkreten Schreiben oder Antrag arbeiten; nur entscheidende Beleglücken nachfragen.",
+    "norms": [
+      "Bisheriges GastG im Herbst2026; BlnGastG aus Gesetz25.06.2026 GVBl488–494 grundsätzlich ab09.01.2027.",
+      "ZustV23.06.2026 und Gesamtzuständigkeitskatalog seit19.07.2026.",
+      "BerlLadÖffG, GewO, LFGB und IfSG nach Tätigkeit und Zeitpunkt.",
+      "StrlSchG §§12,19,20,69,70; NiSV §1; ArbSchG §22."
+    ],
+    "decisions": [
+      {
+        "key": "prozess2026",
+        "citation": "BVerwG, Beschluss vom 23.02.2026 – 3 B 5.25",
+        "url": "https://www.bverwg.de/de/230226B3B5.25.0",
+        "passages": "Rn. 6–11",
+        "application": "Besonderes Feststellungsinteresse nach erledigter Einzelhandelsschließung individuell prüfen; fehlende Akten nicht als automatischen alleinigen Grund ausgeben.",
+        "limit": "Bayerischer Pandemie- und Anerkenntnisfall. Keine materielle Aussage zur Berliner Betriebszulassung. Anhörungsrüge 3 B 7.26 vom 04.05.2026 auf derselben Seite ist kein zweites Sachurteil.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "sonntag-berlin2022",
+        "citation": "BVerwG, Urteil vom 16.03.2022 – 8 C 6.21",
+        "url": "https://www.bverwg.de/160322U8C6.21.0",
+        "passages": "Rn. 11–16",
+        "application": "Sachgrund, Ausnahmecharakter, Besucherprognose und räumliche Ausstrahlungswirkung anlassbezogener Sonntagsöffnung.",
+        "limit": "Allgemeinverfügung nach § 6 Absatz 1 BerlLadÖffG. Keine individuelle Touristenladenanerkennung, keine allgemeine Sonntagserlaubnis für Spätis.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "sonntag-umfang2020",
+        "citation": "BVerwG, Urteil vom 22.06.2020 – 8 CN 1.19",
+        "url": "https://www.bverwg.de/220620U8CN1.19.0",
+        "passages": "Rn. 18–26",
+        "application": "Die Ausnahme muss sachlich und räumlich vom Anlass getragen werden; Ladenöffnung bleibt Annex der Veranstaltung.",
+        "limit": "Normenkontrolle aus Baden-Württemberg. Dortige Öffnungszahlen, Behörden und Verfahren sind kein Berliner Recht.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "sonntag-verfassung2009",
+        "citation": "BVerfG, Urteil vom 01.12.2009 – 1 BvR 2857/07, 1 BvR 2858/07",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/12/rs20091201_1bvr285707.html",
+        "passages": "Rn. 152–158",
+        "application": "Wirtschaftliches Umsatzinteresse und alltäglicher Einkaufswunsch genügen allein nicht als Ausnahmegrund vom Sonntagsschutz.",
+        "limit": "Verfassungsrechtliches Mindestniveau und damalige Berliner Gesetzeslage; heutige einzelne Ausnahmen gesondert lesen.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "gewerbe2015",
+        "citation": "BVerwG, Urteil vom 15.04.2015 – 8 C 6.14",
+        "url": "https://www.bverwg.de/150415U8C6.14.0",
+        "passages": "Rn. 14–18 und 22–27",
+        "application": "Konkrete Zuverlässigkeitsprognose, tragfähiges Sanierungskonzept, erweiterter Umfang und Trennung von Untersagung und Wiedergestattung.",
+        "limit": "Keine fixe Schuldenhöhe, kein genereller Ausschluss von § 12 GewO und keine Berliner Vorverfahrensregel aus bayerischem Fall übernehmen.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "verbraucherinformation2018",
+        "citation": "BVerfG, Beschluss vom 21.03.2018 – 1 BvF 1/13",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2018/03/fs20180321_1bvf000113.html",
+        "passages": "Rn. 26–29 und 56–58",
+        "application": "Individualisierte amtliche Verbraucherinformation kann Berufsfreiheit beeinträchtigen; Dauer der Veröffentlichung benötigt gesetzliche Begrenzung.",
+        "limit": "Prüfung der damaligen §-40-Absatz-1a-Fassung. Aktuelles LFGB einschließlich Absatz 4a ist eigenständig zu lesen, keine pauschale heutige Unzulässigkeit.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "vig2019",
+        "citation": "BVerwG, Urteil vom 29.08.2019 – 7 C 29.17",
+        "url": "https://www.bverwg.de/290819U7C29.17.0",
+        "passages": "Rn. 24–32",
+        "application": "Für festgestellte nicht zulässige Abweichung kein vorgängiger bestandskräftiger Verwaltungsakt notwendig; abschließende aktenkundige fachliche und rechtliche Bewertung prüfen.",
+        "limit": "VIG-Informationszugang ist von behördlicher aktiver Veröffentlichung nach LFGB zu unterscheiden; ungeprüfter Entwurf nicht mit abschließendem Befund gleichsetzen.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "arbeitszeit2022",
+        "citation": "BAG, Beschluss vom 13.09.2022 – 1 ABR 22/21",
+        "url": "https://www.bundesarbeitsgericht.de/entscheidung/1-abr-22-21/",
+        "passages": "Rn. 42–46 und 65",
+        "application": "Pflicht zu einem System zur Erfassung der tatsächlichen Arbeitszeiten; Sollplan genügt nicht als tatsächliche Aufzeichnung.",
+        "limit": "Keine allein aus dem Beschluss folgende Pflicht zu bestimmter Software. Mitbestimmung und spätere Gesetzgebung gesondert prüfen.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      }
+    ],
+    "remaining_limits": [
+      "Keine spezifische neuere 2026-Sachentscheidung zu Berliner Spätis oder medizinischem CT verifiziert; keine erfundene Aktualität.",
+      "BauO Bln, Straßenrecht, aktuelle Landes-Immissionsschutzfassung und besondere Rechtsbehelfsregel im konkreten Mandat erneut amtlich lesen.",
+      "Webtool-Abrufgrenze bei EU-Normen durch Root-Browserlektüre von Art18/19 der Verordnung178/2002 und Art5/6 der Verordnung852/2004 behoben; keine Gesamtvollprüfung.",
+      "Keine Literaturdatenbanken oder Kommentare aus Modellwissen als gelesen ausgegeben.",
+      "Geplante Evalfälle und redaktionelle Deskprüfung sind keine beobachteten Modellläufe."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "opening_modes": [
+      "Restaurantübernahme anhand bestehender Erlaubnis weiterbearbeiten.",
+      "Nach Sonntagskontrolle gezielte Anhörungsantwort schreiben.",
+      "CT-Nachforderung anhand tatsächlicher Nachweise erledigen.",
+      "Eingegangene Antwort in den vorhandenen Entwurf einarbeiten."
+    ],
+    "continuation": "Keine starre Rundenzahl; nur entscheidende Tatsachen nachfragen, unabhängige Teile ausarbeiten und neue Angaben in denselben Entwurf aufnehmen.",
+    "enrichment": "Zehn konkrete Fachrouten mit branchenspezifischen Belegen, Rechtsständen, Gegenpositionen und vollständigen Behördenprodukten.",
+    "limits": "Keine umfassende Betriebsfreigabe aus Gewerbeschein, keine Sonntagsausnahme aus bloßer Späti-Bezeichnung, keine CT-Zulassung aus Lieferantenübergabe, kein eigenmächtiger Versand."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern.",
+    "changes": [
+      "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
+      "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
+      "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+    ],
+    "sha256": "ada29b5d936f5c65b9cd105cc945fe5ca9b88c6d2d18194da7c690e4923b7f5b"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern.",
+    "changes": [
+      "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
+      "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
+      "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+    ],
+    "sha256": "695a3d66b30dc740ca4a911f292a5927c4b26c81a3b9025b267e8419aa73b6b6"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Neues eigenständiges Plugin mit spezifischen Betriebsrouten und frisch gelesenen Primärankern.",
+    "changes": [
+      "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
+      "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
+      "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+    ],
+    "method": "desk_review",
+    "reviewed_on": "2026-10-02",
+    "prompt_path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-hauptproblem.md",
+    "skill_path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-hauptproblem-zum-ergebnis-fuehren/SKILL.md",
+    "prompt_sha256": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb",
+    "skill_sha256": "ef3582f6a3815a719f5977fb13373051a9bd5936f3e60fcddadc69c347c3a6f3"
+  }
+}

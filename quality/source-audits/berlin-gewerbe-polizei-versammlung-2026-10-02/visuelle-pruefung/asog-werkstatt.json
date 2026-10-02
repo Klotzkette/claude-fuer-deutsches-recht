@@ -1,0 +1,421 @@
+{
+  "reviewed_on": "2026-10-02",
+  "reviewer": "asog_subagent_final_delta_review",
+  "status": "pass",
+  "scope": "Final delta verification of 39-page workshop, preserving independent whole-document review.",
+  "baseline_report": "lokale-pruefartefakte/qa/werkstaetten/berliner-asog-polizeirecht/independent-visual-review.json",
+  "baseline_report_sha256": "ea4fe805dd2b0f724bb726970847a2ebcbbce38722223fb3ba2e7ab85bcaa466",
+  "pages": 39,
+  "unchanged_pages": 36,
+  "changed_pages_opened": [
+    28,
+    30,
+    34
+  ],
+  "source": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
+  "source_sha256": "b6dce7f60d82b8f023c72f8b6512f2aecad634b72a76d18d9ae4d417833d0249",
+  "docx": "berliner-asog-polizeirecht/assets/berliner-asog-polizeirecht-werkstatt.docx",
+  "docx_sha256": "4fc3b9e4fdf3c5c00848e172695518d3423e4687269cba49e06c4226552cc77d",
+  "pdf": "berliner-asog-polizeirecht/assets/berliner-asog-polizeirecht-werkstatt.pdf",
+  "pdf_sha256": "b4325735205d4d2b5e27d4e5e8121136923ffecea4f77f6002a0adaf864ddd72",
+  "render_pdf_sha256": "1a23f11456a5ef3ade25037d93f743ee88273e2a9581adbf2d4f53caf8d8ccc6",
+  "asset_png_sha256_matches": 39,
+  "page_images": [
+    {
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-1.png",
+      "old_sha256": "b3341e390d8f0072fdd3879b99a1b83e0bf75e4996cd4056e471db734cbfeb0b",
+      "sha256": "b3341e390d8f0072fdd3879b99a1b83e0bf75e4996cd4056e471db734cbfeb0b",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-01.png",
+      "asset_png_sha256": "b3341e390d8f0072fdd3879b99a1b83e0bf75e4996cd4056e471db734cbfeb0b",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-2.png",
+      "old_sha256": "63493a38b9b4c9e4e7f29a11acbacbf1c3b5fae770293f398073a5feef9505ae",
+      "sha256": "63493a38b9b4c9e4e7f29a11acbacbf1c3b5fae770293f398073a5feef9505ae",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-02.png",
+      "asset_png_sha256": "63493a38b9b4c9e4e7f29a11acbacbf1c3b5fae770293f398073a5feef9505ae",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-3.png",
+      "old_sha256": "b32e90f166d7cefc21ebce2d6890992e12779b4ab2d6dbe244c9382d9c64a3c0",
+      "sha256": "b32e90f166d7cefc21ebce2d6890992e12779b4ab2d6dbe244c9382d9c64a3c0",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-03.png",
+      "asset_png_sha256": "b32e90f166d7cefc21ebce2d6890992e12779b4ab2d6dbe244c9382d9c64a3c0",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-4.png",
+      "old_sha256": "0b216cf7a9299b1ad7a003ac18b5354f57cf27e48ad5953e0dabafca36b2e3b7",
+      "sha256": "0b216cf7a9299b1ad7a003ac18b5354f57cf27e48ad5953e0dabafca36b2e3b7",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-04.png",
+      "asset_png_sha256": "0b216cf7a9299b1ad7a003ac18b5354f57cf27e48ad5953e0dabafca36b2e3b7",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-5.png",
+      "old_sha256": "7a4f9415946e99133dfaebe3bfdd85570a01c0e36ffcde33cc84c947f9f56099",
+      "sha256": "7a4f9415946e99133dfaebe3bfdd85570a01c0e36ffcde33cc84c947f9f56099",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-05.png",
+      "asset_png_sha256": "7a4f9415946e99133dfaebe3bfdd85570a01c0e36ffcde33cc84c947f9f56099",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-6.png",
+      "old_sha256": "bb878382b2ee3efc8d76b958ce12782cbecbe7e4c1bc4dac42c875a90d948c86",
+      "sha256": "bb878382b2ee3efc8d76b958ce12782cbecbe7e4c1bc4dac42c875a90d948c86",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-06.png",
+      "asset_png_sha256": "bb878382b2ee3efc8d76b958ce12782cbecbe7e4c1bc4dac42c875a90d948c86",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-7.png",
+      "old_sha256": "9e29783bf4730f6b1908aabfa3646d206f60e8564caf24c5b361a83676705566",
+      "sha256": "9e29783bf4730f6b1908aabfa3646d206f60e8564caf24c5b361a83676705566",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-07.png",
+      "asset_png_sha256": "9e29783bf4730f6b1908aabfa3646d206f60e8564caf24c5b361a83676705566",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-8.png",
+      "old_sha256": "8184f6fbe26c8e6fe7d7b50ba05fc54e9382ecbb0ac985976e0ad6f2202626b4",
+      "sha256": "8184f6fbe26c8e6fe7d7b50ba05fc54e9382ecbb0ac985976e0ad6f2202626b4",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-08.png",
+      "asset_png_sha256": "8184f6fbe26c8e6fe7d7b50ba05fc54e9382ecbb0ac985976e0ad6f2202626b4",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-9.png",
+      "old_sha256": "7484f8f16ad9c1af0790aac10be7584471d4393169c89f1ad55e063a17f9b6c5",
+      "sha256": "7484f8f16ad9c1af0790aac10be7584471d4393169c89f1ad55e063a17f9b6c5",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-09.png",
+      "asset_png_sha256": "7484f8f16ad9c1af0790aac10be7584471d4393169c89f1ad55e063a17f9b6c5",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-10.png",
+      "old_sha256": "c1626d29a550a718f1ebd503deb35fe56214f2e4a9af7996c7e94860b8ef76c8",
+      "sha256": "c1626d29a550a718f1ebd503deb35fe56214f2e4a9af7996c7e94860b8ef76c8",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-10.png",
+      "asset_png_sha256": "c1626d29a550a718f1ebd503deb35fe56214f2e4a9af7996c7e94860b8ef76c8",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-11.png",
+      "old_sha256": "fa2250ea91fb80dccdeb04d59f101a73e9b6d2f01d8986143d745fdec756199d",
+      "sha256": "fa2250ea91fb80dccdeb04d59f101a73e9b6d2f01d8986143d745fdec756199d",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-11.png",
+      "asset_png_sha256": "fa2250ea91fb80dccdeb04d59f101a73e9b6d2f01d8986143d745fdec756199d",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-12.png",
+      "old_sha256": "433ec1f7c2ab7cbba315b4995e7f47addaa5c2929856a248c32ed1af184cbd2f",
+      "sha256": "433ec1f7c2ab7cbba315b4995e7f47addaa5c2929856a248c32ed1af184cbd2f",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-12.png",
+      "asset_png_sha256": "433ec1f7c2ab7cbba315b4995e7f47addaa5c2929856a248c32ed1af184cbd2f",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-13.png",
+      "old_sha256": "1596abf63ee400db5e13950e447979dc41291f2f15d8c2fa4ccbd5dce7820fe4",
+      "sha256": "1596abf63ee400db5e13950e447979dc41291f2f15d8c2fa4ccbd5dce7820fe4",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-13.png",
+      "asset_png_sha256": "1596abf63ee400db5e13950e447979dc41291f2f15d8c2fa4ccbd5dce7820fe4",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-14.png",
+      "old_sha256": "4819e057b5924e169c96cb3d2ad0e36625ca7380db1076f362fda8335ac23111",
+      "sha256": "4819e057b5924e169c96cb3d2ad0e36625ca7380db1076f362fda8335ac23111",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-14.png",
+      "asset_png_sha256": "4819e057b5924e169c96cb3d2ad0e36625ca7380db1076f362fda8335ac23111",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-15.png",
+      "old_sha256": "e726da8278dc2652858a3afe0ce85d07a9c4fc83ac7f8d7128fd4a8e8191aa22",
+      "sha256": "e726da8278dc2652858a3afe0ce85d07a9c4fc83ac7f8d7128fd4a8e8191aa22",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-15.png",
+      "asset_png_sha256": "e726da8278dc2652858a3afe0ce85d07a9c4fc83ac7f8d7128fd4a8e8191aa22",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-16.png",
+      "old_sha256": "bd358221363d3aba6ee07ebd68b1b9cfe5f90b5b412d9d7e58fad4904bd838dd",
+      "sha256": "bd358221363d3aba6ee07ebd68b1b9cfe5f90b5b412d9d7e58fad4904bd838dd",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-16.png",
+      "asset_png_sha256": "bd358221363d3aba6ee07ebd68b1b9cfe5f90b5b412d9d7e58fad4904bd838dd",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-17.png",
+      "old_sha256": "e6adeef0763aa6de15181885a9d7ea6f6195a455531092c3bcce7f2ba7385620",
+      "sha256": "e6adeef0763aa6de15181885a9d7ea6f6195a455531092c3bcce7f2ba7385620",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-17.png",
+      "asset_png_sha256": "e6adeef0763aa6de15181885a9d7ea6f6195a455531092c3bcce7f2ba7385620",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-18.png",
+      "old_sha256": "1c4d1728f3d80b48fb8b9ad48c94b47a34e199a7de0bf701b99c4e1a9ee36281",
+      "sha256": "1c4d1728f3d80b48fb8b9ad48c94b47a34e199a7de0bf701b99c4e1a9ee36281",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-18.png",
+      "asset_png_sha256": "1c4d1728f3d80b48fb8b9ad48c94b47a34e199a7de0bf701b99c4e1a9ee36281",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-19.png",
+      "old_sha256": "ee94357033cbfbb73520c3afdefc7a51e7b427a7f9ce2e1249ab9632f0cdc26c",
+      "sha256": "ee94357033cbfbb73520c3afdefc7a51e7b427a7f9ce2e1249ab9632f0cdc26c",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-19.png",
+      "asset_png_sha256": "ee94357033cbfbb73520c3afdefc7a51e7b427a7f9ce2e1249ab9632f0cdc26c",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-20.png",
+      "old_sha256": "a19e60ad4d1fff9eabe4a3d36cba8d9eaca69b1ed4a67e36e93140f2fc000845",
+      "sha256": "a19e60ad4d1fff9eabe4a3d36cba8d9eaca69b1ed4a67e36e93140f2fc000845",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-20.png",
+      "asset_png_sha256": "a19e60ad4d1fff9eabe4a3d36cba8d9eaca69b1ed4a67e36e93140f2fc000845",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-21.png",
+      "old_sha256": "e2b8ec4ec798c8842dfebc03ab0b71c3b87d6a4fba29e3e79189d4cd90a7fd8b",
+      "sha256": "e2b8ec4ec798c8842dfebc03ab0b71c3b87d6a4fba29e3e79189d4cd90a7fd8b",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-21.png",
+      "asset_png_sha256": "e2b8ec4ec798c8842dfebc03ab0b71c3b87d6a4fba29e3e79189d4cd90a7fd8b",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-22.png",
+      "old_sha256": "62f3c222a31d3f3d8be7d49e0218dd2399ee5008b7ba6d3634b690a9bb5af729",
+      "sha256": "62f3c222a31d3f3d8be7d49e0218dd2399ee5008b7ba6d3634b690a9bb5af729",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-22.png",
+      "asset_png_sha256": "62f3c222a31d3f3d8be7d49e0218dd2399ee5008b7ba6d3634b690a9bb5af729",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-23.png",
+      "old_sha256": "064c53802dfc1d2c3b8e88d9383b409324eb6265b32807099f0e97022401135e",
+      "sha256": "064c53802dfc1d2c3b8e88d9383b409324eb6265b32807099f0e97022401135e",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-23.png",
+      "asset_png_sha256": "064c53802dfc1d2c3b8e88d9383b409324eb6265b32807099f0e97022401135e",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-24.png",
+      "old_sha256": "095ecd7d4d2c8a2fd7564fed893e2627a64ab6b1aa0de3abb93f8edef5d70c20",
+      "sha256": "095ecd7d4d2c8a2fd7564fed893e2627a64ab6b1aa0de3abb93f8edef5d70c20",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-24.png",
+      "asset_png_sha256": "095ecd7d4d2c8a2fd7564fed893e2627a64ab6b1aa0de3abb93f8edef5d70c20",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-25.png",
+      "old_sha256": "4a2352c1ee4eec55b6ccf4176363dd843c95652ce382b93b5bd3531d3f75837a",
+      "sha256": "4a2352c1ee4eec55b6ccf4176363dd843c95652ce382b93b5bd3531d3f75837a",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-25.png",
+      "asset_png_sha256": "4a2352c1ee4eec55b6ccf4176363dd843c95652ce382b93b5bd3531d3f75837a",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-26.png",
+      "old_sha256": "3bfa7c4d61d510eb3ab5e6968f3e408d8433458602ddcbb0d9ccbc5a3ca46681",
+      "sha256": "3bfa7c4d61d510eb3ab5e6968f3e408d8433458602ddcbb0d9ccbc5a3ca46681",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-26.png",
+      "asset_png_sha256": "3bfa7c4d61d510eb3ab5e6968f3e408d8433458602ddcbb0d9ccbc5a3ca46681",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-27.png",
+      "old_sha256": "4e9da9cca3862dd02dd290ed88f7cebb6dc874f4e66d0464a120b4d8b0ea1bb9",
+      "sha256": "4e9da9cca3862dd02dd290ed88f7cebb6dc874f4e66d0464a120b4d8b0ea1bb9",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-27.png",
+      "asset_png_sha256": "4e9da9cca3862dd02dd290ed88f7cebb6dc874f4e66d0464a120b4d8b0ea1bb9",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-28.png",
+      "old_sha256": "8fd6d827418e9564b6b7e2a444dd3691b12be50e844e47ee443a688b7fcaac63",
+      "sha256": "3296b96efa772c97fe959a08635371d6f37c5428964ade7a087a6938ce8eb465",
+      "changed": true,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-28.png",
+      "asset_png_sha256": "3296b96efa772c97fe959a08635371d6f37c5428964ade7a087a6938ce8eb465",
+      "visual_review": "pass_final_actual_opening"
+    },
+    {
+      "page": 29,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-29.png",
+      "old_sha256": "3b9fa500ed5b0d38096c8880053f899673a877ad59a623a3fec2e214314ce1e0",
+      "sha256": "3b9fa500ed5b0d38096c8880053f899673a877ad59a623a3fec2e214314ce1e0",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-29.png",
+      "asset_png_sha256": "3b9fa500ed5b0d38096c8880053f899673a877ad59a623a3fec2e214314ce1e0",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 30,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-30.png",
+      "old_sha256": "d7ff42e4f2eb39910025eeb29605d738e18e971252540371d3743452edf489d4",
+      "sha256": "9985bf2acc0f8b84b25fcfb337884156b6e338a6d15e2bea8a68f4914fdfb18c",
+      "changed": true,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-30.png",
+      "asset_png_sha256": "9985bf2acc0f8b84b25fcfb337884156b6e338a6d15e2bea8a68f4914fdfb18c",
+      "visual_review": "pass_final_actual_opening"
+    },
+    {
+      "page": 31,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-31.png",
+      "old_sha256": "8571429c2c3670d74db7e1a8b8296f48852ba50bfe2672e00683cdf23501f7ba",
+      "sha256": "8571429c2c3670d74db7e1a8b8296f48852ba50bfe2672e00683cdf23501f7ba",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-31.png",
+      "asset_png_sha256": "8571429c2c3670d74db7e1a8b8296f48852ba50bfe2672e00683cdf23501f7ba",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 32,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-32.png",
+      "old_sha256": "fcc8bba8b69867388e9ef303da3b9f0aa0dcae9e96ac13b30946451750df04dc",
+      "sha256": "fcc8bba8b69867388e9ef303da3b9f0aa0dcae9e96ac13b30946451750df04dc",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-32.png",
+      "asset_png_sha256": "fcc8bba8b69867388e9ef303da3b9f0aa0dcae9e96ac13b30946451750df04dc",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 33,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-33.png",
+      "old_sha256": "fcbeabfaa55ff928960e205fb545a5dc312cdd18f23559e0734a51cc2939a162",
+      "sha256": "fcbeabfaa55ff928960e205fb545a5dc312cdd18f23559e0734a51cc2939a162",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-33.png",
+      "asset_png_sha256": "fcbeabfaa55ff928960e205fb545a5dc312cdd18f23559e0734a51cc2939a162",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 34,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-34.png",
+      "old_sha256": "687d19492204913282df76b897f5eea6e49860f16d3d94e1e8441484189842d2",
+      "sha256": "de0bbcd9ac011c06a0ab3325bbd05c559c0bd475979acf0679dd26ab1bc31c36",
+      "changed": true,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-34.png",
+      "asset_png_sha256": "de0bbcd9ac011c06a0ab3325bbd05c559c0bd475979acf0679dd26ab1bc31c36",
+      "visual_review": "pass_final_actual_opening"
+    },
+    {
+      "page": 35,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-35.png",
+      "old_sha256": "bee9fdd0b5d4ef2b6e65b355300b2817bfaf0a5a5771b33689eec25a519e63ae",
+      "sha256": "bee9fdd0b5d4ef2b6e65b355300b2817bfaf0a5a5771b33689eec25a519e63ae",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-35.png",
+      "asset_png_sha256": "bee9fdd0b5d4ef2b6e65b355300b2817bfaf0a5a5771b33689eec25a519e63ae",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 36,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-36.png",
+      "old_sha256": "8fc550aa0c94b172096e89488d352aa57b73d6adc012907637992f0c894a2725",
+      "sha256": "8fc550aa0c94b172096e89488d352aa57b73d6adc012907637992f0c894a2725",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-36.png",
+      "asset_png_sha256": "8fc550aa0c94b172096e89488d352aa57b73d6adc012907637992f0c894a2725",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 37,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-37.png",
+      "old_sha256": "5371ada55f7b7f6949fcda29d1d03899d05fe492ef576a8d393241f5997beec2",
+      "sha256": "5371ada55f7b7f6949fcda29d1d03899d05fe492ef576a8d393241f5997beec2",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-37.png",
+      "asset_png_sha256": "5371ada55f7b7f6949fcda29d1d03899d05fe492ef576a8d393241f5997beec2",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 38,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-38.png",
+      "old_sha256": "a6ec4a485379d20062a11018c6d3f784b5560fde5380aaa1c076c9e302aefb95",
+      "sha256": "a6ec4a485379d20062a11018c6d3f784b5560fde5380aaa1c076c9e302aefb95",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-38.png",
+      "asset_png_sha256": "a6ec4a485379d20062a11018c6d3f784b5560fde5380aaa1c076c9e302aefb95",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    },
+    {
+      "page": 39,
+      "png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/render/page-39.png",
+      "old_sha256": "bf5d7505df7db69cf7d2a5cd8a44b0946d01d66898bb70ab8fde6be7e7e5e2dd",
+      "sha256": "bf5d7505df7db69cf7d2a5cd8a44b0946d01d66898bb70ab8fde6be7e7e5e2dd",
+      "changed": false,
+      "asset_png": "lokale-pruefartefakte/qa/werkstaetten-asog-final/berliner-asog-polizeirecht/asset-verify/page-39.png",
+      "asset_png_sha256": "bf5d7505df7db69cf7d2a5cd8a44b0946d01d66898bb70ab8fde6be7e7e5e2dd",
+      "visual_review": "pass_prior_independent_opening_png_sha256_identical"
+    }
+  ],
+  "findings": [],
+  "observations": [
+    "All three changed pages were opened at readable page resolution. Corrected citation range35–67 and portal wording visible, no overlap/clipping.",
+    "The remaining36 pages are byte-identical PNGs to the independently reviewed baseline.",
+    "All39 new PNGs generated from the actual asset PDF are byte-identical to the final DOCX rendering PNGs; PDF binary metadata differs."
+  ]
+}

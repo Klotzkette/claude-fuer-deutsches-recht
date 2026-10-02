@@ -1,0 +1,1943 @@
+{
+  "reviewer": "berlin_versammlung_neu (independent of ASOG author)",
+  "date": "2026-10-02",
+  "scope": "All three ASOG test cases: 54 individual PDFs with 57 pages and three combined PDFs with 84 pages.",
+  "review_method": "111 distinct page PNGs opened individually at 100 dpi; 30 further pages deduplicated only after byte-identical PNG SHA-256 match. No contact-sheet-only approval.",
+  "pdf_count": 57,
+  "page_count": 141,
+  "unique_pages_opened": 111,
+  "byte_identical_duplicates": 30,
+  "layout_result": "No clipped text, overflowing table, unreadable glyph or missing native document page observed. All six spreadsheet sheets legible and complete.",
+  "findings": [
+    {
+      "severity": "minor_tolerated",
+      "file": "berlin-asog-datenverwechslung-kiezfest/12_Beanstandung_kurz.eml",
+      "text": "Sehrhrte Frau Engel",
+      "assessment": "Visible original typo also in PDF; parent explicitly accepted as a plausible hurried fictional email. No change of legal or factual meaning. Not a rendering defect."
+    }
+  ],
+  "pdf_hash_checks": [
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Demir.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::01_Auftrag_Demir.pdf",
+      "sha256": "4a73f5ca9b183ca00fe8db6c37a00b822b8ab64e51ee3ad3ea6e481114467326",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "02_Auskunftsersuchen.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::02_Auskunftsersuchen.pdf",
+      "sha256": "296afc4c631ce1ce44707a8a73aac88a5043059456f8bf8afec3b58c9e6018db",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "03_Auskunft_Polizei.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::03_Auskunft_Polizei.pdf",
+      "sha256": "6836eec2abadf7c2020194207a20b33434a9a07a68dcb055717df91b6e77bed0",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "04_Personendaten_Demir.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::04_Personendaten_Demir.pdf",
+      "sha256": "e7fd167d03ad079b63601ecf79a46bbdd6728d05f384a8e1143328f217b024ce",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "05_Nachbarschaftshaus_Bestaetigung.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::05_Nachbarschaftshaus_Bestaetigung.pdf",
+      "sha256": "0b0bee4a29ffac53b4f9872e9fba52985214b4a0c4ebbe9a8a2781dd7e97d628",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "06_Zugangsnotiz_Auskunft.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::06_Zugangsnotiz_Auskunft.pdf",
+      "sha256": "b88b9e4d16aadd595d58a9cab41b3cb459a83d8cacc9d9edf593c60d352513f1",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "07_Nachforderung_Identitaet.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::07_Nachforderung_Identitaet.pdf",
+      "sha256": "ac6c93aeb16c83c32838c9570aa6397e4654eac2ed8d8e607ae536d941690209",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "08_Eigener_Taetigkeitsnachweis.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::08_Eigener_Taetigkeitsnachweis.pdf",
+      "sha256": "4b1f1c7bd0ab1ed88dfe86297fd4674ee98449612c63b3c74766e21680f62869",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "09_Antrag_versandt.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::09_Antrag_versandt.pdf",
+      "sha256": "dd07dd857167952e6a3e7aff81cab9e7b370ff56c99e81d7c646da904c51f718",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "10_Eingangsmitteilung.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::10_Eingangsmitteilung.pdf",
+      "sha256": "7c6c5371f88af47efbe2fd23e5ea076d455bd47d03847d8ac9e0b2cc520b449b",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "11_Leitung_Fest.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::11_Leitung_Fest.pdf",
+      "sha256": "fedaa026aa4a8d27538f09ebc0ada916c003b48c379581bec1fc34cff4570e46",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "12_Beanstandung_kurz.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::12_Beanstandung_kurz.pdf",
+      "sha256": "4b2117cf475ae153214b4d6b5d28807347f41e8d55561418771a5c6025f7b300",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "13_Pruefung_Eingang.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::13_Pruefung_Eingang.pdf",
+      "sha256": "97791e303c0499731248acd92d2f6e07424b0d1e5cbe8ee9fa414f594ead2610",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "14_Kanzlei_Unterlagen.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::14_Kanzlei_Unterlagen.pdf",
+      "sha256": "e23f9bb42f127f1f88eabfee56cf76b06adb48ab65678f21c8863b729fc7975b",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "15_Terminmoeglichkeit.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::15_Terminmoeglichkeit.pdf",
+      "sha256": "8eb1ab3679916f7b653341445a73c87f2edb81a329a5d85967e9542454f6d0cd",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "16_Helferchat.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::16_Helferchat.pdf",
+      "sha256": "2078a964959932246aa5ea29109c075d1091874a7189528f750f3dc8e33fc70d",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "17_Datenabgleich_Notizen.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::17_Datenabgleich_Notizen.pdf",
+      "sha256": "56aebce4659391d6c2942e556e40417694abfe7784e3117840873a74ca391efe",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "18_Datenabgleich_und_Zeit.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip::18_Datenabgleich_und_Zeit.pdf",
+      "sha256": "f9b3828d3e778906e4878a3c95ac7784db88a46fb053964a93bccb1ca59b6b77",
+      "pages": 2
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "source": "testakten/berlin-asog-datenverwechslung-kiezfest/gesamt-pdf/berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "pages": 28
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Fink.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::01_Auftrag_Fink.pdf",
+      "sha256": "cac441bef0af96319929be0b7e303459b212efa7401f400eca6dc7581a83adfd",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "02_Bestaetigung_Platzverweis.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::02_Bestaetigung_Platzverweis.pdf",
+      "sha256": "b956357fdd924182d9c4fc6f717ab802a89f26740bbff196198fbd5a104ccc26",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "03_Gedaechtnisprotokoll_Cem.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::03_Gedaechtnisprotokoll_Cem.pdf",
+      "sha256": "f93676e8a09160d7a2dc62e0fdc5c71b5d76a2fd1cf7d4bd16947235090e40a9",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "04_Nachbarbrief_Berthold.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::04_Nachbarbrief_Berthold.pdf",
+      "sha256": "e5db096ac988358693345acdeada4ddabc045e05e74265c6bb0c035b0a2a8e45",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "05_Ortsnotiz_Wege.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::05_Ortsnotiz_Wege.pdf",
+      "sha256": "4a49aea7f8d66157022f91542d58270a1ef7e13b7e1ff5c29e32f55778cb20ac",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "06_Einladung_Oktober.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::06_Einladung_Oktober.pdf",
+      "sha256": "d4110a68522c957f5274ece5c4486aaee8331db3332fc9d24beb82d5b814d61d",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "07_Zugangsnotiz.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::07_Zugangsnotiz.pdf",
+      "sha256": "d75b8f67971ef1d3e6ae801272c7e6c908cfe43e3f9f776699b712176cd70bbc",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "08_Rueckfrage_Anwohnerverein.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::08_Rueckfrage_Anwohnerverein.pdf",
+      "sha256": "6feba33fa80503b5ca378f9922eedb0c18f941e332931b4f5723da797212fafa",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "09_Nachfrage_Polizei.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::09_Nachfrage_Polizei.pdf",
+      "sha256": "367a720ae9c1ae99f0432b8311ff79d562176a2457059b4499f4d2211b3df09c",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "10_Eingang_Polizei.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::10_Eingang_Polizei.pdf",
+      "sha256": "ebe5f08f1c5711441b17a6f651e3db87b2d6a0bdf7a8bd3a1e39dcc2938c3ea2",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "11_Cem_Ergaenzung.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::11_Cem_Ergaenzung.pdf",
+      "sha256": "33fdcb9e90727b06fc593768491ffc69f0b754443d008e822a57ec6b44f61fb9",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "12_Mitbewohnerin_Post.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::12_Mitbewohnerin_Post.pdf",
+      "sha256": "68e56a15624024d6d44b5f64bb27967f33a5446e59edf1e4eb92b32e0375eb7f",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "13_Vorlaeufige_Absprache.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::13_Vorlaeufige_Absprache.pdf",
+      "sha256": "52231ae7f7c084d70970e30884aaa988f119c725e6a2386487957fd35d788b5c",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "14_Zweite_Nachfrage.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::14_Zweite_Nachfrage.pdf",
+      "sha256": "91900446ff60ffbe4fbf5f56c241aec27dcfbb994b7a0f07e6dc4707dcaf1413",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "15_Mandatsunterlagen.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::15_Mandatsunterlagen.pdf",
+      "sha256": "f035cfc5d7dc329f289265780585ff6377c46b16416c69b11b5ecacde1693460",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "16_Hauschat.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::16_Hauschat.pdf",
+      "sha256": "b648b13211a680b913d14931911906017d561cdd6a27652ef115f6d106d93555",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "17_Terminnotiz.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::17_Terminnotiz.pdf",
+      "sha256": "578b4ca5ed7b8eb67e5aa279efb62f1db067294934e1a00971316f9d529216b5",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "18_Wege_und_Planung.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip::18_Wege_und_Planung.pdf",
+      "sha256": "61227c91c356756e0ef43abb0602d39faf5754b0a164f0b324c5cfc11985522e",
+      "pages": 2
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "source": "testakten/berlin-asog-platzverweis-parkpicknick/gesamt-pdf/berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "pages": 28
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Okafor.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::01_Auftrag_Okafor.pdf",
+      "sha256": "7f87cc9b753863d037b889240c179d2eae4bd1b634208313890f5ac3df2dd6ad",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "02_Sicherstellungsbescheinigung.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::02_Sicherstellungsbescheinigung.pdf",
+      "sha256": "cb843bd0d91961ac1a3a5b199c11a77a9b0b6812ee4d32701145441cfd433d6c",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "03_Kaufvertrag_Lastentransport.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::03_Kaufvertrag_Lastentransport.pdf",
+      "sha256": "b4240ef13aaf67d68cf0385f94489e104dc7629526a311f157cba4679e1977d6",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "04_Leihbestaetigung_Hummel.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::04_Leihbestaetigung_Hummel.pdf",
+      "sha256": "7626844a2af0e301294c1c89490cac6902551b4f0b3f9738bab4189303817910",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "05_Werkstatt_Befund.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::05_Werkstatt_Befund.pdf",
+      "sha256": "799a233ac3d383df14ca02c0168e57222a46b2f3bfe0f27790d8e06fb94ccd73",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "06_Verwahrstelle_Sachstand.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::06_Verwahrstelle_Sachstand.pdf",
+      "sha256": "b0d8e6c0a31a71cb5ae910b6f1a3a25d733168b41c4b72c8208de98f42c6bf31",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "07_Cafe_Lieferplan.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::07_Cafe_Lieferplan.pdf",
+      "sha256": "caa1b2d0b4de3ca9f6673974778a7a4d004bd6db0014fecc5783883a190102d4",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "08_Abholerklaerung_Berta.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::08_Abholerklaerung_Berta.pdf",
+      "sha256": "14af7e463ca5ec32ae2ebdcef05e5693be72fd1f0afab20f9988d671c7d0b638",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "09_Kaufbeleg_gesendet.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::09_Kaufbeleg_gesendet.pdf",
+      "sha256": "bff0975349fe8ea1331b01235bcf1d309ddcf45be3b89f9893df196bacc36135",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "10_Verkaeuferin_Antwort.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::10_Verkaeuferin_Antwort.pdf",
+      "sha256": "84ce7ae7176b549e7a7e45d7cac36c2e0c894615bfd54a8524bf152d555f05fb",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "11_Werkstatt_Anlage.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::11_Werkstatt_Anlage.pdf",
+      "sha256": "1c527978ac83370cda20aed50b36012b5052646cfce196995020ccf4d76e3b35",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "12_Eingang_Unterlagen.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::12_Eingang_Unterlagen.pdf",
+      "sha256": "838f22e26e5e1f1b900f9acc69147b8e259916545508262c141e60cec62fdcad",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "13_Mietangebot.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::13_Mietangebot.pdf",
+      "sha256": "75a7e0acdee5af7428c0eb376a82f25694537711ccd8b27a659042627b9fe473",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "14_Ausgabe_Rueckfrage.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::14_Ausgabe_Rueckfrage.pdf",
+      "sha256": "01fb2985ab7331f22c1e04414de0309b41c29167cca4a38e963de709bd9f1bac",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "15_Auftrag_an_Kanzlei.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::15_Auftrag_an_Kanzlei.pdf",
+      "sha256": "a5c9727ca57fcae7df3be9004481fe29f71ef1684f87656e5c2f08ef45f5b5d5",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "16_Chat_Berta.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::16_Chat_Berta.pdf",
+      "sha256": "6f3f38c0f9466cce260e5525c8a72733a9a2d18989d9b12820b66b5faf2eb889",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "17_Zugangsprotokoll.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::17_Zugangsprotokoll.pdf",
+      "sha256": "6b6d2fe05facc72f28c14e49cd834d7599e6f4b3a73958500e9b99c54d3b6ae5",
+      "pages": 1
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "18_Ersatzkosten_und_Inventar.pdf",
+      "source": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip::18_Ersatzkosten_und_Inventar.pdf",
+      "sha256": "c2c18f3b4bd5d638ae4a1f62c0e3454667ed2c5acc9fd633766ff2bce7323aa2",
+      "pages": 2
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "source": "testakten/berlin-asog-sicherstellung-lastenrad/gesamt-pdf/berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "pages": 28
+    }
+  ],
+  "zip_checks": [
+    {
+      "path": "lokale-pruefartefakte/dist/testakte-berlin-asog-datenverwechslung-kiezfest-einzelpdfs.zip",
+      "sha256": "6877e806e3f3b5607f990124e1c1e4556c78925dda70a3f17cc1e4de050a1b8e",
+      "pdf_count": 18
+    },
+    {
+      "path": "lokale-pruefartefakte/dist/testakte-berlin-asog-platzverweis-parkpicknick-einzelpdfs.zip",
+      "sha256": "c13b2e35ef57447419934228ee744d8bd4b3368e7185827db1434dde796ebc79",
+      "pdf_count": 18
+    },
+    {
+      "path": "lokale-pruefartefakte/dist/testakte-berlin-asog-sicherstellung-lastenrad-einzelpdfs.zip",
+      "sha256": "454c30f6a13d453830343b3def4313220a8617da641d622dfcdc3d200610e06a",
+      "pdf_count": 18
+    }
+  ],
+  "visually_inspected_pages": [
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Demir.pdf",
+      "pdf_sha256": "4a73f5ca9b183ca00fe8db6c37a00b822b8ab64e51ee3ad3ea6e481114467326",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/01_Auftrag_Demir/page-1.png",
+      "png_sha256": "1c066fa10b80fe43e1d11df2089733ed7650d57d3e2a0f8e79326ec33662c5e7",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "02_Auskunftsersuchen.pdf",
+      "pdf_sha256": "296afc4c631ce1ce44707a8a73aac88a5043059456f8bf8afec3b58c9e6018db",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/02_Auskunftsersuchen/page-1.png",
+      "png_sha256": "2ea852ff492e7098ca5a63fc6c93c4ce2e21cbb1444868f487923a478404eb15",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "03_Auskunft_Polizei.pdf",
+      "pdf_sha256": "6836eec2abadf7c2020194207a20b33434a9a07a68dcb055717df91b6e77bed0",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/03_Auskunft_Polizei/page-1.png",
+      "png_sha256": "b73dd34ea79ae661e74175c7ddd7ee3436660ef8995a0f357b3e5745bafb7b46",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "04_Personendaten_Demir.pdf",
+      "pdf_sha256": "e7fd167d03ad079b63601ecf79a46bbdd6728d05f384a8e1143328f217b024ce",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/04_Personendaten_Demir/page-1.png",
+      "png_sha256": "6a47b3b3abf1fc189f0e2e859b43fc06ffeea4c963b6db7b9eeb3921541e0a83",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "05_Nachbarschaftshaus_Bestaetigung.pdf",
+      "pdf_sha256": "0b0bee4a29ffac53b4f9872e9fba52985214b4a0c4ebbe9a8a2781dd7e97d628",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/05_Nachbarschaftshaus_Bestaetigung/page-1.png",
+      "png_sha256": "c58890998ac915545a8c9bbf32214212147739654ec2e8f697f1f0fca3d6e50c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "06_Zugangsnotiz_Auskunft.pdf",
+      "pdf_sha256": "b88b9e4d16aadd595d58a9cab41b3cb459a83d8cacc9d9edf593c60d352513f1",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/06_Zugangsnotiz_Auskunft/page-1.png",
+      "png_sha256": "dd207f2a74e7e7ca010e5ab561ce211b56d5f4c97808157f634bf940e7d0fc8c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "07_Nachforderung_Identitaet.pdf",
+      "pdf_sha256": "ac6c93aeb16c83c32838c9570aa6397e4654eac2ed8d8e607ae536d941690209",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/07_Nachforderung_Identitaet/page-1.png",
+      "png_sha256": "695d6bc9899541fad71bd06cbc34c34be9124d7284ea730f6976997ca882a472",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "08_Eigener_Taetigkeitsnachweis.pdf",
+      "pdf_sha256": "4b1f1c7bd0ab1ed88dfe86297fd4674ee98449612c63b3c74766e21680f62869",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/08_Eigener_Taetigkeitsnachweis/page-1.png",
+      "png_sha256": "8c8286459e4e7eb34453007efb01d4bedbecaf4e9903c79e6072b88350764cfb",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "09_Antrag_versandt.pdf",
+      "pdf_sha256": "dd07dd857167952e6a3e7aff81cab9e7b370ff56c99e81d7c646da904c51f718",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/09_Antrag_versandt/page-1.png",
+      "png_sha256": "6555e02dc926b191785e63e67faeb19117f9b2ded0bad2167770ee3ba6420273",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "10_Eingangsmitteilung.pdf",
+      "pdf_sha256": "7c6c5371f88af47efbe2fd23e5ea076d455bd47d03847d8ac9e0b2cc520b449b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/10_Eingangsmitteilung/page-1.png",
+      "png_sha256": "6f8b2292847d34934d5b518fb1ee1b91381303fae328ed954466bc69b8702889",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "11_Leitung_Fest.pdf",
+      "pdf_sha256": "fedaa026aa4a8d27538f09ebc0ada916c003b48c379581bec1fc34cff4570e46",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/11_Leitung_Fest/page-1.png",
+      "png_sha256": "5a956fe649ae3496f025359e6ef6bbe0b696950bd1b69117a038a458b6afddcd",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "12_Beanstandung_kurz.pdf",
+      "pdf_sha256": "4b2117cf475ae153214b4d6b5d28807347f41e8d55561418771a5c6025f7b300",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/12_Beanstandung_kurz/page-1.png",
+      "png_sha256": "d7be9386779ce56fda399421299034b93de7e204aa8c48b7db5ef39cb32ad739",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "13_Pruefung_Eingang.pdf",
+      "pdf_sha256": "97791e303c0499731248acd92d2f6e07424b0d1e5cbe8ee9fa414f594ead2610",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/13_Pruefung_Eingang/page-1.png",
+      "png_sha256": "aeac2da6aca79611e954e605c12317b04bf69727d6dc3a7a5a8eccf3ec1c470d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "14_Kanzlei_Unterlagen.pdf",
+      "pdf_sha256": "e23f9bb42f127f1f88eabfee56cf76b06adb48ab65678f21c8863b729fc7975b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/14_Kanzlei_Unterlagen/page-1.png",
+      "png_sha256": "9880c28a641af92b5fa8b92ff3a3d5134eda0699c351531990d582b16687a508",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "15_Terminmoeglichkeit.pdf",
+      "pdf_sha256": "8eb1ab3679916f7b653341445a73c87f2edb81a329a5d85967e9542454f6d0cd",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/15_Terminmoeglichkeit/page-1.png",
+      "png_sha256": "f18e59f3e4053f8eebc64776b8df9e47ad6042cd70903a560897573a99eaf74d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "16_Helferchat.pdf",
+      "pdf_sha256": "2078a964959932246aa5ea29109c075d1091874a7189528f750f3dc8e33fc70d",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/16_Helferchat/page-1.png",
+      "png_sha256": "cf14d7f3e9136a25f9b3dc4406d8932c54e58a773016d792e631420541a9d70d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "17_Datenabgleich_Notizen.pdf",
+      "pdf_sha256": "56aebce4659391d6c2942e556e40417694abfe7784e3117840873a74ca391efe",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/17_Datenabgleich_Notizen/page-1.png",
+      "png_sha256": "6c09ccd78c62c44ea9d9a4888bd248350b9c883bebf6b67efaca2bd5d6c6e119",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "18_Datenabgleich_und_Zeit.pdf",
+      "pdf_sha256": "f9b3828d3e778906e4878a3c95ac7784db88a46fb053964a93bccb1ca59b6b77",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/18_Datenabgleich_und_Zeit/page-1.png",
+      "png_sha256": "136122249f406ab9f54e3f25032ffc77758256dc0ddec1ed4f963c4a0a28382b",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "einzeln",
+      "pdf": "18_Datenabgleich_und_Zeit.pdf",
+      "pdf_sha256": "f9b3828d3e778906e4878a3c95ac7784db88a46fb053964a93bccb1ca59b6b77",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/18_Datenabgleich_und_Zeit/page-2.png",
+      "png_sha256": "c6c5f0063eeb5debf3a54986c35cc5fffce4401c6394f02c5e580f5a782e107a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Fink.pdf",
+      "pdf_sha256": "cac441bef0af96319929be0b7e303459b212efa7401f400eca6dc7581a83adfd",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/01_Auftrag_Fink/page-1.png",
+      "png_sha256": "965f33480dbcd022ef67b1ea552dc8baad6ee35fca4b07ca32f664a3d26c102b",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "02_Bestaetigung_Platzverweis.pdf",
+      "pdf_sha256": "b956357fdd924182d9c4fc6f717ab802a89f26740bbff196198fbd5a104ccc26",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/02_Bestaetigung_Platzverweis/page-1.png",
+      "png_sha256": "bdf1127ce7d440bf43ba4f3ccc77ab4f5ea20686c4b634cdd74ff7347626000b",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "03_Gedaechtnisprotokoll_Cem.pdf",
+      "pdf_sha256": "f93676e8a09160d7a2dc62e0fdc5c71b5d76a2fd1cf7d4bd16947235090e40a9",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/03_Gedaechtnisprotokoll_Cem/page-1.png",
+      "png_sha256": "617e2b8df8780e293108a471832f7c49a1b078b4dbf559822ceb24050e854aef",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "04_Nachbarbrief_Berthold.pdf",
+      "pdf_sha256": "e5db096ac988358693345acdeada4ddabc045e05e74265c6bb0c035b0a2a8e45",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/04_Nachbarbrief_Berthold/page-1.png",
+      "png_sha256": "0f0666768e4efa673558401b6f27b91ec58d17671a5d4608f4b40177afe06435",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "05_Ortsnotiz_Wege.pdf",
+      "pdf_sha256": "4a49aea7f8d66157022f91542d58270a1ef7e13b7e1ff5c29e32f55778cb20ac",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/05_Ortsnotiz_Wege/page-1.png",
+      "png_sha256": "3e4d4751ff4204a564a5238485420e75e8b0a6ee95731b9fadc1fb402c5e6ed0",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "06_Einladung_Oktober.pdf",
+      "pdf_sha256": "d4110a68522c957f5274ece5c4486aaee8331db3332fc9d24beb82d5b814d61d",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/06_Einladung_Oktober/page-1.png",
+      "png_sha256": "c42e729cc03a6e58cc42ee47537dcf11e649a932920887b1fdfe725955f7b595",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "07_Zugangsnotiz.pdf",
+      "pdf_sha256": "d75b8f67971ef1d3e6ae801272c7e6c908cfe43e3f9f776699b712176cd70bbc",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/07_Zugangsnotiz/page-1.png",
+      "png_sha256": "1b4fe773a8f9c979b393e96d8c8a36e51a16f1ced759cde0dd348dbdf7340ae4",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "08_Rueckfrage_Anwohnerverein.pdf",
+      "pdf_sha256": "6feba33fa80503b5ca378f9922eedb0c18f941e332931b4f5723da797212fafa",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/08_Rueckfrage_Anwohnerverein/page-1.png",
+      "png_sha256": "d6948a12aee50ca5e9ef3335361e376999a71ad70fd885eba76e43736a12f6d2",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "09_Nachfrage_Polizei.pdf",
+      "pdf_sha256": "367a720ae9c1ae99f0432b8311ff79d562176a2457059b4499f4d2211b3df09c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/09_Nachfrage_Polizei/page-1.png",
+      "png_sha256": "f0cea4f78b1fdb61e399997eee3ea74c4ff4dbde970383fbecfdf043d59bee38",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "10_Eingang_Polizei.pdf",
+      "pdf_sha256": "ebe5f08f1c5711441b17a6f651e3db87b2d6a0bdf7a8bd3a1e39dcc2938c3ea2",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/10_Eingang_Polizei/page-1.png",
+      "png_sha256": "387734791fea26d1c21d6b5ebb23d68585e0caf222fc6e7dc0b9a1e3f242c93a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "11_Cem_Ergaenzung.pdf",
+      "pdf_sha256": "33fdcb9e90727b06fc593768491ffc69f0b754443d008e822a57ec6b44f61fb9",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/11_Cem_Ergaenzung/page-1.png",
+      "png_sha256": "14b60abc40af994faaf10591f8aae4abc421ea0431fc0ab8edc333dc479ba1ee",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "12_Mitbewohnerin_Post.pdf",
+      "pdf_sha256": "68e56a15624024d6d44b5f64bb27967f33a5446e59edf1e4eb92b32e0375eb7f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/12_Mitbewohnerin_Post/page-1.png",
+      "png_sha256": "dd41baea1b07d98896121041897235ce1096db6f9c62fb9a300469cebbd1ef68",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "13_Vorlaeufige_Absprache.pdf",
+      "pdf_sha256": "52231ae7f7c084d70970e30884aaa988f119c725e6a2386487957fd35d788b5c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/13_Vorlaeufige_Absprache/page-1.png",
+      "png_sha256": "768ddf79bbbb60ef77e46070b09a0e1300bb71f6ba77338d2f1e8e4dfd460832",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "14_Zweite_Nachfrage.pdf",
+      "pdf_sha256": "91900446ff60ffbe4fbf5f56c241aec27dcfbb994b7a0f07e6dc4707dcaf1413",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/14_Zweite_Nachfrage/page-1.png",
+      "png_sha256": "fd50624376b397b6d5944ab8a787eb2e817e6adcefeea9e03721fabf89c0b904",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "15_Mandatsunterlagen.pdf",
+      "pdf_sha256": "f035cfc5d7dc329f289265780585ff6377c46b16416c69b11b5ecacde1693460",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/15_Mandatsunterlagen/page-1.png",
+      "png_sha256": "e5a1aef786c9e1e30214f65e4d4e00f51d11cbc27d1abf104e405af5b072cb9c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "16_Hauschat.pdf",
+      "pdf_sha256": "b648b13211a680b913d14931911906017d561cdd6a27652ef115f6d106d93555",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/16_Hauschat/page-1.png",
+      "png_sha256": "4ff3483fc87cd64ba7bc9691fc21ba7cb42da4823d8db9b4af1f5ccb45121fff",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "17_Terminnotiz.pdf",
+      "pdf_sha256": "578b4ca5ed7b8eb67e5aa279efb62f1db067294934e1a00971316f9d529216b5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/17_Terminnotiz/page-1.png",
+      "png_sha256": "275e975247f0973d6fd80dc106b01ce7a331d5dd30e0dba9e720dc9358b97080",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "18_Wege_und_Planung.pdf",
+      "pdf_sha256": "61227c91c356756e0ef43abb0602d39faf5754b0a164f0b324c5cfc11985522e",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/18_Wege_und_Planung/page-1.png",
+      "png_sha256": "ac4b272a657691b859affaf8f87de2fa5cfc6dd93fe416404371cdf4da9d5772",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "einzeln",
+      "pdf": "18_Wege_und_Planung.pdf",
+      "pdf_sha256": "61227c91c356756e0ef43abb0602d39faf5754b0a164f0b324c5cfc11985522e",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/18_Wege_und_Planung/page-2.png",
+      "png_sha256": "b3037b731e490e8045d435c79904c84b639ba33d7c0f306791c0efade2b14b06",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "01_Auftrag_Okafor.pdf",
+      "pdf_sha256": "7f87cc9b753863d037b889240c179d2eae4bd1b634208313890f5ac3df2dd6ad",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/01_Auftrag_Okafor/page-1.png",
+      "png_sha256": "2ab9c3be4194bd4e70d1d727b12cf4f9abd2f88e9a804897f38a192b87d64d38",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "02_Sicherstellungsbescheinigung.pdf",
+      "pdf_sha256": "cb843bd0d91961ac1a3a5b199c11a77a9b0b6812ee4d32701145441cfd433d6c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/02_Sicherstellungsbescheinigung/page-1.png",
+      "png_sha256": "80eccb72f7e9a3f833d91b2426c57fe1bb3db9dc8e1f891efd48f84f4e1d2d65",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "03_Kaufvertrag_Lastentransport.pdf",
+      "pdf_sha256": "b4240ef13aaf67d68cf0385f94489e104dc7629526a311f157cba4679e1977d6",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/03_Kaufvertrag_Lastentransport/page-1.png",
+      "png_sha256": "66339428107a41d370008e646839651a9de6910b018120c2d73871f567d8358d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "04_Leihbestaetigung_Hummel.pdf",
+      "pdf_sha256": "7626844a2af0e301294c1c89490cac6902551b4f0b3f9738bab4189303817910",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/04_Leihbestaetigung_Hummel/page-1.png",
+      "png_sha256": "db1511cb68bdb87f7ebba930d26d2bc75f5ac256b5805639ff30e7ae58ea3f36",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "05_Werkstatt_Befund.pdf",
+      "pdf_sha256": "799a233ac3d383df14ca02c0168e57222a46b2f3bfe0f27790d8e06fb94ccd73",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/05_Werkstatt_Befund/page-1.png",
+      "png_sha256": "ca2d1ab2e718541f7bb3ae4d413e6a116f2df718b85fdf869f37187be4079081",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "06_Verwahrstelle_Sachstand.pdf",
+      "pdf_sha256": "b0d8e6c0a31a71cb5ae910b6f1a3a25d733168b41c4b72c8208de98f42c6bf31",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/06_Verwahrstelle_Sachstand/page-1.png",
+      "png_sha256": "26d2158bd80942346133a2b074137de1bb406dc2fcb3e7e5989a28613e98309a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "07_Cafe_Lieferplan.pdf",
+      "pdf_sha256": "caa1b2d0b4de3ca9f6673974778a7a4d004bd6db0014fecc5783883a190102d4",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/07_Cafe_Lieferplan/page-1.png",
+      "png_sha256": "19432a96e538bc8ae59cef3d7c251dc6577febda149556e39c033d01aab68819",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "08_Abholerklaerung_Berta.pdf",
+      "pdf_sha256": "14af7e463ca5ec32ae2ebdcef05e5693be72fd1f0afab20f9988d671c7d0b638",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/08_Abholerklaerung_Berta/page-1.png",
+      "png_sha256": "e8cdd93a23bf12d2f9549e800606bdd38d63212f8de2f1b5dca6c1fceab85128",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "09_Kaufbeleg_gesendet.pdf",
+      "pdf_sha256": "bff0975349fe8ea1331b01235bcf1d309ddcf45be3b89f9893df196bacc36135",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/09_Kaufbeleg_gesendet/page-1.png",
+      "png_sha256": "f5846d9bec277edfea5d633f7ca0b469fb4907a121ca3e739676e01029cf3f5c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "10_Verkaeuferin_Antwort.pdf",
+      "pdf_sha256": "84ce7ae7176b549e7a7e45d7cac36c2e0c894615bfd54a8524bf152d555f05fb",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/10_Verkaeuferin_Antwort/page-1.png",
+      "png_sha256": "d4785405941160403c2a378e2051439fd148ebd1eaee970fe45cb90a0b34e801",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "11_Werkstatt_Anlage.pdf",
+      "pdf_sha256": "1c527978ac83370cda20aed50b36012b5052646cfce196995020ccf4d76e3b35",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/11_Werkstatt_Anlage/page-1.png",
+      "png_sha256": "7cbf29d74de2c07fba5f903cb16b0066565fb2d852e82861c58a33b0a1ca9d7f",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "12_Eingang_Unterlagen.pdf",
+      "pdf_sha256": "838f22e26e5e1f1b900f9acc69147b8e259916545508262c141e60cec62fdcad",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/12_Eingang_Unterlagen/page-1.png",
+      "png_sha256": "61cff9f42c1116e079913f7d9348d226ee6ae267c17ce95d4d597558b5c196f9",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "13_Mietangebot.pdf",
+      "pdf_sha256": "75a7e0acdee5af7428c0eb376a82f25694537711ccd8b27a659042627b9fe473",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/13_Mietangebot/page-1.png",
+      "png_sha256": "e16a3ff94c357d70a7ea8e6c333c45dcb5307b548804eb2ff7cc2970693e32d9",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "14_Ausgabe_Rueckfrage.pdf",
+      "pdf_sha256": "01fb2985ab7331f22c1e04414de0309b41c29167cca4a38e963de709bd9f1bac",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/14_Ausgabe_Rueckfrage/page-1.png",
+      "png_sha256": "1d8b90bf555a6667d5f8071a82b03f72147d34bb082dc4048e4df263f83442ed",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "15_Auftrag_an_Kanzlei.pdf",
+      "pdf_sha256": "a5c9727ca57fcae7df3be9004481fe29f71ef1684f87656e5c2f08ef45f5b5d5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/15_Auftrag_an_Kanzlei/page-1.png",
+      "png_sha256": "561633c67b1418465847d259bfebc5d2e597812a49a96236058ce95f7549eaae",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "16_Chat_Berta.pdf",
+      "pdf_sha256": "6f3f38c0f9466cce260e5525c8a72733a9a2d18989d9b12820b66b5faf2eb889",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/16_Chat_Berta/page-1.png",
+      "png_sha256": "81004dab818c66377de8473bdfc617af828a949adb07eb333aed8554b4d1d808",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "17_Zugangsprotokoll.pdf",
+      "pdf_sha256": "6b6d2fe05facc72f28c14e49cd834d7599e6f4b3a73958500e9b99c54d3b6ae5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/17_Zugangsprotokoll/page-1.png",
+      "png_sha256": "172504c72f03ad200995b438cae943b40fc8436c1c91b17724af6c5f632c8cf1",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "18_Ersatzkosten_und_Inventar.pdf",
+      "pdf_sha256": "c2c18f3b4bd5d638ae4a1f62c0e3454667ed2c5acc9fd633766ff2bce7323aa2",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/18_Ersatzkosten_und_Inventar/page-1.png",
+      "png_sha256": "e3b2a1ca93da14b5962490d202374f9c438c4a4771b1426e876fe06fb1457023",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "einzeln",
+      "pdf": "18_Ersatzkosten_und_Inventar.pdf",
+      "pdf_sha256": "c2c18f3b4bd5d638ae4a1f62c0e3454667ed2c5acc9fd633766ff2bce7323aa2",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/18_Ersatzkosten_und_Inventar/page-2.png",
+      "png_sha256": "6106103de6b07d55cb328b5d3e2148c5028ebd4f3fffcb331298523d0bc86112",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-01.png",
+      "png_sha256": "3555207cd08d7bf14b5df674b928385d01b1fe3eb155c7dcaaa83583f464fc15",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-02.png",
+      "png_sha256": "47c2c0dd8245bc541fbca5feb0711c0ec8aefcbc52017466e274b9cfccbcfb28",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-03.png",
+      "png_sha256": "72ca3b340d21b7f8e74855a308eee0d7d51cbd3d3c1e541f0b06d09a6d1023a4",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-04.png",
+      "png_sha256": "5ea6ed36ffb5eb1674a7cc713aa3d980ff709ae8d018459d6b67d36988b38fa4",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-05.png",
+      "png_sha256": "4c7b8a5ef65b332ba2326d4a639d0fb043a2319f1902681c48ba8e7bbabca9f7",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-06.png",
+      "png_sha256": "44ffbef0d35945b7906960ce4a295fe146ad91f67a7695669f686f2967822ea7",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-07.png",
+      "png_sha256": "0e31f6869ab97139a04960b6d7614ff1251a488808818e6a37de6d8f5321d9f5",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-08.png",
+      "png_sha256": "0fcdc64466eb7e54f2675f85278377bd7adb109757cc9d741bb25d90bf0183d1",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-09.png",
+      "png_sha256": "bdb015608cd478ab2853b3408c02ca8245298e4467cc8e9694f05878018d6bb6",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-10.png",
+      "png_sha256": "a2b5578ad2362bd8cb9a52fb6da787603993e3d5598621c66caf44beaa7e7b8e",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-13.png",
+      "png_sha256": "bcf65a34bdba5b947310292e9214d08591ecae124278f50b3d0c1843534c847d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-15.png",
+      "png_sha256": "bf606847c8c07d842ecba3d2d1307b473a44da71ea56b8e34982bcaa819b092e",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-17.png",
+      "png_sha256": "61a2133578f84c318eccd1d53d8ff74f8836a0b4f268b537af5cd55df838c65f",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-19.png",
+      "png_sha256": "4447f645484631fda7c55727cf5cfea4a16197223f36d80223eca91455e5ef2c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-21.png",
+      "png_sha256": "738abf3ee1adf6403468a21fa098ddc11c1b3a8f107f8127232091c8779184db",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-23.png",
+      "png_sha256": "e7cd5bf445cf2e6c1d4127c52e7934936e4f43af50e6186c07682d4d88ccd721",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-25.png",
+      "png_sha256": "c13bfb10b2f1671d38f4ba4ee2feb1a41d251c1ce8c5741792a4a5fb89e97c22",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-27.png",
+      "png_sha256": "bae01a5a365ff3c33259d6c764dc6a50e6daf126fd1ad5c0ae329ebc10a8c398",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-01.png",
+      "png_sha256": "fa2998146f8a5c3b3c11bb41d1762c7b77835fabb77cba98d70f6cc2c67a9439",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-02.png",
+      "png_sha256": "52a8c9d68b30117cbbd242aabb148b3367336ef5c291e853b9fc3e669d44e0c6",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-03.png",
+      "png_sha256": "c4b9934dc519bd6236c3e1cf4ceb665912fc5ba5d12bdd677b965f289bf3a35d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-04.png",
+      "png_sha256": "5e77a54047babf8b347b01d0a28d9e8d2132b3a2d7d3ce7a734ad49dcafafe7d",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-05.png",
+      "png_sha256": "f50a05d67d7142a945e9e00fdd44044b6053699f10d6bc631949ccf9cd1ea8c9",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-06.png",
+      "png_sha256": "8afa1fe1eb279a54372f5d3b0b9584ce2f755a11c5cc6abed226f726c84133ca",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-07.png",
+      "png_sha256": "857450b9539c83e117f1d8a8138f6edba3573f1f22ad89a1ba425df25aea61bc",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-08.png",
+      "png_sha256": "2e21f7689d23190b9a3a1be3daa9021fc658a341c69e43f1643711c6a143bebc",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-09.png",
+      "png_sha256": "809b57a5d39e388f66d08804915fb2c85390e631a9dcf1222ef0c8fa49ddffbd",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-10.png",
+      "png_sha256": "969816f9e2033614d0d6d6b9d15baa1a168d0980a27a4355e9f3aa5fdf63afae",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-13.png",
+      "png_sha256": "bb5bebc9829412fb21ee83cbc5103f8b458bfb0f52826708bfe4f8ff2ea4b03e",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-15.png",
+      "png_sha256": "55c07e24c19d44e903b96fb401da63f53a713cb2b6c64ba674572673e4326ea5",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-17.png",
+      "png_sha256": "e0fa0dbba8dcae76d8595a9a6d26f2df738d0dce47397fe91df70b02b243eca5",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-19.png",
+      "png_sha256": "b5d5c71a8bcb84f9042c741a3efb16034c89262ac87ac07eeaf9c1a90dee5f4c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-21.png",
+      "png_sha256": "347c844a86671deb748316c3b9616a20f89347a65cc897b8537139e59b539091",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-23.png",
+      "png_sha256": "30def7829591249803b8d3ccb60f8152b0a9d98d7f9e14325677f2abc81b638a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-25.png",
+      "png_sha256": "0dc397f8f1ac35b855d76fe04d8db0e3894388a5dcb02248ec76791a77e3e5a0",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-27.png",
+      "png_sha256": "516303b1fb2508288009b0387d084c5e79030a1297cb49f343f7425c90a85a2a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-01.png",
+      "png_sha256": "3973f09236980672ca03405704b157d6f03cad81c290af1bef78e2969cc9ce19",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-02.png",
+      "png_sha256": "cd7f9ea180520b65b1df90fce3d5cb18490ae41f153a48cae3a026a967a08533",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-03.png",
+      "png_sha256": "d1d868ba65ea597b8bb7d710d693b7e11a73bcc57f20f15ab7f360d6384fc83f",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-04.png",
+      "png_sha256": "2c26a4fb65c2842135087ea94316beb11c3e7ac6eda0e43f6822c89e9d9e4c55",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-05.png",
+      "png_sha256": "c301ee9040c978454ad4f8b36b0e9220a3f52a14e1c015b1484426cdacdf7806",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-06.png",
+      "png_sha256": "735921179b767faca5bdfedaeebb11d32122dfa416db169f451ed400872ff221",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-07.png",
+      "png_sha256": "6b431e5b10795bd4ad08e5204bb6e288fa6572337162be31b332bc93c8d1972e",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-08.png",
+      "png_sha256": "719ecbe277914b9a6ee86f3f9f124ed9c70e681ff760eb27c7beebcffa9ad8d0",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-09.png",
+      "png_sha256": "e8a3a9d9c292d333b734ada647ff370ef8a7439c40e7da933ba7f52d1a7944c3",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-10.png",
+      "png_sha256": "ff91ba0b103f9786b18299bf6c9b2ef45c6ec4fe6ac935c4ff673c98106f7034",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-13.png",
+      "png_sha256": "d8bd85fbff6eed301f36b2b60503bdb228be5e37fe7efc089297c98896dd5bd9",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-15.png",
+      "png_sha256": "28cc33264e2aa7da07db345834cd7ebbe2f850f65d1897802bca1c794e01676a",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-17.png",
+      "png_sha256": "7aa1a633b7697b647969ad2c6671aff09e6f0e95b0dd27009dcf7960bd264122",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-19.png",
+      "png_sha256": "b875f82cef3c963ba4e478c6ff8a83aabeff823692b6ba2ce6132fd7952fba3c",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-21.png",
+      "png_sha256": "7bbfe76e1f882f682e2d735ab694b3a348f8bd0763986c320d51b2fee0412e3b",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-23.png",
+      "png_sha256": "de55e3b7637fb0ba15faf931d6163b2ef64ed42f5e47508882a3ee983eba64ae",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-25.png",
+      "png_sha256": "709fcec80a583c44df49d17b656104a5a352f3e56088d3ea7f4fa13e79bfc5c6",
+      "visually_inspected": true
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-27.png",
+      "png_sha256": "f2162e86f40eeac4ff82122be271eedc899f4f4e904229ed8cc4768e8f55574d",
+      "visually_inspected": true
+    }
+  ],
+  "deduplicated_pages": [
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-11.png",
+      "png_sha256": "136122249f406ab9f54e3f25032ffc77758256dc0ddec1ed4f963c4a0a28382b",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/18_Datenabgleich_und_Zeit/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-12.png",
+      "png_sha256": "c6c5f0063eeb5debf3a54986c35cc5fffce4401c6394f02c5e580f5a782e107a",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/18_Datenabgleich_und_Zeit/page-2.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-14.png",
+      "png_sha256": "1c066fa10b80fe43e1d11df2089733ed7650d57d3e2a0f8e79326ec33662c5e7",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/01_Auftrag_Demir/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-16.png",
+      "png_sha256": "2ea852ff492e7098ca5a63fc6c93c4ce2e21cbb1444868f487923a478404eb15",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/02_Auskunftsersuchen/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-18.png",
+      "png_sha256": "b73dd34ea79ae661e74175c7ddd7ee3436660ef8995a0f357b3e5745bafb7b46",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/03_Auskunft_Polizei/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-20.png",
+      "png_sha256": "6a47b3b3abf1fc189f0e2e859b43fc06ffeea4c963b6db7b9eeb3921541e0a83",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/04_Personendaten_Demir/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-22.png",
+      "png_sha256": "c58890998ac915545a8c9bbf32214212147739654ec2e8f697f1f0fca3d6e50c",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/05_Nachbarschaftshaus_Bestaetigung/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-24.png",
+      "png_sha256": "dd207f2a74e7e7ca010e5ab561ce211b56d5f4c97808157f634bf940e7d0fc8c",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/06_Zugangsnotiz_Auskunft/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-26.png",
+      "png_sha256": "695d6bc9899541fad71bd06cbc34c34be9124d7284ea730f6976997ca882a472",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/07_Nachforderung_Identitaet/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-datenverwechslung-kiezfest",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-datenverwechslung-kiezfest_gesamt.pdf",
+      "pdf_sha256": "068c7fd08168fd9e188f2f8b9242af74750efcb23cd8130ec924c6eaf7862abe",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/gesamt/berlin-asog-datenverwechslung-kiezfest_gesamt/page-28.png",
+      "png_sha256": "8c8286459e4e7eb34453007efb01d4bedbecaf4e9903c79e6072b88350764cfb",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-datenverwechslung-kiezfest/einzeln/08_Eigener_Taetigkeitsnachweis/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-11.png",
+      "png_sha256": "ac4b272a657691b859affaf8f87de2fa5cfc6dd93fe416404371cdf4da9d5772",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/18_Wege_und_Planung/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-12.png",
+      "png_sha256": "b3037b731e490e8045d435c79904c84b639ba33d7c0f306791c0efade2b14b06",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/18_Wege_und_Planung/page-2.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-14.png",
+      "png_sha256": "965f33480dbcd022ef67b1ea552dc8baad6ee35fca4b07ca32f664a3d26c102b",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/01_Auftrag_Fink/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-16.png",
+      "png_sha256": "bdf1127ce7d440bf43ba4f3ccc77ab4f5ea20686c4b634cdd74ff7347626000b",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/02_Bestaetigung_Platzverweis/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-18.png",
+      "png_sha256": "617e2b8df8780e293108a471832f7c49a1b078b4dbf559822ceb24050e854aef",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/03_Gedaechtnisprotokoll_Cem/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-20.png",
+      "png_sha256": "0f0666768e4efa673558401b6f27b91ec58d17671a5d4608f4b40177afe06435",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/04_Nachbarbrief_Berthold/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-22.png",
+      "png_sha256": "3e4d4751ff4204a564a5238485420e75e8b0a6ee95731b9fadc1fb402c5e6ed0",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/05_Ortsnotiz_Wege/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-24.png",
+      "png_sha256": "c42e729cc03a6e58cc42ee47537dcf11e649a932920887b1fdfe725955f7b595",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/06_Einladung_Oktober/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-26.png",
+      "png_sha256": "1b4fe773a8f9c979b393e96d8c8a36e51a16f1ced759cde0dd348dbdf7340ae4",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/07_Zugangsnotiz/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-platzverweis-parkpicknick",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-platzverweis-parkpicknick_gesamt.pdf",
+      "pdf_sha256": "316c3931a465b1b3842420d39b9152611e2d28f34ed2df7cfbd0cc046ac002d9",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/gesamt/berlin-asog-platzverweis-parkpicknick_gesamt/page-28.png",
+      "png_sha256": "d6948a12aee50ca5e9ef3335361e376999a71ad70fd885eba76e43736a12f6d2",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-platzverweis-parkpicknick/einzeln/08_Rueckfrage_Anwohnerverein/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 11,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-11.png",
+      "png_sha256": "e3b2a1ca93da14b5962490d202374f9c438c4a4771b1426e876fe06fb1457023",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/18_Ersatzkosten_und_Inventar/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 12,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-12.png",
+      "png_sha256": "6106103de6b07d55cb328b5d3e2148c5028ebd4f3fffcb331298523d0bc86112",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/18_Ersatzkosten_und_Inventar/page-2.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 14,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-14.png",
+      "png_sha256": "2ab9c3be4194bd4e70d1d727b12cf4f9abd2f88e9a804897f38a192b87d64d38",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/01_Auftrag_Okafor/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 16,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-16.png",
+      "png_sha256": "80eccb72f7e9a3f833d91b2426c57fe1bb3db9dc8e1f891efd48f84f4e1d2d65",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/02_Sicherstellungsbescheinigung/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 18,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-18.png",
+      "png_sha256": "66339428107a41d370008e646839651a9de6910b018120c2d73871f567d8358d",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/03_Kaufvertrag_Lastentransport/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 20,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-20.png",
+      "png_sha256": "db1511cb68bdb87f7ebba930d26d2bc75f5ac256b5805639ff30e7ae58ea3f36",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/04_Leihbestaetigung_Hummel/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 22,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-22.png",
+      "png_sha256": "ca2d1ab2e718541f7bb3ae4d413e6a116f2df718b85fdf869f37187be4079081",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/05_Werkstatt_Befund/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 24,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-24.png",
+      "png_sha256": "26d2158bd80942346133a2b074137de1bb406dc2fcb3e7e5989a28613e98309a",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/06_Verwahrstelle_Sachstand/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 26,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-26.png",
+      "png_sha256": "19432a96e538bc8ae59cef3d7c251dc6577febda149556e39c033d01aab68819",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/07_Cafe_Lieferplan/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    },
+    {
+      "case": "berlin-asog-sicherstellung-lastenrad",
+      "kind": "gesamt",
+      "pdf": "berlin-asog-sicherstellung-lastenrad_gesamt.pdf",
+      "pdf_sha256": "6c105f928467ba27977b9551abae0de8722f87aae4053377fc2060a3ba29966f",
+      "page": 28,
+      "png": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/gesamt/berlin-asog-sicherstellung-lastenrad_gesamt/page-28.png",
+      "png_sha256": "e8cdd93a23bf12d2f9549e800606bdd38d63212f8de2f1b5dca6c1fceab85128",
+      "duplicate_of": "lokale-pruefartefakte/qa/asog-final/berlin-asog-sicherstellung-lastenrad/einzeln/08_Abholerklaerung_Berta/page-1.png",
+      "coverage": "identical_png_sha256_to_visually_inspected_page"
+    }
+  ],
+  "limits": [
+    "No new legal primary-source audit of the ASOG plugin by this reviewer.",
+    "No runtime model evaluation inferred from visual inspection.",
+    "Combined PDFs include intentionally labelled native-document separator pages; they are not classified as missing content."
+  ]
+}

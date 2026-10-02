@@ -1,6 +1,6 @@
 {
   "name": "insolvenzforderungen-checker",
-  "version": "445.26.0",
+  "version": "445.27.0",
   "description": "Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

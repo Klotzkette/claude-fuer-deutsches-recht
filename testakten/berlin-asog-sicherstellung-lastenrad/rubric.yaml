@@ -1,0 +1,121 @@
+name: 'Lastenrad: Sicherstellung, Herausgabe und offene Kosten'
+plugin: berliner-asog-polizeirecht
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-asog-sicherstellung-lastenrad
+  fachprofil: quality/evals/berliner-asog-polizeirecht.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Herausgabeschreiben.docx
+  zweck: Vollständiger Herausgabeentwurf mit Übergabeoption, Inventar und begründeter Dringlichkeit.
+- datei: Kosten_und_Terminvermerk.docx
+  zweck: Einordnung von Kostenankündigung, möglicher Ersatzmiete und tatsächlichem Bedarf ab 5. Oktober.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-asog-sicherstellung-lastenrad_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 05_Werkstatt_Befund.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 06_Verwahrstelle_Sachstand.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 08_Abholerklaerung_Berta.docx
+- id: fach-berechtigte
+  check_type: human_review
+  description: Werden Balduin als Eigentümer und Berta als letzte Gewahrsamsinhaberin mit ihrer Abholerklärung
+    getrennt behandelt? Wird der konkrete Herausgabeempfänger nach dem aktuellen § 41 Absatz 1 ASOG
+    geprüft statt allein nach Eigentumstitel bestimmt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-nummer
+  check_type: human_review
+  description: Werden Rahmennummer HR-2024-773 und abweichende Verlustmeldung mit Endziffern 778
+    samt Werkstattbefund verarbeitet? Die geklärte Abweichung und der noch ausstehende Rückruf beweisen
+    nicht automatisch die Rechtswidrigkeit jeder ursprünglichen Maßnahme.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-aktuellergrund
+  check_type: human_review
+  description: Wird nach dem aktuellen fortbestehenden Sicherstellungs- oder Verwahrgrund gefragt
+    und eine tatsächliche Rückgabemöglichkeit verlangt, ohne eine behördliche Freigabe zu erfinden?
+    Ein mögliches Strafverfahren wird nicht allein aus einer Verlustmeldung angenommen.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-kosten
+  check_type: human_review
+  description: Werden unverbindliche Kostenankündigung, fehlender Kostenbescheid, Mietangebot von
+    24 Euro täglich plus 15 Euro Bereitstellung und tatsächlich noch nicht bezahlte Ausgaben unterschieden?
+    Kosten gehören beim aktuellen § 41 ASOG in Absatz 4, nicht in die Erlösregel des Absatzes 3.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-uebergabe
+  check_type: human_review
+  description: Berücksichtigt der Entwurf Bertas zeitliche Verfügbarkeit, beide Schlüssel und gelben
+    Gurt, bestätigten Abholtermin und erforderliche Nachweise datensparsam? Kein Kostenanerkenntnis
+    oder Anspruchsverzicht als vermeintlich bereits erklärt einsetzen.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Entsteht ein konkretes Herausgabeschreiben mit realistischer Dringlichkeit ab Montag,
+    5. Oktober, ohne sämtliche Lieferungen als zwingend unmöglich darzustellen? Der Kostenvermerk
+    bezeichnet Angebote als solche; keine unautorisierte Rechtsbehelfseinlegung oder Zahlung.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Werden Balduin als Eigentümer und Berta als letzte Gewahrsamsinhaberin mit ihrer Abholerklärung
+  getrennt behandelt? Wird der konkrete Herausgabeempfänger nach dem aktuellen § 41 Absatz 1 ASOG
+  geprüft statt allein nach Eigentumstitel bestimmt?
+- Werden Rahmennummer HR-2024-773 und abweichende Verlustmeldung mit Endziffern 778 samt Werkstattbefund
+  verarbeitet? Die geklärte Abweichung und der noch ausstehende Rückruf beweisen nicht automatisch
+  die Rechtswidrigkeit jeder ursprünglichen Maßnahme.
+- Wird nach dem aktuellen fortbestehenden Sicherstellungs- oder Verwahrgrund gefragt und eine tatsächliche
+  Rückgabemöglichkeit verlangt, ohne eine behördliche Freigabe zu erfinden? Ein mögliches Strafverfahren
+  wird nicht allein aus einer Verlustmeldung angenommen.
+- Werden unverbindliche Kostenankündigung, fehlender Kostenbescheid, Mietangebot von 24 Euro täglich
+  plus 15 Euro Bereitstellung und tatsächlich noch nicht bezahlte Ausgaben unterschieden? Kosten
+  gehören beim aktuellen § 41 ASOG in Absatz 4, nicht in die Erlösregel des Absatzes 3.
+- Berücksichtigt der Entwurf Bertas zeitliche Verfügbarkeit, beide Schlüssel und gelben Gurt, bestätigten
+  Abholtermin und erforderliche Nachweise datensparsam? Kein Kostenanerkenntnis oder Anspruchsverzicht
+  als vermeintlich bereits erklärt einsetzen.
+- Entsteht ein konkretes Herausgabeschreiben mit realistischer Dringlichkeit ab Montag, 5. Oktober,
+  ohne sämtliche Lieferungen als zwingend unmöglich darzustellen? Der Kostenvermerk bezeichnet Angebote
+  als solche; keine unautorisierte Rechtsbehelfseinlegung oder Zahlung.

@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf`](gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,7 +31,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-lobbyregister-public-affairs-agentur-wasserstoff` (Akte) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+| `testakte-lobbyregister-public-affairs-agentur-wasserstoff` (Akte) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

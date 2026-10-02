@@ -1,3 +1,21 @@
+# v445.27.0 - Berliner Gewerbeaufsicht, Polizeirecht und Versammlungen
+
+## 1. Drei eigenständige Berliner Arbeitswerkzeuge
+
+Restaurant, Späti und Radiologie erhalten eine gemeinsame Betriebswerkstatt mit Gewerbeanzeige, Gaststättenrecht, Ladenöffnung, Hygiene, Arbeitsschutz und Strahlenschutz. Zwei weitere Plugins führen Betroffene durch das Berliner ASOG und Veranstalter durch das Berliner Versammlungsrecht. Jedes enthält zehn Fachskills und einen übergreifenden Hauptskill. Je eine eigenständige Werkstatt, ein Mini-Prompt und ein Hauptproblem-Prompt stehen als MD/TXT bereit; die großen Werkstätten zusätzlich als Word und PDF. Die kompakten Prompts bleiben jeweils unter 7.500 Zeichen und UTF-8-Bytes.
+
+## 2. Konkrete Quellen und differenzierte Verfahrenswege
+
+Die Fachtexte unterscheiden das geltende Gaststättenrecht von der erst später wirksamen Reform, berücksichtigen die Berliner Zuständigkeitsverordnung von 2026 und trennen Gefahrenabwehr, Versammlungsrecht, Strafverfolgung und Datenschutz. Gerichtliche Entscheidungen enthalten Datum, Aktenzeichen, tragende Aussagen und Übertragungsgrenzen. Quellenlektüre, redaktionelle Szenarien, tatsächliche qualitative Anwendungsproben und technische Prüfungen sind getrennt dokumentiert.
+
+## 3. Neun Akten mit bearbeitbaren Originalen
+
+Kichererbse, Abendfuchs, Radiologie Spreebogen, Parkpicknick, Lastenrad, Datenverwechslung, Fahrradkorso, spontane Mahnwache und Kiezcamp enthalten jeweils 18 Unterlagen. Insgesamt sind dies 72 Word-Dokumente, 63 E-Mails, 18 Textdateien und neun Excel-Arbeitsmappen mit Formeln. Die Akten enthalten abweichende Zwischenstände und offene Fragen aus überschaubaren Alltagssituationen. Gesamt-PDFs, Originalformat-ZIPs und Einzel-PDF-ZIPs werden mit den Übersichten und Downloads abgestimmt.
+
+## 4. Parallel fertiggestelltes Vergabewerkzeug
+
+Das bereits auf main zusammengeführte Plugin Sektorenvergabe-Workflow wird mit dieser Version erstmals als Releasepaket ausgeliefert. Fünf Dokumenten- und fünf Verfahrensskills sowie ein Hauptskill begleiten die Sektorenvergabe; eigenständige Werkstatt und Mini-Prompt, sechs geprüfte EuGH-Anker und elf redaktionelle Fachszenarien ergänzen es. Bestehende Berliner Kita-, Schul- und Hochschulplugins bleiben verfügbar.
+
 # v445.26.0 - Berliner Kita-, Schul- und Hochschulrecht
 
 ## 1. Zwei eigenständige Berliner Plugins

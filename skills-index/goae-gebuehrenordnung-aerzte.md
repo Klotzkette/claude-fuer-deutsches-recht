@@ -1,6 +1,6 @@
 # goae-gebuehrenordnung-aerzte
 
-**66 Skills** · Stand `v445.26.0`
+**66 Skills** · Stand `v445.27.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../goae-gebuehrenordnung-aerzte/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

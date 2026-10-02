@@ -1,9 +1,19 @@
 {
   "name": "sektorenvergabe-workflow",
-  "version": "445.26.0",
+  "version": "445.27.0",
   "description": "Sektorenvergabe aus Auftraggebersicht: fuenf Skills fuer Vergabeunterlagen, fuenf fuer Verfahrensfuehrung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis ueber Bekanntmachung, Ruegen und Wertung bis Zuschlag und Nachpruefung.",
   "license": "Apache-2.0 OR MIT",
-  "author": {"name": "Klotzkette", "email": "39582916+Klotzkette@users.noreply.github.com"},
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/sektorenvergabe-workflow",
-  "keywords": ["sektvo", "vergabe", "reinigung", "leistungsverzeichnis", "nachpruefung", "workflow"]
+  "keywords": [
+    "sektvo",
+    "vergabe",
+    "reinigung",
+    "leistungsverzeichnis",
+    "nachpruefung",
+    "workflow"
+  ]
 }

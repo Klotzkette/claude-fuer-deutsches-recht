@@ -1,6 +1,24 @@
 {
   "schema_version": 1,
   "plugins": {
+    "berliner-asog-polizeirecht": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "berliner-gewerbeaufsicht-betrieb": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "berliner-versammlungsrecht": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "sektorenvergabe-workflow": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],

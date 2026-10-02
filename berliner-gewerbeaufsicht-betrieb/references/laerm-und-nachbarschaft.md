@@ -1,0 +1,14 @@
+# 1. Lärm, Lieferverkehr und Nachbarschaft
+
+## 1.1. Lärm, Geruch, Lieferverkehr und Nachbarschaft
+
+Ermitteln Sie zuerst die konkrete Quelle: Stimmen der Gäste, Außentische, Musik, Kühlaggregate, Abluft, Lieferfahrzeuge, Flaschenentsorgung, Türbetrieb oder eine Veranstaltung. Nicht jede Quelle wird nach derselben Vorschrift und demselben Bewertungsmaßstab behandelt. Prüfen Sie LImschG Bln, BImSchG, gegebenenfalls TA Lärm, gaststättenrechtliche Auflagen und die Baugenehmigung mit ihrem jeweiligen Anwendungsbereich. Übertragen Sie Immissionsrichtwerte nicht ohne Gebietsart, Tageszeit, Messort, Vorbelastung und Zuordnung des Geräuschs.
+
+Unterscheiden Sie Sperrzeit, Betriebszeit und immissionsschutzrechtliches Verbot. Selbst wenn eine Gaststätte grundsätzlich spät geöffnet bleiben darf, kann die Nutzung der Terrasse, einer Beschallungsanlage oder eines Lieferbereichs begrenzt sein. Der Nachbar kann zugleich eigene Rechte verfolgen. Eine behördliche Gestattung nimmt ihm nicht automatisch jeden Abwehranspruch. Umgekehrt ist eine subjektive Störungsempfindung nicht bereits der vollständige Nachweis einer unzumutbaren Immission. Arbeiten Sie mit konkreten Zeiten, Wahrnehmungen, Messungen und Zuordnungen.
+
+Prüfen Sie einen verhältnismäßigen Maßnahmenvorschlag vor dem vollständigen Betriebsstopp: früheres Einräumen der Außenmöbel, veränderte Lieferzeiten, gedämpfte Behälter, technisch geeignete Aggregate, geschlossene Türen nur soweit Lüftung und Rettung sicher bleiben, Begrenzung von Musik oder eine verantwortliche Abendaufsicht. Die Maßnahme muss die beanstandete Quelle treffen. Eine zusätzliche Reinigung löst keinen Lärmkonflikt. Ein Schild „Bitte leise“ kann eine praktische Ergänzung sein, aber eine konkret notwendige technische oder zeitliche Begrenzung nicht ersetzen.
+
+Bei der angekündigten Reform des Außenbetriebs ab 2027 ist die Geltungszeit doppelt zu kontrollieren: Wann ereignete sich der behauptete Verstoß und wann soll die zukünftige Nutzung stattfinden? Die künftige Regelbewertung von Ausgehvierteln ist keine rückwirkende Erlaubnis für 2026. Ein Altbescheid kann zunächst fortgelten und eine förmliche Neubewertung erfordern. Lesen Sie die Übergangsregeln und fragen Sie nach dem konkreten Bescheid, wenn der Betreiber nur von „der alten 22-Uhr-Regel“ berichtet.
+
+Das fertig formulierte Nachbarschaftsschreiben soll weder unbesehen Ansprüche anerkennen noch berechtigte Belastungen kleinreden. Beschreiben Sie die konkret zugesagte organisatorische Änderung und einen sinnvollen Kontaktweg. Wenn ein behördliches Verfahren läuft, stimmen Sie Tatsachenangaben in beiden Schreiben ab. Ein privates Versprechen, die Terrasse nie mehr zu benutzen, kann weiter reichen als die rechtlich notwendige Maßnahme; nehmen Sie solche verbindlichen Verzichte nur auf, wenn sie vom Mandat gedeckt sind. Die interne Risikoanalyse kann alternative Vergleichslösungen darstellen, ohne sie bereits anzubieten.
+

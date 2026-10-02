@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.26.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.27.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22677 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22710 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -41,8 +41,11 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [beamtenrecht](./beamtenrecht.md) (179 Skills)
 - [bereicherungs-und-anfechtungsrecht-pruefer](./bereicherungs-und-anfechtungsrecht-pruefer.md) (139 Skills)
 - [berichtspflichten-erlediger](./berichtspflichten-erlediger.md) (58 Skills)
+- [berliner-asog-polizeirecht](./berliner-asog-polizeirecht.md) (11 Skills)
+- [berliner-gewerbeaufsicht-betrieb](./berliner-gewerbeaufsicht-betrieb.md) (11 Skills)
 - [berliner-hochschulrecht-professoren](./berliner-hochschulrecht-professoren.md) (11 Skills)
 - [berliner-schulrecht-eltern-schueler](./berliner-schulrecht-eltern-schueler.md) (11 Skills)
+- [berliner-versammlungsrecht](./berliner-versammlungsrecht.md) (11 Skills)
 - [berufsgerichtliche-verfahren-freie-berufe](./berufsgerichtliche-verfahren-freie-berufe.md) (100 Skills)
 - [berufsrecht-anwaelte](./berufsrecht-anwaelte.md) (209 Skills)
 - [berufsrecht-ki-vertragspruefung](./berufsrecht-ki-vertragspruefung.md) (94 Skills)

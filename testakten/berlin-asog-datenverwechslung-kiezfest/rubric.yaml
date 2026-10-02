@@ -1,0 +1,122 @@
+name: 'Kiezfest: falsche Personenverknüpfung und Datenkorrektur'
+plugin: berliner-asog-polizeirecht
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-asog-datenverwechslung-kiezfest
+  fachprofil: quality/evals/berliner-asog-polizeirecht.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Auskunft_und_Korrekturantrag.docx
+  zweck: Gezielter Auskunfts- und Korrekturentwurf mit vorläufigem Schutzbegehren.
+- datei: Datenabgleich.xlsx
+  zweck: Belegbezogene Gegenüberstellung eigener Angaben, fremder Verknüpfung und noch ungeklärter
+    Verarbeitungen.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-asog-datenverwechslung-kiezfest_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 03_Auskunft_Polizei.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 07_Nachforderung_Identitaet.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 17_Datenabgleich_Notizen.txt
+- id: fach-identitaet
+  check_type: human_review
+  description: Werden Nuris Geburtsdatum 12.05.1991 und KF-26-118 einerseits sowie 21.02.1988 und
+    LM-24-807 andererseits konkret gegenübergestellt? Der Helfernachweis aus 2026 widerlegt für sich
+    allein keinen Vorgang aus 2024.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-datenregime
+  check_type: human_review
+  description: Wird der Verarbeitungszweck ermittelt, bevor DSGVO oder Teil 3 des Berliner Datenschutzgesetzes
+    angewandt werden? Werden Auskunft, Berichtigung, Löschung der falschen Verbindung und Einschränkung
+    anhand der einschlägigen ASOG-Regeln gezielt unterschieden?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-schutzstatus
+  check_type: human_review
+  description: Wird der Vermerk über die Beanstandung nicht als bereits technisch eingerichtete Verarbeitungseinschränkung
+    ausgegeben? Werden tatsächlicher Status, Herkunft der Verbindung, Speicherzweck und Empfänger
+    konkret nachgefragt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-datensparsamkeit
+  check_type: human_review
+  description: Beschränkt sich der Identitätsnachweis auf geeignete eigene Daten und den angebotenen
+    sicheren Nachweisweg? Keine private Ermittlung oder pauschale Offenlegung sämtlicher fremder
+    Vorgangsunterlagen und keine unnötige ungeschwärzte Ausweiskopie per gewöhnlicher Mail.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-frist
+  check_type: human_review
+  description: Werden tatsächlicher Zugang und fehlende abschließende Entscheidung gewürdigt? Bleiben
+    Festtermin 9. Oktober ein praktisches Interesse und der Prüftermin 2028 ein interner Termin,
+    ohne daraus gesetzliche Entscheidungs- oder Rechtsbehelfsfristen zu erfinden?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Enthält der vollständige Antrag präzise beanstandete Angaben und abgestufte Begehren,
+    ohne sämtliche echten Festunterlagen vernichten zu lassen? Der Excel-Abgleich trennt gesicherte
+    eigene Angaben, behördliche Angaben und Ungeklärtes; kein behaupteter Versand.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Werden Nuris Geburtsdatum 12.05.1991 und KF-26-118 einerseits sowie 21.02.1988 und LM-24-807 andererseits
+  konkret gegenübergestellt? Der Helfernachweis aus 2026 widerlegt für sich allein keinen Vorgang
+  aus 2024.
+- Wird der Verarbeitungszweck ermittelt, bevor DSGVO oder Teil 3 des Berliner Datenschutzgesetzes
+  angewandt werden? Werden Auskunft, Berichtigung, Löschung der falschen Verbindung und Einschränkung
+  anhand der einschlägigen ASOG-Regeln gezielt unterschieden?
+- Wird der Vermerk über die Beanstandung nicht als bereits technisch eingerichtete Verarbeitungseinschränkung
+  ausgegeben? Werden tatsächlicher Status, Herkunft der Verbindung, Speicherzweck und Empfänger konkret
+  nachgefragt?
+- Beschränkt sich der Identitätsnachweis auf geeignete eigene Daten und den angebotenen sicheren
+  Nachweisweg? Keine private Ermittlung oder pauschale Offenlegung sämtlicher fremder Vorgangsunterlagen
+  und keine unnötige ungeschwärzte Ausweiskopie per gewöhnlicher Mail.
+- Werden tatsächlicher Zugang und fehlende abschließende Entscheidung gewürdigt? Bleiben Festtermin
+  9. Oktober ein praktisches Interesse und der Prüftermin 2028 ein interner Termin, ohne daraus gesetzliche
+  Entscheidungs- oder Rechtsbehelfsfristen zu erfinden?
+- Enthält der vollständige Antrag präzise beanstandete Angaben und abgestufte Begehren, ohne sämtliche
+  echten Festunterlagen vernichten zu lassen? Der Excel-Abgleich trennt gesicherte eigene Angaben,
+  behördliche Angaben und Ungeklärtes; kein behaupteter Versand.

@@ -1,0 +1,26 @@
+{
+  "name": "berliner-asog-polizeirecht",
+  "version": "445.27.0",
+  "description": "Berliner Polizei- und Ordnungsrecht aus Betroffenensicht: Gefahrenabwehr, Identitätskontrolle, Platzverweis, Gewahrsam, Durchsuchung, Sicherstellung, Polizeidaten, Vollstreckung und Rechtsschutz. Zehn Fachskills und ein Hauptskill.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Berliner ASOG und Polizeirecht",
+    "shortDescription": "Berliner ASOG und Polizeirecht",
+    "longDescription": "Berliner Polizei- und Ordnungsrecht aus Betroffenensicht: Gefahrenabwehr, Identitätskontrolle, Platzverweis, Gewahrsam, Durchsuchung, Sicherstellung, Polizeidaten, Vollstreckung und Rechtsschutz. Zehn Fachskills und ein Hauptskill.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie die Berliner Polizeimaßnahme und erstellen Sie den passenden Rechtsbehelf."
+    ]
+  },
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berliner-asog-polizeirecht"
+}

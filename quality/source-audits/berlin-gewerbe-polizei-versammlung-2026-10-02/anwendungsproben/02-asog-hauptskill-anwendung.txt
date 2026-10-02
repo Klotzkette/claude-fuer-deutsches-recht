@@ -1,0 +1,91 @@
+# 1. Qualitative Einzelanwendung: Lastenrad
+
+Anwendung am 02.10.2026. Dies ist eine tatsächlich ausgearbeitete Antwort eines Agenten auf den Hauptskill und die Originalakte, keine verallgemeinerte Modell-Evaluation. Simulierter Auftrag: „Bitte prüfen Sie die Akte, priorisieren Sie das heute Notwendige und erstellen Sie den ersten verwendbaren Entwurf; Rückfragen bitte gezielt.“ Eingaben und Hashes stehen in der begleitenden JSON-Datei. Es wurde nichts versandt und kein Rechtsbehelf eingelegt.
+
+Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+
+This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+# 2. Tatsächliche Antwort auf den simulierten Auftrag
+
+Sehr geehrter Herr Okafor,
+
+Ihr nächster Schritt ist das Herausgabeschreiben mit Bertas noch nicht an die Verwahrstelle geschickter Abholerklärung. Der heute bekannte Sachstand spricht deutlich für eine sofortige erneute Entscheidung über die Verwahrung: Die Polizei selbst hat inzwischen die Endziffer Drei bestätigt. Die Meldung des anderen Rades betrifft dagegen die Endziffer Acht. Ein noch ausstehender Rückruf erklärt ohne zusätzliche konkrete Zweifel nicht unbegrenzt die weitere Verwahrung.
+
+Der Anspruch auf Rückgabe nach Wegfall des Sicherstellungsgrundes ist von der Rechtmäßigkeit der ersten Maßnahme am 24. September zu trennen. Diese wird hier nicht als offensichtlich rechtswidrig bezeichnet. Vor Ort war die Nummer verschmutzt, und der Beleg lag noch nicht vor. Die jetzige Fortdauer muss gleichwohl anhand der neuen Erkenntnisse gerechtfertigt sein. § 41 Absatz 1 ASOG knüpft zunächst an die letzte Gewahrsamsinhaberin an und enthält inzwischen auch einen ausdrücklich geregelten Verweigerungsgrund bei bestimmten Tatsachen gegen deren Berechtigung. Bertas Leihe und Ihr Kauf sind deshalb gemeinsam vorzutragen. [Amtliche aktuelle ASOG-Fassung, §§ 38–41](https://gesetze.berlin.de/perma?a=ASOG_BE).
+
+## 2.1. Heute notwendige Schritte
+
+Heute sollte der fertige Entwurf geprüft und nach Ihrem konkreten Versandauftrag zusammen mit Bertas Erklärung an die zuständige Stelle übermittelt werden. Die in der Akte verwendeten example-Adressen werden nicht als erreichbare reale Versandadressen behandelt. Bitten Sie möglichst noch heute um Entscheidung und einen bestätigten Abholtermin. Reisen Sie erst nach Terminbestätigung an.
+
+Am Montag können Sie von 9 bis 12 Uhr kommen. Falls Berta persönlich benötigt wird, ist nur 11 bis 12 Uhr ein gemeinsames Zeitfenster, weil sie 11 bis 13 Uhr angeboten hat. Ihre erste Lieferung beginnt aber bereits um 8.30 Uhr. Selbst eine Rückgabe am Montag um 9 Uhr deckt diese erste Fahrt nicht ab. Dafür muss bis spätestens Sonntag, 4. Oktober, 18 Uhr, eine verfügbare Ersatzlösung entschieden werden. Das Mietangebot ist bisher nur eine unverbindliche Vormerkung; es gibt weder einen Mietvertrag noch bezahlte Mietkosten.
+
+| Variante der Tabelle | Nachrechnung | Aussagekraft |
+| --- | --- | --- |
+| Ein Miettag | 1 × 24 + 15 = 39 Euro | Ungebuchte Alternative. Übergabe vor der Montagfahrt und tatsächliche Verfügbarkeit sind zu bestätigen. |
+| Fünf Miettage | 5 × 24 + 15 = 135 Euro | So berechnet die Zeile „Eine Woche“. Sie bezeichnet fünf, nicht sieben Kalendertage. |
+| Zwei Taxifahrten | 2 × 38 = 76 Euro | Bloße Schätzung; keine belastbare Rechnung für sämtliche Lieferungen. |
+
+Die Unterlagen widersprechen sich zur Stornofolge: Der Cafébrief erwähnt eine erste Tagesmiete nach Sonntag 18 Uhr, während der Anbieter ausdrücklich nur eine unverbindliche Vormerkung ohne Bestellung bestätigt. Darauf sollte keine sichere Kostenpflicht oder kostenlose weitere Reservierung gestützt werden. Die tatsächlichen Bedingungen müssen vor einer Bestellung geklärt werden.
+
+## 2.2. Entwurf des Herausgabeschreibens
+
+Rechtsanwältin Jule Morgen  
+Kanzlei am Kanal, Berlin
+
+An die Polizei Berlin  
+Verwahrstelle Fahrräder / zuständige Sachbearbeitung  
+z. Hd. Frau Hannelore Voss
+
+Berlin, 2. Oktober 2026
+
+**SW-26-903 – Antrag auf Beendigung der Sicherstellung und Herausgabe des Lastenrades HR-2024-773**
+
+Sehr geehrte Frau Voss,
+
+ich vertrete Herrn Balduin Okafor, Mohnweg 27, 13353 Berlin. Ich beantrage, die Sicherstellung des blauen Lastenrades Hafenrad, Modell Kiste Zwei, Rahmennummer HR-2024-773, unverzüglich zu beenden und das Rad zusammen mit den beiden sichergestellten Schlüsseln und dem gelben Transportgurt an meinen Mandanten auszugeben. Die Erklärung der letzten Gewahrsamsinhaberin, Frau Berta Hummel, vom heutigen Tag ist beigefügt. Sie ist mit der unmittelbaren Ausgabe an Herrn Okafor einverstanden.
+
+Das Rad wurde am 24. September 2026 um 15.25 Uhr bei Frau Hummel nach § 38 ASOG sichergestellt. Sie hatte es für eine private Fahrt von Herrn Okafor ausgeliehen und benannte ihn bereits vor Ort. Die Bescheinigung bezeichnet die Maßnahme ausdrücklich nicht als strafprozessuale Beschlagnahme. Ein späterer Wechsel auf eine strafprozessuale Grundlage ist meinem Mandanten bisher nicht mitgeteilt worden.
+
+Der noch am 24. September übersandte Kaufvertrag nennt HR-2024-773. Die Verkäuferin bestätigt Zahlung und Übergabe vom 14. März 2026. Die Werkstattunterlagen führen dieselbe Rahmennummer bereits für November 2025. Die Werkstatt hat das aktuell verwahrte Rad nicht selbst untersucht; ihr Befund beruht auf dem früheren Werkstattbuch und einer Aufnahme. Davon unabhängig bestätigt Ihr Schreiben vom 30. September die erneute Ablesung der Nummer mit den Endziffern 773. Ihre Mail vom 1. Oktober bestätigt die letzte Ziffer als Drei. Die andere Verlustmeldung enthält nach Ihrer eigenen Mitteilung die Endziffern 778.
+
+Damit ist die ursprüngliche Nummernverwechslung nach dem mitgeteilten Sachstand aufgeklärt. Nach § 41 Absatz 1 ASOG ist die Sache herauszugeben, sobald die Sicherstellungsvoraussetzungen weggefallen sind. Der ausstehende Rückruf allein lässt nach den vorliegenden Informationen keinen konkreten fortdauernden Sicherstellungsgrund erkennen. Bitte teilen Sie unverzüglich mit, falls noch andere bestimmte Tatsachen gegen die Berechtigung meines Mandanten oder Frau Hummels sprechen oder durch die Rückgabe erneut ein Sicherstellungsgrund eintreten soll. Die fremde Verlustmeldung wird von uns inhaltlich nicht über Ihre eigenen Angaben hinaus bewertet.
+
+Frau Hummel war letzte tatsächliche Gewahrsamsinhaberin. Ihre Leihbestätigung und ihre jetzige Erklärung erlauben es, die Rückgabe praktisch mit der unstreitig gewollten Rückführung an meinen Mandanten zu verbinden. Herr Okafor kann am Montag, 5. Oktober, zwischen 9 und 12 Uhr erscheinen. Falls Sie Frau Hummels persönliche Anwesenheit für erforderlich halten, bitten wir um einen gemeinsamen Termin zwischen 11 und 12 Uhr. Bitte erläutern Sie dann, weshalb die schriftliche Erklärung nicht ausreicht und welche konkreten Nachweise beim Termin vorzuzeigen sind. Eine pauschale Übermittlung vollständiger Ausweiskopien wird mit diesem Schreiben nicht angeboten.
+
+Mein Mandant benötigt das Rad am Montag bereits um 8.30 Uhr für eine unentgeltliche Backwarenlieferung. Eine Abholung ab 9 Uhr würde diese Fahrt nicht mehr ermöglichen. Wir bitten deshalb um eine möglichst heutige Entscheidung und Mitteilung, ob eine frühere Ausgabe tatsächlich organisiert werden kann. Andernfalls muss eine kostenpflichtige Ersatzlösung vorbereitet werden. Eine Ersatzradanmietung ist bisher nicht erfolgt; ein Ausfall aller Lieferungen wird nicht behauptet.
+
+Ein Kostenbescheid ist bislang nicht erlassen. Bitte entscheiden Sie über die Herausgabe, ohne sie allein wegen der bisher unbezifferten Kostenankündigung zurückzustellen. Sollte eine vorherige Zahlung verlangt werden, bitten wir vor dem Termin um eine konkrete schriftliche Entscheidung unter Angabe von Betrag, Berechnung, Rechtsgrundlage, Kostenschuldner und Gründen für die Zahlung als Ausgabevoraussetzung. Ein Kostenanerkenntnis oder Verzicht auf Einwendungen und mögliche Ansprüche wird nicht erklärt.
+
+Sollten Sie dem Herausgabebegehren nicht entsprechen, bitten wir unverzüglich um eine begründete, mit Rechtsbehelfsbelehrung versehene Entscheidung. Bitte bestätigen Sie den Eingang und nennen Sie den frühestmöglichen verbindlichen Termin. Bei der Ausgabe bitten wir um einen Abgleich des vollständigen Inventars und des Zustands. Die graue Werkzeugtasche ist nach der Bescheinigung bei Frau Hummel verblieben und wird nicht als verwahrter Gegenstand zurückverlangt.
+
+Mit freundlichen Grüßen
+
+Jule Morgen  
+Rechtsanwältin
+
+Beigefügt werden die vorhandenen Unterlagen: Abholerklärung Frau Hummel vom 02.10.2026, Leihbestätigung vom 25.09.2026, Kaufvertrag vom 14.03.2026, Verkäuferbestätigung vom 25.09.2026, Werkstattbefund vom 29.09.2026 sowie Café-Lieferplan vom 01.10.2026. Die bereits bei Ihnen vorhandenen Unterlagen werden zur eindeutigen Zuordnung erneut beigefügt.
+
+## 2.3. Kosten und möglicher nächster Rechtsschutz
+
+Aus der bloßen Kostenankündigung folgt derzeit keine bezifferte Zahlungspflicht. Eine generelle Zusage „Sie müssen nichts bezahlen“ wäre aber falsch: § 41 Absatz 4 ASOG ordnet Kosten den nach §§ 13 oder 14 Verantwortlichen zu und ermöglicht grundsätzlich, die Ausgabe von Zahlung abhängig zu machen. Ob Sie oder Berta verantwortlich sind, welche Kosten rechtmäßig entstanden sind und ob eine Vorabzahlung hier verhältnismäßig wäre, ist gesondert zu begründen. Insbesondere darf eine nach Wegfall des Grundes unnötig verlängerte Verwahrung nicht ohne Prüfung weiter auf Sie umgelegt werden. [ASOG, § 41 Absatz 4](https://gesetze.berlin.de/perma?a=ASOG_BE).
+
+Mietkosten sind weder bereits entstandener Schaden noch automatisch erstattungsfähig. Belegen Sie bei einer notwendigen Ersatzlösung Bestellung, Nutzung und Zahlung. Wer den Vertrag schließt und zahlt, ist ebenfalls relevant; das Angebot richtet sich an das Café Ihrer Schwester. Verbindliche Kostenübernahme oder Anspruchsabtretung werden im Entwurf nicht erfunden. Die Kratzer an der Transportkiste sind als Vorschäden dokumentiert. Neu bemerkte Schäden sollten bei Abholung konkret festgehalten werden.
+
+Bei fortdauernder Verweigerung wäre Verwaltungsrechtsschutz gegen das Land Berlin vor dem Verwaltungsgericht Berlin zu prüfen. Ob der Eilantrag nach § 80 Absatz 5 gegebenenfalls mit Absatz 5 Satz 3 oder nach § 123 VwGO zu führen ist, hängt davon ab, ob die ursprüngliche Sicherstellung fortwirkt, eine neue verbindliche Ablehnung ergeht oder lediglich die tatsächliche Rückgabe ausbleibt. Die günstigen Rückgabeargumente begründen wegen verfügbarer Ersatzmöglichkeiten noch nicht automatisch gerichtliche Dringlichkeit. Ein gerichtlicher Schritt wird deshalb nicht als bereits beauftragt oder zwingend erfolgversprechend dargestellt. [§ 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html), [§ 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html).
+
+Der Entwurf ist ein Herausgabeantrag, kein fristwahrender Widerspruch gegen die anfängliche Sicherstellung. Für deren gesonderte Anfechtung ist der Zugang am 24.09.2026 zu notieren; die konkrete Bescheinigung enthält keine Rechtsbehelfsbelehrung. Als vorsichtiger Kontrolltermin wird der 26.10.2026 vorgemerkt, ohne damit die nach § 58 Absatz 2 VwGO möglicherweise maßgebliche Jahresfrist abschließend festzulegen. Ein neuer ablehnender oder bezifferter Kostenbescheid ist bei Zugang sofort mit Umschlag bzw. elektronischem Eingang vorzulegen. Die Fristfrage soll die heutige Herausgabeanfrage nicht verzögern. [§ 58 VwGO](https://www.gesetze-im-internet.de/vwgo/__58.html), [§ 70 VwGO](https://www.gesetze-im-internet.de/vwgo/__70.html).
+
+Bitte teilen Sie gezielt nur noch mit, ob Sie heute bei sofortiger Freigabe abholen könnten und ob die beigefügte Erklärung von Berta bereits in endgültig abgegebener Fassung vorliegt. Den Montagstermin und die fehlende bisherige Übermittlung ihrer Erklärung habe ich Ihrer Mail entnommen; dazu ist keine erneute Abfrage nötig. Die weitere anwaltliche und gegebenenfalls gerichtliche Kostenfrage wäre vor einem erweiterten Auftrag anhand der bestehenden Vergütungsregelung zu klären.
+
+# 3. Getrennter interner Prüf- und Beobachtungsvermerk
+
+Die amtliche aktuelle ASOG-Gesamtausgabe wurde im Browser tatsächlich gelesen. § 41 Absatz 4 ist die Kostenregelung; Absatz 3 betrifft den Erlös. Der heute geltende Absatz 1 enthält den neuen Verweigerungsgrund. Das im Fachverweis genannte ältere OVG-Urteil zur letzten Gewahrsamsinhaberin wurde deshalb nicht als unverändert geltende absolute Rückgabegarantie zitiert. Die Werkstattfakten wurden nicht in eine amtliche Besichtigung oder einen endgültigen Eigentumsnachweis umgedeutet.
+
+Die Fristenpassage ist eine vorläufige Sicherungsnotiz, keine abschließende Prüfung eines beauftragten Widerspruchs. Bundesrechtliche §§ 58, 70 sowie § 57 VwGO und § 222 ZPO wurden in den aktuellen öffentlich zugänglichen Texten geöffnet; vor einer gesonderten Einreichung ist der vollständige Verfahrensstand abzugleichen. Keine Frist zur Kostenanfechtung wurde aus dem unbezifferten Sachstandsschreiben konstruiert.
+
+Das Material enthält eine relevante Unschärfe zwischen Cafébrief und Mietangebot zur Bindung ab Sonntag 18 Uhr. Außerdem liegt die früheste bestätigbare reguläre Ausgabe nach der ersten Lieferfahrt. Der Hauptskill verlangt konkrete Dringlichkeit, nennt diese Zeitkollision aber naturgemäß nicht selbst. Die Anwendung muss sie aus Aktenbelegen errechnen. Die Nutzerziele sind ohne Gerichtsanrufung als vollständiger Entwurf bearbeitbar.
+
+Methodische Grenze: Das Beispiel des Hauptskills beschreibt bereits ein verwahrtes Lastenrad nach scheinbarer Aufklärung einer Verwechslung. Der vorliegende Erfolg kann daher keine Unabhängigkeit von diesem eng verwandten Anwendungsbeispiel oder Übertragbarkeit auf andere ASOG-Lagen belegen.
+
+Exporthinweis: Diese Ausgabe ist Markdown. Für einen späteren Dokumentexport sind Times New Roman, 11 pt und dezimale Gliederung vorgesehen.

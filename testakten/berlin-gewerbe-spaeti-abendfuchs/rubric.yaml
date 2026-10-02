@@ -1,0 +1,120 @@
+name: 'Abendfuchs: Sonntagsverkauf und Anhörung'
+plugin: berliner-gewerbeaufsicht-betrieb
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-gewerbe-spaeti-abendfuchs
+  fachprofil: quality/evals/berliner-gewerbeaufsicht-betrieb.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Antwort_Anhoerung.docx
+  zweck: Ausformulierter Anhörungsentwurf zum Verkauf vom 20. September.
+- datei: Oeffnungs_und_Schichtplan.xlsx
+  zweck: Künftige Betriebsplanung mit getrennten Ladenöffnungszeiten, individuellen Sollzeiten und
+    noch zu erfassenden Istzeiten.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 04_Sortiment_September.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 09_Anhoerung_Ladenoeffnung.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 18_Nachtrag_Fest_offen.eml
+- id: fach-sortiment
+  check_type: human_review
+  description: Werden das gesamte Wochensortiment und der tatsächliche Verkauf verpackten Kaffees
+    ausgewertet, ohne einen bestehenden Cafébetrieb aus der späteren Kaffeeidee oder dem nicht unterschriebenen
+    Mietnachtrag zu konstruieren?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-hotel
+  check_type: human_review
+  description: Wird die Hotelkooperation konkret auf die Voraussetzungen einer einschlägigen Sonntagsausnahme
+    geprüft, ohne Hotelnähe oder einzelne Hotelgäste automatisch als ausreichenden touristischen
+    Bedarf anzusehen?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-fest
+  check_type: human_review
+  description: Wird das noch unbestätigte Fest am 25. Oktober vom Verkauf am 20. September getrennt
+    und weder rückwirkende Rechtfertigung noch eine bereits erteilte Sonntagsfreigabe behauptet?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-verfahrensstand
+  check_type: human_review
+  description: Wird die Anhörung als Gelegenheit zur Äußerung und nicht als erlassene Schließungs-
+    oder Untersagungsverfügung behandelt? Bleiben Antwortfrist und Rechtsbehelfsfristen getrennt,
+    ohne aus einer Rückfrage Fristwahrung abzuleiten?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-arbeitszeit
+  check_type: human_review
+  description: Werden lange Ladenöffnungszeiten nicht als persönliche Arbeitszeiten Samiras oder
+    Willibalds übernommen? Verlangt die Erfassung tatsächliche Arbeitszeiten und Pausen, ohne eine
+    bestimmte Software gesetzlich vorzuschreiben?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Liegt eine vollständige Anhörungsantwort mit den konkret entgegenstehenden und entlastenden
+    Belegen vor? Zeigt die bearbeitbare Planung zulässige nächste Schritte und offene Genehmigungsfragen;
+    behauptet sie weder Versand noch einen garantierten künftigen Sonntagsbetrieb?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Werden das gesamte Wochensortiment und der tatsächliche Verkauf verpackten Kaffees ausgewertet,
+  ohne einen bestehenden Cafébetrieb aus der späteren Kaffeeidee oder dem nicht unterschriebenen
+  Mietnachtrag zu konstruieren?
+- Wird die Hotelkooperation konkret auf die Voraussetzungen einer einschlägigen Sonntagsausnahme
+  geprüft, ohne Hotelnähe oder einzelne Hotelgäste automatisch als ausreichenden touristischen Bedarf
+  anzusehen?
+- Wird das noch unbestätigte Fest am 25. Oktober vom Verkauf am 20. September getrennt und weder
+  rückwirkende Rechtfertigung noch eine bereits erteilte Sonntagsfreigabe behauptet?
+- Wird die Anhörung als Gelegenheit zur Äußerung und nicht als erlassene Schließungs- oder Untersagungsverfügung
+  behandelt? Bleiben Antwortfrist und Rechtsbehelfsfristen getrennt, ohne aus einer Rückfrage Fristwahrung
+  abzuleiten?
+- Werden lange Ladenöffnungszeiten nicht als persönliche Arbeitszeiten Samiras oder Willibalds übernommen?
+  Verlangt die Erfassung tatsächliche Arbeitszeiten und Pausen, ohne eine bestimmte Software gesetzlich
+  vorzuschreiben?
+- Liegt eine vollständige Anhörungsantwort mit den konkret entgegenstehenden und entlastenden Belegen
+  vor? Zeigt die bearbeitbare Planung zulässige nächste Schritte und offene Genehmigungsfragen; behauptet
+  sie weder Versand noch einen garantierten künftigen Sonntagsbetrieb?

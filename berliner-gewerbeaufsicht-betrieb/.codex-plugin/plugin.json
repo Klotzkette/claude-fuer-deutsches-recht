@@ -1,0 +1,26 @@
+{
+  "name": "berliner-gewerbeaufsicht-betrieb",
+  "version": "445.27.0",
+  "description": "Berliner Gewerbeaufsicht aus Betreiber- und Beratungssicht: Restaurant, Späti und radiologischer Betrieb. Zehn Fachskills und ein Hauptskill für Anzeigen, Erlaubnisse, Hygiene, Kontrolle, Arbeitsschutz, Strahlenschutz und konkrete Behördenantworten.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Berliner Gewerbeaufsicht und Betrieb",
+    "shortDescription": "Berliner Gewerbeaufsicht und Betrieb",
+    "longDescription": "Berliner Gewerbeaufsicht aus Betreiber- und Beratungssicht: Restaurant, Späti und radiologischer Betrieb. Zehn Fachskills und ein Hauptskill für Anzeigen, Erlaubnisse, Hygiene, Kontrolle, Arbeitsschutz, Strahlenschutz und konkrete Behördenantworten.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie meinen Berliner Betriebsfall und entwerfen Sie die Antwort an die Behörde."
+    ]
+  },
+  "license": "Apache-2.0 OR MIT",
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berliner-gewerbeaufsicht-betrieb"
+}

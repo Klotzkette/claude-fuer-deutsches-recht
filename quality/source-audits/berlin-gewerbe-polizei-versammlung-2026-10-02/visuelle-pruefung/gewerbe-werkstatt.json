@@ -1,0 +1,202 @@
+{
+  "reviewed_on": "2026-10-02",
+  "reviewer": "asog_subagent_cross_review",
+  "method": "Alle30vollständigenSeiten einzeln in lesbarerAuflösung via view_image geöffnet, keinKontaktbogen.",
+  "pages": 30,
+  "status": "pass",
+  "findings": [],
+  "observations": [
+    "Alle Überschriften hierarchisch und lesbar; keine verwaisten Überschriften ohne nachfolgenden Text.",
+    "Keine Abschneidung, Überlagerung, leeren Fehlerseiten oder sichtbaren Fontfehler.",
+    "Tragende Normstellen und URLs im Quellenkapitel lesbar, Text über Seitenwechsel vollständig fortgeführt.",
+    "Die Darstellung macht den Wechsel des Berliner Gaststättenrechts2027 und die aktuelle ZustV2026 klar erkennbar.",
+    "Diese Freigabe betrifft die visuelle Darstellung; keine pauschale materielle Rechtsprechungsvollprüfung."
+  ],
+  "artifacts": {
+    "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-werkstatt.md": "695a3d66b30dc740ca4a911f292a5927c4b26c81a3b9025b267e8419aa73b6b6",
+    "berliner-gewerbeaufsicht-betrieb/assets/berliner-gewerbeaufsicht-betrieb-werkstatt.docx": "dd6d0c64b1c896cf8a94e597f30c5e882d9d7d833cc89ef5820d9d036e62b796",
+    "berliner-gewerbeaufsicht-betrieb/assets/berliner-gewerbeaufsicht-betrieb-werkstatt.pdf": "41612dc61123062a7bfb80996f85a6cb22264a806b5510e7ba2a4babd70dca09"
+  },
+  "page_images": [
+    {
+      "page": 1,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-1.png",
+      "sha256": "83c1e5a50c08cb8c17ad1d8f0dda93e3182924c3ffecbc4b5a354f45a6deffbb",
+      "result": "pass"
+    },
+    {
+      "page": 2,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-2.png",
+      "sha256": "86e4ee4f455851c8c93275144f85eef99b78b3a898f9794b37d352a0836d0bb5",
+      "result": "pass"
+    },
+    {
+      "page": 3,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-3.png",
+      "sha256": "27420ffe5cc8d2a205c8489036e9b926292c9d6516bf9baabedd150dfa2ec0ac",
+      "result": "pass"
+    },
+    {
+      "page": 4,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-4.png",
+      "sha256": "f973a64e21059f31292f974cc908d2629c993f6ce345f9ce18d04aa481074be7",
+      "result": "pass"
+    },
+    {
+      "page": 5,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-5.png",
+      "sha256": "8de43d72dc40c49f407c236ece580de7f8f58a0c63d71d46bb4954c2da49f46d",
+      "result": "pass"
+    },
+    {
+      "page": 6,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-6.png",
+      "sha256": "ecd5aef2a02964da7de462fd9c14c639c797d565bddc63f9eef6240155f2996b",
+      "result": "pass"
+    },
+    {
+      "page": 7,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-7.png",
+      "sha256": "be62348fb5ed56796a0c1c26aa8296a0fe73ae624d7c548951be32691759acdb",
+      "result": "pass"
+    },
+    {
+      "page": 8,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-8.png",
+      "sha256": "227e458027a1f6dd9b9bd32ad8598042c7c266f7ec6ee358ea9ec4447eb54821",
+      "result": "pass"
+    },
+    {
+      "page": 9,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-9.png",
+      "sha256": "dc333ca3e97f3ff9bfa034c0c1ba3b5e94c020657232a5c15f1f8ef2263f4547",
+      "result": "pass"
+    },
+    {
+      "page": 10,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-10.png",
+      "sha256": "7f28b5793ee69047cb47ecfd7089149130f54f0f49dd0875c2b092299df17507",
+      "result": "pass"
+    },
+    {
+      "page": 11,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-11.png",
+      "sha256": "efafc5bd0314a25a0860f3c8adc7ad37f66c912e414d3fef5ba569597d406948",
+      "result": "pass"
+    },
+    {
+      "page": 12,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-12.png",
+      "sha256": "bb44878954901a047055c9fdd17a6240aa43abc3d0d7fdd3e81c85e6be58811c",
+      "result": "pass"
+    },
+    {
+      "page": 13,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-13.png",
+      "sha256": "ff2dcf410743f14f97e0101caa71be250f909bb7648cf2e2c18655b7162ea600",
+      "result": "pass"
+    },
+    {
+      "page": 14,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-14.png",
+      "sha256": "498d794bafbf48aa97e9a7ef89820c6de53f2d9069d92f72eb772ba2b985fd24",
+      "result": "pass"
+    },
+    {
+      "page": 15,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-15.png",
+      "sha256": "3c355e922113dd2d545bf79aadadbf72c05531a395f6cd5c0b66baaac5460078",
+      "result": "pass"
+    },
+    {
+      "page": 16,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-16.png",
+      "sha256": "95a1f9529e42d8e61a883713ffc0d3aea11c094a339719e0fd9b5e07557e8f51",
+      "result": "pass"
+    },
+    {
+      "page": 17,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-17.png",
+      "sha256": "91af0b16246d4d486a39f70119a7f54d267c8a24bccf0e50443cd7e42f6dbfc4",
+      "result": "pass"
+    },
+    {
+      "page": 18,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-18.png",
+      "sha256": "ae305d1f1122181579814107a68fdb1a32b4158c2d474f425150d9b17454367f",
+      "result": "pass"
+    },
+    {
+      "page": 19,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-19.png",
+      "sha256": "51499845a506a135107670c83e18e214a0e87b6612532504d4ae65253f0c7d14",
+      "result": "pass"
+    },
+    {
+      "page": 20,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-20.png",
+      "sha256": "5576c73ec19b00ecc4d7c9ec93469c0897f4d263a2625504bba81fa7a1dabee4",
+      "result": "pass"
+    },
+    {
+      "page": 21,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-21.png",
+      "sha256": "7b8b246dc1b87c01299b09ad331c5ddaec9340424faa90c7400a80bff26b8aa3",
+      "result": "pass"
+    },
+    {
+      "page": 22,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-22.png",
+      "sha256": "b9beb86292d729fb7491ff1eb133a71af628246ed8dde36c743babc25516fddc",
+      "result": "pass"
+    },
+    {
+      "page": 23,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-23.png",
+      "sha256": "1df7416d06c3bd3d21b4a6352c551eebab820a66587217dd3747298c5357db94",
+      "result": "pass"
+    },
+    {
+      "page": 24,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-24.png",
+      "sha256": "5f760ebcddd4aa55481ca29b626d04063dd1c009b6ac48b8d1de7ae1b3547f69",
+      "result": "pass"
+    },
+    {
+      "page": 25,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-25.png",
+      "sha256": "fc576f79437a16dd3e5f70fa6dc5400b8030c306bc55e5ace1e0f5fa8cacb741",
+      "result": "pass"
+    },
+    {
+      "page": 26,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-26.png",
+      "sha256": "3fa9f6961d0b83c33c9338b5ad190d66c5cfa635378a2cdb5a50e20ed7ff0f08",
+      "result": "pass"
+    },
+    {
+      "page": 27,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-27.png",
+      "sha256": "ddaf64794531e78976d8b4597060c1db34cd035ad51cae44c466b8a2cb3a5d97",
+      "result": "pass"
+    },
+    {
+      "page": 28,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-28.png",
+      "sha256": "6899183f89971d64336b2362a252969d385244937bedbd3b46b21c5fce9814eb",
+      "result": "pass"
+    },
+    {
+      "page": 29,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-29.png",
+      "sha256": "a867edcce490779e174b4af68fbc469b87ef05b92da795b09b45ae0d8c4f078e",
+      "result": "pass"
+    },
+    {
+      "page": 30,
+      "path": "lokale-pruefartefakte/qa/werkstaetten/berliner-gewerbeaufsicht-betrieb/render/page-30.png",
+      "sha256": "0cd65168968f56aadc00331ffef2434b33b68360b5ebea3de38756e5198f2dab",
+      "result": "pass"
+    }
+  ]
+}

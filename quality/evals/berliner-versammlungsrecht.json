@@ -1,0 +1,879 @@
+{
+  "schema_version": 1,
+  "plugin": "berliner-versammlungsrecht",
+  "reviewed_on": "2026-10-02",
+  "selection": {
+    "target_skill": "versammlung-mandat-zum-ergebnis",
+    "positive": [
+      "Prüfen Sie den neuen Routenbescheid für unseren Berliner Fahrradkorso und schreiben Sie die Antwort.",
+      "Klären Sie die Anzeige und Kamera-Auskunft zur Berliner Bibliotheksmahnwache.",
+      "Bearbeiten Sie die Anhörung zu unserem Berliner Kiezcamp mit Übernachtungsplan."
+    ],
+    "negative": [
+      "Erstellen Sie eine allgemeine Gaststättenerlaubnis.",
+      "Prüfen Sie eine Lehrerversetzung im Disziplinarrecht.",
+      "Erstellen Sie ein Berliner Studienplatz-Zulassungsgesuch."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.parlament-berlin.de/media/download/3646",
+      "checked_on": "2026-10-02",
+      "supports": "VersFG BE vom 23.02.2021, vollständiger Gesetzestext §§ 1–32; Schwerpunkt §§ 2–20, 26–31.",
+      "verification_status": "amtlicher_gesetzestext_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/jlr-BEFFNAbsch2",
+      "checked_on": "2026-10-02",
+      "supports": "Fundstellennachweis mit Stand 19.07.2026 führt VersFG BE ohne Änderungsgesetz auf.",
+      "verification_status": "amtlich_indexierter_fundstellennachweis_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/inneres/sicherheit/polizei/recht-der-oeffentlichen-sicherheit-und-ordnung/versammlungsrecht/",
+      "checked_on": "2026-10-02",
+      "supports": "VersFG seit 28.02.2021, amtliche Verknüpfung und ergänzende Gedenkortregelung.",
+      "verification_status": "amtliche_servicepassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/polizei/service/versammlungsbehoerde/",
+      "checked_on": "2026-10-02",
+      "supports": "Zuständige Versammlungsbehörde und Anzeigeinformationen als operativer Einstieg; kein Ersatz des Normtexts.",
+      "verification_status": "amtliche_servicepassagen_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/rbmskzl/politik/senat/verfassung/artikel.41548.php",
+      "checked_on": "2026-10-02",
+      "supports": "Artikel 26 VvB, Versammlungsfreiheit aller Männer und Frauen; Schranken bei Versammlungen unter freiem Himmel.",
+      "verification_status": "amtlicher_normtext_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/ausgabe-nr-37-vom-30122025-s-669-696.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "Gedenkortverordnung vom 16.12.2025, GVBl. S. 695, §§ 1/2; in Kraft seit 31.12.2025.",
+      "verification_status": "amtliche_verkuendung_gelesen"
+    },
+    {
+      "url": "https://www.berlin.de/sen/justiz/service/gesetze-und-verordnungen/2026/ausgabe-nr-24-vom-1872026-s-541-684.pdf",
+      "checked_on": "2026-10-02",
+      "supports": "ZustV vom 23.06.2026, GVBl. S. 547, §§ 1/6/7; Gesamtkatalog S. 595, Nrn. 1.9.22.1.2, 1.9.22.2.1 und 1.9.22.2.3; seit 19.07.2026.",
+      "verification_status": "amtliche_verkuendung_passagen_gelesen"
+    },
+    {
+      "url": "https://gesetze.berlin.de/bsbe/document/NJRE001638744",
+      "checked_on": "2026-10-02",
+      "supports": "Kooperation als materieller Faktor; konkrete Prognose und Vergleichbarkeit; räumlich, zeitlich und gegenständlich begrenztes Ersatzversammlungsverbot.",
+      "verification_status": "amtlicher_kopf_und_indexierte_tragende_passagen_gelesen_direktportal_eingeschraenkt"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rs20251001_1bvr242820.html",
+      "checked_on": "2026-10-02",
+      "supports": "Eigenständige nicht völlig untergeordnete Gegenkommunikation kann geschützt sein; Behinderung ist nicht automatisch Unfriedlichkeit; Schutzbereich und Strafbarkeit auseinanderhalten.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/271124U6C4.23.0",
+      "checked_on": "2026-10-02",
+      "supports": "Mitveranstalter, Unterkunft für Teilnehmende anderer Versammlungen, Gesamtgepräge und konkretes Feststellungsinteresse.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/270324U6C1.22.0",
+      "checked_on": "2026-10-02",
+      "supports": "Versammlungsbegriff nicht nach missbilligtem Zweck verkürzen; fortdauernde Maßnahmen brauchen fortdauernde Voraussetzungen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/24522",
+      "checked_on": "2026-10-02",
+      "supports": "Öffentlicher Wald als Versammlungsort; konkrete Infrastruktur und Gefahrenbegründung; Begrenzung im Eilverfahren.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/240522U6C9.20.0",
+      "checked_on": "2026-10-02",
+      "supports": "Dauer nicht allein ausschlaggebend; Infrastruktur durch inhaltliche Verbindung oder logistische Erforderlichkeit und räumliche Zurechnung geschützt.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bverwg.de/251017U6C46.16.0",
+      "checked_on": "2026-10-02",
+      "supports": "Objektiv einschüchternde staatliche Maßnahmen können Teilnahmeentscheidung bereits im Vorfeld beeinträchtigen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html",
+      "checked_on": "2026-10-02",
+      "supports": "Unmittelbare Grundrechtsbindung öffentlich beherrschter Unternehmen und allgemein eröffnete Kommunikationsräume.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    },
+    {
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/02/rs20090217_1bvr249208.html",
+      "checked_on": "2026-10-02",
+      "supports": "Identifizierbare Aufzeichnungen können abschrecken; flüchtige Übersichtsübertragung unterscheidet sich in Gewicht und Voraussetzungen.",
+      "verification_status": "amtliche_entscheidungspassagen_gelesen"
+    }
+  ],
+  "cases": [
+    {
+      "id": "korso-neue-baufreigabe",
+      "target_skill": "versammlung-mandat-zum-ergebnis",
+      "request": "Erstellen Sie für Selma Aydin das sachliche Änderungsschreiben zur Route. Die Baustelle wird früher frei. Gerichtliches Vorgehen bitte zunächst nur vorbereiten, nicht einreichen.",
+      "input_files": [
+        "testakten/berlin-versammlung-fahrradkorso/01_Auftrag_Selma.docx",
+        "testakten/berlin-versammlung-fahrradkorso/09_Bescheid_Route.docx",
+        "testakten/berlin-versammlung-fahrradkorso/10_Zugang_Bescheid.eml",
+        "testakten/berlin-versammlung-fahrradkorso/11_Routen_und_Ablauf.xlsx",
+        "testakten/berlin-versammlung-fahrradkorso/14_Lieferbetrieb.eml",
+        "testakten/berlin-versammlung-fahrradkorso/16_Bauleitung_Freigabe.docx",
+        "testakten/berlin-versammlung-fahrradkorso/17_Freigabe_Bauleitung.eml",
+        "testakten/berlin-versammlung-fahrradkorso/18_Nachtrag_Mandantin.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest verfügbaren Bescheid und neue Bauinformation, trennt Fahrbahnfreigabe am 07.10.2026 um 18 Uhr von verbleibender Gehwegbaustelle bis 12.10. und prüft die konkrete Gefahrenprognose nach § 14 Absatz 1.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt Lieferende 14:15 als voraussichtlich und den Startvorschlag 14:30 als noch nicht vereinbart; fragt gezielt nach der fehlenden Bescheidsanlage R für einen bestimmten Änderungsumfang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert ein ausformuliertes Änderungsschreiben samt begrenztem Frist-/Eilvermerk; keine behauptete Einreichung, automatische Suspendierung oder Rundum-Neuaufnahme.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erkennt 90 Minuten Ausgangsdauer und zwei noch nicht verbindlich bestätigte Ordner; Rechenwerte nicht als rechtliche oder personelle Zusicherung ausgeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fortsetzung-route-bestaetigt",
+      "target_skill": "versammlung-mandat-zum-ergebnis",
+      "request": "Fortsetzung zum bisherigen Routenentwurf: Der Lieferbetrieb bestätigt 14:15 Uhr, die beiden fehlenden Ordner sagen verbindlich zu. Start bleibt 14:30 Uhr. Arbeiten Sie das in den vorhandenen Brief ein; sonst nichts neu aufnehmen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Führt den vorhandenen Vorgang fort und fragt bestätigte Zeiten, Identität, Ziele oder Beauftragung nicht erneut ab.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ändert genau die nun belegte Lieferzeit und acht bestätigten Ordner, erhält verbleibende Restbaustelle und sonstige Unsicherheiten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gibt den vollständigen aktualisierten Brief aus; behauptet keinen Versand und keine behördliche Zustimmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "einladung-48-stunden",
+      "target_skill": "versammlung-anzeige-und-kooperation",
+      "request": "Prüfen Sie nur, ob die Anzeige des Fahrradkorsos rechtzeitig war. Maßgeblich sind die E-Mail und der Einladungs-Chat; den Terminkalender bitte nicht zum Ausgangspunkt einer pauschalen 48-Stunden-Rechnung machen.",
+      "input_files": [
+        "testakten/berlin-versammlung-fahrradkorso/02_Anzeige_Entwurf.docx",
+        "testakten/berlin-versammlung-fahrradkorso/03_Anzeige_gesendet.eml",
+        "testakten/berlin-versammlung-fahrradkorso/04_Eingang_Behoerde.eml",
+        "testakten/berlin-versammlung-fahrradkorso/05_Chat_Einladung.txt"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet zwischen Anzeige am 18.09. um 15:04 und erster Einladung am 21.09. um 18:02 74 Stunden 58 Minuten, keine bloße Frist bis zum Veranstaltungstag.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Wendet § 12 Absatz 1 an und unterscheidet Eingangsbeleg von einer allgemeinen Genehmigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen kurzen belegten Prüfvermerk mit klarer Antwort; erfindet keine frühere Einladung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mahnwache-eil-statt-label",
+      "target_skill": "versammlung-anzeige-und-kooperation",
+      "request": "Ordnen Sie die zeitlichen Abläufe der Bibliotheksmahnwache ein und erstellen Sie die sachliche Antwort für Malou. Der Ordner heißt spontane Mahnwache; bitte prüfen Sie trotzdem die tatsächliche Vorbereitung.",
+      "input_files": [
+        "testakten/berlin-versammlung-spontane-mahnwache/02_Schliessungsinformation.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/03_Anlass_und_Einladung.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/04_Mail_an_Polizei.eml",
+        "testakten/berlin-versammlung-spontane-mahnwache/06_Chat_vor_dem_Anlass.txt",
+        "testakten/berlin-versammlung-spontane-mahnwache/07_Telefonnotiz_Anzeige.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/11_Chronologie_und_Beobachtungen.xlsx"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt überraschenden Anlass um 11:40, vorbereitete Einladung um 12:15, Anzeige um 12:19 und Telefonat ab 12:27 als Eilversammlungsprüfung nach § 12 Absatz 7, nicht allein nach Aktennamen als Spontanversammlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Benanntes Vier-Minuten-Defizit zur Anzeige spätestens bei Einladung nicht verstecken; keine automatische Verfassungsunwürdigkeit oder Strafbarkeit aller Teilnehmenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt den früheren Café-Chat als anderen Vorgang, berechnet Anlass bis Einladung 35 Minuten und Anlass bis Beginn 320 Minuten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert einen wahrheitsgemäßen Ablauftext, ohne rechtzeitige Anzeige rückzudatieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mahnwache-kamera-und-kontrolle",
+      "target_skill": "versammlung-polizei-beobachtung-und-daten",
+      "request": "Formulieren Sie die beauftragte Auskunft für Malou und Farid zur Mahnwache. Es geht um das Kamerafahrzeug und die sechsminütige Kontrolle, zunächst um Auskunft und Beweissicherung.",
+      "input_files": [
+        "testakten/berlin-versammlung-spontane-mahnwache/01_Auftrag_Mahnwache.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/09_Ablaufnotiz_Malou.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/10_Erinnerung_Farid.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/13_Notiz_Kamera.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/15_Zwischenantwort_Polizei.eml",
+        "testakten/berlin-versammlung-spontane-mahnwache/16_Zeugin_Erinnerung.docx",
+        "testakten/berlin-versammlung-spontane-mahnwache/18_Letzter_Nachtrag.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Kamerapräsenz, Blickrichtung, Livebild, Speicherung und spätere Verwendung; keine beleglose Behauptung, alle seien gefilmt worden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Farids Maßnahme anhand konkreter Rechtsgrundlage, § 17 und gegebenenfalls § 10/ASOG oder StPO; LED-Stab ist nicht schon allein nach Material ein verbotener Gegenstand.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet eigene Datenrechte der Betroffenen von fremden Daten; zweckgebundene zeitweilige Beweissicherung mit späterer Löschungsfrage widerspruchsfrei formulieren.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert Auskunftsschreiben mit Zeitraum, Ort und konkreten Fragen; keine Klageerhebung oder behauptete Auflösung erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "camp-korrigiertes-eigenkonzept",
+      "target_skill": "versammlung-protestcamp-und-infrastruktur",
+      "request": "Entwerfen Sie die Antwort auf die Anhörung zum Kiezcamp. Die auswärtigen Gäste kommen nicht zum Übernachten. Legen Sie das ursprüngliche Angebot und seine Änderung ehrlich offen.",
+      "input_files": [
+        "testakten/berlin-versammlung-kiezcamp/01_Auftrag_Camp.docx",
+        "testakten/berlin-versammlung-kiezcamp/02_Ursprungskonzept.docx",
+        "testakten/berlin-versammlung-kiezcamp/06_Programmstand.docx",
+        "testakten/berlin-versammlung-kiezcamp/08_Gaestegruppe.eml",
+        "testakten/berlin-versammlung-kiezcamp/10_Anhoerung_Infrastruktur.eml",
+        "testakten/berlin-versammlung-kiezcamp/11_Flaeche_und_Nachtplan.xlsx",
+        "testakten/berlin-versammlung-kiezcamp/13_Anbieterangebot.docx",
+        "testakten/berlin-versammlung-kiezcamp/15_An_Gaestegruppe.eml",
+        "testakten/berlin-versammlung-kiezcamp/16_Beschluss_Orga.docx",
+        "testakten/berlin-versammlung-kiezcamp/17_Konzeptkorrektur.eml",
+        "testakten/berlin-versammlung-kiezcamp/18_Rueckmeldung_Gaeste.eml"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Anhörung mit Termin 06.10.2026, 12 Uhr von einem verbindlichen Bescheid; kein automatischer Widerspruch gegen eine vorgeschlagene Zweizeltlösung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Legt ursprüngliche externe Beherbergungsabsicht und nachvollziehbare Korrektur offen; 6 C 4.23 nicht als pauschales Verbot jeder Übernachtung und 6 C 9.20 nicht als Freibrief anwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt vier verschiedene Nachtpersonen in wechselnden Rollen, nicht acht; schützt nur konkret begründete eigene Infrastruktur.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Nennt 41,08 Quadratmeter reine Standflächen im alten Plan, unterscheidet Wegeflächen und noch offene größere Sanitärkabine; Angebot 680 Euro ist keine Bestellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C05",
+          "text": "Liefert vollständiges realistisches Konzeptschreiben mit begrenzter Maß-/Abholrückfrage, ohne Tatsachen oder Eingangsbestätigung zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "strassenkunst-gemischtes-programm",
+      "target_skill": "versammlung-begriff-und-grundrechte",
+      "request": "Unser Kiezchor plant eine zweistündige Kundgebung für zugängliche Musikräume: 35 Minuten Reden, dazwischen thematische Lieder, ein kleiner Spendentisch. Die Behörde nennt es kommerzielles Straßenfest. Formulieren Sie die Einordnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Gesamtgepräge, öffentlichen Meinungsbezug, Teilnehmerzahl und Inhalt nach § 2, statt starr Redeminuten gegen Musikminuten aufzurechnen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Spendentisch und tatsächliche Kommunikation, keine automatische Einordnung jedes Kulturformats als Versammlung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert begründete Antwort und fragt nur nach entscheidenden noch unbelegten Programmpunkten oder kommerziellen Inhalten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "privater-oeffentlicher-platz",
+      "target_skill": "versammlung-ort-route-und-flaechen",
+      "request": "Für eine Kundgebung ist ein frei zugänglicher privat gehaltener Einkaufsplatz vorgesehen. Der Eigentümer lehnt politisches Reden pauschal ab. Entwerfen Sie die Anfrage an die Versammlungsbehörde; Eigentümerstruktur ist noch ungeklärt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet tatsächliche allgemeine Verkehrsöffnung, staatliche Beherrschung und rein private Eigentümerinteressen nach § 20 Absätze 1/2.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Überträgt Fraport nicht automatisch auf jedes rein private Grundstück; fragt konkret nach Eigentümerstruktur und tatsächlich eröffnetem Bereich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt Information/Anhörung des Eigentümers nach § 20 Absatz 3 und liefert einen begrenzten Antrag; keine fingierte Zustimmung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "laerm-kein-einheitspegel",
+      "target_skill": "versammlung-beschraenkungen-laerm-verkehr",
+      "request": "Die Behörde will jede Verstärkung verbieten, weil neben dem Platz Wohnungen liegen. Geplant sind 60 Personen werktags 17–18 Uhr mit drei Reden. Entwerfen Sie die konkrete mildere Alternative.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft konkrete Gefahr und Kommunikationsbezug, tatsächliche Lage und Tageszeit, statt einen unbelegten universellen Dezibelwert oder generelles Lautsprecherrecht zu erfinden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert überprüfbare räumliche/zeitliche oder technische Alternative, ohne frei erfundene Messdaten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Gleicht Alternativen nach Gefahrenminderung und Wirkung der Kundgabe ab; liefert einen vollständigen Antrag und verlangt bei Bedarf die tragende Bescheidbegründung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gegenprotest-strafe-unterschied",
+      "target_skill": "versammlung-gegenversammlung-und-kollision",
+      "request": "Unsere Gruppe will eine andere Kundgebung hörbar kritisieren. Ein Kollege meint, nach dem BVerfG-Beschluss von 2025 sei jede Blockade erlaubt, solange die Polizei uns nicht auflöst. Schreiben Sie einen belastbaren kurzen Beratungsvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erklärt eigenständige nicht völlig untergeordnete Gegenkommunikation und unterscheidet Schutzbereich, Friedlichkeit und rechtliche Zulässigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Korrigiert behauptete allgemeine Auflösungsvoraussetzung anhand 1 BvR 2428/20 Rn. 104–105.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt § 26 Absatz 1 Gewalt/Drohung von § 27 Absatz 1 Nummer 3 Unterlassungsanordnung; § 21 BundesVersG nicht als Berliner Strafnorm übernehmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert friedliche rechtliche Organisationsoptionen in Hör-/Sichtweite ohne Taktiken zur Blockade oder Kontrollumgehung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ordner-alter-und-exclusion",
+      "target_skill": "versammlung-leitung-ordner-und-teilnahme",
+      "request": "Erstellen Sie ein Ordnerbriefing für den Familienkorso. Eine zuverlässige 17-Jährige ist dabei. Ein Teilnehmer wird nur deshalb unerwünscht genannt, weil er die Forderung des Bündnisses kritisiert.",
+      "input_files": [
+        "testakten/berlin-versammlung-fahrradkorso/12_Ordnerbriefing_Entwurf.docx",
+        "testakten/berlin-versammlung-fahrradkorso/13_Chat_Ordnerwechsel.txt"
+      ],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfindet keine allgemeine Berliner Volljährigkeitsvorgabe; prüft Rolle, Eignung, konkrete behördliche Anordnung und Kennzeichnung nach § 7.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Keine hoheitlichen Durchsuchungs- oder Gewaltbefugnisse für Ordner und kein automatischer Ausschluss allein wegen kritischer Meinung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt leitungsbezogene Ordnung und behördliche Teilnahmeuntersagung/Ausschluss; gibt konkrete sachliche Handlungsanweisungen ohne unzulässige Zwangstaktiken.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polizeifest-keine-totalregel",
+      "target_skill": "versammlung-verbot-aufloesung-und-einzelmassnahmen",
+      "request": "Die Polizei hält vor Beginn eine Einzelperson wegen eines konkret benannten Verdachts an. Muss sie vorher stets die ganze Versammlung auflösen? Formulieren Sie den Prüfvermerk und die nötigen Rückfragen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt § 17, § 16 und ergänzenden § 10; keine schrankenlose ASOG-Generalklausel und keine absolute Gesamtauflösungspflicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet teilnahmeverhindernde präventive Maßnahme vor Beginn von strafprozessualer Maßnahme; verlangt tatsächlichen Zweck, Intensität, Dauer und Verdachtsgrundlage.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Überträgt 6 C 1.22 mit Grenzen des fremden Polizeirechts und zeitlich fortdauernder Voraussetzungen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aufloesung-ersatz2026",
+      "target_skill": "versammlung-verbot-aufloesung-und-einzelmassnahmen",
+      "request": "Ein Bescheid erklärt für 48 Stunden jede thematisch verwandte Berliner Veranstaltung zur verbotenen Ersatzversammlung und zitiert VG Berlin 1 K 196/24. Prüfen Sie die Tragfähigkeit und entwerfen Sie eine Beanstandung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Wortlaut, Ort, Zeit, Teilnehmer-/Organisatorenkreis und konkrete Gefahr nach § 14 Absätze 1/6/7, ohne das Urteil als universelle 48-Stunden-Ermächtigung auszugeben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet tatsächlichen Gewalt-/Prognosekontext der Entscheidung von friedlichen abweichenden Veranstaltungen und kennzeichnet noch benötigte Bescheidpassagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Keine zugesagte Rechtskraft oder angebliche Entscheidung des OVG; beanstandet konkret räumliche und gegenständliche Überweite.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gericht-eile-und-form",
+      "target_skill": "versammlung-rechtsschutz-und-nachbereitung",
+      "request": "Ein schriftlicher Routenbescheid mit begründetem Sofortvollzug wurde gestern bekanntgegeben. Die Versammlung beginnt übermorgen. Erstellen Sie den gerichtlichen Entwurf. Ich bin Rechtsanwältin und werde nach Freigabe über beA einreichen.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 80 Absatz 5 und richtigen Antragsumfang sowie Widerspruch/Vorverfahren, keine automatische Wahl von § 123 und kein Abwarten der Monatsfrist bis nach dem Ereignis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet behördlich angeordneten Sofortvollzug von unaufschiebbarer Vollzugsbeamtenanordnung; tatsächlichen Zugang und konkreten Termin sichern.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert bestimmten Antrag, begründete Tatsachen und Anlagenstruktur; beachtet §§ 55a/55d VwGO und behauptet keine tatsächliche Einreichung oder gerichtliche Suspendierung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daten-fristen-und-gebuehren",
+      "target_skill": "versammlung-polizei-beobachtung-und-daten",
+      "request": "Die Behörde schreibt, alle Demonstrationsvideos dürften wegen § 30 zwei Jahre gespeichert werden und jede Anzeige koste pauschal 50 Euro. Erstellen Sie eine kurze konkrete Rückfrage.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt § 30 Absatz 2 Verwaltungsdaten und Verlaufserkenntnisse von Bild-/Tonmaterial nach § 18, dessen Löschung und besonderen Ausnahmen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt § 29 Kostenfreiheit der Amtshandlungen nach VersFG, ohne Gerichts-/Anwalts-/Mietkosten oder fremdrechtliche Maßnahmen pauschal kostenfrei zu stellen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert eine präzise Auskunft zu Kategorie, Zweck, Rechtsgrundlage und Kostenansatz ohne fingierte Tatsachen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zustaendigkeit-juli2026",
+      "target_skill": "versammlung-anzeige-und-kooperation",
+      "request": "Die Bezirksstelle sagt, seit der Zuständigkeitsreform im Juli 2026 könne ich jede Versammlungsanzeige ausschließlich beim Grünflächenamt erledigen. Prüfen Sie das und verfassen Sie meine kurze Antwort.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verbindet § 31 VersFG mit ZustV §§ 1/6/7 und Gesamtkatalog 1.9.22.2.1/1.9.22.2.3: Polizei Berlin; Fachaufsicht SenInnSport gesondert.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Nennt Inkrafttreten 19.07.2026, keinen ungeprüften alten Katalog und keine pauschale neue Bezirkszuständigkeit.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Flächenkommunikation von wirksamer erforderlicher Versammlungsanzeige und liefert ein konkretes Schreiben.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "files": [
+      "berliner-versammlungsrecht/berliner-versammlungsrecht-werkstatt.md",
+      "berliner-versammlungsrecht/berliner-versammlungsrecht-schnellstart.md",
+      "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md"
+    ],
+    "opening_change": "Konkreten vorhandenen Berliner Vorgang und Auftrag lesen; unmittelbar am benötigten Produkt arbeiten, Rückantworten einarbeiten.",
+    "norms": [
+      "Art. 26 VvB und Art. 8 GG; VersFG BE §§ 1–32 mit Schwerpunkt §§ 2–20, 26–31.",
+      "Gedenkortverordnung vom 16.12.2025, GVBl. S. 695, seit 31.12.2025.",
+      "ZustV vom 23.06.2026, GVBl. S. 547/595, seit 19.07.2026; Gesamtkatalog 1.9.22.",
+      "VwGO §§ 55a, 55d, 67, 80, 123, 146; konkrete Verfahrens- und Formprüfung statt Einheitsweg."
+    ],
+    "decisions": [
+      {
+        "key": "ersatz2026",
+        "citation": "VG Berlin, Urteil vom 19.02.2026 – 1 K 196/24",
+        "url": "https://gesetze.berlin.de/bsbe/document/NJRE001638744",
+        "passages": "Kopf; Rn. 24–26, 28–32 und 55–61",
+        "application": "Kooperation als materieller Faktor; konkrete Prognose und Vergleichbarkeit; räumlich, zeitlich und gegenständlich begrenztes Ersatzversammlungsverbot.",
+        "limit": "Erhebliches Gewaltrisiko im Ausgangsfall, kein generelles 48-Stunden-Verbot jeder thematisch ähnlichen Versammlung. Keine bestätigte Rechtskraft.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtlicher_kopf_und_indexierte_tragende_passagen_gelesen_direktportal_eingeschraenkt"
+      },
+      {
+        "key": "gegenprotest2025",
+        "citation": "BVerfG, Beschluss vom 01.10.2025 – 1 BvR 2428/20",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/10/rs20251001_1bvr242820.html",
+        "passages": "Rn. 68–105 und 160–178, insbesondere 104–105",
+        "application": "Eigenständige nicht völlig untergeordnete Gegenkommunikation kann geschützt sein; Behinderung ist nicht automatisch Unfriedlichkeit; Schutzbereich und Strafbarkeit auseinanderhalten.",
+        "limit": "Prüfungsgegenstand § 21 BundesVersG; für Berlin §§ 8/26/27 mit eigenen Voraussetzungen. Keine generelle Straflosigkeit und keine schlechthin erforderliche Auflösung vor jeder Sanktion.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "schlafcamp2024",
+        "citation": "BVerwG, Urteil vom 27.11.2024 – 6 C 4.23",
+        "url": "https://www.bverwg.de/271124U6C4.23.0",
+        "passages": "Rn. 27–49, insbesondere 34–35, 36–41 und 42–49",
+        "application": "Mitveranstalter, Unterkunft für Teilnehmende anderer Versammlungen, Gesamtgepräge und konkretes Feststellungsinteresse.",
+        "limit": "Hamburger Fall unter BundesVersG; auswärtige Gäste nicht automatisch eigene Campinfrastruktur. Geändertes Vorhaben kann Wiederholungsinteresse anders beeinflussen als wesentlich gleichbleibendes.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "polizeifest2024",
+        "citation": "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22",
+        "url": "https://www.bverwg.de/270324U6C1.22.0",
+        "passages": "Rn. 32–44 und 64–80",
+        "application": "Versammlungsbegriff nicht nach missbilligtem Zweck verkürzen; fortdauernde Maßnahmen brauchen fortdauernde Voraussetzungen.",
+        "limit": "Historischer baden-württembergischer Polizeifall; dortige Befugnisse nicht nach Berlin übertragen. Nicht alle Maßnahmen waren rechtswidrig; bei von Beginn an kollektiv unfriedlicher Zusammenkunft keine allgemeine Auflösungsvoraussetzung.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "waldcamp2024",
+        "citation": "OVG Berlin-Brandenburg, Beschluss vom 16.05.2024 – OVG 1 S 30/24",
+        "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/24522",
+        "passages": "Gründe zu 1 und 2; ECLI:DE:OVGBEBB:2024:0516.OVG1S30.24.00",
+        "application": "Öffentlicher Wald als Versammlungsort; konkrete Infrastruktur und Gefahrenbegründung; Begrenzung im Eilverfahren.",
+        "limit": "Brandenburg, BundesVersG und dortiges Waldrecht; keine automatische Baumhauserlaubnis in Berliner Parks. Amtliche freie Ansicht ohne durchgehende Randnummern, deshalb Gliederungsstellen.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "protestcamp2022",
+        "citation": "BVerwG, Urteil vom 24.05.2022 – 6 C 9.20",
+        "url": "https://www.bverwg.de/240522U6C9.20.0",
+        "passages": "Rn. 18–30",
+        "application": "Dauer nicht allein ausschlaggebend; Infrastruktur durch inhaltliche Verbindung oder logistische Erforderlichkeit und räumliche Zurechnung geschützt.",
+        "limit": "Ländlicher rheinischer Braunkohlegebietsfall; fehlende Übernachtungsalternativen dort sind keine feststehende Tatsache für ein Berliner Stadtcamp.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "tornado2017",
+        "citation": "BVerwG, Urteil vom 25.10.2017 – 6 C 46.16",
+        "url": "https://www.bverwg.de/251017U6C46.16.0",
+        "passages": "Rn. 28–36",
+        "application": "Objektiv einschüchternde staatliche Maßnahmen können Teilnahmeentscheidung bereits im Vorfeld beeinträchtigen.",
+        "limit": "Sehr niedriger unangekündigter Tornadoüberflug; nicht jede offene Polizeipräsenz gleich gewichten. Keine neue Berliner Befugnis aus altem Recht Mecklenburg-Vorpommerns.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "fraport2011",
+        "citation": "BVerfG, Urteil vom 22.02.2011 – 1 BvR 699/06",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2011/02/rs20110222_1bvr069906.html",
+        "passages": "Rn. 45–60 und 62–70",
+        "application": "Unmittelbare Grundrechtsbindung öffentlich beherrschter Unternehmen und allgemein eröffnete Kommunikationsräume.",
+        "limit": "Keine beliebige private Zutrittsbefugnis; § 20 VersFG BE unterscheidet öffentliche Beherrschung und rein private Flächen mit eigener Abwägung.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      },
+      {
+        "key": "bilder2009",
+        "citation": "BVerfG, Beschluss vom 17.02.2009 – 1 BvR 2492/08",
+        "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2009/02/rs20090217_1bvr249208.html",
+        "passages": "Rn. 129–135",
+        "application": "Identifizierbare Aufzeichnungen können abschrecken; flüchtige Übersichtsübertragung unterscheidet sich in Gewicht und Voraussetzungen.",
+        "limit": "Eilverfahren zum damaligen BayVersG, keine Berliner Speicherbefugnis. § 18 Absätze 1 bis 5 eigenständig prüfen; Bild eines Kamerafahrzeugs beweist keine Speicherung.",
+        "checked_on": "2026-10-02",
+        "verification_status": "amtliche_entscheidungspassagen_gelesen"
+      }
+    ],
+    "remaining_limits": [
+      "Direkte konsolidierte Berliner Portalansicht war technisch eingeschränkt; Normprüfung anhand amtlicher vollständiger Fassung, Fundstellennachweis und konkreter Verkündungen.",
+      "VG Berlin 2026: amtlicher Kopf und indexierte tragende Passagen gelesen; kein vollständig direkt geladener Portalvolltext, keine geprüfte Rechtskraft.",
+      "Redaktionelle Sollfälle, keine hier beobachteten Modellläufe oder Erfolgsgarantie."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-02",
+    "method": "desk_review",
+    "opening_modes": [
+      "Routenänderung am vorhandenen Bescheid bearbeiten.",
+      "Anlass, Einladung und Anzeige zeitlich rekonstruieren.",
+      "Auskunft nach konkreter Maßnahme und eigener Betroffenheit formulieren.",
+      "Campkonzept anhand tatsächlicher Änderung und Anhörungsstand fortführen."
+    ],
+    "continuation": "Keine erneute Mandatsaufnahme nach Antwort; geklärte Fakten einarbeiten und unabhängig bearbeitbare Teile abschließen.",
+    "enrichment": "Zehn eigenständige Fachrouten mit konkret benötigten Belegen, Fragen, Gegenpositionen und ausformulierten Produkten.",
+    "limits": "Keine Anleitung zu Gewalt oder Umgehung, fingierte Behördenhandlungen, unbewiesene Aufnahmen, pauschale Fremdlandbefugnisse oder automatische Gerichtseinreichung."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger kompakter Berliner Workflow mit vier tragenden Entscheidungen und konkreter Fortsetzung.",
+    "changes": [
+      "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
+      "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
+      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden."
+    ],
+    "sha256": "4add3fd635cad5a1f9e8593b4aa18349da50f4ff5952f218b90eabe43ca85153"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vertiefte Werkstatt mit zehn Fachmodulen, konkreten Produktmustern, neun Entscheidungsankern und Zuständigkeitsstand Juli 2026.",
+    "changes": [
+      "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
+      "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
+      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
+      "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt."
+    ],
+    "sha256": "74556800441aa466b466f17abc93b88053265f8c03d16e6cdb18e306c0ccdaa3"
+  },
+  "focus_review": {
+    "verdict": "revised",
+    "reason": "Übergreifender Hauptskill und eigenständiger Hauptproblem-Prompt führen Fachrouten bis zum fertigen Ergebnis.",
+    "changes": [
+      "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
+      "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
+      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
+      "Hauptskill verwendet nur mitgelieferte Referenzen; keine Laufzeitabhängigkeit von separater Werkstatt."
+    ],
+    "method": "desk_review",
+    "reviewed_on": "2026-10-02",
+    "prompt_path": "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
+    "skill_path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
+    "prompt_sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
+    "skill_sha256": "5dbb8399bc334fbb8cf4f5443471aafcb76d84e0da13530a4dabc1cd6558ef3d"
+  }
+}

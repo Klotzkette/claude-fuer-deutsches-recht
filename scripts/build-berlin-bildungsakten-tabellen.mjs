@@ -82,7 +82,7 @@ for (const spec of specifications) {
   workbook.recalculate();
   const checks=[];
   for (const sheet of spec.sheets) for (const check of sheet.perturbations??[]) {
-    const ws=workbook.worksheets.getItem(sheet.name);const input=ws.getRange(check.input);const saved=input.values;input.values=[[check.value]];workbook.recalculate();
+    const ws=workbook.worksheets.getItem(sheet.name);const input=ws.getRange(check.input);const saved=input.values;input.values=[[typed(check.value)]];workbook.recalculate();
     const actual=ws.getRange(check.output).values[0][0];if(typeof actual!=='number'||Math.abs(actual-check.expected)>1e-8) throw new Error(`Rechenprobe ${spec.file}: ${actual} statt ${check.expected}`);
     checks.push({type:'input_change',sheet:sheet.name,...check,actual});input.values=saved;workbook.recalculate();
   }

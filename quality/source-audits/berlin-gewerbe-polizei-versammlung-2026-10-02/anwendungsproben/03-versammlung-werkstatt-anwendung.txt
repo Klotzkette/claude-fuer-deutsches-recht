@@ -1,0 +1,100 @@
+# 1. Qualitative Einzelanwendung: Gesprächscamp Bankgespräch
+
+Anwendung am 02.10.2026. Dies ist eine tatsächlich ausgearbeitete Antwort eines Agenten auf den Werkstatt-Prompt und die Originalakte, keine verallgemeinerte Modell-Evaluation. Simulierter Auftrag: „Bitte prüfen Sie die Akte, priorisieren Sie das heute Notwendige und erstellen Sie den ersten verwendbaren Entwurf; Rückfragen bitte gezielt.“ Eingaben und Hashes stehen in der begleitenden JSON-Datei. Es wurde nichts versandt und kein Gericht angerufen.
+
+Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+
+This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+# 2. Tatsächliche Antwort auf den simulierten Auftrag
+
+Sehr geehrte Frau Wippermann,
+
+ich empfehle, bis Dienstag, 6. Oktober 2026, 12 Uhr, die folgende Ergänzung vorzulegen. Die Versammlungsstelle hat eine Begrenzung auf zwei Schlafzelte bisher nur erwogen. Es liegt weder ein verbindlicher Zweizeltbescheid noch eine Erlaubnis vor. Ein Widerspruch oder gerichtlicher Eilantrag ist deshalb jetzt nicht das bestellte oder passende erste Produkt.
+
+Das Tageskonzept enthält einen klaren öffentlichen Kommunikationszweck. Bei der Nachtpräsenz bleibt eine entscheidende Lücke: Die Akte sagt selbst, dass ihre Aussage über die Materialbewachung hinaus noch erklärt werden muss. Sie sollte nicht nachträglich erfunden werden. Auch zwei statt vier Schlafzelte sind nicht schon deshalb geschützt, weil sie bequemer wären. Erforderlichkeit und tatsächliche Alternativen sind konkret zu erläutern. Das Bundesverwaltungsgericht schützt Infrastruktur mit inhaltlichem Bezug oder räumlich zugeordneter logistischer Erforderlichkeit für das konkrete Camp; es macht nicht jede Übernachtung zum Bestandteil einer Versammlung. [BVerwG, Urt. v. 24.05.2022 – Az. 6 C 9.20, Rn. 27–30](https://www.bverwg.de/240522U6C9.20.0).
+
+Die Gästeproblematik ist inzwischen konkret geklärt: Das ursprüngliche Angebot vom 28. September wurde am 1. Oktober korrigiert; am 2. Oktober bestätigt Jana die Reservierung von acht Herbergsbetten und erklärt, nicht mehr mit Camp-Schlafplätzen zu rechnen. Diese neue Nachricht gehört in den Entwurf. Unterkunft für die andere Kundgebung wäre kein bloßer zusätzlicher Bedarf Ihres Camps. [BVerwG, Urt. v. 27.11.2024 – Az. 6 C 4.23, Rn. 34–35 und 42–49](https://www.bverwg.de/271124U6C4.23.0).
+
+## 2.1. Gezielte Fragen für die Endfassung
+
+Bitte stimmen Sie heute mit Ottilie und Balthasar drei Punkte ab:
+
+1. Welche konkrete öffentliche Aussage soll das nächtliche Verbleiben am Platz vermitteln, wie wird diese wahrnehmbar, und warum reichen Heimruhe oder eine kleinere Ruheeinrichtung für die zwei jeweils Ruhenden nicht aus? Bitte nennen Sie tatsächliche Wohn-/Wegealternativen und praktische Gründe, ohne eine neue rückwirkende Symbolik zu behaupten.
+
+2. Wer deckt die im Nachtplan noch offenen Übergänge 21/22 Uhr und 6–10 Uhr ab, und können Sie die zwei Zelte als wirklich gemeinsam getragenen Reduzierungsvorschlag bestätigen? Die Excel-Schichten belegen nur 22–6 Uhr. Zwei Ansprechbare und zwei Ruhende ergeben vier gleichzeitig anwesende eigene Personen, nicht acht pro Nacht und keine acht externen Gäste.
+
+3. Bitte beschaffen Sie die im Anzeigenwortlaut erwähnte Flächenbeschreibung sowie die tatsächlichen Außenmaße und Wendeflächen der größeren Toilettenkabine. Der Anbieter soll ein verbindlich mögliches Ende der Abholung nennen: Sein Angebot lautet „ab 19 Uhr“, während das Programm bisher „bis 19 Uhr“ vorsieht. Das lässt sich nicht gleichzeitig zusagen.
+
+Diese Fragen sperren nur die benannten Passagen und die abschließende Flächenberechnung. Der folgende Entwurf kann im Übrigen schon abgestimmt werden. Ein neues allgemeines Aufnahmegespräch ist nicht erforderlich.
+
+## 2.2. Entwurf der Ergänzung an die Versammlungsstelle
+
+Yasmin Wippermann  
+Seestraße 117, 13353 Berlin  
+yasmin@bankgespraech.example
+
+An die Polizei Berlin  
+Versammlungsbehörde
+
+Berlin, 2. Oktober 2026
+
+**VC-26-1016-18 – Ergänzung zur Anzeige des Gesprächscamps vom 23.09.2026**
+
+Sehr geehrte Damen und Herren,
+
+ich ergänze als anzeigende Person und vorgesehene Leiterin die Anzeige unseres Gesprächscamps „Platz für Begegnung statt bloßer Durchgang“ auf dem Brunnenplatz vom 16. Oktober, 14 Uhr, bis zum 18. Oktober, 18 Uhr. Gemeinsam mit Ottilie Karg und Balthasar Knödel organisiere ich das Camp. Die Initiative Bankgespräch ist kein eingetragener Verein. Ich führe die Korrespondenz; eine Vertretung sämtlicher Teilnehmenden wird damit nicht beansprucht.
+
+Wir möchten am vom Umbau betroffenen Ort öffentlich erörtern, wie Sitzgelegenheiten, zugängliche Wege und eine nichtkommerzielle Begegnung erhalten und gestaltet werden können. Das offene Gesprächszelt und die von Besuchern ergänzte Ausstellung dienen diesem Austausch. Die Teilnahme ist ohne Anmeldung möglich. Tagsüber erwarten wir etwa 30 Personen gleichzeitig, bei einzelnen Gesprächsrunden bis zu 50.
+
+Am Freitag beginnen wir um 14 Uhr mit der Erläuterung des Anliegens und der Ausstellung. Um 16 Uhr folgt die Gesprächsrunde zu Sitzgelegenheiten, um 18 Uhr die Lesung gesammelter Nachbarschaftserinnerungen und gegen 20 Uhr eine ruhige Runde zur abendlichen Platznutzung. Am Samstag werden von 10 bis 12 Uhr Wege mit Familien besprochen und ohne dauerhafte Farbe oder feste Bodeninstallationen markiert. Am Nachmittag sind Gespräche mit älteren Bewohnern und mit Menschen geplant, die auf barrierearme Wege angewiesen sind. Am Sonntag sammeln wir ab 10 Uhr Vorschläge und offene Fragen; um 15 Uhr beginnt die Abschlussrunde. Dazwischen bleiben Ausstellung und Gesprächsangebot zugänglich. Verstärkte Beiträge nach 21 Uhr sind nicht vorgesehen.
+
+Die Nachtpräsenz soll eine ruhige, sichtbare Mahnwache sein. Die bisherige Formulierung „Mahnwache und Gespräche bei Bedarf“ erläutert deren Inhalt noch nicht ausreichend. Wir konkretisieren sie wie folgt: [Vor Freigabe die gemeinsam bestätigte öffentliche Aussage und ihre tatsächlich beabsichtigte Wahrnehmbarkeit einsetzen; keine bloße Materialbewachung als politischen Zweck umbenennen.]
+
+Nach dem aktuellen Nachtplan bleiben gleichzeitig vier eigene Personen vor Ort. Je zwei sind ansprechbar, zwei ruhen; innerhalb dieser vier Personen wird gewechselt. Die Zeilen 22 bis 2 Uhr und 2 bis 6 Uhr sind keine zusätzlichen Personengruppen. Die Übergänge zum Tagesprogramm werden wie folgt abgedeckt: [Bestätigte Besetzung und Zeiten für die noch offenen Zeitfenster ergänzen.]
+
+Nach unserer gemeinsamen Beratung vom 2. Oktober halten wir vier Schlafzelte nach der jetzigen Bedarfsrechnung nicht mehr für erforderlich. Als Gegenstand der weiteren Kooperation schlagen wir zwei kleine Schlafzelte sowie das offene Gesprächszelt als Wetterschutz vor. Die zwei Schlafzelte dienen ausschließlich der Ruhe der eigenen Campbesetzung. Die tatsächlichen Gründe, weshalb hierfür zwei Zelte benötigt werden und nahe Wohnmöglichkeiten den Bedarf nicht ausreichend decken, ergänzen wir wie folgt: [Konkrete abgestimmte Gründe und vorhandene Alternativen einsetzen.]
+
+Dies ist ein Vorschlag zur Verringerung der Infrastruktur und kein Anerkenntnis einer bereits verbindlich erlassenen Begrenzung. Eine Änderung der Anzeige wurde bisher noch nicht übermittelt. Ein endgültiger Verzicht auf die Nachtpräsenz ist nicht erklärt.
+
+Das Übernachtungsangebot an die acht Personen aus Halle wird nicht aufrechterhalten. Balthasar Knödel hatte es zunächst voreilig gemacht, ohne gemeinsamen Beschluss unserer Gruppe. Er hat es mit Nachricht vom 1. Oktober, 19.06 Uhr, korrigiert. Die Gästegruppe hat am 2. Oktober bestätigt, dass sie eine andere Unterkunft reserviert hat und bei uns keine Schlafplätze mehr erwartet. Zwei Personen erwägen eine Teilnahme an der öffentlichen Abschlussrunde; daraus folgt keine Unterkunftszusage. Der Nachtplan enthält keine verdeckte Reserve für diese Gruppe.
+
+Die Bezeichnung „Gemeinschaftsküche“ war ungenau und wird ausdrücklich berichtigt. Vorgesehen sind eine Teestation mit heißem Wasser in isolierten Behältern und mitgebrachte belegte Brote. Es wird nicht gekocht, kein Gas eingesetzt und nichts verkauft. Das Angebot bleibt eine begleitende Versorgung des eigenen Camps und kein eigenständiger Bewirtungsbetrieb.
+
+Die Standfläche beträgt bei zwei Schlafzelten nach den bisherigen Abmessungen rechnerisch 31,08 Quadratmeter. Dieser Wert enthält noch die zwei kleinen Toilettenmaße aus der alten Tabelle. Eine größere barrierearme Kabine wird zusätzliche Fläche benötigen. Auch Wege, Abspannungen, Eingänge, Bewegungsflächen und Sicherheitsabstände sind darin nicht enthalten. Wir beanspruchen deshalb nicht, damit bereits eine vollständige vermessene Gesamtfläche nachgewiesen zu haben. Die ursprüngliche ungefähre Angabe von 60 Quadratmetern wird anhand der aktualisierten Maße überprüft. Hauptquerung, Einfahrt und Türbereich der sozialen Einrichtung sollen durchgehend frei bleiben, auch am Wochenende. Wir legen der Planung nicht zugrunde, dass sonntags keine Transporte stattfinden.
+
+Für zwei mobile Toiletten besteht ein freibleibendes Angebot, noch keine bestätigte Bestellung. Eine Kabine soll barrierearm ausgeführt werden. Die Lieferung könnte am Freitag zwischen 11 und 13 Uhr und damit vor dem angezeigten Versammlungsbeginn erfolgen. Am Sonntag bietet der Anbieter eine Abholung erst ab 19 Uhr an, während die Versammlung um 18 Uhr endet. Die bisherige Programmangabe, das Material sei bis 19 Uhr abgeholt, lässt sich dadurch nicht halten. Wir bitten um Abstimmung der erforderlichen Aufbau- und Abbauflächen und Zeitfenster, einschließlich der verbleibenden Toiletten nach 18 Uhr. Das verbindlich mögliche Abholende und die größere Maßzeichnung reichen wir nach. Eine von Ihnen bereits gebilligte zusätzliche Flächennutzung wird nicht behauptet.
+
+Bitte beziehen Sie diese Angaben in Ihre weitere Prüfung ein und benennen Sie die konkreten noch verbleibenden Gefahren oder Tatsachenlücken. Wir stehen für ein weiteres Kooperationsgespräch bereit. Soweit eine verbindliche Beschränkung erwogen wird, bitten wir um rechtzeitige Mitteilung ihrer tatsächlichen und rechtlichen Gründe vor dem Veranstaltungstermin. Unser Reduzierungsvorschlag soll eine angemessene Lösung ermöglichen; Rechtspositionen über die Nachtpräsenz werden damit nicht pauschal aufgegeben.
+
+Mit freundlichen Grüßen
+
+Yasmin Wippermann
+
+Vorgesehene Anlagen sind das Programm vom 25.09.2026, der gemeinsame Planungsstand vom 02.10.2026, die nach Abstimmung aktualisierte Flächen-/Nachtübersicht und die dokumentierte Korrektur der externen Unterkunftszusage einschließlich Antwort vom 02.10.2026. Der endgültige maßstäbliche Flächenplan und die Anbieterbestätigung sind noch zu ergänzen und werden nicht als bereits vorhandene Anlagen ausgegeben.
+
+## 2.3. Weiteres Vorgehen bis Dienstag
+
+Yasmin sammelt heute die drei gezielten Antworten. Balthasar klärt mit dem Anbieter Maßzeichnung, tatsächliche Lieferung, Abholung und Bindungswirkung des Angebots; Ottilie prüft den freizuhaltenden Zugang und die Anwohnerbelange. Am Montag, 5. Oktober, sollte der Ergänzungstext intern abschließend abgestimmt sein. Yasmin übermittelt ihn nach Freigabe spätestens am 6. Oktober vor 12 Uhr und bewahrt den Eingangsnachweis auf. Die heutige Ausgabe bewirkt weder diese Freigabe noch den Versand.
+
+Der Preis von 680 Euro ist ein vorläufiges Angebot einschließlich Umsatzsteuer. Es ist noch keine Reservierung belegt. Die Angebotsfrist 7. Oktober ist von der behördlichen Ergänzungsfrist am 6. Oktober zu trennen. Eine Bestellung wird nicht durch den Brief an die Versammlungsstelle vorgenommen. Anwaltliche Kosten richten sich nach der bestehenden Vergütungsregelung; deren Einzelheiten liegen hier nicht vor.
+
+Die Anzeige wurde am 23. September um 10.02 Uhr abgesandt und um 10.11 Uhr bestätigt. Eine Einladung erst am 26. September würde die gesetzlichen 48 Stunden wahren, selbst bei Veröffentlichung um 0 Uhr. Das ist eine Aussage über den dokumentierten Plan; ein Nachweis der tatsächlichen ersten Veröffentlichung liegt nicht vor. Eine wesentliche Konzeptänderung ist unverzüglich mitzuteilen. [VersFG BE, § 12 Absätze 1 und 5](https://www.parlament-berlin.de/media/download/3646).
+
+Sollte danach ein belastender Bescheid ergehen, müssen Tenor, Bekanntgabe und Vollziehbarkeit gesondert geprüft werden. Bis dahin sollte die fehlende Nachtbegründung weiter konkretisiert werden. Das Tagesprogramm bleibt unabhängig davon bearbeitbar; eine Aufgabe der Nachtversammlung wird nicht unterstellt.
+
+# 3. Getrennter interner Prüf- und Beobachtungsvermerk
+
+Die reine Standflächensumme der Originaltabelle beträgt 41,08 Quadratmeter: 12 + 20 + 3 + 2,88 + 3,20. Bei zwei statt vier Schlafzelten sind es auf derselben alten Maßbasis 31,08 Quadratmeter. Die Formeln wurden ausgelesen und gesondert nachgerechnet; die Originaldatei ist unverändert. Die neue Toilettenfläche ist unbekannt. Die Nächte haben jeweils vier gleichzeitige eigene Personen; eine Addition der Schichten wäre falsch.
+
+Die in der Anzeige erwähnte beigefügte Flächenbeschreibung ist in den gelesenen Originalen nicht als eigenständiger Lageplan auffindbar. Die Tabelle ersetzt sie nicht. Der Anbieter beschreibt zudem ein Abholfenster „ab 19 Uhr“, das die Zusage „bis 19 Uhr“ des Programms nicht erfüllt. Dies sind konkrete Materiallücken, die der Entwurf offenlegt.
+
+Das fertig ausformulierte Schreiben bleibt wegen drei echten entscheidenden Tatsachenlücken ein verwendbarer Abstimmungsentwurf und keine versandfertige Endfassung. Die Rückfragen verlangen keine Wiederholung bereits bekannter Rollen, Termine oder der Unterkunftskorrektur. Eine rein symbolische Nachtbegründung wurde nicht erfunden. Ein Rechtsmittel gegen die Anhörung wurde nicht konstruiert.
+
+Methodische Grenze: Der Werkstatt-Prompt enthält in 1.12.4 und 1.17.4 auffallend konkrete Fallvariationen und Textmodelle mit vier eigenen Nachtpersonen, zwei Ruhenden, vier zu reduzierenden Zelten, acht Gästen anderer Kundgebungen und größerer Toilettenkabine. Diese Anwendung ist daher keine Prüfung an einem zuvor ungesehenen unabhängigen Fall. Sie zeigt, ob die vorhandenen Arbeitsanweisungen in diesem Fall tatsächlich zu einem konsistenten Entwurf führen. Aus ihr lässt sich keine allgemeine Zuverlässigkeit des Modells oder Prompts ableiten.
+
+Primärquellen wurden tatsächlich geöffnet: der beim Abgeordnetenhaus veröffentlichte VersFG-Text sowie die beiden tragenden BVerwG-Urteile. Eine umfassende Kontrolle sämtlicher 2026 geltenden Flächen- und Sondervorschriften für den konkreten Brunnenplatz wurde nicht durchgeführt. Aus dem Prompt übernommene allgemeine Aussagen zu anderen Versammlungslagen wurden nicht ungeprüft in das Arbeitsergebnis übernommen.
+
+Exporthinweis: Diese Ausgabe ist Markdown. Für einen späteren Dokumentexport sind Times New Roman, 11 pt und dezimale Gliederung vorgesehen.
+
+Abschlussabgleich: Während dieser Anwendung wurden durch die parallele Repository-Bearbeitung ausschließlich Tabellenformatierungen und die entsprechende Späti-Mailanlage geändert. Die finale Späti-XLSX, der dekodierte Begleittext samt MIME-Anlagen und die finale Camp-XLSX wurden anschließend erneut ausgelesen. Zellwerte, Formeln und fallinhaltlicher Text entsprechen der zuerst gelesenen Fassung. Die JSON-Provenienz unterscheidet verfügbare anfängliche Hashes von erst bei Abschluss erhobenen Hashes. Es wird keine byteidentische Erstlektüre der endgültigen Dateien behauptet.

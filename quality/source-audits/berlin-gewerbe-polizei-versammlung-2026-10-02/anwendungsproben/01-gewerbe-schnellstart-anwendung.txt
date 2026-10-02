@@ -1,0 +1,91 @@
+# 1. Qualitative Einzelanwendung: Späti Abendfuchs
+
+Anwendung am 02.10.2026. Dies ist eine tatsächlich ausgearbeitete Antwort eines Agenten auf den Schnellstart und die Originalakte, keine verallgemeinerte Modell-Evaluation. Simulierter Auftrag: „Bitte prüfen Sie die Akte, priorisieren Sie das heute Notwendige und erstellen Sie den ersten verwendbaren Entwurf; Rückfragen bitte gezielt.“ Eingaben und Hashes stehen in der begleitenden JSON-Datei. Es wurde nichts versandt.
+
+Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+
+This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+# 2. Tatsächliche Antwort auf den simulierten Auftrag
+
+Sehr geehrte Frau Özdemir,
+
+ich empfehle die sachliche Anhörungsantwort unten und vorerst die Schließung an Sonn- und Feiertagen. Besonders dringend ist eine Korrektur Ihres Wochenplans: Auch morgen, Samstag, 3. Oktober, ist Feiertag. Die bisherige Planung „Montag bis Samstag 8 bis 24 Uhr“ darf für diesen Tag nicht übernommen werden. Ihre bereits geplanten Schließungen am 4. und 11. Oktober sind sinnvoll. Der Feiertag am 3. Oktober ist für 2026 amtlich bestätigt; die Ladenöffnung an Feiertagen unterliegt grundsätzlich denselben Schließungsregeln wie sonntags. [Berlin: Feiertag 2026](https://www.berlin.de/kultur-und-tickets/tipps/3-oktober/), [BerlLadÖffG, § 3](https://www.berlin.de/ba-spandau/politik-und-verwaltung/aemter/ordnungsamt/ladoeffg.pdf).
+
+Die Anhörung verlangt eine Antwort bis 9. Oktober 2026. Sie ist weder eine Schließungsverfügung noch eine Öffnungserlaubnis. Ein gerichtlicher Rechtsbehelf ist gegen diese bloße Anhörung derzeit nicht der passende Schritt. Der bereits angeforderte Kontrollvermerk und eine mögliche weitere Akteneinsicht verlängern die Antwortfrist nicht.
+
+Die touristische Ausnahme trägt nach den Unterlagen nicht: Waschmittel, Vorratslebensmittel und Katzenfutter gehören weiterhin zum Wochensortiment. Ein Vorhang am Sonntag ändert die Ausrichtung des Geschäfts nicht. Auch die Hotelkontakte und die Stadtpläne ersetzen die erforderliche ausschließliche Ausrichtung nicht. Verpackter gemahlener Kaffee ist kein Getränk zum sofortigen Verzehr. Die amtliche Berliner Darstellung verlangt die entsprechende Beschränkung an allen Wochentagen. [Senatsverwaltung: gesetzliche Ausnahmen](https://www.berlin.de/sen/wirtschaft/branchen/handel/ladenoeffnungszeiten/ladenoeffnungszeiten-in-berlin-152543.php).
+
+## 2.1. Heute und bis zur Antwortfrist
+
+| Termin | Verantwortlich | Konkreter Schritt und Nachweis |
+| --- | --- | --- |
+| Heute, 02.10. | Samira | Die Schließung am 03.10. zusätzlich zum 04. und 11.10. intern festlegen, Personal und Lieferanten informieren und Aushang ergänzen. Die Ausführung ist noch nicht belegt. |
+| Heute | Samira/Willibald | Originalbon und Kassenexport sichern; die weiteren Bestandteile der 18 Euro „Haushalt und Vorrat“ nachvollziehen, ohne alte Buchungen zu überschreiben. |
+| Bis 07.10. | Samira/Kanzlei | Anhörungsentwurf und lesbare vollständige Kontrollunterlage einschließlich Bonkopie abgleichen. Der Portaldownload selbst ist hier nicht erfolgt. |
+| Spätestens 09.10. | Samira/Kanzlei nach Rückmeldung | Den abgestimmten Text unter Lad-FK-26-441 über den tatsächlich verfügbaren Behördenkanal übermitteln und Eingang dokumentieren. |
+| 07.10. | Samira/Verein | Bestätigten Termin und Ort des Nachbarschaftstags erfragen; erst danach eine gesonderte Öffnungsprüfung für den 25.10. durchführen. |
+
+Für normale, nicht auf einen Feiertag fallende Werktage kann die bisherige Ladenzeit vorerst Grundlage bleiben. Sie ist keine zulässige Arbeitszeit für eine einzelne beschäftigte Person. Die Tabelle enthält 16 Stunden Ladenöffnung pro Werktag, aber keine individuellen Istschichten. Beginn, Ende und Pausen sind daher wie in Ihrer Betriebsnotiz vorgesehen personengenau zu erfassen; ein konkreter Arbeitszeitverstoß lässt sich aus dieser Tabelle nicht feststellen.
+
+Das geplante Fest am 25. Oktober rechtfertigt die Öffnung am 20. September nicht. Für den 25. Oktober wäre § 6 Absatz 2 BerlLadÖffG eigenständig zu prüfen. Eine Anzeige muss zwei Wochen vorher in Textform beim Bezirksamt vorliegen; als sichere Bearbeitungsfrist sollte Freitag, 9. Oktober, vorgesehen werden, statt auf eine mögliche Fristverschiebung am Sonntag, 11. Oktober, zu vertrauen. Das setzt einen tatsächlich tragfähigen Anlass voraus. 80 bis 120 nur geschätzte Besucher, 350 Meter Abstand und fehlende Sichtbeziehung zum Hof sind keine sichere Grundlage für eine prägende Ausstrahlung bis zum Laden. Eine Anzeige allein heilt einen fehlenden Anlass nicht. [Service Berlin](https://service.berlin.de/dienstleistung/327974/), [BVerwG, Urt. v. 16.03.2022 – Az. 8 C 6.21, Rn. 11–16](https://www.bverwg.de/160322U8C6.21.0). Die Entscheidung betrifft eine Allgemeinverfügung für Großveranstaltungen; ihre verfassungsrechtlichen Maßstäbe sind kein individueller Freibrief.
+
+Eine wirkliche Sortimentänderung oder ein Cafékonzept kann später geprüft werden. Das Austauschen des Schilds, die Kaffeemaschine und zwei Hocker ändern den vorhandenen gemischten Einzelhandel nicht schon in einen rechtmäßig betriebenen Cafébetrieb. Der Mietnachtrag ist ununterschrieben. Für den heutigen Auftrag werden keine Umbauten veranlasst.
+
+## 2.2. Entwurf der Anhörungsantwort
+
+Rechtsanwältin Jule Morgen  
+Kanzlei am Kanal, Berlin
+
+An das Bezirksamt Friedrichshain-Kreuzberg von Berlin  
+Ordnungsamt – Gewerbeangelegenheiten  
+z. Hd. Frau Marlene Hoff
+
+Berlin, 2. Oktober 2026
+
+**Lad-FK-26-441 – Anhörung vom 25.09.2026; Späti Abendfuchs, Krossener Straße 47, 10245 Berlin**
+
+Sehr geehrte Frau Hoff,
+
+für Frau Samira Özdemir nehme ich zu Ihrer Anhörung Stellung. Meine Mandantin möchte die tatsächlichen Verhältnisse offenlegen und ihre weitere Betriebsplanung daran ausrichten. Wir bitten, bei der Entscheidung über eine gesonderte Untersagungsverfügung die bereits eingeleitete Änderung der Sonntagsplanung zu berücksichtigen und zu prüfen, ob eine solche Verfügung noch erforderlich ist.
+
+Frau Özdemir betreibt den Abendfuchs seit April 2023 als Einzelunternehmen. Die Gewerbeempfangsbescheinigung vom 3. April 2023 enthält keine besondere Sonntagsöffnungserlaubnis. Eine solche behördliche Einzelentscheidung liegt auch sonst nicht vor.
+
+Das während der Woche angebotene Sortiment umfasst gekühlte Getränke, Bier und Wein in verschlossenen Flaschen, verpackte Snacks, Zeitungen, Tabakwaren, Kaffee und Tee, Nudeln, Konserven, Waschmittel, Toilettenpapier und Katzenfutter. Hinzu kommen Postkarten und Stadtpläne. Die vorhandenen Kartons älterer Reiseführer waren nach der Warenübersicht vom 15. September noch nicht ausgepackt. Unter der Woche kommen insbesondere Personen aus der Nachbarschaft; daneben kaufen Hotelgäste und Spaziergänger ein. Die Kundenherkunft und der Reisezweck werden nicht erhoben.
+
+Am 20. September 2026 war das Geschäft geöffnet. Die im Kontrollvermerk und in der Bonabschrift dokumentierte Abgabe einer Packung gemahlenen Kaffees, zweier Flaschen Wasser und einer Zeitung wird nicht als bloßer Verkauf zubereiteten Kaffees dargestellt. Der Mitarbeiter hat die Abgabe der Kaffeepackung aus dem hinteren Regal gegenüber meiner Mandantin bestätigt. Der Vorhang verhinderte diesen Verkauf nicht. Die Umsatzgruppe „Haushalt und Vorrat“ enthält am Sonntag 18 Euro, darunter den Kaffee und weitere noch zuzuordnende Positionen. Diese Summe ist weder eine Stückzahl noch ein Nachweis einer bestimmten Kundengruppe.
+
+Meine Mandantin war zunächst davon ausgegangen, dass die Stadtpläne und die Empfehlung durch das nahe Hotel eine touristische Ausnahme begründeten. Das Hotel garantiert jedoch keine Kundenzahl. Auf Grundlage des tatsächlichen Wochensortiments wird eine ausschließliche touristische Ausrichtung als Rechtfertigung der damaligen Öffnung nicht aufrechterhalten.
+
+Neben der Kasse wird auch Kaffee im Becher zubereitet. Die beiden Hocker am Fenster begründen jedoch keinen eigenständigen Sachvortrag dahin, am Kontrolltag sei statt des Einzelhandels ausschließlich eine Gaststätte betrieben worden. Alkohol wird nach den vorliegenden Unterlagen in verschlossenen Flaschen verkauft. Einen beobachteten Alkoholausschank weisen Ihre bisher übermittelten Feststellungen ebenfalls nicht aus.
+
+Am 27. September blieb der Laden nach der Nachricht meiner Mandantin vom 28. September geschlossen. Für den 4. und 11. Oktober hat sie ebenfalls keine Sonntagsöffnung vorgesehen. Das Wochensortiment ist bislang nicht umgestellt worden. Die geplante Trennung der Kassenbuchungen für zubereiteten Kaffee und Verkaufspackungen soll die Dokumentation verbessern; historische Buchungen sollen nicht verändert werden.
+
+Der für den 25. Oktober erwogene Nachbarschaftstag ist noch nicht verbindlich bestätigt und war am 20. September kein Anlass für die Öffnung. Er wird daher nicht zur Rechtfertigung des Kontrolltags herangezogen. Über eine etwaige spätere anlassbezogene Öffnung wird erst nach eigenständiger Prüfung des dann tatsächlich feststehenden Sachverhalts entschieden.
+
+Bitte teilen Sie uns mit, ob neben dem Kontrollvermerk einschließlich Bonkopie weitere Unterlagen für die beabsichtigte Verfügung maßgeblich sein sollen, und ermöglichen Sie gegebenenfalls ergänzende Einsicht. Die Stellungnahme erfolgt im vorliegenden Verwaltungsverfahren. Eine Erklärung zur persönlichen Verantwortlichkeit in einem etwaigen gesonderten Ordnungswidrigkeitenverfahren ist damit nicht verbunden.
+
+Mit freundlichen Grüßen
+
+Jule Morgen  
+Rechtsanwältin
+
+Als Anlagen sind die vorhandene Warenübersicht vom 15.09.2026, die Umsatzübersicht zur Woche 14.–20.09.2026 und die Betriebsnotiz vom 01.10.2026 vorgesehen. Deren endgültige Zusammenstellung erfolgt mit der freizugebenden Fassung.
+
+## 2.3. Gezielte Rückmeldung
+
+Bitte bestätigen Sie vor der Freigabe, dass auch am 3. Oktober geschlossen bleibt, und lassen Sie Willibald die übrigen Positionen der 18 Euro „Haushalt und Vorrat“ soweit möglich zuordnen. Die Feiertagsschließung kann dann als konkret beschlossene Maßnahme in den Brief aufgenommen werden; sie wird im jetzigen Entwurf nicht als bereits erfolgt behauptet. Für die Anhörungsantwort braucht es keine neue allgemeine Mandatsaufnahme. Die Kosten der weiteren anwaltlichen Bearbeitung richten sich nach der bestehenden Vergütungsvereinbarung beziehungsweise der gesetzlichen Vergütung; deren Inhalt liegt in dieser Akte nicht vor.
+
+# 3. Getrennter interner Prüf- und Beobachtungsvermerk
+
+Die XLSX-Formeln ergeben für die Woche 5.435 Euro Montag bis Samstag, 775 Euro Sonntag und 6.210 Euro insgesamt. Postkarten und Pläne ergeben 87 Euro beziehungsweise rund 1,40 Prozent des Gesamtumsatzes; das ist keine Touristenquote. Die Zahlen wurden aus den Zellen nachgerechnet, nicht aus einer behaupteten Neuberechnung der Arbeitsmappe. Beide EML-Anlagen in Datei 11 sind bytegleich mit den separat vorliegenden Originalen.
+
+Der Schnellstart führt zügig zum bestellten Behördenbrief und trennt Anhörung, Betriebskonzept und Zukunftsveranstaltung sinnvoll. Ein zusätzlich notwendiger Kalenderschritt steht nicht ausdrücklich im Prompt: Der 3. Oktober ist trotz Samstag Feiertag. Die Betriebsnotiz darf in der Anwendung deshalb nicht ungeprüft zur rechtmäßigen Wochenplanung erhoben werden. Dies ist zunächst ein Bearbeitungsrisiko des Materials, kein nachgewiesener Fehler des Prompts.
+
+Die Mail 15 bezeichnet die vorhandene Kontrollfassung als drei beschriebene Seiten einschließlich Bonkopie. Im separat ausgelesenen DOCX liegt der Kontrolltext, daneben eine TXT-Bonabschrift; die echte Bonkopie bzw. der Portaldownload sind nicht Teil der hier gelesenen Originalunterlagen. Die genaue Paginierung wurde nicht gerendert. Daraus wird keine behauptete Vollständigkeit der behördlichen Kontrollakte abgeleitet.
+
+Die direkte Web-Auslesung der konsolidierten Berliner Landesrechtsseite war technisch beschränkt. Die tragenden Aussagen wurden mit dem auf einer Bezirksamtsseite veröffentlichten Gesetzestext, aktueller Senatsdarstellung und amtlicher Rechtsprechung abgeglichen. Es wird keine lückenlose Prüfung aller Rechtsgebiete oder des künftigen Cafékonzepts behauptet.
+
+Exporthinweis: Diese Ausgabe ist Markdown. Für einen späteren Dokumentexport sind Times New Roman, 11 pt und dezimale Gliederung vorgesehen.
+
+Abschlussabgleich: Während dieser Anwendung wurden durch die parallele Repository-Bearbeitung ausschließlich Tabellenformatierungen und die entsprechende Späti-Mailanlage geändert. Die finale Späti-XLSX, der dekodierte Begleittext samt MIME-Anlagen und die finale Camp-XLSX wurden anschließend erneut ausgelesen. Zellwerte, Formeln und fallinhaltlicher Text entsprechen der zuerst gelesenen Fassung. Die JSON-Provenienz unterscheidet verfügbare anfängliche Hashes von erst bei Abschluss erhobenen Hashes. Es wird keine byteidentische Erstlektüre der endgültigen Dateien behauptet.

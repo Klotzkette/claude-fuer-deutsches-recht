@@ -1,6 +1,6 @@
 {
   "name": "handelsregister-assistent",
-  "version": "445.26.0",
+  "version": "445.27.0",
   "description": "Handelsregister recherchieren und Registervorgänge vollziehen: Auszüge, Gesellschafterlisten, Auslandsvertretung, Organwechsel, Anmeldung, Zwischenverfügung und Datenschutz. Zehn Fachworkflows und ein Hauptproblem-Skill führen zu konkreten Dokumenten und nachgewiesenem Vollzugsstand.",
   "license": "Apache-2.0 OR MIT",
   "author": {

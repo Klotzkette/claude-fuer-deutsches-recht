@@ -9,7 +9,7 @@
 
 Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.
 
-Dieses Plugin gehört zum Marketplace mit 269 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
+Dieses Plugin gehört zum Marketplace mit 272 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg der eigenständige Werkstatt-Prompt für die vollständige Bearbeitung. Verknüpfte Hilfsdateien müssen beim eigenständigen Einsatz zusätzlich bereitstehen.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -50,7 +50,7 @@ Ohne Installation den vollständigen Werkstatt-Prompt unten als MD oder TXT heru
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`bea-versand-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.md) · [`bea-versand-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bea-versand/bea-versand-werkstatt.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 269 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 272 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); der Werkstatt-Prompt bleibt ein direkter Download.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -64,7 +64,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| [Akte Inkasso-Zahlungsklage ModeFuchs](../testakten/inkasso-zahlungsklage-modefuchs/README.md) | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) | [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-inkasso-zahlungsklage-modefuchs.zip) | [`testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -115,8 +115,8 @@ Verwendet wird die **gemeinsame Akte Inkasso-Zahlungsklage ModeFuchs** aus dem F
 
 | Testakte | Download |
 | --- | --- |
-| ModeFuchs mit allen nativen Originalen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-inkasso-zahlungsklage-modefuchs.zip) |
-| Jede Unterlage als eigene PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.26.0/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
+| ModeFuchs mit allen nativen Originalen | [Originalformat-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-inkasso-zahlungsklage-modefuchs.zip) |
+| Jede Unterlage als eigene PDF | [Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.27.0/testakte-inkasso-zahlungsklage-modefuchs-einzelpdfs.zip) |
 | Gesamte Akte zum Lesen | [Gesamt-PDF](../testakten/inkasso-zahlungsklage-modefuchs/gesamt-pdf/inkasso-zahlungsklage-modefuchs_gesamt.pdf) |
 
 Für den Praxistest das Originalformat-ZIP entpacken und diesen Ordner zusammen mit dem Werkstatt-Prompt öffnen. `30_Klage_Arbeitsfassung_20250725.docx` ist das Hauptdokument. Es verwendet die Anlagen K1 bis K12 wie die ursprüngliche PDF-Klageschrift `originale/23_Klageschrift_InkassoZentrale_25-07-2025.pdf`. Der Auftrag besteht darin, die darin bezeichneten Belege zuzuordnen und als Anlagen für den beA-Upload vorzubereiten. Maßgeblich sind die Anlagenverweise dieses Hauptdokuments, nicht die frühere Nummerierung des entfernten Nebenfalls.

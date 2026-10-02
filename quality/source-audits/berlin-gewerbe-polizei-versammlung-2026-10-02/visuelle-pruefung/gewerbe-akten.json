@@ -1,0 +1,1819 @@
+{
+  "reviewed_on": "2026-10-02",
+  "reviewer": "asog_subagent_cross_review",
+  "scope": {
+    "native_files": 54,
+    "word_render_pages": 24,
+    "spreadsheet_images": 6,
+    "individual_pdf_pages": 57,
+    "combined_pdf_pages": 84,
+    "total_render_pages": 171,
+    "unique_pixel_pages_opened": 141,
+    "pixel_identical_duplicates": 30
+  },
+  "method": "Alle141 nach Pixelhash eindeutigen Seiten lesbar mit view_image geöffnet. Dreißig pixelidentische Gesamtseiten über gleiche Auflösung und SHA256 der RGB-Pixel dem zuvor geöffneten Original zugeordnet. Keine rein textliche oder Kontaktbogen-Freigabe.",
+  "status": "pass",
+  "issues": [
+    {
+      "id": "GEW-VIS-01",
+      "severity": "minor_layout_fix_required",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "file": "06_Umsaetze_und_Zeiten.pdf",
+      "page": 2,
+      "location": "Wochenplan: Samstag in Spalte A läuft optisch in 8.00 in Spalte B.",
+      "suggestion": "Spalte A im PDF-Druckbereich verbreitern oder konsistente Zellausrichtung/Ränder herstellen; XLSX-Screenshot selbst zeigt ausreichenden Abstand.",
+      "status": "fixed_and_visually_verified",
+      "resolution": "Spalte verbreitert; Samstag und 8.00 klar getrennt. Neu gerenderte Einzel-PDF-Seite geöffnet; Gesamtseite byteidentisches PNG."
+    }
+  ],
+  "observations": [
+    "Word-Briefe einschließlich dichterer Betreiber-/Personaltexte vollständig lesbar, keine sichtbare Abschneidung oder Überlagerung.",
+    "E-Mail-Kopfzeilen, Empfänger, Datumsfelder und Fließtexte vollständig; .example-Kontakte sichtbar.",
+    "Gesamt-PDF-Trennseiten erwartbar und ohne KI-Warntext; Original-Layout-Seiten durch Pixelvergleich nachvollziehbar.",
+    "Keine eigenständige rechtliche Vollprüfung des Gewerbe-Plugins durch diese Sichtprüfung behauptet.",
+    "Englische Zahlendarstellung in Tabellen ist ein kosmetischer Hinweis, Zahlen bleiben eindeutig und stimmen mit sichtbaren Summen überein."
+  ],
+  "native_sha256": {
+    "testakten/berlin-gewerbe-radiologie-spreebogen/12_Interne_MRT_Organisation.docx": "0b552fc9f81e1fa31a4636af51743f08933819babbb8e289ca253c45534c3de2",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/13_Pruefbericht_Auszug.docx": "feab7eb039eec45b27f4bdc94fe9b1da2ecf7f778e769b2fd2a212d275d21f7c",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/16_Verantwortungszuordnung_Entwurf.docx": "e535743b133d6452a74d67b05d68f947b321fdc3445fd654c62f51eda59f1bfa",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/08_Anzeige_Nachreichung.eml": "cadc8ea14b789e9944c6cb50ad2f5e54e7691bca5c08f019f0295f0801fa1b18",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/07_Terminnotizen.txt": "5e6b0ce3dd5498f14915bf42ad04a17a5c15c25cd9e37454ed02532b799327c2",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/11_Planerin_Raum.eml": "a515a3661020d375cd40e26aad38f2d059fd0ff4e7c19fbb0db9c6d77f20e396",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/10_Teleradiologie_Anfrage.eml": "39d311504f91bf642f3b6f18c8d09ba719198a19379762dfd570799635f2daa0",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/14_Praxischat.txt": "9a3ab8e63c7a927e2a76f0769a6bcbb409ea1a9b12c51202e20d95be6cc0f751",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/02_Betreiberdarstellung.docx": "add10e607b1615d15ad19ef5bfb59f8276f66d69fa2c471ba39fa838455806b8",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/03_Lieferant_Startsignal.eml": "ebdd96ace91a23678bc47db8f9a67761f1a8c139097e0c8f90ab05e59abe469c",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/01_Auftrag_Radiologie.docx": "89b001871c95278513bf0414e3fd4ee3f134e9a2aa6a1358e8d8d59273a5c9c4",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/09_LAGetSi_Nachforderung.docx": "757d2d05e589c170b59db3f8dd026e1bcd423dfc741c35263a13a66998e9c9c0",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/17_Fachkundekopie_folgt.eml": "6919ffa41ac991933104ba15664f272b9cffb1a9049093a517b2611bebb2a911",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/18_Planung_bleibt_vorlaeufig.eml": "891a4bc0e2648590b71150ac700ea8e2dd7e412fbf6c9d4e621e0d4f0517e28d",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/05_Personal_Fachkunde.docx": "08233fec444146a128c33af53e2b7b5900634c45b7c570c8214c7c03bcbc40cc",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/06_Startplan_und_Kosten.xlsx": "a0ebbc09289e4af589e371a6d9e4ef3d514a15567863d4e65dee36070b4fdc46",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/04_Geraete_und_Raeume.docx": "fbefe29a82686e1a333582353d7ac4e42e116ff4a850667033b606e2d53aba01",
+    "testakten/berlin-gewerbe-radiologie-spreebogen/15_Sachverstaendige_Nachtrag.eml": "54cf11b6ab5d72d57077e24372a0874b62700b4df189b4f2ba67353d0ed61de7",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/01_Auftrag_Kichererbse.docx": "eff7c447c0d283ddd1c2706b0d581b67a323912a1d70bd77c6779056ae1d64f1",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/03_Froehlich_zur_Konzession.eml": "b71a87e6a449e751b4a97ffeaf257b83fee58ac032aee83d18b819d55f75e133",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/02_Uebernahmevereinbarung.docx": "c2f9b93c7c89490d3f294228e0b4abf24ffcbe3c91364659c84f9b4add1a0ab0",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/07_Teamchat_Eroeffnung.txt": "bc3090dc75f59c5f469b918151fcb4fca8474bdc45b62ebcab16f5dd57b06afb",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/15_Hausverwaltung_Gehweg.eml": "1b4688c007ccb75114888dc8c36ea4b65abafca9f1ebc64eee1a4c20ace91d60",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/18_Nachtrag_ohne_Wein.eml": "1b1a7839b241f6ecedf9fae1b3460ca567eb0703a550f564d8ea0b96055a8d82",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/17_Personalnotiz.docx": "07a97417724964b574100c14a85eae4eaafe6563f66e27b4d30ffb863ceeac49",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/13_Temperaturnotizen.txt": "1c76f54f1ab48a9bbd31aa1fb9b04f5cccd4022b997f6b6288a93884244f8eeb",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/14_Servicebericht_Kuehlung.docx": "46d678c39e219bc9e00c11ee5859bad9b55aaff3aa12d5ba8a8ccbf8c58187d1",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/12_Nachweise_an_Amt.eml": "4bf594c3040f191513a8e4cef5e259274a90ad83bc06920636b9db77fd69a890",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/08_Eingang_Gewerbeanzeige.eml": "6647b5715625a5b32c5e2a7c8254c917abcb7cd60cec5fecdf4440b3e6e69833",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/16_Reparatur_belegt.eml": "8980cf3ea21e92aa988c815da9b6b14ebba2decb658ad596f280781169ea77c4",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/05_Betriebskonzept.docx": "6d93f808233c2322a0f98458e11360444fa6863e13347820b717dfedae51a844",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/06_Startbudget.xlsx": "91264ee7c59eae98246f8295b39d205de0f4a0900390693f162ecf29f28ce1e7",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/11_Ordnungsamt_Nachforderung.docx": "e476c93749917fa11e5757c10698603fbba8909ee1db04a677213ada75b297f0",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/10_Lieferant_Ruecknahme.eml": "b4f26da1770d86bcda15118f6363819fcd64214cbb8ace3ccee82f9117e6f144",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/04_Alte_Gaststaettenerlaubnis.docx": "45de16eda4c8f463b4aa18060379c5fb24aefb4a87f4523014510a8e3ae604ec",
+    "testakten/berlin-gewerbe-restaurant-kichererbse/09_Besichtigungsnotiz_Lebensmittel.docx": "eee9b3b1d4135539ec3ea9e25234cd357a21f813aaaeab2a74cefd0beba8e3eb",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/01_Auftrag_Abendfuchs.docx": "c1b9d6fe3149265067f7ebaed1feb0c72dc6bc2bf1a81dcc7b08f2d87d67fd2b",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/14_Mietvertragsnachtrag_Entwurf.docx": "8c9330b5d9360391cccdd42399ba88b368824329f42bc83836a3e1447c4eac9c",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/17_Nachbar_freundlich.eml": "c700085cc368962e238eb468e075595a2f36e59793c2df1988102257106e413b",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/11_Antwort_mit_Sortiment.eml": "b5b56df673b74d56b2cc88baa3afeafa437c9104685ed8e08ed3f7105936a69d",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/02_Gewerbeempfang.docx": "2223bf98db7d6c15d49c0d79b603a06c4cc3af3333ecb623b9542324796082b8",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/03_Hotelkooperation.eml": "f53134ceaad4d0f4bb0f1b7047536ec9538789d7dd302fa00098a4826b0e06ef",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/18_Nachtrag_Fest_offen.eml": "2ca6d3cf267219804d6e0f4125b679b4c6b71295101d46e73d38d68e0debde39",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/05_Kontrollvermerk.docx": "fa9433a6fe6fd4b2dc8e5f216b2d2fcc8e0a2694a13f1a29c4df3b5c8091305c",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/09_Anhoerung_Ladenoeffnung.docx": "9dd45542b5fd139135c1cf0b3975f7bc5548770bbee1578ba9002c1162d211d1",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/15_Amt_Kopie.eml": "80a936206f1bfffd3b402d0876022ce1c67e9fae98c10d87c0c8774df6b932c6",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/12_Veranstalter_Absicht.docx": "37f288a86a6798c19e330ff26209bb0f55a4f4e63375514a35f76f94ae7502e0",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/07_Kassenbon_Abschrift.txt": "718556ebc4fd2cbf48793c9b053c29dc37307d90fd605d0352f36d04646b21fe",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/16_Betriebsnotiz_Wochenplanung.docx": "54a7d102e27bcf6ab279a2b6693a46e1d91c2292ff5bde1f4d4b26da077149bc",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September.docx": "06a9c7ccd5191b298c5a59db172495e364c514e096c50aef4c9942dc97502c7f",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx": "3b38dd61c0404d1d98babd9fe329a7c789a376bef5188c54d7ceddbceace56bd",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/13_Chat_Kaffeeidee.txt": "458cb0cc2313fcb81a39fcd729f2540484cf54373efec2faf93b9dcde9c7d80c",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/10_Samira_fragt_Amt.eml": "2e8d0622fd62b26f8dc626da3a2bc5727cdd232e3962c69858a573e1936180e4",
+    "testakten/berlin-gewerbe-spaeti-abendfuchs/08_Willibald_erklaert.eml": "598b0beca48d9b1780485873b809774b263393a803dace58ce7acc88b085160e"
+  },
+  "review_manifest": "review-manifest.json",
+  "review_manifest_sha256": "40e8b5c7d882656c6928443abcec1dd32db1ce9f28f956f363602656b9fba560",
+  "reviewed_unique_pages": [
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "01_Auftrag_Radiologie.pdf",
+      "pdf_sha256": "06e945b98978565f54686882d4f6303fdb95ae0dfce9e80d47496ea1ca06d626",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/01_Auftrag_Radiologie/page-1.png",
+      "png_sha256": "01ed0aac9d13db00cdcf8fb06e3ca38902718432f948287a688603c2d36e8aab",
+      "text": "1\nDr. Nela Ahrens und Dr. Farid Benali\nRadiologie Spreebogen, Alt-Moabit 149, 10557 Berlin\nRechtsanwältin Jule Morgen\nKanzlei am Kanal, Berlin\nCT-Erweiterung unserer Praxis\n02.10.2026\nSehr geehrte Frau Morgen,\nwir betreiben seit 2021 gemeinsam eine ärztliche Berufsausübungsgemeinschaft mit MRT-Diagnostik. \nNun kommt ein CT hinzu. Der Lieferant möchte am 5. Oktober technisch übergeben, und unser \nPraxismanagement hat erste Patiententermine ab dem 19. Oktober vorgemerkt. Wir möchten die \nInbetriebnahme rechtlich und organisatorisch sauber vorbereiten. Eine Gewerbeanmeldung liegt für \nunsere Heilbehandlung bisher nicht vor; der Geräteverkäufer hat uns dazu widersprüchliche Hinweise \ngegeben.\nDie Anzeige an LAGetSi haben wir am 21. September versandt. Die Behörde hat danach noch \nUnterlagen verlangt. Insbesondere stimmen die Raumbezeichnungen in zwei Dokumenten nicht überein. \nTatsächlich geht es um denselben Raum, der nach dem Umbau intern eine andere Nummer bekam. Ob \nder Sachverständigenbericht schon vollständig genügt, möchten wir prüfen lassen. Wir haben Ihnen den \naktuellen Auszug und die E-Mails beigefügt.\nZunächst soll das CT werktags nur betrieben werden, wenn Farid vor Ort ist. Für einen späteren \nAbendbetrieb wurde unverbindlich eine teleradiologische Zusammenarbeit angefragt. Dazu gibt es noch \nkeinen Vertrag und keinen Genehmigungsbescheid. Bitte behandeln Sie das nicht als bereits bestehende \nOrganisation.\nWir benötigen ein genaues Schreiben an LAGetSi und einen verständlichen Plan für das \nPraxismanagement. Der seit Jahren laufende MRT-Betrieb soll nicht ohne Anlass mit dem CT \ngleichgesetzt werden. Bitte reichen Sie ohne Rücksprache nichts ein. Wir möchten insbesondere \nvermeiden, Patientinnen und Patienten einen Termin zu bestätigen, den wir anschließend absagen \nmüssen.\nMit freundlichen Grüßen\nNela Ahrens und Farid Benali",
+      "pixel_sha256": "d28da9fa99f8e28d20071c49442e4482d757a7e191762e7538264bd88d0e0b5f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "02_Betreiberdarstellung.pdf",
+      "pdf_sha256": "490959f92f78e7c6b1bc76566e5bff0921f863739483c69fdd112efc4f95dbaf",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/02_Betreiberdarstellung/page-1.png",
+      "png_sha256": "4b9a6a6cbc0dea2e1c738b0454dc60db69c934a7af3bf991f28c798a2d64170e",
+      "text": "1\nDr. Nela Ahrens und Dr. Farid Benali\nFür die Betriebsunterlagen\nOrganisation der Berufsausübungsgemeinschaft\n10.09.2026\n1. Rechtlicher und wirtschaftlicher Betrieb\nDr. Nela Ahrens und Dr. Farid Benali führen die Radiologie Spreebogen als rechtsfähige Gesellschaft \nbürgerlichen Rechts. Beide sind approbierte Ärzte und Gesellschafter zu gleichen Teilen. Der \nGesellschaftsvertrag sieht gemeinsame Vertretung bei Anschaffung wesentlicher Geräte und Abschluss \nlangfristiger Verträge vor. Die Behandlungsverträge werden durch die Berufsausübungsgemeinschaft \ngeschlossen. Die Praxisräume und Geräte werden nicht an eine gesonderte Betreibergesellschaft \nvermietet.\n2. Bisherige Tätigkeit\nSeit 2021 bietet die Praxis MRT-Untersuchungen an. Es werden keine offenen radioaktiven Stoffe \nverwendet. Eine nuklearmedizinische Tätigkeit und Strahlentherapie sind nicht vorgesehen. Ein kleiner \nBestand an Ohrstöpseln und Patientenbekleidung wird ausschließlich für die Untersuchungen \nvorgehalten; ein eigenständiger Warenhandel besteht nicht. Das CT wird als zusätzliches diagnostisches \nGerät angeschafft.\n3. Verantwortungszuordnung\nFarid soll die strahlenschutzbezogenen Aufgaben für den CT-Betrieb koordinieren. Der Entwurf der \ninternen Zuordnung wurde noch nicht von beiden Gesellschaftern unterschrieben. Die genaue Mitteilung \nan die Behörde und die erforderlichen Bestellungen sollen nach Beratung abschließend erstellt werden. \nNela übernimmt weiterhin das allgemeine Praxismanagement und den Schwerpunkt MRT. Beide bleiben \nin die wesentlichen Entscheidungen eingebunden.\n4. Personal und Zeiten\nDie Praxis beschäftigt drei medizinisch-technische Mitarbeiterinnen sowie zwei Kräfte an der \nAnmeldung. Der erste CT-Dienstplan ist noch vorläufig. Urlaub und Vertretung für Farid im November \nsind nicht geklärt. Der beabsichtigte Start am 19. Oktober ist eine Planungsannahme und keine \ngegenüber Patienten verbindlich abgegebene Zusage. Eine spätere Ausweitung der Betriebszeiten wird \ngesondert vorbereitet.",
+      "pixel_sha256": "6e1ad97dd2f7558b7f672f980d797ee15ac5f14fb3f0927755aa17960afd142a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "03_Lieferant_Startsignal.pdf",
+      "pdf_sha256": "64f86862504593c54d83bb581b8d6a6cf8243f8c7a1a88299fd0872355f41cc8",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/03_Lieferant_Startsignal/page-1.png",
+      "png_sha256": "49c74a22490f5bc05bd8381057b927b2ce353d845e18e810ab390fa45489c36c",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 03_Lieferant_Startsignal.eml\nVon\nBildwerk Medizintechnik <vertrieb@bildwerk.example>\nAn\nRadiologie Spreebogen <organisation@radiologie-spreebogen.example>\nDatum\nMon, 14 Sep 2026 13:08:00 +0200\nBetreff\nIhr CT ist bald startklar\nSehr geehrte Frau Dr. Ahrens,\ndie technische Übergabe ist für den 5. Oktober vorgesehen. Unser Vertrieb sagt gelegentlich\n„betriebsbereit“, meint damit aber unsere Installation und Einweisung. Die behördlichen und medizinischen\nVoraussetzungen prüfen wir für Sie nicht. Bitte stimmen Sie Patiententermine mit Ihren Fachleuten ab. Für\neinen Gewerbeschein kann ich Ihnen leider keine belastbare Auskunft geben; meine vorige Nachricht war\ninsoweit zu pauschal.\nFreundliche Grüße\nBenno Krull\n",
+      "pixel_sha256": "8dfa01e4df713dc0e59b23f856078e27dd1bab001d11a31eaa8e2699175b4d4a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "04_Geraete_und_Raeume.pdf",
+      "pdf_sha256": "f88eb5df5965d9dbd6da4d855d71f7610ce3fb9b7b85946af5b7a4b82925d0ba",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/04_Geraete_und_Raeume/page-1.png",
+      "png_sha256": "78a3240fcc468ebf237e7aed591d0c5a8831577164dfe56a1906deddf605521e",
+      "text": "1\nPraxismanagerin Malika Roth\nRadiologie Spreebogen\nDr. Nela Ahrens und Dr. Farid Benali\nGerätebestand und Raumbezeichnungen\n16.09.2026\n1. Vorhandenes MRT\nDas MRT-Gerät MR-SB-01 steht seit 2021 im Untersuchungsraum am Ende des Flurs. An diesem Raum \nund am Gerät sind im Zusammenhang mit der CT-Erweiterung keine Umbauten vorgesehen. Der Zugang \nerfolgt weiterhin durch den kontrollierten Bereich. Die vorhandene Geräteakte, Einweisungsunterlagen \nund Wartungsnachweise liegen im Technikschrank. Die Patientenanmeldung wird von beiden Bereichen \ngemeinsam genutzt.\n2. Neues CT\nDas CT-Gerät CT-SB-02 soll im ehemaligen Archivraum aufgestellt werden. In den Planunterlagen des \nVermieters heißt dieser Raum „Raum 2“. Nach unserer internen Umnummerierung im Sommer \nverwenden wir die Bezeichnung „Raum 3“. Es ist derselbe Raum gegenüber dem Personalzimmer. Die \nSeriennummer des endgültig gelieferten Geräts lautet BW-CT-260914. Das Angebot aus Mai nannte \nnoch eine vorläufige Projektnummer.\n3. Bauliche Arbeiten und Unterlagen\nDie Abschirmung wurde nach dem Plan der Fachfirma eingebaut. Der abschließende Nachweis für die \nTür war bei Erstellung dieser Übersicht noch offen. Eine bloße Rechnung der Baufirma soll nicht als \nvollständiger technischer Nachweis abgelegt werden. Die vorhandene bauaufsichtliche Korrespondenz \nund die Zustimmung des Vermieters befinden sich im Projektordner. Ob der gesamte Vorgang \nabgeschlossen ist, wird noch mit der Planerin geklärt.\n4. Nicht geplante Anwendungen\nOffene radioaktive Stoffe, nuklearmedizinische Diagnostik und therapeutische Bestrahlung sind nicht \nTeil dieses Projekts. Der CT-Betrieb soll zunächst ausschließlich während persönlicher Anwesenheit von \nFarid stattfinden. Eine Anfrage wegen späterer Teleradiologie liegt lediglich als E-Mail vor. Bitte \nverwenden Sie diese Übersicht nur gemeinsam mit den aktuellen technischen Nachweisen.",
+      "pixel_sha256": "c7acaa779436bb41e4ac9c050ef088c39bbf37973cf6033ebc3679b069bf26f5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "05_Personal_Fachkunde.pdf",
+      "pdf_sha256": "bffb756b1834ad1836dc3198873a35cf76f09cc8178fbaa3e91e4443a4a8c539",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/05_Personal_Fachkunde/page-1.png",
+      "png_sha256": "9cb70a0626d6203f1e0e0a8047192a3325c198580ec1dfe571d2d8f05e5972d0",
+      "text": "1\nDr. Farid Benali\nInterne Projektakte CT\nNachweise und Einsatz für den CT-Start\n18.09.2026\n1. Ärztliche Nachweise\nMeine Fachkundebescheinigung für die vorgesehenen diagnostischen CT-Anwendungen liegt in der \nPersonalakte. Die letzte Aktualisierung habe ich im Mai 2025 abgeschlossen. Die Kopien wurden für die \nAnzeige eingescannt, allerdings ist auf einer Seite der Rand abgeschnitten. Eine vollständige Fassung \nwird erneut bereitgestellt. Nelas Fachkundenachweis betrifft nicht ohne Weiteres jede von mir geplante \nCT-Anwendung. Sie wird den CT-Betrieb daher zunächst nicht allein vertreten.\n2. Medizinisch-technisches Personal\nMalika hat für zwei Mitarbeiterinnen die vorhandenen Berufs- und Kenntnisnachweise \nzusammengestellt. Bei der dritten Kollegin ist die Aktualisierungsbescheinigung noch beim früheren \nArbeitgeber angefordert. Bis zur Klärung wird sie nicht allein am CT eingesetzt. Der genaue Einsatzplan \nsoll nach Vorliegen der Einweisung und der technischen Übergabe festgelegt werden. Ein im Kalender \neingetragener Dienst ist noch keine Bestätigung, dass sämtliche fachlichen Voraussetzungen bereits \ngeprüft sind.\n3. Verantwortung und Vertretung\nIch soll die strahlenschutzbezogene Organisation führen. Der Umfang meiner Befugnisse, die Vertretung \nund die erforderliche Anzeige unserer Zuordnung werden mit Nela abgestimmt. Die Dokumente sollen \ndie tatsächliche Gesellschaftsorganisation wiedergeben. Eine für November geplante Fortbildungsreise \nist bei der Betriebsplanung zu berücksichtigen. Für diesen Zeitraum ist noch kein CT-Vertreter \nverbindlich zugesagt.\n4. Geplante Anwendungszeiten\nWir starten, wenn die Voraussetzungen vorliegen, montags bis freitags von 9 bis 16 Uhr. Ein \nAbendbetrieb wird nicht allein aufgrund meiner telefonischen Erreichbarkeit aufgenommen. Die Anfrage \nan einen teleradiologischen Dienst betrifft eine spätere Erweiterung. Patiententermine werden zunächst \nnur vorgemerkt und erst nach der internen Freigabe bestätigt. Ich bitte das Praxisteam, diese \nUnterscheidung bei der Terminvergabe ausdrücklich zu verwenden.",
+      "pixel_sha256": "e226d70bdd8d0d1b5fcd10d27b282f26c0b579b36bb67c91f099497eca583a36",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "06_Startplan_und_Kosten.pdf",
+      "pdf_sha256": "749a99d1d4e8929db4c301b0c82c1b1ed00504c4190aac2adbddd8010ff73035",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/06_Startplan_und_Kosten/page-1.png",
+      "png_sha256": "36e569d5546b7349d69509c3f195cd1d4ad6c5249c9d274745e3d498f89afeb0",
+      "text": "Position Beauftragt EUR Bezahlt EUR Offen EUR Stand\nCT-Anschaffung 245,000.00 196,000.00 49,000.00 Rest bei technischer Uebergabe\nAbschirmung 18,500.00 15,000.00 3,500.00 Tuernachweis ausstehend\nSachverstaendige 2,100.00 0.00 2,100.00 Nachtermin vorgesehen\nEinweisung 1,800.00 0.00 1,800.00 Termin 5. Oktober\nGesamt 267,400.00 211,000.00 56,400.00 Keine Betriebsfreigabe aus Zahlung",
+      "pixel_sha256": "6ac29dfbb9afa1ad284523dfef62339209a9bb370a4eabdb1aca168f27e6628b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "06_Startplan_und_Kosten.pdf",
+      "pdf_sha256": "749a99d1d4e8929db4c301b0c82c1b1ed00504c4190aac2adbddd8010ff73035",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/06_Startplan_und_Kosten/page-2.png",
+      "png_sha256": "fb7f0090ea587e6dd7120d133678ead0549d225c9e49dd2dbedfe3b8b661c4bd",
+      "text": "Unterlage Erforderlich intern Vorhanden Differenz Hinweis\nVollstaendige Fachkundekopie 1 0 1 Seite abgeschnitten; neu scannen\nAbschluss Tuernachweis 1 0 1 Nachmessung angefragt\nBetreiberzuordnung unterschrieben 1 0 1 Entwurf liegt vor\nGeraeteidentifikation 1 1 0 Seriennummer steht fest\nOffene Unterlagen 4 1 3 Interne Liste, keine Vollstaendigkeitsgarantie",
+      "pixel_sha256": "a6b552e1b2d63c7aa2d9ea071eb9cecea45ebd55005c559de3c361dec2f2df16",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "07_Terminnotizen.pdf",
+      "pdf_sha256": "0c6a82fc7524ba392922562504a553ab774b61298b3f055604774ebf6ffdbc47",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/07_Terminnotizen/page-1.png",
+      "png_sha256": "3cdfe43eb01f3695aa491bcb6a571c4fa443b92ecda3d97f4a902d672943b0e1",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 07_Terminnotizen.txt\nProjekttermine, Stand 21. September\n21.09.2026\n21.09.2026 Anzeige versandt; Unterlagen noch nicht alle abschließend geprüft.\n24.09.2026 Geplante Erstprüfung der Sachverständigen.\n28.09.2026 Rückfrage wegen Abschirmung der Tür.\n02.10.2026 Beratungstermin.\n05.10.2026 Technische Übergabe und Geräteeinweisung.\n06.10.2026 Frühester angebotener Nachtermin der Sachverständigen.\n19.10.2026 Erste Patiententermine nur vorgemerkt, nicht bestätigt.\n02.–06.11.2026 Farid auf Fortbildung; CT-Vertretung noch offen.\nMalika: Die Datumsreihe ist unsere Planung. Sie enthält keine behördliche Bestätigung eines Starttags.\n",
+      "pixel_sha256": "d9e1094cc1a0e93128b38c8e53987ec7997e05ba070aea4304c4532754a8ad04",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "08_Anzeige_Nachreichung.pdf",
+      "pdf_sha256": "1282fc6d97fe0a35a64dfcc8b9b77cf95ed570fd867c752be0f8f01a0e3e6eea",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/08_Anzeige_Nachreichung/page-1.png",
+      "png_sha256": "cc5b5342fdecf9d4aea8e031e8ce578e03d20777676383e815f0e16ac37cdcc6",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 08_Anzeige_Nachreichung.eml\nVon\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nAn\nLAGetSi Strahlenschutz <strahlenschutz@lagetsi-kontakt.example>\nDatum\nTue, 22 Sep 2026 10:44:00 +0200\nBetreff\nCT-SB-02: ergänzende Gerätedaten\nSehr geehrte Damen und Herren,\nzu unserer gestern übersandten Anzeige reichen wir die aktuelle Geräte- und Raumübersicht nach. Die\nProjektkostentabelle füge ich für die zeitliche Abstimmung bei. Der Raum trägt intern jetzt die Nummer 3\nund im alten Plan die Nummer 2. Wir klären die eindeutige Bezeichnung im technischen Nachweis. Der\nabschließende Bericht der Sachverständigen liegt noch nicht vor.\nMit freundlichen Grüßen\nFarid Benali\n",
+      "pixel_sha256": "6078b802d17dd456759a8770659803a2b2a3e4ed000ba5d2fa93087b23451f22",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "09_LAGetSi_Nachforderung.pdf",
+      "pdf_sha256": "dfb55276a4b48f0c14079fd6908c044f9e87b31a871738db8de8696fd7a4ec40",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/09_LAGetSi_Nachforderung/page-1.png",
+      "png_sha256": "2455cd1a0e3a1e1cea92ff734362f850d2a8866cb1b4cb146a79883969e16b3c",
+      "text": "1\nLandesamt für Arbeitsschutz, Gesundheitsschutz und technische Sicherheit Berlin\nFachbereich Strahlenschutz\nRadiologie Spreebogen\nDr. Nela Ahrens und Dr. Farid Benali\nNachweise zum angezeigten CT-Betrieb\n25.09.2026 · Str-26-CT-218\nSehr geehrte Frau Dr. Ahrens, sehr geehrter Herr Dr. Benali,\nIhre Anzeige vom 21.09.2026 und die ergänzende Nachricht vom 22.09.2026 sind eingegangen. Für die \nweitere Bearbeitung benötigen wir eine eindeutige Zuordnung von Betreiber, Röntgeneinrichtung und \ngeprüftem Raum. Bitte stimmen Sie die Bezeichnungen in Anzeige, Raumplan und \nSachverständigenunterlagen ab. In den bislang vorliegenden Unterlagen wird sowohl Raum 2 als auch \nRaum 3 genannt.\nDie Bescheinigung einschließlich des vollständigen Prüfberichts eines behördlich bestimmten \nSachverständigen ist nachzureichen. Aus dem derzeitigen Projektvermerk ergibt sich, dass die \nabschließende Prüfung der Türabschirmung noch offen ist. Außerdem bitten wir um vollständige lesbare \nKopien der einschlägigen Fachkunde- und Aktualisierungsnachweise und um die abschließenden \nUnterlagen zur Wahrnehmung der strahlenschutzrechtlichen Aufgaben bei Ihrer Gesellschaft.\nBitte erläutern Sie, ob ein teleradiologischer Betrieb beabsichtigt ist. Ihre Anzeige beschreibt ärztliche \nAnwesenheit vor Ort; eine beigefügte Terminnachricht erwähnt dagegen eine mögliche \nAbendversorgung durch einen externen Dienst. Soll diese lediglich später geprüft werden, teilen Sie dies \nausdrücklich mit. Der beabsichtigte Umfang ist für die Einordnung des Verfahrens wesentlich.\nDieses Schreiben bestätigt den Eingang, nicht das Vorliegen sämtlicher Nachweise. Eine vorzeitige \npositive Mitteilung zur Inbetriebnahme wird hiermit nicht erteilt. Bitte reichen Sie die genannten \nUnterlagen gebündelt ein und nennen Sie bei weiteren Schreiben das Geschäftszeichen. Ein bereits \nvereinbarter Patiententermin ersetzt die erforderlichen Voraussetzungen nicht.\nIm Auftrag\nAlma Seifert",
+      "pixel_sha256": "a21f5dd760da8361a80ee5aecd3d138c0ba298890cb0b87b4201234c956b601e",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "10_Teleradiologie_Anfrage.pdf",
+      "pdf_sha256": "b7ba6b8f9cc5b1f5206ba6b254d9feb86767e13bd8eb57faf9a2e4cf9b265e4b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/10_Teleradiologie_Anfrage/page-1.png",
+      "png_sha256": "0e8c5f18c6901a32671b7235b9549bfc67eb7191791c2c3d1a287c7ad66f543b",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 10_Teleradiologie_Anfrage.eml\nVon\nFernblick Radiologie <koordination@fernblick.example>\nAn\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nDatum\nSat, 26 Sep 2026 15:16:00 +0200\nBetreff\nAbendbefundung ab November?\nLieber Farid,\nwir können über eine spätere Zusammenarbeit sprechen. Bislang gibt es weder eine vertragliche Zusage\nnoch ein fertiges Versorgungskonzept für euren Standort. Bitte stellt unsere Erreichbarkeit nicht als bereits\ngenehmigte Teleradiologie dar. Wir müssten Geräte, Personal vor Ort, Zeiten und die einschlägigen\nAnforderungen gemeinsam klären. Für den Oktoberstart planen wir keine Dienste ein.\nViele Grüße\nDr. Jolanda Winter\n",
+      "pixel_sha256": "0755dbf1f3d9b664fb65325299f04b57ffad53331b523e0addde5924b20212f0",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "11_Planerin_Raum.pdf",
+      "pdf_sha256": "17c8df2dfdc4248ef7acfcfdbf045fd3fbd6333647c2d08d85f123119ad29004",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/11_Planerin_Raum/page-1.png",
+      "png_sha256": "da42d24ac01bd4a5f387f2dd2b9927dd2a805101e0534545e1a5eea3fa84a8a7",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 11_Planerin_Raum.eml\nVon\nPlanungsbüro Raumfaden <planung@raumfaden.example>\nAn\nMalika Roth <organisation@radiologie-spreebogen.example>\nDatum\nMon, 28 Sep 2026 09:50:00 +0200\nBetreff\nRaum 2 ist jetzt intern Raum 3\nLiebe Frau Roth,\nich bestätige: Der frühere Archivraum gegenüber dem Personalzimmer ist im Vermieterplan Raum 2. Eure\ninterne Nummer 3 bezeichnet denselben Raum. Ich ergänze den Plan um beide Bezeichnungen und die\nGerätenummer. Das ersetzt nicht die offene technische Nachprüfung der Tür. Die bauaufsichtliche\nRückfrage zur geänderten Nutzung bearbeite ich ebenfalls noch; eine abschließende Rückmeldung habe\nich heute nicht erhalten.\nBeste Grüße\nHedi Krause\n",
+      "pixel_sha256": "f672ab6da1ae534c52c9ac8402a452791a59e7ab642d2ea929153a88d400c6dc",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "12_Interne_MRT_Organisation.pdf",
+      "pdf_sha256": "239757eff91f4676c60527530ca8e99c94c69e84cd8ec46e7499ec56fac37a8f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/12_Interne_MRT_Organisation/page-1.png",
+      "png_sha256": "ed28e62d996c801a73a2652bdb7fcb9271d7e166676e1d5aa4f92037fccce810",
+      "text": "1\nDr. Nela Ahrens\nPraxisteam Radiologie Spreebogen\nMRT-Betrieb während der CT-Erweiterung\n29.09.2026\n1. Bestehender Untersuchungsbereich\nDer MRT-Bereich wird während der CT-Erweiterung in seiner bisherigen räumlichen und \norganisatorischen Form weitergeführt. Das MRT-Gerät wird nicht versetzt. Die dafür vorgesehenen \nKontrollen und Wartungstermine bleiben bestehen. Der CT-Montagebereich ist vom Patientenweg durch \neine geschlossene Baustellentür getrennt. Die Anmeldung informiert Patienten über mögliche kurze \nWartezeiten, ohne technische Arbeiten als abgeschlossen darzustellen.\n2. Zugang und Sicherheit\nDie bestehenden Regeln zum kontrollierten Zugang in den MRT-Bereich gelten unverändert. Monteure \ndürfen diesen Bereich nicht ohne Begleitung betreten. Werkzeuge, Transportwagen und andere \nGegenstände werden nicht aus dem CT-Bereich in den MRT-Raum gebracht. Vor einer Untersuchung \nwerden die hierfür vorgesehenen Patientenabklärungen durchgeführt. Das Team verwendet die aktuellen \ninternen Unterlagen und Herstellerhinweise; diese Notiz ersetzt keine fachliche Unterweisung.\n3. Gemeinsame Bereiche\nAnmeldung, Personalraum und ein Teil des Flurs werden gemeinsam genutzt. Falls die Baustelle einen \nRettungsweg oder den sicheren Zugang beeinträchtigt, wird die Arbeit unterbrochen und mit der \nzuständigen Leitung abgestimmt. Die bloße Trennung der Geräte bedeutet nicht, dass gemeinsame \norganisatorische Probleme unbeachtlich wären. Hinweise auf Stolperstellen oder offene Türen sind \nunmittelbar an Malika zu melden.\n4. Kommunikation mit Patienten\nMRT-Termine werden wie bisher bestätigt, soweit die sichere Durchführung gewährleistet ist. CT-\nTermine bleiben zunächst Vormerkungen. Bitte sagt nicht, beide Geräte seien bereits gemeinsam \nfreigegeben. Fragen zur späteren CT-Anwendung beantwortet Farid. Bei Unsicherheit über die \ntatsächliche Sicherheit eines Ablaufs wird die Untersuchung nicht aus Zeitdruck begonnen. Diese Notiz \nwird nach Abschluss der Montage erneut mit dem Team besprochen.",
+      "pixel_sha256": "29e0e5bf7dc04ff1b2f0e671bf504570f113eac592f3e4483e067eca92c31a1d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "13_Pruefbericht_Auszug.pdf",
+      "pdf_sha256": "58c3f49a2055a490d7355c37aa86fa9e31ef06072af1ec34e5fbf1a4d385517f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/13_Pruefbericht_Auszug/page-1.png",
+      "png_sha256": "651cbde2c3d968d2d2dee3cf25f666f0c31d7cff4feb056b136ad6ec857f49d6",
+      "text": "1\nSachverständigenbüro Strahlklar\nDiplom-Physikerin Gesine Pohl\nRadiologie Spreebogen\nZwischenstand der Sachverständigenprüfung CT-SB-02\n30.09.2026\nSehr geehrte Frau Dr. Ahrens, sehr geehrter Herr Dr. Benali,\ndieser Zwischenbericht fasst den Termin vom 24.09.2026 und die nachfolgende Unterlagensichtung \nzusammen. Geprüft wurde die für das CT-Gerät mit Seriennummer BW-CT-260914 vorgesehene \nInstallation im ehemaligen Archivraum. Der Raum war im Ausgangsplan als Raum 2 und in der \nPraxisbeschriftung als Raum 3 bezeichnet. Eine eindeutige gemeinsame Bezeichnung wird in den \nabschließenden Bericht aufgenommen.\nDie vorgelegten Planunterlagen zur Abschirmung wurden eingesehen. Für den Türbereich fehlt noch die \nabschließende Bestätigung der Ausführung. Eine ergänzende Messung ist vorgesehen. Solange dieser \nPunkt offen ist, stellen wir keine uneingeschränkte abschließende Bescheinigung über den vorgesehenen \nBetrieb aus. Das vorliegende Dokument ist ein Zwischenstand und darf nicht als vollständiger \nAbschlussbericht bezeichnet werden.\nDie vom Hersteller durchzuführende technische Übergabe und Geräteeinweisung erfolgen nach dessen \nMitteilung am 05.10.2026. Diese Leistungen sind von unserem Auftrag zu unterscheiden. Ebenfalls nicht \nGegenstand dieses Zwischenberichts sind die gewerberechtliche Einordnung der Praxis, eine vollständige \nPrüfung der bauaufsichtlichen Nutzung oder eine Bewertung eines späteren teleradiologischen Betriebs. \nDer bislang beschriebene Zweck ist diagnostisches CT bei ärztlicher Anwesenheit vor Ort.\nWir können am 06.10.2026 einen Nachtermin anbieten, sofern die erforderlichen Unterlagen bis zum \nVortag vorliegen. Bitte bestätigen Sie den Termin und nennen Sie eine anwesende verantwortliche \nPerson. Nach Abschluss erhalten Sie eine gesonderte abschließende Dokumentation. Eine Aussage über \ndie behördliche Verfahrensentscheidung ist damit nicht verbunden.\nMit freundlichen Grüßen\nGesine Pohl",
+      "pixel_sha256": "952ebd02179da27fe65d53b2d427fae5cc513480ffea95c72562456765681400",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "14_Praxischat.pdf",
+      "pdf_sha256": "4cbb070b5631d47b9f19657317ae6b028fa8ac4a0a829aac9d0ceb0ddd7056e8",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/14_Praxischat/page-1.png",
+      "png_sha256": "8fd788d79bebd01d4cb60ca1bd94546a8fb538c81c89e38d3609cf7fe011f2ed",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 14_Praxischat.txt\nChat zur Terminvergabe\n30.09.2026\n30.09.2026 12:05 Malika: Darf ich den 19. Oktober schon fest bestätigen?\n30.09.2026 12:08 Farid: Bitte noch nicht. Technische Übergabe ist nicht das ganze Verfahren.\n30.09.2026 12:11 Nela: MRT bleibt separat geplant, solange die Wege sicher sind. Bitte nicht alle Termine\nabsagen.\n30.09.2026 12:14 Malika: Auf einer Berliner Seite stehen vier Wochen. Im Gesetz finde ich jetzt zwei. Ich\nlege beide Ausdrucke zur Beratung.\n30.09.2026 12:18 Farid: Genau deshalb lassen wir den Ablauf prüfen. Der Türnachweis und die\nvollständigen Kopien fehlen ohnehin noch.\n30.09.2026 12:21 Nela: Die Abendkooperation ist nur eine Idee für später. Das muss im Schreiben klar\nwerden.\n",
+      "pixel_sha256": "c5267f58a9e6ce48901854641502638e78d6aebea445ccd70c6e5bfadae382aa",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "15_Sachverstaendige_Nachtrag.pdf",
+      "pdf_sha256": "d375793f10deb133026bb2b88ee464198542cb00aba8455ada10aa4f12a13695",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/15_Sachverstaendige_Nachtrag/page-1.png",
+      "png_sha256": "0bfbc7ba28489b509a5688b593e86e183721917cdc0523e251f2c13291d78041",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 15_Sachverstaendige_Nachtrag.eml\nVon\nGesine Pohl <post@strahlklar.example>\nAn\nRadiologie Spreebogen <organisation@radiologie-spreebogen.example>\nDatum\nThu, 01 Oct 2026 08:54:00 +0200\nBetreff\nZwischenbericht und Nachtermin\nSehr geehrte Damen und Herren,\nanbei erhalten Sie den Zwischenbericht vom 30. September. Der angebotene Nachtermin am 6. Oktober\nbleibt bis morgen reserviert. Bitte übersenden Sie zuvor die Unterlage zur Türabschirmung und den Plan\nmit eindeutiger Raumbezeichnung. Wir stellen die abschließende Bescheinigung erst nach Prüfung der\noffenen Punkte aus.\nMit freundlichen Grüßen\nGesine Pohl\n",
+      "pixel_sha256": "3723f0a7597e20627755bfb50e7cb46e5956247455cf76e03f132773670dbd0c",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "16_Verantwortungszuordnung_Entwurf.pdf",
+      "pdf_sha256": "2c67aaa61cff8a9e69557412c3a6d841fa2d133454605c3d12c898de80a35b9a",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/16_Verantwortungszuordnung_Entwurf/page-1.png",
+      "png_sha256": "4395b7c4d9991de3bb98f22c009c279d9951b2d00a4f8c904c522ea7a9fdd75d",
+      "text": "1\nDr. Nela Ahrens und Dr. Farid Benali\nInterne Abstimmung, noch nicht unterzeichnet\nEntwurf zur strahlenschutzbezogenen Organisation\n01.10.2026\n1. Gegenstand des Entwurfs\nDieser Entwurf betrifft ausschließlich den geplanten diagnostischen CT-Betrieb der \nBerufsausübungsgemeinschaft Radiologie Spreebogen. Betreiber soll die rechtsfähige Gesellschaft \nbürgerlichen Rechts der beiden unterzeichnenden Gesellschafter sein. Die genaue öffentlich-rechtliche \nMitteilung und die erforderlichen Bestellungen werden nach Prüfung der gesetzlichen Anforderungen \ngesondert fertiggestellt. Der Entwurf wird nicht als bereits wirksame Bestellung an die Behörde \nübermittelt.\n2. Geplante Aufgabenwahrnehmung\nFarid soll die strahlenschutzbezogenen Aufgaben im täglichen Betrieb koordinieren und die \nerforderlichen Unterlagen aktuell halten. Er soll die Befugnis erhalten, den CT-Betrieb bei fehlenden \nVoraussetzungen zu unterbrechen. Nela unterstützt die Personal- und Terminorganisation. Die \ngesellschaftsrechtlichen Entscheidungs- und Vertretungsregeln werden durch diesen Entwurf noch nicht \ngeändert. Die verbleibende Verantwortung beider Gesellschafter ist bei der endgültigen Fassung \nausdrücklich zu berücksichtigen.\n3. Noch offene Punkte\nZu klären sind die genaue Abgrenzung zwischen Aufgaben des Strahlenschutzverantwortlichen und einer \nerforderlichen Bestellung von Strahlenschutzbeauftragten, die Vertretung im Urlaub, der räumliche und \nsachliche Aufgabenbereich sowie die Mitteilung an LAGetSi. Es wird keine fachliche Qualifikation einer \nPerson angenommen, die durch die vorhandenen Bescheinigungen nicht gedeckt ist. Die vollständigen \nFachkundenachweise werden der endgültigen Fassung zugrunde gelegt.\n4. Weiteres Vorgehen\nNach der Beratung ergänzen die Gesellschafter die offenen Regelungen und zeichnen die erforderlichen \nDokumente gemeinsam. Erst danach erhält das Praxismanagement die verbindliche \nOrganisationsfassung. Ein teleradiologischer Abendbetrieb ist nicht Gegenstand dieses Entwurfs. Dieser \nwird gegebenenfalls später mit eigener Verfahrens- und Personalplanung vorbereitet.\nKeine Unterschriften geleistet.",
+      "pixel_sha256": "3a53283057e8f15dc4122532588a1e79b6d008c4ed7430b3fcf236864dd3536a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "17_Fachkundekopie_folgt.pdf",
+      "pdf_sha256": "103574b66069304dea242a2b57645f0a55ef8d72dd8275a672a6f604d67d9da3",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/17_Fachkundekopie_folgt/page-1.png",
+      "png_sha256": "9f7364313a46ed78c80614221f2614b32fc118d28834cead119634352ce771e2",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 17_Fachkundekopie_folgt.eml\nVon\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nThu, 01 Oct 2026 19:11:00 +0200\nBetreff\nVollständige Kopie morgen\nSehr geehrte Frau Morgen,\ndie vollständige Fachkundekopie liegt im Original in der Praxis. Ich scanne sie morgen neu. Bitte\nschreiben Sie nicht, dass sie Ihrer heutigen Nachricht bereits beigefügt wäre. Der Zwischenbericht der\nSachverständigen ist tatsächlich noch kein Abschluss. Für die Teleradiologie haben wir keinerlei feste\nZusage abgegeben.\nMit freundlichen Grüßen\nFarid Benali\n",
+      "pixel_sha256": "d96b07b650ccbd246076c0bf356f1da41b7ff51eb0a87960e35da71c457d4f08",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "18_Planung_bleibt_vorlaeufig.pdf",
+      "pdf_sha256": "e401cac912eb23a3fc957b19b90858617176de70a237ec0e03727894252a98c1",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/18_Planung_bleibt_vorlaeufig/page-1.png",
+      "png_sha256": "bcb4827188fae1971ea641060094ecf2506310bab90e392342108c96aea7ea8b",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nDatei: 18_Planung_bleibt_vorlaeufig.eml\nVon\nMalika Roth <organisation@radiologie-spreebogen.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 09:03:00 +0200\nBetreff\nTerminplan und Patienteninformation\nSehr geehrte Frau Morgen,\nwir haben zwölf CT-Termine für die Woche ab 19. Oktober nur vorgemerkt. Die Patienten wissen, dass\neine Bestätigung folgt. Die Kostenübersicht enthält bereits bezahlte Abschläge, aber keine behördliche\nFreigabe. Bitte geben Sie uns nach Ihrer Prüfung einen Plan, welche Unterlage welchen Schritt auslöst.\nDas wäre für die Organisation hilfreicher als ein pauschales Ja oder Nein zur ganzen Praxis.\nFreundliche Grüße\nMalika Roth\n",
+      "pixel_sha256": "67b7d5beeea7f9f3ceb3f0947a03b0b9fddff72ff6c4b913702a367ebe6f611e",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "01_Auftrag_Kichererbse.pdf",
+      "pdf_sha256": "0dd92d4a803de4e811903eac3be6a29407a79eb5902c18e10a6d88eef57c031f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/01_Auftrag_Kichererbse/page-1.png",
+      "png_sha256": "a6da4f30759b48f24d22f658d0be0615dedeb53dfe60fae2f3c2f0c282283f84",
+      "text": "1\nMina Yilmaz und Ottokar Kühn\nKichererbse Berlin GmbH, Pflügerstraße 81, 12047 Berlin\nRechtsanwältin Jule Morgen\nKanzlei am Kanal, Berlin\nUnsere Eröffnung am 16. Oktober\n02.10.2026\nSehr geehrte Frau Morgen,\nwir übernehmen das bisherige Café von Herrn Fritz Fröhlich und möchten am 16. Oktober als \nKichererbse eröffnen. Mina kümmert sich um Küche und Einkauf, Ottokar um Service und die \nUnterlagen. Wir sind beide Geschäftsführer der Kichererbse Berlin GmbH und vertreten die Gesellschaft \neinzeln. Unsere Registerunterlagen haben wir dem Ordnungsamt bereits geschickt.\nHerr Fröhlich meint, mit seiner alten Konzession und unserer Gewerbeanmeldung könnten wir sofort \nloslegen. Die Sachbearbeiterin hat dagegen noch Unterlagen für eine vorläufige Erlaubnis verlangt. Wir \nhaben den Weinabend schon in unserem Freundeskreis angekündigt, jedoch noch keine Eintrittskarten \nverkauft. Auf der Internetseite steht bisher nur „Eröffnung im Oktober“.\nZusätzlich möchten wir sechs kleine Tische vor das Haus stellen. Herr Fröhlich hatte zwei; seine \nErlaubnis dafür haben wir nicht gefunden. Der Keller soll nur Vorratslager bleiben. Die Kühlvitrine war \nbei einer Besichtigung zu warm. Der Techniker hat sie inzwischen repariert, und die Lebensmittel aus \nder betroffenen Lieferung wurden zurückgegeben. Die Nachweise liegen bei.\nBitte erstellen Sie die jetzt nötige Antwort an das Ordnungsamt und sagen Sie uns verständlich, welche \nSchritte vor welchem Teil der Eröffnung fehlen. Wir können zunächst ohne Wein und ohne \nGehwegtische öffnen, wenn das rechtlich und praktisch trägt. Bitte reichen Sie noch nichts ein; wir \nmöchten den Entwurf kurz gemeinsam lesen. Wir möchten mit dem Amt und den Nachbarn freundlich \nzusammenarbeiten.\nMit freundlichen Grüßen\nMina Yilmaz und Ottokar Kühn",
+      "pixel_sha256": "491ee4fb242a340c44543d518c0d3abc516fb9eeedf881878a20c65ba3a8e5a9",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "02_Uebernahmevereinbarung.pdf",
+      "pdf_sha256": "58ed538c228f626501524d64efb53afcaa88a9c6822919f18dc92b930e555911",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/02_Uebernahmevereinbarung/page-1.png",
+      "png_sha256": "c716e8765e4d0d29f746911119838d7a2069104c1d21cb0471a2b7f7187a7b91",
+      "text": "1\nFritz Fröhlich, bisheriger Betreiber des Café Feierabend\nKichererbse Berlin GmbH, vertreten durch Mina Yilmaz\nVereinbarung über Inventar und Betriebsübergang\n10.09.2026\n1. Gegenstand der Übergabe\nFritz Fröhlich übergibt der Kichererbse Berlin GmbH zum 01.10.2026 das im Übergabeprotokoll \nbezeichnete Inventar des Café Feierabend in der Pflügerstraße 81. Der Kaufpreis beträgt 18.000 EUR \nund ist am Übergabetag fällig. Er umfasst Theke, Kaffeemaschine, Kühlvitrine, Tische und Stühle. Nicht \numfasst sind private Gegenstände des Verkäufers und dessen laufende Lieferverträge.\n2. Betrieb und Räume\nDer Verkäufer hat den Cafébetrieb bis zum 20.09.2026 geführt. Danach bleibt das Lokal wegen \nReinigung und Malerarbeiten geschlossen. Der Mietvertrag der Käuferin beginnt am 01.10.2026. Der \nGastraum und die Küche werden in ihrer Lage nicht verändert. Der Keller bleibt Lager. Der Verkäufer \nübergibt die bei ihm vorhandenen Behördenunterlagen in einem Ordner.\n3. Genehmigungen und Unterlagen\nDer Verkäufer erklärt, dass für seinen bisherigen Betrieb eine Gaststättenerlaubnis vorliegt. Die Käuferin \nwird die für ihren eigenen Betrieb erforderlichen Anzeigen und Anträge selbst veranlassen. Eine Zusage, \ndass eine Behörde der Käuferin eine bestimmte Erlaubnis erteilt oder die geplante Erweiterung des \nAußenbereichs zulässt, wird nicht abgegeben. Der Verkäufer unterstützt sie durch Auskunft über die \nbisherige Nutzung.\n4. Kühlvitrine und Übergabe\nDie Vitrine zeigt zeitweise schwankende Temperaturen. Die Käuferin veranlasst vor Nutzung eine \ntechnische Prüfung; der Verkäufer übernimmt nach Vorlage der Rechnung bis zu 450 EUR der \nReparaturkosten. Die Zahlung des Inventarkaufpreises gilt nicht als technische Abnahme der Vitrine. \nBeide Seiten erhalten eine unterschriebene Ausfertigung dieser Vereinbarung.\nFritz Fröhlich / Mina Yilmaz",
+      "pixel_sha256": "ed1dce19400cd75af54f23c3447c598d21e4096fbaac3a77cfcae4fbc44b96f8",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "03_Froehlich_zur_Konzession.pdf",
+      "pdf_sha256": "18b97e77da58af2f15e7b401f8377284779dc145040e15123363e846a007d091",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/03_Froehlich_zur_Konzession/page-1.png",
+      "png_sha256": "408baa38ab902fdce521b35906309cab2cc8b649db54598b5cd172b3abf2451b",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 03_Froehlich_zur_Konzession.eml\nVon\nFritz Fröhlich <fritz@cafe-feierabend.example>\nAn\nOttokar Kühn <ottokar@kichererbse.example>\nDatum\nFri, 11 Sep 2026 16:42:00 +0200\nBetreff\nDer rote Ordner und die Tische\nLieber Ottokar,\nim roten Ordner ist meine Konzession von 2017. Ich habe damit Kaffee, Kuchen, Bier und Wein\nangeboten. Ihr macht doch fast dasselbe, deshalb dachte ich, das liefe einfach weiter. Die zwei Tische\ndraußen hatte ich im Sommer meistens stehen. Den Straßenbescheid finde ich gerade nicht. Bitte verlasst\neuch bei sechs Tischen lieber nicht auf meine Erinnerung.\nDer letzte reguläre Tag ist der 20. September. Danach räume ich nur noch auf.\nViele Grüße\nFritz\n",
+      "pixel_sha256": "b13586c14cff0bf6ab5fcd380537c48b44551c7f1e908bdec9e3a68f4408cb59",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "04_Alte_Gaststaettenerlaubnis.pdf",
+      "pdf_sha256": "60e0209bfe8c313577c76dcd92884bcd2262d19a5dabd748081e5a13ebd5b552",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/04_Alte_Gaststaettenerlaubnis/page-1.png",
+      "png_sha256": "c2446b60ac5dd34d725a87e31b1713946028a5af45ac1b286d86e6cbd9b59e2b",
+      "text": "1\nBezirksamt Neukölln von Berlin\nOrdnungsamt, Gewerbeangelegenheiten\nFritz Fröhlich\nCafé Feierabend, Pflügerstraße 81, 12047 Berlin\nErlaubnis für das Café Feierabend\n12.04.2017 · Gew-2017-214-F\nSehr geehrter Herr Fröhlich,\nIhnen wird die Erlaubnis erteilt, am Standort Pflügerstraße 81 in Berlin ein Café mit Ausschank \nalkoholischer und alkoholfreier Getränke sowie Abgabe zubereiteter Speisen zum Verzehr an Ort und \nStelle zu betreiben. Die Erlaubnis bezieht sich auf die im beigefügten und zum Bestandteil dieser \nEntscheidung erklärten Grundriss bezeichneten Räume im Erdgeschoss. Im Gastraum sind 24 Sitzplätze \ndargestellt. Der Keller ist als Lagerraum bezeichnet und darf nicht als Gastraum verwendet werden.\nDer Betrieb ist so zu führen, dass vermeidbare Belästigungen der Nachbarschaft unterbleiben. Türen und \nFenster sind bei verstärkter Musikwiedergabe geschlossen zu halten, soweit hierdurch die erforderliche \nLüftung und die sichere Benutzung der Rettungswege nicht beeinträchtigt werden. Eine Nutzung \nöffentlicher Straßenflächen ist nicht Gegenstand dieser Erlaubnis. Die dafür erforderliche gesonderte \nEntscheidung ist bei der zuständigen Stelle einzuholen.\nÄnderungen der Betriebsart, der zugelassenen Räume oder der verantwortlichen Betriebsführung sind \nvor ihrer Umsetzung mit der zuständigen Stelle abzuklären. Andere öffentlich-rechtliche Anforderungen, \ninsbesondere des Bau-, Lebensmittel- und Arbeitsschutzrechts, bleiben unberührt. Der Bescheid wird mit \ndem Raumplan in Ihrer Betriebsakte geführt. Das Gebührenblatt ist gesondert beigefügt.\nGegen diesen Bescheid kann innerhalb eines Monats nach Bekanntgabe Widerspruch beim Bezirksamt \nNeukölln von Berlin eingelegt werden.\nIm Auftrag\nHanna Reuter",
+      "pixel_sha256": "c1ca23ad734d462e93b9fe08d5ef567749deb72451851d15ecec14758c8075bd",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "05_Betriebskonzept.pdf",
+      "pdf_sha256": "232a3637a482f7e060e2d5ead5b7b066391fa91b34c6a03c866ee20c10a69529",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/05_Betriebskonzept/page-1.png",
+      "png_sha256": "22a898c8509add864578f10c5315267ed2000c9ea153978fd3f20c6ce10fce96",
+      "text": "1\nMina Yilmaz\nKichererbse Berlin GmbH\nFür die Antragsunterlagen\nBetriebskonzept Kichererbse, Fassung 24. September\n24.09.2026\n1. Angebot und Zeiten\nDie Kichererbse soll ein vegetarisches Café mit kleiner Abendkarte werden. Vorgesehen sind Frühstück, \nKuchen, zwei warme Tagesgerichte und Salate. Der Innenbetrieb ist zunächst Dienstag bis Samstag von \n9 bis 22 Uhr sowie Sonntag von 10 bis 18 Uhr geplant. Montag bleibt geschlossen. Wein und Bier sollen \nnur nach Vorliegen der notwendigen Erlaubnis ausgeschenkt werden. Eine Tanzveranstaltung oder \nregelmäßige verstärkte Livemusik ist nicht vorgesehen.\n2. Räume und Plätze\nDer Gastraum soll 24 Sitzplätze behalten. Die Internetvorlage unseres Reservierungsprogramms nennt \nnoch 30 Plätze; diese Zahl wurde aus einer Standardmaske übernommen. Im Keller werden haltbare \nVorräte und Reinigungsmittel in getrennten Bereichen gelagert. Gäste werden dort nicht bewirtet. Die \nKüche bleibt an derselben Stelle, die vorhandene Abluftanlage soll vor Eröffnung gewartet werden.\n3. Außenbereich\nWir wünschen sechs Zweiertische auf dem Gehweg unmittelbar vor dem Lokal. Eine maßstäbliche \nSkizze mit den tatsächlichen Abständen fehlt noch. Vor einer Entscheidung über die Fläche werden wir \ndort keine Tische aufstellen. Zwei vorhandene Tische aus dem Inventar bleiben solange im Lager. Die \nHausverwaltung hat dem Vorhaben grundsätzlich zugestimmt, aber keine straßenrechtliche Aussage \ngemacht.\n4. Hygiene und Personal\nMina führt die Küchenorganisation. Die Warenannahme dokumentiert sie mit Datum und \nTemperaturprüfung nach Produktanforderung. Die defekte Kühlvitrine wird bis zur Reparatur nicht \ngenutzt. Drei Beschäftigte beginnen im Oktober. Ihre Nachweise werden vor dem ersten tatsächlichen \nKücheneinsatz geprüft. Die Schulung zur neuen Speisekarte und zu den Allergenen ist für den 12. \nOktober vorgesehen.",
+      "pixel_sha256": "aa2d7d627fb94786ee7a8a039a0a72cab23bf4d4af98abf4456313fd86356e9f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "06_Startbudget.pdf",
+      "pdf_sha256": "1ed27da68f779b7b8d0d89f448d02e35cfa412dd999b0156b1e006dfdaa122ad",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/06_Startbudget/page-1.png",
+      "png_sha256": "7709b782a0031f2d2afbae703ad06ab920e50b88df39da8e9901aca3ad90dd9b",
+      "text": "Position Angebot EUR Beauftragt EUR Bezahlt EUR Offen EUR\nInventar 18,000.00 18,000.00 18,000.00 0.00\nKuehlreparatur 420.00 420.00 420.00 0.00\nAbluftwartung 680.00 680.00 0.00 680.00\nGehwegmoebel 950.00 0.00 0.00 0.00\nSumme 20,050.00 19,100.00 18,420.00 680.00",
+      "pixel_sha256": "29ce67a6eabe339409dc2f4b53ea44b6f0cce9bbe81b588300c281c197cb52d7",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "06_Startbudget.pdf",
+      "pdf_sha256": "1ed27da68f779b7b8d0d89f448d02e35cfa412dd999b0156b1e006dfdaa122ad",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/06_Startbudget/page-2.png",
+      "png_sha256": "50bbd5a8fcfb3c3e5a22a522823ea3c4f3c4d6eaa367e7585958d0fe6b5218b7",
+      "text": "Bereich Plan Alter Bescheid Differenz Notiz\nGastraum 24 24 0 Betriebskonzept vom 24. September.\nGehweg 12 0 12 Antragsskizze noch offen; alte Unterlage fehlt.\nKeller 0 0 0 Lager, keine Gaeste.",
+      "pixel_sha256": "17a90b35efdf653ebc616e772fd9bb4614ba63711e7c372ff1fcc1c5508a6f48",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "07_Teamchat_Eroeffnung.pdf",
+      "pdf_sha256": "55102380da6e759364e123e09916cda59a59125d3e769a82cab9176d888b9ef7",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/07_Teamchat_Eroeffnung/page-1.png",
+      "png_sha256": "71c50a9284e98e5d029794d3fcf09f905eb9bdc472a985830fdebf36645c8588",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 07_Teamchat_Eroeffnung.txt\nChat zwischen Mina, Ottokar und Fritzi\n25.09.2026\n25.09.2026 18:04 Ottokar: Im Reservierungstool stehen noch 30. Ich ändere das heute auf 24.\n25.09.2026 18:06 Mina: Bitte auch keine Tische draußen versprechen. Wir haben die Skizze noch nicht.\n25.09.2026 18:10 Fritzi: Ich kann beim Weinabend bedienen. Meine Belehrung ist aus 2022, bei meiner\nbisherigen Stelle arbeite ich seitdem durchgehend in der Küche.\n25.09.2026 18:12 Mina: Bring bitte die Unterlagen mit. Wir schauen auch nach der letzten Folgebelehrung.\n25.09.2026 18:20 Ottokar: Ohne Wein wäre die Eröffnung auch schön. Dann machen wir Birnenschorle\nund Suppe. Nur bitte rechtzeitig entscheiden.\n",
+      "pixel_sha256": "07937d74772384aa046eb422599df952b9dd51957ac2f1c3a0954028bb40e1f5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "08_Eingang_Gewerbeanzeige.pdf",
+      "pdf_sha256": "9105c770b67697567428818961c491b6bb5dc138f22c80aa7fa3af68d4ec04ea",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/08_Eingang_Gewerbeanzeige/page-1.png",
+      "png_sha256": "83ebd8133a19b747536a6dc5d8a194c5b49d5e94aa632f98a2bd0c2b370e85f8",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 08_Eingang_Gewerbeanzeige.eml\nVon\nGewerbeservice Neukölln <gewerbe@amt-neukoelln.example>\nAn\nKichererbse Berlin GmbH <buero@kichererbse.example>\nDatum\nFri, 25 Sep 2026 09:11:00 +0200\nBetreff\nEingang Ihrer Gewerbeanzeige\nSehr geehrte Damen und Herren,\nIhre Anzeige für die Kichererbse Berlin GmbH mit beabsichtigtem Beginn 01.10.2026 ist eingegangen. Als\nTätigkeit ist „Café und vegetarische Speisewirtschaft, Ausschank von Getränken“ angegeben. Die\nEmpfangsbescheinigung wird gesondert bereitgestellt. Diese Nachricht enthält keine Entscheidung über\nIhren Antrag auf Gaststättenerlaubnis oder die Nutzung des Gehwegs.\nMit freundlichen Grüßen\nLene Sommer\n",
+      "pixel_sha256": "325c3716504e3b0bb2f48c1f063b11809b143419fd7c94229228f31c639aca25",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "09_Besichtigungsnotiz_Lebensmittel.pdf",
+      "pdf_sha256": "5346d23f66660531b4dfd2c59b166aeec4608f91d6a0e681d8002176ede6b16e",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/09_Besichtigungsnotiz_Lebensmittel/page-1.png",
+      "png_sha256": "7da82b153aa665335c6ee4f0f9201c8142331224cf2c735e05d6d90375830df9",
+      "text": "1\nBezirksamt Neukölln von Berlin\nVeterinär- und Lebensmittelaufsicht\nKichererbse Berlin GmbH\nMina Yilmaz\nBesichtigung vor Betreiberwechsel\n28.09.2026 · LM-26-1189\nSehr geehrte Frau Yilmaz,\nbei der gemeinsamen Besichtigung am 28.09.2026 um 10.15 Uhr wurden die Küche und die Kühlvitrine \nim Gastraum in Augenschein genommen. Sie erklärten, dass noch kein öffentlicher Betrieb stattfindet \nund die vorhandenen Lebensmittel zu einem internen Probelauf gehören. In der Vitrine befanden sich \nsechs verschlossene Becher Joghurtdip und vier Salatschalen aus der Lieferung desselben Morgens. Die \nAnzeige des Geräts lag bei 10,8 Grad Celsius. Eine unabhängige Produktmessung wurde bei diesem \nTermin nicht vorgenommen.\nSie haben zugesagt, die Ware bis zur Klärung nicht abzugeben und mit dem Lieferanten die Rücknahme \nabzustimmen. Das Gerät soll vor weiterer Nutzung technisch überprüft werden. Bitte übermitteln Sie bis \nzum 07.10.2026 den Servicebericht und eine nachvollziehbare Dokumentation zur Behandlung der \nbetroffenen Ware. Bei erneuter Nutzung ist die Funktionskontrolle in die betriebliche Eigenkontrolle \naufzunehmen.\nDie Reinigung unter dem Arbeitstisch und die fehlende Kennzeichnung zweier Reinigungsmittelbehälter \nwurden ebenfalls angesprochen. Sie erklärten, beide Punkte vor Übergabe zu erledigen. Die vollständige \nbetriebliche Hygieneorganisation war nicht Gegenstand einer abschließenden Prüfung. Bitte halten Sie \ndie Personalbelehrungen und die für Ihre tatsächlichen Abläufe vorgesehenen Eigenkontrollunterlagen \nbereit.\nDieses Schreiben dokumentiert die besprochenen Punkte und die erbetenen Nachweise. Eine \nEntscheidung über gaststättenrechtliche oder baurechtliche Erlaubnisse ist damit nicht verbunden. Für \nRückfragen steht die unterzeichnende Sachbearbeitung zur Verfügung.\nIm Auftrag\nElvira Brandt",
+      "pixel_sha256": "1c949792f5ee5124ea3d1dc010354b6db2dad91a7f84e9e4646167008273f549",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "10_Lieferant_Ruecknahme.pdf",
+      "pdf_sha256": "41a5e807439ff39700f188e13169b0e182267378fdad7dd1d5756592bfe8ccbe",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/10_Lieferant_Ruecknahme/page-1.png",
+      "png_sha256": "f735f9551bef8a12bce6acef2a1f9c3977668e234976cdda7d3627fe0b46edad",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 10_Lieferant_Ruecknahme.eml\nVon\nFrischefreunde Berlin <service@frischefreunde.example>\nAn\nMina Yilmaz <mina@kichererbse.example>\nDatum\nMon, 28 Sep 2026 14:20:00 +0200\nBetreff\nRücknahme Dip und Salat vom 28. September\nLiebe Mina,\nwir haben heute um 12.40 Uhr sechs ungeöffnete Dipbecher und vier Salatschalen aus Lieferschein\nFF-260928-14 zurückgenommen. Die Ware wird nicht erneut verkauft. Eine Gutschrift über 54,60 EUR\nfolgt. Unsere Fahrerin hat notiert, dass ihr die Produkte aus der betroffenen Vitrine entfernt hattet. Über die\nTemperatur während der Zeit bei euch können wir keine abschließende Aussage treffen.\nViele Grüße\nRosa Malik\n",
+      "pixel_sha256": "c5e905ef34c3e24aaecf0b1b6f8e014b70c340960c2cba70613b25d51aaf14f7",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "11_Ordnungsamt_Nachforderung.pdf",
+      "pdf_sha256": "fe744994f83360e91f1dfc073b941f05ff8b5c968d1a75133e95285b98e438dc",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/11_Ordnungsamt_Nachforderung/page-1.png",
+      "png_sha256": "7b670690c5407562b93449acef6db8a67148fb90e8bcb5897cfaf625071b6251",
+      "text": "1\nBezirksamt Neukölln von Berlin\nOrdnungsamt, Gewerbeangelegenheiten\nKichererbse Berlin GmbH\nPflügerstraße 81, 12047 Berlin\nUnterlagen zur Übernahme des Gaststättenbetriebs\n29.09.2026 · Gast-26-774\nSehr geehrte Frau Yilmaz, sehr geehrter Herr Kühn,\nzu Ihrem Antrag auf Erteilung einer Gaststättenerlaubnis und Ihrer Bitte um eine vorläufige Erlaubnis \nbenötigen wir eine eindeutige Darstellung des beabsichtigten Betriebs. Bitte reichen Sie bis zum \n08.10.2026 das aktuelle Betriebskonzept und einen dem tatsächlichen Zustand entsprechenden Grundriss \nein. Teilen Sie insbesondere mit, ob gegenüber dem bisherigen Café eine Änderung der Betriebsart oder \nzusätzliche Gasträume vorgesehen sind.\nDie vorhandene Erlaubnis vom 12.04.2017 ist an Herrn Fröhlich gerichtet. Eine Entscheidung über Ihre \neigenen Anträge ist bisher nicht ergangen. Die Gewerbeanzeige wird in einem gesonderten Vorgang \nbearbeitet. Bitte erläutern Sie den geplanten Alkoholausschank und den gewünschten Betriebsbeginn. \nIhre Nachricht nennt den 01.10.2026, die beigefügte Veranstaltungsankündigung den 16.10.2026. Für die \ntatsächliche Übernahme bitten wir um Angabe des letzten Betriebstags des bisherigen Inhabers.\nDie Nutzung des Gehwegs ist nicht Gegenstand dieses Antrags. Für die geplanten Außenplätze wenden \nSie sich mit einem maßstäblichen Lageplan an die zuständige Stelle für Sondernutzung. Bitte verwenden \nSie bis zu einer Klärung keine Formulierung, nach der die alten Außenplätze bereits auf Ihre Gesellschaft \nübergegangen seien.\nDiese Nachforderung enthält keine abschließende Entscheidung über die Erlaubnisfähigkeit. Sollten Sie \neinen zunächst begrenzten Betriebsumfang beabsichtigen, beschreiben Sie diesen bitte konkret. Eine \nEröffnung mit erlaubnispflichtigem Ausschank darf nicht allein auf die vorliegende Eingangsbestätigung \ngestützt werden.\nIm Auftrag\nLene Sommer",
+      "pixel_sha256": "679fbf78e57eba63a26ff2b672a3c9549a5a4bc0da17417e74cd4117ee61cb8d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "12_Nachweise_an_Amt.pdf",
+      "pdf_sha256": "8d023c349d17772ef107626ecef3a84b61f30947da716f27d5c52faa1c531ae4",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/12_Nachweise_an_Amt/page-1.png",
+      "png_sha256": "af92a89b362608cfc1580f0e21714e586c6393358aa774eea5c94a230cb4826e",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 12_Nachweise_an_Amt.eml\nVon\nOttokar Kühn <ottokar@kichererbse.example>\nAn\nLene Sommer <gewerbe@amt-neukoelln.example>\nDatum\nWed, 30 Sep 2026 10:06:00 +0200\nBetreff\nGast-26-774: Konzept und Kostenübersicht\nSehr geehrte Frau Sommer,\nanbei übersende ich unser Betriebskonzept vom 24. September und die interne Startkostenübersicht. Den\naktuellen Grundriss lässt Mina gerade zeichnen. Wir meinen mit dem 1. Oktober die vertragliche\nÜbernahme; für Gäste soll erst am 16. Oktober geöffnet werden. Die sechs Gehwegtische werden bis zur\nKlärung nicht aufgestellt.\nWir lassen uns bei der Antwort auf Ihre weiteren Fragen unterstützen. Eine Erlaubnisentscheidung haben\nwir noch nicht erhalten.\nMit freundlichen Grüßen\nOttokar Kühn\n",
+      "pixel_sha256": "116374064b3b2e54a182a7acf2d1baa55372a7bf03699c77e3df6a6e8bbe5e95",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "13_Temperaturnotizen.pdf",
+      "pdf_sha256": "0a4b4f4e5bfb75944499b68e472d5a26374e760a390f1a4cde6ee6116accb653",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/13_Temperaturnotizen/page-1.png",
+      "png_sha256": "61cffe8c68427f8dc669d6c36b318219563f9cf04fe9971bc76721a5c2a61a3f",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 13_Temperaturnotizen.txt\nTemperaturen und Arbeiten an der Vitrine\n30.09.2026\n28.09.2026 09:10 Mina: Anzeige 9,6 Grad. Ware eben geliefert, nicht ausgegeben.\n28.09.2026 10:15 Besichtigung: Anzeige 10,8 Grad.\n28.09.2026 10:30 Ware gesperrt, Lieferant angerufen.\n28.09.2026 12:40 Rücknahme durch Lieferantin.\n29.09.2026 Vitrine leer und außer Nutzung.\n30.09.2026 12:00 Techniker fertig. Anzeige nach Probelauf 4,2 Grad, keine Lebensmittel im Gerät.\n30.09.2026 16:00 Anzeige 4,1 Grad. Neues Einstechthermometer bestellt. Die Werte hier sind\nGeräteanzeigen, keine Produktkerntemperaturen.\n",
+      "pixel_sha256": "2a71fa00789eff4f936398c76b727be405fe0d029f3cd82035a0961a9fd2679f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "14_Servicebericht_Kuehlung.pdf",
+      "pdf_sha256": "870e705e87aba966b6e490ddff85967580f022c08418c84a911eedb6f04d8b35",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/14_Servicebericht_Kuehlung/page-1.png",
+      "png_sha256": "3282bee83e074a37989c997968bfb2a5b841b88aab4912e2ff23bede6adbfe70",
+      "text": "1\nKühle Kiste Technik GmbH\nServicetechniker Balduin Wolf\nKichererbse Berlin GmbH\nServicebericht Kühlvitrine KF-24\n30.09.2026\nSehr geehrte Frau Yilmaz,\nam 30.09.2026 wurde die Kühlvitrine KF-24, interne Gerätenummer KIC-02, am Standort Pflügerstraße \n81 geprüft. Der Einsatz begann um 9.20 Uhr und endete um 12.00 Uhr. Bei der Prüfung war das Gerät \nleer. Festgestellt wurden eine verschmutzte Kondensatoreinheit und eine nicht vollständig schließende \nTürdichtung. Die Kondensatoreinheit wurde gereinigt und die Türdichtung ersetzt. Weitere Reparaturen \nwurden bei diesem Einsatz nicht beauftragt.\nNach Wiederinbetriebnahme und einem Probelauf zeigte das Gerät eine Temperatur von 4,2 Grad \nCelsius. Der Wert wurde an der internen Anzeige abgelesen und mit einem separaten Luftfühler im \nInnenraum plausibilisiert. Eine Untersuchung von Lebensmitteln oder eine rückwirkende Bewertung der \nLagerbedingungen fand nicht statt. Über die Eignung zuvor gelagerter Produkte kann dieser Bericht \ndaher keine Aussage treffen.\nWir empfehlen, die Reinigung des Kondensators in den Wartungsplan aufzunehmen und den \nSchließzustand der Tür regelmäßig zu kontrollieren. Die Betreiberin wurde darauf hingewiesen, dass \ndichte Beladung die Luftzirkulation beeinträchtigen kann. Für die produktspezifischen \nLagertemperaturen ist die betriebliche Organisation verantwortlich.\nDie Reparaturkosten betragen einschließlich Anfahrt und Material 420 EUR brutto. Die Zahlung wurde \nbei Abschluss des Einsatzes per Karte vorgenommen. Der Bericht bezieht sich ausschließlich auf die \ngenannte Vitrine. Die übrigen Kühlgeräte, die Abluftanlage und die vollständige Küche waren nicht \nGegenstand des Auftrags.\nMit freundlichen Grüßen\nBalduin Wolf, Servicetechniker",
+      "pixel_sha256": "30dd9ad055deb2385152d629cf260ef747b3b2720eb983850a1fca34adea5a48",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "15_Hausverwaltung_Gehweg.pdf",
+      "pdf_sha256": "e4cd83a4a69271435e1ea14aa563d2d20ef55c121d6d8aeba9e06b4f6f4bce74",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/15_Hausverwaltung_Gehweg/page-1.png",
+      "png_sha256": "a37639d156b2a95c9efc420d29cc32048a1bfd47290bb302bcaca2eb1a9865bc",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 15_Hausverwaltung_Gehweg.eml\nVon\nHausverwaltung Hofbogen <verwaltung@hofbogen.example>\nAn\nMina Yilmaz <mina@kichererbse.example>\nDatum\nWed, 30 Sep 2026 14:17:00 +0200\nBetreff\nIhre geplanten Tische vor dem Haus\nSehr geehrte Frau Yilmaz,\nwir haben grundsätzlich keine Einwände gegen kleine Tische vor Ihrer Einheit. Der Gehweg gehört jedoch\nnicht zu Ihrer Mietfläche. Bitte holen Sie die behördliche Entscheidung ein und halten Sie den\nHauseingang frei. Die Anwohnerin Frau Knöpfle hat wegen ihres Rollators um ausreichend Platz gebeten.\nWir vermitteln gern ein kurzes Kennenlernen.\nFreundliche Grüße\nAlma Vogt\n",
+      "pixel_sha256": "e0285f311c9a68ecbd0acc14ff2e9961d0e4e0cadc26412617efd0809bc6837b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "16_Reparatur_belegt.pdf",
+      "pdf_sha256": "d743cb0bf14d8aedad97e90f6f9781a34023dd9216892764420ec4fac95674a4",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/16_Reparatur_belegt/page-1.png",
+      "png_sha256": "f34c72956ced19bd4f91c1ff6a6e5e74f239f97d191d7347a675bed185a34c62",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 16_Reparatur_belegt.eml\nVon\nMina Yilmaz <mina@kichererbse.example>\nAn\nElvira Brandt <lebensmittel@amt-neukoelln.example>\nDatum\nThu, 01 Oct 2026 08:35:00 +0200\nBetreff\nLM-26-1189: Servicebericht\nSehr geehrte Frau Brandt,\nanbei erhalten Sie den Servicebericht. Die betroffenen Produkte wurden zurückgegeben und nicht an\nGäste abgegeben. Die Rücknahmebestätigung liegt vor; ich kann sie bei Bedarf weiterleiten. Unter dem\nArbeitstisch wurde gereinigt, und die Reinigungsmittelbehälter sind jetzt bezeichnet. Die Vitrine bleibt bis\nzu unserer ersten Warenanlieferung leer.\nMit freundlichen Grüßen\nMina Yilmaz\n",
+      "pixel_sha256": "67044367499b5f9c8b4fc99e39aa4010f764b89326f84138f57c602c4912b438",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "17_Personalnotiz.pdf",
+      "pdf_sha256": "17e8eebe65d6de28fc6ac1c8fb7b7267b9925ea1b8f1571d1a03195391c0027b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/17_Personalnotiz/page-1.png",
+      "png_sha256": "a27d89b31456bd29ef78feef4a417a4a176f575c35bd0aa71fb6b0ff7e81995d",
+      "text": "1\nMina Yilmaz\nInterne Betriebsorganisation\nOttokar Kühn\nPersonal und Nachweise für den ersten Monat\n01.10.2026\n1. Küchenorganisation\nIch leite die Küche und bin während der ersten zwei Betriebswochen bei jeder Speisenausgabe \nanwesend. Meine Bescheinigung nach der Erstbelehrung stammt aus März 2019. Ich habe damals \nunmittelbar danach in der Küche des Restaurants meiner Tante begonnen und bis August 2026 dort \ngearbeitet. Die letzte dokumentierte Arbeitgeberbelehrung ist vom 15.02.2025; die Kopie habe ich \nangefordert. Für unsere eigene Organisation bereite ich eine Einweisung anhand der tatsächlichen \nAbläufe vor.\n2. Beschäftigte\nFritzi Behnke soll ab dem 12. Oktober 20 Stunden wöchentlich in Küche und Service arbeiten. Sie bringt \nihre vorhandenen Belehrungsunterlagen am Montag mit. Cem Winter übernimmt zunächst ausschließlich \nService und Kasse, hilft aber möglicherweise beim Anrichten der Salate. Diese Aufgabenverteilung ist \nnoch nicht abschließend besprochen. Traudel Pohl unterstützt uns beim Spülen an zwei Abenden. Ihre \nUnterlagen haben wir noch nicht gesehen.\n3. Schulung und Arbeitszeiten\nFür den 12. Oktober ist eine gemeinsame Einweisung in Reinigung, Warenannahme, Allergenauskunft \nund Meldung gesundheitlicher Beschwerden geplant. Die Teilnahme wird dokumentiert. Wir möchten \ntatsächlichen Beginn, Ende und Pausen täglich erfassen; der bisherige Dienstplan enthält nur Sollzeiten. \nOttokar richtet dafür eine einfache Erfassung ein und kontrolliert die erste Woche selbst.\n4. Offene organisatorische Punkte\nDie Telefonnummer des Wartungsdienstes und der Ablageort für Nachweise werden an der Innenseite \nder Bürotür notiert. Patientendaten oder vergleichbare sensible Unterlagen gibt es in unserem Betrieb \nnicht. Angaben zu Erkrankungen sollen nicht in die allgemeine Teamgruppe, sondern unmittelbar an \nmich gehen. Wir benötigen noch eine Vertretung für meine freien Tage.",
+      "pixel_sha256": "8015d8badc64f5e292e2d06f7fea9f4857e3f0212c00711dc50d38e203a84d76",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "18_Nachtrag_ohne_Wein.pdf",
+      "pdf_sha256": "05d02be1395455b36518e64b29aeaf6394a2aeaf80e0608fb728699f4d7ccbc0",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/18_Nachtrag_ohne_Wein/page-1.png",
+      "png_sha256": "5674f28ceb6eb2075710050757e8a75e5b5d6398b42904260eba1f2c5544ef09",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nDatei: 18_Nachtrag_ohne_Wein.eml\nVon\nOttokar Kühn <ottokar@kichererbse.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 11:15:00 +0200\nBetreff\nEröffnung notfalls mit Birnenschorle\nSehr geehrte Frau Morgen,\nMina und ich sind einverstanden, den Weinabend gegebenenfalls zu verschieben. Bitte prüfen Sie aber,\nob eine vorläufige Erlaubnis für die tatsächliche Übernahme in Betracht kommt. Den Keller wollen wir\nwirklich nicht für Gäste nutzen. Die Reservierungsmaske ist inzwischen auf 24 Plätze gestellt; der\nAusdruck vom 23. September in der Akte ist veraltet.\nWir freuen uns über einen konkreten Entwurf. Bitte keine Zusage im Namen von Fritz abgeben.\nViele Grüße\nOttokar Kühn\n",
+      "pixel_sha256": "b9162a49dc883c50f0b86dd54ac85fb1471bba75d8081c5f378e8a721a2a853f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "01_Auftrag_Abendfuchs.pdf",
+      "pdf_sha256": "d30149745d8df8fb337c2ba2daa8600e03708af4cc08d76e2b1988d32924b92c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/01_Auftrag_Abendfuchs/page-1.png",
+      "png_sha256": "c41b74a9e0e60841d138b91446e7fc5c6d76bfcb8c307bbf8d72d266d031ef40",
+      "text": "1\nSamira Özdemir\nSpäti Abendfuchs, Krossener Straße 47, 10245 Berlin\nRechtsanwältin Jule Morgen\nKanzlei am Kanal, Berlin\nHilfe wegen unserer Sonntagsöffnung\n02.10.2026\nSehr geehrte Frau Morgen,\nich betreibe den Abendfuchs seit 2023 als Einzelunternehmen. Am Sonntag, dem 20. September, war \neine Kontrolle im Laden. Nun soll ich erklären, weshalb ich geöffnet hatte. Ich dachte, die Stadtpläne \nund das Hotel um die Ecke machten uns zu einem Laden für Touristen. Bei uns kaufen aber natürlich \nauch sehr viele Nachbarn ein, und unter der Woche führen wir Waschmittel, Nudeln und Katzenfutter.\nAm Sonntag hatte mein Mitarbeiter Willibald einige Regale mit einem Vorhang abgedeckt. Ob trotzdem \neine Packung Kaffee aus dem hinteren Regal verkauft wurde, weiß ich erst seit seiner Nachricht. Das \nmöchte ich nicht verschweigen. Auf dem Kassenbon stehen außerdem zwei Flaschen Wasser und eine \nZeitung. Ich habe die Belege und meine Warenübersicht beigefügt.\nBitte verfassen Sie eine sachliche Antwort auf die Anhörung und erklären Sie mir, wie ich den Laden in \nden kommenden Wochen rechtmäßig öffnen kann. Ich möchte nicht sofort klagen und auch keine \nGeschichte über einen Touristenladen erfinden. Wenn meine bisherige Vorstellung falsch war, muss ich \ndie Planung ändern. Der Laden ist klein, und ich arbeite selbst viele Schichten.\nDie Idee eines richtigen Cafés mit weniger Handel können wir später prüfen. Für jetzt brauche ich keine \nUmbauplanung. Das Straßenfest Ende Oktober ist ebenfalls noch nicht sicher. Bitte senden Sie ohne \nmeine Rückmeldung nichts an das Amt. Die Frist im Brief endet am 9. Oktober.\nMit freundlichen Grüßen\nSamira Özdemir",
+      "pixel_sha256": "6f151b824a55a6bb1f59d602ec0f403954ed83b08dc05e0639a28c673072a7d2",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "02_Gewerbeempfang.pdf",
+      "pdf_sha256": "293f744f77460da96c158f768934fe0d2bdd36fa9c5bd984f82b6b16c896252c",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/02_Gewerbeempfang/page-1.png",
+      "png_sha256": "eaef9de7a0f0bb278689b3e122b80fffa6de1a79abbad81e2b117bfcaa95989a",
+      "text": "1\nBezirksamt Friedrichshain-Kreuzberg von Berlin\nOrdnungsamt, Gewerbeangelegenheiten\nSamira Özdemir\nKrossener Straße 47, 10245 Berlin\nEmpfang der Gewerbeanzeige\n03.04.2023 · Gew-FK-23-903\nSehr geehrte Frau Özdemir,\nder Eingang Ihrer Gewerbeanzeige vom 01.04.2023 wird bestätigt. Angezeigt wurde der Beginn eines \nEinzelhandels mit Lebensmitteln, Getränken, Zeitungen, Tabakwaren und Waren des täglichen Bedarfs \nunter der Geschäftsbezeichnung Abendfuchs am Standort Krossener Straße 47. Als Beginn der Tätigkeit \nhaben Sie den 01.04.2023 angegeben. Die Anzeige wird unter dem nachstehend genannten \nGeschäftszeichen geführt.\nDiese Bescheinigung bestätigt den Eingang der von Ihnen abgegebenen Anzeige. Sie enthält keine \nbesondere Erlaubnis zur Öffnung an Sonn- und Feiertagen und keine Entscheidung über eine \ngaststättenrechtliche, baurechtliche oder straßenrechtliche Zulassung. Soweit für einzelne Tätigkeiten \nzusätzliche Anforderungen gelten, sind diese gesondert zu beachten. Bitte bewahren Sie die \nBescheinigung bei Ihren Betriebsunterlagen auf.\nDie von Ihnen angegebenen Daten werden nach Maßgabe der gesetzlichen Regelungen an die \nzuständigen Stellen weitergeleitet. Änderungen der angezeigten Tätigkeit, eine Verlegung innerhalb \nBerlins und die Aufgabe des Betriebs sind mit dem jeweils vorgesehenen Verfahren mitzuteilen. Bitte \nnennen Sie bei Rückfragen stets die Geschäftsbezeichnung und den Standort, damit eine eindeutige \nZuordnung möglich ist.\nIn Ihrer Anzeige ist kein Ausschank alkoholischer Getränke zum Verzehr an Ort und Stelle bezeichnet. \nSollte sich das tatsächliche Betriebskonzept ändern, beschreiben Sie die vorgesehenen Tätigkeiten \nrechtzeitig gegenüber der zuständigen Stelle. Diese allgemeine Information ersetzt keine Prüfung eines \nspäteren konkreten Vorhabens. Eine Kopie Ihrer Anzeige befindet sich in der Betriebsakte.\nIm Auftrag\nMarlene Hoff",
+      "pixel_sha256": "ea8a39cf700c921dcaf845afee898e298a57d56609276fb8128e8e612d87a9cb",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "03_Hotelkooperation.pdf",
+      "pdf_sha256": "8929544d2518c75597006f1b0f624375bfc23c36647ada80583b9ac2ad9a16b8",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/03_Hotelkooperation/page-1.png",
+      "png_sha256": "0b39e8185807d7bb629308a4cc9eaf79df943d4689643aefc1fc303a1de84c5d",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 03_Hotelkooperation.eml\nVon\nHotel Kiezkissen <empfang@kiezkissen.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nTue, 18 Aug 2026 10:00:00 +0200\nBetreff\nStadtpläne für unsere Gäste\nLiebe Samira,\nwir schicken unsere Gäste gern zu dir, wenn sie Wasser oder einen Stadtplan brauchen. Einen\nExklusivvertrag brauchen wir dafür nicht. Unser Hotel hat 28 Zimmer, die Belegung schwankt. Wie viele\nGäste wirklich zu dir kommen, erfassen wir nicht. Bitte schreib also nicht, dass wir täglich eine bestimmte\nKundenzahl garantieren.\nViele Grüße\nLuise Chen, Empfang\n",
+      "pixel_sha256": "a46805514c00b666ed11398dd378edbb3222001441391ac7bcc1a2676824712a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "04_Sortiment_September.pdf",
+      "pdf_sha256": "c3010a80f07137bd2195dfe9d343df9a2f1c245fadf005915d93709fe7bfffe5",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/04_Sortiment_September/page-1.png",
+      "png_sha256": "24f1c0bfe5f739f0ba06e1eceaf5188d6679f2921ee3c0d422c0e0142f8bf6be",
+      "text": "1\nSamira Özdemir\nSpäti Abendfuchs\nInterne Ablage\nWarenübersicht und Überlegungen zum Sortiment\n15.09.2026\n1. Aktuelles Angebot\nWir führen gekühlte Getränke, Bier, Wein, verpackte Snacks, Zeitungen, Tabakwaren, Kaffee, Tee, \nNudeln, Konserven, Waschmittel, Toilettenpapier und Katzenfutter. Im vorderen Regal liegen außerdem \nPostkarten und Stadtpläne. Die Stadtpläne sind seit August im Angebot. Zwei Kartons mit älteren \nReiseführern wurden noch nicht ausgepackt. Die Lebensmittel werden überwiegend originalverpackt \nabgegeben; frische belegte Brötchen bieten wir derzeit nicht an.\n2. Kunden und Zeiten\nUnter der Woche kommen vor allem Menschen aus den umliegenden Häusern. Am Wochenende \nbesuchen uns zusätzlich Hotelgäste und Spaziergänger. Wir erfassen weder Wohnort noch Reisezweck \nder Kunden. Die bisherige Ladenöffnung ist Montag bis Samstag von 8 bis 24 Uhr. Sonntags haben wir \nzuletzt von 13 bis 20 Uhr geöffnet, weil ich von einer passenden Ausnahme ausging. Eine schriftliche \nEntscheidung speziell für unsere Sonntagsöffnung liegt nicht vor.\n3. Kaffee und Sitzgelegenheit\nNeben der Kasse steht eine kleine Kaffeemaschine. Kaffee wird im Becher abgegeben. Zwei Hocker am \nFenster werden gelegentlich genutzt, meist wartet dort jemand auf die Begleitung. Eine gesonderte \nSpeisekarte oder Bedienung an Tischen gibt es nicht. Alkohol wird in verschlossenen Flaschen verkauft. \nEine spätere Umgestaltung zu einem kleinen Café wurde mit dem Vermieter nur unverbindlich \nangesprochen.\n4. Noch nicht umgesetzte Änderungen\nIch überlege, Haushaltswaren ganz aus dem Sortiment zu nehmen. Das ist noch keine Entscheidung. Die \nvorhandene Ware bleibt bis auf Weiteres unter der Woche im Verkauf. Sonntags wurde ein Teil des \nhinteren Regals zuletzt mit einem Vorhang verdeckt. Willibald soll mir sagen, ob das im Alltag \nüberhaupt eindeutig gehandhabt wurde.",
+      "pixel_sha256": "441c80419068be2391f0ea021ce7bd591cdf86cc9e4edab04092b9e4d38f1f2a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "05_Kontrollvermerk.pdf",
+      "pdf_sha256": "c770694ae3787e949e17213c87ec91178e987ebc2dd7c208bf924c1e72aef86f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/05_Kontrollvermerk/page-1.png",
+      "png_sha256": "1f9a4b5b9946bd4fceff0ff444c4d2f3720bbd1f3cf69350bff86207bb5efe7d",
+      "text": "1\nBezirksamt Friedrichshain-Kreuzberg von Berlin\nOrdnungsamt, Außendienst\nBetriebsakte Abendfuchs\nKontrolle am Sonntag, 20. September\n21.09.2026 · Lad-FK-26-441\nAm 20.09.2026 wurde die Verkaufsstelle Abendfuchs in der Krossener Straße 47 um 15.12 Uhr geöffnet \nangetroffen. Im Laden befanden sich der Beschäftigte Willibald Kraft sowie drei Kunden. Die Inhaberin \nwar nicht anwesend. Angeboten wurden im vorderen Bereich Getränke, Tabakwaren, Zeitungen, \nSüßwaren, Postkarten und Stadtpläne. Ein Teil des hinteren Regals war durch einen Stoffvorhang \nverdeckt. Seitlich waren Packungen mit Nudeln und Tierfutter erkennbar.\nWährend der Anwesenheit wurde an einen Kunden eine Packung gemahlener Kaffee, zwei Flaschen \nWasser und eine Zeitung abgegeben. Der Beschäftigte nahm die Kaffeepackung aus einem Regal hinter \ndem Vorhang. Er erklärte, dass er den Kunden kenne und dieser regelmäßig sonntags komme. Der \nKunde verließ den Laden, ohne dass seine Personalien festgestellt wurden. Ein Kassenbon wurde \nausgedruckt; eine Kopie wurde mit Zustimmung des Beschäftigten zur Akte genommen.\nAn der Eingangstür hing ein Schild „Sonntag 13 bis 20 Uhr“. Eine besondere behördliche \nÖffnungsentscheidung konnte vor Ort nicht vorgelegt werden. Der Beschäftigte verwies auf die \nStadtpläne und das nahe Hotel. Eine abschließende rechtliche Bewertung wurde mit ihm nicht erörtert. \nEr erhielt den Hinweis, dass die Inhaberin schriftlich angehört werde.\nDie beiden Hocker am Fenster waren während der Kontrolle unbesetzt. Ein Ausschank alkoholischer \nGetränke wurde nicht beobachtet. Die Maschine für Kaffee im Becher stand eingeschaltet neben der \nKasse. Über das gesamte Wochensortiment und die wirtschaftliche Verteilung der Umsätze konnten vor \nOrt keine verlässlichen Angaben gemacht werden.\nNotiert von Karlotta Weiss",
+      "pixel_sha256": "edfd7894f3e242b659ee4cb3ede0d132bdc63c44394901c0f1d6aec5977465f8",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "06_Umsaetze_und_Zeiten.pdf",
+      "pdf_sha256": "b36caa617d135c5d5c6bb8d968b6d8e759a6eff7d99c2cd481718baa7ad0fcda",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/06_Umsaetze_und_Zeiten/page-1.png",
+      "png_sha256": "2b8308fd5bb64ec94c687ae36e8553693d85d5c6eaf10088c7f45ed263bd630c",
+      "text": "Warengruppe Mo bis Sa EUR Sonntag EUR Gesamt EUR\nGetraenke 2,450.00 430.00 2,880.00\nTabak und Zeitungen 1,340.00 210.00 1,550.00\nSnacks und Kaffee 720.00 95.00 815.00\nHaushalt und Vorrat 860.00 18.00 878.00\nPostkarten und Plaene 65.00 22.00 87.00\nGesamt 5,435.00 775.00 6,210.00",
+      "pixel_sha256": "2e9747f4b6e4d8d7222d9159b3bbabfb141c23d888c17ae10dc4f267af31d216",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "06_Umsaetze_und_Zeiten.pdf",
+      "pdf_sha256": "b36caa617d135c5d5c6bb8d968b6d8e759a6eff7d99c2cd481718baa7ad0fcda",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/06_Umsaetze_und_Zeiten/page-2.png",
+      "png_sha256": "17447a1e64c99d999c10a52be18e3474c3c04d3523984ddc3c859a8906f879f8",
+      "text": "Tag Beginn h Ende h Stunden Besetzung\nMontag 8.00 24.00 16.00 Samira und Willibald, getrennte Schichten\nDienstag 8.00 24.00 16.00 Samira und Willibald, getrennte Schichten\nMittwoch 8.00 24.00 16.00 Samira und Hedi, getrennte Schichten\nDonnerstag 8.00 24.00 16.00 Samira und Hedi, getrennte Schichten\nFreitag 8.00 24.00 16.00 Samira und Willibald, getrennte Schichten\nSamstag 8.00 24.00 16.00 Samira und Hedi, getrennte Schichten\nSonntag bisher 13.00 20.00 7.00 Willibald; Plan wird ueberprueft",
+      "pixel_sha256": "5576b22d7018838d463b012ebb8f6f4380ad5f7a0eef73c572078710accdb8d9",
+      "visual_review": "pass_after_final_recheck"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "07_Kassenbon_Abschrift.pdf",
+      "pdf_sha256": "ea8f158967f82c7c07beaca0b877f35a65686f61c946fd8c7348ad82e27d3615",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/07_Kassenbon_Abschrift/page-1.png",
+      "png_sha256": "edb637ea2d682aee49a376f8a83c07d5ac19cd2bd5ea542aa138bd367bcc7bd6",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 07_Kassenbon_Abschrift.txt\nAbschrift des Bons vom Kontrolltag\n20.09.2026\nAbendfuchs, Krossener Straße 47, Berlin\nBon 20260920-0048, 20.09.2026 15:14\nGemahlener Kaffee 500 g 6,49 EUR\nMineralwasser 0,5 l, zwei Flaschen 3,00 EUR\nPfand zwei Flaschen 0,50 EUR\nSonntagszeitung 3,20 EUR\nSumme 13,19 EUR\nBar erhalten 15,00 EUR\nRückgeld 1,81 EUR\nSamiras Notiz: Abschrift vom Originalbon. Kaffee ist die Packung aus dem hinteren Regal, kein\nzubereiteter Kaffee im Becher.\n",
+      "pixel_sha256": "bfdb9160d0483a6a5087b23c8434008a8f805eee9080b7c86a5560d9b2475b16",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "08_Willibald_erklaert.pdf",
+      "pdf_sha256": "9d2ebeb720a83c357a610f00370383516cc2326669e2289048f3630f811f474f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/08_Willibald_erklaert/page-1.png",
+      "png_sha256": "d7f27d1d0b6547cda07183e96ac47ed57c8995c346c8f20140d95a48f02d247a",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 08_Willibald_erklaert.eml\nVon\nWillibald Kraft <willibald@abendfuchs.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nTue, 22 Sep 2026 19:30:00 +0200\nBetreff\nWas am Sonntag passiert ist\nLiebe Samira,\nja, ich habe die Kaffeepackung verkauft. Herr Wendt kauft sie fast jede Woche und fragte ausdrücklich\ndanach. Ich dachte, der Vorhang sei vor allem gegen die freie Auswahl gedacht. Das war offenbar nicht\nklar. Die zwei Hocker waren leer, niemand hat dort Bier getrunken. Bitte schreib dem Amt nicht, dass es\nnur Kaffee aus der Maschine war.\nWillibald\n",
+      "pixel_sha256": "2efaa84bd33139baf0e97d16eb5accc559397df1ef61fe179df16706a00ce47a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "09_Anhoerung_Ladenoeffnung.pdf",
+      "pdf_sha256": "45891cb1347f17b24d1b61bf504a1f78ffd3eeba404481171e0c035e6e4977eb",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/09_Anhoerung_Ladenoeffnung/page-1.png",
+      "png_sha256": "95d5b63325ae47e1cd1a164a423d82a895dbf17aa51944c059da05adae5ae91d",
+      "text": "1\nBezirksamt Friedrichshain-Kreuzberg von Berlin\nOrdnungsamt, Gewerbeangelegenheiten\nSamira Özdemir\nKrossener Straße 47, 10245 Berlin\nAnhörung zur Sonntagsöffnung des Abendfuchs\n25.09.2026 · Lad-FK-26-441\nSehr geehrte Frau Özdemir,\nnach dem beigefügten Kontrollvermerk war Ihre Verkaufsstelle am Sonntag, dem 20.09.2026, um 15.12 \nUhr geöffnet. Es wurden unter anderem gemahlener Kaffee in einer Verkaufspackung, Wasser und eine \nZeitung abgegeben. Nach den bislang vorliegenden Informationen handelt es sich um einen Einzelhandel \nmit gemischtem Sortiment für den täglichen Bedarf. Eine besondere Öffnungsentscheidung für diesen \nSonntag ist uns nicht bekannt.\nWir geben Ihnen Gelegenheit, bis zum 09.10.2026 zu den Feststellungen Stellung zu nehmen. Bitte teilen \nSie mit, auf welchen Ausnahmetatbestand Sie die Sonntagsöffnung stützen, und beschreiben Sie das \ntatsächlich während der gesamten Woche angebotene Sortiment. Wenn Sie von einer besonderen \ntouristischen Ausrichtung ausgehen, erläutern Sie die dafür maßgeblichen Umstände. Die bloße Nähe zu \neinem Beherbergungsbetrieb genügt als tatsächliche Beschreibung noch nicht.\nEs wird geprüft, ob Ihnen das Offenhalten der Verkaufsstelle an Sonn- und Feiertagen außerhalb \nzulässiger Ausnahmen durch eine gesonderte Verfügung zu untersagen ist. Eine solche Verfügung ist mit \ndiesem Schreiben noch nicht erlassen. Über einen etwaigen Ordnungswidrigkeitenvorgang wird \ngesondert entschieden. Diese Anhörung ist nicht als Erlaubnis zur weiteren Sonntagsöffnung zu \nverstehen.\nBitte reichen Sie vorhandene Belege geordnet unter Angabe des Geschäftszeichens ein. Soweit Sie den \nBetrieb seit der Kontrolle tatsächlich geändert haben, nennen Sie Datum und Umfang der Änderung. Für \neine Einsicht in die vorhandenen Unterlagen können Sie einen Termin vereinbaren oder die Übersendung \nelektronischer Kopien beantragen.\nIm Auftrag\nMarlene Hoff",
+      "pixel_sha256": "caa9dd1bb64f75e8776fd5d39db23e9b845f3cd077aeb0d43efe1c32ad2ec8a5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "10_Samira_fragt_Amt.pdf",
+      "pdf_sha256": "f4c26b60b0e389aff69507e6428849270ed105d8fc497a51a7c6d958f7b8078f",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/10_Samira_fragt_Amt/page-1.png",
+      "png_sha256": "fffaa7ae2e0bc3fe7f41b36949ec67838ccf24740275d0ac02db8d3e706012e1",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 10_Samira_fragt_Amt.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nMarlene Hoff <gewerbe@amt-fk.example>\nDatum\nMon, 28 Sep 2026 11:06:00 +0200\nBetreff\nLad-FK-26-441: Unterlagen und Frist\nSehr geehrte Frau Hoff,\nich habe Ihr Schreiben am Samstag aus dem Briefkasten genommen. Ich werde bis zum 9. Oktober\nantworten und lasse mich beraten. Bitte senden Sie mir eine lesbare Kopie des Kontrollvermerks; die\nletzte Seite meines Ausdrucks ist sehr blass. Eine Verlängerung beantrage ich derzeit nicht. Am\nvergangenen Sonntag blieb der Laden geschlossen.\nMit freundlichen Grüßen\nSamira Özdemir\n",
+      "pixel_sha256": "487055db5672c6ae3991a3ad3ada086304c0baa152686f2449b405441ed56687",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "11_Antwort_mit_Sortiment.pdf",
+      "pdf_sha256": "c2ee357bf3172fe4b3aac5bd94c0815b7eda2458bc91d711cf32c120330001fb",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/11_Antwort_mit_Sortiment/page-1.png",
+      "png_sha256": "590965702081064773740ff19f4170228c900c8b25da5260c128ebd736a83413",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 11_Antwort_mit_Sortiment.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nTue, 29 Sep 2026 20:17:00 +0200\nBetreff\nUnterlagen für Ihre Prüfung\nSehr geehrte Frau Morgen,\nanbei die Warenübersicht und meine Tabelle für die Woche vom 14. bis 20. September. Die\nUmsatzgruppen kommen aus meiner Kasse; sie sagen nichts darüber, ob ein Kunde Tourist ist. Die 18\nEUR sonntags bei Haushalt und Vorrat enthalten den Kaffee und weitere Kleinigkeiten, die ich noch mit\nWillibald zuordnen muss. Bitte verwenden Sie die Zeile nicht als Zahl der verkauften Packungen.\nFreundliche Grüße\nSamira Özdemir\n",
+      "pixel_sha256": "11b7cbe94c245b720414fd7657ebd511684b377d48b0ae20892821a4c89dd51d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "12_Veranstalter_Absicht.pdf",
+      "pdf_sha256": "08bb6d86509de2e70f8ee33ddf6dcb31ea509130a8d658d6344dec01453bcc8d",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/12_Veranstalter_Absicht/page-1.png",
+      "png_sha256": "03d51badc7d990e0de3846db40c284839d6bfb1c25125f616ff7240c69962a83",
+      "text": "1\nKiezrunde Abendsonne e. V.\nVorsitzender Balthasar Nguyen\nSamira Özdemir\nSpäti Abendfuchs\nVorläufige Planung eines Nachbarschaftstags\n30.09.2026\nLiebe Frau Özdemir,\nwir planen für Sonntag, den 25. Oktober 2026, einen kleinen Nachbarschaftstag im Hof unseres \nVereinsraums. Vorgesehen sind eine Pflanzentauschbörse, ein Reparaturtisch für kleine \nHaushaltsgegenstände und ein Kinderbüchertausch. Die Veranstaltung soll von 14 bis 18 Uhr stattfinden. \nWir rechnen derzeit mit etwa 80 bis 120 Besuchern über den Nachmittag verteilt. Diese Schätzung beruht \nauf unserem Sommertermin und ist keine zugesagte Besucherzahl.\nWir hatten besprochen, dass Ihr Laden Wasser und verpackte Snacks für die Helfer liefern könnte. Ein \neigener Verkaufsstand im Hof wurde noch nicht vereinbart. Ebenso haben wir keine Aussage dazu \ngetroffen, ob Ihr Geschäft an diesem Tag geöffnet sein darf. Die öffentlich-rechtlichen Fragen unseres \nFestes klären wir getrennt. Der Hof liegt rund 350 Meter von Ihrem Laden entfernt und ist von dort nicht \nunmittelbar sichtbar.\nDie endgültige Zusage der Hausgemeinschaft steht noch aus. Falls sie ausbleibt, verschieben wir den \nTermin auf einen Samstag im November. Bitte lassen Sie deshalb noch keine kostenpflichtigen Plakate \ndrucken. Wir möchten erst am 7. Oktober verbindlich über Termin und Ort entscheiden. Eine Anzeige \nzur besonderen Sonntagsöffnung Ihres Ladens haben wir für Sie nicht erstattet.\nGern informieren wir Sie über den weiteren Stand. Uns ist wichtig, dass die Veranstaltung überschaubar \nbleibt und die Nachbarn eingebunden werden. Eine Bühne, verstärkte Musik oder ein großer \nStraßenverkauf sind nicht vorgesehen. Wir freuen uns über Ihre Unterstützung als Lieferantin, auch wenn \nIhr Laden an diesem Sonntag geschlossen bleibt.\nHerzliche Grüße\nBalthasar Nguyen",
+      "pixel_sha256": "d5826dbae9bb2dae91ad5b387ccf8519efc2067647545936956ffe6e9e33f449",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "13_Chat_Kaffeeidee.pdf",
+      "pdf_sha256": "64f0884d9d18788140a6e0938986f1ce9759626934add0368bcd2166709459d7",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/13_Chat_Kaffeeidee/page-1.png",
+      "png_sha256": "c7f92de0a9c571f5e8a8ed44c922a288d7d2fdc72e7fc24ddf3c4d6282c62173",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 13_Chat_Kaffeeidee.txt\nKleiner Teamchat zur Kaffeeidee\n30.09.2026\n30.09.2026 17:10 Hedi: Könnten wir nicht einfach Café auf das Schild schreiben?\n30.09.2026 17:13 Samira: So einfach wohl nicht. Ich möchte wirklich wissen, was wir dürfen.\n30.09.2026 17:15 Willibald: Zwei Hocker und die Maschine machen noch keinen schönen Cafébetrieb.\nKüche haben wir auch keine.\n30.09.2026 17:20 Hedi: Dann planen wir erstmal die Woche ordentlich. Ich kann samstags früher\nanfangen.\n30.09.2026 17:23 Samira: Danke. Den Sonntag am 4. Oktober lassen wir vorerst geschlossen. Das Fest\nist noch nicht bestätigt.\n",
+      "pixel_sha256": "2085e8a87a01441c45845e54358ff052a3244e4a78563e98b6f019e84b42fdc9",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "14_Mietvertragsnachtrag_Entwurf.pdf",
+      "pdf_sha256": "7b2f15d274a7ba59e93b0a7e0345dcc7ddc446a58ba3c381e8a37fb279e61d08",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/14_Mietvertragsnachtrag_Entwurf/page-1.png",
+      "png_sha256": "933dcb7648a35dbd206f776d400eade948a9d0a427d604cffa1ac6917552a65a",
+      "text": "1\nHausverwaltung Fuchsbogen\nEntwurfsstand ohne Unterschriften\nSamira Özdemir\nEntwurf: mögliche Erweiterung der Nutzung\n01.10.2026\n1. Gegenstand der Besprechung\nDie Parteien erwägen, die bisher als Einzelhandelsfläche vermieteten Räume künftig teilweise für einen \nkleinen Cafébetrieb zu nutzen. Gegenstand dieses Entwurfs ist allein die zivilrechtliche Zustimmung der \nVermieterseite zu einer später näher beschriebenen Nutzung. Eine verbindliche Änderung des \nMietvertrags ist bisher nicht vereinbart. Der bestehende Mietvertrag bleibt bis zu einer Unterzeichnung \nunverändert.\n2. Noch festzulegender Umfang\nDie Zahl der Sitzplätze, die tatsächliche Zubereitung von Speisen und Getränken, die Lüftung sowie die \nBetriebszeiten sind noch offen. Die Mieterin wird ein konkretes Konzept vorlegen. Ein Ausschank \nalkoholischer Getränke und eine Nutzung des Gehwegs sind von diesem Entwurf nicht umfasst. Bauliche \nVeränderungen bedürfen einer vorherigen Abstimmung mit der Vermieterseite und dürfen erst nach \nKlärung erforderlicher öffentlich-rechtlicher Voraussetzungen begonnen werden.\n3. Behörden und Kosten\nDie Vermieterseite erteilt mit diesem Entwurf keine Aussage zur Genehmigungsfähigkeit. Die Parteien \nwerden nach Vorliegen des Konzepts festlegen, wer welche Planungs- und Antragskosten trägt. Eine \nVerpflichtung der Mieterin zur Umsetzung eines Cafébetriebs besteht nicht. Die bloße Erwähnung dieses \nEntwurfs gegenüber Dritten darf nicht als bereits erteilte behördliche Erlaubnis oder endgültige \nmietvertragliche Zustimmung dargestellt werden.\n4. Weiteres Vorgehen\nFür den 20. Oktober ist ein unverbindliches Gespräch vorgesehen. Bis dahin sollen keine Einbauten \nbestellt werden. Samira Özdemir kann sich nach rechtlicher und wirtschaftlicher Prüfung entscheiden, \nden bisherigen Einzelhandel unverändert fortzuführen. Beide Seiten möchten vermeiden, dass eine \nvorschnelle Bezeichnung als Café Erwartungen auslöst, die der tatsächliche Betrieb nicht erfüllt.\nUnterschriften sind nicht geleistet.",
+      "pixel_sha256": "119c831e9d095e93305e24ee847f8f3632f8135b8e459f32421ed517ea976b9a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "15_Amt_Kopie.pdf",
+      "pdf_sha256": "ad56bb4cc05d39169f5f46e967341c41627a9218cd5842d8226a9bd5de3ecc5b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/15_Amt_Kopie/page-1.png",
+      "png_sha256": "9e96175dc82f332360766d1a4bf09bf9b480d0f7a74a97fe4168696d1f046f39",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 15_Amt_Kopie.eml\nVon\nMarlene Hoff <gewerbe@amt-fk.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nThu, 01 Oct 2026 09:12:00 +0200\nBetreff\nLad-FK-26-441: Kontrollvermerk\nSehr geehrte Frau Özdemir,\nSie können den Kontrollvermerk in unserem Portal erneut herunterladen. Die vorhandene Fassung\numfasst drei beschriebene Seiten einschließlich der Bonkopie. Derzeit liegen keine weiteren\nKontrollfeststellungen zu einem Alkoholausschank vor. Die Anhörungsfrist 9. Oktober bleibt bestehen.\nÜber eine Untersagungsverfügung ist noch nicht entschieden.\nMit freundlichen Grüßen\nMarlene Hoff\n",
+      "pixel_sha256": "7865ab1151412cc7b43c0560bb05b92c8621ef9e4c8a02325c42921e4dd3b076",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "16_Betriebsnotiz_Wochenplanung.pdf",
+      "pdf_sha256": "de865bdc3727fe7b70515ab165e5bb8dcfc769706a008fe0876122638ee11422",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/16_Betriebsnotiz_Wochenplanung/page-1.png",
+      "png_sha256": "ccd23f336ab931860b3996e1c5336c02f24df9d674dc95a2f32a06e7b6827e29",
+      "text": "1\nSamira Özdemir\nWillibald Kraft und Hedi Santos\nArbeitsstand für die nächsten beiden Wochen\n01.10.2026\n1. Öffnung und Kundeninformation\nFür den 4. und 11. Oktober plane ich zunächst keine Sonntagsöffnung. An die Tür kommt ein sachlicher \nHinweis, dass wir die Öffnungszeiten prüfen und an diesen beiden Tagen geschlossen bleiben. Bitte \ndiskutiert mit Kunden keine angebliche Ausnahme, solange wir hierzu keinen belastbaren Stand haben. \nDie Werktagsöffnung bleibt vorerst wie bisher. Änderungen teilen wir gemeinsam mit.\n2. Sortiment und Kasse\nDie Warenliste vom 15. September beschreibt das aktuelle Angebot. Haushaltswaren und \nVorratslebensmittel werden nicht heimlich aus der Liste gestrichen, solange wir sie weiter verkaufen. \nBitte ordnet Verkäufe in der Kasse der zutreffenden Gruppe zu. Die vorhandene Gruppe „Snacks und \nKaffee“ soll künftig zwischen zubereitetem Kaffee und Verkaufspackungen unterscheiden. Alte \nBuchungen werden dabei nicht überschrieben; Erläuterungen werden als Notiz ergänzt.\n3. Schichten und Aufgaben\nDie Tabelle enthält die Ladenzeiten, nicht die Arbeitszeit einer einzelnen Person. Wir erstellen weiterhin \ngetrennte Schichten und erfassen tatsächlichen Beginn, Ende und Pausen. Hedi übernimmt am \nSamstagvormittag die Warenannahme. Willibald prüft mit mir den Bestand an Zeitungen und \nStadtplänen. Ich bleibe für die Behördenkorrespondenz verantwortlich und leite die Antwort zur \ngemeinsamen Information weiter.\n4. Spätere Entscheidungen\nÜber eine echte Umgestaltung des Betriebs sprechen wir erst nach der Beratung und dem Termin mit der \nVermietung. Es werden keine neuen Hocker oder Küchengeräte bestellt. Die Unterstützung des \nNachbarschaftstags als Lieferantin kann unabhängig davon vorbereitet werden, sobald der Verein den \nTermin bestätigt. Bis dahin geben wir keine öffentliche Zusage für eine Ladenöffnung am \nVeranstaltungstag ab.",
+      "pixel_sha256": "1d4b54726d10f26c7d66b948eb864fe5ef15fe9294f48cf4bdbbbebe77348a73",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "17_Nachbar_freundlich.pdf",
+      "pdf_sha256": "5ce414758390ce963a2515e71a1f4cae7755dd813eddc5623cacd6edf6dc62f0",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/17_Nachbar_freundlich/page-1.png",
+      "png_sha256": "67371640a29b6143595526e35c1242eb0ce70a569a6e1b7bbed78e9558822681",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 17_Nachbar_freundlich.eml\nVon\nTraugott Wendt <traugott@nachbarschaft.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nThu, 01 Oct 2026 18:43:00 +0200\nBetreff\nDanke für die frühen Flaschenkisten\nLiebe Frau Özdemir,\ndanke, dass die Flaschenkisten jetzt morgens statt kurz vor Mitternacht abgeholt werden. Das hilft uns im\nVorderhaus. Ich war der Kunde mit der Kaffeepackung am Sonntag. Wenn Sie den Vorgang erklären\nmüssen, bestätige ich gern, was ich gekauft habe. Ich möchte Ihnen keine Schwierigkeiten machen, aber\nauch nichts Falsches erzählen.\nHerzliche Grüße\nTraugott Wendt\n",
+      "pixel_sha256": "de03d2489dd5266979153547fdc0537c2b15ef9339b203c2a82330b90dd637c4",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "einzeln",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "18_Nachtrag_Fest_offen.pdf",
+      "pdf_sha256": "6df8cf63ae2c4f23178d8ee688a59be5693d90667fe2f09c7dea979e4913f398",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/18_Nachtrag_Fest_offen/page-1.png",
+      "png_sha256": "db6d48f4f3fa535fa9145a3ce9dc36d3fa4a1f1943e0878f666915dd122e9be4",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nDatei: 18_Nachtrag_Fest_offen.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 10:02:00 +0200\nBetreff\nZum Fest bitte noch nichts behaupten\nSehr geehrte Frau Morgen,\nder Verein hat den Hof noch nicht sicher. Bitte begründen Sie die Kontrolle vom 20. September nicht mit\ndem erst geplanten Oktoberfest. Das sind zwei verschiedene Termine. Mir ist am wichtigsten, die Antwort\nkorrekt zu machen und künftig einen verlässlichen Plan zu haben.\nViele Grüße\nSamira Özdemir\n",
+      "pixel_sha256": "d5c73c847bef0e28d44edf086273a76f12c4090a2ca99ccd4e7d611f50192a12",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-01.png",
+      "png_sha256": "eb8e15ad8b1875f73b4b89eebc6e0d1cd231d347bb9cc51e1460f60853f7a68e",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 1\nNOTIZEN UND TEXTDATEIEN\n07_Terminnotizen.txt\nProjekttermine, Stand 21. September\n21.09.2026\n21.09.2026 Anzeige versandt; Unterlagen noch nicht alle abschließend geprüft.\n24.09.2026 Geplante Erstprüfung der Sachverständigen.\n28.09.2026 Rückfrage wegen Abschirmung der Tür.\n02.10.2026 Beratungstermin.\n05.10.2026 Technische Übergabe und Geräteeinweisung.\n06.10.2026 Frühester angebotener Nachtermin der Sachverständigen.\n19.10.2026 Erste Patiententermine nur vorgemerkt, nicht bestätigt.\n02.–06.11.2026 Farid auf Fortbildung; CT-Vertretung noch offen.\nMalika: Die Datumsreihe ist unsere Planung. Sie enthält keine behördliche Bestätigung eines Starttags.\n",
+      "pixel_sha256": "0e8b8d0036515883d5cebdb73479c747fa6d3df37bfddbe0e334c9914684d781",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-02.png",
+      "png_sha256": "c42de52701b40be0b7bc56ccdf0f8bd8d3b04c818d251c171d0f44fb1b966000",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 2\nNOTIZEN UND TEXTDATEIEN\n14_Praxischat.txt\nChat zur Terminvergabe\n30.09.2026\n30.09.2026 12:05 Malika: Darf ich den 19. Oktober schon fest bestätigen?\n30.09.2026 12:08 Farid: Bitte noch nicht. Technische Übergabe ist nicht das ganze Verfahren.\n30.09.2026 12:11 Nela: MRT bleibt separat geplant, solange die Wege sicher sind. Bitte nicht alle Termine\nabsagen.\n30.09.2026 12:14 Malika: Auf einer Berliner Seite stehen vier Wochen. Im Gesetz finde ich jetzt zwei. Ich\nlege beide Ausdrucke zur Beratung.\n30.09.2026 12:18 Farid: Genau deshalb lassen wir den Ablauf prüfen. Der Türnachweis und die\nvollständigen Kopien fehlen ohnehin noch.\n30.09.2026 12:21 Nela: Die Abendkooperation ist nur eine Idee für später. Das muss im Schreiben klar\nwerden.\n",
+      "pixel_sha256": "5ffee2e3b768a462490a8572ce0d229fe31eb027b6f172ebc0d01cb9c578eaf5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-03.png",
+      "png_sha256": "6aab4c2d3296ea0df4bd56d1a21e764931b4351e36a4066ed50a37f9ce5ec969",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 3\nE-MAILS\n03_Lieferant_Startsignal.eml\nVon\nBildwerk Medizintechnik <vertrieb@bildwerk.example>\nAn\nRadiologie Spreebogen <organisation@radiologie-spreebogen.example>\nDatum\nMon, 14 Sep 2026 13:08:00 +0200\nBetreff\nIhr CT ist bald startklar\nSehr geehrte Frau Dr. Ahrens,\ndie technische Übergabe ist für den 5. Oktober vorgesehen. Unser Vertrieb sagt gelegentlich\n„betriebsbereit“, meint damit aber unsere Installation und Einweisung. Die behördlichen und medizinischen\nVoraussetzungen prüfen wir für Sie nicht. Bitte stimmen Sie Patiententermine mit Ihren Fachleuten ab. Für\neinen Gewerbeschein kann ich Ihnen leider keine belastbare Auskunft geben; meine vorige Nachricht war\ninsoweit zu pauschal.\nFreundliche Grüße\nBenno Krull\n",
+      "pixel_sha256": "b589f62106331947a85b7d61e806eb2c9b4571be7b289b06eb8cea604613bf37",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-04.png",
+      "png_sha256": "16991ca90ebbada4772db44873763747af4228a62e8773ef0739931f95d51cf8",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 4\nE-MAILS\n08_Anzeige_Nachreichung.eml\nVon\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nAn\nLAGetSi Strahlenschutz <strahlenschutz@lagetsi-kontakt.example>\nDatum\nTue, 22 Sep 2026 10:44:00 +0200\nBetreff\nCT-SB-02: ergänzende Gerätedaten\nSehr geehrte Damen und Herren,\nzu unserer gestern übersandten Anzeige reichen wir die aktuelle Geräte- und Raumübersicht nach. Die\nProjektkostentabelle füge ich für die zeitliche Abstimmung bei. Der Raum trägt intern jetzt die Nummer 3\nund im alten Plan die Nummer 2. Wir klären die eindeutige Bezeichnung im technischen Nachweis. Der\nabschließende Bericht der Sachverständigen liegt noch nicht vor.\nMit freundlichen Grüßen\nFarid Benali\n",
+      "pixel_sha256": "c0f0546b934a3eb454115eb1633d9b6933a5f079e00c5bb6135c8275bc0d7363",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-05.png",
+      "png_sha256": "d738cb4e7c7d6d836664909b5c3a41651bc13f6f6900b3902d0bdb94fce1887f",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 5\nE-MAILS\n10_Teleradiologie_Anfrage.eml\nVon\nFernblick Radiologie <koordination@fernblick.example>\nAn\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nDatum\nSat, 26 Sep 2026 15:16:00 +0200\nBetreff\nAbendbefundung ab November?\nLieber Farid,\nwir können über eine spätere Zusammenarbeit sprechen. Bislang gibt es weder eine vertragliche Zusage\nnoch ein fertiges Versorgungskonzept für euren Standort. Bitte stellt unsere Erreichbarkeit nicht als bereits\ngenehmigte Teleradiologie dar. Wir müssten Geräte, Personal vor Ort, Zeiten und die einschlägigen\nAnforderungen gemeinsam klären. Für den Oktoberstart planen wir keine Dienste ein.\nViele Grüße\nDr. Jolanda Winter\n",
+      "pixel_sha256": "aab600d40d5d9eb0a19dbab36b703272107bc03d6bdca1c9b997181276a104e4",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-06.png",
+      "png_sha256": "86905eca71b918c6f7328417cb66f2c8c92aca6a2f87264bf3acdcf872fc9b30",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 6\nE-MAILS\n11_Planerin_Raum.eml\nVon\nPlanungsbüro Raumfaden <planung@raumfaden.example>\nAn\nMalika Roth <organisation@radiologie-spreebogen.example>\nDatum\nMon, 28 Sep 2026 09:50:00 +0200\nBetreff\nRaum 2 ist jetzt intern Raum 3\nLiebe Frau Roth,\nich bestätige: Der frühere Archivraum gegenüber dem Personalzimmer ist im Vermieterplan Raum 2. Eure\ninterne Nummer 3 bezeichnet denselben Raum. Ich ergänze den Plan um beide Bezeichnungen und die\nGerätenummer. Das ersetzt nicht die offene technische Nachprüfung der Tür. Die bauaufsichtliche\nRückfrage zur geänderten Nutzung bearbeite ich ebenfalls noch; eine abschließende Rückmeldung habe\nich heute nicht erhalten.\nBeste Grüße\nHedi Krause\n",
+      "pixel_sha256": "ccea8897c34af73bd6c81c1de0862bcaf7b3c47f87b2dcec1e7d74c2aada9417",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-07.png",
+      "png_sha256": "47bef925681cf3a505c5b0a00adcfc753ba7026ee3a71eb2bbbd88db3ced8e9a",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 7\nE-MAILS\n15_Sachverstaendige_Nachtrag.eml\nVon\nGesine Pohl <post@strahlklar.example>\nAn\nRadiologie Spreebogen <organisation@radiologie-spreebogen.example>\nDatum\nThu, 01 Oct 2026 08:54:00 +0200\nBetreff\nZwischenbericht und Nachtermin\nSehr geehrte Damen und Herren,\nanbei erhalten Sie den Zwischenbericht vom 30. September. Der angebotene Nachtermin am 6. Oktober\nbleibt bis morgen reserviert. Bitte übersenden Sie zuvor die Unterlage zur Türabschirmung und den Plan\nmit eindeutiger Raumbezeichnung. Wir stellen die abschließende Bescheinigung erst nach Prüfung der\noffenen Punkte aus.\nMit freundlichen Grüßen\nGesine Pohl\n",
+      "pixel_sha256": "f6eac2753c3fdb72986c33b0660e8b228a8beb0b4f84c2e256676d86263735a2",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-08.png",
+      "png_sha256": "b5f31273e4e72f8a20b9b24adc917b0d1608a47654f23ef6fec0ab29c82fa7d1",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 8\nE-MAILS\n17_Fachkundekopie_folgt.eml\nVon\n\"Dr. Farid Benali\" <farid@radiologie-spreebogen.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nThu, 01 Oct 2026 19:11:00 +0200\nBetreff\nVollständige Kopie morgen\nSehr geehrte Frau Morgen,\ndie vollständige Fachkundekopie liegt im Original in der Praxis. Ich scanne sie morgen neu. Bitte\nschreiben Sie nicht, dass sie Ihrer heutigen Nachricht bereits beigefügt wäre. Der Zwischenbericht der\nSachverständigen ist tatsächlich noch kein Abschluss. Für die Teleradiologie haben wir keinerlei feste\nZusage abgegeben.\nMit freundlichen Grüßen\nFarid Benali\n",
+      "pixel_sha256": "10c399d12ded777133b0dba68212ede3d88569fd1228236fc18cd093f4269835",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-09.png",
+      "png_sha256": "2b5cbd5a648a2e68d0550ff8ff880f5564a27afebbeda3b247604606f333aed7",
+      "text": "Akte: berlin-gewerbe-radiologie-spreebogen\nSeite 9\nE-MAILS\n18_Planung_bleibt_vorlaeufig.eml\nVon\nMalika Roth <organisation@radiologie-spreebogen.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 09:03:00 +0200\nBetreff\nTerminplan und Patienteninformation\nSehr geehrte Frau Morgen,\nwir haben zwölf CT-Termine für die Woche ab 19. Oktober nur vorgemerkt. Die Patienten wissen, dass\neine Bestätigung folgt. Die Kostenübersicht enthält bereits bezahlte Abschläge, aber keine behördliche\nFreigabe. Bitte geben Sie uns nach Ihrer Prüfung einen Plan, welche Unterlage welchen Schritt auslöst.\nDas wäre für die Organisation hilfreicher als ein pauschales Ja oder Nein zur ganzen Praxis.\nFreundliche Grüße\nMalika Roth\n",
+      "pixel_sha256": "62fcf8b188333bb7e9580ab37c847e6eb71dcfbc91dc4b53d186541cd034a12b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-10.png",
+      "png_sha256": "426270f9cb058fa1095210b566d4fa30037ff58b884c6bf058568b877c21c16d",
+      "text": "EXCEL-TABELLE (BERECHNETE DRUCKFASSUNG)\n06_Startplan_und_Kosten.xlsx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "efefae000ec4f17ae3d9dd054ce8013091e2b996bd50dd3c6373c63d71112ceb",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-13.png",
+      "png_sha256": "62fa013846271bc2a96fecaaee2d448c62f545744b5a4486fcdf0b038b43970f",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n01_Auftrag_Radiologie.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "8e76789deb14558e11cfc6f09da1d1ec14e3e29bcadd6ae7f130d68b4fadf720",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-15.png",
+      "png_sha256": "aba8a2a426b32b4d089b6f7ee4a69059e97958f01f898273a0c97dcd6dd3e19c",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n02_Betreiberdarstellung.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "23758447e37796f57de67a2a4c5286dcc0fc52aee334b020f9e65a876df8983c",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-17.png",
+      "png_sha256": "7de1a577f452c86de56bf74a481012ec74636fdc69243c863f14a9812128fcf4",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n04_Geraete_und_Raeume.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "6492e1e13ff9eda2e7b0dd57228f9cb4d32b26f8af9e447cd738e2140084476b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-19.png",
+      "png_sha256": "a28fc92419a7fac1f66eaf3f6a1410363b03a8edfe5a96a6a6d36fb7f6ad21bc",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n05_Personal_Fachkunde.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "bb6bb2a488ea2256c7e20e8040715a6ced407f4d0219e9b6d415317efbcfadec",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-21.png",
+      "png_sha256": "80a48e09bce710f4cc104c0f0ea7f2f0de8156adc1cd7dbaf57af753bd4152f8",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n09_LAGetSi_Nachforderung.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "1a3b578f4acd14e084b83281d103244ca94e16cc8c94b73ff91c61cd2eb2b1f9",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-23.png",
+      "png_sha256": "ae222321155ae5fce4e765b3c53b6c47959b1ce67cc77d86a4d16fcba8b85f00",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n12_Interne_MRT_Organisation.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "e3e3d164064f92127949cb0eb48fd0affdcc025fd6c12cf82de672836d53b371",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-25.png",
+      "png_sha256": "de19ade861cfce43d840bf94b2748516511257ddc931fb392a01cb2d8ab26fca",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n13_Pruefbericht_Auszug.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "667f1e9a280c5b0ab0701df81c8d0083154fa275972f3208edf8b9ab05d119b8",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-radiologie-spreebogen",
+      "pdf": "berlin-gewerbe-radiologie-spreebogen_gesamt.pdf",
+      "pdf_sha256": "ec04d4abe5e2f82b551f171dd483917726f270c7253a40a704559d0b7358b90b",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-27.png",
+      "png_sha256": "a352c5ac160a657d8e8c9a31e3455c982fab01557bb0a1c38a09e46205fe5196",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n16_Verantwortungszuordnung_Entwurf.docx\nberlin-gewerbe-radiologie-spreebogen\n",
+      "pixel_sha256": "080c399a98228f34b11e7686a45b9e5f908c8468fa30197639f6455275472f17",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-01.png",
+      "png_sha256": "a061b77e3848943cf5cd73807b57b74b0aab87f4be56d4f6aa6047a0e6120abf",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 1\nNOTIZEN UND TEXTDATEIEN\n07_Teamchat_Eroeffnung.txt\nChat zwischen Mina, Ottokar und Fritzi\n25.09.2026\n25.09.2026 18:04 Ottokar: Im Reservierungstool stehen noch 30. Ich ändere das heute auf 24.\n25.09.2026 18:06 Mina: Bitte auch keine Tische draußen versprechen. Wir haben die Skizze noch nicht.\n25.09.2026 18:10 Fritzi: Ich kann beim Weinabend bedienen. Meine Belehrung ist aus 2022, bei meiner\nbisherigen Stelle arbeite ich seitdem durchgehend in der Küche.\n25.09.2026 18:12 Mina: Bring bitte die Unterlagen mit. Wir schauen auch nach der letzten Folgebelehrung.\n25.09.2026 18:20 Ottokar: Ohne Wein wäre die Eröffnung auch schön. Dann machen wir Birnenschorle\nund Suppe. Nur bitte rechtzeitig entscheiden.\n",
+      "pixel_sha256": "69f720181926e2371cffd0515b32c8287d979f46b2d91c60edcbdc0f0a6117b3",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-02.png",
+      "png_sha256": "c892150483094f684459df18772bec49366bfdcc979c138997bb1f4117522dcf",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 2\nNOTIZEN UND TEXTDATEIEN\n13_Temperaturnotizen.txt\nTemperaturen und Arbeiten an der Vitrine\n30.09.2026\n28.09.2026 09:10 Mina: Anzeige 9,6 Grad. Ware eben geliefert, nicht ausgegeben.\n28.09.2026 10:15 Besichtigung: Anzeige 10,8 Grad.\n28.09.2026 10:30 Ware gesperrt, Lieferant angerufen.\n28.09.2026 12:40 Rücknahme durch Lieferantin.\n29.09.2026 Vitrine leer und außer Nutzung.\n30.09.2026 12:00 Techniker fertig. Anzeige nach Probelauf 4,2 Grad, keine Lebensmittel im Gerät.\n30.09.2026 16:00 Anzeige 4,1 Grad. Neues Einstechthermometer bestellt. Die Werte hier sind\nGeräteanzeigen, keine Produktkerntemperaturen.\n",
+      "pixel_sha256": "8c38504ecc9611ccefa749e891448ed7666d527a790786ac5cd94c43743ef93f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-03.png",
+      "png_sha256": "34ec44b3be6a09132b257ae7c75ed246a4ea3821fda736d150586d00e27602c5",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 3\nE-MAILS\n03_Froehlich_zur_Konzession.eml\nVon\nFritz Fröhlich <fritz@cafe-feierabend.example>\nAn\nOttokar Kühn <ottokar@kichererbse.example>\nDatum\nFri, 11 Sep 2026 16:42:00 +0200\nBetreff\nDer rote Ordner und die Tische\nLieber Ottokar,\nim roten Ordner ist meine Konzession von 2017. Ich habe damit Kaffee, Kuchen, Bier und Wein\nangeboten. Ihr macht doch fast dasselbe, deshalb dachte ich, das liefe einfach weiter. Die zwei Tische\ndraußen hatte ich im Sommer meistens stehen. Den Straßenbescheid finde ich gerade nicht. Bitte verlasst\neuch bei sechs Tischen lieber nicht auf meine Erinnerung.\nDer letzte reguläre Tag ist der 20. September. Danach räume ich nur noch auf.\nViele Grüße\nFritz\n",
+      "pixel_sha256": "9cb5814109754fde5df6d7d347417df1a7f11adfd36f8b8c45ea3ccc23f12e0b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-04.png",
+      "png_sha256": "88c3ddb951edc32dbac623fa9b22bab9b882230b6097f0a2509143f1df3723ed",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 4\nE-MAILS\n08_Eingang_Gewerbeanzeige.eml\nVon\nGewerbeservice Neukölln <gewerbe@amt-neukoelln.example>\nAn\nKichererbse Berlin GmbH <buero@kichererbse.example>\nDatum\nFri, 25 Sep 2026 09:11:00 +0200\nBetreff\nEingang Ihrer Gewerbeanzeige\nSehr geehrte Damen und Herren,\nIhre Anzeige für die Kichererbse Berlin GmbH mit beabsichtigtem Beginn 01.10.2026 ist eingegangen. Als\nTätigkeit ist „Café und vegetarische Speisewirtschaft, Ausschank von Getränken“ angegeben. Die\nEmpfangsbescheinigung wird gesondert bereitgestellt. Diese Nachricht enthält keine Entscheidung über\nIhren Antrag auf Gaststättenerlaubnis oder die Nutzung des Gehwegs.\nMit freundlichen Grüßen\nLene Sommer\n",
+      "pixel_sha256": "e01f50863a4d4970b6448ac5202b353629390f743452ab61bc7c12d97a8cbed3",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-05.png",
+      "png_sha256": "e94755a6203ec9305892e6eccd22d9427726c31696169bbe088902cd75858de6",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 5\nE-MAILS\n10_Lieferant_Ruecknahme.eml\nVon\nFrischefreunde Berlin <service@frischefreunde.example>\nAn\nMina Yilmaz <mina@kichererbse.example>\nDatum\nMon, 28 Sep 2026 14:20:00 +0200\nBetreff\nRücknahme Dip und Salat vom 28. September\nLiebe Mina,\nwir haben heute um 12.40 Uhr sechs ungeöffnete Dipbecher und vier Salatschalen aus Lieferschein\nFF-260928-14 zurückgenommen. Die Ware wird nicht erneut verkauft. Eine Gutschrift über 54,60 EUR\nfolgt. Unsere Fahrerin hat notiert, dass ihr die Produkte aus der betroffenen Vitrine entfernt hattet. Über die\nTemperatur während der Zeit bei euch können wir keine abschließende Aussage treffen.\nViele Grüße\nRosa Malik\n",
+      "pixel_sha256": "e78bb0da890dec4bf4fa80665be4e59f12d6223bb3ca176cb15075daad121731",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-06.png",
+      "png_sha256": "85d03d27cadc4bd137358f756b47d1a80e54dc31931d2860c248798494215c7c",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 6\nE-MAILS\n12_Nachweise_an_Amt.eml\nVon\nOttokar Kühn <ottokar@kichererbse.example>\nAn\nLene Sommer <gewerbe@amt-neukoelln.example>\nDatum\nWed, 30 Sep 2026 10:06:00 +0200\nBetreff\nGast-26-774: Konzept und Kostenübersicht\nSehr geehrte Frau Sommer,\nanbei übersende ich unser Betriebskonzept vom 24. September und die interne Startkostenübersicht. Den\naktuellen Grundriss lässt Mina gerade zeichnen. Wir meinen mit dem 1. Oktober die vertragliche\nÜbernahme; für Gäste soll erst am 16. Oktober geöffnet werden. Die sechs Gehwegtische werden bis zur\nKlärung nicht aufgestellt.\nWir lassen uns bei der Antwort auf Ihre weiteren Fragen unterstützen. Eine Erlaubnisentscheidung haben\nwir noch nicht erhalten.\nMit freundlichen Grüßen\nOttokar Kühn\n",
+      "pixel_sha256": "d46ecc4bfac64aebecee98b7701fd76828fb97e3f822d0bf4f698b74248e5f13",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-07.png",
+      "png_sha256": "1445bf37141b0cf5b6b742931e1693fc70d3bcc9f562067aa5c9a8f184ae5433",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 7\nE-MAILS\n15_Hausverwaltung_Gehweg.eml\nVon\nHausverwaltung Hofbogen <verwaltung@hofbogen.example>\nAn\nMina Yilmaz <mina@kichererbse.example>\nDatum\nWed, 30 Sep 2026 14:17:00 +0200\nBetreff\nIhre geplanten Tische vor dem Haus\nSehr geehrte Frau Yilmaz,\nwir haben grundsätzlich keine Einwände gegen kleine Tische vor Ihrer Einheit. Der Gehweg gehört jedoch\nnicht zu Ihrer Mietfläche. Bitte holen Sie die behördliche Entscheidung ein und halten Sie den\nHauseingang frei. Die Anwohnerin Frau Knöpfle hat wegen ihres Rollators um ausreichend Platz gebeten.\nWir vermitteln gern ein kurzes Kennenlernen.\nFreundliche Grüße\nAlma Vogt\n",
+      "pixel_sha256": "b080ed565890d62b7afddd6899b84f2060cb95577b324784b091bd3ed4e2e414",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-08.png",
+      "png_sha256": "3b0da8be099e5cbcabd7a4622d9fea12496dfd205cb1892bbde2c7b7aa2c9241",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 8\nE-MAILS\n16_Reparatur_belegt.eml\nVon\nMina Yilmaz <mina@kichererbse.example>\nAn\nElvira Brandt <lebensmittel@amt-neukoelln.example>\nDatum\nThu, 01 Oct 2026 08:35:00 +0200\nBetreff\nLM-26-1189: Servicebericht\nSehr geehrte Frau Brandt,\nanbei erhalten Sie den Servicebericht. Die betroffenen Produkte wurden zurückgegeben und nicht an\nGäste abgegeben. Die Rücknahmebestätigung liegt vor; ich kann sie bei Bedarf weiterleiten. Unter dem\nArbeitstisch wurde gereinigt, und die Reinigungsmittelbehälter sind jetzt bezeichnet. Die Vitrine bleibt bis\nzu unserer ersten Warenanlieferung leer.\nMit freundlichen Grüßen\nMina Yilmaz\n",
+      "pixel_sha256": "fc5f7b8b1313add3cbe7c02c8af7a007394a3f31c66df8914d924bf6d0cb084e",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-09.png",
+      "png_sha256": "4d24c7914cbe9d1373f91e34a58249d7e631d8ea916535c94d58ff68a4725e3f",
+      "text": "Akte: berlin-gewerbe-restaurant-kichererbse\nSeite 9\nE-MAILS\n18_Nachtrag_ohne_Wein.eml\nVon\nOttokar Kühn <ottokar@kichererbse.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 11:15:00 +0200\nBetreff\nEröffnung notfalls mit Birnenschorle\nSehr geehrte Frau Morgen,\nMina und ich sind einverstanden, den Weinabend gegebenenfalls zu verschieben. Bitte prüfen Sie aber,\nob eine vorläufige Erlaubnis für die tatsächliche Übernahme in Betracht kommt. Den Keller wollen wir\nwirklich nicht für Gäste nutzen. Die Reservierungsmaske ist inzwischen auf 24 Plätze gestellt; der\nAusdruck vom 23. September in der Akte ist veraltet.\nWir freuen uns über einen konkreten Entwurf. Bitte keine Zusage im Namen von Fritz abgeben.\nViele Grüße\nOttokar Kühn\n",
+      "pixel_sha256": "23dda40845b528be6e4de75647190875409a73d870bb76b039c4b5f07518a028",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-10.png",
+      "png_sha256": "703d3539c778acc628ed809e32f2edf68d914be7fd8d846d404faaa55f1811cc",
+      "text": "EXCEL-TABELLE (BERECHNETE DRUCKFASSUNG)\n06_Startbudget.xlsx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "63d24d82e096c7bbfe7124b6f7f9dfba0f6cfa66f95354203ed254dfa0d99c06",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-13.png",
+      "png_sha256": "0fd8d37033798e0b13c2a8e084bf07bde267a48e5ab109efa4d19af8b8074ff6",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n01_Auftrag_Kichererbse.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "c3916fd3dff13a12342ecc3b15ffdeb9e88ed7e938aee4dae1faf2a37265eed8",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-15.png",
+      "png_sha256": "16f54970edb7cd00061b39c84a22ac2929e40a2cae442a5e616bc800319b6ff2",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n02_Uebernahmevereinbarung.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "9b4b66e5f892558d5532c1cf1516b44ba235077d56408695c252d142991454ee",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-17.png",
+      "png_sha256": "7a7bde10b96d482a4a79fd2de362586d143afbbc9b37a27097f261e605f304b8",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n04_Alte_Gaststaettenerlaubnis.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "4611736ffc6f580f0bdef06ba59f4c0eeab696f5125cb54ce65e7039da69ff08",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-19.png",
+      "png_sha256": "4ebd99177b371b76c101249e5466a98c1365d21e1232e2ab21411c48ef326403",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n05_Betriebskonzept.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "ad19abb6e9914f2e7d8d29e9cde9414aa7ac1b2a8bef0f073effbe6858967dcd",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-21.png",
+      "png_sha256": "83225341862bed3f1f169cad957254970a22a9fe668a4fb9bf498ea6c8df0e03",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n09_Besichtigungsnotiz_Lebensmittel.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "2063bb8990453caf4453213b812cb6dae59b8421e6419ccddf21f1c57015a626",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-23.png",
+      "png_sha256": "6cf35be821ff3644714ba95c7684525d2068d6489fd9ceb4e97b0ffd63f40746",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n11_Ordnungsamt_Nachforderung.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "22c79c5273b135768e8a1dd931c9fd2034efdccc78da9ef1fb956dd15293812e",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-25.png",
+      "png_sha256": "fc7105ee0a6a7b67099d2234dfd085e065095dcd314af042154bd65f9460936b",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n14_Servicebericht_Kuehlung.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "1b505ed985ebfec95512a5ebb8d6b0254c383fb4597f93eaabdd7db6d9a31bba",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-restaurant-kichererbse",
+      "pdf": "berlin-gewerbe-restaurant-kichererbse_gesamt.pdf",
+      "pdf_sha256": "d5ef61b9bd523e882474d155a37fcab3949dd1834f531ec9c0c61e5914cead84",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-27.png",
+      "png_sha256": "3707db752acd8c8cd99c613603840d437381d262a672d1fa065c6c2749d1a38c",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n17_Personalnotiz.docx\nberlin-gewerbe-restaurant-kichererbse\n",
+      "pixel_sha256": "494935a840c660e940d536d4678a138a19a2818aef68f9a97cab90eae6b1cd47",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 1,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-1.png",
+      "png_sha256": "16e2d897ea9ef37ecc307c76504cb166394bde272d455ce95896a0888fc3e897",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 1\nNOTIZEN UND TEXTDATEIEN\n07_Kassenbon_Abschrift.txt\nAbschrift des Bons vom Kontrolltag\n20.09.2026\nAbendfuchs, Krossener Straße 47, Berlin\nBon 20260920-0048, 20.09.2026 15:14\nGemahlener Kaffee 500 g 6,49 EUR\nMineralwasser 0,5 l, zwei Flaschen 3,00 EUR\nPfand zwei Flaschen 0,50 EUR\nSonntagszeitung 3,20 EUR\nSumme 13,19 EUR\nBar erhalten 15,00 EUR\nRückgeld 1,81 EUR\nSamiras Notiz: Abschrift vom Originalbon. Kaffee ist die Packung aus dem hinteren Regal, kein\nzubereiteter Kaffee im Becher.\n",
+      "pixel_sha256": "0af6b53422c8e4a9bd0b44dc88fc68a46c1141120e8f049597819ef3c8d1c96c",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 2,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-2.png",
+      "png_sha256": "b0a31811bfb21fb0886d609bc731ace7f41b2195876c7628ad847491f3bba5ba",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 2\nNOTIZEN UND TEXTDATEIEN\n13_Chat_Kaffeeidee.txt\nKleiner Teamchat zur Kaffeeidee\n30.09.2026\n30.09.2026 17:10 Hedi: Könnten wir nicht einfach Café auf das Schild schreiben?\n30.09.2026 17:13 Samira: So einfach wohl nicht. Ich möchte wirklich wissen, was wir dürfen.\n30.09.2026 17:15 Willibald: Zwei Hocker und die Maschine machen noch keinen schönen Cafébetrieb.\nKüche haben wir auch keine.\n30.09.2026 17:20 Hedi: Dann planen wir erstmal die Woche ordentlich. Ich kann samstags früher\nanfangen.\n30.09.2026 17:23 Samira: Danke. Den Sonntag am 4. Oktober lassen wir vorerst geschlossen. Das Fest\nist noch nicht bestätigt.\n",
+      "pixel_sha256": "8a53fa97687eff5f9088a3c5d7fe7da10af536affee459564c94dd86d8a189e0",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 3,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-3.png",
+      "png_sha256": "d95e9bf02606627026c300f46f5ea4738477c3b77d797ca6592ef7f5f6430005",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 3\nE-MAILS\n03_Hotelkooperation.eml\nVon\nHotel Kiezkissen <empfang@kiezkissen.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nTue, 18 Aug 2026 10:00:00 +0200\nBetreff\nStadtpläne für unsere Gäste\nLiebe Samira,\nwir schicken unsere Gäste gern zu dir, wenn sie Wasser oder einen Stadtplan brauchen. Einen\nExklusivvertrag brauchen wir dafür nicht. Unser Hotel hat 28 Zimmer, die Belegung schwankt. Wie viele\nGäste wirklich zu dir kommen, erfassen wir nicht. Bitte schreib also nicht, dass wir täglich eine bestimmte\nKundenzahl garantieren.\nViele Grüße\nLuise Chen, Empfang\n",
+      "pixel_sha256": "5c7f611c6f2121c19bded89c0c5e05779c7a7250ae143c038fdbdb6bf7c9defb",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 4,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-4.png",
+      "png_sha256": "c678c19f508035581f46b6f4a7d6d8c1cd2a75d02a73f62012d25792567d98bb",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 4\nE-MAILS\n08_Willibald_erklaert.eml\nVon\nWillibald Kraft <willibald@abendfuchs.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nTue, 22 Sep 2026 19:30:00 +0200\nBetreff\nWas am Sonntag passiert ist\nLiebe Samira,\nja, ich habe die Kaffeepackung verkauft. Herr Wendt kauft sie fast jede Woche und fragte ausdrücklich\ndanach. Ich dachte, der Vorhang sei vor allem gegen die freie Auswahl gedacht. Das war offenbar nicht\nklar. Die zwei Hocker waren leer, niemand hat dort Bier getrunken. Bitte schreib dem Amt nicht, dass es\nnur Kaffee aus der Maschine war.\nWillibald\n",
+      "pixel_sha256": "b238281878bfb85f5989d5a38668940c238b7cf228184e47edac0b9ddaa7c57a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 5,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-5.png",
+      "png_sha256": "5c09845d78960023991db636cb1e1e3e466854dc0a02eb3b6e60fb6355373904",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 5\nE-MAILS\n10_Samira_fragt_Amt.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nMarlene Hoff <gewerbe@amt-fk.example>\nDatum\nMon, 28 Sep 2026 11:06:00 +0200\nBetreff\nLad-FK-26-441: Unterlagen und Frist\nSehr geehrte Frau Hoff,\nich habe Ihr Schreiben am Samstag aus dem Briefkasten genommen. Ich werde bis zum 9. Oktober\nantworten und lasse mich beraten. Bitte senden Sie mir eine lesbare Kopie des Kontrollvermerks; die\nletzte Seite meines Ausdrucks ist sehr blass. Eine Verlängerung beantrage ich derzeit nicht. Am\nvergangenen Sonntag blieb der Laden geschlossen.\nMit freundlichen Grüßen\nSamira Özdemir\n",
+      "pixel_sha256": "6155619f4d66a948f2eaf68943b771295eaa7335cf3e0d652e4ec01059f771ff",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 6,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-6.png",
+      "png_sha256": "a04338bde119bd73cbc4bd2485472b3f51756b7f894ba3d83ed12f29509939de",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 6\nE-MAILS\n11_Antwort_mit_Sortiment.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nTue, 29 Sep 2026 20:17:00 +0200\nBetreff\nUnterlagen für Ihre Prüfung\nSehr geehrte Frau Morgen,\nanbei die Warenübersicht und meine Tabelle für die Woche vom 14. bis 20. September. Die\nUmsatzgruppen kommen aus meiner Kasse; sie sagen nichts darüber, ob ein Kunde Tourist ist. Die 18\nEUR sonntags bei Haushalt und Vorrat enthalten den Kaffee und weitere Kleinigkeiten, die ich noch mit\nWillibald zuordnen muss. Bitte verwenden Sie die Zeile nicht als Zahl der verkauften Packungen.\nFreundliche Grüße\nSamira Özdemir\n",
+      "pixel_sha256": "7db3d07f9dd8ca12904f5e00963d5e73ccfdb68e2708f916dabc22870acbae4b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 7,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-7.png",
+      "png_sha256": "c5ca29078ef30f372ed73cba5d51d99093c201cee88bb3284d470a39b0c6c751",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 7\nE-MAILS\n15_Amt_Kopie.eml\nVon\nMarlene Hoff <gewerbe@amt-fk.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nThu, 01 Oct 2026 09:12:00 +0200\nBetreff\nLad-FK-26-441: Kontrollvermerk\nSehr geehrte Frau Özdemir,\nSie können den Kontrollvermerk in unserem Portal erneut herunterladen. Die vorhandene Fassung\numfasst drei beschriebene Seiten einschließlich der Bonkopie. Derzeit liegen keine weiteren\nKontrollfeststellungen zu einem Alkoholausschank vor. Die Anhörungsfrist 9. Oktober bleibt bestehen.\nÜber eine Untersagungsverfügung ist noch nicht entschieden.\nMit freundlichen Grüßen\nMarlene Hoff\n",
+      "pixel_sha256": "fb1960806323d49147cc96b2037a5f4f2a2f4d8ce406e8284ed70b1447b3c263",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 8,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-8.png",
+      "png_sha256": "94ac5df995e823dfe05807d0b4d959c98b509c8b144cddf6dab60e88dd8502e7",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 8\nE-MAILS\n17_Nachbar_freundlich.eml\nVon\nTraugott Wendt <traugott@nachbarschaft.example>\nAn\nSamira Özdemir <samira@abendfuchs.example>\nDatum\nThu, 01 Oct 2026 18:43:00 +0200\nBetreff\nDanke für die frühen Flaschenkisten\nLiebe Frau Özdemir,\ndanke, dass die Flaschenkisten jetzt morgens statt kurz vor Mitternacht abgeholt werden. Das hilft uns im\nVorderhaus. Ich war der Kunde mit der Kaffeepackung am Sonntag. Wenn Sie den Vorgang erklären\nmüssen, bestätige ich gern, was ich gekauft habe. Ich möchte Ihnen keine Schwierigkeiten machen, aber\nauch nichts Falsches erzählen.\nHerzliche Grüße\nTraugott Wendt\n",
+      "pixel_sha256": "c567e56e5553504bb3e8ad896f8c75ab9f53ea868aab1f6d8e0be02aaea5e4dc",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 9,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-9.png",
+      "png_sha256": "7dd1716d1950a704adcac78baaf071ec8b5eb5e6e53fc4af4dc17164beb353ca",
+      "text": "Akte: berlin-gewerbe-spaeti-abendfuchs\nSeite 9\nE-MAILS\n18_Nachtrag_Fest_offen.eml\nVon\nSamira Özdemir <samira@abendfuchs.example>\nAn\nJule Morgen <post@kanzlei-kanal.example>\nDatum\nFri, 02 Oct 2026 10:02:00 +0200\nBetreff\nZum Fest bitte noch nichts behaupten\nSehr geehrte Frau Morgen,\nder Verein hat den Hof noch nicht sicher. Bitte begründen Sie die Kontrolle vom 20. September nicht mit\ndem erst geplanten Oktoberfest. Das sind zwei verschiedene Termine. Mir ist am wichtigsten, die Antwort\nkorrekt zu machen und künftig einen verlässlichen Plan zu haben.\nViele Grüße\nSamira Özdemir\n",
+      "pixel_sha256": "63fa2026cac9f62115c4c1a22e2dbffcd18cdf8e43836650c3b01fab79f7939f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 10,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-10.png",
+      "png_sha256": "6da800a502ccbab29e5da06a71d26261a9eff7371390a093e7ce8e3900f0561f",
+      "text": "EXCEL-TABELLE (BERECHNETE DRUCKFASSUNG)\n06_Umsaetze_und_Zeiten.xlsx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "9f04367aba3a5ace97f66327bdc0ecf8d1f32b7aab98f49b2fdf3d47069fc2d1",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 13,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-13.png",
+      "png_sha256": "86657360950042c155232808e4ce7b2cfac21bd298564e6ef2bdcb540b648323",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n01_Auftrag_Abendfuchs.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "9aa50babbce59ec643fdd0e7e04b9b871af8794a3135bd92f58882b07a87d4aa",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 15,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-15.png",
+      "png_sha256": "929da07d9438e883ade3c6edd062037c0466bccf193d0d2854e293d0cd41a878",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n02_Gewerbeempfang.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "6232250d898efb649e3c42856ce6991a927d05faae0a9951251ab8dc856922b2",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 17,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-17.png",
+      "png_sha256": "198aae48deff49eaacc81a59864303aaf0632c4c5b0ede4423d2e14ef744a4e7",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n04_Sortiment_September.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "4c98769a69a8bab5a34c1bba666bc28dd567a42b94d3b856775520fb1449c29d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 19,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-19.png",
+      "png_sha256": "f4a823b03b9a4be1a12d9e96d25fadc08797cfdfce79a92dd5e4fe5c59ddd55a",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n05_Kontrollvermerk.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "21669f5100df190ab50bd88a29f2d887ff66b38db9e7c3a3d5506041bb484d8f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 21,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-21.png",
+      "png_sha256": "4777511a59d70fbfd7c88b49b333b1c029200427ec1bd6256d63230fc68c9b7f",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n09_Anhoerung_Ladenoeffnung.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "cf491e93cd6a6c73e281ef005cf53931b67252f61ed6250a8701e0d972a2c340",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 23,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-23.png",
+      "png_sha256": "d66be36285ec213cd7620b2e84a7c26b0d0a75f6161357f0ab613dcaddd928e8",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n12_Veranstalter_Absicht.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "255b5cab4b055bdaefb7d0f36335b7395726563a3a9dc55a828494943f16891d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 25,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-25.png",
+      "png_sha256": "35c29d930d48fc6b83eeae25e7cfffa29f38743de18592867031d4097e1adc0a",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n14_Mietvertragsnachtrag_Entwurf.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "dfa221bb4aae643fb9f5e2f86f46256d52eb1c3e5a7843c0c08c6bdfe09c31dd",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "gesamt",
+      "case": "berlin-gewerbe-spaeti-abendfuchs",
+      "pdf": "berlin-gewerbe-spaeti-abendfuchs_gesamt.pdf",
+      "pdf_sha256": "4e09f45610759a64215ab06e4df36d26b78ddaa1447fe06a7196707ce75e39bb",
+      "page": 27,
+      "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-27.png",
+      "png_sha256": "368d49e0239b68e324c55b8041b61ef1879c55289a26d880c90240fcc441f94c",
+      "text": "WORD-DOKUMENT (ORIGINAL-LAYOUT)\n16_Betriebsnotiz_Wochenplanung.docx\nberlin-gewerbe-spaeti-abendfuchs\n",
+      "pixel_sha256": "cb8f9e5b06679ed98f25c28cd32b4ed6a1104e7a634bdaba19b64e7a298e185a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/01_Auftrag_Kichererbse/page-1.png",
+      "png_sha256": "92968c0048446b1c04e90d94bbd0618006a442dbc3fd6d062868c4fc50b58fac",
+      "pixel_sha256": "6b7e08005a270422b917032b146dbf5ab81150d80cdd4bd6bf86b21213205153",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/09_Besichtigungsnotiz_Lebensmittel/page-1.png",
+      "png_sha256": "f96a1ff39c616778f7cd429c0030692e3921e2abb7121c95ee75269c8d27193a",
+      "pixel_sha256": "52dbcc61e406b57e657e6384d5501c82e654f1749c4f031294d8cdb74db42ae5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/14_Servicebericht_Kuehlung/page-1.png",
+      "png_sha256": "4dbd45cb71d1a9a9ed1e05a86738901c61388aa8ae75bc0dc3e9f7be20e2accb",
+      "pixel_sha256": "a7e777d6a3a7863fa9bec0f79bfe4e2fc46dd7ab4143ad0185d4b86f186290d5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/11_Ordnungsamt_Nachforderung/page-1.png",
+      "png_sha256": "1f973d80770ef9c255782d829ffd8b3c0ecc27dc22a92147d1e5b802af30c6a1",
+      "pixel_sha256": "ce85ae38d2360881c2b5e15dadaa79aa14ce53e42e982b6f51465cd59755ec61",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/17_Personalnotiz/page-1.png",
+      "png_sha256": "e61ccd56e981bed80d193b730ff4ce42b157183f640064e4442853ef3375e433",
+      "pixel_sha256": "30f63ead1ae8196aff8f4fca56fe35958a9d382cbfb72a9ac5986f979a8c25d2",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/02_Uebernahmevereinbarung/page-1.png",
+      "png_sha256": "523a69d986faadbf3f7cea5fdceca36364c19a6c7a9fd82833e1ae473430cf62",
+      "pixel_sha256": "2e7665e33892bf53562965f3b97384a2b858f4ea441bf5ff6d29dfbd9cc52882",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/05_Betriebskonzept/page-1.png",
+      "png_sha256": "6871678bfc258e73000a3dfb22a02ca1e04703199d0fba2aed8fede53feb1b38",
+      "pixel_sha256": "409c7a8b76b06a36b3fa5ece37198d78c18f958a7599b6139adb03a934059c91",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-restaurant-kichererbse/04_Alte_Gaststaettenerlaubnis/page-1.png",
+      "png_sha256": "82da1090ed0c101df5dcbcfba2014aad35c5177d16b0d3a1cab891b560b1daf9",
+      "pixel_sha256": "0475022aa05802d7e299c58d1b4ad897608e3bfcd184547f48d7d919701eb6f2",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/12_Veranstalter_Absicht/page-1.png",
+      "png_sha256": "5cd711be4bae9dff3350c689cd88e82347f2be279dcf04508c63184f6459489b",
+      "pixel_sha256": "c222c2f196e9b7664214d7c37ff860d52a56e2751394a23d97676ea04f9be1d5",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/14_Mietvertragsnachtrag_Entwurf/page-1.png",
+      "png_sha256": "618a5c2f5589268547f184b0d6daa8b70b91aad920f143464b8d25816b9e3edc",
+      "pixel_sha256": "72554f5e49d6ab622f2b712675c67d9bb864cb0713d50192abcfc70089886f9a",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/05_Kontrollvermerk/page-1.png",
+      "png_sha256": "db6a55e8bdea5db9dff828b48da16cbd8c4ab435e60d9b5aa75984a2445dae82",
+      "pixel_sha256": "66a2eabfd0133bf7fc736e4b595c3925ee1be878157d7f61d8cec1f67f0e7dde",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/04_Sortiment_September/page-1.png",
+      "png_sha256": "5a396046e6adc4eee671a50755f4a0be1fb73b6e4a2ffc06a00cd0ffae3f9dd4",
+      "pixel_sha256": "9c81001b97c47204d62dbcd8527886ae2e01d52fa5eb8031e132cbc20b7b5fbe",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/01_Auftrag_Abendfuchs/page-1.png",
+      "png_sha256": "4e8c072ef2c22e924f820beac77f9f7c518ae9437e06508ec72b692dd0026747",
+      "pixel_sha256": "e81e47f43058ba442165a899ef67a81faf43c909cdcb5d86c0fd5ba5c8a86566",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/09_Anhoerung_Ladenoeffnung/page-1.png",
+      "png_sha256": "2fccd30bfee9615f8f00f02b6414647909d581b6ead6238771dcec97dc4ce88e",
+      "pixel_sha256": "404a8827a7136c211b32b05afd09fcee25955d033dc5961f2e783267b1eebc50",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/02_Gewerbeempfang/page-1.png",
+      "png_sha256": "6a19d6be77de869f77465ef6d9f94d669e079899073eebc9c81169bd69b0a626",
+      "pixel_sha256": "dd540c0bd0eb3c14daea83ddd4230ea9de7aa62f28ce732ca8a899746f1b76b7",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-spaeti-abendfuchs/16_Betriebsnotiz_Wochenplanung/page-1.png",
+      "png_sha256": "f6405c9d1cbe5e39b194242fa946a0eb58ca9118781009d5ab1b85ce3c180432",
+      "pixel_sha256": "155bf9d7207eb1760147245ca559ad213ff1ed96de990bfe996be1ab07bccb5b",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/12_Interne_MRT_Organisation/page-1.png",
+      "png_sha256": "a2be09034de331b7f5a49656565f3c5d6c33b6fe7ced3e3ea5569a0bdcd29d9b",
+      "pixel_sha256": "e74a8d5871ee9f52868949375147052a498b71aee23c7bda87fc0cc1721866a7",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/02_Betreiberdarstellung/page-1.png",
+      "png_sha256": "dc487c27ac260af0971fcc5c59ab1b0ac232553ae58859d63c025d18f976ecef",
+      "pixel_sha256": "ff2ef552a6c179c3639457e6b96a91a223eb43e9ec71cfe8c243fa667510d28d",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/04_Geraete_und_Raeume/page-1.png",
+      "png_sha256": "d714b3e7dedfe463391ab511312d26cfd2ff91f7233430f2f9a36eeeaa426884",
+      "pixel_sha256": "9d6a7fec790945897ad3434c7551c4a710145f93bc313a61bddbc34117c31eb7",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/05_Personal_Fachkunde/page-1.png",
+      "png_sha256": "e76be90662a88a589267eb51b6dcbcb8a96424d76cdf8de4649c9d8d0c535d69",
+      "pixel_sha256": "0f423e1aed749d5e59eb1918d106349578578693c78098a51dc9d7b56b50d3e0",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/09_LAGetSi_Nachforderung/page-1.png",
+      "png_sha256": "a51fca4d41e452e8a4dc8156a25f06ab6833c9fe96eed1b24bb8c9fd1a4485ed",
+      "pixel_sha256": "389e8994e68eead7841ab91512045bbf3f60fc711b0e9502921615a473359902",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/01_Auftrag_Radiologie/page-1.png",
+      "png_sha256": "109b0f17f67571a22e2474582f7430a05ff45c004a703e59a452cac00744d321",
+      "pixel_sha256": "3156763ce2c776e7e7b088ce8c39fe12016023e4cae660d406bc4ee1a0f01fa4",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/16_Verantwortungszuordnung_Entwurf/page-1.png",
+      "png_sha256": "f4b85dc44eb125a434b46f1e10e43a8249088c39c2962e01f76775beb34e2a37",
+      "pixel_sha256": "2c6e886aa35266c50e0196f63350f8c1025a5ab139a0edd0d8899cf9506e9aaf",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "word",
+      "png": "lokale-pruefartefakte/qa/gewerbe/word/berlin-gewerbe-radiologie-spreebogen/13_Pruefbericht_Auszug/page-1.png",
+      "png_sha256": "e1ffb04964550d6627b114d5bf2aab5461c6d63a7f2e71f58c2fd9765989679e",
+      "pixel_sha256": "93030d49bc9eee246f60ed2bf93c11832e0cb23e4a9fea6223281e15a2dcd1d4",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-radiologie-spreebogen__06_Startplan_und_Kosten__Kosten.png",
+      "png_sha256": "33df9b684b727d7f0e83b24a28a85af3eae4494fa97a0b799f68abeb7b84a1ed",
+      "pixel_sha256": "cb2dfa5dccdfa1c6f5a0402d4a206ea0965d4d2e71a87d7843135b1a26d2d987",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-radiologie-spreebogen__06_Startplan_und_Kosten__Nachweise.png",
+      "png_sha256": "584acd985bff9daf3428f2c6d6c9636c6064468d785999f5ed15136763d240d9",
+      "pixel_sha256": "a747c4777be1780f49029b9471236e83782591bd183c1d8af442254d8337514f",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-spaeti-abendfuchs__06_Umsaetze_und_Zeiten__Wochenplan.png",
+      "png_sha256": "cc1856a415b69eded761f95e5a0608aa9353451f1021a19b7705a6069103c67c",
+      "pixel_sha256": "59f78e6dbc25c2f936948b935a83db4399af01d8e063579507d4ed9d717ca837",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-restaurant-kichererbse__06_Startbudget__Startkosten.png",
+      "png_sha256": "67a1bc9c8f4304d755a17ec2789861e9f442440c8d97eec367b3f8a3af052095",
+      "pixel_sha256": "8d17bcad255617c7d1793f92b97ebee662983d543b79a318195f2cbbd0cc7606",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-spaeti-abendfuchs__06_Umsaetze_und_Zeiten__Umsatzgruppen.png",
+      "png_sha256": "1d8bfa34a3cd42fe2b135bdab425aeb22827811eb952b77f24656450e505c712",
+      "pixel_sha256": "8b9bbb0ff4e2e80be6078d23a0de9e3d053404d88eda9156d9e4a953e7237220",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    },
+    {
+      "stage": "xlsx",
+      "png": "lokale-pruefartefakte/qa/gewerbe/tabellen/berlin-gewerbe-restaurant-kichererbse__06_Startbudget__Plaetze.png",
+      "png_sha256": "8bdf40befcce42f9a639277031125452c58e4c42b1554c79cc1cb8a330aa0cfb",
+      "pixel_sha256": "6289dc77a5ab3d8280b8eeeb1d3f653ced1098a34932ab8b1ebf50ff910f0a47",
+      "visual_review": "pass_prior_opening_hash_unchanged"
+    }
+  ],
+  "pixel_duplicates": [
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-11.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/06_Startplan_und_Kosten/page-1.png",
+      "pixel_sha256": "6ac29dfbb9afa1ad284523dfef62339209a9bb370a4eabdb1aca168f27e6628b"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-12.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/06_Startplan_und_Kosten/page-2.png",
+      "pixel_sha256": "a6b552e1b2d63c7aa2d9ea071eb9cecea45ebd55005c559de3c361dec2f2df16"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-14.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/01_Auftrag_Radiologie/page-1.png",
+      "pixel_sha256": "d28da9fa99f8e28d20071c49442e4482d757a7e191762e7538264bd88d0e0b5f"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-16.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/02_Betreiberdarstellung/page-1.png",
+      "pixel_sha256": "6e1ad97dd2f7558b7f672f980d797ee15ac5f14fb3f0927755aa17960afd142a"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-18.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/04_Geraete_und_Raeume/page-1.png",
+      "pixel_sha256": "c7acaa779436bb41e4ac9c050ef088c39bbf37973cf6033ebc3679b069bf26f5"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-20.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/05_Personal_Fachkunde/page-1.png",
+      "pixel_sha256": "e226d70bdd8d0d1b5fcd10d27b282f26c0b579b36bb67c91f099497eca583a36"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-22.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/09_LAGetSi_Nachforderung/page-1.png",
+      "pixel_sha256": "a21f5dd760da8361a80ee5aecd3d138c0ba298890cb0b87b4201234c956b601e"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-24.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/12_Interne_MRT_Organisation/page-1.png",
+      "pixel_sha256": "29e0e5bf7dc04ff1b2f0e671bf504570f113eac592f3e4483e067eca92c31a1d"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-26.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/13_Pruefbericht_Auszug/page-1.png",
+      "pixel_sha256": "952ebd02179da27fe65d53b2d427fae5cc513480ffea95c72562456765681400"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/gesamt/berlin-gewerbe-radiologie-spreebogen_gesamt/page-28.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-radiologie-spreebogen/einzeln/16_Verantwortungszuordnung_Entwurf/page-1.png",
+      "pixel_sha256": "3a53283057e8f15dc4122532588a1e79b6d008c4ed7430b3fcf236864dd3536a"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-11.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/06_Startbudget/page-1.png",
+      "pixel_sha256": "29ce67a6eabe339409dc2f4b53ea44b6f0cce9bbe81b588300c281c197cb52d7"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-12.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/06_Startbudget/page-2.png",
+      "pixel_sha256": "17a90b35efdf653ebc616e772fd9bb4614ba63711e7c372ff1fcc1c5508a6f48"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-14.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/01_Auftrag_Kichererbse/page-1.png",
+      "pixel_sha256": "491ee4fb242a340c44543d518c0d3abc516fb9eeedf881878a20c65ba3a8e5a9"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-16.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/02_Uebernahmevereinbarung/page-1.png",
+      "pixel_sha256": "ed1dce19400cd75af54f23c3447c598d21e4096fbaac3a77cfcae4fbc44b96f8"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-18.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/04_Alte_Gaststaettenerlaubnis/page-1.png",
+      "pixel_sha256": "c1ca23ad734d462e93b9fe08d5ef567749deb72451851d15ecec14758c8075bd"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-20.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/05_Betriebskonzept/page-1.png",
+      "pixel_sha256": "aa2d7d627fb94786ee7a8a039a0a72cab23bf4d4af98abf4456313fd86356e9f"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-22.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/09_Besichtigungsnotiz_Lebensmittel/page-1.png",
+      "pixel_sha256": "1c949792f5ee5124ea3d1dc010354b6db2dad91a7f84e9e4646167008273f549"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-24.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/11_Ordnungsamt_Nachforderung/page-1.png",
+      "pixel_sha256": "679fbf78e57eba63a26ff2b672a3c9549a5a4bc0da17417e74cd4117ee61cb8d"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-26.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/14_Servicebericht_Kuehlung/page-1.png",
+      "pixel_sha256": "30dd9ad055deb2385152d629cf260ef747b3b2720eb983850a1fca34adea5a48"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/gesamt/berlin-gewerbe-restaurant-kichererbse_gesamt/page-28.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-restaurant-kichererbse/einzeln/17_Personalnotiz/page-1.png",
+      "pixel_sha256": "8015d8badc64f5e292e2d06f7fea9f4857e3f0212c00711dc50d38e203a84d76"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-11.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/06_Umsaetze_und_Zeiten/page-1.png",
+      "pixel_sha256": "2e9747f4b6e4d8d7222d9159b3bbabfb141c23d888c17ae10dc4f267af31d216"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-12.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/06_Umsaetze_und_Zeiten/page-2.png",
+      "pixel_sha256": "5576b22d7018838d463b012ebb8f6f4380ad5f7a0eef73c572078710accdb8d9"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-14.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/01_Auftrag_Abendfuchs/page-1.png",
+      "pixel_sha256": "6f151b824a55a6bb1f59d602ec0f403954ed83b08dc05e0639a28c673072a7d2"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-16.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/02_Gewerbeempfang/page-1.png",
+      "pixel_sha256": "ea8a39cf700c921dcaf845afee898e298a57d56609276fb8128e8e612d87a9cb"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-18.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/04_Sortiment_September/page-1.png",
+      "pixel_sha256": "441c80419068be2391f0ea021ce7bd591cdf86cc9e4edab04092b9e4d38f1f2a"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-20.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/05_Kontrollvermerk/page-1.png",
+      "pixel_sha256": "edfd7894f3e242b659ee4cb3ede0d132bdc63c44394901c0f1d6aec5977465f8"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-22.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/09_Anhoerung_Ladenoeffnung/page-1.png",
+      "pixel_sha256": "caa9dd1bb64f75e8776fd5d39db23e9b845f3cd077aeb0d43efe1c32ad2ec8a5"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-24.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/12_Veranstalter_Absicht/page-1.png",
+      "pixel_sha256": "d5826dbae9bb2dae91ad5b387ccf8519efc2067647545936956ffe6e9e33f449"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-26.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/14_Mietvertragsnachtrag_Entwurf/page-1.png",
+      "pixel_sha256": "119c831e9d095e93305e24ee847f8f3632f8135b8e459f32421ed517ea976b9a"
+    },
+    {
+      "duplicate": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-28.png",
+      "equal_to": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/16_Betriebsnotiz_Wochenplanung/page-1.png",
+      "pixel_sha256": "1d4b54726d10f26c7d66b948eb864fe5ef15fe9294f48cf4bdbbbebe77348a73"
+    }
+  ],
+  "final_recheck": {
+    "changed_pages": [
+      {
+        "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/einzeln/06_Umsaetze_und_Zeiten/page-2.png",
+        "old": "14a69cf3104981e56ac4a4d2aee13ba7fc6f208598df3bcc873564cfb9260a73",
+        "new": "17447a1e64c99d999c10a52be18e3474c3c04d3523984ddc3c859a8906f879f8"
+      },
+      {
+        "png": "lokale-pruefartefakte/qa/gewerbe-final/berlin-gewerbe-spaeti-abendfuchs/gesamt/berlin-gewerbe-spaeti-abendfuchs_gesamt/page-12.png",
+        "old": "14a69cf3104981e56ac4a4d2aee13ba7fc6f208598df3bcc873564cfb9260a73",
+        "new": "17447a1e64c99d999c10a52be18e3474c3c04d3523984ddc3c859a8906f879f8"
+      }
+    ],
+    "changed_unique_pages_opened": 1,
+    "pixel_identical_changed_combined_page": 1,
+    "unchanged_pages_hash_compared": 169,
+    "native_changes": [
+      {
+        "file": "testakten/berlin-gewerbe-spaeti-abendfuchs/11_Antwort_mit_Sortiment.eml",
+        "old": "13bfc86ba5f16a0e7327a56ae2a6675b9d0308eeddee331d291156bcdc61e262",
+        "new": "b5b56df673b74d56b2cc88baa3afeafa437c9104685ed8e08ed3f7105936a69d"
+      },
+      {
+        "file": "testakten/berlin-gewerbe-spaeti-abendfuchs/06_Umsaetze_und_Zeiten.xlsx",
+        "old": "f19c44332a88037ff30bfea543632f025ea7f29a970d72654c3cce58d8260ae0",
+        "new": "3b38dd61c0404d1d98babd9fe329a7c789a376bef5188c54d7ceddbceace56bd"
+      }
+    ]
+  }
+}

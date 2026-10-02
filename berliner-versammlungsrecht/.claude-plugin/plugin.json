@@ -1,0 +1,19 @@
+{
+  "name": "berliner-versammlungsrecht",
+  "version": "445.27.0",
+  "description": "Berliner Versammlungsrecht für Veranstaltende und Teilnehmende: Anzeige, Kooperation, Route, Auflagen, Gegenversammlung, Protestcamp, Leitung, Polizeimaßnahmen und Rechtsschutz. Zehn Fachskills und ein Hauptskill.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/berliner-versammlungsrecht",
+  "keywords": [
+    "berlin",
+    "versammlungsrecht",
+    "versfg",
+    "demonstration",
+    "rechtsschutz",
+    "protestcamp"
+  ]
+}

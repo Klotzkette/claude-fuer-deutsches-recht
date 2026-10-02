@@ -1,0 +1,126 @@
+name: 'Spreebogen: vorhandenes MRT und geplanter CT-Start'
+plugin: berliner-gewerbeaufsicht-betrieb
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-gewerbe-radiologie-spreebogen
+  fachprofil: quality/evals/berliner-gewerbeaufsicht-betrieb.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Antwort_LAGetSi.docx
+  zweck: Ausformulierter Nachreichungs- und Klärungsentwurf mit konkreten fehlenden Unterlagen.
+- datei: Betriebsvermerk.docx
+  zweck: Einordnung von ärztlicher Tätigkeit, Nutzung des ehemaligen Archivs und unterschiedlichen
+    Gerätearten.
+- datei: Bedingter_CT_Startplan.xlsx
+  zweck: Nachweis- und Terminplan ohne unbelegte Betriebsfreigabe.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-gewerbe-radiologie-spreebogen_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 09_LAGetSi_Nachforderung.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 13_Pruefbericht_Auszug.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 16_Verantwortungszuordnung_Entwurf.docx
+- id: fach-beruf
+  check_type: human_review
+  description: Wird die ärztliche GbR anhand ihrer tatsächlichen Tätigkeit eingeordnet, ohne aus
+    CT, Personal oder Umsatz allein Gewerblichkeit abzuleiten? Werden Gewerbeanzeige, Berufsrecht
+    und Betriebszulässigkeit getrennt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-geraete
+  check_type: human_review
+  description: Werden vorhandener MRT-Betrieb, geplanter medizinischer CT-Einsatz, erst erwogene
+    Teleradiologie und ein etwaiger Umgang mit radioaktiven Stoffen getrennt geprüft? Keine pauschale
+    Übertragung des Anzeigewegs auf Genehmigungsfälle.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-frist
+  check_type: human_review
+  description: Wird der Widerspruch zwischen der aktuellen gesetzlichen Zweiwochenfrist und dem vierwöchigen
+    Portalhinweis erkannt? Beginnt die Rechnung nicht ungeprüft mit einer unvollständigen Anzeige;
+    bleibt die besondere Genehmigungspflicht nach dem einschlägigen Fall gesondert geprüft?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-nachweise
+  check_type: human_review
+  description: Werden vorläufiger Sachverständigenauszug, noch offene Türprüfung und abgeschnittene
+    Fachkundekopie als konkrete Lücken behandelt? Ersetzen Hersteller-Startsignal, technische Übergabe
+    am 5. Oktober oder Schweigen der Behörde keine nachgewiesene Startberechtigung?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-raum
+  check_type: human_review
+  description: Werden alte und neue Raumnummer demselben ehemaligen Archiv nachvollziehbar zugeordnet
+    und genehmigter Nutzungsbestand, bauliche Änderung sowie Strahlenschutzanforderungen getrennt
+    geklärt? Keine fachgutachterliche Abschirmungsfreigabe durch Textgenerierung.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Enthält der Antwortentwurf konkrete Nachreichungen und Rückfragen; bleiben Patiententermine
+    am 19. Oktober ausdrücklich vorläufig? Sind Verantwortungszuordnung und Fachkunde nicht mit einem
+    bloßen Entwurf als wirksam erledigt behandelt und ist der Startplan an nachweisbare Voraussetzungen
+    gebunden?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Wird die ärztliche GbR anhand ihrer tatsächlichen Tätigkeit eingeordnet, ohne aus CT, Personal
+  oder Umsatz allein Gewerblichkeit abzuleiten? Werden Gewerbeanzeige, Berufsrecht und Betriebszulässigkeit
+  getrennt?
+- Werden vorhandener MRT-Betrieb, geplanter medizinischer CT-Einsatz, erst erwogene Teleradiologie
+  und ein etwaiger Umgang mit radioaktiven Stoffen getrennt geprüft? Keine pauschale Übertragung
+  des Anzeigewegs auf Genehmigungsfälle.
+- Wird der Widerspruch zwischen der aktuellen gesetzlichen Zweiwochenfrist und dem vierwöchigen Portalhinweis
+  erkannt? Beginnt die Rechnung nicht ungeprüft mit einer unvollständigen Anzeige; bleibt die besondere
+  Genehmigungspflicht nach dem einschlägigen Fall gesondert geprüft?
+- Werden vorläufiger Sachverständigenauszug, noch offene Türprüfung und abgeschnittene Fachkundekopie
+  als konkrete Lücken behandelt? Ersetzen Hersteller-Startsignal, technische Übergabe am 5. Oktober
+  oder Schweigen der Behörde keine nachgewiesene Startberechtigung?
+- Werden alte und neue Raumnummer demselben ehemaligen Archiv nachvollziehbar zugeordnet und genehmigter
+  Nutzungsbestand, bauliche Änderung sowie Strahlenschutzanforderungen getrennt geklärt? Keine fachgutachterliche
+  Abschirmungsfreigabe durch Textgenerierung.
+- Enthält der Antwortentwurf konkrete Nachreichungen und Rückfragen; bleiben Patiententermine am
+  19. Oktober ausdrücklich vorläufig? Sind Verantwortungszuordnung und Fachkunde nicht mit einem
+  bloßen Entwurf als wirksam erledigt behandelt und ist der Startplan an nachweisbare Voraussetzungen
+  gebunden?

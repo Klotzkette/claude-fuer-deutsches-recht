@@ -6091,6 +6091,9 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "berliner-asog-polizeirecht": "verwaltung",
+    "berliner-gewerbeaufsicht-betrieb": "verwaltung",
+    "berliner-versammlungsrecht": "verwaltung",
     "sektorenvergabe-workflow": "vergabe",
     "berliner-schulrecht-eltern-schueler": "bildung",
     "berliner-hochschulrecht-professoren": "bildung",

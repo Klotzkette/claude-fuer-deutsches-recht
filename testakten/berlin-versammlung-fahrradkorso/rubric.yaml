@@ -1,0 +1,125 @@
+name: 'Fahrradkorso: neue Bauinformation und geänderte Route'
+plugin: berliner-versammlungsrecht
+stand: '2026-10-02'
+pruefstatus: Fachliche menschliche Ergebnisprüfung offen; keine Modellleistung als bestanden behauptet.
+bewertungsgrundlage:
+  rohakte: berlin-versammlung-fahrradkorso
+  fachprofil: quality/evals/berliner-versammlungsrecht.json
+  hinweis: Kriterien beruhen auf Rohunterlagen und fachlichem Evalprofil. Dateiexistenz und Dateizahl
+    bestätigen ausschließlich den Bestand.
+erwartete_ergebnisformate:
+- datei: Aenderungsschreiben_Route.docx
+  zweck: Konkreter Entwurf zur Änderung der Routenbeschränkung.
+- datei: Fristen_und_Eilvermerk.docx
+  zweck: Begrenzte Prüfung von Zugang, Anzeigenzeitpunkt und gegebenenfalls vorzubereitendem Eilrechtsschutz.
+- datei: Ablauf_und_Ordnerplan.xlsx
+  zweck: Bearbeitbare Planung mit gesicherter Ausgangsdauer und offen markierten Personalzusagen.
+ergebnisformat_hinweis: Die genannten Ergebnisdateien sind Bewertungsziele einer späteren Bearbeitung,
+  keine bereits gelieferten Dateien und keine automatisch geprüften Bestandsvoraussetzungen. DOCX
+  bleibt bearbeitbar; XLSX soll bei Berechnungen nachvollziehbare Formeln und kenntliche Annahmen
+  enthalten. PDF kann zusätzlich als Lesefassung dienen.
+checks:
+- id: unterlagenumfang
+  check_type: working_file_count
+  description: Der exportierbare Bestand umfasst mindestens 18 eigenständige native Unterlagen; Gesamt-PDF
+    und Bewertungsdatei zählen nicht mit.
+  min: 18
+- id: native-docx
+  check_type: file_count
+  description: Mindestens 8 native DOCX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.docx'
+  min: 8
+- id: native-eml
+  check_type: file_count
+  description: Mindestens 7 native EML-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.eml'
+  min: 7
+- id: native-txt
+  check_type: file_count
+  description: Mindestens 2 native TXT-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.txt'
+  min: 2
+- id: native-xlsx
+  check_type: file_count
+  description: Mindestens 1 native XLSX-Unterlagen sind im Aktenordner vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: lesefassung
+  check_type: file_exists
+  description: Die vollständige Lesefassung ergänzt die nativen Originaldateien.
+  path: gesamt-pdf/berlin-versammlung-fahrradkorso_gesamt.pdf
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 09_Bescheid_Route.docx
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 16_Bauleitung_Freigabe.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Der für die konkrete fachliche Prüfung benötigte Originalbeleg ist vorhanden.
+  path: 18_Nachtrag_Mandantin.eml
+- id: fach-baulage
+  check_type: human_review
+  description: Werden Fahrbahnfreigabe am 7. Oktober um 18 Uhr und verbleibende Gehwegbaustelle bis
+    12. Oktober unterschieden? Wird die konkrete Gefahrenprognose für die beantragte Route statt
+    einer pauschalen vollständigen Baufreiheit behandelt?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-route
+  check_type: human_review
+  description: Werden das maßgebliche Konzept vom 23. September und die noch fehlende Bescheidsanlage
+    R gezielt herangezogen beziehungsweise angefordert, ohne die alte Kienitzer-Straße-Route erneut
+    einzubauen oder unbekannte Anlageninhalte zu erfinden?
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-zeiten
+  check_type: human_review
+  description: Werden Lieferende 14:15 als voraussichtlich und möglicher Beginn 14:30 als noch nicht
+    vereinbart bezeichnet? Die vorhandene Ausgangsplanung dauert 90 Minuten; bestätigte und noch
+    offene Ordnerzusagen bleiben getrennt.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-anzeige
+  check_type: human_review
+  description: 'Wird für die reguläre Anzeige die Zeit bis zur ersten Einladung und nicht nur bis
+    zur Veranstaltung berechnet: 18. September 15:04 bis 21. September 18:02 ergibt 74 Stunden 58
+    Minuten? Keine Genehmigungswirkung einer bloßen Eingangsantwort.'
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-ordner
+  check_type: human_review
+  description: Wird das Ordnerbriefing nach Berliner Recht ohne erfundene allgemeine Volljährigkeitsvorgabe
+    erstellt? Keine hoheitlichen Durchsuchungs- oder Gewaltbefugnisse und kein automatischer Ausschluss
+    allein wegen kritischer Meinung; konkrete Anordnungen und tatsächliche Zusagen prüfen.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+- id: fach-produkt
+  check_type: human_review
+  description: Liegt ein vollständiges Änderungsschreiben mit bestimmtem Ziel, Belegen und begrenzter
+    Rückfrage vor? Keine automatische Suspendierung der Beschränkung, keine unautorisierte Einreichung
+    eines Eilantrags; Word-Entwürfe und Excel-Plan bleiben im jeweiligen tatsächlichen Bearbeitungsstand
+    kenntlich.
+  note: 'Offen: noch kein konkretes Modellergebnis anhand dieses Kriteriums menschlich bewertet.
+    Ein bestandener Strukturcheck ersetzt diese Prüfung nicht.'
+offene_pruefkriterien:
+- Werden Fahrbahnfreigabe am 7. Oktober um 18 Uhr und verbleibende Gehwegbaustelle bis 12. Oktober
+  unterschieden? Wird die konkrete Gefahrenprognose für die beantragte Route statt einer pauschalen
+  vollständigen Baufreiheit behandelt?
+- Werden das maßgebliche Konzept vom 23. September und die noch fehlende Bescheidsanlage R gezielt
+  herangezogen beziehungsweise angefordert, ohne die alte Kienitzer-Straße-Route erneut einzubauen
+  oder unbekannte Anlageninhalte zu erfinden?
+- Werden Lieferende 14:15 als voraussichtlich und möglicher Beginn 14:30 als noch nicht vereinbart
+  bezeichnet? Die vorhandene Ausgangsplanung dauert 90 Minuten; bestätigte und noch offene Ordnerzusagen
+  bleiben getrennt.
+- 'Wird für die reguläre Anzeige die Zeit bis zur ersten Einladung und nicht nur bis zur Veranstaltung
+  berechnet: 18. September 15:04 bis 21. September 18:02 ergibt 74 Stunden 58 Minuten? Keine Genehmigungswirkung
+  einer bloßen Eingangsantwort.'
+- Wird das Ordnerbriefing nach Berliner Recht ohne erfundene allgemeine Volljährigkeitsvorgabe erstellt?
+  Keine hoheitlichen Durchsuchungs- oder Gewaltbefugnisse und kein automatischer Ausschluss allein
+  wegen kritischer Meinung; konkrete Anordnungen und tatsächliche Zusagen prüfen.
+- Liegt ein vollständiges Änderungsschreiben mit bestimmtem Ziel, Belegen und begrenzter Rückfrage
+  vor? Keine automatische Suspendierung der Beschränkung, keine unautorisierte Einreichung eines
+  Eilantrags; Word-Entwürfe und Excel-Plan bleiben im jeweiligen tatsächlichen Bearbeitungsstand
+  kenntlich.

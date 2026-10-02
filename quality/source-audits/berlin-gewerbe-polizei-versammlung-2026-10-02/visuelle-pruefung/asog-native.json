@@ -1,0 +1,373 @@
+{
+  "reviewer": "berlin_final_review",
+  "date": "2026-10-02",
+  "scope": "24 native Word-Seiten und sechs native Tabellenansichten der drei ASOG-Testakten. Jede Ansicht einzeln in lesbarer Größe geöffnet.",
+  "prior_pdf_report": "lokale-pruefartefakte/qa/asog-visual-review.json",
+  "prior_pdf_report_sha256": "6ff2c3b59423b8677fcbea795a18cb44b169635d48dc072e2c4ac0c26fe47875",
+  "exact_rgb_matches_to_prior_pdf": 0,
+  "visually_opened": 30,
+  "result": "Keine Layoutblocker gefunden. Keine Deduktion allein aus der bereits vorliegenden PDF-Prüfung.",
+  "images": [
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-datenverwechslung-kiezfest__18_Datenabgleich_und_Zeit__Datenabgleich.png",
+      "sha256": "404474a1367b0185d48d3f3bfbf41a4e3e341c8bb1bb2e8d2ba163ca9462c98f",
+      "rgb_pixel_sha256": "88da122b8935c4685e07189b6300a43551effcd3fa0ebd211fb9836cc804c05b",
+      "size": [
+        1572,
+        350
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-datenverwechslung-kiezfest__18_Datenabgleich_und_Zeit__Zeitfolge.png",
+      "sha256": "a9dfeb19489f45a9d31ea095841bd7ac8acc64f29f9342756c687bec1c649bf1",
+      "rgb_pixel_sha256": "97f8ccdc929447f45cf798b2f65a3fc8d717db973d8b1a58085a056188bcbb21",
+      "size": [
+        1680,
+        246
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-platzverweis-parkpicknick__18_Wege_und_Planung__Treffplanung.png",
+      "sha256": "9cd08053df76a2760361dafd8b24d97864760be3c3d1c25ad7aa20dacd487494",
+      "rgb_pixel_sha256": "6f44581ff84fd6831d0f137096d8347d1b91f0040ba5b52dc007b7c10ed5105d",
+      "size": [
+        1721,
+        198
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-platzverweis-parkpicknick__18_Wege_und_Planung__Wegbreiten.png",
+      "sha256": "8a35b8a717f6a874ce703aebe90c94dfee80c582a625fb97db1bf2e196b35c15",
+      "rgb_pixel_sha256": "04fa5ec58f1dc6535ed4ed62ccba5c9f63f8932b15fa1cf91c61573ee01f5720",
+      "size": [
+        1545,
+        246
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-sicherstellung-lastenrad__18_Ersatzkosten_und_Inventar__Ersatzkosten.png",
+      "sha256": "400808b804f4d48b70e4af5faf9c9383c6edbc3268cf79bc897c90b6f9a0769e",
+      "rgb_pixel_sha256": "1dbd0ab628ef47458a8c726066318c258e748fc0ce86cbd66ec61392d9201af2",
+      "size": [
+        1734,
+        246
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/tabellen/berlin-asog-sicherstellung-lastenrad__18_Ersatzkosten_und_Inventar__Inventar.png",
+      "sha256": "f5ba24739ff85a247ff462a53dd7fab8db3c6cf7e99bc66c25070f992f587fe7",
+      "rgb_pixel_sha256": "efbe2c32437248519f77632e0592c714858a15cbbe10f347d7aa492649f890cb",
+      "size": [
+        1680,
+        246
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/01_Auftrag_Demir/page-1.png",
+      "sha256": "5399d76fcee93931b3ace95120719e53c4509e991b24124d1612ee5fe0538c56",
+      "rgb_pixel_sha256": "eb73d7218bb73e551c846bfd62466c78b5e9c6e6fa2819a19dcbac9e8eae76cf",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/02_Auskunftsersuchen/page-1.png",
+      "sha256": "5b1dba62b8e5197b43e3fffba8c1db0a0fe50f06fc1638c8826044384b7a98d8",
+      "rgb_pixel_sha256": "89704cc37243d2829fd57db3bbc6e8d0b40a48edfe673c766d1a8f3353ce4bfe",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/03_Auskunft_Polizei/page-1.png",
+      "sha256": "ae98fa9192a5fe71c17c645377221a21ac5f6f3da7d8e93c4492daee3e0d6c70",
+      "rgb_pixel_sha256": "9e8a6ea78d118993c839534da70dadff5210b0d424b123ab44e83fc6293da1d2",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/04_Personendaten_Demir/page-1.png",
+      "sha256": "c27b61a4c0085527b449c3d56e6e5003545ff51dcfee9f83731260730a644ac5",
+      "rgb_pixel_sha256": "6883898d6118863f4e78b3a1f8d312c41f8f8b1ce224ad397b0dceee2314e059",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/05_Nachbarschaftshaus_Bestaetigung/page-1.png",
+      "sha256": "77b1d9e090b618107db527054abdbd0eea45d00f6d634b6b2ae5d96765c18cc4",
+      "rgb_pixel_sha256": "267e552ae1689af92d0e7ca447b26e691212d5b1a0c0fd4ad7abfbe761fc868f",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/06_Zugangsnotiz_Auskunft/page-1.png",
+      "sha256": "ab2556b51dc95332581a433583c8318a5353ab309ab499640e3d950e53f7bac6",
+      "rgb_pixel_sha256": "94379035d8bf09a9e33d138d1231371db94ff7201e72a0c2daaac3052a69796f",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/07_Nachforderung_Identitaet/page-1.png",
+      "sha256": "9e79b40e0a3e0788113292766f458aa7d6d6b4830c94e6105f8dc6b8c4555f90",
+      "rgb_pixel_sha256": "47cc922e03b23f23cf792270b654037e75181ee2b87267b24f716fab72e408f8",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-datenverwechslung-kiezfest/08_Eigener_Taetigkeitsnachweis/page-1.png",
+      "sha256": "bd5b52c8a75b5d68fa50822cdd19aecf249ef157105a3361db7e3649a3b0426c",
+      "rgb_pixel_sha256": "631150f7473a0be45a759880055e50056b2fc04ed547c816118db9737fe00f0a",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/01_Auftrag_Fink/page-1.png",
+      "sha256": "de61042176ab5518dd9b25e039c76bda38cd0602606e9b53325c504053d1d1b5",
+      "rgb_pixel_sha256": "a010f348e8b50bb2f585e15ed5826f6a7e8003f749e93bb402ae771c0abc3b62",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/02_Bestaetigung_Platzverweis/page-1.png",
+      "sha256": "14414de3ed362dca8ca9309377c47663a00f16ffd9bcf773c17145f6c4e38cf9",
+      "rgb_pixel_sha256": "9b7cd94f015d1daaf74cba08fa8c25060937a4c550f74bd731d5bdbd3baf5aca",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/03_Gedaechtnisprotokoll_Cem/page-1.png",
+      "sha256": "e0bc5f79d121726e15146c4edb2b0c62d14dd059401ed413eb75a0c09502dfa9",
+      "rgb_pixel_sha256": "46a2c4e444b8aed37d3728c5364ef76a5b71b88f14d7b9b0e40efe515d8b3b1e",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/04_Nachbarbrief_Berthold/page-1.png",
+      "sha256": "17895674e7292b7606d8fdbebd1e7fc57c09f9fe95e67d1efaf547be5bb61bac",
+      "rgb_pixel_sha256": "7dd5acc3c3483e7555d600640715a05018c9e64a04339f22c2d9a2e82448e32f",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/05_Ortsnotiz_Wege/page-1.png",
+      "sha256": "26ee1d3ea7e00154708ef9c3ff5940d0248afc0dbf8070d2a68a485016e22324",
+      "rgb_pixel_sha256": "0d20d0e20b17b10a74534407704bb4c4e5e31a44cdb8caeb25512a3c03552f7f",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/06_Einladung_Oktober/page-1.png",
+      "sha256": "64fd87ac6ed1b59242c045c214d283cc453e9549d794b94cabed5b6ddea4dab3",
+      "rgb_pixel_sha256": "452226e921bb691afa90ddde13e7403e06aac33ae7eb3785c7a7535364a51be5",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/07_Zugangsnotiz/page-1.png",
+      "sha256": "b51de75c07769c4273b5a432b5a6b739f8917d3c993d22ecc6783ad5dcc8f8f5",
+      "rgb_pixel_sha256": "f8784b0266fb0d13596200d96eae893806b26c59fc3d352ab52ebe809eeb027b",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-platzverweis-parkpicknick/08_Rueckfrage_Anwohnerverein/page-1.png",
+      "sha256": "cc5a55585d45fc39cc91ee43873b2080f2de4c6e34d5239af42f0e0d50d287d7",
+      "rgb_pixel_sha256": "03506e551682655894de4b35dba49ae5bf8cc6c3b350e25dba4bc0c450a62610",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/01_Auftrag_Okafor/page-1.png",
+      "sha256": "bb181c3d36947b7c3b3f7a5de0caf25251bf62e49dc9c170a5323aace1361e29",
+      "rgb_pixel_sha256": "fa19b5ef053a584e760e88f29c1f06a07b645cd669723602d8e3196c99a7af57",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/02_Sicherstellungsbescheinigung/page-1.png",
+      "sha256": "1f22251e19a3ec3c8ae9cb5028ec9a9241a39d9f6f817258ae4c780de53d75f2",
+      "rgb_pixel_sha256": "afc8bb8a44e6943d9216322b67e8976ef7448617f4b5a22b304c484295b76f12",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/03_Kaufvertrag_Lastentransport/page-1.png",
+      "sha256": "e4e51e9789cdb82ac6e01bc5202c416a87e29242dafc42fb300e2a8170832cba",
+      "rgb_pixel_sha256": "6cb85b46fafd5292c65335b61497614978892966777eb924b205d1f4af857e24",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/04_Leihbestaetigung_Hummel/page-1.png",
+      "sha256": "49a6aa925ecfbdbaedf535babccf41791cfc4ed581a2352cc4e25e29344abe38",
+      "rgb_pixel_sha256": "b49ec0229cb376611dd77b1f3e1cf0288ada0a432eabe93be0cabcdbffd5c954",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/05_Werkstatt_Befund/page-1.png",
+      "sha256": "e0d4d883dcbbf5db758cd99dc4a8727f51264d4fda47c89486dcff90fcac2af6",
+      "rgb_pixel_sha256": "fc3c3fef32171bf79c3ddc763faa456c460976747386d8a4e215c980355ef21c",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/06_Verwahrstelle_Sachstand/page-1.png",
+      "sha256": "57fcb534cf4a55d33a685dd81773208f9ab6afaa64ffca0d825f4cb4b463df3e",
+      "rgb_pixel_sha256": "dd6d5fbf460c6184bf35bd80501072215e31234defd52ee3b0e7dabc54ec4659",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/07_Cafe_Lieferplan/page-1.png",
+      "sha256": "675f915518a4c35fd07eecc23e6d0301469c7ec973b02ae7b0bf03212f419d7f",
+      "rgb_pixel_sha256": "0c4079d84ebcc7d941e663d36c4cd6ee8d2aa9f2e4a9dc05dc2a3052a00fd90a",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    },
+    {
+      "png": "lokale-pruefartefakte/qa/asog/word/berlin-asog-sicherstellung-lastenrad/08_Abholerklaerung_Berta/page-1.png",
+      "sha256": "ad2473d9ce98664e4dbe629ddf25998aea84b50018a103d214e000e2fa147dba",
+      "rgb_pixel_sha256": "e5dba76ff53bba7fb7923a8f6b07a2f74395be7887c47012be1ecfad251d8bb8",
+      "size": [
+        827,
+        1170
+      ],
+      "matched_prior_pdf": null,
+      "visually_opened_at_readable_size": true,
+      "result": "Keine abgeschnittenen Texte, Überläufe, unlesbaren Zeichen oder fehlenden Inhalte erkennbar."
+    }
+  ],
+  "limits": "Visuelle Prüfung der vorliegenden nativen Renderansichten; keine neue Vollprüfung der Rohunterlagen oder Formeln."
+}

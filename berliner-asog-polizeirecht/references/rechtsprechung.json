@@ -1,0 +1,102 @@
+[
+  {
+    "key": "wohnung2025",
+    "citation": "BVerfG, Beschluss vom 30.09.2025 – 2 BvR 460/25",
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2025/09/rk20250930_2bvr046025.html",
+    "passages": "Rn. 24, 27–30, 34–46, 48–53",
+    "application": "Wohnraum in einer Gemeinschaftsunterkunft ist geschützt. Zielgerichtetes Aufspüren einer Person verlangt eine vorausschauende Prüfung des Durchsuchungscharakters und grundsätzlich vorherige richterliche Kontrolle.",
+    "limit": "Abschiebungsfall nach AufenthG; dessen Zuständigkeit und Ermächtigung nicht als ASOG-Norm übertragen. Keine automatische Rechtswidrigkeit jeder Begleitmaßnahme.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "wohnung2026",
+    "citation": "OVG Berlin-Brandenburg, Urteil vom 24.03.2026 – OVG 3 B 20/25",
+    "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/28900",
+    "passages": "Entscheidungsgründe 1 und 2; amtliche HTML-Fassung ohne ausgewiesene Randnummern",
+    "application": "Nach Zurückverweisung bleibt die Wohnungsdurchsuchung rechtswidrig; die verfassungsgerichtliche Aufhebung erfasst nicht automatisch den bereits rechtskräftigen anderen Streitgegenstand zur Sicherstellung.",
+    "limit": "Kein neues Gesamturteil über die materielle Rechtmäßigkeit sämtlicher Sicherstellungen. Den Umfang von Tenor und Gründen getrennt lesen.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "reste2026",
+    "citation": "OVG Berlin-Brandenburg, Beschluss vom 23.07.2026 – OVG 6 S 181/26",
+    "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/29246",
+    "passages": "Gründe 1–3; amtliche HTML-Fassung ohne ausgewiesene Randnummern",
+    "application": "Herausgabe einer noch existierenden Sache, Erlös und Reste nach rechtskräftig angeordneter Vernichtung sind verschiedene Begehren. Ein bloß einfach signierter Schriftsatz aus einem fremden beA genügt nicht ohne verantwortliche Übernahme; technische Ersatzeinreichung konkret glaubhaft machen.",
+    "limit": "Beschwerdeprüfung anhand der dargelegten Gründe und tatsächliche fehlende Identifizierbarkeit der Reste. Keine pauschale Ermächtigung zur Vernichtung und keine Aussage, dass jede Sicherstellung Eigentum entzieht.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "kurzerledigt2024",
+    "citation": "BVerwG, Urteil vom 24.04.2024 – 6 C 2.22",
+    "url": "https://www.bverwg.de/240424U6C2.22.0",
+    "passages": "Urteil Rn. 16–27 und 31–38; nicht den auf derselben Seite vorangestellten Anfragebeschluss verwechseln",
+    "application": "Kurzfristige Erledigung genügt außerhalb anderer anerkannter Interessen nicht allein; qualifizierten Grundrechtseingriff oder konkrete Wiederholungsgefahr, Rehabilitation oder präjudizielle Bedeutung prüfen.",
+    "limit": "NRW-Aufenthaltsverbot; weder Berliner Eingriffstatbestand noch genereller Ausschluss nachträglichen Rechtsschutzes.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "versammlung2024",
+    "citation": "BVerwG, Urteil vom 27.03.2024 – 6 C 1.22",
+    "url": "https://www.bverwg.de/270324U6C1.22.0",
+    "passages": "Rn. 35–67 sowie 68–83",
+    "application": "Kommunikative Blockade nicht vorschnell aus dem Versammlungsbegriff herausdefinieren. Die Ausnahme bei von Anfang an durchgehend unfriedlicher Versammlung ist eng; Dauer und Modalitäten des Gewahrsams bleiben eigenständig aufzuklären.",
+    "limit": "Fall aus Baden-Württemberg unter Bundes-VersG und damaligem Landesrecht. Berliner VersFG und Berliner Rechtswegzuweisung separat; keine Kollektivhaftung friedlicher Teilnehmender.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "beifang2025",
+    "citation": "BVerwG, Urteil vom 02.12.2025 – 6 C 1.25",
+    "url": "https://www.bverwg.de/021225U6C1.25.0",
+    "passages": "Rn. 11–21",
+    "application": "Historischen Zeitpunkt der Datenerhebung bestimmen, Kombination von Observation und Bildaufzeichnung erfassen, konkretisierte Gefahr und die notwendige Miterfassung Dritter jeweils prüfen.",
+    "limit": "NRW-Altnormen und verfassungsgerichtliche Übergangsmaßgabe bis Ende 2025. Keine Übertragung der abgelaufenen Fortgeltung auf Berlin 2026.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "observation2024",
+    "citation": "BVerfG, Beschluss vom 14.11.2024 – 1 BvL 3/22",
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/ls20241114_1bvl000322.html",
+    "passages": "Rn. 87–107 und 110–112",
+    "application": "Kombinierte längerfristige Observation und Bildaufzeichnung hat hohes Eingriffsgewicht; hinreichend bestimmte, mindestens konkretisierte Gefahr als Maßstab der geprüften Kombination.",
+    "limit": "Verfassungswidrigkeit konkret bezeichneter NRW-Vorschriften; keine automatische Nichtigkeit der neu gefassten Berliner Datenbefugnisse.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "speicherung2024",
+    "citation": "BVerfG, Urteil vom 01.10.2024 – 1 BvR 1160/19",
+    "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/10/rs20241001_1bvr116019.html",
+    "passages": "Rn. 132–153 sowie 156–193; Leitsätze 2 und 3",
+    "application": "Zweckerreichung, zweckändernde Nutzung und vorsorgende Speicherung unterscheiden. Speicherung benötigt tragfähige Schwellen, individuelle Prognose und angemessene Dauer; alte Prognosen nicht automatisch fortschreiben.",
+    "limit": "BKAG-Verfahren mit eigenem Tenor. ASOG/BlnDSG und konkrete Datei separat prüfen; nicht jede Verfahrenseinstellung führt ausnahmslos zur Löschung.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "herausgabe2018",
+    "citation": "OVG Berlin-Brandenburg, Urteil vom 15.11.2018 – OVG 1 B 2.18",
+    "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/14012",
+    "passages": "Leitsätze 1 und 2; Entscheidungsgründe zur Herausgabe, amtliches HTML ohne Randnummern",
+    "application": "Die Rückgabe an den früheren Gewahrsamsinhaber ist von der Prüfung einer anderen berechtigten Person zu unterscheiden; Eigentumsnachweis nicht reflexhaft als einzige Rückgabevoraussetzung behandeln.",
+    "limit": "Brandenburgisches Polizeigesetz. Damals herangezogene Berliner Parallele nicht über spätere Änderungen von § 41 ASOG hinweg anwenden; heutige Verweigerungsgründe prüfen.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  },
+  {
+    "key": "stpo2018",
+    "citation": "OVG Berlin-Brandenburg, Beschluss vom 25.04.2018 – OVG 12 S 18.18",
+    "url": "https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/9050",
+    "passages": "Gründe, Absätze beginnend „§ 41 Abs. 1 ASOG regelt“ und „Waren Gegenstände zur Beweissicherung“; HTML ohne Randnummern",
+    "application": "Eine strafprozessuale Beschlagnahme wird nach Freigabe nicht durch analoge Anwendung von § 41 ASOG fortgesetzt. Für neue präventive Verwahrung braucht es eine eigenständige tragfähige Grundlage.",
+    "limit": "Besonderer Präparatefall; VG-Rechtsweg im konkreten Beschwerdeverfahren aufgrund § 17a Absatz 5 GVG bindend, kein allgemeiner VG-Rechtsweg für strafprozessuale Rückgaben.",
+    "checked_on": "2026-10-02",
+    "verification_status": "frisch_amtliche_entscheidungspassagen"
+  }
+]
