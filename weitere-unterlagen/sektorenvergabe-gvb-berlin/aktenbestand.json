@@ -1,0 +1,271 @@
+{
+  "aktenstand": "2026-10-02",
+  "dokumente": [
+    {
+      "datei": "01_Bedarfsanmeldung.docx",
+      "pdf": "01_Bedarfsanmeldung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 1,
+      "sha256": "918713a502f7fd16091cf2df517e60685e22a116f8d4769bb28773002bcff170"
+    },
+    {
+      "datei": "02_Objektliste_17_07.csv",
+      "pdf": "02_Objektliste_17_07.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 2,
+      "sha256": "d87fee4888fef8d3c1e738ddf45e9fae337d39c121472cab49432aa12072c4ce"
+    },
+    {
+      "datei": "03_Kostenansatz_Finanzen.csv",
+      "pdf": "03_Kostenansatz_Finanzen.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 3,
+      "sha256": "b5d910e84892e26cd602a3532d50707e8a7859532d1a6c5719add88137d96cab"
+    },
+    {
+      "datei": "04_Begehung_Betrieb.docx",
+      "pdf": "04_Begehung_Betrieb.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 4,
+      "sha256": "4418da860bbe500782986f36efd9ae56bc068a7afd8f742930363c0f44e7435e"
+    },
+    {
+      "datei": "05_Leistungsbeschreibung_Stand_23_07.docx",
+      "pdf": "05_Leistungsbeschreibung_Stand_23_07.pdf",
+      "seiten": 2,
+      "gesamt_ab_seite": 5,
+      "sha256": "ecf8d28736bc50733b049740e13412a4115989e0cf98368f295734733cf45290"
+    },
+    {
+      "datei": "06_Eignung_Wertungsanlage.docx",
+      "pdf": "06_Eignung_Wertungsanlage.pdf",
+      "seiten": 2,
+      "gesamt_ab_seite": 7,
+      "sha256": "5de5f8018184c6db5bee4a535116dbf8a2afa082d019cb4a4f9c17e4209ddd33"
+    },
+    {
+      "datei": "07_Reinigungsvertrag_Entwurf.docx",
+      "pdf": "07_Reinigungsvertrag_Entwurf.pdf",
+      "seiten": 2,
+      "gesamt_ab_seite": 9,
+      "sha256": "1eb23ff241ef9dd9fd5795800aa9ba0a7b2d328cd663080c5ccc2675b32a67fd"
+    },
+    {
+      "datei": "08_Bekanntmachungsdaten.docx",
+      "pdf": "08_Bekanntmachungsdaten.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 11,
+      "sha256": "5d986b20df9c3f2242f44e8124f333a6c233060e484102ce8b9c329950ea3526"
+    },
+    {
+      "datei": "09_Zugangsfenster.eml",
+      "pdf": "09_Zugangsfenster.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 12,
+      "sha256": "8983a816a776233ee626df67b7ddd2e542f7afa745b715c6e40b64dddcab6fcd"
+    },
+    {
+      "datei": "10_Bewerberfrage.eml",
+      "pdf": "10_Bewerberfrage.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 13,
+      "sha256": "26b81dde31890927cd3e3e21623605ebb0629e7429d5abf44ccc35ec4ffb8940"
+    },
+    {
+      "datei": "11_Portalantwort_07.eml",
+      "pdf": "11_Portalantwort_07.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 14,
+      "sha256": "a54d31c404b967dc64392c033b38f98d707cc9828f5482bbb3c721ed681db3c0"
+    },
+    {
+      "datei": "12_Teilnahmeantrag_Maerkischer.docx",
+      "pdf": "12_Teilnahmeantrag_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 15,
+      "sha256": "ea6cf879c636e5c6e70db1273e3d787d7a59733fe0f2d48bb0934846e8f54c4d"
+    },
+    {
+      "datei": "13_Nachforderung_Versicherung.eml",
+      "pdf": "13_Nachforderung_Versicherung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 16,
+      "sha256": "7a9cc635aa44ca83372d17c6b95720b0113b27d5b11d249c5642ac33b24bf00a"
+    },
+    {
+      "datei": "14_Versichererbestaetigung.eml",
+      "pdf": "14_Versichererbestaetigung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 17,
+      "sha256": "61e811d0221daa78a09f740743c8b89fdc47a47c260b0ae0be5f0ab1d98b2855"
+    },
+    {
+      "datei": "15_Angebotsaufforderung.eml",
+      "pdf": "15_Angebotsaufforderung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 18,
+      "sha256": "59831f3cdfd3bdd2835eee921addb0e1fc8b93f4ec1897b133e53f8a4d0808ea"
+    },
+    {
+      "datei": "16_Angebot_Spreeklar.docx",
+      "pdf": "16_Angebot_Spreeklar.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 19,
+      "sha256": "12a3614d3571678b4ce86ac99aff25c3367268ec7d9cc97b08b3298ab97db881"
+    },
+    {
+      "datei": "17_Angebot_Maerkischer.docx",
+      "pdf": "17_Angebot_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 20,
+      "sha256": "1ec757c3b72db95adeee6fa607bcb91fd62e7c8dde6888297e8ac91d2f4b9893"
+    },
+    {
+      "datei": "18_Angebot_Nordlicht.docx",
+      "pdf": "18_Angebot_Nordlicht.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 21,
+      "sha256": "f0d1bd5bb31e66b486aba3df292b41cf23408e8f67b459ece75511850f5b319b"
+    },
+    {
+      "datei": "19_Telefonnotiz_Personal.txt",
+      "pdf": "19_Telefonnotiz_Personal.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 22,
+      "sha256": "639c7938b69f21b5cab15bda974a6d788ccdb9db0e358307a062fe068c905ebb"
+    },
+    {
+      "datei": "20_Verhandlung_Spreeklar.docx",
+      "pdf": "20_Verhandlung_Spreeklar.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 23,
+      "sha256": "9a54ed9b0c37684ac22153cdef04e35b019bb828d3afb3e60ebaae5658bb5ad3"
+    },
+    {
+      "datei": "21_Letzte_Angebotsrunde.eml",
+      "pdf": "21_Letzte_Angebotsrunde.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 24,
+      "sha256": "faa4befa1a8b07610f86ee54ea53891dd3dd1072bcd9ea8be3e7bb7395dca103"
+    },
+    {
+      "datei": "22_Abschliessende_Preisangaben.csv",
+      "pdf": "22_Abschliessende_Preisangaben.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 25,
+      "sha256": "af8cc3b9e756a853e8b09cf1d1a9925549b862a03f9395e22b1cdc5f3c247657"
+    },
+    {
+      "datei": "23_Preisaufklaerung_Spreeklar.docx",
+      "pdf": "23_Preisaufklaerung_Spreeklar.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 26,
+      "sha256": "2df8bbc77415c94cf59b12f73bfe85a58b74d3acbc163734d44251f45e22eb9e"
+    },
+    {
+      "datei": "24_Vorabinformation_Maerkischer.docx",
+      "pdf": "24_Vorabinformation_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 27,
+      "sha256": "76c396d54e4f85ad4c3bdd08620bf93af76f4308ab26abae5beec6209da81852"
+    },
+    {
+      "datei": "25_Interne_Rueckfrage_Wertung.eml",
+      "pdf": "25_Interne_Rueckfrage_Wertung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 28,
+      "sha256": "aab08fa243b5d5801d9a7d0e930b49ca646fe3453a74d770f92d66aaa38eb59e"
+    },
+    {
+      "datei": "26_Ruege_Maerkischer.docx",
+      "pdf": "26_Ruege_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 29,
+      "sha256": "69a9482323e30b08cae97cb426159583ae857296b8b26405da0329f4342cc169"
+    },
+    {
+      "datei": "27_Ruege_Eingang.eml",
+      "pdf": "27_Ruege_Eingang.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 30,
+      "sha256": "dd35a2cf246950e77d89cc5fe74ada3dfcb9100cf1f4e887a360e5fd50983825"
+    },
+    {
+      "datei": "28_Nichtabhilfe_GVB.docx",
+      "pdf": "28_Nichtabhilfe_GVB.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 31,
+      "sha256": "a22c93593780bdde360405cb277191fea66cee56e9fd1f4ba7c959c057c04087"
+    },
+    {
+      "datei": "29_Nachpruefungsantrag.docx",
+      "pdf": "29_Nachpruefungsantrag.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 32,
+      "sha256": "951e2170eb49dd0d26a2493daae3f9b992c0ea8ec26555b666e272ec9009af56"
+    },
+    {
+      "datei": "30_Vollmacht.docx",
+      "pdf": "30_Vollmacht.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 33,
+      "sha256": "552ddaa009222c69c43a8ffba7f9f3bd033706d12bc711ddb5a7ac01ce5d1429"
+    },
+    {
+      "datei": "31_Kammermitteilung.txt",
+      "pdf": "31_Kammermitteilung.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 34,
+      "sha256": "24a4d4b569c8c89e6ee281fd4037e5e39b3146abe1c873b961e095049a6f1f63"
+    },
+    {
+      "datei": "32_Aktenanforderung_intern.eml",
+      "pdf": "32_Aktenanforderung_intern.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 35,
+      "sha256": "350df49a3e58da91f960d853ac1b55c3f3ae843a8e4329d5bd928f6849055c14"
+    },
+    {
+      "datei": "33_Stationsservice_Chat.txt",
+      "pdf": "33_Stationsservice_Chat.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 36,
+      "sha256": "e1449ceb140a1376877f22ac0073074558e4cc5088fcc6f86ec31d9ab90d1a8c"
+    },
+    {
+      "datei": "34_Portalprotokoll.csv",
+      "pdf": "34_Portalprotokoll.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 37,
+      "sha256": "5b7df4b5ad3f5cdd40d2e92daa9c350f9f37d8dcb808f60c2abc9de0d273c716"
+    },
+    {
+      "datei": "35_Abschliessendes_Konzept_Spreeklar.docx",
+      "pdf": "35_Abschliessendes_Konzept_Spreeklar.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 38,
+      "sha256": "b545ab128b5f099139e4306791abf6dd7306d5ca1d1994862bc79b064dbe9caf"
+    },
+    {
+      "datei": "36_Abschliessendes_Angebot_Maerkischer.docx",
+      "pdf": "36_Abschliessendes_Angebot_Maerkischer.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 39,
+      "sha256": "b732c1269bd6f181d52cca49ef37c1d8de565266c80e859a28991b4cbff1d9c3"
+    },
+    {
+      "datei": "37_Abschliessendes_Angebot_Nordlicht.docx",
+      "pdf": "37_Abschliessendes_Angebot_Nordlicht.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 40,
+      "sha256": "7763a74030404abba5ee8c3e62d44684723ee8ca59b5e4c4b7e069d4bd340759"
+    },
+    {
+      "datei": "38_Leistungsverzeichnis_Preisblatt.csv",
+      "pdf": "38_Leistungsverzeichnis_Preisblatt.pdf",
+      "seiten": 1,
+      "gesamt_ab_seite": 41,
+      "sha256": "ab4ec6a2a8c59c16cf7c3cd6f57578142128918dc2a493a3608d45dd43e86140"
+    }
+  ]
+}

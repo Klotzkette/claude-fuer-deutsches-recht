@@ -1,0 +1,16 @@
+﻿Datum;Uhrzeit;Vorgang;Empfänger;Nachweis
+24.07.2026;09:12:00;Datensatz zur Veröffentlichung versandt;Publikationsdienst;GVB-PUB-240726-017
+17.08.2026;10:00:00;Antwort 07 bereitgestellt;Alle registrierten Bewerber;MSG-071
+17.08.2026;10:07:12;Antwort 07 abgerufen;Spreeklar;READ-071-1
+17.08.2026;10:11:43;Antwort 07 abgerufen;Märkischer Objektservice;READ-071-2
+17.08.2026;11:20:15;Antwort 07 abgerufen;Nordlicht;READ-071-3
+25.08.2026;10:42:00;Versichererbestätigung eingegangen;GVB Einkauf;UP-083
+26.08.2026;09:15:00;Angebotsaufforderung versandt;Drei geeignete Bewerber Los 1;MSG-091
+17.09.2026;09:00:00;Letzte Angebotsrunde eröffnet;Drei Bieter Los 1;MSG-138
+25.09.2026;15:18:00;Vorabinformation versandt;Märkischer Objektservice;MSG-163
+25.09.2026;15:31:00;Vorabinformation abgerufen;Märkischer Objektservice;READ-163
+28.09.2026;09:34:00;Rüge eingegangen;GVB Einkauf;UP-172
+30.09.2026;14:22:00;Nichtabhilfe versandt;Märkischer Objektservice;MSG-184
+30.09.2026;14:37:00;Nichtabhilfe abgerufen;Märkischer Objektservice;READ-184
+01.10.2026;13:46:00;Kammermitteilung eingegangen;GVB Einkauf;POST-201
+01.10.2026;14:03:00;Eingang Kammermitteilung bestätigt;Vergabekammer;POST-202

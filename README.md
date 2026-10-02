@@ -885,6 +885,10 @@ python3 scripts/sync-references.py
 
 Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, was synchronisiert wurde. Vor jedem Commit, der die beiden Root-Dateien anfasst, einmal aufrufen.
 
+## Weitere Unterlagen zum Testen
+
+[GVB Berlin: Reinigungsvergabe](weitere-unterlagen/sektorenvergabe-gvb-berlin/README.md) bietet zehn einzeln herunterladbare Markdown-Workflows und eine zusammenhängende Vergabeakte als Gesamt-PDF, Einzel-PDF-ZIP und ZIP mit Originalunterlagen. Die Zusatzsammlung liegt außerhalb der Plugins und wird nicht durch den Marketplace installiert.
+
 ## Lizenz
 
 Doppellizenziert unter **Apache License, Version 2.0** ODER **MIT License**, nach Wahl des Nutzers (`SPDX-License-Identifier: Apache-2.0 OR MIT`) – siehe [Lizenzhinweis](./LICENSE), [Apache-2.0-Lizenz](./LICENSE-APACHE), [MIT-Lizenz](./LICENSE-MIT) und [Notice](./NOTICE).

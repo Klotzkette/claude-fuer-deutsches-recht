@@ -1,0 +1,11 @@
+﻿Position;Leistung;Einheit;Menge_Jahr;EP_EUR_netto;Zuordnung
+1.01;Hermannstraße Boden und Zugang;m² je Durchgang;1533000;;Los 1 Grundauftrag
+1.02;Neukölln Boden und Zugang;m² je Durchgang;1387000;;Los 1 Grundauftrag
+1.03;Treptower Park Personalräume;m² je Durchgang;187200;;Los 1 Grundauftrag
+1.04;Adlergestell Personal und Sanitär;m² je Durchgang;540200;;Los 1 Grundauftrag
+1.05;Adlergestell Verwaltung ohne Laden;m² je Durchgang;546000;;Los 1 Grundauftrag
+1.06;Störungsannahme und Objektleitung;Monat;12;;Los 1 Grundauftrag
+1.07;Material und Gerätevorhaltung;Monat;12;;Los 1 Grundauftrag
+1.91;Sonderreinigung werktags tagsüber;Stunde;400;;Los 1 Sondermenge zur Wertung
+1.92;Sonderreinigung nachts;Stunde;200;;Los 1 Sondermenge zur Wertung
+1.93;Sonderreinigung Sonn und Feiertag;Stunde;100;;Los 1 Sondermenge zur Wertung
