@@ -197,4 +197,3 @@ Stand: 02.10.2026. Amtliche Volltexte und bezeichnete Normstellen wurden im Quel
 **Grenzen:** 48 Stunden sind die Prüfschwelle der Berliner Checkliste, keine überall geltende gesetzliche Höchstdauer; 72 Stunden im EDSA-Dokument ebenso wenig eine Freigabe bis dahin. Die Aufsichtshinweise ersetzen die Einzelfallabwägung nicht. Keine aus der Checkliste isoliert übernommene Behauptung, § 4 BDSG allein sei stets private Kamera-Rechtsgrundlage.
 
 **Folge für die Werkstatt und Testakten:** Heimliche Tonaufnahmen und Audioüberwachung nicht als Sicherheitsfunktion empfehlen. Bei einem gemeldeten Aufnahmegerät Tatsachen sichern und rechtlich klären. Im Schädlingsfall bedeutet Wanzen zunächst Bettwanzen; die beiden Vorgänge nicht vermischen.
-
