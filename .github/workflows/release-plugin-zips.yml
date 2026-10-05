@@ -86,6 +86,7 @@ jobs:
           python3 scripts/test-fintech-bremen.py
           python3 scripts/test-modefuchs-lebensakte.py
           python3 scripts/test-gesellschafter-vorfuehrakten.py
+          python3 scripts/test-kommunale-haftpflicht.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
           python3 scripts/test-weg-hausverwaltungsakten.py
@@ -313,6 +314,7 @@ jobs:
           python3 scripts/test-fintech-bremen.py --assets dist
           python3 scripts/test-modefuchs-lebensakte.py --assets dist
           VORFUEHRAKTEN_ZIPS=dist python3 scripts/test-gesellschafter-vorfuehrakten.py
+          KOMMUNALE_HAFTPFLICHT_ZIPS=dist python3 scripts/test-kommunale-haftpflicht.py
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)
         run: |

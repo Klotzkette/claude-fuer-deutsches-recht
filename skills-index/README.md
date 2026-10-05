@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.30.2`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.31.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22732 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22742 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -193,6 +193,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [ki-verordnung-hochrisiko-pruefer](./ki-verordnung-hochrisiko-pruefer.md) (9 Skills)
 - [ki-verordnung-transparenzpruefer](./ki-verordnung-transparenzpruefer.md) (8 Skills)
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (123 Skills)
+- [kommunale-haftpflicht](./kommunale-haftpflicht.md) (10 Skills)
 - [kommunalrecht-laender](./kommunalrecht-laender.md) (177 Skills)
 - [krankenhausrecht](./krankenhausrecht.md) (69 Skills)
 - [krankenkassenrecht-krankenversicherung](./krankenkassenrecht-krankenversicherung.md) (162 Skills)

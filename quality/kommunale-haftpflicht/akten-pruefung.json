@@ -1,0 +1,336 @@
+{
+  "status": "pass",
+  "stand": "2026-10-05",
+  "scope": "Drei neue kleine Fallakten zur kommunalen Haftpflicht. Technische und redaktionelle Prüfung; keine Bewertung einer juristischen Modellausgabe.",
+  "counts": {
+    "cases": 3,
+    "native_files": 36,
+    "docx": 16,
+    "eml": 15,
+    "txt": 3,
+    "xlsx": 2,
+    "mime_attachments": 7,
+    "word_pages": 16,
+    "combined_pdf_pages": 54,
+    "individual_pdf_pages": 36,
+    "individually_viewed_unique_pdf_pages": 72,
+    "exact_rgb_duplicate_pages": 18,
+    "bookmarks": 36,
+    "xlsx_formula_results_recalculated_in_libreoffice": 9,
+    "xlsx_cells_checked_in_individual_and_combined_pdfs": 68
+  },
+  "cases": [
+    {
+      "case": "kommunale-haftpflicht-personenschaden",
+      "native_files": 12,
+      "combined_pdf_pages": 18,
+      "individual_pdf_pages": 12,
+      "combined_pdf_sha256": "48028e10391f80b034c2ac2d6e9067d80c885372c4b957beb42e078baabfb8d7",
+      "original_zip_sha256": "0f1f1d0b7dc9565afc2b3741bc0fcfabd9afc177bf042bd3c4567ecc2b00f91d",
+      "individual_pdf_zip_sha256": "2b5b3ad81731aeb9871992e90c83a133483b988b75dc2470e2a1bf3b85c83a3f"
+    },
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "native_files": 12,
+      "combined_pdf_pages": 18,
+      "individual_pdf_pages": 12,
+      "combined_pdf_sha256": "7a747719bc0605c4195245acbe2af3ef8aab7358036cb8da856e4818892efe2b",
+      "original_zip_sha256": "e91c7b42bfa482c6a0b8c2f387cbb8b49f22daed88cadf271f339ece6d34a114",
+      "individual_pdf_zip_sha256": "6f6b99e237a75553b01f3f06c72902f89e02c1318bb7696f5dce78bf73c1571a"
+    },
+    {
+      "case": "akha-wuerzburg-betriebsfahrzeug",
+      "native_files": 12,
+      "combined_pdf_pages": 18,
+      "individual_pdf_pages": 12,
+      "combined_pdf_sha256": "7fe73e3ce46229f6db76a9a4d135bc86fd7e508103bb3001f3e8377ccaa02aa9",
+      "original_zip_sha256": "690843f7e4c2b92336a060b03bce0057747a38e233b713ea9cb74fe8db95f685",
+      "individual_pdf_zip_sha256": "ace1eaa9a34a51feda4c5170718067ac2231d5b874dda450d68b7be3192379fb"
+    }
+  ],
+  "native_files": [
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/01_Pruefauftrag.eml",
+      "bytes": 1615,
+      "sha256": "f0fc50086179b50f0dceb46b9f418bf49f3bc5d79259a49fdcd92a7237087239"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/02_Ereignismeldung.docx",
+      "bytes": 38037,
+      "sha256": "78496bb25e1454488e8e502c6363d24a446c71e4e3ecf5f4209b72c97e7acd7a"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/03_Behandlungsbericht.docx",
+      "bytes": 37845,
+      "sha256": "d267e802cecb7742420537bc581d85ea7be5c5e7f8340e83beacda63f1a4e58b"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/04_Reinigungskontrolle.docx",
+      "bytes": 37794,
+      "sha256": "351f604c724b73aa27685918284da2e00513ca0aff5e498f37c53b696905ede1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/05_Haushaltshilfe_Rechnung.docx",
+      "bytes": 37584,
+      "sha256": "538e3d87aa595dcbb3a61c53330d428d86d0977442349dc21a8d36aa9d58bd90"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/06_Jacke_Kaufbeleg.docx",
+      "bytes": 37434,
+      "sha256": "f45ac2e3780b9fa238b03142de1ad449264a3ae7e1194247760bbf0724688164"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/07_Forderung_Kuemmel.eml",
+      "bytes": 157042,
+      "sha256": "d99d6d4b93471d7a260e174ef4180717e726f3921a95dda960cfc11b2215d95e"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/08_Zeugin_Lina.eml",
+      "bytes": 1266,
+      "sha256": "8704704a9ee700dc7343fede2c935d0d460b6db6de9837582e484e4ebea04a39"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/09_Reinigung_Rueckfrage.eml",
+      "bytes": 1126,
+      "sha256": "50e8797a52ac05f8ea28942900ad039e5d33a429457e9cccef7c0a87c50673f1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/10_Vertragsunterlagen.eml",
+      "bytes": 1189,
+      "sha256": "74935178b9c8ee5affc37ec5f8cfa0f91a73d184ae4ca9a7175031a76d68c426"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/11_Teamchat.txt",
+      "bytes": 586,
+      "sha256": "f192332f265033da6cc201fbe3da82f20ad29a8a0e8ff2c932f7196f844f88aa"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/12_Alltag_Kuemmel.docx",
+      "bytes": 37831,
+      "sha256": "afc7b68718f963de0984e4856aa3c96f5d2f0a21494988b780e230553f192d66"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/01_Pruefauftrag.eml",
+      "bytes": 1760,
+      "sha256": "fecfb2900f034468bca7372a7956b3acd6d0a1a27681218c229c7c20f977719e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/02_Schadenmeldung.docx",
+      "bytes": 37889,
+      "sha256": "6df0f617bb07fa7956263a5014ba756d7ab2150e161d4b416b262c4a4f563f2a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/03_Einsatzbericht.docx",
+      "bytes": 38001,
+      "sha256": "b28ba7bd5a568be45371f0d02f7c12f552592500d025696fac0ad40bb58250ef"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/04_Trocknung_Rechnung.docx",
+      "bytes": 37639,
+      "sha256": "49e48a41c505f94ba4391d021557a6d738c9d3dee22300e60291636ff4f4e5e0"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/05_Muehlen_Bestandsliste.docx",
+      "bytes": 37781,
+      "sha256": "6f18d978df7377e4799e859fed0cbcfad4dbce28cf685511f9b5c551fe1306f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/06_Elektro_Angebot.docx",
+      "bytes": 37677,
+      "sha256": "8cda7664dd9a3b4862d9097eb6aea77c281a7872a15fe8acaf1b17223141652c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/07_Kostenuebersendung.eml",
+      "bytes": 105198,
+      "sha256": "2a65bb238124bacd712fd8ee7164defc6c302536b3f0b6430a2abad72008a9c6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/08_Vermieterin.eml",
+      "bytes": 1378,
+      "sha256": "13f5e0d53353f7f92cb19a93ff8311d5654d2c86e5790f08af3814060dc97aac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/09_Vertragsanfrage.eml",
+      "bytes": 1473,
+      "sha256": "972a0a56c8b654d6271998dd7b74a69cb30251a27b29a0c909418274c155f0f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/10_Umsatz_Rueckfrage.eml",
+      "bytes": 1098,
+      "sha256": "5cdf4bef4694486a760e657ca1dd9eba324f8528db68ae45c6166ab4d36116fc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/11_Stoerungslog.txt",
+      "bytes": 708,
+      "sha256": "c919fbdc494b670bd6cb55dc1fc4120601ab5f0a79baf6df14cd9f69c0d2caa5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/12_Kostenliste.xlsx",
+      "bytes": 5055,
+      "sha256": "ace2deac0013ba323d406a82a8c42a208220a97595773a974d8c2bf5b7782692"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/01_Pruefauftrag.eml",
+      "bytes": 2342,
+      "sha256": "999dcc971a6e2b3e654a0fc201527791c58cb5d460fb2de357b4530e8ce6299e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/02_Unfallmeldung.docx",
+      "bytes": 38009,
+      "sha256": "8053c391f6209a867ef7d340a626bcf827018c145fd71d0496928baeb58eb534"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/03_Zeugin_Samira.docx",
+      "bytes": 37710,
+      "sha256": "a8ba12ad40a47f9a77891213b7d663eff423127c5952a498b8001cca7ee741ac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/04_Bau_Angebot.docx",
+      "bytes": 37764,
+      "sha256": "9107556b586882ebdaaa027489e4b3f8787abaf8f05c30e53ba56dd680e49a52"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/05_Geraete_Aufstellung.docx",
+      "bytes": 37975,
+      "sha256": "4d476c42baa520f9ab79e3ea7459888a5c1ec5a5446f4baccf2aff43e4cf2309"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/06_Werkstattauftrag.docx",
+      "bytes": 37793,
+      "sha256": "dbfc1c3a9d5bdb0af565327676be5caa47069c3b54a90c01e0f3882a31ebb124"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/07_Gebaeudeeigentuemerin.eml",
+      "bytes": 53550,
+      "sha256": "412896b763be4fdaa8c18bd90e97b88078ee31c5705607d7d249e26c61a38b04"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/08_Geraeteeigentuemerin.eml",
+      "bytes": 53927,
+      "sha256": "e8f54ae80f363721c9dc31b200c95de3fc3e3c13dc50649dfdb88001d4bdb578"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/09_Nachbarbetrieb.eml",
+      "bytes": 1493,
+      "sha256": "8b42f2d5c6b029c0af9f223a034f64e910626e32b784bb19cf0e3a173d42e764"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/10_Vertragsunterlagen.eml",
+      "bytes": 2100,
+      "sha256": "6d561fc5deee03271d8801ac10041f8ad09d56986cd981e79dd79296abcefd40"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/11_Fuhrparkchat.txt",
+      "bytes": 804,
+      "sha256": "a9f5d7b3da2b4bd3bc18c0c596b4abff5acdc7e56e34881bf803821e1d115034"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/12_Forderungsuebersicht.xlsx",
+      "bytes": 5204,
+      "sha256": "88e1cbf8cfc88ede3502b351cf07180528a8696715d8e7bfb9e88de410c91a72"
+    }
+  ],
+  "table_input_probes": [
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "sheet": "Kostenliste",
+      "cell": "D12",
+      "actual": 15100,
+      "expected": 15100
+    },
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "sheet": "Kostenliste",
+      "cell": "D9",
+      "actual": 7500,
+      "expected": 7500
+    },
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "sheet": "Kostenliste",
+      "cell": "D10",
+      "actual": 3400,
+      "expected": 3400
+    },
+    {
+      "case": "akha-wuerzburg-betriebsfahrzeug",
+      "sheet": "Forderungen",
+      "cell": "D11",
+      "actual": 1840000,
+      "expected": 1840000
+    },
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "sheet": "Kostenliste",
+      "cell": "D12",
+      "actual": 11700,
+      "expected": 11700
+    },
+    {
+      "case": "akha-wuerzburg-betriebsfahrzeug",
+      "sheet": "Forderungen",
+      "cell": "D11",
+      "actual": 1390000,
+      "expected": 1390000
+    },
+    {
+      "case": "akha-wuerzburg-rohrbruch",
+      "sheet": "Kostenliste",
+      "cell": "D12",
+      "actual": 15100,
+      "expected": 15100
+    },
+    {
+      "case": "akha-wuerzburg-betriebsfahrzeug",
+      "sheet": "Forderungen",
+      "cell": "D11",
+      "actual": 1840000,
+      "expected": 1840000
+    }
+  ],
+  "verification": [
+    "Alle Originaldateien mit --out-root byteidentisch neu erzeugt.",
+    "Alle7 MIME-Anlagen dekodiert und bytegenau mit dem Original verglichen.",
+    "Sämtliche16 Wordseiten und2 Tabellenansichten vollständig visuell geprüft.",
+    "Alle Word-Absätze, E-Mail-Körper und Textdumps sowie alle68 besetzten Tabellenzellen in Einzel- und Gesamt-PDF nachgewiesen.",
+    "Alle72 unterschiedlichen PDF-Seiten betrachtet; weitere18 Seiten anhand vollständiger RGB-Pixel identisch zugeordnet.",
+    "Jedes der36 Lesezeichen auf tatsächliche Inhaltsseite geprüft.",
+    "Drei Gesamt-PDFs und drei Einzel-PDF-ZIPs mit kanonischen Buildern byteidentisch reproduziert.",
+    "Beide ZIP-Arten ohne Markdown/Redaktionsrubrik, mit README-Nutzungshinweis und flachen Archivpfaden geprüft."
+  ],
+  "freeze_sha256": "ee4b97b1d02ddbf07f9278e24bd2ae7e95377fa4ef52a809070222280e53c327",
+  "evidence": [
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/pdf-final-visual-review.json",
+      "sha256": "bb62c163056862e3710b6159db4b4d533591032912ab2a4869244fb02dc19185"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/native-word-visual-review.json",
+      "sha256": "ee3c69c2295e508ee3101d295fe7a275847725a27366b7ec2f923236d5a7f992"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/native-reproduction-mime-checks.json",
+      "sha256": "71b889887a08b166aa0f66dcfd3abf04c48cbc1555f3190b4064a04fe74c8f3f"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/case-pdf-content-checks.json",
+      "sha256": "4d8b67044f003f3f08a0cc933e7ebfe91f5a1a131b26e499cb770a95230b6d38"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/native-table-recalculation.json",
+      "sha256": "a9b87373bba98d852006c5f9849ed5b4e27d366a2ce3cf9ccd3ecbf526cef175"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/native-table-visual-review.json",
+      "sha256": "5f9f216b4bed03b3e88bb6d38aa86c6183ea3727a77276cceff91433bd972887"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/bookmark-navigation-check.json",
+      "sha256": "db8263dbabbd7c4cd0f90959e5c89dff5467368082704aebd9d78492b2e20f3f"
+    },
+    {
+      "path": "/tmp/kommunale-haftpflicht-20261005/evidence/pdf-reproduction-check.json",
+      "sha256": "37ad7eae887858a6f9480b8f9b315ad24a55ddfc753a9f05d7b962ba51e1d266"
+    }
+  ]
+}

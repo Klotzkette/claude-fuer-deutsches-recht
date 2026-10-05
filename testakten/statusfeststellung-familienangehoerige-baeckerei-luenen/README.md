@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf`](gesamt-pdf/statusfeststellung-familienangehoerige-baeckerei-luenen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.30.2/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-statusfeststellung-familienangehoerige-baeckerei-luenen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

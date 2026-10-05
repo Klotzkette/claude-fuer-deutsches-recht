@@ -1,0 +1,442 @@
+{
+  "schema_version": 1,
+  "plugin": "kommunale-haftpflicht",
+  "reviewed_on": "2026-10-05",
+  "selection": {
+    "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+    "positive": [
+      "Bearbeiten Sie den Besucherschaden im kommunalen Bürgerhaus für unseren Schadenbereich und entwerfen Sie eine begründete Antwort aus den Belegen.",
+      "Prüfen Sie einen Rohrbruchschaden in Würzburg und trennen Sie Haftung, Deckung und Rückdeckung anhand der vorhandenen Unterlagen.",
+      "Ordnen Sie einen Unfall unseres kommunalen Betriebsfahrzeugs mit mehreren Anspruchstellern und erstellen Sie eine belastbare Regulierungsvorlage."
+    ],
+    "negative": [
+      "Entwerfen Sie ausschließlich eine Schulplatzklage für ein Kind nach Berliner Schulrecht.",
+      "Gründen Sie eine private GmbH mit drei Gesellschaftern und formulieren Sie deren Satzung, ohne kommunalen Schadenfall."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR_155-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Die Halter des verbundenen Zugfahrzeugs und Anhängers haften gegenüber außenstehenden Geschädigten nach § 19 Abs. 2 StVG für das gesamte Gespann. Der Schaden eines dieser Halter am eigenen Fahrzeug richtet sich im Innenverhältnis hingegen nach allgemeinem Vertrags- und Deliktsrecht (§ 19 Abs. 4 Satz 5 StVG), nicht nach Gefährdungshaftung. Das gilt auch bei unbeabsichtigtem Lösen des Anhängers im Unfallzeitpunkt oder kurz zuvor. Grenze: Erweiterungsanker für kommunale Gespanne. Kein Anhänger in der Akte: nicht künstlich aufrufen. Weder werden Außenansprüche ausgeschlossen noch AKB-Deckung oder Rückdeckungsumfang entschieden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR__24-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Bei Haushaltsführungs- und Mehrbedarfsschäden dürfen die Anforderungen an den Vortrag nicht überspannt werden. § 287 ZPO erleichtert auch die Darlegung. Konkrete Angaben zu Haushalt, Tätigkeiten, Zeitaufwand und verletzungsbedingten Einschränkungen müssen gewürdigt werden; eine tatsächlich bezahlte Ersatzkraft ist für den fiktiven Haushaltsführungsschaden nicht Voraussetzung. Widersprüche und Änderungen sind im Rahmen der Würdigung zu behandeln. Grenze: Gehörsentscheidung mit Zurückverweisung, keine Bestätigung jeder geforderten Stunde oder Geldsumme. Einzelfall, zeitliche Zuordnung, Kausalität und Überschneidungen bleiben zu prüfen. Die Erleichterung ersetzt keine tatsächliche Anknüpfungsgrundlage."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Der Geschädigte trägt grundsätzlich die Darlegungs- und Beweislast für die streupflichtauslösende Gefahrenlage und Pflichtverletzung; an schlüssigen Vortrag dürfen keine überhöhten Anforderungen gestellt werden. Eine vollständige Verdrängung der Verantwortung des Streupflichtigen erfordert besondere, schlechthin unverständliche Sorglosigkeit. Bloße Erkennbarkeit der Glätte genügt dafür nicht; die Voraussetzungen des Mitverschuldens hat der Schädiger darzulegen und zu beweisen. Grenze: Entschieden wurde winterliche Glätte auf einem Verkehrsweg. Für einen nassen Innenraumeingang nur die begrenzten Darlegungs- und Mitverschuldensgrundsätze verwenden; keine automatische Streupflicht, feste Reinigungsfrist oder Haftungsquote übertragen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_323-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Ein übereinstimmendes tatsächliches Verständnis eines Vorbehalts in einer Abfindungsvereinbarung muss bei der Auslegung berücksichtigt werden. Der bloße Vorbehalt künftiger Schäden bedeutet aber nicht ohne Weiteres Verjährungsverzicht oder abweichenden Verjährungsbeginn. Wird eine weitergehende gemeinsame Vereinbarung behauptet, darf der hierzu angebotene Beweis nicht übergangen werden. Grenze: Zurückverweisung wegen übergangenen Vortrags; der behauptete abweichende Fristbeginn wurde nicht als bewiesen festgestellt. Weder aus jeder Teilzahlung noch aus jedem Zukunftsvorbehalt einen neuen Fristenlauf ableiten. Rn. 6–7 geben die Vorinstanz wieder und sind keine eigene tragende Aussage des BGH."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__12-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Der Ausfall eigener Haushaltstätigkeit kann auch bei unentgeltlicher Hilfe Dritter ersatzfähig sein. Zuerst sind die ausgefallenen Leistungen und Stunden festzustellen. Bei fiktiver Ersatzkraftbeschaffung geht es um Nettokosten; bei tatsächlich beschäftigter Ersatzkraft können erforderliche Bruttokosten maßgeblich sein. Eine Schätzung des Stundensatzes benötigt nachvollziehbare tatsächliche Grundlagen. JVEG-Sätze sind allein keine geeignete Bemessungsbasis; ein gesetzlicher Bruttomindestlohn ist nicht ohne Weiteres der passende Nettostundensatz. Grenze: Kein bundesweit fester Haushaltssatz und keine Preisempfehlung für 2026. Region, Zeitraum, Tätigkeit, erforderlicher Ersatz und tatsächliche beziehungsweise fiktive Abrechnung getrennt belegen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_252-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Der Sozialversicherungsträger verfolgt den übergegangenen Ersatzanspruch des Verletzten, nicht einen davon unabhängigen eigenen Rechnungsschaden. § 116 SGB X verlangt sachliche und zeitliche Kongruenz. Bei absehbarer Leistungspflicht kann der Übergang bereits im Schadenzeitpunkt eintreten. Für unfallbedingte Folgeschäden gilt das erleichterte Beweismaß des § 287 ZPO; sozialrechtliche Krankenhausabrechnungsregeln heben zivilrechtliche Darlegungs- und Beweislast nicht allgemein auf. Grenze: Kein Freibrief, jede Kassenforderung ungeprüft zu zahlen oder vollständige Gesundheitsakten unterschiedslos anzufordern. Sonderregeln, insbesondere § 116 Abs. 8 SGB X, unterscheiden. Primärverletzung und haftungsbegründende Tatsachen nicht pauschal nach § 287 ZPO behandeln."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Für das Handeln in Ausübung eines öffentlichen Amtes kommt es auf Zielsetzung und engen äußeren und inneren Zusammenhang mit der hoheitlichen Aufgabe an, nicht allein auf die Rechtsform oder den Arbeitgeber. Auch Mitarbeiter eines privaten Unternehmens können Verwaltungshelfer sein. Im entschiedenen Fall setzten sie eine behördlich angeordnete Verkehrsregelung durch das Aufstellen von Verkehrszeichen um; Art. 34 GG verdrängte ihre persönliche Außenhaftung. Grenze: Keine Pauschalregel für jede kommunale GmbH oder jedes Bürgerhaus. Betreiber, Auftrag, Einfluss der Behörde, konkrete Verrichtung, Satzung und Vertrag feststellen. Straßenverkehrsrechtlicher Ausgangsfall; bayerisches Landesrecht und private Veranstaltungsvermietung eigenständig zuordnen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Schmerzensgeld verlangt eine Gesamtwürdigung der Verletzungsschwere, des Leidens, der Dauer und Wahrnehmung der Beeinträchtigungen sowie des Verschuldens. Die fallprägenden Umstände sind zu gewichten und zu einer einheitlichen Entschädigung zusammenzuführen. Eine schematische taggenaue Berechnung aus allgemeinen Einkommensgrößen und Beeinträchtigungsstufen genügt dem nicht. Grenze: Der amtliche Text ist laut Titelblatt durch Beschluss vom 23.02.2022 berichtigt. Weder einen automatischen Tagessatz noch einen festen Preis für die Verletzung aus dem Urteil übernehmen. Vergleichsentscheidungen nur nach konkretem Verletzungsbild, Dauer und Folgen auswählen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2018/VI_ZR_319-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Der Betriebsbegriff des § 7 StVG ist weit, bleibt aber an den Schutzzweck gebunden. Entscheidend ist ein naher örtlicher und zeitlicher Zusammenhang mit einem Betriebsvorgang oder einer Betriebseinrichtung. Ein technischer Defekt des abgestellten, abgeschleppten Fahrzeugs kann den Betriebstatbestand erfüllen, auch wenn das Fahrzeug nicht mehr fahrbereit ist. Grenze: Der Brandfall ersetzt keinen Nachweis der Ursache. Im Rollunfall Feststellbremse, Gefälle, Abstellen, Fremdeinwirkung und technische Befunde sichern. Das bloße Vorhandensein eines Fahrzeugs reicht nicht; vorsätzliche Brandlegung von außen ist ein anderer Sachverhalt."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2013/III_ZR_490-13.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Anlageninhaber ist, wer die tatsächliche Herrschaft über den Betrieb ausübt und die erforderlichen Weisungen erteilen kann; Eigentum allein entscheidet nicht. Satzung und Versorgungsbedingungen können die Übergabegrenze prägen. Ein im Gebäude entstandener Wasserschaden durch den dort verlaufenden Teil des Hausanschlusses fiel unter § 2 Abs. 3 Nr. 1 HPflG, obwohl dieser Anschluss zur Anlage des Versorgungsunternehmens gehörte. Andere Anspruchsgrundlagen blieben gesondert zu prüfen. Grenze: Schadenort und Leckort separat bestimmen. Ein Kellerwasserschaden aus einer außerhalb des Gebäudes gebrochenen Leitung ist nicht bereits wegen seines Schadenorts ausgeschlossen. Die AVBWasserV beziehungsweise lokale Satzung/Vertragsbedingungen auf tatsächliche Anwendbarkeit prüfen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2006/VI_ZR_279-06.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Vertragliche Schutzpflichten und deliktische Verkehrssicherung können inhaltlich übereinstimmen. Erforderlich sind nach den Umständen notwendige und zumutbare Vorkehrungen gegen vorhersehbare Gefahren, keine absolute Gefahrlosigkeit. Technische Regeln beschreiben die gebotene Sorgfalt nicht stets abschließend. Eine Pflichtverletzung ersetzt den Kausalitätsnachweis nicht; ein Anscheinsbeweis verlangt die Verwirklichung des typischen, von der verletzten Pflicht erfassten Risikos. Grenze: Ausgangsfall: Quadfahrt im Erlebnispark und Gesichtsschutz. Nur die genannten allgemeinen Grundsätze auf einen kommunalen Gebäudesturz übertragen. Keine daraus erfundene DIN, starre Wischfrequenz oder automatische Beweislastumkehr."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2004/VI_ZR__34-04.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Die Beschädigung fremder Bahninfrastruktur führte bei einem Eisenbahnunternehmen mit unbeschädigten, anderweitig beweglichen Fahrzeugen nicht schon durch die zeitweise Streckensperrung zu einer Eigentumsverletzung an diesen Fahrzeugen. Ein Anspruch wegen Eingriffs in den eingerichteten und ausgeübten Gewerbebetrieb setzt einen unmittelbaren betriebsbezogenen Eingriff voraus; bloße Fernwirkungen einer allgemeinen Versorgungs- oder Infrastrukturbeschädigung genügen nicht. Grenze: Der amtliche Altvolltext enthält keine Randnummern; deshalb Seitenfundstelle statt erfundener Rn. Eigene beschädigte Sachen, vollständiger Entzug der Nutzbarkeit, vertragliche Ansprüche und besondere Schutzgesetze separat prüfen. Nicht jeden Betriebsunterbrechungsschaden pauschal ausschließen."
+    }
+  ],
+  "cases": [
+    {
+      "id": "besuchersturz",
+      "request": "Bearbeiten Sie die beigefügte Personenschadenakte für die darin genannte Bearbeitungsstelle. Liefern Sie eine interne, belegte Haftungs- und Schadenbewertung sowie ein vollständiges Schreiben mit den entscheidenden Nachfragen. Ordnen Sie widersprechende Angaben, eigene Ansprüche der Geschädigten und mögliche Anspruchsübergänge; offene Tatsachen bleiben offen. Keine externe Versendung.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/kommunale-haftpflicht-personenschaden/01_Pruefauftrag.eml",
+        "testakten/kommunale-haftpflicht-personenschaden/02_Ereignismeldung.docx",
+        "testakten/kommunale-haftpflicht-personenschaden/03_Behandlungsbericht.docx",
+        "testakten/kommunale-haftpflicht-personenschaden/04_Reinigungskontrolle.docx",
+        "testakten/kommunale-haftpflicht-personenschaden/05_Haushaltshilfe_Rechnung.docx",
+        "testakten/kommunale-haftpflicht-personenschaden/06_Jacke_Kaufbeleg.docx",
+        "testakten/kommunale-haftpflicht-personenschaden/07_Forderung_Kuemmel.eml",
+        "testakten/kommunale-haftpflicht-personenschaden/08_Zeugin_Lina.eml",
+        "testakten/kommunale-haftpflicht-personenschaden/09_Reinigung_Rueckfrage.eml",
+        "testakten/kommunale-haftpflicht-personenschaden/10_Vertragsunterlagen.eml",
+        "testakten/kommunale-haftpflicht-personenschaden/11_Teamchat.txt",
+        "testakten/kommunale-haftpflicht-personenschaden/12_Alltag_Kuemmel.docx"
+      ],
+      "deliverables": [
+        "haftungs-und-schadenvermerk.md",
+        "nachfrageschreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "pflicht-und-kausalitaet",
+          "text": "Betreiberstellung, konkrete Gefahr, Kontrollablauf und Ursächlichkeit anhand der Originale prüfen. Fehlende Kontrolle nicht ohne Weiteres aus fehlendem Eintrag ableiten; nachträgliche Wahrnehmung nicht rückdatieren.",
+          "deliverables": [
+            "haftungs-und-schadenvermerk.md",
+            "nachfrageschreiben.md"
+          ]
+        },
+        {
+          "id": "schaden-und-uebergang",
+          "text": "Schmerzensgeld, Haushaltsführung, Erwerbs-/Behandlungskosten sowie Leistungen Dritter getrennt mit Belegen prüfen. Keinen Tagessatz, keine unbelegte medizinische Prognose und keine Doppelzahlung verwenden. Die angemeldeten 2.923,40 EUR sind keine feststehende Ersatzsumme; bezahlte Haushaltshilfe 297,50 EUR, unbezahlte Familienhilfe und hypothetische Eigenleistung nicht doppeln. Rentenstatus schließt einen pauschal erfundenen Erwerbsschaden aus.",
+          "deliverables": [
+            "haftungs-und-schadenvermerk.md",
+            "nachfrageschreiben.md"
+          ]
+        },
+        {
+          "id": "rollen-und-ergebnis",
+          "text": "Richtigen Anspruchsgegner und Bearbeitungsrolle nennen. Benötigte Unterlagen eng bestimmen; Brief ausformulieren, keine umfassende Gesundheitsdatenanforderung oder erfundene Deckungszusage.",
+          "deliverables": [
+            "haftungs-und-schadenvermerk.md",
+            "nachfrageschreiben.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rohrbruch-wuerzburg",
+      "request": "Prüfen Sie anhand der vollständigen Würzburger Rohrbruchakte die geltend gemachten Sach- und Gewerbeschäden. Erstellen Sie einen belegten internen Prüfvermerk mit nachvollziehbarer Berechnung und ein vollständig ausformuliertes Anforderungsschreiben zu den entscheidenden fehlenden Tatsachen und Deckungsunterlagen. Die Akte ist der Tatsachenstand; keine Mitgliedschaft, Rückdeckungsquote oder Bedingung ergänzen und nichts versenden.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-rohrbruch/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-rohrbruch/02_Schadenmeldung.docx",
+        "testakten/akha-wuerzburg-rohrbruch/03_Einsatzbericht.docx",
+        "testakten/akha-wuerzburg-rohrbruch/04_Trocknung_Rechnung.docx",
+        "testakten/akha-wuerzburg-rohrbruch/05_Muehlen_Bestandsliste.docx",
+        "testakten/akha-wuerzburg-rohrbruch/06_Elektro_Angebot.docx",
+        "testakten/akha-wuerzburg-rohrbruch/07_Kostenuebersendung.eml",
+        "testakten/akha-wuerzburg-rohrbruch/08_Vermieterin.eml",
+        "testakten/akha-wuerzburg-rohrbruch/09_Vertragsanfrage.eml",
+        "testakten/akha-wuerzburg-rohrbruch/10_Umsatz_Rueckfrage.eml",
+        "testakten/akha-wuerzburg-rohrbruch/11_Stoerungslog.txt",
+        "testakten/akha-wuerzburg-rohrbruch/12_Kostenliste.xlsx"
+      ],
+      "deliverables": [
+        "pruefvermerk-mit-rechnung.md",
+        "unterlagenanforderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "anlage-und-gebaeude",
+          "text": "Anlageninhaber, Leitungsort, Stoffaustritt, Ausbreitung und fremdes Eigentum prüfen; §2 HaftPflG-Ausschlüsse, §10 einschließlich Grundstücksausnahme und §12 getrennt behandeln, soweit der Sachverhalt dazu Anlass gibt.",
+          "deliverables": [
+            "pruefvermerk-mit-rechnung.md",
+            "unterlagenanforderung.md"
+          ]
+        },
+        {
+          "id": "betriebsunterbrechung",
+          "text": "Rechnungen, Netto/Brutto, Vorsteuerabzug, zerstörte Waren, Wiederherstellung und Ertragsausfall auseinanderhalten. Umsatzausfall nicht unverändert als Gewinnschaden addieren; Doppelpositionen und bloße Angebote erkennen. Summe der Anmeldung 15.100 EUR netto besteht aus 2.400 EUR bezahlter Trocknung, 1.800 EUR bloßem Angebot, 7.500 EUR Neupreisansatz für gebrauchte Mühlen und 3.400 EUR Nettoumsatz. Nicht unbesehen als Schaden anerkennen.",
+          "deliverables": [
+            "pruefvermerk-mit-rechnung.md",
+            "unterlagenanforderung.md"
+          ]
+        },
+        {
+          "id": "rueckdeckungsfrage",
+          "text": "Rückdeckung der tatsächlich betroffenen Rechtsträger anhand konkreter Unterlagen offen prüfen. Keine fingierte AKHA-Mitgliedschaft, allgemein gültige Quote oder Leistungszusage; fehlender Rückdeckungsvertrag blockiert nur die davon abhängige Bewertung.",
+          "deliverables": [
+            "pruefvermerk-mit-rechnung.md",
+            "unterlagenanforderung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "betriebsfahrzeug-wuerzburg",
+      "request": "Bearbeiten Sie für die Frankenbogen Kommunalversicherung VVaG die Würzburger Betriebsfahrzeugakte gemäß dem konkreten Auftrag in 01. Bearbeiten Sie die Würzburger Akte zum kommunalen Betriebsfahrzeug. Stellen Sie die Ansprüche der Beteiligten und ihre Belege getrennt dar, prüfen Sie den Unfallhergang, ordnen Sie Schadenarten und Forderungsinhaber und entwerfen Sie eine vollständig formulierte interne Regulierungsvorlage samt gezielter Unterlagenanfrage. Haftungsabwägung, externe Haftungsgrenzen und interne Deckung dürfen nicht vermischt werden; keine Zahlung und kein Versand.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-betriebsfahrzeug/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/02_Unfallmeldung.docx",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/03_Zeugin_Samira.docx",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/04_Bau_Angebot.docx",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/05_Geraete_Aufstellung.docx",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/06_Werkstattauftrag.docx",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/07_Gebaeudeeigentuemerin.eml",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/08_Geraeteeigentuemerin.eml",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/09_Nachbarbetrieb.eml",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/10_Vertragsunterlagen.eml",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/11_Fuhrparkchat.txt",
+        "testakten/akha-wuerzburg-betriebsfahrzeug/12_Forderungsuebersicht.xlsx"
+      ],
+      "deliverables": [
+        "regulierungsvorlage.md",
+        "unterlagenanforderung.md"
+      ],
+      "criteria": [
+        {
+          "id": "haftungsabwägung",
+          "text": "Halter, Fahrer, konkrete Verrichtung und gegebenenfalls hoheitliche Tätigkeit unterscheiden; Betriebsbezug und §7/18 StVG prüfen. Nur nachgewiesene unfallursächliche Umstände in die passende Abwägung einstellen, keine starre Halbierung.",
+          "deliverables": [
+            "regulierungsvorlage.md",
+            "unterlagenanforderung.md"
+          ]
+        },
+        {
+          "id": "mehrpersonenrechnung",
+          "text": "Jeden Anspruchsteller, Eigentum, Schadenposition, Belegstatus und bisherigen Zahlbetrag gesondert erfassen. Gemeinsame Ereignislast ist weder sichere Haftungssumme noch automatisch versicherte Rückdeckung. Ungeklärte Beträge kenntlich lassen.",
+          "deliverables": [
+            "regulierungsvorlage.md",
+            "unterlagenanforderung.md"
+          ]
+        },
+        {
+          "id": "befugnis-und-limits",
+          "text": "Versicherungspflicht/-befreiung nicht allein aus kommunaler Nähe ableiten; Rechtsträger und §2 PflVG konkret beachten. Gesetzliche Höchstbeträge, Police und Rückdeckung unterscheiden; keine erfundenen Vertragsgrenzen oder unmittelbaren AKHA-Zahlungsansprüche.",
+          "deliverables": [
+            "regulierungsvorlage.md",
+            "unterlagenanforderung.md"
+          ]
+        },
+        {
+          "id": "glaeubiger-und-schadenssumme",
+          "text": "Mandantin ist ausschließlich der fiktive Versicherer. 1.840.000 EUR sind angemeldete Forderungen: 145.000 EUR Gebäudeangebot, 1.650.000 EUR ungeprüfter Geräteneupreisansatz und 45.000 EUR Nachbarumsatz. Die Spanne von 1,2 bis 2,1 Mio. EUR betrifft nur die Geräte und wird nicht zusätzlich addiert. Bei Nuri eigene Sachsubstanz- oder Gebrauchsverletzung, unmittelbaren betriebsbezogenen Eingriff und bloßen Umsatzreflex anhand der Akte unterscheiden; weder jeden Vermögensschaden automatisch anerkennen noch abstrakt ausschließen. § 12 StVG ist keine erfundene Versicherungssumme; § 16 StVG und gegebenenfalls § 118 VVG getrennt prüfen.",
+          "deliverables": [
+            "regulierungsvorlage.md",
+            "unterlagenanforderung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "method": "author_desk_review",
+    "reviewed_on": "2026-10-05",
+    "verdict": "revised",
+    "reason": "Vollständige Autorgegenlektüre der kompakten eigenständigen Fassung einschließlich der letzten Kürzungen. Alle drei Ereignisarten, aktuelle Anker mit Grenzen, Drei-Ebenen-Prüfung, Anspruchsübergänge, Datenverarbeitung und tatsächliches Endprodukt sind enthalten. Rein redaktionelle Desk-Review; kein Modelllauf.",
+    "changes": [
+      "Kommunales Eigentum von Amtshaftung trennen, kein pauschales Mitverschulden beim Gebäudesturz.",
+      "§10 HaftPflG mit 300.000 EUR, Grundstücksausnahme und §12-Konkurrenzprüfung; kein Deckungslimit daraus.",
+      "Gespannanker 2026 nur bei passender Konstellation; §17 StVG nicht aus bloßer Schadenmehrheit ableiten.",
+      "Kürzung auf 7.471 UTF-8-Bytes ohne Auslagerung in notwendige Zusatzdateien; drei direkte amtliche Entscheidungen bleiben enthalten."
+    ],
+    "sha256": "e17172e67c50447cdc284d8b034f16ad604ee1df634d9d968d87c20520819c95"
+  },
+  "workshop_review": {
+    "method": "author_desk_review",
+    "reviewed_on": "2026-10-05",
+    "verdict": "revised",
+    "reason": "Vollständige Autorgegenlektüre der Abschnitte 1.1–1.38. Der umfangreiche Prompt enthält konkrete Sachverhaltsarbeit, Personen-/Gewerberechnung, Schadenmehrheit, drei Rechtsverhältnisse und vollständig formulierte Produktlogik. Zwölf verifizierte Anker sind mit direktem Original und Anwendungsgrenze eingebaut. Autoren-Desk-Review, kein Werkstatt-Modelltest.",
+    "changes": [
+      "Haushaltsführungsschaden nach Tätigkeiten und Zeiträumen, nachvollziehbarer Nettoersatzkraftansatz, Schmerzensgeld ohne Tagesformel.",
+      "Sozialregress mit frühem Übergang und Kongruenz; EFZG/VVG nicht pauschal denselben Übergangszeitpunkt unterstellen.",
+      "Eigener Rechtseingriff und bloßer Nachbar-Umsatzreflex getrennt; keine generelle Ablehnung sämtlicher Betriebsunterbrechung.",
+      "§12 StVG und §118 VVG mit unterschiedlichen Grenzen/Verteilungswirkungen; §16 StVG und andere Grundlagen nicht übergehen.",
+      "AKHA-Kontext ohne fiktive Mitgliedschaft oder Bedingungen; echte Rückversicherung unter §209 VVG gesondert.",
+      "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag."
+    ],
+    "sha256": "8dcc44cddfda4d8dd34085b5a3f032e07a8eb0e38bf661a4b694dd3c64226a50"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-05",
+    "verdict": "revised",
+    "reason": "Vollständige Autorgegenlektüre des eigenständigen Hauptproblem-Prompts nach Kürzung. Er führt Auftrag, Belege, Rechtsgrund, Betrag, Gläubiger, Deckung, Regress und ausformulierten Text zusammen. Drei direkte Primäranker zu Amt, Rohrbruch und Sozialregress enthalten. Desk-Review ohne behauptetes Ausführungsverhalten.",
+    "changes": [
+      "Funktionale Amtsträgerzuordnung und Gebäudeausschluss beim Rohrbruch nicht aus kommunalem Namen beziehungsweise Keller-Schadenort ableiten.",
+      "Eigene Anspruchskarte je Geschädigten; Haftungsquote, Deckungslimit, Selbstbehalt und Reserve getrennt.",
+      "Gezielte Rückfragen und Fortschreibung bei neuen Belegen; keine wiederholte Aufnahme und kein automatischer Prozessauftrag.",
+      "7.479 UTF-8-Bytes, identisches TXT und ein H1; konkrete Endprodukte statt Analyseabschluss."
+    ],
+    "sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+    "prompt_path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
+    "prompt_sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+    "skill_path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
+    "skill_sha256": "b45cfac3dfc032504e87958256b8033e3ebb95d767628d0c88a347a598bcc2cc",
+    "reviewer": "author"
+  },
+  "prompt_editorial_review": {
+    "method": "author_desk_review",
+    "date": "2026-10-05",
+    "opening_change": "Vorliegende Akte zuerst lesen; Auftrag, Rechtsträger und Befugnis aus vorhandenen Angaben übernehmen. Haftungsweg und Anspruchskarte je Geschädigten erstellen, danach einzelne Schadenpositionen und Deckung/Rückdeckung als getrennte Ergebnisse bearbeiten.",
+    "norms": [
+      "Art.34 GG",
+      "§839 BGB",
+      "§823 BGB",
+      "§§31,89,831 BGB",
+      "§§249,252,253,254,842,843 BGB",
+      "§§2,10,12 HaftPflG",
+      "§§7,8,12,16,17,18,19 StVG",
+      "§2 PflVG",
+      "§§86,100,115,118,209 VVG",
+      "§§116,119 SGB X",
+      "§6 EFZG",
+      "§§195,199,203,204,212 BGB",
+      "§§286,287,485 ZPO",
+      "§23 GVG",
+      "§71 Abs.2 Nr.2 GVG",
+      "Art.5,6,9,28,32 DSGVO",
+      "§203 StGB",
+      "§43e BRAO",
+      "Art.9 Abs.5 BayStrWG",
+      "Art.21,57 GO",
+      "§§1,38 VStättV Bayern"
+    ],
+    "files": [
+      "kommunale-haftpflicht/README.md",
+      "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
+      "kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.md",
+      "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+      "kommunale-haftpflicht/references/deckung-und-rueckdeckung.md",
+      "kommunale-haftpflicht/references/fallkarte-und-belege.md",
+      "kommunale-haftpflicht/references/rechtsprechungsanker.md",
+      "kommunale-haftpflicht/references/schadenrechnung-und-mehrpersonenfall.md",
+      "kommunale-haftpflicht/references/zitierweise.md",
+      "kommunale-haftpflicht/skills/deckung-und-rueckdeckung-pruefen/SKILL.md",
+      "kommunale-haftpflicht/skills/gebaeude-und-veranstaltungsschaeden-pruefen/SKILL.md",
+      "kommunale-haftpflicht/skills/haftungsweg-und-verantwortung-klaeren/SKILL.md",
+      "kommunale-haftpflicht/skills/kommunale-fahrzeugschaeden-pruefen/SKILL.md",
+      "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
+      "kommunale-haftpflicht/skills/leitungswasser-und-gewerbeschaeden-pruefen/SKILL.md",
+      "kommunale-haftpflicht/skills/regress-und-verjaehrung-sichern/SKILL.md",
+      "kommunale-haftpflicht/skills/regulierung-und-kommunikation-erstellen/SKILL.md",
+      "kommunale-haftpflicht/skills/schaden-aufnehmen-und-belege-sichern/SKILL.md",
+      "kommunale-haftpflicht/skills/schadenhoehe-und-anspruchsuebergaenge-pruefen/SKILL.md"
+    ],
+    "decisions": [
+      {
+        "id": "KH-01",
+        "citation": "BGH, Urteil vom 10.02.2026 – Az. VI ZR 155/25, Rn. 9–13.",
+        "application": "Die Halter des verbundenen Zugfahrzeugs und Anhängers haften gegenüber außenstehenden Geschädigten nach § 19 Abs. 2 StVG für das gesamte Gespann. Der Schaden eines dieser Halter am eigenen Fahrzeug richtet sich im Innenverhältnis hingegen nach allgemeinem Vertrags- und Deliktsrecht (§ 19 Abs. 4 Satz 5 StVG), nicht nach Gefährdungshaftung. Das gilt auch bei unbeabsichtigtem Lösen des Anhängers im Unfallzeitpunkt oder kurz zuvor.",
+        "limit": "Erweiterungsanker für kommunale Gespanne. Kein Anhänger in der Akte: nicht künstlich aufrufen. Weder werden Außenansprüche ausgeschlossen noch AKB-Deckung oder Rückdeckungsumfang entschieden.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR_155-25.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-02",
+        "citation": "BGH, Beschluss vom 14.10.2025 – Az. VI ZR 24/25, Rn. 9–15, 18–20.",
+        "application": "Bei Haushaltsführungs- und Mehrbedarfsschäden dürfen die Anforderungen an den Vortrag nicht überspannt werden. § 287 ZPO erleichtert auch die Darlegung. Konkrete Angaben zu Haushalt, Tätigkeiten, Zeitaufwand und verletzungsbedingten Einschränkungen müssen gewürdigt werden; eine tatsächlich bezahlte Ersatzkraft ist für den fiktiven Haushaltsführungsschaden nicht Voraussetzung. Widersprüche und Änderungen sind im Rahmen der Würdigung zu behandeln.",
+        "limit": "Gehörsentscheidung mit Zurückverweisung, keine Bestätigung jeder geforderten Stunde oder Geldsumme. Einzelfall, zeitliche Zuordnung, Kausalität und Überschneidungen bleiben zu prüfen. Die Erleichterung ersetzt keine tatsächliche Anknüpfungsgrundlage.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR__24-25.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-03",
+        "citation": "BGH, Beschluss vom 01.07.2025 – Az. VI ZR 357/24, Rn. 8–14, 18–22.",
+        "application": "Der Geschädigte trägt grundsätzlich die Darlegungs- und Beweislast für die streupflichtauslösende Gefahrenlage und Pflichtverletzung; an schlüssigen Vortrag dürfen keine überhöhten Anforderungen gestellt werden. Eine vollständige Verdrängung der Verantwortung des Streupflichtigen erfordert besondere, schlechthin unverständliche Sorglosigkeit. Bloße Erkennbarkeit der Glätte genügt dafür nicht; die Voraussetzungen des Mitverschuldens hat der Schädiger darzulegen und zu beweisen.",
+        "limit": "Entschieden wurde winterliche Glätte auf einem Verkehrsweg. Für einen nassen Innenraumeingang nur die begrenzten Darlegungs- und Mitverschuldensgrundsätze verwenden; keine automatische Streupflicht, feste Reinigungsfrist oder Haftungsquote übertragen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-04",
+        "citation": "BGH, Beschluss vom 10.12.2024 – Az. VI ZR 323/23, Rn. 8–15.",
+        "application": "Ein übereinstimmendes tatsächliches Verständnis eines Vorbehalts in einer Abfindungsvereinbarung muss bei der Auslegung berücksichtigt werden. Der bloße Vorbehalt künftiger Schäden bedeutet aber nicht ohne Weiteres Verjährungsverzicht oder abweichenden Verjährungsbeginn. Wird eine weitergehende gemeinsame Vereinbarung behauptet, darf der hierzu angebotene Beweis nicht übergangen werden.",
+        "limit": "Zurückverweisung wegen übergangenen Vortrags; der behauptete abweichende Fristbeginn wurde nicht als bewiesen festgestellt. Weder aus jeder Teilzahlung noch aus jedem Zukunftsvorbehalt einen neuen Fristenlauf ableiten. Rn. 6–7 geben die Vorinstanz wieder und sind keine eigene tragende Aussage des BGH.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_323-23.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-05",
+        "citation": "BGH, Urteil vom 05.11.2024 – Az. VI ZR 12/24, Rn. 7–14.",
+        "application": "Der Ausfall eigener Haushaltstätigkeit kann auch bei unentgeltlicher Hilfe Dritter ersatzfähig sein. Zuerst sind die ausgefallenen Leistungen und Stunden festzustellen. Bei fiktiver Ersatzkraftbeschaffung geht es um Nettokosten; bei tatsächlich beschäftigter Ersatzkraft können erforderliche Bruttokosten maßgeblich sein. Eine Schätzung des Stundensatzes benötigt nachvollziehbare tatsächliche Grundlagen. JVEG-Sätze sind allein keine geeignete Bemessungsbasis; ein gesetzlicher Bruttomindestlohn ist nicht ohne Weiteres der passende Nettostundensatz.",
+        "limit": "Kein bundesweit fester Haushaltssatz und keine Preisempfehlung für 2026. Region, Zeitraum, Tätigkeit, erforderlicher Ersatz und tatsächliche beziehungsweise fiktive Abrechnung getrennt belegen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__12-24.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-06",
+        "citation": "BGH, Urteil vom 09.07.2024 – Az. VI ZR 252/23, Rn. 11–18; ergänzend Rn. 19–20.",
+        "application": "Der Sozialversicherungsträger verfolgt den übergegangenen Ersatzanspruch des Verletzten, nicht einen davon unabhängigen eigenen Rechnungsschaden. § 116 SGB X verlangt sachliche und zeitliche Kongruenz. Bei absehbarer Leistungspflicht kann der Übergang bereits im Schadenzeitpunkt eintreten. Für unfallbedingte Folgeschäden gilt das erleichterte Beweismaß des § 287 ZPO; sozialrechtliche Krankenhausabrechnungsregeln heben zivilrechtliche Darlegungs- und Beweislast nicht allgemein auf.",
+        "limit": "Kein Freibrief, jede Kassenforderung ungeprüft zu zahlen oder vollständige Gesundheitsakten unterschiedslos anzufordern. Sonderregeln, insbesondere § 116 Abs. 8 SGB X, unterscheiden. Primärverletzung und haftungsbegründende Tatsachen nicht pauschal nach § 287 ZPO behandeln.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_252-23.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-07",
+        "citation": "BGH, Urteil vom 11.01.2024 – Az. III ZR 15/23, Rn. 9, 11–17.",
+        "application": "Für das Handeln in Ausübung eines öffentlichen Amtes kommt es auf Zielsetzung und engen äußeren und inneren Zusammenhang mit der hoheitlichen Aufgabe an, nicht allein auf die Rechtsform oder den Arbeitgeber. Auch Mitarbeiter eines privaten Unternehmens können Verwaltungshelfer sein. Im entschiedenen Fall setzten sie eine behördlich angeordnete Verkehrsregelung durch das Aufstellen von Verkehrszeichen um; Art. 34 GG verdrängte ihre persönliche Außenhaftung.",
+        "limit": "Keine Pauschalregel für jede kommunale GmbH oder jedes Bürgerhaus. Betreiber, Auftrag, Einfluss der Behörde, konkrete Verrichtung, Satzung und Vertrag feststellen. Straßenverkehrsrechtlicher Ausgangsfall; bayerisches Landesrecht und private Veranstaltungsvermietung eigenständig zuordnen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-08",
+        "citation": "BGH, Urteil vom 15.02.2022 – Az. VI ZR 937/20, Rn. 11–13, 17–25.",
+        "application": "Schmerzensgeld verlangt eine Gesamtwürdigung der Verletzungsschwere, des Leidens, der Dauer und Wahrnehmung der Beeinträchtigungen sowie des Verschuldens. Die fallprägenden Umstände sind zu gewichten und zu einer einheitlichen Entschädigung zusammenzuführen. Eine schematische taggenaue Berechnung aus allgemeinen Einkommensgrößen und Beeinträchtigungsstufen genügt dem nicht.",
+        "limit": "Der amtliche Text ist laut Titelblatt durch Beschluss vom 23.02.2022 berichtigt. Weder einen automatischen Tagessatz noch einen festen Preis für die Verletzung aus dem Urteil übernehmen. Vergleichsentscheidungen nur nach konkretem Verletzungsbild, Dauer und Folgen auswählen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-09",
+        "citation": "BGH, Urteil vom 20.10.2020 – Az. VI ZR 319/18, Rn. 7–9.",
+        "application": "Der Betriebsbegriff des § 7 StVG ist weit, bleibt aber an den Schutzzweck gebunden. Entscheidend ist ein naher örtlicher und zeitlicher Zusammenhang mit einem Betriebsvorgang oder einer Betriebseinrichtung. Ein technischer Defekt des abgestellten, abgeschleppten Fahrzeugs kann den Betriebstatbestand erfüllen, auch wenn das Fahrzeug nicht mehr fahrbereit ist.",
+        "limit": "Der Brandfall ersetzt keinen Nachweis der Ursache. Im Rollunfall Feststellbremse, Gefälle, Abstellen, Fremdeinwirkung und technische Befunde sichern. Das bloße Vorhandensein eines Fahrzeugs reicht nicht; vorsätzliche Brandlegung von außen ist ein anderer Sachverhalt.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2018/VI_ZR_319-18.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-10",
+        "citation": "BGH, Urteil vom 11.09.2014 – Az. III ZR 490/13, Rn. 8–14, 18, 21–22.",
+        "application": "Anlageninhaber ist, wer die tatsächliche Herrschaft über den Betrieb ausübt und die erforderlichen Weisungen erteilen kann; Eigentum allein entscheidet nicht. Satzung und Versorgungsbedingungen können die Übergabegrenze prägen. Ein im Gebäude entstandener Wasserschaden durch den dort verlaufenden Teil des Hausanschlusses fiel unter § 2 Abs. 3 Nr. 1 HPflG, obwohl dieser Anschluss zur Anlage des Versorgungsunternehmens gehörte. Andere Anspruchsgrundlagen blieben gesondert zu prüfen.",
+        "limit": "Schadenort und Leckort separat bestimmen. Ein Kellerwasserschaden aus einer außerhalb des Gebäudes gebrochenen Leitung ist nicht bereits wegen seines Schadenorts ausgeschlossen. Die AVBWasserV beziehungsweise lokale Satzung/Vertragsbedingungen auf tatsächliche Anwendbarkeit prüfen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2013/III_ZR_490-13.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-11",
+        "citation": "BGH, Urteil vom 09.09.2008 – Az. VI ZR 279/06, Rn. 9–10, 16, 19–21.",
+        "application": "Vertragliche Schutzpflichten und deliktische Verkehrssicherung können inhaltlich übereinstimmen. Erforderlich sind nach den Umständen notwendige und zumutbare Vorkehrungen gegen vorhersehbare Gefahren, keine absolute Gefahrlosigkeit. Technische Regeln beschreiben die gebotene Sorgfalt nicht stets abschließend. Eine Pflichtverletzung ersetzt den Kausalitätsnachweis nicht; ein Anscheinsbeweis verlangt die Verwirklichung des typischen, von der verletzten Pflicht erfassten Risikos.",
+        "limit": "Ausgangsfall: Quadfahrt im Erlebnispark und Gesichtsschutz. Nur die genannten allgemeinen Grundsätze auf einen kommunalen Gebäudesturz übertragen. Keine daraus erfundene DIN, starre Wischfrequenz oder automatische Beweislastumkehr.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2006/VI_ZR_279-06.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "id": "KH-12",
+        "citation": "BGH, Urteil vom 11.01.2005 – Az. VI ZR 34/04, Amtlicher Volltext, gedruckte S. 7–12, insbesondere S. 8–12.",
+        "application": "Die Beschädigung fremder Bahninfrastruktur führte bei einem Eisenbahnunternehmen mit unbeschädigten, anderweitig beweglichen Fahrzeugen nicht schon durch die zeitweise Streckensperrung zu einer Eigentumsverletzung an diesen Fahrzeugen. Ein Anspruch wegen Eingriffs in den eingerichteten und ausgeübten Gewerbebetrieb setzt einen unmittelbaren betriebsbezogenen Eingriff voraus; bloße Fernwirkungen einer allgemeinen Versorgungs- oder Infrastrukturbeschädigung genügen nicht.",
+        "limit": "Der amtliche Altvolltext enthält keine Randnummern; deshalb Seitenfundstelle statt erfundener Rn. Eigene beschädigte Sachen, vollständiger Entzug der Nutzbarkeit, vertragliche Ansprüche und besondere Schutzgesetze separat prüfen. Nicht jeden Betriebsunterbrechungsschaden pauschal ausschließen.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2004/VI_ZR__34-04.pdf?__blob=publicationFile&v=1"
+      }
+    ],
+    "remaining_limits": [
+      "Autoren-Desk-Review der erstellten Texte, keine unabhängige Modellprüfung und keine Zusage tatsächlichen späteren Modellverhaltens.",
+      "Primärquellen und Normtexte wurden gesondert durch den Rechtsagenten geprüft; diese Datei dokumentiert deren konkrete Verwendung und Übertragungsgrenzen in den Prompts, keinen erneuten vollständigen Quellenabruf.",
+      "Keine Mitgliedschaft, realen AKHA-Bedingungen, Deckungszusage, Normvollständigkeit oder allgemeine Haftungsquote behauptet.",
+      "Drei synthetische Testakten sind verlinkt; deren Anwendungstests, Dokumentrendering und öffentliche Release-Downloads sind separate Root-Prüfschritte.",
+      "Gezielte technische Inhaltsprüfung umfasst zehn Skills, 19 Markdown-Dateien, lokale Links, Längen, MD/TXT-Gleichheit, Manifeste und kanonische Zitierkopie; kein globaler Repository-Sweep."
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-05",
+    "opening_modes": [
+      "Personenschaden: vorhandenen Unfallbericht, Kontrollunterlagen und Befunde lesen; Betreiber/Veranstalter bestimmen, entscheidende Lücke fragen und vollständige nächste Antwort vorbereiten.",
+      "Rohrbruch: Anlageninhaber sowie Leck-/Schadenort klären, Haftungsgrundlagen und Eigentum je Position prüfen, Gewerberechnung mit ersparten Kosten und Netto/Brutto nachvollziehen.",
+      "Fahrzeug-Schadenmehrheit: tatsächlichen Auftraggeber und Halter getrennt halten, Betrieb/Einsatz prüfen, je Anspruchsteller eigene Rechtsgrundlage und Positionen statt einheitlicher Gesamtkürzung."
+    ],
+    "continuation": "Neue Unterlagen werden in Tatsachenkarte, Anspruchsberechtigung, Rechnung und Empfängertext eingearbeitet. Ein nachgereichter Leistungsbescheid kann den Rechtsinhaber ändern; ein Kontrollbeleg die Haftungsvariante. Bereits beantwortete Fragen werden nicht wiederholt.",
+    "enrichment": "Aus Aktenbefund und rechtlicher Prüfung entstehen vollständige Beleganforderung, Haftungsantwort, Teilregulierung oder Vergleich. Position, Zeitraum, Gläubiger, Betrag, Anrechnung, Zukunftsvorbehalt und Frist werden konkret geregelt. Interne Reserve und Quellenprotokoll bleiben vom Empfängertext getrennt.",
+    "limits": "Nur Autoren-Desk-Review. Kein blinder Falllauf, keine behaupteten bestandenen Modellkriterien, keine externe Meldung, Zahlung oder Einreichung. Der Root ergänzt unabhängige Prüfungen gesondert.",
+    "reviewer": "author"
+  },
+  "independent_source_review": {
+    "method": "desk_review",
+    "report": "quality/kommunale-haftpflicht/quellenpruefung.json",
+    "scope": "Zweite statische Lektüre der zehn Skills, drei Prompts, Referenzen sowie Falltexte und Tabellen. Kein Modelltest."
+  }
+}

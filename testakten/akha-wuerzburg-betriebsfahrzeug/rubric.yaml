@@ -1,0 +1,96 @@
+name: 'Würzburg: Die Kehrmaschine am Hallentor'
+plugin: kommunale-haftpflicht
+stand: '2026-10-05'
+pruefstatus: Technische Bestandsprüfung und redaktionelle Aktenprüfung; eine Ergebnisbewertung
+  erfolgt gesondert.
+bewertungsgrundlage:
+  rohakte: akha-wuerzburg-betriebsfahrzeug
+  hinweis: Diese Bewertungsdatei gehört nicht zu den Arbeitsunterlagen und wird aus
+    Exporten ausgeschlossen.
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle zwölf nativen Unterlagen sind vorhanden.
+  min: 12
+- id: format-docx
+  check_type: file_count
+  description: 5 Originaldateien im Format DOCX sind vorhanden.
+  glob: '*.docx'
+  min: 5
+- id: format-eml
+  check_type: file_count
+  description: 5 Originaldateien im Format EML sind vorhanden.
+  glob: '*.eml'
+  min: 5
+- id: format-txt
+  check_type: file_count
+  description: 1 Originaldateien im Format TXT sind vorhanden.
+  glob: '*.txt'
+  min: 1
+- id: format-xlsx
+  check_type: file_count
+  description: 1 Originaldateien im Format XLSX sind vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: README.md
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 01_Pruefauftrag.eml
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 02_Unfallmeldung.docx
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 05_Geraete_Aufstellung.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 09_Nachbarbetrieb.eml
+- id: kernbeleg-7
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 10_Vertragsunterlagen.eml
+- id: kernbeleg-8
+  check_type: file_exists
+  description: Die maßgebliche Unterlage oder Lesefassung ist vorhanden.
+  path: 12_Forderungsuebersicht.xlsx
+- id: fach-versicherermandat
+  check_type: human_review
+  description: Wird ausschließlich die Frankenbogen Kommunalversicherung VVaG vertreten,
+    ohne die Versicherungsnehmerin oder Anspruchsteller als weitere Mandanten zu behandeln?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
+    bewertet keine juristische Modellausgabe.'
+- id: fach-mehrere-ansprueche
+  check_type: human_review
+  description: Werden Gebäudeschaden, vorläufige Geräteansätze und Nachbarumsatz jeweils
+    mit eigenen Haftungsgrundlagen, Nachweisen und Grenzen bearbeitet?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
+    bewertet keine juristische Modellausgabe.'
+- id: fach-grossschaden
+  check_type: human_review
+  description: Bleiben angemeldete Summe, Geräte-Schätzspanne, gesetzliche Haftungsgrenzen
+    und vertragliche Deckung sowie Rückdeckung unterscheidbar?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
+    bewertet keine juristische Modellausgabe.'
+- id: fach-vertragssatz
+  check_type: human_review
+  description: Werden fehlende Vertragsunterlagen konkret angefordert, bevor Mitgliedschaft,
+    Deckung, Meldeweg oder Rückdeckung behauptet werden?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
+    bewertet keine juristische Modellausgabe.'
+- id: fach-antwort
+  check_type: human_review
+  description: Liegt ein adressatengerechter Entwurf ohne vorweggenommenes Anerkenntnis
+    oder unbeauftragten Versand vor?
+  note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
+    bewertet keine juristische Modellausgabe.'

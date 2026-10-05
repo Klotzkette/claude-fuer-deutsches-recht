@@ -302,6 +302,7 @@ def compact_prompt_fragment(value: str, limit: int = 210) -> str:
 
 
 HANDCURATED_FIRST_PRODUCTS = {
+    "kommunale-haftpflicht": "Bearbeite den kommunalen Haftpflichtfall anhand der Originalbelege; trenne Haftung, Schadenhöhe, Versicherungsdeckung und Rückdeckung, ordne die Anspruchsinhaber und formuliere die beauftragte Regulierungsvorlage oder Unterlagenanfrage vollständig",
     "gesellschafterstreit": "Bearbeite den konkreten Gesellschafterstreit aus Mandatsrolle, Satzung und Originalbelegen; rechne Stimmrecht und Mehrheit für jeden Beschluss, sichere Fristen und formuliere die beauftragten Anträge, Briefe und Vergleichsregelungen vollständig",
     "playbook-pruefer": "Erstelle den vollständigen Prüfbericht zum aktuellen Vertrag und seinen Anlagen anhand des freigegebenen Playbooks; bewerte jede Regel mit Originalfundstelle, zähle rote Linien wörtlich und formuliere die beauftragten Änderungen aus",
     "berliner-schulrecht-eltern-schueler": "das beauftragte Elternschreiben, den Schulplatzantrag oder den Rechtsbehelfsentwurf aus Bescheid und Belegen; trenne Kita, Grundschule und Sekundarstufe, prüfe Schuljahr, Zuständigkeit und Frist und frage nur entscheidende fehlende Angaben nach",
@@ -593,7 +594,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
     if not enabled(plugin_name, "schnellstart") and len(list((directory / "skills").glob("*/SKILL.md"))) == 1:
         skill_note = "Das Plugin enthält genau einen unmittelbar installierten Skill. Der Werkstatt-Prompt ist derselbe eigenständig nutzbare Arbeitsablauf als separater Download; MD und TXT enthalten denselben Text. Benötigte Referenzen oder Werkzeuge müssen beim manuellen Einsatz zusätzlich verfügbar sein."
         skill_note_en = "The plugin contains exactly one directly installed skill. The separate workshop download provides the same standalone workflow; MD and TXT contain identical text. Required references or tools must also be available when used manually."
-    if plugin_name in {"vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg", "mietchecker", "eigenbedarfskuendigungschecker"}:
+    if plugin_name in {"kommunale-haftpflicht", "vertragserstellung", "wirtschaftsanwalt", "antidiskriminierung-agg", "mietchecker", "eigenbedarfskuendigungschecker"}:
         skill_note = "Alle zehn Skills sind im Plugin unmittelbar enthalten. Der Hauptskill bearbeitet den Auftrag selbst; die übrigen Skills vertiefen konkrete Teilfragen. Bei einem einzelnen Skill-Download müssen seine verlinkten Referenzen zusätzlich verfügbar sein."
         skill_note_en = "All ten skills are included directly in the plugin. The main skill carries out the assignment; the others address specific issues. A downloaded individual skill also needs its linked references."
     elif plugin_name in {"gesellschafterstreit", "transparenzregister-assistent", "handelsregister-assistent", "grundbuchamt-assistent", "markenamt-assistent", "berliner-schulrecht-eltern-schueler", "berliner-hochschulrecht-professoren"}:

@@ -60,10 +60,10 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Vereinsrecht und Genossenschaften](#vereinsrecht-und-genossenschaften) | 1 |
 | [Vergaberecht](#vergaberecht) | 2 |
 | [Verkehrsrecht](#verkehrsrecht) | 3 |
-| [Versicherungsrecht](#versicherungsrecht) | 3 |
+| [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-257 kuratierte Plugins in 34 Kategorien, aus insgesamt 274 Marketplace-Plugins (Abgleich: 2. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+258 kuratierte Plugins in 34 Kategorien, aus insgesamt 275 Marketplace-Plugins (Abgleich: 5. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
 
 ## Agrarrecht
 
@@ -384,6 +384,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 ## Versicherungsrecht
 
 - [fachanwalt-versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/fachanwalt-versicherungsrecht): Plugin Fachanwalt für Versicherungsrecht. VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-werkstatt.md)
+- [kommunale-haftpflicht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/kommunale-haftpflicht): Kommunale Personen-, Rohrbruch- und Fahrzeugschäden: Originalbelege, Haftungsgrund, Schadenrechnung, Deckung und Rückdeckung bis zur begründeten Entscheidung und vollständigen Antwort. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md)
 - [schadensregulierung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/schadensregulierung): Unternehmen und regulierende Haftpflichtversicherer: Personen-, Sach- und Abschleppschäden, Beweise, Haftung, Deckung, Besichtigung, Regress und kontrollierter Abschluss. · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schadensregulierung/schadensregulierung-werkstatt.md)
 - [versicherungsrecht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/versicherungsrecht): Großes Versicherungsrecht-Plugin für VVG, VAG, europäische Versicherungsaufsicht, Lebensversicherung, BU, PKV, Rechtsschutz, Kreditversicherung, D&O, Cyber… · [Schnellstart: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=versicherungsrecht/versicherungsrecht-schnellstart.md) · [Werkstatt: MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=versicherungsrecht/versicherungsrecht-werkstatt.md)
 

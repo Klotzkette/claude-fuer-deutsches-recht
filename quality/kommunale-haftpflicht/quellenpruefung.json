@@ -1,0 +1,1168 @@
+{
+  "schema_version": 1,
+  "plugin": "kommunale-haftpflicht",
+  "checked_on": "2026-10-05",
+  "scope": "Zwölf gezielte BGH-Anker und konkrete Normfragen für kommunale Haftpflicht; statische Quellenprüfung, kein Modelltest und keine Bedingungsprüfung eines realen Versicherers.",
+  "decisions": [
+    {
+      "id": "KH-01",
+      "source_id": "VI_155_25",
+      "court": "BGH",
+      "decision_date": "2026-02-10",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 155/25",
+      "pinpoint": "Rn. 9–13",
+      "title": "Gespann: Außenhaftung und Haltereigenschaden trennen",
+      "verified_statement": "Die Halter des verbundenen Zugfahrzeugs und Anhängers haften gegenüber außenstehenden Geschädigten nach § 19 Abs. 2 StVG für das gesamte Gespann. Der Schaden eines dieser Halter am eigenen Fahrzeug richtet sich im Innenverhältnis hingegen nach allgemeinem Vertrags- und Deliktsrecht (§ 19 Abs. 4 Satz 5 StVG), nicht nach Gefährdungshaftung. Das gilt auch bei unbeabsichtigtem Lösen des Anhängers im Unfallzeitpunkt oder kurz zuvor.",
+      "transfer_limit": "Erweiterungsanker für kommunale Gespanne. Kein Anhänger in der Akte: nicht künstlich aufrufen. Weder werden Außenansprüche ausgeschlossen noch AKB-Deckung oder Rückdeckungsumfang entschieden.",
+      "read_scope": "Volltext gelesen, insbesondere Rn. 9–14.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR_155-25.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "97bba8ab091f4faae601775ca0e65e1de56c15fd25dd87005926f4c8e00bf07a",
+      "source_pdf_bytes": 53254,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-02",
+      "source_id": "VI_24_25",
+      "court": "BGH",
+      "decision_date": "2025-10-14",
+      "decision_type": "Beschluss",
+      "docket": "VI ZR 24/25",
+      "pinpoint": "Rn. 9–15, 18–20",
+      "title": "Haushaltsführung und Mehrbedarf: Tatsachen reichen lassen",
+      "verified_statement": "Bei Haushaltsführungs- und Mehrbedarfsschäden dürfen die Anforderungen an den Vortrag nicht überspannt werden. § 287 ZPO erleichtert auch die Darlegung. Konkrete Angaben zu Haushalt, Tätigkeiten, Zeitaufwand und verletzungsbedingten Einschränkungen müssen gewürdigt werden; eine tatsächlich bezahlte Ersatzkraft ist für den fiktiven Haushaltsführungsschaden nicht Voraussetzung. Widersprüche und Änderungen sind im Rahmen der Würdigung zu behandeln.",
+      "transfer_limit": "Gehörsentscheidung mit Zurückverweisung, keine Bestätigung jeder geforderten Stunde oder Geldsumme. Einzelfall, zeitliche Zuordnung, Kausalität und Überschneidungen bleiben zu prüfen. Die Erleichterung ersetzt keine tatsächliche Anknüpfungsgrundlage.",
+      "read_scope": "Volltext gelesen, insbesondere Rn. 9–15, 18–20.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2025/VI_ZR__24-25.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "1af6e1bd327ec705db7877c50686ec39b8bcf7419d50b5e70fa18b06ee56dc98",
+      "source_pdf_bytes": 123754,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-03",
+      "source_id": "VI_357_24",
+      "court": "BGH",
+      "decision_date": "2025-07-01",
+      "decision_type": "Beschluss",
+      "docket": "VI ZR 357/24",
+      "pinpoint": "Rn. 8–14, 18–22",
+      "title": "Sturz: Vortrag, Beweislast und extremes Mitverschulden",
+      "verified_statement": "Der Geschädigte trägt grundsätzlich die Darlegungs- und Beweislast für die streupflichtauslösende Gefahrenlage und Pflichtverletzung; an schlüssigen Vortrag dürfen keine überhöhten Anforderungen gestellt werden. Eine vollständige Verdrängung der Verantwortung des Streupflichtigen erfordert besondere, schlechthin unverständliche Sorglosigkeit. Bloße Erkennbarkeit der Glätte genügt dafür nicht; die Voraussetzungen des Mitverschuldens hat der Schädiger darzulegen und zu beweisen.",
+      "transfer_limit": "Entschieden wurde winterliche Glätte auf einem Verkehrsweg. Für einen nassen Innenraumeingang nur die begrenzten Darlegungs- und Mitverschuldensgrundsätze verwenden; keine automatische Streupflicht, feste Reinigungsfrist oder Haftungsquote übertragen.",
+      "read_scope": "Volltext gelesen, insbesondere Rn. 8–14, 18–22.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "637819ac475ba13bcc5c7592ae611ca02ed5845679a39bd7bd19195c75b38cd1",
+      "source_pdf_bytes": 125554,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-04",
+      "source_id": "VI_323_23",
+      "court": "BGH",
+      "decision_date": "2024-12-10",
+      "decision_type": "Beschluss",
+      "docket": "VI ZR 323/23",
+      "pinpoint": "Rn. 8–15",
+      "title": "Abfindungsvorbehalt schützt nicht automatisch vor Verjährung",
+      "verified_statement": "Ein übereinstimmendes tatsächliches Verständnis eines Vorbehalts in einer Abfindungsvereinbarung muss bei der Auslegung berücksichtigt werden. Der bloße Vorbehalt künftiger Schäden bedeutet aber nicht ohne Weiteres Verjährungsverzicht oder abweichenden Verjährungsbeginn. Wird eine weitergehende gemeinsame Vereinbarung behauptet, darf der hierzu angebotene Beweis nicht übergangen werden.",
+      "transfer_limit": "Zurückverweisung wegen übergangenen Vortrags; der behauptete abweichende Fristbeginn wurde nicht als bewiesen festgestellt. Weder aus jeder Teilzahlung noch aus jedem Zukunftsvorbehalt einen neuen Fristenlauf ableiten. Rn. 6–7 geben die Vorinstanz wieder und sind keine eigene tragende Aussage des BGH.",
+      "read_scope": "Volltext gelesen, insbesondere Rn. 8–15.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_323-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "4c1f11c4ac1dd6d92bf1e34d95077cb204ccda6fd31dada93474e2c445918b9c",
+      "source_pdf_bytes": 167059,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-05",
+      "source_id": "VI_12_24",
+      "court": "BGH",
+      "decision_date": "2024-11-05",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 12/24",
+      "pinpoint": "Rn. 7–14",
+      "title": "Haushaltsschaden: Stunden und Ersatzkraftkosten begründen",
+      "verified_statement": "Der Ausfall eigener Haushaltstätigkeit kann auch bei unentgeltlicher Hilfe Dritter ersatzfähig sein. Zuerst sind die ausgefallenen Leistungen und Stunden festzustellen. Bei fiktiver Ersatzkraftbeschaffung geht es um Nettokosten; bei tatsächlich beschäftigter Ersatzkraft können erforderliche Bruttokosten maßgeblich sein. Eine Schätzung des Stundensatzes benötigt nachvollziehbare tatsächliche Grundlagen. JVEG-Sätze sind allein keine geeignete Bemessungsbasis; ein gesetzlicher Bruttomindestlohn ist nicht ohne Weiteres der passende Nettostundensatz.",
+      "transfer_limit": "Kein bundesweit fester Haushaltssatz und keine Preisempfehlung für 2026. Region, Zeitraum, Tätigkeit, erforderlicher Ersatz und tatsächliche beziehungsweise fiktive Abrechnung getrennt belegen.",
+      "read_scope": "Metadaten, Sachverhalt und Rn. 7–14 im amtlichen Volltext gelesen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR__12-24.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "1a481fbfa701aa2d09ccebe21a43e9f68e5ce987be75e01d95a09e01240c31f4",
+      "source_pdf_bytes": 165110,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-06",
+      "source_id": "VI_252_23",
+      "court": "BGH",
+      "decision_date": "2024-07-09",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 252/23",
+      "pinpoint": "Rn. 11–18; ergänzend Rn. 19–20",
+      "title": "Sozialregress: übergegangener Schaden, Kongruenz und Beweis",
+      "verified_statement": "Der Sozialversicherungsträger verfolgt den übergegangenen Ersatzanspruch des Verletzten, nicht einen davon unabhängigen eigenen Rechnungsschaden. § 116 SGB X verlangt sachliche und zeitliche Kongruenz. Bei absehbarer Leistungspflicht kann der Übergang bereits im Schadenzeitpunkt eintreten. Für unfallbedingte Folgeschäden gilt das erleichterte Beweismaß des § 287 ZPO; sozialrechtliche Krankenhausabrechnungsregeln heben zivilrechtliche Darlegungs- und Beweislast nicht allgemein auf.",
+      "transfer_limit": "Kein Freibrief, jede Kassenforderung ungeprüft zu zahlen oder vollständige Gesundheitsakten unterschiedslos anzufordern. Sonderregeln, insbesondere § 116 Abs. 8 SGB X, unterscheiden. Primärverletzung und haftungsbegründende Tatsachen nicht pauschal nach § 287 ZPO behandeln.",
+      "read_scope": "Metadaten, Sachverhalt und Rn. 9–20 im amtlichen Volltext gelesen; keine vollständige Bewertung sämtlicher weiterer Ausführungen behauptet.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2023/VI_ZR_252-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "3246c89c53520678402ac6f14f3852233eb3bada6329f49900b6711aa8a1ad74",
+      "source_pdf_bytes": 203595,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-07",
+      "source_id": "III_15_23",
+      "court": "BGH",
+      "decision_date": "2024-01-11",
+      "decision_type": "Urteil",
+      "docket": "III ZR 15/23",
+      "pinpoint": "Rn. 9, 11–17",
+      "title": "Öffentliches Amt funktional bestimmen",
+      "verified_statement": "Für das Handeln in Ausübung eines öffentlichen Amtes kommt es auf Zielsetzung und engen äußeren und inneren Zusammenhang mit der hoheitlichen Aufgabe an, nicht allein auf die Rechtsform oder den Arbeitgeber. Auch Mitarbeiter eines privaten Unternehmens können Verwaltungshelfer sein. Im entschiedenen Fall setzten sie eine behördlich angeordnete Verkehrsregelung durch das Aufstellen von Verkehrszeichen um; Art. 34 GG verdrängte ihre persönliche Außenhaftung.",
+      "transfer_limit": "Keine Pauschalregel für jede kommunale GmbH oder jedes Bürgerhaus. Betreiber, Auftrag, Einfluss der Behörde, konkrete Verrichtung, Satzung und Vertrag feststellen. Straßenverkehrsrechtlicher Ausgangsfall; bayerisches Landesrecht und private Veranstaltungsvermietung eigenständig zuordnen.",
+      "read_scope": "Metadaten, Sachverhalt und Rn. 8–17 im amtlichen Volltext gelesen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "f8d26123b6f7b23feb5421e6293383b48bcd449765d9046a0258fbcbb0473361",
+      "source_pdf_bytes": 186719,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-08",
+      "source_id": "VI_937_20",
+      "court": "BGH",
+      "decision_date": "2022-02-15",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 937/20",
+      "pinpoint": "Rn. 11–13, 17–25",
+      "title": "Schmerzensgeld individuell statt taggenauer Rechenformel",
+      "verified_statement": "Schmerzensgeld verlangt eine Gesamtwürdigung der Verletzungsschwere, des Leidens, der Dauer und Wahrnehmung der Beeinträchtigungen sowie des Verschuldens. Die fallprägenden Umstände sind zu gewichten und zu einer einheitlichen Entschädigung zusammenzuführen. Eine schematische taggenaue Berechnung aus allgemeinen Einkommensgrößen und Beeinträchtigungsstufen genügt dem nicht.",
+      "transfer_limit": "Der amtliche Text ist laut Titelblatt durch Beschluss vom 23.02.2022 berichtigt. Weder einen automatischen Tagessatz noch einen festen Preis für die Verletzung aus dem Urteil übernehmen. Vergleichsentscheidungen nur nach konkretem Verletzungsbild, Dauer und Folgen auswählen.",
+      "read_scope": "Metadaten einschließlich Berichtigung und Rn. 10–25 im amtlichen Volltext gelesen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2020/VI_ZR_937-20.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "c631ad9844bf90cd021d62556973e064ef8be2b732407b4651d784db2b6a8344",
+      "source_pdf_bytes": 222565,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-09",
+      "source_id": "VI_319_18",
+      "court": "BGH",
+      "decision_date": "2020-10-20",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 319/18",
+      "pinpoint": "Rn. 7–9",
+      "title": "Kfz-Betrieb endet nicht notwendig mit dem Abstellen",
+      "verified_statement": "Der Betriebsbegriff des § 7 StVG ist weit, bleibt aber an den Schutzzweck gebunden. Entscheidend ist ein naher örtlicher und zeitlicher Zusammenhang mit einem Betriebsvorgang oder einer Betriebseinrichtung. Ein technischer Defekt des abgestellten, abgeschleppten Fahrzeugs kann den Betriebstatbestand erfüllen, auch wenn das Fahrzeug nicht mehr fahrbereit ist.",
+      "transfer_limit": "Der Brandfall ersetzt keinen Nachweis der Ursache. Im Rollunfall Feststellbremse, Gefälle, Abstellen, Fremdeinwirkung und technische Befunde sichern. Das bloße Vorhandensein eines Fahrzeugs reicht nicht; vorsätzliche Brandlegung von außen ist ein anderer Sachverhalt.",
+      "read_scope": "Volltext gelesen, insbesondere Rn. 7–10.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2018/VI_ZR_319-18.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "56417daa01f27083f70ba016514333d96661177f82db3fd32a18639ed79865bc",
+      "source_pdf_bytes": 49683,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-10",
+      "source_id": "III_490_13",
+      "court": "BGH",
+      "decision_date": "2014-09-11",
+      "decision_type": "Urteil",
+      "docket": "III ZR 490/13",
+      "pinpoint": "Rn. 8–14, 18, 21–22",
+      "title": "Rohrbruch: Anlageninhaber und Gebäudeausschluss",
+      "verified_statement": "Anlageninhaber ist, wer die tatsächliche Herrschaft über den Betrieb ausübt und die erforderlichen Weisungen erteilen kann; Eigentum allein entscheidet nicht. Satzung und Versorgungsbedingungen können die Übergabegrenze prägen. Ein im Gebäude entstandener Wasserschaden durch den dort verlaufenden Teil des Hausanschlusses fiel unter § 2 Abs. 3 Nr. 1 HPflG, obwohl dieser Anschluss zur Anlage des Versorgungsunternehmens gehörte. Andere Anspruchsgrundlagen blieben gesondert zu prüfen.",
+      "transfer_limit": "Schadenort und Leckort separat bestimmen. Ein Kellerwasserschaden aus einer außerhalb des Gebäudes gebrochenen Leitung ist nicht bereits wegen seines Schadenorts ausgeschlossen. Die AVBWasserV beziehungsweise lokale Satzung/Vertragsbedingungen auf tatsächliche Anwendbarkeit prüfen.",
+      "read_scope": "Metadaten, Sachverhalt und Rn. 2–22 im amtlichen Volltext gelesen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2013/III_ZR_490-13.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "9c3e16d53e1d22a2e227a2fb5832d833a20de295d2ded9d0a7ae1c0990b7a00e",
+      "source_pdf_bytes": 146585,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-11",
+      "source_id": "VI_279_06",
+      "court": "BGH",
+      "decision_date": "2008-09-09",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 279/06",
+      "pinpoint": "Rn. 9–10, 16, 19–21",
+      "title": "Verkehrssicherung: zumutbare Vorsorge und gesonderte Kausalität",
+      "verified_statement": "Vertragliche Schutzpflichten und deliktische Verkehrssicherung können inhaltlich übereinstimmen. Erforderlich sind nach den Umständen notwendige und zumutbare Vorkehrungen gegen vorhersehbare Gefahren, keine absolute Gefahrlosigkeit. Technische Regeln beschreiben die gebotene Sorgfalt nicht stets abschließend. Eine Pflichtverletzung ersetzt den Kausalitätsnachweis nicht; ein Anscheinsbeweis verlangt die Verwirklichung des typischen, von der verletzten Pflicht erfassten Risikos.",
+      "transfer_limit": "Ausgangsfall: Quadfahrt im Erlebnispark und Gesichtsschutz. Nur die genannten allgemeinen Grundsätze auf einen kommunalen Gebäudesturz übertragen. Keine daraus erfundene DIN, starre Wischfrequenz oder automatische Beweislastumkehr.",
+      "read_scope": "Metadaten, Sachverhalt und Rn. 4–21 im amtlichen Volltext gelesen.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2006/VI_ZR_279-06.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "2119742722dc96206a9ca92ca1f2825daefc8c2a437b1b83439aec9598c12e3d",
+      "source_pdf_bytes": 97589,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    },
+    {
+      "id": "KH-12",
+      "source_id": "VI_34_4",
+      "court": "BGH",
+      "decision_date": "2005-01-11",
+      "decision_type": "Urteil",
+      "docket": "VI ZR 34/04",
+      "pinpoint": "Amtlicher Volltext, gedruckte S. 7–12, insbesondere S. 8–12",
+      "title": "Mehrgeschädigte: eigener Rechtseingriff statt bloßer Umsatzreflex",
+      "verified_statement": "Die Beschädigung fremder Bahninfrastruktur führte bei einem Eisenbahnunternehmen mit unbeschädigten, anderweitig beweglichen Fahrzeugen nicht schon durch die zeitweise Streckensperrung zu einer Eigentumsverletzung an diesen Fahrzeugen. Ein Anspruch wegen Eingriffs in den eingerichteten und ausgeübten Gewerbebetrieb setzt einen unmittelbaren betriebsbezogenen Eingriff voraus; bloße Fernwirkungen einer allgemeinen Versorgungs- oder Infrastrukturbeschädigung genügen nicht.",
+      "transfer_limit": "Der amtliche Altvolltext enthält keine Randnummern; deshalb Seitenfundstelle statt erfundener Rn. Eigene beschädigte Sachen, vollständiger Entzug der Nutzbarkeit, vertragliche Ansprüche und besondere Schutzgesetze separat prüfen. Nicht jeden Betriebsunterbrechungsschaden pauschal ausschließen.",
+      "read_scope": "Metadaten, Sachverhalt und gedruckte S. 7–12 im amtlichen Volltext gelesen; keine künstlichen Randnummern verwendet.",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2004/VI_ZR__34-04.pdf?__blob=publicationFile&v=1",
+      "retrieved_on": "2026-10-05",
+      "http_status": 200,
+      "source_pdf_sha256": "bf52747daa79fa18e306ed5532f58abf01f13d8925e7b9971ce3c15ee811ba2c",
+      "source_pdf_bytes": 47501,
+      "verification": "Amtlicher Volltext: Metadaten und angegebene tragende Passage gelesen."
+    }
+  ],
+  "reference_file": "kommunale-haftpflicht/references/rechtsprechungsanker.md",
+  "reference_sha256": "e41b14ee0b92991809b6f5d5a3b3c33a3310811d8c1e3394da10b2f319eb78b8",
+  "norms": [
+    {
+      "id": "ggart_34",
+      "url": "https://www.gesetze-im-internet.de/gg/art_34.html",
+      "status": 200,
+      "sha256": "c7600fb25464c4ac25f89ffb7f137e7b054eec911a5f0797b4521e1059ddc1a6",
+      "chars": 631,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__31",
+      "url": "https://www.gesetze-im-internet.de/bgb/__31.html",
+      "status": 200,
+      "sha256": "dd8652fa227045dda87634856151b30b9286537d5571d4acb520283420ba89da",
+      "chars": 500,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__89",
+      "url": "https://www.gesetze-im-internet.de/bgb/__89.html",
+      "status": 200,
+      "sha256": "7b443bd428f9613c1422da17ff6a6ae55b0370a9d8c75d6a7350453f4fc50ed1",
+      "chars": 543,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__249",
+      "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "status": 200,
+      "sha256": "3d7cdae5a5eeb64ab2f038c6b6b730bf6c6619493822370f1f1b4ca2e1256e4c",
+      "chars": 740,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__252",
+      "url": "https://www.gesetze-im-internet.de/bgb/__252.html",
+      "status": 200,
+      "sha256": "bc8d25d3dcda48d4724f8f517d7cd513b6e04d7fef7c3345ad807e1a8b10afb2",
+      "chars": 493,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__253",
+      "url": "https://www.gesetze-im-internet.de/bgb/__253.html",
+      "status": 200,
+      "sha256": "9e36bd66e03a11ae4b9a9bf3530bb3cb3941fdccf4c425e75ebb85bd0306dc90",
+      "chars": 612,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__254",
+      "url": "https://www.gesetze-im-internet.de/bgb/__254.html",
+      "status": 200,
+      "sha256": "2bdd324250bfecd3102dcd2864777824e16957c89149881dd0e9f0106e5204da",
+      "chars": 881,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__823",
+      "url": "https://www.gesetze-im-internet.de/bgb/__823.html",
+      "status": 200,
+      "sha256": "97bbb1ca41d4ab4a21d53166939a0bb04662f346d37e4238861a8fce522568a5",
+      "chars": 725,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__831",
+      "url": "https://www.gesetze-im-internet.de/bgb/__831.html",
+      "status": 200,
+      "sha256": "b3497a1b5d3f1f00a585a578bf1e87a9210dcc3b1eedff3d8bd3b4b2c03744c5",
+      "chars": 955,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__839",
+      "url": "https://www.gesetze-im-internet.de/bgb/__839.html",
+      "status": 200,
+      "sha256": "1dcda25cbdfbf51b4feaf477bf8972b1625100d44c876c0f6147b6036256ce11",
+      "chars": 1049,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__842",
+      "url": "https://www.gesetze-im-internet.de/bgb/__842.html",
+      "status": 200,
+      "sha256": "abdcfcee32b299a0560cb69f65a164ffa9b63d245da172377ab0843365ef53c7",
+      "chars": 459,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__843",
+      "url": "https://www.gesetze-im-internet.de/bgb/__843.html",
+      "status": 200,
+      "sha256": "ecb49617e2176be4f7a7b550c8e33cb33fe08005e42a624043408cd607a81502",
+      "chars": 891,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__195",
+      "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+      "status": 200,
+      "sha256": "db542b2a124f440ebcfad22129b7323809692e96cd4efd638dadfa6a23474ca1",
+      "chars": 272,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__199",
+      "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+      "status": 200,
+      "sha256": "1fad808afadae9631d82aa6b04ceae5bdd5bfa431b4d27470bc4b982a208c349",
+      "chars": 1864,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__202",
+      "url": "https://www.gesetze-im-internet.de/bgb/__202.html",
+      "status": 200,
+      "sha256": "8630e41459b56046aa3e117ce2d284a37fa64512997018145bd6490f637baf8e",
+      "chars": 508,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__203",
+      "url": "https://www.gesetze-im-internet.de/bgb/__203.html",
+      "status": 200,
+      "sha256": "835836c0b37dbeb0ebedcd8d896b9773c76dab8a520702bf06931c770602e776",
+      "chars": 544,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__204",
+      "url": "https://www.gesetze-im-internet.de/bgb/__204.html",
+      "status": 200,
+      "sha256": "dfcb3d03b2e44da6f5eb99cc328c5ac765c4b959800e9fb00cebc7660d639a5e",
+      "chars": 4188,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "bgb__212",
+      "url": "https://www.gesetze-im-internet.de/bgb/__212.html",
+      "status": 200,
+      "sha256": "d5e48aa20693e1c266d55ea1aec33865c11e18c7563daf75fe89047d5683a29b",
+      "chars": 1021,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "haftpflg__2",
+      "url": "https://www.gesetze-im-internet.de/haftpflg/__2.html",
+      "status": 200,
+      "sha256": "450a8462450e635b082cc3f02985255c3f63a18144d302223ab4e5152c97adf2",
+      "chars": 1721,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "haftpflg__10",
+      "url": "https://www.gesetze-im-internet.de/haftpflg/__10.html",
+      "status": 200,
+      "sha256": "44e486ff601693a18df163d452ba13f6249e8e90c219049b107ef6878415f5f1",
+      "chars": 721,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "haftpflg__12",
+      "url": "https://www.gesetze-im-internet.de/haftpflg/__12.html",
+      "status": 200,
+      "sha256": "10f52adc176ae8d0cc5de8f0163e148386429753e5f7967867fb65b75682e9a0",
+      "chars": 390,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__7",
+      "url": "https://www.gesetze-im-internet.de/stvg/__7.html",
+      "status": 200,
+      "sha256": "349a6cf59c4e01a801bda5ba1a4c4940a2eeb6796600067d61cd75b44ebd8d8a",
+      "chars": 1038,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__8",
+      "url": "https://www.gesetze-im-internet.de/stvg/__8.html",
+      "status": 200,
+      "sha256": "4dd00abe98f0d26ce9183817fbb7ca2712755f28f1b13e0b9eb75b63d72b01e3",
+      "chars": 888,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__12",
+      "url": "https://www.gesetze-im-internet.de/stvg/__12.html",
+      "status": 200,
+      "sha256": "158c929b03609ab51e7757b4aebd383f23c8a2191101101fa5201de9cba6e221",
+      "chars": 1673,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__17",
+      "url": "https://www.gesetze-im-internet.de/stvg/__17.html",
+      "status": 200,
+      "sha256": "cc1cf8c62f34775af809f446306a2ea5dcd045d04e7b99bf3248dbfb504b00e4",
+      "chars": 1556,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__18",
+      "url": "https://www.gesetze-im-internet.de/stvg/__18.html",
+      "status": 200,
+      "sha256": "b0a08c514cd8f95d82f2fa24dfc64145162546edd0fb49765c6b6efb1cc1ba92",
+      "chars": 862,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stvg__19",
+      "url": "https://www.gesetze-im-internet.de/stvg/__19.html",
+      "status": 200,
+      "sha256": "b5e2f94bb471c1c88ccf337519a5a41810246e4f2c19ba2251a87e50222ae433",
+      "chars": 3158,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "vvg_2008__86",
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__86.html",
+      "status": 200,
+      "sha256": "b05fcae22d5175021e8e021549530504c0185c4aff8216c415d7a6dd9b6fe54b",
+      "chars": 1551,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "vvg_2008__100",
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__100.html",
+      "status": 200,
+      "sha256": "310d3d24e4f07ef3602926e770627b896f0fffb33c64aa39ea6179afc3a78772",
+      "chars": 582,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "vvg_2008__115",
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__115.html",
+      "status": 200,
+      "sha256": "2c5e4e145ad56a50175286727215bf31d4f6d59610625670c4f3a2e792763147",
+      "chars": 2095,
+      "previous_attempt_error": "[Errno 54] Connection reset by peer",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "vvg_2008__118",
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__118.html",
+      "status": 200,
+      "sha256": "0582c7a02b3af1a9f2f50d23c12a542864dbe4c76d762441de63899eacbcf0db",
+      "chars": 1647,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "vvg_2008__209",
+      "url": "https://www.gesetze-im-internet.de/vvg_2008/__209.html",
+      "status": 200,
+      "sha256": "2850299d08c578c9dc1b2d0b2d76a0bdb80af1ad330cafb533e5df019fdc5db2",
+      "chars": 425,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "sgb_10__116",
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__116.html",
+      "status": 200,
+      "sha256": "b38b1361138e90ccec595845f6c9f0ef0772b8cfd358c2dce87504a1d86e504c",
+      "chars": 4913,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "entgfg__6",
+      "url": "https://www.gesetze-im-internet.de/entgfg/__6.html",
+      "status": 200,
+      "sha256": "302e6be2d132153305f4458345eb487f08ed9864e9c37334677959d727569a93",
+      "chars": 1137,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "pflvg__2",
+      "url": "https://www.gesetze-im-internet.de/pflvg/__2.html",
+      "status": 200,
+      "sha256": "9a4fa275f62d5ca7339ff82775a9cd267998bb6ff103accd817df6fdd387a3aa",
+      "chars": 2322,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "zpo__286",
+      "url": "https://www.gesetze-im-internet.de/zpo/__286.html",
+      "status": 200,
+      "sha256": "45909790d2b1ff73ec09c0a3a8659a510487bcc6d1d403c90a27d148cf956776",
+      "chars": 661,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "zpo__287",
+      "url": "https://www.gesetze-im-internet.de/zpo/__287.html",
+      "status": 200,
+      "sha256": "737316cb0f0f17f3d603b1f989151f3979fee819df63a228c1f5b13077471677",
+      "chars": 1167,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "zpo__485",
+      "url": "https://www.gesetze-im-internet.de/zpo/__485.html",
+      "status": 200,
+      "sha256": "27d6ebc0577e6953403d8ba1f0afbae6f06c4d8f8d4af1ac0667620ec1d519b7",
+      "chars": 1224,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "gvg__23",
+      "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+      "status": 200,
+      "sha256": "aa2a8d712478e4ccd44b5df249daff99053dcd0946f6e037cd22e5f3c7237dff",
+      "chars": 1750,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "gvg__71",
+      "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "status": 200,
+      "sha256": "e81a16422e3fadfc820d08c41bd8fdb400df77435229fb59c3e7ed10fbd21135",
+      "chars": 2733,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "brao__43e",
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "status": 200,
+      "sha256": "7dc7b09b6f28a8ba59ad88b60486db2e804876a9971ee27cbda7b573e638b8bd",
+      "chars": 2663,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "stgb__203",
+      "url": "https://www.gesetze-im-internet.de/stgb/__203.html",
+      "status": 200,
+      "sha256": "e28273ab626e1871070f7f4cdff4b12d858ebd53ea3faa7d6ac2597578e85ce1",
+      "chars": 6114,
+      "first_attempt_error": "Remote end closed connection without response",
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BayStrWG-9",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayStrWG-9",
+      "status": 200,
+      "sha256": "85f9372958f030920c512c3c1d936a5607dc4f6f429cd42b75c59b6317c7755e",
+      "chars": 4210,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BayGO-57",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayGO-57",
+      "status": 200,
+      "sha256": "f6e07736faf7446fb3c199fb017c0641615be857bb35f9d1d89b7c60d7e4f9bf",
+      "chars": 2950,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BayGO-21",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayGO-21",
+      "status": 200,
+      "sha256": "6aeb31f8bdffcef549c75f638d0f0067de1816f52e48209d68a6fdc46b157fc5",
+      "chars": 3296,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BayVStaettV-38",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayVStaettV-38",
+      "status": 200,
+      "sha256": "b8cfdd5e8458fdad31c525db134522d0c92fdf262f27a78a0bfd73bc9488b747",
+      "chars": 2923,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BADK",
+      "url": "https://www.badk.de/kommunalversicherung/",
+      "status": 200,
+      "sha256": "756fd519847d9f62e9bcddc307dc2b2ec2bb9533a03ab82032a43d984d2ec2d2",
+      "chars": 5854,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "BayVStaettV-1",
+      "url": "https://www.gesetze-bayern.de/Content/Document/BayVStaettV-1",
+      "status": 200,
+      "sha256": "b0d62f7657cbbfc0465c85b4fb434f330a9ee73cc7b8fd94247b98504fbd2a67",
+      "chars": 4090,
+      "checked_on": "2026-10-05",
+      "read_scope": "Vollständiger Normtext gelesen; bei BADK nur Institutionendarstellung, keine Versicherungsbedingungen."
+    },
+    {
+      "id": "DSGVO_BfDI",
+      "url": "https://www.bfdi.bund.de/SharedDocs/Downloads/DE/Broschueren/INFO1.pdf?__blob=publicationFile&v=61",
+      "status": 200,
+      "sha256": "e10b5907246e4fedaee093646dbc549b24eea53d8d72e3315dd46a5838be926e",
+      "chars": 710840,
+      "checked_on": "2026-10-05",
+      "read_scope": "Nur Art. 5, 6, 9 Abs. 1/2, 28 und 32 gezielt gelesen, gedruckte S. 148–154, 171–174, 176–177; keine Gesamtlektüre der Broschüre."
+    },
+    {
+      "id": "stvg__16",
+      "url": "https://www.gesetze-im-internet.de/stvg/__16.html",
+      "checked_on": "2026-10-05",
+      "verification": "Vollständiger amtlicher Normtext durch Webabruf gelesen; keine lokale Rohdatei archiviert.",
+      "sha256": null
+    },
+    {
+      "id": "sgb_10__119",
+      "url": "https://www.gesetze-im-internet.de/sgb_10/__119.html",
+      "checked_on": "2026-10-05",
+      "verification": "Vollständiger amtlicher Normtext durch Webabruf gelesen; Rentenbeitragsersatz und Abs.1Nr.1/2-Abgrenzung gezielt geprüft.",
+      "sha256": null
+    }
+  ],
+  "methodology": [
+    "Amtliche BGH-PDFs über bundesgerichtshof.de direkt geladen, PDF-Metadaten und zitierte tragende Passagen samt Kontext gelesen. Exakter Leseumfang pro Entscheidung ausgewiesen.",
+    "Nur echte Fundstellen: Altentscheidung VI ZR 34/04 hat im amtlichen Volltext keine Randnummern; gedruckte Seiten verwendet.",
+    "Gezielte Suchen nach 2025/2026 zu kommunaler Haftung, Verkehrssicherung, Personenschaden, Kfz, Leitungsschäden und Regress. Auswahl fachbezogen; kein Vollständigkeitsversprechen.",
+    "Normtexte von Gesetze im Internet und Bayern.Recht live gelesen. BfDI stellt den gelesenen DSGVO-Wortlaut bereit; EUR-Lex-Abruf scheiterte an Botprüfung.",
+    "Keine Literaturfundstelle aus dem Gedächtnis, keine Preis-/Reinigungstabellen erfunden, keine echten AKHA-Bedingungen unterstellt.",
+    "Rechtsprechungsjahre, Abrufdatum und konkreter Sachverhalt getrennt; Quellenprüfung ist kein Nachweis der Qualität späterer Modellantworten."
+  ],
+  "access_limitations": [
+    {
+      "source": "BGH juris CGI für III ZR 490/13 und VI ZR 252/23",
+      "issue": "Abruf lieferte keinen lesbaren PDF-Volltext; Download-/Parserfehler.",
+      "resolution": "Amtliche SharedDocs-PDFs erfolgreich separat abgerufen; deren geprüfte Links/Hashes sind oben dokumentiert."
+    },
+    {
+      "source": "Gesetze im Internet",
+      "issue": "Mehrere erste parallele Direktabrufe abgebrochen; ein zweiter Abruf § 115 VVG zurückgesetzt.",
+      "resolution": "Mit geringerer Parallelität erfolgreich erneut geladen; § 115 zusätzlich via Web und schließlich direkt gelesen."
+    },
+    {
+      "source": "EUR-Lex 32016R0679 / 02016R0679-20160504",
+      "issue": "Leerer HTTP202-Direktabruf bzw. JavaScript-Botprüfung im Webabruf.",
+      "resolution": "Offiziell bereitgestellte BfDI-PDF-Kopie für die genannten DSGVO-Artikel gelesen. Keine vollständige Prüfung weiterer Datenschutzänderungen behauptet."
+    },
+    {
+      "source": "Bayern.Recht § 1 VStättV",
+      "issue": "Webabruf503.",
+      "resolution": "Direkter amtlicher Abruf200, Volltext gelesen."
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "docket": "III ZR 237/25",
+      "date": "2026-09-10",
+      "reason": "Amtlichen Volltext heruntergeladen und Metadaten/Leitsätze gesichtet; Spezialfall Innenregress beim nach Hamburger PsychKG beliehenen Krankenhausträger. Für die drei kleinen Kernfälle nicht als allgemeiner kommunaler Rückdeckungsanker verwendet."
+    },
+    {
+      "docket": "VI ZR 97/22",
+      "date": "2023-09-26",
+      "reason": "Abruf lieferte einen Vorlagebeschluss von 2023. Ein Suchhinweis auf neuere Aktivität rechtfertigt keine Umetikettierung zum Urteil 2026. Nicht als 2026-Anker verwendet."
+    },
+    {
+      "docket": "VI ZR 395/16",
+      "date": "2017-06-13",
+      "reason": "Spezialfall hoheitlich entzogener Verfügungsgewalt/Besitzeinweisung; nicht pauschal auf vertraglich delegierte Gebäudesicherung übertragen."
+    }
+  ],
+  "static_content_review": {
+    "checked_on": "2026-10-05",
+    "method": "Unabhängige statische Fachgegenlektüre anhand des oben verifizierten Quellenpakets, kein Forward-/Modelllauf.",
+    "status": "pass_with_scope_limits",
+    "files": [
+      {
+        "path": "kommunale-haftpflicht/skills/deckung-und-rueckdeckung-pruefen/SKILL.md",
+        "sha256": "118ac3c26105f0d6f7a0c53cc235116c10449e6f4813f4cc0434a00e10797f06",
+        "bytes": 4550,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/gebaeude-und-veranstaltungsschaeden-pruefen/SKILL.md",
+        "sha256": "902ca93751d5957dce9f264e325fdd1739448751b84e586d53f1045898a03852",
+        "bytes": 4601,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/haftungsweg-und-verantwortung-klaeren/SKILL.md",
+        "sha256": "87293e0a55a582f22ff2fbc13fd272cb4dd1f5f2663d03cacf8a8f62ef3be6b5",
+        "bytes": 4638,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/kommunale-fahrzeugschaeden-pruefen/SKILL.md",
+        "sha256": "2a20695e30bb5d444e4923f05a69c834b2d5c2be5c040d38ed48deae2a5bb2e1",
+        "bytes": 4692,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
+        "sha256": "b45cfac3dfc032504e87958256b8033e3ebb95d767628d0c88a347a598bcc2cc",
+        "bytes": 6393,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/leitungswasser-und-gewerbeschaeden-pruefen/SKILL.md",
+        "sha256": "f547082ae68e9741319930c42a27b76b8a74e7a664958402be16b17fabe0ece8",
+        "bytes": 4801,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/regress-und-verjaehrung-sichern/SKILL.md",
+        "sha256": "eb12f053cd973abe99a301f95870b2dd9618aa44d604c1c3de8392659a1f813a",
+        "bytes": 4474,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/regulierung-und-kommunikation-erstellen/SKILL.md",
+        "sha256": "d4b00ff392528efa3dc3dc33fbbc7c595e290fa11f2fa19de17245af6ae5e1a3",
+        "bytes": 4545,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/schaden-aufnehmen-und-belege-sichern/SKILL.md",
+        "sha256": "f0d7c217cb099b56314de24417d7345d4f68b9eae128d1ad1ced84cc8f90caf4",
+        "bytes": 4742,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/skills/schadenhoehe-und-anspruchsuebergaenge-pruefen/SKILL.md",
+        "sha256": "fa42412aca5354bf841066fb4a1b7921a10772d1aeadc36ea0eacd33a484747e",
+        "bytes": 4850,
+        "read_scope": "Vollständiger Skilltext einschließlich individueller Quellenzuordnung gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.md",
+        "sha256": "e17172e67c50447cdc284d8b034f16ad604ee1df634d9d968d87c20520819c95",
+        "bytes": 7471,
+        "read_scope": "Vollständiger Prompt gelesen; Werkstatt alle Abschnitte 1.1–1.38; Kurzprompt-Endfassungen zusätzlich nach Kürzung vollständig gegengelesen.",
+        "identical_txt": {
+          "path": "kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.txt",
+          "sha256": "e17172e67c50447cdc284d8b034f16ad604ee1df634d9d968d87c20520819c95"
+        }
+      },
+      {
+        "path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
+        "sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+        "bytes": 7479,
+        "read_scope": "Vollständiger Prompt gelesen; Werkstatt alle Abschnitte 1.1–1.38; Kurzprompt-Endfassungen zusätzlich nach Kürzung vollständig gegengelesen.",
+        "identical_txt": {
+          "path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.txt",
+          "sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f"
+        }
+      },
+      {
+        "path": "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+        "sha256": "8dcc44cddfda4d8dd34085b5a3f032e07a8eb0e38bf661a4b694dd3c64226a50",
+        "bytes": 95888,
+        "read_scope": "Vollständiger Prompt gelesen; Werkstatt alle Abschnitte 1.1–1.38; Kurzprompt-Endfassungen zusätzlich nach Kürzung vollständig gegengelesen.",
+        "identical_txt": {
+          "path": "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.txt",
+          "sha256": "8dcc44cddfda4d8dd34085b5a3f032e07a8eb0e38bf661a4b694dd3c64226a50"
+        }
+      },
+      {
+        "path": "kommunale-haftpflicht/references/deckung-und-rueckdeckung.md",
+        "sha256": "230b93b44c5ab432ab4755f7c57f50522936fc4daa2566e6e4e8edd17c5596b1",
+        "bytes": 3557,
+        "read_scope": "Vollständige Hilfsreferenz gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/references/fallkarte-und-belege.md",
+        "sha256": "4e32a5099a073e3baf939f52ddef9d0d744c0449ed273c091031039eefc146db",
+        "bytes": 4655,
+        "read_scope": "Vollständige Hilfsreferenz gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/references/schadenrechnung-und-mehrpersonenfall.md",
+        "sha256": "126e6569a4fe8ddb0919a0b5f36b017ef73a6a1294429fb23314ac0410115311",
+        "bytes": 5274,
+        "read_scope": "Vollständige Hilfsreferenz gelesen."
+      },
+      {
+        "path": "kommunale-haftpflicht/README.md",
+        "sha256": "2c6eee928876d3c6bbc18b67c667957603c75c64e88e407daf66bc327a2292f5",
+        "bytes": 28665,
+        "read_scope": "Vollständige finale README am 05.10.2026 erneut fachlich gelesen, einschließlich der nach der Erstlektüre generierten Direktloslegen- und Skillübersicht sowie der dezimalen Renummerierung. Keine wesentlichen fachlichen Befunde; keine unabhängige Liveprüfung von Downloadlinks oder Marketplace-/Releasezahlen in dieser Gegenlektüre."
+      },
+      {
+        "path": "scripts/kommunale_haftpflicht_akten_daten.py",
+        "sha256": "fcadd542a6693d0f28987799b2c4089d685752fe9d8d74011fc9da45512ad95a",
+        "bytes": 41301,
+        "read_scope": "Sämtliche 34 Originaltexte aller drei CASES vollständig gelesen. Zwei nachträgliche Chronologie-Klarstellungen gezielt nachgelesen."
+      },
+      {
+        "path": "testakten/akha-wuerzburg-rohrbruch/12_Kostenliste.xlsx",
+        "sha256": "ace2deac0013ba323d406a82a8c42a208220a97595773a974d8c2bf5b7782692",
+        "bytes": 5055,
+        "read_scope": "Alle besetzten Zellen und Formeln textlich gelesen; Summe und Quellenbedeutung unabhängig nachgerechnet. Nur Lesezugriff; keine Layoutprüfung oder native Excel-Neuberechnung durch diesen Prüfer."
+      },
+      {
+        "path": "testakten/akha-wuerzburg-betriebsfahrzeug/12_Forderungsuebersicht.xlsx",
+        "sha256": "88e1cbf8cfc88ede3502b351cf07180528a8696715d8e7bfb9e88de410c91a72",
+        "bytes": 5204,
+        "read_scope": "Alle besetzten Zellen und Formeln textlich gelesen; Summe und Quellenbedeutung unabhängig nachgerechnet. Nur Lesezugriff; keine Layoutprüfung oder native Excel-Neuberechnung durch diesen Prüfer."
+      }
+    ],
+    "case_texts": [
+      {
+        "slug": "kommunale-haftpflicht-personenschaden",
+        "documents": [
+          {
+            "original_name": "01_Pruefauftrag.eml",
+            "source_record_sha256": "b0ac6b04b00c6dae6b18d5edfe61fdb59d384051374313ae49936c405230be30",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "02_Ereignismeldung.docx",
+            "source_record_sha256": "3a606d6f606131075242145586303ce86b3bd994ccbaea85147777c699e05480",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "03_Behandlungsbericht.docx",
+            "source_record_sha256": "f3d63167287c70ead3d3a9b3bc4a4c609cc2a685b9071b5579409de6c70b4ac2",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "04_Reinigungskontrolle.docx",
+            "source_record_sha256": "dc5b6c1ae1c064dfd577af423c49c2b340495571aebfc02ab54b8398b1d47039",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "05_Haushaltshilfe_Rechnung.docx",
+            "source_record_sha256": "637a3f76325e5a946c4be174182774d026473419881b922372ea8e953509bf07",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "06_Jacke_Kaufbeleg.docx",
+            "source_record_sha256": "84526e488720ce34ababdf3367a012888332a61268de5a20096ae2a9321ebc75",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "07_Forderung_Kuemmel.eml",
+            "source_record_sha256": "1cdfdf837488af374d053f29709a8a7f53935d552f5dd24c64c94080f5556e24",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "08_Zeugin_Lina.eml",
+            "source_record_sha256": "d0d86af49f6d08da7868f0e71bbcbad8d8649b6cd1419707763e5e6177a79fd2",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "09_Reinigung_Rueckfrage.eml",
+            "source_record_sha256": "733612a61ba6363d8d23859fe1176a79840b5542e3b4a47006fe9d32dcc8fc63",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "10_Vertragsunterlagen.eml",
+            "source_record_sha256": "af174a95ba1a0af441a46c12db2a8ecb94d92813dce11a57b5bcaaecbe9c63d0",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "11_Teamchat.txt",
+            "source_record_sha256": "89d0ca419ebc0048f38d897f5b0a542a1efa25275024398b7db840d566df9277",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "12_Alltag_Kuemmel.docx",
+            "source_record_sha256": "825dfdd33c0d8252212a41392069620ff1b15b563f11c1251628b304ae844656",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          }
+        ]
+      },
+      {
+        "slug": "akha-wuerzburg-rohrbruch",
+        "documents": [
+          {
+            "original_name": "01_Pruefauftrag.eml",
+            "source_record_sha256": "7db38058f76a3ad2d4be8cde767de6cc84a4bf8c3f1580e15485219c9cab5a69",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "02_Schadenmeldung.docx",
+            "source_record_sha256": "7f858adf810745350d5ad4e3644f680087c3c36b59cffec9febb547063161f1d",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "03_Einsatzbericht.docx",
+            "source_record_sha256": "e80e46f055a047c17e7b6dced171e3ed39f0e275304932cc3c6078eb46fa4ee9",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "04_Trocknung_Rechnung.docx",
+            "source_record_sha256": "c8478ed585df98f609587922c1c52f2da69afee3ca671581efbce4f9af508600",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "05_Muehlen_Bestandsliste.docx",
+            "source_record_sha256": "ea1cb9c7d24b23b591db90e588c07d4ef5c53e2acd735a11cb24cd983aa9a9ea",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "06_Elektro_Angebot.docx",
+            "source_record_sha256": "3181b250eb9cabeb6ceb03f0931d6444024152cda833774dc404d5440571374c",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "07_Kostenuebersendung.eml",
+            "source_record_sha256": "e49c1321a4937cd0b0af3c4eb16d98b6cb6235d099069d584ab9394235360d0a",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "08_Vermieterin.eml",
+            "source_record_sha256": "eb9dd2a9d97a2a51ecdc5469b8f68a7af10e8df8d6f9f2b04af02c9cc8cccbe7",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "09_Vertragsanfrage.eml",
+            "source_record_sha256": "408b6f68a7519d630d50031f5aac5b2b0155c39c0963ae119a751907088a853e",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "10_Umsatz_Rueckfrage.eml",
+            "source_record_sha256": "28ec5faa8304902e06e037467d2f12fad9e5235763af683c9e739f561ed1269f",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "11_Stoerungslog.txt",
+            "source_record_sha256": "910d3d24269ef34f1f5ad9425039aff4bfea8f4a50fe08429a8b3adea044af00",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          }
+        ]
+      },
+      {
+        "slug": "akha-wuerzburg-betriebsfahrzeug",
+        "documents": [
+          {
+            "original_name": "01_Pruefauftrag.eml",
+            "source_record_sha256": "28faf579c8a5e7f10c62063979c130663582c82b8fa3e96501779326e3725da3",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "02_Unfallmeldung.docx",
+            "source_record_sha256": "bc5b1fb84056e07ae8ebe30870726699fb71ebcdf550c1feb1920ba3d74e8fda",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "03_Zeugin_Samira.docx",
+            "source_record_sha256": "33490bad9abb81cfdd50dbfd32cc3f5812ee384ba5dd02e13c4aa2ed89e5e1f0",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "04_Bau_Angebot.docx",
+            "source_record_sha256": "b98a11043d0c4c4ea8bae846be28c61fbe7f564ea098d68201f856ddd8e6bad1",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "05_Geraete_Aufstellung.docx",
+            "source_record_sha256": "f408918fae6a6f3b91fc78731fd7dad7c95f6610a3b57a1dbcd5f50bd094652f",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "06_Werkstattauftrag.docx",
+            "source_record_sha256": "e88d7bbc04185562a209cadcadcc0101a9705ca534716793c581b0ac9728f6c0",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "07_Gebaeudeeigentuemerin.eml",
+            "source_record_sha256": "0125bd7d95e1fdd3cd5958136349d383998f9187052bb0aa76762df65f9fedc1",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "08_Geraeteeigentuemerin.eml",
+            "source_record_sha256": "52175479243f4eea73e7999e8f5f61fd4bf59cab842f2ca1b674c35e508aa50c",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "09_Nachbarbetrieb.eml",
+            "source_record_sha256": "04cecaeac1ce00fa80fb4105454966be6e244dda9d162ed5c28e9270f2a8c724",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "10_Vertragsunterlagen.eml",
+            "source_record_sha256": "3d5f85ec695aa0c10d9b07d0856ba0763201447a10bdc498d8986d95e241b4b4",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          },
+          {
+            "original_name": "11_Fuhrparkchat.txt",
+            "source_record_sha256": "0bd106004b53ccb8b9679f991888622f61a5a33072d9ed4e7836b42ffe206217",
+            "read_scope": "Vollständiger Originaltext im Akten-Datenskript gelesen, einschließlich Datum, Absender und Anlagenzuordnung; kein Anspruch auf native Dateisichtprüfung."
+          }
+        ]
+      }
+    ],
+    "checks": [
+      {
+        "topic": "Rollen und Auftrag",
+        "status": "pass",
+        "finding": "Kommunale Trägerschaft wird nicht mit Amtshaftung gleichgesetzt; Fall3 mandatiert ausdrücklich nur den Versicherer, nicht zugleich die GmbH."
+      },
+      {
+        "topic": "Sturz und Beweis",
+        "status": "pass",
+        "finding": "Kontrolle aus Erinnerung, Nachtrag und Meldung vor dem Unfall werden in der Akte unterscheidbar gehalten. Skills/Prompts verlangen konkrete Pflicht, Kausalität und Mitverschulden, keine frei erfundenen Wischintervalle/Quoten."
+      },
+      {
+        "topic": "Personenschaden",
+        "status": "pass",
+        "finding": "Erstbefund, unbekannte Dauerfolgen, bezahlte Haushaltshilfe und unentgeltliche Familienhilfe getrennt. Prompts verhindern Gleichsetzung von AU und Haushalt sowie pauschale Tagesschmerzensgelder."
+      },
+      {
+        "topic": "Wasser und Anlageninhaber",
+        "status": "pass",
+        "finding": "Straßenleck 1,5 m vor der Fassade ausdrücklich außerhalb; Anlagenkontrolle/Weisung bei Versorger beschrieben. Gebäudeausschluss nicht aus bloßem Keller-Schadenort hergeleitet."
+      },
+      {
+        "topic": "Schadenrechnung Rohrbruch",
+        "status": "pass",
+        "finding": "2.400+1.800+3×2.500+4×850=15.100 EUR als Anmeldung; Vorsteuerberechtigung belegt. Umsatz, Reparatur-/Neuwert und mögliche Restwerte bleiben ungeprüfte Positionen."
+      },
+      {
+        "topic": "Fahrzeug und Anspruchskonkurrenz",
+        "status": "pass",
+        "finding": "Rollvorgang, laufender Motor, ausgeschaltetes Kehraggregat und dokumentierte 40 km/h erlauben Prüfung des StVG, ohne Technikfeststellung zu erfinden. § 12-Grenze ist nicht die Grenze sämtlicher § 16-konkurrenzerhaltener Ansprüche."
+      },
+      {
+        "topic": "Mehrere Geschädigte",
+        "status": "pass",
+        "finding": "145.000+1.650.000+45.000=1.840.000 EUR als angemeldete Gesamtforderung. Gerätespanne 1,2–2,1 Mio. ist nur zusätzliche Unsicherheitsinformation und wird nicht addiert."
+      },
+      {
+        "topic": "Nachbarbetrieb",
+        "status": "pass",
+        "finding": "Räume zugänglich, keine eigenen beschädigten Sachen/kein Verderb; Nettoumsatz und storniert/verschoben getrennt. Workshop 1.35/KH-12 verlangen eigenen Rechtseingriff oder andere Grundlage; kein pauschaler Ausschluss aller Gewerbefolgeschäden."
+      },
+      {
+        "topic": "Deckung und Rückdeckung",
+        "status": "pass",
+        "finding": "Keine tatsächliche AKHA-Mitgliedschaft, Bedingung oder Freigabegrenze erfunden. Versicherer-, Umlage- und Rückversicherungsrecht werden getrennt; § 209 VVG richtig begrenzt."
+      },
+      {
+        "topic": "Grenzen und Rang",
+        "status": "pass",
+        "finding": "HPflG 300.000 EUR mit Grundstücksausnahme und §12; StVG § 12/16; § 118 VVG-Rangfolge nicht mit proportionaler gesetzlicher Haftungsgrenze verwechselt."
+      },
+      {
+        "topic": "Übergang und Frist",
+        "status": "pass",
+        "finding": "§ 116 SGB X, § 119 SGB X, § 6 EFZG und § 86 VVG werden positionsbezogen behandelt. Vorbehalt/Reservierung nicht mit Verjährungshemmung oder Verzicht gleichgesetzt."
+      },
+      {
+        "topic": "Datenschutz und Arbeitsergebnis",
+        "status": "pass",
+        "finding": "Art. 6 und 9, Rollen und Erforderlichkeit, ggf. Geheimnisschutz werden verlangt. Autorisierte Entwürfe vollständig, externe Handlungen nur nach tatsächlichem Auftrag; keine erfundene Modellausführung."
+      }
+    ],
+    "material_unresolved_findings": [],
+    "author_corrections_checked": [
+      "Rohrbruch-Dokument 02 ist auf 19.09.2026 datiert und kann damit die Wiederöffnung 18.09 berichten.",
+      "Fahrzeug-Dokument 02 enthält den fehlenden Personenschadenstand 28.09 als ausdrücklich datierten Nachtrag. Beide vom Aktenautor gemeldeten Klarstellungen wurden gezielt nachgelesen."
+    ],
+    "limitations": [
+      "Textprüfung der 34 Originaltexte erfolgte in ihrem Datenskript, nicht als Sichtkontrolle sämtlicher DOCX/PDF/EML-Darstellungen.",
+      "XLSX: Zellwerte, Formeltexte, gespeicherte Ergebnisse und rechnerische Logik gelesen/abgeglichen; weder native Excel-Ausführung noch Pixel-/Drucklayoutprüfung durch diesen Prüfer.",
+      "Keine Qualitätsbehauptung für nicht ausgeführte Modellprobeläufe, öffentliche Downloads, Release- oder Transportstrecken.",
+      "Hashes binden die Gegenprüfung an genau diese Fassungen; spätere materielle Änderungen erfordern gezielte Nachprüfung."
+    ]
+  }
+}

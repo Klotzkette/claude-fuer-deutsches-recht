@@ -1,6 +1,6 @@
 # jura-in-einfacher-sprache
 
-**5 Skills** · Stand `v445.30.2`
+**5 Skills** · Stand `v445.31.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../jura-in-einfacher-sprache/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
