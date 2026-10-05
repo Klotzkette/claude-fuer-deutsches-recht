@@ -74,6 +74,16 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2004/VI_ZR__34-04.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-05",
       "supports": "Die Beschädigung fremder Bahninfrastruktur führte bei einem Eisenbahnunternehmen mit unbeschädigten, anderweitig beweglichen Fahrzeugen nicht schon durch die zeitweise Streckensperrung zu einer Eigentumsverletzung an diesen Fahrzeugen. Ein Anspruch wegen Eingriffs in den eingerichteten und ausgeübten Gewerbebetrieb setzt einen unmittelbaren betriebsbezogenen Eingriff voraus; bloße Fernwirkungen einer allgemeinen Versorgungs- oder Infrastrukturbeschädigung genügen nicht. Grenze: Der amtliche Altvolltext enthält keine Randnummern; deshalb Seitenfundstelle statt erfundener Rn. Eigene beschädigte Sachen, vollständiger Entzug der Nutzbarkeit, vertragliche Ansprüche und besondere Schutzgesetze separat prüfen. Nicht jeden Betriebsunterbrechungsschaden pauschal ausschließen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_186-08.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Konkrete Prognosegrundlagen beim früh geschädigten Kind, Rn.18–21; keine sichere Karriere."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2017/VI_ZR_377-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-05",
+      "supports": "Erforderliche Angehörigenpflege und Vergleichskraft-Nettolohn, Rn.14; kein pauschaler Pflegeumfang."
     }
   ],
   "cases": [
@@ -231,6 +241,78 @@
           ]
         }
       ]
+    },
+    {
+      "id": "geburtsschaden-abrechnung",
+      "title": "Würzburg: Geburtsschaden und interne Lasten",
+      "input_files": [
+        "testakten/akha-wuerzburg-geburtsschaden/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-geburtsschaden/02_Gesellschafterbestaetigung.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/03_Geburtsdokumentation.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/04_Gutachten_Geburtshilfe.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/05_Haftungsanerkenntnis.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/06_Eltern_Pflegealltag.eml",
+        "testakten/akha-wuerzburg-geburtsschaden/07_Pflegebericht.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/08_Assistenzangebot.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/09_Erwerbsgrundlagen.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/10_Deckungsbestaetigung.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/11_Teilvergleich.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/12_Zahlung_und_Schichten.xlsx",
+        "testakten/akha-wuerzburg-geburtsschaden/13_Zahlungseingang.eml",
+        "testakten/akha-wuerzburg-geburtsschaden/14_Interne_Modellvereinbarung.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/15_Abrechnung_Rueckdeckung.eml",
+        "testakten/akha-wuerzburg-geburtsschaden/16_Reservevermerk.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/17_Wohnanpassung.docx",
+        "testakten/akha-wuerzburg-geburtsschaden/18_Kassenabgleich.eml"
+      ],
+      "request": "Bearbeiten Sie für Frankenbogen den Auftrag in 01: Prüfen Sie die bereits regulierte Geburtsschadenakte, stimmen Sie Vergleich, Zahlungen, Reserve und interne Abrechnung ab und formulieren Sie die Antwort an die Rückdeckungsabteilung vollständig. Stellen Sie nur noch entscheidende Rückfragen.",
+      "deliverables": [
+        "abrechnungsvermerk.md",
+        "antwort-rueckdeckung.md"
+      ],
+      "criteria": [
+        {
+          "id": "auftrag-und-aussenleistung",
+          "text": "Allein den Versicherer vertreten. Den geschlossenen Teilvergleich und vollständig belegte Familienzahlung von 13,2 Mio. EUR einschließlich 1,2 Mio. EUR Vorschüssen als Aktenstand auswerten; 12 Mio. EUR Schlusszahlung nicht mit 13,2 Mio. EUR addieren. Keine Zahlung von AKHA an die Familie oder neue Haftungsprüfung ohne Anlass erfinden.",
+          "deliverables": [
+            "abrechnungsvermerk.md",
+            "antwort-rueckdeckung.md"
+          ]
+        },
+        {
+          "id": "kapital-und-anspruchsinhaber",
+          "text": "Kindesanspruch, Elternvertretung und Drittregresse unterscheiden. Verhandelte Pflege-/Erwerbskapitalien nicht als bewiesene Lebenserwartung oder versicherungsmathematisch errechneten Barwert ausgeben. Kein laufendes Gehalt für das zehnjährige Kind unterstellen. Kein pauschales Genehmigungserfordernis allein wegen der Vergleichshöhe; § 1643 Abs. 5 BGB beachten.",
+          "deliverables": [
+            "abrechnungsvermerk.md",
+            "antwort-rueckdeckung.md"
+          ]
+        },
+        {
+          "id": "brutto-netto-prioritaet",
+          "text": "Anhand 14/12: Eigenanteil 1,5 Mio. EUR; Bruttoausgleich 11,7 Mio. EUR; endgültiger Umlageanteil 8,5 Mio. EUR; obere Schicht 3,2 Mio. EUR bei Priorität 10 Mio. EUR auf ursprüngliche 13,2 Mio. EUR. 1,7 Mio. EUR aus falscher Bezugsgröße nicht übernehmen. Bruttoausgleich nicht zusätzlich zu seinen Komponenten addieren.",
+          "deliverables": [
+            "abrechnungsvermerk.md",
+            "antwort-rueckdeckung.md"
+          ]
+        },
+        {
+          "id": "zahlstatus-und-reserve",
+          "text": "Bisher 8,5 Mio. EUR Erstattung und 3,2 Mio. EUR offene Forderung Frankenbogens gegen die Ausgleichsebene von deren 3,2 Mio. EUR Rückversicherungsforderung trennen. Keine vollendete Rückversicherungszahlung erfinden. 650.000 EUR Drittregressreserve nicht als Familienrestzahlung, Bankeingang oder aktuelle Ausgleichsanmeldung addieren.",
+          "deliverables": [
+            "abrechnungsvermerk.md",
+            "antwort-rueckdeckung.md"
+          ]
+        },
+        {
+          "id": "konkreter-naechster-schritt",
+          "text": "Vorliegende Kassenabstimmung 18 verwerten, statt sie erneut anzufordern; fehlende Abrechnungsbestätigung/Fälligkeit positionsgenau benennen. Interne Modellparameter sind ausdrücklich keine echten AKHA-Konditionen. Vollständiger Antwortentwurf mit Beträgen, offenen Belegen und Wiedervorlage.",
+          "deliverables": [
+            "abrechnungsvermerk.md",
+            "antwort-rueckdeckung.md"
+          ]
+        }
+      ],
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten"
     }
   ],
   "mini_review": {
@@ -250,22 +332,23 @@
     "method": "author_desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Vollständige Autorgegenlektüre der Abschnitte 1.1–1.38. Der umfangreiche Prompt enthält konkrete Sachverhaltsarbeit, Personen-/Gewerberechnung, Schadenmehrheit, drei Rechtsverhältnisse und vollständig formulierte Produktlogik. Zwölf verifizierte Anker sind mit direktem Original und Anwendungsgrenze eingebaut. Autoren-Desk-Review, kein Werkstatt-Modelltest.",
+    "reason": "Die Erstprüfung der Abschnitte 1.1–1.38 bleibt als vorheriger Prüfstand erhalten; diese Abschnitte wurden inhaltlich nicht geändert. Ergänzung 1.39 wurde gegen die gesonderten Primärquellen und den konkreten Geburtsschadenfall gelesen, einschließlich Elternvertretung, Pflege-/Erwerbsprognose, Kapitalabfindung und Brutto-/Nettoausgleich. Autoren-Desk-Review mit unabhängiger juristischer Gegenlektüre der Erweiterung; kein behaupteter Werkstatt-Modelltest.",
     "changes": [
       "Haushaltsführungsschaden nach Tätigkeiten und Zeiträumen, nachvollziehbarer Nettoersatzkraftansatz, Schmerzensgeld ohne Tagesformel.",
       "Sozialregress mit frühem Übergang und Kongruenz; EFZG/VVG nicht pauschal denselben Übergangszeitpunkt unterstellen.",
       "Eigener Rechtseingriff und bloßer Nachbar-Umsatzreflex getrennt; keine generelle Ablehnung sämtlicher Betriebsunterbrechung.",
       "§12 StVG und §118 VVG mit unterschiedlichen Grenzen/Verteilungswirkungen; §16 StVG und andere Grundlagen nicht übergehen.",
       "AKHA-Kontext ohne fiktive Mitgliedschaft oder Bedingungen; echte Rückversicherung unter §209 VVG gesondert.",
-      "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag."
+      "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag.",
+      "Abschnitt 1.39: kommunaler Klinikfall, BGH VI ZR 186/08 Rn. 18–21 und VI ZR 377/17 Rn. 14, § 1643 Abs. 5 BGB sowie getrennte Lasten- und Zahlungsrechnung."
     ],
-    "sha256": "8dcc44cddfda4d8dd34085b5a3f032e07a8eb0e38bf661a4b694dd3c64226a50"
+    "sha256": "14ac764935ad37a2ff3dc8ad2f1bbf003cabc8034fb81db5310bf3a06e3163df"
   },
   "focus_review": {
     "method": "desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Vollständige Autorgegenlektüre des eigenständigen Hauptproblem-Prompts nach Kürzung. Er führt Auftrag, Belege, Rechtsgrund, Betrag, Gläubiger, Deckung, Regress und ausformulierten Text zusammen. Drei direkte Primäranker zu Amt, Rohrbruch und Sozialregress enthalten. Desk-Review ohne behauptetes Ausführungsverhalten.",
+    "reason": "Vollständige Autorgegenlektüre des eigenständigen Hauptproblem-Prompts nach Kürzung. Er führt Auftrag, Belege, Rechtsgrund, Betrag, Gläubiger, Deckung, Regress und ausformulierten Text zusammen. Drei direkte Primäranker zu Amt, Rohrbruch und Sozialregress enthalten. Desk-Review ohne behauptetes Ausführungsverhalten. Der Hauptskill verweist ergänzend auf den Klinikworkflow; der eigenständige Schwerpunkt-Prompt bleibt unverändert.",
     "changes": [
       "Funktionale Amtsträgerzuordnung und Gebäudeausschluss beim Rohrbruch nicht aus kommunalem Namen beziehungsweise Keller-Schadenort ableiten.",
       "Eigene Anspruchskarte je Geschädigten; Haftungsquote, Deckungslimit, Selbstbehalt und Reserve getrennt.",
@@ -276,7 +359,7 @@
     "prompt_path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
     "prompt_sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
     "skill_path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
-    "skill_sha256": "b45cfac3dfc032504e87958256b8033e3ebb95d767628d0c88a347a598bcc2cc",
+    "skill_sha256": "7fcc1a3cd1ade7a5bf8fcb60b911f52531d5a4b39e499ae68a26ceca8fb8ec9d",
     "reviewer": "author"
   },
   "prompt_editorial_review": {
@@ -325,7 +408,8 @@
       "kommunale-haftpflicht/skills/regress-und-verjaehrung-sichern/SKILL.md",
       "kommunale-haftpflicht/skills/regulierung-und-kommunikation-erstellen/SKILL.md",
       "kommunale-haftpflicht/skills/schaden-aufnehmen-und-belege-sichern/SKILL.md",
-      "kommunale-haftpflicht/skills/schadenhoehe-und-anspruchsuebergaenge-pruefen/SKILL.md"
+      "kommunale-haftpflicht/skills/schadenhoehe-und-anspruchsuebergaenge-pruefen/SKILL.md",
+      "kommunale-haftpflicht/references/geburtsschaden-und-interner-ausgleich.md"
     ],
     "decisions": [
       {
@@ -427,7 +511,8 @@
     "opening_modes": [
       "Personenschaden: vorhandenen Unfallbericht, Kontrollunterlagen und Befunde lesen; Betreiber/Veranstalter bestimmen, entscheidende Lücke fragen und vollständige nächste Antwort vorbereiten.",
       "Rohrbruch: Anlageninhaber sowie Leck-/Schadenort klären, Haftungsgrundlagen und Eigentum je Position prüfen, Gewerberechnung mit ersparten Kosten und Netto/Brutto nachvollziehen.",
-      "Fahrzeug-Schadenmehrheit: tatsächlichen Auftraggeber und Halter getrennt halten, Betrieb/Einsatz prüfen, je Anspruchsteller eigene Rechtsgrundlage und Positionen statt einheitlicher Gesamtkürzung."
+      "Fahrzeug-Schadenmehrheit: tatsächlichen Auftraggeber und Halter getrennt halten, Betrieb/Einsatz prüfen, je Anspruchsteller eigene Rechtsgrundlage und Positionen statt einheitlicher Gesamtkürzung.",
+      "Geburtsschaden: bestehendes Anerkenntnis und Teilvergleich auswerten, Kindesleistung und Drittregressreserve trennen, ursprüngliche Prioritätsbasis sowie offene interne Erstattungen abstimmen und konkreten internen Antworttext erstellen."
     ],
     "continuation": "Neue Unterlagen werden in Tatsachenkarte, Anspruchsberechtigung, Rechnung und Empfängertext eingearbeitet. Ein nachgereichter Leistungsbescheid kann den Rechtsinhaber ändern; ein Kontrollbeleg die Haftungsvariante. Bereits beantwortete Fragen werden nicht wiederholt.",
     "enrichment": "Aus Aktenbefund und rechtlicher Prüfung entstehen vollständige Beleganforderung, Haftungsantwort, Teilregulierung oder Vergleich. Position, Zeitraum, Gläubiger, Betrag, Anrechnung, Zukunftsvorbehalt und Frist werden konkret geregelt. Interne Reserve und Quellenprotokoll bleiben vom Empfängertext getrennt.",
@@ -437,6 +522,7 @@
   "independent_source_review": {
     "method": "desk_review",
     "report": "quality/kommunale-haftpflicht/quellenpruefung.json",
-    "scope": "Zweite statische Lektüre der zehn Skills, drei Prompts, Referenzen sowie Falltexte und Tabellen. Kein Modelltest."
+    "scope": "Zweite statische Lektüre der zehn Skills, drei Prompts, Referenzen sowie Falltexte und Tabellen. Kein Modelltest.",
+    "supplement": "quality/kommunale-haftpflicht/geburtsschaden-quellenpruefung.json"
   }
 }

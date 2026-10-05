@@ -1,0 +1,77 @@
+name: 'Würzburg: Nora Winters Geburtsschaden'
+plugin: kommunale-haftpflicht
+stand: '2026-10-05'
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle achtzehn nativen Originalunterlagen sind vorhanden.
+  min: 18
+- id: format-docx
+  check_type: file_count
+  description: 12 native DOCX-Unterlagen sind vorhanden.
+  glob: '*.docx'
+  min: 12
+- id: format-eml
+  check_type: file_count
+  description: 5 native EML-Unterlagen sind vorhanden.
+  glob: '*.eml'
+  min: 5
+- id: format-xlsx
+  check_type: file_count
+  description: 1 native XLSX-Unterlagen sind vorhanden.
+  glob: '*.xlsx'
+  min: 1
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 01_Pruefauftrag.eml
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 04_Gutachten_Geburtshilfe.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 11_Teilvergleich.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 12_Zahlung_und_Schichten.xlsx
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 14_Interne_Modellvereinbarung.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 15_Abrechnung_Rueckdeckung.eml
+- id: fach-mandat
+  check_type: human_review
+  description: Wird allein der Erstversicherer vertreten und der bereits anerkannte
+    Haftungsstand berücksichtigt?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: fach-zahlung
+  check_type: human_review
+  description: Werden Vergleich, Vorschüsse, Schlusszahlung und noch nicht gezahlte
+    Reserve ohne Doppelzählung abgeglichen?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: fach-schichten
+  check_type: human_review
+  description: Werden erstversicherte Leistung, Mitgliedsselbstbehalt, Bruttoausgleich
+    und Rückdeckung mit ihrem jeweiligen Bezugsbetrag und Zahlungsempfänger getrennt?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: fach-quellen
+  check_type: human_review
+  description: Werden Modellparameter als Annahmen erkannt und keine tatsächlichen
+    AKHA-Konditionen oder Mitgliedschaften behauptet?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: fach-zukunft
+  check_type: human_review
+  description: Werden Erwerbsprognose, Vorbehalt, Vertretung und Verjährungsregelung
+    anhand der konkreten Unterlagen geprüft?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: fach-entwurf
+  check_type: human_review
+  description: Liegt ein adressatengerechter interner Antwortentwurf mit konkretem
+    nächsten Schritt vor?
+  note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'

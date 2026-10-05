@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Krankenhausrecht: MD-Prüfung einer Intensivabrechnung in Halle](../testakten/krankenhausrecht-md-intensivabrechnung-halle/README.md) | [Gesamt-PDF](../testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |
+| [Krankenhausrecht: MD-Prüfung einer Intensivabrechnung in Halle](../testakten/krankenhausrecht-md-intensivabrechnung-halle/README.md) | [Gesamt-PDF](../testakten/krankenhausrecht-md-intensivabrechnung-halle/gesamt-pdf/krankenhausrecht-md-intensivabrechnung-halle_gesamt.pdf) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-krankenhausrecht-md-intensivabrechnung-halle.zip) | [`testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-krankenhausrecht-md-intensivabrechnung-halle-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

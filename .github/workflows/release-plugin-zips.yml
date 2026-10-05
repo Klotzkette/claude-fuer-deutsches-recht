@@ -87,6 +87,7 @@ jobs:
           python3 scripts/test-modefuchs-lebensakte.py
           python3 scripts/test-gesellschafter-vorfuehrakten.py
           python3 scripts/test-kommunale-haftpflicht.py
+          python3 scripts/test-geburtsschaden-akte.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
           python3 scripts/test-weg-hausverwaltungsakten.py

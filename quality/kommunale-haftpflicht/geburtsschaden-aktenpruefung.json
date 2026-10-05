@@ -1,0 +1,18 @@
+{
+  "status": "pass",
+  "original_three_cases_native_unchanged": true,
+  "workshop_original_sections_unchanged": true,
+  "additional_integrity_tests": 6,
+  "existing_case_tests_including_zip": 7,
+  "automatic_integration_commands": 17,
+  "new_case_originals": 18,
+  "combined_pdf_pages": 35,
+  "individual_pdf_pages": 22,
+  "visual_review": {
+    "total": 57,
+    "unique": 40,
+    "exact_rgb_duplicates": 17
+  },
+  "native_table_scenarios": 6,
+  "new_case_source_freeze_sha256": "d655c4c673477f2dfd2e9c68fd8d04763db7611abfb9f265c92324c29fd086e6"
+}

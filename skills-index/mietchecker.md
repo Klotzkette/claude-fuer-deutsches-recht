@@ -1,6 +1,6 @@
 # mietchecker
 
-**10 Skills** · Stand `v445.31.0`
+**10 Skills** · Stand `v445.31.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../mietchecker/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

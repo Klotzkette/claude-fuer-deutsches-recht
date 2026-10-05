@@ -1,6 +1,6 @@
 # gesellschafterstreit
 
-**11 Skills** · Stand `v445.31.0`
+**11 Skills** · Stand `v445.31.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gesellschafterstreit/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,6 +1,6 @@
 {
   "name": "bea-versand",
-  "version": "445.31.0",
+  "version": "445.31.1",
   "description": "Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte.",
   "license": "Apache-2.0 OR MIT",
   "author": {

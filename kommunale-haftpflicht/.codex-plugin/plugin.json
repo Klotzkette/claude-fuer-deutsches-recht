@@ -1,7 +1,7 @@
 {
   "name": "kommunale-haftpflicht",
-  "version": "445.31.0",
-  "description": "Kommunale Haftpflichtfälle vom Schadenbericht zur begründeten Regulierung bearbeiten: Gebäude, Veranstaltungen, Rohrbruch, Gewerbeschaden und kommunale Fahrzeuge; Haftung, Deckung und Rückdeckung getrennt prüfen.",
+  "version": "445.31.1",
+  "description": "Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "Kommunale Haftpflicht",
     "shortDescription": "Kommunale Schäden belegt prüfen und regulieren.",
-    "longDescription": "Kommunale Haftpflichtfälle vom Schadenbericht zur begründeten Regulierung bearbeiten: Gebäude, Veranstaltungen, Rohrbruch, Gewerbeschaden und kommunale Fahrzeuge; Haftung, Deckung und Rückdeckung getrennt prüfen.",
+    "longDescription": "Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten.",
     "developerName": "Klotzkette",
     "category": "Productivity",
     "capabilities": [

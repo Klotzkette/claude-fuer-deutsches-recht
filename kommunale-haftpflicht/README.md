@@ -8,7 +8,7 @@
 
 ## 1.1. Was ist das hier?
 
-Kommunale Haftpflichtfälle vom Schadenbericht zur begründeten Regulierung bearbeiten: Gebäude, Veranstaltungen, Rohrbruch, Gewerbeschaden und kommunale Fahrzeuge; Haftung, Deckung und Rückdeckung getrennt prüfen.
+Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten.
 
 Dieses Plugin gehört zum Marketplace mit 275 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
@@ -61,7 +61,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Kompakter Prompt (Schnellstart) | Markdown / identisches TXT | [`kommunale-haftpflicht-schnellstart.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.md) · [`kommunale-haftpflicht-schnellstart.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-schnellstart.txt) |
 | Großer Prompt (Werkstatt) | Markdown / identisches TXT | [`kommunale-haftpflicht-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md) · [`kommunale-haftpflicht-werkstatt.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.txt) |
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md" download>kommunale-haftpflicht-hauptproblem.md</a> · [`kommunale-haftpflicht-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.txt) |
-| Zugeordnete Testakten | PDF / ZIP | [3 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
+| Zugeordnete Testakten | PDF / ZIP | [4 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
 > Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 275 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
@@ -77,14 +77,15 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [1. Würzburg: Die Kehrmaschine am Hallentor](../testakten/akha-wuerzburg-betriebsfahrzeug/README.md) | [Gesamt-PDF](../testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf) | [`testakte-akha-wuerzburg-betriebsfahrzeug.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-betriebsfahrzeug.zip) | [`testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip) |
-| [1. Würzburg: Wasser bei Zimt & Zange](../testakten/akha-wuerzburg-rohrbruch/README.md) | [Gesamt-PDF](../testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) | [`testakte-akha-wuerzburg-rohrbruch.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-rohrbruch.zip) | [`testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
-| [1. Ottilie Kümmel im Bürgerhaus](../testakten/kommunale-haftpflicht-personenschaden/README.md) | [Gesamt-PDF](../testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) | [`testakte-kommunale-haftpflicht-personenschaden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-kommunale-haftpflicht-personenschaden.zip) | [`testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
+| [1. Würzburg: Die Kehrmaschine am Hallentor](../testakten/akha-wuerzburg-betriebsfahrzeug/README.md) | [Gesamt-PDF](../testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf) | [`testakte-akha-wuerzburg-betriebsfahrzeug.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-betriebsfahrzeug.zip) | [`testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip) |
+| [1. Würzburg: Nora Winters Geburtsschaden](../testakten/akha-wuerzburg-geburtsschaden/README.md) | [Gesamt-PDF](../testakten/akha-wuerzburg-geburtsschaden/gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf) | [`testakte-akha-wuerzburg-geburtsschaden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-geburtsschaden.zip) | [`testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
+| [1. Würzburg: Wasser bei Zimt & Zange](../testakten/akha-wuerzburg-rohrbruch/README.md) | [Gesamt-PDF](../testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) | [`testakte-akha-wuerzburg-rohrbruch.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-rohrbruch.zip) | [`testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
+| [1. Ottilie Kümmel im Bürgerhaus](../testakten/kommunale-haftpflicht-personenschaden/README.md) | [Gesamt-PDF](../testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) | [`testakte-kommunale-haftpflicht-personenschaden.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-kommunale-haftpflicht-personenschaden.zip) | [`testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-**Genau zehn Skills** für die konkrete Schadenbearbeitung: neun Fachwege und ein Hauptworkflow. Das Plugin verbindet die Haftungsprüfung mit Belegen, Schadenrechnung und vollständigen Schreiben. Gebäude- und Veranstaltungsschäden, Rohrbruch mit Gewerbeschäden und kommunale Fahrzeuge bilden die Schwerpunkte.
+**Genau zehn Skills** für die konkrete Schadenbearbeitung: neun Fachwege und ein Hauptworkflow. Das Plugin verbindet die Haftungsprüfung mit Belegen, Schadenrechnung und vollständigen Schreiben. Gebäude- und Veranstaltungsschäden, Rohrbruch mit Gewerbeschäden und kommunale Fahrzeuge bilden die Schwerpunkte. Eine ergänzende Großschadenakte behandelt einen Geburtsschaden im kommunalen Krankenhaus und die interne Lastenverteilung.
 
 Haftung gegenüber dem Geschädigten, primäre Deckung beziehungsweise Schadenausgleich und Rückdeckung werden getrennt geprüft. „AKHA-nah“ bezeichnet den möglichen Arbeitskontext. Das Plugin behauptet keine Mitgliedschaft, keine bestimmten Verbandsbedingungen und keine Deckung im Einzelfall.
 
@@ -125,9 +126,9 @@ Mini und Fokus bleiben jeweils unter 7.500 UTF-8-Bytes und Zeichen. Der ausführ
 | Regress und Verjährung sichern | Forderungsbezogene Fristen und konkrete Sicherungstexte. | [SKILL.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/skills/regress-und-verjaehrung-sichern/SKILL.md) |
 | Regulierung und Kommunikation erstellen | Vollständige Briefe, Teilregulierungen, Zurückweisungen und Vergleiche. | [SKILL.md](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=kommunale-haftpflicht/skills/regulierung-und-kommunikation-erstellen/SKILL.md) |
 
-<!-- decimal-anchor --> <a id="drei-kleine-testakten"></a>
+<!-- decimal-anchor --> <a id="vier-testakten"></a>
 
-## 1.9. Drei kleine Testakten
+## 1.9. Vier Testakten
 
 Die Akten eignen sich als einzelne Beispiele innerhalb des Vortrags „Professioneller Einsatz von KI in der Rechtsanwendung: erste Schritte, schnelle Fortschritte, Vorteile und Nachteile, rechtliche Grundlagen“. Sie schreiben keinen ganzen Vortrag und keine bestimmte Vortragsdauer vor. Jede Akte bietet einen konkreten Arbeitsauftrag und überschaubare Originalunterlagen statt einer fertigen Musterlösung.
 
@@ -136,6 +137,7 @@ Die Akten eignen sich als einzelne Beispiele innerhalb des Vortrags „Professio
 | [Personenschaden im Bürgerhaus](../testakten/kommunale-haftpflicht-personenschaden/README.md) | Ottilie Kümmel stürzt im Bürgerhaus der fiktiven Stadt Hainbogen. Ereignisbelege, Kontrollorganisation und konkrete Verletzungsfolgen führen zur nächsten begründeten Antwort. |
 | [Würzburg: Rohrbruch und Gewerbeschaden](../testakten/akha-wuerzburg-rohrbruch/README.md) | Die fiktive Kommunalversorgung Mainbogen bearbeitet den Schaden des Betriebs Zimt & Zange. Anlagenzuordnung und wirtschaftliche Forderungsprüfung werden verbunden. |
 | [Würzburg: Betriebsfahrzeug und Schadenmehrheit](../testakten/akha-wuerzburg-betriebsfahrzeug/README.md) | Ein Fahrzeug der fiktiven Stadtbetriebe Steinbogen betrifft drei Anspruchsteller. Auftraggeber ist der fiktive Versicherer Frankenbogen Kommunalversicherung VVaG, vertreten im Arbeitsauftrag durch Gundula Pfennig; eine Vertretung der Stadtbetriebe wird dadurch nicht unterstellt. |
+| [Würzburg: Geburtsschaden und interne Lastenverteilung](../testakten/akha-wuerzburg-geburtsschaden/README.md) | Ein Kind erhält eine vereinbarte Entschädigung von 13,2 Mio. EUR. Die fiktive Klinik-GmbH steht zu 60 Prozent in kommunalem Eigentum. Behandlungsunterlagen, Vergleich, Zahlungen und Excel-Rechnung trennen Familienansprüche, Mitgliedseigenanteil, AKHA-Modellausgleich und Rückversicherung. Die internen Parameter sind ausschließlich Szenariowerte. |
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -143,15 +145,18 @@ Die Akten eignen sich als einzelne Beispiele innerhalb des Vortrags „Professio
 
 | Testakte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| Personenschaden | [PDF](../testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-kommunale-haftpflicht-personenschaden.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
-| Rohrbruch | [PDF](../testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-rohrbruch.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
-| Betriebsfahrzeug | [PDF](../testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-betriebsfahrzeug.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip) |
+| Personenschaden | [PDF](../testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-kommunale-haftpflicht-personenschaden.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
+| Rohrbruch | [PDF](../testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-rohrbruch.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
+| Betriebsfahrzeug | [PDF](../testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-betriebsfahrzeug.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-betriebsfahrzeug-einzelpdfs.zip) |
+| Geburtsschaden | [PDF](../testakten/akha-wuerzburg-geburtsschaden/gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-geburtsschaden.zip) | [ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="quellen-und-arbeitsmaterial"></a>
 
 ## 1.10. Quellen und Arbeitsmaterial
 
 Die [Rechtsprechungsanker](references/rechtsprechungsanker.md) enthalten zwölf fachlich ausgewählte BGH-Entscheidungen mit amtlichem Volltext, konkreter Stelle und Übertragungsgrenze. Prüfstand ist der **05.10.2026**. Dazu gehört das Urteil vom **10.02.2026 – Az. VI ZR 155/25** zur Abgrenzung von Gespannaußenhaftung und Eigenschäden der Halter. Dieser Anker wird nur bei einer passenden Gespannfrage eingesetzt; eine aktuelle Jahreszahl ersetzt keine Einschlägigkeit.
+
+Die [Klinik-Ergänzung](references/geburtsschaden-und-interner-ausgleich.md) ergänzt konkrete Anker für Kindeserwerbsschaden, Angehörigenpflege, Elternvertretung und interne Großschadenabrechnung. Sie benennt den Umfang der tatsächlich geprüften Quellen und trennt öffentliche Verbandsangaben von den erfundenen Vertragswerten der Akte.
 
 Die [Fallkarte und Belege](references/fallkarte-und-belege.md) ordnen Tatsachen und sensible Daten. Die [Schadenrechnung](references/schadenrechnung-und-mehrpersonenfall.md) trennt Positionen, Anspruchsübergänge und Mehrpersonenfälle. [Deckung und Rückdeckung](references/deckung-und-rueckdeckung.md) führen durch die tatsächlich vorliegenden Bedingungen. Die [Zitierweise](references/zitierweise.md) entspricht unverändert dem zentralen Standard.
 

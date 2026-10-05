@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-05",
+  "method": "independent_source_and_content_review",
+  "scope": "Gezielte Erweiterung der bestehenden drei Akten um eine vierte; keine erneute Vollprüfung des gesamten Repositorys.",
+  "decisions": [
+    {
+      "decision": "VI_ZR_186-08",
+      "decision_date": "2010-10-05",
+      "official_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2008/VI_ZR_186-08.pdf?__blob=publicationFile&v=1",
+      "retrieved": "2026-10-05",
+      "bytes": 126697,
+      "pdf_header_verified": true,
+      "text_file": "/tmp/kommunale-geburtsschaden-20261005/sources/VI_ZR_186-08.txt",
+      "verified_paragraphs": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "extraction_chars": 34809,
+      "source_pdf_sha256": "c7f3743ef9cd315d4e2ef5ae5a70897625bc4da68e2fe2069de495155cfdc067"
+    },
+    {
+      "decision": "VI_ZR_377-17",
+      "decision_date": "2019-04-09",
+      "official_url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2017/VI_ZR_377-17.pdf?__blob=publicationFile&v=1",
+      "retrieved": "2026-10-05",
+      "bytes": 164886,
+      "pdf_header_verified": true,
+      "text_file": "/tmp/kommunale-geburtsschaden-20261005/sources/VI_ZR_377-17.txt",
+      "verified_paragraphs": [
+        "14"
+      ],
+      "extraction_chars": 16015,
+      "source_pdf_sha256": "3eb21c6f0a3678955fe9b8fa24a8eeac604c91aaeeb90e52641052f413b47f0d"
+    }
+  ],
+  "norms": [
+    "§630a Abs.2 BGB",
+    "§630h BGB",
+    "§§252,842,843 BGB",
+    "§287 ZPO",
+    "§116 SGBX",
+    "§§ 1629, 1643 Abs. 5, 1854 BGB",
+    "§202 BGB"
+  ],
+  "institutional_sources": [
+    {
+      "url": "https://www.badk.de/kommunalversicherung/",
+      "supports": "Öffentlich beschriebener kommunaler Kreis und AKHA-Rückdeckung im Umlageverfahren; kein Individualvertrag."
+    },
+    {
+      "url": "https://www.ksa-hadg.de/portal/cms/show?pageName=cms.herkunft.oeffentlich.ksa",
+      "supports": "Öffentliche Darstellung kommunaler Krankenhäuser mit mindestens 50 Prozent Beteiligung."
+    },
+    {
+      "url": "https://www.ksa-hadg.de/portal/cms/show?pageName=cms.organisation.oeffentlich.hadg",
+      "supports": "AKHA-Großschadenverteilung und eigene Rückversicherung; keine konkreten Prioritäten."
+    }
+  ],
+  "reviewed_files": [
+    {
+      "path": "scripts/geburtsschaden_akte_daten.py",
+      "sha256": "dda480fb71ab926342ac7246d413c65b4c1b34260ca532916b51bbec5098eb02"
+    },
+    {
+      "path": "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+      "sha256": "14ac764935ad37a2ff3dc8ad2f1bbf003cabc8034fb81db5310bf3a06e3163df"
+    },
+    {
+      "path": "kommunale-haftpflicht/references/geburtsschaden-und-interner-ausgleich.md",
+      "sha256": "e8e91cdfee2f776844fbf55ab0490e6363ed30182c7a16c64a916c58e0cc97bc"
+    }
+  ],
+  "corrections": [
+    "Elternvergleich nicht allein aufgrund der Höhe als genehmigungspflichtig behandelt.",
+    "Anerkenntnis und Verjährungsverzicht mit Parteien, Zeitbezug und ausdrücklicher Fortgeltung für vorbehaltene Ansprüche präzisiert.",
+    "Vergleichskapital als verhandelt dargestellt; Kontrollquotienten nicht als versicherungsmathematisches Modell ausgegeben.",
+    "Reserve für Drittregresse von Kindeszahlung, interner Erstattung und vorhersehbaren abgefundenen Pflegebedarfen abgegrenzt."
+  ],
+  "limits": [
+    "Alle Aktenfakten und Vertragsparameter sind erfunden.",
+    "Kein individuelles AKHA-Regelwerk verifiziert; öffentliche Strukturangaben sind kein Deckungsnachweis.",
+    "Technische Formel-, MIME-, PDF- und Archivprüfung wird gesondert dokumentiert.",
+    "Keine allgemeine juristische Fehlerfreiheit und kein ungeprüfter Modelltest behauptet."
+  ],
+  "final_case_review": "Die ursprünglichen Kontrollfaktoren wurden als bloße Quotienten der ausgehandelten Beträge präzisiert; die 650.000 EUR-Reserve betrifft nun ausdrücklich Drittregresse. Diese Endfassung wurde erneut gelesen. Keine bereits vorhersehbaren Nacht-/Transferbedarfe als automatisch vorbehaltenen Zukunftsschaden eingeordnet."
+}

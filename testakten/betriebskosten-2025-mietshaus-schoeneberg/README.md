@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/betriebskosten-2025-mietshaus-schoeneberg_gesamt.pdf`](gesamt-pdf/betriebskosten-2025-mietshaus-schoeneberg_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebskosten-2025-mietshaus-schoeneberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-betriebskosten-2025-mietshaus-schoeneberg.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betriebskosten-2025-mietshaus-schoeneberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-betriebskosten-2025-mietshaus-schoeneberg.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -46,8 +46,8 @@ Nur eine der drei Fassungen in denselben Arbeitsordner übernehmen, damit Rechnu
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Alle Unterlagen lesen](gesamt-pdf/betriebskosten-2025-mietshaus-schoeneberg_gesamt.pdf) |
-| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-betriebskosten-2025-mietshaus-schoeneberg.zip) |
-| Einzelne PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.0/testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip) |
+| Originalformate | [Flaches Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-betriebskosten-2025-mietshaus-schoeneberg.zip) |
+| Einzelne PDFs | [Flaches Einzel-PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-betriebskosten-2025-mietshaus-schoeneberg-einzelpdfs.zip) |
 
 Beide ZIPs enthalten eine zweisprachige `README.txt`, jedoch keine Unterordner. Im Originalformat-ZIP bleiben Tabellen bearbeitbar und E-Mails als EML erhalten. Es enthält kein Markdown. Im Einzel-PDF-ZIP wird jedes Quelldokument getrennt ausgegeben.
 
