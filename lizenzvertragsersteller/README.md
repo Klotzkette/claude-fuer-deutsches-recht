@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Softwarelizenz für Pumpenfenster in Bremen](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/README.md) | [Gesamt-PDF](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/gesamt-pdf/vertragserstellung-softwarelizenz-pumpen-bremen_gesamt.pdf) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip) |
+| [Softwarelizenz für Pumpenfenster in Bremen](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/README.md) | [Gesamt-PDF](../testakten/vertragserstellung-softwarelizenz-pumpen-bremen/gesamt-pdf/vertragserstellung-softwarelizenz-pumpen-bremen_gesamt.pdf) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-vertragserstellung-softwarelizenz-pumpen-bremen.zip) | [`testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-vertragserstellung-softwarelizenz-pumpen-bremen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

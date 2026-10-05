@@ -75,3 +75,32 @@ checks:
   description: Liegt ein adressatengerechter interner Antwortentwurf mit konkretem
     nächsten Schritt vor?
   note: 'Offen: Kriterium für eine spätere juristische Bearbeitung; keine Musterlösung.'
+- id: vertiefung-datei-1
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Klinik_Abschlussbrief.docx
+- id: vertiefung-datei-2
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Klinik_Abschlussbrief.pdf
+- id: vertiefung-datei-3
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Erstversicherer_Schichtenbrief.docx
+- id: vertiefung-datei-4
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Erstversicherer_Schichtenbrief.pdf
+- id: vertiefung-datei-5
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/03_Rueckversicherer_Pruefstand.eml
+- id: vertiefung-datei-6
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/04_Klinik_Gesellschafterbericht.eml
+- id: vertiefung-rollen
+  check_type: human_review
+  description: Werden Außenhaftung, Zuständigkeitsauskunft, Primärdeckung und Rückdeckung
+    anhand der konkret vorliegenden Unterlagen getrennt?
+  note: Offene Anwendungsprüfung; kein automatisch festgestelltes Ergebnis.

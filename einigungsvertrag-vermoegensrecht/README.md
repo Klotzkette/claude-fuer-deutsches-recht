@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Einheitsvertragsakte Lindenau](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/README.md) | [Gesamt-PDF](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip) |
+| [Einheitsvertragsakte Lindenau](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/README.md) | [Gesamt-PDF](../testakten/einigungsvertrag-treuhand-mauergrundstueck-lindenau/gesamt-pdf/einigungsvertrag-treuhand-mauergrundstueck-lindenau_gesamt.pdf) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau.zip) | [`testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-einigungsvertrag-treuhand-mauergrundstueck-lindenau-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

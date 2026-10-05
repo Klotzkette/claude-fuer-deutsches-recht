@@ -1,0 +1,33 @@
+# 1. Kita, Feuerwehr und Kreisstraße
+
+Prüfstand: 5. Oktober 2026. Die folgenden Anker wurden anhand der amtlichen Entscheidungsvolltexte und der einschlägigen Normtexte geprüft. Sie steuern die drei zusätzlichen Testakten; ein Treffer mit neuer Jahreszahl wird nicht ohne sachlichen Bezug übernommen. Vertragswerte der Übungsakten sind ausschließlich erfundene Szenariobedingungen.
+
+## 1.1. Fehlender Betreuungsplatz
+
+[BGH, Urteil vom 20.10.2016 – Az. III ZR 278/15](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR_278-15.pdf?__blob=publicationFile&v=1), insbesondere Rn. 17–19, 24–27 und 34–43: Die Amtspflicht zur rechtzeitigen Bereitstellung eines geeigneten Platzes kann auch das Erwerbsinteresse der Eltern schützen. Der Anspruch ist nicht von vornherein auf vorhandene Kapazität begrenzt. Für die Verschuldensprüfung kann ein widerlegbarer Anscheinsbeweis Bedeutung gewinnen; eine verschuldensunabhängige Erfolgshaftung folgt daraus nicht.
+
+Im Fall „Leni Sauermilch“ sind zuerst der eigene Verdienstausfall der Mutter und der Betreuungsanspruch des Kindes zu trennen. Die rechtzeitige Bedarfsanmeldung, konkrete Arbeitszeiten, alternative Tagespflege, Personalplanung und der tatsächlich geführte Primärrechtsschutz werden einzeln ausgewertet. Der Landkreis ist nach [Art. 15 AGSG](https://www.gesetze-bayern.de/Content/Document/BayAGSG-15) örtlicher Jugendhilfeträger; die kreisangehörige Gemeinde wird nicht allein wegen ihrer eigenen Einrichtung zum Ersatzschuldner des Kreisjugendamts. Grundlage des Betreuungsanspruchs ist [§ 24 Abs. 2 SGB VIII](https://www.gesetze-im-internet.de/sgb_8/__24.html), des Schadensersatzes § 839 BGB in Verbindung mit Art. 34 GG.
+
+[OLG Brandenburg, Beschluss vom 20.02.2024 – Az. 2 W 3/24](https://gerichtsentscheidungen.brandenburg.de/gerichtsentscheidung/24287), Gründe unter 2 c, ergänzt die Prüfung tatsächlich möglicher Rechtsbehelfe. Der Beschluss betrifft Prozesskostenhilfe; er wird nicht als Haftungsurteil im neuen Fall behandelt. Das dort zusätzlich geprüfte brandenburgische Staatshaftungsgesetz gilt nicht in Bayern. Ersparte Betreuungskosten und variable Fahrtkosten sind konkret zu berechnen; Kindergeld wird nicht ohne Ausfallbezug abgezogen.
+
+## 1.2. Wasser nach dem Feuerwehreinsatz
+
+[BGH, Urteil vom 14.06.2018 – Az. III ZR 54/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2017/III_ZR__54-17.pdf?__blob=publicationFile&v=1), insbesondere Rn. 47 und 53: Bei professioneller Gefahrenabwehr durch die Feuerwehr gilt grundsätzlich der allgemeine Fahrlässigkeitsmaßstab. § 680 BGB begründet nicht pauschal eine Beschränkung auf grobe Fahrlässigkeit. Die Entscheidung ersetzt jedoch nicht die Prüfung der konkreten Einsatzlage und ihrer vertretbaren Handlungsmöglichkeiten.
+
+Im Fall „Wasser nach dem Einsatz“ wird die notwendige Brandbekämpfung vom behaupteten späteren Rückbaufehler getrennt. Das Ende der akuten Gefahrenlage, der Zustand von Leitung und Schlauch, die Anweisungen und der Zeitpunkt des Wassereintritts müssen belegt werden. Die Gemeinde bleibt nicht allein deshalb der richtige Haftungsträger, weil ihr Name zuerst fällt: Es sind die Aufgaben und tatsächlichen Leitungsbefugnisse nach [Art. 1](https://www.gesetze-bayern.de/Content/Document/BayFwG-1), [Art. 18](https://www.gesetze-bayern.de/Content/Document/BayFwG-18), [Art. 25](https://www.gesetze-bayern.de/Content/Document/BayFwG-25) und [Art. 27 BayFwG](https://www.gesetze-bayern.de/Content/Document/BayFwG-27) am Akteninhalt abzugleichen. Die Landkreisauskunft schafft keine eigene Einsatzleitung, wenn sie tatsächlich nicht bestand.
+
+Der Inhaber des Einzelunternehmens klagt im eigenen Namen. Reparatur, Ersatzbeschaffung und Ausfallschaden dürfen nicht doppelt addiert werden. Bei bestehendem Vorsteuerabzug ist die vorgelegte Bruttorechnung nicht automatisch die ersatzfähige Forderung. Angaben über Versicherung, Zahlung oder Rückdeckungsreserve sind kein Beweis einer Amtspflichtverletzung.
+
+## 1.3. Baum an der Kreisstraße
+
+[BGH, Urteil vom 06.03.2014 – Az. III ZR 352/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2013/III_ZR_352-13.pdf?__blob=publicationFile&v=1), Rn. 7–8 und 12: Die Verkehrssicherung richtet sich nach erkennbaren konkreten Gefahren; die natürliche Möglichkeit eines Astabbruchs gesunder Bäume ist keine allgemeine Garantiehaftung. Im neuen Fall sind demgegenüber ein dokumentierter Pilzbefund, frühere Hinweise, Kontrollintervalle und die ausgebliebene vertiefte Untersuchung zu prüfen. Die Entscheidung begründet keinen Automatismus zugunsten einer der Parteien.
+
+Für die Kreisstraße sind [Art. 9 Abs. 5](https://www.gesetze-bayern.de/Content/Document/BayStrWG-9), [Art. 41 Satz 1 Nr. 2](https://www.gesetze-bayern.de/Content/Document/BayStrWG-41) und [Art. 44 Abs. 2 Satz 1 BayStrWG](https://www.gesetze-bayern.de/Content/Document/BayStrWG-44) zusammen zu lesen. Ein Vertrag, durch den ein kommunaler Bauhof Kontrollen ausführt, überträgt nicht ohne Weiteres die gesetzliche Straßenbaulast oder die Außenhaftung. Kontrollauftrag, Weisungen, Berichte und eigene Entscheidungspflichten des Landkreises sind getrennt festzustellen.
+
+Der Zahlungsantrag erfasst konkret bezifferte eigene Schäden. Ein Feststellungsantrag muss weitere bereits entstandene und künftige materielle Schäden ohne unbeabsichtigte Zeitlücke behandeln und Anspruchsübergänge, insbesondere nach § 116 SGB X, ausnehmen. Eine Reserve von 1,35 Mio. EUR ist weder Klagesumme noch zugesagte Leistung. Die Rückversichererkommunikation setzt die konkrete Meldeschwelle des erfundenen Vertrags voraus; die verletzte Person verfolgt ihren Anspruch gegen den Haftungsschuldner.
+
+## 1.4. Ausformulierte Klageentwürfe verwenden
+
+Die Klagen enthalten überprüfbare Anträge, Parteizuordnung, Sachverhalt, konkrete Beweisangebote, Rechtsbegründung und dateibezogene Anlagenverzeichnisse. Sie sind nicht eingereicht. Fristablauf, Zustellung und Zahlung werden nicht vorweggenommen. Amtshaftungssachen gehören nach § 71 Abs. 2 Nr. 2 GVG unabhängig vom Streitwert zum Landgericht; für andere Ansprüche ist die tatsächlich geltende Zuständigkeitsregel gesondert anzuwenden.
+
+Zum Üben zuerst den Akteneingang ohne den Entwurf bearbeiten. Anschließend den eigenen Text mit dem vorhandenen Entwurf vergleichen: Stimmen Gegner, eigener Anspruch, Belege, Rechnung, Gegenargumente, Prozesszinsen und offene Tatsachen? Derselbe Brief in Word, PDF und als E-Mail-Anlage bleibt ein Beleg. Die Quellenprüfungen zu den einzelnen Gruppen sind zusätzlich unter `quality/kommunale-haftpflicht/vertiefung-*-quellen.md` dokumentiert.

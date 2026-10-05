@@ -1,6 +1,6 @@
 # startup-hr-personalabteilung-berlin
 
-**112 Skills** · Stand `v445.31.3`
+**112 Skills** · Stand `v445.31.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../startup-hr-personalabteilung-berlin/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

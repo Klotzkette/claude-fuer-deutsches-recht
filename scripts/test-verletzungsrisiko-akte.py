@@ -19,6 +19,8 @@ import yaml
 
 from verletzungsrisiko_akte_daten import SLUG, TITLE, DOCUMENTS, TEXTS, CSV_NAME, ATTACHMENTS
 from testakte_disclaimer import NOTICE_BYTES
+from testakte_zip_common import working_dump_archive_pairs
+from testakte_einzelpdf_common import document_arcname_pairs
 
 ROOT = Path(__file__).resolve().parents[1]
 CASE = ROOT/'testakten'/SLUG
@@ -113,7 +115,7 @@ class Verletzungsrisiko(unittest.TestCase):
             names = archive.namelist()
             self.assertEqual(len(names), len(set(names)))
             self.assertFalse(any('/' in n or '\\' in n for n in names))
-            self.assertEqual(set(names), NAMES | {PDF.name, 'README.txt'})
+            self.assertEqual(set(names), {arc for p,arc in working_dump_archive_pairs(CASE, include_gesamt_pdf=True)} | {'README.txt'})
             self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
             for name in NAMES:
                 self.assertEqual(archive.read(name), (CASE/name).read_bytes())
@@ -125,7 +127,7 @@ class Verletzungsrisiko(unittest.TestCase):
             self.skipTest('Archivprüfung benötigt VERLETZUNG_PAKETE oder dist')
         with zipfile.ZipFile(path) as archive:
             names = archive.namelist()
-            self.assertEqual(set(names), {Path(n).stem+'.pdf' for n in NAMES} | {'README.txt'})
+            self.assertEqual(set(names), {arc for p,arc in document_arcname_pairs(CASE)} | {'README.txt'})
             self.assertFalse(any('/' in n or '\\' in n for n in names))
             self.assertTrue(archive.read('README.txt').startswith(NOTICE_BYTES))
             for name in names:

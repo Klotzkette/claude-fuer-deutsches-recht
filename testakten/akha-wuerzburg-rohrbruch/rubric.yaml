@@ -88,3 +88,32 @@ checks:
     oder unbeauftragten Versand vor?
   note: 'Offen: Kriterium für eine spätere Bearbeitung. Die technische Bestandsprüfung
     bewertet keine juristische Modellausgabe.'
+- id: vertiefung-datei-1
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Versorger_Anmeldung.docx
+- id: vertiefung-datei-2
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Versorger_Anmeldung.pdf
+- id: vertiefung-datei-3
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Versicherer_Vertragsstand.docx
+- id: vertiefung-datei-4
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Versicherer_Vertragsstand.pdf
+- id: vertiefung-datei-5
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/03_Archiv_Weiterleitung.eml
+- id: vertiefung-datei-6
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/04_Rueckversicherung_Einordnung.eml
+- id: vertiefung-rollen
+  check_type: human_review
+  description: Werden Außenhaftung, Zuständigkeitsauskunft, Primärdeckung und Rückdeckung
+    anhand der konkret vorliegenden Unterlagen getrennt?
+  note: Offene Anwendungsprüfung; kein automatisch festgestelltes Ergebnis.

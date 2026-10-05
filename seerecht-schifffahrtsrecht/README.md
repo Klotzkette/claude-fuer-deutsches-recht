@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Schifffahrtsakte](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/README.md) | [Gesamt-PDF](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf) | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip) | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip) |
+| [Schifffahrtsakte](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/README.md) | [Gesamt-PDF](../testakten/seerecht-schiffshypothek-werft-wrack-bermuda/gesamt-pdf/seerecht-schiffshypothek-werft-wrack-bermuda_gesamt.pdf) | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-seerecht-schiffshypothek-werft-wrack-bermuda.zip) | [`testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-seerecht-schiffshypothek-werft-wrack-bermuda-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

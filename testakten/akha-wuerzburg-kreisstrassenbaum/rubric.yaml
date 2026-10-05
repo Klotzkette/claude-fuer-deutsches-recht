@@ -1,0 +1,91 @@
+id: akha-wuerzburg-kreisstrassenbaum
+title: Wunibaldine Seifert und der Kreisstraßenbaum
+plugin: kommunale-haftpflicht
+checks:
+- id: vertiefung-datei-1
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Pruefauftrag.eml
+- id: vertiefung-datei-2
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Unfall_und_Zeugen.docx
+- id: vertiefung-datei-3
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/03_Strasse_und_Kontrollvertrag.docx
+- id: vertiefung-datei-4
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/04_Baumkontrolle.docx
+- id: vertiefung-datei-5
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/05_Behandlung_und_Prognose.docx
+- id: vertiefung-datei-6
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/06_Eigenaufwand.docx
+- id: vertiefung-datei-7
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/07_Versicherungsmodell.docx
+- id: vertiefung-datei-8
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/08_Gemeinde_Warnmeldung.eml
+- id: vertiefung-datei-9
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/09_Landkreis_Antwort.docx
+- id: vertiefung-datei-10
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/09_Landkreis_Antwort.pdf
+- id: vertiefung-datei-11
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/10_Versicherer_Reservebrief.docx
+- id: vertiefung-datei-12
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/10_Versicherer_Reservebrief.pdf
+- id: vertiefung-datei-13
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/11_Rueckversicherungsanfrage.eml
+- id: vertiefung-datei-14
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/12_Rueckversicherer_Antwort.docx
+- id: vertiefung-datei-15
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/12_Rueckversicherer_Antwort.pdf
+- id: vertiefung-datei-16
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/13_Anspruchsschreiben.docx
+- id: vertiefung-datei-17
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/13_Anspruchsschreiben.pdf
+- id: vertiefung-datei-18
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/14_Landkreis_Fristantwort.eml
+- id: vertiefung-datei-19
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/15_Abstimmung_Erstversicherer.eml
+- id: vertiefung-datei-20
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/16_Klageentwurf_Seifert.docx
+- id: vertiefung-rollen
+  check_type: human_review
+  description: Werden Außenhaftung, Zuständigkeitsauskunft, Primärdeckung und Rückdeckung
+    anhand der konkret vorliegenden Unterlagen getrennt?
+  note: Offene Anwendungsprüfung; kein automatisch festgestelltes Ergebnis.
+name: Wunibaldine Seifert und der Kreisstraßenbaum
+stand: '2026-10-05'

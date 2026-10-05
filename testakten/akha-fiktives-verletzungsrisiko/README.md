@@ -21,16 +21,42 @@ Für einen kurzen Einstieg reichen zunächst diese sechs Unterlagen:
 - [09_Kassenforderung.eml](09_Kassenforderung.eml)
 - [11_Insassenforderung.eml](11_Insassenforderung.eml)
 
-Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfrage. Die Arbeitsdateien enthalten keine Musterlösung, keine Bewertungsmatrix und keine abgeschriebene Seminarfolie.
+Die weiteren Belege dienen der anschließenden Bearbeitung und gezielten Rückfrage. Der ursprüngliche Akteneingang enthält keine Musterlösung, Bewertungsmatrix oder abgeschriebene Seminarfolie. Der später ergänzte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück zur Gegenprüfung.
+
+<!-- BEGIN kommunale-vertiefung -->
+
+<!-- decimal-anchor --> <a id="vertiefter-schriftwechsel-und-bearbeitbare-briefe"></a>
+
+## 1.2. Vertiefter Schriftwechsel und bearbeitbare Briefe
+
+25 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 43 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+
+Der neue Klageentwurf betrifft allein Ottokar Wolkenbein gegen die Stadt Lindenquell und 636,20 EUR als vorläufige Wertvorstellung. Die Forderungen Pimpinellas und der Krankenkasse werden nicht eingeklagt. Die 79 EUR für die Wellnessmassage bleiben außerhalb des Zahlungsantrags. Die Klägervertretung Rhabarber ist von der bereits beauftragten Versicherervertretung Knister getrennt. Die vorhandenen Quellen werden nicht um eine gesicherte Verletzungsdiagnose oder ein ärztlich angeordnetes Taxi ergänzt. Für diesen kleinen Vorgang wird keine erfundene Einzelkorrespondenz mit einem Rückversicherer angelegt.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Inhalt |
+| --- | --- |
+| [01_Wolkenbein_an_Anwaeltin.eml](kommunikation-und-deckung/01_Wolkenbein_an_Anwaeltin.eml) | Mein Auftrag und die Fahrt zu Frau Dr Kicher |
+| [02_Bestand_an_Schadenstelle.eml](kommunikation-und-deckung/02_Bestand_an_Schadenstelle.eml) | KH 26 914 – Bestätigung und Abgrenzung des Meldewegs |
+| [03_Anspruch_Rhabarber.docx](kommunikation-und-deckung/03_Anspruch_Rhabarber.docx) · [PDF](kommunikation-und-deckung/03_Anspruch_Rhabarber.pdf) | Wolkenbein gegen Stadt Lindenquell – Eigenforderung |
+| [04_Versicherer_an_Stadt.docx](kommunikation-und-deckung/04_Versicherer_an_Stadt.docx) · [PDF](kommunikation-und-deckung/04_Versicherer_an_Stadt.pdf) | Rangierunfall am Bürgerhaus – Stand der getrennten Forderungen |
+| [05_Klageentwurf_Wolkenbein.docx](kommunikation-und-deckung/05_Klageentwurf_Wolkenbein.docx) | Klageentwurf Wolkenbein gegen Stadt Lindenquell |
+
+Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den jeweiligen Entscheidungsstand. Eine Reserve ist keine Zahlung; eine Deckungsprüfung ist kein Haftungsanerkenntnis. Eine Rückversichereranfrage setzt einen konkreten Meldeanlass voraus. Bei kleinen Vorgängen bleibt es deshalb bei der Bearbeitung zwischen Versicherungsnehmer und Erstversicherer. Kein Schreiben wurde wirklich versandt und keine Klage eingereicht.
+
+<!-- END kommunale-vertiefung -->
 
 <!-- decimal-anchor --> <a id="downloads"></a>
 
-## 1.2. Downloads
+## 1.3. Downloads
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
 <!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
 
-## 1.3. Akte komplett herunterladen
+## 1.4. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
 
@@ -43,8 +69,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-fiktives-verletzungsrisiko_gesamt.pdf`](gesamt-pdf/akha-fiktives-verletzungsrisiko_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-fiktives-verletzungsrisiko.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-fiktives-verletzungsrisiko.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-fiktives-verletzungsrisiko.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-fiktives-verletzungsrisiko.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-fiktives-verletzungsrisiko-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -52,13 +78,13 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Das Gesamt-PDF enthält 28 Seiten. 18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Beide ZIPs sind flach, ohne Unterordner. Das Originalpaket enthält kein Markdown. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
+Das aktualisierte Gesamt-PDF umfasst 43 Seiten. Der unveränderte Grundbestand umfasst Der unveränderte Grundbestand umfasst 18 Originale: zehn Word-Dokumente, fünf E-Mails, zwei Textdateien und eine CSV-Datei. Beide ZIPs sind flach, ohne Unterordner. Das Originalpaket enthält kein Markdown. Die drei Quittungen sind getrennte Dokumente, ebenso die Behandlungsberichte der beiden Insassen. E-Mail-Anlagen sind tatsächlich beigefügt und bytegleich mit den einzeln abgelegten Dateien; sie sind keine zusätzlichen Belege oder Schäden. Die ZIPs enthalten den zweisprachigen Hinweis in README.txt; die PDFs selbst enthalten keine Warnseite.
 
-English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the flat archive of native files, or one PDF per source document. No answer key is included. Each archive contains a bilingual notice in README.txt.
+English: One incident, two occupants, separate medical records and claims. Start with the instruction email. Choose the combined reading PDF, the flat archive of native files, or one PDF per source document. The original case intake contains no answer key; a separately requested draft statement of claim is included for review. Each archive contains a bilingual notice in README.txt.
 
 <!-- decimal-anchor --> <a id="unterlagen"></a>
 
-## 1.4. Unterlagen
+## 1.5. Unterlagen
 
 | Datei | Inhalt |
 | --- | --- |
@@ -83,7 +109,7 @@ English: One incident, two occupants, separate medical records and claims. Start
 
 <!-- decimal-anchor --> <a id="herkunft-und-einordnung"></a>
 
-## 1.5. Herkunft und Einordnung
+## 1.6. Herkunft und Einordnung
 
 <!-- reserved-example-contacts -->
 

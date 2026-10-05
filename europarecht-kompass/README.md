@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage](../testakten/europarecht-kompass-beihilfe-richtlinie/README.md) | [Gesamt-PDF](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-europarecht-kompass-beihilfe-richtlinie.zip) | [`testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip) |
+| [Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage](../testakten/europarecht-kompass-beihilfe-richtlinie/README.md) | [Gesamt-PDF](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [`testakte-europarecht-kompass-beihilfe-richtlinie.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-europarecht-kompass-beihilfe-richtlinie.zip) | [`testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-europarecht-kompass-beihilfe-richtlinie-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

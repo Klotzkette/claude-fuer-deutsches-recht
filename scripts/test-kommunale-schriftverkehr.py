@@ -2,6 +2,7 @@
 """Prüft vollständige Schriftsätze, reale Belegzuordnung, MIME, PDF und Exportbestand."""
 from pathlib import Path
 import hashlib,importlib.util,io,json,os,re,sys,unittest,zipfile
+from collections import Counter
 from email import policy
 from email.parser import BytesParser
 from email.utils import parsedate_to_datetime,getaddresses
@@ -70,7 +71,9 @@ class SchriftverkehrTest(unittest.TestCase):
  def test_full_pdf_navigation_for_every_original(self):
   for c in cases():
    root=directory(c);pdf=PdfReader(root/'gesamt-pdf'/f"{c['slug']}_gesamt.pdf");outlines={item.title:pdf.get_destination_page_number(item) for item in pdf.outline if not isinstance(item,list)};pairs=document_arcname_pairs(root)
-   self.assertEqual(set(outlines),{p.relative_to(root).with_suffix('').as_posix() for p,a in pairs})
+   stems=Counter(p.relative_to(root).with_suffix('').as_posix() for p,a in pairs)
+   expected={p.relative_to(root).as_posix() if stems[p.relative_to(root).with_suffix('').as_posix()]>1 else p.relative_to(root).with_suffix('').as_posix() for p,a in pairs}
+   self.assertEqual(set(outlines),expected)
    for d in c['documents']:
     n=FOLDER+'/'+str(Path(filename(d)).with_suffix(''));page=outlines[n];self.assertIn(norm(d['title']),norm(pdf.pages[page].extract_text() or ''),n)
  @unittest.skipUnless(os.environ.get('KOMMUNALE_SCHRIFTVERKEHR_ZIPS'),'Archive separat bereitstellen')

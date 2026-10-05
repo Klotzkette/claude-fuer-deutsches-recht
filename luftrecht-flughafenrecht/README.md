@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Luftrechtsakte](../testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen/README.md) | [Gesamt-PDF](../testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen/gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) | [`testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip) | [`testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip) |
+| [Luftrechtsakte](../testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen/README.md) | [Gesamt-PDF](../testakten/luftrecht-airline-insolvenz-flugzeugpfand-flughafen/gesamt-pdf/luftrecht-airline-insolvenz-flugzeugpfand-flughafen_gesamt.pdf) | [`testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen.zip) | [`testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-luftrecht-airline-insolvenz-flugzeugpfand-flughafen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

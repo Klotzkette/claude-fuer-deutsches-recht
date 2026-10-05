@@ -1,6 +1,6 @@
 # agb-recht-pruefer
 
-**273 Skills** · Stand `v445.31.3`
+**273 Skills** · Stand `v445.31.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../agb-recht-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [BWA-Vergleich 2024 und 2025: Mainfrucht Spezialitätenhandel GmbH Nürnberg](../testakten/steuerrecht-bwa-vergleich-nuernberg/README.md) | [Gesamt-PDF](../testakten/steuerrecht-bwa-vergleich-nuernberg/gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) | [`testakte-steuerrecht-bwa-vergleich-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) | [`testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |
+| [BWA-Vergleich 2024 und 2025: Mainfrucht Spezialitätenhandel GmbH Nürnberg](../testakten/steuerrecht-bwa-vergleich-nuernberg/README.md) | [Gesamt-PDF](../testakten/steuerrecht-bwa-vergleich-nuernberg/gesamt-pdf/steuerrecht-bwa-vergleich-nuernberg_gesamt.pdf) | [`testakte-steuerrecht-bwa-vergleich-nuernberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-steuerrecht-bwa-vergleich-nuernberg.zip) | [`testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-steuerrecht-bwa-vergleich-nuernberg-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

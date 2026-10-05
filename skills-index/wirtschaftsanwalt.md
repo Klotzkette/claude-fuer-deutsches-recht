@@ -1,6 +1,6 @@
 # wirtschaftsanwalt
 
-**10 Skills** · Stand `v445.31.3`
+**10 Skills** · Stand `v445.31.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../wirtschaftsanwalt/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

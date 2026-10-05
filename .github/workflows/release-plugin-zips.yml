@@ -90,6 +90,7 @@ jobs:
           python3 scripts/test-geburtsschaden-akte.py
           python3 scripts/test-kommunale-alltagsakten.py
           python3 scripts/test-kommunale-schriftverkehr.py
+          python3 scripts/test-kommunale-vertiefung.py
           python3 scripts/test-verletzungsrisiko-akte.py
           python3 scripts/test-office-resilience.py
           python3 scripts/test-testakten-email-quality.py
@@ -321,6 +322,7 @@ jobs:
           KOMMUNALE_HAFTPFLICHT_ZIPS=dist python3 scripts/test-kommunale-haftpflicht.py
           KOMMUNALE_ALLTAG_ZIPS=dist python3 scripts/test-kommunale-alltagsakten.py
           KOMMUNALE_SCHRIFTVERKEHR_ZIPS=dist python3 scripts/test-kommunale-schriftverkehr.py
+          KOMMUNALE_VERTIEFUNG_ZIPS=dist python3 scripts/test-kommunale-vertiefung.py
           VERLETZUNG_PAKETE=dist python3 scripts/test-verletzungsrisiko-akte.py
 
       - name: Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)

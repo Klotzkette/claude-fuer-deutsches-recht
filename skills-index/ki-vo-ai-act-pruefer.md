@@ -1,6 +1,6 @@
 # ki-vo-ai-act-pruefer
 
-**123 Skills** · Stand `v445.31.3`
+**123 Skills** · Stand `v445.31.4`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-vo-ai-act-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

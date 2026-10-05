@@ -1164,7 +1164,7 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             helper = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(helper)
             helper.add_release_bookmarks(writer, testakte_dir)
-        if (name.startswith("akha-wuerzburg-") or name == "kommunale-haftpflicht-personenschaden") and (testakte_dir / "schriftverkehr-und-klage").is_dir():
+        if (name.startswith("akha-wuerzburg-") or name in {"kommunale-haftpflicht-personenschaden", "akha-fiktives-verletzungsrisiko"}) and ((testakte_dir / "schriftverkehr-und-klage").is_dir() or (testakte_dir / "kommunikation-und-deckung").is_dir()):
             import importlib.util
             helper_path = Path(__file__).with_name("build-kommunale-schriftverkehr.py")
             spec = importlib.util.spec_from_file_location("kommunaler_schriftverkehr_pdf", helper_path)

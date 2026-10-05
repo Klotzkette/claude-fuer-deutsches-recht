@@ -120,19 +120,24 @@ Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher 
 
 def add_release_bookmarks(writer,directory):
     from testakte_einzelpdf_common import document_arcname_pairs
+    from collections import Counter
     compact=lambda s:re.sub(r'\s+','',s)
     headers=[]
     for page in writer.pages:
         s=page.extract_text() or ''
         s=re.sub(r'^Akte:[^\n]*\nSeite \d+\n','',s)
         headers.append(compact(s[:400]))
-    kickers={'.docx':'WORD-DOKUMENT (ORIGINAL-LAYOUT)','.xlsx':'EXCEL-TABELLE (BERECHNETE DRUCKFASSUNG)','.pdf':'PDF-ANHANG (ORIGINALDOKUMENT)','.eml':'E-MAILS','.txt':'NOTIZEN UND TEXTDATEIEN'}
-    for path,arc in document_arcname_pairs(directory):
+    kickers={'.docx':'WORD-DOKUMENT (ORIGINAL-LAYOUT)','.xlsx':'EXCEL-TABELLE (BERECHNETE DRUCKFASSUNG)','.pdf':'PDF-ANHANG (ORIGINALDOKUMENT)','.eml':'E-MAILS','.txt':'NOTIZEN UND TEXTDATEIEN','.csv':'CSV-TABELLEN'}
+    pairs=document_arcname_pairs(directory)
+    stems=Counter(path.relative_to(directory).with_suffix('').as_posix() for path,arc in pairs)
+    for path,arc in pairs:
         prefix=compact(kickers[path.suffix]+path.name)
         hits=[i for i,t in enumerate(headers) if t.startswith(prefix)]
         if len(hits)!=1:raise ValueError(f'Uneindeutiger tatsächlicher Dokumentkopf {path.name}: {hits}')
         page=hits[0]+(1 if path.suffix in {'.docx','.xlsx','.pdf'} else 0)
-        writer.add_outline_item(path.relative_to(directory).with_suffix('').as_posix(),page)
+        stem=path.relative_to(directory).with_suffix('').as_posix()
+        label=path.relative_to(directory).as_posix() if stems[stem]>1 else stem
+        writer.add_outline_item(label,page)
 
 def main():
     p=argparse.ArgumentParser(description=__doc__);p.add_argument('--qa-dir',type=Path,required=True);p.add_argument('--groups',nargs='*');p.add_argument('--cases',nargs='*');p.add_argument('--metadata-only',action='store_true');p.add_argument('--render-docx',type=Path);args=p.parse_args();args.qa_dir.mkdir(parents=True,exist_ok=True)

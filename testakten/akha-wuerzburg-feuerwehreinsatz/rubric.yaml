@@ -1,0 +1,83 @@
+id: akha-wuerzburg-feuerwehreinsatz
+title: 'Würzburg: Das Schlauchende im Lichtschacht'
+plugin: kommunale-haftpflicht
+checks:
+- id: vertiefung-datei-1
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Mandatsanfrage.eml
+- id: vertiefung-datei-2
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Einsatzbericht.docx
+- id: vertiefung-datei-3
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/03_Zeugin_Schlauchende.eml
+- id: vertiefung-datei-4
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/04_Befund_und_Inventar.docx
+- id: vertiefung-datei-5
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/05_Rechnungen_und_Zahlungen.docx
+- id: vertiefung-datei-6
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/06_Landkreis_Auskunft.docx
+- id: vertiefung-datei-7
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/06_Landkreis_Auskunft.pdf
+- id: vertiefung-datei-8
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/07_Anspruchsschreiben.docx
+- id: vertiefung-datei-9
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/07_Anspruchsschreiben.pdf
+- id: vertiefung-datei-10
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/08_Stadt_Zwischenantwort.docx
+- id: vertiefung-datei-11
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/08_Stadt_Zwischenantwort.pdf
+- id: vertiefung-datei-12
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/09_Mandantenfreigabe.eml
+- id: vertiefung-datei-13
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/10_Vertragsauszug.docx
+- id: vertiefung-datei-14
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/11_Stadt_an_Versicherer.eml
+- id: vertiefung-datei-15
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/12_Versicherer_Rueckfragen.eml
+- id: vertiefung-datei-16
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/13_Technik_Nachtrag.docx
+- id: vertiefung-datei-17
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/14_Rechts_und_Rollenvermerk.docx
+- id: vertiefung-datei-18
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/15_Klageentwurf.docx
+- id: vertiefung-rollen
+  check_type: human_review
+  description: Werden Außenhaftung, Zuständigkeitsauskunft, Primärdeckung und Rückdeckung
+    anhand der konkret vorliegenden Unterlagen getrennt?
+  note: Offene Anwendungsprüfung; kein automatisch festgestelltes Ergebnis.
+name: 'Würzburg: Das Schlauchende im Lichtschacht'
+stand: '2026-10-05'

@@ -64,3 +64,32 @@ checks:
     offene Nachweise konkret benennen und nichts versenden.
   note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
     juristische Bewertung.
+- id: vertiefung-datei-1
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Betreiberin_Schadenanzeige.docx
+- id: vertiefung-datei-2
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/01_Betreiberin_Schadenanzeige.pdf
+- id: vertiefung-datei-3
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Versicherer_Bestaetigung.docx
+- id: vertiefung-datei-4
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/02_Versicherer_Bestaetigung.pdf
+- id: vertiefung-datei-5
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/03_Betreiberin_Belegversand.eml
+- id: vertiefung-datei-6
+  check_type: file_exists
+  description: Die zusätzliche Korrespondenz ist vorhanden.
+  path: kommunikation-und-deckung/04_Versicherer_Datenabgrenzung.eml
+- id: vertiefung-rollen
+  check_type: human_review
+  description: Werden Außenhaftung, Zuständigkeitsauskunft, Primärdeckung und Rückdeckung
+    anhand der konkret vorliegenden Unterlagen getrennt?
+  note: Offene Anwendungsprüfung; kein automatisch festgestelltes Ergebnis.

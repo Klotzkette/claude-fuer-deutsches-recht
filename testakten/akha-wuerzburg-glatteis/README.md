@@ -20,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-glatteis_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-glatteis_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-glatteis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-glatteis.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-glatteis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-glatteis-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-glatteis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-glatteis.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-glatteis-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-glatteis-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -56,7 +56,7 @@ Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren
 
 ## 1.4. Umfang und Herkunft
 
-Das Gesamt-PDF umfasst 28 Seiten. 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
+Das aktualisierte Gesamt-PDF umfasst 42 Seiten. Grundbestand: 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
 
 <!-- reserved-example-contacts -->
 
@@ -86,7 +86,7 @@ AKHA bezeichnet das fachliche Bearbeitungsumfeld. Aus dem Ordnernamen folgen wed
 
 ## 1.6. Schriftverkehr und Klageentwurf
 
-Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Insgesamt stehen jetzt **15 Originalunterlagen** zur Verfügung. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Nach dieser ersten Ergänzung umfasste der Bestand **15 Originalunterlagen**. Den aktuellen Umfang nennt der zusätzliche Vertiefungsabschnitt. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
 
 Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
 
@@ -109,9 +109,36 @@ Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher 
 
 <!-- END kommunaler-schriftverkehr -->
 
+<!-- BEGIN kommunale-vertiefung -->
+
+<!-- decimal-anchor --> <a id="vertiefter-schriftwechsel-und-bearbeitbare-briefe"></a>
+
+## 1.7. Vertiefter Schriftwechsel und bearbeitbare Briefe
+
+23 Arbeitsdateien einschließlich der gesonderten Fassungen in Word und PDF. Das aktualisierte Gesamt-PDF umfasst 42 Seiten. Ein Brief in zwei Formaten und seine MIME-Anlage sind derselbe Beleg; sie dürfen weder als zusätzlicher Schaden noch als unabhängige Bestätigung gezählt werden. Die Akteneingänge und bisher vorhandenen Klageentwürfe bleiben erhalten. Neu hinzugekommene Unterlagen befinden sich unter `kommunikation-und-deckung`. Vorhandene Brief-PDFs erhalten ergänzende Word-Fassungen unter `briefvorlagen`, soweit solche Briefe bereits zur Akte gehörten.
+
+Die vier neuen Korrespondenzen spielen am Nachmittag des 05.10.2026 nach Erstellung des bestehenden Klageentwurfs. Erst jetzt aufgefundene Versicherungsdaten widersprechen nicht dem früheren Hinweis, dass keine Deckungsunterlagen vorliegen. Alle neu ergänzten Vertragsangaben sind ausschließlich fiktive Szenarioannahmen und keine tatsächlichen AKHA-Regeln. Das städtische Prüfmandat und sämtliche bisherigen Originale bleiben erhalten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Unterlage | Inhalt |
+| --- | --- |
+| [01_Stadt_an_Kommunalversicherer.docx](kommunikation-und-deckung/01_Stadt_an_Kommunalversicherer.docx) · [PDF](kommunikation-und-deckung/01_Stadt_an_Kommunalversicherer.pdf) | Zeisig – neue Deckungsunterlagen und konkrete Prüffragen |
+| [02_Versicherer_Deckungsantwort.docx](kommunikation-und-deckung/02_Versicherer_Deckungsantwort.docx) · [PDF](kommunikation-und-deckung/02_Versicherer_Deckungsantwort.pdf) | Zeisig – vorläufige Deckung und Abwehrführung |
+| [03_Bauhof_Beweissicherung.eml](kommunikation-und-deckung/03_Bauhof_Beweissicherung.eml) | W-12: Originalprotokoll und spätere Ergänzung bleiben getrennt |
+| [04_Versicherer_an_Rechtsstelle.eml](kommunikation-und-deckung/04_Versicherer_an_Rechtsstelle.eml) | MB-W-26113: Antwortfrist und mögliche Gesprächslinie |
+| [14_Anspruchsschreiben.docx](briefvorlagen/14_Anspruchsschreiben.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
+| [15_Antwort_Stadt.docx](briefvorlagen/15_Antwort_Stadt.docx) | Bearbeitbare Fassung des bereits vorhandenen Briefs |
+
+Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den jeweiligen Entscheidungsstand. Eine Reserve ist keine Zahlung; eine Deckungsprüfung ist kein Haftungsanerkenntnis. Eine Rückversichereranfrage setzt einen konkreten Meldeanlass voraus. Bei kleinen Vorgängen bleibt es deshalb bei der Bearbeitung zwischen Versicherungsnehmer und Erstversicherer. Kein Schreiben wurde wirklich versandt und keine Klage eingereicht.
+
+<!-- END kommunale-vertiefung -->
+
 <!-- decimal-anchor --> <a id="downloads"></a>
 
-## 1.7. Downloads
+## 1.8. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -120,7 +147,7 @@ Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher 
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-glatteis_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-glatteis.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-glatteis-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-glatteis.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-glatteis-einzelpdfs.zip) |
 
 Die Archive enthalten alle Arbeitsunterlagen unmittelbar auf der ZIP-Wurzelebene. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.
