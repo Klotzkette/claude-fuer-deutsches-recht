@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf`](gesamt-pdf/ki-governance-konzern-rollout-thalheim-industries_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-ki-governance-konzern-rollout-thalheim-industries.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-ki-governance-konzern-rollout-thalheim-industries.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-ki-governance-konzern-rollout-thalheim-industries-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

@@ -1,0 +1,66 @@
+name: 'Würzburg: Der Transporter am Quittenbogen'
+plugin: kommunale-haftpflicht
+stand: '2026-10-05'
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle nativen Originalunterlagen sind vorhanden.
+  min: 9
+- id: format-docx
+  check_type: file_count
+  description: 4 Originale im Format DOCX.
+  glob: '*.docx'
+  min: 4
+- id: format-eml
+  check_type: file_count
+  description: 5 Originale im Format EML.
+  glob: '*.eml'
+  min: 5
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 01_Pruefauftrag.eml
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 02_Fahrerbericht.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 03_Fahrzeug_und_Einsatz.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 04_Zeugin.eml
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 05_Reparaturrechnung.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 07_Forderung.eml
+- id: fach-1
+  check_type: human_review
+  description: Fahrtzweck, Halter, Fahrer und Anspruchsgegner anhand der Einsatzunterlagen
+    unterscheiden.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-2
+  check_type: human_review
+  description: Reparatur, frühere Beschädigungen, Vorsteuer und einzelne Nebenforderungen
+    getrennt belegen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-3
+  check_type: human_review
+  description: Konkrete Mandantin und Interessenlage beibehalten; keine unbelegte
+    Deckung oder AKHA-Mitgliedschaft annehmen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-4
+  check_type: human_review
+  description: Einen adressatengerechten ausformulierten Antwortentwurf erstellen;
+    offene Nachweise konkret benennen und nichts versenden.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.

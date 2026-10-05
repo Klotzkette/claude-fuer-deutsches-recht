@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Fluggastrechte – Familie Bräutigam-Zaytuna](../testakten/fluggastrechte-familie-braeutigam/README.md) | [Gesamt-PDF](../testakten/fluggastrechte-familie-braeutigam/gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf) | [`testakte-fluggastrechte-familie-braeutigam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-fluggastrechte-familie-braeutigam.zip) | [`testakte-fluggastrechte-familie-braeutigam-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-fluggastrechte-familie-braeutigam-einzelpdfs.zip) |
+| [Fluggastrechte – Familie Bräutigam-Zaytuna](../testakten/fluggastrechte-familie-braeutigam/README.md) | [Gesamt-PDF](../testakten/fluggastrechte-familie-braeutigam/gesamt-pdf/fluggastrechte-familie-braeutigam_gesamt.pdf) | [`testakte-fluggastrechte-familie-braeutigam.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-fluggastrechte-familie-braeutigam.zip) | [`testakte-fluggastrechte-familie-braeutigam-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-fluggastrechte-familie-braeutigam-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

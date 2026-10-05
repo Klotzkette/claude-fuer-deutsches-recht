@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf`](gesamt-pdf/datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-datenschutz-auskunft-art-15-verstreute-datenbestaende-karlsruhe-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

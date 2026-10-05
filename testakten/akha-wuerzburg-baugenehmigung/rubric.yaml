@@ -1,0 +1,66 @@
+name: 'Würzburg: Ein Büro wird als Werkstatt abgelehnt'
+plugin: kommunale-haftpflicht
+stand: '2026-10-05'
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle nativen Originalunterlagen sind vorhanden.
+  min: 10
+- id: format-docx
+  check_type: file_count
+  description: 7 Originale im Format DOCX.
+  glob: '*.docx'
+  min: 7
+- id: format-eml
+  check_type: file_count
+  description: 3 Originale im Format EML.
+  glob: '*.eml'
+  min: 3
+- id: kernbeleg-1
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 01_Pruefauftrag.eml
+- id: kernbeleg-2
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 02_Antragsbeschreibung.docx
+- id: kernbeleg-3
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 03_Versagungsbescheid.docx
+- id: kernbeleg-4
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 04_Klage.eml
+- id: kernbeleg-5
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 06_Abhilfe_Genehmigung.docx
+- id: kernbeleg-6
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 10_Forderung.eml
+- id: fach-1
+  check_type: human_review
+  description: Bescheid, Rechtsbehelf, Abhilfe und hypothetisch rechtzeitige Genehmigung
+    anhand der Chronologie prüfen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-2
+  check_type: human_review
+  description: Mietbeginn, Finanzierungskosten und ersparte Aufwendungen ohne Doppelzählung
+    und ohne pauschalen Entschädigungsanspruch abgleichen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-3
+  check_type: human_review
+  description: Konkrete Mandantin und Interessenlage beibehalten; keine unbelegte
+    Deckung oder AKHA-Mitgliedschaft annehmen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.
+- id: fach-4
+  check_type: human_review
+  description: Einen adressatengerechten ausformulierten Antwortentwurf erstellen;
+    offene Nachweise konkret benennen und nichts versenden.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene
+    juristische Bewertung.

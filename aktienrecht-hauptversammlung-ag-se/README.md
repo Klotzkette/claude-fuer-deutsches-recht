@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Meridian MedTech: Insiderrecht, Ad-hoc und M&A-Leak](../testakten/insiderrecht-meridian-medtech-ad-hoc-ma-leak/README.md) | [Gesamt-PDF](../testakten/insiderrecht-meridian-medtech-ad-hoc-ma-leak/gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf) | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak-einzelpdfs.zip) |
+| [Meridian MedTech: Insiderrecht, Ad-hoc und M&A-Leak](../testakten/insiderrecht-meridian-medtech-ad-hoc-ma-leak/README.md) | [Gesamt-PDF](../testakten/insiderrecht-meridian-medtech-ad-hoc-ma-leak/gesamt-pdf/insiderrecht-meridian-medtech-ad-hoc-ma-leak_gesamt.pdf) | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak.zip) | [`testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-insiderrecht-meridian-medtech-ad-hoc-ma-leak-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

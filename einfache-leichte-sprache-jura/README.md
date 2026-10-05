@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Juristischer Mandantenbrief in Einfacher und Leichter Sprache](../testakten/einfache-leichte-sprache-jura-mandantenbrief/README.md) | [Gesamt-PDF](../testakten/einfache-leichte-sprache-jura-mandantenbrief/gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) | [`testakte-einfache-leichte-sprache-jura-mandantenbrief.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) | [`testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip) |
+| [Juristischer Mandantenbrief in Einfacher und Leichter Sprache](../testakten/einfache-leichte-sprache-jura-mandantenbrief/README.md) | [Gesamt-PDF](../testakten/einfache-leichte-sprache-jura-mandantenbrief/gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) | [`testakte-einfache-leichte-sprache-jura-mandantenbrief.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) | [`testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-einfache-leichte-sprache-jura-mandantenbrief-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

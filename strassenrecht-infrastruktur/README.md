@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Straßenrechtsakte Auenfeld](../testakten/strassenrecht-ortsdurchfahrt-bruecke-auenfeld/README.md) | [Gesamt-PDF](../testakten/strassenrecht-ortsdurchfahrt-bruecke-auenfeld/gesamt-pdf/strassenrecht-ortsdurchfahrt-bruecke-auenfeld_gesamt.pdf) | [`testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld.zip) | [`testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld-einzelpdfs.zip) |
+| [Straßenrechtsakte Auenfeld](../testakten/strassenrecht-ortsdurchfahrt-bruecke-auenfeld/README.md) | [Gesamt-PDF](../testakten/strassenrecht-ortsdurchfahrt-bruecke-auenfeld/gesamt-pdf/strassenrecht-ortsdurchfahrt-bruecke-auenfeld_gesamt.pdf) | [`testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld.zip) | [`testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-strassenrecht-ortsdurchfahrt-bruecke-auenfeld-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

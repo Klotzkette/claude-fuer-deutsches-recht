@@ -1,7 +1,7 @@
 {
   "name": "kommunale-haftpflicht",
-  "version": "445.31.1",
-  "description": "Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten.",
+  "version": "445.31.2",
+  "description": "Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -21,7 +21,7 @@
   "interface": {
     "displayName": "Kommunale Haftpflicht",
     "shortDescription": "Kommunale Schäden belegt prüfen und regulieren.",
-    "longDescription": "Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten.",
+    "longDescription": "Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen.",
     "developerName": "Klotzkette",
     "category": "Productivity",
     "capabilities": [

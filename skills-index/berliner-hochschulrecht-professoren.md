@@ -1,6 +1,6 @@
 # berliner-hochschulrecht-professoren
 
-**11 Skills** · Stand `v445.31.1`
+**11 Skills** · Stand `v445.31.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berliner-hochschulrecht-professoren/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

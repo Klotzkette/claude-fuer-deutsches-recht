@@ -1,0 +1,933 @@
+{
+  "checked_as_of": "2026-10-05",
+  "generated_at": "2026-10-05T11:17:33.518195+00:00",
+  "primary_sources_only": true,
+  "reference_file": "kommunale-haftpflicht/references/alltagsfaelle-bayern.md",
+  "reference_sha256": "b85cb48258763ce2db9ff59cf46e7cf77a185a89a4720eb3f37bac12baf607ec",
+  "decision_count": 11,
+  "decisions": [
+    {
+      "id": "AA01",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2007-12-18",
+      "docket": "VI ZR 235/06",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2006/VI_ZR_235-06.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-235-06.pdf",
+      "pdf_sha256": "668ddad21cbc31b1d518a6a1bb55667a027109a97bfa5614c09574fe09acb5ad",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-235-06.txt",
+      "text_sha256": "214a1e7cb5ebc14054d3a855c3553541b082e054ec46d9907f371a1312e7ff41",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA01 – hoheitliche Fahrt und Fahrerhaftung.** BGH, Urteil vom **18.12.2007 – VI ZR 235/06**, Rn. **22–25**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2006/VI_ZR_235-06.pdf?__blob=publicationFile&v=1). Geprüft: enger Zusammenhang einer Einsatzfahrt mit öffentlicher Aufgabe; Ausnahme von § 839 Abs. 1 Satz 2 bei gewöhnlicher Teilnahme am Straßenverkehr; Art. 34 schließt persönliche §-18-Haftung des hoheitlich fahrenden Bediensteten aus. **Grenze:** Ausgangsfall einer alarmbedingten Feuerwehrfahrt mit Personenschaden und SGB-VII-Fragen. Sozialversicherungsprivilegierung, gestörte Gesamtschuld oder Sonderrechte nicht auf den geparkten Bürgerwagen übertragen.",
+      "checked_passages": [
+        {
+          "rn": 22,
+          "text": "22          (2.) Der Einsatz der freiwilligen Feuerwehr in Bayern ist jedenfalls dann\n     hoheitliche Tätigkeit, wenn Aufgaben gemäß Art. 1 BayFwG verrichtet werden.\n     Die Gewährleistung des dort genannten abwehrenden Brandschutzes und des\n     technischen Hilfsdienstes ist Teil des Sicherheitsrechts und öffentlich-rechtliche\n     Pflichtaufgabe der Gemeinden (§ 57 GO, Art. 1 BayFwG). Sie wird für diese von\n     den Feuerwehren wahrgenommen, die dafür mit besonderen Eingriffsbefugnis-\n\f                                          - 11 -\n\n\n\n     sen ausgestattet sind (Art. 24 ff. BayFwG). Der Annahme hoheitlichen Tätig-\n     werdens steht nicht entgegen, dass freiwillige Feuerwehren privatrechtlich,\n     nämlich als Vereine, organisiert sind. Zum einen können auch Private mit der\n     Wahrnehmung einzelner hoheitlicher Aufgaben betraut werden (Beliehene und\n     Verwaltungshelfer, vgl. Zimmerling in: jurisPK-BGB, 3. Aufl., § 839, Rn. 39 f.).\n     Zum anderen sind die freiwilligen Feuerwehren in Bayern nicht nur Vereine im\n     Sinne des BGB, sondern gleichzeitig auch öffentliche Einrichtungen (Art. 4\n     Abs. 1 S. 2 BayFwG)."
+        },
+        {
+          "rn": 23,
+          "text": "23         bb) Im Streitfall zählt bereits die durch die Alarmierung veranlasste Fahrt\n     des Beklagten zu 1 zur Unglücksstelle zur hoheitlichen Tätigkeit, denn es ge-\n     nügt, wenn zwischen der Fahrt und der geplanten hoheitlichen Betätigung am\n     Zielort ein so enger innerer Zusammenhang gegeben ist, dass diese sich bei\n     natürlicher Betrachtungsweise in den Bereich hoheitlicher Tätigkeit einfügt und\n     nicht nur in einer äußeren, zeitlichen und gelegenheitsmäßigen Beziehung zur\n     Ausübung der hoheitlichen Betätigung steht (BGH, Urteil vom 12. Dezember\n     1991 - III ZR 10/91 - NJW 1992, 1227, 1228; vgl. auch Staudinger/Wurm, aaO,\n     § 839, Rn. 799; Soergel/Vinke, aaO, § 839, Rn. 75; Forster/Pemler, aaO,\n     Art. 27, Rn. 39; für die Rückfahrt vgl. BGH, Urteil vom 2. Juni 1958 - III ZR\n     126/57 - VersR 1958, 688, 689). Ein solch enger innerer Zusammenhang mit\n     der geplanten Einsatztätigkeit war vorliegend gegeben. Dass die Fahrt im Pri-\n     vatwagen zurückgelegt wurde, ist unerheblich, wenn dies - wie hier - zur Ver-\n     wirklichung des hoheitlichen Ziels geboten war (vgl. BGH, Urteil vom 2. Novem-\n     ber 1978 - III ZR 183/76 - VersR 1979, 225, 226)."
+        },
+        {
+          "rn": 24,
+          "text": "24         cc) Die Haftung nach § 839 Abs. 1 Satz 1 BGB ist auch nicht subsidiär,\n     denn das Verweisungsprivileg des Satzes 2 ist vorliegend nicht anwendbar.\n     Zwar gelten als \"anderweitige Ersatzmöglichkeit\" im Sinne dieser Vorschrift\n     auch Ansprüche gegen einen anderen Schädiger und dessen Haftpflichtversi-\n\f                                          - 12 -\n\n\n\n     cherer (BGHZ 91, 48, 51), jedoch ist § 839 Abs. 1 Satz 2 GG nicht anwendbar\n     bei der dienstlichen Teilnahme eines Amtsträgers am allgemeinen Straßenver-\n     kehr. Wegen der inhaltlichen Übereinstimmung der alle Verkehrsteilnehmer\n     gleichermaßen treffenden Rechte und Pflichten gebührt hier dem Grundsatz der\n     haftungsrechtlichen Gleichbehandlung aller Verkehrsteilnehmer Vorrang ge-\n     genüber dem Verweisungsprivileg (BGHZ 68, 217, 220 ff.; 91, 48, 52). Aller-\n     dings bleibt bei der dienstlichen Teilnahme am allgemeinen Straßenverkehr das\n     Verweisungsprivileg anwendbar im Falle der Inanspruchnahme von Sonder-\n     rechten (BGHZ 85, 225, 228; Soergel/Vinke, aaO, § 839, Rn. 92, 195 f.). Nach\n     den vom Berufungsgericht getroffenen Feststellungen hat der Beklagte zu 1\n     jedoch keine Sonderrechte nach § 35 StVO in Anspruch genommen. Der Unfall\n     beruht allein darauf, dass er beim Linksabbiegen aus Unachtsamkeit ein entge-\n     genkommendes Fahrzeug übersah. Bei dieser Sachlage kann dahinstehen, ob\n     bei der Fahrt mit einem privaten PKW zum Einsatzort überhaupt Sonderrechte\n     in Anspruch genommen werden können (vgl. Hentschel, Straßenverkehrsrecht,\n     39. Aufl., § 35 StVO, Rn. 3 m.w.N.) und ob dies im Streitfall zur Aufgabenerfül-\n     lung gemäß § 35 Abs. 1 StVO \"dringend geboten\" gewesen wäre. Einer dienst-\n     lichen Teilnahme am allgemeinen Straßenverkehr (im Sinne des Amtshaftungs-\n     rechts) steht auch nicht entgegen, dass sich der Schädiger nicht auf einem Weg\n     nach § 8 Abs. 2 SGB VII befand (vgl. Senatsurteil BGHZ 94, 173, 175)."
+        },
+        {
+          "rn": 25,
+          "text": "25         dd) Die Haftung des Beklagten zu 1 aus § 839 Abs. 1 Satz 1 BGB wird\n     durch Art. 34 Satz 1 GG auf die Anstellungskörperschaft (den Träger der freiwil-\n     ligen Feuerwehr) übergeleitet und schließt die persönliche Haftung des Beklag-\n     ten als Fahrzeugführer gemäß § 18 StVG aus (vgl. BGHZ 29, 38, 43)."
+        }
+      ]
+    },
+    {
+      "id": "AA02",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2015-07-23",
+      "docket": "III ZR 86/15",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR__86-15.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR--86-15.pdf",
+      "pdf_sha256": "ea7025344cfdc4e2718d98e557ff4ef2ea528ed2c918e8d934f5b83c9b578f0b",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR--86-15.txt",
+      "text_sha256": "303253edfdb85600b29b51bd4c2b6e1f822c99db01c2d004af6d86f401bc09f0",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA02 – winterlicher Straßenübergang.** BGH, Urteil vom **23.07.2015 – III ZR 86/15**, Rn. **10–11, 21–22**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2015/III_ZR__86-15.pdf?__blob=publicationFile&v=1). Geprüft: Art und Wichtigkeit des Verkehrswegs, Gefährlichkeit, erwarteter Verkehr, Leistungsfähigkeit und Zumutbarkeit; notwendige Querungen an belebten und unentbehrlichen Übergängen, tatsächliche zeitliche Verkehrsbedürfnisse. **Grenze:** Ausgangsfall Schleswig-Holstein, dessen Straßenrecht und konkrete Feiertagslage nicht übernehmen; in Bayern Art. 51 prüfen. Nicht jeder abgesenkte Bord oder Zebrastreifen löst identische Pflichten aus.",
+      "checked_passages": [
+        {
+          "rn": 10,
+          "text": "10   1.    Inhalt und Umfang der winterlichen Streupflicht auf öffentlichen Wegen\n     und Straßen unter dem Gesichtspunkt der Verkehrssicherung richten sich nach\n     den Umständen des Einzelfalls. Art und Wichtigkeit des Verkehrswegs sind da-\n     bei ebenso zu berücksichtigen wie seine Gefährlichkeit und die Stärke des zu\n     erwartenden Verkehrs. Die Streupflicht besteht also nicht uneingeschränkt. Sie\n     steht vielmehr unter dem Vorbehalt des Zumutbaren, wobei es auf die Leis-\n     tungsfähigkeit des Sicherungspflichtigen ankommt. Dieser hat im Rahmen und\n     nach Maßgabe der vorgenannten Grundsätze durch Bestreuen mit abstump-\n     fenden Mitteln die Gefahren zu beseitigen, die infolge winterlicher Glätte für den\n     Verkehrsteilnehmer bei zweckgerechter Wegebenutzung und trotz Anwendung\n     der im Verkehr erforderlichen Sorgfalt bestehen (ständige Senatsrechtspre-\n     chung, vgl. nur Urteile vom 5. Juli 1990 - III ZR 217/89, BGHZ 112, 74, 75 f;\n     vom 1. Juli 1993 - III ZR 88/92, NJW 1993, 2802 f; vom 15. Januar 1998 - III ZR\n     124/97, VersR 1998, 1373 und vom 9. Oktober 2003 - III ZR 8/03, NJW 2003,\n     3622, 3623; jeweils mwN).\n\f                                          - 7 -"
+        },
+        {
+          "rn": 11,
+          "text": "11         Fußgängerüberwege innerhalb geschlossener Ortschaften sind danach\n     nicht grundsätzlich, sondern nur zu streuen, soweit sie belebt und unentbehrlich\n     sind (ständige Senatsrechtsprechung; vgl. nur Urteile vom 22. November 1965\n     - III ZR 32/65, NJW 1966, 202; vom 13. Juli 1967 - III ZR 165/66, VersR 1967,\n     981, 982; vom 13. März 1969 - III ZR 101/68, VersR 1969, 667 und vom\n     15. November 1984 - III ZR 97/83, VersR 1985, 568, 569; Beschlüsse vom\n     27. April 1987 - III ZR 123/86, VersR 1987, 989 und vom 8. März 1990 - III ZR\n     27/89, BGHR BGB § 839 Abs. 1 Satz 1 Streupflicht 3; Urteile vom 20. De-\n     zember 1990 - III ZR 21/90, VersR 1991, 665 f und vom 1. Juli 1993 aaO\n     S. 2803; Beschluss vom 20. Oktober 1994 - III ZR 60/94, VersR 1995, 721, 722;\n     Urteil vom 9. Oktober 2003 aaO)."
+        },
+        {
+          "rn": 21,
+          "text": "21   3.     Fußgängerüberwege sind damit bei Glatteis nur unter der einschränken-\n     den Voraussetzung zu streuen, dass sie belebt und unentbehrlich sind (vgl.\n     auch Staudinger/Hager, BGB, Neubearbeitung 2009, § 823 Rn. E 137;\n     MüKoBGB/Papier, 6. Aufl., § 839 Rn. 201; Wellner in Geigel, Der Haftpflichtpro-\n     zess, 27. Aufl., Kap. 14 Rn. 147, 159; OLG Hamm VersR 1978, 950, 951; OLG\n     Brandenburg OLGR 2002, 335, 336 und Urteil vom 30. September 2014 - 2 U\n     7/14, juris Rn. 39; OLG München, Urteil vom 26. April 2007 - 1 U 5742/06, juris\n     Rn. 31 ff; OLG Koblenz MDR 2012, 1226). Der Senat folgt nicht der Auffassung\n     des Berufungsgerichts, für Überwege müssten die gleichen Grundsätze wie für\n     Gehwege gelten. Eine solche Annahme würde bewirken, dass auf zahlreichen\n     nicht oder nachrangig zu bestreuenden Straßen vorrangig Überwege für Fuß-\n     gänger abgestreut werden müssten. Dies hätte zur Folge, dass die Gemeinden\n     bei der Durchführung ihrer Streupläne, ohne die ein geordneter Winterdienst\n     unmöglich ist, unzumutbar behindert würden (vgl. nur Senat, Urteil vom\n     20. Dezember 1990 - III ZR 21/90, VersR 1991, 665, 666). Was die Frage der\n     Zumutbarkeit für die Kommunen anbetrifft, unterscheidet sich die Situation auf\n     Gehwegen und Fußgängerüberwegen im Übrigen dadurch, dass durch Satzung\n     (hier: aufgrund § 45 Abs. 3 Nr. 2 StrWG) die Streupflicht für Gehwege innerhalb\n     geschlossener Ortschaften üblicherweise auf die Anlieger übertragen wird."
+        },
+        {
+          "rn": 22,
+          "text": "22          Feststellungen dazu, ob der streitgegenständliche Überweg belebt und\n     unentbehrlich gewesen ist, hat das Berufungsgericht nicht getroffen. Dies ist\n     nachzuholen. Hierbei wird das Berufungsgericht insbesondere zu berücksichti-\n     gen haben, dass der Sturz am Morgen des zweiten Weihnachtstages 2009 er-\n     folgt ist. Insoweit ist die Verkehrsbedeutung der Straße beziehungsweise des\n     Überwegs an normalen Werktagen nicht ausschlaggebend (vgl. Senatsbe-\n     schluss vom 26. März 1992 - III ZR 71/91, BGHR BGB § 839 Abs. 1 Satz 1\n     - Streupflicht 8).\n\f                                           - 12 -"
+        }
+      ]
+    },
+    {
+      "id": "AA03",
+      "court": "BGH",
+      "decision_type": "Beschluss",
+      "date": "2025-07-01",
+      "docket": "VI ZR 357/24",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-357-24.pdf",
+      "pdf_sha256": "637819ac475ba13bcc5c7592ae611ca02ed5845679a39bd7bd19195c75b38cd1",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-357-24.txt",
+      "text_sha256": "8f499025e1724936ca80ddcd6e18dff4c08b69591bc9ed2bbdd98983e080bbbc",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA03 – Glättebeweis, Vortrag und Mitverschulden.** BGH, Beschluss vom **01.07.2025 – VI ZR 357/24**, Rn. **8–14, 18–22**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2024/VI_ZR_357-24.pdf?__blob=publicationFile&v=1). Geprüft: konkrete Glättelage und Beweislast, keine überspannten Anforderungen an Vortrag, besonders hohe Anforderungen an vollständiges Zurücktreten der Haftung wegen Eigenverschuldens. **Grenze:** privater Gehwegpflichtiger; Gehörsentscheidung mit Aufhebung und Zurückverweisung, kein zugesprochener Haftungsanteil und kein bayerischer Streuplan. Sichtbare Glätte bedeutet nicht ohne Weiteres alleinige Verantwortung des Verletzten.",
+      "checked_passages": [
+        {
+          "rn": 8,
+          "text": "8         a) Die winterliche Räum- und Streupflicht auf Straßen oder Wegen setzt\n    eine konkrete Gefahrenlage voraus, d.h. grundsätzlich das Vorhandensein einer\n    \"allgemeinen Glätte\" und nicht nur einzelner Glättestellen (vgl. Senatsurteil vom\n    14. Februar 2017 - VI ZR 254/16, VersR 2017, 563 Rn. 7 mwN). Allgemeine\n    Glätte setzt nicht voraus, dass es im ganzen Gemeindegebiet glatt ist (BGH, Ur-\n    teil vom 23. Juli 2015 - III ZR 86/15, VersR 2016, 63 Rn. 25). Nach allgemeinen\n    Grundsätzen der Beweislastverteilung muss der Verletzte alle Umstände bewei-\n    sen, aus denen eine Streupflicht erwächst und sich eine schuldhafte Verletzung\n    dieser Pflicht ergibt. Er muss deshalb den Sachverhalt dartun und gegebenen-\n    falls beweisen, aus dem sich ergibt, dass zur Zeit des Unfalls aufgrund der Wet-\n    ter-, Straßen- oder Wegelage bereits oder noch eine Streupflicht bestand und\n    diese schuldhaft verletzt worden ist (Senatsurteil vom 12. Juni 2012 - VI ZR\n    138/11, VersR 2012, 1050 Rn. 9). Von diesen Grundsätzen ist offenbar auch das\n    Berufungsgericht ausgegangen.\n\f                                           -6-"
+        },
+        {
+          "rn": 9,
+          "text": "9          b) Allerdings hat das Berufungsgericht schon mit seiner Beurteilung, die\n     Klägerin habe bis zum Schluss der mündlichen Verhandlung vor dem Landge-\n     richt die Voraussetzungen ihres Schadensersatzanspruchs nicht schlüssig dar-\n     getan, deren Anspruch auf Gewährung rechtlichen Gehörs verletzt."
+        },
+        {
+          "rn": 10,
+          "text": "10         aa) Art. 103 Abs. 1 GG vermittelt allen an einem gerichtlichen Verfahren\n     Beteiligten einen Anspruch darauf, sich zu dem in Rede stehenden Sachverhalt\n     und zur Rechtslage zu äußern. Dem entspricht die Pflicht des Gerichts, tatsäch-\n     liche und rechtliche Ausführungen der Beteiligten zur Kenntnis zu nehmen und in\n     Erwägung zu ziehen. Dabei darf das Gericht die Anforderungen an die Substan-\n     tiierung des Parteivortrags nicht überspannen. Da die Handhabung der Substan-\n     tiierungsanforderungen dieselben einschneidenden Folgen hat wie die Anwen-\n     dung von Präklusionsvorschriften, verstößt sie gegen Art. 103 Abs. 1 GG, wenn\n     sie offenkundig unrichtig ist (vgl. nur Senatsbeschlüsse vom 11. Februar 2025\n     - VI ZR 185/24, juris Rn. 9; vom 16. Februar 2021 - VI ZR 1104/20, VersR 2021,\n     1261 Rn. 7 mwN)."
+        },
+        {
+          "rn": 11,
+          "text": "11         Sachvortrag zur Begründung eines Anspruchs ist dann schlüssig und er-\n     heblich, wenn die Partei Tatsachen vorträgt, die in Verbindung mit einem Rechts-\n     satz geeignet und erforderlich sind, das geltend gemachte Recht als in der Per-\n     son der Partei entstanden erscheinen zu lassen. Die Angabe näherer Einzelhei-\n     ten ist nicht erforderlich, soweit diese für die Rechtsfolgen nicht von Bedeutung\n     sind. Das Gericht muss nur in die Lage versetzt werden, aufgrund des tatsächli-\n     chen Vorbringens der Partei zu entscheiden, ob die gesetzlichen Voraussetzun-\n     gen für das Bestehen des geltend gemachten Rechts vorliegen. Sind diese An-\n     forderungen erfüllt, ist es Sache des Tatrichters, in die Beweisaufnahme einzu-\n     treten und dabei gegebenenfalls die benannten Zeugen oder die zu verneh-\n     mende Partei nach weiteren Einzelheiten zu befragen oder einem Sachverstän-\n\f                                           -7-\n\n\n\n     digen die beweiserheblichen Streitfragen zu unterbreiten (st. Rspr., vgl. nur Se-\n     natsurteil vom 6. Februar 2024 - VI ZR 526/20, WM 2024, 761 Rn. 11; Senatsbe-\n     schlüsse vom 11. Februar 2025 - VI ZR 185/24, MDR 2025, 468 Rn. 10; vom\n     28. Mai 2019 - VI ZR 328/18, VersR 2020, 317 Rn. 10; jeweils mwN)."
+        },
+        {
+          "rn": 12,
+          "text": "12          bb) Die Klägerin hat schon vor der mündlichen Verhandlung vor dem Land-\n     gericht Folgendes vorgetragen: \"Soweit der Beklagte vorträgt, dass eine Räum-\n     und Streupflicht bei allgemeiner Glättebildung ausgelöst wird, ist darauf hinzu-\n     weisen, dass am streitgegenständlichen Unfalltag am 08.02.2021 mit einer Tem-\n     peratur um 0° C Glättebildung vorlag.\" Zum Beweis hierfür hat sie die Einholung\n     eines meteorologischen Sachverständigengutachtens angeboten. Damit hat sie\n     sich nicht darauf beschränkt, zu den Außentemperaturen vorzutragen, sondern\n     bei verständiger Würdigung ihres Vortrags darüber hinaus eine Glättebildung be-\n     hauptet, bei der es sich - wie sich aus der Bezugnahme auf den Einwand des\n     Beklagten (Streupflicht nur bei allgemeiner Glättebildung) und aus dem Antrag\n     auf Einholung eines meteorologischen Gutachtens ergibt - um eine allgemeine\n     Glätte gehandelt haben soll. Tatbestandlich festgestellt ist zudem ihre Behaup-\n     tung, der Bürgersteig vor dem Grundstück des Beklagten sei vereist und durch-\n     weg spiegelglatt gewesen. Ferner hat die Klägerin behauptet, der Bürgersteig vor\n     den benachbarten Grundstücken sei gestreut gewesen. Näherer Vortrag der Klä-\n     gerin dazu, welche Parameter neben den Temperaturen um den Gefrierpunkt zu\n     der behaupteten allgemeinen Glätte führten, war für die Schlüssigkeit der Klage\n     nicht erforderlich."
+        },
+        {
+          "rn": 13,
+          "text": "13          c) Darüber hinaus war entgegen der Auffassung des Berufungsgerichts\n     die nach der mündlichen Verhandlung des Landgerichts im nicht nachgelassenen\n     Schriftsatz vom 23. Mai 2023 aufgestellte, erneut durch Einholung eines Sach-\n     verständigengutachtens unter Beweis gestellte und in der Berufungsbegründung\n\f                                           -8-\n\n\n\n     wiederholte Behauptung der Klägerin zu berücksichtigen, die Temperaturen hät-\n     ten am 8. Februar 2021 \"hessenweit unter dem Gefrierpunkt\" gelegen, es habe\n     bereits seit Tagen Glatteisbildung geherrscht, was sogar zu Ausfällen des Prä-\n     senzunterrichts in Schulen, zum Stillstand des öffentlichen Verkehrs und zu cha-\n     otischen Zuständen des Straßenverkehrs geführt habe. Die Beurteilung des Be-\n     rufungsgerichts, es handle sich dabei um vom Berufungsgericht gemäß § 531\n     Abs. 2 ZPO nicht berücksichtigungsfähiges Vorbringen, stellt eine offenkundig\n     fehlerhafte Anwendung einer Präklusionsvorschrift dar und verletzt die Klägerin\n     daher ebenfalls in ihrem Anspruch auf Gewährung rechtlichen Gehörs (Senats-\n     beschluss vom 19. November 2024 - VI ZR 35/23, MDR 2025, 187 Rn. 9 mwN).\n     Die Voraussetzungen für die Zurückweisung des dargestellten Sachvortrags der\n     Klägerin nach § 531 Abs. 2 ZPO lagen offenkundig nicht vor."
+        },
+        {
+          "rn": 14,
+          "text": "14         aa) Ein in zweiter Instanz konkretisiertes Vorbringen ist dann nicht neu im\n     Sinne von § 531 Abs. 2 ZPO, wenn ein bereits schlüssiges Vorbringen aus erster\n     Instanz durch weitere Tatsachenbehauptungen zusätzlich konkretisiert, verdeut-\n     licht oder erläutert wird (Senatsurteil vom 18. Oktober 2005 - VI ZR 270/04,\n     BGHZ 164, 330, 333, juris Rn. 11; BGH, Beschlüsse vom 6. Mai 2015 - VII ZR\n     53/13, NJW-RR 2015, 1109 Rn. 11; vom 21. Dezember 2006 - VII ZR 279/05,\n     NJW 2007,1531 Rn. 7). Vorliegend hat die Klägerin ihr schlüssiges (s.o. bb) Vor-\n     bringen aus erster Instanz zur allgemeinen Glättebildung am Unfalltag im Bereich\n     des Unfallorts in H. lediglich um Vorbringen zur hessenweiten Wetterlage am Un-\n     falltag ergänzt. Dieses Vorbringen stand entgegen der Beurteilung des Beru-\n     fungsgerichts nicht im Widerspruch zum erstinstanzlichen Vorbringen, zumal sich\n     aus den der Berufungsbegründung beigefügten Anlagen eine Differenzierung\n     nach Gebieten in Hessen ergab. In der Stellungnahme zum Hinweisbeschluss\n     hat die Klägerin die Temperatur- und Niederschlagskurve der \"benachbarten\n     Wetterstation G[...]\" nachgetragen und ihren Antrag auf Einholung eines meteo-\n     rologischen Gutachtens wiederholt.\n\f                                           -9-"
+        },
+        {
+          "rn": 18,
+          "text": "18          Die Entscheidung wird auch nicht von der weiteren Begründung getragen,\n     die Klage könne jedenfalls deshalb keinen Erfolg haben, weil ein Mitverschulden\n     vorliege, das eine Haftung des Beklagten völlig ausschließe. Denn diese Begrün-\n     dung beruht auf einer grundlegenden Verkennung der höchstrichterlich entwi-\n     ckelten Grundsätze zum haftungsausschließenden Mitverschulden."
+        },
+        {
+          "rn": 19,
+          "text": "19          a) Wie das Berufungsgericht im Ausgangspunkt zutreffend erkannt hat, ist\n     grundsätzlich davon auszugehen, dass der die Räum- und Streupflicht Verlet-\n     zende und für die Sicherheit eines Verkehrswegs Verantwortliche durch die\n     Pflichtverletzung die maßgebliche Ursache für einen Unfall setzt, der sich infolge\n     der nicht beseitigten Gefahrenlage ereignet. Ein die Haftung des Verkehrssiche-\n     rungspflichtigen ausschließender, weit überwiegender Verursachungsbeitrag\n     des Geschädigten kann nur angenommen werden, wenn das Handeln des Ge-\n     schädigten von einer ganz besonderen, schlechthin unverständlichen Sorglosig-\n     keit gekennzeichnet ist (BGH, Urteil vom 20. Juni 2013 - III ZR 326/12, VersR\n     2013, 1322 Rn. 27). So ist der Senat etwa in dem vom Berufungsgericht zitierten\n     Urteil vom 20. November 1984 (VI ZR 169/83 - NJW 1985, 482, 483, juris Rn. 15)\n     davon ausgegangen, dass ein Geschädigter, der \"bewusst und ohne Not\" einen\n     spiegelglatten Parkplatz betritt, nur um sein Auto zu holen, in hohem Maße die\n     Sorgfalt verletzt, die ein vernünftig Handelnder zum Schutze der eigenen Ge-\n     sundheit und des eigenen Lebens anzuwenden hat. Selbst in diesem Fall hat der\n     Senat allerdings ein Mitverschulden, das eine Haftung des Streupflichtigen völlig\n     beseitigt, verneint, weil auch dieser in hohem Maße sorglos gewesen sei (aaO\n     juris Rn. 16).\n\f                                          - 11 -"
+        },
+        {
+          "rn": 20,
+          "text": "20         Mindest-, aber nicht alleinige Voraussetzung für die Annahme einer\n     schlechthin unverständlichen Sorglosigkeit des Geschädigten bei \"Glätteunfäl-\n     len\" wegen Verletzung der Streupflicht ist demnach, dass sich dieser einer von\n     ihm erkannten erheblichen Gefahr bewusst ausgesetzt hat (vgl. auch BGH, Urteil\n     vom 20. Juni 2013 - III ZR 326/12, VersR 2013, 1322 Rn. 23-25). Für ein die\n     Haftung minderndes oder gar ausschließendes Mitverschulden des Geschädig-\n     ten ist dabei nach allgemeinen Beweislastregeln und ständiger Rechtsprechung\n     des Bundesgerichtshofs regelmäßig der Schädiger darlegungs- und beweis-\n     pflichtig (Senatsurteil vom 17. März 2009 - VI ZR 166/08, VersR 2009, 693\n     Rn. 22; BGH, Urteile vom 16. Mai 1994 - IX ZR 39/93, NJW 1994, 3102, 3105,\n     juris Rn. 39; vom 22. Mai 1984 - III ZR 18/83, BGHZ 91, 243, 260, juris Rn. 63)."
+        },
+        {
+          "rn": 21,
+          "text": "21         b) Dies hat das Berufungsgericht grundlegend verkannt. Es hat zwar zu-\n     nächst als Voraussetzung für die Annahme einer Alleinverantwortung des Ge-\n     schädigten für einen glättebedingten Sturz im Ansatz zutreffend ausgeführt, dass\n     der Geschädigte sich jedenfalls \"sehenden Auges\" den Gefahren eines nicht\n     oder schlecht gestreuten Weges ausgesetzt haben muss. Wie die folgende Be-\n     gründung im Rahmen der Subsumtion zeigt, hat es seiner Entscheidung dann\n     aber einen anderen, von der Rechtsprechung des Bundesgerichtshofs abwei-\n     chenden Obersatz zugrunde gelegt. Denn es hat ausgeführt, die Klägerin habe\n     \"bei der gebotenen Achtsamkeit in eigenen Angelegenheiten\" bereits vor Betre-\n     ten der Eisfläche \"damit rechnen müssen\", dass diese sehr glatt gewesen sei.\n     Damit ist es rechtsfehlerhaft davon ausgegangen, dass die bloße Erkennbarkeit\n     der Eisglätte genüge, den Verursachungsbeitrag des die Gefahr durch eine\n     Pflichtverletzung begründenden Schädigers gegenüber dem Verursachungsbei-\n     trag des Geschädigten vollständig zurücktreten zu lassen. Dieser Fehler ist ent-\n     scheidungserheblich, weil die Klägerin nach den tatbestandlichen Feststellungen\n     des Berufungsgerichts vorgetragen hat, dass sie in dem Moment, als sie bemerkt\n\f                                             - 12 -\n\n\n\n     habe, dass die Fläche glatt gewesen sei und deshalb unverzüglich die Straßen-\n     seite habe wechseln wollen, schon ausgerutscht sei. Ihrem Vortrag zufolge hat\n     sie die Glätte also nicht schon vor dem Betreten der Eisfläche erkannt, sondern\n     erst, als sie sich auf dieser befand."
+        },
+        {
+          "rn": 22,
+          "text": "22          Darüber hinaus hat das Berufungsgericht der Klägerin für ihr Vorbringen,\n     die Gefahrstelle sei für sie im Vorhinein nicht erkennbar gewesen und es habe\n     keine Möglichkeit gegeben, den Sturz zu verhindern, näheren Tatsachenvortrag\n     abverlangt. Damit hat es die Darlegungs- und Beweislast des Schädigers für das\n     Mitverschulden verkannt. Schließlich hat es mit seinen Ausführungen dazu, wel-\n     che Schlüsse die Klägerin aus der örtlichen Satzung zum zu verwendenden\n     Streugut hätte ziehen müssen, die Anforderungen an die dem Geschädigten in\n     eigenen Angelegenheiten obliegende Sorgfalt überspannt.\n\n     Seiters                                 von Pentz                      Oehler\n\n\n                       Müller                                  Linder\n\n\n\n\n     Vorinstanzen:\n     LG Gießen, Entscheidung vom 31.07.2023 - 3 O 191/22 -\n     OLG Frankfurt am Main, Entscheidung vom 29.08.2024 - 11 U 76/23 -"
+        }
+      ]
+    },
+    {
+      "id": "AA04",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2004-10-05",
+      "docket": "VI ZR 294/03",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2003/VI_ZR_294-03.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-294-03.pdf",
+      "pdf_sha256": "081fd402e4c388689a9a49ea913bdb3de4ea5901259fd3294422ea5bfab13486",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR-294-03.txt",
+      "text_sha256": "65ad66800c98ce63116ada2da1d9315416b54f782c7365eb4dc37c4e4e685ecc",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA04 – besondere Gefahren im Schwimmbad.** BGH, Urteil vom **05.10.2004 – VI ZR 294/03**, **gedruckte S. 6–8**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2003/VI_ZR_294-03.pdf?__blob=publicationFile&v=1). Geprüft: Schutz vor besonderen, über das übliche Benutzungsrisiko hinausgehenden und nicht ohne Weiteres erkennbaren Gefahren; vorhersehbares kindliches Fehlverhalten. **Grenze:** Wasserrutschenfall. Keine Übertragung der dortigen technischen Rutschennorm auf eine Einstiegsleiter und keine Gleichsetzung mit grobem Aufsichtsversagen bei einem Ertrinkungsunfall. Der amtliche Text enthält keine Randnummern.",
+      "checked_passages": [
+        {
+          "printed_page": 6,
+          "text": "-6-\n\n\n\n                                         II.\n\n      Diese Ausführungen halten der revisionsrechtlichen Prüfung stand.\n\n      1. Der erkennende Senat, hat die Voraussetzungen, die unter dem Ge-\nsichtspunkt der Verkehrssicherungspflicht an den Betrieb von Wasserrutschen\nzu stellen sind, bereits in dem Urteil vom 3. Februar 2004 (VI ZR 95/03 - VersR\n2004, 657 ff.) im einzelnen dargelegt.\n\n      Danach ist der Betreiber eines Schwimmbades verpflichtet, die Badegä-\nste vor Gefahren zu schützen, denen diese beim Besuch des Hallenbades und\nbei der Benutzung der Einrichtungen des Bades ausgesetzt sein können. Unter\ndem Gesichtspunkt der Verkehrssicherungspflicht für Schwimmbäder müssen\ndie Badegäste vor den Gefahren geschützt werden, die über das übliche Risiko\nbei der Anlagenbenutzung hinausgehen, von ihnen nicht vorhersehbar und\nnicht ohne weiteres erkennbar sind, wobei, wenn das Schwimmbad nicht nur\nvon Erwachsenen besucht wird, für den Umfang der erforderlichen Sicherheits-\nvorkehrungen auch in Betracht zu ziehen ist, daß insbesondere Kinder und Ju-\ngendliche dazu neigen, Vorschriften und Anordnungen nicht zu beachten und\nsich unbesonnen zu verhalten. Auf die vielfältigen Gefahren, die sich aus dem\nBetrieb einer Wasserrutsche ergeben können und denen der Sicherungspflich-\ntige nach Möglichkeit entgegenwirken muß, hat der erkennende Senat in dem\nUrteil vom 3. Februar 2004 hingewiesen. Dort ist auch bereits ausgeführt, daß\nes keinen Bedenken begegnet, wenn der Tatrichter zur Feststellung von Inhalt\nund Umfang der den Schwimmbadbetreiber bezüglich einer Wasserrutsche tref-\nfenden Verkehrssicherungspflichten die DIN EN 1069 mit heranzieht, wie es\ndas Berufungsgericht hier getan hat.\n\n      2. Danach gilt unter den im vorliegenden Einzelfall festgestellten Um-\nständen Folgendes:"
+        },
+        {
+          "printed_page": 7,
+          "text": "-7-\n\n\n\n      a) Das Berufungsgericht stellt fest, es sei nichts dafür ersichtlich, daß\nhier nach der DIN EN 1069 zusätzliche Sicherungsmaßnahmen erforderlich\ngewesen seien. Dies wird von der Revision nicht beanstandet. Diese macht\nauch nicht geltend, es beruhe auf einem Fehler der Rutsche, daß sich das an-\ndere Mädchen darin \"verkeilt\" hatte.\n\n      b) Das Berufungsgericht geht weiter davon aus, daß der Unfall nach aller\nWahrscheinlichkeit trotz Einhaltung der von der Beklagten vorgegebenen War-\ntezeit von 30 Sekunden geschehen ist, daß also das Fehlen möglicherweise er-\nforderlicher Benutzerhilfen zur Zeitfeststellung nicht unfallursächlich geworden\nist. Auch dem tritt die Revision nicht entgegen. Sie verweist vielmehr ausdrück-\nlich auf den Vortrag der Klägerin, die vorgeschriebene Wartezeit eingehalten\nund die Rutsche ordnungsgemäß benutzt zu haben. Sie führt weiter aus, daß\nnach den Umständen nicht festgestellt werden kann, daß sich das andere Kind\nbei der Benutzung der Rutsche nicht ordnungsgemäß verhalten hat und des-\nhalb hängen geblieben ist. Unter diesen Umständen kann die Revision mit ihren\nAusführungen dazu, die Beklagte habe (weitere) Sicherungsmaßnahmen zur\nVerhinderung eines Fehlgebrauchs der Rutsche treffen müssen, schon deshalb\nkeinen Erfolg haben, weil sich ein solch mögliches Versäumnis im Streitfall nicht\nausgewirkt hat.\n\n      c) Das Berufungsgericht hat nicht verkannt, daß es unter den hier gege-\nbenen Umständen in der Rutsche zu einem Zusammenstoß hintereinander rut-\nschender Benutzer kommen kann. Es meint jedoch, daß die Sicherungsvorga-\nben der Beklagten gleichwohl ausreichen. Dabei stellt es auf Überlegungen der\nFinanzierbarkeit und der Benutzerfreundlichkeit, aber auch darauf ab, daß es\nbei Einhaltung der Regeln in Anbetracht des mäßigen bis geringen Röhrenge-\nfälles nach vorausschauender Erwartung allenfalls zu geringen Verletzungen\nkommen kann."
+        },
+        {
+          "printed_page": 8,
+          "text": "-8-\n\n\n\n      Jedenfalls im Hinblick auf den zuletzt genannten Gesichtspunkt sind die\nAusführungen des Berufungsgerichts revisionsrechtlich nicht zu beanstanden.\nDer Aufwand, den der Verkehrssicherungspflichtige zu treiben hat, richtet sich\nauch nach den möglichen Verletzungsfolgen, die den Benutzern einer Sport-\noder Freizeitanlage drohen. Daß es bei sportlichen Betätigungen oder sportähn-\nlicher Freizeitbetätigung aus Unachtsamkeit, aufgrund der Verkettung unglückli-\ncher Umstände oder auch wegen der solchen Aktivitäten häufig anhaftenden\nGefahren zu Verletzungen kommen kann, ist allgemein bekannt und wird vom\nGroßteil der Bevölkerung akzeptiert, der sich dadurch nicht von derartigen Betä-\ntigungen abbringen lässt. Die Auffassung des Berufungsgerichts, eine Sport-\noder Freizeitanlage, bei deren regelgerechter Benutzung lediglich kleinere Ver-\nletzungen drohen, müsse nicht durch kostenträchtige Maßnahmen weiter gesi-\nchert werden, begegnet - jedenfalls bei der gegebenen Sachlage - keinen\ndurchgreifenden Bedenken.\n\n      Daß die lückenlose Überwachung sämtlicher Rutschvorgänge durch Per-\nsonal oder Einbau und Betrieb technischer Anlagen einen nicht unerheblichen\nKostenaufwand erfordert, kann nicht zweifelhaft sein. Drohen von einer Anlage\nnur seltene und relativ geringe Gefahren, kann das Kostenargument auch bei\nder gebotenen Berücksichtigung der möglicherweise gefährdeten Rechtsgüter\nder Benutzer durchaus an Bedeutung gewinnen. Entsprechendes gilt für die\nÜberlegung, den durch die Anlage vermittelten Freizeitspaß nicht durch Über-\nregulierung allzu weit einzuschränken.\n\n      d) Die Auffassung der Revision, entgegen der Ansicht des Berufungsge-\nrichts sei bei der hier in Frage stehenden Rutsche mit schweren Verletzungen\nzu rechnen, kann sich nicht auf im konkreten Fall festgestellte oder fehlerhaft\nnicht festgestellte Umstände stützen. Der Hinweis darauf, daß es in anderen\n- veröffentlichten Urteilen zugrundeliegenden - Fällen der Benutzung von Was-"
+        }
+      ]
+    },
+    {
+      "id": "AA05",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2013-07-04",
+      "docket": "III ZR 250/12",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_250-12.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR-250-12.pdf",
+      "pdf_sha256": "ff13d42018b39f50ffc49de962e641cc75bf820918be1e5296083431c217d555",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR-250-12.txt",
+      "text_sha256": "de9dc68a2c13f95fa05a232f54b88b3896674ea0a29398bd5eb91bfe69555193",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA05 – Sicherung bei aktiven Straßenarbeiten.** BGH, Urteil vom **04.07.2013 – III ZR 250/12**, Rn. **13–18**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_250-12.pdf?__blob=publicationFile&v=1). Geprüft: zumutbare Maßnahmen gegen vorhersehbare Eigentumsschäden bei Mäharbeiten; konkrete technische Sicherungsalternativen und objektiver Sorgfaltsmaßstab. **Grenze:** Steinschlag durch Freischneider, kein Astschnitt. Die mobile Schutzwand dieses Falls ist keine vorgeschriebene Baumarbeitsmethode; geeignete Räumung, Seilführung und Sperrung eigenständig prüfen.",
+      "checked_passages": [
+        {
+          "rn": 13,
+          "text": "13         aa) Zu den Amtspflichten, die Amtsträger zu beachten haben, gehört die\n     Pflicht zu rechtmäßigem Verhalten. Eine besonders wichtige Konsequenz die-\n     ser Pflicht ist es, deliktische Schädigungen zu unterlassen, insbesondere sich\n     bei der Amtsausübung aller rechtswidrigen Eingriffe in fremde Rechte zu enthal-\n     ten, vor allem in die durch § 823 Abs. 1 BGB geschützten absoluten Rechtsgü-\n     ter, hier das Eigentum (vgl. Senatsurteil vom 28. November 2002 - III ZR\n     122/02, NVwZ-RR 2003, 166). Bei Mäharbeiten der vorliegenden Art sind dabei\n     (insbesondere) die notwendigen Sicherungsvorkehrungen und –maßnahmen zu\n     treffen, um Schäden durch hochgeschleuderte Steine zu vermeiden (Senat\n     aaO), wobei freilich nur solche Schutzvorkehrungen getroffen werden müssen,\n     die unter Berücksichtigung des Gefahrenpotentials mit vertretbarem Aufwand\n     durchgeführt werden können (vgl. BGH, Urteil vom 18. Januar 2005 - VI ZR\n     115/04, NVwZ-RR 2005, 381, 382 zu § 7 StVG)."
+        },
+        {
+          "rn": 14,
+          "text": "14         bb) Nach diesem Maßstab ist aufgrund der tatrichterlichen Feststellun-\n     gen des Berufungsgerichts eine schuldhafte Amtspflichtverletzung des Beklag-\n\f                                         - 7 -\n\n\n\n     ten infolge der Mäharbeiten seiner Mitarbeiter zu bejahen. Die Annahme einer\n     Amtspflichtverletzung wird hier schon allein dadurch getragen, dass nach den\n     Feststellungen des Berufungsgerichts eine mobile, auf Rollen montierte, wie-\n     derverwendbare Schutzwand aus Kunststoffplanen bei den Mäharbeiten hätte\n     verwendet werden können, die entsprechend dem jeweiligen Mähabschnitt hät-\n     te mitgeführt werden können, was die vorbeifahrenden Fahrzeuge vor aufge-\n     wirbelten Steinen geschützt hätte. Diese revisionsrechtlich nur eingeschränkt\n     überprüfbare tatrichterliche Würdigung lässt Rechtsfehler nicht erkennen und\n     hält den Angriffen des Beklagten stand."
+        },
+        {
+          "rn": 15,
+          "text": "15         Ohne Erfolg wendet der Beklagte insofern ein, es fehle an einem hinrei-\n     chenden Vortrag der Parteien für die Annahme des Berufungsgerichts zur Mög-\n     lichkeit des Einsatzes einer mobilen Schutzwand aus Kunststoffplanen. Den\n     Einsatz eines Schlagschutzes in Form einer Plane hat die Klägerin bereits im\n     Schriftsatz vom 13. Oktober 2011 gegenüber dem Landgericht in den Prozess\n     eingeführt. Der Beklagte kann sich auch nicht darauf berufen, dass der Einsatz\n     von Planen an längeren zu mähenden Abschnitten einer Straße unzumutbar\n     sei. Das Berufungsgericht ist nicht davon ausgegangen, dass der gesamte\n     Streckenabschnitt einheitlich hätte abgeplant werden müssen. Die Entschei-\n     dung steht deshalb auch nicht im Widerspruch zur Entscheidung des Bundes-\n     gerichtshofs vom 18. Januar 2005 (VI ZR 115/04, NVwZ-RR 2005, 381, 382 zu\n     § 7 StVG), wonach ein vollständiges Abplanen des zukünftigen Arbeitsbereichs\n     bei Mäharbeiten an Autobahnen unzumutbar sei."
+        },
+        {
+          "rn": 16,
+          "text": "16         Hinzu kommt, dass - wie das Berufungsgericht rechtsfehlerfrei in seine\n     Würdigung mit einbezogen hat - die Benutzung der von den Mitarbeitern des\n     Beklagten verwendeten Freischneider ausweislich der Betriebsanleitung eine\n     besonders hohe \"Schleudergefahr\" mit sich bringt. Sie kommen deshalb nach\n\f                                           - 8 -\n\n\n\n     dem eigenen Vorbringen des Beklagten vor allem dann zum Einsatz, wenn we-\n     gen der besonderen Beschaffenheit der zu mähenden Stelle (hier: \"Freimähen\"\n     von Schutzplanken) der Einsatz von Rasenmähern mit Auffangkorb nicht mög-\n     lich ist."
+        },
+        {
+          "rn": 17,
+          "text": "17           Da es sich bei der tatsächlichen Beurteilung der Möglichkeit der Verhin-\n     derung von Steinschlag infolge Mäharbeiten durch eine mobile Plane nicht um\n     einen schwierigen technischen Vorgang handelt, konnte das Berufungsgericht\n     auch aus eigener Sachkunde ohne Hinzuzuziehung eines Sachverständigen die\n     entsprechenden Feststellungen treffen. Umstände, die den Einsatz einer mobi-\n     len Plane auf Rollen angesichts der Gefahren für den an den Mäharbeiten vor-\n     beifließenden Verkehr als wirtschaftlich unzumutbar erscheinen lassen, zeigt\n     der Beklagte nicht auf. Insbesondere ist ein die Grenzen der Zumutbarkeit\n     überscheitender zusätzlicher Personalaufwand nicht ersichtlich."
+        },
+        {
+          "rn": 18,
+          "text": "18           c) Nach dem das Amtshaftungsrecht beherrschenden objektiven Sorg-\n     faltsmaßstab trifft die Mitarbeiter des Beklagten hier auch ein Fahrlässigkeits-\n     vorwurf: Sie hätten die Notwendigkeit weitergehender Schutzvorkehrungen zu-\n     mindest erkennen und in Rechnung stellen können. Insbesondere der Einsatz\n     von mobilen Absperrvorrichtungen hätte in Erwägung gezogen werden müssen."
+        }
+      ]
+    },
+    {
+      "id": "AA06",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2024-01-11",
+      "docket": "III ZR 15/23",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/BGH-III-ZR-15-23.pdf",
+      "pdf_sha256": "f8d26123b6f7b23feb5421e6293383b48bcd449765d9046a0258fbcbb0473361",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/BGH-III-ZR-15-23.txt",
+      "text_sha256": "ad44b963df977e3c91c6df2c33ecd1382e1b5a7f56d22f60baffe24db731e0ee",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA06 – privates Unternehmen als Verwaltungshelfer.** BGH, Urteil vom **11.01.2024 – III ZR 15/23**, Rn. **9, 11–17**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2023/III_ZR__15-23.pdf?__blob=publicationFile&v=1). Geprüft: funktioneller Aufgabenbezug und innere/äußere Nähe; Einfluss der öffentlichen Hand und begrenzter eigener Spielraum; befreiende Haftungsübernahme. **Grenze:** Umsetzung einer konkreten verkehrsbehördlichen Beschilderungsanordnung. Eigenverantwortliche Schnitttechnik und gemischte Aufgaben der Baumpflege erfordern eine eigene Gesamtwürdigung. Identisch mit KH07 der allgemeinen Referenz; keine zusätzliche scheinbar unabhängige Bestätigung zählen.",
+      "checked_passages": [
+        {
+          "rn": 9,
+          "text": "9   1.    In seinem Anwendungsbereich verdrängt § 839 BGB als vorrangige Spe-\n    zialregelung konkurrierende Ansprüche aus §§ 823 ff BGB. Im Rahmen der Haf-\n    tung nach § 839 BGB tritt gemäß Art. 34 Satz 1 GG - im Wege der befreienden\n    Haftungsübernahme - der Staat beziehungsweise die jeweilige Anstellungskör-\n    perschaft als Anspruchsgegner des Geschädigten an die Stelle dessen, der in\n    Ausübung eines ihm anvertrauten öffentlichen Amtes gehandelt hat; in diesem\n\f                                           - 6 -\n\n\n\n     Fall scheidet eine persönliche Haftung des Amtsträgers gegenüber dem Geschä-\n     digten aus (st. Rspr.; vgl. nur Senat, Urteile vom 13. April 2023 - III ZR 215/21,\n     BGHZ 237, 30 Rn. 21 und vom 6. Juni 2019 aaO Rn. 10; jew. mwN)."
+        },
+        {
+          "rn": 11,
+          "text": "11         a) Ob sich das Handeln einer Person als Ausübung eines ihr anvertrauten\n     öffentlichen Amtes darstellt, bestimmt sich nach der ständigen Senatsrechtspre-\n     chung danach, ob die eigentliche Zielsetzung, in deren Sinn der Betreffende tätig\n     wird, hoheitlicher Tätigkeit zuzurechnen ist und ob zwischen dieser Zielsetzung\n     und der schädigenden Handlung ein so enger äußerer und innerer Zusammen-\n     hang besteht, dass die Handlung ebenfalls als noch dem Bereich hoheitlicher\n     Betätigung angehörend angesehen werden muss. Dabei ist nicht auf die Person\n     des Handelnden, sondern auf seine Funktion, das heißt auf die Aufgabe, deren\n     Wahrnehmung die im konkreten Fall ausgeübte Tätigkeit dient, abzustellen (Se-\n     nat, Urteile vom 13. April 2023 aaO Rn. 23 und vom 6. Juni 2019 aaO Rn. 18;\n     jew. mwN)."
+        },
+        {
+          "rn": 12,
+          "text": "12         Hiernach können auch Mitarbeiter eines privaten Unternehmens Amtsträ-\n     ger im haftungsrechtlichen Sinne sein. Dies kommt neben den Fällen der Belei-\n     hung eines Privatunternehmens mit hoheitlichen Aufgaben auch dann in Be-\n     tracht, wenn Private als Verwaltungshelfer bei der Erledigung hoheitlicher Aufga-\n     ben tätig werden (Senat, Urteile vom 13. April 2023 aaO Rn. 24 und vom 6. Juni\n     2019 aaO; jew. mwN). Dafür ist erforderlich, dass ein innerer Zusammenhang\n     und eine engere Beziehung zwischen der Betätigung des Privaten und der ho-\n     heitlichen Aufgabe bestehen, wobei die öffentliche Hand in so weitgehendem\n\f                                          - 7 -\n\n\n\n     Maße auf die Durchführung der Arbeiten Einfluss nimmt, dass der Private gleich-\n     sam als bloßes \"Werkzeug\" oder \"Erfüllungsgehilfe\" des Hoheitsträgers handelt\n     und dieser die Tätigkeit des Privaten deshalb wie eine eigene gegen sich gelten\n     lassen muss (Senat, Urteile vom 13. April 2023 und vom 6. Juni 2019; jew. aaO\n     und mwN)."
+        },
+        {
+          "rn": 13,
+          "text": "13         Da die auf bürgerlich-rechtlicher Grundlage beruhende Heranziehung pri-\n     vater Unternehmer zur Erfüllung hoheitlicher Aufgaben eine Vielzahl von Fallge-\n     staltungen umfasst, die sich sowohl durch den Charakter der jeweils wahrgenom-\n     menen Aufgabe als auch durch die unterschiedliche Sachnähe der übertragenen\n     Tätigkeit zu dieser Aufgabe sowie durch den Grad der Einbindung des Unterneh-\n     mers in den behördlichen Pflichtenkreis unterscheiden, ist eine Gesamtbetrach-\n     tung anzustellen, der ein \"bewegliches Beurteilungsraster\" zugrunde liegt: Je\n     stärker der hoheitliche Charakter der Aufgabe in den Vordergrund tritt - was vor\n     allem in der Eingriffsverwaltung der Fall ist -, je enger die Verbindung zwischen\n     der übertragenen Tätigkeit und der von der öffentlichen Hand zu erfüllenden ho-\n     heitlichen Aufgabe und je begrenzter der Entscheidungsspielraum des Privaten\n     ist, desto näher liegt es, den Handelnden als Beamten im haftungsrechtlichen\n     Sinne anzusehen (Senat, Urteile vom 13. April 2023 aaO Rn. 25 und vom 6. Juni\n     2019 aaO Rn. 18 und 26; jew. mwN)."
+        },
+        {
+          "rn": 14,
+          "text": "14         b) Das Berufungsgericht hat die Verwaltungshelfereigenschaft der Beklag-\n     ten unter Zugrundelegung dieses Maßstabs zutreffend bejaht."
+        },
+        {
+          "rn": 15,
+          "text": "15         aa) Bei den von der Beklagten zu erbringenden Arbeiten stand der hoheit-\n     liche Charakter im Vordergrund.\n\f                                          - 8 -"
+        },
+        {
+          "rn": 16,
+          "text": "16         (1) Die Verkehrsregelung mittels Verkehrszeichen (§ 45 StVO) ist eine ho-\n     heitliche Aufgabe (Senat, Urteil vom 6. Juni 2019 aaO Rn. 13 mwN). Es handelt\n     sich - jedenfalls bei verkehrsbeschränkenden Verkehrsregelungen und -zeichen -\n     um Maßnahmen der Eingriffsverwaltung, da die durch sie angeordneten Ge- und\n     Verbote Verhaltensbefehle sind, die für die Verkehrsteilnehmer bindend sind (Se-\n     nat aaO mwN). Die entsprechende Anordnung obliegt den Straßenverkehrsbe-\n     hörden (§ 45 Abs. 3 StVO) und im - vorliegenden - Ausnahmefall, wenn sie zur\n     Durchführung von Straßenbauarbeiten erfolgt, den Straßenbaubehörden (§ 45\n     Abs. 2 Satz 1 und 4 StVO; Senat aaO mwN)."
+        },
+        {
+          "rn": 17,
+          "text": "17         Auch die tatsächliche Umsetzung der Verkehrsregelung durch die Anbrin-\n     gung der Verkehrszeichen stellt eine hoheitliche Aufgabe dar (Senat aaO Rn. 14\n     mwN). Zu ihrer Wahrnehmung ist gemäß § 45 Abs. 5 Satz 1 StVO der Baulastträ-\n     ger verpflichtet. Baulastträger sind, wenn - wie vorliegend - von einer Baumaß-\n     nahme Kreisstraßen betroffen sind, gemäß § 41 Abs. 2 Satz 1 des Hessischen\n     Straßengesetzes (HStrG) die Landkreise und kreisfreien Städte. Diese können\n     gemäß § 41 Abs. 2 Satz 2 HStrG durch Vereinbarung dem Land, dessen obere\n     Straßenbaubehörde Hessen Mobil ist (§ 46 Abs. 2 HStrG), die Verwaltung und\n     Unterhaltung der Kreisstraßen einschließlich des Um- und Ausbaus übertragen."
+        }
+      ]
+    },
+    {
+      "id": "AA07",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2013-07-04",
+      "docket": "III ZR 201/12",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_201-12.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR-201-12.pdf",
+      "pdf_sha256": "bc5f75cc5f03ad475c8e094a81189d87e9b876bff06943c1af6cdbdb894750a4",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR-201-12.txt",
+      "text_sha256": "d7e90b70edb34507448c0363b862a7249113b97242d39004cc76d31802bfc759",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA07 – schadensabwendende Rechtsmittel.** BGH, Urteil vom **04.07.2013 – III ZR 201/12**, Rn. **18, 22–25**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2012/III_ZR_201-12.pdf?__blob=publicationFile&v=1). Geprüft: weiter Rechtsmittelbegriff des § 839 Abs. 3 einschließlich geeigneter formloser Gegenvorstellungen und Erinnerungen, Möglichkeit/Zumutbarkeit unmittelbarer Schadensabwehr. **Grenze:** sozialrechtliche Konstellation. Weder erfüllt jede Nachfrage alle Anforderungen noch ist jeder unterlassene Eilantrag automatisch schädlich; keine fiktive sichere Entscheidung des Verwaltungsgerichts unterstellen.",
+      "checked_passages": [
+        {
+          "rn": 18,
+          "text": "18          a) Nach der Rechtsprechung des Senats ist der Begriff des Rechtsmittels\n     zwar nicht auf die in den Verfahrensvorschriften vorgesehenen Behelfe be-\n     schränkt, sondern umfasst auch andere, rechtlich mögliche und geeignete\n     - förmliche oder formlose - Rechtsbehelfe (z.B. Gegenvorstellungen, Erinnerun-\n     gen an die Erledigung eines Antrags, Beschwerden und Dienstaufsichtsbe-\n     schwerden), ist also in einem weiten Sinn zu verstehen (z.B.: Senatsurteile vom\n     4. Juni 2009 - III ZR 144/05, BGHZ 181, 199 Rn. 25; vom 8. Januar 2004\n     - III ZR 39/03, NJW-RR 2004, 706, 707; vom 9. Oktober 1997 - III ZR 4 /97,\n     BGHZ 137, 11, 23 und vom 3. Juni 1993 - III ZR 104/92, BGHZ 123, 1, 7 f). Der\n\f                                          - 9 -\n\n\n\n     Rechtsbehelf muss sich jedoch unmittelbar gegen die schädigende Amtshand-\n     lung oder Unterlassung selbst richten und ihre Beseitigung beziehungsweise\n     Vornahme bezwecken und ermöglichen (Senat aaO sowie Urteil vom 16. Okto-\n     ber 2008 - III ZR 15/08, WM 2009, 86 Rn. 24). Diese Voraussetzung erfüllt der\n     sozialrechtliche Herstellungsanspruch nicht."
+        },
+        {
+          "rn": 22,
+          "text": "22         Der Gesichtspunkt des Schutzes der Beteiligten vor der Notwendigkeit,\n     wegen einer (möglicherweise) rechtswidrigen Amtshandlung mehrere Verfahren\n     parallel zu führen, ist jedoch für § 839 Abs. 3 BGB nicht ausschlaggebend, auch\n     wenn dies ein nützlicher Nebeneffekt sein mag. Das gesetzgeberische Anlie-\n     gen, das der Regelung des § 839 Abs. 3 BGB zugrunde liegt, besteht vielmehr\n     darin, nach Treu und Glauben nur demjenigen Schadensersatz zuzubilligen, der\n     sich in gehörigem und ihm zumutbarem Maße für seine eigenen Belange ein-\n     setzt und damit den Schaden abzuwenden sich bemüht. Es soll nicht erlaubt\n     sein, den Schaden entstehen oder größer werden zu lassen, um ihn schließlich,\n     gewissermaßen als Lohn für eigene Untätigkeit, dem Beamten oder dem Staat\n     in Rechnung zu stellen; § 839 Abs. 3 BGB stellt damit eine besondere Ausprä-\n     gung von § 254 BGB dar (Senatsurteil vom 29. März 1971 - III ZR 98/69, BGHZ\n\f                                          - 11 -\n\n\n\n     56, 57, 63). Daneben ist die Deutung getreten, dass § 839 Abs. 3 BGB die\n     schadensersatzrechtliche Sanktion des ihm vorausliegenden Gebots darstellt,\n     den Primärrechtsschutz in Anspruch zu nehmen, die Vorschrift somit die se-\n     kundäre    Schadensersatzpflicht    in   den    Nachrang     verweist   (Münch-\n     KommBGB/Papier, 5. Aufl., § 839 Rn. 330; Ossenbühl/Cornils aaO S. 94). Wer\n     durch hoheitliches Unrecht Schaden erleidet, muss sich unmittelbar gegen den\n     schädigenden Hoheitsakt wenden, soweit dies möglich und zumutbar ist. Ein\n     Wahlrecht steht dem Geschädigten nicht zu (dies. aaO)."
+        },
+        {
+          "rn": 23,
+          "text": "23         bb) Ausgehend von diesen Zweckbestimmungen hat der Senat in seiner\n     Rechtsprechung den Begriff des Rechtsmittels im Sinne des § 839 Abs. 3 BGB\n     wie oben unter Buchstaben a wiedergegeben ausgelegt. Mit dieser Definition ist\n     es nicht vereinbar, den sozialrechtlichen Herstellungsanspruch - ebenso wie\n     den verwaltungsrechtlichen Folgenbeseitigungsanspruch - als Rechtsmittel im\n     Sinne des § 839 Abs. 3 BGB zu qualifizieren."
+        },
+        {
+          "rn": 24,
+          "text": "24         Der vom Bundessozialgericht richterrechtlich entwickelte sozialrechtliche\n     Herstellungsanspruch knüpft an die Verletzung behördlicher Auskunfts-, Bera-\n     tungs- und Betreuungspflichten als Nebenpflichten im Sozialrechtsverhältnis an.\n     Er begründet einen Anspruch auf (eine Art von) Naturalrestitution. Er ist auf die\n     Vornahme einer zulässigen Amts- beziehungsweise Rechtshandlung zur Her-\n     stellung desjenigen Zustandes gerichtet, der bestehen würde, wenn der\n     Sozialleistungsträger die ihm aus dem Sozialrechtsverhältnis erwachsenden\n     Nebenpflichten ordnungsgemäß wahrgenommen hätte (st. Rspr., z.B.: BSG,\n     NZS 2013, 233 Rn. 28; BSGE 65, 21, 26; 49, 76, 78 f; siehe auch Senatsurteil\n     vom 11. Februar 1988 - III ZR 221/86, BGHZ 103, 242, 246). Damit entspricht\n     er weitgehend dem im allgemeinen Verwaltungsrecht anerkannten Folgenbesei-\n     tigungsanspruch, der ebenfalls auf die Beseitigung der rechtswidrigen Folgen\n\f                                         - 12 -\n\n\n\n     eines Handelns oder Unterlassens der vollziehenden Gewalt gerichtet ist und\n     einen Ausgleich in natura gewährt (z.B. BVerwGE 140, 34 Rn. 18; BVerwG\n     Buchholz 310 § 113 Abs. 1 VwGO Nr. 35; BVerwGE 69, 366, 371). Zwar unter-\n     scheiden sich die beiden Institute darin, dass im Sozialrecht der Anspruch da-\n     rauf gerichtet ist, den Zustand herzustellen, der bestehen würde, wenn sich der\n     Sozialleistungsträger von vornherein rechtmäßig verhalten hätte, während auf\n     dem Gebiet des allgemeinen Verwaltungsrechts unrechtmäßige hoheitliche\n     Maßnahmen nur im Rahmen zulässigen Verwaltungshandeln ausgeglichen\n     werden können (BVerwG Buchholz aaO). Gegenstand eines verwaltungsrecht-\n     lichen Folgenbeseitigungsanspruchs ist daher nicht die Einräumung derjenigen\n     Rechtsposition, die der Betroffene bei rechtsfehlerfreiem Verwaltungshandeln\n     haben würde. Der Anspruch auf Folgenbeseitigung ist dementsprechend re-\n     gelmäßig nur auf die Wiederherstellung des ursprünglichen, durch hoheitliches\n     Handeln veränderten Zustands gerichtet (BVerwG aaO)."
+        },
+        {
+          "rn": 25,
+          "text": "25         Entscheidend im vorliegenden Zusammenhang ist jedoch die Gemein-\n     samkeit beider Ansprüche, dass sie nicht auf die Abwehr oder Veränderung der\n     zugrunde liegenden Verwaltungsmaßnahme gerichtet sind, sondern die Besei-\n     tigung von deren Folgen zum Ziel haben. Sie tragen damit einen auf die Konse-\n     quenzen des in Rede stehenden Verwaltungshandelns oder -unterlassens ge-\n     richteten kompensatorischen, nicht aber auf die Maßnahme selbst gerichteten\n     defensiven Charakter. Demgegenüber müssen sich, wie unter Buchstaben a\n     ausgeführt, Rechtsmittel im Sinne des § 839 Abs. 3 BGB unmittelbar gegen die\n     als Amtspflichtverletzung darstellende Handlung richten und das Ziel haben,\n     diese zu beseitigen oder zu berichtigen.\n\f                                         - 13 -"
+        }
+      ]
+    },
+    {
+      "id": "AA08",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2007-10-25",
+      "docket": "III ZR 62/07",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__62-07.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR--62-07.pdf",
+      "pdf_sha256": "4add6712db1b9a298ed9e538a736267fe96d32c4ff8fc4f3befa0510505655ed",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/III-ZR--62-07.txt",
+      "text_sha256": "583389c63176333884179b0b8baa135f68a690a61357cdea15c945f1d5ef695b",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA08 – Versagung und geschützte bauliche Nutzung.** BGH, Urteil vom **25.10.2007 – III ZR 62/07**, Rn. **7, 10–12**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__62-07.pdf?__blob=publicationFile&v=1). Geprüft: Schutz der Grundstücksnutzung durch rechtmäßige Entscheidung, Begrenzung auf Schäden im sachlichen Schutzbereich, keine allgemeine Pflicht zur aufschiebenden Genehmigungsbedingung bei Grundstücksgeschäften. **Grenze:** dort rechtskräftige verwaltungsgerichtliche Entscheidung und zusätzlich DDR-Staatshaftungsrecht. Beides liegt in Bayern nicht allein wegen späterer Abhilfe vor. Keine automatische Erstattung jeder Miete oder jeder gewerblichen Folgekosten.",
+      "checked_passages": [
+        {
+          "rn": 7,
+          "text": "7   1.     Aufgrund der Rechtskraft des der Klägerin günstigen verwaltungsgericht-\n    lichen Urteils steht auch für den vorliegenden Amtshaftungsanspruch fest, dass\n    die ursprüngliche Ablehnung des Baugenehmigungsantrags der Klägerin\n    rechtswidrig gewesen ist (st. Rspr.; vgl. für Verwaltungsakte im Allgemeinen:\n    Senatsurteile BGHZ 103, 242, 244 f; 134, 268, 273 f; 146, 153, 156; 161, 305,\n    309; ferner Staudinger/Wurm, BGB [Neubearbeitung 2007] § 839 Rn. 420 mit\n    zahlreichen weiteren Nachweisen). Das wird auch von der Revision nicht in Ab-\n    rede gestellt."
+        },
+        {
+          "rn": 10,
+          "text": "10          a) Inhaltlich ist der Schadensersatzanspruch wegen pflichtwidriger Ver-\n     weigerung oder Verzögerung einer beantragten Baugenehmigung grundsätzlich\n     auf den Ausgleich aller Nachteile gerichtet, die bei pflichtgemäßem Handeln der\n     Behörde vermieden worden wären. Der Geschädigte ist also so zu stellen, wie\n     wenn sein Gesuch rechtzeitig und zutreffend beschieden worden wäre (Stau-\n     dinger/Wurm aaO Rn. 578). Allerdings muss insoweit ein Bezug zur baulichen\n     Nutzbarkeit des Grundstücks bestehen. Dies hat der Senat beispielsweise für\n     das Provisionsinteresse eines vom Grundstückseigentümer mit der \"Baureifma-\n     chung\" eines Grundstücks beauftragten Architekten verneint. Dieses Interesse\n     fiel nicht in den Schutzbereich der Amtspflichten der Bauaufsichtsbehörde, die\n     bei der Bearbeitung einer von diesem Architekten im eigenen Namen gestellten\n     Bauvoranfrage wahrzunehmen waren. Die durch Vertrag mit dem Grundstücks-\n\f                                          - 6 -\n\n\n\n     eigentümer begründeten Provisionsansprüche wiesen keinen inneren sachli-\n     chen Bezug zu den Amtspflichten der Bauaufsichtsbehörde auf. Die Vertrags-\n     parteien hatten es nicht etwa in der Hand, durch eine Vertragsgestaltung wie\n     die damals zu beurteilende den Schutzbereich der Amtspflichten der Bauauf-\n     sichtsbehörde uferlos dahin zu erweitern, dass jedes beliebige Vermögensinte-\n     resse darunter fiel (Senatsurteil BGHZ 125, 258, 269 f; Staudinger/Wurm aaO)."
+        },
+        {
+          "rn": 11,
+          "text": "11         b) Mit einer derartigen Fallkonstellation ist die jetzige nicht zu verglei-\n     chen. Das hier in Rede stehende Interesse der Klägerin, ihr Grundstück im\n     Rahmen der Rechtsordnung baulich zu nutzen und zu veräußern, fällt in den\n     Kernbereich des durch Art. 14 GG geschützten Grundeigentums und somit in\n     den sachlichen Schutzbereich der von der Bauaufsichtsbehörde bei der Ent-\n     scheidung über die Baugenehmigung zu wahrenden Amtspflichten. Wird die\n     bauliche Nutzung oder die Veräußerung durch die Versagung einer Baugeneh-\n     migung rechtswidrig - und (hinsichtlich der Amtshaftung) schuldhaft - vereitelt,\n     so ist ein dadurch verursachter Schaden im Rahmen der Amts- und Staatshaf-\n     tung zu ersetzen. Schutzwürdig ist insoweit bereits das Vertrauen des Eigentü-\n     mers oder Bauherrn auf die objektive Rechtslage. Dieser braucht nicht mit ei-\n     nem amtspflichtwidrigen Verhalten der Bauaufsichtsbehörde zu rechnen. Ihm\n     obliegt es daher nicht, sich bei den Vertragsverhandlungen mit etwaigen Er-\n     werbsinteressen durch salvatorische Klauseln - etwa in dem Sinne, dass der\n     betreffende Vertrag erst mit Erteilung der Baugenehmigung wirksam werde -\n     gegen die Folgen etwaiger Pflichtverletzungen der Bauaufsichtsbehörde abzu-\n     sichern (vgl. Senatsurteil vom 11. Juni 1992 aaO S. 1121). Der Grundstücks-\n     verkauf und die näheren Einzelheiten der Vertragsgestaltung fielen in den Be-\n     reich der freien unternehmerischen Entscheidung der Klägerin (Senatsurteil\n     aaO). Das \"Rechtsanwendungsrisiko\", d.h. die ordnungsgemäße Handhabung\n     der einschlägigen öffentlich-rechtlichen Vorschriften (Senatsurteil BGHZ 149,\n\f                                          - 7 -\n\n\n\n     50, 55), und das Einstehenmüssen für die haftungsrechtlichen Folgen etwaiger\n     Pflichtverletzungen wurden dadurch nicht von der Bauaufsichtsbehörde auf die\n     Klägerin verlagert."
+        },
+        {
+          "rn": 12,
+          "text": "12         c) Dies bedeutet, dass das Scheitern des ursprünglichen Verkaufs der\n     Remise und der nach dem Sachvortrag der Klägerin notwendige Abschluss ei-\n     nes Deckungsgeschäftes grundsätzlich in den Risikobereich der Beklagten fie-\n     len, vorbehaltlich einer Prüfung, ob einzelne Schadenspositionen möglicherwei-\n     se aus der Kausalität ausgeklammert werden müssen, da sie auch bei rechtzei-\n     tiger Erteilung der Genehmigung entstanden wären. Diese Prüfung kann jedoch\n     dem Betragsverfahren vorbehalten bleiben. Das gleiche gilt für die von der Be-\n     klagten aufgeworfene Frage, ob es der Klägerin unter wirtschaftlichen Ge-\n     sichtspunkten zumutbar gewesen wäre, auf den tatsächlich vorgenommenen\n     umfangmäßig geringeren Ausbau der Remise vorläufig zu verzichten und den\n     Ausgang des verwaltungsgerichtlichen Verfahrens abzuwarten, der einen Aus-\n     bau in dem ursprünglich vorgesehenen größeren Ausmaß ermöglicht hätte."
+        }
+      ]
+    },
+    {
+      "id": "AA09",
+      "court": "BGH",
+      "decision_type": "Urteil",
+      "date": "2005-12-20",
+      "docket": "VI ZR 33/05",
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2005/VI_ZR__33-05.pdf?__blob=publicationFile&v=1",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR--33-05.pdf",
+      "pdf_sha256": "bae2157441f8211e8f51ed25957dc1a905e2b27abfd35ca26a7ea8e531656a60",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/VI-ZR--33-05.txt",
+      "text_sha256": "bab91bac318edef7b4aa8e29a426f8710304e419a13b933f67fcf56e75eea9b7",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA09 – Tiefbau trifft fremde Leitung.** BGH, Urteil vom **20.12.2005 – VI ZR 33/05**, Rn. **8–12**. [Amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2005/VI_ZR__33-05.pdf?__blob=publicationFile&v=1). Geprüft: strenge Erkundigungspflichten auf gewidmetem öffentlichen Grund, Auskunft beim zuständigen Versorger und nötigenfalls eigene sichere Ortung; öffentliche Widmung und Eigentümerstellung sind verschiedene Kriterien. **Grenze:** im entschiedenen Privatgrundstücksfall wurde Haftung mangels weiterer Anhaltspunkte verneint. Die Erwägungen zu öffentlichem Straßenraum sind für den Kanal verwendbar, das Ergebnis des Privatgrundstücksfalls nicht; Stromkabel und Abwasserkanal bleiben technisch verschieden.",
+      "checked_passages": [
+        {
+          "rn": 8,
+          "text": "8          1. Zutreffend geht das Berufungsgericht davon aus, dass hohe Anforde-\n    rungen an die Pflicht der Tiefbauunternehmen gestellt werden, sich vor der\n    Durchführung von Erdarbeiten an öffentlichen Straßenflächen nach der Exis-\n    tenz und dem Verlauf unterirdisch verlegter Versorgungsleitungen zu erkundi-\n    gen (vgl. Senatsurteile vom 21. November 1995 - VI ZR 31/95 - VersR 1996,\n    117; vom 9. Juli 1985 - VI ZR 118/84 - VersR 1985, 1147 f.; vom 9. November\n    1982   - VI ZR 129/81 -    VersR    1983,      152 f.   und   vom   20. April   1971\n    - VI ZR 232/69 - VersR 1971, 741 f.). Sie haben sich Gewissheit über die Verle-\n    gung von Versorgungsleitungen im Boden zu verschaffen, weil öffentliche Ver-\n    kehrsflächen regelmäßig auch dazu genutzt werden, dem öffentlich rechtlichen\n\f                                         -6-\n\n\n\n    Versorgungsauftrag dienende Leitungen dort zu verlegen (vgl. Senatsurteil vom\n    20. April 1971 - VI ZR 232/69 - aaO m.w.N.). Um den unverhältnismäßig gro-\n    ßen Gefahren, die durch eine Beschädigung von Strom-, Gas-, Wasser- oder\n    Telefonleitungen hervorgerufen werden können, zu begegnen, ist mit äußerster\n    Vorsicht vor allem bei der Verwendung von Baggern und anderem schweren\n    Arbeitsgerät vorzugehen. So muß sich der betreffende Tiefbauunternehmer\n    dort, wo entsprechend zuverlässige Unterlagen vorhanden sind, über den Ver-\n    lauf von Versorgungsleitungen erkundigen; im Rahmen der allgemeinen techni-\n    schen Erfahrung hat er sich die Kenntnisse zu verschaffen, welche die sichere\n    Bewältigung der auszuführenden Arbeiten voraussetzt. Da die Versorgungslei-\n    tungen regelmäßig ohne Mitwirkung der kommunalen Bauämter verlegt und\n    unterhalten werden, genügt nicht eine Erkundigung bei diesen; vielmehr besteht\n    im allgemeinen eine Erkundigungspflicht gegenüber den zuständigen Versor-\n    gungsunternehmen. Wenn dies nicht weiterhilft, hat sich der Tiefbauunterneh-\n    mer die erforderliche Gewissheit durch andere geeignete Maßnahmen zu ver-\n    schaffen, etwa durch Probebohrungen oder Ausschachtungen von Hand in dem\n    Bereich, den er ausheben will (vgl. Senatsurteil vom 9. November 1982 - VI ZR\n    129/81 - und vom 20. April 1971 - VI ZR 232/69 - jeweils aaO m.w.N.; OLG\n    Bamberg, OLGR Bamberg 2003, 119 f.; OLG Hamm, GWF/Recht und Steuern\n    2001, 10, 11; Thüringer Oberlandesgericht, VersR 1999, 71; OLG Karlsruhe\n    vom 10. Dezember 1998 - 4 U 1/98 - juris; OLG Düsseldorf, NJW-RR 1994, 22;\n    OLG Köln, NJW-RR 1992, 983, 984)."
+        },
+        {
+          "rn": 9,
+          "text": "9         Allerdings missversteht die Revision den Begriff der Arbeiten auf öffent-\n    lichem Grund, wenn sie meint, dass dafür entscheidend sei, ob Eigentümer des\n    betreffenden Grundstücks eine private Person oder die öffentliche Hand ist. Ob\n    es sich um öffentlichen oder privaten Grund handelt, ist vielmehr nach dessen\n    Widmung zu beurteilen (vgl. beispielsweise § 2 Bundesfernstraßengesetz -\n    FStrG). Ist das Grundstück dem öffentlichen Gebrauch gewidmet, mag es sich\n\f                                          -7-\n\n\n\n     auch im Eigentum einer privaten Person befinden, muss damit gerechnet wer-\n     den, dass dort dem öffentlich rechtlichen Versorgungsauftrag dienende Leitun-\n     gen verlegt sind. Dies rechtfertigt den hohen Sorgfaltsmaßstab bei der Durch-\n     führung von Bauarbeiten auf einem solchen Grundstück."
+        },
+        {
+          "rn": 10,
+          "text": "10         2. Entgegen der Auffassung der Revision begegnet keinen rechtlichen\n     Bedenken, dass das Berufungsgericht der Rechtsprechung mehrerer Oberlan-\n     desgerichte folgt, wonach die erhöhten Anforderungen an die Erkundigungs-\n     und Sorgfaltspflichten bei Arbeiten auf öffentlichem Grund nicht allgemein für\n     Arbeiten auf einem Privatgrundstück gelten, sondern nur wenn besondere An-\n     haltspunkte für Versorgungsleitungen vorhanden sind (vgl. OLG Bamberg,\n     OLGR Bamberg 2003, 119; OLG Hamm, GWF/Recht und Steuern 2001, 10, 11;\n     OLG Koblenz, VersR 2000, 1553; Thüringer Oberlandesgericht, VersR 1999,\n     71; OLG Karlsruhe vom 10. Dezember 1998 - 4 U 1/98 - juris; OLG Düsseldorf,\n     VersR 1999, 328 und NJW-RR 1994, 22; OLG Köln, NJW-RR 1992, 983, 984)."
+        },
+        {
+          "rn": 11,
+          "text": "11          Da Voraussetzung der Widmung eines im privaten Eigentum stehenden\n     Grundstücks regelmäßig ist, dass der Eigentümer oder ein sonst zur Nutzung\n     dinglich Berechtigter der Widmung zugestimmt hat (vgl. § 2 Abs. 2 FStrG), ist\n     bei privaten Grundstücken nicht ohne weitere Anhaltspunkte damit zu rechnen,\n     dass dort unterirdische Versorgungsleitungen verlaufen. Dem Bauunternehmer\n     vor jedweden Grabungsarbeiten auf einem dem Privatgebrauch dienenden\n     Grundstück die Verpflichtung aufzuerlegen, Erkundigungen bei den örtlichen\n     Energieversorgungsunternehmen einzuholen, überschritte daher die Grenze\n     des Zumutbaren. Zwar ist derjenige, der eine Gefahrenlage - gleich welcher\n     Art - schafft, grundsätzlich verpflichtet, die notwendigen und zumutbaren Vor-\n     kehrungen zu treffen, um eine Schädigung anderer möglichst zu verhindern.\n     Dies entspricht ständiger Rechtsprechung des erkennenden Senats (vgl. Se-\n     natsurteile vom 8. November 2005 - VI ZR 332/04 - Umdruck S. 5; vom 15. Juli\n\f                                           -8-\n\n\n\n     2003    - VI ZR 155/02 -   VersR,   2003,   1319;      vom      4. Dezember     2001\n     - VI ZR 447/00 - VersR 2002, 247, 248 und vom 19. Dezember 1989\n     - VI ZR 182/89 - VersR 1990, 498, 499). Dabei kann jedoch nicht jeder abstrak-\n     ten Gefahr vorbeugend begegnet werden. Die rechtlich gebotene Verkehrssi-\n     cherung umfasst diejenigen Maßnahmen, die ein umsichtiger und verständiger,\n     in vernünftigen Grenzen vorsichtiger Mensch für notwendig und ausreichend\n     halten darf, um andere vor Schäden zu bewahren. Voraussetzung ist daher,\n     dass sich vorausschauend für ein sachkundiges Urteil die naheliegende Gefahr\n     ergibt, dass Rechtsgüter anderer verletzt werden können (vgl. Senatsurteile\n     vom 8. November 2005 - VI ZR 332/04 - Umdruck S. 5; vom 4. Dezember 2001\n     - VI ZR 447/00 - VersR 2002, 247, 248 und vom 15. Juli 2003 - VI ZR 155/02 -\n     VersR 2003, 1319; vgl. auch Staudinger/J. Hager 1999, § 823 Rdn. E 35\n     m.w.N.; Palandt/Sprau BGB 65. Aufl., § 823 Rdn. 192)."
+        },
+        {
+          "rn": 12,
+          "text": "12           Nach diesen Grundsätzen, besteht eine Erkundigungspflicht eines Bau-\n     unternehmers nach dem Verlauf von Versorgungsleitungen bei den örtlichen\n     Energieversorgungsträgern vor Grabungsarbeiten auf einem dem Privat-\n     gebrauch dienenden Grundstück nur dann, wenn es konkrete Anhaltspunkte für\n     unterirdisch verlegte Versorgungsleitungen auf dem betreffenden Grundstück\n     gibt."
+        }
+      ]
+    },
+    {
+      "id": "AA10",
+      "court": "OLG Hamm",
+      "decision_type": "Urteil",
+      "date": "2013-11-15",
+      "docket": "11 U 52/12",
+      "url": "https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=%2Fnrwe%2Folgs%2Fhamm%2Fj2013%2F11_U_52_12_Urteil_20131115.html",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/OLG-Hamm-11-U-52-12.pdf",
+      "pdf_sha256": "b28c71a9736f90469b77439980fc79d23f7aa1843b6635691dee61dbd6d6edd3",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/OLG-Hamm-11-U-52-12.txt",
+      "text_sha256": "a5cd75e5f61c489898609a79f82292440eb0c50b0cc4fa36f04a5c8b38f5eff0",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA10 – Schlagloch, Kontrolle und Kausalität.** OLG Hamm, Urteil vom **15.11.2013 – 11 U 52/12**, Rn. **18–28**, besonders **20–25**. [Amtlicher Volltext](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=%2Fnrwe%2Folgs%2Fhamm%2Fj2013%2F11_U_52_12_Urteil_20131115.html). Geprüft: fehlender Nachweis, dass engere Kontrolle den kurzfristig entstandenen Schaden vermieden hätte; gleichwohl Haftung wegen konkret fehlerhafter baulicher Ausführung eines provisorisch abgedeckten Schachts. **Grenze:** Autobahn-Seitenstreifen, damalige NRW-Zuständigkeit und besonderer Bauzustand. Keine Übernahme des alten Art.-90-Systems, der Kontrollintervalle oder des konkreten Schadenumfangs auf bayerische Ortsstraßen. Relevant ist die Trennung von Kontrollfehler, Herstellungsfehler und Kausalität.",
+      "checked_passages": [
+        {
+          "rn": 18,
+          "text": "a)          Das beklagte Land ist für die geltend gemachten Schadensersatzansprüche            18\npassivlegitimiert. Die Verwaltung der Bundesautobahnen obliegt nach Art. 90 Abs. 1 GG\neigenverantwortlich den Ländern. Diese im Auftrag des Bundes den Ländern obliegende\nVerwaltungsaufgabe umfasst die Verpflichtung, für die Sicherheit auf den Autobahnen und\ndamit auch für deren verkehrssicheren Zustand Sorge zu tragen. Deshalb haftet das jeweilige\nLand wegen der Verletzung der Verkehrssicherungspflichten auf Autobahnen (vgl. Wellner in:\nGeigel der Haftpflichtprozess, 26. Auflage 2011, 14. Kap. Rn. 43). Die Haftung richtet sich\ndabei nach Amtshaftungsgrundsätzen, weil das Land Nordrhein-Westfalen die Wahrnehmung\nder Verkehrssicherungspflicht für Bundesfernstraßen, zu denen gemäß § 1 Abs. 1 Nr. 1\nFStrG auch die Bundesautobahnen gehören, gemäß § 9 a Abs. 1 StrWG NRW als hoheitlich\nwahrzunehmende Aufgabe ausgestaltet hat."
+        },
+        {
+          "rn": 19,
+          "text": "b)        Dem beklagten Land fällt im Zuge der im Mai 2010 in Höhe der Anschlussstelle         19\nGelsenkirchen-Buer-West an der BAB 52 durchgeführten Straßenbauarbeiten eine\nVerletzung der ihm obliegenden Verkehrssicherungspflicht zur Last."
+        },
+        {
+          "rn": 20,
+          "text": "aa)           Allerdings ergibt sich Haftung des beklagten Landes entgegen der                 20\nerstinstanzlichen Entscheidung nicht daraus, dass es die von der Fa. H2 hergestellten\nprovisorischen Schachtabdeckungen nicht engmaschig genug darauf hin kontrolliert hat, ob\ndiese den Belastungen des fließenden Verkehrs standhalten. Insoweit kann dahinstehen, ob\ndas beklagte Land die provisorischen Schachtabdeckungen nach Umleitung des Verkehrs auf\nden Standstreifen öfter als nur einmal am Tag hätte kontrollieren müssen und es mit seinem\nerstmals in der Berufungsinstanz gehaltenen Sachvortrag, dass die Verkehrssicherungspflicht\nauf die Fa. I übertragen worden sei und diese die Baustelle zweimal täglich, zuletzt vor dem\nUnfall des Klägers noch am 19.05.2010 zwischen 0:19 Uhr und 0:29 Uhr kontrolliert habe,\nnicht bereits gemäß §§ 529 Abs. 1, 531 Abs. 2 Nr. 3 ZPO ausgeschlossen ist. Denn selbst\n\fwenn man hiervon ausgehen wollte, könnte nicht festgestellt werden, dass die danach\ngegebene Verletzung der Kontrollpflicht auch für den Unfall kausal geworden wäre. Wie\nnämlich der Sachverständige Prof. Dr. Ing. T bei seiner Befragung durch den Senat am\n15.11.2013 ausgeführt hat, können die von den Zeugen C und G geschilderten Schäden an\nder provisorischen Schachtabdeckung auch innerhalb eines sehr kurzen Zeitraumes von nur\neiner halben bis einer Stunde entstanden sein. Davor kann es zwar schon feine Risse in der\nauf der Eisenplatte aufgebrachten Asphaltschicht gegeben haben, die aber nach\nEinschätzung des Sachverständigen selbst aus einem sehr langsam fahrenden Fahrzeug\nheraus nicht zu erkennen gewesen sein müssen. Danach muss aber selbst im Fall einer noch\nam 19.05.2010 um 0:29 Uhr durchgeführten Kontrolle noch kein für die Mitarbeiter der Fa. I\nerkennbares Schadensbild vorgelegen haben."
+        },
+        {
+          "rn": 21,
+          "text": "bb)          Dem beklagten Land fällt aber insoweit eine haftungsbegründende                    21\nVerkehrssicherungspflichtverletzung zur Last, als es mit der von ihm für die provisorischen\nSchachtabdeckungen vorgegebenen Ausführungsweise in unnötiger Weise eine potentielle\nGefahrenquelle für den fließenden Verkehr geschaffen hat. Dies gilt unabhängig davon, ob\ndie Firma H2 die provisorischen Schachtabdeckungen entsprechend den ihr vom beklagten\nLand erteilten Vorgaben angefertigt hatte oder ihr insoweit Ausführungsfehler zur Last fielen\nund das beklagte Land sich diese zurechnen lassen muss."
+        },
+        {
+          "rn": 22,
+          "text": "(1)         Die in dem 2. Nachtragsangebot der Fa. H2 vom 22.03.2011 „über zusätzlich           22\nerforderliche Arbeiten“ unter den Positionen Nummer 92.01.0002 bis 92.01.0005 im\nEinzelnen dargestellte Herstellungsweise der provisorischen Schachtabdeckungen durch\nEinbringung von angepassten Eisendeckeln in die Gullyschächte auf ein 3 cm dickes\nMörtelbett und anschließendem Vergießen mit einer bituminösen heißen Vergußmasse sowie\neiner darauf per Hand lagenweisen aufgebrachten und verdichteten Asphaltschicht aus dem\nMaterial AC 11 TB beruht auf entsprechenden Vorgaben des beklagten Landes. Der im\nSenatstermin am 15.11.2013 für das beklagte Land gemäß § 141 Abs. 3 S. 2 ZPO\nauftretende Vertreter Herr H hat bei seiner persönlichen Anhörung durch den Senat\nausdrücklich bestätigt, dass das 2. Nachtragsangebot der Fa. H2 sich über Arbeiten verhält,\nderen Notwendigkeit sich erst im Zuge der Bauausführung ergeben hätten, aber auch\nbetreffend solcher Arbeiten, die dann nicht mehr formell ausgeschrieben werden, vom\nbeklagten Land die konkrete Art und Weise deren Ausführung vorgegeben wird."
+        },
+        {
+          "rn": 23,
+          "text": "(2)         Die vom beklagten Land vorgegebene Ausführungsweise beinhaltete jedoch, wie         23\nder Sachverständige Prof. Dr. T bereits in seinem schriftlichen Gutachten vom 28.05.2013\nausgeführt hat, selbst bei fachgerechter Ausführung de Arbeiten ein im Einzelfall nicht\nabschätzbares Risiko, dass die Schachtabdeckungen durch den Verkehr beschädigt werden,\nwobei dies allmählich geschehen konnte aber auch durch ein Einzelereignis – wie etwa ein\nhoch belastetes Lkw-Rad. Hierzu hat der Sachverständige im Senatstermin am 15.11.2013\nauf Nachfrage des Senats ergänzend weiter ausgeführt, dass er die vom beklagten Land für\ndie provisorischen Schachtabdeckungen gewählte Konstruktion jedenfalls bei einem so\nstarken Verkehrsaufkommen, wie es vorliegend auf dem betreffenden Streckenabschnitt der\nBAB 52 zu erwarten gewesen sei, für kritisch halte, zumal die Belastbarkeit der\nprovisorischen Schachtabdeckungen danach stark von handwerklichen Fragen abhängig\ngewesen sei, wie etwa der fachgerechten Verfüllung der Gullyschächte mit einem geeigneten\nAsphalt und der vorherigen fachgerechten Einbringung einer ausreichend dicken Stahlplatte,\nso dass diese sich nicht durchbiegen könne. Stattdessen wären nach Darstellung des\nSachverständigen auch noch andere, sicherere Methoden in Betracht gekommen wie die\nHerstellung provisorischer Schachtabdeckungen aus Schnellbeton. Solche hätten auch ohne\neine zusätzliche Stahlbewehrung die auftretenden Spannungen in sich selbst aufnehmen\n\fkönnen und bereits nach 4 bis 5 Stunden eine ausreichende Festigkeit gehabt, den\nBelastungen des Fahrzeugverkehrs auf Dauer standzuhalten."
+        },
+        {
+          "rn": 24,
+          "text": "Danach hätte aber das beklagte Land bzw. der für ihn tätig gewordene Landesbetrieb             24\nStraßenbau NRW hier der Fa. H2 die Herstellung provisorischer Schachtabdeckungen aus\nSchnellbeton vorgeben müssen. Denn diese Ausführungsart hätte zum einen schon wegen\nder höheren Festigkeit und Belastbarkeit von Schnellbeton die größere Gewähr dafür\ngeboten, dass sie den zu erwartenden hohen Verkehrsbelastungen auf der BAB 52\nstandhalten wird. Zum anderen gilt dies auch deshalb, weil der für das beklagte Land tätig\ngewordene Landesbetrieb Straßenbau NRW, wie der Terminsvertreter Herr H im\nSenatstermin bestätigt hat, die Arbeiten der Fa. H2 nicht so engmaschig kontrollieren konnte\nund kontrolliert hat, dass er handwerkliche Ausführungsfehler der Fa. H2 bei der Herstellung\nder provisorischen Schachtabdeckungen mittels einer Stahlplatte und Füllschicht aus Asphalt\nmit hinreichender Sicherheit hätte ausschließen können. Mit Rücksicht auf das sich daraus\nergebende, vom Sachverständigen als kritisch bewertete Risiko für den Fahrzeugverkehr und\nder Gefahr erheblicher Sach-und Personenschäden, die für die Verkehrsteilnehmer von einer\nschadhaften Schachtabdeckung ausgehen konnten, hätte das beklagte Land sich hier für die\nsicherere Ausführungsweise entscheiden und der Fa. H2 die Verwendung von Schnellbeton\nfür die provisorischen Schachtabdeckungen vorgeben müssen, zumal diese Methode nach\nden Ausführungen des Sachverständigen auch nicht mit einen unverhältnismäßig größeren\nAufwand verbunden gewesen wäre. Indem das beklagte Land dies unterlassen hat, hat es in\namtspflichtwidriger Weise für den Fahrzeugverkehr eine unnötige und vermeidbare potentielle\nGefahrenquelle geschaffen."
+        },
+        {
+          "rn": 25,
+          "text": "c)         Dem beklagten Land fällt insoweit auch ein Verschulden zumindest in Form            25\nfahrlässigen Handelns zur Last. Denn dem für das beklagte Land tätig gewordenen\nLandesbetrieb Straßenbau NRW hätten als Fachbehörde die hier in Betracht kommenden\nverschiedenen Möglichkeiten der Herstellung von provisorischen Schachtabdeckungen sowie\nderen Vor- und Nachteile bekannt sein müssen. Insbesondere hätte der Landesbetrieb\nStraßenbau NRW als Fachbehörde erkennen können und müssen, dass mit Rücksicht auf\ndie vorliegend zu erwartende hohe Verkehrsbelastung provisorische Schachtabdeckungen\naus Schnellbeton die größere Sicherheit boten, dass sie für die Dauer der\nStraßenbauarbeiten den Belastungen des Fahrzeugverkehrs standhalten werden, und\ndeshalb diese Ausführungsart wählen müssen."
+        },
+        {
+          "rn": 26,
+          "text": "d)         Dem Kläger ist durch die dem beklagten Land anzulastende Amtspflichtverletzung      26\nauch ein Schaden in der vom Landgericht zuerkannten Höhe entstanden. Denn für den Fall,\ndass das beklagte Land der Fa. H2 von vornherein eine Herstellung der provisorischen\nSchachtabdeckungen aus Schnellbeton vorgegeben hätte, wäre es nach den Ausführungen\ndes Sachverständigen mit überwiegender Wahrscheinlichkeit nicht zu dem Unfall und den\ndabei an dem Fahrzeug des Klägers entstandenen Schäden gekommen."
+        },
+        {
+          "rn": 27,
+          "text": "e)         Der Höhe nach beläuft sich der erstattungsfähigen Schaden des Klägers               27\neinschließlich der ihm zuzubilligenden Kostenpauschale von 25,- € und er ihm vorgerichtlich\nentstandenen Rechtsanwaltskosten von 272,87 € auf insgesamt 2.471,86 €. Insoweit wird zur\nVermeidung unnötiger Wiederholungen auf die diesbezüglichen Ausführungen im\nerstinstanzlichen Urteil verwiesen, die mit der Berufung auch nicht angegriffen snd."
+        },
+        {
+          "rn": 28,
+          "text": "f)         Ein Mitverschulden fällt dem Kläger nicht zur Last. Denn nach den mit der           28\nBerufung ebenfalls nicht angegriffenen Feststellungen des Landgerichts war die\nunfallursächlich gewordene schadhafte provisorische Schachtabdeckung für den Kläger\npraktisch nicht zu erkennen. Ein Verstoß des Klägers gegen das Sichtfahrgebot des § 3 Abs.\n\f1 S. 4 StVO lässt sich daher nicht feststellen.\n\n2.         Der vom Landgericht zuerkannte Zinsanspruch ist aus § 291 BGB gerechtfertigt.   29"
+        }
+      ]
+    },
+    {
+      "id": "AA11",
+      "court": "OLG Bamberg",
+      "decision_type": "Urteil",
+      "date": "2023-08-01",
+      "docket": "5 U 351/21",
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2023-N-57878?all=False",
+      "pdf": "/tmp/kommunale-alltagsakten-20261005/sources/OLG-Bamberg-5-U-351-21.pdf",
+      "pdf_sha256": "93c2165c36a9e811a374f3ae9ac19946f2c4a1f671667c68445bcac3b900bca6",
+      "text": "/tmp/kommunale-alltagsakten-20261005/sources/OLG-Bamberg-5-U-351-21.txt",
+      "text_sha256": "3433888dd97355a3551dfddff5d03c20bfdec3a90eb83a8702a9fc0dc9f69ab2",
+      "checked_as_of": "2026-10-05",
+      "verification": "Amtlicher Volltext; konkrete Passagen gelesen, Norm-/Sachverhaltsübertragung eingeschränkt. Datum aus Entscheidung, nicht Fundstellenjahr.",
+      "reference_entry": "**AA11 – gewerbliche Miete und eigene Personalkosten.** OLG Bamberg, Urteil vom **01.08.2023 – 5 U 351/21**, Rn. **15–23, 25–36**. [Amtlicher Volltext](https://www.gesetze-bayern.de/Content/Pdf/Y-300-Z-BECKRS-B-2023-N-57878?all=False). Geprüft: fortgezahlte Miete einer ausgefallenen gewerblichen Lokomotive ohne konkret belegten wirtschaftlichen Nutzungsschaden nicht automatisch ersatzfähig; unmittelbar schadensbehebende Personalarbeit von üblicher Ermittlung/Abwicklung abzugrenzen; konkrete Lohn- und Stundendaten. **Grenze:** Eisenbahnunfall, keine Amtshaftung wegen Genehmigungsverzögerung. Weder vollständige Ablehnung der Kaffeewagen-/Büroraummiete noch Erstattung jedes städtischen Stundensatzes folgt daraus. Zuschläge der dortigen Schätzung sind keine universellen Sätze. Die Fundstellenrubrik nennt eine Veröffentlichung 2026; die Entscheidung selbst stammt aus **2023**.",
+      "checked_passages": [
+        {
+          "rn": 15,
+          "text": "15\n1. Die Klägerin hat gegen die Beklagten keinen Anspruch auf Erstattung der für die Zeit nach dem Unfall\naufgewendeten bzw. geschuldeten Mietkosten der beschädigten Lokomotive und auch keinen Anspruch auf\nNutzungsersatz."
+        },
+        {
+          "rn": 16,
+          "text": "16\na) Maßgeblich für die Frage, ob der Klägerin Schadensersatzansprüche wegen der nach dem Unfallereignis\ngezahlten bzw. geschuldeten Mieten oder eine Nutzungsausfallentschädigung zustehen, sind die im Urteil\ndes Bundesgerichtshofs vom 06.12.2018 – VII ZR 285/17 aufgestellten Rechtsgrundsätze, auf welche\nBezug genommen wird."
+        },
+        {
+          "rn": 17,
+          "text": "17\nb) In Anwendung dieser Rechtsgrundsätze steht der Klägerin für den Ausfall der ausschließlich gewerblich\ngenutzten Lokomotive unter keinem rechtlichen Gesichtspunkt ein Anspruch auf Schadensersatz zu."
+        },
+        {
+          "rn": 18,
+          "text": "18\naa) Tatsächlich angefallene Mietkosten einer Ersatzlokomotive, welche im Falle der (hier dem Grunde nach\nstreitigen) Erforderlichkeit als erstattungsfähig anzusehen sein könnten, hat die Klägerin nicht geltend\ngemacht. Ihr Vortrag, sie habe zur Erledigung ihrer Aufträge „andere Fahrzeuge anderweitig beschafft“, ist\ninsoweit unsubstantiiert, weil sie nicht vorträgt, ob und welche Aufwendungen ihr hierdurch konkret\nentstanden sind."
+        },
+        {
+          "rn": 19,
+          "text": "19\nbb) Zu etwaigen Vorhaltekosten eines Reservefahrzeugs hat die Klägerin nichts vorgetragen. Solche\ndürften angesichts der behaupteten Beschaffung anderer Fahrzeuge ohnehin ausscheiden."
+        },
+        {
+          "rn": 20,
+          "text": "20\ncc) Einen durch den Ausfall der beschädigten Lokomotive verursachten entgangenen Gewinn hat die\nKlägerin nicht vorgetragen. Ein solcher kann, angesichts der behaupteten Beschaffung anderer Fahrzeuge\nzur Abarbeitung ihrer (bestrittenen) Aufträge ohnehin nur schwerlich angenommen werden. Davon, dass die\nAuswirkungen des Ausfalls nicht quantifizierbar gewesen wären, und deshalb eine abstrakte\nNutzuungsausfallentschädigung zu gewähren wäre, ist ebenfalls nicht auszugehen. Die Klägerin trägt\ninsoweit lediglich vor, dass sie zu einem entgangenen Gewinn nicht vortragen könne. Dies ist in\nErmangelung jedweder auch nur ansatzweiser Begründung, weshalb vorliegend eine Darlegung nicht\nmöglich sein soll, für den Senat nicht nachvollziehbar."
+        },
+        {
+          "rn": 21,
+          "text": "21\ndd) Dass die eine abstrakte Nutzungsausfallentschädigung unter Umständen rechtfertigende Situation der\nUnbezifferbarkeit eines Verdienstentgangs infolge besonderer persönlicher Anstrengung oder persönlichen\nVerzichts gegeben wäre, ist von der Klägerin weder dargelegt noch sonst ersichtlich."
+        },
+        {
+          "rn": 22,
+          "text": "22\nee) Der Vortrag der Klägerin erschöpft sich im Ergebnis darin, der bloßen Betriebsbereitschaft der\nbeschädigten Lokomotive einen Vermögenswert zuzumessen, den sie zu liquidieren sucht. Der bloßen\nBetriebsbereitschaft ausschließlich gewerblich genutzter Fahrzeuge kommt jedoch – anders als bei\nFahrzeugen des privaten eigenwirtschaftlichen Gebrauchs – kein eigenständiger Vermögenswert zu, was\nsich aus der Existenz des § 252 S. 1 BGB, der die schadensrechtliche Bedeutung des Ausfalls von\ngewerblich eingesetzten Wirtschaftsgütern begrenzt, herleitet."
+        },
+        {
+          "rn": 23,
+          "text": "23\nff) Dass die Klägerin Mietzahlungen – aus ihrer Sicht wirtschaftlich sinnlos – aufwendete bzw. diese noch\naufzuwenden hat, vermag vor dem Hintergrund vorstehender Darlegungen und nach der o.g.\nRechtsprechung des Bundesgerichtshofs auch unter wertenden Gesichtspunkten eine erweiternde\n\fZurechnung eines Schadens nicht zu rechtfertigen. Es handelt sich mithin um nicht erstattungsfähige\nSowieso-Kosten."
+        },
+        {
+          "rn": 25,
+          "text": "25\n2. Der Klägerin steht wegen des unfallbedingt entstandenen Personalaufwands ein Anspruch in Höhe von\n2.288,00 € zu."
+        },
+        {
+          "rn": 26,
+          "text": "26\na) Maßgeblich für die Frage der Ersatzfähigkeit von eigenen Personalkosten nach einem Schadensfall sind\ndie durch den Bundesgerichtshof in den Entscheidungen vom 26.02.1980 (Urt. v. 26.02.1980 – VI ZR 53/79)\nund vom 09.01.2008 (Urt. v. 09.12.2008 – VI ZR 173/07) dargestellten Grundsätze, auf welche Bezug\ngenommen wird. Danach besteht kein Anspruch auf Ersatz solcher Kosten, die für den Zeitaufwand der\nSchadensermittlung und der außergerichtlichen Abwicklung angefallen sind soweit sich diese in den\nGrenzen der von einem privaten Geschädigten üblicherweise zu erbringenden üblichen Mühewaltung\nhalten. Ein Ersatzanspruch besteht jedoch für die unmittelbar der Schadensbehebung dienenden\nZeitaufwände, die in Höhe der Personalkosten als zur Schadensbehebung erforderlicher Aufwand geltend\ngemacht werden können. Die Abgrenzung ist dabei im Rahmen einer wertenden Betrachtung vorzunehmen.\nDie Personalaufwände stellen, auch wenn die Schadensbehebung durch eigenes Personal bewerkstelligt\nwird, keine Sowieso-Kosten dar."
+        },
+        {
+          "rn": 27,
+          "text": "27\nb) Nach diesen Maßstäben hat die Klägerin, die den Schaden konkret anhand bestimmter Stundenzahlen\neinzelner Beschäftigter nach deren konkreten Personalaufwand geltend macht, Anspruch auf Erstattung von\ninsgesamt 2.288,00 € für den Einsatz der Zeugen … und … wie nachfolgend dargestellt. Sämtliche Arbeiten\nder Zeugen sind dem Grunde nach ersatzfähig, weil sie bei wertender Betrachtung zum einem die\nSchadensbehebung betreffen und sich zudem außerhalb der Grenzen der von einem privaten\nGeschädigten üblicherweise zu erbringenden üblichen Mühewaltung bewegen."
+        },
+        {
+          "rn": 28,
+          "text": "28\naa) Der Zeuge … war nach dem Unfall am 16.02.2020 von 22:00 Uhr bis 17.02.2020, 01:00 Uhr infolge des\nUnfalls damit beschäftigt, sich um den unter Schock stehenden Lokführer des verunfallten Zuges zu\nkümmern. Zudem hat er bei der Sicherung des verunfallten Zuges mitgewirkt. Der Senat hält zum einen den\nZeugen für glaubwürdig wie auch dessen vorstehend wiedergegebenen Angaben für glaubhaft. Dass der\nZeuge bei der Klägerin beschäftigt ist, steht dem nicht entgegen. Er ließ weder inhaltlich noch dem\npersönlichen Eindruck des Senats nach irgendwelche Tendenzen erkennen, die Klägerin begünstigen zu\nwollen. Seine Angaben waren auch in sich widerspruchsfrei, plastisch und nachvollziehbar, weshalb sie der\nEntscheidungsfindung zu Grunde zu legen sind."
+        },
+        {
+          "rn": 29,
+          "text": "29\nDie vom Zeugen geschilderten Tätigkeiten sind vollständig ersatzfähig, weil sie bei wertender\nGesamtbetrachtung der Schadensbehebung dienten und die Grenzen der einem privaten Geschädigten\nzuzumutenden Mühewaltung deutlich übersteigen. Es ist daher für den Zeugen … ein Zeitaufwand von 3\nStunden zu Grunde zu legen."
+        },
+        {
+          "rn": 30,
+          "text": "30\nSoweit der Zeuge darüberhinaus weitere Einsatzzeiten im Zusammenhang mit dem Eisenbahnunfall\ngeschildert hat, sind diese nicht Gegenstand der von der Klägerin geltend gemachten Ansprüche."
+        },
+        {
+          "rn": 31,
+          "text": "31\n\fbb) Für den Zeugen … sind 20 Stunden als ersatzfähig anzuerkennen. Der Zeuge, für den das unter aa)\nAusgeführte im Hinblick auf seine Glaubwürdigkeit, die Glaubhaftigkeit seiner Angaben und die\nErsatzfähigkeit der von ihm geschilderten Tätigkeiten sinngemäß gilt, hat am 17.02.2020 in einem Umfang\nvon 8 Stunden Sicherungsmaßnahmen organisiert und den Werkstattauftrag initiiert. Am 20.02.2020 hat er\nwegen der Berichts- und Obhutspflicht der Klägerin gegenüber ihrem Vermieter vor Ort den Schaden\naufgenommen, wofür weitere 12 Stunden inklusive (vergüteter) An- und Abreisezeiten angefallen sind."
+        },
+        {
+          "rn": 32,
+          "text": "32\nHinsichtlich der Reisezeit geht der Senat von einer solchen ab 08.00 Uhr aus, weil der Zeuge die von der\nKlägerin behauptete Abreise ab 07.00 Uhr nicht hat bestätigen können. Soweit der Zeuge für die Folgezeit\nweitere Arbeiten wegen des Unfalls geschildert hat, sind diese nicht Gegenstand der von der Klägerin\ngeltend gemachten Ansprüche."
+        },
+        {
+          "rn": 33,
+          "text": "33\ncc) Für den Zeugen … sind 48 Stunden ersatzfähig. Die vorstehenden Erwägungen unter aa) gelten für den\nZeugen sinngemäß. Er hat Arbeiten dieses Umfangs i.R. von Sicherungsmaßnahmen und des Umpumpens\ndes Transportguts aus den beschädigten Kesselwagen inkl. (vergüteter) Reisezeiten glaubhaft dargestellt\nund sich hierbei auf detaillierte handschriftliche Aufzeichnungen in seinem Kalender bezogen, den er\nzwecks Stundenabrechnung führte. Soweit der Zeuge eine An- bzw. Abreise an den Unfallort nach\nWürzburg nicht von zu Hause aus angetreten bzw. wegen anderer Arbeitseinsätze nicht dort beendet hat,\nhat der Senat die fiktive Heimreisezeit von 1:15 h zu Grunde gelegt (§ 287 ZPO)."
+        },
+        {
+          "rn": 34,
+          "text": "34\ndd) Wegen des Einsatzes des Zeugen …, der am 17.02.2020 ein Ersatzfahrzeug nach Würzburg\nüberführte, sieht der Senat eine Stundenanzahl von 3 Stunden als ersatzfähig an (§ 287 ZPO). Die Klägerin\nkonnte ihre Behauptung, für den Einsatz des Zeugen sei eine Einsatzzeit von 9 Stunden angefallen, nicht\nnachweisen, nachdem sie auf den Zeugen verzichtet und die Beklagte den Vortrag insoweit nicht unstreitig\ngestellt hat. Daher war die Dauer der Überführungsfahrt von Neuburg an der Donau nach Würzburg anhand\nder aus öffentlichen Quellen ersichtlichen Reisezeiten zu schätzen."
+        },
+        {
+          "rn": 35,
+          "text": "35\nc) Hinsichtlich der Höhe der anzusetzenden Stundensätze gilt Folgendes."
+        },
+        {
+          "rn": 36,
+          "text": "36\naa) Die Klägerin hat ihren ursprünglichen Vortrag, die behaupteten Personalkosten seien allein nach den\nüblichen Marktpreisen berechnet, fallen lassen und durch den Vortrag der Brutto-Stundenlöhne der o.g.\nArbeitnehmer konkretisiert. Ausgehend von diesem Vortrag, der nicht bestritten worden ist, ist die\nSchadenshöhe einer Schätzung zugänglich (§ 287 ZPO). Hierbei legt der Senat die Bruttostundenlöhne je\nArbeitnehmer als ersatzfähigen Personalaufwand zu Grunde. Dass diese Gehälter übersetzt wären, hat die\nBeklagte nicht behauptet, weshalb diese als Ausgangspunkt der Schätzung der erforderlichen\nSchadensbehebungskosten zu Grunde gelegt werden können. Hinzuzuschätzen ist als weiterer\nArbeitgeberaufwand der gesondert anfallende Arbeitgeberanteil zur Sozialversicherung von (unstreitigen)\n21 %. Weiter ist aufwandssteigernd hinzuzuschätzen, dass wegen Urlaubs und Fortbildung der\nArbeitnehmer nicht sämtliche vergüteten Zeiten als Produktivzeiten angesehen werden können, weshalb bei\neiner anzunehmenden nicht produktiven Zeit von Urlaub und Fortbildung ein weiterer pauschaler Aufschlag\nvon nochmals 20 % gerechtfertigt ist. Dieser inkludiert bereits die von der Klägerin zur Begründung ihrer\nStundensätze (von 70,00 bis 95,00 €) angeführten Gemeinkosten, die von ihr nicht weiter spezifiziert\nwurden und allenfalls in allgemeinen Verwaltungskosten in geringer Höhe angefallen sein könnten (§ 287\nZPO). Ein Sachverständigengutachten war insoweit nicht zu erholen, da die Klägerin über die o.g. Aspekte\ndes Urlaubs- und der Fortbildung hinaus nichts Substantiiertes vorgetragen hat, so dass die\nAnknüpfungstatsachen fehlen. Der Vortrag der Klägerin, die Mitarbeiter seien mit einer Bahncard\nauszustatten, Taxikosten seien zu tragen, Hotelübernachtungen fielen an und ein Wagenmeister (hier der\nZeuge …) sei mit einem teuren Dienstwagen mit Spezialinstrumenten ausgestattet, kann dies\naufwandssteigernde Gemeinkosten auf Arbeitgeberseite nicht begründen, zumal auch die Kosten der\nBahncard sowie die weitergehenden Kosten nicht beziffert werden. Es wird von der Klägerin auch nicht\nbehauptet, dass diese Kosten im Rahmen der hiesigen Schadensbehebung angefallen sind oder die\ngenannten besonderen Arbeitsmittel eingesetzt worden sind. Mithin sind die Kosten hier als irrelevant zu\nbetrachten."
+        }
+      ]
+    }
+  ],
+  "norm_sources": [
+    {
+      "name": "BGB-249",
+      "url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__249.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-249.html",
+      "sha256": "3d7cdae5a5eeb64ab2f038c6b6b730bf6c6619493822370f1f1b4ca2e1256e4c",
+      "bytes": 3950,
+      "retrieved_at": "2026-10-05T11:06:29.624852+00:00"
+    },
+    {
+      "name": "BGB-252",
+      "url": "https://www.gesetze-im-internet.de/bgb/__252.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__252.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-252.html",
+      "sha256": "bc8d25d3dcda48d4724f8f517d7cd513b6e04d7fef7c3345ad807e1a8b10afb2",
+      "bytes": 3650,
+      "retrieved_at": "2026-10-05T11:06:29.625351+00:00"
+    },
+    {
+      "name": "BGB-253",
+      "url": "https://www.gesetze-im-internet.de/bgb/__253.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__253.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-253.html",
+      "sha256": "9e36bd66e03a11ae4b9a9bf3530bb3cb3941fdccf4c425e75ebb85bd0306dc90",
+      "bytes": 3817,
+      "retrieved_at": "2026-10-05T11:06:29.625555+00:00"
+    },
+    {
+      "name": "BGB-254",
+      "url": "https://www.gesetze-im-internet.de/bgb/__254.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__254.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-254.html",
+      "sha256": "2bdd324250bfecd3102dcd2864777824e16957c89149881dd0e9f0106e5204da",
+      "bytes": 4091,
+      "retrieved_at": "2026-10-05T11:06:29.625095+00:00"
+    },
+    {
+      "name": "BGB-280",
+      "url": "https://www.gesetze-im-internet.de/bgb/__280.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__280.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-280.html",
+      "sha256": "66133a0566882cd68dd85214891ae9f6489d53ba6dd307a9db58f546d3359244",
+      "bytes": 3989,
+      "retrieved_at": "2026-10-05T11:06:29.625467+00:00"
+    },
+    {
+      "name": "BGB-241",
+      "url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__241.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-241.html",
+      "sha256": "a182599d2e74f52a9dbe24026af3e53a53fea824e5f08b77524ef4f8af4fe219",
+      "bytes": 3743,
+      "retrieved_at": "2026-10-05T11:06:29.625230+00:00"
+    },
+    {
+      "name": "BGB-278",
+      "url": "https://www.gesetze-im-internet.de/bgb/__278.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__278.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-278.html",
+      "sha256": "016376b2cd4b2ca4372bf64442de34606b18935061665ec916550c5b2373f36d",
+      "bytes": 3653,
+      "retrieved_at": "2026-10-05T11:06:29.724994+00:00"
+    },
+    {
+      "name": "BGB-823",
+      "url": "https://www.gesetze-im-internet.de/bgb/__823.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__823.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-823.html",
+      "sha256": "97bbb1ca41d4ab4a21d53166939a0bb04662f346d37e4238861a8fce522568a5",
+      "bytes": 3935,
+      "retrieved_at": "2026-10-05T11:06:29.725216+00:00"
+    },
+    {
+      "name": "BGB-831",
+      "url": "https://www.gesetze-im-internet.de/bgb/__831.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__831.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-831.html",
+      "sha256": "b3497a1b5d3f1f00a585a578bf1e87a9210dcc3b1eedff3d8bd3b4b2c03744c5",
+      "bytes": 4185,
+      "retrieved_at": "2026-10-05T11:06:29.725415+00:00"
+    },
+    {
+      "name": "BGB-839",
+      "url": "https://www.gesetze-im-internet.de/bgb/__839.html",
+      "response_url": "https://www.gesetze-im-internet.de/bgb/__839.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGB-839.html",
+      "sha256": "1dcda25cbdfbf51b4feaf477bf8972b1625100d44c876c0f6147b6036256ce11",
+      "bytes": 4303,
+      "retrieved_at": "2026-10-05T11:06:29.725108+00:00"
+    },
+    {
+      "name": "StVG-7",
+      "url": "https://www.gesetze-im-internet.de/stvg/__7.html",
+      "response_url": "https://www.gesetze-im-internet.de/stvg/__7.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/StVG-7.html",
+      "sha256": "349a6cf59c4e01a801bda5ba1a4c4940a2eeb6796600067d61cd75b44ebd8d8a",
+      "bytes": 4273,
+      "retrieved_at": "2026-10-05T11:06:29.724790+00:00"
+    },
+    {
+      "name": "StVG-8",
+      "url": "https://www.gesetze-im-internet.de/stvg/__8.html",
+      "response_url": "https://www.gesetze-im-internet.de/stvg/__8.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/StVG-8.html",
+      "sha256": "4dd00abe98f0d26ce9183817fbb7ca2712755f28f1b13e0b9eb75b63d72b01e3",
+      "bytes": 4446,
+      "retrieved_at": "2026-10-05T11:06:29.725499+00:00"
+    },
+    {
+      "name": "StVG-17",
+      "url": "https://www.gesetze-im-internet.de/stvg/__17.html",
+      "response_url": "https://www.gesetze-im-internet.de/stvg/__17.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/StVG-17.html",
+      "sha256": "cc1cf8c62f34775af809f446306a2ea5dcd045d04e7b99bf3248dbfb504b00e4",
+      "bytes": 4840,
+      "retrieved_at": "2026-10-05T11:06:29.825662+00:00"
+    },
+    {
+      "name": "StVG-18",
+      "url": "https://www.gesetze-im-internet.de/stvg/__18.html",
+      "response_url": "https://www.gesetze-im-internet.de/stvg/__18.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/StVG-18.html",
+      "sha256": "b0a08c514cd8f95d82f2fa24dfc64145162546edd0fb49765c6b6efb1cc1ba92",
+      "bytes": 4133,
+      "retrieved_at": "2026-10-05T11:06:29.825857+00:00"
+    },
+    {
+      "name": "VwGO-74",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "response_url": "https://www.gesetze-im-internet.de/vwgo/__74.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/VwGO-74.html",
+      "sha256": "69feb78da542840f39d24755811d8d9f9b199515484894e9c190a1c2030b8d74",
+      "bytes": 3780,
+      "retrieved_at": "2026-10-05T11:06:29.825947+00:00"
+    },
+    {
+      "name": "VwGO-75",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__75.html",
+      "response_url": "https://www.gesetze-im-internet.de/vwgo/__75.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/VwGO-75.html",
+      "sha256": "650b47feeb49f9a2bfebc82234427c9400f44207662c65ce8f696da26d0ef1a8",
+      "bytes": 4296,
+      "retrieved_at": "2026-10-05T11:06:29.825763+00:00"
+    },
+    {
+      "name": "VwGO-123",
+      "url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "response_url": "https://www.gesetze-im-internet.de/vwgo/__123.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/VwGO-123.html",
+      "sha256": "53d18fef56e1ef9c5b3684e15598c8765df6b09aea90427480ef689345a67476",
+      "bytes": 4732,
+      "retrieved_at": "2026-10-05T11:06:29.825528+00:00"
+    },
+    {
+      "name": "GG-34",
+      "url": "https://www.gesetze-im-internet.de/gg/art_34.html",
+      "response_url": "https://www.gesetze-im-internet.de/gg/art_34.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/GG-34.html",
+      "sha256": "c7600fb25464c4ac25f89ffb7f137e7b054eec911a5f0797b4521e1059ddc1a6",
+      "bytes": 3821,
+      "retrieved_at": "2026-10-05T11:06:29.816826+00:00"
+    },
+    {
+      "name": "HPflG-2",
+      "url": "https://www.gesetze-im-internet.de/haftpflg/__2.html",
+      "response_url": "https://www.gesetze-im-internet.de/haftpflg/__2.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/HPflG-2.html",
+      "sha256": "450a8462450e635b082cc3f02985255c3f63a18144d302223ab4e5152c97adf2",
+      "bytes": 5425,
+      "retrieved_at": "2026-10-05T11:06:29.914831+00:00"
+    },
+    {
+      "name": "GVG-71",
+      "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "response_url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/GVG-71.html",
+      "sha256": "e81a16422e3fadfc820d08c41bd8fdb400df77435229fb59c3e7ed10fbd21135",
+      "bytes": 8272,
+      "retrieved_at": "2026-10-05T11:06:29.918041+00:00"
+    },
+    {
+      "name": "BauGB-34",
+      "url": "https://www.gesetze-im-internet.de/bbaug/__34.html",
+      "response_url": "https://www.gesetze-im-internet.de/bbaug/__34.html",
+      "content_type": "text/html",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BauGB-34.html",
+      "sha256": "1938ba7b27d92257c23105f747d00a91c182ec6d5dd925b1263f78281ab82da0",
+      "bytes": 10148,
+      "retrieved_at": "2026-10-05T11:06:29.939463+00:00"
+    },
+    {
+      "name": "gvbl-2024-24",
+      "url": "https://www.verkuendung-bayern.de/files/gvbl/2024/24/gvbl-2024-24.pdf",
+      "response_url": "https://www.verkuendung-bayern.de/files/gvbl/2024/24/gvbl-2024-24.pdf",
+      "content_type": "application/pdf",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/gvbl-2024-24.pdf",
+      "sha256": "925243b7d8d0ab354d2096fef93b74b57dee16a4e6ddc68d98d38be4e630ff5b",
+      "bytes": 1237573,
+      "retrieved_at": "2026-10-05T11:06:31.615633+00:00",
+      "verified_provisions": "Erstes Modernisierungsgesetz23.12.2024 §12Nr.9d ErweiterungArt.57IV1BayBO; §19I wirksam01.01.2025; amtlicher Webnachweis https://www.verkuendung-bayern.de/gvbl/2024-605/"
+    },
+    {
+      "name": "gvbl-2025-24",
+      "url": "https://www.verkuendung-bayern.de/files/gvbl/2025/24/gvbl-2025-24.pdf",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/gvbl-2025-24.pdf",
+      "sha256": "84d214e8beaca75fdb862c1fde409c9471ed3564c4f7ba71c2d2ccb3ee8908a2",
+      "checked_as_of": "2026-10-05",
+      "verified_provisions": "Gesetz23.12.2025GVBl699 §5: grundsätzlich01.01.2026; §2erst01.01.2027. Art9/51nichtmateriellverändert."
+    },
+    {
+      "name": "BayStrWG",
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/BayStrWG?all=True",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BayStrWG.pdf",
+      "sha256": "9334032384d3c6a27f9b9e165ca7ead82b122d29708b8633e095827437b4338f",
+      "verified_provisions": "Art. 2, 9 Abs. 3 und 5, 18, 51; letzte Änderung 23.12.2025 GVBl. S.699",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "BayBO",
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/BayBO?all=True",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BayBO.pdf",
+      "sha256": "1dc91115bdd8cd5bdec881d5080522f5c8274f99d4c6673c32a12880c1f42b9e",
+      "verified_provisions": "Art. 53, 57, 59, 68; letzte Änderung 23.04.2026 GVBl. S.190",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "BayVwVfG",
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/BayVwVfG?all=True",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BayVwVfG.pdf",
+      "sha256": "8e5d47a71143e21dcbb2699821e24c213e6d08f356c1c98637b04ae2498c7e4e",
+      "verified_provisions": "Art.10,24,25,40",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "BayAGVwGO",
+      "url": "https://www.gesetze-bayern.de/Content/Pdf/BayAGVwGO?all=True",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BayAGVwGO.pdf",
+      "sha256": "8ab27a0fcbc5c8e56f17e6e87d894bb312268beb1edc559d6bba35b39413fc7b",
+      "verified_provisions": "Art.1 Abs.2 Nr.5; Art.12 statt bisher Art.15; letzte Änderung 08.07.2025 GVBl.S.219",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "BayBO-Vollzugshinweise-2025",
+      "url": "https://www.verkehrsministerium.bayern.de/assets/stmi/buw/baurechtundtechnik/24_baybo-vollzugshinweise_2025-modg-1-2.pdf",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BayBO-Vollzugshinweise-2025.pdf",
+      "sha256": "27cd6fbc51b1b4d5974ad59ba255f2e821328a0ee4c96adf3cb3d7e1886091e2",
+      "verified_provisions": "04.02.2025 Az.StMB-24-4101-2-129-680 Nr.8g gedruckte S.12–13; ministerielle Auslegung, keine Rspr.",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "gvbl-2026-06",
+      "url": "https://www.verkuendung-bayern.de/files/gvbl/2026/06/gvbl-2026-06.pdf",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/gvbl-2026-06.pdf",
+      "sha256": "473708eb06b42d6947e78e4ca08ea60baaa4e0f0ed89a5ca0a213558cb10f27e",
+      "verified_provisions": "Viertes Modernisierungsgesetz26.03.2026 §6Nr.4b nur Orthografie Art.57IV1; §74 wirksam01.04.2026",
+      "checked_as_of": "2026-10-05"
+    },
+    {
+      "name": "gvbl-2026-08",
+      "url": "https://www.verkuendung-bayern.de/files/gvbl/2026/08/gvbl-2026-08.pdf",
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/gvbl-2026-08.pdf",
+      "sha256": "965ad778324d9348bc1b79dee0ae9cbe168d80afc5d684c950a6f7543bba4c80",
+      "verified_provisions": "Gesetz23.04.2026 §2 BayBO; §9 wirksam01.05.2026",
+      "checked_as_of": "2026-10-05"
+    }
+  ],
+  "excluded_downloads": [
+    {
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGH-bau-41822-failed-redirect.html",
+      "reason": "Legacy-BGH-URL lieferte HTML-Weiterleitung, kein Entscheidungs-PDF; ausgeschlossen und als .html benannt."
+    },
+    {
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGH-VI-ZR-33-05-failed-redirect.html",
+      "reason": "Legacy-BGH-URL lieferte HTML-Weiterleitung, kein Entscheidungs-PDF; ausgeschlossen und als .html benannt."
+    },
+    {
+      "file": "/tmp/kommunale-alltagsakten-20261005/sources/BGH-winter-71938-failed-redirect.html",
+      "reason": "Legacy-BGH-URL lieferte HTML-Weiterleitung, kein Entscheidungs-PDF; ausgeschlossen und als .html benannt."
+    }
+  ],
+  "datasets": [
+    {
+      "file": "scripts/kommunale_alltagsakten_verkehr.py",
+      "sha256": "67f413354b76c0a403b4cd80615c9d09c799d9cd593e6d142e171cfd03677092",
+      "cases": [
+        {
+          "slug": "akha-wuerzburg-fahrzeugschaden",
+          "documents": 9,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-schwimmbad",
+          "documents": 10,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-baumpflege",
+          "documents": 10,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-schlagloch",
+          "documents": 9,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        }
+      ]
+    },
+    {
+      "file": "scripts/kommunale_alltagsakten_amt.py",
+      "sha256": "6b2231e2e2ef85e34799ccc706872b9d43a9f044428efd3249b24a2bc7b6b2b1",
+      "cases": [
+        {
+          "slug": "akha-wuerzburg-glatteis",
+          "documents": 9,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-antragsbearbeitung",
+          "documents": 10,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-baugenehmigung",
+          "documents": 10,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        },
+        {
+          "slug": "akha-wuerzburg-abwasseranlage",
+          "documents": 9,
+          "review": "bounded substantive reading of raw documents; no remaining fatal construction error"
+        }
+      ]
+    }
+  ],
+  "scope_limitations": [
+    "Fallakten sind synthetisch; kein echter Würzburger Verwaltungsakt oder realer Unfall behauptet.",
+    "Keine vollständige Rechtsprechungsdatenbank-Auswertung oder Garantie fehlender späterer Abweichungen. Normstand und konkrete einschlägige amtliche Entscheidungen live geprüft.",
+    "Rechtsprechungsanker für Versagung ersetzt keinen eigenständigen vertieften Erteilungsfall.",
+    "Normstand05.10.2026 bedeutet nicht Entscheidungsdatum2026. ErweiterungArt.57IV1seit01.01.2025."
+  ],
+  "schema_version": 1,
+  "plugin": "kommunale-haftpflicht",
+  "reproduction": {
+    "purpose": "Verifiziertes Quellen- und Passageinventar, keine Veröffentlichung von Testfalllösungen.",
+    "retrieval": "Jede offizielle URL erneut abrufen und PDF-Signatur sowie gespeicherten SHA-256 vergleichen. Bei dynamischen Normseiten kann späterer Rechtsstand den Hash verändern; Prüfdatum und archivierte Fassung unterscheiden.",
+    "extraction": "pdftotext -layout SOURCE.pdf SOURCE.txt; für AA04 gedruckte Seiten6–8 verwenden, sonst die angegebenen Originalrandnummern. Die 83 geprüften Passagen sind in diesem JSON enthalten.",
+    "local_archive_at_review": "/tmp/kommunale-alltagsakten-20261005/sources",
+    "archive_portability": "Lokale /tmp-Pfade dokumentieren die Prüfungssitzung; sie sind keine Repositoryabhängigkeit. Die amtlichen Direkt-URLs, Dokumenthashes und eingebetteten Entscheidungspassagen bleiben unabhängig davon verwendbar.",
+    "decision_retrieval_status": "Alle elf erfolgreichen PDF-Abrufe auf %PDF- geprüft; HTML-Weiterleitungen ausgeschlossen."
+  },
+  "final_content_review": {
+    "checked_as_of": "2026-10-05",
+    "result": "Keine verbleibenden sachlichen oder routingbezogenen Defekte im geprüften Ergänzungsumfang festgestellt.",
+    "resolved_findings": [
+      "Hauptskill explizit um neue Fallrouten ergänzt.",
+      "Leitungsskill: Schäden an der Anlage vor Austrittsschritten ausdrücklich abgegrenzt.",
+      "Werkstatt eigenständig verwendbar: amtlicher Gesetzesbeleg von 2024 und Vollzugshinweis von 2025 zur Zeitfassung des Art. 57 BayBO ergänzt."
+    ],
+    "files": [
+      {
+        "file": "kommunale-haftpflicht/kommunale-haftpflicht-werkstatt.md",
+        "sha256": "20b15a830e2e234ce03a4c529a56bfd5a97218194ea3749221cde8c55a8fa7b3",
+        "review_scope": "Sachliche Gegenlektüre nur Ergänzung ab 1.40; elf Anker vollständig identisch mit verifizierter Referenz. Altabschnitte 1.1–1.39 nicht nochmals fachlich geprüft."
+      },
+      {
+        "file": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
+        "sha256": "e3938ba5d80abae5286f4d6c405d0b3d7acd37e7761c64dc7089ac9a1af910b8",
+        "review_scope": "Hauptworkflow vollständig gelesen; explizites Routing Straße/Winterdienst/Baumpflege und Antrag/Bau ergänzt und nachgeprüft."
+      },
+      {
+        "file": "kommunale-haftpflicht/skills/haftungsweg-und-verantwortung-klaeren/SKILL.md",
+        "sha256": "ee7a80a71235882a32ec752e1822e9afe945dc34c603803bdcdb6f64664093d6",
+        "review_scope": "Vollständig gelesen; funktionale Amtszuordnung, Art. 9 Abs. 5 und Art. 51 BayStrWG, Art. 12 AGVwGO und § 839 Abs. 3 BGB korrekt."
+      },
+      {
+        "file": "kommunale-haftpflicht/skills/leitungswasser-und-gewerbeschaeden-pruefen/SKILL.md",
+        "sha256": "6a091e56b13839a1dda7c2a8e1bff9b28d1a15f68de14f00537807dd05a6fe13",
+        "review_scope": "Vollständig gelesen; Schäden an und durch die Anlage ausdrücklich verzweigt; irrelevante Austritts-/Umsatzbelege nicht obligatorisch."
+      }
+    ],
+    "workshop_extension_sha256": "87da5186c11fd9e390a8ae1e3fa6981af57363ecd371e662c21463ee70fe6271",
+    "verified_anchor_copy_count": 11
+  }
+}

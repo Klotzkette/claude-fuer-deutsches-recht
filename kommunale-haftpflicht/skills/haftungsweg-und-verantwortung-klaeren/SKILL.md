@@ -29,6 +29,8 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Tragende Rechtsaussa
 
 KH-07 (BGH, Urt. v. 11.01.2024 – Az. III ZR 15/23, Rn. 9, 11–17) ist der Anker zur funktionalen Amtsträgerzuordnung; § 839 BGB/Art. 34 GG und gegebenenfalls §§ 31, 89, 823, 831 BGB separat prüfen. Art. 9 Abs. 5 BayStrWG betrifft erfasste Straßenaufgaben, keine allgemeine Amtshaftung für kommunale Gebäude.
 
+Die [Alltagsfälle in Bayern](../../references/alltagsfaelle-bayern.md) konkretisieren Straßenhaftung einschließlich Winterdienst nach Art. 9 Abs. 5 und Art. 51 BayStrWG, privatrechtlichen Badbetrieb und Amtshaftung für fehlerhafte Erlaubnis- oder Bauentscheidungen. Bei Genehmigungsfällen Verfahrenspflicht, gesetzliches Prüfprogramm, rechtmäßige Alternativentscheidung, Drittbezogenheit und Schadensvermeidung durch Rechtsbehelfe getrennt prüfen. Art. 12 AGVwGO in seiner geltenden Fassung verwenden; nicht die überholte Art.-15-Zählung. Kein unterlassener Eilantrag begründet ohne Verschulden und hypothetische Schadensvermeidung automatisch § 839 Abs. 3 BGB.
+
 ## 5. Ausgabeformat
 
 Die Ausformulierungspflicht gilt ausdrücklich: Das beauftragte Endprodukt besteht aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Tabellen dürfen Berechnungen und Belege ergänzen, ersetzen aber keinen bestellten Brief oder Vermerk. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-/Markdown-Ausgabe folgt ein getrennter Exporthinweis; keine nicht erzeugte DOCX-/PDF-Datei behaupten. Empfängertexte verwenden die Sie-Form, soweit nichts anderes beauftragt ist.

@@ -131,7 +131,7 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | **Werkstatt-Prompts** | 275 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 274 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 437 zentral / 440 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 445 zentral / 448 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
 Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22742 Skills benutzbar bleibt.
 
@@ -172,9 +172,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 |---|---|
 | **Plugins** | 275 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
 | **Skills (SKILL.md)** | 22742: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 437 zentral / 440 gesamt |
+| **Testakten** | 445 zentral / 448 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.31.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.31.2` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -322,7 +322,7 @@ Die Plugins, Skills und Prompts sind Ausgangspunkte für eigene, fachlich kontro
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.1/testakte-inkasso-zahlungsklage-modefuchs.zip)
+> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-inkasso-zahlungsklage-modefuchs.zip)
 
 Die folgende Tabelle enthält alle installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
 
@@ -534,7 +534,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`ki-verordnung-hochrisiko-pruefer`](./ki-verordnung-hochrisiko-pruefer) | Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall. |
 | [`ki-verordnung-transparenzpruefer`](./ki-verordnung-transparenzpruefer) | Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken. |
 | [`ki-vo-ai-act-pruefer`](./ki-vo-ai-act-pruefer) | Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis. |
-| [`kommunale-haftpflicht`](./kommunale-haftpflicht) | Kommunale Haftpflichtfälle belegt prüfen und regulieren: Gebäude, Veranstaltungen, Rohrbruch, Fahrzeuge und Krankenhaus-Großschäden; Außenanspruch, Deckung, internen Ausgleich und Rückversicherung getrennt bearbeiten. |
+| [`kommunale-haftpflicht`](./kommunale-haftpflicht) | Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen. |
 | [`kommunalrecht-laender`](./kommunalrecht-laender) | Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. |
 | [`krankenhausrecht`](./krankenhausrecht) | Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. |
 | [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) | Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. |

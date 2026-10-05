@@ -313,6 +313,378 @@
         }
       ],
       "target_skill": "kommunalen-haftpflichtfall-bearbeiten"
+    },
+    {
+      "id": "abwasseranlage",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-abwasseranlage/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-abwasseranlage/02_Schadenbericht.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/03_Leitungsauskunft.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/04_Baggerfuehrer.eml",
+        "testakten/akha-wuerzburg-abwasseranlage/05_Reparaturrechnung.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/06_Ueberleitung_Rechnung.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/07_Kassenvermerk.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/08_Eigene_Stunden.docx",
+        "testakten/akha-wuerzburg-abwasseranlage/09_Unternehmerantwort.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Die Kommune als geschädigte Anspruchstellerin und den Tiefbauer als möglichen Ersatzpflichtigen erkennen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Schäden an der Leitung von Schäden durch austretende Flüssigkeit unterscheiden; Reparatur- und Personalaufwand sowie Vertragslage belegen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antragsbearbeitung",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-antragsbearbeitung/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-antragsbearbeitung/02_Antrag.docx",
+        "testakten/akha-wuerzburg-antragsbearbeitung/03_Eingangsbestaetigung.eml",
+        "testakten/akha-wuerzburg-antragsbearbeitung/04_Registerauszug.docx",
+        "testakten/akha-wuerzburg-antragsbearbeitung/05_Falsche_Auskunft.eml",
+        "testakten/akha-wuerzburg-antragsbearbeitung/06_Dringende_Nachfrage.eml",
+        "testakten/akha-wuerzburg-antragsbearbeitung/07_Sachgebietsleitung.docx",
+        "testakten/akha-wuerzburg-antragsbearbeitung/08_Wagenmiete_Rechnung.docx",
+        "testakten/akha-wuerzburg-antragsbearbeitung/09_Vermieter.eml",
+        "testakten/akha-wuerzburg-antragsbearbeitung/10_Forderung.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Vollständigkeit, Zuständigkeit, rechtmäßige Entscheidungsalternative und erfolgversprechenden Primärrechtsschutz konkret prüfen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Entgangenen Gewinn aus Umsätzen, ersparten Aufwendungen und tatsächlich nicht anderweitig nutzbaren Kosten entwickeln.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baugenehmigung",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-baugenehmigung/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-baugenehmigung/02_Antragsbeschreibung.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/03_Versagungsbescheid.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/04_Klage.eml",
+        "testakten/akha-wuerzburg-baugenehmigung/05_Bearbeitungsvermerk.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/06_Abhilfe_Genehmigung.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/07_Mietvertrag.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/08_Bankabrechnung.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/09_Zahlungsnachweis.docx",
+        "testakten/akha-wuerzburg-baugenehmigung/10_Forderung.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Bescheid, Rechtsbehelf, Abhilfe und hypothetisch rechtzeitige Genehmigung anhand der Chronologie prüfen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Mietbeginn, Finanzierungskosten und ersparte Aufwendungen ohne Doppelzählung und ohne pauschalen Entschädigungsanspruch abgleichen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baumpflege",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-baumpflege/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-baumpflege/02_Arbeitsauftrag.docx",
+        "testakten/akha-wuerzburg-baumpflege/03_Absperrvermerk.docx",
+        "testakten/akha-wuerzburg-baumpflege/04_Ereignisbericht.docx",
+        "testakten/akha-wuerzburg-baumpflege/05_Zeugin.eml",
+        "testakten/akha-wuerzburg-baumpflege/06_Reparaturrechnung.docx",
+        "testakten/akha-wuerzburg-baumpflege/07_Mietwagenrechnung.docx",
+        "testakten/akha-wuerzburg-baumpflege/08_Forderung.eml",
+        "testakten/akha-wuerzburg-baumpflege/09_Unternehmen_Stellungnahme.eml",
+        "testakten/akha-wuerzburg-baumpflege/10_Risiko_und_Unterlagen.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Ausführung, Absperrung und Aufsicht aus dem konkreten Auftrag ableiten; Verwaltungshelferstellung nicht pauschal unterstellen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Fallenden Ast, beschädigtes Fahrzeug und Reparaturbedarf anhand der zeitnahen Unterlagen abgleichen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fahrzeugschaden",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-fahrzeugschaden/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-fahrzeugschaden/02_Fahrerbericht.docx",
+        "testakten/akha-wuerzburg-fahrzeugschaden/03_Fahrzeug_und_Einsatz.docx",
+        "testakten/akha-wuerzburg-fahrzeugschaden/04_Zeugin.eml",
+        "testakten/akha-wuerzburg-fahrzeugschaden/05_Reparaturrechnung.docx",
+        "testakten/akha-wuerzburg-fahrzeugschaden/06_Taxibelege.docx",
+        "testakten/akha-wuerzburg-fahrzeugschaden/07_Forderung.eml",
+        "testakten/akha-wuerzburg-fahrzeugschaden/08_Fuhrpark_Deckungsunterlagen.eml",
+        "testakten/akha-wuerzburg-fahrzeugschaden/09_Werkstatt_Rueckfrage.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Fahrtzweck, Halter, Fahrer und Anspruchsgegner anhand der Einsatzunterlagen unterscheiden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Reparatur, frühere Beschädigungen, Vorsteuer und einzelne Nebenforderungen getrennt belegen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glatteis",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-glatteis/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-glatteis/02_Sturzbericht.docx",
+        "testakten/akha-wuerzburg-glatteis/03_Streuplan.docx",
+        "testakten/akha-wuerzburg-glatteis/04_Einsatzprotokoll.docx",
+        "testakten/akha-wuerzburg-glatteis/05_Wetterbeobachtung.docx",
+        "testakten/akha-wuerzburg-glatteis/06_Zeugin.eml",
+        "testakten/akha-wuerzburg-glatteis/07_Befund.docx",
+        "testakten/akha-wuerzburg-glatteis/08_Haushaltshilfe_Rechnung.docx",
+        "testakten/akha-wuerzburg-glatteis/09_Forderung.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Genaue Sturzstelle, Art der Verkehrsfläche, Verkehrsbedeutung und erneute Glätte mit dem tatsächlichen Streuablauf verbinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Zeitnahe Beobachtungen, spätere Erinnerungen und den medizinisch belegten Umfang des Schadens trennen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schlagloch",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-schlagloch/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-schlagloch/02_Schadenmeldung.docx",
+        "testakten/akha-wuerzburg-schlagloch/03_Strasse_und_Kontrollen.docx",
+        "testakten/akha-wuerzburg-schlagloch/04_Meldung_und_Reparatur.docx",
+        "testakten/akha-wuerzburg-schlagloch/05_Werkstattbefund.docx",
+        "testakten/akha-wuerzburg-schlagloch/06_Reparaturrechnung.docx",
+        "testakten/akha-wuerzburg-schlagloch/07_Abschlepprechnung.docx",
+        "testakten/akha-wuerzburg-schlagloch/08_Forderung.eml",
+        "testakten/akha-wuerzburg-schlagloch/09_Service_und_Deckung.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Straßenklasse, Pflichtenträger, Kontrollen und Erkennbarkeit der konkreten Gefahr klären.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Unfallschaden von Vorschaden und ohnehin erforderlicher Reifenbeschaffung abgrenzen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schwimmbad",
+      "request": "Führen Sie den in 01_Pruefauftrag.eml erteilten Auftrag anhand aller beigefügten Originale aus. Erstellen Sie den internen Prüfvermerk und den vollständig ausformulierten Antwortentwurf. Verwenden Sie die konkrete Rolle und Fristen aus der Akte, kennzeichnen Sie entscheidende offene Nachweise und versenden Sie nichts.",
+      "target_skill": "kommunalen-haftpflichtfall-bearbeiten",
+      "input_files": [
+        "testakten/akha-wuerzburg-schwimmbad/01_Pruefauftrag.eml",
+        "testakten/akha-wuerzburg-schwimmbad/02_Benutzungsordnung_und_Eintritt.docx",
+        "testakten/akha-wuerzburg-schwimmbad/03_Unfallmeldung.docx",
+        "testakten/akha-wuerzburg-schwimmbad/04_Kontrollbuch.docx",
+        "testakten/akha-wuerzburg-schwimmbad/05_Behandlungsbericht.docx",
+        "testakten/akha-wuerzburg-schwimmbad/06_Auslagenbelege.docx",
+        "testakten/akha-wuerzburg-schwimmbad/07_Forderung.eml",
+        "testakten/akha-wuerzburg-schwimmbad/08_Zeugin_Nwosu.eml",
+        "testakten/akha-wuerzburg-schwimmbad/09_Technik_Rueckmeldung.eml",
+        "testakten/akha-wuerzburg-schwimmbad/10_Vertragsstand.eml"
+      ],
+      "deliverables": [
+        "interner-pruefvermerk.md",
+        "antwortentwurf.md"
+      ],
+      "criteria": [
+        {
+          "id": "fallpruefung-1",
+          "text": "Betreiber-GmbH, privatrechtlichen Eintritt und konkrete Gefahrenkenntnis zuordnen.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "fallpruefung-2",
+          "text": "Behandlung, Heilungsverlauf und bezifferte Kosten ohne erfundene Dauerfolgen auswerten.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        },
+        {
+          "id": "rolle-und-endprodukt",
+          "text": "Ausschließlich die Mandantin aus Auftragsmail01 vertreten. Offene Belege konkret anfordern, Bearbeitungs- und Antworttermine verwenden und den vollständigen internen Vermerk sowie Empfängertext liefern. Keine pauschale Haftungsquote, Deckung, AKHA-Mitgliedschaft oder erfolgte Versendung erfinden.",
+          "deliverables": [
+            "interner-pruefvermerk.md",
+            "antwortentwurf.md"
+          ]
+        }
+      ]
     }
   ],
   "mini_review": {
@@ -332,7 +704,7 @@
     "method": "author_desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Die Erstprüfung der Abschnitte 1.1–1.38 bleibt als vorheriger Prüfstand erhalten; diese Abschnitte wurden inhaltlich nicht geändert. Ergänzung 1.39 wurde gegen die gesonderten Primärquellen und den konkreten Geburtsschadenfall gelesen, einschließlich Elternvertretung, Pflege-/Erwerbsprognose, Kapitalabfindung und Brutto-/Nettoausgleich. Autoren-Desk-Review mit unabhängiger juristischer Gegenlektüre der Erweiterung; kein behaupteter Werkstatt-Modelltest.",
+    "reason": "Die Erstprüfung der Abschnitte 1.1–1.38 bleibt als vorheriger Prüfstand erhalten; diese Abschnitte wurden inhaltlich nicht geändert. Ergänzung 1.39 wurde gegen die gesonderten Primärquellen und den konkreten Geburtsschadenfall gelesen, einschließlich Elternvertretung, Pflege-/Erwerbsprognose, Kapitalabfindung und Brutto-/Nettoausgleich. Autoren-Desk-Review mit unabhängiger juristischer Gegenlektüre der Erweiterung; kein behaupteter Werkstatt-Modelltest. Abschnitt 1.40 ergänzt acht konkrete Alltagsrouten und elf amtlich gelesene Entscheidungsanker; Anspruchsrichtung, Schadensrechnung und zeitlicher Normstand wurden gezielt gegengeprüft. Die bisherigen Abschnitte 1.1–1.39 und die kompakten Prompts bleiben unverändert.",
     "changes": [
       "Haushaltsführungsschaden nach Tätigkeiten und Zeiträumen, nachvollziehbarer Nettoersatzkraftansatz, Schmerzensgeld ohne Tagesformel.",
       "Sozialregress mit frühem Übergang und Kongruenz; EFZG/VVG nicht pauschal denselben Übergangszeitpunkt unterstellen.",
@@ -340,15 +712,16 @@
       "§12 StVG und §118 VVG mit unterschiedlichen Grenzen/Verteilungswirkungen; §16 StVG und andere Grundlagen nicht übergehen.",
       "AKHA-Kontext ohne fiktive Mitgliedschaft oder Bedingungen; echte Rückversicherung unter §209 VVG gesondert.",
       "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag.",
-      "Abschnitt 1.39: kommunaler Klinikfall, BGH VI ZR 186/08 Rn. 18–21 und VI ZR 377/17 Rn. 14, § 1643 Abs. 5 BGB sowie getrennte Lasten- und Zahlungsrechnung."
+      "Abschnitt 1.39: kommunaler Klinikfall, BGH VI ZR 186/08 Rn. 18–21 und VI ZR 377/17 Rn. 14, § 1643 Abs. 5 BGB sowie getrennte Lasten- und Zahlungsrechnung.",
+      "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen."
     ],
-    "sha256": "14ac764935ad37a2ff3dc8ad2f1bbf003cabc8034fb81db5310bf3a06e3163df"
+    "sha256": "20b15a830e2e234ce03a4c529a56bfd5a97218194ea3749221cde8c55a8fa7b3"
   },
   "focus_review": {
     "method": "desk_review",
     "reviewed_on": "2026-10-05",
     "verdict": "revised",
-    "reason": "Vollständige Autorgegenlektüre des eigenständigen Hauptproblem-Prompts nach Kürzung. Er führt Auftrag, Belege, Rechtsgrund, Betrag, Gläubiger, Deckung, Regress und ausformulierten Text zusammen. Drei direkte Primäranker zu Amt, Rohrbruch und Sozialregress enthalten. Desk-Review ohne behauptetes Ausführungsverhalten. Der Hauptskill verweist ergänzend auf den Klinikworkflow; der eigenständige Schwerpunkt-Prompt bleibt unverändert.",
+    "reason": "Vollständige Autorgegenlektüre des eigenständigen Hauptproblem-Prompts nach Kürzung. Er führt Auftrag, Belege, Rechtsgrund, Betrag, Gläubiger, Deckung, Regress und ausformulierten Text zusammen. Drei direkte Primäranker zu Amt, Rohrbruch und Sozialregress enthalten. Desk-Review ohne behauptetes Ausführungsverhalten. Der Hauptskill verweist ergänzend auf den Klinikworkflow; der eigenständige Schwerpunkt-Prompt bleibt unverändert. Der Hauptskill routet zusätzlich die acht Alltagsfälle zur konkret einschlägigen Referenz; der eigenständige Schwerpunkt bleibt unverändert.",
     "changes": [
       "Funktionale Amtsträgerzuordnung und Gebäudeausschluss beim Rohrbruch nicht aus kommunalem Namen beziehungsweise Keller-Schadenort ableiten.",
       "Eigene Anspruchskarte je Geschädigten; Haftungsquote, Deckungslimit, Selbstbehalt und Reserve getrennt.",
@@ -359,7 +732,7 @@
     "prompt_path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
     "prompt_sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
     "skill_path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
-    "skill_sha256": "7fcc1a3cd1ade7a5bf8fcb60b911f52531d5a4b39e499ae68a26ceca8fb8ec9d",
+    "skill_sha256": "e3938ba5d80abae5286f4d6c405d0b3d7acd37e7761c64dc7089ac9a1af910b8",
     "reviewer": "author"
   },
   "prompt_editorial_review": {
@@ -524,5 +897,13 @@
     "report": "quality/kommunale-haftpflicht/quellenpruefung.json",
     "scope": "Zweite statische Lektüre der zehn Skills, drei Prompts, Referenzen sowie Falltexte und Tabellen. Kein Modelltest.",
     "supplement": "quality/kommunale-haftpflicht/geburtsschaden-quellenpruefung.json"
+  },
+  "alltagsakten_source_review": {
+    "method": "desk_review",
+    "checked_on": "2026-10-05",
+    "evidence": "quality/kommunale-haftpflicht/alltagsakten-quellenpruefung.json",
+    "cases": 8,
+    "decisions": 11,
+    "scope": "Quellenlektüre und konkrete Anwendung in acht synthetischen Akten; keine behauptete Modellprüfung."
   }
 }

@@ -11,9 +11,13 @@ Nutze den Skill bei Wasser aus Versorgungsleitungen, Hausanschlüssen oder ander
 
 ## 2. Eingaben
 
+Prüfe zu Beginn die Schadensrichtung: Bei Beschädigung einer kommunalen Leitung durch einen fremden Bagger ist die Kommune gegebenenfalls selbst Anspruchstellerin aus § 823 BGB. § 2 HaftPflG begründet keinen umgekehrten Reparaturanspruch des Anlageninhabers gegen den Tiefbauer. Kläre Auftraggeber, Auskunft, tatsächliche Rohrlage und gebotene Suchmaßnahmen; straßenrechtliche Erlaubnis bedeutet weder privaten Bauvertrag noch automatisch Verwaltungshelfertätigkeit. [AA09 und AA11](../../references/alltagsfaelle-bayern.md) behandeln Erkundigungspflicht und schadensbehebende Eigenpersonalkosten. Eigene Reparaturstunden, bloße Anspruchsabwicklung und bereits in einer Fremdrechnung enthaltene Leistungen auseinanderhalten.
+
 Leitungsplan, Eigentums-/Betriebsgrenzen, Versorgungsverhältnis, Satzung/Vertrag, Bruch- und Reparaturbericht, Leckstelle, Wasserlauf, Gebäudenutzung, betroffene Eigentümer/Mieter, Rechnungen und Betriebszahlen.
 
 ## 3. Ablauf und Checkliste
+
+Verzweige vor der folgenden Prüfung: Bei Schäden **an** einer kommunalen Anlage bearbeite zuerst § 823 und gegebenenfalls § 831 BGB, Auskunft, Erkundigung, Aushub und konkrete Wiederherstellungskosten. Die nachfolgenden Schritte zu Stoffaustritt, Ausbreitung und Betriebsunterbrechung gelten nur, soweit der Sachverhalt solche Folgen tatsächlich enthält. Fordere dafür keine nicht einschlägigen Wasserlauf- oder Umsatzbelege an.
 
 1. Lokalisierte Leitung, Anlageninhaber, Funktion, ausgetretenen Stoff und Schadenort feststellen. Hausanschluss, Innenleitung, Kanal, Grundwasser und Oberflächenwasser nicht vermischen. Ungeklärte Leitungslage durch konkrete Plan- oder Befundanforderung klären.
 2. Prüfe § 2 HaftPflG nur im belegten Anwendungsbereich, einschließlich der konkreten Ausschlüsse und gesetzlichen Höchstgrenzen. Daneben Vertrag, AVBWasserV nur bei Anwendbarkeit, Satzung, Delikt und gegebenenfalls Amtshaftung getrennt untersuchen. Eine Sonderhaftungsgrenze nicht ungeprüft auf alle konkurrierenden Ansprüche erstrecken.

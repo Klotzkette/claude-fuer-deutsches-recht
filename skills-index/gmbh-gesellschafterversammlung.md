@@ -1,6 +1,6 @@
 # gmbh-gesellschafterversammlung
 
-**6 Skills** · Stand `v445.31.1`
+**6 Skills** · Stand `v445.31.2`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gmbh-gesellschafterversammlung/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

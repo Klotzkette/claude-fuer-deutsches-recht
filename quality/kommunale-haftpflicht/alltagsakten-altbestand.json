@@ -1,0 +1,238 @@
+{
+  "baseline": "v445.31.1",
+  "commit": "0b90f6b515396d55b2391a0b0e0b9e018623833c",
+  "sources": [
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/01_Pruefauftrag.eml",
+      "sha256": "f0fc50086179b50f0dceb46b9f418bf49f3bc5d79259a49fdcd92a7237087239"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/02_Ereignismeldung.docx",
+      "sha256": "78496bb25e1454488e8e502c6363d24a446c71e4e3ecf5f4209b72c97e7acd7a"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/03_Behandlungsbericht.docx",
+      "sha256": "d267e802cecb7742420537bc581d85ea7be5c5e7f8340e83beacda63f1a4e58b"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/04_Reinigungskontrolle.docx",
+      "sha256": "351f604c724b73aa27685918284da2e00513ca0aff5e498f37c53b696905ede1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/05_Haushaltshilfe_Rechnung.docx",
+      "sha256": "538e3d87aa595dcbb3a61c53330d428d86d0977442349dc21a8d36aa9d58bd90"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/06_Jacke_Kaufbeleg.docx",
+      "sha256": "f45ac2e3780b9fa238b03142de1ad449264a3ae7e1194247760bbf0724688164"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/07_Forderung_Kuemmel.eml",
+      "sha256": "d99d6d4b93471d7a260e174ef4180717e726f3921a95dda960cfc11b2215d95e"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/08_Zeugin_Lina.eml",
+      "sha256": "8704704a9ee700dc7343fede2c935d0d460b6db6de9837582e484e4ebea04a39"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/09_Reinigung_Rueckfrage.eml",
+      "sha256": "50e8797a52ac05f8ea28942900ad039e5d33a429457e9cccef7c0a87c50673f1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/10_Vertragsunterlagen.eml",
+      "sha256": "74935178b9c8ee5affc37ec5f8cfa0f91a73d184ae4ca9a7175031a76d68c426"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/11_Teamchat.txt",
+      "sha256": "f192332f265033da6cc201fbe3da82f20ad29a8a0e8ff2c932f7196f844f88aa"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/12_Alltag_Kuemmel.docx",
+      "sha256": "afc7b68718f963de0984e4856aa3c96f5d2f0a21494988b780e230553f192d66"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf",
+      "sha256": "48028e10391f80b034c2ac2d6e9067d80c885372c4b957beb42e078baabfb8d7"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/01_Pruefauftrag.eml",
+      "sha256": "fecfb2900f034468bca7372a7956b3acd6d0a1a27681218c229c7c20f977719e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/02_Schadenmeldung.docx",
+      "sha256": "6df0f617bb07fa7956263a5014ba756d7ab2150e161d4b416b262c4a4f563f2a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/03_Einsatzbericht.docx",
+      "sha256": "b28ba7bd5a568be45371f0d02f7c12f552592500d025696fac0ad40bb58250ef"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/04_Trocknung_Rechnung.docx",
+      "sha256": "49e48a41c505f94ba4391d021557a6d738c9d3dee22300e60291636ff4f4e5e0"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/05_Muehlen_Bestandsliste.docx",
+      "sha256": "6f18d978df7377e4799e859fed0cbcfad4dbce28cf685511f9b5c551fe1306f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/06_Elektro_Angebot.docx",
+      "sha256": "8cda7664dd9a3b4862d9097eb6aea77c281a7872a15fe8acaf1b17223141652c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/07_Kostenuebersendung.eml",
+      "sha256": "2a65bb238124bacd712fd8ee7164defc6c302536b3f0b6430a2abad72008a9c6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/08_Vermieterin.eml",
+      "sha256": "13f5e0d53353f7f92cb19a93ff8311d5654d2c86e5790f08af3814060dc97aac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/09_Vertragsanfrage.eml",
+      "sha256": "972a0a56c8b654d6271998dd7b74a69cb30251a27b29a0c909418274c155f0f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/10_Umsatz_Rueckfrage.eml",
+      "sha256": "5cdf4bef4694486a760e657ca1dd9eba324f8528db68ae45c6166ab4d36116fc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/11_Stoerungslog.txt",
+      "sha256": "c919fbdc494b670bd6cb55dc1fc4120601ab5f0a79baf6df14cd9f69c0d2caa5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/12_Kostenliste.xlsx",
+      "sha256": "ace2deac0013ba323d406a82a8c42a208220a97595773a974d8c2bf5b7782692"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf",
+      "sha256": "7a747719bc0605c4195245acbe2af3ef8aab7358036cb8da856e4818892efe2b"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/01_Pruefauftrag.eml",
+      "sha256": "999dcc971a6e2b3e654a0fc201527791c58cb5d460fb2de357b4530e8ce6299e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/02_Unfallmeldung.docx",
+      "sha256": "8053c391f6209a867ef7d340a626bcf827018c145fd71d0496928baeb58eb534"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/03_Zeugin_Samira.docx",
+      "sha256": "a8ba12ad40a47f9a77891213b7d663eff423127c5952a498b8001cca7ee741ac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/04_Bau_Angebot.docx",
+      "sha256": "9107556b586882ebdaaa027489e4b3f8787abaf8f05c30e53ba56dd680e49a52"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/05_Geraete_Aufstellung.docx",
+      "sha256": "4d476c42baa520f9ab79e3ea7459888a5c1ec5a5446f4baccf2aff43e4cf2309"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/06_Werkstattauftrag.docx",
+      "sha256": "dbfc1c3a9d5bdb0af565327676be5caa47069c3b54a90c01e0f3882a31ebb124"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/07_Gebaeudeeigentuemerin.eml",
+      "sha256": "412896b763be4fdaa8c18bd90e97b88078ee31c5705607d7d249e26c61a38b04"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/08_Geraeteeigentuemerin.eml",
+      "sha256": "e8f54ae80f363721c9dc31b200c95de3fc3e3c13dc50649dfdb88001d4bdb578"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/09_Nachbarbetrieb.eml",
+      "sha256": "8b42f2d5c6b029c0af9f223a034f64e910626e32b784bb19cf0e3a173d42e764"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/10_Vertragsunterlagen.eml",
+      "sha256": "6d561fc5deee03271d8801ac10041f8ad09d56986cd981e79dd79296abcefd40"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/11_Fuhrparkchat.txt",
+      "sha256": "a9f5d7b3da2b4bd3bc18c0c596b4abff5acdc7e56e34881bf803821e1d115034"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/12_Forderungsuebersicht.xlsx",
+      "sha256": "88e1cbf8cfc88ede3502b351cf07180528a8696715d8e7bfb9e88de410c91a72"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf",
+      "sha256": "7fe73e3ce46229f6db76a9a4d135bc86fd7e508103bb3001f3e8377ccaa02aa9"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/01_Pruefauftrag.eml",
+      "sha256": "2f8ade3ae10edcbc506c27f56ce015336bfce0cee42d2600e18cdafcb35e3a85"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/02_Gesellschafterbestaetigung.docx",
+      "sha256": "404c47d2fb8c4ce314bdee8ac9f7147fb6e2b759cc2a768f37f1e54c09b96ecc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/03_Geburtsdokumentation.docx",
+      "sha256": "ef108da000cb21cf498fdb7ba3a263e802ed65f58a07c6f518fa06b90e22072c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/04_Gutachten_Geburtshilfe.docx",
+      "sha256": "b129eb559d072385924093ebd29d0205ad0856aeb7c9521c104b70187119f156"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/05_Haftungsanerkenntnis.docx",
+      "sha256": "8bf39c67347b06537ce83afe34ddb33bed68ab622e3e6484f3ccdac07eb59cad"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/06_Eltern_Pflegealltag.eml",
+      "sha256": "e893530908e38465c6d88560f8b1826a7d74c3045bcb38e27380f7e63f03d66d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/07_Pflegebericht.docx",
+      "sha256": "ec611606aa012187c1acb7ad746d76ec5c3488864f2b2397c34a32731bdb684d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/08_Assistenzangebot.docx",
+      "sha256": "8a928846ab3470e05af4026356ca20a20c6fe5e71d0445e491d2bef076f4198a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/09_Erwerbsgrundlagen.docx",
+      "sha256": "6f7a20d57d22fb40977de7544784b5725ca7e7419cbeef2533af709e160335c8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/10_Deckungsbestaetigung.docx",
+      "sha256": "1dffff139c783e531d43db6c64c6bfe212696983d68a91842e0784b7f28dae09"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/11_Teilvergleich.docx",
+      "sha256": "e8063627405254c604cd94b78b2f804983f5a492b6bcc24b5b96335046068c2a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/12_Zahlung_und_Schichten.xlsx",
+      "sha256": "4f148f75f2ca0b327202a58d75655199b34cdcfc6194e4c51de7b6840f66c084"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/13_Zahlungseingang.eml",
+      "sha256": "a81bd2bfe8a840dc9bb7b9cf30e982262e6f47991dcb25f0a1ef9f32d5675078"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/14_Interne_Modellvereinbarung.docx",
+      "sha256": "e2ba22fb15091a980df9b239259cf7fea01cb0ef8f4b3dd2b13223c78119e5a8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/15_Abrechnung_Rueckdeckung.eml",
+      "sha256": "fdfee4b3dd71bee9f373716f1413cdc8bdcde0c2e5ee1213b89f6662f7d5e074"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/16_Reservevermerk.docx",
+      "sha256": "e48c389f4d034d7ed618d0bb7cb87d644ca4a6caeb2520184e2d68058ed4f663"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/17_Wohnanpassung.docx",
+      "sha256": "c6827f4f30755fd0b1a50b09122983ad99433eaaa14407bd3c4e418b5f4b4764"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/18_Kassenabgleich.eml",
+      "sha256": "11b3cfaab5dd9cc5641f5a4cf955d7bb402e78ec43835fa1958dc0e2b35d0e53"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf",
+      "sha256": "7c54f8b18530675812efa4de26ae857eb56bf443086fbde4bc43459fea24429d"
+    }
+  ]
+}

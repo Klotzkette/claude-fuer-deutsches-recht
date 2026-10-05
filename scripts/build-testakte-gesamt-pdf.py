@@ -1152,6 +1152,18 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             helper = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(helper)
             helper.add_release_bookmarks(writer, testakte_dir)
+        if name in {
+            "akha-wuerzburg-fahrzeugschaden", "akha-wuerzburg-schwimmbad",
+            "akha-wuerzburg-baumpflege", "akha-wuerzburg-schlagloch",
+            "akha-wuerzburg-glatteis", "akha-wuerzburg-antragsbearbeitung",
+            "akha-wuerzburg-baugenehmigung", "akha-wuerzburg-abwasseranlage",
+        }:
+            import importlib.util
+            helper_path = Path(__file__).with_name("build-kommunale-alltagsakten.py")
+            spec = importlib.util.spec_from_file_location("kommunale_alltagsakten_pdf", helper_path)
+            helper = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(helper)
+            helper.add_release_bookmarks(writer, testakte_dir)
         with tmp_output.open("wb") as handle:
             writer.write(handle)
         if not list(PdfReader(str(tmp_output)).pages):
