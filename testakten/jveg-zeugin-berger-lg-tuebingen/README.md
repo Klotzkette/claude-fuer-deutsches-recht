@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf`](gesamt-pdf/jveg-zeugin-berger-lg-tuebingen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-jveg-zeugin-berger-lg-tuebingen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,7 +31,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-jveg-zeugin-berger-lg-tuebingen` (Akte) | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
+| `testakte-jveg-zeugin-berger-lg-tuebingen` (Akte) | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

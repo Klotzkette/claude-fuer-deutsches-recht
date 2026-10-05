@@ -1,0 +1,91 @@
+name: Fiktives Verletzungsrisiko
+plugin: kommunale-haftpflicht
+stand: '2026-10-05'
+checks:
+- id: bestand
+  check_type: working_file_count
+  description: 18 getrennte Originalunterlagen vorhanden.
+  min: 18
+- id: format-docx
+  check_type: file_count
+  description: 10 Originale im Format DOCX.
+  glob: '*.docx'
+  min: 10
+- id: format-eml
+  check_type: file_count
+  description: 5 Originale im Format EML.
+  glob: '*.eml'
+  min: 5
+- id: format-txt
+  check_type: file_count
+  description: 2 Originale im Format TXT.
+  glob: '*.txt'
+  min: 2
+- id: format-csv
+  check_type: file_count
+  description: 1 Originale im Format CSV.
+  glob: '*.csv'
+  min: 1
+- id: kern-1
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 01_Auftrag.eml
+- id: kern-2
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 02_Unfallmeldung.docx
+- id: kern-3
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 05_Ambulanz_Pimpinella.docx
+- id: kern-4
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 06_Ambulanz_Wolkenbein.docx
+- id: kern-5
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 09_Kassenforderung.eml
+- id: kern-6
+  check_type: file_exists
+  description: Kernunterlage vorhanden.
+  path: 11_Insassenforderung.eml
+- id: fach-1
+  check_type: human_review
+  description: Werden die beiden Personen, klinische Befunde, bloßer Verdacht und
+    tatsächliche Beschwerden getrennt gewürdigt, ohne aus einem unauffälligen Röntgenbild
+    allein auf fehlende Verletzung zu schließen?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.
+- id: fach-2
+  check_type: human_review
+  description: Werden Primärverletzung, Unfallursächlichkeit, einzelne Folgekosten
+    und die jeweils zutreffenden Beweisanforderungen unterschieden?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.
+- id: fach-3
+  check_type: human_review
+  description: Bleiben Kassenregress und Eigenforderungen getrennt, ohne gleiche MIME-Anlagen
+    doppelt zu zählen oder die Sachschadenzahlung als umfassendes Anerkenntnis zu
+    verwenden?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.
+- id: fach-4
+  check_type: human_review
+  description: Wird bei ambulanten Leistungen Paragraf 116 Absatz 8 SGB X mitgeprüft,
+    ohne die Pauschale als Ersatz für den Haftungsgrund oder als vereinbarte Pauschalierung
+    zu behandeln?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.
+- id: fach-5
+  check_type: human_review
+  description: Wird die Kfz-Rechtsprechung zum Werkstattrisiko nicht ungeprüft als
+    medizinische Haftungsregel übertragen?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.
+- id: fach-6
+  check_type: human_review
+  description: Werden offene Kostenpositionen konkret nachgefragt und getrennte, vollständig
+    ausformulierte Antwortentwürfe ohne unbeauftragten Versand geliefert?
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung, kein automatisch bestandener
+    juristischer Test.

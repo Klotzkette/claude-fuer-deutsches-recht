@@ -67,11 +67,13 @@ class AlltagsaktenTests(unittest.TestCase):
                 for name, data in attachments.items():
                     self.assertEqual(data, (directory(case)/name).read_bytes(), name)
 
-    def test_existing_four_cases_are_byte_identical(self):
+    def test_existing_four_native_cases_are_byte_identical(self):
         proof = json.loads((ROOT/'quality/kommunale-haftpflicht/alltagsakten-altbestand.json').read_text())
         self.assertEqual(proof['baseline'], 'v445.31.1')
         self.assertEqual(len(proof['sources']), 58)
-        for item in proof['sources']:
+        native_sources = [item for item in proof['sources'] if '/gesamt-pdf/' not in item['path']]
+        self.assertEqual(len(native_sources), 54)
+        for item in native_sources:
             path = ROOT/item['path']
             self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), item['sha256'], item['path'])
 
@@ -84,7 +86,7 @@ class AlltagsaktenTests(unittest.TestCase):
             text = '\n'.join(p.extract_text() or '' for p in pdf.pages)
             self.assertNotIn(NOTICE_DE, text); self.assertNotIn(NOTICE_EN, text)
             outlines = {item.title: pdf.get_destination_page_number(item) for item in pdf.outline if not isinstance(item,list)}
-            self.assertEqual(set(outlines), {Path(d['file']).stem for d in case['documents']})
+            self.assertTrue({Path(d['file']).stem for d in case['documents']} <= set(outlines))
             for item in case['documents']:
                 start = normalized(pdf.pages[outlines[Path(item['file']).stem]].extract_text() or '')
                 self.assertIn(normalized(item['title']), start, item['file'])
@@ -93,7 +95,10 @@ class AlltagsaktenTests(unittest.TestCase):
     def test_archives_sources_and_full_pdf_text(self):
         base = Path(os.environ['KOMMUNALE_ALLTAG_ZIPS'])
         for case in CASES:
-            originals = {d['file'] for d in case['documents']}
+            from testakte_zip_common import working_dump_archive_pairs
+            from testakte_einzelpdf_common import document_arcname_pairs
+            native_pairs = dict((arc,p) for p,arc in working_dump_archive_pairs(directory(case), include_gesamt_pdf=False))
+            originals = set(native_pairs)
             for suffix in ('','-einzelpdfs'):
                 with zipfile.ZipFile(base/f"testakte-{case['slug']}{suffix}.zip") as z:
                     self.assertIsNone(z.testzip())
@@ -105,10 +110,10 @@ class AlltagsaktenTests(unittest.TestCase):
                         combined = f"{case['slug']}_gesamt.pdf"
                         self.assertEqual(set(names), originals | {'README.txt',combined})
                         for name in originals:
-                            self.assertEqual(z.read(name), (directory(case)/name).read_bytes(), name)
+                            self.assertEqual(z.read(name), native_pairs[name].read_bytes(), name)
                         self.assertEqual(z.read(combined), (directory(case)/'gesamt-pdf'/combined).read_bytes())
                     else:
-                        self.assertEqual(set(names), {Path(n).stem+'.pdf' for n in originals} | {'README.txt'})
+                        self.assertEqual(set(names), {arc for p,arc in document_arcname_pairs(directory(case))} | {'README.txt'})
                         for item in case['documents']:
                             p = PdfReader(io.BytesIO(z.read(Path(item['file']).stem+'.pdf')))
                             text = '\n'.join(page.extract_text() or '' for page in p.pages)

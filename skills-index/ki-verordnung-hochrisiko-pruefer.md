@@ -1,6 +1,6 @@
 # ki-verordnung-hochrisiko-pruefer
 
-**9 Skills** · Stand `v445.31.2`
+**9 Skills** · Stand `v445.31.3`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../ki-verordnung-hochrisiko-pruefer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

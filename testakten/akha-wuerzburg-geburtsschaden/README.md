@@ -20,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-geburtsschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-geburtsschaden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-geburtsschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-geburtsschaden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -43,7 +43,7 @@ Passendes Plugin: [Kommunale Haftpflicht](../../kommunale-haftpflicht/README.md)
 
 ## 1.3. Kleiner Einstieg
 
-Für die optionale Vorführung im allgemeinen Vortrag zur KI-Rechtsanwendung beginnen Sie mit sechs Kernunterlagen. Die übrigen Quellen vertiefen den Belegabgleich; ein fertiger Vortrag oder eine Musterlösung ist nicht Bestandteil der Akte.
+Für die optionale Vorführung im allgemeinen Vortrag zur KI-Rechtsanwendung beginnen Sie mit sechs Kernunterlagen. Die übrigen Quellen vertiefen den Belegabgleich; ein fertiger Vortrag ist nicht Bestandteil der Akte. Der zusätzlich bestellte Klagevorentwurf wird zeitlich und fachlich gesondert eingeordnet.
 
 - [01_Pruefauftrag.eml](01_Pruefauftrag.eml)
 - [04_Gutachten_Geburtshilfe.docx](04_Gutachten_Geburtshilfe.docx)
@@ -56,7 +56,7 @@ Für die optionale Vorführung im allgemeinen Vortrag zur KI-Rechtsanwendung beg
 
 ## 1.4. Umfang und Herkunft
 
-Das Gesamt-PDF umfasst 35 Seiten. Das Einzel-PDF-ZIP enthält achtzehn Unterlagen mit zusammen 22 Seiten.
+Das Gesamt-PDF umfasst 48 Seiten. Das Einzel-PDF-ZIP enthält 24 Unterlagen mit zusammen 32 Seiten.
 
 Achtzehn native Originalunterlagen: zwölf bearbeitbare Word-Dokumente, fünf E-Mail-Dateien und eine Excel-Arbeitsmappe mit vier Tabellenblättern und Arbeitsformeln. Bezeichnete E-Mail-Anlagen sind als identische MIME-Dateien eingebettet. Anlage und gesonderte Datei bezeichnen denselben Beleg und dürfen nicht doppelt berücksichtigt werden.
 
@@ -93,9 +93,38 @@ Auch Vergleich, klinische Befunde, Pflegeangebot und Erwerbsannahmen sind erfund
 | [17_Wohnanpassung.docx](17_Wohnanpassung.docx) | Schlussrechnung für den barrierearmen Umbau |
 | [18_Kassenabgleich.eml](18_Kassenabgleich.eml) | FK-2016-0214: vollständige Zahlungs- und Eingangsliste |
 
+<!-- BEGIN kommunaler-schriftverkehr -->
+
+<!-- decimal-anchor --> <a id="schriftverkehr-und-klageentwurf"></a>
+
+## 1.6. Schriftverkehr und Klageentwurf
+
+Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Insgesamt stehen jetzt **24 Originalunterlagen** zur Verfügung. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+
+Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+
+ARCHIVSTATUS: Am 05.10.2026 rekonstruierter historischer Vorentwurf mit ausschließlich dem Erkenntnisstand vom 22.09.2026. Durch Teilvergleich vom 23.09.2026 und vollständige Familienzahlung von insgesamt 13,2 Mio. EUR überholt; NICHT EINREICHBAR. Keine neue Familienforderung, keine Klage gegen AKHA oder Rückdeckung. Historischer Gegenstand: 80.000 EUR verbleibende konkrete Wohnanpassungskosten sowie weiteres angemessenes Schmerzensgeld mit 600.000 EUR Orientierung nach 300.000 EUR Vorschuss, vorläufiger Streitwert 680.000 EUR. Nur der materielle Anspruch ist eine sachlich abgegrenzte Teilklage; Schmerzensgeld umfasst alle damals erkennbaren und vorhersehbaren Folgen. Keine freie Kapitalisierung künftiger Renten. Das Word-Dokument enthält ein vollständiges Anlagenverzeichnis; es enthält keine erst nach dem 22.09.2026 entstandenen Belege.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Datei | Gegenstand |
+| --- | --- |
+| [01_Eltern_Umbaukosten.eml](schriftverkehr-und-klage/01_Eltern_Umbaukosten.eml) | Noras Umbau: Rechnung, Zahlungen und Umfang |
+| [02_Klinik_Zwischenstand.eml](schriftverkehr-und-klage/02_Klinik_Zwischenstand.eml) | Winter: Zahlungszuordnung vor weiterer Besprechung |
+| [03_Archivstatus_05Oktober.eml](schriftverkehr-und-klage/03_Archivstatus_05Oktober.eml) | Nur Archiv: Vorentwurf 22. September durch Vergleich überholt |
+| [04_Forderung_vor_Vergleich.pdf](schriftverkehr-und-klage/04_Forderung_vor_Vergleich.pdf) | Historisches Forderungsschreiben vor dem Vergleich |
+| [05_Antwort_vor_Vergleich.pdf](schriftverkehr-und-klage/05_Antwort_vor_Vergleich.pdf) | Historische Antwort auf das begrenzte Forderungsschreiben |
+| [06_Historischer_Klagevorentwurf_Winter.docx](schriftverkehr-und-klage/06_Historischer_Klagevorentwurf_Winter.docx) | Historischer Klagevorentwurf: Erkenntnisstand 22. September |
+
+Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher Sendungen. Die Word-Klage enthält Anträge, Sachverhalt, Beweisantritte, rechtliche Begründung und Anlagenverzeichnis. Für das selbstständige Erarbeiten eines Entwurfs zunächst nur den Grundbestand öffnen; für Prüfung und Verbesserung anschließend den zusätzlichen Klageentwurf hinzunehmen.
+
+<!-- END kommunaler-schriftverkehr -->
+
 <!-- decimal-anchor --> <a id="downloads"></a>
 
-## 1.6. Downloads
+## 1.7. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -104,7 +133,7 @@ Auch Vergleich, klinische Befunde, Pflegeangebot und Erwerbsannahmen sind erfund
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-geburtsschaden.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-geburtsschaden.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-geburtsschaden-einzelpdfs.zip) |
 
 Die Archive sind flach. Ihre README.txt enthält den Herkunfts- und Risikohinweis; die PDFs enthalten keine Hinweisseite. Die redaktionelle Bewertungsdatei wird nicht als Arbeitsunterlage exportiert.

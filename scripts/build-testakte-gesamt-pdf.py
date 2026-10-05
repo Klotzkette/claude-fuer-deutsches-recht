@@ -1138,14 +1138,14 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             "kommunale-haftpflicht-personenschaden",
             "akha-wuerzburg-rohrbruch",
             "akha-wuerzburg-betriebsfahrzeug",
-        }:
+        } and not (testakte_dir / "schriftverkehr-und-klage").is_dir():
             import importlib.util
             helper_path = Path(__file__).with_name("build-kommunale-haftpflicht-akten.py")
             spec = importlib.util.spec_from_file_location("kommunale_haftpflicht_pdf", helper_path)
             helper = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(helper)
             helper.add_release_bookmarks(writer, testakte_dir)
-        if name == "akha-wuerzburg-geburtsschaden":
+        if name == "akha-wuerzburg-geburtsschaden" and not (testakte_dir / "schriftverkehr-und-klage").is_dir():
             import importlib.util
             helper_path = Path(__file__).with_name("build-geburtsschaden-akte.py")
             spec = importlib.util.spec_from_file_location("geburtsschaden_pdf", helper_path)
@@ -1157,10 +1157,17 @@ def build_gesamt_pdf(testakte_dir: Path) -> tuple[str, str]:
             "akha-wuerzburg-baumpflege", "akha-wuerzburg-schlagloch",
             "akha-wuerzburg-glatteis", "akha-wuerzburg-antragsbearbeitung",
             "akha-wuerzburg-baugenehmigung", "akha-wuerzburg-abwasseranlage",
-        }:
+        } and not (testakte_dir / "schriftverkehr-und-klage").is_dir():
             import importlib.util
             helper_path = Path(__file__).with_name("build-kommunale-alltagsakten.py")
             spec = importlib.util.spec_from_file_location("kommunale_alltagsakten_pdf", helper_path)
+            helper = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(helper)
+            helper.add_release_bookmarks(writer, testakte_dir)
+        if (name.startswith("akha-wuerzburg-") or name == "kommunale-haftpflicht-personenschaden") and (testakte_dir / "schriftverkehr-und-klage").is_dir():
+            import importlib.util
+            helper_path = Path(__file__).with_name("build-kommunale-schriftverkehr.py")
+            spec = importlib.util.spec_from_file_location("kommunaler_schriftverkehr_pdf", helper_path)
             helper = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(helper)
             helper.add_release_bookmarks(writer, testakte_dir)

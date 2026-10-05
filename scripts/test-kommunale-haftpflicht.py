@@ -116,7 +116,10 @@ class MunicipalCasesTest(unittest.TestCase):
     @unittest.skipUnless(os.environ.get('KOMMUNALE_HAFTPFLICHT_ZIPS'), 'KOMMUNALE_HAFTPFLICHT_ZIPS für Archivprüfung setzen')
     def test_flat_archives_preserve_sources_and_one_pdf_per_original(self):
         for case in CASES:
-            native = inventory(case)
+            from testakte_zip_common import working_dump_archive_pairs
+            from testakte_einzelpdf_common import document_arcname_pairs
+            native_pairs = {arc:p for p,arc in working_dump_archive_pairs(directory(case), include_gesamt_pdf=False)}
+            native = set(native_pairs)
             for suffix in ('', '-einzelpdfs'):
                 path = Path(os.environ['KOMMUNALE_HAFTPFLICHT_ZIPS'])/f"testakte-{case['slug']}{suffix}.zip"
                 with zipfile.ZipFile(path) as archive:
@@ -128,7 +131,7 @@ class MunicipalCasesTest(unittest.TestCase):
                     self.assertTrue(notice.startswith(NOTICE_TEXT))
                     self.assertIn(NOTICE_EN, notice)
                     if suffix:
-                        expected = {Path(n).stem+'.pdf' for n in native} | {NOTICE_FILENAME}
+                        expected = {arc for p,arc in document_arcname_pairs(directory(case))} | {NOTICE_FILENAME}
                         self.assertEqual(expected, set(names))
                         for name in expected-{NOTICE_FILENAME}:
                             pages = PdfReader(io.BytesIO(archive.read(name))).pages
@@ -140,7 +143,7 @@ class MunicipalCasesTest(unittest.TestCase):
                         combined = f"{case['slug']}_gesamt.pdf"
                         self.assertEqual(native | {NOTICE_FILENAME, combined}, set(names))
                         for name in native:
-                            self.assertEqual(archive.read(name), (directory(case)/name).read_bytes(), name)
+                            self.assertEqual(archive.read(name), native_pairs[name].read_bytes(), name)
                         self.assertEqual(archive.read(combined), (directory(case)/'gesamt-pdf'/combined).read_bytes())
 
 

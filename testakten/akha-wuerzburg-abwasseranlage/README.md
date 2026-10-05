@@ -20,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-abwasseranlage_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-abwasseranlage_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-abwasseranlage.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-abwasseranlage.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-abwasseranlage.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-abwasseranlage.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -43,7 +43,7 @@ Passendes Plugin: [Kommunale Haftpflicht](../../kommunale-haftpflicht/README.md)
 
 ## 1.3. Kleiner Einstieg
 
-Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren Dateien erlauben anschließend einen vollständigen Belegabgleich. Die Akte enthält keine Musterlösung und keinen fertig ausgearbeiteten Vortrag.
+Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren Dateien erlauben anschließend einen vollständigen Belegabgleich. Der Grundbestand bleibt ohne Musterlösung; der gesonderte Klageentwurf ist ein ausdrücklich bestelltes Arbeitsstück. Ein fertiger Vortrag wird nicht mitgeliefert.
 
 - [01_Pruefauftrag.eml](01_Pruefauftrag.eml)
 - [02_Schadenbericht.docx](02_Schadenbericht.docx)
@@ -56,7 +56,7 @@ Beginnen Sie für eine kurze Vorführung mit diesen Kernunterlagen. Die weiteren
 
 ## 1.4. Umfang und Herkunft
 
-Das Gesamt-PDF umfasst 15 Seiten. 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
+Das Gesamt-PDF umfasst 29 Seiten. 9 native Originalunterlagen in bearbeitbaren Word-Dateien, echten E-Mail-Dateien und gegebenenfalls einem Text-Export. Genannte E-Mail-Anlagen sind tatsächlich als identische MIME-Dateien beigefügt; die beigefügte und die gesondert gespeicherte Fassung bilden denselben Beleg.
 
 <!-- reserved-example-contacts -->
 
@@ -80,9 +80,38 @@ AKHA bezeichnet das fachliche Bearbeitungsumfeld. Aus dem Ordnernamen folgen wed
 | [08_Eigene_Stunden.docx](08_Eigene_Stunden.docx) | Einsatzstunden Regiebetrieb und Kostenanforderung |
 | [09_Unternehmerantwort.eml](09_Unternehmerantwort.eml) | Kanalschaden Schlehenfächerweg – Ihre Kostenankündigung |
 
+<!-- BEGIN kommunaler-schriftverkehr -->
+
+<!-- decimal-anchor --> <a id="schriftverkehr-und-klageentwurf"></a>
+
+## 1.6. Schriftverkehr und Klageentwurf
+
+Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Insgesamt stehen jetzt **15 Originalunterlagen** zur Verfügung. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+
+Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+
+Stadt als Klägerin; nur 4.236,40 EUR bezahlte Fremdkosten, keine unbereinigte Personalkostenpauschale. § 831 BGB in Verbindung mit Eigentumsverletzung nach § 823 Abs. 1 BGB; kein Stadt-Werkvertrag und kein automatischer Eigenschadenanspruch aus § 2 HPflG. Das Anlagenverzeichnis ist im Word-Dokument enthalten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Datei | Gegenstand |
+| --- | --- |
+| [11_Polier_Suchschlitz.eml](schriftverkehr-und-klage/11_Polier_Suchschlitz.eml) | Schlehenfächerweg – Ablauf vor dem Rohrtreffer |
+| [12_Umsatzsteuer.eml](schriftverkehr-und-klage/12_Umsatzsteuer.eml) | Kanalschaden – Vorsteuer und Zahlung der beiden Rechnungen |
+| [13_Reparaturumfang.eml](schriftverkehr-und-klage/13_Reparaturumfang.eml) | Rechnung vom 10. September – Umfang und Überleitung |
+| [14_Zahlungsaufforderung.pdf](schriftverkehr-und-klage/14_Zahlungsaufforderung.pdf) | Stadt Würzburg gegen Grab & Grund Tiefbau GmbH – 4.236,40 EUR |
+| [15_Unternehmerbrief.pdf](schriftverkehr-und-klage/15_Unternehmerbrief.pdf) | Kanalschaden – Stellungnahme zur Zahlungsaufforderung |
+| [16_Klageentwurf.docx](schriftverkehr-und-klage/16_Klageentwurf.docx) | Klageentwurf Stadt Würzburg gegen Grab & Grund Tiefbau GmbH |
+
+Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher Sendungen. Die Word-Klage enthält Anträge, Sachverhalt, Beweisantritte, rechtliche Begründung und Anlagenverzeichnis. Für das selbstständige Erarbeiten eines Entwurfs zunächst nur den Grundbestand öffnen; für Prüfung und Verbesserung anschließend den zusätzlichen Klageentwurf hinzunehmen.
+
+<!-- END kommunaler-schriftverkehr -->
+
 <!-- decimal-anchor --> <a id="downloads"></a>
 
-## 1.6. Downloads
+## 1.7. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -91,7 +120,7 @@ AKHA bezeichnet das fachliche Bearbeitungsumfeld. Aus dem Ordnernamen folgen wed
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-abwasseranlage_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-abwasseranlage.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-abwasseranlage.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-abwasseranlage-einzelpdfs.zip) |
 
 Die Archive enthalten alle Arbeitsunterlagen unmittelbar auf der ZIP-Wurzelebene. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.

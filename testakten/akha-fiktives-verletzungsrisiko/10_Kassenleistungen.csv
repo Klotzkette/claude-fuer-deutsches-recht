@@ -1,0 +1,5 @@
+Vorgang;Person;Leistungstag;Buchungstag;Leistung;Betrag_EUR
+MQ-26-441;Pimpinella;14.09.2026;24.09.2026;Ambulanz A-260914-118;154,20
+MQ-26-442;Wolkenbein;14.09.2026;24.09.2026;Ambulanz A-260914-119;121,40
+MQ-26-442;Wolkenbein;14.09.2026;24.09.2026;Radiologie A-260914-119;97,00
+MQ-26-442;Wolkenbein;22.09.2026;29.09.2026;Hausarzt Verlaufskontrolle;30,60

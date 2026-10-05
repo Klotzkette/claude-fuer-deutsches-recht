@@ -1,0 +1,920 @@
+{
+  "status": "pass",
+  "checked_on": "2026-10-05",
+  "scope": "Zwölf Akten mit zusätzlich bestellten Klageentwürfen; gesonderter neuer Fall Verletzungsrisiko. Dokumentenprüfung, keine Modellvalidierung.",
+  "extended_cases": 12,
+  "new_case": "akha-fiktives-verletzungsrisiko",
+  "new_documents": 72,
+  "preserved_native_originals": 130,
+  "word_pages_visually_checked": 84,
+  "combined_pdf_pages": 364,
+  "individual_pdf_pages": 254,
+  "all_pdf_pages": 618,
+  "additional_case_pdf_pages": 46,
+  "integration_programs_passed": 20,
+  "source_files": [
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/01_Pruefauftrag.eml",
+      "sha256": "7480c8618e3e8082dfc78e2468d0163ec5a244a868c786a4c72fe79127730189"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/02_Schadenbericht.docx",
+      "sha256": "b1735d3e3f4c4000e78a0b2bfb640b66be43888c0d3de9dfeb345fc6afaeec1f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/03_Leitungsauskunft.docx",
+      "sha256": "d3d42e24d1f5002501d759148a47619514883dff187875a7f3ce79ef341e0844"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/04_Baggerfuehrer.eml",
+      "sha256": "d0c8d543d4de856543607b98e15054bebd2d1e4576a24f970815a8825310295a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/05_Reparaturrechnung.docx",
+      "sha256": "de32d507e594422f3cedd78f820b1b3062568abc77a49172fdd7a8489437ec68"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/06_Ueberleitung_Rechnung.docx",
+      "sha256": "67de778d9d17dbb5fe2022513b0f0411ba9e8d9ef5cd8ca2c52adae35cddb3c3"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/07_Kassenvermerk.docx",
+      "sha256": "17a2b5bd3a6098327a41b934699d2dff2f0e9d0938981efb3dd9b7ea30a856c3"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/08_Eigene_Stunden.docx",
+      "sha256": "02afa3064eb1c4732b67473f804d5259a861f8911abf32f0263f1fb4814d1e0a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/09_Unternehmerantwort.eml",
+      "sha256": "50b51c3b8208632f12cc0f5ce3bf43f41e413051f26f8788a9dc399d9941fd02"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/gesamt-pdf/akha-wuerzburg-abwasseranlage_gesamt.pdf",
+      "sha256": "9a817294169d011fefba0d36f6db2b3dbe64eff7a47db50ef4fceb7876f60a02"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/11_Polier_Suchschlitz.eml",
+      "sha256": "4e0927a13a014e23d2a603cbe4d488b79a3a5e02d2492d5a42cf46bffe83686f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/12_Umsatzsteuer.eml",
+      "sha256": "4a5356fc0312cdab2a72c7b10b87750383c722b1f82dd35cd28ef2e27c4dd63e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/13_Reparaturumfang.eml",
+      "sha256": "74fcf13724f2c5607271e43399c2a8412179298ad429e0708caaf5d968e6d6fc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/14_Zahlungsaufforderung.pdf",
+      "sha256": "27eb5a5031f2849666ee3d4c886398923573d2317837465344c6fc4b09152131"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/15_Unternehmerbrief.pdf",
+      "sha256": "afe365cb1a8e81958441ff85c9c086a761d7f8ed806fb7dbd5133c7839593261"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-abwasseranlage/schriftverkehr-und-klage/16_Klageentwurf.docx",
+      "sha256": "4435754ab7c10806c64a3e44a3b1e4c4b43ce8ad8ca626b86cb170cbc2d84a76"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/01_Pruefauftrag.eml",
+      "sha256": "f765192e68197ed48814ab26f0415ff6008d57d2a2f696b546b578411a5e4877"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/02_Antrag.docx",
+      "sha256": "74df2ddee92e73eb879deb79ec5a846c482732879ab9847228640767690ae57f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/03_Eingangsbestaetigung.eml",
+      "sha256": "c1a609ad222257877596838e8ee7ea458d8cd48dcc02154e5c7ca63ef8162d25"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/04_Registerauszug.docx",
+      "sha256": "15ede19713eb868877ea4d45b6f92cd8279abc67cc0f66ae8b70f7b4009eb0a5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/05_Falsche_Auskunft.eml",
+      "sha256": "3be5658707033465525666ae28d4b452353d097218616e776a65bc20b214d9dc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/06_Dringende_Nachfrage.eml",
+      "sha256": "775d975c459667e373cfba7b80d714c108e3a2776ac4ae6ff477b0f2cc58de20"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/07_Sachgebietsleitung.docx",
+      "sha256": "0ecc71b800a63334f6dffd5074b18e1293c26beea2bc64d46e92607c1b86ab73"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/08_Wagenmiete_Rechnung.docx",
+      "sha256": "1bc10426bd1927d6047cc731fa4c87b5474731f29ca297d2fd3467ce43b3c1ec"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/09_Vermieter.eml",
+      "sha256": "444606d9a22d175dc43a14f78f7c664702adf3eb5701a3a2729c69cb2e5d31ba"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/10_Forderung.eml",
+      "sha256": "b4898297357b3535cfae8681c51267a5ad8c0fb4075066c99f6db04d70ffe216"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/gesamt-pdf/akha-wuerzburg-antragsbearbeitung_gesamt.pdf",
+      "sha256": "4e9537b31db7caddba7328d0c8407180578b49b87cbcfae216971de3b3bb6ae3"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/11_Storno_Kulanz.eml",
+      "sha256": "650630fc435acea9a797ed286fc36da3c2f6a646de7b6f6be159a855d12451a6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/12_Telefonat_Praezisierung.eml",
+      "sha256": "fd9f7a04d5276ac63377d8f7301a9b424f39f8a4153f88b68822d881676db7e5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/13_Entscheidung_Klaeger.eml",
+      "sha256": "806546ed4fc6ed13b86b56805e5cc8a206c442745cc48fcc9e30a28037efba0a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/14_Reduzierte_Forderung.pdf",
+      "sha256": "bdd2938531113fd21d93a01199fc4a6d8eaf11c70064edc875f3b0693251d9dd"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/15_Antwort_Stadt.pdf",
+      "sha256": "4b7ebc162481eba8085291171bb20da512cfec0c6f5c5e7d0cb9a6b2a41b8b42"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-antragsbearbeitung/schriftverkehr-und-klage/16_Klageentwurf.docx",
+      "sha256": "32f5a967e6445ff7d5961d96cce67791d8eb9067da94fda2c88987b7b8076139"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/01_Pruefauftrag.eml",
+      "sha256": "baf5620425d4fbfddebadde5bf4d3881a357dd4370be9e8f5e56298620d34e76"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/02_Antragsbeschreibung.docx",
+      "sha256": "a5775175a17c71ceba902f7fed720672bef1be502b1a9c8f51382e13fcc0a7a2"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/03_Versagungsbescheid.docx",
+      "sha256": "12dba9254ea69ac101ccb609895fc59f7aa521d5b941a004cd95706f09ad2de7"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/04_Klage.eml",
+      "sha256": "3ca154562e5e9d5282420a357c50afff7b91cf49fd637e512b1de244eb3a8584"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/05_Bearbeitungsvermerk.docx",
+      "sha256": "7896b1d2ab9b8ef62ff387b096c8c8c6a9fdc60dd174ffe3e41ee3ac50568433"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/06_Abhilfe_Genehmigung.docx",
+      "sha256": "89a3eebf7f689e4336d67da37da563a6fce6cf4b8123e936e554537b73f892a5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/07_Mietvertrag.docx",
+      "sha256": "4a5d15494b874a98cd875a1b60c003f4266eca487c0406f7d1851f972a1eee9c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/08_Bankabrechnung.docx",
+      "sha256": "ad0669992cdb8b44bd35807038ada20665f8ebee966019d8e63e72ed87bf0a4f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/09_Zahlungsnachweis.docx",
+      "sha256": "814c57e0b40a05c15db3d688ec8c8f4b891c32685e5cf8bc05ae888b2fd23ab6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/10_Forderung.eml",
+      "sha256": "3a7409e76ff5358c99ac71dc30b9e1872bb6f83ef991ef89f67f2d2e750dbe45"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/gesamt-pdf/akha-wuerzburg-baugenehmigung_gesamt.pdf",
+      "sha256": "3b13f3ba1192aed38439874aa03258a0918461e7987b192528260fda29240a24"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/11_Kundenauftrag.eml",
+      "sha256": "e86e70a99ff8e3b8b7c356b075a8accb41b1e59a27a30d858723df77ad73615a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/12_Ausbaukapazitaet.eml",
+      "sha256": "b964a3e0db002eb1d827893279212079ad029d175d1d9a720c4f1a3bc3276e5e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/13_Finanzierungsvergleich.eml",
+      "sha256": "d75623e223dcf13d2265b62b8efbb9a18ce857dc560537b65728001a1c55b0bb"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/14_Neuberechnung.pdf",
+      "sha256": "df6674033aef941ef0e7cd5ff8046bc91a7e52c6c060e889132f1b22648033b8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/15_Antwort_Stadt.pdf",
+      "sha256": "868e7aad8695327dd71d7cbd3085c54ee77230775570e2cce35767381e1c03cf"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baugenehmigung/schriftverkehr-und-klage/16_Klageentwurf.docx",
+      "sha256": "34c88654fca71fdfe874121e01fc7faeefe2f6e382162ee0b3d27ccb06d1ee50"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/01_Pruefauftrag.eml",
+      "sha256": "cff65a8cdaf1ff26be6b6c04bd1c74677dad9bc1c95f5be2573d44d94eb18ae0"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/02_Arbeitsauftrag.docx",
+      "sha256": "f00633fcfa119d88f6ea9c3f1be456b48f6ad86efd40097aa6a54baa471ed9e4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/03_Absperrvermerk.docx",
+      "sha256": "afc126e0df5fc759610957dbc5730bc4cc85211f5c01a79f3357e7d199519fc6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/04_Ereignisbericht.docx",
+      "sha256": "fe0579c8a2921d472a42dd7b05ddf38d302061429c528aae9ac06d88c64f2540"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/05_Zeugin.eml",
+      "sha256": "07e605a00f8f3ba8ccdabf9464ec01a4322f9071625e72a63a1800393a215f41"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/06_Reparaturrechnung.docx",
+      "sha256": "7584bc9ddf4772bc099df853f82194b7a45704dd395bc1812eba04b00602e52f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/07_Mietwagenrechnung.docx",
+      "sha256": "b88cd32f046c19fa5c9f4231d1144ed39c951d55a31452cca4d3ef94dc16160f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/08_Forderung.eml",
+      "sha256": "51895060a56603f756cc4adfc223e9efb7886013a634402d4075987cc7982094"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/09_Unternehmen_Stellungnahme.eml",
+      "sha256": "525e65dff6d8c690b05c7823cf19d959d87956e1ea9e1798bc50079a0e1cd229"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/10_Risiko_und_Unterlagen.eml",
+      "sha256": "67b2b57f8d28a8f803985e00d3e5e6e81a108e983170db786796c2f3e689305e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/gesamt-pdf/akha-wuerzburg-baumpflege_gesamt.pdf",
+      "sha256": "5a8feb58654c25491a59c2e4e1311d791bd28896bc9fef047f2690cc59365e4f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/01_Mandantenmail.eml",
+      "sha256": "e69fe34c53bc4cd318b1d1fd6ac6c0bc84c8d10cd4fd0c6287b609ab34d18c92"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/02_Ergaenzende_Auskunft.eml",
+      "sha256": "deb6f662117d29a44798b8e20dac200edbc1d936405eb4d687f47e753f0c8091"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/03_Begleitmail.eml",
+      "sha256": "8f4f1bd4e722cb51f85c184e26e1d100aaf2b3ec088584e4f28af4bd0ec4fc30"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/04_Anspruchsschreiben.pdf",
+      "sha256": "4e8c088dc81613902d85230fd9bad1a003f01b5b7ba954dfdff4a54bcb5e2ca1"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/05_Antwort.pdf",
+      "sha256": "d6a03c2774b9ab3d15305232da757e9994230e568c9b459e3bad99dbd7137ced"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-baumpflege/schriftverkehr-und-klage/06_Klageentwurf.docx",
+      "sha256": "4a218814217faee3cf2822e189195bdd5ea2b314a740a4f24d8a040720afcb54"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/01_Pruefauftrag.eml",
+      "sha256": "999dcc971a6e2b3e654a0fc201527791c58cb5d460fb2de357b4530e8ce6299e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/02_Unfallmeldung.docx",
+      "sha256": "8053c391f6209a867ef7d340a626bcf827018c145fd71d0496928baeb58eb534"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/03_Zeugin_Samira.docx",
+      "sha256": "a8ba12ad40a47f9a77891213b7d663eff423127c5952a498b8001cca7ee741ac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/04_Bau_Angebot.docx",
+      "sha256": "9107556b586882ebdaaa027489e4b3f8787abaf8f05c30e53ba56dd680e49a52"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/05_Geraete_Aufstellung.docx",
+      "sha256": "4d476c42baa520f9ab79e3ea7459888a5c1ec5a5446f4baccf2aff43e4cf2309"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/06_Werkstattauftrag.docx",
+      "sha256": "dbfc1c3a9d5bdb0af565327676be5caa47069c3b54a90c01e0f3882a31ebb124"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/07_Gebaeudeeigentuemerin.eml",
+      "sha256": "412896b763be4fdaa8c18bd90e97b88078ee31c5705607d7d249e26c61a38b04"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/08_Geraeteeigentuemerin.eml",
+      "sha256": "e8f54ae80f363721c9dc31b200c95de3fc3e3c13dc50649dfdb88001d4bdb578"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/09_Nachbarbetrieb.eml",
+      "sha256": "8b42f2d5c6b029c0af9f223a034f64e910626e32b784bb19cf0e3a173d42e764"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/10_Vertragsunterlagen.eml",
+      "sha256": "6d561fc5deee03271d8801ac10041f8ad09d56986cd981e79dd79296abcefd40"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/11_Fuhrparkchat.txt",
+      "sha256": "a9f5d7b3da2b4bd3bc18c0c596b4abff5acdc7e56e34881bf803821e1d115034"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/12_Forderungsuebersicht.xlsx",
+      "sha256": "88e1cbf8cfc88ede3502b351cf07180528a8696715d8e7bfb9e88de410c91a72"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/gesamt-pdf/akha-wuerzburg-betriebsfahrzeug_gesamt.pdf",
+      "sha256": "56a7ac7efe8496e2c8ae894729aa78e1b7efe30fb550a0518fabd4f45d6fb179"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/01_Bauangebot_Erlaeuterung.eml",
+      "sha256": "d837a49bd23746eaffff91d6c381083de4be56bfbebe67535d00162645c607c9"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/02_Auftrag_und_Rollen.eml",
+      "sha256": "6ac1de54439e3f9bc5a18442b7f78ec6fa373c6167f6d5e9f69b3161b41baae6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/03_Zeugin_Bestaetigung.eml",
+      "sha256": "5bca9c6b9c5bded2c1a564cbe859b8e2aeb36fdf062f9994a032b77f9f88050b"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/04_Forderung_Hofbogen.pdf",
+      "sha256": "e573f105d3036365f174bbb82d07e51e953418e3eae7b9c49c297fd72aef5c25"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/05_Antwort_Stadtbetriebe.pdf",
+      "sha256": "5f897345e99e3f0c5579ddbef55f5f3ca318152767f0ea93ad00cbe3ec610613"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-betriebsfahrzeug/schriftverkehr-und-klage/06_Klageentwurf_Hofbogen.docx",
+      "sha256": "7e1fa6fb0e94e6da52358e356ea65adaece684e36ce13f950167ec214eed4277"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/01_Pruefauftrag.eml",
+      "sha256": "138e7606526ede11950cc27cdd8860e2ed7ecd03eb6586afea4f7806b929d42e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/02_Fahrerbericht.docx",
+      "sha256": "37ab594f2bb88b676ad2fcc22d1d269b4752cae6481e097201242787c6425177"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/03_Fahrzeug_und_Einsatz.docx",
+      "sha256": "b6f60a727f547a1696385b480c5f1f29cdd5663ab43f894a7f60638f12a48794"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/04_Zeugin.eml",
+      "sha256": "0f44cfa7c01fb1054640e678e820cf3b2b7ada327e31cc9ceb3857f5f69a5114"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/05_Reparaturrechnung.docx",
+      "sha256": "a4b46ae175a88594a0935abcdb66a6f20a0131ce2d4dc0fd76cc69a148ff1bee"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/06_Taxibelege.docx",
+      "sha256": "c056f5c5d2910391aa0696a2ed1bdaef4f120c1cf0bbd9198a0dd638fb45f705"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/07_Forderung.eml",
+      "sha256": "9dad81f520166507db259273181af92a6a4eaa865750434fcda03a5d7175d5ad"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/08_Fuhrpark_Deckungsunterlagen.eml",
+      "sha256": "0e0c6f58c719f28c637f8d85c5dadc72d483f80101d611a74cf4904a6e500917"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/09_Werkstatt_Rueckfrage.eml",
+      "sha256": "300d89af1e05bbf0492b03cc6ae2ba7964a26fe2891d536985aeb27b0fb69b2d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/gesamt-pdf/akha-wuerzburg-fahrzeugschaden_gesamt.pdf",
+      "sha256": "bd853c98ff77fa0f0c54d9c17f15b41238857d6bca33c8a014be98c71049cb04"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/01_Mandantenmail.eml",
+      "sha256": "ab684a438d9136e234f8df85d2d05d53b7ffbde33b2de935d81b2f00becbe8c8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/02_Ergaenzende_Auskunft.eml",
+      "sha256": "55c75cb3a93cf9dae6e89824dc60262a9ca587c94a53c8ad27e60325d2e58f7c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/03_Begleitmail.eml",
+      "sha256": "c47ed082e7b689f54fe9ae405e444ed16b8732e6b0db51f31cc0b89685447204"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/04_Anspruchsschreiben.pdf",
+      "sha256": "96c098774bc77932fd682acdb0a7bddc2b39c1753256c6b16ab5f9a42e9e60ca"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/05_Antwort.pdf",
+      "sha256": "09b3dc8431d2852c7a4e3e6dc92210d9610ebe13c6c8bf0465f959fcf5a91858"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-fahrzeugschaden/schriftverkehr-und-klage/06_Klageentwurf.docx",
+      "sha256": "24ab9c118f8a943b4a099cd9b47100e04ab4d446a6592b52c89a917cb6222eb7"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/01_Pruefauftrag.eml",
+      "sha256": "2f8ade3ae10edcbc506c27f56ce015336bfce0cee42d2600e18cdafcb35e3a85"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/02_Gesellschafterbestaetigung.docx",
+      "sha256": "404c47d2fb8c4ce314bdee8ac9f7147fb6e2b759cc2a768f37f1e54c09b96ecc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/03_Geburtsdokumentation.docx",
+      "sha256": "ef108da000cb21cf498fdb7ba3a263e802ed65f58a07c6f518fa06b90e22072c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/04_Gutachten_Geburtshilfe.docx",
+      "sha256": "b129eb559d072385924093ebd29d0205ad0856aeb7c9521c104b70187119f156"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/05_Haftungsanerkenntnis.docx",
+      "sha256": "8bf39c67347b06537ce83afe34ddb33bed68ab622e3e6484f3ccdac07eb59cad"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/06_Eltern_Pflegealltag.eml",
+      "sha256": "e893530908e38465c6d88560f8b1826a7d74c3045bcb38e27380f7e63f03d66d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/07_Pflegebericht.docx",
+      "sha256": "ec611606aa012187c1acb7ad746d76ec5c3488864f2b2397c34a32731bdb684d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/08_Assistenzangebot.docx",
+      "sha256": "8a928846ab3470e05af4026356ca20a20c6fe5e71d0445e491d2bef076f4198a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/09_Erwerbsgrundlagen.docx",
+      "sha256": "6f7a20d57d22fb40977de7544784b5725ca7e7419cbeef2533af709e160335c8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/10_Deckungsbestaetigung.docx",
+      "sha256": "1dffff139c783e531d43db6c64c6bfe212696983d68a91842e0784b7f28dae09"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/11_Teilvergleich.docx",
+      "sha256": "e8063627405254c604cd94b78b2f804983f5a492b6bcc24b5b96335046068c2a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/12_Zahlung_und_Schichten.xlsx",
+      "sha256": "4f148f75f2ca0b327202a58d75655199b34cdcfc6194e4c51de7b6840f66c084"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/13_Zahlungseingang.eml",
+      "sha256": "a81bd2bfe8a840dc9bb7b9cf30e982262e6f47991dcb25f0a1ef9f32d5675078"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/14_Interne_Modellvereinbarung.docx",
+      "sha256": "e2ba22fb15091a980df9b239259cf7fea01cb0ef8f4b3dd2b13223c78119e5a8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/15_Abrechnung_Rueckdeckung.eml",
+      "sha256": "fdfee4b3dd71bee9f373716f1413cdc8bdcde0c2e5ee1213b89f6662f7d5e074"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/16_Reservevermerk.docx",
+      "sha256": "e48c389f4d034d7ed618d0bb7cb87d644ca4a6caeb2520184e2d68058ed4f663"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/17_Wohnanpassung.docx",
+      "sha256": "c6827f4f30755fd0b1a50b09122983ad99433eaaa14407bd3c4e418b5f4b4764"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/18_Kassenabgleich.eml",
+      "sha256": "11b3cfaab5dd9cc5641f5a4cf955d7bb402e78ec43835fa1958dc0e2b35d0e53"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/gesamt-pdf/akha-wuerzburg-geburtsschaden_gesamt.pdf",
+      "sha256": "79a3b4c1b56f90b7825ebb9bb6d3008fc81ca9276a29341ad8329da6ea343a85"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/01_Eltern_Umbaukosten.eml",
+      "sha256": "a137c677ed656d3e70bd4445d9e0a57fa9741eb0c56140f31a70cb82771a5591"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/02_Klinik_Zwischenstand.eml",
+      "sha256": "ba8bde6287f0c0185b63045f23fc36c38387488a5821646f430596b5b072811b"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/03_Archivstatus_05Oktober.eml",
+      "sha256": "96211c2ecf574ad00de4d4a3b61fc0506e3cbe0a61b1820fc743779d14aadb64"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/04_Forderung_vor_Vergleich.pdf",
+      "sha256": "42f89e93ca755f882422909fd0bd77059ce2b6474ee3cf0823b0c7fdc4d329bd"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/05_Antwort_vor_Vergleich.pdf",
+      "sha256": "472126fb7a8a22f53e12b9500d7f75397dd10b08bb03bd0ff3d58af5ad551871"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-geburtsschaden/schriftverkehr-und-klage/06_Historischer_Klagevorentwurf_Winter.docx",
+      "sha256": "02cf9962fe64e0127418cf15061290f39f07e7a2c621bf2dd29465e57053147d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/01_Pruefauftrag.eml",
+      "sha256": "72c2f2f240a421553a123a233581a4f51c35be9447db15e056fdef6f00915550"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/02_Sturzbericht.docx",
+      "sha256": "cd91a71fc21f2bc65ed86c641de7b259c96fce0d34bc2fb8155c93a81f5074d5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/03_Streuplan.docx",
+      "sha256": "d56ad5a48be9acb9fed399177fc1f2c50da5646bc613299a01c6c18ecf0bf540"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/04_Einsatzprotokoll.docx",
+      "sha256": "eb651518073de726ce279144a88d3ec8db4554713fcac6811f6f23d4425c42de"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/05_Wetterbeobachtung.docx",
+      "sha256": "696111aee1163eda6eaab68652683823f24ed296eb8ee65c8bcf6087c0563d1c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/06_Zeugin.eml",
+      "sha256": "a6d72e42b1d105b3c8fdbebae41c6c3e6b7137830715aba41e4395d22039bc1d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/07_Befund.docx",
+      "sha256": "a41797cb5382072316289f5e824db511fd220f1372b691ef91b24536618f3920"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/08_Haushaltshilfe_Rechnung.docx",
+      "sha256": "6cd347d82026e533926db06798fe84eef698a03863f73f1cf8f14aedee25ecce"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/09_Forderung.eml",
+      "sha256": "19742a710be94599e5b9d6b7b8456e1872ad8cb94c5e665aa27439670cb3a158"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/gesamt-pdf/akha-wuerzburg-glatteis_gesamt.pdf",
+      "sha256": "0cc0038c6cdd83c529634229f9bb08fd5650e94be0d0a0b0b374c9f609f55666"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/11_Zeugin_Ergaenzung.eml",
+      "sha256": "62ea3f55313ba8f332acf8bc7e3d130acfe6bd5ef8016b7cff94eb25d04a90f6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/12_Disposition_Ergaenzung.eml",
+      "sha256": "9784697b12bdfde92f8fbd64c1ab1d00e88a94f07aaf9c7963865131e8a9cf59"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/13_Haushalt_und_Verheilung.eml",
+      "sha256": "29dfea0c31075a6be5cb70527349af3af3d8c1eb9cedc01fe09d5978ef8e429f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/14_Anspruchsschreiben.pdf",
+      "sha256": "c8d278f6041b48d235e9f981e0ae5947aafa8845803554b977ff2468978c1624"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/15_Antwort_Stadt.pdf",
+      "sha256": "92a7b920da4f14078d5d21db2dc758a0308aba2a03c8d6d27f071f4c37d0e217"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-glatteis/schriftverkehr-und-klage/16_Klageentwurf.docx",
+      "sha256": "ad0d9823220b3fdd4cfd8e41b559b7f5a098bf3c052a5898a01662960da0954a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/01_Pruefauftrag.eml",
+      "sha256": "fecfb2900f034468bca7372a7956b3acd6d0a1a27681218c229c7c20f977719e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/02_Schadenmeldung.docx",
+      "sha256": "6df0f617bb07fa7956263a5014ba756d7ab2150e161d4b416b262c4a4f563f2a"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/03_Einsatzbericht.docx",
+      "sha256": "b28ba7bd5a568be45371f0d02f7c12f552592500d025696fac0ad40bb58250ef"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/04_Trocknung_Rechnung.docx",
+      "sha256": "49e48a41c505f94ba4391d021557a6d738c9d3dee22300e60291636ff4f4e5e0"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/05_Muehlen_Bestandsliste.docx",
+      "sha256": "6f18d978df7377e4799e859fed0cbcfad4dbce28cf685511f9b5c551fe1306f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/06_Elektro_Angebot.docx",
+      "sha256": "8cda7664dd9a3b4862d9097eb6aea77c281a7872a15fe8acaf1b17223141652c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/07_Kostenuebersendung.eml",
+      "sha256": "2a65bb238124bacd712fd8ee7164defc6c302536b3f0b6430a2abad72008a9c6"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/08_Vermieterin.eml",
+      "sha256": "13f5e0d53353f7f92cb19a93ff8311d5654d2c86e5790f08af3814060dc97aac"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/09_Vertragsanfrage.eml",
+      "sha256": "972a0a56c8b654d6271998dd7b74a69cb30251a27b29a0c909418274c155f0f8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/10_Umsatz_Rueckfrage.eml",
+      "sha256": "5cdf4bef4694486a760e657ca1dd9eba324f8528db68ae45c6166ab4d36116fc"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/11_Stoerungslog.txt",
+      "sha256": "c919fbdc494b670bd6cb55dc1fc4120601ab5f0a79baf6df14cd9f69c0d2caa5"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/12_Kostenliste.xlsx",
+      "sha256": "ace2deac0013ba323d406a82a8c42a208220a97595773a974d8c2bf5b7782692"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf",
+      "sha256": "112a08695e25942073218c8901f186e6b6cb9edadedf99342f53fe686ae1616d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/01_Trocknungsumfang.eml",
+      "sha256": "6f64f17a681ac1c4c72eb1b4e408a44d830a10b8967114724c5fedc332e94293"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/02_Begrenzte_Abtretung.eml",
+      "sha256": "cb10b1d86a35153ae343b36f31917b70036f6e567ec500cfd482f5a96641dcb4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/03_Annahme_und_Mandat.eml",
+      "sha256": "c1a00c03be941aedac490e546d1739879d753ac4458929f3940ebbd45598ab0c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/04_Teilforderung_Zimt.pdf",
+      "sha256": "e9f4c574fcaf367653cc6e958e24a8935393e2113b265093f55354e24e98daad"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/05_Antwort_Versorgung.pdf",
+      "sha256": "2911ce97881e2a7b66793a7430a7e7470103273b2ad4f40c4996cd07f94a00cf"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-rohrbruch/schriftverkehr-und-klage/06_Teilklageentwurf_Zimt.docx",
+      "sha256": "f74f83a1ed64823e64dd9248a65eba91c85c1545925e07ada4c52a04eec52c19"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/01_Pruefauftrag.eml",
+      "sha256": "44bb9724f261bd03ca31ecdb207d21c7a444901c7d06cdbb7de825dfcd3a81e4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/02_Schadenmeldung.docx",
+      "sha256": "51552feaa4507f1d28dcb0036c0b5336be5e23a44dae917acda3ff60b4fc7b26"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/03_Strasse_und_Kontrollen.docx",
+      "sha256": "0ffd888c5b4515870843d8628cf8e6f648bef8658190f27599ec674938e5f223"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/04_Meldung_und_Reparatur.docx",
+      "sha256": "2e5ad4a589bd8f8c50fb71d2986b3f64075f32a23c748995bffa35cf869be6d8"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/05_Werkstattbefund.docx",
+      "sha256": "5933fc93b414f866a147b2ae3bdf95430ba20f09fb67304b6d2266a9feefd20e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/06_Reparaturrechnung.docx",
+      "sha256": "872b9ed1595befe5f3ad68db7d9137264c5673a9d0e980c6522c5190c8155418"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/07_Abschlepprechnung.docx",
+      "sha256": "ce8361ad927e1ef7a8676bd54458281a7feb149720e0dd65e2c0343dcc7cd1f4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/08_Forderung.eml",
+      "sha256": "5dc8ff3d76994aee427d2d2a38efa574f805dea9ad7c0b84f5b213f6fbd84fb4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/09_Service_und_Deckung.eml",
+      "sha256": "aae643982e5b49923e5d396a22b896b1f5a00ea1c7dc9ab1c25ac0864932fa80"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/gesamt-pdf/akha-wuerzburg-schlagloch_gesamt.pdf",
+      "sha256": "4a772a163111bd394b60c3d202a8e30a1b3c186dcd96abeb2b057b0fcec727a7"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/01_Mandantenmail.eml",
+      "sha256": "f21de0cce90e8ba7069b56b72e07ad1bc5788eba795a5726580bdbd2fd16f8e4"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/02_Ergaenzende_Auskunft.eml",
+      "sha256": "857ffdb442ae48d1412526473dbe3ee48de63373936c99c4e9b075e11678a49d"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/03_Begleitmail.eml",
+      "sha256": "0deb57ff45d4dd26bad7ab7a54e64fdb667881e660241a3ae1068d2bc75b111c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/04_Anspruchsschreiben.pdf",
+      "sha256": "270be61245ba65a6d5fd010bb79d93ebaeeb8bc0e173999d651676f2f9d95802"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/05_Antwort.pdf",
+      "sha256": "d1fc523417f30d3244dc326f969601a6340fd51dc3e1c3390f0cdf8a74d9a6b2"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schlagloch/schriftverkehr-und-klage/06_Klageentwurf.docx",
+      "sha256": "d3f4f865df27b1b0f640a9d4bb7905cdb89b139ced1f70cc2340716907c08f2e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/01_Pruefauftrag.eml",
+      "sha256": "925ce34763a467cc5b31bc39919a25f2db6f288931a58aeb3e9f3b2b20c758a0"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/02_Benutzungsordnung_und_Eintritt.docx",
+      "sha256": "4ca0cdb452559e769f708d7e852dd8e049997423a6a84a095c89935917247b38"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/03_Unfallmeldung.docx",
+      "sha256": "eefe730ecee460b4af6bbec2362038716983496f729fc05d8cb6601a72b2d77f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/04_Kontrollbuch.docx",
+      "sha256": "69173ae5029c3c2d8d5a257b112648361d9479bf979bd34168863e978db1b0d1"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/05_Behandlungsbericht.docx",
+      "sha256": "04492396f3ab6c8e6831026d4d81775c9ec840912722298a1ffe3c569e14e933"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/06_Auslagenbelege.docx",
+      "sha256": "e4fbf7e546ca638b1fd6770ef77b532ec5898529320e85b1d8286146c0053564"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/07_Forderung.eml",
+      "sha256": "10e076b82ad8bcc4f79b1dff7302e4880dc997ec6d5e4ebc2b49e0fea5da22a2"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/08_Zeugin_Nwosu.eml",
+      "sha256": "31c74f8d500d91da74e0443825846801d710d7fe760939ea32a0f216a57ed21e"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/09_Technik_Rueckmeldung.eml",
+      "sha256": "2c8a153d28b966721906125fca8d650b0443b2e96d3cc65b3d7f7298c029a3ed"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/10_Vertragsstand.eml",
+      "sha256": "ddffa300e8ad1adeaeeb96aacec5d65c797c37af2873cb39869d93c816d3a8dd"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/gesamt-pdf/akha-wuerzburg-schwimmbad_gesamt.pdf",
+      "sha256": "2d870631db101b27a9fd90345151a9bb982b7681350ab6d0f2fa18dd182bab78"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/01_Mandantenmail.eml",
+      "sha256": "191212bf63126512005d639d985dc3c5f0e614683a4ba823f692009f40523a59"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/02_Ergaenzende_Auskunft.eml",
+      "sha256": "458b864b620deaf8915b087f0eb58a25adfa039dbc8b19afe4a010fd6493570f"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/03_Begleitmail.eml",
+      "sha256": "e630bcb81c682b97a8ce6153c6522b50ce8946e00c3c3d03cbea0c0972e49556"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/04_Anspruchsschreiben.pdf",
+      "sha256": "959c84e37d9c9f67f6a7817767171a0d42695223f954e3392fba67e25775068c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/05_Antwort.pdf",
+      "sha256": "371d32d3045918f37f254460e9d8c292c17ed4553c2cbdb8eace76d2ad77839c"
+    },
+    {
+      "path": "testakten/akha-wuerzburg-schwimmbad/schriftverkehr-und-klage/06_Klageentwurf.docx",
+      "sha256": "6c206b0df4aa99a8e29ef73acb70d954b8bcfca8c8415a5ecdc99cb72962fd00"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/01_Pruefauftrag.eml",
+      "sha256": "f0fc50086179b50f0dceb46b9f418bf49f3bc5d79259a49fdcd92a7237087239"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/02_Ereignismeldung.docx",
+      "sha256": "78496bb25e1454488e8e502c6363d24a446c71e4e3ecf5f4209b72c97e7acd7a"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/03_Behandlungsbericht.docx",
+      "sha256": "d267e802cecb7742420537bc581d85ea7be5c5e7f8340e83beacda63f1a4e58b"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/04_Reinigungskontrolle.docx",
+      "sha256": "351f604c724b73aa27685918284da2e00513ca0aff5e498f37c53b696905ede1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/05_Haushaltshilfe_Rechnung.docx",
+      "sha256": "538e3d87aa595dcbb3a61c53330d428d86d0977442349dc21a8d36aa9d58bd90"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/06_Jacke_Kaufbeleg.docx",
+      "sha256": "f45ac2e3780b9fa238b03142de1ad449264a3ae7e1194247760bbf0724688164"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/07_Forderung_Kuemmel.eml",
+      "sha256": "d99d6d4b93471d7a260e174ef4180717e726f3921a95dda960cfc11b2215d95e"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/08_Zeugin_Lina.eml",
+      "sha256": "8704704a9ee700dc7343fede2c935d0d460b6db6de9837582e484e4ebea04a39"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/09_Reinigung_Rueckfrage.eml",
+      "sha256": "50e8797a52ac05f8ea28942900ad039e5d33a429457e9cccef7c0a87c50673f1"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/10_Vertragsunterlagen.eml",
+      "sha256": "74935178b9c8ee5affc37ec5f8cfa0f91a73d184ae4ca9a7175031a76d68c426"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/11_Teamchat.txt",
+      "sha256": "f192332f265033da6cc201fbe3da82f20ad29a8a0e8ff2c932f7196f844f88aa"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/12_Alltag_Kuemmel.docx",
+      "sha256": "afc7b68718f963de0984e4856aa3c96f5d2f0a21494988b780e230553f192d66"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf",
+      "sha256": "8f903e2e9d8d10b368249ebae3ec367d75f9443e6696a48ac36a9d6114a9ea78"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/01_Zeuge_Mansour.eml",
+      "sha256": "c19ad6467a4a8cbd323a4525e939b6619b1c08a684e757aaff5068ba92fa9f92"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/02_Mandantin_Ergaenzung.eml",
+      "sha256": "e0161eeec13fea403c3044c76ee664e375bdcc2efabf01249a1503b8740db22e"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/03_Anwaltliche_Uebermittlung.eml",
+      "sha256": "e7055413ec5831c9e55ee0704387d9b3f2a5e559687489ae78096c29005aae06"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/04_Anspruchsschreiben_Kuemmel.pdf",
+      "sha256": "1c66909de4340b623ecd64fa87516d1554be2eac4338a688f06959219784812b"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/05_Antwort_Stadt.pdf",
+      "sha256": "e39560b60f7123a36b7d8135e8a97e19c589e2a2cd9a5240d085953178a9f11b"
+    },
+    {
+      "path": "testakten/kommunale-haftpflicht-personenschaden/schriftverkehr-und-klage/06_Klageentwurf_Kuemmel.docx",
+      "sha256": "adb7469aba05e86dfb548c512b65f0481e18fd4138d3b984157a9bee53d99059"
+    }
+  ],
+  "imported_commit": "fd0c5cc5509a8faf6d1dae0ecb74f6b1a85f0d8e",
+  "visual_evidence": [
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/word-visual-verkehr.json",
+      "sha256": "2c6ab4588a0ab56f9f8bacff66fb3fc6c051ea085c341af71f2920d6684383ac"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/pdf-visual-verkehr.json",
+      "sha256": "73aa1e594cab1d005e95164542315e6325334e0d869cafcd5eb70db96fe14c04"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/word-visual-amt.json",
+      "sha256": "84c5944da06cee4f80cc3899819168dcb22036085cc3855a68ed5847f645f2cc"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/pdf-visual-amt.json",
+      "sha256": "91465ad93fcaf8c0c3e78d91d266d48df94996fadded70927a4d82e1becb2d3f"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/word-visual-stamm.json",
+      "sha256": "72c70da010f55dd3c887b271877cffb341d68c598f7717c8f0b2551c3bd76fc0"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/pdf-visual-stamm.json",
+      "sha256": "12b1bdc1e7886694bd237eb7675538f1368fe8bb73453db2a25a6fd36dca59db"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/verletzungsrisiko-fullsize-review.json",
+      "sha256": "594a7655496ba3120e3ac31f369e9c48676bfa5801bb50ae1fcba89eb5c8603f"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/verletzungsrisiko-source-freeze.json",
+      "sha256": "3f41fedd2145a043214caf9fe1785c3a24bad9ccb15039ba384c9cf7b6aa8aef"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/verletzungsrisiko-render-inventory.json",
+      "sha256": "9287973520a6aa3ef203f26ec572b67b4346448afa7a5533f6444e56c9efcb5a"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/imported-case-commit.json",
+      "sha256": "f053e535501e07a41e367195a3a569871cbd2267a0a8eea7d03f3c6e52d3703a"
+    },
+    {
+      "path": "/tmp/kommunale-schriftverkehr-20261005/evidence/integration-tests.json",
+      "sha256": "3914e81029f60ebca595ec4fce1c4bfceb69d7f0dd4583041534cbe3027a0bf8"
+    }
+  ]
+}

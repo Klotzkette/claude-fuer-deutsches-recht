@@ -1,6 +1,6 @@
 {
   "name": "grundbuchamt-assistent",
-  "version": "445.31.2",
+  "version": "445.31.3",
   "description": "Grundbuchvorgänge von Einsicht und Urkundennachweis über Erbberichtigung, Rang und Briefaufgebot bis zur Zwischenverfügung und zum dokumentierten Vollzug. Zehn Fachskills und ein Hauptproblem-Skill mit klaren Notar- und Zugriffsgrenzen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

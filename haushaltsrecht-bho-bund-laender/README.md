@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Haushaltsakte Bund/Land](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/README.md) | [Gesamt-PDF](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip) |
+| [Haushaltsakte Bund/Land](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/README.md) | [Gesamt-PDF](../testakten/haushaltsrecht-bho-szenario-buergergeld-verteidigung/gesamt-pdf/haushaltsrecht-bho-szenario-buergergeld-verteidigung_gesamt.pdf) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung.zip) | [`testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-haushaltsrecht-bho-szenario-buergergeld-verteidigung-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

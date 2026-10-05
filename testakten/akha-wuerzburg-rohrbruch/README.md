@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-rohrbruch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-rohrbruch.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-rohrbruch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-rohrbruch.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -44,13 +44,13 @@ Für eine kurze Vorführung von etwa zehn bis fünfzehn Minuten im allgemeinen V
 
 ## 1.3. Umfang und Herkunft
 
-Zwölf native Originalunterlagen. Word-Dokumente bleiben bearbeitbar; E-Mails enthalten die bezeichneten Anlagen tatsächlich als MIME-Dateien. Eine eingebettete Anlage und ihre gleichnamige Originaldatei sind derselbe Beleg und werden nicht doppelt als Schaden oder Beweis gezählt. Tabellen enthalten angemeldete Beträge und Rechenwege; sie ersetzen keine Prüfung des Anspruchs.
+Grundbestand: zwölf native Originalunterlagen. Word-Dokumente bleiben bearbeitbar; E-Mails enthalten die bezeichneten Anlagen tatsächlich als MIME-Dateien. Eine eingebettete Anlage und ihre gleichnamige Originaldatei sind derselbe Beleg und werden nicht doppelt als Schaden oder Beweis gezählt. Tabellen enthalten angemeldete Beträge und Rechenwege; sie ersetzen keine Prüfung des Anspruchs.
 
-Das Gesamt-PDF umfasst 18 Seiten. Das Einzel-PDF-ZIP enthält zwölf Unterlagen mit zusammen zwölf Seiten.
+Das Gesamt-PDF umfasst 30 Seiten. Die vollständigen Exportbestände einschließlich Ergänzung werden unten ausgewiesen.
 
 <!-- reserved-example-contacts -->
 
-Alle Personen, Institutionen, Unternehmen, Straßenanschriften und Vorgänge sind fiktiv. Die Ortsangabe Würzburg in den beiden dort angesiedelten Akten bezeichnet allein den realen Schauplatz. Keine tatsächliche Stadtverwaltung, kein realer Versorger und kein echter kommunaler Betrieb wird als Verursacher bezeichnet. Kontaktadressen mit `.example` sind nicht zustellbar. Die Aktenstücke enthalten keine Musterlösung.
+Alle Personen, Institutionen, Unternehmen, Straßenanschriften und Vorgänge sind fiktiv. Die Ortsangabe Würzburg in den beiden dort angesiedelten Akten bezeichnet allein den realen Schauplatz. Keine tatsächliche Stadtverwaltung, kein realer Versorger und kein echter kommunaler Betrieb wird als Verursacher bezeichnet. Kontaktadressen mit `.example` sind nicht zustellbar. Der Grundbestand bleibt ohne Musterlösung. Der zusätzlich bestellte Klageentwurf ist ein gesondertes Arbeitsstück.
 
 Die Bezeichnung AKHA in den zwei Würzburger Akten ordnet die Übung einem Bearbeitungsumfeld zu. Die fiktiven Ablagevermerke sind keine Aussage über eine tatsächliche Mitgliedschaft, Zuständigkeit oder Deckung. Es werden keine echten AKHA-Bedingungen und keine Rückdeckungsverträge nachgebildet. Haftung, Deckung beziehungsweise Schadenausgleich und Rückdeckung sind anhand der jeweils fehlenden Vertragsunterlagen getrennt zu bearbeiten. Die Kostenübersichten verwenden keine erfundenen Deckungsquoten oder Rückdeckungsgrenzen.
 
@@ -71,6 +71,33 @@ Die Bezeichnung AKHA in den zwei Würzburger Akten ordnet die Übung einem Bearb
 | [11_Stoerungslog.txt](11_Stoerungslog.txt) | Störungsannahme Kaffeebogen |
 | [12_Kostenliste.xlsx](12_Kostenliste.xlsx) | Bearbeitbare Übersicht der angemeldeten Beträge mit Quellen und Berechnungen |
 
+<!-- BEGIN kommunaler-schriftverkehr -->
+
+## Schriftverkehr und Klageentwurf
+
+Zusätzlich zum unveränderten Grundbestand enthält die Akte drei E-Mails, zwei Briefe als PDF und einen ausgearbeiteten Klageentwurf als bearbeitbares Word-Dokument. Insgesamt stehen jetzt **18 Originalunterlagen** zur Verfügung. Der Unterordner `schriftverkehr-und-klage` trennt die Ergänzung vom bisherigen Akteneingang. In den flachen ZIPs wird der Unterordnername als Dateipräfix mitgeführt.
+
+Der Klageentwurf ist ein bewusst zusätzlich bestelltes Arbeitsstück zur Überarbeitung oder Gegenprüfung. Er ersetzt nicht die offene Fallprüfung und ändert weder den ursprünglichen Auftraggeber noch den dort benannten Vertretungsumfang. Ein Entwurf aus Sicht der Gegenseite ist keine Übernahme ihres Mandats. Kein Schreiben und keine Klage wurden tatsächlich versandt oder eingereicht. Die Anlagen K1 ff. bezeichnen die konkreten, bereits vorhandenen Belege; dieselbe Datei wird dadurch kein zweiter Beweis oder weiterer Schaden.
+
+Entwurf vom 05.10.2026, nicht eingereicht. Offene Teilklage ausschließlich wegen der bezahlten Trocknungskosten von 2.400 EUR netto; weder die vorläufigen 15.100 EUR noch Umsatz werden als fertiger Schaden übernommen. Eigene Anspruchsposition und eng begrenzte Abtretung werden getrennt vorgetragen. Das Word-Dokument enthält ein vollständiges Anlagenverzeichnis.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Datei | Gegenstand |
+| --- | --- |
+| [01_Trocknungsumfang.eml](schriftverkehr-und-klage/01_Trocknungsumfang.eml) | TR-260918: Umfang unserer Arbeiten |
+| [02_Begrenzte_Abtretung.eml](schriftverkehr-und-klage/02_Begrenzte_Abtretung.eml) | Kaffeebogen: Abtretung nur für die bezahlte Trocknung |
+| [03_Annahme_und_Mandat.eml](schriftverkehr-und-klage/03_Annahme_und_Mandat.eml) | Annahme Ihrer begrenzten Abtretung |
+| [04_Teilforderung_Zimt.pdf](schriftverkehr-und-klage/04_Teilforderung_Zimt.pdf) | Bezahlte Trocknungskosten: begrenzte Zahlungsaufforderung |
+| [05_Antwort_Versorgung.pdf](schriftverkehr-und-klage/05_Antwort_Versorgung.pdf) | Rohrbruch Kaffeebogen: Antwort auf die Teilforderung |
+| [06_Teilklageentwurf_Zimt.docx](schriftverkehr-und-klage/06_Teilklageentwurf_Zimt.docx) | Entwurf einer offenen Teilklage – Trocknungskosten |
+
+Die Briefe sind PDF-Originale dieser synthetischen Akte, keine Scans wirklicher Sendungen. Die Word-Klage enthält Anträge, Sachverhalt, Beweisantritte, rechtliche Begründung und Anlagenverzeichnis. Für das selbstständige Erarbeiten eines Entwurfs zunächst nur den Grundbestand öffnen; für Prüfung und Verbesserung anschließend den zusätzlichen Klageentwurf hinzunehmen.
+
+<!-- END kommunaler-schriftverkehr -->
+
 ## 1.5. Downloads
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
@@ -80,7 +107,7 @@ Die Bezeichnung AKHA in den zwei Würzburger Akten ordnet die Übung einem Bearb
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-rohrbruch_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-rohrbruch.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.2/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-rohrbruch.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.3/testakte-akha-wuerzburg-rohrbruch-einzelpdfs.zip) |
 
 Die Archive enthalten die Arbeitsdateien unmittelbar auf der ZIP-Wurzelebene und einen Nutzungshinweis. README und redaktionelle Bewertungsdatei gehören nicht zum Arbeitsdump. Die Verknüpfungen beziehen sich auf den Akten-Begleitrelease zu Version 445.31.1.
