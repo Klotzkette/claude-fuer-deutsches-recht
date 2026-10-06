@@ -9,6 +9,7 @@ Autor: Klotzkette. Aktenstand: 25. September 2026, 14:00 Uhr MESZ.
 Die vertiefte Fassung enthält 45 eigenständige Unterlagen, darunter acht Excel-Arbeitsmappen. Die ursprünglichen 32 Dokumente und die drei eingegangenen Angebote bleiben unverändert. Zehn zusätzliche Belege und drei weiterführende Arbeitsmappen ergänzen den vorhandenen Aktenstand, ohne eine Entscheidung über den Nachprüfungsantrag vorwegzunehmen.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
+<a id="akte-komplett-herunterladen"></a>
 
 <!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 

@@ -11,6 +11,7 @@
 Privater Werkhallenbau aus Sicht der Bauherrin und des Projektcontrollings. Kostenstand, Bestellungen, Restleistungen und Zahlungsplan treffen auf eine verspätete Trafostation und noch nicht freigegebene Zusatzangebote. Stand: 25. September 2026, 16:00 Uhr.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
+<a id="akte-komplett-herunterladen"></a>
 
 <!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 

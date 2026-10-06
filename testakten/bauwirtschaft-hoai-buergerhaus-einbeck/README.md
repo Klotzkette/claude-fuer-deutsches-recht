@@ -20,6 +20,7 @@ Personen, Firmen, Grundstücksangaben, Bauvorlagen und Verwaltungsvorgänge sind
 Die neu ergänzten E-Mails verwenden reservierte `.example`-Adressen. Die historischen Dateien behalten ihre ursprünglichen Kontaktangaben; die Ergänzungen veranlassen keinen tatsächlichen Versand.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
+<a id="akte-komplett-herunterladen"></a>
 
 <!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 

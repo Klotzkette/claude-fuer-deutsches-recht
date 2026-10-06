@@ -11,6 +11,7 @@
 Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens mit 18 unterschiedlichen Lieferantenrechnungen und drei Rechnungskorrekturen. Der ursprüngliche Stapel enthält Skonto, Sicherheitseinbehalt und Augustlöhne. Der ergänzende Stapel ab Datei 31 bringt weitere Gewerke, Material, Miete, Entsorgung und Planung sowie ein getrenntes Projektkonto, Sammelzahlung, Teilzahlung und prüfbare Buchungsvorschläge. Stand: 25. September 2026, 16:00 Uhr.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
+<a id="akte-komplett-herunterladen"></a>
 
 <!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
