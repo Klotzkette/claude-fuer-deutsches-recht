@@ -9,7 +9,6 @@ Autor: Klotzkette. Aktenstand: 25. September 2026, 14:00 Uhr MESZ.
 Die vertiefte Fassung enthält 45 eigenständige Unterlagen, darunter acht Excel-Arbeitsmappen. Die ursprünglichen 32 Dokumente und die drei eingegangenen Angebote bleiben unverändert. Zehn zusätzliche Belege und drei weiterführende Arbeitsmappen ergänzen den vorhandenen Aktenstand, ohne eine Entscheidung über den Nachprüfungsantrag vorwegzunehmen.
 
 <!-- BEGIN vertiefte-ausgabe-20261006 -->
-<a id="akte-komplett-herunterladen"></a>
 
 <!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
 
@@ -32,13 +31,11 @@ Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fa
 <!-- END vertiefte-ausgabe-20261006 -->
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-<!-- decimal-anchor --> <a id="basisarchive-zur-pluginversion"></a>
+<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
 
-## 1.2. Basisarchive zur Pluginversion
+## 1.2. Akte komplett herunterladen
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
-
-Die ZIP-Links in diesem Abschnitt bewahren die frühere Basisfassung aus akten-v445.33.0. Für die erweiterte Akte bitte die **vertiefte Ausgabe oben** verwenden. Das Repository-Gesamt-PDF enthält bereits die Erweiterung.
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
