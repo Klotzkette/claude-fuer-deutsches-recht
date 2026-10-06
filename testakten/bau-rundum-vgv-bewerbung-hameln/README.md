@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-vgv-bewerbung-hameln_gesamt.pdf`](gesamt-pdf/bau-rundum-vgv-bewerbung-hameln_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-vgv-bewerbung-hameln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-vgv-bewerbung-hameln.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-vgv-bewerbung-hameln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-vgv-bewerbung-hameln-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-vgv-bewerbung-hameln.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-vgv-bewerbung-hameln.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-vgv-bewerbung-hameln-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-vgv-bewerbung-hameln-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ VgV-Teilnahmeantrag eines Planungsbüros mit veröffentlichten Auswahlkriterien,
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-vgv-bewerbung-hameln`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-16 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -72,15 +72,21 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 14 | [14_Buerostandard_Bewerbungen.docx](14_Buerostandard_Bewerbungen.docx) | 18.05.2026 | Bürostandard für Teilnahmeanträge |
 | 15 | [15_Auftrag_Bueroleitung.eml](15_Auftrag_Bueroleitung.eml) | 02.10.2026 | Hameln: Unterlagen bis Montag zusammenführen |
 | 16 | [16_Bewerberangaben.docx](16_Bewerberangaben.docx) | 02.10.2026 | Bewerberangaben Faltwerk Architektur |
+| 17 | [17_ARGE_Leistungsabgrenzung.docx](17_ARGE_Leistungsabgrenzung.docx) | 18.08.2022 | Leistungsabgrenzung Stadtteilhaus Südbogen |
+| 18 | [18_Riedhof_Abstimmung_Januar.pdf](18_Riedhof_Abstimmung_Januar.pdf) | 01.10.2026 | Planungsabstimmungen Schule Riedhof im Januar |
+| 19 | [19_Versicherer_Risikofragen.pdf](19_Versicherer_Risikofragen.pdf) | 02.10.2026 | Risikofragen zur beantragten Deckungserhöhung |
+| 20 | [20_Personalgespraech_Aydin.docx](20_Personalgespraech_Aydin.docx) | 02.10.2026 | Gespräch zur Arbeitszeit von Mehmet Aydin |
+| 21 | [21_Aydin_Terminbindung.eml](21_Aydin_Terminbindung.eml) | 05.10.2026 | Lernhaus und Riedhof: Gesprächsstand vom Freitag |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
 ## 1.5. Reproduktion und Grenzen
 
 Erzeugung: `scripts/build-bau-rundum-vertiefung.py --case bau-rundum-vgv-bewerbung-hameln`.
+Ergänzungsbau mit `--new-only` erhält vorhandene Originale bytegleich. Die neuen Nummern 17 bis 21 können mit `--check --qa --docx-qa --qa-from 17` gesondert gerendert werden.
 Prüfung: derselbe Aufruf mit `--check`; zusätzliche native Neuberechnung und Quellrendering mit `--qa`.
 Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlich die fünf zugewiesenen Abläufe.
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.

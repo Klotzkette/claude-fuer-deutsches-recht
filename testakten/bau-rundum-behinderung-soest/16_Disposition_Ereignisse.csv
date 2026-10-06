@@ -1,0 +1,7 @@
+Zeitpunkt;Vorgang;Kontakt;Status;Menge_oder_Zeit;Einheit;Erfasst_von
+2026-09-15T15:25:00+02:00;Beton 16.09. abgesagt;Henning Wilke;"keine Produktion; Pumpe separat";42,00;m³ bisher angemeldet;David Kroll
+2026-09-16T07:35:00+02:00;Beton 18.09. angeboten;Henning Wilke;"Vorhalt bis 12:00 Uhr; ungebucht";10:00;frühester Lieferbeginn;David Kroll
+2026-09-16T08:46:00+02:00;Pumpeneinsatz 16.09. abgesagt;Silke Rauter;erstmals direkt mit Pumpendienst gesprochen;07:00;ursprünglicher Einsatzbeginn;David Kroll
+2026-09-16T10:20:00+02:00;Pumpenblatt HF-26-614 eingegangen;Silke Rauter;Freitag nur vorgemerkt bis 11:45 Uhr;10:30;früheste Ankunft Freitag;Lea Friese
+2026-09-16T10:58:00+02:00;Rückruf zum Betonfenster;Henning Wilke;spätere erste Lieferung noch nicht bestätigt;11:00;angefragter Beginn Freitag;David Kroll
+2026-09-16T11:10:00+02:00;Pumpendienst zurückgerufen;Silke Rauter;keine feste Bestellung abgegeben;11:45;Rückmeldegrenze bleibt;David Kroll

@@ -4,6 +4,7 @@
 Aufruf mit dem gebündelten Python und PYTHONPATH laut Aufgabenübergabe.
 --render-check exportiert DOCX nur mit der gebündelten Büro-Runtime und erzeugt
 temporäre Seitenbilder innerhalb des jeweiligen Aktenordners für die Sichtprüfung.
+--new-only ergänzt Originale und Metadaten, ohne bestehende Originale zu verändern.
 --clean-qa entfernt ausschließlich diese eigenen Prüfdateien.
 """
 
@@ -358,8 +359,8 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/{slug}_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-{slug}.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-{slug}-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-{slug}.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-{slug}-einzelpdfs.zip) |
 
 ## 1.3. Originalunterlagen
 
@@ -422,26 +423,39 @@ def validate(folder, originals):
         assert '\ufffd' not in text, name
 
 
-def build(slug):
+def build(slug, new_only=False):
     case = AKTEN[slug]
     folder = REPO / 'testakten' / slug
     folder.mkdir(parents=True, exist_ok=True)
+    prior_hashes = {
+        p.name: hashlib.sha256(p.read_bytes()).hexdigest()
+        for p in folder.iterdir()
+        if new_only and p.is_file() and p.suffix in {'.docx', '.pdf', '.eml', '.csv', '.txt', '.png'}
+    }
+
+    def should_write(path):
+        return not new_only or not path.exists()
+
     originals = []
     for item in case['dokumente']:
         path = folder / item['datei']
-        (write_docx if path.suffix == '.docx' else write_pdf)(path, item)
+        if should_write(path):
+            (write_docx if path.suffix == '.docx' else write_pdf)(path, item)
         originals.append(path.name)
     for key in ['texte', 'zusatztexte']:
         for name, text in case.get(key, {}).items():
-            (folder / name).write_text(text, encoding='utf-8')
+            if should_write(folder / name):
+                (folder / name).write_text(text, encoding='utf-8')
             originals.append(name)
     for name, (header, rows) in case.get('csv', {}).items():
-        with (folder / name).open('w', encoding='utf-8', newline='') as stream:
-            writer = csv.writer(stream, delimiter=';')
-            writer.writerows([header] + rows)
+        if should_write(folder / name):
+            with (folder / name).open('w', encoding='utf-8', newline='') as stream:
+                writer = csv.writer(stream, delimiter=';')
+                writer.writerows([header] + rows)
         originals.append(name)
     for item in case['bilder']:
-        draw_image(folder / item['datei'], item)
+        if should_write(folder / item['datei']):
+            draw_image(folder / item['datei'], item)
         originals.append(item['datei'])
     attachments = {
         'bau-rundum-begehung-einbeck': ['03_Randnotizen_Lenz.txt', '05_Gewerkekarte.pdf'],
@@ -451,11 +465,19 @@ def build(slug):
         'bau-rundum-baugrund-verden': ['02_Baugrundbericht.pdf', '03_Ergaenzung_01.pdf', '06_Laborwerte.csv', '07_Wasserbeobachtungen.csv'],
     }
     for i, item in enumerate(case['mails']):
-        write_email(folder, slug, item, attachments[slug] if i == 0 else [])
+        mail_attachments = item.get('anlagen')
+        if mail_attachments is None:
+            mail_attachments = attachments[slug] if i == 0 else []
+        if should_write(folder / item['datei']):
+            write_email(folder, slug, item, mail_attachments)
         originals.append(item['datei'])
     write_meta(folder, slug, case, originals)
     validate(folder, originals)
+    for name, digest in prior_hashes.items():
+        assert hashlib.sha256((folder / name).read_bytes()).hexdigest() == digest, (slug, name, 'Altoriginal verändert')
     print(f'{slug}: {len(originals)} Originale, {len({Path(n).suffix for n in originals})} Dateitypen; Struktur und Anhänge geprüft.', flush=True)
+    if new_only:
+        print(f'{slug}: {len(prior_hashes)} vorhandene Originale bytegleich erhalten.', flush=True)
     return folder
 
 
@@ -509,6 +531,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('slugs', nargs='*', choices=None)
     parser.add_argument('--render-check', action='store_true')
+    parser.add_argument('--new-only', action='store_true')
     parser.add_argument('--clean-qa', action='store_true')
     parser.add_argument('--check-only', action='store_true')
     args = parser.parse_args()
@@ -524,7 +547,7 @@ def main():
                 shutil.rmtree(qa)
             continue
         if not args.check_only:
-            build(slug)
+            build(slug, new_only=args.new_only)
         if args.render_check:
             render_check(folder, slug)
 

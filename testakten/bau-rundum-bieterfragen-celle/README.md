@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-bieterfragen-celle_gesamt.pdf`](gesamt-pdf/bau-rundum-bieterfragen-celle_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bieterfragen-celle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bieterfragen-celle.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bieterfragen-celle.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bieterfragen-celle.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -28,7 +28,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Autor: Klotzkette. Aktenstand: 2026-09-25. Zugeordnetes Plugin: `bauwirtschaft-anfaenger`.
+Autor: Klotzkette. Aktenstand: 2026-09-28. Zugeordnetes Plugin: `bauwirtschaft-anfaenger`.
 
 Öffentliche Bauvergabe einer Lesesaalmodernisierung mit vorläufiger Leistungsbeschreibung, Bestandsdaten, Produktnotiz und später eingegangenen Bieterfragen. Antworten und Berichtigung sind noch nicht erstellt.
 
@@ -52,14 +52,14 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/bau-rundum-bieterfragen-celle_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bieterfragen-celle.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bieterfragen-celle.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="originalunterlagen"></a>
 
 ## 1.4. Originalunterlagen
 
-15 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
+20 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -82,6 +82,11 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | [13_Ablaufkalender.pdf](13_Ablaufkalender.pdf) | PDF |
 | [14_Nutzernotiz.docx](14_Nutzernotiz.docx) | DOCX |
 | [15_Bieterpost_buendeln.eml](15_Bieterpost_buendeln.eml) | EML |
+| [16_Lieferantendaten_LB595.pdf](16_Lieferantendaten_LB595.pdf) | PDF |
+| [17_Aufnahme_Steuerleitungen.docx](17_Aufnahme_Steuerleitungen.docx) | DOCX |
+| [18_Zugang_Aufmass.pdf](18_Zugang_Aufmass.pdf) | PDF |
+| [19_Rasterablesungen.csv](19_Rasterablesungen.csv) | CSV |
+| [20_Runge_Lieferauskunft.eml](20_Runge_Lieferauskunft.eml) | EML |
 
 <!-- decimal-anchor --> <a id="erzeugung-und-qualitätssicherung"></a>
 

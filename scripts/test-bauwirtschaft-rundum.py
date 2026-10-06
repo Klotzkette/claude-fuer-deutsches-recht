@@ -11,9 +11,11 @@ import json
 from pathlib import Path
 import re
 import unittest
+import unicodedata
 from urllib.parse import unquote
 
 import yaml
+from docx import Document
 from pypdf import PdfReader
 from openpyxl import load_workbook
 from prompt_profiles import validate_files, hand_curated
@@ -27,6 +29,41 @@ EXPECTED = {
     "bauwirtschaft-anfaenger": {"bau-rundum-begehung-einbeck", "bau-rundum-lv-abgleich-detmold", "bau-rundum-bieterfragen-celle", "bau-rundum-behinderung-soest", "bau-rundum-baugrund-verden"},
     "bauwirtschaft-fortgeschrittene": {"bau-rundum-abschlagsrechnung-lemgo", "bau-rundum-vgv-bewerbung-hameln", "bau-rundum-angebotspruefung-goslar", "bau-rundum-bauzeit-claim-minden", "bau-rundum-nachtrag-northeim"},
 }
+ORIGINAL_COUNTS = {
+    "bau-rundum-begehung-einbeck": 14,
+    "bau-rundum-lv-abgleich-detmold": 12,
+    "bau-rundum-bieterfragen-celle": 15,
+    "bau-rundum-behinderung-soest": 12,
+    "bau-rundum-baugrund-verden": 12,
+    "bau-rundum-abschlagsrechnung-lemgo": 16,
+    "bau-rundum-vgv-bewerbung-hameln": 16,
+    "bau-rundum-angebotspruefung-goslar": 16,
+    "bau-rundum-bauzeit-claim-minden": 16,
+    "bau-rundum-nachtrag-northeim": 16,
+}
+
+
+def compact(text):
+    return re.sub(r"\s+", "", unicodedata.normalize("NFKC", text).replace("\u00ad", ""))
+
+
+def source_paragraphs(path):
+    if path.suffix == ".docx":
+        document = Document(path)
+        yield from (p.text for p in document.paragraphs)
+        for table in document.tables:
+            for row in table.rows:
+                for cell in row.cells:
+                    yield from (p.text for p in cell.paragraphs)
+    elif path.suffix == ".eml":
+        message = BytesParser(policy=policy.default).parsebytes(path.read_bytes())
+        body = message.get_body(preferencelist=("plain",))
+        if body:
+            yield from re.split(r"\n\s*\n", body.get_content())
+    elif path.suffix == ".txt":
+        yield from re.split(r"\n\s*\n", path.read_text(encoding="utf-8-sig"))
+    elif path.suffix == ".pdf":
+        yield from (page.extract_text() or "" for page in PdfReader(path).pages)
 
 
 class SeminarSuite(unittest.TestCase):
@@ -139,6 +176,35 @@ class SeminarSuite(unittest.TestCase):
                         rows = list(csv.reader(io.StringIO(text), dialect))
                         self.assertGreaterEqual(len(rows), 5)
                         self.assertTrue(all(len(row) == len(rows[0]) for row in rows))
+
+    def test_original_text_survives_combined_pdf_export(self):
+        for slug in ORIGINAL_COUNTS:
+            folder = ROOT / "testakten" / slug
+            pdf = PdfReader(folder / "gesamt-pdf" / f"{slug}_gesamt.pdf")
+            combined = compact("\n".join(page.extract_text() or "" for page in pdf.pages))
+            checked = 0
+            for path, _ in working_dump_archive_pairs(folder, include_gesamt_pdf=False):
+                for paragraph in source_paragraphs(path):
+                    content = compact(paragraph)
+                    if len(content) < 80:
+                        continue
+                    with self.subTest(case=slug, source=path.name, paragraph=paragraph[:60]):
+                        self.assertTrue(content in combined, f"Originaltext fehlt im Gesamt-PDF: {paragraph[:160]}")
+                    checked += 1
+            self.assertGreater(checked, 20, f"{slug}: zu wenige vollständige Originalabsätze geprüft.")
+
+    def test_each_case_gains_at_least_four_independent_documents(self):
+        for slug, previous_count in ORIGINAL_COUNTS.items():
+            folder = ROOT / "testakten" / slug
+            files = [p for p, _ in working_dump_archive_pairs(folder, include_gesamt_pdf=False)]
+            additions = [p for p in files if int(p.name.split("_", 1)[0]) > previous_count]
+            with self.subTest(case=slug):
+                self.assertGreaterEqual(len(files), previous_count + 4)
+                self.assertGreaterEqual(len(additions), 4)
+                self.assertGreaterEqual(len({p.suffix for p in additions}), 2)
+                readme = (folder / "README.md").read_text()
+                for path in files:
+                    self.assertIn(f"]({path.name})", readme, "Original fehlt im Aktenverzeichnis.")
 
     def test_lemgo_position_ids_and_actual_payment_chain(self):
         folder = ROOT / "testakten/bau-rundum-abschlagsrechnung-lemgo"

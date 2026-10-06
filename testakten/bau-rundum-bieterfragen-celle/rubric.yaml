@@ -15,6 +15,9 @@ checks:
   - id: fachpruefung-4
     check_type: human_review
     description: "Entwurf gemeinsamer Antworten von ungeklärten technischen Fakten und nötigen Unterlagenänderungen trennen; weder Veröffentlichung noch Friständerung erfinden."
+  - id: fachpruefung-5
+    check_type: human_review
+    description: "Lieferantenvariante und Lieferfrist von verbindlichen Vergabeanforderungen trennen; neue punktuelle Leitungs- und Rasteraufnahme sowie Transportweg nicht als bereits veröffentlichte Berichtigung, Vollaufnahme oder Produktfreigabe darstellen."
   - id: original-01
     check_type: file_exists
     path: "01_Vorabpruefung.eml"
@@ -75,3 +78,23 @@ checks:
     check_type: file_exists
     path: "15_Bieterpost_buendeln.eml"
     description: "Eigenständige Originalunterlage 15_Bieterpost_buendeln.eml"
+  - id: original-16
+    check_type: file_exists
+    path: "16_Lieferantendaten_LB595.pdf"
+    description: "Eigenständige Originalunterlage 16_Lieferantendaten_LB595.pdf"
+  - id: original-17
+    check_type: file_exists
+    path: "17_Aufnahme_Steuerleitungen.docx"
+    description: "Eigenständige Originalunterlage 17_Aufnahme_Steuerleitungen.docx"
+  - id: original-18
+    check_type: file_exists
+    path: "18_Zugang_Aufmass.pdf"
+    description: "Eigenständige Originalunterlage 18_Zugang_Aufmass.pdf"
+  - id: original-19
+    check_type: file_exists
+    path: "19_Rasterablesungen.csv"
+    description: "Eigenständige Originalunterlage 19_Rasterablesungen.csv"
+  - id: original-20
+    check_type: file_exists
+    path: "20_Runge_Lieferauskunft.eml"
+    description: "Eigenständige Originalunterlage 20_Runge_Lieferauskunft.eml"

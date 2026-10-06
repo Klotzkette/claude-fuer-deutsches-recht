@@ -1,0 +1,8 @@
+Punkt;Datum_Zeit;Lage_zum_Rost;Abstand_mm;Relative_Höhe_mm;Bezug;Verfahren;Erfasserin
+R0;2026-09-24T09:45:00+02:00;Rostoberkante Mitte;0;0;R0 gleich 0 mm;"Laser und Messlatte; Ablesung auf 1 mm";Maren Döring
+W1;2026-09-24T09:47:00+02:00;westlich;60;-3;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring
+W2;2026-09-24T09:49:00+02:00;westlich;120;-4;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring
+W3;2026-09-24T09:51:00+02:00;westlich;240;-2;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring
+N1;2026-09-24T09:53:00+02:00;nördlich;240;7;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring
+O1;2026-09-24T09:55:00+02:00;östlich;240;9;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring
+S1;2026-09-24T09:57:00+02:00;südlich;240;6;R0 gleich 0 mm;"Oberflächenpunkt; kein Untergrundaufschluss";Maren Döring

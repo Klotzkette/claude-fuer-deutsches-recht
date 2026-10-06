@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-angebotspruefung-goslar_gesamt.pdf`](gesamt-pdf/bau-rundum-angebotspruefung-goslar_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-angebotspruefung-goslar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-angebotspruefung-goslar.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-angebotspruefung-goslar-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-angebotspruefung-goslar-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-angebotspruefung-goslar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-angebotspruefung-goslar.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-angebotspruefung-goslar-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-angebotspruefung-goslar-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-angebotspruefung-goslar`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-16 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -72,15 +72,21 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 14 | [14_Mittelbereitstellung.docx](14_Mittelbereitstellung.docx) | 03.09.2026 | Mittelstand Fassadenlos |
 | 15 | [15_Exportprotokoll.txt](15_Exportprotokoll.txt) | 05.10.2026 | Protokoll des geschützten Angebotsexports |
 | 16 | [16_Kostenberechnung_Fassade.xlsx](16_Kostenberechnung_Fassade.xlsx) | 28.08.2026 | Kostenberechnung F03 vor Ausschreibung |
+| 17 | [17_Elementabmessungen_F1.docx](17_Elementabmessungen_F1.docx) | 06.10.2026 | Elementgruppen F1 im Planungsstand der Ausschreibung |
+| 18 | [18_Zugriffsjournal_Pruefraum.csv](18_Zugriffsjournal_Pruefraum.csv) | 06.10.2026 | Zugriffsjournal Arbeitsraum F03 |
+| 19 | [19_Nordlicht_Kapazitaetsvorbehalt.pdf](19_Nordlicht_Kapazitaetsvorbehalt.pdf) | 06.10.2026 | Rauchabzugsmontage am Bildungsforum Oker |
+| 20 | [20_Bergglas_Preiserklaerung.docx](20_Bergglas_Preiserklaerung.docx) | 06.10.2026 | Erklärung zum Anschlussdetail D4 |
+| 21 | [21_Okerfenster_Nordlicht.eml](21_Okerfenster_Nordlicht.eml) | 06.10.2026 | ZBH-26-31: Gesprächsstand mit Nordlicht |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
 ## 1.5. Reproduktion und Grenzen
 
 Erzeugung: `scripts/build-bau-rundum-vertiefung.py --case bau-rundum-angebotspruefung-goslar`.
+Ergänzungsbau mit `--new-only` erhält vorhandene Originale bytegleich. Die neuen Nummern 17 bis 21 können mit `--check --qa --docx-qa --qa-from 17` gesondert gerendert werden.
 Prüfung: derselbe Aufruf mit `--check`; zusätzliche native Neuberechnung und Quellrendering mit `--qa`.
 Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlich die fünf zugewiesenen Abläufe.
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.

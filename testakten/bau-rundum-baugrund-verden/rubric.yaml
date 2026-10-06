@@ -15,6 +15,9 @@ checks:
   - id: fachpruefung-4
     check_type: human_review
     description: "Östlichen Schluff, neue Sonderlasten, fehlende chemische Untersuchung und dynamische Angaben projektspezifisch berücksichtigen; Ingenieurprüfung und keine Ausführungsfreigabe."
+  - id: fachpruefung-5
+    check_type: human_review
+    description: "Kontrollnivellement, Folgeablesungen, Probenannahme und Maschinenstand 02 getrennt auswerten: örtlicher Bezug bleibt, 19,60 m ist keine Messung, chemische Ergebnisse fehlen und 220 kN Lieferumfang ersetzt nicht ungeprüft den baulichen Lastansatz samt Dynamik."
   - id: original-01
     check_type: file_exists
     path: "01_Ehlers_Unterlagen.eml"
@@ -63,3 +66,23 @@ checks:
     check_type: file_exists
     path: "12_Hoehen_Notiz.txt"
     description: "Eigenständige Originalunterlage 12_Hoehen_Notiz.txt"
+  - id: original-13
+    check_type: file_exists
+    path: "13_Kontrollnivellement.pdf"
+    description: "Eigenständige Originalunterlage 13_Kontrollnivellement.pdf"
+  - id: original-14
+    check_type: file_exists
+    path: "14_Probenannahme_Auffuellung.pdf"
+    description: "Eigenständige Originalunterlage 14_Probenannahme_Auffuellung.pdf"
+  - id: original-15
+    check_type: file_exists
+    path: "15_Maschinenblatt_02.docx"
+    description: "Eigenständige Originalunterlage 15_Maschinenblatt_02.docx"
+  - id: original-16
+    check_type: file_exists
+    path: "16_Wasser_Folgeablesungen.csv"
+    description: "Eigenständige Originalunterlage 16_Wasser_Folgeablesungen.csv"
+  - id: original-17
+    check_type: file_exists
+    path: "17_Hagedorn_Messreihe.eml"
+    description: "Eigenständige Originalunterlage 17_Hagedorn_Messreihe.eml"

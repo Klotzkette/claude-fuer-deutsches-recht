@@ -115,6 +115,7 @@ def fmt(value):
 
 
 def make_docx(path, p, project):
+    project=p.get('project') or project
     from docx import Document
     from docx.shared import Cm, Pt, RGBColor
     from docx.oxml import OxmlElement
@@ -176,6 +177,7 @@ def make_docx(path, p, project):
 
 
 def make_pdf(path, p, project):
+    project=p.get('project') or project
     from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, KeepTogether
     from reportlab.lib.styles import ParagraphStyle
     from reportlab.lib import colors
@@ -311,7 +313,7 @@ Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlic
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.
 '''
     if not (folder/'README.md').exists():
         (folder/'README.md').write_text(readme,encoding='utf-8')
@@ -322,9 +324,11 @@ Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter P
         (folder/'rubric.yaml').write_text(yaml.safe_dump(rubric,allow_unicode=True,sort_keys=False),encoding='utf-8')
 
 
-def generate(c):
+def generate(c, new_only=False):
     folder=ROOT/'testakten'/c['slug'];folder.mkdir(parents=True,exist_ok=True)
     qa=QA_ROOT/c['slug'];qa.mkdir(parents=True,exist_ok=True)
+    preserved={p['file']:hashlib.sha256((folder/p['file']).read_bytes()).hexdigest()
+               for p in c['pieces'] if new_only and (folder/p['file']).is_file()}
     for sidecar in folder.glob('*.xlsx.inspect.ndjson'):
         shutil.move(str(sidecar),str(qa/sidecar.name))
     oldqa=folder/'.qa'
@@ -333,6 +337,7 @@ def generate(c):
         shutil.rmtree(oldqa)
     for p in c['pieces']:
         path=folder/p['file'];ext=path.suffix
+        if p['file'] in preserved:continue
         if ext=='.eml': continue
         if ext=='.docx': make_docx(path,p,c['project'])
         elif ext=='.pdf': make_pdf(path,p,c['project'])
@@ -349,7 +354,9 @@ def generate(c):
             path.write_text(text,encoding='utf-8')
         else: raise ValueError(ext)
     for p in c['pieces']:
-        if p['file'].endswith('.eml'):make_mail(folder/p['file'],p)
+        if p['file'].endswith('.eml') and p['file'] not in preserved:make_mail(folder/p['file'],p)
+    for name,digest in preserved.items():
+        assert hashlib.sha256((folder/name).read_bytes()).hexdigest()==digest,(folder,name)
     metadata(folder,c)
     return check(c)
 
@@ -361,7 +368,11 @@ def check(c):
     from testakte_file_filter import include_in_working_dump
     folder=ROOT/'testakten'/c['slug']; counts=Counter();formula_count=0;pdf_pages=0;csv_rows=0;attachments=0
     originals=[folder/p['file'] for p in c['pieces']]
-    assert len(originals)>=12 and len({p.suffix for p in originals})>=4
+    assert len(originals)>=20 and len({p.suffix for p in originals})>=4
+    additions=[p for p in originals if int(p.name.split('_',1)[0])>16]
+    assert len(additions)>=4 and len({p.suffix for p in additions})>=2
+    readme=(folder/'README.md').read_text(encoding='utf-8')
+    assert all(f']({p.name})' in readme for p in additions)
     exported=[p for p in folder.rglob('*') if include_in_working_dump(p,folder)]
     assert set(exported)==set(originals), (set(exported)-set(originals),set(originals)-set(exported))
     for p,path in zip(c['pieces'],originals):
@@ -371,6 +382,7 @@ def check(c):
             m=BytesParser(policy=policy.default).parsebytes(path.read_bytes())
             for h in ['From','To','Date','Subject','Message-ID','MIME-Version']:assert m[h],(path,h)
             assert m.get_body(preferencelist=('plain',)) is not None
+            assert m.get_body(preferencelist=('plain',)).get_content().replace('\r\n','\n').rstrip()==p['body'].rstrip()
             actual={a.get_filename():a.get_payload(decode=True) for a in m.iter_attachments()}
             assert set(actual)==set(p['attachments'])
             for name,data in actual.items():assert data==(folder/name).read_bytes();attachments+=1
@@ -378,6 +390,7 @@ def check(c):
         elif path.suffix=='.csv':
             with path.open(encoding='utf-8',newline='') as f: rows=list(csv.reader(f,delimiter=';'))
             assert len(rows)>=5 and all(len(r)==len(rows[0]) for r in rows)
+            assert rows[0]==p['headers']
             csv_rows+=len(rows)-1
         elif path.suffix=='.xlsx':
             wf=load_workbook(path,data_only=False);wv=load_workbook(path,data_only=True)
@@ -405,7 +418,9 @@ def check(c):
             assert NOTICE.splitlines()[0] not in text
     numeric = numeric_regression(c,folder)
     result=dict(case=c['slug'],originals=len(originals),types=dict(counts),pdf_pages=pdf_pages,csv_data_rows=csv_rows,
-                formula_cells=formula_count,byte_identical_attachments=attachments,numeric_regression=numeric)
+                formula_cells=formula_count,byte_identical_attachments=attachments,numeric_regression=numeric,
+                new_originals=len(additions),addition_checks=addition_regression(c,folder),
+                preserved_originals=len(originals)-len(additions))
     qa=QA_ROOT/c['slug'];qa.mkdir(parents=True,exist_ok=True)
     (qa/'checks.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     print(json.dumps(result,ensure_ascii=False),flush=True)
@@ -482,9 +497,72 @@ def numeric_regression(c,folder):
     raise AssertionError(slug)
 
 
-def docx_renderer_qa(c):
+def addition_regression(c,folder):
+    """Kontrolliert Rohdaten der Ergänzungen, ohne Ergebnisse in die Akten zu schreiben."""
+    from docx import Document
+    from pypdf import PdfReader
+    from openpyxl import load_workbook
+    def rows(name):
+        with (folder/name).open(encoding='utf-8',newline='') as f:
+            return list(csv.DictReader(f,delimiter=';'))
+    def document(name):
+        path=folder/name
+        if path.suffix=='.docx':return '\n'.join(p.text for p in Document(path).paragraphs)
+        return '\n'.join(p.extract_text() for p in PdfReader(path).pages)
+    D=Decimal
+    slug=c['slug']
+    if slug.endswith('lemgo'):
+        readings=rows('18_Zwischenzaehler_Sued.csv')
+        values=[D(r['Stand_kWh']) for r in readings]
+        assert len(values)==6 and all(b>=a for a,b in zip(values,values[1:]))
+        assert values[-1]-values[0]==D('46.2') and values[2]-values[1]==D('10.5')
+        assert '4.000,00 EUR' in document('20_Arbeitsbericht_Sockelnacharbeit.docx')
+        return dict(meter_readings=6,shared_meter_kwh='46.2',weekend_interval_kwh='10.5')
+    if slug.endswith('hameln'):
+        roles=document('17_ARGE_Leistungsabgrenzung.docx')
+        assert '40 Prozent' in roles and '60 Prozent' in roles
+        assert '32 Wochenstunden' in document('20_Personalgespraech_Aydin.docx')
+        assert '26 Wochenstunden' in document('18_Riedhof_Abstimmung_Januar.pdf')
+        assert '1.180,00 EUR' in document('19_Versicherer_Risikofragen.pdf')
+        return dict(arge_fee_shares=[40,60],aydin_contract_hours=32,riedhof_kruse_hours=26)
+    if slug.endswith('goslar'):
+        table=Document(folder/'17_Elementabmessungen_F1.docx').tables[0]
+        areas=[D(r.cells[3].text.replace(',','.')) for r in table.rows[1:]]
+        quantities=[int(r.cells[2].text) for r in table.rows[1:]]
+        assert areas==[D('72'),D('72'),D('72'),D('24')]
+        assert sum(areas)==D('240') and sum(quantities)==98
+        journal=rows('18_Zugriffsjournal_Pruefraum.csv')
+        assert len(journal)==7 and journal[0]['Ergebnis']=='gesperrt'
+        assert datetime.fromisoformat(journal[1]['Zeitpunkt'])>datetime.fromisoformat('2026-10-05T10:00:00+02:00')
+        return dict(element_groups=4,elements=98,total_area_m2=240,access_events=7)
+    if slug.endswith('minden'):
+        cards=rows('18_Geraetestunden_MK44.csv')
+        assert sum(D(r['Betriebsstunden']) for r in cards)==D('19')
+        invoice=document('17_Mietrechnung_Mobilkran.pdf')
+        assert D('22')*D('420')==D('9240') and '9.240,00 EUR' in invoice and '10.995,60 EUR' in invoice
+        hours={r['Datum']:D(r['Zusatzstunden_gesamt']) for r in rows('10_Personalstunden.csv') if r['Datum'].startswith('2026-04-')}
+        forecast=D(str(load_workbook(folder/'13_Forderungsberechnung.xlsx',data_only=True)['BZ01']['D10'].value))
+        recorded=sum(hours.values())
+        daily_reduction=[max(hours.values())-hours[day] for day in ['2026-04-22','2026-04-28']]
+        message=BytesParser(policy=policy.default).parsebytes((folder/'21_Fricke_Geraeteunterlagen.eml').read_bytes())
+        assert 'jeweils acht Stunden weniger' in message.get_body(preferencelist=('plain',)).get_content()
+        assert daily_reduction==[D('8'),D('8')] and forecast-sum(daily_reduction)==recorded==D('144')
+        return dict(selected_cards=6,selected_operating_hours=19,crane_rent_net_eur=9240,
+                    forecast_extra_hours=int(forecast),recorded_extra_hours=int(recorded))
+    if slug.endswith('northeim'):
+        stock=rows('18_Lagerbestaende_DN150.csv')
+        sealed=sum(D(r['Länge_m']) for r in stock if r['Zustand']=='Bund geschlossen')
+        assert sum(D(r['Länge_m']) for r in stock)==D('300') and sealed==D('240')
+        assert sealed*D('34')*D('.9')==D('7344')
+        assert '7.344,00 EUR' in document('19_Ruecknahmeauskunft_Rohrkontor.pdf')
+        return dict(stock_length_m=300,sealed_length_m=240,conditional_return_net_eur=7344)
+    raise AssertionError(slug)
+
+
+def docx_renderer_qa(c, from_number=1):
     renderer=Path.home()/'.codex/plugins/cache/openai-primary-runtime/documents/26.905.11957/skills/documents/render_docx.py'
     for p in c['pieces']:
+        if int(p['file'].split('_',1)[0])<from_number:continue
         if not p['file'].endswith('.docx'):continue
         path=ROOT/'testakten'/c['slug']/p['file']
         output=QA_ROOT/c['slug']/'docx-renderer'/path.stem
@@ -513,7 +591,7 @@ def normalize_docx_fonts(c):
             make_mail(folder/p['file'],p)
 
 
-def visual_qa(c):
+def visual_qa(c, from_number=1):
     from pdf2image import convert_from_path
     from pypdf import PdfReader
     from openpyxl import load_workbook
@@ -521,18 +599,20 @@ def visual_qa(c):
     from PIL import Image,ImageDraw
     folder=ROOT/'testakten'/c['slug'];qa=QA_ROOT/c['slug'];qa.mkdir(parents=True,exist_ok=True)
     os.environ['SOFFICE']=str(SOFFICE)
-    paths=[folder/p['file'] for p in c['pieces'] if Path(p['file']).suffix in {'.docx','.xlsx'}]
+    pieces=[p for p in c['pieces'] if int(p['file'].split('_',1)[0])>=from_number]
+    paths=[folder/p['file'] for p in pieces if Path(p['file']).suffix in {'.docx','.xlsx'}]
     rendered=render_office_batch(paths)
     assert set(rendered)==set(paths),'Native Office-PDFs fehlen'
     for path,data in rendered.items(): (qa/(path.stem+'.pdf')).write_bytes(data)
     pages=[];pagecount=0
-    for path in paths+[folder/p['file'] for p in c['pieces'] if p['file'].endswith('.pdf')]:
+    for path in paths+[folder/p['file'] for p in pieces if p['file'].endswith('.pdf')]:
         pdfpath=qa/(path.stem+'.pdf') if path.suffix!='.pdf' else path
         pdf=PdfReader(pdfpath)
         for i in range(len(pdf.pages)):
             page=convert_from_path(str(pdfpath),dpi=95,first_page=i+1,last_page=i+1,poppler_path=str(RUNTIME/'bin/override'))[0]
             target=qa/f'{path.stem}-p{i+1}.png';page.save(target);pages.append(target);pagecount+=1
-    for p in c['pieces']:
+    mutations=0
+    for p in pieces:
         if not p['file'].endswith('.xlsx'): continue
         native=qa/Path(p['file']).stem/'native';native.mkdir(exist_ok=True)
         source=qa/Path(p['file']).stem/'mutation.xlsx'
@@ -541,6 +621,7 @@ def visual_qa(c):
         w=load_workbook(native/'mutation.xlsx',data_only=True)
         for s in p['sheets']:
             m=s['mutation'];assert abs(w[s['name']][m['result']].value-m['expected'])<.011
+            mutations+=1
     for start in range(0,len(pages),9):
         contact=Image.new('RGB',(1200,1800),'#D8D8D8');draw=ImageDraw.Draw(contact)
         for j,path in enumerate(pages[start:start+9]):
@@ -548,25 +629,32 @@ def visual_qa(c):
             x=(j%3)*400;y=(j//3)*600
             contact.paste(im,(x,y+30));draw.text((x+5,y+6),path.stem[:48],fill='black')
         contact.save(qa/f'kontakt-{start//9+1}.jpg',quality=85)
-    (qa/'pages.json').write_text(json.dumps(dict(rendered_pages=pagecount,native_mutations='passed',pages=[p.name for p in pages]),indent=2),encoding='utf-8')
-    print(c['slug'], 'Office- und Original-PDF-Seiten:',pagecount,'native Mutationen: bestanden',flush=True)
+    (qa/'pages.json').write_text(json.dumps(dict(rendered_pages=pagecount,native_mutations=mutations,from_number=from_number,pages=[p.name for p in pages]),indent=2),encoding='utf-8')
+    print(c['slug'], 'Office- und Original-PDF-Seiten:',pagecount,'native Mutationen:',mutations,flush=True)
 
 
 def main():
+    global QA_ROOT
     parser=argparse.ArgumentParser()
     parser.add_argument('--case',choices=list(CASES),action='append')
     parser.add_argument('--check',action='store_true')
     parser.add_argument('--qa',action='store_true')
     parser.add_argument('--docx-qa',action='store_true')
     parser.add_argument('--normalize-docx-fonts',action='store_true')
+    parser.add_argument('--new-only',action='store_true',help='Erzeugt nur fehlende Originale; vorhandene Dateien bleiben bytegleich.')
+    parser.add_argument('--qa-from',type=int,default=1,help='Kleinste laufende Nummer für visuelle QA.')
+    parser.add_argument('--qa-root',type=Path,default=QA_ROOT)
     args=parser.parse_args()
+    QA_ROOT=args.qa_root.resolve()
+    if QA_ROOT==ROOT or ROOT in QA_ROOT.parents:parser.error('QA-Verzeichnis muss außerhalb des Repositorys liegen.')
+    if args.new_only and args.normalize_docx_fonts:parser.error('Schriftnormalisierung widerspricht --new-only.')
     for key in args.case or CASES:
         c=CASES[key]
         if args.normalize_docx_fonts:normalize_docx_fonts(c)
         if args.check: check(c)
-        else: generate(c)
-        if args.qa:visual_qa(c)
-        if args.docx_qa:docx_renderer_qa(c)
+        else: generate(c,args.new_only)
+        if args.qa:visual_qa(c,args.qa_from)
+        if args.docx_qa:docx_renderer_qa(c,args.qa_from)
 
 
 if __name__=='__main__': main()

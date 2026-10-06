@@ -15,6 +15,9 @@ checks:
   - id: fachpruefung-4
     check_type: human_review
     description: "Keine sichere Verlängerung bis zum Rohbauende, keine ungeprüfte Geldforderung und keine erfundene Freigabe erklären; technische und rechtliche Kontrolle vor Versand vorsehen."
+  - id: fachpruefung-5
+    check_type: human_review
+    description: "Vormittagsfortschreibung nach dem Diktat berücksichtigen: ergänzte Halterung ist noch keine Überdeckungsfreigabe; produktive Westarbeiten, ungeklärte Stabverwendung und unterschiedliche Beton-/Pumpenfenster getrennt dokumentieren, ohne Kosten oder Endterminfolgen zu erfinden."
   - id: original-01
     check_type: file_exists
     path: "01_Kroll_Buero.eml"
@@ -63,3 +66,23 @@ checks:
     check_type: file_exists
     path: "12_Telefonnotizen.txt"
     description: "Eigenständige Originalunterlage 12_Telefonnotizen.txt"
+  - id: original-13
+    check_type: file_exists
+    path: "13_Montageblatt_Rohrsteg.pdf"
+    description: "Eigenständige Originalunterlage 13_Montageblatt_Rohrsteg.pdf"
+  - id: original-14
+    check_type: file_exists
+    path: "14_Pumpen_Dispositionsblatt.pdf"
+    description: "Eigenständige Originalunterlage 14_Pumpen_Dispositionsblatt.pdf"
+  - id: original-15
+    check_type: file_exists
+    path: "15_Polierbuch_Vormittag.docx"
+    description: "Eigenständige Originalunterlage 15_Polierbuch_Vormittag.docx"
+  - id: original-16
+    check_type: file_exists
+    path: "16_Disposition_Ereignisse.csv"
+    description: "Eigenständige Originalunterlage 16_Disposition_Ereignisse.csv"
+  - id: original-17
+    check_type: file_exists
+    path: "17_Rauter_Pumpenfenster.eml"
+    description: "Eigenständige Originalunterlage 17_Rauter_Pumpenfenster.eml"

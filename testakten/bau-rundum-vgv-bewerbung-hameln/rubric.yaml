@@ -80,3 +80,23 @@ checks:
   check_type: file_exists
   path: 16_Bewerberangaben.docx
   description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_ARGE_Leistungsabgrenzung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Riedhof_Abstimmung_Januar.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Versicherer_Risikofragen.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Personalgespraech_Aydin.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-21
+  check_type: file_exists
+  path: 21_Aydin_Terminbindung.eml
+  description: Eigenständige Originalunterlage vorhanden.

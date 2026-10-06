@@ -84,3 +84,23 @@ checks:
   check_type: file_exists
   path: 16_Kostenberechnung_Fassade.xlsx
   description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_Elementabmessungen_F1.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Zugriffsjournal_Pruefraum.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Nordlicht_Kapazitaetsvorbehalt.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Bergglas_Preiserklaerung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-21
+  check_type: file_exists
+  path: 21_Okerfenster_Nordlicht.eml
+  description: Eigenständige Originalunterlage vorhanden.

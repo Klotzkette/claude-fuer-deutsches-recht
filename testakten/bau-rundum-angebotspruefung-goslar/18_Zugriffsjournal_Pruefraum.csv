@@ -1,0 +1,8 @@
+Zeitpunkt;Benutzer;Rolle;Objekt;Aktion;Ergebnis
+2026-10-05T09:59:59+02:00;System;Eingang;drei Angebotscontainer;Inhaltszugriff;gesperrt
+2026-10-05T10:03:12+02:00;Ehlers und Schütz;Öffnung;drei Angebotscontainer;gemeinsame Freigabe;ausgeführt
+2026-10-05T10:21:09+02:00;Schütz;Vergabestelle;"05_Angebot_Rautenbau.pdf; 06_Angebot_Okerfenster.pdf; 07_Angebot_Bergglas.pdf";Export;geschützter Arbeitsordner
+2026-10-05T14:05:18+02:00;Blume;Kantenraum;09_Produktblatt_OV78.pdf;Lesen;zugelassen
+2026-10-05T14:11:42+02:00;Kern;Kantenraum;08_Preisdaten_Export.csv;Download Arbeitskopie;zugelassen
+2026-10-06T08:46:03+02:00;Möller;Kämmerei;07_Angebot_Bergglas.pdf;Lesen;mangels Einzelberechtigung abgewiesen
+2026-10-06T09:12:24+02:00;Ehlers;Vergabestelle;Freigaben externer Versand;Statusabfrage;keine Versandfreigabe vorhanden

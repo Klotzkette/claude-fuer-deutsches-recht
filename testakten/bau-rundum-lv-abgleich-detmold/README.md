@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-lv-abgleich-detmold_gesamt.pdf`](gesamt-pdf/bau-rundum-lv-abgleich-detmold_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-lv-abgleich-detmold.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-lv-abgleich-detmold.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-lv-abgleich-detmold.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-lv-abgleich-detmold.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -28,7 +28,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- END gesamt-pdf-section (autogen) -->
 
-Autor: Klotzkette. Aktenstand: 2026-09-18. Zugeordnetes Plugin: `bauwirtschaft-anfaenger`.
+Autor: Klotzkette. Aktenstand: 2026-09-22. Zugeordnetes Plugin: `bauwirtschaft-anfaenger`.
 
 Zwei Fassungen der Baubeschreibung, ein noch nicht freigegebenes Ausbau-LV und eigenständige Planungsbeiträge für den Umbau eines privaten Lernateliers.
 
@@ -52,14 +52,14 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/bau-rundum-lv-abgleich-detmold_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-lv-abgleich-detmold.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-lv-abgleich-detmold.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="originalunterlagen"></a>
 
 ## 1.4. Originalunterlagen
 
-12 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
+17 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -79,6 +79,11 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | [10_Seeger_Dateiversand.eml](10_Seeger_Dateiversand.eml) | EML |
 | [11_Planlauf_Notizen.txt](11_Planlauf_Notizen.txt) | TXT |
 | [12_Raumschema.png](12_Raumschema.png) | PNG |
+| [13_Oeffnungsbericht_Boden.pdf](13_Oeffnungsbericht_Boden.pdf) | PDF |
+| [14_Sockelstrecken.csv](14_Sockelstrecken.csv) | CSV |
+| [15_Lieferauskunft_Boden.docx](15_Lieferauskunft_Boden.docx) | DOCX |
+| [16_Tueroeffnung_T12.pdf](16_Tueroeffnung_T12.pdf) | PDF |
+| [17_Roemer_Musterlieferung.eml](17_Roemer_Musterlieferung.eml) | EML |
 
 <!-- decimal-anchor --> <a id="erzeugung-und-qualitätssicherung"></a>
 

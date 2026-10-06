@@ -15,6 +15,9 @@ checks:
   - id: fachpruefung-4
     check_type: human_review
     description: "Skizzen nicht als Fotos oder Messpläne bezeichnen; angebotene Termine nicht zu gesetzten Fristen und Beobachtungen nicht zu bewiesenen Ursachen umdeuten."
+  - id: fachpruefung-5
+    check_type: human_review
+    description: "Servicebeobachtungen vom 24.09. zeitlich von der Begehung trennen; kurze Bedienproben, relative Oberflächenhöhen und Materialrücklauf nicht als umfassende Mangelfreiheit oder Verursachungsbeweis behandeln."
   - id: original-01
     check_type: file_exists
     path: "01_Lenz_an_Doering.eml"
@@ -71,3 +74,23 @@ checks:
     check_type: file_exists
     path: "14_Elektro_Termin.eml"
     description: "Eigenständige Originalunterlage 14_Elektro_Termin.eml"
+  - id: original-15
+    check_type: file_exists
+    path: "15_Servicebericht_WT2.pdf"
+    description: "Eigenständige Originalunterlage 15_Servicebericht_WT2.pdf"
+  - id: original-16
+    check_type: file_exists
+    path: "16_Oberflaechenablesungen.csv"
+    description: "Eigenständige Originalunterlage 16_Oberflaechenablesungen.csv"
+  - id: original-17
+    check_type: file_exists
+    path: "17_Materialbeleg_Fenstertreu.pdf"
+    description: "Eigenständige Originalunterlage 17_Materialbeleg_Fenstertreu.pdf"
+  - id: original-18
+    check_type: file_exists
+    path: "18_Serviceblatt_L14.docx"
+    description: "Eigenständige Originalunterlage 18_Serviceblatt_L14.docx"
+  - id: original-19
+    check_type: file_exists
+    path: "19_Voss_Einsatzunterlagen.eml"
+    description: "Eigenständige Originalunterlage 19_Voss_Einsatzunterlagen.eml"

@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-abschlagsrechnung-lemgo_gesamt.pdf`](gesamt-pdf/bau-rundum-abschlagsrechnung-lemgo_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-abschlagsrechnung-lemgo.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-abschlagsrechnung-lemgo.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Kumulative Rohbaurechnung mit fortgeschriebenen Mengen, zwei unterschiedlich beh
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-abschlagsrechnung-lemgo`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-16 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -72,15 +72,21 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 14 | [14_Zahlungsmitteilung.docx](14_Zahlungsmitteilung.docx) | 20.07.2026 | Mitteilung zum zweiten Abschlag |
 | 15 | [15_Buchhaltung_Rueckfrage.eml](15_Buchhaltung_Rueckfrage.eml) | 04.08.2026 | WB-26098: Abzug der Zahlungen und Sockelbereich |
 | 16 | [16_Baubesprechung_30_Juli.docx](16_Baubesprechung_30_Juli.docx) | 30.07.2026 | Baubesprechung Werkflügel |
+| 17 | [17_Einsatzbericht_Wasserhaltung.docx](17_Einsatzbericht_Wasserhaltung.docx) | 20.07.2026 | Einsatzbericht zur Pumpe im südlichen Arbeitsraum |
+| 18 | [18_Zwischenzaehler_Sued.csv](18_Zwischenzaehler_Sued.csv) | 18.07.2026 | Ablesungen Zwischenzähler ZS4 |
+| 19 | [19_Werkstattmeldung_Anschlussplatten.pdf](19_Werkstattmeldung_Anschlussplatten.pdf) | 29.07.2026 | Anschlussplatten für die Stützen ST291 |
+| 20 | [20_Arbeitsbericht_Sockelnacharbeit.docx](20_Arbeitsbericht_Sockelnacharbeit.docx) | 04.08.2026 | Arbeitsbericht westliche Türschwelle |
+| 21 | [21_Geraetenachweise_N02.eml](21_Geraetenachweise_N02.eml) | 04.08.2026 | QB-26: Geräteblatt P17 und Ablesungen ZS-4 |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
 ## 1.5. Reproduktion und Grenzen
 
 Erzeugung: `scripts/build-bau-rundum-vertiefung.py --case bau-rundum-abschlagsrechnung-lemgo`.
+Ergänzungsbau mit `--new-only` erhält vorhandene Originale bytegleich. Die neuen Nummern 17 bis 21 können mit `--check --qa --docx-qa --qa-from 17` gesondert gerendert werden.
 Prüfung: derselbe Aufruf mit `--check`; zusätzliche native Neuberechnung und Quellrendering mit `--qa`.
 Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlich die fünf zugewiesenen Abläufe.
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.

@@ -1,3 +1,17 @@
+# bauwirtschaft-rundum-v445.33.2 - Praxisakten mit zusätzlichen Originalbelegen
+
+## 1. Bestehende Fälle vertieft
+
+Alle zehn Seminarakten erhalten weitere eigenständig ausformulierte Unterlagen. Serviceberichte, Messreihen, Lieferauskünfte, Zugangs- und Personalaufzeichnungen sowie Projektkorrespondenz ergänzen die bisherigen Vorgänge. Die neuen Belege konkretisieren Sachverhalt und abweichende Wahrnehmungen der Beteiligten, ohne eine Musterlösung vorzugeben. Frühere Dokumente behalten ihren damaligen Stand.
+
+## 2. Vollständige Ausgabeformen
+
+Gesamt-PDFs, Einzel-PDF-ZIPs und Originalformat-ZIPs werden aus dem erweiterten Bestand neu gebaut. Beide ZIP-Varianten bleiben flach; E-Mails enthalten tatsächliche Anlagen. Aktenverzeichnisse und Downloadadressen führen auf die neue Teilversion. Skills, Prompts und Marketplace-Version bleiben unverändert.
+
+## 3. Zusätzliche Exportprüfung
+
+Regressionstests gleichen vollständige Absätze aus Word-Dateien, E-Mails, Textnotizen und Original-PDFs mit dem Gesamt-PDF ab. Eine weitere Prüfung sichert den Zuwachs pro Akte, die Mischung der Dateiformate und die Verzeichnung jedes Originals. Bestehende Prüfungen für Rechnungswerte, Positionsnummern, E-Mail-Anhänge und Archivgrenzen bleiben erhalten.
+
 # bauwirtschaft-rundum-v445.33.1 - Zwei aufeinander abgestimmte Seminarpakete
 
 ## 1. Grundlagen und Vertiefung

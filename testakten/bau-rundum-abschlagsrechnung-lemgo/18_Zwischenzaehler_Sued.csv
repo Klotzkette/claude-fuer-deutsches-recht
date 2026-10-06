@@ -1,0 +1,7 @@
+Datum;Uhrzeit;Zähler;Stand_kWh;Ableser;Angeschlossene_Verbraucher
+2026-07-06;10:20;ZS-4;120.0;Arndt;"P17; Arbeitsleuchte"
+2026-07-10;16:15;ZS-4;138.6;Arndt;"P17; Arbeitsleuchte"
+2026-07-13;07:05;ZS-4;149.1;Arndt;"P17; Arbeitsleuchte"
+2026-07-15;15:40;ZS-4;155.4;Brandt;"P17; Arbeitsleuchte; Bohrhammer"
+2026-07-16;16:00;ZS-4;160.8;Arndt;"P17; Arbeitsleuchte"
+2026-07-18;08:05;ZS-4;166.2;Arndt;vor Abklemmen P17

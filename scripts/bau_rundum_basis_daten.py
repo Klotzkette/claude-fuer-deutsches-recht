@@ -6,9 +6,9 @@ def dokument(datei, titel, absender, empfaenger, datum, zeichen, *seiten):
                 datum=datum, zeichen=zeichen, seiten=seiten)
 
 
-def mail(datei, absender, empfaenger, datum, betreff, text, antwort=None):
+def mail(datei, absender, empfaenger, datum, betreff, text, antwort=None, anlagen=None):
     return dict(datei=datei, absender=absender, empfaenger=empfaenger, datum=datum,
-                betreff=betreff, text=text, antwort=antwort)
+                betreff=betreff, text=text, antwort=antwort, anlagen=anlagen)
 
 
 def tabelle(kopf, zeilen, breiten):
@@ -18,7 +18,7 @@ def tabelle(kopf, zeilen, breiten):
 AKTEN = {
     "bau-rundum-begehung-einbeck": {
         "titel": "Begehung des Nachbarschaftshauses Kieselgarten in Einbeck",
-        "stand": "2026-09-23",
+        "stand": "2026-09-25",
         "beschreibung": "Begehungsmemo, Randnotizen, Messwerte und zwei illustrierte Befundskizzen zu Ausbauarbeiten; getrennte Vertrags- und Abnahmestände der beteiligten Gewerke.",
         "dokumente": [
             dokument("02_Begehungsmemo.docx", "Begehungsmemo Kieselgarten", "Maren Döring | Bauüberwachung Döring und Stettner", "Projektablage KG 26 | Heike Lenz", "22.09.2026, 12:10 Uhr", "KG-26 / BM-09 / Fassung 1",
@@ -236,7 +236,7 @@ Dieser Kalender hält Zugangsmöglichkeiten fest. Er enthält keine an Firmen ge
 
 AKTEN["bau-rundum-lv-abgleich-detmold"] = {
     "titel": "Baubeschreibung und Ausbau LV für das Lernatelier Bachwinkel in Detmold",
-    "stand": "2026-09-18",
+    "stand": "2026-09-22",
     "beschreibung": "Zwei Fassungen der Baubeschreibung, ein noch nicht freigegebenes Ausbau-LV und eigenständige Planungsbeiträge für den Umbau eines privaten Lernateliers.",
     "dokumente": [
         dokument("02_Baubeschreibung_01.pdf", "Baubeschreibung Lernatelier Bachwinkel", "Nora Küster | Planungsbüro Raumkante", "Bachwinkel Lernen GmbH | Ole Reinhold", "02.09.2026", "BW-26 / BB-01 / Fassung zur Nutzerbesprechung",
@@ -467,7 +467,7 @@ Stand 18.09.2026, 08:20 Uhr
 
 AKTEN["bau-rundum-bieterfragen-celle"] = {
     "titel": "Leistungsbeschreibung und Bieterpost zum Lesesaal Finkenstieg in Celle",
-    "stand": "2026-09-25",
+    "stand": "2026-09-28",
     "beschreibung": "Öffentliche Bauvergabe einer Lesesaalmodernisierung mit vorläufiger Leistungsbeschreibung, Bestandsdaten, Produktnotiz und später eingegangenen Bieterfragen. Antworten und Berichtigung sind noch nicht erstellt.",
     "dokumente": [
         dokument("02_Vergabedaten.pdf", "Vergabedaten Lesesaal Finkenstieg", "Kommunaler Gebäudeverbund Finkenstieg | Zentrale Beschaffung", "Jana Wendel | Vergabesachbearbeitung", "17.09.2026", "KGF-26-41 / Verfahrensblatt 02",
@@ -882,7 +882,7 @@ Die Westschalung kam gestern 12:45. Damit können zwei Leute arbeiten, vielleich
 
 AKTEN["bau-rundum-baugrund-verden"] = {
     "titel": "Baugrundunterlagen für die Gerätehalle Weidenmaß in Verden",
-    "stand": "2026-09-21",
+    "stand": "2026-09-24",
     "beschreibung": "Dreiseitiger geotechnischer Kurzbericht mit zweitseitiger Ergänzung, Feldbelegen, Laborwerten und geändertem Laststand. Kennwerte, Einheiten und räumliche Geltungsgrenzen erfordern projektbezogene Ingenieurprüfung.",
     "dokumente": [
         dokument("02_Baugrundbericht.pdf", "Baugrundbericht Gerätehalle Weidenmaß", "Dr. Jule Hagedorn | Ingenieurgeologie Erdspur", "Weidenmaß Gerätedienst GmbH | Bernd Kessler", "04.09.2026", "EG-26-118 / Bericht 01 / Umfang 3 Seiten",
@@ -1091,3 +1091,419 @@ Eingang neue Laborwerte 17.09.; Wasserliste fortgeführt bis 16.09. Es fehlen dy
         "Östlichen Schluff, neue Sonderlasten, fehlende chemische Untersuchung und dynamische Angaben projektspezifisch berücksichtigen; Ingenieurprüfung und keine Ausführungsfreigabe.",
     ],
 }
+
+# Fortlaufende Originale; frühere Schriftstücke behalten ihren damaligen Stand.
+AKTEN["bau-rundum-begehung-einbeck"]["dokumente"].extend([
+    dokument("15_Servicebericht_WT2.pdf", "Serviceeinsatz am Waschtisch WT2", "Alina Voß | Quellwerk Sanitär GmbH", "Heike Lenz | Nachbarschaft Kieselgarten e. V.", "24.09.2026, 10:05 Uhr", "QW-26-193 / Serviceblatt 1",
+        """1 Zugang und Ausgangszustand
+
+Frau Lenz öffnete uns heute um 08:35 Uhr das Haus am Kieselgartenweg 14. Ich war mit Monteur Enno Tietz bis 09:25 Uhr im Waschraum 0.06. Unter WT2 stand der am Dienstag aufgestellte Eimer mit wenig Wasser. Da der Eimer zwischenzeitlich nicht geleert und abgelesen worden war, lässt sich daraus keine Tropfmenge pro Stunde bestimmen. Armatur und Eckventil waren geschlossen. Ein feuchter Lappen lag seitlich im Unterschrank und berührte den Anschluss nicht.
+
+Nach dem Trocknen aller sichtbaren Anschlussflächen öffneten wir um 08:43 Uhr das Eckventil und anschließend die Armatur. Nach etwa einer Minute bildete sich ein Tropfen an der Überwurfmutter des Anschlussschlauchs oberhalb des Kaltwasser-Eckventils. Der Siphon blieb während dieser Beobachtung trocken. Wir haben anschließend abgesperrt und die Flachdichtung dieser Verbindung herausgenommen. An einer Kante war die Dichtung eingeklemmt. Das am 16.09. eingesetzte Eckventil haben wir nicht erneut ersetzt.
+
+2 Ausgeführte Arbeit und Beobachtung
+
+Enno Tietz setzte eine neue Dichtung ein und montierte den Schlauch ohne seitlichen Zug. Von 08:58 bis 09:13 Uhr blieb die Verbindung bei mehreren Bedienungen der Armatur äußerlich trocken. Frau Lenz war bei der letzten Bedienung dabei. Die kurze Beobachtung erfasst diesen Anschluss, nicht sämtliche verdeckten Trinkwasserleitungen des Gebäudes. Die ausgenommene Dichtung wurde in einem beschrifteten Beutel im Servicefahrzeug verwahrt; wir bewahren sie bis 09.10. im Betrieb auf.
+
+Auf dem Einsatzblatt sind 50 Minuten Anwesenheit für zwei Beschäftigte und eine Dichtung vermerkt. Ein neuer Auftragspreis oder eine Zahlung wurde vor Ort nicht vereinbart. Frau Lenz bestätigte um 09:25 Uhr lediglich unseren Zugang und die Anwesenheitszeit. Sie unterschrieb keine Abnahmeerklärung und sagte, die vorgesehene Firmenbesichtigung am 29.09. bleibe bestehen.
+
+3 Bodenablauf
+
+Den Ablaufrost haben wir angehoben. Im Geruchverschluss lag etwas Mörtelkorn; der Einsatz wurde gereinigt und wieder eingesetzt. Der äußere Rahmen blieb unverändert. Die Reinigung sagt nichts über die Höhe der angrenzenden Fliesen aus. Frau Döring kündigte eine getrennte Aufnahme der Oberfläche an. Während unseres Einsatzes wurde keine erneute Wasserprobe über die gesamte Bodenfläche gemacht. Der Zugang zum Waschraum blieb danach für Besucher gesperrt.
+
+Alina Voß | a.voss@quellwerk.example"""),
+    dokument("17_Materialbeleg_Fenstertreu.pdf", "Materialausgabe für die Fensteranschlüsse", "Hanne Birk | Bauelementehandel Falzgrund GmbH", "Glaserei Fenstertreu GmbH | Tessa Ahrens", "14.08.2026, 14:20 Uhr", "FG-26-804 / Abholbeleg / Kundennummer 2048",
+        ["""1 Ausgegebene Ware
+
+Leon Witte holte heute am Lager Flechtgasse 21 in Einbeck das von Tessa Ahrens bestellte Anschlussmaterial ab. Auf dem Abholauftrag steht als Bauvorhaben „Kieselgarten, Erdgeschoss“. Die Ware wurde kartonweise ausgegeben. Unsere Chargenangaben beziehen sich auf die Verpackung; an welchem einzelnen Fenster später ein Abschnitt eingesetzt wird, wird im Lager nicht erfasst.""",
+         tabelle(["Material", "Menge", "Kennzeichnung"], [
+             ["Inneres Anschlussband, Breite 75 mm", "4 Rollen zu 25 m", "Charge IB-2607-18"],
+             ["Untergrundvorbehandlung", "2 Gebinde zu 1 l", "Charge UV-2606-09"],
+             ["Andruckrolle", "1 Stück", "Leihgerät AR-17"],
+             ["Abdeckband für Transport", "2 Rollen zu 50 m", "nicht als Anschlussabdichtung ausgegeben"],
+         ], [0.47, 0.23, 0.30]),
+         """2 Verpackung und Übergabe
+
+Die vier Rollen Anschlussband waren bei Ausgabe verschlossen. Auf den Gebinden der Untergrundvorbehandlung war kein Frostschaden erkennbar; die Lagerung nach Abholung wurde von uns nicht überwacht. Die Anwendungshinweise lagen im Karton. Dieser Beleg enthält keine Aussage darüber, ob die konkrete Laibung am Fenster F07 geeignet vorbereitet war oder die Verarbeitungshinweise dort eingehalten wurden.
+
+Herr Witte bestätigte die Vollständigkeit der oben genannten Mengen um 14:20 Uhr. Er nahm zunächst alle vier Rollen mit, obwohl seine telefonische Vorbestellung drei Rollen genannt hatte. Frau Ahrens hatte die Bestellung um 13:10 Uhr auf vier Rollen erhöht. Der Rechnungsversand erfolgt gesammelt zum Monatsende; dieser Beleg ist keine Rechnung und enthält keine Zahlungsbestätigung.
+
+3 Rücklaufvermerk vom 20 August
+
+Am 20.08. brachte Tessa Ahrens zwei ungeöffnete Rollen derselben Charge sowie das Leihgerät zurück. Zurückgenommen wurden damit 50 m Band; die übrigen 50 m wurden nicht in unser Lager zurückgebracht. Daraus lässt sich die am Bau tatsächlich eingebaute Länge nicht bestimmen, weil Reststücke und angebrochene Rollen beim Kunden verbleiben. Eine Zuordnung des verbliebenen Materials zu F06 oder F07 ist auf unserem Beleg nicht eingetragen.
+
+Hanne Birk | h.birk@falzgrund.example. Rücklaufvermerk hinzugefügt am 20.08.2026, 09:40 Uhr."""]),
+    dokument("18_Serviceblatt_L14.docx", "Serviceblatt Flurbeleuchtung", "Nils Bödeker | Elektro Faden GmbH", "Heike Lenz | Nachbarschaft Kieselgarten e. V.", "24.09.2026, 14:25 Uhr", "EF-2628 / Service 03",
+        """1 Beobachtung an L14
+
+Ich war heute von 13:04 bis 14:10 Uhr im Nachbarschaftshaus. Frau Lenz schloss auf und blieb bis 13:35 Uhr im Flur. Bei der ersten gemeinsamen Betätigung leuchtete L13 sofort, L14 dagegen erst nach erneutem Aus- und Einschalten. Damit trat das am 22.09. beschriebene Verhalten auch heute auf. Der Aufkleber am Gehäuse lautet L14; an L12 wurde nicht gearbeitet.
+
+Nach Abschaltung des betroffenen Stromkreises habe ich die zugänglichen Anschlussstellen kontrolliert. Ein gelöster Leiter war dort nicht erkennbar. Das Schaltgerät von L14 trug die Kennung EF-C26145. Ich tauschte es gegen ein Gerät derselben vorgesehenen Ausführung aus dem Servicebestand aus. Den Bewegungsmelder habe ich nicht gewechselt und seine Einstellungen nicht verändert. Das ausgebaute Gerät befindet sich mit Datum und Leuchtennummer beschriftet in unserem Büro; eine Untersuchung durch den Lieferanten ist noch nicht erfolgt.
+
+2 Bedienprobe und Restpunkte
+
+Nach Wiederherstellung des betroffenen Anschlusses wurde L14 zwischen 13:42 und 13:55 Uhr zehnmal betätigt. Sie schaltete bei diesen Versuchen jedes Mal zusammen mit L13 ein. Die kurze Bedienprobe liefert keine Aussage über ein mögliches Wiederauftreten nach längerer Betriebszeit. Die bisherige Vermutung eines Melderfehlers ist durch den bloßen Gerätetausch nicht als Ursache nachgewiesen.
+
+Die Stromkreiskennzeichnungen an S07 und S08 habe ich angebracht. Die Abdeckung D09 sitzt bei äußerer Kontrolle weiterhin fest. Für die Datenverkabelung fehlt in unserem Büro noch die zusammengeführte Messdatei; ich habe Frau Lenz heute keinen Datenmessbericht übergeben. Die Kennzeichnung der Steckdosen und die Beschaffung dieses Berichts sind zwei getrennte Vorgänge.
+
+3 Ablage
+
+Frau Lenz hat den Austausch nicht selbst beobachtet, weil sie ab 13:35 Uhr ein Telefonat führte. Sie sah anschließend beide leuchtenden Flurlampen. Dieses Serviceblatt stammt von mir; ein gemeinsam unterschriebenes Abschlussprotokoll wurde heute nicht erstellt. Das Elektro-Abnahmeblatt vom 10.09. wurde nicht neu ausgefertigt. Eine gesonderte Kostenvereinbarung kam bei meinem Besuch nicht zustande.
+
+Nils Bödeker | n.boedeker@elektro-faden.example"""),
+])
+AKTEN["bau-rundum-begehung-einbeck"]["csv"]["16_Oberflaechenablesungen.csv"] = (
+    ["Punkt", "Datum_Zeit", "Lage_zum_Rost", "Abstand_mm", "Relative_Höhe_mm", "Bezug", "Verfahren", "Erfasserin"], [
+        ["R0", "2026-09-24T09:45:00+02:00", "Rostoberkante Mitte", "0", "0", "R0 gleich 0 mm", "Laser und Messlatte; Ablesung auf 1 mm", "Maren Döring"],
+        ["W1", "2026-09-24T09:47:00+02:00", "westlich", "60", "-3", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+        ["W2", "2026-09-24T09:49:00+02:00", "westlich", "120", "-4", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+        ["W3", "2026-09-24T09:51:00+02:00", "westlich", "240", "-2", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+        ["N1", "2026-09-24T09:53:00+02:00", "nördlich", "240", "7", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+        ["O1", "2026-09-24T09:55:00+02:00", "östlich", "240", "9", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+        ["S1", "2026-09-24T09:57:00+02:00", "südlich", "240", "6", "R0 gleich 0 mm", "Oberflächenpunkt; kein Untergrundaufschluss", "Maren Döring"],
+    ])
+AKTEN["bau-rundum-begehung-einbeck"]["mails"].append(
+    mail("19_Voss_Einsatzunterlagen.eml", "Alina Voß <a.voss@quellwerk.example>", "Maren Döring <m.doering@doering-stettner.example>", "2026-09-25T07:42:00+02:00", "Kieselgarten: unser gestriger Einsatz und Ihre Höhenablesungen",
+        """Sehr geehrte Frau Döring,
+
+anbei ist mein Serviceblatt vom gestrigen Morgen. Außerdem leite ich Ihre um 16:10 Uhr übersandte Messdatei unverändert mit zurück, damit Herr Falk denselben Zahlenstand erhält. Ich war bei der Höhenaufnahme nicht mehr anwesend. Die Werte sind daher Ihre Aufnahme und keine von Quellwerk bestätigte Vermessung.
+
+Am Anschluss WT2 war nach unserem Eingriff während der beschriebenen Probe kein weiterer Tropfen sichtbar. Frau Lenz rief mich gestern um 17:20 Uhr an: Das untergelegte trockene Papier sei noch trocken gewesen. Eine darüber hinausgehende Beobachtung liegt mir heute früh nicht vor. Am Ablauf haben wir nur den Einsatz gereinigt und wieder eingelegt. Der Rahmen wurde weder höher noch tiefer gesetzt.
+
+Herr Falk erreichte mich gestern um 15:05 Uhr. Er möchte die westlichen Fliesen vor einer Entscheidung gemeinsam ansehen. Einen Ausbau einzelner Fliesen haben wir in diesem Telefonat nicht vereinbart. Ich kann am Montag um 08:30 Uhr kommen; ob Fenstertreu zu diesem Zeitpunkt am Fenster arbeitet, weiß ich nicht. Das ist ein Terminvorschlag und keine schon bestätigte gemeinsame Fertigmeldung.
+
+Mit freundlichen Grüßen
+Alina Voß
+Quellwerk Sanitär GmbH""", anlagen=["15_Servicebericht_WT2.pdf", "16_Oberflaechenablesungen.csv"]))
+AKTEN["bau-rundum-begehung-einbeck"]["pruefung"].append(
+    "Servicebeobachtungen vom 24.09. zeitlich von der Begehung trennen; kurze Bedienproben, relative Oberflächenhöhen und Materialrücklauf nicht als umfassende Mangelfreiheit oder Verursachungsbeweis behandeln.")
+
+AKTEN["bau-rundum-lv-abgleich-detmold"]["dokumente"].extend([
+    dokument("13_Oeffnungsbericht_Boden.pdf", "Örtliche Öffnung des Bodenaufbaus", "Joris Heuer | Bodenwerk Heuer GmbH", "Nora Küster | Planungsbüro Raumkante", "18.09.2026, 16:40 Uhr", "BH-2619 / Aufnahme Bachwinkel",
+        """1 Anlass und Zugang
+
+Ich habe heute von 14:35 bis 15:50 Uhr mit Nora Küster und Ole Reinhold drei kleine Öffnungen im vorhandenen Bodenbelag angesehen. Herr Reinhold hatte die Öffnungen vorher gestattet. Untersucht wurden eine Stelle an der Außenwand von 0.11, eine Stelle neben der Zugangstür von 0.12 und eine Stelle am Flurende vor 0.13. Wir haben keine zusammenhängende Raumfläche abgeräumt. Das Gebäude wurde währenddessen nicht als Lernatelier genutzt.
+
+In 0.11 ließ sich eine ungefähr 20 × 20 cm große Belagfläche abheben. Unter dem oberen Belag blieb eine dunkle Klebstoffschicht auf einer harten Spachtellage zurück. Mit dem Handspachtel ließ sich die Spachtellage am Rand örtlich ablösen. Wir haben die Schichten weder analysiert noch die gesamte Haftung gemessen. Der Farbe nach kann ich keinen bestimmten Klebstoff oder Inhaltsstoff benennen. Schleifarbeiten fanden nicht statt.
+
+2 Weitere Stellen
+
+In 0.12 war unter dem vorhandenen Belag eine glatte, helle Spachtelschicht zu sehen. Sie blieb bei unserer kleinen Öffnung fest. Im Flur stießen wir am Rand der Öffnung auf einen Riss, dessen Fortsetzung unter dem übrigen Belag nicht sichtbar war. Die Stelle liegt etwa 1,10 m vor der Tür zum Teeraum. Die Abdeckung wurde anschließend wieder geschlossen und mit Klebeband gegen Hochstehen gesichert. Eine neue Bodenfläche wurde nicht hergestellt.
+
+Die beiden bereits bekannten losen Fliesen in 0.13 liegen unmittelbar vor der ehemaligen Küchenzeile. An einer herausgenommenen Fliese maß ich 197 × 197 mm bei etwa 7 mm Dicke; das Verlegefeld ist auf ein Nennformat von 20 × 20 cm angelegt. Eine seriengleiche Ersatzfliese konnte Herr Reinhold nicht vorlegen. Eine noch vorhandene Reservefliese aus dem Keller ist sichtbar heller und rund 1 mm dicker. Sie wurde nicht eingebaut.
+
+3 Festgehaltener Umfang
+
+Die Öffnungen belegen nur den Zustand an den genannten Punkten. Ich habe weder Restfeuchte noch Ebenheit oder eine mögliche Schadstoffbelastung bestimmt. Mein heutiger Einsatz ist keine Kalkulation der vollständigen Untergrundvorbereitung für 96,00 m². Frau Küster nahm die abgehobenen Stücke in beschrifteten Beuteln mit. Für eine Entscheidung über einen flächigen Abtrag fehlen uns weitere Erkenntnisse; vor Ort wurde kein Schleif- oder Abbruchauftrag erteilt.
+
+Joris Heuer | j.heuer@bodenwerk-heuer.example"""),
+    dokument("15_Lieferauskunft_Boden.docx", "Lieferauskunft zu Linoleum und Sockeln", "Maja Römer | Belaghandel Bahnenraum GmbH", "Ralf Seeger | Planungsbüro Raumkante", "21.09.2026, 11:10 Uhr", "BR-26-512 / unverbindliche Auskunft",
+        """1 Angefragte Ausführung
+
+Sehr geehrter Herr Seeger, Sie haben uns am Freitag nach Material für 96,00 m² Einbaufläche in drei Räumen gefragt. Für die von Ihnen benannte Linoleumausführung führen wir Rollenware mit 2,00 m Breite. Die Menge des zu bestellenden Materials ergibt sich erst aus der Bahnenaufteilung und den nutzbaren Abschnittslängen. Die Einbaufläche ist daher nicht ohne Weiteres die Liefermenge. Ihre Zahl 105,60 m² habe ich als früheren pauschalen Verschnittansatz verstanden, nicht als von uns berechneten Materialbedarf.
+
+Für drei derzeit verfügbare gedeckte Farbtöne können wir Musterabschnitte bereitstellen. Beim graugrünen Ton stammen die momentan lagernden Abschnitte aus zwei Fertigungslosen. Eine zusammenhängende Lieferung aus nur einem Los wäre nach heutiger Auskunft frühestens in der Kalenderwoche 43 verfügbar. Ein bestimmtes Los haben wir für Bachwinkel noch nicht reserviert. Die Räume mit gleichem Belag müssen nicht zwangsläufig aus unterschiedlich gefärbten Losen beliefert werden; dafür brauchen wir die endgültige Auswahl und Schnittliste.
+
+2 Sockel
+
+Sockelstreifen aus derselben Rollenware können mit 100 mm Höhe geschnitten werden. Eine werkseitig angeformte Hohlkehle ist damit noch nicht geliefert. Für diese Variante wären ein anderes Detail und zusätzliche Formteile erforderlich. In Ihrer Anfrage vom 18.09. stand nur „Sockel aus demselben Material“. Ich habe deshalb weder Hohlkehlprofile noch vorgefertigte Außenwinkel in eine Mengenannahme aufgenommen. Ein örtlich aus Streifen hergestellter Sockel hat einen anderen Lieferumfang als ein fertiges Formteil.
+
+Die im Gespräch genannten 67,20 m sind die abgeleitete Einbaulänge. Für Bestellung und Zuschnitt müssen die Einzelstrecken betrachtet werden. Wir verkaufen die Streifen nicht automatisch als genau 67,20 m ohne Schnittverluste. Eine Vermischung von Materialbestellung und späterem Aufmaß würde Ihnen zwei unterschiedliche Mengen liefern.
+
+3 Fliesen und Verfügbarkeit
+
+Die von Herrn Heuer gemessene Bestandsfliese mit 197 × 197 mm und ungefähr 7 mm Dicke können wir aus unserem aktuellen Lager nicht seriengleich zuordnen. Zwei optisch ähnliche Muster in anderen Dicken wären verfügbar. Sie sind keine bestätigten Ersatzstücke. Es liegt weder eine Materialbestellung noch ein Angebotspreis für den gesamten Ausbau vor. Diese Auskunft ersetzt keine Entscheidung des Nutzers über Farbe oder sichtbare Abweichungen.
+
+Mit freundlichen Grüßen
+Maja Römer | m.roemer@bahnenraum.example"""),
+    dokument("16_Tueroeffnung_T12.pdf", "Aufnahme der vorhandenen Türöffnung T12", "Nora Küster | Planungsbüro Raumkante", "Elke Mertens | Ingenieurbüro Brandlinie", "21.09.2026, 15:45 Uhr", "BW-T-A1 / örtliche Aufnahme",
+        ["""1 Bestand am 21 September
+
+Ole Reinhold und ich haben heute um 14:10 Uhr die Türöffnung vom Flur 0.10 zu Raum 0.12 angesehen. Die alte Zarge war noch eingebaut. Ihre Abdeckungen wurden an zwei kurzen Stellen gelöst und wieder befestigt. Die freie Breite wurde bei ungefähr rechtwinklig geöffnetem Türblatt zwischen dessen vorspringender Kante und der gegenüberliegenden Zarge aufgenommen. Gemessen wurde der Bestand, nicht eine bestellte neue Türkonstruktion.""",
+         tabelle(["Messstelle", "Ablesung", "Grenze der Aufnahme"], [
+             ["Freier Durchgang im Bestand", "0,89 m", "bei etwa 90° geöffnetem Blatt"],
+             ["Sichtbares Mauerwerk unten", "1,01 m", "nur örtlich freigelegte Zargenränder"],
+             ["Sichtbares Mauerwerk oben", "1,00 m", "Putzreste im Anschluss belassen"],
+             ["Wanddicke neben Zarge", "115 mm", "ohne die beidseitigen Putzschichten"],
+         ], [0.39, 0.19, 0.42]),
+         """2 Anschlüsse
+
+Die Bestandswand neben T12 ist Mauerwerk und nicht die neue 125-mm-Trennwand zwischen den Gruppenräumen. Beide Bauteile dürfen in der weiteren Planung nicht verwechselt werden. Links neben der Zarge verläuft ein alter Kabelkanal bis zur Decke. Ob Leitungen im verdeckten Anschlussbereich liegen, wurde nicht geöffnet. Über der Öffnung ist ein Sturz sichtbar; seine Bewehrung und Auflager wurden heute nicht untersucht.
+
+3 Unterlagenstand
+
+Die in BB-02 genannte lichte Breite von 1,00 m bezeichnet die geplante neue Tür, nicht das Ergebnis dieser Bestandsaufnahme. Ein abschließend bemaßtes Türblatt BW-T-12/02 liegt weiterhin nicht in unserer gemeinsamen Ablage. Ich habe aus den örtlichen Ablesungen kein erforderliches Rohbaumaß für ein noch nicht ausgewähltes Türsystem festgelegt. Auch eine Verbreiterung der Öffnung wurde heute nicht ausgeführt oder beauftragt.
+
+Herr Reinhold hatte den Türdurchgang bisher als „ungefähr einen Meter“ bezeichnet. Er war bei der Messung anwesend und bestätigte, dass diese ältere Angabe keine lichte Durchgangsmessung war. Die Tür schlug in Raum 0.12 auf. Beschlag und Blatt blieben nach unserem Termin unverändert in Betrieb.
+
+Nora Küster | n.kuester@raumkante.example"""]),
+])
+AKTEN["bau-rundum-lv-abgleich-detmold"]["csv"]["14_Sockelstrecken.csv"] = (
+    ["Raum", "Wandpaar", "Bruttolänge_m", "Abzug_m", "Sockellänge_m", "Abzugsgrund", "Stand", "Ersteller"], [
+        ["0.11", "beide Längswände", "18,00", "1,80", "16,20", "zwei Durchgänge zu je 0,90 m", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+        ["0.11", "beide Stirnwände", "9,60", "1,20", "8,40", "fester bodenbündiger Schranksockel", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+        ["0.12", "beide Längswände", "12,00", "1,00", "11,00", "Planungsansatz Tür T12; keine Bestandsablesung", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+        ["0.12", "beide Stirnwände", "9,60", "1,00", "8,60", "fester bodenbündiger Einbauschrank", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+        ["0.10", "beide Längswände", "24,00", "3,00", "21,00", "drei geplante Türanschlüsse zusammen", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+        ["0.10", "beide Stirnwände", "4,00", "2,00", "2,00", "Eingang und Hofanschluss zusammen", "BW-M-02; Einzelstrecken übertragen 18.09.2026", "Ralf Seeger"],
+    ])
+AKTEN["bau-rundum-lv-abgleich-detmold"]["mails"].append(
+    mail("17_Roemer_Musterlieferung.eml", "Maja Römer <m.roemer@bahnenraum.example>", "Ralf Seeger <r.seeger@raumkante.example>", "2026-09-22T09:35:00+02:00", "Bachwinkel: Musterabschnitte und Lieferauskunft BR-26-512",
+        """Sehr geehrter Herr Seeger,
+
+die drei Musterabschnitte gehen heute mit unserem Fahrer an Ihr Büro, nicht an die Baustelle. Meine Lieferauskunft vom 21.09. ist beigefügt. Die graugrüne Probe stammt aus Los 26-38, das derzeit nur für eine Teilmenge verfügbar ist. Die zwei anderen Muster sind Schiefergrau und gedecktes Rot; für diese liegen nach heutiger Lagerauskunft größere zusammenhängende Abschnitte vor. Eine verbindliche Verfügbarkeit im November kann ich ohne Reservierung nicht zusagen.
+
+Sie hatten am Telefon auch nach einem 8-cm-Sockel gefragt. Meine beigefügte Auskunft bezieht sich auf die danach per E-Mail genannten 100 mm. Ich habe keine Bestellung für die eine oder andere Höhe aufgenommen. Auf den Mustern steht deshalb nur die Material- und Farbbezeichnung; sie enthalten keine Entscheidung über die Sockelausführung.
+
+Für zwei Ersatzfliesen konnte unser Lager bislang keine passenden Restbestände finden. Die mitgeschickte hellere Probe sollte Herr Reinhold nicht für die bereits bestätigte Bestandsfarbe halten. Zu Untergrundklebern kann ich anhand einer Beschreibung der dunklen Schicht keine belastbare Aussage machen. Wir haben die Materialproben des ausgebauten Bodens nicht erhalten und keine Analyse vorgenommen.
+
+Mit freundlichen Grüßen
+Maja Römer
+Belaghandel Bahnenraum GmbH""", anlagen=["15_Lieferauskunft_Boden.docx"]))
+AKTEN["bau-rundum-lv-abgleich-detmold"]["pruefung"].append(
+    "Örtliche Boden- und Türbefunde, Lieferauskunft und Sockelstrecken zusätzlich quellenbezogen einordnen; Bestandsmaß, Planungsansatz, Einbaumenge und Liefermenge nicht gleichsetzen und Materialmuster nicht als Nutzerfreigabe behandeln.")
+
+AKTEN["bau-rundum-bieterfragen-celle"]["dokumente"].extend([
+    dokument("16_Lieferantendaten_LB595.pdf", "Technische Lieferauskunft LB 595", "Jochen Lau | Leuchtwerk Linienlicht GmbH", "Moritz Runge | Hellpfad Elektrotechnik GmbH", "25.09.2026, 14:15 Uhr", "LL-26-911 / Auskunft zur Anfrage vom 23.09.",
+        ["""1 Angefragtes Gerät
+
+Sehr geehrter Herr Runge, die nachstehenden Daten betreffen unsere Einlegeleuchte LB 595 in der Ausführung 840-S. Sie haben uns einen Auszug aus Position 02.010 für den Lesesaal in Celle übermittelt. Für diese Ausführung nennen wir die folgenden Lieferdaten; die ebenfalls lieferbare Ausführung 840-B hat ein anderes Betriebsgerät und ist in diesen Werten nicht mitbeschrieben.""",
+         tabelle(["Merkmal", "LB 595 / 840-S", "Anmerkung"], [
+             ["Außenmaß / Gehäusekörper", "595 × 595 / 568 × 568 mm", "Einlegebauart; keine Klemmbefestigung im Ausschnitt"],
+             ["Lichtfarbe / Anschlussleistung", "4.000 K / 29 W", "Nennbetrieb einschließlich Betriebsgerät"],
+             ["Lichtstrom", "3.600 lm", "Herstellerangabe für die beschriebene Ausführung"],
+             ["Betriebsgerät", "Steuereingang 1 bis 10 V", "zusätzlicher geschalteter Netzanschluss"],
+         ], [0.30, 0.29, 0.41]),
+         """2 Montage und Steuerung
+
+Der 595-mm-Rand liegt auf den tragenden Rasterprofilen auf. Das kleinere Gehäusemaß ist nicht das Maß der erforderlichen Auflage. Wir haben weder die Profilgeometrie noch die zulässige Belastung Ihrer Bestandsdecke geprüft. Die Angabe „600-mm-Raster“ allein reicht uns deshalb nicht für eine Montagebestätigung. Eine raumbezogene Aussage zur Blendungsbegrenzung setzt die konkrete Anordnung und Blickrichtungen voraus; mit diesem Brief liefern wir keine Berechnung für die 24 Leseplätze.
+
+Die Ausführung 840-S ist nicht unmittelbar über einen vorhandenen Zweidrahttaster dimmbar. Ein Taster und die Steuerschnittstelle des Betriebsgeräts sind unterschiedliche Bauteile. Ob zusätzliche Leitungen gebraucht werden, kann ich aus Ihrem Auszug nicht feststellen. Für die Ausführung 840-B würde eine andere Schnittstelle gelten; diese Variante wurde von Ihnen bislang nicht angefragt.
+
+3 Lieferung
+
+Nach heutiger Werksplanung wären 36 Stück aus einer Fertigungsserie in Kalenderwoche 44 lieferbar, wenn die endgültige Bestellung bis 02.10. eingeht. Diese Angabe ist noch keine Reservierung. Gegenüber unserem allgemeinen Sortimentsblatt vom Juni ist die Lieferzeit neu, nicht das Außenmaß. Wir haben weder eine Gleichwertigkeitsbestätigung zum genannten Lichtkontur-Produkt abgegeben noch eine Bemusterung für den Auftraggeber durchgeführt. Ein vollständiger Deckenumbau ist nicht Teil unserer Lieferauskunft.
+
+Jochen Lau | j.lau@linienlicht.example"""]),
+    dokument("17_Aufnahme_Steuerleitungen.docx", "Zweite Bestandsaufnahme Lesesaal", "Erik Tamm | Fachplanung Strompfad", "Daria Schenk | Technische Projektleitung KGF", "28.09.2026, 09:10 Uhr", "EL-B-08 / Ergänzung der örtlichen Aufnahme",
+        """1 Zugang und Abschaltung
+
+Frau Freese bestätigte den Termin am Freitag um 15:50 Uhr telefonisch. Heute öffnete sie um 07:02 Uhr. Ich arbeitete bis 08:22 Uhr im Lesesaal; eine örtliche Elektrofachkraft des Hausdienstes schaltete die betroffenen Lichtabgänge für die Aufnahme frei. Die Ausleihterminals blieben in Betrieb. Um 08:15 Uhr wurde die Beleuchtung wieder eingeschaltet, bevor der Nutzer um 09:00 Uhr öffnete. An der Anlage wurde nichts dauerhaft geändert.
+
+2 Zugängliche Leitungsabschnitte
+
+An den drei geöffneten Abzweigstellen über den Reihen 1, 3 und 5 führten jeweils dreiadrige Leitungsabschnitte zu den dort zugänglichen Leuchten. Die freie Länge ließ sich nur bis zum nächsten Profilfeld verfolgen. Ob weiter zurück in einer Trasse zusätzliche unbenutzte Leitungen liegen, blieb verdeckt. Eine Gesamtlänge haben wir nicht aufgenommen. Aus drei geöffneten Punkten ergibt sich deshalb keine belastbare neue Menge für die bislang angesetzten 180,00 m.
+
+Hinter der Bedienstelle waren erneut zwei angeschlossene Leiter sichtbar. Der Einsatz hatte keine lesbare Typkennzeichnung. Im Verteiler war ein Relais mit handschriftlichem Schild „Saal“ erkennbar. Eine Verbindung dieses Relais zu jedem einzelnen Abgang ließ sich in dem kurzen Zeitfenster nicht vollständig verfolgen. Die sechs freien Teilungseinheiten aus EL-B-07 sind weiterhin vorhanden. Ein für die neue Anlage geeigneter Steuerbus wurde heute nicht identifiziert; die Aufnahme beweist aber auch nicht, dass im gesamten Gebäude keine Busleitung liegt.
+
+3 Raster und Rückbau
+
+Frau Freese und ich maßen bei vier geöffneten Feldern die lichte Weite zwischen den sichtbaren Profilkanten. Die Einzelwerte stehen in der gesonderten Messliste. Die vorhandenen Platten lagen auf Profilen auf und wurden nicht zwischen Federklammern gehalten. Wir haben keinen Belastungsversuch an der Unterkonstruktion vorgenommen. Die Leuchten am nördlichen Regalband blieben bei dieser Aufnahme eingebaut, weil die vorgesehene kleine Arbeitsplattform dort nicht aufgestellt werden konnte.
+
+Das alte Verteilerschema aus dem Hausmeisterordner zeigt nur die Abgangsbezeichnungen und enthält kein vollständiges Steuerungsschema. Frau Freese fand keine jüngere Fassung. Ich habe alle geöffneten Platten wieder eingelegt. Dieser Bericht dokumentiert den Bestand an zugänglichen Punkten. Eine geänderte Leistungsbeschreibung oder freigegebene Steuerungsauslegung liegt damit nicht vor.
+
+Erik Tamm | e.tamm@strompfad.example"""),
+    dokument("18_Zugang_Aufmass.pdf", "Aufnahme des Materialwegs vom Hof", "Anke Freese | Hausdienst Finkenstieg", "Daria Schenk | Technische Projektleitung KGF", "28.09.2026, 10:20 Uhr", "KGF-26-41 / Zugang Z-01",
+        """1 Hof und Tür
+
+Nach dem Termin mit Herrn Tamm habe ich mit unserer Kollegin Livia Berg den Weg vom Hoftor zum Lesesaal abgemessen. Die 3,20 m breite Hofzufahrt aus NK-02 ist richtig. Hinter der Zufahrt führt der Weg jedoch durch eine zweiflügelige Außentür. Mit nur dem täglich benutzten Flügel beträgt die freie Breite 0,93 m; bei zusätzlich entriegeltem Standflügel haben wir 1,47 m gemessen. Die freie Höhe liegt bei 2,04 m. Am Boden steht eine 22 mm hohe Schwelle vor. Der Standflügel lässt sich öffnen, muss aber nach der Lieferung wieder verriegelt werden.
+
+Hinter dieser Tür knickt der Flur nach 2,10 m rechtwinklig zum Saal ab. Zwischen Wand und festem Heizkörper bleiben dort 1,26 m. Wir haben mit keinem beladenen Transportwagen eine Fahrprobe gemacht. Aus diesen Maßen kann ich nicht zusagen, dass eine bestimmte vormontierte Arbeitsplattform in den Saal gelangt. Eine ebene Überfahrhilfe für die Schwelle steht beim Hausdienst nicht zur Verfügung.
+
+2 Abstellmöglichkeiten
+
+Der abschließbare Raum neben dem Hof misst 2,00 × 4,00 m und entspricht den bereits genannten 8 m². Die Tür schlägt nach innen auf. Die gesamte Grundfläche kann deshalb nicht gleichzeitig mit Kartons belegt werden. Ein wandfestes Regal an der kurzen Rückwand bleibt stehen. Steckdose und Leuchte waren heute benutzbar; eine besondere Lademöglichkeit für Arbeitsmaschinen wurde nicht eingerichtet.
+
+Die Hoffläche direkt vor der Tür dient morgens auch der Rückgabe von Bücherkisten. Am 09.11. ist zwischen 08:15 und 08:45 Uhr eine bereits disponierte Abholung angekündigt. Der Lieferwagen benötigt dort nur die markierte Ladefläche und fährt danach wieder ab. Ich habe dem späteren Bauunternehmen keinen Vorrang zugesagt und keinen anderen Zufahrtsweg versprochen. Der Rettungsweg bleibt frei.
+
+3 Hausbetrieb
+
+Die Betriebszeiten und die beiden Lesungen aus NK-02 bleiben unverändert. Die heutige frühe Abschaltung war eigens für die Bestandsaufnahme vereinbart und ist keine Zusage gleicher Abschaltzeiten im November. Livia Berg hatte bisher angenommen, mobile Arbeitsgeräte ließen sich ohne Zerlegen durch die Hoftür schieben; nach der Aufnahme möchte sie das nicht mehr pauschal bestätigen. Eine Tragfähigkeitsangabe des Saalbodens ist beim Hausdienst nicht vorhanden.
+
+Anke Freese | a.freese@kgf-celle.example"""),
+])
+AKTEN["bau-rundum-bieterfragen-celle"]["csv"]["19_Rasterablesungen.csv"] = (
+    ["Messfeld", "Zeitpunkt", "Freie_Weite_West_Ost_mm", "Freie_Weite_Nord_Süd_mm", "Plattenaußenmaß_mm", "Aufnahmeart", "Erfasser", "Begrenzung"], [
+        ["Reihe 1 / Feld 2", "2026-09-28T07:36:00+02:00", "576", "575", "595 × 595", "Stahlmaß; sichtbare Profilkanten", "Erik Tamm / Anke Freese", "keine Lastprüfung"],
+        ["Reihe 2 / Feld 3", "2026-09-28T07:42:00+02:00", "575", "574", "595 × 595", "Stahlmaß; sichtbare Profilkanten", "Erik Tamm / Anke Freese", "keine Lastprüfung"],
+        ["Reihe 3 / Feld 4", "2026-09-28T07:49:00+02:00", "576", "576", "595 × 595", "Stahlmaß; sichtbare Profilkanten", "Erik Tamm / Anke Freese", "keine Lastprüfung"],
+        ["Reihe 5 / Feld 3", "2026-09-28T07:55:00+02:00", "574", "575", "595 × 595", "Stahlmaß; sichtbare Profilkanten", "Erik Tamm / Anke Freese", "Nordrand nicht geöffnet"],
+    ])
+AKTEN["bau-rundum-bieterfragen-celle"]["mails"].append(
+    mail("20_Runge_Lieferauskunft.eml", "Moritz Runge <m.runge@hellpfad.example>", "Vergabestelle KGF <vergabe@kgf-celle.example>", "2026-09-28T10:45:00+02:00", "KGF-26-41 / Ergänzung zu Frage 2 / Schnittstelle und Lieferzeit",
+        """Sehr geehrte Damen und Herren,
+
+zu unserer Frage vom 23.09. reichen wir die inzwischen eingegangene Lieferauskunft von Linienlicht ein. Sie betrifft ausdrücklich die Variante 840-S. Der Lieferant bietet unter derselben Gehäusebezeichnung auch ein anderes Betriebsgerät an. Eine Kalkulation nur nach dem äußeren Leuchtenmaß und 4.000 K führt daher noch nicht zu einem eindeutigen Steuerungsumfang.
+
+Gilt für das Angebot eine bestimmte Schnittstelle, oder sollen wir eine eigene Steuerung einschließlich der dafür nötigen Leitung anbieten? Uns ist aus V01 weiterhin nicht ersichtlich, wie die drei Szenen an die vorhandene Bedienstelle angebunden werden sollen. Die beigefügte Auskunft soll diese Unsicherheit verdeutlichen; wir beantragen damit keine nur für uns geltende Produktzulassung.
+
+Unser Lieferant nennt für eine zusammenhängende Serie den 02.10. als gewünschten Bestelleingang. Das liegt vor Ihrem Angebotsende am 09.10. Wir werden deshalb nicht jetzt schon im Vertrauen auf einen späteren Zuschlag bestellen. Bitte teilen Sie im gemeinsamen Projektraum mit, welche Ausführungs- und Materialanforderungen bei der Angebotsabgabe zugrunde zu legen sind und ob die veröffentlichten Ausführungszeiten unverändert bleiben. Von einer Ortsaufnahme Ihrer Planer haben wir keine neuen Unterlagen erhalten.
+
+Mit freundlichen Grüßen
+Moritz Runge
+Hellpfad Elektrotechnik GmbH""", antwort="08_Bieterfrage_Fabrikat.eml", anlagen=["16_Lieferantendaten_LB595.pdf"]))
+AKTEN["bau-rundum-bieterfragen-celle"]["pruefung"].append(
+    "Lieferantenvariante und Lieferfrist von verbindlichen Vergabeanforderungen trennen; neue punktuelle Leitungs- und Rasteraufnahme sowie Transportweg nicht als bereits veröffentlichte Berichtigung, Vollaufnahme oder Produktfreigabe darstellen.")
+
+AKTEN["bau-rundum-behinderung-soest"]["dokumente"].extend([
+    dokument("13_Montageblatt_Rohrsteg.pdf", "Montageblatt Technikrinne", "Eike Malz | Rohrsteg Haustechnik GmbH", "Petra Simmen | Objektüberwachung Kontur", "16.09.2026, 10:35 Uhr", "RS-26-308 / Tagesblatt 16",
+        """1 Nacharbeit am Morgen
+
+Ich habe heute mit Monteurin Nele Bock um 08:40 Uhr an der zusätzlichen Halterung in der Technikrinne begonnen. Die von Ihnen gestern um 14:30 Uhr angesprochene Stelle liegt im östlichen Drittel des rund 9 m langen Rinnenabschnitts. Die bereits gestern eingesetzten Formstücke wurden nicht wieder ausgebaut. Für die Ergänzung brachten wir eine Traverse, zwei Schellen und vier Befestigungsmittel aus unserem Lager mit. Die Montage der zusätzlichen Halterung war um 09:18 Uhr abgeschlossen.
+
+Frau Simmen traf um 09:32 Uhr ein; Herr Kroll kam hinzu. Beide sahen die neue Halterung. Die Leitung lag dort bei äußerer Kontrolle nicht mehr lose auf dem Untergrund. Eine Belastungsprobe des gesamten Leitungsbündels wurde nicht ausgeführt. Die Befestigungsmittel waren nach dem Einbau zugänglich und wurden nicht mit Beton überdeckt.
+
+2 Kontrollöffnung und Überdeckung
+
+An einem Anschluss im östlichen Abschnitt konnten wir die Kennzeichnung der eingesetzten Muffe vom Rand aus nicht vollständig lesen. Frau Simmen wollte den Anschluss vor der Überdeckung noch einmal geöffnet sehen. Um 09:55 Uhr ließ ich deshalb die seitliche Abdeckung auf den östlichen 3,40 m abnehmen. Die westlichen 5,60 m blieben eingebaut, wurden aber ebenfalls nicht zur Überdeckung freigegeben. Der Termin endete für Frau Simmen um 10:02 Uhr ohne vollständige Freigabe der Rinne.
+
+Um 10:15 Uhr erreichten wir die Kennzeichnung von unten. Sie lautet auf die von uns bestellte Ausführung. Nele Bock übertrug die Zeichen in unser Montagebuch. Ein erneuter gemeinsamer Kontrolltermin hat bis zur Niederschrift um 10:35 Uhr nicht stattgefunden. Die abgenommene seitliche Abdeckung liegt gesichert neben der Rinne. Wir haben Herrn Kroll nicht gesagt, er dürfe jetzt die Bewehrung darüber schließen.
+
+3 Abgrenzung unseres Einsatzes
+
+Dieses Blatt berichtet unsere Montage und die beobachteten Zeiten. Die geänderten Öffnungen nach Plan S-17/04 und deren Bewehrungsdetail gehören nicht zu unserer Planung. Ob dort bereits zugeschnittene Stäbe weiterverwendet werden können, habe ich nicht entschieden. Der Arbeitsbereich blieb für unsere Monteurin zugänglich; andere Tätigkeiten im Westfeld konnte ich nur vom Weg zum Container aus sehen.
+
+Eike Malz | e.malz@rohrsteg.example"""),
+    dokument("14_Pumpen_Dispositionsblatt.pdf", "Pumpendisposition Schilfrain", "Silke Rauter | Pumpendienst Hebefluss GmbH", "David Kroll | Massivbau Dammert GmbH", "16.09.2026, 10:20 Uhr", "HF-26-614 / Dispositionsbestätigung",
+        """1 Bisheriger Termin
+
+Sehr geehrter Herr Kroll, für heute war bei uns eine Autobetonpumpe der 24-m-Klasse zu Ihrem Einsatz um 07:00 Uhr vorgemerkt. Die Anmeldung erfolgte am 11.09. durch Ihr Büro. Die letzte Abstimmung von Lieferfolge und Standplatz fehlte gestern Abend. Wir hatten deshalb noch keine endgültige Ausfahrfreigabe erteilt. Das Betonwerk Körnig hat uns keine Stornierung in Ihrem Namen übermittelt.
+
+Um 08:46 Uhr riefen Sie heute an und teilten erstmals unmittelbar unserer Disposition mit, dass der Einsatz entfallen solle. Die Pumpe war nicht zu Ihrer Baustelle gefahren. Unser Fahrer war ab 06:00 Uhr für die Frühschicht eingeteilt und wurde um 06:35 Uhr nach interner Umplanung einem anderen Einsatz zugewiesen. Eine Wartezeit auf der Baustelle Schilfrain ist in seinem Tagesblatt nicht vermerkt. Ob wir Ihnen für die kurzfristige Änderung einen Dispositionsbetrag berechnen, ist noch in unserer kaufmännischen Bearbeitung; dieses Blatt ist keine Rechnung.
+
+2 Freitag 18 September
+
+Für Freitag können wir dieselbe Geräteklasse derzeit frühestens ab 10:30 Uhr an Ihrer Baustelle vorsehen. Das von Ihnen genannte Betonfenster beginnt um 10:00 Uhr. Beide Angaben sind also noch nicht deckungsgleich. Unser Ansatz enthält anschließend etwa 30 Minuten zum Aufstellen und betriebsbereiten Einrichten bei frei zugänglicher, geeigneter Standfläche. Eine Betonannahme bereits um 10:00 Uhr sagen wir mit dieser Vormerkung nicht zu.
+
+Die Angaben zur Auslegerreichweite ersetzen keine Prüfung der tatsächlichen Aufstellstelle. Sie nannten uns heute wieder den Hof an der Westseite; die Abstände zum Ostfeld und die Abstützflächen haben wir noch nicht gemeinsam angesehen. Die Betonmenge von 42,00 m³ stammt aus Ihrer alten Anmeldung und wurde von uns nicht neu aufgemessen.
+
+3 Rückmeldung
+
+Wir halten das Freitagsfenster bis heute 11:45 Uhr ohne verbindliche Buchung offen. Sie wollten nach dem Termin an der Rinne zurückrufen. Eine Auftragserteilung für Freitag haben wir bis 10:20 Uhr nicht erhalten. Ein anderer Termin oder eine Vergütungsregelung für ausgefallene Einsätze ist in diesem Schreiben nicht vereinbart. Unsere Dispositionsakte enthält bislang keinen von Ihnen anerkannten Kostenbetrag.
+
+Mit freundlichen Grüßen
+Silke Rauter | s.rauter@hebefluss.example"""),
+    dokument("15_Polierbuch_Vormittag.docx", "Polierbuch Mittwochvormittag", "Mehmet Aydin | Massivbau Dammert GmbH", "David Kroll | Baustellenablage Schilfrain", "16.09.2026, 11:25 Uhr", "SR-26 / MA-16 / Eintrag bis 11:15 Uhr",
+        """1 Frühe Arbeiten
+
+Wir waren um 07:00 Uhr mit derselben Mannschaft wie gestern da. Ronja und ich haben zuerst die bereits ausgelegten Matten im freien Ostabschnitt angesehen und die Stabkennungen mit der Liste verglichen. Von 07:15 bis 08:30 Uhr ergänzten wir Abstandhalter außerhalb der Rinne. Über der Rinne blieb offen. An den verschobenen Durchführungen haben wir keine Stäbe umgebogen. Ich will nachher noch wissen, welche gekennzeichneten Teile wir wieder einsetzen können; auf eigene Faust schneiden wir dort nichts weg.
+
+Benno und Janis nahmen im Westen die Verbindungskisten auseinander und sortierten Zubehör zu den gestern gelieferten Elementen. Zwei Rückseiten waren stark verschmutzt. Das Reinigen und Zuordnen dauerte bis 08:40 Uhr. Danach legten sie die ersten Elemente an der westlichen Wandachse bereit. Die technische Freigabe für diesen Bereich lag seit Montag vor; heute fehlte dort nicht die Freigabe, sondern zunächst die vorbereitete Schalung.
+
+2 Während des Rinnentermins
+
+Von 08:30 bis 09:20 Uhr sortierten Ronja und ich die schon geschnittenen Stäbe an der östlichen Lagerstelle nach Kennung. Damit war nicht entschieden, dass alles zum neuen Detail passt. Ab 09:20 Uhr begleitete ich Kroll an die Rinne, Ronja räumte den freien Oststreifen auf. Ich sah die zusätzliche Halterung und hörte Frau Simmen nach der verdeckten Kennzeichnung fragen. Eine Freigabe zum Schließen habe ich nicht gehört.
+
+Um 10:15 Uhr ging Ronja zu Benno und Janis in den Westen. Zu dritt konnten sie die ersten drei Elemente nacheinander stellen und sichern. Mehr Leute hätten an dieser kurzen Wandstrecke im Weg gestanden. Um 11:15 Uhr standen drei Elemente; der Abschnitt war noch nicht fertig ausgerichtet und geschlossen. Ich blieb im Osten für die Abstimmung der Teile und den Zugang von Rohrsteg. Kroll telefonierte zwischendurch mit Lieferanten und war nicht die ganze Zeit bei mir.
+
+3 Stand zur Eintragung
+
+Mittagspause hat bis 11:15 Uhr noch nicht stattgefunden. Die heutige Stundenliste ist deshalb noch nicht abgeschlossen. Aus diesem Eintrag soll keine volle Tagesstundenzahl abgeleitet werden. Den neuen Betontermin kenne ich nur als Möglichkeit. Mir liegt bis jetzt weder eine abgeschlossene Kontrolle der Rinne noch eine Antwort auf unsere Frage zu den vorbereiteten Stäben vor.
+
+Mehmet Aydin | m.aydin@massivbau-dammert.example"""),
+])
+AKTEN["bau-rundum-behinderung-soest"]["csv"]["16_Disposition_Ereignisse.csv"] = (
+    ["Zeitpunkt", "Vorgang", "Kontakt", "Status", "Menge_oder_Zeit", "Einheit", "Erfasst_von"], [
+        ["2026-09-15T15:25:00+02:00", "Beton 16.09. abgesagt", "Henning Wilke", "keine Produktion; Pumpe separat", "42,00", "m³ bisher angemeldet", "David Kroll"],
+        ["2026-09-16T07:35:00+02:00", "Beton 18.09. angeboten", "Henning Wilke", "Vorhalt bis 12:00 Uhr; ungebucht", "10:00", "frühester Lieferbeginn", "David Kroll"],
+        ["2026-09-16T08:46:00+02:00", "Pumpeneinsatz 16.09. abgesagt", "Silke Rauter", "erstmals direkt mit Pumpendienst gesprochen", "07:00", "ursprünglicher Einsatzbeginn", "David Kroll"],
+        ["2026-09-16T10:20:00+02:00", "Pumpenblatt HF-26-614 eingegangen", "Silke Rauter", "Freitag nur vorgemerkt bis 11:45 Uhr", "10:30", "früheste Ankunft Freitag", "Lea Friese"],
+        ["2026-09-16T10:58:00+02:00", "Rückruf zum Betonfenster", "Henning Wilke", "spätere erste Lieferung noch nicht bestätigt", "11:00", "angefragter Beginn Freitag", "David Kroll"],
+        ["2026-09-16T11:10:00+02:00", "Pumpendienst zurückgerufen", "Silke Rauter", "keine feste Bestellung abgegeben", "11:45", "Rückmeldegrenze bleibt", "David Kroll"],
+    ])
+AKTEN["bau-rundum-behinderung-soest"]["mails"].append(
+    mail("17_Rauter_Pumpenfenster.eml", "Silke Rauter <s.rauter@hebefluss.example>", "David Kroll <d.kroll@massivbau-dammert.example>", "2026-09-16T11:18:00+02:00", "Schilfrain / HF-26-614 / Vormerkung bis 11:45 Uhr",
+        """Sehr geehrter Herr Kroll,
+
+wie gerade besprochen bleibt es bei unserer Rückmeldegrenze von 11:45 Uhr. Ich schicke das Dispositionsblatt von 10:20 Uhr nochmals mit. Sie haben uns im Telefonat um 11:10 Uhr noch keinen festen Einsatzauftrag für Freitag erteilt. Die von Ihnen beim Betonwerk angefragte spätere Anlieferung um 11:00 Uhr ist nach Ihrer Mitteilung ebenfalls noch nicht bestätigt.
+
+Zum heutigen Termin habe ich den Fahrer erreicht. Er bestätigt, dass er die Baustelle Schilfrain nicht angefahren hat. Eine Anwesenheitsbestätigung von Ihnen kann es dafür nicht geben. Unsere kaufmännische Kollegin sieht sich lediglich die kurzfristige Umbesetzung der Frühschicht an. Ich habe Ihnen weder eine Rechnung angekündigt noch gesagt, dass der Vorgang endgültig kostenfrei ist.
+
+Für Freitag fehlen mir weiterhin die endgültige Buchung und eine abgestimmte Aufstellstelle. Bitte verstehen Sie die Geräteklasse nicht als Zusage, von jedem beliebigen Punkt im Hof bis an Ihre Ostplatte zu gelangen. Ich kenne die inzwischen abgestellten Schalungselemente dort nicht. Solange Ihre Fläche noch nicht freigegeben ist, ist unsere Vormerkung auch keine Bestätigung der Betonierbereitschaft.
+
+Mit freundlichen Grüßen
+Silke Rauter
+Pumpendienst Hebefluss GmbH""", anlagen=["14_Pumpen_Dispositionsblatt.pdf"]))
+AKTEN["bau-rundum-behinderung-soest"]["pruefung"].append(
+    "Vormittagsfortschreibung nach dem Diktat berücksichtigen: ergänzte Halterung ist noch keine Überdeckungsfreigabe; produktive Westarbeiten, ungeklärte Stabverwendung und unterschiedliche Beton-/Pumpenfenster getrennt dokumentieren, ohne Kosten oder Endterminfolgen zu erfinden.")
+
+AKTEN["bau-rundum-baugrund-verden"]["dokumente"].extend([
+    dokument("13_Kontrollnivellement.pdf", "Kontrollnivellement am Messrohr KB4", "Lars Söllner | Ingenieurgeologie Erdspur", "Dr. Jule Hagedorn | Projektleitung", "22.09.2026, 12:15 Uhr", "EG-26-118 / Höhenkontrolle HK-02",
+        """1 Bezug und Aufbau
+
+Am 22.09. habe ich zwischen 08:20 und 08:55 Uhr die Höhenübertragung von der Hofmarke zum Rohrkopf KB4 kontrolliert. Bernd Kessler öffnete das Tor und zeigte mir die unveränderte Hofmarke. Ihr Projektwert ist weiterhin 20,000 m im örtlichen System. Ich habe keinen amtlichen Höhenpunkt aufgesucht. Die Kontrolle überprüft die Übertragung innerhalb des Projekts, nicht den Anschluss an NHN.
+
+Beim ersten Gerätestand betrug der Rückblick auf die Hofmarke 1,345 m. Daraus ergibt sich im örtlichen System eine Instrumentenhöhe von 21,345 m. Der Vorblick auf die markierte Messkante des Rohrkopfs betrug 1,025 m. Die daraus berechnete Höhe ist 20,320 m. Die Wasserablesungen beziehen sich auf diese Kerbe am oberen Rohrrand, nicht auf den abnehmbaren Deckel. Der Deckel ist rund 12 mm höher und wurde vor der Ablesung entfernt.
+
+2 Rückkontrolle
+
+Nach Umsetzen des Geräts las ich am Rohrkopf 1,010 m ab; die zweite Instrumentenhöhe ergibt sich zu 21,330 m. Der anschließende Vorblick auf die Hofmarke betrug 1,328 m. Der Rückschluss ergibt 20,002 m gegenüber dem übernommenen Ausgangswert 20,000 m, also eine Schließdifferenz von 2 mm. Die beiden ursprünglichen Ablesungen wurden nicht nachträglich angepasst. Für die auf Zentimeter geführte Wasserliste bleibt der bisherige Bezug 20,32 m bestehen.
+
+Das Gelände unmittelbar neben KB4 liegt weiterhin rund 0,30 m unter der Kerbe. Lose aufgeschüttetes Material am Rohr habe ich nicht als neuen Geländeansatz eingemessen. Seit dem Einbau war das Rohr nach Aussage von Herrn Kessler nicht umgesetzt worden. Sichtbar waren heute weder eine gelockerte Befestigung noch eine frische Anfahrspur. Eine unterirdische Kontrolle des provisorischen Rohrs fand nicht statt.
+
+3 Unterlagenlauf
+
+Im Ausdruck einer fremden Planvorlage neben dem Lageplan stand im Tabellenkopf „m NHN“. Herr Kessler konnte mir keine dazugehörige amtliche Höhenübertragung zeigen. Ich habe diesen Tabellenkopf nicht in mein Feldbuch übernommen. Die Werte aus Bericht 01, Ergänzung 01 und der Wasserliste bleiben örtliche Höhen. Aufnahmeskizze WM-G-01 und die Ansatzhöhen der Bohrungen wurden mit dieser Kontrolle nicht neu vermessen.
+
+Lars Söllner | l.soellner@erdspur.example"""),
+    dokument("14_Probenannahme_Auffuellung.pdf", "Annahme der Auffüllungsproben", "Dr. Eva Rabe | Bodenlabor Kornzahl", "Dr. Jule Hagedorn | Ingenieurgeologie Erdspur", "23.09.2026, 10:40 Uhr", "KZ-26-816 / Eingangsbestätigung, kein Ergebnisbericht",
+        ["""1 Eingang
+
+Sehr geehrte Frau Dr. Hagedorn, Ihr Mitarbeiter Lars Söllner hat gestern um 15:20 Uhr zwei verschlossene Weithalsgefäße für Weidenmaß abgegeben. Die Probenkennungen stimmen mit dem mitgebrachten Entnahmezettel vom 22.09. überein. Das Begleitblatt nennt zwei kleinflächige Handschürfe im geräumten Oststreifen, die nach Entnahme wieder geschlossen wurden. Die Entnahme erfolgte durch Ihr Feldteam; unser Labor war nicht auf der Baustelle.""",
+         tabelle(["Kennung", "Angabe auf Entnahmezettel", "Zustand beim Eingang"], [
+             ["WM-AF-O1", "22.09., 10:10 Uhr; 0,40 bis 0,60 m unter Gelände", "sandiges Material mit Ziegelstücken; Deckel dicht"],
+             ["WM-AF-O2", "22.09., 10:35 Uhr; 0,70 bis 0,90 m unter Gelände", "dunklerer sandiger Boden; Deckel dicht"],
+         ], [0.20, 0.43, 0.37]),
+         """2 Auftrag und Lagerung
+
+Die Gefäße sind getrennt unter KZ-26-816 eingelagert. Eine Mischprobe wurde nicht hergestellt. In Ihrer begleitenden Anfrage steht „chemische Untersuchung anbieten“. Ein beauftragtes Parameterprogramm, Angaben zum vorgesehenen Entsorgungsweg und eine nachvollziehbare Zuordnung zu einer späteren Aushubcharge liegen uns noch nicht vor. Wir haben deshalb bislang keine chemische Analyse begonnen und kein Ergebnisblatt freigegeben.
+
+Die Materialansprache beim Eingang ist eine Sichtbeschreibung. Aus Farbe und Ziegelanteil leite ich keine Schadstoffkonzentration ab. Zwei örtliche Proben sind außerdem keine von uns bestätigte repräsentative Deklarationsbeprobung des gesamten künftigen Aushubs. Die Proben stammen nicht aus den tiefen Sandlagen von KB4; sie dürfen nicht unter den Kennungen KB4-P2 oder KB4-P3 weitergeführt werden.
+
+3 Frühere Ergebnisse
+
+Der geotechnische Auftrag KZ-26-772 bleibt mit den bisherigen Wassergehalts-, Feinanteils- und Durchlässigkeitswerten unverändert. Die neue Eingangsnummer bedeutet nicht, dass diese Werte chemisch ergänzt worden wären. Unser Angebot für einen abgestimmten Untersuchungsumfang ist in Bearbeitung. Bis zur Beauftragung bleiben die beiden Gefäße verschlossen; die vorgesehene Lagerdauer und gegebenenfalls erforderliche neue Entnahmen werden wir im Angebot benennen. Eine Annahmeerklärung eines Entsorgers liegt unserem Labor nicht vor.
+
+Dr. Eva Rabe | e.rabe@kornzahl.example"""]),
+    dokument("15_Maschinenblatt_02.docx", "Reinigungsanlage WM-R / Aufstellangaben 02", "Dr. Linnea Kohl | Maschinenbau Spülbogen GmbH", "Bernd Kessler | Weidenmaß Gerätedienst GmbH", "22.09.2026, 14:30 Uhr", "SB-WM-02 / vorläufige Lieferantendaten",
+        ["""1 Geometrie und Betriebszustand
+
+Die besprochene stationäre Reinigungsanlage steht auf vier Aufstellpunkten mit Achsabständen von 1,80 × 1,20 m. Diese Angabe beschreibt den Maschinenrahmen, nicht die erforderliche Fundamentgröße. Die von Ihnen genannte Sockeloberfläche von 2,40 × 1,80 m haben wir als Planungsangabe des Bauherrn vermerkt. Einen Fundamentplan haben wir weder erstellt noch freigegeben.
+
+Gegenüber unserem Gespräch am 09.09. ist nun der seitliche Filterkasten in der Ausrüstung enthalten. Er erhöht den Gewichtsansatz der trockenen Ausrüstung um 20 kN. Die nachfolgende Aufteilung ersetzt deshalb den damals mündlich genannten Gesamtansatz von 200 kN im gefüllten Zustand.""",
+         tabelle(["Bestandteil", "Vertikale Gewichtskraft", "Bezug"], [
+             ["Maschine einschließlich Grundrahmen", "160 kN", "trocken, ohne Filterkasten"],
+             ["Seitlicher Filterkasten", "20 kN", "trocken, in Ausführung 02 enthalten"],
+             ["Maximale Betriebsfüllung", "40 kN", "Flüssigkeit bei vorgesehenem Füllstand"],
+             ["Zusammen im beschriebenen Zustand", "220 kN", "ohne Betonfundament und bauseitige Leitungen"],
+         ], [0.43, 0.24, 0.33]),
+         """2 Grenzen der Angaben
+
+Die vier Aufstellpunkte werden nicht gleichmäßig belastet; der Filterkasten sitzt außermittig. Einzelne Auflagerreaktionen und daraus entstehende Momente sind noch nicht abschließend ermittelt. Der Hauptantrieb ist für 1.500 Umdrehungen pro Minute vorgesehen. Diese Drehzahl ist kein vollständiger Nachweis der auf den Untergrund übertragenen Erregerkräfte. Das Probelaufblatt mit Anfahrvorgang, Unwucht und Lagerkräften steht noch aus.
+
+Ihr Tragwerksplaner hat einen Sockelansatz von 260 kN zuzüglich 80 kN veränderlicher Last erwähnt. Unsere 220 kN beschreiben einen anderen Umfang und sind nicht einfach als Ersatz für eine der beiden Zahlen einzutragen. Die Zuordnung von leerem Zustand, Betriebsfüllung, Wartung und Fundamentgewicht zu den baulichen Lastfällen haben wir nicht vorgenommen. Das Probelaufblatt erwarten wir nach der Werksprüfung am 02.10.; einen früheren Versand kann ich heute nicht zusagen.
+
+Dr. Linnea Kohl | l.kohl@spuelbogen.example"""]),
+])
+AKTEN["bau-rundum-baugrund-verden"]["csv"]["16_Wasser_Folgeablesungen.csv"] = (
+    ["Messpunkt", "Zeitpunkt", "Messbezug", "Bezugshöhe_m_örtlich", "Ablesung_m_unter_Bezug", "Wasserhöhe_m_örtlich", "Beobachtung", "Erfasser"], [
+        ["KB4", "2026-09-21T08:35:00+02:00", "Kerbe Rohrkopf; Deckel entfernt", "20,32", "1,19", "19,13", "Einzelablesung; kein Pumpversuch", "Lars Söllner"],
+        ["KB4", "2026-09-22T08:58:00+02:00", "Kerbe Rohrkopf; Deckel entfernt", "20,32", "1,17", "19,15", "nach Kontrollnivellement; keine Rohraufhöhung", "Lars Söllner"],
+        ["KB4", "2026-09-23T08:40:00+02:00", "Kerbe Rohrkopf; Deckel entfernt", "20,32", "1,20", "19,12", "Einzelablesung; kein Pumpversuch", "Lars Söllner"],
+        ["KB4", "2026-09-24T08:30:00+02:00", "Kerbe Rohrkopf; Deckel entfernt", "20,32", "1,18", "19,14", "Einzelablesung; kein Pumpversuch", "Lars Söllner"],
+    ])
+AKTEN["bau-rundum-baugrund-verden"]["mails"].append(
+    mail("17_Hagedorn_Messreihe.eml", "Dr. Jule Hagedorn <j.hagedorn@erdspur.example>", "Mika Ehlers <m.ehlers@pfeilermass.example>", "2026-09-24T11:05:00+02:00", "Weidenmaß / vier Folgeablesungen und Höhenkontrolle",
+        """Sehr geehrter Herr Ehlers,
+
+anbei erhalten Sie die vier zusätzlichen Ablesungen von KB4 und Lars Söllners Höhenkontrolle. Die Messreihe bis 16.09. wurde nicht überschrieben. Der Kontrollschluss am 22.09. weist 2 mm Differenz auf; der auf Zentimeter geführte Rohrkopfwert bleibt 20,32 m örtlich. Einen amtlichen Höhenanschluss hat Lars damit nicht hergestellt. Im Ausdruck mit der Überschrift „m NHN“ fehlt weiterhin der Nachweis für genau diesen Bezug.
+
+Die neuen Wasserhöhen liegen zwischen 19,12 und 19,15 m. Das sind vier punktuelle Morgenablesungen, keine Aufzeichnung eines Jahresmaximums. Wir ändern damit den vorläufigen Ansatz von 19,60 m in Ergänzung 01 nicht. Für einen Pumpversuch oder eine Aussage zu Fördermengen wurde das Rohr nicht betrieben.
+
+Das Labor hat inzwischen zwei Auffüllungsproben angenommen, aber noch keine chemischen Ergebnisse übersandt. Die Eingangsbestätigung darf deshalb nicht als erledigte Deklaration in Ihren Planvermerk geraten. Frau Kohl hat außerdem den Filterkasten in ihr Maschinenblatt aufgenommen. Die 220 kN dort schließen den Betonsockel ausdrücklich aus; die Zuordnung zu Ihren Lastansätzen ist noch nicht gemeinsam abgestimmt. Auch das angekündigte Probelaufblatt liegt uns nicht vor.
+
+Mit freundlichen Grüßen
+Dr. Jule Hagedorn
+Ingenieurgeologie Erdspur""", anlagen=["13_Kontrollnivellement.pdf", "16_Wasser_Folgeablesungen.csv"]))
+AKTEN["bau-rundum-baugrund-verden"]["pruefung"].append(
+    "Kontrollnivellement, Folgeablesungen, Probenannahme und Maschinenstand 02 getrennt auswerten: örtlicher Bezug bleibt, 19,60 m ist keine Messung, chemische Ergebnisse fehlen und 220 kN Lieferumfang ersetzt nicht ungeprüft den baulichen Lastansatz samt Dynamik.")

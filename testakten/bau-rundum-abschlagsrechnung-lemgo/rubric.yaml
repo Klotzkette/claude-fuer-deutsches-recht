@@ -79,3 +79,23 @@ checks:
   check_type: file_exists
   path: 16_Baubesprechung_30_Juli.docx
   description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_Einsatzbericht_Wasserhaltung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Zwischenzaehler_Sued.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Werkstattmeldung_Anschlussplatten.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Arbeitsbericht_Sockelnacharbeit.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-21
+  check_type: file_exists
+  path: 21_Geraetenachweise_N02.eml
+  description: Eigenständige Originalunterlage vorhanden.

@@ -15,6 +15,9 @@ checks:
   - id: fachpruefung-4
     check_type: human_review
     description: "Keine Versand- oder technische Freigabe behaupten und den gewünschten Belegabgleich nicht durch eigenmächtige LV-Neufassung ersetzen."
+  - id: fachpruefung-5
+    check_type: human_review
+    description: "Örtliche Boden- und Türbefunde, Lieferauskunft und Sockelstrecken zusätzlich quellenbezogen einordnen; Bestandsmaß, Planungsansatz, Einbaumenge und Liefermenge nicht gleichsetzen und Materialmuster nicht als Nutzerfreigabe behandeln."
   - id: original-01
     check_type: file_exists
     path: "01_Kuester_LV_Abgleich.eml"
@@ -63,3 +66,23 @@ checks:
     check_type: file_exists
     path: "12_Raumschema.png"
     description: "Eigenständige Originalunterlage 12_Raumschema.png"
+  - id: original-13
+    check_type: file_exists
+    path: "13_Oeffnungsbericht_Boden.pdf"
+    description: "Eigenständige Originalunterlage 13_Oeffnungsbericht_Boden.pdf"
+  - id: original-14
+    check_type: file_exists
+    path: "14_Sockelstrecken.csv"
+    description: "Eigenständige Originalunterlage 14_Sockelstrecken.csv"
+  - id: original-15
+    check_type: file_exists
+    path: "15_Lieferauskunft_Boden.docx"
+    description: "Eigenständige Originalunterlage 15_Lieferauskunft_Boden.docx"
+  - id: original-16
+    check_type: file_exists
+    path: "16_Tueroeffnung_T12.pdf"
+    description: "Eigenständige Originalunterlage 16_Tueroeffnung_T12.pdf"
+  - id: original-17
+    check_type: file_exists
+    path: "17_Roemer_Musterlieferung.eml"
+    description: "Eigenständige Originalunterlage 17_Roemer_Musterlieferung.eml"

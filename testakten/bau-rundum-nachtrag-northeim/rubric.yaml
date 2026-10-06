@@ -80,3 +80,23 @@ checks:
   check_type: file_exists
   path: 16_Besprechungseinladung.eml
   description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_Bestandsaufnahme_Rohrlager.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Lagerbestaende_DN150.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Ruecknahmeauskunft_Rohrkontor.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Tagesbericht_Kolonne_September.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-21
+  check_type: file_exists
+  path: 21_Lieferbindung_und_Ruecknahme.eml
+  description: Eigenständige Originalunterlage vorhanden.

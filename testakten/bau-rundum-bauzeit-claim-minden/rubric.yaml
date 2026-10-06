@@ -84,3 +84,23 @@ checks:
   check_type: file_exists
   path: 16_Baufeldskizze.png
   description: Eigenständige Originalunterlage vorhanden.
+- id: original-17
+  check_type: file_exists
+  path: 17_Mietrechnung_Mobilkran.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-18
+  check_type: file_exists
+  path: 18_Geraetestunden_MK44.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-19
+  check_type: file_exists
+  path: 19_Betonabruf_12_Maerz.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-20
+  check_type: file_exists
+  path: 20_Kolonnenfreigabe_PW18.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-21
+  check_type: file_exists
+  path: 21_Fricke_Geraeteunterlagen.eml
+  description: Eigenständige Originalunterlage vorhanden.

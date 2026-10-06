@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-bauzeit-claim-minden_gesamt.pdf`](gesamt-pdf/bau-rundum-bauzeit-claim-minden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bauzeit-claim-minden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bauzeit-claim-minden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Bauzeitforderung mit vereinbartem Ablauf, tatsächlichen Vorgängen, zwei überl
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-bauzeit-claim-minden`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-16 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -72,15 +72,21 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 14 | [14_Erwiderung_Verband.eml](14_Erwiderung_Verband.eml) | 12.06.2026 | HW-26: Forderung BZ01 wird derzeit nicht freigegeben |
 | 15 | [15_Besprechung_Beschleunigung.docx](15_Besprechung_Beschleunigung.docx) | 20.04.2026 | Besprechung zu den Deckenschichten |
 | 16 | [16_Baufeldskizze.png](16_Baufeldskizze.png) | 16.03.2026 | Baufeldskizze Gerätehalle mit Nordtakt und Südtrasse |
+| 17 | [17_Mietrechnung_Mobilkran.pdf](17_Mietrechnung_Mobilkran.pdf) | 31.03.2026 | Mietrechnung Mobilkran März |
+| 18 | [18_Geraetestunden_MK44.csv](18_Geraetestunden_MK44.csv) | 31.03.2026 | Auszug Gerätestundenkarten MK44 |
+| 19 | [19_Betonabruf_12_Maerz.docx](19_Betonabruf_12_Maerz.docx) | 12.03.2026 | Telefonvermerk zur Betonbestellung Westfundamente |
+| 20 | [20_Kolonnenfreigabe_PW18.docx](20_Kolonnenfreigabe_PW18.docx) | 13.03.2026 | Freigabe der beiden Fachkräfte aus Auftrag PW18 |
+| 21 | [21_Fricke_Geraeteunterlagen.eml](21_Fricke_Geraeteunterlagen.eml) | 15.06.2026 | HW-26: Mietrechnung und Auszug der Hubzeiten |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
 ## 1.5. Reproduktion und Grenzen
 
 Erzeugung: `scripts/build-bau-rundum-vertiefung.py --case bau-rundum-bauzeit-claim-minden`.
+Ergänzungsbau mit `--new-only` erhält vorhandene Originale bytegleich. Die neuen Nummern 17 bis 21 können mit `--check --qa --docx-qa --qa-from 17` gesondert gerendert werden.
 Prüfung: derselbe Aufruf mit `--check`; zusätzliche native Neuberechnung und Quellrendering mit `--qa`.
 Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlich die fünf zugewiesenen Abläufe.
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.

@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-nachtrag-northeim_gesamt.pdf`](gesamt-pdf/bau-rundum-nachtrag-northeim_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-nachtrag-northeim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-nachtrag-northeim.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-nachtrag-northeim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-nachtrag-northeim.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Angebot für eine geänderte Rohrdimension mit unklarer Reichweite einer Baustel
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-nachtrag-northeim`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-16 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -72,15 +72,21 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 14 | [14_Terminnotizen.csv](14_Terminnotizen.csv) | 25.09.2026 | Terminnotizen Nachtrag N03 |
 | 15 | [15_Nachtragsregister.docx](15_Nachtragsregister.docx) | 25.09.2026 | Nachtragsregister Entwässerung |
 | 16 | [16_Besprechungseinladung.eml](16_Besprechungseinladung.eml) | 25.09.2026 | Leinetor: N03 am 30.09. um 11 Uhr |
+| 17 | [17_Bestandsaufnahme_Rohrlager.docx](17_Bestandsaufnahme_Rohrlager.docx) | 24.09.2026 | Bestandsaufnahme Rohrlager DN150 |
+| 18 | [18_Lagerbestaende_DN150.csv](18_Lagerbestaende_DN150.csv) | 24.09.2026 | Lagerbestände DN150 am 24 September |
+| 19 | [19_Ruecknahmeauskunft_Rohrkontor.pdf](19_Ruecknahmeauskunft_Rohrkontor.pdf) | 25.09.2026 | Rücknahmeauskunft zur vorhandenen DN150 Ware |
+| 20 | [20_Tagesbericht_Kolonne_September.docx](20_Tagesbericht_Kolonne_September.docx) | 25.09.2026 | Kolonneneinsatz vom 22 bis 25 September |
+| 21 | [21_Lieferbindung_und_Ruecknahme.eml](21_Lieferbindung_und_Ruecknahme.eml) | 25.09.2026 | RK-26221: Rücknahmeauskunft und Bindung bis Montag |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
 ## 1.5. Reproduktion und Grenzen
 
 Erzeugung: `scripts/build-bau-rundum-vertiefung.py --case bau-rundum-nachtrag-northeim`.
+Ergänzungsbau mit `--new-only` erhält vorhandene Originale bytegleich. Die neuen Nummern 17 bis 21 können mit `--check --qa --docx-qa --qa-from 17` gesondert gerendert werden.
 Prüfung: derselbe Aufruf mit `--check`; zusätzliche native Neuberechnung und Quellrendering mit `--qa`.
 Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlich die fünf zugewiesenen Abläufe.
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.

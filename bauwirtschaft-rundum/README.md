@@ -25,22 +25,24 @@ Ein zweiter Durchgang mit einer ergänzten Unterlage prüft die Fortsetzung: Der
 
 Die Fallseiten bieten jeweils Gesamt-PDF, Einzel-PDF-ZIP und Originalformat-ZIP. Beide ZIP-Varianten enthalten die einzelnen Dateien ohne Unterordner sowie den Herkunftshinweis in einer `README.txt`. Lösungen und interne Prüfkriterien gehören nicht in die Akten.
 
+Die ergänzten Originale führen dieselben Vorgänge fort. Frühere Schreiben behalten ihren damaligen Stand; spätere Rückmeldungen können ihn ergänzen oder infrage stellen. Für einen zweiten Seminardurchgang lassen sich die fortlaufend hinzugefügten Unterlagen zunächst zurückhalten und anschließend zum laufenden Vorgang geben. Maßgebend ist jeweils das Dokumentdatum, nicht allein die Dateinummer.
+
 Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 
 This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
 | Stufe | Fall | Ausgangsmaterial und Ziel der Bearbeitung |
 | --- | --- | --- |
-| Anfänger 1 | [Begehung in Einbeck](../testakten/bau-rundum-begehung-einbeck/README.md) | Notizen, Ortsdokumentation, Zuständigkeiten und Korrespondenz für ein belegtes Begehungsprotokoll. |
-| Anfänger 2 | [Baubeschreibung und Leistungsverzeichnis in Detmold](../testakten/bau-rundum-lv-abgleich-detmold/README.md) | Unterschiedliche Dokument- und Planstände für einen Abgleich mit überprüfbaren Fundstellen. |
-| Anfänger 3 | [Leistungsbeschreibung und Bieterfragen in Celle](../testakten/bau-rundum-bieterfragen-celle/README.md) | Vergabeunterlagen, technische Vorgaben und Rückfragen für abgestimmte Antwortentwürfe. |
-| Anfänger 4 | [Behinderung in Soest](../testakten/bau-rundum-behinderung-soest/README.md) | Diktat, Bautagesdaten und Schriftverkehr für eine konkrete Behinderungsanzeige. |
-| Anfänger 5 | [Baugrund in Verden](../testakten/bau-rundum-baugrund-verden/README.md) | Gutachten, Ergänzung und Messwerte für eine Anforderungsliste mit Quellen, Einheiten und offenen Fachfragen. |
-| Fortgeschrittene 1 | [Abschlagsrechnung in Lemgo](../testakten/bau-rundum-abschlagsrechnung-lemgo/README.md) | Rechnung, Aufmaß, Leistungsverzeichnis, Zahlungen und Nachträge für eine prüfbare Abrechnung. |
-| Fortgeschrittene 2 | [VgV-Bewerbung in Hameln](../testakten/bau-rundum-vgv-bewerbung-hameln/README.md) | Anforderungen, Referenzen und Teamunterlagen für eine belegte Bewerbung ohne erfundene Projekterfahrung. |
-| Fortgeschrittene 3 | [Angebotsprüfung in Goslar](../testakten/bau-rundum-angebotspruefung-goslar/README.md) | Angebote, Eingangsdaten und Verfahrensbedingungen für eine nachvollziehbare formale und rechnerische Prüfung. |
-| Fortgeschrittene 4 | [Bauzeit-Claim in Minden](../testakten/bau-rundum-bauzeit-claim-minden/README.md) | Terminpläne, Tagesaufzeichnungen und gegenläufige Darstellungen für eine belegte Störungschronologie. |
-| Fortgeschrittene 5 | [Nachtrag in Northeim](../testakten/bau-rundum-nachtrag-northeim/README.md) | Leistungsänderung, Kalkulation, Mengen und Korrespondenz für eine getrennte Prüfung von Grund und Höhe. |
+| Anfänger 1 | [Begehung in Einbeck](../testakten/bau-rundum-begehung-einbeck/README.md) | Begehungsnotizen, Ortsdokumentation, Serviceberichte, Höhenablesungen und Materialbelege für ein fortschreibbares Protokoll. |
+| Anfänger 2 | [Baubeschreibung und Leistungsverzeichnis in Detmold](../testakten/bau-rundum-lv-abgleich-detmold/README.md) | Unterschiedliche Planstände, örtliche Boden- und Türbefunde, Sockelstrecken und Lieferauskünfte für einen belegten Abgleich. |
+| Anfänger 3 | [Leistungsbeschreibung und Bieterfragen in Celle](../testakten/bau-rundum-bieterfragen-celle/README.md) | Vergabeunterlagen, Bieterpost, Lieferantendaten, Leitungsaufnahme und Rasterablesungen für abgestimmte Antwortentwürfe. |
+| Anfänger 4 | [Behinderung in Soest](../testakten/bau-rundum-behinderung-soest/README.md) | Diktat, Bautagesdaten, Rohrstegmontage, Pumpendisposition und Polierbuch für eine konkrete Behinderungsanzeige. |
+| Anfänger 5 | [Baugrund in Verden](../testakten/bau-rundum-baugrund-verden/README.md) | Gutachten, Kontrollnivellement, Probenannahme, fortgeschriebene Maschinenlasten und Wasserbeobachtungen für eine belegte Anforderungsliste. |
+| Fortgeschrittene 1 | [Abschlagsrechnung in Lemgo](../testakten/bau-rundum-abschlagsrechnung-lemgo/README.md) | Rechnungen, Zahlungen, Aufmaß, Geräteaufzeichnungen und Nacharbeitsberichte für eine prüfbare Abrechnung. |
+| Fortgeschrittene 2 | [VgV-Bewerbung in Hameln](../testakten/bau-rundum-vgv-bewerbung-hameln/README.md) | Anforderungen, Referenzen, ARGE-Leistungsabgrenzung, Versicherungs- und Personalunterlagen für eine belegte Bewerbung. |
+| Fortgeschrittene 3 | [Angebotsprüfung in Goslar](../testakten/bau-rundum-angebotspruefung-goslar/README.md) | Angebote, Elementabmessungen, Zugriffsjournal, Kapazitätsvorbehalte und Preiserklärung für eine nachvollziehbare Prüfung. |
+| Fortgeschrittene 4 | [Bauzeit-Claim in Minden](../testakten/bau-rundum-bauzeit-claim-minden/README.md) | Terminpläne, Tagesaufzeichnungen, Kranmiete, Gerätestunden und Kolonnenfreigabe für eine belegte Störungschronologie. |
+| Fortgeschrittene 5 | [Nachtrag in Northeim](../testakten/bau-rundum-nachtrag-northeim/README.md) | Leistungsänderung, Kalkulation, Lagerbestände, bedingte Rücknahmeauskunft und Kolonneneinsatz für die Nachtragsprüfung. |
 
 ## 1.4 Fachliche Kontrolle
 
