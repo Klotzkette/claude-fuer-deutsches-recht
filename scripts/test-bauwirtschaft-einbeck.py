@@ -86,7 +86,10 @@ def main():
     qa.mkdir(parents=True,exist_ok=True)
     with patch.dict(sys.modules,{"pymupdf":None,"fitz":None}):
         load("einbeck_package_dependency_test","build-bauwirtschaft-einbeck-pakete.py")
-    original=[p for p in B.CASE.iterdir() if include_in_working_dump(p,B.CASE)]
+    # Die Fortschreibung ab Nr. 45 hat einen eigenen Prüfpfad; hier bleibt die
+    # historische 44-teilige Ausgangsakte mit ihren ursprünglichen Sollwerten geprüft.
+    all_original=[p for p in B.CASE.iterdir() if include_in_working_dump(p,B.CASE)]
+    original=[p for p in all_original if p.name in B.FILES.values()]
     assert len(original)==44,len(original)
     assert {p.name for p in original}==set(B.FILES.values())
     assert all(p.suffix in {".docx",".pdf",".xlsx",".eml",".png",".txt",".csv"} for p in original)
@@ -151,7 +154,7 @@ def main():
     if not case_link.exists():case_link.symlink_to(B.CASE,target_is_directory=True)
     V.REPO=scope;V.TESTAKTEN=testakten
     assert V.main()==0,"Bestehender Dokumentqualitätsvalidator"
-    filtered={p.name for p in B.CASE.iterdir() if include_in_working_dump(p,B.CASE)}
+    filtered={p.name for p in B.CASE.iterdir() if include_in_working_dump(p,B.CASE) and p.name in B.FILES.values()}
     assert filtered==set(B.FILES.values()),"Exportfilter verliert Dokumente"
     ignored=subprocess.run(["git","check-ignore","--stdin"],input="\n".join(str(p.relative_to(B.ROOT)) for p in original)+"\n",cwd=B.ROOT,capture_output=True,text=True)
     assert ignored.returncode==1 and not ignored.stdout,ignored.stdout
@@ -168,9 +171,9 @@ def main():
                 assert all("/" not in name and not name.endswith(".md") for name in names)
                 assert z.read("README.txt").startswith(NOTICE_BYTES)
                 if variant:
-                    assert set(names)=={Path(f).stem+".pdf" for f in B.FILES.values()}|{"README.txt"}
+                    assert set(names)=={p.stem+".pdf" for p in all_original}|{"README.txt"}
                 else:
-                    extra=set(names)-set(B.FILES.values())-{"README.txt"}
+                    extra=set(names)-{p.name for p in all_original}-{"README.txt"}
                     assert extra.issubset({B.SLUG+"_gesamt.pdf","gesamt-pdf__"+B.SLUG+"_gesamt.pdf"}),extra
                     assert set(B.FILES.values()).issubset(names)
                     for name in B.FILES.values():assert z.read(name)==(B.CASE/name).read_bytes(),name

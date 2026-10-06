@@ -1,0 +1,127 @@
+{
+  "checks_passed": 3274,
+  "office_mutations": [
+    {
+      "workbook": "10_Kostenfortschreibung.xlsx",
+      "input": "Belege!D6",
+      "value": 38100,
+      "output": "Kostenstand!C14",
+      "expected": 1200100,
+      "actual": 1200100
+    },
+    {
+      "workbook": "10_Kostenfortschreibung.xlsx",
+      "input": "Bestellungen!C6",
+      "value": 118100,
+      "output": "Kostenstand!F14",
+      "expected": 2206100,
+      "actual": 2206100
+    },
+    {
+      "workbook": "10_Kostenfortschreibung.xlsx",
+      "input": "Restleistungen!C6",
+      "value": 100,
+      "output": "Kostenstand!F14",
+      "expected": 2206100,
+      "actual": 2206100
+    },
+    {
+      "workbook": "10_Kostenfortschreibung.xlsx",
+      "input": "Restleistungen!C6",
+      "value": 0,
+      "output": "Kostenstand!F14",
+      "expected": 2206000,
+      "actual": 2206000
+    },
+    {
+      "workbook": "10_Kostenfortschreibung.xlsx",
+      "input": "Restleistungen!C6",
+      "value": null,
+      "output": "Kostenstand!F14",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "workbook": "09_Ablauf_und_Zahlungen.xlsx",
+      "input": "Ansätze!B6",
+      "value": 46349,
+      "output": "Termine!F13",
+      "expected": 46370,
+      "actual": "2026-12-14 00:00:00"
+    },
+    {
+      "workbook": "09_Ablauf_und_Zahlungen.xlsx",
+      "input": "Zahlungen!C8",
+      "value": 500000,
+      "output": "Zahlungen!G9",
+      "expected": 24860,
+      "actual": 24860
+    },
+    {
+      "workbook": "24_Kreditorenabgleich.xlsx",
+      "input": "Ausgleich!C6",
+      "value": 22700,
+      "output": "Kreditoren!E10",
+      "expected": 3442,
+      "actual": 3442
+    },
+    {
+      "workbook": "24_Kreditorenabgleich.xlsx",
+      "input": "Ausgleich!D7",
+      "value": 0,
+      "output": "Kreditoren!E10",
+      "expected": 3603.8,
+      "actual": 3603.8
+    },
+    {
+      "workbook": "25_Projektkosten_und_Bank.xlsx",
+      "input": "Lohn August!D6",
+      "value": 31,
+      "output": "Projektkosten!D8",
+      "expected": 64550,
+      "actual": 64550
+    },
+    {
+      "workbook": "25_Projektkosten_und_Bank.xlsx",
+      "input": "Bank!E13",
+      "value": 0,
+      "output": "Bank!F13",
+      "expected": 80996.8,
+      "actual": 80996.8
+    },
+    {
+      "workbook": "25_Projektkosten_und_Bank.xlsx",
+      "input": "Fremdleistungen!D7",
+      "value": 220.005,
+      "output": "Projektkosten!D8",
+      "expected": 64479.995,
+      "actual": 64479.995
+    },
+    {
+      "workbook": "55_Ergaenzungsabgleich.xlsx",
+      "input": "Zuordnung!D10",
+      "value": 600,
+      "output": "Offene Posten!F20",
+      "expected": 9899,
+      "actual": 9899
+    },
+    {
+      "workbook": "55_Ergaenzungsabgleich.xlsx",
+      "input": "Bank!C6",
+      "value": 2956,
+      "output": "Bank!E6",
+      "expected": 100,
+      "actual": 100
+    },
+    {
+      "workbook": "55_Ergaenzungsabgleich.xlsx",
+      "input": "Belege!C20",
+      "value": -300,
+      "output": "Offene Posten!F20",
+      "expected": 9880,
+      "actual": 9880
+    }
+  ],
+  "central_quality_exit": 0,
+  "live_model_tests": false
+}

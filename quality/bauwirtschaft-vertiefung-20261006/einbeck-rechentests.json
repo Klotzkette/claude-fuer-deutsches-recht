@@ -1,0 +1,314 @@
+{
+  "baselines": [
+    {
+      "file": "48_2026-09-25_Aufmass_und_Rechnungsabgleich.xlsx",
+      "formulas": 88,
+      "baseline": "ok"
+    },
+    {
+      "file": "53_2026-10-02_Maengel_und_Befundverfolgung.xlsx",
+      "formulas": 8,
+      "baseline": "ok"
+    },
+    {
+      "file": "54_2026-10-05_Honorar_und_Belegstand.xlsx",
+      "formulas": 48,
+      "baseline": "ok"
+    }
+  ],
+  "mutation_tests": [
+    {
+      "sheet": "Prüfannahmen",
+      "cell": "B8",
+      "value": 0.5,
+      "outSheet": "Abgleich",
+      "outCell": "F30",
+      "expected": 53280.82,
+      "actual": 53280.82
+    },
+    {
+      "sheet": "Mengen",
+      "cell": "B8",
+      "value": 2,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": 123153.8,
+      "actual": 123153.8
+    },
+    {
+      "sheet": "Mengen",
+      "cell": "B8",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C20",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C21",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C22",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C23",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "D21",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "B24",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C21",
+      "value": "offen",
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "C21",
+      "value": 0,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": 113785.8,
+      "actual": 113785.8
+    },
+    {
+      "sheet": "Abgleich",
+      "cell": "B20",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "E26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Mengen",
+      "cell": "B23",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Mengen",
+      "cell": "E24",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F26",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Prüfannahmen",
+      "cell": "B9",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F30",
+      "expected": "Offen",
+      "actual": "Offen"
+    },
+    {
+      "sheet": "Prüfannahmen",
+      "cell": "B10",
+      "value": null,
+      "outSheet": "Abgleich",
+      "outCell": "F30",
+      "expected": "Offen",
+      "actual": "Offen"
+    },
+    {
+      "sheet": "Vorgänge",
+      "cell": "B10",
+      "value": "Ja",
+      "outSheet": "Vorgänge",
+      "outCell": "E10",
+      "expected": "Nachweis fehlt",
+      "actual": "Nachweis fehlt"
+    },
+    {
+      "sheet": "Vorgänge",
+      "cell": "D8",
+      "value": "Nein",
+      "outSheet": "Vorgänge",
+      "outCell": "B5",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "D16",
+      "value": 0.5,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": 53520,
+      "actual": 53520
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "D15",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Anteil prüfen",
+      "actual": "Anteil prüfen"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "D15",
+      "value": 0,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": 37680,
+      "actual": 37680
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "C5",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Anteil prüfen",
+      "actual": "Anteil prüfen"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "B8",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Anteil prüfen",
+      "actual": "Anteil prüfen"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "C19",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "C20",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "B8",
+      "value": 0.03,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": "Anteil prüfen",
+      "actual": "Anteil prüfen"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "B23",
+      "value": null,
+      "outSheet": "Honorar",
+      "outCell": "E24",
+      "expected": "Offen",
+      "actual": "Offen"
+    },
+    {
+      "sheet": "Honorar",
+      "cell": "C19",
+      "value": 0,
+      "outSheet": "Honorar",
+      "outCell": "E22",
+      "expected": 50040,
+      "actual": 50040
+    },
+    {
+      "outSheet": "Abgleich",
+      "outCell": "F32",
+      "expected": "Zahlungsbeleg fehlt",
+      "mutation": [
+        {
+          "sheet": 3,
+          "cell": "B12",
+          "value": "Belegt"
+        },
+        {
+          "sheet": 3,
+          "cell": "B13",
+          "value": 0
+        }
+      ],
+      "actual": "Zahlungsbeleg fehlt"
+    },
+    {
+      "outSheet": "Abgleich",
+      "outCell": "F32",
+      "expected": 52543.02,
+      "mutation": [
+        {
+          "sheet": 3,
+          "cell": "B12",
+          "value": "Belegt"
+        },
+        {
+          "sheet": 3,
+          "cell": "B13",
+          "value": 0
+        },
+        {
+          "sheet": 3,
+          "cell": "B14",
+          "value": "Zahlungsabgleich 06.10.2026"
+        }
+      ],
+      "actual": 52543.02
+    }
+  ]
+}

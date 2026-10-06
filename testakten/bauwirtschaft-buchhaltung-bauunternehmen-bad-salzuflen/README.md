@@ -10,12 +10,36 @@
 
 Rechnungs-, Leistungs- und Zahlungsabgleich eines regionalen Bauunternehmens mit 18 unterschiedlichen Lieferantenrechnungen und drei Rechnungskorrekturen. Der ursprüngliche Stapel enthält Skonto, Sicherheitseinbehalt und Augustlöhne. Der ergänzende Stapel ab Datei 31 bringt weitere Gewerke, Material, Miete, Entsorgung und Planung sowie ein getrenntes Projektkonto, Sammelzahlung, Teilzahlung und prüfbare Buchungsvorschläge. Stand: 25. September 2026, 16:00 Uhr.
 
-<!-- BEGIN gesamt-pdf-section (autogen) -->
-<!-- decimal-anchor --> <a id="akte-komplett-herunterladen"></a>
+<!-- BEGIN vertiefte-ausgabe-20261006 -->
 
-## 1.2. Akte komplett herunterladen
+<!-- decimal-anchor --> <a id="vertiefte-ausgabe-vom-6-oktober-2026"></a>
+
+## 1.2. Vertiefte Ausgabe vom 6. Oktober 2026
+
+**75 Originalunterlagen, darunter 7 bearbeitbare Excel-Arbeitsmappen.** Diese Ausgabe ergänzt 18 Aktenstücke. Die bisherigen Originale bleiben vollständig erhalten. Die neuen Mappen erläutern Eingaben, Quellen und Rechenwege; offene Angaben bleiben als solche erkennbar.
+
+Die folgenden Downloads enthalten den vollständigen erweiterten Bestand. Der Fallstichtag steht in den Übergabeunterlagen; das Ausgabedatum macht daraus keine nachträgliche Kenntnis der Beteiligten.
+
+> Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+>
+> This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+| Aktuelle vollständige Ausgabe | Download |
+| --- | --- |
+| Originale mit Word, Excel, E-Mail und Gesamt-PDF | [Akten-ZIP – vertieft](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-akten-2026-10-06/testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-vertieft-20261006.zip) |
+| Jede Unterlage als eigene PDF | [Einzel-PDF-ZIP – vertieft](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-akten-2026-10-06/testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-vertieft-20261006-einzelpdfs.zip) |
+| Alles zusammen als PDF | [Gesamt-PDF – vertieft](gesamt-pdf/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen_gesamt.pdf) |
+
+<!-- END vertiefte-ausgabe-20261006 -->
+
+<!-- BEGIN gesamt-pdf-section (autogen) -->
+<!-- decimal-anchor --> <a id="basisarchive-zur-pluginversion"></a>
+
+## 1.3. Basisarchive zur Pluginversion
 
 [Testakten-Übersicht](../README.md) · [Repository-Start](../../README.md) · [Plugin-Katalog](../../README.md#was-ist-drin) · [Download-Index](../../ASSET_INDEX.md)
+
+Die ZIP-Links in diesem Abschnitt bewahren die frühere Basisfassung aus akten-v445.33.0. Für die erweiterte Akte bitte die **vertiefte Ausgabe oben** verwenden. Das Repository-Gesamt-PDF enthält bereits die Erweiterung.
 
 Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen und Ausdrucken. Das Akten-ZIP enthält die nativen Originaldateien wie DOCX, Tabellen, E-Mails, Fotos und PDFs. Es enthält kein Markdown; sämtliche Dateien liegen ohne Unterordner unmittelbar auf der ZIP-Wurzelebene. Das Einzel-PDF-ZIP liefert jede Unterlage als separate, sauber gerenderte PDF unmittelbar auf der ZIP-Wurzelebene.
 
@@ -37,9 +61,9 @@ English: The original-format ZIP contains the working files directly at archive 
 
 <!-- decimal-anchor --> <a id="bestand"></a>
 
-## 1.3. Bestand
+## 1.4. Bestand
 
-57 native Aktenstücke. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
+75 native Aktenstücke, darunter sieben Excel-Arbeitsmappen. Jede Datei bildet ein Dokument ab. Die Arbeitsmappen sind bearbeitbar; E-Mail-Anhänge entsprechen den separat enthaltenen Quelldateien.
 
 | Nr. | Datei |
 | --- | --- |
@@ -100,15 +124,48 @@ English: The original-format ZIP contains the working files directly at archive 
 | 55 | `55_Ergaenzungsabgleich.xlsx` |
 | 56 | `56_Steuerliche_Bearbeitungsnotiz.pdf` |
 | 57 | `57_Zahlungszuordnung.csv` |
+| 58 | `58_Uebergabe_Detailnachweise.docx` |
+| 59 | `59_Rethmar_Restforderung.eml` |
+| 60 | `60_Mietnachweis_Rethmar.pdf` |
+| 61 | `61_Planpruefung_Eingangstreppe.docx` |
+| 62 | `62_Retzer_Leistungsaufteilung.eml` |
+| 63 | `63_Aufmass_Trockenbau_Vogt.pdf` |
+| 64 | `64_Stundennachweis_Sanitaer_Ahle.pdf` |
+| 65 | `65_Vogt_Bescheinigung_angefordert.eml` |
+| 66 | `66_Ahle_Jahresumfang_offen.eml` |
+| 67 | `67_Ruecklieferbeleg_Holzhandel.pdf` |
+| 68 | `68_Steinwerk_Sammelzahlung.pdf` |
+| 69 | `69_Arbeitsanweisung_Excel_Fortfuehrung.docx` |
+| 70 | `70_Zahlungsbesprechung_Freitag.docx` |
+| 71 | `71_Lohnstunden_Kostenverteilung.docx` |
+| 72 | `72_Offene_Posten_mit_Belegweg.xlsx` |
+| 73 | `73_Projektstunden_mit_Kostenbruecke.xlsx` |
+| 74 | `74_Mietbelege_und_Zahlungszuordnung.xlsx` |
+| 75 | `75_Zahlungsplanung_mit_Freigaben.xlsx` |
 
 <!-- decimal-anchor --> <a id="redaktion"></a>
 
-## 1.4. Redaktion
+## 1.5. Redaktion
 
 Autor: Klotzkette. Personen und Unternehmen des Sachverhalts sind erfunden. Die PNG-Dateien zeigen fachliche Bildschirmansichten des jeweiligen Falls. Die Prüfkriterien in `rubric.yaml` gehören nicht zum Export.
 
 <!-- decimal-anchor --> <a id="quellenstand"></a>
 
-## 1.5. Quellenstand
+## 1.6. Quellenstand
 
 Die steuerlichen Fallannahmen wurden am 25. September 2026 mit den amtlichen Einzelnormen abgeglichen: [Paragraf 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html) und [Paragraf 13b UStG](https://www.gesetze-im-internet.de/ustg_1980/__13b.html). Für den davon getrennten Bauabzug wurden [Paragraf 48 EStG](https://www.gesetze-im-internet.de/estg/__48.html) und [Paragraf 48b EStG](https://www.gesetze-im-internet.de/estg/__48b.html) geprüft. Die Bescheinigungsabschriften sind Fallunterlagen, keine tatsächlich erteilten Bescheinigungen. Vorsteuer und Rechnungskorrekturen wurden anhand [Paragraf 15 UStG](https://www.gesetze-im-internet.de/ustg_1980/__15.html) und [Paragraf 17 UStG](https://www.gesetze-im-internet.de/ustg_1980/__17.html) abgeglichen. Der Ergänzungsstapel verwendet einen eigenen Übungskontenstamm und keine zugesicherte DATEV-Schnittstelle. Rechtsprechung wird nicht verwendet.
+
+<!-- decimal-anchor --> <a id="ergänzende-excel-arbeit"></a>
+
+## 1.7. Ergänzende Excel-Arbeit
+
+Die ursprünglichen Dateien 24, 25 und 55 bleiben als historische Arbeitsstände unverändert. Die neuen Dateien führen deren Belegwege ausführlicher fort:
+
+| Mappe | Was sie erklärt |
+| --- | --- |
+| 72 Offene Posten mit Belegweg | Alle 18 Rechnungen mit Korrekturen, Skonto, Zahlungszuordnung und Quellenblatt. |
+| 73 Projektstunden mit Kostenbrücke | Auguststunden, Bruttolohn, Arbeitgeberbelastung und tatsächliche Septemberzahlungen. |
+| 74 Mietbelege und Zahlungszuordnung | Tagesmengen, Preise und Zahlungen getrennt nach Mietunternehmen; ungeklärter Weser-Abgang bleibt offen. |
+| 75 Zahlungsplanung mit Freigaben | Bearbeitbare Freigaben, Unterschied zwischen leer und 0, gesonderte Zahlungsbestandteile und Vorschau je Bankkonto. |
+
+Die Word-Arbeitsanweisung 69 erläutert die Fortführung. Formeln sind sichtbar und bearbeitbar. Die Mappen enthalten Arbeitsstände der Beteiligten und ersetzen die Prüfung der Originalbelege nicht.

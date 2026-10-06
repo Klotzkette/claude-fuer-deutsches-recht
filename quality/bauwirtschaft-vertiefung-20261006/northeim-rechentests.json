@@ -1,0 +1,92 @@
+[
+  {
+    "pruefung": "Preisrang ändert sich",
+    "erwartet": 3,
+    "erhalten": 3
+  },
+  {
+    "pruefung": "Leerpreis sperrt Summe",
+    "erwartet": "Preis fehlt",
+    "erhalten": "Preis fehlt"
+  },
+  {
+    "pruefung": "Nullpreis bleibt Zahl",
+    "erwartet": 235600,
+    "erhalten": 235600
+  },
+  {
+    "pruefung": "Cent-Rundung je Position",
+    "erwartet": 313600.01,
+    "erhalten": 313600.01
+  },
+  {
+    "pruefung": "Mengenänderung erreicht Summe",
+    "erwartet": 313718,
+    "erhalten": 313718
+  },
+  {
+    "pruefung": "Einkauf und Differenz",
+    "erwartet": 1000,
+    "erhalten": 1000
+  },
+  {
+    "pruefung": "Fehlender Luftstrom",
+    "erwartet": "Eingabe fehlt",
+    "erhalten": "Eingabe fehlt"
+  },
+  {
+    "pruefung": "Nullnenner abgefangen",
+    "erwartet": "Eingabe fehlt",
+    "erhalten": "Eingabe fehlt"
+  },
+  {
+    "pruefung": "Nullleistung ist numerisch",
+    "erwartet": 0,
+    "erhalten": 0
+  },
+  {
+    "pruefung": "SFP exakt 1,80",
+    "erwartet": "Grenze eingehalten",
+    "erhalten": "Grenze eingehalten"
+  },
+  {
+    "pruefung": "SFP knapp über 1,80",
+    "erwartet": "Grenze überschritten",
+    "erhalten": "Grenze überschritten"
+  },
+  {
+    "pruefung": "Ein Nachweis erledigt andere nicht",
+    "erwartet": "Weitere Angaben offen",
+    "erhalten": "Weitere Angaben offen"
+  },
+  {
+    "pruefung": "Fehlender Nachweisstatus",
+    "erwartet": "Arbeitsstand fehlt",
+    "erhalten": "Arbeitsstand fehlt"
+  },
+  {
+    "pruefung": "Stichtag nach Frist",
+    "erwartet": "offen, Termin vorbei",
+    "erhalten": "offen, Termin vorbei"
+  },
+  {
+    "pruefung": "Eingang genau zur Frist",
+    "erwartet": "bis Termin erfasst",
+    "erhalten": "bis Termin erfasst"
+  },
+  {
+    "pruefung": "Eingang eine Sekunde später",
+    "erwartet": "nach Termin erfasst",
+    "erhalten": "nach Termin erfasst"
+  },
+  {
+    "pruefung": "Ein Arbeitsschritt erledigt andere nicht",
+    "erwartet": "Arbeiten offen",
+    "erhalten": "Arbeiten offen"
+  },
+  {
+    "pruefung": "Leerer Arbeitsstand",
+    "erwartet": "Arbeitsstand fehlt",
+    "erhalten": "Arbeitsstand fehlt"
+  }
+]

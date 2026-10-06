@@ -1,0 +1,100 @@
+{
+  "edition": "bauwirtschaft-akten-2026-10-06",
+  "base_commit": "b2f0298220c9f82557206da9e5d3d086217d7467",
+  "cases": [
+    {
+      "slug": "bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen",
+      "originals": 75,
+      "preserved": 57,
+      "xlsx": 7,
+      "total_pdf_pages": 147,
+      "individual_pdf_pages": 92
+    },
+    {
+      "slug": "bauwirtschaft-hoai-buergerhaus-einbeck",
+      "originals": 55,
+      "preserved": 44,
+      "xlsx": 7,
+      "total_pdf_pages": 150,
+      "individual_pdf_pages": 108
+    },
+    {
+      "slug": "bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim",
+      "originals": 45,
+      "preserved": 32,
+      "xlsx": 8,
+      "total_pdf_pages": 83,
+      "individual_pdf_pages": 83
+    },
+    {
+      "slug": "bauwirtschaft-baumanagement-werkhalle-warendorf",
+      "originals": 43,
+      "preserved": 30,
+      "xlsx": 5,
+      "total_pdf_pages": 83,
+      "individual_pdf_pages": 56
+    }
+  ],
+  "assets": [
+    {
+      "name": "testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-vertieft-20261006.zip",
+      "size": 7761186,
+      "sha256": "5509b9bec4a543ad374048d866b27d7be6597a6c266f18b6af048931a0c20dcd"
+    },
+    {
+      "name": "testakte-bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen-vertieft-20261006-einzelpdfs.zip",
+      "size": 3811763,
+      "sha256": "e7e50b033cd603bb799e4fb0eb3f56ccaa5a21cb0ecafa08923e8877085b29b0"
+    },
+    {
+      "name": "bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen_gesamt.pdf",
+      "size": 3989114,
+      "sha256": "b3607b4be364b64fcbd3831daea2d9ee38fde7b64a98051b4e3a5bafc49f1160"
+    },
+    {
+      "name": "testakte-bauwirtschaft-hoai-buergerhaus-einbeck-vertieft-20261006.zip",
+      "size": 13812640,
+      "sha256": "a73701d88cf167244778a3a61f9814a6d78d4bed194599c50460cf9f000320e3"
+    },
+    {
+      "name": "testakte-bauwirtschaft-hoai-buergerhaus-einbeck-vertieft-20261006-einzelpdfs.zip",
+      "size": 5939464,
+      "sha256": "41774529d7db775b7a12ac6133e1a6521e983b2f3f8e74c47f000d93d2c2ea47"
+    },
+    {
+      "name": "bauwirtschaft-hoai-buergerhaus-einbeck_gesamt.pdf",
+      "size": 6797787,
+      "sha256": "374bb1a672178f46edee30bd9492507f7613ab4de61950933e7c78e3ab4b7e29"
+    },
+    {
+      "name": "testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim-vertieft-20261006.zip",
+      "size": 3623145,
+      "sha256": "ffe8cd1c8b5c83c3bc2d0f73ea4b45ac70fc2ac5eef49654f32211e3828ae129"
+    },
+    {
+      "name": "testakte-bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim-vertieft-20261006-einzelpdfs.zip",
+      "size": 1889193,
+      "sha256": "057a84182c2f8fee21f74965ab96e0b463317c5fca4e0ae13792d95c90130b5f"
+    },
+    {
+      "name": "bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim_gesamt.pdf",
+      "size": 2003561,
+      "sha256": "4b46de6574e7c0353b4e6576070a71abcddd4862bffa18084f79a84621a24418"
+    },
+    {
+      "name": "testakte-bauwirtschaft-baumanagement-werkhalle-warendorf-vertieft-20261006.zip",
+      "size": 3374515,
+      "sha256": "30be1f419afbdd10505d8c6d0f3c53e102ab3b6c4746723d42cb1985ee573a1e"
+    },
+    {
+      "name": "testakte-bauwirtschaft-baumanagement-werkhalle-warendorf-vertieft-20261006-einzelpdfs.zip",
+      "size": 1649183,
+      "sha256": "551659514baf55e036972caf634d6c4aac6222b61af9be8df167f1dadeb1715c"
+    },
+    {
+      "name": "bauwirtschaft-baumanagement-werkhalle-warendorf_gesamt.pdf",
+      "size": 1748431,
+      "sha256": "dea260c85242b1f646f288bfbe919875efc189eb7444da606cb21dfc175e2264"
+    }
+  ]
+}

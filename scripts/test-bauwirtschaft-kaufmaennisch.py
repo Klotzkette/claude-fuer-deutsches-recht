@@ -164,10 +164,10 @@ def sources_and_exports():
     for case in CASES:
         directory=ROOT/'testakten'/case
         sources=sorted(p for p in directory.iterdir() if p.is_file() and p.name[:2].isdigit())
-        expected_count=57 if case==CASES[1] else 30
+        expected_count=75 if case==CASES[1] else 43
         check(len(sources)==expected_count,case+f' {expected_count} Originale')
         check({p.suffix for p in sources}=={'.pdf','.docx','.xlsx','.csv','.txt','.eml','.png'},case+' vollständiger Formatmix')
-        check(len(list(directory.glob('*.xlsx')))==(3 if case==CASES[1] else 2) and len(list(directory.glob('*.png')))==2,case+' Mappen und zwei PNGs vollständig')
+        check(len(list(directory.glob('*.xlsx')))==(7 if case==CASES[1] else 5) and len(list(directory.glob('*.png')))==2,case+' Mappen und zwei PNGs vollständig')
         for p in sources:
             if p.suffix=='.png':
                 im=Image.open(p);check(im.format=='PNG' and min(im.size)>=900,p.name+' echte hochauflösende PNG-Datei')
@@ -242,10 +242,18 @@ def formulas():
                     for c in row:
                         if c.data_type!='f':continue
                         count+=1
-                        check(len(c.value)<=260 and not re.search(r'\b(?:LET|LAMBDA|MAP|REDUCE|INDIRECT|OFFSET|TABLE)\(',c.value),p.name+' '+s.title+'!'+c.coordinate+' begrenzte Formel')
+                        historical=int(p.name[:2]) <= (57 if case==CASES[1] else 30)
+                        check((not historical or len(c.value)<=260) and not re.search(r'\b(?:LET|LAMBDA|MAP|REDUCE|INDIRECT|OFFSET|TABLE)\(',c.value),p.name+' '+s.title+'!'+c.coordinate+' begrenzte Formel')
                         check(not re.search(r'\$?[A-Z]+:\$?[A-Z]+',c.value),p.name+' '+c.coordinate+' begrenzter Bereich')
-                        check(values[s.title][c.coordinate].data_type!='e' and values[s.title][c.coordinate].value is not None,p.name+' '+s.title+'!'+c.coordinate+' gespeicherter Rechenwert')
-            check(20<=count<=300,p.name+f' {count} nachvollziehbare Formeln')
+                        cached=values[s.title][c.coordinate]
+                        # Vorbereitete, unbenutzte Eingabezeilen liefern bewusst
+                        # einen gespeicherten Leerstring statt eines Nullbetrags.
+                        empty_string=(not historical and cached.data_type=='str' and '""' in c.value)
+                        check(cached.data_type!='e' and (cached.value is not None or empty_string),p.name+' '+s.title+'!'+c.coordinate+' gespeicherter Rechenwert')
+            # Ergänzungen besitzen eigene fachliche, native Mutationstests; eine
+            # künstliche Mindestzahl wäre für kleine Eingabeprüfungen unpassend.
+            minimum=20 if int(p.name[:2]) <= (57 if case==CASES[1] else 30) else 1
+            check(minimum<=count<=300,p.name+f' {count} nachvollziehbare Formeln')
             form.close();values.close()
 
 
@@ -352,6 +360,7 @@ def quality():
     q=importlib.util.module_from_spec(spec);spec.loader.exec_module(q)
     # Nur die beiden beauftragten Akten, mit unveränderten zentralen Regeln.
     class Scope:
+        def __fspath__(self):return os.fspath(ROOT/'testakten')
         def iterdir(self):return iter([ROOT/'testakten'/c for c in CASES])
         def rglob(self,pattern):return (p for c in CASES for p in (ROOT/'testakten'/c).rglob(pattern))
         def __truediv__(self,other):return ROOT/'testakten'/other

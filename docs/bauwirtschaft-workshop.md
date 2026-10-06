@@ -4,7 +4,7 @@ Sechs übergreifende Akten verbinden Planung, Bauausführung, Vergabe und kaufm�
 
 ## 1.1. Vorbereitung
 
-Öffne die [Plugin-Übersicht](../bauwirtschaft/README.md) und lade dort das Plugin oder einen der beiden Prompts. Für die Buchhaltungsübungen verwende den erweiterten Stand ab v445.4.0. Das Originalformat-ZIP der gewählten Akte enthält bearbeitbare Excel- und Word-Dateien sowie Rechnungen, Korrespondenz und weitere Belege. Entpacke es in einen eigenen Arbeitsordner. Gesamt-PDF und Einzel-PDFs eignen sich zum Lesen; für Neuberechnungen brauchst du die Originaltabellen.
+Öffne die [Plugin-Übersicht](../bauwirtschaft/README.md) und lade dort das Plugin oder einen der beiden Prompts. Für Einbeck, Northeim, Bad Salzuflen und Warendorf verwende die **vertiefte Ausgabe vom 6. Oktober 2026** auf der jeweiligen Aktenseite. Sie enthält zusammen 218 Originalunterlagen und 27 Excel-Mappen; 55 Unterlagen und 13 Excel-Mappen sind neu hinzugekommen. Das Originalformat-ZIP der gewählten Akte enthält bearbeitbare Excel- und Word-Dateien sowie Rechnungen, Korrespondenz und weitere Belege. Entpacke es in einen eigenen Arbeitsordner. Gesamt-PDF und Einzel-PDFs eignen sich zum Lesen; für Neuberechnungen brauchst du die Originaltabellen.
 
 Arbeite für jede Übung in einer Kopie des Aktenordners. Lade entweder den passenden Fachskill oder den eigenständigen Prompt und ergänze den jeweiligen Arbeitsauftrag unten. Halte beim Vergleich mehrerer Modelle Aktenstand und Auftrag gleich. Ein ausgefülltes Arbeitsblatt oder ein Prüfvermerk eines Beteiligten ist Teil der Fallunterlagen und muss anhand seiner Belege geprüft werden.
 
@@ -29,16 +29,18 @@ This test case file was generated with AI and is an experiment. Use at your own 
 | --- | --- |
 | Hildesheim mit Projektordnern | [Erweiterte Lebensakte mit täglichem Bautagebuch, detaillierten Leistungsverzeichnissen, Wordvorlagen und optionaler Verkaufsvariante](../testakten/bauwirtschaft-hildesheim-lebensakte/README.md). |
 | Achtfamilienhaus Hildesheim | [Alle neun Phasen, Erwerb, Bau, Vermietung, Rechnungen und Excel-Arbeitsmappen](../testakten/bauwirtschaft-neubau-achtfamilienhaus-hildesheim/README.md). |
-| Bürgerhaus Leinewinkel in Einbeck | [44 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md). |
-| Lüftungslos Feuerwehrhaus Northeim | [32 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md). |
-| Bauunternehmen Bad Salzuflen | [18 unterschiedliche Rechnungen, weitere Belege und Tabellen](../testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen/README.md). |
-| Werkhalle Warendorf | [30 Originalunterlagen, Gesamt-PDF und beide ZIP-Varianten](../testakten/bauwirtschaft-baumanagement-werkhalle-warendorf/README.md). |
+| Bürgerhaus Leinewinkel in Einbeck | [55 Originalunterlagen, sieben Excel-Mappen und aktuelle Downloads](../testakten/bauwirtschaft-hoai-buergerhaus-einbeck/README.md). |
+| Lüftungslos Feuerwehrhaus Northeim | [45 Originalunterlagen, acht Excel-Mappen und aktuelle Downloads](../testakten/bauwirtschaft-vergabeverfahren-feuerwehrhaus-northeim/README.md). |
+| Bauunternehmen Bad Salzuflen | [75 Originalunterlagen, 18 unterschiedliche Rechnungen, sieben Excel-Mappen und aktuelle Downloads](../testakten/bauwirtschaft-buchhaltung-bauunternehmen-bad-salzuflen/README.md). |
+| Werkhalle Warendorf | [43 Originalunterlagen, fünf Excel-Mappen und aktuelle Downloads](../testakten/bauwirtschaft-baumanagement-werkhalle-warendorf/README.md). |
 
 ## 1.3. Bürgerhaus Einbeck: Leistungsphasen 1–9
 
 Der Fall betrifft das Leistungsbild Gebäude. Die neun Leistungsphasen sind Grundlagenermittlung, Vorplanung, Entwurfsplanung, Genehmigungsplanung, Ausführungsplanung, Vorbereitung der Vergabe, Mitwirkung bei der Vergabe, Objektüberwachung einschließlich Bauüberwachung und Dokumentation sowie Objektbetreuung. Maßgeblich für die Zuordnung ist [Anlage 10 Nummer 10.1 HOAI](https://www.gesetze-im-internet.de/hoai_2013/anlage_10.html). Der konkret geschuldete Umfang folgt aus dem jeweiligen Vertrag.
 
 Die Akte führt vom Bedarf und Architektenvertrag über Planung und Genehmigung bis zu Bautagebuch, Aufmaß, Nachtrag, Schlussrechnung, Abnahme und späterer Mängelmeldung. Einzelne weitere Gewerke sind nur über das Archivverzeichnis nachgewiesen; die Akte bildet damit einen belegten Ausschnitt des Gesamtprojekts ab.
+
+Die Ergänzungen 45–55 führen den Kenntnisstand bis zum 6. Oktober 2026 fort: detaillierte Mengenherleitung, Gerätebereitschaft, Betriebsbeobachtungen und Honorar-/Belegprüfung. Drei neue Excel-Mappen enthalten die Rechen- und Bearbeitungshinweise.
 
 ### 1.3.1. Alle Phasen nachvollziehen
 
@@ -64,6 +66,8 @@ Skills: `bauangebote-werten-und-vergabevorschlag-erstellen`, `bieterfragen-und-r
 
 > Bearbeite den Vergabestand des Lüftungsloses zum aktenkundigen Stichtag aus Sicht der Vergabestelle. Prüfe die drei Angebote anhand der bekanntgemachten Anforderungen, des Leistungsverzeichnisses und der rechtzeitig vorliegenden Unterlagen. Rechne den Preisspiegel aus den Originalangeboten nach. Trenne Eignung, Angebotsinhalt, Aufklärung und Zuschlagswertung. Beziehe die Bieterfrage, Antwort, Nachforderung, Rüge und Unterlagen zum Nachprüfungsverfahren ein. Erstelle einen begründeten Vergabevermerk mit Fristen, Zuschlagsstatus und dem jetzt erforderlichen Handlungsschritt.
 
+Die Ergänzungen 33–45 liefern weitere Korrespondenz und erläuterte Excel-Mappen für Preisvergleich, technische Aufklärung sowie Termin- und Unterlagenkontrolle. Ein günstiger Preis beantwortet dabei noch keine technische oder verfahrensrechtliche Frage.
+
 Als zweite Runde kann ein anderes Team aus Sicht des betroffenen Bieters prüfen. Beide Teams sollen dieselben Originaldateien verwenden. Verglichen werden die tragenden Tatsachen, Berechnungen und rechtlichen Schlussfolgerungen, nicht die Länge der Texte.
 
 ## 1.5. Bad Salzuflen: Rechnungen, Buchhaltung und Zahlungsverkehr
@@ -73,6 +77,8 @@ Skills: `baubuchhaltung-und-belege-abgleichen`, `baurechnungen-pruefen-und-zahlu
 Die Akte enthält 18 unterschiedliche Rechnungen aus dem Bauumfeld sowie Korrekturbelege und eine erneut übersandte Rechnungskopie. Der Grundbestand und der ergänzende Belegstapel besitzen getrennte Bankbestände. Die Abgrenzung ist in den Übergabeunterlagen dokumentiert. Der fallinterne Konten- und Steuerschlüsselstamm dient der Übung; ein Export darf nicht ungeprüft als Importdatei einer bestimmten Buchhaltungssoftware behandelt werden.
 
 Die Tabellenformeln decken den gelieferten Belegstapel ab. Wenn du in einer weiteren Runde zusätzliche Rechnungen, Korrekturen oder Zahlungen einfügst, lasse die Formelbereiche erweitern und die Bearbeitungsstände aktualisieren. Prüfe anschließend die Summenbrücken erneut.
+
+Die ergänzten Mappen 72–75 erklären offene Posten, Stundenkosten, Mietabrechnungen und Freigaben. Beginne mit der Word-Arbeitsanweisung 69. Die Dateien 24, 25 und 55 bleiben zum Vergleich erhalten. Schriftliche Rückmeldungen 58–71 liefern die zugehörigen Nachweise und noch offenen Fragen.
 
 ### 1.5.1. Belege erfassen
 
@@ -91,6 +97,8 @@ Die Tabellenformeln decken den gelieferten Belegstapel ab. Wenn du in einer weit
 Skills: `baubudget-und-kostenprognose-fortschreiben`, `bauablauf-und-terminplan-fortschreiben`, `projektbericht-und-entscheidungsvorlage-erstellen`.
 
 > Aktualisiere für die Werkhalle Warendorf Kostenprognose, Terminstand und Zahlungsplanung anhand der verspäteten Trafostation und der angebotenen Zwischenlösungen. Trenne Auftrag, Rechnung, Zahlung, Restleistung und Risiko. Vermeide die doppelte Erfassung von Nachtrag und Prognose. Stelle dem Auftraggeber die entscheidungsreifen Varianten mit ihren belegten Mehrkosten und Terminfolgen gegenüber und formuliere eine kurze Entscheidungsvorlage.
+
+Die Ergänzungen 31–43 vertiefen Lieferkette, Anschlussvoraussetzungen, Abendbetrieb, Restleistungsangebot und Zahlungslauf. Drei neue Excel-Mappen zeigen technische Voraussetzungen, Kostenansätze und Zahlungsentscheidungen getrennt; fehlende Preise oder Termine werden nicht als null behandelt.
 
 ## 1.7. Gemeinsame Auswertung
 

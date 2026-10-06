@@ -46,9 +46,9 @@ def cents(n):return Decimal(str(n)).quantize(Decimal('.01'),rounding=ROUND_HALF_
 class CaseTests(unittest.TestCase):
     def test_01_scope_and_file_count(self):
         originals=[p for p in CASE.iterdir() if p.name[:2].isdigit()]
-        self.assertEqual(len(originals),32)
-        self.assertEqual(sorted(int(p.name[:2]) for p in originals),list(range(1,33)))
-        self.assertEqual(Counter(p.suffix for p in originals),{'.docx':10,'.pdf':9,'.xlsx':5,'.eml':4,'.png':2,'.csv':1,'.txt':1})
+        self.assertEqual(len(originals),45)
+        self.assertEqual(sorted(int(p.name[:2]) for p in originals),list(range(1,46)))
+        self.assertEqual(Counter(p.suffix for p in originals),{'.docx':14,'.pdf':12,'.xlsx':8,'.eml':7,'.png':2,'.csv':1,'.txt':1})
         self.assertFalse(list(CASE.rglob('*.ndjson')))
         self.assertFalse(list(CASE.rglob('*.json')))
         self.assertFalse(list(CASE.rglob('*.pyc')))
@@ -179,7 +179,7 @@ class CaseTests(unittest.TestCase):
         rz.assert_same('Originale',rz.expected_entries(CASE),rz.zip_entries(source,require_notice=True))
         ez.assert_same('Einzel-PDF',[ez.NOTICE_FILENAME,*ez.expected_arcnames(CASE)],ez.zip_entries(single,expected_suffix='.pdf'))
         with zipfile.ZipFile(single) as z:
-            self.assertEqual(len(z.namelist()),33)
+            self.assertEqual(len(z.namelist()),46)
             for n in z.namelist():
                 if n=='README.txt':self.assertTrue(z.read(n).startswith(NOTICE_BYTES));continue
                 reader=PdfReader(io.BytesIO(z.read(n)))
@@ -190,7 +190,7 @@ class CaseTests(unittest.TestCase):
                     compact=re.sub(r'\s+','','\n'.join(p.extract_text() or '' for p in reader.pages))
                     for amount in ('313.600,00','356.178,00','371.876,00'):self.assertIn(amount,compact)
         with zipfile.ZipFile(source) as z:
-            self.assertEqual(len(z.namelist()),34)
+            self.assertEqual(len(z.namelist()),47)
             self.assertTrue(z.read('README.txt').startswith(NOTICE_BYTES))
             self.assertFalse(any(n.endswith(('.json','.ndjson','.yaml','.md')) for n in z.namelist()))
             for original in CASE.iterdir():

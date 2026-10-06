@@ -1,0 +1,424 @@
+{
+  "baseline": [
+    {
+      "file": "72_Offene_Posten_mit_Belegweg.xlsx",
+      "sheet": "Offene Posten",
+      "cell": "F26",
+      "expected": 13341,
+      "actual": 13341
+    },
+    {
+      "file": "72_Offene_Posten_mit_Belegweg.xlsx",
+      "sheet": "Offene Posten",
+      "cell": "F17",
+      "expected": 571,
+      "actual": 571
+    },
+    {
+      "file": "73_Projektstunden_mit_Kostenbruecke.xlsx",
+      "sheet": "Stunden",
+      "cell": "G18",
+      "expected": 25400,
+      "actual": 25400
+    },
+    {
+      "file": "73_Projektstunden_mit_Kostenbruecke.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C15",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "file": "74_Mietbelege_und_Zahlungszuordnung.xlsx",
+      "sheet": "Zahlungsweg",
+      "cell": "E12",
+      "expected": 571,
+      "actual": 571
+    },
+    {
+      "file": "75_Zahlungsplanung_mit_Freigaben.xlsx",
+      "sheet": "Konten",
+      "cell": "D8",
+      "expected": "offen",
+      "actual": "offen"
+    },
+    {
+      "file": "75_Zahlungsplanung_mit_Freigaben.xlsx",
+      "sheet": "Konten",
+      "cell": "D9",
+      "expected": "offen",
+      "actual": "offen"
+    }
+  ],
+  "mutations": [
+    {
+      "file": "probe-00.xlsx",
+      "sheet": "Offene Posten",
+      "cell": "F26",
+      "expected": "Angabe fehlt",
+      "actual": "Angabe fehlt",
+      "changes": [
+        [
+          1,
+          "C17",
+          null
+        ]
+      ]
+    },
+    {
+      "file": "probe-01.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C15",
+      "expected": "Angabe fehlt",
+      "actual": "Angabe fehlt",
+      "changes": [
+        [
+          1,
+          "C8",
+          null
+        ]
+      ]
+    },
+    {
+      "file": "probe-02.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C15",
+      "expected": "Angabe fehlt",
+      "actual": "Angabe fehlt",
+      "changes": [
+        [
+          1,
+          "B8",
+          "BS26-99"
+        ]
+      ]
+    },
+    {
+      "file": "probe-03.xlsx",
+      "sheet": "Zahlungsweg",
+      "cell": "E12",
+      "expected": "Angabe fehlt",
+      "actual": "Angabe fehlt",
+      "changes": [
+        [
+          1,
+          "C10",
+          null
+        ]
+      ]
+    },
+    {
+      "file": "probe-04.xlsx",
+      "sheet": "Konten",
+      "cell": "C8",
+      "expected": "Kontozuordnung offen",
+      "actual": "Kontozuordnung offen",
+      "changes": [
+        [
+          1,
+          "B8",
+          null
+        ]
+      ]
+    },
+    {
+      "file": "probe-05.xlsx",
+      "sheet": "Konten",
+      "cell": "C9",
+      "expected": "Kontozuordnung offen",
+      "actual": "Kontozuordnung offen",
+      "changes": [
+        [
+          1,
+          "B8",
+          "999999"
+        ]
+      ]
+    },
+    {
+      "file": "probe-06.xlsx",
+      "sheet": "Offene Posten",
+      "cell": "F17",
+      "expected": 500,
+      "actual": 500,
+      "changes": [
+        [
+          1,
+          "E17",
+          571
+        ]
+      ]
+    },
+    {
+      "file": "probe-07.xlsx",
+      "sheet": "Offene Posten",
+      "cell": "F13",
+      "expected": 238,
+      "actual": 238,
+      "changes": [
+        [
+          1,
+          "D13",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-08.xlsx",
+      "sheet": "Abstimmung",
+      "cell": "C15",
+      "expected": 300,
+      "actual": 300,
+      "changes": [
+        [
+          1,
+          "C8",
+          80
+        ]
+      ]
+    },
+    {
+      "file": "probe-09.xlsx",
+      "sheet": "Stunden",
+      "cell": "G8",
+      "expected": 440,
+      "actual": 440,
+      "changes": [
+        [
+          1,
+          "C8",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-10.xlsx",
+      "sheet": "Zahlungsweg",
+      "cell": "E9",
+      "expected": 749.5,
+      "actual": 749.5,
+      "changes": [
+        [
+          1,
+          "C10",
+          7
+        ]
+      ]
+    },
+    {
+      "file": "probe-11.xlsx",
+      "sheet": "Zahlvorschlag",
+      "cell": "F11",
+      "expected": 571,
+      "actual": 571,
+      "changes": [
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          571
+        ],
+        [
+          1,
+          "E11",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-12.xlsx",
+      "sheet": "Zahlvorschlag",
+      "cell": "F11",
+      "expected": "offen",
+      "actual": "offen",
+      "changes": [
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          571
+        ]
+      ]
+    },
+    {
+      "file": "probe-13.xlsx",
+      "sheet": "Zahlvorschlag",
+      "cell": "F11",
+      "expected": 0,
+      "actual": 0,
+      "changes": [
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          0
+        ],
+        [
+          1,
+          "E11",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-14.xlsx",
+      "sheet": "Zahlvorschlag",
+      "cell": "F11",
+      "expected": "offen",
+      "actual": "offen",
+      "changes": [
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          -1
+        ],
+        [
+          1,
+          "E11",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-15.xlsx",
+      "sheet": "Konten",
+      "cell": "D8",
+      "expected": 77069.8,
+      "actual": 77069.8,
+      "changes": [
+        [
+          1,
+          "C8",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D8",
+          2142
+        ],
+        [
+          1,
+          "E8",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-16.xlsx",
+      "sheet": "Konten",
+      "cell": "D9",
+      "expected": "offen",
+      "actual": "offen",
+      "changes": [
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          571
+        ],
+        [
+          1,
+          "E11",
+          0
+        ]
+      ]
+    },
+    {
+      "file": "probe-17.xlsx",
+      "sheet": "Konten",
+      "cell": "D9",
+      "expected": 28219.8,
+      "actual": 28219.8,
+      "changes": [
+        [
+          1,
+          "C9",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D9",
+          4800
+        ],
+        [
+          1,
+          "E9",
+          0
+        ],
+        [
+          1,
+          "C10",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D10",
+          3200
+        ],
+        [
+          1,
+          "E10",
+          0
+        ],
+        [
+          1,
+          "C11",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D11",
+          571
+        ],
+        [
+          1,
+          "E11",
+          0
+        ],
+        [
+          1,
+          "C12",
+          "freigegeben"
+        ],
+        [
+          1,
+          "D12",
+          1428
+        ],
+        [
+          1,
+          "E12",
+          0
+        ]
+      ]
+    }
+  ],
+  "formulas": {
+    "72_Offene_Posten_mit_Belegweg.xlsx": 22,
+    "73_Projektstunden_mit_Kostenbruecke.xlsx": 32,
+    "74_Mietbelege_und_Zahlungszuordnung.xlsx": 29,
+    "75_Zahlungsplanung_mit_Freigaben.xlsx": 9
+  },
+  "historische_originale_unveraendert": 57
+}

@@ -40,3 +40,24 @@ checks:
     check_type: file_exists
     path: 09_Ablauf_und_Zahlungen.xlsx
     description: Termin- und Zahlungsmappe mit veränderbaren Eingaben liegt vor.
+  - id: energie-fortfuehrung
+    check_type: file_exists
+    path: 41_Energie_und_Freigaben.xlsx
+    description: Bedingte Anlaufdaten beider Linien, drei Varianten und sechs getrennte Freigabevoraussetzungen sind bearbeitbar.
+  - id: mobilkosten-fortfuehrung
+    check_type: file_exists
+    path: 42_Mobilversorgung_Kosten.xlsx
+    description: Mengengerüst, Angebotswerte, offene Maschinenservicekosten und Zahlungsstaffel lassen sich mit sichtbarer Eingabelogik fortführen.
+  - id: zahlung-fortfuehrung
+    check_type: file_exists
+    path: 43_Zahlungen_und_Entscheidungen.xlsx
+    description: Zahlungsdatum, Einplanung, Freigabe und tatsächliche Zahlung bleiben getrennt; neue Vorgänge und Druckluftmehransatz werden rechnerisch berücksichtigt.
+  - id: abendbetrieb-nachweise
+    check_type: human_review
+    description: Angebotene Abendfenster weder als zugelassene Arbeitszeiten noch als verbindlich verkürzte Versuchsphase behandeln. Anfrage ohne Antwort, fehlende Teamzusage und unbepreisten Maschinenservice aus Dateien 34, 35 und 40 berücksichtigen.
+  - id: lieferkette-schnittstellen
+    check_type: human_review
+    description: Schutzmodul, Funktionsprüfung, Verladung, Anlieferung und Anschluss aus 31 bis 33 getrennt nach Quelle und Bedingung darstellen. Rechnerische 10 kVA Differenz ersetzt keinen Nachweis der Anlaufströme.
+  - id: druckluft-restkosten
+    check_type: human_review
+    description: Neues Gesamtangebot aus Datei 38 mit bisherigem Restkostenansatz und Leistungsgrenze in Datei 39 abgleichen. Keine automatische Bestellung und keine doppelte Kostenaufnahme des gesamten Angebotsbetrags.

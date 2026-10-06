@@ -1,0 +1,166 @@
+{
+  "Engine": "/Users/klotzkette/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/override/soffice",
+  "Baseline": "bestanden",
+  "Metadaten_nach_Office": {
+    "creator": "Klotzkette",
+    "language": "de-DE",
+    "Dateien": [
+      "41_Energie_und_Freigaben.xlsx",
+      "42_Mobilversorgung_Kosten.xlsx",
+      "43_Zahlungen_und_Entscheidungen.xlsx"
+    ],
+    "Nur_core_xml_geaendert": true
+  },
+  "Mutationen": [
+    {
+      "Fall": "energie_spaeter",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_freigabe_teil",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_freigabe_voll",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_abend_offen",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "energie_fehlendes_datum",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_negative_dauer",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_inaktive_dauer_leer",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "energie_variante_leer",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 5
+    },
+    {
+      "Fall": "energie_variante_text",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 5
+    },
+    {
+      "Fall": "energie_variante_ausserhalb",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 5
+    },
+    {
+      "Fall": "energie_variante_dezimal",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 5
+    },
+    {
+      "Fall": "kosten_abend_unbekannt",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "kosten_abend_bepreist",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "kosten_abend_null",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "kosten_verlaengerung",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "kosten_verlaengerung_zu_lang",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "kosten_fehlender_satz",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_reserve_september",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_mobil_einplanen",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_einzeln_freigegeben",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_fehlendes_datum",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_fehlender_preis",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_doppelter_schluessel",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_neuer_vorgang",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_zeitgrenze",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    },
+    {
+      "Fall": "zahlung_negativer_betrag",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_abend_ohne_service",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_invalides_planfeld",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_fehlende_steuer",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 1
+    },
+    {
+      "Fall": "zahlung_druckluft_fortschreiben",
+      "Ergebnis": "bestanden",
+      "Prüfzellen": 2
+    }
+  ]
+}
