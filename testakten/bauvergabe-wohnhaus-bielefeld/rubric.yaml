@@ -1,0 +1,248 @@
+{
+  "id": "bauvergabe-wohnhaus-bielefeld",
+  "name": "Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof",
+  "title": "Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof",
+  "plugin": "bauvergabe-unterlagen",
+  "checks": [
+    {
+      "id": "original-1",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/01_Projektauftrag.docx"
+    },
+    {
+      "id": "original-2",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/02_Planungsstand_Risikovermerk.docx"
+    },
+    {
+      "id": "original-3",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/03_Leistungsbeschreibung_Arbeitsstand.docx"
+    },
+    {
+      "id": "original-4",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/04_Teilnahme_und_Wertung.docx"
+    },
+    {
+      "id": "original-5",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/05_Bauvertrag_Entwurf.docx"
+    },
+    {
+      "id": "original-6",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/06_Freigabe_offene_Punkte.eml"
+    },
+    {
+      "id": "original-7",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "01-vergabeunterlagen/07_Mengen_Preisblatt.csv"
+    },
+    {
+      "id": "original-8",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/01_Bekanntmachungsprotokoll.docx"
+    },
+    {
+      "id": "original-9",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/02_Bieterfrage_Boden.eml"
+    },
+    {
+      "id": "original-10",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/03_Berichtigung_01.docx"
+    },
+    {
+      "id": "original-11",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/03_Berichtigung_01.pdf"
+    },
+    {
+      "id": "original-12",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/04_Angebotseingang.csv"
+    },
+    {
+      "id": "original-13",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/05_Wertungsvermerk_erster_Stand.docx"
+    },
+    {
+      "id": "original-14",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/06_Vorabinformation.docx"
+    },
+    {
+      "id": "original-15",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "02-vergabeverfahren/06_Vorabinformation.pdf"
+    },
+    {
+      "id": "original-16",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/01_Angebotsentscheidung.docx"
+    },
+    {
+      "id": "original-17",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/02_Angebotskalkulation.xlsx"
+    },
+    {
+      "id": "original-18",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/03_Eignung_Kapazitaeten.docx"
+    },
+    {
+      "id": "original-19",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/03a_Verpflichtung_Knuff.docx"
+    },
+    {
+      "id": "original-20",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/04_Angebotsschreiben.docx"
+    },
+    {
+      "id": "original-21",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/05_Nachforderung.eml"
+    },
+    {
+      "id": "original-22",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "03-bieterarbeit/06_Antwort_Aufklaerung.eml"
+    },
+    {
+      "id": "original-23",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/01_Mandatsauftrag.eml"
+    },
+    {
+      "id": "original-24",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/02_Ruege_Entwurf.docx"
+    },
+    {
+      "id": "original-25",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/02_Ruege_Entwurf.pdf"
+    },
+    {
+      "id": "original-26",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/03_Nichtabhilfe.eml"
+    },
+    {
+      "id": "original-27",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/04_Nachpruefungsantrag_Entwurf.docx"
+    },
+    {
+      "id": "original-28",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "04-rechtsschutz/05_Fortgang_Aktennotiz.docx"
+    },
+    {
+      "id": "original-29",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/01_Zuschlag_Vertragsbaseline.docx"
+    },
+    {
+      "id": "original-30",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/01_Zuschlag_Vertragsbaseline.pdf"
+    },
+    {
+      "id": "original-31",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/02_Anordnung_Planrevision.eml"
+    },
+    {
+      "id": "original-32",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/03_Nachtragsangebot.docx"
+    },
+    {
+      "id": "original-33",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/04_Aufmass_N01.csv"
+    },
+    {
+      "id": "original-34",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/05_Bauablauf_Protokoll.docx"
+    },
+    {
+      "id": "original-35",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/06_Nachtragskosten.xlsx"
+    },
+    {
+      "id": "original-36",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/07_Pruefantwort.eml"
+    },
+    {
+      "id": "original-37",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/08_Abschlagsrechnung.docx"
+    },
+    {
+      "id": "original-38",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/08_Abschlagsrechnung.pdf"
+    },
+    {
+      "id": "original-39",
+      "check_type": "file_exists",
+      "description": "Die benannte Arbeitsunterlage ist vorhanden.",
+      "path": "05-nachtragsmanagement/09_Abnahmeprotokoll.docx"
+    },
+    {
+      "id": "gesamt-pdf",
+      "check_type": "file_exists",
+      "description": "Die durchgehende Lesefassung liegt vor.",
+      "path": "gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Jede Testakte wird in drei gleichwertigen Fassungen ausgeliefert:
 
 Das Gesamt-PDF ersetzt die Einzeldokumente nicht. Es ist die Lesefassung neben den heterogenen Originaldateien. Die beiden ZIPs müssen nach dem Öffnen ihre Ablage ohne vorgeschalteten Aktenordner zeigen.
 
-**Ausdrücklich bestellte Projektordner:** Für `bauwirtschaft-hildesheim-lebensakte` bleiben auf Nutzerwunsch die relativen Unterordner in beiden ZIP-Varianten erhalten. Die `README.txt` steht weiterhin zuerst auf der ZIP-Wurzel. Pfadtraversal, absolute Pfade, Steuerzeichen und Namenskollisionen bleiben ausgeschlossen. Alle anderen Akten behalten ihre flachen Archive.
+**Ausdrücklich bestellte Projektordner:** Für `bauwirtschaft-hildesheim-lebensakte`, `fintech-darlehen-vertragsuebernahme-bremen`, `bauvergabe-klinikum-muenster` und `bauvergabe-wohnhaus-bielefeld` bleiben auf Nutzerwunsch die relativen Unterordner in beiden ZIP-Varianten erhalten. Die `README.txt` steht weiterhin zuerst auf der ZIP-Wurzel. Pfadtraversal, absolute Pfade, Steuerzeichen und Namenskollisionen bleiben ausgeschlossen. Alle anderen Akten behalten ihre flachen Archive.
 
 ## Inhaltliche Qualität
 

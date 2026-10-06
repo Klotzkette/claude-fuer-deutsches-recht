@@ -1,0 +1,471 @@
+{
+  "schema_version": 1,
+  "plugin": "bauvergabe-rechtsschutz",
+  "reviewed_on": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__134.html",
+      "checked_on": "2026-10-06",
+      "supports": "Absendung als Wartefristauslöser; direkter amtlicher HTML-Abruf."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__160.html",
+      "checked_on": "2026-10-06",
+      "supports": "Antragsbefugnis, Rügeauslöser, Nichtabhilfe und aktuelle Sonderregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-10-06",
+      "supports": "Zuschlagsverbot und Ende bei Obsiegen des Auftraggebers mit Bekanntgabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__173.html",
+      "checked_on": "2026-10-06",
+      "supports": "Beschwerde gegen Ablehnung ohne aufschiebende Wirkung; Fortdauer einer Zuschlagsuntersagung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__187.html",
+      "checked_on": "2026-10-06",
+      "supports": "Übergang für vor Juli 2026 begonnene Vergaben und erfasste Nachprüfungen."
+    },
+    {
+      "url": "https://www.bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher VOB/A2026 Volltext; Paragrafen 6b,6d,7,8,13,15,16a,16b,16c,16d,18,19 EU gelesen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+      "checked_on": "2026-10-06",
+      "supports": "Absatz 2 Nummer 8: ausschließliche Landgerichtszuständigkeit unabhängig vom Streitwert bei einschlägigen Vergabestreitigkeiten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__135.html",
+      "checked_on": "2026-10-06",
+      "supports": "Qualifizierte Fristauslöser, Ausschlussfrist und Absatz 4 alternative Sanktionen."
+    }
+  ],
+  "selection": {
+    "target_skill": "bauvergaberechtsschutz-steuern",
+    "positive": [
+      "Bearbeite meine öffentliche Bauvergabe und erstelle die nächsten konkreten Dokumente.",
+      "Setze die laufende Bearbeitung nach der neuen Rügeantwort fort."
+    ],
+    "negative": [
+      "Organisiere die politische Bürgerinitiative gegen das Bauprojekt ohne Bieterinteresse.",
+      "Erstelle ausschließlich eine private handwerkliche Stundenabrechnung ohne Vergabeverfahren."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fall-01-rechtsschutzweg-und-antragsbefugnis-pruefen",
+      "target_skill": "rechtsschutzweg-und-antragsbefugnis-pruefen",
+      "request": "Eine Bürgerinitiative will den kommunalen Klinikneubau verhindern und bittet um Nachprüfungsantrag, ohne selbst Bauleistungen anzubieten. Prüfe den passenden Weg.",
+      "input_files": [],
+      "deliverables": [
+        "fall-01.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verneint keine Rechte pauschal, prüft aber Unternehmensinteresse und Schaden nach Paragraf 160; nicht jeder Kritiker ist antragsbefugt und kommunale GmbH verlangt Paragraf 99 Nr 2 Subsumtion.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt politische Kritik und denkbare andere Rechtsschutzwege von bieterbezogenem Primärrechtsschutz; erfindet weder Bauleistungsinteresse noch drohenden Schaden der Initiative.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-02-ruege-und-fristen-sichern",
+      "target_skill": "ruege-und-fristen-sichern",
+      "request": "Ein Bieter erhielt Vorabinformation und Nichtabhilfe an verschiedenen Tagen und möchte erst am Ende der 15 Tage reagieren. Erstelle die Fristen- und Handlungsnotiz.",
+      "input_files": [],
+      "deliverables": [
+        "fall-02.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Absendungsfrist 134, Kenntnis/Erkennbarkeit 160 und Nichtabhilfeeingang; erkennt früher mögliches Zuschlagsrisiko.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ermittelt konkrete Daten und Uhrzeiten samt Nachweisen; zeigt, dass die Nichtabhilfefrist kein sicheres Zuwarten bis zu ihrem Ende erlaubt und die Rüge allein keinen Zuschlagsstopp bewirkt.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-03-nachpruefungsantrag-ausarbeiten",
+      "target_skill": "nachpruefungsantrag-ausarbeiten",
+      "request": "Im Klinikfall wurden nicht bekanntgemachte Regionalpunkte vergeben. Erstelle einen Antrag aus Sicht des benachteiligten Bieters.",
+      "input_files": [],
+      "deliverables": [
+        "fall-03.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Begründet Zulässigkeit, eigene Chance und konkreten Kriterienfehler; beantragt geeignete Rückversetzung statt automatischen eigenen Zuschlag; keine fremden Falldaten.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet jedem behaupteten Kriterienfehler einen Aktenbeleg und die konkrete Verschlechterung der Zuschlagschance zu; beantragt gezielte Abhilfe und kennzeichnet ungesicherte Tatsachen.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-04-zuschlagsverbot-und-eilrechtsschutz-sichern",
+      "target_skill": "zuschlagsverbot-und-eilrechtsschutz-sichern",
+      "request": "Eine im Oktober 2026 begonnene Vergabe: Heute gewann der Auftraggeber vor der Kammer. Ein Altmuster behauptet automatische Sperre bis zwei Wochen nach Beschwerdefrist. Prüfe.",
+      "input_files": [],
+      "deliverables": [
+        "fall-04.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet Paragraf 187 II an; Neurecht 169 IS2 endet Bekanntgabe,173 I keine aufschiebende Wirkung; keine unverifizierte alte Verlängerungsregel und konkrete Schutzgrundlagen unterscheiden.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet das Ende des gesetzlichen Verbots von einer besonderen fortgeltenden Untersagung; klärt bereits erfolgten Zuschlag und tatsächlich verfügbare Eilmaßnahmen ohne Schutzwirkung zu erfinden.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-05-akteneinsicht-und-geheimnisse-steuern",
+      "target_skill": "akteneinsicht-und-geheimnisse-steuern",
+      "request": "Der Beigeladene markiert sein gesamtes Angebot geheim. Wir benötigen nur die Bewertung seines Konzepts. Formuliere den Einsichtsantrag.",
+      "input_files": [],
+      "deliverables": [
+        "fall-05.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft konkrete Schutzgründe, verlangt erforderlichen wesentlichen Inhalt nach C54/21 und sichere elektronische Einsicht; keine pauschale Offenlegung.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschränkt den Antrag auf wertungsrelevante Angaben, bietet geschwärzte oder zusammenfassende Mitteilung an und begründet das Rechtsschutzinteresse jeder verlangten Information.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-06-auftraggeber-im-nachpruefungsverfahren-vertreten",
+      "target_skill": "auftraggeber-im-nachpruefungsverfahren-vertreten",
+      "request": "Wir vertreten die Auftraggeberin im Wohnhausfall und möchten ein unterlassenes Nachfordern einer bestehenden Verpflichtungserklärung verteidigen. Prüfe und entwirf die Reaktion.",
+      "input_files": [],
+      "deliverables": [
+        "fall-06.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest Paragraf 16a EU2026, überprüft Vorabausschluss und Partnerbenennung, erwägt belegte Abhilfe, erfindet keine zeitnahe Begründung oder Kammerentscheidung.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Verteidigung von belegter Fehlerkorrektur, sichert Gleichbehandlung und Nachforderungsfrist und kennzeichnet nachträglich erstellte Erläuterungen als solche.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-07-beigeladene-unternehmen-vertreten",
+      "target_skill": "beigeladene-unternehmen-vertreten",
+      "request": "Wir vertreten den bevorzugten Bieter; der Auftraggeber behauptet unbelegte Wertungsgründe. Formuliere die eigene Stellungnahme samt Geheimnisschutz.",
+      "input_files": [],
+      "deliverables": [
+        "fall-07.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt eigene Kenntnis und Auftraggeberakte, prüft tatsächliche Beiladung, besondere Zuschlagsempfängerrechte und Billigkeitskosten.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eigenständige Anträge und Interessen des Beigeladenen, begründet einzelne Geheimhaltungspositionen und vermeidet ungesicherte Übernahme der Auftraggeberdarstellung.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-08-sofortige-beschwerde-fuehren",
+      "target_skill": "sofortige-beschwerde-fuehren",
+      "request": "Der ablehnende Kammerbeschluss wurde gestern zugestellt. Wir wollen jetzt nur einen Satz einreichen und später begründen. Erstelle die ordnungsgemäße Beschwerde.",
+      "input_files": [],
+      "deliverables": [
+        "fall-08.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Begründet zugleich, prüft zweiwöchige Notfrist, Anwalt/Form/Gericht und Beteiligteninformation; trennt Frist von fehlender Schutzwirkung.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Benennt angegriffene Entscheidung, Beschwerdeziel und tragende Fehler innerhalb derselben Einreichung; behandelt Zustellung und Bekanntgabe als getrennte Tatsachen.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-09-unterschwellenrechtsschutz-pruefen",
+      "target_skill": "unterschwellenrechtsschutz-pruefen",
+      "request": "Ein niedriger Streitwert soll einen Unterschwellenantrag beim Amtsgericht rechtfertigen. Die Landesnachprüfung ist unklar. Prüfe Zuständigkeit und Eilrechtsschutz.",
+      "input_files": [],
+      "deliverables": [
+        "fall-09.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Rechtsweg/Landesweg und Paragraf 71  Absatz 2 Nummer  8 GVG ausschließliche Landgerichtszuständigkeit unabhängig vom Streitwert; keine automatische GWB-Stillhaltefrist.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bestimmt Verfügungsanspruch, Verfügungsgrund und geeignete Glaubhaftmachungsmittel anhand der konkreten Vergabe; unterscheidet zivilrechtlichen Eilantrag, Landesverfahren und Nachprüfung nach GWB.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-10-verfahrensabschluss-und-kosten-begleiten",
+      "target_skill": "verfahrensabschluss-und-kosten-begleiten",
+      "request": "Nach dokumentierter Rückversetzung möchte der Mandant zurücknehmen und glaubt, dann seien alle Kosten halbiert. Erstelle Erklärung und Kostenvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "fall-10.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Rücknahme/Erledigung, halbe Kammergebühr und notwendige Aufwendungen/Billigkeit; keine pauschale Verzichtswirkung.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft die belegte Abhilfe vor der Rücknahme, formuliert eine auf das Verfahren beschränkte Erklärung und berechnet Gebührenfolgen getrennt von gegnerischen notwendigen Aufwendungen.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-11-bauvergaberechtsschutz-steuern",
+      "target_skill": "bauvergaberechtsschutz-steuern",
+      "request": "Zwei Vergaben starteten im Juni und Oktober 2026. Beide Kammeranträge wurden abgelehnt. Prüfe rollengetrennt die Fortsetzung nach neuen Entscheidungen.",
+      "input_files": [],
+      "deliverables": [
+        "fall-11.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fordert belegten Beginn und historische Fassung für den Altfall; Neurecht 169/173 konkret; keine Reporoot/Werkstattabhängigkeit und keine künftigen Urteile.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Führt für beide Verfahren getrennte Chronologien und Fassungsentscheidungen; übernimmt die Neuregelung weder ungeprüft in den Altfall noch die frühere Beschwerdewirkung in die neue Vergabe.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "files": [
+      "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-werkstatt.md",
+      "bauvergabe/bauvergabe-rechtsschutz/bauvergabe-rechtsschutz-schnellstart.md"
+    ],
+    "opening_change": "Konkreter Auftrag und vorhandene Bauvergabeakte statt allgemeinem Lehrbuchvortrag; Rollen bleiben getrennt.",
+    "norms": [
+      "VOB/A-EU 2026",
+      "GWB Paragrafen 134,160,169,173,187"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 17.11.2022 – Az. C-54/21",
+        "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A62021CJ0054_RES",
+        "application": "Amtlicher Text Rn.64–66 und 83–85 zu Geheimnissen und wesentlichem Inhalt.",
+        "limit": "Kein grenzenloser Konkurrenzzugang, deutsches Verfahren nach Paragraf 165 zusätzlich."
+      },
+      {
+        "citation": "EuGH, Urt. v. 12.02.2004 – Az. C-230/02",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/SUM/?uri=CELEX%3A62002CJ0230",
+        "application": "Amtliche Entscheidungsdaten, Zusammenfassung und dortige Randnummernverweise 28–29,37–40 geprüft.",
+        "limit": "Deutscher Volltextabruf wechselhaft; keine vollständige deutsche Urteilslektüre behauptet; heutige Paragraf 160 Prüfung bleibt."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarienprüfung und tatsächlich ausgeführte Strukturvalidatoren; keine beobachteten Modellläufe.",
+      "Keine Einreichung, Vergabeplattformanbindung oder künftige Entscheidung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Unterlagen zuerst.",
+      "Bei klarem Auftrag zum Dokument.",
+      "Nur entscheidende Tatsachen nachfragen."
+    ],
+    "continuation": "Neue Belege verändern betroffene Feststellungen, Fristen und Dokumente; Rollenwechsel ausdrücklich.",
+    "enrichment": "Genau zehn spezifische Fachphasen und ein eigenständiger Hauptskill mit lokalen Quellen.",
+    "limits": "Keine Reporoot- oder Werkstattabhängigkeit der installierten Skills; kein automatischer Versand."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Ablauf innerhalb 7.500 UTF-8-Bytes.",
+    "changes": [
+      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert."
+    ],
+    "sha256": "b37dd55f8eb74322e8d9daba2a6c76f0eb3965b51d2908a456fab715ce92d960"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Großer fachlicher Arbeitsablauf mit vollständigen Brief- und Antragsmustern.",
+    "changes": [
+      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert."
+    ],
+    "sha256": "55e30eba40fe2cc54d9a649acd7ebc06ef5c67e5efbe069be7b3e4f05d533885"
+  }
+}

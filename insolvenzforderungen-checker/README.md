@@ -5,7 +5,7 @@
 
 Insolvenzforderungen vom Akteneingang bis zum begründeten Prüfvorschlag bearbeiten. Elf Skills verbinden Gläubigerklärung, Belege, Beträge, Rang, Sicherheiten und Termine mit Tabellenentwurf und Gläubigerbrief; keine automatische Feststellung oder Einreichung.
 
-Dieses Plugin gehört zum Marketplace mit 275 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 280 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -44,7 +44,7 @@ Das Paket arbeitet für die Insolvenzverwaltung. Es trennt angemeldete Beträge,
 | Großer Prompt (Werkstatt) | Markdown | [`insolvenzforderungen-checker-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=insolvenzforderungen-checker/insolvenzforderungen-checker-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 275 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 280 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -56,8 +56,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Insolvenzforderungen Rheinsteg Handwerk Köln](../testakten/insolvenzforderungen-handwerk-koeln/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-handwerk-koeln/gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) | [`testakte-insolvenzforderungen-handwerk-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-insolvenzforderungen-handwerk-koeln.zip) | [`testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
-| [Insolvenzforderungen der Münchner Pistazien-Brezelbäckerei](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/gesamt-pdf/insolvenzforderungen-pistazienbrezeln-muenchen_gesamt.pdf) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip) |
+| [Insolvenzforderungen Rheinsteg Handwerk Köln](../testakten/insolvenzforderungen-handwerk-koeln/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-handwerk-koeln/gesamt-pdf/insolvenzforderungen-handwerk-koeln_gesamt.pdf) | [`testakte-insolvenzforderungen-handwerk-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-insolvenzforderungen-handwerk-koeln.zip) | [`testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-insolvenzforderungen-handwerk-koeln-einzelpdfs.zip) |
+| [Insolvenzforderungen der Münchner Pistazien-Brezelbäckerei](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/README.md) | [Gesamt-PDF](../testakten/insolvenzforderungen-pistazienbrezeln-muenchen/gesamt-pdf/insolvenzforderungen-pistazienbrezeln-muenchen_gesamt.pdf) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-insolvenzforderungen-pistazienbrezeln-muenchen.zip) | [`testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-insolvenzforderungen-pistazienbrezeln-muenchen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

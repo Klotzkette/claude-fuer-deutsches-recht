@@ -20,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-feuerwehreinsatz_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-feuerwehreinsatz_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-feuerwehreinsatz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-feuerwehreinsatz.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-feuerwehreinsatz.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-feuerwehreinsatz.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -111,5 +111,5 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
 | Was | Quelle |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-feuerwehreinsatz_gesamt.pdf) |
-| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-feuerwehreinsatz.zip) |
-| Einzel-PDFs | [PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip) |
+| Originalformate | [Akten-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-feuerwehreinsatz.zip) |
+| Einzel-PDFs | [PDF-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-feuerwehreinsatz-einzelpdfs.zip) |

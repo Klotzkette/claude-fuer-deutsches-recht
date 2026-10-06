@@ -9,7 +9,7 @@
 
 Verträge regelweise an freigegebenen Kanzlei-Playbooks prüfen: Themen, Ausgangspositionen, Kompromisse und rote Linien mit Originalzitaten und Word-Bericht.
 
-Dieses Plugin gehört zum Marketplace mit 275 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 280 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -62,7 +62,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.md" download>playbook-pruefer-hauptproblem.md</a> · [`playbook-pruefer-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=playbook-pruefer/playbook-pruefer-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [2 zugeordnete Akten](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 275 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 280 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 <!-- decimal-anchor --> <a id="zugeordnete-testakten"></a>
 
@@ -76,8 +76,8 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Spreebogen und der Arbeitsvertrag von Nora Aydin](../testakten/playbook-arbeitsvertrag-spreebogen/README.md) | [Gesamt-PDF](../testakten/playbook-arbeitsvertrag-spreebogen/gesamt-pdf/playbook-arbeitsvertrag-spreebogen_gesamt.pdf) | [`testakte-playbook-arbeitsvertrag-spreebogen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-playbook-arbeitsvertrag-spreebogen.zip) | [`testakte-playbook-arbeitsvertrag-spreebogen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-playbook-arbeitsvertrag-spreebogen-einzelpdfs.zip) |
-| [Kupferfink und das NDA für Federlicht](../testakten/playbook-nda-kupferfink/README.md) | [Gesamt-PDF](../testakten/playbook-nda-kupferfink/gesamt-pdf/playbook-nda-kupferfink_gesamt.pdf) | [`testakte-playbook-nda-kupferfink.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-playbook-nda-kupferfink.zip) | [`testakte-playbook-nda-kupferfink-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-playbook-nda-kupferfink-einzelpdfs.zip) |
+| [Spreebogen und der Arbeitsvertrag von Nora Aydin](../testakten/playbook-arbeitsvertrag-spreebogen/README.md) | [Gesamt-PDF](../testakten/playbook-arbeitsvertrag-spreebogen/gesamt-pdf/playbook-arbeitsvertrag-spreebogen_gesamt.pdf) | [`testakte-playbook-arbeitsvertrag-spreebogen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-playbook-arbeitsvertrag-spreebogen.zip) | [`testakte-playbook-arbeitsvertrag-spreebogen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-playbook-arbeitsvertrag-spreebogen-einzelpdfs.zip) |
+| [Kupferfink und das NDA für Federlicht](../testakten/playbook-nda-kupferfink/README.md) | [Gesamt-PDF](../testakten/playbook-nda-kupferfink/gesamt-pdf/playbook-nda-kupferfink_gesamt.pdf) | [`testakte-playbook-nda-kupferfink.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-playbook-nda-kupferfink.zip) | [`testakte-playbook-nda-kupferfink-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-playbook-nda-kupferfink-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

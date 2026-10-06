@@ -1,6 +1,6 @@
 # dfg-foerderantrag
 
-**85 Skills** · Stand `v445.31.4`
+**85 Skills** · Stand `v445.32.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../dfg-foerderantrag/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

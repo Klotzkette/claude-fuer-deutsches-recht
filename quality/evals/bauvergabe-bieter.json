@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "plugin": "bauvergabe-bieter",
+  "reviewed_on": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__134.html",
+      "checked_on": "2026-10-06",
+      "supports": "Absendung als Wartefristauslöser; direkter amtlicher HTML-Abruf."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__160.html",
+      "checked_on": "2026-10-06",
+      "supports": "Antragsbefugnis, Rügeauslöser, Nichtabhilfe und aktuelle Sonderregeln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-10-06",
+      "supports": "Zuschlagsverbot und Ende bei Obsiegen des Auftraggebers mit Bekanntgabe."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__173.html",
+      "checked_on": "2026-10-06",
+      "supports": "Beschwerde gegen Ablehnung ohne aufschiebende Wirkung; Fortdauer einer Zuschlagsuntersagung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__187.html",
+      "checked_on": "2026-10-06",
+      "supports": "Übergang für vor Juli 2026 begonnene Vergaben und erfasste Nachprüfungen."
+    },
+    {
+      "url": "https://www.bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher VOB/A2026 Volltext; Paragrafen 6b,6d,7,8,13,15,16a,16b,16c,16d,18,19 EU gelesen."
+    }
+  ],
+  "selection": {
+    "target_skill": "bauangebot-steuern",
+    "positive": [
+      "Bearbeite meine öffentliche Bauvergabe und erstelle die nächsten konkreten Dokumente.",
+      "Setze die laufende Bearbeitung nach der neuen Rügeantwort fort."
+    ],
+    "negative": [
+      "Organisiere die politische Bürgerinitiative gegen das Bauprojekt ohne Bieterinteresse.",
+      "Erstelle ausschließlich eine private handwerkliche Stundenabrechnung ohne Vergabeverfahren."
+    ]
+  },
+  "cases": [
+    {
+      "id": "fall-01-bid-no-bid-entscheiden",
+      "target_skill": "bid-no-bid-entscheiden",
+      "request": "Ein Rohbaulos passt zu unseren Referenzen, aber die Bürgschaftslinie reicht nicht und unser Fachunternehmen ist nur unverbindlich verfügbar. Entscheide über die Angebotsbearbeitung.",
+      "input_files": [],
+      "deliverables": [
+        "fall-01.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet interne Freigabebedingung und Angebotsvorbehalt; prüft Liquidität und belegte Kapazität statt allein Umsatzchance.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eine belegabhängige interne Entscheidung mit Kapazitäts-, Bürgschafts- und Liquiditätsfreigabe; benennt Abbruchpunkt vor Aufwand und Angebotsfrist.",
+          "deliverables": [
+            "fall-01.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-02-lv-baugrund-mengen-pruefen",
+      "target_skill": "lv-baugrund-mengen-pruefen",
+      "request": "Das LV verlangt Entsorgung des gesamten Aushubs. Das Baugrundgutachten enthält nur zwei Aufschlüsse und keine abschließende Einstufung. Formuliere die konkrete Bieterfrage und prüfe Rügebedarf.",
+      "input_files": [],
+      "deliverables": [
+        "fall-02.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Konflikt der LV-Position zu, erfindet keine Bodeneigenschaft und fordert einheitliche Kalkulationsgrundlage sowie nötige Fristfolge.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt unklare Leistungsbeschreibung vom kalkulatorischen Wagnis; verlangt präzise Angaben zu Entsorgung und Mengen und bewertet die Auswirkung einer Berichtigung auf die Angebotsfrist.",
+          "deliverables": [
+            "fall-02.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-03-eignung-und-bietergemeinschaft-sichern",
+      "target_skill": "eignung-und-bietergemeinschaft-sichern",
+      "request": "Unsere ARGE will eine frühere gemeinsame Referenz vollständig jedem Mitglied zurechnen. Die Ausschreibung nennt unterschiedliche Nachweiszeitpunkte. Erstelle die Eignungsakte.",
+      "input_files": [],
+      "deliverables": [
+        "fall-03.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ermittelt eigenen Leistungsanteil und Vorlagezeitpunkt; setzt Präqualifikation nicht pauschal jeder Anforderung gleich und berücksichtigt Eigenerklärungen 2026.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet jedem ARGE-Mitglied die tatsächlich ausgeführten Referenzanteile und die geschuldete Haftungs- und Vertretungserklärung zu; kennzeichnet noch fehlende Belege.",
+          "deliverables": [
+            "fall-03.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-04-nachunternehmer-und-eignungsleihe-steuern",
+      "target_skill": "nachunternehmer-und-eignungsleihe-steuern",
+      "request": "Ein Partner stellt seine Referenz zur Verfügung, soll aber die betreffenden Arbeiten nicht ausführen. Prüfe die Verpflichtungserklärung.",
+      "input_files": [],
+      "deliverables": [
+        "fall-04.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Unterauftrag und Eignungsleihe, prüft Ausführungsbezug nach Paragraf 6d EU und ersetzt keine fehlende Kapazität durch eine Absichtserklärung.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Inhalt, Verfügbarkeit und Ausführungsverpflichtung des Kapazitätsgebers getrennt; formuliert eine Erklärung, die keine bloße Papierleihe absichert.",
+          "deliverables": [
+            "fall-04.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-05-baukalkulation-und-preisblatt-erstellen",
+      "target_skill": "baukalkulation-und-preisblatt-erstellen",
+      "request": "Wir haben einen bedingten Skonto im Begleitschreiben, abweichende Summen im GAEB-LV und gestiegene Lieferpreise. Bereite die Preisfreigabe vor.",
+      "input_files": [],
+      "deliverables": [
+        "fall-05.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kontrolliert Einheitspreis und Gesamtsumme, bewertet Skonto nach Paragraf 16d EU und trennt interne Preisrisiken von unzulässigen Angebotsvorbehalten.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt eine nachvollziehbare Rechen- und Rangfolgekontrolle aus Einheitspreisen, Mengen, Nachlässen und maßgeblichen Preisangaben; behandelt Lieferpreissteigerung nicht als automatisches Nachverhandlungsrecht.",
+          "deliverables": [
+            "fall-05.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-06-bieterfragen-und-ruegen-formulieren",
+      "target_skill": "bieterfragen-und-ruegen-formulieren",
+      "request": "Die elektronische Vorabinformation wurde am Montag abgesandt, am Dienstag gelesen. Die Nichtabhilfe ging am Mittwoch ein. Erstelle das Fristenblatt ohne die Auslöser gleichzusetzen.",
+      "input_files": [],
+      "deliverables": [
+        "fall-06.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Paragraf 134 Absendung, Paragraf 160 Erkenntnis und Nichtabhilfeeingang; benötigt konkrete Kalenderdaten und behauptet keine automatische Sperre durch Rüge.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert bei erkanntem Vergabeverstoß eine konkrete Rüge mit Abhilfeverlangen und Zugangssicherung; ein bloßes Auskunftsersuchen wahrt nicht ohne weiteres die Rügeobliegenheit.",
+          "deliverables": [
+            "fall-06.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-07-angebot-nebenangebote-und-abgabe-sichern",
+      "target_skill": "angebot-nebenangebote-und-abgabe-sichern",
+      "request": "Die Plattform zeigt die Dateien nur als Entwurf. Wir wollen ein nicht zugelassenes Nebenangebot und eigene Zahlungsbedingungen hochladen. Prüfe die Abgabe.",
+      "input_files": [],
+      "deliverables": [
+        "fall-07.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verlangt wirksame Abgabe und Eingangsnachweis, prüft Nebenangebotszulassung und überträgt BGH X ZR 86/17 nicht auf jede Leistungsänderung.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet gespeicherten Entwurf und endgültig abgesandtes Angebot, dokumentiert Zeitstempel und Fassung und entfernt unzulässige eigene Leistungsbedingungen vor Abgabe.",
+          "deliverables": [
+            "fall-07.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-08-nachforderung-und-preisaufklaerung-beantworten",
+      "target_skill": "nachforderung-und-preisaufklaerung-beantworten",
+      "request": "Vor Angebotsfrist war der Kapazitätsgeber benannt, der Verpflichtungsbeleg fehlte. Zugleich verlangt die Vergabestelle eine Preisaufklärung. Erstelle zwei getrennte Antworten.",
+      "input_files": [],
+      "deliverables": [
+        "fall-08.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Nachforderungsausschluss und Paragraf 16a EU2026 sowie bestehende Kapazität; erklärt Preise aus Ursprungskalkulation ohne neue Leistung.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft die tatsächliche Kapazitätsverfügbarkeit bei Ablauf der Angebotsfrist; Nachweisergänzung wird von nachträglicher Auswechslung oder Erweiterung des Angebots unterschieden.",
+          "deliverables": [
+            "fall-08.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-09-wertung-bindefrist-und-zuschlag-begleiten",
+      "target_skill": "wertung-bindefrist-und-zuschlag-begleiten",
+      "request": "Wir sollen die Bindefrist verlängern; das Zuschlagsschreiben verändert den Baubeginn. Prüfe unsere Erklärung und den Vertragsschluss.",
+      "input_files": [],
+      "deliverables": [
+        "fall-09.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Bindung und Ausführungszeit, prüft Paragraf 18 EU und Paragraf 150 BGB und behauptet weder automatischen Vertragsschluss noch automatischen Mehrpreis.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert Bindefristentscheidung und Reaktion auf geänderten Baubeginn getrennt; dokumentiert Annahmebedarf und offene Kostenprüfung statt vorbehaltloser automatischer Vertragsannahme.",
+          "deliverables": [
+            "fall-09.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-10-vertragsuebergabe-und-beweissicherung",
+      "target_skill": "vertragsuebergabe-und-beweissicherung",
+      "request": "Die Bauleitung will die interne Annahme einer bestimmten Bodenklasse als vertragliche Garantie behandeln. Erstelle die Übergabe.",
+      "input_files": [],
+      "deliverables": [
+        "fall-10.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Vertragssoll, Kalkulationsannahme und tatsächliche Zusage; sichert Fassungen und leitet konkrete Änderungen in gesonderte Nachtragsprüfung.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt eine Übergabematrix mit verbindlichem LV, Berichtigungen, Angebot, Zuschlag und davon getrennten Kalkulationsannahmen; nennt Anlass und Belege einer späteren Nachtragsprüfung.",
+          "deliverables": [
+            "fall-10.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fall-11-bauangebot-steuern",
+      "target_skill": "bauangebot-steuern",
+      "request": "Unsere neue Bieterinformation ändert die Entsorgungsgrundlage. Fahre mit der laufenden Angebotsbearbeitung fort und liefere aktualisierte Dokumente.",
+      "input_files": [],
+      "deliverables": [
+        "fall-11.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Setzt am Stand fort, verknüpft LV, Kalkulation, Nachunternehmer und Abgabe; benötigt keinen Werkstattprompt oder Reporoot.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert das beauftragte Dokument in vollständigen Sätzen mit Rollen-, Beleg- und Fristenbezug; keine unbelegte Einreichung oder externe Handlung.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bearbeitet neue Unterlagen nur in den betroffenen Arbeitsschritten, hält die verbindliche Angebotsfassung fest und übergibt akute Frist- oder Ausschlussfragen mit konkretem nächsten Dokument.",
+          "deliverables": [
+            "fall-11.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "files": [
+      "bauvergabe/bauvergabe-bieter/bauvergabe-bieter-werkstatt.md",
+      "bauvergabe/bauvergabe-bieter/bauvergabe-bieter-schnellstart.md"
+    ],
+    "opening_change": "Konkreter Auftrag und vorhandene Bauvergabeakte statt allgemeinem Lehrbuchvortrag; Rollen bleiben getrennt.",
+    "norms": [
+      "VOB/A-EU 2026",
+      "GWB Paragrafen 134,160,169,173,187"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urt. v. 18.06.2019 – Az. X ZR 86/17",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2019&Gericht=bgh&Sort=14&anz=2959&nr=98839&pos=11",
+        "application": "Amtlich indexierte Leitsätze zu Abwehrklauseln und beigefügten Bieterbedingungen geprüft.",
+        "limit": "Alter Endpunkt bei erneutem Abruf wechselhaft; keine nicht geprüften Randnummern; keine allgemeine Heilung geänderter Leistung."
+      },
+      {
+        "citation": "EuGH, Urt. v. 29.03.2012 – Az. C-599/10",
+        "url": "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX%3A62010CJ0599%3AEN%3AHTML",
+        "application": "Amtlicher Text, Rn.40–44 zur Angebotsklarstellung.",
+        "limit": "Frühere Richtlinie und nichtoffenes Dienstleistungsverfahren; heutige VOB/A eigenständig."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarienprüfung und tatsächlich ausgeführte Strukturvalidatoren; keine beobachteten Modellläufe.",
+      "Keine Einreichung, Vergabeplattformanbindung oder künftige Entscheidung behauptet."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Unterlagen zuerst.",
+      "Bei klarem Auftrag zum Dokument.",
+      "Nur entscheidende Tatsachen nachfragen."
+    ],
+    "continuation": "Neue Belege verändern betroffene Feststellungen, Fristen und Dokumente; Rollenwechsel ausdrücklich.",
+    "enrichment": "Genau zehn spezifische Fachphasen und ein eigenständiger Hauptskill mit lokalen Quellen.",
+    "limits": "Keine Reporoot- oder Werkstattabhängigkeit der installierten Skills; kein automatischer Versand."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Ablauf innerhalb 7.500 UTF-8-Bytes.",
+    "changes": [
+      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert."
+    ],
+    "sha256": "280acea78cb69c85dc5286e36d625b9610562dfd336b468e713cac071b19432d"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Großer fachlicher Arbeitsablauf mit vollständigen Brief- und Antragsmustern.",
+    "changes": [
+      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert."
+    ],
+    "sha256": "1ad4d8b45a941f80532c0e0211c77e9c869119ac520cd769a17c159f4bfb43cc"
+  }
+}

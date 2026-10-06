@@ -1,0 +1,18 @@
+{
+  "name": "bauvergabe-unterlagen",
+  "version": "445.32.0",
+  "description": "Zehn Fachskills und ein Hauptskill zur Erstellung von Bauvergabeunterlagen. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen.",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bauvergabe: Unterlagen",
+    "shortDescription": "Bauvergabe: Unterlagen für deutsche Vergabemandate.",
+    "longDescription": "Zehn Fachskills und ein Hauptskill zur Erstellung von Bauvergabeunterlagen. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Bearbeiten Sie die vorhandene Bauvergabeakte und erstellen Sie das beauftragte Dokument."
+  }
+}

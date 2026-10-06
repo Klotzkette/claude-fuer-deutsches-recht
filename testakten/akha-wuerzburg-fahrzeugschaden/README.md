@@ -20,8 +20,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/akha-wuerzburg-fahrzeugschaden_gesamt.pdf`](gesamt-pdf/akha-wuerzburg-fahrzeugschaden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-fahrzeugschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-fahrzeugschaden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-akha-wuerzburg-fahrzeugschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-fahrzeugschaden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -147,7 +147,7 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/akha-wuerzburg-fahrzeugschaden_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-fahrzeugschaden.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-fahrzeugschaden.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-akha-wuerzburg-fahrzeugschaden-einzelpdfs.zip) |
 
 Die Archive enthalten alle Arbeitsunterlagen unmittelbar auf der ZIP-Wurzelebene. Die zweisprachige README.txt gehört in beide Archive; redaktionelle Bewertungsdateien und Musterlösungen werden nicht exportiert. Die PDFs enthalten keine Hinweisseite.

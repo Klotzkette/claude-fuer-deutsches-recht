@@ -1,6 +1,6 @@
 # strassennutzung-genehmigungen
 
-**10 Skills** · Stand `v445.31.4`
+**10 Skills** · Stand `v445.32.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../strassennutzung-genehmigungen/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -1,0 +1,18 @@
+{
+  "name": "bauvergabe-verfahren",
+  "version": "445.32.0",
+  "description": "Zehn Fachskills und ein Hauptskill zur Führung eines Bauvergabeverfahrens. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen.",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bauvergabe: Verfahren",
+    "shortDescription": "Bauvergabe: Verfahren für deutsche Vergabemandate.",
+    "longDescription": "Zehn Fachskills und ein Hauptskill zur Führung eines Bauvergabeverfahrens. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Bearbeiten Sie die vorhandene Bauvergabeakte und erstellen Sie das beauftragte Dokument."
+  }
+}

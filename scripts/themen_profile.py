@@ -6111,6 +6111,12 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
+    "bauvergabe-unterlagen": "vergabe",
+    "bauvergabe-verfahren": "vergabe",
+    "bauvergabe-bieter": "vergabe",
+    "bauvergabe-rechtsschutz": "vergabe",
+    "bauvergabe-nachtragsmanagement": "bau",
+    "kommunale-haftpflicht": "schadensregulierung",
     "gesellschafterstreit": "gesellschaft",
     "playbook-pruefer": "vertragsgestaltung",
     "berliner-asog-polizeirecht": "verwaltung",

@@ -2952,6 +2952,15 @@ def clip_utf8(text: str, limit: int) -> str:
 
 def plugin_dirs() -> list[Path]:
     dirs = []
+    # Installierbare Plugins können in einer fachlichen Familie verschachtelt
+    # liegen. Maßgeblich ist derselbe Source-Pfad wie beim Marketplace-Import.
+    marketplace = json.loads((REPO / '.claude-plugin/marketplace.json').read_text(encoding='utf-8'))
+    for entry in marketplace['plugins']:
+        source = entry.get('source')
+        if isinstance(source, str) and source.startswith('./'):
+            directory = (REPO / source).resolve()
+            if directory.is_relative_to(REPO.resolve()) and (directory / '.claude-plugin/plugin.json').is_file():
+                dirs.append(directory)
     for plugin_json in REPO.glob("*/.claude-plugin/plugin.json"):
         dirs.append(plugin_json.parent.parent)
     for plugin_json in (REPO / "_GERICHTE_EXPERIMENTAL").glob("*/.claude-plugin/plugin.json"):

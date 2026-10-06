@@ -1,0 +1,511 @@
+{
+  "schema_version": 1,
+  "plugin": "bauvergabe-nachtragsmanagement",
+  "reviewed_on": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__132.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650b.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650c.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650d.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650f.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__650g.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_26062012_B15816361.htm",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Norm- beziehungsweise Vertragsbedingungstext zum bezeichneten Anspruchs- oder Änderungsregime geöffnet."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-06",
+      "supports": "Rn.17–20 und 27–29: Preisabrede vorrangig; tatsächlich erforderliche Kosten bei reiner Mehrmenge."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__10-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-06",
+      "supports": "Rn.15 und21–24: Voraussetzungen des Preisverlangens und Klarstellung zu BGK/AGK."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-06",
+      "supports": "Rn.18–21 und25–28: zeitliche Grenze von §642, Vorhaltung und spätere Kostensteigerung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62006CJ0454",
+      "checked_on": "2026-10-06",
+      "supports": "Rn.34–37: Wesentlichkeit und Wettbewerb."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62014CJ0549",
+      "checked_on": "2026-10-06",
+      "supports": "Rn.28–32 und36–40: Reduzierung, Vergleich und Änderung."
+    }
+  ],
+  "selection": {
+    "target_skill": "nachtragsmanagement-hauptproblem",
+    "positive": [
+      "Prüfen Sie unseren Nachtrag nach dem Bauzuschlag und erstellen Sie das Angebot.",
+      "Führen Sie nach neuer Planfreigabe die Bauzeit- und Nachtragsprüfung fort."
+    ],
+    "negative": [
+      "Erstellen Sie erstmals eine öffentliche Ausschreibung ohne bestehenden Bauvertrag.",
+      "Prüfen Sie einen Arbeitsvertrag ohne Bauleistungsbezug."
+    ]
+  },
+  "cases": [
+    {
+      "id": "klinik-fortsetzung",
+      "target_skill": "nachtragsmanagement-hauptproblem",
+      "request": "Wir haben den Klinikauftrag erhalten. Für die technisch freigegebene Fundamentvertiefung sind 220 m³ Beton, 34.000 kg Stahl und 920 m² Schalung zusätzlich vorgesehen. Prüfen Sie den Nachtrag und bereiten Sie das Angebot vor; die Bauzeit ist streitig.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet das vereinbarte Soll und getrennte Änderungsursachen; technische Freigabe bedeutet weder Preis- noch Bauzeitanerkennung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ermittelt aus den ursprünglichen Preisen nur den Vergleichswert 208580 EUR netto und bezeichnet ihn nicht ohne Prüfung als geschuldete Vergütung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt das beauftragte Angebot in vollständigen Sätzen und benennt die konkret fehlenden Kosten- und Ablaufbelege.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apothekenbauteil-baseline",
+      "target_skill": "vertragsbaseline-pruefen",
+      "request": "Unser Rohbauvertrag für eine Krankenhausapotheke enthält funktionale Anforderungen. Nun wird eine andere Wand verlangt. Eine Kollegin hält alles ohne eigene LV-Zeile für einen Nachtrag. Bitte prüfen Sie den Anspruchsgrund.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft funktionalen Erfolg, Planstand, technische Vertragsgrundlagen und Planungsverantwortung; keine Gleichsetzung fehlender LV-Zeile mit Zusatzleistung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft VOB/B-Einbeziehung und Klauselwirksamkeit unabhängig von der öffentlichen Vergabe.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert einen begründeten Soll-Ist-Vergleich und die stärkste Auftraggeber-Gegenposition.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bauleiter-ohne-vollmacht",
+      "target_skill": "anordnung-und-vollmacht",
+      "request": "Die Bauleitung unterschrieb ein Aufmaß und sagte auf der Baustelle, die neue Konstruktion sei technisch richtig. Ein Preis wurde nicht besprochen. Verfassen Sie eine Bestätigung und prüfen Sie die Vergütung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Mengenbestätigung, technische Freigabe, Anordnung und Preisvereinbarung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verlangt keine automatische Architektenvollmacht, sondern prüft konkrete Bevollmächtigung und mögliche Genehmigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet bei fehlendem Auftrag VOB/B Absatz 8 und gegebenenfalls GoA gesondert ein und liefert einen konkreten Brief.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "leitplanken-mengen",
+      "target_skill": "mengen-und-leistungsaenderungen",
+      "request": "Einheitspreisvertrag: 1000 m unveränderte Leitplanke waren angesetzt, 1240 m wurden ausgeführt. Der Auftraggeber verlangt einen neuen niedrigeren Preis für alle 1240 m. Bitte rechnen und antworten Sie.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erfasst 1100 m zum bisherigen und 140 m zum gegebenenfalls neuen Preis, sofern die übrigen Voraussetzungen vorliegen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Preisabrede, Verlangen und qualitativ unveränderte Leistung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verwendet BGH VIII nicht fälschlich; zitiert VII ZR 34/18 mit Datum, Form, Rn., Quelle und begrenztem Anwendungsbereich.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bgk-und-urkalkulation",
+      "target_skill": "kalkulation-und-kostenbelege",
+      "request": "Die Nachtragsrechnung enthält tatsächliche Materialkosten sowie 12 Prozent BGK aus einer nachträglich erzeugten Kalkulation. Zusätzlich werden identische Kranwochen als Bauzeitkosten verlangt. Bitte prüfen Sie die Rechnung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behandelt die nachträgliche Tabelle nicht ohne Nachweis als vereinbarungsgemäß hinterlegte Urkalkulation.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft tatsächliche Erforderlichkeit und entfernt oder klärt doppelte Kranansätze.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Berücksichtigt VII ZR 10/19 Rn.21–24: kein pauschaler BGK-Zuschlag und kein automatischer Angemessenheitsnachweis durch Kalkulation.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verspaeteter-klinikplan",
+      "target_skill": "bedenken-behinderung-fristen",
+      "request": "Der freigegebene Gründungsplan fehlt seit heute. Die Kolonne arbeitet teilweise an einem anderen Abschnitt. Bitte schreiben Sie die Behinderungsanzeige; eine pauschale Rechtevorbehaltsmail liegt schon vor.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Benennt betroffene Tätigkeit, Abschnitt, Beginn, Hindernis, Ressourcen und konkrete Wirkung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berücksichtigt Ausweicharbeit und macht keinen vollständigen Stillstand ohne Tatsachenbasis geltend.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Behinderungsanzeige von Vergütungsankündigung und Bedenken; sichert Zugang und Fortdauer.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wohnhaus-bauzeit",
+      "target_skill": "bauablauf-und-kausalitaet",
+      "request": "Die Brandwandänderung ist technisch freigegeben. Wir verlangen jede Woche der gesamten Terminverschiebung einschließlich späterer Materialpreissteigerung aus §642 BGB. Parallel fehlte unser eigener Stahl. Bitte begründen Sie die Forderung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Eigenstörung, Terminpfad, Zeitspielräume und tatsächlich bereitgehaltene Ressourcen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Fristverlängerung, §642, Schadensersatz und Änderungsvergütung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verwendet VII ZR16/17 als Versäumnisurteil und lehnt einen pauschalen §642-Ersatz späterer Preissteigerung ab, prüft andere Grundlagen.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schlussrechnung-prueffaehigkeit",
+      "target_skill": "aufmass-pruefung-abrechnung",
+      "request": "Der Auftraggeber hat seit 32 Tagen keine begründeten Einwendungen gegen die Prüffähigkeit erhoben. Können wir damit alle Nachtragspositionen als anerkannt bezeichnen? Entwerfen Sie die Zahlungsbegründung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Prüffähigkeitsfiktion und materielles Anerkenntnis.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Abnahme, Anspruch und Fälligkeit statt allein den Zeitablauf zu verwenden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bezieht bereits geleistete Zahlungen und streitige Positionen ein und formuliert eine tragfähige Zahlungsbegründung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ggmbh-sicherheit-80prozent",
+      "target_skill": "zahlung-sicherung-eilverfahren",
+      "request": "Unsere kommunale gGmbH zahlt einen bestrittenen Nachtrag nicht. Wir wollen stets 80 Prozent verlangen, §650f ausschließen und §650d als sicheren Zahlungsweg behandeln. Erstellen Sie eine belastbare Empfehlung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft §650c Absatz3 konkret und erläutert Rückgewähr und Zinsen überhöhter Abschläge ab Eingang.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Schließt §650f bei privatrechtlicher gGmbH nicht automatisch wegen kommunaler Beteiligung aus.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Beschreibt §650d als Erleichterung zum Verfügungsgrund in seinem Anwendungsbereich und verlangt weiterhin Anspruch und Glaubhaftmachung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vergleich-mit-zeitvorbehalt",
+      "target_skill": "verhandlung-vorbehalt-abnahme",
+      "request": "Wir wollen den Preis der Brandwand einigen, die konkret bezeichnete Bauzeitforderung aber offenhalten. Der Entwurf sagt zugleich sämtliche Folgen seien abgegolten. Bitte erstellen Sie die Vereinbarung.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beseitigt den Widerspruch zwischen umfassender Abgeltung und Zeitvorbehalt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bezeichnet Leistung, Preis, Planstand, Mengenbasis, Zahlung und konkret vorbehaltenes Ereignis vollständig.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft öffentliche Änderungszulässigkeit unabhängig vom Vergleichszweck und verwendet Finn Frogne kontextgebunden.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "132-falscher-nenner",
+      "target_skill": "oeffentliche-aenderungsgrenzen",
+      "request": "Beim Klinikum rechnen wir die 15-Prozent-Grenze mit 40 Mio. EUR Projektbudget statt 7.8232 Mio. EUR Rohbauauftrag. Außerdem soll jeder Nachtrag unter 50 Prozent ohne Prüfung zulässig sein; andernfalls seien pauschal 25 Prozent zurückzuzahlen. Bitte korrigieren Sie den Vermerk.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet den betroffenen ursprünglichen Auftragswert und trennt Absatz2 Nummer2/3 von Absatz3.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Voraussetzungen, Gesamtcharakter, kumulierte Änderungen beziehungsweise Umgehung, Indexierung und spezifische Bekanntmachungspflicht.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Leitet keine pauschale Rückforderung oder automatische Vertragsnichtigkeit ab und trennt private Vergütungsberechtigung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "files": [
+      "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-werkstatt.md",
+      "bauvergabe/bauvergabe-nachtragsmanagement/bauvergabe-nachtragsmanagement-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Auftragnehmerdokumente nach Zuschlag statt allgemeiner Bauvertragsrechtsvortrag.",
+    "norms": [
+      "Paragrafen 650b, 650c, 650d, 642, 650f, 650g BGB",
+      "Paragrafen 1, 2, 4, 5, 6, 12, 14, 15, 16 VOB/B",
+      "Paragraf 132 GWB"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urt. v. 08.08.2019 – Az. VII ZR 34/18",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2018/VII_ZR__34-18.pdf?__blob=publicationFile&v=1",
+        "application": "Rn.17–20 und 27–29: Preisabrede vorrangig; tatsächlich erforderliche Kosten bei reiner Mehrmenge.",
+        "limit": "Keine pauschale Übertragung auf §2 Absatz5/6 VOB/B."
+      },
+      {
+        "citation": "BGH, Urt. v. 21.11.2019 – Az. VII ZR 10/19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2019/VII_ZR__10-19.pdf?__blob=publicationFile&v=1",
+        "application": "Rn.15 und21–24: Voraussetzungen des Preisverlangens und Klarstellung zu BGK/AGK.",
+        "limit": "Keine Beseitigung tatsächlich erforderlicher Baustellenkosten; Mehrmengenfall."
+      },
+      {
+        "citation": "BGH, Versäumnisurt. v. 26.10.2017 – Az. VII ZR 16/17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2017/VII_ZR__16-17.pdf?__blob=publicationFile&v=1",
+        "application": "Rn.18–21 und25–28: zeitliche Grenze von §642, Vorhaltung und spätere Kostensteigerung.",
+        "limit": "Andere Anspruchsgrundlagen und deren Voraussetzungen bleiben gesondert zu prüfen."
+      },
+      {
+        "citation": "EuGH, Urt. v. 19.06.2008 – Az. C-454/06, pressetext",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62006CJ0454",
+        "application": "Rn.34–37: Wesentlichkeit und Wettbewerb.",
+        "limit": "Alt-Richtlinie92/50; aktuelle Ausnahmen des §132 prüfen."
+      },
+      {
+        "citation": "EuGH, Urt. v. 07.09.2016 – Az. C-549/14, Finn Frogne",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62014CJ0549",
+        "application": "Rn.28–32 und36–40: Reduzierung, Vergleich und Änderung.",
+        "limit": "Kein Verbot jedes Vergleichs; aktuelle Norm eigenständig prüfen."
+      }
+    ],
+    "remaining_limits": [
+      "Redaktionelle Szenarien und strukturelle Validierung; keine beobachteten Modellläufe.",
+      "Keine Veröffentlichung, Einreichung oder Plattformanbindung ausgeführt.",
+      "Fiktive Vorgänge 2027 bei Rechtsstand06.10.2026 sind keine Zukunftsrechtsprognose."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "opening_modes": [
+      "Vorhandene Vertrags- und Nachtragsakte zuerst lesen.",
+      "Nur entscheidende fehlende Tatsachen erfragen.",
+      "Unabhängige bereits belegte Teile fortführen."
+    ],
+    "continuation": "Neue Pläne, Kostenbelege oder Terminbelege ändern gezielt die betroffenen Positionen.",
+    "enrichment": "Zehn Fachskills und ein Hauptskill trennen Anspruchsgrund, Preis, Bauzeit, Abrechnung, Sicherung und öffentliche Änderung.",
+    "limits": "Keine automatische Vollmacht, Freigabe, Preisvereinbarung oder Überwachung behaupten."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
+    "changes": [
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+    ],
+    "sha256": "172f7f7b0a85cbcab5c18873bc6fd8b18a691f7d7a749ebaa2f0c4417f0ae169"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
+    "changes": [
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+    ],
+    "sha256": "92b969445fc9f1b6851876dc6d6f887718469e771fa666e981b19de3a96ee72e"
+  }
+}

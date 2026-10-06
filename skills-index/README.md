@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.31.4`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.32.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22742 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22797 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -35,6 +35,11 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [barrierefreiheit-web-checker](./barrierefreiheit-web-checker.md) (60 Skills)
 - [bautraegervertrag-pruefer](./bautraegervertrag-pruefer.md) (31 Skills)
 - [bautraegervertragspruefer](./bautraegervertragspruefer.md) (31 Skills)
+- [bauvergabe-bieter](./bauvergabe-bieter.md) (11 Skills)
+- [bauvergabe-nachtragsmanagement](./bauvergabe-nachtragsmanagement.md) (11 Skills)
+- [bauvergabe-rechtsschutz](./bauvergabe-rechtsschutz.md) (11 Skills)
+- [bauvergabe-unterlagen](./bauvergabe-unterlagen.md) (11 Skills)
+- [bauvergabe-verfahren](./bauvergabe-verfahren.md) (11 Skills)
 - [bauwirtschaft](./bauwirtschaft.md) (29 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (59 Skills)
 - [bea-versand](./bea-versand.md) (1 Skills)

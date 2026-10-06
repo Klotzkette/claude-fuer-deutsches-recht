@@ -253,11 +253,13 @@
     "reviewed_on": "2026-10-02",
     "verdict": "retained",
     "reason": "Hauptproblem-Prompt und orchestrierender Hauptskill vollständig gegengelesen. Auswahl, Versionsdisziplin, Regelvollständigkeit, konkrete Fallanker, Rückfragen und fertige Arbeitsergebnisse sind verbunden; keine selbsttätige Vertragsfreigabe.",
-    "changes": [],
+    "changes": [
+      "06.10.2026: Themenfund im Hauptskill deutsch als Gefunden/Nicht gefunden/Nicht prüfbar bezeichnet; die bestehenden technischen Statuswerte und ihre Auswertung bleiben in der verlinkten Prüflogik und Engine unverändert. Eng begrenzte redaktionelle Prüfung, kein neuer Modelllauf."
+    ],
     "prompt_path": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
     "skill_path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
     "prompt_sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
-    "skill_sha256": "ca8b8106db569a80fb1b3877a258497703dd3398d194ce215c126a5fe5fdafbb"
+    "skill_sha256": "d47943bb0df518ccfd5786a78d0563b0771f15bf884bf80874a7f427f8142339"
   },
   "prompt_editorial_review": {
     "date": "2026-10-02",

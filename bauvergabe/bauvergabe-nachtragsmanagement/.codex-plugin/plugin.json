@@ -1,0 +1,33 @@
+{
+  "name": "bauvergabe-nachtragsmanagement",
+  "version": "445.32.0",
+  "description": "Zehn Fachskills und ein Hauptskill für Auftragnehmer nach dem Zuschlag: Nachtragsgrund, Preise, Bauzeit, Abrechnung, Sicherung und getrennte Prüfung öffentlicher Auftragsänderungen.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "license": "Apache-2.0 OR MIT",
+  "keywords": [
+    "bauvergabe",
+    "nachtragsmanagement",
+    "vob-b",
+    "bauzeit",
+    "auftragnehmer",
+    "gwb-132"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bauvergabe – Nachtragsmanagement",
+    "shortDescription": "Nachträge begründen, berechnen und durchsetzen",
+    "longDescription": "Die Auftragnehmerperspektive verbindet Vertragsbaseline, Anordnung, Kalkulation, Bauablauf und Zahlung mit einer eigenständigen Kontrolle öffentlicher Auftragsänderungen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Prüfen Sie unseren Nachtrag nach dem Zuschlag, berechnen Sie die belegbare Forderung und erstellen Sie das benötigte Schreiben."
+    ]
+  }
+}

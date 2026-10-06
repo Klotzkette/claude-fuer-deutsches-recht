@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf`](gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.31.4/testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-windpark-drittanfechtung-buergerinitiative-uckermark-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 

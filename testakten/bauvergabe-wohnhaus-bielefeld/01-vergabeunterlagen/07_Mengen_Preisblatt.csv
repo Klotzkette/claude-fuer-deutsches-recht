@@ -1,0 +1,17 @@
+﻿OZ;Kurztext;Einheit;Menge;Einheitspreis_netto_EUR
+01.01;Baustelleneinrichtung einschließlich Rückbau;psch;1;
+02.01;"Aushub getrennt nach Bauabschnitten; Bodenklasse durch Homogenbereiche ersetzt";m3;2300;
+02.02;Transport unbelasteten Aushubs zur benannten Annahmestelle;m3;600;
+02.03;Tragschicht aus güteüberwachtem Mineralgemisch;m3;450;
+03.01;Ortbeton in Gründung, Wänden und Decken nach Bauteilliste;m3;1100;
+03.02;Betonstahl liefern, schneiden, biegen und einbauen;kg;150000;
+03.03;Schalung einschließlich Aussparungen nach freigegebenem Plan;m2;4200;
+04.01;Mauerwerkswände nach Wandtypenliste;m2;850;
+04.02;Deckenelemente einschließlich Montage nach Statik;m2;1900;
+05.01;Abdichtung erdberührter Bauteile nach Abdichtungskonzept;m2;620;
+05.02;Perimeterdämmung mit nachgewiesenen Eigenschaften;m2;500;
+06.01;Baulogistik, Gerüste und temporäre Schutzmaßnahmen;psch;1;
+06.02;Koordinierte Leitungsdurchführungen nach Durchbruchsliste;St;35;
+06.03;Fugenabdichtung mit dokumentiertem Systemnachweis;m;60;
+07.01;Fertigteiltreppen nach freigegebener Treppenliste;St;24;
+08.01;Bestands- und Revisionsunterlagen sowie vereinbarte Prüfleistungen;psch;1;

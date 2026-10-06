@@ -1,6 +1,6 @@
 # richter-landgericht-zivilkammer
 
-**14 Skills** · Stand `v445.31.4`
+**14 Skills** · Stand `v445.32.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../gerichtsplugins/richter-landgericht-zivilkammer/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

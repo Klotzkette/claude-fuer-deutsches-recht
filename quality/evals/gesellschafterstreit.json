@@ -490,9 +490,10 @@
     "changes": [
       "GS-04 trennt nun den grundsätzlichen Ausschluss der eigenen Geltendmachung von Ansprüchen gegen Fremdgeschäftsführer von der zusätzlichen Subsidiarität einer Gesellschafterklage (BGH II ZR 85/23, Rn. 11/14). MD/TXT identisch fortgeschrieben.",
       "GS-14/GS-15: BGH II ZR 167/07 Rn. 28–31 und II ZR 166/07 Rn. 11 amtlich verifiziert, mit Fallgrenze in Workflow und Quellenabschnitt ergänzt.",
-      "§ 1.21 präzisiert die bereits vorhandene Trennung von Bewertung, Zinsbeginn, Wirkung und Fälligkeit anhand ausdrücklicher Satzungsregeln."
+      "§ 1.21 präzisiert die bereits vorhandene Trennung von Bewertung, Zinsbeginn, Wirkung und Fälligkeit anhand ausdrücklicher Satzungsregeln.",
+      "06.10.2026: Eng begrenzte Zitierklarstellung nach erneutem Lesen des amtlichen Volltexts von II ZR 91/21. Urteil vom 08.11.2022 und Berichtigungsbeschluss vom 31.01.2023 stehen getrennt; die Berichtigung betrifft in Rn. 40 allein GmbHG/BeurkG. Sachliche Anker und übriger Workshop unverändert; keine neue vollständige Modellprüfung behauptet."
     ],
-    "sha256": "2f377cb861e27475134800a3818f47084868ed1be65824c22abf880f6864b346"
+    "sha256": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6"
   },
   "focus_review": {
     "method": "desk_review",
@@ -1177,7 +1178,7 @@
   },
   "reviewed_file_hashes": {
     "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03",
-    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "2f377cb861e27475134800a3818f47084868ed1be65824c22abf880f6864b346",
+    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6",
     "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
     "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "7cf3304b26b8c4cf6832298ff2a7d5566cabc8ce00a3a7220c367e2d6b0410c0",
     "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "405a13fecba38854e5f5629350dedb401256989598be0a34e5791b517d45b8d6",
@@ -1192,7 +1193,7 @@
     "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "e9f45549055794a9924e637d8224b51f983edc86d22ff8ccec8a060f05afa037",
     "gesellschafterstreit/references/beschlusslogik.md": "326694ac990fe856fab3992d33493890ea86552bad29c5a30a1d2233304bb215",
     "gesellschafterstreit/references/finanzierung-und-wettbewerb.md": "30fe953e8cb5d581dc6d41381c44441c303ed1f6f754bcf56786639118d39f00",
-    "gesellschafterstreit/references/rechtsprechungsanker.md": "eff179d3e5dfa1f4d368055226e4b212715d7c52f5e13dbedd2f3ff27f8caa1f",
+    "gesellschafterstreit/references/rechtsprechungsanker.md": "764ee82506ea90d93924e43a273b8abfcdbcc4cfa49b82169acf30cae7cfa62e",
     "gesellschafterstreit/references/verfahrenswahl.md": "be08b614f71db78c7fd7fd0495eff152a59b6347e0fd9d5e0df162f578e2793a",
     "gesellschafterstreit/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
     "gesellschafterstreit/README.md": "31b12fddbb77341449e4ad31fb9303107aba6a3f3fb4ae320656f3fa8a2ebd15"

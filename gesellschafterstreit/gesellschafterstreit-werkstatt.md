@@ -361,7 +361,9 @@ Die Kennungen dienen nur der internen Übersicht. Im fertigen Arbeitsergebnis we
 
 ### 1.29.7. GS-07 – Listenberichtigung und richtige Anspruchsgegner
 
-**BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21**, berichtigt durch Beschl. v. 31.01.2023, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1), **Rn. 19–35 und 62–68**.
+**BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1), **Rn. 19–35 und 62–68**.
+
+Der im selben amtlichen Volltext enthaltene **BGH, Beschl. v. 31.01.2023 – Az. II ZR 91/21** berichtigt ausschließlich die Normbezeichnung in Rn. 40 von „GmbHG“ zu „BeurkG“. Die vorstehende Sachentscheidung bleibt ein Urteil.
 
 - **Aussage:** Der Anspruch eines Gesellschafters auf Einreichung einer richtigen Liste richtet sich grundsätzlich gegen die Gesellschaft. Aus der organschaftlichen Pflicht des Geschäftsführers folgt nicht ohne Weiteres ein unmittelbarer Individualanspruch gegen ihn. Ein Gesellschafter-Geschäftsführer kann daneben durch gezielten eigennützigen Listenmissbrauch seine eigene mitgliedschaftliche Treuepflicht verletzen. Präventiver Rechtsschutz benötigt eine konkret drohende oder wiederholte Verletzung.
 - **Anwendung:** Für Gesellschaft und handelnde Person jeweils Anspruchsgrundlage, Pflichtenkreis, Rechtsverletzung und Antrag formulieren. Materielle Anteilseignerschaft von der formellen Legitimation nach § 16 Abs. 1 GmbHG trennen.

@@ -1,0 +1,463 @@
+{
+  "schema_version": 1,
+  "plugin": "bauvergabe-unterlagen",
+  "reviewed_on": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://www.bundesanzeiger.de/pub/publication/73xO0rpP1jfX5HRt0Ja/content/73xO0rpP1jfX5HRt0Ja/BAnz%20AT%2024.08.2026%20B6.pdf",
+      "checked_on": "2026-10-06",
+      "supports": "Amtliches PDF abgerufen und einschlägige VOB/A-EU-Vorschriften im extrahierten Text geprüft: neue Lose, Eigenerklärungen, Reihenfolge, Öffnung, Nachforderung, Fristen und Wertung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__2.html",
+      "checked_on": "2026-10-06",
+      "supports": "Bauverweisung auf VOB/A 2026 und abweichende Behandlung der Planungslose."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/BJNR252110998.html",
+      "checked_on": "2026-10-06",
+      "supports": "Paragrafen 97a, 99, 169, 173 und 187 Absatz 2 GWB in der geltenden Fassung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg_del/2025/2152/oj",
+      "checked_on": "2026-10-06",
+      "supports": "Klassischer EU-Bauschwellenwert 2026/2027 von 5.404.000 EUR netto."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413",
+      "checked_on": "2026-10-06",
+      "supports": "Amtliche Entscheidungsdaten und bezeichnete Randnummernpassagen indexiert geprüft; keine lückenlose Volltextlektüre bei Zugriffssperre behauptet."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298",
+      "checked_on": "2026-10-06",
+      "supports": "Amtliche Entscheidungsdaten und bezeichnete Randnummernpassagen indexiert geprüft; keine lückenlose Volltextlektüre bei Zugriffssperre behauptet."
+    }
+  ],
+  "selection": {
+    "target_skill": "bauvergabe-unterlagen-steuern",
+    "positive": [
+      "Bearbeiten Sie unsere öffentlichen Bauvergabedokumente anhand des vorhandenen Planstands und führen Sie die konkrete Aufgabe zum fertigen Ergebnis.",
+      "Führen Sie die Auftraggeberakte nach einer neuen technischen Klärung weiter und erstellen Sie die erforderliche Entscheidung."
+    ],
+    "negative": [
+      "Erstellen Sie eine Tragwerksberechnung und bestätigen Sie die statische Sicherheit ohne Fachplanungsunterlagen.",
+      "Vertreten Sie ausschließlich den Bieter in einem Nachprüfungsantrag oder berechnen Sie einen Nachtrag aus einem abgeschlossenen Bauvertrag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "gesellschaft-und-lose",
+      "target_skill": "rechtsregime-auftragswert",
+      "request": "Die Soziales Wohnen Bielefeld gGmbH plant 16 Wohnungen für 8.4 Mio. EUR netto. Können wir wegen eines Rohbauloses unter der Bauschwelle national ausschreiben? Gesellschaftsvertrag, Aufgaben- und Kontrollnachweise reichen wir nach.",
+      "input_files": [],
+      "deliverables": [
+        "gesellschaft-und-lose.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Aufgabe nichtgewerblicher Art und staatliche Abhängigkeit eigenständig nach Paragraf 99 Nummer 2 GWB, statt allein kommunales Eigentum genügen zu lassen.",
+          "deliverables": [
+            "gesellschaft-und-lose.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berechnet beziehungsweise ordnet den Gesamtbauwert nach Paragraf 3 VgV ein und behandelt ein kleines Los nicht automatisch national; benennt die tatsächlich fehlenden Nachweise.",
+          "deliverables": [
+            "gesellschaft-und-lose.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "gesellschaft-und-lose.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "baugrund-und-planungsreife",
+      "target_skill": "bedarf-planungsreife",
+      "request": "Die Klinik möchte den Rohbau veröffentlichen. Zum Baugrund liegt nur eine Voruntersuchung vor, die Apothekenraumplanung ist noch unbestätigt. Der Vertrag sagt, alle Risiken seien mit dem Preis abgegolten. Erstellen Sie die Vergabereifeentscheidung.",
+      "input_files": [],
+      "deliverables": [
+        "baugrund-und-planungsreife.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet kalkulationsentscheidende Lücke, zulässigen planerischen Lösungsraum und fachlich noch freizugebende Angaben; erfindet keine technischen Sollwerte.",
+          "deliverables": [
+            "baugrund-und-planungsreife.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft ungewöhnliches Wagnis nach Paragraf 7 EU und liefert einen begründeten Vermerk samt gezielter Fachnachforderung statt bloßer Warnung.",
+          "deliverables": [
+            "baugrund-und-planungsreife.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "baugrund-und-planungsreife.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gu-zeitdruck-2026",
+      "target_skill": "losbildung-gu",
+      "request": "Beim Wohnhaus mit 8.4 Mio. EUR wollen wir wegen Zeitdruck alle Fachlose als GU-Auftrag vergeben. Es gibt noch keine dokumentierte technische Begründung. Formulieren Sie den Losvermerk.",
+      "input_files": [],
+      "deliverables": [
+        "gu-zeitdruck-2026.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Verwendet Paragraf 97a GWB und Paragraf 5a EU VOB/A 2026 statt Paragraf 97 Absatz 4 alter Fassung als vollständige Losregel.",
+          "deliverables": [
+            "gu-zeitdruck-2026.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt die Unterschreitung des zweifachen Schwellenwerts und prüft wirtschaftliche oder technische Erforderlichkeit mit Alternativen; keine pauschale GU-Freigabe.",
+          "deliverables": [
+            "gu-zeitdruck-2026.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "gu-zeitdruck-2026.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lv-gaeb-widerspruch",
+      "target_skill": "leistungsbeschreibung-gaeb",
+      "request": "Die GAEB-Datei und das lesbare LV nennen unterschiedliche Betonmengen. Ein Parser steht nicht zur Verfügung. Bitte bestätigen Sie die GAEB-Konformität und korrigieren Sie den Leistungstext.",
+      "input_files": [],
+      "deliverables": [
+        "lv-gaeb-widerspruch.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Behauptet ohne Fachprüfung keine GAEB-Konformität und unterscheidet Datenformatprüfung von juristischer LV-Prüfung.",
+          "deliverables": [
+            "lv-gaeb-widerspruch.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Klärt die verbindliche Mengenquelle, formuliert die bereinigte Position und gibt einen konkreten Synchronisierungsauftrag an die AVA-Fachstelle.",
+          "deliverables": [
+            "lv-gaeb-widerspruch.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "lv-gaeb-widerspruch.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "produktspezifikation",
+      "target_skill": "technische-spezifikationen",
+      "request": "Unser Planer nennt ein Lüftungsfabrikat für die Klinik. Er schlägt vor, nur oder gleichwertig anzuhängen. Eine technische Begründung fehlt. Bitte erstellen Sie die Klausel.",
+      "input_files": [],
+      "deliverables": [
+        "produktspezifikation.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft die Herstellerbindung und konkrete funktionale Anforderungen; hält den Zusatz allein nicht für eine Heilung.",
+          "deliverables": [
+            "produktspezifikation.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert eine verwendbare Klauselfassung mit eindeutigem Fachprüfpunkt und bezieht Roche Lietuva nur auf Gleichbehandlung und Verhältnismäßigkeit, nicht auf erfundene Hygienewerte.",
+          "deliverables": [
+            "produktspezifikation.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "produktspezifikation.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eigenerklaerung-und-referenz",
+      "target_skill": "eignung-nachweise",
+      "request": "Für das Rohbaulos wollen wir von allen Bietern bereits mit Angebot sämtliche Originalnachweise und eine Referenz mit exakt 16 Wohnungen verlangen. Bitte redigieren Sie die Teilnahmebedingungen.",
+      "input_files": [],
+      "deliverables": [
+        "eigenerklaerung-und-referenz.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Setzt Paragraf 6b EU 2026 mit Eigenerklärungen und abgestuften Nachweisen um und unterscheidet Mindestkriterium von Nachweis.",
+          "deliverables": [
+            "eigenerklaerung-und-referenz.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft vergleichbare statt identische Referenz, Eignungsleihe und Vorlagezeitpunkte; liefert ausformulierte verhältnismäßige Bedingungen.",
+          "deliverables": [
+            "eigenerklaerung-und-referenz.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "eigenerklaerung-und-referenz.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wertung-und-personal",
+      "target_skill": "zuschlagskriterien",
+      "request": "Für die Klinik soll regionale Unternehmenserfahrung 30 Punkte bringen und dasselbe Merkmal Mindestanforderung sein. Die technischen Leistungen sind noch nicht vollständig beschrieben. Entwerfen Sie Zuschlagsbedingungen.",
+      "input_files": [],
+      "deliverables": [
+        "wertung-und-personal.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Eignung und Angebotsqualität und prüft die örtliche Beschränkung sowie den konkreten Auftragsbezug.",
+          "deliverables": [
+            "wertung-und-personal.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Entwirft transparentes Bewertungsmodell mit belegten Anforderungen, Rechenprobe und vertraglicher Bindung bewerteter Zusagen; keine nachträglich freie Kriterienwahl.",
+          "deliverables": [
+            "wertung-und-personal.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "wertung-und-personal.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unbegrenzte-nachbestellung",
+      "target_skill": "vertragsbedingungen",
+      "request": "In den Bauvertrag soll: Der Auftraggeber darf jederzeit beliebige weitere Bauteile zu unveränderten Preisen bestellen. VOB/B soll schon durch VOB/A gelten. Erstellen Sie belastbare Bedingungen.",
+      "input_files": [],
+      "deliverables": [
+        "unbegrenzte-nachbestellung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft VOB/B-Einbeziehung und AGB-Recht getrennt von VOB/A; behauptet keine automatische Geltung.",
+          "deliverables": [
+            "unbegrenzte-nachbestellung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Formuliert begrenzte Änderungsbedingungen und trennt Vertragsbefugnis von Paragraf 132 GWB, ohne eine grenzenlose Option zu bestätigen.",
+          "deliverables": [
+            "unbegrenzte-nachbestellung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "unbegrenzte-nachbestellung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "apothekenbauteil-und-schutzplanke",
+      "target_skill": "bauarten-schnittstellen",
+      "request": "Prüfen Sie die Klinikunterlagen für den Apothekenbauteil. Zusätzlich möchten wir dieselben Klauseln in einer Schutzplankenvergabe verwenden, ohne deren Systemparameter zu kennen.",
+      "input_files": [],
+      "deliverables": [
+        "apothekenbauteil-und-schutzplanke.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Bau der Apothekenräume, Apothekenbetrieb und Arzneimittelbeschaffung; fordert konkrete Betreiber- und Fachplanerbeiträge.",
+          "deliverables": [
+            "apothekenbauteil-und-schutzplanke.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erkennt andere System-, Anschluss- und Sicherheitsfragen der Schutzplanken und setzt keine fremden technischen Klassen oder Hygieneanforderungen ein.",
+          "deliverables": [
+            "apothekenbauteil-und-schutzplanke.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "apothekenbauteil-und-schutzplanke.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "letzte-fassung",
+      "target_skill": "unterlagen-freigabe",
+      "request": "Der Freigabevermerk nennt LV-Version 4, im Portalordner liegt Version 3. Die Wertungsmatrix enthält eine andere Gewichtung als die Bekanntmachung. Bereiten Sie die Freigabe vor.",
+      "input_files": [],
+      "deliverables": [
+        "letzte-fassung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Gleicht alle Veröffentlichungsunterlagen ab, bewahrt alte Versionen und entscheidet den Widerspruch anhand der dokumentierten Freigaben.",
+          "deliverables": [
+            "letzte-fassung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert bereinigte Fassung und konkreten Freigabevermerk; behauptet weder Veröffentlichung noch technische Planungsprüfung.",
+          "deliverables": [
+            "letzte-fassung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert das konkret verlangte Dokument vollständig ausformuliert mit überprüfbaren Quellen, Versionsbezug und getrenntem Exporthinweis für A4 / Times New Roman 11 pt / dezimale Gliederung; behauptet keine fremde technische Prüfung.",
+          "deliverables": [
+            "letzte-fassung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hauptskill-fortsetzung",
+      "target_skill": "bauvergabe-unterlagen-steuern",
+      "request": "Wir arbeiten schon an der Klinikum-Lindenbogen-Akte. Nach einem neuen Fachplanerhinweis ist nur die betroffene Gründungsposition zu prüfen. Führen Sie den Auftrag bis zur fertigen Korrektur und Übergabe fort, ohne die komplette Mandatsaufnahme zu wiederholen.",
+      "input_files": [],
+      "deliverables": [
+        "fortsetzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Übernimmt gesicherte Stammdaten, wählt gezielt den betroffenen Fachschritt und klärt nur die entscheidende neue Fachfrage.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erstellt die konkrete Korrektur und prüft betroffene Versionen, Publizität und Fristfolgen anhand des tatsächlichen Verfahrensstands.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Funktioniert mit installierten Skills und lokalen Referenzen ohne Werkstattdatei oder Repository-Wurzel; wechselt nicht unaufgefordert Partei oder Verfahrensstufe.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_editorial_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "files": [
+      "bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-werkstatt.md",
+      "bauvergabe/bauvergabe-unterlagen/bauvergabe-unterlagen-schnellstart.md"
+    ],
+    "opening_change": "Konkrete Auftraggeberakte, vorhandene Dokumente und bestelltes Ergebnis stehen vor der Theorie; technische Fachgrenzen und neue VOB/A-Fassung sind unmittelbar entscheidungsbezogen.",
+    "norms": [
+      "Paragrafen 97a, 99, 121 bis 127 und 187 Absatz 2 GWB",
+      "Paragraf 2 VgV und VOB/A Abschnitt 2 Ausgabe 2026",
+      "Paragrafen 169 und 173 GWB; Delegierte Verordnung (EU) 2025/2152"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 25.10.2018 – Az. C-413/17, ECLI:EU:C:2018:865, Rn. 34 bis 40 (Roche Lietuva)",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62017CJ0413",
+        "application": "Detaillierte technische Spezifikationen sind auf Gleichbehandlung, Verhältnismäßigkeit und mittelbare Herstellerbevorzugung zu prüfen.",
+        "limit": "Der Ausgangsfall betraf medizinische Lieferungen. Die Entscheidung bestimmt keine deutschen Bau-, Hygiene- oder Apothekenstandards; diese sind gesondert fachlich und rechtlich zu prüfen."
+      },
+      {
+        "citation": "EuGH, Urt. v. 05.04.2017 – Az. C-298/15, ECLI:EU:C:2017:266, Rn. 68 bis 69 und 76 (Borta)",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298",
+        "application": "Bedingungen und Kriterien müssen klar und vorab erkennbar sein; erhebliche Änderungen verlangen eine angemessene Anpassungszeit und eine Prüfung der Publizität.",
+        "limit": "Der Ausgangsfall betraf einen unterschwelligen Hafenbauauftrag mit grenzüberschreitendem Interesse. Er belegt weder die Auftraggebereigenschaft einer GmbH noch die Fristen und Losausnahmen der VOB/A 2026."
+      }
+    ],
+    "remaining_limits": [
+      "Die elf Szenarien sind redaktionell geprüfte Aufgaben und Kriterien, keine behaupteten beobachteten Modellläufe.",
+      "Kein reales TED-Verfahren, keine Plattformintegration, keine technische GAEB-, Statik- oder Hygieneprüfung.",
+      "Zeitweilige EUR-Lex-Zugriffssperren begrenzen die Quellenprüfung auf die im amtlichen Index sichtbaren Randnummernpassagen."
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bei konkretem Auftrag vorhandene Akte lesen und das bestellte Dokument erstellen.",
+      "Bei fehlendem Ziel nur die entscheidende nächste Aufgabe klären.",
+      "Bei Fortsetzung gesicherte Festlegungen übernehmen und betroffene Folgewirkungen bearbeiten."
+    ],
+    "continuation": "Ereignisbezogene Rückwege zwischen Unterlagen und Verfahren; Rechtsschutz vor Zuschlag möglich, Nachtragsmanagement erst anhand des verbindlichen Vertrags.",
+    "enrichment": "Zehn fachlich unterscheidbare Bauarbeitsschritte mit konkreten Eingaben, Normen, Entscheidungsankern, Ergebnissen und lokaler Übergabe.",
+    "limits": "Keine ungeprüfte SektVO-Übertragung, keine erfundene technische Freigabe und keine externe Handlung außerhalb des erteilten Auftrags."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Kurzauftrag mit Bauvergaberecht 2026, Entscheidungen, technischem Rollenbezug und konkretem Dokumentenergebnis.",
+    "changes": [
+      "Schnellstart in vollständigen Sätzen unter 7500 Zeichen und UTF-8-Bytes redigiert; MD und TXT bytegleich."
+    ],
+    "sha256": "e5022d74680be88727f88e6d6bbb5236825b1eaf081ac8571f435ca6558683e9"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständige substanzielle Bauwerkstatt mit zehn fachlichen Kapiteln und spezifischen Entscheidungswegen.",
+    "changes": [
+      "Unterlagen beziehungsweise Verfahren vollständig neu auf Bauvergaben entwickelt; Losgrundsatz und VOB/A-Änderungen 2026 amtlich geprüft."
+    ],
+    "sha256": "5702c34aeae5ec878eaffeccaa1c4eb48859da28d5ac3fc0739c3e972c93da6c"
+  }
+}

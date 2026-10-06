@@ -246,6 +246,36 @@
       ],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "bauvergabe-unterlagen": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "bauvergabe-verfahren": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "bauvergabe-bieter": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "bauvergabe-rechtsschutz": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "bauvergabe-nachtragsmanagement": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }
