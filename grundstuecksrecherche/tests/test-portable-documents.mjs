@@ -1,7 +1,7 @@
 // node tests/test-portable-documents.mjs [--browser]
 // Optional: PYTHON, PLAYWRIGHT_MODULE, PLAYWRIGHT_CHANNEL, PORTABLE_TEST_OUTPUT.
 import assert from 'node:assert/strict';
-import { readFileSync, existsSync, mkdtempSync, writeFileSync, mkdirSync, rmSync } from 'node:fs';
+import { readFileSync, existsSync, mkdtempSync, writeFileSync, mkdirSync, rmSync, openSync, closeSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import { pathToFileURL, fileURLToPath } from 'node:url';
 import { tmpdir } from 'node:os';
@@ -13,7 +13,16 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const staticRoot = join(root, 'app/static');
 const bundled = join(process.env.HOME, '.cache/codex-runtimes/codex-primary-runtime/dependencies');
 const python = process.env.PYTHON || (existsSync(join(bundled, 'python/bin/python3')) ? join(bundled, 'python/bin/python3') : 'python3');
-const py = (script, input) => execFileSync(python, ['-c', script], { cwd: root, input: input === undefined ? undefined : JSON.stringify(input), encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 });
+const py = (script, input) => {
+  // A regular input file avoids large Unicode pipe stalls in synchronous child processes.
+  const temp = mkdtempSync(join(tmpdir(), 'portable-parity-'));
+  const source = join(temp, 'input.json');
+  writeFileSync(source, input === undefined ? '' : JSON.stringify(input));
+  const fd = openSync(source, 'r');
+  try {
+    return execFileSync(python, ['-c', script], { cwd: root, stdio: [fd, 'pipe', 'pipe'], encoding: 'utf8', timeout: 60000, maxBuffer: 64 * 1024 * 1024 });
+  } finally { closeSync(fd); rmSync(temp, { recursive: true, force: true }); }
+};
 const templateScript = py('from app.portable_templates import template_script; print(template_script(), end="")');
 assert.ok(!templateScript.includes('</script'));
 assert.equal(templateScript, py('from app.portable_templates import template_script; print(template_script(), end="")'));
