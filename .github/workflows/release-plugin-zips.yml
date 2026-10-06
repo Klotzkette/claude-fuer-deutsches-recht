@@ -123,6 +123,7 @@ jobs:
           python3 scripts/test-insolvenzforderungen-checker.py
           python3 scripts/test-sektorenvergabe-workflow.py
           python3 scripts/test-bauvergabe.py
+          python3 scripts/test-bauvergabe-skill-selection.py
           python3 scripts/test-insolvenzforderungen-baeckerei.py
           python3 scripts/test-insolvenzforderungen-asset-deal.py
           python3 scripts/test-vertragserstellung-mandatsakten.py
@@ -287,6 +288,9 @@ jobs:
 
       - name: Release-ZIPs validieren
         run: python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json
+
+      - name: Portable Grundstücksrecherche ohne Vorgangsdaten bauen
+        run: python3 grundstuecksrecherche/app/portable.py dist/grundstuecksrecherche-website.zip
 
       - name: Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)
         run: |

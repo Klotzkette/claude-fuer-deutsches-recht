@@ -1,6 +1,6 @@
 {
   "name": "sektorenvergabe-workflow",
-  "version": "445.33.0",
+  "version": "445.33.1",
   "description": "Sektorenvergabe aus Auftraggebersicht: fuenf Skills fuer Vergabeunterlagen, fuenf fuer Verfahrensfuehrung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis ueber Bekanntmachung, Ruegen und Wertung bis Zuschlag und Nachpruefung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -38,12 +38,16 @@ jobs:
         run: |
           python -m unittest discover -s grundstuecksrecherche/tests -v
           python scripts/test-app-only-integration.py
+          node grundstuecksrecherche/tests/test-portable-documents.mjs
+          node grundstuecksrecherche/tests/test-portable-runtime.mjs
       - name: Browserabläufe mit kontrollierten Dienstantworten
         env:
           PLAYWRIGHT_MODULE: ${{ runner.temp }}/browser-tests/node_modules/playwright/index.mjs
           PLAYWRIGHT_CHANNEL: chromium
           UI_SCREENSHOTS: ${{ runner.temp }}/grundstuecksrecherche-screenshots
-        run: node grundstuecksrecherche/tests/test-ui.mjs
+        run: |
+          node grundstuecksrecherche/tests/test-ui.mjs
+          node grundstuecksrecherche/tests/test-website-file.mjs
       - uses: actions/upload-artifact@v4
         if: always()
         with:

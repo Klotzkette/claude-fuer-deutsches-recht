@@ -1,3 +1,17 @@
+# v445.33.1 - Grundstücksrecherche als portable Website
+
+## 1. ZIP herunterladen und index.html öffnen
+
+Die Grundstücksrecherche lässt sich zusätzlich als vollständige HTML-Website ausgeben. Nach dem Entpacken startet sie per Doppelklick auf `index.html`, ohne Python oder lokalen Server. Lokale Bibliotheken erzeugen vier echte DOCX-Entwürfe und das Dokumenten-ZIP aus den bearbeiteten Angaben. Die Brieftexte stammen aus denselben Vorlagen wie im App-Betrieb. Onlinekarten, Orts- und Katasterabrufe bleiben von den amtlichen Diensten und deren Browserfreigaben abhängig; manuelle Bearbeitung und Dokumente bleiben bei vorbereiteten oder importierten Vorgängen offline nutzbar.
+
+## 2. Bewusste Datenmitnahme und nachvollziehbare Grenzen
+
+Das Website-ZIP enthält standardmäßig keine persönlichen Vorgangsdaten. Die vollständige Aufnahme eines Vorgangs erfordert eine ausdrückliche Auswahl; auch eingebettete Vorgänge werden erst nach einem Klick geladen. Dienstabrufe haben feste Zeit- und Größenbudgets. Importierte Angaben werden nicht allein durch das Öffnen zu bestätigten Katasterdaten. README, Einstiegsskill und Plugin-Oberfläche erklären beide Betriebsarten und die Grenzen einer Einbettung.
+
+## 3. Prüfung und Veröffentlichung
+
+Dateibasierte Browserprüfungen sichern leeren Start, Offline-Bearbeitung, Datenschutz, aktualisierte Word-Dateien und ZIP-Exporte. Der tatsächliche Browserabruf für Münster ist gesondert geprüft. Der Release-Build erstellt zusätzlich das Website-ZIP. Fehlende Hauptüberschriften in 22 Bauvergabe-Skills sind ergänzt, ohne deren bisherigen Inhalt oder Frontmatter zu verändern; ein Regressionstest sichert die Titelerkennung. Bestehende Tags bleiben unverändert.
+
 # v445.33.0 - Grundstücksrecherche als lokale App
 
 ## 1. Neues App-only-Plugin

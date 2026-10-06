@@ -1,6 +1,6 @@
 # bauvergabe-rechtsschutz
 
-**11 Skills** · Stand `v445.33.0`
+**11 Skills** · Stand `v445.33.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauvergabe/bauvergabe-rechtsschutz/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

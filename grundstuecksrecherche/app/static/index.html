@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="referrer" content="no-referrer">
   <title>Grundstücksrecherche</title>
-  <link rel="stylesheet" href="/vendor/leaflet.css">
-  <link rel="stylesheet" href="/styles.css">
-  <script defer src="/vendor/leaflet.js"></script>
-  <script defer src="/app.js"></script>
+  <link rel="stylesheet" href="./vendor/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+  <script defer src="./vendor/leaflet.js"></script>
+  <!-- PORTABLE-SCRIPTS -->
+  <script defer src="./app.js"></script>
 </head>
 <body>
   <a class="skip-link" href="#case-form">Zum Vorgang</a>
@@ -24,6 +25,7 @@
           <button id="restore-case" type="button" disabled>Gespeicherten Vorgang öffnen</button>
           <button id="download-case" type="button" disabled>Vorgang als JSON herunterladen</button>
           <button id="import-case" type="button">Vorgang importieren</button>
+          <button id="download-website" type="button" disabled>Website als ZIP herunterladen</button>
           <button id="forget-case" type="button" disabled>Lokale Speicherung löschen</button>
         </div>
       </details>
@@ -56,7 +58,7 @@
           </form>
           <p id="place-status" class="muted" role="status"></p>
           <div id="place-results" class="search-results"></div>
-          <div class="place-footer"><button id="example" type="button">Beispiel Münster öffnen</button></div>
+          <div class="place-footer"><button id="example" type="button">Beispiel Münster öffnen</button><button id="prepared-site" type="button" hidden>Mitgelieferten Ort öffnen</button></div>
         </section>
       </div>
       <div class="map-status"><span id="map-status" role="status" aria-live="polite">Noch keine Karte geladen.</span><button id="reload-parcels" type="button" hidden>Erneut laden</button><button id="more-parcels" type="button" hidden>Weitere laden</button></div>
@@ -132,6 +134,17 @@
     <footer class="dialog-footer"><span id="export-status" role="status"></span><button id="export-docx" type="button">DOCX herunterladen</button><button id="print-document" type="button">Drucken</button><button id="export-zip" class="primary" type="button">Alle als ZIP</button></footer>
   </dialog>
   <input id="case-file" type="file" accept="application/json,.json" hidden>
+  <dialog id="website-dialog" aria-labelledby="website-title">
+    <form id="website-form">
+      <header class="dialog-header"><h2 id="website-title">Website herunterladen</h2><button type="button" class="icon-button" data-close="website-dialog" aria-label="Website-Export schließen" title="Schließen">×</button></header>
+      <div class="dialog-body">
+        <label class="check"><input id="website-include-case" type="checkbox">Aktuellen Vorgang mit Absender, Auswahl und Empfängern einschließen</label>
+        <p class="warning">Mit Vorgang enthält das ZIP Ihre eingegebenen Angaben. Geben Sie es nur an berechtigte Empfänger weiter.</p>
+        <p id="website-status" role="status"></p>
+      </div>
+      <footer class="dialog-footer"><button type="button" data-close="website-dialog">Abbrechen</button><button id="website-submit" type="submit" class="primary">ZIP erstellen</button></footer>
+    </form>
+  </dialog>
   <input id="geo-file" type="file" accept="application/json,application/geo+json,application/xml,text/xml,.json,.geojson,.gml,.xml" hidden>
   <noscript>Für die Grundstücksrecherche ist JavaScript erforderlich.</noscript>
 </body>

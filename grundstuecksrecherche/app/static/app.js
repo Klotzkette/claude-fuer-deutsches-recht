@@ -21,6 +21,7 @@
   }
   function textValue(value) { return value == null ? '' : typeof value === 'object' ? JSON.stringify(value) : String(value); }
   function statusLabel(value) {
+    if (value === 'browser_available') return 'Browserzugriff, keine neue amtliche Prüfung';
     return ({ verifiziert: 'Geprüft', amtlich_verifiziert: 'Amtliche Quelle geprüft', amtliche_flurstuecksdaten: 'Amtliche Flurstücksdaten', gefunden_ungeprueft: 'Gefunden, noch ungeprüft', eingeschraenkt: 'Eingeschränkt', nicht_verfuegbar: 'Nicht verfügbar', manuell_ergaenzt: 'Manuell ergänzt', manual_unverified: 'Manuell erfasst, ungeprüft', unverified: 'Ungeprüft', location_hint: 'Lagehinweis, kein Flurstücksnachweis', zu_pruefen: 'Noch zu prüfen', offen: 'Offen' })[value] || textValue(value);
   }
   function escapeHTML(value) { return textValue(value).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]); }
@@ -48,6 +49,11 @@
     requests.set(slot, request);
     const timer = setTimeout(() => { request.timedOut = true; controller.abort(); }, timeout);
     try {
+      if (window.PortableApp) {
+        const result = await window.PortableApp.request(path, { body, binary, signal: controller.signal });
+        if (controller.signal.aborted || requests.get(slot) !== request) throw abortError();
+        return result;
+      }
       if (body !== undefined && !csrfToken) throw new Error('Lokale Verbindung nicht bereit. Bitte Seite neu laden.');
       const response = await fetch(path, {
         method: body === undefined ? 'GET' : 'POST', credentials: 'same-origin', mode: 'same-origin', signal: controller.signal,
@@ -126,6 +132,11 @@
     $('place-form').querySelector('button').disabled = state.changing;
     $('change-place').hidden = !state.profile;
     $('cancel-place').hidden = !state.profile;
+    $('download-website').disabled = state.changing || !csrfToken;
+    $('download-website').hidden = !!window.PortableApp;
+  }
+  function usableProvider(provider) {
+    return provider.verification_state === 'verifiziert' || (!!window.PortableApp && provider.verification_state === 'browser_available');
   }
   function confirmReplace() { return !state.profile || window.confirm('Neuen Vorgang beginnen? Der aktuelle Vorgang wird ersetzt. Ungespeicherte Angaben gehen verloren.'); }
   function resetMap() {
@@ -286,7 +297,7 @@
       const blank = node('option', 'Ohne Kartenbild'); blank.value = ''; $('base-layer').append(blank);
       for (const [id, entry] of state.providers) {
         const provider = entry.provider;
-        if (provider.verification_state !== 'verifiziert') {
+        if (!usableProvider(provider)) {
           providerStatus(id, 'Nicht freigegeben. Es werden keine Daten von diesem Dienst geladen.');
           continue;
         }
@@ -294,7 +305,8 @@
           providerStatus(id, provider.role === 'parcels' ? 'Flurstücke über den Geodatendienst.' : 'Dieses Kartenprotokoll wird nicht unterstützt.', provider.role !== 'parcels');
           continue;
         }
-        const url = query('/api/map', { profile_id: state.profile.profile_id, provider_id: id });
+        const url = window.PortableApp ? window.PortableApp.mapURL(provider) : query('/api/map', { profile_id: state.profile.profile_id, provider_id: id });
+        if (!url) { providerStatus(id, 'Dienst nicht für den Browserzugriff freigegeben.', true); continue; }
         const minimumZoom = id === 'nrw-abk' || /wms_nw_abk/.test(provider.service_url || '') ? 17 : 3;
         const layer = L.tileLayer.wms(url, { layers: Array.isArray(provider.layers) ? provider.layers.join(',') : provider.layers || '', format: provider.format || 'image/png', transparent: provider.role === 'parcels', version: '1.3.0', crs: L.CRS.EPSG3857, tileSize: 256, minZoom: minimumZoom, maxZoom: 22, zIndex: provider.role === 'parcels' ? 200 : 100, attribution: escapeHTML(provider.attribution || provider.title || '') });
         entry.layer = layer;
@@ -324,7 +336,7 @@
     state.nextPage = null; $('more-parcels').hidden = true; $('reload-parcels').hidden = true;
     availableLayer?.clearLayers(); state.available.clear(); renderAvailable();
     if (!map || !$('parcels-visible').checked) { mapStatus('Flurstücke ausgeblendet. Die Auswahl bleibt erhalten.'); return; }
-    if (![...state.providers.values()].some((entry) => entry.provider.role === 'parcels' && entry.provider.verification_state === 'verifiziert' && /^WFS$/i.test(entry.provider.protocol))) {
+    if (![...state.providers.values()].some((entry) => entry.provider.role === 'parcels' && usableProvider(entry.provider) && /^WFS$/i.test(entry.provider.protocol))) {
       mapStatus('Kein geprüfter Flurstücksdienst verfügbar. Manuelle Erfassung und Geodatenimport sind möglich.', true); return;
     }
     if (map.getZoom() < 17) { mapStatus('Flurstücke ab Zoomstufe 17. Auswahl bleibt erhalten.'); $('reload-parcels').hidden = true; return; }
@@ -540,9 +552,22 @@
     finally { $('export-docx').disabled = false; $('export-zip').disabled = false; }
   }
 
+  async function exportWebsite(event) {
+    event.preventDefault();
+    $('website-submit').disabled = true; $('website-status').textContent = 'Website wird verpackt …';
+    try {
+      const blob = await api('website', '/api/website', { body: { case: collectCase(), include_case: $('website-include-case').checked }, binary: true, timeout: 60000 });
+      if (!blob.size) throw new Error('Das Website-Paket ist leer.');
+      download(blob, 'grundstuecksrecherche-website.zip');
+      $('website-status').textContent = 'ZIP entpacken und index.html öffnen. Kartenabrufe benötigen Internetzugriff.';
+    } catch (error) { if (!isAbort(error)) $('website-status').textContent = `Website-Export: ${error.message}`; }
+    finally { $('website-submit').disabled = false; }
+  }
+
   $('place-form').addEventListener('submit', (event) => { event.preventDefault(); searchPlaces(); });
   $('place-query').addEventListener('input', () => { clearTimeout(placeTimer); cancel('places'); $('place-results').replaceChildren(); $('place-status').textContent = ''; if ($('place-query').value.trim().length >= 2) placeTimer = setTimeout(searchPlaces, 400); });
   $('example').addEventListener('click', () => changeCase(() => api('case', '/api/example', { body: {}, timeout: 60000 }), true));
+  $('prepared-site').addEventListener('click', () => changeCase(() => window.PortableApp.prepared()));
   $('change-place').addEventListener('click', () => { $('place-panel').hidden = false; $('place-query').focus(); });
   $('cancel-place').addEventListener('click', () => { cancel('places'); clearTimeout(placeTimer); $('place-panel').hidden = true; });
   $('new-case').addEventListener('click', () => { if (confirmReplace()) { cancel('places'); clearTimeout(placeTimer); blankCase(); notice(''); } });
@@ -572,6 +597,8 @@
     try { localStorage.removeItem(STORAGE_KEY); storageAvailable(); if (state.profile) { state.dirty = true; $('save-status').textContent = 'Nicht lokal gespeichert.'; } notice('Lokale Speicherung gelöscht.'); } catch { notice('Lokale Speicherung konnte nicht gelöscht werden.', 'error'); }
   });
   $('download-case').addEventListener('click', () => download(new Blob([JSON.stringify(collectCase(), null, 2)], { type: 'application/json' }), 'grundstuecksrecherche-vorgang.json'));
+  $('download-website').addEventListener('click', () => { $('website-include-case').checked = false; $('website-include-case').disabled = !state.profile; $('website-status').textContent = ''; $('website-dialog').showModal(); });
+  $('website-form').addEventListener('submit', exportWebsite);
   $('import-case').addEventListener('click', () => $('case-file').click()); $('case-file').addEventListener('change', () => importFile($('case-file')));
   $('import-geo').addEventListener('click', () => $('geo-file').click()); $('geo-file').addEventListener('change', () => importFile($('geo-file'), true));
   $('generate-documents').addEventListener('click', generateDocuments);
@@ -584,5 +611,15 @@
   window.addEventListener('storage', storageAvailable);
   new ResizeObserver(() => map?.invalidateSize({ pan: false })).observe($('map'));
   syncControls(); storageAvailable();
+  if (window.PortableApp) {
+    $('address-query').disabled = true;
+    $('address-query').placeholder = 'Adresssuche nur im App-Betrieb';
+    $('address-query').title = 'In der portablen Website den Kartenausschnitt wählen oder einen Lagehinweis setzen.';
+    $('address-form').querySelector('button[type="submit"]').disabled = true;
+  }
+  if (window.PortableApp && window.PORTABLE_BUNDLE?.profile) {
+    $('prepared-site').hidden = false;
+    $('prepared-site').textContent = window.PORTABLE_BUNDLE.case ? 'Mitgelieferten Vorgang öffnen' : `${textValue(window.PORTABLE_BUNDLE.profile.name)} öffnen`;
+  }
   api('config', '/api/config').then((config) => { if (!config.csrf_token) throw new Error('Lokales Sicherheitstoken fehlt.'); csrfToken = config.csrf_token; syncControls(); }).catch((error) => notice(`Lokaler Server: ${error.message}`, 'error'));
 })();

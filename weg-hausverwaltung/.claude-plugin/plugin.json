@@ -1,6 +1,6 @@
 {
   "name": "weg-hausverwaltung",
-  "version": "445.33.0",
+  "version": "445.33.1",
   "description": "WEG-Hausverwaltung von Belegen und Bankbewegungen über Jahresabrechnung, Eigentümerrückfragen und Mietüberleitung bis zu Beschlüssen, Handwerkeraufträgen und Schadenfällen einschließlich Diebstahl und Bettwanzen.",
   "license": "Apache-2.0 OR MIT",
   "author": {

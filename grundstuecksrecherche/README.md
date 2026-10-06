@@ -8,9 +8,15 @@
 
 ## 1.1. Lokale App starten
 
-**Version:** `445.33.0`
+**Version:** `445.33.1`
 
-Die Grundstücksrecherche ist ein App-only-Plugin mit zwei begleitenden Skills. Die Bedienoberfläche läuft im Browser über einen lokalen Python-Server. Die Plugin-Installation allein startet die App nicht. Eine native Einbettung in Cowork ist nicht garantiert.
+Die Grundstücksrecherche ist ein App-only-Plugin mit zwei begleitenden Skills. Es gibt zwei Betriebsarten: die App mit Python-Laufzeit und eine herunterladbare HTML-Website, deren `index.html` Sie direkt öffnen können. Beide bieten eine Karte, die Flurstücksauswahl und vier bearbeitbare Auskunftsentwürfe.
+
+<!-- decimal-anchor --> <a id="app-im-browser-oder-in-einer-verfügbaren-app-vorschau"></a>
+
+### 1.1.1. App im Browser oder in einer verfügbaren App-Vorschau
+
+Eine Oberfläche mit erlaubter Codeausführung und erreichbarer Browser-Vorschau kann die App dort öffnen. Fehlt diese Möglichkeit, erhalten Sie die portable Website als ZIP. Eine Plugin-Installation allein erzeugt keine native Einbettung und startet keinen Server.
 
 Starten Sie im Verzeichnis `grundstuecksrecherche` mit Python 3 und einer virtuellen Umgebung:
 
@@ -23,7 +29,27 @@ python3 app/server.py --port 8765
 
 Öffnen Sie anschließend [die lokale App](http://127.0.0.1:8765/). Ist der Port belegt, wählen Sie einen freien Port und passen die URL entsprechend an. Beenden Sie den Server im Terminal mit `Ctrl+C`. Stellen Sie den lokalen Dienst nicht öffentlich ins Netz.
 
-Mit erlaubter Codeausführung und Browserzugriff kann der Skill `grundstuecksrecherche-starten` den Server starten und die App öffnen. Fehlt eine dieser Möglichkeiten, erläutert er die konkrete Grenze und den lokalen Startweg; er behauptet keine laufende oder eingebettete App.
+Mit erlaubter Codeausführung und Browserzugriff kann der Skill `grundstuecksrecherche-starten` den Server starten und die App öffnen. Er bietet zusätzlich den Website-Download an; er behauptet keine laufende oder eingebettete App, wenn die jeweilige Oberfläche dies nicht ermöglicht.
+
+<!-- decimal-anchor --> <a id="website-herunterladen-und-indexhtml-öffnen"></a>
+
+### 1.1.2. Website herunterladen und index.html öffnen
+
+[Website als ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip) oder in der laufenden App unter `Vorgang` den Befehl `Website als ZIP herunterladen` wählen. Entpacken Sie das ganze ZIP in einen Ordner und öffnen Sie darin `index.html` per Doppelklick. Lassen Sie die übrigen Dateien und den Unterordner `vendor` zusammen. Auf dem Zielcomputer werden weder Python noch Terminal oder lokaler Webserver benötigt. Öffnen Sie die Datei nicht nur in der ZIP-Vorschau des Dateimanagers.
+
+Standardmäßig enthält die Website nur die Software und gegebenenfalls den vorbereiteten Ort. Die Auswahl `Aktuellen Vorgang ... einschließen` nimmt zusätzlich Absender, Empfänger, Flurstücke und Begründungen auf. Diese Angaben sind dann für jeden Empfänger des ZIP lesbar. Der mitgelieferte Ort oder Vorgang wird in der Website erst nach einem bewussten Klick geöffnet.
+
+Die Formulare und die Erzeugung neuer DOCX-Entwürfe funktionieren direkt im Browser. Kartenbilder, Ortssuche sowie neue Katasterabrufe benötigen weiterhin Internet und einen vom Datenanbieter erlaubten Browserzugriff. Das ZIP ist keine Offline-Katasterdatenbank. Bei einer CORS-Sperre oder einem Dienstausfall bleiben mitgelieferte oder importierte Vorgänge, manuelle Angaben und Dokumentenexporte verfügbar. Die Adresssuche und die weitergehende Katalog- und Zuständigkeitsrecherche bleiben Aufgabe der App mit Python-Laufzeit. In der portablen Website wählen Sie den Kartenausschnitt oder setzen einen Lagehinweis; schalten Sie keine Browsersicherheitsfunktionen ab.
+
+Der Skill kann das Website-Paket auch ohne laufenden Server im Plugin-Verzeichnis bauen:
+
+```sh
+python3 app/portable.py grundstuecksrecherche-website.zip
+```
+
+Mit `--case vorgang.json` wird dessen Ort vorbereitet; erst `--include-case` schließt ausdrücklich den vollständigen Vorgang ein. Das normale Plugin-ZIP enthält den Quellcode und die Skills. Das gesonderte Website-ZIP enthält die direkt öffnungsfähige `index.html` auf der obersten Ebene.
+
+English: Use `Vorgang` → `Website als ZIP herunterladen`, extract the complete archive and open `index.html`. No Python or server is required on the receiving computer. Document editing and generation run in the browser; live maps and searches still require internet and provider permission for browser access. Case details are excluded unless explicitly selected.
 
 [Plugin als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche.zip) · [Plugin-Dateien](.) · [Repository](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Skills dieses Plugins](../skills-index/grundstuecksrecherche.md) · [Download-Index](../ASSET_INDEX.md)
 

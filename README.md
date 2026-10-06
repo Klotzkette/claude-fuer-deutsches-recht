@@ -8,7 +8,9 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
-Neu in `v445.33.0`: [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale Browser-App mit zwei Skills, ohne Begleitprompts oder Testakte. Start und Voraussetzungen stehen in der Plugin-README; die lokale Adresse ist `http://127.0.0.1:8765/`, nicht eine gehostete öffentliche App. In einem bereits eingerichteten oder importierten Vorgang bleiben manuelle Erfassung und Dokumententwürfe auch ohne externe Dienste nutzbar; die erstmalige Stadtsuche und Kartenabrufe benötigen verfügbare Onlinequellen. Die App startet ohne vorausgewählte Stadt, unterscheidet bestätigte NRW-Katastertreffer von manuellen Angaben und erstellt vier DOCX-Entwürfe samt ZIP. Offene Karten liefern keine automatischen Eigentümerdaten; es erfolgt kein Versand. Die Plugin-Installation garantiert keine native Cowork-Einbettung.
+Neu in `v445.33.1`: [Grundstücksrecherche](./grundstuecksrecherche/README.md) bietet neben der lokalen Browser-App eine [portable Website als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip). ZIP entpacken und `index.html` öffnen: Auf dem Zielcomputer sind weder Python noch ein Server nötig. Karte, Flurstücksauswahl, bearbeitbare Angaben und vier DOCX-Entwürfe samt Dokumenten-ZIP gehören dazu. Die Website startet leer und enthält standardmäßig keine persönlichen Vorgangsdaten; Karten und neue Ortsabfragen benötigen Internet. Manuelle Bearbeitung und Dokumentenerstellung aus vorbereiteten oder importierten Vorgängen bleiben auch offline nutzbar. In Codex, ChatGPT oder Cowork kann eine verfügbare Browser-Vorschau verwendet werden; eine native Einbettung wird nicht zugesichert. Offene Karten liefern keine automatischen Eigentümerdaten, und die App versendet nichts. [Beide Betriebsarten und ihre Grenzen](./grundstuecksrecherche/README.md#111-app-im-browser-oder-in-einer-verfügbaren-app-vorschau).
+
+English: Download the [portable property-research website](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip), extract the complete archive and open `index.html`. No Python or local server is required. Live maps and searches need internet; prepared cases, manual editing and document generation also work offline. Private case data is excluded by default. Native embedding depends on the host application.
 
 Hinweis: Die gesamte Sammlung ist ein Experiment und keine Rechtsberatung. Ergebnisse können falsch oder unvollständig sein und müssen vor ihrer Verwendung geprüft werden. Eine Haftung für die Nutzung wird ausgeschlossen, soweit gesetzlich zulässig; zwingende gesetzliche Haftung bleibt unberührt.
 
@@ -176,7 +178,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22799: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 451 zentral / 454 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.33.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -326,7 +328,7 @@ Die [Bauvergabe-Reihe](./bauvergabe/README.md) bündelt fünf eigenständige Plu
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-inkasso-zahlungsklage-modefuchs.zip)
+> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-inkasso-zahlungsklage-modefuchs.zip)
 
 Die folgende Tabelle enthält alle installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
 

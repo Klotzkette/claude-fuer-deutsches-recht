@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/sozialversicherung-gmbh-fuenfzig-prozent-erfurt_gesamt.pdf`](gesamt-pdf/sozialversicherung-gmbh-fuenfzig-prozent-erfurt_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -43,8 +43,8 @@ This test case file was generated with AI and is an experiment. Use at your own 
 | Fassung | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamtakte](gesamt-pdf/sozialversicherung-gmbh-fuenfzig-prozent-erfurt_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip) |
-| Einzel-PDF-ZIP | [Einzelunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt.zip) |
+| Einzel-PDF-ZIP | [Einzelunterlagen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-sozialversicherung-gmbh-fuenfzig-prozent-erfurt-einzelpdfs.zip) |
 
 ## 1.3. Originalunterlagen
 

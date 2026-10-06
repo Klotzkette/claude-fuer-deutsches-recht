@@ -1,9 +1,11 @@
 import http.client
+from io import BytesIO
 import json
 from pathlib import Path
 import sys
 import threading
 import unittest
+import zipfile
 from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'app'))
@@ -69,6 +71,18 @@ class ServerTests(unittest.TestCase):
             status, _, _ = self.request('/api/setup', 'POST', json.dumps(raw), {'Content-Type': 'application/json', 'X-Local-Token': self.server.state.token})
         self.assertEqual(status, 400)
         discover.assert_not_called()
+
+    def test_website_export_opt_in_and_security(self):
+        headers = {'Content-Type': 'application/json', 'X-Local-Token': self.server.state.token}
+        body = json.dumps({'case': {'sender_organisation': 'NICHT-WEITERGEBEN'}})
+        self.assertEqual(self.request('/api/website', 'POST', body)[0], 403)
+        status, data, result_headers = self.request('/api/website', 'POST', body, headers)
+        self.assertEqual(status, 200)
+        self.assertIn('grundstuecksrecherche-website.zip', result_headers['Content-Disposition'])
+        with zipfile.ZipFile(BytesIO(data)) as archive:
+            self.assertIn('index.html', archive.namelist())
+            self.assertNotIn(b'NICHT-WEITERGEBEN', archive.read('portable-bundle.js'))
+        self.assertEqual(self.request('/api/website', 'POST', '{"case":{},"include_case":"false"}', headers)[0], 400)
 
 
 if __name__ == '__main__':

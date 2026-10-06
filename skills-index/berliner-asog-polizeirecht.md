@@ -1,6 +1,6 @@
 # berliner-asog-polizeirecht
 
-**11 Skills** · Stand `v445.33.0`
+**11 Skills** · Stand `v445.33.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../berliner-asog-polizeirecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

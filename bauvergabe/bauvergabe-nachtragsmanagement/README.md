@@ -62,15 +62,15 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Klinikum Lindenbogen Münster – Ambulanzneubau und Krankenhausapotheke](../../testakten/bauvergabe-klinikum-muenster/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-klinikum-muenster/gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) | [`testakte-bauvergabe-klinikum-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster.zip) | [`testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
-| [Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof](../../testakten/bauvergabe-wohnhaus-bielefeld/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-wohnhaus-bielefeld/gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) | [`testakte-bauvergabe-wohnhaus-bielefeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-wohnhaus-bielefeld.zip) | [`testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |
+| [Klinikum Lindenbogen Münster – Ambulanzneubau und Krankenhausapotheke](../../testakten/bauvergabe-klinikum-muenster/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-klinikum-muenster/gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) | [`testakte-bauvergabe-klinikum-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-klinikum-muenster.zip) | [`testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
+| [Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof](../../testakten/bauvergabe-wohnhaus-bielefeld/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-wohnhaus-bielefeld/gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) | [`testakte-bauvergabe-wohnhaus-bielefeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-wohnhaus-bielefeld.zip) | [`testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
 ## 1. Einsatz
 
-Version 445.33.0 · Rechtsstand 06.10.2026. Dieses Plugin unterstützt den Auftragnehmer nach dem Zuschlag mit zehn Fachskills und einem Hauptskill. Es führt vom belegten Vertragssoll zum konkreten Nachtragsangebot, zur Anzeige, Abrechnung, Sicherung oder Vereinbarung. Die Auftraggeberposition wird zur belastbaren Bewertung mitgeprüft. Die Zulässigkeit öffentlicher Auftragsänderungen bleibt von der zivilrechtlichen Nachtragsberechtigung getrennt.
+Version 445.33.1 · Rechtsstand 06.10.2026. Dieses Plugin unterstützt den Auftragnehmer nach dem Zuschlag mit zehn Fachskills und einem Hauptskill. Es führt vom belegten Vertragssoll zum konkreten Nachtragsangebot, zur Anzeige, Abrechnung, Sicherung oder Vereinbarung. Die Auftraggeberposition wird zur belastbaren Bewertung mitgeprüft. Die Zulässigkeit öffentlicher Auftragsänderungen bleibt von der zivilrechtlichen Nachtragsberechtigung getrennt.
 
 ## 2. Einstieg und Umfang
 

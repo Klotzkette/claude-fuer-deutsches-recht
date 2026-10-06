@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf`](gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kommunale-haftpflicht-personenschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-kommunale-haftpflicht-personenschaden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-kommunale-haftpflicht-personenschaden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-kommunale-haftpflicht-personenschaden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -132,7 +132,7 @@ Die Korrespondenz zeigt Anforderung, Antwort, abweichende Standpunkte und den je
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF | PDF | [Gesamte Akte](gesamt-pdf/kommunale-haftpflicht-personenschaden_gesamt.pdf) |
-| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-kommunale-haftpflicht-personenschaden.zip) |
-| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
+| Akten-ZIP | ZIP | [Native Originale und Gesamt-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-kommunale-haftpflicht-personenschaden.zip) |
+| Einzel-PDF-ZIP | ZIP | [Jedes Aktenstück als PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-kommunale-haftpflicht-personenschaden-einzelpdfs.zip) |
 
 Die Archive enthalten die Arbeitsdateien unmittelbar auf der ZIP-Wurzelebene und einen Nutzungshinweis. README und redaktionelle Bewertungsdatei gehören nicht zum Arbeitsdump. Die Verknüpfungen beziehen sich auf den Akten-Begleitrelease zu Version 445.31.1.

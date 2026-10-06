@@ -109,6 +109,7 @@ const server = createServer(async (req, res) => {
     if (url.pathname === '/api/import-geo') return json(collection([feature('imported', -.0008)], { warnings: ['Importierte Angaben sind ungeprüft.'] }));
     if (url.pathname === '/api/documents') return json({ documents, warnings: ['Entwürfe vor Versand prüfen.'] });
     if (url.pathname === '/api/export') { res.writeHead(200, { 'Content-Type': 'application/octet-stream' }); return res.end('TEST-EXPORT'); }
+    if (url.pathname === '/api/website') { res.writeHead(200, { 'Content-Type': 'application/zip' }); return res.end('TEST-WEBSITE'); }
     if (url.pathname === '/api/map') { if (mapFailure) return json({ error: 'Kartendienst nicht erreichbar' }, 400); res.writeHead(200, { 'Content-Type': 'image/png' }); return res.end(png); }
     const pathname = url.pathname === '/' ? 'index.html' : decodeURIComponent(url.pathname.slice(1));
     const file = resolve(root, pathname); if (!file.startsWith(root + '/')) return json({ error: 'Pfad gesperrt' }, 403);
@@ -155,6 +156,18 @@ try {
     assert.equal(requests.some((r) => r.path === '/api/map' && r.query.provider_id === 'blocked'), false);
     await menu('#save-case'); const saved = await page.evaluate(() => JSON.parse(localStorage.getItem('grundstuecksrecherche.case.v1')));
     assert.deepEqual(saved.selected_parcels[0].grundbuchblaetter, ['47', '48']); assert.equal(saved.selected_parcels[0].grundbuchblatt, '47');
+  });
+  await check('Website-Download nur mit ausdrücklicher Vorgangsaufnahme', async () => {
+    await menu('#download-website');
+    assert.equal(await page.locator('#website-include-case').isChecked(), false);
+    const first = page.waitForEvent('download'); await page.locator('#website-submit').click();
+    assert.equal((await first).suggestedFilename(), 'grundstuecksrecherche-website.zip');
+    assert.equal(requests.filter((r) => r.path === '/api/website').at(-1).body.include_case, false);
+    await page.locator('#website-submit').waitFor({state:'visible'});
+    await page.locator('#website-include-case').check();
+    const second = page.waitForEvent('download'); await page.locator('#website-submit').click(); await second;
+    assert.equal(requests.filter((r) => r.path === '/api/website').at(-1).body.include_case, true);
+    await page.locator('[data-close="website-dialog"]').first().click();
   });
   await check('Neuer Vorgang nur nach Bestätigung, Beispiel ohne Absender und Auswahl', async () => {
     page.once('dialog', (dialog) => dialog.dismiss()); await page.locator('#new-case').click(); assert.equal(await page.locator('#case_id').inputValue(), 'ALT-42');

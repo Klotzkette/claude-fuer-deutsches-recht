@@ -6,6 +6,12 @@ Die Anwendung benötigt Python ab Version 3.10, die Abhängigkeiten aus `app/req
 
 Die mitgelieferten Skills begleiten Start und Dokumentenvorbereitung. Ein vollständiger Vorgang ist auch ohne Sprachmodell direkt in der Anwendung bearbeitbar. Es gibt keine API-Schlüssel, kein Modellabonnement und keinen externen Dokumentenversand durch den Programmcode.
 
+Daneben steht ein Website-Export zur Verfügung. Das erzeugte ZIP enthält `index.html`, lokale Karten- und Dokumentenbibliotheken sowie eine Browserlaufzeit. Nach vollständigem Entpacken öffnet sich die Website per Doppelklick ohne Python. Die Dokumentvorlagen werden beim Verpacken aus denselben freigegebenen Vorlagen wie in der App übernommen; es gibt keinen externen Textgenerator. Browser und App erzeugen aus denselben Angaben inhaltlich gleiche Schreiben. Paritätstests vergleichen die HTML-Ausgaben beider Wege.
+
+Das Website-ZIP enthält standardmäßig keine Vorgangsdaten. Eine ausdrückliche Auswahl kann den aktuellen Vorgang einschließen; dann sind die Angaben in `portable-bundle.js` für jeden Empfänger lesbar. Die Website öffnet solche Daten erst auf Anforderung. JSON bleibt der verlässliche Sicherungs- und Übertragungsweg, wenn ein Browser die lokale Speicherung für `file://` nicht dauerhaft unterstützt.
+
+Die portable Website verwendet nur ausdrücklich unterstützte öffentliche Direktabrufe. Ein erreichbares Kartenbild ist keine erneute amtliche Quellenprüfung. Neue Katalog- und Zuständigkeitsrecherche erfordert die App mit Python-Laufzeit. Externe Dienste können direkte Browserabrufe blockieren oder ausfallen; vorhandene oder importierte Vorgänge und lokale Dokumentenerzeugung bleiben verfügbar. Keine Browser-Sicherheitsoption abschalten und keinen öffentlichen Ausweichproxy verwenden. Das ZIP enthält keine Offline-Kartenkacheln.
+
 ## 1.2. Datenquellen und Grenzen
 
 Die Ortssuche liest die Verwaltungsgebiete VG250 des Bundesamts für Kartographie und Geodäsie. Der Gemeindeschlüssel kommt unverändert als achtstellige Zeichenkette aus dieser Quelle. Gemeindegrenzen und ihr Mittelpunkt sind generalisiert; sie ersetzen keine amtliche Grenzfeststellung und keinen Katasterauszug. Gleichnamige Gemeinden werden nach Bundesland und Kreis getrennt angeboten.
@@ -51,6 +57,9 @@ Die Browserprüfung benötigt Playwright und dessen Chromium-Installation. `PLAY
 ```sh
 node grundstuecksrecherche/tests/test-ui.mjs
 node grundstuecksrecherche/tests/test-ui.mjs --live
+node grundstuecksrecherche/tests/test-portable-documents.mjs
+node grundstuecksrecherche/tests/test-portable-runtime.mjs
+node grundstuecksrecherche/tests/test-website-file.mjs
 RUN_LIVE_DISCOVERY=1 python3 -m unittest discover -s grundstuecksrecherche/tests -p test_discovery.py -v
 ```
 

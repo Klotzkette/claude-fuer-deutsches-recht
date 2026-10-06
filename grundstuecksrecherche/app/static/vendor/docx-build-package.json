@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "docx": "9.8.1",
+    "esbuild": "0.28.2",
+    "fflate": "0.8.3"
+  }
+}

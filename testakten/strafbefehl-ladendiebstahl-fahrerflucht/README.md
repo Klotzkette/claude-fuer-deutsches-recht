@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf`](gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-strafbefehl-ladendiebstahl-fahrerflucht-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -31,7 +31,7 @@ English: The original-format ZIP contains the working files directly at archive 
 
 | Akte | Direkt-Download |
 | --- | --- |
-| `testakte-strafbefehl-ladendiebstahl-fahrerflucht` (Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht` (Akte) | [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
 
 Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 

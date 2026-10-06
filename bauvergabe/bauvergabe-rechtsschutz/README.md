@@ -62,13 +62,13 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Klinikum Lindenbogen Münster – Ambulanzneubau und Krankenhausapotheke](../../testakten/bauvergabe-klinikum-muenster/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-klinikum-muenster/gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) | [`testakte-bauvergabe-klinikum-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster.zip) | [`testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
-| [Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof](../../testakten/bauvergabe-wohnhaus-bielefeld/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-wohnhaus-bielefeld/gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) | [`testakte-bauvergabe-wohnhaus-bielefeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-wohnhaus-bielefeld.zip) | [`testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |
+| [Klinikum Lindenbogen Münster – Ambulanzneubau und Krankenhausapotheke](../../testakten/bauvergabe-klinikum-muenster/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-klinikum-muenster/gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) | [`testakte-bauvergabe-klinikum-muenster.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-klinikum-muenster.zip) | [`testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
+| [Soziales Wohnen Bielefeld – 16 Wohnungen am Quittenhof](../../testakten/bauvergabe-wohnhaus-bielefeld/README.md) | [Gesamt-PDF](../../testakten/bauvergabe-wohnhaus-bielefeld/gesamt-pdf/bauvergabe-wohnhaus-bielefeld_gesamt.pdf) | [`testakte-bauvergabe-wohnhaus-bielefeld.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-wohnhaus-bielefeld.zip) | [`testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-bauvergabe-wohnhaus-bielefeld-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
 
-Version 445.33.0 · Rechtsstand 06.10.2026
+Version 445.33.1 · Rechtsstand 06.10.2026
 
 Das Plugin bearbeitet öffentliche Bauvergaben mit genau zehn Fachskills und einem Hauptskill. Es berücksichtigt die VOB/A-EU 2026, das Übergangsrecht und die getrennten Fristauslöser. Die installierten Skills benötigen nur die enthaltenen Referenzen, keinen Repository-Leitfaden und keinen gesonderten Großprompt.
 

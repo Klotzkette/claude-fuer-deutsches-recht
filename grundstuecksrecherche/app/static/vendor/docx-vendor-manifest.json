@@ -1,0 +1,143 @@
+{
+  "versions": {
+    "docx": "9.8.1",
+    "fflate": "0.8.3",
+    "esbuild": "0.28.2"
+  },
+  "packages": [
+    {
+      "name": "@types/node",
+      "version": "26.6.4",
+      "license": "MIT"
+    },
+    {
+      "name": "core-util-is",
+      "version": "1.0.3",
+      "license": "MIT"
+    },
+    {
+      "name": "docx",
+      "version": "9.8.1",
+      "license": "MIT"
+    },
+    {
+      "name": "esbuild",
+      "version": "0.28.2",
+      "license": "MIT"
+    },
+    {
+      "name": "fflate",
+      "version": "0.8.3",
+      "license": "MIT"
+    },
+    {
+      "name": "hash.js",
+      "version": "1.1.7",
+      "license": "MIT"
+    },
+    {
+      "name": "immediate",
+      "version": "3.0.6",
+      "license": "MIT"
+    },
+    {
+      "name": "inherits",
+      "version": "2.0.4",
+      "license": "ISC"
+    },
+    {
+      "name": "isarray",
+      "version": "1.0.0",
+      "license": "MIT"
+    },
+    {
+      "name": "jszip",
+      "version": "3.10.2",
+      "license": "(MIT OR GPL-3.0-or-later)"
+    },
+    {
+      "name": "lie",
+      "version": "3.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "minimalistic-assert",
+      "version": "1.0.1",
+      "license": "ISC"
+    },
+    {
+      "name": "nanoid",
+      "version": "6.0.2",
+      "license": "MIT"
+    },
+    {
+      "name": "pako",
+      "version": "1.0.11",
+      "license": "(MIT AND Zlib)"
+    },
+    {
+      "name": "process-nextick-args",
+      "version": "2.0.1",
+      "license": "MIT"
+    },
+    {
+      "name": "readable-stream",
+      "version": "2.3.8",
+      "license": "MIT"
+    },
+    {
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "license": "MIT"
+    },
+    {
+      "name": "sax",
+      "version": "1.6.1",
+      "license": "BlueOak-1.0.0"
+    },
+    {
+      "name": "setimmediate",
+      "version": "1.0.5",
+      "license": "MIT"
+    },
+    {
+      "name": "string_decoder",
+      "version": "1.1.1",
+      "license": "MIT"
+    },
+    {
+      "name": "undici-types",
+      "version": "8.9.0",
+      "license": "MIT"
+    },
+    {
+      "name": "util-deprecate",
+      "version": "1.0.2",
+      "license": "MIT"
+    },
+    {
+      "name": "xml",
+      "version": "1.0.1",
+      "license": "MIT"
+    },
+    {
+      "name": "xml-js",
+      "version": "1.6.11",
+      "license": "MIT"
+    }
+  ],
+  "files": {
+    "docx.iife.js": {
+      "bytes": 384879,
+      "sha256": "6fae5aa48855eadd483542965c1c75b323af1da20b2e5209aa865db2dca9ee8a"
+    },
+    "fflate.iife.js": {
+      "bytes": 13166,
+      "sha256": "92f72d64253deab00240d53536c0b3da6cc49d438ea7f88cf266949f11466596"
+    },
+    "docx-vendor-LICENSES.txt": {
+      "bytes": 63794,
+      "sha256": "1f96f747611cfec37ab7f4d73298f200e08e92079a0b611b3401ff2c744be3ff"
+    }
+  }
+}

@@ -20,10 +20,11 @@
     "opening_modes": [
       "Leerer Start mit Rückfrage zur Stadt und Prüfung der Ausführungsmöglichkeiten.",
       "Bereits benannte Stadt mit Bestätigung des Ortsbezugs und amtlicher Quellensuche.",
-      "Vorhandene manuelle Auswahl mit Kennzeichnung des ungeprüften Status."
+      "Vorhandene manuelle Auswahl mit Kennzeichnung des ungeprüften Status.",
+      "Website-Download ohne Vorgangsdaten als Alternative zur verfügbaren App-Vorschau."
     ],
     "continuation": "Die beiden Skills führen den aktuellen App-Stand fort und fragen nur entscheidende fehlende Angaben nach. Sie erfinden weder einen erfolgreichen Serverstart noch Katastertreffer oder Eigentümer.",
-    "enrichment": "Redaktionelle Durchsicht der beiden Skills und ihrer Startanleitung: Betriebsgrenzen, Herkunft der Flurstücksdaten, DOCX-Prüfung und Trennung von Entwurf und Versand sind ausdrücklich beschrieben.",
+    "enrichment": "Redaktionelle Durchsicht der beiden Skills und ihrer Startanleitung: Betriebsgrenzen, Herkunft der Flurstücksdaten, DOCX-Prüfung und Trennung von Entwurf und Versand sind ausdrücklich beschrieben. Die portable Website ist vom Plugin-Quellpaket unterschieden; die Aufnahme vertraulicher Vorgangsdaten verlangt eine ausdrückliche Auswahl.",
     "limits": "Dies ist eine Prüfung der Arbeitsanweisungen, kein ausgeführter Modelllauf, kein Live-Katastertest und keine eigenständige Rechtsquellenverifikation. Es gibt keine Begleitprompts; die rechtliche Einzelfallprüfung und die Laufzeitprüfung der App sind gesonderte Aufgaben."
   },
   "cases": [
@@ -36,7 +37,8 @@
       "criteria": [
         {"id": "stadt", "text": "Fragt nach der Stadt, ohne Münster oder eine andere Stadt vorauszuwählen.", "deliverables": ["startvermerk.md"]},
         {"id": "grenze", "text": "Benennt die fehlenden Werkzeuge und behauptet weder Serverstart noch native Einbettung.", "deliverables": ["startvermerk.md"]},
-        {"id": "lokal", "text": "Nennt virtuelle Umgebung, app/requirements.txt und python3 app/server.py --port 8765 mit lokaler Browseradresse.", "deliverables": ["startvermerk.md"]}
+        {"id": "lokal", "text": "Nennt virtuelle Umgebung, app/requirements.txt und python3 app/server.py --port 8765 mit lokaler Browseradresse.", "deliverables": ["startvermerk.md"]},
+        {"id": "website", "text": "Bietet zusätzlich das Website-ZIP zum Entpacken und Öffnen von index.html an, ohne bei fehlender Ausführung eine bereits erzeugte Datei zu behaupten; grenzt Online-Karten von lokalem Dokumentenexport ab.", "deliverables": ["startvermerk.md"]}
       ]
     },
     {

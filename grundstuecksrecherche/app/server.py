@@ -18,6 +18,7 @@ from urllib.parse import parse_qs, unquote, urlsplit
 
 from discovery import search_places, discover
 from documents import build_documents, export_document, validate_case
+from portable import build_website
 from ogc import bbox, import_geometry, map_image, parcels, query, verify_provider
 from secure_net import PublicFetcher
 
@@ -241,11 +242,14 @@ class Handler(BaseHTTPRequestHandler):
             if path == '/api/import-geo':
                 profile = self.state.profile(data.get('profile_id'))
                 return self.respond(import_geometry(data.get('content'), profile))
-            if path in ('/api/documents', '/api/export', '/api/import'):
+            if path in ('/api/documents', '/api/export', '/api/import', '/api/website'):
                 if not self.state.document_slots.acquire(blocking=False):
                     raise ValueError('Dokumente werden gerade erstellt. Bitte kurz warten.')
                 try:
                     case = self.state.case(data.get('case'))
+                    if path == '/api/website':
+                        payload = build_website(case, include_case=data.get('include_case', False))
+                        return self.respond(payload, 'application/zip', filename='grundstuecksrecherche-website.zip')
                     if path == '/api/import':
                         for parcel in case.get('selected_parcels', []):
                             is_point = (parcel.get('geometry') or {}).get('type') == 'Point'
