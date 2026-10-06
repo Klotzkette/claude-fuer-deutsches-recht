@@ -41,6 +41,12 @@ jobs:
       - name: Python-Abhängigkeiten installieren
         run: python3 -m pip install -r requirements.txt
 
+      - name: Lokale Grundstücksrecherche prüfen
+        run: |
+          python3 -m pip install -r grundstuecksrecherche/app/requirements.txt
+          python3 -m unittest discover -s grundstuecksrecherche/tests -v
+          python3 scripts/test-app-only-integration.py
+
       - name: Versionsstände und Prüfprofile vor dem PDF-Build prüfen
         run: |
           python3 scripts/validate-root-readme-overview.py

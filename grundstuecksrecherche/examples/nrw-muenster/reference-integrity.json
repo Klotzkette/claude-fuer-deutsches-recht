@@ -1,0 +1,16 @@
+{
+  "archive_sha256": "b580b8dca1a49365178c7ac03ab668ff45b7fccb48d183c086209437b7c018e8",
+  "files": {
+    "LIESMICH.txt": "9c795de692452c9a96225e4f733947d492bf508815a519784c21bbc7a9a5f790",
+    "favicon.svg": "67f40c792b91cc6795ef9a23e6233efd62d656d9720483c441a46e9cf1cfe246",
+    "index.html": "caa44be1ca219a10d2efc912dc536208840d3f5c374948a458eee24a0f2aaf9e",
+    "vendor/Leaflet-LICENSE.txt": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+    "vendor/images/layers-2x.png": "066daca850d8ffbef007af00b06eac0015728dee279c51f3cb6c716df7c42edf",
+    "vendor/images/layers.png": "1dbbe9d028e292f36fcba8f8b3a28d5e8932754fc2215b9ac69e4cdecf5107c6",
+    "vendor/images/marker-icon-2x.png": "00179c4c1ee830d3a108412ae0d294f55776cfeb085c60129a39aa6fc4ae2528",
+    "vendor/images/marker-icon.png": "574c3a5cca85f4114085b6841596d62f00d7c892c7b03f28cbfa301deb1dc437",
+    "vendor/images/marker-shadow.png": "264f5c640339f042dd729062cfc04c17f8ea0f29882b538e3848ed8f10edb4da",
+    "vendor/leaflet.css": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+    "vendor/leaflet.js": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+  }
+}

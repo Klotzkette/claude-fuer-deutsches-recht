@@ -59,7 +59,11 @@ const oldReadmePhrases = [
 
 function hasObsoleteLengthInstruction(text) {
   // Dateigrößen beschreiben den Prompt, nicht die Länge seiner Fachantwort.
-  const withoutArtifactLimits = text.replace(
+  const artifactTables = text.replace(
+    /^(\| (?:Mini-Prompt|Schnellstart \/ Mini|Hauptproblem(?:-Prompt)?) \| [^|\r\n]*), h(?:ö|oe)chstens 7500 Zeichen und UTF-8-Bytes\.(?= \| [^\r\n]*download\.html\?path=[^\s)]+-(?:schnellstart|hauptproblem)\.(?:md|txt)\))/gmu,
+    '$1.',
+  );
+  const withoutArtifactLimits = artifactTables.replace(
     /\b(?:Hauptproblem-Prompts?|Markdown-Prompts?|Markdown-Downloads?|Schnellstart-Prompts?)\s+mit\s+h(?:ö|oe)chstens 7500 Zeichen(?: und Bytes)?/gu,
     '',
   );
@@ -91,7 +95,7 @@ for (const entry of marketplace.plugins) {
   errors.push(...promptProfileErrors(pluginRoot, entry.name, root));
   const werkstatt = path.join(pluginRoot, `${entry.name}-werkstatt.md`);
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
-  assert(fs.existsSync(werkstatt), `${entry.name}: Werkstatt-Markdown fehlt`);
+  if (promptEnabled(entry.name, "werkstatt")) assert(fs.existsSync(werkstatt), `${entry.name}: Werkstatt-Markdown fehlt`);
   if (promptEnabled(entry.name, "schnellstart")) assert(fs.existsSync(schnellstart), `${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(werkstatt)) {
     const size = fs.statSync(werkstatt).size;
@@ -131,7 +135,7 @@ for (const entry of marketplace.plugins) {
     const werkstattUrl = `${downloadBase}${relSource}/${entry.name}-werkstatt.md`;
     const schnellstartUrl = `${downloadBase}${relSource}/${entry.name}-schnellstart.md`;
     assert(text.includes(pluginZip), `${rel(readme)}: Plugin-ZIP-Link fehlt`);
-    assert(text.includes(werkstattUrl), `${rel(readme)}: Werkstatt-Direktdownload fehlt`);
+    if (promptEnabled(entry.name, "werkstatt")) assert(text.includes(werkstattUrl), `${rel(readme)}: Werkstatt-Direktdownload fehlt`);
     if (promptEnabled(entry.name, "schnellstart")) assert(text.includes(schnellstartUrl), `${rel(readme)}: Schnellstart-Direktdownload fehlt`);
     for (const kind of promptKinds(entry.name)) {
       for (const ext of promptFormats(entry.name)) {

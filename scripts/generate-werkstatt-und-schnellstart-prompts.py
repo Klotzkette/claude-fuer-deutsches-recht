@@ -8037,6 +8037,9 @@ def main() -> int:
     for plugin_dir in dirs:
         mf = manifest(plugin_dir)
         slug = mf.get("name") or plugin_dir.name
+        if not standalone_kinds(slug):
+            skipped += 1
+            continue
         if hand_curated(slug):
             sync_text_copies(plugin_dir, slug)
         if has_individual_review(plugin_dir, slug) or hand_curated(slug):

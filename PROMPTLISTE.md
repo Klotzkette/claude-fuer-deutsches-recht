@@ -63,7 +63,7 @@ Kategorien sind alphabetisch nach Titel sortiert, Einträge innerhalb jeder Kate
 | [Versicherungsrecht](#versicherungsrecht) | 4 |
 | [Verwaltungsrecht](#verwaltungsrecht) | 39 |
 
-263 kuratierte Plugins in 34 Kategorien, aus insgesamt 280 Marketplace-Plugins (Abgleich: 6. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien.
+263 kuratierte Plugins in 34 Kategorien, aus insgesamt 281 Marketplace-Plugins (Abgleich: 6. Oktober 2026). Gezählt werden Plugins, nicht einzelne Skills oder Prompt-Dateien. Die neue [Grundstücksrecherche](./grundstuecksrecherche/README.md) ist eine lokale App ohne eigenständige Begleitprompts und gehört deshalb nicht zu dieser kuratierten Promptauswahl.
 
 ## Agrarrecht
 

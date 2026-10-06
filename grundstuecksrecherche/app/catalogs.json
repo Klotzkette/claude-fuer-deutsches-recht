@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "allowed_hosts": {
+    "photon.komoot.io": ["/api/"],
+    "sgx.geodatenzentrum.de": ["/wfs_vg250", "/wms_topplus_open"],
+    "gdk.gdi-de.org": ["/gdi-de/srv/ger/csw"],
+    "www.wms.nrw.de": ["/geobasis/wms_nw_abk", "/geobasis/wms_nw_dop"],
+    "www.wfs.nrw.de": ["/geobasis/wfs_nw_alkis_vereinfacht"],
+    "geodienste.sachsen.de": ["/aaa/public_alkis/vereinf/wfs", "/wms_geosn_webatlas-sn/guest", "/wms_geosn_dop-rgb/guest"],
+    "gdi.berlin.de": ["/services/wfs/alkis_flurstuecke"],
+    "www.justizadressen.nrw.de": ["/de/justiz/gericht"],
+    "www.stadt-muenster.de": ["/katasteramt/startseite", "/katasteramt/ausbildung-und-praktikum"],
+    "www.ag-muenster.nrw.de": ["/kontakt/index.php", "/kontakt/email_hinweis/index.php", "/aufgaben/gerichtsbezirk/index.php", "/aufgaben/abteilungen/Grundbuchamt/index.php"]
+  },
+  "places": {
+    "service_url": "https://sgx.geodatenzentrum.de/wfs_vg250",
+    "municipalities_type": "vg250:vg250_gem",
+    "districts_type": "vg250:vg250_krs",
+    "license": "https://www.govdata.de/dl-de/by-2-0",
+    "attribution": "BKG, Verwaltungsgebiete VG250; Datenstand des Dienstes beachten",
+    "note": "Gemeindenamen oder achtstellige AGS; keine Adress-Autovervollständigung. VG250 ist generalisiert und kein Kataster."
+  },
+  "catalogs": [
+    {
+      "id": "gdi-de",
+      "title": "Geodatenkatalog.de",
+      "service_url": "https://gdk.gdi-de.org/gdi-de/srv/ger/csw",
+      "documentation_url": "https://wiki.gdi-de.org/x/tQDYKw",
+      "protocol": "CSW",
+      "version": "2.0.2",
+      "timeout": 8,
+      "max_records": 12,
+      "max_pages": 2
+    }
+  ],
+  "authority_directory": {
+    "service_url": "https://www.justizadressen.nrw.de/de/justiz/gericht",
+    "documentation_url": "https://www.justizadressen.nrw.de/de/justiz",
+    "subject": "grundbuch",
+    "note": "Bundesweites amtliches Verzeichnis. Mehrdeutige Orts- oder Gerichtszuordnung bleibt zu prüfen."
+  },
+  "providers": [
+    {
+      "provider_id": "bkg-topplus-open", "title": "TopPlusOpen (BKG)",
+      "role": "base", "protocol": "WMS",
+      "service_url": "https://sgx.geodatenzentrum.de/wms_topplus_open",
+      "layers": "web", "version": "1.3.0", "crs": "EPSG:3857", "axis_order": "xy",
+      "license": "https://www.govdata.de/dl-de/by-2-0",
+      "attribution": "Kartendarstellung: BKG (Jahr des letzten Datenbezugs), dl-de/by-2-0; https://sgx.geodatenzentrum.de/web_public/gdz/datenquellen/datenquellen_topplusopen.html",
+      "catalog_source_url": "https://sgx.geodatenzentrum.de/wms_topplus_open?service=WMS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": []},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "nrw-abk", "title": "Amtliche Basiskarte NRW",
+      "role": "base", "protocol": "WMS",
+      "service_url": "https://www.wms.nrw.de/geobasis/wms_nw_abk",
+      "layers": "nw_abk_col", "version": "1.3.0", "crs": "EPSG:3857", "axis_order": "xy",
+      "license": "https://www.govdata.de/dl-de/zero-2-0", "attribution": "Land NRW / Geobasis NRW",
+      "catalog_source_url": "https://www.wms.nrw.de/geobasis/wms_nw_abk?service=WMS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["05"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "nrw-dop", "title": "Digitale Orthophotos NRW",
+      "role": "aerial", "protocol": "WMS",
+      "service_url": "https://www.wms.nrw.de/geobasis/wms_nw_dop",
+      "layers": "nw_dop_rgb", "version": "1.3.0", "crs": "EPSG:3857", "axis_order": "xy",
+      "license": "https://www.govdata.de/dl-de/zero-2-0", "attribution": "Land NRW / Geobasis NRW",
+      "catalog_source_url": "https://www.wms.nrw.de/geobasis/wms_nw_dop?service=WMS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["05"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "nrw-alkis", "title": "ALKIS NRW vereinfachtes Schema",
+      "role": "parcels", "protocol": "WFS",
+      "service_url": "https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht",
+      "type_name": "ave:Flurstueck", "version": "2.0.0", "crs": "urn:ogc:def:crs:EPSG::4326", "axis_order": "yx",
+      "license": "https://www.govdata.de/dl-de/zero-2-0", "attribution": "Land NRW / Geobasis NRW",
+      "catalog_source_url": "https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht?service=WFS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["05"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "sn-webatlas", "title": "WebAtlas Sachsen",
+      "role": "base", "protocol": "WMS",
+      "service_url": "https://geodienste.sachsen.de/wms_geosn_webatlas-sn/guest",
+      "layers": "Vegetation,Siedlung,Gewaesser,Verkehr,Administrative_Einheiten,Beschriftung",
+      "version": "1.3.0", "crs": "EPSG:3857", "axis_order": "xy",
+      "license": "https://www.govdata.de/dl-de/by-2-0", "attribution": "GeoSN",
+      "catalog_source_url": "https://geodienste.sachsen.de/wms_geosn_webatlas-sn/guest?service=WMS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["14"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "sn-dop", "title": "Digitale Orthophotos Sachsen",
+      "role": "aerial", "protocol": "WMS",
+      "service_url": "https://geodienste.sachsen.de/wms_geosn_dop-rgb/guest",
+      "layers": "sn_dop_020", "version": "1.3.0", "crs": "EPSG:3857", "axis_order": "xy",
+      "license": "https://geoportal.sachsen.de/nutzungsbedingungen.html", "attribution": "GeoSN",
+      "catalog_source_url": "https://geodienste.sachsen.de/wms_geosn_dop-rgb/guest?service=WMS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["14"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "sn-alkis", "title": "ALKIS Sachsen vereinfachtes Schema",
+      "role": "parcels", "protocol": "WFS",
+      "service_url": "https://geodienste.sachsen.de/aaa/public_alkis/vereinf/wfs",
+      "type_name": "ave:Flurstueck", "version": "2.0.0", "crs": "urn:ogc:def:crs:EPSG::4326", "axis_order": "yx",
+      "license": "https://geoportal.sachsen.de/cps/geosn.html", "attribution": "Landesamt für Geobasisinformation Sachsen (GeoSN)",
+      "catalog_source_url": "https://www.geodaten.sachsen.de/alkis-wfs-4968.html",
+      "coverage": {"country": "DE", "state_codes": ["14"]},
+      "verification_state": "gefunden_ungeprueft"
+    },
+    {
+      "provider_id": "be-alkis", "title": "ALKIS Berlin Flurstücke",
+      "role": "parcels", "protocol": "WFS",
+      "service_url": "https://gdi.berlin.de/services/wfs/alkis_flurstuecke",
+      "type_name": "alkis_flurstuecke:flurstuecke", "version": "2.0.0", "crs": "urn:ogc:def:crs:EPSG::4326", "axis_order": "yx",
+      "license": "https://www.govdata.de/dl-de/zero-2-0", "attribution": "Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen Berlin",
+      "catalog_source_url": "https://gdi.berlin.de/services/wfs/alkis_flurstuecke?service=WFS&request=GetCapabilities",
+      "coverage": {"country": "DE", "state_codes": ["11"]},
+      "verification_state": "gefunden_ungeprueft"
+    }
+  ],
+  "authority_profiles": {
+    "05515000": [
+      {
+        "type": "kataster",
+        "official_name": "Stadt M\u00fcnster - Vermessungs- und Katasteramt",
+        "postal_address": "Stadt M\u00fcnster\nVermessungs- und Katasteramt\n48127 M\u00fcnster",
+        "visitor_address": "Stadthaus 3\nAlbersloher Weg 33\n48155 M\u00fcnster",
+        "submission_information": "Einreichungsweg für die konkrete Katasterauskunft bitte mit der Katasterauskunft klären; kein automatischer Versand.",
+        "checks": [
+          {"url": "https://www.stadt-muenster.de/katasteramt/startseite", "required_text": ["Vermessungs- und Katasteramt", "gesamte Stadtgebiet", "Albersloher Weg 33", "48155 M\u00fcnster"]},
+          {"url": "https://www.stadt-muenster.de/katasteramt/ausbildung-und-praktikum", "required_text": ["Stadt M\u00fcnster", "Vermessungs- und Katasteramt", "48127 M\u00fcnster"]}
+        ]
+      },
+      {
+        "type": "grundbuch",
+        "official_name": "Amtsgericht M\u00fcnster - Grundbuchamt",
+        "postal_address": "Amtsgericht M\u00fcnster\nGrundbuchamt\nPostfach 61 65\n48136 M\u00fcnster",
+        "visitor_address": "Gerichtsstra\u00dfe 2\n48149 M\u00fcnster",
+        "submission_information": "Die Grundbuchamtsseite nennt schriftliche Beantragung, Fax oder persönliches Erscheinen. Das Gericht weist darauf hin, dass gewöhnliche E-Mail für Anträge in Rechtssachen nicht wirksam ist. Berechtigung und konkreten Einreichungsweg vor Versand prüfen.",
+        "checks": [
+          {"url": "https://www.ag-muenster.nrw.de/kontakt/index.php", "required_text": ["Amtsgericht M\u00fcnster", "Postfach 61 65", "48136 M\u00fcnster", "Gerichtsstra\u00dfe 2", "48149 M\u00fcnster"]},
+          {"url": "https://www.ag-muenster.nrw.de/aufgaben/gerichtsbezirk/index.php", "required_text": ["umfasst das Gebiet der kreisfreien Stadt M\u00fcnster"]},
+          {"url": "https://www.ag-muenster.nrw.de/aufgaben/abteilungen/Grundbuchamt/index.php", "required_text": ["Grundbuchamt", "schriftlich", "per Fax", "pers\u00f6nlich"]},
+          {"url": "https://www.ag-muenster.nrw.de/kontakt/email_hinweis/index.php", "required_text": ["Mittels E-Mail", "nicht wirksam"]}
+        ]
+      }
+    ]
+  }
+}

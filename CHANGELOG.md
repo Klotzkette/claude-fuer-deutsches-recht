@@ -1,3 +1,17 @@
+# v445.33.0 - Grundstücksrecherche als lokale App
+
+## 1. Neues App-only-Plugin
+
+`grundstuecksrecherche` ergänzt die Sammlung um eine lokale Browser-App mit zwei begleitenden Skills. Sie beginnt ohne vorausgewählte Stadt, sucht amtliche Quellen für deutsche Städte und unterscheidet bestätigte NRW-Katasterergebnisse von manueller Flurstückserfassung. Die Münster-Referenz bleibt unverändert und ausdrücklich separat ladbar. Es werden keine zusätzlichen Begleitprompts oder Testakten veröffentlicht.
+
+## 2. Dokumente und Betriebsgrenzen
+
+Vier Entwürfe für Katasterbehörde, Grundbuchamt, Notariat und Rechtsabteilung stehen als echte DOCX-Dateien und gemeinsam im ZIP bereit. Die lokale Adresse lautet nach Serverstart `http://127.0.0.1:8765/`. Externe Suche und Karten benötigen erreichbare Dienste; in einem bereits eingerichteten oder importierten Vorgang bleiben manuelle Bearbeitung und Dokumentenerstellung ohne externe Abfragen möglich. Der leere Erststart bietet keine Offline-Ortssuche. Keine automatische Eigentümerermittlung, kein Versand und keine zugesicherte native Cowork-Einbettung.
+
+## 3. Repository-Integration
+
+Marketplace, Plugin-Manifeste sowie die Veröffentlichungsindizes werden auf `445.33.0` abgestimmt. Das explizit leere Publikationsprofil verhindert Begleitprompt-Dateien und tote Downloadlinks, ohne die Pflichtprüfungen anderer Plugins aufzuheben. Gezielte Integrationstests prüfen diese Grenze und die reproduzierbare Indexerzeugung. Vorbereitete Qualitätsfälle und redaktionelle Skill-Prüfung sind keine bestandenen Modelltests; bestehende Prompt-Inhalte bleiben unverändert.
+
 # v445.30.2 - Zwei Vorführakten zum Gesellschafterstreit
 
 ## 1. Berlin: Klageerwiderung

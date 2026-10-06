@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "plugin": "grundstuecksrecherche",
+  "reviewed_on": "2026-10-06",
+  "selection": {
+    "target_skill": "grundstuecksrecherche-starten",
+    "positive": [
+      "Starten Sie die lokale Grundstücksrecherche für eine deutsche Stadt.",
+      "Bereiten Sie aus meiner Flurstücksauswahl die vier Auskunftsentwürfe vor."
+    ],
+    "negative": [
+      "Entwerfen Sie einen Grundstückskaufvertrag.",
+      "Berechnen Sie die Grundsteuer für meine Wohnung."
+    ]
+  },
+  "sources": [],
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-06",
+    "opening_modes": [
+      "Leerer Start mit Rückfrage zur Stadt und Prüfung der Ausführungsmöglichkeiten.",
+      "Bereits benannte Stadt mit Bestätigung des Ortsbezugs und amtlicher Quellensuche.",
+      "Vorhandene manuelle Auswahl mit Kennzeichnung des ungeprüften Status."
+    ],
+    "continuation": "Die beiden Skills führen den aktuellen App-Stand fort und fragen nur entscheidende fehlende Angaben nach. Sie erfinden weder einen erfolgreichen Serverstart noch Katastertreffer oder Eigentümer.",
+    "enrichment": "Redaktionelle Durchsicht der beiden Skills und ihrer Startanleitung: Betriebsgrenzen, Herkunft der Flurstücksdaten, DOCX-Prüfung und Trennung von Entwurf und Versand sind ausdrücklich beschrieben.",
+    "limits": "Dies ist eine Prüfung der Arbeitsanweisungen, kein ausgeführter Modelllauf, kein Live-Katastertest und keine eigenständige Rechtsquellenverifikation. Es gibt keine Begleitprompts; die rechtliche Einzelfallprüfung und die Laufzeitprüfung der App sind gesonderte Aufgaben."
+  },
+  "cases": [
+    {
+      "id": "start-ohne-ausfuehrung",
+      "target_skill": "grundstuecksrecherche-starten",
+      "request": "Starten Sie die Grundstücksrecherche. Eine Stadt wurde noch nicht angegeben. In dieser Arbeitsumgebung sind weder Codeausführung noch Browserzugriff verfügbar. Erläutern Sie den konkreten lokalen Startweg, ohne einen laufenden Server oder eine eingebettete App zu behaupten.",
+      "input_files": [],
+      "deliverables": ["startvermerk.md"],
+      "criteria": [
+        {"id": "stadt", "text": "Fragt nach der Stadt, ohne Münster oder eine andere Stadt vorauszuwählen.", "deliverables": ["startvermerk.md"]},
+        {"id": "grenze", "text": "Benennt die fehlenden Werkzeuge und behauptet weder Serverstart noch native Einbettung.", "deliverables": ["startvermerk.md"]},
+        {"id": "lokal", "text": "Nennt virtuelle Umgebung, app/requirements.txt und python3 app/server.py --port 8765 mit lokaler Browseradresse.", "deliverables": ["startvermerk.md"]}
+      ]
+    },
+    {
+      "id": "manuelle-auswahl",
+      "target_skill": "auskunftsentwuerfe-vorbereiten",
+      "request": "Zu einem Grundstück in Leipzig liegen nur manuell abgeschriebene Flurstücksangaben vor. Der Kartenabruf ist ausgefallen, ein Eigentümernachweis fehlt. Die Empfänger sind noch nicht bestätigt und es besteht keine Versandfreigabe. Halten Sie fest, welche Angaben vor vier Auskunftsentwürfen zu klären sind; führen Sie keine fremde NRW-Bestätigung an.",
+      "input_files": [],
+      "deliverables": ["pruefvermerk.md"],
+      "criteria": [
+        {"id": "herkunft", "text": "Hält manuelle Angaben ungeprüft und behauptet keine erfolgreichen Katasterabfragen.", "deliverables": ["pruefvermerk.md"]},
+        {"id": "nachweise", "text": "Trennt fehlenden Eigentumsnachweis, konkretes Interesse, Vollmacht und noch zu bestätigende Empfänger.", "deliverables": ["pruefvermerk.md"]},
+        {"id": "entwurf", "text": "Ordnet vier empfängerbezogene Entwürfe zu und veranlasst weder Versand noch parallele Beauftragung; keine nur behaupteten Dateien.", "deliverables": ["pruefvermerk.md"]}
+      ]
+    }
+  ]
+}

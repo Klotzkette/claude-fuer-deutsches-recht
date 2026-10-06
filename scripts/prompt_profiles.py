@@ -25,7 +25,7 @@ def load_profiles(path: Path = CONFIG) -> dict:
             raise ValueError(f"{slug}: unvollständiges Promptprofil")
         for key, allowed in (("standalone", KINDS), ("formats", ("md", "txt"))):
             values = profile[key]
-            if not isinstance(values, list) or not values or len(values) != len(set(values)) or not set(values) <= set(allowed):
+            if not isinstance(values, list) or (key == "formats" and not values) or len(values) != len(set(values)) or not set(values) <= set(allowed):
                 raise ValueError(f"{slug}: ungültiges Feld {key}")
         if "md" not in profile["formats"] or any(type(profile[key]) is not bool for key in ("megaprompt", "hand_curated")):
             raise ValueError(f"{slug}: Markdown-Quelle oder boolescher Schalter fehlt")

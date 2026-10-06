@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <title>Grundstücksrecherche</title>
+  <link rel="stylesheet" href="/vendor/leaflet.css">
+  <link rel="stylesheet" href="/styles.css">
+  <script defer src="/vendor/leaflet.js"></script>
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#case-form">Zum Vorgang</a>
+  <header class="app-header">
+    <div class="heading"><h1>Grundstücksrecherche</h1><span id="place-name">Kein Ort ausgewählt</span></div>
+    <nav class="actions" aria-label="Vorgang verwalten">
+      <button id="change-place" type="button" hidden>Ort wechseln</button>
+      <button id="new-case" type="button">Neuer Vorgang</button>
+      <details class="file-menu">
+        <summary>Vorgang</summary>
+        <div class="file-actions">
+          <button id="save-case" type="button" disabled>Lokal speichern</button>
+          <button id="restore-case" type="button" disabled>Gespeicherten Vorgang öffnen</button>
+          <button id="download-case" type="button" disabled>Vorgang als JSON herunterladen</button>
+          <button id="import-case" type="button">Vorgang importieren</button>
+          <button id="forget-case" type="button" disabled>Lokale Speicherung löschen</button>
+        </div>
+      </details>
+    </nav>
+  </header>
+  <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+  <main class="workspace">
+    <section class="map-workspace" aria-label="Karte und Ortsauswahl">
+      <div id="map-toolbar" class="map-toolbar" hidden>
+        <form id="address-form" class="search-form" role="search" aria-label="Adresssuche">
+          <label class="sr-only" for="address-query">Adresse im ausgewählten Ort</label>
+          <input id="address-query" type="search" placeholder="Straße und Hausnummer" autocomplete="off" maxlength="160" aria-controls="address-results">
+          <button type="submit">Suchen</button>
+        </form>
+        <div id="address-results" class="search-results" aria-label="Adressvorschläge" hidden></div>
+        <div class="map-controls">
+          <label for="base-layer">Kartenbild</label><select id="base-layer" aria-label="Kartenbild"></select>
+          <label class="check"><input id="parcels-visible" type="checkbox" checked>Flurstücke</label>
+          <label class="check"><input id="pick-mode" type="checkbox">Lagehinweis setzen</label>
+          <button id="fit-place" type="button">Ortsansicht</button>
+        </div>
+      </div>
+      <div class="map-stage">
+        <div id="map" aria-label="Grundstückskarte"></div>
+        <section id="place-panel" class="place-panel" aria-labelledby="place-title">
+          <div class="place-panel-header"><h2 id="place-title">Ort auswählen</h2><button id="cancel-place" class="icon-button" type="button" aria-label="Ortswechsel abbrechen" title="Ortswechsel abbrechen" hidden>×</button></div>
+          <form id="place-form" class="search-form" role="search" aria-label="Ortssuche">
+            <div class="field"><label for="place-query">Ort oder Postleitzahl</label><input id="place-query" type="search" autocomplete="off" maxlength="120" aria-controls="place-results" required></div>
+            <button class="primary" type="submit">Suchen</button>
+          </form>
+          <p id="place-status" class="muted" role="status"></p>
+          <div id="place-results" class="search-results"></div>
+          <div class="place-footer"><button id="example" type="button">Beispiel Münster öffnen</button></div>
+        </section>
+      </div>
+      <div class="map-status"><span id="map-status" role="status" aria-live="polite">Noch keine Karte geladen.</span><button id="reload-parcels" type="button" hidden>Erneut laden</button><button id="more-parcels" type="button" hidden>Weitere laden</button></div>
+      <details id="sources" class="source-section"><summary>Quellen und Dienstestatus</summary><button id="refresh-profile" type="button" disabled>Ort und Quellen erneut prüfen</button><ul id="provider-status"></ul><div id="profile-warnings"></div><div id="profile-evidence"></div></details>
+    </section>
+    <aside class="case-panel" aria-label="Vorgang und Schreiben">
+      <section class="selection-section" aria-labelledby="selection-title">
+        <div class="section-heading"><h2 id="selection-title">Auswahl <span id="selection-count" class="count">0</span></h2><button id="clear-selection" type="button" disabled>Leeren</button></div>
+        <p id="selection-empty" class="muted">Keine Flurstücke ausgewählt.</p>
+        <ol id="selection-list" class="parcel-list"></ol>
+        <div class="actions"><button id="manual-parcel" type="button" disabled>Flurstück erfassen</button><button id="import-geo" type="button" disabled>Geodaten importieren</button></div>
+        <details id="available-section" hidden><summary>Flurstücke im Kartenausschnitt (<span id="available-count">0</span>)</summary><div id="available-list" class="available-list"></div></details>
+      </section>
+      <form id="case-form" autocomplete="off">
+        <fieldset id="case-fields" disabled>
+          <legend class="sr-only">Vorgangsangaben</legend>
+          <section class="form-section">
+            <h2>Vorgang</h2>
+            <label for="case_id">Aktenzeichen / Vorgangsnummer</label><input id="case_id" name="case_id" maxlength="200">
+            <label for="purpose">Zweck der Recherche</label><textarea id="purpose" name="purpose" rows="3" maxlength="20000"></textarea>
+            <label for="specific_interest">Konkretes berechtigtes Interesse</label><textarea id="specific_interest" name="specific_interest" rows="3" maxlength="20000"></textarea>
+            <label for="requested_information_scope">Gewünschte Auskunft / Unterlagen</label>
+            <select id="requested_information_scope" name="requested_information_scope"><option value="">Bitte auswählen</option><option>Eigentümerauskunft</option><option>Einfacher Grundbuchauszug</option><option>Beglaubigter Grundbuchauszug</option><option>Grundbucheinsicht ohne Abschrift</option></select>
+          </section>
+          <details class="form-section" open><summary>Absender</summary>
+            <label for="sender_organisation">Organisation / Name</label><input id="sender_organisation" name="sender_organisation" maxlength="500">
+            <label for="sender_address">Postanschrift</label><textarea id="sender_address" name="sender_address" rows="3" maxlength="3000"></textarea>
+            <label for="contact_person">Kontaktperson, Telefon und E-Mail</label><input id="contact_person" name="contact_person" maxlength="1000">
+            <label for="legal_department_contact">Kontakt Rechtsabteilung</label><input id="legal_department_contact" name="legal_department_contact" maxlength="1000">
+          </details>
+          <details class="form-section"><summary>Empfänger und Zuständigkeit</summary>
+            <div id="authorities"></div>
+            <label for="recipient-kataster">Katasteramt · Empfängeranschrift</label><textarea id="recipient-kataster" rows="4" maxlength="5000"></textarea>
+            <label for="recipient-grundbuch">Grundbuchamt · Empfängeranschrift</label><textarea id="recipient-grundbuch" rows="4" maxlength="5000"></textarea>
+            <label for="recipient-notar">Notariat · Empfängeranschrift</label><textarea id="recipient-notar" rows="4" maxlength="5000"></textarea>
+          </details>
+          <details class="form-section"><summary>Anlagen</summary><label for="attachments">Beigefügte Nachweise</label><textarea id="attachments" name="attachments" rows="3" maxlength="10000"></textarea></details>
+        </fieldset>
+      </form>
+      <footer class="document-actions"><button id="generate-documents" class="primary" type="button" disabled>Entwürfe erstellen</button><p class="muted">Entwürfe zur Prüfung. Kein automatischer Versand.</p><span id="save-status" class="muted" role="status">Noch nicht gespeichert.</span></footer>
+    </aside>
+  </main>
+  <dialog id="parcel-dialog" aria-labelledby="parcel-dialog-title">
+    <form id="parcel-form">
+      <header class="dialog-header"><h2 id="parcel-dialog-title">Flurstück manuell erfassen</h2><button type="button" class="icon-button" data-close="parcel-dialog" aria-label="Flurstückserfassung schließen" title="Schließen">×</button></header>
+      <div class="dialog-body">
+        <p id="parcel-note" class="warning">Manuelle Angabe, nicht amtlich verifiziert. Unbekannte Kennzeichen bleiben leer.</p>
+        <div class="form-grid">
+          <div><label for="parcel-municipality">Gemeinde</label><input id="parcel-municipality" maxlength="300"></div>
+          <div><label for="parcel-municipality_code">Gemeindeschlüssel</label><input id="parcel-municipality_code" maxlength="100"></div>
+          <div><label for="parcel-district_name">Gemarkung</label><input id="parcel-district_name" maxlength="300"></div>
+          <div><label for="parcel-district_code">Gemarkungsschlüssel</label><input id="parcel-district_code" maxlength="100"></div>
+          <div><label for="parcel-flur">Flur</label><input id="parcel-flur" maxlength="100"></div>
+          <div><label for="parcel-numerator">Flurstück · Zähler</label><input id="parcel-numerator" maxlength="100"></div>
+          <div><label for="parcel-denominator">Flurstück · Nenner</label><input id="parcel-denominator" maxlength="100"></div>
+          <div><label for="parcel-official_parcel_reference">Amtliches Flurstückskennzeichen</label><input id="parcel-official_parcel_reference" maxlength="300"></div>
+          <div><label for="parcel-area_value">Fläche</label><input id="parcel-area_value" type="number" min="0" step="any"></div>
+          <div><label for="parcel-area_unit">Flächeneinheit</label><input id="parcel-area_unit" maxlength="50"></div>
+        </div>
+        <label for="parcel-location_text">Lagebezeichnung / Lagehinweis</label><textarea id="parcel-location_text" rows="2" maxlength="3000"></textarea>
+        <label for="parcel-source_url">Beleg / Quellen-URL</label><input id="parcel-source_url" type="url" maxlength="2000">
+        <label for="parcel-source_date">Datenstand</label><input id="parcel-source_date" type="date">
+        <p id="parcel-error" role="alert" class="error" hidden></p>
+      </div>
+      <footer class="dialog-footer"><button type="button" data-close="parcel-dialog">Abbrechen</button><button type="submit" class="primary">Zur Auswahl hinzufügen</button></footer>
+    </form>
+  </dialog>
+  <dialog id="preview-dialog" class="preview-dialog" aria-labelledby="preview-title">
+    <header class="dialog-header"><h2 id="preview-title">Schreiben · Entwurf</h2><button type="button" class="icon-button" data-close="preview-dialog" aria-label="Vorschau schließen" title="Schließen">×</button></header>
+    <div id="document-tabs" class="document-tabs" role="tablist" aria-label="Schreiben"></div>
+    <div id="document-warnings" class="document-warnings" role="status"></div>
+    <div id="preview-panel" class="preview-panel" role="tabpanel"><iframe id="document-preview" title="Vorschau des ausgewählten Entwurfs" sandbox="allow-same-origin allow-modals" referrerpolicy="no-referrer"></iframe></div>
+    <footer class="dialog-footer"><span id="export-status" role="status"></span><button id="export-docx" type="button">DOCX herunterladen</button><button id="print-document" type="button">Drucken</button><button id="export-zip" class="primary" type="button">Alle als ZIP</button></footer>
+  </dialog>
+  <input id="case-file" type="file" accept="application/json,.json" hidden>
+  <input id="geo-file" type="file" accept="application/json,application/geo+json,application/xml,text/xml,.json,.geojson,.gml,.xml" hidden>
+  <noscript>Für die Grundstücksrecherche ist JavaScript erforderlich.</noscript>
+</body>
+</html>

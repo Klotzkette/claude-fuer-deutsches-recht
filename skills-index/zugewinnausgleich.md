@@ -1,6 +1,6 @@
 # zugewinnausgleich
 
-**10 Skills** · Stand `v445.32.0`
+**10 Skills** · Stand `v445.33.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../zugewinnausgleich/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

@@ -21,7 +21,7 @@ import re
 import sys
 from pathlib import Path
 
-from prompt_profiles import enabled, formats
+from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
 from readme_display import display_prose
@@ -209,7 +209,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
             zip_url = f"{GH_RELEASE}/{name}.zip"
             werkstatt_url = markdown_download_url(f"{source_rel}/{name}-werkstatt.md")
             schnellstart_url = markdown_download_url(f"{source_rel}/{name}-schnellstart.md")
-            workshop_download = " · ".join(f"[Werkstatt-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-werkstatt.{ext}')})" for ext in formats(name))
+            workshop_download = " · ".join(f"[Werkstatt-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-werkstatt.{ext}')})" for ext in formats(name)) if enabled(name, "werkstatt") else "Nicht vorgesehen"
             quickstart_download = " · ".join(f"[Schnellstart-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-schnellstart.{ext}')})" for ext in formats(name)) if enabled(name, "schnellstart") else "Nicht vorgesehen"
             detail = f"skills-index/{name}.md"
             lines.append(
@@ -272,7 +272,16 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
         "| Skill | Beschreibung | Markdown-Datei |",
         "| --- | --- | --- |",
     ]
-    if not enabled(name, "schnellstart"):
+    if not standalone_kinds(name):
+        start = lines.index("## So benutzt man einen Skill")
+        end = lines.index("## Skills in diesem Plugin")
+        lines[start:end] = [
+            "## App verwenden", "",
+            f"Die Skills begleiten die lokale App. Start, Voraussetzungen und Zugriffsgrenzen stehen in der [Plugin-README]({plugin_readme}). Ein einzelner Skill-Download enthält weder Server noch Abhängigkeiten.", "",
+        ]
+        lines = [line for line in lines if not line.startswith(("| **Großer Prompt", "| **Kleiner Prompt"))]
+        lines = [line.replace(" · [Testakten](../testakten/README.md)", "") for line in lines]
+    elif not enabled(name, "schnellstart"):
         lines = [line for line in lines if not line.startswith(("| **Kleiner Prompt", "- **Schnelltest mit einer Datei:"))]
         lines = [line.replace("Werkstatt und Schnellstart sind eigenständige Ein-Datei-Prompts", "Der Werkstatt-Prompt ist ein eigenständiger Ein-Datei-Prompt").replace("Workshop and quick-start files are separate standalone prompts.", "The workshop is a separate standalone prompt.") for line in lines]
         if len(skills) == 1:
@@ -280,7 +289,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
                      if line.startswith("Diese alphabetische Liste zeigt alle Skills") else
                      "English: This plugin contains one directly installed skill. The workshop is a separate standalone download with identical Markdown and TXT content. Required references or tools must also be available when used manually."
                      if line.startswith("English: This index lists source skills") else line for line in lines]
-    if "txt" in formats(name):
+    if enabled(name, "werkstatt") and "txt" in formats(name):
         index = next(i for i, line in enumerate(lines) if line.startswith("| **Großer Prompt")) + 1
         txt_url = markdown_download_url(f"{_source_rel}/{name}-werkstatt.txt")
         lines.insert(index, f"| **Derselbe Werkstatt-Prompt als Text** | TXT | [`{name}-werkstatt.txt` herunterladen]({txt_url}) |")
@@ -289,7 +298,7 @@ def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
             mini_index = next(i for i, line in enumerate(lines) if line.startswith("| **Kleiner Prompt (Schnellstart)**")) + 1
             lines.insert(mini_index, f"| **Derselbe Schnellstart-Prompt als Text** | TXT | [`{name}-schnellstart.txt` herunterladen]({mini_txt_url}) |")
     focus_file = REPO_ROOT / _source_rel / f"{name}-hauptproblem.md"
-    if focus_file.is_file():
+    if enabled(name, "hauptproblem") and focus_file.is_file():
         index = next(i for i, line in enumerate(lines) if line.startswith("| **Alle Skills als Markdown**"))
         for ext in formats(name):
             if focus_file.with_suffix("." + ext).is_file():

@@ -14,7 +14,7 @@ from os.path import relpath
 from pathlib import Path
 from release_routing import case_asset_url, rewrite_case_asset_urls
 
-from prompt_profiles import enabled, formats
+from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
 
 from testakte_zip_common import working_dump_flat_pairs
@@ -567,6 +567,19 @@ def description_with_current_count(description: str, directory: Path) -> str:
 
 def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_count: int) -> str:
     plugin_name = plugin["name"]
+    if not standalone_kinds(plugin_name):
+        readme = directory / "README.md"
+        text = readme.read_text(encoding="utf-8") if readme.is_file() else ""
+        curated = re.search(re.escape(BEGIN) + r"[\s\S]*?" + re.escape(END), text)
+        if curated:
+            return curated.group(0)
+        return f"""{BEGIN}
+## App verwenden
+
+Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation allein startet keinen Server und garantiert keine eingebettete Browseransicht.
+
+[Plugin als ZIP]({RELEASE_BASE}/{plugin_name}.zip) · [Plugin-Dateien](.)
+{END}"""
     stem = prompt_stem(plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
     schnellstart_file = f"{stem}-schnellstart.md"
@@ -711,13 +724,28 @@ def insert_position(text: str) -> int:
     return pos
 
 
+def sync_visible_version(text: str, version: str) -> str:
+    pattern = (
+        r"(^\*\*Version:\*\*\s*`?|^Version\s+|"
+        r"Der Entwicklungsstand ist \d{2}\.\d{2}\.\d{4}, Version\s+)\d+\.\d+\.\d+"
+    )
+    return re.sub(pattern, lambda match: match[1] + version, text, flags=re.MULTILINE)
+
+
 def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
     name = plugin["name"]
     directory = plugin_dir(plugin)
     readme = directory / "README.md"
     if not readme.is_file():
         return "SKIPPED"
-    text = readme.read_text(encoding="utf-8")
+    original = readme.read_text(encoding="utf-8")
+    version = plugin.get("version")
+    text = sync_visible_version(original, version) if version else original
+    if not standalone_kinds(name) and text.count(BEGIN) == 1 and text.count(END) == 1 and text.index(BEGIN) < text.index(END):
+        if text != original:
+            readme.write_text(text, encoding="utf-8")
+            return "UPDATED"
+        return "UNCHANGED"
     stripped = strip_old_blocks(text)
     pos = insert_position(stripped)
     new_text = (
@@ -727,9 +755,12 @@ def inject(plugin: dict, akten_slugs: list[str], marketplace_count: int) -> str:
         + "\n\n"
         + stripped[pos:].lstrip()
     )
-    new_text = normalize_decimal_headings(ensure_download_notices(new_text))
-    new_text = rewrite_case_asset_urls(new_text, root=REPO)
-    if new_text == text:
+    if standalone_kinds(name):
+        new_text = ensure_download_notices(new_text)
+    new_text = normalize_decimal_headings(new_text)
+    if standalone_kinds(name):
+        new_text = rewrite_case_asset_urls(new_text, root=REPO)
+    if new_text == original:
         return "UNCHANGED"
     readme.write_text(new_text, encoding="utf-8")
     return "UPDATED" if BEGIN in text else "INSERTED"

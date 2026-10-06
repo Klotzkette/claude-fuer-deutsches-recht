@@ -1,0 +1,21 @@
+{
+  "name": "grundstuecksrecherche",
+  "version": "445.33.0",
+  "description": "Lokale App für Grundstücksrecherche in deutschen Städten: amtliche Quellen entdecken, NRW-Flurstücke verifiziert auswählen oder manuell erfassen und vier Auskunftsentwürfe als DOCX und ZIP vorbereiten. Kein automatischer Versand.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/grundstuecksrecherche",
+  "license": "Apache-2.0 OR MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Grundstücksrecherche",
+    "shortDescription": "Flurstücke und Auskunft",
+    "longDescription": "Lokale Browser-App mit Stadtsuche, verifizierter NRW-Katasterauswahl, manueller Erfassung und vier DOCX-Entwürfen. Die Ausführung benötigt einen lokalen Python-Server und Browserzugriff; eine native Einbettung ist nicht zugesichert.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": ["interactive"],
+    "defaultPrompt": "Starten Sie die lokale Grundstücksrecherche mit leerer Stadtauswahl und prüfen Sie zuerst, ob Serverausführung und Browserzugriff verfügbar sind."
+  }
+}

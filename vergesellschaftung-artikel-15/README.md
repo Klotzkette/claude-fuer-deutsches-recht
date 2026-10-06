@@ -5,7 +5,7 @@
 
 Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten.
 
-Dieses Plugin gehört zum Marketplace mit 280 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 281 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -50,7 +50,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`vergesellschaftung-artikel-15-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=vergesellschaftung-artikel-15/vergesellschaftung-artikel-15-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 280 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 281 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
+| [Energienetz Hessen](../testakten/vergesellschaftung-energienetz-hessen/README.md) | [Gesamt-PDF](../testakten/vergesellschaftung-energienetz-hessen/gesamt-pdf/vergesellschaftung-energienetz-hessen_gesamt.pdf) | [`testakte-vergesellschaftung-energienetz-hessen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-vergesellschaftung-energienetz-hessen.zip) | [`testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-vergesellschaftung-energienetz-hessen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->

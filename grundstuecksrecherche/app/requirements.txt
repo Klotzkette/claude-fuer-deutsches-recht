@@ -1,0 +1,4 @@
+defusedxml>=0.7.1,<0.8
+Pillow>=11,<13
+pyproj>=3.7,<4
+python-docx>=1.1,<2

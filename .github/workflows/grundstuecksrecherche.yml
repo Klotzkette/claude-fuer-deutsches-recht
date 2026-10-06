@@ -1,0 +1,52 @@
+name: Grundstücksrecherche prüfen
+
+on:
+  pull_request:
+    paths:
+      - 'grundstuecksrecherche/**'
+      - 'scripts/*prompt*profile*'
+      - 'scripts/test-app-only-integration.py'
+      - '.github/workflows/grundstuecksrecherche.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'grundstuecksrecherche/**'
+      - '.github/workflows/grundstuecksrecherche.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  application:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Abhängigkeiten
+        run: |
+          python -m pip install -r grundstuecksrecherche/app/requirements.txt PyYAML
+          npm install --prefix "$RUNNER_TEMP/browser-tests" --no-save playwright@1.62.1
+          "$RUNNER_TEMP/browser-tests/node_modules/.bin/playwright" install --with-deps chromium
+      - name: Anwendung und Importgrenzen
+        run: |
+          python -m unittest discover -s grundstuecksrecherche/tests -v
+          python scripts/test-app-only-integration.py
+      - name: Browserabläufe mit kontrollierten Dienstantworten
+        env:
+          PLAYWRIGHT_MODULE: ${{ runner.temp }}/browser-tests/node_modules/playwright/index.mjs
+          PLAYWRIGHT_CHANNEL: chromium
+          UI_SCREENSHOTS: ${{ runner.temp }}/grundstuecksrecherche-screenshots
+        run: node grundstuecksrecherche/tests/test-ui.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: grundstuecksrecherche-browserpruefung
+          path: ${{ runner.temp }}/grundstuecksrecherche-screenshots
+          if-no-files-found: ignore

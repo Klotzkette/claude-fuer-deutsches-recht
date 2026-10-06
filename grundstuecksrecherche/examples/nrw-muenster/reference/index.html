@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Eigentümer-Recherche Flurstücke</title>
+<meta name="description" content="Flurstücke in Münster auswählen und Eigentümeranfragen für die Rechtsabteilung vorbereiten.">
+<link rel="icon" href="favicon.svg">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<style>
+  :root{--bg:#fff;--fg:#1d2733;--mut:#667;--line:#d6dce3;--acc:#0b6bb5;--panel:#f6f8fa}
+  @media (prefers-color-scheme:dark){:root{--bg:#171b20;--fg:#e6eaee;--mut:#9aa5b1;--line:#333b44;--acc:#5aa9e6;--panel:#1f242a}}
+  *{box-sizing:border-box} body{margin:0;font:14px/1.45 system-ui,Segoe UI,sans-serif;background:var(--bg);color:var(--fg);display:flex;height:100vh}
+  #map{flex:1;min-width:0} aside{width:420px;max-width:45vw;overflow:auto;border-left:1px solid var(--line);padding:14px;background:var(--panel)}
+  h1{font-size:17px;margin:0 0 4px} h2{font-size:14px;margin:18px 0 6px} .mut{color:var(--mut);font-size:12px}
+  input,textarea,select{width:100%;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);font:inherit}
+  textarea{min-height:70px} label{display:block;margin:8px 0 2px;font-size:12px;color:var(--mut)}
+  button{padding:7px 12px;border:1px solid var(--acc);background:var(--acc);color:#fff;border-radius:6px;cursor:pointer;font:inherit}
+  button.sec{background:transparent;color:var(--acc)} button:disabled{opacity:.4;cursor:default}
+  .parcel{border:1px solid var(--line);background:var(--bg);border-radius:8px;padding:8px;margin:6px 0}
+  .parcel b{display:block} .parcel .x{float:right;background:none;border:0;color:var(--mut);padding:0 4px;font-size:16px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px} #search{position:absolute;z-index:1000;top:10px;left:56px;width:300px;display:flex;gap:4px}
+  #search input{box-shadow:0 1px 4px #0004} #hint{position:absolute;z-index:1000;bottom:10px;left:10px;background:var(--bg);padding:4px 8px;border-radius:6px;font-size:12px;box-shadow:0 1px 4px #0004}
+  dialog{width:min(900px,95vw);height:90vh;border:1px solid var(--line);border-radius:10px;padding:0;background:var(--bg);color:var(--fg)}
+  dialog[open]{display:flex;flex-direction:column} .dh{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .dh .tabs{flex:1;display:flex;gap:4px;flex-wrap:wrap} .tabs button{background:transparent;color:var(--acc)} .tabs button.on{background:var(--acc);color:#fff}
+  #prev{flex:1;border:0;background:#fff}
+  .warn{background:#fff6e0;color:#5c4400;border:1px solid #e8cf85;border-radius:6px;padding:6px 8px;font-size:12px;margin-top:8px}
+  @media(max-width:800px){body{flex-direction:column}aside{width:100%;max-width:none;height:55vh}#map{height:45vh;flex:none}}
+</style>
+</head>
+<body>
+<div id="map">
+  <div id="search"><input id="q" aria-label="Adresse in Münster suchen" placeholder="Adresse suchen (z. B. Rothenburg 45, Münster)"><button id="go">Suchen</button></div>
+  <div id="hint" role="status" aria-live="polite">Flurstücke ab Zoomstufe 17 sichtbar – anklicken zum Markieren / Abwählen</div>
+</div>
+<aside>
+  <h1>Eigentümer-Recherche</h1>
+  <div class="mut">Flurstücke auf der Karte markieren → Anträge an Katasteramt, Grundbuchamt und Notar erzeugen → an die Rechtsabteilung übergeben.</div>
+
+  <h2>1 · Markierte Flurstücke (<span id="cnt">0</span>)</h2>
+  <div id="list"></div>
+  <div class="row"><button class="sec" id="clear">Auswahl leeren</button></div>
+
+  <h2>2 · Vorgang</h2>
+  <label>Aktenzeichen / Vorgangsnummer</label><input id="az" placeholder="z. B. WW-2026-014">
+  <label>Zweck / berechtigtes Interesse (Vorlage bitte konkretisieren)</label>
+  <textarea id="zweck">Die Stadtwerke Münster planen bzw. unterhalten Anlagen der öffentlichen Wasserversorgung (Wassergewinnung, Leitungen, Schutzgebiete). Zur Vorbereitung des Erwerbs der Flächen oder der Einräumung von Leitungs- und Nutzungsrechten (Dienstbarkeiten) benötigen wir Kenntnis der Eigentümer der genannten Flurstücke.</textarea>
+  <label>Gewünschte Unterlagen</label>
+  <select id="umfang"><option value="auszug">Aktueller einfacher Grundbuchauszug</option><option value="beglaubigt">Aktueller beglaubigter Grundbuchauszug</option><option value="einsicht">Grundbucheinsicht (ohne Abschrift)</option><option value="eig">Nur Eigentümerauskunft</option></select>
+
+  <h2>3 · Absender</h2>
+  <label>Unternehmen</label><input id="s_name" value="Stadtwerke Münster GmbH">
+  <label>Anschrift</label><input id="s_adr" value="[Straße Nr., PLZ Münster]">
+  <label>Ansprechpartner/in (Fachbereich Wasserwerk)</label><input id="s_ap" placeholder="Name, Telefon, E-Mail">
+  <label>Rechtsabteilung (Beauftragung)</label><input id="s_ra" placeholder="Ansprechpartner/in Recht">
+
+  <h2>4 · Empfänger (bitte prüfen)</h2>
+  <label>Katasteramt</label><textarea id="e_kat">Stadt Münster
+Vermessungs- und Katasteramt
+Albersloher Weg 33
+48155 Münster</textarea>
+  <label>Grundbuchamt</label><textarea id="e_gb">Amtsgericht Münster
+– Grundbuchamt –
+Gerichtsstraße 2
+48149 Münster</textarea>
+  <label>Notar</label><textarea id="e_not">[Notar/in, Anschrift ergänzen]</textarea>
+
+  <div class="row"><button id="gen" disabled>Schreiben erzeugen</button></div>
+  <div class="warn">Entwürfe. Rechtsgrundlagen, Empfängeradressen und die Darlegung des berechtigten Interesses sind vor Versand durch die Rechtsabteilung zu prüfen. Der Eigentümer lässt sich über offene Katasterdaten nicht ermitteln – daher die Anträge.</div>
+  <p class="mut">Vorgang und Auswahl werden automatisch nur in diesem Browser gespeichert. Kein automatischer Versand. Die Word-Downloads sind HTML-Dateien im .doc-Format; Word kann einen Formathinweis anzeigen.</p>
+  <p class="mut">Amtliche Karte, Flurstücke und Luftbild: <a href="https://www.bezreg-koeln.nrw.de/geobasis-nrw" target="_blank" rel="noopener">Geobasis NRW</a> · Adresssuche: <a href="https://github.com/komoot/photon" target="_blank" rel="noopener">Photon</a>. Die Suchadresse wird an Photon, der Kartenausschnitt an Geobasis NRW übermittelt.</p>
+</aside>
+
+<dialog id="dlg">
+  <div class="dh"><div class="tabs" id="tabs"></div><button class="sec" id="dl">Word-Datei</button><button class="sec" id="pr">Drucken</button><button class="sec" id="dlall">Alle (.doc)</button><button id="cl">Schließen</button></div>
+  <iframe id="prev" title="Vorschau des Schreibens"></iframe>
+</dialog>
+
+<script src="vendor/leaflet.js"></script>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+document.querySelectorAll('label').forEach(label => { const control = label.nextElementSibling; if (control?.id) label.htmlFor = control.id; });
+const map = L.map('map').setView([51.9607, 7.6261], 17);
+const basemap = L.tileLayer.wms('https://www.wms.nrw.de/geobasis/wms_nw_abk', {layers: 'nw_abk_col', format: 'image/png', maxZoom: 21, attribution: '<a href="https://www.govdata.de/dl-de/by-2-0">Karte: Land NRW (2026), dl-de/by-2-0</a>'}).addTo(map);
+const dop = L.tileLayer.wms('https://www.wms.nrw.de/geobasis/wms_nw_dop', {layers: 'nw_dop_rgb', format: 'image/jpeg', maxZoom: 21, attribution: '<a href="https://www.govdata.de/dl-de/by-2-0">Land NRW (2026), dl-de/by-2-0</a>'});
+L.control.layers({'Amtliche Karte NRW': basemap, 'Luftbild NRW': dop}).addTo(map);
+map.attributionControl.addAttribution('<a href="https://www.govdata.de/dl-de/by-2-0">Flurstücke: Land NRW (2026), dl-de/by-2-0</a>');
+const parcelLayer = L.layerGroup().addTo(map);
+const selectionLayer = L.layerGroup().addTo(map);
+const sel = new Map();        // idflurst -> parcel
+const polys = new Map();      // idflurst -> L.polygon
+const style = on => ({color: on ? '#d62828' : '#2a6fb5', weight: on ? 3 : 1, fillColor: '#d62828', fillOpacity: on ? .3 : .02});
+
+function parseGml(txt) {
+  const doc = new DOMParser().parseFromString(txt, 'application/xml');
+  if (doc.getElementsByTagName('parsererror').length || doc.getElementsByTagNameNS('*','Exception').length) throw new Error('Amtliche Datenquelle meldet einen Fehler.');
+  return [...doc.getElementsByTagNameNS('*','Flurstueck')].map(el => {
+    const g = t => (el.getElementsByTagNameNS('*',t)[0]?.textContent || '').trim();
+    const ring = pl => { const n = pl.textContent.trim().split(/\s+/).map(Number), r = []; for (let i = 0; i < n.length; i += 2) r.push([n[i], n[i+1]]); return r; };
+    const rings = [...el.getElementsByTagNameNS('*','Polygon'), ...el.getElementsByTagNameNS('*','PolygonPatch')].map(p => [...p.getElementsByTagNameNS('*','posList')].map(ring));
+    const nen = g('flstnrnen');
+    return {id: g('idflurst'), kennzeichen:g('flstkennz'), gemarkung: g('gemarkung'), gemaschl: g('gemaschl'), flur: g('flur').replace(/^0+/, ''),
+      nr: g('flstnrzae') + (nen ? '/' + nen : ''), flaeche: g('flaeche'), lage: g('lagebeztxt'), gemeinde: g('gemeinde'),
+      gmdschl:g('gmdschl'), nutzung: (g('tntxt').split(';')[0]), stand: g('aktualit').slice(0, 10), abruf:new Date().toISOString(), rings};
+  }).filter(p => p.gmdschl === '05515000' && p.id && p.rings.length);
+}
+let reqSeq = 0, parcelAbort;
+async function loadParcels() {
+  const my = ++reqSeq; parcelAbort?.abort();
+  if (map.getZoom() < 17) { parcelLayer.clearLayers(); polys.clear(); $('hint').textContent = 'Bitte weiter hineinzoomen (ab Stufe 17), um Flurstücke zu sehen.'; return; }
+  $('hint').textContent = 'Amtliche Flurstücke werden geladen …';
+  const b = map.getBounds(); parcelAbort = new AbortController();
+  const timeout = setTimeout(() => parcelAbort?.abort(), 25000);
+  try {
+    const query = new URLSearchParams({service:'WFS',version:'2.0.0',request:'GetFeature',typeNames:'ave:Flurstueck',count:'400',srsName:'urn:ogc:def:crs:EPSG::4326',bbox:`${b.getSouth()},${b.getWest()},${b.getNorth()},${b.getEast()},urn:ogc:def:crs:EPSG::4326`});
+    const r = await fetch('https://www.wfs.nrw.de/geobasis/wfs_nw_alkis_vereinfacht?'+query, {signal:parcelAbort.signal,credentials:'omit'});
+    if (!r.ok) throw new Error('Datenquelle nicht erreichbar ('+r.status+').');
+    const raw = await r.text(), items = parseGml(raw); if (my !== reqSeq) return;
+    parcelLayer.clearLayers(); polys.clear();
+    items.forEach(p => {
+      if (sel.has(p.id)) p = sel.get(p.id);
+      const pg = L.polygon(p.rings.map(poly => poly), style(sel.has(p.id)));
+      pg.bindTooltip(`Flur ${esc(p.flur)}, Flst. ${esc(p.nr)}<br>${esc(p.lage || '')}`, {sticky: true});
+      pg.on('click', () => toggle(p));
+      pg.addTo(parcelLayer); polys.set(p.id, pg);
+    });
+    $('hint').textContent = /numberReturned="400"/.test(raw) ? '400 Flurstücke geladen – näher heranzoomen für eine vollständige Auswahl.' : `${items.length} Münsteraner Flurstücke · anklicken zum Markieren / Abwählen`;
+  } catch (e) { if(my!==reqSeq)return; parcelLayer.clearLayers(); polys.clear(); $('hint').textContent = 'Katasterabruf fehlgeschlagen. Karte bewegen oder näher heranzoomen, um erneut zu laden.'; }
+  finally {clearTimeout(timeout);}
+}
+function toggle(p) { sel.has(p.id) ? sel.delete(p.id) : sel.set(p.id, p); polys.get(p.id)?.setStyle(style(sel.has(p.id))); render(); }
+function render() {
+  $('cnt').textContent = sel.size; $('gen').disabled = !sel.size;
+  $('list').innerHTML = [...sel.values()].map(p => `<div class="parcel"><button class="x" data-id="${esc(p.id)}" title="entfernen" aria-label="Flurstück ${esc(p.nr)} entfernen">×</button>
+    <b>${esc(p.gemarkung)}, Flur ${esc(p.flur)}, Flurstück ${esc(p.nr)}</b>
+    <span class="mut">${esc(p.lage || 'ohne Lagebezeichnung')} · ${esc(p.flaeche)} m² · ${esc(p.nutzung)}<br>${esc(p.kennzeichen || p.id)}</span></div>`).join('') || '<div class="mut">Noch nichts markiert.</div>';
+  selectionLayer.clearLayers(); sel.forEach(p => L.polygon(p.rings, style(true)).bindTooltip(`Ausgewählt · Flur ${esc(p.flur)}, Flst. ${esc(p.nr)}`).on('click',()=>toggle(p)).addTo(selectionLayer));
+  save();
+}
+$('list').onclick = e => { const id = e.target.dataset.id; if (id) toggle(sel.get(id)); };
+$('clear').onclick = () => { [...sel.keys()].forEach(id => polys.get(id)?.setStyle(style(false))); sel.clear(); render(); };
+let moveTimer; map.on('moveend', () => {clearTimeout(moveTimer);moveTimer=setTimeout(loadParcels,250);});
+const searchCache = new Map(); let lastSearch = 0;
+$('go').onclick = async () => {
+  const q = $('q').value.trim(); if (!q) return;
+  if(Date.now()-lastSearch<1100)return; lastSearch=Date.now(); $('go').disabled=true;
+  try {const query = /münster/i.test(q) ? q : q+', Münster'; let data=searchCache.get(query);
+    if(!data){const r=await fetch('https://photon.komoot.io/api/?'+new URLSearchParams({q:query,limit:'3',lang:'de',bbox:'7.45,51.80,7.85,52.10'}),{signal:AbortSignal.timeout(15000)});if(!r.ok)throw new Error('Suchdienst nicht erreichbar.');data=await r.json();searchCache.set(query,data);}
+    const hit=data.features?.find(f=>f.properties?.city==='Münster');if(hit){const [lng,lat]=hit.geometry.coordinates;map.setView([lat,lng],19);}else $('hint').textContent='Keine passende Adresse in Münster gefunden. Bitte Straße und Hausnummer prüfen.';
+  } catch(e){$('hint').textContent='Adresssuche nicht erreichbar. Bitte die Fläche direkt auf der Karte auswählen.';}
+  finally{$('go').disabled=false;}
+};
+$('q').onkeydown = e => { if (e.key === 'Enter') $('go').click(); };
+
+// ---- Persistenz (Browser) ----
+const FIELDS = ['az','zweck','umfang','s_name','s_adr','s_ap','s_ra','e_kat','e_gb','e_not'];
+function save() { try { localStorage.setItem('eig-recherche', JSON.stringify({f: Object.fromEntries(FIELDS.map(k => [k, $(k).value])), sel: [...sel.values()]})); } catch {} }
+try { const d = JSON.parse(localStorage.getItem('eig-recherche') || 'null'); if (d?.f && Array.isArray(d.sel)) { FIELDS.forEach(k => typeof d.f[k]==='string' && ($(k).value = d.f[k])); d.sel.filter(p=>p && typeof p.id==='string' && Array.isArray(p.rings) && p.rings.length).forEach(p => sel.set(p.id, p)); } } catch {}
+FIELDS.forEach(k => $(k).addEventListener('input', save));
+render();
+let rt; const refresh = () => { clearTimeout(rt); rt = setTimeout(() => { map.invalidateSize(); loadParcels(); }, 150); };
+new ResizeObserver(refresh).observe($('map')); window.addEventListener('load', refresh); setTimeout(refresh, 1000);
+
+// ---- Schreiben ----
+const nl = s => esc(s).replace(/\n/g, '<br>');
+const heute = () => new Date().toLocaleDateString('de-DE', {day: '2-digit', month: 'long', year: 'numeric'});
+const parcels = () => [...sel.values()];
+function tabelle() {
+  return `<table border="1" cellspacing="0" cellpadding="4" style="border-collapse:collapse;width:100%;font-size:10pt"><tr style="background:#eee"><th>Nr.</th><th>Gemarkung (Schl.) / Kennzeichen</th><th>Flur</th><th>Flurstück</th><th>Fläche m²</th><th>Lage</th></tr>` +
+    parcels().map((p, i) => `<tr><td>${i + 1}</td><td>${esc(p.gemarkung)} (${esc(p.gemaschl)})<br><small>${esc(p.kennzeichen||p.id)}</small></td><td>${esc(p.flur)}</td><td>${esc(p.nr)}</td><td>${esc(p.flaeche)}</td><td>${esc(p.lage)}</td></tr>`).join('') + `</table><p style="font-size:9pt;color:#666">Quelle: ALKIS-vereinfacht, Geobasis NRW. ${parcels().map(p=>`Flur ${esc(p.flur)}, Flst. ${esc(p.nr)}: Datenstand ${esc(p.stand||'unbekannt')}, Abruf ${esc(p.abruf?new Date(p.abruf).toLocaleDateString('de-DE'):'unbekannt')}`).join('; ')}.</p>`;
+}
+function brief(empf, betreff, text, anlagen) {
+  const v = k => $(k).value;
+  return `<div style="font:11pt/1.4 Calibri,Arial,sans-serif;max-width:17cm;margin:1.5cm auto;padding:0 1cm">
+  <p style="font-size:9pt;color:#555"><b>ENTWURF – NICHT FREIGEGEBEN</b></p><p style="font-size:9pt;color:#555">${esc(v('s_name'))} · ${esc(v('s_adr'))}</p>
+  <p>${nl(empf)}</p><p style="text-align:right">Münster, ${heute()}</p>
+  <p style="font-size:9pt">Unser Zeichen: ${esc(v('az')) || '[Aktenzeichen]'}<br>Ansprechpartner/in: ${esc(v('s_ap')) || '[ergänzen]'}</p>
+  <p><b>${betreff}</b></p>${text}
+  <p>Mit freundlichen Grüßen</p><p><br><br>${esc(v('s_name'))}<br><span style="font-size:9pt">i. A. [Name, Funktion] – nach Prüfung und Freigabe durch die Rechtsabteilung</span></p>
+  ${anlagen ? `<p style="font-size:9pt">Anlagen: ${anlagen}</p>` : ''}</div>`;
+}
+function build() {
+  const v = k => $(k).value, n = parcels().length, mehrere = n > 1;
+  const zweck = `<p>${nl(v('zweck'))}</p>`;
+  const um = {auszug: 'einen aktuellen einfachen Grundbuchauszug (Abdruck)', beglaubigt:'einen aktuellen beglaubigten Grundbuchauszug', einsicht: 'Einsicht in das Grundbuch', eig: 'Auskunft über die in Abteilung I eingetragenen Eigentümer'}[v('umfang')];
+  const L1 = brief(v('e_kat'), `Antrag auf Eigentümerauskunft aus dem Liegenschaftskataster – ${n} Flurstück${mehrere ? 'e' : ''}`,
+    `<p>sehr geehrte Damen und Herren,</p><p>wir bitten um Auskunft über Name und Anschrift der im Liegenschaftskataster nachgewiesenen Eigentümer (einschließlich Angabe der Grundbuchblattstelle) für folgende Flurstücke:</p>${tabelle()}
+    <p><b>Berechtigtes Interesse:</b></p>${zweck}
+    <p>Wir bitten um Mitteilung der Voraussetzungen und Gebühren, soweit weitere Nachweise erforderlich sind. Die Auskunft wird ausschließlich für den genannten Zweck verwendet.</p>`,
+    'Flurstücksübersicht, ggf. Vollmacht/Nachweis der Vertretungsberechtigung');
+  const L2 = brief(v('e_gb'), `Antrag auf ${v('umfang')==='einsicht' ? 'Grundbucheinsicht' : v('umfang')==='eig'?'Eigentümerauskunft':'Erteilung eines Grundbuchauszugs'} (§ 12 GBO) – ${n} Flurstück${mehrere ? 'e' : ''}`,
+    `<p>sehr geehrte Damen und Herren,</p><p>wir beantragen ${um} für die Grundbuchblätter, in denen folgende Flurstücke gebucht sind (Grundbuchblatt ist uns noch nicht bekannt; wir bitten um Ermittlung anhand der Flurstücksbezeichnung):</p>${tabelle()}
+    <p><b>Darlegung des berechtigten Interesses (§ 12 GBO):</b></p>${zweck}
+    <p>Wir bitten um Mitteilung der Kosten vorab, sofern diese 50 € übersteigen. Bei Rückfragen steht die Rechtsabteilung zur Verfügung: ${esc(v('s_ra')) || '[ergänzen]'}.</p>`,
+    'Flurstücksübersicht, Vollmacht/Handelsregisterauszug, ggf. Nachweis des Vorhabens');
+  const L3 = brief(v('e_not'), `Auftrag zur Prüfung der Grundbucheinsicht / Grundbuchmitteilung (§§ 12, 133a GBO) – ${n} Flurstück${mehrere ? 'e' : ''}`,
+    `<p>Sehr geehrte Damen und Herren,</p><p>wir bitten Sie, die Zulässigkeit einer Grundbucheinsicht und Mitteilung nach §§ 12, 133a GBO für die folgenden Flurstücke zu prüfen. Ein gegebenenfalls zulässiger automatisierter Abruf richtet sich nach § 133 GBO. Gewünschter Umfang: ${um}. Bei Einsicht ohne Abschrift bitten wir um Abstimmung des weiteren Vorgehens; andernfalls um Übermittlung des erforderlichen Nachweises nach Freigabe.</p>${tabelle()}
+    <p><b>Anlass und berechtigtes Interesse:</b></p>${zweck}
+    <p>Bitte teilen Sie uns Ihre Gebühren vorab mit. Die Beauftragung erfolgt durch unsere Rechtsabteilung (${esc(v('s_ra')) || '[ergänzen]'}). Der Notarzugang ersetzt die Darlegung des berechtigten Interesses nicht; bitte benennen Sie erforderliche Nachweise.</p>`,
+    'Flurstücksübersicht, Vollmacht');
+  const L4 = `<div style="font:11pt/1.4 Calibri,Arial,sans-serif;max-width:17cm;margin:1.5cm auto;padding:0 1cm">
+    <p><b>ENTWURF – NICHT FREIGEGEBEN</b></p><h2>Übergabevermerk an die Rechtsabteilung</h2><p>${heute()} · Vorgang ${esc(v('az')) || '[Aktenzeichen]'} · Fachbereich: ${esc(v('s_ap')) || '[ergänzen]'}</p>
+    <p><b>Ziel:</b> Eigentümerermittlung für ${n} Flurstück${mehrere ? 'e' : ''} (Karte: ALKIS-Flurstücke Geobasis NRW, Stand je Flurstück siehe unten).</p>${tabelle()}
+    <p><b>Zweck / berechtigtes Interesse (Entwurf):</b></p>${zweck}
+    <p><b>Vorbereitete Schreiben (alle Entwürfe):</b></p><ol><li>Katasteramt – Eigentümerauskunft (liefert Name/Anschrift und Blattstelle; Zugang abhängig von berechtigtem Interesse)</li>
+    <li>Grundbuchamt Amtsgericht Münster – Antrag nach § 12 GBO (Einsicht/Auszug)</li><li>Notar – Prüfung und gegebenenfalls Mitteilung nach §§ 12, 133a GBO; Kosten vorab klären</li></ol>
+    <p><b>Vorgeschlagene Reihenfolge:</b> 1. Katasterauskunft und verfügbare Grundbuchzuordnung prüfen → 2. Bei Bedarf Grundbuchauskunft über Notar <i>oder</i> direkt beim Grundbuchamt → 3. Beleg prüfen und Eigentümeransprache vorbereiten. Nicht alle Schreiben parallel beauftragen.</p>
+    <p><b>Offene Punkte für Recht:</b></p><ul><li>Empfängeradressen und Gebührenhinweise prüfen</li><li>Tragfähigkeit des berechtigten Interesses (Planung vs. konkretes Erwerbsvorhaben) und Rechtsgrundlage der Kataster-Eigentümerauskunft nach VermKatG NRW bestätigen</li>
+    <li>Vollmacht / Vertretungsnachweis beifügen; Stadtwerke nicht automatisch als Behörde mit Sonderzugriff behandeln</li><li>Flurstücke zu Grundbuchgrundstücken und Blättern zuordnen; Doppelanträge vermeiden</li><li>Erforderlichen Einsichtsumfang, Kosten, Unterschrift und zulässigen Versandweg festlegen</li><li>Datenschutz: Eigentümerdaten nur zweckgebunden verwenden (DSGVO)</li><li>Rücklauf je Flurstück mit Quelle und Datum prüfen; Katasterhinweise von Grundbuchnachweisen unterscheiden</li></ul>
+    <p class="m" style="font-size:9pt;color:#666">Katasterstand: ${[...new Set(parcels().map(p => p.stand))].join(', ')}. Flächen und Lage laut ALKIS-vereinfacht, rechtlich unverbindlich.</p></div>`;
+  return [{name: 'Übergabevermerk', html: L4, file: 'Uebergabevermerk'}, {name: 'Katasteramt', html: L1, file: 'Katasteramt'},
+          {name: 'Grundbuchamt', html: L2, file: 'Grundbuchamt'}, {name: 'Notar', html: L3, file: 'Notar'}];
+}
+let docs = [], cur = 0;
+const wrap = h => `<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word"><head><meta charset="utf-8"><title>Entwurf</title></head><body>${h}</body></html>`;
+function show(i) { cur = i; $('prev').srcdoc = wrap(docs[i].html); [...$('tabs').children].forEach((b, j) => b.classList.toggle('on', i === j)); }
+$('gen').onclick = () => {
+  docs = build(); $('tabs').innerHTML = docs.map((d, i) => `<button data-i="${i}">${d.name}</button>`).join('');
+  $('dlg').showModal(); show(0);
+};
+$('tabs').onclick = e => e.target.dataset.i && show(+e.target.dataset.i);
+$('cl').onclick = () => $('dlg').close();
+$('pr').onclick = () => { $('prev').contentWindow.focus(); $('prev').contentWindow.print(); };
+const dlFile = d => { const a = document.createElement('a'), url=URL.createObjectURL(new Blob(['﻿' + wrap(d.html)], {type: 'application/msword'})); a.href = url;
+  a.download = `${($('az').value || 'Vorgang').replace(/\W+/g, '_')}_${d.file}.doc`; document.body.appendChild(a); a.click(); a.remove(); setTimeout(()=>URL.revokeObjectURL(url),2000); };
+$('dl').onclick = () => dlFile(docs[cur]);
+$('dlall').onclick = () => docs.forEach((d, i) => setTimeout(() => dlFile(d), i * 400));
+</script>
+</body>
+</html>

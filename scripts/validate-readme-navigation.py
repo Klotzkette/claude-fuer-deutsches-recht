@@ -297,8 +297,9 @@ def validate_generated_navigation(errors: list[str]) -> tuple[int, int]:
             relative_link(directory, REPO / "SKILLS.md"),
             relative_link(directory, detail),
             relative_link(directory, REPO / "ASSET_INDEX.md"),
-            relative_link(directory, REPO / "testakten" / "README.md"),
         ]
+        if standalone_kinds(name):
+            expected_readme_links.append(relative_link(directory, REPO / "testakten" / "README.md"))
         for destination in expected_readme_links:
             if f"]({destination})" not in readme_text and f"]({destination}#was-ist-drin)" not in readme_text:
                 errors.append(f"{repo_relative(readme)}: Navigationsziel fehlt: {destination}")

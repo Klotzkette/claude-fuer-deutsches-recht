@@ -20,8 +20,8 @@ Diese Projektakte gibt es in drei Formaten. Das Originalformat-ZIP erhält die v
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf`](gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauvergabe-klinikum-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-bauvergabe-klinikum-muenster.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bauvergabe-klinikum-muenster.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -80,5 +80,5 @@ Alle Gesellschaften, Personen, Anschriften, Vergabeverfahren, Preise und Geschä
 | Format | Download |
 | --- | --- |
 | Gesamt-PDF | [Gesamte Akte](gesamt-pdf/bauvergabe-klinikum-muenster_gesamt.pdf) |
-| Originaldateien | [Projektakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-bauvergabe-klinikum-muenster.zip) |
-| Einzel-PDFs | [Alle Unterlagen als einzelne PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.32.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |
+| Originaldateien | [Projektakte als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster.zip) |
+| Einzel-PDFs | [Alle Unterlagen als einzelne PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.0/testakte-bauvergabe-klinikum-muenster-einzelpdfs.zip) |

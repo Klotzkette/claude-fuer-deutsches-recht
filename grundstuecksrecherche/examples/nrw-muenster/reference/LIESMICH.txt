@@ -1,0 +1,65 @@
+EIGENTÜMER-RECHERCHE MÜNSTER – EIGENSTÄNDIGE HTML-WEBSITE
+
+START
+1. Den gesamten ZIP-Ordner entpacken.
+2. index.html mit einem normalen Webbrowser öffnen (Doppelklick).
+3. Den Ordner mit allen Unterordnern zusammenhalten.
+
+Keine Installation, kein Node.js, kein ChatGPT-Konto, keine KI und
+kein API-Schlüssel erforderlich. Die Website läuft im Browser.
+Sie kann auch unverändert auf einem gewöhnlichen Webserver oder
+im Intranet bereitgestellt werden.
+
+INTERNET
+Für Straßenkarte, Luftbild, amtliche Flurstücke und Adresssuche
+wird eine Internetverbindung benötigt. Die benötigte Kartenbibliothek
+ist bereits im Ordner enthalten. Die Website ist keine Offline-Karte.
+
+BEDIENUNG
+Adresse in Münster suchen oder die Karte verschieben und zoomen.
+Ab Zoomstufe 17 werden amtliche Flurstücke geladen. Ein oder mehrere
+Flurstücke anklicken; erneutes Anklicken entfernt die Auswahl.
+Vorgang, konkrete Begründung, Absender und Empfänger ergänzen.
+„Schreiben erzeugen“ öffnet die vier Entwürfe:
+- Übergabevermerk für die Rechtsabteilung
+- Katasteranfrage
+- Grundbuchantrag
+- Notarauftrag
+
+Word-Datei herunterladen oder über Drucken eine PDF erstellen.
+Die Word-Dateien enthalten HTML im .doc-Format. Word kann einen
+Formathinweis anzeigen; nach Öffnen bei Bedarf als DOCX speichern.
+Bei „Alle (.doc)“ muss der Browser gegebenenfalls mehrere Downloads
+erlauben.
+
+SPEICHERUNG
+Vorgang und Auswahl werden, soweit vom Browser unterstützt, lokal
+in diesem Browser gespeichert. Kein gemeinsamer Server und keine
+zentrale Akte. Bei Löschen der Browserdaten, Wechsel des Browsers
+oder Verschieben des Website-Ordners können gespeicherte Vorgänge
+nicht mehr verfügbar sein. In manchen Browsern ist die Speicherung
+direkt geöffneter HTML-Dateien eingeschränkt. Schreiben deshalb
+zusätzlich herunterladen.
+
+EXTERNE DIENSTE
+Kartenausschnitte werden an Geobasis NRW übermittelt.
+Die eingegebene Suchadresse wird an Photon übermittelt.
+Die Website hat keine Anbindung an einen KI-Dienst.
+
+Die Hintergrundkarte nutzt die amtliche Basiskarte NRW. Die blockierten
+OpenStreetMap-Kachelserver werden nicht mehr verwendet. Über das
+Kartensymbol oben rechts kann auf „Luftbild NRW“ umgeschaltet werden.
+
+Alle Schreiben bleiben Entwürfe. Rechtsabteilung prüft Interesse,
+Vertretung, Zuständigkeit, Datenumfang, Kosten und Versandweg und
+beauftragt den passenden Weg. Kein automatischer Versand und kein
+direkter Grundbuchzugang. Grundbuchamt und Notar sind alternative Wege.
+
+ORDNERINHALT
+index.html              Website und Workflow
+favicon.svg             Website-Symbol
+vendor/leaflet.js        Lokal mitgelieferte Kartenbibliothek
+vendor/leaflet.css       Kartenformatierung
+vendor/images/          Bilder der Kartenbedienelemente
+vendor/Leaflet-LICENSE.txt  Lizenz der Kartenbibliothek
+LIESMICH.txt             Diese Anleitung

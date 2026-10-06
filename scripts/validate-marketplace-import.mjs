@@ -174,7 +174,7 @@ for (const entry of marketplace.plugins || []) {
   errors.push(...promptProfileErrors(pluginRoot, entry.name, root));
   const werkstatt = path.join(pluginRoot, `${entry.name}-werkstatt.md`);
   const schnellstart = path.join(pluginRoot, `${entry.name}-schnellstart.md`);
-  if (!fs.existsSync(werkstatt)) errors.push(`${entry.name}: Werkstatt-Markdown fehlt`);
+  if (promptEnabled(entry.name, "werkstatt") && !fs.existsSync(werkstatt)) errors.push(`${entry.name}: Werkstatt-Markdown fehlt`);
   if (promptEnabled(entry.name, "schnellstart") && !fs.existsSync(schnellstart)) errors.push(`${entry.name}: Schnellstart-Markdown fehlt`);
   if (fs.existsSync(schnellstart) && !miniWithinLimits(entry.name, fs.readFileSync(schnellstart))) {
     errors.push(`${rel(schnellstart)}: Schnellstart überschreitet Byte-/Zeichengrenze`);
@@ -221,7 +221,7 @@ for (const entry of marketplace.plugins || []) {
     const downloadBase = 'https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=';
     const werkstattDownload = `${downloadBase}${sourceRel}/${entry.name}-werkstatt.md`;
     const schnellstartDownload = `${downloadBase}${sourceRel}/${entry.name}-schnellstart.md`;
-    if (!text.includes(werkstattDownload)) {
+    if (promptEnabled(entry.name, "werkstatt") && !text.includes(werkstattDownload)) {
       errors.push(`${rel(readme)}: Werkstatt-Direktdownload fehlt`);
     }
     if (promptEnabled(entry.name, "schnellstart") && !text.includes(schnellstartDownload)) {

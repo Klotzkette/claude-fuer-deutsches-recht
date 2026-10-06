@@ -337,12 +337,14 @@ def audit(root=ROOT, *, require_editorial=False, require_workflow=False):
                 raise LabError("Individuelles Prüfprofil fehlt")
             profile = load(files[name])
             validate_profile(profile, name, directory, root)
-            if require_editorial and "prompt_editorial_review" not in profile:
+            has_prompts = any(enabled(name, kind) for kind in ("werkstatt", "schnellstart", "hauptproblem", "megaprompt"))
+            if require_editorial and has_prompts and "prompt_editorial_review" not in profile:
                 raise LabError("Fachbezogene Prompt-Redaktion fehlt")
             if require_workflow:
                 if "prompt_workflow_review" not in profile:
                     raise LabError("Fachbezogene Workflow-Prüfung fehlt")
-                validate_editorial_review(profile.get("prompt_editorial_review"), profile, name, directory, root)
+                if has_prompts:
+                    validate_editorial_review(profile.get("prompt_editorial_review"), profile, name, directory, root)
             if enabled(name, "schnellstart"):
                 mini = directory / f"{name}-schnellstart.md"
                 data = bounded_bytes(mini)
@@ -761,6 +763,9 @@ def catalog(profiles, root=ROOT):
         profile = profiles.get(name)
         if profile is None:
             lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | Offen | 0 | Individuelle Prüfung fehlt oder ist ungültig | Nicht ausgeführt |")
+            continue
+        if not enabled(name, "schnellstart") and not enabled(name, "werkstatt"):
+            lines.append(f"| [{name}]({directories[name].relative_to(root).as_posix()}/README.md) | Nicht vorgesehen | {len(profile['cases'])} | App- und Skill-Prüffälle | Nicht ausgeführt |")
             continue
         review = profile["mini_review"] if enabled(name, "schnellstart") else profile["workshop_review"]
         reason = review["reason"].replace("|", " / ").replace("\n", " ")

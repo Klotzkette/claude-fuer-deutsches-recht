@@ -1,8 +1,8 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.32.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.0`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22797 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22799 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -150,6 +150,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [grundbuchamt-assistent](./grundbuchamt-assistent.md) (11 Skills)
 - [grundbuchamt-praxis](./grundbuchamt-praxis.md) (65 Skills)
 - [grundsteuerrecht](./grundsteuerrecht.md) (10 Skills)
+- [grundstuecksrecherche](./grundstuecksrecherche.md) (2 Skills)
 
 ### H
 
