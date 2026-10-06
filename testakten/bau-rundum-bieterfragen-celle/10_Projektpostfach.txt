@@ -1,0 +1,11 @@
+Kommunaler Gebäudeverbund Finkenstieg | Projektraum KGF-26-41
+Export von Jana Wendel, 25.09.2026, 08:45 Uhr. Zeitzone Europe/Berlin.
+
+21.09.2026 09:00: Paket V01 freigeschaltet. Enthalten: LB-02 vom 16.09., RB-03 vom 15.09., EL-B-07 vom 15.09., NK-02 vom 17.09., Angebotsformblatt. Keine PN-04. Dateiinhalte gegenüber internem Stand unverändert.
+22.09.2026 10:12: Nachricht Q-001, Stromfeld Ausbau, Menge Ausbau und Nordregal. Eingang im Projektraum. Export als 07_Bieterfrage_Mengen.eml.
+23.09.2026 08:47: Nachricht Q-002, Hellpfad Elektrotechnik, Gleichwertigkeit und Deckenraster. Export als 08_Bieterfrage_Fabrikat.eml.
+24.09.2026 13:26: Nachricht Q-003, Schaltgarten Anlagenbau, Steuerung und Arbeitsfenster. Export als 09_Bieterfrage_Steuerung.eml.
+24.09.2026 16:10: Hausdienst telefonisch wegen Ortstermin am 28.09. angefragt. Keine Bestätigung im Projektraum.
+25.09.2026 08:45: Keine Antwort veröffentlicht. Keine Unterlagenrevision V02 hochgeladen. Angebotsfrist in der Plattform weiterhin 09.10.2026, 10:00 Uhr.
+
+Der Export bildet den Posteingang ab. Namen der fragenden Unternehmen sind in diesem internen Export sichtbar; über die Fassung einer Veröffentlichung entscheidet die Vergabestelle. Es besteht keine private Zusage an einen der Absender.

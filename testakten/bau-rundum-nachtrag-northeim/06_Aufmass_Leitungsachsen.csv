@@ -1,0 +1,5 @@
+Abschnitt;Von;Bis;Länge_m;DN_LV;Messverfahren;Freigabestand
+N1;Schacht N1;Schacht N2;86;150;Achse außen zu außen;bestehende Planung
+S1;Schacht N2;Schacht S2;64;150;Achse außen zu außen;Änderungswunsch Süd
+S2;Schacht S2;Schacht S4;72;150;Achse außen zu außen;Änderungswunsch Süd
+N2;Schacht S4;Einleitung E1;58;150;Achse außen zu außen;Bestandsanschluss prüfen

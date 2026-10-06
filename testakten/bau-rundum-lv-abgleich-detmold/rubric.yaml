@@ -1,0 +1,65 @@
+name: bau-rundum-lv-abgleich-detmold
+plugin: bauwirtschaft-anfaenger
+author: Klotzkette
+description: "Zwei Fassungen der Baubeschreibung, ein noch nicht freigegebenes Ausbau-LV und eigenständige Planungsbeiträge für den Umbau eines privaten Lernateliers."
+checks:
+  - id: fachpruefung-1
+    check_type: human_review
+    description: "Fundstellen bis zu Fassung, Seite, Abschnitt und LV-Position nachvollziehbar belegen; BB-02 ersetzt BB-01 nur in seinem erklärten Geltungsbereich."
+  - id: fachpruefung-2
+    check_type: human_review
+    description: "Wandaufbau, Q3/Q2, Linoleum/PVC, Sockelhöhe, T12 und Revisionsöffnungen getrennt erfassen; fehlendes Türblatt und fehlenden Deckenspiegel nicht erfinden."
+  - id: fachpruefung-3
+    check_type: human_review
+    description: "96,00 m² Einbaufläche und 105,60 m² einschließlich Verschnitt unterscheiden; 14,88 und 29,76 m² sind verschiedene Ansichtsdefinitionen, kein Rechenfehler."
+  - id: fachpruefung-4
+    check_type: human_review
+    description: "Keine Versand- oder technische Freigabe behaupten und den gewünschten Belegabgleich nicht durch eigenmächtige LV-Neufassung ersetzen."
+  - id: original-01
+    check_type: file_exists
+    path: "01_Kuester_LV_Abgleich.eml"
+    description: "Eigenständige Originalunterlage 01_Kuester_LV_Abgleich.eml"
+  - id: original-02
+    check_type: file_exists
+    path: "02_Baubeschreibung_01.pdf"
+    description: "Eigenständige Originalunterlage 02_Baubeschreibung_01.pdf"
+  - id: original-03
+    check_type: file_exists
+    path: "03_Baubeschreibung_02.docx"
+    description: "Eigenständige Originalunterlage 03_Baubeschreibung_02.docx"
+  - id: original-04
+    check_type: file_exists
+    path: "04_LV_Ausbau_03.docx"
+    description: "Eigenständige Originalunterlage 04_LV_Ausbau_03.docx"
+  - id: original-05
+    check_type: file_exists
+    path: "05_Aufmassraeume.pdf"
+    description: "Eigenständige Originalunterlage 05_Aufmassraeume.pdf"
+  - id: original-06
+    check_type: file_exists
+    path: "06_Fachbeitrag_Brandschutz.pdf"
+    description: "Eigenständige Originalunterlage 06_Fachbeitrag_Brandschutz.pdf"
+  - id: original-07
+    check_type: file_exists
+    path: "07_TGA_Revisionsstellen.docx"
+    description: "Eigenständige Originalunterlage 07_TGA_Revisionsstellen.docx"
+  - id: original-08
+    check_type: file_exists
+    path: "08_Nutzerbesprechung.docx"
+    description: "Eigenständige Originalunterlage 08_Nutzerbesprechung.docx"
+  - id: original-09
+    check_type: file_exists
+    path: "09_Mengenuebertragung.csv"
+    description: "Eigenständige Originalunterlage 09_Mengenuebertragung.csv"
+  - id: original-10
+    check_type: file_exists
+    path: "10_Seeger_Dateiversand.eml"
+    description: "Eigenständige Originalunterlage 10_Seeger_Dateiversand.eml"
+  - id: original-11
+    check_type: file_exists
+    path: "11_Planlauf_Notizen.txt"
+    description: "Eigenständige Originalunterlage 11_Planlauf_Notizen.txt"
+  - id: original-12
+    check_type: file_exists
+    path: "12_Raumschema.png"
+    description: "Eigenständige Originalunterlage 12_Raumschema.png"

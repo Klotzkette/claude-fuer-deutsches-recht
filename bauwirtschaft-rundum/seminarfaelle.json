@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "title": "Bauwirtschaft rundum",
+  "plugins": [
+    {
+      "name": "bauwirtschaft-anfaenger",
+      "source": "./bauwirtschaft-rundum/bauwirtschaft-anfaenger",
+      "cases": [
+        {"slug": "bau-rundum-begehung-einbeck", "topic": "Begehungsprotokoll und Mängelliste"},
+        {"slug": "bau-rundum-lv-abgleich-detmold", "topic": "Baubeschreibung gegen Leistungsverzeichnis"},
+        {"slug": "bau-rundum-bieterfragen-celle", "topic": "Leistungsbeschreibung und Bieterfragen"},
+        {"slug": "bau-rundum-behinderung-soest", "topic": "Behinderungsanzeige"},
+        {"slug": "bau-rundum-baugrund-verden", "topic": "Anforderungen aus Baugrundgutachten"}
+      ]
+    },
+    {
+      "name": "bauwirtschaft-fortgeschrittene",
+      "source": "./bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene",
+      "cases": [
+        {"slug": "bau-rundum-abschlagsrechnung-lemgo", "topic": "Abschlagsrechnungsprüfung"},
+        {"slug": "bau-rundum-vgv-bewerbung-hameln", "topic": "VgV-Bewerbung des Planungsbüros"},
+        {"slug": "bau-rundum-angebotspruefung-goslar", "topic": "Formale und rechnerische Angebotsprüfung"},
+        {"slug": "bau-rundum-bauzeit-claim-minden", "topic": "Störungschronologie und Bauzeit-Claim"},
+        {"slug": "bau-rundum-nachtrag-northeim", "topic": "Nachtragsprüfung dem Grunde und der Höhe nach"}
+      ]
+    }
+  ]
+}

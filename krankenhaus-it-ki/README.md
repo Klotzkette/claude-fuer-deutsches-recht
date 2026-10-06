@@ -5,7 +5,7 @@
 
 Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte.
 
-Dieses Plugin gehört zum Marketplace mit 282 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 ## Welche Datei wofür? / Which file should I use?
 
@@ -52,7 +52,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Schwerpunkt-Prompt (Hauptproblem) | Markdown / identisches TXT | <a href="https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md" download>krankenhaus-it-ki-hauptproblem.md</a> · [`krankenhaus-it-ki-hauptproblem.txt`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.txt) |
 | Zugeordnete Testakten | PDF / ZIP | [eine zugeordnete Akte](#zugeordnete-testakten) mit Gesamt-PDF, Originaldateien und Einzel-PDFs |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 282 Plugins. Das neue Paket steht zunächst im eigenen Komponentenrelease bereit; bestehende Sammelarchive enthalten den vorherigen vollständigen Releasebestand. Für diesen Bestand nimmt man [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 
 ## Zugeordnete Testakten
 
@@ -64,7 +64,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [krankenhaus-it-ki-auenhoehe-thueringen](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/README.md) | [Gesamt-PDF](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip) |
+| [Krankenhaus Auenhöhe in Thüringen](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/README.md) | [Gesamt-PDF](../testakten/krankenhaus-it-ki-auenhoehe-thueringen/gesamt-pdf/krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip) | [`testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -131,6 +131,21 @@ Datenschutz, medizinische Sicherheit und Produktkonformität werden getrennt gep
 
 Apache-2.0 OR MIT.
 
+
+<!-- BEGIN SKILLS-LOGIC (auto-generated) -->
+
+## Orientierung nach Arbeitslogik
+
+Diese Navigation ordnet die Skills nach typischen Arbeitsschritten. Ein Klick auf einen Skill lädt seine Markdown-Datei; die alphabetische Komplettliste bleibt darunter erhalten.
+
+English: Skills are grouped by typical work phase. Clicking a skill downloads its Markdown file; the complete alphabetical list remains below.
+
+| Arbeitsphase | Typische Skills |
+| --- | --- |
+| 2. Unterlagen, Sachverhalt und Quellen | [`datenschutzinformationen-betroffenenrechte`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/datenschutzinformationen-betroffenenrechte/SKILL.md), [`vorhaben-datenfluesse-rollen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/vorhaben-datenfluesse-rollen/SKILL.md) |
+| 8. Spezialmodule und Schnittstellen | [`drittland-transfer-impact-assessment`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/drittland-transfer-impact-assessment/SKILL.md), [`dsfa-schutzmassnahmen-erarbeiten`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/dsfa-schutzmassnahmen-erarbeiten/SKILL.md), [`forschung-sekundaernutzung-abgrenzen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/forschung-sekundaernutzung-abgrenzen/SKILL.md), [`ki-medizinprodukt-konformitaet`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/ki-medizinprodukt-konformitaet/SKILL.md), [`krankenhaus-digitalisierung-steuern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md), [`lieferanten-avv-geheimnisschutz`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/lieferanten-avv-geheimnisschutz/SKILL.md), [`pilot-schulung-betrieb`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/pilot-schulung-betrieb/SKILL.md), [`rechtsgrundlagen-vvt-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/rechtsgrundlagen-vvt-pruefen/SKILL.md), [`sicherheit-stoerungen-vorfaelle`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=krankenhaus-it-ki/skills/sicherheit-stoerungen-vorfaelle/SKILL.md) |
+
+<!-- END SKILLS-LOGIC (auto-generated) -->
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 

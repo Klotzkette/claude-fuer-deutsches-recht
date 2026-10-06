@@ -1,6 +1,18 @@
 {
   "schema_version": 1,
   "plugins": {
+    "bauwirtschaft-anfaenger": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "bauwirtschaft-fortgeschrittene": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "krankenhaus-it-ki": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],

@@ -1,0 +1,19 @@
+{
+  "name": "bauwirtschaft-anfaenger",
+  "version": "445.33.1",
+  "description": "Acht Skills für den Einstieg am Bau: Begehung, LV-Abgleich, Bieterfragen, Behinderungsanzeige und Baugrundgutachten. Mit sicheren Projektquellen und einem eigenen prüfbaren Bau-Baustein.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bauwirtschaft: Anfänger",
+    "shortDescription": "Vom Bau-Dokument zum geprüften ersten Entwurf.",
+    "longDescription": "Fünf Seminarfälle, sichere Projektquellen und ein wiederverwendbarer Bau-Baustein. Für Planung, Bauüberwachung, Bauleitung, Ingenieurbüros und Vergabestellen.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Lesen Sie zuerst meine vorhandenen Unterlagen und erstellen Sie das passende Bau-Arbeitsprodukt. Fragen Sie höchstens zwei entscheidende fehlende Angaben ab."
+  }
+}

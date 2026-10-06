@@ -10,7 +10,7 @@
 
 Juristische PowerPoint-Präsentationen für Kanzlei und Rechtsabteilung: zehn Kernskills von Urteil, Fachvortrag und Laienerklärung bis Folien, Sprechernotizen und Probe. Zwei optionale Bonus-Skills für seriöse Animation und jugendgerechte Sprache. Mit neutraler Vorlage.
 
-Dieses Plugin gehört zum Marketplace mit 281 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
+Dieses Plugin gehört zum Marketplace mit 284 Plugins. Für die Installation nimm das Einzel-ZIP. Ohne Installation genügt zum Einstieg einer der beiden eigenständigen Markdown-Prompts: Schnellstart für den Kernvorgang, Werkstatt für die ausführliche Bearbeitung. Die Prompts ersetzen nicht sämtliche Spezialskills und Hilfsdateien des Plugins.
 
 <!-- decimal-anchor --> <a id="welche-datei-wofür--which-file-should-i-use"></a>
 
@@ -65,7 +65,7 @@ Bei einem Folgewunsch den bisherigen Aktenstand fortführen. Bereits festgestell
 | Großer Prompt (Werkstatt) | Markdown | [`juristische-praesentationen-werkstatt.md`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=juristische-praesentationen/juristische-praesentationen-werkstatt.md) |
 | Zugeordnete Testakten | PDF / ZIP | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) und [`alle-testakten-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten-einzelpdfs.zip) (zentrale Sammlung) |
 
-> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 281 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
+> Marketplace-Hinweis: Dieses Plugin gehört zum Marketplace mit 284 Plugins. Wer alle Plugins auf einmal will, nimmt [`alle-plugins-megazip.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-plugins-megazip.zip). Alle Einzeldateien stehen im [Download-Index](../ASSET_INDEX.md); Werkstatt und Schnellstart bleiben direkte Markdown-Downloads.
 <!-- END direkt-loslegen (autogen) -->
 
 Vom Urteil, Aktenordner oder Vortragsthema zur verständlichen Präsentation: zehn fachliche Kernskills und zwei ausdrücklich optionale Bonus-Skills. Für Kanzlei, Rechtsabteilung, Fortbildung, Gericht und nichtjuristisches Publikum. Kurze Folien, ausformulierte Sprechernotizen und überprüfbare Quellen gehören zusammen.

@@ -1,0 +1,7 @@
+Befund_ID;Zeitpunkt;Raum;Bauteil;Größe;Wert;Einheit;Methode;Ableserin;Grenze
+B01;2026-09-22T09:14:00+02:00;0.03;T03 links oben;Rissbreite;0,4;mm;Risskarte;Maren Döring;"größte von drei Ablesungen; keine Öffnung"
+B01;2026-09-22T09:16:00+02:00;0.03;T03 links oben;Risslänge;62;cm;Zollstock;Maren Döring;ungefähr
+B02;2026-09-22T09:22:00+02:00;0.03;F07 unten;sichtbarer offener Anschluss;18;cm;Zollstock;Maren Döring;keine verdeckte Prüfung
+B03;2026-09-22T09:28:00+02:00;0.05;T05 Bandseite;Luft zum Boden;3;mm;Zollstock;Maren Döring;Schätzung
+B04;2026-09-22T09:30:00+02:00;0.06;Ablauf;ausgegossenes Wasser;2;l;Messbecher;Heike Lenz;einmalig
+B04;2026-09-22T09:38:00+02:00;0.06;neben Ablauf;Wassertiefe;4;mm;Zollstock;Maren Döring;"maximal ungefähr; kein Nivellement"

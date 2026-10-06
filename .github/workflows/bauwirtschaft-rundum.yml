@@ -1,0 +1,47 @@
+name: Bauwirtschaft rundum prüfen
+
+on:
+  pull_request:
+    paths:
+      - 'bauwirtschaft-rundum/**'
+      - 'testakten/bau-rundum-*/**'
+      - 'scripts/*bauwirtschaft-rundum*'
+      - 'scripts/*bau-rundum*'
+      - 'scripts/bau_rundum_*'
+      - 'quality/evals/bauwirtschaft-anfaenger.json'
+      - 'quality/evals/bauwirtschaft-fortgeschrittene.json'
+      - '.github/workflows/bauwirtschaft-rundum.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'bauwirtschaft-rundum/**'
+      - 'testakten/bau-rundum-*/**'
+      - '.github/workflows/bauwirtschaft-rundum.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  seminarpakete:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Abhängigkeiten
+        run: python -m pip install -r requirements.txt
+      - name: Installationsgrenzen und Fallbestand
+        run: |
+          python scripts/test-bauwirtschaft-rundum.py
+          python scripts/test-prompt-profile-app-boundary.py
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python scripts/validate-yaml-frontmatter.py
+          python scripts/validate-testakten-csv.py
+          python scripts/validate-testakten-keine-markdown-aktenstuecke.py

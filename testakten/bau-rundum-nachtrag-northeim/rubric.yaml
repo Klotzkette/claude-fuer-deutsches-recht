@@ -1,0 +1,82 @@
+name: bau-rundum-nachtrag-northeim
+plugin: bauwirtschaft-fortgeschrittene
+description: Angebot für eine geänderte Rohrdimension mit unklarer Reichweite einer
+  Baustellenanweisung, abschnittsweisen Mengen, ursprünglicher Preisermittlung, aktuellem
+  Lieferangebot und noch ausstehender Bauherrenentscheidung.
+checks:
+- id: sachpruefung-1
+  check_type: human_review
+  description: Änderungswunsch, technische Anweisung, Vertretungsmacht und Preisvereinbarung
+    anhand getrennter Belege beurteilen.
+- id: sachpruefung-2
+  check_type: human_review
+  description: Geänderte, entfallende und unveränderte Mengen sowie Preisbestandteile
+    nachvollziehbar abgrenzen.
+- id: sachpruefung-3
+  check_type: human_review
+  description: Fristen und offene Entscheidungen aus dem Schriftverkehr führen, ohne
+    bereits eine Beauftragung oder einen Anspruch zu unterstellen.
+- id: original-01
+  check_type: file_exists
+  path: 01_Bauauftrag_Entwaesserung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Leistungsverzeichnis.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Urkalkulation_Rohr.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Aenderungswunsch.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Zustaendigkeit_Bauprojekt.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Aufmass_Leitungsachsen.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Lieferangebot_DN200.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Nachtragsangebot_N03.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Begleitschreiben_N03.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Baustellenanweisung_21_September.txt
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Technische_Stellungnahme.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Beschaffung_Rueckfrage.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Aufnahmeskizze_Begleitblatt.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Terminnotizen.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Nachtragsregister.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Besprechungseinladung.eml
+  description: Eigenständige Originalunterlage vorhanden.

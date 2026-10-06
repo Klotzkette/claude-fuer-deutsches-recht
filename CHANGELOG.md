@@ -1,3 +1,19 @@
+# bauwirtschaft-rundum-v445.33.1 - Zwei aufeinander abgestimmte Seminarpakete
+
+## 1. Grundlagen und Vertiefung
+
+Der Sammelordner `bauwirtschaft-rundum` enthält zwei getrennt installierbare Plugins mit jeweils acht Skills, einem eigenständigen Werkstatt-Prompt und einem Mini-Prompt. Die Grundlagen begleiten Begehung, Dokumentenabgleich, Bieterfragen, Behinderungsanzeige und Baugrundauswertung. Die Vertiefung verbindet Rechnungsprüfung, VgV-Bewerbung, Angebotsprüfung, Bauzeit-Claim und Nachtragsprüfung. Ergänzende Skills behandeln Quellenzugriff, wiederverwendbare Arbeitsanweisungen, Planänderungen und kontrollierte Bürostandards.
+
+## 2. Zehn passende Praxisakten
+
+Je fünf eigenständige Akten bilden die in den Seminarunterlagen beschriebenen Abläufe ab. Bearbeitbare Bürodateien, E-Mails, Tabellen und Ortsdokumentation bleiben als getrennte Originalunterlagen erhalten. Gesamt-PDF, Einzel-PDF-ZIP und flaches Originalformat-ZIP werden aus demselben Bestand gebaut; interne Prüfkriterien werden nicht ausgeliefert. Bestehende Bauwirtschafts- und Bauvergabe-Pakete bleiben erhalten.
+
+## 3. Fachliche und technische Grenzen
+
+Die Workflows unterscheiden technische Feststellung, vertragliche Bewertung und freizugebende Entscheidung. Die Quellenkarten grenzen insbesondere VgV, VOB/A 2026, vertragliche VOB/B und BGB-Ansprüche voneinander ab. Repository-Tests sichern Installation, lokale Referenzen, Dateibestand, E-Mail-Anhänge und Exportgleichheit. Sie sind keine Zertifizierung fremder Oberflächen oder bestandene Modellprüfung.
+
+Der Quellenprofil-Audit verlangt für ausdrücklich reine App-Plugins keine ungenutzte Promptvorlage mehr, prüft aber weiterhin unerwartete Promptdateien. Drei Regressionstests sichern diese Grenze. Das Teilrelease veröffentlicht die beiden neuen Pakete und ihre zehn Akten ohne Neuerstellung aller bisherigen Sammelarchive.
+
 # v445.33.1 - Grundstücksrecherche als portable Website
 
 ## 1. ZIP herunterladen und index.html öffnen

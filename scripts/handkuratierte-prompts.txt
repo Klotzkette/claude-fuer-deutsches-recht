@@ -44,6 +44,8 @@ corporate-contract-law
 vertragserstellung
 wirtschaftsanwalt
 bauwirtschaft
+bauwirtschaft-anfaenger
+bauwirtschaft-fortgeschrittene
 enteignung-artikel-14
 ki-verordnung-hochrisiko-pruefer
 ki-verordnung-transparenzpruefer

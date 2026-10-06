@@ -248,6 +248,26 @@
       }
     },
     {
+      "name": "bauwirtschaft-anfaenger",
+      "source": "./bauwirtschaft-rundum/bauwirtschaft-anfaenger",
+      "description": "Acht Skills für den Einstieg am Bau: Begehung, LV-Abgleich, Bieterfragen, Behinderungsanzeige und Baugrundgutachten. Mit sicheren Projektquellen und einem eigenen prüfbaren Bau-Baustein.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "bauwirtschaft-fortgeschrittene",
+      "source": "./bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene",
+      "description": "Acht Skills für fortgeschrittene Baupraxis: Rechnungen, VgV-Bewerbungen, Angebote, Bauzeit-Claims, Nachträge, Planänderungen und geprüfte Bürostandards mit begrenzten Dateizugriffen und menschlicher Freigabe.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "bav-strategie-konzern",
       "source": "./bav-strategie-konzern",
       "description": "Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer Boutique-Stil.",

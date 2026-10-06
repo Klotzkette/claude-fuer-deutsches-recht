@@ -1,0 +1,7 @@
+Probe;Entnahmedatum;Tiefe_m_u_Gelände;Material;Parameter;Wert;Einheit;Bericht
+KB1-P3;2026-08-26;2,00;Sand;Wasserdurchlässigkeit;0,000020;m/s;KZ-26-772
+KB2-P3;2026-08-26;2,50;Sand;Wasserdurchlässigkeit;0,000060;m/s;KZ-26-772
+KB3-P2;2026-08-26;1,40;Schluff;Wassergehalt gravimetrisch;28,0;%;KZ-26-772
+KB4-P2;2026-09-14;1,75;Schluff;Wassergehalt gravimetrisch;31,0;%;KZ-26-772
+KB4-P3;2026-09-14;2,80;Sand;Wasserdurchlässigkeit;0,000018;m/s;KZ-26-772
+KB4-P3;2026-09-14;2,80;Sand;Feinanteil;7,2;Massen-%;KZ-26-772

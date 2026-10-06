@@ -485,15 +485,18 @@ def main() -> int:
         problems.append("Marketplace enthält doppelte Plugin-Slugs")
 
     for slug, plugin_dir, description in plugins:
-        profile = profile_for(slug, description)
-        profile_counts[profile.key] += 1
-        expected_route = CRITICAL_ROUTES.get(slug)
-        if expected_route and profile.key != expected_route:
-            problems.append(
-                f"{slug}: Fachroute {profile.key!r}, erwartet {expected_route!r}"
-            )
-
         expected = expected_prompt_files(slug, plugin_dir)
+        # App-Pakete ohne Standalone-Prompts brauchen keine Generator-Fachroute.
+        # Unerwartete Promptdateien werden unten trotzdem zurückgewiesen.
+        if expected:
+            profile = profile_for(slug, description)
+            profile_counts[profile.key] += 1
+            expected_route = CRITICAL_ROUTES.get(slug)
+            if expected_route and profile.key != expected_route:
+                problems.append(
+                    f"{slug}: Fachroute {profile.key!r}, erwartet {expected_route!r}"
+                )
+
         actual = set(plugin_dir.glob("*-werkstatt.md")) | set(
             plugin_dir.glob("*-schnellstart.md")
         )

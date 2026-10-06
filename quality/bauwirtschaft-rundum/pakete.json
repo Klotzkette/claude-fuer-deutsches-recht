@@ -1,0 +1,203 @@
+{
+  "version": "445.33.1",
+  "plugins": [
+    {
+      "name": "bauwirtschaft-anfaenger",
+      "skills": 8
+    },
+    {
+      "name": "bauwirtschaft-fortgeschrittene",
+      "skills": 8
+    }
+  ],
+  "cases": [
+    {
+      "slug": "bau-rundum-begehung-einbeck",
+      "originals": 14,
+      "individual_pdfs": 14,
+      "overall_pages": 22,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-lv-abgleich-detmold",
+      "originals": 12,
+      "individual_pdfs": 12,
+      "overall_pages": 22,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-bieterfragen-celle",
+      "originals": 15,
+      "individual_pdfs": 15,
+      "overall_pages": 24,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-behinderung-soest",
+      "originals": 12,
+      "individual_pdfs": 12,
+      "overall_pages": 18,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-baugrund-verden",
+      "originals": 12,
+      "individual_pdfs": 12,
+      "overall_pages": 21,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-abschlagsrechnung-lemgo",
+      "originals": 16,
+      "individual_pdfs": 16,
+      "overall_pages": 28,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".xlsx"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-vgv-bewerbung-hameln",
+      "originals": 16,
+      "individual_pdfs": 16,
+      "overall_pages": 27,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".xlsx"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-angebotspruefung-goslar",
+      "originals": 16,
+      "individual_pdfs": 16,
+      "overall_pages": 26,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".txt",
+        ".xlsx"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-bauzeit-claim-minden",
+      "originals": 16,
+      "individual_pdfs": 16,
+      "overall_pages": 25,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".png",
+        ".txt",
+        ".xlsx"
+      ],
+      "native_files_byte_identical": true
+    },
+    {
+      "slug": "bau-rundum-nachtrag-northeim",
+      "originals": 16,
+      "individual_pdfs": 16,
+      "overall_pages": 26,
+      "formats": [
+        ".csv",
+        ".docx",
+        ".eml",
+        ".pdf",
+        ".txt",
+        ".xlsx"
+      ],
+      "native_files_byte_identical": true
+    }
+  ],
+  "scope": "Zwei Pakete und zehn Akten; keine bestehenden Sammelarchive neu gebaut.",
+  "assets": {
+    "bau-rundum-abschlagsrechnung-lemgo_gesamt.pdf": "da77ef310a682dbbf358f5b8b91d014c38694181b7907aad80879cef45168132",
+    "bau-rundum-angebotspruefung-goslar_gesamt.pdf": "9edcb9269a61bc65d5d8e6537302fd3d50e761fe3c754e08102afb9626236464",
+    "bau-rundum-baugrund-verden_gesamt.pdf": "186babfad2714dceb85640434f5a1ca6cb4de0590e355ad9bbf48023b4a59fe7",
+    "bau-rundum-bauzeit-claim-minden_gesamt.pdf": "4104f9c005c0d290174a7629d075933ae972da23b8464a8349262c76843f41f7",
+    "bau-rundum-begehung-einbeck_gesamt.pdf": "590686fd3cc62fe12bb7adb224c6dbe6f1b6a4be76e5ca31da130b64737e95a4",
+    "bau-rundum-behinderung-soest_gesamt.pdf": "5b3f507e2cf1f02b3cab633f27ffdfe77dff8069c45ef0f601165701a87a005b",
+    "bau-rundum-bieterfragen-celle_gesamt.pdf": "4a261931e93b4ed9383d97760cadaefd060974ff98d1b9514028f0130edfa682",
+    "bau-rundum-lv-abgleich-detmold_gesamt.pdf": "b656cdfbada7d917f3b65812606cbe142ecda05e5d74f6803a669fac5f63b3d3",
+    "bau-rundum-nachtrag-northeim_gesamt.pdf": "f747b7fed3a8c9c843dc2c65d42321548a1e2583b6c7a30f1c385584e3d18968",
+    "bau-rundum-vgv-bewerbung-hameln_gesamt.pdf": "4349adcfa752df9ca4420e808cb2f457e7ee856ce4ea716fedac6b84122c5380",
+    "bauwirtschaft-anfaenger-schnellstart.md": "ebd08918667e46890406eb9525dbd288727328ac32595e82010048729580067f",
+    "bauwirtschaft-anfaenger-werkstatt.md": "6eec3c9c8922169e985054e5220703c5df05da5c50a45bc0871436e64be3b994",
+    "bauwirtschaft-anfaenger.zip": "beb87062de2c9620531c87f694056c3bfecd535aec3ead75951e564be6e95012",
+    "bauwirtschaft-fortgeschrittene-schnellstart.md": "5fdba970fcd99ddb990da469bf72e0ce4f1ec9125635346d62d3185577ce26f6",
+    "bauwirtschaft-fortgeschrittene-werkstatt.md": "e048b9ca85b632df34907d436881e30ec23ec99f77ab9487fde16a9a26a08e92",
+    "bauwirtschaft-fortgeschrittene.zip": "e8aa1f79180bf2ea5a59a6e3b0353f6465e270b18213d20719e76ca159fb8d02",
+    "testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip": "922ed419efc53f1ade3d7e555f066e79c2d4f8a35ceddfa7816b2198792731b9",
+    "testakte-bau-rundum-abschlagsrechnung-lemgo.zip": "88ec801d97f24fa82516336c3b40cf0366b14f23ee707408e803fafb1a49dad5",
+    "testakte-bau-rundum-angebotspruefung-goslar-einzelpdfs.zip": "0b1f2bbcff4b9987e8821a0e9ac7834d23f606ab53657555f8603a74275592d3",
+    "testakte-bau-rundum-angebotspruefung-goslar.zip": "fca6190ed606c40c665cf541d4fd89373d190f0c79ea8d55c934cf1e478ac55e",
+    "testakte-bau-rundum-baugrund-verden-einzelpdfs.zip": "1e83abdf0aae35738c3b1ef605f70956e3b0382d568e2b4ebf227e05224b1c5b",
+    "testakte-bau-rundum-baugrund-verden.zip": "b4639fcb7f1417c71267d44fa84bb8a0faf7602170a2255307a51460cfe9fd40",
+    "testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip": "317d5718b773841fca951cabb1045fe76ad5c5e93f1486ec5bd7883fb80e2736",
+    "testakte-bau-rundum-bauzeit-claim-minden.zip": "1d608753c9a4fc3d4c4d3025a912eed3d76699f631a9e69fecb97ae8cce6b8f5",
+    "testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip": "eb8a14abcd613f8321d088e13f7b99100a6815dc56513e15d75989c3f4291085",
+    "testakte-bau-rundum-begehung-einbeck.zip": "5bf9e40ed04260960ce76a55cc94f67bdd50748c329ab85de555f2e8c4db01d4",
+    "testakte-bau-rundum-behinderung-soest-einzelpdfs.zip": "417db6e97392818ca1ae71be314200c46bfd51d444acbc7de003750e4a97878a",
+    "testakte-bau-rundum-behinderung-soest.zip": "ff76c45c66e9438bbb7f2c026a30857b77f0f5c27a8408a81b5f69d576b585ae",
+    "testakte-bau-rundum-bieterfragen-celle-einzelpdfs.zip": "fe128e73529849ad447a218e75071ba45a90354f085b1a442e17366a22f6b267",
+    "testakte-bau-rundum-bieterfragen-celle.zip": "443ccd8ed795f17210053ed915860e8966f1f05e637068e650169989b2975aa8",
+    "testakte-bau-rundum-lv-abgleich-detmold-einzelpdfs.zip": "98653474be002cd6beb056608af1f00e4e5aad42f24eec4a46f3537cf39d9bc7",
+    "testakte-bau-rundum-lv-abgleich-detmold.zip": "2b3fd09adb33f34a4dca151fc32c7cb1f7bd37c1eea58581c9d8ea2bafb804e7",
+    "testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip": "c95dcc76e136500f078e2fc9148526109329afd602c1555b4bcafab9d03a6308",
+    "testakte-bau-rundum-nachtrag-northeim.zip": "03dbf120d3278c37f0ba0dd72c58ada057161f34c4bb4c2e33f346db4c0743d9",
+    "testakte-bau-rundum-vgv-bewerbung-hameln-einzelpdfs.zip": "2ce5db65fc65d4f8bb8b9231c47edd60043648f123d98b2ece1daa9d857775f8",
+    "testakte-bau-rundum-vgv-bewerbung-hameln.zip": "2574ca6249720d7409eea64cd58e29d6ece5d8ee0626b1a1bebc89f6c8290195"
+  }
+}

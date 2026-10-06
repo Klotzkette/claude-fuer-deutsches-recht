@@ -23,6 +23,7 @@ from testakte_disclaimer import NOTICE_DE, NOTICE_EN
 REPO = Path(__file__).resolve().parent.parent
 TESTAKTEN = REPO / "testakten"
 PREFIXES = (
+    "bau-rundum-",
     "krankenhaus-it-ki-",
     "anwaltschaft-",
     "arbeitsrecht-",

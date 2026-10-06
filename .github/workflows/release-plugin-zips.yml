@@ -124,6 +124,8 @@ jobs:
           python3 scripts/test-sektorenvergabe-workflow.py
           python3 scripts/test-bauvergabe.py
           python3 scripts/test-bauvergabe-skill-selection.py
+          python3 scripts/test-bauwirtschaft-rundum.py
+          python3 scripts/test-prompt-profile-app-boundary.py
           python3 scripts/test-insolvenzforderungen-baeckerei.py
           python3 scripts/test-insolvenzforderungen-asset-deal.py
           python3 scripts/test-vertragserstellung-mandatsakten.py

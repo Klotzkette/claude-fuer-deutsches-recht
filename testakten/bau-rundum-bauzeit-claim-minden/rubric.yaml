@@ -1,0 +1,86 @@
+name: bau-rundum-bauzeit-claim-minden
+plugin: bauwirtschaft-fortgeschrittene
+description: Bauzeitforderung mit vereinbartem Ablauf, tatsächlichen Vorgängen, zwei
+  überlappenden Störungen, Wetter- und Personalaufzeichnungen sowie belegten Kostenansätzen
+  und bestrittenen Zeitanteilen.
+checks:
+- id: sachpruefung-1
+  check_type: human_review
+  description: Störungszeitraum, konkrete Tätigkeit, kausale Verschiebung und Kostenzeitraum
+    jeweils belegen.
+- id: sachpruefung-2
+  check_type: human_review
+  description: Überlappende Störungen und anderweitige Einsatzmöglichkeiten berücksichtigen,
+    ohne Tage pauschal zu addieren.
+- id: sachpruefung-3
+  check_type: human_review
+  description: Wetter, Unterbesetzung und abweichende Zeitaufzeichnungen als Gegenmaterial
+    würdigen.
+- id: sachpruefung-4
+  check_type: human_review
+  description: Forderung und Anspruchsgrundlage getrennt prüfen; aus der Rechnungsaufstellung
+    keine rechtliche Anerkennung ableiten.
+- id: original-01
+  check_type: file_exists
+  path: 01_Bauvertrag_Termine.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Vertragsablauf.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Isttermine.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Behinderungsanzeige_Plan.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Planfreigaben.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Behinderungsanzeige_Leitung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Netzbetreiber_Freigabe.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Bautagebuch.txt
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Wettermessungen.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Personalstunden.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Geraete_und_Gemeinkosten.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Bauzeitforderung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Forderungsberechnung.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Erwiderung_Verband.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Besprechung_Beschleunigung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Baufeldskizze.png
+  description: Eigenständige Originalunterlage vorhanden.

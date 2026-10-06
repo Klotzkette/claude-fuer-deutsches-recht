@@ -1,0 +1,65 @@
+name: bau-rundum-baugrund-verden
+plugin: bauwirtschaft-anfaenger
+author: Klotzkette
+description: "Dreiseitiger geotechnischer Kurzbericht mit zweitseitiger Ergänzung, Feldbelegen, Laborwerten und geändertem Laststand. Kennwerte, Einheiten und räumliche Geltungsgrenzen erfordern projektbezogene Ingenieurprüfung."
+checks:
+  - id: fachpruefung-1
+    check_type: human_review
+    description: "Anforderungsliste mit Bericht/Ergänzung, Seite, Abschnitt und Tabellenbezug erstellen; tatsächlicher Umfang drei plus zwei Seiten statt erfundener 80 Seiten."
+  - id: fachpruefung-2
+    check_type: human_review
+    description: "Wasserannahme 19,30/19,60 m von Beobachtung 19,08 m trennen, örtliche Höhen nicht als NHN deklarieren und Rohrkopfversatz 0,30 m beachten."
+  - id: fachpruefung-3
+    check_type: human_review
+    description: "Charakteristische Lasten und Kennwerte nicht als fertige Bemessungswiderstände ausgeben; MN/m², MN/m³, kN/m², kN und m/s sauber unterscheiden."
+  - id: fachpruefung-4
+    check_type: human_review
+    description: "Östlichen Schluff, neue Sonderlasten, fehlende chemische Untersuchung und dynamische Angaben projektspezifisch berücksichtigen; Ingenieurprüfung und keine Ausführungsfreigabe."
+  - id: original-01
+    check_type: file_exists
+    path: "01_Ehlers_Unterlagen.eml"
+    description: "Eigenständige Originalunterlage 01_Ehlers_Unterlagen.eml"
+  - id: original-02
+    check_type: file_exists
+    path: "02_Baugrundbericht.pdf"
+    description: "Eigenständige Originalunterlage 02_Baugrundbericht.pdf"
+  - id: original-03
+    check_type: file_exists
+    path: "03_Ergaenzung_01.pdf"
+    description: "Eigenständige Originalunterlage 03_Ergaenzung_01.pdf"
+  - id: original-04
+    check_type: file_exists
+    path: "04_Lastmitteilung.docx"
+    description: "Eigenständige Originalunterlage 04_Lastmitteilung.docx"
+  - id: original-05
+    check_type: file_exists
+    path: "05_Feldblatt.pdf"
+    description: "Eigenständige Originalunterlage 05_Feldblatt.pdf"
+  - id: original-06
+    check_type: file_exists
+    path: "06_Laborwerte.csv"
+    description: "Eigenständige Originalunterlage 06_Laborwerte.csv"
+  - id: original-07
+    check_type: file_exists
+    path: "07_Wasserbeobachtungen.csv"
+    description: "Eigenständige Originalunterlage 07_Wasserbeobachtungen.csv"
+  - id: original-08
+    check_type: file_exists
+    path: "08_Aufschlusslage.png"
+    description: "Eigenständige Originalunterlage 08_Aufschlusslage.png"
+  - id: original-09
+    check_type: file_exists
+    path: "09_Labormitteilung.pdf"
+    description: "Eigenständige Originalunterlage 09_Labormitteilung.pdf"
+  - id: original-10
+    check_type: file_exists
+    path: "10_Hagedorn_Uebergabe.eml"
+    description: "Eigenständige Originalunterlage 10_Hagedorn_Uebergabe.eml"
+  - id: original-11
+    check_type: file_exists
+    path: "11_Bauherrnvermerk.docx"
+    description: "Eigenständige Originalunterlage 11_Bauherrnvermerk.docx"
+  - id: original-12
+    check_type: file_exists
+    path: "12_Hoehen_Notiz.txt"
+    description: "Eigenständige Originalunterlage 12_Hoehen_Notiz.txt"

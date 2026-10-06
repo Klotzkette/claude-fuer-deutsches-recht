@@ -1,0 +1,81 @@
+name: bau-rundum-abschlagsrechnung-lemgo
+plugin: bauwirtschaft-fortgeschrittene
+description: Kumulative Rohbaurechnung mit fortgeschriebenen Mengen, zwei unterschiedlich
+  behandelten Nachträgen, Teilzahlungen und einer noch nicht erledigten Beanstandung.
+checks:
+- id: sachpruefung-1
+  check_type: human_review
+  description: Kumulative Leistungen, frühere Rechnungen und tatsächlich geleistete
+    Zahlungen getrennt abgleichen.
+- id: sachpruefung-2
+  check_type: human_review
+  description: Aufmaß, Liefernachweis, Preisvereinbarung und Anordnung für jede Abweichung
+    anhand ihrer Herkunft unterscheiden.
+- id: sachpruefung-3
+  check_type: human_review
+  description: Einbehalte und Sicherungsklausel prüfen, ohne aus einer Buchung ein
+    Anerkenntnis abzuleiten.
+- id: original-01
+  check_type: file_exists
+  path: 01_Bauauftrag.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Leistungsverzeichnis.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Aufmass_Vormonate.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Abschlagsrechnung_1.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Abschlagsrechnung_2.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Kreditorenbewegungen.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Nachtrag_N01.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Nachtragsangebot_N02.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Aufmass_Juli.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Wareneingang_Juli.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Abschlagsrechnung_3.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Rechnungseingang.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Sockelkontrolle.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Zahlungsmitteilung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Buchhaltung_Rueckfrage.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Baubesprechung_30_Juli.docx
+  description: Eigenständige Originalunterlage vorhanden.

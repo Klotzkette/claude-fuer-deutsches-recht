@@ -6144,6 +6144,8 @@ EXACT_PROFILE_KEYS: dict[str, str] = {
     "enteignung-artikel-14": "verfass",
     "vergesellschaftung-artikel-15": "verfass",
     "bauwirtschaft": "bauwirtschaft",
+    "bauwirtschaft-anfaenger": "bauwirtschaft",
+    "bauwirtschaft-fortgeschrittene": "bauwirtschaft",
     "anwaltschaft-generell": "anwaltschaft-generell",
     "corporate-contract-law": "corporate-contract-law",
     "vertragserstellung": "vertragserstellung",

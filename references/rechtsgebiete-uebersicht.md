@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 282 Plugins, 22810 Skills.
+Stand v445.33.1: 284 Plugins, 22826 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -32,6 +32,8 @@ Stand v445.33.1: 282 Plugins, 22810 Skills.
 | [`bauvergabe-unterlagen`](../bauvergabe/bauvergabe-unterlagen/) | Zehn Fachskills und ein Hauptskill zur Erstellung von Bauvergabeunterlagen. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen. | `445.33.1` | 11 |
 | [`bauvergabe-verfahren`](../bauvergabe/bauvergabe-verfahren/) | Zehn Fachskills und ein Hauptskill zur Führung eines Bauvergabeverfahrens. Eigenständige Bauprüfung nach VOB/A mit Quellen und präzisen Fachschnittstellen. | `445.33.1` | 11 |
 | [`bauwirtschaft`](../bauwirtschaft/) | 29 Arbeitsabläufe für Bauherren, Projektentwicklung, Bauleitung und kaufmännische Teams: neun eigene HOAI-Phasen für Gebäude und Innenräume sowie Projektsteuerung, Vergabe, Bauausführung und Buchhaltung. | `445.33.1` | 29 |
+| [`bauwirtschaft-anfaenger`](../bauwirtschaft-rundum/bauwirtschaft-anfaenger/) | Acht Skills für den Einstieg am Bau: Begehung, LV-Abgleich, Bieterfragen, Behinderungsanzeige und Baugrundgutachten. Mit sicheren Projektquellen und einem eigenen prüfbaren Bau-Baustein. | `445.33.1` | 8 |
+| [`bauwirtschaft-fortgeschrittene`](../bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/) | Acht Skills für fortgeschrittene Baupraxis: Rechnungen, VgV-Bewerbungen, Angebote, Bauzeit-Claims, Nachträge, Planänderungen und geprüfte Bürostandards mit begrenzten Dateizugriffen und menschlicher Freigabe. | `445.33.1` | 8 |
 | [`bav-strategie-konzern`](../bav-strategie-konzern/) | Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fünf Durchführungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Düsseldorfer Boutique-Stil. | `445.33.1` | 59 |
 | [`bea-versand`](../bea-versand/) | Ein Skill für die beA-Versandvorbereitung beliebiger Dokumente: Anlagen aus Inhalt und Kontext zuordnen, PDF-Kopien erzeugen, erste Anlagenseiten stempeln und Dateien passend benennen. Mit einem Werkstatt-Prompt und der Modefuchs-Testakte. | `445.33.1` | 1 |
 | [`beamtenrecht`](../beamtenrecht/) | Beamtenrecht für Bund, Länder und Richterdienst: Status, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Richterlaufbahn, Landesrecht und verständliche Mandatsführung. | `445.33.1` | 179 |

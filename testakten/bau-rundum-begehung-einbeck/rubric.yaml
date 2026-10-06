@@ -1,0 +1,73 @@
+name: bau-rundum-begehung-einbeck
+plugin: bauwirtschaft-anfaenger
+author: Klotzkette
+description: "Begehungsmemo, Randnotizen, Messwerte und zwei illustrierte Befundskizzen zu Ausbauarbeiten; getrennte Vertrags- und Abnahmestände der beteiligten Gewerke."
+checks:
+  - id: fachpruefung-1
+    check_type: human_review
+    description: "Einzelbeobachtungen mit Raum, Bauteil, Zeit, Quelle und Messgrenze erfassen; B01 0,4 mm nicht zu 4 mm machen und L14 nicht als L12 führen."
+  - id: fachpruefung-2
+    check_type: human_review
+    description: "Gewerke und Firmen zuordnen, aber bei Fensteranschluss und Bodenablauf keine alleinige Verursachung aus der Vertragskarte ableiten."
+  - id: fachpruefung-3
+    check_type: human_review
+    description: "Abnahme Elektro vom 10.09. getrennt von den noch nicht abgenommenen Gewerken behandeln; passende Rechtsgrundlage und Fristen fachlich prüfen lassen, nicht blind vereinheitlichen."
+  - id: fachpruefung-4
+    check_type: human_review
+    description: "Skizzen nicht als Fotos oder Messpläne bezeichnen; angebotene Termine nicht zu gesetzten Fristen und Beobachtungen nicht zu bewiesenen Ursachen umdeuten."
+  - id: original-01
+    check_type: file_exists
+    path: "01_Lenz_an_Doering.eml"
+    description: "Eigenständige Originalunterlage 01_Lenz_an_Doering.eml"
+  - id: original-02
+    check_type: file_exists
+    path: "02_Begehungsmemo.docx"
+    description: "Eigenständige Originalunterlage 02_Begehungsmemo.docx"
+  - id: original-03
+    check_type: file_exists
+    path: "03_Randnotizen_Lenz.txt"
+    description: "Eigenständige Originalunterlage 03_Randnotizen_Lenz.txt"
+  - id: original-04
+    check_type: file_exists
+    path: "04_Vertrag_Ausbau.docx"
+    description: "Eigenständige Originalunterlage 04_Vertrag_Ausbau.docx"
+  - id: original-05
+    check_type: file_exists
+    path: "05_Gewerkekarte.pdf"
+    description: "Eigenständige Originalunterlage 05_Gewerkekarte.pdf"
+  - id: original-06
+    check_type: file_exists
+    path: "06_Abnahme_Elektro.pdf"
+    description: "Eigenständige Originalunterlage 06_Abnahme_Elektro.pdf"
+  - id: original-07
+    check_type: file_exists
+    path: "07_Montagebericht_Tueren.docx"
+    description: "Eigenständige Originalunterlage 07_Montagebericht_Tueren.docx"
+  - id: original-08
+    check_type: file_exists
+    path: "08_Quellwerk_Rueckmeldung.eml"
+    description: "Eigenständige Originalunterlage 08_Quellwerk_Rueckmeldung.eml"
+  - id: original-09
+    check_type: file_exists
+    path: "09_Ablesungen.csv"
+    description: "Eigenständige Originalunterlage 09_Ablesungen.csv"
+  - id: original-10
+    check_type: file_exists
+    path: "10_Skizze_F07.png"
+    description: "Eigenständige Originalunterlage 10_Skizze_F07.png"
+  - id: original-11
+    check_type: file_exists
+    path: "11_Skizze_Waschraum.png"
+    description: "Eigenständige Originalunterlage 11_Skizze_Waschraum.png"
+  - id: original-12
+    check_type: file_exists
+    path: "12_Zugangskalender.txt"
+    description: "Eigenständige Originalunterlage 12_Zugangskalender.txt"
+  - id: original-13
+    check_type: file_exists
+    path: "13_Tagesbericht_Ausbau.pdf"
+    description: "Eigenständige Originalunterlage 13_Tagesbericht_Ausbau.pdf"
+  - id: original-14
+    check_type: file_exists
+    path: "14_Elektro_Termin.eml"
+    description: "Eigenständige Originalunterlage 14_Elektro_Termin.eml"

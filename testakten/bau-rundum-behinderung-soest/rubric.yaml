@@ -1,0 +1,65 @@
+name: bau-rundum-behinderung-soest
+plugin: bauwirtschaft-anfaenger
+author: Klotzkette
+description: "Ein Bauleiterdiktat und zeitnahe Ausführungsbelege zu einer nicht freigegebenen Arbeitsfläche, einem geänderten Öffnungsplan und verfügbaren Ausweicharbeiten. Eine förmliche Anzeige liegt noch nicht vor."
+checks:
+  - id: fachpruefung-1
+    check_type: human_review
+    description: "Aus Diktat und Belegen erst einen förmlichen Entwurf erstellen; die Akte enthält noch keine bereits versandte Behinderungsanzeige."
+  - id: fachpruefung-2
+    check_type: human_review
+    description: "Offene Rinne und geändertes Bewehrungsdetail mit jeweils eigenem Beginn, Ursache, Betroffenheit und Nachweis darstellen; Adressat und Zugang vor Versand prüfen."
+  - id: fachpruefung-3
+    check_type: human_review
+    description: "Ausweicharbeiten West und freie Ostabschnitte berücksichtigen; Koordination und Warten nicht ohne Aufschlüsselung als Stillstand abrechnen."
+  - id: fachpruefung-4
+    check_type: human_review
+    description: "Keine sichere Verlängerung bis zum Rohbauende, keine ungeprüfte Geldforderung und keine erfundene Freigabe erklären; technische und rechtliche Kontrolle vor Versand vorsehen."
+  - id: original-01
+    check_type: file_exists
+    path: "01_Kroll_Buero.eml"
+    description: "Eigenständige Originalunterlage 01_Kroll_Buero.eml"
+  - id: original-02
+    check_type: file_exists
+    path: "02_Diktat_Kroll.txt"
+    description: "Eigenständige Originalunterlage 02_Diktat_Kroll.txt"
+  - id: original-03
+    check_type: file_exists
+    path: "03_Vertrag_Rohbau.docx"
+    description: "Eigenständige Originalunterlage 03_Vertrag_Rohbau.docx"
+  - id: original-04
+    check_type: file_exists
+    path: "04_Ablauf_01.docx"
+    description: "Eigenständige Originalunterlage 04_Ablauf_01.docx"
+  - id: original-05
+    check_type: file_exists
+    path: "05_Bautagebuch.pdf"
+    description: "Eigenständige Originalunterlage 05_Bautagebuch.pdf"
+  - id: original-06
+    check_type: file_exists
+    path: "06_Lieferbeleg.pdf"
+    description: "Eigenständige Originalunterlage 06_Lieferbeleg.pdf"
+  - id: original-07
+    check_type: file_exists
+    path: "07_Beton_Disposition.pdf"
+    description: "Eigenständige Originalunterlage 07_Beton_Disposition.pdf"
+  - id: original-08
+    check_type: file_exists
+    path: "08_Simmen_Plan.eml"
+    description: "Eigenständige Originalunterlage 08_Simmen_Plan.eml"
+  - id: original-09
+    check_type: file_exists
+    path: "09_Stundenliste.csv"
+    description: "Eigenständige Originalunterlage 09_Stundenliste.csv"
+  - id: original-10
+    check_type: file_exists
+    path: "10_Arbeitsfelder.png"
+    description: "Eigenständige Originalunterlage 10_Arbeitsfelder.png"
+  - id: original-11
+    check_type: file_exists
+    path: "11_Ablauf_02.docx"
+    description: "Eigenständige Originalunterlage 11_Ablauf_02.docx"
+  - id: original-12
+    check_type: file_exists
+    path: "12_Telefonnotizen.txt"
+    description: "Eigenständige Originalunterlage 12_Telefonnotizen.txt"

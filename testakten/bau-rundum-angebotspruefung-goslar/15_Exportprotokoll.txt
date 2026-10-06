@@ -1,0 +1,22 @@
+Zweckverband Bildungsforum Harz
+Okerterrasse 9, 38640 Goslar
+Verfahren ZBH-26-31 / Sitzung 05.10.2026
+
+1 Ablauf
+
+09:59:59: Drei verschlüsselte Container gespeichert. Inhaltszugriff gesperrt.
+10:00:00: Angebotsfrist abgelaufen. Keine weitere Abgabe in dieser Sitzung.
+10:03:12: Öffnungsfreigabe durch Miriam Ehlers und David Schütz.
+10:21:09: Export der lesbaren Hauptangebote in den geschützten Arbeitsordner abgeschlossen.
+
+2 Prüfsummen der exportierten Hauptangebote
+
+7c0394edbd34e56d20990f3f49799f50b172f1b35b27c70975833964bc3f7a4c  05_Angebot_Rautenbau.pdf
+c4faf1b1e0d7f8c6ba40d1155ca16b57569ecab135520e1fb72425d830315d11  06_Angebot_Okerfenster.pdf
+bffb39395894a06cb1ae4a8963f704c651c434f2f5ddfc5d98e32b0a0fad4c79  07_Angebot_Bergglas.pdf
+
+Die Prüfsummen beziehen sich auf die hier abgelegten PDF-Dateien nach Entschlüsselung, nicht auf die verschlüsselten Transportcontainer. Eine externe qualifizierte Zeitstempelprüfung wird mit diesem Protokoll nicht bescheinigt. Die Summen gestatten den Abgleich der Arbeitskopie mit dem Export.
+
+3 Abschluss
+
+Gez. David Schütz, Exportverantwortlicher. Gegenkontrolle: Miriam Ehlers.

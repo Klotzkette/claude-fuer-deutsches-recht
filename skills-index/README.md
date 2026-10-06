@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22810 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22826 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -41,6 +41,8 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [bauvergabe-unterlagen](./bauvergabe-unterlagen.md) (11 Skills)
 - [bauvergabe-verfahren](./bauvergabe-verfahren.md) (11 Skills)
 - [bauwirtschaft](./bauwirtschaft.md) (29 Skills)
+- [bauwirtschaft-anfaenger](./bauwirtschaft-anfaenger.md) (8 Skills)
+- [bauwirtschaft-fortgeschrittene](./bauwirtschaft-fortgeschrittene.md) (8 Skills)
 - [bav-strategie-konzern](./bav-strategie-konzern.md) (59 Skills)
 - [bea-versand](./bea-versand.md) (1 Skills)
 - [beamtenrecht](./beamtenrecht.md) (179 Skills)

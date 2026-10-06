@@ -1,0 +1,82 @@
+name: bau-rundum-vgv-bewerbung-hameln
+plugin: bauwirtschaft-fortgeschrittene
+description: VgV-Teilnahmeantrag eines Planungsbüros mit veröffentlichten Auswahlkriterien,
+  belastbaren Referenzbelegen, Kapazitätskonflikten und einem vorläufigen Konzept
+  für die spätere Angebotsphase.
+checks:
+- id: sachpruefung-1
+  check_type: human_review
+  description: Mindestanforderungen, Bewerberauswahl und spätere Zuschlagskriterien
+    auseinanderhalten.
+- id: sachpruefung-2
+  check_type: human_review
+  description: Referenzen nach Zeitraum, eigenem Leistungsanteil und tatsächlich dokumentierter
+    Leistung auswählen.
+- id: sachpruefung-3
+  check_type: human_review
+  description: Teamkapazität und Fremdleistungen belegen; fehlende Zusagen nicht durch
+    Konzeptbehauptungen ersetzen.
+- id: original-01
+  check_type: file_exists
+  path: 01_Bekanntmachungsdaten.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-02
+  check_type: file_exists
+  path: 02_Auswahl_und_Zuschlagskriterien.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-03
+  check_type: file_exists
+  path: 03_Projektbeschreibung.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-04
+  check_type: file_exists
+  path: 04_Referenzarchiv.csv
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-05
+  check_type: file_exists
+  path: 05_Referenz_Hofgarten.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-06
+  check_type: file_exists
+  path: 06_Referenz_Suedbogen.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-07
+  check_type: file_exists
+  path: 07_Kruse_Referenzzuordnung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-08
+  check_type: file_exists
+  path: 08_Versicherungsbestaetigung.pdf
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-09
+  check_type: file_exists
+  path: 09_Teamprofile.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-10
+  check_type: file_exists
+  path: 10_Personaleinsatz.xlsx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-11
+  check_type: file_exists
+  path: 11_Bendel_Kapazitaet.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-12
+  check_type: file_exists
+  path: 12_Konzeptstand_Buero.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-13
+  check_type: file_exists
+  path: 13_Antwort_Vergabestelle.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-14
+  check_type: file_exists
+  path: 14_Buerostandard_Bewerbungen.docx
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-15
+  check_type: file_exists
+  path: 15_Auftrag_Bueroleitung.eml
+  description: Eigenständige Originalunterlage vorhanden.
+- id: original-16
+  check_type: file_exists
+  path: 16_Bewerberangaben.docx
+  description: Eigenständige Originalunterlage vorhanden.

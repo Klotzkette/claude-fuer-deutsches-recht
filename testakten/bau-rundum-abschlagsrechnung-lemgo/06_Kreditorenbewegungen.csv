@@ -1,0 +1,7 @@
+Buchung;Datum;Beleg;Art;Betrag_EUR;Zahlungsreferenz
+K1001;2026-06-02;WB-26051;Rechnung_brutto;46886;
+K1034;2026-06-22;WB-26051;Auszahlung;44541.7;Z260622-11
+K1077;2026-07-02;WB-26079;Zuwachs_brutto;63260.4;
+K1091;2026-07-21;WB-26079;Auszahlung;48097.38;Z260721-08
+K1103;2026-07-29;WB-26079;Auszahlung;8000;Z260729-03
+K1104;2026-07-29;WB-26079;Noch_nicht_ausgezahlt;4000;Beanstandung Sockel

@@ -1,0 +1,77 @@
+name: bau-rundum-bieterfragen-celle
+plugin: bauwirtschaft-anfaenger
+author: Klotzkette
+description: "Öffentliche Bauvergabe einer Lesesaalmodernisierung mit vorläufiger Leistungsbeschreibung, Bestandsdaten, Produktnotiz und später eingegangenen Bieterfragen. Antworten und Berichtigung sind noch nicht erstellt."
+checks:
+  - id: fachpruefung-1
+    check_type: human_review
+    description: "Vorabprüfung der LB und spätere Bündelung der drei Bieterfragen als zwei zeitlich getrennte Bearbeitungsschritte abbilden."
+  - id: fachpruefung-2
+    check_type: human_review
+    description: "32/36 Leuchten, Gleichwertigkeitsmerkmale, Rastermaße, Steuerung, Leitungsumfang und Arbeitsfenster mit konkreten Quellen erfassen."
+  - id: fachpruefung-3
+    check_type: human_review
+    description: "Aus dem Zusatz oder gleichwertig keine automatische Zulässigkeit der Produktvorgabe ableiten; technische Kriterien und vergaberechtliche Prüfung offenlegen."
+  - id: fachpruefung-4
+    check_type: human_review
+    description: "Entwurf gemeinsamer Antworten von ungeklärten technischen Fakten und nötigen Unterlagenänderungen trennen; weder Veröffentlichung noch Friständerung erfinden."
+  - id: original-01
+    check_type: file_exists
+    path: "01_Vorabpruefung.eml"
+    description: "Eigenständige Originalunterlage 01_Vorabpruefung.eml"
+  - id: original-02
+    check_type: file_exists
+    path: "02_Vergabedaten.pdf"
+    description: "Eigenständige Originalunterlage 02_Vergabedaten.pdf"
+  - id: original-03
+    check_type: file_exists
+    path: "03_Leistungsbeschreibung_02.docx"
+    description: "Eigenständige Originalunterlage 03_Leistungsbeschreibung_02.docx"
+  - id: original-04
+    check_type: file_exists
+    path: "04_Raumbuch.pdf"
+    description: "Eigenständige Originalunterlage 04_Raumbuch.pdf"
+  - id: original-05
+    check_type: file_exists
+    path: "05_Produktnotiz.docx"
+    description: "Eigenständige Originalunterlage 05_Produktnotiz.docx"
+  - id: original-06
+    check_type: file_exists
+    path: "06_Bestandsaufnahme.pdf"
+    description: "Eigenständige Originalunterlage 06_Bestandsaufnahme.pdf"
+  - id: original-07
+    check_type: file_exists
+    path: "07_Bieterfrage_Mengen.eml"
+    description: "Eigenständige Originalunterlage 07_Bieterfrage_Mengen.eml"
+  - id: original-08
+    check_type: file_exists
+    path: "08_Bieterfrage_Fabrikat.eml"
+    description: "Eigenständige Originalunterlage 08_Bieterfrage_Fabrikat.eml"
+  - id: original-09
+    check_type: file_exists
+    path: "09_Bieterfrage_Steuerung.eml"
+    description: "Eigenständige Originalunterlage 09_Bieterfrage_Steuerung.eml"
+  - id: original-10
+    check_type: file_exists
+    path: "10_Projektpostfach.txt"
+    description: "Eigenständige Originalunterlage 10_Projektpostfach.txt"
+  - id: original-11
+    check_type: file_exists
+    path: "11_Leuchtenzaehlung.csv"
+    description: "Eigenständige Originalunterlage 11_Leuchtenzaehlung.csv"
+  - id: original-12
+    check_type: file_exists
+    path: "12_Leuchtenschema.png"
+    description: "Eigenständige Originalunterlage 12_Leuchtenschema.png"
+  - id: original-13
+    check_type: file_exists
+    path: "13_Ablaufkalender.pdf"
+    description: "Eigenständige Originalunterlage 13_Ablaufkalender.pdf"
+  - id: original-14
+    check_type: file_exists
+    path: "14_Nutzernotiz.docx"
+    description: "Eigenständige Originalunterlage 14_Nutzernotiz.docx"
+  - id: original-15
+    check_type: file_exists
+    path: "15_Bieterpost_buendeln.eml"
+    description: "Eigenständige Originalunterlage 15_Bieterpost_buendeln.eml"

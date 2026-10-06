@@ -1,0 +1,11 @@
+Datum;Person;Anwesenheit_h;Pause_h;Ost_freier_Abschnitt_h;West_Arbeiten_h;Koordination_Warten_h;Erfasst_von
+2026-09-14;David Kroll;9,0;0,5;0,0;0,0;8,5;David Kroll
+2026-09-14;Mehmet Aydin;9,0;0,5;7,0;0,0;1,5;David Kroll
+2026-09-14;Ronja Seifert;9,0;0,5;7,0;0,0;1,5;David Kroll
+2026-09-14;Benno Schulz;9,0;0,5;3,0;4,0;1,5;David Kroll
+2026-09-14;Janis Weber;9,0;0,5;0,0;7,0;1,5;David Kroll
+2026-09-15;David Kroll;9,0;0,5;0,0;0,0;8,5;David Kroll
+2026-09-15;Mehmet Aydin;9,0;0,5;5,0;0,0;3,5;David Kroll
+2026-09-15;Ronja Seifert;9,0;0,5;5,0;0,0;3,5;David Kroll
+2026-09-15;Benno Schulz;9,0;0,5;0,0;6,0;2,5;David Kroll
+2026-09-15;Janis Weber;9,0;0,5;0,0;6,0;2,5;David Kroll
