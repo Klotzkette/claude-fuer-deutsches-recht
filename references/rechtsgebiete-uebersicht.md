@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 281 Plugins, 22799 Skills.
+Stand v445.33.1: 282 Plugins, 22810 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -165,6 +165,7 @@ Stand v445.33.1: 281 Plugins, 22799 Skills.
 | [`ki-vo-ai-act-pruefer`](../ki-vo-ai-act-pruefer/) | Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis. | `445.33.1` | 123 |
 | [`kommunale-haftpflicht`](../kommunale-haftpflicht/) | Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen. | `445.33.1` | 10 |
 | [`kommunalrecht-laender`](../kommunalrecht-laender/) | Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. | `445.33.1` | 177 |
+| [`krankenhaus-it-ki`](../krankenhaus-it-ki/) | Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte. | `445.33.1` | 11 |
 | [`krankenhausrecht`](../krankenhausrecht/) | Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. | `445.33.1` | 69 |
 | [`krankenkassenrecht-krankenversicherung`](../krankenkassenrecht-krankenversicherung/) | Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. | `445.33.1` | 162 |
 | [`kriegsdienstverweigerung-wehrdienst`](../kriegsdienstverweigerung-wehrdienst/) | Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung. | `445.33.1` | 137 |

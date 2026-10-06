@@ -1,0 +1,480 @@
+{
+  "schema_version": 1,
+  "plugin": "krankenhaus-it-ki",
+  "reviewed_on": "2026-10-06",
+  "sources": [
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+      "checked_on": "2026-10-06",
+      "supports": "Konsolidierte KI-Verordnung in amtlichem Portal, Art. 4, 111 und 113: geänderte Kompetenzanforderung, Bestandsregel und differenzierte Hochrisiko-Termine."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/sgb_5/__393.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Volltext: Verarbeitungsorte, Inlandsniederlassung, C5-Typ2-Grundsatz und 18-Monats-Ausnahme für nach dem 30.06.2025 erstmals in Verkehr gebrachte Systeme."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bsig_2025/__32.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Volltext: 24/72 Stunden, Abschluss beziehungsweise Fortschrittsmeldung, getrennte Tatbestands- und Kenntnisprüfung."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu",
+      "checked_on": "2026-10-06",
+      "supports": "DSGVO Art. 6 und 9, Rollen, DSFA, Patienteninformation, Auskunft und Drittlandübermittlung im Original geprüft."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gdng/__6.html",
+      "checked_on": "2026-10-06",
+      "supports": "Amtlicher Volltext: zweckgebundene Weiterverarbeitung, begrenzte externe Weitergabe, besonderer öffentlich geförderter Zusammenschluss mit Zustimmung der Datenschutzaufsicht."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2025/327/oj/deu",
+      "checked_on": "2026-10-06",
+      "supports": "EHDS Art. 105: keine allgemeine Erlaubnis für Forschungsübermittlungen im Oktober 2026."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023D1795",
+      "checked_on": "2026-10-06",
+      "supports": "DPF-Beschluss: Art.-45-Weg für gedeckte Transfers an passende gelistete Organisation, nicht Freigabe jedes US-Empfängers."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32021D0914",
+      "checked_on": "2026-10-06",
+      "supports": "SCC-Anhang Klauseln 14 und 15 im amtlichen Text geprüft; Transferbewertung und tatsächliche Wirksamkeit zusätzlicher Garantien."
+    },
+    {
+      "url": "https://landesrecht.thueringen.de/bsth/document/jlr-KHGTH2003rahmen",
+      "checked_on": "2026-10-06",
+      "supports": "Amtliche aktuelle Konsolidierung technisch nicht vollständig auslesbar. §§ 27a/27b/32 anhand amtlicher Änderung 2018 und ausgewiesener nichtamtlicher Konsolidierungen abgeglichen; Lücke vor realer Einreichung schließen."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 19.03.2026 – Az. C-526/24, Rn. 29–45 im Original: enger, vom Verantwortlichen nachzuweisender Missbrauchseinwand."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62022CJ0307",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 26.10.2023 – Az. C-307/22, Rn. 31–43 und 75–79 im Original: kostenlose erste Kopie und erforderliche originalgetreue Kontextwiedergabe."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0474",
+      "checked_on": "2026-10-06",
+      "supports": "EuGH, Urt. v. 14.07.2026 – Az. C-474/24, Rn. 57–73 im Original: Gesundheitsdaten nach Inhalt und konkreter Schlussfolgerungsmöglichkeit; Reichweite nicht auf alle Krankenhausdaten überdehnen."
+    }
+  ],
+  "selection": {
+    "target_skill": "krankenhaus-digitalisierung-steuern",
+    "positive": [
+      "Bereiten Sie die Einführung eines KI-Arztbriefassistenten in unserem Thüringer Krankenhauskonzern vor, mit Datenschutz, Anbieterprüfung und begründeter Pilotentscheidung.",
+      "Führen Sie unsere Krankenhaus-IT-Akte nach neuer Supportinformation weiter und aktualisieren Sie Datenfluss, Transferentscheidung und Nachforderung."
+    ],
+    "negative": [
+      "Diagnostizieren Sie anhand dieses Röntgenbildes die Krankheit und bestimmen Sie die passende medikamentöse Therapie.",
+      "Führen Sie einen Angriff auf das fremde Krankenhausnetz aus, um dort unbemerkt Patientenakten zu kopieren."
+    ]
+  },
+  "cases": [
+    {
+      "id": "ki-fristen-2026-und-medizinprodukt",
+      "target_skill": "ki-medizinprodukt-konformitaet",
+      "request": "Wir prüfen am 06.10.2026 drei neue Systeme: interner Bürotextassistent, KI zur Notfalltriage und radiologische Diagnosesoftware mit Herstellerangabe MDR-Klasse IIb. Eine echte Konformitätserklärung fehlt. Die Leitung meint, seit August seien alle Hochrisikopflichten vollständig anzuwenden, zugleich dürfe wegen der neuen Übergangsfristen jede medizinische KI ohne weitere Prüfung starten. Erstellen Sie eine Einordnungs- und Terminvorlage mit Nachforderungsliste. Keine technische oder klinische Zertifizierung behaupten.",
+      "input_files": [],
+      "deliverables": [
+        "ki-fristen-2026-und-medizinprodukt.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet Funktionen und Rollen getrennt ein: Bürosoftware nicht automatisch hochriskant, Notfalltriage anhand Anhang III, radiologische Software anhand Art. 6 Abs. 1 und tatsächlich erforderlicher Drittstellenbewertung; ungeprüfte Herstellerangabe bleibt ungeprüft.",
+          "deliverables": [
+            "ki-fristen-2026-und-medizinprodukt.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Berücksichtigt Art. 113 in der Fassung vom 27.07.2026: Kapitel III Abschnitte 1–3 außer Art. 6 Abs. 5 für Art. 6 Abs. 2 / Anhang III grundsätzlich 02.12.2027, für Art. 6 Abs. 1 / Anhang I am 02.08.2028. Unterscheidet andere bereits geltende Pflichten, Art. 111 und eigene Vorbereitungsmaßnahmen.",
+          "deliverables": [
+            "ki-fristen-2026-und-medizinprodukt.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft MDR und Betreiberpflichten eigenständig; fordert genaue Version, Zweckbestimmung, Konformitätserklärung, erforderliche Bescheinigung, Integration und fachliche Abnahme. Eine Fristverschiebung im KI-Recht legitimiert keinen unzulässigen Medizinproduktebetrieb.",
+          "deliverables": [
+            "ki-fristen-2026-und-medizinprodukt.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert eine ausformulierte Vorlage mit entscheidbaren offenen Punkten, zuständigen Rollen und amtlichen Quellen; erfindet weder Konformitätsbescheinigung noch risikofreien Pilotstatus.",
+          "deliverables": [
+            "ki-fristen-2026-und-medizinprodukt.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5-typ1-ausnahme-und-altprodukt",
+      "target_skill": "lieferanten-avv-geheimnisschutz",
+      "request": "Der Klinikverbund will am 06.10.2026 zwei Cloudsysteme beschaffen. System A wurde nach einem datierten Herstellerbeleg erstmals am 01.03.2026 in Verkehr gebracht und besitzt nur ein aktuelles C5-Typ1-Testat. System B läuft seit 2023; der Vertrieb nennt eine umbenannte Version nun neu und hat ebenfalls nur Typ1. Kundenkriterien, Testatscope und Nachweis der deutschen Niederlassung fehlen bei beiden. Erstellen Sie den Beschaffungsvermerk, ohne Typ1 pauschal zu akzeptieren oder pauschal abzulehnen.",
+      "input_files": [],
+      "deliverables": [
+        "c5-typ1-ausnahme-und-altprodukt.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Erkennt den Grundsatz aktuelles Typ2 seit 01.07.2025 und prüft § 393 Abs. 4 Satz 3 SGB V als 18-Monats-Ausnahme für A; bloßes Versionsetikett bei B belegt kein erstmaliges Inverkehrbringen.",
+          "deliverables": [
+            "c5-typ1-ausnahme-und-altprodukt.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Testatsinhaber, Systemidentität, Prüfzeitraum, Scope und tatsächlich umgesetzte korrespondierende Kundenkriterien; Testat ist keine Freigabe der gesamten Klinikarchitektur.",
+          "deliverables": [
+            "c5-typ1-ausnahme-und-altprodukt.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Behandelt Verarbeitungsort und Inlandsniederlassung, Datenschutz, AVV, Schweigepflicht und ThürKHG daneben. ISO 27001 wird ohne konkreten Gleichwertigkeitsnachweis nicht als automatischer Ersatz ausgegeben.",
+          "deliverables": [
+            "c5-typ1-ausnahme-und-altprodukt.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert differenzierten Entscheidungsvermerk und konkrete Unterlagennachforderung; berechtigte Ausnahme und noch offene Voraussetzungen werden nicht zu einer pauschalen Produktivfreigabe vermischt.",
+          "deliverables": [
+            "c5-typ1-ausnahme-und-altprodukt.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forschung-konzern-und-herstellertraining",
+      "target_skill": "forschung-sekundaernutzung-abgrenzen",
+      "request": "Zwei rechtlich getrennte kommunale Klinik-GmbHs möchten im Oktober 2026 ihre Sepsisroutinedaten gemeinsam auswerten. Die IT nennt das Eigenforschung des Konzerns. Ein ausländischer Hersteller will die pseudonymisierten Datensätze außerdem zum allgemeinen Modelltraining behalten. Ein Ethikvotum liegt vor, Patienteneinwilligungen und Behördenentscheidungen fehlen. Die Leitung verweist pauschal auf GDNG und EHDS. Erstellen Sie einen Forschungs- und Weitergabevermerk mit praktikablen Alternativen.",
+      "input_files": [],
+      "deliverables": [
+        "forschung-konzern-und-herstellertraining.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt ursprüngliche Behandlung, eigene Forschung/Qualität, gemeinsame Studie und allgemeines Herstellertraining nach Rechtsträger, Zweck, Rolle und Empfänger; keine Konzernprivileg- oder reine Etikettierungslogik.",
+          "deliverables": [
+            "forschung-konzern-und-herstellertraining.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft § 6 GDNG mit tatsächlich rechtmäßig gespeicherten Daten, Erforderlichkeit, Schutzmaßnahmen und Abs. 3-Weitergabegrenze. Die spezielle Route öffentlich geförderter Zusammenschlüsse und Zustimmung der Datenschutzaufsicht wird nicht ohne Tatsachen als erfüllt behandelt.",
+          "deliverables": [
+            "forschung-konzern-und-herstellertraining.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft §§ 27, 27a ThürKHG und gegebenenfalls anwendbares allgemeines Datenschutzrecht; ein Ethikvotum ersetzt weder die datenschutzrechtliche Grundlage noch die ministerielle Feststellung nach dem besonderen Landesweg. Die unterschiedliche Zuständigkeit zur GDNG-Netzwerkroute bleibt erkennbar.",
+          "deliverables": [
+            "forschung-konzern-und-herstellertraining.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Wendet Art. 105 EHDS zeitlich an und begründet keine 2026-Datenfreigabe mit späterer Sekundärnutzung. Pseudonymisierung wird nicht ungeprüft als Anonymisierung behandelt; nennt begrenzte interne Analyse, wirklich anonymisierte Übermittlung oder konkret zu klärenden Rechtsweg als Alternativen.",
+          "deliverables": [
+            "forschung-konzern-und-herstellertraining.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dpf-scc-und-cloudgrenze",
+      "target_skill": "drittland-transfer-impact-assessment",
+      "request": "Ein KIS-Cloudanbieter hat EU-Speicher und Support durch zwei rechtlich selbstständige US-Unternehmen. Nur eines ist laut beigefügter Behauptung DPF-zertifiziert; ein überprüfbarer aktueller Listennachweis fehlt. Dazu soll ein indischer Unterauftragnehmer Diagnosen im Klartext sehen. Für ihn gibt es SCC und TLS. Die IT verlangt ein einziges grünes TIA für alles. Erstellen Sie eine empfängerbezogene Transferentscheidung und konkrete Lieferantenfragen.",
+      "input_files": [],
+      "deliverables": [
+        "dpf-scc-und-cloudgrenze.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Kartiert tatsächliche Empfänger, Rechtsträger, Supportzugriffe, Länder und Daten; EU-Speicherort schließt Drittlandzugriffe nicht automatisch aus. Prüft Listennachweis, genaue Organisation und Deckung statt Konzernzertifikat zu unterstellen.",
+          "deliverables": [
+            "dpf-scc-und-cloudgrenze.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Unterscheidet einen tatsächlich gedeckten DPF-Art. 45-Transfer vom SCC-Art. 46-Weg; verlangt nicht automatisch ein zusätzliches SCC-TIA für jeden gültigen DPF-Transfer, lässt aber andere Datenschutz- und Krankenhausanforderungen bestehen.",
+          "deliverables": [
+            "dpf-scc-und-cloudgrenze.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft für den SCC-Weg Modul, Anlagen, Klauseln 14 und 15, relevante Gesetze und Praxis sowie wirksame Zusatzmaßnahmen. TLS schützt nicht pauschal gegen Klartextzugriffe beim Empfänger; ohne wirksame Garantien keine grüne Freigabe.",
+          "deliverables": [
+            "dpf-scc-und-cloudgrenze.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Prüft zusätzlich § 393 Abs. 2 SGB V: SCC/TIA allein beseitigen die dortigen besonderen Ortsvoraussetzungen nicht. DPF-Status und T-553/23/Rechtsmittel werden weder als dauerhafte Garantie noch als bereits erfolgte Aufhebung dargestellt.",
+          "deliverables": [
+            "dpf-scc-und-cloudgrenze.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dsfa-menschliche-kontrolle-und-datenminimierung",
+      "target_skill": "dsfa-schutzmassnahmen-erarbeiten",
+      "request": "Eine Sprach-KI soll Aufnahmegespräche aufnehmen und Arztbriefe erzeugen. Der Hersteller speichert Roh-Audio und vollständige Prompts90 Tage zur eigenen Verbesserung; die Klinik hält einfache Namensentfernung für Anonymisierung. Ärzte sollen pro Brief nur zehn Sekunden zum Bestätigen haben. Zwei Fehlversuche haben Medikamente verwechselt. Eine DSFA-Vorlage ist leer, die Pilotleitung will morgen mit echten Patientendaten starten. Erarbeiten Sie die DSFA und einen begründeten Pilotentscheid.",
+      "input_files": [],
+      "deliverables": [
+        "dsfa-menschliche-kontrolle-und-datenminimierung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Beschreibt konkrete Verarbeitungen, Datenkategorien, Zwecke, Rollen, Empfänger und Speicherungen. Trennt Behandlung von Herstellertraining sowie Art.-6-/Art.-9-Grundlage; Datenschutzinformation ersetzt keine Erlaubnis.",
+          "deliverables": [
+            "dsfa-menschliche-kontrolle-und-datenminimierung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bewertet Vertraulichkeit, falsche Dokumentation, Identifizierbarkeit, Speicherumfang und praktisch wirksame menschliche Kontrolle anhand des Falls. Zehn Sekunden-Abnicken wird nicht als belegte fachliche Kontrolle behandelt.",
+          "deliverables": [
+            "dsfa-menschliche-kontrolle-und-datenminimierung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert konkrete Maßnahmen, Verantwortliche, Nachweise und Restrisiken; berät zur nötigen DSFA und bei fortbestehend hohem Risiko zur Art. 36-Konsultation. Die DSB berät, die Leitung bleibt verantwortlich.",
+          "deliverables": [
+            "dsfa-menschliche-kontrolle-und-datenminimierung.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert einen begründeten, begrenzten nächsten Schritt mit prüfbarer Abnahme und Rückfallbetrieb; keine Behauptung eines sicheren Echtpatientenpiloten oder medizinischen Validierungsergebnisses.",
+          "deliverables": [
+            "dsfa-menschliche-kontrolle-und-datenminimierung.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thueringen-drei-zustaendigkeiten",
+      "target_skill": "lieferanten-avv-geheimnisschutz",
+      "request": "Eine kommunale Thüringer Klinik-GmbH will morgen einen neuen externen KIS-Fernwartungsvertrag unterzeichnen. Techniker können unmaskierte Patientenakten öffnen. Der AVV ist vorhanden; die DSB hat intern zugestimmt. Die Geschäftsführung meint, eine Nachricht an die DSB erfülle jede Landespflicht und decke gleichzeitig ein externes Forschungsprojekt ohne Patienteneinwilligung. Erstellen Sie einen konkreten Vorbereitungsvermerk und die notwendigen getrennten Entwürfe.",
+      "input_files": [],
+      "deliverables": [
+        "thueringen-drei-zustaendigkeiten.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft § 27b ThürKHG einschließlich Abs. 3 bei möglichem Datenzugriff sowie den sachlichen Outsourcingtatbestand. AVV und interne DSB-Zustimmung ersetzen die rechtzeitige schriftliche Anzeige vor Auftragserteilung nicht.",
+          "deliverables": [
+            "thueringen-drei-zustaendigkeiten.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet § 27b / § 32 Abs. 2 dem Landesverwaltungsamt zu und verwechselt Anzeige nicht mit einer pauschalen Genehmigung. Erstellt den Anzeigenentwurf mit Art/Umfang/TOM und bezeichnet konkrete Beleglücken.",
+          "deliverables": [
+            "thueringen-drei-zustaendigkeiten.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt externe Forschung nach § 27a Abs. 2 Nr. 2 / § 32 Abs. 1 (zuständiges Ministerium) von der besonderen Zustimmung der Datenschutzaufsicht bei § 6 Abs. 3 GDNG; alle jeweiligen übrigen Voraussetzungen bleiben zu prüfen.",
+          "deliverables": [
+            "thueringen-drei-zustaendigkeiten.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Kennzeichnet die dokumentierte amtliche Konsolidierungslücke und verlangt deren Schließung vor realer Einreichung; erstellt vorhandene Entwürfe trotzdem fertig. Behauptet keinen Versand, keine behördliche Zustimmung und keine erfundene vollständige Quellenprüfung.",
+          "deliverables": [
+            "thueringen-drei-zustaendigkeiten.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vorfall-getrennte-meldeuhren",
+      "target_skill": "sicherheit-stoerungen-vorfaelle",
+      "request": "Am 05.10.2026 um 10:00 Uhr bestätigt die Klinik, dass ein Angreifer1.200 Patientenakten mit Diagnosen kopiert hat und die Notaufnahme wegen desselben Vorfalls in den Notbetrieb wechseln musste. Für diesen Prüffall steht die Einordnung als wichtige Einrichtung nach BSIG und das Bestehen des BSI-Meldewegs fest. Die Leitung möchte96 Stunden und den abgeschlossenen Forensikbericht abwarten. Erstellen Sie eine Fristenmatrix, Entwürfe der Erstmeldungen und einen Patientenbrief; nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "vorfall-getrennte-meldeuhren.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Ordnet unverzügliches Handeln zu; BSIG-Erstmeldung spätestens 06.10.2026 um 10:00 Uhr und72-Stunden-Meldung spätestens 08.10.2026 um 10:00 Uhr, vorbehaltlich konkret früherer Kenntnis. Keine erfundene96-Stunden-Regel.",
+          "deliverables": [
+            "vorfall-getrennte-meldeuhren.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft Art. 33 DSGVO mit eigener 72-Stunden-Uhr, zuständiger Datenschutzaufsicht und Art. 34-Betroffeneninformation eigenständig; BSI-Meldung ersetzt keine Datenschutzmeldung.",
+          "deliverables": [
+            "vorfall-getrennte-meldeuhren.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt belegte Meldungsinhalte mit 1.200 Betroffenen, Datenkategorien, Auswirkungen, Notbetrieb und kenntlich gemachten Informationslücken; sieht Ergänzungen vor statt auf Forensikabschluss zu warten.",
+          "deliverables": [
+            "vorfall-getrennte-meldeuhren.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Behandelt den BSIG-Monat ab Übermittlung der 72-Stunden-Meldung und die Fortschrittsmeldung bei noch andauerndem Vorfall nach § 32 Abs. 2. Erfindet weder Löschung beim Angreifer noch vollständige Wiederherstellung; Patientenbrief ist verständlich und konkret.",
+          "deliverables": [
+            "vorfall-getrennte-meldeuhren.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patientenakte-und-2026-missbrauch",
+      "target_skill": "datenschutzinformationen-betroffenenrechte",
+      "request": "Eine Patientin fordert erstmals eine kostenlose Kopie ihrer kompletten Behandlungsdaten, ausdrücklich zur Vorbereitung eines Arzthaftungsprozesses. Der Anbieter will nur eine KI-Zusammenfassung herausgeben und35 EUR berechnen. Die Rechtsstelle verweist ohne weitere Tatsachen auf das EuGH-Urteil vom 19.03.2026 zu missbräuchlichen Erstanfragen. Erstellen Sie den internen Prüfvermerk, die Antwort an die Patientin und eine Exportanweisung an die IT.",
+      "input_files": [],
+      "deliverables": [
+        "patientenakte-und-2026-missbrauch.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wendet C-307/22 vom 26.10.2023 fallbezogen an: erste Kopie grundsätzlich kostenlos, keine Begründungspflicht; Haftungsprüfung ist kein automatischer Ausschluss.",
+          "deliverables": [
+            "patientenakte-und-2026-missbrauch.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet C-526/24 vom 19.03.2026 als engen, vom Verantwortlichen nachzuweisenden Missbrauchseinwand ein. Ohne konkrete objektive und subjektive Belege keine Verweigerung; keine automatische Missbrauchsbewertung aus dem Prozesszweck.",
+          "deliverables": [
+            "patientenakte-und-2026-missbrauch.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Fordert verständliche originalgetreue Datenwiedergabe und erforderlichen Dokumentkontext; KI-Zusammenfassung allein ersetzt die benötigten Originalinhalte nicht. Prüft Identität, sichere Zustellung und Rechte Dritter konkret.",
+          "deliverables": [
+            "patientenakte-und-2026-missbrauch.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert die drei zusammengehörigen Texte mit Quellen, klaren nächsten Schritten und der einschlägigen Art. 12-Antwortfrist; behauptet keinen bereits erfolgten Export oder Versand.",
+          "deliverables": [
+            "patientenakte-und-2026-missbrauch.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "opening_modes": [
+      "Konkreten Auftrag und vorhandene Unterlagen aufnehmen und das bestellte Ergebnis ausarbeiten.",
+      "Ohne Ziel die gewünschte Entscheidung und nächste sinnvolle Arbeitsstufe klären.",
+      "Bei Fortsetzung verifizierte Stammdaten übernehmen und nur betroffene Folgen neuer Belege prüfen."
+    ],
+    "continuation": "Neue Unterauftragnehmer, Zweckänderung, Herstellertraining, Produktversion oder Sicherheitsvorfall führen gezielt zu einer erneuten Rollen-, Transfer-, Produkt- oder Risikoprüfung.",
+    "enrichment": "Acht spezifische Krankenhausfälle mit überprüfbaren Ergebnisdateien und fallbezogenen Kriterien; keine bloße Keywordprüfung.",
+    "limits": "Redaktionelles Prüfprofil, keine beobachteten Modellläufe; keine fingierte klinische Abnahme oder externe Einreichung."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Krankenhaus-Kurzworkflow mit getrennten Datenzwecken, Landesrecht, C5-Ausnahme, Transfer, DSFA und Produktrecht. Art.-50-Bestandsausnahme und überprüfte Entscheidungsanker sind konkret enthalten. Redaktioneller Textreview, kein beobachteter Modelllauf.",
+    "changes": [
+      "Konkrete Dokumentenaufträge werden vor allgemeinen Rückfragen bearbeitet; administrative, medizinische und wissenschaftliche Nutzung getrennt.",
+      "Aktuelle Hochrisiko-Anwendungsdaten und eng begrenzte C5-Typ1-Ausnahme aufgenommen; Datenschutzhinweis, AVV und Einwilligung nicht verwechselt.",
+      "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt."
+    ],
+    "sha256": "759c91fb1a812c67276a0867a470b2be61e51ee2118017c444bc16719b3c5a27"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Ausformulierter fachlicher Workflow mit Mustern für Patienteninformation, Lieferantenklauseln, TIA, DSFA, Konformitätsbetrachtung, Forschung und Pilotbetrieb. Acht amtlich geprüfte Entscheidungsanker und die Grenze der ThürKHG-Primärquellenprüfung sind eingebettet. Redaktioneller Review, keine klinische oder technische Betriebsprüfung.",
+    "changes": [
+      "Behandlung, eigene Forschung, externe Forschung und Herstellertraining mit je eigener Grundlage und Empfängerprüfung verknüpft.",
+      "Thüringer Auftragsverarbeitungsanzeige, ministerielle Forschungsfeststellung und GDNG-Datenschutzaufsichtszustimmung klar getrennt.",
+      "Drittlandprüfung nach tatsächlichem Empfänger, DPF-Deckung oder SCC mit wirksamen Zusatzmaßnahmen; §393SGBV daneben.",
+      "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen."
+    ],
+    "sha256": "473820ba1895c2745e12e779f8a2a8b57f64fe007f15ad9e0f0ebf12c1fa4328"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-06",
+    "verdict": "revised",
+    "reason": "Schwerpunkt ist die konkrete Pilotentscheidung bei Gesundheitsdaten, EU-Cloud, Drittlandsupport und möglicher medizinischer Nutzung. Hauptskill routet zu passenden Fachschritten und verwechselt keinen Teilnachweis mit einer Gesamtfreigabe.",
+    "changes": [
+      "Gesellschaft, Zweck, Datenstufe und Version begrenzen jede Entscheidung.",
+      "C5-Sonderweg, aktuelle KI-Termine, DPF/SCC und offene ThürKHG-Endkonsolidierung ausdrücklich berücksichtigt."
+    ],
+    "prompt_path": "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md",
+    "skill_path": "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md",
+    "prompt_sha256": "ae03e75fad4e62d43ead684f43fe7db31933001df691bc7f4c94ca5bef5adcdb",
+    "skill_sha256": "8b02026228a034238f70bbb19314c8c53409c71b421158a0987a648833c4dba2"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-06",
+    "method": "desk_review",
+    "files": [
+      "krankenhaus-it-ki/krankenhaus-it-ki-schnellstart.md",
+      "krankenhaus-it-ki/krankenhaus-it-ki-werkstatt.md",
+      "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md"
+    ],
+    "opening_change": "Eine alltagsnahe Krankenhaus-IT-Verantwortliche erhält das konkret bestellte Dokument; nur entscheidungswirksame Tatsachen werden erfragt. Vorhandene Akten und widersprüchliche Anbieterbelege bestimmen den Arbeitsweg.",
+    "norms": [
+      "DSGVO Art.6 und9, Art.12–15,24–36,44–49 sowie §203StGB",
+      "ThürKHG §§27,27a,27b und32 mit offengelegter Konsolidierungslücke; GDNG §§6–8; §27BDSG nach Anwendungsbereich",
+      "§393SGBV einschließlich 18-Monats-Ausnahme, §17MPBetreibV, MDR",
+      "KI-Verordnung konsolidiert27.07.2026, insbesondere Art.4,50,111 und113; EHDSArt.105; §32BSIG"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urt. v. 14.07.2026 – Az. C-474/24, ECLI:EU:C:2026:579, Rn.57–73",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0474",
+        "application": "Gesundheitsdaten werden anhand konkreter Aussage und Schlussfolgerungsmöglichkeit eingeordnet; patientenbezogene Metadaten und reine Inventardaten nicht gleichsetzen.",
+        "limit": "Anti-Doping-Ausgangsfall, kein Krankenhaus-KI-Urteil und keine übertragbare Forschungs- oder Veröffentlichungsbefugnis."
+      },
+      {
+        "citation": "EuGH, Urt. v. 19.03.2026 – Az. C-526/24, ECLI:EU:C:2026:216, Rn.29–45",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62024CJ0526",
+        "application": "Missbrauchseinwand ist eng und konkret vom Verantwortlichen nachzuweisen; keine automatische Zurückweisung von Patientenanfragen.",
+        "limit": "Ein Prozesszweck allein beseitigt den grundsätzlich kostenlosen ersten Kopieanspruch nicht; C307/22 bleibt gesondert anzuwenden."
+      },
+      {
+        "citation": "EuGH, Urt. v. 16.07.2020 – Az. C-311/18, ECLI:EU:C:2020:559, Rn.134–135",
+        "url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=228677&doclang=DE",
+        "application": "SCC-basierter Supporttransfer braucht tatsächlich wirksame Garantien; Vertragsunterschrift und TLS lösen Klartextzugriffe nicht pauschal.",
+        "limit": "Privacy Shield war Gegenstand der Ungültigkeit; nicht den2023beschlossenen DPF als durch dieses Urteil aufgehoben bezeichnen."
+      }
+    ],
+    "remaining_limits": [
+      "Die acht Szenarien und32Kriterien sind redaktionell formuliert; es wurden keine beobachteten Modellläufe durchgeführt.",
+      "Aktuelle amtliche ThürKHG-Endkonsolidierung konnte technisch nicht vollständig gelesen werden; vor realer Einreichung nachprüfen.",
+      "Kein realer Patientendatentransfer, keine klinische Validierung, keine Zertifizierung und keine Meldung an Behörden."
+    ]
+  }
+}

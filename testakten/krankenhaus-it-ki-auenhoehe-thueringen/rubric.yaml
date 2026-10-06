@@ -1,0 +1,200 @@
+name: 'Krankenhaus Auenhöhe in Thüringen'
+plugin: krankenhaus-it-ki
+stand: '2026-10-06'
+checks:
+- id: arbeitsbestand
+  check_type: working_file_count
+  description: Alle 40 nativen Originalunterlagen sind vorhanden.
+  min: 40
+- id: format-docx
+  check_type: file_count
+  description: Mindestens 17 Originale im Format DOCX.
+  glob: '*.docx'
+  min: 17
+- id: format-eml
+  check_type: file_count
+  description: Mindestens 14 Originale im Format EML.
+  glob: '*.eml'
+  min: 14
+- id: format-pdf
+  check_type: file_count
+  description: Mindestens 5 Originale im Format PDF.
+  glob: '*.pdf'
+  min: 5
+- id: format-xlsx
+  check_type: file_count
+  description: Mindestens 4 Originale im Format XLSX.
+  glob: '*.xlsx'
+  min: 4
+- id: original-01
+  check_type: file_exists
+  description: Das Aktenstück 01 ist vorhanden.
+  path: 01_Projektauftrag.docx
+- id: original-02
+  check_type: file_exists
+  description: Das Aktenstück 02 ist vorhanden.
+  path: 02_Betriebsprofil.docx
+- id: original-03
+  check_type: file_exists
+  description: Das Aktenstück 03 ist vorhanden.
+  path: 03_Geschaeftsfuehrung_Starttermin.eml
+- id: original-04
+  check_type: file_exists
+  description: Das Aktenstück 04 ist vorhanden.
+  path: 04_Angebot_Sprechfeder.pdf
+- id: original-05
+  check_type: file_exists
+  description: Das Aktenstück 05 ist vorhanden.
+  path: 05_AVV_Lieferantenentwurf.docx
+- id: original-06
+  check_type: file_exists
+  description: Das Aktenstück 06 ist vorhanden.
+  path: 06_TOM_und_Pruefbericht.pdf
+- id: original-07
+  check_type: file_exists
+  description: Das Aktenstück 07 ist vorhanden.
+  path: 07_Unterauftragsverarbeiter.docx
+- id: original-08
+  check_type: file_exists
+  description: Das Aktenstück 08 ist vorhanden.
+  path: 08_Lieferant_Angebot_Anhang.eml
+- id: original-09
+  check_type: file_exists
+  description: Das Aktenstück 09 ist vorhanden.
+  path: 09_Datenflussaufnahme.docx
+- id: original-10
+  check_type: file_exists
+  description: Das Aktenstück 10 ist vorhanden.
+  path: 10_Supportprobe.pdf
+- id: original-11
+  check_type: file_exists
+  description: Das Aktenstück 11 ist vorhanden.
+  path: 11_TIA_Fragenstand.docx
+- id: original-12
+  check_type: file_exists
+  description: Das Aktenstück 12 ist vorhanden.
+  path: 12_DSB_Nachweise.eml
+- id: original-13
+  check_type: file_exists
+  description: Das Aktenstück 13 ist vorhanden.
+  path: 13_Patienteninformation_Entwurf.docx
+- id: original-14
+  check_type: file_exists
+  description: Das Aktenstück 14 ist vorhanden.
+  path: 14_DSFA_Erhebung.docx
+- id: original-15
+  check_type: file_exists
+  description: Das Aktenstück 15 ist vorhanden.
+  path: 15_Station_Rueckfragen.eml
+- id: original-16
+  check_type: file_exists
+  description: Das Aktenstück 16 ist vorhanden.
+  path: 16_Einkauf_Vertrag.eml
+- id: original-17
+  check_type: file_exists
+  description: Das Aktenstück 17 ist vorhanden.
+  path: 17_Zweckbestimmung_Radiaviso.pdf
+- id: original-18
+  check_type: file_exists
+  description: Das Aktenstück 18 ist vorhanden.
+  path: 18_Konformitaet_Lieferstand.docx
+- id: original-19
+  check_type: file_exists
+  description: Das Aktenstück 19 ist vorhanden.
+  path: 19_Radiaviso_Anhang.eml
+- id: original-20
+  check_type: file_exists
+  description: Das Aktenstück 20 ist vorhanden.
+  path: 20_Medizintechnik_Abgleich.docx
+- id: original-21
+  check_type: file_exists
+  description: Das Aktenstück 21 ist vorhanden.
+  path: 21_Radiologie_Wunsch.eml
+- id: original-22
+  check_type: file_exists
+  description: Das Aktenstück 22 ist vorhanden.
+  path: 22_Beinahevorfall.docx
+- id: original-23
+  check_type: file_exists
+  description: Das Aktenstück 23 ist vorhanden.
+  path: 23_Ticket_Beinahevorfall.eml
+- id: original-24
+  check_type: file_exists
+  description: Das Aktenstück 24 ist vorhanden.
+  path: 24_Forschungsprotokoll.docx
+- id: original-25
+  check_type: file_exists
+  description: Das Aktenstück 25 ist vorhanden.
+  path: 25_Datenkatalog_Forschung.docx
+- id: original-26
+  check_type: file_exists
+  description: Das Aktenstück 26 ist vorhanden.
+  path: 26_Ethikanfrage.docx
+- id: original-27
+  check_type: file_exists
+  description: Das Aktenstück 27 ist vorhanden.
+  path: 27_Forschung_Modelltraining.eml
+- id: original-28
+  check_type: file_exists
+  description: Das Aktenstück 28 ist vorhanden.
+  path: 28_MVZ_Datenanfrage.eml
+- id: original-29
+  check_type: file_exists
+  description: Das Aktenstück 29 ist vorhanden.
+  path: 29_Kooperationsentwurf.docx
+- id: original-30
+  check_type: file_exists
+  description: Das Aktenstück 30 ist vorhanden.
+  path: 30_Betriebsrat_Anfrage.pdf
+- id: original-31
+  check_type: file_exists
+  description: Das Aktenstück 31 ist vorhanden.
+  path: 31_Betriebsrat_Termin.eml
+- id: original-32
+  check_type: file_exists
+  description: Das Aktenstück 32 ist vorhanden.
+  path: 32_Notfallprobe.docx
+- id: original-33
+  check_type: file_exists
+  description: Das Aktenstück 33 ist vorhanden.
+  path: 33_ISB_Rueckmeldung.eml
+- id: original-34
+  check_type: file_exists
+  description: Das Aktenstück 34 ist vorhanden.
+  path: 34_Rechtsabteilung_Rollen.eml
+- id: original-35
+  check_type: file_exists
+  description: Das Aktenstück 35 ist vorhanden.
+  path: 35_IT_Aktenuebergabe.eml
+- id: original-36
+  check_type: file_exists
+  description: Das Aktenstück 36 ist vorhanden.
+  path: 36_Lenkungsrunde_Stand.docx
+- id: fach-1
+  check_type: human_review
+  description: Drei Vorhaben und die jeweils tatsächlichen Rollen getrennt prüfen; die MVZ-Tochter nicht allein wegen ihrer Beteiligung als Teil derselben verantwortlichen Stelle behandeln.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-2
+  check_type: human_review
+  description: Europäische Speicherregion, Drittlandzugriff und Anbietertraining unterscheiden; angekündigte Transfernachweise nicht als vorliegend behandeln.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-3
+  check_type: human_review
+  description: C5-Bericht nach Systemumfang, Stichtag, Typ und behauptetem erstmaligem Inverkehrbringen prüfen; keine pauschale Ablehnung allein wegen Typ 1.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-4
+  check_type: human_review
+  description: Medizinische Zweckbestimmung und gelieferte Version abgleichen; fehlende Nachweise nicht durch eine eigene CE-Bestätigung ersetzen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-5
+  check_type: human_review
+  description: Forschungsvorhaben, zusätzliche Modellnutzung, Pseudonymisierung und ambulante Verknüpfung einzeln prüfen; Ethikanfrage nicht als Votum behandeln.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-6
+  check_type: human_review
+  description: Fehlende Pilotmessungen offen lassen, interne Planstunden von Lieferantenkosten trennen und keine automatische Betriebsfreigabe aus einer Tabelle ableiten.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.
+- id: fach-7
+  check_type: human_review
+  description: Konkrete Unterlagen ausformulieren, entscheidende offene Angaben abfragen und externe Handlungen erst nach passender Freigabe ausführen.
+  note: Offenes Kriterium für eine spätere Anwendungsprüfung; keine automatisch bestandene juristische Bewertung.

@@ -60,10 +60,39 @@ def companion_asset_names(slugs: tuple[str, ...]) -> set[str]:
     return {f"testakte-{slug}{suffix}.zip" for slug in slugs for suffix in ("", "-einzelpdfs")}
 
 
+def scoped_asset_url(asset: str, *, root: Path = ROOT) -> str | None:
+    """An explicitly published component can precede the next complete release.
+
+    Pins are per asset, never an implicit fallback to another version. Remove a
+    pin only after that asset is verified in the corresponding complete release.
+    """
+    path = root / "scripts/scoped-release-assets.json"
+    if not path.exists():
+        return None
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if set(data) != {"schema_version", "assets"} or data["schema_version"] != 1:
+        raise ValueError(f"Unsupported scoped release configuration: {path}")
+    if not isinstance(data["assets"], dict):
+        raise ValueError("Scoped assets must map filenames to release tags")
+    for name, tag in data["assets"].items():
+        if not re.fullmatch(r"[a-z0-9][a-z0-9.-]*\.zip", name) or not re.fullmatch(r"[a-z0-9][a-z0-9.-]*", tag):
+            raise ValueError(f"Invalid scoped release route: {name!r}: {tag!r}")
+    tag = data["assets"].get(asset)
+    return f"{RELEASE_BASE}/download/{tag}/{asset}" if tag else None
+
+
+def plugin_asset_url(slug: str, *, root: Path = ROOT) -> str:
+    asset = f"{slug}.zip"
+    return scoped_asset_url(asset, root=root) or f"{RELEASE_BASE}/latest/download/{asset}"
+
+
 def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
                    root: Path = ROOT, config: Path = CONFIG) -> str:
     if suffix not in ("", "-einzelpdfs"):
         raise ValueError(f"Unsupported case ZIP suffix: {suffix!r}")
+    pin = scoped_asset_url(f"testakte-{slug}{suffix}.zip", root=root)
+    if pin:
+        return pin
     route = "latest/download"
     if slug in companion_cases(config, root):
         route = f"download/{companion_tag(version if version is not None else marketplace_version(root))}"
@@ -82,8 +111,12 @@ def rewrite_case_asset_urls(text: str, *, version: str | None = None,
     )
     if not pattern.search(text):
         return text
-    tag = companion_tag(version if version is not None else marketplace_version(root))
-    return pattern.sub(lambda match: f"{RELEASE_BASE}/download/{tag}/{match[1]}", text)
+    def resolve(match):
+        name = match[1][len("testakte-"):-len(".zip")]
+        suffix = "-einzelpdfs" if name.endswith("-einzelpdfs") else ""
+        slug = name[:-len(suffix)] if suffix else name
+        return case_asset_url(slug, suffix, version=version, root=root, config=config)
+    return pattern.sub(resolve, text)
 
 
 def check_asset_limit(names: list[str] | set[str]) -> None:

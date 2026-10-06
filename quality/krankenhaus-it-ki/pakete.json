@@ -1,0 +1,214 @@
+{
+  "originals": 40,
+  "individual_pdfs": [
+    {
+      "file": "01_Projektauftrag.pdf",
+      "pages": 1,
+      "sha256": "a8a869edc48faf36fc63fc36668a2d371477f280104984b31a82967b78202fe4"
+    },
+    {
+      "file": "02_Betriebsprofil.pdf",
+      "pages": 1,
+      "sha256": "629903e8db71d0751528cf8569a2f592e99647d041f7809e95d2f9e282b28790"
+    },
+    {
+      "file": "03_Geschaeftsfuehrung_Starttermin.pdf",
+      "pages": 1,
+      "sha256": "2e65e78ade36a50fee58d7e027566b2386ba29eaa628514a51703e53604d9834"
+    },
+    {
+      "file": "04_Angebot_Sprechfeder.pdf",
+      "pages": 1,
+      "sha256": "c3684d7a11f3900831288faf14c3cdc55a8fc2846bd291bb9e401b86d007d032"
+    },
+    {
+      "file": "05_AVV_Lieferantenentwurf.pdf",
+      "pages": 1,
+      "sha256": "019efa4f8ccff896158090cc8f130c13c0c39e0d4c070af6cf5002f55502208a"
+    },
+    {
+      "file": "06_TOM_und_Pruefbericht.pdf",
+      "pages": 1,
+      "sha256": "9a7f92bf2f0a54cd8c5d2e481ca757aad8b68e2c5e3a4bbdf519e2dddf3aa63a"
+    },
+    {
+      "file": "07_Unterauftragsverarbeiter.pdf",
+      "pages": 1,
+      "sha256": "65e77d0125357ac9e2052840767a00d50e6f8285acb1d86ac803f6064e0ef901"
+    },
+    {
+      "file": "08_Lieferant_Angebot_Anhang.pdf",
+      "pages": 1,
+      "sha256": "05cf12133c1ab67f698fddb2f0ba83bfeb59b8fa5639c6199ab9b70b2a934a53"
+    },
+    {
+      "file": "09_Datenflussaufnahme.pdf",
+      "pages": 1,
+      "sha256": "76ad7c3ae658f0357b8a183e44cfae5ba3b9d2748001f7d9828f78bfda7cc62e"
+    },
+    {
+      "file": "10_Supportprobe.pdf",
+      "pages": 1,
+      "sha256": "b261ce8881711906074ee47f9c79eba56b9823484b6b8ec45d117e737c670c54"
+    },
+    {
+      "file": "11_TIA_Fragenstand.pdf",
+      "pages": 1,
+      "sha256": "e730c8a0f72c3c9114df5a6ef86dd83ffb5d59ad3ecac320f94ef6adf75e2d51"
+    },
+    {
+      "file": "12_DSB_Nachweise.pdf",
+      "pages": 1,
+      "sha256": "8ea89b3fc716725723986a5652baa48b8b3a1392b9b750bd7a0b3065aabd575e"
+    },
+    {
+      "file": "13_Patienteninformation_Entwurf.pdf",
+      "pages": 1,
+      "sha256": "3570ed8f39c609ddcecf2d4edb1afd4764d17a68820907ef356b3f391b51f1c8"
+    },
+    {
+      "file": "14_DSFA_Erhebung.pdf",
+      "pages": 1,
+      "sha256": "6521a5f32383ceb16428ddff2b2df5c8604d2d71a4a43d9e586c729ae6372fdd"
+    },
+    {
+      "file": "15_Station_Rueckfragen.pdf",
+      "pages": 1,
+      "sha256": "552adb5a4f6956f3080a9e03ae3f4c2c177c5e84d856695653dcedad6915c1b9"
+    },
+    {
+      "file": "16_Einkauf_Vertrag.pdf",
+      "pages": 1,
+      "sha256": "6522719d2f0ead0ad7b6120f30f79d8d04bce7aacf7158f1979b7e8e7eea3cbf"
+    },
+    {
+      "file": "17_Zweckbestimmung_Radiaviso.pdf",
+      "pages": 1,
+      "sha256": "7aeb092cff12f7bd5ae1a7bcb2e4a46987810f5fd37574f2dad34b2b0b7cee3a"
+    },
+    {
+      "file": "18_Konformitaet_Lieferstand.pdf",
+      "pages": 1,
+      "sha256": "8fe3e1656ebb7926845d3b8d796d735e31f674ed6319d1451b0d45355d4e3786"
+    },
+    {
+      "file": "19_Radiaviso_Anhang.pdf",
+      "pages": 1,
+      "sha256": "6fdba8ebaf2da5f88d532d2d348906b3f8ef76ea907b0f072c5fcfd674c81670"
+    },
+    {
+      "file": "20_Medizintechnik_Abgleich.pdf",
+      "pages": 1,
+      "sha256": "dbd6313197aca520f7de3dc4335d5a7d634ab6906a24668218221333c0e9b492"
+    },
+    {
+      "file": "21_Radiologie_Wunsch.pdf",
+      "pages": 1,
+      "sha256": "df3cc33d6a21ccc7216d2ded11a124bf7df5d3d05898b84b871f42d44519f423"
+    },
+    {
+      "file": "22_Beinahevorfall.pdf",
+      "pages": 1,
+      "sha256": "6455dcdbd111331946a826338b6357c63f1b11ab3584185296560f7727e1defa"
+    },
+    {
+      "file": "23_Ticket_Beinahevorfall.pdf",
+      "pages": 1,
+      "sha256": "1f1222d01b2516a02f5c947e7469a6655b51e06974260afe027b85be8cf6dd77"
+    },
+    {
+      "file": "24_Forschungsprotokoll.pdf",
+      "pages": 1,
+      "sha256": "0e0be37483046722f22f426906282dde1d2b9f0b525f3f9e53e38528819b6e6c"
+    },
+    {
+      "file": "25_Datenkatalog_Forschung.pdf",
+      "pages": 1,
+      "sha256": "6a23ebc33ffe32804b71201da6fbb8eb7c044d203042527255c07fdd7e92a044"
+    },
+    {
+      "file": "26_Ethikanfrage.pdf",
+      "pages": 1,
+      "sha256": "b88aa71c6bf8aee151eb540e9e3319e942c04a8a188298835f26efe4afd1c1c2"
+    },
+    {
+      "file": "27_Forschung_Modelltraining.pdf",
+      "pages": 1,
+      "sha256": "9c35ac9964db59d190013dc3da52cc4a88dce7e1c7f2d998d14befa3a9ad4331"
+    },
+    {
+      "file": "28_MVZ_Datenanfrage.pdf",
+      "pages": 1,
+      "sha256": "d6eb8fc653a6e71ce63aa7988d2757ec55f9ff8db533525f55974038f375f9d8"
+    },
+    {
+      "file": "29_Kooperationsentwurf.pdf",
+      "pages": 1,
+      "sha256": "870a0425bd75a7a69d26f38bfa06fbda649d628887075d8114420c1ebd778efa"
+    },
+    {
+      "file": "30_Betriebsrat_Anfrage.pdf",
+      "pages": 1,
+      "sha256": "3a4ca1e97c3dcb72d4241a1e78aab652aa0511b7c3c6ae2ddb04e211e4e835e6"
+    },
+    {
+      "file": "31_Betriebsrat_Termin.pdf",
+      "pages": 1,
+      "sha256": "63e14b6a7153338d2f795c4539d648c92f68e5bb02f7aac07a2eb5adc43a9017"
+    },
+    {
+      "file": "32_Notfallprobe.pdf",
+      "pages": 1,
+      "sha256": "abeba269f1917e688286bdbd15ba6dc6b526eb1dd982362edec10380db127bb9"
+    },
+    {
+      "file": "33_ISB_Rueckmeldung.pdf",
+      "pages": 1,
+      "sha256": "9d681cc4f4aea47096ae482262b5efa445cc7c062efa3d2f81a9f24e2561cd86"
+    },
+    {
+      "file": "34_Rechtsabteilung_Rollen.pdf",
+      "pages": 1,
+      "sha256": "177fcac8158fad2aff8e0a32565e5578cc64cbbdc1c92d8b3968f483ca6633d5"
+    },
+    {
+      "file": "35_IT_Aktenuebergabe.pdf",
+      "pages": 1,
+      "sha256": "3fa7300192ba1cfb5ffbb8825d571f2027dc3ea900249ed9eb64bce145e14a2d"
+    },
+    {
+      "file": "36_Lenkungsrunde_Stand.pdf",
+      "pages": 1,
+      "sha256": "c90ecd5b97e44d483e41d78672f59fc66900953fcc0656f006d5cc5cd1c3646a"
+    },
+    {
+      "file": "37_Vorhaben_Datenfluesse.pdf",
+      "pages": 4,
+      "sha256": "5267f5a2ab7e921d89f608491127fdcac0357f7ea734f11a57fde4678642fad4"
+    },
+    {
+      "file": "38_Massnahmen_Freigaben.pdf",
+      "pages": 2,
+      "sha256": "e62be5f6ca828f1f5171d67f6ffdcecf0d4102be952c2f60fc2d89a47874fd09"
+    },
+    {
+      "file": "39_Lieferanten_Transfernachweise.pdf",
+      "pages": 4,
+      "sha256": "a0f9630243a379c11ca4a1a3f16542903632af8da76f5bcd09bd4415b6ead414"
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.pdf",
+      "pages": 4,
+      "sha256": "a6ee43397cb41d9a9b1b90886b574e426d665ddc83e9f21c8fe839782404a723"
+    }
+  ],
+  "gesamt_pages": 76,
+  "release_assets": {
+    "krankenhaus-it-ki-auenhoehe-thueringen_gesamt.pdf": "8c6037b2c3c1867508eab33fd5f308c722d2e6b2a704d369a1b0df1d0b7ed64a",
+    "krankenhaus-it-ki.zip": "3c5adc314297f3229ca38b08494a2b17726b1dc76597ca68566667f4c936e686",
+    "testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip": "76da68c0f6f24b76cd29f0bcffe70412edab67b76d87d275b0557381f5f8ea08",
+    "testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip": "783a57d34bb68d3ce63b46398eaa253439ce1ef3490df84fd3ce1c70df4405bf"
+  },
+  "archive_validation": "Zentrale Einzelarchiv-Validatoren bestanden; alle 40 Originale bytegleich. Keine Sammelarchive geprüft.",
+  "note": "Technische Paketprüfung; Sichtprüfung separat dokumentiert."
+}

@@ -16,6 +16,7 @@ Idempotent: schreibt SKILLS.md neu. Liest Version aus marketplace.json.
 """
 from __future__ import annotations
 
+from release_routing import plugin_asset_url
 import json
 import re
 import sys
@@ -206,7 +207,7 @@ def plugin_overview_table(plugins: list[tuple[str, list[str]]]) -> str:
         )
         for name, skills in items:
             source_rel = _source_rel_for(name)
-            zip_url = f"{GH_RELEASE}/{name}.zip"
+            zip_url = plugin_asset_url(name, root=REPO_ROOT)
             werkstatt_url = markdown_download_url(f"{source_rel}/{name}-werkstatt.md")
             schnellstart_url = markdown_download_url(f"{source_rel}/{name}-schnellstart.md")
             workshop_download = " · ".join(f"[Werkstatt-{ext.upper()} herunterladen]({markdown_download_url(f'{source_rel}/{name}-werkstatt.{ext}')})" for ext in formats(name)) if enabled(name, "werkstatt") else "Nicht vorgesehen"
@@ -231,7 +232,7 @@ def _source_rel_for(name: str) -> str:
 def plugin_detail_page(name: str, skills: list[str], version: str) -> str:
     _source_rel = _source_rel_for(name)
     skills_dir = REPO_ROOT / _source_rel / "skills"
-    plugin_zip = f"{GH_RELEASE}/{name}.zip"
+    plugin_zip = plugin_asset_url(name, root=REPO_ROOT)
     werkstatt_md = markdown_download_url(f"{_source_rel}/{name}-werkstatt.md")
     schnellstart_md = markdown_download_url(f"{_source_rel}/{name}-schnellstart.md")
     md_zip = f"{GH_RELEASE}/alle-skills-markdown.zip"

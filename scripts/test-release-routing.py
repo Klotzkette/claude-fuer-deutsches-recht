@@ -139,8 +139,11 @@ class RepositoryRoutingTests(unittest.TestCase):
         for slug in expected:
             for suffix in ("", "-einzelpdfs"):
                 with self.subTest(slug=slug, suffix=suffix):
+                    scoped = json.loads((R.ROOT / "scripts/scoped-release-assets.json").read_text())["assets"]
+                    asset = f"testakte-{slug}{suffix}.zip"
+                    tag = scoped.get(asset, TAG)
                     self.assertEqual(R.case_asset_url(slug, suffix, version=VERSION),
-                                     f"{R.RELEASE_BASE}/download/{TAG}/testakte-{slug}{suffix}.zip")
+                                     f"{R.RELEASE_BASE}/download/{tag}/{asset}")
 
 
 class RoutingTests(Fixture):

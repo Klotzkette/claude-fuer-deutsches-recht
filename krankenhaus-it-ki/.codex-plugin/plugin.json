@@ -1,0 +1,19 @@
+{
+  "name": "krankenhaus-it-ki",
+  "version": "445.33.1",
+  "description": "Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Krankenhaus-IT und KI",
+    "shortDescription": "Datenschutz, Cloud und KI im Klinikbetrieb gestalten.",
+    "longDescription": "Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte.",
+    "developerName": "Klotzkette",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Hilf mir, ein IT- oder KI-Vorhaben im Krankenhaus von den Datenflüssen bis zu den notwendigen Unterlagen und der nächsten Betriebsentscheidung zu bearbeiten. Frage zuerst nach Vorhaben, Einrichtung und gewünschtem Ergebnis."
+  }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "n": 1,
+    "name": "01_Projektauftrag.docx",
+    "kind": "docx",
+    "title": "Auftrag zur Vorbereitung der drei Digitalisierungsvorhaben",
+    "author": "Dr. Selma Hartung | Geschäftsführung",
+    "date": "21.09.2026",
+    "sha256": "68ed876297e312120435cf7712ce8c6f0e200a9f5de10456c8439efb0f7e87f3",
+    "characters": 1994
+  },
+  {
+    "n": 2,
+    "name": "02_Betriebsprofil.docx",
+    "kind": "docx",
+    "title": "Struktur des Klinikverbunds und Zuständigkeiten",
+    "author": "Nora Bergmann | Gesamtleitung IT",
+    "date": "22.09.2026",
+    "sha256": "b3a6830bd40d687c5e81a1f3d16ce60b13c6213883a05e5e9e9d321997e8e9cf",
+    "characters": 2051
+  },
+  {
+    "n": 3,
+    "name": "03_Geschaeftsfuehrung_Starttermin.eml",
+    "kind": "eml",
+    "title": "Bitte am Freitag eine belastbare Entscheidungsvorlage",
+    "author": "Dr. Selma Hartung <selma.hartung@auenhoehe.example>",
+    "date": "2026-09-23T08:17:00",
+    "sha256": "cc03d96e033d63c235db90093b42764269e993619ebf297fe1d459ad03ae072f",
+    "characters": 994
+  },
+  {
+    "n": 4,
+    "name": "04_Angebot_Sprechfeder.pdf",
+    "kind": "pdf",
+    "title": "Angebot für den befristeten Einsatz von Sprechfeder Clinical 2.4",
+    "author": "Sprechfeder Health Europe GmbH | Maja Roth",
+    "date": "24.09.2026",
+    "sha256": "c3684d7a11f3900831288faf14c3cdc55a8fc2846bd291bb9e401b86d007d032",
+    "characters": 1811
+  },
+  {
+    "n": 5,
+    "name": "05_AVV_Lieferantenentwurf.docx",
+    "kind": "docx",
+    "title": "Vereinbarung zur Verarbeitung im Auftrag Lieferantenentwurf",
+    "author": "Sprechfeder Health Europe GmbH | Vertragsabteilung",
+    "date": "24.09.2026",
+    "sha256": "e1d08403472f1d4744884aaa5e27a13d79aeb52a157b4bb0690ffbe85f12f9ac",
+    "characters": 2532
+  },
+  {
+    "n": 6,
+    "name": "06_TOM_und_Pruefbericht.pdf",
+    "kind": "pdf",
+    "title": "Technische Maßnahmen und vorliegender Prüfbericht",
+    "author": "Sprechfeder Health Europe GmbH | Felix Sommer",
+    "date": "25.09.2026",
+    "sha256": "9a7f92bf2f0a54cd8c5d2e481ca757aad8b68e2c5e3a4bbdf519e2dddf3aa63a",
+    "characters": 1987
+  },
+  {
+    "n": 7,
+    "name": "07_Unterauftragsverarbeiter.docx",
+    "kind": "docx",
+    "title": "Liste der vorgesehenen Dienstleister und Zugriffe",
+    "author": "Sprechfeder Health Europe GmbH | Maja Roth",
+    "date": "25.09.2026",
+    "sha256": "4de3b21c972495c35475237b6246ad9f74a9d6036a86d9f0f854d822398c899b",
+    "characters": 1950
+  },
+  {
+    "n": 8,
+    "name": "08_Lieferant_Angebot_Anhang.eml",
+    "kind": "eml",
+    "title": "Angebot P01 und noch offene Anlage zur Produktverbesserung",
+    "author": "Maja Roth <maja.roth@sprechfeder.example>",
+    "date": "2026-09-25T11:28:00",
+    "sha256": "76a1a0ee2a6e99793d998e04ddbf411fd48d375182176e1f12a8cb61a03aa4a6",
+    "characters": 991
+  },
+  {
+    "n": 9,
+    "name": "09_Datenflussaufnahme.docx",
+    "kind": "docx",
+    "title": "Aufnahme der Datenflüsse für die drei Vorhaben",
+    "author": "Nora Bergmann und Karim Seidel",
+    "date": "28.09.2026",
+    "sha256": "f3857d787e593e77dc065c8ec8efd0551f04e82e714f4cef72f14d649daee149",
+    "characters": 2324
+  },
+  {
+    "n": 10,
+    "name": "10_Supportprobe.pdf",
+    "kind": "pdf",
+    "title": "Protokoll der Supportprobe mit einem Beispieldiktat",
+    "author": "Karim Seidel | Informationssicherheit",
+    "date": "29.09.2026",
+    "sha256": "b261ce8881711906074ee47f9c79eba56b9823484b6b8ec45d117e737c670c54",
+    "characters": 1878
+  },
+  {
+    "n": 11,
+    "name": "11_TIA_Fragenstand.docx",
+    "kind": "docx",
+    "title": "Fragen zum möglichen Zugriff aus den Vereinigten Staaten",
+    "author": "Benedikt Fink | Datenschutzbeauftragter",
+    "date": "30.09.2026",
+    "sha256": "bdfb10af26ca419445c70a3f564eb050eb5675bd93adcf64004da4195e7bdf07",
+    "characters": 2287
+  },
+  {
+    "n": 12,
+    "name": "12_DSB_Nachweise.eml",
+    "kind": "eml",
+    "title": "P01 Nachweise sind noch nicht vollständig",
+    "author": "Benedikt Fink <benedikt.fink@auenhoehe.example>",
+    "date": "2026-09-30T16:04:00",
+    "sha256": "172a5c36f73a1e291d5b0c8911932426c5f86a1ba5362ed47d756c64e8b6ca4a",
+    "characters": 1055
+  },
+  {
+    "n": 13,
+    "name": "13_Patienteninformation_Entwurf.docx",
+    "kind": "docx",
+    "title": "Patienteninformation zur unterstützten Erstellung von Briefentwürfen",
+    "author": "Klinikverbund Auenhöhe GmbH | Kommunikation",
+    "date": "30.09.2026",
+    "sha256": "5e831aca2d90e31539e4c8d88485e1d3ff8fafceed9bf83df812b5001023dd15",
+    "characters": 2279
+  },
+  {
+    "n": 14,
+    "name": "14_DSFA_Erhebung.docx",
+    "kind": "docx",
+    "title": "Erhebung für die Bewertung der Folgen des Vorhabens P01",
+    "author": "Benedikt Fink und Nora Bergmann",
+    "date": "01.10.2026",
+    "sha256": "ceb132c6d3103262076d4a013a0e53aba0f2277d57027f1001fd791617fe85cf",
+    "characters": 2364
+  },
+  {
+    "n": 15,
+    "name": "15_Station_Rueckfragen.eml",
+    "kind": "eml",
+    "title": "Entlassbriefentwürfe und unsere Nachtbesetzung",
+    "author": "Dr. Amira Feld <amira.feld@auenhoehe.example>",
+    "date": "2026-10-01T09:26:00",
+    "sha256": "fd1799732f99c90f35dea0c9cb23cc964ea3708c99a0196008837ed222b10e7b",
+    "characters": 991
+  },
+  {
+    "n": 16,
+    "name": "16_Einkauf_Vertrag.eml",
+    "kind": "eml",
+    "title": "Bestellung bleibt bis zur Rückmeldung gesperrt",
+    "author": "Hagen Wolf <hagen.wolf@auenhoehe.example>",
+    "date": "2026-10-01T13:42:00",
+    "sha256": "85ba5ad86cf0132f040570af5c8686e3a912422fab277fbe19eea1808cef61ea",
+    "characters": 997
+  },
+  {
+    "n": 17,
+    "name": "17_Zweckbestimmung_Radiaviso.pdf",
+    "kind": "pdf",
+    "title": "Zweckbestimmung Radialert Triage Version 5.0",
+    "author": "Radiaviso Medical GmbH | Produktmanagement",
+    "date": "18.09.2026",
+    "sha256": "7aeb092cff12f7bd5ae1a7bcb2e4a46987810f5fd37574f2dad34b2b0b7cee3a",
+    "characters": 1826
+  },
+  {
+    "n": 18,
+    "name": "18_Konformitaet_Lieferstand.docx",
+    "kind": "docx",
+    "title": "Begleitschreiben zum Stand der Produktunterlagen",
+    "author": "Radiaviso Medical GmbH | Dr. Eva Riedel",
+    "date": "28.09.2026",
+    "sha256": "99121c9969b0b0b25eaada57b7baa9993be09095d624c45e6b69235ed4d78103",
+    "characters": 1942
+  },
+  {
+    "n": 19,
+    "name": "19_Radiaviso_Anhang.eml",
+    "kind": "eml",
+    "title": "Zweckbestimmung im Anhang und Versionsstand",
+    "author": "Dr. Eva Riedel <eva.riedel@radiaviso.example>",
+    "date": "2026-09-28T15:08:00",
+    "sha256": "95adef7ec22af9ada497d7aa51abc333d42e8190fd205c1f2834c4540bf0446f",
+    "characters": 1018
+  },
+  {
+    "n": 20,
+    "name": "20_Medizintechnik_Abgleich.docx",
+    "kind": "docx",
+    "title": "Abgleich der Produktlieferung mit dem geplanten Einsatz",
+    "author": "Lena Auer | Medizintechnik",
+    "date": "01.10.2026",
+    "sha256": "ec8c6efcd7d597a87368487605919bc8b5192c797296ffbb9042331a949af361",
+    "characters": 2177
+  },
+  {
+    "n": 21,
+    "name": "21_Radiologie_Wunsch.eml",
+    "kind": "eml",
+    "title": "Priorisierung hilft uns nur bei erkennbaren Grenzen",
+    "author": "Dr. Amira Feld <amira.feld@auenhoehe.example>",
+    "date": "2026-10-02T08:33:00",
+    "sha256": "123408debc064cab4accf41e5261146997080c4196e6fb651b92202ced1ac255",
+    "characters": 1011
+  },
+  {
+    "n": 22,
+    "name": "22_Beinahevorfall.docx",
+    "kind": "docx",
+    "title": "Vermerk über eine verhinderte Übernahme in die Testumgebung",
+    "author": "Nora Bergmann | IT",
+    "date": "02.10.2026",
+    "sha256": "feba77d8f27e251c556b633e393654ec80bf3e1be293751fb397c44a015a3cab",
+    "characters": 1892
+  },
+  {
+    "n": 23,
+    "name": "23_Ticket_Beinahevorfall.eml",
+    "kind": "eml",
+    "title": "Ticket IT 261002 44 und Protokollsicherung",
+    "author": "Karim Seidel <karim.seidel@auenhoehe.example>",
+    "date": "2026-10-02T12:06:00",
+    "sha256": "3116ba35d9eb7e5fa6c31851e9a4ce567789671eab5b995a1a21f89665010737",
+    "characters": 1014
+  },
+  {
+    "n": 24,
+    "name": "24_Forschungsprotokoll.docx",
+    "kind": "docx",
+    "title": "Projektbeschreibung SEPSIS LR in der Fassung vom 29 September",
+    "author": "Dr. Oskar Wenck | Versorgungsforschung",
+    "date": "29.09.2026",
+    "sha256": "55089f2789842723477b13f252e1710b53923d55a840a59f16fa8bb979df9ef9",
+    "characters": 2332
+  },
+  {
+    "n": 25,
+    "name": "25_Datenkatalog_Forschung.docx",
+    "kind": "docx",
+    "title": "Datenkatalog und Vorschlag zur Pseudonymisierung",
+    "author": "Dr. Oskar Wenck und Nora Bergmann",
+    "date": "30.09.2026",
+    "sha256": "777dbf5b3061003a30f5a9c1d7af5d0d5a7edeec63c1a87b00f4d36cdcc83bcd",
+    "characters": 2172
+  },
+  {
+    "n": 26,
+    "name": "26_Ethikanfrage.docx",
+    "kind": "docx",
+    "title": "Anfrage zur vorgesehenen retrospektiven Untersuchung",
+    "author": "Dr. Oskar Wenck | Klinikverbund Auenhöhe GmbH",
+    "date": "01.10.2026",
+    "sha256": "d91108a75c98a94b7535111e575789a7ee66395b769387c44694ae60d02ca261",
+    "characters": 2038
+  },
+  {
+    "n": 27,
+    "name": "27_Forschung_Modelltraining.eml",
+    "kind": "eml",
+    "title": "SEPSIS LR und die Idee für ein späteres Modell",
+    "author": "Dr. Oskar Wenck <oskar.wenck@auenhoehe.example>",
+    "date": "2026-10-02T14:38:00",
+    "sha256": "9a08ec2c74ce157833022d46d09c545e312fc03023045c9a7945378505f067e4",
+    "characters": 1044
+  },
+  {
+    "n": 28,
+    "name": "28_MVZ_Datenanfrage.eml",
+    "kind": "eml",
+    "title": "Ambulante Daten sind noch nicht zur Übergabe freigegeben",
+    "author": "Ruth Demir <ruth.demir@auenhoehe-mvz.example>",
+    "date": "2026-10-05T08:19:00",
+    "sha256": "413b945d4889f9addbad4a4048d0ea12f27c8e86e732f96895f82b93b4a5c3d6",
+    "characters": 1059
+  },
+  {
+    "n": 29,
+    "name": "29_Kooperationsentwurf.docx",
+    "kind": "docx",
+    "title": "Kooperationsentwurf für die wissenschaftliche Auswertung",
+    "author": "Klinikverbund Auenhöhe GmbH und Hochschule Saalebogen",
+    "date": "02.10.2026",
+    "sha256": "3b028ddde7e252da483724a92dff9ca2088bac5f5a970f8f155cd781ee06e26c",
+    "characters": 2247
+  },
+  {
+    "n": 30,
+    "name": "30_Betriebsrat_Anfrage.pdf",
+    "kind": "pdf",
+    "title": "Auskunft zu Beschäftigtenfunktionen der geplanten Anwendungen",
+    "author": "Paul Lindner | Betriebsrat des Klinikverbunds Auenhöhe",
+    "date": "01.10.2026",
+    "sha256": "3a4ca1e97c3dcb72d4241a1e78aab652aa0511b7c3c6ae2ddb04e211e4e835e6",
+    "characters": 1749
+  },
+  {
+    "n": 31,
+    "name": "31_Betriebsrat_Termin.eml",
+    "kind": "eml",
+    "title": "Termin am 8 Oktober und Bildschirmansichten",
+    "author": "Paul Lindner <paul.lindner@auenhoehe.example>",
+    "date": "2026-10-05T10:04:00",
+    "sha256": "1cb84e969018c0261d92497605b0783e33557b7d248da8c7ca77f793853dbc5f",
+    "characters": 1059
+  },
+  {
+    "n": 32,
+    "name": "32_Notfallprobe.docx",
+    "kind": "docx",
+    "title": "Protokoll der Ausfallprobe in der getrennten Testumgebung",
+    "author": "Karim Seidel | Informationssicherheit",
+    "date": "05.10.2026",
+    "sha256": "416d9e741ff4ec6fb4a7c596ae59b06a05a6189957a5e5885ce01379469704b0",
+    "characters": 2026
+  },
+  {
+    "n": 33,
+    "name": "33_ISB_Rueckmeldung.eml",
+    "kind": "eml",
+    "title": "Zugänge, Ausfallprobe und nächste technische Schritte",
+    "author": "Karim Seidel <karim.seidel@auenhoehe.example>",
+    "date": "2026-10-06T08:05:00",
+    "sha256": "82d9f65c50d068cb8d0a1a13f0cc3647362d2033d8bb6feb1636cef2fd5f7073",
+    "characters": 1009
+  },
+  {
+    "n": 34,
+    "name": "34_Rechtsabteilung_Rollen.eml",
+    "kind": "eml",
+    "title": "Drei Vorhaben benötigen drei nachvollziehbare Entscheidungen",
+    "author": "Friederike Blum <friederike.blum@auenhoehe.example>",
+    "date": "2026-10-06T09:12:00",
+    "sha256": "8c6abc76b000c485b4d42bfd342c1151a008687da5d0854ccafb765d7d036893",
+    "characters": 1089
+  },
+  {
+    "n": 35,
+    "name": "35_IT_Aktenuebergabe.eml",
+    "kind": "eml",
+    "title": "Unterlagen für die Lenkungsrunde am Freitag",
+    "author": "Nora Bergmann <nora.bergmann@auenhoehe.example>",
+    "date": "2026-10-06T13:24:00",
+    "sha256": "8286e54988d42a0c3f82389946892ef88fe25cfc30fe9a377ed752ba4f936bd6",
+    "characters": 1044
+  },
+  {
+    "n": 36,
+    "name": "36_Lenkungsrunde_Stand.docx",
+    "kind": "docx",
+    "title": "Vorbereitung der Lenkungsrunde am 9 Oktober",
+    "author": "Nora Bergmann | Gesamtleitung IT",
+    "date": "06.10.2026",
+    "sha256": "dcbd16ed865a357ec35452341b19051d80f3cb85fd599fc7bfbf74a3af322f9a",
+    "characters": 2283
+  }
+]

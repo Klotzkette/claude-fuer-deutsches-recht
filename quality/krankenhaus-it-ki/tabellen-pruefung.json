@@ -1,0 +1,139 @@
+{
+  "native_engine": "bundled LibreOffice",
+  "formula_preservation": true,
+  "baseline_checks": 7,
+  "mutation_checks": [
+    {
+      "file": "37_Vorhaben_Datenfluesse.xlsx",
+      "sheet": "Vorhaben",
+      "cell": "E8",
+      "value": "Freigabe dokumentiert",
+      "outSheet": "Vorhaben",
+      "outCell": "E5",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "file": "38_Massnahmen_Freigaben.xlsx",
+      "sheet": "Maßnahmen",
+      "cell": "D8",
+      "value": "Ja",
+      "outSheet": "Maßnahmen",
+      "outCell": "G8",
+      "expected": "Nachweis fehlt",
+      "actual": "Nachweis fehlt"
+    },
+    {
+      "file": "38_Massnahmen_Freigaben.xlsx",
+      "sheet": "Maßnahmen",
+      "cell": "E8",
+      "value": "Datei 11, Ziffer 3",
+      "outSheet": "Maßnahmen",
+      "outCell": "G8",
+      "expected": "Prüfung offen",
+      "actual": "Prüfung offen"
+    },
+    {
+      "file": "39_Lieferanten_Transfernachweise.xlsx",
+      "sheet": "Nachweise",
+      "cell": "E8",
+      "value": "Ja",
+      "outSheet": "Nachweise",
+      "outCell": "E5",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Pilotkosten",
+      "cell": "B8",
+      "value": -1,
+      "outSheet": "Pilotkosten",
+      "outCell": "E8",
+      "expected": "Werte prüfen",
+      "actual": "Werte prüfen"
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Pilotkosten",
+      "cell": "D13",
+      "value": 1.2,
+      "outSheet": "Pilotkosten",
+      "outCell": "E13",
+      "expected": "Werte prüfen",
+      "actual": "Werte prüfen"
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Messplan",
+      "cell": "B8",
+      "value": 0.5,
+      "outSheet": "Messplan",
+      "outCell": "B17",
+      "expected": "Werte prüfen",
+      "actual": "Werte prüfen"
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Pilotkosten",
+      "cell": "B8",
+      "value": 31,
+      "outSheet": "Pilotkosten",
+      "outCell": "E14",
+      "expected": 12278.42,
+      "actual": 12278.42
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Pilotkosten",
+      "cell": "B8",
+      "value": null,
+      "outSheet": "Pilotkosten",
+      "outCell": "E14",
+      "expected": "Eingabe fehlt",
+      "actual": "Eingabe fehlt"
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Pilotkosten",
+      "cell": "B8",
+      "value": 0,
+      "outSheet": "Pilotkosten",
+      "outCell": "E14",
+      "expected": 5712,
+      "actual": 5712
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sheet": "Messplan",
+      "cell": "C8",
+      "value": 20,
+      "outSheet": "Messplan",
+      "outCell": "F8",
+      "expected": "Noch keine Messung",
+      "actual": "Noch keine Messung"
+    }
+  ],
+  "workbooks": [
+    {
+      "file": "37_Vorhaben_Datenfluesse.xlsx",
+      "sha256": "5e8f18f0bfc25e80026269b0c0baffaca95c1098d8e86b2f30e456d6d3703c18",
+      "formulas": 2
+    },
+    {
+      "file": "38_Massnahmen_Freigaben.xlsx",
+      "sha256": "bc62e1ce4ecc08b9f800f6f30b206b899b87cccdf29a9adc664f34ca35258f16",
+      "formulas": 11
+    },
+    {
+      "file": "39_Lieferanten_Transfernachweise.xlsx",
+      "sha256": "e49a34f3c0600a2011d767b6ddc015a0d20ceb64108182ecf16bb461053a8ec3",
+      "formulas": 1
+    },
+    {
+      "file": "40_Pilotmessung_Kosten.xlsx",
+      "sha256": "0fe9d9e5330e474dbed0cee8d134fb77717381c7a05223b6b40870893c3887df",
+      "formulas": 25
+    }
+  ]
+}

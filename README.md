@@ -8,6 +8,8 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
+Neu als Komponentenrelease: [Krankenhaus-IT und KI](./krankenhaus-it-ki/README.md) unterstützt IT-Verantwortliche mit elf Skills bei Datenschutz, Cloud, TIA, DSFA, Medizinprodukten, Forschung und sicherem Betrieb. Eigenständige Werkstatt-, Mini- und Hauptproblem-Prompts sowie die [Thüringer Klinikakte Auenhöhe](./testakten/krankenhaus-it-ki-auenhoehe-thueringen/README.md) ergänzen das Plugin. [Plugin-ZIP direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/krankenhaus-it-ki-v445.33.1/krankenhaus-it-ki.zip). Die vorhandenen Sammel-ZIPs bleiben auf ihrem bisherigen Stand und enthalten dieses neue Plugin und diese Akte noch nicht; bis zum nächsten Komplettrelease die direkten Downloads des [Komponentenreleases](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/krankenhaus-it-ki-v445.33.1) verwenden.
+
 Neu in `v445.33.1`: [Grundstücksrecherche](./grundstuecksrecherche/README.md) bietet neben der lokalen Browser-App eine [portable Website als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip). ZIP entpacken und `index.html` öffnen: Auf dem Zielcomputer sind weder Python noch ein Server nötig. Karte, Flurstücksauswahl, bearbeitbare Angaben und vier DOCX-Entwürfe samt Dokumenten-ZIP gehören dazu. Die Website startet leer und enthält standardmäßig keine persönlichen Vorgangsdaten; Karten und neue Ortsabfragen benötigen Internet. Manuelle Bearbeitung und Dokumentenerstellung aus vorbereiteten oder importierten Vorgängen bleiben auch offline nutzbar. In Codex, ChatGPT oder Cowork kann eine verfügbare Browser-Vorschau verwendet werden; eine native Einbettung wird nicht zugesichert. Offene Karten liefern keine automatischen Eigentümerdaten, und die App versendet nichts. [Beide Betriebsarten und ihre Grenzen](./grundstuecksrecherche/README.md#111-app-im-browser-oder-in-einer-verfügbaren-app-vorschau).
 
 English: Download the [portable property-research website](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundstuecksrecherche-website.zip), extract the complete archive and open `index.html`. No Python or local server is required. Live maps and searches need internet; prepared cases, manual editing and document generation also work offline. Private case data is excluded by default. Native embedding depends on the host application.
@@ -30,9 +32,9 @@ English: [Legal presentations](./juristische-praesentationen/README.md) adds ten
 
 Neu hinzugekommen sind vier gezielte Fachprüfungen mit eigenen Fallakten: [Hochrisiko-Einstufung nach Artikel 6 und Anhang III](./ki-verordnung-hochrisiko-pruefer/README.md), [Transparenzpflichten nach Artikel 50](./ki-verordnung-transparenzpruefer/README.md), [Enteignung nach Artikel 14 GG](./enteignung-artikel-14/README.md) und [Vergesellschaftung nach Artikel 15 GG](./vergesellschaftung-artikel-15/README.md). Die [Arbeitszeugnisprüfung](./arbeitszeugnispruefer/README.md) trennt nun noch genauer Bewertungsfrage, Beweisbedarf und Durchsetzung; die [FinTech-Akte aus Bremen](./testakten/fintech-darlehen-vertragsuebernahme-bremen/README.md) ergänzt den Zahlungs- und Korrespondenzbestand.
 
-Die Download-Tabellen führen weiterhin unmittelbar zu den Dateien. Wegen der Obergrenze für GitHub-Release-Dateien liegen alle zentralen Testakten in einem gleich versionierten Akten-Release; sämtliche Akten bleiben zusätzlich in den Gesamtsammlungen enthalten. [Zuordnung und Prüfsummen](./docs/release-routing.md) erläutern die technische Aufteilung.
+Die Download-Tabellen führen weiterhin unmittelbar zu den Dateien. Wegen der Obergrenze für GitHub-Release-Dateien liegen alle zentralen Testakten in einem gleich versionierten Akten-Release; die dort bereits veröffentlichten Akten bleiben zusätzlich in den Gesamtsammlungen enthalten. Die neue Klinikakte verwendet bis zum nächsten Komplettrelease ihren oben verlinkten Komponentenrelease. [Zuordnung und Prüfsummen](./docs/release-routing.md) erläutern die technische Aufteilung.
 
-English: Four focused packages cover high-risk classification, transparency obligations, expropriation and socialisation. Each provides its own workflow prompts and practice dossier. All central case ZIPs use a matching companion release to respect the hosting limit; the download tables and complete collections include them directly.
+English: Four focused packages cover high-risk classification, transparency obligations, expropriation and socialisation. Each provides its own workflow prompts and practice dossier. Central case ZIPs normally use a matching companion release. The new hospital-IT package and case use a separate component release and are not yet included in the existing collection ZIPs.
 
 Für den ersten Vorgang: Rechtsgebiet öffnen, einen Einstieg wählen und die Unterlagen bereitstellen. Ein einzelnes Plugin oder dessen Schnellstart genügt meistens; der Download der gesamten Sammlung ist keine Voraussetzung. Die [Kurzanleitung](./QUICKSTART.md) erklärt den Weg zum ersten Ergebnis.
 
@@ -130,14 +132,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 281 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22799 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 280 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 282 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 22810 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 281 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 279 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 451 zentral / 454 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 280 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 452 zentral / 455 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22799 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22810 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -174,9 +176,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 281 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22799: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 451 zentral / 454 gesamt |
+| **Plugins** | 282 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 22810: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 452 zentral / 455 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -548,6 +550,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`ki-vo-ai-act-pruefer`](./ki-vo-ai-act-pruefer) | Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis. |
 | [`kommunale-haftpflicht`](./kommunale-haftpflicht) | Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen. |
 | [`kommunalrecht-laender`](./kommunalrecht-laender) | Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. |
+| [`krankenhaus-it-ki`](./krankenhaus-it-ki) | Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte. |
 | [`krankenhausrecht`](./krankenhausrecht) | Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. |
 | [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) | Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. |
 | [`kriegsdienstverweigerung-wehrdienst`](./kriegsdienstverweigerung-wehrdienst) | Praxisplugin für Kriegsdienstverweigerung und Wehrdienst aus Gewissensgründen: Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz und saubere Abgrenzung zur Totalverweigerung. |

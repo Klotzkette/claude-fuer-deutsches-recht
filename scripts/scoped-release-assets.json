@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "assets": {
+    "krankenhaus-it-ki.zip": "krankenhaus-it-ki-v445.33.1",
+    "testakte-krankenhaus-it-ki-auenhoehe-thueringen.zip": "krankenhaus-it-ki-v445.33.1",
+    "testakte-krankenhaus-it-ki-auenhoehe-thueringen-einzelpdfs.zip": "krankenhaus-it-ki-v445.33.1"
+  }
+}

@@ -11,7 +11,7 @@ from __future__ import annotations
 import html
 import json
 from pathlib import Path
-from release_routing import RELEASE_BASE, case_asset_url, companion_cases, companion_tag
+from release_routing import RELEASE_BASE, case_asset_url, companion_cases, companion_tag, plugin_asset_url
 
 from prompt_profiles import enabled, formats
 from urllib.parse import quote
@@ -57,9 +57,9 @@ def companion_section(version: str) -> list[str]:
     lines = [
         "## Akten-Begleitrelease",
         "",
-        f"Die folgenden Akten-ZIPs liegen im versionsgleichen [Begleitrelease `{tag}`]({RELEASE_BASE}/tag/{tag}). "
+        f"Die Akten-ZIPs liegen grundsätzlich im versionsgleichen [Begleitrelease `{tag}`]({RELEASE_BASE}/tag/{tag}). "
         "Die vollständigen Akten-Sammelpakete und `alles-komplettpaket.zip` bleiben im Hauptrelease. "
-        "Bestehende Downloads bleiben unverändert.",
+        "Ein ausdrücklich verlinktes Komponentenrelease kann eine neue Akte bereits vor dem nächsten vollständigen Release bereitstellen. Maßgeblich ist der jeweilige Downloadlink.",
         "",
         "| Akte | Originaldateien | Einzel-PDFs |",
         "| --- | --- | --- |",
@@ -147,7 +147,7 @@ def main() -> int:
             focus_download = " · ".join(markdown_download(f"{rel}/{name}-hauptproblem.{ext}", f"{name}-hauptproblem.{ext}") for ext in formats(name) if (REPO / f"{rel}/{name}-hauptproblem.{ext}").is_file()) if (REPO / focus_path).is_file() else "Nicht vorgesehen"
             workshop_download = " · ".join(markdown_download(f"{rel}/{name}-werkstatt.{ext}", f"{name}-werkstatt.{ext}") for ext in formats(name)) if enabled(name, "werkstatt") else "Nicht vorgesehen"
             quickstart_download = " · ".join(markdown_download(f"{rel}/{name}-schnellstart.{ext}", f"{name}-schnellstart.{ext}") for ext in formats(name)) if enabled(name, "schnellstart") else "Nicht vorgesehen"
-            zip_url = f"{RELEASE}/{name}.zip"
+            zip_url = plugin_asset_url(name, root=REPO)
             navigation = f"[README]({rel}/README.md) · [Skills](skills-index/{name}.md)"
             lines.append(
                 "| "

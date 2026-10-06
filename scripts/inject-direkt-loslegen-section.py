@@ -12,7 +12,7 @@ import json
 import re
 from os.path import relpath
 from pathlib import Path
-from release_routing import case_asset_url, rewrite_case_asset_urls
+from release_routing import case_asset_url, rewrite_case_asset_urls, plugin_asset_url
 
 from prompt_profiles import enabled, formats, standalone_kinds
 from urllib.parse import quote
@@ -578,7 +578,7 @@ def block(plugin: dict, directory: Path, akten_slugs: list[str], marketplace_cou
 
 Starten Sie die lokale App nach der Anleitung in dieser README. Die Installation allein startet keinen Server und garantiert keine eingebettete Browseransicht.
 
-[Plugin als ZIP]({RELEASE_BASE}/{plugin_name}.zip) · [Plugin-Dateien](.)
+[Plugin als ZIP]({plugin_asset_url(plugin_name, root=REPO)}) · [Plugin-Dateien](.)
 {END}"""
     stem = prompt_stem(plugin_name)
     werkstatt_file = f"{stem}-werkstatt.md"
@@ -649,7 +649,7 @@ Dieses Plugin gehört zum Marketplace mit {marketplace_count} Plugins. Für die 
 
 | Bestandteil | Deutsch | English | Wo? / Where? |
 | --- | --- | --- | --- |
-| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
+| Plugin-ZIP | Installiert das vollständige Plugin mit Skills, Referenzen und Hilfsdateien. | Installs the complete plugin with its skills, references and supporting files. | [`{plugin_name}.zip`]({plugin_asset_url(plugin_name, root=REPO)}) |
 | Skills | Arbeitsabläufe für einzelne Aufgaben. Wähle bei einem klaren Auftrag den passenden Skill ausdrücklich; die automatische Auswahl ist nicht garantiert. Einzeldownloads enthalten nur die jeweilige Markdown-Datei. | Focused task workflows. Select a known skill explicitly; automatic selection is not guaranteed. An individual download contains only that Markdown file. | [Skill-Liste öffnen / Open skill list]({skill_detail}) |
 | Werkstatt-Prompt | Ausführliche eigenständige Markdown-Datei für komplexe oder mehrstufige Vorgänge. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Detailed standalone Markdown file for complex or multi-step matters. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({werkstatt_url}) |
 | Schnellstart / Mini-Prompt | Kompakte eigenständige Markdown-Datei für einen schnellen ersten Arbeitsstand. Sie ist kein Skill und nicht im Plugin-ZIP enthalten. | Compact standalone Markdown file for a fast first work product. It is not a skill and is not included in the plugin ZIP. | [MD herunterladen / Download MD]({schnellstart_url}) |
@@ -671,7 +671,7 @@ Links labelled “MD herunterladen / Download MD” start a file download. Navig
 
 | Was | Format | Direkt-Download |
 | --- | --- | --- |
-| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({RELEASE_BASE}/{plugin_name}.zip) |
+| Plugin als Komplett-ZIP (Hauptweg) | ZIP | [`{plugin_name}.zip`]({plugin_asset_url(plugin_name, root=REPO)}) |
 | Kompakter Prompt (Schnellstart) | Markdown | [`{schnellstart_file}`]({schnellstart_url}) |
 | Großer Prompt (Werkstatt) | Markdown | [`{werkstatt_file}`]({werkstatt_url}) |
 {focus_download}| Zugeordnete Testakten | PDF / ZIP | {testakte_cell} |

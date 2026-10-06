@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "krankenhaus-it-ki": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "grundstuecksrecherche": {
       "standalone": [],
       "formats": ["md"],
