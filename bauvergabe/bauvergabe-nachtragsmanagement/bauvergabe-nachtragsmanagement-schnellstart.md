@@ -22,7 +22,7 @@ BGH, Urt. v. 08.08.2019 – Az. VII ZR 34/18, [Volltext](https://www.bundesgeric
 
 ## 4. Bedenken, Bauzeit und Beweis
 
-Bedenken nach Paragraf 4 Absatz 3 VOB/B benennen technische Gefahr und erforderliche Entscheidung. Behinderung nach Paragraf 6 Absatz 1 benennt Tätigkeit, Ort, Beginn, Hindernis und konkrete Wirkung. Sichern Sie Zugang; Offenkundigkeit verlangt Kenntnis von Tatsache und hindernder Wirkung. Führen Sie Ausweichmaßnahmen, Fortdauer, Wegfall und Wiederaufnahme nach. 
+Bedenken nach Paragraf 4 Absatz 3 VOB/B benennen technische Gefahr und erforderliche Entscheidung. Behinderung nach Paragraf 6 Absatz 1 benennt Tätigkeit, Ort, Beginn, Hindernis und konkrete Wirkung. Sichern Sie Zugang; Offenkundigkeit verlangt Kenntnis von Tatsache und hindernder Wirkung. Führen Sie Ausweichmaßnahmen, Fortdauer, Wegfall und Wiederaufnahme nach.
 
 Vergleichen Sie Soll- und Istablauf ereignisbezogen mit Tätigkeiten, Zeitraum, Ressourcen und Folgeprozessen. Prüfen Sie Zeitspielräume und Eigenstörungen. Fristverlängerung vergütet keine Kosten automatisch. Paragraf 642 BGB verlangt Annahmeverzug, Leistungsbereitschaft und grundsätzlich Leistungsangebot. Schadensersatz verlangt eigene Voraussetzungen, insbesondere Pflichtverletzung und Verantwortlichkeit. Angeordnete Beschleunigung ist von bloßem Drängen auf den Vertragstermin zu trennen.
 

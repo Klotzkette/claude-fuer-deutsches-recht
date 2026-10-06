@@ -12,7 +12,7 @@ Offenes und nicht offenes Verfahren sind wählbar; Verhandlung braucht den passe
 
 ## 1.2. Bekanntmachung und Fragen
 
-Gleichen Sie Bekanntmachung und Unterlagen ab. Prüfen Sie direkten Zugang nach Paragraf 12a EU. XML-Erstellung beweist keine eForms-Validierung oder Veröffentlichung; sichern Sie Absendung, Publikation und Versionen. 
+Gleichen Sie Bekanntmachung und Unterlagen ab. Prüfen Sie direkten Zugang nach Paragraf 12a EU. XML-Erstellung beweist keine eForms-Validierung oder Veröffentlichung; sichern Sie Absendung, Publikation und Versionen.
 
 Unterscheiden Sie Klarstellung und Änderung. Antworten an alle enthalten die erforderliche Information ohne fremde Kalkulation und Bieteridentität. Bei wesentlicher Änderung oder verspäteter relevanter Zusatzinformation prüfen Sie Fristverlängerung nach Paragraf 10a EU Absatz 6. Lesen Sie die einschlägigen Sechs- beziehungsweise Viertagesregeln mit Paragraf 12a EU Absatz 3 anhand des konkreten Beschleunigungsgrunds. Umfang und Marktwirkung können eine Bekanntmachungsberichtigung oder einen Neustart verlangen. Aktualisieren Sie LV, GAEB, Pläne und Vertrag konsistent.
 

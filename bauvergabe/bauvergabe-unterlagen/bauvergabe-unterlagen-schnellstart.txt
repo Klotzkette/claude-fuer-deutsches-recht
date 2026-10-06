@@ -18,7 +18,7 @@ Losbildung folgt 2026 Paragraf 97a GWB und Paragraf 5a EU VOB/A. Prüfen Sie Fac
 
 ## 1.3. LV, GAEB und Technik
 
-Prüfen Sie Paragrafen 7 EU bis 7c EU VOB/A: Position, Langtext, Menge, Einheit, Vergütungsart, Planbezug und Baustellenbedingungen müssen zusammenpassen. Bedarfspositionen sind grundsätzlich ausgeschlossen, Stundenlohnpositionen nur im unbedingt erforderlichen Umfang vorgesehen. Klären Sie Leistungsüberschneidungen und ungewöhnliche Risiken konkret. 
+Prüfen Sie Paragrafen 7 EU bis 7c EU VOB/A: Position, Langtext, Menge, Einheit, Vergütungsart, Planbezug und Baustellenbedingungen müssen zusammenpassen. Bedarfspositionen sind grundsätzlich ausgeschlossen, Stundenlohnpositionen nur im unbedingt erforderlichen Umfang vorgesehen. Klären Sie Leistungsüberschneidungen und ungewöhnliche Risiken konkret.
 
 GAEB ist ein Datenstandard. Halten Sie Version, Austauschphase und Verbindlichkeit der Fassungen fest; eine Textprüfung ist keine technische GAEB-Validierung. Ändern Sie lesbare und digitale Fassungen konsistent. DIN- und ATV-Texte benötigen eine verfügbare Ausgabe; keine erfundenen Abschnitte, Normwerte oder Prüfklassen.
 
