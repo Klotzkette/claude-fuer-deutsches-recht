@@ -3,6 +3,8 @@ name: bedarf-planungsreife
 description: Überführen Sie Bauherrenziele und Planungsunterlagen in einen kalkulierbaren Beschaffungsgegenstand. Der Skill stellt rechtliche Vergabereife fest; er ersetzt keine Architektur-, Tragwerks-, TGA- oder Baugrundplanung.
 ---
 
+# Baubedarf und Planungsreife für die Vergabe prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Überführen Sie Bauherrenziele und Planungsunterlagen in einen kalkulierbaren Beschaffungsgegenstand. Der Skill stellt rechtliche Vergabereife fest; er ersetzt keine Architektur-, Tragwerks-, TGA- oder Baugrundplanung.

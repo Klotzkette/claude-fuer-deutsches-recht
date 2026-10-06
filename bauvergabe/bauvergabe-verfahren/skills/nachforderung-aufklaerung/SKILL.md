@@ -3,6 +3,8 @@ name: nachforderung-aufklaerung
 description: Entscheiden Sie für jeden Mangel zwischen zulässiger Ergänzung, erforderlicher Aufklärung und unzulässiger Angebotsänderung. Verwenden Sie die bauvergabespezifische Regel von 2026.
 ---
 
+# Nachforderung und Aufklärung von Bauangeboten durchführen
+
 ## 1. Zweck und Anwendungsfall
 
 Entscheiden Sie für jeden Mangel zwischen zulässiger Ergänzung, erforderlicher Aufklärung und unzulässiger Angebotsänderung. Verwenden Sie die bauvergabespezifische Regel von 2026.

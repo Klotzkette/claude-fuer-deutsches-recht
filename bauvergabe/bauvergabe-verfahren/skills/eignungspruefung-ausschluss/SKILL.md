@@ -3,6 +3,8 @@ name: eignungspruefung-ausschluss
 description: Prüfen Sie die tatsächliche Eignung und gesetzliche Ausschlussgründe am richtigen Punkt des Verfahrens. Trennen Sie veröffentlichte Anforderungen, fehlende Belege und belastbare Ausschlusstatsachen.
 ---
 
+# Bietereignung und Ausschlussgründe im Bauvergabeverfahren prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Prüfen Sie die tatsächliche Eignung und gesetzliche Ausschlussgründe am richtigen Punkt des Verfahrens. Trennen Sie veröffentlichte Anforderungen, fehlende Belege und belastbare Ausschlusstatsachen.

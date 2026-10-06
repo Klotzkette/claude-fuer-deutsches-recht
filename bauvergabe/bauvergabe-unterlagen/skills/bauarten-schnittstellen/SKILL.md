@@ -3,6 +3,8 @@ name: bauarten-schnittstellen
 description: Übertragen Sie die Unterlagenprüfung auf Klinik- und Apothekenbau, Hallen, Wohnungsbau, Tunnel, Straßen, Autobahnen und Schutzplanken. Technische Besonderheiten werden fachlich belegt und in kalkulierbare Vertragsanforderungen übersetzt.
 ---
 
+# Bauartspezifische Anforderungen und Schnittstellen prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Übertragen Sie die Unterlagenprüfung auf Klinik- und Apothekenbau, Hallen, Wohnungsbau, Tunnel, Straßen, Autobahnen und Schutzplanken. Technische Besonderheiten werden fachlich belegt und in kalkulierbare Vertragsanforderungen übersetzt.

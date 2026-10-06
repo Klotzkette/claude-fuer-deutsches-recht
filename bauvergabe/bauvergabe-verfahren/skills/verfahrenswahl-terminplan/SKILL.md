@@ -3,6 +3,8 @@ name: verfahrenswahl-terminplan
 description: Wählen und begründen Sie das zulässige Bauvergabeverfahren und berechnen Sie einen realistischen Ablauf mit den tatsächlich einschlägigen Fristen.
 ---
 
+# Bauvergabeverfahren wählen und Terminplan erstellen
+
 ## 1. Zweck und Anwendungsfall
 
 Wählen und begründen Sie das zulässige Bauvergabeverfahren und berechnen Sie einen realistischen Ablauf mit den tatsächlich einschlägigen Fristen.

@@ -3,6 +3,8 @@ name: angebotsoeffnung-formpruefung
 description: Sichern Sie den unveränderten Angebotseingang und prüfen Sie Frist, Form, Integrität und Abweichungen anhand des veröffentlichten Regimes.
 ---
 
+# Bauangebote öffnen und formal prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Sichern Sie den unveränderten Angebotseingang und prüfen Sie Frist, Form, Integrität und Abweichungen anhand des veröffentlichten Regimes.

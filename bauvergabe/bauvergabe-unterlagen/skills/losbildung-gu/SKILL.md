@@ -3,6 +3,8 @@ name: losbildung-gu
 description: Entwickeln und begründen Sie Fach- und Teillose oder eine tragfähige Zusammenfassung. Prüfen Sie Generalunternehmermodelle anhand des aktuellen Losgrundsatzes statt anhand organisatorischer Bequemlichkeit.
 ---
 
+# Losbildung und Generalunternehmervergabe begründen
+
 ## 1. Zweck und Anwendungsfall
 
 Entwickeln und begründen Sie Fach- und Teillose oder eine tragfähige Zusammenfassung. Prüfen Sie Generalunternehmermodelle anhand des aktuellen Losgrundsatzes statt anhand organisatorischer Bequemlichkeit.

@@ -3,6 +3,8 @@ name: bieterfragen-berichtigung
 description: Bearbeiten Sie Fragen und erkannte Unterlagenfehler gleichbehandelnd und mit korrekter Publizität und Fristfolge. Eine rechtsschutzbezogene Rüge wird zusätzlich an den Rechtsschutzschritt übergeben.
 ---
 
+# Bieterfragen beantworten und Bauvergabeunterlagen berichtigen
+
 ## 1. Zweck und Anwendungsfall
 
 Bearbeiten Sie Fragen und erkannte Unterlagenfehler gleichbehandelnd und mit korrekter Publizität und Fristfolge. Eine rechtsschutzbezogene Rüge wird zusätzlich an den Rechtsschutzschritt übergeben.

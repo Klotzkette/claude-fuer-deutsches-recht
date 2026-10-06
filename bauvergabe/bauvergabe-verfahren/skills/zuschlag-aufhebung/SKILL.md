@@ -3,6 +3,8 @@ name: zuschlag-aufhebung
 description: Bereiten Sie den rechtswirksamen Abschluss oder eine begründete Aufhebung vor und prüfen Sie alle eigenständigen Zuschlagshindernisse.
 ---
 
+# Zuschlag oder Aufhebung der Bauvergabe vorbereiten
+
 ## 1. Zweck und Anwendungsfall
 
 Bereiten Sie den rechtswirksamen Abschluss oder eine begründete Aufhebung vor und prüfen Sie alle eigenständigen Zuschlagshindernisse.

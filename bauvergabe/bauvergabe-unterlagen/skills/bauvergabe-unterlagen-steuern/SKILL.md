@@ -3,6 +3,8 @@ name: bauvergabe-unterlagen-steuern
 description: Steuert die Erstellung von Bauvergabeunterlagen auf Auftraggeberseite und verbindet genau zehn bauspezifische Fachschritte. Bei einem Einzelauftrag direkt den passenden Fachskill verwenden.
 ---
 
+# Erstellung der Bauvergabeunterlagen steuern
+
 ## 1. Zweck und Anwendungsfall
 
 Führen Sie den Auftrag zur Erstellung von Bauvergabeunterlagen bis zum bestellten ausformulierten Ergebnis. Der Hauptskill verbindet zehn Fachskills; er ist kein Ersatz für deren konkrete Prüfung. Beginnen Sie bei einer vorhandenen Akte am aktuellen Ereignis und nicht mit einer erneuten vollständigen Aufnahme.

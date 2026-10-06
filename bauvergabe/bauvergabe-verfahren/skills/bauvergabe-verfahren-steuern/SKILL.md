@@ -3,6 +3,8 @@ name: bauvergabe-verfahren-steuern
 description: Steuert die Führung eines Bauvergabeverfahrens auf Auftraggeberseite und verbindet genau zehn bauspezifische Fachschritte. Bei einem Einzelauftrag direkt den passenden Fachskill verwenden.
 ---
 
+# Bauvergabeverfahren auf Auftraggeberseite steuern
+
 ## 1. Zweck und Anwendungsfall
 
 Führen Sie den Auftrag zur Führung eines Bauvergabeverfahrens bis zum bestellten ausformulierten Ergebnis. Der Hauptskill verbindet zehn Fachskills; er ist kein Ersatz für deren konkrete Prüfung. Beginnen Sie bei einer vorhandenen Akte am aktuellen Ereignis und nicht mit einer erneuten vollständigen Aufnahme.

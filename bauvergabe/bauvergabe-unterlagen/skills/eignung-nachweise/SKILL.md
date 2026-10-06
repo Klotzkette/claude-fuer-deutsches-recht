@@ -3,6 +3,8 @@ name: eignung-nachweise
 description: Entwerfen Sie verhältnismäßige Eignungskriterien und eine eindeutige Nachweisliste für die Bauvergabe unter Berücksichtigung der Erleichterungen von 2026.
 ---
 
+# Eignungskriterien und Nachweise für Bauvergaben festlegen
+
 ## 1. Zweck und Anwendungsfall
 
 Entwerfen Sie verhältnismäßige Eignungskriterien und eine eindeutige Nachweisliste für die Bauvergabe unter Berücksichtigung der Erleichterungen von 2026.

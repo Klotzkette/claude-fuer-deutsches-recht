@@ -3,6 +3,8 @@ name: unterlagen-freigabe
 description: Führen Sie den abschließenden Konsistenz-, Rechts- und Kalkulationscheck durch und übergeben Sie einen eindeutigen Stand an das Vergabeverfahren.
 ---
 
+# Bauvergabeunterlagen abschließend prüfen und freigeben
+
 ## 1. Zweck und Anwendungsfall
 
 Führen Sie den abschließenden Konsistenz-, Rechts- und Kalkulationscheck durch und übergeben Sie einen eindeutigen Stand an das Vergabeverfahren.

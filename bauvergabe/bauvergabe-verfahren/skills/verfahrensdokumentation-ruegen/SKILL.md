@@ -3,6 +3,8 @@ name: verfahrensdokumentation-ruegen
 description: Führen Sie eine nachvollziehbare Verfahrensakte und bearbeiten Sie neue Beanstandungen bis zur konkreten Entscheidung beziehungsweise Übergabe in den Rechtsschutz.
 ---
 
+# Bauvergabeverfahren dokumentieren und Rügen bearbeiten
+
 ## 1. Zweck und Anwendungsfall
 
 Führen Sie eine nachvollziehbare Verfahrensakte und bearbeiten Sie neue Beanstandungen bis zur konkreten Entscheidung beziehungsweise Übergabe in den Rechtsschutz.

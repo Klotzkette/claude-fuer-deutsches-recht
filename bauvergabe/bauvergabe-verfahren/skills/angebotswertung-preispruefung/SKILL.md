@@ -3,6 +3,8 @@ name: angebotswertung-preispruefung
 description: Werten Sie zuschlagsfähige Angebote anhand der veröffentlichten Kriterien und prüfen Sie ungewöhnliche Preise nachvollziehbar, ohne neue Auswahlmaßstäbe oder Preisverhandlungen einzuführen.
 ---
 
+# Bauangebote werten und Preise prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Werten Sie zuschlagsfähige Angebote anhand der veröffentlichten Kriterien und prüfen Sie ungewöhnliche Preise nachvollziehbar, ohne neue Auswahlmaßstäbe oder Preisverhandlungen einzuführen.

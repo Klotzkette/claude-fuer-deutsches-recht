@@ -3,6 +3,8 @@ name: zuschlagskriterien
 description: Entwickeln Sie transparente, auftragsbezogene Zuschlagskriterien und ein vorab anwendbares Modell für Preis, Qualität und gegebenenfalls Lebenszykluskosten.
 ---
 
+# Zuschlagskriterien und Wertungsmodell für Bauvergaben entwickeln
+
 ## 1. Zweck und Anwendungsfall
 
 Entwickeln Sie transparente, auftragsbezogene Zuschlagskriterien und ein vorab anwendbares Modell für Preis, Qualität und gegebenenfalls Lebenszykluskosten.

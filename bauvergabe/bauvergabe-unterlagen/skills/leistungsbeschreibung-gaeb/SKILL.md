@@ -3,6 +3,8 @@ name: leistungsbeschreibung-gaeb
 description: Prüfen und redigieren Sie Leistungsverzeichnisse sowie deren digitale Austauschfassung auf eindeutige, vollständige und kalkulierbare Leistungsangaben. Kennzeichnen Sie technisch nicht belegbare Aussagen statt sie zu erfinden.
 ---
 
+# Leistungsbeschreibung und GAEB-Austauschfassung prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Prüfen und redigieren Sie Leistungsverzeichnisse sowie deren digitale Austauschfassung auf eindeutige, vollständige und kalkulierbare Leistungsangaben. Kennzeichnen Sie technisch nicht belegbare Aussagen statt sie zu erfinden.

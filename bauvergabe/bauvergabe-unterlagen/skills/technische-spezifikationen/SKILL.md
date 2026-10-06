@@ -3,6 +3,8 @@ name: technische-spezifikationen
 description: Gestalten Sie leistungsbezogene technische Anforderungen so, dass Sicherheitsbedarf, Wettbewerb, Barrierefreiheit und Gleichwertigkeit zusammenpassen.
 ---
 
+# Technische Spezifikationen für Bauleistungen gestalten
+
 ## 1. Zweck und Anwendungsfall
 
 Gestalten Sie leistungsbezogene technische Anforderungen so, dass Sicherheitsbedarf, Wettbewerb, Barrierefreiheit und Gleichwertigkeit zusammenpassen.

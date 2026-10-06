@@ -3,6 +3,8 @@ name: rechtsregime-auftragswert
 description: Bestimmen Sie vor der Unterlagenerstellung Auftraggebereigenschaft, Bauauftragsbegriff, Wert und anwendbare Fassung. Eine kommunale Beteiligung, eine Krankenhausnutzung oder die Bezeichnung Generalunternehmer genügt für die Einordnung allein nicht.
 ---
 
+# Rechtsregime und Auftragswert der Bauvergabe bestimmen
+
 ## 1. Zweck und Anwendungsfall
 
 Bestimmen Sie vor der Unterlagenerstellung Auftraggebereigenschaft, Bauauftragsbegriff, Wert und anwendbare Fassung. Eine kommunale Beteiligung, eine Krankenhausnutzung oder die Bezeichnung Generalunternehmer genügt für die Einordnung allein nicht.

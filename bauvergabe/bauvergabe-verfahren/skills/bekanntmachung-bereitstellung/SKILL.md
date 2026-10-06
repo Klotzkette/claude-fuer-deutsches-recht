@@ -3,6 +3,8 @@ name: bekanntmachung-bereitstellung
 description: Erstellen Sie die Bekanntmachungsdaten und prüfen Sie die vollständige gleichzeitige Bereitstellung der richtigen Vergabeunterlagen.
 ---
 
+# Bauvergabe bekannt machen und Unterlagen bereitstellen
+
 ## 1. Zweck und Anwendungsfall
 
 Erstellen Sie die Bekanntmachungsdaten und prüfen Sie die vollständige gleichzeitige Bereitstellung der richtigen Vergabeunterlagen.

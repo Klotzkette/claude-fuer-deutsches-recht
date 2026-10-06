@@ -3,6 +3,8 @@ name: vertragsbedingungen
 description: Erstellen und prüfen Sie abgestimmte Vertragsbedingungen mit klarem Leistungs-, Vergütungs-, Termin- und Änderungsregime. Vergaberecht und zivilrechtliche Wirksamkeit sind getrennt zu beurteilen.
 ---
 
+# Vertragsbedingungen für Bauvergaben erstellen und prüfen
+
 ## 1. Zweck und Anwendungsfall
 
 Erstellen und prüfen Sie abgestimmte Vertragsbedingungen mit klarem Leistungs-, Vergütungs-, Termin- und Änderungsregime. Vergaberecht und zivilrechtliche Wirksamkeit sind getrennt zu beurteilen.

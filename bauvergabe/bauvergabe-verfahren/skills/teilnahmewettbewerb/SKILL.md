@@ -3,6 +3,8 @@ name: teilnahmewettbewerb
 description: Prüfen Sie Bewerbungen und wählen Sie Teilnehmer nach bekannt gemachten Regeln aus, wenn das gewählte Verfahren einen Teilnahmewettbewerb vorsieht.
 ---
 
+# Teilnahmewettbewerb für Bauvergaben durchführen
+
 ## 1. Zweck und Anwendungsfall
 
 Prüfen Sie Bewerbungen und wählen Sie Teilnehmer nach bekannt gemachten Regeln aus, wenn das gewählte Verfahren einen Teilnahmewettbewerb vorsieht.
