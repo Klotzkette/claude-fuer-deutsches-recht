@@ -382,11 +382,12 @@ def _parcel_blocks(parcels):
         blocks.append(("p", "Es sind noch keine Flurstücke ausgewählt. Die Auswahl ist vor einer externen Anfrage zu ergänzen: [ergänzen]."))
     for index, parcel in enumerate(parcels, 1):
         v = lambda key: _value(parcel, key)
+        parcel_number = v('numerator') + ('/' + v('denominator') if parcel.get('denominator') else '')
         blocks.extend([
             ("h3", f"3.{index}. Auswahlposition {index}"),
             ("p", f"Die Gemeinde ist mit {v('municipality')} und dem Gemeindeschlüssel {v('municipality_code')} angegeben. "
              f"Die Gemarkung heißt {v('district_name')}; ihr Schlüssel lautet {v('district_code')}. "
-             f"Die Flur ist mit {v('flur')}, der Zähler mit {v('numerator')} und der Nenner mit {v('denominator')} angegeben. "
+             f"Die Flur ist mit {v('flur')} und die Flurstücksnummer mit {parcel_number} angegeben. "
              f"Das amtliche Flurstückskennzeichen lautet nach den Vorgangsdaten {v('official_parcel_reference')}."),
             ("p", f"Die angegebene Fläche beträgt {v('area_value')} {v('area_unit')}. Als Lage ist festgehalten: {v('location_text')}. "
              f"Die Quelle ist {v('source_url')}. Der Datenstand lautet {v('source_date')}; der Abrufzeitpunkt lautet {v('retrieved_at')}. "

@@ -281,6 +281,13 @@ class ValidationTests(unittest.TestCase):
 
 
 class DocumentTests(unittest.TestCase):
+    def test_undivided_parcel_does_not_request_an_unnecessary_denominator(self):
+        case = case_data(1)
+        case['selected_parcels'][0]['denominator'] = ''
+        for document in documents.build_documents(case):
+            self.assertIn('Flurstücksnummer mit 00001', document['html'])
+            self.assertNotIn('Nenner mit [ergänzen]', document['html'])
+
     def test_exact_four_documents_and_complete_html(self):
         results = documents.build_documents({})
         self.assertEqual([item["id"] for item in results], ["uebergabe", "kataster", "grundbuch", "notar"])
@@ -312,7 +319,7 @@ class DocumentTests(unittest.TestCase):
         case = {"selected_parcels": [{"geometry": {"type": "Point", "coordinates": [7, 51]}, "identification_status": "lagehinweis"}]}
         for item in documents.build_documents(case):
             text = ParsedHTML(item["html"]).text
-            self.assertIn("der Zähler mit [ergänzen] und der Nenner mit [ergänzen]", text)
+            self.assertIn("die Flurstücksnummer mit [ergänzen]", text)
             self.assertIn("Flurstückskennzeichen lautet nach den Vorgangsdaten [ergänzen]", text)
             self.assertIn("Lagehinweis", text)
             self.assertIn("kein Eigentum", text)

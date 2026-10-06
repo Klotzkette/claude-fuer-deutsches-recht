@@ -31,7 +31,7 @@ jobs:
           node-version: '22'
       - name: Abhängigkeiten
         run: |
-          python -m pip install -r grundstuecksrecherche/app/requirements.txt PyYAML
+          python -m pip install -r grundstuecksrecherche/app/requirements.txt PyYAML 'markdown-it-py>=3,<5' 'linkify-it-py>=2,<3'
           npm install --prefix "$RUNNER_TEMP/browser-tests" --no-save playwright@1.62.1
           "$RUNNER_TEMP/browser-tests/node_modules/.bin/playwright" install --with-deps chromium
       - name: Anwendung und Importgrenzen

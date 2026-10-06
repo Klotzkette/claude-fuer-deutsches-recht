@@ -442,7 +442,7 @@ def discover(place, fetch):
                 if page_number == catalog["max_pages"] - 1:
                     warnings.append("Katalogrecherche begrenzt; weitere Metadatentreffer können vorhanden sein.")
             except Exception as exc:
-                warnings.append(f"{catalog['title']}: Abfrage derzeit fehlgeschlagen ({type(exc).__name__}); regionale Ersatzquellen bleiben ungeprüfte Kandidaten.")
+                warnings.append(f"{catalog['title']}: Abfrage derzeit fehlgeschlagen ({type(exc).__name__}). Die Katalogrecherche ist unvollständig; den gesonderten Prüfstatus der verfügbaren Dienste beachten.")
                 evidence.append({"kind": "catalog_query", "source_url": url, "checked_at": _now(), "verification_state": "nicht_verfuegbar"})
                 break
     unique = {}
