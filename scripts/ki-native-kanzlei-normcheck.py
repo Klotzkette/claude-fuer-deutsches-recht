@@ -12,16 +12,27 @@ from pathlib import Path
 UA = 'Mozilla/5.0 (normcheck ki-native-kanzlei; +https://github.com/Klotzkette/claude-fuer-deutsches-recht)'
 
 
-def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent': UA})
-    for attempt in range(3):
+def fetch(url, timeout=25):
+    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'de'})
+    err = None
+    for attempt in range(2):
         try:
-            with urllib.request.urlopen(req, timeout=60) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.status, r.read(), r.headers.get_content_charset()
         except Exception as exc:  # noqa: BLE001 - Protokoll statt Abbruch
             err = exc
-            time.sleep(2 * (attempt + 1))
+            time.sleep(2)
     return None, str(err).encode(), None
+
+
+def fallback_url(url):
+    """dejure.org als gekennzeichnete Sekundärquelle, wenn die amtliche Seite nicht antwortet."""
+    m = re.match(r'https://www\.gesetze-im-internet\.de/([^/]+)/__(\w+)\.html', url)
+    if not m:
+        return None
+    abbr = {'ustg_1980': 'UStG', 'ao_1977': 'AO', 'gwg_2017': 'GwG', 'gkg_2004': 'GKG', 'dlinfov': 'DL-InfoV',
+            'vwvfg': 'VwVfG', 'bverfgg': 'BVerfGG', 'egzpo': 'EGZPO'}.get(m.group(1), m.group(1).upper())
+    return f'https://dejure.org/gesetze/{abbr}/{m.group(2)}.html'
 
 
 def html_text(raw, charset):
@@ -69,12 +80,19 @@ def main():
     parts = [f'# Normcheck KI-native Kanzlei\n\nAbruf: {datetime.now(timezone.utc).isoformat(timespec="seconds")}\n']
     failures = 0
     for e in cfg['entries']:
-        status, raw, cs = fetch(e['url'])
+        url = e['url']
+        status, raw, cs = fetch(url)
+        source = 'amtlich'
+        if status != 200 and fallback_url(url):
+            url = fallback_url(url)
+            status, raw, cs = fetch(url)
+            source = 'SEKUNDÄRQUELLE dejure.org'
         digest = hashlib.sha256(raw).hexdigest()[:16]
-        head = f'\n## {e["id"]}\n\nURL: {e["url"]}\nStatus: {status} sha256:{digest}\n'
+        head = f'\n## {e["id"]}\n\nURL: {url}\nQuelle: {source}\nStatus: {status} sha256:{digest}\n'
         if status != 200:
             failures += 1
-            parts.append(head + 'FEHLER: ' + raw.decode(errors='replace')[:300] + '\n')
+            part = head + 'FEHLER: ' + raw.decode(errors='replace')[:300] + '\n'
+            parts.append(part); print(part, flush=True)
             continue
         if e['url'].endswith('.pdf'):
             text = pdf_text(raw)
@@ -87,9 +105,9 @@ def main():
                 body = needle_view(text, e['needles'])
             else:
                 body = text[:9000]
-        parts.append(head + '\n```text\n' + body + '\n```\n')
+        part = head + '\n```text\n' + body + '\n```\n'
+        parts.append(part); print(part, flush=True)
     report = ''.join(parts)
-    print(report)
     if out:
         out.write_text(report, encoding='utf-8')
     print(f'\nAbgerufen: {len(cfg["entries"]) - failures}, Fehler: {failures}')
