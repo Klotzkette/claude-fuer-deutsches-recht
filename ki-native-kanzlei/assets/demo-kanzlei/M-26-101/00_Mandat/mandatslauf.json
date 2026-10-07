@@ -1,0 +1,61 @@
+{
+  "autonomy_level": 2,
+  "gates": {
+    "G2": {
+      "opened_at": "2026-10-07T07:30:00+00:00",
+      "reference": "Rechenvermerk_Einspruch_v01.md",
+      "skill": "fristen-berechnen-ueberwachen",
+      "status": "offen"
+    }
+  },
+  "history": [
+    {
+      "action": "init",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "Freigabestufe 2",
+      "revision": 1
+    },
+    {
+      "action": "phase",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "sacharbeit: Einspruch bestellt",
+      "revision": 2
+    },
+    {
+      "action": "nebenlauf",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "frist: Versäumnisurteil zugestellt",
+      "revision": 3
+    },
+    {
+      "action": "product",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "rechenvermerk-einspruch entwurf 01_Bearbeitung/Rechenvermerk_Einspruch_v01.md da0d16f16b6b",
+      "revision": 4
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "G2 offen",
+      "revision": 5
+    }
+  ],
+  "matter_id": "M-26-101",
+  "open_questions": [],
+  "phase": "sacharbeit",
+  "products": {
+    "rechenvermerk-einspruch": {
+      "path": "01_Bearbeitung/Rechenvermerk_Einspruch_v01.md",
+      "sha256": "da0d16f16b6bd5f4d9dbb60a5eb86f7d98457102ff8ad9cb1504a7da0385bf4b",
+      "skill": "fristen-berechnen-ueberwachen",
+      "state": "entwurf",
+      "updated": "2026-10-07T07:30:00+00:00"
+    }
+  },
+  "revision": 5,
+  "schema_version": 1,
+  "side_runs": [
+    "frist"
+  ],
+  "updated": "2026-10-07T07:30:00+00:00"
+}

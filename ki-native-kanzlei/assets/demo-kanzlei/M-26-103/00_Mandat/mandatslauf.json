@@ -1,0 +1,28 @@
+{
+  "autonomy_level": 1,
+  "gates": {},
+  "history": [
+    {
+      "action": "init",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "Freigabestufe 1",
+      "revision": 1
+    },
+    {
+      "action": "question",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "Wer ist Mandant: Frau Mertens oder ihre GmbH?",
+      "revision": 2
+    }
+  ],
+  "matter_id": "M-26-103",
+  "open_questions": [
+    "Wer ist Mandant: Frau Mertens oder ihre GmbH?"
+  ],
+  "phase": "eingang",
+  "products": {},
+  "revision": 2,
+  "schema_version": 1,
+  "side_runs": [],
+  "updated": "2026-10-07T07:30:00+00:00"
+}

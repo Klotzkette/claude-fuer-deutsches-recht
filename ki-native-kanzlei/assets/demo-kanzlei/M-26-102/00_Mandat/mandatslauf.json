@@ -1,0 +1,53 @@
+{
+  "autonomy_level": 2,
+  "gates": {
+    "G4": {
+      "opened_at": "2026-10-07T07:30:00+00:00",
+      "reference": "Rechnung_Entwurf_v01.md",
+      "skill": "abrechnung-e-rechnung",
+      "status": "offen"
+    }
+  },
+  "history": [
+    {
+      "action": "init",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "Freigabestufe 2",
+      "revision": 1
+    },
+    {
+      "action": "phase",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "abrechnung: Leistungsabschnitt beendet",
+      "revision": 2
+    },
+    {
+      "action": "product",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "rechnung entwurf 01_Bearbeitung/Rechnung_Entwurf_v01.md 3f253d837781",
+      "revision": 3
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-07T07:30:00+00:00",
+      "detail": "G4 offen",
+      "revision": 4
+    }
+  ],
+  "matter_id": "M-26-102",
+  "open_questions": [],
+  "phase": "abrechnung",
+  "products": {
+    "rechnung": {
+      "path": "01_Bearbeitung/Rechnung_Entwurf_v01.md",
+      "sha256": "3f253d83778141b89fb1031363fe4dc1c941aa9aa0ee0e7280aa99d4b005e783",
+      "skill": "abrechnung-e-rechnung",
+      "state": "entwurf",
+      "updated": "2026-10-07T07:30:00+00:00"
+    }
+  },
+  "revision": 4,
+  "schema_version": 1,
+  "side_runs": [],
+  "updated": "2026-10-07T07:30:00+00:00"
+}
