@@ -8,7 +8,7 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
-Neu: [SI-native Kanzlei](./si-native-kanzlei/README.md) verbindet 15 Fachskills und einen Hauptskill mit Honorarabfragen, tatsächlicher Zeiterfassung, fortgeschriebenem Rechnungsentwurf und XRechnung-Export. Dazu kommen 24 kurze Fachanwaltsakten mit je zehn Originalstücken. Die Downloads stehen im eigenen [Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/si-native-kanzlei-v445.33.3); vorhandene allgemeine Sammel-ZIPs enthalten diese Erweiterung noch nicht.
+Neu: [KI-native Kanzlei](./ki-native-kanzlei/README.md) umfasst 17 ausführliche Fachskills und einen Hauptskill. Eigene Skills für Fristenberechnung und Anwaltsberufsrecht ergänzen Honorarabfragen, tatsächliche Zeiterfassung, Rechnungsentwürfe und XRechnung-Export. Dazu kommen 24 kurze Fachanwaltsakten mit je zehn Originalstücken. Die Downloads stehen im eigenen [Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-native-kanzlei-v445.33.4); vorhandene allgemeine Sammel-ZIPs enthalten diese Erweiterung noch nicht.
 
 Neu: [Bauwirtschaft rundum](./bauwirtschaft-rundum/README.md) bündelt zwei getrennte Seminarpakete für Anfänger und Fortgeschrittene. Je acht Skills, ein eigener Werkstatt- und Mini-Prompt sowie fünf Praxisakten bilden die angekündigten Arbeitsabläufe aus Planung, Bauüberwachung, Ausführung, Vergabe und Streitlösung ab. Die vorhandenen Bauwirtschafts- und Bauvergabepakete bleiben erhalten. Die neuen Einzelpakete und Akten stehen im eigenen Komponentenrelease bereit; ältere Sammel-ZIPs enthalten sie noch nicht.
 
@@ -137,13 +137,13 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
 | **Plugins** | 285 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22842 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Skills** | 22844 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 284 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 283 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
 | **Testakten** | 486 zentral / 489 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22842 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22844 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -181,7 +181,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 285 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22842: [Gesamtübersicht](./SKILLS.md) |
+| **Skills (SKILL.md)** | 22844: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 486 zentral / 489 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
@@ -550,6 +550,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`kanzlei-mandant-lifecycle`](./kanzlei-mandant-lifecycle) | Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance. |
 | [`kartellrecht-marktabgrenzung-pruefung`](./kartellrecht-marktabgrenzung-pruefung) | Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. |
 | [`ki-governance`](./ki-governance) | EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie. |
+| [`ki-native-kanzlei`](./ki-native-kanzlei) | KI-native Kanzlei: achtzehn vertiefte Skills für Mandat, Fristenrechnung, Anwaltsberufsrecht, Honorar, Zeit, Vertrags- und Schriftsatzarbeit, beA und E-Rechnung. Mit 24 kurzen Fachanwaltsakten. |
 | [`ki-richtlinie-kanzleien`](./ki-richtlinie-kanzleien) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen. |
 | [`ki-verordnung-hochrisiko-pruefer`](./ki-verordnung-hochrisiko-pruefer) | Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall. |
 | [`ki-verordnung-transparenzpruefer`](./ki-verordnung-transparenzpruefer) | Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken. |
@@ -660,7 +661,6 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`sektorenvergabe-workflow`](./sektorenvergabe-workflow) | Sektorenvergabe aus Auftraggebersicht: fünf Skills für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis über Bekanntmachung, Rügen und Wertung bis Zuschlag und Nachprüfung. |
 | [`selbstvertreter-amtsgericht`](./selbstvertreter-amtsgericht) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. |
 | [`selbstvertreter-sozialgericht`](./selbstvertreter-sozialgericht) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. |
-| [`si-native-kanzlei`](./si-native-kanzlei) | SI-native Kanzlei: sechzehn Skills verbinden Mandatsannahme, Honorar, Zeiterfassung, Vertrags- und Schriftsatzarbeit, beA sowie Rechnungsentwürfe und E-Rechnung. Mit 24 kurzen Fachanwaltsakten. |
 | [`softwarerecht-de-eu-us`](./softwarerecht-de-eu-us) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. |
 | [`solo-selbststaendige-praxis`](./solo-selbststaendige-praxis) | Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. |
 | [`sozialrecht-fuer-laien`](./sozialrecht-fuer-laien) | Sozialrecht für den eigenen Fall: Briefe verstehen, Tatsachen klären, Fristen prüfen und Anträge, Widersprüche oder Gerichtsschreiben vorbereiten. Zehn kurze Arbeitswege in einfacher Sprache mit klaren Grenzen und Wegen zu persönlicher Hilfe. |

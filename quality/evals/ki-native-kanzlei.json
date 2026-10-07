@@ -1,0 +1,607 @@
+{
+  "schema_version": 1,
+  "plugin": "ki-native-kanzlei",
+  "reviewed_on": "2026-10-07",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+      "checked_on": "2026-10-07",
+      "supports": "Dienstleistergeheimnis, Ausland und einzelmandatsbezogene Einwilligung neben DSGVO."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__2.html",
+      "checked_on": "2026-10-07",
+      "supports": "Anlassbezogener Verpflichtetenkatalog für Rechtsanwälte."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/rvg/__10.html",
+      "checked_on": "2026-10-07",
+      "supports": "Aktuelle Textform der anwaltlichen Berechnung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356.html",
+      "checked_on": "2026-10-07",
+      "supports": "Zum Prüfstand Dienstleistungen in Absatz 5; vollständige Leistung und weitere Voraussetzungen statt bloßem Arbeitsbeginn."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+      "checked_on": "2026-10-07",
+      "supports": "Elektronische Widerrufsfunktion bei Verbraucher-Fernabsatz über Onlineoberfläche."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/ustg_1980/__27.html",
+      "checked_on": "2026-10-07",
+      "supports": "E-Rechnungsübergänge 2026/2027 und 800.000-Euro-Grenze."
+    },
+    {
+      "url": "https://xeinkauf.de/xrechnung/versionen-und-bundles/",
+      "checked_on": "2026-10-07",
+      "supports": "Aktuelles XRechnung 3.0.2-Bundle 31.08.2026; 4.0 nur Vorversion."
+    },
+    {
+      "url": "https://justiz.de/laender-bund-europa/elektronische_kommunikation/bundesanzeiger_29_07_2025.pdf",
+      "checked_on": "2026-10-07",
+      "supports": "ERVB2025, technische Formate, Anzahl, Größe und Dateinamen."
+    },
+    {
+      "url": "https://handbuch.bea-brak.de/arbeiten-mit-ihrem-bea/nachrichten/erstellen-und-senden/anhaenge-hochladen",
+      "checked_on": "2026-10-07",
+      "supports": "Praktisch 84 Zeichen normale Dateien; Systemdateien zählen mit."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744",
+      "checked_on": "2026-10-07",
+      "supports": "Änderung 2026 der KI-Verordnung einschließlich Kompetenzregel und Hochrisikozeitplan."
+    },
+    {
+      "url": "https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/29_-_FAO_Stand_01.10.2026.pdf",
+      "checked_on": "2026-10-07",
+      "supports": "§ 1 enthält 24 Fachanwaltsgebiete zum Prüfstand."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-07",
+      "supports": "Konkreten Geltungsbereich einer Honorarvereinbarung auslegen; Schweigen auf Zeitaufstellungen ist kein durch unwirksame Fiktion erzeugtes Anerkenntnis."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-07",
+      "supports": "Keine automatische Berechnung jedes kleinsten Vorgangs als volle Viertelstunde; tatsächliche Minuten zuerst dokumentieren."
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62021CJ0395",
+      "checked_on": "2026-10-07",
+      "supports": "Wirtschaftliche Folgen eines Verbraucher-Stundenhonorars verständlich machen."
+    },
+    {
+      "url": "https://www.bverwg.de/160525B5B8.25.0",
+      "checked_on": "2026-10-07",
+      "supports": "Gerichtliche Eingangsbestätigung gehört zur Ausgangskontrolle; Signaturprotokoll belegt keinen Eingang."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_338-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-07",
+      "supports": "Rn.10–17: nachvollziehbare Kontrolle geänderter und gestrichener Fristen."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_188-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-07",
+      "supports": "Rn.15–19: konkreter Anspruch auf vollständige Handakten im Zusammenhang mit Vertragsübernahme/Sozietätswechsel."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__222.html",
+      "checked_on": "2026-10-07",
+      "supports": "Fristrechnung, Endverschiebung und gesonderte Stundenregel."
+    }
+  ],
+  "selection": {
+    "target_skill": "ki-kanzlei-steuern",
+    "positive": [
+      "Lege dieses neue Mandat an, entwirf die erste Antwort und halte Honorar, Zeit und Rechnungsentwurf zusammen.",
+      "Führe den bestehenden Kanzleifall von den neuen Belegen über Vertragsentwurf und Zeitfrage bis zum Abrechnungsentwurf fort."
+    ],
+    "negative": [
+      "Erstelle einen privaten Wochenplan für mein Marathontraining.",
+      "Suche eine Mietwohnung für einen Urlaub in Florenz."
+    ]
+  },
+  "cases": [
+    {
+      "id": "mandat-portal-verbraucher",
+      "target_skill": "mandatsannahme-interessenkollision",
+      "request": "Die Kanzlei soll Frau Elif Bock bei einer privaten Kündigung ihres Mietvertrags beraten. Ihr Bruder zahlt. Ein Konfliktsuchtreffer betrifft einen früheren Immobilienverkauf des Vermieters, dessen Umfang noch unbekannt ist. Die Mandantin bucht Beratung im Onlineportal und möchte sofortigen Beginn. Bitte einen begrenzten Annahmeentwurf und die entscheidenden offenen Prüfungen in einer Datei erstellen. Kein Kanzleiregisterzugriff ist vorhanden.",
+      "input_files": [],
+      "deliverables": [
+        "mandat-portal-verbraucher.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Mandantin, Bruder als Zahler, Gegner, Beratungsumfang und Honorar; behandelt den Bruder nicht als neuen Auftraggeber.",
+          "deliverables": [
+            "mandat-portal-verbraucher.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bezeichnet Konfliktprüfung mangels Register und Trefferklärung als offen, ohne aus Namensfund automatisch ein Verbot oder aus fehlendem Zugriff Konfliktfreiheit abzuleiten.",
+          "deliverables": [
+            "mandat-portal-verbraucher.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Prüft Verbraucher-Fernabsatz, Belehrung und Arbeitsbeginn sowie die aktuellen §§ 356 Absatz 5 und 356a BGB; behauptet kein Erlöschen allein durch Beginn.",
+          "deliverables": [
+            "mandat-portal-verbraucher.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert einen ausformulierten begrenzten Annahmeentwurf und gezielte offene Angaben; unabhängige Arbeit läuft weiter, ohne bereits erfolgte Annahme oder Kommunikation zu fingieren.",
+          "deliverables": [
+            "mandat-portal-verbraucher.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geldwaesche-mandatswechsel",
+      "target_skill": "geldwaesche-pruefen",
+      "request": "Zunächst soll die Kanzlei eine gewöhnliche Kündigungsschutzklage der Angestellten Nelly Yildiz führen. Später bittet dieselbe Person, den Kauf einer GmbH-Beteiligung über eine Holding zu gestalten. Ein Ausweisfoto und eine unvollständige Beteiligungsskizze liegen vor; die wirtschaftlich berechtigte Person ist offen. Die Mandantin möchte im Statusbrief auch wissen, ob eine Verdachtsmeldung abgegeben wird. Bitte eine konkrete Prüfnotiz mit nachzufordernden Daten schreiben.",
+      "input_files": [],
+      "deliverables": [
+        "geldwaesche-mandatswechsel.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Entscheidet GwG-Anwendungsbereich anhand § 2 Abs 1 Nr 10 für jeden Auftrag gesondert; macht die Kündigungsschutzklage nicht automatisch zum identifizierungspflichtigen Transaktionsmandat.",
+          "deliverables": [
+            "geldwaesche-mandatswechsel.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet Beteiligungskauf, Vertretung, Identifizierung und wirtschaftliche Berechtigung konkret ein; Foto und unvollständige Kette sind keine abgeschlossene Prüfung.",
+          "deliverables": [
+            "geldwaesche-mandatswechsel.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Unterscheidet Sorgfaltspflichten und die begrenzten anwaltlichen Ausnahmen in § 10 Abs 9 sowie § 43 Abs 2; weder pauschale Befreiung noch automatische Meldung.",
+          "deliverables": [
+            "geldwaesche-mandatswechsel.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erhält die Meldungsfrage als vertrauliche Prüfung; beachtet § 47 statt den Verdachtsmeldestatus automatisch in einen Mandantenbrief zu schreiben.",
+          "deliverables": [
+            "geldwaesche-mandatswechsel.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stundenhonorar-reichweite-2026",
+      "target_skill": "honorar-budget-vereinbaren",
+      "request": "Eine GmbH hat 2025 eine Textformvereinbarung zu 260 Euro netto pro Stunde für die Abwehr einer bezeichneten Forderung geschlossen. Die Klausel erklärt Zeitaufstellungen nach einem Monat Schweigen als anerkannt. 2026 soll zusätzlich ein neuer Lizenzvertrag entworfen werden; die Kanzlei will einfach denselben Satz nehmen. Bitte die Umfangsfrage, die Schweigeklausel und eine ausformulierte Honorarergänzung prüfen; zugrunde liegen BGH19.02.2026 IXZR226/22 und IXZR227/22.",
+      "input_files": [],
+      "deliverables": [
+        "stundenhonorar-reichweite-2026.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Legt den konkreten bisherigen Anwendungsbereich aus und prüft danach die Textform; neue Lizenzgestaltung wird nicht ohne Sachgrund als vom alten Forderungsmandat umfasst behandelt.",
+          "deliverables": [
+            "stundenhonorar-reichweite-2026.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Behandelt BGHIXZR226/22 Rn 31–32 konkret zur unwirksamen Anerkenntnisfiktion auch B2 B; Schweigen ersetzt keine tatsächliche Zeitdarlegung.",
+          "deliverables": [
+            "stundenhonorar-reichweite-2026.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Formuliert eine abgesetzte Honorarergänzung mit Umfang, Satz, Netto/Umsatzsteuer, Auslagen, Reichweite und Kostenerstattungshinweis statt nur einer Prüfliste.",
+          "deliverables": [
+            "stundenhonorar-reichweite-2026.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Kennzeichnet offene Annahme der Ergänzung und erfindet weder eine bereits wirksame Unterschrift noch eine automatische rückwirkende Vergütung.",
+          "deliverables": [
+            "stundenhonorar-reichweite-2026.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zeit-ki-dublette-korrektur",
+      "target_skill": "zeiten-erfassen",
+      "request": "Akte M26-104 hat bestätigtes Stundenhonorar 240 Euro netto, Gebührendeckel 1500 Euro netto, bisherigen bestätigten Gebührenwert 900 Euro. Die Anwältin bestätigt 18 Minuten heutiges Telefonat über Kündigung und Vergleich. Derselbe Buchungsauftrag kommt zweimal. Danach korrigiert sie auf 12 Minuten. Zusätzlich soll das Tool angeblich 3 Stunden buchen, die die KI eingespart habe; die Dauer einer anderen Rückfrage ist unbekannt. Bitte den korrekten Zeit- und Entwurfsstand sowie die tatsächlichen Speicherschritte dokumentieren.",
+      "input_files": [],
+      "deliverables": [
+        "zeit-ki-dublette-korrektur.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Berechnet 18 Minuten als 72 Euro und nach Korrektur 12 Minuten als 48 Euro; Endwert 948 Euro netto, Restdeckel 552 Euro, sofern sonst keine Position hinzukommt.",
+          "deliverables": [
+            "zeit-ki-dublette-korrektur.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verhindert Dublette und führt Korrektur mit erkennbarer Stornierung/Ersatz statt verdecktem Überschreiben oder Doppelberechnung durch.",
+          "deliverables": [
+            "zeit-ki-dublette-korrektur.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bucht keine hypothetischen 3 KI-Stunden; unbekannte Rückfragedauer bleibt offen und wird nicht mit 0 oder einem erfundenen Schätzwert als Tatsache geschlossen.",
+          "deliverables": [
+            "zeit-ki-dublette-korrektur.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Narrativ entspricht dem bestätigten Gespräch; tatsächliche Datei-/Werkzeughandlung wird nur behauptet, wenn erfolgt, sonst wird ein ehrlicher Exportstand mit Speichergrenze geliefert.",
+          "deliverables": [
+            "zeit-ki-dublette-korrektur.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "festpreis-schaetzung-deckel",
+      "target_skill": "ki-kanzlei-steuern",
+      "request": "Drei getrennte Mandate: A hat wirksamen Festpreis 900 Euro netto für eine AGB-Prüfung, intern sind 6 Stunden angefallen. B hat unverbindliche Schätzung 1000 Euro netto, Stundensatz 250 Euro, nachgewiesen 4,4 Stunden. C hat Nettodeckel 1000 Euro nur für Gebühren, Satz 250 Euro und 4,4 Stunden, zusätzlich nachgewiesene steuerpflichtige Auslage 40 Euro. Für B fehlt die Prüfung einer Warnpflicht, für C eine Erweiterung des Deckels. Bitte die getrennten Rechnungsentwürfe und nächste Kostenkommunikation sachgerecht vorbereiten.",
+      "input_files": [],
+      "deliverables": [
+        "festpreis-schaetzung-deckel.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bei A bleibt der vereinbarte Festpreis 900 Euro; interne 6 Stunden werden nicht zusätzlich berechnet und verändern nicht automatisch den Preis.",
+          "deliverables": [
+            "festpreis-schaetzung-deckel.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Bei B werden 1100 Euro rechnerischer Zeitwert und die offene Warn-/Informationspflicht unterschieden; eine Schätzung wird weder automatisch zum Deckel noch zur schrankenlosen Mehrkostenfreigabe.",
+          "deliverables": [
+            "festpreis-schaetzung-deckel.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bei C bleibt Gebührenabrechnung vorbehaltlich wirksamer Abrede bei 1000 Euro, Auslage 40 Euro gesondert; rechnerischer Zeitwert 1100 Euro und 100 Euro Überschreitung werden sichtbar.",
+          "deliverables": [
+            "festpreis-schaetzung-deckel.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert konkret formulierte sachgerechte Kostenkommunikation, getrennte Entwurfsstatus und angemessene Netto-/Steuerannahmen; erstellt keine heimlich erweiterten Preise oder endgültig versandten Rechnungen.",
+          "deliverables": [
+            "festpreis-schaetzung-deckel.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e-rechnung-rollen-uebergaenge",
+      "target_skill": "abrechnung-e-rechnung",
+      "request": "Die Kanzlei erbringt 2026 und 2027 inländische steuerpflichtige Leistungen an eine inländische GmbH. Vorjahresumsatz für 2027 genau 800000 Euro. Daneben privat mandatierte Verbraucherin, deren Rechtsschutzversicherer zahlt, und Auftrag einer Bundesbehörde. Bitte je Fall Rechnungsformat, Übergang, Leistungsempfänger und noch erforderliche Empfängerdaten bestimmen. Geplant ist XRechnung; Steuernummer und echte Empfängerreferenz fehlen. Eine reine PDF ist bereits vorhanden.",
+      "input_files": [],
+      "deliverables": [
+        "e-rechnung-rollen-uebergaenge.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt B2 B, B2 C und B2 G und macht den zahlenden Rechtsschutzversicherer nicht automatisch zum Leistungsempfänger.",
+          "deliverables": [
+            "e-rechnung-rollen-uebergaenge.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Ordnet 2026 und die 2027-Grenze nicht mehr als 800000 Euro korrekt ein; behandelt Empfangspflichten, Ausstellungsübergang, B2 G-Sonderweg und Ausnahmen getrennt.",
+          "deliverables": [
+            "e-rechnung-rollen-uebergaenge.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erklärt PDF nicht als strukturierte E-Rechnung; aktuelles Empfängerprofil und Geschäftsregelprüfung neben Schema erforderlich, XRechnung 4.0-Vorversion wird nicht als bereits produktiver Standard ausgegeben.",
+          "deliverables": [
+            "e-rechnung-rollen-uebergaenge.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Erfindet keine Steuernummer oder Leitweg-ID zur Validatorbefriedigung; hält Entwurf, technisch validierte Datei, honorarrechtliche Freigabe und echten Rechnungsversand getrennt.",
+          "deliverables": [
+            "e-rechnung-rollen-uebergaenge.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bea-anlagen-signatur-platzhalter",
+      "target_skill": "bea-anlagen-vorbereiten",
+      "request": "Ein Klageentwurf nennt K1 Rechnung vom 2 Oktober und K2 Rechnung nebst Begleitmail. Es liegen zwei verschiedene K1.pdf vor, K2 umfasst eine EML mit Rechnung und fremdem Angebot. Die richtige Rechnung ist elektronisch signiert. Ein dritter Beleg fehlt. Ein Dateiname hat 88 Zeichen. Später wird nur ein erfolgreiches Signaturprotokoll geliefert, keine gerichtliche Eingangsbestätigung. Bitte eine konkrete Zuordnungs- und Versandvorbereitungsnotiz mit offenen Punkten schreiben.",
+      "input_files": [],
+      "deliverables": [
+        "bea-anlagen-signatur-platzhalter.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Wählt Belege anhand Inhalt/Datum/Aussteller und dokumentiert denK1 Konflikt; nimmt fremdes Angebot nicht automatisch inK2 und erfindet fehlenden Beleg nicht.",
+          "deliverables": [
+            "bea-anlagen-signatur-platzhalter.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Erhält Signaturoriginal unverändert; keine nachträgliche Stempelung als weiterhin gültig signiertes Original. Stempel-/Ansichtskopie und erstes Anlagenblatt werden bewusst gewählt.",
+          "deliverables": [
+            "bea-anlagen-signatur-platzhalter.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt 88 Zeichen als über der normalen 84 Zeichen-beA-Uploadgrenze; zählt System-/Signaturdateien in 1000/200 MB und behauptet keine ausschließlichePDF/A-Pflicht.",
+          "deliverables": [
+            "bea-anlagen-signatur-platzhalter.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Signaturprotokoll wird nicht als gerichtlicher Eingang behandelt; Empfänger, Signaturweg und tatsächliche Eingangsbestätigung bleiben gesondert, Versand wird nicht fingiert.",
+          "deliverables": [
+            "bea-anlagen-signatur-platzhalter.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ki-dienstleister-mandatsdaten",
+      "target_skill": "workflow-uebergabe",
+      "request": "Die Kanzlei möchte die vollständige Gesundheitsakte einer Mandantin an einen KI-Dienst zur Erstellung eines Prozessentwurfs geben. Der Anbieter nennt Enterprise und hat einen AVV, aber sein Klartextsupport sitzt außerhalb derEU. Die Leistung soll eigens dieses einzelne Mandat bearbeiten. Ein Anbietertext behauptet pauschal, alle Pflichten der KI-Verordnung seien bis 2028 verschoben. Bitte einen konkreten internen Übergabe- und Freigabevermerk mit erforderlichen nächsten Nachweisen erstellen.",
+      "input_files": [],
+      "deliverables": [
+        "ki-dienstleister-mandatsdaten.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Erforderlichkeit, Berufsgeheimnis, § 43 eBRAOAbs 4/5 und Datenschutz getrennt; AVV und Enterprise-Werbung werden nicht als vollständige Freigabe behandelt.",
+          "deliverables": [
+            "ki-dienstleister-mandatsdaten.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt DSGVOArt 6/9, Rollen/AVV, Zugriffssicherheit und Drittlandtransfer; abstrakte Recherche mit weniger Daten ist eine konkrete mögliche Vorbereitung, nicht fingierte vollständige Anonymität.",
+          "deliverables": [
+            "ki-dienstleister-mandatsdaten.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Verwendet tatsächlichen Änderungsstand 2026/1744 und unterscheidet verschobene Hochrisikopflichten von bereits anwendbaren Regeln; anwaltliche Textassistenz nicht automatisch Justiz-Hochrisiko.",
+          "deliverables": [
+            "ki-dienstleister-mandatsdaten.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert nutzbaren Übergabevermerk mit Zweck, Fassung, Empfänger, offenen Nachweisen, Verantwortung und nächstem Produkt; übermittelt keine Akten und behauptet keine anbieterinterne Löschung.",
+          "deliverables": [
+            "ki-dienstleister-mandatsdaten.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "frist-vu-berlin",
+      "target_skill": "fristen-berechnen-ueberwachen",
+      "request": "Fiktiver Arbeitsstand 23.03.2026. Für die Beklagte Mara Fenchel liegt ein inländisches Versäumnisurteil des Landgerichts Berlin II vor. Die Zustellungsurkunde belegt wirksame Zustellung am Freitag 20.03.2026. Berechne die Einspruchsfrist, erläutere den Rechenweg einschließlich örtlicher Feiertage und erstelle einen Fristenvermerk. Ein Kanzleikalenderzugriff ist nicht verfügbar. Ein Mitarbeiter möchte eine früher falsch eingetragene Frist ohne Spur löschen. Was ist jetzt zu tun? Keine Einreichung beauftragt.",
+      "input_files": [],
+      "deliverables": [
+        "frist-vu-berlin.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft §§338–340 ZPO und die inländische Zweiwochen-Notfrist aus wirksamer Zustellung; erkennt unverschobenes Ende 03.04.2026 und begründete Verschiebung im Berliner Kalender bis 07.04.2026.",
+          "deliverables": [
+            "frist-vu-berlin.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Belegt örtliche Feiertage; zeigt Karfreitag, Wochenende, Ostermontag, Beginn und Rechtsnorm, statt ungeprüft ein Kalenderdatum zu nennen.",
+          "deliverables": [
+            "frist-vu-berlin.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Trennt Rechenvermerk von tatsächlichem Kalendereintrag und Einreichung, nennt Zuständigkeit/Vorfrist/Kontrolle ohne fingierten Vollzug.",
+          "deliverables": [
+            "frist-vu-berlin.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Lässt ursprünglichen und berichtigten Eintrag mit Anlass/Beleg/Kontrolle nachvollziehbar; überträgt BGH XII ZB338/24 konkret statt spurlos zu löschen.",
+          "deliverables": [
+            "frist-vu-berlin.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berufsrecht-cloud-aktenwechsel",
+      "target_skill": "anwaltsberufsrecht-pruefen",
+      "request": "Die deutsche Kanzlei berät eine GmbH. Ihr ausgeschiedener Partner will die vollständige digitale Mandatsakte in seinen neuen Cloudzugang kopieren. Er sagt, der Geschäftsführer sei einverstanden; eine Vertragsübernahme oder Vollmacht ist nicht dokumentiert. Der Cloudvertrag enthält einen AVV, erlaubt aber Supportzugriff aus einem Drittland und nennt keine Unterauftragnehmer. Die Gesellschaft hat noch eine offene Honorarnote. Bitte einen konkreten Prüfvermerk und ein ausformuliertes Antwortschreiben an den ausgeschiedenen Partner entwerfen. Keine Datenübertragung oder Nachricht versenden.",
+      "input_files": [],
+      "deliverables": [
+        "berufsrecht-cloud-aktenwechsel.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Prüft Mandatsinhaber, Vertretung und Übergangsrechtsgrund; bloße Aussage eines ausscheidenden Partners beweist keine Vertragsübernahme, aktuelle Handaktenentscheidung IX ZR188/24 nur tatbestandsbezogen.",
+          "deliverables": [
+            "berufsrecht-cloud-aktenwechsel.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft §43e BRAO und §203 StGB getrennt von DSGVO/AVV, konkrete Ausland-/Support-/Unterauftragnehmerfragen und etwaige einzelmandatsbezogene Einwilligung; AVV ist keine Gesamtfreigabe.",
+          "deliverables": [
+            "berufsrecht-cloud-aktenwechsel.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Ordnet §50 BRAO, §§666/667 BGB, Herausgabeumfang und ein mögliches unangemessenes Zurückbehalten ein, ohne offene Honorarnote zum pauschalen Aktenblock zu machen.",
+          "deliverables": [
+            "berufsrecht-cloud-aktenwechsel.md"
+          ]
+        },
+        {
+          "id": "C04",
+          "text": "Liefert verständliches vollständiges Antwortschreiben mit gezielten Nachweisen und unabhängig möglicher Vorbereitung; behauptet keinen Versand und keine Datenübertragung.",
+          "deliverables": [
+            "berufsrecht-cloud-aktenwechsel.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "prompt_workflow_review": {
+    "date": "2026-10-07",
+    "method": "desk_review",
+    "opening_modes": [
+      "Konkretes bestelltes Dokument aus vorgelegter Akte unmittelbar ausarbeiten.",
+      "Bei offenem Ziel zwischen Sachprodukt, Organisation, Zeiteintrag und Abrechnung gezielt klären.",
+      "Bei Fortsetzung gespeicherten Honorar- und Arbeitsstand übernehmen und nur entscheidende Änderungen nachfragen."
+    ],
+    "continuation": "Neue Tatsachen aktualisieren betroffene Dokumente; tatsächliche bestätigte Zeit aktualisiert Entwurf, ohne einen fehlenden Zeitwert zu erfinden oder die Sacharbeit pauschal aufzuhalten.",
+    "enrichment": "Acht eigenständige Sachverhalte mit 32 Ergebniskriterien zu Intake, Geldwäsche, Honorarreichweite, tatsächlicher Zeit, Vergütungsmodellen, E-Rechnung, beA und KI-Dienstleisterzugang.",
+    "limits": "Redaktionelles Prüfprofil; keine beobachteten Modellläufe und keine daraus abgeleitete Erfolgsquote."
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt.",
+    "changes": [
+      "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
+      "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
+      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen."
+    ],
+    "sha256": "44bae727866f5b8bca941c57736597a72d9084c7e4aed144f2f97033c013c943"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Fachprodukt, Honorar und tatsächliche Zeit bleiben verbunden; eigene Fristenroute und anlassbezogene Berufsrechtsprüfung mit konkreten Rechtsprechungsankern ergänzt.",
+    "changes": [
+      "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
+      "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
+      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen."
+    ],
+    "sha256": "ccba1e4c91d3fa6bfc0000a6506994161c57a895afe47330c2cccf9866dfcd16"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-07",
+    "verdict": "revised",
+    "reason": "18 ausführliche Skills verbinden konkrete Sacharbeit mit Fristen, Berufsrecht, bestätigtem Honorar, tatsächlicher Zeit und Rechnungsentwurf.",
+    "changes": [
+      "Spezifische Routen statt allgemeiner Kanzleicheckliste; offene Tatsachen begrenzen nur abhängige Schritte.",
+      "Keine behauptete Hintergrundautomatik, externe Buchung oder Einreichung ohne tatsächlichen Werkzeuglauf."
+    ],
+    "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
+    "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
+    "prompt_sha256": "0d523627b184222b8dbd95a3a5b1c49b02499d55aeb157e7c529158e5e3dbf62",
+    "skill_sha256": "dcd44bc082aa68dd9f78cddc256e4fca43f6138eef6b8df7fa7d1e4b39c4ec3e"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-07",
+    "method": "desk_review",
+    "files": [
+      "ki-native-kanzlei/ki-native-kanzlei-schnellstart.md",
+      "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md",
+      "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md"
+    ],
+    "opening_change": "Konkretes Produkt zuerst; Fristen und Berufsrecht bilden bei Bedarf eigene Prüfwege, ohne jede Akte in einen vollständigen Kanzlei-Fragebogen zu verwandeln.",
+    "norms": [
+      "BRAO §§ 43a, 43e, 49b; StGB § 203; DSGVO Art. 6, 9, 22, 28, 32, 44 ff.",
+      "GwG § 2 Absatz 1 Nummer 10 und §§ 10–15, 43, 47; RVG §§ 3a, 4, 4a, 10, 34, 60.",
+      "BGB §§ 312c, 312g, 356 Absatz 5, 356a; UStG §§ 14, 27 Absatz 38; UStDV §§ 33, 34a.",
+      "ZPO §§ 130a, 130d; ERVV §§ 2, 4; ERVB 2025 und engerer beA-Dateinamenwert.",
+      "KI-Verordnung in Fassung 27.07.2026; FAO Stand 01.10.2026.",
+      "BGB §§ 187–193; ZPO §§ 222, 233 ff., 339; BRAO § 50; BGB §§ 666, 667."
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–18 und 31–32",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1",
+        "application": "Konkreten Geltungsbereich einer Honorarvereinbarung auslegen; Schweigen auf Zeitaufstellungen ist kein durch unwirksame Fiktion erzeugtes Anerkenntnis.",
+        "limit": "Neuer Auftrag, Formprüfung und materielle Reichweite bleiben getrennt; keine allgemeine Freistellung von Transparenzpflichten."
+      },
+      {
+        "citation": "BGH, Urteil vom 13.02.2020 – IX ZR 140/19, Rn. 28–35",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1",
+        "application": "Keine automatische Berechnung jedes kleinsten Vorgangs als volle Viertelstunde; tatsächliche Minuten zuerst dokumentieren.",
+        "limit": "Kein allgemeines Verbot jedes Zeithonorars; Verbraucherfall und konkrete Klausel beachten."
+      },
+      {
+        "citation": "EuGH, Urteil vom 12.01.2023 – C-395/21, EU:C:2023:14, Rn. 35–45 und 47–50",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62021CJ0395",
+        "application": "Wirtschaftliche Folgen eines Verbraucher-Stundenhonorars verständlich machen.",
+        "limit": "Intransparenz und Missbräuchlichkeit nicht automatisch gleichsetzen; deutsche Folgeentscheidung BGH IX ZR 65/23 gesondert einordnen."
+      },
+      {
+        "citation": "BVerwG, Beschluss vom 16.05.2025 – 5 B 8.25, Rn. 3–5",
+        "url": "https://www.bverwg.de/160525B5B8.25.0",
+        "application": "Gerichtliche Eingangsbestätigung gehört zur Ausgangskontrolle; Signaturprotokoll belegt keinen Eingang.",
+        "limit": "Verwaltungsprozessualer Ausgangsfall; konkrete Verfahrensordnung und Versandweg zusätzlich prüfen."
+      },
+      {
+        "citation": "BGH, Beschluss vom 04.03.2026 – XII ZB 338/24, Rn. 10–17",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_338-24.pdf?__blob=publicationFile&v=1",
+        "application": "Korrigierte oder gestrichene elektronische Fristeinträge müssen dauerhaft nachvollziehbar bleiben.",
+        "limit": "Organisationsanforderung; keine automatische Berechnung jeder materiellen oder verfahrensrechtlichen Frist."
+      },
+      {
+        "citation": "BGH, Urteil vom 15.01.2026 – IX ZR 188/24, Rn. 15–19",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_188-24.pdf?__blob=publicationFile&v=1",
+        "application": "Vollständige auftragsbezogene Handakten bei konkret nachgewiesener Vertragsübernahme.",
+        "limit": "Keine pauschale Berechtigung eines ausscheidenden Partners zur Mitnahme aller Kanzleidaten."
+      }
+    ],
+    "remaining_limits": [
+      "Zehn fachliche Szenarien sind als Prüffälle definiert; ein Kriteriumskatalog allein ist kein beobachteter Modelllauf. Tatsächliche weitere Probeläufe und technische Tests werden im aktuellen Qualitätsbericht getrennt nachgewiesen.",
+      "Kleine 24 Fachakten sind konkrete Übungen; aktuelle materielle Fachrecherche bleibt vor realem Einsatz erforderlich.",
+      "Technische XML- und Dateiprüfungen werden gesondert dokumentiert und ersetzen keine rechtliche Rechnungs-/Versandfreigabe."
+    ]
+  }
+}

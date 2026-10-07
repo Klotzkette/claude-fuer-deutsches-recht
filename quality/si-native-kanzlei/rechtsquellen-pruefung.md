@@ -1,6 +1,6 @@
 # 1. Rechtsquellenprüfung SI-native Kanzlei
 
-Prüfdatum: 7. Oktober 2026. Gegenstand sind die konkreten Quellen und Workflowfolgen des neuen Kanzleibetriebs-Plugins. Die Prüfung bezieht sich auf die in der [Rechtsquellenreferenz](../../si-native-kanzlei/references/rechtsquellen.md) erläuterten Aussagen. Sie ist keine Behauptung einer vollständig durchgeführten Fachprüfung aller künftigen Mandate oder eines beobachteten Modelltests.
+Prüfdatum: 7. Oktober 2026. Historischer Nachweis der ursprünglichen Fassung v445.33.3; [aktuelle Vertiefung](../ki-native-kanzlei/README.md). Gegenstand sind die konkreten Quellen und Workflowfolgen des neuen Kanzleibetriebs-Plugins. Die Prüfung bezieht sich auf die in der [Rechtsquellenreferenz](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/si-native-kanzlei-v445.33.3/si-native-kanzlei/references/rechtsquellen.md) erläuterten Aussagen. Sie ist keine Behauptung einer vollständig durchgeführten Fachprüfung aller künftigen Mandate oder eines beobachteten Modelltests.
 
 ## 1.1. Methode und Umfang
 

@@ -25,7 +25,7 @@ from reportlab.lib.pagesizes import A4, landscape
 from reportlab.pdfgen import canvas
 
 ROOT = Path(__file__).resolve().parents[1]
-SCRIPTS = ROOT/'si-native-kanzlei/scripts'
+SCRIPTS = ROOT/'ki-native-kanzlei/scripts'
 sys.path.insert(0, str(SCRIPTS))
 
 
@@ -40,7 +40,7 @@ def module(name, path):
 B = module('si_bea_export', SCRIPTS/'build_anlagenkonvolut.py')
 X = module('si_xrechnung_export', SCRIPTS/'xrechnung.py')
 F = module('si_testakte_filter', ROOT/'scripts/testakte_file_filter.py')
-EXAMPLE = ROOT/'si-native-kanzlei/assets/xrechnung-beispiel.json'
+EXAMPLE = ROOT/'ki-native-kanzlei/assets/xrechnung-beispiel.json'
 
 
 def make_pdf(path, title, pages=2, wide=False):

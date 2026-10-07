@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 285 Plugins, 22842 Skills.
+Stand v445.33.1: 285 Plugins, 22844 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -161,6 +161,7 @@ Stand v445.33.1: 285 Plugins, 22842 Skills.
 | [`kanzlei-mandant-lifecycle`](../kanzlei-mandant-lifecycle/) | Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance. | `445.33.1` | 116 |
 | [`kartellrecht-marktabgrenzung-pruefung`](../kartellrecht-marktabgrenzung-pruefung/) | Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. | `445.33.1` | 181 |
 | [`ki-governance`](../ki-governance/) | EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie. | `445.33.1` | 60 |
+| [`ki-native-kanzlei`](../ki-native-kanzlei/) | KI-native Kanzlei: achtzehn vertiefte Skills für Mandat, Fristenrechnung, Anwaltsberufsrecht, Honorar, Zeit, Vertrags- und Schriftsatzarbeit, beA und E-Rechnung. Mit 24 kurzen Fachanwaltsakten. | `445.33.4` | 18 |
 | [`ki-richtlinie-kanzleien`](../ki-richtlinie-kanzleien/) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen. | `445.33.1` | 60 |
 | [`ki-verordnung-hochrisiko-pruefer`](../ki-verordnung-hochrisiko-pruefer/) | Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall. | `445.33.1` | 9 |
 | [`ki-verordnung-transparenzpruefer`](../ki-verordnung-transparenzpruefer/) | Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken. | `445.33.1` | 8 |
@@ -236,7 +237,6 @@ Stand v445.33.1: 285 Plugins, 22842 Skills.
 | [`sektorenvergabe-workflow`](../sektorenvergabe-workflow/) | Sektorenvergabe aus Auftraggebersicht: fünf Skills für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis über Bekanntmachung, Rügen und Wertung bis Zuschlag und Nachprüfung. | `445.33.1` | 11 |
 | [`selbstvertreter-amtsgericht`](../selbstvertreter-amtsgericht/) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. | `445.33.1` | 90 |
 | [`selbstvertreter-sozialgericht`](../selbstvertreter-sozialgericht/) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. | `445.33.1` | 139 |
-| [`si-native-kanzlei`](../si-native-kanzlei/) | SI-native Kanzlei: sechzehn Skills verbinden Mandatsannahme, Honorar, Zeiterfassung, Vertrags- und Schriftsatzarbeit, beA sowie Rechnungsentwürfe und E-Rechnung. Mit 24 kurzen Fachanwaltsakten. | `445.33.3` | 16 |
 | [`softwarerecht-de-eu-us`](../softwarerecht-de-eu-us/) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. | `445.33.1` | 106 |
 | [`solo-selbststaendige-praxis`](../solo-selbststaendige-praxis/) | Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. | `445.33.1` | 202 |
 | [`sozialrecht-fuer-laien`](../sozialrecht-fuer-laien/) | Sozialrecht für den eigenen Fall: Briefe verstehen, Tatsachen klären, Fristen prüfen und Anträge, Widersprüche oder Gerichtsschreiben vorbereiten. Zehn kurze Arbeitswege in einfacher Sprache mit klaren Grenzen und Wegen zu persönlicher Hilfe. | `445.33.1` | 10 |

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "matter_id": "DEMO-BERLIN-2026",
+  "profile": {
+    "norm": "Isoliertes Demonstrationsprofil: §§187 Abs.1,188 Abs.2 BGB,222 Abs.1 und2 ZPO",
+    "rule_source": "https://www.gesetze-im-internet.de/zpo/__222.html",
+    "trigger_source": "Fiktives Ereignis am 20.03.2026; keine Behauptung einer echten Zustellung",
+    "rule_verified": true,
+    "mode": "event",
+    "trigger": "2026-03-20",
+    "amount": 2,
+    "unit": "weeks",
+    "end_adjustment": "next_working_day",
+    "adjustment_basis": "§222 Abs.2 ZPO, im Demonstrationsprofil ausdrücklich gewählt"
+  },
+  "calendar": {
+    "place": "Berlin",
+    "source": "https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/artikel.1435639.php; Datumsabgleich amtliche BVV-Jahresübersicht Lichtenberg 2026; geprüft 07.10.2026",
+    "valid_from": "2026-01-01",
+    "valid_to": "2026-12-31",
+    "verified": true,
+    "holidays": [
+      {
+        "date": "2026-01-01",
+        "name": "Neujahr"
+      },
+      {
+        "date": "2026-03-08",
+        "name": "Internationaler Frauentag"
+      },
+      {
+        "date": "2026-04-03",
+        "name": "Karfreitag"
+      },
+      {
+        "date": "2026-04-06",
+        "name": "Ostermontag"
+      },
+      {
+        "date": "2026-05-01",
+        "name": "Tag der Arbeit"
+      },
+      {
+        "date": "2026-05-14",
+        "name": "Christi Himmelfahrt"
+      },
+      {
+        "date": "2026-05-25",
+        "name": "Pfingstmontag"
+      },
+      {
+        "date": "2026-10-03",
+        "name": "Tag der Deutschen Einheit"
+      },
+      {
+        "date": "2026-12-25",
+        "name": "Erster Weihnachtstag"
+      },
+      {
+        "date": "2026-12-26",
+        "name": "Zweiter Weihnachtstag"
+      }
+    ]
+  }
+}

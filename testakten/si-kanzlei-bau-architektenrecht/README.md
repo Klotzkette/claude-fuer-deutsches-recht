@@ -1,6 +1,6 @@
 # Das Wasser im Proberaum
 
-Kleine Testakte für **Bau und Architektenrecht** im Plugin [SI native Kanzlei](../../si-native-kanzlei/README.md). Aktenstand: 7. Oktober 2026. Aktenzeichen: `SI-2026-004`.
+Kleine Testakte für **Bau und Architektenrecht** im Plugin [KI-native Kanzlei](../../ki-native-kanzlei/README.md). Aktenstand: 7. Oktober 2026. Aktenzeichen: `SI-2026-004`.
 
 ## 1 Einstieg
 
@@ -46,4 +46,4 @@ Alle Personen, Unternehmen, Dokumente, Kontaktdaten und Sachverhalte sind erfund
 
 <!-- reserved-example-contacts -->
 
-Die Akte ist ein kurzer Einstieg in Mandatsaufnahme, fachliche Dokumentbearbeitung, Zeiterfassung und Honorarsteuerung. Fehlende Originale werden ausdrücklich als fehlend behandelt. Es werden keine tatsächlichen Konten angelegt, Nachrichten versandt oder behördlichen Vorgänge eröffnet. Die Rechtsquellen stehen im [Plugin](../../si-native-kanzlei/references/rechtsquellen.md); zusätzliche fallbezogene Normen sind in den Entwürfen genannt und vor praktischer Verwendung aktuell zu prüfen.
+Die Akte ist ein kurzer Einstieg in Mandatsaufnahme, fachliche Dokumentbearbeitung, Zeiterfassung und Honorarsteuerung. Fehlende Originale werden ausdrücklich als fehlend behandelt. Es werden keine tatsächlichen Konten angelegt, Nachrichten versandt oder behördlichen Vorgänge eröffnet. Die Rechtsquellen stehen im [Plugin](../../ki-native-kanzlei/references/rechtsquellen.md); zusätzliche fallbezogene Normen sind in den Entwürfen genannt und vor praktischer Verwendung aktuell zu prüfen.

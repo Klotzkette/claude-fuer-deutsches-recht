@@ -7,6 +7,8 @@ from prompt_profiles import validate_files
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_zip_common import working_dump_archive_pairs
 ROOT=Path(__file__).resolve().parents[1]
+if not (ROOT/'si-native-kanzlei/.claude-plugin/plugin.json').is_file():
+ raise SystemExit('Historische SI-Paketprüfung: im Tag si-native-kanzlei-v445.33.3 ausführen. Aktuell test-ki-native-kanzlei-pakete.py verwenden; dieses prüft auch die Erhaltung aller 240 Originale.')
 DIST=Path(sys.argv[1]) if len(sys.argv)>1 else Path('/tmp/si-native-kanzlei-20261007/dist')
 def mod(name,file):
  sp=importlib.util.spec_from_file_location(name,ROOT/'scripts'/file);m=importlib.util.module_from_spec(sp);sp.loader.exec_module(m);return m

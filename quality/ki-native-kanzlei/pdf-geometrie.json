@@ -1,0 +1,1356 @@
+{
+  "pages": [
+    {
+      "pdf": "abrechnung-e-rechnung.pdf",
+      "pdf_sha256": "296deddc6e54b7917d1d6d87ffe6b4e1e9e2c8a79a56401f585348cfbd98a6d4",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3113,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3056,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3526,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3394,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3531,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3435,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3624,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3221,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3270,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 2975,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "akte-fristen-anlegen.pdf",
+      "pdf_sha256": "7700672a1f5cfea7da3301f24d02c6e0d4845c448c9d93d1610c43e5a2bedf96",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 2890,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3298,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3446,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3540,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3332,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3493,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3487,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3192,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3079,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 2785,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "anwaltsberufsrecht-pruefen.pdf",
+      "pdf_sha256": "26f9ff44970c01ccf1c6fa30bf292d34621a0af3ae95556badd14c467150c831",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3003,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3419,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3569,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3605,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3653,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3564,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3595,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3415,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3025,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3097,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1707,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "bea-anlagen-vorbereiten.pdf",
+      "pdf_sha256": "964dc8ffab2e1e5ff5a2b9b4c430d363837ebe5962acbb43407b9c9f39f84db4",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3088,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 2795,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3434,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3527,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3127,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3515,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3669,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 2874,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3044,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 1784,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "fristen-berechnen-ueberwachen.pdf",
+      "pdf_sha256": "04848ae955f3d42aa15c86236bfc5c70f3a896408c37031640c6e1ce347eb0b1",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3096,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3238,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3214,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3519,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3670,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3491,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3424,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3378,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3638,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3370,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 2990,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3249,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 605,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "geldwaesche-pruefen.pdf",
+      "pdf_sha256": "753fccc1b5f7e0cf8fc855aec0c4ea7f664efd7697f92ca1b110d815554bbb8b",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 2900,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3095,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3442,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3484,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3336,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3583,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3368,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3360,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3136,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3368,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 2465,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "honorar-budget-vereinbaren.pdf",
+      "pdf_sha256": "8dae485ea8fb8343e4d2a53ac52b658d7398a6bee8ce5b5e9c05723c06772335",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3409,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3097,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3130,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3507,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3212,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3486,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3441,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3038,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3214,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3519,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 235,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "ki-kanzlei-steuern.pdf",
+      "pdf_sha256": "e038b8cf1a4d8705a09f985dc3efe0991ac86ecd9813ee153d773ab16b5cf2f9",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3111,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3492,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 298,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 2316,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 2487,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3175,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 2967,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3233,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3117,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3042,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3166,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 1912,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "mandantenkommunikation.pdf",
+      "pdf_sha256": "a718912e94aaa58c6f2c56c5ce594af0f5b2d3886808b2147207491537180a79",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3088,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3400,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3232,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3410,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3530,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3081,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3330,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3029,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3193,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 2074,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "mandat-abschliessen.pdf",
+      "pdf_sha256": "2a0204cf9731de8aba08fb9562a6bd02a0fc05c1d07ad058a4aef22dca7f7d43",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 2783,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3283,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3125,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3420,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3211,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3545,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3545,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3431,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3122,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 2788,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1530,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "mandatsannahme-interessenkollision.pdf",
+      "pdf_sha256": "d9d7d8439368a62fcffd9f0e7e8161e41eadef53237101e6622626e213bdcf1f",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3294,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3394,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3167,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3426,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3253,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3077,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3406,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3021,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2998,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3038,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 2183,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "recht-recherchieren.pdf",
+      "pdf_sha256": "29c33c4ce65397c6400d3d285a1b42688973f2fd3f14aa9f46f37d7213a3a306",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3175,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 2922,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3084,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3512,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3123,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3181,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3181,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3425,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2935,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 2813,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "schriftsaetze-entwerfen.pdf",
+      "pdf_sha256": "9aa08845e03c1c6b3cb0619fff8a94c695099d4ec1592705e320528405a496c2",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3111,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3019,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3031,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3583,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3168,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3054,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3119,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3264,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3165,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3201,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "vertraege-agb-pruefen.pdf",
+      "pdf_sha256": "c629b80867f82be6af90e0195210d5dc6b32b4a87004b301264baf1a392ac4e0",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3094,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 2960,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3496,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3360,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3481,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3481,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3560,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3324,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2874,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3427,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1061,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "vertraege-gestalten.pdf",
+      "pdf_sha256": "0995b212626651b8eeb29439412497b29e6131bed5f43084b458b65a2c4b1be2",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 2933,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3382,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3488,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3496,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3420,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3541,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3719,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 2933,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3224,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3206,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 693,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "workflow-uebergabe.pdf",
+      "pdf_sha256": "ec1ea36a4789ebe9c7f0e1d7ff3d514d9d8d669021ea6662817bb086ef724f0c",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3166,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3001,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3472,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3391,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3050,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3493,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3273,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3091,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 3313,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 1924,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "zahlungen-buchhaltung.pdf",
+      "pdf_sha256": "318e855f54700b0620bba3e2a98fd3e3aa0b246ab1e0ad9db91dda54482fc2df",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3030,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 2903,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3418,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3404,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3448,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3584,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3567,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3002,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2873,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3221,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 580,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "zeiten-erfassen.pdf",
+      "pdf_sha256": "f8e99bba1bc2062a8e7940d8d1cb619118ec463be1b2e6c032c2900c0843deba",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3316,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 3364,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3245,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 3540,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3345,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3561,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 3335,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 2912,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2048,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 3070,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1300,
+          "inside_page": true
+        }
+      ]
+    }
+  ],
+  "samples": [
+    {
+      "skill": "abrechnung-e-rechnung",
+      "page": 1,
+      "image": "abrechnung-e-rechnung-01.png"
+    },
+    {
+      "skill": "abrechnung-e-rechnung",
+      "page": 7,
+      "image": "abrechnung-e-rechnung-07.png"
+    },
+    {
+      "skill": "abrechnung-e-rechnung",
+      "page": 10,
+      "image": "abrechnung-e-rechnung-10.png"
+    },
+    {
+      "skill": "akte-fristen-anlegen",
+      "page": 1,
+      "image": "akte-fristen-anlegen-01.png"
+    },
+    {
+      "skill": "akte-fristen-anlegen",
+      "page": 4,
+      "image": "akte-fristen-anlegen-04.png"
+    },
+    {
+      "skill": "akte-fristen-anlegen",
+      "page": 10,
+      "image": "akte-fristen-anlegen-10.png"
+    },
+    {
+      "skill": "anwaltsberufsrecht-pruefen",
+      "page": 1,
+      "image": "anwaltsberufsrecht-pruefen-01.png"
+    },
+    {
+      "skill": "anwaltsberufsrecht-pruefen",
+      "page": 5,
+      "image": "anwaltsberufsrecht-pruefen-05.png"
+    },
+    {
+      "skill": "anwaltsberufsrecht-pruefen",
+      "page": 11,
+      "image": "anwaltsberufsrecht-pruefen-11.png"
+    },
+    {
+      "skill": "bea-anlagen-vorbereiten",
+      "page": 1,
+      "image": "bea-anlagen-vorbereiten-01.png"
+    },
+    {
+      "skill": "bea-anlagen-vorbereiten",
+      "page": 7,
+      "image": "bea-anlagen-vorbereiten-07.png"
+    },
+    {
+      "skill": "bea-anlagen-vorbereiten",
+      "page": 10,
+      "image": "bea-anlagen-vorbereiten-10.png"
+    },
+    {
+      "skill": "fristen-berechnen-ueberwachen",
+      "page": 1,
+      "image": "fristen-berechnen-ueberwachen-01.png"
+    },
+    {
+      "skill": "fristen-berechnen-ueberwachen",
+      "page": 5,
+      "image": "fristen-berechnen-ueberwachen-05.png"
+    },
+    {
+      "skill": "fristen-berechnen-ueberwachen",
+      "page": 13,
+      "image": "fristen-berechnen-ueberwachen-13.png"
+    },
+    {
+      "skill": "geldwaesche-pruefen",
+      "page": 1,
+      "image": "geldwaesche-pruefen-01.png"
+    },
+    {
+      "skill": "geldwaesche-pruefen",
+      "page": 6,
+      "image": "geldwaesche-pruefen-06.png"
+    },
+    {
+      "skill": "geldwaesche-pruefen",
+      "page": 11,
+      "image": "geldwaesche-pruefen-11.png"
+    },
+    {
+      "skill": "honorar-budget-vereinbaren",
+      "page": 1,
+      "image": "honorar-budget-vereinbaren-01.png"
+    },
+    {
+      "skill": "honorar-budget-vereinbaren",
+      "page": 10,
+      "image": "honorar-budget-vereinbaren-10.png"
+    },
+    {
+      "skill": "honorar-budget-vereinbaren",
+      "page": 11,
+      "image": "honorar-budget-vereinbaren-11.png"
+    },
+    {
+      "skill": "ki-kanzlei-steuern",
+      "page": 1,
+      "image": "ki-kanzlei-steuern-01.png"
+    },
+    {
+      "skill": "ki-kanzlei-steuern",
+      "page": 2,
+      "image": "ki-kanzlei-steuern-02.png"
+    },
+    {
+      "skill": "ki-kanzlei-steuern",
+      "page": 12,
+      "image": "ki-kanzlei-steuern-12.png"
+    },
+    {
+      "skill": "mandantenkommunikation",
+      "page": 1,
+      "image": "mandantenkommunikation-01.png"
+    },
+    {
+      "skill": "mandantenkommunikation",
+      "page": 5,
+      "image": "mandantenkommunikation-05.png"
+    },
+    {
+      "skill": "mandantenkommunikation",
+      "page": 10,
+      "image": "mandantenkommunikation-10.png"
+    },
+    {
+      "skill": "mandat-abschliessen",
+      "page": 1,
+      "image": "mandat-abschliessen-01.png"
+    },
+    {
+      "skill": "mandat-abschliessen",
+      "page": 6,
+      "image": "mandat-abschliessen-06.png"
+    },
+    {
+      "skill": "mandat-abschliessen",
+      "page": 11,
+      "image": "mandat-abschliessen-11.png"
+    },
+    {
+      "skill": "mandatsannahme-interessenkollision",
+      "page": 1,
+      "image": "mandatsannahme-interessenkollision-01.png"
+    },
+    {
+      "skill": "mandatsannahme-interessenkollision",
+      "page": 4,
+      "image": "mandatsannahme-interessenkollision-04.png"
+    },
+    {
+      "skill": "mandatsannahme-interessenkollision",
+      "page": 11,
+      "image": "mandatsannahme-interessenkollision-11.png"
+    },
+    {
+      "skill": "recht-recherchieren",
+      "page": 1,
+      "image": "recht-recherchieren-01.png"
+    },
+    {
+      "skill": "recht-recherchieren",
+      "page": 4,
+      "image": "recht-recherchieren-04.png"
+    },
+    {
+      "skill": "recht-recherchieren",
+      "page": 10,
+      "image": "recht-recherchieren-10.png"
+    },
+    {
+      "skill": "schriftsaetze-entwerfen",
+      "page": 1,
+      "image": "schriftsaetze-entwerfen-01.png"
+    },
+    {
+      "skill": "schriftsaetze-entwerfen",
+      "page": 4,
+      "image": "schriftsaetze-entwerfen-04.png"
+    },
+    {
+      "skill": "schriftsaetze-entwerfen",
+      "page": 10,
+      "image": "schriftsaetze-entwerfen-10.png"
+    },
+    {
+      "skill": "vertraege-agb-pruefen",
+      "page": 1,
+      "image": "vertraege-agb-pruefen-01.png"
+    },
+    {
+      "skill": "vertraege-agb-pruefen",
+      "page": 7,
+      "image": "vertraege-agb-pruefen-07.png"
+    },
+    {
+      "skill": "vertraege-agb-pruefen",
+      "page": 11,
+      "image": "vertraege-agb-pruefen-11.png"
+    },
+    {
+      "skill": "vertraege-gestalten",
+      "page": 1,
+      "image": "vertraege-gestalten-01.png"
+    },
+    {
+      "skill": "vertraege-gestalten",
+      "page": 7,
+      "image": "vertraege-gestalten-07.png"
+    },
+    {
+      "skill": "vertraege-gestalten",
+      "page": 11,
+      "image": "vertraege-gestalten-11.png"
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "page": 1,
+      "image": "workflow-uebergabe-01.png"
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "page": 6,
+      "image": "workflow-uebergabe-06.png"
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "page": 10,
+      "image": "workflow-uebergabe-10.png"
+    },
+    {
+      "skill": "zahlungen-buchhaltung",
+      "page": 1,
+      "image": "zahlungen-buchhaltung-01.png"
+    },
+    {
+      "skill": "zahlungen-buchhaltung",
+      "page": 6,
+      "image": "zahlungen-buchhaltung-06.png"
+    },
+    {
+      "skill": "zahlungen-buchhaltung",
+      "page": 11,
+      "image": "zahlungen-buchhaltung-11.png"
+    },
+    {
+      "skill": "zeiten-erfassen",
+      "page": 1,
+      "image": "zeiten-erfassen-01.png"
+    },
+    {
+      "skill": "zeiten-erfassen",
+      "page": 6,
+      "image": "zeiten-erfassen-06.png"
+    },
+    {
+      "skill": "zeiten-erfassen",
+      "page": 11,
+      "image": "zeiten-erfassen-11.png"
+    }
+  ],
+  "total_pages": 194,
+  "visual_review": "pending"
+}

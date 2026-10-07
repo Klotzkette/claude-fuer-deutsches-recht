@@ -1,0 +1,23 @@
+test_bad_amounts (__main__.CalendarTests.test_bad_amounts) ... ok
+test_bad_profile (__main__.CalendarTests.test_bad_profile) ... ok
+test_calendar_coverage_no_silent_rollover (__main__.CalendarTests.test_calendar_coverage_no_silent_rollover) ... ok
+test_calendar_rejects_unverified (__main__.CalendarTests.test_calendar_rejects_unverified) ... ok
+test_calendar_semantics (__main__.CalendarTests.test_calendar_semantics) ... ok
+test_cli_no_overwrite_and_readable_audit (__main__.CalendarTests.test_cli_no_overwrite_and_readable_audit) ... ok
+test_duplicate_holiday (__main__.CalendarTests.test_duplicate_holiday) ... ok
+test_fixed (__main__.CalendarTests.test_fixed) ... ok
+test_hours_ambiguous_requires_explicit_valid_offset (__main__.CalendarTests.test_hours_ambiguous_requires_explicit_valid_offset) ... ok
+test_hours_both_folds_valid (__main__.CalendarTests.test_hours_both_folds_valid) ... ok
+test_hours_dst_and_excluded_days (__main__.CalendarTests.test_hours_dst_and_excluded_days) ... ok
+test_input_immutable_and_hash_stable (__main__.CalendarTests.test_input_immutable_and_hash_stable) ... ok
+test_long_year_does_not_mean_365 (__main__.CalendarTests.test_long_year_does_not_mean_365) ... ok
+test_no_assumed_monday_shift (__main__.CalendarTests.test_no_assumed_monday_shift) ... ok
+test_rule_rejects_unverified (__main__.CalendarTests.test_rule_rejects_unverified) ... ok
+test_schema_boolean_not_version (__main__.CalendarTests.test_schema_boolean_not_version) ... ok
+test_unknown_rules_not_ignored (__main__.CalendarTests.test_unknown_rules_not_ignored) ... ok
+test_workdays_need_definition (__main__.CalendarTests.test_workdays_need_definition) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.069s
+
+OK

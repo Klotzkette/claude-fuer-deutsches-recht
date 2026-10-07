@@ -1,0 +1,115 @@
+{
+  "handbook_sha256": "58203efc9cf4e27d7b66e6b35e3428d05c85c635ad521b97450f5e89bd2d4dd8",
+  "pages": 194,
+  "comparison": "Alle extrahierten Seitentexte und Seitenformate der Quelldateien gegen das zusammengefügte PDF; keine zusätzliche Sichtprüfung behauptet.",
+  "skills": [
+    {
+      "skill": "abrechnung-e-rechnung",
+      "first_handbook_page": 1,
+      "last_handbook_page": 10,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "akte-fristen-anlegen",
+      "first_handbook_page": 11,
+      "last_handbook_page": 20,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "anwaltsberufsrecht-pruefen",
+      "first_handbook_page": 21,
+      "last_handbook_page": 31,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "bea-anlagen-vorbereiten",
+      "first_handbook_page": 32,
+      "last_handbook_page": 41,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "fristen-berechnen-ueberwachen",
+      "first_handbook_page": 42,
+      "last_handbook_page": 54,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "geldwaesche-pruefen",
+      "first_handbook_page": 55,
+      "last_handbook_page": 65,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "honorar-budget-vereinbaren",
+      "first_handbook_page": 66,
+      "last_handbook_page": 76,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "ki-kanzlei-steuern",
+      "first_handbook_page": 77,
+      "last_handbook_page": 88,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "mandantenkommunikation",
+      "first_handbook_page": 89,
+      "last_handbook_page": 98,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "mandat-abschliessen",
+      "first_handbook_page": 99,
+      "last_handbook_page": 109,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "mandatsannahme-interessenkollision",
+      "first_handbook_page": 110,
+      "last_handbook_page": 120,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "recht-recherchieren",
+      "first_handbook_page": 121,
+      "last_handbook_page": 130,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "schriftsaetze-entwerfen",
+      "first_handbook_page": 131,
+      "last_handbook_page": 140,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "vertraege-agb-pruefen",
+      "first_handbook_page": 141,
+      "last_handbook_page": 151,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "vertraege-gestalten",
+      "first_handbook_page": 152,
+      "last_handbook_page": 162,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "first_handbook_page": 163,
+      "last_handbook_page": 172,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "zahlungen-buchhaltung",
+      "first_handbook_page": 173,
+      "last_handbook_page": 183,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "zeiten-erfassen",
+      "first_handbook_page": 184,
+      "last_handbook_page": 194,
+      "all_page_texts_and_page_boxes_identical": true
+    }
+  ]
+}

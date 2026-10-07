@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugins": {
-    "si-native-kanzlei": {
+    "ki-native-kanzlei": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],
       "megaprompt": false,

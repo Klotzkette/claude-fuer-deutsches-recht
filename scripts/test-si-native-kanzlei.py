@@ -11,7 +11,7 @@ import tempfile
 import unittest
 
 ROOT = Path(__file__).resolve().parents[1]
-spec = importlib.util.spec_from_file_location('si_journal', ROOT/'si-native-kanzlei/scripts/kanzlei.py')
+spec = importlib.util.spec_from_file_location('si_journal', ROOT/'ki-native-kanzlei/scripts/kanzlei.py')
 J = importlib.util.module_from_spec(spec); spec.loader.exec_module(J)
 
 
@@ -162,7 +162,7 @@ class CommandLineTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temporary:
             folder = Path(temporary)
             matter = folder/'Mandat mit Leerzeichen'
-            script = ROOT/'si-native-kanzlei/scripts/kanzlei.py'
+            script = ROOT/'ki-native-kanzlei/scripts/kanzlei.py'
 
             def run(command, data=None, label='input'):
                 args = [sys.executable, str(script), command, '--akte', str(matter)]

@@ -6111,7 +6111,7 @@ PROFILE_BY_KEY = {p.key: p for p in PROFILE}
 
 
 EXACT_PROFILE_KEYS: dict[str, str] = {
-    "si-native-kanzlei": "kanzleibetrieb",
+    "ki-native-kanzlei": "kanzleibetrieb",
     "krankenhaus-it-ki": "datenschutz",
     "bauvergabe-unterlagen": "vergabe",
     "bauvergabe-verfahren": "vergabe",

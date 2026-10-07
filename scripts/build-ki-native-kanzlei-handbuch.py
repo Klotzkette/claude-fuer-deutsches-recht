@@ -1,0 +1,132 @@
+#!/usr/bin/env python3
+"""Die aktuellen langen Skills unverändert in lesbare A4-PDFs setzen.
+
+Python: reportlab, pypdf. Keine künstlichen Seitenumbrüche in den Skilltexten.
+"""
+import argparse,hashlib,html,json,re,unicodedata
+from collections import Counter
+from pathlib import Path
+from urllib.parse import urljoin
+from reportlab.lib.enums import TA_LEFT
+from reportlab.lib.styles import ParagraphStyle
+from reportlab.lib.colors import HexColor
+from reportlab.lib.pagesizes import A4
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+from reportlab.platypus import SimpleDocTemplate,Paragraph,Spacer,LongTable,TableStyle
+from pypdf import PdfReader,PdfWriter
+ROOT=Path(__file__).resolve().parents[1]
+LINK_BASE='https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'
+
+def text_tokens(s):
+    return Counter(re.findall(r'[\w§]+',unicodedata.normalize('NFKC',s).casefold()))
+
+def inline(s):
+    # Render source text; hyperlink target remains clickable without printing a long URL.
+    stash=[]
+    def link(m):
+        label,url=m.groups()
+        if not re.match(r'^https?://',url):url=urljoin(LINK_BASE,url)
+        stash.append('<a color="#174a60" href="'+html.escape(url,quote=True)+'">'+html.escape(label)+'</a>')
+        return f'LINKTOKEN{len(stash)-1}ENDTOKEN'
+    s=re.sub(r'\[([^\]]+)\]\(([^\s)]+)\)',link,s)
+    s=html.escape(s)
+    s=re.sub(r'\*\*([^*]+)\*\*',r'<b>\1</b>',s)
+    s=re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)',r'<i>\1</i>',s)
+    s=re.sub(r'`([^`]+)`',r'\1',s)
+    for i,v in enumerate(stash):s=s.replace(f'LINKTOKEN{i}ENDTOKEN',v)
+    return s
+
+def setup(fontdir):
+    for name,file in [('TNR','Times New Roman.ttf'),('TNR-Bold','Times New Roman Bold.ttf'),('TNR-Italic','Times New Roman Italic.ttf'),('TNR-BoldItalic','Times New Roman Bold Italic.ttf')]:
+        pdfmetrics.registerFont(TTFont(name,str(fontdir/file)))
+    pdfmetrics.registerFontFamily('TNR',normal='TNR',bold='TNR-Bold',italic='TNR-Italic',boldItalic='TNR-BoldItalic')
+
+
+def render(source,target):
+    global LINK_BASE
+    LINK_BASE='https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/'+source.parent.relative_to(ROOT).as_posix()+'/'
+    source_text=source.read_text();body=re.sub(r'^---\n.*?\n---\s*','',source_text,flags=re.S)
+    lines=body.splitlines();title=next(x.lstrip('# ').strip() for x in lines if x.startswith('# '))
+    styles={0:ParagraphStyle('Body',fontName='TNR',fontSize=11,leading=14.3,spaceAfter=6,alignment=TA_LEFT,splitLongWords=True,allowWidows=0,allowOrphans=0)}
+    for level,size in [(1,17),(2,13),(3,11.5),(4,11)]:
+        styles[level]=ParagraphStyle('H'+str(level),parent=styles[0],fontName='TNR-Bold',fontSize=size,leading=size+3,spaceBefore=9 if level>1 else 0,spaceAfter=7,keepWithNext=True)
+    cell=ParagraphStyle('Cell',parent=styles[0],spaceAfter=0,leading=13.5)
+    elements=[];expected=[]
+    def para(s,level=0):
+        p=Paragraph(inline(s),styles.get(level,styles[4]));plain=p.getPlainText()
+        missing={c for c in plain if not c.isspace() and ord(c) not in pdfmetrics.getFont('TNR').face.charToGlyph}
+        if missing:raise ValueError('Schrift unterstützt Zeichen nicht: '+repr(missing))
+        expected.append(plain);return p
+    i=0
+    while i<len(lines):
+        line=lines[i].strip()
+        if not line:i+=1;continue
+        if line.startswith('```'):
+            i+=1
+            while i<len(lines) and not lines[i].strip().startswith('```'):
+                if lines[i].strip():elements.append(para(lines[i]))
+                i+=1
+            i+=1;continue
+        if line.startswith('|'):
+            rows=[]
+            while i<len(lines) and lines[i].strip().startswith('|'):
+                l=lines[i].strip();i+=1
+                if re.fullmatch(r'[|:\-\s]+',l):continue
+                values=[x.strip() for x in l.strip('|').split('|')];ps=[]
+                for v in values:
+                    p=Paragraph(inline(v),cell);expected.append(p.getPlainText());ps.append(p)
+                rows.append(ps)
+            n=max(map(len,rows));rows=[r+['']*(n-len(r)) for r in rows]
+            widths=[(A4[0]-120)/n]*n
+            if n==3 and all(isinstance(r[0],Paragraph) and r[0].getPlainText().isdigit() for r in rows[1:]):widths=[28,(A4[0]-148)/2,(A4[0]-148)/2]
+            table=LongTable(rows,colWidths=widths,repeatRows=1,hAlign='LEFT')
+            table.setStyle(TableStyle([('VALIGN',(0,0),(-1,-1),'TOP'),('BACKGROUND',(0,0),(-1,0),HexColor('#eaf0f2')),('LINEBELOW',(0,0),(-1,0),.5,HexColor('#80939a')),('LINEBELOW',(0,1),(-1,-1),.25,HexColor('#cad4d8')),('LEFTPADDING',(0,0),(-1,-1),5),('RIGHTPADDING',(0,0),(-1,-1),5),('TOPPADDING',(0,0),(-1,-1),5),('BOTTOMPADDING',(0,0),(-1,-1),5)]))
+            elements.extend([table,Spacer(1,7)]);continue
+        m=re.match(r'^(#{1,6})\s+(.+)',line)
+        if m:elements.append(para(m.group(2),min(len(m.group(1)),4)));i+=1;continue
+        if re.match(r'^[-*]\s+',line):elements.append(para('• '+line[2:]));i+=1;continue
+        if re.match(r'^\d+\.\s+',line):elements.append(para(line));i+=1;continue
+        if re.fullmatch(r'[-=_]{3,}',line):i+=1;continue
+        chunk=[line.lstrip('> ')];i+=1
+        while i<len(lines) and lines[i].strip() and not re.match(r'^(#|\||```|[-*] |\d+\. )',lines[i].strip()):
+            chunk.append(lines[i].strip().lstrip('> '));i+=1
+        elements.append(para(' '.join(chunk)))
+    slug=source.parent.name
+    def page(c,doc):
+        c.saveState();c.setFont('TNR',9);c.setFillColor(HexColor('#52616a'))
+        c.drawString(60,A4[1]-32,'KI-native Kanzlei | '+slug)
+        c.drawString(60,30,'Stand: 7. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen')
+        c.drawRightString(A4[0]-60,30,str(doc.page));c.restoreState()
+    doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=53,bottomMargin=52,title=title,author='Klotzkette',subject='KI-native Kanzlei – ausführlicher Skill',invariant=1)
+    doc.build(elements,onFirstPage=page,onLaterPages=page)
+    reader=PdfReader(target)
+    body_pages=[]
+    for number,page_obj in enumerate(reader.pages,1):
+        ls=(page_obj.extract_text() or '').splitlines()
+        assert ls[0]=='KI-native Kanzlei | '+slug and ls[2]==str(number),(slug,number,'header/footer extraction')
+        body_pages.append(' '.join(ls[3:]))
+    normalize=lambda x: ''.join(re.findall(r'[\w§]+',unicodedata.normalize('NFKC',x).casefold()))
+    extracted=normalize(' '.join(body_pages));cursor=0
+    for segment in expected:
+        segment=normalize(segment)
+        if not segment:continue
+        found=extracted.find(segment,cursor)
+        if found<0:raise ValueError(f'{slug}: Textabschnitt fehlt oder Reihenfolge abweichend: {segment[:100]}')
+        cursor=found+len(segment)
+    return {'skill':slug,'title':title,'source':source.relative_to(ROOT).as_posix(),'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'words':len(re.findall(r'\S+',body)),'utf8_bytes':len(source.read_bytes()),'pages':len(reader.pages),'pdf':target.name,'pdf_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'body_text_coverage':'all rendered source text segments present in source order'}
+
+def main():
+    ap=argparse.ArgumentParser();ap.add_argument('--out',required=True,type=Path);ap.add_argument('--font-dir',type=Path,default=Path('/System/Library/Fonts/Supplemental'));ap.add_argument('--min-words',type=int,default=0);args=ap.parse_args();args.out.mkdir(parents=True,exist_ok=True);setup(args.font_dir)
+    rows=[]
+    sources=sorted((ROOT/'ki-native-kanzlei/skills').glob('*/SKILL.md'))
+    for source in sources:
+        if len(source.read_text().split())<args.min_words:continue
+        row=render(source,args.out/(source.parent.name+'.pdf'));rows.append(row);print(row['skill'],row['pages'],row['words'],flush=True)
+    writer=PdfWriter()
+    for row in rows:writer.append(args.out/row['pdf'],outline_item=row['title'])
+    writer.add_metadata({'/Title':'KI-native Kanzlei – Die ausführlichen Skills','/Author':'Klotzkette','/Subject':'Mandat, Berufsrecht, Fristen, Facharbeit und Abrechnung'})
+    target=args.out/'ki-native-kanzlei-skills-handbuch.pdf';writer.write(target)
+    report={'date':'2026-10-07','layout':'A4, Times New Roman 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
+    (args.out/'umfang.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
+if __name__=='__main__':main()

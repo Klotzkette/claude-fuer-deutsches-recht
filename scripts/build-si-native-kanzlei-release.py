@@ -10,6 +10,8 @@ def module(name,file):
     sp=importlib.util.spec_from_file_location(name,ROOT/'scripts'/file);m=importlib.util.module_from_spec(sp);sp.loader.exec_module(m);return m
 
 def main():
+    if not (PLUGIN/".claude-plugin/plugin.json").is_file():
+        raise SystemExit("Historischer SI-Build: für Reproduktion den Tag si-native-kanzlei-v445.33.3 auschecken. Aktuell: build-ki-native-kanzlei-handbuch.py und build-ki-native-kanzlei-release.py verwenden.")
     dist=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'dist/si-native-kanzlei';dist.mkdir(parents=True,exist_ok=True)
     E=module('si_einzel','build-testakten-einzelpdf-zips.py');G=E.G;Z=module('si_original','build-testakten-release-zips.py')
     cases=json.loads((ROOT/'scripts/si-native-kanzlei-faelle.json').read_text());reports=[]

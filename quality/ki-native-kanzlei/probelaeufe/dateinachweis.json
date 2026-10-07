@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-07",
+  "files": [
+    {
+      "case": "fristen",
+      "file": "fristen/ergebnis.md",
+      "original_sha256": "3d44bfbb4f2411b00a02bbba83597da73bc138c5cb7cb5f4c8bc91c96f71d9db",
+      "published_sha256": "89c49d953264467185b5d7458d988d3881c870045860ce4858f03db4e826af82",
+      "redactions": "Lokale absolute Arbeitsverzeichnis-/Werkzeugpfade neutralisiert, Leerzeichen am Zeilenende bereinigt, transparenter Lesekopienhinweis ergänzt."
+    },
+    {
+      "case": "fristen",
+      "file": "fristen/werkzeuglog.md",
+      "original_sha256": "9d175cb9340048bdba809875475bbb7babaae84b6f2b1093cdcfc1a26c01720c",
+      "published_sha256": "8a3c1ce76f41ddc9b3e7591bb219e8a3a74a044791e9f8c3fb0f23c9ab48ebc0",
+      "redactions": "Lokale absolute Arbeitsverzeichnis-/Werkzeugpfade neutralisiert, Leerzeichen am Zeilenende bereinigt, transparenter Lesekopienhinweis ergänzt."
+    },
+    {
+      "case": "beruf",
+      "file": "beruf/ergebnis.md",
+      "original_sha256": "c92b53dc0529e4075d2f361f240ecbcd3dae53aeadefc3186b8cb9c20fcabaec",
+      "published_sha256": "c8379fc91c9ace116968aabd69e7c5216753b5ae96dde405d76a50e93689d8a3",
+      "redactions": "Lokale absolute Arbeitsverzeichnis-/Werkzeugpfade neutralisiert, Leerzeichen am Zeilenende bereinigt, transparenter Lesekopienhinweis ergänzt."
+    },
+    {
+      "case": "beruf",
+      "file": "beruf/werkzeuglog.md",
+      "original_sha256": "b22ee2f4c7ae9d6880500adbc4dd49b8a5b1fb0f35f4c52f3781f2f925d224d0",
+      "published_sha256": "354bb261245262e2c0fcce2403e191bd069feee34fced18abaeb4cea48072106",
+      "redactions": "Lokale absolute Arbeitsverzeichnis-/Werkzeugpfade neutralisiert, Leerzeichen am Zeilenende bereinigt, transparenter Lesekopienhinweis ergänzt."
+    }
+  ]
+}
