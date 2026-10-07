@@ -10,7 +10,7 @@ Fünfzehn Befehle für Claude Cowork und Claude Code starten die Abläufe direkt
 
 ## 3. Amtliche Normtexte und Veröffentlichung
 
-Ein Workflow `KI-native Kanzlei Normcheck` ruft die amtlichen Normtexte ab, auf die sich die Skills stützen; die bisher als „am Volltext zu prüfen“ markierten Angaben wurden an diesen Texten nachgeprüft und berichtigt, bestätigt oder gestrichen. Ein zweiter Workflow baut und veröffentlicht das Komponentenrelease mit Plugin-ZIP, portablem ZIP, Skill-Handbuch und Einzel-PDFs.
+Ein Workflow `KI-native Kanzlei Normcheck` ruft aus GitHub Actions die 93 Normtexte ab, auf die sich die Skills stützen (BORA, Rom I und Brüssel Ia amtlich, Einzelnormen ersatzweise über dejure.org als gekennzeichnete Sekundärquelle). Zusätzlich wurden alle bisher als „am Volltext zu prüfen“ markierten Aussagen über die Websuche abgeglichen: 85 bestätigt, 12 berichtigt, 5 nicht ermittelbar; 100 Änderungen in 17 Skills. Berichtigt wurden insbesondere § 4a und § 4b RVG, § 53 BRAO, § 8 Absatz 2 und 4 sowie § 43 Absatz 4 GwG, § 4 BORA, §§ 2 bis 4 DL-InfoV, Nr. 7000 VV RVG, § 309 Nummer 8 Buchstabe b Doppelbuchstabe ff BGB und § 5 ERVV; bestätigte Werte (etwa § 13 Absatz 3 RVG, § 511 und § 544 ZPO mit § 47 EGZPO, § 23 GVG, § 66 GKG, § 147 AO, § 10 Absatz 3 GwG) stehen ohne Vorbehalt. Der Prüfvermerk bleibt nur bei § 476 Absatz 1 BGB, § 45 BRAO ab Absatz 2 und § 2 Absatz 1 Nummer 10 GwG. Ein zweiter Workflow baut und veröffentlicht das Komponentenrelease mit Plugin-ZIP, portablem ZIP, Skill-Handbuch und Einzel-PDFs.
 
 # ki-native-kanzlei-v445.33.6 - Mandatslauf, Freigabestufen und agentische Abstimmung
 

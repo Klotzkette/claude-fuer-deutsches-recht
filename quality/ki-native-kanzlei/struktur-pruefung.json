@@ -2,88 +2,88 @@
   "skills": [
     {
       "skill": "abrechnung-e-rechnung",
-      "sha256": "f0c5255ffce12ce4570de66ccc423dfec4ee752ca1f35608178e977e90ef8b34",
-      "words_without_frontmatter": 6480
+      "sha256": "75a5ec84be098ef349e9ab8684a048e67339ec1ab3a175412064897e5653bada",
+      "words_without_frontmatter": 6498
     },
     {
       "skill": "akte-fristen-anlegen",
-      "sha256": "a380b121d46ab99655f5f3e67c8b02199c0085ef13fae7a034842ba834313bf2",
-      "words_without_frontmatter": 6483
+      "sha256": "0a5ef1b2eaed8fd04cee8ab6c78a57f2710f602298e126aef0475767a1d3f5bb",
+      "words_without_frontmatter": 6563
     },
     {
       "skill": "anwaltsberufsrecht-pruefen",
-      "sha256": "e8c6e688bab5d205efb3a0b3edcf0deb61368c9a0a480d21f2583e9e8cc11a70",
-      "words_without_frontmatter": 6493
+      "sha256": "de6fce099c47505cb8ec8afd3e8bae982d40f76e72138d6aecf247096a86d6a2",
+      "words_without_frontmatter": 6642
     },
     {
       "skill": "bea-anlagen-vorbereiten",
-      "sha256": "8bd04f3a616b8cb2a345e2a17c5ce07ca61d898ca2a0352608040fb0d8c91e3d",
-      "words_without_frontmatter": 6491
+      "sha256": "987a150648595bb98f43a3ea4f43815a75edf678ad351b5c2c32df9d858bf6db",
+      "words_without_frontmatter": 6537
     },
     {
       "skill": "fristen-berechnen-ueberwachen",
-      "sha256": "72f75f36a44eadec56a4817e0e025fdd8054a67c7012439b3289225cc61866f6",
-      "words_without_frontmatter": 6904
+      "sha256": "311d6413911f0a4ca1179dfd873c345bc72477101d92265bf8448547d8d427e9",
+      "words_without_frontmatter": 6995
     },
     {
       "skill": "geldwaesche-pruefen",
-      "sha256": "744aa09f6bbd39df0355d8782877b5afadc754ea58339e83b378debd5a497785",
-      "words_without_frontmatter": 6496
+      "sha256": "d5a55d91f61a40529c6a32d1e9b7fdede7a775218f108de1fd49b1add6435d6e",
+      "words_without_frontmatter": 6644
     },
     {
       "skill": "honorar-budget-vereinbaren",
-      "sha256": "da258ff53e4fb3cace645a620e2d5acb558fc9c0f92c7b87dbfd00ec2c009957",
-      "words_without_frontmatter": 6476
+      "sha256": "1b20cb94aed186407886a61a485637922cef37565e50da7cb3605b03ddbae5d1",
+      "words_without_frontmatter": 6647
     },
     {
       "skill": "ki-kanzlei-steuern",
-      "sha256": "1124317afafda0f95aa4cb4b87e305674f4ea43ac455bf3a3ddfe774713e52a2",
-      "words_without_frontmatter": 6406
+      "sha256": "c661d5debd0fb1261873abde63385d7afd6facb2b519d580c2916a174826a7c2",
+      "words_without_frontmatter": 6475
     },
     {
       "skill": "mandantenkommunikation",
-      "sha256": "c8b0c7942265d7a6e272cd16248e8aba8a687dc72b5cb16cbe223d68555b97f7",
-      "words_without_frontmatter": 6441
+      "sha256": "2d11057e15a3ec954ec5e5f4034bf5ed14216eda81e18a1eb1684e958608a71b",
+      "words_without_frontmatter": 6452
     },
     {
       "skill": "mandat-abschliessen",
-      "sha256": "18e6b09b78b16723fc89840b7cd25a5152f6aef6b2dccd09978b351b3a589c3b",
-      "words_without_frontmatter": 6483
+      "sha256": "7c54f6fb537609e16d1b5f1bffb43315300e4560b006cf0100eeb1705457ae29",
+      "words_without_frontmatter": 6648
     },
     {
       "skill": "mandatsannahme-interessenkollision",
-      "sha256": "25aacee77014a8d0a932cf0be4970deb76e0ac5ef8abacb63b01db1b0fe9b162",
-      "words_without_frontmatter": 6464
+      "sha256": "0f18d23258a8782d9df1f18ffc74ae25a1392b161f678d9c47d6d22790d9c7b9",
+      "words_without_frontmatter": 6648
     },
     {
       "skill": "recht-recherchieren",
-      "sha256": "9d924173d6b9971f92e5637eb183f32a3cfbb742e90e2ea87a1fa77039957949",
-      "words_without_frontmatter": 6492
+      "sha256": "444045db9b93a9ae7f30296bee6d6b0911d38f4d65bc1e3740e37cb60c302c23",
+      "words_without_frontmatter": 6521
     },
     {
       "skill": "schriftsaetze-entwerfen",
-      "sha256": "525cd87911b02275458da2ec4f7de789747ef5e6edb12b172fa95f0f552b8d97",
-      "words_without_frontmatter": 6480
+      "sha256": "5b02f61244315d02d374af15dd7fa8cc9e2cb8256e29925518fc4c96e9dd4790",
+      "words_without_frontmatter": 6547
     },
     {
       "skill": "vertraege-agb-pruefen",
-      "sha256": "6238a533ffa3b0acd936a354cc8642bab372d8cd6137ffadafa1505af2fe3097",
-      "words_without_frontmatter": 6490
+      "sha256": "5f9899817eaeefccb1f56b675c5860a8ec47cb724aa5cc3a5d82784b24441c22",
+      "words_without_frontmatter": 6699
     },
     {
       "skill": "vertraege-gestalten",
-      "sha256": "ababacccbdb6f78c027e545e6fbcbc743ba2418a47c7c39c5ce7628fc8aea110",
-      "words_without_frontmatter": 6496
+      "sha256": "ee75acc2f0e489836d9fc43139a77a3dbd8cf5b1d16901edd65e8d5a60786692",
+      "words_without_frontmatter": 6598
     },
     {
       "skill": "workflow-uebergabe",
-      "sha256": "edbc4d13036804d9ee1ac3a4834b75f1b6b058f14c4ea299c1b14ee63bb7e7f3",
-      "words_without_frontmatter": 6454
+      "sha256": "ae4149f8a9c37dd350293db71bd3b77160810e6cba872dd7ebfb170804422b88",
+      "words_without_frontmatter": 6468
     },
     {
       "skill": "zahlungen-buchhaltung",
-      "sha256": "ce7d72ee501780ae3c08d1af663748582229250e2d30d72d092d420490df15a2",
-      "words_without_frontmatter": 6489
+      "sha256": "d2d083ade4ec18025ed7e6ea77899980eacf08820c0a14a5929ce70171a6519f",
+      "words_without_frontmatter": 6715
     },
     {
       "skill": "zeiten-erfassen",
@@ -93,16 +93,16 @@
   ],
   "prompts": {
     "schnellstart": {
-      "utf8_bytes": 7436,
-      "words": 828
+      "utf8_bytes": 7381,
+      "words": 826
     },
     "hauptproblem": {
       "utf8_bytes": 7488,
       "words": 829
     },
     "werkstatt": {
-      "utf8_bytes": 99501,
-      "words": 11605
+      "utf8_bytes": 101897,
+      "words": 11921
     }
   },
   "cases_in_profile": 10,

@@ -1,3 +1,6 @@
+test_cockpit_markdown (__main__.CockpitTests.test_cockpit_markdown) ... ok
+test_cockpit_missing_root (__main__.CockpitTests.test_cockpit_missing_root) ... ok
+test_cockpit_orders_by_urgency (__main__.CockpitTests.test_cockpit_orders_by_urgency) ... ok
 test_closing_requires_decided_gates (__main__.LaufTests.test_closing_requires_decided_gates) ... ok
 test_control_characters_rejected (__main__.LaufTests.test_control_characters_rejected) ... ok
 test_gate_cannot_be_released_unopened (__main__.LaufTests.test_gate_cannot_be_released_unopened) ... ok
@@ -15,6 +18,6 @@ test_release_requires_review_first (__main__.LaufTests.test_release_requires_rev
 test_unknown_phase (__main__.LaufTests.test_unknown_phase) ... ok
 
 ----------------------------------------------------------------------
-Ran 15 tests in 0.106s
+Ran 18 tests in 0.134s
 
 OK

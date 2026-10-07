@@ -249,7 +249,7 @@ Literatur darf nur aus vom Nutzer bereitgestellten Texten oder tatsächlich verf
 - [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html), [§ 187 BGB](https://www.gesetze-im-internet.de/bgb/__187.html), [§ 188 BGB](https://www.gesetze-im-internet.de/bgb/__188.html), [§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html): Fristbeginn, Fristende und Verschiebung.
 - [§ 130a ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) und [§ 130d ZPO](https://www.gesetze-im-internet.de/zpo/__130d.html): elektronische Einreichung, Signatur und Nutzungspflicht.
 - [§ 2 GwG](https://www.gesetze-im-internet.de/gwg_2017/__2.html) und [§ 10 GwG](https://www.gesetze-im-internet.de/gwg_2017/__10.html): anlassbezogene Verpflichtetenstellung und Sorgfaltspflichten.
-- [§ 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html) und [§ 12a ArbGG](https://www.gesetze-im-internet.de/arbgg/__12a.html): Dreiwochenfrist der Kündigungsschutzklage und Kostentragung erster Instanz; beide in dieser Fassung am Volltext zu prüfen, die Berechnung übernimmt der Fachskill.
+- [§ 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html) und [§ 12a ArbGG](https://www.gesetze-im-internet.de/arbgg/__12a.html): Klage binnen drei Wochen nach Zugang der schriftlichen Kündigung (§ 4 Satz 1 KSchG); im Urteilsverfahren erster Instanz kein Anspruch auf Erstattung von Zeitversäumnis und Prozessbevollmächtigtenkosten (§ 12a Absatz 1 Satz 1 ArbGG) und Hinweispflicht vor Abschluss der Vertretungsvereinbarung (Satz 2); die Berechnung übernimmt der Fachskill.
 
 ### 4.4. Belegdisziplin
 

@@ -516,9 +516,10 @@
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
       "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen.",
-      "Abschnitt 7 Mandatslauf und Freigabestufen: Phasen, führende Fassung mit Hash, Gates G1 bis G8 nur durch benannte Person freigegeben, Stufen 0 bis 3."
+      "Abschnitt 7 Mandatslauf und Freigabestufen: Phasen, führende Fassung mit Hash, Gates G1 bis G8 nur durch benannte Person freigegeben, Stufen 0 bis 3.",
+      "Kanzleialltag: Tagesstart mit Cockpit über alle Mandatsläufe, offenes Fristgate vor aller Sacharbeit."
     ],
-    "sha256": "8f1831058432bcb774a365a73198d31aa0d8ed702f6a603098553cd05a4baa3e"
+    "sha256": "85f8b243fd543d675f560a63a18feb47f39f5dd8658ca790208e2b1d0e3edb95"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -527,9 +528,10 @@
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
       "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen.",
-      "Kapitel 29 Mandatslauf, Freigabestufen und agentische Arbeit mit Beispiel Versäumnisurteil auf Stufe 2."
+      "Kapitel 29 Mandatslauf, Freigabestufen und agentische Arbeit mit Beispiel Versäumnisurteil auf Stufe 2.",
+      "Kapitel 30 Kanzleialltag mit Tagesstart, Posteingang, Wochenabschluss und Monatsabrechnung in Claude Cowork und ChatGPT."
     ],
-    "sha256": "814ddcaa10cd466b67d9c900190938041c56df9cbb300d230ebee14d2bd6b5a1"
+    "sha256": "a746752e7623d131deffa16d0f25219b134ff52bf915969efbd8c32a39bb3069"
   },
   "focus_review": {
     "method": "desk_review",
@@ -543,7 +545,7 @@
     "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
     "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
     "prompt_sha256": "0d523627b184222b8dbd95a3a5b1c49b02499d55aeb157e7c529158e5e3dbf62",
-    "skill_sha256": "1124317afafda0f95aa4cb4b87e305674f4ea43ac455bf3a3ddfe774713e52a2"
+    "skill_sha256": "c661d5debd0fb1261873abde63385d7afd6facb2b519d580c2916a174826a7c2"
   },
   "prompt_editorial_review": {
     "date": "2026-10-07",

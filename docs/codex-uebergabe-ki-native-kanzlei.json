@@ -16,7 +16,7 @@
     "Keine Präjudizienbindungs-Argumente. Jeder Entscheidungsanker behält 'Trägt' und 'Trägt nicht'.",
     "Zeichensatz der Skills: keine Emojis, keine Pfeile, keine Häkchen, kein kleiner-gleich oder größer-gleich; der PDF-Builder bricht sonst ab.",
     "Relative Links müssen existieren (Nachbarskills ../<slug>/SKILL.md, Referenzen ../../references/<datei>.md, Skripte ../../scripts/<datei>.py). Tabellen höchstens vier Spalten.",
-    "Wortkorridor je Skill 5.600 bis 6.500 Wörter Textkörper (Fristenskill bis 6.900). Keine Kürzung unter 5.200.",
+    "Wortkorridor je Skill 5.600 bis 6.800 Wörter Textkörper (Fristenskill bis 7.000). Keine Kürzung unter 5.200.",
     "Die drei Prompts: Mini und Hauptproblem höchstens 7.500 UTF-8-Bytes; MD und TXT byteidentisch; Hashes im Prüfprofil quality/evals/ki-native-kanzlei.json nach jeder Änderung aktualisieren (mini_review.sha256, workshop_review.sha256, focus_review.prompt_sha256 und skill_sha256).",
     "Keine Skripte ändern, außer ein Test weist einen Fehler nach. Keine Testakten ändern. Keine Freigabe durch Maschinenbezeichnungen in Beispielen.",
     "Pull Request nicht als Draft; nach grünen Prüfungen sofort per Squash auf main mergen (Repository-Regel)."
@@ -156,19 +156,15 @@
   "arbeitsauftraege": [
     {
       "nr": 1,
-      "titel": "Volltextverifikation der markierten Normaussagen",
-      "beschreibung": "Die Runde 445.33.7 hat die Prüfvermerke anhand des Normcheck-Protokolls aufgelöst, soweit der Wortlaut abrufbar war. Prüfe stichprobenartig mindestens zwanzig der berichtigten Stellen erneut am Protokoll, ergänze die Normcheck-Liste um jede noch markierte Norm und löse die verbleibenden Vermerke auf. Lege die Ergebnisse im passenden Quellenbericht unter quality/ki-native-kanzlei/ ab.",
+      "titel": "Normabgleich nachschärfen und Restvermerke auflösen",
+      "beschreibung": "Die Runde 445.33.7 hat alle Prüfvermerke über den Normcheck-Workflow (Bericht quality/ki-native-kanzlei/normcheck/normcheck-*.md) und einen Websuche-Abgleich (quality/ki-native-kanzlei/normcheck/normbefunde-websuche-2026-10-07.md: 85 bestätigt, 12 berichtigt, 5 nicht ermittelbar) aufgelöst und 100 Änderungen in 17 Skills übernommen. Der Websuche-Abgleich beruht auf Suchtreffer-Auszügen. Öffne deshalb mindestens die zwölf berichtigten Normen und die Übergangsvorschriften am amtlichen Volltext (gesetze-im-internet.de über den Normcheck-Workflow), prüfe die übernommenen Sätze wortgenau und löse die verbliebenen Vermerke auf. Ergebnisse als Nachtrag im Befundbericht ablegen.",
       "schwerpunkte": [
-        "§ 511 Abs. 2 und § 544 ZPO Wertgrenzen und Übergangsregel 2026",
-        "§ 147 AO und § 14b UStG Aufbewahrungsfristen nach dem Vierten Bürokratieentlastungsgesetz",
-        "§ 19 UStG Grenzen, § 13 RVG Mindestgebühr, VV RVG Nr. 7000 bis 7008",
-        "§ 4 BORA Anderkonto und Einbehalt, § 3 BORA Absatzzuordnung, § 2 Abs. 2 und § 11 BORA Wortlaut",
-        "§§ 44, 45, 52, 53, 56 BRAO Wortlaut und Absatzzuordnung",
-        "§ 10 Abs. 3 GwG Schwelle, § 56 GwG Absatzstruktur, GwGMeldV-Paragrafen",
-        "§ 308 Nr. 1a und 1b, § 309 Nr. 9, § 202, §§ 474 und 476 BGB Werte",
-        "§ 203 Abs. 3 und 4 StGB, Art. 44 ff. DSGVO, § 31 BVerfGG Reichweite",
-        "§§ 131, 133, 130a Abs. 5 und 6, 130d ZPO Satzzuordnung, § 5 ERVV",
-        "§ 41 Abs. 2 VwVfG und § 122 Abs. 2 AO Wortlaut vierter Tag"
+        "Berichtigt, wortgenau nachprüfen: § 4a Abs. 1 und 3 RVG, § 4b RVG, § 53 BRAO, § 8 Abs. 2 und 4 GwG, § 43 Abs. 4 GwG, § 4 BORA, §§ 2 bis 4 DL-InfoV, Nr. 7000 VV RVG, § 309 Nr. 8 Buchst. b Doppelbuchst. ff BGB, § 5 ERVV",
+        "Übergangsrecht: § 47 EGZPO (§ 544 ZPO), § 44 EGGVG (§ 23 GVG), § 72 GKG (§ 66 GKG), Art. 97 § 19a EGAO (§ 147 AO)",
+        "§ 356 BGB in der Fassung ab 19.06.2026 (Höchstfrist Abs. 4 Satz 1, Dienstleistungen Abs. 5 Nr. 2) und § 356a BGB (Widerrufsfunktion) am amtlichen Text bestätigen",
+        "Restvermerke: § 476 Abs. 1 BGB negative Beschaffenheitsvereinbarung, § 45 BRAO ab Abs. 2, § 2 Abs. 1 Nr. 10 GwG Doppelbuchstaben",
+        "Fristentabelle im Skill fristen-berechnen-ueberwachen (Abschnitt Fristenübersicht) Zeile für Zeile gegen den Normtext abgleichen",
+        "Nachlaufbericht des Normchecks auswerten: Normen, die beim ersten Lauf an Zeitüberschreitung scheiterten"
       ]
     },
     {
@@ -229,9 +225,10 @@
   ],
   "bekannte_grenzen": [
     "In der Bearbeitungsumgebung sind gesetze-im-internet.de, EUR-Lex, BRAK und Gerichtsseiten gesperrt; amtliche Texte wurden deshalb über den Normcheck-Workflow in GitHub Actions gelesen.",
-    "Die Lesefassungen 445.33.5 und 445.33.6 wurden mit Liberation Serif gesetzt; Times New Roman war nicht installiert.",
+    "Der Normcheck-Runner erreichte gesetze-im-internet.de nicht zuverlässig; Einzelnormen wurden ersatzweise über dejure.org gelesen und im Bericht als SEKUNDÄRQUELLE gekennzeichnet. Amtlich gelesen wurden BORA (Stand 01.12.2025, BRAK-PDF), Rom I und Brüssel Ia (EUR-Lex).",
+    "Der Websuche-Abgleich der Prüfvermerke stützt sich auf Suchtreffer-Auszüge amtlicher Einzelnormseiten und Spiegel; eine amtliche Seite wurde dabei nicht vollständig geöffnet.",
+    "Die Lesefassungen 445.33.5 bis 445.33.7 wurden mit Liberation Serif gesetzt; Times New Roman war nicht installiert.",
     "Die zwei Modell-Probeläufe im Qualitätsbericht stammen aus der Vorfassung 445.33.4 und wurden nicht wiederholt.",
-    "§ 356 Abs. 5 BGB ist laut Prüfprofil am 07.10.2026 am amtlichen Text geprüft; die Absatznummer der Zwölfmonats-Höchstfrist in § 356 BGB ist nicht verifiziert.",
     "Der Helfer mandatslauf.py ordnet jedes Gate einem festen Skill zu; öffnet ein anderer Skill ein Gate (zum Beispiel G3 durch mandantenkommunikation), verweist next auf den festen Skill. Prüfen, ob eine Zuordnung je geöffnetem Gate sinnvoller ist; nur mit Tests ändern.",
     "Befehle im Ordner commands sind für Claude Cowork und Claude Code gedacht; ob ein Codex- oder ChatGPT-Import sie anzeigt, hängt von der Umgebung ab."
   ],

@@ -111,7 +111,7 @@ Bei Widersprüchen formuliere neutral: „In Ihrer Nachricht vom 02.10.2026 nenn
 
 ### 3.7. Unverzügliche Unterrichtung und Antwort
 
-Nach § 11 BORA ist die Mandantschaft über alle für den Fortgang der Sache wesentlichen Vorgänge und Maßnahmen unverzüglich zu unterrichten; von wesentlichen erhaltenen oder versandten Schriftstücken ist Kenntnis zu geben, und Anfragen des Mandanten sind unverzüglich zu beantworten. Der Wortlaut ist am amtlichen Satzungstext der [BRAK](https://www.brak.de/die-brak/satzungsrecht/bora/) zu prüfen. Ein eingegangener gerichtlicher Hinweis, ein Vergleichsvorschlag oder ein Urteil löst spätestens mit der Fristnotierung auch den Entwurf der Mandanteninformation aus. Eine Mandantenanfrage wird nicht bis zur vollständigen Fachprüfung liegen gelassen; ist die Antwort noch nicht möglich, erhält der Mandant eine Zwischennachricht mit dem konkreten Zeitpunkt der Antwort.
+Nach § 11 BORA ist die Mandantschaft über alle für den Fortgang der Sache wesentlichen Vorgänge und Maßnahmen unverzüglich zu unterrichten; von wesentlichen erhaltenen oder versandten Schriftstücken ist Kenntnis zu geben, und Anfragen des Mandanten sind unverzüglich zu beantworten. So § 11 Absatz 1 und 2 BORA in der Fassung vom 01.12.2025 ([BRAK](https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/033-BORA_Stand_01.12.2025.pdf)); das Mandat ist zudem in angemessener Zeit zu bearbeiten. Ein eingegangener gerichtlicher Hinweis, ein Vergleichsvorschlag oder ein Urteil löst spätestens mit der Fristnotierung auch den Entwurf der Mandanteninformation aus. Eine Mandantenanfrage wird nicht bis zur vollständigen Fachprüfung liegen gelassen; ist die Antwort noch nicht möglich, erhält der Mandant eine Zwischennachricht mit dem konkreten Zeitpunkt der Antwort.
 
 Übersende wesentliche Schriftstücke als Anlage; die Zusammenfassung eines Urteils ersetzt die Übersendung nicht, und die Übersendung ersetzt die Beratung nicht.
 
@@ -151,7 +151,7 @@ Bei einem möglichen eigenen Fehler werden Sachstand, unmittelbare Sicherungsma�
 
 ### 3.13. Kommunikationsweg, Vertraulichkeit und Verschlüsselung
 
-Die Verschwiegenheitspflicht nach [§ 43a Abs. 2 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html) und der Schutz des [§ 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html) gelten für jeden Kommunikationsweg. § 2 Abs. 2 BORA verlangt risikoadäquate und zumutbare organisatorische und technische Schutzmaßnahmen; die Nutzung eines mit Vertraulichkeitsrisiken verbundenen elektronischen Wegs ist danach jedenfalls erlaubt, wenn der Mandant zustimmt, und von einer Zustimmung ist auszugehen, wenn der Mandant diesen Weg vorschlägt oder beginnt und ihn nach einem zumindest pauschalen Risikohinweis fortsetzt. Prüfe diesen Wortlaut vor der Verwendung am amtlichen Satzungstext der BRAK.
+Die Verschwiegenheitspflicht nach [§ 43a Abs. 2 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html) und der Schutz des [§ 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html) gelten für jeden Kommunikationsweg. § 2 Abs. 2 BORA verlangt risikoadäquate und zumutbare organisatorische und technische Schutzmaßnahmen; die Nutzung eines mit Vertraulichkeitsrisiken verbundenen elektronischen Wegs ist danach jedenfalls erlaubt, wenn der Mandant zustimmt, und von einer Zustimmung ist auszugehen, wenn der Mandant diesen Weg vorschlägt oder beginnt und ihn nach einem zumindest pauschalen Risikohinweis fortsetzt. Das entspricht § 2 Absatz 2 BORA in der Fassung vom 01.12.2025.
 
 Dokumentiere, ob der Mandant die unverschlüsselte E-Mail selbst begonnen hat und ob der Risikohinweis in der Akte liegt. Fehlt er, enthält die erste E-Mail einen Satz wie „Wir weisen darauf hin, dass unverschlüsselte E-Mails von Dritten mitgelesen werden können; wenn Sie einen gesicherten Weg wünschen, nennen wir Ihnen unser Mandantenportal.“ Bei Gesundheits-, Straf- oder Geschäftsgeheimnisdaten schlage den gesicherten Weg aktiv vor; behaupte keinen Kanal, der nicht eingerichtet ist.
 
@@ -265,7 +265,7 @@ Prüfstand ist der 07.10.2026. Literatur wird ausschließlich aus bereitgestellt
 - [§ 98 ZPO](https://www.gesetze-im-internet.de/zpo/__98.html), [§ 278 ZPO](https://www.gesetze-im-internet.de/zpo/__278.html), [§ 779 BGB](https://www.gesetze-im-internet.de/bgb/__779.html) – Vergleichskosten, schriftlicher gerichtlicher Vergleich, Vergleichsbegriff.
 - [§ 517 ZPO](https://www.gesetze-im-internet.de/zpo/__517.html), [§ 520 ZPO](https://www.gesetze-im-internet.de/zpo/__520.html), [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) – Berufungsfrist, Begründungsfrist, Fristende an Wochenenden und Feiertagen.
 - [§ 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html) – strafrechtlicher Geheimnisschutz.
-- [BORA bei der BRAK](https://www.brak.de/die-brak/satzungsrecht/bora/) – § 2 Abs. 2 zu Kommunikationswegen und § 11 zur Unterrichtung; Wortlaut am amtlichen Satzungstext zu prüfen.
+- [BORA bei der BRAK](https://www.brak.de/die-brak/satzungsrecht/bora/) – § 2 Abs. 2 zu Kommunikationswegen und § 11 zur Unterrichtung; Fassung vom 01.12.2025.
 
 ### 4.4. Belegdisziplin
 

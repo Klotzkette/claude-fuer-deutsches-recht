@@ -5,7 +5,7 @@
   "pages": [
     {
       "pdf": "abrechnung-e-rechnung.pdf",
-      "pdf_sha256": "1c9a5151b20a5d09898657ad33af17fa9f69cc908068d880b732fd4319534267",
+      "pdf_sha256": "b014c1e4726a3f244f237a1d9d8622248cf98ad04dc2fcd09a8b86c53566b0bb",
       "pages": [
         {
           "page": 1,
@@ -24,17 +24,17 @@
         },
         {
           "page": 4,
-          "characters": 3911,
+          "characters": 3853,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 4217,
+          "characters": 4087,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3667,
+          "characters": 3949,
           "inside_page": true
         },
         {
@@ -44,7 +44,7 @@
         },
         {
           "page": 8,
-          "characters": 4027,
+          "characters": 4070,
           "inside_page": true
         },
         {
@@ -91,7 +91,7 @@
     },
     {
       "pdf": "akte-fristen-anlegen.pdf",
-      "pdf_sha256": "2f7323be78bdb4be27addc06a0caf3e644c7a4c98cf5572fc44818f78d64bd7a",
+      "pdf_sha256": "57bf12b8d19db5f30495e3c40c430797c065d682c677883a833163030e691810",
       "pages": [
         {
           "page": 1,
@@ -125,17 +125,17 @@
         },
         {
           "page": 7,
-          "characters": 4116,
+          "characters": 4163,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3363,
+          "characters": 3636,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3836,
+          "characters": 4057,
           "inside_page": true
         },
         {
@@ -182,7 +182,7 @@
     },
     {
       "pdf": "anwaltsberufsrecht-pruefen.pdf",
-      "pdf_sha256": "c8b6907625a55abf6dbba540b582d5590fe87f311225952449666402aa1e50b5",
+      "pdf_sha256": "0241da137e4189793e97b399d5c0be3e1af3e190877f25daee1775432310c90c",
       "pages": [
         {
           "page": 1,
@@ -201,12 +201,12 @@
         },
         {
           "page": 4,
-          "characters": 3651,
+          "characters": 3914,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 4003,
+          "characters": 3967,
           "inside_page": true
         },
         {
@@ -221,22 +221,22 @@
         },
         {
           "page": 8,
-          "characters": 3634,
+          "characters": 3916,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3490,
+          "characters": 3364,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3246,
+          "characters": 3410,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 2010,
+          "characters": 2547,
           "inside_page": true
         },
         {
@@ -268,7 +268,7 @@
     },
     {
       "pdf": "bea-anlagen-vorbereiten.pdf",
-      "pdf_sha256": "3327e5514ad7195ce5d78e8b3d5df77d3d57c20e7eafbf6a565d9312fb59579d",
+      "pdf_sha256": "7ce0b305c7c7de3ace1d806319c9fe2b92ea79dcd05b0c97b9a93014c311dbf7",
       "pages": [
         {
           "page": 1,
@@ -287,7 +287,7 @@
         },
         {
           "page": 4,
-          "characters": 3563,
+          "characters": 3613,
           "inside_page": true
         },
         {
@@ -302,12 +302,12 @@
         },
         {
           "page": 7,
-          "characters": 4089,
+          "characters": 4093,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3845,
+          "characters": 3981,
           "inside_page": true
         },
         {
@@ -322,7 +322,7 @@
         },
         {
           "page": 11,
-          "characters": 3465,
+          "characters": 3578,
           "inside_page": true
         },
         {
@@ -349,7 +349,7 @@
     },
     {
       "pdf": "fristen-berechnen-ueberwachen.pdf",
-      "pdf_sha256": "b27b0ef4e5178d404753b57863233f47ffdf7d22ddbb3a53c7ae9ecb65760c39",
+      "pdf_sha256": "0ae1236220e28d23447069528b08f2887f681b5040df2485ac852f42e18d7cee",
       "pages": [
         {
           "page": 1,
@@ -368,42 +368,42 @@
         },
         {
           "page": 4,
-          "characters": 4028,
+          "characters": 4253,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 4147,
+          "characters": 4060,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 4011,
-          "inside_page": true
-        },
-        {
-          "page": 7,
           "characters": 4010,
           "inside_page": true
         },
         {
+          "page": 7,
+          "characters": 3873,
+          "inside_page": true
+        },
+        {
           "page": 8,
-          "characters": 1979,
+          "characters": 2263,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2114,
+          "characters": 1163,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 4018,
+          "characters": 3299,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1305,
+          "characters": 3376,
           "inside_page": true
         },
         {
@@ -413,7 +413,7 @@
         },
         {
           "page": 13,
-          "characters": 3865,
+          "characters": 3694,
           "inside_page": true
         },
         {
@@ -435,7 +435,7 @@
     },
     {
       "pdf": "geldwaesche-pruefen.pdf",
-      "pdf_sha256": "7f6aacf73e8370a0d378ef765c37952bbdfb42dcf5bceb7ae14f7ba6f3922caf",
+      "pdf_sha256": "a356671cb734e2ac0fdc73e89d1f8aeb30d5ba9016bc0296d7c7b790a73fd632",
       "pages": [
         {
           "page": 1,
@@ -454,12 +454,12 @@
         },
         {
           "page": 4,
-          "characters": 4148,
+          "characters": 4202,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3565,
+          "characters": 4247,
           "inside_page": true
         },
         {
@@ -469,17 +469,17 @@
         },
         {
           "page": 7,
-          "characters": 3857,
+          "characters": 3958,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3180,
+          "characters": 3208,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3853,
+          "characters": 3995,
           "inside_page": true
         },
         {
@@ -521,7 +521,7 @@
     },
     {
       "pdf": "honorar-budget-vereinbaren.pdf",
-      "pdf_sha256": "823226405ea85ff0c8a912b9823f1bf195818110c93ab85b6c0646840051b145",
+      "pdf_sha256": "4f1d3a858fec0ec2ac765b38f364ddb06094bb9679c28f2ee6593d8b768728a4",
       "pages": [
         {
           "page": 1,
@@ -545,32 +545,32 @@
         },
         {
           "page": 5,
-          "characters": 4303,
+          "characters": 4386,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 4152,
+          "characters": 4380,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3969,
+          "characters": 3911,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3835,
+          "characters": 4246,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3365,
+          "characters": 3291,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 1269,
+          "characters": 1641,
           "inside_page": true
         },
         {
@@ -607,7 +607,7 @@
     },
     {
       "pdf": "ki-kanzlei-steuern.pdf",
-      "pdf_sha256": "2362962b1566aaaee04f47719170a0149a3a9b2fd65080b722d3b3497b8d743f",
+      "pdf_sha256": "03a713233d8bd85c5c25ecbebf7f169a34f4fe26209f84bff0789ce997b06209",
       "pages": [
         {
           "page": 1,
@@ -656,12 +656,12 @@
         },
         {
           "page": 10,
-          "characters": 3121,
+          "characters": 3067,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1707,
+          "characters": 2090,
           "inside_page": true
         },
         {
@@ -676,7 +676,7 @@
         },
         {
           "page": 14,
-          "characters": 3614,
+          "characters": 3794,
           "inside_page": true
         },
         {
@@ -698,7 +698,7 @@
     },
     {
       "pdf": "mandantenkommunikation.pdf",
-      "pdf_sha256": "8cc07254e603cae2942d44d1bddfa8110fdbd1d9478930f16effb4b980d359e1",
+      "pdf_sha256": "b4705505c3dd51ac13f8f115879649756079dcae3180c5094faaa4477b1a142e",
       "pages": [
         {
           "page": 1,
@@ -722,7 +722,7 @@
         },
         {
           "page": 5,
-          "characters": 3720,
+          "characters": 3780,
           "inside_page": true
         },
         {
@@ -732,7 +732,7 @@
         },
         {
           "page": 7,
-          "characters": 3749,
+          "characters": 3736,
           "inside_page": true
         },
         {
@@ -757,7 +757,7 @@
         },
         {
           "page": 12,
-          "characters": 3020,
+          "characters": 2998,
           "inside_page": true
         },
         {
@@ -779,7 +779,7 @@
     },
     {
       "pdf": "mandat-abschliessen.pdf",
-      "pdf_sha256": "9937cb26f30f4e0bffa8458d743a2204e4e67ecc40505d236cb9cb7cd99e7bfa",
+      "pdf_sha256": "78575fcf06eca5e1d89f01295e1a62541a7f2899838c1c886303352394fc81ac",
       "pages": [
         {
           "page": 1,
@@ -798,42 +798,42 @@
         },
         {
           "page": 4,
-          "characters": 3821,
+          "characters": 4049,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3784,
+          "characters": 3805,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3938,
+          "characters": 3927,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 2741,
+          "characters": 3041,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3137,
+          "characters": 3292,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3554,
+          "characters": 3237,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3497,
+          "characters": 3605,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1927,
+          "characters": 2342,
           "inside_page": true
         },
         {
@@ -848,7 +848,7 @@
         },
         {
           "page": 14,
-          "characters": 4202,
+          "characters": 4301,
           "inside_page": true
         },
         {
@@ -865,7 +865,7 @@
     },
     {
       "pdf": "mandatsannahme-interessenkollision.pdf",
-      "pdf_sha256": "bffbf2eecdf9685bde313c2bce3b2d7398fe5f1ee0a735879ef1416edd4fd898",
+      "pdf_sha256": "6ff0b3b5e326eef409303043205cfc674da2bfee7f4a5d01e8be3176902d0f8f",
       "pages": [
         {
           "page": 1,
@@ -889,32 +889,32 @@
         },
         {
           "page": 5,
-          "characters": 4053,
+          "characters": 4037,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3922,
+          "characters": 4085,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 4279,
+          "characters": 4168,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3553,
+          "characters": 4022,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3994,
+          "characters": 3943,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 1141,
+          "characters": 1995,
           "inside_page": true
         },
         {
@@ -929,7 +929,7 @@
         },
         {
           "page": 13,
-          "characters": 3631,
+          "characters": 3566,
           "inside_page": true
         },
         {
@@ -951,7 +951,7 @@
     },
     {
       "pdf": "recht-recherchieren.pdf",
-      "pdf_sha256": "8bbcebd113e6e706112718d82d5e8c606824edb10006cacc0d1a6a3972acb63d",
+      "pdf_sha256": "d34ac3e0059d95f8f5f82442a4f67539b30781e7a749520686e5a21222ca8cb5",
       "pages": [
         {
           "page": 1,
@@ -980,7 +980,7 @@
         },
         {
           "page": 6,
-          "characters": 3840,
+          "characters": 4015,
           "inside_page": true
         },
         {
@@ -1037,7 +1037,7 @@
     },
     {
       "pdf": "schriftsaetze-entwerfen.pdf",
-      "pdf_sha256": "d09865da3ac18260da74da0f78fa109e842c4198f1a672c3a576218afca2434b",
+      "pdf_sha256": "8a24908ad68ed73a1b8c47241521fb8c154ce6563f0628de8fe0f7a06b80b3cb",
       "pages": [
         {
           "page": 1,
@@ -1051,12 +1051,12 @@
         },
         {
           "page": 3,
-          "characters": 4005,
+          "characters": 4020,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3877,
+          "characters": 3978,
           "inside_page": true
         },
         {
@@ -1066,12 +1066,12 @@
         },
         {
           "page": 6,
-          "characters": 4209,
+          "characters": 4276,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3749,
+          "characters": 3947,
           "inside_page": true
         },
         {
@@ -1118,7 +1118,7 @@
     },
     {
       "pdf": "vertraege-agb-pruefen.pdf",
-      "pdf_sha256": "e0fc3f81a9e773520e9c0c870b64d45cf30a7cc3350ecbb7e74dd589fdb5362c",
+      "pdf_sha256": "d6422211872ff5544bd19eddb0afb22e72d883bf5b4ac4a67f4029a06cdd616d",
       "pages": [
         {
           "page": 1,
@@ -1137,69 +1137,69 @@
         },
         {
           "page": 4,
-          "characters": 4028,
+          "characters": 4116,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3696,
+          "characters": 4093,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 4284,
+          "characters": 3707,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3817,
+          "characters": 4385,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3644,
+          "characters": 3845,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3035,
+          "characters": 3140,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2266,
+          "characters": 1534,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 3857,
+          "characters": 2881,
           "inside_page": true
         },
         {
           "page": 12,
-          "characters": 3356,
+          "characters": 3130,
           "inside_page": true
         },
         {
           "page": 13,
-          "characters": 4241,
+          "characters": 4020,
           "inside_page": true
         },
         {
           "page": 14,
-          "characters": 3395,
+          "characters": 4178,
           "inside_page": true
         },
         {
           "page": 15,
-          "characters": 1681,
+          "characters": 3683,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "vertraege-gestalten.pdf",
-      "pdf_sha256": "66d07b69bbd1b9557d4815de1b1f8be79f0b92d7d7e52a2b1adf7f97cab14b14",
+      "pdf_sha256": "ea1c757ce116ee53373ef9577dc11cb8bcd227ab26e4620ffdc6ec42afe22407",
       "pages": [
         {
           "page": 1,
@@ -1263,7 +1263,7 @@
         },
         {
           "page": 13,
-          "characters": 3015,
+          "characters": 3835,
           "inside_page": true
         },
         {
@@ -1285,7 +1285,7 @@
     },
     {
       "pdf": "workflow-uebergabe.pdf",
-      "pdf_sha256": "e89325532ac095a4adfbb5d9ec07c4a599efede0aa64bb0d0f57817d8a14e7e5",
+      "pdf_sha256": "2825768fb2c32576ec27546c7f31ec9fc6ee0aa33315dbd17346b2b94d6b2772",
       "pages": [
         {
           "page": 1,
@@ -1309,12 +1309,12 @@
         },
         {
           "page": 5,
-          "characters": 4152,
+          "characters": 4103,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 4054,
+          "characters": 4107,
           "inside_page": true
         },
         {
@@ -1349,7 +1349,7 @@
         },
         {
           "page": 13,
-          "characters": 4210,
+          "characters": 4324,
           "inside_page": true
         },
         {
@@ -1366,7 +1366,7 @@
     },
     {
       "pdf": "zahlungen-buchhaltung.pdf",
-      "pdf_sha256": "a6261354c7e11e27599124bc51611d4344d1e83eca2ad3e3559551daf36aa5b8",
+      "pdf_sha256": "80c693d0047b36bf4232f351f7c94da8c90988701345991b77818a93d862cd3f",
       "pages": [
         {
           "page": 1,
@@ -1390,57 +1390,57 @@
         },
         {
           "page": 5,
-          "characters": 3972,
+          "characters": 4032,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 4025,
+          "characters": 3902,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3535,
+          "characters": 4314,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3983,
+          "characters": 3705,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3647,
+          "characters": 3668,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2897,
+          "characters": 3096,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 2733,
+          "characters": 2393,
           "inside_page": true
         },
         {
           "page": 12,
-          "characters": 3042,
+          "characters": 3387,
           "inside_page": true
         },
         {
           "page": 13,
-          "characters": 3716,
+          "characters": 3701,
           "inside_page": true
         },
         {
           "page": 14,
-          "characters": 4187,
+          "characters": 4317,
           "inside_page": true
         },
         {
           "page": 15,
-          "characters": 3222,
+          "characters": 3831,
           "inside_page": true
         }
       ]
