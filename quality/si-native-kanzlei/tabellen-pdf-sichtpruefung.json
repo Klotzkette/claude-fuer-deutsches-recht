@@ -1,0 +1,323 @@
+{
+  "review_date": "2026-10-07",
+  "scope": "Native LibreOffice Calc PDF-Druckansichten der 24 endgültigen Original-XLSX, anschließend vollständige visuelle Einzelprüfung aller 24 PNG-Seiten. Keine Aussage über Microsoft-Excel-Oberfläche.",
+  "source_hashes_match_current_repository": true,
+  "source_count": 24,
+  "reviewed_pages": 24,
+  "render_directory": "/tmp/si-native-kanzlei-20261007/tabellen/pdf-sichtpruefung-final",
+  "resolved_finding": "Im ersten Export berührten sich rechtsbündige Zahlen und linksbündiger Folgetext an Zellgrenzen. Endgültige Zentrierung der Datums- sowie Minuten-/Status-/Wert-/Quellenspalten schafft sichtbare Abstände; alle 24 finalen Seiten erneut kontrolliert.",
+  "files": [
+    {
+      "source": "testakten/si-kanzlei-agrarrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "5c4abe2026a1362d7c8f6a4aacc9ded52f0d48775247e3871b78040af861fc57",
+      "render_sha256": "b78d58b9ef6b68142df45b804a84ef86a9662509a8fa96442d191e4fd98c6b94",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-arbeitsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "5b5729b2d1cc82e08e0bae9c0e947c71b8083abdbd8b147d17749bebe561bb6b",
+      "render_sha256": "b90640a94a5af96af6e13e07e9b64b860c35ae921a0ce07001a20d45d31b3be0",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "acbd34dcb50b632417640c64c4b0a602f7e475fc53590e059b8304613fc180eb",
+      "render_sha256": "70738dd33db2e72bebc69651a4fccf845009f9363175129ee3a1e2da4213eabd",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bau-architektenrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "2e118b2bc329010ad0c0930385f695049a9c0f74c3b0bac342f5cef5b13168ec",
+      "render_sha256": "3ddbbe59401afc2636eff9f67200c7b88a697913e204ff27716a274535d6a869",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-erbrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "fb86b5dbe7c3a8651b54d9297dac2eec9affc50beed0358cf9b73e9d326cc947",
+      "render_sha256": "806801522c086b1d3af8af57f929cba2123acf8532a513f3a8a847e096b89833",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-familienrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "1d5dc59082f31510c643447429338fb3ce6a0281031848bc7aa0eddbdc8eaa63",
+      "render_sha256": "e838c65e2d2246153bca7605cb1f3b1976bb4d367449b0ed83cdd94d67e34fc6",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "a88d89c1f107b8db3e6fd62204a98d32818b4a283df4c74033587350f3cfad22",
+      "render_sha256": "bcc99e48b4f5ab7096f364b4ffd41cdd62545e8e5cbcbad4030acd20f46e6f98",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "ba25b8ca7c8bce9ba44d2bd1512215592fbcb7bb65c754bf43814032335beee5",
+      "render_sha256": "afdfd3f952a1e489b31a50b54d8b099088d2f60a6843fd2a5ce17081404cbb5c",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "b32de93eb12e0d13fec5cee4524a424c2abc5c2bbdbbc4e02676548af9abbe85",
+      "render_sha256": "06b623e6eb58ce9884523a4c1e4bb9e8feffa7de896cda0fb265f2d3eefc99f3",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "0004902e374ea0cda4072f0c437d1da3dc02aa49d7f7c7d366a7f917c52df8c4",
+      "render_sha256": "fb000d8be884793dade8b7bf9b5be760a466ab7a92f5846c5282ddf76913c568",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-it-recht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "50ce8a10214b266c52d7c8f1e3538dfb4f3430fdcd79e47d225cd743f0d3de08",
+      "render_sha256": "c98793b49337ab086793b6fb1d47e1a29123a804dbe64b9c9bce88bf7c247f48",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-medizinrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "6ebf6087f4713d41f49504a6359648fc0a629f8a81225145dc0f31ec6f2351c1",
+      "render_sha256": "43a967bc83bffcbb3b6074b6db6a3a222c4e5e641cd348f2d13d7d466ca66e85",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "5989b4e42c7fd6eaeef3aecc9e65ba8add5d56e8a961d1b3b45d23c34d7dcff2",
+      "render_sha256": "cfa62ac6848f34bd951bd1e22959b32a8fafae753fc479be54228ac3b99d2cd8",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-migrationsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "d3c9e7c5d200756a287f54083255b811106d5dd6751d5e73174b56fa15337b9c",
+      "render_sha256": "e720956b1d7d75f50a29febd7c28b513b82e63a138ee9c95e6d0676ecdb73654",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sozialrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "848cf6ddbe149a0781d34701ce2ad2363a601d431a5789d22cb9017ecd1042a1",
+      "render_sha256": "d14443754acb5c733da71d0e714975d317b5ca5e632acce76929b7ec083635fb",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sportrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "425b4a00f3b7a3b16df5f53d2704746b5713a49860e7b1b864c23b7b8dd6b7e3",
+      "render_sha256": "8d19aa8e638af80fe058f873911204edc20f548f76ece2219aec37c7c813e7c2",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-steuerrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "3c387c7cb38977971f907be7dc5ab996c1ef602c75b17c564756507dd124fd8e",
+      "render_sha256": "022f54ed6edd8d38faab45fdb8eec5e0fbfc1bddb381afc6d3e406f3794261e2",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-strafrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "0db5b35ff5c902894474c6fab20c674b566d49d495c7c8f223516d9695e1201d",
+      "render_sha256": "82d076148aab9dee156ff6d15d1b4caec09746b2e8a481731eace0a8445827d4",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-transport-speditionsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "02fb79d42d6bf6c6b49fff665299acae218d327b6f108e4e9d1b072d13877a4f",
+      "render_sha256": "35dedffb4806d4aefb9d7e4fb922aa51b18a118602d98dd5af9cb3315e81c3c0",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-urheber-medienrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "98009abbc777ced2fc3021325ffd67236f83627b0fad4ccca2ca40cb015f2991",
+      "render_sha256": "c771b44182306821a584093fc9fedf6e53d49bd75c684065d9003c42ba69e3d3",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-vergaberecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "e9e6653ee6e60d19a5edc6340855b55ed1e090d37135c6cca99c036a73a4a387",
+      "render_sha256": "ea5152bd1c602fa4441a53186b7b414dc83ebc36e09b3e47d89222768364e913",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verkehrsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "422f853297b5a53653de5b2f3809908fa1a742ffee8e5e380098dd474551393c",
+      "render_sha256": "b8f2bdbeb69403f61393791eb60e133ae5ab3a4c3b18f8229b3ef49f16a37920",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-versicherungsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "b735a617dab9c358acbf12832f2933811f1a0c982ce0f98853de79426844e386",
+      "render_sha256": "bbafeed87495152575d5adffd3cdccf83b543c09f1f47ad3660b077932f125e2",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verwaltungsrecht/08_Zeiten_und_Honorar.xlsx",
+      "source_sha256": "a2cdd171c74c529ecdc3d01c2364e6c88479e7f075332113380c2fc2f40b84b2",
+      "render_sha256": "66d6320c9ad29d7a84a39a2d9c2a32995c1cf691e3c6204502c37b042fc46668",
+      "render_engine": "LibreOffice Calc PDF export",
+      "pages": 1,
+      "page_size_pt": [
+        841.889763779528,
+        595.303937007874
+      ],
+      "visual_review": "completed_full_page",
+      "findings": []
+    }
+  ]
+}

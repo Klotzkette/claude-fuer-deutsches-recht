@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "document_state": "draft",
+  "invoice_number": "ENTWURF-SI-2026-001",
+  "issue_date": "2026-10-07",
+  "due_date": "2026-10-21",
+  "period_start": "2026-10-06",
+  "period_end": "2026-10-07",
+  "currency": "EUR",
+  "vat_rate": 19,
+  "buyer_reference": "SI-2026-001",
+  "supplier": {
+    "name": "Blum und Rapp Rechtsanwälte PartG (fiktiv)",
+    "street": "Beispielgasse 7",
+    "postal_code": "10115",
+    "city": "Berlin",
+    "country": "DE",
+    "vat_id": "DE000000000",
+    "email": "rechnung@blum-rapp.example",
+    "contact": "Dr. Frieda Blum",
+    "phone": "+49 30 0000000",
+    "iban": "DE79000000001234567890"
+  },
+  "customer": {
+    "name": "Hof Apfelwirbel GbR (fiktiv)",
+    "street": "Übungsweg 4",
+    "postal_code": "14542",
+    "city": "Werder (Havel)",
+    "country": "DE",
+    "email": "buchhaltung@apfelwirbel.example"
+  },
+  "lines": [
+    {
+      "id": "1",
+      "description": "Prüfung der Pachtunterlagen und Ausarbeitung des Aufforderungsschreibens; Honorarvereinbarung HV-1",
+      "quantity": "52",
+      "unit_code": "MIN",
+      "unit_price_net": "4.00"
+    }
+  ]
+}

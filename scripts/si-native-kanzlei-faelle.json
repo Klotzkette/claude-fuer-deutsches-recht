@@ -1,0 +1,2167 @@
+[
+  {
+    "slug": "si-kanzlei-agrarrecht",
+    "fachgebiet": "Agrarrecht",
+    "title": "Die feuchte Apfelwiese",
+    "case_id": "SI-2026-001",
+    "client": "Hof Apfelwirbel GbR, vertreten durch Wiebke Klotz",
+    "opponent": "Oskar Riedel",
+    "issue": "Pachtfläche in Werder mit zugesagter Zufahrt und nach Starkregen unbefahrbarer Erntegasse",
+    "fee_model": "capped",
+    "rate": 240,
+    "cap": 1200,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die feuchte Apfelwiese formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 31,
+        "narrative": "Aufforderung zur Instandsetzung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Aufforderung zur Instandsetzung",
+    "draft_blanks": [
+      "[Zustellanschrift]",
+      "[Datum mit angemessener Frist]",
+      "[vertretungsberechtigte Person]",
+      "[Name der unterzeichnenden Rechtsanwältin]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Apfelernte in Werder beginnt am 12. Oktober. Seit dem Regen vom 28. September sinken die kleinen Erntefahrzeuge in der einzigen Zufahrt ein. Im Pachtvertrag steht, dass der Verpächter den Weg instand hält. Herr Riedel meint jetzt, wir hätten mit zu schweren Maschinen alles kaputt gefahren. Wir nutzen aber dieselben Fahrzeuge wie im Vorjahr. Die Zufahrt war schon bei der Übergabe ausgefahren. Den handschriftlichen Zusatz auf dem Übergabeblatt hat Herr Riedel nicht unterschrieben. Bitte schreiben Sie ihm zunächst, damit wir rechtzeitig ernten können. Eine Kündigung wollen wir nicht. Ich kann noch nicht sagen, welcher Ernteausfall wirklich eintreten wird.",
+    "questions": "Bitte nennen Sie die zulässigen Fahrzeuggewichte aus dem Vertrag und schicken Sie die Originaldateien der Fotos mit Aufnahmedatum. Wer hat den Zustand des Weges vor dem Regen selbst gesehen? Sollen wir einen gemeinsamen Ortstermin verlangen, und wer darf ihn für die GbR verbindlich abstimmen? Eine Minderung oder einen Schadensbetrag nehmen wir ohne geklärte Voraussetzungen nicht in das erste Schreiben auf.",
+    "response": "Ich widerspreche der Behauptung, der Weg sei mangelhaft übergeben worden. Im Sommer konnten alle Fahrzeuge passieren. Ihr neuer Traktor ist deutlich größer als der alte. Ich bin am 9. Oktober um 10 Uhr am Hof und kann den Weg mit Frau Klotz ansehen. Eine Befestigung vor dem 12. Oktober kann ich nicht zusagen; dafür müsste erst das Material bestellt werden. Bitte benutzen Sie bis dahin keine beladenen Anhänger. Ob die Wegunterhaltung auch einen kompletten Neuaufbau umfasst, sehe ich anders als Ihre Mandantin.",
+    "evidence": [
+      {
+        "title": "Auszug aus dem Pachtvertrag Apfelwiese",
+        "author": "Hof Apfelwirbel GbR und Oskar Riedel",
+        "date": "01.02.2025",
+        "text": "Verpachtet wird die 2,4 Hektar große Obstfläche am Rande von Werder einschließlich der Zufahrt vom Hoftor zur Erntegasse. Die Jahrespacht beträgt 4.800 EUR. Der Vertrag läuft bis zum 31. Januar 2030. Der Pächter darf die vorhandene Zufahrt mit landwirtschaftlichen Fahrzeugen bis zu einem tatsächlichen Gesamtgewicht von 3,5 Tonnen nutzen. Eine Nutzung durch schwere Lastwagen ist nicht vereinbart. Der Verpächter hält den vorhandenen Weg in einem Zustand, der diese vertragsgemäße Nutzung ermöglicht. Veränderungen am Weg sollen vorher gemeinsam abgestimmt werden. Der Vertrag wurde von beiden GbR Gesellschaftern und Herrn Riedel unterzeichnet. Eine besondere Regelung über außergewöhnliche Niederschläge oder die Finanzierung einer vollständigen Befestigung enthält der vorliegende Auszug nicht."
+      },
+      {
+        "title": "Übergabeblatt mit späterem handschriftlichem Zusatz",
+        "author": "Wiebke Klotz und Oskar Riedel",
+        "date": "03.02.2025",
+        "text": "Die Parteien besichtigten Fläche, Zaun und Zufahrt. Im maschinenschriftlichen Blatt steht: Zufahrt grundsätzlich befahrbar; einzelne Spurrinnen am zweiten Baumabschnitt. Beide Parteien haben diese Fassung unterschrieben. Unterhalb der Unterschriften ergänzte Frau Klotz später: Herr Riedel will die Rinnen bis zur nächsten Ernte auffüllen. Neben diesem Zusatz steht keine weitere Unterschrift. Frau Klotz erinnert sich an eine entsprechende mündliche Zusage; Herr Riedel bestreitet sie. Das Blatt enthält weder ein Aufmaß noch Angaben über die Tiefe der Rinnen. Bei der Übergabe war der Boden trocken. Die damaligen Aufnahmen befinden sich nach Auskunft von Frau Klotz auf einem alten Telefon, das noch gesucht wird."
+      },
+      {
+        "title": "Erntevorbereitung und Zustand der Zufahrt",
+        "author": "Wiebke Klotz | Betriebsnotiz",
+        "date": "05.10.2026",
+        "text": "Am 5. Oktober wurden drei Fahrversuche mit leerem Anhänger nach jeweils wenigen Metern abgebrochen. Das Zugfahrzeug wiegt laut Fahrzeugblatt 1,6 Tonnen; der leere Anhänger wiegt 0,5 Tonnen. Beladen darf das Gespann nach interner Anweisung 3,2 Tonnen nicht überschreiten. Der Angestellte Emil Vogt beobachtete die Versuche. Die Betriebsnotiz beschreibt nasse Spurrinnen von ungefähr zwölf Zentimetern Tiefe, enthält jedoch keine fachkundige Ursachenbewertung. Für den 12. Oktober sind sechs Erntekräfte eingeplant. Ihre Umbuchung wäre bis zum 8. Oktober kostenfrei möglich. Die drei beigefügten Aufnahmen wurden bisher nur in der Notiz beschrieben; die Bilddateien müssen aus dem Telefon exportiert werden."
+      }
+    ],
+    "draft": "An Oskar Riedel\n[Zustellanschrift]\n\n1 Instandsetzung der Zufahrt\n\nWir vertreten die Hof Apfelwirbel GbR. Unsere Mandantin verlangt, die im Pachtvertrag bezeichnete Zufahrt wieder für die vereinbarte Nutzung mit Fahrzeugen bis 3,5 Tonnen befahrbar herzustellen. Bitte teilen Sie bis zum [Datum mit angemessener Frist] verbindlich mit, welche Arbeiten Sie wann ausführen lassen. Die Ernte soll am 12. Oktober 2026 beginnen.\n\n2 Tatsächliche Grundlage\n\nAm 5. Oktober blieben bereits Fahrversuche mit einem unbeladenen Gespann von insgesamt 2,1 Tonnen erfolglos. Herr Emil Vogt kann den Zustand beschreiben. Der Vertragsauszug und die Betriebsnotiz sind als Anlagen K1 und K2 beigefügt. Ihre Behauptung, ein vertragswidrig schweres Fahrzeug habe den Schaden verursacht, wird bestritten. Eine abschließende technische Ursachenermittlung steht noch aus.\n\n3 Gemeinsame Besichtigung\n\nFür gewöhnliche Wegeausbesserungen nennt Paragraf 586 Absatz 1 Satz 2 BGB grundsätzlich den Pächter. Hier weist die besondere Vertragsklausel die Unterhaltung des vorhandenen Weges dem Verpächter zu. Ein vollständiger Neubau wird damit nicht ungeprüft verlangt. Wir schlagen die von Ihnen angebotene Besichtigung am 9. Oktober um 10 Uhr vor; die Teilnahme bestätigt [vertretungsberechtigte Person]. Eine Kündigung oder bezifferte Schadensforderung ist mit diesem Schreiben nicht verbunden. Weitere Rechte unserer Mandantin bleiben nach Prüfung vorbehalten.\n\n[Name der unterzeichnenden Rechtsanwältin]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__586.html"
+    ],
+    "task": "Mandat anlegen, Zuständigkeit der GbR klären und das erste Mängelschreiben mit zwei passenden Anlagen vervollständigen."
+  },
+  {
+    "slug": "si-kanzlei-arbeitsrecht",
+    "fachgebiet": "Arbeitsrecht",
+    "title": "Kündigung im Fahrradladen",
+    "case_id": "SI-2026-002",
+    "client": "Mina Özdemir",
+    "opponent": "Speichenstolz GmbH",
+    "issue": "Ordentliche Kündigung einer Mechanikerin in Leipzig mit streitiger Betriebsgröße und Kündigungszugang",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Kündigung im Fahrradladen formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 35,
+        "narrative": "Kündigungsschutzklage auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Kündigungsschutzklage",
+    "draft_blanks": [
+      "[Gerichtsanschrift]",
+      "[Anschrift]",
+      "[weitere Beschäftigte und betriebliche Zuordnung anderer Filialen]",
+      "[Datum und anwaltliche Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich arbeite seit Mai 2022 als Fahrradmechanikerin bei Speichenstolz in Leipzig. Am 30. September fand ich nachmittags eine Kündigung im Briefkasten. Der Umschlag ist ohne Poststempel. Die Geschäftsführerin sagt, ein Bote habe schon am 29. September eingeworfen. Ich war an diesem Tag abends nicht zuhause. Im Laden arbeiten zwölf Personen, aber einige nur wenige Stunden und eine Person ist Auszubildender. Der Arbeitgeber schreibt, der Werkstattbereich werde verkleinert. Gestern hing trotzdem eine Stellenausschreibung für die Werkstatt am Fenster. Ich möchte meinen Arbeitsplatz behalten. Bitte warten Sie mit der Fristprüfung nicht darauf, dass ich alle Lohnabrechnungen finde.",
+    "questions": "Bitte beschreiben Sie Ihre übliche Briefkastenleerung am 29. und 30. September und nennen Sie Personen, die das bestätigen können. Wir benötigen Beschäftigungsbeginn, Kündigungsoriginal und tatsächliche Wochenstunden der regelmäßig eingesetzten Beschäftigten. Die Dreiwochenfrist wird vorsorglich vom frühestmöglichen Zugang aus geprüft. Eine außergerichtliche Verhandlung ersetzt keine rechtzeitige Klage. Nach den bekannten Stunden ergeben sich auch mit der behaupteten Aufstockung nur 9,25 gewichtete Arbeitnehmer. Entscheidend sind deshalb etwaige weitere regelmäßige Beschäftigte und die betriebliche Zuordnung anderer Filialen.",
+    "response": "Das Kündigungsschreiben wurde nach unserer Botennotiz am 29. September um 11.20 Uhr eingeworfen. Der Zugang erst am Folgetag ist für uns nicht nachvollziehbar. Wir beschäftigen nach unserer Berechnung nicht mehr als zehn Arbeitnehmer. Die Aushilfe Frau Kroll arbeitet nur acht Stunden pro Woche. Die Stellenanzeige betrifft saisonale Beratung im Verkauf, nicht eine Mechanikerstelle. Wir bieten ein Gespräch über die Schlussabrechnung an. Die Kündigung nehmen wir derzeit nicht zurück. Einen vollständigen Personalplan geben wir außerhalb eines Verfahrens nicht heraus.",
+    "evidence": [
+      {
+        "title": "Arbeitsvertrag der Fahrradmechanikerin",
+        "author": "Speichenstolz GmbH und Mina Özdemir",
+        "date": "02.05.2022",
+        "text": "Mina Özdemir wird ab dem 2. Mai 2022 als Fahrradmechanikerin im Leipziger Betrieb eingestellt. Die regelmäßige Arbeitszeit beträgt 38 Stunden pro Woche. Das monatliche Bruttogehalt beträgt seit der unterzeichneten Ergänzung vom 1. Januar 2026 3.100 EUR. Der Vertrag ist unbefristet. Für Kündigungen gelten die gesetzlichen Fristen, soweit keine zwingende abweichende Regelung eingreift. Eine Versetzung in den Verkauf ist im Vertrag nicht ausdrücklich geregelt. Die vorliegende Kopie enthält beide Unterschriften. Es finden sich keine Hinweise auf eine vereinbarte Probezeitverlängerung oder einen befristeten Arbeitsvertrag. Die Anschrift der Arbeitgeberin lautet gemäß Vertrag Werkstatthof 8, 04177 Leipzig."
+      },
+      {
+        "title": "Ordentliche Kündigung des Arbeitsverhältnisses",
+        "author": "Speichenstolz GmbH | Geschäftsführerin Berta Kern",
+        "date": "28.09.2026",
+        "text": "Sehr geehrte Frau Özdemir, hiermit kündigen wir das Arbeitsverhältnis ordentlich zum 31. Oktober 2026, hilfsweise zum nächstmöglichen zulässigen Termin. Hintergrund ist die geplante Verringerung unserer Werkstattkapazität. Bitte stimmen Sie die Übergabe Ihrer laufenden Aufträge mit Herrn Fuchs ab. Über Urlaub und etwaige Zeitguthaben erhalten Sie eine gesonderte Abrechnung. Das Schreiben trägt eine eigenhändige Unterschrift von Berta Kern. Auf der Kopie steht nachträglich eine Botennotiz mit dem Datum 29. September und der Uhrzeit 11.20 Uhr. Wer diese Notiz erstellt hat, ist nicht lesbar. Ein Umschlag mit Poststempel oder ein gesonderter Zustellnachweis liegt nicht vor."
+      },
+      {
+        "title": "Personalübersicht aus Sicht der Mandantin",
+        "author": "Mina Özdemir | Gedächtnisnotiz",
+        "date": "06.10.2026",
+        "text": "Mina erinnert sich an sechs Beschäftigte mit jeweils 38 Stunden, zwei Beschäftigte mit jeweils 25 Stunden, zwei Beschäftigte mit jeweils 18 Stunden und eine Aushilfe mit acht Stunden pro Woche. Hinzu kommt ein Auszubildender. Die Wochenstunden beruhen teilweise auf Gesprächen und sind nicht sämtlich belegt. Eine der beiden 18 Stunden Kräfte soll seit September auf 30 Stunden aufgestockt haben. Die Stellenausschreibung am Fenster wurde am 5. Oktober fotografiert; die Bilddatei ist noch nachzureichen. Nach Minas Erinnerung stand dort: Unterstützung für Werkstatt und Verkauf gesucht. Ein Betriebsrat ist ihr nicht bekannt. Beschäftigte anderer Filialen und deren organisatorische Zuordnung hat sie nicht gezählt."
+      }
+    ],
+    "draft": "An das Arbeitsgericht Leipzig\n[Gerichtsanschrift]\n\n1 Parteien und Antrag\n\nMina Özdemir, [Anschrift], erhebt gegen die Speichenstolz GmbH, vertreten durch die Geschäftsführerin Berta Kern, Werkstatthof 8, 04177 Leipzig, Kündigungsschutzklage. Es wird beantragt festzustellen, dass das Arbeitsverhältnis der Parteien durch die Kündigung der Beklagten vom 28. September 2026 nicht aufgelöst worden ist.\n\n2 Arbeitsverhältnis und Kündigung\n\nDie Klägerin ist seit dem 2. Mai 2022 als Fahrradmechanikerin beschäftigt. Ihr monatliches Bruttoentgelt beträgt 3.100 EUR. Der Arbeitsvertrag wird als Anlage K1, die Kündigung als Anlage K2 vorgelegt. Die Klägerin fand das Schreiben am 30. September 2026 im Briefkasten. Den von der Beklagten behaupteten früheren Einwurf bestreitet sie mit Nichtwissen, soweit er außerhalb ihrer Wahrnehmung liegt.\n\n3 Begründung\n\nDie Klage wird innerhalb der nach Paragraf 4 KSchG zu prüfenden Dreiwochenfrist erhoben. Die Anwendbarkeit des allgemeinen Kündigungsschutzes ist noch nicht belegt. Die bisher bekannten Stunden ergeben selbst mit der behaupteten Aufstockung nur 9,25 gewichtete Arbeitnehmer. Zur Betriebsgröße werden [weitere Beschäftigte und betriebliche Zuordnung anderer Filialen] aufgeklärt. Weitere Unwirksamkeitsgründe werden nach ergänzender Prüfung konkret vorgetragen; sie werden nicht aus der bloßen Kopfzahl abgeleitet. Ein gesonderter Streit über die zutreffende Kündigungsfrist bleibt zu prüfen.\n\n[Datum und anwaltliche Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/kschg/__4.html",
+      "https://www.gesetze-im-internet.de/kschg/__23.html"
+    ],
+    "task": "Zugang und Betriebsgröße getrennt prüfen, Klageentwurf ergänzen und RVG Abrechnung ohne Umdeutung der Zeiten in Stundenhonorar vorbereiten."
+  },
+  {
+    "slug": "si-kanzlei-bank-kapitalmarktrecht",
+    "fachgebiet": "Bank und Kapitalmarktrecht",
+    "title": "Das verschwundene Tagesgeld",
+    "case_id": "SI-2026-003",
+    "client": "Ottilie Brandt",
+    "opponent": "Elbbogen Bank AG",
+    "issue": "Nicht autorisierte Überweisung nach einem Telefonbetrug in Dresden und streitige Freigabe in der Banking App",
+    "fee_model": "hourly",
+    "rate": 260,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das verschwundene Tagesgeld formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 39,
+        "narrative": "Erstattungsaufforderung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Erstattungsaufforderung",
+    "draft_blanks": [
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Am 2. Oktober rief jemand mit der angezeigten Nummer meiner Bank an. Er behauptete, mein Konto müsse gesichert werden. Danach zeigte die Banking App eine Freigabe, die ich bestätigte. Ich weiß nicht mehr, ob dort wirklich Sicherung oder Überweisung stand. 4.850 EUR wurden an einen mir unbekannten Empfänger überwiesen. Das fiel mir am Abend auf; ich sperrte den Zugang und meldete den Vorgang. Die Bank lehnt eine Erstattung ab, weil die App korrekt funktioniert habe. Ich habe niemals bewusst 4.850 EUR verschenken oder überweisen wollen. Bitte verlangen Sie die technischen Angaben. Ich habe Angst, dass mein unsicheres Erinnern schon alles entscheidet.",
+    "questions": "Welche Angaben waren auf dem Freigabebildschirm zu sehen, und existiert davon eine Bildschirmaufnahme? Bitte sichern Sie Anrufliste, Banknachrichten und Zeitpunkt Ihrer Sperrmeldung. Wir unterscheiden den technischen Authentifizierungsvorgang von Ihrer Autorisierung und von möglichen Gegenansprüchen der Bank. Eine sichere Erinnerung werden wir nicht durch einen vermeintlich passenden Standardtext ersetzen.",
+    "response": "Der Vorgang wurde mit dem registrierten Gerät und dem gültigen Freigabeverfahren bestätigt. Eine technische Fehlfunktion ist unserem Kundendienst nicht bekannt. Nach unserem derzeitigen Bearbeitungsstand sehen wir keine Erstattungsmöglichkeit. Das Konto wurde nach Ihrem Anruf am 2. Oktober um 19.14 Uhr für Online Verfügungen gesperrt. Ob ein Rückruf der Zahlung Erfolg hat, hängt von der Empfängerbank ab. Die von Ihnen gewünschten Protokolle hat der Fachbereich angefordert. Aus der erfolgreichen Authentifizierung leiten wir ab, dass die Überweisung ordnungsgemäß beauftragt wurde.",
+    "evidence": [
+      {
+        "title": "Kontoumsatz und Sperrbestätigung",
+        "author": "Elbbogen Bank AG | elektronischer Kontoauszug",
+        "date": "02.10.2026",
+        "text": "Das Zahlungskonto von Ottilie Brandt weist am 2. Oktober eine ausgehende Überweisung von 4.850 EUR mit der Buchungsreferenz EB 102 4850 auf. Als Empfänger ist lediglich N. Service angegeben; eine geschäftliche Beziehung zu diesem Namen ist in den Stammdaten nicht hinterlegt. Der Verwendungszweck lautet Sicherheitsumbuchung. Am selben Tag um 19.14 Uhr bestätigte die Bank die Sperre des Online Zugangs. Weitere Verfügungen nach diesem Zeitpunkt sind auf dem vorliegenden Auszug nicht sichtbar. Die vollständige Kontonummer ist in dieser Arbeitskopie nicht enthalten. Der Auszug dokumentiert die Buchung, nicht den Inhalt des Freigabebildschirms oder die Willenserklärung der Kontoinhaberin."
+      },
+      {
+        "title": "Gedächtnisprotokoll zum Telefonat",
+        "author": "Ottilie Brandt",
+        "date": "03.10.2026",
+        "text": "Der Anruf begann gegen 16.40 Uhr und dauerte nach der Anrufliste acht Minuten. Der Anrufer nannte meinen Nachnamen und sagte, es gebe einen fremden Zugriff. Er verlangte keine vollständige PIN. Ich öffnete auf seine Bitte die App und bestätigte eine Anzeige. Ich erinnere mich an eine rote Warnfläche, aber nicht an den genauen Text. Einen Empfängernamen habe ich nicht bewusst gelesen. Der Anrufer sagte, ich dürfe niemanden zurückrufen, bis die Sicherung abgeschlossen sei. Erst am Abend sah ich den Kontoumsatz. Die angezeigte Rufnummer habe ich fotografiert. Das Foto und die originale Anrufliste sind noch auf meinem Telefon gespeichert."
+      },
+      {
+        "title": "Erste Ablehnung und offener Protokollabruf",
+        "author": "Elbbogen Bank AG | Beschwerdebearbeitung",
+        "date": "05.10.2026",
+        "text": "Sehr geehrte Frau Brandt, die beanstandete Verfügung wurde nach unserem Systemvermerk mittels einer gültigen App Freigabe ausgeführt. Wir können deshalb derzeit keine Gutschrift zusagen. Ihre Schilderung eines betrügerischen Anrufs haben wir aufgenommen. Der genaue Bildschirmtext und die serverseitigen Ereignisprotokolle sind dieser Antwort nicht beigefügt. Unsere IT wird prüfen, welche Daten noch verfügbar sind. Der Rückruf der Zahlung wurde am 3. Oktober veranlasst; ein Ergebnis liegt nicht vor. Wir bitten Sie, den Schriftwechsel mit Polizei und Empfängerbank weiterzuleiten, falls solche Schreiben eingehen. Ein abschließender Bericht über einen möglichen Missbrauch Ihrer Zugangsdaten wurde bislang nicht erstellt."
+      }
+    ],
+    "draft": "An die Elbbogen Bank AG\nBeschwerdebearbeitung\n\n1 Beanstandete Verfügung\n\nWir vertreten Ottilie Brandt. Sie bestreitet, die Überweisung vom 2. Oktober 2026 über 4.850 EUR an N. Service autorisiert zu haben. Wir fordern Sie auf, den Betrag nach Paragraf 675u BGB zu erstatten und das Zahlungskonto entsprechend zu berichtigen. Bitte teilen Sie Ihre Entscheidung bis zum [Datum] mit. Die Kontoübersicht und Ihre Ablehnung sind als Anlagen K1 und K2 beigefügt.\n\n2 Sachverhalt und Nachweise\n\nUnsere Mandantin bestätigte eine App Anzeige nach einem betrügerischen Telefonanruf, erinnert sich jedoch nicht zuverlässig an deren vollständigen Inhalt. Daraus folgt kein Zugeständnis einer bewusst erteilten Zahlungsanweisung. Sie meldete den Vorgang noch am selben Abend. Wir bitten um Sicherung und Übermittlung der verfügbaren Authentifizierungsdaten, des tatsächlich angezeigten Freigabetextes und der Zeitstempel.\n\n3 Weitere Prüfung\n\nEine erfolgreiche technische Authentifizierung beantwortet die streitige Autorisierung nicht allein. Etwaige Gegenansprüche sind nach ihren eigenen Voraussetzungen zu prüfen. Bitte benennen Sie Tatsachen, auf die Sie einen solchen Anspruch stützen, und den Bearbeitungsstand des Zahlungsrückrufs. Weitere Angaben unserer Mandantin werden nach Sichtung der Originalnachweise ergänzt.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__675u.html",
+      "https://www.gesetze-im-internet.de/bgb/__675w.html"
+    ],
+    "task": "Bankforderung vervollständigen; technische Freigabe, Autorisierung und Eigenhaftung getrennt behandeln."
+  },
+  {
+    "slug": "si-kanzlei-bau-architektenrecht",
+    "fachgebiet": "Bau und Architektenrecht",
+    "title": "Das Wasser im Proberaum",
+    "case_id": "SI-2026-004",
+    "client": "Fidelio Ausbau GmbH, vertreten durch Yunus Kern",
+    "opponent": "Bauwerk Kruse GmbH",
+    "issue": "Feuchte Kellerabdichtung eines Leipziger Proberaums mit streitiger Abnahme und Mangelverantwortung",
+    "fee_model": "estimate",
+    "rate": 250,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": 1800,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das Wasser im Proberaum formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 43,
+        "narrative": "Nacherfüllungsverlangen auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Nacherfüllungsverlangen",
+    "draft_blanks": [
+      "[Anschrift]",
+      "[Datum]",
+      "[Ansprechpartner mit Telefonnummer]",
+      "[angemessene Frist]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Wir haben einen Keller in Leipzig als Proberaum ausbauen lassen. Nach dem Regen vom 27. September stand Wasser am Übergang zwischen Wand und Boden. Der Auftragnehmer sagt, seine Abdichtung sei richtig und das Wasser komme durch ein fremdes Rohr. Das Rohr war tatsächlich später von einer anderen Firma verlegt worden. In unserem Abnahmeblatt sind Restarbeiten erwähnt; ich weiß nicht, ob damit schon vollständig abgenommen wurde. Die letzte Rate von 8.400 EUR ist noch nicht bezahlt. Bitte verfassen Sie ein konkretes Schreiben zur Untersuchung und Beseitigung, ohne gleich die gesamte Schlussrechnung zurückzuweisen. Der Raum wird ab November vermietet.",
+    "questions": "Wer hat die Abnahmeerklärung unterschrieben, und war die Feuchte damals sichtbar? Bitte ordnen Sie die Leistungen der Rohrfirma zeitlich zu und benennen Sie die Stelle des Wassereintritts. Für den Entwurf brauchen wir eine realistische Untersuchungs und Nachbesserungsfrist sowie Zugangstermine. Einen Einbehalt werden wir erst nach Vertrags und Mangelprüfung beziffern.",
+    "response": "Wir haben den Raum am 18. September übergeben. Die im Blatt aufgeführten Restarbeiten betreffen nur die Sockelleisten. Die von uns ausgeführte Abdichtung wurde nach unserem Prüfprotokoll kontrolliert. Am 22. September arbeitete eine andere Firma an der Wanddurchführung. Für deren Eingriff übernehmen wir keine Verantwortung. Wir bieten eine gemeinsame Besichtigung am 13. Oktober an, ohne einen Mangel unserer Leistung anzuerkennen. Bitte stellen Sie sicher, dass auch die Rohrfirma teilnimmt und der Anschluss nicht vorher verdeckt wird.",
+    "evidence": [
+      {
+        "title": "Leistungsbeschreibung Kellerabdichtung",
+        "author": "Bauwerk Kruse GmbH und Fidelio Ausbau GmbH",
+        "date": "04.06.2026",
+        "text": "Der Auftrag umfasst die innenseitige Abdichtung des Kellers, die Anschlüsse an Wand und Boden sowie den anschließenden Ausbau als Proberaum. Der vereinbarte Werklohn beträgt 42.000 EUR netto. Die VOB/B wird im vorliegenden Vertrag nicht erwähnt. Rohrdurchführungen, die nach Fertigstellung der Abdichtung durch Dritte hergestellt werden, gehören nicht zum Leistungsumfang. Bestehende Durchführungen sind dagegen an die Abdichtung anzuschließen. Welche Durchführung auf dem Plan als Bestand markiert war, lässt sich auf der vorliegenden verkleinerten Kopie nicht sicher erkennen. Die letzte Rate beträgt 8.400 EUR netto. Sie soll nach Abnahme und prüffähiger Schlussrechnung fällig werden. Der vollständige Plan liegt beim Architekturbüro."
+      },
+      {
+        "title": "Abnahmeblatt Proberaum",
+        "author": "Fidelio Ausbau GmbH | Yunus Kern",
+        "date": "18.09.2026",
+        "text": "Bei der gemeinsamen Begehung wurden neue Wandflächen, Boden und Sockelleisten besichtigt. Im Formular ist das Feld Abnahme angekreuzt. Darunter steht: Sockelleiste an Nordwand ergänzen; sonst äußerlich ohne Beanstandung. Yunus Kern und der Bauleiter haben unterschrieben. Ein Vorbehalt zu späteren Feuchteschäden steht nicht im Blatt. Eine Druckprobe oder Öffnung der Wanddurchführung wurde nicht vorgenommen. Am 18. September war kein sichtbares Wasser vorhanden. Der Keller war noch nicht an einen Nutzer übergeben. Auf einem beigelegten Kalenderauszug ist für den 22. September der Besuch einer Rohrfirma vermerkt. Der Auszug enthält weder deren konkreten Auftrag noch eine Fertigmeldung."
+      },
+      {
+        "title": "Feuchtefeststellung am Wand Boden Anschluss",
+        "author": "Architekturbüro Klara Stein | Ortsterminnotiz",
+        "date": "29.09.2026",
+        "text": "An der nordöstlichen Ecke wurde ein etwa 1,4 Meter langer Feuchtestreifen dokumentiert. Wasser stand wenige Millimeter hoch auf dem Boden. Die Stelle liegt rund 60 Zentimeter neben einer Rohrdurchführung. Die Ursache wurde bei der Sichtprüfung nicht festgestellt. Als Möglichkeiten wurden eine Undichtigkeit der Abdichtung, ein Anschlussfehler an der Durchführung und Wasser aus dem Leitungssystem genannt. Eine zerstörende Untersuchung fand nicht statt. Das Büro empfiehlt, die Stelle offen zu halten und beide ausführenden Unternehmen zu einem gemeinsamen Termin einzuladen. Eine Kostenschätzung zur Beseitigung liegt noch nicht vor. Die Nutzung als Proberaum ist bis zur technischen Klärung organisatorisch zurückgestellt."
+      }
+    ],
+    "draft": "An die Bauwerk Kruse GmbH\n[Anschrift]\n\n1 Verlangen nach Nacherfüllung\n\nWir vertreten die Fidelio Ausbau GmbH. Im von Ihnen ausgebauten Keller trat am 27. September 2026 am nordöstlichen Wand Boden Anschluss Wasser ein. Unsere Mandantin verlangt die Untersuchung und, soweit Ihre Werkleistung mangelhaft ist, die fachgerechte Beseitigung nach Paragraf 635 BGB. Bitte bestätigen Sie bis zum [Datum] Ihre Teilnahme an der Besichtigung am 13. Oktober.\n\n2 Abgrenzung der Ursache\n\nDer Auftrag umfasst die Abdichtung einschließlich der bestehenden Anschlüsse. Ihre Behauptung, allein der spätere Eingriff einer Rohrfirma habe die Feuchte verursacht, ist bisher nicht technisch belegt. Auch unsere Mandantin behauptet noch keine abschließend geklärte Ursache. Die Leistungsbeschreibung und die Ortsterminnotiz werden als Anlagen K1 und K2 vorgelegt. Der vollständige Ausführungsplan wird nachgereicht.\n\n3 Durchführung\n\nZugang gewährt [Ansprechpartner mit Telefonnummer]. Nach Feststellung der Ursache ist die geschuldete Beseitigung bis zum [angemessene Frist] auszuführen. Arbeiten, die Befunde verändern, sind vorher gemeinsam zu dokumentieren. Mit diesem Schreiben wird weder eine Abnahme rückgängig erklärt noch eine konkrete Einbehaltshöhe festgelegt. Die Schlussrechnung und die Berechtigung eines Einbehalts werden gesondert geprüft.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__635.html"
+    ],
+    "task": "Mangelort, mögliche Fremdursache und Abnahmestand in einem prüfbaren Nacherfüllungsschreiben verbinden."
+  },
+  {
+    "slug": "si-kanzlei-erbrecht",
+    "fachgebiet": "Erbrecht",
+    "title": "Die Uhr im Nachlass",
+    "case_id": "SI-2026-005",
+    "client": "Lotte Eberlein",
+    "opponent": "Nepomuk Eberlein",
+    "issue": "Auskunft zum Nachlass des Vaters in Bamberg und fehlende Angaben zu einer verschenkten Uhr",
+    "fee_model": "flat",
+    "rate": null,
+    "cap": null,
+    "flat_fee": 750,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die Uhr im Nachlass formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Auskunftsverlangen zum Pflichtteil auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Auskunftsverlangen zum Pflichtteil",
+    "draft_blanks": [
+      "[Anschrift]",
+      "[Datum]",
+      "[noch ausstehender Rücksprache]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Mein Vater starb am 14. August in Bamberg. Im Testament steht nur mein Bruder Nepomuk als Erbe. Mir hat er eine Liste mit einem Kontostand und Beerdigungskosten geschickt. Die wertvolle Uhr unseres Vaters fehlt. Vor zwei Jahren hatte mein Bruder gesagt, er dürfe sie schon mitnehmen. Ob das ein Geschenk war, weiß ich nicht. Mein Bruder meint, die Sache sei mit einer Zahlung von 4.000 EUR erledigt. Ich habe nichts unterschrieben und noch kein Geld erhalten. Bitte verlangen Sie erst einmal eine vollständige Auskunft. Eine fertige Pflichtteilszahl kann ich aus den Unterlagen nicht erkennen.",
+    "questions": "Bitte bestätigen Sie weitere Kinder, den Familienstand des Vaters beim Tod und ob ein Ehevertrag bekannt ist. Was wissen Sie aus eigener Wahrnehmung über die Uhr und eine mögliche Schenkung? Benötigt werden die vollständige Testamentseröffnung und Angaben zu früheren Zuwendungen. Die gewünschte Auskunft ist von der späteren Bezifferung eines Pflichtteils zu trennen.",
+    "response": "Vater wollte ausdrücklich, dass ich alles bekomme. Die Uhr hat er mir nach meiner Erinnerung zum Geburtstag 2024 geschenkt. Einen schriftlichen Vertrag gibt es nicht. Die Kosten der Beerdigung habe ich bezahlt und in der Liste abgezogen. Weitere Bankkonten sind mir nicht bekannt. Ein altes Sparkassenheft habe ich allerdings noch nicht prüfen lassen. Mein Angebot über 4.000 EUR gilt nur, wenn damit alle Ansprüche erledigt sind. Ein notarielles Nachlassverzeichnis halte ich für unnötig, weil es aus meiner Sicht ohnehin nicht viel zu verteilen gibt.",
+    "evidence": [
+      {
+        "title": "Eröffnetes Testament in Arbeitskopie",
+        "author": "Nachlass des Theodor Eberlein",
+        "date": "20.08.2026",
+        "text": "Das eigenhändige Testament vom 3. April 2023 bestimmt Nepomuk Eberlein zum alleinigen Erben. Eine Vermächtnisanordnung zugunsten von Lotte Eberlein enthält die vorliegende Seite nicht. Der Eröffnungsvermerk nennt den Todestag 14. August 2026 und das letzte gewöhnliche Aufenthaltsgebiet Bamberg. Die beigefügte Personenstandsnotiz bezeichnet Lotte und Nepomuk als Kinder. Ob weitere Abkömmlinge vorhanden sind und ob der Erblasser zum Todeszeitpunkt verheiratet war, ist in diesem Auszug nicht abschließend dokumentiert. Die Arbeitskopie enthält keine Unterschrift der Mandantin unter einen Verzicht oder Vergleich. Ein Erbschein wurde ihr bislang nicht vorgelegt."
+      },
+      {
+        "title": "Private Nachlassaufstellung des Bruders",
+        "author": "Nepomuk Eberlein",
+        "date": "15.09.2026",
+        "text": "Die Aufstellung nennt ein Girokonto mit 21.700 EUR zum Todestag, Hausrat mit einem pauschalen Ansatz von 2.000 EUR und Beerdigungskosten von 6.800 EUR. Die Summe der verbleibenden Positionen beträgt 16.900 EUR. Die Kosten sind in dieser Liste nicht durch Rechnungen belegt. Ein Sparkonto, eine Armbanduhr und mögliche Forderungen des Erblassers werden nicht aufgeführt. Unter der Aufstellung steht: Nach meiner Kenntnis vollständig. Die Liste enthält keinen gesonderten Abschnitt über lebzeitige Schenkungen. Ein Zeitraum, auf den sich die Nachforschung nach Konten bezieht, ist nicht genannt. Die Mandantin hat die Zahlen weder bestätigt noch als abschließend anerkannt."
+      },
+      {
+        "title": "Kaufbeleg und Erinnerung zur Armbanduhr",
+        "author": "Uhrenhaus Zeigerlicht | Rechnungsabschrift",
+        "date": "12.11.2019",
+        "text": "Die Rechnungsabschrift dokumentiert den Erwerb einer mechanischen Armbanduhr durch Theodor Eberlein für 9.200 EUR. Die Modellbezeichnung lautet Abendstern 42; ein heutiger Verkehrswert ist daraus nicht ablesbar. Lotte notierte auf einer getrennten Seite, dass der Vater die Uhr bei einem Familienessen im Mai 2024 noch getragen habe. Bei einem Besuch im Dezember 2024 habe Nepomuk sie getragen und von einem Geburtstagsgeschenk gesprochen. Lotte war bei einer Übergabe nicht anwesend. Die Unterlagen belegen daher Erwerb und spätere Wahrnehmungen, aber weder den genauen Schenkungszeitpunkt noch den Wert am Todestag."
+      }
+    ],
+    "draft": "An Nepomuk Eberlein\n[Anschrift]\n\n1 Auskunft zum Nachlass\n\nWir vertreten Lotte Eberlein. Als durch das Testament ausgeschlossene Tochter verlangt sie nach Paragraf 2314 BGB Auskunft über den Bestand des Nachlasses des am 14. August 2026 verstorbenen Theodor Eberlein. Bitte legen Sie bis zum [Datum] ein vollständiges, geordnetes Nachlassverzeichnis vor. Es soll Vermögen, Verbindlichkeiten und ergänzungspflichtige lebzeitige Zuwendungen nachvollziehbar ausweisen.\n\n2 Fehlende Angaben\n\nIhre private Liste enthält insbesondere keine Angaben zur Armbanduhr Abendstern 42 und zu dem von Ihnen erwähnten Sparkassenheft. Bitte erläutern Sie Erwerb, Übergabe und behaupteten Schenkungszeitpunkt der Uhr und legen Sie vorhandene Unterlagen hierzu vor. Beerdigungskosten sind durch die zugehörigen Rechnungen zu belegen. Der Testamentsauszug und Ihre Aufstellung sind als Anlagen K1 und K2 beigefügt.\n\n3 Weiteres Vorgehen\n\nEine Bezifferung des Pflichtteils erfolgt erst nach geklärter Erbquote und ausreichender Auskunft. Ihr Vergleichsangebot über 4.000 EUR ist nicht angenommen. Über die zusätzliche Anforderung eines notariellen Verzeichnisses und einer Wertermittlung entscheidet unsere Mandantin nach [noch ausstehender Rücksprache]. Dieses Schreiben enthält keinen Verzicht auf solche Ansprüche.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__2314.html"
+    ],
+    "task": "Auskunftsbegehren verfassen und die unbekannte Erbquote sowie den Schenkungsnachweis offenhalten."
+  },
+  {
+    "slug": "si-kanzlei-familienrecht",
+    "fachgebiet": "Familienrecht",
+    "title": "Ferien zwischen zwei Kalendern",
+    "case_id": "SI-2026-006",
+    "client": "Samira Winter",
+    "opponent": "Konrad Winter",
+    "issue": "Abweichende Ferienplanung für ein neunjähriges Kind in Potsdam und Entwurf einer Umgangsvereinbarung",
+    "fee_model": "capped",
+    "rate": 230,
+    "cap": 1100,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": false,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Ferien zwischen zwei Kalendern formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 31,
+        "narrative": "Umgangsvereinbarung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Umgangsvereinbarung",
+    "draft_blanks": [
+      "[Beginn]",
+      "[Ende]",
+      "[Elternteil]",
+      "[Uhrzeit]",
+      "[eindeutiger Ort]",
+      "[Ort und Datum]",
+      "[Unterschriften beider Eltern]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Konrad und ich leben in Potsdam getrennt. Unsere Tochter Juna ist neun Jahre alt. Wir wechseln uns an den Wochenenden ab, aber für die Herbstferien haben wir zwei verschiedene Kalender. Ich habe die erste Ferienwoche als meine Woche verstanden. Konrad hat nun eine Reise für genau diese Woche angekündigt. Juna freut sich auf beide Pläne und soll nicht entscheiden müssen. Es gibt noch keinen gerichtlichen Beschluss. Bitte entwerfen Sie eine kurze Vereinbarung nur für die diesjährigen Herbstferien und die Übergabe. Die Mutter meinerseits könnte Juna bringen, wenn wir uns auf einen festen Ort einigen.",
+    "questions": "Welche Ferienhälfte soll nach Ihrer Vorstellung bei welchem Elternteil liegen, und ist die Reise bereits gebucht? Bitte nennen Sie Übergabeort, Reiseadresse und erreichbare Telefonnummern. Wir vertreten nur Sie und sind keine gemeinsame Rechtsberatung beider Eltern. Den Wunsch Junas und ihre Belastung klären wir altersangemessen; sie wird nicht zur Schiedsrichterin des Konflikts gemacht.",
+    "response": "Ich habe die Reise nach Rügen vom 19. bis 24. Oktober gebucht, weil in meinem Kalender die erste Woche bei mir steht. Samiras Kalender habe ich vorher nicht gesehen. Ich kann Juna am 18. Oktober um 17 Uhr abholen und am 25. Oktober um 17 Uhr zurückbringen. Den Treffpunkt am Bahnhof halte ich mit Gepäck für unpraktisch; lieber vor unserer alten Wohnung. Über Videoanrufe können wir uns verständigen, aber nicht jeden Abend zu einer festen Uhrzeit. Ich möchte eine schriftliche Regelung, ohne damit eine dauerhafte Änderung des Wochenendrhythmus zu vereinbaren.",
+    "evidence": [
+      {
+        "title": "Bisherige Elternabsprache",
+        "author": "Samira und Konrad Winter | Gesprächsnotiz",
+        "date": "12.01.2026",
+        "text": "Die Eltern vereinbarten für Juna einen Wechsel der Wochenenden. Beginn ist jeweils Freitag nach der Schule, Ende Sonntag um 18 Uhr. Für Ferien soll frühzeitig eine gesonderte Absprache getroffen werden. Eine Aufteilung der Herbstferien enthält die Notiz nicht. Beide Eltern haben die Notiz per Nachricht als zutreffend bezeichnet. Ein gerichtlicher Vergleich oder ein familiengerichtlicher Beschluss liegt nicht vor. Juna lebt überwiegend bei ihrer Mutter; beide Eltern üben nach ihren übereinstimmenden Angaben die Sorge gemeinsam aus. Änderungen sollen ohne Einbeziehung des Kindes in den Konflikt abgestimmt werden. Ein fester Übergabeort außerhalb der Schulzeiten ist bisher nicht schriftlich festgelegt."
+      },
+      {
+        "title": "Zwei abweichende Ferienkalender",
+        "author": "Samira Winter und Konrad Winter",
+        "date": "05.10.2026",
+        "text": "Samiras Ausdruck markiert den Zeitraum vom 19. bis 25. Oktober bei der Mutter und den Zeitraum vom 26. Oktober bis 1. November beim Vater. Konrads Ausdruck enthält die umgekehrte Zuordnung. Beide Ausdrucke tragen lediglich den Monat Oktober, aber keine Versionsnummer oder gemeinsame Bestätigung. Samira hat für den 22. Oktober einen Besuch der Großmutter geplant. Konrad hat eine Reise vom 19. bis 24. Oktober reserviert. Aus den Kalendern allein ergibt sich nicht, welcher Plan zuerst übersandt wurde oder ob der andere Elternteil zugestimmt hat. Die bisher gelebte Wochenendfolge ist auf beiden Ausdrucken gleich eingetragen."
+      },
+      {
+        "title": "Reisebestätigung und Kontaktangaben",
+        "author": "Konrad Winter | Buchungsübersicht",
+        "date": "04.10.2026",
+        "text": "Die Buchungsübersicht betrifft zwei Personen für eine Ferienwohnung auf Rügen vom 19. bis 24. Oktober. Als Reisende sind Konrad und Juna Winter genannt. Der Reisepreis beträgt 620 EUR; die Stornobedingungen sind nicht beigefügt. Eine Reiseanschrift und die Telefonnummer des Vermieters sind auf einer zweiten Seite angekündigt, die in der Übersendung fehlt. Konrad ist während der Reise über sein Mobiltelefon erreichbar. Ein Auslandsaufenthalt ist nicht geplant. Die Buchung beweist nicht, dass Samira der Reise oder der Verteilung der Ferien zugestimmt hat. Rückfahrt und Übergabe sind bisher nur in seiner E Mail vorgeschlagen."
+      }
+    ],
+    "draft": "Vereinbarung zu den Herbstferien 2026\n\n1 Eltern und Zeitraum\n\nSamira Winter und Konrad Winter regeln den Umgang mit ihrer Tochter Juna für die Herbstferien 2026. Juna verbringt den Zeitraum vom [Beginn] bis [Ende] bei [Elternteil] und den anschließenden Zeitraum bis [Ende] bei [Elternteil]. Die Regelung betrifft ausschließlich diese Ferien. Der bisherige Wochenendrhythmus bleibt im Übrigen bestehen.\n\n2 Übergabe und Reise\n\nDie Übergabe erfolgt jeweils um [Uhrzeit] an [eindeutiger Ort]. Für die Hin und Rückfahrt ist [Elternteil] verantwortlich. Konrad teilt Samira die vollständige Reiseanschrift und eine erreichbare Telefonnummer spätestens vor der Abreise mit. Notwendige Medikamente und die Gesundheitskarte werden bei der Übergabe mitgegeben.\n\n3 Abstimmung und Kindeswohl\n\nDie Eltern ermöglichen Juna während der jeweiligen Ferienhälfte angemessenen Kontakt zum anderen Elternteil. Sie stimmen konkrete Anrufzeiten untereinander ab und respektieren den Tagesablauf des Kindes. Änderungen werden unmittelbar zwischen den Eltern vereinbart; Juna muss weder Nachrichten überbringen noch den Konflikt entscheiden. Die Ausgestaltung orientiert sich am Umgangsrecht des Kindes nach Paragraf 1684 BGB.\n\n4 Abschluss\n\nDiese Vereinbarung enthält keinen Verzicht auf Sorge oder Umgangsrechte und ersetzt keinen vollstreckbaren gerichtlichen Titel. Beide Eltern bestätigen nach Klärung der offenen Angaben ihr Einverständnis durch Unterzeichnung.\n\n[Ort und Datum]\n[Unterschriften beider Eltern]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__1684.html"
+    ],
+    "task": "Eng begrenzte Ferienvereinbarung erstellen; einseitiges Mandat und noch unbestätigten Kostendeckel kenntlich halten."
+  },
+  {
+    "slug": "si-kanzlei-gewerblicher-rechtsschutz",
+    "fachgebiet": "Gewerblicher Rechtsschutz",
+    "title": "Zwei Kioske namens Knusperfunk",
+    "case_id": "SI-2026-007",
+    "client": "Knusperfunk GmbH, vertreten durch Josefine Fink",
+    "opponent": "KnusperFun UG",
+    "issue": "Verwechslungsgefahr zwischen Berliner Snackmarke und neuem Kiosknamen mit streitigem Warenumfang",
+    "fee_model": "hourly",
+    "rate": 280,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Zwei Kioske namens Knusperfunk formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 35,
+        "narrative": "Abmahnungsentwurf auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Abmahnungsentwurf",
+    "draft_blanks": [
+      "[ladungsfähige Anschrift]",
+      "[vollständige Nummer]",
+      "[angemessenes Datum]",
+      "[genau belegte Verletzungsform]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Berliner Firma verkauft unter Knusperfunk geröstete Nüsse. Die Wortmarke ist eingetragen. Nun macht zwei Straßen weiter ein Kiosk unter KnusperFun auf und verkauft auch eigene Nussmischungen. Kundinnen haben gefragt, ob das unser neuer Laden sei. Ich möchte einen sachlichen Brief, keinen Rundumschlag gegen jeden Gebrauch des Wortes Knusper. Wir haben nur den Registerausdruck und zwei Werbezettel. Die Fotos des Ladenfensters liefert unser Mitarbeiter noch. Bitte prüfen Sie auch, ob wir den Kiosk als Firma richtig benannt haben; im Impressum steht eine UG.",
+    "questions": "Bitte bestätigen Sie die genaue Inhaberin und schicken Sie den vollständigen aktuellen Registerauszug einschließlich Warenverzeichnis. Welche konkreten Verwechslungen haben Personen selbst erlebt? Für eine Abmahnung brauchen wir die tatsächliche Zeichenbenutzung, den richtigen Empfänger und eine angemessen begrenzte Unterlassungsforderung. Ein pauschales Verbot sämtlicher Knusper Namen wäre damit nicht begründet.",
+    "response": "Unser Kiosk heißt KnusperFun, weil wir Spaß am Knabbern haben. Das Wort und unser grünes Eichhörnchen sehen anders aus als Ihre Verpackung. Wir betreiben Einzelhandel und keine Nussfabrik. Zwei selbst gemischte Sorten verkaufen wir allerdings unter dem Ladennamen. Wir werden das neue Schild diese Woche montieren. Eine Verbindung zu Ihrem Unternehmen behaupten wir nicht. Bitte teilen Sie konkret mit, auf welche Marke und welche Waren Sie sich beziehen. Die richtige Gesellschaft ist KnusperFun UG mit Sitz in Berlin; der Inhaber des Ladenlokals ist nur unser Vermieter.",
+    "evidence": [
+      {
+        "title": "Markenstammdaten Knusperfunk",
+        "author": "Knusperfunk GmbH | vorgelegter Registerauszug",
+        "date": "01.10.2026",
+        "text": "Der Auszug bezeichnet die Knusperfunk GmbH als Inhaberin einer deutschen Wortmarke Knusperfunk. Als Anmeldetag wird der 12. März 2024 genannt. Das wiedergegebene Warenverzeichnis umfasst geröstete und verarbeitete Nüsse sowie darauf beruhende Snackmischungen. Ein allgemeiner Schutz für sämtliche Einzelhandelsdienstleistungen ist in diesem Auszug nicht ausgewiesen. Die Nummer ist in der Arbeitskopie als KF 2024 intern gekürzt und muss vor einer Abmahnung anhand des vollständigen Registerdokuments ergänzt werden. Der Auszug gibt den Status zum 1. Oktober wieder. Er enthält keine Entscheidung über den konkreten Konflikt mit dem neuen Kiosk."
+      },
+      {
+        "title": "Werbezettel des neuen Kiosks",
+        "author": "KnusperFun UG | Eröffnungswerbung",
+        "date": "03.10.2026",
+        "text": "Der Werbezettel trägt den Namen KnusperFun und ein grünes Eichhörnchen. Beworben werden Getränke, Zeitschriften und zwei hauseigene Nussmischungen namens Feierabend und Frühschicht. Die Nussmischungen stehen unter der Zeile KnusperFun Hausmischung. Eine Verbindung zur Knusperfunk GmbH wird nicht ausdrücklich behauptet. Im Impressum ist die KnusperFun UG genannt. Die vollständige ladungsfähige Anschrift ist auf der vorliegenden beschnittenen Kopie nicht sichtbar. Der Zettel wurde nach Angabe der Mandantin am 3. Oktober vor dem Laden verteilt. Die Originaldatei oder ein unbeschnittener Scan ist noch anzufordern."
+      },
+      {
+        "title": "Notiz zu Kundenanfragen",
+        "author": "Josefine Fink | Verkaufsleitung",
+        "date": "05.10.2026",
+        "text": "Am 4. Oktober fragte die Stammkundin Ruth Meier telefonisch, ob Knusperfunk einen Kiosk eröffnet habe. Am 5. Oktober stellte der Kunde Arne Yilmaz im Laden eine ähnliche Frage. Die Notiz wurde von Josefine Fink nach den Gesprächen erstellt. Beide Kunden haben bisher keine eigene schriftliche Erklärung abgegeben. Ob sie zuvor den Werbezettel gesehen oder nur den ähnlich klingenden Namen gehört hatten, ist nicht festgehalten. Umsatzeinbußen wurden nicht ermittelt. Die Notiz dokumentiert konkrete Ansatzpunkte für eine Verwechslungsprüfung, ersetzt aber weder eine neutrale Befragung noch den Nachweis sämtlicher Verletzungsvoraussetzungen."
+      }
+    ],
+    "draft": "An die KnusperFun UG\n[ladungsfähige Anschrift]\n\n1 Beanstandete Kennzeichenbenutzung\n\nWir vertreten die Knusperfunk GmbH, Inhaberin der deutschen Wortmarke Knusperfunk, Registernummer [vollständige Nummer]. Wir beanstanden die Verwendung von KnusperFun für die auf Ihrem Werbezettel angebotenen hauseigenen Nussmischungen. Die Marke schützt geröstete und verarbeitete Nüsse sowie entsprechende Snackmischungen.\n\n2 Konkreter Konflikt\n\nDie ähnlich klingenden Zeichen werden nach den vorliegenden Unterlagen für übereinstimmende oder ähnliche Waren verwendet. Bereits zwei Kunden fragten nach einer wirtschaftlichen Verbindung. Wir sehen deshalb Anlass zur Prüfung eines Unterlassungsanspruchs nach Paragraf 14 Absatz 2 Nummer 2 und Absatz 5 MarkenG. Registerunterlage und Werbezettel sind als Anlagen K1 und K2 beigefügt. Der genaue Benutzungsumfang ist noch abzugleichen.\n\n3 Verlangte Erklärung\n\nBitte erklären Sie bis zum [angemessenes Datum], ob Sie die bezeichnete Benutzung für die Nussmischungen einstellen. Eine gegebenenfalls erforderliche strafbewehrte Unterlassungserklärung wird auf [genau belegte Verletzungsform] beschränkt ausformuliert. Dieses Schreiben verlangt kein pauschales Verbot jedes Namensbestandteils Knusper. Kosten und weitere Ansprüche werden nach abschließender Prüfung gesondert behandelt.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/markeng/__14.html"
+    ],
+    "task": "Marken und Unternehmensinhaber abgleichen; fachlich begrenzten Abmahnungsentwurf statt pauschaler Drohung vervollständigen."
+  },
+  {
+    "slug": "si-kanzlei-handels-gesellschaftsrecht",
+    "fachgebiet": "Handels und Gesellschaftsrecht",
+    "title": "Schraubenglück mit Stimmgabel",
+    "case_id": "SI-2026-008",
+    "client": "Schraubenglück GmbH, vertreten durch Alva Schulz",
+    "opponent": "Gesellschafter Erwin Bock",
+    "issue": "Einladung zu einer Kapitalerhöhung einer Berliner Handwerks GmbH bei verweigerter Zusatzfinanzierung",
+    "fee_model": "flat",
+    "rate": null,
+    "cap": null,
+    "flat_fee": 1400,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Schraubenglück mit Stimmgabel formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 39,
+        "narrative": "Gesellschafterbeschluss zur Kapitalerhöhung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Gesellschafterbeschluss zur Kapitalerhöhung",
+    "draft_blanks": [
+      "[Datum]",
+      "[konkret abgestimmte Regelung]",
+      "[Ja Stimmen]",
+      "[Nein Stimmen]",
+      "[Anzahl]",
+      "[Notarielle Ausgestaltung und Unterzeichnungen]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Schraubenglück GmbH braucht 20.000 EUR für eine zusätzliche Werkbank. Alva und ich halten zusammen 70 Prozent, Erwin hält 30 Prozent. Er möchte kein Geld nachlegen, will aber auch keine Verwässerung. Die Satzung verlangt für Satzungsänderungen 75 Prozent der abgegebenen Stimmen. Wir überlegen eine Kapitalerhöhung von 25.000 auf 45.000 EUR. Erwin soll die Möglichkeit bekommen, anteilig mitzumachen. Bitte entwerfen Sie einen Beschluss für das Gespräch beim Notar und eine klare Einladung. Ich habe Erwin bislang nur angerufen. Es ist noch keine Versammlung einberufen und nichts beschlossen worden.",
+    "questions": "Wer ist unsere Mandantin: die Gesellschaft oder einzelne Gesellschafter? Für den Entwurf behandeln wir ausschließlich die Gesellschaft als Mandantin und prüfen mögliche Interessenkonflikte. Bitte geben Sie Beteiligungsbeträge, Zeichnungsfrist, Ausgabebetrag und den vollständigen Satzungstext an. Eine Mehrheit von 70 Prozent wird nicht mit einer erforderlichen Dreiviertelmehrheit gleichgesetzt. Auch ein Ausschluss Erwins vom Stimmrecht folgt nicht allein daraus, dass er nicht finanzieren möchte.",
+    "response": "Ich habe 7.500 EUR Stammkapital übernommen und möchte meinen Anteil nicht ohne Weiteres sinken sehen. Zurzeit kann ich keine weiteren 6.000 EUR einzahlen. Ich bin aber bereit, über eine längere Zeichnungsfrist oder ein Bankdarlehen zu sprechen. Ich werde nicht akzeptieren, dass meine Stimme wegen angeblich fehlender Loyalität einfach nicht gezählt wird. Schicken Sie mir bitte zuerst die Investitionsunterlagen und eine ordnungsgemäße Einladung. Ein Verzicht auf ein Beteiligungsrecht liegt von mir nicht vor. Ihre Kanzlei hat mich in dieser Angelegenheit nicht beraten.",
+    "evidence": [
+      {
+        "title": "Satzung und Beteiligungsstand",
+        "author": "Schraubenglück GmbH | Gesellschaftsunterlagen",
+        "date": "30.09.2026",
+        "text": "Das Stammkapital beträgt 25.000 EUR. Alva Schulz hält einen Geschäftsanteil von 10.000 EUR, Bastian Fink einen Anteil von 7.500 EUR und Erwin Bock einen Anteil von 7.500 EUR. Satzungsänderungen bedürfen nach der vorgelegten Klausel einer Mehrheit von 75 Prozent der abgegebenen Stimmen. Die Einberufung erfolgt durch eingeschriebenen Brief mit einer Frist von zwei Wochen. Geschäftsführerinnen sind Alva Schulz und Derya Lang; sie vertreten gemeinsam. Eine generelle Befreiung von Interessenkonflikten oder ein automatisches Stimmverbot bei fehlender Finanzierungsbereitschaft enthält die Satzung nicht. Der vollständige aktuelle Registerauszug ist noch einzuholen."
+      },
+      {
+        "title": "Angebot für die zusätzliche Werkbank",
+        "author": "Werkbankhaus Lorenzen GmbH",
+        "date": "29.09.2026",
+        "text": "Für die Berliner Werkstatt wird eine höhenverstellbare Montageanlage einschließlich Einweisung angeboten. Der Gesamtpreis beträgt 20.000 EUR netto. Die Lieferzeit beträgt nach Bestellung acht Wochen. Das Angebot ist bis zum 20. Oktober gültig. Eine Bestellung wurde nicht bestätigt. Die Gesellschaft beabsichtigt, die Investition durch eine Erhöhung des Stammkapitals von 25.000 auf 45.000 EUR zu finanzieren. Ob daneben Umsatzsteuer und laufende Betriebsmittel aus vorhandener Liquidität bezahlt werden können, ist dem Angebot nicht zu entnehmen. Ein Leasingvorschlag wurde angekündigt, liegt aber noch nicht vor. Der Lieferant verlangt keine bestimmte gesellschaftsrechtliche Finanzierungsform."
+      },
+      {
+        "title": "Vorbesprechung zur Finanzierung",
+        "author": "Alva Schulz und Bastian Fink | Gesprächsnotiz",
+        "date": "05.10.2026",
+        "text": "Alva und Bastian möchten die neuen Einlagen zum Nennbetrag übernehmen, soweit Erwin nicht zeichnet. Vorgeschlagen wird zunächst eine Beteiligungsmöglichkeit entsprechend den bisherigen Quoten. Bei vollständiger anteiliger Beteiligung entfielen 8.000 EUR auf Alva und jeweils 6.000 EUR auf Bastian und Erwin. Eine feste Zeichnungsfrist wurde nicht vereinbart. Bastian meinte im Gespräch, 70 Prozent müssten für eine wirtschaftlich notwendige Maßnahme ausreichen. Diese Aussage wurde nicht rechtlich geprüft. Die Notiz enthält keinen Gesellschafterbeschluss. Ein Notariat ist noch nicht beauftragt, und ein etwaiger Bezugsrechtsausschluss wurde weder angekündigt noch begründet."
+      }
+    ],
+    "draft": "Entwurf eines Gesellschafterbeschlusses zur Kapitalerhöhung\n\n1 Kapital und Satzung\n\nDas Stammkapital der Schraubenglück GmbH wird von 25.000 EUR um 20.000 EUR auf 45.000 EUR erhöht. Die Satzungsbestimmung über das Stammkapital erhält den entsprechend geänderten Betrag. Dieser Entwurf wird erst nach ordnungsgemäßer Beschlussfassung und erforderlicher notarieller Beurkundung als Beschluss behandelt.\n\n2 Übernahme der neuen Anteile\n\nDen bisherigen Gesellschaftern wird zunächst eine Übernahme im Verhältnis ihrer bisherigen Beteiligung ermöglicht. Alva Schulz kann 8.000 EUR, Bastian Fink und Erwin Bock können jeweils 6.000 EUR übernehmen. Die Übernahmeerklärungen müssen bis zum [Datum] in der erforderlichen Form vorliegen. Die Zuordnung nicht übernommener Beträge wird durch [konkret abgestimmte Regelung] festgelegt. Ein pauschaler Bezugsrechtsausschluss ist damit nicht beschlossen.\n\n3 Einlagen und Durchführung\n\nDie neuen Einlagen sind in Geld zum Nennbetrag bis zum [Datum] zu leisten. Die Geschäftsführung wird mit der Vorbereitung der Anmeldung nach Erfüllung der gesetzlichen Voraussetzungen beauftragt. Paragrafen 53 und 55 GmbHG sind bei Mehrheit, Beurkundung und Übernahmeerklärungen zu beachten.\n\n4 Abstimmungsergebnis\n\nFür den Beschluss wurden [Ja Stimmen], dagegen [Nein Stimmen] und als Enthaltungen [Anzahl] abgegeben. Das Stimmrecht Erwins wird nicht allein wegen fehlender Finanzierungsbereitschaft ausgeschlossen. Die erforderliche Mehrheit und weitere Satzungsvoraussetzungen sind vor Feststellung des Ergebnisses zu prüfen.\n\n[Notarielle Ausgestaltung und Unterzeichnungen]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/gmbhg/__53.html",
+      "https://www.gesetze-im-internet.de/gmbhg/__55.html"
+    ],
+    "task": "Gesellschaft als Mandantin identifizieren, GwG Anwendungsbereich prüfen und notariellen Entwurf mit offener Mehrheit bearbeiten."
+  },
+  {
+    "slug": "si-kanzlei-insolvenz-sanierungsrecht",
+    "fachgebiet": "Insolvenz und Sanierungsrecht",
+    "title": "Das knappe Papierlager",
+    "case_id": "SI-2026-009",
+    "client": "Papiermond GmbH, vertreten durch Tarek Moser",
+    "opponent": "Hauptlieferantin Faser & Faden GmbH",
+    "issue": "Zahlungslücke eines Jenaer Verpackungsbetriebs und behauptete aber nicht unterzeichnete Stundung",
+    "fee_model": "capped",
+    "rate": 290,
+    "cap": 1800,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das knappe Papierlager formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 43,
+        "narrative": "Stundungsvereinbarung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Stundungsvereinbarung",
+    "draft_blanks": [
+      "[ausverhandelte Regelung]",
+      "[Nachweis]",
+      "[Ort, Datum und Unterschriften]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Papiermond GmbH in Jena hat am 6. Oktober 18.400 EUR frei verfügbar. Heute sind nach der Buchhaltung 27.600 EUR fällig. In der nächsten Woche sollen Kundenzahlungen kommen, aber eine große Rechnung wird bestritten. Unser Lieferant hat am Telefon gesagt, wir könnten die 9.000 EUR später zahlen. Schriftlich bestätigt hat er das nicht. Bitte helfen Sie noch heute mit einer sauberen Stundungsvereinbarung und der sofortigen Prüfung, ob wir überhaupt weiter so zahlen dürfen. Ich möchte keine beruhigende Ampel, die auf einem unbestätigten Telefonat beruht. Die Löhne sind gerade bezahlt; Steuern kommen noch hinzu.",
+    "questions": "Bitte liefern Sie taggenaue Fälligkeiten, verfügbare Kreditlinien und belastbare Zahlungseingänge. Wer sprach mit dem Lieferanten, und war diese Person vertretungsbefugt? Wir prüfen unverzüglich die Insolvenzreife und damit verbundene Pflichten; der Stundungsentwurf darf diese Prüfung nicht aufschieben. Eine bestrittene Forderung wird nicht als sicherer Zufluss eingeplant.",
+    "response": "Unser Vertrieb hat gesagt, dass wir über zwei Raten sprechen können. Eine Stundung ist bislang nicht genehmigt. Die Rechnung über 9.000 EUR bleibt nach unseren Daten seit dem 30. September fällig. Wir könnten uns eine Zahlung von 3.000 EUR am 15. Oktober und 6.000 EUR am 15. November vorstellen, wenn unsere Geschäftsführung schriftlich zustimmt. Weitere Lieferungen würden wir nur gegen Vorkasse ausführen. Bitte schicken Sie einen kurzen Entwurf. Aus der Bereitschaft, darüber zu verhandeln, dürfen Sie noch keine verbindliche Zahlungsverschiebung ableiten.",
+    "evidence": [
+      {
+        "title": "Offene Posten am Prüfungstag",
+        "author": "Papiermond GmbH | Buchhaltung",
+        "date": "06.10.2026",
+        "text": "Die Buchhaltung weist am 6. Oktober drei sofort fällige Posten aus: 9.000 EUR an Faser & Faden, 7.400 EUR Hallenmiete einschließlich Rückstand und 11.200 EUR an zwei weitere Lieferanten. Zusammen sind dies 27.600 EUR. Auf den frei verfügbaren Bankkonten liegen 18.400 EUR. Eine zusätzliche freie Kreditlinie ist nicht belegt. Die Liste ist nur ein Tagesauszug; sie enthält noch keine vollständige Dreiwochenbetrachtung. Die Buchhalterin muss insbesondere die in den nächsten Tagen fälligen Steuern und Leasingraten ergänzen. Eine Aussage über Zahlungsunfähigkeit wurde aus dem Auszug bisher nicht getroffen. Die Lieferantenstundung ist in dieser Fassung nicht abgezogen."
+      },
+      {
+        "title": "Lieferantenrechnung und Gesprächsvermerk",
+        "author": "Faser & Faden GmbH und Tarek Moser",
+        "date": "05.10.2026",
+        "text": "Die Rechnung FF 260918 über 9.000 EUR war am 30. September fällig. Tarek Moser sprach am 5. Oktober mit dem Vertriebsmitarbeiter Ulf Klein. Nach Mosers Notiz sagte Klein: Zwei Raten könnten wir hinbekommen, ich frage die Geschäftsführung. Moser verstand dies zunächst als Zusage. Klein hat keine Vollmacht zur Stundung vorgelegt. Eine neue Zahlungsfrist ist weder auf der Rechnung noch in einer gegengezeichneten Nachricht bestätigt. Der Lieferant verlangt für neue Bestellungen Vorkasse. Die alte Forderung ist nach dem vorliegenden Schriftverkehr nicht streitig; offen ist allein die verbindliche Vereinbarung einer späteren Fälligkeit."
+      },
+      {
+        "title": "Erwartete Kundenzahlungen mit Unsicherheiten",
+        "author": "Papiermond GmbH | Debitorennotiz",
+        "date": "06.10.2026",
+        "text": "Für den 9. Oktober ist ein Eingang von 6.500 EUR aus einer bestätigten Rechnung angekündigt. Eine zweite Rechnung über 12.000 EUR ist wegen angeblicher Liefermängel bestritten. Der Kunde hat weder einen Teilbetrag noch einen Zahlungstermin zugesagt. Ein Auftrag über 18.000 EUR soll erst Ende Oktober ausgeliefert und danach abgerechnet werden. Diese Auftragszahl ist kein kurzfristig verfügbarer Zahlungseingang. Die Notiz wurde aus dem Vertrieb übernommen und ist noch nicht mit den Kontoauszügen abgeglichen. Die Geschäftsführung soll die Prognose täglich aktualisieren und die Herkunft jeder Annahme festhalten. Eine Fortbestehensprognose ist in diesem Blatt nicht enthalten."
+      }
+    ],
+    "draft": "Entwurf einer Stundungsvereinbarung\n\n1 Forderung und Parteien\n\nDie Faser & Faden GmbH als Gläubigerin und die Papiermond GmbH als Schuldnerin vereinbaren für die Rechnung FF 260918 über 9.000 EUR die nachfolgende Stundung. Die Wirksamkeit setzt die Unterzeichnung durch die jeweils vertretungsberechtigten Personen voraus. Das bisherige Vertriebsgespräch ersetzt diese Vereinbarung nicht.\n\n2 Neue Fälligkeiten\n\nVon der Forderung werden 3.000 EUR am 15. Oktober 2026 und 6.000 EUR am 15. November 2026 fällig. Bis zu diesen Zeitpunkten wird die Durchsetzung des jeweils gestundeten Teilbetrags ausgesetzt. Die Parteien regeln den Umgang mit bis dahin entstandenen Zinsen und Kosten wie folgt: [ausverhandelte Regelung].\n\n3 Weitere Geschäftsbeziehung\n\nNeue Lieferungen erfolgen nur aufgrund gesonderter Aufträge und der dafür vereinbarten Zahlungsbedingungen. Diese Vereinbarung enthält weder eine Kreditzusage noch einen Erlass der Restforderung. Eine automatische Fälligstellung sämtlicher Raten bei geringfügiger Verspätung ist in diesem Entwurf nicht vorgesehen; eine gewünschte Abweichung muss ausdrücklich ausgehandelt werden.\n\n4 Unterzeichnung\n\nDie Parteien bestätigen ihre Vertretungsbefugnis durch [Nachweis]. Die gesetzlichen Pflichten der Geschäftsführung, insbesondere nach Paragraf 15a InsO, bleiben unberührt. Die Stundung ersetzt keine Prüfung der aktuellen wirtschaftlichen Lage.\n\n[Ort, Datum und Unterschriften]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/inso/__15a.html",
+      "https://www.gesetze-im-internet.de/inso/__17.html"
+    ],
+    "task": "Akute Liquiditätsprüfung priorisieren; unbestätigte Stundung nicht als Entlastung buchen und den Vertragsentwurf getrennt bearbeiten."
+  },
+  {
+    "slug": "si-kanzlei-internationales-wirtschaftsrecht",
+    "fachgebiet": "Internationales Wirtschaftsrecht",
+    "title": "Kaffeeröster über die Grenze",
+    "case_id": "SI-2026-010",
+    "client": "Röstkompass GmbH, vertreten durch Rosa Bühler",
+    "opponent": "Caffè Rovere Srl",
+    "issue": "Lieferung einer Röstmaschine von Bologna nach Freiburg mit abweichenden Einkaufs und Verkaufsbedingungen",
+    "fee_model": "estimate",
+    "rate": 270,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": 1600,
+    "agreed": false,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Kaffeeröster über die Grenze formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Nachtrag zum Liefervertrag auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Nachtrag zum Liefervertrag",
+    "draft_blanks": [
+      "[vollständiger Lieferort in Freiburg]",
+      "[verbindliches Datum]",
+      "[konkrete Kostenzuordnung]",
+      "[ausgehandelte Regelung]",
+      "[Frist]",
+      "[eindeutiger Fälligkeitstatbestand]",
+      "[Rechtsordnung]",
+      "[Einbeziehung oder Ausschluss nach bewusster Entscheidung]",
+      "[Datum und Unterschriften]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Freiburger Rösterei hat eine Maschine bei Caffè Rovere in Bologna bestellt. Auf unserer Bestellung steht deutsches Recht und Lieferung frei Betrieb. Die Auftragsbestätigung verweist auf italienisches Recht und Abholung ab Werk. Über den Unterschied hat niemand gesprochen. Der Verkäufer möchte nächste Woche versenden, verlangt aber erst die zweite Rate. Wir wollen keine Vertragskrise, sondern einen kurzen deutschsprachigen Nachtrag mit klarer Lieferung, Abnahme und Zahlung. Ob deutsches Recht automatisch bedeutet, dass kein UN Kaufrecht gilt, weiß ich nicht. Wir brauchen keine vollständige Neuverhandlung aller Geschäftsbedingungen.",
+    "questions": "Bitte legen Sie Bestellung, Auftragsbestätigung und alle angenommenen Anlagen vollständig vor. Wurde den abweichenden Bedingungen widersprochen? Wer organisiert Transport und Versicherung, und wann soll die Maschine als vertragsgemäß geprüft werden? Eine Rechtswahl, das UN Kaufrecht und ein Gerichtsstand werden getrennt behandelt. Wir setzen keine Incoterms Klausel ein, deren Kosten und Gefahrverteilung Sie nicht möchten.",
+    "response": "Wir können die Maschine am 16. Oktober versandbereit halten. Unsere Bestätigung sieht Abholung in Bologna und italienisches Recht vor. Ihr Einkauf hat danach die erste Rate bezahlt, aber keinen ausdrücklichen Widerspruch geschickt. Wir sind bereit, für diesen Auftrag eine Anlieferung nach Freiburg zu organisieren. Die Frachtkosten schätzen wir auf 1.400 EUR, eine Transportversicherung ist darin noch nicht enthalten. Über die technische Abnahme und den Restzahlungszeitpunkt sollten wir einen kurzen Zusatz unterschreiben. Einen Ausschluss des UN Kaufrechts haben wir bislang nicht vereinbart.",
+    "evidence": [
+      {
+        "title": "Bestellung einer Röstmaschine",
+        "author": "Röstkompass GmbH | Einkauf",
+        "date": "14.07.2026",
+        "text": "Bestellt wird eine Röstmaschine RC 30 mit einem Fassungsvermögen von 30 Kilogramm je Charge zum Preis von 48.000 EUR netto. Die Bestellung sieht drei Raten zu je 16.000 EUR vor: nach Auftragsbestätigung, vor Versand und nach technischer Inbetriebnahme. Lieferung soll bis zum 20. Oktober frei Betrieb Freiburg erfolgen. In der Fußzeile wird deutsches Recht genannt; zum UN Kaufrecht steht dort nichts. Ein Gerichtsstand ist nicht vereinbart. Die Bestellung verweist auf eine technische Spezifikation mit zwei Testläufen. Die erste Rate wurde bezahlt. Ein Protokoll, das die unterschiedlichen Geschäftsbedingungen ausdrücklich auflöst, ist nicht beigefügt."
+      },
+      {
+        "title": "Abweichende Auftragsbestätigung",
+        "author": "Caffè Rovere Srl | Vertrieb",
+        "date": "17.07.2026",
+        "text": "Die Auftragsbestätigung nennt dieselbe Maschine und denselben Kaufpreis. Als Lieferbedingung steht Abholung ab Werk Bologna. Der zweite Teilbetrag soll vor Herausgabe der Maschine eingehen, der dritte innerhalb von zehn Tagen danach. Die Bestätigung verweist auf italienisches Recht. Der technische Anhang der Bestellung wird als Grundlage der Leistung genannt, enthält aber keine unterschriebene Änderung der Abnahmeregel. Eine feste Incoterms Fassung oder ein benannter Übergabeort im Werk ist nicht angegeben. Der Verkäufer hat die erste Rate erhalten. Eine ausdrückliche Einigung über die abweichenden Liefer und Zahlungsbedingungen ist aus diesem Dokument allein nicht ersichtlich."
+      },
+      {
+        "title": "Technische Anforderungen und Inbetriebnahme",
+        "author": "Röstkompass GmbH | Werkstattnotiz",
+        "date": "01.10.2026",
+        "text": "Die Maschine soll am Standort Freiburg aufgestellt und an die vorhandene Abluftanlage angeschlossen werden. Zwei Testchargen mit jeweils 20 Kilogramm Rohkaffee sollen die Temperatursteuerung und die Reproduzierbarkeit der vorgegebenen Kurve zeigen. Der Verkäufer soll eine deutschsprachige Bedienungsanleitung und eine Einweisung bereitstellen. Das Gebäude verfügt über eine Laderampe; die zulässige Last des Lastenaufzugs muss noch bestätigt werden. Der Einkauf möchte den letzten Teilbetrag erst nach erfolgreicher Inbetriebnahme zahlen. Welche Abweichungen einen Test als nicht bestanden gelten lassen, ist noch nicht ausformuliert. Ein unabhängiger Sachverständiger ist bisher nicht beauftragt."
+      }
+    ],
+    "draft": "Nachtrag zum Liefervertrag über die Röstmaschine RC 30\n\n1 Geltung des Nachtrags\n\nDie Röstkompass GmbH und die Caffè Rovere Srl ergänzen den Auftrag vom 14. Juli 2026. Dieser Nachtrag geht widersprechenden Angaben in Bestellung und Auftragsbestätigung vor. Im Übrigen bleibt die vereinbarte technische Spezifikation bestehen.\n\n2 Lieferung und Kosten\n\nDie Verkäuferin organisiert die Anlieferung an [vollständiger Lieferort in Freiburg] bis zum [verbindliches Datum]. Die Parteien vereinbaren für Transportkosten und Transportversicherung [konkrete Kostenzuordnung]. Der Zeitpunkt des Gefahrübergangs wird wie folgt festgelegt: [ausgehandelte Regelung]. Die bisherige Formulierung Abholung ab Werk wird für diesen Auftrag ersetzt.\n\n3 Inbetriebnahme und Zahlung\n\nNach Aufbau werden zwei Testchargen nach dem technischen Anhang durchgeführt. Abweichungen werden gemeinsam protokolliert. Die letzte Rate von 16.000 EUR wird [Frist] nach erfolgreicher Inbetriebnahme und Zugang der Rechnung fällig. Für die zweite Rate vereinbaren die Parteien [eindeutiger Fälligkeitstatbestand].\n\n4 Recht und Streitbeilegung\n\nDie Parteien wählen [Rechtsordnung]. Zur Anwendung des UN Kaufrechts vereinbaren sie ausdrücklich [Einbeziehung oder Ausschluss nach bewusster Entscheidung]. Eine Gerichtsstandsregelung wird nur nach Prüfung der grenzüberschreitenden Wirksamkeit ergänzt. Die bloße Wahl deutschen Rechts wird nicht als bereits erklärter Ausschluss des UN Kaufrechts behandelt.\n\n[Datum und Unterschriften]",
+    "legal_sources": [
+      "https://uncitral.un.org/en/texts/salegoods/conventions/sale_of_goods/cisg"
+    ],
+    "task": "Widersprechende Bedingungen sichtbar machen und einen eng begrenzten grenzüberschreitenden Vertragsnachtrag entwerfen."
+  },
+  {
+    "slug": "si-kanzlei-it-recht",
+    "fachgebiet": "Informationstechnologierecht",
+    "title": "Der Kalender in der Wolke",
+    "case_id": "SI-2026-011",
+    "client": "Terminotter GmbH, vertreten durch Nika Wolf",
+    "opponent": "Nimbus Werk GmbH",
+    "issue": "Cloudvertrag für eine Beratungsplattform in Köln mit unklarer Löschung und optionalem Support aus Kanada",
+    "fee_model": "flat",
+    "rate": null,
+    "cap": null,
+    "flat_fee": 1250,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Der Kalender in der Wolke formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 31,
+        "narrative": "Nachtrag zur Auftragsverarbeitung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Nachtrag zur Auftragsverarbeitung",
+    "draft_blanks": [
+      "[konkreter Zyklus]",
+      "[Datum]",
+      "[Unterschriften]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Wir wollen für unsere Beratungsplattform in Köln einen Cloudkalender einkaufen. Der Anbieter hat uns einen AV Vertrag geschickt. Darin steht einerseits Löschung nach 30 Tagen, andererseits dürften Protokolle auf unbestimmte Zeit für Produktverbesserung bleiben. Support aus Kanada sei optional. Wir würden zunächst nur Geschäftskontaktdaten verwenden; Freitextfelder könnten aber sensible Beratungsinhalte enthalten. Bitte machen Sie einen kurzen Nachtrag, den ich dem Anbieter schicken kann. Ich möchte noch keine Kundendaten hochladen. Der Vertrieb behauptet, eine unterschriebene AVV löse jedes Datenschutzproblem. Das klingt mir zu einfach.",
+    "questions": "Welche Datenfelder werden tatsächlich benutzt, und sind die Freitextfelder abschaltbar? Bitte benennen Sie Hostinggesellschaft, Supportempfänger und Zugriffsregionen. Eine AVV beantwortet weder jede Rollenfrage noch automatisch einen Drittlandtransfer. Für den Nachtrag benötigen wir Löschfristen einschließlich Sicherungen, Weisungsrechte und den konkreten Unterauftragnehmerprozess. Die Zuständigkeit Ihrer Datenschutzberatung wird mit dem Vertragsmandat abgestimmt.",
+    "response": "Unsere Standardplattform speichert die Hauptdaten in Frankfurt. Der kanadische Support kann bei schwierigen Tickets zugeschaltet werden. Welches Konzernunternehmen den jeweiligen Zugriff ausführt, müssen wir beim Supportmanagement erfragen. Produktprotokolle sollen Fehlerbilder langfristig erkennbar halten; ob sie vollständig von Kundeninhalten getrennt werden, ist noch in Prüfung. Wir können die Freitextfelder zunächst deaktivieren. Eine schriftliche Bestätigung zum Abschalten der Produktverbesserung liegt noch nicht vor. Bitte senden Sie die gewünschten Änderungen als Nachtrag, damit unsere Vertragsabteilung sie freigeben kann.",
+    "evidence": [
+      {
+        "title": "Leistungsangebot Cloudkalender",
+        "author": "Nimbus Werk GmbH",
+        "date": "28.09.2026",
+        "text": "Das Angebot umfasst 25 Nutzerkonten für die Terminotter GmbH zu je 18 EUR netto monatlich. Der Dienst verwaltet Namen, geschäftliche E Mail Adressen, Termine und optionale Freitexte. Die Hauptdatenregion wird mit Frankfurt bezeichnet. Eine technische Beschränkung der Freitextfelder ist nach dem Angebot möglich. Support außerhalb Deutschlands wird nur auf Anfrage erwähnt; Empfänger und Zugriffsrechte sind nicht aufgeführt. Die Laufzeit soll zwölf Monate betragen. Die Bestellung wurde noch nicht unterschrieben. Das Angebot enthält keine Berechtigung, sensible Beratungsinhalte ohne gesonderte Prüfung in die Plattform einzugeben. Eine Produktivfreigabe der Kundin liegt nicht vor."
+      },
+      {
+        "title": "Auszug aus dem Lieferantenentwurf zur Auftragsverarbeitung",
+        "author": "Nimbus Werk GmbH | Vertragsabteilung",
+        "date": "29.09.2026",
+        "text": "Nach Vertragsende sollen aktive Kundendaten innerhalb von 30 Tagen gelöscht werden. Für Sicherungskopien nennt der Entwurf keinen festen Zeitraum. Diagnose und Nutzungsprotokolle dürfen nach einer weiteren Klausel unbefristet für die Verbesserung der Produkte verwendet werden. Die Klausel unterscheidet nicht zwischen technischen Metadaten und Inhalten aus Kundenfeldern. Unterauftragnehmer dürfen nach dem Entwurf ohne vorherige Mitteilung ausgetauscht werden. Die Kundin soll Änderungen erst in der jährlichen Dienstleisterliste sehen. Die Parteien haben diesen Text noch nicht vereinbart. Eine gesonderte Vereinbarung über Zwecke, Rechtsgrundlagen und Rollen bei einer eigenen Produktverbesserung fehlt."
+      },
+      {
+        "title": "Datenfluss aus der technischen Vorbesprechung",
+        "author": "Terminotter GmbH | Nika Wolf",
+        "date": "05.10.2026",
+        "text": "Nutzer legen Termine mit Namen und Kontaktadresse an. Ein optionales Freitextfeld erlaubt bislang beliebige Inhalte. Die Hauptdaten liegen nach Anbieterangabe in Frankfurt. Bei einem Supportticket kann ein Diagnosepaket erzeugt werden; ob darin Freitext enthalten ist, wurde nicht gezeigt. Der Anbieter erwähnt Support aus Kanada, benennt aber noch keine konkrete Gesellschaft. Die Freigabe eines Tickets erfolgt durch einen Administrator der Kundin. Ein Downloadprotokoll oder eine zeitliche Begrenzung des Zugriffs ist in der Demonstration nicht nachgewiesen worden. Die Kundin möchte den ersten Test ausschließlich mit erfundenen Datensätzen durchführen und vor Produktivbetrieb die offenen Nachweise klären."
+      }
+    ],
+    "draft": "Nachtrag zur Vereinbarung über Auftragsverarbeitung\n\n1 Zweck und Weisungen\n\nDie Nimbus Werk GmbH verarbeitet personenbezogene Daten der Terminotter GmbH ausschließlich zur Bereitstellung des vereinbarten Kalenders und auf dokumentierte Weisung. Eine eigene Verwendung von Kundeninhalten zum Modelltraining oder zur Produktverbesserung wird mit diesem Nachtrag nicht gestattet. Abweichende Zwecke bedürfen einer gesonderten rechtlichen und vertraglichen Klärung.\n\n2 Löschung\n\nAktive Kundendaten werden nach Vertragsende innerhalb von 30 Tagen gelöscht, soweit keine rechtmäßige abweichende Weisung vorliegt. Sicherungskopien werden nach [konkreter Zyklus] gelöscht und bis dahin nicht für andere Zwecke verwendet. Bei Wiederherstellung sind bereits erteilte Löschweisungen erneut umzusetzen. Der Auftragnehmer weist die Durchführung auf Anfrage nach.\n\n3 Dienstleister und Support\n\nVor weiteren Unterauftragsverarbeitern gelten das vereinbarte Informations und Genehmigungsverfahren sowie Artikel 28 DSGVO. Ein Supportzugriff aus Kanada erfolgt erst nach Benennung des Empfängers, Festlegung der notwendigen Daten und Prüfung der Übermittlungsvoraussetzungen. Die Unterzeichnung dieses Nachtrags ist keine pauschale Transferfreigabe.\n\n4 Technische Konkretisierung\n\nDie Parteien ergänzen bis zum [Datum] die Anlage um Supportprotokollierung, Rollen und Löschzyklen. Freitextfelder bleiben bis zur dokumentierten Freigabe deaktiviert. Alle anderen Bestimmungen gelten fort, soweit sie diesem Nachtrag nicht widersprechen.\n\n[Unterschriften]",
+    "legal_sources": [
+      "https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu"
+    ],
+    "task": "Vertragsprüfung, AGB Konflikt und konkreten AV Nachtrag verbinden; keinen Transfer allein aus dem Land Kanada freigeben."
+  },
+  {
+    "slug": "si-kanzlei-medizinrecht",
+    "fachgebiet": "Medizinrecht",
+    "title": "Der Befund im falschen Fach",
+    "case_id": "SI-2026-012",
+    "client": "Agnes Aydin",
+    "opponent": "MVZ Stadtpark GmbH",
+    "issue": "Verspätet übermittelter radiologischer Befund in Erfurt mit zunächst ungeklärtem Gesundheitsschaden",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Der Befund im falschen Fach formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 35,
+        "narrative": "Anforderung der Behandlungsunterlagen auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Anforderung der Behandlungsunterlagen",
+    "draft_blanks": [
+      "[abgestimmter Übermittlungsweg]",
+      "[Vollmachtsnachweis]",
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich war im August im MVZ Stadtpark in Erfurt zur radiologischen Untersuchung. Einen auffälligen Befund erhielt meine Hausärztin nach ihrer Aussage erst drei Wochen später. Ich wurde dann weiter untersucht. Ob mir durch die Verzögerung gesundheitlich etwas passiert ist, hat bisher niemand sicher gesagt. Ich möchte zuerst meine vollständigen Unterlagen, einschließlich des Versandprotokolls. Bitte schreiben Sie nicht schon von einem bewiesenen Behandlungsfehler. Die Praxis hat am Telefon gesagt, eine Kopie koste 45 EUR. Ich habe bislang noch nie eine Abschrift der Akte verlangt.",
+    "questions": "Bitte nennen Sie Untersuchungstag, nachfolgende Behandlung und den genauen Zeitraum der Verzögerung. Wer hat Ihnen welche Information wann mitgeteilt? Wir beginnen mit dem Aktenzugang und trennen ihn von einer späteren Haftungsbewertung. Gesundheitsdaten werden nur über den abgestimmten sicheren Weg übermittelt. Eine pauschale Schweigepflichtentbindung gegenüber beliebigen Dritten benötigen wir für diesen ersten Schritt nicht.",
+    "response": "Der Befund wurde nach unserem System am Untersuchungstag erstellt. Nach welchem technischen Weg er an die Hausärztin ging, klären wir noch. Wir können Ihnen eine Kopie der Patientenakte bereitstellen. Unsere Rezeption hat zunächst die übliche Kopierpauschale genannt; die Berechtigung dieser Forderung prüfen wir. Ein Teil der Nachrichten ist im Archivsystem abgelegt und noch nicht exportiert. Wir bitten um eine konkrete Empfangsadresse und einen Identitätsnachweis auf einem sicheren Weg. Eine Aussage zu einem Gesundheitsschaden können wir anhand des bisherigen Telefonats nicht treffen.",
+    "evidence": [
+      {
+        "title": "Termin und Behandlungsübersicht",
+        "author": "MVZ Stadtpark GmbH | Patientenübersicht",
+        "date": "10.08.2026",
+        "text": "Agnes Aydin wurde am 10. August zur radiologischen Untersuchung vorgestellt. Die Überweisung stammte aus der Hausarztpraxis Dr. Hannah Wolf. Der Bericht wurde im System am selben Tag angelegt. Die Übersicht zeigt eine Freigabe am 11. August, enthält jedoch kein vollständiges Versandprotokoll. Ein erneuter Kontakt der Hausarztpraxis ist für den 31. August eingetragen. Die eigentliche Befunddatei und sämtliche Bilddaten sind in diesem Kurzauszug nicht enthalten. Die Übersicht erlaubt deshalb weder eine abschließende Aussage über den rechtzeitigen Zugang noch eine medizinische Bewertung möglicher Folgen. Die Patientin verlangt erstmals eine vollständige Abschrift."
+      },
+      {
+        "title": "Bestätigung der Hausarztpraxis zum Eingang",
+        "author": "Dr. Hannah Wolf | Hausärztin",
+        "date": "01.10.2026",
+        "text": "Frau Aydin stellte sich am 31. August nach einer Nachfrage zum Untersuchungsergebnis erneut vor. In unserer digitalen Postmappe fanden wir den radiologischen Bericht an diesem Tag. Einen früheren Eingang konnten wir bei der ersten Suche nicht feststellen. Ob eine Nachricht unter einer anderen Zuordnung abgelegt wurde, ist noch nicht abschließend geprüft. Wir veranlassten anschließend die empfohlene weitere Abklärung. Eine belastbare Aussage dazu, ob die Zeitspanne den Verlauf beeinflusst hat, ist damit nicht verbunden. Für eine solche Beurteilung müssen vollständige Behandlungsunterlagen und der weitere Verlauf ausgewertet werden. Diese Bestätigung dient zunächst der zeitlichen Rekonstruktion."
+      },
+      {
+        "title": "Anforderung und telefonische Kosteninformation",
+        "author": "Agnes Aydin | Gesprächsnotiz",
+        "date": "05.10.2026",
+        "text": "Frau Aydin bat telefonisch um ihre Befunde, Bilder und Angaben zur Übermittlung an die Hausarztpraxis. Die Rezeption nannte 45 EUR für eine Kopie und verwies auf eine schriftliche Anforderung. Ein Formular wurde nicht übersandt. Die Patientin hat bisher keine vollständige Abschrift erhalten und keine Zahlung geleistet. Sie möchte die Unterlagen elektronisch über einen sicheren Empfangsweg erhalten. Eine Freigabe zur Übermittlung an Versicherer oder andere Dritte hat sie nicht erteilt. Die Gesprächsnotiz hält nur die Auskunft der Rezeption fest; sie ist weder eine unterschriebene Kostenvereinbarung noch eine abschließende Ablehnung des Aktenzugangs."
+      }
+    ],
+    "draft": "An die MVZ Stadtpark GmbH\nPatientenverwaltung\n\n1 Abschrift der Behandlungsakte\n\nWir vertreten Agnes Aydin. Sie verlangt nach Paragraf 630g BGB unverzüglich eine vollständige erste Abschrift der sie betreffenden Behandlungsakte zur Untersuchung vom 10. August 2026 einschließlich Befunden, Bilddaten und dokumentierter Kommunikation. Die erste Abschrift ist nach Paragraf 630g Absatz 1 BGB unentgeltlich bereitzustellen.\n\n2 Übermittlungsnachweise\n\nBitte nehmen Sie die vorhandenen Freigabe und Versandvermerke an die Hausarztpraxis Dr. Wolf in die Zusammenstellung auf, soweit sie Bestandteil der Behandlungsakte sind. Sofern weitere technische Protokolle gesondert geführt werden, bitten wir um deren Sicherung und um Auskunft über die verfügbaren Angaben. Die Patientenübersicht und die Bestätigung der Hausarztpraxis werden als Anlagen K1 und K2 bezeichnet.\n\n3 Empfang und weitere Prüfung\n\nDer sichere Empfangsweg lautet [abgestimmter Übermittlungsweg]. Die Vertretung wird durch [Vollmachtsnachweis] belegt. Bitte bestätigen Sie bis zum [Datum] die Bereitstellung oder erläutern Sie konkret entgegenstehende Gründe. Mit dieser Anforderung wird noch keine abschließende Behauptung eines Behandlungsfehlers oder eines bestimmten Gesundheitsschadens erhoben. Die medizinische und haftungsrechtliche Bewertung bleibt der vollständigen Aktenprüfung vorbehalten.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__630g.html"
+    ],
+    "task": "Aktenzugang statt voreiliger Haftungsklage; Gesundheitsdaten und sichere Anlagenübergabe berücksichtigen."
+  },
+  {
+    "slug": "si-kanzlei-miet-wohnungseigentumsrecht",
+    "fachgebiet": "Miet und Wohnungseigentumsrecht",
+    "title": "Die doppelte Treppenhausreinigung",
+    "case_id": "SI-2026-013",
+    "client": "Elsbeth Nguyen",
+    "opponent": "Lindenwinkel Wohnen GmbH, vertreten durch Lindenwinkel Verwaltung GmbH",
+    "issue": "Berliner Betriebskostenabrechnung mit zwei Reinigungsrechnungen für denselben Leistungsmonat",
+    "fee_model": "flat",
+    "rate": null,
+    "cap": null,
+    "flat_fee": 490,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die doppelte Treppenhausreinigung formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 39,
+        "narrative": "Einwendungen gegen die Betriebskostenabrechnung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Einwendungen gegen die Betriebskostenabrechnung",
+    "draft_blanks": [
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "In meiner Berliner Betriebskostenabrechnung für 2025 stehen auffallend hohe Reinigungskosten. Die Verwaltung hat zwei Rechnungen geschickt, beide für Juni und beide über 360 EUR. Vielleicht hat ein Unternehmen nur eine alte Rechnung ersetzt, aber das steht nirgends. Meine Wohnfläche beträgt 60 von insgesamt 600 Quadratmetern. Die Nachzahlung beträgt 420 EUR. Ich möchte zunächst wissen, ob die Position doppelt gebucht wurde und welche Beträge ich tatsächlich tragen muss. Die übrigen Positionen habe ich noch nicht geprüft. Bitte kürzen Sie nicht einfach meine nächste Miete, solange das nicht geklärt ist.",
+    "questions": "Wann ging Ihnen die Abrechnung zu, und wer ist rechtlich Ihr Vermieter? Die Verwaltung ist nicht automatisch selbst Anspruchsgegnerin. Bitte legen Sie Mietvertrag und vollständige Abrechnung vor. Wir verlangen Belegeinsicht beziehungsweise elektronische Belege und konkretisieren die doppelte Juni Position. Eine eigenmächtige Kürzung laufender Miete ist damit nicht beauftragt.",
+    "response": "Die Abrechnung wurde am 20. September versandt. Der Reinigungskostenbetrag enthält Buchungen beider Dienstleister. Im Juni wechselte das Unternehmen. Ob eine Rechnung storniert oder eine zusätzliche Grundreinigung beauftragt wurde, wird noch mit unserer Buchhaltung abgestimmt. Wir stellen die beiden Rechnungen elektronisch bereit. Vertragspartner im Mietvertrag ist die Lindenwinkel Wohnen GmbH; wir handeln als beauftragte Verwaltung. Die Nachforderung bleibt nach unserem System zunächst offen. Wir bitten um Benennung der konkreten Einwendung, damit die Buchhaltung den Posten zuordnen kann.",
+    "evidence": [
+      {
+        "title": "Mietvertrag und Umlageschlüssel",
+        "author": "Lindenwinkel Wohnen GmbH und Elsbeth Nguyen",
+        "date": "01.06.2021",
+        "text": "Elsbeth Nguyen mietet eine 60 Quadratmeter große Wohnung in einem Berliner Haus mit insgesamt 600 Quadratmetern abrechnungsrelevanter Wohnfläche. Der Mietvertrag vereinbart monatliche Betriebskostenvorauszahlungen. Die Kosten der Treppenhausreinigung werden nach Wohnfläche verteilt. Eine Verwaltungspauschale ist als umlagefähige Betriebskostenposition nicht gesondert vereinbart. Vermieterin ist die Lindenwinkel Wohnen GmbH. Die Lindenwinkel Verwaltung GmbH führt die Abrechnung in deren Auftrag. Der vorliegende Vertragsauszug nennt keine pauschale jährliche Obergrenze für Reinigungskosten. Änderungen der Dienstleisterwahl sind darin nicht geregelt. Die Mandantin hat 2025 während des gesamten Abrechnungszeitraums in der Wohnung gelebt."
+      },
+      {
+        "title": "Betriebskostenabrechnung 2025",
+        "author": "Lindenwinkel Verwaltung GmbH",
+        "date": "20.09.2026",
+        "text": "Für das Kalenderjahr 2025 weist die Abrechnung umlagefähige Gesamtkosten von 28.200 EUR aus. Der Anteil der Mandantin beträgt bei dem ausgewiesenen Schlüssel 2.820 EUR. Nach Abzug von 2.400 EUR Vorauszahlungen ergibt sich eine Nachforderung von 420 EUR. In der Position Treppenhausreinigung sind insgesamt 4.680 EUR enthalten. Die Abrechnung wurde nach Angabe der Mandantin am 23. September zugestellt. Die übrigen Kostenpositionen sind bisher nicht sachlich geprüft. Eine Korrektur ist noch nicht ergangen. Die rechnerische Zuordnung der gesamten Abrechnung ersetzt nicht die Prüfung, ob einzelne Rechnungen richtig und nur einmal berücksichtigt wurden."
+      },
+      {
+        "title": "Zwei Reinigungsrechnungen für Juni",
+        "author": "Sauberfink GmbH und Treppenstern GmbH",
+        "date": "30.06.2025",
+        "text": "Die Rechnung SF 250630 nennt Treppenhausreinigung Juni 2025 für 360 EUR brutto. Die Rechnung TS 250601 nennt ebenfalls Treppenhausreinigung Juni 2025 für dasselbe Gebäude und ebenfalls 360 EUR brutto. Auf keiner der beiden vorgelegten Seiten steht Storno, Ersatzrechnung oder Sonderreinigung. Ein Leistungsnachweis oder Auftrag für eine zusätzliche Grundreinigung ist nicht beigefügt. Wäre eine der Rechnungen doppelt berücksichtigt, entfielen bei einem Wohnflächenanteil von zehn Prozent 36 EUR auf die Mandantin. Diese Rechenvariante belegt noch nicht, dass tatsächlich nur eine der Leistungen geschuldet war. Buchungskonto und Vertragswechsel sind nachzufragen."
+      }
+    ],
+    "draft": "An die Lindenwinkel Wohnen GmbH\nvertreten durch die Lindenwinkel Verwaltung GmbH\n\n1 Einwendung gegen die Abrechnung 2025\n\nWir vertreten Elsbeth Nguyen. Gegen die am 23. September 2026 zugegangene Betriebskostenabrechnung erheben wir Einwendungen zur Position Treppenhausreinigung. Die Rechnungen SF 250630 und TS 250601 betreffen jeweils Juni 2025 und jeweils 360 EUR für dasselbe Gebäude. Eine abweichende Leistung ist bisher nicht belegt.\n\n2 Belege und Korrektur\n\nBitte erläutern Sie, ob beide Rechnungen bezahlt und in die Abrechnung eingestellt wurden. Wir verlangen Einsicht in die zugrunde liegenden Belege nach Paragraf 556 Absatz 4 BGB; eine elektronische Bereitstellung ist möglich. Benötigt werden auch der Auftrag einer etwaigen Sonderreinigung und eine vorhandene Stornierung. Die Abrechnung und die beiden Rechnungsseiten werden als Anlagen K1 und K2 vorgelegt.\n\n3 Betrag und weiteres Vorgehen\n\nBei einer Doppelberücksichtigung vermindert sich der Anteil unserer Mandantin rechnerisch um 36 EUR. Eine endgültige Kürzung wird erst nach Aufklärung der Leistung vorgenommen. Bitte antworten Sie bis zum [Datum] und übersenden Sie gegebenenfalls eine korrigierte Abrechnung. Weitere noch zu prüfende Positionen bleiben unberührt. Eine Änderung laufender Mietzahlungen ist mit diesem Schreiben nicht erklärt.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/bgb/__556.html"
+    ],
+    "task": "Kleine Rechendifferenz aus den Belegen herleiten; Verwaltung, Vermieterin und laufende Miete auseinanderhalten."
+  },
+  {
+    "slug": "si-kanzlei-migrationsrecht",
+    "fachgebiet": "Migrationsrecht",
+    "title": "Die neue Stelle und der alte Titel",
+    "case_id": "SI-2026-014",
+    "client": "Leila Farah",
+    "opponent": "Ausländerbehörde Hannover",
+    "issue": "Geplanter Arbeitgeberwechsel einer Fachkraft mit beschäftigungsbezogenem Zusatzblatt und laufender Anfrage",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die neue Stelle und der alte Titel formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 43,
+        "narrative": "Antrag zum Arbeitgeberwechsel auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Antrag zum Arbeitgeberwechsel",
+    "draft_blanks": [
+      "[behördliche Vorgangsnummer]",
+      "[vollständiger Wortlaut]",
+      "[Datum]",
+      "[Nachweise]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich arbeite als Fachkraft in Hannover und habe ein neues Stellenangebot. Auf dem Zusatzblatt meines Aufenthaltstitels steht die bisherige Arbeitgeberin. Die neue Stelle soll am 1. November beginnen. Ich habe der Ausländerbehörde eine Nachricht geschickt, aber nur eine automatische Antwort erhalten. Mein bisheriger Arbeitgeber möchte schon eine Kündigung sehen. Bitte klären Sie, was ich vor dem Wechsel beantragen muss. Ich möchte nichts riskieren und gehe nicht davon aus, dass eine automatische Empfangsbestätigung eine Erlaubnis ist. Den Arbeitsvertrag habe ich noch nicht endgültig unterschrieben.",
+    "questions": "Bitte übermitteln Sie Vorder und Rückseite des Titels, das vollständige Zusatzblatt und Angaben zur bisherigen Beschäftigungsdauer sicher. Welche Aufenthaltserlaubnis ist genau erteilt worden? Wir benötigen Aufgabenbeschreibung, Qualifikation, Arbeitszeit und Gehalt der neuen Stelle. Eine verbindliche Aussage zum Arbeitsbeginn setzt die Prüfung der konkreten Beschränkung und einer möglichen Zustimmung voraus.",
+    "response": "Ihre Nachricht zum geplanten Arbeitgeberwechsel ist eingegangen. Für die Prüfung benötigen wir den aktuellen Aufenthaltstitel einschließlich Zusatzblatt, den neuen Arbeitsvertrag oder ein verbindliches Angebot sowie die Erklärung zum Beschäftigungsverhältnis. Die Eingangsbestätigung ändert bestehende Nebenbestimmungen nicht. Bitte nehmen Sie die neue Beschäftigung nicht allein aufgrund dieser Nachricht auf. Ob eine Beteiligung der Bundesagentur für Arbeit erforderlich ist, wird anhand der vollständigen Unterlagen geprüft. Ein Termin für eine abschließende Entscheidung ist noch nicht vergeben.",
+    "evidence": [
+      {
+        "title": "Aufenthaltsdaten und Zusatzblatt in Abschrift",
+        "author": "Leila Farah | vorgelegte Unterlagen",
+        "date": "06.10.2026",
+        "text": "Die Arbeitskopie nennt eine Aufenthaltserlaubnis nach Paragraf 18b AufenthG, gültig bis zum 31. Mai 2027. Auf dem Zusatzblatt steht: Beschäftigung als technische Projektkoordinatorin bei Präzisionsbogen GmbH gestattet. Eine weitergehende allgemeine Freigabe der Erwerbstätigkeit ist in der vorliegenden Abschrift nicht enthalten. Der Titel wurde nach Angabe der Mandantin im Mai 2025 erteilt. Die vollständige Kartenkopie und die damals vorgelegte Zustimmung liegen der Kanzlei noch nicht vor. Es handelt sich um eine textliche Arbeitsabschrift ohne Lichtbild oder Ausweisnummer. Aus ihr allein wird keine Echtheits oder Identitätsprüfung abgeleitet."
+      },
+      {
+        "title": "Angebot der neuen Arbeitgeberin",
+        "author": "Systemhain GmbH | Personalabteilung",
+        "date": "30.09.2026",
+        "text": "Leila Farah soll ab dem 1. November 2026 als technische Projektkoordinatorin in Hannover beschäftigt werden. Angeboten werden 39 Stunden pro Woche und 4.200 EUR brutto monatlich. Die Aufgaben betreffen die Koordination von Anlagenprojekten, Terminplanung und technische Dokumentation. Der Vertrag soll unbefristet sein. Die Arbeitgeberin kann den Beginn um bis zu vier Wochen verschieben, wenn eine erforderliche Erlaubnis noch nicht vorliegt. Eine Erklärung zum Beschäftigungsverhältnis wurde angekündigt, ist jedoch noch nicht unterschrieben. Das Angebot enthält keine Zusicherung, dass der vorhandene Aufenthaltstitel die neue Tätigkeit bereits erlaubt."
+      },
+      {
+        "title": "Eingangsbestätigung zur Anfrage",
+        "author": "Ausländerbehörde Hannover | Nachrichtenausdruck",
+        "date": "02.10.2026",
+        "text": "Die Behörde bestätigt automatisiert den Eingang einer Anfrage zum Arbeitgeberwechsel. Der Text enthält eine Vorgangsnummer und den Hinweis, Unterlagen nicht mehrfach zu senden. Eine Entscheidung über den Antrag oder die Änderung einer Nebenbestimmung ist nicht enthalten. Die Mandantin hat bisher nur das Stellenangebot und eine kurze Beschreibung des Wechsels übermittelt. Das Zusatzblatt und die Erklärung zum Beschäftigungsverhältnis fehlen nach ihrer eigenen Versandliste. Die bisherige Beschäftigung besteht fort. Eine Kündigung wurde noch nicht erklärt. Der Ausdruck dient der Dokumentation des Eingangs, nicht als Nachweis einer neuen Beschäftigungserlaubnis."
+      }
+    ],
+    "draft": "An die Ausländerbehörde Hannover\nzum Vorgang [behördliche Vorgangsnummer]\n\n1 Antrag zur neuen Beschäftigung\n\nWir vertreten Leila Farah und beantragen die erforderliche Änderung der beschäftigungsbezogenen Beschränkung ihres Aufenthaltstitels für die Tätigkeit bei der Systemhain GmbH. Der Beginn ist zum 1. November 2026 vorgesehen. Die genaue Nebenbestimmung lautet nach dem vorliegenden Zusatzblatt [vollständiger Wortlaut].\n\n2 Angaben zur Stelle\n\nDie neue Tätigkeit als technische Projektkoordinatorin umfasst 39 Wochenstunden bei 4.200 EUR monatlichem Bruttoentgelt. Das Stellenangebot und die Abschrift des Zusatzblatts werden als Anlagen K1 und K2 eingereicht. Die vollständig unterschriebene Erklärung zum Beschäftigungsverhältnis wird bis zum [Datum] nachgereicht. Qualifikation und bisherige Beschäftigung werden durch [Nachweise] belegt.\n\n3 Entscheidung und Beginn\n\nWegen der bestehenden Beschränkung bitten wir um eine ausdrückliche Entscheidung unter Berücksichtigung von Paragraf 4a AufenthG und der maßgeblichen Erlaubnisvoraussetzungen. Unsere Mandantin behandelt die bisherige Eingangsbestätigung nicht als Erlaubnis zur Aufnahme der neuen Tätigkeit. Sollte eine Beteiligung weiterer Stellen oder ein zusätzlicher Nachweis erforderlich sein, bitten wir um konkrete Mitteilung.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/aufenthg_2004/__4a.html"
+    ],
+    "task": "Titel und Nebenbestimmung zuerst prüfen; sicheren Dokumentenzugang und vorläufigen Arbeitsbeginn trennen."
+  },
+  {
+    "slug": "si-kanzlei-sozialrecht",
+    "fachgebiet": "Sozialrecht",
+    "title": "Die Musikstunden mit Stundenplan",
+    "case_id": "SI-2026-015",
+    "client": "Tamila Vogt",
+    "opponent": "Deutsche Rentenversicherung Bund",
+    "issue": "Musiklehrerin in Halle mit Honorarvertrag aber festgelegten Räumen und Ersatzvertretungsvorbehalt",
+    "fee_model": "capped",
+    "rate": 220,
+    "cap": 990,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die Musikstunden mit Stundenplan formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Stellungnahme im Statusfeststellungsverfahren auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Stellungnahme im Statusfeststellungsverfahren",
+    "draft_blanks": [
+      "[Aktenzeichen]",
+      "[konkret belegte Umstände oder ausdrückliche Verneinung]",
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich unterrichte Klavier an einer privaten Musikschule in Halle. Mein Vertrag heißt Honorarvertrag, aber die Schule legt Räume und Stundenplan fest. Eigene Schüler bringe ich nicht mit. Ich darf mich nur vertreten lassen, wenn die Schulleitung zustimmt. Im Statusverfahren soll ich erklären, warum ich selbstständig bin. Ich will aber nicht irgendetwas behaupten, das nicht stimmt. Die Schule sagt, alle Musiklehrer machten das so. Bitte bereiten Sie eine sachliche Stellungnahme vor. Ob es eine Übergangsregel für Lehrkräfte gibt und was sie genau bewirkt, verstehe ich nicht.",
+    "questions": "Bitte schildern Sie den tatsächlichen Ablauf unabhängig von der Vertragsüberschrift: Wer bestimmt Preise, Schüler, Unterrichtszeiten, Vertretung und Ausfallvergütung? Welche Tätigkeitszeiträume betrifft die Anhörung genau? Wir unterscheiden die Statusfrage von Versicherungspflicht, Beiträgen und etwaigen Übergangsregelungen für Lehrkräfte. Eine Zustimmung zu einer Übergangsregel wird nicht ungefragt erklärt.",
+    "response": "Für die Beurteilung des Erwerbsstatus benötigen wir ergänzende Angaben zur praktischen Durchführung. Bitte erläutern Sie, ob Sie Unterrichtszeiten selbst festlegen, Aufträge ablehnen und eigene Vertretungen einsetzen können. Die Bezeichnung Honorarvertrag allein ist nicht entscheidend. Die Anhörung betrifft den seit 1. September 2025 durchgeführten Unterricht. Eine abschließende Statusentscheidung liegt noch nicht vor. Angaben der Musikschule sind beigefügt; diese beschreibt die Raumvergabe als bloßen Service. Ihre Stellungnahme soll bis zum 20. Oktober vorliegen. Über beitragsrechtliche Folgen ist damit noch nicht abschließend entschieden.",
+    "evidence": [
+      {
+        "title": "Honorarvertrag für Klavierunterricht",
+        "author": "Musikfenster Halle GmbH und Tamila Vogt",
+        "date": "01.09.2025",
+        "text": "Tamila Vogt übernimmt wöchentlich zwölf Unterrichtseinheiten zu jeweils 45 Minuten. Das Honorar beträgt 34 EUR je gehaltene Einheit. Die Schule stellt Räume und Instrumente. Schülerverträge und Entgelte werden von der Schule festgelegt. Vertretungen bedürfen nach dem Vertrag der vorherigen Zustimmung der Schulleitung. Der Vertrag bezeichnet die Tätigkeit als selbstständig und schließt bezahlten Urlaub aus. Bei kurzfristigem Ausfall eines Schülers wird das Honorar nach der bisherigen Praxis teilweise weitergezahlt; eine genaue Regelung fehlt im Vertragsauszug. Die Lehrerin darf außerhalb der Schule eigenen Unterricht anbieten. Welche Gestaltungsmöglichkeiten sie tatsächlich nutzt, ist gesondert zu ermitteln."
+      },
+      {
+        "title": "Stundenplan und Arbeitsablauf",
+        "author": "Musikfenster Halle GmbH | Unterrichtsplan",
+        "date": "28.09.2026",
+        "text": "Der Plan weist Dienstag und Donnerstag feste Räume und Unterrichtszeiten zwischen 14 und 18 Uhr aus. Änderungen sollen über die Schulverwaltung erfolgen. Tamila führt eine Anwesenheitsliste im System der Schule und meldet Ausfälle am selben Tag. Ein eigener Marktauftritt innerhalb der Schule ist nicht vorgesehen. Die Schule erklärt, Wünsche der Lehrkräfte würden bei der jährlichen Planung berücksichtigt. Tamila berichtet dagegen, während des laufenden Halbjahres kaum verschieben zu können. Beide Angaben können nebeneinander zutreffen und müssen zeitlich konkretisiert werden. Der Plan belegt die tatsächliche Einbindung, aber noch nicht allein die rechtliche Gesamtbewertung."
+      },
+      {
+        "title": "Anhörung im Statusfeststellungsverfahren",
+        "author": "Deutsche Rentenversicherung Bund | Arbeitskopie",
+        "date": "30.09.2026",
+        "text": "Gegenstand ist der Erwerbsstatus der seit dem 1. September 2025 ausgeübten Unterrichtstätigkeit. Die Beteiligten sollen Angaben zu Weisungen, Eingliederung, eigener Organisation und wirtschaftlichen Risiken ergänzen. Als Frist für die Stellungnahme ist der 20. Oktober 2026 genannt. Die Unterlage ist eine Anhörung und kein abschließender Bescheid. Eine Zustimmung der Lehrerin zu einer besonderen Übergangsregelung für Lehrtätigkeiten ist nicht beigefügt. Ob und mit welchen Folgen eine solche Regelung eingreift, bleibt gesondert zu prüfen. Die Schule bezeichnet die feste Raumzuweisung als organisatorische Unterstützung; die Lehrerin soll dazu aus eigener Wahrnehmung Stellung nehmen."
+      }
+    ],
+    "draft": "An die Deutsche Rentenversicherung Bund\nzum Verfahren [Aktenzeichen]\n\n1 Gegenstand der Stellungnahme\n\nWir vertreten Tamila Vogt und nehmen zur Anhörung vom 30. September 2026 Stellung. Gegenstand ist ihre Klavierunterrichtstätigkeit seit dem 1. September 2025. Die Beurteilung nach Paragraf 7a SGB IV ist anhand der tatsächlichen Durchführung vorzunehmen; die Bezeichnung Honorarvertrag wird nicht als alleiniger Nachweis einer Selbstständigkeit behandelt.\n\n2 Tatsächliche Durchführung\n\nDie Schule bestimmt Schülerverträge, Preise und die während des Halbjahres geltenden Räume und Zeiten. Unsere Mandantin führt Anwesenheitslisten im System der Schule. Eine Vertretung setzt die Zustimmung der Schulleitung voraus. Eigene unternehmerische Gestaltung zeigt sich bislang in [konkret belegte Umstände oder ausdrückliche Verneinung]. Vertrag und Stundenplan werden als Anlagen K1 und K2 beigefügt.\n\n3 Ergänzende Angaben\n\nZur Ausfallvergütung und tatsächlichen Möglichkeit, Termine abzulehnen, reichen wir bis zum [Datum] ergänzende Beispiele nach. Die Anwendung einer besonderen Übergangsregelung für Lehrtätigkeiten einschließlich Voraussetzungen und zeitlichen Folgen wird gesondert geprüft. Eine dafür erforderliche Zustimmung wird mit diesem Schreiben nicht erklärt. Wir bitten um Berücksichtigung der ergänzten Tatsachen vor einer abschließenden Entscheidung.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/sgb_4/__7a.html",
+      "https://www.gesetze-im-internet.de/sgb_4/__127.html"
+    ],
+    "task": "Tatsächlichen Unterrichtsablauf statt Etikett prüfen; Übergangsrecht und Status ausdrücklich getrennt halten."
+  },
+  {
+    "slug": "si-kanzlei-sportrecht",
+    "fachgebiet": "Sportrecht",
+    "title": "Vier Spiele auf der Tribüne",
+    "case_id": "SI-2026-016",
+    "client": "Ferdinand Klee",
+    "opponent": "Nordstadt Fußballverband eV",
+    "issue": "Verbandsrechtliche Sperre eines Amateurspielers in Bremen bei unvollständiger Anhörung",
+    "fee_model": "flat",
+    "rate": null,
+    "cap": null,
+    "flat_fee": 650,
+    "estimate": null,
+    "agreed": false,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Vier Spiele auf der Tribüne formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 31,
+        "narrative": "Verbandsinterner Einspruch auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Verbandsinterner Einspruch",
+    "draft_blanks": [
+      "[nach Mandantenentscheidung konkret ergänzt]",
+      "[genauer erinnerter Wortlaut]",
+      "[Datum und autorisierte Einreichung]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich spiele als Amateur bei einem Bremer Verein. Nach dem Spiel am 27. September wurde ich für vier Spiele gesperrt. Im Bericht steht, ich hätte den Schiedsrichter beleidigt. Ich habe laut gerufen, aber aus meiner Sicht etwas anderes gesagt. Vor der Entscheidung konnte ich nichts erklären. Ein Mitspieler hat den Vorfall gehört. Bitte bereiten Sie den verbandsinternen Einspruch vor. Ich will weder den Schiedsrichter öffentlich angreifen noch eine sofortige Klage beim staatlichen Gericht. Unser Verein hat mir nur zwei Seiten der Rechtsordnung geschickt.",
+    "questions": "Wann wurde die Entscheidung nachweisbar zugestellt, und wer ist nach der vollständigen Verbandsordnung einspruchsberechtigt? Bitte sichern Sie Bericht, Zustellnachweis und eine eigene Wahrnehmungserklärung des Mitspielers. Wir prüfen Frist, Form, Kosten und mögliche aufschiebende Wirkung anhand der konkreten Verbandsordnung. Ein Rechtsbehelf bedeutet nicht automatisch, dass Sie wieder spielen dürfen.",
+    "response": "Die Entscheidung wurde am 2. Oktober per Verbandsportal an den Verein und an den Spieler übermittelt. Nach unserer Rechtsordnung beträgt die Einspruchsfrist sieben Tage ab Bekanntgabe. Der Einspruch ist über das Portal einzureichen und muss den angefochtenen Beschluss bezeichnen. Nach der vorliegenden Entscheidung besteht die Sperre zunächst fort. Der Schiedsrichterbericht ist Grundlage der Sanktion. Ob eine ergänzende Anhörung durchgeführt wird, entscheidet der zuständige Ausschuss nach Eingang des Rechtsbehelfs. Die Geschäftsstelle kann über die Begründetheit nicht vorab entscheiden.",
+    "evidence": [
+      {
+        "title": "Spielbericht mit streitiger Äußerung",
+        "author": "Nordstadt Fußballverband eV | Schiedsrichterbericht",
+        "date": "27.09.2026",
+        "text": "Im Spiel des Vereins Hafenwiese gegen Rotdorn wurde Ferdinand Klee in der 73. Minute des Feldes verwiesen. Der Bericht gibt eine beleidigende Äußerung wieder, die der Spieler bestreitet. Der Bericht nennt den Abstand zum Schiedsrichter mit etwa fünf Metern. Zwei weitere Spieler standen in unmittelbarer Nähe. Eine Tonaufnahme ist nicht vermerkt. Nach dem Feldverweis verließ Klee das Spielfeld. Weitere Handlungen oder körperliche Übergriffe werden nicht beschrieben. Der Bericht wurde noch am Spielabend eingestellt. Er enthält keine Stellungnahme des betroffenen Spielers und keine gesonderte Befragung der neben ihm stehenden Mitspieler."
+      },
+      {
+        "title": "Entscheidung über vier Spielsperren",
+        "author": "Nordstadt Fußballverband eV | Sportausschuss",
+        "date": "01.10.2026",
+        "text": "Der Sportausschuss verhängt wegen der im Spielbericht beschriebenen Äußerung eine Sperre für vier Pflichtspiele. Zur Begründung wird auf den Schiedsrichterbericht verwiesen. Eine vorherige Stellungnahme des Spielers wird nicht erwähnt. Die Entscheidung wurde nach dem Portalprotokoll am 2. Oktober um 09.18 Uhr bereitgestellt und abgerufen. Der Text nennt einen Einspruch binnen sieben Tagen über das Verbandsportal. Eine automatische Aussetzung der Sperre ist darin nicht angeordnet. Die Unterlage bezieht sich auf die Rechtsordnung des Nordstadt Fußballverbands. Andere Verbandsordnungen werden darin nicht angewendet."
+      },
+      {
+        "title": "Rechtsordnung und Zeugennotiz",
+        "author": "Nordstadt Fußballverband eV und Emil Hartmann",
+        "date": "03.10.2026",
+        "text": "Nach dem vorgelegten Auszug kann der betroffene Spieler gegen eine erstinstanzliche Sanktion binnen sieben Tagen nach Bekanntgabe Einspruch im Verbandsportal einlegen. Der Einspruch muss Entscheidung, Antrag und Begründung enthalten. Über eine beantragte Aussetzung wird gesondert entschieden. Die vollständige Fassung einschließlich Gebührenregelung fehlt. Emil Hartmann notiert, er habe unmittelbar neben Klee gestanden und einen anderen Satz gehört als im Bericht. Seinen genauen Wortlaut will er in einer unterschriebenen Erklärung wiedergeben. Die bisherige Notiz wurde vom Spieler zusammengefasst und ist noch keine eigenständige Zeugenerklärung. Der Zugang und die Vertretungsbefugnis des Vereinsbetreuers sind ebenfalls zu klären."
+      }
+    ],
+    "draft": "An den Sportausschuss des Nordstadt Fußballverbands eV\nüber das Verbandsportal\n\n1 Einspruch und Antrag\n\nFerdinand Klee legt gegen die am 2. Oktober 2026 bekannt gegebene Entscheidung vom 1. Oktober Einspruch ein. Er beantragt, die Entscheidung aufzuheben und nach Gewährung einer Anhörung erneut zu entscheiden. Hilfsweise wird die Herabsetzung der Sanktion beantragt. Ein Antrag auf vorläufige Aussetzung wird [nach Mandantenentscheidung konkret ergänzt].\n\n2 Tatsächliche Einwendungen\n\nDer im Bericht wiedergegebene Wortlaut wird bestritten. Der Spieler erklärt, tatsächlich [genauer erinnerter Wortlaut] gerufen zu haben. Emil Hartmann stand nach seiner Wahrnehmung daneben und soll als Auskunftsperson gehört werden. Seine eigenständige Erklärung wird nachgereicht. Der Spielbericht und die angefochtene Entscheidung sind als Anlagen K1 und K2 beigefügt.\n\n3 Verfahren\n\nVor der Entscheidung erhielt der Spieler nach seiner Darstellung keine Gelegenheit zur Stellungnahme. Er bittet um Übermittlung der vollständigen Verfahrensunterlagen und um Berücksichtigung seiner Einwendungen nach der maßgeblichen Verbandsordnung. Der Einspruch wird nicht als automatische Spielberechtigung behandelt. Die vollständige Gebühren und Zuständigkeitsregelung bleibt anhand der Gesamtfassung zu prüfen.\n\n[Datum und autorisierte Einreichung]",
+    "legal_sources": [],
+    "task": "Private Verbandsordnung konkret lesen, Einspruch vorbereiten und Fortbestand der Sperre nicht übergehen."
+  },
+  {
+    "slug": "si-kanzlei-steuerrecht",
+    "fachgebiet": "Steuerrecht",
+    "title": "Das Lastenrad im Steuerbescheid",
+    "case_id": "SI-2026-017",
+    "client": "Klara Hagen",
+    "opponent": "Finanzamt Münster Innenstadt",
+    "issue": "Nicht berücksichtigte Betriebsausgabe für ein betriebliches Lastenrad und abweichender Anschaffungszeitpunkt",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das Lastenrad im Steuerbescheid formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 35,
+        "narrative": "Einspruch gegen den Einkommensteuerbescheid auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Einspruch gegen den Einkommensteuerbescheid",
+    "draft_blanks": [
+      "[Nummer]",
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich betreibe in Münster einen mobilen Buchservice und habe 2025 ein Lastenrad gekauft. Im Einkommensteuerbescheid fehlt der geltend gemachte betriebliche Aufwand. Das Finanzamt schreibt, ein Nachweis des Erwerbs sei nicht vorhanden. Meine Buchhalterin hatte offenbar nur das Angebot hochgeladen, nicht die Rechnung. Die Rechnung ist vom Dezember, die Übergabe war aber erst im Januar 2026. Ich weiß nicht, welcher Zeitpunkt entscheidend ist. Bitte legen Sie erst einmal rechtzeitig Einspruch ein und begründen Sie genau, was tatsächlich belegt ist. Ich möchte keine Rechnung auf ein früheres Datum umschreiben lassen.",
+    "questions": "Bitte übermitteln Sie Bescheid einschließlich Rechtsbehelfsbelehrung, tatsächlichen Zugang, Rechnung, Zahlungsnachweis und Übergabeunterlagen. Wir müssen Anschaffung, betriebliche Nutzung und zeitliche Zuordnung getrennt prüfen. Der Einspruch bewirkt nicht automatisch eine Aussetzung der Zahlung. Ein Antrag auf Aussetzung der Vollziehung bedarf einer gesonderten Prüfung und Beauftragung.",
+    "response": "Der Steuererklärung war lediglich ein unverbindliches Angebot beigefügt. Eine Rechnung und ein Übergabenachweis lagen bei der Bearbeitung nicht vor. Bitte reichen Sie die vollständigen Unterlagen ein und erläutern Sie, wann das Fahrzeug geliefert und erstmals betrieblich genutzt wurde. Der Einkommensteuerbescheid wurde am 28. September erstellt. Eine Änderung ist nach Eingang und Prüfung der Unterlagen möglich, wird aber nicht vorab zugesagt. Fälligkeit und Rechtsbehelfsbelehrung ergeben sich aus dem Bescheid. Eine Zahlungsaussetzung ist bislang nicht beantragt oder bewilligt.",
+    "evidence": [
+      {
+        "title": "Einkommensteuerbescheid und Erläuterung",
+        "author": "Finanzamt Münster Innenstadt | Arbeitskopie",
+        "date": "28.09.2026",
+        "text": "Der Bescheid betrifft die Einkommensteuer 2025. Die geltend gemachte Position Lastenrad wurde mangels nachgewiesener Anschaffung nicht berücksichtigt. Die daraus folgende Mehrsteuer ist im Berechnungsbogen mit 640 EUR ausgewiesen. Die Mandantin notierte den tatsächlichen Briefkastenzugang am 1. Oktober 2026. Der Bescheid enthält eine Rechtsbehelfsbelehrung mit Hinweis auf den Einspruch. Die genaue Übermittlungsart ist anhand des Originals zu prüfen. Eine Aussetzung der Vollziehung wird in der Arbeitskopie nicht angeordnet. Andere Besteuerungsgrundlagen sind bisher nicht Gegenstand des Mandats. Die Kanzlei soll die Frist eigenständig anhand der vollständigen Bekanntgabedaten berechnen."
+      },
+      {
+        "title": "Rechnung und Zahlungsbeleg des Lastenrads",
+        "author": "Radfracht Münster GmbH",
+        "date": "18.12.2025",
+        "text": "Die Rechnung über ein elektrisches Lastenrad beträgt 4.600 EUR netto zuzüglich 874 EUR Umsatzsteuer, insgesamt 5.474 EUR. Als voraussichtliche Übergabe wird der 8. Januar 2026 genannt. Klara Hagen zahlte den Gesamtbetrag am 22. Dezember 2025. Der Zahlungsbeleg bezeichnet die Zahlung als vollständige Vorauszahlung. Die Rechnung belegt daher Zahlung und vereinbarten Gegenstand, aber noch nicht den tatsächlichen Übergang von Besitz, Nutzen und Lasten. Eine rückdatierte Übergabequittung liegt nicht vor. Die Vorsteuerbehandlung und die konkrete Gewinnermittlungsart sind nicht Bestandteil dieser verkürzten Rechnungskopie und müssen gesondert geklärt werden."
+      },
+      {
+        "title": "Übergabe und betriebliche Nutzung",
+        "author": "Klara Hagen | Fahrtennotiz",
+        "date": "08.01.2026",
+        "text": "Das Lastenrad wurde am 8. Januar 2026 im Laden abgeholt. Die Händlerquittung bestätigt die Übergabe einschließlich Schlüssel, Ladegerät und Einweisung. Die erste dokumentierte betriebliche Fahrt fand am 9. Januar zu einer Kundin statt. Im Dezember stand das Fahrzeug noch beim Händler. Die Mandantin hatte zuvor nur ein Vorführmodell getestet. In ihrer Buchhaltungsnotiz wurde die Zahlung versehentlich bereits als vollständige Anschaffung im Dezember beschrieben. Eine laufende Nutzungsaufzeichnung liegt ab Januar vor. Die Einordnung als Wirtschaftsgut und die zutreffende zeitliche Berücksichtigung sollen anhand der vollständigen Steuerunterlagen geprüft werden."
+      }
+    ],
+    "draft": "An das Finanzamt Münster Innenstadt\nSteuernummer [Nummer]\n\n1 Einspruch\n\nNamens Klara Hagen legen wir gegen den Einkommensteuerbescheid 2025 vom 28. September 2026 Einspruch ein. Der tatsächliche Zugang wird mit dem 1. Oktober angegeben; die Bekanntgabedaten sind anhand des Originals ergänzt. Gegenstand ist zunächst die Behandlung des betrieblich eingesetzten Lastenrads.\n\n2 Unterlagen und Begründung\n\nBei der Erklärung wurde versehentlich nur ein Angebot übersandt. Rechnung und Vorauszahlung vom Dezember 2025 sowie die Übergabequittung vom 8. Januar 2026 werden als Anlagen K1 und K2 nachgereicht. Die Übergabe erfolgte nach den Unterlagen erst im Januar. Wir beantragen eine Prüfung der zutreffenden steuerlichen Zuordnung und werden den konkreten Änderungsantrag nach Abgleich der Gewinnermittlung bis zum [Datum] beziffern. Eine Anschaffung im Dezember wird nicht allein aus der Vorauszahlung abgeleitet.\n\n3 Weiteres Verfahren\n\nDer Rechtsbehelf wird nach Paragraf 347 AO erhoben. Bitte bestätigen Sie den Eingang und berücksichtigen Sie die ergänzende Begründung vor einer abschließenden Entscheidung. Ein Antrag auf Aussetzung der Vollziehung ist mit diesem Schreiben nicht verbunden. Über ihn wird nach gesonderter Prüfung entschieden.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/ao_1977/__347.html",
+      "https://www.gesetze-im-internet.de/ao_1977/__355.html"
+    ],
+    "task": "Fristwahrenden Einspruch und ehrliche zeitliche Einordnung verbinden; Zahlung nicht mit Anschaffung gleichsetzen."
+  },
+  {
+    "slug": "si-kanzlei-strafrecht",
+    "fachgebiet": "Strafrecht",
+    "title": "Ein Paket zu viel",
+    "case_id": "SI-2026-018",
+    "client": "Linus Pankratz",
+    "opponent": "Staatsanwaltschaft Nürnberg Fürth",
+    "issue": "Vorwurf einer Unterschlagung nach Annahme eines Pakets für einen früheren Nachbarn",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Ein Paket zu viel formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 39,
+        "narrative": "Verteidigungsanzeige und Akteneinsichtsgesuch auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Verteidigungsanzeige und Akteneinsichtsgesuch",
+    "draft_blanks": [
+      "[Anschrift und Geburtsdatum]",
+      "[beigefügt oder auf geeignete Weise nachgewiesen]",
+      "[Datum und anwaltliche Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich habe in Nürnberg ein Paket für meinen früheren Nachbarn angenommen. Es stand einige Tage im Hausflur, dann nahm ich es in meine Wohnung. Der Nachbar war schon umgezogen. Jetzt habe ich eine polizeiliche Vorladung wegen Unterschlagung. Das Paket ist noch ungeöffnet bei mir. Ich habe ihm zweimal geschrieben, aber nur eine Nachricht finde ich wieder. Bitte zeigen Sie meine Verteidigung an und beantragen Sie Akteneinsicht. Ich möchte nicht spontan bei der Polizei erzählen und dabei etwas durcheinanderbringen. Wie wir das Paket rechtssicher zurückgeben, möchte ich danach besprechen.",
+    "questions": "Bitte senden Sie die vollständige Vorladung, insbesondere Auftraggeber und Art des Termins. Wer hat die Annahme unterschrieben, und wo befindet sich das Paket unverändert? Sichern Sie Nachrichten ohne Löschung oder nachträgliche Bearbeitung. Vor Akteneinsicht geben wir keine ungeprüfte Sachverhaltseinlassung ab. Eine Rückgabe wird dokumentiert vorbereitet; sie ist kein Anlass, Beweismittel zu verändern.",
+    "response": "Es handelt sich um eine polizeiliche Einladung zur Beschuldigtenvernehmung am 15. Oktober. Eine staatsanwaltschaftliche oder gerichtliche Ladung ist in diesem Schreiben nicht enthalten. Der Vorwurf betrifft ein für den früheren Nachbarn angenommenes Paket. Die Sachbearbeitung kann über den vollständigen Akteninhalt telefonisch keine Auskunft geben. Eine anwaltliche Verteidigungsanzeige kann unter Angabe des Vorgangszeichens übersandt werden. Das Akteneinsichtsgesuch wird an die zuständige Stelle weitergeleitet. Eine schriftliche Einlassung des Beschuldigten liegt bislang nicht vor.",
+    "evidence": [
+      {
+        "title": "Polizeiliche Einladung als Beschuldigter",
+        "author": "Polizei Nürnberg | Arbeitskopie",
+        "date": "01.10.2026",
+        "text": "Linus Pankratz wird für den 15. Oktober um 10 Uhr zu einer Beschuldigtenvernehmung eingeladen. Als Vorwurf ist Unterschlagung eines Pakets genannt. Das Vorgangszeichen lautet in der Arbeitskopie NP 26 410. Die Einladung enthält keine Kennzeichnung als Ladung im Auftrag der Staatsanwaltschaft und keine richterliche Anordnung. Der Beschuldigte soll sich bei Verhinderung melden. Die Belehrungsseite liegt vollständig bei und weist auf das Schweigerecht sowie anwaltlichen Beistand hin. Der genaue Inhalt einer Anzeige oder Zeugenaussage ist aus der Einladung nicht ersichtlich. Die Kanzlei soll vor einer Reaktion das Original und die zuständige Aktenführung prüfen."
+      },
+      {
+        "title": "Annahmebeleg und Paketdaten",
+        "author": "Linus Pankratz | eigene Unterlagen",
+        "date": "18.09.2026",
+        "text": "Der Zustellbeleg nennt die Annahme einer Sendung für den früheren Nachbarn Moritz Lang. Linus Pankratz hat den Empfang mit seinem eigenen Namen bestätigt. Auf dem Paket steht die frühere Wohnadresse des Empfängers. Das Paket ist nach Angabe des Mandanten ungeöffnet. Er bewahrt es seit dem 23. September in seiner Wohnung auf, nachdem es zuvor im gemeinschaftlichen Flur stand. Der Wert des Inhalts ist ihm nicht bekannt. Ein Foto der Außenseite soll noch angefertigt und gesichert werden, ohne das Paket zu öffnen. Der Beleg enthält keine Vollmacht, die Sendung für eigene Zwecke zu verwenden oder zu entsorgen."
+      },
+      {
+        "title": "Nachrichten zur möglichen Abholung",
+        "author": "Linus Pankratz | exportierter Nachrichtentext",
+        "date": "20.09.2026",
+        "text": "Die gespeicherte Nachricht an Moritz Lang lautet sinngemäß, dass ein Paket im Haus angekommen sei und abgeholt werden könne. Ein Zustellhäkchen ist im Export sichtbar, eine gelesene Bestätigung nicht. Eine Antwort ist in dem vorliegenden Ausschnitt nicht enthalten. Der Mandant erinnert sich an eine zweite Nachricht, findet sie aber bislang nicht. Der Export soll deshalb nicht als vollständiger Verlauf bezeichnet werden. Die neue Adresse des Empfängers ist dem Mandanten unbekannt. Er möchte eine Rückgabe nur mit klarer Empfängerzuordnung und Empfangsbestätigung veranlassen. Eine Kontaktaufnahme durch die Kanzlei ist bisher nicht erfolgt."
+      }
+    ],
+    "draft": "An die Staatsanwaltschaft Nürnberg Fürth\nzum Vorgang NP 26 410\n\n1 Verteidigungsanzeige\n\nWir zeigen an, dass Linus Pankratz, [Anschrift und Geburtsdatum], uns mit seiner Verteidigung beauftragt hat. Eine Vollmacht wird [beigefügt oder auf geeignete Weise nachgewiesen]. Bitte richten Sie die weitere Korrespondenz an unsere Kanzlei.\n\n2 Akteneinsicht\n\nWir beantragen Akteneinsicht nach Paragraf 147 StPO einschließlich der vorhandenen Anzeige, Zustellunterlagen und dokumentierten Zeugenaussagen. Soweit die Akte elektronisch geführt wird, bitten wir um Bereitstellung über den vorgesehenen sicheren Zugang. Andernfalls bitten wir um Mitteilung des zulässigen Einsichtswegs.\n\n3 Einlassung und Termin\n\nVor vollständiger Akteneinsicht wird keine Einlassung zur Sache abgegeben. Die polizeiliche Einladung vom 1. Oktober wird als Anlage K1 bezeichnet. Über die Wahrnehmung des dort genannten Termins wird nach Prüfung des Originals und der konkreten Ladungsart gegenüber der zuständigen Stelle gesondert mitgeteilt. Dieses Schreiben enthält weder ein Schuldeingeständnis noch eine Tatsachendarstellung zum Paketinhalt.\n\n4 Weitere Unterlagen\n\nDer Mandant wird vorhandene Originalunterlagen unverändert aufbewahren. Eine spätere dokumentierte Herausgabe der Sendung wird getrennt abgestimmt.\n\n[Datum und anwaltliche Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/stpo/__147.html"
+    ],
+    "task": "Verteidigungsanzeige ohne ungefragte Einlassung; Akteneinsicht und sichere Anlagenzuordnung vorbereiten."
+  },
+  {
+    "slug": "si-kanzlei-transport-speditionsrecht",
+    "fachgebiet": "Transport und Speditionsrecht",
+    "title": "Die Keramik mit nassen Ecken",
+    "case_id": "SI-2026-019",
+    "client": "Tonwerk Treibgut GmbH, vertreten durch Jette Beck",
+    "opponent": "Wegweiser Fracht GmbH",
+    "issue": "Beschädigte Keramikpalette auf einem innerdeutschen Transport von Kassel nach Hamburg",
+    "fee_model": "capped",
+    "rate": 245,
+    "cap": 1000,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Die Keramik mit nassen Ecken formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 43,
+        "narrative": "Schadensanzeige an den Frachtführer auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Schadensanzeige an den Frachtführer",
+    "draft_blanks": [
+      "[Abstimmungstermin]",
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Unsere Keramikpalette ging von Kassel nach Hamburg. Bei Anlieferung war die Folie an einer Ecke nass und eingerissen. Der Empfänger unterschrieb erst und entdeckte beim Auspacken 18 zerbrochene Schalen. Er schrieb dem Fahrer noch am selben Tag eine Nachricht. Der Frachtführer meint, wir hätten schlecht verpackt. Bitte melden Sie den Schaden vollständig an. Der Warenwert beträgt 2.160 EUR netto; das Gewicht der betroffenen Palette kenne ich aus dem Lieferschein. Wir wollen nicht einfach voraussetzen, dass der ganze Rechnungswert ohne Haftungsgrenze erstattet wird.",
+    "questions": "Wann genau wurden äußere und innere Schäden entdeckt, wem wurden sie angezeigt und in welcher Form? Bitte sichern Sie Verpackung, Fotos und das Gewicht der betroffenen Güter. Waren Transportbedingungen oder Haftungsregelungen einbezogen? Wir trennen Schadensnachweis, Verpackungseinwand, Anzeige und mögliche Haftungsbegrenzung. Eine einfache Empfangsunterschrift klärt diese Fragen nicht abschließend.",
+    "response": "Der Fahrer hat die Palette am 1. Oktober um 11.35 Uhr abgeliefert. Der Empfangsbeleg enthält keinen Vorbehalt. Erst am Nachmittag erhielten wir eine Nachricht über Bruchschäden. Nach unseren Bildern lagen zwischen den Schalen nur dünne Papierlagen. Wir sehen deshalb einen möglichen Verpackungsmangel. Bitte übersenden Sie die ursprünglichen Packanweisungen und das Gewicht der beschädigten Ware. Den Schaden haben wir unter WF 26101 aufgenommen. Eine Haftungsanerkennung ist damit nicht verbunden. Die Palette darf bis zur weiteren Abstimmung nicht entsorgt werden.",
+    "evidence": [
+      {
+        "title": "Transportauftrag und Lieferschein",
+        "author": "Tonwerk Treibgut GmbH und Wegweiser Fracht GmbH",
+        "date": "29.09.2026",
+        "text": "Der Auftrag betrifft eine Palette Keramik von Kassel nach Hamburg mit Ablieferung am 1. Oktober. Der Frachtpreis beträgt 210 EUR netto. Im Lieferschein sind 60 Schalen mit einem Gesamtgewicht einschließlich Verpackung von 96 Kilogramm vermerkt. Eine gesonderte Wertdeklaration ist im Auftrag nicht angekreuzt. Ob zusätzliche Geschäftsbedingungen wirksam einbezogen wurden, lässt sich aus der vorliegenden Vorderseite nicht feststellen. Die beschädigten 18 Schalen hatten laut Warenliste einen Verkaufswert von 2.160 EUR netto. Das genaue Rohgewicht allein dieser Stücke ist noch zu ermitteln. Der Frachtführer hat die Palette ohne äußerlichen Vorbehalt am Abgangsort übernommen."
+      },
+      {
+        "title": "Ablieferbeleg und Schadensanzeige",
+        "author": "Empfängerin Ladenleise GmbH",
+        "date": "01.10.2026",
+        "text": "Die Palette wurde um 11.35 Uhr übernommen. Der Empfangsbeleg trägt eine Unterschrift ohne Schadensvorbehalt. Die Mitarbeiterin berichtet, eine nasse und eingerissene Ecke erst beim Entfernen der Folie bemerkt zu haben. Um 14.12 Uhr sandte sie dem Fahrer eine Nachricht mit zwei Fotos und dem Hinweis auf 18 zerbrochene Schalen. Eine Weiterleitung an die Disposition ist für 15.03 Uhr dokumentiert. Die Originalbilder sind noch beim Empfänger anzufordern. Der Beleg unterscheidet nicht sicher, was schon vor dem Auspacken äußerlich erkennbar war und was erst danach festgestellt wurde. Diese zeitliche Abgrenzung bleibt zu klären."
+      },
+      {
+        "title": "Packanweisung und Warenbewertung",
+        "author": "Tonwerk Treibgut GmbH | Versand",
+        "date": "30.09.2026",
+        "text": "Nach der Packanweisung werden Schalen einzeln in Papier gewickelt und in stabilen Zwischenlagen auf der Palette fixiert. Die Versandmitarbeiterin Jette Beck bestätigt, diese Anweisung verwendet zu haben. Ein Foto vor dem Verschließen der Palette fehlt. Der Frachtführer beanstandet dagegen auf seinen Bildern dünne Papierlagen. Ob zusätzliche Zwischenlagen vorhanden waren, ist aus dem Ausschnitt nicht erkennbar. Die 18 beschädigten Schalen kosten je 120 EUR netto und sind nach Angabe des Empfängers unverkäuflich. Ein Restwert wurde noch nicht geprüft. Für die Haftungsberechnung werden Gewicht, Schadensumfang und vertragliche Bedingungen getrennt festzuhalten sein."
+      }
+    ],
+    "draft": "An die Wegweiser Fracht GmbH\nSchaden WF 26101\n\n1 Schadensanzeige\n\nWir vertreten die Tonwerk Treibgut GmbH und zeigen den Bruchschaden an der am 1. Oktober 2026 in Hamburg abgelieferten Keramikpalette an. Betroffen sind nach bisheriger Feststellung 18 Schalen. Der vorläufige Warenwert beträgt 2.160 EUR netto. Die abschließende Forderung bleibt nach Prüfung von Restwert, Gewicht und Haftungsumfang vorbehalten.\n\n2 Transport und Nachweise\n\nDie Palette wurde am Abgangsort ohne Vorbehalt übernommen. Bei der Ablieferung beziehungsweise dem anschließenden Auspacken wurden Nässe, eine eingerissene Folienecke und Bruch festgestellt. Die genaue Erkennbarkeit und der Anzeigezeitpunkt werden weiter aufgeklärt. Transportauftrag und Nachrichtenprotokoll werden als Anlagen K1 und K2 beigefügt. Bitte sichern Sie Fahrerunterlagen und vorhandene Bilder.\n\n3 Haftung und weiterer Ablauf\n\nDie Haftung richtet sich nach den einschlägigen transportrechtlichen Voraussetzungen, insbesondere Paragraf 425 HGB; Anzeige und Vermutungswirkungen nach Paragraf 438 HGB werden gesondert geprüft. Ihren Verpackungseinwand bitten wir konkret zu belegen. Die Verpackung bleibt bis zum [Abstimmungstermin] verfügbar. Bitte bestätigen Sie die Schadenaufnahme und nennen Sie benötigte Nachweise bis zum [Datum].\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/hgb/__425.html",
+      "https://www.gesetze-im-internet.de/hgb/__438.html"
+    ],
+    "task": "Anzeigezeit, Verpackung und Gewicht nicht vermischen; Forderung mit passenden Belegen und offener Begrenzungsprüfung erstellen."
+  },
+  {
+    "slug": "si-kanzlei-urheber-medienrecht",
+    "fachgebiet": "Urheber und Medienrecht",
+    "title": "Das Foto unter fremdem Namen",
+    "case_id": "SI-2026-020",
+    "client": "Marlene Stein",
+    "opponent": "Stadtblick Online GmbH",
+    "issue": "Nicht lizenzierte Nutzung eines Fotos in einem Augsburger Online Magazin mit fehlender Urheberbenennung",
+    "fee_model": "hourly",
+    "rate": 250,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das Foto unter fremdem Namen formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Unterlassungs und Auskunftsaufforderung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Unterlassungs und Auskunftsaufforderung",
+    "draft_blanks": [
+      "[genaue URL]",
+      "[Datum]",
+      "[Nutzungsumfang und etwaigen Vorlizenzen]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Ich fotografiere in Augsburg. Mein Bild vom alten Kiosk erschien plötzlich im Online Magazin Stadtblick, ohne meinen Namen. Ich habe der Redaktion keine Lizenz erteilt. Das Foto war auf meiner Website mit einem klaren Hinweis zu Nutzungsrechten. Die Redaktion behauptet, es von einer Presseagentur bekommen zu haben. Bitte verlangen Sie erst die Entfernung und Auskunft, woher das Bild stammt und wie lange es verwendet wurde. Mein üblicher Preis für eine einzelne Online Nutzung beträgt 280 EUR, aber ich möchte keine Fantasierechnung mit pauschalen Aufschlägen. Die ursprüngliche Bilddatei kann ich vorlegen.",
+    "questions": "Bitte sichern Sie die konkrete Fundstelle mit Datum, Ihre Originaldatei und frühere Veröffentlichungen. Gab es eine Agentur oder Kundschaft, die Nutzungsrechte weitergeben durfte? Wir benötigen Umfang, Dauer und Benennung der Nutzung. Lizenzhöhe, Unterlassung und Auskunft werden getrennt begründet; ein üblicher Preis allein beweist noch nicht jede Forderung im konkreten Fall.",
+    "response": "Das Foto wurde am 18. September in einem Beitrag über Augsburger Kioske verwendet. Unser Redakteur erhielt es nach seiner Erinnerung über einen Presseverteiler. Der ursprüngliche Weiterleitungsweg wird noch gesucht. Nach Ihrem Hinweis haben wir das Bild am 5. Oktober vorläufig aus dem Beitrag genommen. Eine Namensnennung war in der erhaltenen Datei nicht enthalten. Wir haben die Nutzung bislang nicht auf andere Seiten übertragen. Ob ein Vorschaubild in sozialen Medien verblieben ist, prüft die Redaktion. Bitte senden Sie einen Nachweis Ihrer Urheberschaft und die genaue beanstandete Fassung.",
+    "evidence": [
+      {
+        "title": "Werk und vorherige Veröffentlichung",
+        "author": "Marlene Stein | Bildarchiv",
+        "date": "15.05.2025",
+        "text": "Die Fotografin bewahrt eine Originaldatei des Bildes Alter Kiosk im Abendlicht mit den Kameraangaben vom 15. Mai 2025 auf. Eine verkleinerte Fassung wurde am 20. Mai auf ihrer Website veröffentlicht. Dort steht, dass Nutzungen einer gesonderten Lizenz bedürfen. Die Arbeitsakte enthält eine Beschreibung der Datei und die Veröffentlichungshistorie; die Originaldatei bleibt bei der Mandantin und muss für die Beweisführung gesichert werden. Eine Lizenz an Stadtblick Online ist in ihrer Rechnungsliste nicht verzeichnet. Eine frühere Einzelverwendung durch einen lokalen Kulturverein ist dokumentiert, deren Vertragsumfang aber noch zu prüfen ist."
+      },
+      {
+        "title": "Dokumentierte Nutzung im Online Magazin",
+        "author": "Stadtblick Online GmbH | gesicherter Seitentext",
+        "date": "04.10.2026",
+        "text": "Der Beitrag Neue Orte für alte Kioske enthält das beanstandete Foto als großformatiges Titelbild. Unter dem Bild steht keine Urheberbenennung. Als Veröffentlichungsdatum des Beitrags wird der 18. September genannt. Die gesicherte Fassung vom 4. Oktober zeigt keine sichtbare Lizenzangabe. Die genaue URL wird in der internen Belegliste geführt und ist vor Versand in den Entwurf zu übernehmen. Ein Vorschaubild wurde nach Hinweis der Mandantin auch in einem sozialen Netzwerk angezeigt; dessen Sicherung steht noch aus. Die Redaktion teilte am 5. Oktober mit, das Bild vorläufig entfernt zu haben. Der ursprüngliche Bezugsweg ist nicht belegt."
+      },
+      {
+        "title": "Vergleichbare Lizenz und offener Agenturweg",
+        "author": "Marlene Stein | Honorarunterlagen",
+        "date": "06.10.2026",
+        "text": "Eine frühere Rechnung an einen anderen Auftraggeber weist für eine einzelne Online Nutzung für drei Monate 280 EUR netto aus. Sie enthält eine Urheberbenennung und erlaubt keine Weitergabe an Dritte. Die Rechnung betrifft ein vergleichbares, aber nicht identisches Nutzungsumfeld. Ein pauschaler Zuschlag für fehlende Benennung wurde dort nicht vereinbart. Die Fotografin hat das Kioskfoto einmal an einen Kulturverein zur Bewerbung einer Veranstaltung gegeben. Der schriftliche Umfang dieser Erlaubnis wird noch gesucht. Ob von dort ein Presseverteiler beliefert wurde, ist ungeklärt. Die Unterlagen liefern Ansatzpunkte für die Lizenzbewertung, aber keinen automatisch feststehenden Schadensbetrag."
+      }
+    ],
+    "draft": "An die Stadtblick Online GmbH\nRedaktion und Geschäftsführung\n\n1 Beanstandete Nutzung\n\nWir vertreten Marlene Stein, Urheberin des Fotos Alter Kiosk im Abendlicht. Das Foto wurde in Ihrem Beitrag [genaue URL] ohne nachgewiesene Nutzungserlaubnis und ohne Namensnennung verwendet. Die gesicherte Beitragsfassung und die Veröffentlichungshistorie werden als Anlagen K1 und K2 bezeichnet.\n\n2 Unterlassung und Auskunft\n\nUnsere Mandantin verlangt, die konkret bezeichnete Nutzung ohne erforderliche Rechte zu unterlassen. Die Anspruchsgrundlagen nach Paragraf 97 UrhG und der Umfang weiterer Ansprüche werden anhand des tatsächlichen Nutzungswegs geprüft. Bitte bestätigen Sie bis zum [Datum], ob auch Vorschaubilder entfernt wurden, und teilen Sie Bezugsquelle, Nutzungszeitraum sowie weitere Veröffentlichungsorte mit.\n\n3 Rechtekette und Forderung\n\nDie Behauptung eines Presseverteilers belegt noch keine ausreichende Rechtekette. Bitte legen Sie die von Ihnen beanspruchte Lizenzgrundlage vor. Über eine konkret ausformulierte Unterlassungserklärung und einen Zahlungsbetrag entscheiden wir nach Klärung von [Nutzungsumfang und etwaigen Vorlizenzen]. Ein pauschaler Schadensaufschlag wird mit diesem Schreiben nicht erhoben. Die vorläufige Entfernung allein erledigt nicht automatisch alle Ansprüche.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/urhg/__97.html",
+      "https://www.gesetze-im-internet.de/urhg/__13.html"
+    ],
+    "task": "Original, konkrete Nutzung und Lizenzkette abgleichen; offene Schadensberechnung nicht als fertige Rechnung ausgeben."
+  },
+  {
+    "slug": "si-kanzlei-vergaberecht",
+    "fachgebiet": "Vergaberecht",
+    "title": "Ein Preisblatt mit leerer Zeile",
+    "case_id": "SI-2026-021",
+    "client": "Nordlicht Reinigung GmbH, vertreten durch Aurel Ott",
+    "opponent": "Stadt Lübeck",
+    "issue": "Ausschluss in einem europaweiten Reinigungsverfahren wegen einer ungeklärten Preisblattposition",
+    "fee_model": "estimate",
+    "rate": 290,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": 2000,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 21,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Ein Preisblatt mit leerer Zeile formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 31,
+        "narrative": "Rüge im Vergabeverfahren auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Rüge im Vergabeverfahren",
+    "draft_blanks": [
+      "[Vergabenummer]",
+      "[angemessenes Datum unter Berücksichtigung des Verfahrens]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Wir haben bei einer europaweiten Reinigungsausschreibung in Lübeck mitgeboten. Nun sind wir ausgeschlossen, weil im Preisblatt eine Zeile leer sei. Diese Zeile betrifft eine optionale Grundreinigung. Im Hinweisblatt steht aber, optionale Positionen würden nur auf besondere Aufforderung bepreist. Unser Einkauf hat deshalb leer gelassen. Die Ausschlussmail ging am 5. Oktober ein. Bitte formulieren Sie eine konkrete Rüge, damit die Sache nicht einfach durchläuft. Wir wissen noch nicht, wann der Zuschlag erfolgen soll. Ein Nachprüfungsantrag ist noch nicht beauftragt.",
+    "questions": "Bitte senden Sie die vollständigen Vergabeunterlagen mit Versionsstand, Bieterfragen und die versandte Angebotsdatei. Wir benötigen Kenntniszeitpunkt, Ausschlussgrund und Angaben zum beabsichtigten Zuschlag. Erkennbare Fehler der Unterlagen, deren damalige Rüge und der spätere Ausschluss sind getrennt zu prüfen. Wir setzen eine Rüge nicht mit einem zuschlagshemmenden Nachprüfungsantrag gleich.",
+    "response": "Ihr Angebot wurde ausgeschlossen, weil für die Position 4.3 kein Preis angegeben ist. Nach unserem Verständnis verlangt das Preisblatt eine vollständige Bepreisung aller Zeilen. Auf das Hinweisblatt berufen Sie sich erstmals nach Angebotsabgabe. Wir prüfen derzeit, ob die Unterlagen insoweit missverständlich waren. Eine Nachforderung oder Wertung wird mit dieser Nachricht nicht zugesagt. Das Vergabeverfahren läuft weiter. Eine Mitteilung über den vorgesehenen Zuschlagsempfänger ist nach unserer Akte noch nicht versandt. Bitte richten Sie weitere Nachrichten ausschließlich über die Vergabeplattform an uns.",
+    "evidence": [
+      {
+        "title": "Preisblatt und widersprechender Hinweis",
+        "author": "Stadt Lübeck | Vergabeunterlagen",
+        "date": "01.09.2026",
+        "text": "Das Preisblatt enthält unter Position 4.3 eine optionale Grundreinigung von 1.200 Quadratmetern. Oberhalb der Tabelle steht: Alle Preisfelder sind auszufüllen. Das gesonderte Hinweisblatt erklärt dagegen, optionale Positionen seien nur auf besondere Aufforderung zu bepreisen. Beide Dateien tragen denselben Veröffentlichungsstand. Eine spätere Berichtigung liegt in der Arbeitsakte nicht vor. Der ausgeschriebene Auftragswert wird in der Bekanntmachung mit 1,2 Millionen EUR netto für die gesamte Laufzeit angegeben; es handelt sich um ein europaweites Verfahren. Die vollständige Bekanntmachung und sämtliche Bieterfragen sind noch aus dem Portal zu sichern."
+      },
+      {
+        "title": "Abgegebenes Angebot und Versandbestätigung",
+        "author": "Nordlicht Reinigung GmbH | Vergabeplattform",
+        "date": "25.09.2026",
+        "text": "Das Angebot wurde am 25. September um 10.42 Uhr über die Plattform abgegeben. Die Versandbestätigung nennt die Datei Preisblatt Version 3. In dieser Datei ist die Position 4.3 leer. Alle übrigen wiedergegebenen Preisfelder enthalten Werte. Der Einkauf notierte intern, er habe den Hinweis zur optionalen Bepreisung zugrunde gelegt. Eine eigene Bieterfrage zu dem Widerspruch wurde nicht gestellt. Ob andere Bieter Fragen stellten oder eine Antwort veröffentlicht wurde, ist bisher ungeklärt. Die Angebotsdatei darf bei der weiteren Bearbeitung nicht nachträglich verändert und als ursprünglich eingereicht bezeichnet werden."
+      },
+      {
+        "title": "Ausschlussmitteilung",
+        "author": "Stadt Lübeck | Vergabestelle",
+        "date": "05.10.2026",
+        "text": "Die Vergabestelle teilt mit, das Angebot wegen der fehlenden Preisangabe in Position 4.3 auszuschließen. Die Nachricht ging nach dem Portalprotokoll am 5. Oktober um 14.07 Uhr ein. Sie enthält keine Angaben zu einem vorgesehenen Zuschlagsempfänger und keinen konkreten Zuschlagstermin. Die Mandantin las sie am selben Tag um 15.10 Uhr. Eine Rüge wurde bisher nicht versandt. Die Nachricht sagt nicht, dass ein späterer Nachprüfungsantrag automatisch zulässig wäre. Kenntnis, frühere Erkennbarkeit und mögliche Präklusion müssen anhand der vollständigen Unterlagen gesondert geprüft werden. Ein Zuschlag ist nach Aktenstand noch nicht dokumentiert."
+      }
+    ],
+    "draft": "An die Vergabestelle der Stadt Lübeck\nüber die Vergabeplattform\n\n1 Rüge des Ausschlusses\n\nWir vertreten die Nordlicht Reinigung GmbH im Verfahren [Vergabenummer]. Wir rügen den mit Nachricht vom 5. Oktober 2026 erklärten Ausschluss wegen der fehlenden Preisangabe in Position 4.3. Die Mandantin hat ein fristgerecht eingereichtes Angebot abgegeben und weiterhin Interesse am Auftrag. Der Ausschluss nimmt ihr die Chance auf Zuschlag.\n\n2 Widerspruch der Unterlagen\n\nDas Preisblatt verlangt sämtliche Preise, während das gleichzeitige Hinweisblatt optionale Preise nur auf besondere Aufforderung fordert. Unsere Mandantin stützte die leere optionale Zeile auf den zweiten Hinweis. Preisblatt und Hinweisblatt sowie die Ausschlussnachricht werden als Anlagen K1 und K2 vorgelegt. Bitte prüfen Sie den Widerspruch und teilen Sie mit, ob hierzu eine für alle Bieter bereitgestellte Klarstellung existiert.\n\n3 Abhilfe und Fristen\n\nWir bitten bis zum [angemessenes Datum unter Berücksichtigung des Verfahrens] um Abhilfe und erneute rechtmäßige Behandlung des Angebots. Die Voraussetzungen und Fristen eines etwaigen Nachprüfungsantrags nach Paragraf 160 GWB werden gesondert geprüft; insbesondere bleiben frühere Erkennbarkeit und Rügeobliegenheiten zu klären. Ein Nachprüfungsantrag ist mit dieser Rüge nicht gestellt. Bitte nennen Sie den beabsichtigten weiteren Zeitplan.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/gwb/__160.html"
+    ],
+    "task": "Konkreten Unterlagenwiderspruch rügen; unverändertes Angebot, Präklusionsfrage und fehlende Zuschlagshemmung festhalten."
+  },
+  {
+    "slug": "si-kanzlei-verkehrsrecht",
+    "fachgebiet": "Verkehrsrecht",
+    "title": "Der Spiegel vor dem Bäcker",
+    "case_id": "SI-2026-022",
+    "client": "Hedi Sommer",
+    "opponent": "Westufer Versicherung AG",
+    "issue": "Parkunfall in Düsseldorf mit streitiger Bewegungsrichtung und Reparaturkosten ohne Reparaturbeleg",
+    "fee_model": "rvg",
+    "rate": null,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 24,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Der Spiegel vor dem Bäcker formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 35,
+        "narrative": "Schadensersatzforderung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 12,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Schadensersatzforderung",
+    "draft_blanks": [
+      "[Kontaktaufnahme]",
+      "[Datum]",
+      "[geprüfte Kontoverbindung]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Vor einem Bäcker in Düsseldorf hat ein anderes Auto meinen linken Spiegel beschädigt. Ich stand nach meiner Erinnerung bereits, die andere Fahrerin meint, ich sei noch rückwärts gerollt. Ein Passant hat etwas gesehen, aber ich habe nur seine E Mail Adresse. Der Kostenvoranschlag beträgt 1.480 EUR netto. Repariert ist das Auto noch nicht. Die gegnerische Versicherung bietet die Hälfte und möchte eine Reparaturrechnung. Bitte machen Sie die Forderung geltend, aber erklären Sie mir, welche Beträge ohne Reparatur tatsächlich verlangt werden können. Einen Vorschaden am Spiegel hatte ich nicht.",
+    "questions": "Bitte beschreiben Sie beide Fahrbewegungen sekundengenau und sichern Sie Fotos, Skizze und Zeugenadresse. Wer ist Halter des anderen Fahrzeugs, und ist die Versicherung bestätigt? Die Haftungsquote bleibt beweisabhängig. Bei fiktiver Abrechnung setzen wir nicht ungeprüft Umsatzsteuer oder tatsächlich nicht angefallene Zusatzkosten an.",
+    "response": "Unsere Versicherungsnehmerin schildert, dass beide Fahrzeuge rückwärts rangiert hätten. Wir bieten deshalb vorläufig eine hälftige Regulierung an. Eine abschließende Anerkennung der Haftung erfolgt nicht. Bitte übersenden Sie den Kostenvoranschlag und Angaben zu Vorschäden. Wenn Sie Umsatzsteuer verlangen, benötigen wir einen Nachweis, dass sie angefallen ist. Ein Zeuge wurde von unserer Versicherungsnehmerin nicht benannt. Das von Ihnen angekündigte Foto haben wir noch nicht erhalten. Über weitere Positionen entscheiden wir nach vollständigem Eingang der Unterlagen.",
+    "evidence": [
+      {
+        "title": "Unfallnotiz und Skizzenbeschreibung",
+        "author": "Hedi Sommer",
+        "date": "29.09.2026",
+        "text": "Der Unfall ereignete sich am 29. September um etwa 08.10 Uhr auf einem Parkplatz in Düsseldorf. Hedi Sommer beschreibt, aus einer Parklücke zurückgesetzt und dann angehalten zu haben. Das andere Fahrzeug sei rückwärts aus der gegenüberliegenden Reihe gefahren. Berührt wurden ihr linker Außenspiegel und die rechte hintere Seite des anderen Fahrzeugs. Die Gegenseite behauptet dagegen, beide Fahrzeuge hätten sich noch bewegt. Eine polizeiliche Unfallaufnahme fand nicht statt. Die vorhandenen Fotos zeigen die Endstellungen nach dem Aussteigen, nicht zwingend den Kollisionsmoment. Ein Passant bot eine Auskunft per E Mail an; seine vollständigen Personalien fehlen."
+      },
+      {
+        "title": "Kostenvoranschlag Außenspiegel",
+        "author": "Autowerk Hafenbogen GmbH",
+        "date": "02.10.2026",
+        "text": "Der Kostenvoranschlag nennt Ersatzteile von 960 EUR netto und Arbeitskosten von 520 EUR netto. Daraus ergeben sich 1.480 EUR netto, 281,20 EUR Umsatzsteuer und 1.761,20 EUR brutto. Die Reparatur wurde bislang nicht beauftragt oder durchgeführt. Eine Wertminderung, Mietwagenkosten oder Nutzungsausfall sind nicht kalkuliert. Der Betrieb vermerkt, die sichtbare Beschädigung sei mit einem Spiegelkontakt vereinbar; eine rechtliche Haftungsquote wird nicht angegeben. Verdeckte weitere Schäden wurden ohne Demontage nicht geprüft. Der Kostenvoranschlag ist keine Rechnung und belegt keinen Anfall von Umsatzsteuer."
+      },
+      {
+        "title": "Versicherungsantwort und Zeugenhinweis",
+        "author": "Westufer Versicherung AG und Hedi Sommer",
+        "date": "05.10.2026",
+        "text": "Die Versicherung bietet auf Grundlage ihrer Versichertendarstellung eine Quote von 50 Prozent an. Sie bestätigt die Bearbeitung unter dem Zeichen WV 260929. Eine Zahlung ist bisher nicht erfolgt. Hedi Sommer nennt als möglichen Zeugen Emil Lorenz mit der Kontaktadresse emil.lorenz@parkblick.example. Er soll gesagt haben, eines der Fahrzeuge habe gestanden. Welches er meinte und ob er den gesamten Ablauf sah, wurde nicht protokolliert. Eine direkte Zeugenbefragung steht aus. Die Versicherung hat noch keine eigene Zeugenangabe vorgelegt. Der angebotene Vergleich wurde von der Mandantin nicht angenommen."
+      }
+    ],
+    "draft": "An die Westufer Versicherung AG\nSchaden WV 260929\n\n1 Forderung\n\nWir vertreten Hedi Sommer. Aus dem Parkplatzunfall vom 29. September 2026 macht sie zunächst Reparaturkosten von 1.480 EUR netto geltend. Die Forderung wird auf die nach Sachverhaltsprüfung einschlägige Halterhaftung nach Paragraf 7 StVG und den Direktanspruch nach Paragraf 115 VVG gestützt. Umsatzsteuer wird mangels nachgewiesenen Anfalls derzeit nicht verlangt.\n\n2 Unfallablauf\n\nNach der Schilderung unserer Mandantin stand ihr Fahrzeug bereits, als das versicherte Fahrzeug rückwärts gegen den Spiegel fuhr. Ihre gegenteilige Darstellung wird bestritten. Der Zeuge Emil Lorenz soll zum Ablauf befragt werden; seine vollständigen Angaben werden nach [Kontaktaufnahme] ergänzt. Unfallnotiz und Kostenvoranschlag sind als Anlagen K1 und K2 beigefügt.\n\n3 Quote und Zahlung\n\nDas Angebot einer hälftigen Regulierung ist nicht angenommen. Die konkrete Haftungsverteilung bleibt nach Auswertung der Beweise zu prüfen. Bitte nehmen Sie bis zum [Datum] zur vollständigen Forderung Stellung und teilen Sie die maßgebliche Versichertenschilderung mit. Zahlung soll auf [geprüfte Kontoverbindung] erfolgen. Weitere Positionen werden nur bei belegtem Anfall beziehungsweise erfüllten Voraussetzungen ergänzt.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/stvg/__7.html",
+      "https://www.gesetze-im-internet.de/vvg_2008/__115.html",
+      "https://www.gesetze-im-internet.de/bgb/__249.html"
+    ],
+    "task": "Nettoforderung und Quote auseinanderhalten; Zeugenerinnerung und sichere Zahlungsdaten nachfordern."
+  },
+  {
+    "slug": "si-kanzlei-versicherungsrecht",
+    "fachgebiet": "Versicherungsrecht",
+    "title": "Das Wasser unter der Spüle",
+    "case_id": "SI-2026-023",
+    "client": "Ruprecht Demir",
+    "opponent": "Wertblick Hausrat AG",
+    "issue": "Leitungswasserschaden in Regensburg und Leistungsablehnung wegen angeblich unbeheizter Wohnung",
+    "fee_model": "estimate",
+    "rate": 235,
+    "cap": null,
+    "flat_fee": null,
+    "estimate": 950,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 27,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Das Wasser unter der Spüle formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 39,
+        "narrative": "Einwendungen gegen die Leistungsablehnung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 15,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Einwendungen gegen die Leistungsablehnung",
+    "draft_blanks": [
+      "[Schadennummer]",
+      "[Datum]",
+      "[Name und Signatur]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "In meiner Wohnung in Regensburg platzte im September ein Schlauch unter der Spüle. Beschädigt wurden Küchenmöbel und Teppiche. Die Hausratversicherung lehnt ab, weil die Wohnung angeblich unbewohnt und unbeheizt gewesen sei. Ich war nur zwölf Tage auf Reisen. Außerdem war es September, nicht Frostwetter. Meine Nachbarin hat zweimal nachgesehen. Bitte prüfen Sie das Schreiben und formulieren Sie eine sachliche Antwort. Die Küche enthält auch fest eingebaute Teile; ich weiß nicht, was Hausrat und was Gebäudebestandteil ist. Den Schaden von 6.200 EUR habe ich bisher nur geschätzt.",
+    "questions": "Bitte legen Sie Versicherungsschein, vollständige Bedingungen und Schadenmeldung vor. Welche Gegenstände sind beweglich, welche fest mit dem Gebäude verbunden? Wann wurde der Schlauch zuletzt kontrolliert, und was genau verlangt die Versichererin als Obliegenheit? Wir prüfen Vertragsumfang, behauptete Pflichtverletzung, Verschulden und Ursächlichkeit getrennt. Ein geschätzter Gesamtbetrag wird nicht als belegte Rechnung ausgegeben.",
+    "response": "Wir halten an unserer Ablehnung zunächst fest. Nach dem Besichtigungsvermerk war die Wohnung bei Feststellung des Schadens nicht bewohnt. Ob eine längere Abwesenheit und eine Verletzung vereinbarter Kontrollpflichten vorlagen, ist anhand Ihrer Angaben zu prüfen. Bitte reichen Sie Reisezeiten und Kontrollnachweise ein. Die pauschale Schätzung von 6.200 EUR reicht zur Bezifferung nicht aus. Zudem müssen Gebäudebestandteile von versichertem Hausrat abgegrenzt werden. Unsere bisherige Antwort nennt den vollständigen Bedingungswortlaut nicht; die zuständige Stelle wird diesen ergänzen.",
+    "evidence": [
+      {
+        "title": "Versicherungsschein und vorliegender Bedingungsauszug",
+        "author": "Wertblick Hausrat AG",
+        "date": "01.01.2026",
+        "text": "Der Versicherungsschein nennt Ruprecht Demir als Versicherungsnehmer und eine Regensburger Wohnung als Versicherungsort. Leitungswasser gehört nach dem Schein zu den versicherten Gefahren. Die Versicherungssumme beträgt 75.000 EUR. Der vorliegende Bedingungsauszug verlangt eine angemessene Beheizung und Kontrolle in der kalten Jahreszeit sowie die Einhaltung näher bestimmter Sorgfaltspflichten bei längerer Abwesenheit. Die genaue Definition längerer Abwesenheit fehlt in der übersandten Seite. Ob weitere Klauseln oder besondere Vereinbarungen gelten, ist deshalb offen. Eine pauschale Leistungsfreiheit bei jeder Reise ist im vorliegenden Auszug nicht formuliert."
+      },
+      {
+        "title": "Schadenfeststellung unter der Küchenspüle",
+        "author": "Installationsbetrieb Wasserwerk Maier",
+        "date": "24.09.2026",
+        "text": "Bei der Besichtigung wurde ein gerissener flexibler Anschlussschlauch unter der Küchenspüle festgestellt. Der Hauptabsperrhahn wurde geschlossen und der defekte Schlauch ersetzt. Der Betrieb beschreibt Feuchtigkeit an einem Küchenschrank und zwei Teppichen. Eine Frostursache wird im Bericht nicht festgestellt. Ob Materialalterung oder eine andere Ursache zum Riss führte, wurde nicht abschließend untersucht. Der ausgetauschte Schlauch wurde auf Wunsch des Kunden aufbewahrt. Die Reparaturrechnung betrifft nur den Schlauch und die Arbeitszeit; sie beziffert nicht den gesamten Hausratschaden. Fest eingebaute Küchenteile sind in der Schadenliste gesondert zuzuordnen."
+      },
+      {
+        "title": "Reise und Kontrollnotiz mit Schadenschätzung",
+        "author": "Ruprecht Demir und Nachbarin Hanne Roth",
+        "date": "05.10.2026",
+        "text": "Die Reise dauerte vom 10. bis 22. September. Hanne Roth berichtet, am 14. und 19. September nach der Wohnung gesehen zu haben. Einen Wasseraustritt bemerkte sie dabei nicht. Eine schriftliche Absprache über den genauen Kontrollumfang gab es nicht. Ruprecht schätzt den Ersatz für Teppiche und Möbel auf zusammen 6.200 EUR; Kaufbelege und Zeitwerte wurden noch nicht geordnet. Ein Teil der Küche gehört nach dem Mietvertrag dem Vermieter. Die Wohnung wurde nach der Rückkehr weiter bewohnt. Die Notiz soll die Behauptung eines dauernden Leerstands überprüfen helfen, ersetzt aber weder vollständige Versicherungsbedingungen noch eine sachverständige Schadenbewertung."
+      }
+    ],
+    "draft": "An die Wertblick Hausrat AG\nSchaden [Schadennummer]\n\n1 Einwendungen gegen die Ablehnung\n\nWir vertreten Ruprecht Demir. Ihrer Ablehnung wegen angeblich unbewohnter und unbeheizter Räume widersprechen wir. Unser Mandant war vom 10. bis 22. September verreist; eine dauerhafte Aufgabe der Wohnung lag nicht vor. Die Nachbarin kontrollierte sie am 14. und 19. September.\n\n2 Vertrag und Schadenursache\n\nBitte benennen Sie die konkret einbezogene Klausel, deren Verletzung Sie annehmen, und die Tatsachen zu Verschulden und Ursächlichkeit. Der Installationsbericht stellt einen gerissenen Schlauch fest, jedoch keine Frostursache. Schein und Bericht werden als Anlagen K1 und K2 beigefügt. Die Voraussetzungen und Grenzen einer Leistungsfreiheit nach Paragraf 28 VVG sind gesondert zu prüfen.\n\n3 Bezifferung\n\nDie bisher genannten 6.200 EUR sind eine vorläufige Schätzung. Wir reichen bis zum [Datum] eine belegte Aufstellung des versicherten Hausrats nach und trennen Gegenstände des Vermieters sowie Gebäudebestandteile. Bitte nehmen Sie nach vollständiger Prüfung erneut Stellung. Ein Vergleich oder Verzicht ist mit der Nachreichung nicht verbunden.\n\n[Name und Signatur]",
+    "legal_sources": [
+      "https://www.gesetze-im-internet.de/vvg_2008/__28.html"
+    ],
+    "task": "Deckung, Obliegenheit und Schadenhöhe fachlich trennen; unvollständige Bedingungen und Schätzung als Lücken behandeln."
+  },
+  {
+    "slug": "si-kanzlei-verwaltungsrecht",
+    "fachgebiet": "Verwaltungsrecht",
+    "title": "Der Tisch vor der Buchhandlung",
+    "case_id": "SI-2026-024",
+    "client": "Buchfalter GbR, vertreten durch Amelie Wendt",
+    "opponent": "Stadt Göttingen",
+    "issue": "Ablehnung einer Sondernutzung für zwei Lesetische auf dem Gehweg bei unklarer Restbreite",
+    "fee_model": "capped",
+    "rate": 230,
+    "cap": 1200,
+    "flat_fee": null,
+    "estimate": null,
+    "agreed": true,
+    "source_fee": "10_Mandats_und_Honorarvermerk.docx",
+    "times": [
+      {
+        "date": "2026-10-06",
+        "person": "Dr. Frieda Blum",
+        "minutes": 18,
+        "narrative": "Mandatsunterlagen sichten und konkrete Rückfragen zu Der Tisch vor der Buchhandlung formulieren",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": 43,
+        "narrative": "Antrag auf erneute Entscheidung auf Grundlage der drei Belege vorbereiten",
+        "billable": true,
+        "confirmed": true,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Dr. Frieda Blum",
+        "minutes": null,
+        "narrative": "Telefonische Klärung mit der Mandantschaft; Dauer und endgültiger Rechnungstext fehlen",
+        "billable": true,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      },
+      {
+        "date": "2026-10-07",
+        "person": "Jona Rapp",
+        "minutes": 9,
+        "narrative": "Dokumentenbenennung und Ablage; Einordnung als abrechenbare Leistung noch offen",
+        "billable": false,
+        "confirmed": false,
+        "source": "04_Zeitnotiz.eml"
+      }
+    ],
+    "draft_type": "Antrag auf erneute Entscheidung",
+    "draft_blanks": [
+      "[Termin]",
+      "[Datum und Unterschrift]"
+    ],
+    "xlsx_filename": "08_Zeiten_und_Honorar.xlsx",
+    "opening": "Vor unserer Buchhandlung in Göttingen möchten wir zwei kleine Lesetische aufstellen. Die Stadt lehnt das ab, weil der Gehweg zu schmal sei. In unserem Plan bleiben 2,10 Meter frei, die Stadt nennt nur 1,60 Meter. Offenbar haben wir von verschiedenen Kanten gemessen. Wir möchten zuerst eine veränderte Aufstellung anbieten, nicht sofort klagen. Der Bescheid kam am 2. Oktober an. Bitte prüfen Sie trotzdem, welche Rechtsbehelfsfrist läuft. Die Nachbarboutique hat einen Kleiderständer draußen; daraus will ich aber nicht einfach eine automatische Erlaubnis ableiten.",
+    "questions": "Bitte senden Sie den vollständigen Bescheid mit Rechtsbehelfsbelehrung und den tatsächlich eingereichten Plan. Wo verlaufen Baumscheibe, Leitsystem und Gebäudekante? Eine erneute Sachprüfung oder ein geänderter Antrag wahrt nicht automatisch eine gerichtliche Frist. Wir klären die maßgebliche örtliche Regelung und den nach Landesrecht vorgesehenen Rechtsbehelf separat.",
+    "response": "Die Ablehnung beruht auf dem eingereichten Lageplan und der von unserem Außendienst festgestellten Engstelle. Die nutzbare Gehwegbreite wurde zwischen Baumscheibe und äußerster Tischkante mit etwa 1,60 Metern angesetzt. Wenn Sie eine kleinere Aufstellung ohne Stühle vorschlagen, können wir diese erneut prüfen. Eine Zusage zur Genehmigung ist damit nicht verbunden. Bitte legen Sie einen maßstäblichen Plan mit sämtlichen Hindernissen vor. Die Rechtsbehelfsbelehrung des bestehenden Bescheids bleibt durch dieses Gespräch unberührt. Die Aufstellung eines Nachbargeschäfts wurde in Ihrem Verfahren nicht mitentschieden.",
+    "evidence": [
+      {
+        "title": "Antrag auf zwei Lesetische",
+        "author": "Buchfalter GbR | eingereichter Plantext",
+        "date": "15.09.2026",
+        "text": "Beantragt wurde die Aufstellung von zwei Tischen mit jeweils 60 mal 60 Zentimetern Grundfläche unmittelbar vor der Buchhandlung. Zwei Stühle sind im Plan zusätzlich eingezeichnet. Die gewünschte Nutzungszeit beträgt werktags 10 bis 18 Uhr. Der Plan nennt eine verbleibende Breite von 2,10 Metern, misst diese jedoch ab Gebäudekante und zeichnet die Baumscheibe nur schematisch ein. Ein taktiles Leitsystem ist nicht vermerkt. Die Maßangaben wurden von der Betreiberin selbst erhoben. Eine amtliche Vermessung oder eine gemeinsame Ortsbesichtigung lag bei Antragstellung nicht vor. Die Tische wurden bisher nicht aufgestellt."
+      },
+      {
+        "title": "Ablehnung der beantragten Sondernutzung",
+        "author": "Stadt Göttingen | Arbeitskopie",
+        "date": "29.09.2026",
+        "text": "Die Stadt lehnt die beantragte Aufstellung in der beschriebenen Form ab. Sie nennt eine Engstelle mit ungefähr 1,60 Metern verbleibender nutzbarer Gehwegbreite und verweist auf die Belange des Fußgängerverkehrs. Die vollständige Rechtsgrundlagen und Rechtsbehelfsseite liegt der Mandantin im Original vor, wurde der Kanzlei aber noch nicht gescannt übermittelt. Als tatsächlichen Zugang notierte die Mandantin den 2. Oktober. Der Bescheid betrifft den bisherigen Plan mit zwei Stühlen. Eine kleinere Variante ohne Stühle wurde noch nicht entschieden. Die Arbeitskopie allein genügt daher nicht für eine abschließende Rechtsbehelfs und Fristbewertung."
+      },
+      {
+        "title": "Neue Messung und kleinerer Aufstellvorschlag",
+        "author": "Amelie Wendt | Ortsnotiz",
+        "date": "05.10.2026",
+        "text": "Amelie maß die Entfernung von der Baumscheibe zur vorgesehenen Tischkante erneut und kam auf etwa 1,65 Meter. Ihre frühere Angabe von 2,10 Metern bezog die Baumscheibe nicht ein. Sie schlägt nun einen einzigen Tisch ohne Stühle vor, der näher an der Fassade stehen soll. Ob dadurch eine ausreichende nutzbare Breite verbleibt, muss in einem maßstäblichen Plan gezeigt werden. Der Zugang zum Hauseingang soll frei bleiben. Ein Foto des benachbarten Kleiderständers liegt vor, sagt aber nichts über dessen Erlaubnis oder die dortige Breite aus. Die Mandantin möchte eine tragfähige Lösung und keine Gleichbehandlung im möglicherweise unerlaubten Zustand verlangen."
+      }
+    ],
+    "draft": "An die Stadt Göttingen\nzuständige Stelle für Sondernutzungen\n\n1 Geänderter Aufstellvorschlag\n\nWir vertreten die Buchfalter GbR. Anstelle der am 15. September beantragten zwei Lesetische mit Stühlen beantragt unsere Mandantin die Prüfung eines einzelnen Tisches ohne Stühle. Der neue maßstäbliche Plan wird als Anlage K1 vorgelegt; er weist Gebäudekante, Baumscheibe, Hauseingang und verbleibende nutzbare Breite aus.\n\n2 Tatsächliche Berichtigung\n\nDie ursprüngliche Breitenangabe von 2,10 Metern berücksichtigte die Baumscheibe nicht zutreffend. Unsere Mandantin hält daran nicht fest. Sie bittet um eine gemeinsame Ortsbesichtigung am [Termin] und um Mitteilung, welche konkreten örtlichen Anforderungen für die kleinere Variante gelten. Die Ortsnotiz wird als Anlage K2 bezeichnet.\n\n3 Bestehender Bescheid\n\nDie Ablehnung vom 29. September und ihre Rechtsbehelfsbelehrung werden gesondert geprüft. Dieser geänderte Antrag enthält keinen Verzicht auf einen zulässigen Rechtsbehelf und wird nicht als automatische Fristwahrung behandelt. Bitte entscheiden Sie über die neue Variante anhand der maßgeblichen örtlichen Regelung. Eine Aufstellung vor Erlaubnis ist nicht vorgesehen.\n\n[Datum und Unterschrift]",
+    "legal_sources": [],
+    "task": "Planfehler offen berichtigen, geänderten Antrag erstellen und ursprüngliche Rechtsbehelfsfrist getrennt sichern."
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "name": "Ein Preisblatt mit leerer Zeile",
+  "plugin": "si-native-kanzlei",
+  "stand": "2026-10-07",
+  "checks": [
+    {
+      "id": "arbeitsbestand",
+      "check_type": "working_file_count",
+      "description": "Zehn native Originale sind vorhanden.",
+      "min": 10
+    },
+    {
+      "id": "original-01",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 01 ist vorhanden.",
+      "path": "01_Mandatsanfrage.eml"
+    },
+    {
+      "id": "original-02",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 02 ist vorhanden.",
+      "path": "02_Rueckfragen_und_Honorar.eml"
+    },
+    {
+      "id": "original-03",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 03 ist vorhanden.",
+      "path": "03_Gegenseite_oder_Fachstelle.eml"
+    },
+    {
+      "id": "original-04",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 04 ist vorhanden.",
+      "path": "04_Zeitnotiz.eml"
+    },
+    {
+      "id": "original-05",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 05 ist vorhanden.",
+      "path": "05_Vertrags_oder_Stammunterlage.pdf"
+    },
+    {
+      "id": "original-06",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 06 ist vorhanden.",
+      "path": "06_Ereignis_oder_Bescheid.pdf"
+    },
+    {
+      "id": "original-07",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 07 ist vorhanden.",
+      "path": "07_Beleg_und_Nachweis.pdf"
+    },
+    {
+      "id": "original-08",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 08 ist vorhanden.",
+      "path": "08_Zeiten_und_Honorar.xlsx"
+    },
+    {
+      "id": "original-09",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 09 ist vorhanden.",
+      "path": "09_Fachlicher_Dokumententwurf.docx"
+    },
+    {
+      "id": "original-10",
+      "check_type": "file_exists",
+      "description": "Das Aktenstück 10 ist vorhanden.",
+      "path": "10_Mandats_und_Honorarvermerk.docx"
+    },
+    {
+      "id": "fachlicher-entwurf",
+      "check_type": "human_review",
+      "description": "Der fachliche Entwurf bearbeitet den konkreten Sachverhalt, enthält benannte Blanks und bleibt vor Freigabe ein Entwurf."
+    },
+    {
+      "id": "honorar-und-zeit",
+      "check_type": "human_review",
+      "description": "Honorargrundlage, bestätigte Zeiten und ungeklärte Einträge werden unterschieden; ein unbestätigtes Angebot wird nicht als Rechnung versandt."
+    },
+    {
+      "id": "quellen-und-anlagen",
+      "check_type": "human_review",
+      "description": "Behauptungen, Belege und fehlende Originale bleiben unterscheidbar; Anlagen werden passend zum fertigen Entwurf ausgewählt."
+    }
+  ]
+}

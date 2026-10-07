@@ -1,0 +1,351 @@
+{
+  "engine": "gebündeltes LibreOffice; Formeln unverändert",
+  "authoring": "Artifact Tool",
+  "baselines": [
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "minutes": 52,
+      "honorar": 208.0,
+      "formulas": 9,
+      "sha256": "5c4abe2026a1362d7c8f6a4aacc9ded52f0d48775247e3871b78040af861fc57"
+    },
+    {
+      "slug": "si-kanzlei-arbeitsrecht",
+      "minutes": 59,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "5b5729b2d1cc82e08e0bae9c0e947c71b8083abdbd8b147d17749bebe561bb6b"
+    },
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "minutes": 66,
+      "honorar": 286.0,
+      "formulas": 9,
+      "sha256": "acbd34dcb50b632417640c64c4b0a602f7e475fc53590e059b8304613fc180eb"
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "minutes": 61,
+      "honorar": 254.17,
+      "formulas": 9,
+      "sha256": "2e118b2bc329010ad0c0930385f695049a9c0f74c3b0bac342f5cef5b13168ec"
+    },
+    {
+      "slug": "si-kanzlei-erbrecht",
+      "minutes": 48,
+      "honorar": 750,
+      "formulas": 9,
+      "sha256": "fb86b5dbe7c3a8651b54d9297dac2eec9affc50beed0358cf9b73e9d326cc947"
+    },
+    {
+      "slug": "si-kanzlei-familienrecht",
+      "minutes": 55,
+      "honorar": "Vereinbarung offen",
+      "formulas": 9,
+      "sha256": "1d5dc59082f31510c643447429338fb3ce6a0281031848bc7aa0eddbdc8eaa63"
+    },
+    {
+      "slug": "si-kanzlei-gewerblicher-rechtsschutz",
+      "minutes": 62,
+      "honorar": 289.33,
+      "formulas": 9,
+      "sha256": "a88d89c1f107b8db3e6fd62204a98d32818b4a283df4c74033587350f3cfad22"
+    },
+    {
+      "slug": "si-kanzlei-handels-gesellschaftsrecht",
+      "minutes": 57,
+      "honorar": 1400,
+      "formulas": 9,
+      "sha256": "ba25b8ca7c8bce9ba44d2bd1512215592fbcb7bb65c754bf43814032335beee5"
+    },
+    {
+      "slug": "si-kanzlei-insolvenz-sanierungsrecht",
+      "minutes": 64,
+      "honorar": 309.33,
+      "formulas": 9,
+      "sha256": "b32de93eb12e0d13fec5cee4524a424c2abc5c2bbdbbc4e02676548af9abbe85"
+    },
+    {
+      "slug": "si-kanzlei-internationales-wirtschaftsrecht",
+      "minutes": 51,
+      "honorar": "Vereinbarung offen",
+      "formulas": 9,
+      "sha256": "0004902e374ea0cda4072f0c437d1da3dc02aa49d7f7c7d366a7f917c52df8c4"
+    },
+    {
+      "slug": "si-kanzlei-it-recht",
+      "minutes": 58,
+      "honorar": 1250,
+      "formulas": 9,
+      "sha256": "50ce8a10214b266c52d7c8f1e3538dfb4f3430fdcd79e47d225cd743f0d3de08"
+    },
+    {
+      "slug": "si-kanzlei-medizinrecht",
+      "minutes": 53,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "6ebf6087f4713d41f49504a6359648fc0a629f8a81225145dc0f31ec6f2351c1"
+    },
+    {
+      "slug": "si-kanzlei-miet-wohnungseigentumsrecht",
+      "minutes": 60,
+      "honorar": 490,
+      "formulas": 9,
+      "sha256": "5989b4e42c7fd6eaeef3aecc9e65ba8add5d56e8a961d1b3b45d23c34d7dcff2"
+    },
+    {
+      "slug": "si-kanzlei-migrationsrecht",
+      "minutes": 67,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "d3c9e7c5d200756a287f54083255b811106d5dd6751d5e73174b56fa15337b9c"
+    },
+    {
+      "slug": "si-kanzlei-sozialrecht",
+      "minutes": 54,
+      "honorar": 198.0,
+      "formulas": 9,
+      "sha256": "848cf6ddbe149a0781d34701ce2ad2363a601d431a5789d22cb9017ecd1042a1"
+    },
+    {
+      "slug": "si-kanzlei-sportrecht",
+      "minutes": 49,
+      "honorar": "Vereinbarung offen",
+      "formulas": 9,
+      "sha256": "425b4a00f3b7a3b16df5f53d2704746b5713a49860e7b1b864c23b7b8dd6b7e3"
+    },
+    {
+      "slug": "si-kanzlei-steuerrecht",
+      "minutes": 56,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "3c387c7cb38977971f907be7dc5ab996c1ef602c75b17c564756507dd124fd8e"
+    },
+    {
+      "slug": "si-kanzlei-strafrecht",
+      "minutes": 63,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "0db5b35ff5c902894474c6fab20c674b566d49d495c7c8f223516d9695e1201d"
+    },
+    {
+      "slug": "si-kanzlei-transport-speditionsrecht",
+      "minutes": 70,
+      "honorar": 285.83,
+      "formulas": 9,
+      "sha256": "02fb79d42d6bf6c6b49fff665299acae218d327b6f108e4e9d1b072d13877a4f"
+    },
+    {
+      "slug": "si-kanzlei-urheber-medienrecht",
+      "minutes": 45,
+      "honorar": 187.5,
+      "formulas": 9,
+      "sha256": "98009abbc777ced2fc3021325ffd67236f83627b0fad4ccca2ca40cb015f2991"
+    },
+    {
+      "slug": "si-kanzlei-vergaberecht",
+      "minutes": 52,
+      "honorar": 251.33,
+      "formulas": 9,
+      "sha256": "e9e6653ee6e60d19a5edc6340855b55ed1e090d37135c6cca99c036a73a4a387"
+    },
+    {
+      "slug": "si-kanzlei-verkehrsrecht",
+      "minutes": 59,
+      "honorar": "RVG-Berechnung offen",
+      "formulas": 9,
+      "sha256": "422f853297b5a53653de5b2f3809908fa1a742ffee8e5e380098dd474551393c"
+    },
+    {
+      "slug": "si-kanzlei-versicherungsrecht",
+      "minutes": 66,
+      "honorar": 258.5,
+      "formulas": 9,
+      "sha256": "b735a617dab9c358acbf12832f2933811f1a0c982ce0f98853de79426844e386"
+    },
+    {
+      "slug": "si-kanzlei-verwaltungsrecht",
+      "minutes": 61,
+      "honorar": 233.83,
+      "formulas": 9,
+      "sha256": "a2cdd171c74c529ecdc3d01c2364e6c88479e7f075332113380c2fc2f40b84b2"
+    }
+  ],
+  "mutation_checks": [
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "mutation": {
+        "C7": "Nein"
+      },
+      "cell": "G18",
+      "expected": "Vereinbarung offen",
+      "actual": "Vereinbarung offen"
+    },
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "mutation": {
+        "C6": null
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "mutation": {
+        "D11": -1
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "mutation": {
+        "C6": 0
+      },
+      "cell": "G18",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "mutation": {
+        "C7": "Nein"
+      },
+      "cell": "G18",
+      "expected": "Vereinbarung offen",
+      "actual": "Vereinbarung offen"
+    },
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "mutation": {
+        "C6": null
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "mutation": {
+        "D11": -1
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "mutation": {
+        "C6": 0
+      },
+      "cell": "G18",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "mutation": {
+        "G6": 0
+      },
+      "cell": "G18",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "mutation": {
+        "C7": "Nein"
+      },
+      "cell": "G18",
+      "expected": "Vereinbarung offen",
+      "actual": "Vereinbarung offen"
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "mutation": {
+        "C6": null
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "mutation": {
+        "D11": -1
+      },
+      "cell": "G18",
+      "expected": "Zeitzeile prüfen",
+      "actual": "Zeitzeile prüfen"
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "mutation": {
+        "C6": 0
+      },
+      "cell": "G18",
+      "expected": 0,
+      "actual": 0
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "mutation": {
+        "G6": 0,
+        "D13": 0,
+        "F13": "Ja",
+        "E13": "Ja",
+        "F14": "Ja"
+      },
+      "cell": "C20",
+      "expected": "Schätzung überschritten: Kosteninformation",
+      "actual": "Schätzung überschritten: Kosteninformation"
+    },
+    {
+      "slug": "si-kanzlei-erbrecht",
+      "mutation": {
+        "C7": "Nein"
+      },
+      "cell": "G18",
+      "expected": "Vereinbarung offen",
+      "actual": "Vereinbarung offen"
+    },
+    {
+      "slug": "si-kanzlei-erbrecht",
+      "mutation": {
+        "D11": 240
+      },
+      "cell": "G18",
+      "expected": 750,
+      "actual": 750
+    },
+    {
+      "slug": "si-kanzlei-arbeitsrecht",
+      "mutation": {
+        "C7": "Nein"
+      },
+      "cell": "G18",
+      "expected": "Vereinbarung offen",
+      "actual": "Vereinbarung offen"
+    },
+    {
+      "slug": "si-kanzlei-arbeitsrecht",
+      "mutation": {
+        "G7": 250
+      },
+      "cell": "G18",
+      "expected": 250,
+      "actual": 250
+    },
+    {
+      "slug": "si-kanzlei-arbeitsrecht",
+      "mutation": {
+        "G7": -1
+      },
+      "cell": "G18",
+      "expected": "Betrag prüfen",
+      "actual": "Betrag prüfen"
+    }
+  ]
+}

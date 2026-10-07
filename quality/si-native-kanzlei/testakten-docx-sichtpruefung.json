@@ -1,0 +1,386 @@
+[
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "de90bf464cab5e01958e96d0fa4a7e2ce79cd61fe048bf68543ac950d14833ff",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-agrarrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "0f24cd72ea1ed9c723c1502e44245f06345d36d848284a03ded6a12f421c14c5",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-agrarrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "21abbdb7a5bf86e4c1effd9dd7418100776fce27ce126463cf9284f54a4faf27",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-arbeitsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "8fd3f74190c5bfcdd3a5df8a5ae0c0cbd5c84d9747f4d651b91a6c6bc173f63d",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-arbeitsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "f6721390e67f0f1e949c2abc4a59dbd383cb875637f4fd63bf46b72f9f660274",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-bank-kapitalmarktrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "1a1dabb3379449e1aad39ec19aff191563e3e90eb5a148099a44d6b2236486f8",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-bank-kapitalmarktrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "cb281008fa2a4a95cf4ce8860c573ca54f9cedcb8f64e7650fea7cc0e001e4fa",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-bau-architektenrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "ef58e9a3bb6458f12df3656bd25833be4cd61c5564c807aa00483d70d00069a5",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-bau-architektenrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "99325c0705cd9d7d20768cf7825619b93259c393d1e1c11c41d34f427f9c4741",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-erbrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "f78a5ecc4f6cf94ff834b76d7b8ffaebac1a92e3348f6b9e51a56a77e6ed5e31",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-erbrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "c4d417bf2425dacf00ea932075f8b1a9d38f712fc983221ee9f79460fa025ddc",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-familienrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "dbd54e575c33eae5ef68b3aa0746f8a1acd33a5aae1e99dc4e06b348af870179",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-familienrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "ee5ac00cd960360a160b9f50239afc7f8cb357dab2a02b6b5522c3d5c7a18e55",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-gewerblicher-rechtsschutz/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "730fe4e985895ad0c000be179e9d162698be017dd9cec5263672b5e646a2e558",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-gewerblicher-rechtsschutz/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "6f35f7e47a64520ae865e4e1e31f4fae37c5940f3bc4546530b1a16645eb24e0",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-handels-gesellschaftsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "551947ead00621ccdf7867f856ad4991270538b0cc6d63a368a4abaefa946dd0",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-handels-gesellschaftsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "5c7ebd3c89ad3bcdaadf73465fa5ff40065dea64cf731a8ffe602df6c16ee942",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-insolvenz-sanierungsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "c4fd44a24301e8fbd372bb2d95d1ca136e69e1af55624e3840040c841d688e0d",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-insolvenz-sanierungsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "bb74ccd814db7ae373e93801c3b7042f9b5035e5c6fbeeb6dda34bff3eaaf8ea",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-internationales-wirtschaftsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "375a1a8993c4d6a09c36105187acdce584f15af65bac0405dc4fda8ed65dbd0b",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-internationales-wirtschaftsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "bf27168089464e65115fef20cbf495efffe3d2b1e4f894e43f2821ad2eeee08c",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-it-recht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "2c9b54dd0d0c4d71e75914431f3e36d69dcb7c5103e2b6e0228c95a3ef604539",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-it-recht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "7e2d39fdc4b108be2b9cf353f0930d8cd9b536f485967ec899fc9f7e38f6ef94",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-medizinrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "f038fef0a67f1c12f98209ed99ae307a0d48e1daad705d30bbe05b5cf6ae26b3",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-medizinrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "c334f1440a71b8382c9c20c39e8f85f4ca8fd6023988b373797e85e4db8d9fe8",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-miet-wohnungseigentumsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "d2ac640dbd662b6699fe3f2771567c8649c816ff499b506123a25aed5329c89b",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-miet-wohnungseigentumsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "822ff9bac44c5b5b075450c10c093bce2a0a464903fbff54114d85b60cf77657",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-migrationsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "26b741b8165468861d153dbea57308356e25e77316baf4787e5285cbaae762cd",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-migrationsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "f3b1a9ca8448273a2df5896b59ae3f1aac8306c838084942349f6901cc4bc122",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-sozialrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "23693a2ed309efb0951cb5c9085bf2e9dca3c8424c41ce715f7780a83c95d810",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-sozialrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "169500ebbe46166c8ee9d24a819541a1b5a153912caf9cd2e32474c602557830",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-sportrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "c73244752d2fe6a9621976ae137d472a802ddbb5b2ab27565a2313fad05040a3",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-sportrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "09f33d92b3f6997cb2ea5d07206e4fc518520a843e9a22b9e1ca2319775d2b42",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-steuerrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "64224a180b4942d134837b3bfc4d28103d9017bd6bb781bc920b9a2254930af0",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-steuerrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "c364e9e0ba06ed3042e6147bea900b0f26d08804a952f18ca3081198a834ae6f",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-strafrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "6b6ee0378ccfb01798243deaf662c518131498853a5fc6f8ca0a6fa366af6eba",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-strafrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "945221ee2573268533c13b7028e1cffe811a8329acbe1656e97361e46e98ed7c",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-transport-speditionsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "0b5120f479441e8314440124f566e8b765b017cff4eb3e10f503265e79d46f93",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-transport-speditionsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "f5a3e2229228ce3689336ef42dd9d547afb744db682a00f4519a32b0e87881f9",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-urheber-medienrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "cea26aab1878e98dba0cf823c0e59020cd1fb6dfa70d2ed680303d84bcaf3a20",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-urheber-medienrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "cfc93f02b0ac7175f0faf9f3e8c22ec5c96c9475762c5b5c2a90e45673453971",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-vergaberecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "ad23315d2fe24a261cd37ddbf2c27c561c35bc7ed8c96d605f5d02c8b1f7c4ba",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-vergaberecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "8b4b82abded00a239ed398e75ee80af603cbfc0d8ae50ad65a5ebcb06709a69f",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-verkehrsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "f02c9cc2fa50e32b5881cbd960df8bc14025ce9c40afa4bb07031975e8bdf559",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-verkehrsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "9b7ef6ab044cf4357aaf2d7cea68f07d649a6eb838827b3b8f436785be18fe12",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-versicherungsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "18c169562411e5a58f17dd819250d37b225928337bef0af845494cdb98c4ffac",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-versicherungsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/09_Fachlicher_Dokumententwurf.docx",
+    "sha256": "46994ca458c714eeda0fa5459625e4edeca2f17b9187b8aea2d668727e017e2a",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-verwaltungsrecht/09_Fachlicher_Dokumententwurf/09_Fachlicher_Dokumententwurf.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/10_Mandats_und_Honorarvermerk.docx",
+    "sha256": "d4870a95c38faac48866eefa98bdb5a340a506f4de826b01f6e97776b6ca16c2",
+    "pages": 1,
+    "canonical_render": "/tmp/si-kanzlei-testakten/render/si-kanzlei-verwaltungsrecht/10_Mandats_und_Honorarvermerk/10_Mandats_und_Honorarvermerk.pdf",
+    "page_inspected": true,
+    "text_matches_final_original": true
+  }
+]

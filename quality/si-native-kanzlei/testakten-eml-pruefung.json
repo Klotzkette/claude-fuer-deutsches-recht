@@ -1,0 +1,674 @@
+[
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/01_Mandatsanfrage.eml",
+    "sha256": "0e35b181a8114800bcc39606f4d2fafd7050b88a224524ed92c21beb0024ec41",
+    "message_id": "<si-2026-001-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "040cfa0e4e3b25194c442905a16ca800f67a31a229dae2ae33157f2e4d3ca8d5",
+    "message_id": "<si-2026-001-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "1befbf8a288c0fa206d74416f8c9ab15461a5cd8394c66ee799cb825db0365de",
+    "message_id": "<si-2026-001-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-agrarrecht/04_Zeitnotiz.eml",
+    "sha256": "7dae49bc52a0f2b71a9a57004d79a02c654b2bef8df5bd5b7e61dff28597af74",
+    "message_id": "<si-2026-001-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/01_Mandatsanfrage.eml",
+    "sha256": "2a67350eea180d878c9b75d85f78b2e2a44466d588b9c11578af48111df228fc",
+    "message_id": "<si-2026-002-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "af6b97a483e4d86d7644699fcde63bec3b75ddb0c85bacd07897e9050aec78e1",
+    "message_id": "<si-2026-002-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "75ebe0b2107b5f01968a8f7ef28a508eb321e7364a91f95ea2054e81c5008889",
+    "message_id": "<si-2026-002-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-arbeitsrecht/04_Zeitnotiz.eml",
+    "sha256": "65834230218f009084d51f66b4bc7890c9c614af7228a1b32b29aaa0cfb6c1dd",
+    "message_id": "<si-2026-002-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/01_Mandatsanfrage.eml",
+    "sha256": "b55199c24b3cc86a26f32262f793cc500cc6e97ecb6764b76845f217791d9603",
+    "message_id": "<si-2026-003-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "af7550911bfb466e01f2192e796ba79c74c92b3886b2bb8fee6d2c51615ea25c",
+    "message_id": "<si-2026-003-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "e3a466407571acf8f6f680f3912b2e6779e8ab5eddef1e534089ea060d17e081",
+    "message_id": "<si-2026-003-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/04_Zeitnotiz.eml",
+    "sha256": "12778b736ef0844455110c173ac4e7ba4dc4ed42dec8e983a37259becfa1e261",
+    "message_id": "<si-2026-003-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/01_Mandatsanfrage.eml",
+    "sha256": "a8142e9e3094e7751f21653c103a51aeae67339c19464d75fd39fadb861aea4d",
+    "message_id": "<si-2026-004-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "8fce0357bcf6191ed05e3c60a650d41c6b0a985e0586ad829e8918d49ac6a6c6",
+    "message_id": "<si-2026-004-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "cf8c466651b147628f3e18223d6034726f93e891b9016d660df2c874b27b54da",
+    "message_id": "<si-2026-004-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-bau-architektenrecht/04_Zeitnotiz.eml",
+    "sha256": "14fe9a88f4c31be7bc155db35f3cfe4b13dcb55a03f103b2caf93a7d36e8886b",
+    "message_id": "<si-2026-004-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/01_Mandatsanfrage.eml",
+    "sha256": "8717fa6d62a646afa9f4530957d1139215987ddc2a0f7270d086ed8b8aec25de",
+    "message_id": "<si-2026-005-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "3e82ed15450aa1af7db76cb47ca6ba19d3e15cd39102cfbfade6e773c21472cd",
+    "message_id": "<si-2026-005-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "553471b4566beba1d5b07a771edab78f40327cf8b0cc57789b03080e7d337da3",
+    "message_id": "<si-2026-005-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-erbrecht/04_Zeitnotiz.eml",
+    "sha256": "8e59102496eae8cf417da36052a738d2ac8fb180bace4ffa46aff03899213929",
+    "message_id": "<si-2026-005-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/01_Mandatsanfrage.eml",
+    "sha256": "cf1c1eaa34f20d53307c78b05fa02a3fd465aa0015f1571f02b43cd58e984b4c",
+    "message_id": "<si-2026-006-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "fc02ef1e144a00321945441ea1f30f7ffda370260559fdcf98c7a85fae1bceb3",
+    "message_id": "<si-2026-006-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "5c3c0abe57494d3638b38fa1a480ca3b5b17cc9ee79d9ba799a84d344dd44157",
+    "message_id": "<si-2026-006-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-familienrecht/04_Zeitnotiz.eml",
+    "sha256": "e9295efef30a3e64e521d54200caa57d6f2623cdd3e50757876349ee6fd81dad",
+    "message_id": "<si-2026-006-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/01_Mandatsanfrage.eml",
+    "sha256": "35ac81c59b686daca9dfd33bb85ca8c88f7433523664ea94582470893910a206",
+    "message_id": "<si-2026-007-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "5a4db0a6c5df7b45212c103c595a3fa515e447a843f8c757b0c1791e51e9d795",
+    "message_id": "<si-2026-007-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "b816d2844d5a7873773a68a955c0ad62ad3830edcc6230f64d9e60ce61c81032",
+    "message_id": "<si-2026-007-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/04_Zeitnotiz.eml",
+    "sha256": "25ca34fb5ec559aa8656008b1111b979a05333b6f8860a7cc3e1f23e644bb5e4",
+    "message_id": "<si-2026-007-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/01_Mandatsanfrage.eml",
+    "sha256": "5fe636fe1c3dce2bbcc5db82e4424dfdf2453e0a2f45624fe28fcf699d5f7b02",
+    "message_id": "<si-2026-008-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "e414cd662bf389996874affa84af974e7e3bed3eac0ed5ee1d887af569d7a4e5",
+    "message_id": "<si-2026-008-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "7fa0aa3bd6681629dcfef4a9b7be563035872c9c362f599ac28c01a1624524a5",
+    "message_id": "<si-2026-008-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/04_Zeitnotiz.eml",
+    "sha256": "d0b1b25121b27639e84c4578ba84516af992d36266e4ab98dc2d31ce429a0429",
+    "message_id": "<si-2026-008-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/01_Mandatsanfrage.eml",
+    "sha256": "3b3f805e98e2a7323d2472d34339d8f6f6b77d2371b52cacfaa59daef4fd2d23",
+    "message_id": "<si-2026-009-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "02e69388fa6e677b33bb0d8d7a3791a6e683e561326ef85015e50719a4f25ee9",
+    "message_id": "<si-2026-009-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "0343cd0656f30447cab3c43e42a659343214ed9c7d7b2bdf5920742053dd24cb",
+    "message_id": "<si-2026-009-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/04_Zeitnotiz.eml",
+    "sha256": "6fb14444af18e4fbf3bbe1025f7d70ccf8e307adeabb85eb23dc959851d0f22e",
+    "message_id": "<si-2026-009-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/01_Mandatsanfrage.eml",
+    "sha256": "5ad49d17cca2ec35182d0dc131d6eab103aad1d2d808bc66cd1b21ce937f200a",
+    "message_id": "<si-2026-010-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "dd1887a50d24bb9ddea274e4332f1c8ff472231716bea47f72a4f2ea3dbd6e76",
+    "message_id": "<si-2026-010-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "2a0a7517a6c1ab70b8cb9b48e495a7a9a335106ad417243c9227083e485f3035",
+    "message_id": "<si-2026-010-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/04_Zeitnotiz.eml",
+    "sha256": "2c62f6587d3d31f64c56f3beff6901ea115087ae0c78aba956099a4e987270e5",
+    "message_id": "<si-2026-010-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/01_Mandatsanfrage.eml",
+    "sha256": "6c51d01c1be0e44b3c4c4b9d31652a73d0ec357f281c71a107f014eb18fb40ef",
+    "message_id": "<si-2026-011-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "6a1039a790580c8f03a2c14241fa41d032364d3f715a6d1e2ab900fa1c8388c4",
+    "message_id": "<si-2026-011-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "947601adae119ead563f07883b08b02406e4ce5169c5b640d5d740cd7df69bce",
+    "message_id": "<si-2026-011-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-it-recht/04_Zeitnotiz.eml",
+    "sha256": "a71912b314f47c9eb8d076dc8143d477b2e197730ed23433d240626e66e43b06",
+    "message_id": "<si-2026-011-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/01_Mandatsanfrage.eml",
+    "sha256": "911d4f051ee3b436c91f4a487c2712ae2df5ced9db727d2c5386ca5b76ab5e92",
+    "message_id": "<si-2026-012-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "365a068c43eed8456fbf3a466ce828dd8386dd52b5975f92119a5e4050b247e9",
+    "message_id": "<si-2026-012-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "7052819af6433b1d4b31320c23e8e0f619bf7e88fabf0028bcf74b7d9dcc5cea",
+    "message_id": "<si-2026-012-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-medizinrecht/04_Zeitnotiz.eml",
+    "sha256": "81a0587fdae61e4a9ab002bcf2f2e958687690e77eed834bbac1bec93669e2b0",
+    "message_id": "<si-2026-012-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/01_Mandatsanfrage.eml",
+    "sha256": "2e5f4cd5b0cf52e213c0f616b93877441212a111e755fde589af9c0bfbd57c76",
+    "message_id": "<si-2026-013-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "9967e70310b65096c41f1f5c38da1582e230f601bd224d0bc6b99906a5ef5fe4",
+    "message_id": "<si-2026-013-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "ebf6fb425416dd11de70141fe1bfbcc621379f745fb961e3bd6ec0325c3523a5",
+    "message_id": "<si-2026-013-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/04_Zeitnotiz.eml",
+    "sha256": "ad94ca80dd1f80d20aa2b975f264f4994d88c84b5cc67c23fd7c9993764357f9",
+    "message_id": "<si-2026-013-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/01_Mandatsanfrage.eml",
+    "sha256": "dddffec36c80fceb794e4eb5daad9b453ddc6695c374d201fa88b9b56dae4034",
+    "message_id": "<si-2026-014-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "30b712de5e5174515191630ba5ac14e71cb7aa4eaae263da894a6a0bc9f0af15",
+    "message_id": "<si-2026-014-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "77911a25a1e93de51722aa6ab857f39674c527a17efa6c19f4f1c1434dfd1c4c",
+    "message_id": "<si-2026-014-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-migrationsrecht/04_Zeitnotiz.eml",
+    "sha256": "3e41f25d09587cf0fdd75008558b41965078e76f0f3f2718a9debb2b3a430ffc",
+    "message_id": "<si-2026-014-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/01_Mandatsanfrage.eml",
+    "sha256": "6802498933790a96291cb65a42b9013445d49767f138d55b98386bd240e05e65",
+    "message_id": "<si-2026-015-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "562c9c9efa6a6254b195babd1793abcb177cd516bbe8267a1bff29ef630f1128",
+    "message_id": "<si-2026-015-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "5d6dc6a461e8970ca80387ffd66553b9b0bb8a08e599e6928d040a0f1402ea81",
+    "message_id": "<si-2026-015-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sozialrecht/04_Zeitnotiz.eml",
+    "sha256": "f7daeed714367ce86ce375d1f486c6d91c4fb3dd66187b005ec1a7eb18a91a39",
+    "message_id": "<si-2026-015-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/01_Mandatsanfrage.eml",
+    "sha256": "50e5fa8986dd359479fb59cda647a6ea9fdada4958d2a3e818290224768e5df2",
+    "message_id": "<si-2026-016-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "96a9880e458175fb0498e37a1df0ae92f7d5a23eea9134c6fa4e4b54a82616f4",
+    "message_id": "<si-2026-016-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "bea231c41b63348fb72b4567ca5d0ec53a055b5f5278f37778f2221780ea18b7",
+    "message_id": "<si-2026-016-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-sportrecht/04_Zeitnotiz.eml",
+    "sha256": "65d5b7a477007e0f4c1398dd4b954994608d49d933c66e0092be0850075deda8",
+    "message_id": "<si-2026-016-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/01_Mandatsanfrage.eml",
+    "sha256": "dbdb376a7a1859b7bd2dd474864269849bb3a7de985913b1207ede9e16764d4e",
+    "message_id": "<si-2026-017-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "aebd2a680970582ec8871ed7916ee243201f1e0b05710e58281fffed6c8cdfc7",
+    "message_id": "<si-2026-017-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "bb2d60a8e0657f0424db5d199e0591e4de1a999d765a813c99a10b87221e1bdf",
+    "message_id": "<si-2026-017-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-steuerrecht/04_Zeitnotiz.eml",
+    "sha256": "a0c37987e3a19d9a0b6e5340833111e5dcafbee798178f9a499d99e247f51db7",
+    "message_id": "<si-2026-017-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/01_Mandatsanfrage.eml",
+    "sha256": "7c50490bdeb2280b517fee1a36781e5c75e73ebdf5902272b944b112db2fe02a",
+    "message_id": "<si-2026-018-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "2c8007085688ac7b4551a055cc873d1b9554a1c9aa079205d1b7ab7f6781829b",
+    "message_id": "<si-2026-018-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "f41604b98d37b655595fac04a1348cb09e980201786a0ebc408b5fcb288073c6",
+    "message_id": "<si-2026-018-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-strafrecht/04_Zeitnotiz.eml",
+    "sha256": "1b95f3189e21b7b87f63ec51d311707463b248d7dff45ad9d3081cbab6e7b041",
+    "message_id": "<si-2026-018-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/01_Mandatsanfrage.eml",
+    "sha256": "0af908e8dd054c2c7c6e57876d793fbebb76139d9be31e92e09b7e545e8ba9ee",
+    "message_id": "<si-2026-019-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "a3a4d68101b70d0fd67ceb29654aecc197caf5ef1a8a4387aa2b12baa298028c",
+    "message_id": "<si-2026-019-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "a9364205b134c981b4b06ebafae248200f65107f98f57a52a2cada3ade9d4025",
+    "message_id": "<si-2026-019-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-transport-speditionsrecht/04_Zeitnotiz.eml",
+    "sha256": "d694190526a534f1305dff7af6917b39bce462a4914e2fdaa88ef7b1b234dc8b",
+    "message_id": "<si-2026-019-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/01_Mandatsanfrage.eml",
+    "sha256": "e62932dfe2ef342c129e4e1b7a925a4844477ba85403c32acc2315898be695ee",
+    "message_id": "<si-2026-020-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "1cea7461a5e7e8762c48dec41b5b7942de4c95a06cbcbffe504b61159f2dd25a",
+    "message_id": "<si-2026-020-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "97bc08efad517739bccd7f338837f28cfcd2a816cde4e99fe8b4ea8fd980e54c",
+    "message_id": "<si-2026-020-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-urheber-medienrecht/04_Zeitnotiz.eml",
+    "sha256": "316270b9066d577b0f18705aa4d6205e54ed819fa746a3a2f48657731f7bc4ce",
+    "message_id": "<si-2026-020-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/01_Mandatsanfrage.eml",
+    "sha256": "a0c18741006e6b5429d449844b924d3934b9ff83dc95890409b59d3397a253bd",
+    "message_id": "<si-2026-021-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "b2cade438e05bdc812e8955c70ee73bbe3c7898c6ec8a02a3037fc3a1a773993",
+    "message_id": "<si-2026-021-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "3f1920cb721485740ea09d7f0deeffe035b928d5d0c26d30e7bc374af288d22d",
+    "message_id": "<si-2026-021-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-vergaberecht/04_Zeitnotiz.eml",
+    "sha256": "2fafc2e4c812f1704e11e42f25fe8ee00148d9814342931aa769f11c943ef0da",
+    "message_id": "<si-2026-021-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/01_Mandatsanfrage.eml",
+    "sha256": "a60c60ea6ad034f35dd24daa35db31b9bd87510cf59c243e6e3c36aecac5dad7",
+    "message_id": "<si-2026-022-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "4efa2a9618728433311aa4b24ccf6916bf2f9a2df5efb7e5706c33ed968471b8",
+    "message_id": "<si-2026-022-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "68cd38b1ec7e12e6aef13fd9e12135d02f653e61b38528b7f64cc7cb83a8b6f9",
+    "message_id": "<si-2026-022-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verkehrsrecht/04_Zeitnotiz.eml",
+    "sha256": "0c2dc1668098406268bd83fefbfabff03fe1415db2ed8b540a6058664a710e77",
+    "message_id": "<si-2026-022-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/01_Mandatsanfrage.eml",
+    "sha256": "57664d85f6f6aa7d970a00249b57e2d112e1fdcec7fe5c1951c0f3b31e563377",
+    "message_id": "<si-2026-023-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "e9c793fc4df018989a74024a82c9656f28ad78c508a078f696d82a8be35a18fd",
+    "message_id": "<si-2026-023-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "14b588ad7f2a465269d04752fbd40027aa05cc4f41cefe47948c1e173201e23f",
+    "message_id": "<si-2026-023-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-versicherungsrecht/04_Zeitnotiz.eml",
+    "sha256": "6d48edee7ad87120c0e23c9df52757117b38b4bef947786890dfc4d3520bdf83",
+    "message_id": "<si-2026-023-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/01_Mandatsanfrage.eml",
+    "sha256": "5ff8571b5b053d89ae81963cd4a5b7cfc3811ea3b974959de876753447731bc9",
+    "message_id": "<si-2026-024-01@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/02_Rueckfragen_und_Honorar.eml",
+    "sha256": "7c6f677ad8ab3d7a0ed450cd0d01b3e748d3613bfc10c6c2a4168fd1d2e4d6f7",
+    "message_id": "<si-2026-024-02@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/03_Gegenseite_oder_Fachstelle.eml",
+    "sha256": "7e6864d8a9c15506a1f455366ab0cc54acb63eedc7127a1e282ae053564a2db6",
+    "message_id": "<si-2026-024-03@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  },
+  {
+    "source": "testakten/si-kanzlei-verwaltungsrecht/04_Zeitnotiz.eml",
+    "sha256": "9fa3f1427fc9a2ee898a853285c687d702fa335b553f02e97df3e2c92187301a",
+    "message_id": "<si-2026-024-04@blum-rapp.example>",
+    "utf8_text": true,
+    "headers_valid": true
+  }
+]

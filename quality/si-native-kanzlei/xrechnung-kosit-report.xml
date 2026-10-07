@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rep:report xmlns:html="http://www.w3.org/1999/xhtml" xmlns:in="http://www.xoev.de/de/validator/framework/1/createreportinput" xmlns:rep="http://www.xoev.de/de/validator/varl/1" xmlns:s="http://www.xoev.de/de/validator/framework/1/scenarios" xmlns:svrl="http://purl.oclc.org/dsdl/svrl" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" varlVersion="1.0.0" valid="true"><rep:engine><rep:name>KoSIT Validator 1.6.3</rep:name></rep:engine><rep:timestamp>2026-10-07T14:10:42.619+02:00</rep:timestamp><rep:documentIdentification><rep:documentHash><rep:hashAlgorithm>SHA-256</rep:hashAlgorithm><rep:hashValue>c0GQKaAao1gOaxdKFTGSE6nkwl7n8GukciyQsz+PaYg=</rep:hashValue></rep:documentHash><rep:documentReference>/Users/klotzkette/Desktop/Codex%20Projects/legal-work/si-native-kanzlei-20261007/si-native-kanzlei/assets/xrechnung-beispiel.xml</rep:documentReference></rep:documentIdentification><rep:scenarioMatched><s:scenario><s:name>EN16931 XRechnung (UBL Invoice)</s:name><s:description><s:p>Validates UBL Invoice in version 2.1</s:p><s:p>Uses UBL Invoice 2.1 XML Schema,                 Schematron rules from EN16931:2017, and XRechnung                 3.0.2 </s:p><s:p>Download of UBL XML Schema on 2026-09-02 from                 https://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.zip</s:p><s:p>Download of UBL Schematron rules on 2026-09-02 from                 https://github.com/ConnectingEurope/eInvoicing-EN16931/releases/download/validation-1.3.16/en16931-ubl-1.3.16.zip</s:p><s:p>Download of XRechnung Schematron rules on 2026-09-02 from                 https://projekte.kosit.org/api/v4/projects/356/packages/maven/de/xeinkauf/xrechnung-3.0.2-schematron/2.6.0/xrechnung-3.0.2-schematron-2.6.0.zip</s:p></s:description><s:namespace prefix="cbc">urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2</s:namespace><s:namespace prefix="invoice">urn:oasis:names:specification:ubl:schema:xsd:Invoice-2</s:namespace><s:namespace prefix="rep">http://www.xoev.de/de/validator/varl/1</s:namespace><s:match>exists(/invoice:Invoice/cbc:CustomizationID[ . = 'urn:cen.eu:en16931:2017#compliant#urn:xeinkauf.de:kosit:xrechnung_3.0'])</s:match><s:validateWithXmlSchema><s:resource><s:name>XML Schema for UBL 2.1 Invoice</s:name><s:location>resources/ubl/2.1/xsd/maindoc/UBL-Invoice-2.1.xsd</s:location></s:resource></s:validateWithXmlSchema><s:validateWithSchematron><s:resource><s:name>Schematron rules for EN16931 (UBL)</s:name><s:location>resources/ubl/2.1/xsl/EN16931-UBL-validation.xsl</s:location></s:resource></s:validateWithSchematron><s:validateWithSchematron><s:resource><s:name>Schematron rules for Invoice - CIUS XRechnung (UBL)</s:name><s:location>resources/xrechnung/3.0.2/xsl/XRechnung-UBL-validation.xsl</s:location></s:resource></s:validateWithSchematron><s:createReport><s:resource><s:name>Validation report for XRechnung</s:name><s:location>resources/xrechnung-report.xsl</s:location></s:resource><s:customLevel level="warning">BR-CL-23</s:customLevel><s:customLevel level="warning">BR-CL-21</s:customLevel><s:customLevel level="error">UBL-CR-646</s:customLevel></s:createReport><s:acceptMatch>/rep:report/rep:assessment[1]/rep:accept[1]</s:acceptMatch></s:scenario><rep:documentData xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100" xmlns:ubl="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100"><seller>Blum und Rapp Rechtsanwälte PartG (fiktiv)</seller><id>ENTWURF-SI-2026-001</id><issueDate>2026-10-07</issueDate></rep:documentData><rep:validationStepResult id="val-xsd" valid="true"><s:resource><s:name>XML Schema for UBL 2.1 Invoice</s:name><s:location>resources/ubl/2.1/xsd/maindoc/UBL-Invoice-2.1.xsd</s:location></s:resource></rep:validationStepResult><rep:validationStepResult id="val-sch.1" valid="true"><s:resource><s:name>Schematron rules for EN16931 (UBL)</s:name><s:location>resources/ubl/2.1/xsl/EN16931-UBL-validation.xsl</s:location></s:resource></rep:validationStepResult><rep:validationStepResult id="val-sch.2" valid="true"><s:resource><s:name>Schematron rules for Invoice - CIUS XRechnung (UBL)</s:name><s:location>resources/xrechnung/3.0.2/xsl/XRechnung-UBL-validation.xsl</s:location></s:resource></rep:validationStepResult><rep:validationStepResult id="val-xml" valid="true"/></rep:scenarioMatched><rep:assessment><rep:accept><rep:explanation><html xmlns="http://www.w3.org/1999/xhtml" data-report-type="report"><head><title>Prüfbericht</title><meta charset="utf-8"/><style>
+        body {
+          font-family: Calibri;
+          width: 230mm;
+        }
+
+        .metadata dt {
+          float: left;
+          width: 230px;
+          clear: left;
+        }
+
+        .metadata dd {
+          margin-left: 250px;
+        }
+
+        table {
+          border-collapse: collapse;
+          width: 100%;
+        }
+
+        table.tbl-errors {
+          font-size: smaller;
+        }
+
+        table.document {
+          font-size: smaller;
+        }
+
+        table.document td {
+          vertical-align: top;
+        }
+
+        .tbl-errors td {
+          border: 1px solid lightgray;
+          padding: 2px;
+          vertical-align: top;
+        }
+
+        thead {
+          font-weight: bold;
+          background-color: #f0f0f0;
+          padding-top: 6pt;
+          padding-bottom: 2pt;
+        }
+
+        .tbl-meta td {
+          padding-right: 1em;
+        }
+
+        td.pos {
+          padding-left: 3pt;
+          width: 5%;
+          color: gray
+        }
+
+        td.element {
+          width: 95%;
+          word-wrap: break-word;
+        }
+
+
+        td.element:before {
+          content: attr(title);
+          color: gray;
+        }
+
+
+        div.attribute {
+          display: inline;
+          font-style: italic;
+          color: gray;
+        }
+        div.attribute:before {
+          content: attr(title) '=';
+        }
+        div.val {
+          display: inline;
+          font-weight: bold;
+        }
+
+        td.level1 {
+          padding-left: 2mm;
+        }
+
+        td.level2 {
+          padding-left: 5mm;
+        }
+
+        td.level3 {
+          padding-left: 10mm;
+        }
+
+        td.level4 {
+          padding-left: 15mm;
+        }
+
+        td.level5 {
+          padding-left: 20mm;
+        }
+        td.level6 {
+          padding-left: 25mm;
+        }
+
+        tr {
+          vertical-align: bottom;
+          border-bottom: 1px solid #c0c0c0;
+        }
+
+        .error {
+          color: red;
+        }
+
+        .warning {
+        }
+
+        p.important {
+          font-weight: bold;
+          text-align: left;
+          background-color: #e0e0e0;
+          padding: 3pt;
+        }
+
+        td.right {
+          text-align: right
+        }</style></head><body><h1>Prüfbericht</h1><div class="metadata"><p class="important">Angaben zum geprüften Dokument</p><dl><dt>Referenz:</dt><dd>/Users/klotzkette/Desktop/Codex%20Projects/legal-work/si-native-kanzlei-20261007/si-native-kanzlei/assets/xrechnung-beispiel.xml</dd><dt>Zeitpunkt der Prüfung:</dt><dd>7.10.2026 14:10:42</dd><dt>Erkannter Dokumenttyp:</dt><dd>EN16931 XRechnung (UBL Invoice)</dd></dl><dl xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ram="urn:un:unece:uncefact:data:standard:ReusableAggregateBusinessInformationEntity:100" xmlns:rsm="urn:un:unece:uncefact:data:standard:CrossIndustryInvoice:100" xmlns:ubl="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:100"><dt>Erkannter Rechnungssteller:</dt><dd>Blum und Rapp Rechtsanwälte PartG (fiktiv)</dd><dt>Erkannte Rechnungsnummer:</dt><dd>ENTWURF-SI-2026-001</dd><dt>Erkanntes Rechnungsdatum:</dt><dd>2026-10-07</dd></dl></div><p class="important"><b>Konformitätsprüfung: </b>Das geprüfte Dokument enthält weder Fehler noch Warnungen. Es ist konform zu den formalen Vorgaben.</p><p class="important">Bewertung: Es wird empfohlen das Dokument anzunehmen und weiter zu verarbeiten.</p><p class="important">Inhalt des Rechnungsdokuments:</p><table class="document"><tr class="row" id="0001"><td class="pos">0001</td><td class="element level1" title="Invoice"><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+  </div><div class="val">
+</div></td></tr><tr class="row" id="0002"><td class="pos">0002</td><td class="element level2" title="CustomizationID"><div class="val">urn:cen.eu:en16931:2017#compliant#urn:xeinkauf.de:kosit:xrechnung_3.0</div></td></tr><tr class="row" id="0003"><td class="pos">0003</td><td class="element level2" title="ProfileID"><div class="val">urn:fdc:peppol.eu:2017:poacc:billing:01:1.0</div></td></tr><tr class="row" id="0004"><td class="pos">0004</td><td class="element level2" title="ID"><div class="val">ENTWURF-SI-2026-001</div></td></tr><tr class="row" id="0005"><td class="pos">0005</td><td class="element level2" title="IssueDate"><div class="val">2026-10-07</div></td></tr><tr class="row" id="0006"><td class="pos">0006</td><td class="element level2" title="DueDate"><div class="val">2026-10-21</div></td></tr><tr class="row" id="0007"><td class="pos">0007</td><td class="element level2" title="InvoiceTypeCode"><div class="val">380</div></td></tr><tr class="row" id="0008"><td class="pos">0008</td><td class="element level2" title="Note"><div class="val">ENTWURF. Nicht versenden. Rechnungsdaten, Fälligkeit und rechtliche Grundlage noch abschließend prüfen.</div></td></tr><tr class="row" id="0009"><td class="pos">0009</td><td class="element level2" title="DocumentCurrencyCode"><div class="val">EUR</div></td></tr><tr class="row" id="0010"><td class="pos">0010</td><td class="element level2" title="BuyerReference"><div class="val">SI-2026-001</div></td></tr><tr class="row" id="0011"><td class="pos">0011</td><td class="element level2" title="InvoicePeriod"><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0012"><td class="pos">0012</td><td class="element level3" title="StartDate"><div class="val">2026-10-06</div></td></tr><tr class="row" id="0013"><td class="pos">0013</td><td class="element level3" title="EndDate"><div class="val">2026-10-07</div></td></tr><tr class="row" id="0014"><td class="pos">0014</td><td class="element level2" title="AccountingSupplierParty"><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0015"><td class="pos">0015</td><td class="element level3" title="Party"><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0016"><td class="pos">0016</td><td class="element level4" title="EndpointID"><div class="val">rechnung@blum-rapp.example</div><div class="attribute" title="schemeID">EM</div></td></tr><tr class="row" id="0017"><td class="pos">0017</td><td class="element level4" title="PartyName"><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0018"><td class="pos">0018</td><td class="element level5" title="Name"><div class="val">Blum und Rapp Rechtsanwälte PartG (fiktiv)</div></td></tr><tr class="row" id="0019"><td class="pos">0019</td><td class="element level4" title="PostalAddress"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0020"><td class="pos">0020</td><td class="element level5" title="StreetName"><div class="val">Beispielgasse 7</div></td></tr><tr class="row" id="0021"><td class="pos">0021</td><td class="element level5" title="CityName"><div class="val">Berlin</div></td></tr><tr class="row" id="0022"><td class="pos">0022</td><td class="element level5" title="PostalZone"><div class="val">10115</div></td></tr><tr class="row" id="0023"><td class="pos">0023</td><td class="element level5" title="Country"><div class="val">
+          </div><div class="val">
+        </div></td></tr><tr class="row" id="0024"><td class="pos">0024</td><td class="element level6" title="IdentificationCode"><div class="val">DE</div></td></tr><tr class="row" id="0025"><td class="pos">0025</td><td class="element level4" title="PartyTaxScheme"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0026"><td class="pos">0026</td><td class="element level5" title="CompanyID"><div class="val">DE000000000</div></td></tr><tr class="row" id="0027"><td class="pos">0027</td><td class="element level5" title="TaxScheme"><div class="val">
+          </div><div class="val">
+        </div></td></tr><tr class="row" id="0028"><td class="pos">0028</td><td class="element level6" title="ID"><div class="val">VAT</div></td></tr><tr class="row" id="0029"><td class="pos">0029</td><td class="element level4" title="PartyLegalEntity"><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0030"><td class="pos">0030</td><td class="element level5" title="RegistrationName"><div class="val">Blum und Rapp Rechtsanwälte PartG (fiktiv)</div></td></tr><tr class="row" id="0031"><td class="pos">0031</td><td class="element level4" title="Contact"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0032"><td class="pos">0032</td><td class="element level5" title="Name"><div class="val">Dr. Frieda Blum</div></td></tr><tr class="row" id="0033"><td class="pos">0033</td><td class="element level5" title="Telephone"><div class="val">+49 30 0000000</div></td></tr><tr class="row" id="0034"><td class="pos">0034</td><td class="element level5" title="ElectronicMail"><div class="val">rechnung@blum-rapp.example</div></td></tr><tr class="row" id="0035"><td class="pos">0035</td><td class="element level2" title="AccountingCustomerParty"><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0036"><td class="pos">0036</td><td class="element level3" title="Party"><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0037"><td class="pos">0037</td><td class="element level4" title="EndpointID"><div class="val">buchhaltung@apfelwirbel.example</div><div class="attribute" title="schemeID">EM</div></td></tr><tr class="row" id="0038"><td class="pos">0038</td><td class="element level4" title="PartyName"><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0039"><td class="pos">0039</td><td class="element level5" title="Name"><div class="val">Hof Apfelwirbel GbR (fiktiv)</div></td></tr><tr class="row" id="0040"><td class="pos">0040</td><td class="element level4" title="PostalAddress"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0041"><td class="pos">0041</td><td class="element level5" title="StreetName"><div class="val">Übungsweg 4</div></td></tr><tr class="row" id="0042"><td class="pos">0042</td><td class="element level5" title="CityName"><div class="val">Werder (Havel)</div></td></tr><tr class="row" id="0043"><td class="pos">0043</td><td class="element level5" title="PostalZone"><div class="val">14542</div></td></tr><tr class="row" id="0044"><td class="pos">0044</td><td class="element level5" title="Country"><div class="val">
+          </div><div class="val">
+        </div></td></tr><tr class="row" id="0045"><td class="pos">0045</td><td class="element level6" title="IdentificationCode"><div class="val">DE</div></td></tr><tr class="row" id="0046"><td class="pos">0046</td><td class="element level4" title="PartyLegalEntity"><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0047"><td class="pos">0047</td><td class="element level5" title="RegistrationName"><div class="val">Hof Apfelwirbel GbR (fiktiv)</div></td></tr><tr class="row" id="0048"><td class="pos">0048</td><td class="element level2" title="PaymentMeans"><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0049"><td class="pos">0049</td><td class="element level3" title="PaymentMeansCode"><div class="val">58</div></td></tr><tr class="row" id="0050"><td class="pos">0050</td><td class="element level3" title="PayeeFinancialAccount"><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0051"><td class="pos">0051</td><td class="element level4" title="ID"><div class="val">DE79000000001234567890</div></td></tr><tr class="row" id="0052"><td class="pos">0052</td><td class="element level2" title="PaymentTerms"><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0053"><td class="pos">0053</td><td class="element level3" title="Note"><div class="val">Zahlbar bis 2026-10-21 ohne Abzug.</div></td></tr><tr class="row" id="0054"><td class="pos">0054</td><td class="element level2" title="TaxTotal"><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0055"><td class="pos">0055</td><td class="element level3" title="TaxAmount"><div class="val">39.52</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0056"><td class="pos">0056</td><td class="element level3" title="TaxSubtotal"><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0057"><td class="pos">0057</td><td class="element level4" title="TaxableAmount"><div class="val">208.00</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0058"><td class="pos">0058</td><td class="element level4" title="TaxAmount"><div class="val">39.52</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0059"><td class="pos">0059</td><td class="element level4" title="TaxCategory"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0060"><td class="pos">0060</td><td class="element level5" title="ID"><div class="val">S</div></td></tr><tr class="row" id="0061"><td class="pos">0061</td><td class="element level5" title="Percent"><div class="val">19</div></td></tr><tr class="row" id="0062"><td class="pos">0062</td><td class="element level5" title="TaxScheme"><div class="val">
+          </div><div class="val">
+        </div></td></tr><tr class="row" id="0063"><td class="pos">0063</td><td class="element level6" title="ID"><div class="val">VAT</div></td></tr><tr class="row" id="0064"><td class="pos">0064</td><td class="element level2" title="LegalMonetaryTotal"><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0065"><td class="pos">0065</td><td class="element level3" title="LineExtensionAmount"><div class="val">208.00</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0066"><td class="pos">0066</td><td class="element level3" title="TaxExclusiveAmount"><div class="val">208.00</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0067"><td class="pos">0067</td><td class="element level3" title="TaxInclusiveAmount"><div class="val">247.52</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0068"><td class="pos">0068</td><td class="element level3" title="PayableAmount"><div class="val">247.52</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0069"><td class="pos">0069</td><td class="element level2" title="InvoiceLine"><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+    </div><div class="val">
+  </div></td></tr><tr class="row" id="0070"><td class="pos">0070</td><td class="element level3" title="ID"><div class="val">1</div></td></tr><tr class="row" id="0071"><td class="pos">0071</td><td class="element level3" title="InvoicedQuantity"><div class="val">52</div><div class="attribute" title="unitCode">MIN</div></td></tr><tr class="row" id="0072"><td class="pos">0072</td><td class="element level3" title="LineExtensionAmount"><div class="val">208.00</div><div class="attribute" title="currencyID">EUR</div></td></tr><tr class="row" id="0073"><td class="pos">0073</td><td class="element level3" title="Item"><div class="val">
+      </div><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0074"><td class="pos">0074</td><td class="element level4" title="Name"><div class="val">Prüfung der Pachtunterlagen und Ausarbeitung des Aufforderungsschreibens; Honorarvereinbarung HV-1</div></td></tr><tr class="row" id="0075"><td class="pos">0075</td><td class="element level4" title="ClassifiedTaxCategory"><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+        </div><div class="val">
+      </div></td></tr><tr class="row" id="0076"><td class="pos">0076</td><td class="element level5" title="ID"><div class="val">S</div></td></tr><tr class="row" id="0077"><td class="pos">0077</td><td class="element level5" title="Percent"><div class="val">19</div></td></tr><tr class="row" id="0078"><td class="pos">0078</td><td class="element level5" title="TaxScheme"><div class="val">
+          </div><div class="val">
+        </div></td></tr><tr class="row" id="0079"><td class="pos">0079</td><td class="element level6" title="ID"><div class="val">VAT</div></td></tr><tr class="row" id="0080"><td class="pos">0080</td><td class="element level3" title="Price"><div class="val">
+      </div><div class="val">
+    </div></td></tr><tr class="row" id="0081"><td class="pos">0081</td><td class="element level4" title="PriceAmount"><div class="val">4.00</div><div class="attribute" title="currencyID">EUR</div></td></tr></table><p class="info">Dieser Prüfbericht wurde erstellt mit KoSIT Validator 1.6.3.</p></body></html></rep:explanation></rep:accept></rep:assessment></rep:report>

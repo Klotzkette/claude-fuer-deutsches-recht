@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-07",
+  "validator": "KoSIT Validator 1.6.3",
+  "configuration": "XRechnung 3.0.2, Konfigurationsdatum 2026-09-02, Bundle 2026-08-31",
+  "official_bundle_url": "https://projekte.kosit.org/api/v4/projects/356/packages/maven/de/xeinkauf/xrechnung-3.0.2-bundle/2026-08-31/xrechnung-3.0.2-bundle-2026-08-31.zip",
+  "accepted": true,
+  "steps": [
+    {
+      "id": "val-xsd",
+      "valid": "true"
+    },
+    {
+      "id": "val-sch.1",
+      "valid": "true"
+    },
+    {
+      "id": "val-sch.2",
+      "valid": "true"
+    },
+    {
+      "id": "val-xml",
+      "valid": "true"
+    }
+  ],
+  "example_sha256": "73419029a01aa3580e6b174a15319213a9e4c25ee7f06ba4722c90b33f8f6988",
+  "report_sha256": "597da2952789697d951d013be9152ea789dba2e1499f4a8139911e8d636bb4b5",
+  "scope": "Ein fiktiver Entwurf: EUR, deutsche Parteien, Regelsteuer19%, keine Vorauszahlungen. Keine Aussage über realen Rechnungsversand, materielle Fälligkeit oder andere Steuerfälle.",
+  "original_report_sha256": "9a29fa10dd0cb2bcced8302f61707695863e840340083800ccaf297423a068f9",
+  "report_note": "Nur nachgestellte Leerzeichen für Repository-Darstellung entfernt; ursprünglicher Prüfbericht separat gehasht."
+}

@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "si-native-kanzlei": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "bauwirtschaft-anfaenger": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],

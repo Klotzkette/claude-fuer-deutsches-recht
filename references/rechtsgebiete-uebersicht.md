@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 284 Plugins, 22826 Skills.
+Stand v445.33.1: 285 Plugins, 22842 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -236,6 +236,7 @@ Stand v445.33.1: 284 Plugins, 22826 Skills.
 | [`sektorenvergabe-workflow`](../sektorenvergabe-workflow/) | Sektorenvergabe aus Auftraggebersicht: fünf Skills für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis über Bekanntmachung, Rügen und Wertung bis Zuschlag und Nachprüfung. | `445.33.1` | 11 |
 | [`selbstvertreter-amtsgericht`](../selbstvertreter-amtsgericht/) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, Paragraf23 GVG/Paragraf511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. | `445.33.1` | 90 |
 | [`selbstvertreter-sozialgericht`](../selbstvertreter-sozialgericht/) | Selbstvertretung vor Sozialbehörden Krankenkassen Pflegekassen BG Versorgungsamt Jobcenter Rente Familienkasse und Sozialgericht: Anhörung Akteneinsicht Mitwirkung Widerspruch Klage Eilantrag Pflegegrad Hilfsmittel Krankengeld EM-Rente GdB Bürgergeld Wohngeld Eingliederungshilfe. | `445.33.1` | 139 |
+| [`si-native-kanzlei`](../si-native-kanzlei/) | SI-native Kanzlei: sechzehn Skills verbinden Mandatsannahme, Honorar, Zeiterfassung, Vertrags- und Schriftsatzarbeit, beA sowie Rechnungsentwürfe und E-Rechnung. Mit 24 kurzen Fachanwaltsakten. | `445.33.3` | 16 |
 | [`softwarerecht-de-eu-us`](../softwarerecht-de-eu-us/) | Softwarerecht Deutschland/EU/International/USA: Entwicklung, Lizenzen, SaaS, Open Source, Arbeitnehmer/Freelancer, Softwarepatente, AI-Code und Streit. | `445.33.1` | 106 |
 | [`solo-selbststaendige-praxis`](../solo-selbststaendige-praxis/) | Praxisplugin für Solo-Selbstständige in Deutschland: Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltag ohne juristische Überforderung. | `445.33.1` | 202 |
 | [`sozialrecht-fuer-laien`](../sozialrecht-fuer-laien/) | Sozialrecht für den eigenen Fall: Briefe verstehen, Tatsachen klären, Fristen prüfen und Anträge, Widersprüche oder Gerichtsschreiben vorbereiten. Zehn kurze Arbeitswege in einfacher Sprache mit klaren Grenzen und Wegen zu persönlicher Hilfe. | `445.33.1` | 10 |

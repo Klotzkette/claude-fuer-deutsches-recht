@@ -1,0 +1,1159 @@
+{
+  "reviewed_on": "2026-10-07",
+  "method": "Individuelle Sichtprüfung sämtlicher vollständiger PNG-Seiten; anschließend Quellenhash und Seitenzahl kontrolliert.",
+  "count": 72,
+  "documents": [
+    {
+      "source": "testakten/si-kanzlei-agrarrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "55e6ce45a195523ecb8d4edb8d18364f7ac70e282903a2bed29d2760d7be2038",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-agrarrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "2da2cbf356a15e6cd9a7f57e72c9f27357412d156fd359fabbfaacbd5b1789dd",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-agrarrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "9658274447c9233b26ffe74536c305b0d445e2b5960071197ac1bca6670c2380",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-arbeitsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "24cdf754eabe2e6f50f860cdf1373ddb2f5094671e08ad35acd4936ac14d4adb",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-arbeitsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "9a7a743d736934f272197977f07815d3312c3491dc8ecebb56a3fe80ded0f814",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-arbeitsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "f428b4d8e2be2ac96f3e14c9cbed80c70b151cb8812e54abd5051649426638b3",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "1fb3c95cc6801bb00b7a77a7be1c95d89a5cc68357f9742af150adad1fcfc6a3",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "793a49f37544ccb6485268daf21b36b170b90297602ed34ebd6585b492b70e4b",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bank-kapitalmarktrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "3fb2ef8e03691e9cd8f4d147bc3d669e329b61639fdc29804ca862d2091552fc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bau-architektenrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "c4c77d9b92100841f07c5bb3ee94e16ad929fa9b3de987d19610b7da5e7173cc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bau-architektenrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "6bc5b2242fe1a8124c1c9cfdcf21470782d9bffe1bd2272b343a9a21c53617b4",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-bau-architektenrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "1336f9fa9ccc4ced8e6df1587c2bef2adff65b8e5b29b75c988ddb6058dfb25c",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-erbrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "21af66e310d119da00f22bbd221b629d4d88830082d05a908588fdecb8e5d6e9",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-erbrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "2de40dc7a46535a339f1632a814c49085beb30f66c14405dcb04f667365d5974",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-erbrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "73a4bae43a2b34eecf5ba461c5a6c49549ea995f469bf53588a0a0e8acf38b5c",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-familienrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "47864315ba2a81c60fe37d16fdec1c9276ef462f22bfa52b8779af6a39463a8f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-familienrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "4d2f90093767aa1f1e2f2c5ca5ca450c8d4de5a5eb4bab2f892b323873c55cbd",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-familienrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "9ca99f4a2cca0bec3d9a2bbebe92338cce55c7e27bf416e3b9176bf5f66af993",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "0e475c4ddfea926bda1ed6e7510ece27dc989755bebf96a30d02296b1bda782d",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "69433691df5fccefaf66a0f54bb40d0f019f595dfefa5c23ce4b8c1ace8acfed",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-gewerblicher-rechtsschutz/07_Beleg_und_Nachweis.pdf",
+      "sha256": "537961aab08d2dee6e2bc730f1b7efd4dafeb16bc9093e7e24d7ed3133e04363",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "add6c12b2cac7f53830cdf0d39d91f888348c3a531970b4eb12eb40841f336c6",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "49b1c1b58436b0e7dee58b10bf10b237a5a9d224cee028a3fee0b51430436c7b",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-handels-gesellschaftsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "b3c51c524255698fa1272acf58698bedc647f8818020e79f4186b20b6f06e9fd",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "49af8e2a29f0ed1da08295d3283c376f15fff3d591f0d8befac24cd585ea4bb0",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "e16a2e9223d8aad321d91a26c01cfa45db441d87309764b10a4a564169e2811f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-insolvenz-sanierungsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "eea33291a76056a144f01f2cf62d513ee3b650107f5c90c90cf29e7e71b70421",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "0b82aa25a3bc21c3802e704fcbb7769d7317a74e809488000f2db716d4a85230",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "b896612929a77722e595e2fed5707cded2858eaeb64c3752243c2182415c53b5",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-internationales-wirtschaftsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "511e0417bc6ebd6e05bee117692f11db7a8b324fdd7685ddcdd768acd6ca2b3a",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-it-recht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "6a9efe7c4c96027544252330b556e5966151ce9df76b7688c94fd09e7a78d84d",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-it-recht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "cb07ab9c27c2d176874446566787b105be5b90739d4ed040a1c165e2a11f3d0f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-it-recht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "da556a9f6e729470e28cf53d250e67acf4f01fb8a35a40c730aba9446950a01c",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-medizinrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "4b495f531c3387c0c7e7c531c6793a6c8cf03a0623cb1da7695f9c5c152d71b0",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-medizinrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "2b7f25d2303a8200bc3d07f15a2c63c0e0973a71d12fd9c54ee7286431dcd680",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-medizinrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "31dce116f74e26b81e9b11302a11eb72c78d5286806c7c0293060535dde3c211",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "2f41cd09537f58039712163f8a1a7d57314ffb8564f9436e134a60cb29bd4803",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "12c91ca048664d471cdae54c3f524df759340e6ff8705f4fd9d5e2f0fb6d783a",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-miet-wohnungseigentumsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "ef12e511bf55caa70dd6beeff220963df22a699298ed968a504795e5e202c822",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-migrationsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "ae9618f5d4af5f9d533e9f6e8d9b72f3f16e51cdea5821c64eba878dbd6361b9",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-migrationsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "85203dd3cc7c67a5860aa53790f2ccc5e4f4d5c4770d81d8e1adcca0fa3f73bc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-migrationsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "6e4aa03ad0ab24a9c09afe2dc6db069a169fe15d8d86a73f088a37cb3cc59484",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sozialrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "7519cfb9158cc2f3cfdc5680cac4028ea073ca83f4eadde932168fb942d2c6bc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sozialrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "f9bd29fd6337e3ba3ded9b3b9d525bb34a87c10d4cfd71747372e08cfa903d37",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sozialrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "af4e684ce96284e4265b2945b79f12ce22165d975615472d35bc4838efda77a7",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sportrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "52e6f80c8a2125ecb2504e2e938a9be59b49e913d1ff154868cb93f78130f73c",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sportrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "60d7452aa8465b76a546b8f0e360ba5c5dbc080053471c17a83054fbd5e1db2f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-sportrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "6c5ebbd067b57d803f9f5af8f90bd435a8d39b3fa03f8fd6b15e16ca350123f8",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-steuerrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "3187f41c1080c7872fde5d15f04b7114a03d0b10344bb408335095440fdcac05",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-steuerrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "823fe3990821fcc3fe2501bc32e6072dc82c5aea202f02780b7984b5cca54232",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-steuerrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "2c6c25eb786af1738763f8259278b7b33fc42c5ed5429055b35bb2efcbd0c026",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-strafrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "4624277e567930242a54be8c8b04a3b336b59020d31c3e2b11461458a5100f7d",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-strafrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "6b8c42477f6dd97a57ed3187bc607e2bba2564dec63ccf5567897a5e2b1a0aaa",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-strafrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "43d79061e51e41bc7f314c74e3d252feb0619e88973c342aeeaab1e0e642825f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-transport-speditionsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "2ac653471366eca8f2b9ac9228072a2755afd1ef103c79db388a88f4d49663cc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-transport-speditionsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "7be0e2c4dc3ee2bc505ea6d4889a666bb3bff57cd46d1e9b0c162cc37909f56f",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-transport-speditionsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "123ee9d0ad741659e5b959b62e5ef2f8038d94c8de949508741f62540f11da97",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-urheber-medienrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "6dbb66c3a049dc7efe98f0a99800bf159d13fcbc8eb1ad0800dbbea4e6efa268",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-urheber-medienrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "b09adffd14100fdf16385e06ac774ac645426922ec95443d3954fb5070c4facb",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-urheber-medienrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "1ab2e58a786bb41d04315f5aea1c69384b1aa3e21d45d0a58e0460fe327c0892",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-vergaberecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "59de62fce0c86dae6dd3fd2d22f90847a2f5cd6abd779c258cdb215898a91d5b",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-vergaberecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "4159428d8fab89cd3c6f466df96e25ec0ece5398167eecc73b4df3b1e3bd2474",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-vergaberecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "e77ea53e5edc2113c5dd138d137efd2757cf205d40e2ba563ab2faf4c5752568",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verkehrsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "1f73074e9dd06e1dc3d0d1bb9be0588e479649e4357db24b59424e7cd29d8bcc",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verkehrsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "3ac2f642eab251f4ed8c59804c972e97b87f60573f289e3cd3f9bd0c5cf7a2a4",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verkehrsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "cd8e97b5ff90d17026cddca1df8b0dfd8959cdcff61c8de9a94b8a4d79e155f5",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-versicherungsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "4ec2fdd2aee72d106b2b6adc6a29b08e9311a3aab7aa62541608036df21f9617",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-versicherungsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "a6a6659afb6f632a0a97be09ae215281e61ddf3de5e4a705d58d3e636c3968f6",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-versicherungsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "7cbd458c128116048c51e7c64912cae888e4bfa758514489b151baf8ebdc2a31",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verwaltungsrecht/05_Vertrags_oder_Stammunterlage.pdf",
+      "sha256": "556ddeba00ae220efeffadc07f10b45f1429ef8c270109d446450773a9496d96",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verwaltungsrecht/06_Ereignis_oder_Bescheid.pdf",
+      "sha256": "246587e28e0badebc70a7c29094e9e4bc6b0aab435a40ac0459d5397bd987c40",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    },
+    {
+      "source": "testakten/si-kanzlei-verwaltungsrecht/07_Beleg_und_Nachweis.pdf",
+      "sha256": "540810f09cc5d93ec5384f55c3dfe7c05997785edfcfe2b4d0ce2ac7340b5cc5",
+      "pages": 1,
+      "page_size_pt": [
+        595.2756,
+        841.8898
+      ],
+      "fonts": [
+        "/Helvetica",
+        "/AAAAAA+TimesNewRomanPSMT",
+        "/AAAAAA+TimesNewRomanPS-BoldMT"
+      ],
+      "visual_review": "completed",
+      "visual_findings": []
+    }
+  ]
+}

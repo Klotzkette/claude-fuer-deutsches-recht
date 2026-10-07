@@ -1,0 +1,232 @@
+{
+  "scope": "Nur neues Komponentenrelease; zentrale Prüffunktionen unverändert verwendet",
+  "cases": [
+    {
+      "slug": "si-kanzlei-agrarrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-arbeitsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-bank-kapitalmarktrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-bau-architektenrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-erbrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-familienrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-gewerblicher-rechtsschutz",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-handels-gesellschaftsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-insolvenz-sanierungsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-internationales-wirtschaftsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-it-recht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-medizinrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-miet-wohnungseigentumsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-migrationsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-sozialrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-sportrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-steuerrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-strafrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-transport-speditionsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-urheber-medienrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-vergaberecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-verkehrsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-versicherungsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    },
+    {
+      "slug": "si-kanzlei-verwaltungsrecht",
+      "originals": 10,
+      "source_identical": true,
+      "individual_pdfs": 10,
+      "gesamt_pages": 16
+    }
+  ],
+  "assets": {
+    "testakte-si-kanzlei-strafrecht-einzelpdfs.zip": "549dca5525981d88c169afb294965120c7f71be690758835b40b609fb9df104c",
+    "testakte-si-kanzlei-transport-speditionsrecht-einzelpdfs.zip": "320f4bd73da0f19f025baa5cb4d81aadeb97a84c450838fafead73204f16ed76",
+    "testakte-si-kanzlei-miet-wohnungseigentumsrecht-einzelpdfs.zip": "4dbdf247e8c73cd882296c54b048253aa52581c031947490c06a035ac58e65e4",
+    "testakte-si-kanzlei-versicherungsrecht.zip": "5b12d798162378701ee4c0820d4443581be2fb15189ba0d843428b5c0c0aed90",
+    "testakte-si-kanzlei-sozialrecht-einzelpdfs.zip": "c1fde87fc963778c5903dabc763f0ee9725b07ea3299a4106893dc6c93768a99",
+    "testakte-si-kanzlei-internationales-wirtschaftsrecht-einzelpdfs.zip": "9e63f1798c91ef8c9fc5baa81ad39058ea2981242ab8f70a1c47708657c2cf88",
+    "testakte-si-kanzlei-versicherungsrecht-einzelpdfs.zip": "3ac09e767612a2dc4b580351b5da0992c92000efb3d87b7ff53355edd1785d86",
+    "testakte-si-kanzlei-verwaltungsrecht-einzelpdfs.zip": "620f3e0bc2a415add90ca533dd0d3fc8ebb4978b489266b12ecadd972c9cb1b5",
+    "testakte-si-kanzlei-arbeitsrecht.zip": "b0bfa32a8cfc8cb0c0d630378d4d2288a67212f99d9dbf5e200c62ea458a3464",
+    "testakte-si-kanzlei-migrationsrecht.zip": "0acd499abe02086e3412898af982ffc59ecb84ea6ca62e87c14dfccda73f5b4d",
+    "testakte-si-kanzlei-verkehrsrecht.zip": "0db8b86aa88733436d97de080200da83a765897d33a511789b4c594800efa722",
+    "testakte-si-kanzlei-verkehrsrecht-einzelpdfs.zip": "8b1d7b699b94a42a4ca2503847770e72cae74748397613558844d30cc36d1964",
+    "testakte-si-kanzlei-vergaberecht.zip": "89fa64ed8090f7ac1d8d001b154aaa4da357b3cddb63bc1ea5dfea16fdb932e7",
+    "si-native-kanzlei-portable.zip": "089004a0370fdc69ca596a18b2989ca48efdd643299d7ca061ca94d6a062e041",
+    "testakte-si-kanzlei-insolvenz-sanierungsrecht-einzelpdfs.zip": "49a7fbd8e518f7bb9dc476ec8d0364a854d8de1b0ff80e8baa26061791a7ea63",
+    "testakte-si-kanzlei-insolvenz-sanierungsrecht.zip": "7238d385854b374ab31414ccbf05eee7d13da3d4d67c94a8053ba8085b4ec710",
+    "testakte-si-kanzlei-arbeitsrecht-einzelpdfs.zip": "d8e00ddf13c633497f11fbac3e91189a88b045abae2b7db3b4beb4b4a591da93",
+    "testakte-si-kanzlei-familienrecht-einzelpdfs.zip": "01240b2da880d7cdc7a7b1c0ec4511bf88a0b9b3ecf4d6762c8f15489894c37f",
+    "testakte-si-kanzlei-agrarrecht.zip": "9cc372fbd824d52c7fdb160be75718f6ff385fb3eb2a6cd0c67ebc4669410cfe",
+    "testakte-si-kanzlei-bank-kapitalmarktrecht-einzelpdfs.zip": "dae897a2dd9b77b542ddd5343067d63781097b26a2aecd88ac12a2bab2bb725a",
+    "testakte-si-kanzlei-medizinrecht-einzelpdfs.zip": "95f4427254967715fafd1eb8e11a96de219c88c03c15963246bcfeee0c5241b1",
+    "testakte-si-kanzlei-transport-speditionsrecht.zip": "c345122da23e34e6a46fc9d264ba840dc6224567540e9618202b40bdc7e04618",
+    "si-native-kanzlei.zip": "8f29b0e59d412f7a5843ac9e3161b5107f2de17b2199a133f01d534e1d696c43",
+    "si-native-kanzlei-24-testakten.zip": "9c281916d44187327570e31ecbe6eba6d76e00c0877e78c7fcbb886fef1b4eee",
+    "testakte-si-kanzlei-gewerblicher-rechtsschutz-einzelpdfs.zip": "761bfd1d34b9d7319e83fa68a9924a095ebf299213393e11a740b702dfbf0da7",
+    "testakte-si-kanzlei-bau-architektenrecht-einzelpdfs.zip": "36bc7b883008d6ba0d50b94ceccd0fed360b932520750bfc9e9c0523830d9aaf",
+    "testakte-si-kanzlei-internationales-wirtschaftsrecht.zip": "f42192b2e883234fed07229d0b98cd97c5c07debbb1969576f5920d100a80f28",
+    "testakte-si-kanzlei-gewerblicher-rechtsschutz.zip": "a7f12e83f8d9210cd6c712375cb63059470b9c7292dd5b9ded6abdafe199d8e2",
+    "testakte-si-kanzlei-handels-gesellschaftsrecht-einzelpdfs.zip": "7ada5623334488e31800da0b5fe47c70b5dc1db7e1e6629b0d2c6bfc0cde0f46",
+    "testakte-si-kanzlei-steuerrecht-einzelpdfs.zip": "90e2a18e2718a4b6ce7ace403fe8c0530f92349d3d3473f03dd01faa839dd59a",
+    "testakte-si-kanzlei-erbrecht.zip": "5885a8c24943cc818c492debb1ac0b0b2e8dd2bc0273e2ee2edcd1e7eebe07cb",
+    "testakte-si-kanzlei-verwaltungsrecht.zip": "dae6ea825c3c2fac19bbb54bd6d1450403d32ebd44061918e8f7d97809b4cc5a",
+    "testakte-si-kanzlei-vergaberecht-einzelpdfs.zip": "9f0e7490ef9e2b104106de1f82c5216a7fd7abeab7d8ce86390da820af64fbf6",
+    "testakte-si-kanzlei-it-recht.zip": "69d08aef4261d86782f079c9bb3622261be8fa23b12a2f6ab0052b0e7d2554f6",
+    "testakte-si-kanzlei-medizinrecht.zip": "b4965ca04a464605d2d5d4e88c76ad6143a92236e15b9722b6fc5567b6877b33",
+    "testakte-si-kanzlei-miet-wohnungseigentumsrecht.zip": "219f73f21af9989921ea664cb61cf0e3064afff9b29c1dea287e481294b56611",
+    "testakte-si-kanzlei-handels-gesellschaftsrecht.zip": "8ed4203c07e46641fbd7345e5cd25fda9d5d41620762daac826579667c986470",
+    "testakte-si-kanzlei-familienrecht.zip": "634ac0b9ec4e51a73fdbed5310787e2742ac835d8b63ea0c171de5ea95672a4f",
+    "testakte-si-kanzlei-migrationsrecht-einzelpdfs.zip": "f3b77b75d4ade0380170023f622aa5df36c23b672381bb28b9e83c2a674bd9e2",
+    "testakte-si-kanzlei-erbrecht-einzelpdfs.zip": "05654ef6cdd419e6a51e61d8b898f559449fedb8e413b4af8f3d5b11583fc12f",
+    "testakte-si-kanzlei-urheber-medienrecht.zip": "c6133de8efb66f09dfb4a119736a1eea56f1285b4ed41d82b73f90c78dc081fd",
+    "testakte-si-kanzlei-sportrecht.zip": "32301fa3b69be4ef77fadbf5aa6cb77a70ae14fba56c97599347ee3403cb3838",
+    "testakte-si-kanzlei-strafrecht.zip": "627afc8f52d08ff8bd7d9538559140025e9769dffad01d2945d58395025be627",
+    "testakte-si-kanzlei-bau-architektenrecht.zip": "a4e523d2e6b80c1f7dbf11205734696d776f776662a4684533e0249fb385322e",
+    "testakte-si-kanzlei-agrarrecht-einzelpdfs.zip": "6a64d071b9a64336ef0a8a9894fa9fd26a1cad8b69cec276247d1ea3fa7bfab4",
+    "testakte-si-kanzlei-urheber-medienrecht-einzelpdfs.zip": "4c4ede80582d714754776b5952dcf5e741d48bbd6dbb5cf2066f57dd78030316",
+    "testakte-si-kanzlei-sozialrecht.zip": "fadfcc2c62430464dfbb99e2511d8ebf14e69acd3c6155edfd9e6bab1a74af2e",
+    "testakte-si-kanzlei-sportrecht-einzelpdfs.zip": "d3726ea2eb488cd03b33a404d99302f049c3a51df41d5825c52afb202df88539",
+    "testakte-si-kanzlei-it-recht-einzelpdfs.zip": "64f9609ae0fe6f48f6758548e68938e8a949ca38cbeae5d0eacac91e762609e9",
+    "testakte-si-kanzlei-bank-kapitalmarktrecht.zip": "1ab11049bfc9270d6ea649390727e9169d2649b409445a149eb0602439491d94",
+    "testakte-si-kanzlei-steuerrecht.zip": "93edd4044efeefd1f35399ba674a0b128ae95652b0b894c8326ebbe66f27f2bb"
+  },
+  "plugin_skills": 16,
+  "originals": 240,
+  "original_source_identity": true,
+  "portable_same_content": true,
+  "standalone_prompts_separate": true,
+  "downloads_and_notices_valid": true
+}

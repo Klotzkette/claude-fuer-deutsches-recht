@@ -101,3 +101,7 @@ Releases, fehlende oder leere Dateien und unvollständige Uploads als Fehler.
 API-Limits und Netzprobleme sind nicht erfolgreich geprüfte Downloads. Die Prüfung
 ersetzt weder Prüfsummen- und Archivkontrolle noch die Navigationstests für lokale
 PDFs und Markdown-Seiten. Offline-Regression: `python3 scripts/test-public-downloads.py`.
+
+## 5. SI-native Kanzlei als Komponentenrelease
+
+`si-native-kanzlei-v445.33.3` veröffentlicht ausschließlich die neue Kanzlei-Erweiterung: Claude/Codex-Paket, portables Paket, 24 Originalformat-ZIPs, 24 Einzel-PDF-ZIPs sowie eine eigene Sammlung dieser 24 Akten. `scripts/scoped-release-assets.json` hält die direkten Routen fest. Das Komponentenrelease wird nicht als Latest gesetzt; die bestehenden allgemeinen Sammelpakete werden dadurch nicht ersetzt.

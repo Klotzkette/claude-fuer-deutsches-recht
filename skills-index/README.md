@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22826 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22842 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -293,6 +293,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [sektorenvergabe-workflow](./sektorenvergabe-workflow.md) (11 Skills)
 - [selbstvertreter-amtsgericht](./selbstvertreter-amtsgericht.md) (90 Skills)
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (139 Skills)
+- [si-native-kanzlei](./si-native-kanzlei.md) (16 Skills)
 - [softwarerecht-de-eu-us](./softwarerecht-de-eu-us.md) (106 Skills)
 - [solo-selbststaendige-praxis](./solo-selbststaendige-praxis.md) (202 Skills)
 - [sozialrecht-fuer-laien](./sozialrecht-fuer-laien.md) (10 Skills)
