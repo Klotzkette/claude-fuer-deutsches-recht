@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
-from release_routing import rewrite_case_asset_urls
+from release_routing import rewrite_case_asset_urls, validate_plugin_version, validate_version
 
 from readme_display import display_plugin_description
 from testakte_zip_common import working_dump_flat_pairs
@@ -215,12 +215,9 @@ def main() -> int:
     counts = inventory_counts(plugins)
     updated = update_summary_counts(updated, counts)
     updated = re.sub(r"(\| \*\*Skills \(SKILL\.md\)\*\* \| )\d+", lambda m: m[1] + str(counts["skills"]), updated)
-    versions = {plugin.get("version") for plugin in plugins}
-    if len(versions) != 1 or not isinstance(next(iter(versions)), str):
-        raise RuntimeError("Uneinheitliche Marketplace-Versionen")
-    version = next(iter(versions))
-    if version != marketplace["version"]:
-        raise RuntimeError("Plugin-Versionen weichen von der Marketplace-Version ab")
+    version = validate_version(marketplace["version"])
+    for plugin in plugins:
+        validate_plugin_version(plugin, version, root=REPO)
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
     testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version, counts["central_testakten"])
     updated = rewrite_case_asset_urls(updated, version=marketplace["version"])

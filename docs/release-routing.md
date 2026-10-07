@@ -57,6 +57,15 @@ zur Platzbeschaffung gelöscht. Build-only-Aufrufe führen keine Remote-Aktionen
 
 ## 3. Links und Integration
 
+Eigenständige Plugin-Komponenten dürfen eine von der gemeinsamen Marketplace-Version
+abweichende Paketversion tragen, wenn ihr eigenes `PLUGIN.zip` in
+`scripts/scoped-release-assets.json` ausdrücklich auf einen Tag mit dem Suffix
+`-vPAKETVERSION` zeigt. Marketplace-Eintrag und beide unterstützten Manifeste müssen
+übereinstimmen; ein fremdes Asset oder ein veralteter Pin genügt nicht. Die
+Repository-Übersicht zeigt weiterhin die Marketplace-Version, die Pluginzeile
+hingegen die tatsächliche Paketversion. Diese Ausnahme setzt keine historischen
+Tags zurück und erklärt ältere Sammelpakete nicht zu aktualisierten Downloads.
+
 `release_routing.py` ist die gemeinsame Quelle für Fall-ZIP-URLs, Dateiauswahl
 und Tags. Die vorhandenen README- und Index-Generatoren ersetzen `latest`-Platzhalter
 aller zentralen Akten durch versionsfeste Companion-Links, auch außerhalb

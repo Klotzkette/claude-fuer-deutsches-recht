@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "plugin": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+  "reviewed_on": "2026-10-07",
+  "sources": [],
+  "selection": {
+    "target_skill": "01-sap-akte-importieren",
+    "positive": [
+      "Hier ist unser Mietfall aus SAP und dem DMS. Prüfe die Akte und bereite das nächste Schreiben der Vermieterin vor.",
+      "Übernimm den Fallordner unserer Immobilien-Rechtsabteilung und kläre Rückstand, Frist und nächste Maßnahme ohne Skillauswahl."
+    ],
+    "negative": [
+      "Prüfe als fremder Inkassodienstleister unsere Registrierung für die Bearbeitung beliebiger Verbraucherschulden.",
+      "Der Rechtsinhalt ist fertig. Konvertiere ausschließlich diese Anlagen und prüfe den technischen beA-Versand."
+    ]
+  },
+  "cases": [
+    {
+      "id": "lange-belegdublette",
+      "target_skill": "03-kontoauszug-mietkonto-auslesen",
+      "request": "Unsere Immobilien-Rechtsabteilung erhält zur Akte Lange ein Mietkonto, eine Bankanzeige zur ersten Rate und dieselbe Bankanzeige als erneute Übersendung. Die Juni-Miete ist noch offen. Gleiche die Buchungen ab und formuliere eine Kulanzantwort. Der Unternehmensname und die Freigabeperson sind noch nicht bestätigt; nichts versenden.",
+      "input_files": [],
+      "deliverables": [
+        "zahlungsabgleich-und-kulanz.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Zählt denselben Zahlungseingang trotz mehrfacher Nachweise nur einmal und trennt Avis, Ausführung, Wertstellung und Buchung.",
+          "deliverables": [
+            "zahlungsabgleich-und-kulanz.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Weist die noch offene Juni-Miete gesondert aus, erfindet keinen Betrag und fragt nur nach entscheidenden fehlenden Belegen.",
+          "deliverables": [
+            "zahlungsabgleich-und-kulanz.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert die ausformulierte Kulanzantwort mit getrennter interner Freigabenotiz; unterstellt weder Vermieteridentität noch schon erfolgten Versand.",
+          "deliverables": [
+            "zahlungsabgleich-und-kulanz.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "keine-fremdmandats-umdeutung",
+      "target_skill": "06-fallziel-renofa-triage",
+      "request": "Eine Rechtsanwaltsfachangestellte der Muttergesellschaft bearbeitet einen Wohnraummietrückstand von 8.400 EUR für eine Tochtergesellschaft. Eine besondere Rechtsfachwirtprüfung hat sie nicht abgelegt. Die Akte enthält noch keinen Nachweis zum Verbund und keine Vollmacht. Erstelle eine konkrete Unterlagenanforderung und den nächsten Bearbeitungsschritt.",
+      "input_files": [],
+      "deliverables": [
+        "rollen-und-unterlagenklaerung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterstellt keine Rechtsfachwirtqualifikation und leitet aus der Berufsbezeichnung allein keine Vertretungsbefugnis ab.",
+          "deliverables": [
+            "rollen-und-unterlagenklaerung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Beschäftigung, Verbund, Vollmacht, Zuständigkeit und interne Freigabe; fordert konkret die fehlenden Nachweise an.",
+          "deliverables": [
+            "rollen-und-unterlagenklaerung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Bleibt im internen Rechtsdienst, erzeugt keine RVG-Mandatsvereinbarung und setzt unabhängige Aktenarbeit trotz offener Außenfreigabe fort.",
+          "deliverables": [
+            "rollen-und-unterlagenklaerung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Quellprompt vollständig übernommen, unternehmensneutral benannt. Budget und Autarkie geprüft; kein neuer juristischer Liveabgleich.",
+    "changes": [
+      "Produktname an das Zielrepository angepasst."
+    ],
+    "sha256": "efd8c1cebc96a7cd293b03a2481b9cd2a4e3e5e6ef013469990102994d67b70c"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Vollworkflow erhalten und um die konkrete Inhouse-Rolle ohne unterstellte Konzernidentität ergänzt. Keine Erweiterung der rechtlichen Befugnisse.",
+    "changes": [
+      "Unternehmen und Vertretung ausdrücklich aus der Akte statt aus dem Produktnamen ableiten."
+    ],
+    "sha256": "6c3fd2d6458d5c10e8baff2cfe33c49dc1d3f648343e656fe0a83f415cd7f742"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-07",
+    "method": "desk_review",
+    "opening_modes": [
+      "Neue Mietakte vollständig aufnehmen.",
+      "Vorhandenen Arbeitsstand mit neuer Post fortschreiben.",
+      "Konkrete Restrechnung oder Mieterantwort unmittelbar erstellen."
+    ],
+    "continuation": "Neue Zahlung, Zustellung oder Einwendung aktualisiert nur betroffene Rechnung, Frist, Antrag und Freigabe.",
+    "enrichment": "Vollständige Übernahme von 50 Fachskills und zehn Akten; Belegdublette und tatsächliche Beschäftigtenrolle als Ergebnisfälle.",
+    "limits": "Redaktionelle und technische Übernahmeprüfung, keine beobachteten Modellläufe und keine neue Live-Verifikation des gesamten Rechtsbestands."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-07",
+    "method": "desk_review",
+    "files": [
+      "rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md",
+      "rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md"
+    ],
+    "opening_change": "Der unternehmensneutrale Name darf nicht als Beleg für Vermieteridentität oder Vertretungsmacht behandelt werden. Vorhandene Ordner steuern die Arbeit.",
+    "norms": [
+      "Übernommene Rollentrennung nach RDG, GVG und ZPO; keine materiellen Änderungen durch den Import."
+    ],
+    "decisions": [
+      {
+        "citation": "Übernommener Arbeitsanker BGH, Urt. v. 05.10.2016 – VIII ZR 222/15",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Gericht=bgh&anz=1&nr=76934&pos=0",
+        "application": "Zahlungsauftrag, Kontodeckung und Banklaufzeit getrennt prüfen statt allein auf den SAP-Buchungstag abzustellen.",
+        "limit": "Aus dem dokumentierten Quellstand übernommen; am Importdatum nicht erneut live verifiziert. Vor Anwendung im Einzelfall aktuellen Volltext und Tatsachen kontrollieren."
+      }
+    ],
+    "remaining_limits": [
+      "Keine beobachteten Cowork-Modellläufe.",
+      "Keine pauschale Aktualitätszusage für alle übernommenen Normen und Urteile."
+    ]
+  }
+}

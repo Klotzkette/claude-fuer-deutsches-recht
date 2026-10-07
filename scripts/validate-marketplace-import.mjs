@@ -93,6 +93,20 @@ function checkSkillFile(file) {
 const marketplacePath = path.join(root, '.claude-plugin', 'marketplace.json');
 const marketplace = readJson(marketplacePath);
 if (!marketplace) process.exit(1);
+const scopedPath = path.join(root, 'scripts', 'scoped-release-assets.json');
+const scoped = fs.existsSync(scopedPath) ? readJson(scopedPath) : { schema_version: 1, assets: {} };
+if (!scoped || scoped.schema_version !== 1 || !scoped.assets || typeof scoped.assets !== 'object' || Array.isArray(scoped.assets)) {
+  errors.push('scripts/scoped-release-assets.json: ungültige Komponentenregistrierung');
+}
+
+function registeredVersion(entry) {
+  if (entry.version === marketplace.version) return true;
+  const tag = scoped?.assets?.[`${entry.name}.zip`];
+  return /^\d+\.\d+\.\d+$/.test(String(entry.version || ''))
+    && typeof tag === 'string'
+    && /^[a-z0-9][a-z0-9.-]*$/.test(tag)
+    && tag.endsWith(`-v${entry.version}`);
+}
 
 checkDescription('.claude-plugin/marketplace.json', marketplace.description, 300);
 if (!/^\d+\.\d+\.\d+$/.test(String(marketplace.version || ''))) {
@@ -119,7 +133,7 @@ for (const entry of marketplace.plugins || []) {
   }
   lastName = entry.name;
   checkDescription(`Marketplace:${entry.name}`, entry.description, 300);
-  if (entry.version !== marketplace.version) {
+  if (!registeredVersion(entry)) {
     errors.push(`Marketplace:${entry.name}: Version ${entry.version} passt nicht zu ${marketplace.version}`);
   }
   if (typeof entry.source !== 'string' || !entry.source.startsWith('./')) {
@@ -139,7 +153,7 @@ for (const entry of marketplace.plugins || []) {
   const manifest = readJson(manifestPath);
   if (!manifest) continue;
   if (manifest.name !== entry.name) errors.push(`${rel(manifestPath)}: name passt nicht zum Marketplace`);
-  if (manifest.version !== marketplace.version) errors.push(`${rel(manifestPath)}: Version passt nicht zum Marketplace`);
+  if (manifest.version !== entry.version) errors.push(`${rel(manifestPath)}: Version passt nicht zum Marketplace-Eintrag`);
   const codexManifestPath = path.join(pluginRoot, '.codex-plugin', 'plugin.json');
   if (fs.existsSync(codexManifestPath)) {
     const codexManifest = readJson(codexManifestPath);
@@ -149,7 +163,7 @@ for (const entry of marketplace.plugins || []) {
       if (codexManifest.name !== entry.name || codexManifest.name !== manifest.name) {
         errors.push(`${rel(codexManifestPath)}: name passt nicht zu Marketplace und Claude-Manifest`);
       }
-      if (codexManifest.version !== marketplace.version || codexManifest.version !== manifest.version) {
+      if (codexManifest.version !== entry.version || codexManifest.version !== manifest.version) {
         errors.push(`${rel(codexManifestPath)}: Version passt nicht zu Marketplace und Claude-Manifest`);
       }
     }
@@ -214,8 +228,8 @@ for (const entry of marketplace.plugins || []) {
     readmeCount += 1;
     const text = readText(readme);
     const visibleVersion = text.match(/\*\*Version:\*\*\s*`?(\d+\.\d+\.\d+)`?/);
-    if (visibleVersion && visibleVersion[1] !== marketplace.version) {
-      errors.push(`${rel(readme)}: sichtbare Version ${visibleVersion[1]} passt nicht zu ${marketplace.version}`);
+    if (visibleVersion && visibleVersion[1] !== entry.version) {
+      errors.push(`${rel(readme)}: sichtbare Version ${visibleVersion[1]} passt nicht zu ${entry.version}`);
     }
     const sourceRel = String(entry.source || `./${entry.name}`).replace(/^\.\//, '');
     const downloadBase = 'https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=';

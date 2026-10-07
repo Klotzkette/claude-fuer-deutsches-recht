@@ -7,6 +7,18 @@
       "megaprompt": false,
       "hand_curated": true
     },
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "schriftsatzwerkstatt-bea": {
+      "standalone": [],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "bauwirtschaft-anfaenger": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],

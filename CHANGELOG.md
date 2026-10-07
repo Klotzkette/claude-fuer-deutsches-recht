@@ -1,3 +1,12 @@
+# Immobilienprojekt übernommen - 2026-10-07
+
+- Rechtsabteilung Forderungsmanagement Immobilienunternehmen: vollständiger Quellstand v5.27.1 mit 373 Dateien als unverändertes Archiv und SHA-256-Herkunftsverzeichnis erhalten; das Ursprungsrepository bleibt unverändert.
+- 50 Fachskills, neun beA-Skills und zwei autarke Prompts in die Marketplace-, Skill- und Downloadnavigation eingebunden. Rechtliche und technische Arbeit bleiben getrennt; vorhandene Inkasso- und Versandplugins werden nicht ersetzt.
+- Zehn Testakten mit 174 Aktenstücken in drei Formen übernommen. Akten-ZIPs bleiben flach und erhalten den Hinweis des Zielrepositories; PDFs bleiben ohne zusätzliche Hinweisseiten.
+- Unternehmensneutraler Einstieg und präzisierte Berufsrollen: keine unterstellte Rechtsfachwirtqualifikation, Konzernidentität oder Vollmacht. Keine erneute Gesamtverifikation der übernommenen Rechtsquellen behauptet.
+- Integritäts-, Paket-, Pfad- und Umfangstests sichern die Kopie; das Katalog-Gesamtbudget berücksichtigt die beiden zusätzlichen Plugins, ohne Einzelplugin-Grenzen zu erweitern. Die Komponente ist noch nicht in älteren Sammel-ZIPs enthalten.
+- Bei der Veröffentlichung am 08.10.2026 mit dem aktuellen Hauptstand zusammengeführt. Versionsprüfungen erkennen exakt registrierte Komponentenreleases, verlangen aber weiterhin identische Paketversionen in Marketplace-Eintrag und Manifesten; Regressionstests sichern falsche und fehlende Zuordnungen ab.
+
 # ki-native-kanzlei-v445.33.7 - Kanzleialltag in Claude Cowork und ChatGPT
 
 ## 1. Der Kanzleialltag als Arbeitsabläufe

@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22844 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 22903 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -262,6 +262,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### R
 
+- [rechtsabteilung-forderungsmanagement-immobilienunternehmen](./rechtsabteilung-forderungsmanagement-immobilienunternehmen.md) (50 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (60 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (66 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (59 Skills)
@@ -289,6 +290,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (82 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (60 Skills)
 - [schriftsatz-versandwerkstatt](./schriftsatz-versandwerkstatt.md) (10 Skills)
+- [schriftsatzwerkstatt-bea](./schriftsatzwerkstatt-bea.md) (9 Skills)
 - [schulrecht-laender](./schulrecht-laender.md) (101 Skills)
 - [seerecht-schifffahrtsrecht](./seerecht-schifffahrtsrecht.md) (239 Skills)
 - [sektorenvergabe-workflow](./sektorenvergabe-workflow.md) (11 Skills)

@@ -1,6 +1,8 @@
 {
   "schema_version": 1,
   "assets": {
+    "rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip": "rechtsabteilung-immobilien-v445.33.1",
+    "schriftsatzwerkstatt-bea.zip": "rechtsabteilung-immobilien-v445.33.1",
     "bauwirtschaft-anfaenger.zip": "bauwirtschaft-rundum-v445.33.3",
     "bauwirtschaft-fortgeschrittene.zip": "bauwirtschaft-rundum-v445.33.3",
     "testakte-bau-rundum-abschlagsrechnung-lemgo.zip": "bauwirtschaft-rundum-v445.33.3",

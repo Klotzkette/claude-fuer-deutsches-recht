@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 285 Plugins, 22844 Skills.
+Stand v445.33.1: 287 Plugins, 22903 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -208,6 +208,7 @@ Stand v445.33.1: 285 Plugins, 22844 Skills.
 | [`produktrecht`](../produktrecht/) | Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review. | `445.33.1` | 70 |
 | [`prozessrecht`](../prozessrecht/) | Prozessrechtliche Skills für Mandate, Fristen, Mahnbescheid, Eilverfahren, Vollstreckung und Schriftsätze. | `445.33.1` | 65 |
 | [`pruefungsrecht-hochschule`](../pruefungsrecht-hochschule/) | Hochschulprüfungsrecht: Prüfungsordnung, Bewertungsspielraum, Akteneinsicht, Krankheit, Nachteilsausgleich, Täuschung, KI, Drittversuch und Eilrechtsschutz. | `445.33.1` | 109 |
+| [`rechtsabteilung-forderungsmanagement-immobilienunternehmen`](../rechtsabteilung-forderungsmanagement-immobilienunternehmen/) | Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung. | `445.33.1` | 50 |
 | [`rechtsberatungsstelle`](../rechtsberatungsstelle/) | Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe. | `445.33.1` | 60 |
 | [`rechtstheorie-rechtsphilosophie`](../rechtstheorie-rechtsphilosophie/) | Rechtstheorie- und Rechtsphilosophie-Plugin für juristische Praxis: Rechtsbegriff, Kelsen-orientierte Normgeltung, Demokratie, Rechtsrealismus, Systemdenken, Besitzdogmatik, Law-and-Economics, Hayek-Wissensproblem, spontane Ordnung, Machtkritik und anti-dezisionistische Red-Team-Prüfung. | `445.33.1` | 66 |
 | [`regulatorisches-recht`](../regulatorisches-recht/) | Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest. | `445.33.1` | 59 |
@@ -232,6 +233,7 @@ Stand v445.33.1: 285 Plugins, 22844 Skills.
 | [`schoeffen-handelsrichter-praxis`](../schoeffen-handelsrichter-praxis/) | Plugin für Schöffen, Jugendschöffen, ehrenamtliche Richter und Handelsrichter: Rolle, Rechte, Pflichten, Sitzung, Beratung, Befangenheit, Beweiswürdigung, Handelskammer, Verwaltungsgericht und sichere praktische Orientierung. | `445.33.1` | 82 |
 | [`schriftform-und-textform-bgb`](../schriftform-und-textform-bgb/) | Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. | `445.33.1` | 60 |
 | [`schriftsatz-versandwerkstatt`](../schriftsatz-versandwerkstatt/) | Fokussierte Versandwerkstatt für fertige Schriftsätze und Anlagen: konvertiert Dateien in PDF, stempelt Anlagen, prüft Dateinamen, Paketgrenzen, Absender, Signaturweg und Eingang und liefert eine kontrollierte beA-Mappe. | `445.33.1` | 10 |
+| [`schriftsatzwerkstatt-bea`](../schriftsatzwerkstatt-bea/) | Technische Versandwerkstatt der Immobilien-Rechtsabteilung: neun Schritte vom fachlich fertigen Ordner zu Einzel-PDFs, Anlagenfolge, Signaturentscheidung und geprüftem Übergabepaket. Keine Inhaltsprüfung und kein eigener Versand. | `445.33.1` | 9 |
 | [`schulrecht-laender`](../schulrecht-laender/) | Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz. | `445.33.1` | 101 |
 | [`seerecht-schifffahrtsrecht`](../seerecht-schifffahrtsrecht/) | See- und Schifffahrtsrecht-Plugin für Schiffskauf, Schiffbau, Werften, Schiffshypothek, Schiffsregister, Arrest, Wrack, Bergung, Charter und ITLOS. | `445.33.1` | 239 |
 | [`sektorenvergabe-workflow`](../sektorenvergabe-workflow/) | Sektorenvergabe aus Auftraggebersicht: fünf Skills für Vergabeunterlagen, fünf für Verfahrensführung und ein Hauptskill. Von Reinigungsbedarf und Leistungsverzeichnis über Bekanntmachung, Rügen und Wertung bis Zuschlag und Nachprüfung. | `445.33.1` | 11 |
