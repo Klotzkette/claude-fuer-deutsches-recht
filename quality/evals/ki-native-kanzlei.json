@@ -541,7 +541,7 @@
     "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
     "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
     "prompt_sha256": "0d523627b184222b8dbd95a3a5b1c49b02499d55aeb157e7c529158e5e3dbf62",
-    "skill_sha256": "dcd44bc082aa68dd9f78cddc256e4fca43f6138eef6b8df7fa7d1e4b39c4ec3e"
+    "skill_sha256": "d98fd55c503e1ca4c112957b42e915b9446b863449e348da8e88f3fd66888f70"
   },
   "prompt_editorial_review": {
     "date": "2026-10-07",

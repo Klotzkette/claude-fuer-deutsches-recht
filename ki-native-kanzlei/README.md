@@ -58,7 +58,7 @@ Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die 
 | `zahlungen-buchhaltung` | Zahlungseingänge, Vorschüsse, Drittzahlungen oder Fremdgeld zugeordnet werden. | Belegte Geldflüsse und Buchungsvorschlag ohne ungeprüfte Verrechnung. |
 | `mandat-abschliessen` | Ein Mandat oder eine Auftragsphase endet. | Abschlussbrief, Restpflichten, Schlussrechnung, Herausgabe, Aufbewahrung. |
 
-**Alle 18 Skills umfassen jeweils __MINPAGES__ bis __MAXPAGES__ tatsächliche A4-Seiten, zusammen __TOTALPAGES__ Seiten** (rund __WORDS__ Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
+**Alle 18 Skills umfassen jeweils 14 bis 17 tatsächliche A4-Seiten, zusammen 265 Seiten** (rund 108.000 Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
 
 Jeder Skill ist gleich aufgebaut: Auslöser und Abgrenzung zu den Nachbarskills, Eingabentabelle mit dem Vorgehen bei fehlenden Angaben, wörtlich ausformulierte Rückfragen in der richtigen Reihenfolge, der fachliche Ablauf mit konkret benannten und am amtlichen Text geprüften Normen, ein skillspezifischer Katalog typischer Fehler mit Gegenkontrolle, die Übergabe an die Nachbarskills, verifizierte Entscheidungsanker mit Anwendungsgrenzen, Abnahmekriterien sowie Beispiele mit vollständig ausformulierten Endprodukten und einem Negativbeispiel. Die [Arbeitsweise](references/arbeitsweise.md) erklärt, welcher Skill in welcher Startsituation zuerst greift.
 

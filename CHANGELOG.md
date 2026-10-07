@@ -6,7 +6,7 @@ Jeder der achtzehn Skills erhält eine auslöserorientierte Beschreibung, einen 
 
 ## 2. Quellen und Prüfung
 
-Neue Normaussagen wurden am Prüfstand 7. Oktober 2026 gegen gesetze-im-internet.de beziehungsweise EUR-Lex geprüft; Entscheidungsanker bleiben auf die bereits am amtlichen Volltext verifizierten Entscheidungen beschränkt. Keine Kommentar- oder Aufsatzfundstellen. Die Prüfnachweise stehen im aktualisierten Qualitätsbericht; die Lesefassungen wurden mit der angegebenen Schrift neu gesetzt und ihre Seitenzahlen gemessen.
+Neue Normaussagen wurden am Prüfstand 7. Oktober 2026 gegen gesetze-im-internet.de beziehungsweise EUR-Lex geprüft; Entscheidungsanker bleiben auf die bereits am amtlichen Volltext verifizierten Entscheidungen beschränkt. Keine Kommentar- oder Aufsatzfundstellen. Die Prüfnachweise stehen im aktualisierten Qualitätsbericht; die Lesefassungen wurden in dieser Umgebung mit Liberation Serif 11 pt gesetzt, einer metrisch zu Times New Roman kompatiblen Schrift, was der Umfangsbericht offen ausweist; die Seitenzahlen wurden am erzeugten PDF gemessen (265 Seiten, je Skill 14 bis 17).
 
 ## 3. Plugin, Referenzen und Pakete
 

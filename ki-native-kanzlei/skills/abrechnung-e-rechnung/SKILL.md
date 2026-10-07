@@ -1,6 +1,6 @@
 ---
 name: abrechnung-e-rechnung
-description: Verwenden, wenn aus einem bestätigten Honorar- und Leistungsstand eine anwaltliche Rechnung, ein Vorschusstext, eine Korrektur- oder Stornorechnung oder eine XRechnung für einen inländischen Unternehmer oder eine Behörde entstehen soll, wenn ein Mandant oder Rechtsschutzversicherer die Berechnung nach § 10 RVG anfordert, wenn B2G-Angaben wie die Leitweg-ID fehlen oder wenn eine Eingangsrechnung der Kanzlei geprüft wird. Liefert versandfähigen Rechnungstext, Leistungsaufstellung, geprüfte XML-Datei mit Validierungsstatus und einen getrennten internen Prüfvermerk. Nicht für die Festlegung der Honorargrundlage (dann honorar-budget-vereinbaren), die Zeiterfassung (dann zeiten-erfassen) oder die Zuordnung von Zahlungseingängen und Fremdgeld (dann zahlungen-buchhaltung).
+description: "Verwenden, wenn aus bestätigtem Honorar- und Leistungsstand eine Rechnung, ein Vorschusstext, eine Korrektur oder eine XRechnung für Unternehmer oder Behörde entstehen soll, B2G-Angaben fehlen oder eine Eingangsrechnung zu prüfen ist. Liefert versandfähigen Rechnungstext. Nicht für Honorargrundlage oder Zahlungen."
 ---
 
 # Anwaltliche Rechnung und E-Rechnung erstellen

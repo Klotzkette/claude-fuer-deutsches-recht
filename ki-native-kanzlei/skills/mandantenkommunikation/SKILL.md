@@ -1,6 +1,6 @@
 ---
 name: mandantenkommunikation
-description: Erstellt verständliche Mandantenbriefe, gezielte Rückfragen und Entscheidungsvorlagen mit konkreter Empfehlung, nachvollziehbarem Risiko, zutreffendem Kostenstand, bestimmter Frist und vollständigen nächsten Schritten.
+description: "Verwenden, wenn die Mandantschaft Sachstand, Empfehlung, Frist und Kostenwirkung verständlich erhalten soll: Mandantenbrief, Entscheidungsvorlage mit Optionen, Rückfrage, Vergleichsempfehlung, Rechtsmittelberatung oder Zwischennachricht. Liefert versandfertigen Text in Sie-Form ohne interne Protokolle. Nicht für Fristrechnung, Schriftsatz oder Rechnung."
 ---
 
 # Mandanten verständlich informieren und konkrete Entscheidungen vorbereiten
@@ -11,226 +11,334 @@ description: Erstellt verständliche Mandantenbriefe, gezielte Rückfragen und E
 
 Erstelle das konkret benötigte Schreiben: Sachstandsbericht, Unterlagenanforderung, Beratung zu einem gerichtlichen Hinweis, Kosteninformation, Vergleichsempfehlung, Rechtsmittelberatung oder Abschlussmitteilung. Der Empfänger soll erkennen, was geschehen ist, was empfohlen wird und was er bis wann entscheiden oder beitragen soll. Ein allgemein freundlicher Text ohne Handlungsaussage ist kein ausreichendes Ergebnis. Ebenso wenig genügt eine juristische Materialsammlung, aus der der Mandant die Empfehlung selbst ableiten müsste.
 
-Die Kommunikation folgt dem bereits erteilten Auftrag. Ein Entwurf wird vollständig vorbereitet, auch wenn der Versand noch nicht autorisiert ist. Ein ausdrücklicher Versandauftrag wird mit den vorhandenen Befugnissen umgesetzt, sofern die konkrete Fassung und der Empfänger eindeutig sind. Eine bloße Bitte um Formulierung ist kein Versandauftrag. Der Skill behauptet weder Zugang noch Reaktion, wenn nur ein Text erstellt wurde. Der tatsächliche Kommunikationsstatus wird getrennt von der inhaltlichen Qualität dokumentiert.
+Ein Entwurf wird vollständig vorbereitet, auch wenn der Versand noch nicht autorisiert ist; eine Bitte um Formulierung ist kein Versandauftrag.
 
 ### 1.2. Verständlichkeit ohne Rechtsverlust
 
-Verwende grundsätzlich die Sie-Form, sofern der Mandatskontext nicht ausdrücklich die Du-Form vorgibt. Schreibe in klaren vollständigen Sätzen. Erkläre Fachbegriffe dort, wo sie für die Entscheidung notwendig sind. Die Mandantschaft muss beispielsweise verstehen, dass ein Anerkenntnis, ein Verzicht, ein Vergleich und eine bloße Zahlung unterschiedliche Wirkungen haben können. Vereinfache die Darstellung, ohne rechtserhebliche Unterschiede zu entfernen. Ein Brief kann knapp sein und dennoch Risiko, Kosten und Frist präzise enthalten.
+Verwende grundsätzlich die Sie-Form, sofern der Mandatskontext nicht ausdrücklich die Du-Form vorgibt. Schreibe in klaren vollständigen Sätzen. Erkläre Fachbegriffe dort, wo sie für die Entscheidung notwendig sind. Die Mandantschaft muss beispielsweise verstehen, dass ein Anerkenntnis, ein Verzicht, ein Vergleich und eine bloße Zahlung unterschiedliche Wirkungen haben. Vereinfache die Darstellung, ohne rechtserhebliche Unterschiede zu entfernen. Ein Brief kann knapp sein und dennoch Risiko, Kosten und Frist präzise enthalten.
 
-Trenne interne Bewertung und Empfängertext. Quellenprotokolle, Werkzeuggrenzen und technische Bearbeitungsnotizen gehören grundsätzlich in eine gesonderte interne Notiz. Der Mandantenbrief enthält die für die Entscheidung nötigen rechtlichen Erläuterungen, gegebenenfalls einen gezielten Nachweis und den konkreten Handlungsvorschlag. Er wird nicht durch lange Zitatketten oder allgemeine Haftungsvorbehalte aufgebläht. Eine präzise Benennung des tatsächlichen Risikos ist hilfreicher als eine pauschale Erklärung, für alles könne keine Gewähr übernommen werden.
+Trenne interne Bewertung und Empfängertext. Quellenprotokolle, Werkzeuggrenzen und technische Bearbeitungsnotizen gehören in eine gesonderte interne Notiz; der Brief enthält die für die Entscheidung nötigen Erläuterungen und den konkreten Handlungsvorschlag. Eine präzise Benennung des Risikos ist hilfreicher als ein pauschaler Gewährausschluss.
+
+### 1.3. Auslöser, Abgrenzung und Nachbarskills
+
+Der Skill beginnt, wenn ein gerichtlicher Hinweis, ein Vergleichsvorschlag, ein Urteil, eine Deckungsmitteilung oder ein gegnerisches Schreiben eingegangen ist und die Mandantschaft unterrichtet oder zu einer Entscheidung geführt werden soll. Er beginnt ebenso, wenn für den nächsten Schriftsatz Belege fehlen, ein Telefonat nachgefasst werden soll, sich der Kostenrahmen durch eine neue Aufgabe verändert oder ein Mandatsabschnitt mit verbleibenden Pflichten endet.
+
+Die Fristberechnung selbst, also Fristart, Zustellungstag, Rechenweg und Kalenderkontrolle, übernimmt [fristen-berechnen-ueberwachen](../fristen-berechnen-ueberwachen/SKILL.md); dieser Skill übernimmt nur ein dort geprüftes Fristende in den Brief. Die Vereinbarung oder Änderung der Honorargrundlage übernimmt [honorar-budget-vereinbaren](../honorar-budget-vereinbaren/SKILL.md); dieser Skill erklärt dem Mandanten die gespeicherte Grundlage und ihre Kostenfolge. Schriftsätze entstehen in [schriftsaetze-entwerfen](../schriftsaetze-entwerfen/SKILL.md), die Prüfung einer offenen Fachfrage in [recht-recherchieren](../recht-recherchieren/SKILL.md). Berufsrechtliche Folgen eines möglichen eigenen Fehlers oder einer Mandatsniederlegung prüft [anwaltsberufsrecht-pruefen](../anwaltsberufsrecht-pruefen/SKILL.md). Die Zeiterfassung läuft über [zeiten-erfassen](../zeiten-erfassen/SKILL.md), die Rechnung über [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md), der Mandatsabschluss über [mandat-abschliessen](../mandat-abschliessen/SKILL.md). Der Hauptskill [ki-kanzlei-steuern](../ki-kanzlei-steuern/SKILL.md) verbindet diese Schritte im tatsächlichen Mandat.
+
+Dieser Skill versendet nichts eigenständig, berechnet keine Frist, legt keine Honorargrundlage fest, erfindet keine Erfolgswahrscheinlichkeit und ersetzt keine Fachprüfung der materiellen Rechtslage.
 
 ## 2. Eingaben
 
 ### 2.1. Empfänger und Ziel klären
 
-Lies die vorhandene Akte, den konkreten Auftrag und die jüngste Kommunikation. Prüfe, wer Mandant, bevollmächtigter Ansprechpartner, Zahlungspflichtiger und bloßer Informationsadressat ist. Diese Rollen können auseinanderfallen. Ein Rechtsschutzversicherer, Familienangehöriger oder Unternehmensmitarbeiter ist nicht automatisch berechtigt, sämtliche vertraulichen Einzelheiten zu erhalten. Verwende den bestätigten Kommunikationsweg und prüfe neue Empfängeradressen anhand der vorhandenen Angaben, wenn ein Verwechslungsrisiko besteht.
+Lies die vorhandene Akte, den konkreten Auftrag und die jüngste Kommunikation. Prüfe, wer Mandant, bevollmächtigter Ansprechpartner, Zahlungspflichtiger und bloßer Informationsadressat ist. Ein Rechtsschutzversicherer, Familienangehöriger oder Unternehmensmitarbeiter ist nicht automatisch berechtigt, sämtliche vertraulichen Einzelheiten zu erhalten. Verwende den bestätigten Kommunikationsweg.
 
-Bestimme den Zweck des Schreibens in einem Satz: „Die Mandantin soll bis 09.10.2026 entscheiden, ob sie den konkret beschriebenen Vergleich mit Kostenregelung akzeptiert.“ Ein solcher Zweck führt zu einer anderen Darstellung als ein reiner Zwischenbericht. Bei fehlendem Ziel frage nur danach. Sind Ziel, Empfänger und Frist bereits eindeutig, beginne direkt mit dem Text. Eine wiederholte allgemeine Mandatsaufnahme oder erneute Frage nach der Anrede ist dann unnötig.
+Bestimme den Zweck des Schreibens in einem Satz: „Die Mandantin soll bis Freitag, 09.10.2026, entscheiden, ob sie den konkret beschriebenen Vergleich mit Kostenregelung akzeptiert.“ Ein solcher Zweck führt zu einer anderen Darstellung als ein reiner Zwischenbericht. Sind Ziel, Empfänger und Frist eindeutig, beginne direkt mit dem Text.
 
 ### 2.2. Sachstand und Entscheidungslage
 
-Erfasse gesicherte Ereignisse, gegnerische Behauptungen, gerichtliche Hinweise und offene Tatsachen getrennt. Ein gerichtlicher Vergleichsvorschlag ist keine Entscheidung über die Begründetheit. Eine vorläufige Einschätzung des Gerichts ist kein Urteil. Eine angekündigte Zahlung ist kein Zahlungseingang. Eine Deckungsanfrage ist keine Deckungszusage. Diese Unterschiede müssen im Brief erkennbar bleiben, weil die Mandantschaft ihre Entscheidung sonst auf eine unzutreffende Grundlage stützt.
+Erfasse gesicherte Ereignisse, gegnerische Behauptungen, gerichtliche Hinweise und offene Tatsachen getrennt. Ein Vergleichsvorschlag ist keine Entscheidung über die Begründetheit, eine vorläufige Einschätzung des Gerichts kein Urteil, eine angekündigte Zahlung kein Zahlungseingang, eine Deckungsanfrage keine Deckungszusage. Diese Unterschiede müssen im Brief erkennbar bleiben, weil die Mandantschaft ihre Entscheidung sonst auf eine unzutreffende Grundlage stützt.
 
-Benötigt werden die verfügbaren Handlungsalternativen und deren Folgen. Bei einem Rechtsmittel gehören Erfolgsaussichten, Angriffsgründe, Fristen, Kosten und wirtschaftlicher Nutzen dazu. Bei einem Vergleich gehören Zahlung, Fälligkeit, Erledigungsumfang, Kostenregelung, Sicherheiten und Vollstreckbarkeit dazu. Bei einer Unterlagenanforderung gehören konkrete Dokumente und ihr Zweck dazu. Die Bitte „Senden Sie alles“ ist nur angemessen, wenn der Bestand tatsächlich unübersichtlich und noch keine sinnvolle Eingrenzung möglich ist.
+Benötigt werden die Handlungsalternativen und deren Folgen: bei einem Rechtsmittel Erfolgsaussichten, Angriffsgründe, Fristen, Kosten und wirtschaftlicher Nutzen; bei einem Vergleich Zahlung, Fälligkeit, Erledigungsumfang, Kostenregelung, Sicherheiten und Vollstreckbarkeit; bei einer Unterlagenanforderung konkrete Dokumente und ihr Zweck. Die Bitte „Senden Sie alles“ ist nur angemessen, wenn der Bestand tatsächlich unübersichtlich ist.
 
 ### 2.3. Kosten und bestehende Antworten
 
-Lies Honorarvereinbarung, bisherige Kosteninformation, Vorschüsse, Deckel und bestätigte Zeiten. Übernimm frühere Antworten. Wenn die Mandantschaft bereits ein Budget für den Vergleichsentwurf genehmigt hat, wird es nicht erneut abgefragt, solange sich Umfang und Annahmen nicht ändern. Wenn ein neuer Verfahrensabschnitt hinzukommt, prüfe die Reichweite der Vereinbarung. Eine interne Schätzung wird nicht nachträglich als bindender Festpreis bezeichnet; ein verbindlicher Deckel wird umgekehrt nicht zu einer unverbindlichen Orientierung herabgestuft.
+Lies Honorarvereinbarung, bisherige Kosteninformation, Vorschüsse, Deckel und bestätigte Zeiten und übernimm frühere Antworten. Ein genehmigtes Budget wird nicht erneut abgefragt, solange sich Umfang und Annahmen nicht ändern; bei einem neuen Verfahrensabschnitt prüfe die Reichweite der Vereinbarung. Eine Schätzung wird nicht nachträglich zum Festpreis, ein verbindlicher Deckel nicht zur unverbindlichen Orientierung.
 
-Trenne eigene Vergütung, Gerichtskosten, gegnerische Kosten, Sachverständigenkosten und sonstige Auslagen. Nenne Netto- oder Bruttobezug und den Stand der Berechnung. Erkläre Kostenerstattung und eigene Zahlungspflicht getrennt. Selbst ein vollständiger Prozesserfolg führt nicht automatisch zur Erstattung sämtlicher vereinbarter Mehrvergütung. Ein Rechtsschutzversicherer deckt nur den tatsächlich bestätigten Umfang; Selbstbehalt und ausgeschlossene Positionen können verbleiben.
+Trenne eigene Vergütung, Gerichtskosten, gegnerische Kosten, Sachverständigenkosten und Auslagen; nenne Netto- oder Bruttobezug. Erkläre Kostenerstattung und eigene Zahlungspflicht getrennt: Selbst ein voller Prozesserfolg führt nicht automatisch zur Erstattung der vereinbarten Mehrvergütung, und ein Rechtsschutzversicherer deckt nur den bestätigten Umfang.
+
+### 2.4. Entscheidende Angaben
+
+| Angabe | Warum entscheidend | Vorgehen, wenn sie fehlt |
+|---|---|---|
+| Empfänger und Berechtigung | Vertraulichkeit nach § 43a Abs. 2 BRAO, § 203 StGB | Nur an bestätigten Mandanten adressieren; Dritte als Platzhalter kennzeichnen |
+| Zweck in einem Satz | Bestimmt Aufbau, Länge und Entscheidungsfrage | Aus Auftrag und letztem Ereignis ableiten; sonst eine gezielte Frage |
+| Auslösendes Dokument mit Datum | Sachstand ohne Wertungssprung | Ohne Dokument keinen Sachstand behaupten; Platzhalter setzen |
+| Geprüftes Fristende und Zustellungsbeleg | Rechtsverlust bei Fehlangabe | Frist als „noch ungeprüft“ kennzeichnen; Fristenskill anstoßen |
+| Interne Rückmeldefrist mit Uhrzeit | Zeit für Prüfung und Schriftsatz | Aus Fristende und Bearbeitungsdauer vorschlagen, nicht erfinden |
+| Handlungsalternativen mit Folgen | Entscheidungsvorlage statt Materialsammlung | Mindestens zwei Optionen ausformulieren; Lücken benennen |
+| Gespeicherte Honorargrundlage | Kostenhinweis nach § 49b Abs. 5 BRAO, § 3a RVG | Grundlage vorhalten und bestätigen lassen; keine Zahl erfinden |
+| Stand von Vorschuss, Deckung, Erstattung | Wer zahlt zuerst, wer erstattet später | Getrennt als offen kennzeichnen; Versicherungsschreiben anfordern |
+| Ziele und Prioritäten des Mandanten | Empfehlung muss zum Ziel passen | Aus Akte entnehmen; bei echter Unklarheit eine Frage |
+| Bestätigter Kommunikationsweg | § 2 Abs. 2 BORA, Verschlüsselung, Portal | Bisherigen Weg nutzen; bei sensiblem Inhalt Risikohinweis einfügen |
+| Bereits erteilte Weisungen | Keine erneute Entscheidung über Entschiedenes | Weisung zitieren und nur die neue Frage stellen |
+
+### 2.5. Rückfragen in der richtigen Reihenfolge
+
+Stelle Rückfragen nur, wenn die Antwort das Schreiben inhaltlich verändert, und in dieser Reihenfolge. Erstens: „Wer soll das Schreiben erhalten, und ist diese Person nach der Akte berechtigt, den vollständigen Beratungsinhalt zu erhalten?“ Zweitens: „Welche Entscheidung soll der Mandant mit diesem Schreiben treffen, oder soll er nur informiert werden?“ Drittens: „Liegt das auslösende Dokument mit Zustellungs- oder Zugangsdatum vor, und ist das Fristende bereits geprüft?“ Viertens: „Gilt die gespeicherte Honorargrundlage für diesen Schritt unverändert, und gibt es eine Deckungszusage oder einen Vorschuss, den ich erwähnen soll?“ Fünftens: „Welches Ziel hat der Mandant nach Ihrer Kenntnis vorrangig, etwa schnelle Zahlung, Grundsatzklärung oder Beendigung der Geschäftsbeziehung?“ Sechstens, nur bei einem Versandauftrag: „Soll ich die vorliegende Fassung an die bestätigte Adresse senden, oder bleibt es bei einem Entwurf?“
+
+Ohne Antwort auf die erste und zweite Frage entsteht nur ein Rohentwurf mit Platzhaltern. Ohne Antwort auf die dritte Frage wird der Brief vollständig geschrieben, das Fristende aber als „[Fristende nach Prüfung einsetzen]“ gekennzeichnet. Ohne Antwort auf die vierte Frage enthält der Brief den Kostenhinweis mit der gespeicherten Grundlage und den Vermerk, dass Deckung oder Vorschussverrechnung noch nicht berücksichtigt sind. Ohne Antwort auf die fünfte Frage werden die Optionen neutral gegenübergestellt. Bereits beantwortete Fragen werden nicht wiederholt.
 
 ## 3. Ablauf und Checkliste
 
 ### 3.1. Ergebnis und Empfehlung zuerst formulieren
 
-Beginne mit der Kernaussage: „Wir empfehlen, das Vergleichsangebot in der vorliegenden Fassung noch nicht anzunehmen, weil die Erledigungsklausel auch Ihre bislang nicht bezifferte Gegenforderung erfassen könnte.“ Danach erläutere die entscheidenden Tatsachen und die mögliche Korrektur. Ein solcher Einstieg macht die Handlung verständlich, ohne eine gesamte rechtliche Prüfung voranzustellen. Bei einem neutralen Sachstandsbericht lautet der erste Satz entsprechend, was konkret geschehen ist und ob derzeit Handlungsbedarf besteht.
+Beginne mit der Kernaussage: „Wir empfehlen, das Vergleichsangebot in der vorliegenden Fassung noch nicht anzunehmen, weil die Erledigungsklausel auch Ihre bislang nicht bezifferte Gegenforderung erfassen könnte.“ Danach erläutere die entscheidenden Tatsachen und die mögliche Korrektur. Bei einem Sachstandsbericht nennt der erste Satz, was geschehen ist und ob Handlungsbedarf besteht.
 
-Eine Empfehlung muss auf den Zielen des Mandanten beruhen. Wer vor allem eine schnelle Zahlung benötigt, kann einen anderen wirtschaftlichen Schwerpunkt haben als jemand, der eine Grundsatzfrage klären lassen möchte. Stelle solche Ziele nicht frei erfunden unter. Nutze vorhandene Angaben und frage bei tatsächlich entscheidender Unklarheit nach. Ein rechtlich maximaler Anspruch ist nicht automatisch der wirtschaftlich beste Weg; die Beratung soll die relevanten Alternativen verständlich machen.
+Eine Empfehlung muss auf den Zielen des Mandanten beruhen. Wer eine schnelle Zahlung benötigt, hat einen anderen Schwerpunkt als jemand, der eine Grundsatzfrage klären lassen möchte. Unterstelle solche Ziele nicht; ein rechtlich maximaler Anspruch ist nicht automatisch der wirtschaftlich beste Weg.
 
 ### 3.2. Sachstand ohne Wertungssprünge erklären
 
 Beschreibe zunächst, welche Unterlage oder Handlung den neuen Stand begründet. „Das Gericht hat mit Verfügung vom 06.10.2026 darauf hingewiesen, dass der bisherige Vortrag zum Zugang der Mahnung nicht ausreicht.“ Erläutere anschließend die Folge: „Wir müssen daher den Zugang genauer darlegen oder den vorgerichtlichen Zinsbeginn anders begründen.“ Vermeide Formulierungen wie „Das Gericht glaubt uns nicht“, wenn lediglich ein Substantiierungshinweis vorliegt.
 
-Ordne gegnerische Aussagen als solche ein. „Die Gegenseite behauptet, der Zusatzauftrag sei nicht erteilt worden“ ist präziser als „Der Zusatzauftrag ist streitig“, wenn der Mandant die Ursache des weiteren Belegbedarfs verstehen soll. Nenne die eigene Einschätzung gesondert: „Die E-Mail vom 12.08. spricht für eine Beauftragung, lässt den genauen Leistungsumfang aber offen.“ Dadurch bleibt erkennbar, welche Aussage gesichert und welche bewertet ist.
+Ordne gegnerische Aussagen als solche ein („Die Gegenseite behauptet, der Zusatzauftrag sei nicht erteilt worden“) und nenne die eigene Einschätzung gesondert („Die E-Mail vom 12.08.2026 spricht für eine Beauftragung, lässt den Leistungsumfang aber offen“). So bleibt erkennbar, welche Aussage gesichert und welche bewertet ist.
 
 ### 3.3. Rechtsrisiken konkret erläutern
 
-Erkläre das Risiko an der entscheidenden Voraussetzung. „Ohne Nachweis des Zugangs kann das Gericht den beanspruchten Zinsbeginn ablehnen“ benennt eine konkrete Folge. „Es besteht immer ein Prozessrisiko“ ist zu allgemein. Trenne das Risiko einer vollständigen Klageabweisung vom Risiko einer geringeren Forderung, eines späteren Zinsbeginns oder einer ungünstigen Kostenquote. Der Mandant muss erkennen, welche wirtschaftliche Größe tatsächlich betroffen ist.
+Erkläre das Risiko an der entscheidenden Voraussetzung. „Ohne Nachweis des Zugangs kann das Gericht den beanspruchten Zinsbeginn ablehnen“ benennt eine konkrete Folge; „Es besteht immer ein Prozessrisiko“ ist zu allgemein. Trenne das Risiko einer vollständigen Klageabweisung vom Risiko einer geringeren Forderung, eines späteren Zinsbeginns oder einer ungünstigen Kostenquote, damit der Mandant die betroffene wirtschaftliche Größe erkennt.
 
-Verwende keine erfundenen Prozentwerte. Wenn eine quantifizierte Einschätzung erforderlich ist, erläutere ihre tatsächliche Grundlage und Unsicherheit. Häufig sind Szenarien geeigneter: Bestätigung der Zusatzabrede durch die Zeugin, keine Erinnerung oder widersprechende Aussage. Zeige, welche Konsequenz jede Variante für den Anspruch hat. Eine solche Darstellung ermöglicht eine nachvollziehbare Entscheidung, ohne die Unsicherheit durch eine scheinbar präzise Zahl zu verschleiern.
+Verwende keine erfundenen Prozentwerte. Szenarien sind meist geeigneter: Bestätigung der Zusatzabrede durch die Zeugin, keine Erinnerung oder widersprechende Aussage, jeweils mit der Konsequenz für den Anspruch.
 
 ### 3.4. Beweisrisiken verständlich machen
 
-Erkläre den Unterschied zwischen dem geschilderten Geschehen und seiner gerichtlichen Nachweisbarkeit. „Wir können Ihre Darstellung vortragen. Wenn die Gegenseite sie bestreitet, müssen die entscheidenden Tatsachen jedoch mit geeigneten Beweismitteln festgestellt werden.“ Ordne die vorhandenen Belege zu. Eine Rechnung belegt nicht zwangsläufig den Vertragsschluss; eine Versandbestätigung belegt nicht in jeder Konstellation den Zugang; eine Gesprächsnotiz kann ein Indiz sein, ohne eine Zeugenaussage zu ersetzen.
+Erkläre den Unterschied zwischen dem geschilderten Geschehen und seiner Nachweisbarkeit: „Wir können Ihre Darstellung vortragen. Wenn die Gegenseite sie bestreitet, müssen die entscheidenden Tatsachen jedoch mit geeigneten Beweismitteln festgestellt werden.“ Ordne die Belege zu: Eine Rechnung belegt nicht zwangsläufig den Vertragsschluss, eine Versandbestätigung nicht in jeder Konstellation den Zugang, und eine Gesprächsnotiz ersetzt keine Zeugenaussage.
 
-Frage gezielt nach wahrnehmungsfähigen Personen und Originalunterlagen. „Wer nahm an dem Gespräch teil und kann den Inhalt aus eigener Wahrnehmung schildern?“ ist besser als „Haben Sie Zeugen?“. Bei einer Unterlage frage nach vollständiger Fassung einschließlich Anlagen, wenn diese den Vertragsinhalt bestimmen. Die Mandantschaft soll keine Aussagen einüben oder Belege nachträglich passend machen. Die Kommunikation dient der sachlichen Aufklärung und erhält Unterschiede zwischen Erinnerung, Vermutung und vorhandener Dokumentation.
+Frage gezielt nach wahrnehmungsfähigen Personen und Originalunterlagen: „Wer nahm an dem Gespräch teil und kann den Inhalt aus eigener Wahrnehmung schildern?“ Die Mandantschaft soll keine Aussagen einüben oder Belege nachträglich passend machen.
 
 ### 3.5. Fristen und interne Rückmeldung trennen
 
-Nenne das geprüfte rechtliche Fristende und die interne Rückmeldefrist getrennt, wenn beide für die Entscheidung relevant sind. „Die gerichtliche Frist endet am [Datum]. Damit wir Ihre Angaben prüfen und den Schriftsatz rechtzeitig fertigstellen können, benötigen wir Ihre Antwort bis [früheres Datum, Uhrzeit].“ Erkläre die konkrete Folge fehlender Rückmeldung. Vermeide pauschale Drohungen, die ohne Bezug zum tatsächlichen Verfahren einen sicheren Rechtsverlust behaupten.
+Nenne das geprüfte rechtliche Fristende und die interne Rückmeldefrist getrennt. „Die Berufungsfrist endet am Freitag, 13.11.2026. Damit wir Ihre Angaben prüfen und die Berufung rechtzeitig einlegen können, benötigen wir Ihre Entscheidung bis Mittwoch, 04.11.2026, 12 Uhr.“ Erkläre die konkrete Folge fehlender Rückmeldung; vermeide pauschale Drohungen mit sicherem Rechtsverlust. Nenne die Verantwortlichkeit ausdrücklich: Die Kanzlei sichert die Frist organisatorisch, der Mandant liefert Entscheidung und Belege bis zum genannten Zeitpunkt.
 
-Wenn das Fristende noch ungeprüft ist, benenne den fehlenden Auslösebeleg. Ein Schreibdatum darf nicht als Zustellungsdatum ausgegeben werden. Ein beantragter Fristaufschub wird nicht als bewilligt dargestellt. Eine gerichtliche Frist und eine selbst gesetzte Antwortfrist sind auch sprachlich zu unterscheiden. Bei dringlichem Handlungsbedarf bereite den möglichen Sicherungsschritt parallel vor, soweit der Auftrag reicht. Die Bitte um fehlende Angaben ersetzt nicht die organisatorische Fristsicherung durch die zuständige Person.
+Für die Berufung im Zivilprozess gilt nach [§ 517 ZPO](https://www.gesetze-im-internet.de/zpo/__517.html) eine Notfrist von einem Monat ab Zustellung des vollständigen Urteils, spätestens fünf Monate nach Verkündung; die Begründungsfrist beträgt nach [§ 520 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__520.html) zwei Monate ab Zustellung und kann ohne Einwilligung des Gegners um bis zu einen Monat verlängert werden, wenn der Vorsitzende die dort genannten Voraussetzungen bejaht. Fällt das Fristende auf ein Wochenende oder einen Feiertag, verschiebt [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) das Ende auf den nächsten Werktag. Der Brief nennt das konkrete Ende nur nach Berechnung und Bestätigung durch den Fristenskill; eine Verlängerung wird erst nach gerichtlicher Bewilligung als gewährt mitgeteilt.
+
+Wenn das Fristende noch ungeprüft ist, benenne den fehlenden Auslösebeleg; ein Schreibdatum darf nicht als Zustellungsdatum ausgegeben werden. Bei dringlichem Handlungsbedarf bereite den Sicherungsschritt parallel vor, soweit der Auftrag reicht.
 
 ### 3.6. Fragen bündeln und beantworten lassen
 
-Stelle nur entscheidende Fragen und ordne jeder ihre Bedeutung zu. „Bitte senden Sie die Nachricht, mit der das Angebot angenommen wurde; sie ist für den Nachweis des Auftragsschlusses erforderlich.“ Mehrere zusammenhängende Fragen dürfen nummeriert werden. Der übrige Brief bleibt ausformuliert. Vermeide lange Listen abstrakter Möglichkeiten, wenn nur zwei konkrete Belege fehlen. Übernimm bereits bekannte Daten und kennzeichne die verbleibende Lücke, statt alles noch einmal abzufragen.
+Stelle nur entscheidende Fragen und ordne jeder ihre Bedeutung zu: „Bitte senden Sie die Nachricht, mit der das Angebot angenommen wurde; sie ist für den Nachweis des Auftragsschlusses erforderlich.“ Zusammenhängende Fragen dürfen nummeriert werden; der übrige Brief bleibt ausformuliert. Übernimm bekannte Daten und kennzeichne nur die verbleibende Lücke.
 
-Nach Eingang der Antwort wird der bestehende Entwurf gezielt aktualisiert. Wenn eine Antwort eine weitere entscheidende Frage aufwirft, stelle diese in ihrem Zusammenhang. Es gibt keine starre Höchstzahl von Rückfragen; zugleich werden bereits beantwortete Fragen nicht wiederholt. Bei widersprüchlichen Antworten formuliere neutral: „In Ihrer Nachricht vom 03.10. nennen Sie den 28.09. als Zugangstag, heute den 30.09. Bitte teilen Sie mit, welcher Tag zutrifft und worauf Ihre Erinnerung beruht.“
+Nach der Antwort wird der Entwurf gezielt aktualisiert. Bei Widersprüchen formuliere neutral: „In Ihrer Nachricht vom 02.10.2026 nennen Sie den 28.09.2026 als Zugangstag, heute den 30.09.2026. Bitte teilen Sie mit, welcher Tag zutrifft und worauf Ihre Erinnerung beruht.“
 
-### 3.7. Kosteninformation vor einem wesentlichen neuen Schritt
+### 3.7. Unverzügliche Unterrichtung und Antwort
 
-Erkläre, welche Kosten durch die nächste Handlung entstehen können und auf welcher Grundlage. Bei RVG werden Gegenstand, Wert, Verfahrensabschnitt und einschlägige Gebührentatbestände geprüft. Bei Stundenhonorar werden Satz, erwarteter Tätigkeitsumfang, vorhandener Deckel und Unsicherheiten beschrieben. Bei Festpreis wird der enthaltene Leistungsumfang benannt. Eine unverbindliche Schätzung darf keine versteckte Preisgarantie enthalten; ein verbindlicher Preis darf nicht mit pauschalen Vorbehalten ausgehöhlt werden.
+Nach § 11 BORA ist die Mandantschaft über alle für den Fortgang der Sache wesentlichen Vorgänge und Maßnahmen unverzüglich zu unterrichten; von wesentlichen erhaltenen oder versandten Schriftstücken ist Kenntnis zu geben, und Anfragen des Mandanten sind unverzüglich zu beantworten. Der Wortlaut ist am amtlichen Satzungstext der [BRAK](https://www.brak.de/die-brak/satzungsrecht/bora/) zu prüfen. Daraus folgt eine konkrete Arbeitsregel: Ein eingegangener gerichtlicher Hinweis, ein Vergleichsvorschlag oder ein Urteil löst spätestens mit der Fristnotierung auch den Entwurf der Mandanteninformation aus. Eine Mandantenanfrage wird nicht bis zur vollständigen Fachprüfung liegen gelassen; ist die Antwort noch nicht möglich, erhält der Mandant eine Zwischennachricht mit dem konkreten Zeitpunkt der Antwort.
 
-Kosteninformation soll eine Entscheidung ermöglichen. Nenne bei einer Erweiterung den bisher vereinbarten Rahmen, den konkreten Mehrumfang und eine begründete neue Einschätzung. „Es wird teurer“ genügt nicht. „Für die zusätzliche Prüfung der Gegenforderung erwarten wir nach dem derzeitigen Unterlagenumfang weitere [Spanne] Stunden; dies ist von dem bisherigen Festpreis nicht erfasst“ kann nach tatsächlicher Prüfung angemessen sein. Erfinde die Spanne nicht; sie muss aus der bearbeitbaren Aufgabe und einer verantworteten Kalkulation stammen.
+Übersende wesentliche Schriftstücke als Anlage; die Zusammenfassung eines Urteils ersetzt die Übersendung nicht, und die Übersendung ersetzt die Beratung nicht.
 
-### 3.8. Erstattung, Versicherung und Vorschuss auseinanderhalten
+### 3.8. Kosteninformation vor einem wesentlichen neuen Schritt
 
-Erkläre, wer zunächst zahlen muss und unter welchen Voraussetzungen später eine Erstattung möglich ist. Die gegnerische Kostenerstattung richtet sich nicht automatisch nach dem vereinbarten Stundensatz. Bei besonderen Verfahrensarten, etwa dem arbeitsgerichtlichen Urteilsverfahren erster Instanz, sind die einschlägigen Kostenregeln gesondert zu prüfen. Eine allgemeine ZPO-Formulierung wird nicht ohne Prüfung übernommen. Eine Kostenquote nach teilweisem Erfolg kann zusätzliche Unsicherheit enthalten.
+Erkläre, welche Kosten durch die nächste Handlung entstehen können und auf welcher Grundlage. Nach [§ 49b Abs. 5 BRAO](https://www.gesetze-im-internet.de/brao/__49b.html) ist vor Übernahme des Auftrags darauf hinzuweisen, dass sich die Gebühren nach dem Gegenstandswert richten; bei einer Erweiterung des Mandats auf eine neue Angelegenheit wiederholt der Brief diesen Hinweis. Bei Stundenhonorar werden Satz, erwarteter Umfang, Deckel und Unsicherheiten beschrieben; bei Festpreis der enthaltene Leistungsumfang. Eine unverbindliche Schätzung darf keine versteckte Preisgarantie enthalten; ein verbindlicher Preis darf nicht mit pauschalen Vorbehalten ausgehöhlt werden.
 
-Ein Vorschuss ist keine abschließende Kostenrechnung und keine Zusage, dass darüber hinaus nichts anfällt. Er wird später nach der maßgeblichen Grundlage verrechnet. Eine Deckungszusage wird mit Datum, Gegenstand, Instanz, Selbstbehalt und etwaigen Einschränkungen ausgewertet. Wenn die Versicherung nur gesetzliche Gebühren übernimmt, wird die mögliche Differenz zur Vergütungsvereinbarung konkret erklärt. Eine Zahlung des Versicherers macht ihn nicht automatisch zum Empfänger sämtlicher vertraulicher Beratungsergebnisse.
+Eine Vergütungsvereinbarung bedarf nach [§ 3a Abs. 1 RVG](https://www.gesetze-im-internet.de/rvg/__3a.html) der Textform, muss als solche bezeichnet und abgesetzt sein und den Hinweis enthalten, dass Gegner, Verfahrensbeteiligte oder Staatskasse im Fall der Kostenerstattung regelmäßig nicht mehr als die gesetzliche Vergütung erstatten. Der Brief über eine Mandatserweiterung ersetzt diese Vereinbarung nicht; er kündigt sie an und übergibt die Gestaltung an [honorar-budget-vereinbaren](../honorar-budget-vereinbaren/SKILL.md). Ein Vorschuss kann nach [§ 9 RVG](https://www.gesetze-im-internet.de/rvg/__9.html) für entstandene und voraussichtlich entstehende Gebühren und Auslagen angemessen gefordert werden; der Brief nennt Betrag, Grundlage und spätere Verrechnung.
 
-### 3.9. Vergleichsberatung vollständig vorbereiten
+Nenne bei einer Erweiterung den bisher vereinbarten Rahmen, den konkreten Mehrumfang und eine begründete neue Einschätzung; „Es wird teurer“ genügt nicht, und eine Stundenspanne stammt aus einer verantworteten Kalkulation, nicht aus dem Muster.
 
-Stelle den angebotenen Vergleich der Fortführung des Streits gegenüber. Erkläre Zahlungsbetrag, Fälligkeit, Zinsen, Kostenregelung, Sicherheiten und Erledigungsumfang. Eine Klausel über „sämtliche Ansprüche aus der Geschäftsbeziehung“ kann weiter reichen als der anhängige Streit. Prüfe, ob bekannte Gegenforderungen, künftig entstehende Ansprüche oder Ansprüche Dritter betroffen sein könnten. Der Mandant muss die Reichweite verstehen, bevor eine Annahme empfohlen wird.
+### 3.9. Erstattung, Versicherung und Vorschuss auseinanderhalten
 
-Benutze keine bloße Formel „Der Vergleich ist wirtschaftlich sinnvoll“. Begründe dies mit den konkreten Beweisrisiken, voraussichtlicher Verfahrensdauer, Kosten und tatsächlicher Durchsetzbarkeit. Wenn Zahlungsausfall droht, können Sicherheitsleistung, kurze Fälligkeit oder Vollstreckungstitel entscheidend sein. Ein rechtlich guter Vergleich mit unklarer Zahlungssicherung kann wirtschaftlich schlecht sein. Formuliere die empfohlenen Änderungen vollständig und bereite die konkrete Entscheidungsfrage vor. Die Zustimmung zu einem Entwurf ist nicht mit einem bereits abgeschlossenen Vergleich gleichzusetzen.
+Erkläre, wer zunächst zahlt und wann eine Erstattung möglich ist; die gegnerische Kostenerstattung richtet sich nicht nach dem vereinbarten Stundensatz. Im arbeitsgerichtlichen Urteilsverfahren erster Instanz besteht nach [§ 12a Abs. 1 Satz 1 ArbGG](https://www.gesetze-im-internet.de/arbgg/__12a.html) kein Anspruch der obsiegenden Partei auf Erstattung der Kosten ihres Prozessbevollmächtigten; Satz 2 verlangt, vor Abschluss der Vertretungsvereinbarung auf diesen Ausschluss hinzuweisen. Der Brief zu einem arbeitsgerichtlichen Mandat enthält diesen Hinweis ausdrücklich und erklärt, dass der Mandant seine Anwaltskosten auch bei vollem Obsiegen selbst trägt. Eine allgemeine ZPO-Formulierung wird nicht ungeprüft übernommen.
 
-### 3.10. Rechtsmittelberatung nach einem ungünstigen Urteil
+Ein Vorschuss ist keine abschließende Kostenrechnung. Eine Deckungszusage wird mit Datum, Gegenstand, Instanz, Selbstbehalt und Einschränkungen ausgewertet; übernimmt die Versicherung nur gesetzliche Gebühren, wird die Differenz zur Vergütungsvereinbarung konkret erklärt. Eine Zahlung des Versicherers macht ihn nicht zum Empfänger vertraulicher Beratungsergebnisse.
 
-Erläutere den Inhalt der Entscheidung und die tragenden Gründe, bevor die Erfolgsaussichten eines Rechtsmittels bewertet werden. Benenne konkrete mögliche Angriffe: fehlerhafte Normauslegung, übergangener erheblicher Vortrag, unzutreffende Beweiswürdigung oder Verfahrensfehler. Ein allgemeiner Hinweis, das Urteil sei „angreifbar“, genügt nicht. Ebenso wenig ersetzt das bloße Übersenden des Urteils die erforderliche Beratung, wenn innerhalb des Mandats eine Entscheidung über das weitere Vorgehen ansteht.
+### 3.10. Vergleichsberatung vollständig vorbereiten
 
-Stelle Statthaftigkeit, Einlegungs- und Begründungsfrist, Kosten und wirtschaftliche Bedeutung dar. Unterscheide fristwahrende Einlegung und spätere Begründung, soweit verfahrensrechtlich zulässig und sinnvoll. Eine solche Vorgehensweise kann Kostenfolgen haben, die der Mandant verstehen muss. Wenn vom Rechtsmittel abgeraten wird, erkläre die entscheidenden Gründe und die Folge des Fristablaufs. Ein Schweigen des Mandanten wird nicht ohne tragfähige Grundlage als bewusster Rechtsmittelverzicht behandelt.
+Stelle den angebotenen Vergleich der Fortführung des Streits gegenüber. Erkläre Zahlungsbetrag, Fälligkeit, Zinsen, Kostenregelung, Sicherheiten und Erledigungsumfang. Eine Klausel über „sämtliche Ansprüche aus der Geschäftsbeziehung“ kann weiter reichen als der anhängige Streit. Prüfe, ob bekannte Gegenforderungen, künftig entstehende Ansprüche oder Ansprüche Dritter betroffen sein könnten.
 
-### 3.11. Schwierige Nachrichten klar und respektvoll formulieren
+Erkläre die Kostenfolge ausdrücklich: Ohne abweichende Vereinbarung gelten die Kosten eines Vergleichs und des erledigten Rechtsstreits nach [§ 98 ZPO](https://www.gesetze-im-internet.de/zpo/__98.html) als gegeneinander aufgehoben; jede Seite trägt dann ihre eigenen Anwaltskosten und die Hälfte der Gerichtskosten. Weise darauf hin, dass ein Vergleich eine zusätzliche Einigungsgebühr nach dem Vergütungsverzeichnis auslösen kann, deren Höhe anhand des konkreten Gebührenblatts zu prüfen ist. Ein gerichtlicher Vergleich kann nach [§ 278 Abs. 6 ZPO](https://www.gesetze-im-internet.de/zpo/__278.html) auch schriftlich durch Annahme eines gerichtlichen Vorschlags geschlossen werden; das Gericht stellt ihn durch Beschluss fest. Die Zustimmung des Mandanten zum Entwurf ist deshalb von der Annahmeerklärung gegenüber dem Gericht zu unterscheiden, die die Kanzlei erst nach Weisung abgibt.
 
-Bei schlechten Aussichten, abgelehnter Deckung oder unerwarteten Kosten wird das Ergebnis früh genannt. Vermeide beschönigende Wendungen, die die Bedeutung verschleiern. „Nach Prüfung der vorliegenden Unterlagen können wir den behaupteten Zusatzauftrag derzeit nicht ausreichend belegen“ ist klarer als „Es bestehen gewisse Herausforderungen“. Erläutere anschließend, was noch aufgeklärt werden kann und welche Alternative besteht. Der Ton bleibt sachlich, ohne der Mandantschaft Schuld zuzuschieben.
+Erläutere, dass ein Vergleich den Streit durch gegenseitiges Nachgeben beendet und nur in dem engen Fall des [§ 779 BGB](https://www.gesetze-im-internet.de/bgb/__779.html) unwirksam ist, wenn der als feststehend zugrunde gelegte Sachverhalt nicht der Wirklichkeit entspricht; spätere bessere Beweise öffnen den Vergleich regelmäßig nicht mehr. Die Beratung zum Vergleich ist haftungsrelevant: Vor- und Nachteile, Reichweite der Erledigung, Kostenfolge und Risiko der Fortführung werden schriftlich festgehalten. Begründe die Empfehlung mit Beweisrisiken, Verfahrensdauer, Kosten und Durchsetzbarkeit; bei drohendem Zahlungsausfall können Sicherheitsleistung, kurze Fälligkeit oder Vollstreckungstitel entscheidend sein. Formuliere die empfohlenen Änderungen vollständig.
 
-Bei einem möglichen eigenen Fehler werden Sachstand, unmittelbare Sicherungsmaßnahmen und weitere erforderliche Prüfung sorgfältig getrennt. Beschönige keine versäumte Frist, behaupte aber auch keinen endgültigen Rechtsverlust, wenn Wiedereinsetzung oder andere Maßnahmen noch zu prüfen sind. Ein Anerkenntnis von Haftung oder ein Verzicht auf Einwendungen wird nicht beiläufig in einen Sachstandsbrief aufgenommen. Berufsrechtliche, versicherungsrechtliche und konkrete Mandatspflichten werden bei Bedarf durch den dafür vorgesehenen Skill geprüft.
+### 3.11. Rechtsmittelberatung nach einem ungünstigen Urteil
 
-### 3.12. Vertraulichen Inhalt adressatengerecht halten
+Erläutere den Inhalt der Entscheidung und die tragenden Gründe, bevor die Erfolgsaussichten bewertet werden. Benenne konkrete Angriffe: fehlerhafte Normauslegung, übergangener erheblicher Vortrag, unzutreffende Beweiswürdigung oder Verfahrensfehler. „Das Urteil ist angreifbar“ genügt nicht, und das bloße Übersenden des Urteils ersetzt die Beratung nicht.
 
-Prüfe, ob der Brief sensible Gesundheits-, Familien-, Straf- oder Unternehmensdaten enthält und ob diese für den Empfänger nötig sind. Ein interner ausführlicher Beratungsvermerk kann gegenüber einem berechtigten Mandanten angemessen sein, während eine Kostenaufstellung an einen Versicherer eine reduzierte Tätigkeitsbeschreibung benötigt. Reduktion darf jedoch die Nachprüfbarkeit der tatsächlich abgerechneten Leistung nicht unzulässig beseitigen. Wähle einen sachlichen, hinreichend konkreten Informationsumfang.
+Stelle Statthaftigkeit, Einlegungs- und Begründungsfrist, Kosten und wirtschaftliche Bedeutung dar. Unterscheide fristwahrende Einlegung und spätere Begründung und erkläre deren Kostenfolge. Wird vom Rechtsmittel abgeraten, erkläre die Gründe und die Folge des Fristablaufs. Schweigen des Mandanten ist kein Rechtsmittelverzicht; der Brief verlangt eine ausdrückliche Weisung und nennt, was die Kanzlei ohne Weisung bis zum Fristende tut.
 
-Bei mehreren Mandanten oder Ansprechpartnern ist die gemeinsame Informationslage zu prüfen. Ein Ansprechpartner darf nicht ohne Weiteres vertrauliche Einzelinteressen eines anderen Beteiligten erhalten. Neue Empfänger oder Kopieadressaten werden nicht aus einer früheren E-Mail-Kette automatisch übernommen. Ein einmaliger Versand an eine Adresse begründet keine unbegrenzte zukünftige Freigabe für alle Daten. Nutze bestehende Autorisierung in ihrem tatsächlichen Umfang und kläre nur den konkreten neuen Konflikt.
+### 3.12. Schwierige Nachrichten klar und respektvoll formulieren
 
-### 3.13. Honorarcheck und Zeitnarrativ im Arbeitsprozess
+Bei schlechten Aussichten, abgelehnter Deckung oder unerwarteten Kosten wird das Ergebnis früh genannt. „Nach Prüfung der vorliegenden Unterlagen können wir den behaupteten Zusatzauftrag derzeit nicht ausreichend belegen“ ist klarer als „Es bestehen gewisse Herausforderungen“. Erläutere anschließend, was noch aufgeklärt werden kann und welche Alternative besteht; der Ton bleibt sachlich.
 
-Halte vor einem wesentlichen Kommunikationsauftrag die gespeicherte Honorargrundlage knapp vor und frage nach Änderungen, soweit noch offen. Eine einfache Sachstandsmitteilung kann Teil des bisherigen Mandats sein; eine umfassende neue Rechtsmittelberatung kann einen erweiterten Umfang auslösen. Die Einordnung erfolgt anhand der Vereinbarung und des Auftrags, nicht anhand der Länge des Briefs. Bereits bestätigte Kostenangaben werden übernommen und nur bei neuem tatsächlichen Anlass aktualisiert.
+Bei einem möglichen eigenen Fehler werden Sachstand, unmittelbare Sicherungsmaßnahmen und weitere Prüfung getrennt. Beschönige keine versäumte Frist, behaupte aber keinen endgültigen Rechtsverlust, wenn Wiedereinsetzung oder andere Maßnahmen noch zu prüfen sind. Ein Haftungsanerkenntnis oder ein Verzicht auf Einwendungen wird nicht beiläufig in einen Sachstandsbrief aufgenommen. Die berufs- und versicherungsrechtlichen Folgen prüft [anwaltsberufsrecht-pruefen](../anwaltsberufsrecht-pruefen/SKILL.md) vor dem Versand.
 
-Nach tatsächlicher Arbeit frage nach Datum, menschlicher Dauer, Person, Abrechenbarkeit und Narrativ, soweit diese Angaben fehlen. Ein geeignetes Narrativ lautet „Mandanteninformation zu Vergleichsangebot, Beweisrisiken und Kostenfolgen einschließlich Handlungsempfehlung“. Verbuche keine hypothetische Zeit, die ein Mensch ohne KI benötigt hätte. Speichere bestätigte Angaben und aktualisiere den Rechnungsentwurf im realen Mandatsordner. Die offene Zeiterfassung hindert die Fertigstellung des Briefs nicht. Honorar- und Zeitfragen an die Kanzlei gehören nicht ungeprüft in den Mandantenbrief.
+### 3.13. Kommunikationsweg, Vertraulichkeit und Verschlüsselung
 
-### 3.14. Versandstand und Rücklauf dokumentieren
+Die Verschwiegenheitspflicht nach [§ 43a Abs. 2 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html) und der Schutz des [§ 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html) gelten für jeden Kommunikationsweg. § 2 Abs. 2 BORA verlangt risikoadäquate und zumutbare organisatorische und technische Schutzmaßnahmen; die Nutzung eines mit Vertraulichkeitsrisiken verbundenen elektronischen Wegs ist danach jedenfalls erlaubt, wenn der Mandant zustimmt, und von einer Zustimmung ist auszugehen, wenn der Mandant diesen Weg vorschlägt oder beginnt und ihn nach einem zumindest pauschalen Risikohinweis fortsetzt. Prüfe diesen Wortlaut vor der Verwendung am amtlichen Satzungstext der BRAK.
 
-Vor autorisiertem Versand prüfe konkrete Fassung, Empfänger, Betreff, Anlagen und Kommunikationsweg. Ein Dateianhang muss die bezeichnete Fassung enthalten. Prüfe, ob interne Kommentare oder fremde Aktenreste entfernt sind. Nach Versand dokumentiere nur den tatsächlich belegten Status. Ein erfolgreicher Versand ist nicht in jedem Fall ein Zugangsnachweis. Eine Lesebestätigung kann fehlen, obwohl die Nachricht zugegangen ist; umgekehrt beweist ein Entwurfsstatus keinerlei Kommunikation.
+Dokumentiere, ob der Mandant die unverschlüsselte E-Mail selbst begonnen hat und ob der Risikohinweis in der Akte liegt. Fehlt er, enthält die erste E-Mail einen Satz wie „Wir weisen darauf hin, dass unverschlüsselte E-Mails von Dritten mitgelesen werden können; wenn Sie einen gesicherten Weg wünschen, nennen wir Ihnen unser Mandantenportal.“ Bei Gesundheits-, Straf- oder Geschäftsgeheimnisdaten schlage den gesicherten Weg aktiv vor; behaupte keinen Kanal, der nicht eingerichtet ist.
 
-Bei Rücklauf wird die neue Information in die Akte und das betroffene Produkt eingearbeitet. Eine Zustimmung zum Vergleich mit Änderungsvorbehalt ist keine vorbehaltlose Annahme. Eine Rückfrage zu Kosten ist keine eindeutige Freigabe des nächsten Verfahrensschritts. Ein ausbleibender Rücklauf wird anhand der konkreten Frist und vorhandenen Weisung behandelt; es wird kein autonomer Erinnerungsdienst behauptet. Wenn eine Erinnerung tatsächlich eingerichtet ist, werden Zeitpunkt, Kanal und Zuständigkeit wahrheitsgemäß angegeben.
+Prüfe bei jeder Antwort in einer E-Mail-Kette, ob frühere Kopieempfänger noch berechtigt sind; ein einmaliger Versand an eine Adresse begründet keine unbegrenzte Freigabe. Bei mehreren Mandanten darf ein Ansprechpartner nicht ohne Weiteres Einzelinteressen eines anderen Beteiligten erfahren. Eine Kostenaufstellung an einen Versicherer erhält eine reduzierte Tätigkeitsbeschreibung, die die Nachprüfbarkeit der Leistung nicht beseitigt.
 
-### 3.15. Telefonische Beratung nachfassend festhalten
+### 3.14. Honorarcheck und Zeitnarrativ im Arbeitsprozess
 
-Wenn der Auftrag ein Telefonat oder dessen Nachbereitung betrifft, unterscheide tatsächlich besprochenen Inhalt und nachträgliche Ergänzung. Ein Vermerk darf nicht behaupten, eine Kostenfolge sei erläutert worden, wenn sie erst beim Schreiben auffällt. Formuliere dann: „Ergänzend zu unserem heutigen Gespräch weisen wir darauf hin, dass …“. Die Mandantschaft muss erkennen, welche neue Information für ihre Entscheidung hinzukommt. Bei einer bereits erteilten Weisung ist zu prüfen, ob die Ergänzung eine erneute Entscheidung erforderlich macht oder lediglich den bekannten Stand präzisiert.
+Halte vor einem wesentlichen Kommunikationsauftrag die gespeicherte Honorargrundlage knapp vor: „Gespeichert: Zeithonorar 240 EUR netto je Stunde, Deckel 1.200 EUR netto für die außergerichtliche Phase. Gilt das für diesen Brief unverändert?“ Eine einfache Sachstandsmitteilung kann Teil des bisherigen Mandats sein; eine umfassende neue Rechtsmittelberatung kann einen erweiterten Umfang auslösen. Die Einordnung erfolgt anhand der Vereinbarung, nicht anhand der Länge des Briefs.
 
-Ein Nachfassschreiben hält insbesondere Empfehlung, besprochene Alternativen, erkennbare Risiken, bestimmte Frist und konkrete Weisung fest. Vermeide pauschale Bestätigungen, der Mandant habe „alles verstanden“ oder „sämtliche Risiken übernommen“. Eine sachliche Formulierung lautet: „Sie haben uns heute beauftragt, den Vergleich mit einem Mindestzahlungsbetrag von [Betrag] und der beschriebenen Beschränkung der Erledigungsklausel weiterzuverhandeln.“ Das dokumentiert den Auftrag, ohne einen weitergehenden Verzicht zu fingieren.
+Nach tatsächlicher Arbeit frage nach Datum, menschlicher Dauer, Person, Abrechenbarkeit und Narrativ, soweit diese Angaben fehlen; ein geeignetes Narrativ lautet „Mandanteninformation zu Vergleichsangebot, Beweisrisiken und Kostenfolgen einschließlich Handlungsempfehlung“. Verbuche keine hypothetische Zeit, die ein Mensch ohne KI benötigt hätte. Bestätigte Angaben werden mit dem Befehl `time` von [kanzlei.py](../../scripts/kanzlei.py) im realen Mandatsordner gespeichert; das Skript erwartet dafür `id`, `terms_id`, `work_date`, `person`, `minutes`, `narrative`, `billable`, `confirmed` und `source` nach [Mandatsordner und CLI](../../references/mandatsordner-und-cli.md). Die offene Zeiterfassung hindert die Fertigstellung des Briefs nicht.
 
-### 3.16. Sprachliche und persönliche Verständnishürden berücksichtigen
+### 3.15. Versandstand und Rücklauf dokumentieren
 
-Wenn aus der Akte hervorgeht, dass juristische oder sprachliche Verständnishürden bestehen, passe Satzlänge, Begriffserklärung und Informationsreihenfolge an. Erkläre beispielsweise „Rechtskraft“ als den Zustand, in dem die Entscheidung mit den gewöhnlichen Rechtsmitteln nicht mehr angegriffen werden kann, soweit dies für den konkreten Fall zutrifft. Verwende keine herablassende Ansprache. Eine Übersetzung wird als solche kenntlich gemacht und bei entscheidenden rechtlichen Begriffen auf inhaltliche Übereinstimmung geprüft.
+Vor autorisiertem Versand prüfe Fassung, Empfänger, Betreff, Anlagen und Kommunikationsweg; interne Kommentare und fremde Aktenreste sind entfernt. Nach Versand dokumentiere nur den belegten Status: Ein Versand ist nicht in jedem Fall ein Zugangsnachweis, eine fehlende Lesebestätigung widerlegt den Zugang nicht, und ein Entwurfsstatus beweist keine Kommunikation.
 
-Bei mehreren Entscheidungsträgern eines Unternehmens benenne, wer die Weisung erteilen darf und welche Information für die interne Entscheidung benötigt wird. Eine kaufmännische Kurzfassung kann sinnvoll sein, darf aber rechtserhebliche Bedingungen nicht entfernen. Wenn ein Geschäftsführer nur den Zahlungsbetrag sieht, die weitreichende Erledigungsklausel aber ausgeblendet bleibt, ist die Entscheidungsvorlage unvollständig. Fasse deshalb die wesentlichen Rechtsfolgen in verständlicher Sprache zusammen und verlinke die konkrete Vertrags- oder Vergleichsfassung.
+Bei Rücklauf wird die neue Information in die Akte und das betroffene Produkt eingearbeitet. Eine Zustimmung mit Änderungsvorbehalt ist keine vorbehaltlose Annahme; eine Rückfrage zu Kosten ist keine Freigabe des nächsten Schritts. Ein autonomer Erinnerungsdienst wird nicht behauptet.
 
-### 3.17. Abschlussmitteilung mit verbleibenden Pflichten
+### 3.16. Telefonische Beratung nachfassend festhalten
 
-Eine Abschlussmitteilung nennt das erreichte Ergebnis und die noch ausstehenden Schritte. Ein Urteil kann zugestellt sein, ohne dass Rechtskraft oder Zahlung feststehen. Ein Vergleich kann geschlossen sein, ohne dass die vereinbarte Zahlung eingegangen ist. Eine Rechnung kann erstellt sein, ohne dass sie mitgeteilt oder beglichen wurde. Benenne die tatsächlichen Zustände und die zuständige Person für den nächsten Schritt. Die Formulierung „Die Sache ist erledigt“ wird nur verwendet, wenn der beauftragte Umfang tatsächlich abgeschlossen ist.
+Bei einem Telefonat unterscheide tatsächlich besprochenen Inhalt und nachträgliche Ergänzung. Ein Vermerk darf nicht behaupten, eine Kostenfolge sei erläutert worden, wenn sie erst beim Schreiben auffällt; formuliere dann: „Ergänzend zu unserem heutigen Gespräch weisen wir darauf hin, dass …“. Prüfe, ob die Ergänzung eine erneute Entscheidung erforderlich macht.
 
-Ein geeigneter Text lautet: „Der Vergleich ist wirksam geschlossen. Die Zahlung von [Betrag] ist bis [Datum] geschuldet. Wir prüfen den Eingang nach dem vereinbarten Verfahren und informieren Sie über den belegten Stand. Die noch offenen Kosten sind in der beigefügten Abrechnung erläutert.“ Die Aussage über eine spätere Prüfung darf nur verwendet werden, wenn eine entsprechende Zuständigkeit oder Aufgabe tatsächlich eingerichtet ist. Andernfalls wird der erforderliche Anschluss als konkrete nächste Handlung benannt.
+Ein Nachfassschreiben hält Empfehlung, Alternativen, Risiken, Frist und Weisung fest, ohne pauschal zu bestätigen, der Mandant habe „sämtliche Risiken übernommen“: „Sie haben uns heute beauftragt, den Vergleich mit einem Mindestzahlungsbetrag von [Betrag] und der beschriebenen Beschränkung der Erledigungsklausel weiterzuverhandeln.“
+
+### 3.17. Verständnishürden und Unternehmensentscheider
+
+Bei juristischen oder sprachlichen Verständnishürden passe Satzlänge, Begriffserklärung und Informationsreihenfolge an; erkläre etwa „Rechtskraft“ als den Zustand, in dem die Entscheidung mit den gewöhnlichen Rechtsmitteln nicht mehr angegriffen werden kann. Eine Übersetzung wird als solche kenntlich gemacht. Bei mehreren Entscheidungsträgern eines Unternehmens benenne, wer die Weisung erteilen darf. Eine kaufmännische Kurzfassung darf rechtserhebliche Bedingungen nicht entfernen: Sieht der Geschäftsführer nur den Zahlungsbetrag, nicht aber die Erledigungsklausel, ist die Entscheidungsvorlage unvollständig.
+
+### 3.18. Abschlussmitteilung mit verbleibenden Pflichten
+
+Eine Abschlussmitteilung nennt das erreichte Ergebnis und die ausstehenden Schritte. Ein Urteil kann zugestellt sein, ohne dass Rechtskraft oder Zahlung feststehen; ein Vergleich kann geschlossen sein, ohne dass die Zahlung eingegangen ist. „Die Sache ist erledigt“ steht nur, wenn der beauftragte Umfang abgeschlossen ist. „Wir prüfen den Zahlungseingang und informieren Sie“ steht nur, wenn diese Zuständigkeit eingerichtet ist; andernfalls wird der Anschluss als nächste Handlung benannt und an [mandat-abschliessen](../mandat-abschliessen/SKILL.md) übergeben.
+
+### 3.19. Typische Fehler und Gegenkontrolle
+
+| Fehler | Woran erkennbar | Gegenkontrolle |
+|---|---|---|
+| Schreibdatum als Fristbeginn | Brief nennt Datum des Urteils statt Zustellung | Zustellungsbeleg in Akte; Fristenskill-Vermerk vorhanden |
+| Rückmeldefrist gleich Fristende | Mandant soll „bis zum Fristende“ antworten | Interne Frist liegt mindestens drei Werktage vor Fristende |
+| Quellenprotokoll im Brief | Rn.-Zitate, Abrufvermerke, Werkzeughinweise im Empfängertext | Protokoll in internen Vermerk verschieben |
+| Erfundene Erfolgsquote | Prozentangabe ohne Grundlage | Durch Szenarien ersetzen oder Grundlage benennen |
+| Erledigungsklausel nicht erklärt | Brief nennt nur Zahlungsbetrag | Reichweite und Gegenforderungen im Brief benannt |
+| Kostenfolge des Vergleichs fehlt | Kein Satz zu § 98 ZPO und Einigungsgebühr | Kostenabsatz vorhanden und mit Gebührenblatt abgeglichen |
+| Erstattung im Arbeitsgericht behauptet | ZPO-Formel bei arbeitsgerichtlichem Mandat | § 12a ArbGG geprüft und Hinweis aufgenommen |
+| Deckungsanfrage als Zusage | „Ihre Versicherung übernimmt die Kosten“ ohne Schreiben | Deckungszusage mit Datum und Umfang in Akte |
+| Schätzung als Festpreis | „Die Kosten betragen“ statt „voraussichtlich“ | Honorargrundlage mit Modell und Verbindlichkeit zitiert |
+| Du-Form ohne Vorgabe | Vertrauliche Ansprache ohne Mandatsnotiz | Anredevorgabe in Akte geprüft |
+| Unberechtigter Kopieempfänger | Alte E-Mail-Kette mit Dritten übernommen | Empfängerliste gegen Berechtigung geprüft |
+| Versand behauptet statt belegt | „Das Schreiben ist zugegangen“ ohne Nachweis | Versandprotokoll oder Bestätigung in Akte |
+
+### 3.20. Übergabe an Nachbarskills
+
+An [fristen-berechnen-ueberwachen](../fristen-berechnen-ueberwachen/SKILL.md) geht das auslösende Dokument mit Zustellungs- oder Zugangsbeleg; zurück kommt der Rechenvermerk mit geprüftem Fristende, das wörtlich in den Brief übernommen wird. An [honorar-budget-vereinbaren](../honorar-budget-vereinbaren/SKILL.md) geht die Beschreibung des neuen Leistungsumfangs; zurück kommt die bestätigte Vergütungsregelung oder der Entwurf der Vergütungsvereinbarung, auf den der Brief verweist. An [recht-recherchieren](../recht-recherchieren/SKILL.md) geht die Rechtsfrage, von der die Empfehlung abhängt; zurück kommt die verifizierte Antwort mit Quellen für den internen Vermerk.
+
+An [schriftsaetze-entwerfen](../schriftsaetze-entwerfen/SKILL.md) gehen die gelieferten Belege mit Eingangsdatum; zurück kommt der aktualisierte Schriftsatzentwurf. An [anwaltsberufsrecht-pruefen](../anwaltsberufsrecht-pruefen/SKILL.md) geht der Briefentwurf über einen möglichen eigenen Fehler oder eine Deckungsablehnung vor dem Versand; zurück kommt die berufsrechtliche Freigabe oder Änderung. An [zeiten-erfassen](../zeiten-erfassen/SKILL.md) gehen Datum, Dauer, Person und Narrativ; zurück kommt die gespeicherte Zeit-ID. An [mandat-abschliessen](../mandat-abschliessen/SKILL.md) geht die Abschlussmitteilung mit den offenen Pflichten; zurück kommt der Abschlussbericht. An [workflow-uebergabe](../workflow-uebergabe/SKILL.md) geht jeder Entwurf, den eine andere Person fachlich abnehmen soll, mit Fassung, Stand und offener Frage.
 
 ## 4. Quellenpflicht
 
 ### 4.1. Rechtliche Aussage und interne Nachweise
 
-Beachte [Zitierweise](../../references/zitierweise.md) und [Rechtsquellen](../../references/rechtsquellen.md). Prüfe den maßgeblichen Normstand, insbesondere Mandatsvertrag, berufsrechtliche Informationspflichten und bei Kosten §§ 3a, 10, 34 und 60 RVG sowie die konkret einschlägigen Gebührenvorschriften. Der Brief muss nicht jede interne Fundstelle wiederholen. Tragende rechtliche Empfehlungen werden jedoch anhand überprüfter Quellen entwickelt und intern nachvollziehbar festgehalten.
+Beachte [Zitierweise](../../references/zitierweise.md), [Rechtsquellen](../../references/rechtsquellen.md) und [Arbeitsweise](../../references/arbeitsweise.md). Prüfe den maßgeblichen Normstand, insbesondere Mandatsvertrag, berufsrechtliche Informationspflichten und bei Kosten [§ 3a RVG](https://www.gesetze-im-internet.de/rvg/__3a.html), [§ 10 RVG](https://www.gesetze-im-internet.de/rvg/__10.html), [§ 34 RVG](https://www.gesetze-im-internet.de/rvg/__34.html) und [§ 60 RVG](https://www.gesetze-im-internet.de/rvg/__60.html). Tragende Empfehlungen werden anhand überprüfter Quellen entwickelt und intern festgehalten.
 
-Prüfstand ist der 07.10.2026. Literatur wird ausschließlich aus bereitgestellten Texten oder tatsächlich vorhandenem lizenziertem Zugriff genutzt. Eine vermeintlich bekannte Kommentarstelle darf nicht zur Verstärkung einer Kostenwarnung erfunden werden. Rechtsprechung ist auf Sachverhalt und Rechtsfolge zu prüfen. Die folgenden Entscheidungen sind konkrete Anker für Beratung und Honorar, keine allgemeinen Garantien für die Richtigkeit jedes Kommunikationsentwurfs.
+Prüfstand ist der 07.10.2026. Literatur wird ausschließlich aus bereitgestellten Texten oder lizenziertem Live-Zugriff genutzt; eine vermeintlich bekannte Kommentarstelle darf nicht zur Verstärkung einer Kostenwarnung erfunden werden.
 
 ### 4.2. Entscheidungsanker
 
-**BGH, Urt. v. 19.02.2026 – Az. IX ZR 226/22, amtlicher Volltext, Rn. 8–18 und 23–32:** Die Honorarreichweite wird ausgelegt und anschließend auf Textform geprüft; Anerkenntnisfiktionen für Zeitaufstellungen unterliegen gesonderter Kontrolle. Für die Kommunikation folgt daraus, neue Leistungen und geltende Vereinbarung konkret zu benennen. Schweigen wird nicht als automatische Anerkennung von Zeiten behandelt. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1).
+**BGH, Urt. v. 19.02.2026 – Az. IX ZR 226/22, amtlicher Volltext, Rn. 8–18 und 23–32.** [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1). Trägt: Die Reichweite der Vergütungsvereinbarung wird zuerst ausgelegt und dann auf Textform geprüft; eine Anerkenntnisfiktion für nicht binnen eines Monats beanstandete Zeitaufstellungen ist auch im unternehmerischen Verkehr unwirksam. Für den Brief folgt daraus, neue Leistungen und geltende Vereinbarung konkret zu benennen und Schweigen nicht als Anerkennung von Zeiten darzustellen. Trägt nicht: eine allgemeine Unwirksamkeit jeder Zeithonorarvereinbarung oder eine Befreiung vom Kostenerstattungshinweis.
 
-**BGH, Urt. v. 12.09.2024 – Az. IX ZR 65/23, amtlicher Volltext im Curia-Archiv, Rn. 20–35, 37 und 51:** Eine formularmäßige Zeithonorarabrede ist nicht allein wegen fehlender Prognose oder fehlender Pflicht zu Zwischenaufstellungen unwirksam. Transparenz, Benachteiligung und Rechtsfolge bleiben getrennt. Der Anker rechtfertigt keine inhaltlich unzureichende Kostenkommunikation und keine unprüfbaren Zeitangaben. [Volltext](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/ix_zr__65-23_2025-04-16_15-06-53_148.pdf).
+**BGH, Urt. v. 12.09.2024 – Az. IX ZR 65/23, amtlicher Volltext im Curia-Archiv, Rn. 20–35, 37 und 51.** [Volltext](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/ix_zr__65-23_2025-04-16_15-06-53_148.pdf). Trägt: Eine formularmäßige Zeithonorarabrede ist nicht allein wegen fehlender Prognose oder fehlender Pflicht zu Zwischenaufstellungen unwirksam; Transparenz, Benachteiligung und Rechtsfolge sind getrennt zu prüfen. Trägt nicht: eine inhaltlich unzureichende Kostenkommunikation oder unprüfbare Zeitangaben gegenüber dem Mandanten.
 
-**BGH, Urt. v. 13.10.2016 – Az. IX ZR 214/15, amtlicher Volltext, Rn. 18–35:** Im behandelten Haftungsfall waren die rechtliche Verteidigung und die Beratung über das weitere Vorgehen wesentlich; das Verhalten der Mandantin entlastete den Anwalt nicht pauschal. Der Anker zeigt, weshalb konkrete Rechtsmittelberatung nicht durch bloße Übersendung einer Entscheidung ersetzt wird. Haftung verlangt weiterhin die Prüfung von Pflichtverletzung, Kausalität und Schaden. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2015/IX_ZR_214-15.pdf?__blob=publicationFile&v=1).
+**EuGH, Urt. v. 12.01.2023 – Az. C-395/21, EU:C:2023:14, Rn. 35–45 und 47–50.** [Volltext](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62021CJ0395). Trägt: Die bloße Angabe eines Stundensatzes genügt gegenüber Verbrauchern ohne weitere Erläuterung nicht dem Transparenzmaßstab; Kostenmechanismus und Größenordnung sind verständlich zu machen, etwa durch Schätzung oder regelmäßige Zeit- und Kosteninformation. Trägt nicht: ein allgemeines Verbot anwaltlicher Stundenhonorare oder die Pflicht, einen exakten Endpreis zu garantieren.
 
-**BGH, Urt. v. 10.12.2015 – Az. IX ZR 272/14, amtlicher Volltext, Rn. 6–14:** Die anwaltliche Aufgabe umfasst die konkrete Aufbereitung günstiger tatsächlicher und rechtlicher Gesichtspunkte. Für die Mandantenkommunikation erklärt dies, warum bestimmte Unterlagen und Angaben für einen zusätzlichen Anspruchsweg benötigt werden. Der Anker belegt keine Pflicht, den Mandanten mit sämtlichen abstrakten Anspruchsmöglichkeiten zu überfrachten. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_272-14.pdf?__blob=publicationFile&v=1).
+**BGH, Urt. v. 13.10.2016 – Az. IX ZR 214/15, amtlicher Volltext, Rn. 18–35, besonders Rn. 23–29.** [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2015/IX_ZR_214-15.pdf?__blob=publicationFile&v=1). Trägt: Im entschiedenen Haftungsfall war die konkrete Beratung über das weitere Vorgehen einschließlich Rechtsmittel wesentlich; Rechtsmittelberatung wird nicht durch bloße Übersendung einer Entscheidung ersetzt. Trägt nicht: eine grenzenlose Pflicht zur ungefragten Rechtsmittelberatung ohne Mandatsbezug; Rn. 25 lässt diese Reichweite offen. Haftung verlangt weiterhin Pflichtverletzung, Kausalität und Schaden.
+
+**BGH, Urt. v. 10.12.2015 – Az. IX ZR 272/14, amtlicher Volltext, Rn. 6–14.** [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_272-14.pdf?__blob=publicationFile&v=1). Trägt: Die anwaltliche Aufgabe umfasst die konkrete Aufbereitung günstiger tatsächlicher und rechtlicher Gesichtspunkte; daraus erklärt sich, warum bestimmte Unterlagen für einen zusätzlichen Anspruchsweg beim Mandanten angefordert werden. Trägt nicht: eine Pflicht, den Mandanten mit sämtlichen abstrakten Anspruchsmöglichkeiten zu überfrachten.
+
+### 4.3. Tragende amtliche Normlinks
+
+- [§ 43a BRAO](https://www.gesetze-im-internet.de/brao/__43a.html) – Verschwiegenheit, Verpflichtung mitwirkender Personen.
+- [§ 49b BRAO](https://www.gesetze-im-internet.de/brao/__49b.html) – Absatz 5: Hinweis auf Gebühren nach dem Gegenstandswert vor Übernahme des Auftrags.
+- [§ 3a RVG](https://www.gesetze-im-internet.de/rvg/__3a.html) – Textform, Bezeichnung, Absetzung und Erstattungshinweis der Vergütungsvereinbarung.
+- [§ 9 RVG](https://www.gesetze-im-internet.de/rvg/__9.html) – angemessener Vorschuss.
+- [§ 10 RVG](https://www.gesetze-im-internet.de/rvg/__10.html) – Berechnung in Textform.
+- [§ 12a ArbGG](https://www.gesetze-im-internet.de/arbgg/__12a.html) – kein Erstattungsanspruch für Anwaltskosten im Urteilsverfahren erster Instanz; Hinweispflicht vor der Vertretungsvereinbarung.
+- [§ 98 ZPO](https://www.gesetze-im-internet.de/zpo/__98.html), [§ 278 ZPO](https://www.gesetze-im-internet.de/zpo/__278.html), [§ 779 BGB](https://www.gesetze-im-internet.de/bgb/__779.html) – Vergleichskosten, schriftlicher gerichtlicher Vergleich, Vergleichsbegriff.
+- [§ 517 ZPO](https://www.gesetze-im-internet.de/zpo/__517.html), [§ 520 ZPO](https://www.gesetze-im-internet.de/zpo/__520.html), [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) – Berufungsfrist, Begründungsfrist, Fristende an Wochenenden und Feiertagen.
+- [§ 203 StGB](https://www.gesetze-im-internet.de/stgb/__203.html) – strafrechtlicher Geheimnisschutz.
+- [BORA bei der BRAK](https://www.brak.de/die-brak/satzungsrecht/bora/) – § 2 Abs. 2 zu Kommunikationswegen und § 11 zur Unterrichtung; Wortlaut am amtlichen Satzungstext zu prüfen.
+
+### 4.4. Belegdisziplin
+
+Im Mandantenbrief steht die rechtliche Aussage in einem verständlichen Satz; die Fundstelle steht im internen Vermerk, es sei denn, der Mandant soll die Norm selbst nachlesen. Jede Norm mit Frist, Betrag, Form oder Rechtsfolge wird vor Verwendung am amtlichen Text geprüft; ein nicht geöffneter Volltext wird als „am Volltext zu prüfen“ gekennzeichnet. Entscheidungen werden mit Gericht, Entscheidungsform, Datum, Aktenzeichen, Fundstelle und Randnummer zitiert und tragen die Aussage nur, soweit Sachverhalt und Rechtsfrage übereinstimmen; eine Präjudizienbindung gibt es nicht. Kommentar- und Aufsatzfundstellen aus Modellwissen werden nicht verwendet.
 
 ## 5. Ausgabeformat
 
 ### 5.1. Versandfähiger Text
 
-Das Schreiben enthält Anrede und Bezug, Sachstand, Empfehlung, nächste Schritte und Frist, erforderlichen Kostenhinweis sowie Unterschrift mit Berufsbezeichnung. Diese Bestandteile werden passend zum konkreten Anlass angeordnet. Ein kurzer Unterlagenbrief braucht keine langen Zwischenüberschriften. Eine umfassende Vergleichsberatung kann mit dezimalen Abschnitten verständlicher werden. Verwende nur so viel Struktur, wie der Empfänger für die Entscheidung benötigt.
+Das Schreiben enthält Anrede und Bezug („In dem Mandat …“ oder „In Sachen …“), Sachstand, Empfehlung, nächste Schritte mit Frist, erforderlichen Kostenhinweis nach RVG oder Honorarvereinbarung sowie Unterschrift mit Berufsbezeichnung. Ein kurzer Unterlagenbrief braucht keine Zwischenüberschriften; eine umfassende Vergleichsberatung kann mit dezimalen Abschnitten verständlicher werden.
 
-Die **Ausformulierungspflicht** gilt vollständig. Keine Stichwortskelette, Halbsätze oder bloßen Informationslisten als Endprodukt. Fragen dürfen nummeriert sein, wenn sie jeweils vollständig formuliert sind. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Markdown steht ein erforderlicher Exporthinweis außerhalb des Briefs. Technische Quellenprotokolle, interne Honorarfragen und Bearbeiterhinweise werden getrennt geliefert.
+Die **Ausformulierungspflicht** gilt vollständig: Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert; Stichwortskelette, Halbsätze und bloße Informationslisten sind als Endprodukt verboten. Fragen dürfen nummeriert sein, wenn sie jeweils vollständig formuliert sind. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman, 11 pt, und ausschließlich dezimale Gliederung. Bei Markdown- oder Chat-Ausgabe steht der Exporthinweis (Times New Roman, 11 pt, dezimale Gliederung) außerhalb des Empfängertextes. Technische Quellenprotokolle, interne Honorarfragen, Dateizugriffsgrenzen und Bearbeiterhinweise werden getrennt geliefert und erscheinen nie im versandfähigen Brief.
 
 ### 5.2. Interner Abschlussvermerk
 
-Der interne Vermerk hält verwendete Quellen, offene Tatsachen, geprüften Kostenstand, Frist und tatsächlichen Versandstatus fest. Er enthält keine pauschale Erklärung, der Mandant sei über sämtliche Risiken aufgeklärt, wenn der Brief nur einzelne Themen behandelt. Benenne konkret, welche Entscheidung vorbereitet wurde und welche Rückmeldung benötigt wird. Der nächste Bearbeitungslauf übernimmt diesen Stand und aktualisiert nur die durch neue Informationen betroffenen Teile.
+Der interne Vermerk hält verwendete Quellen, offene Tatsachen, geprüften Kostenstand, Frist mit Rechenvermerk und tatsächlichen Versandstatus fest; er behauptet keine Aufklärung über „sämtliche Risiken“, wenn der Brief nur einzelne Themen behandelt. Benenne, welche Entscheidung vorbereitet wurde, welche Rückmeldung bis wann benötigt wird und wer die Frist sichert.
+
+### 5.3. Abnahmekriterien
+
+Das Produkt ist fertig, wenn der erste Absatz des Briefs die Empfehlung oder den neuen Stand nennt und der Mandant ohne weitere Lektüre weiß, ob er handeln muss. Das Produkt ist fertig, wenn jede genannte Frist entweder aus einem Rechenvermerk des Fristenskills stammt oder als ungeprüfter Platzhalter gekennzeichnet ist und die interne Rückmeldefrist mit Datum, Wochentag und Uhrzeit davor liegt. Das Produkt ist fertig, wenn der Kostenabsatz Grundlage, Verbindlichkeit, Erstattungsaussicht und den Stand von Vorschuss oder Deckung unterscheidet und bei arbeitsgerichtlichen Mandaten den Hinweis nach § 12a ArbGG enthält. Das Produkt ist fertig, wenn jedes Risiko an einer konkreten Voraussetzung erklärt ist und keine Erfolgsquote ohne Grundlage erscheint. Das Produkt ist fertig, wenn bei einem Vergleich Reichweite der Erledigung, Kostenfolge und der Unterschied zwischen Zustimmung zum Entwurf und Annahme gegenüber dem Gericht benannt sind. Das Produkt ist fertig, wenn der Empfängertext keine Quellenprotokolle, Werkzeughinweise oder Honorarfragen an die Kanzlei enthält und der interne Vermerk sie getrennt festhält. Das Produkt ist fertig, wenn Empfänger, Kopieadressaten und Kommunikationsweg gegen die Akte geprüft sind und der Versandstatus wahrheitsgemäß als Entwurf, versandt oder bestätigt zugegangen bezeichnet ist.
 
 ## 6. Beispiele
 
-### 6.1. Gezielt fehlenden Zugangsnachweis anfordern
+### 6.1. Mandantenbrief mit Empfehlung, Frist und Kostenwirkung
 
-„Sehr geehrte Frau [Name],
+Ausgangslage: Das Landgericht hat am Dienstag, 06.10.2026, einen Vergleichsvorschlag über 6.000 Euro mit einer Klausel über „sämtliche Ansprüche aus der Geschäftsbeziehung“ übermittelt; die vom Fristenskill bestätigte Stellungnahmefrist endet am Mittwoch, 21.10.2026. Gespeichert ist ein Zeithonorar von 240 Euro netto je Stunde ohne Deckel für die gerichtliche Phase.
 
-für die Geltendmachung der vorgerichtlichen Zinsen benötigen wir noch den Nachweis, wann die Mahnung vom 17.09.2026 bei der Gegenseite eingegangen ist. Der bisher vorliegende Brief belegt den Inhalt, lässt den Zugang aber offen. Bitte senden Sie uns bis zum 09.10.2026 um 12 Uhr den Einlieferungs- beziehungsweise Zustellungsbeleg oder eine Antwort der Gegenseite, aus der der Erhalt hervorgeht.
+> Sehr geehrte Frau Berger,
+>
+> in dem Rechtsstreit Berger Metallbau gegen Hollmann Logistik empfehlen wir, den gerichtlichen Vergleichsvorschlag vom 06.10.2026 in der vorliegenden Fassung nicht anzunehmen, sondern eine Änderung der Erledigungsklausel vorzuschlagen.
+>
+> Das Gericht schlägt vor, dass Hollmann Logistik 6.000 Euro an Sie zahlt und damit sämtliche Ansprüche aus der Geschäftsbeziehung erledigt sind. Der Betrag ist angesichts des Beweisrisikos zur Zusatzbeauftragung wirtschaftlich vertretbar. Die Erledigungsklausel erfasst nach ihrem Wortlaut jedoch auch Ihre noch nicht bezifferte Forderung wegen der am 17.09.2026 beschädigten Ware. Mit der Annahme wäre diese Forderung verloren, und ein späterer besserer Nachweis würde den Vergleich nicht wieder öffnen.
+>
+> Wir schlagen vor, die Erledigung auf die Rechnungen 2026-114 und 2026-121 sowie den anhängigen Rechtsstreit zu beschränken und die Forderung wegen der beschädigten Ware ausdrücklich auszunehmen. Außerdem soll die Zahlung innerhalb von vierzehn Tagen nach Feststellung des Vergleichs fällig sein.
+>
+> Zu den Kosten: Ohne abweichende Regelung trägt bei einem Vergleich jede Seite ihre eigenen Anwaltskosten und die Hälfte der Gerichtskosten. Für Sie entstehen auf der vereinbarten Grundlage von 240 Euro netto je Stunde voraussichtlich weitere zwei bis drei Stunden für Verhandlung und Prüfung der endgültigen Fassung; hinzu kommt eine gesetzliche Einigungsgebühr, deren Höhe wir Ihnen mit der Abrechnung nach dem Gegenstandswert ausweisen. Eine Erstattung dieser Kosten durch die Gegenseite ist bei der vorgeschlagenen Kostenregelung nicht zu erwarten.
+>
+> Die gerichtliche Frist zur Stellungnahme endet am Mittwoch, 21.10.2026. Damit wir den Änderungsvorschlag rechtzeitig einreichen können, bitten wir um Ihre Entscheidung bis Freitag, 16.10.2026, 12 Uhr. Ihre Zustimmung zu unserem Vorschlag ist noch keine Annahme des Vergleichs; die Annahmeerklärung gegenüber dem Gericht geben wir erst nach Ihrer ausdrücklichen Weisung zur endgültigen Fassung ab.
+>
+> Mit freundlichen Grüßen
+>
+> Dr. Anna Kessler, Rechtsanwältin
 
-Falls die Mahnung persönlich übergeben wurde, teilen Sie uns bitte mit, wer sie wann und an welche Person übergeben hat und wer dies wahrgenommen hat. Bitte unterscheiden Sie dabei Ihre eigene Erinnerung von Angaben anderer Personen. Die Hauptforderung können wir unabhängig von dieser Ergänzung weiter prüfen. Offen ist derzeit insbesondere, ab welchem Zeitpunkt vorgerichtliche Zinsen verlangt werden können.
+Interner Vermerk (nicht Teil des Briefs): Fristende 21.10.2026 laut Rechenvermerk F-7; Kostenfolge nach § 98 ZPO; Einigungsgebühr nach Gebührenblatt noch zu beziffern; Zeit für diesen Brief offen, Narrativ vorgeschlagen. Exporthinweis: Times New Roman, 11 pt, dezimale Gliederung.
 
-Die Bearbeitung erfolgt auf der bereits vereinbarten Honorargrundlage. Eine Änderung des vereinbarten Umfangs ist durch diese Unterlagenanforderung nicht vorgesehen. Nach Eingang Ihrer Angaben passen wir den gekennzeichneten Zinsabschnitt des Klageentwurfs an.
+### 6.2. Entscheidungsvorlage mit zwei Optionen nach ungünstigem Urteil
 
-Mit freundlichen Grüßen
-[Name], Rechtsanwältin“
+Ausgangslage: Das Urteil des Landgerichts wurde am Dienstag, 13.10.2026, zugestellt. Der Fristenskill hat die Berufungsfrist mit Freitag, 13.11.2026, und die Begründungsfrist mit Montag, 14.12.2026, berechnet, weil der 13.12.2026 ein Sonntag ist. Der Mandant ist Unternehmer; die Deckungszusage des Rechtsschutzversicherers für die zweite Instanz liegt noch nicht vor.
 
-Die konkrete Frist und die Kostenaussage werden nur übernommen, wenn sie zur Akte passen. Ein erfundener Zugangstag wird nicht eingesetzt, um den Entwurf optisch zu vervollständigen.
+> Sehr geehrter Herr Lindqvist,
+>
+> in Sachen Lindqvist gegen Nordlicht Versicherung hat das Landgericht Ihre Klage mit dem am 13.10.2026 zugestellten Urteil abgewiesen, weil es die Nebenkosten nicht als vom Versicherungswert erfasst ansieht. Sie müssen entscheiden, ob Sie Berufung einlegen. Wir stellen Ihnen die beiden Optionen gegenüber.
+>
+> Option 1: Berufung einlegen. Die Klausel definiert den Versicherungswert ausdrücklich unter Einbeziehung der Nebenkosten; das Landgericht hat diese Definition in den Gründen nicht behandelt. Das ist ein konkreter Angriffspunkt. Ein Erfolg ist dennoch nicht sicher, weil das Berufungsgericht die Auslegung eigenständig prüft und die Höhe einzelner Positionen streitig bleibt. Es entstehen Gerichtskosten für die zweite Instanz und weitere Anwaltskosten; die beigefügte Berechnung weist sie nach dem Streitwert von 48.000 Euro getrennt aus. Ob Ihr Rechtsschutzversicherer diese Kosten übernimmt, steht erst mit der Deckungszusage fest, die wir am 14.10.2026 beantragt haben.
+>
+> Option 2: Das Urteil hinnehmen. Dann wird es mit Ablauf der Berufungsfrist rechtskräftig, und die Nebenkosten von 31.500 Euro bleiben endgültig unerstattet. Es entstehen keine weiteren Kosten außer der bereits ausgewiesenen Kostenerstattung an die Gegenseite.
+>
+> Wir empfehlen Option 1, sofern die Deckungszusage erteilt wird oder Sie das Kostenrisiko der zweiten Instanz selbst tragen wollen. Die Berufungsfrist endet am Freitag, 13.11.2026, die Begründungsfrist am Montag, 14.12.2026. Wir benötigen Ihre Weisung bis Mittwoch, 04.11.2026, 12 Uhr. Ohne Weisung legen wir keine Berufung ein; bitte teilen Sie uns auch eine Entscheidung gegen die Berufung ausdrücklich mit.
+>
+> Mit freundlichen Grüßen
+>
+> Jonas Weigand, Rechtsanwalt
 
-### 6.2. Vergleich mit zu weiter Erledigungsklausel
+### 6.3. Rückfrage-E-Mail zu fehlendem Zugangsnachweis
 
-„Sehr geehrter Herr [Name],
+Ausgangslage: Für die vorgerichtlichen Zinsen fehlt der Zugangsnachweis zur Mahnung vom Donnerstag, 17.09.2026. Die Mandantin kommuniziert per E-Mail; der Risikohinweis ist in der Akte dokumentiert.
 
-wir empfehlen, das Vergleichsangebot vom 06.10.2026 in der vorliegenden Fassung noch nicht anzunehmen. Der angebotene Zahlungsbetrag von 6.000 Euro kann im Hinblick auf das dokumentierte Beweisrisiko eine wirtschaftlich vertretbare Lösung sein. Die vorgesehene Erledigungsklausel erfasst jedoch nach ihrem Wortlaut sämtliche Ansprüche aus der Geschäftsbeziehung. Dadurch könnte auch Ihre bislang nicht bezifferte Gegenforderung wegen der beschädigten Ware betroffen sein.
+> Betreff: Mandat Berger Metallbau – Zugangsnachweis zur Mahnung vom 17.09.2026
+>
+> Sehr geehrte Frau Berger,
+>
+> für die Geltendmachung der vorgerichtlichen Zinsen benötigen wir noch den Nachweis, wann die Mahnung vom 17.09.2026 bei Hollmann Logistik eingegangen ist. Der vorliegende Brief belegt den Inhalt, lässt den Zugang aber offen.
+>
+> Bitte senden Sie uns bis Freitag, 09.10.2026, 12 Uhr den Einlieferungs- oder Zustellungsbeleg oder eine Antwort der Gegenseite, aus der der Erhalt hervorgeht. Falls die Mahnung persönlich übergeben wurde, teilen Sie uns bitte mit, wer sie wann an welche Person übergeben hat und wer dies wahrgenommen hat. Bitte unterscheiden Sie dabei Ihre eigene Erinnerung von Angaben anderer Personen.
+>
+> Die Hauptforderung prüfen wir unabhängig von dieser Ergänzung weiter; offen ist allein der Beginn der vorgerichtlichen Zinsen. Diese Anforderung ändert den vereinbarten Honorarumfang nicht. Nach Eingang Ihrer Angaben passen wir den Zinsabschnitt des Klageentwurfs an.
+>
+> Mit freundlichen Grüßen
+>
+> Dr. Anna Kessler, Rechtsanwältin
 
-Wir schlagen deshalb vor, die Erledigung ausdrücklich auf die Forderungen aus den Rechnungen [Nummern] und den anhängigen Rechtsstreit zu beschränken. Die Gegenforderung wegen der beschädigten Ware sollte von der Regelung ausgenommen werden. Außerdem sollte die Zahlung innerhalb von vierzehn Tagen nach wirksamem Vergleichsschluss fällig sein. Ob zusätzliche Sicherheit erforderlich ist, hängt von den vorliegenden Informationen zur Zahlungsfähigkeit der Gegenseite ab.
+### 6.4. Negativbeispiel: Brief mit internen Quellenprotokollen und ungeprüftem Fristende
 
-Bei Fortführung des Prozesses bleibt insbesondere offen, ob die Zeugin die behauptete Zusatzbeauftragung bestätigt. Ein vollständiger Erfolg ist daher nicht sicher. Für Ihre Entscheidung sind neben dem möglichen Mehrerlös die weiteren eigenen Gebühren, Gerichtskosten und ein mögliches Kostenrisiko gegenüber der Gegenseite zu berücksichtigen. Die hierzu beigefügte Berechnung beruht auf [konkrete Grundlage] und dem derzeitigen Streitwert von [Betrag].
+Falsche Ausgabe:
 
-Bitte teilen Sie uns bis [Datum und Uhrzeit] mit, ob wir den Vergleich mit den beschriebenen Änderungen weiterverhandeln sollen. Diese Rückmeldung ist noch keine Annahme des unveränderten Angebots. Wir legen Ihnen die anschließend abgestimmte Fassung zur Entscheidung vor, soweit Ihre bereits erteilte Weisung keinen weitergehenden Abschlussrahmen enthält.
+> Sehr geehrter Herr Lindqvist,
+>
+> das Urteil vom 02.10.2026 ist angreifbar. Die Berufungsfrist endet daher am 02.11.2026. Nach BGH, Urt. v. 13.10.2016 – Az. IX ZR 214/15, Rn. 23–29 (amtlicher Volltext am 07.10.2026 abgerufen, SHA-256 geprüft), sind wir zur Rechtsmittelberatung verpflichtet; § 517 ZPO wurde auf gesetze-im-internet.de verifiziert. Die Erfolgsaussichten liegen bei etwa 70 Prozent. Ihre Versicherung übernimmt die Kosten. Hinweis an die Kanzlei: Zeit für diesen Brief noch nicht erfasst, Narrativ bitte bestätigen.
 
-Mit freundlichen Grüßen
-[Name], Rechtsanwalt“
+Warum sie falsch ist: Das Urteilsdatum wird als Fristbeginn verwendet, obwohl die Berufungsfrist mit der Zustellung beginnt; der 02.11.2026 ist ohne Zustellungsbeleg und ohne Rechenvermerk erfunden. Abrufvermerke, Hashwerte, Randnummern und Werkzeughinweise gehören in den internen Vermerk. Die Prozentangabe hat keine Grundlage. Die Deckung wird als Zusage dargestellt, obwohl nur ein Antrag vorliegt. Die Honorarfrage an die Kanzlei steht im Mandantenbrief. „Angreifbar“ benennt keinen Angriffspunkt; Entscheidungsfrage, Rückmeldefrist und Unterschrift mit Berufsbezeichnung fehlen.
 
-### 6.3. Kostenrahmen verändert sich durch neue Aufgabe
+Korrigierte Fassung:
 
-„Sehr geehrte Frau [Name],
+> Sehr geehrter Herr Lindqvist,
+>
+> in Sachen Lindqvist gegen Nordlicht Versicherung hat das Landgericht Ihre Klage abgewiesen; das Urteil wurde uns am 13.10.2026 zugestellt. Nach unserer Prüfung besteht ein konkreter Angriffspunkt, weil das Gericht die vertragliche Definition des Versicherungswerts unter Einbeziehung der Nebenkosten nicht behandelt hat. Ein Erfolg der Berufung ist dennoch nicht sicher, weil das Berufungsgericht die Auslegung eigenständig prüft.
+>
+> Die Berufungsfrist endet nach unserer Berechnung am Freitag, 13.11.2026. Wir benötigen Ihre Weisung bis Mittwoch, 04.11.2026, 12 Uhr. Die Deckungsanfrage an Ihren Rechtsschutzversicherer haben wir am 14.10.2026 gestellt; eine Zusage liegt noch nicht vor. Bis dahin müssten Sie die in der beigefügten Berechnung ausgewiesenen Kosten der zweiten Instanz selbst tragen.
+>
+> Mit freundlichen Grüßen
+>
+> Jonas Weigand, Rechtsanwalt
 
-die nun zusätzlich gewünschte Prüfung der Gegenforderung geht über den bisher vereinbarten Entwurf des Zahlungsschreibens hinaus. Der hierfür vereinbarte Festpreis von [Betrag] bleibt für den bisherigen Leistungsumfang bestehen. Die zusätzliche Prüfung umfasst die Auswertung des Übergabeprotokolls, die rechtliche Einordnung des behaupteten Schadens und einen begründeten Vorschlag zur weiteren Geltendmachung.
-
-Für diesen zusätzlichen Umfang schlagen wir [konkret geprüfte Vergütungsregelung] vor. Gerichtskosten und eine spätere gerichtliche Vertretung sind davon nicht umfasst. Eine mögliche Erstattung durch die Gegenseite richtet sich nach den gesetzlichen Voraussetzungen und deckt die vereinbarte Vergütung nicht automatisch vollständig. Den bereits beauftragten Brief stellen wir unabhängig von Ihrer Entscheidung über die zusätzliche Prüfung fertig.
-
-Bitte teilen Sie uns mit, ob Sie die zusätzliche Prüfung auf dieser Grundlage beauftragen. Wenn Sie zunächst nur eine begrenzte Einschätzung anhand des Übergabeprotokolls wünschen, können wir diesen engeren Umfang gesondert festlegen.
-
-Mit freundlichen Grüßen
-[Name], Rechtsanwältin“
-
-Die eckigen Angaben werden anhand tatsächlicher Vereinbarung und Kalkulation ausgefüllt. Der Text darf nicht verwendet werden, wenn die Gegenforderung bereits vom bestehenden Festpreis erfasst ist.
-
-### 6.4. Ungünstiges Urteil und konkrete Rechtsmittelentscheidung
-
-„Sehr geehrter Herr [Name],
-
-das Gericht hat die Klage mit Urteil vom [Datum] abgewiesen. Es hat die vereinbarte Versicherungsdeckung dahin ausgelegt, dass die geltend gemachten Nebenkosten nicht erfasst seien. Nach unserer Prüfung bestehen konkrete Ansatzpunkte, diese Auslegung mit einem Rechtsmittel anzugreifen. Entscheidend ist, dass die Klausel den maßgeblichen Wert ausdrücklich unter Einbeziehung dieser Kosten definiert.
-
-Ein Erfolg ist dennoch nicht sicher. Das Rechtsmittelgericht muss die Auslegung und die übrigen Voraussetzungen prüfen; außerdem bleibt die tatsächliche Höhe einzelner Positionen streitig. Wir empfehlen die Fortführung nur unter Berücksichtigung des wirtschaftlichen Interesses und des in der beigefügten Berechnung erläuterten zusätzlichen Kostenrisikos. Die bereits entstandenen Kosten und die durch das Rechtsmittel neu entstehenden Kosten sind dort getrennt ausgewiesen.
-
-Die geprüfte Frist zur Einlegung endet am [Datum]. Damit wir Ihre Entscheidung umsetzen können, benötigen wir Ihre Weisung bis [Datum und Uhrzeit]. Wenn Sie kein Rechtsmittel wünschen, teilen Sie uns dies bitte ausdrücklich mit. Ohne rechtzeitige Einlegung kann die Entscheidung rechtskräftig werden; eine spätere bloße Neubewertung der Erfolgsaussichten eröffnet das Verfahren nicht erneut.
-
-Mit freundlichen Grüßen
-[Name], Rechtsanwalt“
-
-Vor Verwendung werden Statthaftigkeit, Zustellung, Frist und konkrete Angriffsgründe geprüft. Das Muster ist keine universelle Berufungsempfehlung und ersetzt nicht die Beratung zur tatsächlichen Entscheidung.
+Der interne Vermerk hält getrennt fest: Rechenvermerk F-9, gelesene Entscheidung mit Randnummern, Normabruf, Deckungsantrag vom 14.10.2026 und offene Zeiterfassung.

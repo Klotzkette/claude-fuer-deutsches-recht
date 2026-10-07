@@ -18,6 +18,6 @@ test_unknown_rules_not_ignored (__main__.CalendarTests.test_unknown_rules_not_ig
 test_workdays_need_definition (__main__.CalendarTests.test_workdays_need_definition) ... ok
 
 ----------------------------------------------------------------------
-Ran 18 tests in 0.069s
+Ran 18 tests in 0.107s
 
 OK

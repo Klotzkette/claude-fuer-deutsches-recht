@@ -1,276 +1,455 @@
 {
+  "method": "pypdf-Textpositionen je Seite gegen die Mediabox; inside_page true, wenn jeder Textanker innerhalb der Seite liegt",
+  "font": "Liberation Serif (metrisch kompatibel zu Times New Roman)",
+  "visual_review": "pending",
   "pages": [
     {
       "pdf": "abrechnung-e-rechnung.pdf",
-      "pdf_sha256": "296deddc6e54b7917d1d6d87ffe6b4e1e9e2c8a79a56401f585348cfbd98a6d4",
+      "pdf_sha256": "e9c7b70d076c7573958608c981b28395ab50ad6af4ed64f551cb1668ca156a78",
       "pages": [
         {
           "page": 1,
-          "characters": 3113,
+          "characters": 3758,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3056,
+          "characters": 2588,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3526,
+          "characters": 2564,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3394,
+          "characters": 3849,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3531,
+          "characters": 4185,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3435,
+          "characters": 3873,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3624,
+          "characters": 3401,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3221,
+          "characters": 4139,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3270,
+          "characters": 1510,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2975,
+          "characters": 1790,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3189,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3800,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4204,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3856,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "akte-fristen-anlegen.pdf",
-      "pdf_sha256": "7700672a1f5cfea7da3301f24d02c6e0d4845c448c9d93d1610c43e5a2bedf96",
+      "pdf_sha256": "add06c984b9c7948b5e5886526ee859a5964bd00855b6c620e492b606f825366",
       "pages": [
         {
           "page": 1,
-          "characters": 2890,
+          "characters": 3665,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3298,
+          "characters": 2152,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3446,
+          "characters": 2312,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3540,
+          "characters": 3692,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3332,
+          "characters": 3394,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3493,
+          "characters": 3926,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3487,
+          "characters": 4027,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3192,
+          "characters": 3383,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3079,
+          "characters": 4003,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2785,
+          "characters": 1738,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1987,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3408,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 2827,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3899,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 3918,
+          "inside_page": true
+        },
+        {
+          "page": 16,
+          "characters": 1216,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "anwaltsberufsrecht-pruefen.pdf",
-      "pdf_sha256": "26f9ff44970c01ccf1c6fa30bf292d34621a0af3ae95556badd14c467150c831",
+      "pdf_sha256": "c87b1e5c772320f73f136764a70a3410cdefad558d8316645b857ec5a7f3e71c",
       "pages": [
         {
           "page": 1,
-          "characters": 3003,
+          "characters": 3608,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3419,
+          "characters": 2027,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3569,
+          "characters": 1820,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3605,
+          "characters": 3651,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3653,
+          "characters": 3687,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3564,
+          "characters": 4015,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3595,
+          "characters": 3654,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3415,
+          "characters": 3604,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3025,
+          "characters": 3758,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3097,
+          "characters": 2521,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1707,
+          "characters": 3901,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3321,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3609,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3234,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 2356,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "bea-anlagen-vorbereiten.pdf",
-      "pdf_sha256": "964dc8ffab2e1e5ff5a2b9b4c430d363837ebe5962acbb43407b9c9f39f84db4",
+      "pdf_sha256": "9641ef63401e699ec6c29de33f130b97bf385cc5e280f82c3fa4dcc8d1965a68",
       "pages": [
         {
           "page": 1,
-          "characters": 3088,
+          "characters": 3566,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 2795,
+          "characters": 2568,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3434,
+          "characters": 3240,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3527,
+          "characters": 3271,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3127,
+          "characters": 3728,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3515,
+          "characters": 3955,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3669,
+          "characters": 4183,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 2874,
+          "characters": 3924,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3044,
+          "characters": 1489,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 1784,
+          "characters": 2593,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3773,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 2638,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4007,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3688,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 1068,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "fristen-berechnen-ueberwachen.pdf",
-      "pdf_sha256": "04848ae955f3d42aa15c86236bfc5c70f3a896408c37031640c6e1ce347eb0b1",
+      "pdf_sha256": "10c5fc8c8d57ef77d58dfaecac08c30c7b40bcf57d7381526252ac5adc1390d2",
       "pages": [
         {
           "page": 1,
-          "characters": 3096,
+          "characters": 3043,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3238,
+          "characters": 2918,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3214,
+          "characters": 3751,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3519,
+          "characters": 4202,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3670,
+          "characters": 4060,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3491,
+          "characters": 4010,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3424,
+          "characters": 4038,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3378,
+          "characters": 1979,
+          "inside_page": true
+        },
+        {
+          "page": 9,
+          "characters": 2073,
+          "inside_page": true
+        },
+        {
+          "page": 10,
+          "characters": 1921,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 1874,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3807,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3426,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4078,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 2093,
+          "inside_page": true
+        }
+      ]
+    },
+    {
+      "pdf": "geldwaesche-pruefen.pdf",
+      "pdf_sha256": "04303aa81e7e7b2872c66f35e707b370b7e5fbeeb28100cbf78750dd3f52d545",
+      "pages": [
+        {
+          "page": 1,
+          "characters": 3254,
+          "inside_page": true
+        },
+        {
+          "page": 2,
+          "characters": 1812,
+          "inside_page": true
+        },
+        {
+          "page": 3,
+          "characters": 3061,
+          "inside_page": true
+        },
+        {
+          "page": 4,
+          "characters": 4155,
+          "inside_page": true
+        },
+        {
+          "page": 5,
+          "characters": 3652,
+          "inside_page": true
+        },
+        {
+          "page": 6,
+          "characters": 3903,
+          "inside_page": true
+        },
+        {
+          "page": 7,
+          "characters": 4003,
+          "inside_page": true
+        },
+        {
+          "page": 8,
+          "characters": 3161,
           "inside_page": true
         },
         {
@@ -280,1077 +459,982 @@
         },
         {
           "page": 10,
-          "characters": 3370,
+          "characters": 2798,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 2990,
+          "characters": 3402,
           "inside_page": true
         },
         {
           "page": 12,
-          "characters": 3249,
+          "characters": 4193,
           "inside_page": true
         },
         {
           "page": 13,
-          "characters": 605,
-          "inside_page": true
-        }
-      ]
-    },
-    {
-      "pdf": "geldwaesche-pruefen.pdf",
-      "pdf_sha256": "753fccc1b5f7e0cf8fc855aec0c4ea7f664efd7697f92ca1b110d815554bbb8b",
-      "pages": [
-        {
-          "page": 1,
-          "characters": 2900,
+          "characters": 4200,
           "inside_page": true
         },
         {
-          "page": 2,
-          "characters": 3095,
-          "inside_page": true
-        },
-        {
-          "page": 3,
-          "characters": 3442,
-          "inside_page": true
-        },
-        {
-          "page": 4,
-          "characters": 3484,
-          "inside_page": true
-        },
-        {
-          "page": 5,
-          "characters": 3336,
-          "inside_page": true
-        },
-        {
-          "page": 6,
-          "characters": 3583,
-          "inside_page": true
-        },
-        {
-          "page": 7,
-          "characters": 3368,
-          "inside_page": true
-        },
-        {
-          "page": 8,
-          "characters": 3360,
-          "inside_page": true
-        },
-        {
-          "page": 9,
-          "characters": 3136,
-          "inside_page": true
-        },
-        {
-          "page": 10,
-          "characters": 3368,
-          "inside_page": true
-        },
-        {
-          "page": 11,
-          "characters": 2465,
+          "page": 14,
+          "characters": 2234,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "honorar-budget-vereinbaren.pdf",
-      "pdf_sha256": "8dae485ea8fb8343e4d2a53ac52b658d7398a6bee8ce5b5e9c05723c06772335",
+      "pdf_sha256": "68d4987647b0cd61be6a1ace5e0fdfc5f7ca9a34e74336dbc8da45314b9f1a7c",
       "pages": [
         {
           "page": 1,
-          "characters": 3409,
+          "characters": 3745,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3097,
+          "characters": 1227,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3130,
+          "characters": 1962,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3507,
+          "characters": 3487,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3212,
+          "characters": 3666,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3486,
+          "characters": 3834,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3441,
+          "characters": 3482,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3038,
+          "characters": 3655,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3214,
+          "characters": 3939,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3519,
+          "characters": 1896,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 235,
+          "characters": 3954,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 2743,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3862,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4152,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 2188,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "ki-kanzlei-steuern.pdf",
-      "pdf_sha256": "e038b8cf1a4d8705a09f985dc3efe0991ac86ecd9813ee153d773ab16b5cf2f9",
+      "pdf_sha256": "ea0e9c6bf4ea3d3c876e3959d10fcce7a35a62dafc9dd5d5195f1f95153ee49e",
       "pages": [
         {
           "page": 1,
-          "characters": 3111,
+          "characters": 3743,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3492,
+          "characters": 1206,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 298,
+          "characters": 2742,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 2316,
+          "characters": 1703,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 2487,
+          "characters": 1892,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3175,
+          "characters": 2023,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 2967,
+          "characters": 4210,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3233,
+          "characters": 3438,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3117,
+          "characters": 3521,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3042,
+          "characters": 2490,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 3166,
+          "characters": 1890,
           "inside_page": true
         },
         {
           "page": 12,
-          "characters": 1912,
+          "characters": 3637,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3614,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3074,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 4165,
+          "inside_page": true
+        },
+        {
+          "page": 16,
+          "characters": 3448,
+          "inside_page": true
+        },
+        {
+          "page": 17,
+          "characters": 765,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "mandantenkommunikation.pdf",
-      "pdf_sha256": "a718912e94aaa58c6f2c56c5ce594af0f5b2d3886808b2147207491537180a79",
+      "pdf_sha256": "1cd7ad48c0a7dbb9f4456d3cf7cca41f157ed9e3b71513c69fa683410cbafbef",
       "pages": [
         {
           "page": 1,
-          "characters": 3088,
+          "characters": 3397,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3400,
+          "characters": 2652,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3232,
+          "characters": 1667,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3410,
+          "characters": 3729,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3530,
+          "characters": 3259,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3081,
+          "characters": 3727,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3330,
+          "characters": 3843,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3029,
+          "characters": 3995,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3193,
+          "characters": 1696,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2074,
+          "characters": 2693,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3591,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3035,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4256,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4202,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 1763,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "mandat-abschliessen.pdf",
-      "pdf_sha256": "2a0204cf9731de8aba08fb9562a6bd02a0fc05c1d07ad058a4aef22dca7f7d43",
+      "pdf_sha256": "1a497e2d0fcb06a7f8f4b018192daaab5624ae8c4af4a15281c0e7b5099d59e5",
       "pages": [
         {
           "page": 1,
-          "characters": 2783,
+          "characters": 3598,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3283,
+          "characters": 2931,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3125,
+          "characters": 2979,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3420,
+          "characters": 3947,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3211,
+          "characters": 4026,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3545,
+          "characters": 3918,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3545,
+          "characters": 2972,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3431,
+          "characters": 3358,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3122,
+          "characters": 3687,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2788,
+          "characters": 2086,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1530,
+          "characters": 3641,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3464,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4249,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3249,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "mandatsannahme-interessenkollision.pdf",
-      "pdf_sha256": "d9d7d8439368a62fcffd9f0e7e8161e41eadef53237101e6622626e213bdcf1f",
+      "pdf_sha256": "a943700d6154051a8e965620712b5b1aa3b06f19953326fceaed69b4daeff644",
       "pages": [
         {
           "page": 1,
-          "characters": 3294,
+          "characters": 3788,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3394,
+          "characters": 1997,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3167,
+          "characters": 2856,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3426,
+          "characters": 3712,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3253,
+          "characters": 4148,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3077,
+          "characters": 3925,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3406,
+          "characters": 4141,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3021,
+          "characters": 3787,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2998,
+          "characters": 2379,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3038,
+          "characters": 2697,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 2183,
+          "characters": 3349,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 4202,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3329,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3532,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "recht-recherchieren.pdf",
-      "pdf_sha256": "29c33c4ce65397c6400d3d285a1b42688973f2fd3f14aa9f46f37d7213a3a306",
+      "pdf_sha256": "b5ea84ca09c067910ce3b5af76ea61f20182b64a8446571e2a0bccd731c23494",
       "pages": [
         {
           "page": 1,
-          "characters": 3175,
+          "characters": 3423,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 2922,
+          "characters": 1505,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3084,
+          "characters": 2868,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3512,
+          "characters": 3148,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3123,
+          "characters": 2569,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3181,
+          "characters": 4043,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3181,
+          "characters": 4028,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3425,
+          "characters": 3623,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2935,
+          "characters": 2051,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 2813,
+          "characters": 1703,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3922,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3859,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4078,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4115,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 2615,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "schriftsaetze-entwerfen.pdf",
-      "pdf_sha256": "9aa08845e03c1c6b3cb0619fff8a94c695099d4ec1592705e320528405a496c2",
+      "pdf_sha256": "a7b14f100004c8f138971075c93e1048d1edb817e3157a8744736d323a3a37d7",
       "pages": [
         {
           "page": 1,
-          "characters": 3111,
+          "characters": 2922,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3019,
+          "characters": 1848,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3031,
+          "characters": 2718,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3583,
+          "characters": 3936,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3168,
+          "characters": 4268,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3054,
+          "characters": 3765,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3119,
+          "characters": 3439,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3264,
+          "characters": 3722,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3165,
+          "characters": 1930,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3201,
+          "characters": 2637,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3071,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3741,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4193,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 3612,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "vertraege-agb-pruefen.pdf",
-      "pdf_sha256": "c629b80867f82be6af90e0195210d5dc6b32b4a87004b301264baf1a392ac4e0",
+      "pdf_sha256": "4359d1bab83bfe8199d528e56329547254cf382143549ff604aa47ee63bb323d",
       "pages": [
         {
           "page": 1,
-          "characters": 3094,
+          "characters": 3434,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 2960,
+          "characters": 1554,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3496,
+          "characters": 2910,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3360,
+          "characters": 3350,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3481,
+          "characters": 3998,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3481,
+          "characters": 4160,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3560,
+          "characters": 4239,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3324,
+          "characters": 3764,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2874,
+          "characters": 3422,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3427,
+          "characters": 2364,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1061,
+          "characters": 3130,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 4046,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4289,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 2686,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "vertraege-gestalten.pdf",
-      "pdf_sha256": "0995b212626651b8eeb29439412497b29e6131bed5f43084b458b65a2c4b1be2",
+      "pdf_sha256": "4b6d270cdf71daa01de766b8b9893f9484d4fa04f8f4d06643e4c45ee0a8c655",
       "pages": [
         {
           "page": 1,
-          "characters": 2933,
+          "characters": 3340,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3382,
+          "characters": 2335,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3488,
+          "characters": 3373,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3496,
+          "characters": 3840,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3420,
+          "characters": 4023,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3541,
+          "characters": 3536,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3719,
+          "characters": 4324,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 2933,
+          "characters": 4122,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3224,
+          "characters": 2245,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3206,
+          "characters": 1780,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 693,
+          "characters": 3835,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3723,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 2693,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4066,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 717,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "workflow-uebergabe.pdf",
-      "pdf_sha256": "ec1ea36a4789ebe9c7f0e1d7ff3d514d9d8d669021ea6662817bb086ef724f0c",
+      "pdf_sha256": "2281f158f268735170ff5cbd6b65dd1616ceed12394e2094a9b9f3d810b406b9",
       "pages": [
         {
           "page": 1,
-          "characters": 3166,
+          "characters": 3716,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3001,
+          "characters": 2223,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3472,
+          "characters": 3605,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3391,
+          "characters": 3449,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3050,
+          "characters": 3971,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3493,
+          "characters": 4207,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3273,
+          "characters": 4008,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3091,
+          "characters": 2053,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 3313,
+          "characters": 2471,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 1924,
+          "characters": 3851,
+          "inside_page": true
+        },
+        {
+          "page": 11,
+          "characters": 3042,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 4041,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 4153,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 2683,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "zahlungen-buchhaltung.pdf",
-      "pdf_sha256": "318e855f54700b0620bba3e2a98fd3e3aa0b246ab1e0ad9db91dda54482fc2df",
+      "pdf_sha256": "354a7d9312bded0cf8ed81edde338b6766adc4cde4a0b841feb6120a54873bf5",
       "pages": [
         {
           "page": 1,
-          "characters": 3030,
+          "characters": 3598,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 2903,
+          "characters": 2467,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3418,
+          "characters": 2712,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3404,
+          "characters": 3853,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3448,
+          "characters": 3999,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3584,
+          "characters": 3889,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3567,
+          "characters": 3718,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 3002,
+          "characters": 4085,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2873,
-          "inside_page": true
-        },
-        {
-          "page": 10,
           "characters": 3221,
           "inside_page": true
         },
         {
+          "page": 10,
+          "characters": 2602,
+          "inside_page": true
+        },
+        {
           "page": 11,
-          "characters": 580,
+          "characters": 3559,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 3873,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 3502,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 2087,
           "inside_page": true
         }
       ]
     },
     {
       "pdf": "zeiten-erfassen.pdf",
-      "pdf_sha256": "f8e99bba1bc2062a8e7940d8d1cb619118ec463be1b2e6c032c2900c0843deba",
+      "pdf_sha256": "c5e0536eeb1fa68bbce939609b533fd95cf83366b2f8802da3f34bdd95668fd0",
       "pages": [
         {
           "page": 1,
-          "characters": 3316,
+          "characters": 3722,
           "inside_page": true
         },
         {
           "page": 2,
-          "characters": 3364,
+          "characters": 1321,
           "inside_page": true
         },
         {
           "page": 3,
-          "characters": 3245,
+          "characters": 2601,
           "inside_page": true
         },
         {
           "page": 4,
-          "characters": 3540,
+          "characters": 3385,
           "inside_page": true
         },
         {
           "page": 5,
-          "characters": 3345,
+          "characters": 4023,
           "inside_page": true
         },
         {
           "page": 6,
-          "characters": 3561,
+          "characters": 4220,
           "inside_page": true
         },
         {
           "page": 7,
-          "characters": 3335,
+          "characters": 3839,
           "inside_page": true
         },
         {
           "page": 8,
-          "characters": 2912,
+          "characters": 3666,
           "inside_page": true
         },
         {
           "page": 9,
-          "characters": 2048,
+          "characters": 2853,
           "inside_page": true
         },
         {
           "page": 10,
-          "characters": 3070,
+          "characters": 1974,
           "inside_page": true
         },
         {
           "page": 11,
-          "characters": 1300,
+          "characters": 3773,
+          "inside_page": true
+        },
+        {
+          "page": 12,
+          "characters": 2777,
+          "inside_page": true
+        },
+        {
+          "page": 13,
+          "characters": 2377,
+          "inside_page": true
+        },
+        {
+          "page": 14,
+          "characters": 4116,
+          "inside_page": true
+        },
+        {
+          "page": 15,
+          "characters": 3505,
           "inside_page": true
         }
       ]
     }
-  ],
-  "samples": [
-    {
-      "skill": "abrechnung-e-rechnung",
-      "page": 1,
-      "image": "abrechnung-e-rechnung-01.png"
-    },
-    {
-      "skill": "abrechnung-e-rechnung",
-      "page": 7,
-      "image": "abrechnung-e-rechnung-07.png"
-    },
-    {
-      "skill": "abrechnung-e-rechnung",
-      "page": 10,
-      "image": "abrechnung-e-rechnung-10.png"
-    },
-    {
-      "skill": "akte-fristen-anlegen",
-      "page": 1,
-      "image": "akte-fristen-anlegen-01.png"
-    },
-    {
-      "skill": "akte-fristen-anlegen",
-      "page": 4,
-      "image": "akte-fristen-anlegen-04.png"
-    },
-    {
-      "skill": "akte-fristen-anlegen",
-      "page": 10,
-      "image": "akte-fristen-anlegen-10.png"
-    },
-    {
-      "skill": "anwaltsberufsrecht-pruefen",
-      "page": 1,
-      "image": "anwaltsberufsrecht-pruefen-01.png"
-    },
-    {
-      "skill": "anwaltsberufsrecht-pruefen",
-      "page": 5,
-      "image": "anwaltsberufsrecht-pruefen-05.png"
-    },
-    {
-      "skill": "anwaltsberufsrecht-pruefen",
-      "page": 11,
-      "image": "anwaltsberufsrecht-pruefen-11.png"
-    },
-    {
-      "skill": "bea-anlagen-vorbereiten",
-      "page": 1,
-      "image": "bea-anlagen-vorbereiten-01.png"
-    },
-    {
-      "skill": "bea-anlagen-vorbereiten",
-      "page": 7,
-      "image": "bea-anlagen-vorbereiten-07.png"
-    },
-    {
-      "skill": "bea-anlagen-vorbereiten",
-      "page": 10,
-      "image": "bea-anlagen-vorbereiten-10.png"
-    },
-    {
-      "skill": "fristen-berechnen-ueberwachen",
-      "page": 1,
-      "image": "fristen-berechnen-ueberwachen-01.png"
-    },
-    {
-      "skill": "fristen-berechnen-ueberwachen",
-      "page": 5,
-      "image": "fristen-berechnen-ueberwachen-05.png"
-    },
-    {
-      "skill": "fristen-berechnen-ueberwachen",
-      "page": 13,
-      "image": "fristen-berechnen-ueberwachen-13.png"
-    },
-    {
-      "skill": "geldwaesche-pruefen",
-      "page": 1,
-      "image": "geldwaesche-pruefen-01.png"
-    },
-    {
-      "skill": "geldwaesche-pruefen",
-      "page": 6,
-      "image": "geldwaesche-pruefen-06.png"
-    },
-    {
-      "skill": "geldwaesche-pruefen",
-      "page": 11,
-      "image": "geldwaesche-pruefen-11.png"
-    },
-    {
-      "skill": "honorar-budget-vereinbaren",
-      "page": 1,
-      "image": "honorar-budget-vereinbaren-01.png"
-    },
-    {
-      "skill": "honorar-budget-vereinbaren",
-      "page": 10,
-      "image": "honorar-budget-vereinbaren-10.png"
-    },
-    {
-      "skill": "honorar-budget-vereinbaren",
-      "page": 11,
-      "image": "honorar-budget-vereinbaren-11.png"
-    },
-    {
-      "skill": "ki-kanzlei-steuern",
-      "page": 1,
-      "image": "ki-kanzlei-steuern-01.png"
-    },
-    {
-      "skill": "ki-kanzlei-steuern",
-      "page": 2,
-      "image": "ki-kanzlei-steuern-02.png"
-    },
-    {
-      "skill": "ki-kanzlei-steuern",
-      "page": 12,
-      "image": "ki-kanzlei-steuern-12.png"
-    },
-    {
-      "skill": "mandantenkommunikation",
-      "page": 1,
-      "image": "mandantenkommunikation-01.png"
-    },
-    {
-      "skill": "mandantenkommunikation",
-      "page": 5,
-      "image": "mandantenkommunikation-05.png"
-    },
-    {
-      "skill": "mandantenkommunikation",
-      "page": 10,
-      "image": "mandantenkommunikation-10.png"
-    },
-    {
-      "skill": "mandat-abschliessen",
-      "page": 1,
-      "image": "mandat-abschliessen-01.png"
-    },
-    {
-      "skill": "mandat-abschliessen",
-      "page": 6,
-      "image": "mandat-abschliessen-06.png"
-    },
-    {
-      "skill": "mandat-abschliessen",
-      "page": 11,
-      "image": "mandat-abschliessen-11.png"
-    },
-    {
-      "skill": "mandatsannahme-interessenkollision",
-      "page": 1,
-      "image": "mandatsannahme-interessenkollision-01.png"
-    },
-    {
-      "skill": "mandatsannahme-interessenkollision",
-      "page": 4,
-      "image": "mandatsannahme-interessenkollision-04.png"
-    },
-    {
-      "skill": "mandatsannahme-interessenkollision",
-      "page": 11,
-      "image": "mandatsannahme-interessenkollision-11.png"
-    },
-    {
-      "skill": "recht-recherchieren",
-      "page": 1,
-      "image": "recht-recherchieren-01.png"
-    },
-    {
-      "skill": "recht-recherchieren",
-      "page": 4,
-      "image": "recht-recherchieren-04.png"
-    },
-    {
-      "skill": "recht-recherchieren",
-      "page": 10,
-      "image": "recht-recherchieren-10.png"
-    },
-    {
-      "skill": "schriftsaetze-entwerfen",
-      "page": 1,
-      "image": "schriftsaetze-entwerfen-01.png"
-    },
-    {
-      "skill": "schriftsaetze-entwerfen",
-      "page": 4,
-      "image": "schriftsaetze-entwerfen-04.png"
-    },
-    {
-      "skill": "schriftsaetze-entwerfen",
-      "page": 10,
-      "image": "schriftsaetze-entwerfen-10.png"
-    },
-    {
-      "skill": "vertraege-agb-pruefen",
-      "page": 1,
-      "image": "vertraege-agb-pruefen-01.png"
-    },
-    {
-      "skill": "vertraege-agb-pruefen",
-      "page": 7,
-      "image": "vertraege-agb-pruefen-07.png"
-    },
-    {
-      "skill": "vertraege-agb-pruefen",
-      "page": 11,
-      "image": "vertraege-agb-pruefen-11.png"
-    },
-    {
-      "skill": "vertraege-gestalten",
-      "page": 1,
-      "image": "vertraege-gestalten-01.png"
-    },
-    {
-      "skill": "vertraege-gestalten",
-      "page": 7,
-      "image": "vertraege-gestalten-07.png"
-    },
-    {
-      "skill": "vertraege-gestalten",
-      "page": 11,
-      "image": "vertraege-gestalten-11.png"
-    },
-    {
-      "skill": "workflow-uebergabe",
-      "page": 1,
-      "image": "workflow-uebergabe-01.png"
-    },
-    {
-      "skill": "workflow-uebergabe",
-      "page": 6,
-      "image": "workflow-uebergabe-06.png"
-    },
-    {
-      "skill": "workflow-uebergabe",
-      "page": 10,
-      "image": "workflow-uebergabe-10.png"
-    },
-    {
-      "skill": "zahlungen-buchhaltung",
-      "page": 1,
-      "image": "zahlungen-buchhaltung-01.png"
-    },
-    {
-      "skill": "zahlungen-buchhaltung",
-      "page": 6,
-      "image": "zahlungen-buchhaltung-06.png"
-    },
-    {
-      "skill": "zahlungen-buchhaltung",
-      "page": 11,
-      "image": "zahlungen-buchhaltung-11.png"
-    },
-    {
-      "skill": "zeiten-erfassen",
-      "page": 1,
-      "image": "zeiten-erfassen-01.png"
-    },
-    {
-      "skill": "zeiten-erfassen",
-      "page": 6,
-      "image": "zeiten-erfassen-06.png"
-    },
-    {
-      "skill": "zeiten-erfassen",
-      "page": 11,
-      "image": "zeiten-erfassen-11.png"
-    }
-  ],
-  "total_pages": 194,
-  "visual_review": "pending"
+  ]
 }
