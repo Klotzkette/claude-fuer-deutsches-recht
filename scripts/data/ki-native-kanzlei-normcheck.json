@@ -3,6 +3,16 @@
  "checked_for": "ki-native-kanzlei",
  "entries": [
   {
+   "id": "RVG Anlage 2 (Tabelle)",
+   "url": "https://www.gesetze-im-internet.de/rvg/anlage_2.html",
+   "needles": [
+    "500",
+    "1 000",
+    "5 000",
+    "10 000"
+   ]
+  },
+  {
    "id": "RVG §3a",
    "url": "https://www.gesetze-im-internet.de/rvg/__3a.html",
    "needles": null
@@ -186,8 +196,8 @@
    "needles": null
   },
   {
-   "id": "EGZPO §7",
-   "url": "https://www.gesetze-im-internet.de/egzpo/__7.html",
+   "id": "EGZPO §47",
+   "url": "https://www.gesetze-im-internet.de/zpoeg/__47.html",
    "needles": null
   },
   {

@@ -14,7 +14,7 @@ on:
       - '.github/workflows/ki-native-kanzlei-normcheck.yml'
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   normcheck:
@@ -36,3 +36,13 @@ jobs:
           name: ki-native-kanzlei-normcheck
           path: normcheck.md
           retention-days: 30
+      - name: Bericht im Zweig ablegen
+        if: github.event_name == 'push' && startsWith(github.ref_name, 'claude/ki-native-kanzlei-')
+        run: |
+          mkdir -p quality/ki-native-kanzlei/normcheck
+          cp normcheck.md quality/ki-native-kanzlei/normcheck/normcheck-$(date -u +%Y-%m-%d).md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add quality/ki-native-kanzlei/normcheck
+          git commit -m "Normcheck-Bericht KI-native Kanzlei" || exit 0
+          git push origin HEAD:${{ github.ref_name }}
