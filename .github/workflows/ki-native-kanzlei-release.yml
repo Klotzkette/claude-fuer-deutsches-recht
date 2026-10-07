@@ -62,7 +62,14 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if ! gh release view "$TAG" >/dev/null 2>&1; then
-            gh release create "$TAG" --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false --verify-tag
+            # Bei manuellem Start ohne vorhandenen Tag legt die Veröffentlichung den Tag
+            # auf genau dem geprüften Commit dieses Laufs an.
+            if git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1; then
+              TAG_OPT="--verify-tag"
+            else
+              TAG_OPT="--target $GITHUB_SHA"
+            fi
+            gh release create "$TAG" --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false $TAG_OPT
           fi
           gh release upload "$TAG" "$RUNNER_TEMP"/dist/* --clobber
           gh release view "$TAG" --json assets --jq '.assets[] | "\(.name) \(.size)"'
