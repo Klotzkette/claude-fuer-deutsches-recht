@@ -157,14 +157,14 @@
     {
       "nr": 1,
       "titel": "Normabgleich nachschärfen und Restvermerke auflösen",
-      "beschreibung": "Die Runde 445.33.7 hat alle Prüfvermerke über den Normcheck-Workflow (Bericht quality/ki-native-kanzlei/normcheck/normcheck-*.md) und einen Websuche-Abgleich (quality/ki-native-kanzlei/normcheck/normbefunde-websuche-2026-10-07.md: 85 bestätigt, 12 berichtigt, 5 nicht ermittelbar) aufgelöst und 100 Änderungen in 17 Skills übernommen. Der Websuche-Abgleich beruht auf Suchtreffer-Auszügen. Öffne deshalb mindestens die zwölf berichtigten Normen und die Übergangsvorschriften am amtlichen Volltext (gesetze-im-internet.de über den Normcheck-Workflow), prüfe die übernommenen Sätze wortgenau und löse die verbliebenen Vermerke auf. Ergebnisse als Nachtrag im Befundbericht ablegen.",
+      "beschreibung": "Die Runde 445.33.7 hat alle Prüfvermerke über den Normcheck-Workflow (Bericht quality/ki-native-kanzlei/normcheck/normcheck-*.md) und einen Websuche-Abgleich (quality/ki-native-kanzlei/normcheck/normbefunde-websuche-2026-10-07.md: 85 bestätigt, 12 berichtigt, 5 nicht ermittelbar) aufgelöst und 100 Änderungen in 17 Skills übernommen. Der Nachlauf (normcheck-2026-10-07-2046.md) hat 90 von 93 Normtexten gelesen; die zwölf Berichtigungen wurden dagegen gegengelesen und bestätigt. Der Websuche-Abgleich der übrigen Stellen beruht auf Suchtreffer-Auszügen. Öffne deshalb mindestens die zwölf berichtigten Normen und die Übergangsvorschriften am amtlichen Volltext (gesetze-im-internet.de über den Normcheck-Workflow), prüfe die übernommenen Sätze wortgenau und löse die verbliebenen Vermerke auf. Ergebnisse als Nachtrag im Befundbericht ablegen.",
       "schwerpunkte": [
         "Berichtigt, wortgenau nachprüfen: § 4a Abs. 1 und 3 RVG, § 4b RVG, § 53 BRAO, § 8 Abs. 2 und 4 GwG, § 43 Abs. 4 GwG, § 4 BORA, §§ 2 bis 4 DL-InfoV, Nr. 7000 VV RVG, § 309 Nr. 8 Buchst. b Doppelbuchst. ff BGB, § 5 ERVV",
         "Übergangsrecht: § 47 EGZPO (§ 544 ZPO), § 44 EGGVG (§ 23 GVG), § 72 GKG (§ 66 GKG), Art. 97 § 19a EGAO (§ 147 AO)",
         "§ 356 BGB in der Fassung ab 19.06.2026 (Höchstfrist Abs. 4 Satz 1, Dienstleistungen Abs. 5 Nr. 2) und § 356a BGB (Widerrufsfunktion) am amtlichen Text bestätigen",
         "Restvermerke: § 476 Abs. 1 BGB negative Beschaffenheitsvereinbarung, § 45 BRAO ab Abs. 2, § 2 Abs. 1 Nr. 10 GwG Doppelbuchstaben",
         "Fristentabelle im Skill fristen-berechnen-ueberwachen (Abschnitt Fristenübersicht) Zeile für Zeile gegen den Normtext abgleichen",
-        "Nachlaufbericht des Normchecks auswerten: Normen, die beim ersten Lauf an Zeitüberschreitung scheiterten"
+        "Im Normcheck nicht gelesen (90 von 93 gelesen): RVG Anlage 2 (Gebührentabelle), Teil 7 VV RVG und § 47 EGZPO; Abruf wiederholen und gegen die Skills abgleichen"
       ]
     },
     {
