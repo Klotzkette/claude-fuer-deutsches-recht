@@ -221,7 +221,7 @@ REMOVED_AGGREGATES = {
 PROTECTED_PROSE = re.compile(
     r"https?://[^\s<>()]+|"
     r"[\w.+-]+@[\w.-]+|"
-    r"\b(?:[\w.-]+[/\\])*[^\s/\\;|<>()]+\.(?:pdf|docx|odt|xlsx|csv|eml|jpg|jpeg|png|json|yaml)\b",
+    r"\b(?:[\w.-]+[/\\])*[^\s/\\;|<>()]+\.(?:pdf|docx|odt|xlsx|csv|txt|eml|jpg|jpeg|png|json|yaml)\b",
     re.IGNORECASE,
 )
 TRANSLITERATION = re.compile(
