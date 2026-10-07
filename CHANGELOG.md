@@ -1,3 +1,17 @@
+# ki-native-kanzlei-v445.33.5 - Veredelung aller achtzehn Skills
+
+## 1. Alle Skills in einer Runde vertieft
+
+Jeder der achtzehn Skills erhält eine auslöserorientierte Beschreibung, einen Unterabschnitt zu Auslösern und Abgrenzung mit Verweisen auf die Nachbarskills, eine Eingabentabelle mit dem Vorgehen bei fehlenden Angaben, wörtlich ausformulierte Rückfragen in der richtigen Reihenfolge, einen skillspezifischen Katalog typischer Fehler mit Gegenkontrolle, einen Unterabschnitt zur Übergabe an die Nachbarskills, Abnahmekriterien im Ausgabeformat sowie mindestens zwei vollständig ausformulierte Endprodukte und ein Negativbeispiel. Vage Normverweise sind durch konkret benannte und am amtlichen Text geprüfte Vorschriften ersetzt; der Fristenskill enthält eine verifizierte Übersichtstabelle der häufigsten Fristen.
+
+## 2. Quellen und Prüfung
+
+Neue Normaussagen wurden am Prüfstand 7. Oktober 2026 gegen gesetze-im-internet.de beziehungsweise EUR-Lex geprüft; Entscheidungsanker bleiben auf die bereits am amtlichen Volltext verifizierten Entscheidungen beschränkt. Keine Kommentar- oder Aufsatzfundstellen. Die Prüfnachweise stehen im aktualisierten Qualitätsbericht; die Lesefassungen wurden mit der angegebenen Schrift neu gesetzt und ihre Seitenzahlen gemessen.
+
+## 3. Plugin, Referenzen und Pakete
+
+Die gemeinsame Arbeitsweise beschreibt die Skillauswahl nach Startsituation sowie Fehlerkataloge, Abnahmekriterien und Übergaben. README, Manifeste, Indizes und Tests sind auf die Komponentenfassung 445.33.5 umgestellt. Testakten, Prompts und Skripte bleiben unverändert; die bisherigen Aktendownloads behalten ihre URLs.
+
 # bauwirtschaft-rundum-v445.33.3 - Zehn fallbezogene Excel-Arbeitsmappen
 
 ## 1. Tabellen als Arbeitsunterlagen

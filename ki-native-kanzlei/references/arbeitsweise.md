@@ -36,6 +36,16 @@ Prüfe die tatsächliche Umgebung. Ein installiertes Paket kann Skills, Referenz
 
 Rechts- und Berufsfragen folgen den [konkreten Rechtsquellen](rechtsquellen.md). Tragende Aussagen werden am aktuellen Fall verifiziert. Die [Zitierweise](zitierweise.md) untersagt erfundene Entscheidungen, Kommentarstellen und Parallelfundstellen. Die kleinen Testakten sind Übungsbelege, keine fachrechtliche Vollprüfung.
 
-## 7. Fristen und Berufsrecht
+## 1.6. Fristen und Berufsrecht
 
 `fristen-berechnen-ueberwachen` ordnet Fristart, Rechtsregime, Zugang, Rechenweg und tatsächliche Überwachung zu. [Fristen-Rechenhilfe](fristen-rechenhilfe.md) und eigener Quellenbeleg ergänzen den Vermerk; die Hilfe ersetzt keine Rechtswahl. `anwaltsberufsrecht-pruefen` prüft die konkrete anwaltliche Handlung, Rolle und Rechtsfolge. Beide Routen sind eigenständig nutzbar und werden bei einem Fachauftrag nur insoweit hinzugenommen, wie dessen Tatsachen sie erfordern.
+
+## 1.7. Welcher Skill zuerst
+
+Die Auswahl folgt dem konkret bestellten Produkt, nicht der Reihenfolge der Skillliste. Bei einer neuen Anfrage beginnt die Arbeit mit `mandatsannahme-interessenkollision`; erst nach Mandant, Gegner und zulässigem Umfang wird die Akte angelegt. Bei einer laufenden Akte mit neuem Beleg beginnt sie im Fachskill, der das betroffene Produkt verantwortet, etwa `schriftsaetze-entwerfen` bei einer Teilzahlung vor Einreichung. Bei einem Fristauslöser geht die Berechnung sofort an `fristen-berechnen-ueberwachen`, während die unabhängige Sacharbeit weiterläuft. Bei einer Rechnungsbestellung beginnt `abrechnung-e-rechnung` mit der bestätigten Honorargrundlage und dem Leistungsstand aus `zeiten-erfassen`. Bei einem Mandatsende führt `mandat-abschliessen` Restfristen, Schlussrechnung, Fremdgeld und Aufbewahrung zusammen. Der Hauptskill `ki-kanzlei-steuern` hält diese Routen zusammen und wird nur dann vollständig durchlaufen, wenn mehrere Produkte voneinander abhängen.
+
+## 1.8. Fehlerkataloge, Abnahmekriterien und Übergaben
+
+Jeder Skill enthält im Ablauf einen eigenen Katalog typischer Fehler mit Gegenkontrolle, einen Unterabschnitt zur Übergabe an die Nachbarskills und im Ausgabeformat Abnahmekriterien, die beschreiben, wann das Produkt fertig ist. Diese drei Bausteine sind verbindlich: Vor dem Abschluss eines Produkts wird der Fehlerkatalog des zuständigen Skills tatsächlich durchgegangen, nicht nur zitiert. Die Übergabe nennt die führende Fassung, den Belegstand, die offenen Entscheidungen, den Friststand und den Honorar- und Zeitstand; ein Nachbarskill beginnt nicht mit einer erneuten Mandatsaufnahme, sondern mit diesem Stand. Die Abnahmekriterien werden am konkreten Dokument geprüft; eine allgemein „geprüfte" Datei ohne Bezug zum Fehlermechanismus ist nicht abgenommen.
+
+Die Beispiele der Skills enthalten jeweils ausformulierte Endprodukte und ein Negativbeispiel. Das Negativbeispiel zeigt eine naheliegende, aber falsche Ausgabe und ihre Korrektur; es ist Prüfmaßstab für die eigene Ausgabe und kein Muster zum Abschreiben.

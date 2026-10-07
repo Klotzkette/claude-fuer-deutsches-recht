@@ -8,7 +8,7 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
-Neu: [KI-native Kanzlei](./ki-native-kanzlei/README.md) umfasst 17 ausführliche Fachskills und einen Hauptskill. Eigene Skills für Fristenberechnung und Anwaltsberufsrecht ergänzen Honorarabfragen, tatsächliche Zeiterfassung, Rechnungsentwürfe und XRechnung-Export. Dazu kommen 24 kurze Fachanwaltsakten mit je zehn Originalstücken. Die Downloads stehen im eigenen [Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-native-kanzlei-v445.33.4); vorhandene allgemeine Sammel-ZIPs enthalten diese Erweiterung noch nicht.
+Neu: [KI-native Kanzlei](./ki-native-kanzlei/README.md) umfasst 17 ausführliche Fachskills und einen Hauptskill. Eigene Skills für Fristenberechnung und Anwaltsberufsrecht ergänzen Honorarabfragen, tatsächliche Zeiterfassung, Rechnungsentwürfe und XRechnung-Export. Dazu kommen 24 kurze Fachanwaltsakten mit je zehn Originalstücken. Die Downloads stehen im eigenen [Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-native-kanzlei-v445.33.5); vorhandene allgemeine Sammel-ZIPs enthalten diese Erweiterung noch nicht.
 
 Neu: [Bauwirtschaft rundum](./bauwirtschaft-rundum/README.md) bündelt zwei getrennte Seminarpakete für Anfänger und Fortgeschrittene. Je acht Skills, ein eigener Werkstatt- und Mini-Prompt sowie fünf Praxisakten bilden die angekündigten Arbeitsabläufe aus Planung, Bauüberwachung, Ausführung, Vergabe und Streitlösung ab. Die vorhandenen Bauwirtschafts- und Bauvergabepakete bleiben erhalten. Die neuen Einzelpakete und Akten stehen im eigenen Komponentenrelease bereit; ältere Sammel-ZIPs enthalten sie noch nicht.
 

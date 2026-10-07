@@ -4,22 +4,22 @@ Eine Kanzlei, die KI mitdenken lässt und ihre Arbeit im Griff behält: Mandat a
 
 ## 0. Downloads und Verwendung
 
-Stand: **v445.33.4**, Rechtsquellen geprüft am **7. Oktober 2026**.
+Stand: **v445.33.5**, Rechtsquellen geprüft am **7. Oktober 2026**.
 
-Die frühere Pluginbezeichnung wird durch KI-native Kanzlei ersetzt. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
+Die Komponentenfassung 445.33.5 veredelt alle achtzehn Skills derselben Pluginbezeichnung. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.4/ki-native-kanzlei.zip) |
-| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.4/ki-native-kanzlei-portable.zip) |
-| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.4/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.4/ki-native-kanzlei-skills-einzelpdfs.zip) |
+| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei.zip) |
+| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-portable.zip) |
+| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
 | Hauptproblem-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
 
 Das portable Paket enthält denselben Pluginordner mit Agent-Plugins-1.0-Manifest; die Freischaltung und der Importweg hängen vom jeweiligen ChatGPT-/Codex-Konto ab. Die Standalone-Prompts können ohne Installation mit den verfügbaren Werkzeugen verwendet werden. Lokale Python-Hilfen benötigen tatsächlich ausführbaren Dateizugriff; es gibt keinen automatisch gestarteten Hintergrunddienst. Prompts und Testakten sind separate Downloads und nicht Teil des installierbaren Plugin-ZIPs.
 
-[Alle 18 Skills mit Einzeldownloads](../skills-index/ki-native-kanzlei.md) · [Reproduzierbare Ausführung](references/mandatsordner-und-cli.md) · [Testakten auswählen](#7-die-24-kurzfälle)
+[Alle 18 Skills mit Einzeldownloads](../skills-index/ki-native-kanzlei.md) · [Reproduzierbare Ausführung](references/mandatsordner-und-cli.md) · [Prüfnachweise](../quality/ki-native-kanzlei/README.md) · [Testakten auswählen](#7-die-24-kurzfälle)
 
 ## 1. Direkt anfangen
 
@@ -29,38 +29,42 @@ Ein kleiner Einzelauftrag funktioniert ebenso:
 
 > Im Mandat M-26-104: heute 18 Minuten Telefonat mit der Mandantin zur Kündigung, abrechenbar. Bitte passend formulieren, eintragen und den Rechnungsentwurf aktualisieren.
 
+Ein Fristauftrag beginnt mit dem Beleg, nicht mit dem Datum des Schreibens:
+
+> Hier ist das Versäumnisurteil mit Zustellungsurkunde. Berechne die Einspruchsfrist für Berlin, erstelle den Rechenvermerk und sage mir, welche Eintragung ich im Kalender vornehmen muss. Keine Einreichung.
+
 Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die komplette Honorarvereinbarung neu ab noch erfindet es Zeiten, wenn eine Antwort fehlt.
 
 ## 2. Achtzehn ausführliche Skills
 
-| Skill | Ergebnis |
-| --- | --- |
-| `ki-kanzlei-steuern` | Hauptskill: konkretes Produkt, Aktenstand, Honorar- und Zeitanschluss. |
-| `mandatsannahme-interessenkollision` | Richtiger Mandant, Konfliktprüfung und Annahme oder Absage. |
-| `akte-fristen-anlegen` | Geordnete Akte und belegte Fristen. |
-| `fristen-berechnen-ueberwachen` | Eigenständiger Fristen-Skill: Norm- und Zugangsklärung, Berechnung, Sonderfristen, Kontrolle und Überwachung. |
-| `anwaltsberufsrecht-pruefen` | Berufsrecht vom Konflikt und Geheimnisschutz über Vergütung und Fremdgeld bis zur Kanzleiorganisation. |
-| `geldwaesche-pruefen` | Anlassbezogene GwG-Prüfung und gezielte Nachweise. |
-| `honorar-budget-vereinbaren` | RVG, Stundenhonorar, Festpreis, Quote, Estimate und Deckel konkret klären. |
-| `zeiten-erfassen` | Tatsächliche Minuten und Narrativ speichern; Entwurf fortschreiben. |
-| `workflow-uebergabe` | Quellen, Fassung, Zuständigkeit und nächsten Schritt übergeben. |
-| `recht-recherchieren` | Passende Normen und überprüfte Entscheidungsanker. |
-| `schriftsaetze-entwerfen` | Ausformulierter Schriftsatz mit konkreten Anträgen und Belegen. |
-| `vertraege-agb-pruefen` | Befunde und vollständige Ersatzklauseln. |
-| `vertraege-gestalten` | Kohärenter Vertragsentwurf mit gezielten offenen Fragen. |
-| `mandantenkommunikation` | Verständliches Schreiben mit Empfehlung, Frist und Kostenwirkung. |
-| `bea-anlagen-vorbereiten` | Zugeordnete, kontrollierte PDF-Kopien und passende Anlagenstempel. |
-| `abrechnung-e-rechnung` | Prüffähiger Entwurf und tatsächlicher strukturierter Export, soweit möglich. |
-| `zahlungen-buchhaltung` | Belegte Geldflüsse und nachvollziehbarer Buchhaltungsvorschlag. |
-| `mandat-abschliessen` | Abschlussbrief, Restpflichten, Abrechnung und Aufbewahrung. |
+| Skill | Verwenden, wenn | Ergebnis |
+| --- | --- | --- |
+| `ki-kanzlei-steuern` | Mehrere Produkte eines Mandats voneinander abhängen oder der nächste Schritt offen ist. | Konkretes Produkt, Aktenstand, Honorar- und Zeitanschluss, nächste Entscheidung. |
+| `mandatsannahme-interessenkollision` | Eine neue Anfrage, ein neuer Gegner oder ein Kollisionshinweis eingeht. | Richtiger Mandant, Konfliktprüfung, Annahme, begrenzte Beauftragung oder Absage. |
+| `akte-fristen-anlegen` | Unterlagen geordnet, Originale gesichert und Fristauslöser erfasst werden sollen. | Geordnete Akte mit Dokumentregister und belegten Fristauslösern. |
+| `fristen-berechnen-ueberwachen` | Zustellung, Bescheid, Verfügung, Vertragsfrist oder Verjährung eine Berechnung verlangt. | Rechenvermerk mit Norm, Beleg, Ende, Verschiebung, Kontrolle und Überwachung. |
+| `anwaltsberufsrecht-pruefen` | Eine konkrete Handlung berufsrechtlich zweifelhaft ist: Dienstleister, Werbung, Fremdgeld, Handakten, Gesellschaft. | Entscheidung mit Rechtsfolge und Abhilfemaßnahme. |
+| `geldwaesche-pruefen` | Eine Katalogtätigkeit nach dem GwG oder ein konkreter Verdachtsmoment vorliegt. | Anlassbezogener Prüfvermerk, Identifizierungsprotokoll, Nachforderung oder Meldeentwurf. |
+| `honorar-budget-vereinbaren` | Vergütungsgrundlage fehlt, sich ändert oder ein Budget überschritten wird. | Ausformulierte Vereinbarung oder Ergänzung, Deckel- und Schätzlogik, Kostenkommunikation. |
+| `zeiten-erfassen` | Tatsächliche menschliche Arbeitszeit gespeichert oder korrigiert werden soll. | Belegter Zeiteintrag mit Narrativ, Storno und fortgeschriebenem Entwurf. |
+| `workflow-uebergabe` | Ein Arbeitsstand an Kollegen, Mitarbeiter oder KI-Dienst geht oder zurückkommt. | Übergabevermerk mit Fassung, Quellen, Fristen, Zuständigkeit und Freigabe. |
+| `recht-recherchieren` | Eine entscheidungserhebliche Rechtsfrage am Normstand und Volltext beantwortet werden muss. | Rechercheergebnis im Gutachtenstil mit Gegenposition und Quellenvermerk. |
+| `schriftsaetze-entwerfen` | Klage, Erwiderung, Rechtsmittelbegründung oder Antrag entstehen soll. | Ausformulierter Schriftsatz mit Anträgen, Beweisantritten und Anlagenbezug. |
+| `vertraege-agb-pruefen` | Ein vorgelegter Vertrag oder AGB aus Mandantensicht bewertet werden sollen. | Befunde, Ersatzklauseln und Änderungsfassung. |
+| `vertraege-gestalten` | Ein Vertrag aus einem belegten Geschäftsmodell entworfen oder geändert wird. | Kohärenter Vertragsentwurf mit gezielten offenen Fragen. |
+| `mandantenkommunikation` | Die Mandantschaft Sachstand, Empfehlung, Frist und Kosten entscheidbar erhalten soll. | Verständlicher Brief oder Entscheidungsvorlage ohne interne Protokolle. |
+| `bea-anlagen-vorbereiten` | Ein Schriftsatz mit Anlagen für den gerichtlichen Upload vorbereitet wird. | Kontrollierte PDF-Kopien, Stempel, Dateinamen, Versandmanifest. |
+| `abrechnung-e-rechnung` | Eine Rechnung oder eine strukturierte E-Rechnung aus bestätigter Grundlage entstehen soll. | Prüffähiger Rechnungstext und tatsächlich erzeugter Export, soweit möglich. |
+| `zahlungen-buchhaltung` | Zahlungseingänge, Vorschüsse, Drittzahlungen oder Fremdgeld zugeordnet werden. | Belegte Geldflüsse und Buchungsvorschlag ohne ungeprüfte Verrechnung. |
+| `mandat-abschliessen` | Ein Mandat oder eine Auftragsphase endet. | Abschlussbrief, Restpflichten, Schlussrechnung, Herausgabe, Aufbewahrung. |
 
-**Alle 18 Skills umfassen jeweils 10 bis 13 tatsächliche A4-Seiten, zusammen 194 Seiten** (rund 79.600 Wörter). Fristenberechnung: 13 Seiten; Anwaltsberufsrecht: 11 Seiten; Hauptskill: 12 Seiten.
+**Alle 18 Skills umfassen jeweils __MINPAGES__ bis __MAXPAGES__ tatsächliche A4-Seiten, zusammen __TOTALPAGES__ Seiten** (rund __WORDS__ Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
 
-Die Skills enthalten jeweils eigene Arbeitsschritte, konkrete Rückfragen, ausformulierte Beispiele und überprüfte Rechtsprechungsanker mit Anwendungsgrenzen. Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten A4-Seiten bei Times New Roman 11 pt.
+Jeder Skill ist gleich aufgebaut: Auslöser und Abgrenzung zu den Nachbarskills, Eingabentabelle mit dem Vorgehen bei fehlenden Angaben, wörtlich ausformulierte Rückfragen in der richtigen Reihenfolge, der fachliche Ablauf mit konkret benannten und am amtlichen Text geprüften Normen, ein skillspezifischer Katalog typischer Fehler mit Gegenkontrolle, die Übergabe an die Nachbarskills, verifizierte Entscheidungsanker mit Anwendungsgrenzen, Abnahmekriterien sowie Beispiele mit vollständig ausformulierten Endprodukten und einem Negativbeispiel. Die [Arbeitsweise](references/arbeitsweise.md) erklärt, welcher Skill in welcher Startsituation zuerst greift.
 
 ## 3. Werkstatt, Mini und Hauptproblem
 
-Die Werkstatt führt ausführlich durch den ganzen Ablauf, einschließlich konkreter Dialoge. Der Mini-Prompt ist der kompakte Einstieg. Der Hauptproblem-Prompt konzentriert sich auf das Zusammenspiel von Sacharbeit, Honorarumfang, tatsächlicher Zeit und Rechnungsentwurf. Alle drei funktionieren als eigenständige Texte; die jeweilige TXT-Fassung ist mit der Markdown-Fassung identisch.
+Die Werkstatt führt ausführlich durch den ganzen Ablauf, einschließlich konkreter Dialoge. Der Mini-Prompt ist der kompakte Einstieg. Der Hauptproblem-Prompt konzentriert sich auf das Zusammenspiel von Sacharbeit, Honorarumfang, tatsächlicher Zeit und Rechnungsentwurf. Alle drei funktionieren als eigenständige Texte; die jeweilige TXT-Fassung ist mit der Markdown-Fassung identisch. Die drei Prompts sind in dieser Komponentenfassung unverändert.
 
 In Claude und Codex können die installierten Skills und lokalen Skripte eingesetzt werden. In ChatGPT werden die eigenständigen Prompts mit den dort verfügbaren Dateien und Funktionen verwendet. Kein Prompt schafft automatisch einen dauerhaften Dateizugriff oder einen Hintergrunddienst.
 
@@ -70,7 +74,7 @@ Der optionale [lokale Mandatshelfer](references/mandatsordner-und-cli.md) verwal
 
 Eine Festpreisakte kann Zeit für die Nachkalkulation enthalten, ohne dass dadurch die Forderung steigt. Bei Stundenhonorar werden keine hypothetischen Stunden für die Zeitersparnis durch KI erfunden. Gebührenmodell und Budget werden kurz vorgehalten; zusätzliche Aufgaben bleiben gegen den vereinbarten Umfang prüfbar.
 
-Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag.
+Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist keine Einreichung.
 
 ## 5. Kleine Fälle für alle Fachanwaltschaften
 
@@ -80,7 +84,7 @@ Die bisherigen Akten bleiben mit ihren ursprünglichen technischen Fallkennzeich
 
 ## 6. Quellen und Ausführung
 
-Quellenstand: 7. Oktober 2026. Enthalten sind unter anderem die BGH-Urteile vom 19. Februar 2026 zur Reichweite der Honorarvereinbarung und zu Zeitaufstellungen, aktuelle Rechnungsvorgaben, ERVB/beA-Regeln und die anlassbezogene GwG-Prüfung. Die [Arbeitsweise](references/arbeitsweise.md) beschreibt Honoraranschluss, Dateistand und konkrete Grenzen.
+Quellenstand: 7. Oktober 2026. Enthalten sind unter anderem die BGH-Urteile vom 19. Februar 2026 zur Reichweite der Honorarvereinbarung und zu Zeitaufstellungen, der BGH-Beschluss vom 4. März 2026 zur Nachvollziehbarkeit von Friständerungen, das BGH-Urteil vom 15. Januar 2026 zu Handakten beim Sozietätswechsel, aktuelle Rechnungs- und Aufbewahrungsvorgaben, ERVB/beA-Regeln und die anlassbezogene GwG-Prüfung. Normaussagen der Skills sind am amtlichen Text geprüft; Entscheidungen werden nur mit tatsächlich gelesenem Volltext und Randnummer zitiert, Literatur nur aus bereitgestellten Quellen. Die [Arbeitsweise](references/arbeitsweise.md) beschreibt Honoraranschluss, Dateistand und konkrete Grenzen; die [Prüfnachweise](../quality/ki-native-kanzlei/README.md) dokumentieren Quellenabgleich, Tests und Lesefassungen.
 
 Eine vorbereitete Anlage ist noch keine Einreichung. Ein Rechnungsentwurf ist noch keine ausgegebene Rechnung. Eine E-Rechnung wird nur mit tatsächlich erzeugter Datei und passender Validierung als technisch geprüft bezeichnet. Externe Handlungen erfolgen nur mit entsprechendem Auftrag; normale beauftragte Dateiarbeit kann unmittelbar erledigt werden.
 

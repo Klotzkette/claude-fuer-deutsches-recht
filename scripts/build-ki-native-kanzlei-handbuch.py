@@ -37,8 +37,15 @@ def inline(s):
     for i,v in enumerate(stash):s=s.replace(f'LINKTOKEN{i}ENDTOKEN',v)
     return s
 
-def setup(fontdir):
-    for name,file in [('TNR','Times New Roman.ttf'),('TNR-Bold','Times New Roman Bold.ttf'),('TNR-Italic','Times New Roman Italic.ttf'),('TNR-BoldItalic','Times New Roman Bold Italic.ttf')]:
+FONT_FILES={'times-new-roman':('Times New Roman','Times New Roman.ttf','Times New Roman Bold.ttf','Times New Roman Italic.ttf','Times New Roman Bold Italic.ttf'),
+            'liberation-serif':('Liberation Serif (metrisch kompatibel zu Times New Roman)','LiberationSerif-Regular.ttf','LiberationSerif-Bold.ttf','LiberationSerif-Italic.ttf','LiberationSerif-BoldItalic.ttf')}
+FONT_LABEL='Times New Roman'
+
+def setup(fontdir,family='times-new-roman'):
+    """Registriert die Schriftfamilie unter dem internen Namen TNR; die tatsächlich verwendete Schrift wird im Bericht ausgewiesen."""
+    global FONT_LABEL
+    label,*files=FONT_FILES[family];FONT_LABEL=label
+    for name,file in zip(['TNR','TNR-Bold','TNR-Italic','TNR-BoldItalic'],files):
         pdfmetrics.registerFont(TTFont(name,str(fontdir/file)))
     pdfmetrics.registerFontFamily('TNR',normal='TNR',bold='TNR-Bold',italic='TNR-Italic',boldItalic='TNR-BoldItalic')
 
@@ -117,7 +124,7 @@ def render(source,target):
     return {'skill':slug,'title':title,'source':source.relative_to(ROOT).as_posix(),'source_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'words':len(re.findall(r'\S+',body)),'utf8_bytes':len(source.read_bytes()),'pages':len(reader.pages),'pdf':target.name,'pdf_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'body_text_coverage':'all rendered source text segments present in source order'}
 
 def main():
-    ap=argparse.ArgumentParser();ap.add_argument('--out',required=True,type=Path);ap.add_argument('--font-dir',type=Path,default=Path('/System/Library/Fonts/Supplemental'));ap.add_argument('--min-words',type=int,default=0);args=ap.parse_args();args.out.mkdir(parents=True,exist_ok=True);setup(args.font_dir)
+    ap=argparse.ArgumentParser();ap.add_argument('--out',required=True,type=Path);ap.add_argument('--font-dir',type=Path,default=Path('/System/Library/Fonts/Supplemental'));ap.add_argument('--font-family',choices=sorted(FONT_FILES),default='times-new-roman');ap.add_argument('--min-words',type=int,default=0);args=ap.parse_args();args.out.mkdir(parents=True,exist_ok=True);setup(args.font_dir,args.font_family)
     rows=[]
     sources=sorted((ROOT/'ki-native-kanzlei/skills').glob('*/SKILL.md'))
     for source in sources:
@@ -127,6 +134,6 @@ def main():
     for row in rows:writer.append(args.out/row['pdf'],outline_item=row['title'])
     writer.add_metadata({'/Title':'KI-native Kanzlei – Die ausführlichen Skills','/Author':'Klotzkette','/Subject':'Mandat, Berufsrecht, Fristen, Facharbeit und Abrechnung'})
     target=args.out/'ki-native-kanzlei-skills-handbuch.pdf';writer.write(target)
-    report={'date':'2026-10-07','layout':'A4, Times New Roman 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
+    report={'date':'2026-10-07','layout':'A4, '+FONT_LABEL+' 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
     (args.out/'umfang.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()

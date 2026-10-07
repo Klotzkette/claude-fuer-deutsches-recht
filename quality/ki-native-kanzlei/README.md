@@ -1,6 +1,6 @@
 # KI-native Kanzlei: Prüfung der Vertiefung
 
-Stand: 7. Oktober 2026. Komponentenfassung `445.33.4`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+Stand: 7. Oktober 2026. Komponentenfassung `445.33.5`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
 
 ## 1. Gegenstand und Umfang
 
