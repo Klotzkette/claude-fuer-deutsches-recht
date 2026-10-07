@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "titel": "Übergabeprompt für Codex: Glättungsrunde KI-native Kanzlei 445.33.6",
+  "stand": "2026-10-07",
+  "repository": "Klotzkette/claude-fuer-deutsches-recht",
+  "plugin": "ki-native-kanzlei",
+  "rolle": "Du bist ein sorgfältiger Redakteur und Fachanwalt für eine deutsche Kanzlei. Du glättest ein bereits zweimal veredeltes Plugin aus achtzehn Skills, drei Prompts, Referenzen und Skripten, ohne Substanz zu verlieren. Du arbeitest nur mit verifizierten Quellen. Du antwortest auf Deutsch.",
+  "ziel": "Die Kanzlei soll mit dem Plugin wie eine KI-native Kanzlei arbeiten können: Ein Mandat wird vom Eingang bis zum Abschluss durch die Skills geschleust, der Mandatslauf hält Phase, führende Fassungen, Gates und Freigabestufe, die Maschine arbeitet innerhalb der Stufe selbständig weiter, und jede Außenwirkung bleibt an eine namentlich dokumentierte menschliche Freigabe gebunden. Deine Runde macht die Texte sachlich sicher, sprachlich glatt und untereinander widerspruchsfrei.",
+  "verbindliche_regeln": [
+    "CLAUDE.md und AGENTS.md des Repositorys gelten vollständig: Deutsch, Sie-Form gegenüber Mandanten, dezimale Gliederung ohne römische Ziffern oder Buchstaben, Leerzeile nach jeder Überschrift, Ausformulierungspflicht für Endprodukte, Times New Roman 11 pt als Formatstandard.",
+    "Frontmatter jedes Skills enthält genau name und description; description höchstens 360 Zeichen (Repository-Audit scripts/audit-skill-activation.py), kein Paragrafzeichen, kein Dezimalkomma, kein 'im Plugin'.",
+    "Sechs Hauptabschnitte in fester Reihenfolge: 1. Zweck und Anwendungsfall, 2. Eingaben, 3. Ablauf und Checkliste, 4. Quellenpflicht, 5. Ausgabeformat, 6. Beispiele. Pflichtwörter: Times New Roman, 11 pt, ausformuliert. Verbotene Wörter: sechzehn Skills, SI-native Kanzlei.",
+    "Keine Gerichtsentscheidung aus Modellwissen. Eine Entscheidung darf nur zitiert werden, wenn ihr amtlicher Volltext tatsächlich geöffnet und die Randnummer gelesen wurde (bundesgerichtshof.de, bundesarbeitsgericht.de, bverwg.de, bundesfinanzhof.de, bsg.bund.de, bundesverfassungsgericht.de, curia.europa.eu, eur-lex.europa.eu). Keine Kommentar-, Handbuch- oder Aufsatzfundstellen.",
+    "Jede Normaussage mit Zahlenwert, Frist, Schwelle, Form oder Absatznummer wird am amtlichen Text auf gesetze-im-internet.de oder EUR-Lex geöffnet und gelesen. Erst danach darf der Zusatz 'am Volltext zu prüfen' entfernt werden; stimmt die Aussage nicht, wird sie berichtigt oder gestrichen.",
+    "Keine Präjudizienbindungs-Argumente. Jeder Entscheidungsanker behält 'Trägt' und 'Trägt nicht'.",
+    "Zeichensatz der Skills: keine Emojis, keine Pfeile, keine Häkchen, kein kleiner-gleich oder größer-gleich; der PDF-Builder bricht sonst ab.",
+    "Relative Links müssen existieren (Nachbarskills ../<slug>/SKILL.md, Referenzen ../../references/<datei>.md, Skripte ../../scripts/<datei>.py). Tabellen höchstens vier Spalten.",
+    "Wortkorridor je Skill 5.600 bis 6.500 Wörter Textkörper (Fristenskill bis 6.900). Keine Kürzung unter 5.200.",
+    "Die drei Prompts: Mini und Hauptproblem höchstens 7.500 UTF-8-Bytes; MD und TXT byteidentisch; Hashes im Prüfprofil quality/evals/ki-native-kanzlei.json nach jeder Änderung aktualisieren (mini_review.sha256, workshop_review.sha256, focus_review.prompt_sha256 und skill_sha256).",
+    "Keine Skripte ändern, außer ein Test weist einen Fehler nach. Keine Testakten ändern. Keine Freigabe durch Maschinenbezeichnungen in Beispielen.",
+    "Pull Request nicht als Draft; nach grünen Prüfungen sofort per Squash auf main mergen (Repository-Regel)."
+  ],
+  "dateien": {
+    "skills": [
+      "ki-native-kanzlei/skills/abrechnung-e-rechnung/SKILL.md",
+      "ki-native-kanzlei/skills/akte-fristen-anlegen/SKILL.md",
+      "ki-native-kanzlei/skills/anwaltsberufsrecht-pruefen/SKILL.md",
+      "ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md",
+      "ki-native-kanzlei/skills/fristen-berechnen-ueberwachen/SKILL.md",
+      "ki-native-kanzlei/skills/geldwaesche-pruefen/SKILL.md",
+      "ki-native-kanzlei/skills/honorar-budget-vereinbaren/SKILL.md",
+      "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
+      "ki-native-kanzlei/skills/mandantenkommunikation/SKILL.md",
+      "ki-native-kanzlei/skills/mandat-abschliessen/SKILL.md",
+      "ki-native-kanzlei/skills/mandatsannahme-interessenkollision/SKILL.md",
+      "ki-native-kanzlei/skills/recht-recherchieren/SKILL.md",
+      "ki-native-kanzlei/skills/schriftsaetze-entwerfen/SKILL.md",
+      "ki-native-kanzlei/skills/vertraege-agb-pruefen/SKILL.md",
+      "ki-native-kanzlei/skills/vertraege-gestalten/SKILL.md",
+      "ki-native-kanzlei/skills/workflow-uebergabe/SKILL.md",
+      "ki-native-kanzlei/skills/zahlungen-buchhaltung/SKILL.md",
+      "ki-native-kanzlei/skills/zeiten-erfassen/SKILL.md"
+    ],
+    "prompts": [
+      "ki-native-kanzlei/ki-native-kanzlei-werkstatt.md",
+      "ki-native-kanzlei/ki-native-kanzlei-schnellstart.md",
+      "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md"
+    ],
+    "referenzen": [
+      "ki-native-kanzlei/references/arbeitsweise.md",
+      "ki-native-kanzlei/references/mandatslauf-und-freigaben.md",
+      "ki-native-kanzlei/references/mandatsordner-und-cli.md",
+      "ki-native-kanzlei/references/fristen-rechenhilfe.md",
+      "ki-native-kanzlei/references/rechtsquellen.md",
+      "ki-native-kanzlei/references/zitierweise.md"
+    ],
+    "skripte": [
+      "ki-native-kanzlei/scripts/mandatslauf.py",
+      "ki-native-kanzlei/scripts/kanzlei.py",
+      "ki-native-kanzlei/scripts/fristen.py",
+      "ki-native-kanzlei/scripts/xrechnung.py",
+      "ki-native-kanzlei/scripts/build_anlagenkonvolut.py"
+    ],
+    "pruefnachweise": [
+      "quality/ki-native-kanzlei/README.md",
+      "quality/ki-native-kanzlei/umfang.json",
+      "quality/ki-native-kanzlei/beruf-fristen-quellen.md",
+      "quality/ki-native-kanzlei/verguetung-vertraege-quellen.md",
+      "quality/ki-native-kanzlei/sacharbeit-workflow-quellen.md",
+      "quality/evals/ki-native-kanzlei.json"
+    ]
+  },
+  "agentische_schicht": {
+    "phasen": [
+      "eingang",
+      "annahme",
+      "akte",
+      "frist",
+      "sacharbeit",
+      "kommunikation",
+      "versandvorbereitung",
+      "abrechnung",
+      "zahlung",
+      "abschluss"
+    ],
+    "gates": {
+      "G1": "Annahme",
+      "G2": "Fristeintrag",
+      "G3": "Versand und Einreichung",
+      "G4": "Rechnungsausgabe",
+      "G5": "Zahlung und Fremdgeld",
+      "G6": "Dienstleister",
+      "G7": "Meldung",
+      "G8": "Abschluss und Löschung"
+    },
+    "freigabestufen": {
+      "0": "Nur Entwurf",
+      "1": "Interne Dateiarbeit",
+      "2": "Journal und Register",
+      "3": "Versandvorbereitung"
+    },
+    "uebergabeartefakte": [
+      "führende Fassung (Pfad und Hash)",
+      "Fristobjekt (erfasst, berechnet, eingetragen)",
+      "Honorarstand (Modell, Satz oder Betrag, Umfang, Deckel, netto oder brutto)",
+      "Zeitstand (bestätigte Minuten, offene Zeitfragen)",
+      "offene Gates",
+      "offene Fragen"
+    ],
+    "helfer": "python3 ki-native-kanzlei/scripts/mandatslauf.py --help (Unterbefehle init, phase, product, gate, question, status, next)"
+  },
+  "arbeitsauftraege": [
+    {
+      "nr": 1,
+      "titel": "Volltextverifikation der markierten Normaussagen",
+      "beschreibung": "Öffne jede im Qualitätsbericht Abschnitt 7 und in den Skills mit 'am Volltext zu prüfen' markierte Stelle am amtlichen Text. Bestätige, berichtige oder streiche. Entferne den Marker nur nach tatsächlicher Lektüre. Lege je Skill eine Liste der geprüften URLs mit Datum an und trage sie in den passenden Quellenbericht unter quality/ki-native-kanzlei/ ein.",
+      "schwerpunkte": [
+        "§ 511 Abs. 2 und § 544 ZPO Wertgrenzen und Übergangsregel 2026",
+        "§ 147 AO und § 14b UStG Aufbewahrungsfristen nach dem Vierten Bürokratieentlastungsgesetz",
+        "§ 19 UStG Grenzen, § 13 RVG Mindestgebühr, VV RVG Nr. 7000 bis 7008",
+        "§ 4 BORA Anderkonto und Einbehalt, § 3 BORA Absatzzuordnung, § 2 Abs. 2 und § 11 BORA Wortlaut",
+        "§§ 44, 45, 52, 53, 56 BRAO Wortlaut und Absatzzuordnung",
+        "§ 10 Abs. 3 GwG Schwelle, § 56 GwG Absatzstruktur, GwGMeldV-Paragrafen",
+        "§ 308 Nr. 1a und 1b, § 309 Nr. 9, § 202, §§ 474 und 476 BGB Werte",
+        "§ 203 Abs. 3 und 4 StGB, Art. 44 ff. DSGVO, § 31 BVerfGG Reichweite",
+        "§§ 131, 133, 130a Abs. 5 und 6, 130d ZPO Satzzuordnung, § 5 ERVV",
+        "§ 41 Abs. 2 VwVfG und § 122 Abs. 2 AO Wortlaut vierter Tag"
+      ]
+    },
+    {
+      "nr": 2,
+      "titel": "Widerspruchsfreiheit zwischen den Skills",
+      "beschreibung": "Die Zuordnung Skill zu Phase und Gate steht bereits in ki-native-kanzlei/references/mandatslauf-und-freigaben.md Abschnitt 1.9. Vergleiche zusätzlich alle achtzehn Unterabschnitte 'Übergabe an Nachbarskills' paarweise: Was Skill A als Übergabe beschreibt, muss Skill B als Eingang erwarten; Produktkennungen (etwa auftrag, annahme, fristenliste, rechenvermerk-<id>, klage, versandpaket, rechnung, rechnung-xml, zeitstand, abschlussbrief, aufbewahrungsvermerk) sollen einheitlich und dokumentiert sein. Ergänze die Matrix um eine Spalte Produktkennung und eine Tabelle Übergabe Skill A an Skill B mit Produkt und Rückgabe."
+    },
+    {
+      "nr": 3,
+      "titel": "Sprachliche Glättung ohne Substanzverlust",
+      "beschreibung": "Entferne Dubletten, Füllsätze und Wiederholungen zwischen den Abschnitten 1, 3 und 5 jedes Skills. Vereinheitliche Zitierweise nach ki-native-kanzlei/references/zitierweise.md. Prüfe Wochentage aller Beispieldaten mit Python. Behalte den Wortkorridor ein."
+    },
+    {
+      "nr": 4,
+      "titel": "Beispiele auf Durchlauf prüfen",
+      "beschreibung": "Nimm die drei Beispiele Versäumnisurteil Berlin, Partnerausscheiden Cloud und Stundenhonorar-Reichweite aus quality/evals/ki-native-kanzlei.json und spiele sie als Mandatslauf auf Freigabestufe 2 mit mandatslauf.py in einem Scratch-Ordner durch. Dokumentiere, an welchem Gate der Lauf stehen bleibt und ob die Skills die nötigen Produkte benennen. Ergänze fehlende Übergaben in den Skills."
+    },
+    {
+      "nr": 5,
+      "titel": "Prompts",
+      "beschreibung": "Prüfe Werkstatt-Kapitel 29 und Mini-Abschnitt 7 gegen die Referenz Mandatslauf; der Hauptproblem-Prompt erhält einen Satz zum Mandatslauf nur, wenn die 7.500-Byte-Grenze es zulässt. Prompt-Hashes im Prüfprofil nachziehen."
+    },
+    {
+      "nr": 6,
+      "titel": "Lesefassungen und Release",
+      "beschreibung": "PDFs mit Times New Roman neu setzen (scripts/build-ki-native-kanzlei-handbuch.py, Standardschrift), umfang.json übernehmen, Komponentenrelease ki-native-kanzlei-v445.33.6 mit Plugin-ZIP, portablem ZIP, Handbuch-PDF, Einzel-PDF-ZIP und checksums-sha256.txt veröffentlichen."
+    }
+  ],
+  "pruefbefehle": [
+    "python3 scripts/test-ki-native-kanzlei-source.py",
+    "python3 scripts/test-ki-native-kanzlei-lauf.py",
+    "python3 scripts/test-ki-native-kanzlei-fristen.py",
+    "python3 scripts/test-si-native-kanzlei.py",
+    "python3 scripts/test-si-native-kanzlei-exporte.py",
+    "python3 scripts/audit-skill-activation.py",
+    "python3 scripts/validate-yaml-frontmatter.py",
+    "node scripts/validate-plugin-structure.mjs",
+    "python3 scripts/test-marketplace-import.py",
+    "python3 scripts/validate-markdown-structure.py",
+    "python3 scripts/quality-lab.py audit",
+    "python3 scripts/build-ki-native-kanzlei-handbuch.py --out /tmp/kk/pdf",
+    "python3 scripts/build-ki-native-kanzlei-release.py --dist /tmp/kk/dist --pdf-dir /tmp/kk/pdf",
+    "python3 scripts/test-ki-native-kanzlei-pakete.py /tmp/kk/dist"
+  ],
+  "abnahmekriterien": [
+    "Kein Skill enthält mehr eine Normaussage mit Zahlenwert, die nicht am amtlichen Volltext gelesen wurde; die Marker 'am Volltext zu prüfen' sind aufgelöst oder die Aussage ist gestrichen.",
+    "Alle Übergaben zwischen Skills sind paarweise konsistent; die Matrix in der Mandatslauf-Referenz ist vollständig.",
+    "Alle Prüfbefehle laufen grün; der PDF-Build hat keine fehlenden Glyphen und alle Seiten liegen innerhalb der Seite.",
+    "Die drei Probeläufe aus Auftrag 4 enden an einem offenen Gate mit benannter Person und benennen das nächste Produkt.",
+    "Kein Beispiel lässt eine Maschine ein Gate freigeben; keine Fristangabe in einem Mandantenbrief ohne Fristobjekt mit Status eingetragen oder ausdrücklichen Vorläufigkeitsvermerk.",
+    "Die Komponentenfassung ist in Manifesten, Marketplace, Tests, README, Indizes und Changelog identisch."
+  ],
+  "bekannte_grenzen": [
+    "In der Umgebung der Runden 1 und 2 waren gesetze-im-internet.de, EUR-Lex, BRAK und alle Gerichtsseiten durch die Netzwerkrichtlinie gesperrt; Normwerte wurden nur über Suchtreffer plausibilisiert und markiert.",
+    "Die Lesefassungen 445.33.5 und 445.33.6 wurden mit Liberation Serif gesetzt; Times New Roman war nicht installiert.",
+    "Die Release-Assets für ki-native-kanzlei-v445.33.5 und v445.33.6 sind noch nicht hochgeladen; die Download-Links im README zeigen auf das noch zu erzeugende Release.",
+    "Die zwei Modell-Probeläufe im Qualitätsbericht stammen aus der Vorfassung 445.33.4 und wurden nicht wiederholt.",
+    "§ 356 Abs. 5 BGB ist laut Prüfprofil am 07.10.2026 am amtlichen Text geprüft; die Absatznummer der Zwölfmonats-Höchstfrist in § 356 BGB ist nicht verifiziert.",
+    "Der Helfer mandatslauf.py ordnet jedes Gate einem festen Skill zu; öffnet ein anderer Skill ein Gate (zum Beispiel G3 durch mandantenkommunikation), verweist next auf den festen Skill. Prüfen, ob eine Zuordnung je geöffnetem Gate sinnvoller ist; nur mit Tests ändern."
+  ],
+  "ausgabeformat_der_runde": "Pro Skill ein Abschlussbericht mit Wortzahl vorher und nachher, geprüften URLs mit Datum, Korrekturen, Selbsttest; danach ein Gesamtbericht in quality/ki-native-kanzlei/README.md als neuer Abschnitt 8 'Glättungsrunde Codex' mit Datum, Prüfbefehlen und Ergebnis."
+}

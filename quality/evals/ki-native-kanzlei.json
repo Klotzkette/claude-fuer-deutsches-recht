@@ -515,9 +515,10 @@
     "changes": [
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
-      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen."
+      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen.",
+      "Abschnitt 7 Mandatslauf und Freigabestufen: Phasen, führende Fassung mit Hash, Gates G1 bis G8 nur durch benannte Person freigegeben, Stufen 0 bis 3."
     ],
-    "sha256": "44bae727866f5b8bca941c57736597a72d9084c7e4aed144f2f97033c013c943"
+    "sha256": "8f1831058432bcb774a365a73198d31aa0d8ed702f6a603098553cd05a4baa3e"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -525,9 +526,10 @@
     "changes": [
       "Ereignis- und Anfangsfristen, Sonderregeln, Feiertagsort, Rechenvermerk und tatsächliche Überwachung getrennt.",
       "Berufsrecht an konkreter Handlung, Rolle und Rechtsfolge prüfen; keine pauschale Freigabe durch AVV oder Zustimmung.",
-      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen."
+      "Mandatsprodukt und unabhängige interne Arbeit fortsetzen; nur entscheidende offene Angaben erfragen.",
+      "Kapitel 29 Mandatslauf, Freigabestufen und agentische Arbeit mit Beispiel Versäumnisurteil auf Stufe 2."
     ],
-    "sha256": "ccba1e4c91d3fa6bfc0000a6506994161c57a895afe47330c2cccf9866dfcd16"
+    "sha256": "814ddcaa10cd466b67d9c900190938041c56df9cbb300d230ebee14d2bd6b5a1"
   },
   "focus_review": {
     "method": "desk_review",
@@ -541,7 +543,7 @@
     "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
     "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
     "prompt_sha256": "0d523627b184222b8dbd95a3a5b1c49b02499d55aeb157e7c529158e5e3dbf62",
-    "skill_sha256": "d98fd55c503e1ca4c112957b42e915b9446b863449e348da8e88f3fd66888f70"
+    "skill_sha256": "1124317afafda0f95aa4cb4b87e305674f4ea43ac455bf3a3ddfe774713e52a2"
   },
   "prompt_editorial_review": {
     "date": "2026-10-07",

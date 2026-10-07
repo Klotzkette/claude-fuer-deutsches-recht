@@ -11,13 +11,13 @@ description: "Verwenden, wenn Zahlungseingänge, Vorschüsse, Drittzahlungen, Ko
 
 Dieser Skill verarbeitet konkrete Zahlungsbelege und erstellt daraus einen nachvollziehbaren Zuordnungs- und Buchungsvorschlag. Er unterscheidet Geldbewegung, Forderung, wirtschaftliche Berechtigung, steuerlichen Tatbestand und buchhalterische Erfassung. Ein Zahlungseingang auf einem Kanzleikonto ist nicht automatisch Honorar, und eine Rechnung ist nicht bezahlt, weil ein gleich hoher Betrag eingeht. Eine Zahlung der Gegenseite kann Hauptforderung, Zinsen, Kosten oder einen Vergleichsbetrag betreffen und wird entsprechend aufgeschlüsselt.
 
-Das Verfahren beginnt beim Beleg und endet mit einem prüfbaren Vorschlag, einer abgeschlossenen Klärung oder einer im Auftrag tatsächlich ausgeführten Buchung. Das lokale Mandatsjournal ist kein Hauptbuch; es dokumentiert Zahlungen gesondert und verrechnet sie nicht mit Honorar. Der Skill behauptet keine produktive Verbuchung, wenn nur eine Zahlungsnotiz oder eine Exportdatei angelegt wurde.
+Das Verfahren beginnt beim Beleg und endet mit einem prüfbaren Vorschlag, einer abgeschlossenen Klärung oder einer im Auftrag tatsächlich ausgeführten Buchung. Das lokale Mandatsjournal ist kein Hauptbuch; es dokumentiert Zahlungen gesondert und verrechnet sie nicht mit Honorar.
 
 ### 1.2. Fremdgeld hat einen eigenständigen Schutzstatus
 
-Fremde Gelder werden unverzüglich an den Empfangsberechtigten weitergeleitet oder auf ein Anderkonto eingezahlt; maßgeblich ist zum dokumentierten Rechtsstand [§ 43a Absatz 7 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html), konkretisiert durch § 4 BORA. Die alte Absatznummer aus historischen Entscheidungen wird nicht in aktuelle Handlungsempfehlungen übernommen. Eine steuerliche Einordnung als durchlaufender Posten erlaubt keine berufsrechtlich unzulässige Vermischung. Umgekehrt beantwortet ein berufsrechtlicher Fehler nicht jede steuerliche Frage.
+Fremde Gelder werden unverzüglich an den Empfangsberechtigten weitergeleitet oder auf ein Anderkonto eingezahlt; maßgeblich ist zum dokumentierten Rechtsstand [§ 43a Absatz 7 BRAO](https://www.gesetze-im-internet.de/brao/__43a.html), konkretisiert durch § 4 BORA. Die alte Absatznummer aus historischen Entscheidungen wird nicht in aktuelle Handlungsempfehlungen übernommen.
 
-Eine Verrechnung von Honorar mit einem Herausgabeanspruch auf Fremdgeld ist keine Routinefunktion, sondern braucht eine gesonderte zivilrechtliche, berufsrechtliche und gegebenenfalls insolvenzrechtliche Prüfung von Zweckbindung, Drittberechtigung, Aufrechnungslage, Verboten und Erklärung. Eine offene Rechnung verschafft der Kanzlei keine Verfügungsbefugnis über sämtliche für den Mandanten eingehenden Beträge.
+Eine Verrechnung von Honorar mit einem Herausgabeanspruch auf Fremdgeld ist keine Routinefunktion, sondern braucht eine gesonderte zivilrechtliche, berufsrechtliche und gegebenenfalls insolvenzrechtliche Prüfung von Zweckbindung, Drittberechtigung, Aufrechnungslage, Verboten und Erklärung.
 
 ### 1.3. Auslöser, Abgrenzung und Nachbarskills
 
@@ -35,9 +35,9 @@ Benötigt werden Konto, Buchungsdatum, Wertstellung, Betrag, Währung, Zahlender
 
 Prüfe, ob derselbe Umsatz bereits erfasst wurde; eine identische Summe an zwei Tagen kann zwei Zahlungen oder eine Korrekturbuchung betreffen. Ein Zahlungsdienstleister kann Gebühren einbehalten, sodass der Geldeingang von der Tilgungsleistung abweicht; die Differenz wird anhand der Abrechnung geklärt, nicht als Honorarreduzierung behandelt.
 
-### 2.2. Bestehende Honorargrundlage und Rechnungsstand
+### 2.2. Honorarstand und Rechnungsbezug
 
-Halte bei jedem wesentlichen Schritt den bekannten Vergütungsstand knapp vor: „Die Rechnung R-2026-41 beruht auf dem bestätigten Festpreis von 1.800 Euro netto. Der Zahlungseingang beträgt 2.142 Euro und trägt diese Rechnungsnummer.“ Sind Grundlage, Rechnung und Betrag eindeutig, wird nicht erneut nach dem Vergütungsmodell gefragt; fehlt eine Zuordnung, kläre nur die konkrete Lücke.
+Halte bei jedem wesentlichen Schritt den gespeicherten Honorarstand (Modell, Satz/Betrag, Umfang, Deckel, netto/brutto) knapp vor: „Die Rechnung R-2026-41 beruht auf dem bestätigten Festpreis von 1.800 Euro netto. Der Zahlungseingang beträgt 2.142 Euro und trägt diese Rechnungsnummer.“ Sind Honorarstand, Rechnung und Betrag eindeutig, wird nicht erneut nach dem Vergütungsmodell gefragt; fehlt eine Zuordnung, kläre nur die konkrete Lücke.
 
 Ist die Vergütungsbasis selbst ungeklärt, frage nach RVG, Zeithonorar, Festpreis, verbindlichem Fee Quote oder Schätzung mit oder ohne Deckel sowie Netto- oder Bruttobezug. Eine Zahlung wird nicht als Zustimmung zu einer unklaren Honorarvereinbarung behandelt. Die Zuordnung bereits belegter Zahlungen kann unabhängig davon vorbereitet werden.
 
@@ -45,7 +45,7 @@ Ist die Vergütungsbasis selbst ungeklärt, frage nach RVG, Zeithonorar, Festpre
 
 Kläre Gewinnermittlungsart, Umsatzsteuerverfahren, Kontenrahmen, Buchungsperiode und zuständige Buchhaltung. Einnahmenüberschussrechnung und Bilanzierung, Soll- und Istbesteuerung folgen unterschiedlichen zeitlichen Regeln; die Bezeichnung einer Zahlung als „Vorschuss“ beantwortet diese Fragen nicht.
 
-Der Skill benötigt nur die für den Vorgang erforderlichen Daten; vollständige Bankumsätze aller Mandanten werden nicht ohne Anlass an externe Werkzeuge übertragen. Prüfe Geheimniszugang und Datenschutzrolle des Buchhaltungsdienstleisters nach § 43e BRAO und Artikel 28 DSGVO getrennt; ein Auftragsverarbeitungsvertrag ersetzt nicht jede berufsrechtliche Voraussetzung. Exporte werden auf den erforderlichen Umfang begrenzt.
+Der Skill benötigt nur die für den Vorgang erforderlichen Daten; vollständige Bankumsätze aller Mandanten werden nicht ohne Anlass an externe Werkzeuge übertragen. Prüfe Geheimniszugang und Datenschutzrolle des Buchhaltungsdienstleisters nach § 43e BRAO und Artikel 28 DSGVO getrennt; ein Auftragsverarbeitungsvertrag ersetzt nicht jede berufsrechtliche Voraussetzung.
 
 ### 2.4. Entscheidende Angaben im Überblick
 
@@ -76,13 +76,13 @@ Ohne Antwort auf die erste Frage wird nur die Ankündigung dokumentiert. Ohne An
 
 Stelle zuerst fest, ob der Eingang gebucht oder nur angekündigt ist. Dann prüfe, für wen der Betrag wirtschaftlich bestimmt ist: für den Mandanten oder einen Dritten (Fremdgeldroute), zur Begleichung einer Kanzleiforderung (Rechnung und Tilgungsbestimmung) oder für künftige Leistungen (Vorschussroute). Bleibt der Zweck unklar, wird der Betrag separiert und eine gezielte Klärung vorbereitet.
 
-Im zweiten Schritt wird die Höhe abgeglichen: Vollzahlung, Teilzahlung, Überzahlung, Doppelzahlung und Sammelzahlung. Im dritten Schritt wird die steuerliche Behandlung anhand des Rechtsgrunds bestimmt. Erst danach entsteht ein Buchungsvorschlag, damit eine zufällig passende Summe die rechtliche Einordnung nicht ersetzt. Eine vorläufige Zuordnung wird als vorläufig bezeichnet.
+Im zweiten Schritt wird die Höhe abgeglichen: Vollzahlung, Teilzahlung, Überzahlung, Doppelzahlung und Sammelzahlung. Im dritten Schritt wird die steuerliche Behandlung anhand des Rechtsgrunds bestimmt. Erst danach entsteht ein Buchungsvorschlag, damit eine zufällig passende Summe die rechtliche Einordnung nicht ersetzt.
 
 ### 3.2. Tilgungsbestimmung und mehrere Forderungen
 
 Erfüllung tritt nach § 362 Absatz 1 BGB ein, wenn die geschuldete Leistung an den Gläubiger bewirkt wird. Hat der Schuldner bei mehreren Forderungen bestimmt, auf welche Schuld er leistet, ist diese Bestimmung nach § 366 Absatz 1 BGB maßgeblich. Fehlt sie, gilt die gesetzliche Reihenfolge des § 366 Absatz 2 BGB: zunächst die fällige Schuld, unter mehreren fälligen die mit geringerer Sicherheit, unter gleich sicheren die dem Schuldner lästigere, unter gleich lästigen die ältere und bei gleichem Alter jede verhältnismäßig. Innerhalb einer Schuld verteilt § 367 Absatz 1 BGB eine nicht ausreichende Zahlung zunächst auf Kosten, dann auf Zinsen und zuletzt auf die Hauptleistung; eine abweichende Bestimmung des Schuldners kann der Gläubiger nach § 367 Absatz 2 BGB ablehnen. Der Buchungsvorschlag nennt die angewandte Reihenfolge und ihre Tatsachengrundlage.
 
-Ein Verwendungszweck „Rechnung 41“ ist ein stärkerer Zuordnungshinweis als die Übereinstimmung mit einer offenen Gesamtsumme. Bei einer Sammelzahlung mit mehreren Rechnungsnummern wird die Aufteilung anhand der Zahlungsavisdatei nachvollzogen; fehlt sie, wird nicht automatisch die älteste Forderung als getilgt markiert, wenn gegenläufige Angaben vorliegen. Prüfe zudem, ob Zinsen und Kosten tatsächlich geschuldet sind; eine unberechtigte Mahngebühr wird nicht dadurch berechtigt, dass sie im offenen Posten steht. Bei einem Vergleich ist dessen Wortlaut vor jeder Standardzuordnung zu lesen.
+Ein Verwendungszweck „Rechnung 41“ ist ein stärkerer Zuordnungshinweis als die Übereinstimmung mit einer offenen Gesamtsumme. Bei einer Sammelzahlung mit mehreren Rechnungsnummern wird die Aufteilung anhand der Zahlungsavisdatei nachvollzogen; fehlt sie, wird nicht automatisch die älteste Forderung als getilgt markiert, wenn gegenläufige Angaben vorliegen. Prüfe zudem, ob Zinsen und Kosten tatsächlich geschuldet sind; eine unberechtigte Mahngebühr wird nicht dadurch berechtigt, dass sie im offenen Posten steht.
 
 ### 3.3. Drittzahlungen und Rechtsschutzversicherung
 
@@ -106,11 +106,11 @@ Ist das Mandat beendet, wird ein nicht verbrauchter Vorschuss abgerechnet und zu
 
 ### 3.6. Fremdgeld erkennen, auf das Anderkonto nehmen und unverzüglich weiterleiten
 
-Typische Fremdgeldindikatoren sind Zahlungen auf die Hauptforderung des Mandanten, Vergleichssummen, Kostenerstattungen der Gegenseite, treuhänderische Einbehalte oder für Dritte bestimmte Beträge; prüfe neben dem Verwendungszweck Auftrag und Rechtsgrund. Steht der Empfangsberechtigte fest, wird die unverzügliche Weiterleitung vorbereitet. Ist eine Auszahlung noch nicht möglich, verlangt § 4 BORA die Einzahlung auf ein Anderkonto; ob und ab welcher Höhe ein gesondertes Anderkonto je Mandat statt eines Sammelanderkontos erforderlich ist, ist am Wortlaut der BORA zu prüfen. Eine ungeklärte Bankverbindung rechtfertigt keine betriebliche Nutzung des Geldes.
+Typische Fremdgeldindikatoren sind Zahlungen auf die Hauptforderung des Mandanten, Vergleichssummen, Kostenerstattungen der Gegenseite, treuhänderische Einbehalte oder für Dritte bestimmte Beträge; prüfe neben dem Verwendungszweck Auftrag und Rechtsgrund. Steht der Empfangsberechtigte fest, wird die unverzügliche Weiterleitung vorbereitet. Ist eine Auszahlung noch nicht möglich, verlangen § 43a Absatz 7 BRAO und § 4 BORA die Einzahlung auf ein Anderkonto; ob und ab welcher Höhe ein gesondertes Anderkonto je Mandat statt eines Sammelanderkontos erforderlich ist, ist am Wortlaut der BORA zu prüfen. Eine ungeklärte Bankverbindung rechtfertigt keine betriebliche Nutzung des Geldes.
 
 Dokumentiere Eingang, Berechtigten, Zweck, Verwahrort, geplante Weiterleitung und erfolgte Verfügung. Bei streitiger Berechtigung wird die verantwortliche anwaltliche Person eingeschaltet; eine Treuhandbedingung wird nicht durch den Auszahlungswunsch einer Partei übergangen. Eine Gegenforderung der Kanzlei ist kein Grund, sämtliche Beträge einzubehalten; § 4 BORA erlaubt einen Einbehalt zur Deckung eigener Vergütungsforderungen nur in engen, am Volltext zu prüfenden Grenzen, etwa bei Zusammenhang mit demselben Mandat, Fälligkeit und vorheriger Mitteilung an den Mandanten.
 
-Die steuerliche Einordnung als durchlaufender Posten nach § 10 Absatz 1 UStG setzt das Handeln im Namen und für Rechnung eines anderen voraus und wird eigenständig geprüft. Eine Zahlung auf dem Geschäftskonto kann berufsrechtlich problematisch sein, ohne ihren wirtschaftlichen Zweck zu verlieren: Steuerliche Neutralität legalisiert keine Veruntreuung, und ein Berufsrechtsverstoß ersetzt keine steuerliche Subsumtion.
+Die steuerliche Einordnung als durchlaufender Posten nach § 10 Absatz 1 UStG setzt das Handeln im Namen und für Rechnung eines anderen voraus und wird eigenständig geprüft. Eine Zahlung auf dem Geschäftskonto kann berufsrechtlich problematisch sein, ohne ihren wirtschaftlichen Zweck zu verlieren: Die steuerliche Einordnung als durchlaufender Posten erlaubt keine berufsrechtlich unzulässige Vermischung, und ein Berufsrechtsverstoß ersetzt keine steuerliche Subsumtion.
 
 ### 3.7. Aufrechnung und Verrechnung nur nach gesonderter Prüfung
 
@@ -154,7 +154,7 @@ Die GoBD in der amtlichen Fassung 2026 verlangen Nachvollziehbarkeit, Vollständ
 
 Ein Buchungsvorschlag enthält Beleg-ID, Transaktionsreferenz, Datum, Betrag, Währung, Mandat, Rechtsgrund, steuerliche Einordnung, vorgesehenes Konto und Gegenkonto sowie offene Prüfungen. Kontonummern stammen aus dem tatsächlich verwendeten Kontenrahmen; der Skill erfindet keine vermeintlich universellen DATEV-Konten. Debitor, Erlöskonto, Umsatzsteuer, Anderkonto und Fremdgeldverbindlichkeit sind unterschiedliche Kategorien, deren technische Umsetzung vom System abhängt.
 
-Bei Einnahmenüberschussrechnung nach § 4 Absatz 3 EStG wird der Zufluss nach § 11 EStG geprüft; die Regel für regelmäßig wiederkehrende Einnahmen kurz vor oder nach dem Jahreswechsel ist am Volltext zu prüfen. Bei Bilanzierung ist zusätzlich die Forderungsebene maßgeblich. Ein Export an die Steuerberatung enthält die Einordnung und die verbleibende Unsicherheit ausdrücklich. Ein Import in ein Produktivsystem erfolgt nur innerhalb des Auftrags; sein Erfolg wird anhand tatsächlicher Rückmeldung kontrolliert, eine lokal erzeugte CSV-Datei ist kein Import. Fehler werden durch Korrekturbuchung behoben, nicht durch Überschreiben festgeschriebener Datensätze.
+Bei Einnahmenüberschussrechnung nach § 4 Absatz 3 EStG wird der Zufluss nach § 11 EStG geprüft; die Regel für regelmäßig wiederkehrende Einnahmen kurz vor oder nach dem Jahreswechsel ist am Volltext zu prüfen. Bei Bilanzierung ist zusätzlich die Forderungsebene maßgeblich. Ein Export an die Steuerberatung enthält die Einordnung und die verbleibende Unsicherheit ausdrücklich. Ein Import in ein Produktivsystem erfolgt nur innerhalb des Auftrags; sein Erfolg wird anhand tatsächlicher Rückmeldung kontrolliert, eine lokal erzeugte CSV-Datei ist kein Import.
 
 ### 3.14. Lokales Mandatsjournal richtig verwenden
 
@@ -188,9 +188,35 @@ Prüfe jeden wesentlichen Schluss gegen die stärkste naheliegende Gegenposition
 
 ### 3.19. Honorar- und Zeitanschluss
 
-Nach [Arbeitsweise](../../references/arbeitsweise.md) wird die gespeicherte Honorargrundlage vor jeder Verrechnung kurz vorgehalten: „Gespeichert: Zeithonorar 240 Euro netto je Stunde, Deckel 1.200 Euro netto nur Gebühren. Gilt das unverändert?“ Für die Zahlungsklärung frage nach tatsächlichen Minuten, Datum, Person und Abrechenbarkeit und übergib bestätigte Werte an [Zeiten erfassen](../zeiten-erfassen/SKILL.md). Reine Buchhaltungsarbeit wird nur berechnet, wenn die Vereinbarung das deckt; fehlende Zeit bleibt offen, nicht null.
+Nach [Arbeitsweise](../../references/arbeitsweise.md) wird der gespeicherte Honorarstand vor jeder Verrechnung kurz vorgehalten: „Gespeichert: Zeithonorar 240 Euro netto je Stunde, Deckel 1.200 Euro netto nur Gebühren. Gilt das unverändert?“ Für die Zahlungsklärung frage nach tatsächlichen Minuten, Datum, Person und Abrechenbarkeit und übergib den Zeitstand (bestätigte Minuten, offene Zeitfragen) an [Zeiten erfassen](../zeiten-erfassen/SKILL.md). Reine Buchhaltungsarbeit wird nur berechnet, wenn die Vereinbarung das deckt; fehlende Zeit bleibt offen, nicht null.
 
-### 3.20. Typische Fehler und Gegenkontrolle
+### 3.20. Agentischer Lauf und Freigabestufe
+
+Dieser Skill verantwortet die Phase `zahlung` des Mandatslaufs nach [Mandatslauf und Freigaben](../../references/mandatslauf-und-freigaben.md). Die Phase endet mit der Zahlungsklärung und dem Buchungsvorschlag als führender Fassung. Trifft ein Zahlungsbeleg während laufender Sacharbeit ein, wird `zahlung` mit `--nebenlauf` neben die Hauptphase gesetzt; die Sacharbeit läuft weiter. Je Freigabestufe gilt:
+
+| Stufe | Ohne Rückfrage |
+|---|---|
+| 0 | Beleg lesen; Zuordnungsvermerk, Buchungsvorschlag und Klärungsbrief nur als Text liefern |
+| 1 | Vermerk und Buchungsvorschlag unter `01_Bearbeitung` anlegen; Kontoauszug unverändert kopieren; Dokumentregister führen |
+| 2 | Belegte Eingänge mit `kanzlei.py payment` und `confirmed=true` buchen; Ankündigungen mit `confirmed=false`; Fremdgeldaufstellung und Mandatslauf fortschreiben |
+| 3 | Übergabevermerk mit Hash und Buchhaltungsexport als Datei erzeugen; Nachbarskills anstoßen |
+
+Auf keiner Stufe erteilt der Skill eine Zahlungsanweisung, führt eine Überweisung, Rückzahlung oder Weiterleitung aus, erklärt eine Aufrechnung, bucht im Produktivsystem der Finanzbuchhaltung oder kennzeichnet eine Rechnung als bezahlt, bevor das Buchhaltungssystem dies zurückgemeldet hat.
+
+Für jede Auszahlung, Verrechnung oder Weiterleitung öffnet der Skill das Gate G5 Zahlung und Fremdgeld und legt dafür den Buchungsvorschlag mit Beleg-ID, Berechtigtem, Betrag und auf zweitem Weg bestätigter Bankverbindung bereit. Freigegeben wird G5 von einem Berufsträger, bei Fremdgeld von der mandatsverantwortlichen Anwältin oder dem Anwalt. Nach der Freigabe trägt der Skill den Ausführungsbeleg der Bank mit Datum und bei einer Verrechnung die Aufrechnungserklärung mit Zugangsdatum nach; erst dann lautet der Status „ausgezahlt“ oder „verrechnet“. Eine bestätigte Honorarzahlung ohne Auszahlung öffnet kein Gate. Barzahlungen und Zahlungen Unbeteiligter gehen an [Geldwäsche prüfen](../geldwaesche-pruefen/SKILL.md), das über G7 Meldung entscheidet; dieser Skill öffnet G7 nicht selbst.
+
+Im Produktregister trägt der Skill die Zahlungsklärung oder den Buchungsvorschlag mit dem Zustand `entwurf` ein und setzt ihn nach der Gegenkontrolle nach 3.21 auf `geprueft`; `freigegeben` folgt erst aus der namentlichen Freigabe von G5. Bestätigte Vorschüsse gehen anschließend ohne Rückfrage als Liste an [Abrechnung und E-Rechnung](../abrechnung-e-rechnung/SKILL.md). Der Lauf wird mit [`mandatslauf.py`](../../scripts/mandatslauf.py) dokumentiert:
+
+```bash
+python3 "<Pluginordner>/scripts/mandatslauf.py" phase --akte "/Mandate/M-2026-014" --phase zahlung --grund "Vergleichssumme eingegangen" --nebenlauf
+python3 "<Pluginordner>/scripts/mandatslauf.py" product --akte "/Mandate/M-2026-014" --id buchungsvorschlag-B-2026-0898 --pfad "01_Bearbeitung/Buchungsvorschlag_B-2026-0898.md" --skill zahlungen-buchhaltung --zustand geprueft
+python3 "<Pluginordner>/scripts/mandatslauf.py" gate --akte "/Mandate/M-2026-014" --gate G5 --aktion oeffnen --bezug "Buchungsvorschlag_B-2026-0898.md"
+python3 "<Pluginordner>/scripts/mandatslauf.py" next --akte "/Mandate/M-2026-014"
+```
+
+Stoppregel: Ist der wirtschaftlich Berechtigte eines Eingangs streitig oder wird eine Verrechnung ohne dokumentierte Aufrechnungslage verlangt, separiert der Skill den Betrag, öffnet G5 und arbeitet an diesem Vorgang nicht weiter, bis ein Berufsträger entschieden hat.
+
+### 3.21. Typische Fehler und Gegenkontrolle
 
 | Fehler | Woran erkennbar | Gegenkontrolle |
 |---|---|---|
@@ -207,9 +233,11 @@ Nach [Arbeitsweise](../../references/arbeitsweise.md) wird die gespeicherte Hono
 | Verrechnung trotz Insolvenzanzeichen | Zahlung in den drei Monaten vor Antrag | § 96 und § 130 InsO als Risiko benennen; stoppen |
 | Produktive Buchung behauptet | „gebucht“ ohne Systemrückmeldung | Status „vorgeschlagen“ bis Rückmeldung vorliegt |
 
-### 3.21. Übergabe an Nachbarskills
+### 3.22. Übergabe an Nachbarskills
 
-An [Abrechnung und E-Rechnung](../abrechnung-e-rechnung/SKILL.md) geht die Liste der bestätigten Vorschüsse mit Datum, Bruttobetrag und Steueranteil für den Ausweis nach § 10 Absatz 2 RVG; zurück kommt die Rechnung mit Nummer und Fälligkeit. An [Honorar und Budget vereinbaren](../honorar-budget-vereinbaren/SKILL.md) geht die Feststellung, dass ein Eingang auf eine ungeklärte Vergütungsbasis trifft; zurück kommt die bestätigte Grundlage. An [Mandat abschließen](../mandat-abschliessen/SKILL.md) gehen Fremdgeldaufstellung je Berechtigtem, Vorschussabrechnung und Aufbewahrungsbeginn; zurück kommt die Freigabe der Schlussauszahlung. An [Anwaltsberufsrecht prüfen](../anwaltsberufsrecht-pruefen/SKILL.md) geht ein beabsichtigter Einbehalt mit Betrag, Anspruchsgrundlage und Mandatsbezug; zurück kommt die berufsrechtliche Bewertung. An [Geldwäsche prüfen](../geldwaesche-pruefen/SKILL.md) gehen Barzahlung oder Zahlung unbeteiligter Dritter mit Beleg; zurück kommt der Prüfvermerk. An [Workflow und Übergabe](../workflow-uebergabe/SKILL.md) geht der Monatsabgleich mit offenen Punkten, verantwortlicher Person und Klärungsfrist.
+Jede Übergabe nennt die führende Fassung (Pfad und Hash), den Honorarstand (Modell, Satz/Betrag, Umfang, Deckel, netto/brutto), den Zeitstand (bestätigte Minuten, offene Zeitfragen), die offenen Gates und die offenen Fragen. Ein Fristobjekt entsteht in diesem Skill nur ausnahmsweise, etwa eine zugesagte Rückzahlungs- oder Weiterleitungsfrist; es geht erfasst an [Fristen berechnen und überwachen](../fristen-berechnen-ueberwachen/SKILL.md) und kommt berechnet zurück, eingetragen wird es erst nach G2.
+
+An [Abrechnung und E-Rechnung](../abrechnung-e-rechnung/SKILL.md) geht die Liste der bestätigten Vorschüsse mit Datum, Bruttobetrag und Steueranteil für den Ausweis nach § 10 Absatz 2 RVG; zurück kommt die Rechnung mit Nummer und Fälligkeit. An [Honorar und Budget vereinbaren](../honorar-budget-vereinbaren/SKILL.md) geht die Feststellung, dass ein Eingang auf eine ungeklärte Vergütungsbasis trifft; zurück kommt der bestätigte Honorarstand. An [Mandat abschließen](../mandat-abschliessen/SKILL.md) gehen Fremdgeldaufstellung je Berechtigtem, Vorschussabrechnung und Aufbewahrungsbeginn; zurück kommt die Freigabe der Schlussauszahlung. An [Anwaltsberufsrecht prüfen](../anwaltsberufsrecht-pruefen/SKILL.md) geht ein beabsichtigter Einbehalt mit Betrag, Anspruchsgrundlage und Mandatsbezug; zurück kommt die berufsrechtliche Bewertung. An [Geldwäsche prüfen](../geldwaesche-pruefen/SKILL.md) gehen Barzahlung oder Zahlung unbeteiligter Dritter mit Beleg; zurück kommt der Prüfvermerk. An [Workflow und Übergabe](../workflow-uebergabe/SKILL.md) geht der Monatsabgleich mit offenen Gates, offenen Fragen, verantwortlicher Person und Klärungsfrist.
 
 ## 4. Quellenpflicht
 
@@ -237,11 +265,11 @@ Zum Prüfstand 07.10.2026 waren die amtlichen Normseiten und Gerichtsseiten aus 
 
 Liefere den Zuordnungsvermerk, den vollständigen Buchungsvorschlag und erforderlichenfalls ein fertiges Klärungs-, Rückzahlungs- oder Erinnerungsschreiben. Tabellen können Beträge und Belegreferenzen ordnen; das juristische Ergebnis wird in vollständigen, ausformulierten Sätzen erläutert. Skelette, Halbsätze und reine Aufzählungsgerüste sind als Endprodukt verboten. Formatierte Texte verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei reiner Textausgabe steht der Exporthinweis mit diesem Formatwunsch gesondert außerhalb des Empfängertextes.
 
-Die Ausgabe nennt die Grenzen des Erledigten: erfasst, zugeordnet, vorgeschlagen, importiert oder ausgezahlt. Technische Hinweise, Quellenprotokolle und Kontierungsfragen gehören nicht in einen versandfertigen Mandantenbrief. Es wird kein nicht erfolgter Bankauftrag, keine Hauptbuchung und kein Versand behauptet.
+Die Ausgabe nennt die Grenzen des Erledigten: erfasst, zugeordnet, vorgeschlagen, importiert oder ausgezahlt. Technische Hinweise, Quellenprotokolle und Kontierungsfragen gehören nicht in einen versandfertigen Mandantenbrief.
 
 ### 5.2. Abnahmekriterien
 
-Das Produkt ist fertig, wenn jeder Eingang eine Beleg-ID, eine Transaktionsreferenz und einen benannten wirtschaftlich Berechtigten trägt. Das Produkt ist fertig, wenn Honorar, Vorschuss, Drittzahlung und Fremdgeld in getrennten Kategorien erscheinen. Das Produkt ist fertig, wenn jede Verrechnung eine dokumentierte Aufrechnungslage oder Verrechnungsabrede nennt oder ausdrücklich unterblieben ist. Das Produkt ist fertig, wenn der Steuerzeitpunkt nach Soll- oder Istversteuerung bezeichnet oder als offen gekennzeichnet ist. Das Produkt ist fertig, wenn der Status jedes Vorgangs als erfasst, zugeordnet, vorgeschlagen, gebucht oder ausgezahlt angegeben ist und kein Status behauptet wird, der nicht durch Rückmeldung belegt ist. Das Produkt ist fertig, wenn jedes Schreiben an den Mandanten in Sie-Form, vollständig ausformuliert und ohne interne Kontonummern vorliegt. Das Produkt ist fertig, wenn offene Fragen mit verantwortlicher Person und benötigtem Beleg benannt sind.
+Das Produkt ist fertig, wenn jeder Eingang eine Beleg-ID, eine Transaktionsreferenz und einen benannten wirtschaftlich Berechtigten trägt. Das Produkt ist fertig, wenn Honorar, Vorschuss, Drittzahlung und Fremdgeld in getrennten Kategorien erscheinen. Das Produkt ist fertig, wenn jede Verrechnung eine dokumentierte Aufrechnungslage oder Verrechnungsabrede nennt oder ausdrücklich unterblieben ist. Das Produkt ist fertig, wenn der Steuerzeitpunkt nach Soll- oder Istversteuerung bezeichnet oder als offen gekennzeichnet ist. Das Produkt ist fertig, wenn der Status jedes Vorgangs als erfasst, zugeordnet, vorgeschlagen, gebucht oder ausgezahlt angegeben ist und kein Status behauptet wird, der nicht durch Rückmeldung belegt ist. Das Produkt ist fertig, wenn jedes Schreiben an den Mandanten in Sie-Form, vollständig ausformuliert und ohne interne Kontonummern vorliegt. Das Produkt ist fertig, wenn offene Fragen mit verantwortlicher Person und benötigtem Beleg benannt sind. Das Produkt ist fertig, wenn es im Mandatslauf als führende Fassung mit Pfad und Hash eingetragen ist oder, ohne Dateizugriff, der Übergabevermerk Pfad und Hash nennt, und wenn kein Gate, insbesondere G5, stillschweigend als freigegeben behandelt wurde.
 
 ## 6. Beispiele
 
@@ -281,7 +309,7 @@ Am Freitag, 02.10.2026, gehen auf dem Geschäftskonto 12.000 Euro „Vergleich H
 >
 > Steuerlich sind beide Anteile durchlaufende Posten nach § 10 Absatz 1 UStG; eine Umsatzsteuer entsteht nicht. Eine Erfassung im Mandatsjournal als Zahlung unterbleibt, weil kein Honorar vereinnahmt wurde. Offen bleibt die schriftliche Bestätigung der Bankverbindung, die bis Freitag, 09.10.2026, erwartet wird. Status: zugeordnet und vorgeschlagen; nicht gebucht, nicht ausgezahlt.
 
-Die Kontonummern stammen aus dem Kontenrahmen der Kanzlei.
+Konto und Gegenkonto werden erst mit dem Kontenrahmen der Kanzlei ergänzt. Im Mandatslauf wird die Phase `zahlung` als Nebenlauf zur laufenden Sacharbeit gesetzt und der Buchungsvorschlag als Produkt `buchungsvorschlag-B-2026-0898` im Zustand `geprueft` mit Pfad und Hash eingetragen. Für die Weiterleitung der 10.000 Euro wird G5 Zahlung und Fremdgeld mit Bezug auf diese Datei geöffnet; die Einbehaltsfrage zu den 1.785 Euro geht ohne Rückfrage mit Betrag, Anspruchsgrundlage und Mandatsbezug an Anwaltsberufsrecht prüfen. Dort bleibt der Lauf stehen: Bis Dr. Kessler G5 namentlich freigibt, liegt der Betrag auf dem Anderkonto, und `next` verweist auf das offene Gate statt auf einen weiteren Skill.
 
 ### 6.4. Negativbeispiel: Fremdgeld mit Honorar verrechnet
 

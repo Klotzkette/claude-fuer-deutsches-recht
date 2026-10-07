@@ -17,7 +17,7 @@ Die Zeiterfassung belegt gegenüber dem Mandanten die erbrachte Tätigkeit, erm�
 
 Dokumentiert werden reale Tätigkeiten: Sachverhalt aufbereiten, Quellen lesen, Normfassung kontrollieren, Entwurf erarbeiten, Ergebnisse überprüfen, Besprechung führen oder Belege zuordnen. Die Laufzeit eines Modells ist keine Personenzeit. Während ein Werkzeug rechnet, kann die Person andere Arbeit erledigen; dieselben Minuten dürfen nicht zugleich als aktive Bearbeitung mehrerer Mandate angesetzt werden. Der bloße Hinweis „KI genutzt“ beantwortet keine dieser Fragen.
 
-Eine mögliche Zeiteinsparung ist kein abrechenbarer Zeitbeleg. Erfordert eine Vertragsprüfung mit einem zugelassenen Werkzeug tatsächlich siebzig Minuten menschliche Arbeit, werden nicht die geschätzten vier Stunden einer manuellen Bearbeitung gebucht. Umgekehrt wird eine notwendige zwanzigminütige Quellenkontrolle nicht gestrichen, weil ein Modell bereits einen Entwurf geliefert hat. Maßgeblich sind wahrheitsgemäße Dauer, vereinbarter Leistungsumfang und vertretbare Bearbeitung, nicht ein Technikbonus oder Technikabschlag. Wer Effizienz wirtschaftlich abbilden will, vereinbart prospektiv einen Festpreis; er verändert nicht nachträglich die Tatsachen.
+Eine mögliche Zeiteinsparung ist kein abrechenbarer Zeitbeleg. Erfordert eine Vertragsprüfung mit einem zugelassenen Werkzeug tatsächlich siebzig Minuten menschliche Arbeit, werden nicht die geschätzten vier Stunden einer manuellen Bearbeitung gebucht. Umgekehrt wird eine notwendige zwanzigminütige Quellenkontrolle nicht gestrichen, weil ein Modell bereits einen Entwurf geliefert hat. Maßgeblich sind wahrheitsgemäße Dauer, vereinbarter Leistungsumfang und vertretbare Bearbeitung, nicht ein Technikbonus oder Technikabschlag.
 
 ### 1.3. Auslöser, Abgrenzung und Nachbarskills
 
@@ -54,7 +54,7 @@ Die Quelle kann eine zeitnahe persönliche Aufzeichnung, eine bestätigte Tätig
 
 ### 2.3. Rückfragen in der richtigen Reihenfolge
 
-Lies zuerst Akte, gespeicherten Honorarstand und Journalstand über `status`. Stelle dann gebündelt nur die Fragen, deren Antwort fehlt, in dieser Reihenfolge. Die erste Frage lautet: „Welche Tätigkeit soll erfasst werden, und wer hat sie an welchem Tag ausgeführt?“ Die zweite Frage lautet: „Wie viele tatsächliche Minuten haben Sie aufgewendet, und worauf beruht die Angabe – zeitnahe Aufzeichnung, Erinnerung am selben Tag oder Rekonstruktion aus Kalender, Nachrichten und Versionen?“ Die dritte Frage lautet: „Gilt die gespeicherte Honorargrundlage [Phase, Modell, Satz, Deckel] für diese Tätigkeit unverändert, und ist die Zeit danach abrechenbar?“ Die vierte Frage lautet: „Ist das vorgeschlagene Narrativ zutreffend, und enthält es nichts, was der Rechnungsempfänger nicht erfahren darf?“
+Lies zuerst Akte, gespeicherten Honorarstand (Modell, Satz/Betrag, Umfang, Deckel, netto/brutto) und Zeitstand (bestätigte Minuten, offene Zeitfragen) über `status`. Stelle dann gebündelt nur die Fragen, deren Antwort fehlt, in dieser Reihenfolge. Die erste Frage lautet: „Welche Tätigkeit soll erfasst werden, und wer hat sie an welchem Tag ausgeführt?“ Die zweite Frage lautet: „Wie viele tatsächliche Minuten haben Sie aufgewendet, und worauf beruht die Angabe – zeitnahe Aufzeichnung, Erinnerung am selben Tag oder Rekonstruktion aus Kalender, Nachrichten und Versionen?“ Die dritte Frage lautet: „Gilt die gespeicherte Honorargrundlage [Phase, Modell, Satz, Deckel] für diese Tätigkeit unverändert, und ist die Zeit danach abrechenbar?“ Die vierte Frage lautet: „Ist das vorgeschlagene Narrativ zutreffend, und enthält es nichts, was der Rechnungsempfänger nicht erfahren darf?“
 
 Ohne Antwort auf die erste Frage wird kein Eintrag angelegt. Ohne Antwort auf die zweite wird ein unbestätigter Eintrag mit `minutes=null` vorbereitet, und die beauftragte Dokumentarbeit wird abgeschlossen. Ohne Antwort auf die dritte bleibt die Zeit mit `terms_id=null` oder `billable=null` als offene Position im Entwurf. Ohne Antwort auf die vierte bleibt der Narrativvorschlag im internen Datensatz und gelangt nicht in eine Empfängerfassung. Bereits beantwortete Fragen werden nicht wiederholt.
 
@@ -62,13 +62,13 @@ Ohne Antwort auf die erste Frage wird kein Eintrag angelegt. Ohne Antwort auf di
 
 Lies zuerst den bestätigten Stand in der Akte und formuliere ihn knapp: „Für die außergerichtliche Prüfung gilt HV-1 mit 280 Euro netto je Stunde und einem Gesamtdeckel von 2.500 Euro netto nur für Gebühren. Der neue Eintrag betrifft die vereinbarte erste Änderungsfassung.“ Liegen alle Angaben vor, ist keine erneute Abfrage nötig. Ist die Aufgabe neu, prüfe, ob sie vom textförmig erkennbaren Anwendungsbereich der Vereinbarung umfasst ist; eine verwandte neue Aufgabe ist nicht automatisch erfasst.
 
-Fehlt die Grundlage, klärt der Nachbarskill RVG, Zeithonorar, Festpreis, Preisangebot oder Schätzung mit oder ohne Deckel. Die Zeiterfassung wartet darauf nicht: Der Beleg wird mit `terms_id=null` angelegt, und die Zuordnung folgt später auf dem Korrekturweg. Ein Vorschlag wird nicht als bestätigte Tatsache gespeichert.
+Fehlt die Grundlage, klärt der Nachbarskill RVG, Zeithonorar, Festpreis, Preisangebot oder Schätzung mit oder ohne Deckel. Die Zeiterfassung wartet darauf nicht: Der Beleg wird mit `terms_id=null` angelegt, und die Zuordnung folgt später auf dem Korrekturweg.
 
 ### 2.5. Offene Zeiten sind keine Nullzeiten
 
 Kann die Dauer noch nicht genannt werden, bleibt sie unbekannt. Ein leerer Wert wird weder als null Minuten noch als Standarddauer von fünfzehn Minuten behandelt. Ist nur die Abrechenbarkeit offen, bleibt die Dauer erhalten, während der Rechnungsbetrag noch nicht freigegeben wird. Ist die Honorarphase unbekannt, bleibt der Beleg unzugeordnet bestehen. Echte Nullminuten, etwa eine abgesagte Besprechung, werden mit `minutes=0` dokumentiert, wenn die Kanzlei den Vorgang festhalten will.
 
-Eine abgeschlossene Dokumentarbeit wird wegen einer offenen Zeitfrage nicht zurückgehalten; der Nutzer erhält das Ergebnis und daneben die gezielte Erfassungsfrage. Eine spätere Bestätigung wird mit dem ursprünglichen Beleg verbunden; bereits geklärte Daten werden nicht erneut erhoben.
+Eine spätere Bestätigung wird mit dem ursprünglichen Beleg verbunden; bereits geklärte Daten werden nicht erneut erhoben.
 
 ## 3. Ablauf und Checkliste
 
@@ -152,7 +152,7 @@ Nach erfolgreicher Erfassung wird der neue Stand gelesen. Der Entwurf enthält n
 
 Bei `capped` zeigt die Phase in `rechnungsentwurf.json` den vollen Zeitwert als `time_value_eur` und den begrenzten Ansatz als `fee_eur`; der Hinweis „Zeitwert oberhalb des Deckels nicht angesetzt“ nennt den nicht berechenbaren Betrag, und `cap_scope=fees_and_expenses` zieht Auslagen in den Deckel ein. Bei `estimate` meldet das Werkzeug „Schätzung überschritten; Kosteninformation und weiteren Auftrag klären“, ohne den Betrag zu kappen. Beide Hinweise sind Anlass für eine Kosteninformation über den Nachbarskill, nicht für eine Verkürzung der Zeiten und nicht für eine neue Phasen-ID, die den Gesamtdeckel umgeht.
 
-Die Dateien `rechnungsentwurf.md`, `rechnungsentwurf.json` und `zeiten.csv` im Ordner `02_Honorar` werden aus dem führenden Journal erzeugt; `draft` erzeugt sie nach einer Unterbrechung erneut. Manuelle Änderungen an diesen Ansichten ersetzen keine Journaleingabe. Der CSV-Export (Spalten ID, Honorarphase, Datum, Person, Minuten, Narrativ, Abrechenbar, Bestätigt, Stornogrund) schützt Zellanfänge gegen Formeleinschleusung. Die Rechenhilfe unterstützt ausschließlich inländische Standardumsätze mit `vat_rate=19`; eine falsche Steuerangabe wird nicht gesetzt, um eine Zeit in einen Preisentwurf zu zwingen.
+Die Dateien `rechnungsentwurf.md`, `rechnungsentwurf.json` und `zeiten.csv` im Ordner `02_Honorar` werden aus dem führenden Journal erzeugt; `draft` erzeugt sie nach einer Unterbrechung erneut. Der CSV-Export (Spalten ID, Honorarphase, Datum, Person, Minuten, Narrativ, Abrechenbar, Bestätigt, Stornogrund) schützt Zellanfänge gegen Formeleinschleusung. Die Rechenhilfe unterstützt ausschließlich inländische Standardumsätze mit `vat_rate=19`; eine falsche Steuerangabe wird nicht gesetzt, um eine Zeit in einen Preisentwurf zu zwingen.
 
 ### 3.13. Mehrere Sätze innerhalb desselben Arbeitstags
 
@@ -162,7 +162,7 @@ Bei mehreren Bearbeitern mit unterschiedlichen Sätzen bleibt der Personenbezug 
 
 ### 3.14. Beanstandungen sachlich bearbeiten
 
-Widerspricht ein Mandant einem Eintrag, sichere zunächst Wortlaut und Zugang der Beanstandung. Vergleiche Originalnachweis, vertraglichen Umfang und das gelieferte Arbeitsergebnis. Trenne den Streit über die Dauer vom Streit über die Berechenbarkeit oder den Stundensatz. Ein zutreffender Zeitnachweis kann eine nicht beauftragte Tätigkeit betreffen; umgekehrt kann eine beauftragte Tätigkeit unzureichend nachgewiesen sein. Eine kurze Einwendungsfrist in einer Formularvereinbarung wird nicht als Anerkennung genutzt; die Kanzlei muss Leistung und Dauer weiterhin belegen. Eine sachliche Erläuterung ist deshalb der erste Schritt.
+Widerspricht ein Mandant einem Eintrag, sichere zunächst Wortlaut und Zugang der Beanstandung. Vergleiche Originalnachweis, vertraglichen Umfang und das gelieferte Arbeitsergebnis. Trenne den Streit über die Dauer vom Streit über die Berechenbarkeit oder den Stundensatz. Ein zutreffender Zeitnachweis kann eine nicht beauftragte Tätigkeit betreffen; umgekehrt kann eine beauftragte Tätigkeit unzureichend nachgewiesen sein. Eine sachliche Erläuterung ist deshalb der erste Schritt.
 
 Bei einer berechtigten Korrektur werden alter Eintrag, Stornogrund, neue Buchung und gegebenenfalls Rechnungsberichtigung verknüpft; bei einer unberechtigten Beanstandung erläutere Nachweis und Berechnungsgrundlage. Ein Entgegenkommen wird als Nachlass bezeichnet und nicht durch Änderung der Zeitbelege umgesetzt.
 
@@ -170,7 +170,30 @@ Bei einer berechtigten Korrektur werden alter Eintrag, Stornogrund, neue Buchung
 
 Kontrolliere, ob jedes bestätigte Feld auf einer tatsächlichen Angabe beruht, ob Person und Satz sowie Tätigkeit und erfasster Umfang zusammenpassen und ob Doppelbuchungen, Unterbrechungen, ungewöhnliche Dauern, identische Narrative oder ein erreichter Gesamtdeckel vorliegen. Die Gegenprobe fragt, ob eine außenstehende sachkundige Person aus dem Eintrag die konkrete Tätigkeit und ihren Bezug zum Mandat versteht, ohne dass anwaltliche Gedanken offengelegt werden. Bleibt nur „Recherche 480 Minuten“, ist eine Konkretisierung nötig; ein belegter ganztägiger Termin wird nicht wegen seiner Länge verworfen. Plausibilität und Beweis sind unterschiedliche Bewertungen und werden im Vermerk entsprechend bezeichnet.
 
-### 3.16. Typische Fehler und Gegenkontrolle
+### 3.16. Agentischer Lauf und Freigabestufe
+
+Der Skill ist einer der drei führenden Skills der Phase `abrechnung` nach [Mandatslauf und Freigaben](../../references/mandatslauf-und-freigaben.md). Ein einzelner Zeiteintrag während der laufenden Sacharbeit verändert die Hauptphase nicht; der Skill liest den Lauf mit `status`, bucht und meldet. Erst wenn eine Zeitaufstellung als Rechnungsanlage bestellt ist, setzt er die Phase `abrechnung` mit Grund. Die Phase endet nicht mit seinem Produkt, sondern mit dem Rechnungsentwurf oder der freigegebenen Rechnung aus [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md); sein eigenes Produkt ist der Zeitstand (bestätigte Minuten, offene Zeitfragen) mit der Zeitaufstellung in Empfängerfassung.
+
+| Stufe | Ohne Rückfrage |
+|---|---|
+| 0 | Akte und Honorarstand lesen; Datensatz, Statusmeldung und Zeitaufstellung als Text; keine Datei |
+| 1 | Eingabedatei, Prüf- oder Korrekturvermerk und Empfängerfassung unter `01_Bearbeitung`; kein Aufruf von `time` |
+| 2 | Bestätigte Zeiten mit `time` buchen, `void` mit Grund, Ansichten mit `draft`, Produktregister und Mandatslauf fortschreiben |
+| 3 | Übergabevermerk erstellen; abrechnung-e-rechnung oder honorar-budget-vereinbaren anstoßen |
+
+Auf keiner Stufe bestätigt der Skill einen Eintrag ohne menschliche Meldung, schätzt er Minuten, gibt er eine Rechnung aus oder leitet er eine Zeitaufstellung an einen Empfänger außerhalb der Kanzlei weiter. Ein eigenes Gate öffnet er nicht. Er liefert den Zeitstand für G4 Rechnungsausgabe, das abrechnung-e-rechnung öffnet und ein Berufsträger namentlich freigibt; nach der Freigabe trägt er Rechnungsnummer und mitgeteilte Positionen zu den betroffenen Einträgen nach, damit spätere Korrekturen als Rechnungsberichtigung erkannt werden. Soll eine Zeitaufstellung einen externen Dienst erreichen, etwa ein Abrechnungsportal eines Rechtsschutzversicherers, bleibt er vor G6 Dienstleister stehen, das [workflow-uebergabe](../workflow-uebergabe/SKILL.md) führt.
+
+Im Produktregister trägt er die Empfängerfassung unter der Kennung `zeitstand` im Zustand `entwurf` ein; `geprueft` wird sie erst, wenn die verantwortliche Person Narrative und Minuten der Empfängerfassung bestätigt hat. Ab Stufe 3 stößt er danach ohne Rückfrage abrechnung-e-rechnung an, wenn eine Rechnung bestellt ist, oder honorar-budget-vereinbaren, wenn das Werkzeug einen Deckel- oder Schätzungshinweis ausgegeben hat; der Helfer ist [`mandatslauf.py`](../../scripts/mandatslauf.py):
+
+```bash
+python3 "<Pluginordner>/scripts/mandatslauf.py" phase --akte "/Mandate/SI-2026-014" --phase abrechnung --grund "Zeitaufstellung als Rechnungsanlage bestellt"
+python3 "<Pluginordner>/scripts/mandatslauf.py" product --akte "/Mandate/SI-2026-014" --id zeitstand --pfad "01_Bearbeitung/Zeitaufstellung_Anlage1_v01.md" --skill zeiten-erfassen --zustand entwurf
+python3 "<Pluginordner>/scripts/mandatslauf.py" next --akte "/Mandate/SI-2026-014"
+```
+
+Der Skill bleibt stehen, wenn Dauer, Person, Arbeitstag oder Abrechenbarkeit einer Position unbestätigt sind oder wenn eine Position bereits in einer mitgeteilten Rechnung steht und die Kanzlei über die Rechnungsberichtigung noch nicht entschieden hat; er bucht dann nicht weiter, sondern trägt die Frage mit `question --akte "<Mandatsordner>" --text "<Frage>"` in den Lauf ein.
+
+### 3.17. Typische Fehler und Gegenkontrolle
 
 | Fehler | Woran erkennbar | Gegenkontrolle |
 |---|---|---|
@@ -187,11 +210,11 @@ Kontrolliere, ob jedes bestätigte Feld auf einer tatsächlichen Angabe beruht, 
 | Festpreis nachkalkuliert und nachgefordert | Stundenwert als Zusatzposition beim Modell `flat` | Festpreis bleibt Rechnungswert; Mehraufwand nur bei belegtem Zusatzauftrag |
 | Schweigen als Anerkenntnis gewertet | Hinweis auf Monatsfrist statt Beleg | Position inhaltlich belegen; Fiktion nicht verwenden |
 
-### 3.17. Übergabe an Nachbarskills
+### 3.18. Übergabe an Nachbarskills
 
-An [honorar-budget-vereinbaren](../honorar-budget-vereinbaren/SKILL.md) geht die Feststellung, dass eine Tätigkeit nicht vom gespeicherten Anwendungsbereich erfasst ist, dass ein Deckel oder eine Schätzung erreicht wird oder dass Effizienz prospektiv anders bepreist werden soll, zusammen mit Phase, Zeitwert aus `rechnungsentwurf.json` und dem betreffenden Eintrag. Zurück kommt eine bestätigte neue oder ergänzte Phase, der die offene Zeit auf dem Korrekturweg zugeordnet wird.
+An [honorar-budget-vereinbaren](../honorar-budget-vereinbaren/SKILL.md) geht die Feststellung, dass eine Tätigkeit nicht vom gespeicherten Anwendungsbereich erfasst ist, dass ein Deckel oder eine Schätzung erreicht wird oder dass Effizienz prospektiv anders bepreist werden soll, zusammen mit dem Honorarstand (Modell, Satz/Betrag, Umfang, Deckel, netto/brutto), dem Zeitwert aus `rechnungsentwurf.json` und dem betreffenden Eintrag. Zurück kommt eine bestätigte neue oder ergänzte Phase, der die offene Zeit auf dem Korrekturweg zugeordnet wird.
 
-An [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md) gehen Journalstand mit Revision, Zeitaufstellung in Empfängerfassung und die offenen Positionen; zurück kommt, welche Positionen in welcher Rechnung mitgeteilt wurden, damit spätere Korrekturen als Rechnungsberichtigung erkannt werden. An [mandantenkommunikation](../mandantenkommunikation/SKILL.md) geht der Prüfvermerk zu einer Beanstandung mit Nachweislage; zurück kommt der versandfertige Brief, der hier auf Übereinstimmung mit dem Journal geprüft wird. An [anwaltsberufsrecht-pruefen](../anwaltsberufsrecht-pruefen/SKILL.md) geht die Frage, ob ein Narrativ oder ein Export an Dritte die Verschwiegenheit berührt; zurück kommt die Freigabe oder eine abstrahierte Fassung. An [mandat-abschliessen](../mandat-abschliessen/SKILL.md) geht der vollständige Journalstand, damit vor der Schlussrechnung nichts unbestätigt bleibt. In jeder Übergabe wird der Honorarstand kurz vorgehalten, und die im übernehmenden Skill anfallende Zeit wird nach denselben Regeln erfasst.
+An [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md) gehen der Zeitstand (bestätigte Minuten, offene Zeitfragen) mit Journalrevision, die Zeitaufstellung in Empfängerfassung als führende Fassung mit Pfad und Hash, der Honorarstand, die offenen Gates und die offenen Fragen; zurück kommt, welche Positionen in welcher Rechnung mitgeteilt wurden, damit spätere Korrekturen als Rechnungsberichtigung erkannt werden. An [mandantenkommunikation](../mandantenkommunikation/SKILL.md) geht der Prüfvermerk zu einer Beanstandung mit Nachweislage; zurück kommt der versandfertige Brief, der hier auf Übereinstimmung mit dem Journal geprüft wird. An [anwaltsberufsrecht-pruefen](../anwaltsberufsrecht-pruefen/SKILL.md) geht die Frage, ob ein Narrativ oder ein Export an Dritte die Verschwiegenheit berührt; zurück kommt die Freigabe oder eine abstrahierte Fassung. An [mandat-abschliessen](../mandat-abschliessen/SKILL.md) geht der vollständige Zeitstand, damit vor der Schlussrechnung nichts unbestätigt bleibt. Fristobjekte entstehen hier nicht; ein Zeiteintrag zu einer Fristsache nennt das Fristobjekt nur im Narrativ. In jeder Übergabe werden Honorarstand und Zeitstand kurz vorgehalten, und die im übernehmenden Skill anfallende Zeit wird nach denselben Regeln erfasst.
 
 ## 4. Quellenpflicht
 
@@ -229,7 +252,7 @@ Der maschinenlesbare Datensatz darf technische Feldnamen enthalten. Die Zeitaufs
 
 ### 5.3. Abnahmekriterien
 
-Das Produkt ist fertig, wenn jeder bestätigte Eintrag Person, Arbeitstag, ganze Minuten, Narrativ mit Tätigkeit und Gegenstand, Abrechenbarkeit und eine benannte Quelle trägt. Das Produkt ist fertig, wenn keine Dauer geschätzt, kein Sammelblock mit erfundener Verteilung aufgeteilt und keine Werkzeuglaufzeit als Personenzeit gebucht wurde. Das Produkt ist fertig, wenn jede Korrektur als Storno mit Grund und Ersatzbuchung mit Verweis vorliegt und keine Ansicht manuell verändert wurde. Das Produkt ist fertig, wenn die Werkzeugrückgabe mit Revision und offenen Positionen gelesen und in der Statusmeldung wiedergegeben ist. Das Produkt ist fertig, wenn die Empfängerfassung der Zeitaufstellung keine vertraulichen Inhalte enthält, aber dieselben Minuten, Personen und Tage wie das Journal nennt. Das Produkt ist fertig, wenn Deckel-, Schätzungs- und Festpreishinweise des Werkzeugs in eine Handlungsempfehlung an den Nachbarskill übersetzt und nicht durch Phasensplit oder Zeitkürzung beantwortet wurden. Das Produkt ist fertig, wenn offene Fragen in wörtlicher Form und mit der Angabe, welche Teile bereits bearbeitet sind, benannt werden.
+Das Produkt ist fertig, wenn jeder bestätigte Eintrag Person, Arbeitstag, ganze Minuten, Narrativ mit Tätigkeit und Gegenstand, Abrechenbarkeit und eine benannte Quelle trägt. Das Produkt ist fertig, wenn keine Dauer geschätzt, kein Sammelblock mit erfundener Verteilung aufgeteilt und keine Werkzeuglaufzeit als Personenzeit gebucht wurde. Das Produkt ist fertig, wenn jede Korrektur als Storno mit Grund und Ersatzbuchung mit Verweis vorliegt und keine Ansicht manuell verändert wurde. Das Produkt ist fertig, wenn die Werkzeugrückgabe mit Revision und offenen Positionen gelesen und in der Statusmeldung wiedergegeben ist. Das Produkt ist fertig, wenn die Empfängerfassung der Zeitaufstellung keine vertraulichen Inhalte enthält, aber dieselben Minuten, Personen und Tage wie das Journal nennt. Das Produkt ist fertig, wenn Deckel-, Schätzungs- und Festpreishinweise des Werkzeugs in eine Handlungsempfehlung an den Nachbarskill übersetzt und nicht durch Phasensplit oder Zeitkürzung beantwortet wurden. Das Produkt ist fertig, wenn offene Fragen in wörtlicher Form und mit der Angabe, welche Teile bereits bearbeitet sind, benannt werden. Das Produkt ist fertig, wenn der Zeitstand im Mandatslauf als führende Fassung eingetragen ist oder, ohne Dateizugriff, der Übergabevermerk Pfad und Hash nennt, und wenn kein Gate stillschweigend als freigegeben behandelt wurde.
 
 ## 6. Beispiele
 
@@ -257,27 +280,29 @@ Bei 280 Euro netto je Stunde beträgt der Zeitwert nach Centrundung 219,33 Euro 
 
 Die Nutzerin verlangt nach Fertigstellung einer Klageerwiderung am Donnerstag, dem 8. Oktober 2026: „Bitte die Zeit gleich buchen.“ Eine Dauer ist nicht bekannt. Die Antwort lautet: „Die Klageerwiderung ist fertig. Für die Zeit gilt die bestätigte Honorarvereinbarung HV-2 mit 250 Euro netto je Stunde. Wie viele tatsächliche Minuten haben Sie heute für Prüfung und Überarbeitung aufgewendet, und soll der Eintrag als abrechenbar bestätigt werden? Als Narrativ ist vorgesehen: Prüfung des gegnerischen Vortrags zur Mängelrüge und Überarbeitung der Klageerwiderung.“
 
-Bis zur Antwort wird ein Eintrag mit `minutes=null`, `billable=null` und `confirmed=false` vorbereitet; das Werkzeug führt ihn als offene Position. Das System ergänzt nicht neunzig Minuten, weil der Schriftsatz lang ist. Nach der Antwort „72 Minuten, abrechenbar“ wird der bestätigte Stand unter Z-20261008-02 erfasst und der vorbereitete Eintrag mit dem Grund „Dauer und Abrechenbarkeit nach Meldung vom 08.10.2026 bestätigt; ersetzt durch Z-20261008-02“ storniert.
+Bis zur Antwort wird ein Eintrag Z-20261008-01 mit `minutes=null`, `billable=null` und `confirmed=false` vorbereitet; das Werkzeug führt ihn als offene Position. Das System ergänzt nicht neunzig Minuten, weil der Schriftsatz lang ist. Nach der Antwort „72 Minuten, abrechenbar“ wird der bestätigte Stand unter Z-20261008-02 erfasst und der vorbereitete Eintrag Z-20261008-01 mit dem Grund „Dauer und Abrechenbarkeit nach Meldung vom 08.10.2026 bestätigt; ersetzt durch Z-20261008-02“ storniert.
 
 ### 6.3. Ausformulierte Zeitaufstellung als Rechnungsanlage
 
-Für die Mandantin Nordlicht Maschinenbau GmbH (fiktiv) gilt HV-1 mit 280 Euro netto je Stunde und einem Deckel von 2.500 Euro netto für Gebühren. Aus dem Journalstand wird die Anlage in Empfängerfassung erzeugt:
+Für die Mandantin Nordlicht Maschinenbau GmbH (fiktiv) gilt HV-1 mit 280 Euro netto je Stunde und einem Deckel von 2.500 Euro netto für Gebühren. Aus dem Zeitstand des Journals wird die Anlage in Empfängerfassung erzeugt:
 
 > Zeitaufstellung zur Rechnung [Rechnungsnummer] – Anlage 1
 >
 > Mandat: Liefervertrag mit der Hansa Komponenten AG, Prüfung und Änderungsfassung. Honorargrundlage: Vergütungsvereinbarung vom 28. September 2026, 280 Euro netto je Stunde, Höchstbetrag 2.500 Euro netto für Gebühren. Abgerechnet werden tatsächliche Minuten ohne Aufrundung.
 >
-> Am Freitag, dem 2. Oktober 2026, prüfte Rechtsanwältin Dr. Lena Ahrens die Haftungsregelungen in Ziffer 12 des Liefervertrags und arbeitete Ersatzklauseln für die erste Änderungsfassung aus; 47 Minuten, Zeitwert 219,33 Euro.
+> Am Freitag, dem 2. Oktober 2026, sichtete Rechtsanwältin Dr. Lena Ahrens den Entwurf des Liefervertrags und die von Ihnen übermittelten Lieferbedingungen und legte die Prüfreihenfolge fest; 20 Minuten, Zeitwert 93,33 Euro.
 >
 > Am Montag, dem 5. Oktober 2026, prüfte Rechtsanwältin Dr. Lena Ahrens die Gewährleistungsregelungen in den Ziffern 8 bis 11, verglich sie mit den von Ihnen übermittelten Lieferbedingungen und formulierte die Ersatzregelungen der Änderungsfassung; 95 Minuten, Zeitwert 443,33 Euro.
 >
 > Am Dienstag, dem 6. Oktober 2026, besprach Rechtsanwalt Jonas Brecht mit Ihrer Einkaufsleitung telefonisch die Reihenfolge der Verhandlungspunkte zu den Lieferbedingungen; 30 Minuten, Zeitwert 140,00 Euro.
 >
-> Am Mittwoch, dem 7. Oktober 2026, kontrollierte Rechtsanwältin Dr. Lena Ahrens die amtlichen Quellen zum Formbedarf der Änderungsvereinbarung und überarbeitete den Entwurf entsprechend; 20 Minuten, Zeitwert 93,33 Euro.
+> Am Mittwoch, dem 7. Oktober 2026, prüfte Rechtsanwältin Dr. Lena Ahrens die Haftungsregelungen in Ziffer 12 der Vertragsfassung vom 6. Oktober 2026 und arbeitete Ersatzklauseln für die erste Änderungsfassung aus; 47 Minuten, Zeitwert 219,33 Euro.
 >
 > Gesamt: 192 Minuten, Summe der centgerundeten Einzelwerte 895,99 Euro netto. Der Höchstbetrag von 2.500 Euro netto ist nicht erreicht. Umsatzsteuer und Auslagen weist die Rechnung gesondert aus.
 
 Die interne Fassung nennt zusätzlich Quelle und Journal-ID jeder Position. Der getrennte Exporthinweis lautet: Times New Roman, 11 pt, dezimale Gliederung, Anlage ohne technische Feldnamen.
+
+Auf Freigabestufe 2 setzt der Skill die Phase `abrechnung` mit dem Grund „Zeitaufstellung als Rechnungsanlage bestellt“, trägt die Empfängerfassung als Produkt `zeitstand` im Zustand `entwurf` ein und übergibt den Zeitstand (192 bestätigte Minuten, keine offenen Zeitfragen) mit Pfad und Hash an abrechnung-e-rechnung, das den Rechnungsentwurf erstellt und G4 Rechnungsausgabe öffnet. Dort bleibt der Lauf stehen, bis Rechtsanwältin Dr. Ahrens die Rechnung namentlich freigibt; die Rechnungsnummer wird danach in der Anlage und bei den vier Einträgen nachgetragen.
 
 ### 6.4. Ausformulierter Korrekturvermerk nach Doppelbuchung
 

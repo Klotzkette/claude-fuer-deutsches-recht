@@ -1,3 +1,17 @@
+# ki-native-kanzlei-v445.33.6 - Mandatslauf, Freigabestufen und agentische Abstimmung
+
+## 1. Agentische Schicht
+
+Neue Referenz „Mandatslauf und Freigabestufen“ mit zehn Phasen, Produktregister (führende Fassung mit Hash), acht Freigabegates und vier Freigabestufen. Neuer Helfer `scripts/mandatslauf.py` führt den Lauf als Zustandsdatei im Mandatsordner, verweigert Freigaben durch Maschinenbezeichnungen, verlangt eine namentlich benannte Person je Gate, schreibt atomar mit Revision und Historie und empfiehlt mit `next` den nächsten Skill; 15 Tests. Alle achtzehn Skills erhalten einen Unterabschnitt „Agentischer Lauf und Freigabestufe“ mit Phase, Stufenverhalten, Gates, Produktregister, Beispielaufruf und Stoppregel; Übergabeartefakte sind einheitlich benannt (führende Fassung, Fristobjekt, Honorarstand, Zeitstand, offene Gates, offene Fragen).
+
+## 2. Prompts und Referenzen
+
+Werkstatt-Prompt um Kapitel 29 „Mandatslauf, Freigabestufen und agentische Arbeit“ ergänzt; Mini-Prompt erhält innerhalb der 7.500-Byte-Grenze einen Abschnitt 7 zum Mandatslauf. Arbeitsweise, Mandatsordner-Referenz und README beschreiben die agentische Schicht; der Hauptproblem-Prompt ist unverändert.
+
+## 3. Prüfung und Übergabe
+
+Prüfnachweise, Lesefassungen (284 Seiten, je Skill 15 bis 17) und Hashes neu erzeugt. Eine JSON-Übergabedatei für eine nachfolgende Glättungsrunde mit Codex liegt unter `docs/codex-uebergabe-ki-native-kanzlei.json`; sie listet die am amtlichen Volltext nachzuprüfenden Stellen, die Prüfbefehle und die Abnahmekriterien.
+
 # ki-native-kanzlei-v445.33.5 - Veredelung aller achtzehn Skills
 
 ## 1. Alle Skills in einer Runde vertieft

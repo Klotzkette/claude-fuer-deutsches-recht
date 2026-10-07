@@ -4,15 +4,15 @@ Eine Kanzlei, die KI mitdenken lässt und ihre Arbeit im Griff behält: Mandat a
 
 ## 0. Downloads und Verwendung
 
-Stand: **v445.33.5**, Rechtsquellen geprüft am **7. Oktober 2026**.
+Stand: **v445.33.6**, Rechtsquellen geprüft am **7. Oktober 2026**.
 
-Die Komponentenfassung 445.33.5 veredelt alle achtzehn Skills derselben Pluginbezeichnung. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
+Die Komponentenfassung 445.33.6 veredelt alle achtzehn Skills derselben Pluginbezeichnung. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei.zip) |
-| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-portable.zip) |
-| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.5/ki-native-kanzlei-skills-einzelpdfs.zip) |
+| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei.zip) |
+| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-portable.zip) |
+| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
 | Hauptproblem-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
@@ -58,7 +58,9 @@ Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die 
 | `zahlungen-buchhaltung` | Zahlungseingänge, Vorschüsse, Drittzahlungen oder Fremdgeld zugeordnet werden. | Belegte Geldflüsse und Buchungsvorschlag ohne ungeprüfte Verrechnung. |
 | `mandat-abschliessen` | Ein Mandat oder eine Auftragsphase endet. | Abschlussbrief, Restpflichten, Schlussrechnung, Herausgabe, Aufbewahrung. |
 
-**Alle 18 Skills umfassen jeweils 14 bis 17 tatsächliche A4-Seiten, zusammen 265 Seiten** (rund 108.000 Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
+**Alle 18 Skills umfassen jeweils 15 bis 17 tatsächliche A4-Seiten, zusammen 284 Seiten** (rund 117.000 Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
+
+Seit der Komponentenfassung 445.33.6 verbindet ein [Mandatslauf](references/mandatslauf-und-freigaben.md) die Skills zu einem durchlaufenden Vorgang: zehn Phasen vom Eingang bis zum Abschluss, ein Produktregister mit führender Fassung und Hash, acht Freigabegates (Annahme, Fristeintrag, Versand und Einreichung, Rechnungsausgabe, Zahlung und Fremdgeld, Dienstleister, Meldung, Abschluss und Löschung) und vier Freigabestufen von 0 (nur Entwurf) bis 3 (Versandvorbereitung). Innerhalb der gesetzten Stufe arbeitet das Plugin selbständig weiter und stößt den Nachbarskill an; jede Handlung mit Außenwirkung bleibt an eine namentlich dokumentierte menschliche Freigabe gebunden. Der Helfer `scripts/mandatslauf.py` führt den Lauf als Datei im Mandatsordner und schlägt mit `next` den nächsten Skill vor. Jeder Skill beschreibt in einem eigenen Unterabschnitt, was er auf welcher Stufe ohne Rückfrage tut, welches Gate er öffnet und wo er stehen bleibt.
 
 Jeder Skill ist gleich aufgebaut: Auslöser und Abgrenzung zu den Nachbarskills, Eingabentabelle mit dem Vorgehen bei fehlenden Angaben, wörtlich ausformulierte Rückfragen in der richtigen Reihenfolge, der fachliche Ablauf mit konkret benannten und am amtlichen Text geprüften Normen, ein skillspezifischer Katalog typischer Fehler mit Gegenkontrolle, die Übergabe an die Nachbarskills, verifizierte Entscheidungsanker mit Anwendungsgrenzen, Abnahmekriterien sowie Beispiele mit vollständig ausformulierten Endprodukten und einem Negativbeispiel. Die [Arbeitsweise](references/arbeitsweise.md) erklärt, welcher Skill in welcher Startsituation zuerst greift.
 
@@ -74,7 +76,7 @@ Der optionale [lokale Mandatshelfer](references/mandatsordner-und-cli.md) verwal
 
 Eine Festpreisakte kann Zeit für die Nachkalkulation enthalten, ohne dass dadurch die Forderung steigt. Bei Stundenhonorar werden keine hypothetischen Stunden für die Zeitersparnis durch KI erfunden. Gebührenmodell und Budget werden kurz vorgehalten; zusätzliche Aufgaben bleiben gegen den vereinbarten Umfang prüfbar.
 
-Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist keine Einreichung.
+Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [Mandatslauf-Helfer](references/mandatslauf-und-freigaben.md) dokumentiert Phase, führende Fassungen, Gates und Freigaben je Mandat; er weist Freigaben durch „KI“, „Agent“ oder „System“ ab und verlangt eine benannte Person. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist keine Einreichung.
 
 ## 5. Kleine Fälle für alle Fachanwaltschaften
 

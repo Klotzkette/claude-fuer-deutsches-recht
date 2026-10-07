@@ -1,114 +1,114 @@
 {
-  "handbook_sha256": "e80c2f73cd849d643240c094467580ca0e74a8550bc5584adf8b3bd5eea26488",
-  "pages": 265,
+  "handbook_sha256": "55a89894b97c05a30c6439f17b78aba6f8bc21812065b993e14023518cf108dd",
+  "pages": 284,
   "comparison": "Alle extrahierten Seitentexte und Seitenformate der Quelldateien gegen das zusammengefügte PDF; keine zusätzliche Sichtprüfung behauptet.",
   "skills": [
     {
       "skill": "abrechnung-e-rechnung",
       "first_handbook_page": 1,
-      "last_handbook_page": 14,
+      "last_handbook_page": 16,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "akte-fristen-anlegen",
-      "first_handbook_page": 15,
-      "last_handbook_page": 30,
+      "first_handbook_page": 17,
+      "last_handbook_page": 33,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "anwaltsberufsrecht-pruefen",
-      "first_handbook_page": 31,
-      "last_handbook_page": 45,
+      "first_handbook_page": 34,
+      "last_handbook_page": 49,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "bea-anlagen-vorbereiten",
-      "first_handbook_page": 46,
-      "last_handbook_page": 60,
+      "first_handbook_page": 50,
+      "last_handbook_page": 64,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "fristen-berechnen-ueberwachen",
-      "first_handbook_page": 61,
-      "last_handbook_page": 75,
+      "first_handbook_page": 65,
+      "last_handbook_page": 80,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "geldwaesche-pruefen",
-      "first_handbook_page": 76,
-      "last_handbook_page": 89,
+      "first_handbook_page": 81,
+      "last_handbook_page": 96,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "honorar-budget-vereinbaren",
-      "first_handbook_page": 90,
-      "last_handbook_page": 104,
+      "first_handbook_page": 97,
+      "last_handbook_page": 112,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "ki-kanzlei-steuern",
-      "first_handbook_page": 105,
-      "last_handbook_page": 121,
+      "first_handbook_page": 113,
+      "last_handbook_page": 129,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "mandantenkommunikation",
-      "first_handbook_page": 122,
-      "last_handbook_page": 136,
+      "first_handbook_page": 130,
+      "last_handbook_page": 144,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "mandat-abschliessen",
-      "first_handbook_page": 137,
-      "last_handbook_page": 150,
+      "first_handbook_page": 145,
+      "last_handbook_page": 160,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "mandatsannahme-interessenkollision",
-      "first_handbook_page": 151,
-      "last_handbook_page": 164,
+      "first_handbook_page": 161,
+      "last_handbook_page": 176,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "recht-recherchieren",
-      "first_handbook_page": 165,
-      "last_handbook_page": 179,
+      "first_handbook_page": 177,
+      "last_handbook_page": 192,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "schriftsaetze-entwerfen",
-      "first_handbook_page": 180,
-      "last_handbook_page": 193,
-      "all_page_texts_and_page_boxes_identical": true
-    },
-    {
-      "skill": "vertraege-agb-pruefen",
-      "first_handbook_page": 194,
+      "first_handbook_page": 193,
       "last_handbook_page": 207,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
-      "skill": "vertraege-gestalten",
+      "skill": "vertraege-agb-pruefen",
       "first_handbook_page": 208,
       "last_handbook_page": 222,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
-      "skill": "workflow-uebergabe",
+      "skill": "vertraege-gestalten",
       "first_handbook_page": 223,
-      "last_handbook_page": 236,
+      "last_handbook_page": 238,
+      "all_page_texts_and_page_boxes_identical": true
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "first_handbook_page": 239,
+      "last_handbook_page": 253,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "zahlungen-buchhaltung",
-      "first_handbook_page": 237,
-      "last_handbook_page": 250,
+      "first_handbook_page": 254,
+      "last_handbook_page": 268,
       "all_page_texts_and_page_boxes_identical": true
     },
     {
       "skill": "zeiten-erfassen",
-      "first_handbook_page": 251,
-      "last_handbook_page": 265,
+      "first_handbook_page": 269,
+      "last_handbook_page": 284,
       "all_page_texts_and_page_boxes_identical": true
     }
   ]

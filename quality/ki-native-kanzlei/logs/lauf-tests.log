@@ -1,0 +1,20 @@
+test_closing_requires_decided_gates (__main__.LaufTests.test_closing_requires_decided_gates) ... ok
+test_control_characters_rejected (__main__.LaufTests.test_control_characters_rejected) ... ok
+test_gate_cannot_be_released_unopened (__main__.LaufTests.test_gate_cannot_be_released_unopened) ... ok
+test_gate_needs_named_person (__main__.LaufTests.test_gate_needs_named_person) ... ok
+test_gate_reset_after_release (__main__.LaufTests.test_gate_reset_after_release) ... ok
+test_init_refuses_overwrite (__main__.LaufTests.test_init_refuses_overwrite) ... ok
+test_init_rejects_bad_level (__main__.LaufTests.test_init_rejects_bad_level) ... ok
+test_next_follows_phase_without_gates (__main__.LaufTests.test_next_follows_phase_without_gates) ... ok
+test_next_prefers_open_deadline_gate (__main__.LaufTests.test_next_prefers_open_deadline_gate) ... ok
+test_phase_and_side_run (__main__.LaufTests.test_phase_and_side_run) ... ok
+test_product_hash_and_replacement (__main__.LaufTests.test_product_hash_and_replacement) ... ok
+test_product_requires_file_and_relative_path (__main__.LaufTests.test_product_requires_file_and_relative_path) ... ok
+test_questions_and_history (__main__.LaufTests.test_questions_and_history) ... ok
+test_release_requires_review_first (__main__.LaufTests.test_release_requires_review_first) ... ok
+test_unknown_phase (__main__.LaufTests.test_unknown_phase) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.106s
+
+OK

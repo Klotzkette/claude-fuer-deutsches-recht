@@ -9,14 +9,13 @@ description: "Verwenden, wenn ein Vertrag, Nachtrag oder Klauselpaket aus einem 
 
 ### 1.1. Aus dem Geschäft ein belastbares Regelungsprogramm entwickeln
 
-Dieser Skill erzeugt einen vollständigen Vertragsentwurf, einen konkreten Nachtrag oder ein zusammenhängendes Klauselpaket für ein bestimmtes Geschäft. Er beginnt mit dem tatsächlichen Leistungsmodell, den beteiligten Parteien und den angestrebten wirtschaftlichen Ergebnissen. Er endet mit ausformulierten Rechten, Pflichten und Rechtsfolgen, die im Alltag angewendet werden können. Eine Sammlung unverbundener Musterklauseln oder ein bloßes Inhaltsverzeichnis erfüllt den Auftrag nicht.
+Dieser Skill erzeugt einen vollständigen Vertragsentwurf, einen konkreten Nachtrag oder ein zusammenhängendes Klauselpaket für ein bestimmtes Geschäft. Er beginnt mit dem tatsächlichen Leistungsmodell, den beteiligten Parteien und den angestrebten wirtschaftlichen Ergebnissen. Er endet mit ausformulierten Rechten, Pflichten und Rechtsfolgen, die im Alltag angewendet werden können.
 
 Gestaltung bedeutet, vorhersehbare Abläufe und Störungen in verständliche Regeln zu übersetzen: Wer liefert was, wann und in welcher Qualität, welche Mitwirkung wird benötigt, wann entsteht die Zahlungspflicht, was geschieht bei Fehlern, Verzug und Beendigung? Ein genauer Zahlungsplan gleicht eine unklare Leistungsbeschreibung nicht aus; ein sorgfältiger Haftungscap löst keine fehlende Abnahmeregelung.
 
 ### 1.2. Der richtige Grad an Regelung
 
-Der Vertrag soll die wesentlichen Risiken beherrschen, ohne durch unnötige Regelungen schwer lesbar zu werden. Eine kurze Änderungsvereinbarung braucht nicht den gesamten Ausgangsvertrag erneut abzuschreiben, muss aber bestimmen, welche Fassung geändert wird, ab wann die Änderung gilt und welche Regelungen fortbestehen.
-Die KI-native Kanzlei verwendet Automatisierung zur konsistenten Erstellung, zum Variantenvergleich und zur Kontrolle von Verweisen; sie ersetzt keine geklärte Risikoverteilung. Fehlende entscheidende Angaben werden markiert und gezielt geklärt, statt durch vermeintlich übliche Werte ersetzt zu werden.
+Der Vertrag soll die wesentlichen Risiken beherrschen, ohne durch unnötige Regelungen schwer lesbar zu werden. Eine kurze Änderungsvereinbarung braucht nicht den gesamten Ausgangsvertrag erneut abzuschreiben, muss aber bestimmen, welche Fassung geändert wird, ab wann die Änderung gilt und welche Regelungen fortbestehen. Fehlende entscheidende Angaben werden als Platzhalter markiert und gezielt erfragt, nicht durch vermeintlich übliche Werte ersetzt.
 
 ### 1.3. Auslöser, Abgrenzung und Nachbarskills
 
@@ -30,7 +29,7 @@ Dieser Skill versendet keinen Vertrag, gibt keine Annahmeerklärung ab, ersetzt 
 
 ### 2.1. Das Geschäftsbriefing
 
-Lies vorhandene Angebote, Leistungsbeschreibungen, Gesprächsnotizen, Preisblätter, Vorverträge und einschlägige Muster. Erfasse die genaue Identität der Parteien und ihrer Vertreter, Leistungszweck, Gegenleistung, Laufzeit, Termine, erwartete Ergebnisse und Abhängigkeiten. Ein Markenname ist nicht immer die vertragschließende Gesellschaft, eine Kontaktperson nicht automatisch vertretungsberechtigt. Frage nur fehlende Angaben, die den Entwurf beeinflussen, und baue auf dem vorhandenen Briefing auf.
+Lies vorhandene Angebote, Leistungsbeschreibungen, Gesprächsnotizen, Preisblätter, Vorverträge und einschlägige Muster. Erfasse die genaue Identität der Parteien und ihrer Vertreter, Leistungszweck, Gegenleistung, Laufzeit, Termine, erwartete Ergebnisse und Abhängigkeiten. Ein Markenname ist nicht immer die vertragschließende Gesellschaft, eine Kontaktperson nicht automatisch vertretungsberechtigt.
 
 ### 2.2. Entscheidende Angaben und ihr Fehlen
 
@@ -59,7 +58,7 @@ Kläre B2B oder B2C, individuelle oder standardisierte Verwendung, Rechtswahl, G
 
 ### 2.5. Honorargrundlage bei jedem wesentlichen Schritt
 
-Halte den bestehenden Vergütungsstand vor Erstentwurf, zusätzlicher Variante, neuer Verhandlungsrunde und Endfassung knapp vor. Beispiel: „Der bestätigte Festpreis umfasst einen deutschen Erstentwurf und eine Änderungsrunde. Die jetzt gewünschte englische Fassung und die Prüfung ausländischen Rechts sind darin nicht enthalten.“ Fehlt die Basis, kläre RVG, Stundenhonorar, Festpreis, verbindlichen Fee Quote oder Schätzung mit beziehungsweise ohne Deckel, Netto- oder Bruttobezug und erfasste Leistung. Nach einer abgeschlossenen wesentlichen Leistung werden Datum, Person, Dauer, Abrechenbarkeit und Narrativ erfragt, soweit offen. Eine offene Zeitfrage hindert die Fertigstellung des beauftragten Vertrags nicht; sie verhindert nur, dass eine erfundene Dauer als abrechenbarer Beleg behandelt wird.
+Halte den Honorarstand (Modell, Satz/Betrag, Umfang, Deckel, netto/brutto) vor Erstentwurf, zusätzlicher Variante, neuer Verhandlungsrunde und Endfassung knapp vor. Beispiel: „Der bestätigte Festpreis umfasst einen deutschen Erstentwurf und eine Änderungsrunde. Die jetzt gewünschte englische Fassung und die Prüfung ausländischen Rechts sind darin nicht enthalten.“ Fehlt die Basis, kläre RVG, Stundenhonorar, Festpreis, verbindlichen Fee Quote oder Schätzung mit beziehungsweise ohne Deckel, Netto- oder Bruttobezug und erfasste Leistung. Nach einer abgeschlossenen wesentlichen Leistung werden Datum, Person, Dauer, Abrechenbarkeit und Narrativ erfragt, soweit offen. Eine offene Zeitfrage hindert die Fertigstellung des beauftragten Vertrags nicht; sie verhindert nur, dass eine erfundene Dauer als abrechenbarer Beleg behandelt wird.
 
 ## 3. Ablauf und Checkliste
 
@@ -161,9 +160,31 @@ Ein vollständiger interner Abschlussvermerk lautet: „Die Parteien haben am [D
 
 ### 3.15. Honorar- und Zeitfortschreibung
 
-Verwende die tatsächliche Schnittstelle aus [Mandatsordner und CLI](../../references/mandatsordner-und-cli.md). Bestätigte Zeitbelege werden mit `python3 "<Pluginordner>/scripts/kanzlei.py" time --akte "<Mandatsordner>" --data "<zeit.json>"` erfasst; die JSON-Datei enthält `id`, `terms_id`, `work_date`, `person`, `minutes`, `narrative`, `billable`, `confirmed` und `source`. Bei Festpreis dienen die Minuten der Dokumentation und werden nicht aufgeschlagen. Bei RVG ist eine gesonderte Gebührenberechnung erforderlich. Das Skript unter [kanzlei.py](../../scripts/kanzlei.py) unterstützt nur geprüfte inländische Standardumsätze mit 19 Prozent Umsatzsteuer. Bestätigte Honorargrundlagen werden nicht nachträglich umgeschrieben; eine neue Phasen-ID darf einen laufenden Gesamtdeckel nicht umgehen. Nach der Erfassung wird der Rechnungsentwurf mit `status` beziehungsweise `draft` neu gelesen; er bleibt ein Entwurf ohne Rechnungsnummer, Hauptbuchung oder Versand.
+Verwende die tatsächliche Schnittstelle aus [Mandatsordner und CLI](../../references/mandatsordner-und-cli.md). Bestätigte Zeiten werden mit `python3 "<Pluginordner>/scripts/kanzlei.py" time --akte "<Mandatsordner>" --data "<zeit.json>"` erfasst; die JSON-Datei enthält `id`, `terms_id`, `work_date`, `person`, `minutes`, `narrative`, `billable`, `confirmed` und `source`. Bei Festpreis dienen die Minuten der Dokumentation und werden nicht aufgeschlagen. Bei RVG ist eine gesonderte Gebührenberechnung erforderlich. Das Skript unter [kanzlei.py](../../scripts/kanzlei.py) unterstützt nur geprüfte inländische Standardumsätze mit 19 Prozent Umsatzsteuer. Bestätigte Honorargrundlagen werden nicht nachträglich umgeschrieben; eine neue Phasen-ID darf einen laufenden Gesamtdeckel nicht umgehen. Nach der Erfassung wird der Rechnungsentwurf mit `status` beziehungsweise `draft` neu gelesen; er bleibt ein Entwurf ohne Rechnungsnummer, Hauptbuchung oder Versand. Der Zeitstand (bestätigte Minuten, offene Zeitfragen) wird im Übergabevermerk getrennt vom Honorarstand geführt.
 
-### 3.16. Typische Fehler und Gegenkontrolle
+### 3.16. Agentischer Lauf und Freigabestufe
+
+Dieser Skill verantwortet die Phase `sacharbeit` nach [Mandatslauf und Freigabestufen](../../references/mandatslauf-und-freigaben.md); sie endet mit der führenden Fassung des bestellten Vertrags, Nachtrags oder Klauselpakets. Ergibt sich aus dem Vertrag ein Termin mit Rechtsfolge, etwa die Kündigungsfrist zum Ende der Erstlaufzeit, geht er als Fristobjekt (erfasst) an [fristen-berechnen-ueberwachen](../fristen-berechnen-ueberwachen/SKILL.md); die Phase `frist` wird mit `--nebenlauf` neben die Sacharbeit gesetzt.
+
+Auf Freigabestufe 0 liefert der Skill den ausformulierten Entwurf und die Rückfrageliste als Text und schreibt keine Datei in den Mandatsordner. Auf Stufe 1 legt er die Fassung mit Versionsnummer und Datum unter `01_Bearbeitung` an und führt das Dokumentregister fort. Auf Stufe 2 trägt er zusätzlich die führende Fassung mit Pfad und Hash in den Mandatslauf ein, bucht bestätigte Zeiten über [zeiten-erfassen](../zeiten-erfassen/SKILL.md) und notiert offene Fragen mit `question`. Auf Stufe 3 erstellt er den Übergabevermerk, stößt [mandantenkommunikation](../mandantenkommunikation/SKILL.md) ohne Rückfrage an und stellt Fassung, Anlagen und Empfänger für den Versand zusammen. Auf keiner Stufe versendet er den Entwurf, gibt eine Annahme- oder Angebotserklärung ab, setzt ein Produkt auf `freigegeben` oder behandelt eine erwartete Mandantenentscheidung als erteilt.
+
+| Gate | Produkt dafür | Freigabe durch | Nachzutragen |
+|---|---|---|---|
+| G3 Versand und Einreichung | Entwurf oder Endfassung mit Begleitbrief | Berufsträger | Versanddatum, Eingangsbeleg, Hash der versandten Fassung |
+| G6 Dienstleister | Vermerk, welche Mandatsdaten einen KI-Dienst erreichen sollen | Berufsträger nach anwaltsberufsrecht-pruefen | Vertrag nach § 43e BRAO, Datenschutzdokumentation |
+
+Im Produktregister erhält das Produkt eine Kennung wie `vertrag-wartung` im Zustand `entwurf`; `geprueft` wird erst gesetzt, wenn ein Berufsträger die Szenarien aus Abschnitt 3.13 und den Fehlerkatalog aus Abschnitt 3.17 am Dokument abgezeichnet hat, `freigegeben` erst mit der Freigabe an G3. Lauf auf Stufe 2 oder 3:
+
+```bash
+python3 "<Pluginordner>/scripts/mandatslauf.py" phase --akte "/Mandate/M-26-131" --phase sacharbeit --grund "Wartungsvertrag Lagerkern bestellt"
+python3 "<Pluginordner>/scripts/mandatslauf.py" product --akte "/Mandate/M-26-131" --id vertrag-wartung --pfad "01_Bearbeitung/Wartungsvertrag_Lagerkern_v01.docx" --skill vertraege-gestalten --zustand entwurf
+python3 "<Pluginordner>/scripts/mandatslauf.py" gate --akte "/Mandate/M-26-131" --gate G3 --aktion oeffnen --bezug "Wartungsvertrag_Lagerkern_v01.docx"
+python3 "<Pluginordner>/scripts/mandatslauf.py" next --akte "/Mandate/M-26-131"
+```
+
+Der Helfer unter [mandatslauf.py](../../scripts/mandatslauf.py) dokumentiert nur; `product` verlangt die vorhandene Datei, `freigeben` eine namentlich bezeichnete Person. Stoppregel: Der Skill bleibt vor der Endfassung stehen, solange Verbraucher- oder Unternehmerfassung, Haftungsobergrenze oder Abschlussform nicht entschieden sind, und vor jedem Versand, bis G3 freigegeben ist; er meldet dann offene Fragen und offene Gates und arbeitet nur an den unabhängigen Teilen weiter.
+
+### 3.17. Typische Fehler und Gegenkontrolle
 
 | Fehler | Woran erkennbar | Gegenkontrolle |
 |---|---|---|
@@ -179,9 +200,9 @@ Verwende die tatsächliche Schnittstelle aus [Mandatsordner und CLI](../../refer
 | Salvatorik mit Ersetzungsautomatik | „tritt die wirtschaftlich nächstliegende wirksame Regelung“ | Auf Verhandlungspflicht umstellen, Einzelklauseln tragfähig machen |
 | Rechtewortlaut ohne Rechtekette | „sämtliche Rechte gehen über“ bei Open-Source-Anteilen | Komponentenliste und Lizenzbedingungen prüfen |
 
-### 3.17. Übergabe an Nachbarskills
+### 3.18. Übergabe an Nachbarskills
 
-An [vertraege-agb-pruefen](../vertraege-agb-pruefen/SKILL.md) geht die Gegenfassung der anderen Seite mit Fassungsdatum und eigener Entwurfsfassung; zurück kommen Befunde, Ersatzklauseln und eine Änderungsliste, die hier eingearbeitet wird. An [recht-recherchieren](../recht-recherchieren/SKILL.md) geht die konkret formulierte Rechtsfrage mit Vertragstyp und Klauseltext; zurück kommt eine am Normstand belegte Antwort, die als Klausel oder Risikohinweis umgesetzt wird. An [mandantenkommunikation](../mandantenkommunikation/SKILL.md) gehen Entwurf, offene Entscheidungen und Kostenstand; zurück kommen die Entscheidungen des Mandanten. An [zeiten-erfassen](../zeiten-erfassen/SKILL.md) gehen Datum, Person, Minuten und Narrativ des Schritts; zurück kommt der bestätigte Journalstand. An [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md) geht der Rechnungsentwurf erst nach gelieferter Leistungsstufe. Bei gerichtlicher Durchsetzung übernimmt [schriftsaetze-entwerfen](../schriftsaetze-entwerfen/SKILL.md) die unveränderte Abschlussfassung mit Abschlussvermerk. Den Gesamtlauf steuert [ki-kanzlei-steuern](../ki-kanzlei-steuern/SKILL.md); eine Übergabe an eine andere Bearbeiterin erfolgt über [workflow-uebergabe](../workflow-uebergabe/SKILL.md) mit Fassungsstand, offenen Punkten und Abschlussweg.
+Jede Übergabe nennt die führende Fassung (mit Pfad und Hash), die offenen Fragen, die offenen Gates, den Honorarstand und den Zeitstand. An [vertraege-agb-pruefen](../vertraege-agb-pruefen/SKILL.md) geht die Gegenfassung der anderen Seite mit Fassungsdatum zusammen mit der eigenen führenden Fassung; zurück kommen Befunde, Ersatzklauseln und eine Änderungsliste, die hier eingearbeitet wird und eine neue führende Fassung ergibt. An [recht-recherchieren](../recht-recherchieren/SKILL.md) geht die konkret formulierte Rechtsfrage mit Vertragstyp und Klauseltext; zurück kommt eine am Normstand belegte Antwort, die als Klausel oder Risikohinweis umgesetzt wird. An [mandantenkommunikation](../mandantenkommunikation/SKILL.md) gehen die führende Fassung, die offenen Fragen und der Honorarstand; zurück kommen die Entscheidungen des Mandanten als erledigte Fragen. An [fristen-berechnen-ueberwachen](../fristen-berechnen-ueberwachen/SKILL.md) geht das Fristobjekt (erfasst); zurück kommt es als Fristobjekt (berechnet), nach G2 als Fristobjekt (eingetragen). An [zeiten-erfassen](../zeiten-erfassen/SKILL.md) gehen Datum, Person, Minuten und Narrativ des Schritts; zurück kommt der Zeitstand (bestätigte Minuten, offene Zeitfragen). An [abrechnung-e-rechnung](../abrechnung-e-rechnung/SKILL.md) geht der Rechnungsentwurf erst nach gelieferter Leistungsstufe. Bei gerichtlicher Durchsetzung übernimmt [schriftsaetze-entwerfen](../schriftsaetze-entwerfen/SKILL.md) die unveränderte Abschlussfassung mit Abschlussvermerk. Den Gesamtlauf steuert [ki-kanzlei-steuern](../ki-kanzlei-steuern/SKILL.md); eine Übergabe an eine andere Bearbeiterin erfolgt über [workflow-uebergabe](../workflow-uebergabe/SKILL.md) mit führender Fassung, offenen Fragen, offenen Gates und Abschlussweg.
 
 ## 4. Quellenpflicht
 
@@ -217,11 +238,11 @@ Liefere den verlangten vollständigen Vertrag, Nachtrag oder das geschlossene Kl
 
 ### 5.2. Formatstandard und Exporthinweis
 
-Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman in 11 pt und ausschließlich dezimale Gliederung (`1`, `1.1`, `1.1.1`), mit Leerzeile zwischen Gliederungspunkt und Inhalt und sparsamer Einrückung. Bei reiner Markdown- oder Chatausgabe steht der Exporthinweis „Times New Roman, 11 pt, dezimale Gliederung“ in einer gesonderten Notiz an den Auftraggeber, nicht im Vertragstext. Technische Anweisungen, Quellenprotokolle und interne Risikoeinschätzungen stehen außerhalb des Empfängertextes. Die Übergabe nennt offene Entscheidungen und den tatsächlichen Status. Eine nicht unterschriebene Fassung wird nicht als geschlossener Vertrag bezeichnet, und es wird keine Datei oder Formatierung behauptet, die nicht erzeugt wurde.
+Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman in 11 pt und ausschließlich dezimale Gliederung (`1`, `1.1`, `1.1.1`), mit Leerzeile zwischen Gliederungspunkt und Inhalt und sparsamer Einrückung. Bei reiner Markdown- oder Chatausgabe steht der Exporthinweis „Times New Roman, 11 pt, dezimale Gliederung“ in einer gesonderten Notiz an den Auftraggeber, nicht im Vertragstext. Technische Anweisungen, Quellenprotokolle und interne Risikoeinschätzungen stehen außerhalb des Empfängertextes. Eine nicht unterschriebene Fassung wird nicht als geschlossener Vertrag bezeichnet, und es wird keine Datei oder Formatierung behauptet, die nicht erzeugt wurde.
 
 ### 5.3. Abnahmekriterien
 
-Das Produkt ist fertig, wenn jede Hauptleistung, jede Gegenleistung und jede Rechtsfolge als vollständiger Satz im Vertrag steht und keine Ziffer nur aus einer Überschrift besteht. Das Produkt ist fertig, wenn der Vertragstyp benannt ist und Abnahme, Fälligkeit, Gewährleistung und Kündigung zu diesem Typ passen. Das Produkt ist fertig, wenn jeder Verweis auf eine Ziffer oder Anlage auf eine vorhandene Regelung zeigt. Das Produkt ist fertig, wenn die gesetzlich erforderliche Form bestimmt und der Unterschrifts- oder Signaturweg darauf abgestimmt ist. Das Produkt ist fertig, wenn im Formularfall die zwingenden Haftungsausnahmen, die Transparenz der Haftungsbegrenzung und bei Verbrauchern die Laufzeit-, Button- und Widerrufsregeln geprüft sind. Das Produkt ist fertig, wenn Platzhalter nur dort stehen, wo Tatsachen fehlen, und jeder Platzhalter in der Rückfrageliste an den Mandanten erscheint. Das Produkt ist fertig, wenn die sechs Szenarien aus Abschnitt 3.13 jeweils einen eindeutigen Ablauf ergeben und Honorarstand, Zeitbeleg und Abschlussweg im Statusvermerk stehen.
+Das Produkt ist fertig, wenn jede Hauptleistung, jede Gegenleistung und jede Rechtsfolge als vollständiger Satz im Vertrag steht und keine Ziffer nur aus einer Überschrift besteht. Das Produkt ist fertig, wenn der Vertragstyp benannt ist und Abnahme, Fälligkeit, Gewährleistung und Kündigung zu diesem Typ passen. Das Produkt ist fertig, wenn jeder Verweis auf eine Ziffer oder Anlage auf eine vorhandene Regelung zeigt. Das Produkt ist fertig, wenn die gesetzlich erforderliche Form bestimmt und der Unterschrifts- oder Signaturweg darauf abgestimmt ist. Das Produkt ist fertig, wenn im Formularfall die zwingenden Haftungsausnahmen, die Transparenz der Haftungsbegrenzung und bei Verbrauchern die Laufzeit-, Button- und Widerrufsregeln geprüft sind. Das Produkt ist fertig, wenn Platzhalter nur dort stehen, wo Tatsachen fehlen, und jeder Platzhalter in der Rückfrageliste an den Mandanten erscheint. Das Produkt ist fertig, wenn die sechs Szenarien aus Abschnitt 3.13 jeweils einen eindeutigen Ablauf ergeben und Honorarstand, Zeitstand und Abschlussweg im Übergabevermerk stehen. Das Produkt ist erst fertig, wenn es im Mandatslauf als führende Fassung eingetragen ist oder, ohne Dateizugriff, der Übergabevermerk Pfad und Hash nennt, und wenn kein Gate stillschweigend als freigegeben behandelt wurde.
 
 ## 6. Beispiele
 
@@ -245,7 +266,7 @@ Die fiktive Nordlicht Software GmbH wartet die Software „Lagerkern“ für die
 >
 > 4.1 Der Vertrag beginnt am 01.12.2026 und läuft zunächst bis zum 30.11.2028. Er verlängert sich jeweils um zwölf Monate, wenn er nicht mit einer Frist von drei Monaten zum Ende der jeweiligen Laufzeit in Textform gekündigt wird. Das Recht zur Kündigung aus wichtigem Grund bleibt unberührt.
 
-Die Haftungsklausel ist für den Unternehmerverkehr gestaltet; gegenüber Verbrauchern wäre die Laufzeitregelung an § 309 Nummer 9 BGB anzupassen. Reaktionszeiten und Pauschale stammen aus dem Angebot der Mandantin und sind keine Vorschläge des Skills.
+Die Haftungsklausel ist für den Unternehmerverkehr gestaltet; gegenüber Verbrauchern wäre die Laufzeitregelung an § 309 Nummer 9 BGB anzupassen. Reaktionszeiten und Pauschale stammen aus dem Angebot der Mandantin und sind keine Vorschläge des Skills. Im Mandatslauf der Akte M-26-131 (Freigabestufe 3) wurde die Phase `sacharbeit` gesetzt und die Datei `01_Bearbeitung/Wartungsvertrag_Lagerkern_v01.docx` als Produkt `vertrag-wartung` im Zustand `entwurf` mit Hash eingetragen. Der Skill hat Gate G3 für den Versand des Entwurfs an die Hansekontor Logistik GmbH geöffnet und mandantenkommunikation mit führender Fassung, vier offenen Fragen und dem Honorarstand (Festpreis 3.200 Euro netto) angestoßen. Dort endet der Lauf: Der Entwurf geht erst hinaus, wenn Rechtsanwältin Dr. Ahrens G3 unter Angabe des Dateinamens freigegeben hat.
 
 ### 6.2. Ausformulierte Rückfrageliste an den Mandanten als Brief
 
