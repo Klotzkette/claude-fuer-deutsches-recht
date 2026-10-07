@@ -249,10 +249,10 @@
     "testakten/si-kanzlei-verwaltungsrecht/10_Mandats_und_Honorarvermerk.docx"
   ],
   "assets": {
-    "checksums-sha256.txt": "db4731b34d01e02e28f66c39acee2e82b4df6bbfc79c799c6c7cf9a5ebd7aab1",
-    "ki-native-kanzlei-portable.zip": "5bb54891e73abbdddd46a0691a90a84cf2857513d3dc94af90e7754536acce77",
-    "ki-native-kanzlei-skills-einzelpdfs.zip": "5ba3240ddb7c8f8b7de4192972ddb839ad0f9ed16763adb6622314b9918e659f",
-    "ki-native-kanzlei-skills-handbuch.pdf": "102de3e763888673d426df2bb1b10c6eb5a5541d9276464df08e9473d64fccee",
-    "ki-native-kanzlei.zip": "637af4224335c16d8e4f477509959896c0a1acff557ec876426ecd1cad592044"
+    "checksums-sha256.txt": "ac90d21923eb4349e9ebe5284e3414984dd4cfe0913366338bcdea9c68869685",
+    "ki-native-kanzlei-portable.zip": "124a4f95fc28a3dc8a5dfd50cc022a2939563b3723ca48558d17390708371169",
+    "ki-native-kanzlei-skills-einzelpdfs.zip": "1d4d1846ea663e1e0bc1683c9ca0fb4930a95683acb69f9b6a303be03151f2af",
+    "ki-native-kanzlei-skills-handbuch.pdf": "9a3cd483eba0b5c43a08d9fae4157ef2c4cb865499ecda34c373b965a7eb554b",
+    "ki-native-kanzlei.zip": "5f3b2cee2b3a4b5f9ed3e217a6f3aba0d4217a4cc2411114e591e817948ea952"
   }
 }

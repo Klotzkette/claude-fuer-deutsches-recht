@@ -182,7 +182,7 @@
     },
     {
       "pdf": "anwaltsberufsrecht-pruefen.pdf",
-      "pdf_sha256": "0241da137e4189793e97b399d5c0be3e1af3e190877f25daee1775432310c90c",
+      "pdf_sha256": "8a3831877c38c6dfc411ab0e2b606b553ff2ab63dd2beceb61da248404694879",
       "pages": [
         {
           "page": 1,
@@ -206,7 +206,7 @@
         },
         {
           "page": 5,
-          "characters": 3967,
+          "characters": 3968,
           "inside_page": true
         },
         {
@@ -435,7 +435,7 @@
     },
     {
       "pdf": "geldwaesche-pruefen.pdf",
-      "pdf_sha256": "a356671cb734e2ac0fdc73e89d1f8aeb30d5ba9016bc0296d7c7b790a73fd632",
+      "pdf_sha256": "32efd5e9c977f2de4e30549a3ffed72e0623dea5975df39dddbf9f8bffdd30d8",
       "pages": [
         {
           "page": 1,
@@ -459,7 +459,7 @@
         },
         {
           "page": 5,
-          "characters": 4247,
+          "characters": 4248,
           "inside_page": true
         },
         {
@@ -1285,7 +1285,7 @@
     },
     {
       "pdf": "workflow-uebergabe.pdf",
-      "pdf_sha256": "2825768fb2c32576ec27546c7f31ec9fc6ee0aa33315dbd17346b2b94d6b2772",
+      "pdf_sha256": "2051e83dee66f9b045c1831f624f4f83935b47fe3b6787b0fdc85c50f7601e82",
       "pages": [
         {
           "page": 1,
@@ -1309,7 +1309,7 @@
         },
         {
           "page": 5,
-          "characters": 4103,
+          "characters": 4104,
           "inside_page": true
         },
         {
@@ -1366,7 +1366,7 @@
     },
     {
       "pdf": "zahlungen-buchhaltung.pdf",
-      "pdf_sha256": "80c693d0047b36bf4232f351f7c94da8c90988701345991b77818a93d862cd3f",
+      "pdf_sha256": "f6e8e28179f5f446c9600665f6c3cd3158a1706a191901f285bd6239ed5cfc18",
       "pages": [
         {
           "page": 1,
@@ -1390,7 +1390,7 @@
         },
         {
           "page": 5,
-          "characters": 4032,
+          "characters": 4033,
           "inside_page": true
         },
         {

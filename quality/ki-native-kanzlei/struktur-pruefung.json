@@ -12,8 +12,8 @@
     },
     {
       "skill": "anwaltsberufsrecht-pruefen",
-      "sha256": "de6fce099c47505cb8ec8afd3e8bae982d40f76e72138d6aecf247096a86d6a2",
-      "words_without_frontmatter": 6642
+      "sha256": "41c0b611c0e97bd266dbcd83a053f15ab402e959692c0d2b288832a896d639ef",
+      "words_without_frontmatter": 6643
     },
     {
       "skill": "bea-anlagen-vorbereiten",
@@ -27,8 +27,8 @@
     },
     {
       "skill": "geldwaesche-pruefen",
-      "sha256": "d5a55d91f61a40529c6a32d1e9b7fdede7a775218f108de1fd49b1add6435d6e",
-      "words_without_frontmatter": 6644
+      "sha256": "d6c404e22b5cb661f947219ead3ad00edf2aa7b7bb6eb1b47fac176f41e7ded0",
+      "words_without_frontmatter": 6645
     },
     {
       "skill": "honorar-budget-vereinbaren",
@@ -77,13 +77,13 @@
     },
     {
       "skill": "workflow-uebergabe",
-      "sha256": "ae4149f8a9c37dd350293db71bd3b77160810e6cba872dd7ebfb170804422b88",
-      "words_without_frontmatter": 6468
+      "sha256": "53b8e82feca2a7e8c69c037c31197bdc18468711b1963455f17d89b5b7fbd983",
+      "words_without_frontmatter": 6469
     },
     {
       "skill": "zahlungen-buchhaltung",
-      "sha256": "d2d083ade4ec18025ed7e6ea77899980eacf08820c0a14a5929ce70171a6519f",
-      "words_without_frontmatter": 6715
+      "sha256": "dac6f3fe8bfb91f98e36cf59d05b1d4d376eedada8046893b9d1812bb48219e0",
+      "words_without_frontmatter": 6716
     },
     {
       "skill": "zeiten-erfassen",
