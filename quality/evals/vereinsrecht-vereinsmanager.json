@@ -56,9 +56,10 @@
       "Drei Startmodi und konkrete Überarbeitung nach nachgereichtem Ermächtigungsbeschluss ergänzt; Ausgabeformat eigenständig präzisiert.",
       "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
       "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
-      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a89f56a3157cf1ac827f0efc672f1fb2cd94cef3f288084aa098fd4b08ffe3d0"
+    "sha256": "4be72e1adfd2a31501e327c43cb7f0336ad20c849a5d884a41edf0a43a2ed573"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -124,9 +125,10 @@
       "Einladungsreparatur mit fristgerechter Tagesordnung, Hybridalternative, tatsächlicher Technik und korrigierter Stimmenauswertung bis zur vollständigen Endfassung ausgearbeitet.",
       "II ZR 111/05 in beiden Prompts mit relevanter Mitgliederrechtsverletzung, Nichtigkeitsfolge und Begrenzung auf den Beschluss angewandt.",
       "Paragrafen 32, 33 und 40 BGB anhand aktueller Volltexte auf Versammlungsformat, Mehrheiten und Satzungsabweichungen bezogen.",
-      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess."
+      "Neu formulierte Einladung und begründeter Rat bleiben Endprodukte; kein obligatorischer Prozess.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6f9e7dbe6a1ed6036589b7fb29b097d7c12452f591015963e3dff3b280b8429c"
+    "sha256": "6e9ec8445f078cdbeac4321ad13341efc43ddc1d5a228f2337c906b1991a3d25"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -37,7 +37,7 @@ Paragrafen 182 und 184 AO, Paragrafen 13 bis 15, 25 und 28 GrStG sowie einschlä
 
 ## 5. Ausgabeformat
 
-Liefere Rechenabgleich mit Originalwert, Quelle/Seite, Rohprodukt, abweichendem Bescheidwert und betroffener Stufe. Ergänze das vollständige Überprüfungs- oder Änderungsschreiben mit bestimmtem Ziel. Keine Skelette; Times New Roman 11 pt und dezimale Gliederung bei Textausgabe oder entsprechendem Exporthinweis. Rechenergebnis ist keine Zahlungsfreigabe.
+Liefere Rechenabgleich mit Originalwert, Quelle/Seite, Rohprodukt, abweichendem Bescheidwert und betroffener Stufe. Ergänze das vollständige Überprüfungs- oder Änderungsschreiben mit bestimmtem Ziel. Keine Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei Textausgabe oder entsprechendem Exporthinweis. Rechenergebnis ist keine Zahlungsfreigabe.
 
 ## 6. Beispiele
 

@@ -37,9 +37,10 @@
       "Konkreter Briefinhalt und beauftragte Tatsachenkorrektur bestimmen den Auftakt.",
       "Sozialrechtliche Anhörung, Heilung und Ausnahmegrenzen mit geprüfter BSG-Entscheidung verknüpft.",
       "Leer: Brief erklären, Tatsachen berichtigen oder Nachweise klären. Dateien: still lesen und Erklärung, Antwort oder Nachreichung anbieten. Klar: bestellten verständlichen Brief direkt erstellen.",
-      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis."
+      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f05efc2de3ce4096fc28b44a31f55f945338a156397a358506bd61a029579c85"
+    "sha256": "dc8afa6f6d3de1b075365ba041b86a5390c7ce1dffa32bcd75306f9fccb1cdb1"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -48,9 +49,10 @@
       "Konkreter Briefinhalt und beauftragte Tatsachenkorrektur bestimmen den Auftakt.",
       "Sozialrechtliche Anhörung, Heilung und Ausnahmegrenzen mit geprüfter BSG-Entscheidung verknüpft.",
       "Anhörung/Bescheid-Wechsel, Zahlungsgrund, gezielte Nachreichung, Bußgeldfrist und Trennung von Bestreiten und Ratenantrag vertieft.",
-      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis."
+      "Nachgereichter Bescheid ändert Verfahrensstufe; belegter Rückzahlungsgrund ändert Sachverhalt statt ungefragtem Anerkenntnis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e89496ac77d95d3162093f748d198be2c7e5e6e75613eeda06bd84ac06f27e36"
+    "sha256": "bd167600dfe5bc07fff4838e0f0a562b5e37889501bbce7ae6a661fcba54161f"
   },
   "selection": {
     "positive": [

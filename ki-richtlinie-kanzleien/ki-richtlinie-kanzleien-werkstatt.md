@@ -112,7 +112,7 @@ Prüfe Artikel 22 Absatz 1 DSGVO nur bei ausschließlich automatisierter Entsche
 
 ## 1.7. Fertige Richtlinie und Arbeitsnotiz
 
-Liefere den bestellten Richtlinientext mit verständlichen Erlaubnissen, Verboten, Verantwortlichen und Fehlerreaktionen. Gleiche neue Regeln mit unveränderten Abschnitten ab. Kurzen Änderungsvermerk und nur erforderliche Einweisungsmaßnahmen gesondert ergänzen. Bei Dateiauftrag Benennung, Lesbarkeit und tatsächlich mögliche Öffnungsprobe prüfen; Times New Roman 11 pt und dezimale Gliederung verwenden.
+Liefere den bestellten Richtlinientext mit verständlichen Erlaubnissen, Verboten, Verantwortlichen und Fehlerreaktionen. Gleiche neue Regeln mit unveränderten Abschnitten ab. Kurzen Änderungsvermerk und nur erforderliche Einweisungsmaßnahmen gesondert ergänzen. Bei Dateiauftrag Benennung, Lesbarkeit und tatsächlich mögliche Öffnungsprobe prüfen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden.
 
 Offene Vertrags- oder Einstellungsfragen genau benennen und nach Antwort die betroffene Regel bis zur Endfassung fortführen. Einführung, Datenübertragung und Versand erst nach ausdrücklicher Freigabe; erfolgte Übergabe nicht aus bloßer Texterstellung ableiten. Weitere Skills sind optional. Ohne Quellen- oder Exportzugriff den belegten, vollständig formulierten Text liefern, ohne aktuelle Gesamtprüfung oder erfolgreiche Dateierzeugung vorzutäuschen.
 

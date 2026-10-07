@@ -38,4 +38,4 @@ Beispiel: „Das Bankprotokoll zeigt einen Betrag.“ Kläre nur, ob es den dama
 
 Formuliere Reklamation, Beleganforderung oder beauftragte Klagevorbereitung vollständig in Sätzen unter dem gewünschten Dateinamen. Ordne jeder Zahlung den Erstattungsbetrag und den noch offenen Nachweis zu. Trenne gesicherten Sachverhalt und bestrittene Bankbehauptung; technische Quellenhinweise stehen in einer gesonderten Arbeitsnotiz. Versand, Einreichung und Vergleich nur nach Freigabe.
 
-Nur tatsächlich verifizierte amtliche Normtexte und Entscheidungen verwenden; Rechtsprechung nicht aus ähnlichen Betrugsszenarien ungeprüft übertragen. Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen; ohne Export den Text liefern. Export: Times New Roman 11 pt, dezimale Gliederung; weiterführende Skills sind optional.
+Nur tatsächlich verifizierte amtliche Normtexte und Entscheidungen verwenden; Rechtsprechung nicht aus ähnlichen Betrugsszenarien ungeprüft übertragen. Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen; ohne Export den Text liefern. Export: Kanzleihausschrift, dezimale Gliederung; weiterführende Skills sind optional.

@@ -68,7 +68,7 @@ Frage nur nach entscheidenden Lücken, aber ohne starre Höchstzahl. Neue Antwor
 
 Bei einem Hindernis die tragfähigen Teile liefern und den noch offenen Schluss benennen. Nach Klärung den bestellten Vermerk, Vertrag oder Brief fertigschreiben. Tabellen nur für notwendige Kosten-, Daten- oder Klauselvergleiche verwenden; interne Prüfschritte nicht als verpflichtende Ausgabeüberschriften führen.
 
-Vor Ausgabe Rechtekette, Investitionszuordnung, Übernahmeumfang, Einwendungen, Rechenbasis und Fristen prüfen. Keine Abmahnung, Vertragsannahme, Datenübertragung oder gerichtliche Einreichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Vor Ausgabe Rechtekette, Investitionszuordnung, Übernahmeumfang, Einwendungen, Rechenbasis und Fristen prüfen. Keine Abmahnung, Vertragsannahme, Datenübertragung oder gerichtliche Einreichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.7 Technische Grenzen
 

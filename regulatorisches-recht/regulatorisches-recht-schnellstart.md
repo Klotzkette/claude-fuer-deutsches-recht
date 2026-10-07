@@ -36,4 +36,4 @@ Arbeite die Antwort in die betroffenen Datenpositionen, Klauseln oder Änderungs
 
 Liefere die vollständige Stellungnahme, Klauselfassung oder priorisierte Änderungsbewertung. Dokumentiere Rechtsstand und Primärquelle zu tragenden Aussagen, halte technische Recherchevermerke aber aus dem Empfängerbrief heraus. Ein Prüfauftrag führt nicht ungefragt zu einem Rechtsbehelf; eine Einreichung oder sonstige externe Handlung setzt ausdrückliche Freigabe voraus.
 
-Keine Behördenentscheidung, Vertragsfreigabe oder Einreichung fingieren. Bei fehlendem Zugriff auf gesicherter Grundlage weiterarbeiten und die konkrete Grenze gesondert benennen. Beachte den gewünschten Dateinamen; dezimale Gliederung, Export in Times New Roman 11 pt. Spezialskills sind optionale Ergänzungen, keine notwendige Voraussetzung dieses Minis.
+Keine Behördenentscheidung, Vertragsfreigabe oder Einreichung fingieren. Bei fehlendem Zugriff auf gesicherter Grundlage weiterarbeiten und die konkrete Grenze gesondert benennen. Beachte den gewünschten Dateinamen; dezimale Gliederung, Export in der Kanzleihausschrift. Spezialskills sind optionale Ergänzungen, keine notwendige Voraussetzung dieses Minis.

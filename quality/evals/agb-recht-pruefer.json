@@ -93,9 +93,10 @@
       "III ZR 426/23 mit Teilbarkeitsfolge und Grenzen in den eigenständigen Mini aufgenommen.",
       "Leerstart: Klauselprüfung, Ersatzregel oder AGB-Beanstandung anbieten. Dateien: Abschlussfassung still lesen; Stornopauschale, Neuvertrag oder Abmahnung passend eingrenzen. Klarer Auftrag: Gewünschte Klausel oder Antwort ohne erneute Vertragsaufnahme ausarbeiten.",
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
-      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt."
+      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5fb0e0d7568cba5840b650693740d6c4dd05fb8f3c758bb38dc658ba6eedcfe5",
+    "sha256": "4c9c946d99672eee19821b36daccd33ee6941a71e9a0549c0c07b86c329beea3",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -107,9 +108,10 @@
       "Transparenzgrenze und unionsrechtliche Grenzen der Lückenfüllung mit tatsächlichem Auslöser und Reichweite erläutert.",
       "Storno im Alt- und Neufall, Haftungsdeckel bei Schadenshäufung und widersprochene Vertragsumstellung mit vollständigen Textfolgen.",
       "Fehlende Schadensstatistik führt zur konkreten Schadensregel; Kundenwiderspruch verändert Umstellung in ausdrückliches Änderungsangebot.",
-      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt."
+      "Zweiter Durchgang 30.09.2026: Verbraucherinteresse und fehlendes freies Wahlrecht zur Gesamtnichtigkeit nach XI ZR 46/25 getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b9dd731e3959ebed2bbeac699e6b5ce27104d635eee0705eab44f88101801faa",
+    "sha256": "6371be13f2e03f5a947831f7e04508403a600b710c1f83b03138de2c1e3e19ba",
     "reviewed_on": "2026-09-30"
   },
   "selection": {

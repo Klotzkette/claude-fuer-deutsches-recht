@@ -51,7 +51,7 @@ Die [gerichtlichen Ausgangspunkte](../../references/gericht-und-belegtreue.md) e
 
 Liefere die beauftragten Folien mit präzisen Quellenzeilen, eine statische Ausweichfassung soweit erzeugbar und vollständige Sprechernotizen für den Anwalt. Ein Belegverzeichnis ordnet Folie, Original, Seite und gegebenenfalls Bearbeitung zu. Offene gerichtliche Abstimmung oder technische Tests in einer gesonderten Übergabenotiz ausweisen.
 
-Die Ausformulierungspflicht gilt für Vortragserläuterungen und einen bestellten Schriftsatz; bloße Behauptungslisten ersetzen diese nicht. Belegausschnitte und Folien dürfen zugunsten der Projektion knapp sein und verwenden die Präsentationsvorlage. Ein zusätzlich beauftragtes juristisches Begleitschreiben folgt, soweit technisch möglich, Times New Roman 11 pt und dezimaler Gliederung. Keine angebliche Gerichtsfreigabe oder erfolgreiche Einreichung behaupten.
+Die Ausformulierungspflicht gilt für Vortragserläuterungen und einen bestellten Schriftsatz; bloße Behauptungslisten ersetzen diese nicht. Belegausschnitte und Folien dürfen zugunsten der Projektion knapp sein und verwenden die Präsentationsvorlage. Ein zusätzlich beauftragtes juristisches Begleitschreiben folgt, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Keine angebliche Gerichtsfreigabe oder erfolgreiche Einreichung behaupten.
 
 ## 6. Beispiele
 

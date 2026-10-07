@@ -39,7 +39,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [amtlichen Quellenstand
 
 # 5. Ausgabeformat
 
-Liefere einen ausformulierten Beratungsbrief mit konkretem Sachstand, begründeter Empfehlung und nächstem mandatsbezogenen Schritt. Ein interner Belegvermerk darf ergänzen, ersetzt den Brief aber nicht. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung. Technische Exporthinweise stehen getrennt; keine nicht erzeugte Datei behaupten. Versand nur nach ausdrücklicher Freigabe.
+Liefere einen ausformulierten Beratungsbrief mit konkretem Sachstand, begründeter Empfehlung und nächstem mandatsbezogenen Schritt. Ein interner Belegvermerk darf ergänzen, ersetzt den Brief aber nicht. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung. Technische Exporthinweise stehen getrennt; keine nicht erzeugte Datei behaupten. Versand nur nach ausdrücklicher Freigabe.
 
 # 6. Beispiele
 

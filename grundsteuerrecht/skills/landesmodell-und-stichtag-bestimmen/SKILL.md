@@ -37,7 +37,7 @@ Verwende [Fachquellen](../../references/grundsteuer-quellen.md) und [Zitierweise
 
 ## 5. Ausgabeformat
 
-Liefere einen knappen, ausformulierten Zuständigkeits- und Normenvermerk mit Tabelle: Parameter, Lage/Jahr, anwendbare Quelle, gesichert/offen. Schließe mit dem daraus folgenden konkreten Arbeitsweg. Vollständige Sätze statt Skelette; Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
+Liefere einen knappen, ausformulierten Zuständigkeits- und Normenvermerk mit Tabelle: Parameter, Lage/Jahr, anwendbare Quelle, gesichert/offen. Schließe mit dem daraus folgenden konkreten Arbeitsweg. Vollständige Sätze statt Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
 
 ## 6. Beispiele
 

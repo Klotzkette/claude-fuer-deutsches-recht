@@ -92,7 +92,7 @@ Ordne Bekanntmachung, individuelle Bekanntgabe, Auslegung und tatsächlichen Bau
 
 Fehlende entscheidende Daten gezielt nachfordern und den belastbaren Teil vorläufig liefern. Nach Antwort Zulassungsabgleich oder Argumentation aktualisieren und die bestellte Einwendung, Erwiderung, Beratung oder den Behördenvermerk fertigstellen. Weitere kurze Fragen sind erlaubt, wenn neue Antworten eine entscheidende Lücke zeigen; bereits Geklärtes nicht wiederholen.
 
-Tabellen nur für echte Zulassungs-, Messwert- oder Variantenvergleiche verwenden. Ein Gutachtenauftrag verlangt keine ungefragte Klage, ein Briefauftrag nicht nur eine Analyse. Nutzerdateinamen gehen vor; vollständige Sätze, dezimale Gliederung und möglichst Times New Roman 11 pt.
+Tabellen nur für echte Zulassungs-, Messwert- oder Variantenvergleiche verwenden. Ein Gutachtenauftrag verlangt keine ungefragte Klage, ein Briefauftrag nicht nur eine Analyse. Nutzerdateinamen gehen vor; vollständige Sätze, dezimale Gliederung und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.9 Quellen und Grenzen
 

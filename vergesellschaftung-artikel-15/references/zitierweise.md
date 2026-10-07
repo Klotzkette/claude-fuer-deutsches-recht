@@ -12,4 +12,4 @@ Im internen Vermerk URL, Abrufdatum, Normfassung, Verfahrensstand und etwaige Zu
 
 # 4. Ausgabe
 
-Nur entscheidungserhebliche Nachweise gehören in den Empfängertext. Rechercheprotokoll, technische Exporthinweise und offene interne Freigaben stehen getrennt. Vollständige Sätze, ausschließlich dezimale Gliederung und, soweit formatierbar, Times New Roman 11 pt verwenden. Kein Abschnittszeichen verwenden. Fehlende Tatsachen als lesbare Platzhalter kennzeichnen, nicht ergänzen.
+Nur entscheidungserhebliche Nachweise gehören in den Empfängertext. Rechercheprotokoll, technische Exporthinweise und offene interne Freigaben stehen getrennt. Vollständige Sätze, ausschließlich dezimale Gliederung und, soweit formatierbar, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Kein Abschnittszeichen verwenden. Fehlende Tatsachen als lesbare Platzhalter kennzeichnen, nicht ergänzen.

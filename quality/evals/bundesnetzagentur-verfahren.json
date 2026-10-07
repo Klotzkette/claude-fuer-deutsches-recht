@@ -46,9 +46,10 @@
       "EnVR 12/18 einschließlich Berichtigung und Ausnahmen bei Erlösobergrenze/Regulierungskontosaldo eingeordnet.",
       "Geheimnisqualität, gesetzliche Offenlegungsbefugnis und Interessenabwägung getrennt.",
       "Leer: Datenauskunft, Kostenbeschwerde oder Veröffentlichungsschutz. Dateien: still lesen und sektorgerechtes Dokument anbieten. Klar: direkt Antwort, Beschwerde oder Schutzantrag ausarbeiten.",
-      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung."
+      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9261034bd2e25ee54cc9dd9f55fd3061376cbf21f78f1e443e0c3c38b551b129"
+    "sha256": "2f7dd2a4cbeef046bb175aaecf2391e419e5ddde3220bc5731a6ecb31ab2f1b0"
   },
   "selection": {
     "positive": [
@@ -101,9 +102,10 @@
       "EnVR 12/18 einschließlich Berichtigung und Ausnahmen bei Erlösobergrenze/Regulierungskontosaldo eingeordnet.",
       "Geheimnisqualität, gesetzliche Offenlegungsbefugnis und Interessenabwägung getrennt.",
       "Rechtsträger- und Messdatenabgrenzung, Kostenbeweis, getrennte Beschwerdefristen und vollständige/veröffentlichungsfähige Fassungen vertieft.",
-      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung."
+      "Konzerndaten ändern Abgrenzung; tatsächliche Einlegung ändert Begründungsfrist; öffentliche Quelle verengt Geheimnisschutzfassung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "775afc9a63bca895e83a015bcdd9305e6601c97542dbca64d63cc18aa92b5a1c"
+    "sha256": "668208dcc5ed492f0cceb9e02737f5632a38ff389fc0b19d7117d9eec100fbcf"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

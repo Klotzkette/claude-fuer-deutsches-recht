@@ -36,9 +36,10 @@
       "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
       "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
       "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "626cd0ab83e7a0b88af43cbadd752c8e7e44ed204196830edb8893fd2f9ed808"
+    "sha256": "c2e394a4cc4492098d9fb62f47606accf2643c3861062a39c7e8410a30202297"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -47,9 +48,10 @@
       "Fehlerhafte Entwurfsbeschränkung und Satz, der Status nur aus Geschäftsbezeichnung ableitet, entfernt.",
       "Alle zwölf bestehenden Handelsrechtsgebiete samt Fortsetzung und Empfängertext erhalten und materiell präzisiert.",
       "VIII ZR 246/16 zu Untersuchung, Handelsbrauch und AGB praktisch angewendet.",
-      "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung."
+      "Chargenweise Rüge und Beweis, interne/äußere Vollmacht, Genehmigungsumfang, Firmenfortführung und präzise Leistungsaufforderung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bc0f0f484d1974eef2a12a47a8c69e280c273017b9d684026ab9a9040134aff2"
+    "sha256": "1b03f117b0d499b87160fa6cabf35371c5fa37ec8109d9828f59fe29cb32fad0"
   },
   "selection": {
     "positive": [

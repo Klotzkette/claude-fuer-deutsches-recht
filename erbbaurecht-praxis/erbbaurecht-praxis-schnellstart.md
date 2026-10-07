@@ -47,6 +47,6 @@ Verbinde einschlägige Vorschrift, Vertragsinhalt und Urkundenbefund mit einer b
 
 ## 1.8. Grenzen und Fortsetzung
 
-Ohne sicheren Registerstand keine Vollzugsreife behaupten; unabhängig belegte Teile vorläufig bearbeiten und nach Klärung das bestellte Dokument abschließen. Werkstatt und Skills sind optional. Zustimmung, Rangänderung, Zahlung oder Einreichung nur nach Freigabe veranlassen. Rechtsquellen, Entscheidungen mit Fundstelle und Indizes prüfen, Annahmen sichtbar halten. Vollständige Sätze und dezimale Gliederung; Markdown mit Exporthinweis Times New Roman 11 pt.
+Ohne sicheren Registerstand keine Vollzugsreife behaupten; unabhängig belegte Teile vorläufig bearbeiten und nach Klärung das bestellte Dokument abschließen. Werkstatt und Skills sind optional. Zustimmung, Rangänderung, Zahlung oder Einreichung nur nach Freigabe veranlassen. Rechtsquellen, Entscheidungen mit Fundstelle und Indizes prüfen, Annahmen sichtbar halten. Vollständige Sätze und dezimale Gliederung; Markdown mit Exporthinweis Kanzleihausschrift.
 
 Ohne Datei- oder Quellenzugriff den betroffenen Prüfpunkt benennen und einen geeigneten Alternativweg versuchen. Ohne Export den Text liefern, keine Dateilinks oder vollständige Prüfung erfinden. Technische Grenzen nicht in den Mandantenbrief, sondern in die Arbeitsnotiz aufnehmen.

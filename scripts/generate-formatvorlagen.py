@@ -4,7 +4,7 @@
 Ausgabe: testakten/formatvorlagen-paradebeispiele/<plugin>/<filename>.{md,odt}
 
 Regeln:
-- Times New Roman 11pt, A4, ordentliche Ränder (2,5 cm umlaufend)
+- Hausschrift und Grundgröße aus hausstil.json, A4, ordentliche Ränder (2,5 cm umlaufend)
 - kurzer Warnhinweis oben: Arbeitsvorlage, keine Haftung
 - Felder mit [Bracketed-Variables]
 - Bei bilingualen Vorlagen: Maßgeb-Klausel deutsche Fassung
@@ -14,6 +14,14 @@ from __future__ import annotations
 from pathlib import Path
 import shutil
 import subprocess
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hausstil  # noqa: E402
+
+HAUSSTIL = hausstil.lade_hausstil()
+SCHRIFT = HAUSSTIL.schrift
+GRUNDGROESSE = hausstil.groesse_in_punkt(HAUSSTIL)
 
 try:
     from odf.opendocument import OpenDocumentText
@@ -42,7 +50,7 @@ def make_doc():
     doc = OpenDocumentText()
     # Schrift registrieren
     doc.fontfacedecls.addElement(
-        FontFace(name='Times New Roman', fontfamily='Times New Roman',
+        FontFace(name=SCHRIFT, fontfamily=SCHRIFT,
                  fontfamilygeneric='roman', fontpitch='variable'))
 
     # Seitenformat A4 mit 2,5 cm Rändern
@@ -56,23 +64,24 @@ def make_doc():
     mp = MasterPage(name='Standard', pagelayoutname='Standard')
     doc.masterstyles.addElement(mp)
 
-    # Default-Body-Stil: Times New Roman 11pt
+    # Default-Body-Stil: Hausschrift in Grundgroesse
     default = Style(name='Default', family='paragraph')
-    default.addElement(TextProperties(fontname='Times New Roman', fontsize='11pt'))
+    default.addElement(TextProperties(fontname=SCHRIFT, fontsize=f'{GRUNDGROESSE:g}pt'))
     default.addElement(ParagraphProperties(textalign='justify', marginbottom='0.2cm'))
     doc.styles.addElement(default)
 
     # Kursivstil für Warnhinweis
     italic = Style(name='Warnhinweis', family='paragraph', parentstylename='Default')
-    italic.addElement(TextProperties(fontname='Times New Roman', fontsize='10pt',
+    italic.addElement(TextProperties(fontname=SCHRIFT, fontsize='10pt',
                                      fontstyle='italic', color='#444444'))
     italic.addElement(ParagraphProperties(textalign='justify', marginbottom='0.4cm'))
     doc.automaticstyles.addElement(italic)
 
     # Header-Stile
-    for lvl, sz in [(1, 16), (2, 13), (3, 11.5)]:
+    # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+    for lvl, sz in [(1, GRUNDGROESSE + 5), (2, GRUNDGROESSE + 2), (3, GRUNDGROESSE + 0.5)]:
         s = Style(name=f'H{lvl}', family='paragraph', parentstylename='Default')
-        s.addElement(TextProperties(fontname='Times New Roman', fontsize=f'{sz}pt',
+        s.addElement(TextProperties(fontname=SCHRIFT, fontsize=f'{sz}pt',
                                     fontweight='bold'))
         s.addElement(ParagraphProperties(textalign='left',
                                          margintop='0.4cm', marginbottom='0.2cm'))
@@ -80,14 +89,14 @@ def make_doc():
 
     # Center + Bold
     center_bold = Style(name='CenterBold', family='paragraph', parentstylename='Default')
-    center_bold.addElement(TextProperties(fontname='Times New Roman',
-                                           fontsize='12pt', fontweight='bold'))
+    center_bold.addElement(TextProperties(fontname=SCHRIFT,
+                                           fontsize=f'{GRUNDGROESSE + 1}pt', fontweight='bold'))
     center_bold.addElement(ParagraphProperties(textalign='center', marginbottom='0.2cm'))
     doc.automaticstyles.addElement(center_bold)
 
     # Center
     center = Style(name='Center', family='paragraph', parentstylename='Default')
-    center.addElement(TextProperties(fontname='Times New Roman', fontsize='11pt'))
+    center.addElement(TextProperties(fontname=SCHRIFT, fontsize=f'{GRUNDGROESSE:g}pt'))
     center.addElement(ParagraphProperties(textalign='center', marginbottom='0.2cm'))
     doc.automaticstyles.addElement(center)
 

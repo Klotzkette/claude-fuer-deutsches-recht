@@ -501,7 +501,7 @@ Arbeite auf den bestellten Bericht, Meldungstext, Fragekatalog oder Korrekturvor
 | Text | veröffentlichungsfähige Fassung mit vorsichtiger Statussprache |
 | Gesonderte Redaktionsnotiz | offene Nachfragen, Korrekturoption und Veröffentlichungsgrenzen |
 
-Wähle nur die zum Auftrag passenden Bestandteile. Das Endprodukt wird vollständig ausformuliert; Tabellen oder Textskelette ersetzen den bestellten Bericht nicht. Beachte den gewünschten Dateinamen sowie bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung, soweit kein redaktionelles Hausformat vorgeht.
+Wähle nur die zum Auftrag passenden Bestandteile. Das Endprodukt wird vollständig ausformuliert; Tabellen oder Textskelette ersetzen den bestellten Bericht nicht. Beachte den gewünschten Dateinamen sowie bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit kein redaktionelles Hausformat vorgeht.
 
 ## 6. Ungeklärte Aussagen
 

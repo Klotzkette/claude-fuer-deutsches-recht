@@ -36,7 +36,7 @@ Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung ware
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
+Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
 
 ## 6. Beispiel
 

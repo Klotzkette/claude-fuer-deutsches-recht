@@ -4,7 +4,7 @@
 
 Die nachstehenden öffentlichen amtlichen Quellen wurden am 6. Oktober 2026 live geöffnet und inhaltlich geprüft. Ein Quellenabruf ist keine Prüfung des konkreten berechtigten Interesses, der Vertretung, eines Empfängers oder eines importierten Ortsprofils. Vor einer Einreichung muss die Rechtsabteilung den aktuellen Rechts- und Verfahrensstand erneut prüfen. Die Zitierweise folgt [der zentralen Referenz](../../references/zitierweise.md).
 
-Der Dokumentenbaustein erzeugt deterministisch vier Entwürfe aus den Vorgangsangaben. Er recherchiert weder Eigentümer noch führt er einen Grundbuchabruf durch. Er versendet keine Anfrage und beauftragt keinen Notar. Alle Ausgaben bleiben als `ENTWURF - NICHT FREIGEGEBEN` markiert. HTML ist vollständig und wird als `.html` ausgegeben; DOCX wird tatsächlich mit `python-docx` erstellt. Die Grundschrift ist Times New Roman, 11 pt. Überschriften sind dezimal gegliedert; der Text besteht aus ausformulierten Sätzen und zeigt fehlende Angaben als `[ergänzen]`.
+Der Dokumentenbaustein erzeugt deterministisch vier Entwürfe aus den Vorgangsangaben. Er recherchiert weder Eigentümer noch führt er einen Grundbuchabruf durch. Er versendet keine Anfrage und beauftragt keinen Notar. Alle Ausgaben bleiben als `ENTWURF - NICHT FREIGEGEBEN` markiert. HTML ist vollständig und wird als `.html` ausgegeben; DOCX wird tatsächlich mit `python-docx` erstellt. Die Grundschrift ist Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Überschriften sind dezimal gegliedert; der Text besteht aus ausformulierten Sätzen und zeigt fehlende Angaben als `[ergänzen]`.
 
 ## 2. Bundesrechtliche Zugangswege
 

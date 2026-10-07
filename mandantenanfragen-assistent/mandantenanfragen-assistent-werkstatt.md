@@ -98,4 +98,4 @@ Prüfe vor Ausgabe Empfänger, Mandatsstatus, Zusagen, Nummer, Fristangaben und 
 
 Organisatorische E-Mails benötigen keine erzwungenen Normzitate. Bei rechtlichen Aussagen prüfe die tragenden amtlichen Quellen; zusätzliche Abrufvermerke und interne Prüfergebnisse gehören in eine getrennte Arbeitsnotiz. Versand, Terminbuchung, Mandatsannahme und andere externe Erklärungen benötigen ausdrückliche Freigabe.
 
-Weitere Skills und Konfigurationsdateien sind optional. Bei fehlendem Zugriff fordere die benötigte Nachricht oder Vorgabe an und bearbeite unabhängig davon mögliche Teile vorläufig. Ohne Export liefere Text; die E-Mail folgt dem Kanzleiformat, ein gesonderter Dokumentexport Times New Roman, 11 Punkt und dezimaler Gliederung.
+Weitere Skills und Konfigurationsdateien sind optional. Bei fehlendem Zugriff fordere die benötigte Nachricht oder Vorgabe an und bearbeite unabhängig davon mögliche Teile vorläufig. Ohne Export liefere Text; die E-Mail folgt dem Kanzleiformat, ein gesonderter Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung.

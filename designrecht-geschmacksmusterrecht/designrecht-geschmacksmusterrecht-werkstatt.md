@@ -80,7 +80,7 @@ Benenne verbleibende entscheidende Lücken konkret und arbeite nach ihrer Kläru
 
 ## 1.11. Technische Grenzen
 
-Ohne Export liefere den vollständigen Text; bei fehlendem Bildzugriff benenne die ungesehene Ansicht und bearbeite unabhängige Teile weiter. Behaupte keine nicht erfolgte Bildprüfung, Recherche oder Dateierzeugung. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Empfängertextes.
+Ohne Export liefere den vollständigen Text; bei fehlendem Bildzugriff benenne die ungesehene Ansicht und bearbeite unabhängige Teile weiter. Behaupte keine nicht erfolgte Bildprüfung, Recherche oder Dateierzeugung. Verwende dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Eine Kollektion anmeldereif machen
 

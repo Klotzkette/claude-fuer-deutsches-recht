@@ -1,3 +1,21 @@
+# v445.34.0 - Hausschrift aus einer Quelle
+
+## 1. Eine Quelle für Schrift und Grundgröße
+
+`hausstil.json` legt den neutralen Standard der Arbeitsprodukte fest: Schrift, Grundgröße und Gliederung. Skills, Prompts und References nennen eine Schrift nur noch in der Phrase „Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt“; Schnellstart- und Hauptproblem-Prompts tragen wegen ihrer Bytegrenze die Kurzform „Kanzleihausschrift“. Die fünf Builder `generate-formatvorlagen.py`, `build-bauwirtschaft-werkstatt-handbuch.py`, `render-startup-gruender-werkstatt.py`, `render-registerwerkstaetten.py` und `build-ki-verordnung-hochrisiko-pruefer.py` lesen Schrift und Größe aus derselben Quelle. Eine Kanzlei setzt ihre eigene Schrift allein im Kanzleiprofil ihrer CLAUDE.md; `references/kanzleiprofil.md` beschreibt den Mechanismus.
+
+## 2. Werkzeuge und Ausnahmen
+
+`scripts/apply-hausstil.py` ersetzt freie Schriftangaben durch die Phrase, `scripts/audit-hausstil.py` meldet jede Schriftnennung außerhalb der Phrase und der eingetragenen Ausnahmen, `scripts/refresh-pruefhashes-nach-hausstil.py` zieht die Prüfhashes der Quellenprofile nach, wenn sich eine Datei nur mechanisch geändert hat. Begründete Ausnahmen wie amtliche Layouts, Anlagenstempel, Barrierefreiheitsvorgaben und plugin-eigene Renderer stehen mit Grund in `hausstil.json`.
+
+## 3. Prüfung
+
+Eigenschaftstests mit hypothesis und Mutationstests mit mutmut sichern beide Bibliotheken unter `scripts/tests/`; die Abhängigkeiten stehen in `requirements-dev.txt`, die mutmut-Konfiguration in `setup.cfg`. 740 Prüfvermerke in `quality/evals/` wurden mechanisch nachgezogen; der Fachinhalt der geprüften Dateien ist unverändert. Sechs von Hand kompakt geschriebene Profile (`bauwirtschaft-anfaenger`, `bauwirtschaft-fortgeschrittene`, `juristische-praesentationen`, `ki-verordnung-hochrisiko-pruefer`, `ki-verordnung-transparenzpruefer`, `ki-vo-ai-act-pruefer`) stehen dabei in die kanonische JSON-Form von `quality_lab.save`; ihr Inhalt ist bis auf Hash und Änderungseintrag gleich.
+
+## 4. Nachbesserungen nach Code-Review
+
+Der Formatblock der Skills entsteht jetzt in `hausstil.formatblock`; `inject-ausformulierungspflicht.py` hebt jedes Markerpaar in jeder Markdown-Datei des Repositorys auf diese eine Fassung, also auch die 219 Kopien in References, und `generate-megaprompt.py` baut die Vollprüfungen daraus neu. Der Block schließt „Kanzleiprofil“ mit dem deutschen Anführungszeichen; CLAUDE.md und `references/kanzleiprofil.md` ebenso. Der Hash-Nachzug erkennt nur noch den gerade erzeugten Block als mechanisch und schreibt ein Profil nur, wenn es in kanonischer JSON-Form steht; sonst meldet er die Stelle. Die Ersetzung freier Schriftangaben behandelt JSON mit ASCII-Escapes, Betonung nach „in“ (`in **Arial 11 pt**` wird `in der **…**`), eine Angabe hinter „ohne Profil“ (keine Verdopplung) und lässt eine über zwei Zeilen umbrochene Angabe stehen, damit die Zeilenzahl bleibt; `apply-hausstil.py` erhält CRLF-Zeilenenden und überspringt eine Datei, die kein UTF-8 ist, mit Meldung. Die Überschriftengrößen der fünf Builder folgen der Grundgröße aus `hausstil.json`; `groesse_in_punkt` liefert für ganze Größen eine ganze Zahl, so dass QA-Protokolle weiterhin `11` aufzeichnen. Der Schlüssel `pdf_uses_times_new_roman` im Ergebnis von `render-startup-gruender-werkstatt.py` heißt seit dieser Version `pdf_uses_house_font`; ältere Protokolle unter `quality/startup-gruender/` tragen den alten Namen. Die englische README von `corporate-contract-law` nennt die deutsche Phrase als zitierte Regel. Ein Test prüft, dass jede Hashform der echten Profile vom Nachzug erfasst wird.
+
 # bauwirtschaft-rundum-v445.33.2 - Praxisakten mit zusätzlichen Originalbelegen
 
 ## 1. Bestehende Fälle vertieft

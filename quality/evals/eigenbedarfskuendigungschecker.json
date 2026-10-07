@@ -412,16 +412,18 @@
     "verdict": "revised",
     "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
     "changes": [
-      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a4938b05862e3f409534359aff6163c2ec0354637567aeee17c05430431ab373"
+    "sha256": "fd26feefe1d527cd9d4d0cfbb91eeb9cb60432b9a11a722d583df8116c5ad17d"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Individueller Eigenbedarfsworkflow bis zum beauftragten Schreiben.",
     "changes": [
-      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet."
+      "Textform, Umwandlung, Alternativwohnung und aktuelle Härterechtsprechung getrennt eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0fade5b70f5de776152d13b392323dc2f7b56d90f29cfb81d2ebfac5701bf350"
+    "sha256": "a3ea22598239e126f50e0dd0f2b018047133aab48c0c93034525ee6288292f77"
   }
 }

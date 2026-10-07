@@ -48,7 +48,7 @@ Verordnung (EU) 2024/1624 gilt grundsätzlich ab 10. Juli 2027. Artikel 51 bis 5
 
 „Die Holding wird durch einen Treuhänder kontrolliert“ verändert die Kontrollkette: Vereinbarung prüfen und KYC-Vermerk sowie gezielte Nachforderung anpassen. „Zahlung kam doch vom Käufer“ verlangt Belegabgleich und neue Meldebegründung, keine automatische Entwarnung. Unverzügliche Meldung nicht durch weitere Fragen verzögern.
 
-Liefere das bestellte Dokument ausformuliert. Bei entscheidender Lücke die Freigabe offenhalten und den belegbaren Teil mit Nachforderung liefern; nach Antwort fertigstellen. Keine Zahlungsumstände erfinden. Quellenstatus und Verdachtsprüfung vom Außenbrief trennen; Paragraf 47 beachten. Times New Roman 11 pt, dezimale Gliederung.
+Liefere das bestellte Dokument ausformuliert. Bei entscheidender Lücke die Freigabe offenhalten und den belegbaren Teil mit Nachforderung liefern; nach Antwort fertigstellen. Keine Zahlungsumstände erfinden. Quellenstatus und Verdachtsprüfung vom Außenbrief trennen; Paragraf 47 beachten. Kanzleihausschrift, dezimale Gliederung.
 
 Amtliche Quellen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [GwGMeldV](https://www.gesetze-im-internet.de/gwgmeldv/), [Verordnung 2024/1624](https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu), [EuGH C-305/05](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:62005CJ0305). Fehlender Registerzugang beseitigt nicht die Eigentümerprüfung.
 

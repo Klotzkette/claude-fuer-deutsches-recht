@@ -42,9 +42,10 @@
       "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
       "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
       "Stilles Lesen bei Dateien ohne Aufgabe, unmittelbarer Entwurf bei klarem Auftrag und konkrete Fortsetzung bei neuen Plan- oder Personalangaben ergänzt.",
-      "Organisatorischen Zeitdruck vom Rechtsbehelfsbeginn getrennt; keine Rückdatierung oder erfundene Spontaneität."
+      "Organisatorischen Zeitdruck vom Rechtsbehelfsbeginn getrennt; keine Rückdatierung oder erfundene Spontaneität.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "29126dd1853601bdffebcc57519d58b08179da8391d6f346b2c34fb4e9cd5195",
+    "sha256": "6aba331093ad5bd65c06c6a01ead3f349e54db61ab641baef94105b9a8343936",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -99,9 +100,10 @@
       "Beide Einstiege konkretisiert und Polizeinotstand mit Nachweisfragen und gegenteiliger Eilfolge differenziert.",
       "Ungeprüften Brokdorf-Verweis ersetzt; Anzeige, Kooperation, Vollzug, Aufnahmen und Nachbereitung erhalten.",
       "Routenalternative mit Engpass, Anreise, Sicht- und Hörbezug, Personal und tatsächlichem Kooperationsstand ausgearbeitet.",
-      "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt."
+      "Gegenbelege ändern Gefahrenprognose und Antrag; nach erledigtem Termin wird das fortbestehende Rechtsschutzziel geklärt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "825314cc504e34c8d5b94759e5bf5b47bea3f4afbd7ccce739d91dc1819b59e9",
+    "sha256": "4b10ec0681196ff63f8cc4d1e70169765b87be83014a273b9db0777ba0ca1259",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

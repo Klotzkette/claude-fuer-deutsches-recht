@@ -69,9 +69,10 @@
     "reason": "Kurzprompt vollständig erneut gelesen. Drei Einstiegswege und konkrete Folgen von Kautionsnachweis sowie Reparaturmehrkosten für Schreiben und Budget ergänzt; vorhandene Wohnraumgrenzen erhalten.",
     "changes": [
       "Übernahmebericht, Mieterbrief oder Rechnungslegung als konkrete Wege bei leerer Eingabe; Dateien ohne Aufgabe still lesen.",
-      "Nachgewiesene Kautionsanlage verändert Einwand und Brief; geänderte Reparaturkosten verändern Budget, Vorschuss und Verteilungsempfehlung."
+      "Nachgewiesene Kautionsanlage verändert Einwand und Brief; geänderte Reparaturkosten verändern Budget, Vorschuss und Verteilungsempfehlung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5e317110184cd939c30de2bb753a4c789b72a1e6d5d4f7bc15c5de2e17eacb23",
+    "sha256": "fb6da7038c58b7b71717e48b826bc2d0c36eb271c85431f3af017f5f02ccb722",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -81,9 +82,10 @@
     "changes": [
       "Überlassungszeitpunkt und ungeklärte Besitzverhältnisse verändern Bericht und Mieterinformation.",
       "Kautionsbelege, tatsächlicher Zahlungseingang und höhere Reparaturkosten bis zur aktualisierten Vorschussbegründung verfolgen.",
-      "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen."
+      "Schlussrechnung bei Aufhebung von Endabrechnung nach abgeschlossenem Zahlungsverkehr unterscheiden; weitere Zahlungsvorgänge nachführen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1a449d56159247f1184d2e59a03c002e0e6cadf3436768628cf2c910bbca7342",
+    "sha256": "0431433fea978a14410550ad751f8ee1ed55c4485e5f7b77959f89124538bc66",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },

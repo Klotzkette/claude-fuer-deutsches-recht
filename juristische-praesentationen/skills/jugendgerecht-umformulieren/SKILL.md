@@ -51,7 +51,7 @@ Die Quellen aus dem Fachvortrag nach [Zitierweise](../../references/zitierweise.
 
 Liefere eine getrennte, klar benannte Sprachfassung mit angepassten Folien und vollständig ausformulierten Sprechernotizen. Nur die tatsächlich geänderten Stellen zusätzlich erläutern, wenn dies für die Prüfung nützlich ist. Ein Registerwechsel ist kein neues Rechtsgutachten und kein Anlass für zusätzliche unbestellte Dateien.
 
-Die Ausformulierungspflicht gilt unverändert: verständliche vollständige Sätze statt unlesbarer Schlagwortketten. Knappe Folien sind durch den Vortrag begründet; die Notizen tragen die genaue Erklärung. Die Präsentationsvorlage bleibt erhalten. Gesonderte juristische Begleitdokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung und bleiben sachlich, sofern nichts anderes ausdrücklich beauftragt ist.
+Die Ausformulierungspflicht gilt unverändert: verständliche vollständige Sätze statt unlesbarer Schlagwortketten. Knappe Folien sind durch den Vortrag begründet; die Notizen tragen die genaue Erklärung. Die Präsentationsvorlage bleibt erhalten. Gesonderte juristische Begleitdokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung und bleiben sachlich, sofern nichts anderes ausdrücklich beauftragt ist.
 
 ## 6. Beispiele
 

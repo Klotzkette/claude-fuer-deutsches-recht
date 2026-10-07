@@ -94,6 +94,6 @@ Wird eine Garantie angeboten, prüfe Aussteller, Begünstigten, Betrag, Laufzeit
 
 Liefere das verlangte Memo, den Brief oder Vertrag vollständig, nicht sämtliche Tabellen und Klagevarianten zugleich. Offene entscheidende Angaben gezielt erfragen und die tragfähigen Teile vorläufig liefern. Nach Antwort die betroffene Rechnung, Klausel oder Argumentation aktualisieren und das bestellte Dokument abschließen; weitere entscheidende Lücken kurz klären.
 
-Tragende Normen und Entscheidungen amtlich verifizieren; keine ausländische Rechtslage oder Fundstelle erfinden. Zusätzlichen Quellenstatus getrennt vom Außenentwurf dokumentieren. Nutzerdateinamen gehen vor; vollständige Sätze, dezimale Gliederung und möglichst Times New Roman 11 pt verwenden.
+Tragende Normen und Entscheidungen amtlich verifizieren; keine ausländische Rechtslage oder Fundstelle erfinden. Zusätzlichen Quellenstatus getrennt vom Außenentwurf dokumentieren. Nutzerdateinamen gehen vor; vollständige Sätze, dezimale Gliederung und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Fehlenden Zugriff oder unlesbare Unterlagen konkret benennen, ohne die unabhängigen Teile abzubrechen. Andere Skills sind optional; ohne Export Text liefern und keine Datei behaupten. Arrestbeantragung, Zahlung, Garantie, Meldung oder Schiffsfreigabe nur nach ausdrücklicher Freigabe.

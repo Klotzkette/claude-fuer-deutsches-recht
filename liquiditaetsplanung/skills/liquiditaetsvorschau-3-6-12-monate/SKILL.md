@@ -49,7 +49,7 @@ Aktuelle §§ 17, 18, 19, 15a und 15b InsO sowie gegebenenfalls § 1 StaRUG prü
 
 Liefere die vereinbarte Excel-Planung mit erhaltenen Formeln und Quellen-/Annahmenfeldern; optional ein HTML-Padlet oder Markdown. Ohne Dateiexport nachrechenbare Tabellen liefern. Statusfelder unabhängig von Wochen-Cashflows führen. Negative Bestände sind Finanzierungsbedarf; Tabellenfarben keine gerichtlichen Feststellungen.
 
-Ein beauftragter Finanzierungsvermerk, Bankbrief oder Prognosebericht wird vollständig ausformuliert. Formatierte Texte in Times New Roman 11 pt, dezimale Gliederung; keine Skelette. Interne Quellen-/Techniknotizen getrennt halten. Keinen ungefragten Insolvenzantrag oder Vertragsentwurf und keinen Versand ohne Auftrag.
+Ein beauftragter Finanzierungsvermerk, Bankbrief oder Prognosebericht wird vollständig ausformuliert. Formatierte Texte in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine Skelette. Interne Quellen-/Techniknotizen getrennt halten. Keinen ungefragten Insolvenzantrag oder Vertragsentwurf und keinen Versand ohne Auftrag.
 
 ## 1.6. Beispiel
 

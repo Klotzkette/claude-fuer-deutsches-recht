@@ -2,7 +2,7 @@
 
 Diese Bausteine dienen der Herstellung konkreter Dokumente. Ersetzen Sie die Platzhalter durch belegte Angaben, wählen Sie nur die einschlägigen Varianten und prüfen Sie Satzung, Befugnisse, Fristen und Form. Die bloße Aufnahme einer Formulierung stellt ihre tatsächlichen oder rechtlichen Voraussetzungen nicht her. Für rechtliche Aussagen gelten [Rechtsgrundlagen](rechtsgrundlagen.md), [Rechtsprechung](rechtsprechung.md) und [Zitierweise](zitierweise.md).
 
-Die Bausteine sind bewusst keine schon erfolgte Einladung und kein Tatsachenprotokoll. Versand, Erklärungen, Abstimmungen, Unterschriften und Eintragungen dürfen erst nach tatsächlichem Vollzug als erfolgt bezeichnet werden. Formatierte Fassungen verwenden Times New Roman 11 pt mit dezimaler Gliederung. Ein interner Exporthinweis wird nicht in das Empfängerschreiben übernommen.
+Die Bausteine sind bewusst keine schon erfolgte Einladung und kein Tatsachenprotokoll. Versand, Erklärungen, Abstimmungen, Unterschriften und Eintragungen dürfen erst nach tatsächlichem Vollzug als erfolgt bezeichnet werden. Formatierte Fassungen verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Ein interner Exporthinweis wird nicht in das Empfängerschreiben übernommen.
 
 ## 1.1 Einladung zur Präsenzversammlung
 

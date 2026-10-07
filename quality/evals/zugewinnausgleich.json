@@ -154,9 +154,10 @@
     "reason": "Mini vollständig erneut gelesen. Fachliche Einstiegswege und die Folgen von Angehörigenzahlung oder aufgefundenem Tagesgeld konkretisiert; bestehende BGH-Abgrenzungen und Rechenregeln bewahrt. Keine erneute BGH-Volltextprüfung oder Live-Ausführung.",
     "changes": [
       "Leerer Einstieg führt zu Auskunft, Berechnung oder Erwiderung; Dateien ohne Aufgabe werden still gelesen.",
-      "Darlehen, Schenkung und vorhandener Bestand ändern konkrete Positionen und die Gesamtforderung; allgemeine Ausgabehinweise für Bytegrenze gekürzt."
+      "Darlehen, Schenkung und vorhandener Bestand ändern konkrete Positionen und die Gesamtforderung; allgemeine Ausgabehinweise für Bytegrenze gekürzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a3a98743f8117eba927d8eb498bcfeff6c137ee952c5f5456d1ac4060d71b75b",
+    "sha256": "faff4aa1c9258cc248e82feca0b0a22dfad4f62b0549c34c068eedfe9d6f804e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -166,9 +167,10 @@
     "changes": [
       "Erwerbswert oder späterer Verkaufserlös sowie Darlehen oder Schenkung als entscheidende Rückfragen bis zur korrigierten Rechnung ausgebaut.",
       "Erfüllungsannahme, belastende Verbrauchsbelege und wiedergefundenes Tagesgeld verändern Beweislastabschnitt und Hinzurechnung.",
-      "Gutachterergänzung, Verbundtermin und formbewusste Vergleichsregelung bis zum konkreten Dokument fortgeführt."
+      "Gutachterergänzung, Verbundtermin und formbewusste Vergleichsregelung bis zum konkreten Dokument fortgeführt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0daa56b8c64d819c086de3556000b604942476d3c20c03c12bd749aa081d5e0e",
+    "sha256": "6781ab74849f5ba29ce12b16a9ff7d123f2da322ad53ba64bf8c1c8ae15ed4d7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -524,12 +526,13 @@
     "reason": "Hauptproblem-Prompt und korrespondierenden Skill vollständig gelesen; Prompt nach Überarbeitung erneut geprüft. Drei Einstiegsmodi und Fortsetzung nach Tagesvaluta beziehungsweise Verbrauchsbeleg konkretisiert. Hauptskill unverändert; Desk-Review ohne Live-Modelltest.",
     "changes": [
       "Leerer Einstieg bietet Berechnung, Auskunft oder Gegenrechnung; Dateien ohne Aufgabe still lesen.",
-      "Tagesvaluta ändert Objektwert, beide Zugewinne, Begrenzung und Brief; Beweislast- und Zurückverweisungsgrenze bewahrt, Hauptskill unverändert."
+      "Tagesvaluta ändert Objektwert, beide Zugewinne, Begrenzung und Brief; Beweislast- und Zurückverweisungsgrenze bewahrt, Hauptskill unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "zugewinnausgleich/zugewinnausgleich-hauptproblem.md",
-    "prompt_sha256": "9a00ce7c71c4de8845e97bd8fe7bf57066ab4bd3e0973b6da96edcf73d9fdc2f",
+    "prompt_sha256": "423021d489e220e4b5aa20e4cc7d0a5adbc5fc98960b6f3a98e9da7046629d49",
     "skill_path": "zugewinnausgleich/skills/vermoegensbelege-bis-zur-gesamtberechnung/SKILL.md",
-    "skill_sha256": "43c91f5d982fd17da16a26f8a0ad6eb1330ce05764fd76ff95665d86e8c59442"
+    "skill_sha256": "7d9e8919359e5b0c13f4f1aa0de6c2dcd7d6e07560a7a69bda4845fa35b2d0a9"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

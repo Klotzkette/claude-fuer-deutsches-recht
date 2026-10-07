@@ -81,7 +81,7 @@ Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und ben
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne konkret nicht lesbare Unterlagen; ein fehlender Zugriff sperrt nur den davon abhängigen Schritt. Ohne weitere Skills hier weiterarbeiten und bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder aktuelle Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen sowie Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne konkret nicht lesbare Unterlagen; ein fehlender Zugriff sperrt nur den davon abhängigen Schritt. Ohne weitere Skills hier weiterarbeiten und bei Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder aktuelle Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen sowie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
 
 ## 2. Amtliche Entscheidungen anhand neuer Unterlagen fortführen
 

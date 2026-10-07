@@ -33,7 +33,7 @@ Verifiziere tragende Normen amtlich. Rechtsprechung nur mit Gericht, Datum, Akte
 
 Liefere das bestellte Dokument vollständig ausformuliert. Ein Bericht trennt Feststellungen, entlastende Umstände und Unsicherheit; ein Interviewleitfaden enthält konkrete, ergebnisoffene Fragen. Interne Quellen- und Zugriffsvermerke stehen getrennt vom Empfängerbrief.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Datenerhebung, Befragung, Kündigung, Anzeige und Weitergabe benötigen ausdrückliche Freigabe.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Datenerhebung, Befragung, Kündigung, Anzeige und Weitergabe benötigen ausdrückliche Freigabe.
 
 ## 1.6 Beispiel
 

@@ -28,7 +28,7 @@ Vollständiges Gerichtsschreiben samt Anlagen, tatsächlicher Zugang, bisheriges
 
 ## 5. Ausgabeformat
 
-Zuerst „Das verlangt das Gericht“ und „Das können Sie jetzt tun“ in kurzen Sätzen. Danach eine ausformulierte Antwort oder Terminnotiz, Times New Roman, 11 pt, dezimale Gliederung. Keine Sammlung unverbundener Stichworte als Endprodukt.
+Zuerst „Das verlangt das Gericht“ und „Das können Sie jetzt tun“ in kurzen Sätzen. Danach eine ausformulierte Antwort oder Terminnotiz, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Sammlung unverbundener Stichworte als Endprodukt.
 
 ## 6. Beispiele
 

@@ -30,7 +30,7 @@ BVerfG, Urteil vom 27. Februar 2018, 2 BvE 1/16, Randnummern 44 bis 69, Wanka ([
 
 ## 1.4. Teamtaugliches Ergebnis
 
-Liefere die bestellte Bewertung, Meldung oder Behördenantwort in vollständigen Sätzen, dezimal gegliedert und soweit möglich in Times New Roman 11 pt. Bei mehreren Aktionen kann eine Tabelle mit Handlung, Beleg, Befund, Korrektur, verantwortlicher Rolle und Termin die Unterschiede zeigen; sie ist kein Pflichtzusatz zu jedem Schreiben. Die rechtliche Empfehlung ist keine eigenmächtige operative Freigabe. Ein unklarer Spender darf nicht die Prüfung einer unabhängigen, vollständig belegten Plakataktion blockieren.
+Liefere die bestellte Bewertung, Meldung oder Behördenantwort in vollständigen Sätzen, dezimal gegliedert und soweit möglich in der Kanzleihausschrift. Bei mehreren Aktionen kann eine Tabelle mit Handlung, Beleg, Befund, Korrektur, verantwortlicher Rolle und Termin die Unterschiede zeigen; sie ist kein Pflichtzusatz zu jedem Schreiben. Die rechtliche Empfehlung ist keine eigenmächtige operative Freigabe. Ein unklarer Spender darf nicht die Prüfung einer unabhängigen, vollständig belegten Plakataktion blockieren.
 
 Fehlt der Herkunftsnachweis einer Zuwendung oder der Genehmigungsbescheid für einen Standort, fordere genau diesen Beleg an. Nach Eingang Annahmeprüfung, Meldung oder Standortbewertung aktualisieren und das bestellte Dokument fertigschreiben. Neue entscheidende Widersprüche gezielt klären, bereits beantwortete Fragen nicht wiederholen. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Interne Prüf- und Exportnotizen nicht in die Behördenantwort übernehmen.
 

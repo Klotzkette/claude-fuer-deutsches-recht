@@ -71,9 +71,10 @@
       "Drei Startmodi und belegabhängige Änderung der konkreten Rüge ergänzt; Zuständigkeitsnummern im aktuellen Paragraf 13 BVerfGG verifiziert.",
       "Spezifischen Grundrechtsfehler und passende Verfahrensfolge statt generischer Fallkarte ausarbeiten.",
       "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
-      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt."
+      "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "904fb0201dd3c6bd40f93590a756d1cb8a479882e416f3f3769386eb76a28e0a"
+    "sha256": "ac783c88cd68dcf431eca1e08551bebd0ed493e4fc39c8e016a1a6ef35980bb2"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -83,9 +84,10 @@
       "Beteiligungsnachteil im Organstreit, neue Gesetzesfassung und veränderter Vollzug im Eilantrag mit konkreten Dokumentfolgen ergänzt.",
       "Mini vollständig entdoppelt und interne Überschriften durch fachliche Arbeitsschritte ersetzt.",
       "Operative Substantiierung und GEG-Hauptsache in beiden Prompts; unverifizierte Entscheidungenlisten entfernt.",
-      "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt."
+      "ANOM-Darlegung und parlamentarische Beteiligung bleiben unterschiedliche Maßstäbe; Hauptsache 2 BvE 4/23 nicht mit früherem Eilstopp verwechselt. Zweitveröffentlichungsfall nur in der passenden Kompetenzprüfung der Werkstatt ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a9bbb87cb868c64e3dd8ab82526389268fd561016b7105d87349a53fa6674d02",
+    "sha256": "9bdf4adf670d9346961c1c2bf5a723856e5964688b711a3149567084d5368a38",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

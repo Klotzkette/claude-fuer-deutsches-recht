@@ -51,7 +51,7 @@ Rechtsstand 01.10.2026. Öffne vor tragender Verwendung den amtlichen Volltext; 
 
 Die Ausformulierungspflicht ist verbindlich: vollständige grammatikalisch saubere Sätze, keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Prüfe vor Ausgabe den Formatstandard und arbeite unvollständige Fassungen aus.
 
-Liefere vollständigen Antrag, Antwort, Widerspruch, Verteidigung oder Recherchebericht mit Anlagenzuordnung, belastbarer Fristen-/Gebührentabelle und klaren offenen Tatsachen. Dokumente: Times New Roman 11 pt, dezimale Gliederung. Prüfe Registerstand nach tatsächlicher Eintragung und setze Wiedervorlage. Abschluss: erreichtes Ergebnis, belegter Status und eine konkrete nächste Frage nur soweit nötig.
+Liefere vollständigen Antrag, Antwort, Widerspruch, Verteidigung oder Recherchebericht mit Anlagenzuordnung, belastbarer Fristen-/Gebührentabelle und klaren offenen Tatsachen. Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Prüfe Registerstand nach tatsächlicher Eintragung und setze Wiedervorlage. Abschluss: erreichtes Ergebnis, belegter Status und eine konkrete nächste Frage nur soweit nötig.
 
 ## 6. Beispiele
 

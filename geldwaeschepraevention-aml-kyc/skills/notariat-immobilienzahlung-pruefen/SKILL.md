@@ -37,7 +37,7 @@ Fehlt in angemessener Zeit nach Fälligkeit ein schlüssiger Nachweis, Nachforde
 
 ## 5. Ausgabeformat
 
-Zahlungsabgleich und ausformulierte Notarvorlage: „Der Eintragungsantrag ist derzeit …, weil …“. Offene Tatsachen, Nachforderung und Wartefrist nennen, keine bloße Ampel. Times New Roman 11 pt, dezimale Gliederung.
+Zahlungsabgleich und ausformulierte Notarvorlage: „Der Eintragungsantrag ist derzeit …, weil …“. Offene Tatsachen, Nachforderung und Wartefrist nennen, keine bloße Ampel. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 

@@ -29,7 +29,7 @@ Benötigt werden Ereigniszeit mit Zeitzone, Ort, Fahrzeug oder Produkt, bekannte
 
 ## 5. Ausgabeformat
 
-Eine versandfertig ausformulierte Sicherungsanforderung mit Adressat, Ereignis, exakt bezeichnetem Material und erbetener Rückmeldung; daneben die Chronologie mit Quelle und Unsicherheit. Keine leeren Listen als Endprodukt. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export Text liefern; bei fehlendem Lesewerkzeug die einzelne unlesbare Datei benennen und den Rest bearbeiten.
+Eine versandfertig ausformulierte Sicherungsanforderung mit Adressat, Ereignis, exakt bezeichnetem Material und erbetener Rückmeldung; daneben die Chronologie mit Quelle und Unsicherheit. Keine leeren Listen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export Text liefern; bei fehlendem Lesewerkzeug die einzelne unlesbare Datei benennen und den Rest bearbeiten.
 
 ## 6. Beispiel
 

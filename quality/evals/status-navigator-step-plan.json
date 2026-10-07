@@ -22,9 +22,10 @@
       "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
       "Leerstart: Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan wählen.",
       "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
-      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden."
+      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a76f2cabc6d94ce66766c32102995dedcb9c1066fb192e217c1c0a5de7ff85d2",
+    "sha256": "91dbac5803c6358e5393652ccf83e6672f3d7f8674903ea6a1324e459320e84d",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -36,9 +37,10 @@
       "Register unterscheidet bloßen Trackingstatus und Auslieferungsnachweis, davon abhängige Fristannahmen bleiben zur Prüfung offen.",
       "Leerstart: Fassungsabgleich, Nachforderungsbrief oder abhängigen Schrittplan wählen.",
       "Eine nur auf den Preis bezogene Zustimmung verändert diesen Freigabestand und abhängige Aufgaben, nicht automatisch Anlagen oder Haftungsklauseln.",
-      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden."
+      "Preisfreigabe und Anlagenwechsel gezielt zuordnen; Stichtage und Bezugsgrößen im Register trennen; Auslieferungsnachweis mit konkreter Sendung abgleichen; Arbeitsfassung und freigegebenen Export unterscheiden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b14452e345f9d4cee537b54668cffb845127690035e0674d1cd6c81127fa4f82",
+    "sha256": "aee34f982060f9e44f15aea1778067cce12682d5d80c4a8d4667946963677456",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -39,7 +39,7 @@ Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfass
 
 Vollständig ausformulierter individueller Testaments- oder Erbvertragsentwurf mit klar markierten Lücken, Variantenvermerk, Pflichtteils- und Steuerhinweis sowie Form- und Verwahrungsanleitung. Keine gegenseitigen Vertragspflichten in ein einseitiges Testament hineinstandardisieren.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

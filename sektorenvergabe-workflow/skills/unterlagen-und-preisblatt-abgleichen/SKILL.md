@@ -28,7 +28,7 @@ Paragrafen 97, 121 und 127 GWB; Paragrafen 8, 16, 28, 41 und 52 SektVO. EuGH, Ur
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere ein bereinigtes Dokumentenpaket, einen kurzen begründeten Freigabevermerk und die gesonderte Änderungstabelle. Formulierungen vollständig, Times New Roman 11 pt, dezimale Gliederung; Tabellen erhalten sprechende Blattnamen und sichtbare Einheiten. Übergabe an `bekanntmachung-und-fristen-vorbereiten`: maßgebliche Dateien, geklärte Widersprüche, noch gesperrte Punkte und Termine. Nach Veröffentlichung zusätzlich Empfängerkreis und Änderungsbedarf an Schritt 7 übergeben.
+Liefere ein bereinigtes Dokumentenpaket, einen kurzen begründeten Freigabevermerk und die gesonderte Änderungstabelle. Formulierungen vollständig, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Tabellen erhalten sprechende Blattnamen und sichtbare Einheiten. Übergabe an `bekanntmachung-und-fristen-vorbereiten`: maßgebliche Dateien, geklärte Widersprüche, noch gesperrte Punkte und Termine. Nach Veröffentlichung zusätzlich Empfängerkreis und Änderungsbedarf an Schritt 7 übergeben.
 
 ## 6. Beispiel
 

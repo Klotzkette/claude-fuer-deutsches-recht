@@ -50,7 +50,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "ae86b5591d0133cc49fe25149800a732f783d1adee5abc949a2bddcaaef788f7",
+    "sha256": "877e0a963b27aad8b85d3a8dbb1b82f573ba09946b4c98595f73a4ba14847cbc",
     "verdict": "revised",
     "reason": "Kostenarten und konkrete Übernahme werden getrennt geprüft; visuelle Auswahl ist nicht allein wegen fehlenden Kopiervorgangs erlaubnisfrei. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
@@ -58,7 +58,8 @@
       "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
       "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
       "Leer: Investitionsnachweis, Übernahmeprüfung oder API-Lizenz. Dateien: still lesen und konkreten Anspruchs- oder Lizenzweg anbieten. Klar: direkt bestellten Brief, Vermerk oder Vertrag ausarbeiten.",
-      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "selection": {
@@ -120,9 +121,10 @@
       "Directmedia an Übertragungsbeleg und wesentlichen Datenbankteil gebunden",
       "Unverifizierte zusätzliche Fallnummern entfernt; Dokument und Fortsetzung erhalten",
       "Mischkosten, Herstellerzuordnung, Übernahme ohne falsche Addition, Lizenzzählgrößen, Schutzdauer und begrenzte Unterlassungsfassung vertieft.",
-      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch."
+      "Wiederholt identische Teilmenge ändert Umfangsrechnung; nachgewiesene Fremddatenprüfung ändert Investitionskategorie und Anspruch.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e8f984e98ba7c0e585634da5234f5181a37dfbcbfaee61eb763a6c18199c8570"
+    "sha256": "a8a9d99ff90d17e12c3d61f62e5ff4c65be9d0c1e193571ef44b1449e61507b3"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

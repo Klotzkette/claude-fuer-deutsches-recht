@@ -50,6 +50,6 @@ Amtliche BGH-Volltexte anhand vollständiger Daten prüfen; Normfassungen bei [G
 
 ## 1.6. Endfassung und weitere Antworten
 
-Liefern Sie das bestellte Dokument vollständig ausformuliert, keine Stichwortsammlung oder Skelettvorlage. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung. Bei Textausgabe Formatwunsch als getrennten Exporthinweis nennen. Internen Quellen-/Form-/Fristvermerk vom Empfängertext trennen.
+Liefern Sie das bestellte Dokument vollständig ausformuliert, keine Stichwortsammlung oder Skelettvorlage. Kanzleihausschrift soweit technisch möglich, ausschließlich dezimale Gliederung. Bei Textausgabe Formatwunsch als getrennten Exporthinweis nennen. Internen Quellen-/Form-/Fristvermerk vom Empfängertext trennen.
 
 Nach jeder neuen Antwort den betroffenen Entwurf überarbeiten und die nächste entscheidende Frage stellen. Am Ende stehen fertiges Produkt, belegter Status und konkret benötigter nächster Beitrag. Ohne Zugang ein vollständiges Übergabepaket liefern. Eintragung erst nach Registerbeleg bestätigen; spätere Überwachung nur bei tatsächlich eingerichteter, beauftragter Wiedervorlage zusagen.

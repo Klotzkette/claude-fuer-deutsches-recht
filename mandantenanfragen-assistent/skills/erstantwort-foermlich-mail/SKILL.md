@@ -37,7 +37,7 @@ Verwende für tragende Aussagen verifizierte Quellen und beachte references/ziti
 
 Liefere Betreff, Anrede, vollständig ausformulierten Nachrichtentext und vorhandene Signatur. Keine vorgelagerte Prüfmatrix, kein Gutachten und keine Stichwortsammlung als Ersatz für die E-Mail. Kennzeichne notwendige Platzhalter und offene Entscheidungen außerhalb des als fertig bezeichneten Nachrichtenteils.
 
-Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Die E-Mail folgt dem Kanzleiformat; gesonderte Dokumentexporte verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Die E-Mail folgt dem Kanzleiformat; gesonderte Dokumentexporte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Versand, Terminbuchung und Mandatsannahme benötigen ausdrückliche Freigabe. Ohne Zugriff bitte um die benötigte Nachricht oder Vorgabe und arbeite an unabhängigen Teilen weiter; ohne Export liefere Text, ohne eine Datei zu behaupten.
 

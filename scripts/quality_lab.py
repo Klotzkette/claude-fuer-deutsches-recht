@@ -66,9 +66,14 @@ def load(path):
     return decode(bounded_bytes(Path(path)).decode("utf-8"))
 
 
+def dumps(value) -> str:
+    """Kanonische Textform eines Profils: genau das, was save schreibt."""
+    return json.dumps(value, ensure_ascii=False, indent=2, allow_nan=False) + "\n"
+
+
 def save(path: Path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    text = json.dumps(value, ensure_ascii=False, indent=2, allow_nan=False) + "\n"
+    text = dumps(value)
     with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8", dir=path.parent, prefix=".quality-", delete=False) as handle:
         temporary = Path(handle.name)
         try:

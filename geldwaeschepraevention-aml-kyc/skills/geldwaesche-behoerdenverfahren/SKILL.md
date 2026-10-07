@@ -37,7 +37,7 @@ GwG Paragrafen 50 bis 57, OWiG Paragraf 67 und [Quellenkarte](../../references/r
 
 ## 5. Ausgabeformat
 
-Vollständige behördliche Antwort oder gekennzeichneter Rechtsbehelfsentwurf mit Aktenzeichen, konkreten Anträgen, Belegen und Anlagen. Times New Roman 11 pt, dezimale Gliederung. Interne Risikobewertung separat.
+Vollständige behördliche Antwort oder gekennzeichneter Rechtsbehelfsentwurf mit Aktenzeichen, konkreten Anträgen, Belegen und Anlagen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Interne Risikobewertung separat.
 
 ## 6. Beispiele
 

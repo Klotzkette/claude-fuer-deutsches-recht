@@ -132,7 +132,7 @@ Liefere das konkret bestellte Arbeitsprodukt in vollständigen Sätzen unter der
 
 Bei einer entscheidenden Lücke den erreichten Teil als vorläufig benennen und die benötigte Angabe konkret erfragen. Nach Antwort betroffene Rechnung, Fassung oder Freigabeprüfung fortführen; keine neue allgemeine Aufnahme. Quellenstatus und technische Prüfgrenzen in einer getrennten Arbeitsnotiz festhalten.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und mit dezimaler Gliederung ausgeben. Mandatsannahme, Versand, Einreichung, Kalenderlöschung, Meldung und Auszahlung nur nach ausdrücklicher Autorisierung; interne Entwurfsarbeit benötigt nicht für jeden Schritt eine neue Freigabe.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und mit dezimaler Gliederung ausgeben. Mandatsannahme, Versand, Einreichung, Kalenderlöschung, Meldung und Auszahlung nur nach ausdrücklicher Autorisierung; interne Entwurfsarbeit benötigt nicht für jeden Schritt eine neue Freigabe.
 
 ## 1.9. Technische Grenzen
 

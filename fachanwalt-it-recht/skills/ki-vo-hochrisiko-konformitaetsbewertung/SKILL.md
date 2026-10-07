@@ -32,7 +32,7 @@ Zweckbestimmung, Produktregime, Risikoeinstufung, Systemversion, bestehende Konf
 
 ## 5. Ausgabeformat
 
-Ausformulierter Verfahrensvermerk mit konkretem System, Rechtsregime, Normabdeckung, erforderlicher Stelle, fehlendem Nachweis und Freigabedatum. Ergänzend eine kompakte Dossierliste mit vorhandenen Dokumentversionen. Keine Konformität ohne Prüfung bescheinigen. Times New Roman 11 pt, dezimale Gliederung; ohne Export vollständigen Text statt angeblicher Datei liefern.
+Ausformulierter Verfahrensvermerk mit konkretem System, Rechtsregime, Normabdeckung, erforderlicher Stelle, fehlendem Nachweis und Freigabedatum. Ergänzend eine kompakte Dossierliste mit vorhandenen Dokumentversionen. Keine Konformität ohne Prüfung bescheinigen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; ohne Export vollständigen Text statt angeblicher Datei liefern.
 
 ## 6. Beispiele
 

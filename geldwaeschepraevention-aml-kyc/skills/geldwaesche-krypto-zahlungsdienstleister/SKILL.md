@@ -33,7 +33,7 @@ Kontrolle über eine Adresse, Herkunft des Vermögens und wirtschaftlichen Zweck
 
 ## 5. Ausgabeformat
 
-Vollständiger Transfervermerk mit vorhandenen und fehlenden Daten, Rechtsgrund und zuständigem nächsten Schritt. Times New Roman 11 pt, dezimale Gliederung. Keine automatische Transferfreigabe oder Wallet-Sperre.
+Vollständiger Transfervermerk mit vorhandenen und fehlenden Daten, Rechtsgrund und zuständigem nächsten Schritt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine automatische Transferfreigabe oder Wallet-Sperre.
 
 ## 6. Beispiele
 

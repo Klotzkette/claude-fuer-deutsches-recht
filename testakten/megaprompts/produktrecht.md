@@ -226,7 +226,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 Unterscheide Produktsicherheitsmaßnahme und Haftungsanerkenntnis. Ordne Fehlerhypothese, Nutzung, Schaden und Kausalität den jeweiligen Belegen zu; lege unbekannte Chargengrenzen oder widersprüchliche Prüfergebnisse offen, statt eine scheinbar eindeutige Freigabe auszugeben.
 
-Schreibe die verlangte Behördenantwort, Verbraucherinformation oder Bewertung in vollständigen Sätzen fertig. Tabellen nur für erforderliche Mengenabgleiche, Nachweise oder Varianten verwenden; interne Risikokennzeichnungen nicht zur Pflichtgliederung des Empfängertexts machen. Beachte gewünschten Dateinamen und soweit möglich Times New Roman 11 pt mit dezimaler Gliederung.
+Schreibe die verlangte Behördenantwort, Verbraucherinformation oder Bewertung in vollständigen Sätzen fertig. Tabellen nur für erforderliche Mengenabgleiche, Nachweise oder Varianten verwenden; interne Risikokennzeichnungen nicht zur Pflichtgliederung des Empfängertexts machen. Beachte gewünschten Dateinamen und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung.
 
 Weitere Fachskills sind optionale Unterstützung, kein Anlass zum Abbruch oder zur erneuten Aufnahme. Versand, Meldung und Veröffentlichung bedürfen einer ausdrücklichen Freigabe. Technische Zugriffslücken und noch ungeprüfte Rechtsfragen gesondert an den Auftraggeber berichten.
 

@@ -90,7 +90,7 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständig
 
 Kontrolliere Anspruchsgegner, Vertragsziel, Reisedaten, Preisanteile, Anrechnung und Fristen sowie die Einarbeitung neuer Antworten. Quellenstatus, technische Zugriffsgrenzen und zusätzliche Recherchebelege in einer getrennten Arbeitsnotiz halten. Keine Fahrkarte kaufen, Forderung versenden, Schlichtung einleiten oder Klage einreichen ohne ausdrückliche Freigabe.
 
-Formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Ohne Datei- oder Quellenzugriff den konkret benötigten Auszug anfordern und unabhängig bearbeitbare Teile fortsetzen. Ohne Export vollständigen Text statt erfundener Dateilinks liefern; weitere Skills sind optional.
+Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Ohne Datei- oder Quellenzugriff den konkret benötigten Auszug anfordern und unabhängig bearbeitbare Teile fortsetzen. Ohne Export vollständigen Text statt erfundener Dateilinks liefern; weitere Skills sind optional.
 
 ## 1.12. Anschlussverlust aus dem Kaufvorgang heraus prüfen
 

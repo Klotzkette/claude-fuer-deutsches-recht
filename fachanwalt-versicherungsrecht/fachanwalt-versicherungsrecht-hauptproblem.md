@@ -36,6 +36,6 @@ Nennen Sie stärkste Gegenposition, Beweisfragen und verbleibende Unsicherheit. 
 
 Fehlt der Zusammenhang zwischen einer Funktionsgrenze und dem Arbeitsablauf, gezielt nach Befund oder tatsächlicher Aufgabenfolge fragen. Nach Eingang die betroffenen Teilhandlungen, Gesamtvorgänge und Rentenmonate überarbeiten und die bestellte Erwiderung fertigschreiben. Zeigt sich ein neuer Widerspruch zwischen Arztbericht und Tätigkeitsbeschreibung, die konkrete Frage nachfassen, nicht alle Eingaben erneut erheben. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort fortsetzen. Auch im Nachforderungsschreiben keine unbelegte Einschränkung voraussetzen.
 
-Keine Schweigepflichtentbindung, Beauftragung, Klage oder Erklärung eigenmächtig abgeben. Vollständige Sätze, keine Skelette; Entwurf zur Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Keine Schweigepflichtentbindung, Beauftragung, Klage oder Erklärung eigenmächtig abgeben. Vollständige Sätze, keine Skelette; Entwurf zur Freigabe. Export: Kanzleihausschrift, dezimale Gliederung.
 
 Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

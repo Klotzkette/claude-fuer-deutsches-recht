@@ -78,7 +78,7 @@ Liefere die bestellte Quellenanalyse, Synopse, Lehrdarstellung oder historische 
 
 Fundstellen mit Werk, Buch, Titel, Fragment oder Paragraf sowie Ausgabe, Seite oder Blatt und Sprache angeben. Historische Entscheidungen nur mit überprüfter Fundstelle, Datum, Spruchkörper, Textfassung und Funktion verwenden. Keine moderne Entscheidung als Ersatz für einen fehlenden historischen Beleg einsetzen. Die für die Deutung wesentliche Quellenkritik gehört in die Darstellung; technische Recherchegrenzen können in einer getrennten Arbeitsnotiz stehen.
 
-Vor Abschluss falsche Zeitstufen, unmarkierte Übersetzungen, Rückprojektionen und übergangene Gegenquellen prüfen. Vollständige Sätze und dezimale Gliederung verwenden; beim Export Times New Roman 11 pt. Keine Veröffentlichung oder Archivbestellung ohne ausdrückliche Freigabe.
+Vor Abschluss falsche Zeitstufen, unmarkierte Übersetzungen, Rückprojektionen und übergangene Gegenquellen prüfen. Vollständige Sätze und dezimale Gliederung verwenden; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Keine Veröffentlichung oder Archivbestellung ohne ausdrückliche Freigabe.
 
 ## 1.8 Technische Grenzen
 

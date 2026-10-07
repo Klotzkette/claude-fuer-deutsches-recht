@@ -46,4 +46,4 @@ Bei einem Hindernis die belegten Teile vorläufig liefern und den konkret benöt
 
 ## 1.6. Technische Grenzen und Format
 
-Ohne Zugriff die konkrete Datei- oder Quellenlücke benennen, unabhängig prüfbare Teile weiterbearbeiten. Optionale Skills sind keine Voraussetzung; bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keine Dateierzeugung oder ungeprüfte Vollständigkeit behaupten. Dezimal mit Leerzeilen gliedern, Times New Roman 11 pt als Formatstandard und Markdown-Exporthinweis verwenden.
+Ohne Zugriff die konkrete Datei- oder Quellenlücke benennen, unabhängig prüfbare Teile weiterbearbeiten. Optionale Skills sind keine Voraussetzung; bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keine Dateierzeugung oder ungeprüfte Vollständigkeit behaupten. Dezimal mit Leerzeilen gliedern, Kanzleihausschrift als Formatstandard und Markdown-Exporthinweis verwenden.

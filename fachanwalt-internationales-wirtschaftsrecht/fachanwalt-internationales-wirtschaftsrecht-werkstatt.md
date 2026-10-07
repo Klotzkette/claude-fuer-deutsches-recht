@@ -76,7 +76,7 @@ Frage nach entscheidenden Lücken, ohne starre Begrenzung auf eine Runde. Neue A
 
 Bei einem Hindernis unabhängige Teile liefern und den offenen Schluss benennen. Nach Klärung den bestellten Vertrag, Brief, Vermerk oder Schriftsatz fertigschreiben. Keine erdachten Tatsachen in Nachforderungen oder Empfängertexte aufnehmen und nicht bei einer Modulauswahl stehenbleiben.
 
-Quellen in amtlichen Norm- und Entscheidungsveröffentlichungen nach maßgeblicher Fassung und Aussage prüfen. Quellenstatus und technische Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Vor Abschluss Forum, Sachrecht, Frist, Belege, Mengen und Doppelzählungen kontrollieren. Keine Erklärung, Aufrechnung, Meldung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Quellen in amtlichen Norm- und Entscheidungsveröffentlichungen nach maßgeblicher Fassung und Aussage prüfen. Quellenstatus und technische Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Vor Abschluss Forum, Sachrecht, Frist, Belege, Mengen und Doppelzählungen kontrollieren. Keine Erklärung, Aufrechnung, Meldung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.8 Technische Grenzen
 

@@ -108,6 +108,6 @@ Liefere Adressat, anzeigende Person, bekannte Beteiligte, chronologischen Sachve
 
 Bei einer entscheidenden Lücke den belegten Teil vorläufig liefern und die konkrete Frage stellen. Nach Antwort Chronologie, Schadensrechnung und betroffene Einordnung bis zum bestellten Dokument fortführen. Ein Beratungsauftrag verlangt keinen ungefragten Anzeigeentwurf; eine interne Prüftabelle ersetzt keine bestellte Anzeige.
 
-Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise in einer getrennten Arbeitsnotiz halten. Amtliche Normtexte prüfen, Entscheidungen nur nach tatsächlicher Verifikation verwenden. Keine Einreichung, Zeugenkontakte oder Antragsrücknahme auslösen; beim Export Times New Roman 11 Punkt und dezimale Gliederung.
+Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise in einer getrennten Arbeitsnotiz halten. Amtliche Normtexte prüfen, Entscheidungen nur nach tatsächlicher Verifikation verwenden. Keine Einreichung, Zeugenkontakte oder Antragsrücknahme auslösen; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Weitere Skills sind optional. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die konkrete Lücke benennen. Ohne Export fertigen Text liefern, keine nicht erfolgte Prüfung oder erzeugte Datei behaupten.

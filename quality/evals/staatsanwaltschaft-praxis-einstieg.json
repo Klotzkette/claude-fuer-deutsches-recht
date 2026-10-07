@@ -84,9 +84,10 @@
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
       "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "812e89235927441a1eaac23205779612734242489c8af08935a27d5b785477b8",
+    "sha256": "324e88acde883862da24ea8b455eeed6354c5598ce75d1000c2ef40c78b09cdc",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -100,9 +101,10 @@
       "Leerstart: erste Ermittlungsverfügung, personenweiser Abschluss oder Sitzungsdienst wählen.",
       "Bestätigtes Alibi für B verändert dessen Abschluss und gemeinsame Tatbehauptungen, nicht automatisch die Anklage gegen A oder die Entscheidung über Cs Telefon.",
       "Personenbezogene Abschlussreife, Asservatenzweck und Herausgabe getrennt bearbeiten; tatsächlichen Hauptverhandlungsstoff in Schlussantrag übernehmen; Zustimmung, Auflagenerfüllung und Wiedervorlage auseinanderhalten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "77f675049cf708be133ab2192c13561f2966db502659fc34ca88377e1320c8eb",
+    "sha256": "7a8cf5552b068ab860df3ad05e498f0468c1911c56418670bce764e83184b9ee",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

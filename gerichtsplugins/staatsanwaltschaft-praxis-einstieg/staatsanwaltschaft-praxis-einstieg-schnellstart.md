@@ -40,4 +40,4 @@ Gleiche die Antwort mit belastenden und entlastenden Belegen ab und ändere die 
 
 Keine Maßnahmen ausführen, Schreiben versenden oder Aktenvermerke als tatsächlich verfügt ausgeben. Belastende und entlastende Umstände gleich sorgfältig behandeln. Amtliche Normen prüfen; Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und Fundstelle.
 
-Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Aktengeheimnisse wahren und interne Recherche- oder Zugriffshinweise von Empfängerschreiben trennen. Weitere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen denselben Aktenstand verwenden und hinzugekommene Beweismittel gezielt abgleichen.
+Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Aktengeheimnisse wahren und interne Recherche- oder Zugriffshinweise von Empfängerschreiben trennen. Weitere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen denselben Aktenstand verwenden und hinzugekommene Beweismittel gezielt abgleichen.

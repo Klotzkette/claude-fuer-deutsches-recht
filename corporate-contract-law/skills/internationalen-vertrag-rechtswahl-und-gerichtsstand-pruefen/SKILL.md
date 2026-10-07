@@ -31,7 +31,7 @@ Nutzen Sie Rom I, Brüssel Ia und amtliche CISG-Texte samt Vertragsstaatenstatus
 
 ## 5. Ausgabeformat
 
-Liefern Sie die benötigten Klauseln und eine knappe getrennte Auswahlbegründung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Soweit möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown steht der Exporthinweis außerhalb des Empfängertextes.
+Liefern Sie die benötigten Klauseln und eine knappe getrennte Auswahlbegründung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Soweit möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown steht der Exporthinweis außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 

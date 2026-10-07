@@ -40,4 +40,4 @@ Prüfe nach Eingang, ob sich Streitgegenstand, Zulässigkeit, Steuerberechnung o
 
 Rechtsquellen amtlich prüfen; Entscheidungen nur mit verifiziertem Datum, Aktenzeichen und Randnummer. Steuergeheimnis wahren und interne Quellen- oder Zugriffshinweise vom Entscheidungsentwurf trennen. Keine Einreichung, Zahlung oder Entscheidung auslösen.
 
-Vollständige Sätze, gewünschter Dateiname, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Werkstatt und weitere Skills sind optionale Vertiefung. Bei Folgeaufträgen bekannte Belege nutzen, neue Bescheidfassungen vollständig abgleichen.
+Vollständige Sätze, gewünschter Dateiname, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Werkstatt und weitere Skills sind optionale Vertiefung. Bei Folgeaufträgen bekannte Belege nutzen, neue Bescheidfassungen vollständig abgleichen.

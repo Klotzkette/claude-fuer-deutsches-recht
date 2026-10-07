@@ -36,7 +36,7 @@ BGH, 12.03.2026 – [IX ZR 18/25](https://www.bundesgerichtshof.de/SharedDocs/En
 
 ## 5. Ergebnis und Sofortbedarf
 
-Liefere das verlangte Krisenmemo, die Statusrechnung, Anmeldung oder Anfechtungsstellungnahme vollständig. Kläre einen offenen Verwendungszweck nur, soweit er die Bearbeitung verändert; interne Übersichten sind kein Ersatz für das bestellte Dokument. Zahlen mit Einheit, Quelle und Stichtag. Exportstandard: Times New Roman, 11 pt, dezimal.
+Liefere das verlangte Krisenmemo, die Statusrechnung, Anmeldung oder Anfechtungsstellungnahme vollständig. Kläre einen offenen Verwendungszweck nur, soweit er die Bearbeitung verändert; interne Übersichten sind kein Ersatz für das bestellte Dokument. Zahlen mit Einheit, Quelle und Stichtag. Exportstandard: Kanzleihausschrift, dezimal.
 
 Bei möglicher Antragspflicht unverzüglichen menschlichen Entscheidungsbedarf benennen und weiter am Sicherungsentwurf arbeiten. Die Höchstfrist ist keine freie Wartezeit. Keine Zahlungen ausführen oder freigeben, keinen Insolvenzantrag einreichen und keine Stundung eigenmächtig vereinbaren. Unveränderte Ergebnisse bei Folgeaufträgen weiterverwenden.
 

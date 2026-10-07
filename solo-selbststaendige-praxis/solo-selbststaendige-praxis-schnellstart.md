@@ -40,4 +40,4 @@ Liefere das verlangte Angebot, Schreiben oder Rechenergebnis vollständig unter 
 
 Quellen mit aktueller Normfassung belegen, Entscheidungen nur tatsächlich verifiziert zitieren. Unbekannte Steuer- oder Statusfolgen sichtbar lassen und gezielte fachliche Prüfung benennen, nicht jede Alltagsfrage an eine Vollberatung verweisen.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; dieser Schnellstart arbeitet ohne Repositoryzugriff. Bei Folgeaufträgen bekannte Preise und Belege nutzen, neue Rechnungen und Einwendungen abgleichen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; dieser Schnellstart arbeitet ohne Repositoryzugriff. Bei Folgeaufträgen bekannte Preise und Belege nutzen, neue Rechnungen und Einwendungen abgleichen.

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lesefassungen kuratierter Werkstätten: TNR 11, native Office-Ausgabe, QA-PNGs."""
+"""Lesefassungen kuratierter Werkstätten: Hausschrift aus hausstil.json, native Office-Ausgabe, QA-PNGs."""
 from pathlib import Path
 import argparse,hashlib,importlib.util,json,re,subprocess,sys,io,zipfile
 from datetime import datetime,timezone
@@ -11,14 +11,20 @@ from docx.oxml.ns import qn
 from pypdf import PdfReader,PdfWriter
 from pypdf.generic import ArrayObject,ByteStringObject,NameObject
 ROOT=Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT / 'scripts'))
+import hausstil  # noqa: E402
+HAUSSTIL = hausstil.lade_hausstil()
+SCHRIFT = HAUSSTIL.schrift
+GRUNDGROESSE = hausstil.groesse_in_punkt(HAUSSTIL)
 spec=importlib.util.spec_from_file_location('workshop_base',ROOT/'scripts/render-startup-gruender-werkstatt.py');base=importlib.util.module_from_spec(spec);spec.loader.exec_module(base)
 DATE=datetime(2026,10,1,9,tzinfo=timezone.utc)
 def clean(s):return re.sub(r'\*\*([^*]+)\*\*|`([^`]+)`',lambda m:m[1] or m[2],s)
 def build(text,target,title,author='Registerwerkstätten',date=DATE):
  d=Document();s=d.sections[0];s.page_width=Cm(21);s.page_height=Cm(29.7)
  s.left_margin=s.right_margin=Cm(2.4);s.top_margin=s.bottom_margin=Cm(2.2);s.header_distance=s.footer_distance=Cm(1.2)
- for name,size in [('Normal',11),('Title',20),('Heading 1',14),('Heading 2',12),('Heading 3',11)]:
-  st=d.styles[name];st.font.name='Times New Roman';st.font.size=Pt(size);st.font.color.rgb=RGBColor(0,0,0)
+ # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+ for name,size in [('Normal',GRUNDGROESSE),('Title',GRUNDGROESSE+9),('Heading 1',GRUNDGROESSE+3),('Heading 2',GRUNDGROESSE+1),('Heading 3',GRUNDGROESSE)]:
+  st=d.styles[name];st.font.name=SCHRIFT;st.font.size=Pt(size);st.font.color.rgb=RGBColor(0,0,0)
   st.paragraph_format.line_spacing=1.5 if name=='Normal' else 1.15;st.paragraph_format.space_after=Pt(8)
   st.paragraph_format.widow_control=True
   if name!='Normal':st.paragraph_format.keep_with_next=True;st.paragraph_format.space_before=Pt(14)
@@ -26,7 +32,7 @@ def build(text,target,title,author='Registerwerkstätten',date=DATE):
  for node in d.styles.element.iter(qn('w:rFonts')):
   for key in list(node.attrib):
    if 'theme' in key.lower():del node.attrib[key]
-  node.set(qn('w:ascii'),'Times New Roman');node.set(qn('w:hAnsi'),'Times New Roman')
+  node.set(qn('w:ascii'),SCHRIFT);node.set(qn('w:hAnsi'),SCHRIFT)
  d.core_properties.title=title;d.core_properties.author=author;d.core_properties.created=d.core_properties.modified=date
  lines=text.splitlines();i=0;headings=0
  while i<len(lines):
@@ -56,7 +62,7 @@ def build(text,target,title,author='Registerwerkstätten',date=DATE):
   parts=[line];i+=1
   while i<len(lines) and lines[i].strip() and not re.match(r'^(#|\||- |<!--)',lines[i]):parts.append(lines[i].strip());i+=1
   p=d.add_paragraph();base.inline(p,clean(' '.join(parts)))
- footer=s.footer.paragraphs[0];footer.alignment=2;r=footer.add_run(title+' · ');r.font.name='Times New Roman';r.font.size=Pt(9)
+ footer=s.footer.paragraphs[0];footer.alignment=2;r=footer.add_run(title+' · ');r.font.name=SCHRIFT;r.font.size=Pt(9)
  field=OxmlElement('w:fldSimple');field.set(qn('w:instr'),'PAGE');footer._p.append(field)
  memory=io.BytesIO();d.save(memory)
  with zipfile.ZipFile(memory) as src,zipfile.ZipFile(target,'w',zipfile.ZIP_DEFLATED) as dst:
@@ -90,6 +96,6 @@ def main():
   token=bytes.fromhex(digest[:32]);writer._ID=ArrayObject([ByteStringObject(token),ByteStringObject(token)])
   target=out/f'{slug}-werkstatt.pdf'
   with target.open('wb') as f:writer.write(f)
-  info={'plugin':slug,'source_sha256':digest,'source_words':len(text.split()),'headings':headings,'pages':len(reader.pages),'font':'Times New Roman','body_points':11,'line_spacing':1.5,'manual_page_breaks':0,'visual_review':'pending'}
+  info={'plugin':slug,'source_sha256':digest,'source_words':len(text.split()),'headings':headings,'pages':len(reader.pages),'font':SCHRIFT,'body_points':GRUNDGROESSE,'line_spacing':1.5,'manual_page_breaks':0,'visual_review':'pending'}
   (qa/'render-result.json').write_text(json.dumps(info,ensure_ascii=False,indent=2)+'\n');print(json.dumps(info),flush=True)
 if __name__=='__main__':main()

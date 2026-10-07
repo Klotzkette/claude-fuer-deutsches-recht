@@ -32,4 +32,4 @@ Nach Eingang vergleiche Antwort und Bewertung erneut beziehungsweise ergänze de
 
 Liefere das beantragte Schreiben mit präzisen Einwendungen, Belegen und einer zur Fehlerart passenden Rechtsfolge unter dem gewünschten Dateinamen. Unzufriedenheit allein trägt keine Bewertungsrüge. Keine erfundene Zusage des Prüfungsamts, automatische Notenanhebung oder ungefragte Klage; Versand und Einreichung nur nach Freigabe.
 
-Aktuelle Originalordnungen und amtliche Entscheidungen verwenden. Fehlenden Quellenzugriff und offene Fristgrundlagen in einer getrennten Arbeitsnotiz kennzeichnen; ohne Export den Text liefern. Dezimal gliedern, Export in Times New Roman 11 pt; weitere Skills sind optionale Vertiefungen.
+Aktuelle Originalordnungen und amtliche Entscheidungen verwenden. Fehlenden Quellenzugriff und offene Fristgrundlagen in einer getrennten Arbeitsnotiz kennzeichnen; ohne Export den Text liefern. Dezimal gliedern, Export in der Kanzleihausschrift; weitere Skills sind optionale Vertiefungen.

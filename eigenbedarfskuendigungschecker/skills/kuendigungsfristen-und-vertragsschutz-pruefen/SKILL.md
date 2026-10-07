@@ -27,7 +27,7 @@ Paragrafen 573c, 574b, 575 und 577a BGB, gegebenenfalls Paragrafen 187 bis 193 B
 
 ## 5. Ausgabeformat
 
-Fristenblatt mit Datum, Auslöser, Beleg und Handlung; dazu ein ausformulierter Hinweis oder Brief. Keine bloße Rechentabelle als Endberatung. Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Gespräche hemmen diese Fristen nicht ohne gesonderte Grundlage.
+Fristenblatt mit Datum, Auslöser, Beleg und Handlung; dazu ein ausformulierter Hinweis oder Brief. Keine bloße Rechentabelle als Endberatung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Gespräche hemmen diese Fristen nicht ohne gesonderte Grundlage.
 
 ## 6. Beispiel
 

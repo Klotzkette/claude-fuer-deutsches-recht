@@ -40,9 +40,10 @@
     "changes": [
       "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "582900fc8adf16a81110570b9044d533dab46b7e22ae3567c4176c61c8b8d82f"
+    "sha256": "289b85dfd2b9162e6270ddd398276246a996bfddfa44f3131463fb422f1c0e87"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -50,9 +51,10 @@
     "changes": [
       "Erhaltung von Pflichten, Ausnahmen und Fristen vor bloßer Kürzung; sachfremde Normliste entfernt.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache."
+      "Bedeutungstreue bei Bedingungen, Modalverben und Behauptungen, getrennte Erklärung und rechtsverbindliche Änderung, ergebniswirksames Leserfeedback und keine ungesicherte Zertifizierung als Leichte Sprache.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b211ef82ae9af28276c4c47c09d3e67eeee758b14be9f3099a5dfad80f570fa3"
+    "sha256": "efe6baadbf019ec00429390efbec35a6909b1cd269f2342e515f347bdeec8f4d"
   },
   "selection": {
     "positive": [

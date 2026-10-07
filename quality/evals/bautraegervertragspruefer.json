@@ -79,9 +79,10 @@
       "Bauzustand, Zahlungspflicht und noch durchsetzbare Erwerberrechte im Auftakt zusammengeführt.",
       "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
       "Leerstart: Klauseln, Rate oder Abnahme und Mängel anbieten. Dateien: Urkunde still lesen; passenden Prüf- oder Durchsetzungsumfang klären. Klarer Auftrag: Gewünschtes Schreiben, Votum oder Antrag direkt ausarbeiten.",
-      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "97917f2f28008a2e8a8f870628ba172679f05fb8ece30fcbff9f0b6af8e17242"
+    "sha256": "588553b2e382da6544c78a3c302d2954d834393ee5b54d7acb8fae5e2f237f72"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -91,9 +92,10 @@
       "Erstverwaltervollmacht mit Rn. 6–11 und gesonderter Prüfung eigener Abnahme verbunden.",
       "650m Absatz 2 und 3 über AbschlagsV erhalten; historisches Zahlungsplanurteil nicht als heutige Pauschallösung verwendet.",
       "Zweistufige Rate, Sonderwunschfolgen, unabhängige Erwerberabnahme und Gemeinschaftsauftrag mit getrennten WEG-Anfechtungsfristen.",
-      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung."
+      "Neuer Vertragsplan ändert Bausoll und Verweise; eigene spätere Abnahme verändert Beweislast und Fristen; tatsächlicher Beschluss ändert Ermächtigung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1860ab0211e15d153b558c6b15f3d0ae708721a4b0b72ea69e7574877349b8ed"
+    "sha256": "a5aac1a9a164a1db6a0bfe401104d9b193a7969046eef98b9e15ca2aa755376e"
   },
   "selection": {
     "positive": [

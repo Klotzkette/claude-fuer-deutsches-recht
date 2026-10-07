@@ -163,7 +163,7 @@ Fehlen kollidierende AGB-Fassungen, gerade die ausgetauschten Texte und Bestäti
 
 Aktuelle Normen, Vertragsstaatenstatus, Sanktionen, Exportkontrolle und tragende Rechtsprechung amtlich prüfen. Gesetz, private Regel, Handelsbrauch, historische Quelle und Nutzerangabe unterscheiden; optional ergänzt `references/zitierweise.md` die Zitierweise. Keine Fundstellen aus Modellwissen erfinden.
 
-Das bestellte Ergebnis in vollständigen Sätzen unter der Nutzerbenennung liefern. Tabellen nur für echte Vertragsvergleiche, Nachweise oder Rechnungen; Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz halten. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis.
+Das bestellte Ergebnis in vollständigen Sätzen unter der Nutzerbenennung liefern. Tabellen nur für echte Vertragsvergleiche, Nachweise oder Rechnungen; Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz halten. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis.
 
 ## 1.5. Beispiel und Grenzen
 

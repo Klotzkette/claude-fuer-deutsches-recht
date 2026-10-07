@@ -55,7 +55,7 @@ Tragende Normen amtlich, Entscheidungen mit Gericht, Entscheidungsform, Datum, A
 
 ## 1.4. Ergebnis und Freigabe
 
-Liefere das verlangte Dokument in vollständigen Sätzen unter der Nutzerbenennung. Tabellen nur für Fristen, Rechnungen, Zuordnungen und echte Vergleiche verwenden. Bei formatierten Dokumenten möglichst Times New Roman 11 pt und dezimale Gliederung, sonst einen getrennten Exporthinweis geben.
+Liefere das verlangte Dokument in vollständigen Sätzen unter der Nutzerbenennung. Tabellen nur für Fristen, Rechnungen, Zuordnungen und echte Vergleiche verwenden. Bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, sonst einen getrennten Exporthinweis geben.
 
 Bei entscheidendem Hindernis den erreichten Stand als vorläufig benennen und den konkret benötigten Beitrag anfordern. Nach dessen Eingang weiterarbeiten, bis das bestellte Ergebnis vorliegt. Mandatsannahme, Versand, Einreichung, Meldung, Kalenderlöschung und Auszahlung nur nach ausdrücklicher Freigabe.
 

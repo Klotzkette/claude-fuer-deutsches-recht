@@ -27,7 +27,7 @@ Paragraf 577a BGB; BGH, Urteil vom 21.01.2026, VIII ZR 247/24, und vom 10.07.202
 
 ## 5. Ausgabeformat
 
-Eigentumszeitachse plus vollständig ausformulierter Sperrfristvermerk oder Antwortbrief. Formatiert soweit möglich Times New Roman 11 pt, dezimal; kein unbelegtes Enddatum und kein Skelett. Beleganforderung benennt das wirklich fehlende Eintragungsdatum.
+Eigentumszeitachse plus vollständig ausformulierter Sperrfristvermerk oder Antwortbrief. Formatiert soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal; kein unbelegtes Enddatum und kein Skelett. Beleganforderung benennt das wirklich fehlende Eintragungsdatum.
 
 ## 6. Beispiel
 

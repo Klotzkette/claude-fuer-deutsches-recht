@@ -31,7 +31,7 @@ Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegeh
 
 Liefere das beauftragte Memo, den Brief oder die vergleichende Zuständigkeitsübersicht vollständig ausformuliert. Eine Tabelle nennt nur die benötigten Länder, Anknüpfungen, Behörden, Fristen und offenen Nachweise. Quellenstatus und technische Grenzen stehen getrennt vom Empfängerbrief.
 
-Bei einem Hindernis liefere den belegten Teil vorläufig, benenne die benötigte Ergänzung und setze nach Antwort bis zur Endfassung fort. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung.
+Bei einem Hindernis liefere den belegten Teil vorläufig, benenne die benötigte Ergänzung und setze nach Antwort bis zur Endfassung fort. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 1.6 Beispiel und Grenzen
 

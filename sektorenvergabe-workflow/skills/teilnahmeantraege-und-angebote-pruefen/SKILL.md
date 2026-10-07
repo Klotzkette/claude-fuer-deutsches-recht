@@ -28,7 +28,7 @@ Paragrafen 123 bis 126 und 142 GWB; Paragrafen 43 bis 51 SektVO. EuGH, Urteil vo
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere Bewerber-/Angebotsprüfvermerk, erforderliche Nachforderungen und begründete Auswahl-/Ausschlussvorschläge. Vollständige Sätze, Times New Roman 11 pt, dezimale Gliederung. Übergabe an `verhandeln-und-angebote-werten`: zulässige Angebotsfassungen, offene Aufklärung, festgelegte Kriterien und Fristen; strittige Unterlagenanforderungen an `bieterfragen-ruegen-und-aenderungen-bearbeiten`. Originale nicht verändern, Ausschluss nicht eigenmächtig versenden.
+Liefere Bewerber-/Angebotsprüfvermerk, erforderliche Nachforderungen und begründete Auswahl-/Ausschlussvorschläge. Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergabe an `verhandeln-und-angebote-werten`: zulässige Angebotsfassungen, offene Aufklärung, festgelegte Kriterien und Fristen; strittige Unterlagenanforderungen an `bieterfragen-ruegen-und-aenderungen-bearbeiten`. Originale nicht verändern, Ausschluss nicht eigenmächtig versenden.
 
 ## 6. Beispiel
 

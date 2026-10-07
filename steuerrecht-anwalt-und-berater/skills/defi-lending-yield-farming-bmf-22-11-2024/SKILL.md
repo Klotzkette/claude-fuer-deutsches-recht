@@ -103,7 +103,7 @@ Es gilt `references/zitierweise.md`: Norm zuerst, dann verifizierte Rechtsprechu
 
 Liefern Sie den beauftragten Vermerk in vollständigen, ausformulierten Sätzen mit Sachverhalt, Ergebnis, rechtlicher Einordnung, nachvollziehbarer Berechnung und konkretem nächsten Schritt. Bei einer offenen Tauschfrage die Steuerfolgen beider begründeten Varianten darstellen und benennen, welcher tatsächliche oder rechtliche Punkt die Entscheidung trägt. Tabellen dürfen Berechnungen ergänzen; Skelette, Halbsätze und reine Aufzählungen ersetzen das Endprodukt nicht.
 
-Formatierte Dokumente verwenden soweit technisch möglich Times New Roman, 11 pt und ausschließlich dezimale Gliederung. Bei Markdown oder Chat steht der Exporthinweis getrennt vom Mandantentext. Rechercheprotokolle gehören in den internen Vermerk; der Mandantentext erklärt die Entscheidung verständlich.
+Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Markdown oder Chat steht der Exporthinweis getrennt vom Mandantentext. Rechercheprotokolle gehören in den internen Vermerk; der Mandantentext erklärt die Entscheidung verständlich.
 
 ## 6. Beispiele
 

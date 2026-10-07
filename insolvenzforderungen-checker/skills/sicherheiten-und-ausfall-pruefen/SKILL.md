@@ -29,7 +29,7 @@ Paragrafen 47, 48, 50, 51, 52, 103, 107, 166, 170, 171 und 190 InsO; dingliche E
 
 ## 5. Ausgabeformat
 
-Liefere einen vollständig ausformulierten Sicherheitenvermerk mit persönlicher Forderung, Gegenstand, Recht, Verwertungszuständigkeit und belegtem oder offenem Ausfall; daneben Tabellenhinweis und konkreten Briefentwurf. Rechenspalten ersetzen keine Subsumtion. Keine Skeletttexte. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung. Eine Schätzung mit Datum und Annahmen kennzeichnen, nicht als festgestellten Erlös ausgeben.
+Liefere einen vollständig ausformulierten Sicherheitenvermerk mit persönlicher Forderung, Gegenstand, Recht, Verwertungszuständigkeit und belegtem oder offenem Ausfall; daneben Tabellenhinweis und konkreten Briefentwurf. Rechenspalten ersetzen keine Subsumtion. Keine Skeletttexte. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Eine Schätzung mit Datum und Annahmen kennzeichnen, nicht als festgestellten Erlös ausgeben.
 
 ## 6. Beispiele
 

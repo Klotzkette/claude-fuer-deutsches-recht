@@ -47,7 +47,7 @@ Einfache Lichtbilder und Darbietungen nicht mit einer pauschalen Frist ab Entste
 
 Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Rechteübersicht oder Liste nächster Schritte. Beim Vertragsauftrag die betroffenen Klauseln aufeinander abstimmen; beim Beratungsauftrag keine ungefragte Abmahnung erstellen. Nutzerdateinamen gehen vor, ohne Vorgabe ist `ergebnis.md` ein möglicher Standard.
 
-Nutze dezimale Gliederung und soweit möglich Times New Roman 11 pt; Exporthinweise stehen außerhalb des Empfängertextes.
+Nutze dezimale Gliederung und soweit möglich Kanzleihausschrift; Exporthinweise stehen außerhalb des Empfängertextes.
 
 Offene Tatsachen und ihr Einfluss auf das Ergebnis bleiben erkennbar. Quellenstatus und technische Hinweise in einer gesonderten Arbeitsnotiz halten, nicht im Autorenbrief. Tragende Rechtsaussagen amtlich prüfen; keine Veröffentlichung, Abmahnung, Preisänderung oder Rechteübertragung ohne ausdrückliche Freigabe.
 

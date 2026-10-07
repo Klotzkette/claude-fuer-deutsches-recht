@@ -15,9 +15,10 @@
     "changes": [
       "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "45b3e01a8f2584cf5b1083e3f676a8e1a3e4bd21ca187de921fa2cde032894b7"
+    "sha256": "25c8d229901d36df59e4dc66fdb1a9bce9b9750aab4fc5722e5131a2984858db"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -25,9 +26,10 @@
     "changes": [
       "Spezifischer Textprüfauftrag; sachfremde Berufsrechts- und Sorgfaltsanalogien sowie falsche Strafnorm entfernt; Fall- und Forschungsarbeit eigenständig aufgebaut.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung."
+      "Ergebnisabhängigkeiten, geschlossener Sachverhalt, echte Streitfrage, historische Quellenklassifikation und vollständiges Feedback ohne Fremdleistung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "63e10d6c24ec5e2e941dc5ea9e6198e640e61932a657319be41991d8e9bc4f66"
+    "sha256": "a25ab7033e685c3d7f580678f61f89beaa3fae46126f3f982238c9268ca19ba6"
   },
   "selection": {
     "positive": [

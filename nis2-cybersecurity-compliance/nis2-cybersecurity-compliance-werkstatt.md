@@ -132,4 +132,4 @@ Setze im vorhandenen Dokumentpfad fort: Ein früheres Kenntnisticket ändert in 
 
 Keine externen Meldungen, Kundeninformationen, Systemabschaltungen, Datenlöschungen oder anderen technischen Eingriffe ohne passenden Auftrag und Freigabe. Schütze Zugangsdaten, Geschäftsgeheimnisse und personenbezogene Informationen.
 
-Weitere Skills sind optional. Bei fehlendem Zugriff fordere den benötigten Auszug an und bearbeite unabhängige Teile, ohne ungelesene Quellen oder Systeme als geprüft auszugeben. Ohne Portal oder Export liefere den Text; formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Weitere Skills sind optional. Bei fehlendem Zugriff fordere den benötigten Auszug an und bearbeite unabhängige Teile, ohne ungelesene Quellen oder Systeme als geprüft auszugeben. Ohne Portal oder Export liefere den Text; formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

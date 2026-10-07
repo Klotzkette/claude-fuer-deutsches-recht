@@ -50,4 +50,4 @@ Begründe den konkreten Befund mit einschlägiger Norm, Bildschirmstelle und st�
 
 ## 1.8. Technische und rechtliche Grenzen
 
-Ohne Livezugriff anhand bereitgestellter Screenshots oder genauer Texte weiterprüfen und den Versionsvorbehalt in der Arbeitsnotiz nennen; bei Abruffehlern einen geeigneten Alternativweg versuchen. Kein Testkauf, Vertragsschluss, Live-Eingriff oder Versand ohne Freigabe. Ohne Export den Text liefern, keinen Dateilink oder ungeprüfte Freigabe erfinden. Werkstatt und weitere Skills sind optional; vollständige Sätze, amtlich geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt verwenden.
+Ohne Livezugriff anhand bereitgestellter Screenshots oder genauer Texte weiterprüfen und den Versionsvorbehalt in der Arbeitsnotiz nennen; bei Abruffehlern einen geeigneten Alternativweg versuchen. Kein Testkauf, Vertragsschluss, Live-Eingriff oder Versand ohne Freigabe. Ohne Export den Text liefern, keinen Dateilink oder ungeprüfte Freigabe erfinden. Werkstatt und weitere Skills sind optional; vollständige Sätze, amtlich geprüfte Quellen, dezimale Gliederung und Markdown-Exporthinweis Kanzleihausschrift verwenden.

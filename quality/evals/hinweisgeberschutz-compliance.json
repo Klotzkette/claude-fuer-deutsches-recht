@@ -112,9 +112,10 @@
       "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
       "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
       "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "304165608d6650e209d2e31c53cb11335075db857750f5d51b9deefcf73459f8"
+    "sha256": "ccfebbf603fb1a9d28cdc933f0ee38aaa91f60d3cc68b993bd504ca1a6f89566"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -124,9 +125,10 @@
       "BVerfG 1 BvR 2049/00 begrenzt den Kurzschluss von Verfahrenseinstellung zu Falschmeldung; historischer Anwendungsbereich ausdrücklich begrenzt.",
       "HinSchG Paragrafen 5/6, 7/32, 8/9, 17/28, 33/36, 37/38 und 39 nach Funktion getrennt.",
       "Anwaltsmeldestelle, Beschwerde, Lieferkette, öffentlicher Dienst, externe/anonyme Meldung, Rechtsschutz, Vertragsklauseln, Beweislast, Bonus/Versetzung, Falschmeldung und Datenpanne individuell erhalten.",
-      "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss."
+      "Unabhängige Erkenntnisquellen, indirekte Identifizierbarkeit, konkrete Einwilligung, Zwischenrückmeldung und differenzierter Untersuchungsabschluss.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b2b20575d198b1358b9053f15b839b2135172bc05ac992fb4541d043c2992f73"
+    "sha256": "223f633f69e21d7075eeb809a5cd43adbb24094cc31fcf18f974dca6fd778242"
   },
   "selection": {
     "positive": [

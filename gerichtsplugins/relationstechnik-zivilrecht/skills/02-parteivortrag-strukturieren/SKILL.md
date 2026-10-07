@@ -31,7 +31,7 @@ ZPO, BGB, HGB, Methodenlehre des Buergerlichen Rechts (Larenz, Wieacker)
 
 ## Output
 
-Liefere den bestellten ausformulierten Abschnitt oder die ausdrücklich verlangte Streitstandstabelle mit genauen Aktenstellen. Der gewünschte Dateiname geht vor; technische Prüfnotizen getrennt halten. Bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden.
+Liefere den bestellten ausformulierten Abschnitt oder die ausdrücklich verlangte Streitstandstabelle mit genauen Aktenstellen. Der gewünschte Dateiname geht vor; technische Prüfnotizen getrennt halten. Bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden.
 
 ## Anker-Rechtsprechung
 

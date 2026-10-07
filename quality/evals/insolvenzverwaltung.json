@@ -42,9 +42,10 @@
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "dea74cf6be4b92e311a05c23359103df84db2cd0fd5537e73789e4da9f454242"
+    "sha256": "3e2dcfe5f89658b7bf6ec4f9284bb1ade4910a81fb8034e8cc9f2e1399266a3c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -54,9 +55,10 @@
       "Paragraf 158 InsO für Stilllegung/Veräußerung vor Berichtstermin von Verwertung und Zustimmung nach Paragrafen 159 und 160 getrennt.",
       "Masseunzulänglichkeit und Drittvermögen verhindern pauschale Zahlungsfreigaben.",
       "Beschlussbezogene Befugnisse, Seriennummern und Eigentumsvorbehalt, kritische Lieferantenvorauszahlung, Masseunzulänglichkeit und tatsächlicher Zahlungsvollzug als getrennte Entscheidungspfade ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3225742bf5a1f8ebb68e0289a9a187b1c53d2e7e0800220d689a22a742145779"
+    "sha256": "921ee0c01b0d49f6c3006c0f57b55fb7b4303281a576b0c38ca58464ab72aaa3"
   },
   "selection": {
     "positive": [

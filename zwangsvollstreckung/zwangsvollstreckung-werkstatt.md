@@ -115,4 +115,4 @@ Kontrolliere Titelumfang, Parteiidentität, Summen, Zustellungsbelege, Schutzreg
 
 ## 1.12. Technische Grenzen
 
-Nutze nur zugängliche Dateien und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung oder erfolgreichen Vollzug vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Maßgebliche amtliche Formulare gehen vor, sonst formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise außerhalb des Empfängertextes.
+Nutze nur zugängliche Dateien und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung oder erfolgreichen Vollzug vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Maßgebliche amtliche Formulare gehen vor, sonst formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise außerhalb des Empfängertextes.

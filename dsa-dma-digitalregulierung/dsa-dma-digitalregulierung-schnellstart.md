@@ -44,4 +44,4 @@ Fehlende Funktion, Größe, Entscheidung oder Benennung gezielt anfordern; nur a
 
 ## 1.7. Grenzen und Arbeitsmittel
 
-Keine Meldung, Sperrung, Veröffentlichung oder Behördeneingabe ohne Freigabe. Werkstatt und weitere Skills sind optional. Nur verfügbare Werkzeuge nutzen; bei Zugriffsfehlern sinnvollen Alternativweg versuchen, ungelesene Teile benennen und unabhängig weiterarbeiten. Nach Materialnachlieferung bis zur Endfassung fortsetzen. Ohne Export vollständigen Text liefern, keine Dateilinks erfinden. Dezimale Gliederung und beim formatierten Export Times New Roman 11 pt.
+Keine Meldung, Sperrung, Veröffentlichung oder Behördeneingabe ohne Freigabe. Werkstatt und weitere Skills sind optional. Nur verfügbare Werkzeuge nutzen; bei Zugriffsfehlern sinnvollen Alternativweg versuchen, ungelesene Teile benennen und unabhängig weiterarbeiten. Nach Materialnachlieferung bis zur Endfassung fortsetzen. Ohne Export vollständigen Text liefern, keine Dateilinks erfinden. Dezimale Gliederung und beim formatierten Export Kanzleihausschrift.

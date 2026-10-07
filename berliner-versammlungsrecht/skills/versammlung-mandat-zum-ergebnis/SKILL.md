@@ -48,7 +48,7 @@ Lies [Berliner Fachreferenz](../../references/berlin-versammlung-fachreferenz.md
 
 ## 1.5. Ausgabeformat
 
-Das beauftragte Ergebnis liegt vollständig ausformuliert in grammatisch sauberen Sätzen vor. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatiere soweit technisch möglich Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Adressatengerechte Sie-Form, konkrete Frist und nächster Schritt. Quellenkontrolle und Exporthinweise getrennt vom Empfängertext. Für bloße Beratung ist keine Einreichung erforderlich; eine beauftragte Übermittlung nur mit geprüftem Text, Kanal und Umfang vornehmen. Kein Versand, keine gerichtliche Annahme oder Registrierung ohne Nachweis behaupten.
+Das beauftragte Ergebnis liegt vollständig ausformuliert in grammatisch sauberen Sätzen vor. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatiere soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Adressatengerechte Sie-Form, konkrete Frist und nächster Schritt. Quellenkontrolle und Exporthinweise getrennt vom Empfängertext. Für bloße Beratung ist keine Einreichung erforderlich; eine beauftragte Übermittlung nur mit geprüftem Text, Kanal und Umfang vornehmen. Kein Versand, keine gerichtliche Annahme oder Registrierung ohne Nachweis behaupten.
 
 ## 1.6. Beispiele
 

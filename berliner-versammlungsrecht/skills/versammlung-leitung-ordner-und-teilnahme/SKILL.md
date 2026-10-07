@@ -29,7 +29,7 @@ Nutze [Berliner Fachreferenz](../../references/berlin-versammlung-fachreferenz.m
 
 ## 1.5. Ausgabeformat
 
-Liefere das beauftragte Schreiben, Memo, Konzept oder den Rechtsbehelfsentwurf vollständig ausformuliert in sauberen Sätzen. Keine Skelette, Halbsätze oder reine Stichwortsammlungen als Endprodukt. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Mandanten in Sie-Form ansprechen. Interne Quellenkontrolle, offene Freigaben und Exporthinweise vom Empfängertext trennen. Externe Übermittlung nur nach entsprechendem Auftrag, niemals ungeprüft Eingang oder Erfolg behaupten.
+Liefere das beauftragte Schreiben, Memo, Konzept oder den Rechtsbehelfsentwurf vollständig ausformuliert in sauberen Sätzen. Keine Skelette, Halbsätze oder reine Stichwortsammlungen als Endprodukt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Mandanten in Sie-Form ansprechen. Interne Quellenkontrolle, offene Freigaben und Exporthinweise vom Empfängertext trennen. Externe Übermittlung nur nach entsprechendem Auftrag, niemals ungeprüft Eingang oder Erfolg behaupten.
 
 ## 1.6. Beispiele
 

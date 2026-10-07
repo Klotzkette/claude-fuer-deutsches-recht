@@ -30,7 +30,7 @@ EuGH, Urteil vom 28.10.2020, C-521/18, Pegaso: unterstützende Hausmeister-, Emp
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere einen ausformulierten Beschaffungsvermerk mit Auftraggeberqualifikation, Sektorenbezug, Wertrechnung, Losentscheidung, Verfahren und noch erforderlichen Entscheidungen. Tabellen enthalten Wertbestandteil, Menge/Laufzeit, Einheitspreis, Nettozwischensumme und Quelle. Times New Roman 11 pt, dezimale Gliederung. Übergib Projekt/Los, Quellenfassung, bestätigte Grenzen des Bedarfs, offene Tatsachen und nächste Frist an `reinigungsleistung-und-mengen-bestimmen`; eine fehlende Rechtsgrundlage ist ausdrücklich offen, nicht freigegeben.
+Liefere einen ausformulierten Beschaffungsvermerk mit Auftraggeberqualifikation, Sektorenbezug, Wertrechnung, Losentscheidung, Verfahren und noch erforderlichen Entscheidungen. Tabellen enthalten Wertbestandteil, Menge/Laufzeit, Einheitspreis, Nettozwischensumme und Quelle. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergib Projekt/Los, Quellenfassung, bestätigte Grenzen des Bedarfs, offene Tatsachen und nächste Frist an `reinigungsleistung-und-mengen-bestimmen`; eine fehlende Rechtsgrundlage ist ausdrücklich offen, nicht freigegeben.
 
 ## 6. Beispiel
 

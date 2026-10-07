@@ -47,7 +47,7 @@ BGB Paragrafen 873, 879, 1191 und 1192; GBO Paragrafen 19, 29 und 45; ZPO Paragr
 
 ## 5. Ausgabeformat
 
-Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
+Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
 
 ## 6. Beispiel
 

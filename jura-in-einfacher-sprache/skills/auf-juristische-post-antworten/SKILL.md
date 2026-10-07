@@ -32,7 +32,7 @@ Bei fremdsprachiger Eingabe an eine Sozialbehörde nach Paragraf 19 Absätze 3 u
 
 ## 5. Ausgabeformat
 
-Ausformulierte Antwort mit korrektem Bezug, Anliegen, nötiger Begründung und Gruß; Times New Roman, 11 pt, dezimale Gliederung. Daneben kurz Frist, Form und offene Angaben. Keine bloße Reaktionsstrategie anstelle des Briefs.
+Ausformulierte Antwort mit korrektem Bezug, Anliegen, nötiger Begründung und Gruß; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Daneben kurz Frist, Form und offene Angaben. Keine bloße Reaktionsstrategie anstelle des Briefs.
 
 ## 6. Beispiele
 

@@ -52,9 +52,10 @@
       "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
       "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
-      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt."
+      "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5b199d101b856c73399df2cb5d5c0902863f6ec787d928e4211c88830d714df4"
+    "sha256": "9b77bf989f33c1d54ef7cb96655211aa9b30e99aface735f7cb33bf5556c7aa3"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",
@@ -121,9 +122,10 @@
       "Verbandsqualifikation mit konkreten Normen statt bloßem Gesetzesverweis unterlegt.",
       "Datenschutzbezogene Verbandsklage von kollektivem Schadensersatz abgegrenzt.",
       "Button- und Probeaboanker im Werkstatttext verifiziert; sämtliche vorhandenen Serienfallgruppen erhalten.",
-      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet."
+      "Elektronische Widerrufsfunktion und ihren Nachweis eigenständig eingeordnet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7bd8a6f707321ca4902c8cc6427159bd5a51120743282db8829f5fd3cbb33b22"
+    "sha256": "a41ca143f844824a21c1d82adf63355c60989000fe8b65eb04015cf72e52aa9e"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

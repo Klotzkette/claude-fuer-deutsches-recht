@@ -496,16 +496,18 @@
     "verdict": "revised",
     "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
     "changes": [
-      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "241bc41fc04304e087d05bdf78537442d294928eee4d9c8796ee9c529f6ac363"
+    "sha256": "5571f2c97549284e1c1a34cc3a3fdac5deaf66fad579f88922e759c2fbbd0692"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Eigenständiger konkreter Nachtragsablauf mit Primärquellen und abgegrenzten Entscheidungen.",
     "changes": [
-      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert."
+      "BGB und VOB/B getrennt, BGK-Klarstellung aufgenommen, Rechtsformausnahme und öffentliche Änderungsgrenzen präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "92b969445fc9f1b6851876dc6d6f887718469e771fa666e981b19de3a96ee72e"
+    "sha256": "0208c03f1fb0b409ddaea19c8ccd7cfdc74e4918b037bab1e1937b3b372e452e"
   }
 }

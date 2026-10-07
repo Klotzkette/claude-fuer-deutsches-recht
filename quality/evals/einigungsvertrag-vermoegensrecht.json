@@ -36,9 +36,10 @@
       "BVerwG 8 C 13.18 in beiden Prompts auf konkrete Anhaltspunkte im fristgerechten Antrag angewendet",
       "Bücher-/Ausgleichsleistungsfall von Grundstücksfristen ausdrücklich abgegrenzt",
       "Keine automatische Behörden- oder Prozesskaskade; vollständige Dokumente und gezielte Urkundennachforderung erhalten",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "407a7950ec168f202290c7fbbdd35a52fac3d75fecdb6e5c857d7e52e7ec46c0"
+    "sha256": "c17ede01df9a39a45f28d1e6984b202374721c2d1f306115bea54dc2ed7bf661"
   },
   "selection": {
     "positive": [
@@ -91,9 +92,10 @@
       "BVerwG 8 C 13.18 in beiden Prompts auf konkrete Anhaltspunkte im fristgerechten Antrag angewendet",
       "Bücher-/Ausgleichsleistungsfall von Grundstücksfristen ausdrücklich abgegrenzt",
       "Keine automatische Behörden- oder Prozesskaskade; vollständige Dokumente und gezielte Urkundennachforderung erhalten",
-      "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen."
+      "Flurstücksteilung und Verschmelzung, Aussagegrenzen von Archivquellen, Erb- gegenüber Erwerbskette, bindende Folgeentscheidung, begrenzter negativer Suchbefund und Ausschlussfrist mit Ausnahmen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "65187690d2ae7f4aa7d642c46f6bb2c0ccda75b6b2c719c6d90e0f5c2a7a335c"
+    "sha256": "b0661f373b54beadf87b672b1b437530859ed03294156aabb6631d38310e519a"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

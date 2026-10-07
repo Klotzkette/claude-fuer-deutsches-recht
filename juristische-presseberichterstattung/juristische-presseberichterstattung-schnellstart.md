@@ -48,7 +48,7 @@ Halte Belegabgleich, Quellenabruf und noch nötige Freigaben in einer getrennten
 
 Eine unbelegte identifizierende Verdachtsmeldung nicht freigeben; stattdessen konkrete Nachfragen und eine begrenzte Fassung liefern. Bei Entscheidungsmeldungen Tenor, Instanz, Verfahrensart und Rechtskraft getrennt erfassen. Eine Pressemitteilung ersetzt nicht die ungelesenen Entscheidungsgründe. Eine Zurückverweisung ist kein endgültiger Prozesserfolg in der Sache.
 
-Headline und Vorspann dürfen keine höhere Gewissheit behaupten als der Text. Kennzeichne fiktive Übungsfälle ausdrücklich und erfinde keine realen Aktenzeichen. Prüfe tragende Quellen amtlich; keine eigenständige Veröffentlichung oder Kontaktaufnahme. Export in Times New Roman mit 11 Punkt und dezimaler Gliederung, soweit das Redaktionsformat dies zulässt.
+Headline und Vorspann dürfen keine höhere Gewissheit behaupten als der Text. Kennzeichne fiktive Übungsfälle ausdrücklich und erfinde keine realen Aktenzeichen. Prüfe tragende Quellen amtlich; keine eigenständige Veröffentlichung oder Kontaktaufnahme. Export in der Kanzleihausschrift und dezimaler Gliederung, soweit das Redaktionsformat dies zulässt.
 
 ## 1.8. Technische Grenzen
 

@@ -1,6 +1,6 @@
 # 1. Sichtprüfung der Word-Originale
 
-Geprüfter Stand: 6. Oktober 2026. Die 17 Word-Originale wurden mit dem kanonischen `render_docx.py` des Documents-Skills und ausschließlich dem gebündelten LibreOffice gerendert. Jede Datei hat eine Seite. Sämtliche 17 Seiten wurden als PNG vollständig visuell geprüft. Grundschrift ist Times New Roman 11 pt auf A4, Gliederung ausschließlich dezimal. Es bestehen keine überlaufenden Zeilen, abgeschnittenen Absätze, fehlenden Glyphen oder isolierten Folgeseiten.
+Geprüfter Stand: 6. Oktober 2026. Die 17 Word-Originale wurden mit dem kanonischen `render_docx.py` des Documents-Skills und ausschließlich dem gebündelten LibreOffice gerendert. Jede Datei hat eine Seite. Sämtliche 17 Seiten wurden als PNG vollständig visuell geprüft. Grundschrift ist Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt auf A4, Gliederung ausschließlich dezimal. Es bestehen keine überlaufenden Zeilen, abgeschnittenen Absätze, fehlenden Glyphen oder isolierten Folgeseiten.
 
 Geprüfte Dateien: 01, 02, 05, 07, 09, 11, 13, 14, 18, 20, 22, 24, 25, 26, 29, 32 und 36. Bei 11 und 26 wurde nach der ersten Prüfung der Adressat im Briefkopf präzisiert; beide Dateien wurden anschließend erneut kanonisch gerendert und vollständig geprüft.
 

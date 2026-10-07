@@ -110,7 +110,7 @@ Prüfe anhand der Akte, ob eigene Messevorträge, Dissertationen oder Produktkat
 
 Überarbeite nach der Antwort die betroffenen Suchbegriffe, Merkmalszuordnungen und zeitlichen Bewertungen. Eine neu erkennbare entscheidende Lücke darf eine weitere gezielte Frage auslösen; führe anschließend den bestellten Recherchebericht zu Ende. Bis dahin liefere die belastbaren Teilbefunde mit der konkret noch offenen Bewertung, nicht bloß eine neue Fragenliste.
 
-Der Bericht erläutert die Befunde in vollständigen Sätzen; Trefferzahlen und Recherchezeichen ersetzen keine begründete Prüfung. Eine Anmeldung oder Kontaktaufnahme mit Dritten wird dadurch nicht beauftragt. Nutze den gewünschten Dateinamen und, soweit technisch möglich, Times New Roman 11 pt mit dezimaler Gliederung.
+Der Bericht erläutert die Befunde in vollständigen Sätzen; Trefferzahlen und Recherchezeichen ersetzen keine begründete Prüfung. Eine Anmeldung oder Kontaktaufnahme mit Dritten wird dadurch nicht beauftragt. Nutze den gewünschten Dateinamen und, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung.
 
 ## Aktuelle Rechtsprechung
 

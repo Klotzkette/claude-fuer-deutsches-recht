@@ -34,7 +34,7 @@ Rechtsprechung benötigt verifiziertes Gericht, Datum, Aktenzeichen und einen ü
 
 Liefere den gewünschten Mandantenbrief, Honorarprüfvermerk oder Schriftsatz in vollständigen Sätzen; eine Tabelle ersetzt den bestellten Text nicht. In den Mandantenbrief gehören Ergebnis, verständliche Begründung und Handlungsoption, keine internen Quellenstatusfelder. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-Formatierte Dokumente verwenden, soweit möglich, Times New Roman 11 Punkt und dezimale Gliederung. Versand, Einreichung, Abnahme, Beauftragung und Zahlung erfolgen nur nach ausdrücklicher Freigabe.
+Formatierte Dokumente verwenden, soweit möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Versand, Einreichung, Abnahme, Beauftragung und Zahlung erfolgen nur nach ausdrücklicher Freigabe.
 
 ## 1.6 Beispiel
 

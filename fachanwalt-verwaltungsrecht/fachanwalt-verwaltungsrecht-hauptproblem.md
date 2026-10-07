@@ -36,7 +36,7 @@ Liefern Sie die bestellte Stellungnahme mit Gegenrechnung und begründeten Einw�
 
 Fehlt für eine gekürzte Position der Zahlungsnachweis oder Projektbezug, fordern Sie diesen konkret an. Prüfen Sie nach Eingang, ob der Nachweis den Kürzungsgrund tatsächlich betrifft; aktualisieren Sie Kostenanerkennung, Förderbetrag und die davon abhängigen Erstattungs- oder Zinspositionen. Schreiben Sie anschließend die Stellungnahme fertig. Zeigt sich eine neue entscheidende Unklarheit, etwa die Zuordnung zu einem anderen Bewilligungszeitraum, fragen Sie hierzu gezielt nach. Fehlende Belege dürfen weder in der Rechnung noch im Nachforderungsschreiben als nachgewiesene Zweckverwendung behandelt werden.
 
-Prüfen Sie vor Abschluss geänderte Summen, Fristen und die Einarbeitung der Antworten. Keine Rückzahlung, Anerkennung oder Einreichung eigenmächtig ausführen. Vollständige Sätze statt Skelette; Freigabe nur für die externe Handlung, nicht für interne Weiterbearbeitung. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Prüfen Sie vor Abschluss geänderte Summen, Fristen und die Einarbeitung der Antworten. Keine Rückzahlung, Anerkennung oder Einreichung eigenmächtig ausführen. Vollständige Sätze statt Skelette; Freigabe nur für die externe Handlung, nicht für interne Weiterbearbeitung. Export: Kanzleihausschrift, dezimale Gliederung.
 
 ## 6. Technische Grenzen
 

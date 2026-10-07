@@ -52,9 +52,10 @@
       "Bauzulassungsnormen nach Verkehrsträger konkretisiert und vorhandene Lade-, Parkraum-, Schulweg- und Förderzweige erhalten.",
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
       "Generische Ablaufwiederholung durch konkrete Antworten zu Seitenzufahrt, Immissionsort, Nutzerkreis und begrenztem Bauumfang ersetzt.",
-      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5ae04927939f526cc5aec4ba5887b226588810378fa4bd1106265b34cd1a214f",
+    "sha256": "8d3a486c0c486b444af5b03dc111dc90356c17c1781d9b028f4319f7c23385b8",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -67,9 +68,10 @@
       "Amtlich gelesenen Verfahrensanker zur Präklusion mit Reichweitengrenze und aktuellem UmwRG verknüpft.",
       "Leitungsarbeiten und Gleisbau planblattbezogen in Vermerk und Klärungsschreiben übersetzt; Bekanntgabe, Vorverfahren und Eilrechtsschutz differenziert.",
       "Bau- und Betriebslärm, Ersatzzuwegung, Ladepunktzugang und Schulwegkonflikt mit gezielten Rückfragen und konkreten Textänderungen verbunden.",
-      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus."
+      "Bergrechtlicher Ausschluss verwaltungsverfahrensbezogener Präklusion bleibt getrennt von gerichtlichen Fristen. Neuer 7 C 5.25 in Werkstatt und Mini schließt das Missverständnis einer allgemeinen Fristbefreiung ausdrücklich aus.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a8de21b1822de0b36e1070c65e15331aebe855f13ce1a357fdde2ca55b9ba715",
+    "sha256": "ee0d890e971692c337a81a4e5380c2380da801199932090d6df23246ede8fc97",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

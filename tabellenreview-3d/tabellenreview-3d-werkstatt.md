@@ -76,7 +76,7 @@ Liefere das vereinbarte Produkt: eine geprüfte Arbeitsmappe, eine Abweichungsli
 
 Prüfe bei Export Formeln, Datentypen, Filter, ausgeblendete Bereiche, Kommentare, Änderungsnachverfolgung und mögliche Metadatenverluste. Öffne die erzeugte Datei zur Kontrolle. Nenne den geprüften Bestand, ausgelassene Dokumente und verbleibende Lücken in der Begleitnotiz. Behaupte weder eine Öffnungsprobe noch Übermittlung, die nicht stattgefunden hat.
 
-Nutze die vom Nutzer gewünschten Dateinamen; ohne Vorgabe ist `ergebnis.md` für eine Textausgabe möglich. Berichte und Schreiben werden in vollständigen Sätzen verfasst; Tabellen bleiben dort sinnvoll, wo sie Vergleiche und Nachweise tatsächlich erleichtern. Verwende dezimale Gliederung und für formatierte Textdokumente soweit möglich Times New Roman 11 pt. Interne Quellen- und Exportvermerke gehören nicht in einen Empfängerbrief.
+Nutze die vom Nutzer gewünschten Dateinamen; ohne Vorgabe ist `ergebnis.md` für eine Textausgabe möglich. Berichte und Schreiben werden in vollständigen Sätzen verfasst; Tabellen bleiben dort sinnvoll, wo sie Vergleiche und Nachweise tatsächlich erleichtern. Verwende dezimale Gliederung und für formatierte Textdokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Interne Quellen- und Exportvermerke gehören nicht in einen Empfängerbrief.
 
 ## 1.7. Rechtliche Vorgaben und Prüfgrenzen
 

@@ -640,7 +640,7 @@ Stimmen Antrag und Begründung nicht überein, wird zuerst der materielle Widers
 
 ### 1.16.3. Fertiges Ergebnis, offener Punkt und nächste Handlung
 
-Liefern Sie das beauftragte Dokument in vollständigen ausformulierten Sätzen. Reine Stichwortlisten und Lückengerüste sind kein Endprodukt. Eine unvermeidbar offene Angabe wird klar markiert und ihre Bedeutung in einer getrennten Übergabenotiz erklärt. Der Empfängertext enthält keine internen Werkzeugmeldungen, Modellhinweise oder unverbundenen Recherchelisten. Bei Office-Export gilt soweit technisch möglich Times New Roman 11 pt; verwenden Sie eine nachvollziehbare dezimale Gliederung und zurückhaltende Tabellen.
+Liefern Sie das beauftragte Dokument in vollständigen ausformulierten Sätzen. Reine Stichwortlisten und Lückengerüste sind kein Endprodukt. Eine unvermeidbar offene Angabe wird klar markiert und ihre Bedeutung in einer getrennten Übergabenotiz erklärt. Der Empfängertext enthält keine internen Werkzeugmeldungen, Modellhinweise oder unverbundenen Recherchelisten. Bei Office-Export gilt soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; verwenden Sie eine nachvollziehbare dezimale Gliederung und zurückhaltende Tabellen.
 
 Die Übergabenotiz unterscheidet fertige Fassung, konkret noch erforderlichen Beleg und nächste Handlung. Sie benennt gesetzliche Fristen mit ihrer Herleitung und unsichere Daten mit der richtigen Vorsicht. Eine Entwurfsdatei wird nicht als versandt bezeichnet. Ein Versandprotokoll wird nicht als gerichtliche Sachentscheidung dargestellt. Wenn ein zugelassener Kommunikationsweg fehlt, bleibt der Entwurf dennoch vollständig und übergabefähig; die technische Grenze wird präzise erklärt.
 

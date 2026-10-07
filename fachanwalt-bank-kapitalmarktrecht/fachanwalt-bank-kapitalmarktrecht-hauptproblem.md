@@ -42,4 +42,4 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen; nur ohne Vorga
 
 Offene Zahlungen mit fehlendem Beleg und Auswirkung kennzeichnen. Quellenstatus, technische Prüfgrenzen und interne Risiken in einer gesonderten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Sperre, Überweisung, Anzeige, Versand oder Einreichung nur nach Freigabe auslösen.
 
-Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt und Exporthinweis bei Markdown. Ohne Werkzeuge vollständigen Text mit klaren Recherchegrenzen liefern; keine Dateilinks erfinden.
+Vollständige Sätze statt Skeletten, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Kanzleihausschrift und Exporthinweis bei Markdown. Ohne Werkzeuge vollständigen Text mit klaren Recherchegrenzen liefern; keine Dateilinks erfinden.

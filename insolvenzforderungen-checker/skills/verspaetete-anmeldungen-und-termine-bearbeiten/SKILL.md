@@ -29,7 +29,7 @@ Paragrafen 175 bis 177, 184, 186 und 188 bis 190 InsO sowie die konkrete gericht
 
 ## 5. Ausgabeformat
 
-Erstelle Fristenübersicht mit Ereignis, Nachweis, gesetzlicher oder gerichtlicher Grundlage, Verantwortlichkeit und nächster Handlung. Formuliere Verfahrensvorschlag und Brief vollständig aus; keine reine Kalenderliste als Endprodukt. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung. Keinen bereits anberaumten Zusatztermin behaupten, solange nur ein Antrag vorbereitet ist.
+Erstelle Fristenübersicht mit Ereignis, Nachweis, gesetzlicher oder gerichtlicher Grundlage, Verantwortlichkeit und nächster Handlung. Formuliere Verfahrensvorschlag und Brief vollständig aus; keine reine Kalenderliste als Endprodukt. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keinen bereits anberaumten Zusatztermin behaupten, solange nur ein Antrag vorbereitet ist.
 
 ## 6. Beispiele
 

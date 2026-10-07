@@ -31,7 +31,7 @@ Prüfen Sie insbesondere Artikel 4, 5, 6, 26, 28, 32, 33, 44 folgende und 82 DSG
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Vereinbarung vollständig in ausformulierten Sätzen, einschließlich erforderlicher konkret ausgefüllter Anlagen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie nationale Normen mit „Paragraf“ aus; Markdown-Exporthinweise und ungeklärte Maßnahmen gehören in einen getrennten Vermerk.
+Liefern Sie die beauftragte Vereinbarung vollständig in ausformulierten Sätzen, einschließlich erforderlicher konkret ausgefüllter Anlagen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie nationale Normen mit „Paragraf“ aus; Markdown-Exporthinweise und ungeklärte Maßnahmen gehören in einen getrennten Vermerk.
 
 ## 6. Beispiele
 

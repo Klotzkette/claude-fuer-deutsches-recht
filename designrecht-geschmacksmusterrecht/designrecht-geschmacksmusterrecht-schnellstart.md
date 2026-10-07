@@ -50,4 +50,4 @@ Interne Quellenabrufe, Zugriffsbeschränkungen und Recherchebedarf stehen in ein
 
 ## 1.7. Technische Grenzen
 
-Eigenständig nutzbar; Skills und Werkstatt sind optional. Ohne Export liefere den vollständigen Text und benenne ungesehene Ansichten, ohne ihre Prüfung zu behaupten. Gliedere dezimal und verwende beim formatierten Export Times New Roman 11 pt; technische Exporthinweise gehören nicht in den Empfängertext.
+Eigenständig nutzbar; Skills und Werkstatt sind optional. Ohne Export liefere den vollständigen Text und benenne ungesehene Ansichten, ohne ihre Prüfung zu behaupten. Gliedere dezimal und verwende beim formatierten Export Kanzleihausschrift; technische Exporthinweise gehören nicht in den Empfängertext.

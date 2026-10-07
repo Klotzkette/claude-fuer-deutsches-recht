@@ -39,7 +39,7 @@ Lies die [Zitierweise](../../references/zitierweise.md) und die Heizkostenquelle
 
 ## 5. Ausgabeformat
 
-Liefere Bestandsrechnung, bewertete Verbrauchsschichten, getrennte Kostenpoole und Nutzerrechnung mit ausformuliertem Ergebnis. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen genügen nicht. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Formatwunsch getrennt als Exporthinweis. Gib keine nicht erzeugte Tabellen- oder PDF-Datei vor.
+Liefere Bestandsrechnung, bewertete Verbrauchsschichten, getrennte Kostenpoole und Nutzerrechnung mit ausformuliertem Ergebnis. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen genügen nicht. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Formatwunsch getrennt als Exporthinweis. Gib keine nicht erzeugte Tabellen- oder PDF-Datei vor.
 
 ## 6. Beispiele
 

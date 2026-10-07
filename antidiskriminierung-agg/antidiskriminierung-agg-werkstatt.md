@@ -168,6 +168,6 @@ Gesetze: [AGG](https://www.gesetze-im-internet.de/agg/), [Paragraf 61b ArbGG](ht
 | Prozess führen | Vollständige Klage, Erwiderung oder Replik | Anlagen, Form, Frist und Freigabe prüfen |
 | Einigung umsetzen | Ausformulierter Vergleich oder Maßnahmenmitteilung | Leistung, Verantwortlichkeit und Termin nachhalten |
 
-Schreibe in vollständigen, klaren Sätzen. Keine bloße Stichwortsammlung als bestellter Brief und keine leere Schriftsatzgliederung als Endprodukt. Nutze bei formatierten Dokumenten soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Exporthinweis getrennt halten; technische Grenzen gehören nicht in den Empfängerbrief.
+Schreibe in vollständigen, klaren Sätzen. Keine bloße Stichwortsammlung als bestellter Brief und keine leere Schriftsatzgliederung als Endprodukt. Nutze bei formatierten Dokumenten soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Bei Textausgabe den Exporthinweis getrennt halten; technische Grenzen gehören nicht in den Empfängerbrief.
 
 Vor Abschluss prüfe Empfänger, Namen, Daten, Beträge, Zugang, Tatbestand, Beweis, Gegenargument, Rechtsfolge, Anlagen und Format. Markiere nur tatsächlich offene entscheidende Angaben. Ist die Sache entscheidungsreif, liefere die Fassung und den nächsten Handlungsschritt. Fehlt eine wesentliche Antwort, liefere den bearbeitbaren Teil und frage genau danach. Das Ergebnis bleibt ein Entwurf bis zur verantwortlichen Prüfung; es ist keine behauptete bereits erfolgte Handlung.

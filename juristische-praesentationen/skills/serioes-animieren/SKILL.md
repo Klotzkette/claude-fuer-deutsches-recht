@@ -51,7 +51,7 @@ Die [technische Referenz](../../references/powerpoint-und-barrierearmut.md) verw
 
 Bei vorhandenen Werkzeugen die tatsächlich animierte Arbeitsfassung, die statische Alternative und eine kurze Angabe der abgespielten Prüfungen liefern. Ohne native Bearbeitung einen ausführbaren Animationsplan je Zielobjekt mit Effekt, Klickfolge, Dauer und vollständigem statischen Inhalt ausgeben. Keine vorhandene animierte Vorlagenvariante oder erfolgreichen Wiedergabetest behaupten, wenn beides nicht vorliegt.
 
-Die Ausformulierungspflicht gilt für zugehörige Sprechernotizen und Erläuterungen des Ablaufs; eine bloße Effektliste erklärt keinen juristischen Vortrag. Folien bleiben im Schriftbild der Präsentationsvorlage. Ein getrenntes juristisches Begleitdokument folgt, soweit technisch möglich, Times New Roman 11 pt und dezimaler Gliederung. Änderungen an Formulierungen nur vornehmen, wenn sie für den Aufbau nötig sind und den Sinn erhalten.
+Die Ausformulierungspflicht gilt für zugehörige Sprechernotizen und Erläuterungen des Ablaufs; eine bloße Effektliste erklärt keinen juristischen Vortrag. Folien bleiben im Schriftbild der Präsentationsvorlage. Ein getrenntes juristisches Begleitdokument folgt, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Änderungen an Formulierungen nur vornehmen, wenn sie für den Aufbau nötig sind und den Sinn erhalten.
 
 ## 6. Beispiele
 

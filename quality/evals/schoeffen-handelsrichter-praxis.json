@@ -63,9 +63,10 @@
       "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
       "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
       "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
-      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "45512776c9dec7a0d3bbabfe8ca58d03de789372710d3d5011e8774ca8ca14bd",
+    "sha256": "3c951f5b821947d120ad41bce9ef76a4da4086645d23f08cedb8c0627e183524",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -122,9 +123,10 @@
       "Handelsrichter nach ZPO und Verwaltungsrichter nach VwGO gesondert zuordnen.",
       "Leerstart: Frage in der Verhandlung, Kontakt offenlegen oder Beleg einordnen wählen.",
       "Neue Angaben zu Kontaktzeitpunkt und Gesprächsinhalt verändern die Offenlegung; geklärte Gebindeeinheit verändert Belegvergleich und neutrale Nachfrage.",
-      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen."
+      "Privaten Kontakt von automatischem Ausschluss unterscheiden; Wahrnehmung in zulässige Frage überführen; Handelsrechnung nicht als Liefernachweis behandeln; Hörprobleme und Beratungsgeheimnis in konkrete Handlungsvorschläge übersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e3155a4587122707499e3030cf6b18e155cecd5c41ad94575be1346904557d73",
+    "sha256": "14a3a4761135e600de4d5ccd4695a3920a495d12c587d98447645817302debf5",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

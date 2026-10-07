@@ -37,4 +37,4 @@ Die Regeln in `references/quellenhygiene.md` und `references/zitierweise.md` sin
 
 Liefere eine verständliche, vollständig ausformulierte Bewertung mit den tatsächlich benötigten Textvorschlägen. Bei einem bestellten Berichtigungsschreiben nach Klärung der tragenden Tatsachen den Brief fertigstellen; nicht bei einer Codetabelle stehenbleiben. Keine unbelegten Tatsachen in Ersatzformulierungen übernehmen.
 
-Dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis. Fehlende Lesbarkeit konkret benennen und die übrigen Absätze bearbeiten. Ohne Export den vollständigen Text liefern, keine Datei erfinden. Externe Versendung nur nach ausdrücklicher Freigabe.
+Dezimale Überschriften mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis. Fehlende Lesbarkeit konkret benennen und die übrigen Absätze bearbeiten. Ohne Export den vollständigen Text liefern, keine Datei erfinden. Externe Versendung nur nach ausdrücklicher Freigabe.

@@ -42,4 +42,4 @@ Liefern Sie das beauftragte Gutachten, Forderungs- oder Erwiderungsschreiben unt
 
 Kennzeichnen Sie offen bleibende Motive statt Erfolg zu garantieren. Nach neuen Antworten Klausel, Statistik, Rechnung und Text erneut abgleichen und bis zum bestellten Ergebnis weiterarbeiten. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Option ausüben, Forderung anmelden, Erklärung versenden oder Klage einreichen.
 
-Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Keine Zusatzmodule erforderlich; ohne Export den vollständigen Text liefern und keine Dateilinks erfinden.
+Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Kanzleihausschrift. Keine Zusatzmodule erforderlich; ohne Export den vollständigen Text liefern und keine Dateilinks erfinden.

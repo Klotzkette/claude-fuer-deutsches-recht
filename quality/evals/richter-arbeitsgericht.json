@@ -36,9 +36,10 @@
       "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
-      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8bbe18f3b51baf0f24345b54a1a303c5b34888169d30072e16889527edf39dce",
+    "sha256": "c6eb1529a3dba7946ca15f8b984f638974cb84c168e48f8bceb425cc115952da",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -49,9 +50,10 @@
       "Neutraler Hinweis bei streitigem Kündigungszugang statt fingierter Beweisaufnahme; pauschale Rechtsprechungsliste durch konkrete Beweisfrage ersetzt.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Botenvernehmung -> Zugangs- und Fristwürdigung aktualisieren; Monatszahlung -> Rechnung und Zinsen ändern.",
-      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet."
+      "Zugangsvarianten, Güte versus Beweisaufnahme, Vergleichsinhalt und Monatsentgelt getrennt ausgearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a87cc60cbf2076ccf46b5dd9f9f96eeec52ba8ecb8fe57c5379ba26ebc384c75",
+    "sha256": "b33f334dd3868eeb370376c2ef06a48dadafdb429fa43fb09bb74f61786fd529",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

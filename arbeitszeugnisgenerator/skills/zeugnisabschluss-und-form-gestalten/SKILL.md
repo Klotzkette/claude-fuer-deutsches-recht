@@ -28,7 +28,7 @@ Es gelten [Zitierweise](../../../references/zitierweise.md) und die [Rechtsprüf
 
 ## 5. Ausgabeformat
 
-Liefere den Abschluss und Unterschriftsblock oder die vollständig finalisierte Fassung nach Auftrag. Alle inhaltlichen Passagen stehen in vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Freigabepunkte wie Signatur und Einwilligung stehen getrennt vom Zeugnis. Soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Chat oder Markdown gesonderter Exporthinweis. Keine elektronische Signatur oder Erteilung behaupten, die nicht tatsächlich erfolgt ist.
+Liefere den Abschluss und Unterschriftsblock oder die vollständig finalisierte Fassung nach Auftrag. Alle inhaltlichen Passagen stehen in vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Freigabepunkte wie Signatur und Einwilligung stehen getrennt vom Zeugnis. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Chat oder Markdown gesonderter Exporthinweis. Keine elektronische Signatur oder Erteilung behaupten, die nicht tatsächlich erfolgt ist.
 
 ## 6. Beispiele
 

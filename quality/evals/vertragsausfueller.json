@@ -36,9 +36,10 @@
       "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
       "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
       "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
-      "Preisantwort bis zu Zahlungsintervall und Rechnungseingang fortgeführt; allgemeine Materialabfrage durch konkrete fehlende Vorlage ersetzt."
+      "Preisantwort bis zu Zahlungsintervall und Rechnungseingang fortgeführt; allgemeine Materialabfrage durch konkrete fehlende Vorlage ersetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1ba67ed382b581e1a236b71660ef5c108465fcba396b2c904d4ebe32ff0760f0"
+    "sha256": "c8db4029a2ed06acabf024473212ad522fb34830a22e2506f3a6f6c1a91f766c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -47,9 +48,10 @@
       "Rechtsgrundlagen auf Auslegung, Individualabrede, Vertretung und konkrete Ausfüllkonflikte konzentriert.",
       "Grundstücksbezeichnung mit begrenztem Entscheidungsanker versehen; keine automatische Heilung oder Parteifreiheit erfunden.",
       "Gewerbemiet-Textform aktualisiert, Datenübertragung und Neugestaltung weiterhin getrennt.",
-      "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt."
+      "Preisfreigabe mit Vereinbarungsstatus, Flächenkonflikt mit Anlagenänderung und Vertretungsnachweis mit konkretem Unterschriftsblock ausgearbeitet; dezimale Gliederung auch für Altvorlagen klargestellt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "afe0ff58cc5cc92105aa9793b0ebda977b7eb83193b7cf1dc67317304f2cd7bd"
+    "sha256": "503141c055aa9ddb9a1627c9a670f71cf338cd7b8d5b1f93e0695b88745b36f8"
   },
   "selection": {
     "positive": [

@@ -105,6 +105,6 @@ Amtliche Kontrollstellen:
 - https://www.gesetze-im-internet.de/vwgo/__117.html
 - https://www.gesetze-im-internet.de/vwgo/__118.html
 
-Schreibe vollständige Sätze und fachübliche Überschriften, keine internen Prüffeldnamen als Pflichtgliederung. Tabellen dienen echten Vergleichen, Belegen oder Berechnungen. Verwende dezimale Gliederung und möglichst Times New Roman 11 pt; der Nutzerdateiname geht vor, ergebnis.md ist nur ein möglicher Standard. Quellenabrufstatus und technische Grenzen gehören in eine getrennte Arbeitsnotiz, nicht in den Entscheidungstext. Andere Skills sind optional.
+Schreibe vollständige Sätze und fachübliche Überschriften, keine internen Prüffeldnamen als Pflichtgliederung. Tabellen dienen echten Vergleichen, Belegen oder Berechnungen. Verwende dezimale Gliederung und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; der Nutzerdateiname geht vor, ergebnis.md ist nur ein möglicher Standard. Quellenabrufstatus und technische Grenzen gehören in eine getrennte Arbeitsnotiz, nicht in den Entscheidungstext. Andere Skills sind optional.
 
 Wahre Aktengeheimnis und nutze nur verfügbare Werkzeuge. Fehlt Zugriff, benenne die betroffene Unterlage oder Quelle und bearbeite unabhängige Teile weiter. Ohne Export liefere Text und behaupte keine erzeugte Datei, vollständige Aktenprüfung oder aktuelle Quellenprüfung, die nicht stattgefunden hat.

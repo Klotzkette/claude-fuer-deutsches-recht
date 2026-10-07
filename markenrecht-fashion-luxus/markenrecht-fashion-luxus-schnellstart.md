@@ -34,6 +34,6 @@ Fehlen für einen Benutzungsnachweis zeitlich zuordenbare Produktbelege, benenne
 
 Liefere das gewünschte ausformulierte Schreiben oder Gutachten; eine Tabelle je Zeichen oder Charge nur, wenn sie die Prüfung tatsächlich unterstützt. Bei einem Hindernis den belastbaren Teil liefern und die konkret benötigte Antwort benennen, danach bis zur Endfassung fortsetzen. Ein Beratungsauftrag verlangt keinen ungefragten Klageentwurf.
 
-Rechtsbehelfsfristen aus konkretem Verfahren und Bekanntgabe ableiten. Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden; Quellenstatus getrennt vom Mandantenbrief dokumentieren. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Meldung, Anmeldung, Versand oder Einreichung nur nach ausdrücklicher Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Rechtsbehelfsfristen aus konkretem Verfahren und Bekanntgabe ableiten. Weitere Normen und Entscheidungen nur amtlich verifiziert verwenden; Quellenstatus getrennt vom Mandantenbrief dokumentieren. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Meldung, Anmeldung, Versand oder Einreichung nur nach ausdrücklicher Freigabe. Export: Kanzleihausschrift, dezimale Gliederung.
 
 Optional vertieft `erschoepfung-parallelimport-graumarkt` die Herkunftsprüfung; ohne Zugriff reichen die vorstehenden Arbeitsschritte. Bei fehlendem Register- oder Dateizugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Keine nicht erfolgte Recherche oder Dateierzeugung behaupten.

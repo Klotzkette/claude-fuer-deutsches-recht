@@ -34,7 +34,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Tragende Aussagen be
 
 Liefere zuerst die konkrete Handlungsaussage und dann das vollständige beauftragte Produkt mit tragender Begründung. Ein internes Memo kann eine knappe Chronologie, Beschlussmatrix und offene Punkte enthalten; ein bestellter Empfängertext muss trotzdem ausformuliert vorliegen. Behaupte nur tatsächlich erzeugte Dateien und durchgeführte Schritte.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
 
 ## 6. Beispiele
 

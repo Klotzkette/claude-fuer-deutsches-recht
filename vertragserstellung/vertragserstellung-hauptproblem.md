@@ -44,6 +44,6 @@ BGH, Urteil vom 20.03.2014, Az. VII ZR 248/13: [amtlicher Volltext, Rn. 22–32]
 
 ## 1.6. Endprodukt und Handlungsschranke
 
-Liefert das Material genug Tatsachen, geben Sie den vollständigen Vertrag aus, nicht eine Liste vorgeschlagener Überschriften. Ausformulierungspflicht: alle nötigen Pflichten und Folgen in klaren vollständigen Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Lesbare Platzhalter nur für fehlende Angaben. Ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausschreiben. Soweit technisch möglich Times New Roman 11 pt; Exporthinweis bei Markdown getrennt.
+Liefert das Material genug Tatsachen, geben Sie den vollständigen Vertrag aus, nicht eine Liste vorgeschlagener Überschriften. Ausformulierungspflicht: alle nötigen Pflichten und Folgen in klaren vollständigen Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Lesbare Platzhalter nur für fehlende Angaben. Ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausschreiben. Soweit technisch möglich Kanzleihausschrift; Exporthinweis bei Markdown getrennt.
 
 Kontrollieren Sie Preisstellen, Anlagenstände, Fristen und Querverweise. Quellen und technische Prüfhindernisse gehören in die separate Notiz, nicht zwingend in operative Klauseln. Benennen Sie ehrlichen Status: Entwurf, freigegebene Fassung oder belegter Vertragsschluss. Ohne konkrete Autorisierung keine Erklärung, Unterschrift, Versendung, Kündigung oder Verzicht.

@@ -164,7 +164,7 @@ Bei Rechtsüberleitung gegebenenfalls Artikel 20 Einigungsvertrag zum öffentlic
 
 Erstelle die beauftragte Quellenanalyse, Lehrdarstellung, Textsynopse oder historische Argumentation vollständig. Eine abweichende Lesart mit ihrem Beleg und Gewicht darstellen; Unsicherheit begründen. Bei einer fehlenden Quelle die tragfähigen Teile liefern und den offenen Schluss benennen. Nach Klärung bis zur bestellten Fassung fortsetzen, nicht bei einer Quellenliste stehenbleiben.
 
-Historische Quellen und Entscheidungen mit überprüfbarer Fundstelle verwenden; aktuelle Normen für heutige Anschlussfragen amtlich prüfen. Quellenkritik, soweit für die Deutung wesentlich, im Text erläutern; bloße technische Recherchegrenzen getrennt notieren. Keine Archivbestellung oder Veröffentlichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Historische Quellen und Entscheidungen mit überprüfbarer Fundstelle verwenden; aktuelle Normen für heutige Anschlussfragen amtlich prüfen. Quellenkritik, soweit für die Deutung wesentlich, im Text erläutern; bloße technische Recherchegrenzen getrennt notieren. Keine Archivbestellung oder Veröffentlichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Quellen und Werkzeuge verwenden und unlesbare Teile konkret nachfordern. Bei technischen Hindernissen unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern. Keine nicht erfolgte Quellenprüfung oder Dateierzeugung behaupten.
 
@@ -391,7 +391,7 @@ DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriff
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

@@ -42,9 +42,10 @@
       "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
       "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt."
+      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "03bc2579fa8d74c526b72b764468ea9c709d0a874055b2189f3890b82251e63d"
+    "sha256": "c9428f445dc6c6e013faff9cb2a65dc3aa1a00206f440f84c06d4cd1af88aa64"
   },
   "selection": {
     "positive": [
@@ -194,9 +195,10 @@
       "Historisches Urteil nur zur Anspruchstrennung genutzt, heutige Ausnahme ausdrücklich vorrangig behandelt.",
       "Betreuung, Ersatzbeförderung, gezielte Nachfragen und beauftragte Endfassung erhalten.",
       "Erwerbsvorgang und vorvertraglicher Hinweis, getrennte Verkäuferhaftung, erwartete gegenüber tatsächlicher Zielverspätung, nutzbare Ersatzangebote, Kosten pro Reisendem und konkrete Entlastungsbegründung.",
-      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt."
+      "Pauschale Dreijahresfrist durch anspruchsbezogene Prüfung mit vorsorglich frühestem Termin und verlinkten Primärquellen ersetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "30716c01abe10482166070e22dda7c89b97db93212603f069fd37ba237ee65b3"
+    "sha256": "a3a54c29f302a161880cc07c397b6d3aa9cfbcd84c2b1cbaf37d878142f96fd8"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

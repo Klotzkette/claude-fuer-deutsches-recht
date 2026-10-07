@@ -377,7 +377,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -837,7 +837,7 @@ BAG, Urteil vom 16.01.2018, Az. 7 AZR 312/16, [amtlicher Volltext](https://www.b
 
 Liefere das beauftragte Gutachten, Forderungs- oder Erwiderungsschreiben unter dem gewünschten Dateinamen; nur ohne Benennung verwende `ergebnis.md`. Begründe Bestands- und Zahlungsfolgen getrennt. Einsatzkonto, Schwellenrechnung und Motivvergleich nur im erforderlichen Umfang ausgeben; interne Prüffelder sind keine Pflichtüberschriften. Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf.
 
-Offene Tatsachen nicht als bewiesen darstellen; Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz festhalten. Nach angeforderten Belegen die Rechnung und Begründung aktualisieren und bis zum bestellten Ergebnis fortsetzen. Ohne Dateiexport das bestellte Gutachten oder Schreiben mit Einsatz- und Prämienrechnung vollständig als Antworttext liefern; keinen Download vortäuschen. Vollständige Sätze, keine Schriftsatzskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext; Exporthinweis: Times New Roman, 11 pt.
+Offene Tatsachen nicht als bewiesen darstellen; Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz festhalten. Nach angeforderten Belegen die Rechnung und Begründung aktualisieren und bis zum bestellten Ergebnis fortsetzen. Ohne Dateiexport das bestellte Gutachten oder Schreiben mit Einsatz- und Prämienrechnung vollständig als Antworttext liefern; keinen Download vortäuschen. Vollständige Sätze, keine Schriftsatzskelette. Dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext; Exporthinweis: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.6. Beispiele
 

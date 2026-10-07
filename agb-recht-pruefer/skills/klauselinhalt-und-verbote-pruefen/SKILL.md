@@ -31,7 +31,7 @@ Klausel mit Vertragsumfeld, Vertragstyp, Verwendungszeitpunkt, Kundengruppe, Ver
 
 ## 5. Ausgabeformat
 
-Klauselvotum mit Originalwortlaut, Kontrollmaßstab, Subsumtion, Gegenargument, Ausfallumfang, Risiko und Ersatzfassung. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen verwenden; bei Markdown als Exporthinweis angeben.
+Klauselvotum mit Originalwortlaut, Kontrollmaßstab, Subsumtion, Gegenargument, Ausfallumfang, Risiko und Ersatzfassung. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen verwenden; bei Markdown als Exporthinweis angeben.
 
 ## 6. Beispiele
 

@@ -39,7 +39,7 @@ Die [Prüfregeln](../../references/insolvenzpruefung.md) und die [amtliche Entsc
 
 ## 1.5. Ausgabeformat
 
-Liefere je erheblichem Befund die betroffene Stelle, die fehlerhafte Folgerung, den belastbaren Nachweis und die ausformulierte korrigierte Fassung samt gegebenenfalls korrigierter Rechnung. Ergebnis und Unsicherheit trennen. Vollständige Sätze statt Skelette; formatierte Texte in Times New Roman 11 pt und dezimaler Gliederung. Technische Notizen vom bestellten Empfängerdokument trennen. Die Korrektur selbst ist weder Versand noch Bankzahlung.
+Liefere je erheblichem Befund die betroffene Stelle, die fehlerhafte Folgerung, den belastbaren Nachweis und die ausformulierte korrigierte Fassung samt gegebenenfalls korrigierter Rechnung. Ergebnis und Unsicherheit trennen. Vollständige Sätze statt Skelette; formatierte Texte in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Technische Notizen vom bestellten Empfängerdokument trennen. Die Korrektur selbst ist weder Versand noch Bankzahlung.
 
 ## 1.6. Beispiel
 

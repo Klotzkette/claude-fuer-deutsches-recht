@@ -128,9 +128,10 @@
       "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Verladeabrede als Weiche des Obhutsbeginns. Einleitung verdichtet; Auftrag unverändert.",
-      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung."
+      "Werkstattanker frisch abgeglichen; Mini bisheriger Verladungsanker mit amtlichem Direktlink versehen, Hauptproblem/Fokus um Verladung ergänzt. Ältere CMR-Beweislogik gestrafft ohne Regimeübertragung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7024139c578daed4a9dbc5b7bdab246cc1b65ab9ab94e6051da487457c693712"
+    "sha256": "d7dc14d2c6c8039c7f5fbcea9c701d9ac6e815141c5b1ef7bffb0e77d536505c"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -142,12 +143,13 @@
       "BGH I ZR 134/25 samt Randnummern 19/20 und Bergungskostenbereich erneut amtlich gelesen; kein Vermischen von Wertersatz und Folgeschaden",
       "Quittierte Verpackung, Inhalt, Wertwarnung und Anspruchshöhe getrennt; vollständiges angefordertes Dokument statt Prüfzettel",
       "Crossreview P2 umgesetzt: Vorsatz als selbständige Alternative in allen drei Prompts und Fokus; Mitarbeiterdiebstahl ohne zusätzliches Organisationsverschulden, Außendiebstahl gesondert.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-transport-speditionsrecht/fachanwalt-transport-speditionsrecht-hauptproblem.md",
-    "prompt_sha256": "90fa04e72d5e0cefbd12dfec8be3c21301d41f719b4aad7ed5c8ec84ab6449de",
+    "prompt_sha256": "d138da37991e40ba4ef50561a7615ce7581ad7345b82ba81622c83a49a40cbbf",
     "skill_path": "fachanwalt-transport-speditionsrecht/skills/teilverlust-packstueckabgleich-haftungsdurchbrechung/SKILL.md",
-    "skill_sha256": "1cf242ee43a1b3ae5b9d44db489f26e23f3560e4f69f23796032277305c3429e"
+    "skill_sha256": "80582f020883429a41ae599f5faf70a3c128c3f6484e06f1deb9fc1c26d9f153"
   },
   "selection": {
     "positive": [

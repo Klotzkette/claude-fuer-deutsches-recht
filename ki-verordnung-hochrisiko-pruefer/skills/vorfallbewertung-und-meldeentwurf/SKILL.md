@@ -33,7 +33,7 @@ Artikel 3 Nummer 49, Artikel 26 Absatz 5, Artikel 73 und Artikel 111/113 aktuell
 
 ## 5 Ausgabeformat
 
-Vollständig ausformulierter interner Vorfallvermerk mit nachvollziehbarer Kenntnis- und Fristberechnung, begründetem Ergebnis und konkreten Maßnahmen. Falls beauftragt oder erforderlich, getrennten Informations- oder Meldeentwurf mit Tatsachen, Auswirkungen, Maßnahmen und offenen Ermittlungen liefern. Keine Skelette, Halbsätze oder reine Stichwortsammlung als Endprodukt. Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; sonst gesonderter Exporthinweis. Unverifizierte Zuständigkeit sperrt die Behauptung einer versandfertigen Behördenmeldung, nicht den bearbeitbaren internen Vermerk.
+Vollständig ausformulierter interner Vorfallvermerk mit nachvollziehbarer Kenntnis- und Fristberechnung, begründetem Ergebnis und konkreten Maßnahmen. Falls beauftragt oder erforderlich, getrennten Informations- oder Meldeentwurf mit Tatsachen, Auswirkungen, Maßnahmen und offenen Ermittlungen liefern. Keine Skelette, Halbsätze oder reine Stichwortsammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; sonst gesonderter Exporthinweis. Unverifizierte Zuständigkeit sperrt die Behauptung einer versandfertigen Behördenmeldung, nicht den bearbeitbaren internen Vermerk.
 
 ## 6 Beispiele
 

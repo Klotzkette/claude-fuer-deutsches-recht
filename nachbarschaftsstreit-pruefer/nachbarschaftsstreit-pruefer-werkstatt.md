@@ -124,7 +124,7 @@ Prüfe obligatorische Schlichtung, Fristen und gegebenenfalls Eilbedürftigkeit 
 
 ## 6. Abschluss und Grenzen
 
-Kontrolliere, ob Grundstück, Grenze, Störung, verlangte Maßnahme und Anlagen im fertigen Text zusammenpassen. Prüfe, ob die Abhilfe technisch bestimmt und ausführbar ist und die Gegenposition angemessen behandelt wurde. Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen und dezimaler Gliederung; beim Dokumentexport Times New Roman in 11 Punkt verwenden.
+Kontrolliere, ob Grundstück, Grenze, Störung, verlangte Maßnahme und Anlagen im fertigen Text zusammenpassen. Prüfe, ob die Abhilfe technisch bestimmt und ausführbar ist und die Gegenposition angemessen behandelt wurde. Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen und dezimaler Gliederung; beim Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Offene entscheidende Punkte begrenzen nur die betroffene Aussage oder Freigabe. Nach ihrer Klärung die bestellte Fassung fortsetzen, statt dauerhaft bei einer Analyse zu bleiben. Kein eigenständiger Versand, keine Antragstellung, kein Betreten und keine Schnitt- oder Baumaßnahme ohne gesonderte Freigabe.
 

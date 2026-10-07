@@ -27,7 +27,7 @@ Norm zuerst, danach tatsächlich verifizierte Rechtsprechung. Prüfe Schuljahr, 
 
 # 5. Ausgabeformat
 
-Endprodukte werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Erstelle das bestellte Schreiben, den Antrag, die Stellungnahme oder begründete Beratung; ein bloßer Plan genügt nicht. Soweit technisch möglich verwende Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht ein getrennter Exporthinweis außerhalb des Empfängertextes. Interne Beleg-/Fristenprüfung und Empfängertext bleiben getrennt. Fehlende Tatsachen erhalten klare Platzhalter oder einen vollständigen Nachforderungstext. Prüfe Empfänger, Antrag, Anlagen, Zugang, Form und Ergebnisrelevanz vor Abschluss. Versand, Einreichung, Rücknahme oder Verzicht nur im konkret autorisierten Umfang.
+Endprodukte werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Erstelle das bestellte Schreiben, den Antrag, die Stellungnahme oder begründete Beratung; ein bloßer Plan genügt nicht. Soweit technisch möglich verwende Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht ein getrennter Exporthinweis außerhalb des Empfängertextes. Interne Beleg-/Fristenprüfung und Empfängertext bleiben getrennt. Fehlende Tatsachen erhalten klare Platzhalter oder einen vollständigen Nachforderungstext. Prüfe Empfänger, Antrag, Anlagen, Zugang, Form und Ergebnisrelevanz vor Abschluss. Versand, Einreichung, Rücknahme oder Verzicht nur im konkret autorisierten Umfang.
 
 # 6. Beispiele
 

@@ -31,7 +31,7 @@ Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegeh
 
 Liefere das bestellte Dokument vollständig ausformuliert. Ein Rechenblatt enthält Tätigkeit, Datum, Dauer, Satz, Betrag, Beleg und Zahlungen und erläutert streitige Ansätze. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-Bei einem offenen Nachweis liefere den belegten Teil vorläufig, benenne die konkrete Ergänzung und setze nach Antwort bis zur Endfassung fort. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Keine eigenständige Einreichung.
+Bei einem offenen Nachweis liefere den belegten Teil vorläufig, benenne die konkrete Ergänzung und setze nach Antwort bis zur Endfassung fort. Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine eigenständige Einreichung.
 
 ## 1.6 Beispiel
 

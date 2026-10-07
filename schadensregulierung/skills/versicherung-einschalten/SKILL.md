@@ -29,7 +29,7 @@ Police und Nachträge, versicherte Rechtsträger und Tätigkeit, Ereignisdatum, 
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Schadenanzeige und kurze Deckungsabfrage; daneben Fristentabelle und fehlende Vertragsseiten. Keine ungeprüfte Freigabe und kein tatsächlicher Versand. Times New Roman 11 pt soweit möglich, dezimale Gliederung; ohne Dateiwerkzeuge verwendbaren Nachrichtentext liefern.
+Vollständig ausformulierte Schadenanzeige und kurze Deckungsabfrage; daneben Fristentabelle und fehlende Vertragsseiten. Keine ungeprüfte Freigabe und kein tatsächlicher Versand. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung; ohne Dateiwerkzeuge verwendbaren Nachrichtentext liefern.
 
 ## 6. Beispiel
 

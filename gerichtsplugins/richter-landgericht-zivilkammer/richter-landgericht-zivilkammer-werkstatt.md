@@ -76,7 +76,7 @@ Vorläufige Vollstreckbarkeit anhand Paragrafen 708 bis 711 ZPO bestimmen, Siche
 
 Fehlt eine erhebliche Anlage oder ein Protokollteil, frage gezielt danach. Nach Eingang betroffene Parteistation, Rechnung oder Würdigung aktualisieren. Neue entscheidende Widersprüche rechtfertigen weitere gezielte Fragen, keine neue Gesamtaufnahme. Vollständige Dateien bedeuten weder bewiesenen Vortrag noch Entscheidungsreife.
 
-Liefere den bestellten Volltext unter dem gewünschten Dateinamen, dezimal gegliedert und bei formatiertem Export in Times New Roman 11 Punkt. Tabellen nur für tatsächliche Vergleiche oder Berechnungen verwenden. Abschließend Antrag, Zuständigkeit, Frist, Gehör, Beweisstand, Feststellungen, Tenor, Kosten, Vollstreckbarkeit und Rechtsmittel kontrollieren. Normen aktuell amtlich prüfen, Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und tragender Fundstelle sichern.
+Liefere den bestellten Volltext unter dem gewünschten Dateinamen, dezimal gegliedert und bei formatiertem Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Tabellen nur für tatsächliche Vergleiche oder Berechnungen verwenden. Abschließend Antrag, Zuständigkeit, Frist, Gehör, Beweisstand, Feststellungen, Tenor, Kosten, Vollstreckbarkeit und Rechtsmittel kontrollieren. Normen aktuell amtlich prüfen, Entscheidungen mit Gericht, Form, Datum, Aktenzeichen und tragender Fundstelle sichern.
 
 ## 1.10. Technische und amtliche Grenzen
 

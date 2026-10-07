@@ -36,9 +36,10 @@
       "Unterbliebene Aufhebung in China von unterlassener Rüge im Schiedsverfahren getrennt.",
       "Exportkontrolle, Investitionsprüfung, Devisen, Korruption, Produktsicherheit und Daten fachlich zugeordnet.",
       "Zahlungsempfänger, Sprachkonflikte und gezielte Fortsetzung bis zur Endfassung erhalten.",
-      "Liefervertrag, Zahlungsempfänger oder Streit wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Liefervertrag, Zahlungsempfänger oder Streit wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3f4c211fe8a4cc8517c33e7933f7f6377ff895ca0c9926092752a337bf43509e"
+    "sha256": "67df5e96cccaa3ac55479ca9a645b41e43ea7f3f16b7d44b8a0f824e4857c001"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -47,9 +48,10 @@
       "Unterbliebene Aufhebung in China von unterlassener Rüge im Schiedsverfahren getrennt.",
       "Exportkontrolle, Investitionsprüfung, Devisen, Korruption, Produktsicherheit und Daten fachlich zugeordnet.",
       "Zahlungsempfänger, Sprachkonflikte und gezielte Fortsetzung bis zur Endfassung erhalten.",
-      "Kontowechsel und Erfüllungswirkung, technische Sollbeschaffenheit, Gegenbeweise und CIETAC-Verteidigungsweg konkretisiert."
+      "Kontowechsel und Erfüllungswirkung, technische Sollbeschaffenheit, Gegenbeweise und CIETAC-Verteidigungsweg konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "77e59b1d78a79655c40f87529583be1332cd95a8127fee4d7308acedf8dd1bd8"
+    "sha256": "2a8c38eb8ddae84543920812a4f178a77355fb662f99383089dceff15d5dc147"
   },
   "selection": {
     "positive": [

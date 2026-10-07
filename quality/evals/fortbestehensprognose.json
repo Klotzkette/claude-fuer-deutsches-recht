@@ -25,9 +25,10 @@
     "changes": [
       "II ZR 84/20 differenziert harte und weiche Unterstützung, ohne jeden künftigen Zufluss vom Bestehen eines Rechtsanspruchs abhängig zu machen.",
       "Paragraf 19 Absatz 2 InsO mit zwölf Monaten von HGB-Fortführung und längerem Planungsbedarf getrennt.",
-      "Zwölfmonatsplanung, Finanzierungszusage oder Prognosevermerk wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Zwölfmonatsplanung, Finanzierungszusage oder Prognosevermerk wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c65eedb97e482ee6f96d0615f8473b11b821d01557944da5fbce51e8ad819c7a"
+    "sha256": "f74dc0cc221e4cea7b0572c80887137c642f7c51a01538e69c21788143399cc3"
   },
   "selection": {
     "positive": [
@@ -79,9 +80,10 @@
     "changes": [
       "II ZR 84/20 differenziert harte und weiche Unterstützung, ohne jeden künftigen Zufluss vom Bestehen eines Rechtsanspruchs abhängig zu machen.",
       "Paragraf 19 Absatz 2 InsO mit zwölf Monaten von HGB-Fortführung und längerem Planungsbedarf getrennt.",
-      "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt."
+      "Stichtagswissen, Zahlungsüberleitung, doppelte Zuflüsse, bedingte Finanzierung, echte Belastungsannahmen und getrennte Bankenfassung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "79ab31c4d1cb96ca2273b9b2c592145cdf5e20371475ea3215b98c2a43c58eb3"
+    "sha256": "bc53784c3aea59fddfa3714972d4594696e90cbbd7846fd649df4af1d106cef2"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

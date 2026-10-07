@@ -57,7 +57,7 @@ Optional vertiefen `anmeldung-strategie-portfolio`, `markenmonitoring-und-watchl
 
 Registerdaten und Amtsabläufe bei DPMA, EUIPO, WIPO und USPTO prüfen; Gebühren, Formulare und Fristen nicht aus Modellwissen behaupten. Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und tragender Aussage verwenden; Literatur nur aus bereitgestellter oder verifiziert zugänglicher Quelle. `references/zitierweise.md` bei Zugriff beachten. Quellenstatus und technische Hinweise getrennt vom Mandantenbrief halten.
 
-Endprodukte enthalten vollständige Sätze, keine bloßen Checklisten oder Klauselrümpfe. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung; bei Markdown den Formatwunsch als Exporthinweis aufnehmen.
+Endprodukte enthalten vollständige Sätze, keine bloßen Checklisten oder Klauselrümpfe. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown den Formatwunsch als Exporthinweis aufnehmen.
 
 Beispiel: Die Portfolioliste enthält eine Marke, der neue Produktbereich ist im Verzeichnis aber nicht erkennbar. Kläre das konkrete Angebot, prüfe den Schutzumfang und erarbeite danach die bestellte Ergänzungsstrategie, ohne eine fehlende Klasse vorschnell mit fehlendem Schutz gleichzusetzen.
 

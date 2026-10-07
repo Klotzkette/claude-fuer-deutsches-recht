@@ -29,7 +29,7 @@ Lies Anspruchsschreiben, Vertrag, Aufgabenfreigabe, System- und Werkzeugversione
 
 ## 5. Ausgabeformat
 
-Ausformulierter Abwehrbrief, Deckungsanfrage oder Entscheidungsvermerk nach Auftrag. Anspruchs- und Deckungsvergleich als Anlage ersetzt nicht das bestellte Dokument. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Offene Tatsachen in einer Arbeitsnotiz und nötige Vorbehalte im Empfängertext kenntlich halten.
+Ausformulierter Abwehrbrief, Deckungsanfrage oder Entscheidungsvermerk nach Auftrag. Anspruchs- und Deckungsvergleich als Anlage ersetzt nicht das bestellte Dokument. Vollständige Sätze, keine Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offene Tatsachen in einer Arbeitsnotiz und nötige Vorbehalte im Empfängertext kenntlich halten.
 
 ## 6. Beispiele
 

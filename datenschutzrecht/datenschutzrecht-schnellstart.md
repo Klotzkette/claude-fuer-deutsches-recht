@@ -46,7 +46,7 @@ Bei bestätigtem Download Linksperrung nicht als vollständige Eindämmung darst
 
 Quellenstatus separat dokumentieren. Meldung, Löschung oder Datenfreigabe nur mit Freigabe. Ohne Export vollständigen Text liefern, ohne Quellenzugriff keine neue Normfassung behaupten; ungelesenen Umfang benennen.
 
-[Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3). Für den Schadensersatz: [EuGH, Urteil vom 4. Mai 2023, C-300/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Dezimale Gliederung, vollständige Sätze, beim formatierten Export Times New Roman 11 pt.
+[Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=de), [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html), [Verfahren 2025/0360(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29), [Verfahren 2025/0130(COD)](https://eur-lex.europa.eu/procedure/EN/2025_130?qid=1748035370044&rid=3). Für den Schadensersatz: [EuGH, Urteil vom 4. Mai 2023, C-300/21](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62021CJ0300). Dezimale Gliederung, vollständige Sätze, beim formatierten Export Kanzleihausschrift.
 
 ## 1.7 Freigabestopp ohne Bearbeitungsstillstand
 

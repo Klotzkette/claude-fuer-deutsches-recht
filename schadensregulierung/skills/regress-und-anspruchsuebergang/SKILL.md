@@ -28,7 +28,7 @@ Leistungsaufstellung mit Zeitraum und Leistungsart, Versicherungsdaten, Entgeltf
 
 ## 5. Ausgabeformat
 
-Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
+Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
 
 ## 6. Beispiel
 

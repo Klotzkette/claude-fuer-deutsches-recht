@@ -126,9 +126,10 @@
       "Einfahrtsausnahme und tatsächlichen Schlüsselzugang in einer konkreten Antragsformulierung getrennt.",
       "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
       "Die zuvor geprüften sechs gerichtlichen Anker und die Trennung von StVO-Reform und Altentscheidungen erhalten.",
-      "Leerer Einstieg und Dateien ohne Aufgabe verhindern Materialdump; bekannte Fahrzeug- und Vollständigkeitsangaben nicht erneut erheben."
+      "Leerer Einstieg und Dateien ohne Aufgabe verhindern Materialdump; bekannte Fahrzeug- und Vollständigkeitsangaben nicht erneut erheben.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4f6e852597950b096dc06b442aba49ce730a88061ef056f1437eb38d3725f07e",
+    "sha256": "4a9d9b53ca1df1664f0cc62f152762f7f18f3e8da8d860a5c0d69eb4fae86e9a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -140,9 +141,10 @@
       "Keine neuen pauschalen Pflichtrouten oder Rückfall-Checkliste.",
       "Die zuvor geprüften sechs gerichtlichen Anker erhalten; Gehwegentscheidung für die neue Kontrollantwort erneut im amtlichen Volltext gelesen.",
       "Dokumentpfade Lieferausnahme, Öffnungsantrag und Betriebsanweisung anhand geänderter Kühlzeit, Fahrzeugbindung und Schlüsselvergabe konkretisiert.",
-      "Neue Behördenantwort nach ihrem Regelungsgehalt eingeordnet; Fristauslöser, positive Eilregelung und Freigabegrenzen vertieft."
+      "Neue Behördenantwort nach ihrem Regelungsgehalt eingeordnet; Fristauslöser, positive Eilregelung und Freigabegrenzen vertieft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "46cf587efb51212841639b8520b5da2748764f56d0165b5649087bf22b517711",
+    "sha256": "e18d20d973e3e30b514baf71d4474d3a79c8133b5be7346f14cd19f2c5a7f61b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

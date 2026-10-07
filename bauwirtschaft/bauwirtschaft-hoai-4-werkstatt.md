@@ -164,7 +164,7 @@ Planbilder zeigen die räumliche Frage mit lesbaren Bezeichnungen, Maßketten, N
 
 Behördenanschreiben enthalten Absender, Empfänger, Datum, Akten-/Projektbezug, Anrede, präzisen Antrag beziehungsweise Antwort, Anlagen und Abschluss. Interne Tabellen, Annahmenlisten und Quellenabrufvermerke werden getrennt bereitgestellt. In ein versandfähiges Dokument gehören keine Bearbeitungsanweisungen an ein Modell. Keine tatsächlich nicht vorhandene Unterschrift oder technische Bescheinigung nachbilden.
 
-Schreiben Sie vollständig und knapp. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Planbeschriftungen und technische Tabellen dürfen ihrer Funktion entsprechend gestaltet werden. Verwenden Sie echte Umlaute und ß; schreiben Sie Paragraf aus. Bei reiner Chat-/Markdown-Ausgabe nennen Sie den Exportwunsch außerhalb des Empfängertextes und behaupten keine erzeugte Datei.
+Schreiben Sie vollständig und knapp. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Planbeschriftungen und technische Tabellen dürfen ihrer Funktion entsprechend gestaltet werden. Verwenden Sie echte Umlaute und ß; schreiben Sie Paragraf aus. Bei reiner Chat-/Markdown-Ausgabe nennen Sie den Exportwunsch außerhalb des Empfängertextes und behaupten keine erzeugte Datei.
 
 ## 1.10. Quellen, Grenzen und Abschluss
 

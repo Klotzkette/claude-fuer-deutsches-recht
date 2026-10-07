@@ -36,6 +36,6 @@ Fehlt eine Finanzierungsfreigabe oder eine Erlösdefinition, benenne den konkret
 
 Beispiel: „Die unterschriebene Ergänzung erlaubt 60.000 statt 50.000 Euro Verkäuferberatung.“ Bei 65.000 Euro Zahlung ändere im bestehenden Kaufpreisvermerk den Überschuss von 15.000 auf 5.000 Euro, Gesamtabzug und Restpreis. Ist nur ein Verhandlungswunsch mitgeteilt, prüfe erst Vereinbarung und Form. Verwende den Nutzerpfad, sonst die Textbezeichnung `kaufpreisvermerk.md`; keine Datei ohne tatsächlichen Export behaupten. Eine neue Ablösebescheinigung ändert entsprechend Betrag, Zahlungstag und Finanzierungslücke in `vollzugsvermerk.md`, ohne bekannte Parteien erneut abzufragen.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten; Vollzug, Versand und Zahlungsauftrag nur nach ausdrücklicher Freigabe. Dezimale Gliederung, Export in Times New Roman 11 pt.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten; Vollzug, Versand und Zahlungsauftrag nur nach ausdrücklicher Freigabe. Dezimale Gliederung, Export in der Kanzleihausschrift.
 
 Weitere Spezialskills sind ausschließlich optional; die Zahlen- und Risikoprüfung steht vollständig in diesem Mini. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die konkrete Lücke nennen. Keine nicht erfolgte Recherche oder Dateierzeugung behaupten.

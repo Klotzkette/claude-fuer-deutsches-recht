@@ -91,7 +91,7 @@ Verwende den gewünschten Dateinamen, sonst `ergebnis.md`. Versand, Einreichung,
 
 ## 1.12. Technische Grenzen
 
-Nutze nur verfügbare Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung gezielt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte nötige Exporthinweise außerhalb des Empfängertextes.
+Nutze nur verfügbare Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung gezielt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte nötige Exporthinweise außerhalb des Empfängertextes.
 
 ## 2. Fallbezogene Arbeitswege
 

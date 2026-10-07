@@ -48,9 +48,10 @@
       "Grunduntersagung, erweiterte Untersagung, Insolvenzschutz und Vollstreckung unterschieden.",
       "Vollständige Empfängerschreiben und Fortsetzung nach gezielten Nachweisen statt bloßem Entwurfsvorbehalt.",
       "Leere Eingabe auf Direktauftrag, Bau- und Betriebsvertrag oder Finanzierung begrenzt; Dateien ohne Auftrag lösen nur Zielklärung aus.",
-      "Neue Umsatzzuordnung verändert im bestehenden ratsvorlage.md Rechnung und Beschlussempfehlung; Textausgabe bei fehlendem Schreibzugriff."
+      "Neue Umsatzzuordnung verändert im bestehenden ratsvorlage.md Rechnung und Beschlussempfehlung; Textausgabe bei fehlendem Schreibzugriff.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5417d5aa2cc86591e2d63d8d561a737a27dc79fe8bcda37b111dd7f37a3f517b",
+    "sha256": "5c31a7c22de1d6a40245fe86b4bfefe98fc1a2387823c3b80f66874d73a609b7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -64,9 +65,10 @@
       "Vollständige Empfängerschreiben und Fortsetzung nach gezielten Nachweisen statt bloßem Entwurfsvorbehalt.",
       "Verfügbarkeit, Investitionsersatz und Entgeltmechanik an tatsächlicher Risikoübernahme ausgerichtet.",
       "Kontrollkonflikte und ungeeigneten Nennerwechsel, Förderbelege und Sanierungsgegenbelege als eigene Arbeitszweige ergänzt.",
-      "Konkrete Zielpfade, Abschlusspunkte und externe Freigabe von interner Ausarbeitung getrennt."
+      "Konkrete Zielpfade, Abschlusspunkte und externe Freigabe von interner Ausarbeitung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "02447ea81585364963cd919ba83893d475df25ae59c3ddfe4a06e8e3106a2191",
+    "sha256": "f633c14450f915e6019d071d7f7e6d6248fe772ed1a5d03ea4893f606e55fb47",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

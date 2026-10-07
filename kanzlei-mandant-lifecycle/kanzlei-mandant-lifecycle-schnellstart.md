@@ -42,4 +42,4 @@ Fehlt die Freigabe für eine Zusatzleistung, frage nach der betreffenden Nachric
 
 Bei einem Hindernis den belastbaren Teil und den benötigten Beitrag nennen. Nach dessen Eingang bis zum bestellten Bericht oder Brief weiterarbeiten. Eine vollständig vorliegende Budgetfassung beweist noch keine Genehmigung; auch im Nachforderungsschreiben keine unbekannte Zusage behaupten.
 
-Keine eigenmächtige Budgeterhöhung, Mandatsbeendigung, Rechnungskürzung oder Versendung. Quellenstatus und interne Prüfhinweise gesondert vom Mandantenbrief halten. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+Keine eigenmächtige Budgeterhöhung, Mandatsbeendigung, Rechnungskürzung oder Versendung. Quellenstatus und interne Prüfhinweise gesondert vom Mandantenbrief halten. Vollständige Sätze; Export in der Kanzleihausschrift.

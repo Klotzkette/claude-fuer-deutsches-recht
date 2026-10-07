@@ -254,7 +254,7 @@ Liefere das verlangte Gutachten, Schreiben oder die Erwiderung unter dem gewüns
 
 Beleganforderungen nennen die konkrete Position, den maßgeblichen Zeitpunkt und die benötigte Unterlage. Nach ihrer Beantwortung bis zum beauftragten Ergebnis weiterarbeiten, ohne einen Gutachtenauftrag ungefragt in einen gerichtlichen Zahlungsantrag umzuwandeln. Verfahrensstand und Fälligkeit erläutern, soweit sie das Ergebnis betreffen. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz festhalten.
 
-Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Dateifunktion den vollständigen Text liefern.
+Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Dateifunktion den vollständigen Text liefern.
 
 ## 1.5. Beispiele
 
@@ -312,7 +312,7 @@ Nutze [references/zitierweise.md](https://github.com/Klotzkette/claude-fuer-deut
 
 ## 5. Ausgabeformat
 
-Ehezeitblatt und Anrechtsmatrix als Anlagen; ausformulierte Stellungnahme mit getrenntem Ergebnis je Anrecht, offenen Auskünften und nächster Frist. Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skelett, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Beschlussvorschläge brauchen eindeutige Träger, Kennungen, Beträge und Einheiten.
+Ehezeitblatt und Anrechtsmatrix als Anlagen; ausformulierte Stellungnahme mit getrenntem Ergebnis je Anrecht, offenen Auskünften und nächster Frist. Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skelett, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Beschlussvorschläge brauchen eindeutige Träger, Kennungen, Beträge und Einheiten.
 
 ## 6. Beispiele
 
@@ -348,7 +348,7 @@ Paragrafen 5 und 47 VersAusglG sowie Paragraf 220 FamFG nach den [geprüften Rec
 
 ## 5. Ausgabeformat
 
-Prüffähige Tabelle mit unveränderten Ausgangswerten, eigener Kontrolle, Differenz und Beleg. Dazu eine ausformulierte Stellungnahme oder Nachforderung. Ausformulierungspflicht: keine bloße Stichwortsammlung als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; Tabellen dürfen aus Lesbarkeitsgründen ein abweichendes Tabellenlayout erhalten. Bei Markdown Exporthinweis.
+Prüffähige Tabelle mit unveränderten Ausgangswerten, eigener Kontrolle, Differenz und Beleg. Dazu eine ausformulierte Stellungnahme oder Nachforderung. Ausformulierungspflicht: keine bloße Stichwortsammlung als Endprodukt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; Tabellen dürfen aus Lesbarkeitsgründen ein abweichendes Tabellenlayout erhalten. Bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 
@@ -384,7 +384,7 @@ Die [geprüften Rechtsanker](https://github.com/Klotzkette/claude-fuer-deutsches
 
 ## 5. Ausgabeformat
 
-Entscheidungsvorlage mit Teilungsgrund, Rechenvergleich, Wahlfrist, Einverständnisnachweis und ausformuliertem Tenorvorschlag. Ausformulierungspflicht und Formatstandard: vollständige Sätze, keine Skelettanträge, Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis. Eine selbstständige Mandantenentscheidung über Wahl oder Vergleich nicht vorwegnehmen.
+Entscheidungsvorlage mit Teilungsgrund, Rechenvergleich, Wahlfrist, Einverständnisnachweis und ausformuliertem Tenorvorschlag. Ausformulierungspflicht und Formatstandard: vollständige Sätze, keine Skelettanträge, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis. Eine selbstständige Mandantenentscheidung über Wahl oder Vergleich nicht vorwegnehmen.
 
 ## 6. Beispiele
 

@@ -53,7 +53,7 @@ Fehlt eine entscheidende Anlage oder belastbare Kostengrundlage, zunächst konkr
 
 ## 5. Ausgabeformat
 
-Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
+Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 

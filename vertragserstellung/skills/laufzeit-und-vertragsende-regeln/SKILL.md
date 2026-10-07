@@ -49,7 +49,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Laufzeit- und Abwicklungsklauseln, bei entsprechendem Auftrag einen ausgearbeiteten Nachtrag oder ein Beendigungsschreiben. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fristrechnung, Quellen und Exporthinweis getrennt vom Empfängertext. Status „Entwurf“ nicht mit tatsächlich zugegangener Erklärung verwechseln.
+Liefere vollständige Laufzeit- und Abwicklungsklauseln, bei entsprechendem Auftrag einen ausgearbeiteten Nachtrag oder ein Beendigungsschreiben. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fristrechnung, Quellen und Exporthinweis getrennt vom Empfängertext. Status „Entwurf“ nicht mit tatsächlich zugegangener Erklärung verwechseln.
 
 ## 6. Beispiele
 

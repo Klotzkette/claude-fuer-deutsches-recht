@@ -31,7 +31,7 @@ Prüfen Sie Paragrafen 433, 434, 437 bis 445b und 650 BGB sowie Paragrafen 376 u
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständige, ausformulierte Liefer- und Abrufklauseln im bestellten Vertragsumfang. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ersetzen Sie diese vor Ausgabe. Zahlen in einer Anlage müssen einem vollständigen Regelungssatz zugeordnet sein. Formatieren Sie soweit technisch möglich in Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus und trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
+Liefern Sie vollständige, ausformulierte Liefer- und Abrufklauseln im bestellten Vertragsumfang. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ersetzen Sie diese vor Ausgabe. Zahlen in einer Anlage müssen einem vollständigen Regelungssatz zugeordnet sein. Formatieren Sie soweit technisch möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus und trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
 
 ## 6. Beispiele
 

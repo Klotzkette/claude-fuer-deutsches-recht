@@ -845,9 +845,10 @@
     "changes": [
       "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
       "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
-      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden."
+      "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4add3fd635cad5a1f9e8593b4aa18349da50f4ff5952f218b90eabe43ca85153"
+    "sha256": "a52bfe3c42a72abbde0745f482a0f350ef58b941830ec818f6307975e70c318b"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -856,9 +857,10 @@
       "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
       "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
       "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
-      "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt."
+      "Berliner Sanktionen §§ 26/27, Datenkategorien §§ 18/30 und Kostenregel § 29 ausdrücklich getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "74556800441aa466b466f17abc93b88053265f8c03d16e6cdb18e306c0ccdaa3"
+    "sha256": "3ce8f81440729237515b94cc537c0c3395891f134c68c71ca04840b55744a83b"
   },
   "focus_review": {
     "verdict": "revised",
@@ -867,13 +869,14 @@
       "Berliner VersFG eigenständig mit konkreten Fachrouten und Übertragungsgrenzen angewandt.",
       "Antworten im vorhandenen Entwurf fortführen; nur entscheidende Lücken nachfragen.",
       "VG Berlin 2026 und BVerfG 2025 mit geprüften Aussagen und Quellenreichweite eingebunden.",
-      "Hauptskill verwendet nur mitgelieferte Referenzen; keine Laufzeitabhängigkeit von separater Werkstatt."
+      "Hauptskill verwendet nur mitgelieferte Referenzen; keine Laufzeitabhängigkeit von separater Werkstatt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-versammlungsrecht/berliner-versammlungsrecht-hauptproblem.md",
     "skill_path": "berliner-versammlungsrecht/skills/versammlung-mandat-zum-ergebnis/SKILL.md",
-    "prompt_sha256": "6e73692481e938aa26f7e7c38c07321fbfe2fcb07775f0fc7315e77fae165b9f",
-    "skill_sha256": "5dbb8399bc334fbb8cf4f5443471aafcb76d84e0da13530a4dabc1cd6558ef3d"
+    "prompt_sha256": "6b7cca4311f37b83a14ecbf2db753779ad9f2968eca6be1237af80cf8a70fedc",
+    "skill_sha256": "ae1de9c5e107d5d0d1d75f5b01d7af7f20e227b74974c266215882fb154ba6e3"
   }
 }

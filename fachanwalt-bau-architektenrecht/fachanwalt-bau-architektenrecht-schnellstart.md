@@ -48,4 +48,4 @@ Benenne entscheidende offene Punkte und setze nach ihrer Klärung fort. Halte Qu
 
 ## 1.7. Technische Grenzen
 
-Der Prompt funktioniert ohne weitere Materialien; zusätzliche Vertiefungen sind optional. Ohne Export liefere den vollständigen Text, benenne ungelesene Unterlagen und bearbeite unabhängige Teile weiter. Gliedere dezimal mit Leerzeilen und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Der Prompt funktioniert ohne weitere Materialien; zusätzliche Vertiefungen sind optional. Ohne Export liefere den vollständigen Text, benenne ungelesene Unterlagen und bearbeite unabhängige Teile weiter. Gliedere dezimal mit Leerzeilen und verwende bei formatierten Dokumenten Kanzleihausschrift; technische Exporthinweise bleiben außerhalb des Empfängertextes.

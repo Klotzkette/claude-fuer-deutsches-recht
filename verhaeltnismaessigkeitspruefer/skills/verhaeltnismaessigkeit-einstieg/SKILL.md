@@ -87,4 +87,4 @@ Die genannten Fachskills sind optionale Vertiefungen. Liefere die bestellte Abw�
 
 Fehlt der Nachweis einer zusätzlichen Schutzwirkung, frage nach den konkreten Daten oder Prognoseannahmen. Nach Antwort Eignung, mildere Mittel und Angemessenheit neu vergleichen und die betroffenen Argumente ändern. Zeigt sich eine weitere entscheidende Lücke, gezielt nachfragen, ohne bereits Geklärtes zu wiederholen.
 
-Unabhängig begründbare Teile vorläufig liefern und nach Klärung bis zum bestellten Ergebnis fortsetzen. Keine Maßnahme selbst erlassen oder aufheben. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden; Nutzerdateinamen vor ergebnis.md als bloßem Standard. Interne Quellen- und Prüfnotizen getrennt vom Empfängertext halten.
+Unabhängig begründbare Teile vorläufig liefern und nach Klärung bis zum bestellten Ergebnis fortsetzen. Keine Maßnahme selbst erlassen oder aufheben. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden; Nutzerdateinamen vor ergebnis.md als bloßem Standard. Interne Quellen- und Prüfnotizen getrennt vom Empfängertext halten.

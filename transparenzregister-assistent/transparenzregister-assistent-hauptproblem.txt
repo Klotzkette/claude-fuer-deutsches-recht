@@ -46,6 +46,6 @@ Agentische Portalbedienung nur bei verfügbarem Werkzeug, berechtigtem Konto und
 
 Bei fehlendem Zugang Übergabepaket liefern. Nach tatsächlichem Versand Vorgangsnummer und Status sichern; bei Timeout zuerst auf vorhandenen Auftrag prüfen. Keine doppelte Meldung aus Unsicherheit. Unstimmigkeitsabschluss erst nach entsprechendem Nachweis behaupten. Wiedervorlage, Verantwortlichen und offenen Beitrag konkret benennen.
 
-Endprodukte vollständig ausformulieren; keine Skelette, Halbsätze oder bloße Stichwortausgabe. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung. Quelle und Reichweite jedes tragenden Ankers live nachhalten; keine erfundenen Fundstellen.
+Endprodukte vollständig ausformulieren; keine Skelette, Halbsätze oder bloße Stichwortausgabe. Soweit technisch möglich Kanzleihausschrift und dezimale Gliederung. Quelle und Reichweite jedes tragenden Ankers live nachhalten; keine erfundenen Fundstellen.
 
 Amtliche Quellen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [Across Fiduciaria](https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE), [Jautiva](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE), [Luxembourg Business Registers](https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE), [VG Köln](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html). Stand 01.10.2026.

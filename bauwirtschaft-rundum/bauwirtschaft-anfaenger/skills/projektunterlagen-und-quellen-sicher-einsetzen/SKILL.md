@@ -31,7 +31,7 @@ Vorhandene interne KI-Richtlinie, Datenklassifikation, Vertrag/Anbieterbedingung
 
 ## 5. Ausgabeformat
 
-Begründeter Nutzungsvermerk mit Zweck, erlaubter Teilmenge, offenen Sperren, verantwortlicher Freigabestelle und sicherer Alternative; kompakte Nachweistabelle; fertige interne Klärungsnachricht. Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder bloßen Checklisten als Endprodukt. Formatstandard: Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei Markdown getrennter Exporthinweis. Nicht selbst eine fremde organisatorische Freigabe erteilen.
+Begründeter Nutzungsvermerk mit Zweck, erlaubter Teilmenge, offenen Sperren, verantwortlicher Freigabestelle und sicherer Alternative; kompakte Nachweistabelle; fertige interne Klärungsnachricht. Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder bloßen Checklisten als Endprodukt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei Markdown getrennter Exporthinweis. Nicht selbst eine fremde organisatorische Freigabe erteilen.
 
 ## 6. Beispiele
 

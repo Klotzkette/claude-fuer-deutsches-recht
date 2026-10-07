@@ -37,7 +37,7 @@ Ohne Material genau eine gebündelte Frage zu den entscheidenden Lücken stellen
 
 ## 5. Ausgabeformat
 
-Das verlangte Klauselvotum, den Entwurf, die Redline, den Verhandlungsvermerk, den Einführungsplan oder die begründete Antwort vollständig ausformulieren. Eine Fragenliste oder Prüfmatrix ist nur ein Zwischenprodukt. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; bei Markdown als Exporthinweis nennen. Bei unzureichendem Material den belastbaren Teil und die entscheidende offene Frage liefern.
+Das verlangte Klauselvotum, den Entwurf, die Redline, den Verhandlungsvermerk, den Einführungsplan oder die begründete Antwort vollständig ausformulieren. Eine Fragenliste oder Prüfmatrix ist nur ein Zwischenprodukt. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; bei Markdown als Exporthinweis nennen. Bei unzureichendem Material den belastbaren Teil und die entscheidende offene Frage liefern.
 
 ## 6. Beispiele
 

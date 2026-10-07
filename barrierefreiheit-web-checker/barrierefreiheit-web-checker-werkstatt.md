@@ -91,7 +91,7 @@ Bei einem Hindernis liefere einen ausdrücklich vorläufigen, belegten Stand und
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne fehlende Zugänge oder Dateien; ohne Browserzugriff keine Live-Prüfung behaupten. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder nicht durchgeführte Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen sowie Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne fehlende Zugänge oder Dateien; ohne Browserzugriff keine Live-Prüfung behaupten. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder nicht durchgeführte Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen sowie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
 
 ## 2. Von der Barriere zur konkreten Abhilfe
 

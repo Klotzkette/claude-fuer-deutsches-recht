@@ -29,7 +29,7 @@ Prüfen Sie Paragrafen 125 bis 127, 145 folgende, 305b und 767 BGB sowie vertrag
 
 ## 5. Ausgabeformat
 
-Liefern Sie den Nachtrag vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Offene Änderungsentscheidungen und der Markdown-Exporthinweis stehen getrennt vom Empfängertext.
+Liefern Sie den Nachtrag vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Offene Änderungsentscheidungen und der Markdown-Exporthinweis stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 

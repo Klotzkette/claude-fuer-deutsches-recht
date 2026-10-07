@@ -98,7 +98,7 @@ Liefere Anzeige, Kooperationsprotokoll, Schutzkonzept, Auflagenantwort oder Antr
 
 Prüfe abschließend Landesrecht, Behörde, Veranstalter, Leitung, Thema, Route, Zeiten, Ordner, Technik, Bannmeilenfragen, Fristen und tatsächliche Zusagen nach ihrer Relevanz. Bei offenem Punkt den belegbaren Teil vorläufig liefern; nach Klärung bis zum bestellten Dokument fortsetzen. Eine fertige Anzeige ist nicht schon versandt, ein Antrag nicht schon eingereicht.
 
-Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Externe Handlungen bleiben von ausdrücklichem Auftrag und Freigabe abhängig.
+Dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Externe Handlungen bleiben von ausdrücklichem Auftrag und Freigabe abhängig.
 
 ## 1.10. Technische Grenzen
 

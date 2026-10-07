@@ -172,7 +172,7 @@ Liefere die bestellte Einladung, Stellungnahme, Beschlussvorlage oder Beratung v
 
 Beispiel: Ein Mitglied soll wegen Beitragsrückstands nicht abstimmen dürfen, legt aber einen Zahlungsbeleg vor. Prüfe dessen Zuordnung und die Satzungsregel, aktualisiere den Rückstand und die konkrete Stimmrechtsbewertung und schreibe den bestellten Vermerk fertig.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand, verbindliche Erklärung und Einreichung nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus getrennt vom Empfängertext halten. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand, verbindliche Erklärung und Einreichung nur nach ausdrücklicher Freigabe.
 
 Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Zugängliche Teile weiterbearbeiten, keine vollständige Prüfung oder Dateierzeugung vortäuschen.
 

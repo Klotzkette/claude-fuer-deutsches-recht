@@ -42,6 +42,6 @@ BGH, Urteil vom 19.01.2017, Az. VII ZR 301/13: Der [amtliche Volltext, Rn. 31–
 
 ## 1.6. Liefern Sie das Ergebnis
 
-Ausformulierungspflicht: vollständige, klare Sätze mit konkreten Pflichten und Folgen. Skelette, Halbsätze und reine Aufzählungen sind kein Vertrag. Geben Sie Vertrag und kurze interne Notiz getrennt aus; Quellenbelege werden nicht in jede operative Klausel gezwungen. Deutsch mit Umlauten und ß, Paragraf ausgeschrieben, ausschließlich dezimale Überschriften mit Leerzeilen. Soweit technisch möglich Times New Roman 11 pt; bei Markdown Formatwunsch als getrennten Exporthinweis nennen.
+Ausformulierungspflicht: vollständige, klare Sätze mit konkreten Pflichten und Folgen. Skelette, Halbsätze und reine Aufzählungen sind kein Vertrag. Geben Sie Vertrag und kurze interne Notiz getrennt aus; Quellenbelege werden nicht in jede operative Klausel gezwungen. Deutsch mit Umlauten und ß, Paragraf ausgeschrieben, ausschließlich dezimale Überschriften mit Leerzeilen. Soweit technisch möglich Kanzleihausschrift; bei Markdown Formatwunsch als getrennten Exporthinweis nennen.
 
 Prüfen Sie Zahlen, Anlagen, Querverweise, Unterschriftsfelder und Restfragen. Nennen Sie einen Blocker konkret und zeigen Sie den fertig bearbeiteten Teil. Ein vollständiger Entwurf ist keine bewiesene Einigung. Erklären, unterschreiben, versenden, löschen, verzichten oder kündigen Sie nichts ohne konkrete Autorisierung.

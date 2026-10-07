@@ -2,7 +2,10 @@
 """Fuegt in jeden SKILL.md, der ein Endprodukt erzeugt, am Ende des
 '## Ausgabeformat'-Blocks einen Hinweis auf die in CLAUDE.md verankerte
 Ausformulierungspflicht und den Formatstandard ein. Idempotent ueber
-HTML-Marker; bestehende Markerbloecke werden auf den aktuellen Text gehoben.
+HTML-Marker. Der Blocktext kommt aus hausstil.formatblock; jedes Markerpaar
+in jeder Markdown-Datei des Repositorys (auch in References) wird auf diesen
+Text gehoben, damit es nur eine Fassung des Blocks gibt. Neu eingefuegt wird
+er nur in SKILL.md.
 
 Heuristik fuer 'erzeugt ein Endprodukt':
 - Skill-Slug oder description enthaelt mindestens eines der Endprodukt-Woerter
@@ -11,16 +14,22 @@ Heuristik fuer 'erzeugt ein Endprodukt':
   Einspruch, Widerspruch, Gutachten, erstellen, entwerf, formulieren, generator).
 - UND der Skill hat einen '## Ausgabeformat'-Block (sonst kein klarer Anker).
 
-Nicht angefasst: testakten/megaprompts/* (diese Sammlung wird separat gepflegt).
+Nicht angefasst: testakten/megaprompts/* (generate-megaprompt.py baut sie aus den
+SKILL.md neu) und CHANGELOG.md (Historie wird nicht umgeschrieben).
 """
 from __future__ import annotations
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hausstil as hs  # noqa: E402
 
 REPO = Path(__file__).resolve().parent.parent
 
-MARKER_BEGIN = "<!-- BEGIN ausformulierungspflicht (autogen) -->"
-MARKER_END = "<!-- END ausformulierungspflicht (autogen) -->"
+MARKER_BEGIN = hs.MARKER_BEGIN
+MARKER_END = hs.MARKER_END
+MARKERBLOCK_RE = re.compile(re.escape(MARKER_BEGIN) + r"[\s\S]*?" + re.escape(MARKER_END))
 
 ENDPRODUKT_RE = re.compile(
     r"(vertrag|vorlage|klage|antrag|schriftsatz|memo|bescheid|anschreiben|"
@@ -35,13 +44,7 @@ HEADING_RE = re.compile(r"^(#{2,6})\s+(.+?)\s*$", re.MULTILINE)
 AUSGABE_RE = re.compile(r"^#{2,6}\s+(Ausgabe|Endprodukt|Output)", re.IGNORECASE)
 
 
-BLOCK = f"""{MARKER_BEGIN}
-> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
->
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
->
-> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
-{MARKER_END}"""
+BLOCK = hs.formatblock(hs.lade_hausstil())
 
 
 def find_ausgabe_section_end(text: str) -> int | None:
@@ -110,22 +113,22 @@ def extract_description(text: str) -> str:
     return m.group(1) if m else ""
 
 
-def process_skill(path: Path) -> str:
+def process_markdown(path: Path) -> str:
     try:
         text = path.read_text(encoding="utf-8")
     except (UnicodeDecodeError, OSError):
         return "skip-read"
 
     if MARKER_BEGIN in text and MARKER_END in text:
-        pattern = re.compile(
-            re.escape(MARKER_BEGIN) + r"[\s\S]*?" + re.escape(MARKER_END),
-            re.MULTILINE,
-        )
-        new_text = pattern.sub(BLOCK, text, count=1)
+        # Jedes Markerpaar der Datei, auch mehrere (References mit vielen Abschnitten).
+        new_text = MARKERBLOCK_RE.sub(lambda _treffer: BLOCK, text)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             return "updated"
         return "already"
+
+    if path.name != "SKILL.md":
+        return "no-marker"
 
     slug = path.parent.name
     desc = extract_description(text)
@@ -145,15 +148,19 @@ def process_skill(path: Path) -> str:
 
 
 SKIP_PARTS = {".git", "node_modules", "__pycache__", "testakten", "docs",
-               "scripts", "anlagen-zu-schriftsaetzen-archiv"}
+               "scripts", "anlagen-zu-schriftsaetzen-archiv", "mutants", "venv", ".venv"}
+SKIP_FILES = {"CHANGELOG.md"}
 
 
 def main() -> None:
     added = updated = already = not_endprodukt = no_section = errors = 0
-    for skill_md in REPO.rglob("SKILL.md"):
-        if any(part in SKIP_PARTS for part in skill_md.parts):
+    for markdown in REPO.rglob("*.md"):
+        relativ = markdown.relative_to(REPO)
+        if any(part in SKIP_PARTS for part in relativ.parts) or str(relativ) in SKIP_FILES:
             continue
-        result = process_skill(skill_md)
+        result = process_markdown(markdown)
+        if result == "no-marker":
+            continue
         if result == "added":
             added += 1
         elif result == "updated":

@@ -65,7 +65,7 @@ Ein verbleibendes Hindernis begrenzt nur die davon abhängige Bewertung. Belegba
 
 ## Ausgabe
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Quellenstatus und technische Prüfgrenzen getrennt vom Empfängertext notieren. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Quellenstatus und technische Prüfgrenzen getrennt vom Empfängertext notieren. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
 
 ## Qualitäts- und Risikofilter
 

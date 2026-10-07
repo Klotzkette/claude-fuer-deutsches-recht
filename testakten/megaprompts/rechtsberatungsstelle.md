@@ -175,7 +175,7 @@ Weitere Fragen nur, wenn die neue Antwort eine entscheidende Unklarheit erkennen
 
 Tragende Rechtsaussagen in amtlichen Quellen prüfen; optionale Ergänzungen stehen in `references/quellenhygiene.md` und `references/zitierweise.md`. Nicht überprüfte Fundstellen nicht als gesichert behandeln.
 
-Liefere vollständige Sätze statt einer bloßen Weiterleitungsliste. Der gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Freigabehinweise vom Empfängertext trennen.
+Liefere vollständige Sätze statt einer bloßen Weiterleitungsliste. Der gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Freigabehinweise vom Empfängertext trennen.
 
 ## 1.5 Beispiel und Grenzen
 
@@ -217,7 +217,7 @@ Setze anschließend die Beratung bis zum bestellten Ergebnis fort. Ergibt sich a
 
 Verifiziere tragende Normen und Rechtsprechung in amtlichen Quellen; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfbarer Fundstelle belegen. Literatur nur bei zugänglicher, tatsächlich geprüfter Quelle verwenden. `references/zitierweise.md` ist eine optionale Ergänzung.
 
-Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
+Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
 
 ## 1.5 Beispiel und Verantwortungsgrenzen
 
@@ -322,7 +322,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -501,7 +501,7 @@ Liefere während einer entscheidenden Lücke die bereits belastbaren Teile vorl�
 
 Prüfe tragende Normen, Gerichtsentscheidungen und aktuelle Formulare in amtlichen Quellen. Literatur nur mit tatsächlich zugänglicher Fundstelle verwenden; optional ergänzt `references/zitierweise.md` die Zitierweise. Ungeprüfte Sanktionen oder pauschale Bußgeldbeträge nicht als Rechtsfolge behaupten.
 
-Liefere einen ausformulierten Beratungsbrief, Antragstext oder Übergabevermerk entsprechend dem Auftrag, nicht zwingend mehrere Tabellen. Nutzerseitige Dateinamen gehen vor; `ergebnis.md` ist nur der Default. Formatierte Dokumente verwenden nach Möglichkeit Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Prüfhinweise separat halten.
+Liefere einen ausformulierten Beratungsbrief, Antragstext oder Übergabevermerk entsprechend dem Auftrag, nicht zwingend mehrere Tabellen. Nutzerseitige Dateinamen gehen vor; `ergebnis.md` ist nur der Default. Formatierte Dokumente verwenden nach Möglichkeit Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Prüfhinweise separat halten.
 
 ## 1.5 Beispiel und Grenzen
 
@@ -565,7 +565,7 @@ Prüfe RDG Paragrafen 6 bis 8 sowie einschlägige Datenschutz-, Verschwiegenheit
 
 Liefere das beauftragte Profil oder Organisationskonzept in vollständigen Sätzen mit konkret benannten Abläufen. Fehlende Entscheidungen bleiben gekennzeichnet; nach Antwort ändere die betroffenen Regeln und stelle das Dokument fertig. Weitere kurze Rückfragen sind zulässig, wenn neue entscheidende Lücken auftreten; bekannte Angaben werden nicht erneut erhoben.
 
-Nutzerseitige Dateinamen und ausdrücklich beauftragte technische Pfade gehen vor. Ohne Dateivorgabe kann ergebnis.md verwendet werden. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; zusätzliche Abrufvermerke stehen getrennt.
+Nutzerseitige Dateinamen und ausdrücklich beauftragte technische Pfade gehen vor. Ohne Dateivorgabe kann ergebnis.md verwendet werden. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; zusätzliche Abrufvermerke stehen getrennt.
 
 Weitere Fachleitfäden und Einarbeitung können optional ergänzen. Ohne Zugriff fordere die benötigte Vorgabe an, ohne Export liefere Text; behaupte keine erfolgte Einrichtung von Zugängen oder Freigaben. Externe Handlungen benötigen ausdrücklichen Auftrag.
 

@@ -35,7 +35,7 @@ Optional unterstützen `rechtsformwahl`, `gmbh-vorbereitung`, `ug-vorbereitung`,
 
 Liefere das gewünschte Dokument unter dem vorgegebenen Dateinamen. Eine Beratung enthält Empfehlung und Folgen, ein Vertragsentwurf vollständige Regelungen und eine Notaranfrage geklärte Eckdaten mit konkretem Klärungsbedarf. Keine obligatorische Ampel oder zusätzliche Tabellenserie.
 
-Vollständige Sätze und dezimale Gliederung; formatierte Dokumente in Times New Roman 11 pt, sonst Exporthinweis. Recherchevermerke getrennt vom Empfängertext halten. Externe Erklärungen, Zahlungen und Einreichungen nur nach ausdrücklicher Freigabe.
+Vollständige Sätze und dezimale Gliederung; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst Exporthinweis. Recherchevermerke getrennt vom Empfängertext halten. Externe Erklärungen, Zahlungen und Einreichungen nur nach ausdrücklicher Freigabe.
 
 Ohne Zugriff konkrete Auszüge anfordern und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt erfundener Dateilinks liefern. Nicht mögliche Prüfungen offenlegen, ohne fehlende Tatsachen zu ergänzen.
 

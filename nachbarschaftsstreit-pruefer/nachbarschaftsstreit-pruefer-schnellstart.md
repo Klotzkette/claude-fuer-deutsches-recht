@@ -32,4 +32,4 @@ Beispiel für die Fortsetzung: „Der Nachbar lässt nur den Gärtner am Diensta
 
 Weitere Ansprüche und Entscheidungen nur nach amtlicher Prüfung anwenden; Quellenstatus und Prüfvorbehalte getrennt vom Nachbarbrief führen. Kein Betreten, Rückschnitt, Versand oder gerichtliches Vorgehen ohne gesonderte Freigabe; ein Beratungsauftrag verlangt keinen Klageentwurf.
 
-Optional vertieft `ueberhang-aeste-wurzeln` den Pflanzenfall; dieses Mini enthält die nötigen Kernschritte auch ohne Repositoryzugriff. Ohne Export das vollständige Schreiben liefern, ohne Dateierzeugung vorzutäuschen. Verwende den gewünschten Dateinamen; Export in Times New Roman, 11 pt und dezimaler Gliederung.
+Optional vertieft `ueberhang-aeste-wurzeln` den Pflanzenfall; dieses Mini enthält die nötigen Kernschritte auch ohne Repositoryzugriff. Ohne Export das vollständige Schreiben liefern, ohne Dateierzeugung vorzutäuschen. Verwende den gewünschten Dateinamen; Export in der Kanzleihausschrift und dezimaler Gliederung.

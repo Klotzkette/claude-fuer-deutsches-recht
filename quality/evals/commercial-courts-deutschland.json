@@ -50,14 +50,15 @@
     }
   ],
   "mini_review": {
-    "sha256": "35cafffe21fed99ec35d06c5027adf6eedcdd2b880e56a08db747afdb5311574",
+    "sha256": "0def4f06da588c429a52d8b571a97841fd3dac3833fb8e351e958237fc989171",
     "verdict": "revised",
     "reason": "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen. Der Kurzprompt behandelt diesen konkreten Ausgangsfall mit begrenztem Entscheidungsmaßstab und vollständigem bestelltem Ergebnis. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
       "Internationalen Gerichtsstand von Commercial-Court-Zugang und Sprache getrennt; Beschlussmängelstreitigkeiten ausdrücklich abgegrenzt und übereinstimmenden Protokollantrag präzisiert.",
       "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
       "Leer: Forumklausel, Organisationstermin oder Geheimnisschutz. Dateien: still lesen und konkretes Verfahrensprodukt anbieten. Klar: unmittelbar bestellten Text erstellen, geklärtes Forum übernehmen.",
-      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
@@ -67,9 +68,10 @@
       "Vertragsklausel und konkreten Wirtschaftsstreit dem eröffneten Spruchkörper und der richtigen Verfahrenssprache zuordnen.",
       "Bei Parteien aus demselben anderen Mitgliedstaat kann Wahl deutscher Gerichte allein den erforderlichen Auslandsbezug begründen; keinen weiteren deutschen Erfüllungsort verlangen.",
       "Klauselnachtrag, gemischter Streitgegenstand, Beweisabhängigkeiten, Schutzumfang, Protokollzustimmung und Sprachkonsistenz vertieft.",
-      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen."
+      "Spätere Zeugenverfügbarkeit verändert Zeitplanvorschlag; zusätzliche Kostenanlage verändert Schutzantrag und alle Fassungen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6679722d533e7be224ff961ac55c6e28b7d9662543c0af9e9438e3c927ba49ff"
+    "sha256": "330e15d51141ad682c8f6014264d56375784e36488c17bb1b9d4322714e3179e"
   },
   "selection": {
     "positive": [

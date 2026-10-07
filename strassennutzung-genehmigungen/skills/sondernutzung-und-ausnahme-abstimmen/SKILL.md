@@ -33,7 +33,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere einen abgestimmten, ausformulierten Antrag oder eine konkrete Bescheid- und Gebührenprüfung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Zulassungsschema darf den Empfängertext ergänzen, nicht ersetzen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und einen getrennten Exporthinweis verwenden.
+Liefere einen abgestimmten, ausformulierten Antrag oder eine konkrete Bescheid- und Gebührenprüfung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Zulassungsschema darf den Empfängertext ergänzen, nicht ersetzen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und einen getrennten Exporthinweis verwenden.
 
 ## 6. Beispiele
 

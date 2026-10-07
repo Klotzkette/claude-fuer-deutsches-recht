@@ -44,5 +44,5 @@ Neue Angaben mit den bisherigen Belegen abgleichen. Weitere entscheidende Lücke
 ## Qualitätsanker
 
 - Tragende Normen und Entscheidungen anhand überprüfbarer Quellen mit Geltungsstand beziehungsweise Gericht, Datum und Aktenzeichen sichern; die Regeln in `references/quellenhygiene.md` und `references/zitierweise.md` vertiefen dies optional.
-- Spezialskills sind optionale Vertiefungen, kein Ersatz für das bestellte Ergebnis. Schreibe Enddokumente vollständig aus, verwende den gewünschten Dateinamen und bei formatierten Dokumenten Times New Roman 11 Punkt sowie dezimale Gliederung. Technische Prüfnotizen vom Empfängertext trennen.
+- Spezialskills sind optionale Vertiefungen, kein Ersatz für das bestellte Ergebnis. Schreibe Enddokumente vollständig aus, verwende den gewünschten Dateinamen und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt sowie dezimale Gliederung. Technische Prüfnotizen vom Empfängertext trennen.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

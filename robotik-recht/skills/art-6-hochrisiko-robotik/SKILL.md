@@ -30,7 +30,7 @@ Funktionsbeschreibung, Sicherheitskonzept, Fehlermöglichkeiten, Herstellererkl�
 
 ## 5. Ausgabeformat
 
-Ausformulierter Klassifikationsvermerk mit Funktion, Fehlerfolge, Produktregime, Systemrolle, Termin und zuständiger Stelle. Eine Funktionsmatrix darf ergänzen. Keine CE-Erklärung oder technische Sicherheitsfreigabe ohne Nachweise. Times New Roman 11 pt, dezimale Gliederung; bei fehlendem Export vollständigen Text liefern.
+Ausformulierter Klassifikationsvermerk mit Funktion, Fehlerfolge, Produktregime, Systemrolle, Termin und zuständiger Stelle. Eine Funktionsmatrix darf ergänzen. Keine CE-Erklärung oder technische Sicherheitsfreigabe ohne Nachweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; bei fehlendem Export vollständigen Text liefern.
 
 ## 6. Beispiele
 

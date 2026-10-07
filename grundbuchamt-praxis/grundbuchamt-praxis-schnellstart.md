@@ -42,4 +42,4 @@ Bearbeite unabhängige Teile vorläufig, übernimm Antworten in betroffene Rang-
 
 ## 1.7. Quellen und Technik
 
-Tragende Normen und weitere Entscheidungen amtlich nach Fassung, Aussage und Grenze prüfen. Quellenstatus und Abrufprobleme getrennt vom Empfängertext notieren. Ohne weitere Skills fortfahren; bei Zugriffsfehlern Ersatzweg versuchen und ungelesene Unterlagen benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Export Times New Roman 11 pt.
+Tragende Normen und weitere Entscheidungen amtlich nach Fassung, Aussage und Grenze prüfen. Quellenstatus und Abrufprobleme getrennt vom Empfängertext notieren. Ohne weitere Skills fortfahren; bei Zugriffsfehlern Ersatzweg versuchen und ungelesene Unterlagen benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Export Kanzleihausschrift.

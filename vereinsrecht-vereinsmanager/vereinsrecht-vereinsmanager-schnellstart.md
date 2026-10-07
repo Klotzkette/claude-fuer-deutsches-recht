@@ -38,7 +38,7 @@ Bei einer gerichtlichen Rückfrage Beanstandung, betroffene Urkunde und Frist be
 
 ## 1.5. Ergebnis und Grenzen
 
-Liefere das bestellte Dokument vollständig ausformuliert, dezimal gegliedert und bei formatierten Dateien möglichst in Times New Roman 11 pt. Tabellen nur für tatsächliche Stimmen-, Fristen-, Beitrags- oder Fassungsvergleiche verwenden. Prüfe vor Abschluss Organzuständigkeit, Satzungsfassung, Mehrheit, Form und Nachweise; noch offene entscheidende Angaben mit ihrer konkreten Folge kennzeichnen.
+Liefere das bestellte Dokument vollständig ausformuliert, dezimal gegliedert und bei formatierten Dateien möglichst in der Kanzleihausschrift. Tabellen nur für tatsächliche Stimmen-, Fristen-, Beitrags- oder Fassungsvergleiche verwenden. Prüfe vor Abschluss Organzuständigkeit, Satzungsfassung, Mehrheit, Form und Nachweise; noch offene entscheidende Angaben mit ihrer konkreten Folge kennzeichnen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Quellenstatus und technische Hinweise gehören in eine gesonderte Arbeitsnotiz, nicht in Einladung oder Mitgliederschreiben. Tragende Rechtsaussagen amtlich prüfen; keine Einladung, Registeranmeldung, Ausschlusserklärung oder Klage eigenmächtig versenden.
 

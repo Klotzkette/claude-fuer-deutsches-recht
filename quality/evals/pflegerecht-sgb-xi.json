@@ -679,18 +679,20 @@
     "reason": "Eigenständige pflegeversicherungsrechtliche Fachwege mit Frist- und Kostengrenzen.",
     "changes": [
       "Aktueller Beratungsrhythmus, Ersatzpflegefrist und Heimzuschlag.",
-      "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben."
+      "Sieben eingegrenzte Entscheidungen und zwei als offen gekennzeichnete Verfahren; Fortsetzung bis zum Schreiben.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fecf42abcfb9b42c0a373041c84bf2eebc16f4916eabe053180b1cf4092e4bd4"
+    "sha256": "31ebf67f661d4e5f89256827b1d73a624379000e706e71c1945c23346e8d26ed"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Ausführliche eigenständige Bearbeitung mit zehn konkreten Fachwegen statt allgemeiner Mandatsfloskeln.",
     "changes": [
       "Kriterienprüfung, Kostenzuordnung und Versicherungswege mit spezifischen Nachfragen.",
-      "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung."
+      "Ausformulierte Ergebnisarten, fachliche Grenzen und belastbare Fortsetzung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8c5a610a7f41f23b66d29821b530a655dcf455c46f84ec94f9850909e785e272"
+    "sha256": "891f37c0d6a26a13c27d290a8f2ebf9593f6db2f4f6c5f0218d3e28cb8a64c98"
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",

@@ -29,7 +29,7 @@ Die im konkreten Brief tragenden Paragrafen, insbesondere 174, 177 bis 179 und 1
 
 ## 5. Ausgabeformat
 
-Ein vollständiger, empfängerfertig formulierter Briefentwurf pro Gläubiger, keine Stichwortvorlage. Nicht belegte Empfänger- oder Datumsangaben als klaren Platzhalter kennzeichnen. Daneben kurze interne Freigabenotiz mit offenem Punkt und Frist. Times New Roman 11 pt und dezimale Gliederung, soweit technisch möglich; Format- und Exporthinweise nicht in den Brief. Kein automatischer Versand.
+Ein vollständiger, empfängerfertig formulierter Briefentwurf pro Gläubiger, keine Stichwortvorlage. Nicht belegte Empfänger- oder Datumsangaben als klaren Platzhalter kennzeichnen. Daneben kurze interne Freigabenotiz mit offenem Punkt und Frist. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit technisch möglich; Format- und Exporthinweise nicht in den Brief. Kein automatischer Versand.
 
 ## 6. Beispiele
 

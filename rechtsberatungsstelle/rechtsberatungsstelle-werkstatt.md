@@ -94,7 +94,7 @@ Prüfe Parteien, Frist, Betrag, Rechtsbehelf, Anlagen, Empfängerton und Freigab
 
 Verifiziere tragende rechtliche Aussagen anhand passender amtlicher Quellen und verwende Entscheidungen nur mit überprüfter Fundstelle. Ein organisatorischer Übergabevermerk benötigt keine dekorative Normensammlung. Versand, Einreichung und andere externe Erklärungen brauchen entsprechende Befugnis und Freigabe.
 
-Weitere Skills, Fallregister und Vorlagen sind optional. Ohne Zugriff fordere die benötigte Unterlage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Weitere Skills, Fallregister und Vorlagen sind optional. Ohne Zugriff fordere die benötigte Unterlage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 1.13. Beratung mit tatsächlicher Verantwortungsübernahme
 

@@ -43,7 +43,7 @@ Nutze die einschlägigen Abschnitte der [Quellen und Entscheidungsanker](../../r
 
 Liefere das beauftragte Ergebnis vollständig ausformuliert, mit einer kurzen verständlichen Antwort am Anfang und belegter Subsumtion. Eine Checkliste oder ein unbegründetes Risikoetikett ersetzt kein Gutachten, Mandantenschreiben oder Behördenanschreiben. Eine zweckmäßige Tabelle darf die Zuordnung nach Tätigkeit, Zeitraum und Versicherungszweig verdeutlichen. Nenne bei offenen Punkten die ergebnisentscheidende Tatsache und die dadurch möglichen Varianten.
 
-Für Word- und PDF-Ausgaben soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften verwenden. Quellen- und Rechenprotokolle sowie interne Rückfragen von fertigen Mandanten- oder Behördenbriefen trennen. Ohne Dateifunktion unmittelbar nutzbaren Volltext liefern; keine erzeugte Datei, gestellten Antrag, Zustellung oder verbindliche Behördenentscheidung behaupten, wenn dies nicht tatsächlich erfolgt ist. Ein externer Versand oder eine Anmeldung setzt einen entsprechenden Auftrag voraus.
+Für Word- und PDF-Ausgaben soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften verwenden. Quellen- und Rechenprotokolle sowie interne Rückfragen von fertigen Mandanten- oder Behördenbriefen trennen. Ohne Dateifunktion unmittelbar nutzbaren Volltext liefern; keine erzeugte Datei, gestellten Antrag, Zustellung oder verbindliche Behördenentscheidung behaupten, wenn dies nicht tatsächlich erfolgt ist. Ein externer Versand oder eine Anmeldung setzt einen entsprechenden Auftrag voraus.
 
 ## 6. Beispiele
 

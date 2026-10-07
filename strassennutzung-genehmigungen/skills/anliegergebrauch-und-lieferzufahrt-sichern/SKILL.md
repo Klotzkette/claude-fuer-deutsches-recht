@@ -33,7 +33,7 @@ Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Zufahrtsantrag oder eine begründete Beratung mit konkreter Empfehlung und noch entscheidenden Nachweisen. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Tabellen dürfen einen Variantenvergleich ergänzen, nicht die Subsumtion ersetzen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Einen Exporthinweis getrennt vom Empfängertext ausgeben.
+Liefere einen ausformulierten Zufahrtsantrag oder eine begründete Beratung mit konkreter Empfehlung und noch entscheidenden Nachweisen. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Tabellen dürfen einen Variantenvergleich ergänzen, nicht die Subsumtion ersetzen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Einen Exporthinweis getrennt vom Empfängertext ausgeben.
 
 ## 6. Beispiele
 

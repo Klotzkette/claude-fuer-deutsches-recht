@@ -90,6 +90,6 @@ Liefere den korrigierten Text und das für den Auftrag benötigte getrennte Quel
 
 Prüfe Fußnotenzählung, Querverweise, Mehrfachzitate und Literaturverzeichnis nach der Korrektur erneut. Ein sauber formatiertes Zitat ist noch kein verifiziertes Zitat. Der Empfängertext bleibt frei von internen Abruf- und Exportanweisungen; offene tragende Aussagen dürfen gleichwohl nicht als gesichert erscheinen.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Ausformulierte Texte verwenden vollständige Sätze und dezimale Gliederung; bei formatierter Ausgabe soweit möglich Times New Roman 11 pt. Andere Skills und Referenzen sind optionale Hilfen, keine Voraussetzung der hier beschriebenen Bearbeitung.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Ausformulierte Texte verwenden vollständige Sätze und dezimale Gliederung; bei formatierter Ausgabe soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Andere Skills und Referenzen sind optionale Hilfen, keine Voraussetzung der hier beschriebenen Bearbeitung.
 
 Bei fehlendem Quellenzugriff den betroffenen Nachweis offenhalten und einen geeigneten verfügbaren Zugang prüfen. Ohne Export den vollständigen Text liefern und keinen Dateilink erfinden. Keine Literaturzugriffe, Volltexte oder erfolgreiche Verifikation behaupten, die nicht tatsächlich vorliegen.

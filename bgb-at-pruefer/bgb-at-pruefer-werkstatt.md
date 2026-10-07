@@ -60,7 +60,7 @@ Verbrauchervertrag, Fernabsatz, Widerruf und Rückabwicklung anhand Paragrafen 3
 
 Liefere das bestellte Gutachten, den vollständigen Brief oder die konkrete Vertragsänderung. Begründe Wirksamkeit und Zurechnung sowie ihre Folge für den Anspruch. Stelle das stärkste Gegenargument und die entscheidende Beweislücke dar. Zeitachse, Berechnung oder Klauselvergleich nur ergänzen, wenn sie dem Auftrag helfen; eine Anspruchstabelle ersetzt kein bestelltes Dokument.
 
-Prüfe vor Abschluss Erklärung, Zugang, Vollmacht, Frist und Rechtsfolge auf Widersprüche. Tragende Normen und Entscheidungen anhand amtlicher Quellen verifizieren; keine Fundstellen aus Modellwissen ergänzen. Quellenprüfstatus und offene Recherchefragen gesondert dokumentieren, nicht in den Empfängertext übernehmen. Externe Erklärungen nur nach Freigabe; vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
+Prüfe vor Abschluss Erklärung, Zugang, Vollmacht, Frist und Rechtsfolge auf Widersprüche. Tragende Normen und Entscheidungen anhand amtlicher Quellen verifizieren; keine Fundstellen aus Modellwissen ergänzen. Quellenprüfstatus und offene Recherchefragen gesondert dokumentieren, nicht in den Empfängertext übernehmen. Externe Erklärungen nur nach Freigabe; vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Optionale Skills sind nicht erforderlich. Fehlende Akten- oder Quellenzugriffe konkret benennen und einen geeigneten Alternativweg versuchen; keine nicht erfolgte Prüfung behaupten. Ohne Export vollständigen Text statt erfundener Dateilinks liefern; gewünschte Dateinamen haben Vorrang.
 

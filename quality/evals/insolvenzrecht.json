@@ -77,9 +77,10 @@
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c1ee1e44c4d6a726d45ea9cf4db1a92d7a838fc94b837ac12c036f0e09460791"
+    "sha256": "cdd377b40a52f3c87d0e5b681913baf302827e18f7149e6b4e921e8290e6a998"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -89,9 +90,10 @@
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Stundung gegen bloßes Stillhalten abgrenzen, Cashpoolmittel und Zuflüsse zeitlich prüfen, Anfechtung zahlungsbezogen aufbauen und Organentscheidungen nach ihrer tatsächlichen Zahlungs- und Kenntnislage bearbeiten; Fokus-Prompt und Fokus-Skill im Einstieg abgestimmt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bab5ee4fd49d4b46978068bdaac4b6ebfd3db493caa31ab3641d817fb939217c"
+    "sha256": "c01f030a205bf00cd038cb3f4f6d8e33e85e6a0202fc6c0f35f05a5585b029d6"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -103,12 +105,13 @@
       "Titelvoraussetzungen, Konzernmittel und neue Fälligkeiten als konkrete Belegfragen formuliert.",
       "Im Hauptproblem OPOS-Bereinigung und Statusrechnung ohne automatische Paragraf-15b-Haftung verbunden.",
       "Hauptproblem und Fokus-Skill nach vollständiger Lektüre um eigenständige Einstiege und konkrete Fortsetzung bei Stundung oder Zahlungseingang ergänzt; keine neue Gesamtquellenprüfung.",
-      "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert."
+      "30.09.2026: IX ZR 18/25 zu tatsächlich verfügbaren Drittmitteln und Grenzen der Detailerwiderung im Hauptproblem ergänzt; Fokus-Skill unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "insolvenzrecht/insolvenzrecht-hauptproblem.md",
-    "prompt_sha256": "2447162f0bc9ff3a87d37dfc49e3a1d95316d534e6eec20395adda4f8062e3e2",
+    "prompt_sha256": "81a74b70d53c1af9bb6a4a67c9fad95752999692959f520ee2111c74eddf7632",
     "skill_path": "insolvenzrecht/skills/opos-titelabgleich-dreiwochen-liquiditaetsbruecke/SKILL.md",
-    "skill_sha256": "f2b96d70d9d751175363a23bc7225b2f933df04ea915ee11fd8f7fb2683dd531"
+    "skill_sha256": "6d12fb3b97fa715ee3b7971c476273767987d5039f63df0c7f360a2f95bd91c3"
   },
   "selection": {
     "positive": [

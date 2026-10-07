@@ -29,7 +29,7 @@ Aktuelle Gesetze, Verwaltungspraxis, Sanktionen, Exportkontrolle und tragende En
 
 Liefere das beauftragte Memo, die Klausel, das Schreiben oder das Lehrmaterial in vollständigen Sätzen unter der gewünschten Dateibenennung. Voraussetzungen, Tatsachen, Belege, Gegenposition und Rechtsfolge nachvollziehbar verbinden; Tabellen nur für echte Vergleiche oder Rechnungen. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz halten.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis. Bei entscheidender Lücke den belastbaren Teil vorläufig benennen und nach Antwort bis zum bestellten Ergebnis weiterarbeiten. Versand, Zahlung und Verfahrenseinleitung nur nach ausdrücklicher Freigabe.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis. Bei entscheidender Lücke den belastbaren Teil vorläufig benennen und nach Antwort bis zum bestellten Ergebnis weiterarbeiten. Versand, Zahlung und Verfahrenseinleitung nur nach ausdrücklicher Freigabe.
 
 ## 1.5. Beispiel
 

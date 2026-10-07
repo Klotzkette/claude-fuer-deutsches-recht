@@ -29,7 +29,7 @@ Paragrafen 43, 44, 174, 175, 177 und 181 InsO; Paragrafen 169, 170 und 175 SGB I
 
 ## 5. Ausgabeformat
 
-Liefere Zuordnung und offene Rechtskette als Arbeitstabelle sowie vollständig ausformulierte Einordnung und gegebenenfalls Nachforderung. Benenne den genauen Dokumentenbedarf und den betroffenen Anspruchsteil; keine Vollmacht oder Insolvenzgeldbescheinigung pauschal für jede Anmeldung verlangen. Keine Skelettbriefe. Dokumente soweit möglich in Times New Roman 11 pt, ausschließlich dezimal gegliedert. Gläubigerklärung ist kein Anerkenntnis.
+Liefere Zuordnung und offene Rechtskette als Arbeitstabelle sowie vollständig ausformulierte Einordnung und gegebenenfalls Nachforderung. Benenne den genauen Dokumentenbedarf und den betroffenen Anspruchsteil; keine Vollmacht oder Insolvenzgeldbescheinigung pauschal für jede Anmeldung verlangen. Keine Skelettbriefe. Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal gegliedert. Gläubigerklärung ist kein Anerkenntnis.
 
 ## 6. Beispiele
 

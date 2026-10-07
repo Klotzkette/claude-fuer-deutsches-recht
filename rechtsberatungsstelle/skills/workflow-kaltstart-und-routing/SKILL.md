@@ -31,7 +31,7 @@ Liefere während einer entscheidenden Lücke die bereits belastbaren Teile vorl�
 
 Prüfe tragende Normen, Gerichtsentscheidungen und aktuelle Formulare in amtlichen Quellen. Literatur nur mit tatsächlich zugänglicher Fundstelle verwenden; optional ergänzt `references/zitierweise.md` die Zitierweise. Ungeprüfte Sanktionen oder pauschale Bußgeldbeträge nicht als Rechtsfolge behaupten.
 
-Liefere einen ausformulierten Beratungsbrief, Antragstext oder Übergabevermerk entsprechend dem Auftrag, nicht zwingend mehrere Tabellen. Nutzerseitige Dateinamen gehen vor; `ergebnis.md` ist nur der Default. Formatierte Dokumente verwenden nach Möglichkeit Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Prüfhinweise separat halten.
+Liefere einen ausformulierten Beratungsbrief, Antragstext oder Übergabevermerk entsprechend dem Auftrag, nicht zwingend mehrere Tabellen. Nutzerseitige Dateinamen gehen vor; `ergebnis.md` ist nur der Default. Formatierte Dokumente verwenden nach Möglichkeit Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Prüfhinweise separat halten.
 
 ## 1.5 Beispiel und Grenzen
 

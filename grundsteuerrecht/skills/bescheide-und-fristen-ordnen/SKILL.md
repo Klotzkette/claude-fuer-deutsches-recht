@@ -43,7 +43,7 @@ Paragrafen 108, 110, 122, 122a, 347, 350, 351, 355, 356 und 357 AO zeitbezogen p
 
 Liefere das bestellte Schreiben vollständig mit Anrede, bestimmtem Antrag und Anlagenbezug, sofern ein Brief beauftragt ist. Bei bloßer Bescheid- und Fristenprüfung begründe deren Ergebnis, ohne ungefragt einen Rechtsbehelf zu entwerfen. Ein Bescheidregister mit Quelle, Regelung, Zugang, Frist und zuständiger Stelle unterstützt bei mehreren Verwaltungsakten die Übersicht.
 
-Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Verwende für exportierte Dokumente Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
+Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Verwende für exportierte Dokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
 
 ## 6. Beispiele
 

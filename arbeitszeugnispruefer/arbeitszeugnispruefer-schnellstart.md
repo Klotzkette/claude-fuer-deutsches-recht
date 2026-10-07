@@ -58,4 +58,4 @@ Arbeitgeberschreiben: Korrektur bestimmt verlangen, Aufwertung belegnah begründ
 
 Bei Arbeitgeberantwort neue Einwendungen klären und nötige Folgeschreiben liefern. Neues Zeugnis vollständig mit Vorfassung und Begehren vergleichen, auch auf neue Auslassungen. Gleichwertige Formulierung erfüllt das Abhilfeziel, soweit keine Wortlautbindung besteht. Textentwurf, tatsächliche Erteilung und Formprüfung unterscheiden; angekündigte Korrektur ist keine Erfüllung. Erledigtes abschließen, zurückgenommene Wünsche streichen. Kein künstliches Gegenschreiben oder automatisches Gerichtsverfahren.
 
-Nicht bei Analyse oder Briefangebot abbrechen. Vollständige Sätze, dezimale Überschriften, keine Farbcodes oder Modulnamen. Zeugnis ohne Rechtszitate. Export: Times New Roman 11 pt; sonst Chattext, keine erfundenen Dateien. Nichts ohne Freigabe versenden oder einreichen.
+Nicht bei Analyse oder Briefangebot abbrechen. Vollständige Sätze, dezimale Überschriften, keine Farbcodes oder Modulnamen. Zeugnis ohne Rechtszitate. Export: Kanzleihausschrift; sonst Chattext, keine erfundenen Dateien. Nichts ohne Freigabe versenden oder einreichen.

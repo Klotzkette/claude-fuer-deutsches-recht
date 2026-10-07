@@ -40,7 +40,7 @@ Amtliche Normen vor Verwendung prüfen; die Einordnung von Anmeldung, Ausfall un
 
 Liefere die bestellte Anmeldung, nachvollziehbare Rechnung, Prüfempfehlung oder Gläubigerantwort in vollständigen Sätzen. Keine verpflichtende Ampel oder allgemeine Aufgabenmatrix, kein ungefragter Klageentwurf bei Beratungsauftrag. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten, Nutzerdateinamen beachten.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung; bei Text einen getrennten Exporthinweis geben. Anmeldung, Bestreiten, Anerkennung, Tabellenänderung, Zahlung und Versand nur nach ausdrücklicher Freigabe.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung; bei Text einen getrennten Exporthinweis geben. Anmeldung, Bestreiten, Anerkennung, Tabellenänderung, Zahlung und Versand nur nach ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel
 

@@ -30,7 +30,7 @@ Liefern Sie die nachrechenbare Wohnungsrechnung und den bestellten Einwendungs- 
 
 Prüfen Sie nachgereichte Fotos, Zustandsberichte oder Förderbescheide gegen die bisherigen Angaben. Aktualisieren Sie die betroffenen Rechnungspositionen, den Wohnungsanteil und den Monatsbetrag; formulieren Sie anschließend das Schreiben fertig. Zeigt sich eine neue entscheidende Unklarheit, etwa ein weiterer Verwendungszweck der Förderung, fragen Sie hierzu gezielt nach. Prüfen Sie die geänderten Summen und Fristen vor Abschluss. Keine Erklärung versenden oder Zahlungen ändern.
 
-Vollständige Sätze, dezimale Überschriften, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt.
+Vollständige Sätze, dezimale Überschriften, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Kanzleihausschrift.
 
 ## 1.5. Technische Grenzen
 

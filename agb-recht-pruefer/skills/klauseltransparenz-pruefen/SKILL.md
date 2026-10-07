@@ -29,7 +29,7 @@ Wortlaut, Fassung, Vertragsdatum, Kundengruppe, Vertragstyp sowie tatsächlich z
 
 ## 5. Ausgabeformat
 
-Originalstelle, konkrete Unklarheit, betroffene Belastung, Gegenargument, belegtes Ergebnis und Ersatzfassung liefern. Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder bloßen Aufzählungen. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown den Exporthinweis aufnehmen.
+Originalstelle, konkrete Unklarheit, betroffene Belastung, Gegenargument, belegtes Ergebnis und Ersatzfassung liefern. Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder bloßen Aufzählungen. Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown den Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

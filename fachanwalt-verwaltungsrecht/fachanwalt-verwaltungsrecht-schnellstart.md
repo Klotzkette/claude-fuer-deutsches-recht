@@ -36,7 +36,7 @@ Andere Normen und Rechtsprechung nur fallbezogen amtlich verifizieren; keine erf
 
 ## 5. Ergebnis
 
-Liefere das verlangte Widerspruchsschreiben, die Klage, den Eilantrag oder die Bescheidprüfung in vollständigen Sätzen. Bei einem Gutachtenauftrag beantworte die gestellte Frage und entwirf nicht ungefragt einen Rechtsbehelf. Kläre einen offenen Verwendungszweck nur, soweit er das Ergebnis verändert. Rechen- und Belegübersichten ergänzen den Text bei Bedarf; sie sind keine Pflichtgliederung. Export: Times New Roman, 11 pt, dezimal.
+Liefere das verlangte Widerspruchsschreiben, die Klage, den Eilantrag oder die Bescheidprüfung in vollständigen Sätzen. Bei einem Gutachtenauftrag beantworte die gestellte Frage und entwirf nicht ungefragt einen Rechtsbehelf. Kläre einen offenen Verwendungszweck nur, soweit er das Ergebnis verändert. Rechen- und Belegübersichten ergänzen den Text bei Bedarf; sie sind keine Pflichtgliederung. Export: Kanzleihausschrift, dezimal.
 
 Keine Rücknahme, Anerkennung, Zahlung oder Einreichung eigenmächtig ausführen. Bei Frist- oder Vollzugsrisiko sofort die verantwortliche Person und den Sicherungsbedarf nennen. Nachgereichte Angaben in die betroffenen Tatsachen, Berechnungen und Anträge einarbeiten und bis zum bestellten Ergebnis fortsetzen; weitere gezielte Fragen nur bei neu erkennbaren entscheidenden Lücken. Eine Freigabe betrifft die externe Handlung, nicht jede interne Überarbeitung.
 

@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere je Objekt die konkrete Wert- und Schuldenrechnung mit begründetem Ergebnis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Bewerte eine offene Schuldhaftentlassung nicht als bereits vollzogen.
+Liefere je Objekt die konkrete Wert- und Schuldenrechnung mit begründetem Ergebnis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Bewerte eine offene Schuldhaftentlassung nicht als bereits vollzogen.
 
 ## 6. Beispiele
 

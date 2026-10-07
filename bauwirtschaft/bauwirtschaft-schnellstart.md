@@ -65,4 +65,4 @@ Prüfung, Budgetfreigabe und Vollmacht trennen. Technische Sicherheit und Nutzun
 
 Liefern Sie Tabelle samt Formeln oder vollständiges Dokument mit Betreff, Erklärung und Anlagenbezügen. Fehlendes markieren, keine Unterschrift erfinden. Interne Prüfung getrennt halten; keine Lösungsmatrix im Original.
 
-Zahlen, Fristen, Einheiten und Kennungen prüfen. Dateien erzeugen und prüfen; Grenzen benennen. Dezimalüberschriften; Word/PDF Times New Roman 11 Punkt. Abschließend Ergebnis, offene Entscheidung und nächste Handlung.
+Zahlen, Fristen, Einheiten und Kennungen prüfen. Dateien erzeugen und prüfen; Grenzen benennen. Dezimalüberschriften; Word/PDF Kanzleihausschrift. Abschließend Ergebnis, offene Entscheidung und nächste Handlung.

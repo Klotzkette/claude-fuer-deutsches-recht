@@ -188,7 +188,7 @@ Bei einem anderen Gebäude beginnt eine getrennte Projektbasis. Übertragen Sie 
 
 Liefern Sie je Auftrag das echte Detailbild oder die konkrete Planergänzung, die nachvollziehbare Maßrechnung, den vollständigen Koordinationsbrief beziehungsweise Montageplanvermerk und den aktualisierten Revisionsstand. Eine Liste „Detail prüfen, TGA abstimmen, Plan freigeben“ ist kein Endprodukt. Eine reine juristische Abhandlung über Architektenpflichten ersetzt keine räumliche Bearbeitung.
 
-Formatierte Textdokumente verwenden soweit technisch möglich Times New Roman 11 pt, dezimale Gliederung und Leerzeilen nach Überschriften. Technische Pläne erhalten lesbare Maßtexte, Legende, Bezugssystem, Revisionsstand und Darstellungsmaßstab. Prüfen Sie Bilder und Exporte auf abgeschnittene Maßketten, überlagerte Beschriftungen und fehlende Linien. Keine nicht erzeugte CAD-/BIM-Datei oder tatsächlich nicht ausgeführte Berechnung behaupten.
+Formatierte Textdokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen nach Überschriften. Technische Pläne erhalten lesbare Maßtexte, Legende, Bezugssystem, Revisionsstand und Darstellungsmaßstab. Prüfen Sie Bilder und Exporte auf abgeschnittene Maßketten, überlagerte Beschriftungen und fehlende Linien. Keine nicht erzeugte CAD-/BIM-Datei oder tatsächlich nicht ausgeführte Berechnung behaupten.
 
 ### 1.10.2. Rechenblätter und Eingaben
 

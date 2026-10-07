@@ -86,7 +86,7 @@ Keine erfundenen Entscheidungen oder Randnummern. Die vorhandenen BGH-Anker zu V
 
 Liefern Sie das bestellte, vollständig ausformulierte Anschreiben oder Antragspaket, ein konkretes Anlagenverzeichnis und den fortgeschriebenen Nachforderungsstand mit belegten Planrevisionen. Nur erforderliche Rechenblätter und Entscheidungsvarianten ergänzen. Der Empfängertext enthält keine internen Prüfaufträge, Quellenabrufprobleme oder Chat-Anweisungen; diese stehen in einer getrennten Übergabenotiz.
 
-Ausformulierungspflicht: Vollständige, grammatikalisch saubere Sätze statt Skelette, Halbsätze oder bloßer Aufzählungs-Auswürfe. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber nicht das beauftragte Dokument. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Deutsch mit Umlauten und ß, Paragraf ausschreiben. Nicht erzeugte Dateien, Unterschriften, Prüfungen oder Außenhandlungen niemals behaupten.
+Ausformulierungspflicht: Vollständige, grammatikalisch saubere Sätze statt Skelette, Halbsätze oder bloßer Aufzählungs-Auswürfe. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber nicht das beauftragte Dokument. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Deutsch mit Umlauten und ß, Paragraf ausschreiben. Nicht erzeugte Dateien, Unterschriften, Prüfungen oder Außenhandlungen niemals behaupten.
 
 ## 6. Beispiele
 
@@ -168,7 +168,7 @@ Keine erfundenen BGH-Anker, Fundstellen oder Normgrenzwerte. Nur einschlägige v
 
 Liefern Sie tatsächliche Entwurfsunterlagen und das bestellte Dokument mit benötigten ausgefüllten Anlagen zu Konflikten, Kosten oder Terminen. Interne Prüfung vom Empfängertext trennen. Keine nicht vorhandene Datei, Freigabe oder Außenhandlung behaupten.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber nicht die bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Technische Freigaben bleiben den befugten Fachleuten vorbehalten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber nicht die bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Technische Freigaben bleiben den befugten Fachleuten vorbehalten.
 
 ## 6. Beispiele
 
@@ -246,7 +246,7 @@ Keine DIN-Anforderungen, Tabellen oder Bemessungsregeln aus Erinnerung rekonstru
 
 Liefern Sie das ausgearbeitete Detail-/Koordinationspaket mit konkreter Zeichnung oder Planergänzung, nachvollziehbarer Maßrechnung, beantworteter Koordinationskorrespondenz sowie revidiertem Plan- und Versandindex. Die Reichweite der Bearbeitung und noch benötigte Fachentscheidung stehen in einer knappen Übergabe, nicht als versteckte pauschale Ausführungsfreigabe im Plankopf.
 
-Ausformulierungspflicht: Bestellte Schreiben, Detailbeschreibungen und Vermerke bestehen aus vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Technische Maßfelder bleiben fachübliche Daten. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausgeschrieben. Pläne verwenden lesbare technische Beschriftung und nennen Darstellungsmaßstab; keine nicht erzeugte CAD-Datei, Berechnung oder Freigabe behaupten.
+Ausformulierungspflicht: Bestellte Schreiben, Detailbeschreibungen und Vermerke bestehen aus vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Technische Maßfelder bleiben fachübliche Daten. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausgeschrieben. Pläne verwenden lesbare technische Beschriftung und nennen Darstellungsmaßstab; keine nicht erzeugte CAD-Datei, Berechnung oder Freigabe behaupten.
 
 ## 6. Beispiele
 
@@ -324,7 +324,7 @@ Nutzen Sie [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 Liefern Sie das bestellte vollständige Dokument mit ausgefüllten Anlagen, Belegbezug und entscheidenden Restpunkten, keine ungefragte Bestandsübersicht. Ausformulierungspflicht: volle Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe als Endprodukt sind verboten. Unvollständige Entwürfe neu ausformulieren. Tabellen ersetzen keinen bestellten Brief oder Vermerk.
 
-Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausgeschrieben. Exporthinweise und interne Prüfgrenzen getrennt vom Empfängertext. Keine nicht erfolgte Begehung, Zahlung, Abnahme, Fristsicherung oder technische Freigabe behaupten.
+Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausgeschrieben. Exporthinweise und interne Prüfgrenzen getrennt vom Empfängertext. Keine nicht erfolgte Begehung, Zahlung, Abnahme, Fristsicherung oder technische Freigabe behaupten.
 
 ## 6. Beispiele
 
@@ -402,7 +402,7 @@ Keine erfundenen Entscheidungen, Randnummern oder DIN-Anforderungen. Ohne einsch
 
 Liefern Sie das beauftragte, ausgefüllte Vorplanungspaket oder das enger bestellte Dokument: tatsächliche Variantenzeichnung, nachvollziehbare Kostenschätzung, wesentlicher Terminplan und ausformulierte Auswahlvorlage. Zusätzliche Anlagen nur, wenn sie gebraucht werden. Ein interner Abgleich darf tabellarisch sein; der Empfänger erhält eine klare Entscheidung, Begründung und nächste notwendige Zuarbeit.
 
-Ausformulierungspflicht: Operative Texte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Keine nicht erzeugte Datei, technische Freigabe, Auswahlentscheidung des Bauherrn oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Texte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Keine nicht erzeugte Datei, technische Freigabe, Auswahlentscheidung des Bauherrn oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -482,7 +482,7 @@ DIN-/ATV-Texte nur bereitgestellt oder lizenziert verifiziert verwenden. Keine e
 
 Liefern Sie ein vollständiges ungepreistes Langtext-LV, die getrennte Planer-Bepreisung, belegte Mengenermittlung, Kostenüberleitung, Vergabeterminplan und ein verwendbares Anlagenverzeichnis im beauftragten Umfang. Begleitbrief und Entscheidungsvorlage sind ausformuliert. Interne Preisquellen, Rechtsrecherche und verbleibende Freigabepunkte gehören in die interne Übergabe, nicht ungeprüft in den Bieterdatensatz.
 
-Ausformulierungspflicht: Keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als bestelltes Endprodukt. Fachübliche Mengenfelder sind zulässig; Langtexte müssen den Gegenstand tatsächlich beschreiben. Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute/ß, Paragraf ausgeschrieben. Keine behauptete technische Freigabe, Veröffentlichung oder externe Handlung.
+Ausformulierungspflicht: Keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als bestelltes Endprodukt. Fachübliche Mengenfelder sind zulässig; Langtexte müssen den Gegenstand tatsächlich beschreiben. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute/ß, Paragraf ausgeschrieben. Keine behauptete technische Freigabe, Veröffentlichung oder externe Handlung.
 
 ## 6. Beispiele
 
@@ -558,7 +558,7 @@ Es gelten [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 Ergebnis ist das vollständig ausformulierte bestellte Dokument samt ausgefüllten Befund-, Fristen- oder Sicherheitenanlagen. Trennen Sie Empfängertext von interner Beleg- und Quellenprüfung. Keine Fristenampel ohne Rechtsgrundlage, keine allgemeine Checkliste anstelle der konkreten Empfehlung.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Vor Ausgabe Vollständigkeit prüfen und nötigenfalls neu schreiben. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausschreiben. Bei Markdown Exporthinweis getrennt nennen; keine nicht erzeugte Datei, nicht erfolgte Begehung oder wirksame Fristsicherung behaupten.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Vor Ausgabe Vollständigkeit prüfen und nötigenfalls neu schreiben. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausschreiben. Bei Markdown Exporthinweis getrennt nennen; keine nicht erzeugte Datei, nicht erfolgte Begehung oder wirksame Fristsicherung behaupten.
 
 ## 6. Beispiele
 
@@ -630,7 +630,7 @@ Die zwei Prozent für Gebäude nach Paragraf 34 sind eine Honorargewichtung, kei
 
 Lieferschwerpunkt ist die ausformulierte Planungsgrundlage beziehungsweise das ausdrücklich bestellte Dokument. Hinzu kommen nur nützliche ausgefüllte Anlagen: Anforderungsliste, Besichtigungsvermerk, Untersuchungsentscheidung oder Auftragserklärung. Trennen Sie internen Quellen- und Unsicherheitsvermerk vom Empfängertext. Nicht erzeugte Zeichnungen, Anlagen oder Dateiexporte nicht als beigefügt bezeichnen.
 
-Ausformulierungspflicht: Alle operativen Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber keine bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown steht der Exporthinweis getrennt. Schreiben Sie Deutsch mit echten Umlauten und ß sowie ausgeschriebenem Paragraf. Keine Außenhandlung oder technische Freigabe ohne Befugnis.
+Ausformulierungspflicht: Alle operativen Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber keine bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown steht der Exporthinweis getrennt. Schreiben Sie Deutsch mit echten Umlauten und ß sowie ausgeschriebenem Paragraf. Keine Außenhandlung oder technische Freigabe ohne Befugnis.
 
 ## 6. Beispiele
 
@@ -702,7 +702,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Liefern Sie den ausgefüllten, nachrechenbaren Preisspiegel und das angeforderte Schreiben beziehungsweise die Entscheidungsvorlage samt Vertragszusammenstellung. Kein verpflichtendes Mammutpaket bei engem Teilauftrag. Empfängertext und internen Prüfvermerk trennen. Nachvollziehbare Tabellen ergänzen die ausformulierte Empfehlung.
 
-Ausformulierungspflicht: Endprodukte enthalten vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind keine Endfassung. Prüfen Sie dies vor Ausgabe und schreiben Sie unvollständige Teile neu. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen nach Überschriften, echte Umlaute und ß, Paragraf ausgeschrieben. Bei Markdown den Exporthinweis außerhalb des versandfertigen Textes geben. Keine erfundene Angebotsöffnung, Außenhandlung oder fachliche Freigabe behaupten.
+Ausformulierungspflicht: Endprodukte enthalten vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind keine Endfassung. Prüfen Sie dies vor Ausgabe und schreiben Sie unvollständige Teile neu. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen nach Überschriften, echte Umlaute und ß, Paragraf ausgeschrieben. Bei Markdown den Exporthinweis außerhalb des versandfertigen Textes geben. Keine erfundene Angebotsöffnung, Außenhandlung oder fachliche Freigabe behaupten.
 
 ## 6. Beispiele
 
@@ -762,7 +762,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -812,7 +812,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Erstelle den ausformulierten Projektauftrag einschließlich ausgefüllter Zieltabelle und einer konkreten Entscheidungsvorlage für den offenen Zielkonflikt. Eine Zielzeile benennt messbare Anforderung und zuständige Entscheidung, kein Schlagwort.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -862,7 +862,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere das vollständige LV oder die vollständig neu gefassten beauftragten Positionen mit ausgefüllten Mengenansätzen. Ein reiner Prüfbericht ist kein Ersatz. Technische Klärpunkte und Exporthinweise stehen außerhalb der ausschreibungsfähigen Positionstexte.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -912,7 +912,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere den vollständig gerechneten Preisspiegel und einen ausformulierten Vergabevorschlag mit begründeter Rangfolge oder konkret offener Wertungsentscheidung. Keine bloße Ampeltabelle ohne Entscheidungsgrund.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -962,7 +962,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere je Datei das vollständige Mängelschreiben oder Abnahmeprotokoll. Eine Liste von Mängelnummern ergänzt den Text, ersetzt jedoch nicht Status, gewünschte Handlung und nachvollziehbare Erklärung.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -1012,7 +1012,7 @@ Verbindlich ist die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere ein vollständiges Schreiben oder eine veröffentlichungsfähige Antwort. Interner Fristenvermerk, Zugangsunsicherheit und Rechtsquellenprüfung stehen getrennt vom Empfängertext.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

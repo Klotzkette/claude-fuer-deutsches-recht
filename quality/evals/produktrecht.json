@@ -35,9 +35,10 @@
     "changes": [
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
-      "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt."
+      "2026-09-23: Stilles Lesen bei Dateien ohne Auftrag und unmittelbare Bearbeitung bei klarer Aufgabe; konkrete Fortschreibung von Chargenumfang, Außenbestand und Abhilfenachweis ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d96ad19740b1e3461d8a5cc457040efe12c70c7fa9a26bbeca660d83efa9854d"
+    "sha256": "345795a2ae27c8b25893ca3a32a1d86482176b5054bd3e834f1327fcdc3ea1ec"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -46,9 +47,10 @@
       "VI ZR 107/08 in Sicherheits- und Haftungsprüfung integriert.",
       "Nicht überprüfte Entscheidungslisten durch konkreten Maßstab und Grenzen ersetzt.",
       "2026-09-23: Vorserie/Serienstand und abweichende Prüfbedingungen, Defektursache versus Unfallfolge sowie Installation versus Updateangebot unterschieden.",
-      "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden."
+      "2026-09-23: Rückläufer ohne Doppelzählung, Händler- und Endkundenbestände, konkrete Rückgabewege, Abhilfealternativen und Wirksamkeitskontrolle mit fertigem Rückruftext verbunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4cfc3ebe17020b71d7e982551c36d4ca72c3840f33881d8e8b877435f873be62"
+    "sha256": "8bf30926a43f4ad79324e6cbff9f4bd99a59ab23c3c2a39e4fbab03c03653735"
   },
   "selection": {
     "positive": [

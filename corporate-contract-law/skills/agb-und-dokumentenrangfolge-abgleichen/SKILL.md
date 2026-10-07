@@ -31,7 +31,7 @@ Prüfen Sie Paragrafen 305 bis 310 BGB. BGH, Urteil vom 20.03.2014, Az. VII ZR 2
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Überarbeitung mit vollständig ausformulierten Klauseln. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Ein gezielter Vergleich ergänzt den Entwurf, ersetzt ihn nicht. Soweit möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweis und interne AGB-Bewertung bleiben vom Empfängertext getrennt.
+Liefern Sie die beauftragte Überarbeitung mit vollständig ausformulierten Klauseln. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Ein gezielter Vergleich ergänzt den Entwurf, ersetzt ihn nicht. Soweit möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweis und interne AGB-Bewertung bleiben vom Empfängertext getrennt.
 
 ## 6. Beispiele
 

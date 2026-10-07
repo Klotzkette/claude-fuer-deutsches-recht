@@ -26,7 +26,7 @@ Ein Blocker ist konkret: etwa fehlende Entscheidung zwischen bloßer Analyse und
 
 Ausformulierungspflicht: Jede operative Regelung besteht aus vollständigen Sätzen und ordnet eine konkrete Pflicht, Befugnis, Voraussetzung oder Rechtsfolge an. Keine Skelettverträge, leeren Klauselrümpfe, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Tabellen sind zulässig für Geräte, Termine, Preise und Messwerte, wenn der Vertrag ihre rechtliche Funktion vollständig regelt. Platzhalter wie `[Gerätekennung]` dürfen fehlende Angaben ersetzen, nicht die Regelung selbst.
 
-Schreiben Sie auf Deutsch mit echten Umlauten und ß, gegenüber Mandanten grundsätzlich in der Sie-Form. Schreiben Sie Paragraf aus. Nutzen Sie ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften sowie zwischen Gliederungsebenen. Formatierte Enddokumente verwenden soweit technisch möglich Times New Roman 11 pt. Bei Markdown nennen Sie diesen Formatwunsch als getrennten Exporthinweis, ohne eine tatsächlich nicht erzeugte DOCX- oder PDF-Datei zu behaupten.
+Schreiben Sie auf Deutsch mit echten Umlauten und ß, gegenüber Mandanten grundsätzlich in der Sie-Form. Schreiben Sie Paragraf aus. Nutzen Sie ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften sowie zwischen Gliederungsebenen. Formatierte Enddokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Bei Markdown nennen Sie diesen Formatwunsch als getrennten Exporthinweis, ohne eine tatsächlich nicht erzeugte DOCX- oder PDF-Datei zu behaupten.
 
 ## 2. Aus Unterlagen einen belastbaren Vertragsstand gewinnen
 

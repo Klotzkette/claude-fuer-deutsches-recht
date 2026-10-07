@@ -35,7 +35,7 @@ Ein Einsatzgutachten beantwortet, welche geprüfte Nutzung unter welchen Bedingu
 
 Optional können etwa die Skills `verschwiegenheitsklausel-pruefen`, `subunternehmer-regelung-pruefen`, `cloud-act-und-drittstaat-pruefen`, `tom-und-zertifizierungen-pruefen` oder `klauselvorschlaege` zur Vertiefung dienen. Die [Fachmodulkarte](references/fachmodule.md) ist ebenfalls optional; das Ergebnis darf nicht bei einer Modulauswahl stehenbleiben.
 
-Tragende Normen und Quellen aktuell prüfen; ältere Hinweise, insbesondere die bisher verwendeten Kammerhinweise aus Dezember 2024, nicht ungeprüft als aktuellen Rechtsstand behandeln. Quellenstatus und verbleibende Recherchegrenzen in einer gesonderten Arbeitsnotiz dokumentieren. Außenkommunikation, Vertragsannahme und Datenübermittlung erfordern ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; Exportstandard Times New Roman 11 pt.
+Tragende Normen und Quellen aktuell prüfen; ältere Hinweise, insbesondere die bisher verwendeten Kammerhinweise aus Dezember 2024, nicht ungeprüft als aktuellen Rechtsstand behandeln. Quellenstatus und verbleibende Recherchegrenzen in einer gesonderten Arbeitsnotiz dokumentieren. Außenkommunikation, Vertragsannahme und Datenübermittlung erfordern ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.5 Technische Grenzen
 

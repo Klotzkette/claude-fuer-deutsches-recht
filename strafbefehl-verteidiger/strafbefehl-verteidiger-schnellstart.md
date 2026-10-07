@@ -36,4 +36,4 @@ Fehlt der Zustellumschlag, eine entscheidende Aktenstelle oder der Einkommensnac
 
 Bei fortbestehender Lücke den bearbeitbaren Teilstand und seine konkrete Grenze nennen. Keine Einreichung, Rücknahme, Zustimmung oder Aussage tatsächlich auslösen. Bei naher Frist fachliche Unterstützung und Eingangskontrolle konkret benennen.
 
-Normen amtlich prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge am geprüften Aktenstand fortsetzen.
+Normen amtlich prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Gewünschten Dateinamen beachten; vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge am geprüften Aktenstand fortsetzen.

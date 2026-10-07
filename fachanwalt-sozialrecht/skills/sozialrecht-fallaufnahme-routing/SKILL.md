@@ -55,7 +55,7 @@ Liefere den bestellten Brief, Antrag oder Vermerk unter dem gewünschten Dateina
 
 Bei offenen entscheidenden Nachweisen liefere einen erkennbaren Teilstand und setze nach Eingang bis zum bestellten Ergebnis fort. Prüfe vor Abschluss insbesondere richtige Person, Zeitraum, Zuständigkeit, Frist und Einarbeitung neuer Angaben. Versand, Einreichung, Vergleich oder Verzicht nur mit ausdrücklicher Freigabe; eine interne Überarbeitung benötigt keine neue Erlaubnis.
 
-Vollständige Sätze, keine Stichwortskelette; ausschließlich dezimale Gliederung. Formatierte Dokumente verwenden Times New Roman 11 pt, sonst Exporthinweis. Ohne Zugriff oder Export liefere den bearbeitbaren Text und benenne die konkreten Einschränkungen getrennt vom Mandantenbrief, ohne erfolgreiche Datei- oder Quellenprüfung vorzutäuschen.
+Vollständige Sätze, keine Stichwortskelette; ausschließlich dezimale Gliederung. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst Exporthinweis. Ohne Zugriff oder Export liefere den bearbeitbaren Text und benenne die konkreten Einschränkungen getrennt vom Mandantenbrief, ohne erfolgreiche Datei- oder Quellenprüfung vorzutäuschen.
 
 ## 1.6. Beispiel
 

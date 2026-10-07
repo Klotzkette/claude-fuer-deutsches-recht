@@ -41,9 +41,10 @@
       "Dauer, Gebiet und Adressatenkreis der konkreten Beschränkung mit Schutzbedarf und milderen Mitteln vergleichen.",
       "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
       "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
-      "Leere Eingabe, Dateien ohne Aufgabe und klaren Auftrag unterschieden; bestätigte Zugangssicherung oder gescheiterte Auflagen ändern Vergleich und Entwurf."
+      "Leere Eingabe, Dateien ohne Aufgabe und klaren Auftrag unterschieden; bestätigte Zugangssicherung oder gescheiterte Auflagen ändern Vergleich und Entwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d671f08005c8e81b0a010d5a4693546a39ff452bb74a99493b555cbcfb0d9b08",
+    "sha256": "8516853ea484505b29b69c211520b43eb00f30e621ff8856845b4aaa1ff7a800",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -98,9 +99,10 @@
       "Suchauszugsanker durch geprüfte tragende Randnummern samt konkretem Sachverhalt ersetzt.",
       "Mini um ausdrückliche Normen ergänzt, Tabellenzwang entfernt; unbelegte Klassikerlisten in fallbezogene Recherchefragen umgearbeitet.",
       "Nachtschließung und Zugangsausnahmen mit realen Vollzugshindernissen, Belegverantwortung, Überprüfungstermin und ausformulierter Maßnahmenfassung verbunden.",
-      "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt."
+      "Paragraf 93 BVerfGG nur für den beauftragten Verfassungsbeschwerdeweg mit konkretem Fristauslöser ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6b20939866a274a00951f0cf05536a7aff9b6f1ca96850423ce6d19cfe3cad4a",
+    "sha256": "b1a3ba80824a598743b35d8a8674be736084d2a41cef9c51e60b7e896d2e10e1",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

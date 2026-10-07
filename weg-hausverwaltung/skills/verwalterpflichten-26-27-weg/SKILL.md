@@ -45,7 +45,7 @@ Beschlusssammlung unverzüglich pflegen (§ 24 Abs. 7 WEG), Jahresabrechnung vor
 
 ## 5. Ausgabeformat
 
-Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 

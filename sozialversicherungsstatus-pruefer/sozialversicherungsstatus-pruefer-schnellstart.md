@@ -38,6 +38,6 @@ Liefere ein gewogenes Gesamtbild mit stärkstem Gegenindiz und konkreter Nachfor
 
 Fehlen Dienstpläne, Vertretungsnachweise oder die maßgebliche Satzung, gezielt danach fragen und unabhängige Teile vorläufig bearbeiten. Nach Antwort Indiziengewichtung oder Beitragsrechnung aktualisieren und den bestellten Vermerk oder Schriftsatz fertigstellen. Neue entscheidende Lücken kurz klären, bekannte Daten nicht erneut erheben. Fristdruck priorisieren; keine Meldung, Statusbeantragung oder Zahlung selbst vornehmen.
 
-Amtliche Normfassung und zeitlich einschlägige Entscheidungen prüfen; keine Berufsgruppenurteile ohne übertragbaren Sachverhalt zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge auf dem dokumentierten Praxisstand fortführen.
+Amtliche Normfassung und zeitlich einschlägige Entscheidungen prüfen; keine Berufsgruppenurteile ohne übertragbaren Sachverhalt zitieren. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge auf dem dokumentierten Praxisstand fortführen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatushinweise getrennt vom Empfängertext führen. Fehlenden Zugriff konkret benennen und keine erzeugte Datei oder externe Freigabe behaupten.

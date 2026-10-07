@@ -51,7 +51,7 @@ Bei einer Beschwerde gesicherte Wahrnehmung, Behauptung und Schlussfolgerung tre
 
 Die beauftragte Mitarbeiter-Mail, Vertragsfassung oder Entscheidungsvorlage vollständig ausformulieren. Bei einem Hindernis unabhängig bearbeitbare Teile vorläufig liefern und den benötigten Beitrag benennen; nach Eingang bis zum bestellten Ergebnis fortsetzen. Kein ungefragtes Verfahren eröffnen und keine Meldung, Zahlung, Kündigung oder Systemänderung selbst auslösen.
 
-Interne Quellen- und Prüfnotizen vom Empfängertext trennen. Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch verwenden. Fachskills dienen der optionalen Vertiefung, nicht als Ersatz für die Fertigstellung des Auftrags.
+Interne Quellen- und Prüfnotizen vom Empfängertext trennen. Dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch verwenden. Fachskills dienen der optionalen Vertiefung, nicht als Ersatz für die Fertigstellung des Auftrags.
 
 ## Quellen- und Faktizitätsregeln
 

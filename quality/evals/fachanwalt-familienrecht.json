@@ -88,9 +88,10 @@
       "Doppelte Start- und Abschlussformulierungen gekürzt; Unterhalt, Versorgungsausgleich, Sorge und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "04a3e48d6fa3b1bbc357481cf743ac53091de215c4272a2791a603e1f0a6aaa0",
+    "sha256": "acae2da7fe859107189e3efbeaf1dd32804ac77fdde57e74b4535051a3871003",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -102,12 +103,13 @@
     "changes": [
       "Prompt eröffnet mit positionsbezogenem Vermögensbelegabgleich.",
       "BGH begründet keine automatische Hinzurechnung; im Skill fachübliche Stichtagsübersicht statt Stichtagskarte.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-familienrecht/fachanwalt-familienrecht-hauptproblem.md",
-    "prompt_sha256": "ad11fd6bc234f111dd478ff2c877ed0bd6e29b90979e8b8d7c3e9f68ff802849",
+    "prompt_sha256": "3a766fa9e0b08700757b48eb007a2d11b076043c190e2e877c480bbdcb59a630",
     "skill_path": "fachanwalt-familienrecht/skills/zugewinn-vermoegensbelege-stichtage-abgleichen/SKILL.md",
-    "skill_sha256": "a5d1c632eefb2a081dbf2921947712896f16577ba2237871a12de7c10a749020"
+    "skill_sha256": "4659b520a3ef12160972e1d673a52910fa82aa1b2b3235669ca47811644489ef"
   },
   "selection": {
     "positive": [
@@ -232,9 +234,10 @@
       "Verfahrensüberschrift fachüblich umbenannt; keine zusätzliche Pflichtkaskade.",
       "Tatsächliche Betreuung statt Planbehauptung, Schulwechsel und Schutzbedarf, Renovierungszahlung gegenüber Rechnung, Vermeidung doppelter Schuld- und Wertansätze sowie Bankentlassung und Sicherung bei Wohnungsübernahme.",
       "Nachprüfung 30.09.2026: XII ZB 415/25: gerichtete Nachprüfung Rn. 12–28, 32–43, 62–73; tatsächliche Teilerfüllung vom Tabellenbedarf, keine Zeitquotenhaftung des Hauptbetreuers, begrenzte Herabstufung und Vertretung verheirateter Eltern.",
-      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt."
+      "Kindesunterhalt 2026 bestätigt; Elternunterhalt 2025 um klare Trennung von Regressgrenze und Selbstbehalt ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d721136bcb574448ed83e96ebb069f5eaed41c3479ad6f89e276e3461cc69304",
+    "sha256": "2cbe5554760ea680acaed6ca5097d3c7930c83b8cba0d5ac81748debd450fb82",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

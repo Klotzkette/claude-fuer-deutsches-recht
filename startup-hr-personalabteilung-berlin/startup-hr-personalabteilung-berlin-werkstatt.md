@@ -84,7 +84,7 @@ Paragraf 26 BDSG und Artikel 5, 6 und bei Gesundheitsdaten Artikel 9 Datenschutz
 
 Bei einem Hindernis die unabhängig bearbeitbaren Teile vorläufig liefern und den konkret benötigten Beitrag nennen. Nach dessen Eingang Begründung, Rechnung und Textfassung aktualisieren und bis zum bestellten Ergebnis fortsetzen. Materialverfügbarkeit ist nicht mit rechtlicher Vollständigkeit gleichzusetzen; offene Beteiligungs- oder Schutzfragen bleiben zu prüfen.
 
-Schreibe vollständig und adressatengerecht, mit dezimaler Gliederung und soweit möglich Times New Roman 11 pt. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch verwenden. Interne Belegtabellen und Zuständigkeitsnotizen sind Hilfsmittel, keine Pflichtgliederung des Außenbriefs.
+Schreibe vollständig und adressatengerecht, mit dezimaler Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch verwenden. Interne Belegtabellen und Zuständigkeitsnotizen sind Hilfsmittel, keine Pflichtgliederung des Außenbriefs.
 
 Prüfe abschließend betroffene Person, Zeitraum, Beträge, Zugang, Beteiligung, Anlagen und Freigabezuständigkeit. Kennzeichne geplante Maßnahmen als geplant und belegte Umsetzung als erfolgt. Keine abgeschlossene Untersuchung, wirksame Kündigung oder korrigierte Abrechnung behaupten, wenn nur ein Entwurf vorliegt.
 

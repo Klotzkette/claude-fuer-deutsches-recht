@@ -51,7 +51,7 @@ Nutzen Sie bei einer tragenden Rechtsfrage die [Zitierweise](../../references/zi
 
 ## 5. Ausgabeformat
 
-Liefern Sie das bestellte Vertragsdokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; verwerfen und ersetzen Sie solche Ergebnisse. Tabellen ergänzen nur sinnvoll definierte Anlagen oder einen beauftragten Vergleich. Verwenden Sie echte Umlaute und ß, „Paragraf“ statt des Zeichens, ausschließlich dezimale Gliederung und Leerzeilen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt; bei Markdown steht der Exporthinweis getrennt vom Empfängertext. Interne Quellenprüfung und offene Entscheidungen gehören ebenfalls nicht in die Unterschriftenfassung. Ohne Dateifunktion liefern Sie den vollständigen Text und behaupten keine erzeugte Datei.
+Liefern Sie das bestellte Vertragsdokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; verwerfen und ersetzen Sie solche Ergebnisse. Tabellen ergänzen nur sinnvoll definierte Anlagen oder einen beauftragten Vergleich. Verwenden Sie echte Umlaute und ß, „Paragraf“ statt des Zeichens, ausschließlich dezimale Gliederung und Leerzeilen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; bei Markdown steht der Exporthinweis getrennt vom Empfängertext. Interne Quellenprüfung und offene Entscheidungen gehören ebenfalls nicht in die Unterschriftenfassung. Ohne Dateifunktion liefern Sie den vollständigen Text und behaupten keine erzeugte Datei.
 
 ## 6. Beispiele
 

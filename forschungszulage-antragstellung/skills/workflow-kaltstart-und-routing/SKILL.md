@@ -29,7 +29,7 @@ Prüfe aktuelle Normen, Förderquoten, Höchstgrenzen und Portalvorgaben anhand 
 
 ## 1.5. Ausgabe und Grenzen
 
-Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Tabellen nur für benötigte Berechnungen oder Belegvergleiche, keine Pflichtampel und keine bloße Liste weiterer Skills. Vollständig ausformulierte Sätze statt Gerüste; formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
+Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Tabellen nur für benötigte Berechnungen oder Belegvergleiche, keine Pflichtampel und keine bloße Liste weiterer Skills. Vollständig ausformulierte Sätze statt Gerüste; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
 
 Einreichung, Abtretung oder andere externe Erklärung nur nach ausdrücklicher Freigabe. Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.
 

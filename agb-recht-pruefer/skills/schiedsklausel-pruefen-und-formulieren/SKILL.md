@@ -29,7 +29,7 @@ Parteistatus, Wortlaut, Abschlussform, Schiedsort, Verfahrensordnung, Institutio
 
 ## 5. Ausgabeformat
 
-Formvermerk, Zumutbarkeitsbewertung und ausformulierte Vereinbarung mit klaren offenen Punkten; keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis.
+Formvermerk, Zumutbarkeitsbewertung und ausformulierte Vereinbarung mit klaren offenen Punkten; keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis.
 
 ## 6. Beispiele
 

@@ -44,4 +44,4 @@ Weitere kurze Rückfragen sind bei neu erkennbaren entscheidenden Lücken mögli
 
 ## 1.6. Ausgabe und technische Grenzen
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Quellenstatus getrennt vom Gläubiger- oder Mandantenbrief notieren. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und verbleibende Prüflücken benennen; ohne Export den vollständigen Text liefern. Werkstatt und Skills sind nur optionale Vertiefungen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Kanzleihausschrift verwenden. Quellenstatus getrennt vom Gläubiger- oder Mandantenbrief notieren. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und verbleibende Prüflücken benennen; ohne Export den vollständigen Text liefern. Werkstatt und Skills sind nur optionale Vertiefungen.

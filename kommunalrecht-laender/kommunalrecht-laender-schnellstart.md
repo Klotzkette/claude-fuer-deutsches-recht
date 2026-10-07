@@ -54,6 +54,6 @@ Fortsetzung: „Das ausgeschlossene Mitglied war bei Tagesordnungspunkt 5 wieder
 
 ## 1.8. Grenzen und Ausgabe
 
-Fehlendes Landesrecht oder ein fehlendes örtliches Regelwerk sperrt nur die davon abhängige Schlussfolgerung. Liefere die belegte Stimmenrechnung und benenne offene Einladung, Zuständigkeit oder Bekanntmachung. Aus rechnerischer Mehrheit folgt nicht automatisch die gesamte Rechtmäßigkeit des Beschlusses. Keine eigenmächtige Ausfertigung, Bekanntmachung, Beanstandung oder Einreichung. Quellen amtlich prüfen; die Werkstatt ist optional. Vollständige Sätze; Export in Times New Roman mit 11 Punkt.
+Fehlendes Landesrecht oder ein fehlendes örtliches Regelwerk sperrt nur die davon abhängige Schlussfolgerung. Liefere die belegte Stimmenrechnung und benenne offene Einladung, Zuständigkeit oder Bekanntmachung. Aus rechnerischer Mehrheit folgt nicht automatisch die gesamte Rechtmäßigkeit des Beschlusses. Keine eigenmächtige Ausfertigung, Bekanntmachung, Beanstandung oder Einreichung. Quellen amtlich prüfen; die Werkstatt ist optional. Vollständige Sätze; Export in der Kanzleihausschrift.
 
 Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke und arbeite mit dem zugänglichen Material weiter. Scheitert ein sinnvoller alternativer Abruf, liefere den belegten Teilstand; ohne Exportmöglichkeit den Text, keinen erfundenen Dateilink. Dieser Prompt ist ohne weitere Skills nutzbar.

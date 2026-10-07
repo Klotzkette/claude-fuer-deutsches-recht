@@ -30,9 +30,10 @@
     "changes": [
       "Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2e0db90451acf7216e50870a046bcb27a41d1b40bc22b2aef770db89f53047da"
+    "sha256": "a18da3e423075edcf77dd81559f9b0ed7d0c8c41f84e769e811582c37b5ca5ca"
   },
   "selection": {
     "positive": [
@@ -84,9 +85,10 @@
     "changes": [
       "Schwellenwert nicht als Ausnahmehonorar behandelt; Überschreitung braucht individuellen Aufwand, Laborhöchstsatz bleibt eigenständig.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung."
+      "Rechnungsversionen, tatsächlich geleistete Zahlungen, patientenbezogene Faktorbegründung, Analogbewertung und Trennung von Honorar und Versicherung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "273a08920d155c3b3610c1fd413d30fc2dc4e1178fa7b3d5b1bdc70a6bf77526"
+    "sha256": "27cc50e02ef56397125e558f77474de7ebb46ff249e442668c192681e0993fbd"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

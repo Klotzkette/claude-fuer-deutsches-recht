@@ -26,7 +26,7 @@ Lies gesonderten Antrag oder Beschluss, Bauzeitenplan, Förderbedingungen, Besit
 
 ## 5. Ausgabeformat
 
-Eigenständiger, unterschriftsreifer Antrag oder eine vollständige Erwiderung mit bestimmter Fläche, beantragtem Zeitpunkt, Beweismitteln und gesonderten Schutzanträgen. Eilrechtsschutz bei Bedarf als eigenes Dokument, nicht als Randbemerkung. Times New Roman 11 pt, dezimale Gliederung. Keine Freigabe zur Grundstücksräumung unterstellen.
+Eigenständiger, unterschriftsreifer Antrag oder eine vollständige Erwiderung mit bestimmter Fläche, beantragtem Zeitpunkt, Beweismitteln und gesonderten Schutzanträgen. Eilrechtsschutz bei Bedarf als eigenes Dokument, nicht als Randbemerkung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Freigabe zur Grundstücksräumung unterstellen.
 
 ## 6. Beispiele
 

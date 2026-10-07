@@ -69,7 +69,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "d1dce793ada55f4ad9bb2340f44b2665704f3e60b3e15c9ac0c0e6ced3c8f41f",
+    "sha256": "f8ecc274c370fdcfe4a0012f378c66294ab2458c0f7c200eaff6f661178088aa",
     "verdict": "revised",
     "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
     "changes": [
@@ -77,11 +77,12 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Kündigung, Entgelt oder Vertragsgestaltung anbieten. Dateien: Personal- und Verfahrensunterlagen still lesen, kein Personalaktenbericht ohne Auftrag. Klarer Auftrag: Gewünschten Brief, Vertrag oder Schriftsatz unmittelbar erstellen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
-      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
-    "sha256": "2f453dd41d11c38f05c60248c45ea8b9b625521456f69b406760ff04f27917ed",
+    "sha256": "2a3588c91df34ee4aca74b8b6ee2d2c401db6b7bd4d15cdb01f04d9e9fd7711f",
     "verdict": "revised",
     "reason": "BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
     "changes": [
@@ -90,7 +91,8 @@
       "Arbeitnehmerklage, Arbeitgeberanhörung, nachweisbezogene Überstundenforderung und Wechsel zur Vergleichslösung mit ungünstigen Tatsachen.",
       "Zweite Kündigung erzeugt eigene Antrags- und Fristprüfung; Freizeitausgleich korrigiert Monatsrechnung und Zahlungsbrief.",
       "Bei abschließender Gegenprüfung Paragraf 4 ArbGG als allgemeinen Verfahrensanker durch Zuständigkeits- und Urteilsverfahrensabgleich nach Paragrafen 2 und 46 ersetzt; Ausschluss und KSchG-Frist ausdrücklich getrennt.",
-      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert."
+      "30.09.2026: BAG 5 AZR 96/25: konkrete proportionale Zuschlagsschwelle; BAG 8 AZR 153/25: Grenzen späteren Verdienstausfalls nach amtlicher PM; AGG-Beweismaß und Entschädigungsgrenze sowie angrenzende Normfehler korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "selection": {

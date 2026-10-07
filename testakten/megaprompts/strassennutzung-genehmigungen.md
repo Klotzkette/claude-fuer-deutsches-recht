@@ -53,7 +53,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen beauftragten Text mit bestimmtem Begehren, tragender Begründung und belegten Tatsachen. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Fehlende Namen oder Daten dürfen klar markiert sein, fehlende Anspruchsvoraussetzungen nicht erfunden werden. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Fristen- und Exportnotiz getrennt vom Empfängertext halten.
+Liefere den vollständigen beauftragten Text mit bestimmtem Begehren, tragender Begründung und belegten Tatsachen. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Fehlende Namen oder Daten dürfen klar markiert sein, fehlende Anspruchsvoraussetzungen nicht erfunden werden. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Fristen- und Exportnotiz getrennt vom Empfängertext halten.
 
 ## 6. Beispiele
 
@@ -97,7 +97,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere einen vollständig ausformulierten Einschreitensantrag oder eine begründete Bewertung der Ablehnung. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Mess- oder Beobachtungsverzeichnis kann Anlage sein. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Technischen Exporthinweis und interne Datenschutznotizen vom Empfängertext trennen.
+Liefere einen vollständig ausformulierten Einschreitensantrag oder eine begründete Bewertung der Ablehnung. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Mess- oder Beobachtungsverzeichnis kann Anlage sein. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Technischen Exporthinweis und interne Datenschutznotizen vom Empfängertext trennen.
 
 ## 6. Beispiele
 
@@ -141,7 +141,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere die verlangte begründete Bewertung oder den vollständigen Antrag in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Zahlenvergleiche dürfen ergänzend tabellarisch sein. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; den Exporthinweis getrennt vom Empfängertext halten.
+Liefere die verlangte begründete Bewertung oder den vollständigen Antrag in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Zahlenvergleiche dürfen ergänzend tabellarisch sein. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; den Exporthinweis getrennt vom Empfängertext halten.
 
 ## 6. Beispiele
 
@@ -185,7 +185,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Zufahrtsantrag oder eine begründete Beratung mit konkreter Empfehlung und noch entscheidenden Nachweisen. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Tabellen dürfen einen Variantenvergleich ergänzen, nicht die Subsumtion ersetzen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Einen Exporthinweis getrennt vom Empfängertext ausgeben.
+Liefere einen ausformulierten Zufahrtsantrag oder eine begründete Beratung mit konkreter Empfehlung und noch entscheidenden Nachweisen. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Tabellen dürfen einen Variantenvergleich ergänzen, nicht die Subsumtion ersetzen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Einen Exporthinweis getrennt vom Empfängertext ausgeben.
 
 ## 6. Beispiele
 
@@ -229,7 +229,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere eine begründete, vollständig ausformulierte Stellungnahme oder Beratung mit klarer Trennung eigener und fremder Handlungen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Behauptungen müssen zum Aktenstand passen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweise getrennt vom Empfängertext ausgeben.
+Liefere eine begründete, vollständig ausformulierte Stellungnahme oder Beratung mit klarer Trennung eigener und fremder Handlungen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Behauptungen müssen zum Aktenstand passen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweise getrennt vom Empfängertext ausgeben.
 
 ## 6. Beispiele
 
@@ -273,7 +273,7 @@ Nutze die lokale [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsch
 
 ## 5. Ausgabeformat
 
-Liefere das beauftragte Ergebnis in vollständigen, ausformulierten Sätzen: eine begründete Statusbewertung oder ein verwendbares Anforderungsschreiben, nicht nur eine Zuständigkeitsmatrix. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Kennzeichne eine entscheidende Statusunsicherheit und ihre konkrete Folge. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei reiner Textausgabe steht der Exporthinweis getrennt vom Empfängertext.
+Liefere das beauftragte Ergebnis in vollständigen, ausformulierten Sätzen: eine begründete Statusbewertung oder ein verwendbares Anforderungsschreiben, nicht nur eine Zuständigkeitsmatrix. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Kennzeichne eine entscheidende Statusunsicherheit und ihre konkrete Folge. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei reiner Textausgabe steht der Exporthinweis getrennt vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -317,7 +317,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 ## 5. Ausgabeformat
 
-Liefere die verlangte Nutzungsbewertung oder den ausformulierten Antrag in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Trenne Fahrberechtigung und Flächennutzung im Text nachvollziehbar. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; Exporthinweis außerhalb des Empfängertextes.
+Liefere die verlangte Nutzungsbewertung oder den ausformulierten Antrag in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Trenne Fahrberechtigung und Flächennutzung im Text nachvollziehbar. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; Exporthinweis außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 
@@ -361,7 +361,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 ## 5. Ausgabeformat
 
-Liefere den beauftragten, vollständig ausformulierten Antrag oder Vermerk mit passender Rechtsgrundlage, konkretem Zugangsziel und tragfähiger Alternative. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweis getrennt vom Empfängertext. Ungeklärte Aufstellungsgrundlagen bleiben als konkrete Grenze erkennbar.
+Liefere den beauftragten, vollständig ausformulierten Antrag oder Vermerk mit passender Rechtsgrundlage, konkretem Zugangsziel und tragfähiger Alternative. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweis getrennt vom Empfängertext. Ungeklärte Aufstellungsgrundlagen bleiben als konkrete Grenze erkennbar.
 
 ## 6. Beispiele
 
@@ -405,7 +405,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere einen abgestimmten, ausformulierten Antrag oder eine konkrete Bescheid- und Gebührenprüfung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Zulassungsschema darf den Empfängertext ergänzen, nicht ersetzen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und einen getrennten Exporthinweis verwenden.
+Liefere einen abgestimmten, ausformulierten Antrag oder eine konkrete Bescheid- und Gebührenprüfung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Zulassungsschema darf den Empfängertext ergänzen, nicht ersetzen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und einen getrennten Exporthinweis verwenden.
 
 ## 6. Beispiele
 
@@ -449,7 +449,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere das bestellte Schreiben oder eine verständliche, ausformulierte Nutzungsbewertung mit erlaubtem Verhalten und rechtmäßiger Alternative. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Der Exporthinweis gehört getrennt neben das Dokument, nicht in die Fahrerinformation.
+Liefere das bestellte Schreiben oder eine verständliche, ausformulierte Nutzungsbewertung mit erlaubtem Verhalten und rechtmäßiger Alternative. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Der Exporthinweis gehört getrennt neben das Dokument, nicht in die Fahrerinformation.
 
 ## 6. Beispiele
 

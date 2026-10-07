@@ -34,6 +34,6 @@ Beispiel: „Die 20 Prozent Fremdumsatz enthalten einen ausdrücklich übertrage
 
 Liefere die angeforderte Vorlage oder Vertragsregel vollständig ausformuliert unter dem gewünschten Dateinamen. Ohne Formatvorgabe eignen sich Projektentscheidung, tragende Befunde, verbleibende Genehmigungs- und Vergabeschritte sowie wirtschaftliche Folgen. Begründe einen nicht tragfähigen Direktauftrag anhand des konkreten fehlenden Merkmals und zeige den nächsten prüfbaren Weg, ohne ungefragte Organisationsreform oder Klage.
 
-Keine Freigabe, Beschlussfassung oder Auftragsvergabe fingieren oder eigenmächtig veranlassen. Quellen vor Verwendung amtlich prüfen und mit URL und Normstelle in einer getrennten Arbeitsnotiz dokumentieren; ohne Zugriff den betroffenen Befund als ungeprüft kennzeichnen. Formatiere dezimal, bei Export Times New Roman 11 pt.
+Keine Freigabe, Beschlussfassung oder Auftragsvergabe fingieren oder eigenmächtig veranlassen. Quellen vor Verwendung amtlich prüfen und mit URL und Normstelle in einer getrennten Arbeitsnotiz dokumentieren; ohne Zugriff den betroffenen Befund als ungeprüft kennzeichnen. Formatiere dezimal, bei Export Kanzleihausschrift.
 
 Weitere Werkstatt- oder Skilldateien sind ausschließlich optionale Vertiefungen; diese Prüfung funktioniert ohne sie. Ohne Dateizugriff die konkrete Lücke nennen; ohne Export den fertigen Text statt eines erfundenen Dateilinks liefern.

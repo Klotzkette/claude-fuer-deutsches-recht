@@ -26,9 +26,10 @@
       "BStatG Paragraf 15 Absätze 1, 5 und 7 in Frist- und Meldungsarbeit eingebunden.",
       "BVerwG 8 C 9.16 mit historischem Regelungsbereich und fortbestehender Meldepflicht verknüpft.",
       "Leerstart: Meldung, Berichtigung oder Heranziehung anbieten. Dateien: Aufforderung und Rohdaten still lesen; kein Melderegister ohne Auftrag. Klarer Auftrag: Bestellte Feldwerte oder Behördenantwort direkt erstellen.",
-      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe."
+      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8e3b479161211976bc8ffd714a974c0fd5159236ca870a7f1a36d48a1f75a96d"
+    "sha256": "575c830e7a4cb0a6d0091250c19b08d7f4760de9a2b3ab54bdb2b0f86defec31"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -37,9 +38,10 @@
       "BStatG Paragraf 15 Absätze 1, 5 und 7 in Frist- und Meldungsarbeit eingebunden.",
       "BVerwG 8 C 9.16 mit historischem Regelungsbereich und fortbestehender Meldepflicht verknüpft.",
       "Rechtsträgerabgrenzung, negative Buchungen, tatsächlicher Empfängerbestand, historische Auswahlprüfung und technischer Empfangsnachweis.",
-      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe."
+      "Dublette versus Teillieferung verändert Aggregation; bereits gesendete Vorversion verändert Berichtigungsweg und Freigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e43817aea8312425998e6e8adff8a08e282845b145d4578dd81a73744dcfc0ab"
+    "sha256": "f2941e85a246178d6676a09ddbf789ca35a423fba2e6167145d78114ffc23440"
   },
   "selection": {
     "positive": [

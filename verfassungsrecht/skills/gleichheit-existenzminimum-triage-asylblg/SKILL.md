@@ -40,7 +40,7 @@ Der Skill prüft gesetzliche Verteilungsentscheidungen, existenzsichernde Leistu
 
 Erzeuge zunächst eine Matrix mit Angriffsziel, formeller Kompetenzgrundlage, betroffenem Grundrecht, Prüfungsmaßstab, Tatsachengrundlage, Entscheidungslinie und Reichweitengrenze. Danach folgt ein vollständig ausformulierter Prüfvermerk, der formelle und materielle Prüfung sowie Rechtsfolgen getrennt darstellt und die stärkste Gegenposition verarbeitet.
 
-Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Das Endprodukt verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung.
 
 ## 6. Amtliche Quellen
 

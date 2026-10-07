@@ -29,7 +29,7 @@ Paragrafen 38, 55, 103, 107 und 108 InsO. BGH, Urteil vom 18.07.2002, Az. IX ZR 
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Zuordnungsvermerk mit Teilbeträgen, Leistungszeiträumen, Rechtsgrund und Belegen; zusätzlich passende Tabellenbehandlung und Briefentwurf. Keine pauschale Liste „vorher/nachher“ als Endprodukt und keine Skelettsätze. Dokumente soweit möglich in Times New Roman 11 pt, dezimal gegliedert. Masseprüfung, Tabellenprüfung und Auszahlung bleiben getrennte Entscheidungen.
+Vollständig ausformulierter Zuordnungsvermerk mit Teilbeträgen, Leistungszeiträumen, Rechtsgrund und Belegen; zusätzlich passende Tabellenbehandlung und Briefentwurf. Keine pauschale Liste „vorher/nachher“ als Endprodukt und keine Skelettsätze. Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal gegliedert. Masseprüfung, Tabellenprüfung und Auszahlung bleiben getrennte Entscheidungen.
 
 ## 6. Beispiele
 

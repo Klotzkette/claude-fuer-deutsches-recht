@@ -30,7 +30,7 @@ Kläre anhand des Auftrags, ob eine saubere Lesefassung, ein kommentierter Entwu
 
 ## 4. Word-Datei gestalten
 
-Verwende die vorhandene Kanzleivorlage; andernfalls Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Nutze Formatvorlagen und stabile Nummerierung statt Leerzeichenketten. Prüfe Tabellenbreiten, wiederholte Tabellenköpfe, Seitenwechsel, Kopf- und Fußzeilen sowie Unterschriftsbereich.
+Verwende die vorhandene Kanzleivorlage; andernfalls Kanzleihausschrift und dezimale Gliederung mit Leerzeilen. Nutze Formatvorlagen und stabile Nummerierung statt Leerzeichenketten. Prüfe Tabellenbreiten, wiederholte Tabellenköpfe, Seitenwechsel, Kopf- und Fußzeilen sowie Unterschriftsbereich.
 
 Aktualisiere Inhaltsverzeichnis und Querverweise nach Umstellungen. Gleiche Anlagenverzeichnis und vorhandene Dateien ab. Erfinde keine Briefkopfdaten, Anlagen oder Unterschriften.
 

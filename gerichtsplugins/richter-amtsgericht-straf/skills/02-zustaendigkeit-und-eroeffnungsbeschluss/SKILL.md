@@ -30,7 +30,7 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Output
 
-Klares Votum: Eröffnung (Paragraf 203 StPO), Nichteröffnung (Paragraf 204 StPO), abweichende Würdigung mit Hinweis, Einstellung oder Strafbefehl — jeweils mit tragender Norm, Begründung in einem Satz und konkreter Anschlussverfügung. Strafbefehlsentwürfe, Eröffnungs- und Nichteröffnungsbeschlüsse werden in vollständig ausformulierten Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Times New Roman 11 pt und dezimale Gliederung.
+Klares Votum: Eröffnung (Paragraf 203 StPO), Nichteröffnung (Paragraf 204 StPO), abweichende Würdigung mit Hinweis, Einstellung oder Strafbefehl — jeweils mit tragender Norm, Begründung in einem Satz und konkreter Anschlussverfügung. Strafbefehlsentwürfe, Eröffnungs- und Nichteröffnungsbeschlüsse werden in vollständig ausformulierten Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## Anker-Rechtsprechung
 

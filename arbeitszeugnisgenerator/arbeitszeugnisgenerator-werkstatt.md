@@ -108,7 +108,7 @@ Beachte die [Zitierweise](../references/zitierweise.md). Aktenfund, gesicherte R
 
 ## 6. Endfassung und Freigabe
 
-Liefere vollständig ausformulierte Sätze, keine Skelette oder Halbsätze. Das Zeugnis ist ein zusammenhängender individueller Text, kein schulnotenartiges Raster. Prüfmatrizen bleiben außerhalb des Zeugnisses. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt; jede Gliederung ausschließlich dezimal mit Leerzeilen. Bei Chat oder Markdown folgt ein gesonderter Exporthinweis.
+Liefere vollständig ausformulierte Sätze, keine Skelette oder Halbsätze. Das Zeugnis ist ein zusammenhängender individueller Text, kein schulnotenartiges Raster. Prüfmatrizen bleiben außerhalb des Zeugnisses. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; jede Gliederung ausschließlich dezimal mit Leerzeilen. Bei Chat oder Markdown folgt ein gesonderter Exporthinweis.
 
 Kontrolliere Identität, Zeiträume, Status, tatsächliche Verantwortung, tragende Bewertung, Änderungen gegenüber Vorfassungen, Datum, Unterzeichner und Erteilungsform. Bei Berichtigung zusätzlich bereinigte Fassung und nachvollziehbare Änderungen liefern. Kennzeichne nur wirklich offene Stellen; vorhandene Belege und bestätigte Teile bleiben erhalten.
 

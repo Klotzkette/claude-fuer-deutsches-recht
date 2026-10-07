@@ -42,9 +42,10 @@
       "Vermutungsregel nicht mit Nachahmungsnachweis verwechselt",
       "Offenbarungs- und Bildnachforderungen mit fertigem Entwurf verknüpft",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "655908f8f7e04d1b373d58a016cb68ecf0d05a0bf2a92a429019670db5881f14",
+    "sha256": "b4761f727ba9b703b714ce4b6e4c5517b911b44850d9d2ab7bd63d22341d5290",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -55,9 +56,10 @@
       "Vermutungsregel nicht mit Nachahmungsnachweis verwechselt",
       "Offenbarungs- und Bildnachforderungen mit fertigem Entwurf verknüpft",
       "Konsistente Ansichten für Anmeldung, eigene und fremde Offenbarung, Beweis des nicht eingetragenen Schutzes, produktbezogene Verkaufsnachweise, Lizenzumfang und Abverkauf mit Freigabegrenzen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8db1ad0e8152ecfb7270dbf56bce4505165b7d9d7c2e577d326e32fbfc35fb33",
+    "sha256": "abf92771b99bb29f273c04e7059d6223adc048cf55f240e81abf36563934bb22",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

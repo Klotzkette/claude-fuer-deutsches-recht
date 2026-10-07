@@ -474,17 +474,19 @@
     "verdict": "revised",
     "reason": "Eigenständiger konkreter AGG-Ablauf.",
     "changes": [
-      "Frist, Beweislage und Schreiben statt allgemeiner Analyse."
+      "Frist, Beweislage und Schreiben statt allgemeiner Analyse.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5189a51199bbac53fb4932c519105da9d13880b290c14cda4efdae35c7f3809e"
+    "sha256": "37d8828f2dce33dd602b9561336b7abb6099c69235975f69cb3228e6ac19d925"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Individuelle Verzweigungen und ausformulierte Arbeitsprodukte.",
     "changes": [
-      "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme."
+      "Sechs verifizierte Fallkarten mit Anwendungsgrenzen und kultursensibler Aufnahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8960d08eaad198f60a3dede64378834361d9a8d27204280365464d1e716a1acc"
+    "sha256": "859f01cf6eac4839af2a8fd891f71e8f6a2512a50048a06af98e78dbe7d24b6f"
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",

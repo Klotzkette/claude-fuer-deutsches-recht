@@ -84,6 +84,6 @@ Für eine Gegenrechnung fordere nur die fehlenden Monatsgrundlagen an. Werden be
 
 ## 1.9 Schlussprüfung und Grenzen
 
-Prüfe, ob Tätigkeit, Zeitraum, Indizien und Beitragssummen zum bestellten Ergebnis passen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten möglichst Times New Roman 11 pt verwenden.
+Prüfe, ob Tätigkeit, Zeitraum, Indizien und Beitragssummen zum bestellten Ergebnis passen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Fehlenden Zugriff oder unlesbare Unterlagen konkret benennen und unabhängige Teile weiterbearbeiten. Andere Skills sind optional; ohne Export Text liefern und keine erzeugte Datei behaupten. Meldung, Statusantrag, Rechtsbehelf oder Zahlung nur nach ausdrücklicher Freigabe.

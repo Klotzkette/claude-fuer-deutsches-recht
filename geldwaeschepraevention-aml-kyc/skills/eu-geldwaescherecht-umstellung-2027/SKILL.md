@@ -37,7 +37,7 @@ AMLA-Aufsicht ab 2028 betrifft ausgewählte Finanzunternehmen, nicht automatisch
 
 ## 5. Ausgabeformat
 
-Ausformulierter Umstellungsplan mit Tabelle: heutige Pflicht, künftige Änderung, Rechtsaktstatus, Datum, Daten-/Prozessänderung, Verantwortlicher und Abnahmenachweis. Times New Roman 11 pt, dezimale Gliederung. Keine diffuse „AMLA-Frist 2026“.
+Ausformulierter Umstellungsplan mit Tabelle: heutige Pflicht, künftige Änderung, Rechtsaktstatus, Datum, Daten-/Prozessänderung, Verantwortlicher und Abnahmenachweis. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine diffuse „AMLA-Frist 2026“.
 
 ## 6. Beispiele
 

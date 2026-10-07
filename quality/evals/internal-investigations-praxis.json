@@ -31,9 +31,10 @@
       "BAG-Keyloggerfall als Eingriffsschranke statt pauschalem Verwertungsverbot integriert.",
       "Konkreter Belegabgleich und Entlastungshypothesen schon im Auftakt.",
       "Kollektivvereinbarungen und besondere Datenkategorien präzisiert; vollständige Berichtswege erhalten.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "da8640380ff4916674e5ccb693f2c7ec388aecd96f32d74a73df3e4946c582ab"
+    "sha256": "17a12f009d9c21e878fd661c931f6cbfc48a3c33faef64b1bebb04d0a2eb791d"
   },
   "selection": {
     "positive": [
@@ -86,9 +87,10 @@
       "BAG-Keyloggerfall als Eingriffsschranke statt pauschalem Verwertungsverbot integriert.",
       "Konkreter Belegabgleich und Entlastungshypothesen schon im Auftakt.",
       "Kollektivvereinbarungen und besondere Datenkategorien präzisiert; vollständige Berichtswege erhalten.",
-      "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen."
+      "Wiederholungsrechnung gegen wiederkehrende Leistung prüfen, Datensicherung von Auswertung trennen, neue Datenquellen begrenzen, offene Fragen vor Vorhalten stellen und Kontrollmangel nicht mit Vorsatz gleichsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b88d8f407b3b7418412ede42b1beeea290ad2e9b4ff7f0e79892d72740a8d8aa"
+    "sha256": "65d1bd624548a3a9a39d41a6936db33e986938528f263d2bfe3187e6b750f1c1"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -81,7 +81,7 @@ Nutzen Sie bei einer tragenden Rechtsfrage die [Zitierweise](https://github.com/
 
 ## 5. Ausgabeformat
 
-Liefern Sie das bestellte Vertragsdokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; verwerfen und ersetzen Sie solche Ergebnisse. Tabellen ergänzen nur sinnvoll definierte Anlagen oder einen beauftragten Vergleich. Verwenden Sie echte Umlaute und ß, „Paragraf“ statt des Zeichens, ausschließlich dezimale Gliederung und Leerzeilen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt; bei Markdown steht der Exporthinweis getrennt vom Empfängertext. Interne Quellenprüfung und offene Entscheidungen gehören ebenfalls nicht in die Unterschriftenfassung. Ohne Dateifunktion liefern Sie den vollständigen Text und behaupten keine erzeugte Datei.
+Liefern Sie das bestellte Vertragsdokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; verwerfen und ersetzen Sie solche Ergebnisse. Tabellen ergänzen nur sinnvoll definierte Anlagen oder einen beauftragten Vergleich. Verwenden Sie echte Umlaute und ß, „Paragraf“ statt des Zeichens, ausschließlich dezimale Gliederung und Leerzeilen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; bei Markdown steht der Exporthinweis getrennt vom Empfängertext. Interne Quellenprüfung und offene Entscheidungen gehören ebenfalls nicht in die Unterschriftenfassung. Ohne Dateifunktion liefern Sie den vollständigen Text und behaupten keine erzeugte Datei.
 
 ## 6. Beispiele
 
@@ -119,7 +119,7 @@ Prüfen Sie insbesondere Paragrafen 31, 69a bis 69g und gegebenenfalls 87a folge
 
 ## 5. Ausgabeformat
 
-Liefern Sie die erforderlichen Vertragsbestimmungen vollständig ausformuliert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus. Ein Exporthinweis bei Markdown und eine noch ungeklärte Rechtekette gehören in getrennte Hinweise, nicht verdeckt in eine scheinbar fertige Zusicherung.
+Liefern Sie die erforderlichen Vertragsbestimmungen vollständig ausformuliert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus. Ein Exporthinweis bei Markdown und eine noch ungeklärte Rechtekette gehören in getrennte Hinweise, nicht verdeckt in eine scheinbar fertige Zusicherung.
 
 ## 6. Beispiele
 
@@ -157,7 +157,7 @@ Prüfen Sie den gewählten Vertragstyp, gegebenenfalls Paragrafen 705 folgende B
 
 ## 5. Ausgabeformat
 
-Liefern Sie die Kooperationsvereinbarung und notwendige Ergebniszuordnung vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe zu ersetzen. Soweit möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Rechtsformfragen und Exporthinweise stehen getrennt vom Empfängertext.
+Liefern Sie die Kooperationsvereinbarung und notwendige Ergebniszuordnung vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe zu ersetzen. Soweit möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Rechtsformfragen und Exporthinweise stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -197,7 +197,7 @@ Prüfen Sie insbesondere Artikel 4, 5, 6, 26, 28, 32, 33, 44 folgende und 82 DSG
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Vereinbarung vollständig in ausformulierten Sätzen, einschließlich erforderlicher konkret ausgefüllter Anlagen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie nationale Normen mit „Paragraf“ aus; Markdown-Exporthinweise und ungeklärte Maßnahmen gehören in einen getrennten Vermerk.
+Liefern Sie die beauftragte Vereinbarung vollständig in ausformulierten Sätzen, einschließlich erforderlicher konkret ausgefüllter Anlagen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie nationale Normen mit „Paragraf“ aus; Markdown-Exporthinweise und ungeklärte Maßnahmen gehören in einen getrennten Vermerk.
 
 ## 6. Beispiele
 
@@ -235,7 +235,7 @@ Prüfen Sie Paragrafen 271a, 286, 288, 307, 308, 315, 320 und je nach Vertrag 43
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständige, ausformulierte Preis- und Zahlungsklauseln mit verständlich definierter Formel. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; trennen Sie Rechenprüfung und Markdown-Exporthinweis vom Empfängertext.
+Liefern Sie vollständige, ausformulierte Preis- und Zahlungsklauseln mit verständlich definierter Formel. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; trennen Sie Rechenprüfung und Markdown-Exporthinweis vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -273,7 +273,7 @@ Prüfen Sie bei Bindungsfragen Paragrafen 145 bis 154, 241 Absatz 2 und 311 Absa
 
 ## 5. Ausgabeformat
 
-Liefern Sie das bestellte Eckpunktepapier oder die Verhandlungsanweisung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Verwenden Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Bei Markdown steht der Exporthinweis außerhalb des Empfängertextes. Offene Entscheidungen werden konkret benannt, nicht durch fiktive Zustimmungen geschlossen.
+Liefern Sie das bestellte Eckpunktepapier oder die Verhandlungsanweisung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Verwenden Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Bei Markdown steht der Exporthinweis außerhalb des Empfängertextes. Offene Entscheidungen werden konkret benannt, nicht durch fiktive Zustimmungen geschlossen.
 
 ## 6. Beispiele
 
@@ -313,7 +313,7 @@ Prüfen Sie bei konkreten Form- und Vertretungsfragen die einschlägigen BGB-, H
 
 ## 5. Ausgabeformat
 
-Liefern Sie die bestellte Verhandlungsantwort und Vertragsfassung jeweils vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie internen Abschlussvermerk, Quellenstatus und Markdown-Exporthinweise von der empfängerfähigen Fassung. Behaupten Sie kein DOCX, PDF oder Signaturprotokoll, das nicht erzeugt wurde.
+Liefern Sie die bestellte Verhandlungsantwort und Vertragsfassung jeweils vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie internen Abschlussvermerk, Quellenstatus und Markdown-Exporthinweise von der empfängerfähigen Fassung. Behaupten Sie kein DOCX, PDF oder Signaturprotokoll, das nicht erzeugt wurde.
 
 ## 6. Beispiele
 
@@ -353,7 +353,7 @@ Prüfen Sie Paragrafen 631 bis 648a und 650 BGB sowie Paragraf 341 Absatz 3 BGB.
 
 ## 5. Ausgabeformat
 
-Liefern Sie den bestellten Projektvertrag und die notwendigen Prüfbestimmungen in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Eine Messwerttabelle darf vollständige Rechtsfolgen ergänzen, nicht ersetzen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweise und interne Vorbehalte bleiben außerhalb des Empfängertextes.
+Liefern Sie den bestellten Projektvertrag und die notwendigen Prüfbestimmungen in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Eine Messwerttabelle darf vollständige Rechtsfolgen ergänzen, nicht ersetzen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweise und interne Vorbehalte bleiben außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 
@@ -391,7 +391,7 @@ Prüfen Sie insbesondere Paragrafen 2 bis 5 GeschGehG, Paragrafen 305 bis 310 BG
 
 ## 5. Ausgabeformat
 
-Liefern Sie die NDA oder bestellten Klauseln vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; schreiben Sie „Paragraf“ aus. Halten Sie Exporthinweise bei Markdown und interne Maßnahmenempfehlungen vom vereinbarten Pflichtentext getrennt.
+Liefern Sie die NDA oder bestellten Klauseln vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; schreiben Sie „Paragraf“ aus. Halten Sie Exporthinweise bei Markdown und interne Maßnahmenempfehlungen vom vereinbarten Pflichtentext getrennt.
 
 ## 6. Beispiele
 
@@ -429,7 +429,7 @@ Prüfen Sie die konkret einschlägigen Regeln, insbesondere Paragrafen 611, 614,
 
 ## 5. Ausgabeformat
 
-Liefern Sie den Vertrag und erforderliche Serviceanlage in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Messwerttabellen dürfen ergänzen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown gehört der Exporthinweis nicht in den Vertrag.
+Liefern Sie den Vertrag und erforderliche Serviceanlage in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Messwerttabellen dürfen ergänzen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown gehört der Exporthinweis nicht in den Vertrag.
 
 ## 6. Beispiele
 
@@ -469,7 +469,7 @@ Prüfen Sie Paragrafen 314, 320, 321, 620 folgende, 648 und 648a BGB sowie Parag
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständig ausformulierte Laufzeit- und Abwicklungsbestimmungen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
+Liefern Sie vollständig ausformulierte Laufzeit- und Abwicklungsbestimmungen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -507,7 +507,7 @@ Prüfen Sie Paragrafen 145 bis 154, 305 bis 310 BGB und gegebenenfalls handelsre
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständig ausformulierte Rahmen- und Verknüpfungsbestimmungen sowie das beauftragte Einzelauftragsmuster. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Trennen Sie den Exporthinweis bei Markdown und interne Dokumentenkonflikte vom Vertragsendtext.
+Liefern Sie vollständig ausformulierte Rahmen- und Verknüpfungsbestimmungen sowie das beauftragte Einzelauftragsmuster. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Trennen Sie den Exporthinweis bei Markdown und interne Dokumentenkonflikte vom Vertragsendtext.
 
 ## 6. Beispiele
 
@@ -545,7 +545,7 @@ Prüfen Sie Paragrafen 125 bis 127, 145 folgende, 305b und 767 BGB sowie vertrag
 
 ## 5. Ausgabeformat
 
-Liefern Sie den Nachtrag vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Offene Änderungsentscheidungen und der Markdown-Exporthinweis stehen getrennt vom Empfängertext.
+Liefern Sie den Nachtrag vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Offene Änderungsentscheidungen und der Markdown-Exporthinweis stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -583,7 +583,7 @@ Prüfen Sie insbesondere Paragrafen 125 bis 127, 164 bis 181, 311b, 631, 650 und
 
 ## 5. Ausgabeformat
 
-Liefern Sie das beauftragte Dokument und erforderliche Form- oder Vertretungshinweise getrennt, jeweils in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown folgt ein getrennter Exporthinweis. Bezeichnen Sie einen noch beurkundungsbedürftigen Text nicht als privat unterschriftsreife Endfassung.
+Liefern Sie das beauftragte Dokument und erforderliche Form- oder Vertretungshinweise getrennt, jeweils in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown folgt ein getrennter Exporthinweis. Bezeichnen Sie einen noch beurkundungsbedürftigen Text nicht als privat unterschriftsreife Endfassung.
 
 ## 6. Beispiele
 
@@ -623,7 +623,7 @@ Nutzen Sie Rom I, Brüssel Ia und amtliche CISG-Texte samt Vertragsstaatenstatus
 
 ## 5. Ausgabeformat
 
-Liefern Sie die benötigten Klauseln und eine knappe getrennte Auswahlbegründung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Soweit möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown steht der Exporthinweis außerhalb des Empfängertextes.
+Liefern Sie die benötigten Klauseln und eine knappe getrennte Auswahlbegründung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Soweit möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown steht der Exporthinweis außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 
@@ -661,7 +661,7 @@ Prüfen Sie Paragrafen 765 bis 777 BGB, Paragraf 350 HGB und einschlägiges Gese
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Sicherungsvereinbarung oder eine begründete konkrete Änderung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Nutzen Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Form- und Befugnisvorbehalte sowie Markdown-Exporthinweise stehen außerhalb des Empfängertextes.
+Liefern Sie die beauftragte Sicherungsvereinbarung oder eine begründete konkrete Änderung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Nutzen Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Form- und Befugnisvorbehalte sowie Markdown-Exporthinweise stehen außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 
@@ -701,7 +701,7 @@ Prüfen Sie Paragrafen 305 bis 310 BGB. BGH, Urteil vom 20.03.2014, Az. VII ZR 2
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Überarbeitung mit vollständig ausformulierten Klauseln. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Ein gezielter Vergleich ergänzt den Entwurf, ersetzt ihn nicht. Soweit möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweis und interne AGB-Bewertung bleiben vom Empfängertext getrennt.
+Liefern Sie die beauftragte Überarbeitung mit vollständig ausformulierten Klauseln. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Ein gezielter Vergleich ergänzt den Entwurf, ersetzt ihn nicht. Soweit möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweis und interne AGB-Bewertung bleiben vom Empfängertext getrennt.
 
 ## 6. Beispiele
 
@@ -741,7 +741,7 @@ Prüfen Sie Paragrafen 433, 434, 437 bis 445b und 650 BGB sowie Paragrafen 376 u
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständige, ausformulierte Liefer- und Abrufklauseln im bestellten Vertragsumfang. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ersetzen Sie diese vor Ausgabe. Zahlen in einer Anlage müssen einem vollständigen Regelungssatz zugeordnet sein. Formatieren Sie soweit technisch möglich in Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus und trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
+Liefern Sie vollständige, ausformulierte Liefer- und Abrufklauseln im bestellten Vertragsumfang. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ersetzen Sie diese vor Ausgabe. Zahlen in einer Anlage müssen einem vollständigen Regelungssatz zugeordnet sein. Formatieren Sie soweit technisch möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit ausschließlich dezimaler Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus und trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -781,7 +781,7 @@ Nutzen Sie HGB und Artikel 101 AEUV sowie Verordnung (EU) 2022/720 in aktueller 
 
 ## 5. Ausgabeformat
 
-Liefern Sie den bestellten Vertriebsvertrag in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Halten Sie Quellenstatus und kartellrechtliche Prüfvorbehalte getrennt vom Empfängertext; bei Markdown gilt ein separater Exporthinweis.
+Liefern Sie den bestellten Vertriebsvertrag in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Halten Sie Quellenstatus und kartellrechtliche Prüfvorbehalte getrennt vom Empfängertext; bei Markdown gilt ein separater Exporthinweis.
 
 ## 6. Beispiele
 
@@ -823,7 +823,7 @@ Prüfen Sie Paragrafen 276, 280 folgende, 305 bis 310, 339 bis 345, 437 folgende
 
 ## 5. Ausgabeformat
 
-Liefern Sie ein vollständiges ausformuliertes Klauselpaket oder den beauftragten Gesamtvertrag. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Nutzen Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Freigabegrenzen und Quellenstatus bleiben getrennt vom Vertrag; bei Markdown gilt ein separater Exporthinweis.
+Liefern Sie ein vollständiges ausformuliertes Klauselpaket oder den beauftragten Gesamtvertrag. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Nutzen Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Freigabegrenzen und Quellenstatus bleiben getrennt vom Vertrag; bei Markdown gilt ein separater Exporthinweis.
 
 ## 6. Beispiele
 

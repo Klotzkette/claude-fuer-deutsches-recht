@@ -39,7 +39,7 @@ Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfass
 
 Vollständiger Schriftsatz mit Rubrum, bestimmten Anträgen, Tatsachen, Rechtsausführung, Beweisangeboten und Anlagenbezug; gesonderter Vermerk zu Kosten, Fristen und offenen Freigaben.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

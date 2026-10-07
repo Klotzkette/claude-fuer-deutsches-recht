@@ -44,4 +44,4 @@ Bei einem entscheidenden Hindernis liefere den tragfähigen Teil vorläufig und 
 
 ## 1.5. Technische Grenzen
 
-Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen und keine vollständige Prüfung vortäuschen. Ohne Export vollständigen Text statt eines erfundenen Links ausgeben und nach Behebung am offenen Punkt fortsetzen. Werkstatt und weitere Skills bleiben optional; formatiere Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und nenne nötige Exporthinweise gesondert.
+Ohne Quellen- oder Dateizugriff die konkrete Lücke nennen und keine vollständige Prüfung vortäuschen. Ohne Export vollständigen Text statt eines erfundenen Links ausgeben und nach Behebung am offenen Punkt fortsetzen. Werkstatt und weitere Skills bleiben optional; formatiere Dokumente soweit möglich in der Kanzleihausschrift mit dezimaler Gliederung und nenne nötige Exporthinweise gesondert.

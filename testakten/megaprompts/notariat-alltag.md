@@ -91,7 +91,7 @@ BeurkG Paragrafen 10, 12 und 17 sowie der konkrete materielle Formtatbestand bes
 
 ## 5. Ausgabeformat
 
-Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und die erforderlichen nächsten Handlungen mit ihren Abhängigkeiten. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
+Liefere ein ausformuliertes Dokument, getrennt davon offene Punkte und die erforderlichen nächsten Handlungen mit ihren Abhängigkeiten. Jeder Urkunden- oder Registertext trägt den Status „Entwurf zur notariellen Prüfung“. Keine fingierte UVZ-Nummer, kein behaupteter Versand. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; reine Stichwortskelette sind kein Endprodukt.
 
 ## 6. Beispiel
 
@@ -143,7 +143,7 @@ Nach Bankzustimmung Schuldhaftung und Grundbuchvollzug neu abstimmen; ohne Zusti
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Vereinbarung als „Entwurf zur notariellen Prüfung“ und getrennte kurze Entscheidungsfragen. Times New Roman 11 pt, dezimale Gliederung. Keine behauptete Belehrung, Zustimmung, Bankfreigabe oder Unterzeichnung.
+Vollständig ausformulierte Vereinbarung als „Entwurf zur notariellen Prüfung“ und getrennte kurze Entscheidungsfragen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine behauptete Belehrung, Zustimmung, Bankfreigabe oder Unterzeichnung.
 
 ## 6. Beispiel
 
@@ -189,7 +189,7 @@ BeurkG Paragrafen 10, 13, 17 und 39a; HGB Paragraf 12; GBO Paragraf 29 und einsc
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
+Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
 
 ## 6. Beispiel
 
@@ -245,7 +245,7 @@ GmbHG Paragrafen 2, 3, 5, 5a, 6, 7, 8, 11 und 40; HGB Paragraf 12. [Amtliche Lin
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Satzungs- und Anmeldeentwurf, Anteilsrechnung und getrennte offene Nachweise. Status „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt, dezimale Gliederung. Keine Unterschrift, Versicherung oder Eintragung als erfolgt darstellen. Keine reinen Klauselskelette.
+Vollständig ausformulierter Satzungs- und Anmeldeentwurf, Anteilsrechnung und getrennte offene Nachweise. Status „Entwurf zur notariellen Prüfung“, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Unterschrift, Versicherung oder Eintragung als erfolgt darstellen. Keine reinen Klauselskelette.
 
 ## 6. Beispiel
 
@@ -295,7 +295,7 @@ BeurkG Paragrafen 10, 12, 16 und 16c, gegebenenfalls GwG Paragrafen 10 bis 12 na
 
 ## 5. Ausgabeformat
 
-Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
+Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
 
 ## 6. Beispiel
 
@@ -353,7 +353,7 @@ BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23: Für die Be
 
 ## 5. Ausgabeformat
 
-Gewünschte Erklärungen vollständig ausformuliert als Entwurf zur notariellen Prüfung; konkrete medizinische Auswahlfragen getrennt. Times New Roman 11 pt, dezimale Gliederung. Keine erfundene ärztliche Beratung, Unterschrift oder starre Registergebühr.
+Gewünschte Erklärungen vollständig ausformuliert als Entwurf zur notariellen Prüfung; konkrete medizinische Auswahlfragen getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine erfundene ärztliche Beratung, Unterschrift oder starre Registergebühr.
 
 ## 6. Beispiel
 
@@ -403,7 +403,7 @@ Je nach Vorgang [GBO Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.ht
 
 ## 5. Ausgabeformat
 
-Das bestellte Nachforderungsschreiben, die Abschlussmitteilung oder der Vorlagevermerk steht vollständig ausformuliert im Vordergrund. Eine knappe interne Wiedervorlage ergänzt ihn nur bei Bedarf. Times New Roman 11 pt und dezimale Gliederung; keine fingierte Zahlung, Eintragung oder Freigabe.
+Das bestellte Nachforderungsschreiben, die Abschlussmitteilung oder der Vorlagevermerk steht vollständig ausformuliert im Vordergrund. Eine knappe interne Wiedervorlage ergänzt ihn nur bei Bedarf. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; keine fingierte Zahlung, Eintragung oder Freigabe.
 
 ## 6. Beispiel
 
@@ -459,7 +459,7 @@ Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schlie�
 
 ## 5. Ausgabeformat
 
-Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
+Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
 
 ## 6. Beispiel
 
@@ -515,7 +515,7 @@ BGB Paragrafen 873, 879, 1191 und 1192; GBO Paragrafen 19, 29 und 45; ZPO Paragr
 
 ## 5. Ausgabeformat
 
-Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
+Ausformulierter Entwurf zur notariellen Prüfung mit getrennten Haftungserklärungen, Bankabgleich und offenen Vollzugsbedingungen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Klauselskelette, erfundenen Urkundennummern oder behaupteten Originalvorlagen.
 
 ## 6. Beispiel
 
@@ -575,7 +575,7 @@ Die Auflassung selbst darf nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-
 
 ## 5. Ausgabeformat
 
-Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
+Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
 
 ## 6. Beispiel
 
@@ -621,7 +621,7 @@ GmbHG Paragrafen 6, 35, 38, 39, 46 und 78; HGB Paragraf 12; BGB Paragraf 181. [A
 
 ## 5. Ausgabeformat
 
-Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
+Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
 
 ## 6. Beispiel
 
@@ -671,7 +671,7 @@ Bei einer Gesetzesänderung richtet sich die notarielle Kostenberechnung nach [G
 
 ## 5. Ausgabeformat
 
-Rechenfähige Kostenberechnung mit vollständigem Anschreiben zur notariellen Prüfung; notwendige Zahlen dürfen tabellarisch stehen. Times New Roman 11 pt, dezimale Gliederung. Offenlassen einer fehlenden Wertgrundlage ist besser als eine scheinbar fertige, unbelegte Rechnung.
+Rechenfähige Kostenberechnung mit vollständigem Anschreiben zur notariellen Prüfung; notwendige Zahlen dürfen tabellarisch stehen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offenlassen einer fehlenden Wertgrundlage ist besser als eine scheinbar fertige, unbelegte Rechnung.
 
 ## 6. Beispiel
 
@@ -721,7 +721,7 @@ GmbHG Paragrafen 53 bis 57 sowie 40; HGB Paragraf 12. [Mitarbeiter-Formwege](htt
 
 ## 5. Ausgabeformat
 
-Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
+Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
 
 ## 6. Beispiel
 
@@ -774,7 +774,7 @@ Prüfe bei Video den gesetzlich zugelassenen Vorgang und das vorgesehene notarie
 
 ## 5. Ausgabeformat
 
-Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
+Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
 
 ## 6. Beispiel
 
@@ -820,7 +820,7 @@ Kommt die Freigabe nur zum Preis, ändere nicht zusätzlich Abnahme oder Fertigs
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Neufassung als „Entwurf zur notariellen Prüfung“, getrennt davon knapper Änderungsvermerk mit betroffenen Stellen und verbleibender Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Keine Urkunde mit internen Kommentaren im Erklärungsinhalt versandfertig nennen.
+Vollständig ausformulierte Neufassung als „Entwurf zur notariellen Prüfung“, getrennt davon knapper Änderungsvermerk mit betroffenen Stellen und verbleibender Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Urkunde mit internen Kommentaren im Erklärungsinhalt versandfertig nennen.
 
 ## 6. Beispiel
 
@@ -876,7 +876,7 @@ GmbHG Paragrafen 15, 16 und 40; BGB Paragraf 1274. [Amtliche Formwege](https://g
 
 ## 5. Ausgabeformat
 
-Vollständiger Vertragsentwurf mit getrennten schuldrechtlichen und dinglichen Erklärungen, Anteilstabelle und bedingungsabhängiger Vollzugsliste. Entwurf zur notariellen Prüfung, Times New Roman 11 pt und dezimale Gliederung. Keine Klauselskelette, fingierten Freigaben oder Zahlungen.
+Vollständiger Vertragsentwurf mit getrennten schuldrechtlichen und dinglichen Erklärungen, Anteilstabelle und bedingungsabhängiger Vollzugsliste. Entwurf zur notariellen Prüfung, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine Klauselskelette, fingierten Freigaben oder Zahlungen.
 
 ## 6. Beispiel
 
@@ -928,7 +928,7 @@ Amtliche Grundlage: [UmwG](https://www.gesetze-im-internet.de/umwg_1995/), insbe
 
 ## 5. Ausgabeformat
 
-Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
+Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
 
 ## 6. Beispiel
 
@@ -976,7 +976,7 @@ Nach Eingang eines Erbnachweises Namen, Quote, Verfügungsbefugnis und Vollmacht
 
 ## 5. Ausgabeformat
 
-Vollständiger Auseinandersetzungs- oder Übertragungsentwurf beziehungsweise bestimmter Grundbuchantrag zur notariellen Prüfung. Interne Quotenkontrolle und fehlende Nachweise getrennt halten. Times New Roman 11 pt, dezimale Gliederung; keine fingierte Erbscheinserteilung oder Einigung.
+Vollständiger Auseinandersetzungs- oder Übertragungsentwurf beziehungsweise bestimmter Grundbuchantrag zur notariellen Prüfung. Interne Quotenkontrolle und fehlende Nachweise getrennt halten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine fingierte Erbscheinserteilung oder Einigung.
 
 ## 6. Beispiel
 
@@ -1028,7 +1028,7 @@ Ein nachgereichter Kontoauszug kann den Zahlungsnachweis vervollständigen, bese
 
 ## 5. Ausgabeformat
 
-Konkrete Nachforderung in vollständigen Sätzen; getrennt davon interner Prüfvermerk zur notariellen Prüfung. Times New Roman 11 pt und dezimale Gliederung. Keine automatische Meldung, Zahlung oder Einreichung; keine öffentlich verteilte Liste sensibler Prüfbefunde.
+Konkrete Nachforderung in vollständigen Sätzen; getrennt davon interner Prüfvermerk zur notariellen Prüfung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine automatische Meldung, Zahlung oder Einreichung; keine öffentlich verteilte Liste sensibler Prüfbefunde.
 
 ## 6. Beispiel
 
@@ -1080,7 +1080,7 @@ Nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.ht
 
 ## 5. Ausgabeformat
 
-Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
+Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
 
 ## 6. Beispiel
 

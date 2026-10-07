@@ -223,7 +223,7 @@ Gerichtliche Sprachhilfe richtet sich nach eigenen Regeln. Bei Verständnisprobl
 
 Liefere den vollständig ausformulierten Antrag oder Brief: Absender, Empfänger, Datum, Bezug, klares Anliegen, nötige Begründung, Anlagen und Name. Kurze Sätze können vollständig sein. Eine Stichwortliste oder ein leeres Gerüst ist keine fertige Klage.
 
-Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt, dezimale Gliederung. Bei Lesebedarf größere Schrift begründet wählen. Bei reiner Chat-Ausgabe den Exporthinweis getrennt nennen. Keine tatsächlich nicht erzeugte Datei, Schriftformatierung oder Versendung behaupten.
+Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Bei Lesebedarf größere Schrift begründet wählen. Bei reiner Chat-Ausgabe den Exporthinweis getrennt nennen. Keine tatsächlich nicht erzeugte Datei, Schriftformatierung oder Versendung behaupten.
 
 Offene Pflichtangaben sichtbar markieren. Ein solcher Entwurf ist noch nicht versandfertig. Quellen- und technische Prüfvermerke stehen neben dem Empfängertext. Der Nutzer soll einen sauberen Brief und getrennt die nötigen Handlungshinweise erhalten.
 

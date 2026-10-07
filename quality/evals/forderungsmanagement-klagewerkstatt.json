@@ -36,9 +36,10 @@
       "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
       "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
       "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
-      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Mahnung, Klage oder Zahlung nach Prozessbeginn wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a2209d60489e73448f08a2b61b34475f703ca84f84b44623c9361bf0f6ff9906"
+    "sha256": "1bc026a3a79e07bc07e64d42c8640aded0b809b01dc566a1b17e39c7fb441be7"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -47,9 +48,10 @@
       "III ZR 91/07 ersetzt unbestätigte Pauschalanker; Verbraucherhinweis und Kosten der erst verzugsbegründenden Mahnung differenziert.",
       "III ZR 156/12 begrenzt den Kostenweg nach Erledigung vor Rechtshängigkeit; Rücknahme und materielle Kostenforderung getrennt.",
       "Anspruchsbezogene Beweisprüfung, Nettoschaden/Bruttopreis, RDG-Kosten und aktuelle Zuständigkeit statt universeller Beweislasttabelle.",
-      "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt."
+      "Teilklagezuordnung, konkrete Beweisangebote, Abnahmevorbehalte, Verfahrenswechsel und vollständiger Ratenvergleich ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "15532f30f85908e42c9b683e4da0915c4404abf1de55fc774077d94637bb3c38"
+    "sha256": "425e794d15a0ff895eadd339c9a3bd85f3328eaa8f6cfc4d7ef7fec3b20dc709"
   },
   "selection": {
     "positive": [

@@ -41,4 +41,4 @@ Tragende Anker: UWG §§ 5, 5a, MStV § 22, TMG. Tatsächliche Fundstellen werde
 
 ## Ausgabe und Grenzen
 
-Quellenstatus und technische Zugriffslücken getrennt vom Empfängertext dokumentieren. Vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Veröffentlichung, Unterlassungserklärung oder Einreichung eigenmächtig veranlassen.
+Quellenstatus und technische Zugriffslücken getrennt vom Empfängertext dokumentieren. Vollständige Sätze, dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Veröffentlichung, Unterlassungserklärung oder Einreichung eigenmächtig veranlassen.

@@ -29,7 +29,7 @@ Artikel 3, 25, 26, 111 und 113 der [Verordnung (EU) 2024/1689 in geltender Fassu
 
 ## 5. Ausgabeformat
 
-Ausformulierter Rollenvermerk oder Freigabebeschluss mit Systemversion, Tatsachengrundlage, Begründung, verbleibenden Voraussetzungen und benannten Verantwortlichen. Vollständige Sätze, keine Skelette; Times New Roman 11 pt, dezimale Gliederung. Registrierung, Konformitätserklärung oder Betriebsfreigabe nicht ungefragt ausführen.
+Ausformulierter Rollenvermerk oder Freigabebeschluss mit Systemversion, Tatsachengrundlage, Begründung, verbleibenden Voraussetzungen und benannten Verantwortlichen. Vollständige Sätze, keine Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Registrierung, Konformitätserklärung oder Betriebsfreigabe nicht ungefragt ausführen.
 
 ## 6. Beispiele
 

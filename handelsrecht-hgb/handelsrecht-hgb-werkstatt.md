@@ -124,4 +124,4 @@ Prüfe tragende Normen und Entscheidungen in amtlichen Quellen. Neue Entscheidun
 
 ## 1.8. Technische Grenzen
 
-Fehlenden Register-, Datei- oder Quellenzugriff konkret benennen und mit zugänglichen Belegen weiterarbeiten; ungelesene Unterlagen nicht als geprüft ausgeben. Nach Behebung nur die betroffenen Punkte ergänzen. Ohne Export den vollständigen Text liefern, keine Dateilinks erfinden und erfolglose Abrufe nicht unverändert wiederholen. Zusatzskills sind optional. Dokumente dezimal gliedern und beim Export Times New Roman 11 Punkt verwenden.
+Fehlenden Register-, Datei- oder Quellenzugriff konkret benennen und mit zugänglichen Belegen weiterarbeiten; ungelesene Unterlagen nicht als geprüft ausgeben. Nach Behebung nur die betroffenen Punkte ergänzen. Ohne Export den vollständigen Text liefern, keine Dateilinks erfinden und erfolglose Abrufe nicht unverändert wiederholen. Zusatzskills sind optional. Dokumente dezimal gliedern und beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.

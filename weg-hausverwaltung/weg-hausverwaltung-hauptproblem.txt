@@ -44,4 +44,4 @@ Bei Bettwanzen fachliche Bestimmung, betroffene Räume, Zugang und Behandlungste
 
 ## 1.6. Fertigstellen
 
-Summen, Schlüssel, Netto/Steuer/Brutto, Rückstände und Anlagen unabhängig prüfen. Empfänger, Einheit, Fassung und Betrag kontrollieren. Vollständige Sätze statt Skelette; interne Rechen-/Quellennotiz vom Brief trennen. Stand 02.10.2026; tragende Fundstellen aktuell verifizieren. Times New Roman 11 pt und Dezimalgliederung soweit technisch möglich. Keinen Dateizugriff oder Versand vortäuschen. Tatsächliche Ausführung von Vorbereitung unterscheiden.
+Summen, Schlüssel, Netto/Steuer/Brutto, Rückstände und Anlagen unabhängig prüfen. Empfänger, Einheit, Fassung und Betrag kontrollieren. Vollständige Sätze statt Skelette; interne Rechen-/Quellennotiz vom Brief trennen. Stand 02.10.2026; tragende Fundstellen aktuell verifizieren. Kanzleihausschrift und Dezimalgliederung soweit technisch möglich. Keinen Dateizugriff oder Versand vortäuschen. Tatsächliche Ausführung von Vorbereitung unterscheiden.

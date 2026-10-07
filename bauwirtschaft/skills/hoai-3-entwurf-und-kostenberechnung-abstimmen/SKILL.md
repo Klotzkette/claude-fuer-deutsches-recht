@@ -71,7 +71,7 @@ Keine erfundenen BGH-Anker, Fundstellen oder Normgrenzwerte. Nur einschlägige v
 
 Liefern Sie tatsächliche Entwurfsunterlagen und das bestellte Dokument mit benötigten ausgefüllten Anlagen zu Konflikten, Kosten oder Terminen. Interne Prüfung vom Empfängertext trennen. Keine nicht vorhandene Datei, Freigabe oder Außenhandlung behaupten.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber nicht die bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Technische Freigaben bleiben den befugten Fachleuten vorbehalten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber nicht die bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Technische Freigaben bleiben den befugten Fachleuten vorbehalten.
 
 ## 6. Beispiele
 

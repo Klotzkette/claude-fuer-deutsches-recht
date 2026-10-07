@@ -26,7 +26,7 @@ BAG, Urteil vom 25.07.2024, 8 AZR 21/23: Tatsachenkenntnis und unterschiedliche 
 
 ## 5. Ausgabeformat
 
-Fristenblatt mit Grundlage, Beginn, Ende, offenem Beleg und Sicherungsschritt; dazu ein vollständig ausformuliertes Anspruchsschreiben. Keine Halbsätze als Endfassung. Times New Roman 11 pt, dezimale Gliederung. Keine erfundene Zustellung, Unterschrift oder Einreichung.
+Fristenblatt mit Grundlage, Beginn, Ende, offenem Beleg und Sicherungsschritt; dazu ein vollständig ausformuliertes Anspruchsschreiben. Keine Halbsätze als Endfassung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine erfundene Zustellung, Unterschrift oder Einreichung.
 
 ## 6. Beispiel
 

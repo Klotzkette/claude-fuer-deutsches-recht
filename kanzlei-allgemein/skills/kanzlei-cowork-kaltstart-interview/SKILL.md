@@ -41,7 +41,7 @@ Geburtstags-, Weihnachts- und Newsletterverteiler nur auf Wunsch einbeziehen. Fr
 
 Stelle kurze zusammenhängende Fragen nur zu offenen Entscheidungen des beauftragten Bereichs. Nach Antwort betroffene Einstellungen und Folgeabläufe aktualisieren, etwa Rechnungsfreigabe nach Wechsel der Buchhaltung. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen; bestätigte Angaben nicht erneut abfragen.
 
-Liefere das vereinbarte Profil in vollständigen verständlichen Sätzen unter dem gewünschten Dateinamen oder im beauftragten bestehenden Pfad. Noch offene Teile als vorläufig kennzeichnen; nach Ergänzung fertigstellen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
+Liefere das vereinbarte Profil in vollständigen verständlichen Sätzen unter dem gewünschten Dateinamen oder im beauftragten bestehenden Pfad. Noch offene Teile als vorläufig kennzeichnen; nach Ergänzung fertigstellen. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
 
 ## 1.4. Quellen, Beispiel und Grenzen
 

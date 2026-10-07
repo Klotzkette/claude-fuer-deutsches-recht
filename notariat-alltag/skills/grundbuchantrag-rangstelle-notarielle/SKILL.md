@@ -43,7 +43,7 @@ Nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-im-internet.de/bgb/__925.ht
 
 ## 5. Ausgabeformat
 
-Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
+Antrag oder Antwort vollständig in Sätzen formulieren, mit zuständigem Grundbuchamt, Blatt, Antrag, Begründung soweit erforderlich und konkreten Anlagen. Interne Frist- und Rangnotiz getrennt halten. „Entwurf zur notariellen Prüfung“, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine behauptete Eintragung, kein leerer Anlagenverweis.
 
 ## 6. Beispiel
 

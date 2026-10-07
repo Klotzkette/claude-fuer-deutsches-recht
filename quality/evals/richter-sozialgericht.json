@@ -31,9 +31,10 @@
       "Abschließende Prüfung oder konkrete Folgenabwägung bei schweren irreversiblen Nachteilen aufgenommen.",
       "Vergangene Einnahmen und aktuelle Mittel getrennt; vorläufige Leistung nicht als endgültige Bewilligung tenorieren.",
       "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
-      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich."
+      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "48404c8af5cb4c4385ed70665879231e888f140793f0f7f095cec55def0e046a",
+    "sha256": "ffa805a8947af92745ff232e0f7c84316fb0819a5dd621438f3862049f99599b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -88,9 +89,10 @@
       "BVerfG 1 BvR 569/05 in den Eilbeschlussweg integriert.",
       "Unverifizierte materielle Fallliste entfernt; monatsbezogene, medizinische und kostenrechtliche Routen erhalten.",
       "Kontoschließung/Zwischenzahlung -> aktuelle Unterdeckung und Eiltenor ändern; Rückblickbefund -> Beweisfrage zum Leistungsbeginn präzisieren.",
-      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich."
+      "Aktuelle Mittel statt Vergangenheitsverdacht, medizinische Zeitachse, Beschaffung versus Erstattung und monatlicher Tenorabgleich.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8c327f44bfd79125695b980a76f2430d62fc33c96d9ba127600e0b90ffd7e45c",
+    "sha256": "dd7e9e3bb3b6c4687a65f84f134dec678dd49f96c17eb835802de73418812fe9",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -28,7 +28,7 @@ Bescheid, Widerspruchsbescheid, Zugang, Wohnort, Leistungsträger, gewünschtes 
 
 ## 5. Ausgabeformat
 
-Ausformulierte Klage mit Gericht, Beteiligten, Bescheiden, Antrag, Begründung, Anlagen und Namen; Times New Roman, 11 pt, dezimale Gliederung. Keine Skelettklage als fertiges Ergebnis. Fehlende Angaben sichtbar markieren und vor Versand klären. Hinweise zu Kosten und Einreichung separat.
+Ausformulierte Klage mit Gericht, Beteiligten, Bescheiden, Antrag, Begründung, Anlagen und Namen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Skelettklage als fertiges Ergebnis. Fehlende Angaben sichtbar markieren und vor Versand klären. Hinweise zu Kosten und Einreichung separat.
 
 ## 6. Beispiele
 

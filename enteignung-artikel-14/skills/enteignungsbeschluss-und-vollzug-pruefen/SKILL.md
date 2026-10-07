@@ -26,7 +26,7 @@ BauGB 112, 113 und 117 im [Quellenregister](../../references/rechtsgrundlagen.md
 
 ## 5. Ausgabeformat
 
-Vollständiges Vollzugsanschreiben oder Beanstandung mit präzisem Verfügungssatzbezug, Belegen und begehrter Handlung. Kurzer interner Status zu Rechtsbehelfsfrist und Zahlungsnachweis getrennt. Times New Roman 11 pt, dezimale Überschriften; keine scheinamtliche Unterschrift erzeugen.
+Vollständiges Vollzugsanschreiben oder Beanstandung mit präzisem Verfügungssatzbezug, Belegen und begehrter Handlung. Kurzer interner Status zu Rechtsbehelfsfrist und Zahlungsnachweis getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften; keine scheinamtliche Unterschrift erzeugen.
 
 ## 6. Beispiele
 

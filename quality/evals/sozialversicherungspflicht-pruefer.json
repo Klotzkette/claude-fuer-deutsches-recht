@@ -418,9 +418,10 @@
     "changes": [
       "Status von Zweigen, Befreiung und Beitrag getrennt.",
       "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "89dc7a3cdf09e58b785775366ef0b942bd6b0293a5a839ebffe7f9eb6e15b442"
+    "sha256": "1be707913196b3114ed1241db0d4bad55d2fcfcacd1a08ebffd2ed1125c24950"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -428,9 +429,10 @@
     "changes": [
       "Status von Zweigen, Befreiung und Beitrag getrennt.",
       "Lehrkräfteübergang bis Ende 2027, neue BSG-Berichte von Juli 2026 und DRV-GRA von August 2026 eingearbeitet.",
-      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung."
+      "Gezielte Rückfragen, Tätigkeit/Zeitraum und verwendbare Volltexte statt pauschaler Freistellung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "83d1bc30282c30ae151001145c45ded9793023942c3582db280b1fdac0c843e3"
+    "sha256": "1c84b031dd71843d1b5d784460c25674c8f529e89a96e3ca2e3bb7b2af973187"
   },
   "source_audit_2026_10_01_breit": {
     "date": "2026-10-01",

@@ -86,9 +86,10 @@
       "Gewerbemiet-Textform einschließlich Altfrist bis einschließlich 01.01.2026 und Schriftsatzformfiktion vom Wohnraumregime getrennt.",
       "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
       "Zahlungseingang verändert Monatsrechnung und Begründung im bestehenden Dokument; Mangelzeitraum gesondert prüfen.",
-      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent."
+      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b33b7887e79b693ee237a8acdf3641a6c76aca1eed633c943b87c8a9799e91b7",
+    "sha256": "40ddcc938f843fbe519ce4be73b07795dab564fdb75d517366210e6758887a23",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -144,9 +145,10 @@
       "Rückstandsbeispiel und amtliche Mietspiegelmerkmale ergänzt; ungeprüfte Altentscheidungen durch konkrete Recherchefragen ersetzt.",
       "Streitige Minderung, Guthabenverrechnung und verschiedene Rückstandsstichtage in Rechnung und Kündigungsbewertung getrennt.",
       "Kostenaufteilung, Teilreparatur, Flächennachweis, geänderte Nutzungsplanung und Rückgabezeitpunkt mit konkreten Dokumentfolgen ergänzt.",
-      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent."
+      "VIII ZR 50/23 für neu geschaffenen Wohnraum konkret ergänzt. V ZR 43/22 sachrichtig für Beklagte/Frist/Streitgegenstand verwendet; sachfremde Anker V ZR 43/23 und V ZR 234/19 entfernt, weitere ungesicherte WEG-Anker zu Prüfhinweisen gemacht. Fristen und Textform konsistent.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f0c71dc853dd464e351bcbc9b6b1be8df24b5ddf0020f8824726acd18eadd02c",
+    "sha256": "c34315d2d1f85574067a0936827c1ae30931f50ebb4779ac7ee0f26984f21222",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {

@@ -37,7 +37,7 @@ Vor Nachforderung prüfen, ob sie eine beabsichtigte Meldung offenlegt. Paragraf
 
 ## 5. Ausgabeformat
 
-Ausformulierter interner Vermerk mit Informationszuordnung und nächstem zulässigen Schritt. Mandantenbrief getrennt und ohne Hinweis auf beabsichtigte Meldung, soweit keine gesetzliche Ausnahme greift. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierter interner Vermerk mit Informationszuordnung und nächstem zulässigen Schritt. Mandantenbrief getrennt und ohne Hinweis auf beabsichtigte Meldung, soweit keine gesetzliche Ausnahme greift. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 

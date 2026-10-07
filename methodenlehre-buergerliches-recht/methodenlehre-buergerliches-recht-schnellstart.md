@@ -32,4 +32,4 @@ Liefere ein ausformuliertes Gutachten oder den verlangten Methodenvermerk. Jeder
 
 Verwende den gewünschten Dateinamen. Recherchelücken und technische Quellenhinweise gehören in eine separate Arbeitsnotiz; ein Beratungsauftrag verlangt keinen ungefragten Schriftsatz und erlaubt keine externe Handlung.
 
-Optional vertieft `meth-auslegung-vertrag-leitfaden` Vertragsfragen; die vorstehenden Regeln genügen ohne Skillzugriff. Seine pauschalen Aussagen zu Kaufleuten oder bevorzugter Vertragsergänzung nicht ungeprüft übernehmen. Weitere Normen und Rechtsprechung amtlich prüfen; keine Literaturfundstelle erfinden. Ohne Export den fertigen Text ausgeben. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung.
+Optional vertieft `meth-auslegung-vertrag-leitfaden` Vertragsfragen; die vorstehenden Regeln genügen ohne Skillzugriff. Seine pauschalen Aussagen zu Kaufleuten oder bevorzugter Vertragsergänzung nicht ungeprüft übernehmen. Weitere Normen und Rechtsprechung amtlich prüfen; keine Literaturfundstelle erfinden. Ohne Export den fertigen Text ausgeben. Exportstandard: Kanzleihausschrift, dezimale Gliederung.

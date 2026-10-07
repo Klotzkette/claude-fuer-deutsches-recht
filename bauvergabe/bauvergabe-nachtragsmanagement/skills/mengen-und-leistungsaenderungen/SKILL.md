@@ -31,7 +31,7 @@ BGH, Urt. v. 08.08.2019 – Az. VII ZR 34/18, [amtlicher Volltext](https://www.b
 
 Liefern Sie eine prüfbare Positionsrechnung mit Ursprungsmenge, Istmenge, Schwellenmenge, neu zu bewertender Teilmenge, Preisgrund und Beleg. Begründen Sie im Text die Anspruchsspur und die Auftraggeber-Gegenposition.
 
-Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
+Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
 
 ## 6. Beispiele
 

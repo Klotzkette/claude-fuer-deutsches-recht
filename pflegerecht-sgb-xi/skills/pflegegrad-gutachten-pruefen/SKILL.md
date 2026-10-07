@@ -31,7 +31,7 @@ Gutachten einschließlich Einzelbewertungen, Bescheid, Begutachtungsdatum, Tages
 
 ## 5. Ausgabeformat
 
-Knappe Kriterienübersicht: Gutachtenbefund | konkrete Hilfe | Beleg | beanstandete Bewertung | offene fachliche Frage. Anschließend den beauftragten Einwendungstext vollständig ausformulieren. Keine Skelettbegründung; Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung. Sichere und nur bedingt berechenbare Punkte sichtbar trennen, keine ungesicherte Gesamtsumme als Ergebnis ausgeben.
+Knappe Kriterienübersicht: Gutachtenbefund | konkrete Hilfe | Beleg | beanstandete Bewertung | offene fachliche Frage. Anschließend den beauftragten Einwendungstext vollständig ausformulieren. Keine Skelettbegründung; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung. Sichere und nur bedingt berechenbare Punkte sichtbar trennen, keine ungesicherte Gesamtsumme als Ergebnis ausgeben.
 
 ## 6. Beispiele
 

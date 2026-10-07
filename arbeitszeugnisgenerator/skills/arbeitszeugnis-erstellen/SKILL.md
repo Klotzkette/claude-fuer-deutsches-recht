@@ -29,7 +29,7 @@ Es gelten [Zitierweise](../../../references/zitierweise.md) und die punktbezogen
 
 ## 5. Ausgabeformat
 
-Liefere zuerst den ausformulierten Zeugnisentwurf in vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Belegmatrix und offene Punkte folgen getrennt; keine erfundenen Tatsachen im vermeintlich unterschriftsreifen Text. Formatstandard: soweit technisch möglich Times New Roman 11 pt; Gliederungen ausschließlich dezimal mit Leerzeilen. Das Zeugnis selbst bleibt geschäftsüblicher Fließtext, ohne juristische Prüfüberschriften. Bei Markdown oder Chat folgt ein gesonderter Exporthinweis.
+Liefere zuerst den ausformulierten Zeugnisentwurf in vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Belegmatrix und offene Punkte folgen getrennt; keine erfundenen Tatsachen im vermeintlich unterschriftsreifen Text. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; Gliederungen ausschließlich dezimal mit Leerzeilen. Das Zeugnis selbst bleibt geschäftsüblicher Fließtext, ohne juristische Prüfüberschriften. Bei Markdown oder Chat folgt ein gesonderter Exporthinweis.
 
 ## 6. Beispiele
 

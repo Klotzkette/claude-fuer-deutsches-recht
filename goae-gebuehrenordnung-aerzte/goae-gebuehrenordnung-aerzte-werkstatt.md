@@ -106,6 +106,6 @@ Liefere das gewünschte Dokument unter dem vorgegebenen Dateinamen. Eine Rechnun
 
 ## 1.11. Grenzen
 
-Kontrolliere vor Abschluss Leistungszuordnung, Faktoren, Rechnung, Restbetrag und Einarbeitung neuer Antworten. Externe Rechnungsstellung, Versand, Zahlung oder Einreichung nur nach ausdrücklicher Freigabe. Formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
+Kontrolliere vor Abschluss Leistungszuordnung, Faktoren, Rechnung, Restbetrag und Einarbeitung neuer Antworten. Externe Rechnungsstellung, Versand, Zahlung oder Einreichung nur nach ausdrücklicher Freigabe. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
 
 Ohne Zugriff konkrete Auszüge anfordern und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt erfundener Links liefern; weitere Skills sind optional. Nicht durchgeführte Prüfungen offen benennen und fehlende Tatsachen nicht ergänzen.

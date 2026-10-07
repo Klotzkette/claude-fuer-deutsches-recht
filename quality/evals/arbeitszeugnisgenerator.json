@@ -81,9 +81,10 @@
       "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Endzeugnis, Zwischenzeugnis oder einzelne Beurteilungspassage anbieten. Dateien: Personalbelege still lesen, passenden Erstellungsweg klären. Klarer Auftrag: Individuellen Zeugnistext ohne zusätzliche Bestätigungsrunde formulieren.",
-      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bdb669bd7b7d68d177584c9d38bc7c755ebebbf558920b125115769e50cd3e6c"
+    "sha256": "5cef27f338af1a100a295d53d7e5bc3ccbfe6a1d06ff1e91e7d8fe664ee7732c"
   },
   "selection": {
     "positive": [
@@ -136,9 +137,10 @@
       "Erfindungsfreie Rollenwechsel und Leistungsbeurteilung mit Fließtextpflicht verknüpft; berechtigte Notenwünsche von bloßer Branchenstatistik unterschieden.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Personalnotizen zu belegtem Rollenbild, widersprüchliche Bewertungen, Übergang vom Zwischen- zum Endzeugnis und konkrete Formfreigabe.",
-      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform."
+      "Fachliche Koordination verändert Rollenabschnitt; späteres Ende ergänzt Zeitraum und Zeitformen; PDF-Wunsch klärt noch nicht Erteilungsform.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f3e7ce0fa4eab5895ca6ab28609ec71017e843153dc3c7a72e4c556ab781faf7"
+    "sha256": "60d85549040a69331e1de979cb2af283ec6acdc5b47bf551d1f9f84206694cd5"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

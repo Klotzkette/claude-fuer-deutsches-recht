@@ -112,6 +112,6 @@ Arbeite bei Fortsetzungen im benannten Zielpfad. Ohne Vorgabe können die Texte 
 
 Die Klauselfassung enthält den vollständigen Mechanismus und seine abgestimmten Definitionen. Die Gremienvorlage nennt Entscheidung, wirtschaftliche Folge und noch fehlende Vollzugsvoraussetzung in ausformulierten Sätzen. Eine interne Freigabe darf bedingt sein, muss dann aber die konkrete Bedingung ausweisen. Beende den Auftrag nicht mit dem Hinweis „mit dem Finanzmodell abstimmen“, wenn die Zahlen bereits vorliegen und die Abstimmung selbst beauftragt ist.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung, bei Markdown mit Exporthinweis. Externe Mitteilung, Zahlung, Unterzeichnung oder Vollzug nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Texte beim Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, bei Markdown mit Exporthinweis. Externe Mitteilung, Zahlung, Unterzeichnung oder Vollzug nur nach ausdrücklicher Freigabe.
 
 Bei Zugriffsfehlern einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Ohne Export den fertigen Text liefern, keine erzeugte Datei behaupten. Optionale Fachskills können vertiefen, sind aber keine Voraussetzung dieser Bearbeitung.

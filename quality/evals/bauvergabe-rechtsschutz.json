@@ -456,16 +456,18 @@
     "verdict": "revised",
     "reason": "Eigenständiger Ablauf innerhalb 7.500 UTF-8-Bytes.",
     "changes": [
-      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert."
+      "Normen 2026, Rollen, Fristauslöser und konkrete Entscheidungsanker integriert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b37dd55f8eb74322e8d9daba2a6c76f0eb3965b51d2908a456fab715ce92d960"
+    "sha256": "0de2d45bf39571d484a27209830b055fcb0ecbe06a6b8e97d24becd9ecba9eaf"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Großer fachlicher Arbeitsablauf mit vollständigen Brief- und Antragsmustern.",
     "changes": [
-      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert."
+      "Konkrete Bauvergabefragen mit Nachweisen, Gegenpositionen und Übergaben ausformuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "55e30eba40fe2cc54d9a649acd7ebc06ef5c67e5efbe069be7b3e4f05d533885"
+    "sha256": "8c34eb2727191e7056cd429b60eb957a2c5d4e905563672fa6be4717827c489a"
   }
 }

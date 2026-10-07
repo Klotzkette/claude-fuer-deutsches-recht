@@ -27,9 +27,10 @@
       "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
       "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
       "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
-      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "391763523fddd251dba10715f5a53d9364cd153291bd681d034135ddf7ab689b",
+    "sha256": "468804491d187e394a38cb3990180c16c3406a6ce1e44646c16d86d6bbcb6bb3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -41,9 +42,10 @@
       "Getrennte Zurechnungsansätze im Barbierfall und Bezug zur lex Aquilia. Grenze: Keine moderne Mitverschuldensquote oder erfundene Urteilsidentität.",
       "Leerstart: Fragmentexegese, historische Falllösung oder Rezeptionsvergleich wählen.",
       "Nachgereichter Textzeuge oder geänderte Orts- und Statusangabe verändert Übersetzung, Zuordnung der Juristenstimmen und historische actio-Prüfung.",
-      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten."
+      "Im Barbierfragment Argumentationsstimmen und Sachverhaltsvarianten unterscheiden; Translation, Überlieferung, zeitgebundene Aktionsprüfung und belegte Rezeptionsschritte separat bearbeiten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "025d33882c3078ca6c8f285e4232f544c6a44ba48e1cf0eb262b176b52a34c76",
+    "sha256": "7dadffd0c7608a3c0a849135f08966b4ac4e1d3110f78dc2e5ad235db91b0258",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

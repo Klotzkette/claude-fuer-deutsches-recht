@@ -102,4 +102,4 @@ Tragende Normen und Rechtsprechung amtlich prüfen; unsichere Entscheidungen nic
 
 ## 1.10. Technische Grenzen
 
-Benenne fehlenden Datei-, Quellen- oder Exportzugriff konkret und bearbeite unabhängige Teile weiter. Ohne Export liefere den Text, ohne eine vollständige Prüfung oder erzeugte Datei zu behaupten. Weitere Skills sind optionale Vertiefungen; formatierte Enddokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung.
+Benenne fehlenden Datei-, Quellen- oder Exportzugriff konkret und bearbeite unabhängige Teile weiter. Ohne Export liefere den Text, ohne eine vollständige Prüfung oder erzeugte Datei zu behaupten. Weitere Skills sind optionale Vertiefungen; formatierte Enddokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

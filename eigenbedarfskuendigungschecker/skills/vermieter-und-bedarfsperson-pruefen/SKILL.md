@@ -27,7 +27,7 @@ Paragrafen 566 und 573 Absatz 2 Nummer 2 BGB; BGH, Urteil vom 10.07.2024, VIII Z
 
 ## 5. Ausgabeformat
 
-Parteienübersicht als Arbeitshilfe und vollständig ausformulierte rechtliche Einordnung oder Nachfrage. Keine Skelettbriefe. Times New Roman 11 pt und dezimale Gliederung, soweit technisch möglich. Zweifel an Vertretung getrennt vom tatsächlichen Wohnbedarf benennen.
+Parteienübersicht als Arbeitshilfe und vollständig ausformulierte rechtliche Einordnung oder Nachfrage. Keine Skelettbriefe. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit technisch möglich. Zweifel an Vertretung getrennt vom tatsächlichen Wohnbedarf benennen.
 
 ## 6. Beispiel
 

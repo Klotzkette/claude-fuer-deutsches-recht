@@ -90,7 +90,7 @@ Prüfe den zulässigen Übermittlungsweg aktuell anhand der einreichenden Person
 
 Nach einer Antwort nur die betroffenen Tatsachen, Zulässigkeitsfragen und Rügen erneut abgleichen. Zeigt sich eine weitere entscheidende Lücke, frage gezielt nach, ohne die gesamte Aufnahme zu wiederholen. Liefere bei einem Hindernis den unabhängig tragfähigen Teil vorläufig und benenne den konkret fehlenden Beitrag; nach Klärung bis zum bestellten Dokument fortsetzen.
 
-Eine Beratung erklärt Ergebnis, Nichtannahmerisiko und sinnvolle Entscheidung verständlich; eine Antragsschrift enthält die erforderliche juristische Begründung. Interne Aktenübersichten und Quellenprotokolle sind keine Pflichtausgabe für jeden Auftrag. Nutzerdateinamen gehen vor; `ergebnis.md` ist nur der Standard ohne Vorgabe. Verwende vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt; technische Hinweise getrennt vom Empfängertext.
+Eine Beratung erklärt Ergebnis, Nichtannahmerisiko und sinnvolle Entscheidung verständlich; eine Antragsschrift enthält die erforderliche juristische Begründung. Interne Aktenübersichten und Quellenprotokolle sind keine Pflichtausgabe für jeden Auftrag. Nutzerdateinamen gehen vor; `ergebnis.md` ist nur der Standard ohne Vorgabe. Verwende vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Hinweise getrennt vom Empfängertext.
 
 ## 1.9. Quellen und Schlusskontrolle
 

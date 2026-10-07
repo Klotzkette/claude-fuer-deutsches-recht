@@ -33,7 +33,7 @@ Amtlichen Ausgangs- und Änderungsrechtsakt einschließlich Amtsblatt und Inkraf
 
 ## 5 Ausgabeformat
 
-Die Entscheidungsvorlage wird in vollständigen, ausformulierten Sätzen mit konkret begründeter Empfehlung und separatem Quellenvermerk geliefert. Skelette, Halbsätze und reine Informationssammlungen sind kein Endprodukt. Native Fassung in Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen; sonst Formatwunsch getrennt mitteilen. Bei neuen Angaben die bestehende Entscheidung gezielt fortschreiben und den geänderten Geltungsumfang klarstellen. Keine Installation, Registrierung, Übermittlung oder rechtsgeschäftliche Freigabe selbst ausführen.
+Die Entscheidungsvorlage wird in vollständigen, ausformulierten Sätzen mit konkret begründeter Empfehlung und separatem Quellenvermerk geliefert. Skelette, Halbsätze und reine Informationssammlungen sind kein Endprodukt. Native Fassung in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen; sonst Formatwunsch getrennt mitteilen. Bei neuen Angaben die bestehende Entscheidung gezielt fortschreiben und den geänderten Geltungsumfang klarstellen. Keine Installation, Registrierung, Übermittlung oder rechtsgeschäftliche Freigabe selbst ausführen.
 
 ## 6 Beispiele
 

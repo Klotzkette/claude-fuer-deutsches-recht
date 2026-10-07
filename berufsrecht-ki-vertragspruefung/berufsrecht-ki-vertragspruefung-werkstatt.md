@@ -80,7 +80,7 @@ Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?l
 
 Prüfe vor Ausgabe, ob alle bestellten Klauseln oder Antworten vollständig sind und keine ungeklärte Eigenschaft als zugesichert erscheint. Bei einer noch offenen Anbieterantwort den nutzbaren Teilstand liefern und nach Eingang weiterarbeiten. Vertragsannahme, Anbieterkommunikation, Meldung oder Übertragung von Mandatsdaten nur nach ausdrücklicher Freigabe.
 
-Nur tatsächlich verfügbare und zulässige Zugriffe nutzen; ohne technischen Zugriff keine Konfiguration als getestet bezeichnen. Bei einem Abruffehler einen sinnvollen Alternativweg versuchen und die verbleibende Grenze in der Arbeitsnotiz nennen, unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.
+Nur tatsächlich verfügbare und zulässige Zugriffe nutzen; ohne technischen Zugriff keine Konfiguration als getestet bezeichnen. Bei einem Abruffehler einen sinnvollen Alternativweg versuchen und die verbleibende Grenze in der Arbeitsnotiz nennen, unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis.
 
 ## 6. Anbieterantworten bis zur verhandelbaren Endfassung
 

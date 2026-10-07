@@ -166,7 +166,7 @@ Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Aussagegeh
 
 Liefere das bestellte Memo, die Berechnung, Vertragsprüfung oder Stellungnahme in vollständigen Sätzen. Tabellen dienen echten Daten- oder Alternativenvergleichen, nicht einer obligatorischen Prüffeldsammlung. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Keine ungefragte Klage, Anmeldung oder Zusage; externe Kommunikation benötigt ausdrückliche Freigabe.
+Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine ungefragte Klage, Anmeldung oder Zusage; externe Kommunikation benötigt ausdrückliche Freigabe.
 
 ## 1.6 Beispiel
 
@@ -325,7 +325,7 @@ Verifiziere tragende Normen, Schwellen und Behördenanforderungen amtlich und ze
 
 Liefere das bestellte Ergebnis vollständig ausformuliert; nicht jede Anfrage braucht zusätzlich Tabellen oder einen Verfahrensplan. Eine Marktanalyse führt nicht ungefragt zur Anmeldung oder Klage. Bei einem Hindernis benenne den vorläufigen Umfang und den konkret benötigten Beitrag; nach Antwort arbeite bis zur Endfassung weiter.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Quellenstatus und technische Grenzen stehen getrennt vom Mandantenbrief. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Quellenstatus und technische Grenzen stehen getrennt vom Mandantenbrief. Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 1.6 Beispiel und Handlungsgrenzen
 

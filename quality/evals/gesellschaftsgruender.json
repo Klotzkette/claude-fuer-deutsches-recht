@@ -40,9 +40,10 @@
     "changes": [
       "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
       "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
-      "Rechtsform, Gründerrechte oder Einzahlungen wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Rechtsform, Gründerrechte oder Einzahlungen wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6507846fafae07279d122d7b88a6aee1724b8ac163559975ce996057e064d7c3"
+    "sha256": "1904f0f5d0ca3fec99cf604d6a29efe501289f6c50eae9f9df075a639aecb715"
   },
   "selection": {
     "positive": [
@@ -158,9 +159,10 @@
     "changes": [
       "Barkapitalgebot bei UG-Gründung ausdrücklich von zulässiger Sachkapitalerhöhung auf mindestens 25.000 Euro abgegrenzt.",
       "Weitere Sacheinlagevoraussetzungen und fortbestehende UG-Regeln vor Eintragung gesichert.",
-      "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert."
+      "Arbeitsleistung und Beteiligung, 50:50-Konflikt, Ausscheiden, Zahlungszuordnung und erste Gründungsausgaben konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b5a8150301a3ecb9f42e95f8fe8ca5b0309f86ef318a62af6bb29fdcc89892d9"
+    "sha256": "6b5cd35053a5c3f32646057c756b2317b48fb423b973921ccb8fdf25584f450c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -8,7 +8,7 @@
 
 ## 1.1. Lokale App starten
 
-**Version:** `445.33.1`
+**Version:** `445.34.0`
 
 Die Grundstücksrecherche ist ein App-only-Plugin mit zwei begleitenden Skills. Es gibt zwei Betriebsarten: die App mit Python-Laufzeit und eine herunterladbare HTML-Website, deren `index.html` Sie direkt öffnen können. Beide bieten eine Karte, die Flurstücksauswahl und vier bearbeitbare Auskunftsentwürfe.
 

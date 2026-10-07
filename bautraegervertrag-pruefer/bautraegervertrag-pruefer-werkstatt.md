@@ -74,7 +74,7 @@ Nachschüsse, Ausscheiden, Insolvenz eines Gesellschafters, Vorkaufsrechte und V
 
 Neue Unterlagen mit den vorhandenen Fassungen abgleichen und nur betroffene Fälligkeitsfragen, Berechnungen oder Klauseln ändern. Neue entscheidende Lücken dürfen kurze Folgerunden erfordern; bereits beantwortete Angaben nicht wiederholen. Bei einem Hindernis die unabhängig belegten Teile vorläufig liefern und nach Klärung bis zum bestellten Dokument fortsetzen.
 
-Der Mandantenbrief erklärt verständlich Empfehlung und wirtschaftliche Folgen. Der Prüfvermerk enthält die vertiefte Begründung; an den Notar gehen Urkundenänderungen, an den Bauträger die passenden Leistungs- und Nachweisforderungen. Nur die bestellten Texte erstellen und keinen ungefragten Klageentwurf hinzufügen. Quellenprüfstatus und technische Hinweise getrennt vom Empfängertext halten. Nutzerdateinamen gehen vor, `ergebnis.md` nur ohne Vorgabe; vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
+Der Mandantenbrief erklärt verständlich Empfehlung und wirtschaftliche Folgen. Der Prüfvermerk enthält die vertiefte Begründung; an den Notar gehen Urkundenänderungen, an den Bauträger die passenden Leistungs- und Nachweisforderungen. Nur die bestellten Texte erstellen und keinen ungefragten Klageentwurf hinzufügen. Quellenprüfstatus und technische Hinweise getrennt vom Empfängertext halten. Nutzerdateinamen gehen vor, `ergebnis.md` nur ohne Vorgabe; vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 ## 1.10. Quellen und Schlusskontrolle
 

@@ -805,9 +805,10 @@
       "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
       "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
       "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
-      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ada29b5d936f5c65b9cd105cc945fe5ca9b88c6d2d18194da7c690e4923b7f5b"
+    "sha256": "ca6f57cf0aa31cf48d48d621433f4bd6cdce348778a6bd9d6956c441e10edf8b"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -816,9 +817,10 @@
       "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
       "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
       "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
-      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "695a3d66b30dc740ca4a911f292a5927c4b26c81a3b9025b267e8419aa73b6b6"
+    "sha256": "57399d7c85da31cc0b3ad0516211672ae5dced5248ed80e44b88606f76f709fe"
   },
   "focus_review": {
     "verdict": "revised",
@@ -827,13 +829,14 @@
       "Eigenständige Berliner Fachrouten statt allgemeiner Gründungslisten.",
       "Gaststättenübergang2027 und konkrete ZustV-Aufgaben2026 differenziert.",
       "StrlSchG-Normfrist und abweichende Portalangabe offen aufgelöst.",
-      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen."
+      "Iterative Belegarbeit führt zum ausformulierten Produkt; installierte Skills verwenden mitgelieferte Referenzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-gewerbeaufsicht-betrieb/berliner-gewerbeaufsicht-betrieb-hauptproblem.md",
     "skill_path": "berliner-gewerbeaufsicht-betrieb/skills/betrieb-hauptproblem-zum-ergebnis-fuehren/SKILL.md",
-    "prompt_sha256": "43b4529a29c36555c34e2933fee0101da5dab7c40e05bc8973384f18dda7f0fb",
-    "skill_sha256": "ef3582f6a3815a719f5977fb13373051a9bd5936f3e60fcddadc69c347c3a6f3"
+    "prompt_sha256": "b5ec7128cfeb8bfa8b49f6498282215113746e678b5c98397ec661180da691ec",
+    "skill_sha256": "48ec32ee3318d83844ceabf0adb5d0ca0a7a2c6b6b5cc7a3211be4f67cd49cdc"
   }
 }

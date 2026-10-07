@@ -36,9 +36,10 @@
       "VII ZR 174/19 mit Inland-/Privatparteigrenze und konkretem Vertrauensschutz angewandt.",
       "Paragraf 7 HOAI: fehlender Verbraucherhinweis senkt höheres, erhöht aber kein niedriger vereinbartes Honorar.",
       "Paragraf 8 und Stufenabruf bleiben getrennt von Mangelrechten; Überschriften dezimal vereinheitlicht.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "75aaae3e69ec64088342d3c50a8e5af4bce33c6b73aa9581a03878b0703da4e9"
+    "sha256": "04e2d41605a1cd2b42e8a2bf3a6d263930ef2ac9eae66117f0f2e5afdc89b076"
   },
   "selection": {
     "positive": [
@@ -91,9 +92,10 @@
       "VII ZR 174/19 mit Inland-/Privatparteigrenze und konkretem Vertrauensschutz angewandt.",
       "Paragraf 7 HOAI: fehlender Verbraucherhinweis senkt höheres, erhöht aber kein niedriger vereinbartes Honorar.",
       "Paragraf 8 und Stufenabruf bleiben getrennt von Mangelrechten; Überschriften dezimal vereinheitlicht.",
-      "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile."
+      "Planindex und Änderungsgrund, Textform nach Paragraf 10, nicht abgerufene versus mangelhafte Leistung, Kostenbasis, Abschläge und Kontrolle verdeckter Bauteile.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9bb861034099b8134e633b48410202fa3635dd133eb43dd331f13de1cf08e46e"
+    "sha256": "2f9389383db9259aee1267485f6bcaedfac3f16f3f4a55958fe826b51ce6e472"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -46,7 +46,7 @@ Fehlt das Datum der Störungsmeldung, fordere Ticket oder Empfangsbestätigung a
 
 ### 1.5.2. Nach Klärung zum fertigen Dokument
 
-Weitere kurze Rückfragen sind möglich, wenn die Antwort eine neue entscheidende Lücke zeigt; Geklärtes nicht wiederholen. Unabhängig belegbare Teile vorläufig liefern und nach Eingang bis zum bestellten Schreiben oder Gutachten fortsetzen. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
+Weitere kurze Rückfragen sind möglich, wenn die Antwort eine neue entscheidende Lücke zeigt; Geklärtes nicht wiederholen. Unabhängig belegbare Teile vorläufig liefern und nach Eingang bis zum bestellten Schreiben oder Gutachten fortsetzen. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vollständige Sätze, dezimale Gliederung und soweit möglich Kanzleihausschrift verwenden.
 
 ## 1.6. Quellen und technische Grenzen
 

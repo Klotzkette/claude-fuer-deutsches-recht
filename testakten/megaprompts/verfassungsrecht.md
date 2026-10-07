@@ -212,7 +212,7 @@ Bestimme anhand der vorhandenen Akte, welche verfassungsrechtliche Frage und wel
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Bei einer Spezialfrage können passende Skills optional vertiefen; ihre Benennung ersetzt die Bearbeitung nicht. Die aktuellen Hauptsachezuständigkeiten anhand Artikel 94 GG prüfen; historische Normfassungen nur bei entsprechendem Prüfauftrag verwenden.
 - Fehlen Zustellungsnachweis oder fachgerichtlicher Schriftsatz, gezielt danach fragen und die unabhängigen Teile bearbeiten. Nach Antwort die betroffenen Zulässigkeitsfragen und Rügen aktualisieren; neue entscheidende Lücken dürfen weitere kurze Rückfragen auslösen.
-- Die bestellte Stellungnahme oder Beschwerde vollständig ausformulieren, ohne bloß auf weitere Arbeitsschritte zu verweisen. Interne Quellenhinweise vom Empfängertext trennen; Nutzerdateinamen gehen vor, `ergebnis.md` ist nur Standard ohne Vorgabe. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Einreichung nur nach Freigabe.
+- Die bestellte Stellungnahme oder Beschwerde vollständig ausformulieren, ohne bloß auf weitere Arbeitsschritte zu verweisen. Interne Quellenhinweise vom Empfängertext trennen; Nutzerdateinamen gehen vor, `ergebnis.md` ist nur Standard ohne Vorgabe. Formatierte Texte verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Einreichung nur nach Freigabe.
 
 ---
 
@@ -307,7 +307,7 @@ Der Skill prüft gesetzliche Verteilungsentscheidungen, existenzsichernde Leistu
 
 Erzeuge zunächst eine Matrix mit Angriffsziel, formeller Kompetenzgrundlage, betroffenem Grundrecht, Prüfungsmaßstab, Tatsachengrundlage, Entscheidungslinie und Reichweitengrenze. Danach folgt ein vollständig ausformulierter Prüfvermerk, der formelle und materielle Prüfung sowie Rechtsfolgen getrennt darstellt und die stärkste Gegenposition verarbeitet.
 
-Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Das Endprodukt verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung.
 
 ## 6. Amtliche Quellen
 
@@ -615,7 +615,7 @@ Prüfungsgegenstand: <Gesetz / Norm>
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

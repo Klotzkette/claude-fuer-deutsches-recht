@@ -37,7 +37,7 @@ Lies die mitgelieferte [Fachreferenz](../../references/radiologie.md) sowie bei 
 
 # 5. Ausgabeformat
 
-Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei diesem Mangel neu formulieren. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen begründeten Text und dürfen reale Rechenwerte übersichtlich darstellen. Bei Markdown oder Chat nenne den Formatwunsch in einem getrennten Exporthinweis. Quellenprotokoll, offene Nachweise und technische Hinweise stehen außerhalb des versandfähigen Empfängertextes. Prüfe am Ende Produkt, konkrete Frist, Belegkonsistenz und noch entscheidende Lücke. Externer Versand, Antragstellung und Verzicht erfolgen nur mit konkretem Auftrag.
+Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei diesem Mangel neu formulieren. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen begründeten Text und dürfen reale Rechenwerte übersichtlich darstellen. Bei Markdown oder Chat nenne den Formatwunsch in einem getrennten Exporthinweis. Quellenprotokoll, offene Nachweise und technische Hinweise stehen außerhalb des versandfähigen Empfängertextes. Prüfe am Ende Produkt, konkrete Frist, Belegkonsistenz und noch entscheidende Lücke. Externer Versand, Antragstellung und Verzicht erfolgen nur mit konkretem Auftrag.
 
 # 6. Beispiele
 

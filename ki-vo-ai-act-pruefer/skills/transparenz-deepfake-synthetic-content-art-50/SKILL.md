@@ -45,7 +45,7 @@ Für den öffentlichen Begleittext nach Randnummern 131 bis 138 Informationszwec
 
 ## 5. Ausgabeformat
 
-Ausformulierter Hinweistext für den konkreten Kanal plus kurze Tabelle: Anbieterpflicht, Betreiberpflicht, technischer Nachweis, sichtbarer Hinweis, Ausnahme, Termin und Freigabelücke. Times New Roman 11 pt bei Enddokumenten, dezimale Gliederung; andernfalls Exporthinweis. Keine Veröffentlichung ohne Freigabe.
+Ausformulierter Hinweistext für den konkreten Kanal plus kurze Tabelle: Anbieterpflicht, Betreiberpflicht, technischer Nachweis, sichtbarer Hinweis, Ausnahme, Termin und Freigabelücke. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt bei Enddokumenten, dezimale Gliederung; andernfalls Exporthinweis. Keine Veröffentlichung ohne Freigabe.
 
 ## 6. Beispiele
 

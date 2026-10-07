@@ -41,7 +41,7 @@ Unterscheide Rechtsverlust der Objektgesellschaft von zusätzlichen Schäden der
 
 # 5. Ausgabeformat
 
-Ausformulierte Entscheidungsvorlage mit konkreter Empfehlung, begründeten Bedingungen und rechenbarer Anlage. Tabellen dürfen Zahlen ordnen, ersetzen aber nicht die rechtliche Würdigung. Keine Halbsätze oder Gesetzesskelette. Times New Roman 11 pt und dezimale Gliederung; bei Tabellen darf ein begründetes lesbares Tabellenlayout abweichen. Technische Hinweise außerhalb des Empfängertextes. Kein nicht durchgeführtes Bewertungsgutachten behaupten.
+Ausformulierte Entscheidungsvorlage mit konkreter Empfehlung, begründeten Bedingungen und rechenbarer Anlage. Tabellen dürfen Zahlen ordnen, ersetzen aber nicht die rechtliche Würdigung. Keine Halbsätze oder Gesetzesskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Tabellen darf ein begründetes lesbares Tabellenlayout abweichen. Technische Hinweise außerhalb des Empfängertextes. Kein nicht durchgeführtes Bewertungsgutachten behaupten.
 
 # 6. Beispiele
 

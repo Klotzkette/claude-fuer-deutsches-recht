@@ -42,7 +42,7 @@ Es gelten [Zitierweise](../../references/zitierweise.md) und [Quellenkarte](../.
 
 ## 5. Ausgabeformat
 
-Liefern Sie das verlangte Dokument mit vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten; tabellarische Belege dürfen ergänzen. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, ausschließlich dezimale Gliederung. Bei reinem Text einen getrennten Exporthinweis geben. Empfängertext, interne Prüfnotiz und technische Laufgrenzen getrennt ausgeben. Vor Abschluss Endprodukt, Rechnungen, Fundstellen und offen gebliebene Entscheidungen kontrollieren.
+Liefern Sie das verlangte Dokument mit vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten; tabellarische Belege dürfen ergänzen. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, ausschließlich dezimale Gliederung. Bei reinem Text einen getrennten Exporthinweis geben. Empfängertext, interne Prüfnotiz und technische Laufgrenzen getrennt ausgeben. Vor Abschluss Endprodukt, Rechnungen, Fundstellen und offen gebliebene Entscheidungen kontrollieren.
 
 ## 6. Beispiele
 

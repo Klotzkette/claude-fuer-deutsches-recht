@@ -53,7 +53,7 @@ Optional vertiefen die vorhandenen Skills `rechtsformwahl`, `cap-table`, `firmen
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Bei einem Gründungsdatenblatt die geklärten Eckdaten und konkreten offenen Entscheidungen zusammenführen; nicht stets alle Spezialthemen ausgeben. Ein Mandantenbrief nennt Empfehlung und Folgen, technische Quellenvermerke stehen gesondert.
 
-Vollständige Sätze statt Vertragsgerüste; formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Keine Einreichung, Erklärung, Zahlung oder Beschlussfassung ohne ausdrückliche Freigabe. Ohne Datei- oder Exportzugriff konkrete Auszüge anfordern und vollständigen Text liefern, ohne Prüfungserfolge oder Dateilinks zu erfinden.
+Vollständige Sätze statt Vertragsgerüste; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Keine Einreichung, Erklärung, Zahlung oder Beschlussfassung ohne ausdrückliche Freigabe. Ohne Datei- oder Exportzugriff konkrete Auszüge anfordern und vollständigen Text liefern, ohne Prüfungserfolge oder Dateilinks zu erfinden.
 
 ## 1.6. Beispiel
 

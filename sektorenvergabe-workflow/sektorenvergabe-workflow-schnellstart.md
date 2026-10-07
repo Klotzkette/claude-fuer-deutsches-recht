@@ -38,4 +38,4 @@ Primärquellen: [GWB](https://www.gesetze-im-internet.de/gwb/), [SektVO](https:/
 
 Schritt 7 greift ab Veröffentlichung, Schritt 10 schon vor Zuschlag. Bei Änderungen nur betroffene Schritte wiederholen. Übergabe je Schritt: fertiges Dokument und getrennte Notiz mit Projekt/Los, Quellenfassung, Entscheidung, offener Tatsache, Frist/Auslöser und Folgeschritt.
 
-Vollständige Sätze, Times New Roman 11 pt, dezimale Gliederung. Tabellen mit Einheiten und Rechenweg. Interne Fragen getrennt halten. Fehlende Datei/Funktion konkret benennen, bearbeitbare Teile liefern und nach Eingang fortsetzen. Nicht bei bloßer Analyse abbrechen.
+Vollständige Sätze, Kanzleihausschrift, dezimale Gliederung. Tabellen mit Einheiten und Rechenweg. Interne Fragen getrennt halten. Fehlende Datei/Funktion konkret benennen, bearbeitbare Teile liefern und nach Eingang fortsetzen. Nicht bei bloßer Analyse abbrechen.

@@ -95,9 +95,10 @@
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
-      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill."
+      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6ad09e5a69417b851fa7a3e6c81b75cba62d2f5baf184fd606f98311f57e01be",
+    "sha256": "12558cc8fc2fbe4c2f92c8c2ebaaa221a3c4acde2d5cb84dbd7e22b4a2bebfc4",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -110,9 +111,10 @@
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
       "Mangelerscheinung gegenüber Ursache, Beweissicherung vor Veränderung, Planfassungen und Ressourcenverfügbarkeit, Anordnungsbefugnis, Nachtragsabgrenzung sowie synchronisierte Abnahme- und Zahlungsdaten.",
       "Planerhaftung nach VII ZR 119/24 differenziert; Abnahmefiktion nach § 640 Abs. 2 BGB samt Textformhinweis, geringfügiger Mangelangabe und eigenem Verbraucherpfad korrigiert. Nicht verifizierten VII ZR 25/13 nicht mehr als Beleg ausgegeben.",
-      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill."
+      "Planerhaftung 2026 mit Direktlink im Mini; Vertreterabnahme 2026 samt Altvertrags- und Verjährungsgrenze im Mini, Werkstatt und Abnahmeskill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ea387f4bbf83f86262feec2df9516d415dcfb064c4cf35e72c4fc64e91e40d73",
+    "sha256": "2a99babb205d453fae8cbe0245b96d639dbf1d743543c528723fa6cc206a8357",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -125,12 +127,13 @@
       "VII ZR 33/19 mit möglichem Ersatzauftrag, Unternehmerbeweis und zeitlicher Grenze operativ eingebaut.",
       "VII ZR 46/17 auf nicht beseitigtes Werk und Vorschuss mit Beseitigungsabsicht bezogen.",
       "Hauptproblem und zugeordneter Skill bei Füllaufträgen und Abgrenzung zur Kündigungsabrechnung abgestimmt.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-bau-architektenrecht/fachanwalt-bau-architektenrecht-hauptproblem.md",
-    "prompt_sha256": "f0776501b42f0991eff37efab72c9a7d3015ce386e1b5a0f1b206de52286ed34",
+    "prompt_sha256": "e45aa72a69dd3923dcb6622efcae8a542b37df721ce8498dfe4b2f1407ed8e22",
     "skill_path": "fachanwalt-bau-architektenrecht/skills/bauzeitentschaedigung-vorhaltung-und-folgezeiten/SKILL.md",
-    "skill_sha256": "c1bb1d3f7aa7512d9b2e4ae29426a746f18e9424d17ce1646ccf5178f85ea60c"
+    "skill_sha256": "0cd768c4ab3a9ebb5bcb65fd5432b5c0b7d650f219dbf4a4dd606e99f8cc8c5c"
   },
   "selection": {
     "positive": [

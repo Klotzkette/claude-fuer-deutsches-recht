@@ -168,7 +168,7 @@ Optionale Vertiefungen sind die vorhandenen Versorgungsskills, etwa `pensionieru
 
 Normen in der maßgeblichen Bundes- oder Landesfassung amtlich prüfen. Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und belegter Passage zitieren. Interne Quellenprüfung und Recherchegrenzen gesondert notieren, nicht in den Mandantenbrief übernehmen. Materielle und verfahrensrechtliche Voraussetzungen bleiben trotz verfügbarer Akte eigenständig zu prüfen.
 
-Externe Einreichung, Aktenanforderung oder Kommunikation nur nach ausdrücklicher Freigabe. Nur vorhandene Unterlagen und Werkzeuge nutzen, fehlende Seiten benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Link erfinden. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.
+Externe Einreichung, Aktenanforderung oder Kommunikation nur nach ausdrücklicher Freigabe. Nur vorhandene Unterlagen und Werkzeuge nutzen, fehlende Seiten benennen und unabhängige Teile weiterbearbeiten. Ohne Export vollständigen Text liefern, keinen Link erfinden. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis.
 
 ---
 

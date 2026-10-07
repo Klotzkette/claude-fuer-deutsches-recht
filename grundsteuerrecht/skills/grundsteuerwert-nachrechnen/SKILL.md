@@ -37,7 +37,7 @@ Paragrafen 230, 247 und 249 bis 257 BewG sowie Anlagen 36 bis 41 nur soweit eins
 
 ## 5. Ausgabeformat
 
-Liefere eine nachrechenbare Tabelle und einen ausformulierten Befund mit Änderungsbedarf und gesonderter Beleglücke. Nicht nur „prüfen“, sondern die Rechnung tatsächlich ausführen. Kein Skelett. Times New Roman 11 pt und dezimale Gliederung bei Textdokumenten; Tabellen dürfen für Lesbarkeit abweichen. Ohne Tabellenexport genügt eine vollständige Tabelle im Text.
+Liefere eine nachrechenbare Tabelle und einen ausformulierten Befund mit Änderungsbedarf und gesonderter Beleglücke. Nicht nur „prüfen“, sondern die Rechnung tatsächlich ausführen. Kein Skelett. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei Textdokumenten; Tabellen dürfen für Lesbarkeit abweichen. Ohne Tabellenexport genügt eine vollständige Tabelle im Text.
 
 ## 6. Beispiele
 

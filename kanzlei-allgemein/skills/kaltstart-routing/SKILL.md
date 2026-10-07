@@ -40,7 +40,7 @@ Rechnungen, UStVA, Lohn- und Sozialversicherungsmeldungen nur im beauftragten Um
 
 Bei Einrichtungsauftrag ein verständliches Kanzleiprofil mit den tatsächlich vereinbarten Abläufen liefern; offene Entscheidungen mit ihrer Auswirkung nennen. Kein Pflichtpaket aus Ampeln, „Turbo“-Regeln und allen denkbaren Checklisten. Bei Einzelauftrag stattdessen die bestellte Rechnung, den Brief, Fristenvermerk oder die Versandvorbereitung ausarbeiten.
 
-Fehlt eine entscheidende Freigabe oder Angabe, belastbaren Teil vorläufig liefern. Nach Antwort den betroffenen Ablauf oder Text aktualisieren und das bestellte Ergebnis abschließen. Nutzerdateinamen beachten; vollständige Sätze und bei formatierten Dokumenten möglichst Times New Roman 11 pt sowie dezimale Gliederung verwenden.
+Fehlt eine entscheidende Freigabe oder Angabe, belastbaren Teil vorläufig liefern. Nach Antwort den betroffenen Ablauf oder Text aktualisieren und das bestellte Ergebnis abschließen. Nutzerdateinamen beachten; vollständige Sätze und bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt sowie dezimale Gliederung verwenden.
 
 Tragende Rechtsquellen amtlich prüfen, Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Aussagegehalt. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus und technische Grenzen getrennt vom Mandantenbrief halten.
 

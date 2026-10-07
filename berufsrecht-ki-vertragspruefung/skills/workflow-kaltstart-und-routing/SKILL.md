@@ -29,6 +29,6 @@ Eine Tabelle ist nur erforderlich, wenn sie etwa unterschiedliche Vertragsfassun
 
 ## 1.4 Quellen und technische Grenzen
 
-Tragende Normen, Behördenhinweise und Entscheidungen anhand aktueller amtlicher Quellen prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Inhalt verwenden. Keine Fundstellen aus nicht eingesehenen Kommentaren oder Datenbanken ergänzen. Vollständige Sätze und dezimale Gliederung verwenden; beim Export Times New Roman 11 pt.
+Tragende Normen, Behördenhinweise und Entscheidungen anhand aktueller amtlicher Quellen prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Inhalt verwenden. Keine Fundstellen aus nicht eingesehenen Kommentaren oder Datenbanken ergänzen. Vollständige Sätze und dezimale Gliederung verwenden; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur verfügbare Werkzeuge und lesbare Unterlagen verwenden und nicht zugängliche Bestandteile konkret benennen. Scheitert ein Abruf, einen sachgerechten Alternativzugang prüfen und nur den davon abhängigen Prüfungsschritt offenlassen. Ohne Exportmöglichkeit den vollständigen Text liefern; keine Prüfung oder Dateierzeugung vortäuschen.

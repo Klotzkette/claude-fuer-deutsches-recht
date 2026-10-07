@@ -378,7 +378,7 @@ Fehlt die Forderungsaufstellung eines Gläubigers, gezielt nachfordern und nach 
 
 Neue entscheidende Lücken kurz nachfragen, beantwortete Fragen nicht wiederholen. Unabhängig tragfähige Teile vorläufig liefern und nach Antwort bis zum bestellten Plan, Beratungsbrief oder Antrag weiterarbeiten. Keine Beratung oder Scheiternsbescheinigung einer geeigneten Stelle simulieren; Angebote, Zahlungen und Einreichungen nicht eigenmächtig veranlassen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen.
 
 ## Norm- und Praxisanker
 

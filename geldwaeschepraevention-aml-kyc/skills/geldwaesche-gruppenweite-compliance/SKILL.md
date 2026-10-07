@@ -37,7 +37,7 @@ GwG Paragraf 9, Paragraf 17, Paragraf 47 und [Rechtsstand](../../references/rech
 
 ## 5. Ausgabeformat
 
-Ausformulierte Verantwortungs- und Zugriffsvorlage mit Einheit, Pflicht, Information, zulässigem Empfänger und Kontrollnachweis. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierte Verantwortungs- und Zugriffsvorlage mit Einheit, Pflicht, Information, zulässigem Empfänger und Kontrollnachweis. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 

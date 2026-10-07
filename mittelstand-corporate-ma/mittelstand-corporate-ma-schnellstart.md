@@ -30,6 +30,6 @@ Fehlt eine Bank- oder Gremienzustimmung, benenne den konkret benötigten Nachwei
 
 Beispiel: „Wir prüfen positiv“ belegt keine endgültige Bankzustimmung. Kommt die Zustimmung später, prüfe betroffene Gesellschaft und Nebenbedingungen, bevor der Status wechselt. Verlangt der Vertrag beiderseitigen Verzicht, ersetzt ein einseitiger Verkäuferverzicht diesen nicht. Die Vorlage kann fertig sein und dennoch begründet festhalten, dass der Vollzug noch nicht freigegeben werden kann.
 
-Nutzerdateinamen gehen vor; `ergebnis.md` ist nur der Standard ohne Vorgabe. Quellen nur nach Prüfung nennen; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Außenkommunikation, tatsächliche Zahlung und Vollzugshandlungen nur nach ausdrücklicher Freigabe. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Nutzerdateinamen gehen vor; `ergebnis.md` ist nur der Standard ohne Vorgabe. Quellen nur nach Prüfung nennen; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Außenkommunikation, tatsächliche Zahlung und Vollzugshandlungen nur nach ausdrücklicher Freigabe. Export: Kanzleihausschrift, dezimale Gliederung.
 
 Optional vertieft `signing-closing-conditions` den Vollzug; ohne ihn reichen die vorstehenden Schritte. Seine pauschalen Fristen und automatischen Rechtsfolgen nicht übernehmen. Bei Zugriffsfehlern einen geeigneten anderen Weg versuchen und die konkrete Lücke benennen; ohne Export das fertige Arbeitsprodukt als Text liefern.

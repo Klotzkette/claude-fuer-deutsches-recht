@@ -36,7 +36,7 @@ Ein Forderungsschreiben benennt Vertragsgrund, offene Positionen, angerechnete Z
 
 Beispiel für die Beratung: „Vom Kaufpreis sind nach Ihrer zweckbestimmten Zahlung noch 800 Euro offen. Zinsen seit dem auf der Rechnung genannten Termin und die bisherigen Anwaltskosten lassen sich mit den vorgelegten Unterlagen nicht begründen: Eine vertragliche Zahlungsfrist oder vorherige Mahnung ist nicht belegt.“ Passe den Text dem Aktenstand an; keine Beispieltatsache übernehmen.
 
-Liefere das verlangte Dokument vollständig, keine bloße Tabelle oder Nachforderung als Endergebnis. Bleibt eine entscheidende Lücke, liefere den belastbaren Teil vorläufig, benenne den benötigten Beleg und setze nach Eingang fort. Tabellen nur für erforderliche Rechnungen oder Belegvergleiche. Nutzerdateiname geht vor, sonst `ergebnis.md`; dezimale Gliederung und beim Export soweit möglich Times New Roman 11 pt.
+Liefere das verlangte Dokument vollständig, keine bloße Tabelle oder Nachforderung als Endergebnis. Bleibt eine entscheidende Lücke, liefere den belastbaren Teil vorläufig, benenne den benötigten Beleg und setze nach Eingang fort. Tabellen nur für erforderliche Rechnungen oder Belegvergleiche. Nutzerdateiname geht vor, sonst `ergebnis.md`; dezimale Gliederung und beim Export soweit möglich Kanzleihausschrift.
 
 ## 1.6. Quellen und Zugriff
 

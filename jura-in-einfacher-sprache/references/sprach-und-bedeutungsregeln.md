@@ -45,7 +45,7 @@ Einfache Sprache ist nicht Leichte Sprache. Bei Bedarf weiter vereinfachen, unte
 
 Eine Lesefassung wird außerhalb ihres Textes als solche bezeichnet. Sie ändert das Original nicht. Ein neuer Brief enthält Absender, Empfänger, Datum, Bezug, Anliegen, nötige Begründung und Namen. Fehlende Pflichtangaben sichtbar markieren. Kein Verzicht, Vergleich, Schuldanerkenntnis oder Empfangsbekenntnis ohne bestätigten Willen.
 
-Ausformulierungspflicht: vollständige Sätze statt leerer Satzgerüste. Formatstandard für Dokumente: Times New Roman, 11 pt, dezimale Gliederung. Bei Lesebedarf eine größere Schrift begründet wählen. Bei reiner Chat-Ausgabe keine nicht erzeugte Datei oder Schriftformatierung behaupten. Hinweise zum Export stehen außerhalb des Empfängertextes.
+Ausformulierungspflicht: vollständige Sätze statt leerer Satzgerüste. Formatstandard für Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Bei Lesebedarf eine größere Schrift begründet wählen. Bei reiner Chat-Ausgabe keine nicht erzeugte Datei oder Schriftformatierung behaupten. Hinweise zum Export stehen außerhalb des Empfängertextes.
 
 ## 1.7 Zwei Sprachrichtungen, derselbe Inhalt
 

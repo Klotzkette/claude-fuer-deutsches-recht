@@ -140,7 +140,7 @@ Prüfe die [MAR](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014
 
 Liefere das bestellte Dokument vollständig ausformuliert: Insidervermerk, Entscheidungsvorlage, Aufschubbegründung, Ad-hoc-Entwurf, Meldevorbereitung oder Behördenantwort. Kein obligatorisches Paket aus sämtlichen Ausgaben. Eine zeitliche Gegenüberstellung ist dort sinnvoll, wo Kenntnis und Handlung streitig sind; ihre internen Prüffelder sind keine Pflichtüberschriften des Empfängertexts.
 
-Prüfe vor Abschluss Instrument, Personen, Zeitpunkte, öffentliche Gegeninformationen, neue Antworten und die Übereinstimmung zwischen Begründung und Entwurf. Halte Recherchestatus und technische Grenzen in einer getrennten Arbeitsnotiz fest. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen, soweit möglich, Times New Roman 11 Punkt und dezimale Gliederung.
+Prüfe vor Abschluss Instrument, Personen, Zeitpunkte, öffentliche Gegeninformationen, neue Antworten und die Übereinstimmung zwischen Begründung und Entwurf. Halte Recherchestatus und technische Grenzen in einer getrennten Arbeitsnotiz fest. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen, soweit möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Veröffentlichung, Transaktion, Orderänderung, Stornierung, Behördenmeldung oder Kontaktaufnahme erfordern ausdrückliche Freigabe. Interne Fortsetzung und Fertigstellung nicht.
 

@@ -46,9 +46,10 @@
       "BFSG Paragraf 1 Absatz 3 Nummer 5 und BFSGV Paragrafen 12 und 19 konkret zugeordnet.",
       "III ZR 79/09 in die werkvertragliche Abhilfeprüfung integriert; keine behauptete BFSG-Rechtsprechung.",
       "Leerstart: Nutzerweg, Agentur-Nachbesserung oder Verbraucherantwort anbieten. Dateien: Protokolle still lesen und passenden Prüf- oder Briefauftrag klären. Klarer Auftrag: Befund oder Dokument ohne vorgetäuschten Live-Test erstellen.",
-      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren."
+      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e3ab28f8a550f27c6611676fcec597bf162d19e8b80a4d5e3bc67fe2a1b4e4df"
+    "sha256": "6ab29754ccdc50fbec146d383e6e829696aa35876ed0bebbc64a640f7a15f887"
   },
   "selection": {
     "positive": [
@@ -101,9 +102,10 @@
       "BFSG Paragraf 1 Absatz 3 Nummer 5 und BFSGV Paragrafen 12 und 19 konkret zugeordnet.",
       "III ZR 79/09 in die werkvertragliche Abhilfeprüfung integriert; keine behauptete BFSG-Rechtsprechung.",
       "Checkout-Nachtest, gesetzliche Ausnahme versus Vertrag, Agenturstreit und beschränkte Erklärung nach tatsächlichem Prüfumfang.",
-      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren."
+      "Gemeldete Escape-Korrektur führt zu Wiederholungstest samt Fokus; Vertragswortlaut verändert Nachbesserungsbegehren.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "854399a5263d867a29e06e580d36eefda4aafde1cad1129572dad7bb0828005a"
+    "sha256": "96531e63ac8ba833b5b07ea618fc0de18b59270de43dce1d50a34dfbf960fa3d"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

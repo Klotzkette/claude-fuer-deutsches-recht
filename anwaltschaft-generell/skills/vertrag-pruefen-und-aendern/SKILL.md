@@ -37,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständige, grammatikalisch saubere Ersatzklauseln und Dokumente; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Eine Synopse ergänzt bei Bedarf den vollständigen Text. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Markdown erhält einen getrennten Exporthinweis. Notwendige Platzhalter ersetzen nur fehlende Angaben, nicht die Rechtsfolge.
+Ausformulierungspflicht: vollständige, grammatikalisch saubere Ersatzklauseln und Dokumente; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Eine Synopse ergänzt bei Bedarf den vollständigen Text. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Markdown erhält einen getrennten Exporthinweis. Notwendige Platzhalter ersetzen nur fehlende Angaben, nicht die Rechtsfolge.
 
 ## 6. Beispiele
 

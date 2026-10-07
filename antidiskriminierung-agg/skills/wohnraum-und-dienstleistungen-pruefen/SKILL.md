@@ -27,7 +27,7 @@ BGH 29.01.2026, I ZR 129/25, hier anhand amtlicher Pressemitteilung 025/2026: ei
 
 ## 5. Ausgabeformat
 
-Ausformuliertes Anspruchs- oder Abhilfeschreiben mit richtigem Adressaten, Vorgang und konkretem Begehren. Grenzen und offene Belege separat. Times New Roman 11 pt, dezimale Gliederung; keine Halbsatzfassung.
+Ausformuliertes Anspruchs- oder Abhilfeschreiben mit richtigem Adressaten, Vorgang und konkretem Begehren. Grenzen und offene Belege separat. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine Halbsatzfassung.
 
 ## 6. Beispiel
 

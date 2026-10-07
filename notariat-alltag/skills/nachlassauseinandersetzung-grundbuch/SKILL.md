@@ -39,7 +39,7 @@ Nach Eingang eines Erbnachweises Namen, Quote, Verfügungsbefugnis und Vollmacht
 
 ## 5. Ausgabeformat
 
-Vollständiger Auseinandersetzungs- oder Übertragungsentwurf beziehungsweise bestimmter Grundbuchantrag zur notariellen Prüfung. Interne Quotenkontrolle und fehlende Nachweise getrennt halten. Times New Roman 11 pt, dezimale Gliederung; keine fingierte Erbscheinserteilung oder Einigung.
+Vollständiger Auseinandersetzungs- oder Übertragungsentwurf beziehungsweise bestimmter Grundbuchantrag zur notariellen Prüfung. Interne Quotenkontrolle und fehlende Nachweise getrennt halten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine fingierte Erbscheinserteilung oder Einigung.
 
 ## 6. Beispiel
 

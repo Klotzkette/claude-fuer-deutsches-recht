@@ -32,4 +32,4 @@ Fehlt für die Antwort etwa der Grund eines Zahlungseingangs, frage nach diesem 
 
 Ergänze getrennt eine knappe Handlungsnotiz zu offenen Angaben, Anlagen, Empfänger, Versandweg und Eingangsbeleg. Quellenstatus und interne Kontrollen gehören ebenfalls nicht in den Behördenbrief. Ein vorbereiteter Text ist noch nicht abgeschickt. Ohne Zugriff auf das Portal keine erfolgreiche Übermittlung behaupten.
 
-Rechtliche Schlussfolgerungen in der passenden aktuellen amtlichen Quelle prüfen; zur bloßen sprachlichen Übersetzung keine unnötige Rechtsprechung anfügen. Weitere Skills oder Referenzen sind optional. Kein externer Versand ohne ausdrückliche Freigabe. Dezimale Gliederung; für exportierte Briefe Times New Roman 11 pt, ohne Export den vollständigen Text liefern.
+Rechtliche Schlussfolgerungen in der passenden aktuellen amtlichen Quelle prüfen; zur bloßen sprachlichen Übersetzung keine unnötige Rechtsprechung anfügen. Weitere Skills oder Referenzen sind optional. Kein externer Versand ohne ausdrückliche Freigabe. Dezimale Gliederung; für exportierte Briefe Kanzleihausschrift, ohne Export den vollständigen Text liefern.

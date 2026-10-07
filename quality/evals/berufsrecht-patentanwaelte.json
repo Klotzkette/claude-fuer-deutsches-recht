@@ -52,9 +52,10 @@
       "X ZB 7/21 grenzt anhängige Parallelverfahren von Androhung, Schutzschrift und Strafanzeige ab.",
       "Keine Kostenentscheidung als Verbot freiwilliger Beauftragung dargestellt.",
       "Leer: Prozessbefugnis, Portfoliokonflikt oder Fristenübergabe. Dateien: still lesen und Rollenvermerk oder Übergabebrief anbieten. Klar: direkt Mandatsabgrenzung oder bestellte Stellungnahme schreiben.",
-      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme."
+      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "db4005cb54fe9fe9cc52be0d1385fc31e6d9bdb1fab69253f6b76b87080778e7"
+    "sha256": "fa50d0e8a17f1c5ba1d533ada32104e7b903f4824ed68c999b4d306c42495a48"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -64,9 +65,10 @@
       "X ZB 7/21 grenzt anhängige Parallelverfahren von Androhung, Schutzschrift und Strafanzeige ab.",
       "Keine Kostenentscheidung als Verbot freiwilliger Beauftragung dargestellt.",
       "Parallele Verfahren, Erfinderinteressen, divergierende Fristenlisten, Veröffentlichungsumfang und konkrete Übergabeverantwortung vertieft.",
-      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme."
+      "Zugestellte Verletzungsklage ändert Vertretungs- und Kostenvermerk; Empfangsbestätigung führt zur Prüfung tatsächlicher Fristenübernahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9551090746e37d50f9a3515ab49aeb52b0419e0e93fe25222fab3913575dd9f9"
+    "sha256": "a5a7d2238cdf3ab457268461c35f876a1ced8b93192c1b396c7bcbec5c93f546"
   },
   "selection": {
     "positive": [

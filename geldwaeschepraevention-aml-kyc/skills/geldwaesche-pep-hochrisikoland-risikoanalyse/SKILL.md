@@ -33,7 +33,7 @@ Nach Paragraf 15 erforderliche Informationen, Zustimmung der Führungsebene und 
 
 ## 5. Ausgabeformat
 
-Vollständiger Risikovermerk mit geprüfter Person, Quelle, Merkmal, konkreter Zusatzmaßnahme und verantwortlicher Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Sanktionsfrage und Verdachtstatsache in eigenen Absätzen.
+Vollständiger Risikovermerk mit geprüfter Person, Quelle, Merkmal, konkreter Zusatzmaßnahme und verantwortlicher Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Sanktionsfrage und Verdachtstatsache in eigenen Absätzen.
 
 ## 6. Beispiele
 

@@ -55,7 +55,7 @@ Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Pass
 
 Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Ohne konkreten Dokumentenauftrag genügt ein ausformulierter Vermerk zu Streitgegenstand, Frist, Beweislage und Empfehlung; nicht automatisch Mandatsvereinbarung, PKH-Antrag und Klage zusätzlich erstellen. Ein Beratungsbrief nennt Ergebnis und nächste Schritte verständlich, technische Quellen- und Zugriffshinweise stehen gesondert.
 
-Vollständige Sätze statt Stichwortskelette; Tabellen nur für notwendige Vergleiche oder Berechnungen. Dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt, sonst entsprechender Exporthinweis. Ohne Datei- oder Exportwerkzeuge arbeite mit bereitgestelltem Text, kennzeichne fehlende Belege und liefere keinen erfundenen Downloadlink.
+Vollständige Sätze statt Stichwortskelette; Tabellen nur für notwendige Vergleiche oder Berechnungen. Dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst entsprechender Exporthinweis. Ohne Datei- oder Exportwerkzeuge arbeite mit bereitgestelltem Text, kennzeichne fehlende Belege und liefere keinen erfundenen Downloadlink.
 
 ## 1.6. Beispiel
 

@@ -76,7 +76,7 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne V
 
 ## 1.11. Technische Grenzen
 
-Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Recherche oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Recherche oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Einzelankauf und kollidierende Rechte auflösen
 

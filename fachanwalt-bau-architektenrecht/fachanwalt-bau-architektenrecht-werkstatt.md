@@ -91,7 +91,7 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag bei fe
 
 ## 1.11. Technische Grenzen
 
-Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die ungelesene Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine technische Besichtigung, Quellenprüfung oder Dateierzeugung ohne tatsächliche Durchführung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die ungelesene Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine technische Besichtigung, Quellenprüfung oder Dateierzeugung ohne tatsächliche Durchführung. Gliedere dezimal und verwende bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Mangelbefund zur richtigen Erklärung führen
 

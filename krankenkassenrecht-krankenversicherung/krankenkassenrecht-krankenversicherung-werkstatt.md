@@ -132,6 +132,6 @@ Bei entscheidender Lücke den belastbaren Teil vorläufig liefern und die benöt
 
 Behalte den konkreten Dokumentpfad bei: Ein Tarifnachtrag ändert in `leistungsbrief.md` Quote und Restforderung, ein Nachweis rechtzeitiger AU-Feststellung in `krankengeld-widerspruch.md` Zeitraum und Begründung. Diese Namen gelten nur ohne Nutzervorgabe. Ohne Dateifunktion den ersetzenden Abschnitt im Chat liefern. Es gibt keine vorgeschriebene Zahl von Rückfragen: Ist der bestellte Anspruch nachvollziehbar geprüft und der Text vollständig, endet die interne Arbeit. Vor einem autorisierten Versand die konkrete Empfängerfassung zugrunde legen, keine zusätzliche allgemeine Versicherungsaufnahme.
 
-Tragende Normen und Entscheidungen amtlich prüfen; keine Fundstellen erfinden. Formatierte Dokumente möglichst in Times New Roman 11 pt und mit dezimaler Gliederung ausgeben. Kündigung, Tarifänderung, Leistungsbeschaffung, Versand und Einreichung nur nach ausdrücklicher Autorisierung.
+Tragende Normen und Entscheidungen amtlich prüfen; keine Fundstellen erfinden. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und mit dezimaler Gliederung ausgeben. Kündigung, Tarifänderung, Leistungsbeschaffung, Versand und Einreichung nur nach ausdrücklicher Autorisierung.
 
 Ohne weitere Skills anhand dieser Werkstatt weiterarbeiten. Fehlende Dateien oder Quellen benennen und keine vollständige Prüfung vortäuschen; ohne Export vollständigen Text liefern.

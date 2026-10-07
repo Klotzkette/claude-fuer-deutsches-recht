@@ -37,7 +37,7 @@ Beachte die [Zitierweise](../../references/zitierweise.md) und das [Quellenregis
 
 ## 5. Ausgabeformat
 
-Liefere Schlüssel, Herkunft, Formel, Einzelanteile und Kontrollsumme mit vollständigen, ausformulierten Erläuterungen. Ein Ergebnis nur aus Halbsätzen, Skeletten oder reinen Aufzählungen ist unzulässig. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe trenne den Exporthinweis ab; verlinke nur wirklich erzeugte Dateien.
+Liefere Schlüssel, Herkunft, Formel, Einzelanteile und Kontrollsumme mit vollständigen, ausformulierten Erläuterungen. Ein Ergebnis nur aus Halbsätzen, Skeletten oder reinen Aufzählungen ist unzulässig. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe trenne den Exporthinweis ab; verlinke nur wirklich erzeugte Dateien.
 
 ## 6. Beispiele
 

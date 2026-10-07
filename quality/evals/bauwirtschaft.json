@@ -308,9 +308,10 @@
       "Übergabe, Fristenliste und Abnahmemängel der Phase 8 zugeordnet; Phase 9 und eigener Buchhaltungsauftrag in der Kurzfassung abgegrenzt.",
       "Vertragsstation um die eigenständige RDG-Befugnisprüfung bei Individualklauseln für fremde Bauherren ergänzt; 7500-Byte-Grenze weiterhin eingehalten.",
       "Am 28.09.2026 VII ZR 42/22 anhand der amtlichen PDF und Randnummern 30 bis 41 präzisiert; frühere Leitsatzgrenze überholt.",
-      "VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet."
+      "VII ZR 119/24 im Haupt-Mini, Quellenreferenz und gezielten LPH-5-/LPH-8-Skills sowie deren eigenständigen Werkstatt-Prompts ergänzt. Die 100-seitige Hauptwerkstatt mit ihren DOCX-/PDF-Dateien blieb unverändert; keine neue Renderprüfung behauptet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a31cdb871e7a7d1cbca55bb939ab843def7c123821081ad6bc19dd4e0d0e5a93"
+    "sha256": "93b780540109aa67e5cac67f5927b1a3b010932f655f41f9a05570f5a8e377eb"
   },
   "workshop_review": {
     "reviewed_on": "2026-09-28",
@@ -324,9 +325,10 @@
       "20 amtlich geprüfte Entscheidungsanker mit gelesener Passage und Übertragungsgrenze.",
       "Unbeschlossene Verkaufsoption bleibt vom Vermietungsprojekt, Rechnungseingang und Zahlungsjournal getrennt.",
       "Vollständige 100-seitige Word-/PDF-Fassung; 29 vorhandene Skills erhalten aufgabengerechte Referenzpfade.",
-      "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden."
+      "Eigenständige Werkstatt nennt ausdrücklich Erfüllungsgehilfenfall und unmittelbares Bauherrnmandat; bestehende RDG-Regression nach Korrektur bestanden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "404744e75bd9bc0884ec6070b9fd482983dfaaf0be0b7cdae5d6c5b8a49ef253"
+    "sha256": "0fa01402562833daacbbae00ac2327b97975f5bff7011c3d5e396741c194bd99"
   },
   "focus_review": {
     "reviewed_on": "2026-09-28",
@@ -339,12 +341,13 @@
       "Technische Freigabe, Planrevision und rechtsgeschäftliche Beauftragung getrennt.",
       "Vertragsstrafenanker nicht als Verbot aller Klauseln oder Freigabe einer anderen Bezugsgröße.",
       "Phase 8 und 9 anhand der tatsächlich gelesenen Anlage 10 in der Kurzfassung konkretisiert; fachlich eigenständige Aufgaben nicht aus einem Phasenetikett abgeleitet.",
-      "Hauptprompt und Hauptskill prüfen bei fremden Rechtsangelegenheiten die Beratungsbefugnis, getrennt von Planervertrag und Vollmacht."
+      "Hauptprompt und Hauptskill prüfen bei fremden Rechtsangelegenheiten die Beratungsbefugnis, getrennt von Planervertrag und Vollmacht.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "bauwirtschaft/bauwirtschaft-hauptproblem.md",
-    "prompt_sha256": "5ae291ea025b1c6f5bfcbedc999c5d832771d51b9a8767b5d4751e550872f0e2",
+    "prompt_sha256": "6ad442ab693da76865726ddcd1f48a704b6ee7f111da87248e7d7ab17a830644",
     "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-    "skill_sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f"
+    "skill_sha256": "685faa5b0b0c1d407349571a99e78adf24e44101712b74aa6c1c2b806c2bc602"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",
@@ -1760,7 +1763,7 @@
   "skill_reviews": [
     {
       "skill_path": "bauwirtschaft/skills/bauprojekt-starten-und-arbeitsstand-fortfuehren/SKILL.md",
-      "sha256": "6715d35f88a9798d09fed3fab8deac274858fd3b69419e9bf5ae7e15c3cc9d7f",
+      "sha256": "685faa5b0b0c1d407349571a99e78adf24e44101712b74aa6c1c2b806c2bc602",
       "case_id": "projektstart-planrevision-fortsetzen",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1771,11 +1774,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektstart-planrevision-fortsetzen angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/projektziele-und-entscheidungsrahmen-festlegen/SKILL.md",
-      "sha256": "634720b4df66512de064394df52766076176d4a540bf002b3e93849efcc4c497",
+      "sha256": "ddd809c6a84dfb7bb7ef4ad58c24b93a6c39d89d67101b2d44c8795073db8ee9",
       "case_id": "projektziele-option-flachenerweiterung",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1786,11 +1792,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektziele-option-flachenerweiterung angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-phasen-und-planstaende-abgleichen/SKILL.md",
-      "sha256": "df65c12346ba22a045e655e25ab180c344f2077b90e6de606fb24302cbb73e21",
+      "sha256": "2d6aa710585c3a0df4f4ae958bcf2b8df4aaaa99b676158c09a3de9878fe99c2",
       "case_id": "hoai-phase-acht-neun-planreife",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1804,11 +1813,14 @@
         "Spätere Bewertung, Vorfristbegehung und Mitwirkung bei Sicherheitenfreigabe von der Besonderen Leistung der Mängelbeseitigungsüberwachung abgegrenzt; Fünfjahresgrenze nur auf Bewertung nach Buchstabe a bezogen.",
         "Betriebliche Buchhaltung und Zahlungsplan nicht als automatische Grundleistung der Objektüberwachung behandelt."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/baubudget-und-kostenprognose-fortschreiben/SKILL.md",
-      "sha256": "524d79f0537b820db2485dced84d41ecae5bb60eca85ac6b04c4f2e92046a909",
+      "sha256": "8249ebd48fb0ae62267ee8f11810749b9fd86478b62ca19f2738eddde79c2f9d",
       "case_id": "kostenprognose-ohne-doppelzahlungen",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1819,11 +1831,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für kostenprognose-ohne-doppelzahlungen angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/bauablauf-und-terminplan-fortschreiben/SKILL.md",
-      "sha256": "3913eac4b82782e40768b28357f0befced8d2b0668f8854a35bc630aed21aa5d",
+      "sha256": "e1c0015591907404f23498c634c3a6936bb8ab37c4072084ef9c2693f002018e",
       "case_id": "terminplan-fuenf-tage-zwei-puffer",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1834,11 +1849,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für terminplan-fuenf-tage-zwei-puffer angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/projektliquiditaet-und-zahlungsplan-erstellen/SKILL.md",
-      "sha256": "e9ad6507e9dbb5c19123b2784b69f3becc55b5ccb447bfdaf2257cb9370d69fb",
+      "sha256": "fc98dd06fe19102f4df635faf01b11df0263e2142768e1f5e0948719716a6689",
       "case_id": "liquiditaet-foerderung-nicht-zugesagt",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1849,11 +1867,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für liquiditaet-foerderung-nicht-zugesagt angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/vergabe-und-losbildung-vorbereiten/SKILL.md",
-      "sha256": "cff3987918f60c8b767d7988dd4210534b5f55638511d0b70accfc38ee2ad435",
+      "sha256": "bf262cbe4bc4b297339752f091bbe00a0e08db5d30ffaadb6d29e17acf4ea75b",
       "case_id": "vergabe-gesamtwert-losbildung",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1864,11 +1885,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für vergabe-gesamtwert-losbildung angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/leistungsverzeichnis-erstellen-und-pruefen/SKILL.md",
-      "sha256": "8a89fd4cb0c13029718db70ef9fd1cf01ebeaea9cf885aaa3340af6d2be659de",
+      "sha256": "5448ca85fde8f526fb05842bd83aa9f08f5ca8d4ac697feed93281c1018ce1ef",
       "case_id": "lv-wandflaeche-vertragsregel",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1879,11 +1903,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für lv-wandflaeche-vertragsregel angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/bauangebote-werten-und-vergabevorschlag-erstellen/SKILL.md",
-      "sha256": "610223bc47d7c58e102fad2a1fd3b7f938f1af910309f6b129666617dbad8767",
+      "sha256": "a0e69ca6c5f752af632aa49abad47707d945cfc56850f44cc6c3ea914b656fe5",
       "case_id": "angebotswertung-fehlende-pflichtleistung",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1894,11 +1921,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für angebotswertung-fehlende-pflichtleistung angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/bieterfragen-und-ruegen-bearbeiten/SKILL.md",
-      "sha256": "761c5cc9f87a5242bf9452382e6305800cf8460026b7092b4839b3a5b028b2f0",
+      "sha256": "066d89c2e1782b69dc16f1646c54218e697e4de2f99a7f71c78af5881df78936",
       "case_id": "bieterfrage-erkennbare-vorgabe-frist",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1909,11 +1939,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für bieterfrage-erkennbare-vorgabe-frist angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/bauvertrag-und-schnittstellen-ausformulieren/SKILL.md",
-      "sha256": "4cb4ca4e9cb031af87f87a3ca24100ea2329790630d4fc7f9e460208988c7461",
+      "sha256": "bb15c1779157cf550bd08b3fded2d7e7d5c2c2e4a8e871d42682a0bc9cdad897",
       "case_id": "vertrag-schnittstelle-vertragsstrafenklausel",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1924,11 +1957,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für vertrag-schnittstelle-vertragsstrafenklausel angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/bautagebuch-und-aufmass-fuehren/SKILL.md",
-      "sha256": "24bd62637494fb6de0c4e9a2c1b14b0665e53d99124f7322b4cad4ea778ed6cb",
+      "sha256": "24dc0378f43ee02e7d32fd695fd614a2c47c9f56f77e52704d9c9f310d84432b",
       "case_id": "bautagebuch-kumuliertes-aufmass",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1939,11 +1975,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für bautagebuch-kumuliertes-aufmass angelegt; nicht ausgeführt.",
         "Kommunikation nur vorbereiten und Nutzer auf Fachzuständigkeit hinweisen; keine eigenmächtige Kontaktaktion."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/behinderung-und-bauzeitfolgen-dokumentieren/SKILL.md",
-      "sha256": "7ab062156ace649c10c66c1cca41ee2cf82992c5ef38838f1660f94486d84c47",
+      "sha256": "a7ae88861da9905d0367d8e10373acf2426bdb28a099587d37ac5be28756b781",
       "case_id": "behinderung-nord-sued-kausalitaet",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1954,11 +1993,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für behinderung-nord-sued-kausalitaet angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/nachtraege-pruefen-und-vereinbaren/SKILL.md",
-      "sha256": "cb248baaa476ffb22156794ef48e9f23127d89e853848d8ae3df54a08b8dea7e",
+      "sha256": "cf2528e12534a9cbba4dccbad20d95cb0cb7d280646680017075998d1c8e72bc",
       "case_id": "nachtrag-altleistung-abziehen",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1969,11 +2011,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für nachtrag-altleistung-abziehen angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/baurechnungen-pruefen-und-zahlung-vorbereiten/SKILL.md",
-      "sha256": "255b5c5f24b005a35e59b68df1d9dcb186ac2e3698eab9efb5ea298fe73045cd",
+      "sha256": "adfc3b96d683a56d72eab0634a7f18be790d234924ca70ce8799b857f7a0f590",
       "case_id": "rechnung-kumuliert-netto-brutto",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1984,11 +2029,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für rechnung-kumuliert-netto-brutto angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/maengel-und-abnahme-bearbeiten/SKILL.md",
-      "sha256": "d80a6a4b2b30ea007e988cb9bc4ead7a9045f62f73c115724417fb63633e492e",
+      "sha256": "a273bf1b0984935d9c0fd3d3e9b6fa7fb6c75fb677f75a1b7040990a7b23f45e",
       "case_id": "maengel-abnahme-brandschutztor-offen",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -1999,11 +2047,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für maengel-abnahme-brandschutztor-offen angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/baubuchhaltung-und-belege-abgleichen/SKILL.md",
-      "sha256": "68267859ed98ef667e6981b80e8746bbe6ef6488fd16ae1d7d13e8de6ab31e51",
+      "sha256": "7852c0bffff195cc52a349da3ef29e321f82bb8e7ef0a5ab59bb81a23640494f",
       "case_id": "buchhaltung-sammelzahlung-dublette",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2017,11 +2068,14 @@
         "Bankbewegung muss mit ihrer vollständigen Aufteilung übereinstimmen; ungeklärte Differenzen bleiben sichtbar.",
         "Einbehalt und bestrittene Fälligkeit sind keine Zahlung; keine erfundenen Skontoausgleiche. Bestehende Steuerquellenlimits unverändert."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/nachunternehmer-und-sicherheiten-steuern/SKILL.md",
-      "sha256": "67096a001ad27f8cc9ce961b4a69c3c5bd3919a8fdac4047e6a00d595e77e840",
+      "sha256": "13580e39eb01d03250968bc60cc13e75d506542b72c8b0c2a22b98bc8f6eb07d",
       "case_id": "sicherheiten-ablosung-nicht-verdoppeln",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2032,11 +2086,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für sicherheiten-ablosung-nicht-verdoppeln angelegt; nicht ausgeführt.",
         "Quellenpflicht, entscheidende Rückfragen, Fortsetzung und Trennung von Entwurf und Außenhandlung im Text geprüft."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/projektbericht-und-entscheidungsvorlage-erstellen/SKILL.md",
-      "sha256": "3cc756bc267411f76932b06949c82671680ca853397254d7ae865f9a73d5d860",
+      "sha256": "5c95c70d14ad3e94215bf40cf1db4ad653327aee25b153dc7c5848fb1a7d0c0b",
       "case_id": "projektbericht-schichtentscheidung",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2047,11 +2104,14 @@
         "Individueller Sachverhalt und beobachtbare Sollkriterien für projektbericht-schichtentscheidung angelegt; nicht ausgeführt.",
         "Anweisung zur Benennung der konkreten Abweichung sprachlich korrigiert; kein ungeprüfter Freigabeautomatismus."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/uebergabe-und-gewaehrleistung-organisieren/SKILL.md",
-      "sha256": "30c067ade4f9bbf1b1fb798a5d12321265f77209568d10fda1ec8bfb10bc181b",
+      "sha256": "932ee83f1e3da8acfa513c0a9e1295a2f4765b8eb99d49184c4ea481d0d64720",
       "case_id": "uebergabe-getrennte-abnahmen-fristen",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2065,11 +2125,14 @@
         "Fünfjahresgrenze seit Abnahme für Bewertung nach Phase 9 Buchstabe a ausdrücklich von der Anspruchsverjährung getrennt.",
         "Keine automatische Sicherheitenfreigabe oder Erledigung allein durch Übergabeprotokoll; vorhandene Unterscheidung von Abnahme und Nutzung erhalten."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-1-grundlagen-und-planungsauftrag-klaeren/SKILL.md",
-      "sha256": "845e6c584ec211a16ff2ad9c8dac1bd1132503b2cf13c28e4be65596a681f14a",
+      "sha256": "d9068401ddc808c75f334128032cf1ff912863861d5ce5d053cb89d24d06c94e",
       "case_id": "hoai-1-nutzung-und-untersuchungsauftrag",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2081,11 +2144,14 @@
         "Fehlende Ortszugänglichkeit und Tragwerkskenntnis werden konkret benannt; der Bericht enthält keine erfundene Bestandsaufnahme, Tragfähigkeit oder Kostenschätzung des gesamten Umbaus.",
         "Die Rückfrage betrifft den tatsächlichen Nutzungs- und Entscheidungsbedarf; der Bericht endet mit einem konkreten nächsten Beschlussbedarf, nicht mit einer bloßen Aufgabenliste."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-2-vorplanung-und-varianten-entwickeln/SKILL.md",
-      "sha256": "7cbb0b6da898dbc52adf1fafc1c602fc0805e339b6711c453c8ef12238fa4383",
+      "sha256": "6dfa01b07506fcdda1f475747bf55b10d344100be38ab28416cbca1ee91a1082",
       "case_id": "hoai-2-varianten-gleiche-anforderung",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2097,11 +2163,14 @@
         "Telefonische Vorverhandlung, Bauvoranfrage, Vorbescheid und Genehmigung werden unterschieden. Aus der Äußerung des Bauamts entsteht keine Bauzulässigkeitsbestätigung.",
         "Der Bericht formuliert eine bedingte konkrete Variantenentscheidung mit Kosten-, Termin- und Fachprüfgrenzen; nach der Folgeantwort erfolgt kein neues allgemeines Projektinterview."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-3-entwurf-und-kostenberechnung-abstimmen/SKILL.md",
-      "sha256": "3793b91e2497758676977b580e22d079cc7bfb5457af15687fa1ff46642d5efe",
+      "sha256": "fcdb4b7ce84b17b96b0f71d34d5d64647ff2fde69ed7fc47eed8f834a67b8716",
       "case_id": "hoai-3-kostenberechnung-und-fachkollision",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2113,11 +2182,14 @@
         "Die Entscheidungsvorlage trennt den abstimmbaren Entwurfsstand vom offenen technischen Punkt und enthält eine gezielte Klärungsanforderung an die Fachplaner.",
         "Die Folgeantwort wird im bestehenden Vermerk verarbeitet; weder Genehmigung noch Ausführungsreife noch bereits erteilte Bauherrenfreigabe werden behauptet."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-4-genehmigungsplanung-und-nachforderungen-bearbeiten/SKILL.md",
-      "sha256": "bee0a43eeb5dc3e8e49d4e5022999ba1346c364ba82c7d78e76e153fadef81df",
+      "sha256": "b62a0fb8c110ca5fda8d1a95a3ad902beece64c289a0b6fa54a290c52aa64b87",
       "case_id": "hoai-4-nachforderung-planrevision-eingang",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2129,11 +2201,14 @@
         "Die Zustimmung zu einem Ortstermin wird nicht zur Nachbarzustimmung zum Vorhaben oder zum Verzicht auf Rechte umgedeutet.",
         "Der Antwortentwurf nennt vorhandene Anlage und offene Nachreichung konkret, enthält keine unzutreffende Erklärung vollständiger Unterlagen und wird nach der Folgeantwort ohne Neueinstieg fortgeschrieben."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-5-ausfuehrungsplanung-und-details-koordinieren/SKILL.md",
-      "sha256": "ede4047b2b9f52c53ce2eef33edd94bdfaea554cbb9cb13c7da78c82abd17c3f",
+      "sha256": "fd1d2f772cc825fc3dca878ee3188f864d965e3af0053c07541d14e3922d133c",
       "case_id": "hoai-5-detail-versand-und-montageplan",
       "reviewed_on": "2026-10-01",
       "method": "desk_review",
@@ -2145,11 +2220,14 @@
         "Die ausformulierte Nachricht benennt benötigte Angaben und Montagebezug, ohne selbst eine technische Dimensionierung oder eine erteilte Anweisung zu behaupten.",
         "Montageplanvergleich und erforderliche Fachnachweise werden getrennt; der Antwortstand wird in derselben Detailkennung fortgeführt statt alle Planungsphasen neu zu öffnen."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-6-leistungsverzeichnis-und-vergabeunterlagen-erstellen/SKILL.md",
-      "sha256": "f0adf53c2302bdfcaa88cfab54358879210d48068b6d711933733f36cb6f2acf",
+      "sha256": "d39502e6ef15b8fbc6fc83e74504b7800bcb7ca5a0ebe5c9c82357b8d2573334",
       "case_id": "hoai-6-lv-mengenbasis-und-kostengrenze",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2161,11 +2239,14 @@
         "Planerpreise bleiben interne Kostenansätze; ein leeres Unternehmer-Preisfeld wird weder zu einem Nullpreisangebot noch zum fehlenden Leistungsumfang.",
         "Die drei internen Anfragen begründen nicht automatisch die Zulässigkeit eines bestimmten öffentlichen Vergabeverfahrens; Phase 6 wird nicht mit Angebotswertung der Phase 7 vermischt."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-7-angebote-werten-und-vergabe-vorbereiten/SKILL.md",
-      "sha256": "6009abe637550c3cf2cf7e4b0ac55abeaca342ac09237e21fb1a941abd065caa",
+      "sha256": "e38f3eff6a72336d394736096e41879b68af2de60ab2589a1c929480bcc47121",
       "case_id": "hoai-7-preisspiegel-nicht-automatisch-zuschlag",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2178,11 +2259,14 @@
         "Die Folgeantwort bleibt demselben Angebot zugeordnet; keine neue Ausschreibung, keine geänderte Wertungsmatrix, keine behauptete Bindung durch einen schon erteilten Zuschlag.",
         "Planervertrag und Vollmacht ersetzen die Befugnis nach Paragrafen 3 und 5 RDG nicht. Keine freigabefertige Individualklausel ohne festgestellte Befugnis; Gestaltungsfrage für die unmittelbare Rechtsberatung des Bauherrn vorbereiten. Ein Anwalt als bloßer Erfüllungsgehilfe heilt den Verstoß nach BGH VII ZR 190/22 nicht. Technische und wirtschaftliche Vergabearbeit wird nicht pauschal abgebrochen."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-8-bauueberwachung-und-dokumentation-fuehren/SKILL.md",
-      "sha256": "6f25cf0643cf8fa3b18086103a07015aa7ab9af38916e30b0de159c914648aeb",
+      "sha256": "101067b1fbb400854322cde9eb56ff9781d6cabccda36166f1ca4945a7859c75",
       "case_id": "hoai-8-aufmass-vorzahlung-und-verdeckung",
       "reviewed_on": "2026-10-01",
       "method": "desk_review",
@@ -2194,11 +2278,14 @@
         "Die Anforderung benennt Detail C, abweichenden Tagesbericht B, unzureichenden Fotobefund und Kontrolle vor Verdeckung. Sie behauptet keine selbst beobachtete Mängelfreiheit und keinen eigenmächtig angeordneten Baustopp.",
         "Gemeinsames Aufmaß, Rechnungsprüfung und Zahlungsentscheidung bleiben getrennt; der neue Mengenbeleg wird im vorhandenen Vorgang fortgeschrieben."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "bauwirtschaft/skills/hoai-9-objektbetreuung-und-maengelverfolgung-organisieren/SKILL.md",
-      "sha256": "1f13a694fafcecb169b47d0dbfc0d69d7cc725a6d7b08c483db46a17e0bcc911",
+      "sha256": "7f16811674f19ecbb46f3c67393565e7efb49967292ca72318ed19ef9a883c84",
       "case_id": "hoai-9-spaetmangel-und-sicherheit",
       "reviewed_on": "2026-09-28",
       "method": "desk_review",
@@ -2210,14 +2297,17 @@
         "Das Kulanzangebot wird nicht ohne Prüfung zum Anerkenntnis, Neubeginn oder zur Hemmung. Zeitkritischer fachlicher und rechtlicher Klärungsbedarf wird konkret benannt.",
         "Die Aufnahme von unten beendet weder Ursachenklärung noch Mängelvorgang. Keine automatische Freigabe der 18000 EUR und keine unbeauftragte Überwachung späterer Sanierungsarbeiten; beide Schreiben sind ausformuliert."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     }
   ],
   "phase_workshop_reviews": [
     {
       "phase": 1,
       "path": "bauwirtschaft/bauwirtschaft-hoai-1-werkstatt.md",
-      "sha256": "9be926eb143d3066b5951bd74493777b9423ccc1ddec2daec048c9c513a5e101",
+      "sha256": "3fbfdb56c190af2186646b2e3ffc3fe8dd8bbb22bf3170413dcfae4b9508f73b",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "reason": "Grundlagenauftrag, Betreiberwunsch, Ortsbefund und noch nicht beauftragte Untersuchung fachlich getrennt. Das Ergebnis ist ein fortschreibbarer Grundlagenbericht mit gezieltem Nutzungszweig, nicht eine vorgezogene Entwurfsplanung.",
@@ -2226,7 +2316,7 @@
     {
       "phase": 2,
       "path": "bauwirtschaft/bauwirtschaft-hoai-2-werkstatt.md",
-      "sha256": "8b4af684dd5399b45b78a4d318efc4c168ab737a6bf26e30561f538ab014ba0e",
+      "sha256": "4bb14137daf70cc0fbc420893efbf6f60ce34754b52b967c2ea2db2f245f95f7",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "reason": "Vergleichbare Anforderungsbasis und identische Kostengrenze als Voraussetzung der Vorplanungsentscheidung geprüft. Die besondere Bauvoranfrage bleibt von der bloßen Vorverhandlung unterschieden.",
@@ -2235,7 +2325,7 @@
     {
       "phase": 3,
       "path": "bauwirtschaft/bauwirtschaft-hoai-3-werkstatt.md",
-      "sha256": "354b9303770f9760c6de81796cc487205d99eacdb8b0d5bf73d20391d399b8ce",
+      "sha256": "bf2bc4712e6a12ef8200dbdd560ed0845e58bb6a1aaf9ff8307630949ccad879",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "reason": "Entwurfsreife, integrierte Fachbeiträge, Kostenberechnung und Ausführungsfreigabe getrennt. Die Mengen- und Kostenfortschreibung muss bereits enthaltene Änderungen erkennen.",
@@ -2244,7 +2334,7 @@
     {
       "phase": 4,
       "path": "bauwirtschaft/bauwirtschaft-hoai-4-werkstatt.md",
-      "sha256": "5b085ebd5c3793ed828a228b5922827ae5e780ec717c2780e87ba8458209acf4",
+      "sha256": "716844df72d89aca98cf101f12daa9e865395e3df5d06f60e58ea42611af5a00",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "reason": "Nachforderungsziffer, Planrevision, Übermittlung und tatsächlicher Eingang werden getrennt geführt. Kein automatischer Genehmigungs- oder Nachbarzustimmungszweig aus bloßer Korrespondenz.",
@@ -2253,7 +2343,7 @@
     {
       "phase": 5,
       "path": "bauwirtschaft/bauwirtschaft-hoai-5-werkstatt.md",
-      "sha256": "860337cce4825b93169f6ae7ad7b54a874756d34cfb7143b9f8c72a18f0f509c",
+      "sha256": "0c7866de10cacfa9423f46b3acfe525074a9a6e905647182c697559473e74649",
       "reviewed_on": "2026-10-01",
       "method": "desk_review",
       "reason": "Detailstand, technischer Teilbefund und Versand sind getrennte Tatsachen. Die Ausführungsplanung endet nicht mit einer Dateiliste, sondern führt zur konkreten Klärung und kontrollierten Fortschreibung. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
@@ -2262,7 +2352,7 @@
     {
       "phase": 6,
       "path": "bauwirtschaft/bauwirtschaft-hoai-6-werkstatt.md",
-      "sha256": "8c43d5bec522fe85fd6276ab7a3150234d2db8bd0c287e7570f7ed88f9cabef7",
+      "sha256": "540c7544e5d0b52af85b62c53e64658c0e32034556079c3ce8fc6ddae89f8587",
       "reviewed_on": "2026-09-26",
       "method": "desk_review",
       "reason": "Ausführungsplanung, Menge, Langtext und Planerpreis sind als eigene Ausgangsdaten definiert. Leistungsgrenzen und besondere Verfahrensfragen bleiben sichtbar, während das LV konkret weiterbearbeitet wird. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
@@ -2271,7 +2361,7 @@
     {
       "phase": 7,
       "path": "bauwirtschaft/bauwirtschaft-hoai-7-werkstatt.md",
-      "sha256": "ef29d629a180d8bfb2bf922322793696c4396c367c6257ed6f08084ee9c2b13f",
+      "sha256": "a136e087ec941ddab10e51ba24d9e99038a2ebb426b754ac7968123e12050964",
       "reviewed_on": "2026-09-26",
       "method": "desk_review",
       "reason": "Preisspiegel, Wertbarkeit und Entscheidung werden getrennt; der Skill bearbeitet den Vergabevorschlag selbst. Angebotsergänzung wird nicht als allgemeines Reparaturrecht dargestellt. Die ergänzte Rollenprüfung nach Paragrafen 3 und 5 RDG und der gezielt geprüfte Skontoklausel-Anker wurden am 26.09.2026 redaktionell abgeglichen; keine Modellausführung.",
@@ -2280,7 +2370,7 @@
     {
       "phase": 8,
       "path": "bauwirtschaft/bauwirtschaft-hoai-8-werkstatt.md",
-      "sha256": "bb2ca716fbf4927696357e1fea4f99edffc46f96d5b4dd7dd801f6f4aed9715c",
+      "sha256": "c15d3ddeaa18300af53248d5bc71d1e5119588a24617e9d7d66944344a94479a",
       "reviewed_on": "2026-10-01",
       "method": "desk_review",
       "reason": "Tatsächlich bestätigte Mengen und tatsächliche Vorzahlungen werden nachgerechnet. Dokumentensichtung ersetzt keine Ortskontrolle; unabhängige Rechnungsteile können trotz offener Anschlussprüfung fortgeführt werden. Neuer gezielter Quellenabgleich: VII ZR 119/24 zu fremder Vorplanung und Koordinationsverantwortung; übriger Prüfstand bleibt bestehen.",
@@ -2289,7 +2379,7 @@
     {
       "phase": 9,
       "path": "bauwirtschaft/bauwirtschaft-hoai-9-werkstatt.md",
-      "sha256": "f997dee4d25b4f1e64c58d071437fd042c44f4b14430a7c11bc1fea3c7c8df0f",
+      "sha256": "9cef594ef5e4db4a603fb996bbb77e9c721abab82023cb7af85286abd2abbd76",
       "reviewed_on": "2026-09-25",
       "method": "desk_review",
       "reason": "Abnahmemangel, späterer Befund, Bewertungszeitraum, Anspruchsfrist und besondere Sanierungsüberwachung fachlich getrennt. Sicherheitenfreigabe bleibt eine belegabhängige Mitwirkung, keine automatische Erledigung.",

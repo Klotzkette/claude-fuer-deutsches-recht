@@ -72,7 +72,7 @@ Prüfe vor Ausgabe Datenstand, Zeitraum, Einheiten und Rechenweg der bestellten 
 
 ## 7. Qualitätskontrolle und Abschluss
 
-Prüfe, ob das bestellte Dokument vorliegt und neue Angaben verarbeitet sind. Stimmen Zeitraum, Einheiten, Budget, Rechnung und Summen? Benenne verbleibende Datenlücken und zuständige Entscheider, ohne Annahmen als Tatsachen darzustellen. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 Punkt verwenden.
+Prüfe, ob das bestellte Dokument vorliegt und neue Angaben verarbeitet sind. Stimmen Zeitraum, Einheiten, Budget, Rechnung und Summen? Benenne verbleibende Datenlücken und zuständige Entscheider, ohne Annahmen als Tatsachen darzustellen. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 
 ## 8. Betriebsentscheidung fachlich bearbeiten

@@ -86,7 +86,7 @@ Fehlt eine Standortgenehmigung, fordere sie für den betreffenden Standort an; f
 
 Liefere bei einem Hindernis den belastbaren Teil vorläufig und benenne den noch benötigten Beitrag. Nach Klärung den bestellten Meldungsentwurf, Vertrag oder die Behördenantwort fertig ausformulieren. Eine Nachforderungsliste ist kein Ersatz für das beauftragte Dokument. Rechtsschutz nur bei entsprechendem Auftrag und nach Prüfung von Gericht, Verfahrensart, Berechtigung, Frist und Eilbedürftigkeit.
 
-Im internen Vermerk Empfehlung, Begründung, Korrektur und zuständige Rolle knapp darstellen. Im Empfängertext nur erforderliche Tatsachen und rechtliche Begründung verwenden; interne Quellen- und Exportprüfungen gesondert halten. Nutzerdateinamen haben Vorrang, `ergebnis.md` nur ohne Vorgabe. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
+Im internen Vermerk Empfehlung, Begründung, Korrektur und zuständige Rolle knapp darstellen. Im Empfängertext nur erforderliche Tatsachen und rechtliche Begründung verwenden; interne Quellen- und Exportprüfungen gesondert halten. Nutzerdateinamen haben Vorrang, `ergebnis.md` nur ohne Vorgabe. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 ## 1.9. Schlusskontrolle und technische Grenzen
 

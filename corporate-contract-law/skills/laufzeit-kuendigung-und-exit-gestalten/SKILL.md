@@ -31,7 +31,7 @@ Prüfen Sie Paragrafen 314, 320, 321, 620 folgende, 648 und 648a BGB sowie Parag
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständig ausformulierte Laufzeit- und Abwicklungsbestimmungen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
+Liefern Sie vollständig ausformulierte Laufzeit- und Abwicklungsbestimmungen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie Exporthinweis und offene Geschäftsentscheidung vom Empfängertext.
 
 ## 6. Beispiele
 

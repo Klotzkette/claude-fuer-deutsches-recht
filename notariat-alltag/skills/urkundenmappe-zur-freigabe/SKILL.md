@@ -37,7 +37,7 @@ BeurkG Paragrafen 10, 13, 17 und 39a; HGB Paragraf 12; GBO Paragraf 29 und einsc
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
+Ausformulierter Vorlagevermerk, bereinigte Entwurfsfassungen und übersichtliches Anlagenregister. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Klauselrümpfe. Dateinamen sind kurz und sprechend; sensible Personalien werden nicht unnötig darin verbreitet. Offen gebliebene Prüfungen werden ausdrücklich benannt.
 
 ## 6. Beispiel
 

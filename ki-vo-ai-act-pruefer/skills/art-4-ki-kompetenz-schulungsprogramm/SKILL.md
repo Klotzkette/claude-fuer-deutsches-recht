@@ -35,7 +35,7 @@ Nutze Einweisungen, Rollenbeschreibungen, Vorfälle und Freigaberegeln. Erhebe n
 
 ## 5. Ausgabeformat
 
-Ausformulierter betriebsbezogener Maßnahmenplan mit Rollentabelle. Förderpflicht, freiwillige Organisationsentscheidung und gesonderte Fachpflicht klar beschriften. Keine leeren Schulungsraster. Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Keine personenbezogene Leistungsbewertung ohne Auftrag.
+Ausformulierter betriebsbezogener Maßnahmenplan mit Rollentabelle. Förderpflicht, freiwillige Organisationsentscheidung und gesonderte Fachpflicht klar beschriften. Keine leeren Schulungsraster. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Keine personenbezogene Leistungsbewertung ohne Auftrag.
 
 ## 6. Beispiele
 

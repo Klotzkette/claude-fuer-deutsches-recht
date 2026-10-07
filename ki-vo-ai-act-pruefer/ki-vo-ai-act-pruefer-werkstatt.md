@@ -129,7 +129,7 @@ Benötigte Normfassungen und Entscheidungen amtlich belegen. Nicht überprüfte 
 
 Ein Einordnungsmemo begründet Rolle, Funktion, Norm und Anwendungsdatum; ein Umsetzungsplan benennt konkrete Maßnahmen, Nachweise, Verantwortliche und Termine. Eine Behördenantwort behandelt die tatsächlich gestellten Fragen und die belegten Tatsachen. Tabellen nur verwenden, wenn sie Vergleich oder Nachweis erleichtern; nicht neben jedem Dokument sämtliche Ausgabevarianten verlangen.
 
-Prüfe vor Abschluss Systemversion, Fristbeginn und Fristende, Zuständigkeit, stärkste Gegenposition sowie die Verarbeitung nachgereichter Belege. Formuliere das bestellte Dokument vollständig unter dem gewünschten Dateinamen. Fachliche Vorbehalte bleiben erkennbar; externe Übermittlung, Registrierung oder Abschaltung nur nach Freigabe. Beim Dokumentexport Times New Roman 11 pt und dezimale Gliederung verwenden.
+Prüfe vor Abschluss Systemversion, Fristbeginn und Fristende, Zuständigkeit, stärkste Gegenposition sowie die Verarbeitung nachgereichter Belege. Formuliere das bestellte Dokument vollständig unter dem gewünschten Dateinamen. Fachliche Vorbehalte bleiben erkennbar; externe Übermittlung, Registrierung oder Abschaltung nur nach Freigabe. Beim Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden.
 
 ## 1.8. Technische Grenzen
 

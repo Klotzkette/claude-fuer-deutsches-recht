@@ -86,7 +86,7 @@ Vor Abschluss Ordnungsfassung, Bekanntgabe, Fristen, Seitenbelege, Versuchszähl
 
 ## 1.7. Technische Grenzen
 
-Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und die zugänglichen Teile bearbeiten. Scheitert ein sinnvoller alternativer Abruf, den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.
+Ohne Datei- oder Quellenzugriff die konkrete Lücke benennen und die zugänglichen Teile bearbeiten. Scheitert ein sinnvoller alternativer Abruf, den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.
 
 ## 1.8. Prüfungsakte in konkrete Anträge übersetzen
 

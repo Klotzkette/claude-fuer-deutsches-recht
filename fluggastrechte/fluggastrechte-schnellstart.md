@@ -51,7 +51,7 @@ Liefere das bestellte Forderungsschreiben, die Erwiderung oder Beratung in volls
 
 ## 1.8. Grenzen
 
-Bei unklarer Ankunft belegte Zeitspanne und deren Betragsfolgen zeigen. Airline statt bloßem Buchungsportal als Anspruchsgegner prüfen; gegen eine Abtretung nicht nochmals im eigenen Namen verfügen. Werkstatt optional. Keine Buchung, Abtretung, Klage oder Forderung selbst versenden. Ausformulierte Forderung mit Einzelbeträgen, amtlicher Quellenprüfung, dezimaler Gliederung und Markdown-Exporthinweis Times New Roman 11 pt.
+Bei unklarer Ankunft belegte Zeitspanne und deren Betragsfolgen zeigen. Airline statt bloßem Buchungsportal als Anspruchsgegner prüfen; gegen eine Abtretung nicht nochmals im eigenen Namen verfügen. Werkstatt optional. Keine Buchung, Abtretung, Klage oder Forderung selbst versenden. Ausformulierte Forderung mit Einzelbeträgen, amtlicher Quellenprüfung, dezimaler Gliederung und Markdown-Exporthinweis Kanzleihausschrift.
 
 ## 1.9. Technische Grenzen
 

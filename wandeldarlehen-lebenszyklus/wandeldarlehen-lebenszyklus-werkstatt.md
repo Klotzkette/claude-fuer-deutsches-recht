@@ -108,7 +108,7 @@ Stimme bei beauftragter Paketverteilung Empfänger, Fassungsstand und Anlagen au
 
 Kontrolliere vor Abschluss Vertragsdefinitionen, Rechenparameter, Quoten, Beschlussinhalt und Vollzugsnachweise auf Widersprüche. Neue Antworten müssen in allen betroffenen Dokumenten verarbeitet sein. Bleibt eine entscheidende Lücke, liefere den bearbeitbaren Teil mit konkreter Nachforderung und setze nach ihrer Klärung bis zum bestellten Ergebnis fort; bereits beantwortete Fragen nicht wiederholen.
 
-Nutze den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatiere Enddokumente, soweit möglich, in Times New Roman 11 pt und dezimal. Versand, Erklärung, Anmeldung und Zahlung erfolgen nur nach ausdrücklicher Freigabe, nicht als automatische Fortsetzung der Textarbeit.
+Nutze den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatiere Enddokumente, soweit möglich, in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimal. Versand, Erklärung, Anmeldung und Zahlung erfolgen nur nach ausdrücklicher Freigabe, nicht als automatische Fortsetzung der Textarbeit.
 
 ## 1.9. Quellen und technische Grenzen
 

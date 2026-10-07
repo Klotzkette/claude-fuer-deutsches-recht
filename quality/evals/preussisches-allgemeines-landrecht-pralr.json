@@ -25,9 +25,10 @@
     "changes": [
       "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
       "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
-      "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern."
+      "2026-09-23: Normlesung, historischer Fall und heutiges Altrecht als Einstieg; Plan, Parteieingabe und Privileg nach Belegwert getrennt; Synopse und Gutachten nach neuer Ausnahme ändern.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8a77135148c351cd5d90ba7cbbe7970bff0d6a7d3a14a61d22ba119f15f8cfe4"
+    "sha256": "77170994dd3a166ab63c64a80cba7d10ec86e79ebd70363224d348059e56f99c"
   },
   "selection": {
     "positive": [
@@ -80,9 +81,10 @@
       "Konkrete ALR-Regel und ihre Ausnahmen am Ort und historischen Stichtag; heutige Rechtsüberleitung gesondert.",
       "Rezeption des Aufopferungsanspruchs und Erweiterung auf immaterielle Nachteile. Grenze: Kein Nachweis desselben Ersatzumfangs im Jahr 1794 oder automatischer Fortgeltung des gesamten ALR.",
       "2026-09-23: Private Staubefugnis, obrigkeitliche Anordnung und Schadensnachweis als getrennte Mühlenfallzweige; Anklage, Urteil und Vollzug in Strafakten auseinandergehalten.",
-      "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben."
+      "2026-09-23: Archivkorrespondenz nach Entstehungszweck bewertet und neue Lesung durch Übertragung, Subsumtion und Schlussfolgerung im vorhandenen Zieldokument fortgeschrieben.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1649c53233b402810ce07b9426333d41d895743439cb2d5fb7023a93019117ea"
+    "sha256": "c5d0a0fd64cd6d9870a10c584d6cf703833901c8f0878fd5bddb32851473a832"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -30,9 +30,10 @@
     "changes": [
       "Geltl C-19/11 auf Präzision und realistische Erwartung begrenzt; keine Kompensation geringer Wahrscheinlichkeit durch große Kurswirkung.",
       "Geänderten Artikel 17 MAR und geltende Delegierte Verordnung (EU) 2026/789 mit Ereignislisten und Inkrafttreten eingeordnet, nicht als Entwurf behandelt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8794c154c03d351ce14d38f6dddfe61405a9b5b4384327be0af2760e55bda1bc"
+    "sha256": "611a4ed4e1ba61ac3c70348149fa0d4e143bfc352e5680c5244ad8f36ce87115"
   },
   "selection": {
     "positive": [
@@ -84,9 +85,10 @@
     "changes": [
       "Geltl C-19/11 auf Präzision und realistische Erwartung begrenzt; keine Kompensation geringer Wahrscheinlichkeit durch große Kurswirkung.",
       "Geänderten Artikel 17 MAR und geltende Delegierte Verordnung (EU) 2026/789 mit Ereignislisten und Inkrafttreten eingeordnet, nicht als Entwurf behandelt.",
-      "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis."
+      "Damals vorhandene Hindernisse, konkreter Gerüchteinhalt, Widerspruch zu öffentlicher Kommunikation, Prognosevalidierung und Order vor Kenntnis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3a7f14cbea598cc2fa6be4e04c2ec3a4c6c1f95c8145787b563d77915ec17ffd"
+    "sha256": "17476acca63e53e31f7e675f129e6ebfce93a6a614c23eec63530636e9b750af"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -29,7 +29,7 @@ Zuerst Notizen, vorhandenes Transkript, Fotos und Anlagen lesen; dann soweit erf
 
 ## 5. Ausgabeformat
 
-Protokoll mit Anlass, Teilnehmern, Feststellungen und nächstem Schritt; Tabelle: Kennung, Ort, Befund, Gewerk/Firma, Quelle, erforderliche Prüfung, Terminstatus. Dazu gegebenenfalls ein vollständiges Anschreiben. Ausformulierungspflicht: vollständige Sätze; keine Halbsätze, Skelette oder bloßen Stichwortlisten als Endprodukt. Formatstandard: Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung; bei Markdown gesonderter Exporthinweis. Interne Quellen- und Fristprüfung nicht in den Empfängerbrief mischen.
+Protokoll mit Anlass, Teilnehmern, Feststellungen und nächstem Schritt; Tabelle: Kennung, Ort, Befund, Gewerk/Firma, Quelle, erforderliche Prüfung, Terminstatus. Dazu gegebenenfalls ein vollständiges Anschreiben. Ausformulierungspflicht: vollständige Sätze; keine Halbsätze, Skelette oder bloßen Stichwortlisten als Endprodukt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung; bei Markdown gesonderter Exporthinweis. Interne Quellen- und Fristprüfung nicht in den Empfängerbrief mischen.
 
 ## 6. Beispiele
 

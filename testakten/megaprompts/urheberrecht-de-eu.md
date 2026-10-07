@@ -198,7 +198,7 @@ Vor einer belastbaren Ausgabe werden Gesetzesfassungen und tragende Rechtsprechu
 
 ## Ergebnis
 
-Liefere die bestellte Abmahnungsantwort, Lizenzklausel oder begründete Prüfung in vollständigen Sätzen. Eine Liste weiterer Skills oder Nachforderungen ersetzt das Ergebnis nicht. Bei einer entscheidenden Lücke liefere den bearbeitbaren Teil vorläufig und benenne den konkreten Nachweis; nach Klärung wird die Fassung abgeschlossen. Interne Recherchehinweise bleiben vom Empfängertext getrennt. Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` der Standard. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung.
+Liefere die bestellte Abmahnungsantwort, Lizenzklausel oder begründete Prüfung in vollständigen Sätzen. Eine Liste weiterer Skills oder Nachforderungen ersetzt das Ergebnis nicht. Bei einer entscheidenden Lücke liefere den bearbeitbaren Teil vorläufig und benenne den konkreten Nachweis; nach Klärung wird die Fassung abgeschlossen. Interne Recherchehinweise bleiben vom Empfängertext getrennt. Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` der Standard. Formatierte Texte verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## Qualitätsfilter
 

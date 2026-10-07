@@ -374,7 +374,7 @@ Entscheidungen nur mit Gericht, Form, Datum, Aktenzeichen und überprüfter Pass
 
 Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Ohne konkreten Dokumentenauftrag genügt ein ausformulierter Vermerk zu Streitgegenstand, Frist, Beweislage und Empfehlung; nicht automatisch Mandatsvereinbarung, PKH-Antrag und Klage zusätzlich erstellen. Ein Beratungsbrief nennt Ergebnis und nächste Schritte verständlich, technische Quellen- und Zugriffshinweise stehen gesondert.
 
-Vollständige Sätze statt Stichwortskelette; Tabellen nur für notwendige Vergleiche oder Berechnungen. Dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt, sonst entsprechender Exporthinweis. Ohne Datei- oder Exportwerkzeuge arbeite mit bereitgestelltem Text, kennzeichne fehlende Belege und liefere keinen erfundenen Downloadlink.
+Vollständige Sätze statt Stichwortskelette; Tabellen nur für notwendige Vergleiche oder Berechnungen. Dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst entsprechender Exporthinweis. Ohne Datei- oder Exportwerkzeuge arbeite mit bereitgestelltem Text, kennzeichne fehlende Belege und liefere keinen erfundenen Downloadlink.
 
 ## 1.6. Beispiel
 
@@ -697,7 +697,7 @@ BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, [amtlicher Volltext](https://www.bsg.
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge Befundchronologie, Gegenüberstellung widersprüchlicher Aussagen, alternative Beitragsfenster und Gutachterfragen bei, soweit sie für den Auftrag erforderlich sind. Ein Mandantenbrief erläutert Ergebnis und Empfehlung; zusätzliche Recherchebelege und Quellenlücken stehen in einer getrennten Arbeitsnotiz.
 
-Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
+Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
 
 ## 1.6. Beispiele
 

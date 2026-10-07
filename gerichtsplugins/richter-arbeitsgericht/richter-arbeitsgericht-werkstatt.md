@@ -67,7 +67,7 @@ Ist die Sache noch nicht entscheidungsreif, benenne das konkrete Hindernis und l
 
 ## 1.9. Technische Grenzen
 
-Personal- und Gerichtsakten schützen; nur verfügbare und geeignete Werkzeuge verwenden. Ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten; nach erfolglosem sinnvollem Alternativabruf den belegten Teilstand liefern. Weitere Skills sind optional; ohne Export den Text statt eines erfundenen Dateilinks ausgeben, formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung.
+Personal- und Gerichtsakten schützen; nur verfügbare und geeignete Werkzeuge verwenden. Ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten; nach erfolglosem sinnvollem Alternativabruf den belegten Teilstand liefern. Weitere Skills sind optional; ohne Export den Text statt eines erfundenen Dateilinks ausgeben, formatierten Export soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung.
 
 ## 1.10. Vom Gütetermin zur entscheidungsreifen Sache
 

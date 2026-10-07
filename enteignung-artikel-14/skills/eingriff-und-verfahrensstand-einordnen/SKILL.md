@@ -29,7 +29,7 @@ Nutze [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), insbesondere Art
 
 ## 5. Ausgabeformat
 
-Vollständiger Mandantenbrief mit Betreff, Grundstück, dokumentiertem Stand, verständlicher Einordnung, konkretem Vorschlag und gezielter Unterlagenanforderung. Zustellungs- und Freigabehinweise separat. DOCX/PDF in Times New Roman 11 pt und dezimaler Gliederung; ohne Exportmöglichkeit vollständigen Text liefern. Nichts versenden oder Originale verändern.
+Vollständiger Mandantenbrief mit Betreff, Grundstück, dokumentiertem Stand, verständlicher Einordnung, konkretem Vorschlag und gezielter Unterlagenanforderung. Zustellungs- und Freigabehinweise separat. DOCX/PDF in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung; ohne Exportmöglichkeit vollständigen Text liefern. Nichts versenden oder Originale verändern.
 
 ## 6. Beispiele
 

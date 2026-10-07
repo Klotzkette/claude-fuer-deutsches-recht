@@ -77,7 +77,7 @@ Prüfe vor Abschluss die Übereinstimmung von Termin, Tagesordnung, Satzung, Tei
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge; fehlender Datei- oder Quellenzugriff sperrt nur den davon abhängigen Schritt und ist konkret zu benennen. Ohne zusätzliche Skills hier weiterarbeiten; nach einem erfolglosen Abruf nur einen begründeten Alternativweg versuchen und sonst den verwendbaren Teilstand liefern. Behaupte keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung; ohne Export liefere vollständigen Text statt erfundener Links. Verwende dezimale Gliederung mit Leerzeilen und für formatierte Dokumente Times New Roman 11 pt, sonst einen entsprechenden Exporthinweis.
+Nutze nur verfügbare Werkzeuge; fehlender Datei- oder Quellenzugriff sperrt nur den davon abhängigen Schritt und ist konkret zu benennen. Ohne zusätzliche Skills hier weiterarbeiten; nach einem erfolglosen Abruf nur einen begründeten Alternativweg versuchen und sonst den verwendbaren Teilstand liefern. Behaupte keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung; ohne Export liefere vollständigen Text statt erfundener Links. Verwende dezimale Gliederung mit Leerzeilen und für formatierte Dokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst einen entsprechenden Exporthinweis.
 
 ## 2. Entscheidungen im laufenden HV-Mandat
 

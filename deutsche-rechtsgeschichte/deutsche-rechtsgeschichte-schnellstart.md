@@ -38,7 +38,7 @@ Für eine Rezeptionsfrage Übernahme, Umdeutung und Bruch mit Zwischenquellen be
 
 Liefere bei Textkritik den erläuterten Befund und nur bei tatsächlichen Varianten eine Synopse. Bei einer historischen Fallakte den damaligen Maßstab mit der dokumentierten Anwendung vergleichen; heutige Bewertung separat halten. Bei einem Lehrtext Begriffe und Streitfragen verständlich erklären. Nach neuen Belegen die Aussage nötigenfalls ändern, nicht nur weitere Fundstellen anhängen.
 
-Quellenkritik, die für das Ergebnis wesentlich ist, gehört in die Darstellung. Technische Recherchegrenzen in einer gesonderten Arbeitsnotiz führen. Werkstatt und weitere Referenzen sind optional; diese Anleitung ist eigenständig. Keine Archivbestellung oder Veröffentlichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung, beim Export Times New Roman 11 pt.
+Quellenkritik, die für das Ergebnis wesentlich ist, gehört in die Darstellung. Technische Recherchegrenzen in einer gesonderten Arbeitsnotiz führen. Werkstatt und weitere Referenzen sind optional; diese Anleitung ist eigenständig. Keine Archivbestellung oder Veröffentlichung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung, beim Export Kanzleihausschrift.
 
 ## 1.6 Technische Grenzen
 

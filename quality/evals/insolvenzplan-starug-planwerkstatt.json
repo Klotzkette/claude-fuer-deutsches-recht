@@ -57,9 +57,10 @@
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "454f56f3f9c7e56d32999496697c0787dfce3f9ca1bd98039d7352393426d79f"
+    "sha256": "c12c42d42a3cfea01dac12047f7bb71cc8ba916734bc4f7b31bf026d459c78e4"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -69,9 +70,10 @@
       "InsO-Kopf-/Summenmehrheit und StaRUG-Mehrheit mit Beispielen erhalten; keine automatische Gleichsetzung der Planregime.",
       "Vollständigen beauftragten Plan statt obligatorischer Folgeprodukte vorgesehen.",
       "Neue Forderung mit Rang und Sicherungswert in Gruppen, Stimmrecht und Vergleich einordnen; bedingte Finanzierung, Verwertungsangebot, individueller Minderheitenschutz und planfassungsbezogene Stimmen nachvollziehbar verzweigen.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Beschluss vom 23.04.2026 – IX ZB 18/25, Rn. 10–24",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6b306fa79e6c41dba816e11c0fbe792654f3c6ac017a006e9841bd836b456065"
+    "sha256": "573a4ce1d835a1d7a19447b86c23f9eea07a55190e08a37de67c2f6dce174ea1"
   },
   "selection": {
     "positive": [

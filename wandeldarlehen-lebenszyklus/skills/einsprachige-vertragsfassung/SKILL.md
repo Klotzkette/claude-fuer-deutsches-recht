@@ -17,7 +17,7 @@ description: "Für Einsprachige Vertragsfassung (nur DE): ordnet Norm, Beweislas
 
 - Fertiger Inhalt der deutschen Spalte der bilingualen Fassung (aus `bilinguale-vertragserstellung`)
 - Zieldatei: DOCX, einspaltig
-- Gewünschte Schriftgröße und Zeilenabstand (Standard: Times New Roman 12 pt, 1.5-facher Zeilenabstand)
+- Gewünschte Schriftgröße und Zeilenabstand (Standard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, 1.5-facher Zeilenabstand)
 - Seitenränder: Standard 2.5 cm ringsum
 
 ## Rechtlicher Rahmen

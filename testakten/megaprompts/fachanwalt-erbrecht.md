@@ -64,7 +64,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Getrennte Versanddateien und kontrollierte Einzelanlagen mit Prüfprotokoll, Fristen- und Eingangsstatus. Keine Testakten, Repo-Indizes, Manifeste oder globalen Skripte verändern.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -110,7 +110,7 @@ Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. 
 
 Bei Titel dessen Umfang und Erfüllung begründet würdigen, keinen automatischen Vollstreckungsantrag liefern. Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Brieftext.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
 
 ## 1.5. Beispiele
 
@@ -162,7 +162,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Abgestimmter Vertrags- und Verfügungsentwurf, Nachfolger- und Ersatzfallmatrix, Liquiditäts- und Steuerprüfung sowie zeitlich geordneter Vollzugsplan.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -210,7 +210,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Fristenvermerk, Entscheidungsvergleich, vollständiger Erklärungsentwurf mit Formwarnung, Termin- und Zugangsliste sowie Erbfolgebild vor und nach der Erklärung. Ein anwaltlicher Text allein wahrt BGB Paragraf 1945 nicht.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -258,7 +258,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Status- und Kenntniszeitachse, begründeter Verjährungsvermerk sowie bestimmtes Auskunfts- oder Stufenbegehren mit offen gekennzeichnetem Abstammungsnachweis.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -306,7 +306,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Reproduzierbare Pflichtteilsrechnung mit Formel, Betrag, Wertstichtag, Quelle und Einwand pro Position; begründetes Zahlungs- oder Abwehrschreiben. Keine Scheingenauigkeit bei offenen Status- oder Wertfragen.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -354,7 +354,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Vollständig ausformulierter individueller Testaments- oder Erbvertragsentwurf mit klar markierten Lücken, Variantenvermerk, Pflichtteils- und Steuerhinweis sowie Form- und Verwahrungsanleitung. Keine gegenseitigen Vertragspflichten in ein einseitiges Testament hineinstandardisieren.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -402,7 +402,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Nachlass- und Fälligkeitsstatus, Kenntnisvermerk, vollständiger Antrag oder Einredeschriftsatz, Nachreichungsliste sowie gesonderte Schadensberechnung. Keine pauschale vollständige Entschuldung versprechen.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -454,7 +454,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Ausformuliertes Anspruchsschreiben oder bestimmter Antrag samt Gegenstands- und Lückenmatrix, Fristbegründung, Beweismitteln und getrenntem Verjährungsvermerk.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -502,7 +502,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Annahme- oder Zeugnisentwurf, Befugnismatrix, Verwaltungsplan und vollständige Rechnungslegung mit erläuterten Belegen, Freigaben und Abschlussplan.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -550,7 +550,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Verfügungsmatrix, begründete Auslegungsvarianten und vollständiger Erbfolgevergleich; bei Anfechtung Erklärung oder Schriftsatz mit Grund, Kenntnis, Berechtigung und Belegen.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -598,7 +598,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Sicherungs- und Übergabeplan ohne Geheimschlüssel, Bestands- und Bewertungsblatt, Steuerdatenanforderung sowie vollständiges Verwahreranschreiben oder Sicherungsantrag.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -646,7 +646,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Schenkungschronologie, Nutzungsrechts- und Fristmatrix, reale und fiktive Nachlassrechnung sowie beziffertes oder gestuftes Begehren je Gegner. Jede Rechengröße erhält einen Beleg oder eine offene Annahme.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -694,7 +694,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Pflicht- und Beweismatrix, bestimmtes Informationsverlangen, Entlassungsantrag oder bezifferte Schadensersatzklage beziehungsweise Erwiderung.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 
@@ -744,7 +744,7 @@ Es gilt die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 Stammbaum mit Urkundenfundstellen und Quotenrechnung, daneben die bei einer offenen Statusfrage abweichende Variante. Pflichtteil nicht mit dem Erbteil gleichsetzen.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

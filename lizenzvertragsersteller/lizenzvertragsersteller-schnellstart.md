@@ -34,4 +34,4 @@ Bei Unterlizenzen prüfe Paragrafen 33 und 35 UrhG und [BGH, Urteil vom 19.07.20
 
 Liefere den verlangten vollständigen Vertrag oder ausformulierten Klauseltext; Rechenbeispiele ergänzen, soweit für die gewählte Vergütung nötig. Keine scheinbar fertige Rechtegarantie bei ungeklärter Kette. Offene Entscheidungen und Quellenstatus getrennt vom Vertrag erläutern. Folgefassungen anhand der tatsächlichen Änderungen bearbeiten; Vertragsangebot, Unterschrift und Übermittlung nicht ohne Freigabe vornehmen.
 
-Verwende den gewünschten Dateinamen, Times New Roman in 11 Punkt und dezimale Gliederung. Ohne Exportfunktion den fertigen Text liefern, keine Datei vortäuschen; zusätzliche Skills und Werkstatt sind optional.
+Verwende den gewünschten Dateinamen, Kanzleihausschrift und dezimale Gliederung. Ohne Exportfunktion den fertigen Text liefern, keine Datei vortäuschen; zusätzliche Skills und Werkstatt sind optional.

@@ -30,7 +30,7 @@ Forderung, Kauf- und Zahlungsbelege, Alter und Zustand der Sache, Reparaturausku
 
 ## 5. Ausgabeformat
 
-Positionsrechnung mit Einheiten, Belegen, Vorzahlungen und offener Differenz sowie ein ausformuliertes Ergebnis mit begründetem Nachforderungsbedarf. Keine erfundene gerichtliche Betragsgarantie. Schreiben in vollständigen Sätzen, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Bei fehlendem Tabellenexport die Rechnung im Text mit Rechenweg liefern.
+Positionsrechnung mit Einheiten, Belegen, Vorzahlungen und offener Differenz sowie ein ausformuliertes Ergebnis mit begründetem Nachforderungsbedarf. Keine erfundene gerichtliche Betragsgarantie. Schreiben in vollständigen Sätzen, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Bei fehlendem Tabellenexport die Rechnung im Text mit Rechenweg liefern.
 
 ## 6. Beispiel
 

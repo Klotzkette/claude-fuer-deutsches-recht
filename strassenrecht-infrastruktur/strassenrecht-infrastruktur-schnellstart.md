@@ -42,4 +42,4 @@ Beispiel: „Die Zufahrt fällt dauerhaft weg, nicht nur während der Bauzeit“
 
 Verwende den gewünschten Dateinamen. Amtliche Bundes- und Landesnormen sowie Satzungen in der maßgeblichen Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Quellenstatus und technische Lücken getrennt vom Empfängertext notieren.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Ohne Dateizugriff gezielt Auszüge anfordern, ohne Export fertigen Text liefern. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am bestätigten Straßenstatus fortführen, neue Pläne und Bescheide jedoch erneut abgleichen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Ohne Dateizugriff gezielt Auszüge anfordern, ohne Export fertigen Text liefern. Weitere Werkstatt- oder Skilltexte sind optional. Folgeaufträge am bestätigten Straßenstatus fortführen, neue Pläne und Bescheide jedoch erneut abgleichen.

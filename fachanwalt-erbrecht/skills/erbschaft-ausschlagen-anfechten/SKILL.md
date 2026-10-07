@@ -39,7 +39,7 @@ Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfass
 
 Fristenvermerk, Entscheidungsvergleich, vollständiger Erklärungsentwurf mit Formwarnung, Termin- und Zugangsliste sowie Erbfolgebild vor und nach der Erklärung. Ein anwaltlicher Text allein wahrt BGB Paragraf 1945 nicht.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

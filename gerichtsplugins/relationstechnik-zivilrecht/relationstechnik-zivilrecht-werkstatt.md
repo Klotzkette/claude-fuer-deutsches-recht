@@ -68,7 +68,7 @@ Fehlt noch entscheidender Vortrag, Gehör oder Beweis, benenne den konkreten nä
 
 Bei bestelltem Urteil oder Beschluss Rubrum, Tenor, Tatbestand beziehungsweise zulässige Bezugnahmen, Gründe und einschlägige Rechtsmittelangaben ausformulieren. ZPO Paragraf 300 ff. und Paragraf 313 zum Endurteil und Urteilsinhalt beachten. Jede Feststellung muss aus Parteivortrag, unstreitigem Aktenstand oder erhobenem Beweis hervorgehen.
 
-Eine bestellte Einzelstation verlangt nicht automatisch ein vollständiges Urteil. Verwende den gewünschten Dateinamen; formatierte Dokumente in Times New Roman 11 Punkt und dezimaler Gliederung erstellen. Keine Stichwortgerüste als Endfassung und keine internen Prüffeldnamen als Pflichtüberschriften ausgeben.
+Eine bestellte Einzelstation verlangt nicht automatisch ein vollständiges Urteil. Verwende den gewünschten Dateinamen; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung erstellen. Keine Stichwortgerüste als Endfassung und keine internen Prüffeldnamen als Pflichtüberschriften ausgeben.
 
 Tragende Normen und Entscheidungen anhand überprüfbarer Quellen sichern. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und genauer Fundstelle verwenden; offene Recherche konkret benennen. Technische Quellen- und Zugriffsnotizen getrennt vom förmlichen Entwurf halten.
 

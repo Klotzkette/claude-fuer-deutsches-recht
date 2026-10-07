@@ -36,7 +36,7 @@ Tragende Normen, Vertragsstaatenstatus und Entscheidungen anhand amtlicher Quell
 
 Liefere das bestellte Dokument vollständig ausformuliert unter dem gewünschten Dateinamen. Bei Blockern den belastbaren Teil als vorläufig kennzeichnen und den konkret benötigten Beitrag nennen; nach dessen Eingang fortsetzen. Ein Gutachten verlangt keinen ungefragten Klageentwurf, ein Briefauftrag ist nicht mit einer Regimeübersicht erledigt.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Keine eigenmächtige Vertragsaufhebung, Zahlung, Versendung oder Schiedseinleitung.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Keine eigenmächtige Vertragsaufhebung, Zahlung, Versendung oder Schiedseinleitung.
 
 ## 1.5. Beispiel
 

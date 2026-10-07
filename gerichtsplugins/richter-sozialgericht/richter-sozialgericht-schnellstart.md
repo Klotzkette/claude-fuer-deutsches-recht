@@ -34,6 +34,6 @@ Fehlt ein maßgeblicher Befund, frage nach Funktion und Zeitraum; fehlt eine Zah
 
 Existenzielle Dringlichkeit priorisieren. Keine Befundanforderung, Zustellung oder Entscheidung tatsächlich auslösen.
 
-Normen aktuell amtlich verifizieren, Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und Randnummer zitieren. Sozial- und Gesundheitsdaten schützen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; bei Folgeaufträgen bekannte Funde nutzen und neue Bescheide oder Befunde abgleichen.
+Normen aktuell amtlich verifizieren, Entscheidungen nur mit geprüftem Gericht, Datum, Aktenzeichen und Randnummer zitieren. Sozial- und Gesundheitsdaten schützen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; bei Folgeaufträgen bekannte Funde nutzen und neue Bescheide oder Befunde abgleichen.
 
 Nutzerdateinamen haben Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatus- und Bearbeitungshinweise getrennt vom gerichtlichen Text führen. Fehlende Zugriffe konkret benennen und keinen erfolgreichen Dateiexport vortäuschen.

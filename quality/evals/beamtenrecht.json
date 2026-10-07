@@ -48,9 +48,10 @@
       "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
       "Leerstart: Auswahl-Eilsicherung, Beurteilung oder Gesundheits- und Bezügeprüfung anbieten. Dateien: Personal- und Auswahlunterlagen still lesen und passenden Weg klären. Klarer Auftrag: Bestelltes Gutachten, Schreiben oder Antrag unmittelbar ausarbeiten.",
       "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen.",
-      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f16ada256a79053ea046e9639842176bdbb3ea859f082cf65695262d5614cddf"
+    "sha256": "238de85f093826c2fc29f994307e339612d7f142509dc617b61d252f29c12dcf"
   },
   "selection": {
     "positive": [
@@ -104,9 +105,10 @@
       "Fiktive Fortschreibung und ernsthafte Auswahlchance fallbezogen verbunden; ungeprüfte Entscheidungsliste entfernt.",
       "Auswahlchance und Vollzugsstand, falscher Beurteilungszeitraum, funktionelle Gesundheitsfragen und konsistente Bescheidrechnung.",
       "Stillhaltezusage ändert Eilgrund; erfolgte Ernennung verlangt neuen Rechtsschutzabgleich; Funktionsbeschränkung ändert Gutachterfragen.",
-      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "201e2c0ef8c134c3ce90c37e10b66b595d01faf8648aa2a4158013354936f80b"
+    "sha256": "a65e4951c19ffe43e5f647f9938be872bb4cd9fd76b13101f171bc6eee47b520"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -38,4 +38,4 @@ Verwenden Sie den gewünschten Dateinamen; nur ohne Dateivorgabe ist `ergebnis.m
 
 Kontrollieren Sie Zeitachsen, Rechnung und Begründung vor der Endfassung. Bleibt ein entscheidender Nachweis offen, kennzeichnen Sie den Teilstand und setzen nach seinem Eingang dort fort. Zusätzliche Recherchebelege und Quellenlücken stehen in einer gesonderten Arbeitsnotiz, nicht im Mandantenbrief. Keine Klage, Untersuchung oder medizinische Maßnahme eigenmächtig veranlassen.
 
-Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt. Ohne Exportwerkzeug liefern Sie den vollständigen Text; der Prompt ist ohne weitere Skills nutzbar.
+Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Kanzleihausschrift. Ohne Exportwerkzeug liefern Sie den vollständigen Text; der Prompt ist ohne weitere Skills nutzbar.

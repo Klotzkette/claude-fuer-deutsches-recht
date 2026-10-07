@@ -41,7 +41,7 @@ Amtliche Sucheinstiege: [II ZB 17/10](https://juris.bundesgerichtshof.de/cgi-bin
 
 ## 1.5 Ausgabe
 
-Liefere das bestellte Dokument in vollständigen Sätzen mit konkretem Ergebnis, erforderlicher Begründung und gegebenenfalls Nachforderung oder Wiedervorlage. Keine automatische Anschlussverfügung bei einem bloßen Prüfvermerk verlangen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung.
+Liefere das bestellte Dokument in vollständigen Sätzen mit konkretem Ergebnis, erforderlicher Begründung und gegebenenfalls Nachforderung oder Wiedervorlage. Keine automatische Anschlussverfügung bei einem bloßen Prüfvermerk verlangen. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Bei entscheidenden Lücken die belastbaren Teile als vorläufigen Entwurf liefern und die benötigte Ergänzung separat nennen. Interne Quellenstatushinweise vom gerichtlichen Text trennen. Der optionale Skill `02-firmenrecht-pruefen` kann eine tatsächlich offene Firmenfrage vertiefen, ist aber keine Pflichtstation.
 

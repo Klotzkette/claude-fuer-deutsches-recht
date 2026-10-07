@@ -45,7 +45,7 @@ Nach neuem Vertretungsnachweis ändere Parteiblock, Signaturfelder und Freigabev
 
 ## 5. Ausgabeformat
 
-Ergebnis ist ein ausformulierter Vertragsanfang, ein vollständiges kurzes Eckpunktedokument oder eine konkrete Anfrage, ergänzt um getrennte Abschlussblocker. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Jeder Vorbehalt regelt, was vor seiner Erfüllung gilt. Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; Markdown mit gesondertem Exporthinweis. Rechtsquellen und Prüfstatus außerhalb operativer Vereinbarungen erläutern.
+Ergebnis ist ein ausformulierter Vertragsanfang, ein vollständiges kurzes Eckpunktedokument oder eine konkrete Anfrage, ergänzt um getrennte Abschlussblocker. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Jeder Vorbehalt regelt, was vor seiner Erfüllung gilt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; Markdown mit gesondertem Exporthinweis. Rechtsquellen und Prüfstatus außerhalb operativer Vereinbarungen erläutern.
 
 ## 6. Beispiele
 

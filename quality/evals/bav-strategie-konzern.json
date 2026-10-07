@@ -37,7 +37,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "7d23ce9ec55bd1b0279e669eaaebb9f55d5781c3faedf6b0fd442ce4aa9f2a33",
+    "sha256": "46432daf9d7b7456c9d65682bb994acc7b184880e748725e218f6b20d9700834",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
@@ -45,11 +45,12 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Besitzstand, Anpassung oder Trägerkürzung anbieten. Dateien: Zusagen still lesen; passenden Kohorten- oder Leistungsauftrag klären. Klarer Auftrag: Rechnung und bestelltes Versorgungsdokument unmittelbar erstellen.",
       "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: vertraglichen Anpassungstermin und Referenzzeitraum auseinanderhalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
-    "sha256": "17f8777de02168622c8eec53ddd9cbacb13096e5a101b2857a69b31f8c59c539",
+    "sha256": "01eebd2f1cd2564b98e95f4e2766dca91f26ba414f9da594c27394a1533698dc",
     "verdict": "revised",
     "reason": "Werkstatt vollständig individuell gelesen und überarbeitet: Datierte Versorgungszusagen und Versorgungsträgerleistungen im Konzern abgleichen. Einstandspflicht trotz dynamischer Satzungsverweisung und heutige Ausnahme reiner Beitragszusage getrennt; IORP-II-Anwendungsbereich konkretisiert. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: ergänzte Arbeitswege einschließlich Gegenbelegen, Antwortfolgen, Endprodukten und Freigabegrenzen gelesen. Gezielte Ergänzung 01.10.2026; Umfang und Quellenstatus im Breitenbericht.",
     "changes": [
@@ -57,7 +58,8 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Verliererkohorten, Rentenanpassung samt begrenzter Dreimonatsregel, Pensionskassenkomponenten und Regelungskonsistenz.",
       "Entgeltdefinition ändert Besitzstandsrechnung und Übergang; Überschussnachweis ändert Anpassungsweg; Kürzungskomponente ändert Differenzanspruch.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Klauselgebundene Rentenanpassung konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "selection": {

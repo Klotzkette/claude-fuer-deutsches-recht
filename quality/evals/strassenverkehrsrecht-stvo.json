@@ -30,9 +30,10 @@
     "changes": [
       "Leerer Einstieg, stille Dateilektüre und klarer Auftrag ausdrücklich getrennt; Folgeantwort zu Lieferzeit oder Aufstellprotokoll ändert Antrag und Begründung.",
       "Operativen Sichtbarkeitsmaßstab mit Beweislast und Grenzen in beide Prompts integriert.",
-      "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert."
+      "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1c77cbc2b8f2c64d3e66257e568b3f377be01bbb6cddc042676896bc35004196"
+    "sha256": "170beebd71e8bf56ae80487800e4d9c5aca03613c2ea662a934601d21bcded14"
   },
   "selection": {
     "positive": [
@@ -84,9 +85,10 @@
     "changes": [
       "Substantielle Dialogzweige zu Lieferfenster, Engstelle und widersprechenden Fotos mit Anpassung von Antrag, Auflagen und Kostenargument ergänzt.",
       "Operativen Sichtbarkeitsmaßstab mit Beweislast und Grenzen in beide Prompts integriert.",
-      "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert."
+      "Paragraf 45 Absatz 10 Nummer 2 gegenüber Absatz 9 Satz 4 Nummer 7 abgegrenzt; Werkstatt um Bewohnerparkkonzept und Schulweg-Ausnahme präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "394854e02dc9f07eb72f4125924ef4017c0650b53da9ddf37b2e77eb8a121642"
+    "sha256": "6b521568098751f15b3b27a4b82769137c4ded57eab1406ca5f300cf32da6204"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

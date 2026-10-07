@@ -36,9 +36,10 @@
       "27/76 mit Produktmerkmalen und nachgewiesener begrenzter Substitution operationalisiert.",
       "Keinen festen Markt oder erfundene SSNIP-Grenze aus der Entscheidung abgeleitet.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a516cf7cfa45bbba097a96ef5714714fd132ada1f14b7ecb028f504764417c3a"
+    "sha256": "6accf141d090fc37b43d62dd26ea26d6ea19329ac3e3d049b7cb50c2b58061d6"
   },
   "selection": {
     "positive": [
@@ -90,9 +91,10 @@
     "changes": [
       "27/76 mit Produktmerkmalen und nachgewiesener begrenzter Substitution operationalisiert.",
       "Keinen festen Markt oder erfundene SSNIP-Grenze aus der Entscheidung abgeleitet.",
-      "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort."
+      "Umstrittene Ausweichbehauptung isoliert, neutrale Evidenzanforderung, belastende Vertriebsbelege, zeitabhängige Substitution und empfängerabhängige Behördenantwort.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7282d4bbecf671eec823abfc16ffd2db497ec9f1e47034a1ce68dc2ad1c59f08"
+    "sha256": "e38ced920b7d6dcbbb73f5dc62bc1ebf10416ed4288e9739cf5cfcb2db3f9854"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

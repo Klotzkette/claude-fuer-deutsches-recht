@@ -51,7 +51,7 @@ Die [Zitierweise](../../references/zitierweise.md) gilt auch bei einfacher Sprac
 
 Liefere kurze, verständliche Folien mit vollständig ausformuliertem Sprechtext. Jede rechtliche Hauptaussage erhält eine nachvollziehbare Begründung und, soweit entscheidend, ihre Grenze. Eine passende Zeichnung, Gegenüberstellung oder Originalabbildung darf Text entlasten; ohne Grafikwerkzeug die Darstellung genau beschreiben, nicht eine fertige Abbildung behaupten.
 
-Die Ausformulierungspflicht gilt insbesondere für Erklärungen und ein bestelltes Begleitblatt. Die sichtbare Folie ist wegen des Vortragsmediums knapp; kein stichwortartiges Beratungsergebnis an die Stelle einer erforderlichen Erklärung setzen. Folien verwenden die lesbare Präsentationsvorlage, gesonderte juristische Schreiben soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung.
+Die Ausformulierungspflicht gilt insbesondere für Erklärungen und ein bestelltes Begleitblatt. Die sichtbare Folie ist wegen des Vortragsmediums knapp; kein stichwortartiges Beratungsergebnis an die Stelle einer erforderlichen Erklärung setzen. Folien verwenden die lesbare Präsentationsvorlage, gesonderte juristische Schreiben soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 6. Beispiele
 

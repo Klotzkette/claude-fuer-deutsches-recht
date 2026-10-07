@@ -463,17 +463,19 @@
     "verdict": "revised",
     "reason": "Kompakter eigenständiger Sozialverfahrensweg in einfacher Sprache.",
     "changes": [
-      "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht."
+      "Frist, Form, Tatsachen und Hilfen vor abstrakter Rechtsübersicht.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "838149a6fc2bb4bd8cc6fab443dec6cecf2744dfebe2f6694bfb5d3ce4d95a06"
+    "sha256": "ac68a146194109bb1b53f41e13d945e5f2d31e4c8cbbe67bbe1e0fae14a0d246"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Ausführliche eigenständige Verfahrenshilfe mit kurzen adressatengerechten Ergebnissen.",
     "changes": [
-      "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf."
+      "Anträge, Kassenverfahren, Eilrechtsschutz, Klage und Gerichtspost bis zum vollständigen Entwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3112090b08adab465f0f24171fe44296778c2302b952b7a4a0a2a73b970f569d"
+    "sha256": "fbd6325bf9e1337f02d75baab2afe0da1c76312e2211a361beb11250eb093e2e"
   },
   "source_audit_2026_10_01": {
     "checked_on": "2026-10-01",

@@ -43,7 +43,7 @@ Amtliche Grundlage: [UmwG](https://www.gesetze-im-internet.de/umwg_1995/), insbe
 
 ## 5. Ausgabeformat
 
-Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
+Liefere den beauftragten Vertrag oder Beschluss und die dazugehörige Anmeldung vollständig ausformuliert als „Entwurf zur notariellen Prüfung“. Nur benötigte Anlagen ergänzen. Eine interne Reihenfolge mit abhängigen Eintragungen ersetzt die Urkundentexte nicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine erfundenen Versicherungen, Unterschriften oder Registermitteilungen.
 
 ## 6. Beispiel
 

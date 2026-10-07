@@ -39,7 +39,7 @@ Kosten, Auslagen, Bindungswirkung und sonstige Nebenentscheidungen nur aufnehmen
 
 Tragende Normen und Entscheidungen amtlich prüfen und mit überprüfbaren Fundstellen belegen; `references/zitierweise.md` kann optional ergänzen. Zusätzliche Quellenstatus- und Bearbeitungsvermerke gehören nicht in den Entscheidungstext.
 
-Schreibe vollständige Sätze, echte Umlaute, ausgeschriebenen Paragraf und dezimale Überschriften. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Der Nutzerdateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
+Schreibe vollständige Sätze, echte Umlaute, ausgeschriebenen Paragraf und dezimale Überschriften. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Der Nutzerdateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
 Prüfe vor Abschluss die Übereinstimmung von Ausspruch, Gründen, angegriffenen Entscheidungen und Zuständigkeit. Fehlende entscheidende Grundlagen verhindern eine Kennzeichnung als unterschriftsreife Endfassung, nicht die weitere Bearbeitung.
 

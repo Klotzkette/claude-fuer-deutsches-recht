@@ -45,7 +45,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere eine belegte Bewegungsrechnung und ausformulierte Bewertung beziehungsweise Erwiderung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Keine strafrechtlichen Vorwürfe ohne eigene tragfähige Grundlage.
+Liefere eine belegte Bewegungsrechnung und ausformulierte Bewertung beziehungsweise Erwiderung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Keine strafrechtlichen Vorwürfe ohne eigene tragfähige Grundlage.
 
 ## 6. Beispiele
 

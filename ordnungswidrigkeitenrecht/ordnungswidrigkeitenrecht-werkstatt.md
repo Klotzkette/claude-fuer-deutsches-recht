@@ -128,4 +128,4 @@ Ein fristwahrender Einspruch ist als Entwurf fertig, wenn Bescheidbezug, unbesch
 
 Verifiziere tragende Normen und Entscheidungen in der maßgeblichen Fassung anhand amtlicher Quellen. Benenne fehlende Verifikation, statt Fundstellen zu erfinden. Ein interner Entwurf ist keine verbindliche Entscheidung oder fristgerechte Einreichung.
 
-Einlassung, Einreichung, Beschränkung, Rücknahme und andere externe Erklärungen benötigen ausdrückliche Freigabe. Weitere Skills sind optional; bei fehlendem Zugriff fordere die benötigte Passage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Einlassung, Einreichung, Beschränkung, Rücknahme und andere externe Erklärungen benötigen ausdrückliche Freigabe. Weitere Skills sind optional; bei fehlendem Zugriff fordere die benötigte Passage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

@@ -29,7 +29,7 @@ Prüfen Sie die konkret einschlägigen Regeln, insbesondere Paragrafen 611, 614,
 
 ## 5. Ausgabeformat
 
-Liefern Sie den Vertrag und erforderliche Serviceanlage in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Messwerttabellen dürfen ergänzen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown gehört der Exporthinweis nicht in den Vertrag.
+Liefern Sie den Vertrag und erforderliche Serviceanlage in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Messwerttabellen dürfen ergänzen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown gehört der Exporthinweis nicht in den Vertrag.
 
 ## 6. Beispiele
 

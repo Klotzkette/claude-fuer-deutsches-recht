@@ -34,7 +34,7 @@ Bei einem Hindernis den belegbaren Teil vorläufig liefern, den benötigten Beit
 
 Ohne Quellenzugriff den offenen Rechtscheck kennzeichnen; ohne Dateiexport den ausformulierten Text liefern und keine fingierten Dateilinks ausgeben.
 
-Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Bei formatierten Dokumenten gilt Times New Roman, 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes. Eigenständig ohne Zusatzmodule nutzbar.
+Dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Bei formatierten Dokumenten gilt Kanzleihausschrift; technische Exporthinweise bleiben außerhalb des Empfängertextes. Eigenständig ohne Zusatzmodule nutzbar.
 
 ## 1.5. Zwei konkrete Statusweichen 2026
 

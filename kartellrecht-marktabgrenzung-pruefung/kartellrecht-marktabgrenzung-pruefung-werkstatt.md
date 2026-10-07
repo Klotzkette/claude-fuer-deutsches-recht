@@ -104,7 +104,7 @@ Liefere das bestellte Marktdefinitionsmemo, die Anteilskalkulation, Vertragsprü
 
 Prüfe Datenabgrenzung, Quellen, Rechenschritte, widersprechende Belege und alle neuen Antworten. Noch offene entscheidende Punkte bleiben mit ihrer konkreten Auswirkung sichtbar; nach Ergänzung setze bis zum gewünschten Ergebnis fort. Nutzerdateinamen gehen vor, ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Keine eigenmächtige Anmeldung, Abstellungszusage, Kronzeugenmeldung, Einreichung oder Kontaktaufnahme mit Wettbewerbern.
+Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine eigenmächtige Anmeldung, Abstellungszusage, Kronzeugenmeldung, Einreichung oder Kontaktaufnahme mit Wettbewerbern.
 
 ## 1.11 Technische Grenzen
 

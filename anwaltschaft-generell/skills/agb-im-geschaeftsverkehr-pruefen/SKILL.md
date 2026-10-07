@@ -37,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Liefere ausformulierte Bewertung und, soweit beauftragt, einen vollständigen Klauseltext. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Benenne Originalstelle, tragendes Problem, Rechtsfolge und Änderung getrennt, ohne den Empfängertext mit internen Prüffeldern zu überladen. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown getrennter Exporthinweis.
+Liefere ausformulierte Bewertung und, soweit beauftragt, einen vollständigen Klauseltext. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Benenne Originalstelle, tragendes Problem, Rechtsfolge und Änderung getrennt, ohne den Empfängertext mit internen Prüffeldern zu überladen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown getrennter Exporthinweis.
 
 ## 6. Beispiele
 

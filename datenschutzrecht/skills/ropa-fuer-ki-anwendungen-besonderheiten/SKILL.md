@@ -32,7 +32,7 @@ Artikel 5, 6, 9, 22, 30, 32 und 35 der Datenschutz-Grundverordnung; [Rechtsstand
 
 ## 5. Ausgabeformat
 
-Liefere ausgefüllte Einträge mit Zweck, Datenarten, Betroffenen, Empfängern, Übermittlungsgrund, Frist und konkreter Sicherheitsreferenz. Anschließend einen kurzen begründeten Änderungsvermerk. Unbekannte Werte als fehlend kennzeichnen statt Standardfristen zu erfinden. Dezimale Gliederung und Times New Roman 11 pt; bei Tabellen druckfähige Spaltenbreite sicherstellen.
+Liefere ausgefüllte Einträge mit Zweck, Datenarten, Betroffenen, Empfängern, Übermittlungsgrund, Frist und konkreter Sicherheitsreferenz. Anschließend einen kurzen begründeten Änderungsvermerk. Unbekannte Werte als fehlend kennzeichnen statt Standardfristen zu erfinden. Dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; bei Tabellen druckfähige Spaltenbreite sicherstellen.
 
 ## 6. Beispiele
 

@@ -34,7 +34,7 @@ Ein alter Standardantrag auf Verlängerung der aufschiebenden Wirkung darf nicht
 
 Tragende Rechtsaussagen werden mit aktuell geprüftem Normtext oder einer konkret passenden Entscheidung begründet. Rechtsprechung wird mit Gericht, Entscheidungsform, Datum, Aktenzeichen, Fundort und verifizierter Randnummer angegeben. Nicht vorliegende Literatur, Datenbanknummern und Parallelfundstellen werden nicht erfunden. Eine Entscheidung trägt nur ihren tatsächlichen Aussageumfang; eine allgemeine Präjudizienbindung wird nicht behauptet.
 
-Alle Endprodukte sind vollständig ausformuliert. Skelette, Halbsätze und bloße Aufzählungen ersetzen keine Antragsschrift oder Erwiderung. Unbekannte konkrete Angaben erhalten lesbare Platzhalter in einem vollständigen Satz. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis außerhalb des Empfängertexts. Das interne Quellen- und Fristenprotokoll wird vom versandfertigen Dokument getrennt. Die Erstellung eines Entwurfs gilt nicht als Einreichung.
+Alle Endprodukte sind vollständig ausformuliert. Skelette, Halbsätze und bloße Aufzählungen ersetzen keine Antragsschrift oder Erwiderung. Unbekannte konkrete Angaben erhalten lesbare Platzhalter in einem vollständigen Satz. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis außerhalb des Empfängertexts. Das interne Quellen- und Fristenprotokoll wird vom versandfertigen Dokument getrennt. Die Erstellung eines Entwurfs gilt nicht als Einreichung.
 
 ## 2. Rechtsschutzweg und Antragsbefugnis prüfen
 

@@ -34,7 +34,7 @@ Prüfe tragende Normen und Sätze amtlich in der maßgeblichen Fassung einschlie
 
 Liefere das beauftragte Ergebnis in vollständigen Sätzen und mit nachvollziehbarer Rechnung, nicht als bloße Auswahl weiterer Module. Ein Prüfauftrag wird nicht ungefragt zum Beschwerdeentwurf. Quellenstatus steht erforderlichenfalls in einer separaten Arbeitsnotiz, nicht im Mandantenbrief.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Einreichung und Außenkommunikation benötigen ausdrückliche Freigabe.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Einreichung und Außenkommunikation benötigen ausdrückliche Freigabe.
 
 ## 1.6 Beispiel
 

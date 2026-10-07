@@ -97,4 +97,4 @@ Kontrolliere Planfassung, Grundstücke, Bauabschnitte, Fristen und Übereinstimm
 
 ## 1.10. Technische Grenzen
 
-Nutze nur verfügbare Unterlagen und Werkzeuge und benenne ungelesene Anlagen oder fehlenden Zugriff konkret, ohne Vollständigkeit vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte einen erforderlichen Exporthinweis außerhalb des Empfängertextes.
+Nutze nur verfügbare Unterlagen und Werkzeuge und benenne ungelesene Anlagen oder fehlenden Zugriff konkret, ohne Vollständigkeit vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte einen erforderlichen Exporthinweis außerhalb des Empfängertextes.

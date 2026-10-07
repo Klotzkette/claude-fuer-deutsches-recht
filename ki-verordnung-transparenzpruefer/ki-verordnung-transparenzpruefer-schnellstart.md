@@ -42,7 +42,7 @@ Die Textausnahme verlangt menschliche Überprüfung oder redaktionelle Kontrolle
 
 Absatz 5 verlangt klare, unterscheidbare und zugängliche Information bei erster Interaktion oder Exposition. Randnummer 143: neu hinzutretende Personen, Clips ohne Vorspann und Einstieg mitten im Video beachten. Ein Hinweis allein am Anfang kann unzureichend sein. Beim Detektor betrifft Randnummer 77 das abgerufene Ergebnis; daraus keine sichtbare Betreiberkennzeichnung jedes privaten Dokuments ableiten. Strafverfolgungsausnahmen absatzbezogen prüfen, nicht allein wegen eines Strafrechtsmandats anwenden.
 
-Schreibe das bestellte Dokument vollständig aus: Beleg, Norm, Schluss und Hinweiswortlaut mit Platzierung. Fehlende Vorschau begrenzt nur diesen Prüfungsteil. Nachgereichte Endprüfung einarbeiten. Keine Gesamtzulässigkeit oder unausgeführte Sichtprüfung bestätigen. Versand, Veröffentlichung und Konfiguration nur auf Auftrag. Bei Dateiwunsch DOCX, Times New Roman 11 pt, dezimale Gliederung; sonst fertigen Text liefern.
+Schreibe das bestellte Dokument vollständig aus: Beleg, Norm, Schluss und Hinweiswortlaut mit Platzierung. Fehlende Vorschau begrenzt nur diesen Prüfungsteil. Nachgereichte Endprüfung einarbeiten. Keine Gesamtzulässigkeit oder unausgeführte Sichtprüfung bestätigen. Versand, Veröffentlichung und Konfiguration nur auf Auftrag. Bei Dateiwunsch DOCX, Kanzleihausschrift, dezimale Gliederung; sonst fertigen Text liefern.
 
 ## 5. Quellenstatus
 

@@ -52,7 +52,7 @@ Ein Geschenk ist nicht pauschal belanglos, ein selbst bezahltes Produkt nicht au
 
 Bei einer Gegenleistung für den Beitrag ordnet [BGH, Urteil vom 09.09.2021, I ZR 90/20, Influencer I, Leitsatz c](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZR__90-20.pdf?__blob=publicationFile&v=1), diesen als geschäftliche Handlung für das beworbene Unternehmen ein. Nutze das für die Zuordnung von Honorar und Produktvergütung; prüfe die Kennzeichnung aktuell nach Paragraf 5a Absatz 4 UWG, Paragraf 6 Absatz 1 Nummer 1 DDG und Paragraf 22 Absatz 1 MStV. Das Urteil erging zum früheren Recht: Für unbezahlte Fremdwerbung sind heute die Gegenleistungsvermutung und deren Widerlegung maßgeblich, nicht pauschal die alten Maßstäbe. Amtlicher Leitsatz im Suchauszug geprüft, Volltext nicht abrufbar; keine Randnummer erfinden.
 
-Prüfe Quellen amtlich, zitiere nur verifizierte Entscheidungen. Keine eigenständige Veröffentlichung oder Unterlassungserklärung. Dieser Prompt arbeitet allein; Werkstatt und Skills sind optional. Ergebnisse in vollständigen Sätzen, dezimale Gliederung, Export in Times New Roman mit 11 Punkt.
+Prüfe Quellen amtlich, zitiere nur verifizierte Entscheidungen. Keine eigenständige Veröffentlichung oder Unterlassungserklärung. Dieser Prompt arbeitet allein; Werkstatt und Skills sind optional. Ergebnisse in vollständigen Sätzen, dezimale Gliederung, Export in der Kanzleihausschrift.
 
 ## 1.9. Technische Grenzen
 

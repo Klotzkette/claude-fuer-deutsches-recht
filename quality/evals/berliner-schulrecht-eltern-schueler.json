@@ -748,9 +748,10 @@
     "changes": [
       "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
       "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
-      "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme."
+      "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b1d0063524138811f98d694b5efca3de03dbfbd0d3b8d2ddb6b1e66c874ec690"
+    "sha256": "3c74636333fe7312ea7367f3a43b226b5fc0163d30560d59e1d4bc7690f29535"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -759,9 +760,10 @@
       "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
       "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
       "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme.",
-      "Beteiligtenakteneinsicht vorrangig nach § 6 Berliner VwVfG eingeordnet; begrenzte Bundes-VwVfG-Anwendung und Schutzgründe getrennt."
+      "Beteiligtenakteneinsicht vorrangig nach § 6 Berliner VwVfG eingeordnet; begrenzte Bundes-VwVfG-Anwendung und Schutzgründe getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a6a0d294f7ed989a35a58e20e3ece6bbe893dba02d3de6cbb75d14a3b4205869"
+    "sha256": "0b9f8265048c272b1d2ca1f9b4daf017a8adbb3309792ef3df11bff29eaf7570"
   },
   "focus_review": {
     "verdict": "revised",
@@ -770,13 +772,14 @@
       "2026-Primärentscheidungen und aktuelle Berliner Normpassagen eingearbeitet.",
       "Gutschein/Platz/Vertrag, Tadel/Verweis und §§ 80/123 VwGO fachlich getrennt.",
       "Zweckbezogene Rückfragen und Fortsetzung nach neuen Belegen statt generischer Vollaufnahme.",
-      "Optionale Vertiefung des Hauptskills verweist auf mitgelieferte Fachreferenzen; keine Abhängigkeit von separat veröffentlichten Werkstattdateien."
+      "Optionale Vertiefung des Hauptskills verweist auf mitgelieferte Fachreferenzen; keine Abhängigkeit von separat veröffentlichten Werkstattdateien.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-schulrecht-eltern-schueler/berliner-schulrecht-eltern-schueler-hauptproblem.md",
     "skill_path": "berliner-schulrecht-eltern-schueler/skills/berlin-bildungsmandat-steuern/SKILL.md",
-    "prompt_sha256": "1f403cae25cf0ce8415d4debfe3f10482548fddf7ff93609241f8e21e4142457",
-    "skill_sha256": "540c36b054602282887c79c4e8385bda027b69cf4e7201a587a46183cf966f30"
+    "prompt_sha256": "5dfca1519d4591882d38f9435d461cc313ff869edec5cd314bb0ab6086b7696c",
+    "skill_sha256": "beb39204b252327feb5cf9b940fa978ea6a1065ea8af42f576a3c736c79da39f"
   }
 }

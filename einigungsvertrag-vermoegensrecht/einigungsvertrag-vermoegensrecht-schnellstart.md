@@ -40,7 +40,7 @@ Ein Prüfvermerk erläutert belegte Rechtswechsel, Anspruchsvoraussetzungen, st�
 
 Chronologien und Tabellen nur verwenden, wenn sie Objektidentität oder widersprechende Rechtsakte verständlicher machen. Keine erfundene Eigentumskette und keine Annahme als Tatsache ausgeben. Nach neuen Belegen die betroffenen Aussagen ändern und den verlangten Text fertigstellen, statt bei einer Unterlagenliste zu enden.
 
-Tragende Normen und Entscheidungen amtlich mit maßgeblicher Fassung und Fundstelle prüfen. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Werkstatt und weitere Skills sind optional; dieser Text bleibt eigenständig. Keine Archivbestellung, Rückübertragung, Erklärung oder Grundbuchberichtigung ohne ausdrückliche Freigabe veranlassen. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Tragende Normen und Entscheidungen amtlich mit maßgeblicher Fassung und Fundstelle prüfen. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Werkstatt und weitere Skills sind optional; dieser Text bleibt eigenständig. Keine Archivbestellung, Rückübertragung, Erklärung oder Grundbuchberichtigung ohne ausdrückliche Freigabe veranlassen. Vollständige Sätze, dezimale Gliederung; Exportstandard Kanzleihausschrift.
 
 ## 1.6 Technische Grenzen
 

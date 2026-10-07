@@ -29,7 +29,7 @@ Pflegegrad ab Beginn, Pflegepersonenfragebogen, Wochenplan, Aufteilung unter Ang
 
 ## 5. Ausgabeformat
 
-Zeitraum | Pflegetage und Stunden | Erwerbsstunden | Versicherungszweig | Beleg | offene Angabe. Dazu ausformuliertes Schreiben und kurze Erläuterung für den Angehörigen. Keine Stichwortskelette als Endprodukt. Times New Roman 11 pt soweit möglich und dezimale Gliederung.
+Zeitraum | Pflegetage und Stunden | Erwerbsstunden | Versicherungszweig | Beleg | offene Angabe. Dazu ausformuliertes Schreiben und kurze Erläuterung für den Angehörigen. Keine Stichwortskelette als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich und dezimale Gliederung.
 
 ## 6. Beispiele
 

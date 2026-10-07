@@ -34,7 +34,7 @@ Nach einer technischen Antwort „nur Wortlaut, keine Stimme“ ändere die Eino
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
+Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
 
 ## 6. Beispiel
 

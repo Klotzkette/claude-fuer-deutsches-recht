@@ -435,7 +435,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tabellenreview** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. Feststellungen nach ihrer Auswirkung auf die beauftragte Entscheidung bewerten. Fehlende Werte, Nullwerte und nicht anwendbare Prüffelder trennen; ein kritischer Einzelbefund darf nicht in einem Durchschnittswert verschwinden.
-5. Nach der Klärung die bestellte Tabelle oder Auswertung fertigstellen. Weitere Skills sind optional und ersetzen die Bearbeitung nicht. Ein angeforderter Bericht oder Brief wird vollständig ausformuliert; reine Stichwortlisten genügen dafür nicht. Nutzerdateinamen haben Vorrang, `ergebnis.md` ist nur der Standard ohne Vorgabe. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung; technische Prüfnotizen bleiben vom Empfängertext getrennt.
+5. Nach der Klärung die bestellte Tabelle oder Auswertung fertigstellen. Weitere Skills sind optional und ersetzen die Bearbeitung nicht. Ein angeforderter Bericht oder Brief wird vollständig ausformuliert; reine Stichwortlisten genügen dafür nicht. Nutzerdateinamen haben Vorrang, `ergebnis.md` ist nur der Standard ohne Vorgabe. Formatierte Texte verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; technische Prüfnotizen bleiben vom Empfängertext getrennt.
 
 ---
 

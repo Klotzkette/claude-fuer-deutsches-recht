@@ -37,7 +37,7 @@ Paragrafen 175, 182, 184 und 365 AO, Paragraf 68 FGO sowie der einschlägige kom
 
 ## 5. Ausgabeformat
 
-Ausformulierter Mandantenbrief mit Anrede, nachvollziehbarem Ergebnis, Zahlungsstand, verbleibender Handlung und Schluss; dazu eine kompakte interne Abschlusskontrolle. Vollständige Sätze statt bloßer Skelette. Times New Roman 11 pt und dezimale Gliederung bei formatierten Texten; ohne Exportwerkzeug vollständiger Text mit Formatwunsch.
+Ausformulierter Mandantenbrief mit Anrede, nachvollziehbarem Ergebnis, Zahlungsstand, verbleibender Handlung und Schluss; dazu eine kompakte interne Abschlusskontrolle. Vollständige Sätze statt bloßer Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei formatierten Texten; ohne Exportwerkzeug vollständiger Text mit Formatwunsch.
 
 ## 6. Beispiele
 

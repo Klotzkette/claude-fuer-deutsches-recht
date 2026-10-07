@@ -29,7 +29,7 @@ Lesen Sie Bekanntmachung, Auftragswertschätzung, Auftraggeberstatus, Leistungsa
 
 ## 5. Ausgabeformat
 
-Liefern Sie Mängelmatrix, technischen Vergleich, Preisspiegel, ausformulierten Nachforderungsentwurf soweit rechtlich tragfähig und begründete Wertungsvorlage. Endprodukte in vollständigen Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen. Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; erforderliches Formularlayout begründet beibehalten. Interne Vorbehalte vom versandfertigen Entwurf trennen.
+Liefern Sie Mängelmatrix, technischen Vergleich, Preisspiegel, ausformulierten Nachforderungsentwurf soweit rechtlich tragfähig und begründete Wertungsvorlage. Endprodukte in vollständigen Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; erforderliches Formularlayout begründet beibehalten. Interne Vorbehalte vom versandfertigen Entwurf trennen.
 
 ## 6. Beispiele
 

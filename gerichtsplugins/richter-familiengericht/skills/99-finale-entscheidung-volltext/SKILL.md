@@ -32,7 +32,7 @@ Prüfe insbesondere die Paragrafen 38 und 39 FamFG zur Beschlussform und Belehru
 
 ## 1.5. Ergebnis und Format
 
-Liefere den bestellten Beschluss in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfpunktliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Verwende den gewünschten Dateinamen.
+Liefere den bestellten Beschluss in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfpunktliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Verwende den gewünschten Dateinamen.
 
 Ein sachlich noch offener Entwurf bleibt vorläufig; kennzeichne die entscheidende Lücke in einer getrennten Arbeitsnotiz und setze nach Ergänzung fort. Technischer Quellenstatus gehört nicht in den Beschlusstext. Die Entscheidung, Unterzeichnung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten; keine eigenmächtige Zustellung.
 

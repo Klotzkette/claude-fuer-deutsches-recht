@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere eine konkrete Wertüberleitung oder ausformulierte Gutachtenstellungnahme mit einzelnen begründeten Korrekturen. Vollständige Sätze sind Pflicht; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Rechengrößen ohne Nachweis sichtbar vorläufig lassen.
+Liefere eine konkrete Wertüberleitung oder ausformulierte Gutachtenstellungnahme mit einzelnen begründeten Korrekturen. Vollständige Sätze sind Pflicht; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Rechengrößen ohne Nachweis sichtbar vorläufig lassen.
 
 ## 6. Beispiele
 

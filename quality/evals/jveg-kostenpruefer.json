@@ -50,9 +50,10 @@
     "changes": [
       "Konkurrierende Kammergebührenforderung am formalen Heranziehungsakt und bindender gerichtlicher Festsetzung prüfen; ungeprüfte BGH-Fundstellen in konkrete Recherchefragen überführt.",
       "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "42cfb09a4bf1a5f507ce9f626a34f8d83e449c58f30280345d4c66aa9665a86f"
+    "sha256": "264be513414d038e5fc3f839b57cfc63d3a53c9246d86464eaba101ab2d05d05"
   },
   "selection": {
     "positive": [
@@ -136,9 +137,10 @@
     "changes": [
       "Gerichtlichen Auftrag, erforderliche Zeit, Auslagen und Vorschüsse zu streitigem Restbetrag zusammenführen.",
       "Formale Heranziehung zu Sachverständigenleistungen eröffnet abschließenden JVEG-Weg; Steuerberaterkammer darf gerichtliche Festsetzung nicht durch eigenen Gebührenbescheid ersetzen.",
-      "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt."
+      "Rohzeiten, Auftragsbezug, rekonstruierte Aufzeichnungen, Kostenwarnung mit Zugang und Zeitpunkt, konkrete Kürzungsgründe sowie Vorschussforderung gegen tatsächliche Zahlung in bezifferte Anträge überführt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "381e23ce59b94ed795289425401d1d4aa7e90ea36005ee6f60d8de89cdca80f8"
+    "sha256": "16942d1bd174109278a8777e7fe44432af78c840fa3bcc0c1ace28460bfc3d2c"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

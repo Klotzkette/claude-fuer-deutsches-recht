@@ -28,7 +28,7 @@ Belege Tatsachen mit Datei und Seite, Beschaffungsrechte mit der einschlägigen 
 
 ## 5. Ausgabeformat
 
-Chronologie und Belegmatrix als Anlagen, dazu eine ausformulierte Nachforderung an den richtigen Empfänger. Die Ausformulierungspflicht verbietet Stichwortskelette als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Markdown entsprechender Exporthinweis. Frist und nächste verwertbare Fassung nennen.
+Chronologie und Belegmatrix als Anlagen, dazu eine ausformulierte Nachforderung an den richtigen Empfänger. Die Ausformulierungspflicht verbietet Stichwortskelette als Endprodukt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Markdown entsprechender Exporthinweis. Frist und nächste verwertbare Fassung nennen.
 
 ## 6. Beispiele
 

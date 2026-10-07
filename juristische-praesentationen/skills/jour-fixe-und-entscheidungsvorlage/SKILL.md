@@ -51,7 +51,7 @@ Gemäß [Zitierweise](../../references/zitierweise.md) zwischen Rechtsquelle, Ak
 
 Eine kurze Präsentation mit Anlass, entscheidungsrelevantem Stand, Alternativen und Abschluss liefern. Rechtliche Begründungen und Bedingungen in vollständigen Sätzen in den Sprechernotizen ausarbeiten. Eine kleine Vergleichstabelle darf die Wahl erleichtern; nicht alle Sachverhaltsdaten als große Tabelle auf eine Folie pressen.
 
-Die Ausformulierungspflicht gilt insbesondere für die Empfehlung und einen Beschlussvorschlag. Folien bleiben wegen des Präsentationszwecks knapp und folgen der Vorlage. Ein gesondertes juristisches Memorandum verwendet, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Entwurf, beschlossene Fassung und lediglich protokollierte Rückmeldung nicht gleichsetzen.
+Die Ausformulierungspflicht gilt insbesondere für die Empfehlung und einen Beschlussvorschlag. Folien bleiben wegen des Präsentationszwecks knapp und folgen der Vorlage. Ein gesondertes juristisches Memorandum verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Entwurf, beschlossene Fassung und lediglich protokollierte Rückmeldung nicht gleichsetzen.
 
 ## 6. Beispiele
 

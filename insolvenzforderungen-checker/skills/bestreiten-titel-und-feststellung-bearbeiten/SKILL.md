@@ -30,7 +30,7 @@ Paragrafen 176 und 178 bis 189 InsO. BGH, Urteil vom 25.06.2020, Az. IX ZR 47/19
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Vermerk mit konkretem Widerspruchsumfang, Beteiligtem, Titelstatus, Verfolgungslast und nächstem Schritt; ergänzend Tabellenzeile und Empfängerbrief. Keine unbestimmte Empfehlung „Klage erheben“ ohne Partei und Gegenstand, keine Skeletttexte. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung. Gerichtliches Ergebnis nur mit Datum und Aktenbeleg wiedergeben.
+Vollständig ausformulierter Vermerk mit konkretem Widerspruchsumfang, Beteiligtem, Titelstatus, Verfolgungslast und nächstem Schritt; ergänzend Tabellenzeile und Empfängerbrief. Keine unbestimmte Empfehlung „Klage erheben“ ohne Partei und Gegenstand, keine Skeletttexte. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Gerichtliches Ergebnis nur mit Datum und Aktenbeleg wiedergeben.
 
 ## 6. Beispiele
 

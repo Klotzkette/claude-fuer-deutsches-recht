@@ -407,9 +407,10 @@
     "changes": [
       "Konkrete Dokumentenaufträge werden vor allgemeinen Rückfragen bearbeitet; administrative, medizinische und wissenschaftliche Nutzung getrennt.",
       "Aktuelle Hochrisiko-Anwendungsdaten und eng begrenzte C5-Typ1-Ausnahme aufgenommen; Datenschutzhinweis, AVV und Einwilligung nicht verwechselt.",
-      "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt."
+      "Kontextbezogene Gesundheitsdatenprüfung und enger Auskunftsmissbrauch anhand zweier Entscheidungen von2026 samt Reichweitengrenzen ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "759c91fb1a812c67276a0867a470b2be61e51ee2118017c444bc16719b3c5a27"
+    "sha256": "525ecc9238faae28bdc14899a46c8fd23ec16e1dbc5a5e9b243def1eb0802e96"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -418,9 +419,10 @@
       "Behandlung, eigene Forschung, externe Forschung und Herstellertraining mit je eigener Grundlage und Empfängerprüfung verknüpft.",
       "Thüringer Auftragsverarbeitungsanzeige, ministerielle Forschungsfeststellung und GDNG-Datenschutzaufsichtszustimmung klar getrennt.",
       "Drittlandprüfung nach tatsächlichem Empfänger, DPF-Deckung oder SCC mit wirksamen Zusatzmaßnahmen; §393SGBV daneben.",
-      "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen."
+      "DSFA und klinische Eignung sowie MDR und KI-Verordnung bleiben getrennte Entscheidungen; relevante Änderungen führen zu gezielten Rückwegen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "473820ba1895c2745e12e779f8a2a8b57f64fe007f15ad9e0f0ebf12c1fa4328"
+    "sha256": "0ab942bdd62159e376abd368ff8f69f404c247bc6953a8a4a1e57a8361a016f1"
   },
   "focus_review": {
     "method": "desk_review",
@@ -429,12 +431,13 @@
     "reason": "Schwerpunkt ist die konkrete Pilotentscheidung bei Gesundheitsdaten, EU-Cloud, Drittlandsupport und möglicher medizinischer Nutzung. Hauptskill routet zu passenden Fachschritten und verwechselt keinen Teilnachweis mit einer Gesamtfreigabe.",
     "changes": [
       "Gesellschaft, Zweck, Datenstufe und Version begrenzen jede Entscheidung.",
-      "C5-Sonderweg, aktuelle KI-Termine, DPF/SCC und offene ThürKHG-Endkonsolidierung ausdrücklich berücksichtigt."
+      "C5-Sonderweg, aktuelle KI-Termine, DPF/SCC und offene ThürKHG-Endkonsolidierung ausdrücklich berücksichtigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "krankenhaus-it-ki/krankenhaus-it-ki-hauptproblem.md",
     "skill_path": "krankenhaus-it-ki/skills/krankenhaus-digitalisierung-steuern/SKILL.md",
-    "prompt_sha256": "ae03e75fad4e62d43ead684f43fe7db31933001df691bc7f4c94ca5bef5adcdb",
-    "skill_sha256": "8b02026228a034238f70bbb19314c8c53409c71b421158a0987a648833c4dba2"
+    "prompt_sha256": "1ab4ff06a7290451c450210969616308a28253a5ea3338dd0fdb5772bdf6625f",
+    "skill_sha256": "b28fb1a40a34d1cea485cbed69d2b51beeb91beb2ef6131e6c1fcc3f4bb0e880"
   },
   "prompt_editorial_review": {
     "date": "2026-10-06",

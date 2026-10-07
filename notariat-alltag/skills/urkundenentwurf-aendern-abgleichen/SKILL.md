@@ -37,7 +37,7 @@ Kommt die Freigabe nur zum Preis, ändere nicht zusätzlich Abnahme oder Fertigs
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Neufassung als „Entwurf zur notariellen Prüfung“, getrennt davon knapper Änderungsvermerk mit betroffenen Stellen und verbleibender Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Keine Urkunde mit internen Kommentaren im Erklärungsinhalt versandfertig nennen.
+Vollständig ausformulierte Neufassung als „Entwurf zur notariellen Prüfung“, getrennt davon knapper Änderungsvermerk mit betroffenen Stellen und verbleibender Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Urkunde mit internen Kommentaren im Erklärungsinhalt versandfertig nennen.
 
 ## 6. Beispiel
 

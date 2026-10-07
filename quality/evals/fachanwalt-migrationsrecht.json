@@ -68,9 +68,10 @@
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "cace19587a9388481f30b77978f87eabdc728af9fcc5a200c3e5fd160d8e2602",
+    "sha256": "7f13da93539a5f793ffbd462c7cb445a6e10990697f5a8ca6a110c891a0933d5",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -81,9 +82,10 @@
       "Fundstellen zur Rechenkorrektur von Randnummern 22–29 auf 33–34 berichtigt und unmittelbar in Rechenanweisung eingebunden.",
       "Hauptproblem und Fokus-Skill unterscheiden Anreizfreibetrag, tatsächliche Aufwendungen und Ausnahmeprüfung.",
       "Terminbitte gegenüber Antrag, Eingang und Titelwirkung, Arbeit und Reise getrennt, titelabhängige Mittelprüfung, privilegierte Leistungen, künftige Einkommenslücken sowie Herkunft und Aussagegrenzen von Attesten und Übersetzungen.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f790edb61bf4d4baf92a7a0ad03ad8d6ba8e733993debcaad2a5b716591aaf11",
+    "sha256": "07a4b17413479625faff036c64738d411875ea631731c5228d75ce1aea77d3b9",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -94,12 +96,13 @@
     "changes": [
       "Haushaltsprüfung mit BVerwG 1 C 20.09, Randnummern 33–34, operativ verbunden; Richtlinienbereich und historische Beträge begrenzt.",
       "Persönliche Haushaltsbelege und gezielte Nachforderung mit Fortsetzung bis zur begründeten Stellungnahme erhalten.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-migrationsrecht/fachanwalt-migrationsrecht-hauptproblem.md",
-    "prompt_sha256": "f7a9f4595a463d103f780afbcedd6e81814297cc12bb459d8b8e50324b3fa5ce",
+    "prompt_sha256": "c98f6b14402797857b0b51052f34d38e492705b0fc0bfdb7e3b87be0e56b1d75",
     "skill_path": "fachanwalt-migrationsrecht/skills/familiennachzug-haushaltsprognose-belegabgleich/SKILL.md",
-    "skill_sha256": "4d05e03704e7bae197b3200410e2d067f8bf03301e70ad0548df8860b84b0f9d"
+    "skill_sha256": "4138e3919d8bab3ac6c0563f167cc4881de9d06b49c435a7bbc34e1655df0ce3"
   },
   "selection": {
     "positive": [

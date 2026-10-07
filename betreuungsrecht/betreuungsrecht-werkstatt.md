@@ -72,7 +72,7 @@ Kontrolliere Wünsche, Aufgabenbereich, Vertretung, Genehmigung, Stichtage und R
 
 ## 1.8. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge, benenne ungelesene oder unlesbare Unterlagen und bearbeite unabhängig gesicherte Teile weiter. Ohne zusätzliche Skills hier fortfahren; nach Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat. Verwende dezimale Gliederung mit Leerzeilen sowie Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+Nutze nur verfügbare Werkzeuge, benenne ungelesene oder unlesbare Unterlagen und bearbeite unabhängig gesicherte Teile weiter. Ohne zusätzliche Skills hier fortfahren; nach Abruf- oder Exportfehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten, die nicht stattgefunden hat. Verwende dezimale Gliederung mit Leerzeilen sowie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
 
 ## 2. Wünsche und neue Belege in die konkrete Handlung übersetzen
 

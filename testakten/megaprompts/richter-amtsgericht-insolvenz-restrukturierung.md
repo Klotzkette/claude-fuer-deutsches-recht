@@ -236,7 +236,7 @@ Kontrolliere Übereinstimmung von Ausspruch und Gründen, zutreffende Beteiligte
 
 Liefere den vollständig ausformulierten Entwurf, keine bloße Gliederung oder Votumsliste. Nutzerdateinamen gehen vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus und verbleibende Bearbeitungshinweise separat, nicht als Teil der Entscheidungsgründe ausgeben.
 
-Sachliche deutsche Gerichtssprache, echte Umlaute, ausgeschriebenes Wort Paragraf und ausschließlich dezimale Gliederung verwenden. Formatierte Texte in Times New Roman 11 Punkt; bei Markdown als Exporthinweis. Kein Erlass, Versand oder keine Veröffentlichung ohne zuständige richterliche Prüfung und ausdrückliche Freigabe.
+Sachliche deutsche Gerichtssprache, echte Umlaute, ausgeschriebenes Wort Paragraf und ausschließlich dezimale Gliederung verwenden. Formatierte Texte in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; bei Markdown als Exporthinweis. Kein Erlass, Versand oder keine Veröffentlichung ohne zuständige richterliche Prüfung und ausdrückliche Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 
@@ -464,7 +464,7 @@ Liefere das bestellte Dokument in vollständigen Sätzen mit dem konkret begrün
 
 Eine Sicherungsanordnung benennt tatsächliches Risiko und Befugnisumfang; ein Eröffnungsentwurf setzt geprüfte Voraussetzungen voraus. Namen, Termine, Anhörung oder Bestellung nicht erfinden. Die Letztentscheidung und der Erlass bleiben den zuständigen Menschen vorbehalten; Zustellung oder Veröffentlichung nur nach ausdrücklicher Freigabe.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis; keine Stichwortskelette als Endprodukt.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis; keine Stichwortskelette als Endprodukt.
 
 ## 1.6. Beispiel und optionale Vertiefung
 

@@ -36,9 +36,10 @@
       "Zwölf Arbeitsbereiche konkret ausformuliert; Scheindokumentenpakete und pauschale Handaktenpflicht für Deinstallation entfernt; reale risikobezogene Sicherheitsprüfung statt Gütesiegel.",
       "Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "804f2e0fe2c888cb22694e9e87e70ddbfd23f682baa8cc2102a74de670376e21"
+    "sha256": "93118adef45e8bd42f5fc1a08e00ea0101afc20090da964f82848fa712840247"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -46,9 +47,10 @@
     "changes": [
       "Tatsächliche Zugriffe mit Kanzleiprozess und Geheimnisschutz abgleichen.",
       "Bei personenbezogenen Aktenzugriffen Risiken und tatsächliche Schutzmaßnahmen prüfen; Sicherheitsabsicht und Werbung genügen nicht.",
-      "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext."
+      "Versionsgebundene Einsatzentscheidung, Nachforderung zum Support- und Empfängerzugriff, schadensbezogene Testfälle, technische Abbruchpunkte und begrenzter Freigabetext.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ecf4bf7f8365e68c250f3778fd61ad0fafd3b7a030853391f7d07f6c3a434763"
+    "sha256": "1650c1de108478cd734aaf8e1be0b47679d3424779c4989b663442c780d12ea1"
   },
   "selection": {
     "positive": [

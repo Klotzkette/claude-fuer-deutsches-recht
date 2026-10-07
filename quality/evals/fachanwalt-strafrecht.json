@@ -129,9 +129,10 @@
       "Unverifizierte Aussagen zum aktuellen EU-Ratsstand entfernt; Vorschlag und geltendes Recht getrennt, kein Abschlussersatz durch bloße Checkliste.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "90bd98997a4e9c303082076d1eaddef15d2867d58f2bae3d748485e042eaa0e4",
+    "sha256": "57280769f5ba2491eb41aa4db03b9ce8dcd54a321cca26cece6d24cc9917fc57",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -145,12 +146,13 @@
       "6 StR 546/24 mit Trigger, Folge und Grenze späterer Weiterleitung ausformuliert; 6 StR 160/26 sachbeutebezogen erhalten.",
       "Fokus-Skill gelesen und unverändert belassen.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
-      "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden."
+      "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-strafrecht/fachanwalt-strafrecht-hauptproblem.md",
-    "prompt_sha256": "066d7d4b4f150c8c4e61aecff1ec312099eb9821240b7292f912974f85653830",
+    "prompt_sha256": "90fd3d6695ee6183191331bca298b1110b6b9cb7370e37c9360634b0e6634021",
     "skill_path": "fachanwalt-strafrecht/skills/einziehung-geldfluss-mitverfuegung-arrestabgleich/SKILL.md",
-    "skill_sha256": "a8b35ea09e2d8a54a5775f019da806a52d332d23324a36910bdd4109649cd1a6"
+    "skill_sha256": "7d2571ae173b6670fa5bb710ab75c24fbae84797b79c91aacde5e97b64b1901a"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -162,9 +164,10 @@
       "Unverifizierte Aussagen zum aktuellen EU-Ratsstand entfernt; Vorschlag und geltendes Recht getrennt, kein Abschlussersatz durch bloße Checkliste.",
       "Digitale Zuordnung und konkrete Gegenhypothese, Beweistatsache gegenüber Ermittlungsfrage, persönliche Verfügungsmacht, Asservat gegenüber Rückführung, tatsächliche Arrestbindung sowie Strafbefehlseinspruch und vollständiger Rügevortrag.",
       "01.10.2026: 3 StR 203/25 als konkretes Gegenbeispiel zum pauschalen Einwand einer Ablieferungspflicht in Einziehungsprüfung, Fokus, Werkstatt und Mini eingebunden.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24, BVerfG, Beschluss vom 14.01.2026 – 1 BvR 1409/25, Rn. 7–17. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bc0e69dec5e58778d4e288e4f23954a753fd43ebecd12231b9d9513d7e9a0e53",
+    "sha256": "c8c9f7b22bb896b71ed4f3a1d657ae0a012280031bfcb57aa053d9001e8e2033",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

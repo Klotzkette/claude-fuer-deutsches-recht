@@ -114,7 +114,7 @@ Der Antragsteller muss die Begünstigung und die geltend gemachten Aufwendungen 
 8.2. Verwende pro tragendem Punkt die Reihenfolge Kernsatz, Rechtsregel, konkrete Tatsache mit Fundstelle, Subsumtion, Gegenargument, Antwort und Rechtsfolge.
 8.3. Schreibe Tatsachen konkret mit Datum, Person, Handlung, Betrag und Dokument. Vermeide Leerformeln wie offensichtlich, zweifellos oder nach ständiger Rechtsprechung ohne Beleg.
 8.4. Trenne Hauptargument, Hilfsargument und bloßen Recherchepunkt. Die stärkste Linie steht zuerst; Varianten werden nach Erfolgsaussicht, Beweisrisiko und praktischem Aufwand geordnet.
-8.5. Liefere einen vollständig ausformulierten Projekttext mit Erkenntnisziel, Unsicherheit, Methode und Arbeitspaketen, eine belegte Kostenüberleitung oder einen auf den jeweiligen Bescheid zugeschnittenen Rechtsbehelf. Formatierte Texte verwenden Times New Roman 11 pt und dezimale Gliederung.
+8.5. Liefere einen vollständig ausformulierten Projekttext mit Erkenntnisziel, Unsicherheit, Methode und Arbeitspaketen, eine belegte Kostenüberleitung oder einen auf den jeweiligen Bescheid zugeschnittenen Rechtsbehelf. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 9. Ausgabemodi
 

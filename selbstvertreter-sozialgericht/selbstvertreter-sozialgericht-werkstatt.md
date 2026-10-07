@@ -115,6 +115,6 @@ Verwende den Eilmaßstab aus Abschnitt 5 nur für die dort beschriebene Gefahr. 
 
 Kontrolliere richtigen Rechtsweg, Bescheid, Zeitraum, Betrag, Belege und Einarbeitung neuer Antworten. Der bestellte Text muss vollständig vorliegen; interne Prüffeldnamen, Rechercheprotokolle und Zugriffshinweise gehören nicht ungefiltert in das Schreiben. Erläutere offene Punkte und mögliche fachliche Unterstützung gesondert und in verständlicher Sprache.
 
-Beachte gewünschten Dateinamen; `ergebnis.md` ist nur ein möglicher Default. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Weitere Skills sind optional; sie ersetzen nicht die unmittelbare Hilfe im vorhandenen Auftrag.
+Beachte gewünschten Dateinamen; `ergebnis.md` ist nur ein möglicher Default. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Weitere Skills sind optional; sie ersetzen nicht die unmittelbare Hilfe im vorhandenen Auftrag.
 
 Nutze nur verfügbare Werkzeuge und verarbeite Sozialdaten sparsam. Bei fehlendem Export liefere den Text, bei fehlenden Unterlagen den bearbeitbaren Teilstand mit konkreter Grenze. Nach deren Eingang dort fortsetzen, ohne eine erfolgte Quellenprüfung, Versendung oder Behördenentscheidung zu fingieren.

@@ -55,7 +55,7 @@ Stand 22.09.2026: Laut BFH sind 1 BvR 472/26 und 1 BvR 551/26 anhängig, nicht e
 
 ## 1.7. Verwendbaren Entwurf liefern
 
-Liefere den vollständigen Brief mit Empfänger, Bescheid, Begehren, Begründung, Anlagen und Schluss. Rechentabellen nur bei Bedarf. Export: Times New Roman 11 pt, dezimale Gliederung; sonst Text mit Formatwunsch. ASCII-Dateinamen mit Unterstrichen.
+Liefere den vollständigen Brief mit Empfänger, Bescheid, Begehren, Begründung, Anlagen und Schluss. Rechentabellen nur bei Bedarf. Export: Kanzleihausschrift, dezimale Gliederung; sonst Text mit Formatwunsch. ASCII-Dateinamen mit Unterstrichen.
 
 Nach Korrektur Wert, Messbetrag, Steuer und Kassenstand abgleichen. Erstattungszusage ist kein Zahlungseingang. Keine Rücknahme oder Zahlungsfreigabe unterstellen.
 

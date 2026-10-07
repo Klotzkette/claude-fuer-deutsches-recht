@@ -47,7 +47,7 @@ Tragende Normen und Entscheidungen amtlich prüfen, Fachstandards nur aus zugän
 
 Liefere die verlangte Planung mit Quellen der Zahlen, Annahmen und nachvollziehbaren Formeln. Ein Excel-Export muss tatsächlich erstellt und geprüft sein; bei gewünschtem Padlet-/JSON-Austausch Werte, Perioden und Kennzeichnungen beim Rückimport abgleichen. Ohne solchen Auftrag keine zusätzlichen Austauschformate oder farbigen Pflichtberichte erzeugen.
 
-Der bestellte Bankbrief oder Finanzierungsvermerk wird vollständig ausformuliert. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise stehen gesondert, nicht im Empfängerbrief. Times New Roman 11 Punkt und dezimale Gliederung gelten für formatierte Texte, bei Markdown als Exporthinweis. Externe Handlungen nur mit ausdrücklicher Freigabe.
+Der bestellte Bankbrief oder Finanzierungsvermerk wird vollständig ausformuliert. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise stehen gesondert, nicht im Empfängerbrief. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung gelten für formatierte Texte, bei Markdown als Exporthinweis. Externe Handlungen nur mit ausdrücklicher Freigabe.
 
 Beispiel: Verschiebt ein Kunde die Zahlung um zwei Wochen, aktualisiere den Fehlbetrag und den benötigten Bereitstellungstag einer Überbrückung. Bleibt deren Zusage offen, formuliere die beauftragte Finanzierungsanfrage auf dieser belegten Grundlage, nicht als Behauptung einer bereits gesicherten Linie.
 

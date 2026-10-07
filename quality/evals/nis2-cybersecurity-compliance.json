@@ -50,9 +50,10 @@
     "changes": [
       "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
       "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
-      "Stille Unterlagensichtung, sofortige Bearbeitung klarer Meldeaufträge und pfadbezogene Fortsetzung ohne vorausgesetzten Systemzugriff ergänzt."
+      "Stille Unterlagensichtung, sofortige Bearbeitung klarer Meldeaufträge und pfadbezogene Fortsetzung ohne vorausgesetzten Systemzugriff ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "65bc76b3862a5f9b772fa223c63610ea1218c3043eb0903ace6373ffc88c5003"
+    "sha256": "d6d1b94680c01fcceec97ca5804fb3b61dae3536d7bee712b94c6583fcacac59"
   },
   "selection": {
     "positive": [
@@ -141,9 +142,10 @@
       "Paragraf 28 Absätze 5 bis 7 BSIG als sektorale Weichen ergänzt.",
       "C-340/21 auf risikogerechte Maßnahmen und deren tatsächliche Umsetzung begrenzt.",
       "Mischbetriebe, widersprechende Kenntnistickets und tatsächliche Übermittlung als Fristauslöser konkretisiert.",
-      "Meldestufeninhalt, MFA-Ausnahmen, befristete Abhilfeentscheidung und Datenbank-Restore gegenüber vollständigem Dienstwiederanlauf ergänzt."
+      "Meldestufeninhalt, MFA-Ausnahmen, befristete Abhilfeentscheidung und Datenbank-Restore gegenüber vollständigem Dienstwiederanlauf ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b4c2986abb4f528e653a3b77a57d371fe073b1a5efd4951d7f722659c846ef82"
+    "sha256": "ea8062a59ea65f50565a86cd75f021e83821bcda543fa79e86bec169a4ea56cc"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

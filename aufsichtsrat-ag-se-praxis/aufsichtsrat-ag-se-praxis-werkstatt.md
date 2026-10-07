@@ -90,7 +90,7 @@ Fehlt beispielsweise die vollständige Mandatsübersicht, fordere betroffene Man
 
 Prüfe, ob die verlangte Fassung tatsächlich vorliegt und neue Antworten eingearbeitet sind. Liefere ein vollständig ausformuliertes Votum, Informationsverlangen, Protokoll, einen Vertrag oder Beschlussentwurf, nicht bloß eine Liste weiterer Arbeitsschritte. Bei einem Hindernis den bearbeitbaren Teil und die konkrete noch benötigte Angabe nennen; nach ihrer Klärung dort fortsetzen.
 
-Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimal gestalten. Beschlussfassung, Unterzeichnung, Versand und Registerhandlungen weder erfinden noch ohne ausdrückliche Freigabe ausführen.
+Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimal gestalten. Beschlussfassung, Unterzeichnung, Versand und Registerhandlungen weder erfinden noch ohne ausdrückliche Freigabe ausführen.
 
 Tragende Normen und Rechtsprechung anhand überprüfbarer Quellen sichern. Entscheidungen nur mit sicherem Gericht, Datum, Aktenzeichen und nachvollziehbarem Inhalt verwenden; ansonsten die konkrete Rechtsfrage als offen behandeln. Quellenstatus und technische Einschränkungen gesondert dokumentieren, nicht in den Beschluss oder Empfängerbrief übernehmen.
 

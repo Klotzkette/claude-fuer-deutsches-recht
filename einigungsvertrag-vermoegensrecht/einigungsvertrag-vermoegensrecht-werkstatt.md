@@ -54,7 +54,7 @@ Eine Chronologie oder Gegenüberstellung nur ausgeben, wenn sie Identität, Rech
 
 Historische Fassungen, Übergangsrecht und heutige Normen auseinanderhalten und tragende Aussagen amtlich prüfen. Rechtsprechung nur mit überprüftem Gericht, Datum, Aktenzeichen und Inhalt verwenden. Fehlende Leitentscheidungen als konkrete Recherchefrage behandeln, nicht ergänzen. Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief.
 
-Vor Ausgabe Objektidentität, Rechtsnachfolge, Rechtsakt, Anspruchsvoraussetzungen, Fristen, Zuständigkeit und erforderliche Urkundenform prüfen. Den stärksten Einwand, etwa ein anderes Anmeldeobjekt oder entgegenstehende Zuordnung, sachlich beantworten. Außenhandlungen einschließlich Archivbestellung, Antrag, Erklärung oder Grundbuchvollzug nur nach ausdrücklicher Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Vor Ausgabe Objektidentität, Rechtsnachfolge, Rechtsakt, Anspruchsvoraussetzungen, Fristen, Zuständigkeit und erforderliche Urkundenform prüfen. Den stärksten Einwand, etwa ein anderes Anmeldeobjekt oder entgegenstehende Zuordnung, sachlich beantworten. Außenhandlungen einschließlich Archivbestellung, Antrag, Erklärung oder Grundbuchvollzug nur nach ausdrücklicher Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.8 Technische Grenzen
 

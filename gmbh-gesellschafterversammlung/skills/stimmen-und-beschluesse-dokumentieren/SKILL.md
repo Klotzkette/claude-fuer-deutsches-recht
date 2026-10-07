@@ -65,7 +65,7 @@ Beachten Sie [Zitierweise](../../references/zitierweise.md), [Rechtsgrundlagen](
 
 Liefern Sie den vollständigen Abstimmungsbogen oder die ausformulierte Auswertung mit zugehörigen Rechentabellen. Jede Ergebnisaussage nennt Antrag, Rechenbasis, Ergebnis und gegebenenfalls Vorbehalt. Ein blankes „angenommen“ ohne nachprüfbare Grundlage genügt nicht. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; offene Erhebungsfelder dürfen in einem ausdrücklich als Vorbereitung bezeichneten Bogen verbleiben.
 
-Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat oder Markdown steht der Formatwunsch als getrennter Exporthinweis außerhalb des Empfängertextes.
+Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat oder Markdown steht der Formatwunsch als getrennter Exporthinweis außerhalb des Empfängertextes.
 
 ## 6 Beispiele
 

@@ -32,7 +32,7 @@ Entscheidung mit sämtlichen Seiten, Rechtsbehelfsbelehrung, Zugang und Übermit
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Widerspruch oder Schriftsatz mit Adressat, Beteiligten, Bescheid, Antrag, Tatsachen, Belegen und Begründung. Keine Skelettbegründung. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Fristberechnung und offene Nachweise getrennt als kurze interne Notiz; keine erfundene Zustellung oder gerichtliche Eingangsbestätigung.
+Vollständig ausformulierter Widerspruch oder Schriftsatz mit Adressat, Beteiligten, Bescheid, Antrag, Tatsachen, Belegen und Begründung. Keine Skelettbegründung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Fristberechnung und offene Nachweise getrennt als kurze interne Notiz; keine erfundene Zustellung oder gerichtliche Eingangsbestätigung.
 
 ## 6. Beispiele
 

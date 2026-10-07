@@ -46,9 +46,10 @@
       "IX ZR 229/22 mit den Grenzen insolvenzgerichtlicher Titelnachprüfung verknüpft.",
       "Vollstreckungsbeginn aus der Statusbewertung nicht als universelle Zulässigkeitsvoraussetzung jedes Gläubigerantrags übernommen.",
       "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
-      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt."
+      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9d9db9f9d77ee492608fea37a816b8736c379c2adf10192f94217b55567323bd",
+    "sha256": "9e98c0614b9a2f7034fe4bc1abf5e78d34fa5007cc4049f8b8ff77e15c3eda99",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -103,9 +104,10 @@
       "IX ZR 229/22 mit den Grenzen insolvenzgerichtlicher Titelnachprüfung verknüpft.",
       "Vollstreckungsbeginn aus der Statusbewertung nicht als universelle Zulässigkeitsvoraussetzung jedes Gläubigerantrags übernommen.",
       "Zahlung nach Fremdantrag -> fortbestehenden Antrag und aktuelle Liquidität prüfen; Zusage -> Statusposition berichtigen.",
-      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt."
+      "Zahlung, Finanzierungszusage, stichtagsbezogene Kostendeckung und gegenstandsbezogene Sicherung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "998c7f010a051c0d52c49e64d0c48b1f303b334e7e6d93350fa188d9b5b4a078",
+    "sha256": "8c48a48fffa7cd4a445d1ab9770b8cad7e36a76fb6182709461a30e476f4246f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

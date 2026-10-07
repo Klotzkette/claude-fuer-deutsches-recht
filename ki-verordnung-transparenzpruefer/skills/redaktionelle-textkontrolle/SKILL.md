@@ -34,7 +34,7 @@ Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabe
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
+Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
 
 ## 6. Beispiel
 

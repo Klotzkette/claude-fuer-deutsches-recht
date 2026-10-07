@@ -30,9 +30,10 @@
     "changes": [
       "Sitzung, Stimmennachweis und konkrete Handlungsform statt universeller Beschlussakte.",
       "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
-      "Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten."
+      "Drei konkrete Einstiegswege und Fortsetzung einer geänderten TOP-Anwesenheit im bestehenden Dokument ergänzt; eigene Sachabstimmungs- und Ausschussprüfung erhalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "143f3b3197fe58561c2f5604fa1e87a452897bb2b83f4897302a7e6401a9d887",
+    "sha256": "1c631fe5e6a365bed2c4280539fb411e03f179c820d4578f736d7426efb9fd4d",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -42,9 +43,10 @@
     "changes": [
       "Werkstatt individuell neu gegliedert; zwölf Sachwege und Bürgerbegehren erhalten, floskelhafte Pflichtakten und falsche Beratungsbeschränkung entfernt.",
       "Mini mit Stimmenbeispiel und eigenständiger Ausschussprüfung; aktuelle GO-NRW-Fassung einschließlich geändertem Nachbesetzungsrecht.",
-      "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden."
+      "Sitzungsfassung, Befangenheit und Anwesenheit rekonstruiert; Kalkulationsänderung mit Satzungsbetrag, Veranlagung und Korrekturweg verbunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2ffb242ebec69118010d8c41d651c4680e857aa9d6fe572990d9f3b829a06829",
+    "sha256": "1fea2c9d15b39f25539c306971a608acc4edbc1fdef330450a67e978a4e686f5",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

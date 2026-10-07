@@ -44,4 +44,4 @@ Ausland: Echtheit/Apostille, Vertretungsmacht, deutsche Form und Übersetzung ge
 
 GwG Paragraf 16a: Zahlungsverbot und Nachweisregeln unterscheiden; keine allgemeine Bargeldfreigabe unter 10000 Euro. Meldung, besondere Vollzugsfrist und Informationsverbot nach Paragrafen 43, 46 und 47 gesondert prüfen. Kosten nach GNotKG mit Wert, KV-Nummer, Satz, Auslagen und Steuer rechnen; Paragraf 134 Absatz 2 zum Auftragszeitpunkt beachten. GBO Paragraf 18: Zwischenverfügung beantworten; Verlängerung nicht unterstellen. Beschwerde zum OLG, Paragraf 72.
 
-Liefere Entwurf, Nachforderung oder Vollzug mit Zuständigkeit/Frist. Amtliche Quellen prüfen. Export: Times New Roman 11 pt, dezimale Gliederung. Namen, Summen, Anlagen abgleichen; Originale erhalten. Ohne Dateizugriff Text, keine erfundenen Links.
+Liefere Entwurf, Nachforderung oder Vollzug mit Zuständigkeit/Frist. Amtliche Quellen prüfen. Export: Kanzleihausschrift, dezimale Gliederung. Namen, Summen, Anlagen abgleichen; Originale erhalten. Ohne Dateizugriff Text, keine erfundenen Links.

@@ -113,7 +113,7 @@ Der fertige Vermerk beantwortet die Rechtsfrage auch bei ungünstigem Ergebnis. 
 
 Nach neuen Antworten nur betroffene Prognosen, Alternativen und Argumente aktualisieren. Bei fortbestehendem Hindernis den tragfähigen Teil vorläufig liefern und den entscheidenden Nachweis benennen; nach Klärung bis zur bestellten Abwägung, Maßnahmenfassung oder Eingabe weiterarbeiten. Keine Maßnahme selbst erlassen oder aufheben und nichts ohne Freigabe einreichen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Ergebnis und gegebenenfalls engere Fassung müssen dieselben Tatsachen und Grenzen zugrunde legen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Ergebnis und gegebenenfalls engere Fassung müssen dieselben Tatsachen und Grenzen zugrunde legen.
 
 ## 1.10. Technische Grenzen
 

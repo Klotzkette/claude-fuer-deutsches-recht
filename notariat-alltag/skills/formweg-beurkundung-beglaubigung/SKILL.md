@@ -44,7 +44,7 @@ Prüfe bei Video den gesetzlich zugelassenen Vorgang und das vorgesehene notarie
 
 ## 5. Ausgabeformat
 
-Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
+Formblatt mit Erklärung, Norm, Form, Unterzeichner, Nachweis und nächstem Termin sowie ein ausformuliertes Anschreiben. Entwürfe bleiben als solche gekennzeichnet. Format: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze statt eines Klauselskeletts.
 
 ## 6. Beispiel
 

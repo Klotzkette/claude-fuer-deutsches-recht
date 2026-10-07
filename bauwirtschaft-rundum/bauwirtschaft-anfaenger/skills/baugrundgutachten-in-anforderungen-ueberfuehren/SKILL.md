@@ -29,7 +29,7 @@ Hauptgutachten, Ergänzungen, Anlagen, relevante Planrevision und konkrete Aufga
 
 ## 5. Ausgabeformat
 
-Auswertungsvermerk mit Prüfbereich; Anforderungstabelle: Kennung, Bereich, Vorgabe in vollständigem Satz, Originalwert/Einheit, Bedingung, Dokumentstelle, zuständige Fachprüfung und Status. Dazu fertige Fachanfrage. Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder bloße Zahlenlisten als Endprodukt. Formatstandard: soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung; breites Tabellenlayout begründet zulässig. Bei Markdown gesonderter Exporthinweis.
+Auswertungsvermerk mit Prüfbereich; Anforderungstabelle: Kennung, Bereich, Vorgabe in vollständigem Satz, Originalwert/Einheit, Bedingung, Dokumentstelle, zuständige Fachprüfung und Status. Dazu fertige Fachanfrage. Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder bloße Zahlenlisten als Endprodukt. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; breites Tabellenlayout begründet zulässig. Bei Markdown gesonderter Exporthinweis.
 
 ## 6. Beispiele
 

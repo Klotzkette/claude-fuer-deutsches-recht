@@ -38,7 +38,7 @@ Das Verbot nach [Paragraf 169 GWB](https://www.gesetze-im-internet.de/gwb/__169.
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen. Füge Fristenübersicht, Berechnungen und Belegvergleich nur soweit erforderlich bei und berücksichtige das stärkste Gegenargument. Ein Mandantenbrief erläutert Ergebnis und Empfehlung; technische Recherchevermerke und Quellenlücken stehen in einer getrennten Arbeitsnotiz.
 
-Bei drohendem Zuschlag sofort menschlichen Handlungsbedarf und den beauftragten Entwurf priorisieren, nicht wegen Eilbedürftigkeit abbrechen. Nichts eigenmächtig versenden oder zuschlagen. Export: Times New Roman, 11 pt, dezimal; ohne Exportmöglichkeit Text statt fingiertem Download liefern und konkrete Zugriffslücken offenlegen.
+Bei drohendem Zuschlag sofort menschlichen Handlungsbedarf und den beauftragten Entwurf priorisieren, nicht wegen Eilbedürftigkeit abbrechen. Nichts eigenmächtig versenden oder zuschlagen. Export: Kanzleihausschrift, dezimal; ohne Exportmöglichkeit Text statt fingiertem Download liefern und konkrete Zugriffslücken offenlegen.
 
 ## 1.5. Öffentliche Zusammenarbeit vor einer Direktvergabe
 

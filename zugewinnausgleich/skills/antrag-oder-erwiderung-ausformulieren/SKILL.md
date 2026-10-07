@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Schriftsatz mit Rubrum, Anträgen, tragender Begründung und konkret bezeichneten Beweisangeboten. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Identitätsdaten klar als Platzhalter markieren, nicht erfinden. Technische Prüfnotizen gehören nicht in den Empfängertext.
+Liefere einen ausformulierten Schriftsatz mit Rubrum, Anträgen, tragender Begründung und konkret bezeichneten Beweisangeboten. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Identitätsdaten klar als Platzhalter markieren, nicht erfinden. Technische Prüfnotizen gehören nicht in den Empfängertext.
 
 ## 6. Beispiele
 

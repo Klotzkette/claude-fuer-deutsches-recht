@@ -502,7 +502,7 @@ Naechste Schritte: 1. [MASSNAHME] bis [DATUM] — 2. [MASSNAHME] bis [DATUM]
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -668,7 +668,7 @@ Pressemitteilungen sind als solche zu kennzeichnen. Vor Verwendung im Schriftsat
 
 Liefere einen individualisierten Vorbehaltstext, einen Umsetzungsplan mit Verantwortlichem und Termin sowie eine Belegtabelle: Inhalt, Rechteinhaber, technische Fassung, Fundort, Geltungsbeginn, Nachweis und offene Frage. Der Vorbehalt enthält einen Lizenzkontakt und grenzt erfasste Inhalte und Nutzungen verständlich ab.
 
-Endtexte sind vollständig ausformuliert. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Offene Angaben werden sichtbar bezeichnet; keine leeren Klauselskelette ausgeben.
+Endtexte sind vollständig ausformuliert. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Offene Angaben werden sichtbar bezeichnet; keine leeren Klauselskelette ausgeben.
 
 ## 6. Varianten und Schlusskontrolle
 
@@ -744,7 +744,7 @@ Vor dem Schriftsatz dem amtlichen Volltext und aktuellen Folgeentscheidungen nac
 
 ## 5. Ausgabeformat
 
-Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung.
+Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Die stärkste Gegenposition wird ausdrücklich verarbeitet: fehlende Rechte, nicht nachgewiesene Handlung, rechtmäßiger Zugang, verspäteter Vorbehalt, Forschungsschranke, unerhebliche Datenbankentnahme, fehlendes Verschulden, unbelegter Schaden, Unbestimmtheit oder Verjährung.
 
@@ -792,7 +792,7 @@ Liefere die nachvollziehbare Berechnung und ausformulierte Anspruchs- oder Abweh
 
 Bei einem Vermerkauftrag keinen zusätzlichen Klageentwurf erstellen. Noch entscheidende Beleglücken konkret benennen; nach ihrer Klärung die Endfassung liefern. Interne Gegenprüfung, Quellenstatus und technische Hinweise getrennt vom Empfängertext halten.
 
-Keine bloße Tabelle als Endprodukt: vollständige Sätze, keine Halbsätze oder Schriftsatzskelette. Ohne Dateiexport das bestellte Dokument mit der bildbezogenen Schadensrechnung vollständig als Antworttext liefern; keine nicht erzeugte Datei verlinken. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Kennzeichne die Fassung als Entwurf zur Freigabe.
+Keine bloße Tabelle als Endprodukt: vollständige Sätze, keine Halbsätze oder Schriftsatzskelette. Ohne Dateiexport das bestellte Dokument mit der bildbezogenen Schadensrechnung vollständig als Antworttext liefern; keine nicht erzeugte Datei verlinken. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kennzeichne die Fassung als Entwurf zur Freigabe.
 
 ## 6. Beispiel
 

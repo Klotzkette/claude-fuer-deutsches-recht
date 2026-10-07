@@ -32,7 +32,7 @@ Artikel 50 Absatz 4 Unterabsatz 2 und Absatz 5, [Quellenreferenz](../../referenc
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
+Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
 
 ## 6. Beispiel
 

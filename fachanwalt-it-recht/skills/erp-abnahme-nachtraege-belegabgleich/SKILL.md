@@ -51,7 +51,7 @@ Erstelle das bestellte Schreiben zur Abnahme- oder Rechnungsfrage beziehungsweis
 
 Ein vorhandener Beleg ersetzt nicht die Prüfung von Vertragsbindung, Vertretungsmacht oder Fälligkeit. Annahmen und streitige Behauptungen dürfen nicht als bestätigte Tatsachen in das Empfängerdokument gelangen. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz festhalten. Bei fehlender Unterlage den brauchbaren Teilstand und die konkrete Nachforderung liefern, danach bis zur bestellten Endfassung weiterarbeiten.
 
-Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Externe Erklärungen und Versand bedürfen ausdrücklicher Freigabe; ohne Dateifunktion den vollständigen Text liefern.
+Vollständige Sätze statt Skeletten, keine unbelegten Erledigungsbestätigungen. Dezimale Überschriften, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, bei Markdown entsprechender Exporthinweis. Externe Erklärungen und Versand bedürfen ausdrücklicher Freigabe; ohne Dateifunktion den vollständigen Text liefern.
 
 ## 6. Beispiele
 

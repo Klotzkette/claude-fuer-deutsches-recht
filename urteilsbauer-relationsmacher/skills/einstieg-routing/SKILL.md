@@ -37,7 +37,7 @@ Dieser Einstieg routet **Urteilsbauer Relationsmacher** vom ersten Sachverhalt z
 
 Fehlt ein entscheidendes Protokoll oder die gerichtliche Beweiswürdigung, genau diesen Beitrag anfordern. Nach Antwort betroffene Beweisfrage, Anspruchsprüfung, Tenor und Kostenfolge aktualisieren; keine persönliche richterliche Wahrnehmung erfinden. Bei neuer entscheidender Lücke kurz nachfragen, bereits geklärte Fragen nicht wiederholen.
 
-Unabhängig tragfähige Teile vorläufig ausarbeiten und nach Klärung bis zur bestellten Relation oder Entscheidungsfassung fortsetzen. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md ist nur Standard ohne Dateiwunsch. Keine Verkündung, Signatur oder Zustellung selbst veranlassen.
+Unabhängig tragfähige Teile vorläufig ausarbeiten und nach Klärung bis zur bestellten Relation oder Entscheidungsfassung fortsetzen. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md ist nur Standard ohne Dateiwunsch. Keine Verkündung, Signatur oder Zustellung selbst veranlassen.
 
 ## Qualitätsanker
 

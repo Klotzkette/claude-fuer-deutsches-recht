@@ -88,4 +88,4 @@ Rechtsprechung nur mit überprüfbarem Gericht, Datum, Aktenzeichen und tragfäh
 
 Nutze verfügbare Werkzeuge und benenne fehlenden Datei- oder Quellenzugriff konkret. Ohne Export liefere den Text, ohne Dateierzeugung oder vollständige Prüfung zu behaupten; bearbeite unabhängig davon mögliche Teile weiter. Weitere Skills sind optional und keine Voraussetzung dieses Ablaufs.
 
-Dokumente mit dezimalen Überschriften und Leerzeilen gestalten, beim Export soweit möglich Times New Roman 11 Punkt. Amtliche Formularfelder nicht in ein unpassendes Schriftsatzschema umformen. Technische Exporthinweise vom adressierten Text trennen.
+Dokumente mit dezimalen Überschriften und Leerzeilen gestalten, beim Export soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Amtliche Formularfelder nicht in ein unpassendes Schriftsatzschema umformen. Technische Exporthinweise vom adressierten Text trennen.

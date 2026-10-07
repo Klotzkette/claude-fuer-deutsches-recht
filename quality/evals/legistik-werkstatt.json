@@ -40,9 +40,10 @@
     "changes": [
       "Regelungsziel in Tatbestand, Rechtsfolge, Zuständigkeit und Änderungsbefehle übersetzen.",
       "Beide Einstiege auf konkrete Normgestaltung ausgerichtet; zeitliche Prüfung materiell um Vertrauensschutz ergänzt.",
-      "Leere Eingabe, bloße Dateien und klaren Entwurfsauftrag getrennt; neue Altantragsentscheidung verändert die bezeichnete Übergangsrechtsdatei und Begründung."
+      "Leere Eingabe, bloße Dateien und klaren Entwurfsauftrag getrennt; neue Altantragsentscheidung verändert die bezeichnete Übergangsrechtsdatei und Begründung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "83b1b9451faf89bf51d07b1882cf191bd566420e0279d2b4c00ded9c524a4dcf"
+    "sha256": "97741c27724821f4674e08128b562dc83d7f0e92d4ca850356f9d222bf10fc48"
   },
   "selection": {
     "positive": [
@@ -96,9 +97,10 @@
       "Werkstatt unterscheidet bedarfsabhängige EU-Notifizierung und konkrete Artikel; vorhandene zehn Fachmaterien und Beteiligungswege erhalten.",
       "Zwischenfassungen zeitversetzter Änderungen und unbeabsichtigte Begriffserweiterungen konkret prüfen.",
       "Papieranträge, Nachreichung, Neuantrag und Portalausfall als Gestaltungsfälle; neue Entscheidung führt zu Normtext und Einzelbegründung.",
-      "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten."
+      "Meldevereinfachung mit Kontrollzweck und Aufwand beider Seiten abgleichen; substantielle Anhörungseinwände bis zur Textänderung bearbeiten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f0fb89d5aebb830d523b970e178b13bfdaad458268303a2ea01c9d9a3651a8d3"
+    "sha256": "e1c8b54f24e6503b07452db70a659a926b5b3ec3afb68223787a3c3a4b09f33b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

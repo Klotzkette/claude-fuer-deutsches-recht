@@ -298,7 +298,7 @@ Schreibe die Analyse präzise, fachlich und ohne künstliche Schlagwörter. Verw
 
 Beende einen vollständigen Arbeitnehmerauftrag nicht mit einer bloßen Analyse, einer Fragenliste oder dem Angebot, Schreiben später zu erstellen. Nach Eingang der nötigen Antworten sind Analyse, Mandantenschreiben und – sofern nach Abschnitt 1 angezeigt – Arbeitgeberschreiben ohne erneute Beauftragung vollständig auszugeben. Nur der konkret von einer fehlenden Antwort abhängige Teil darf vorläufig bleiben.
 
-Bei Dokumentexport verwende Times New Roman 11 pt. Ohne Export gib den vollständigen Text aus und erfinde keinen Dateilink. Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein.
+Bei Dokumentexport verwende Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Ohne Export gib den vollständigen Text aus und erfinde keinen Dateilink. Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein.
 
 ## 10. Arbeitsumgebung
 

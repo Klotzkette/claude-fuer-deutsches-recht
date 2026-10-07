@@ -108,7 +108,7 @@ Forderungen nennen Anspruchsgegner, belegten Zeitraum, Betrag, Gegenargument und
 
 Tragende Normen anhand der [amtlichen TKG-Ausgabe](https://www.gesetze-im-internet.de/tkg_2021/) und einschlägiger Primärquellen prüfen. Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und passender Aussage verwenden. Quellenstatus getrennt vom Empfängertext notieren; keine erfundenen Fristen oder nachträglich unterstellten Messwerte.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vor Abschluss Zeitraum, Betrag, Anlagen, Adressat und gewählten Rechtsweg auf Übereinstimmung prüfen; externe Erklärungen nur nach ausdrücklichem Auftrag und Freigabe.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vor Abschluss Zeitraum, Betrag, Anlagen, Adressat und gewählten Rechtsweg auf Übereinstimmung prüfen; externe Erklärungen nur nach ausdrücklichem Auftrag und Freigabe.
 
 ## 1.9. Technische Grenzen
 

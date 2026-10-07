@@ -26,7 +26,7 @@ Vorhandene Nachricht, Rolle des Nutzers, Vorgangsdatum, Zugangsbeleg und gewüns
 
 ## 5. Ausgabeformat
 
-Kurze Empfehlung, anschließend das beauftragte Schreiben in vollständigen, ausformulierten Sätzen. Keine Skelettfassung. Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar. Nur offene entscheidende Daten und Versandhinweis getrennt ausweisen. Das Paket ist ein Experiment und keine Rechtsberatung; kein Versand ohne ausdrücklichen Auftrag.
+Kurze Empfehlung, anschließend das beauftragte Schreiben in vollständigen, ausformulierten Sätzen. Keine Skelettfassung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar. Nur offene entscheidende Daten und Versandhinweis getrennt ausweisen. Das Paket ist ein Experiment und keine Rechtsberatung; kein Versand ohne ausdrücklichen Auftrag.
 
 ## 6. Beispiel
 

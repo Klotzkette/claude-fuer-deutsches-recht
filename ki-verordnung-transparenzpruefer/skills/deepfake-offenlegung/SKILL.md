@@ -34,7 +34,7 @@ Nach Eingang der Vorschau gleiche die bisherige Begründung mit dem tatsächlich
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
+Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
 
 ## 6. Beispiel
 

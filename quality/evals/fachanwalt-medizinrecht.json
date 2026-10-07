@@ -77,9 +77,10 @@
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b7074d847484ddcf380cf98945928d01ecb7c5b453f3fb44a91e47358f31da44",
+    "sha256": "a40edaa3a9018dd3b0fab1ecae43ff1b2e7d04c291083666ab3552063632c509",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -91,12 +92,13 @@
     "changes": [
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-medizinrecht/fachanwalt-medizinrecht-hauptproblem.md",
-    "prompt_sha256": "a8f73d467e16847248a19d1e54cfd2120ab954dca9ea4ee0d2c624536c21005c",
+    "prompt_sha256": "408c03f3e75b9eaaa82225616c37e08a0225ddaf841b884dd5e7b399d9862196",
     "skill_path": "fachanwalt-medizinrecht/skills/behandlungsfolgen-haushalt-pflege-abgleich/SKILL.md",
-    "skill_sha256": "436433c69286fa094039ed93443a26644aeb9f7dd1be19a61242f483a334b57b"
+    "skill_sha256": "a4f5cc660a6693bc56941f068bda882e998d22d7ef2ebf2c7690ad3108462519"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -105,9 +107,10 @@
       "Werkstatt trennt Standard, Kausalität und Beweislast; Aufklärung ohne starre Wartefrist sowie individuell belegte Haushaltshilfe statt pauschaler Tabellenansprüche.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Zeitgebundene Befundkenntnis statt Rückschau, konkrete Gutachtenfrage und Gegenursache, Aufklärungsgespräch gegenüber Formular, hypothetische Einwilligung sowie überlappende Pflege- und Haushaltshilfe und Leistungsübergang.",
-      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt."
+      "Zwei BGH-Urteile vom 25.11.2025 erstmals konkret in Aufklärung und Organisationshaftung integriert; keine 2026-Entscheidung nur wegen Jahreszahl hinzugefügt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5d95514da287f9af03ffb6808c6ac3ff588b96962bc7d0c9faefc297e761b686",
+    "sha256": "ac3e0d8d395d4fdfdad7ee8fdde783249f3731f4f0facd82294418a8196b54f9",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

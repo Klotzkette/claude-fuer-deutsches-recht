@@ -31,9 +31,10 @@
       "Öffentliche Aufgaben einer Kammer von privater Verbandsarbeit abgegrenzt.",
       "Aktuelle fachgerichtliche Entscheidung mit ausdrücklicher Beschränkung auf bayerisches Registerrecht eingesetzt.",
       "Vorhandene Aktualisierungstakte, Nachforderung und fertige Feldtexte erhalten.",
-      "Neuer Nachweis einer Hauptagentur ändert bezeichnete Registerdatei und Personenzuordnung; übermittelte Stellungnahme und bereinigte öffentliche Fassung getrennt prüfen."
+      "Neuer Nachweis einer Hauptagentur ändert bezeichnete Registerdatei und Personenzuordnung; übermittelte Stellungnahme und bereinigte öffentliche Fassung getrennt prüfen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1272e1e9f91c75d2f66182cdbf0a7e1652a2d8ce01382f1a64d19a7a402e1643"
+    "sha256": "770a63edec020f68b7b27dd11be092f9fdf6d435e1443f6abe9baec1476b54ba"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -45,9 +46,10 @@
       "Individuelles Auskunftsersuchen gegen eigenen Änderungswunsch abgrenzen; lokale Bundestagsausnahme nicht auf Regierungskontakte übertragen.",
       "Rahmenvertrag, unmittelbaren Auftraggeber, Hauptagentur, Unterauftragnehmer und eingesetzte Personen konsistent zuordnen.",
       "Finanzmittel und Aufwendungen getrennt abstimmen; September-Beispiel trennt unverzügliche Änderung, Quartalsende und Geschäftsjahresfrist einschließlich fehlendem Abschluss.",
-      "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten."
+      "Exakt übermittelte Stellungnahme, förmliche Veröffentlichung, Personenbereinigung und Maschinenlesbarkeit als getrennte Prüfschritte bearbeiten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "abb5eb52b20cc277241d901a476f6a2a4af148cd1898a11cb043b784f0ac6d60"
+    "sha256": "deee23449464a047b3127691c3b5db8f5e3e357ce88f64943ae11ddd4819d5f1"
   },
   "selection": {
     "positive": [

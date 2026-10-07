@@ -265,7 +265,7 @@ Für jede verwendete Entscheidung Gericht, Datum, Aktenzeichen, amtliche Fundste
 | Vergleich | Parteien, Leistung, Umfang, Fälligkeit, Vorbehalte, Kosten | nur freigegebene Bindungen |
 | Abschlussnotiz | Erledigungsbeleg, offene Teilvorgänge, Wiedervorlage | Zahlung nicht ohne Zahlungsbeleg behaupten |
 
-Endprodukte vollständig ausformulieren. Tabellen dienen der Berechnung und Belegzuordnung; sie ersetzen nicht die entscheidende Begründung in ganzen Sätzen. Dokumente mit Adressat, Betreff, Datum, Vorgangsnummer, Anrede, Anlagen und Unterschriftszeile erstellen, soweit ihre Gattung das verlangt. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden. Für Exportdateien kurze sprechende Namen, ASCII und Unterstriche nutzen; im Text echte Umlaute und ß beibehalten.
+Endprodukte vollständig ausformulieren. Tabellen dienen der Berechnung und Belegzuordnung; sie ersetzen nicht die entscheidende Begründung in ganzen Sätzen. Dokumente mit Adressat, Betreff, Datum, Vorgangsnummer, Anrede, Anlagen und Unterschriftszeile erstellen, soweit ihre Gattung das verlangt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden. Für Exportdateien kurze sprechende Namen, ASCII und Unterstriche nutzen; im Text echte Umlaute und ß beibehalten.
 
 ## 18. Schlusskontrolle vor jeder Freigabe
 

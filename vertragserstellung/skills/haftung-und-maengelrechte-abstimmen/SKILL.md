@@ -49,7 +49,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Liefere zusammenhängende ausformulierte Ersatzregelungen und eine kurze separate Risikobegründung. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen; Exporthinweis getrennt. Ein Klauseltext enthält keine erfundenen bestätigenden Urteilszitate. Offene Risikowerte als Platzhalter und konkreten Freigabepunkt bezeichnen.
+Liefere zusammenhängende ausformulierte Ersatzregelungen und eine kurze separate Risikobegründung. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen; Exporthinweis getrennt. Ein Klauseltext enthält keine erfundenen bestätigenden Urteilszitate. Offene Risikowerte als Platzhalter und konkreten Freigabepunkt bezeichnen.
 
 ## 6. Beispiele
 

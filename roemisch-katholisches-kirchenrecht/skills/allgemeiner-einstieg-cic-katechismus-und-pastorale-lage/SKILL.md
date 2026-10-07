@@ -92,7 +92,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 Liefere das bestellte Format: Prüfvermerk, Gesprächsleitfaden, Aktennotiz oder Schreiben in vollständigen Sätzen. Bei gewünschter Mehrsprachigkeit müssen Namen, Statusangaben, Fristen und Anträge in den Fassungen übereinstimmen. Quellen- und Prüfnotizen getrennt vom Empfängerbrief halten; optionale Fachskills ersetzen nicht die Fertigstellung des Auftrags.
 
-Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md nur ohne Dateiwunsch verwenden. Keine Dispens, Tribunalentscheidung oder bischöfliche Entscheidung selbst aussprechen.
+Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md nur ohne Dateiwunsch verwenden. Keine Dispens, Tribunalentscheidung oder bischöfliche Entscheidung selbst aussprechen.
 
 ## Qualitäts- und Quellenregel
 

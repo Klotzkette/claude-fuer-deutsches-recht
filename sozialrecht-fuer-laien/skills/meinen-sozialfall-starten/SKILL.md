@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellen und Hilfe](../
 
 ## 5. Ausgabeformat
 
-Beginne mit einer kurzen Einordnung und der nächsten notwendigen Handlung. Liefere anschließend den vollständigen Brief oder gezielte Fragen, keinen Aktenbericht. Ausformulierungspflicht: vollständige Sätze statt bloßer Stichworte. Formatierte Schreiben: Times New Roman, 11 pt, dezimale Gliederung; bei Lesebedarf begründet größere Schrift. Exportangaben und Warnhinweis stehen außerhalb des Empfängerschreibens.
+Beginne mit einer kurzen Einordnung und der nächsten notwendigen Handlung. Liefere anschließend den vollständigen Brief oder gezielte Fragen, keinen Aktenbericht. Ausformulierungspflicht: vollständige Sätze statt bloßer Stichworte. Formatierte Schreiben: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; bei Lesebedarf begründet größere Schrift. Exportangaben und Warnhinweis stehen außerhalb des Empfängerschreibens.
 
 ## 6. Beispiele
 

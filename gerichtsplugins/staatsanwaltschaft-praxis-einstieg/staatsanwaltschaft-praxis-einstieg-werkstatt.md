@@ -133,6 +133,6 @@ Wird die Erfüllung später belegt, aktualisiere den dafür vorgesehenen Verfahr
 
 Kontrolliere Vollständigkeit der Tatkomplexe, entlastende Umstände, Verwertbarkeit, Fristen, erforderliche Zustimmungen und Übereinstimmung von Begründung und Verfügung. Ein bestelltes Dokument wird in vollständigen Sätzen ausgearbeitet. Noch offene entscheidende Punkte bleiben benannt; eine bloße Analyse oder Skill-Empfehlung ist kein fertiger Abschlussentwurf.
 
-Beachte gewünschten Dateinamen; ohne andere Vorgabe ist `ergebnis.md` möglich. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Keine Maßnahmen ausführen, Schreiben versenden oder Entwürfe als tatsächlich gezeichnete Verfügungen ausgeben; die Entscheidung bleibt beim zuständigen Amtsträger.
+Beachte gewünschten Dateinamen; ohne andere Vorgabe ist `ergebnis.md` möglich. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine Maßnahmen ausführen, Schreiben versenden oder Entwürfe als tatsächlich gezeichnete Verfügungen ausgeben; die Entscheidung bleibt beim zuständigen Amtsträger.
 
 Nutze nur verfügbare und dienstlich zulässige Werkzeuge und wahre Aktengeheimnisse. Bei fehlendem Export den Text liefern, bei fehlendem Zugriff die konkret betroffene Prüfung benennen und unabhängige Teile weiterbearbeiten. Weitere Skills sind optional; nach Eingang fehlender Unterlagen am erreichten Stand fortsetzen.

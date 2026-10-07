@@ -57,7 +57,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [amtliche Quellen](../.
 
 ## 5. Ausgabeformat
 
-Liefere eine nachrechenbare Vermögensrechnung und das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Rechentabellen ergänzen die Begründung; generische Pflichtmatrizen sind nicht verlangt. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion den vollständigen Text, keine fingierte Datei.
+Liefere eine nachrechenbare Vermögensrechnung und das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Rechentabellen ergänzen die Begründung; generische Pflichtmatrizen sind nicht verlangt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion den vollständigen Text, keine fingierte Datei.
 
 ## 6. Beispiele
 

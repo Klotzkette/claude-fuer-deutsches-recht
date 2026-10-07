@@ -1,0 +1,13 @@
+# Entwicklungsabhängigkeiten für die Tests unter scripts/tests/.
+# Installation: pip install -r requirements-dev.txt
+#
+# pytest      — Testläufer: python3 -m pytest scripts/tests
+# hypothesis  — Eigenschaftstests (Vertrag V1–V12 in den Testmodulen)
+# mutmut      — Mutationstests; Konfiguration in setup.cfg:
+#               HYPOTHESIS_PROFILE=mutmut mutmut run, dann mutmut results
+# coverage    — Zeilenabdeckung: coverage run -m pytest scripts/tests
+
+pytest>=8.0
+hypothesis>=6.100
+mutmut>=3.0,<4
+coverage>=7.0

@@ -39,7 +39,7 @@ Beachte die [Zitierweise](../../references/zitierweise.md) und das [Quellenregis
 
 ## 5. Ausgabeformat
 
-Liefere den adressatengerechten Brief und erforderlichenfalls eine korrigierte Rechentabelle in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind verboten. Nutze soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Technische Quellenprotokolle und Exporthinweise bei Textausgabe bleiben getrennt. Behaupte keine tatsächlich nicht erzeugten Anhänge.
+Liefere den adressatengerechten Brief und erforderlichenfalls eine korrigierte Rechentabelle in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind verboten. Nutze soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Technische Quellenprotokolle und Exporthinweise bei Textausgabe bleiben getrennt. Behaupte keine tatsächlich nicht erzeugten Anhänge.
 
 ## 6. Beispiele
 

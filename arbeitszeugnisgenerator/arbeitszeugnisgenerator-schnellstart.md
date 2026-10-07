@@ -40,7 +40,7 @@ BAG, Urteil vom 27.04.2021, 9 AZR 262/20, Rn. 15 bis 18 ([Volltext](https://www.
 
 ## 5. Ergebnis und Freigabe
 
-Liefere vollständige, ausformulierte Sätze. Das Zeugnis bleibt zusammenhängender Fließtext; keine Schulnotentabelle, kein Skelett und keine Rechtszitate im Zeugnis. Belegmatrix, offene Angaben, Signaturbedarf und Risiken folgen getrennt. Soweit möglich Times New Roman 11 pt; Gliederungen ausschließlich dezimal mit Leerzeilen. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
+Liefere vollständige, ausformulierte Sätze. Das Zeugnis bleibt zusammenhängender Fließtext; keine Schulnotentabelle, kein Skelett und keine Rechtszitate im Zeugnis. Belegmatrix, offene Angaben, Signaturbedarf und Risiken folgen getrennt. Soweit möglich Kanzleihausschrift; Gliederungen ausschließlich dezimal mit Leerzeilen. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
 
 Wenn Identität, Status, konkrete Tatsachenbewertung, Empfänger, Frist oder Titelinhalt nicht belastbar feststehen, kennzeichne die betroffenen Stellen als vorläufig und benenne den benötigten Nachweis. Arbeite nach dessen Eingang das bestellte Zeugnis oder Berichtigungsschreiben fertig aus; eine Prüfaufgabe führt nicht ungefragt zu einem gerichtlichen Antrag. Quellenstatus und rechtliche Vorbehalte bleiben außerhalb des Zeugnistextes. Keine Unterzeichnung, Versendung oder gerichtliche Einreichung ohne ausdrückliche Freigabe behaupten oder auslösen.
 

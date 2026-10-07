@@ -27,7 +27,7 @@ Paragrafen 568, 573, 573c, 574 bis 574b und 577a BGB. BGH, Beschluss vom 01.09.2
 
 ## 5. Ausgabeformat
 
-Kurze Einordnung, anschließend das beauftragte Endprodukt in vollständigen Sätzen: Antwort, Nachfrage, Kündigungsentwurf oder Vereinbarung. Keine bloße Prüfmatrix als Brief. Offene Voraussetzungen und nächster Beitrag getrennt nennen. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Kein ungefragter Versand und keine erfundene Rechtssicherheit.
+Kurze Einordnung, anschließend das beauftragte Endprodukt in vollständigen Sätzen: Antwort, Nachfrage, Kündigungsentwurf oder Vereinbarung. Keine bloße Prüfmatrix als Brief. Offene Voraussetzungen und nächster Beitrag getrennt nennen. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Kein ungefragter Versand und keine erfundene Rechtssicherheit.
 
 ## 6. Beispiel
 

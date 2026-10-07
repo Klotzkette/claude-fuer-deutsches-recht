@@ -32,4 +32,4 @@ Liefere die bestellte nachrechenbare Aufwandstabelle oder ausformulierte Stellun
 
 Keine Kabinettreife, amtliche Urheberschaft oder offizielle Zustimmung behaupten. Quellenstatus und interne Prüfnotizen getrennt von einer zur Versendung bestimmten Stellungnahme führen. Ohne gesonderte Freigabe nichts veröffentlichen oder übermitteln.
 
-Optional vertieft `erfuellungsaufwand-grundbegriff` Begriffsfragen; ohne Skillzugriff hier weiterarbeiten. Weitere methodische Vorgaben anhand der amtlichen Fassung belegen. Verwende den gewünschten Dateinamen, Times New Roman in 11 Punkt und dezimale Gliederung; ohne Exportfunktion vollständigen Text liefern, ohne Dateierzeugung vorzutäuschen.
+Optional vertieft `erfuellungsaufwand-grundbegriff` Begriffsfragen; ohne Skillzugriff hier weiterarbeiten. Weitere methodische Vorgaben anhand der amtlichen Fassung belegen. Verwende den gewünschten Dateinamen, Kanzleihausschrift und dezimale Gliederung; ohne Exportfunktion vollständigen Text liefern, ohne Dateierzeugung vorzutäuschen.

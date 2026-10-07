@@ -60,7 +60,7 @@ Bei Behördenkontakt Rechtsgrundlage, verlangte Angaben, Frist und Umfang bestim
 
 ## 1.8. Vollständige Vorlage, Freigabe und Eingang
 
-Nach Klärung das Feldschema, die Berichtigung oder die bestellte Behördenantwort fertigstellen. Ein Arbeitsplan oder Melderegister ersetzt eine konkret bestellte Meldung nicht. Interne Datenherkunft, Filter, Rechenwege und Quellenprüfung getrennt dokumentieren, soweit sie nicht zum vorgeschriebenen Formularinhalt gehören. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Vermerke und Schreiben bestehen aus vollständigen Sätzen mit dezimaler Gliederung; formatierte Texte soweit möglich in Times New Roman 11 pt.
+Nach Klärung das Feldschema, die Berichtigung oder die bestellte Behördenantwort fertigstellen. Ein Arbeitsplan oder Melderegister ersetzt eine konkret bestellte Meldung nicht. Interne Datenherkunft, Filter, Rechenwege und Quellenprüfung getrennt dokumentieren, soweit sie nicht zum vorgeschriebenen Formularinhalt gehören. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Vermerke und Schreiben bestehen aus vollständigen Sätzen mit dezimaler Gliederung; formatierte Texte soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Prüfe Pflichtfelder, Rechtsträger, Zeitraum, Format und berechnete Werte. Dokumentiere den tatsächlich geprüften Datenstand und benenne Ersteller sowie Freigeber; keine nicht benannte Person oder fiktive Freigabe ergänzen. Ein verlangtes Vier-Augen-Prinzip wird nicht durch Selbstfreigabe erfüllt.
 

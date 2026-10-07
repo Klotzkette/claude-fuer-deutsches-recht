@@ -88,7 +88,7 @@ Der Empfängertext enthält die tragenden Tatsachen und Rechtsfolgen in vollstä
 
 Am 22.09.2026 wurden die genannten BGH-Leitsätze in amtlichen Suchauszügen geprüft; der direkte Volltextabruf war gesperrt. Keine Randnummern oder Volltextprüfung daraus behaupten. Andere falltragende Entscheidungen und Normfassungen amtlich nachprüfen. Gesundheitsdaten datensparsam in zugelassener Mandatsumgebung verarbeiten. Keine Entbindungen, Meldungen, Vergleiche oder Einreichungen eigenmächtig abgeben.
 
-Nur verfügbare Werkzeuge nutzen, weitere Skills sind optional. Bei fehlendem Zugriff die konkrete Lücke nennen und einen sinnvollen Ersatzweg versuchen. Ohne Export vollständigen Text unter dem gewünschten Dateinamen, sonst `ergebnis.md`, bereitstellen; keinen Dateilink erfinden. Dezimale Überschriften mit Leerzeilen, Paragraf ausschreiben, Times New Roman 11 pt im Export beziehungsweise Exporthinweis.
+Nur verfügbare Werkzeuge nutzen, weitere Skills sind optional. Bei fehlendem Zugriff die konkrete Lücke nennen und einen sinnvollen Ersatzweg versuchen. Ohne Export vollständigen Text unter dem gewünschten Dateinamen, sonst `ergebnis.md`, bereitstellen; keinen Dateilink erfinden. Dezimale Überschriften mit Leerzeilen, Paragraf ausschreiben, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt im Export beziehungsweise Exporthinweis.
 
 ## 1.12. Widersprüchlichen Befund in eine konkrete Beweisfrage übersetzen
 

@@ -212,7 +212,7 @@ Diese vorhandenen Skills sind nur Hilfsmittel bei einer konkreten Fachfrage. Ohn
 
 Normen und Rechtsprechung nach den bei Zugriff verfügbaren Hinweisen in `references/quellenhygiene.md` und `references/zitierweise.md` prüfen. Fehlende Quelle oder Datenbasis nicht durch eine vermeintlich sichere Schwelle ersetzen. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten.
 
-Liefere die bestellte Tabelle und ausformulierte Beratung, keine bloße Auswahl weiterer Skills. Ohne Dateiwunsch ist `ergebnis.md` möglich; Nutzerbenennungen gehen vor. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Textausgabe als Exporthinweis. Externe Zahlungen, Nachrichten und Einreichungen nur nach Freigabe.
+Liefere die bestellte Tabelle und ausformulierte Beratung, keine bloße Auswahl weiterer Skills. Ohne Dateiwunsch ist `ergebnis.md` möglich; Nutzerbenennungen gehen vor. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe als Exporthinweis. Externe Zahlungen, Nachrichten und Einreichungen nur nach Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 
@@ -270,7 +270,7 @@ Tragende Normen und Entscheidungen amtlich prüfen, Fachstandards nur aus zugän
 
 Liefere die verlangte Planung mit Quellen der Zahlen, Annahmen und nachvollziehbaren Formeln. Ein Excel-Export muss tatsächlich erstellt und geprüft sein; bei gewünschtem Padlet-/JSON-Austausch Werte, Perioden und Kennzeichnungen beim Rückimport abgleichen. Ohne solchen Auftrag keine zusätzlichen Austauschformate oder farbigen Pflichtberichte erzeugen.
 
-Der bestellte Bankbrief oder Finanzierungsvermerk wird vollständig ausformuliert. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise stehen gesondert, nicht im Empfängerbrief. Times New Roman 11 Punkt und dezimale Gliederung gelten für formatierte Texte, bei Markdown als Exporthinweis. Externe Handlungen nur mit ausdrücklicher Freigabe.
+Der bestellte Bankbrief oder Finanzierungsvermerk wird vollständig ausformuliert. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise stehen gesondert, nicht im Empfängerbrief. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung gelten für formatierte Texte, bei Markdown als Exporthinweis. Externe Handlungen nur mit ausdrücklicher Freigabe.
 
 Beispiel: Verschiebt ein Kunde die Zahlung um zwei Wochen, aktualisiere den Fehlbetrag und den benötigten Bereitstellungstag einer Überbrückung. Bleibt deren Zusage offen, formuliere die beauftragte Finanzierungsanfrage auf dieser belegten Grundlage, nicht als Behauptung einer bereits gesicherten Linie.
 
@@ -332,7 +332,7 @@ Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen 
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -391,7 +391,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -544,7 +544,7 @@ Tragende Normen und Rechtsprechung amtlich prüfen. Keine Kommentar-, Handbuch- 
 
 Liefere die beauftragte Planung und vollständig ausformulierte Erläuterung, keine Pflichtkombination aus Kurzbild, Matrix und Maßnahmenliste. Bei einem Hindernis den belastbaren Teil mit genau benanntem fehlendem Nachweis ausgeben und nach Antwort fortsetzen. Ein Gutachtenauftrag führt nicht ungefragt zur Antragserstellung.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` möglich. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung formatieren, bei Markdown einen getrennten Exporthinweis geben. Zahlung, Versand oder Einreichung bedürfen ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` möglich. Texte beim Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung formatieren, bei Markdown einen getrennten Exporthinweis geben. Zahlung, Versand oder Einreichung bedürfen ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel und technische Grenzen
 
@@ -608,7 +608,7 @@ Zitiere die [amtlichen Volltexte](https://github.com/Klotzkette/claude-fuer-deut
 
 Liefere den beauftragten Status oder die Bilanz mit Einzelposten-/Beleganlage und ausformulierter Subsumtion: Ergebnis, Methode, Tatsachen, Gegenargumente, offene Punkte und konkrete Folgerung. Tabelle und optionales Padlet dienen der Rechnung; die operative Ampel ist keine rechtliche Entscheidung. Für einen gerichtlichen Auftrag vollständigen Vortrag und passende Beweisangebote erstellen; für Beratung einen verständlichen Vermerk. Kein Memo ungefragt anstelle des verlangten Plans liefern.
 
-Vollständige Sätze statt Skelette, Times New Roman 11 pt für formatierte Texte, ausschließlich dezimale Gliederung. Ungeklärte Tatsachen kenntlich machen, nicht mit Platzhalterrechnungen als erwiesen behandeln. Externe Einreichung und Zahlung nicht ohne Auftrag ausführen.
+Vollständige Sätze statt Skelette, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Texte, ausschließlich dezimale Gliederung. Ungeklärte Tatsachen kenntlich machen, nicht mit Platzhalterrechnungen als erwiesen behandeln. Externe Einreichung und Zahlung nicht ohne Auftrag ausführen.
 
 ## 1.6. Beispiele
 

@@ -46,4 +46,4 @@ Ist der Nenner unklar, frage konkret nach der Behandlung des Optionspools oder d
 
 Liefere bei einem Hindernis den bearbeitbaren Teil mit klar bezeichnetem Vorbehalt und setze nach Klärung dort fort. Prüfe zum Abschluss, ob Rechnung und Vertrags- oder Beschlusstext dieselben Parameter verwenden. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard bei fehlendem Dateiwunsch. Nichts versenden, wandeln, unterzeichnen oder anmelden ohne ausdrückliche Freigabe.
 
-Ohne Export vollständigen Text liefern; ohne Quellenzugriff offene Rechtsfragen gesondert markieren. Keine Datei oder Rechtsprüfung erfinden. Enddokumente ausschließlich dezimal gliedern und soweit möglich in Times New Roman 11 pt formatieren; Exporthinweise getrennt halten. Der Prompt funktioniert eigenständig.
+Ohne Export vollständigen Text liefern; ohne Quellenzugriff offene Rechtsfragen gesondert markieren. Keine Datei oder Rechtsprüfung erfinden. Enddokumente ausschließlich dezimal gliedern und soweit möglich in der Kanzleihausschrift formatieren; Exporthinweise getrennt halten. Der Prompt funktioniert eigenständig.

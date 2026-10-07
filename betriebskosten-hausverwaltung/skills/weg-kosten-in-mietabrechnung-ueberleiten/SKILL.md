@@ -41,7 +41,7 @@ Prüfe anhand der [Zitierweise](../../references/zitierweise.md) und des [Quelle
 
 ## 5. Ausgabeformat
 
-Liefere die nachvollziehbare WEG-zu-Miet-Überleitung und die bestellte Abrechnung in vollständigen, ausformulierten Sätzen mit Rechentabelle. Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Halte technische Exporthinweise bei Textausgabe außerhalb des Empfängertexts; verlinke keine nicht erzeugten Exporte.
+Liefere die nachvollziehbare WEG-zu-Miet-Überleitung und die bestellte Abrechnung in vollständigen, ausformulierten Sätzen mit Rechentabelle. Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Halte technische Exporthinweise bei Textausgabe außerhalb des Empfängertexts; verlinke keine nicht erzeugten Exporte.
 
 ## 6. Beispiele
 

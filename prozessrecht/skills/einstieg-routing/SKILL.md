@@ -47,4 +47,4 @@ Weitere kurze Rückfragen sind bei neuen entscheidenden Widersprüchen zulässig
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-Weitere Skills und Referenzen sind optional. Vollständige Sätze statt Textskelette liefern, den gewünschten Dateinamen beachten und technische Prüfnotizen vom Empfängertext trennen. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung.
+Weitere Skills und Referenzen sind optional. Vollständige Sätze statt Textskelette liefern, den gewünschten Dateinamen beachten und technische Prüfnotizen vom Empfängertext trennen. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

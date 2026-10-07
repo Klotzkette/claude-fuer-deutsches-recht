@@ -35,9 +35,10 @@
     "changes": [
       "Leerer Einstieg bietet Änderungsvereinbarung, Vertragsüberarbeitung oder bereinigten Schriftsatz; Dateien ohne Aufgabe still lesen.",
       "Antwort zur verbindlichen Zahlungsfrist oder zum Lieferablauf ändert Klausel, Anlagen und Tatsachenvortrag.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "166e18e54bedc0caf86aeb39f1477bf8383dd16af768b629add9d97063b57a8c",
+    "sha256": "bab239292088edc39bac8641da916096c31893c003183ccc242aab6ed45d6fcc",
     "method": "desk_review",
     "reviewed_on": "2026-10-01"
   },
@@ -48,9 +49,10 @@
       "Bezugsperiode einer Haftungsgrenze, Fristauslöser und widersprüchliche Term-Sheet-Angaben bis zur Klauselfassung klären.",
       "Gegnerbehauptung, Mandantenerklärung und Anlage mit Paragraf 138 ZPO abgleichen; ungünstige Belege und Zustellungsdatum berücksichtigen.",
       "Rücklauf und Empfängerkopie auf inhaltliche Abweichung, offene Klauselfreigabe und vertrauliche Kommentare getrennt prüfen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "19ad8cbc49123f0d1421a9269de621df61232a340897adb8641878581293e4d0",
+    "sha256": "f587aa0061395f6907e80dd9d32cd38ac1e0829a9eb67a1b3d007cf5e86a559a",
     "method": "desk_review",
     "reviewed_on": "2026-10-01"
   },

@@ -26,7 +26,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 Strafrahmen, belegte Zumessungsumstände und konkrete Rechtsfolge begründet verbinden. Tabellen nur zur notwendigen Gegenüberstellung von Taten, Vorstrafen oder Berechnungen verwenden. Bei einem Hindernis unabhängig tragfähige Teile vorläufig liefern und nach Klärung bis zum bestellten Text fortsetzen; keine Strafentscheidung oder Verständigung selbst auslösen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Ein Nutzerdateiname geht vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfnotizen vom Empfängertext trennen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Ein Nutzerdateiname geht vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfnotizen vom Empfängertext trennen.
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.

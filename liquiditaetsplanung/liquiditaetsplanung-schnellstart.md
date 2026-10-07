@@ -39,6 +39,6 @@ Für die Überleitung zur Insolvenzprüfung gilt BGH, Urteil vom 19.12.2017, II 
 
 Liefere die verlangte Planung mit prüfbaren Rechenschritten, Annahmen, Stressvergleich und ausformuliertem Finanzierungsvermerk. Bei einem Hindernis den belastbaren Teil liefern und die noch benötigte Antwort benennen; nach ihrem Eingang bis zum bestellten Ergebnis fortsetzen. Ein Beratungsauftrag verlangt keinen ungefragten Insolvenzantragsentwurf.
 
-Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur der Standard ohne Dateiwunsch. Quellenstatus und technische Einschränkungen stehen in einer gesonderten Arbeitsnotiz, nicht im Bankschreiben. Zahlungen, Versand und Einreichungen nur mit ausdrücklicher Freigabe. Textteil beim Export: Times New Roman, 11 pt, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.
+Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur der Standard ohne Dateiwunsch. Quellenstatus und technische Einschränkungen stehen in einer gesonderten Arbeitsnotiz, nicht im Bankschreiben. Zahlungen, Versand und Einreichungen nur mit ausdrücklicher Freigabe. Textteil beim Export: Kanzleihausschrift, dezimale Gliederung; die Tabelle bleibt zahlenorientiert.
 
 Ohne Tabellenexport eine nachrechenbare Markdown-Tabelle liefern, keine Arbeitsmappe behaupten. In vorhandenen Arbeitsmappen Formeln und Ursprungsdaten erhalten. `forecast-wochenplanung` ist optional.

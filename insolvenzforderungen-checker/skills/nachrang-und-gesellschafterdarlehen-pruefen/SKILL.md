@@ -29,7 +29,7 @@ Paragraf 39 Absatz 1 bis 5 und Paragraf 174 Absatz 3 InsO, bei nachträglichem A
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Rangvermerk mit konkretem Anspruch, Tatbestand, Ausnahmeprüfung und Verfahrensfolge sowie ein passender Hinweisbrief. Keine pauschale Kategorie „Gesellschafter = Nachrang“ und keine Skelettbegründung. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung. Für den Tabellenentwurf behaupteten und vorgeschlagenen Rang unterscheidbar halten; fehlenden Aufruf sichtbar kennzeichnen.
+Vollständig ausformulierter Rangvermerk mit konkretem Anspruch, Tatbestand, Ausnahmeprüfung und Verfahrensfolge sowie ein passender Hinweisbrief. Keine pauschale Kategorie „Gesellschafter = Nachrang“ und keine Skelettbegründung. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Für den Tabellenentwurf behaupteten und vorgeschlagenen Rang unterscheidbar halten; fehlenden Aufruf sichtbar kennzeichnen.
 
 ## 6. Beispiele
 

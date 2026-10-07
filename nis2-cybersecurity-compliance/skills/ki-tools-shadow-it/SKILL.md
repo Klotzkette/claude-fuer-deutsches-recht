@@ -39,7 +39,7 @@ Wiederanlauf erst mit belegtem Test der betroffenen Zugriffskette empfehlen: iso
 
 ## 5. Ausgabeformat
 
-Bestellte Eindämmungsanweisung, Meldung oder Wiederanlaufentscheidung in vollständigen Sätzen, keine Skelette. Belegstatus, Verantwortliche und Nachlieferungen ausweisen. Times New Roman 11 pt, dezimale Gliederung. Ohne Portalzugriff einen sendefertigen Entwurf liefern, keine Abgabe behaupten. Technische Eingriffe und externe Meldungen nur nach ausdrücklichem Auftrag.
+Bestellte Eindämmungsanweisung, Meldung oder Wiederanlaufentscheidung in vollständigen Sätzen, keine Skelette. Belegstatus, Verantwortliche und Nachlieferungen ausweisen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Portalzugriff einen sendefertigen Entwurf liefern, keine Abgabe behaupten. Technische Eingriffe und externe Meldungen nur nach ausdrücklichem Auftrag.
 
 ## 6. Beispiele
 

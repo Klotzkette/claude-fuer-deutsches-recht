@@ -379,7 +379,7 @@ Auftrag, Rolle und Verfahrensstand bestimmen das benötigte Produkt; nicht alle 
 4. ein Antrag auf Aussetzung der Vollziehung oder sozialgerichtlichen Eilrechtsschutz, sofern Einziehung, Aufrechnung oder existenzielle Nachteile konkret drohen;
 5. aus Behördensicht ein Bescheid- oder Abhilfeentwurf mit bestimmtem Verfügungssatz, festgestelltem Sachverhalt, nachvollziehbarer Berechnung, tragender Begründung und zutreffender Rechtsbehelfsbelehrung.
 
-Eine Nachweisliste oder vorläufige Begründung ist nur ein Zwischenstand, wenn die vollständige Begründung bestellt ist. Nach Eingang der Unterlagen betroffene Monate und Beträge aktualisieren und den Text abschließen. Ein Beratungsauftrag führt nicht ungefragt zu einem Eilantrag; Einreichungen nur nach Freigabe. Quellenprüfvermerke und technische Grenzen getrennt vom Empfängertext halten. Das Endprodukt ist vollständig ausformuliert. Ein formatiertes Dokument verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Eine Nachweisliste oder vorläufige Begründung ist nur ein Zwischenstand, wenn die vollständige Begründung bestellt ist. Nach Eingang der Unterlagen betroffene Monate und Beträge aktualisieren und den Text abschließen. Ein Beratungsauftrag führt nicht ungefragt zu einem Eilantrag; Einreichungen nur nach Freigabe. Quellenprüfvermerke und technische Grenzen getrennt vom Empfängertext halten. Das Endprodukt ist vollständig ausformuliert. Ein formatiertes Dokument verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung.
 
 ## 6. Quellenpflicht
 

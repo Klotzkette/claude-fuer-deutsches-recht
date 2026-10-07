@@ -36,7 +36,7 @@ Optional können normhierarchie-routing, gesetzgebungskompetenz-pruefen, verordn
 
 Liefere das bestellte Dokument in vollständig ausformulierten Sätzen, nicht als leeres Textgerüst. Halte noch offene politische Entscheidungen vom fertigen Regelungstext getrennt. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein Standard ohne andere Vorgabe.
 
-Begleitdokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung; für den Normtext gelten die einschlägigen amtlichen Entwurfsformen mit begründeter Abweichung. Zusätzliche Abrufvermerke gehören in eine gesonderte Arbeitsnotiz.
+Begleitdokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; für den Normtext gelten die einschlägigen amtlichen Entwurfsformen mit begründeter Abweichung. Zusätzliche Abrufvermerke gehören in eine gesonderte Arbeitsnotiz.
 
 Einbringung, Beteiligung oder Übermittlung nicht eigenmächtig veranlassen. Bei fehlendem Zugriff fordere die benötigte Fassung an; ohne Export liefere Text und behaupte keine nicht erfolgte Prüfung oder Dateierzeugung.
 

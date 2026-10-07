@@ -94,7 +94,7 @@ Liefere bei einem Hindernis den belegten Teilstand mit konkreter Nachforderung. 
 
 Verwende den gewünschten Dateinamen, ohne Vorgabe gegebenenfalls `ergebnis.md`. Dokumentiere Quellenstatus und offene Recherchen gesondert vom adressierten Schreiben. Keine Abmahnung, Klage, Registermeldung, Veröffentlichung oder Vergleichsannahme ohne Freigabe.
 
-Vor Abschluss stimme Antrag, Gruppendefinition, Berechnung und Verbraucherinformation auf denselben Stand ab. Eine verbleibende Lücke in Qualifikation oder Finanzierung hindert die sichere Freigabe des Prozesswegs, nicht die Ausarbeitung belegter Klauselargumente. Nach Klärung liefere eine einheitliche Endfassung mit vollständigen Sätzen, dezimaler Gliederung und soweit möglich Times New Roman 11 pt. Technische Exporthinweise gehören außerhalb des Empfängertextes.
+Vor Abschluss stimme Antrag, Gruppendefinition, Berechnung und Verbraucherinformation auf denselben Stand ab. Eine verbleibende Lücke in Qualifikation oder Finanzierung hindert die sichere Freigabe des Prozesswegs, nicht die Ausarbeitung belegter Klauselargumente. Nach Klärung liefere eine einheitliche Endfassung mit vollständigen Sätzen, dezimaler Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Technische Exporthinweise gehören außerhalb des Empfängertextes.
 
 ## 1.8. Technische Grenzen
 

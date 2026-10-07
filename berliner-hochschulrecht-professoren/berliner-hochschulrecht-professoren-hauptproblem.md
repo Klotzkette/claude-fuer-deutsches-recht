@@ -42,7 +42,7 @@ Nutze aktuelle Primärnormen und tatsächlich gelesene Entscheidungen. Amtliche 
 
 ## 1.5. Ausgabeformat
 
-Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen begründeten Text. Interne Quellen- und Fristennotiz vom Empfängerdokument trennen. Bei Chat/Markdown den Formatwunsch getrennt als Exporthinweis nennen. Prüfe, dass die bestellte Fassung wirklich vorliegt und offene entscheidende Angaben klar bezeichnet sind.
+Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Kanzleihausschrift und ausschließlich dezimale Gliederung. Tabellen ergänzen begründeten Text. Interne Quellen- und Fristennotiz vom Empfängerdokument trennen. Bei Chat/Markdown den Formatwunsch getrennt als Exporthinweis nennen. Prüfe, dass die bestellte Fassung wirklich vorliegt und offene entscheidende Angaben klar bezeichnet sind.
 
 ## 1.6. Beispiele
 

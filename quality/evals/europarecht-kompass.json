@@ -20,9 +20,10 @@
     "changes": [
       "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
       "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b19811b4669b3e7f9ffc5ffdd3a89604d38615906bd11b6a2e5df494ff7661f6"
+    "sha256": "b384eb6868f3546447b090af338e82267d085b14c290debad150082b1d0530dd"
   },
   "selection": {
     "positive": [
@@ -74,9 +75,10 @@
     "changes": [
       "C-573/17 Randnummern 60 bis 68 in die Anspruchsprüfung eingebaut.",
       "Rahmenbeschluss-Ausgangsfall und Grenzen horizontaler Richtlinienwirkung ausdrücklich benannt.",
-      "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde."
+      "Nationales Anspruchsziel und unionsrechtlicher Wirkungsweg, Zeit- und Anwendungsbereich, alternative Umsetzung, konkrete Risikobelege, Beihilfemaßnahme und fehlende Fristwirkung einer Beschwerde.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ae13c050099c2c06b2efd203452a75b1896cab20343793b711ece8c3ae0f67e0"
+    "sha256": "0d676b25ca496f7a7cc11c4be51ff5ad721a5bc4d7d679fcb5765657717199ca"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

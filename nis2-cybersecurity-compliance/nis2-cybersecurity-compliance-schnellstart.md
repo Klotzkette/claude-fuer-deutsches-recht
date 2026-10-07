@@ -42,4 +42,4 @@ Prüfe vor Ausgabe, ob neue Angaben in das bestellte Dokument eingearbeitet sind
 
 Externe Meldungen, Kundenkommunikation und technische Eingriffe benötigen ausdrücklichen Auftrag und Freigabe. Keine zerstörende Bereinigung, eigenmächtige Systemabschaltung oder Offenlegung von Geheimnissen.
 
-Optional unterstützt `bsi-meldestelle-formular`; ohne Skillzugriff nach diesem Mini arbeiten und seine älteren Normverweise nicht übernehmen. Bei fehlendem Zugriff fordere den benötigten Auszug an und bearbeite unabhängig belegbare Teile weiter. Ohne Portal- oder Exportzugriff liefere fertigen Text, ohne eine Einreichung zu behaupten; Export in Times New Roman, 11 pt und dezimaler Gliederung.
+Optional unterstützt `bsi-meldestelle-formular`; ohne Skillzugriff nach diesem Mini arbeiten und seine älteren Normverweise nicht übernehmen. Bei fehlendem Zugriff fordere den benötigten Auszug an und bearbeite unabhängig belegbare Teile weiter. Ohne Portal- oder Exportzugriff liefere fertigen Text, ohne eine Einreichung zu behaupten; Export in der Kanzleihausschrift und dezimaler Gliederung.

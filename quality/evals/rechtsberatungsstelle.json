@@ -26,9 +26,10 @@
       "Bestehender Fall- und Übergabeeinstieg bewahrt; konkreter unabhängiger Beratungsbedarf im Behördenwiderspruch statt pauschaler Verweisung ergänzt.",
       "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung. Grenze: Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen.",
       "Spätere Übernahme -> Zwischenverantwortung und Rückruf konkret zuweisen; Zahlungsbeleg -> Betrag und Brief korrigieren.",
-      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage."
+      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bc530c744655fb0e6fe5326cd0d775968a0855c7ec9e883bdc229d41bc994fa2",
+    "sha256": "6d5a2d7f5f4133709f8cb12b1b2a59bf1b47d27d84660800aa42c1568488d6ea",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -83,9 +84,10 @@
       "Bestehender Fall- und Übergabeeinstieg bewahrt; konkreter unabhängiger Beratungsbedarf im Behördenwiderspruch statt pauschaler Verweisung ergänzt.",
       "Keine pauschale Verweisung an die Ausgangsbehörde zur Beratung über den Widerspruch gegen ihre Entscheidung. Grenze: Keine automatische Beratungshilfebewilligung oder Prozessvertretungsbefugnis studentischer Stellen.",
       "Spätere Übernahme -> Zwischenverantwortung und Rückruf konkret zuweisen; Zahlungsbeleg -> Betrag und Brief korrigieren.",
-      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage."
+      "Abrechnungszuordnung, tatsächlich geprüfte Fassung, zeitlich lückenlose Übergabe und begrenzte externe Übernahmeanfrage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "882fc7450b0036d5606280a9a3110bd91320ecaeffa0bfb90e8d5399e14dbe9a",
+    "sha256": "3ef791ed7de1aee51f9a1993b462fe3b51343f18f58a220a7ddb7891b7983347",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

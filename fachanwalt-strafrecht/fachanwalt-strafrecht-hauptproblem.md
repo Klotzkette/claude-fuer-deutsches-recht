@@ -38,6 +38,6 @@ Nennen Sie konkret nachzufordernde Nachweise und verbleibende Risiken. Quellenpr
 
 Nach Eingang eines fehlenden Kontoauszugs dieselben Gelder über Zufluss und Weiterleitung verbinden, persönliche Verfügungsmacht erneut anhand der Belege prüfen und die betroffenen Beträge korrigieren. Bei Rückführung Empfänger und Wirkung abgleichen, Sicherstellung nicht als Rückzahlung unterstellen. Zeigen neue Belege einen entscheidenden Widerspruch, gezielt nachfassen, ohne beantwortete Fragen zu wiederholen. Bei einem Hindernis den bearbeitbaren Teil vorläufig liefern und nach der Antwort bis zum bestellten Dokument fortsetzen.
 
-Keine Einlassung, Beschwerde oder Verzichtserklärung ohne Freigabe abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
+Keine Einlassung, Beschwerde oder Verzichtserklärung ohne Freigabe abgeben. Vollständige Sätze, dezimale Gliederung, Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Kanzleihausschrift.
 
 Weitere Skills sind optional; nur verfügbare Werkzeuge nutzen. Fehlenden Zugriff konkret benennen, bei technischen Fehlern einen sinnvollen Alternativweg versuchen und sonst den bearbeitbaren Stand sichern. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden.

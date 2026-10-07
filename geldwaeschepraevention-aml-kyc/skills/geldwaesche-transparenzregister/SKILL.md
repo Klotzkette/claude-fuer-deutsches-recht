@@ -37,7 +37,7 @@ GwG Paragrafen 20, 21, 23 und 23a; [Rechtsprechungszuordnung und Stand](../../re
 
 ## 5. Ausgabeformat
 
-Ausformulierter Abgleichvermerk, bei Bedarf getrennte Korrektur-Nachforderung und Entwurf einer Unstimmigkeitsmeldung. Times New Roman 11 pt, dezimale Gliederung. Keine aus einem Registerfehler abgeleitete automatische Verdachtsmeldung.
+Ausformulierter Abgleichvermerk, bei Bedarf getrennte Korrektur-Nachforderung und Entwurf einer Unstimmigkeitsmeldung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine aus einem Registerfehler abgeleitete automatische Verdachtsmeldung.
 
 ## 6. Beispiele
 

@@ -67,9 +67,10 @@
       "Entscheidung in alle drei Prompts und Fokus-Skill mit tatsächlicher Erfolgsbegründung und genauer Fristauslösung eingebunden.",
       "Kostenkürzung nicht mit stets erforderlichem Teilwiderruf gleichgesetzt; Aussetzungsantrag bei Abgaben um Paragraf 80 Absatz 6 VwGO ergänzt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f9528051d28f9f23e8d1f5d65ae1eeb8609f33b9da39dd2986648ad7a3e27bec",
+    "sha256": "05ae0c94a7912d7602dedd3667da6a1956f268e1b5328315b268120525f92746",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -81,12 +82,13 @@
       "Fehlende Teilnahme von fehlender Bereitstellung unterschieden und tatsächlichen Erfolgsgrund des Urteils klargestellt.",
       "Kenntnisfrist nicht schon mit Anhörungsversand beginnen lassen; Kostenkürzung von Aufhebung, Erstattung und Zinsen getrennt.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
-      "Mitteilung eines beabsichtigten Teilwiderrufs ohne Gelegenheit zur Stellungnahme von einer fristauslösenden Anhörung abgegrenzt."
+      "Mitteilung eines beabsichtigten Teilwiderrufs ohne Gelegenheit zur Stellungnahme von einer fristauslösenden Anhörung abgegrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-verwaltungsrecht/fachanwalt-verwaltungsrecht-hauptproblem.md",
-    "prompt_sha256": "e1934bee755feb8a81c52fe4a5fa6f35b648c6fe024164b9b2d388a1784cf8a8",
+    "prompt_sha256": "7d6be8d25de9735beaf85e3f8561a0d7b4ac1987d3a3a522c709579549ad2387",
     "skill_path": "fachanwalt-verwaltungsrecht/skills/foerdermittel-zweckbindung-belegabgleich-rueckforderung/SKILL.md",
-    "skill_sha256": "b3314d8327afc373f21902f22447b258a1a95b4f29cbe5a94a48eef75faa82e5"
+    "skill_sha256": "e25bbbbf648ba99f28ec8c7cb7cb37a2c4fa70b9875f03111f2a4880c92d853f"
   },
   "selection": {
     "positive": [

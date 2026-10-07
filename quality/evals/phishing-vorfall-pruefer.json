@@ -82,9 +82,10 @@
       "Erstattung, Anzeigefrist, SCA, Bankmitverschulden und Beispielberechnung konkretisiert.",
       "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
       "2026-09-23: Leere Eingabe, Dateien ohne Auftrag und klare Aufgabe ausdrücklich getrennt; Anzeigeart und weitere Gutschrift als konkrete Fortsetzungsfälle.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "dc7251428e17bcc63d91ddcd21dc27b5a261b18684d9cec08cc6d65eb5eb4969",
+    "sha256": "f6106eca0c7ceaf4ea874c9863a38550286a3ad60258de7f145daa4c9fdc2992",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -96,9 +97,10 @@
       "Bankbrief und Beleganforderung bleiben vollständig, Klage nur auf Auftrag.",
       "2026-09-23: Sitzungszuordnung, abgebrochene Versuche und nachträgliche Umsatzanzeigen von Freigabedialogen getrennt; Meldung und Instrumentverwendung zeitlich zugeordnet.",
       "2026-09-23: Vorläufige Gutschrift, belastungsbedingte Kontofolgen, zielgerichtete Ablehnungserwiderung und vollständige Fortsetzung in bankreklamation.md beziehungsweise Nutzerpfad ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 03.03.2026 – XI ZR 20/24, Rn. 18–35. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6898606766fac8826f622e9b5db441ee007968159e3d5b26a512fd93a7e30461",
+    "sha256": "8e1522394e3982d9fd8235f415d447a2ec8a50bfe39d4b659f6b46e7824f83d0",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

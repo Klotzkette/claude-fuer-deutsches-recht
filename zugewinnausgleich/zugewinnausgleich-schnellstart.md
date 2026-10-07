@@ -46,4 +46,4 @@ Prüfe Normfassung und tragende Passage; keine Blindzitate. Amtliche Startpunkte
 - [BGH, Urteil vom 09.02.2011, Az. XII ZR 40/09](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2009/XII_ZR__40-09.pdf?__blob=publicationFile&v=1), Randnummern 16 bis 37: Praxiswert, Steuern und Unterhaltsabgrenzung.
 - [BGH, Beschluss vom 06.05.2015, Az. XII ZB 306/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2014/XII_ZB_306-14.pdf?__blob=publicationFile&v=1), Randnummern 19 bis 27: Nießbrauch.
 
-Vollständige Sätze, echte Umlaute, Paragraf ausgeschrieben und dezimale Gliederung mit Leerzeilen. Times New Roman 11 pt, bei Markdown als separater Exporthinweis. Rechentabellen nur nach Bedarf; Dateiwunsch beachten. Ohne Export vollständigen Text liefern. Prüfnotiz und Empfängertext trennen.
+Vollständige Sätze, echte Umlaute, Paragraf ausgeschrieben und dezimale Gliederung mit Leerzeilen. Kanzleihausschrift, bei Markdown als separater Exporthinweis. Rechentabellen nur nach Bedarf; Dateiwunsch beachten. Ohne Export vollständigen Text liefern. Prüfnotiz und Empfängertext trennen.

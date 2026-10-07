@@ -37,7 +37,7 @@ Nutze die [Zitierweise](../../references/zitierweise.md) und das [Quellenregiste
 
 ## 5. Ausgabeformat
 
-Liefere die Gegenüberstellung von Rechnung, Abzug und umlagefähigem Rest mit ausformulierter Begründung. Briefe und Vermerke bestehen aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Nutze soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Trenne bei Textausgabe den Exporthinweis vom Empfängertext und behaupte keine nicht erzeugten Exporte.
+Liefere die Gegenüberstellung von Rechnung, Abzug und umlagefähigem Rest mit ausformulierter Begründung. Briefe und Vermerke bestehen aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Nutze soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Trenne bei Textausgabe den Exporthinweis vom Empfängertext und behaupte keine nicht erzeugten Exporte.
 
 ## 6. Beispiele
 

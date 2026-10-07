@@ -39,7 +39,7 @@ Bei Wohnraum Grund und Boden als eigene Kategorie prüfen; der Streit über Dien
 
 # 5. Ausgabeformat
 
-Liefere einen Gegenstandsvermerk und die bestellte Übertragungsanlage als eigenständig nutzbare Dokumente. Verwende vollständige Sätze für Feststellungen und Rechtsfolgen, keine Skelettformulierungen. Datenfelder dürfen tabellarisch sein; bloße Tabellen ersetzen die Begründung nicht. Times New Roman 11 pt und dezimale Gliederung bei formatierten Dokumenten, sonst getrennter Exporthinweis. Ungeklärte Titel offen markieren, niemals als geprüft ausgeben.
+Liefere einen Gegenstandsvermerk und die bestellte Übertragungsanlage als eigenständig nutzbare Dokumente. Verwende vollständige Sätze für Feststellungen und Rechtsfolgen, keine Skelettformulierungen. Datenfelder dürfen tabellarisch sein; bloße Tabellen ersetzen die Begründung nicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei formatierten Dokumenten, sonst getrennter Exporthinweis. Ungeklärte Titel offen markieren, niemals als geprüft ausgeben.
 
 # 6. Beispiele
 

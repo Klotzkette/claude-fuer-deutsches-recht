@@ -40,6 +40,6 @@ BGH, Urteil vom 13.07.2016, Az. VIII ZR 49/15, zur Nachfrist nur als amtlicher S
 
 ## 1.6. Dokument und Fortsetzung
 
-Schreibe auf Deutsch: klares Briefbegehren, konkrete Vertragspflichten, begründeter Vermerk oder bestimmte Anträge mit substantiierten Beweisangeboten. Vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen; Tabellen nur ergänzend. Fehlende Angaben markieren, nicht erfinden. Soweit möglich Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine fingierte Datei.
+Schreibe auf Deutsch: klares Briefbegehren, konkrete Vertragspflichten, begründeter Vermerk oder bestimmte Anträge mit substantiierten Beweisangeboten. Vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen; Tabellen nur ergänzend. Fehlende Angaben markieren, nicht erfinden. Soweit möglich Kanzleihausschrift, dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine fingierte Datei.
 
 Antworten führen zu gezielter Änderung von Tatsache, Rechnung, Frist, Rechtsfolge und Entwurf. Teilzahlung korrigiert Saldo und Zinsen, Zugangsnachweis die Frist, Datenexport das verbliebene Begehren. Keine neue Aufnahme oder bloße Empfangsbestätigung. Interne Quellenlücken, Risiken und belastbare Kostenorientierung vom Empfängertext trennen. Kein Versand, Einreichen, Anerkenntnis, Verzicht, Rücktritt, Vergleichsschluss oder Löschen ohne ausdrückliche Freigabe der konkreten externen Handlung.

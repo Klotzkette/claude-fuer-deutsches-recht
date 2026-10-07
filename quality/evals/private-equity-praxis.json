@@ -36,9 +36,10 @@
       "II ZR 173/04 anhand Erwerbspreis, Minderheitsstellung, Risiko und Gewinnfunktion statt als allgemeine PE-Freigabe angewandt.",
       "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
       "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
-      "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk."
+      "2026-09-23: Drei ausdrückliche Startmodi und Fortsetzungsbeispiele mit Vertragsstatus, Formprüfung und benanntem Kaufpreis- beziehungsweise Vollzugsvermerk.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "43c7093b8ca98baccbeaedbf7bbc4bc62f2f6e58176c994997cf6275d2430100"
+    "sha256": "d686ceb91a36b125dd0be1ba9b06742ebf5afd7e21f3a35f42ef279f2e192faa"
   },
   "selection": {
     "positive": [
@@ -92,9 +93,10 @@
       "Abberufung nach Paragraf 38 GmbHG von Beteiligungsrückerwerb und Paragraf 162 Absatz 2 BGB getrennt.",
       "Keine erfundene Leakage-Rechtsprechung; bestehende Fonds-, Kredit- und Exit-Routen erhalten.",
       "2026-09-23: Waterfall mit ausdrücklich angenommener Rechenfolge, Fonds- versus Erwerbsvehikelebene und Nachwirkung einer Aufholklausel ergänzt.",
-      "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert."
+      "2026-09-23: Finanzschuld/Betriebskapital/Leakage, anspruchsberechtigte Partei, Einwandfrist, Sachverständigenzuständigkeit, Drittanspruchsverfahren und tagesbezogener Funds Flow konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0a05821774896c54c67c10c76b0f4fd5a9c22865399366408213af3dd0d09be5"
+    "sha256": "faca09477add4e9207e6b277d7552bd2c29399bbd8f3a928afc05f327e1e9719"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

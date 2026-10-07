@@ -106,7 +106,7 @@ Liefere Richtlinie, Entscheidungsvorlage, Freigabevermerk, Vertragsfassung oder 
 
 Bei einer entscheidenden Lücke den belastbaren Teil als vorläufig kennzeichnen und den konkret benötigten Beitrag nennen. Nach Eingang betroffene Einstufung, Maßnahme und Textfassung fortführen; neue entscheidende Lücken gezielt weiterklären. Die Dokumentenbestellung ist nicht mit einer Analyse erledigt.
 
-Bei formatierten Dokumenten möglichst Times New Roman 11 pt und dezimale Gliederung verwenden. Ohne weitere Skills anhand dieser Werkstatt weiterarbeiten; fehlenden Datei- oder Quellenzugriff konkret benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.
+Bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden. Ohne weitere Skills anhand dieser Werkstatt weiterarbeiten; fehlenden Datei- oder Quellenzugriff konkret benennen. Ohne Export vollständigen Text statt erfundenem Dateilink liefern.
 
 ## 1.10. Von der Systemantwort zum wirksamen Beschluss
 

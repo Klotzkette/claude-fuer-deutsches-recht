@@ -27,9 +27,10 @@
       "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
       "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
       "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c1561b6cb5818b61bf78c462ec0d8aafaf5d4048f3335ee90859a1df3ce641f9"
+    "sha256": "3de939134cdb71a75c47f524b7a2212f47c0c872d3b73f9c33e873e456f14d5c"
   },
   "selection": {
     "positive": [
@@ -82,9 +83,10 @@
       "Wissenschaftlicher Arbeitsauftrag statt unspezifischer Ergebnisbestellung.",
       "Sensible Daten und Straftatendaten getrennt; Vertraulichkeitsrisiko als echte Planungsfrage integriert.",
       "Unvollständige Datenschutzverweise und juristische Pflichtfelder im Antrag vermieden.",
-      "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen."
+      "Beobachtbare Forschungsergebnisse, methodische Ausweichpfade, Personal- und Kapazitätsrechnung, Gerätezugang, begründete Reaktion auf Gutachterkritik und Abgrenzung institutioneller von Ausschreibungsfristen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "79443e0f1daf48db656abd925a9387cdc260f8e759d323f29c15bc7634823361"
+    "sha256": "f8a5c42aeed6065c777df316aea2dc4122104be80c647663d561fbc34ec4741b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

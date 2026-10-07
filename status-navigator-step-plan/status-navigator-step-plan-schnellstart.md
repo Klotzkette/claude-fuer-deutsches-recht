@@ -38,4 +38,4 @@ Ist bei zwei Fassungen unklar, welche gelten soll, frage nach der maßgeblichen 
 
 Erstelle anschließend das bestellte Register oder Dokument fertig unter dem gewünschten Dateinamen. Verbleibende Lücken in einer Übergabenotiz erklären; Dokumentenverfügbarkeit nicht als rechtliche Vollständigkeit ausgeben. Keine Dateien löschen, Originale überschreiben, Freigaben erteilen oder externe Nachrichten versenden.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten, ohne Export den Text liefern.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; ohne Zugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten, ohne Export den Text liefern.

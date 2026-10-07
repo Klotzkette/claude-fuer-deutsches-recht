@@ -128,9 +128,10 @@
       "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c0816255edd1c55f5b20d6427be7eef87ccc72046a60fbded578b2ba97c95ec4",
+    "sha256": "bec0eeeafd24987c038822623466fbcd03d6faf5a479cf784c5e29cbbb51ab99",
     "reviewed_on": "2026-09-30"
   },
   "focus_review": {
@@ -143,12 +144,13 @@
       "Interne Materialnachforderung von Paragraf 56 Absatz 3 VgV getrennt; Hauptproblem um nachgerechnetes 84,00/86,55/bedingt 92,00-Punkte-Beispiel ergänzt.",
       "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-vergaberecht/fachanwalt-vergaberecht-hauptproblem.md",
-    "prompt_sha256": "12a66e3269643bed0147a945ec2987d3d053fe365fdf1ade497755b115b9b0a8",
+    "prompt_sha256": "16ae4d65a0b5e0492ae2568c7caaa1f6a865fed2e25ee4178bfed4202710c977",
     "skill_path": "fachanwalt-vergaberecht/skills/angebotswertung-punktespiegel-rangfolgenkontrolle/SKILL.md",
-    "skill_sha256": "f4350cfee4aa775c5860108759150b24ccadd7773c4201dd0d6ef648dd09c6f7"
+    "skill_sha256": "dca340ceef7ded1a7a7de55c69f678a827b85d4ea8f7f8c3038f561cba8e0175"
   },
   "selection": {
     "positive": [
@@ -211,9 +213,10 @@
       "Aktuelle Paragrafen 134, 160, 169 und 173 GWB abgeglichen; keine Zusage fortdauernden Zuschlagsschutzes nach Obsiegen des Auftraggebers.",
       "Werkstatt differenziert Paragraf 132 GWB statt pauschaler Nachtragsfreigrenze; ungeprüfte historische Entscheidungsliste entfernt.",
       "Abgabenachweis gegenüber Arbeitskopie, Eignungsnachweis gegenüber wertungsrelevantem Konzept, Originalrechnung und bedingte Neubewertung, konkrete Abhilfe, Geheimschutz und Ausgangsoption bei Vertragsänderung.",
-      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet."
+      "Die für dieses Gebiet dokumentierten Quellenpassagen vom 30.09.2026 fallbezogen eingearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "631993878e0854692d99c8c8f28aa0bcf2ef8d86fd5f572f7fc9adb8a1909091",
+    "sha256": "1c7fbef86ed71b7fb98e2d4e81a6632d4051f08c801bfb624a8f139a9be635a3",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {

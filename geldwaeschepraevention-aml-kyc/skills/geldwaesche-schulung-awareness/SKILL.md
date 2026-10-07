@@ -37,7 +37,7 @@ GwG Paragraf 6, Aufsichtsvorgaben und [Rechtsstand](../../references/rechtsstand
 
 ## 5. Ausgabeformat
 
-Ausformulierter Ablauf mit konkretem Fall, Lernfrage, Verantwortlichem und Nachweis; Kontrollbericht mit festgestelltem Verhalten, nicht nur Häkchen. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierter Ablauf mit konkretem Fall, Lernfrage, Verantwortlichem und Nachweis; Kontrollbericht mit festgestelltem Verhalten, nicht nur Häkchen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 

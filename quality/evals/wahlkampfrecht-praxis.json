@@ -51,9 +51,10 @@
       "Spendeneingang, Werbung und Amtsmitteleinsatz anhand Herkunfts- und Veröffentlichungsbelegen getrennt bearbeiten.",
       "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
       "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
-      "40000-Euro-Eingang zur konkreten Anzeigevorlage fortgeführt; Rückleitung beim Eingang und Weiterleitung unzulässiger Spenden getrennt."
+      "40000-Euro-Eingang zur konkreten Anzeigevorlage fortgeführt; Rückleitung beim Eingang und Weiterleitung unzulässiger Spenden getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3fb5c9c7c9a5ece3e3ec6049352ab1529645abd8de1cd75f2d853a1c1843ba37"
+    "sha256": "daeb8204a416a99b8bbbbaf5f203229d2a25e39c3515ed6436a9a4f9037223e7"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -61,9 +62,10 @@
     "changes": [
       "Wanka jetzt im deutschen amtlichen Volltext mit tragenden Randnummern statt englischem Suchhinweis geprüft.",
       "Exakte Werbetransparenz- und Targetingartikel samt Profilingverbot und begrenzter Ausnahme ergänzt; Spendenschwellen am aktuellen Gesetz bestätigt.",
-      "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung."
+      "Meldungs- und Herkunftsdialog, Standortantwort anhand Bescheid/Anlage und Änderung von Transparenzvermerk beziehungsweise Amtskanalbewertung konkret ausgearbeitet; keine politische Anspracheoptimierung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "cabc97f7fdc924fb4dfebd4ec4ffab58006f2f7e236e8efad2e7a1653994297d"
+    "sha256": "f440735e76629ea710ca596200c189527ce159739453d4926e94017742f388bc"
   },
   "selection": {
     "positive": [

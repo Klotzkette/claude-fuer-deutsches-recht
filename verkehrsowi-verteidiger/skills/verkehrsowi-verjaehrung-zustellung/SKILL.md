@@ -73,7 +73,7 @@ Wenn Zustellungsmangel vorliegt:
 
 ## Ausgabe und Quellen
 
-Das Memo nennt in vollständigen Sätzen Tatbestand und anwendbare Fassung, berechnet den Ablauf anhand der Belegchronologie und erklärt jede Unterbrechung sowie § 32. Ein Einstellungsantrag wird erst nach diesem Abgleich ausformuliert. Verwende ausschließlich dezimale Gliederung, in formatierten Dokumenten soweit möglich Times New Roman 11 pt; keine bloßen Entwurfskelette.
+Das Memo nennt in vollständigen Sätzen Tatbestand und anwendbare Fassung, berechnet den Ablauf anhand der Belegchronologie und erklärt jede Unterbrechung sowie § 32. Ein Einstellungsantrag wird erst nach diesem Abgleich ausformuliert. Verwende ausschließlich dezimale Gliederung, in formatierten Dokumenten soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; keine bloßen Entwurfskelette.
 
 Amtlich geprüft am 30.09.2026: [§ 26 StVG](https://www.gesetze-im-internet.de/stvg/__26.html), [§ 31 OWiG](https://www.gesetze-im-internet.de/owig_1968/__31.html), [§ 32 OWiG](https://www.gesetze-im-internet.de/owig_1968/__32.html), [§ 33 OWiG](https://www.gesetze-im-internet.de/owig_1968/__33.html), [§ 51 OWiG](https://www.gesetze-im-internet.de/owig_1968/__51.html), [§ 8 VwZG](https://www.gesetze-im-internet.de/vwzg_2005/__8.html). Die konsolidierte aktuelle Fassung ersetzt keine Prüfung des Änderungs- und Übergangsrechts für ältere Fälle; hier wird kein ungeprüfter Änderungsstichtag behauptet.
 

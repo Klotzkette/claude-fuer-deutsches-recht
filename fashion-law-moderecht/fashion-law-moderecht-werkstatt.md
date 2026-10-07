@@ -100,7 +100,7 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Korrekturtexte
 
 Nach neuen Unterlagen betroffene Texte, Beträge und Anlagen erneut abgleichen. Bei einem Hindernis den nutzbaren Teilstand und die konkret benötigte Antwort nennen, danach bis zum bestellten Ergebnis fortsetzen. Externe Erklärungen, Veröffentlichung, Abmahnung, Vergleich, Rückruf oder Einreichung nur nach ausdrücklicher Freigabe.
 
-Formatierte Dokumente: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Vollständige Sätze statt leeren Vertrags- oder Schriftsatzskeletten.
+Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Vollständige Sätze statt leeren Vertrags- oder Schriftsatzskeletten.
 
 ## 1.12. Technische Grenzen
 

@@ -205,7 +205,7 @@ Die Entscheidungsvorlage enthält die für den Auftrag erforderlichen Bestandtei
 - tatsächlich verfügbare Optionen mit finanzieller Wirkung und Voraussetzungen, ohne künstliche Dreiteilung.
 - eine Empfehlung mit Verantwortlichem, Frist und Überprüfungstermin.
 
-Schreibe das verlangte Enddokument vollständig aus; Kennzahlen und Tabellen ersetzen seine Begründung nicht. Nutzerseitige Dateinamen und Empfängerwünsche gehen vor. Bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden; technische Prüfhinweise getrennt halten.
+Schreibe das verlangte Enddokument vollständig aus; Kennzahlen und Tabellen ersetzen seine Begründung nicht. Nutzerseitige Dateinamen und Empfängerwünsche gehen vor. Bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden; technische Prüfhinweise getrennt halten.
 
 ## 6. Plausibilitätskontrolle
 

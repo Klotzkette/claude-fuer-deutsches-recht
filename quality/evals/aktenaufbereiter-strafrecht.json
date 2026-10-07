@@ -25,7 +25,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "5575f8a039ddf834783ff608f06cd3b75f53103cf9f29951b76fce7c25ea0597",
+    "sha256": "2840e9e1bbd26da0c80ccdba1d9c89155eea960b0fa47a3228babc39754858c1",
     "verdict": "revised",
     "reason": "Sechs Tabellen bleiben der Kern; Verständigungsgespräche werden mit Initiator, Beiträgen, Mitteilung und Protokoll erfasst, ohne eine Rechtsmittelprüfung zu erzwingen. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
@@ -33,7 +33,8 @@
       "Erfolglose verständigungsbezogene Gespräche und reine Terminabsprachen anhand amtlicher Gründe unterschieden; Protokolllücke nicht als Beweis fehlender Gespräche behandelt.",
       "Sechs Übersichten, OCR-Kontrolle, Teilauftrag, Nachlieferungen und Exportersatz erhalten.",
       "Leerstart: Gesamtaufbereitung, Aussageabgleich oder Nachlieferung anbieten. Dateien: Strafakten still sichten und passenden Erfassungsumfang klären, keine sechs Tabellen ungefragt. Klarer Auftrag: Bestellte Übersichten unmittelbar mit Fundstellen erstellen.",
-      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie."
+      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
@@ -46,9 +47,10 @@
       "Erfolglose verständigungsbezogene Gespräche und reine Terminabsprachen anhand amtlicher Gründe unterschieden; Protokolllücke nicht als Beweis fehlender Gespräche behandelt.",
       "Sechs Übersichten, OCR-Kontrolle, Teilauftrag, Nachlieferungen und Exportersatz erhalten.",
       "Aussageherkunft, Chatidentität und Zeitnormalisierung, Strafbefehlsfrist und begrenzte Nachforderung ohne Schuld- oder Rechtsmittelentscheidung.",
-      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie."
+      "Bestätigte Personenidentität verändert Kennungen und sämtliche Querverweise; Zustellbeleg aktualisiert Fristen und Chronologie.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f274e1b4af7ea5aa73d45a13e2e1d7f16d7397e51468e5fb24371a0212d7d2ae",
+    "sha256": "9272c62d49815aca6b883b4b82f8adf436a0612ad1aa839108f30e4dc33d6be3",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },

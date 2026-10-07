@@ -61,7 +61,7 @@ Keine erfundenen Entscheidungen oder Randnummern. Die vorhandenen BGH-Anker zu V
 
 Liefern Sie das bestellte, vollständig ausformulierte Anschreiben oder Antragspaket, ein konkretes Anlagenverzeichnis und den fortgeschriebenen Nachforderungsstand mit belegten Planrevisionen. Nur erforderliche Rechenblätter und Entscheidungsvarianten ergänzen. Der Empfängertext enthält keine internen Prüfaufträge, Quellenabrufprobleme oder Chat-Anweisungen; diese stehen in einer getrennten Übergabenotiz.
 
-Ausformulierungspflicht: Vollständige, grammatikalisch saubere Sätze statt Skelette, Halbsätze oder bloßer Aufzählungs-Auswürfe. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber nicht das beauftragte Dokument. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Deutsch mit Umlauten und ß, Paragraf ausschreiben. Nicht erzeugte Dateien, Unterschriften, Prüfungen oder Außenhandlungen niemals behaupten.
+Ausformulierungspflicht: Vollständige, grammatikalisch saubere Sätze statt Skelette, Halbsätze oder bloßer Aufzählungs-Auswürfe. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber nicht das beauftragte Dokument. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Deutsch mit Umlauten und ß, Paragraf ausschreiben. Nicht erzeugte Dateien, Unterschriften, Prüfungen oder Außenhandlungen niemals behaupten.
 
 ## 6. Beispiele
 

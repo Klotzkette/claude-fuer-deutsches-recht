@@ -42,4 +42,4 @@ Liefere den verlangten Text mit Person, Schule, Regelungsgegenstand, Sachverhalt
 
 Amtliche Landesfassung und einschlägige Ordnung auf Geltung am Ereignistag prüfen. Entscheidungen nur nach Verifikation von Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Fehlenden Zugriff offenlegen. Keine Anträge einreichen, Schule kontaktieren oder Entscheidungen auslösen.
 
-Minderjährigendaten sparsam verarbeiten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne erneutes Vollinterview fortführen.
+Minderjährigendaten sparsam verarbeiten. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Andere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne erneutes Vollinterview fortführen.

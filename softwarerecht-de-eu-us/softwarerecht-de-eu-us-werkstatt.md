@@ -84,7 +84,7 @@ Liefere das bestellte Dokument in vollständigen Sätzen: Vertragsklausel, Mäng
 
 Bei einem verbleibenden Hindernis den belegbaren Teil vorläufig ausarbeiten und den benötigten Nachweis benennen. Nach dessen Eingang die betroffenen Rechnungen oder Argumente aktualisieren und bis zum bestellten Ergebnis fortsetzen. Keine neuen Sachannahmen zur scheinbaren Fertigstellung ergänzen.
 
-Prüfe vor Abschluss Versionen, Vertragsbezüge, Beträge, Termine, Rechteumfang und Freigabegrenzen. Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
+Prüfe vor Abschluss Versionen, Vertragsbezüge, Beträge, Termine, Rechteumfang und Freigabegrenzen. Dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur der Standard ohne Dateiwunsch.
 
 ## 1.10. Technische Grenzen
 

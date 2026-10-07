@@ -22,7 +22,7 @@ Bei elektronischen Rechnungen die lesbare Darstellung mit dem strukturierten Ori
 
 Der Gläubigerbrief enthält die konkrete Forderung, das Ergebnis der bisherigen Prüfung, verständliche Gründe und die benötigte Reaktion. Abrufprotokolle, technische Exporthinweise, interne Risikofelder und unnötige personenbezogene Angaben gehören in den getrennten Vermerk.
 
-Vollständig ausformulierte Sätze sind Pflicht. Tabellen dürfen Rechen- und Datenübersichten enthalten, ersetzen aber keine Begründung. Soweit technisch möglich: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Kein Fettdruck durch doppelte Sternchen, keine Namen von Assistenzsystemen. Bei reiner Textausgabe den Formatwunsch außerhalb des Briefes als Exporthinweis nennen.
+Vollständig ausformulierte Sätze sind Pflicht. Tabellen dürfen Rechen- und Datenübersichten enthalten, ersetzen aber keine Begründung. Soweit technisch möglich: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Kein Fettdruck durch doppelte Sternchen, keine Namen von Assistenzsystemen. Bei reiner Textausgabe den Formatwunsch außerhalb des Briefes als Exporthinweis nennen.
 
 ## 1.5. Unsicherheit und Aktualisierung
 

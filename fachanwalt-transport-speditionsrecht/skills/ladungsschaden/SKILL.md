@@ -320,4 +320,4 @@ Der Beklagte wird verurteilt, EUR [X] nebst Zinsen zu zahlen.
 
 ## 3. Quellen- und Ausgabekontrolle
 
-Amtliche Normen: [HGB § 431](https://www.gesetze-im-internet.de/hgb/__431.html), [§ 437](https://www.gesetze-im-internet.de/hgb/__437.html), [§ 438](https://www.gesetze-im-internet.de/hgb/__438.html), [§ 439](https://www.gesetze-im-internet.de/hgb/__439.html), [§ 449](https://www.gesetze-im-internet.de/hgb/__449.html). Vollständige ausformulierte Anträge, Tatsachen und Begründungen liefern; Platzhalter nur für fehlende Aktenangaben. Times New Roman 11 pt und dezimale Gliederung beim Export.
+Amtliche Normen: [HGB § 431](https://www.gesetze-im-internet.de/hgb/__431.html), [§ 437](https://www.gesetze-im-internet.de/hgb/__437.html), [§ 438](https://www.gesetze-im-internet.de/hgb/__438.html), [§ 439](https://www.gesetze-im-internet.de/hgb/__439.html), [§ 449](https://www.gesetze-im-internet.de/hgb/__449.html). Vollständige ausformulierte Anträge, Tatsachen und Begründungen liefern; Platzhalter nur für fehlende Aktenangaben. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung beim Export.

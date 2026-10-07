@@ -30,7 +30,7 @@ Nutze Ereignisbericht, Vertrag oder Fahrschein, beteiligte Rechtsträger, Betrie
 
 ## 5. Ausgabeformat
 
-Begründeter Haftungsvermerk mit einer Tabelle „Anspruch / Voraussetzung / Beleg / Beweislast / Einwendung / Folge“. Der entscheidende Begründungstext steht in vollständigen Sätzen, nicht in einem Stichwortgerüst. Format soweit möglich Times New Roman 11 pt, ausschließlich dezimal. Eine offene Quellenprüfung sperrt die rechtliche Freigabe des betroffenen Punkts, nicht den gesamten Tatsachenentwurf.
+Begründeter Haftungsvermerk mit einer Tabelle „Anspruch / Voraussetzung / Beleg / Beweislast / Einwendung / Folge“. Der entscheidende Begründungstext steht in vollständigen Sätzen, nicht in einem Stichwortgerüst. Format soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal. Eine offene Quellenprüfung sperrt die rechtliche Freigabe des betroffenen Punkts, nicht den gesamten Tatsachenentwurf.
 
 ## 6. Beispiel
 

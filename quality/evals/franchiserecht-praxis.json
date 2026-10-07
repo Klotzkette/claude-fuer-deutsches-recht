@@ -26,9 +26,10 @@
       "VII ZR 109/13 mit anonymem Kundenstamm, Ladenrückgabe und offener allgemeiner Analogiefrage eingebaut.",
       "Jahresfrist nach Paragraf 89b als Geltendmachung statt Verjährung erklärt.",
       "Franchisegebühren, Preisbindung, digitale Gebiete, CRM, Branche, Eilverfahren und Beschäftigungsstatus konkret geprüft.",
-      "Handbuchgebühren, Preisbindung oder Ausstieg wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Handbuchgebühren, Preisbindung oder Ausstieg wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c6d0c3b58f38a90e0d6025bbf38c743d35ba61f12569275da346798ef53b9f7f"
+    "sha256": "95f181704564d54c7d0c3db36eecd7a970053f87d3adb51b34f190233487c10e"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -37,9 +38,10 @@
       "VII ZR 109/13 mit anonymem Kundenstamm, Ladenrückgabe und offener allgemeiner Analogiefrage eingebaut.",
       "Jahresfrist nach Paragraf 89b als Geltendmachung statt Verjährung erklärt.",
       "Franchisegebühren, Preisbindung, digitale Gebiete, CRM, Branche, Eilverfahren und Beschäftigungsstatus konkret geprüft.",
-      "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt."
+      "Handbuchinvestitionen, verdeckte Preisbindung, Plattformgebühren, Prognosekausalität und konkrete Abwicklung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "86d1fa67233ed2cf3000fc99cc470a0d6f937b697fe531bf0b9abfdbd3983b08"
+    "sha256": "e17f3867ed82a404de9a9f2ac45cc2b8c8274092a001fb1681eeaf8fa470ff35"
   },
   "selection": {
     "positive": [

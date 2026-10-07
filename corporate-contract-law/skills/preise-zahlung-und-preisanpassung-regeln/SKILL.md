@@ -29,7 +29,7 @@ Prüfen Sie Paragrafen 271a, 286, 288, 307, 308, 315, 320 und je nach Vertrag 43
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständige, ausformulierte Preis- und Zahlungsklauseln mit verständlich definierter Formel. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; trennen Sie Rechenprüfung und Markdown-Exporthinweis vom Empfängertext.
+Liefern Sie vollständige, ausformulierte Preis- und Zahlungsklauseln mit verständlich definierter Formel. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; trennen Sie Rechenprüfung und Markdown-Exporthinweis vom Empfängertext.
 
 ## 6. Beispiele
 

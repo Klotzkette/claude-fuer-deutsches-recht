@@ -6,7 +6,7 @@ Prüfstand: 22.09.2026. Version `444.8.0`. Dieser Nachweis betrifft ausschließl
 
 Die gezielte lokale Prüfung mit echtem YAML-Parser und JSON-Parser bestand. Genau zehn Skills sind vorhanden; jeder hat ausschließlich `name` und `description` im Frontmatter, einen zum Verzeichnis passenden ASCII-Slug von höchstens 64 Zeichen und sechs nummerierte Hauptabschnitte. Beschreibungen umfassen 167 bis 201 Zeichen und enthalten weder Ziffer-Komma-Ziffer noch spitze Klammern. Die Skilldateien umfassen 5.067 bis 8.511 UTF-8-Bytes und sind individuell fachlich ausgearbeitet.
 
-Manifestname, Version `444.8.0`, Autor Klotzkette und ASCII-Beschreibung wurden geprüft. Eigene Markdown-Texte verwenden dezimale Überschriften, ausgeschriebenen Paragrafen, echte Umlaute und ß sowie den Ausgabehinweis Times New Roman 11 pt. Die lokale `references/zitierweise.md` ist eine byteidentische Kopie der Wurzelreferenz; deren bestehende Originalgliederung wird unverändert übernommen. Relative Inhaltslinks wurden auf vorhandene Ziele geprüft. Veröffentlichungslinks sind keine Behauptung bereits gebauter Release-Dateien.
+Manifestname, Version `444.8.0`, Autor Klotzkette und ASCII-Beschreibung wurden geprüft. Eigene Markdown-Texte verwenden dezimale Überschriften, ausgeschriebenen Paragrafen, echte Umlaute und ß sowie den Ausgabehinweis Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Die lokale `references/zitierweise.md` ist eine byteidentische Kopie der Wurzelreferenz; deren bestehende Originalgliederung wird unverändert übernommen. Relative Inhaltslinks wurden auf vorhandene Ziele geprüft. Veröffentlichungslinks sind keine Behauptung bereits gebauter Release-Dateien.
 
 ## 1.2. Endgültige Promptgrößen und Hashes
 

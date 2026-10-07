@@ -73,7 +73,7 @@ Aktualisiere nach jeder entscheidenden Antwort die betroffene Kundenprüfung, Za
 
 ## 5. Ausgabeformat
 
-Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Sachverhalt, Bewertung, Empfehlung und offenen Fragen. Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills. Abrufstatus und technische Prüfhinweise stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerschreiben.
+Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Sachverhalt, Bewertung, Empfehlung und offenen Fragen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills. Abrufstatus und technische Prüfhinweise stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerschreiben.
 
 ## 6. Beispiele
 
@@ -123,7 +123,7 @@ GwG Paragraf 6, Aufsichtsvorgaben und [Rechtsstand](https://github.com/Klotzkett
 
 ## 5. Ausgabeformat
 
-Ausformulierter Ablauf mit konkretem Fall, Lernfrage, Verantwortlichem und Nachweis; Kontrollbericht mit festgestelltem Verhalten, nicht nur Häkchen. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierter Ablauf mit konkretem Fall, Lernfrage, Verantwortlichem und Nachweis; Kontrollbericht mit festgestelltem Verhalten, nicht nur Häkchen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 
@@ -169,7 +169,7 @@ GwG Paragraf 10 bis Paragraf 15 und [Rechtsstand](https://github.com/Klotzkette/
 
 ## 5. Ausgabeformat
 
-Ausformulierter Nachforderungsbrief und interne Feststellung mit überprüftem Punkt, Beleg, Restlücke und zuständiger Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Nicht „identifiziert“ schreiben, wenn nur Daten erhoben wurden.
+Ausformulierter Nachforderungsbrief und interne Feststellung mit überprüftem Punkt, Beleg, Restlücke und zuständiger Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Nicht „identifiziert“ schreiben, wenn nur Daten erhoben wurden.
 
 ## 6. Beispiele
 
@@ -215,7 +215,7 @@ Nur bei Umstellungsauftrag zusätzlich Verordnung (EU) 2024/1624 Artikel 51 bis 
 
 ## 5. Ausgabeformat
 
-Begründeter Eigentümervermerk mit nachvollziehbarer Kette und einer gezielten Nachforderung je offener Kontrollstufe. Vollständige Sätze, Times New Roman 11 pt, dezimale Gliederung. Keine alleinige Namensliste ohne Herleitung.
+Begründeter Eigentümervermerk mit nachvollziehbarer Kette und einer gezielten Nachforderung je offener Kontrollstufe. Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine alleinige Namensliste ohne Herleitung.
 
 ## 6. Beispiele
 
@@ -261,7 +261,7 @@ Vor Nachforderung prüfen, ob sie eine beabsichtigte Meldung offenlegt. Paragraf
 
 ## 5. Ausgabeformat
 
-Ausformulierter interner Vermerk mit Informationszuordnung und nächstem zulässigen Schritt. Mandantenbrief getrennt und ohne Hinweis auf beabsichtigte Meldung, soweit keine gesetzliche Ausnahme greift. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierter interner Vermerk mit Informationszuordnung und nächstem zulässigen Schritt. Mandantenbrief getrennt und ohne Hinweis auf beabsichtigte Meldung, soweit keine gesetzliche Ausnahme greift. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 
@@ -307,7 +307,7 @@ GwG Paragraf 9, Paragraf 17, Paragraf 47 und [Rechtsstand](https://github.com/Kl
 
 ## 5. Ausgabeformat
 
-Ausformulierte Verantwortungs- und Zugriffsvorlage mit Einheit, Pflicht, Information, zulässigem Empfänger und Kontrollnachweis. Times New Roman 11 pt, dezimale Gliederung.
+Ausformulierte Verantwortungs- und Zugriffsvorlage mit Einheit, Pflicht, Information, zulässigem Empfänger und Kontrollnachweis. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 
@@ -353,7 +353,7 @@ Artikel 80 der Verordnung (EU) 2024/1624 begrenzt grundsätzlich ab 10. Juli 202
 
 ## 5. Ausgabeformat
 
-Ausformulierter Geschäftsvermerk mit Teilbetragsrechnung, Schwelle, Pflichten und Zahlungsentscheidung. Times New Roman 11 pt, dezimale Gliederung. Zahlen als Tabelle mit Quelle und Datum ausgeben.
+Ausformulierter Geschäftsvermerk mit Teilbetragsrechnung, Schwelle, Pflichten und Zahlungsentscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Zahlen als Tabelle mit Quelle und Datum ausgeben.
 
 ## 6. Beispiele
 
@@ -399,7 +399,7 @@ GwG Paragrafen 6 bis 8 und zuständige Kammer- oder Landesanordnungen; [Quellenk
 
 ## 5. Ausgabeformat
 
-Ausformulierte Arbeitsanweisung mit Verantwortlichem und Vertretung sowie beschlussfähige Bestellung nur bei geklärter Grundlage. Times New Roman 11 pt, dezimale Gliederung. Nicht bloß „Kontrollen implementieren“ schreiben.
+Ausformulierte Arbeitsanweisung mit Verantwortlichem und Vertretung sowie beschlussfähige Bestellung nur bei geklärter Grundlage. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Nicht bloß „Kontrollen implementieren“ schreiben.
 
 ## 6. Beispiele
 
@@ -445,7 +445,7 @@ Fehlt in angemessener Zeit nach Fälligkeit ein schlüssiger Nachweis, Nachforde
 
 ## 5. Ausgabeformat
 
-Zahlungsabgleich und ausformulierte Notarvorlage: „Der Eintragungsantrag ist derzeit …, weil …“. Offene Tatsachen, Nachforderung und Wartefrist nennen, keine bloße Ampel. Times New Roman 11 pt, dezimale Gliederung.
+Zahlungsabgleich und ausformulierte Notarvorlage: „Der Eintragungsantrag ist derzeit …, weil …“. Offene Tatsachen, Nachforderung und Wartefrist nennen, keine bloße Ampel. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 
@@ -487,7 +487,7 @@ GwG Paragraf 5, Anlagen 1 und 2, nationale Risikoanalyse sowie zuständige Aufsi
 
 ## 5. Ausgabeformat
 
-Vollständig begründete Risikoanalyse mit knapper Tabelle zu Geschäft, Risiko, Kontrolle, Nachweis und verbleibender Lücke; Freigabevorlage an die Leitung. Times New Roman 11 pt, dezimale Gliederung.
+Vollständig begründete Risikoanalyse mit knapper Tabelle zu Geschäft, Risiko, Kontrolle, Nachweis und verbleibender Lücke; Freigabevorlage an die Leitung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 
@@ -529,7 +529,7 @@ Kontrolle über eine Adresse, Herkunft des Vermögens und wirtschaftlichen Zweck
 
 ## 5. Ausgabeformat
 
-Vollständiger Transfervermerk mit vorhandenen und fehlenden Daten, Rechtsgrund und zuständigem nächsten Schritt. Times New Roman 11 pt, dezimale Gliederung. Keine automatische Transferfreigabe oder Wallet-Sperre.
+Vollständiger Transfervermerk mit vorhandenen und fehlenden Daten, Rechtsgrund und zuständigem nächsten Schritt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine automatische Transferfreigabe oder Wallet-Sperre.
 
 ## 6. Beispiele
 
@@ -575,7 +575,7 @@ Registrierung nach GwG Paragraf 45, befugten Einreicher und verfügbaren Meldewe
 
 ## 5. Ausgabeformat
 
-Ausformulierter interner Prüfvermerk und separat gekennzeichneter Meldeentwurf mit strukturierten Daten und Anlagenliste. Times New Roman 11 pt, dezimale Gliederung. Abgabe erst als erfolgt bezeichnen, wenn der Übermittlungsnachweis vorliegt.
+Ausformulierter interner Prüfvermerk und separat gekennzeichneter Meldeentwurf mit strukturierten Daten und Anlagenliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Abgabe erst als erfolgt bezeichnen, wenn der Übermittlungsnachweis vorliegt.
 
 ## 6. Beispiele
 
@@ -617,7 +617,7 @@ GwG Paragraf 10 Absatz 1 Nummer 5, Paragraf 15, Paragraf 43 und [Rechtsstand](ht
 
 ## 5. Ausgabeformat
 
-Ausformulierter Zahlungsbefund mit chronologischer Tabelle, Beleg, plausibler Erklärung, Gegenbefund und offener Handlung. Times New Roman 11 pt, dezimale Gliederung. Keine Risikopunktzahl als alleinige Entscheidung.
+Ausformulierter Zahlungsbefund mit chronologischer Tabelle, Beleg, plausibler Erklärung, Gegenbefund und offener Handlung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Risikopunktzahl als alleinige Entscheidung.
 
 ## 6. Beispiele
 
@@ -663,7 +663,7 @@ AMLA-Aufsicht ab 2028 betrifft ausgewählte Finanzunternehmen, nicht automatisch
 
 ## 5. Ausgabeformat
 
-Ausformulierter Umstellungsplan mit Tabelle: heutige Pflicht, künftige Änderung, Rechtsaktstatus, Datum, Daten-/Prozessänderung, Verantwortlicher und Abnahmenachweis. Times New Roman 11 pt, dezimale Gliederung. Keine diffuse „AMLA-Frist 2026“.
+Ausformulierter Umstellungsplan mit Tabelle: heutige Pflicht, künftige Änderung, Rechtsaktstatus, Datum, Daten-/Prozessänderung, Verantwortlicher und Abnahmenachweis. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine diffuse „AMLA-Frist 2026“.
 
 ## 6. Beispiele
 
@@ -709,7 +709,7 @@ GwG Paragrafen 50 bis 57, OWiG Paragraf 67 und [Quellenkarte](https://github.com
 
 ## 5. Ausgabeformat
 
-Vollständige behördliche Antwort oder gekennzeichneter Rechtsbehelfsentwurf mit Aktenzeichen, konkreten Anträgen, Belegen und Anlagen. Times New Roman 11 pt, dezimale Gliederung. Interne Risikobewertung separat.
+Vollständige behördliche Antwort oder gekennzeichneter Rechtsbehelfsentwurf mit Aktenzeichen, konkreten Anträgen, Belegen und Anlagen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Interne Risikobewertung separat.
 
 ## 6. Beispiele
 
@@ -751,7 +751,7 @@ Berufsträger, Beschäftigungsform, Berufsausübungsgesellschaft und Niederlassu
 
 ## 5. Ausgabeformat
 
-Ausformulierter Pflichtenspiegel: „Für die Tätigkeit … ist … nach … verpflichtet. Ausgelöst sind …; noch nicht belegt ist …“. Tabelle mit Person, Tätigkeit, Norm, Pflicht und Aufsicht. Times New Roman 11 pt, dezimale Gliederung. Kein allgemeines Gütesiegel „GwG-konform“.
+Ausformulierter Pflichtenspiegel: „Für die Tätigkeit … ist … nach … verpflichtet. Ausgelöst sind …; noch nicht belegt ist …“. Tabelle mit Person, Tätigkeit, Norm, Pflicht und Aufsicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein allgemeines Gütesiegel „GwG-konform“.
 
 ## 6. Beispiele
 
@@ -793,7 +793,7 @@ Nach Paragraf 15 erforderliche Informationen, Zustimmung der Führungsebene und 
 
 ## 5. Ausgabeformat
 
-Vollständiger Risikovermerk mit geprüfter Person, Quelle, Merkmal, konkreter Zusatzmaßnahme und verantwortlicher Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Sanktionsfrage und Verdachtstatsache in eigenen Absätzen.
+Vollständiger Risikovermerk mit geprüfter Person, Quelle, Merkmal, konkreter Zusatzmaßnahme und verantwortlicher Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Sanktionsfrage und Verdachtstatsache in eigenen Absätzen.
 
 ## 6. Beispiele
 
@@ -839,7 +839,7 @@ Vor jeder Kundennachricht GwG Paragraf 47 prüfen. Keine Erklärung „Wir haben
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vollzugsvermerk plus datierte Tageszählung. Times New Roman 11 pt, dezimale Gliederung. Bei unklarer Frist ausdrücklich „nicht abschließend berechnet“, statt einen ungesicherten Auszahlungstermin zu nennen.
+Ausformulierter Vollzugsvermerk plus datierte Tageszählung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Bei unklarer Frist ausdrücklich „nicht abschließend berechnet“, statt einen ungesicherten Auszahlungstermin zu nennen.
 
 ## 6. Beispiele
 
@@ -885,7 +885,7 @@ GwG Paragrafen 20, 21, 23 und 23a; [Rechtsprechungszuordnung und Stand](https://
 
 ## 5. Ausgabeformat
 
-Ausformulierter Abgleichvermerk, bei Bedarf getrennte Korrektur-Nachforderung und Entwurf einer Unstimmigkeitsmeldung. Times New Roman 11 pt, dezimale Gliederung. Keine aus einem Registerfehler abgeleitete automatische Verdachtsmeldung.
+Ausformulierter Abgleichvermerk, bei Bedarf getrennte Korrektur-Nachforderung und Entwurf einer Unstimmigkeitsmeldung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine aus einem Registerfehler abgeleitete automatische Verdachtsmeldung.
 
 ## 6. Beispiele
 
@@ -927,7 +927,7 @@ Bis zur notwendigen Klärung den konkreten Vorgang nicht als freigegeben bezeich
 
 ## 5. Ausgabeformat
 
-Ausformulierter Trefferentscheid mit überprüften Identifikatoren, Rechtsakt, Kontrollbeziehung, Entscheidungsträger und Wiedervorlage. Times New Roman 11 pt, dezimale Gliederung. Keine „grüne“ Gesamtfreigabe bei ungeprüfter Kontrollstruktur.
+Ausformulierter Trefferentscheid mit überprüften Identifikatoren, Rechtsakt, Kontrollbeziehung, Entscheidungsträger und Wiedervorlage. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine „grüne“ Gesamtfreigabe bei ungeprüfter Kontrollstruktur.
 
 ## 6. Beispiele
 

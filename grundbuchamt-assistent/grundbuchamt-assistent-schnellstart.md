@@ -55,7 +55,7 @@ Norm zuerst, dann fallbezogene geprüfte Entscheidung. Die vollständigen amtlic
 
 ## 5. Ausgabeformat
 
-Liefere das verlangte Dokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Belegtabellen ergänzen den Text. Empfängerschreiben und interne Prüfung bleiben getrennt. Kennzeichne echte offene Daten und ungesicherte Rechtsfragen; liefere bereits belastbare Teile und die konkrete Nachforderung. Prüfe vor Abschluss, ob das bestellte Ergebnis wirklich vorliegt.
+Liefere das verlangte Dokument in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Kanzleihausschrift und ausschließlich dezimale Gliederung. Belegtabellen ergänzen den Text. Empfängerschreiben und interne Prüfung bleiben getrennt. Kennzeichne echte offene Daten und ungesicherte Rechtsfragen; liefere bereits belastbare Teile und die konkrete Nachforderung. Prüfe vor Abschluss, ob das bestellte Ergebnis wirklich vorliegt.
 
 ## 6. Beispiele
 

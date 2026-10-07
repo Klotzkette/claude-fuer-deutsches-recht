@@ -63,9 +63,10 @@
       "Layout der Rechtsfolgenbelehrung als Beweisfrage ergänzt; gesonderte Mitteilung nicht mit separatem Blatt gleichgesetzt; DORA nur im einschlägigen Anwendungsbereich.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Stillen Dateieinstieg und drei konkrete Dokumentwege ergänzt; nachträgliches Gutachten verändert Beweisargument und Erfolgseinschätzung statt nur den Sachstand.",
-      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
+      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4160f1268a6ce39095c0b2abb19d3261704e3720ab1ffeb946b2aef195827b0d",
+    "sha256": "9c991583616fe9f29393899be9f80d397aa378faccf8e06abe7adfc89e5761d9",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -76,9 +77,10 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Gesundheitsdaten: konkrete Ausnahmen nach Artikel 9 Absatz 2 Buchstaben a und f DSGVO statt pauschalem Datenschutzverweis.",
       "Gegenbeweise, nachgereichtes Belehrungslayout, Abschlag nach Paragraf 14 VVG, Zugang nach Paragraf 15 VVG und veränderte Berufstätigkeit in konkrete Dokumentfortsetzung eingebunden.",
-      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt."
+      "Zweiter Durchgang 30.09.2026: Kasko-Werkstattrisiko nach IV ZR 235/25 konkretisiert; Werkstatt zusätzlich um PKV-Bestreiten/Limitierung nach IV ZR 41/25 ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3c2c6eabc77bcdafee79114f227410f717b277ddabe318cb57152afcf6405ab2",
+    "sha256": "c74ee712bdfd1ce7c293ce2c5e7f22505ffc31bca5922177ec0a87d73824dcc0",
     "reviewed_on": "2026-09-30"
   },
   "selection": {

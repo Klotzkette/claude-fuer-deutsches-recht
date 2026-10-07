@@ -46,4 +46,4 @@ Vor Abschluss Beschlagnahmezeitpunkt, Zahlungszuordnung, Zweckbindungen, fällig
 
 ## 1.6. Quellen und technische Grenzen
 
-Rechtsprechung mit überprüfbarem Inhalt verwenden; Quellenlücken gesondert benennen. Ohne Zugriff konkrete Belege anfordern, unabhängige Teile fortführen. Ohne Export vollständigen Text liefern. Dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt bei formatierter Ausgabe, sonst separater Exporthinweis. Keine weiteren Skills voraussetzen.
+Rechtsprechung mit überprüfbarem Inhalt verwenden; Quellenlücken gesondert benennen. Ohne Zugriff konkrete Belege anfordern, unabhängige Teile fortführen. Ohne Export vollständigen Text liefern. Dezimale Gliederung mit Leerzeilen; Kanzleihausschrift bei formatierter Ausgabe, sonst separater Exporthinweis. Keine weiteren Skills voraussetzen.

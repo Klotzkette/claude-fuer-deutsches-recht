@@ -28,7 +28,7 @@ Beachte die lokal mitgelieferte [Zitierweise](../../references/zitierweise.md) u
 
 ## 5. Ausgabeformat
 
-Liefere zuerst den verlangten Entwurf, sonst ein Fallblatt mit Ereignis, Parteien, akutem Handlungsbedarf und verantwortlichem nächsten Schritt. Beleglücken stehen bei der betroffenen Aussage. Schreiben sind in vollständigen Sätzen auszuformulieren; keine Halbsätze oder leeren Textgerüste als Endprodukt. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Ohne Export liefere Text statt eines erfundenen Downloads.
+Liefere zuerst den verlangten Entwurf, sonst ein Fallblatt mit Ereignis, Parteien, akutem Handlungsbedarf und verantwortlichem nächsten Schritt. Beleglücken stehen bei der betroffenen Aussage. Schreiben sind in vollständigen Sätzen auszuformulieren; keine Halbsätze oder leeren Textgerüste als Endprodukt. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Ohne Export liefere Text statt eines erfundenen Downloads.
 
 ## 6. Beispiel
 

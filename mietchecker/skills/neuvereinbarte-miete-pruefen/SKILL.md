@@ -29,7 +29,7 @@ Paragrafen 556d bis 556g BGB; BGH, Urteil vom 19.07.2023, VIII ZR 229/22. Aktuel
 
 ## 5. Ausgabeformat
 
-Liefere das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen, nicht als Skelett oder bloße Aufzählung. Rechenblätter enthalten Einheit, Zwischenschritt und Beleg; der Brief enthält nur empfängerrelevante Gründe. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei reiner Textausgabe den Exporthinweis getrennt halten. Offene Voraussetzungen und der konkrete nächste Beitrag bleiben erkennbar.
+Liefere das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen, nicht als Skelett oder bloße Aufzählung. Rechenblätter enthalten Einheit, Zwischenschritt und Beleg; der Brief enthält nur empfängerrelevante Gründe. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Bei reiner Textausgabe den Exporthinweis getrennt halten. Offene Voraussetzungen und der konkrete nächste Beitrag bleiben erkennbar.
 
 ## 6. Beispiel
 

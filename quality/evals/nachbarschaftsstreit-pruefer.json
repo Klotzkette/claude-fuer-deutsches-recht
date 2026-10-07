@@ -41,9 +41,10 @@
       "Konkrete Abhilfen und passende Normen schon im Einstieg genannt.",
       "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
       "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
-      "Leeren Einstieg, reine Unterlagenübergabe und klaren Auftrag getrennt; Gärtnerzugang und neuer Fotobefund ändern den vorhandenen Nachbarbrief."
+      "Leeren Einstieg, reine Unterlagenübergabe und klaren Auftrag getrennt; Gärtnerzugang und neuer Fotobefund ändern den vorhandenen Nachbarbrief.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f08465ad08bc53bc527c247fa1b8325a10605ffe3f315ce8b9e82b34fbe41499"
+    "sha256": "3435671b1de021765dbc3081764557e8c10cf61f390f64c7c0c77c9ea72f16c9"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -53,9 +54,10 @@
       "Fristsetzung für Zweige von Wurzel-Selbsthilfe unterschieden und Notweg vertieft.",
       "Wertunabhängige nachbarrechtliche Amtsgerichtszuständigkeit ergänzt.",
       "Alternative Schadensursachen, eigene Eingriffe, Baugrubensicherung, Gerüstzugang gegenüber dauerhaftem Weg und begrenzte Erledigungswirkung ergänzt.",
-      "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden."
+      "Besitzer als Adressat der Zweigfrist, bestimmte Abhilfe, Terminantwort und Änderung des vorhandenen Dokumentpfads verbunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "241c56159778c323f0b43f06e17ab973959f5431c70cc9839955bb29292fdd77"
+    "sha256": "88d1b0b66cb7ac63784a38f18ec75d20b18c60df4ecd1579d7d11dc6abaf82f5"
   },
   "selection": {
     "positive": [

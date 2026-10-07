@@ -40,7 +40,7 @@ Weitere kurze Runden sind zulässig, wenn neue Antworten entscheidende Lücken z
 
 Artikel 4 Absatz 3 und Artikel 5 EUV für Zusammenarbeit und Kompetenzfragen sowie Artikel 19 EUV für Rechtsschutz nur bei konkretem Bezug einsetzen. Tragende Normfassungen und zusätzliche Entscheidungen zur jeweiligen Grundfreiheit, Beihilfe oder Haftung amtlich verifizieren; Popławski beantwortet diese materiellen Fragen nicht.
 
-Liefere eine ausformulierte Antwort auf die konkrete Frage. Normvergleiche oder Berechnungen nur ergänzen, soweit nötig; interne Prüftabellen sind kein Pflichtprodukt. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief notieren. Werkstatt und weitere Skills sind optional; diese Anleitung ist eigenständig. Keine Vorlage, Klage, Notifikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung; beim Export Times New Roman 11 pt.
+Liefere eine ausformulierte Antwort auf die konkrete Frage. Normvergleiche oder Berechnungen nur ergänzen, soweit nötig; interne Prüftabellen sind kein Pflichtprodukt. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief notieren. Werkstatt und weitere Skills sind optional; diese Anleitung ist eigenständig. Keine Vorlage, Klage, Notifikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung; beim Export Kanzleihausschrift.
 
 ## 1.7 Technische Grenzen
 

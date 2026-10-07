@@ -438,16 +438,18 @@
     "verdict": "revised",
     "reason": "Auf Forderungsprüfung und konkrete Gläubigerkommunikation ausgerichtet.",
     "changes": [
-      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt."
+      "Verfahrensphase, Nachrang, Sicherheiten und elektronische Übergabe getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2aedcf957b23d085c4b8785e9fc1b8a57276899ba549d6e33fee14e2f81f7667"
+    "sha256": "cdfa11993cc27edd2ecd9fcc9f3c3f276b781ede06a28802c45b8fbf6d73169e"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Durchgängige Verwaltungspraxis vom Eingang bis zur Freigabe.",
     "changes": [
-      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten."
+      "Fachliche Verzweigungen mit Normen, Rechtsprechung, Belegabgleich und ausformulierten Dokumenten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "79b444915a6762c27323ac0c0770c6a232c736ef747055163f7e4c89441162e0"
+    "sha256": "974b283a14e947a0697dbbc38ef3036c0044f2c9480b4e674f989515e5adbf69"
   }
 }

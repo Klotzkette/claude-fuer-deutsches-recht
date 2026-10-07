@@ -50,9 +50,10 @@
     "changes": [
       "Konkreten Vorwurf, Beweisbarkeit und Ehrschutz aus Wortlaut und Publikum bestimmen.",
       "Falschen pauschalen Strafrahmen des Paragrafen 188 beseitigt, zivilrechtliche Ansprüche und Strafantrag getrennt; konkrete belegbare Bewertungsneufassung ergänzt.",
-      "Veröffentlichungsstand und Neufassung bei nachgereichtem Zahlungsbeleg im bestehenden Dokumentpfad verbunden."
+      "Veröffentlichungsstand und Neufassung bei nachgereichtem Zahlungsbeleg im bestehenden Dokumentpfad verbunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "72a37e23aaa1d906985e1731ff4f20edf4ebdce1bd1621007994fa290cdd055b"
+    "sha256": "d21e924f0301442f126ab167e2faece71e80dc87f4dd66c153af5a8620d3f82d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -61,9 +62,10 @@
       "Werkstatt vollständig auf Äußerungsrecht zurückgeführt, zwölf Sachwege einschließlich europäischer und US-Schnittstellen auftragsbezogen erhalten.",
       "Falschen pauschalen Strafrahmen des Paragrafen 188 beseitigt, zivilrechtliche Ansprüche und Strafantrag getrennt; konkrete belegbare Bewertungsneufassung ergänzt.",
       "Ursprungsbeitrag, Vorschau und Bearbeitungsstand sowie Widerlegung gegenüber Bestreiten getrennt.",
-      "Verlangtes Verbot, Vertragsstrafe und Kosten, getrennte Fristquellen sowie Aktualisierung einer Plattformbeschwerde konkretisiert."
+      "Verlangtes Verbot, Vertragsstrafe und Kosten, getrennte Fristquellen sowie Aktualisierung einer Plattformbeschwerde konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5c497b70e93f04a5dd7f761e63bd6b029720b89cd76441053daf746641e426ca"
+    "sha256": "ca562f3642f4ff4c005ead8f3d1835f0c3cbef8268647b8737f2b2b90ae7395f"
   },
   "selection": {
     "positive": [

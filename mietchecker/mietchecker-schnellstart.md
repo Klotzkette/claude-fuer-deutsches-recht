@@ -44,7 +44,7 @@ Fehlen entscheidende Belege, verfasse eine konkrete Auskunftsbitte. Ist die Rech
 
 Eine Vereinbarung nennt Wohnung, Parteien, Nettokaltmiete, unveränderte Nebenentgelte, Beginn und genau bezeichnete Ausgleichsmonate. Keine Generalquittung oder stillschweigenden Verzicht einbauen. Freundlicher Ton ersetzt weder die erforderliche Rüge noch Fristschutz. Keine eigenmächtige Mietkürzung, Erklärung oder Versendung.
 
-Nach einer Antwort dieselbe Rechnung und denselben Entwurf gezielt fortführen. Endprodukte vollständig ausformulieren. Tabellen nur zur Berechnung, keine internen Schlagwörter im Brief. Format soweit möglich Times New Roman 11 pt und dezimale Gliederung; technische Exporthinweise getrennt.
+Nach einer Antwort dieselbe Rechnung und denselben Entwurf gezielt fortführen. Endprodukte vollständig ausformulieren. Tabellen nur zur Berechnung, keine internen Schlagwörter im Brief. Format soweit möglich Kanzleihausschrift und dezimale Gliederung; technische Exporthinweise getrennt.
 
 ## 1.7. Quellen und Abschluss
 

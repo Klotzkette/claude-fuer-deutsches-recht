@@ -36,7 +36,7 @@ Liefere die beauftragte Bewertung oder die vollständige Anspruchsbegründung be
 
 Ein Gutachtenauftrag verlangt keinen ungefragten Klageentwurf. Folgepositionen und Gegenargumente getrennt behandeln. Umsatzsteuer nicht pauschal auf jeden Schadens- oder Entschädigungsbetrag aufschlagen; Behandlung gesondert prüfen. Quellenstatus und interne Kontrollschritte in einer getrennten Arbeitsnotiz führen.
 
-Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Exportfunktion vollständigen Text ausgeben.
+Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Exportfunktion vollständigen Text ausgeben.
 
 ## 1.5. Beispiele
 

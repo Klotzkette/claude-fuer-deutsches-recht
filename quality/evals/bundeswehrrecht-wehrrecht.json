@@ -64,9 +64,10 @@
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Leer: Verwendung, Beurteilung oder Statusklärung. Dateien: still lesen und dienstrechtlich passenden Dokumentweg anbieten. Klar: direkt bestellte Beschwerde oder Beratung ausarbeiten.",
       "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
-      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "86e5302a7f6efe74708621ff196fb30d099d75b763528d3ffa955628f7e7a055",
+    "sha256": "9e1f609aebbc91d9fbfefe1000aa5c281db3b7d4b7a367fc3aab3295bd3b975b",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -122,9 +123,10 @@
       "Altersgrenzen von Dienstunfähigkeit und Ruhestandsvoraussetzungen getrennt; alten SVG-Entschädigungsanker durch SEG-Anwendungsprüfung ersetzt.",
       "Pflegekonkretisierung, Kenntnis- und Beschwerdebeleg, Beurteilungszeitraum, medizinischer Umfang und Ausbildungskosten vertieft.",
       "Teilweise Ersatzpflege verändert verbleibende Belastung; verschobener Dienstantritt verändert Eilantrag ohne fingierte Aussetzung.",
-      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt."
+      "Der Versetzungsanker 1 WB 27.17 bleibt auf tatsächliche Pflege und Ersatzbetreuung begrenzt. Neuer Laufbahnfall 1 WB 64.25 ergänzt die Mobilitätsbewertung; im Auswahlspezialskill außerdem § 23 SG als Dienstvergehen statt Personalaktennorm richtiggestellt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9e4677c96d17fc9a89aa23de1571f21dd74341025e436e90292b948467e0c979",
+    "sha256": "62bc30adee7b5e4ef4af32f4d81a2e67ab9fdb55bee051c839c7c15c0fda6b6a",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

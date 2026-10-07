@@ -47,7 +47,7 @@ GmbHG Paragrafen 2, 3, 5, 5a, 6, 7, 8, 11 und 40; HGB Paragraf 12. [Amtliche Lin
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Satzungs- und Anmeldeentwurf, Anteilsrechnung und getrennte offene Nachweise. Status „Entwurf zur notariellen Prüfung“, Times New Roman 11 pt, dezimale Gliederung. Keine Unterschrift, Versicherung oder Eintragung als erfolgt darstellen. Keine reinen Klauselskelette.
+Vollständig ausformulierter Satzungs- und Anmeldeentwurf, Anteilsrechnung und getrennte offene Nachweise. Status „Entwurf zur notariellen Prüfung“, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Unterschrift, Versicherung oder Eintragung als erfolgt darstellen. Keine reinen Klauselskelette.
 
 ## 6. Beispiel
 

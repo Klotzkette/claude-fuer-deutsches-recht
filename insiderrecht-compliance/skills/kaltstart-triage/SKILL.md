@@ -29,7 +29,7 @@ Prüfe die einschlägige MAR-Fassung, insbesondere die Änderungen durch Verordn
 
 Liefere das bestellte Ergebnis vollständig ausformuliert, nicht nur eine Liste nächster Prüfungen. Zeitliche Tabellen unterstützen echte Belegvergleiche; sie sind kein Pflichtformat jeder Mitteilung. Recherche- und Quellenstatus gehören in eine separate Arbeitsnotiz, nicht in einen Ad-hoc-Entwurf oder Mandantenbrief.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Veröffentlichung, Handel, Orderänderung, Stornierung oder Behördenmeldung bedürfen ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Veröffentlichung, Handel, Orderänderung, Stornierung oder Behördenmeldung bedürfen ausdrücklicher Freigabe.
 
 ## 1.6 Beispiel
 

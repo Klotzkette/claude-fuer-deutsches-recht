@@ -74,9 +74,10 @@
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b9e30b3d452dd4414f0372a048a4367bc705548112ff7cb77928aeb5f502bccf",
+    "sha256": "1c6dabee70e19d5072452201c9a4f1bfadf4df9208d4df228ba3feb8405caf75",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -91,12 +92,13 @@
       "Nicht tragende Richtsatzkritik und historische Kassenanforderungen von geltenden Paragrafen 158 und 162 AO getrennt.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Leere Eingabe, Dateien ohne Auftrag und klaren Auftrag im Fokus und zugehörigen Skill getrennt behandelt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "steuerrecht-anwalt-und-berater/steuerrecht-anwalt-und-berater-hauptproblem.md",
-    "prompt_sha256": "8863e5a4e8ee3c2d0bffab6e8bc3229c51dbf1fd4c5d10e50c5afc0007a3f942",
+    "prompt_sha256": "b4b672a80a5f38c18537b11f43ebc16a1e65695163cd5a01e526e6d304036d0d",
     "skill_path": "steuerrecht-anwalt-und-berater/skills/hinzuschaetzung-kasse-wareneinsatz-gegenkalkulation/SKILL.md",
-    "skill_sha256": "bd37d0d61be8e6668e3086df02a7318f78f34874c5793419153718d638d905ac"
+    "skill_sha256": "34874192c89f7978b87d6bf1bb15a6862aa2b4949a1a193d38973e3eff79a55f"
   },
   "selection": {
     "positive": [
@@ -208,9 +210,10 @@
       "Leerstart: Bescheideinspruch, Außenprüfungs-Gegenkalkulation oder Steuerrechnungsabgleich; Fokus: Prüferrechnung, Gegenkalkulation oder Stellungnahme.",
       "Endbestand 2.000 statt 1.500 Flaschen senkt bei unveränderten übrigen Daten und 5 Euro Nettopreis den kalkulierten Umsatz um 2.500 Euro; Rechnung, Differenz und beziffertes Begehren gemeinsam ändern.",
       "Stichtags- und Rezepturwechsel, belastende neue Preise, Übergang von Prüfungsrechnung zu Bescheid sowie Rechnungskorrektur und Haftungszahlung in getrennte vollständige Dokumentwege überführen; Fokus-Skill mit demselben Fortsetzungsbeispiel abgestimmt.",
-      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt."
+      "01.10.2026: X R 14/24 als tragenden Methodenanker ergänzt; nicht erkennbare Prüfung innerer Betriebsdaten und Hinweise zu Frostverderb von fortbestehender Schätzungsbefugnis getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "50988222d4a16369fbb2ba70fc57e6c791fdd201ffca55462dc9e239f6f2868f",
+    "sha256": "8b742cde5550d8a5e89121337dcf6799a38c2202328656fcc04c465087cd6704",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

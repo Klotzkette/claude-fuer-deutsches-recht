@@ -30,7 +30,7 @@ Nutzen Sie Vertrag, Terminplan mit Bezugsstand und Abhängigkeiten, Fortschreibu
 
 ## 5. Ausgabeformat
 
-Liefern Sie Chronologie mit Originalfundstellen, Ablauf- und Anspruchsmatrix, getrennte Kostenrechnung sowie vollständig ausformulierten Claim-Vermerk und beauftragtes Schreiben. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung. Interne Beweisrisiken und Exporthinweis gesondert; der Empfängertext enthält die nötigen Tatsachen, Rechtsfolgen und Belege.
+Liefern Sie Chronologie mit Originalfundstellen, Ablauf- und Anspruchsmatrix, getrennte Kostenrechnung sowie vollständig ausformulierten Claim-Vermerk und beauftragtes Schreiben. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung. Interne Beweisrisiken und Exporthinweis gesondert; der Empfängertext enthält die nötigen Tatsachen, Rechtsfolgen und Belege.
 
 ## 6. Beispiele
 

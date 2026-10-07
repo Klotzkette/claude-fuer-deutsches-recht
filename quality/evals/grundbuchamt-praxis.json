@@ -46,9 +46,10 @@
       "V ZB 8/23 begrenzt Zeugnisnachforderung nach tatsächlichem Zweifel und nachlassgerichtlicher Ermittlung.",
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "017b6edcddde32c73a7f38754538c9c8301c1e5e479b12c37b455e80fbc59e37"
+    "sha256": "17bb46c20940c3179010290ede567b048eb1547d85870034db95785bb2866c04"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -57,9 +58,10 @@
       "V ZB 8/23 begrenzt Zeugnisnachforderung nach tatsächlichem Zweifel und nachlassgerichtlicher Ermittlung.",
       "Allgemeine Beschwerde, Nachreichungsfrist und Grenze des Angriffs gegen Eintragung getrennt.",
       "Auflassung von Erbfallberichtigung sowie Tilgung von Grundschuldlöschung getrennt; echte Antwortbeispiele statt Promptbausteinen.",
-      "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf."
+      "Rangerhalt und Hindernisheiligung, konkrete Zweifel am Erbnachweis, verlorener Brief, Löschungsbewilligung und verfahrensbezogener Rechtsbehelf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2a22282ec4f370d36a87391c0013b126f08f46656406b47f534eecb2df821b5c"
+    "sha256": "4b80865aa022dc0153cb0b3c677706a33fce639b07a512592a9afeb1d8d0698b"
   },
   "selection": {
     "positive": [

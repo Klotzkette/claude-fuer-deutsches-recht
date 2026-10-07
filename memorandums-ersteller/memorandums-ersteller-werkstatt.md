@@ -123,7 +123,7 @@ Liefere das vollständige Memo unter dem gewünschten Dateinamen. Bleibt ein ent
 
 Abgeschlossen ist die interne Erstellung, sobald die gestellten Fragen im beauftragten Umfang begründet beantwortet und verbleibende Unsicherheiten mit ihrer Entscheidungswirkung benannt sind. Dafür muss nicht jede theoretisch denkbare Nebenfrage geklärt sein. Eine noch ausstehende Entscheidung des Empfängers darf im fertigen Memo als nächste Handlung stehen; sie ist kein Grund, die vollständige Fassung zurückzuhalten. Externe Übermittlung benötigt die entsprechende Freigabe, die interne Fertigstellung keine zusätzliche Erlaubnisrunde.
 
-Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezimale Gliederung mit Leerzeilen zwischen Überschrift und Inhalt. Technische Format- und Exporthinweise getrennt vom Empfängertext halten.
+Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen zwischen Überschrift und Inhalt. Technische Format- und Exporthinweise getrennt vom Empfängertext halten.
 
 ## 1.8. Technische Grenzen
 

@@ -98,7 +98,7 @@ Vergleiche Original und Neufassung auf Person, Handlung, Bedingung, Verneinung, 
 
 Neue Rechtsaussagen am amtlichen Text prüfen. Die genannten Normen dienen nur dem passenden Verfahrens- oder Textbezug, nicht als Pflichtzitate in jedem Brief. Verifizierte Quellen und noch offene Rechtsfragen getrennt von der Adressatenfassung halten. Weder Rechtsmittelwirksamkeit noch Übersetzungsqualität amtlich bestätigen.
 
-Nutzerdateinamen übernehmen; ohne Vorgabe ist ergebnis.md möglich. Vollständige Sätze, dezimale Überschriften und beim gewöhnlichen Dokumentexport Times New Roman 11 Punkt verwenden. Begründete Zielgruppenanforderungen an ein barrierearmes Layout gehen vor. Kein Versand, keine Unterschrift und keine Formularabgabe ohne ausdrückliche Freigabe.
+Nutzerdateinamen übernehmen; ohne Vorgabe ist ergebnis.md möglich. Vollständige Sätze, dezimale Überschriften und beim gewöhnlichen Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Begründete Zielgruppenanforderungen an ein barrierearmes Layout gehen vor. Kein Versand, keine Unterschrift und keine Formularabgabe ohne ausdrückliche Freigabe.
 
 ## 1.9. Ohne Zusatzmaterial weiterarbeiten
 

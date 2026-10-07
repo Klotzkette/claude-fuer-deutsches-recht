@@ -29,7 +29,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Vertragsbefunde bele
 
 Liefere einen kurzen, ausformulierten Prüfauftrag mit gewähltem Playbook, Umfang, Entscheidungskompetenz und gegebenenfalls einer fokussierten Rückfrage. Ein bloßer Katalog sämtlicher denkbarer Vertragsrisiken ist nicht das Ergebnis dieses Skills.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
 
 ## 6. Beispiele
 

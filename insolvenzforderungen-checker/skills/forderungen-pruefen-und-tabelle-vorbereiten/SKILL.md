@@ -30,7 +30,7 @@ Paragrafen 38, 39, 43, 44, 47 bis 52, 55, 103, 107, 108 und 174 bis 190 InsO; Pa
 
 ## 5. Ausgabeformat
 
-Liefere einen kurzen Gesamtstand mit dringlichen Handlungen, sodann je Gläubiger vollständig ausformulierten Prüfvermerk, Tabellenzeile und vollständigen Briefentwurf. Der Vermerk nennt Aktenfundstelle, Rechtsgrund, konkrete Rechnung, Gegenargument und Ergebnis; keine bloßen Ampeln oder Skeletttexte. Tabellen dürfen strukturierte Zahlen enthalten. Bei mehreren eigenständigen Ansprüchen Unterzeilen mit nachvollziehbarer Zuordnung verwenden. Manuelle Freigabepunkte und nicht geprüfte technische Voraussetzungen in einer getrennten Abschlussnotiz nennen. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimaler Gliederung; technische Formatwünsche nicht in den Brief setzen.
+Liefere einen kurzen Gesamtstand mit dringlichen Handlungen, sodann je Gläubiger vollständig ausformulierten Prüfvermerk, Tabellenzeile und vollständigen Briefentwurf. Der Vermerk nennt Aktenfundstelle, Rechtsgrund, konkrete Rechnung, Gegenargument und Ergebnis; keine bloßen Ampeln oder Skeletttexte. Tabellen dürfen strukturierte Zahlen enthalten. Bei mehreren eigenständigen Ansprüchen Unterzeilen mit nachvollziehbarer Zuordnung verwenden. Manuelle Freigabepunkte und nicht geprüfte technische Voraussetzungen in einer getrennten Abschlussnotiz nennen. Formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung; technische Formatwünsche nicht in den Brief setzen.
 
 ## 6. Beispiele
 

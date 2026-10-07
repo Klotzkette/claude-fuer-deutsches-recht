@@ -31,9 +31,10 @@
       "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
-      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Beschluss, Geschäftsführerwechsel oder Kapital-/Anteilsmaßnahme wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a47b1f2b9f51edf1e529f81a2820b4d07b6a63f9d7a67f9496c0a62f6cd3ee2a"
+    "sha256": "4799124eef879bdbba6d2c07adffbfd0ee208a182eaa01758c840f7bb0dd1f93"
   },
   "selection": {
     "positive": [
@@ -86,9 +87,10 @@
       "Gesellschafterliste am Abstimmungstag und Stimmverbot auch bei Verweigerung der Entlastung getrennt.",
       "MoPeG-Nummerierung für Ausschließung und Beschlussmängel geprüft; alte HGB-Ausschließungsnummer entfernt.",
       "Mehrheit, notarielle Form und Zustimmung zu zusätzlichen Leistungspflichten nach Paragraf 53 Absatz 2 bis 4 GmbHG unterschieden.",
-      "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt."
+      "Gegenstandsbezogene Stimmenrechnung, Organ-/Dienstvertrags-/Registerebene, Kapitalaufteilung, Listenstand und haftungsrelevante Zustimmung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "deb5156fc1542a27c10076e82606afa5b7e768e780ff9d6fc67f74eb85fd9e31"
+    "sha256": "8f1f89d9705edc0ad3807fc31afe3a3f17ee559ef85baf1b94f6262803af79b2"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

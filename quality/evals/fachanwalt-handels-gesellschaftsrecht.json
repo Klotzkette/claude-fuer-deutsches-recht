@@ -57,9 +57,10 @@
       "Rügefrist nach HGB Paragraf 377 Absatz 4 korrigiert; unbestätigten Registerbeschluss entfernt.",
       "Stille Reserven nicht mit freiem Vermögen gleichgesetzt; kein Automatismus persönlicher Abfindungshaftung.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden."
+      "Mitgliedschaftsstreit und Manager-Hinauskündigung in Werkstatt/Mini/Gesellschafterstreitskill verankert; Listeneintrag nicht als abschließenden materiellen Berechtigungsnachweis verwenden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6405b2054c40076571001a69b471e9aa78320c5fdc5bd0fd0d0a7f2761a3809d"
+    "sha256": "fda62696e84358fb5a7f84143a74a39e6effc2e4cba810aaec1bdc6d1ee53120"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -69,12 +70,13 @@
     "changes": [
       "II ZR 65/16 und II ZR 342/14 mit zeitlicher und haftungsrechtlicher Abgrenzung in beide Texte eingearbeitet.",
       "Einstieg auf beauftragte Einziehungs- und Abfindungsprüfung konkretisiert; vollständige Entwürfe und Fortsetzung nach Nachweisen erhalten.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-handels-gesellschaftsrecht/fachanwalt-handels-gesellschaftsrecht-hauptproblem.md",
-    "prompt_sha256": "af871bbaf284b24957e1c690360b298fceb7d1e70f2f13878dce1090287f4c13",
+    "prompt_sha256": "109154bc6f60ab4daa1437f837c6962efcfe8b1cad3ef4d83036194b82129157",
     "skill_path": "fachanwalt-handels-gesellschaftsrecht/skills/gmbh-einziehung-abfindung-finanzierbarkeit/SKILL.md",
-    "skill_sha256": "1579bba346f26e1442ba055b23132e07e757c8efc4e0221375e06918019e538c"
+    "skill_sha256": "987179d1959183e756abba5fcff5b8f6b9c950d72d9f44bb9569e9146f608074"
   },
   "selection": {
     "positive": [

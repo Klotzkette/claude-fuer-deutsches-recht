@@ -29,7 +29,7 @@ Paragrafen 38, 94 bis 96, 174 Absatz 2, 177 und 181 InsO; konkrete vertragliche 
 
 ## 5. Ausgabeformat
 
-Belegmatrix als Hilfsmittel, danach ein vollständig ausformulierter Prüfvermerk und bei Bedarf eine konkrete Belegnachforderung. Jede Kürzung oder offene Position muss eine verständliche Begründung erhalten; keine Sammlung bloßer Schlagworte als Endprodukt. Formatierte Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung. Die Tabelle enthält einen präzisen Kurzgrund, der Brief erläutert ihn ohne interne Feldnamen.
+Belegmatrix als Hilfsmittel, danach ein vollständig ausformulierter Prüfvermerk und bei Bedarf eine konkrete Belegnachforderung. Jede Kürzung oder offene Position muss eine verständliche Begründung erhalten; keine Sammlung bloßer Schlagworte als Endprodukt. Formatierte Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Die Tabelle enthält einen präzisen Kurzgrund, der Brief erläutert ihn ohne interne Feldnamen.
 
 ## 6. Beispiele
 

@@ -31,9 +31,10 @@
       "Verhandlungsantrag funktional auslegen und schriftliche Entscheidung rechtzeitig ankündigen; ungeprüfte Aktenzeichen durch konkrete Verfahrensfragen ersetzt.",
       "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
       "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
-      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4cee218762f4e8bee4a8e51946fe5c7ad3c909f1a96a8282e2ddd0a936a8a1a9",
+    "sha256": "b7b37f2cd2f8bac40b2fba920ad4a87fa7304408c7ec00eaaf7dcaadccafcc43",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -44,9 +45,10 @@
       "Forderung, erhebliche Einwendung und Verhandlungsbedarf aus der Zivilakte bestimmen.",
       "Ablehnung der Entscheidung nach Aktenlage als Verhandlungsantrag auslegen; fehlendes Beweisangebot rechtfertigt sein Übergehen nicht.",
       "Verhandlungsbegehren -> Verfahrensverfügung ändern; andere Zahlungszuordnung -> Restbetrag und Zinsen korrigieren.",
-      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite."
+      "Laienhafter Verhandlungsantrag, Mangel-/Fotobeweis, konkrete Fachfrage und Vergleichsreichweite.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "adfec4089497fe739657c241ae7b024092d6f6c6386d95125662ec38e165ab7c",
+    "sha256": "91edf664c3e8a33e2c31f9941c535db64024a668cd68d34a103520bba067bef3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

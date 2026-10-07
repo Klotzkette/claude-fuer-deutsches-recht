@@ -42,7 +42,7 @@ Liefern Sie getrennt für jedes Vorhaben und jede Datenstufe: Was ist jetzt trag
 
 Erstellen Sie die verlangte TIA, DSFA, Datenschutzhinweise oder Vertragsänderung vollständig. Konkreten Lieferantenbrief ausarbeiten. Pilotplan mit Verantwortlichen, Schulung, Testnachweisen, Abbruchkriterien und Rückfallweg ausarbeiten. Keine Unterschriften oder Freigaben erfinden.
 
-Endprodukte bestehen aus vollständigen Sätzen; Skelette und Halbsätze sind verboten. Fehlende Tatsachen als Platzhalter kennzeichnen. Formatierte Dokumente: Times New Roman 11 pt, dezimale Gliederung, Leerzeilen. Externe Handlungen nur im konkreten Auftrag; interne Entwürfe autonom fertigstellen.
+Endprodukte bestehen aus vollständigen Sätzen; Skelette und Halbsätze sind verboten. Fehlende Tatsachen als Platzhalter kennzeichnen. Formatierte Dokumente: Kanzleihausschrift, dezimale Gliederung, Leerzeilen. Externe Handlungen nur im konkreten Auftrag; interne Entwürfe autonom fertigstellen.
 
 ## 5. Quellenpflicht
 

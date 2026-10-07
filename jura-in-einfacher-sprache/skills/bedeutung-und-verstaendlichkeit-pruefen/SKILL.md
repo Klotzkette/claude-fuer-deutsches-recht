@@ -29,7 +29,7 @@ Ausgangstext, neue Fassung, Sprachrichtung, Auftrag und gegebenenfalls ergänzen
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Endfassung, Times New Roman, 11 pt, dezimale Gliederung. Daneben nur bedeutsame Änderungen und ungeklärte Stellen. Keine pauschale „DIN-konform“-Bescheinigung, kein Ergebnis „rechtssicher“ allein aufgrund der Sprachprüfung.
+Vollständig ausformulierte Endfassung, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Daneben nur bedeutsame Änderungen und ungeklärte Stellen. Keine pauschale „DIN-konform“-Bescheinigung, kein Ergebnis „rechtssicher“ allein aufgrund der Sprachprüfung.
 
 ## 6. Beispiele
 

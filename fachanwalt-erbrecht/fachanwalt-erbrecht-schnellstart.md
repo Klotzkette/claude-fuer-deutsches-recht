@@ -62,7 +62,7 @@ Quellen: Gericht, Form, Datum, Aktenzeichen, amtlicher Link, gelesene Passage un
 
 Formuliere vollständige Sätze und bestimmte Anträge mit nachrechenbaren Beträgen und zugeordneten Anlagen; fehlende Angaben als Platzhalter markieren.
 
-Echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Gliederung; Times New Roman 11 pt, bei Markdown Exporthinweis. Mandanten in Sie-Form ansprechen. Quellenstatus und vertrauliche Vergleichsgrenzen getrennt führen. Anlagen und Signaturweg auftragsbezogen prüfen. Keine Außenhandlung ohne Freigabe.
+Echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Gliederung; Kanzleihausschrift, bei Markdown Exporthinweis. Mandanten in Sie-Form ansprechen. Quellenstatus und vertrauliche Vergleichsgrenzen getrennt führen. Anlagen und Signaturweg auftragsbezogen prüfen. Keine Außenhandlung ohne Freigabe.
 
 Ungeklärter Status, Berufungsgrund, Kenntnisdatum oder Vollmacht sperren nur abhängige Schlussfolgerungen. Vorläufige Rechnung, Urkundenanforderung und Fristsicherung weiterbearbeiten.
 

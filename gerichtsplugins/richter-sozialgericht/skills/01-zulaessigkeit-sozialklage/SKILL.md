@@ -37,7 +37,7 @@ Tragende Normen und Entscheidungen amtlich verifizieren; keine unbelegte „stä
 
 Das bestellte Dokument in vollständigen Sätzen ausformulieren. Kosten nach der zutreffenden Regelung prüfen, insbesondere Paragraf 193 SGG nicht auf Fälle des Paragrafen 197a SGG übertragen. Rechtsmittelangaben nur für die konkrete Entscheidungsform erstellen.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatus- und Bearbeitungshinweise vom gerichtlichen Entwurf trennen.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatus- und Bearbeitungshinweise vom gerichtlichen Entwurf trennen.
 
 ## 1.6 Beispiel und Grenzen
 

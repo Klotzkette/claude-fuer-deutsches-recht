@@ -41,9 +41,10 @@
       "Konkrete Entscheidungsfrage statt bloßem Erstellungsauftrag; Aktualisierung muss Kurzantwort und Empfehlung verändern, nicht nur neue Fundstelle anfügen.",
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Neuerstellung, Kürzung und Aktualisierung unterscheiden; konkreten Nachtrag in die vollständige Memo-Fassung einarbeiten.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "301059dd6a97f71e591bff6ea2eb4079566071ea34eda8ef2df75714800f3a0f",
+    "sha256": "1883cfe9230cb705be27532bd000402701e0b492fa58cc174b4c7f7104e6c728",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -54,9 +55,10 @@
       "Eigenverantwortliche Entscheidung ermöglichen und Empfehlung nach verschlechterter Sach- oder Rechtslage aktualisieren. Grenze: Keine vorgeschriebene Memoform; keine Sachnorm für sämtliche Mandatsgegenstände.",
       "Vertragsfassung und Tatsachenbeleg unterscheiden; abhängige Fragen und konkrete Gegenbelege in Kurzantwort und Empfehlung übersetzen.",
       "Empfängerwechsel und Kürzung dürfen Wahrheitsgrad nicht verändern; fertiges Memo von noch ausstehender Empfängerentscheidung trennen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "37bdad927c20cd1c8411a768a373fa4b85fce804e1484bd42494f4ac00cf3ef9",
+    "sha256": "37ff46cba989d303a97f7a87dbfed08e119cc5ae817a44ac9caf849700261719",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

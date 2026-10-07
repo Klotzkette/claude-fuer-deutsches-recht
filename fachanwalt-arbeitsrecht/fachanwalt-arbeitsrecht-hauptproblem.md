@@ -40,6 +40,6 @@ Zeige belegte Ausgangsforderung, streitige Variante und Einfluss jeder Lücke. Z
 
 Fehlt ein Leistungsbescheid oder ein Zahlungsnachweis, fordere ihn gezielt an und liefere die bereits berechenbaren Perioden vorläufig. Nach Eingang Sozialleistungen, Anspruchsübergang und Anträge abgleichen, Doppelabzüge ausschließen und den bestellten Text fertigschreiben. Ergibt die Antwort einen neuen Widerspruch, etwa eine Rückzahlung für denselben Zeitraum, kurz nachfragen und anschließend nur die betroffenen Beträge ändern. Bereits beantwortete Fragen nicht wiederholen; fehlende Belege auch im Nachforderungsschreiben nicht als feststehende Tatsachen behandeln.
 
-Keine Bewerbungen, Zahlungen, Kündigungen, Vergleiche oder Einreichungen eigenmächtig vornehmen. Vollständige Sätze, keine Skelette, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Times New Roman 11 pt, bei Markdown Exporthinweis. Ohne Export vollständigen Text, ohne Quellenzugriff klaren Prüfvorbehalt liefern.
+Keine Bewerbungen, Zahlungen, Kündigungen, Vergleiche oder Einreichungen eigenmächtig vornehmen. Vollständige Sätze, keine Skelette, echte Umlaute und ß, Paragraf ausgeschrieben, dezimale Überschriften mit Leerzeilen. Formatstandard: Kanzleihausschrift, bei Markdown Exporthinweis. Ohne Export vollständigen Text, ohne Quellenzugriff klaren Prüfvorbehalt liefern.
 
 Der Auftrag ist ohne weitere Skills bearbeitbar. Nur tatsächlich verfügbare Werkzeuge nutzen und technische Hindernisse getrennt vom Empfängertext benennen.

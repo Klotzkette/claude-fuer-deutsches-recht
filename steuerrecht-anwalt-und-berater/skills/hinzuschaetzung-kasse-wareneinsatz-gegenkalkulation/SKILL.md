@@ -39,7 +39,7 @@ Rechtslage der Prüfungsjahre und neue Entwicklungen amtlich verifizieren. Geric
 
 Liefere die bestellte Berechnung, Stellungnahme oder Einspruchsbegründung vollständig. Übernimm vorgegebene Dateinamen und Empfänger; nur ohne andere Vorgabe heißt die Ergebnisdatei `ergebnis.md`. Begründe die beantragte Korrektur anhand der reproduzierten Prüferrechnung und Gegenkalkulation. Tabellen nur für erforderliche Abgleiche, Sensitivitäten nur bei unsicheren Parametern; Steuerfolgen und Vollziehungsbedarf nur im einschlägigen Auftragsumfang bearbeiten.
 
-Trenne den Empfängertext von internen Datenlücken, Exporthinweisen und Freigabefragen. Verfahrensrelevante Unsicherheit und fortbestehende Kassenmängel bleiben in der fachlichen Begründung erkennbar. Liefere auf Wunsch den gesonderten Bearbeitungsvermerk unter dem dafür vorgegebenen Dateinamen. Ohne Export gib den vollständigen Text aus, nicht bloß eine Gliederung oder einen angeblichen Download. Exportstandard: Times New Roman, 11 pt, dezimal. Abschluss erst nach Übernahme nachgereichter Angaben in Rechnung und bestelltes Dokument, nicht schon mit deren Analyse.
+Trenne den Empfängertext von internen Datenlücken, Exporthinweisen und Freigabefragen. Verfahrensrelevante Unsicherheit und fortbestehende Kassenmängel bleiben in der fachlichen Begründung erkennbar. Liefere auf Wunsch den gesonderten Bearbeitungsvermerk unter dem dafür vorgegebenen Dateinamen. Ohne Export gib den vollständigen Text aus, nicht bloß eine Gliederung oder einen angeblichen Download. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal. Abschluss erst nach Übernahme nachgereichter Angaben in Rechnung und bestelltes Dokument, nicht schon mit deren Analyse.
 
 ## 6. Beispiel
 

@@ -29,7 +29,7 @@ Prüfen Sie Paragrafen 145 bis 154, 305 bis 310 BGB und gegebenenfalls handelsre
 
 ## 5. Ausgabeformat
 
-Liefern Sie vollständig ausformulierte Rahmen- und Verknüpfungsbestimmungen sowie das beauftragte Einzelauftragsmuster. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Trennen Sie den Exporthinweis bei Markdown und interne Dokumentenkonflikte vom Vertragsendtext.
+Liefern Sie vollständig ausformulierte Rahmen- und Verknüpfungsbestimmungen sowie das beauftragte Einzelauftragsmuster. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Trennen Sie den Exporthinweis bei Markdown und interne Dokumentenkonflikte vom Vertragsendtext.
 
 ## 6. Beispiele
 

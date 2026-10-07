@@ -1,0 +1,163 @@
+{
+  "standard": {
+    "schrift": "Times New Roman",
+    "groesse": "11 pt",
+    "gliederung": "dezimal"
+  },
+  "profilquelle": "Abschnitt \"Kanzleiprofil\" in der CLAUDE.md der jeweiligen Kanzlei; Einzelheiten in references/kanzleiprofil.md",
+  "bekannte_schriftnamen": [
+    "Times New Roman",
+    "Raleway",
+    "Arial",
+    "Calibri",
+    "Cambria",
+    "Garamond",
+    "Georgia",
+    "Helvetica",
+    "Verdana",
+    "Liberation Serif",
+    "Liberation Sans",
+    "DejaVu Serif",
+    "DejaVu Sans",
+    "Open Sans",
+    "Roboto",
+    "Lato",
+    "Montserrat",
+    "Source Sans",
+    "Noto Sans",
+    "Noto Serif",
+    "Courier New"
+  ],
+  "fremdvorgaben": [
+    {
+      "text": "Times New Roman 11/12 pt",
+      "grund": "Formatvorgabe der DFG für Sachbeihilfe-Anträge, keine Hausschrift"
+    },
+    {
+      "text": "Word (DOCX, Times New Roman, 12 pt)",
+      "grund": "Beschreibung vorhandener Download-Dateien"
+    },
+    {
+      "text": "arial-mandantenkommunikation-entscheidungsvorlage",
+      "grund": "Skill-Slug, kein Schriftname"
+    },
+    {
+      "text": "anlagenkonvolut-sonderfall-arial",
+      "grund": "Skill-Slug, kein Schriftname"
+    },
+    {
+      "text": "Referentenentwurf Arial-Hausstil",
+      "grund": "Amtlicher Hausstil der Bundesministerien für Referentenentwürfe (Legistik-Werkstatt), keine Kanzleischrift"
+    },
+    {
+      "text": "schrift_stempel: Arial-Bold",
+      "grund": "Konfigurationsschlüssel des Anlagenstempels auf Beweisanlagen (fahrgastrechte, fluggastrechte)"
+    },
+    {
+      "text": "Arial 12 FETT oben rechts",
+      "grund": "Erläuterung desselben Anlagenstempels"
+    },
+    {
+      "text": "Druckschrift Stempel Garamond mit Hauslizenz",
+      "grund": "Beispiel-Satzbrief: Druckschrift des Verlags laut Verlagsstyleguide (verlagsredaktion), keine Kanzleischrift"
+    }
+  ],
+  "ausnahmen": [
+    {
+      "grund": "Testakten-Builder, ihre Tests und Fixtures bilden fremde Kanzleiakten nach; Testdaten der Hausstil-Tests nennen Schriftnamen absichtlich",
+      "pfade": [
+        "scripts/",
+        "testakten/",
+        "weitere-unterlagen/",
+        "*/testakte/*"
+      ]
+    },
+    {
+      "grund": "Amtliches Layout der Bundestags-Drucksache als begründete Abweichung vom Kanzleiprofil",
+      "pfade": [
+        "legistik-werkstatt/skills/dokumente-rendern-docx-pdf/",
+        "legistik-werkstatt/README.md"
+      ]
+    },
+    {
+      "grund": "Laienhilfe vor dem Amtsgericht mit gerichtsüblicher Schrift, kein Kanzleiprofil",
+      "pfade": [
+        "selbstvertreter-amtsgericht/"
+      ]
+    },
+    {
+      "grund": "Aufgezeichnete Prüfprotokolle und beobachtete Ausgaben, keine Vorgaben",
+      "pfade": [
+        "quality/source-audits/",
+        "quality/sozialversicherungspflicht-pruefer/",
+        "quality/startup-gruender/",
+        "quality/hildesheim-lebensakte/",
+        "quality/gmbh-gesellschafterversammlung/",
+        "quality/gesellschaftsgruender/",
+        "quality/fixtures/",
+        "quality/liquiditaetsplanung/",
+        "quality/vergesellschaftung-artikel-15/",
+        "quality/bauvergabe/",
+        "quality/ki-verordnung-transparenzpruefer-native-qa.json"
+      ]
+    },
+    {
+      "grund": "Historie wird nicht umgeschrieben",
+      "pfade": [
+        "CHANGELOG.md"
+      ]
+    },
+    {
+      "grund": "Plugin-eigene Renderer und Web-Assets mit eigener Schriftlogik; Parametrisierung über das Kanzleiprofil steht aus",
+      "pfade": [
+        "playbook-pruefer/scripts/",
+        "forderungsmanagement-klagewerkstatt/assets/"
+      ]
+    },
+    {
+      "grund": "Plugin-eigene Renderer, Werkzeuge und Vorschau-Assets mit eigener Schriftlogik; Parametrisierung über das Kanzleiprofil steht aus",
+      "pfade": [
+        "*/werkzeuge/*",
+        "*/tools/*",
+        "*/assets/*",
+        "grundstuecksrecherche/app/",
+        "grundstuecksrecherche/tests/"
+      ]
+    },
+    {
+      "grund": "Anlagenstempel-Konvention (Stempelschrift auf Beweisanlagen), keine Dokumentschrift",
+      "pfade": [
+        "bea-versand/",
+        "anlagen-zu-schriftsaetzen/",
+        "fahrgastrechte/skills/anlagen-bauen/",
+        "fluggastrechte/skills/anlagen-bauen/",
+        "fluggastrechte/skills/fluggastrechte-anlagen-bauen/",
+        "fahrgastrechte/skills/klage-amtsgericht-fahrgast/",
+        "fluggastrechte/skills/klage-amtsgericht-fluggast/",
+        "quality/bea-versand/",
+        "quality/registerwerkstaetten/"
+      ]
+    },
+    {
+      "grund": "Barrierefreiheits- und Leichte-Sprache-Vorgaben schreiben eine serifenlose Schrift vor",
+      "pfade": [
+        "fachanwalt-sozialrecht/skills/mandantenbrief-leichte-sprache/",
+        "weg-hausverwaltung/skills/barrierefreie-einladung-protokoll-versammlung/"
+      ]
+    },
+    {
+      "grund": "Beschreibung der Schriften einer vorgegebenen PowerPoint-Gestaltungsvorlage; Folien folgen dem Vorlagen-Thema, nicht der Dokument-Hausschrift",
+      "pfade": [
+        "juristische-praesentationen/references/powerpoint-und-barrierearmut.md",
+        "juristische-praesentationen/skills/powerpoint-aus-vorlage-erstellen/",
+        "juristische-praesentationen/juristische-praesentationen-werkstatt.md"
+      ]
+    },
+    {
+      "grund": "Steuer-Ländermatrix nennt die Karibikinsel Montserrat, keine Schrift",
+      "pfade": [
+        "steuerrecht-anwalt-und-berater/references/dba-laendermatrix-2026.md"
+      ]
+    }
+  ]
+}

@@ -53,7 +53,7 @@ Beachte [Zitierweise](../../references/zitierweise.md), sofern verfügbar; prüf
 
 Erstelle das bestellte Gutachten oder den vollständigen Anspruchs- beziehungsweise Verteidigungstext, mit abgestimmtem Zahlungsjournal und erforderlichen Berechnungsvarianten. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur die Vorgabe bei fehlendem Dateiwunsch. Sorgfalts- und Entlastungstabellen nur soweit für den Nachweis nötig; keine ungefragte Klage zu einem Bewertungsauftrag.
 
-Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Ohne Dateiexport die bestellte Bewertung oder den Entwurf samt Zahlungsabgleich und erforderlicher Rechnung vollständig in der Antwort bereitstellen; keine nicht erzeugte Datei verlinken. Dezimale Gliederung; Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
+Endprodukt in vollständigen Sätzen, keine Stichwortskelette. Ohne Dateiexport die bestellte Bewertung oder den Entwurf samt Zahlungsabgleich und erforderlicher Rechnung vollständig in der Antwort bereitstellen; keine nicht erzeugte Datei verlinken. Dezimale Gliederung; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Nicht geprüfte Konten, Quellenstatus und interne Kontrollen in einer gesonderten Arbeitsnotiz nennen, nicht im Mandantenbrief.
 
 ## 6. Beispiele
 

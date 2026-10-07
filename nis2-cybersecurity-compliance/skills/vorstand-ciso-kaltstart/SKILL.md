@@ -32,7 +32,7 @@ Verifiziere tragende Normen und Entscheidungen; keine ungelesenen Literatur- ode
 
 Liefere den bestellten Bericht oder Beschlussentwurf in vollständigen Sätzen. Benenne tatsächlichen Stand, erforderliche Entscheidung und offene Nachweise; erzwinge keinen pauschalen 100-Tage-Plan. Tabellen sind nur für konkrete Maßnahmen, Kosten oder Verantwortlichkeiten sinnvoll.
 
-Bei einer entscheidenden Lücke liefere unabhängige Teile vorläufig und setze nach Antwort bis zur Endfassung fort. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist ein möglicher Standard. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Bei einer entscheidenden Lücke liefere unabhängige Teile vorläufig und setze nach Antwort bis zur Endfassung fort. Nutzerseitige Dateinamen haben Vorrang; ergebnis.md ist ein möglicher Standard. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Beschlussfassung, Budgetfreigabe, externe Meldungen oder technische Eingriffe nicht eigenmächtig veranlassen oder als erfolgt darstellen. Bei fehlendem Zugriff frage nach dem benötigten Auszug; ohne Export liefere Text. Andere Skills sind optional.
 

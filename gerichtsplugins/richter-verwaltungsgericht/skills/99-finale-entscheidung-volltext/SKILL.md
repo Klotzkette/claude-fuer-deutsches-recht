@@ -34,7 +34,7 @@ Amtliche Kontrollstellen: https://www.gesetze-im-internet.de/vwgo/__113.html, ht
 
 ## 1.5. Ausgabe und Kontrolle
 
-Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
+Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
 
 Vergleiche Antrag, Tenor, Gründe, Kosten und Belehrung sowie alle Namen, Daten und Beträge. Ein Entwurf mit entscheidender Tatsachenlücke bleibt vorläufig; markierte Platzhalter rechtfertigen keine Behauptung der Entscheidungsreife. Unterzeichnung, Entscheidung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten.
 

@@ -131,6 +131,14 @@ Es gilt `references/zitierweise.md`. Daten nur aus Belegen; Kenntniszeitpunkte a
 
    Beleggebundene Chronologie mit Fristwirkung, Fristenkarte und Wiedervorlagenliste in vollständigen, ausformulierten Sätzen. Ab mindestens drei Ereignissen wird die Chronologie tabellarisch verglichen; sonst werden die Ereignisse in getrennten Absätzen oder einer kurzen Liste dargestellt. Bloße Stichwortsammlungen und leere Tabellenzeilen sind als Endprodukt unzulässig.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiele
 
 - Eingang: Kauf 2014, Rückruf 2016, Update 2017, Mandat 2026. Kernbefund: regelmäßige Verjährung und Zehnjahresfrist des § 852 BGB nach dem Rechenbeispiel abgelaufen, Hemmung ungeklärt. Erste Antwort: Chronologie-Tabelle mit getrennten Erwerbs- und Update-Zeilen, Fristenkarte mit den Stichtagen 31.12.2019 und 15.03.2024 sowie genau einer Rückfrage nach einer Anmeldung zur Musterfeststellungsklage.

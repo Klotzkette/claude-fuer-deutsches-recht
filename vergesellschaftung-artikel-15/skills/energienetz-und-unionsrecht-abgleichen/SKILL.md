@@ -43,7 +43,7 @@ Die unions- und völkerrechtliche Einschätzung im [Berliner Bericht](../../refe
 
 # 5. Ausgabeformat
 
-Vollständiger Umsetzungsvermerk und, wenn bestellt, ausformulierte Übergangs- oder Finanzierungsklauseln. Keine bloße Liste von Rechtsgebieten, Halbsätzen oder Klauselrümpfen. Times New Roman 11 pt und dezimale Gliederung; getrennter Exporthinweis bei nicht formatiertem Text. Keine Behördenkommunikation oder Übertragung von Daten ohne Auftrag und Freigabe auslösen.
+Vollständiger Umsetzungsvermerk und, wenn bestellt, ausformulierte Übergangs- oder Finanzierungsklauseln. Keine bloße Liste von Rechtsgebieten, Halbsätzen oder Klauselrümpfen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; getrennter Exporthinweis bei nicht formatiertem Text. Keine Behördenkommunikation oder Übertragung von Daten ohne Auftrag und Freigabe auslösen.
 
 # 6. Beispiele
 

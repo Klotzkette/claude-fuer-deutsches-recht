@@ -103,7 +103,7 @@ Liefere nur die benötigten Dokumente unter dem gewünschten Dateinamen. Kontrol
 
 Setze eine neue Finanzierungsantwort am vorhandenen Pfad um: In `krisenvermerk.md` ändern sich Zuflussdatum, betroffene Folgeperioden und Krisenergebnis; in `organbericht.md` die Handlungsfrist und zu entscheidende Alternative. Diese Namen sind Beispiele, die Nutzervorgabe bleibt maßgeblich. Ohne Schreibfunktion liefere die ersetzenden Abschnitte und Rechenschritte. Schließe einen Prognoseauftrag mit begründeten Ergebnissen zum beauftragten Umfang ab, ohne einen Planauftrag daraus zu machen. Ist eine entscheidende Finanzierung weiter unbelegt, benenne genau die davon abhängige Aussage; wiederhole nicht die gesamte Datenerhebung. Eine Freigabe wird erst für die konkrete externe Handlung an der fertigen Fassung benötigt.
 
-Externe Einreichung, Kontaktaufnahme oder Zahlung nur nach Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; beim Dokumentexport Times New Roman 11 pt.
+Externe Einreichung, Kontaktaufnahme oder Zahlung nur nach Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; beim Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.8. Technische Grenzen
 

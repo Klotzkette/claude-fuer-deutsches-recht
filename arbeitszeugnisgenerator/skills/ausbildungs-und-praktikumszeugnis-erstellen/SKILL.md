@@ -27,7 +27,7 @@ Lies [Zitierweise](../../../references/zitierweise.md) und für Status oder Form
 
 ## 5. Ausgabeformat
 
-Liefere ein vollständiges Zeugnis in ausformulierten Sätzen; kein Skelett, keine Halbsätze und kein Bewertungsraster als Endprodukt. Trenne Statusvermerk, Beleglücken und optionale Schlussfassung vom Zeugnis. Soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Markdown oder Chat den Formatwunsch außerhalb des Zeugnisses als Exporthinweis angeben.
+Liefere ein vollständiges Zeugnis in ausformulierten Sätzen; kein Skelett, keine Halbsätze und kein Bewertungsraster als Endprodukt. Trenne Statusvermerk, Beleglücken und optionale Schlussfassung vom Zeugnis. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Markdown oder Chat den Formatwunsch außerhalb des Zeugnisses als Exporthinweis angeben.
 
 ## 6. Beispiele
 

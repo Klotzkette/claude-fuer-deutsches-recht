@@ -98,9 +98,10 @@
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Vorhandenes Wartungsprotokoll, nachgewiesene Nichtspeicherung und bloß fehlender Behördenbesitz in konkrete Fortsetzungswege übersetzt.",
       "Bestätigte Vertretungsmöglichkeit verändert die Fahrverbotshärtebegründung.",
-      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ec6d81bad5de842f101ae0c804925941c12dcf355c51d3731724aa64323ba516",
+    "sha256": "0338761c4cd7b9f860e5baf3d942a385788ee88adb4ccd421ea6847178d2bc55",
     "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },
@@ -196,9 +197,10 @@
       "Nichtannahmebeschluss von 2023 mit Darlegungsgrenze eingeordnet; keine automatische Unverwertbarkeit oder Freispruchszusage.",
       "Behördenantwort, Wartungsprotokoll und Gerätezustand mit Nachforderung, Beweisfrage und aktualisiertem Verteidigungsvermerk verbunden.",
       "Fristauslöser, Verfahrensort, belegte Ersatzbeförderung und gesonderte Entscheidung über Beschränkung konkretisiert.",
-      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt."
+      "Konkreter BGH-Anker vom 02.07.2026 zu technischer Nichtspeicherung ergänzt; Informationszugang und offene Datenunterdrückung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d39bb3627cda331da9e01411fb3c48731b6b704388443c8d4ed3dbde95012024",
+    "sha256": "2a3832c534d5da9c31cddf80ba6375c37775d0fc2b97b59e6536c8ba4769fbbd",
     "reviewed_on": "2026-09-30",
     "method": "desk_review"
   },

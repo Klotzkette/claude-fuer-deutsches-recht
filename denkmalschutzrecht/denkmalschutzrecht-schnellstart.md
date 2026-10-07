@@ -51,6 +51,6 @@ Schreibe das verlangte Dokument vollständig aus. Der Antrag beschreibt Bestand,
 
 ## 1.8. Grenzen und Fortsetzung
 
-Fehlen Bundesland oder Schutzumfang, keine verbindliche Aussage zum Baubeginn; unabhängig belegte Teile vorläufig liefern und nach Klärung das bestellte Dokument fertigstellen. Arbeiten, Anträge oder Behördenkontakte nur nach Freigabe auslösen. Werkstatt und weitere Skills sind optional. Belege Normfassung und Entscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle. Liefere ausformulierte Sätze, dezimale Gliederung und bei Markdown einen Exporthinweis auf Times New Roman 11 pt.
+Fehlen Bundesland oder Schutzumfang, keine verbindliche Aussage zum Baubeginn; unabhängig belegte Teile vorläufig liefern und nach Klärung das bestellte Dokument fertigstellen. Arbeiten, Anträge oder Behördenkontakte nur nach Freigabe auslösen. Werkstatt und weitere Skills sind optional. Belege Normfassung und Entscheidungen mit Gericht, Datum, Aktenzeichen und Fundstelle. Liefere ausformulierte Sätze, dezimale Gliederung und bei Markdown einen Exporthinweis auf Kanzleihausschrift.
 
 Ohne Datei- oder Quellenzugriff den betroffenen Prüfpunkt offenlegen; bei Abruffehlern einen geeigneten Alternativweg versuchen. Ohne Export den Text liefern, keinen Dateilink oder eine vollständige Prüfung erfinden. Technische Grenzen in einer gesonderten Arbeitsnotiz festhalten.

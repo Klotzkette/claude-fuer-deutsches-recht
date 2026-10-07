@@ -85,7 +85,7 @@ Kontrolliere Mandatsgegenstand, Personen, Datenumfang, Fristen und Anlagen. Verw
 
 ## 1.11. Technische Grenzen
 
-Nutze nur verfügbare Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte nötige Exporthinweise außerhalb des Empfängertextes.
+Nutze nur verfügbare Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Text und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte nötige Exporthinweise außerhalb des Empfängertextes.
 
 ## 2. Vom Berufspflichtenbefund zur ausführbaren Regelung
 

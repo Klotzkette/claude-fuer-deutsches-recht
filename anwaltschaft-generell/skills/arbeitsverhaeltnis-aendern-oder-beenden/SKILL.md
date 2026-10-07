@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges beauftragtes Dokument, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Interne Frist- und Kostenhinweise getrennt vom Erklärungstext. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown separater Exporthinweis. Nicht abschließend geklärte Zustimmungs- oder Vertretungsfragen sperren eine behauptete Erklärungsreife, nicht die Arbeit an unabhängigen Vertragsabschnitten.
+Ausformulierungspflicht: vollständiges beauftragtes Dokument, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Interne Frist- und Kostenhinweise getrennt vom Erklärungstext. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown separater Exporthinweis. Nicht abschließend geklärte Zustimmungs- oder Vertretungsfragen sperren eine behauptete Erklärungsreife, nicht die Arbeit an unabhängigen Vertragsabschnitten.
 
 ## 6. Beispiele
 

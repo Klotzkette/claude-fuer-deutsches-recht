@@ -104,7 +104,7 @@ Bei einem Hindernis unabhängig belegbare Teile vorläufig liefern und den konkr
 
 Ausgabe und Umfang richten sich nach dem Auftrag. Eine Zugangseinschätzung braucht keine vollständige Insolvenzakte, ein bestellter Plan dagegen mehr als eine Fehlteilliste. Prüfe vor Abschluss Doppelzählungen, Summen, Quoten, Stichtage, Bescheinigungszeitraum und nicht belegte Zusagen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Anträge, Vergleichsangebote und Zahlungen niemals eigenmächtig veranlassen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Anträge, Vergleichsangebote und Zahlungen niemals eigenmächtig veranlassen.
 
 ## 1.10. Technische Grenzen
 

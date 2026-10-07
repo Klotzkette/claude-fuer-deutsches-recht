@@ -42,9 +42,10 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
       "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
-      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f4e2808b58bc2f69e0e145b86eb560df794b19991a92ba0365fb6173d617dccc",
+    "sha256": "f66fc88943c5d62f71e2548b461dcb148058f7167fb0f23ab90d88ae041cf24f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -100,9 +101,10 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Leerstart: Haftungsantwort, Teilregulierung oder Kasko-/Sozialregress wählen.",
       "Nachgewiesene Kaskozahlung verändert Anspruchsinhaber und getrennte Antwortschreiben; neuer Arztbericht verändert Vergleichsvorbehalt und Abgeltungsumfang.",
-      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden."
+      "Tatsächlichen Forderungsübergang, Quotenvorrecht und verbleibenden Eigenschaden getrennt behandeln; technische Widersprüche auf ihre Belegreichweite begrenzen; Teilzahlung, Zahlungsauftrag und endgültigen Vergleich unterscheiden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fc50e4b28dc891b0741a66def8e71f51d5113afafd9ab4c5c0f9b973677ed5ad",
+    "sha256": "b4f27a2907c255c9c063b32f9cb773333575a5717f68d3467141d96c549f6fe3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

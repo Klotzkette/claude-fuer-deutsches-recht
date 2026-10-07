@@ -32,7 +32,7 @@ Die folgenden Punkte aus vorhandenen Unterlagen übernehmen und nur verbleibende
 
 Fehlt bei einer Routenbeschränkung die konkrete Gefahrenbegründung, fordere sie an und kläre die tatsächlich mögliche Alternative. Nach Antwort Prognose, Schutzwirkung und Auflagenantwort oder Eilantrag aktualisieren. Neue entscheidende Lücken kurz nachfragen, bereits geklärte Angaben nicht wiederholen. Unabhängig tragfähige Teile vorläufig liefern und nach Klärung bis zum bestellten Text fortsetzen.
 
-Keine Anzeige, Zusage oder Einreichung eigenmächtig veranlassen. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen.
+Keine Anzeige, Zusage oder Einreichung eigenmächtig veranlassen. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen.
 
 ## Rechtslogik
 - Ausgangspunkt ist Art. 8 GG: friedliche Versammlung ohne Waffen, grundsätzlich ohne Erlaubnis.

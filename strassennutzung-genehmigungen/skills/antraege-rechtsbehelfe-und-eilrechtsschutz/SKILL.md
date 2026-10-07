@@ -33,7 +33,7 @@ Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen beauftragten Text mit bestimmtem Begehren, tragender Begründung und belegten Tatsachen. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Fehlende Namen oder Daten dürfen klar markiert sein, fehlende Anspruchsvoraussetzungen nicht erfunden werden. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Fristen- und Exportnotiz getrennt vom Empfängertext halten.
+Liefere den vollständigen beauftragten Text mit bestimmtem Begehren, tragender Begründung und belegten Tatsachen. Vollständige ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Fehlende Namen oder Daten dürfen klar markiert sein, fehlende Anspruchsvoraussetzungen nicht erfunden werden. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Fristen- und Exportnotiz getrennt vom Empfängertext halten.
 
 ## 6. Beispiele
 

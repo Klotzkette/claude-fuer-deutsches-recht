@@ -35,7 +35,7 @@ Bei Doppelsachverhalten Datenschutzaufsicht nach Artikeln 51 ff. der Datenschutz
 
 ## 5. Ausgabeformat
 
-Vermerk mit Hauptadressat, Rechtsgrund, sektoralen Ausnahmen, parallelem Verfahren und Frist; bei Auftrag zusätzlich vollständig ausformulierte Antwort oder Beschwerde mit Anlagenverzeichnis. Times New Roman 11 pt, dezimale Gliederung. Unklarheiten benennen; Versand und Offenlegung nur nach Freigabe.
+Vermerk mit Hauptadressat, Rechtsgrund, sektoralen Ausnahmen, parallelem Verfahren und Frist; bei Auftrag zusätzlich vollständig ausformulierte Antwort oder Beschwerde mit Anlagenverzeichnis. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Unklarheiten benennen; Versand und Offenlegung nur nach Freigabe.
 
 ## 6. Beispiele
 

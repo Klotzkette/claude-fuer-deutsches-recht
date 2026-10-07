@@ -66,4 +66,4 @@ EuGH, Urteil vom 26. Juni 2007, C-305/05, ECLI:EU:C:2007:383: Geldwäschepflicht
 
 Jede tragende Feststellung verbindet Originaldatei, Datum, Tatsache, Normfassung und verantwortliche Entscheidung. Dokumentationspflicht ist keine zivilprozessuale Beweislastumkehr. Bei Bußgeldvorwürfen muss die Behörde Tatbestand und Verschulden feststellen; Mitwirkung und Aussageverweigerung gesondert prüfen.
 
-Ist eine entscheidende aktuelle Quelle nicht erreichbar, den belegten Teil mit genau benannter Freigabelücke liefern. Weder Listentreffer noch Freigabe, Eingangsbestätigung oder Meldungsnummer erfinden. Endprodukte verwenden vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung.
+Ist eine entscheidende aktuelle Quelle nicht erreichbar, den belegten Teil mit genau benannter Freigabelücke liefern. Weder Listentreffer noch Freigabe, Eingangsbestätigung oder Meldungsnummer erfinden. Endprodukte verwenden vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

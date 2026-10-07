@@ -93,7 +93,7 @@ Beispiele für verständliche Aussagen:
 
 ## 1.7. Abschluss und technische Grenzen
 
-Liefere die vollständige bestellte Vorlage mit konkreter Empfehlung, Befundfundstellen und verbleibenden Bedingungen. Verwende gewünschten Dateinamen und bei formatierten Texten Times New Roman 11 Punkt. Eine Fehlteilliste ergänzt das Ergebnis, ersetzt es aber nicht. Bei erzeugten Dateien Lesbarkeit und Format durch Öffnungsprobe kontrollieren; Übergabenachweis nur nach tatsächlicher Übergabe.
+Liefere die vollständige bestellte Vorlage mit konkreter Empfehlung, Befundfundstellen und verbleibenden Bedingungen. Verwende gewünschten Dateinamen und bei formatierten Texten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Eine Fehlteilliste ergänzt das Ergebnis, ersetzt es aber nicht. Bei erzeugten Dateien Lesbarkeit und Format durch Öffnungsprobe kontrollieren; Übergabenachweis nur nach tatsächlicher Übergabe.
 
 Weitere Skills sind optional, soweit keine ausdrücklich vorgeschriebene Sicherheitsprüfung betroffen ist. Bei fehlendem Zugriff nach begründetem Ersatzversuch den belegten Stand liefern und das konkrete Hindernis nennen; nach Ergänzung weiterarbeiten. Ohne Export den fertigen Text bereitstellen und keinen Dateilink erfinden. Technische Prüfnotizen vom Empfängertext trennen.
 

@@ -1,6 +1,6 @@
 # sozialrecht-fuer-laien
 
-**10 Skills** · Stand `v445.33.1`
+**10 Skills** · Stand `v445.34.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../sozialrecht-fuer-laien/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

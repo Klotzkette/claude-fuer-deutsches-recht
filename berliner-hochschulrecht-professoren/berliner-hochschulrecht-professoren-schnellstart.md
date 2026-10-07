@@ -38,4 +38,4 @@ Identifiziere Rechtsakt, Gegner, Rechtsweg, Zugang, Fristnorm und nachweisbaren 
 
 ## 1.6. Fertiges Produkt
 
-Liefere das bestellte Dokument in vollständigen, ausformulierten Sätzen; keine Skelette oder Halbsatzlisten als Endprodukt. Dezimale Gliederung, soweit technisch möglich Times New Roman 11 pt. Bei Markdown den Formatwunsch getrennt als Exporthinweis nennen. Beleg- und Fristennotiz vom Empfängerschreiben trennen. Nach Antwort konkret fortsetzen. Versand, Einreichung, Rufannahme, Vertrag und Verzicht erst nach konkreter Freigabe; die interne Ausarbeitung braucht keine zusätzliche Erlaubnis.
+Liefere das bestellte Dokument in vollständigen, ausformulierten Sätzen; keine Skelette oder Halbsatzlisten als Endprodukt. Dezimale Gliederung, soweit technisch möglich Kanzleihausschrift. Bei Markdown den Formatwunsch getrennt als Exporthinweis nennen. Beleg- und Fristennotiz vom Empfängerschreiben trennen. Nach Antwort konkret fortsetzen. Versand, Einreichung, Rufannahme, Vertrag und Verzicht erst nach konkreter Freigabe; die interne Ausarbeitung braucht keine zusätzliche Erlaubnis.

@@ -46,9 +46,10 @@
       "BGH zur sichtbaren Gegenposition in beide Prompts integriert",
       "BVerfG zur Gesamtschau statt strafprozessualer Verdachtsstufe begrenzt angewandt",
       "Nachtrag bei später ausgeräumtem Verdacht und Aufnahmegrenzen präzisiert",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "70adbe3190e385c5845e0a8b70ed7334bec5a7d0467b2c90772f9f1f6c79f763"
+    "sha256": "aaf9d289dafbdfa4182a4c7d0ee4adb11bc97693a22765155f42460cb174b3e8"
   },
   "selection": {
     "positive": [

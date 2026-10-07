@@ -31,7 +31,7 @@ Paragrafen 174 bis 179, 183, 188 und 190 InsO; Paragraf 2 eTab InsO NRW und amtl
 
 ## 5. Ausgabeformat
 
-Abgestimmter Tabellenentwurf mit begründeten Kurzvorschlägen, Dokumentzuordnung und vollständig ausformuliertem Übergabevermerk. Reine Rohdaten, eine Erfolgsmeldung oder ein Skelettvermerk genügen nicht. Brieftexte vollständig ausformulieren. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung; amtliche Formate dürfen begründet abweichen. Fehlende Schema- oder Zielgerichtsvalidierung sichtbar als offene Voraussetzung nennen.
+Abgestimmter Tabellenentwurf mit begründeten Kurzvorschlägen, Dokumentzuordnung und vollständig ausformuliertem Übergabevermerk. Reine Rohdaten, eine Erfolgsmeldung oder ein Skelettvermerk genügen nicht. Brieftexte vollständig ausformulieren. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; amtliche Formate dürfen begründet abweichen. Fehlende Schema- oder Zielgerichtsvalidierung sichtbar als offene Voraussetzung nennen.
 
 ## 6. Beispiele
 

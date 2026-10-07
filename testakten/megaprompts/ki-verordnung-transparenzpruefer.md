@@ -55,7 +55,7 @@ Erkläre knapp, welche anderen Prüfungen nicht Gegenstand der Entscheidung ware
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
+Vollständiger Freigabevermerk mit den benötigten endgültigen Kanaltexten, begründeten Bedingungen und Abnahmeverantwortung, auf Wunsch DOCX in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Keine zusätzliche Faktensammlung als Ersatz. Nur tatsächlich durchgeführte Sicht- oder Funktionskontrollen als abgeschlossen melden.
 
 ## 6. Beispiel
 
@@ -99,7 +99,7 @@ Nach einer Antwort „nur Kommas und Überschriften“ aktualisiere den Freigabe
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
+Erstelle das verlangte vollständige Freigabeschreiben, Prüfprotokoll oder die redigierte Veröffentlichungsvorlage als DOCX, wenn Dateiausgabe gewünscht ist. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Tatsächlich erteilte Freigabe und vorgeschlagene Erklärung unterscheidbar halten. Keine Scheinunterschrift.
 
 ## 6. Beispiel
 
@@ -143,7 +143,7 @@ Nutze [Rechtsstand](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
+Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
 
 ## 6. Beispiel
 
@@ -185,7 +185,7 @@ Artikel 50 Absatz 4 Unterabsatz 2 und Absatz 5, [Quellenreferenz](https://github
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
+Vollständige Entscheidungsnotiz oder versandfertiger Empfängertext, kein bloßer Merkmalskatalog. DOCX bei gewünschter Datei, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften und gut lesbare Absätze. Nur die tatsächlich geprüfte Fassung, den Kanal und verbleibende Bedingungen freigeben. Quellenkontrolle intern halten, tragende Normbezüge in die Begründung aufnehmen.
 
 ## 6. Beispiel
 
@@ -233,7 +233,7 @@ Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit best
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
+Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
 
 ## 6. Beispiel
 
@@ -277,7 +277,7 @@ Nach einer technischen Antwort „nur Wortlaut, keine Stimme“ ändere die Eino
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
+Begründete Entscheidung mit präziser technischer Nachfrage und gegebenenfalls vollständigem Betroffenenhinweis. DOCX bei Dateiauftrag, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Offenlassen, was die technische Beschreibung nicht belegt; keinen erfolgreichen Pilotbetrieb oder rechtliche Zulässigkeit erfinden.
 
 ## 6. Beispiel
 
@@ -321,7 +321,7 @@ Nach Eingang der Vorschau gleiche die bisherige Begründung mit dem tatsächlich
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
+Vollständiger Prüfvermerk mit endgültigem Hinweiswortlaut und konkreter Platzierung. DOCX auf Wunsch, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und lesbare Abstände. Keine definitive Freigabe des visuellen Eindrucks bei fehlendem Medium. Trenne das geprüfte Medium von etwaigen ungeprüften Ausschnitten.
 
 ## 6. Beispiel
 
@@ -373,7 +373,7 @@ Leitlinien vom 20. Juli 2026, Randnummern 30 bis 40 und 143, als unverbindliche 
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
+Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
 
 ## 6. Beispiel
 

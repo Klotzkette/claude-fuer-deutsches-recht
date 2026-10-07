@@ -49,7 +49,7 @@ BGH, Beschluss vom 08.02.2017, XII ZB 604/15, Randnummern 17 bis 23: Für die Be
 
 ## 5. Ausgabeformat
 
-Gewünschte Erklärungen vollständig ausformuliert als Entwurf zur notariellen Prüfung; konkrete medizinische Auswahlfragen getrennt. Times New Roman 11 pt, dezimale Gliederung. Keine erfundene ärztliche Beratung, Unterschrift oder starre Registergebühr.
+Gewünschte Erklärungen vollständig ausformuliert als Entwurf zur notariellen Prüfung; konkrete medizinische Auswahlfragen getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine erfundene ärztliche Beratung, Unterschrift oder starre Registergebühr.
 
 ## 6. Beispiel
 

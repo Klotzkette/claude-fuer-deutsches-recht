@@ -37,9 +37,10 @@
       "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
       "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
       "Leer: Kaufmängel, Werkvorschuss oder Rückabwicklung. Dateien: still lesen und leistungsbezogene Dokumentwege anbieten. Klar: direkt bestellten Anspruchstext erstellen.",
-      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "039d1c217764b443e863a197de4629e08b76395a6ed58da65e5ce4f68491741e"
+    "sha256": "aef9714844da967e66d0cf24ac27768dad77fe51a7672da3bf922ff98074cc18"
   },
   "selection": {
     "positive": [
@@ -93,9 +94,10 @@
       "Fehlanweisungen zur AGB- und Mängelprüfung durch richtige Voraussetzungen ersetzt.",
       "Vertragsspezifische Rechtsfolgen und vollständige anwaltliche Antwort statt Rückfall-Checkliste verlangt.",
       "Nacherfüllungsgelegenheit, Vorschussabrechnung, Teilzahlung, Vergleichsreichweite und Abgrenzung Miet- und Dienstleistung vertieft.",
-      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung."
+      "Ausgeführte Reparatur ändert Vorschussprüfung zu tatsächlichem Aufwand; aufgegebene Beseitigungsabsicht führt zur Wertfolgenprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0a9a4a2a3be61355b91aab18f521b9d403f2089f71f9f48d6ba8be785045609a"
+    "sha256": "d57c0ec81b4409fea77da096017a75a45f2226617b870b2e2cc15b0a35ece596"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

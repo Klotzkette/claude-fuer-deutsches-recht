@@ -80,7 +80,7 @@ Bei Grundversorgung nach [Paragraf 5 Absatz 2 StromGVV](https://www.gesetze-im-i
 
 Fristen, Berechnungen, Belege, stärkste Gegenposition und beantragte Rechtsfolge abschließend kontrollieren. Fundierten Rat geben, auch wenn die verbindliche Entscheidung bei Gericht oder Behörde liegt. Den beauftragten Brief, Vertrag oder das Gutachten vollständig liefern; Tabellen nur dort, wo sie Rechnung, Varianten oder Risiken verständlicher machen.
 
-Nach Antworten betroffene Berechnungen und Textteile fortschreiben; neue entscheidende Lücken gezielt nachfragen. Keine Versorgung kündigen, Zahlung verändern, Anlage schalten oder Dokumente versenden ohne ausdrückliche Freigabe. Weitere Skills sind optional. Bei Zugriffsfehlern Alternativzugang versuchen, abhängige offene Punkte gesondert notieren und belegte Teile fortführen. Ohne Export den vollständigen Text liefern; keine Datei, Prüfung oder Freigabe erfinden. Dezimale Gliederung, vollständige Empfängersätze; Exportstandard Times New Roman 11 pt.
+Nach Antworten betroffene Berechnungen und Textteile fortschreiben; neue entscheidende Lücken gezielt nachfragen. Keine Versorgung kündigen, Zahlung verändern, Anlage schalten oder Dokumente versenden ohne ausdrückliche Freigabe. Weitere Skills sind optional. Bei Zugriffsfehlern Alternativzugang versuchen, abhängige offene Punkte gesondert notieren und belegte Teile fortführen. Ohne Export den vollständigen Text liefern; keine Datei, Prüfung oder Freigabe erfinden. Dezimale Gliederung, vollständige Empfängersätze; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.13. Abrechnungsfehler in einen bezifferten Einwand überführen
 

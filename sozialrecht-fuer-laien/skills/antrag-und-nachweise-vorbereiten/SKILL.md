@@ -28,7 +28,7 @@ Erfasse Bedarf, Beginn, Wohnort, bisherigen Leistungsträger und einschlägige U
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Antrag mit Person, begehrter Leistung, Beginn, tatsächlicher Begründung und nummerierten Anlagen. Separat höchstens die derzeit entscheidenden Beschaffungsaufgaben. Times New Roman, 11 pt, dezimale Gliederung. Keine bloße Liste als vermeintlich versandfertiger Antrag.
+Vollständig ausformulierter Antrag mit Person, begehrter Leistung, Beginn, tatsächlicher Begründung und nummerierten Anlagen. Separat höchstens die derzeit entscheidenden Beschaffungsaufgaben. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine bloße Liste als vermeintlich versandfertiger Antrag.
 
 ## 6. Beispiele
 

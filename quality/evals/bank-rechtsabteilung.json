@@ -46,9 +46,10 @@
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Leerstart: Zahlungsreklamation, Avalabruf oder Aufsichtsauskunft anbieten. Dateien: Bankakte still lesen; kein Gesamtmemo ohne Auftrag. Klarer Auftrag: Kundenantwort oder internes Votum unmittelbar ausarbeiten.",
-      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "26a361098d6ba8096ff1d05b2c0f4057c94cc26c6d27d0bd3c73c6d12b4ae7bc"
+    "sha256": "67315215cd81f6be98059841b3403513bffcd57f3942bdb83748953a893c1fce"
   },
   "selection": {
     "positive": [
@@ -101,9 +102,10 @@
       "Bankseitige Erstattungsprüfung mit XI ZR 91/14 und Grenzen des Anscheinsbeweises verknüpft.",
       "DORA Artikel 16 vom allgemeinen Risikomanagement sowie Artikel 28 und 30 von zivilrechtlicher Zahlungshaftung getrennt.",
       "Erstattungszeitrahmen, Autorisierung nach neuer Aussage, Avalabruf und widersprüchliche Aufsichtszahlen mit getrennten Vollzugsschritten.",
-      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge."
+      "Freigabeanzeige verändert Autorisierung und Kundenantwort; Avalnachtrag verändert Laufzeit; korrigierte Tochterdaten verändern Aufsichtsanhänge.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d0affa2ad5374fd5ced9aa45f8149e36872a93635c3f416f8f6020b5d9729fc8"
+    "sha256": "f9ff511df583b1438d8565974d75590ae7cbc1e6e8cd0baa53e0c9d26e2c96e3"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -37,9 +37,10 @@
       "Doppelte Normenliste durch funktionsbezogene Prüfung von Ausgabe, Verpflichtung und Zuwendung ersetzt.",
       "Interne Überschriften und redundante Mini-Einstiegsanweisungen entfernt.",
       "Fehlende hoheitliche Entscheidungsbefugnis nicht mehr mit Unmöglichkeit abschließender Beratung verwechselt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "666ee6404fd1851b85eb8dee05c5b52cc009d758b0b0733f043544ef8204cc13"
+    "sha256": "092e35e3f94546cdd0cd13279ba9dd1baf0d7c90b2b779a93ef6e035d28327ac"
   },
   "selection": {
     "positive": [

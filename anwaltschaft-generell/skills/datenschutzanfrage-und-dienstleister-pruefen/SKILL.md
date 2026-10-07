@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges Antwortschreiben, Herausgabeverlangen oder Vertragsnachtrag; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Interne Recherche- und Vollständigkeitsvermerke vom Empfängertext trennen. Notwendige Datenübersichten dürfen ergänzen. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine Passwörter, Zugangstoken oder unnötigen Drittpersonendaten in Textbeispiele aufnehmen.
+Ausformulierungspflicht: vollständiges Antwortschreiben, Herausgabeverlangen oder Vertragsnachtrag; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Interne Recherche- und Vollständigkeitsvermerke vom Empfängertext trennen. Notwendige Datenübersichten dürfen ergänzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine Passwörter, Zugangstoken oder unnötigen Drittpersonendaten in Textbeispiele aufnehmen.
 
 ## 6. Beispiele
 

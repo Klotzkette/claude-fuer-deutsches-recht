@@ -43,9 +43,10 @@
       "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
       "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
       "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
-      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "feb2c83e933b806adaf1fad5a63293ccc6a253e90fad5fdb38c0fc685d8e23a8",
+    "sha256": "b14970caaf016e6e57c11872e5f0c8c633acc8d61d804cfe1e8dad4f7a681e8b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -58,9 +59,10 @@
       "Paragrafen 640 Absatz 3 und 641 Absatz 3 BGB sowie Vorschussvoraussetzungen getrennt; kein automatischer Mahn- oder Klageauftrag.",
       "Leerstart: Reklamation beantworten, Angebot/Nachtrag oder Liquidität planen wählen.",
       "Ein belegter Mängelbeseitigungsaufwand von 350 statt 200 Euro verändert Einbehalt und Zahlungsantwort; ein ausgefallener Zufluss verändert den Liquiditätsplan.",
-      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen."
+      "Vertragstyp und Abnahmestand vor Zahlungsargumentation bestimmen; Zusatzfunktion durch vollständiges Nachtragsangebot mit Terminfolgen regeln; bezahlte, zugesagte und streitige Mittel trennen; Beendigung und Daten-/Rechteübergabe getrennt abschließen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4f19b50828d9d397e983d72d31f935cb7ec287d20bd75a5a4179df90d7798a20",
+    "sha256": "0ce514a0bf99a5e845f87e176b45d81c266bee9ff33f3bca933f371c70bb232a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -67,6 +67,6 @@ Liefere zuerst eine knappe Entscheidung: welcher Form- oder Vertretungsfehler ko
 | Kündigung | Form und Originalbeleg | Zugang und Beweis | Vollmacht oder Organvertretung | Rüge und Zugang | Klagefrist und Sicherheitsfrist |
 | --- | --- | --- | --- | --- | --- |
 
-Keine bloße Tabellenhülle abgeben: belegte Felder ausfüllen, offene Angaben ausdrücklich kennzeichnen und pro Streitpunkt ein passendes Beweisangebot formulieren. Für die Dokumentausgabe dezimale Gliederung, ausreichende Abstände und möglichst Times New Roman 11 Punkt verwenden.
+Keine bloße Tabellenhülle abgeben: belegte Felder ausfüllen, offene Angaben ausdrücklich kennzeichnen und pro Streitpunkt ein passendes Beweisangebot formulieren. Für die Dokumentausgabe dezimale Gliederung, ausreichende Abstände und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Für vertiefte Zugangstatsachen zu `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk` wechseln; die vollständige materielle Kündigungsprüfung übernimmt `ar-kuendigungspruefung-workflow`. Die hier gesicherten Fristen und Belege dabei mitgeben.

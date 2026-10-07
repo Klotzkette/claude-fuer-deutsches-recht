@@ -52,9 +52,10 @@
       "BVerfG-Kontextmaßstab in beiden Prompts mit ausdrücklicher Grenze zur Kammer­rüge.",
       "Akteneinsicht, Monatsfristen und Fortsetzung zum vollständigen Schriftsatz erhalten.",
       "Leer: Kammeranhörung, Rügeüberprüfung oder Terminverteidigung. Dateien: still lesen und stufengerechtes Verteidigungsdokument wählen lassen. Klar: unmittelbar Stellungnahme oder richtigen Rechtsbehelf entwerfen.",
-      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf."
+      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "19eb810c9397d2e276d7502085fe711cf8c5e2f411f83794252fb233aa5e8d6a"
+    "sha256": "944c5dad4cb5c393d2fec3fcc206957eb5d542067acbaad027d9abe7b5b563df"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -64,9 +65,10 @@
       "BVerfG-Kontextmaßstab in beiden Prompts mit ausdrücklicher Grenze zur Kammer­rüge.",
       "Akteneinsicht, Monatsfristen und Fortsetzung zum vollständigen Schriftsatz erhalten.",
       "Verfahrenswechsel, belastender Äußerungskontext, Zahlungsevidenz, Aussageumfang und Verhandlungsantrag ausgearbeitet.",
-      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf."
+      "Zurückgewiesener Einspruch ändert Empfänger, Antrag und Fristauslöser; nachgewiesene Auszahlung ändert Zahlungsstand, nicht automatisch Verzögerungsvorwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "96765014e07fb3d93b1088d2bf00cd4f9edc446b5e6d7ca33ad59414567115b9"
+    "sha256": "0e157a9f4c5856744fa6468a43547a4b1b5205948772b6cfe683376b5d6cb63c"
   },
   "selection": {
     "positive": [

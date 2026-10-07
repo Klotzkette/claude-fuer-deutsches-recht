@@ -39,6 +39,6 @@ Bei Vergleichsauftrag wirtschaftliches Ziel, realistische Alternative, Kosten, Z
 
 Liefere vollständige Begründungen und Formulierungen. Übersichten nur, soweit sie Fristen, Länderbezug oder Rechnungen verständlich machen. Weitere Fachskills sind optional. Tragende Normen und Entscheidungen amtlich prüfen; nicht eingesehene Literatur, auch benannte Standardwerke, nicht zitieren. Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Mandantenbrief.
 
-Keine Erklärung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Keine Erklärung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Technische Hindernisse lassen nur den abhängigen Schluss offen. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

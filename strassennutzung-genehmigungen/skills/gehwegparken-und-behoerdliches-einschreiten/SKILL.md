@@ -33,7 +33,7 @@ Verwende [Zitierweise](../../references/zitierweise.md) und [Quellenregister](..
 
 ## 5. Ausgabeformat
 
-Liefere einen vollständig ausformulierten Einschreitensantrag oder eine begründete Bewertung der Ablehnung. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Mess- oder Beobachtungsverzeichnis kann Anlage sein. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Technischen Exporthinweis und interne Datenschutznotizen vom Empfängertext trennen.
+Liefere einen vollständig ausformulierten Einschreitensantrag oder eine begründete Bewertung der Ablehnung. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Ein knappes Mess- oder Beobachtungsverzeichnis kann Anlage sein. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden. Technischen Exporthinweis und interne Datenschutznotizen vom Empfängertext trennen.
 
 ## 6. Beispiele
 

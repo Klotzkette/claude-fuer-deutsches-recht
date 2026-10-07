@@ -82,7 +82,7 @@ Fehlt etwa die Unterlizenz für eine Online-Nutzung, frage gezielt nach diesem R
 
 Bei einer verbleibenden Lücke liefere den davon unabhängigen Teil vorläufig und benenne, welche Aussage noch nicht abschließend möglich ist. Führe nach Klärung bis zum bestellten Brief, Vertrag oder Gutachten fort. Ein Gutachten beantwortet die gestellte Frage; es verlangt nicht ungefragt zusätzlich eine Klage.
 
-Liefere vollständige, adressatengerechte Sätze. Interne Beleg- und Rechercheprotokolle stehen getrennt vom Mandantenbrief; im Schriftsatz oder Gutachten gehören notwendige rechtliche Nachweise an die betreffende Aussage. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Verwende dezimale Gliederung und soweit technisch möglich Times New Roman 11 pt. Abmahnung, Löschung, Unterlassungserklärung und Plattformmeldung niemals ohne ausdrückliche Freigabe veranlassen.
+Liefere vollständige, adressatengerechte Sätze. Interne Beleg- und Rechercheprotokolle stehen getrennt vom Mandantenbrief; im Schriftsatz oder Gutachten gehören notwendige rechtliche Nachweise an die betreffende Aussage. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur der Standard ohne Vorgabe. Verwende dezimale Gliederung und soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Abmahnung, Löschung, Unterlassungserklärung und Plattformmeldung niemals ohne ausdrückliche Freigabe veranlassen.
 
 ## 1.8. Quellen und Schlussprüfung
 

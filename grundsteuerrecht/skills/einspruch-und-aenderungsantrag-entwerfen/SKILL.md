@@ -37,7 +37,7 @@ Paragrafen 129, 172, 173, 173a, 175, 181, 182, 184, 351, 355 und 357 AO; Paragra
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Behördenbrief mit Anrede, identifizierten Bescheiden, bestimmtem Begehren, kurzer belegter Begründung, Anlagen und Schluss. Interne Zulässigkeitsrisiken stehen getrennt vom Versandtext. Keine Halbsätze oder Skelette. Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
+Vollständig ausformulierter Behördenbrief mit Anrede, identifizierten Bescheiden, bestimmtem Begehren, kurzer belegter Begründung, Anlagen und Schluss. Interne Zulässigkeitsrisiken stehen getrennt vom Versandtext. Keine Halbsätze oder Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
 
 ## 6. Beispiele
 

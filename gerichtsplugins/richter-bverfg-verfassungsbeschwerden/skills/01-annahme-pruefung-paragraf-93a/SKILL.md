@@ -43,7 +43,7 @@ Tragende Normen und Entscheidungen amtlich verifizieren; optional ergänzt `refe
 
 Liefere ein vollständig ausformuliertes Votum mit Annahmebegründung, zuständigem Entscheidungsgremium und Vorschlag. Ein äußerer Nichtannahmebeschluss muss nicht die gesamte interne Prüfung wiedergeben; Paragraf 93d Absatz 1 BVerfGG beachten. Keine automatische Anschlussverfügung bei jedem Vermerk verlangen.
 
-Nutzerdateinamen gehen vor; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatushinweise vom gerichtlichen Text trennen.
+Nutzerdateinamen gehen vor; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Zusätzliche Quellenstatushinweise vom gerichtlichen Text trennen.
 
 ## 1.6 Beispiel und Grenzen
 

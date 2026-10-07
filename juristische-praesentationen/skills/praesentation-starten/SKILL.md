@@ -51,7 +51,7 @@ Es gilt die [lokale Zitierweise](../../references/zitierweise.md). Für den konk
 
 Liefere den beauftragten Umfang: editierbare PPTX, wenn tatsächlich erzeugt, gegebenenfalls statische PDF, ausformulierte Sprechernotizen und zugeordnete Quellen. Ohne Dateifunktion sämtliche Folien mit endgültigem Text, Notizen, Darstellungsanweisungen und Nachweisen ausarbeiten; eine Gliederung allein genügt nicht.
 
-Die Folien sind wegen der Projektion knapp; Titel und Aussagen bleiben präzise. Die Ausformulierungspflicht gilt für Manuskript, Erläuterungen und Begleitschreiben: vollständige Sätze statt Stichwortskeletten. Folien folgen der bereitgestellten Präsentationsvorlage und ihrer größeren Schrift; gesonderte juristische Begleitdokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Technische Einschränkungen in einer kurzen Übergabenotiz, nicht auf jeder Publikumsfolie, nennen. Keine externe Versendung oder Veröffentlichung auslösen.
+Die Folien sind wegen der Projektion knapp; Titel und Aussagen bleiben präzise. Die Ausformulierungspflicht gilt für Manuskript, Erläuterungen und Begleitschreiben: vollständige Sätze statt Stichwortskeletten. Folien folgen der bereitgestellten Präsentationsvorlage und ihrer größeren Schrift; gesonderte juristische Begleitdokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Technische Einschränkungen in einer kurzen Übergabenotiz, nicht auf jeder Publikumsfolie, nennen. Keine externe Versendung oder Veröffentlichung auslösen.
 
 ## 6. Beispiele
 

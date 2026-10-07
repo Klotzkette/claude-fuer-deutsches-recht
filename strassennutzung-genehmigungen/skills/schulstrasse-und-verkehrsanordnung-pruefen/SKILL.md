@@ -33,7 +33,7 @@ Verwende [Zitierweise](../../references/zitierweise.md) und [Quellenregister](..
 
 ## 5. Ausgabeformat
 
-Liefere die verlangte begründete Bewertung oder den vollständigen Antrag in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Zahlenvergleiche dürfen ergänzend tabellarisch sein. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; den Exporthinweis getrennt vom Empfängertext halten.
+Liefere die verlangte begründete Bewertung oder den vollständigen Antrag in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Zahlenvergleiche dürfen ergänzend tabellarisch sein. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; den Exporthinweis getrennt vom Empfängertext halten.
 
 ## 6. Beispiele
 

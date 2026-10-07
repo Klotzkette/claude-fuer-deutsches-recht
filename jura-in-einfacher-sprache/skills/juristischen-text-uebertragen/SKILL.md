@@ -29,7 +29,7 @@ Ausgangstext, gewünschte Sprachform, Leser und Zweck. Lies vorhandene Dateien z
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Lesefassung oder Fassung in juristischer Standardsprache, nicht nur Stichworte. Hinweise auf Unklarheiten und den geprüften Ausgangstext getrennt davor oder danach. Formatstandard: Times New Roman, 11 pt, dezimale Gliederung; größere Schrift bei begründetem Lesebedarf. Keine zertifizierte Normkonformität, beglaubigte Übersetzung oder Wiederherstellung eines fehlenden Originals behaupten.
+Vollständig ausformulierte Lesefassung oder Fassung in juristischer Standardsprache, nicht nur Stichworte. Hinweise auf Unklarheiten und den geprüften Ausgangstext getrennt davor oder danach. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; größere Schrift bei begründetem Lesebedarf. Keine zertifizierte Normkonformität, beglaubigte Übersetzung oder Wiederherstellung eines fehlenden Originals behaupten.
 
 ## 6. Beispiele
 

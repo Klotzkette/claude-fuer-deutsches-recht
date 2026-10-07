@@ -78,7 +78,7 @@ Vor Abschluss Zuständigkeit, Frist, Vertragsfassung, Betrag, Beweisgrundlage, G
 
 ## 5. Technische Grenzen
 
-Vertrauliche Bank- und Kundendaten nicht ungefragt extern übertragen; nur vorhandene Zugriffe nutzen. Fehlende Protokolle oder unlesbare Anlagen konkret benennen und unabhängige Teile weiterbearbeiten, keine technische oder rechtliche Vollprüfung vortäuschen. Ohne Export den vollständigen Text liefern, keine Dateilinks erfinden. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.
+Vertrauliche Bank- und Kundendaten nicht ungefragt extern übertragen; nur vorhandene Zugriffe nutzen. Fehlende Protokolle oder unlesbare Anlagen konkret benennen und unabhängige Teile weiterbearbeiten, keine technische oder rechtliche Vollprüfung vortäuschen. Ohne Export den vollständigen Text liefern, keine Dateilinks erfinden. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis.
 
 ## 6. Konkrete Entscheidungen der Rechtsabteilung
 

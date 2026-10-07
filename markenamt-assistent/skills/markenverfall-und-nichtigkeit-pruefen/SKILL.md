@@ -43,7 +43,7 @@ Rechtsstand der geprüften Ausgangsquellen: 01.10.2026. §§ 26, 49–55 MarkenG
 
 Die Ausformulierungspflicht ist verbindlich: vollständige grammatikalisch saubere Sätze, keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Prüfe vor Ausgabe den Formatstandard und arbeite unvollständige Fassungen aus.
 
-Antrags- oder Verteidigungsschrift, zeitbezogene Benutzungsmatrix und präzise formuliertes Beweisangebot. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
+Antrags- oder Verteidigungsschrift, zeitbezogene Benutzungsmatrix und präzise formuliertes Beweisangebot. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
 
 ## 6. Anwendung und Abgrenzung
 

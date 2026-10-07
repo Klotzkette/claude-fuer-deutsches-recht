@@ -29,7 +29,7 @@ Vertrag und Nachträge, Leistungszusagen, Datenkategorien, eingesetzte Modelle, 
 
 ## 5. Ausgabeformat
 
-Einseitige Entscheidungsvorlage mit Empfehlung, Belegmatrix, Risiken, Optionen, zuständiger Person und Entscheidungsdatum sowie ausformuliertem Änderungsvorschlag. Nur falls beauftragt eine interne Weisung oder ein adressatengerechtes Schreiben daraus ableiten. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
+Einseitige Entscheidungsvorlage mit Empfehlung, Belegmatrix, Risiken, Optionen, zuständiger Person und Entscheidungsdatum sowie ausformuliertem Änderungsvorschlag. Nur falls beauftragt eine interne Weisung oder ein adressatengerechtes Schreiben daraus ableiten. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 

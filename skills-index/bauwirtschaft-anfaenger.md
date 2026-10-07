@@ -1,6 +1,6 @@
 # bauwirtschaft-anfaenger
 
-**8 Skills** · Stand `v445.33.1`
+**8 Skills** · Stand `v445.34.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../bauwirtschaft-rundum/bauwirtschaft-anfaenger/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bauwirtschaft-anfaenger-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauwirtschaft-anfaenger-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-anfaenger/bauwirtschaft-anfaenger-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauwirtschaft-anfaenger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/bauwirtschaft-anfaenger.zip) |
+| **Plugin (installierbar)** | ZIP | [bauwirtschaft-anfaenger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/bauwirtschaft-anfaenger.zip) |
 
 ## So benutzt man einen Skill
 

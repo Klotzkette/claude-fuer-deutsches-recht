@@ -28,7 +28,7 @@ Prüfe die tragenden Normen in der einschlägigen Fassung amtlich. Rechtsprechun
 
 Liefere das beauftragte Dokument vollständig ausformuliert; eine Leistungsübersicht oder Rechnung begleitet es nur bei Bedarf. Kennzeichne bei einem Hindernis den vorläufigen Stand und die konkret benötigte Ergänzung und setze nach Antwort dort fort. Ein Nutzerdateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden.
 
-Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung. Quellenstatus und technische Prüfgrenzen gehören in eine separate Arbeitsnotiz, nicht in den Mandantenbrief. Keine eigenständige Abnahme, Zahlung, Nachtragsbeauftragung oder Einreichung.
+Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Quellenstatus und technische Prüfgrenzen gehören in eine separate Arbeitsnotiz, nicht in den Mandantenbrief. Keine eigenständige Abnahme, Zahlung, Nachtragsbeauftragung oder Einreichung.
 
 ## 1.6 Beispiel
 

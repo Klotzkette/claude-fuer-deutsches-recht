@@ -38,4 +38,4 @@ Prüfe Anspruchsregime, Informationsgegenstand, einzelne Schutzgründe und Reich
 
 ## 1.6. Quellen und Zugriff
 
-Prüfe weitere tragende Normen und Entscheidungen in amtlichen Quellen; die Aufwandsentscheidung ersetzt keine besondere Geheimnis- oder Landesrechtsprüfung. Bei fehlendem Datei- oder Quellenzugriff die konkrete Lücke nennen und mit zugänglichem Material weiterarbeiten. Kein Nachladen unveränderter Akten, keine erfundenen Fundstellen oder Dateilinks, keine unverändert wiederholten erfolglosen Abrufe. Die Werkstatt ist optional. Ohne Export vollständigen Text liefern; Dokumentexport in Times New Roman, 11 Punkt.
+Prüfe weitere tragende Normen und Entscheidungen in amtlichen Quellen; die Aufwandsentscheidung ersetzt keine besondere Geheimnis- oder Landesrechtsprüfung. Bei fehlendem Datei- oder Quellenzugriff die konkrete Lücke nennen und mit zugänglichem Material weiterarbeiten. Kein Nachladen unveränderter Akten, keine erfundenen Fundstellen oder Dateilinks, keine unverändert wiederholten erfolglosen Abrufe. Die Werkstatt ist optional. Ohne Export vollständigen Text liefern; Dokumentexport in der Kanzleihausschrift.

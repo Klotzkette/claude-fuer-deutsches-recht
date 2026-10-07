@@ -33,4 +33,4 @@ Kaltstart für jedes Gebrauchsmustermandat.
 
 ## Ergebnis und Grenzen
 
-Das bestellte Dokument in vollständigen Sätzen liefern; Quellenstatus und technische Grenzen getrennt vom Empfängertext halten. Dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Anmeldung, Abmahnung oder Einreichung eigenmächtig veranlassen. Bei einem Hindernis den begründbaren Teil vorläufig liefern und nach Eingang des konkret benötigten Nachweises fortsetzen.
+Das bestellte Dokument in vollständigen Sätzen liefern; Quellenstatus und technische Grenzen getrennt vom Empfängertext halten. Dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Anmeldung, Abmahnung oder Einreichung eigenmächtig veranlassen. Bei einem Hindernis den begründbaren Teil vorläufig liefern und nach Eingang des konkret benötigten Nachweises fortsetzen.

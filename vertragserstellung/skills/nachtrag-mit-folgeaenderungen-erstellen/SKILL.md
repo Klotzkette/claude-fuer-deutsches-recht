@@ -49,7 +49,7 @@ Nach bestätigter Zusatzvergütung Betrag, Raten und Referenzen gemeinsam aktual
 
 ## 5. Ausgabeformat
 
-Ein vollständiger Nachtrag enthält Parteien, präzisen Ausgangsbezug, operative Änderung, Beginn, Fortgeltung und passende Unterzeichnungsfelder. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fehlende Angaben als lesbare Platzhalter, nicht als ausgelassene Rechtsfolgen. Quellen, Änderungsbegründung und Exporthinweis getrennt.
+Ein vollständiger Nachtrag enthält Parteien, präzisen Ausgangsbezug, operative Änderung, Beginn, Fortgeltung und passende Unterzeichnungsfelder. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fehlende Angaben als lesbare Platzhalter, nicht als ausgelassene Rechtsfolgen. Quellen, Änderungsbegründung und Exporthinweis getrennt.
 
 ## 6. Beispiele
 

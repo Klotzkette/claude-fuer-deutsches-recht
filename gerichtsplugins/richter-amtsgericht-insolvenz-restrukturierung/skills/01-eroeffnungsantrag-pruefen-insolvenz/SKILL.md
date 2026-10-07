@@ -43,7 +43,7 @@ Liefere das bestellte Dokument in vollständigen Sätzen mit dem konkret begrün
 
 Eine Sicherungsanordnung benennt tatsächliches Risiko und Befugnisumfang; ein Eröffnungsentwurf setzt geprüfte Voraussetzungen voraus. Namen, Termine, Anhörung oder Bestellung nicht erfinden. Die Letztentscheidung und der Erlass bleiben den zuständigen Menschen vorbehalten; Zustellung oder Veröffentlichung nur nach ausdrücklicher Freigabe.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis; keine Stichwortskelette als Endprodukt.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis; keine Stichwortskelette als Endprodukt.
 
 ## 1.6. Beispiel und optionale Vertiefung
 

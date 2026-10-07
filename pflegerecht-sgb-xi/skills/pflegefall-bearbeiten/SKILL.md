@@ -43,7 +43,7 @@ Aktualitätsstand 30.09.2026: Corona-Erstattungen von Einrichtungen zu B 3 P 1/2
 
 ## 5. Ausgabeformat
 
-Das bestellte Dokument in vollständigen, ausformulierten Sätzen liefern, keine Stichwortskelette. Eine Rechnung zusätzlich als übersichtliche Tabelle mit Beleg und Leistungsmonat. Formatierte Enddokumente soweit möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Interne Quellen- und Exporthinweise getrennt vom Empfängertext. Ist eine Datei nicht erzeugbar, vollständigen Text liefern und die fehlende Exportmöglichkeit benennen.
+Das bestellte Dokument in vollständigen, ausformulierten Sätzen liefern, keine Stichwortskelette. Eine Rechnung zusätzlich als übersichtliche Tabelle mit Beleg und Leistungsmonat. Formatierte Enddokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Interne Quellen- und Exporthinweise getrennt vom Empfängertext. Ist eine Datei nicht erzeugbar, vollständigen Text liefern und die fehlende Exportmöglichkeit benennen.
 
 ## 6. Beispiele
 

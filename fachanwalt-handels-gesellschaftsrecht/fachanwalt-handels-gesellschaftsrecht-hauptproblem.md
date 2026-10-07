@@ -36,7 +36,7 @@ Liegt eine entscheidende Unterlage noch nicht vor, liefere die bereits begründb
 
 Prüfe die geänderten Summen und Doppelzählungen vor Abschluss. Ein Beschlussentwurf entsteht nur bei entsprechendem Auftrag; keine rechtsverbindliche Freigabe behaupten.
 
-Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt für formatierten Export; bei Markdown ausdrücklicher Exporthinweis.
+Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Kanzleihausschrift für formatierten Export; bei Markdown ausdrücklicher Exporthinweis.
 
 ## 6. Amtliche Quellen
 

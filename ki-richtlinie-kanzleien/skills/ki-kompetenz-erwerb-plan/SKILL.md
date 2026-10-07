@@ -29,7 +29,7 @@ Nutze Toolfreigaben, Mandatsabläufe, vorhandene Schulungen, Befugnisse und beob
 
 ## 5. Ausgabeformat
 
-Ausformulierter Kanzleiplan mit konkreten Übungsaufgaben, Freigaberegel und Termin nur für erforderliche Nacharbeit. Beispielklausel: „Die Kanzlei stellt den betroffenen Mitarbeitern eine auf das freigegebene Werkzeug und ihren Aufgabenbereich bezogene Einweisung sowie einen erreichbaren Ansprechpartner bereit. Bei erkennbaren Unsicherheiten oder wesentlichen Einsatzänderungen wird die Einweisung gezielt ergänzt.“ Nicht als Garantie eines bestimmten Lernerfolgs formulieren. Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe Exporthinweis.
+Ausformulierter Kanzleiplan mit konkreten Übungsaufgaben, Freigaberegel und Termin nur für erforderliche Nacharbeit. Beispielklausel: „Die Kanzlei stellt den betroffenen Mitarbeitern eine auf das freigegebene Werkzeug und ihren Aufgabenbereich bezogene Einweisung sowie einen erreichbaren Ansprechpartner bereit. Bei erkennbaren Unsicherheiten oder wesentlichen Einsatzänderungen wird die Einweisung gezielt ergänzt.“ Nicht als Garantie eines bestimmten Lernerfolgs formulieren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe Exporthinweis.
 
 ## 6. Beispiele
 

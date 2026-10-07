@@ -32,7 +32,7 @@ Erstelle das beauftragte Beschluss-, Vertrags-, Anspruchs- oder Erwiderungsdokum
 
 Bei erst späterer Zahlungssperre verlangt [BGH, Urteil vom 10.05.2016 - Az. II ZR 342/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_342-14.pdf?__blob=publicationFile&v=1), Rn. 21 bis 33, für persönliche Haftung treuwidrige Fortsetzung ohne Abfindungsmaßnahmen. Prüfe Insolvenzlage und Sicherungsabreden; bloße Nichtzahlung reicht nicht. Beide Volltexte sind geprüft, andere Mandatsfragen gesondert recherchieren.
 
-Keine Beschlüsse fassen, Registeranmeldungen absenden oder Zahlungen vornehmen. Keine ungeprüften Fundstellen. Echte Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; Times New Roman 11 pt beim Export, sonst als Exporthinweis. Keine Skelette als Endprodukt.
+Keine Beschlüsse fassen, Registeranmeldungen absenden oder Zahlungen vornehmen. Keine ungeprüften Fundstellen. Echte Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; Kanzleihausschrift beim Export, sonst als Exporthinweis. Keine Skelette als Endprodukt.
 
 ## 6. Technische Grenzen
 

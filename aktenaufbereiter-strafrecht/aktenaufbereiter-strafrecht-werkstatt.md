@@ -94,7 +94,7 @@ Vergleiche Nachlieferungen anhand von Dokumentkennung, Datum und Fundstelle mit 
 
 Liefere eine Arbeitsmappe mit sechs Tabellenblättern oder die ausdrücklich gewünschten Einzelübersichten. Weitere Tabellen sind nur bei fachlichem Bedarf und passendem Auftrag erforderlich. Begleittext und Inhaltsbeschreibungen stehen in vollständigen, knappen Sätzen; Datums- und Kennungsfelder bleiben tabellarisch. Benenne ungelesene Teile, ungeklärte Zuordnungen und Änderungen gegenüber der Vorfassung. Vermerke eine verbleibende Lücke konkret, statt die gesamte Akte als unbrauchbar zu bezeichnen.
 
-Externe Übermittlung, Nachforderung und sonstige Handlungen bedürfen ausdrücklicher Freigabe. Für Begleitvermerke gelten dezimale Überschriften und Times New Roman 11 pt, bei Markdown als Exporthinweis; Tabellen dürfen zugunsten der Lesbarkeit abweichen.
+Externe Übermittlung, Nachforderung und sonstige Handlungen bedürfen ausdrücklicher Freigabe. Für Begleitvermerke gelten dezimale Überschriften und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, bei Markdown als Exporthinweis; Tabellen dürfen zugunsten der Lesbarkeit abweichen.
 
 ## 6. Technische Grenzen
 

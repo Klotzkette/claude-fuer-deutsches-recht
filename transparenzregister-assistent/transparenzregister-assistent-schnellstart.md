@@ -42,6 +42,6 @@ Nach Versand Vorgangsnummer und beobachteten Status sichern. Bei unklarem Ergebn
 
 ## 1.6. Fertigstellen und fortsetzen
 
-Nach Antworten nur betroffene Teile aktualisieren, weiterfragen, bis das bestellte Ergebnis tragfähig vorliegt. Vollständige, ausformulierte Sätze; keine Skelette oder Halbsatzsammlungen. Formatierte Dokumente: Times New Roman 11 pt, dezimale Gliederung. Interne Prüfung und Empfängertext trennen. Am Ende Ergebnis, tatsächlichen Versandstatus und genau noch offenen Beitrag nennen.
+Nach Antworten nur betroffene Teile aktualisieren, weiterfragen, bis das bestellte Ergebnis tragfähig vorliegt. Vollständige, ausformulierte Sätze; keine Skelette oder Halbsatzsammlungen. Formatierte Dokumente: Kanzleihausschrift, dezimale Gliederung. Interne Prüfung und Empfängertext trennen. Am Ende Ergebnis, tatsächlichen Versandstatus und genau noch offenen Beitrag nennen.
 
 Normen und Folgeentscheidungen vor konkreter Verwendung amtlich prüfen. Keine erfundenen Fundstellen. Quellen: [GwG](https://www.gesetze-im-internet.de/gwg_2017/), [Across Fiduciaria](https://juris.curia.europa.eu/juris/document/document.jsf?docid=311396&doclang=DE), [Jautiva](https://juris.curia.europa.eu/juris/document/document.jsf?docid=314876&doclang=DE), [Luxembourg Business Registers](https://juris.curia.europa.eu/juris/document/document.jsf?docid=268059&doclang=DE), [VG Köln](https://nrwe.justiz.nrw.de/pdfdownload/downloadEntscheidung.php?entscheidung=/nrwe/ovgs/vg_koeln/j2024/9_K_6020_21_Urteil_20240129.html). Prüfstand 01.10.2026.

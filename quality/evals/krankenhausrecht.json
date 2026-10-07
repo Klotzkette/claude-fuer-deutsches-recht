@@ -30,9 +30,10 @@
     "changes": [
       "Versorgungsvertrag von Planaufnahme und Investitionsbewilligung getrennt; Neubau-Finanzierung bleibt mit belegter Lücke statt erwarteter Förderquote.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
-      "Leerer Eingang, stille Dateisichtung und direkte Auftragsbearbeitung ausdrücklich getrennt; generische Fortsetzungsprosa durch Förderbescheid -> finanzierung.md ersetzt."
+      "Leerer Eingang, stille Dateisichtung und direkte Auftragsbearbeitung ausdrücklich getrennt; generische Fortsetzungsprosa durch Förderbescheid -> finanzierung.md ersetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d3526044645ac74d7ed7320e9d7df1fdd3569bd8430c3a094ffd764b0a6f829b",
+    "sha256": "47426e1fc6447608d5bf16cfa50fbba91c8ea2487f32f763a476b697f64fa201",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -86,9 +87,10 @@
     "changes": [
       "Versorgungsvertrag von Planaufnahme und Investitionsbewilligung getrennt; Neubau-Finanzierung bleibt mit belegter Lücke statt erwarteter Förderquote.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
-      "Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft."
+      "Planungsnachweise nach Standort und Zeitpunkt, Bewilligung gegenüber Bauzahlungsplan, Kostenüberleitung und konkrete MD-Kürzungsgründe vertieft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2d03c4903be849b1c8b03692e2e0f18051ffbb2191278929ddec2226b3f773c2",
+    "sha256": "e43ca1cc7c5d5c32a0e2e8d6572d5231085a86143fb738b01de9ac834c492871",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

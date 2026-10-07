@@ -49,4 +49,4 @@ Quellenstatus, technische Hinweise und vertrauliche Verhandlungspositionen gehö
 
 ## 1.5. Arbeitsmittel
 
-Fehlenden Zugriff konkret benennen, bearbeitbare Teile fortführen. Ohne Export vollständigen Text liefern; keine Datei oder Prüfung erfinden. Enddokumente soweit möglich in Times New Roman 11 pt, ausschließlich dezimal gliedern; Exporthinweise getrennt halten. Der Prompt funktioniert eigenständig.
+Fehlenden Zugriff konkret benennen, bearbeitbare Teile fortführen. Ohne Export vollständigen Text liefern; keine Datei oder Prüfung erfinden. Enddokumente soweit möglich in der Kanzleihausschrift, ausschließlich dezimal gliedern; Exporthinweise getrennt halten. Der Prompt funktioniert eigenständig.

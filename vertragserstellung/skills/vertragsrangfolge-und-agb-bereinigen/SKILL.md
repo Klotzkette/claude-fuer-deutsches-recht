@@ -47,7 +47,7 @@ Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Bereinigungstext oder die konsistente Vollfassung; eine Synopse dient nur als Zusatz. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Nummeriere dezimal mit Leerzeilen, verwende soweit technisch möglich Times New Roman 11 pt. Quellen und Auslegungsunsicherheit außerhalb der operativen Klauseln erklären. Exporthinweis bei Markdown getrennt halten.
+Liefere einen ausformulierten Bereinigungstext oder die konsistente Vollfassung; eine Synopse dient nur als Zusatz. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Nummeriere dezimal mit Leerzeilen, verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Quellen und Auslegungsunsicherheit außerhalb der operativen Klauseln erklären. Exporthinweis bei Markdown getrennt halten.
 
 ## 6. Beispiele
 

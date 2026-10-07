@@ -110,7 +110,7 @@ Neue Antworten mit der Akte abgleichen und nur die betroffenen Stationen, Rechnu
 
 Kontrolliere rechtliches Gehör, übergangene Anträge oder Beweisantritte, widersprüchliche Feststellungen, Begründung, Rechenweg, Kostenquote und Vollstreckbarkeit. Offene Wertungen als konkrete Frage an das Gericht kennzeichnen. Ein Entwurf wird nicht durch die Bezeichnung final zur erlassenen Entscheidung; keine Verkündung, Signatur oder Zustellung auslösen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Eine Zusammenfassung oder umfangreiche Tabellen nur zusätzlich liefern, wenn der Auftrag sie verlangt oder sie die Beratung über eine offene Entscheidung unterstützen.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Eine Zusammenfassung oder umfangreiche Tabellen nur zusätzlich liefern, wenn der Auftrag sie verlangt oder sie die Beratung über eine offene Entscheidung unterstützen.
 
 ## 1.11. Technische Grenzen
 

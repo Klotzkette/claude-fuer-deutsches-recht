@@ -47,9 +47,10 @@
       "Aktuelle Zuständigkeitsnorm Artikel 94 GG und fallbezogene Willkürprüfung in beide Prompts aufgenommen.",
       "Unverifizierte Klassikerliste durch gezielte materielle Recherche ersetzt; gerichtliche Neutralität, Annahme, Eilrechtsschutz und Entscheidungsbefugnisse bewahrt.",
       "Eingangsnachweis -> zeitgerechte Rügen und neue Ergänzungen trennen; Vollzugsverschiebung -> Eilfolgen ändern.",
-      "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor."
+      "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d90d8efb7f7a543759b6a5d9199688c4da9b043cac864f7444ac98c32a15acdc",
+    "sha256": "12b1153ec9b85d2f7be908dd223ced20769f92701233d7b23b05da1e4f823b1b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -104,9 +105,10 @@
       "Aktuelle Zuständigkeitsnorm Artikel 94 GG und fallbezogene Willkürprüfung in beide Prompts aufgenommen.",
       "Unverifizierte Klassikerliste durch gezielte materielle Recherche ersetzt; gerichtliche Neutralität, Annahme, Eilrechtsschutz und Entscheidungsbefugnisse bewahrt.",
       "Eingangsnachweis -> zeitgerechte Rügen und neue Ergänzungen trennen; Vollzugsverschiebung -> Eilfolgen ändern.",
-      "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor."
+      "Tragende Alternativgründe, Anlagen versus Substantiierung, interne Annahmeprüfung versus Beschlusstext und zeitgebundener Eiltenor.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d6159e51b2f548155867a23697906937b33cd254b5000098536a8c934d2ee293",
+    "sha256": "debbe4ccf235c66e5eaf43c2f86d6987493b8451f6f1630310b399b76c3decea",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

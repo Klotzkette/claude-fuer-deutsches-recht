@@ -12,4 +12,10 @@ __pycache__/
 .venv-*/
 venv/
 
+# Testlaeufe (pytest, hypothesis, mutmut)
+.pytest_cache/
+.hypothesis/
+mutants/
+.mutmut-cache
+
 testakten/**/*.zip

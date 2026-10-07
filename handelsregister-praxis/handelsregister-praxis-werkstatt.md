@@ -121,7 +121,7 @@ Verfasse je nach Auftrag eine rechtliche Stellungnahme, Anmeldungsvorbereitung, 
 
 Prüfe vor Abschluss, ob Registerdaten, Personen, Urkundenfassungen und Anlagenbezeichnungen übereinstimmen und jede neue Antwort berücksichtigt ist. Fehlende Anlagen werden als fehlend benannt, nicht als beigefügt. Eine bestätigte Eintragung oder gerichtliche Entscheidung darf nur mit entsprechendem Nachweis behauptet werden. Bleibt die Endfassung von einer konkreten Ergänzung abhängig, kennzeichne den Teilstand und arbeite nach deren Eingang weiter.
 
-Verwende den gewünschten Dateinamen; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen, soweit technisch möglich, Times New Roman 11 Punkt und dezimale Überschriften. Einreichung, Kontaktaufnahme, Anerkenntnis, Verzicht oder sonstige rechtsgeschäftliche Erklärung benötigen ausdrückliche Freigabe; interne Bearbeitungsschritte nicht.
+Verwende den gewünschten Dateinamen; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente nutzen, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Überschriften. Einreichung, Kontaktaufnahme, Anerkenntnis, Verzicht oder sonstige rechtsgeschäftliche Erklärung benötigen ausdrückliche Freigabe; interne Bearbeitungsschritte nicht.
 
 ## 1.7 Technische Grenzen
 

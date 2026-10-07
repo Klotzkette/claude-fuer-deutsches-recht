@@ -34,7 +34,7 @@ Für eine Freigabe technische Nachweise und konkrete Befugnisse abgleichen. Die 
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
+Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
 
 ## 6. Beispiele
 

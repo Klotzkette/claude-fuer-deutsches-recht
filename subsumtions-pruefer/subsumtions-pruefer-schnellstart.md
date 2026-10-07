@@ -40,4 +40,4 @@ Fehlt eine entscheidende Fallpassage oder Tatsache, gezielt nachfragen und die �
 
 Nutzerdateinamen gehen vor. Technische Quellenhinweise getrennt von der Lösung dokumentieren.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Keine Einreichung, Erklärung oder Rechtsentscheidung auslösen. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge an der bereits geprüften Norm- und Tatsachenbasis fortführen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Keine Einreichung, Erklärung oder Rechtsentscheidung auslösen. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge an der bereits geprüften Norm- und Tatsachenbasis fortführen.

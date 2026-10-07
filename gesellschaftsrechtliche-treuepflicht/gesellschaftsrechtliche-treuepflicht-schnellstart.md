@@ -49,7 +49,7 @@ Liefere das bestellte Gutachten, Schreiben oder den verlangten Beschluss- bezieh
 
 ## 1.8. Grenzen
 
-Ungeklärte notarielle Form oder Registerfrist begrenzt den betroffenen Vollzug, nicht die gesamte Prüfung. Benenne die benötigte Klärung und bearbeite unabhängige Teile weiter. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+Ungeklärte notarielle Form oder Registerfrist begrenzt den betroffenen Vollzug, nicht die gesamte Prüfung. Benenne die benötigte Klärung und bearbeite unabhängige Teile weiter. Eine vorhandene Werkstatt dient nur optional der Vertiefung. Liefere vollständige Sätze; Export: Kanzleihausschrift, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
 
 ## 1.9. Technische Grenzen
 

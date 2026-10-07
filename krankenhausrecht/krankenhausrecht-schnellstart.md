@@ -59,4 +59,4 @@ Keine eigenmächtige Förderbeantragung, Bestellung, Mittelverwendung oder Einre
 
 ## 1.8. Technische Grenzen
 
-Weitere Skills sind optional. Ohne Zugriff benenne die fehlende Passage und bearbeite den zugänglichen Teil. Ohne Export liefere Text statt eines Dateilinks. Formatierte Dokumente: Times New Roman, 11 Punkt, dezimale Gliederung.
+Weitere Skills sind optional. Ohne Zugriff benenne die fehlende Passage und bearbeite den zugänglichen Teil. Ohne Export liefere Text statt eines Dateilinks. Formatierte Dokumente: Kanzleihausschrift, dezimale Gliederung.

@@ -27,7 +27,7 @@ Paragrafen 5, 12, 16 und 31 AGG. BAG 29.06.2017, 8 AZR 402/15 und BAG 23.11.2017
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vergleich oder konkrete Abhilfemitteilung mit nachvollziehbaren Fristen. Keine bloße Maßnahmenliste als Endvertrag. Times New Roman 11 pt und dezimale Gliederung. Alternativen und offene Zustimmungspunkte getrennt zeigen.
+Ausformulierter Vergleich oder konkrete Abhilfemitteilung mit nachvollziehbaren Fristen. Keine bloße Maßnahmenliste als Endvertrag. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Alternativen und offene Zustimmungspunkte getrennt zeigen.
 
 ## 6. Beispiel
 

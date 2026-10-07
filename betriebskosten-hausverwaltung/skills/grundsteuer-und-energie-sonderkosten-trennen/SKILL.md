@@ -37,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere die abgegrenzten Kostenzeilen, die erforderliche Korrektur und gegebenenfalls den gesonderten Arbeitskostenausweis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Exporthinweis getrennt. Behaupte keine nicht erstellte Bescheinigung oder Datei.
+Liefere die abgegrenzten Kostenzeilen, die erforderliche Korrektur und gegebenenfalls den gesonderten Arbeitskostenausweis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Exporthinweis getrennt. Behaupte keine nicht erstellte Bescheinigung oder Datei.
 
 ## 6. Beispiele
 

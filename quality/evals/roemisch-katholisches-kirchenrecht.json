@@ -53,9 +53,10 @@
       "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
       "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
       "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
-      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c86d72a0a046253c92daae132dde37cd63bc4b3f4674c7d33df2e3c225a25731",
+    "sha256": "b77295582c483ed9481ded86bf4858b79f36affae912b679e51523b33803d7a7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -68,9 +69,10 @@
       "Einstellung und Kündigung nach der Rechtsprechung von 2026 getrennt; ältere kirchliche Loyalitätsmaßstäbe nicht isoliert anwenden.",
       "Leerstart: Dekret/Rekurs, Ehe- oder Registeranliegen oder kirchliche Beschäftigung wählen.",
       "Ein nachgereichtes Dekret oder Empfangsdatum verändert Rekursgegenstand, Fristweg und Antrag; Registerbelege verändern nur den belegten Statusbefund.",
-      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen."
+      "Abänderungsbitte, neues Dekret und bloße Eingangsbestätigung unterscheiden; Aussetzung gesondert begründen; Ehewillen im Eheschließungszeitpunkt, Registerberichtigung und kirchliche Beschäftigung in eigene Dokumentwege überführen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8373b8681edb0f2ddb969a6b39ed476f90edb8b126ba0b3ae2f5cd4630f97b51",
+    "sha256": "72e17a790e48434e764144916760e2880ca6102498c57eb8301d5bfb4684217c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

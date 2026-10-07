@@ -37,9 +37,10 @@
       "Bytedance T-1077/23 für die begrenzte Widerlegung nach Artikel 3 Absatz 5 DMA.",
       "Beschwerde, Streitbeilegung, DSC und gerichtlicher Rechtsschutz ohne Pflichtkaskade.",
       "Abwägung gewöhnlicher Sperren und zivilrechtlichen Eilweg ausdrücklich wiederhergestellt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7588c333966e5c6defac29562e7b4d85e1ff8bf899655ad9b8db81a639b2392d"
+    "sha256": "41f75605a2964e45bad6936465d537681b1a4051d47f445b8e01166c3571fb4c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -49,9 +50,10 @@
       "Bytedance T-1077/23 für die begrenzte Widerlegung nach Artikel 3 Absatz 5 DMA.",
       "Beschwerde, Streitbeilegung, DSC und gerichtlicher Rechtsschutz ohne Pflichtkaskade.",
       "Kenntniswirkung und Anbieterbearbeitung von Meldungen, Interessenabwägung, Transparenzdatenbank und zivilrechtlichen Eilrechtsschutz nach Gegenprüfung wiederhergestellt.",
-      "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge."
+      "Reichweitenbeschränkung gegenüber Gesamtsperre, URL- und Berechtigungsnachweise, Eigenhandel und Vermittlung, Warnungs- und Kenntnisablauf sowie getrennte DSA-Forschungs- und DMA-Geschäftsdatenzugänge.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4ed9353d0cd92f21d9dd8dbe2e3d64d21c7cda3ebc8632692f787b404689c14d"
+    "sha256": "28bf8d7b07bf7c93825e0b7c6f850642833fbb30965228bbbaaf3489196920ea"
   },
   "selection": {
     "positive": [

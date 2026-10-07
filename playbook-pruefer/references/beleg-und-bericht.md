@@ -37,7 +37,7 @@ Der Bericht endet mit ausformulierten Änderungen und einer kurzen, priorisierte
 
 ## 1.5. Word, Markdown und maschinenlesbare Daten
 
-Wenn Dateierzeugung verfügbar ist, liefere einen tatsächlich erzeugten DOCX-Prüfbericht. Verwende Times New Roman 11 pt, dezimale Überschriften, lesbare Tabellen mit wiederholten Kopfzeilen und kurze ausgeschriebene Statusangaben zusätzlich zu Farben. Prüfe alle Seiten der gerenderten Fassung auf abgeschnittene Zitate, unlesbare Spalten und verschobene Zuordnungen. Eine breite Regeltabelle darf in eine Folge kompakter Regelkarten aufgelöst werden.
+Wenn Dateierzeugung verfügbar ist, liefere einen tatsächlich erzeugten DOCX-Prüfbericht. Verwende Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften, lesbare Tabellen mit wiederholten Kopfzeilen und kurze ausgeschriebene Statusangaben zusätzlich zu Farben. Prüfe alle Seiten der gerenderten Fassung auf abgeschnittene Zitate, unlesbare Spalten und verschobene Zuordnungen. Eine breite Regeltabelle darf in eine Folge kompakter Regelkarten aufgelöst werden.
 
 Wenn nur Chat oder Markdown möglich ist, liefere den vollständigen Berichtstext und einen getrennten Exporthinweis. Behaupte keinen Wordexport oder gespeicherten Projekteintrag. Falls ein maschinenlesbarer Lauf angefordert ist, verwende das tatsächlich mitgelieferte Schema und den lokalen Prüfer; ein formal valides JSON bestätigt lediglich Struktur und Rechenlogik. Es beweist weder korrektes Vertragsverständnis noch Rechtswirksamkeit. Die Begründungen und Quellen bleiben notwendig.
 

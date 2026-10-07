@@ -68,9 +68,10 @@
       "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU- und BGH-Maßstab zur Produktgestaltung vor Lizenzgestaltung aufgenommen; Schutzgegenstand von Nutzungsumfang und Preis getrennt."
+      "EU- und BGH-Maßstab zur Produktgestaltung vor Lizenzgestaltung aufgenommen; Schutzgegenstand von Nutzungsumfang und Preis getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3d33cfe4aecdba03a7204b6d369ed8689524fa839febba36ba7598c7829935d1",
+    "sha256": "edb80b6be4c31dfb6dd46111b42a5276648b5556ec0ea87e22b1fc3698d778b7",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -82,9 +83,10 @@
       "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
       "Bild-ID und tatsächlicher Nutzungszeitraum, Paketvergleich und zweckbestimmte Zahlung, vollständiger Äußerungskontext, Gegendarstellung gegenüber Unterlassung sowie Agenturnutzung und eigene Kampagne weiterer Unternehmen.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU- und BGH-Maßstab zur Produktgestaltung vor Lizenzgestaltung aufgenommen; Schutzgegenstand von Nutzungsumfang und Preis getrennt."
+      "EU- und BGH-Maßstab zur Produktgestaltung vor Lizenzgestaltung aufgenommen; Schutzgegenstand von Nutzungsumfang und Preis getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "560d9512e3401ebf63f3f7b6d457f8a4e105133aa7810609ff3784447cb7af24",
+    "sha256": "f077d992985ec7d098c7cfad682f0946c0cb62fc36183472cd4edacee7eedd5c",
     "reviewed_on": "2026-10-01"
   },
   "focus_review": {
@@ -96,12 +98,13 @@
       "Nachlizenzierung in Werkstatt, Mini und Hauptproblem mit Reichweitengrenze eingebunden",
       "Vergleichssumme, Tabellenwert und marktübliche freie Lizenz getrennt",
       "Datenbankwerk von Herstellerrecht unterschieden; ungesicherte Fallliste entfernt",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-urheber-medienrecht/fachanwalt-urheber-medienrecht-hauptproblem.md",
-    "prompt_sha256": "a0440f968aeeeff0771ff7f4484f9b6c32b8901311c68e3d4c779f774068b01a",
+    "prompt_sha256": "5927a0acbed38e49393bd20222d9c615ce3c8e98f61b2073f0220c20cef552ec",
     "skill_path": "fachanwalt-urheber-medienrecht/skills/fotolizenzen-nutzungsmatrix-schadensberechnung/SKILL.md",
-    "skill_sha256": "bd4c94bf5c7c1768abaa58e5d150ab1332a8d7f3516dfa408e7609cff382c8d9"
+    "skill_sha256": "98be683b6d5192fe4ec68929775bb8014fbc2281bab25b69f7c239efa3a256e1"
   },
   "selection": {
     "positive": [

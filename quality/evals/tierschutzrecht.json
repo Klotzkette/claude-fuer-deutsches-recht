@@ -47,9 +47,10 @@
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
       "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
       "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
-      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
+      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "63a16a2acb71c8431da88ca3d061ba153f6e0846c14ce3f4b846c5582ccf10ca",
+    "sha256": "d81acb28b71ed935eb01d3830253a5d987eb31a41ce27290e63eeb64a504bc88",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -60,9 +61,10 @@
       "Fortnahme von Grundverfügung und landesrechtlichem Vollzug abgegrenzt; Ausnahme vom Gutachten nicht pauschal auf Dringlichkeit übertragen.",
       "Kükentötungsentscheidung mit heutiger gesetzlicher Grenze nach Paragraf 4c TierSchG verbunden.",
       "Tierbezogene Abhilfe, Nachfragen und Fertigstellung des bestellten Dokuments erhalten.",
-      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill."
+      "Fortnahme-Grundverfügung, Vollzug und Veräußerung bleiben getrennt; Kükenfall ist keine heutige Erlaubnis. Neuer Putenfall konkretisiert wissenschaftliche Haltungsbewertung ohne Sonderverordnung, in Werkstatt, Mini und Nutztier-Skill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2f5c8f18bb1cd402595f359493a7193d0141b3afcc639018554251fd88abfdf8",
+    "sha256": "10e75b05581c8d0edef5ed71c4317bf10e76424e843d344cf0ee9714732fe504",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

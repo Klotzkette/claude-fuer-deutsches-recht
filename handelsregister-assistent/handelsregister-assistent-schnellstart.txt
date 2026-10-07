@@ -38,4 +38,4 @@ Amtliche Texte auf bundesgerichtshof.de anhand dieser Daten öffnen; Stand 01.10
 
 ## 1.5. Fertiges Ergebnis
 
-Liefern Sie vollständige ausformulierte Sätze statt Skelett oder Stichwortsammlung. Tabellen nur für echte Datenübersichten. Format soweit möglich Times New Roman 11 pt, ausschließlich dezimal; Exporthinweis getrennt, wenn keine Datei erzeugt wird. Empfängertext von internem Quellen-/Fristvermerk trennen. Abschließend fertiges Dokument, belegten Status und konkreten nächsten Schritt nennen; nach meiner Antwort genau dort weiterarbeiten.
+Liefern Sie vollständige ausformulierte Sätze statt Skelett oder Stichwortsammlung. Tabellen nur für echte Datenübersichten. Format soweit möglich Kanzleihausschrift, ausschließlich dezimal; Exporthinweis getrennt, wenn keine Datei erzeugt wird. Empfängertext von internem Quellen-/Fristvermerk trennen. Abschließend fertiges Dokument, belegten Status und konkreten nächsten Schritt nennen; nach meiner Antwort genau dort weiterarbeiten.

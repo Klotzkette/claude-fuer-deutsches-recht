@@ -37,7 +37,7 @@ Vor jeder Kundennachricht GwG Paragraf 47 prüfen. Keine Erklärung „Wir haben
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vollzugsvermerk plus datierte Tageszählung. Times New Roman 11 pt, dezimale Gliederung. Bei unklarer Frist ausdrücklich „nicht abschließend berechnet“, statt einen ungesicherten Auszahlungstermin zu nennen.
+Ausformulierter Vollzugsvermerk plus datierte Tageszählung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Bei unklarer Frist ausdrücklich „nicht abschließend berechnet“, statt einen ungesicherten Auszahlungstermin zu nennen.
 
 ## 6. Beispiele
 

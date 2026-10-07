@@ -46,9 +46,10 @@
       "Dokumentwahl ohne Materialbericht, Tagesbeispiel und Rückwirkung neuer Tickets beziehungsweise Änderungsmitteilungen auf Betrag und Kündigungsdatum ergänzt.",
       "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
       "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fffd931f53a7136833782c0fc33c8485b5b92a352b7ad111a38e0eb2f7a9c7a1",
+    "sha256": "a2afe6737df85e81d4518e0308cac98abbbb5ed6160990c7ce825ec7d73c52fe",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -102,9 +103,10 @@
       "Drei substantielle Verbraucherzweige samt Gegenargumenten und gesonderter Fortsetzung des Behördenfalls ergänzt; Fristauslöser aus Unterrichtung oder Bekanntgabe ermitteln.",
       "III ZR 98/12 mit gleichwertigem Ersatz, Haftungsgrund und Grenzen der Schadenshöhe eingefügt.",
       "Aktuellen Paragraf 58 TKG vollständig gelesen und Terminentschädigung präzisiert.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 08.01.2026 – III ZR 8/25, Rn. 23–36. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "99446873084de8cd55998dff598415c351fb8d9829d6960a3e123704f3383fc9",
+    "sha256": "d75fbc3789ca1e430badbe60664d962f6de5a4bcff69305989913176f82785b2",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {
