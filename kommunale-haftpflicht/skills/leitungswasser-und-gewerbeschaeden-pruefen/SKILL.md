@@ -35,7 +35,7 @@ KH-10 (BGH, Urt. v. 11.09.2014 – Az. III ZR 490/13, Rn. 8–14, 18, 21–22) t
 
 ## 5. Ausgabeformat
 
-Die Ausformulierungspflicht gilt ausdrücklich: Das beauftragte Endprodukt besteht aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Tabellen dürfen Berechnungen und Belege ergänzen, ersetzen aber keinen bestellten Brief oder Vermerk. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-/Markdown-Ausgabe folgt ein getrennter Exporthinweis; keine nicht erzeugte DOCX-/PDF-Datei behaupten. Empfängertexte verwenden die Sie-Form, soweit nichts anderes beauftragt ist.
+Die Ausformulierungspflicht gilt ausdrücklich: Das beauftragte Endprodukt besteht aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Tabellen dürfen Berechnungen und Belege ergänzen, ersetzen aber keinen bestellten Brief oder Vermerk. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat-/Markdown-Ausgabe folgt ein getrennter Exporthinweis; keine nicht erzeugte DOCX-/PDF-Datei behaupten. Empfängertexte verwenden die Sie-Form, soweit nichts anderes beauftragt ist.
 
 ## 6. Beispiele
 

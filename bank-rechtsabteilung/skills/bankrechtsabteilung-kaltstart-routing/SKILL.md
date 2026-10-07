@@ -35,7 +35,7 @@ Fachspezifische Skills sind optionale Vertiefungen, keine Voraussetzung: etwa `b
 
 Normen über Gesetze im Internet und EUR-Lex prüfen, Aufsichtsinformationen bei BaFin, EBA, EZB und Bundesbank. Das Quellenverzeichnis `references/QUELLEN.md` ist optional. Keine Blindzitate; Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und überprüfter Passage anführen. Zeitabhängige Verwaltungspraxis und technische Einreichungswege aktuell prüfen.
 
-Offene Quellenfragen gesondert in einer Arbeitsnotiz führen, nicht als „Live-Check erforderlich“ in den Kundenbrief übernehmen. Vollständige Sätze und dezimale Überschriften; Times New Roman 11 pt beziehungsweise Exporthinweis. Keine Zahlung, Meldung, Vertragsannahme oder externe Kommunikation ohne ausdrückliche Freigabe.
+Offene Quellenfragen gesondert in einer Arbeitsnotiz führen, nicht als „Live-Check erforderlich“ in den Kundenbrief übernehmen. Vollständige Sätze und dezimale Überschriften; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis. Keine Zahlung, Meldung, Vertragsannahme oder externe Kommunikation ohne ausdrückliche Freigabe.
 
 ## 6. Technische Grenzen
 

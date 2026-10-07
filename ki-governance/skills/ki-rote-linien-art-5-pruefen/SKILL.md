@@ -28,7 +28,7 @@ Zweckbeschreibung, tatsächliche Nutzung, betroffene Personen, Beeinflussungsmec
 
 ## 5. Ausgabeformat
 
-Ausformulierter Vermerk mit bestimmter Funktion, Tatbestand, Gegenargument, Beleglücke, Änderungsoption und Freigabegrenze. Kein bloßes Rot-Grün-Raster. Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Abschaltung, Meldung und Veröffentlichung bedürfen gesonderter Freigabe.
+Ausformulierter Vermerk mit bestimmter Funktion, Tatbestand, Gegenargument, Beleglücke, Änderungsoption und Freigabegrenze. Kein bloßes Rot-Grün-Raster. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; bei Textausgabe Exporthinweis. Abschaltung, Meldung und Veröffentlichung bedürfen gesonderter Freigabe.
 
 ## 6. Beispiele
 

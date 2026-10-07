@@ -40,9 +40,10 @@
     "changes": [
       "Noch angebotenen Zeugenbeweis von nachträglicher Würdigung getrennt; vorhandene Aussageinhalte werden ausgewertet, fehlender richterlicher Eindruck blockiert nicht sämtliche Rechtsprüfung oder bedingte Gründe.",
       "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
-      "Gerichtliche Antwort zum Inhalt der Kiste verändert Beweisabschnitt, Hauptforderung und Kosten; keine erfundene Zuordnung einer Unterschrift."
+      "Gerichtliche Antwort zum Inhalt der Kiste verändert Beweisabschnitt, Hauptforderung und Kosten; keine erfundene Zuordnung einer Unterschrift.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "49b3b7d0733b1a9ec8aa60dc2241733207d1459e87d68114e230746be16bf0fc"
+    "sha256": "ab9763c8bf7b6f91fbcb9da82ee06a09e056f33e5cf0fcbcc7483b3f4182eb32"
   },
   "selection": {
     "positive": [
@@ -95,9 +96,10 @@
       "Antragsbezogene Entscheidungsreife statt allgemeinem Herstellungsauftrag.",
       "Erheblichen Übergabezeugen nicht wegen Gegenüberzeugung aus Lieferschein überspringen; erst nach Erhebung Gesamtwürdigung.",
       "Fehlender Preisvortrag führt zum bestimmten Hinweis; Antwort verändert Schlüssigkeit und Beweisbedarf. Kistenzuordnung, Inhalt und richterliche Überzeugung getrennt.",
-      "Zahlungsbeleg verändert Rechnung und abhängige Nebenentscheidungen, ersetzt aber keine Rücknahme- oder Erledigungserklärung."
+      "Zahlungsbeleg verändert Rechnung und abhängige Nebenentscheidungen, ersetzt aber keine Rücknahme- oder Erledigungserklärung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "385fa9337f945f7a2a9e3978ec0a5e20c5f6d688408789979c99782ffa7f7495"
+    "sha256": "6f729b616b267ad211ef38bee167fbacee7ab642dfdcd8cb2475b7e5c71f5cef"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

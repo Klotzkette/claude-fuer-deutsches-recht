@@ -29,7 +29,7 @@ Prüfen Sie insbesondere Paragrafen 31, 69a bis 69g und gegebenenfalls 87a folge
 
 ## 5. Ausgabeformat
 
-Liefern Sie die erforderlichen Vertragsbestimmungen vollständig ausformuliert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus. Ein Exporthinweis bei Markdown und eine noch ungeklärte Rechtekette gehören in getrennte Hinweise, nicht verdeckt in eine scheinbar fertige Zusicherung.
+Liefern Sie die erforderlichen Vertragsbestimmungen vollständig ausformuliert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Verwenden Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus. Ein Exporthinweis bei Markdown und eine noch ungeklärte Rechtekette gehören in getrennte Hinweise, nicht verdeckt in eine scheinbar fertige Zusicherung.
 
 ## 6. Beispiele
 

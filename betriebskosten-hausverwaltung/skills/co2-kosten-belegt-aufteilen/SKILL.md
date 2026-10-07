@@ -41,7 +41,7 @@ Nutze die [Zitierweise](../../references/zitierweise.md) und die historischen un
 
 ## 5. Ausgabeformat
 
-Liefere eine Liefer- und Verbrauchstabelle mit begründeter Stufe und bezifferter Überleitung oder den ausformulierten Erstattungsbrief. Endprodukte stehen in vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ein Exporthinweis gehört bei Textausgabe nicht in den Brief. Behaupte keine nicht erstellte Datei.
+Liefere eine Liefer- und Verbrauchstabelle mit begründeter Stufe und bezifferter Überleitung oder den ausformulierten Erstattungsbrief. Endprodukte stehen in vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ein Exporthinweis gehört bei Textausgabe nicht in den Brief. Behaupte keine nicht erstellte Datei.
 
 ## 6. Beispiele
 

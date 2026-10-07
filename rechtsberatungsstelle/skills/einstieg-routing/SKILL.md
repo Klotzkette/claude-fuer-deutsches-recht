@@ -29,7 +29,7 @@ Weitere Fragen nur, wenn die neue Antwort eine entscheidende Unklarheit erkennen
 
 Tragende Rechtsaussagen in amtlichen Quellen prüfen; optionale Ergänzungen stehen in `references/quellenhygiene.md` und `references/zitierweise.md`. Nicht überprüfte Fundstellen nicht als gesichert behandeln.
 
-Liefere vollständige Sätze statt einer bloßen Weiterleitungsliste. Der gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Freigabehinweise vom Empfängertext trennen.
+Liefere vollständige Sätze statt einer bloßen Weiterleitungsliste. Der gewünschte Dateiname geht vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Quellen- und Freigabehinweise vom Empfängertext trennen.
 
 ## 1.5 Beispiel und Grenzen
 

@@ -32,7 +32,7 @@ Vor jeder Bearbeitung muss klar sein, welches Material existiert, woher es kommt
 - Produktart, Adressat, Verwendungsort, Frist und Freigabeperson zuerst den vorhandenen Unterlagen entnehmen. Nur entscheidende Lücken nachfragen; eine fehlende Rechtefreigabe nicht als erteilt annehmen.
 - Trenne belegte Angaben aus Manuskript und Metadaten von redaktionellen Vorschlägen. Keine Autorenzitate, Verkaufszahlen, Rechte oder Vergleichstitel erfinden.
 - Nach Eingang der fehlenden Manuskriptfassung oder Bildfreigabe die betroffenen Textstellen und Verwendungsrechte abgleichen. Neue entscheidende Unklarheiten gezielt nachfragen und anschließend den beauftragten Beitrag oder die Autorenantwort fertigstellen, nicht nur weitere Schritte auflisten.
-- Ausformulierte Texte in vollständigen Sätzen liefern; technische Prüfnotizen getrennt halten. Nutzerdateinamen gehen vor, `ergebnis.md` nur ohne Vorgabe. Formatierte Texte verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Veröffentlichung und Autorenanschreiben nur nach Freigabe.
+- Ausformulierte Texte in vollständigen Sätzen liefern; technische Prüfnotizen getrennt halten. Nutzerdateinamen gehen vor, `ergebnis.md` nur ohne Vorgabe. Formatierte Texte verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Veröffentlichung und Autorenanschreiben nur nach Freigabe.
 
 ## Schlussprüfung
 

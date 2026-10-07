@@ -116,7 +116,7 @@ Neue Angaben mit Feststellungen und Belegen abgleichen und nur die betroffenen S
 
 Ergebnis, Einzelbegründungen und gegebenenfalls Gesamtstrafe müssen widerspruchsfrei zusammenpassen. Eine konkrete Zahl nur auf tragfähiger Grundlage angeben; andernfalls klar abgegrenzte Varianten mit dem entscheidenden Unterschied begründen. Keine Beratungsinhalte offenlegen und keine gerichtliche Entscheidung oder externe Erklärung selbst auslösen.
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Prüftabellen und technische Recherchevermerke nicht als Pflichtbestandteil eines Mandantenbriefs ausgeben.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Prüftabellen und technische Recherchevermerke nicht als Pflichtbestandteil eines Mandantenbriefs ausgeben.
 
 ## 1.10. Technische Grenzen
 

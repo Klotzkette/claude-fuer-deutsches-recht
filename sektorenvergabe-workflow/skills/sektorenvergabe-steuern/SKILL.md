@@ -56,7 +56,7 @@ EuGH, Urteil vom 28.10.2020, C-521/18, Pegaso, behandelt den funktionalen Sektor
 
 ## 5. Ausgabeformat
 
-Liefere das bestellte Dokument vollständig ausformuliert, etwa Leistungsbeschreibung, Vergabevermerk, Antwort oder Stellungnahme. Fachübliche Tabellen dienen Mengen und Entscheidungen; keine bloßen Klauselstichworte. Formatierte Texte verwenden Times New Roman 11 pt und dezimale Gliederung. Interne Fragen, Quellenstatus und Freigaben bleiben außerhalb des Empfängertextes. Beende den Schritt mit dem tatsächlich nächsten notwendigen Beitrag, nicht mit einer pauschalen erneuten Mandatsaufnahme.
+Liefere das bestellte Dokument vollständig ausformuliert, etwa Leistungsbeschreibung, Vergabevermerk, Antwort oder Stellungnahme. Fachübliche Tabellen dienen Mengen und Entscheidungen; keine bloßen Klauselstichworte. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Fragen, Quellenstatus und Freigaben bleiben außerhalb des Empfängertextes. Beende den Schritt mit dem tatsächlich nächsten notwendigen Beitrag, nicht mit einer pauschalen erneuten Mandatsaufnahme.
 
 ## 6. Beispiel
 

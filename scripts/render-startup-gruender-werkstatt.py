@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Erstellt DOCX und PDF als Lesefassungen des kanonischen Werkstatt-Prompts.
 
-A4, Times New Roman 11 pt, natürliche Seitenumbrüche, echte Quellenlinks und
+A4, Hausschrift und Grundgröße aus hausstil.json, natürliche Seitenumbrüche, echte Quellenlinks und
 PDF-Lesezeichen. Die Seitenzahl wird gemessen und nicht durch Leerumbrüche
 vorgegeben. PNG-Seiten für die anschließende Sichtprüfung liegen getrennt.
 """
@@ -26,6 +26,13 @@ from docx.opc.constants import RELATIONSHIP_TYPE as RT
 from pypdf import PdfReader, PdfWriter
 from pypdf.generic import ArrayObject, ByteStringObject, NameObject
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hausstil  # noqa: E402
+
+HAUSSTIL = hausstil.lade_hausstil()
+SCHRIFT = HAUSSTIL.schrift
+GRUNDGROESSE = hausstil.groesse_in_punkt(HAUSSTIL)
+
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / 'startup-gruender/startup-gruender-werkstatt.md'
 OUT = ROOT / 'startup-gruender/assets'
@@ -44,10 +51,12 @@ def inline(paragraph, text):
         run = OxmlElement('w:r')
         properties = OxmlElement('w:rPr')
         fonts = OxmlElement('w:rFonts')
-        fonts.set(qn('w:ascii'), 'Times New Roman')
-        fonts.set(qn('w:hAnsi'), 'Times New Roman')
+        fonts.set(qn('w:ascii'), SCHRIFT)
+        fonts.set(qn('w:hAnsi'), SCHRIFT)
         properties.append(fonts)
-        size = OxmlElement('w:sz'); size.set(qn('w:val'), '22'); properties.append(size)
+        size = OxmlElement('w:sz')
+        size.set(qn('w:val'), str(int(GRUNDGROESSE * 2)))  # Word rechnet in halben Punkten
+        properties.append(size)
         color = OxmlElement('w:color'); color.set(qn('w:val'), '1F4E79'); properties.append(color)
         underline = OxmlElement('w:u'); underline.set(qn('w:val'), 'single'); properties.append(underline)
         run.append(properties)
@@ -66,15 +75,15 @@ def build_docx(text: str, path: Path):
     s.top_margin = s.bottom_margin = Cm(2.2)
     s.header_distance = s.footer_distance = Cm(1.2)
     normal = d.styles['Normal']
-    normal.font.name = 'Times New Roman'
-    normal.font.size = Pt(11)
+    normal.font.name = SCHRIFT
+    normal.font.size = Pt(GRUNDGROESSE)
     normal.font.color.rgb = RGBColor(0, 0, 0)
     normal.paragraph_format.line_spacing = 1.5
     normal.paragraph_format.space_after = Pt(8)
     normal.paragraph_format.widow_control = True
     for name, size in [('Title', 20), ('Heading 1', 14)]:
         style = d.styles[name]
-        style.font.name = 'Times New Roman'
+        style.font.name = SCHRIFT
         style.font.size = Pt(size)
         style.font.color.rgb = RGBColor(0, 0, 0)
         style.font.bold = name == 'Heading 1'
@@ -89,8 +98,8 @@ def build_docx(text: str, path: Path):
         elif node.tag == qn('w:rFonts'):
             for key in list(node.attrib):
                 if 'theme' in key.lower(): del node.attrib[key]
-            node.set(qn('w:ascii'), 'Times New Roman')
-            node.set(qn('w:hAnsi'), 'Times New Roman')
+            node.set(qn('w:ascii'), SCHRIFT)
+            node.set(qn('w:hAnsi'), SCHRIFT)
     d.core_properties.author = 'Startup-Gründer'
     d.core_properties.title = 'Startup Gründer Werkstatt'
     d.core_properties.subject = 'Lesefassung des Werkstatt-Prompts'
@@ -117,7 +126,7 @@ def build_docx(text: str, path: Path):
     footer = s.footer.paragraphs[0]
     footer.alignment = 2
     run = footer.add_run('Startup Gründer Werkstatt · ')
-    run.font.name = 'Times New Roman'; run.font.size = Pt(9)
+    run.font.name = SCHRIFT; run.font.size = Pt(9)
     run.font.color.rgb = RGBColor(90, 90, 90)
     field = OxmlElement('w:fldSimple'); field.set(qn('w:instr'), 'PAGE'); footer._p.append(field)
     stream = io.BytesIO(); d.save(stream)
@@ -140,10 +149,10 @@ def normalize_pdf(source: Path, target: Path, source_hash: str):
 
 
 def renderer_environment(qa_dir: Path, runtime: Path):
-    """Expose locally installed Times New Roman to bundled Fontconfig on macOS."""
+    """Expose the locally installed house font to bundled Fontconfig on macOS."""
     env = os.environ.copy()
     font_dir = Path('/System/Library/Fonts/Supplemental')
-    if sys.platform == 'darwin' and (font_dir / 'Times New Roman.ttf').is_file():
+    if sys.platform == 'darwin' and (font_dir / f'{SCHRIFT}.ttf').is_file():
         bundled_config = runtime / 'dependencies/native/libreoffice-headless/libreoffice/LibreOfficeDev.app/Contents/Resources/fontconfig/fonts.conf'
         config = qa_dir.resolve() / 'fonts.conf'
         cache = qa_dir.resolve() / 'font-cache'
@@ -186,9 +195,10 @@ def main():
     pages = len(reader.pages)
     pdf_fonts = sorted({str(font.get_object().get('/BaseFont')) for page in reader.pages for font in page['/Resources']['/Font'].values()})
     links = LINK.findall(text)
-    result = {'source':str(args.source.relative_to(ROOT)) if args.source.is_relative_to(ROOT) else str(args.source), 'source_sha256':source_hash,'source_words':len(text.split()),'workflow_chapters':40,'source_links':len(links),'pages':pages,'manual_page_breaks':0,'font':'Times New Roman','body_points':11,'line_spacing':1.5,'a4_margins_cm':{'left':2.4,'right':2.4,'top':2.2,'bottom':2.2},'docx_sha256':hashlib.sha256(target_docx.read_bytes()).hexdigest(),'pdf_sha256':hashlib.sha256(target_pdf.read_bytes()).hexdigest(),'visual_review':'Noch durchzuführen; Renderer bestätigt nur Erstellung.'}
+    result = {'source':str(args.source.relative_to(ROOT)) if args.source.is_relative_to(ROOT) else str(args.source), 'source_sha256':source_hash,'source_words':len(text.split()),'workflow_chapters':40,'source_links':len(links),'pages':pages,'manual_page_breaks':0,'font':SCHRIFT,'body_points':GRUNDGROESSE,'line_spacing':1.5,'a4_margins_cm':{'left':2.4,'right':2.4,'top':2.2,'bottom':2.2},'docx_sha256':hashlib.sha256(target_docx.read_bytes()).hexdigest(),'pdf_sha256':hashlib.sha256(target_pdf.read_bytes()).hexdigest(),'visual_review':'Noch durchzuführen; Renderer bestätigt nur Erstellung.'}
     result['pdf_embedded_fonts'] = pdf_fonts
-    result['pdf_uses_times_new_roman'] = bool(pdf_fonts) and all('TimesNewRoman' in name for name in pdf_fonts)
+    pdf_schriftname = SCHRIFT.replace(' ', '')  # PDF-Schriftnamen tragen keine Leerzeichen
+    result['pdf_uses_house_font'] = bool(pdf_fonts) and all(pdf_schriftname in name for name in pdf_fonts)
     (args.qa_dir/'render-result.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(result,ensure_ascii=False,indent=2))
 

@@ -44,7 +44,7 @@ Prüfe nach Paragraf 4 JVEG gerichtliche Zuständigkeit, Verfahrensstand, Beschw
 
 Eine Abrechnungsprüfung verlangt nicht ungefragt eine Beschwerde. Bei entsprechendem Auftrag verfasse Antrag und Begründung vollständig, mit beziffertem Ergebnis, Heranziehung, Fristwahrung, streitigen Positionen und konkreten Anlagen. Das Rechenblatt ergänzt die Begründung, ersetzt sie aber nicht.
 
-Kontrolliere Summe, Rundung, Zahlungen, Satzfassung und neue Antworten. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
+Kontrolliere Summe, Rundung, Zahlungen, Satzfassung und neue Antworten. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Kanzleihausschrift.
 
 ## 1.6 Quellen und Grenzen
 

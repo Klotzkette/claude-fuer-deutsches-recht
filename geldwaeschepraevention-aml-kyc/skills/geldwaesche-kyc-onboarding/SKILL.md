@@ -37,7 +37,7 @@ GwG Paragraf 10 bis Paragraf 15 und [Rechtsstand](../../references/rechtsstand-2
 
 ## 5. Ausgabeformat
 
-Ausformulierter Nachforderungsbrief und interne Feststellung mit überprüftem Punkt, Beleg, Restlücke und zuständiger Entscheidung. Times New Roman 11 pt, dezimale Gliederung. Nicht „identifiziert“ schreiben, wenn nur Daten erhoben wurden.
+Ausformulierter Nachforderungsbrief und interne Feststellung mit überprüftem Punkt, Beleg, Restlücke und zuständiger Entscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Nicht „identifiziert“ schreiben, wenn nur Daten erhoben wurden.
 
 ## 6. Beispiele
 

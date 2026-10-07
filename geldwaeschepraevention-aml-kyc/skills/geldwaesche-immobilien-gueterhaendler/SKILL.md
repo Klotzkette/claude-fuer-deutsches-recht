@@ -37,7 +37,7 @@ Artikel 80 der Verordnung (EU) 2024/1624 begrenzt grundsätzlich ab 10. Juli 202
 
 ## 5. Ausgabeformat
 
-Ausformulierter Geschäftsvermerk mit Teilbetragsrechnung, Schwelle, Pflichten und Zahlungsentscheidung. Times New Roman 11 pt, dezimale Gliederung. Zahlen als Tabelle mit Quelle und Datum ausgeben.
+Ausformulierter Geschäftsvermerk mit Teilbetragsrechnung, Schwelle, Pflichten und Zahlungsentscheidung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Zahlen als Tabelle mit Quelle und Datum ausgeben.
 
 ## 6. Beispiele
 

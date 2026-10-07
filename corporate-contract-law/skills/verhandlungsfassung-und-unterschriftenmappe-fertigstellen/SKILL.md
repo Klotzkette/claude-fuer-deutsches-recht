@@ -31,7 +31,7 @@ Prüfen Sie bei konkreten Form- und Vertretungsfragen die einschlägigen BGB-, H
 
 ## 5. Ausgabeformat
 
-Liefern Sie die bestellte Verhandlungsantwort und Vertragsfassung jeweils vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie internen Abschlussvermerk, Quellenstatus und Markdown-Exporthinweise von der empfängerfähigen Fassung. Behaupten Sie kein DOCX, PDF oder Signaturprotokoll, das nicht erzeugt wurde.
+Liefern Sie die bestellte Verhandlungsantwort und Vertragsfassung jeweils vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebener „Paragraf“. Trennen Sie internen Abschlussvermerk, Quellenstatus und Markdown-Exporthinweise von der empfängerfähigen Fassung. Behaupten Sie kein DOCX, PDF oder Signaturprotokoll, das nicht erzeugt wurde.
 
 ## 6. Beispiele
 

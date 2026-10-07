@@ -28,7 +28,7 @@ Paragrafen 97, 134, 160 und 187 Absatz 2 GWB; Paragrafen 5, 8, 16, 28 und 41 Sek
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere die ausformulierte individuelle Antwort, gegebenenfalls eine anonymisierte allgemeine Bieterinformation, bereinigte Unterlagen und einen internen Abhilfevermerk. Times New Roman 11 pt, dezimale Gliederung. Übergib geänderte Fassung, betroffene Lose, Versandbeleg, Fristentscheidung und noch offene Einwände an die jeweils betroffenen Schritte 2 bis 6 oder 8 bis 10. Kein Ergebnis endet allein mit „Rüge prüfen“.
+Liefere die ausformulierte individuelle Antwort, gegebenenfalls eine anonymisierte allgemeine Bieterinformation, bereinigte Unterlagen und einen internen Abhilfevermerk. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergib geänderte Fassung, betroffene Lose, Versandbeleg, Fristentscheidung und noch offene Einwände an die jeweils betroffenen Schritte 2 bis 6 oder 8 bis 10. Kein Ergebnis endet allein mit „Rüge prüfen“.
 
 ## 6. Beispiel
 

@@ -31,9 +31,10 @@
       "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
       "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
       "Entscheidungsform Beschluss präzisiert.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "df95ca20e288c0e4c0e660bf1e97660fa55ec05392cdd9151787c73eefdad7c6"
+    "sha256": "4c682feacb798febe01365768e62331216e588f8b0b3a747269aa21436abe138"
   },
   "selection": {
     "positive": [
@@ -86,9 +87,10 @@
       "Paragraf 382 Absatz 3 und 4 FamFG mit behebbaren und unbehebbaren Hindernissen verknüpft.",
       "Aufhebung der Zwischenverfügung nicht mit automatischer Eintragung gleichgesetzt; Sparkassen-Sonderfall begrenzt.",
       "Entscheidungsform Beschluss präzisiert.",
-      "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform."
+      "Formmangel und materielle Heilung, zeitversetzter Organwechsel, konsolidierte Satzung, Auslandsvertretungsbeleg und Entscheidungsform.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c1cb837c98bba2e2eda4ebd2c8f02c9e908b238563f8dd34aea53730b1246065"
+    "sha256": "29e61425608e3e1ff777d36fc23ce391002f956adcc3e00334995887b9394574"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

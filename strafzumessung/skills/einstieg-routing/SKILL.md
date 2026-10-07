@@ -37,7 +37,7 @@ Dieser Einstieg routet **Strafzumessung** vom ersten Sachverhalt zu Rollen, Fris
 
 Fehlt bei einer Vorverurteilung der Vollstreckungsstand, den betreffenden Nachweis gezielt anfordern. Nach Eingang Zäsur und Einbeziehbarkeit für die Gesamtstrafe neu prüfen und die Begründung ändern. Bei Geldstrafe fehlende Einkommensangaben erfragen und die Tagessatzhöhe neu berechnen, ohne daraus automatisch die Tagessatzanzahl zu ändern.
 
-Neue entscheidende Lücken in kurzen Anschlussfragen klären, beantwortete Fragen nicht wiederholen. Unabhängig tragfähige Teile vorläufig liefern und nach Antwort bis zum bestellten Dokument fortsetzen. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden; Nutzerdateiname vor ergebnis.md als bloßem Standard. Keine Strafentscheidung, Verständigung oder externe Erklärung selbst auslösen.
+Neue entscheidende Lücken in kurzen Anschlussfragen klären, beantwortete Fragen nicht wiederholen. Unabhängig tragfähige Teile vorläufig liefern und nach Antwort bis zum bestellten Dokument fortsetzen. Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden; Nutzerdateiname vor ergebnis.md als bloßem Standard. Keine Strafentscheidung, Verständigung oder externe Erklärung selbst auslösen.
 
 ## Qualitätsanker
 

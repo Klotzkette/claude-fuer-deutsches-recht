@@ -62,7 +62,7 @@ Ein Kommissionsbericht ist keine anfechtbare Übertragung. Das Berliner Rahmenge
 
 # 5. Ausgabeformat
 
-Liefere die bestellte ausformulierte Rechtswegberatung oder Antragsschrift mit bestimmtem Begehren, belegter Zulässigkeit, fallbezogener Begründung und Anlagen. Ein interner Fristenvermerk bleibt getrennt. Vollständige Sätze statt Skelett, Halbsätzen oder bloßer Rechtswegetabelle; Times New Roman 11 pt, dezimale Gliederung, andernfalls separater Exporthinweis. Offene maßgebliche Belege dürfen nicht durch eine vorgetäuschte Einreichungsreife verdeckt werden.
+Liefere die bestellte ausformulierte Rechtswegberatung oder Antragsschrift mit bestimmtem Begehren, belegter Zulässigkeit, fallbezogener Begründung und Anlagen. Ein interner Fristenvermerk bleibt getrennt. Vollständige Sätze statt Skelett, Halbsätzen oder bloßer Rechtswegetabelle; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, andernfalls separater Exporthinweis. Offene maßgebliche Belege dürfen nicht durch eine vorgetäuschte Einreichungsreife verdeckt werden.
 
 # 6. Beispiele
 
@@ -114,7 +114,7 @@ Unterscheide Rechtsverlust der Objektgesellschaft von zusätzlichen Schäden der
 
 # 5. Ausgabeformat
 
-Ausformulierte Entscheidungsvorlage mit konkreter Empfehlung, begründeten Bedingungen und rechenbarer Anlage. Tabellen dürfen Zahlen ordnen, ersetzen aber nicht die rechtliche Würdigung. Keine Halbsätze oder Gesetzesskelette. Times New Roman 11 pt und dezimale Gliederung; bei Tabellen darf ein begründetes lesbares Tabellenlayout abweichen. Technische Hinweise außerhalb des Empfängertextes. Kein nicht durchgeführtes Bewertungsgutachten behaupten.
+Ausformulierte Entscheidungsvorlage mit konkreter Empfehlung, begründeten Bedingungen und rechenbarer Anlage. Tabellen dürfen Zahlen ordnen, ersetzen aber nicht die rechtliche Würdigung. Keine Halbsätze oder Gesetzesskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Tabellen darf ein begründetes lesbares Tabellenlayout abweichen. Technische Hinweise außerhalb des Empfängertextes. Kein nicht durchgeführtes Bewertungsgutachten behaupten.
 
 # 6. Beispiele
 
@@ -164,7 +164,7 @@ Bei Wohnraum Grund und Boden als eigene Kategorie prüfen; der Streit über Dien
 
 # 5. Ausgabeformat
 
-Liefere einen Gegenstandsvermerk und die bestellte Übertragungsanlage als eigenständig nutzbare Dokumente. Verwende vollständige Sätze für Feststellungen und Rechtsfolgen, keine Skelettformulierungen. Datenfelder dürfen tabellarisch sein; bloße Tabellen ersetzen die Begründung nicht. Times New Roman 11 pt und dezimale Gliederung bei formatierten Dokumenten, sonst getrennter Exporthinweis. Ungeklärte Titel offen markieren, niemals als geprüft ausgeben.
+Liefere einen Gegenstandsvermerk und die bestellte Übertragungsanlage als eigenständig nutzbare Dokumente. Verwende vollständige Sätze für Feststellungen und Rechtsfolgen, keine Skelettformulierungen. Datenfelder dürfen tabellarisch sein; bloße Tabellen ersetzen die Begründung nicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei formatierten Dokumenten, sonst getrennter Exporthinweis. Ungeklärte Titel offen markieren, niemals als geprüft ausgeben.
 
 # 6. Beispiele
 
@@ -214,7 +214,7 @@ Bei Verweis auf den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer
 
 # 5. Ausgabeformat
 
-Adressierte, vollständig ausformulierte Stellungnahme mit Bezug, begründeter Position, konkreten Änderungsanträgen und richtig bezeichneten Anlagen. Keine Stichwortrede, Halbsätze oder Lehrbuchsammlung als Endprodukt. Times New Roman 11 pt, dezimale Gliederung. Recherche- und Exportvermerke bleiben außerhalb des abgabefähigen Textes. Unterschriftszeile aus bestätigter Mandatsrolle, keine erfundene Unterzeichnung.
+Adressierte, vollständig ausformulierte Stellungnahme mit Bezug, begründeter Position, konkreten Änderungsanträgen und richtig bezeichneten Anlagen. Keine Stichwortrede, Halbsätze oder Lehrbuchsammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Recherche- und Exportvermerke bleiben außerhalb des abgabefähigen Textes. Unterschriftszeile aus bestätigter Mandatsrolle, keine erfundene Unterzeichnung.
 
 # 6. Beispiele
 
@@ -264,7 +264,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 # 5. Ausgabeformat
 
-Ausformulierter Vermerk mit Sachverhalt, Frage, Kurzantwort, rechtlicher Bewertung und belastbarer Handlungsempfehlung. Gegenauffassungen werden am Fall gewürdigt. Keine Halbsätze, Skelette oder bloße Normtabelle als Endprodukt. Times New Roman 11 pt, dezimale Gliederung; Export- und Zugriffshinweise getrennt. Noch nicht geprüfte historische Gesetze oder Titel ausdrücklich benennen, nicht mit einer abschließenden Freigabe überdecken.
+Ausformulierter Vermerk mit Sachverhalt, Frage, Kurzantwort, rechtlicher Bewertung und belastbarer Handlungsempfehlung. Gegenauffassungen werden am Fall gewürdigt. Keine Halbsätze, Skelette oder bloße Normtabelle als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Export- und Zugriffshinweise getrennt. Noch nicht geprüfte historische Gesetze oder Titel ausdrücklich benennen, nicht mit einer abschließenden Freigabe überdecken.
 
 # 6. Beispiele
 
@@ -316,7 +316,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 # 5. Ausgabeformat
 
-Vollständig ausformulierter Gesetzesentwurf mit dezimal gegliederter Einzelbegründung und bestimmter Anlage. Paragraf ausschreiben. Keine Skelettbestimmungen, Stichwortgesetze oder Informationssammlung als Endprodukt. Times New Roman 11 pt, schwarze Überschriften und dezimale Gliederung; technische Exporthinweise außerhalb des Entwurfs. Offene Freigaben in einer gesonderten Übergabenotiz, nicht als vermeintlich amtlicher Gesetzestext.
+Vollständig ausformulierter Gesetzesentwurf mit dezimal gegliederter Einzelbegründung und bestimmter Anlage. Paragraf ausschreiben. Keine Skelettbestimmungen, Stichwortgesetze oder Informationssammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, schwarze Überschriften und dezimale Gliederung; technische Exporthinweise außerhalb des Entwurfs. Offene Freigaben in einer gesonderten Übergabenotiz, nicht als vermeintlich amtlicher Gesetzestext.
 
 # 6. Beispiele
 
@@ -366,7 +366,7 @@ Nutze den [Berliner Bericht](https://github.com/Klotzkette/claude-fuer-deutsches
 
 # 5. Ausgabeformat
 
-Liefergegenstand sind vollständig ausformulierte Organisationsbestimmungen mit adressatengerechter Begründung und gegebenenfalls Entscheidungsvorlage zu tatsächlich offenen Gestaltungsfragen. Keine bloßen Kontrollkästchen, Halbsätze oder Klauselskelette. Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar; getrennte Exportnotiz andernfalls. Das Ergebnis bleibt intern, bis eine externe Vorlage ausdrücklich freigegeben wird.
+Liefergegenstand sind vollständig ausformulierte Organisationsbestimmungen mit adressatengerechter Begründung und gegebenenfalls Entscheidungsvorlage zu tatsächlich offenen Gestaltungsfragen. Keine bloßen Kontrollkästchen, Halbsätze oder Klauselskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar; getrennte Exportnotiz andernfalls. Das Ergebnis bleibt intern, bis eine externe Vorlage ausdrücklich freigegeben wird.
 
 # 6. Beispiele
 
@@ -416,7 +416,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 # 5. Ausgabeformat
 
-Liefere einen ausformulierten Beratungsbrief mit konkretem Sachstand, begründeter Empfehlung und nächstem mandatsbezogenen Schritt. Ein interner Belegvermerk darf ergänzen, ersetzt den Brief aber nicht. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung. Technische Exporthinweise stehen getrennt; keine nicht erzeugte Datei behaupten. Versand nur nach ausdrücklicher Freigabe.
+Liefere einen ausformulierten Beratungsbrief mit konkretem Sachstand, begründeter Empfehlung und nächstem mandatsbezogenen Schritt. Ein interner Belegvermerk darf ergänzen, ersetzt den Brief aber nicht. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung. Technische Exporthinweise stehen getrennt; keine nicht erzeugte Datei behaupten. Versand nur nach ausdrücklicher Freigabe.
 
 # 6. Beispiele
 
@@ -470,7 +470,7 @@ Die unions- und völkerrechtliche Einschätzung im [Berliner Bericht](https://gi
 
 # 5. Ausgabeformat
 
-Vollständiger Umsetzungsvermerk und, wenn bestellt, ausformulierte Übergangs- oder Finanzierungsklauseln. Keine bloße Liste von Rechtsgebieten, Halbsätzen oder Klauselrümpfen. Times New Roman 11 pt und dezimale Gliederung; getrennter Exporthinweis bei nicht formatiertem Text. Keine Behördenkommunikation oder Übertragung von Daten ohne Auftrag und Freigabe auslösen.
+Vollständiger Umsetzungsvermerk und, wenn bestellt, ausformulierte Übergangs- oder Finanzierungsklauseln. Keine bloße Liste von Rechtsgebieten, Halbsätzen oder Klauselrümpfen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; getrennter Exporthinweis bei nicht formatiertem Text. Keine Behördenkommunikation oder Übertragung von Daten ohne Auftrag und Freigabe auslösen.
 
 # 6. Beispiele
 

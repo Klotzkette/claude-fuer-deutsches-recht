@@ -53,7 +53,7 @@ Rechtsprechung nur mit überprüftem Inhalt, Gericht, Form, Datum und Aktenzeich
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen. Eine Beratung erläutert Ergebnis und Empfehlung, eine Forderung enthält Reise, Anspruch, Rechnung und Belege; keine Pflichtausgabe von Skill-Tabelle oder internen Prüffeldern. Zusätzliche Quellenvermerke und technische Einschränkungen getrennt vom Empfängertext halten.
 
-Prüfe vor Abschluss Vertragsziel, Anspruchsgegner, Beträge und Einarbeitung neuer Antworten. Externe Buchungen, Forderungen, Schlichtungsanträge oder Klagen nur nach ausdrücklicher Freigabe. Formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
+Prüfe vor Abschluss Vertragsziel, Anspruchsgegner, Beträge und Einarbeitung neuer Antworten. Externe Buchungen, Forderungen, Schlichtungsanträge oder Klagen nur nach ausdrücklicher Freigabe. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis.
 
 Ohne Dateizugriff den konkreten Auszug anfordern; ohne Export vollständigen Text liefern. Keine nicht erzeugte Datei oder nicht erfolgte Quellenprüfung behaupten. Fehlende Werkzeuge sperren nur den abhängigen Schritt, nicht die übrige Bearbeitung.
 

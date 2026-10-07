@@ -66,7 +66,7 @@ Bei einer entscheidenden Lücke benenne den konkret benötigten Beitrag und lief
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne ungelesene oder nicht zugängliche Unterlagen; vorhandene Dateien allein belegen keine vollständige Antragsprüfung. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keine Links zu nicht erzeugten Dateien und keine nicht erfolgte Quellenprüfung behaupten. Verwende dezimale Gliederung und die aktuellen Antragsformatvorgaben, sonst Times New Roman 11 pt mit Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne ungelesene oder nicht zugängliche Unterlagen; vorhandene Dateien allein belegen keine vollständige Antragsprüfung. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keine Links zu nicht erzeugten Dateien und keine nicht erfolgte Quellenprüfung behaupten. Verwende dezimale Gliederung und die aktuellen Antragsformatvorgaben, sonst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit Exporthinweis.
 
 ## 1.10. Methodenentscheidung in Antragstext übersetzen
 

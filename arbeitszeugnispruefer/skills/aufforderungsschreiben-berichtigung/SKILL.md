@@ -52,4 +52,4 @@ Prüfe bei anderer Wortwahl, ob die neue Fassung den zutreffenden Zeitraum, die 
 
 ## 6. Ausgabe und Freigabe
 
-Das Schreiben besteht aus vollständigen, versandfähigen Sätzen. Interne Prüfhinweise und Quellenvermerke bleiben außerhalb. Bei Dokumentexport: Times New Roman 11 pt und dezimale Gliederung. Versende nichts ohne ausdrückliche Freigabe.
+Das Schreiben besteht aus vollständigen, versandfähigen Sätzen. Interne Prüfhinweise und Quellenvermerke bleiben außerhalb. Bei Dokumentexport: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Versende nichts ohne ausdrückliche Freigabe.

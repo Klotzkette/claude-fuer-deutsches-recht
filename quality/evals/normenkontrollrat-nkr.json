@@ -46,9 +46,10 @@
       "Politische Ziele von methodischer Prüfung und Auftrag nach NKRG getrennt.",
       "Alternativen-Norm präzisiert und Digitalcheck gesetzlich zugeordnet.",
       "Existenzsicherungsentscheidung mit strikter Grenze zur allgemeinen Aufwandsberechnung eingeordnet.",
-      "Stille Dateisichtung und direkter Aufgabenbeginn; Teilgruppe mit Quartalsmeldung ändert Rechnung und Stellungnahme ohne pauschale Änderung der Umstellungskosten."
+      "Stille Dateisichtung und direkter Aufgabenbeginn; Teilgruppe mit Quartalsmeldung ändert Rechnung und Stellungnahme ohne pauschale Änderung der Umstellungskosten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f1d018ad53f53374ad855d3186fb632a123eb7c6297201bdc129b8969c044c93"
+    "sha256": "37145c24bfa1974da364f9e0aa99f1e84fa9b2025903af8c7be9ada7b6a2e6e0"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -58,9 +59,10 @@
       "Alternativen-Norm präzisiert und Digitalcheck gesetzlich zugeordnet.",
       "Existenzsicherungsentscheidung mit strikter Grenze zur allgemeinen Aufwandsberechnung eingeordnet.",
       "Normpflicht gegenüber tatsächlichen Schritten, Altbestand und Neuzugang sowie Unternehmen gegenüber Betriebsstätten unterschieden.",
-      "Rechenbeispiel mit geänderter Teilgruppe, Sowieso-Gegenargument, digitale Ausnahmefälle und zeitlich begrenzter Übergangsprozess bis zur Textkorrektur ausgearbeitet."
+      "Rechenbeispiel mit geänderter Teilgruppe, Sowieso-Gegenargument, digitale Ausnahmefälle und zeitlich begrenzter Übergangsprozess bis zur Textkorrektur ausgearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "17cc64ade3b53e2a8dd74c6223aa8fb5062f59f736dd90a33a802fd46e0a154d"
+    "sha256": "3a71f2aa2cee245a886cea0f599b4f2a83afc9bde6b167cf998417108c1dd321"
   },
   "selection": {
     "positive": [

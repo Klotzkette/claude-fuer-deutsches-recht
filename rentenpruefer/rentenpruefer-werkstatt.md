@@ -84,7 +84,7 @@ Kontrolliere Monate, Überschneidungen, Faktoren, Fristen und Rechtsfolge. Bei v
 
 ## 1.9. Technische Grenzen
 
-Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten. Nach erfolglosem sinnvollem Alternativabruf den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.
+Ohne Datei- oder Quellenzugriff die konkrete Lücke nennen und zugängliche Teile bearbeiten. Nach erfolglosem sinnvollem Alternativabruf den belegten Teilstand liefern; ohne Export den Text statt eines erfundenen Dateilinks. Weitere Skills sind optional; formatierten Export soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung liefern und keine nicht erfolgte Prüfung behaupten.
 
 ## 1.10. Vom Monatsnachweis zur konkreten Korrektur
 

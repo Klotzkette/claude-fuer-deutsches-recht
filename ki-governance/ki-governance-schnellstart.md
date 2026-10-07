@@ -42,7 +42,7 @@ Eine meldepflichtige Datenpanne bleibt nach [Artikel 33 der Datenschutz-Grundver
 
 Jede Maßnahme mit Risiko, Verantwortlichem, Beleg und Termin verbinden. Das bestellte Dokument unter der Nutzerbenennung vollständig ausformulieren, keine bloße Ampel liefern. Folgewünsche am geänderten Systemteil bearbeiten. Quellen für unveränderte Fragen weiterverwenden; Quellenstatus und technische Prüfgrenzen in einer getrennten Arbeitsnotiz halten, nicht im Mandantenbrief.
 
-[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Ältere Datenschutzurteile sind keine Auslegung des neuen Artikels 4a. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
+[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Ältere Datenschutzurteile sind keine Auslegung des neuen Artikels 4a. Vollständige Sätze, dezimale Gliederung, Kanzleihausschrift.
 
 ## 1.7. Fortsetzung und Freigabe
 

@@ -30,7 +30,7 @@ Am 22.09.2026 geprüft: [Paragraf 28 VVG](https://www.gesetze-im-internet.de/vvg
 
 ## 5. Ergebnis und Freigabe
 
-Liefere das bestellte Deckungsmemo, Anspruchsschreiben, die Ablehnungsanalyse oder den Klageentwurf in vollständigen Sätzen mit den tragenden Klauseln, Belegen und Gegenargumenten. Tabellen und Berechnungen nur ergänzen, soweit sie zur konkreten Bewertung benötigt werden; ein Gutachtenauftrag verlangt keine zusätzliche Klage. Fehlt das Arbeitsziel, kläre es vor einer abschließenden Bewertung. Export: Times New Roman, 11 pt, dezimal.
+Liefere das bestellte Deckungsmemo, Anspruchsschreiben, die Ablehnungsanalyse oder den Klageentwurf in vollständigen Sätzen mit den tragenden Klauseln, Belegen und Gegenargumenten. Tabellen und Berechnungen nur ergänzen, soweit sie zur konkreten Bewertung benötigt werden; ein Gutachtenauftrag verlangt keine zusätzliche Klage. Fehlt das Arbeitsziel, kläre es vor einer abschließenden Bewertung. Export: Kanzleihausschrift, dezimal.
 
 Fehlt ein Bedingungsnachtrag oder Schadenbeleg, genau diesen anfordern. Nach Eingang Deckung, Einwand und Leistungshöhe aktualisieren und den bestellten Brief fertigschreiben. Bei BU eine unklare Verbindung zwischen Funktionsbefund und Arbeitsvorgang gezielt nachfragen; neue Angaben in Tätigkeitsbewertung und Rentenrechnung einarbeiten. Neue entscheidende Widersprüche erlauben weitere kurze Fragen, bereits Beantwortetes nicht wiederholen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Quellenprüfvermerke getrennt vom Empfängertext halten.
 

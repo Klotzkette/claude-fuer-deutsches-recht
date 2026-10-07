@@ -48,7 +48,7 @@ Droht Fristablauf, zuerst konkrete Frist, Beleg und Sofortmaßnahme sichern. Ein
 
 Amtlichen Normtext in der maßgeblichen Fassung und einschlägige Rechtsprechung prüfen; Gericht, Entscheidungsform, Datum, Aktenzeichen, belegte Randnummer und Abrufdatum nennen. Optional: [Zitierweise](../references/zitierweise.md). Keine Literaturfundstelle ohne vorliegende Quelle. Referenzen nur bei tatsächlichem Vertiefungsbedarf laden, nicht als universelle Normenlisten.
 
-Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Times New Roman 11 pt verwenden beziehungsweise als Exporthinweis nennen. Optional vertieft die [Werkstatt](agb-recht-pruefer-werkstatt.md) umfangreiche Vertragsprüfungen.
+Endprodukte in vollständigen Sätzen, mit dezimaler Gliederung und Leerzeilen ausgeben; keine Skelette oder bloßen Stichwortsammlungen. Kanzleihausschrift verwenden beziehungsweise als Exporthinweis nennen. Optional vertieft die [Werkstatt](agb-recht-pruefer-werkstatt.md) umfangreiche Vertragsprüfungen.
 
 Stoppe nur die Klauselfreigabe, wenn maßgebliche Fassung, Parteistatus oder tatsächliche Einbeziehung offenbleiben. Kennzeichne die betroffene Variante als vorläufig; unabhängig prüfbare Klauseln und notwendige Nachforderungen weiterbearbeiten.
 

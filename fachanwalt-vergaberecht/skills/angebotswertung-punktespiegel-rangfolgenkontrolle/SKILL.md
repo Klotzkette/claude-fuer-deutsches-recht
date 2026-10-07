@@ -43,7 +43,7 @@ Prüfe Fassungen und konkrete Tragweite erneut. Nenne Gericht, Entscheidungsform
 
 Erstelle das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge nachgerechneten Punktespiegel, Kriterienregister, Fristen und Rangfolgenszenarien soweit für den Auftrag erforderlich bei. Eine Rügefassung oder ein Korrekturvermerk entsteht bei entsprechendem Auftrag, nicht allein aufgrund der Rolle.
 
-Vollständig ausformulierte Sätze, keine Antrags- oder Begründungsskelette. Der Mandantenbrief erläutert Ergebnis und Empfehlung; technische Recherchevermerke und Quellenlücken stehen getrennt. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Ohne Datei- oder Exportzugriff arbeite mit bereitgestellten Auszügen und liefere vollständigen Text, ohne fehlende Konkurrenzdaten oder Dateilinks zu erfinden.
+Vollständig ausformulierte Sätze, keine Antrags- oder Begründungsskelette. Der Mandantenbrief erläutert Ergebnis und Empfehlung; technische Recherchevermerke und Quellenlücken stehen getrennt. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Datei- oder Exportzugriff arbeite mit bereitgestellten Auszügen und liefere vollständigen Text, ohne fehlende Konkurrenzdaten oder Dateilinks zu erfinden.
 
 ## 6. Beispiel
 

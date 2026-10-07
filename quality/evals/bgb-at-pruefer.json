@@ -57,9 +57,10 @@
       "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
       "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
       "Leer: Vertragsschluss, Vollmacht oder Anfechtung. Dateien: still lesen und Wirksamkeitsgutachten oder Erklärungstext anbieten. Klar: direkt bestelltes Gutachten oder Schreiben erstellen.",
-      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "319a40a62b4e2aec4e5f026702e8ce04bf437f5e6db1ffec0c96a7c286c4d2ce"
+    "sha256": "31381985856328369d5a7bc7923f97c9f6204be62176fa770345700495b29a17"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -69,9 +70,10 @@
       "130e ZPO und 46h ArbGG einschließlich gerichtlicher Zustellung/Mitteilung und ausgeschlossener elektronischer Ersetzung ergänzt.",
       "Irrtums- und Täuschungsanfechtung samt Fristen und Vertrauensschaden getrennt.",
       "Geänderte Annahme, Genehmigungsaufforderung, Irrtum/Täuschung, gerichtlicher Formweg und Minderjährigenzahlung vertieft.",
-      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung."
+      "Verweigerte Genehmigung ändert Wirksamkeitszustand und Antwort; neue Täuschungsangabe ändert Tatbestands- und Fristprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5cc10d67abd92b7a39692963399b2ddc0992dcb6049ddd5b3948edfc9f3abab3"
+    "sha256": "44e2e0f244266dab7531b61e18a15181d67a3748024c83ef229e33723bc5d281"
   },
   "selection": {
     "positive": [

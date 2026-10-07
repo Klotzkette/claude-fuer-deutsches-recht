@@ -30,7 +30,7 @@ Erfasse Versicherungsart, Antrag, beantragtes Hilfsmittel oder Behandlung, Besch
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Brief mit genau benannter Versorgung, konkreten Alltagstatsachen, Befunden und Antrag. Getrennt ein kurzer Hinweis zu Selbstbeschaffung und nächstem Schritt. Times New Roman, 11 pt, dezimale Gliederung. Fehlende ärztliche Aussagen werden als Rückfrage markiert, nicht als fertige Bescheinigung erfunden.
+Vollständig ausformulierter Brief mit genau benannter Versorgung, konkreten Alltagstatsachen, Befunden und Antrag. Getrennt ein kurzer Hinweis zu Selbstbeschaffung und nächstem Schritt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Fehlende ärztliche Aussagen werden als Rückfrage markiert, nicht als fertige Bescheinigung erfunden.
 
 ## 6. Beispiele
 

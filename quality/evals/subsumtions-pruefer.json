@@ -55,9 +55,10 @@
     "changes": [
       "Drei Einstiegsmodi sowie kurze Arbeitswege zu Erheblichkeit, Kündigungsfrist, Teilzahlung und überschneidenden Reparaturbelegen ergänzt.",
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
-      "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
+      "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "146516c1c1078b70f72448ae6b615f56eb68edc0a995b07b3bb339c3bcce22c7"
+    "sha256": "e446251f319b5dcd8468c94ed0360877571667aa7d69ce4a2ab1344d9891916d"
   },
   "selection": {
     "positive": [
@@ -141,9 +142,10 @@
     "changes": [
       "Vier konkrete Arbeitswege mit entgegenstehenden Tatsachen, begrenztem Auftrag und Änderung von Schlussfolgerung beziehungsweise Rechnung ergänzt.",
       "Konkrete Merkmalsprüfung erhalten; Gegenprüfung eigener Argumente und doppelte Grenze der Schadensschätzung präzisiert.",
-      "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle."
+      "Keine beliebige Schätzung, aber fehlende Exaktheit schließt mögliche Mindestschätzung nicht aus. Grenze: Gebrauchsvorteile eines Luftsportgeräts, keine automatische Übernahme konkreter Werte oder Amtshaftungsnorm auf Reparaturfälle.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d85b651f9f4b5f7b1a96d7bd429ff5782d175a28140f6bb80b9b43f8ffdc02a1"
+    "sha256": "636fcd10cbf9927eb39c12b0adbff7d5a49c34b0b31b579c123ea3f355513a05"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

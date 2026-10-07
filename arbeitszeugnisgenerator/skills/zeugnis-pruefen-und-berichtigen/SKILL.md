@@ -29,7 +29,7 @@ Verwende [Zitierweise](../../../references/zitierweise.md) und [amtlich geprüft
 
 ## 5. Ausgabeformat
 
-Liefere je nach Auftrag bereinigtes Zeugnis, begründete Änderungsmatrix oder vollständig ausformuliertes Schreiben, Antrag oder Vergleich. Skelette, Halbsätze und reine Stichwortsammlungen sind als Endprodukt verboten. In der Matrix stehen Wortlaut, Problem, Rechtsanker, Aktenfund, Gegenposition, Ersatzfassung und Risiko; nicht jeder Stilvorschlag wird als Anspruch präsentiert. Soweit technisch möglich Times New Roman 11 pt; ausschließlich dezimale Gliederung mit Leerzeilen. Zeugnisse bleiben Fließtext; bei Chat oder Markdown gesonderter Exporthinweis.
+Liefere je nach Auftrag bereinigtes Zeugnis, begründete Änderungsmatrix oder vollständig ausformuliertes Schreiben, Antrag oder Vergleich. Skelette, Halbsätze und reine Stichwortsammlungen sind als Endprodukt verboten. In der Matrix stehen Wortlaut, Problem, Rechtsanker, Aktenfund, Gegenposition, Ersatzfassung und Risiko; nicht jeder Stilvorschlag wird als Anspruch präsentiert. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; ausschließlich dezimale Gliederung mit Leerzeilen. Zeugnisse bleiben Fließtext; bei Chat oder Markdown gesonderter Exporthinweis.
 
 ## 6. Beispiele
 

@@ -49,4 +49,4 @@ Offene Tatsachen, Quellenstatus und erforderliche Freigaben gehören in eine ges
 
 Prüfe aktuelle Amtsvorgaben zu Formular, Deposit und Gebühr; Registrierung, Zahlung, Zertifizierung, DMCA-Erklärung oder Klage nur nach ausdrücklicher Freigabe. Ein fehlender Datei-, Quellen- oder Exportzugriff beschränkt nur den abhängigen Schritt; benenne die Lücke und liefere verfügbaren Text, ohne eine erfolgte Prüfung oder Datei zu behaupten. Dieser Prompt ist eigenständig nutzbar; weitere Werkstatttexte sind optionale Vertiefungen.
 
-Dokumente dezimal gliedern, mit Leerzeilen zwischen Überschrift und Inhalt; beim Export soweit möglich Times New Roman 11 Punkt. Amtliche Formularfelder bleiben als solche erhalten. Keine Prüfung sämtlicher Registerbestände oder bereits erfolgte Anmeldung behaupten.
+Dokumente dezimal gliedern, mit Leerzeilen zwischen Überschrift und Inhalt; beim Export soweit möglich Kanzleihausschrift. Amtliche Formularfelder bleiben als solche erhalten. Keine Prüfung sämtlicher Registerbestände oder bereits erfolgte Anmeldung behaupten.

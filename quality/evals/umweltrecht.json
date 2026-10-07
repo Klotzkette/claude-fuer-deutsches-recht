@@ -45,9 +45,10 @@
     "changes": [
       "Dokumentwahl, stille Dateilektüre und sofortiger Arbeitsbeginn; neue Versorgungsunterlagen ändern nur den nachgewiesenen Betriebsumfang, Anzeigeunterlagen die Terminbewertung.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
-      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
+      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "94a2491e829b0c1c7f66be6149a44baacbfa301a429bafc34ac757360b096e83"
+    "sha256": "e68379a331f123071e64013498b0c1ac5e4b288cebad51bca6985970ca4c3e43"
   },
   "selection": {
     "positive": [
@@ -99,9 +100,10 @@
     "changes": [
       "Substantielle Arbeitswege vom Wasserbescheid und Versorgungsvertrag zur Betriebsentscheidung, von Änderungsunterlagen zum Termin und vom Gegenbefund zur angepassten Einwendung ergänzt.",
       "EuGH C-535/18 unmittelbar mit vorheriger Gewässerprüfung und einzelnen Messstellen verknüpft, keine automatische Unzulässigkeit jeder Entnahme.",
-      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz."
+      "Konzentrationsgrenzen und Entscheidung zum Betriebsstart konkret ausgearbeitet; Werkstatt mit getrennten Maßstäben für Messwerte, Sanierung und Naturschutz.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5d6479e0a923f17477af2bde49723c9ce44beb21e3372c6fe173ad9871d0f2d4"
+    "sha256": "87f87a515b1c75de09ecee2ec4723777cfbd9f87719126062222754acef8eb5b"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -41,7 +41,7 @@ BeurkG Paragrafen 10, 12, 16 und 16c, gegebenenfalls GwG Paragrafen 10 bis 12 na
 
 ## 5. Ausgabeformat
 
-Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
+Beteiligtenblatt mit Quelle und Status, daneben ein vollständig formuliertes Terminanschreiben. Kein fertiger Beglaubigungsvermerk mit behaupteter Anwesenheit. Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, vollständige Sätze. Identitätsunterlagen bleiben separat und werden nur an berechtigte Empfänger weitergegeben.
 
 ## 6. Beispiel
 

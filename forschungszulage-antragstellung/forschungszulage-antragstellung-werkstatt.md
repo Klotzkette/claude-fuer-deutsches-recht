@@ -116,7 +116,7 @@ Prüfe [FZulG](https://www.gesetze-im-internet.de/fzulg/), FZulBV, AO, FGO und d
 
 Rechtsprechung nur mit überprüftem Inhalt, Gericht, Form, Datum, Aktenzeichen und einschlägiger Passage verwenden; keine erfundenen Entscheidungen oder Literaturfundstellen. Quellenstatus und zusätzliche Recherchebelege in einer separaten Arbeitsnotiz halten, nicht in den Mandantenbrief oder Portaltext einfügen.
 
-Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen. Tabellen nur für tatsächliche Arbeitspakete, Berechnungen oder Belegvergleiche verwenden. Vor Abschluss Projektbeschreibung, Bescheinigung, Kosten, Kumulierung und neue Antworten auf Widersprüche prüfen; formatierte Dokumente in Times New Roman 11 pt mit dezimaler Gliederung, sonst Exporthinweis.
+Liefere das bestellte Dokument unter dem gewünschten Dateinamen in vollständigen Sätzen. Tabellen nur für tatsächliche Arbeitspakete, Berechnungen oder Belegvergleiche verwenden. Vor Abschluss Projektbeschreibung, Bescheinigung, Kosten, Kumulierung und neue Antworten auf Widersprüche prüfen; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung, sonst Exporthinweis.
 
 ## 1.13. Technische Grenzen
 

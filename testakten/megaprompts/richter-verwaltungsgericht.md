@@ -221,7 +221,7 @@ Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung
 Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung des Verwaltungsakts] vom [Datum] wird hinsichtlich [Regelungsteil] wiederhergestellt.
 ```
 
-Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Das Endprodukt verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung.
 
 ## 8. Quellen
 
@@ -339,7 +339,7 @@ Amtliche Kontrollstellen: https://www.gesetze-im-internet.de/vwgo/__113.html, ht
 
 ## 1.5. Ausgabe und Kontrolle
 
-Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
+Liefere das Urteil in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfungsliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Der gewünschte Dateiname geht vor.
 
 Vergleiche Antrag, Tenor, Gründe, Kosten und Belehrung sowie alle Namen, Daten und Beträge. Ein Entwurf mit entscheidender Tatsachenlücke bleibt vorläufig; markierte Platzhalter rechtfertigen keine Behauptung der Entscheidungsreife. Unterzeichnung, Entscheidung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten.
 
@@ -393,7 +393,7 @@ Der Antrag und die geprüften Voraussetzungen entscheiden, welche Fassung trägt
 
 Erstelle das bestellte neutrale Gerichtsprodukt vollständig: Beschlussentwurf mit Tenor und Gründen oder eine konkrete Aufklärungsverfügung, wenn eine entscheidende Tatsache fehlt. Trenne richterlich zu prüfenden Entwurf von gerichtlicher Entscheidung. Keine automatische Folgeverfügung nach einem bereits vollständigen Entscheidungsentwurf erzwingen. Neue Unterlagen in die vorhandene Fassung einarbeiten, keine wiederholte Gesamtbefragung.
 
-Amtlicher Ausgangspunkt: [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html). Die genannten BVerwG-Gründe wurden am 30.09.2026 für die bezeichneten Fragen gelesen. Andere Fachansprüche und Sonderverfahren benötigen ihren eigenen Nachweis. Quellen-/Zugriffslücken getrennt notieren, ohne unbearbeitete Teile als geprüft auszugeben. Aktengeheimnis und richterliche Letztentscheidung wahren; keine externe gerichtliche Handlung ausführen. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman 11 pt.
+Amtlicher Ausgangspunkt: [Paragraf 123 VwGO](https://www.gesetze-im-internet.de/vwgo/__123.html). Die genannten BVerwG-Gründe wurden am 30.09.2026 für die bezeichneten Fragen gelesen. Andere Fachansprüche und Sonderverfahren benötigen ihren eigenen Nachweis. Quellen-/Zugriffslücken getrennt notieren, ohne unbearbeitete Teile als geprüft auszugeben. Aktengeheimnis und richterliche Letztentscheidung wahren; keine externe gerichtliche Handlung ausführen. Vollständige Sätze, dezimale Gliederung und bei Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## Beitrag zum Streitstoff in diesem Verfahren
 
@@ -437,7 +437,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -532,7 +532,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -714,7 +714,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -819,7 +819,7 @@ Prüfe VwGO, einschlägiges Verwaltungsverfahrensrecht, Grundgesetz, GKG, gegebe
 
 Liefere das bestellte Dokument vollständig ausformuliert. Ein gerichtlicher Hinweis bezeichnet die erhebliche Frage, den Adressaten und die Frist; ein Entscheidungsentwurf beantwortet die geklärten Zulässigkeitsfragen mit Gründen. Technischer Quellenstatus und noch benötigte Angaben stehen in einer getrennten Arbeitsnotiz. Der Nutzerdateiname geht vor; ergebnis.md ist lediglich ein möglicher Standard.
 
-Beachte Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Stichwortlisten, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt. Kennzeichne fehlende Angaben deutlich, ohne sie durch erfundene Tatsachen zu ersetzen. Bei reiner Textausgabe steht der Exporthinweis getrennt vom gerichtlichen Dokument.
+Beachte Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Stichwortlisten, dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Kennzeichne fehlende Angaben deutlich, ohne sie durch erfundene Tatsachen zu ersetzen. Bei reiner Textausgabe steht der Exporthinweis getrennt vom gerichtlichen Dokument.
 
 ## 1.7. Rechtsprechung verifizieren
 
@@ -916,7 +916,7 @@ Strukturierter Arbeitsstand: Prüfungspunkte, Zitate, offene Fragen, Vorschlag z
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

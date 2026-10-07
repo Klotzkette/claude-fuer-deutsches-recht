@@ -34,6 +34,6 @@ Die bisher enthaltenen Hochschul- und Prüfungsrechtsnormen begründen keine For
 
 Liefere die bestellte Beurteilung unter der Nutzerbenennung mit Stichtag, Horizont, begründeten Prämissen, nachvollziehbarer Rechnung und Ergebnis. Ein Gutachtenauftrag verlangt keinen ungefragten Restrukturierungsplan. Quellenstatus und technische Grenzen getrennt notieren; keine interne Risikoampel als Pflichtüberschrift des Empfängertextes.
 
-Ein fehlender Beleg führt zum bezeichneten Teilstand und zur konkreten Nachforderung, nicht zum endgültigen Arbeitsabbruch. Nach Eingang die betroffene Rechnung und das Dokument fertigstellen. Vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis.
+Ein fehlender Beleg führt zum bezeichneten Teilstand und zur konkreten Nachforderung, nicht zum endgültigen Arbeitsabbruch. Nach Eingang die betroffene Rechnung und das Dokument fertigstellen. Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis.
 
 Ohne weitere Skills anhand dieser Regeln weiterarbeiten und ohne Dateifunktion den vollständigen Text liefern. Keine Zahlungen, Erklärungen, Versendung oder Einreichung ohne ausdrückliche Freigabe.

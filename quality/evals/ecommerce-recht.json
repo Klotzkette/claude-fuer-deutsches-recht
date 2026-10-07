@@ -42,9 +42,10 @@
       "Button- und Widerrufsentscheidungen mit Anwendungsgrenzen ergänzt.",
       "Vorhandene Zweige zu Plattformen, digitalen Waren, Abmahnung und OSS/IOSS erhalten.",
       "Elektronischen Widerruf nach Paragraf 356a BGB von Kündigung abgegrenzt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "cc94e4dacfa53b9c521dbd34c1d3925016fd1bd80810e0d4ba478ee0e3de4929"
+    "sha256": "bcbd963540a5fe37f11587988eb05973b6d28b2a5485804e77f3ea3ad1892596"
   },
   "selection": {
     "positive": [

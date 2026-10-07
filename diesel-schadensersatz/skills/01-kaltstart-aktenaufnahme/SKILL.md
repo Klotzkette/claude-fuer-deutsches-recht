@@ -110,6 +110,14 @@ Es gilt `references/zitierweise.md` (Rechtsprechung vor Literatur, neueste zuers
 
    Startkarte, dokumentenscharfes Inventar und strukturierte Kaufakte mit Stammdaten und Lückenliste. Ab drei Dokumenten oder wiederkehrenden Feldern enthält das Inventar die Spalten Dokument-ID, Datei, Datum, Absender, Inhalt, Fundstelle, Beweiswert, Konflikt und Lücke; sonst werden dieselben Angaben vollständig in Absätzen oder einer kurzen Liste ausgegeben. Bei Werkzeugnutzung bleiben `aktenstart-manifest.json` und `aktenstart-startkarte.md` Teil der Kontrollspur. Alle Texte sind vollständig ausformuliert; bloße Stichwortsammlungen sind als Endprodukt unzulässig. Auf Wunsch zusätzlich als `fallakte.json` oder `dms-register.csv` über Skill 20.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiele
 
 - Nutzer schreibt "Neuer Fall, mach die Akte fertig" und hängt Kaufvertrag, Rückrufbrief und Kontoauszug an: Die erste Antwort ist Startkarte (gelb, Kilometerstand fehlt), Inventar mit drei Dokument-IDs, Stammdaten-Kern mit Fundstellen und Lückenliste; nächster Skill 06. Keine einzige Rückfrage, weil die Startkarte ohne Antworten steht.

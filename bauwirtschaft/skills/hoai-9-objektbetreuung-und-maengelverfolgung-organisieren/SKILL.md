@@ -65,7 +65,7 @@ Es gelten [Zitierweise](../../references/zitierweise.md), [Phasenquellen](../../
 
 Ergebnis ist das vollständig ausformulierte bestellte Dokument samt ausgefüllten Befund-, Fristen- oder Sicherheitenanlagen. Trennen Sie Empfängertext von interner Beleg- und Quellenprüfung. Keine Fristenampel ohne Rechtsgrundlage, keine allgemeine Checkliste anstelle der konkreten Empfehlung.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Vor Ausgabe Vollständigkeit prüfen und nötigenfalls neu schreiben. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausschreiben. Bei Markdown Exporthinweis getrennt nennen; keine nicht erzeugte Datei, nicht erfolgte Begehung oder wirksame Fristsicherung behaupten.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Vor Ausgabe Vollständigkeit prüfen und nötigenfalls neu schreiben. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausschreiben. Bei Markdown Exporthinweis getrennt nennen; keine nicht erzeugte Datei, nicht erfolgte Begehung oder wirksame Fristsicherung behaupten.
 
 ## 6. Beispiele
 

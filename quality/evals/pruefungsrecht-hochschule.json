@@ -37,9 +37,10 @@
       "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
       "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
       "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
-      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "49190048eb2b36e800f94930ff9a1552947534b2f1461165f2b3644b0b4bec25",
+    "sha256": "43ff507c9a9a482eb8bd98e58807d1d7934044409ccb461df0ca22cfa759fc84",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -50,9 +51,10 @@
       "Beide Einstiege und Rechtsprechungsanwendung an abgegebene Antwort und Rügefolge gebunden.",
       "Unverifizierte Kapazitätsfundstellen ersetzt; differenzierte Störungs-, Krankheits-, Täuschungs- und Nachteilsausgleichswege beibehalten.",
       "Prüfer bestätigt Seitenlektüre -> Übersehenseinwand durch belegte fachliche Rüge ersetzen oder fallenlassen.",
-      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist."
+      "Uploadversuch gegen Eingangsnachweis, funktionaler Nachteilsausgleich gegen Rücktritt, eigenständige Rechtsbehelfsfrist.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "61fe6fa071ec784a981ced8b2e5d6af66e3af264a04a9008d982b45e7c7e8af0",
+    "sha256": "2faa493fbc44c76f403bcf4091e54a0d104668270e61ec76dd3114f7a5c9f7f8",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

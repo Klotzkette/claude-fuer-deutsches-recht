@@ -33,7 +33,7 @@ GwG Paragraf 5, Anlagen 1 und 2, nationale Risikoanalyse sowie zuständige Aufsi
 
 ## 5. Ausgabeformat
 
-Vollständig begründete Risikoanalyse mit knapper Tabelle zu Geschäft, Risiko, Kontrolle, Nachweis und verbleibender Lücke; Freigabevorlage an die Leitung. Times New Roman 11 pt, dezimale Gliederung.
+Vollständig begründete Risikoanalyse mit knapper Tabelle zu Geschäft, Risiko, Kontrolle, Nachweis und verbleibender Lücke; Freigabevorlage an die Leitung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung.
 
 ## 6. Beispiele
 

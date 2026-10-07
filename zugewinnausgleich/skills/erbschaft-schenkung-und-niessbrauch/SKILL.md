@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [amtliche Quellen](../.
 
 ## 5. Ausgabeformat
 
-Erstelle einen ausformulierten Erwerbs- und Bewertungsvermerk oder die bestellte Erwiderung mit nachvollziehbarer Rechnung. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen, bei Markdown separater Exporthinweis. Gutachterfragen stehen getrennt vom Empfängertext.
+Erstelle einen ausformulierten Erwerbs- und Bewertungsvermerk oder die bestellte Erwiderung mit nachvollziehbarer Rechnung. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen, bei Markdown separater Exporthinweis. Gutachterfragen stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 

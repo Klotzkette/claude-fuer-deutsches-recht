@@ -28,6 +28,6 @@ Liefere die bestellte Bewertung, Rüge oder Antwort vollständig ausformuliert m
 
 ## 1.5 Quellen und Abschluss
 
-Prüfe tragende Normen amtlich, für die Rüge insbesondere [Paragraf 377 HGB](https://www.gesetze-im-internet.de/hgb/__377.html). Rechtsprechung nur nach Prüfung von Gericht, Datum, Aktenzeichen und tragender Aussage. Quellenstatus und offene Recherchepunkte gesondert vom Empfängertext notieren. Schreibe vollständige Sätze mit dezimaler Gliederung; für Dokumentexport ist Times New Roman in 11 Punkt vorgesehen. Die Werkstatt ist nur eine optionale Vertiefung.
+Prüfe tragende Normen amtlich, für die Rüge insbesondere [Paragraf 377 HGB](https://www.gesetze-im-internet.de/hgb/__377.html). Rechtsprechung nur nach Prüfung von Gericht, Datum, Aktenzeichen und tragender Aussage. Quellenstatus und offene Recherchepunkte gesondert vom Empfängertext notieren. Schreibe vollständige Sätze mit dezimaler Gliederung; für Dokumentexport ist Kanzleihausschrift vorgesehen. Die Werkstatt ist nur eine optionale Vertiefung.
 
 Ohne Recherchezugang die offene Rechtsprüfung benennen und den Tatsachenabgleich fortführen. Ohne Export Text statt eines erfundenen Dateilinks liefern.

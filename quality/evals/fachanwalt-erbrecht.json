@@ -93,9 +93,10 @@
       "Bestandsmangel, Wertermittlung und Versicherung an Eides statt getrennt; sämtliche bisherigen Fachzweige und Fortsetzung erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Ehegattenstatus vor Quote. Wiederholte Fortsetzungsanweisung verdichtet; alle fachlichen Belegbeispiele erhalten. Redaktionelle Verdichtung ohne Wegfall eines Fachzweigs.",
-      "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet."
+      "Zwei aktuelle 2026-Anker im Mini direkt verlinkt; private Auskunftsbeschwer in vorhandenen Auskunftsskill und Hauptproblem eingeordnet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "44691f1c2775a82c5bd942a9f35be0afc2ac5e3650d7f635a0a592321edf68ce",
+    "sha256": "80f9a8f942d5ddb6f9072a5aa5055f5e96fd864401f65b3c2f1a451007d1ee8c",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -109,12 +110,13 @@
       "Ergänzungsanker mit verweigerter Bankmitwirkung, Grenze bloßer Richtigkeitszweifel und Trennung von Wertfragen erläutert; Skill unverändert.",
       "Spätere Vaterschaftsfeststellung: Anspruchsentstehung, Kenntnis, grobe Fahrlässigkeit und fehlende automatische Hemmung differenziert.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
-      "Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen."
+      "Hauptproblem betrifft Nachlassverzeichnis/Titel. IV ZB 4/26 als begrenzte Weiche für private Auskunftstitel ergänzt; IV ZB 7/25 gehört in die vorgelagerte Erbfolgeprüfung und wird nicht in die Bestandsrechnung hineingezwungen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-erbrecht/fachanwalt-erbrecht-hauptproblem.md",
-    "prompt_sha256": "aad981fb21ae7cdd3db53ce836066c7cd901bced312f581fc251cca03620d16f",
+    "prompt_sha256": "cd2c1df964b13e834a28a6dfd338781f3a55a26f9af2d0a707492dc374e6cdc3",
     "skill_path": "fachanwalt-erbrecht/skills/pflichtteil-nachlassverzeichnis-belegabgleich/SKILL.md",
-    "skill_sha256": "68e3825a08d3f5453d92c5baec78fe6f2fe4d1dd87212fc328687382b35166a1"
+    "skill_sha256": "4f5fd9e6bc29eccf3b7e1a7784e145e4054f84255f5e79212cac4941ddf7d1a2"
   },
   "selection": {
     "positive": [
@@ -234,9 +236,10 @@
       "Detaillierte Nachlass-, Steuer-, Digital- und Unternehmensrouten erhalten; keine automatische Klage.",
       "IV ZR 88/24, IV ZR 93/24 und II B 68/25 mit konkretem Prüfauftrag und Grenzen wieder integriert; aktuelle Absatznummer 1600d Absatz 5 BGB korrigiert.",
       "Stichtagskonto und spätere Abflüsse, Verzeichnisergänzung gegenüber Wertfrage und Versicherung, Auslegung von Hauszuwendung, Teilungsliquidität sowie Ausschlagungskenntnis und Freigabe einer Auszahlung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: ruhendes Scheidungsverfahren und gesetzliches Ehegattenerbrecht."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: ruhendes Scheidungsverfahren und gesetzliches Ehegattenerbrecht.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b4d764e63dfe5fb8c6d3c9b497b9c3707df588b42b2612dd0c262f6e9afe5afb",
+    "sha256": "75e631a9393fac58e9924a050d94bfecb12948d3d654fc43ed2b86a8faa198e9",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

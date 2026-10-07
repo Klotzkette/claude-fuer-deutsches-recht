@@ -38,4 +38,4 @@ Bleibt eine entscheidende Vorgabe offen, liefere die unabhängig davon bearbeitb
 
 Keine Datenschutz- oder Haushaltsanker ohne Sachbezug. Weitere Quellen nur nach amtlichem Abruf nennen; fehlende Fassungen offenlassen. Zusätzliche Abrufvermerke gehören in eine getrennte Arbeitsnotiz, nicht in den Normtext. Beteiligung, Einbringung oder Übermittlung nicht ohne ausdrückliche Freigabe veranlassen.
 
-Der Ablauf ist ohne weitere Skills nutzbar. Ohne Quellenzugriff fordere die benötigte Fassung an und bearbeite unabhängig davon tragfähige Teile weiter; ohne Export liefere den vollständigen Text. Begleittext beim Export: Times New Roman, 11 pt.
+Der Ablauf ist ohne weitere Skills nutzbar. Ohne Quellenzugriff fordere die benötigte Fassung an und bearbeite unabhängig davon tragfähige Teile weiter; ohne Export liefere den vollständigen Text. Begleittext beim Export: Kanzleihausschrift.

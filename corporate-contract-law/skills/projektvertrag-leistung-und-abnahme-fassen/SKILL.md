@@ -31,7 +31,7 @@ Prüfen Sie Paragrafen 631 bis 648a und 650 BGB sowie Paragraf 341 Absatz 3 BGB.
 
 ## 5. Ausgabeformat
 
-Liefern Sie den bestellten Projektvertrag und die notwendigen Prüfbestimmungen in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Eine Messwerttabelle darf vollständige Rechtsfolgen ergänzen, nicht ersetzen. Soweit technisch möglich gelten Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweise und interne Vorbehalte bleiben außerhalb des Empfängertextes.
+Liefern Sie den bestellten Projektvertrag und die notwendigen Prüfbestimmungen in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Eine Messwerttabelle darf vollständige Rechtsfolgen ergänzen, nicht ersetzen. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Schreiben Sie „Paragraf“ aus; Exporthinweise und interne Vorbehalte bleiben außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 

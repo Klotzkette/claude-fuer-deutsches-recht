@@ -371,7 +371,7 @@ Prüfvermerk ausformulieren: „Wir haben die Fassung vom [Datum] anhand der in 
 
 ## 5. Ausgabeformat
 
-Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 
@@ -431,7 +431,7 @@ Selbstbehalt bei versichertem Leitungswasserschaden nach BGH, Urt. v. 16.09.2022
 
 ## 5. Ausgabeformat
 
-Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 
@@ -558,7 +558,7 @@ Verfasse die tatsächlich benötigten VVT-Einträge, den Dienstleisterprüfverme
 
 ## 5. Ausgabeformat
 
-Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
+Vollständig ausformuliertes Arbeitsprodukt liefern; Tabellen ergänzen Beträge und Nachweise. Keine bloßen Platzhalterlisten als Endergebnis. Sachstand, offene Frage und Empfehlung kenntlich trennen. Bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Fehlende entscheidende Daten gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Versand, Veröffentlichung und verbindliche Aufträge nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 
@@ -742,7 +742,7 @@ Eigentümeranschreiben erläutert Betrag, Rechtsgrund, Fälligkeit und Einsichts
 
 ## 5. Ausgabeformat
 
-Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
+Das beauftragte Ergebnis vollständig in ausformulierten Sätzen liefern. Keine leeren Vertragsskelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Tabellen dürfen die Zahlen und Nachweise strukturiert ergänzen. Für formatierte Enddokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden; bei Markdown einen getrennten Exporthinweis geben. Interne Prüfnotizen und offene Belegfragen vom versandfähigen Empfängertext trennen. Fehlende entscheidende Tatsachen gezielt nachfragen und bereits bearbeitbare Teile fertigstellen. Externer Versand oder verbindlicher Auftrag erfolgt nur bei entsprechender Beauftragung.
 
 ## 6. Beispiel
 

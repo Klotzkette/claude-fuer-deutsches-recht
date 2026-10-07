@@ -35,9 +35,10 @@
     "changes": [
       "OGH 2 Ob 95/06v tatsächlich angewendet: nationale Gewährleistungsverweise können CISG jedenfalls teilweise ausschließen; kein Automatismus oder deutsche Präjudizienbindung.",
       "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f9457168774732f06b942003ec6d2a2479c6351dd828943e13fefd5d712e9d36"
+    "sha256": "cb93d52309c0ee91b37014045b0ba6ec01b577d51047be36949f60606240f1d1"
   },
   "selection": {
     "positive": [
@@ -91,9 +92,10 @@
       "CISG Artikel 1 bis 3, 6, 26, 35, 38, 39, 47, 49 und 74 bis 77 in die konkrete Bearbeitung eingebunden.",
       "Paragraf 458 HGB Selbsteintritt von Paragraf 459 HGB Fixkostenspedition abgegrenzt; UNIDROIT vor staatlichem Gericht und Schiedsgericht getrennt.",
       "Unpräzise EU-Verweise und alte Redaktionshinweise zu eUCP, Digitalrichtlinie und ESG bereinigt.",
-      "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit."
+      "Vertragsfassungen und AGB-Einbeziehung, Waren- gegen Transportschaden, Messwerte gegen Spezifikation, Rüge und Nachfrist sowie Garantieabruf gegen Grundgeschäft getrennt vertieft; Qualität und Härtefall als konkrete Vertragsarbeit.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "108f0244b670b6704851b9379939e418e32284c5118a9efac1a36ebac668846c"
+    "sha256": "ff031a153e3cc1479ea63df9e6609b58b28c4af5586690007870e5276266d15d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

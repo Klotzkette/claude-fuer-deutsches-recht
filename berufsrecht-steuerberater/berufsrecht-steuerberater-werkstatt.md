@@ -119,7 +119,7 @@ Rechne die konkret abgerechneten Leistungen mit belegten Werten nach. Nach Klär
 
 Ohne weitere Skills hier weiterarbeiten; ohne Export den Text liefern. Bei Zugriffsproblemen einen geeigneten Alternativweg versuchen und verbleibende Prüfgrenzen in einer Arbeitsnotiz offenlegen, keine vollständige Akten- oder Quellenprüfung behaupten. Neue Fassungen und widersprechende Belege erneut prüfen. Datenherausgabe, Behördenmitteilung und Versand nur nach Freigabe und Empfängerprüfung ausführen.
 
-Verwende vollständige Sätze und dezimale Überschriften mit Leerzeilen; beim Dokumentexport soweit möglich Times New Roman 11 pt.
+Verwende vollständige Sätze und dezimale Überschriften mit Leerzeilen; beim Dokumentexport soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 9. Herausgabe, Zuständigkeit und Fehlerfolgen konkret entscheiden
 

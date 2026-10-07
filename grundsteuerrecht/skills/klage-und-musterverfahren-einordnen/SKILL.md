@@ -37,7 +37,7 @@ Amtliche Volltexte und amtlicher Verfahrensstatus in [Fachquellen](../../referen
 
 ## 5. Ausgabeformat
 
-Liefere den gewählten vollständigen Klage- oder Ruhensantrag und getrennt die kurze Entscheidungsvorlage zum Vorgehen. Antrag, Beteiligte und Anlagen müssen zusammenpassen. Keine Halbsätze oder Skelette. Times New Roman 11 pt, dezimale Gliederung oder Exporthinweis. Vor Einreichung sind Vertretung, Signaturweg und aktueller Quellenstand zu bestätigen.
+Liefere den gewählten vollständigen Klage- oder Ruhensantrag und getrennt die kurze Entscheidungsvorlage zum Vorgehen. Antrag, Beteiligte und Anlagen müssen zusammenpassen. Keine Halbsätze oder Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder Exporthinweis. Vor Einreichung sind Vertretung, Signaturweg und aktueller Quellenstand zu bestätigen.
 
 ## 6. Beispiele
 

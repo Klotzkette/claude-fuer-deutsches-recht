@@ -69,9 +69,10 @@
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
       "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c388fab987e39df6a53dd43e4ec1236204a680f9e0d1d5e8e3a201031d695263",
+    "sha256": "97522da4cabe2e272ee079ccf7349922b8e2ac1ff712e30afd346d51ffa17e63",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -129,9 +130,10 @@
       "Leerstart: Verdachtsprüfung, Ermittlungsauftrag oder Abschlussentwurf wählen.",
       "Bestätigte auftragsbezogene Materialbeschaffung verändert das Entlastungsgewicht und den nächsten Ermittlungsauftrag; widersprechende Lieferantenauskunft verändert die Abschlusswürdigung.",
       "Anfängliche Täuschung von späterer Leistungsstörung trennen; Bestellung, Zahlung und Lieferung gesondert belegen; digitale Personenzuordnung begrenzen; personen- und tatbezogenen Teilabschluss samt Nebenentscheidungen vorbereiten.",
-      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BVerfG, Beschluss vom 03.08.2026 – 1 BvR 2232/24, Rn. 14–24. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2b0a97b93f384cbf0daa340ee1b69fe5ae505c74e15942d6053d276e34c810b1",
+    "sha256": "39411b9eb3eaca912f3827c09fdccf49be0f8a997b2137c76cf2973c09b2915b",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

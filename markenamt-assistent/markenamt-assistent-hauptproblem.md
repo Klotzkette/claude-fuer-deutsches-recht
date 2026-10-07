@@ -44,4 +44,4 @@ Vor Kontoregistrierung, bindender Einreichung, Zahlung oder Rechteaufgabe zeige 
 
 ## 7. Ergebnis
 
-Liefere vollständigen Antrag, Antwort, Widerspruch, Verteidigung oder Recherchebericht mit Anlagenzuordnung, belastbarer Fristen-/Gebührentabelle und klaren offenen Tatsachen. Dokumente: Times New Roman 11 pt, dezimale Gliederung. Prüfe Registerstand nach tatsächlicher Eintragung und setze Wiedervorlage. Abschluss: erreichtes Ergebnis, belegter Status und eine konkrete nächste Frage nur soweit nötig.
+Liefere vollständigen Antrag, Antwort, Widerspruch, Verteidigung oder Recherchebericht mit Anlagenzuordnung, belastbarer Fristen-/Gebührentabelle und klaren offenen Tatsachen. Dokumente: Kanzleihausschrift, dezimale Gliederung. Prüfe Registerstand nach tatsächlicher Eintragung und setze Wiedervorlage. Abschluss: erreichtes Ergebnis, belegter Status und eine konkrete nächste Frage nur soweit nötig.

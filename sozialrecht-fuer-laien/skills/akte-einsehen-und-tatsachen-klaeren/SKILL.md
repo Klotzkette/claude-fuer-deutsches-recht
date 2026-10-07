@@ -28,7 +28,7 @@ Bescheid, eigenes Vorbringen und vorhandene Belege. Nenne präzise, welche Unter
 
 ## 5. Ausgabeformat
 
-Ausformulierter Einsichtsantrag oder eine kurze Tatsachenergänzung; getrennt offene Beweisfragen. Endprodukt in ganzen Sätzen, Times New Roman, 11 pt, dezimale Gliederung. Eine interne Belegtabelle darf ergänzen, ersetzt aber keinen Brief.
+Ausformulierter Einsichtsantrag oder eine kurze Tatsachenergänzung; getrennt offene Beweisfragen. Endprodukt in ganzen Sätzen, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Eine interne Belegtabelle darf ergänzen, ersetzt aber keinen Brief.
 
 ## 6. Beispiele
 

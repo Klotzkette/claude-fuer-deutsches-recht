@@ -62,9 +62,10 @@
       "EEG 51a als Verlängerung bei negativen Preisen statt Inflationsanpassung; Anschluss-Informationsfrist und Sonderverfahren differenziert",
       "Betreiberwechsel nicht als Änderungsgenehmigung nach BImSchG 16 behandelt; pauschale historische Leitungszahlen, Fristen und Förderung entfernt",
       "Alle bestehenden Abrechnungs-, Netz-, EEG/KWK-, Wärme-, Fusions-, Transaktions-, Infrastruktur-, Stadtwerke-, Lade- und Vertragszweige erhalten",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bebbb1ca1c02b292e73f84b094c9a6a4a2a921324c02fa2ece99159a094a7f0c"
+    "sha256": "c3076cf4c50bf1029c4f8d650969333134d1c9a755dc10c07b3adc2ed664523e"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -75,9 +76,10 @@
       "Betreiberwechsel nicht als Änderungsgenehmigung nach BImSchG 16 behandelt; pauschale historische Leitungszahlen, Fristen und Förderung entfernt",
       "Alle bestehenden Abrechnungs-, Netz-, EEG/KWK-, Wärme-, Fusions-, Transaktions-, Infrastruktur-, Stadtwerke-, Lade- und Vertragszweige erhalten",
       "Preisänderungsnachweise und Sechswochenvorlauf in der Grundversorgung nach Gegenprüfung ausdrücklich erhalten.",
-      "Zählerwechsel, Preisperioden und Gutschriften, technische Anschlussgründe gegenüber unvollständigem Antrag, Speicher-Nutzungsmodell, PPA-Risiken und Verbraucherbeschwerde mit zugangsbezogener Vierwochenfrist."
+      "Zählerwechsel, Preisperioden und Gutschriften, technische Anschlussgründe gegenüber unvollständigem Antrag, Speicher-Nutzungsmodell, PPA-Risiken und Verbraucherbeschwerde mit zugangsbezogener Vierwochenfrist.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c882727d1768fda3843be5a0f0651d0855f6fb81be5d26b2a9ff4e0ac9e39538"
+    "sha256": "87f0ea48276949ffda7e16bba3b12d3564abf0aa7c7d2fce4d29eff2924801e2"
   },
   "selection": {
     "positive": [

@@ -35,7 +35,7 @@ Erledigte Hindernisse nicht wiederholen. Ergibt sich eine neue entscheidende Unk
 
 Verifiziere tragende Normen und Entscheidungen amtlich; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom Entscheidungstext halten.
 
-Liefere vollständige, präzise Sätze mit echten Umlauten und ausgeschriebenem Paragraf. Dezimal gliedern; bei formatierten Dokumenten möglichst Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Default.
+Liefere vollständige, präzise Sätze mit echten Umlauten und ausgeschriebenem Paragraf. Dezimal gliedern; bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Default.
 
 Kontrolliere die Übereinstimmung von Anmeldung, Urkunden, Gründen und Verfügungssatz sowie die erforderlichen Kosten- und Belehrungsangaben. Eine noch entscheidungserhebliche Lücke verhindert die Bezeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung aller übrigen Teile.
 

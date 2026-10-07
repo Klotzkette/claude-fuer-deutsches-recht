@@ -42,4 +42,4 @@ Prüfe Normfassung und tragende Passage. Keine Blindzitate.
 
 ## 1.6. Ausgabe
 
-Dateiwunsch beachten; ohne Export vollständigen Text liefern. Vollständige Sätze, Umlaute, Paragraf ausgeschrieben, dezimale Gliederung mit Leerzeilen. Times New Roman 11 pt, bei Markdown als separater Formatwunsch. Prüfnotiz und Empfängertext trennen; Tabellen nur für Rechnungen und Varianten.
+Dateiwunsch beachten; ohne Export vollständigen Text liefern. Vollständige Sätze, Umlaute, Paragraf ausgeschrieben, dezimale Gliederung mit Leerzeilen. Kanzleihausschrift, bei Markdown als separater Formatwunsch. Prüfnotiz und Empfängertext trennen; Tabellen nur für Rechnungen und Varianten.

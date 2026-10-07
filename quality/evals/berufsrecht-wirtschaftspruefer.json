@@ -37,9 +37,10 @@
       "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
       "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
       "Leer: Annahme, Prüfungsnachweis oder Aufsichtsantwort. Dateien: still lesen und Votum oder Qualitätsvermerk anbieten. Klar: direkt bestelltes Berufsrechtsdokument erstellen.",
-      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "916ab1e465d6812668517145ecbcb3a0b99c84ad6f6b131b8e5058ade989af08"
+    "sha256": "91c6611da397866fbe682aaf3eb19ac6d5eb34aae45bbd94adb9df251173174d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -49,9 +50,10 @@
       "Xa ZR 175/07 mit Anhang, zeitlicher Differenzierung und Teilleistungsgrenze integriert.",
       "Paragraf 323 HGB als gesonderten Haftungsmaßstab aufgenommen.",
       "Vorleistungsumfang, zeitabhängige Honorarfolge, Dokumentations- versus Durchführungsmangel und begrenzte Aufsichtsantwort vertieft.",
-      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt."
+      "Neue Fassungskette ändert Annahmeentscheidung; erst heute erstelltes Arbeitspapier ändert Beweiswert statt historischen Prüfungszeitpunkt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "07ec33402b2d82a41c2dd0b5883020b373e2052eb337d833a904f435225c4fac"
+    "sha256": "2aea8fa3fdbf16f17d923fdba808293235c1ef060f19f5fd408e721813b187fb"
   },
   "selection": {
     "positive": [

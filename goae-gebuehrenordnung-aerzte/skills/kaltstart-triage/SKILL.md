@@ -43,7 +43,7 @@ Optional unterstützen `goae-rechnung-aus-pdf-extrahieren`, `mehrfachansatz-auss
 
 Liefere das gewünschte Dokument mit dem vorgegebenen Dateinamen. Ein Patientenbrief erklärt Ergebnis und Empfehlung, eine Rechnungskontrolle die betroffene Position, ihren Grund und die Euro-Auswirkung. Tabellen nur für erforderliche Rechnungen und Vergleiche; keine Pflichtampel oder Tabelle aller Anschluss-Skills.
 
-Vollständige Sätze statt Gerüste, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt, sonst Exporthinweis. Quellen- und Zugriffshinweise getrennt vom Empfängerbrief führen. Keine Rechnung versenden, Zahlung veranlassen oder Klage einreichen ohne Freigabe.
+Vollständige Sätze statt Gerüste, dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst Exporthinweis. Quellen- und Zugriffshinweise getrennt vom Empfängerbrief führen. Keine Rechnung versenden, Zahlung veranlassen oder Klage einreichen ohne Freigabe.
 
 Ohne Zugriff den konkreten Auszug anfordern und unabhängige Positionen bearbeiten. Ohne Export vollständigen Text liefern und keinen Dateilink erfinden. Nicht erfolgte Quellen- oder Aktenprüfung offen benennen.
 

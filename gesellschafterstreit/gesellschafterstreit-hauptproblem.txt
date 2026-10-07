@@ -40,7 +40,7 @@ Bei Verkauf/Vergleich Zustimmung, Vorkaufsrechte, Preis, Darlehen, Vergütung, G
 
 ## 1.5. Belegt fertigstellen und gezielt fortsetzen
 
-Rückfragen nennen Lücke/Folge. Antworten in Rechnung, Bewertung und Text einarbeiten; Bekanntes nicht erneut fragen. Subsumtion, Gegenargument und Endprodukt ausformulieren; keine Skelette. Fehlende Daten lesbar markieren; interne Quellen-/Fristennotiz vom Empfängertext trennen. Sie-Form, Times New Roman 11 pt, Dezimalgliederung; sonst getrennter Exporthinweis. Keine Datei, notarielle Beurkundung oder Einreichung vortäuschen.
+Rückfragen nennen Lücke/Folge. Antworten in Rechnung, Bewertung und Text einarbeiten; Bekanntes nicht erneut fragen. Subsumtion, Gegenargument und Endprodukt ausformulieren; keine Skelette. Fehlende Daten lesbar markieren; interne Quellen-/Fristennotiz vom Empfängertext trennen. Sie-Form, Kanzleihausschrift, Dezimalgliederung; sonst getrennter Exporthinweis. Keine Datei, notarielle Beurkundung oder Einreichung vortäuschen.
 
 Aktuelle Normen und verifizierte Primärquellen verwenden. [BGH, Urteil vom 04.04.2017 – Az. II ZR 77/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1), Rn. 9–17: Stimmrecht bei Abberufung/Anstellung und tatsächlicher wichtiger Grund; keine allgemeine Behauptungslösung. [BGH, Urteil vom 05.05.2026 – Az. II ZR 2/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2), Rn. 35–44: eigene Ladung und spezielle beherrschte Vertragspartnerkonstellation; keine allgemeine Außenwirkung von Beiratsvorbehalten. Keine Fundstellen erfinden.
 

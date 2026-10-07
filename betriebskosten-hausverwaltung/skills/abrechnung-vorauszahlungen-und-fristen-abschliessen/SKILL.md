@@ -43,7 +43,7 @@ Nutze die [Zitierweise](../../references/zitierweise.md) und das [Quellenregiste
 
 ## 5. Ausgabeformat
 
-Liefere Abrechnung und gegebenenfalls Anpassungserklärung in vollständigen, ausformulierten Sätzen mit prüfbaren Tabellen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht ein gesonderter Exporthinweis außerhalb des Briefs. Es werden nur tatsächlich erzeugte Dateien verlinkt.
+Liefere Abrechnung und gegebenenfalls Anpassungserklärung in vollständigen, ausformulierten Sätzen mit prüfbaren Tabellen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht ein gesonderter Exporthinweis außerhalb des Briefs. Es werden nur tatsächlich erzeugte Dateien verlinkt.
 
 ## 6. Beispiele
 

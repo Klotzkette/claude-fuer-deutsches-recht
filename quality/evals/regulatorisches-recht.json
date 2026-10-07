@@ -36,9 +36,10 @@
       "C-15/16 mit Paragraf 21 WpHG und Paragraf 3 Nummer 4 IFG verknüpft.",
       "Eröffnung auf Datenreichweite, richtige Konzerneinheit und konkreten Vertragsinhalt zugeschnitten.",
       "Nachgereichte Preisliste -> Einbeziehung, Leistungsumfang und Vorrangklausel statt pauschaler Lückenbefund.",
-      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe."
+      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4798152d46333cc10358f2ecd269fe2eb61142deecfe0c96bfdf45b9932ae114",
+    "sha256": "55ccea7a702085cd61deceae53ffb392257cc8a649876455f22c381ce26bec20",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -49,9 +50,10 @@
       "C-15/16 mit Paragraf 21 WpHG und Paragraf 3 Nummer 4 IFG verknüpft.",
       "Eröffnung auf Datenreichweite, richtige Konzerneinheit und konkreten Vertragsinhalt zugeschnitten.",
       "Nachgereichte Preisliste -> Einbeziehung, Leistungsumfang und Vorrangklausel statt pauschaler Lückenbefund.",
-      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe."
+      "Konzern-/Kennzahlenabgrenzung, Vorfallhilfeklausel, Kontrolle vorhanden versus neu einzuführen, Zusagefreigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "87cee88e2fd728d2a3d3aff8b57bf61b698b86258d396c253d733dbfb1b75a37",
+    "sha256": "2b7d03e9bfba0a6e2226aae1470ac0fd0572cf0a014f8175e4a13148b2149cad",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

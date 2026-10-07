@@ -29,7 +29,7 @@ Prüfen Sie insbesondere Paragrafen 2 bis 5 GeschGehG, Paragrafen 305 bis 310 BG
 
 ## 5. Ausgabeformat
 
-Liefern Sie die NDA oder bestellten Klauseln vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; schreiben Sie „Paragraf“ aus. Halten Sie Exporthinweise bei Markdown und interne Maßnahmenempfehlungen vom vereinbarten Pflichtentext getrennt.
+Liefern Sie die NDA oder bestellten Klauseln vollständig in ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu formulieren. Soweit technisch möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; schreiben Sie „Paragraf“ aus. Halten Sie Exporthinweise bei Markdown und interne Maßnahmenempfehlungen vom vereinbarten Pflichtentext getrennt.
 
 ## 6. Beispiele
 

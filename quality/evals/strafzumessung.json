@@ -117,9 +117,10 @@
       "Fortdauernde Tat nach Beendigung zuordnen und Erledigungsstand weiterhin eigenständig prüfen.",
       "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
       "Konkrete Fortsetzung bei bezahlter Vorstrafe, nur versprochener Entschädigung und Bewährungsprognose; Mini unter beiden 7500-Grenzen.",
-      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
+      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3c6b23a95ba7a781144a875c62405fd34d364954a81c45ed68bd6e4f12ea8709",
+    "sha256": "2f0e5d4be7269946e81581e29658994203069aa847d19c868ae00e9c2eaf50ed",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -240,9 +241,10 @@
       "Keine numerische Gesamtstrafe aus Zäsurentscheidung abgeleitet und kein erneutes Anfordern bereits vorliegender Urteile.",
       "Neue Arbeitszweige vom Zahlungsbeleg zum Plädoyer, vom Therapieabbruch zur Prognose und von Erledigungsdaten zum passenden Antrag.",
       "Einlegung und Begründung der Revision mit eigenständigen Auslösern; bestimmte Anträge und Freigabegrenzen statt Fehlerliste.",
-      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert."
+      "01.10.2026: 5 StR 623/25 zur Doppelverwertung bloßer Mittäterschaft integriert; gegenteiligen Standardkatalog und vermischte Normzuordnung im §-46-Skill korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "971a5592f76aa353e89d7640b22328691f0de96995e69c91a5615bd017810c45",
+    "sha256": "a833f1cf96ee71ccd6be2a8348a46ba3bc21bb7d1aabdf3a5c98762b0004753e",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

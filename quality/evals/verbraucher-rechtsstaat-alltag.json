@@ -61,9 +61,10 @@
       "Leere Eingabe, Dateien ohne Auftrag und klarer Auftrag ausdrücklich unterschieden; konkrete Zahlungseinwand-Fortsetzung ergänzt.",
       "III ZR 91/07 mit tatsächlichem Verzugsauslöser, Verbraucherhinweis und Grenze für Kosten der ersten anwaltlichen Mahnung in beide Prompts integriert.",
       "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
-      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
+      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "951b092c5425a480cb8c493aa59989c57f9fb527ef217f4d93412462873cb459"
+    "sha256": "11656a2eafd5ec379ce9b4ce28b2003ca1b24a0b4cffdea0733d56dc811a17b5"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -73,9 +74,10 @@
       "Drei Startmodi, konkreter Dokumentabschluss und Freigabegrenzen mit Frist- und Empfängerbezug ergänzt.",
       "III ZR 91/07 mit tatsächlichem Verzugsauslöser, Verbraucherhinweis und Grenze für Kosten der ersten anwaltlichen Mahnung in beide Prompts integriert.",
       "Vollstreckungsbescheid mit Einspruch und eigenständiger Vollstreckungslage vom Mahnbescheid abgegrenzt.",
-      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt."
+      "Paragraf 356a BGB vollständig amtlich geprüft: zweistufige Widerrufsfunktion, Eingangsbestätigung und Absatz 5; klar vom Kündigungsbutton getrennt, aktuelle Absätze 5/6 des Paragrafen 356 berücksichtigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d91d9599d335075811b56093e0af376608a467e811dbdb59d1bade3aa3b9bab4"
+    "sha256": "84515f69809c6d80ab0a2a31b97464b042c046ae01577002596bd556c64c63a9"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

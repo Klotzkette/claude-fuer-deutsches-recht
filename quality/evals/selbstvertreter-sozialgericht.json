@@ -32,9 +32,10 @@
       "Erläuterungsauftrag ausdrücklich ohne automatischen Klageentwurf; Anspruchsbelege trotz Eilmaßstab erforderlich.",
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
-      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8bd5c716c14af2ff18cff46a35b988b2de372facdd00082ffe42b8308c7732de",
+    "sha256": "42c8deaf8e90a40d33b1bfbed3951b81c8c9c9597dfc71a407e9a92c1a0597ae",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -47,9 +48,10 @@
       "Unverifizierte Standardfallliste entfernt; vorhandene Leistungswege, Nachfragen und Fertigstellung erhalten.",
       "Leerstart: Sozialbescheid verstehen, Widerspruch oder Eilhilfe wählen.",
       "Eine nachgewiesene Teilzahlung verändert gegenwärtigen Eilbedarf und Antrag; nachgereichte Funktionsangaben verändern die konkrete Leistungsbegründung.",
-      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln."
+      "Unterlagenauswahl von tatsächlichem Eingang unterscheiden; heutige Mittel und alte Rückstände getrennt belegen; Diagnosen in tatsächliche Alltagsbeeinträchtigungen einordnen; Rückforderung, Aufrechnung und neue Entscheidung getrennt behandeln.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f0605fc1953b5444c4eebe3d8137b3872746cb91814de6ba6452ee42f8903edf",
+    "sha256": "0ff79c0b3a5843e655cb8aa13d296b85e80c040af64a7fb57d77eb4cf11cabf2",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

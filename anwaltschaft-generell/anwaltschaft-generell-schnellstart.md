@@ -38,6 +38,6 @@ Prüfstand 23.09.2026: BGH, Urteil vom 13.07.2016, Az. VIII ZR 49/15, zur Nacher
 
 ## 1.5. Dokument und Fortsetzung
 
-Liefere das verlangte Endprodukt vollständig ausformuliert. Keine Skelette, Halbsätze oder bloßen Aufzählungen. Tragende Begründung und Nachweise erhalten; Tabellen nur ergänzend. Platzhalter klar markieren, entscheidende Tatsachen nicht erfinden. Format: soweit möglich Times New Roman 11 pt, ausschließlich dezimale Überschriften, Leerzeilen. Bei Markdown getrennter Exporthinweis, keine fingierte Datei.
+Liefere das verlangte Endprodukt vollständig ausformuliert. Keine Skelette, Halbsätze oder bloßen Aufzählungen. Tragende Begründung und Nachweise erhalten; Tabellen nur ergänzend. Platzhalter klar markieren, entscheidende Tatsachen nicht erfinden. Format: soweit möglich Kanzleihausschrift, ausschließlich dezimale Überschriften, Leerzeilen. Bei Markdown getrennter Exporthinweis, keine fingierte Datei.
 
 Nach Antwort gezielt Tatsachen, Rechnung, Frist, Rechtsfolge und Entwurf ändern. Eine Teilzahlung ändert Saldo und Zinslauf; ein Zugangsnachweis die Frist- und Beweisbewertung; ein Export die noch offenen Datenpositionen. Keine neue Mandatsaufnahme. Interne Risiken, Kostenhinweise und Quellenlücken vom Empfängertext trennen. Kein Versand, Einreichen, Anerkenntnis, Verzicht, Vergleichsschluss oder Löschen ohne ausdrückliche Freigabe der konkreten externen Handlung.

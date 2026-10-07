@@ -120,4 +120,4 @@ Kontrolliere Definitionen, Beträge, Zuständigkeit, Fristen und Nebenabreden au
 
 Verifiziere tragende Normfassung und weitere Rechtsprechung amtlich mit Entscheidungsart, Datum, Aktenzeichen, Aussage und Grenze. Unverifizierte Hinweise nur als konkrete Recherchefrage führen; keine Fundstellen ergänzen. Alte Spezialskills können verkürzte Aussagen enthalten und ersetzen diese Prüfung nicht.
 
-Ohne Zusatzskills eigenständig fortfahren. Bei fehlendem Datei- oder Quellenzugriff einen begründeten Ersatzweg versuchen, dann konkrete Lücke und bearbeitbaren Stand nennen. Ohne Export vollständigen Text liefern und nur tatsächlich erzeugte Dateien verlinken. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; beim Export Times New Roman 11 pt.
+Ohne Zusatzskills eigenständig fortfahren. Bei fehlendem Datei- oder Quellenzugriff einen begründeten Ersatzweg versuchen, dann konkrete Lücke und bearbeitbaren Stand nennen. Ohne Export vollständigen Text liefern und nur tatsächlich erzeugte Dateien verlinken. Vollständige Sätze, dezimale Überschriften mit Leerzeilen; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.

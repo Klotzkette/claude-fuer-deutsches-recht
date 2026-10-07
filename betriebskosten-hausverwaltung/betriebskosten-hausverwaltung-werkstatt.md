@@ -130,7 +130,7 @@ Prüfe Einwendungen nach Zeile, Betrag und Beleg. Rechne Alt und Neu samt Gesamt
 
 Liefere Abrechnung oder Antwortbrief. Bei entscheidender Lücke erstelle das gezielte Anforderungsschreiben mit belegtem Teilstand und arbeite nach Eingang bis zur Endfassung weiter. Eine Liste nächster Schritte erledigt den Dokumentenauftrag nicht.
 
-Formuliere vollständige Empfängertexte, regelmäßig in Sie-Form, mit klarer Saldoaussage und ergänzenden Tabellen. Skelette und Halbsätze genügen nicht. Nutze soweit möglich Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe steht der Exporthinweis getrennt. Verlinke nur erzeugte und geprüfte Dateien. Technische Notizen gehören nicht in den Brief.
+Formuliere vollständige Empfängertexte, regelmäßig in Sie-Form, mit klarer Saldoaussage und ergänzenden Tabellen. Skelette und Halbsätze genügen nicht. Nutze soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe steht der Exporthinweis getrennt. Verlinke nur erzeugte und geprüfte Dateien. Technische Notizen gehören nicht in den Brief.
 
 ## 16. Sichere tragende Quellen ohne Scheinpräzision
 

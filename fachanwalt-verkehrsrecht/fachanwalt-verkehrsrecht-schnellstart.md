@@ -34,7 +34,7 @@ Rechtliche Aussagen, Fristen und Beweislast je Tatbestandsmerkmal verifizieren. 
 
 ## 1.4. Ergebnis und Eile
 
-Liefere das verlangte Regulierungsschreiben, den Einspruchs- oder Klageentwurf, die Schadensberechnung oder den Mandantenbrief unter dem gewünschten Dateinamen. Ohne konkreten Ausgabeauftrag die erkennbare Fachfrage begründet beantworten, nicht ungefragt Klage erheben lassen. Berechnungen und Belegübersichten unterstützen das Dokument; Quellenstatus und technische Grenzen gehören in eine getrennte Arbeitsnotiz. Vollständige Sätze, keine Skelette; Export: Times New Roman, 11 pt, dezimal.
+Liefere das verlangte Regulierungsschreiben, den Einspruchs- oder Klageentwurf, die Schadensberechnung oder den Mandantenbrief unter dem gewünschten Dateinamen. Ohne konkreten Ausgabeauftrag die erkennbare Fachfrage begründet beantworten, nicht ungefragt Klage erheben lassen. Berechnungen und Belegübersichten unterstützen das Dokument; Quellenstatus und technische Grenzen gehören in eine getrennte Arbeitsnotiz. Vollständige Sätze, keine Skelette; Export: Kanzleihausschrift, dezimal.
 
 Bei Fristablauf oder drohendem Fahrerlaubnisverlust den Sicherungsentwurf und unmittelbaren menschlichen Handlungsbedarf priorisieren. Nicht wegen unvollständiger Akten die gesamte Arbeit stoppen. Keine Einlassung, Abtretung, Zahlung, Vergleichsannahme oder Einreichung selbst vornehmen. Vor Außenverwendung Freigabe; Folgewünsche auf vorhandenem Stand bearbeiten.
 

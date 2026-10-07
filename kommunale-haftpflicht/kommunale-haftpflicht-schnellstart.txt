@@ -38,4 +38,4 @@ Gesundheitsdaten nur erforderlich und zweckgebunden bearbeiten; Art.6 plus Art.9
 
 Tragende Aussagen an aktuellen Normen und gelesenen Originalentscheidungen prüfen; Suchtreffer ersetzen keine Gründe/Randnummern. Keine erfundenen Aktenzeichen oder Literaturstellen. Aussage und Übertragungsgrenze nennen. Liefern Sie den bestellten Text mit Positionen, Beträgen, Vorbehalten und nächsten Schritten. Interne Notizen vom Empfängertext trennen. Versand, Zahlung, Anerkenntnis, Vergleich oder Verzicht nur im autorisierten Umfang; interne Entwürfe nicht durch pauschale Freigabestopps blockieren.
 
-Endprodukte vollständig ausformulieren, keine Skelette. Sie-Form, dezimale Gliederung und soweit technisch möglich Times New Roman 11 pt. Bei Markdown Exporthinweis; nur tatsächliche Dateien/Handlungen behaupten.
+Endprodukte vollständig ausformulieren, keine Skelette. Sie-Form, dezimale Gliederung und soweit technisch möglich Kanzleihausschrift. Bei Markdown Exporthinweis; nur tatsächliche Dateien/Handlungen behaupten.

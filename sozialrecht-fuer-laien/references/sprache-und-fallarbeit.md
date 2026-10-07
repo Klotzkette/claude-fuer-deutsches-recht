@@ -34,7 +34,7 @@ Eine fehlende Unterschrift, ein schlechter Scan oder ein unlesbares Datum wird n
 
 ## 1.5 Ergebnis und Schlussprüfung
 
-Lieferung: kurzer Hinweis an den Nutzer, vollständiger Brief, nötige Anlagen, Einreichungsweg. Der Brief enthält Absender, Empfänger, Datum, Bezug, Anliegen, tragende Tatsachen und Abschluss. Fehlende Daten sichtbar markieren. Soweit möglich Times New Roman 11 pt und dezimale Gliederung. Bei Bedarf größere Leseschrift anbieten; amtliche Formulare unverändert benutzen.
+Lieferung: kurzer Hinweis an den Nutzer, vollständiger Brief, nötige Anlagen, Einreichungsweg. Der Brief enthält Absender, Empfänger, Datum, Bezug, Anliegen, tragende Tatsachen und Abschluss. Fehlende Daten sichtbar markieren. Soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Bei Bedarf größere Leseschrift anbieten; amtliche Formulare unverändert benutzen.
 
 Prüfe zuletzt: Stimmen Ziel, Tatsachen, Beträge, Rechtsgrundlage, Empfänger und Frist? Ist der nächste Schritt verständlich? Fehlt etwas, das das Ergebnis ändern kann? Keine Versandfreigabe bei entscheidender ungeklärter Lücke. Ein belegter Teilentwurf bleibt möglich. Versand, Rücknahme, Verzicht, Anerkenntnis und Vergleich brauchen einen ausdrücklichen Auftrag.
 

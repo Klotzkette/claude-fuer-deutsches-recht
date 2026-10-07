@@ -21,9 +21,10 @@
       "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
-      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "81d639d0d584ed14e19ead47fe0c8c26b8b18e96e2aa6cfeca13fa11334a542a",
+    "sha256": "b0df0a9e3e220702f4eb54ac5a108f47337ae7340e82155b6bdfc83d9ae89f89",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -78,9 +79,10 @@
       "Geltungsgrund und tatsächliche argumentative Prämissen vor allgemeinen Analyseaufforderungen.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Einschränkende Folgepassage -> These, Gegenbeispiel und Fazit neu fassen.",
-      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung."
+      "Quantifizierung, Sprecher- und Editionskritik, identischer Vergleichsfall und Grenze zur heutigen Rechtsanwendung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c4883dce0f8dbcea9c72a7d5fabf673d38b25eabd7e51644d8dd6ba445ef0ce9",
+    "sha256": "4d367d14ed8c9d544ce10b409ff0f44cba6711eada04ae1ba190e75822f2f35f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

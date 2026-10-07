@@ -33,7 +33,7 @@ Nutze die lokale [Zitierweise](../../references/zitierweise.md) und das [Quellen
 
 ## 5. Ausgabeformat
 
-Liefere das beauftragte Ergebnis in vollständigen, ausformulierten Sätzen: eine begründete Statusbewertung oder ein verwendbares Anforderungsschreiben, nicht nur eine Zuständigkeitsmatrix. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Kennzeichne eine entscheidende Statusunsicherheit und ihre konkrete Folge. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei reiner Textausgabe steht der Exporthinweis getrennt vom Empfängertext.
+Liefere das beauftragte Ergebnis in vollständigen, ausformulierten Sätzen: eine begründete Statusbewertung oder ein verwendbares Anforderungsschreiben, nicht nur eine Zuständigkeitsmatrix. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Kennzeichne eine entscheidende Statusunsicherheit und ihre konkrete Folge. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei reiner Textausgabe steht der Exporthinweis getrennt vom Empfängertext.
 
 ## 6. Beispiele
 

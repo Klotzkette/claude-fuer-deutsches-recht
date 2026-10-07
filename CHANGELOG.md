@@ -1,3 +1,17 @@
+# v445.34.0 - Hausschrift aus einer Quelle
+
+## 1. Eine Quelle für Schrift und Grundgröße
+
+`hausstil.json` legt den neutralen Standard der Arbeitsprodukte fest: Schrift, Grundgröße und Gliederung. Skills, Prompts und References nennen eine Schrift nur noch in der Phrase „Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt“; Schnellstart- und Hauptproblem-Prompts tragen wegen ihrer Bytegrenze die Kurzform „Kanzleihausschrift“. Die fünf Builder `generate-formatvorlagen.py`, `build-bauwirtschaft-werkstatt-handbuch.py`, `render-startup-gruender-werkstatt.py`, `render-registerwerkstaetten.py` und `build-ki-verordnung-hochrisiko-pruefer.py` lesen Schrift und Größe aus derselben Quelle. Eine Kanzlei setzt ihre eigene Schrift allein im Kanzleiprofil ihrer CLAUDE.md; `references/kanzleiprofil.md` beschreibt den Mechanismus.
+
+## 2. Werkzeuge und Ausnahmen
+
+`scripts/apply-hausstil.py` ersetzt freie Schriftangaben durch die Phrase, `scripts/audit-hausstil.py` meldet jede Schriftnennung außerhalb der Phrase und der eingetragenen Ausnahmen, `scripts/refresh-pruefhashes-nach-hausstil.py` zieht die Prüfhashes der Quellenprofile nach, wenn sich eine Datei nur mechanisch geändert hat. Begründete Ausnahmen wie amtliche Layouts, Anlagenstempel, Barrierefreiheitsvorgaben und plugin-eigene Renderer stehen mit Grund in `hausstil.json`.
+
+## 3. Prüfung
+
+Eigenschaftstests mit hypothesis und Mutationstests mit mutmut sichern beide Bibliotheken unter `scripts/tests/`. 740 Prüfvermerke in `quality/evals/` wurden mechanisch nachgezogen; der Fachinhalt der geprüften Dateien ist unverändert.
+
 # bauwirtschaft-rundum-v445.33.2 - Praxisakten mit zusätzlichen Originalbelegen
 
 ## 1. Bestehende Fälle vertieft

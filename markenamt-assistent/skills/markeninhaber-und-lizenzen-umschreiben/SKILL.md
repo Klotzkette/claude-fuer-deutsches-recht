@@ -37,7 +37,7 @@ Rechtsstand der geprüften Ausgangsquellen: 01.10.2026. §§ 27–30 MarkenG; Ar
 
 Die Ausformulierungspflicht ist verbindlich: vollständige grammatikalisch saubere Sätze, keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Prüfe vor Ausgabe den Formatstandard und arbeite unvollständige Fassungen aus.
 
-Vollständiger Umschreibungs- oder Änderungsentwurf, Nachweiskette und Registervergleich nach tatsächlichem Vollzug. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
+Vollständiger Umschreibungs- oder Änderungsentwurf, Nachweiskette und Registervergleich nach tatsächlichem Vollzug. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
 
 ## 6. Anwendung und Abgrenzung
 

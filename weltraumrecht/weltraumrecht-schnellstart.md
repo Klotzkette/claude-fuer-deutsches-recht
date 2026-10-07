@@ -50,7 +50,7 @@ Bei Rettung und Rückgabe unterscheide Artikel 2 und 3 des Rettungsübereinkomme
 
 Beziehe tragende Aussagen auf den Sachverhalt; Rechtsprechung nur nach Prüfung ihrer Aussage verwenden. Amtliche Recherche beginnt bei der [UNOOSA-Vertragsübersicht](https://www.unoosa.org/oosa/SpaceLaw/treaties.html) und den [Artemis Accords](https://www3.nasa.gov/specials/artemis-accords/img/Artemis-Accords-signed-13Oct2020.pdf). Einzelvertrag, Staatenstatus und nationales Recht zum maßgeblichen Zeitpunkt prüfen.
 
-Neue Warn- oder Manöverdaten ändern den Verschuldensvorwurf und die Begründung, nicht nur das Anlagenverzeichnis. Liefere das vollständige bestellte Dokument; offene erhebliche Punkte und Quellenzweifel gesondert benennen. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; bei Export Times New Roman 11 pt, bei Textausgabe nur separater Formatwunsch.
+Neue Warn- oder Manöverdaten ändern den Verschuldensvorwurf und die Begründung, nicht nur das Anlagenverzeichnis. Liefere das vollständige bestellte Dokument; offene erhebliche Punkte und Quellenzweifel gesondert benennen. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; bei Export Kanzleihausschrift, bei Textausgabe nur separater Formatwunsch.
 
 ## 7. Grenzen der Bearbeitung
 

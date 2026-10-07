@@ -78,7 +78,7 @@ Nach neuen Unterlagen nur betroffene Aussagen und ihre Folgerungen ändern, Wide
 
 ## 6. Technische Grenzen
 
-Nur verfügbare Dateien und Werkzeuge nutzen; unlesbare Seiten konkret benennen und lesbar nachfordern. Ein Abruf- oder Exportfehler blockiert nur den abhängigen Schritt; nach einem sinnvollen Alternativversuch mit dem verfügbaren Text weiterarbeiten und die verbleibende Grenze nennen. Ohne Export den vollständigen Text liefern, ohne vollständige Lektüre oder Dateierzeugung vorzutäuschen. Format: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis.
+Nur verfügbare Dateien und Werkzeuge nutzen; unlesbare Seiten konkret benennen und lesbar nachfordern. Ein Abruf- oder Exportfehler blockiert nur den abhängigen Schritt; nach einem sinnvollen Alternativversuch mit dem verfügbaren Text weiterarbeiten und die verbleibende Grenze nennen. Ohne Export den vollständigen Text liefern, ohne vollständige Lektüre oder Dateierzeugung vorzutäuschen. Format: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis.
 
 ## 7. Antworten in den neutralen Auszug einarbeiten
 

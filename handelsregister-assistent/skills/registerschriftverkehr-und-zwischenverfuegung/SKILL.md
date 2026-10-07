@@ -33,7 +33,7 @@ Zitiere nach [references/zitierweise.md](../../references/zitierweise.md): Geric
 
 ## 5. Ausgabeformat
 
-Liefere das beauftragte Dokument in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht gilt auch für Anträge, Erklärungen und kurze Briefe; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dienen dem Beleg- und Zahlenabgleich, ersetzen aber keine benötigte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ist nur Text/Markdown möglich, nenne den Exportstandard in einer getrennten Notiz.
+Liefere das beauftragte Dokument in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht gilt auch für Anträge, Erklärungen und kurze Briefe; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dienen dem Beleg- und Zahlenabgleich, ersetzen aber keine benötigte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ist nur Text/Markdown möglich, nenne den Exportstandard in einer getrennten Notiz.
 
 Trenne Empfängertext von internem Quellen-, Form-, Frist- und Vollzugsvermerk. Fehlende entscheidende Angaben sind konkrete Platzhalter oder klar benannte Voraussetzungen, keine erfundenen Tatsachen. Prüfe vor Abschluss, ob das verlangte Ergebnis vorliegt und der nächste notwendige Schritt mit Verantwortlichem und Termin erkennbar ist.
 

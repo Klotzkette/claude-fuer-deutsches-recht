@@ -74,9 +74,10 @@
       "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
       "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
       "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
-      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d0aef60f2f9e43cd9a39dfb12b12f76c455c5f750279e2d9c71a858102e5fc3b",
+    "sha256": "abfe06000d708bdefbec1f47e9cd2b504fcb7a00755a9797001f1d967d7d6d6f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -134,9 +135,10 @@
       "Vollständiges Dokument, gezielte Container- und Gewichtsnachforderung sowie Fortsetzung erhalten.",
       "Leerstart: Ladungsschaden, Schiffsclosing oder Sicherung/Arrest wählen.",
       "Ein belegtes Teilgewicht verändert die Haftungsbegrenzungsrechnung; ein neuer Terminalnachweis verändert die Streckenzuordnung; eine Bankfreigabe nach Zahlung verändert die Closing-Bedingung.",
-      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären."
+      "Verlustanzeige und Verjährung, Teilgewicht und Gesamtentwertung sowie Eigentums-/Registerstand und Gläubigerfreigabe getrennt bearbeiten; Schuldneridentität und Abfahrt für einen konkreten Sicherungsweg klären.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3f3e81109d674a33e2b3641ebc671b7e19a4f8735ce744798891cb4479aedec6",
+    "sha256": "eec6fe31c737ad7279fe48d2ba785f261a656b069f7fa1a5c7a6f7c11d01cc13",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

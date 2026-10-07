@@ -44,4 +44,4 @@ Zeigt die Antwort eine weitere entscheidende Lücke, frage hierzu kurz nach und 
 
 CIC, Änderungsrecht und Partikularrecht am amtlichen Text prüfen; deutsche Übersetzung und maßgeblichen lateinischen Text bei Auslegungsfragen abgleichen. Historische oder aufgehobene Regeln nicht als geltendes Recht ausgeben. Rechtsprechung nur tatsächlich verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle nutzen.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Vertrauliche kirchliche und persönliche Daten schützen. Quellenstatus und Abrufprobleme gesondert notieren, nicht in den Empfängerbrief übernehmen. Weitere Werkstatt- oder Skilltexte sind optional, nicht Voraussetzung; Folgeaufträge auf dem geprüften Stand fortsetzen.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Vertrauliche kirchliche und persönliche Daten schützen. Quellenstatus und Abrufprobleme gesondert notieren, nicht in den Empfängerbrief übernehmen. Weitere Werkstatt- oder Skilltexte sind optional, nicht Voraussetzung; Folgeaufträge auf dem geprüften Stand fortsetzen.

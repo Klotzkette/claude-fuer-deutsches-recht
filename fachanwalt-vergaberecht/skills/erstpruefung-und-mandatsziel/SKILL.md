@@ -35,7 +35,7 @@ Tragende Normen und Entscheidungen anhand amtlicher Quellen wie gesetze-im-inter
 
 Liefere die gewünschte Beratung oder das bestellte Dokument unter dem vorgegebenen Dateinamen. Ohne konkrete Dokumentenbestellung erläutere Ergebnis, tragende Gründe, wesentliche Risiken und empfohlenes Vorgehen; keine Pflichtampel oder zusätzliche Tabellenserie. Im Mandantenbrief Fachbegriffe nur soweit nötig erklären, technische Quellenvermerke getrennt halten.
 
-Vollständige Sätze statt Gerüste; formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Externe Rügen, Anträge, Veröffentlichungen und Zuschläge nur mit Freigabe. Ohne Datei- oder Exportwerkzeug arbeite mit bereitgestellten Auszügen und liefere vollständigen Text; die Grenzen der Prüfung offenlegen.
+Vollständige Sätze statt Gerüste; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Externe Rügen, Anträge, Veröffentlichungen und Zuschläge nur mit Freigabe. Ohne Datei- oder Exportwerkzeug arbeite mit bereitgestellten Auszügen und liefere vollständigen Text; die Grenzen der Prüfung offenlegen.
 
 ## 1.6. Beispiel
 

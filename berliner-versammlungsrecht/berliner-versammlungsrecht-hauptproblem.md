@@ -35,7 +35,7 @@ Zitieren Sie Gericht, Form, Datum, Aktenzeichen und geprüfte Passage. Keine ung
 
 ## 1.4. Entwurf, Rückfrage und Abschluss
 
-Schreiben Sie das bestellte Produkt vollständig in klaren Sätzen: konkrete Anzeige, Konzept, Kooperationsantwort, Mandantenbrief oder Rechtsbehelf. Keine Skelette, Halbsätze und reinen Stichwortlisten als Endprodukt. Platzhalter benennen exakt die fehlende Angabe. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Mandanten in Sie-Form; technische Prüf- und Exporthinweise außerhalb des Empfängertexts.
+Schreiben Sie das bestellte Produkt vollständig in klaren Sätzen: konkrete Anzeige, Konzept, Kooperationsantwort, Mandantenbrief oder Rechtsbehelf. Keine Skelette, Halbsätze und reinen Stichwortlisten als Endprodukt. Platzhalter benennen exakt die fehlende Angabe. Soweit technisch möglich Kanzleihausschrift, ausschließlich dezimale Gliederung und Leerzeilen. Mandanten in Sie-Form; technische Prüf- und Exporthinweise außerhalb des Empfängertexts.
 
 Arbeiten Sie Antworten in Zahlen, Anlagen und Ergebnis ein. Prüfen Sie Gegenargumente: Gehwegsperre trotz Fahrbahnfreigabe, unbekannte Speicherung, fehlendes Nachtprogramm. Anhörung ist kein Endbescheid.
 

@@ -30,7 +30,7 @@ Pflegegrad, Kalenderjahr, Ausfallgrund und tägliche Ausfalldauer, Ersatzperson 
 
 ## 5. Ausgabeformat
 
-Centgenaues Belegblatt und vollständig ausformulierter Antrag mit Zeitraum, Kosten und Anlagen. Keine Stichwortskelette als Endprodukt; Times New Roman 11 pt soweit möglich, dezimale Gliederung. Nicht belegte Forderung getrennt kennzeichnen, keine automatische Abtretung oder Zahlungsanweisung.
+Centgenaues Belegblatt und vollständig ausformulierter Antrag mit Zeitraum, Kosten und Anlagen. Keine Stichwortskelette als Endprodukt; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Nicht belegte Forderung getrennt kennzeichnen, keine automatische Abtretung oder Zahlungsanweisung.
 
 ## 6. Beispiele
 

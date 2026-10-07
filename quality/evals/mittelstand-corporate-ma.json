@@ -26,9 +26,10 @@
       "Kein automatischer Nichtigkeitsbefund aus fehlender Zustimmung oder analogem Paragraf 179a AktG.",
       "Erkennbare Zustimmungsdefizite führen zu konkreter Nachfrage und Vertragsabsicherung.",
       "Unbelegte Fallnummernliste durch amtlich geprüfte begrenzte Aussage ersetzt.",
-      "Positive Prüfungsnachricht, bedingte Zustimmung und einseitigen Verzicht im konkreten Vollzugsablauf getrennt."
+      "Positive Prüfungsnachricht, bedingte Zustimmung und einseitigen Verzicht im konkreten Vollzugsablauf getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "752f592bcf6f5ab92d7709df1dae1816ce6b0ffa1166b7a853389a9bd1ef53a9"
+    "sha256": "57a586b2528c18af97143fc821646b7b6882248919ec2be369e46c77747fa0d1"
   },
   "selection": {
     "positive": [
@@ -83,9 +84,10 @@
       "Unbelegte Fallnummernliste durch amtlich geprüfte begrenzte Aussage ersetzt.",
       "Datenraumbefund und neue Offenlegung in konkrete Garantie-, Freistellungs- oder Bedingungsfassung übersetzt.",
       "Earn-out-Definition und Rechnung, Hausbankablösung und Bürgschaftsfreigabe sowie bedingte Zustimmung mit Nachweisfolgen vertieft.",
-      "Fertige Vollzugsvorlage von tatsächlich freigegebenem Vollzug und nachgewiesener Erledigung getrennt."
+      "Fertige Vollzugsvorlage von tatsächlich freigegebenem Vollzug und nachgewiesener Erledigung getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6f0db3d430c9a11b77e9e7a9e57fc4d094bfb5ad0155d62b7c87ba3f78d0b7a7"
+    "sha256": "d791ebc8efa11c2767f7a5ec4a76e23317621d3177b0788e56241a674352b749"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

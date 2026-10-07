@@ -34,7 +34,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Vertragsbefunde bele
 
 Der Bericht ist strukturiert und vollständig ausformuliert: kurze Handlungsaussage, Themen mit Fundstatus/Risiko, darunter Positionen und einzelne Regeln mit Begründung und Originalfundstelle. Änderungsauftrag bedeutet echte Ersatzklauseln. Ein JSON kann ergänzen; es ersetzt weder Subsumtion noch Empfängertext. Nenne konkret, was erzeugt und geprüft wurde.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
 
 ## 6. Beispiele
 

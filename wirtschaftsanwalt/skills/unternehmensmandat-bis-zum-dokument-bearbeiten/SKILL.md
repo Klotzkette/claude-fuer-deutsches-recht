@@ -61,7 +61,7 @@ BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, begrenzt den konkreten Zugangsnachw
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

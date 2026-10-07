@@ -828,7 +828,7 @@ Liefere nachvollziehbare Lohn- und Zahlungsrechnung, gesonderte Sozialleistungen
 
 Zinsen nach Fälligkeit und Verzug gesondert prüfen; fehlende Zinssätze nicht erfinden. Verhandlungskorridor nur aus ausgewiesenen Varianten, nicht aus einer Standardabfindung ableiten und mit Quellenprüfvermerken getrennt vom Außenentwurf halten.
 
-Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Fehlende Dateifunktion offenlegen und den Text vollständig ausgeben.
+Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Fehlende Dateifunktion offenlegen und den Text vollständig ausgeben.
 
 ## 1.5. Beispiele
 

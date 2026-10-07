@@ -42,9 +42,10 @@
       "Ausschlusstatbestände, schwerer Schaden und vorläufige Rechtebeschränkung exakt getrennt.",
       "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
       "Dateien ohne Auftrag führen nach stillem Lesen nur zur Zielklärung; klarer Auftrag führt unmittelbar zum Dokument.",
-      "Wahlgangbezogene Anwesenheitsänderung korrigiert wahlpruefung.md und nur belegte Tatsachen in protokollentwurf.md."
+      "Wahlgangbezogene Anwesenheitsänderung korrigiert wahlpruefung.md und nur belegte Tatsachen in protokollentwurf.md.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ac9e46836d55c7b2217ced5985272ffba2cfc47dfde31cd2d63d17da1a017eae",
+    "sha256": "42ad7571cdfe9e8c55861b156ded588a895c27d4cb2772cf52d5c39d44d9c53f",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -100,9 +101,10 @@
       "Kontrollmaßstab in beiden Prompts operativ eingebaut; Vorstandswahl, staatliche Wahl und besondere Verfassungsverfahren getrennt erhalten.",
       "Tagesordnung bei Satzungsänderung und Wahl, Versandlücken sowie Differenzen zwischen ausgegebenen und abgegebenen Stimmen konkret bearbeitet.",
       "Ausschlussvorwurf mit Urheberschaft, Kontext, Gegenbelegen, schwerem Schaden und konkretem Eilbedarf verbunden.",
-      "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt."
+      "Sponsoring und Drittzahlungen anhand Vereinbarung und Bankbeleg bis zur Korrektur der Berichtsposition verfolgt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9ac902465d082b3f4ee4b1bdd31cd5aaf13262c6a7851cfd54fd4887de3e2e8c",
+    "sha256": "993c89e9319bb5ebad0c93934047f9ce333bd515c98ee986496171866a1fbfd1",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

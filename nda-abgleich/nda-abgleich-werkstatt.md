@@ -110,7 +110,7 @@ Liefere den bearbeiteten Fremdentwurf und den bestellten Vergleichsnachweis unte
 
 Bei verlangter DOCX-Änderungsverfolgung echte Einfügungs- und Löschungsrevisionen erzeugen. Kommentare oder farbiger Text allein genügen nicht. Prüfe die lesbare Annahmefassung gegen Standard und Freigaben, einschließlich Definitionen, Querverweisen, Nummerierung und Laufzeiten.
 
-Vor Übergabe verbleibende Entscheidungen konkret benennen und kontrollieren, ob alle eingegangenen Antworten umgesetzt wurden. Unterschrift, Versand und Annahme einer gegnerischen Position nicht eigenmächtig veranlassen. Bestehendes Vertragslayout bewahren; sonst Times New Roman 11 Punkt und dezimale Gliederung verwenden.
+Vor Übergabe verbleibende Entscheidungen konkret benennen und kontrollieren, ob alle eingegangenen Antworten umgesetzt wurden. Unterschrift, Versand und Annahme einer gegnerischen Position nicht eigenmächtig veranlassen. Bestehendes Vertragslayout bewahren; sonst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden.
 
 Führe eine Antwort bis in das vorhandene Dokument: „Steuerberater ja, andere Investoren nein“ ändert im Nutzerpfad, etwa `nda-redline.docx`, Empfängerdefinition und Offenlegungssatz; die entsprechende Vergleichszeile erhält denselben Freigabestand. Die Zustimmung zu einer längeren Löschfrist ändert nicht ohne Weiteres die Geheimhaltungsdauer. Halte die betroffenen Klauselnummern fest, statt eine neue Gesamtprüfung anzukündigen. Ohne Schreibwerkzeug liefere die genaue ausformulierte Änderung mit Dokument- und Klauselbezeichnung.
 

@@ -71,7 +71,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Tabellen ergänzen Rechnung oder Beweiszuordnung, ersetzen aber nicht die juristische Begründung und den Empfängertext. Markiere notwendige Platzhalter ausdrücklich; ungesicherte Tatsachen bleiben konditional. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown steht der Exporthinweis getrennt vom Dokument. Keine nicht erzeugte Datei oder tatsächlichen Versand behaupten. Abschließend nur entscheidende offene Punkte und die konkrete Freigabehandlung getrennt nennen.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Tabellen ergänzen Rechnung oder Beweiszuordnung, ersetzen aber nicht die juristische Begründung und den Empfängertext. Markiere notwendige Platzhalter ausdrücklich; ungesicherte Tatsachen bleiben konditional. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown steht der Exporthinweis getrennt vom Dokument. Keine nicht erzeugte Datei oder tatsächlichen Versand behaupten. Abschließend nur entscheidende offene Punkte und die konkrete Freigabehandlung getrennt nennen.
 
 ## 6. Beispiele
 
@@ -125,7 +125,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges Antwortschreiben, Herausgabeverlangen oder Vertragsnachtrag; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Interne Recherche- und Vollständigkeitsvermerke vom Empfängertext trennen. Notwendige Datenübersichten dürfen ergänzen. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine Passwörter, Zugangstoken oder unnötigen Drittpersonendaten in Textbeispiele aufnehmen.
+Ausformulierungspflicht: vollständiges Antwortschreiben, Herausgabeverlangen oder Vertragsnachtrag; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Interne Recherche- und Vollständigkeitsvermerke vom Empfängertext trennen. Notwendige Datenübersichten dürfen ergänzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Keine Passwörter, Zugangstoken oder unnötigen Drittpersonendaten in Textbeispiele aufnehmen.
 
 ## 6. Beispiele
 
@@ -177,7 +177,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Vergleich mit tatsächlich vereinbarten Rechtsfolgen in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechenvarianten und Freigabegrenzen getrennt vom Vertragstext. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Bankverbindung ist ein markierter Platzhalter, fehlende Einigung über Forderungserlass eine offen zu entscheidende Rechtsfrage.
+Ausformulierungspflicht: vollständiger Vergleich mit tatsächlich vereinbarten Rechtsfolgen in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechenvarianten und Freigabegrenzen getrennt vom Vertragstext. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Bankverbindung ist ein markierter Platzhalter, fehlende Einigung über Forderungserlass eine offen zu entscheidende Rechtsfrage.
 
 ## 6. Beispiele
 
@@ -229,7 +229,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges beauftragtes Dokument, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Interne Frist- und Kostenhinweise getrennt vom Erklärungstext. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown separater Exporthinweis. Nicht abschließend geklärte Zustimmungs- oder Vertretungsfragen sperren eine behauptete Erklärungsreife, nicht die Arbeit an unabhängigen Vertragsabschnitten.
+Ausformulierungspflicht: vollständiges beauftragtes Dokument, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Interne Frist- und Kostenhinweise getrennt vom Erklärungstext. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown separater Exporthinweis. Nicht abschließend geklärte Zustimmungs- oder Vertretungsfragen sperren eine behauptete Erklärungsreife, nicht die Arbeit an unabhängigen Vertragsabschnitten.
 
 ## 6. Beispiele
 
@@ -277,7 +277,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Vertretungsvermerk und, soweit verlangt, vollständige Rubrums-, Vollmachts-, Genehmigungs- oder Beschlusstexte. Keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Zustimmung klar intern kennzeichnen, nicht als vollzogen darstellen.
+Ausformulierungspflicht: vollständiger Vertretungsvermerk und, soweit verlangt, vollständige Rubrums-, Vollmachts-, Genehmigungs- oder Beschlusstexte. Keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Zustimmung klar intern kennzeichnen, nicht als vollzogen darstellen.
 
 ## 6. Beispiele
 
@@ -325,7 +325,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständige, grammatikalisch saubere Ersatzklauseln und Dokumente; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Eine Synopse ergänzt bei Bedarf den vollständigen Text. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Markdown erhält einen getrennten Exporthinweis. Notwendige Platzhalter ersetzen nur fehlende Angaben, nicht die Rechtsfolge.
+Ausformulierungspflicht: vollständige, grammatikalisch saubere Ersatzklauseln und Dokumente; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Eine Synopse ergänzt bei Bedarf den vollständigen Text. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Markdown erhält einen getrennten Exporthinweis. Notwendige Platzhalter ersetzen nur fehlende Angaben, nicht die Rechtsfolge.
 
 ## 6. Beispiele
 
@@ -373,7 +373,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere ausformulierte Bewertung und, soweit beauftragt, einen vollständigen Klauseltext. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Benenne Originalstelle, tragendes Problem, Rechtsfolge und Änderung getrennt, ohne den Empfängertext mit internen Prüffeldern zu überladen. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown getrennter Exporthinweis.
+Liefere ausformulierte Bewertung und, soweit beauftragt, einen vollständigen Klauseltext. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Benenne Originalstelle, tragendes Problem, Rechtsfolge und Änderung getrennt, ohne den Empfängertext mit internen Prüffeldern zu überladen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown getrennter Exporthinweis.
 
 ## 6. Beispiele
 
@@ -423,7 +423,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Schriftsatz mit Rubrum, Anträgen, tragendem Sachverhalt, rechtlicher Begründung und konkreten Beweisangeboten; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Ein Anlagenverzeichnis ergänzt den Text. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen. Bei Markdown separater Exporthinweis. Fehlende entscheidende Angaben und Freigabeprüfung stehen außerhalb der Empfängerfassung; keine fiktive Einreichungsbestätigung.
+Ausformulierungspflicht: vollständiger Schriftsatz mit Rubrum, Anträgen, tragendem Sachverhalt, rechtlicher Begründung und konkreten Beweisangeboten; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Ein Anlagenverzeichnis ergänzt den Text. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen. Bei Markdown separater Exporthinweis. Fehlende entscheidende Angaben und Freigabeprüfung stehen außerhalb der Empfängerfassung; keine fiktive Einreichungsbestätigung.
 
 ## 6. Beispiele
 
@@ -473,7 +473,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Vermerk oder verwendbaren Dokumentabschnitt mit Ergebnis, entscheidender Subsumtion und konkreter Folge. Ausformulierungspflicht: vollständige Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Eine kleine Frist- oder Beweistabelle darf ergänzen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Unsicherheit über ein Datum nicht im Fließtext verstecken.
+Liefere einen ausformulierten Vermerk oder verwendbaren Dokumentabschnitt mit Ergebnis, entscheidender Subsumtion und konkreter Folge. Ausformulierungspflicht: vollständige Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Eine kleine Frist- oder Beweistabelle darf ergänzen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Unsicherheit über ein Datum nicht im Fließtext verstecken.
 
 ## 6. Beispiele
 
@@ -525,7 +525,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges Schreiben in vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechnung als ergänzende Tabelle, streitige Abzüge ausdrücklich getrennt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen; bei Markdown separater Exporthinweis. Technische Rechenannahmen nicht in einen angeblich versandfertigen Text einschmuggeln.
+Ausformulierungspflicht: vollständiges Schreiben in vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechnung als ergänzende Tabelle, streitige Abzüge ausdrücklich getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen; bei Markdown separater Exporthinweis. Technische Rechenannahmen nicht in einen angeblich versandfertigen Text einschmuggeln.
 
 ## 6. Beispiele
 

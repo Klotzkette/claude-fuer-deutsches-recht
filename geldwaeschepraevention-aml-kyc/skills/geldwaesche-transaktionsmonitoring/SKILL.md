@@ -33,7 +33,7 @@ GwG Paragraf 10 Absatz 1 Nummer 5, Paragraf 15, Paragraf 43 und [Rechtsstand](..
 
 ## 5. Ausgabeformat
 
-Ausformulierter Zahlungsbefund mit chronologischer Tabelle, Beleg, plausibler Erklärung, Gegenbefund und offener Handlung. Times New Roman 11 pt, dezimale Gliederung. Keine Risikopunktzahl als alleinige Entscheidung.
+Ausformulierter Zahlungsbefund mit chronologischer Tabelle, Beleg, plausibler Erklärung, Gegenbefund und offener Handlung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Risikopunktzahl als alleinige Entscheidung.
 
 ## 6. Beispiele
 

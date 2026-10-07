@@ -28,7 +28,7 @@ Benötigt werden freigegebener Vergabevermerk, betroffene Bieter/Bewerber, beabs
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere vollständige Vorabinformationen je Empfänger, ein getrenntes Fristen-/Sperrblatt und einen bedingten Zuschlagsentwurf. Times New Roman 11 pt, dezimale Gliederung. Übergabe: Versandnachweise, frühester zulässiger Vertragsschluss, bestehende Sperren, Freigabe und Originalvertragsfassung. Die Bezeichnung „versandt“ oder „Zuschlag erteilt“ setzt einen tatsächlichen Nachweis voraus. Keine externe Handlung ohne ausdrücklichen Auftrag.
+Liefere vollständige Vorabinformationen je Empfänger, ein getrenntes Fristen-/Sperrblatt und einen bedingten Zuschlagsentwurf. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergabe: Versandnachweise, frühester zulässiger Vertragsschluss, bestehende Sperren, Freigabe und Originalvertragsfassung. Die Bezeichnung „versandt“ oder „Zuschlag erteilt“ setzt einen tatsächlichen Nachweis voraus. Keine externe Handlung ohne ausdrücklichen Auftrag.
 
 ## 6. Beispiel
 

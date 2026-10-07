@@ -57,9 +57,10 @@
       "Luftaufsicht nach Paragraf 29 LuftVG, Gefahrgut-Erlaubnis nach Paragraf 27 und Luftsicherheit sauber getrennt; keine pauschale Gefahrgutbeauftragtenpflicht.",
       "Vollstreckung nach Paragraf 99 LuftFzgG und Paragrafen 171a ff. ZVG statt pauschaler Sachpfändung; Insolvenzantrag von Eröffnung getrennt.",
       "Konkrete EU-Artikel für Zulassung, Slots, Drohnen, ACC3 und Instandhaltung ergänzt; Dokument-first, Folgeantworten und fertiges Auftragsdokument erhalten.",
-      "Drei Einstiegswege; neuer Prognoseanhang ersetzt die überholte Fehlstellenrüge im bezeichneten Einwendungspfad."
+      "Drei Einstiegswege; neuer Prognoseanhang ersetzt die überholte Fehlstellenrüge im bezeichneten Einwendungspfad.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "27d6769a1d82d2532832be357692e450e1d6bd1e0e44943e100f7820b622f0f3"
+    "sha256": "506bd931f197c81f92f9cee0ff970c203abf0163c3ec831ea72ecb8a7b122122"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -72,9 +73,10 @@
       "Bestandsbescheide und fortgeltende Anlagen gegen bloßen Flugplan abgleichen; Bau- und Betriebsanteile einer kombinierten Änderung bestimmen.",
       "Leisere Flotte und zeitliche Häufung als gegenläufige Tatsachen prüfen; entkräftete Prognoserügen in der Folgefassung ersetzen.",
       "Behördlich akzeptierte Sicherheitsabhilfe von interner Maßnahmenliste trennen; Slot-Saison und finanzielle gegenüber technischer Airline-Zulassung abgrenzen.",
-      "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten."
+      "Triebwerksidentität und Freigaben getrennt prüfen; Abflugplan nicht als Eigentums- oder Arrestgrundnachweis behandeln und ausländischen Standort beachten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9bb9ced78c2376f191094744a1365c042656bd19e795dde408cd342295c63090"
+    "sha256": "0e08c66cbbc0d85f6101f2290bd5e80682e82e1cabe92964a17604beab139f36"
   },
   "selection": {
     "positive": [

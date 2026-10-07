@@ -35,7 +35,7 @@ Nutze [Rechtsstand und Quellen](../../references/rechtsstand-und-quellen.md) sow
 
 ## 5 Ausgabeformat
 
-Liefere den bestellten Einstufungsvermerk mit Systemabgrenzung, Tatbestandsprüfung, Gegenargument, Ergebnis, zeitlichem Pflichtbeginn und konkreter Konsequenz für die Einführung. Vollständig ausformulierte Sätze und vollständige Begründung sind erforderlich; Stichwortskelette, Halbsätze oder bloße Ampeln sind kein Endprodukt. Native Dokumente: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Textausgabe ein getrennter Exporthinweis.
+Liefere den bestellten Einstufungsvermerk mit Systemabgrenzung, Tatbestandsprüfung, Gegenargument, Ergebnis, zeitlichem Pflichtbeginn und konkreter Konsequenz für die Einführung. Vollständig ausformulierte Sätze und vollständige Begründung sind erforderlich; Stichwortskelette, Halbsätze oder bloße Ampeln sind kein Endprodukt. Native Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Textausgabe ein getrennter Exporthinweis.
 
 ## 6 Beispiele
 

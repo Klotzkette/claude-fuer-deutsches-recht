@@ -47,7 +47,7 @@ GmbHG Paragrafen 15, 16 und 40; BGB Paragraf 1274. [Amtliche Formwege](../../ref
 
 ## 5. Ausgabeformat
 
-Vollständiger Vertragsentwurf mit getrennten schuldrechtlichen und dinglichen Erklärungen, Anteilstabelle und bedingungsabhängiger Vollzugsliste. Entwurf zur notariellen Prüfung, Times New Roman 11 pt und dezimale Gliederung. Keine Klauselskelette, fingierten Freigaben oder Zahlungen.
+Vollständiger Vertragsentwurf mit getrennten schuldrechtlichen und dinglichen Erklärungen, Anteilstabelle und bedingungsabhängiger Vollzugsliste. Entwurf zur notariellen Prüfung, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine Klauselskelette, fingierten Freigaben oder Zahlungen.
 
 ## 6. Beispiel
 

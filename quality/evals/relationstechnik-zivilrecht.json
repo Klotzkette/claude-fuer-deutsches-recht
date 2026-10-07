@@ -41,9 +41,10 @@
       "Fehlende Quittung von vorweggenommener Beweiswürdigung abgegrenzt; erheblicher Zeugenbeweis bleibt vor non liquet zu erheben.",
       "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
       "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
-      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1537ccd63312c434f7b822315c7c69f99e2f968a5ce16743944398b91103d3ec",
+    "sha256": "1aea90330cf04a5e1bf54c79cc268aa6556d219362204f18cddabb081f420a46",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -54,9 +55,10 @@
       "Zahlungsanspruch, Erfüllungseinwendung und beweisbedürftigen Übergabevorgang stationsbezogen prüfen.",
       "Erheblichen Zeugenbeweis nicht wegen bereits aus anderen Umständen gewonnener Überzeugung übergehen; auf konkret behauptete Barzahlung übertragen.",
       "Zahlung an Dritten -> Erheblichkeit und Empfangsbefugnis vor Beweisfrage neu prüfen.",
-      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen."
+      "Mehrere Forderungen, Hilfsaufrechnung, konkrete Wahrnehmung, Beweisprogramm und Entscheidungsreife stationsbezogen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "72979173aa04cc992305210bf34878c9984dd2e4c2f408a12aca2b58b1e5ecfb",
+    "sha256": "8efb13c028558df75a3d9b445948adf3b7a7e03a66af5f9c8cce930826190b28",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -104,6 +104,6 @@ Liefere die bestellte Vertragsfassung, Klausel, Gremienvorlage, Beratung oder Vo
 
 Kontrolliere Definitionen, Parameter, Doppelzählungen, Zuständigkeit, Nachweise, Termine und alle nachgereichten Antworten. Bei einem Hindernis den bereits belastbaren Teil liefern und die genau benötigte Entscheidung oder Unterlage nennen. Nach deren Eingang bis zur bestellten Endfassung fortsetzen; eine Nachforderung oder Skill-Empfehlung allein erledigt den Auftrag nicht.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Ausformulierte Texte verwenden beim Export Times New Roman 11 Punkt und dezimale Gliederung; bei Markdown einen Exporthinweis geben. Externe Kommunikation, Zahlung, Unterzeichnung oder Einreichung nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Ausformulierte Texte verwenden beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown einen Exporthinweis geben. Externe Kommunikation, Zahlung, Unterzeichnung oder Einreichung nur nach ausdrücklicher Freigabe.
 
 Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Ohne Export den fertigen Text liefern, keinen Dateierfolg behaupten. Optionale Fachskills können vertiefen; die Bearbeitung bleibt ohne sie möglich.

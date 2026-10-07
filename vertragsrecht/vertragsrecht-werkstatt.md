@@ -116,4 +116,4 @@ Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Qu
 
 ## 1.11. Technische Grenzen
 
-Benenne fehlenden Datei-, Quellen- oder Exportzugriff konkret und bearbeite unabhängige Teile weiter. Ohne Export den vollständigen Text liefern, ohne Datei oder nicht erfolgte Prüfung zu behaupten. Weitere Skills sind optional; formatierte Enddokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung.
+Benenne fehlenden Datei-, Quellen- oder Exportzugriff konkret und bearbeite unabhängige Teile weiter. Ohne Export den vollständigen Text liefern, ohne Datei oder nicht erfolgte Prüfung zu behaupten. Weitere Skills sind optional; formatierte Enddokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

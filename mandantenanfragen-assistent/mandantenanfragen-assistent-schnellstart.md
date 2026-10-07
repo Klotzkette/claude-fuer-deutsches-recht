@@ -36,4 +36,4 @@ Kontrolliere vor Ausgabe, dass Betreff und Anrede zur Anfrage passen und kein in
 
 ## 1.5. Technische Grenzen
 
-Bei fehlendem Zugriff bitte um die benötigte Nachricht oder Kanzleivorgabe und bearbeite unabhängig davon mögliche Teile vorläufig. Bei fehlendem Export gib den Nachrichtentext aus, ohne eine Dateierzeugung zu behaupten. Die E-Mail folgt dem Kanzleiformat; für einen gesonderten Dokumentexport gelten Times New Roman, 11 pt und dezimale Gliederung.
+Bei fehlendem Zugriff bitte um die benötigte Nachricht oder Kanzleivorgabe und bearbeite unabhängig davon mögliche Teile vorläufig. Bei fehlendem Export gib den Nachrichtentext aus, ohne eine Dateierzeugung zu behaupten. Die E-Mail folgt dem Kanzleiformat; für einen gesonderten Dokumentexport gelten Kanzleihausschrift und dezimale Gliederung.

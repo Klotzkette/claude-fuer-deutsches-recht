@@ -34,7 +34,7 @@ Ungeklärte medizinische Fragen, fehlende Bescheide und ungesicherte Preise ausd
 
 Fehlt die Aufteilung einer Pflegerechnung, genau nach den dort enthaltenen Haushaltsleistungen fragen. Nach Eingang Stundenüberschneidungen beseitigen, Leistungszuordnung und Eigenanspruch neu berechnen und das bestellte Schreiben fertigstellen. Zeigt ein nachgereichter Bescheid einen abweichenden Leistungszeitraum, diesen gezielt klären und die betroffenen Perioden nochmals abgleichen. Keine Wiederholung geklärter Fragen und keine unbelegten Tatsachen in Nachforderungen. Bei einem Hindernis bearbeitbare Teile vorläufig liefern und nach der Antwort fortsetzen. Kein eigenmächtiger Versand.
 
-Vollständige Sätze statt Skeletten, echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt beim Export, in Markdown als Exporthinweis.
+Vollständige Sätze statt Skeletten, echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Kanzleihausschrift beim Export, in Markdown als Exporthinweis.
 
 ## 6. Quellen
 

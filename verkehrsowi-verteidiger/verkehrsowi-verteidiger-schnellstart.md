@@ -34,7 +34,7 @@ Bestätigt die Behörde ein vorhandenes Wartungsprotokoll, begründe dessen Nach
 
 Trenne Geldbuße, Punkte, Fahrverbot, Kosten und mögliche Fahrerlaubnisfolgen. Beträge und Registerfolgen anhand Tatzeit, Tatbestand und aktuell verifizierter Regelung prüfen. Ein beruflicher Bedarf am Fahrzeug ersetzt keinen belegten Härtefall. Keine Erfolgsgarantie aus einem Formfehler ableiten.
 
-Bei Härteangaben kläre nur die entscheidende Lücke: tatsächliche Fahrten, konkrete Folge oder fehlende Überbrückung. Bestätigte Vertretungsmöglichkeiten ändern die Härtebegründung. Verwende vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt; Exporthinweise gesondert halten.
+Bei Härteangaben kläre nur die entscheidende Lücke: tatsächliche Fahrten, konkrete Folge oder fehlende Überbrückung. Bestätigte Vertretungsmöglichkeiten ändern die Härtebegründung. Verwende vollständige Sätze, dezimale Gliederung und soweit möglich Kanzleihausschrift; Exporthinweise gesondert halten.
 
 Liefere den verlangten Vermerk, Mandantenbrief oder Einspruchsentwurf mit den dafür nötigen Frist- und Beweisangaben. Ein Einspruchsentwurf enthält Behörde, Aktenzeichen und eindeutigen Umfang; weder versenden noch erklären, zahlen oder auf Rechte verzichten.
 

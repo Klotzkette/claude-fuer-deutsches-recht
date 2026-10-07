@@ -42,9 +42,10 @@
       "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
       "Anbieter-/Betreiberrolle sprachlich vereinheitlicht; Reformklauseln und Nachforderungswege erhalten.",
       "Leer: Zweckbindung, Supportbegrenzung oder Pilotfreigabe. Dateien: still lesen und Ersatzklauseln oder Einsatzvotum anbieten. Klar: direkt Klauseln, Anbieterbrief oder Einsatzvermerk erstellen.",
-      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
+      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8b6fc40387c1957db21f177f248623ab396ca84cd153973231943478cdfa290e"
+    "sha256": "fc9c8fc624157fc23b7c82a19bb9fcba0e8e672ff5af7a73a00e45381cd5fab7"
   },
   "selection": {
     "positive": [
@@ -180,9 +181,10 @@
       "Aussetzungsregel statt pauschaler Cloud- oder Länderfreigabe.",
       "Anbieter-/Betreiberrolle sprachlich vereinheitlicht; Reformklauseln und Nachforderungswege erhalten.",
       "Vertragsrang, Datenarten, Notfallzugriff, Backup-Lebenszyklus, Unterauftragnehmerwechsel und gestufte Pilotaktivierung ausgearbeitet.",
-      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe."
+      "Deaktiviertes Training ändert nicht automatisch Produktverbesserung; neu benannter Auslandssupport ändert Zugriffsklausel und Freigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b0eb3e30ca7de4ad503af0d14dfc955db151ab27b4ab42c8864242b9db5bd53f"
+    "sha256": "4dbb9495ebc86949259e6324661ab5834bad5445c6ec621f944cda4fff97c9bf"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

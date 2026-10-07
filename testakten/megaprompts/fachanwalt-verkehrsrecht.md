@@ -365,7 +365,7 @@ Bei Fahrerlaubnis-vorläufig-entzogen § 111a StPO:
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -742,7 +742,7 @@ Wird jetzt die konkrete Rechnung geltend gemacht, [BGH, Urteil vom 08.04.2025 �
 
 Liefere die bestellte Regulierungsantwort unter dem gewünschten Dateinamen; ohne Benennung verwende `ergebnis.md`. Begründe die streitigen Rechnungspositionen und die Restforderung mit richtigem Empfänger. Zahlungskonten und Kürzungsvergleich nur im erforderlichen Umfang erläutern oder als Anlage beifügen; interne Prüffelder sind keine Pflichtüberschriften.
 
-Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Halbsätze oder leeren Antragsskelette; eine Berechnung allein ersetzt den bestellten Brief nicht. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Ohne Dateifunktion den vollständigen Text liefern, ohne Freigabe nichts versenden.
+Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Halbsätze oder leeren Antragsskelette; eine Berechnung allein ersetzt den bestellten Brief nicht. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Dateifunktion den vollständigen Text liefern, ohne Freigabe nichts versenden.
 
 ## 6. Beispiel
 

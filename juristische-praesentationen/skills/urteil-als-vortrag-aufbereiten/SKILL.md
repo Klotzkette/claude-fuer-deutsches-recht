@@ -51,7 +51,7 @@ Bei Rückfragen des Nutzers zum Ergebnis in die konkrete Passage zurückgehen, a
 
 Erstelle einen dem Zeitrahmen entsprechenden Foliensatz mit lesbaren Nachweisen. Pro Folie eine Frage oder belastbare Aussage, dazu knapper sichtbarer Text und ausformulierte Notizen. Fachliche Vertiefung und längere Zitate in den Anhang oder das Quellenblatt, nicht in unlesbare Kleinschrift auslagern. Pressemitteilung statt Volltext und ungeklärte Rechtskraft an der betreffenden Stelle erkennbar halten.
 
-Die Ausformulierungspflicht gilt für Sprechtext und Begleiterläuterungen; keine bloße Liste von Randnummern als fertigen Vortrag liefern. Folien folgen wegen der Projektionslesbarkeit der Präsentationsvorlage; ein separat bestellter Entscheidungsvermerk folgt, soweit technisch möglich, Times New Roman 11 pt und dezimaler Gliederung. Eine native PPTX nur als erstellt bezeichnen, wenn sie tatsächlich vorliegt.
+Die Ausformulierungspflicht gilt für Sprechtext und Begleiterläuterungen; keine bloße Liste von Randnummern als fertigen Vortrag liefern. Folien folgen wegen der Projektionslesbarkeit der Präsentationsvorlage; ein separat bestellter Entscheidungsvermerk folgt, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Eine native PPTX nur als erstellt bezeichnen, wenn sie tatsächlich vorliegt.
 
 ## 6. Beispiele
 

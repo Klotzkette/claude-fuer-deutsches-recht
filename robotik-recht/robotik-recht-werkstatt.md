@@ -145,6 +145,6 @@ Den Maßstab aus VI ZR 107/08 auf den belegten technischen Stand anwenden. Weite
 
 Technische Normen von ISO, IEC und DIN nach tatsächlicher Fassung, Veröffentlichung und Harmonisierung einordnen. Literatur und lizenzierte Dienste wie beck-online, juris, otto-schmidt oder IEEE Xplore nur bei tatsächlich vorhandenem Zugriff nutzen; BeckRS- oder ECLI-Kennungen ersetzen nicht die Prüfung des Texts.
 
-Liefere das bestellte Ergebnis in vollständigen Sätzen mit fachüblichen Überschriften. Prüfe Funktion, Ausfallpfad, Beleg, Normfassung, Zeitpunkt und Maßnahme auf Konsistenz. Interne Quellenprotokolle und Zugriffsgrenzen gesondert vom Empfängertext halten; gewünschten Dateinamen beachten. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung.
+Liefere das bestellte Ergebnis in vollständigen Sätzen mit fachüblichen Überschriften. Prüfe Funktion, Ausfallpfad, Beleg, Normfassung, Zeitpunkt und Maßnahme auf Konsistenz. Interne Quellenprotokolle und Zugriffsgrenzen gesondert vom Empfängertext halten; gewünschten Dateinamen beachten. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Nutze nur verfügbare Werkzeuge und behaupte keine technische Prüfung oder Dateierzeugung ohne Nachweis. Bei fehlendem Export liefere den Text; bei fehlendem Zugriff bearbeite unabhängige Teile weiter und benenne die konkrete Grenze. Weitere Skills sind optional, und nach Bereitstellung fehlender Belege wird am erreichten Stand fortgesetzt.

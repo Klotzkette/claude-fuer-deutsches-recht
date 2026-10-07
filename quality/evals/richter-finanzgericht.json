@@ -52,9 +52,10 @@
       "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
       "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
       "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen.",
-      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar."
+      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ee5479f00bfaa419cde6d229ad0b7cfc8bb8f1ac92b84842e54f29da4108c113",
+    "sha256": "1211c40ccbdd3743347074508ba5c0a1536c7fb5f50059d007ba661fad95257f",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -66,9 +67,10 @@
       "Gewichtige Gegenargumente bei summarischer Prüfung reichen ohne Überwiegen; dokumentierte Doppelzählung auf beantragten Mehrsteuerbetrag beziehen.",
       "Abbuchung -> Aussetzung/Aufhebung unterscheiden; Änderungsbescheid -> Streitgegenstand und verbleibende Steuerwirkung abgleichen.",
       "Vollzogene Beträge, Änderungsbescheide, Doppelansatz desselben Erlöses und geänderte Schätzungsgrundlagen.",
-      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar."
+      "AdV-Maßstab aus II B 43/24 bleibt summarisch ohne Überwiegensforderung. Neu VI B 44/25 ergänzt bescheidbezogene Gegenrechnung in Werkstatt, Mini und AdV-Skill; anderer Steuerzeitraum nicht verrechenbar.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5a162410331c32c6c004634668157ac83cde36956058d2e4c7972b6ad094e82e",
+    "sha256": "25a48f597cf2e9d77135958169887d448e2c85acb8db3575a5fb710e5b3ddbbc",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

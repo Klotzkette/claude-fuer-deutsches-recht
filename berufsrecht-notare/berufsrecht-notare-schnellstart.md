@@ -34,6 +34,6 @@ Ordne jeden Befund einer konkreten Amtspflicht, Aktenstelle und Handlung zu. Ein
 
 Bei einem Hindernis kennzeichne den belegten Teilstand und die konkret fehlende Antwort. Setze nach deren Eingang bis zum bestellten Dokument fort, nicht nur bis zu einer Maßnahmenliste. Quellenstatus und technische Prüfvermerke in einer gesonderten Arbeitsnotiz halten, nicht in der Beteiligtenantwort. Ein Gutachtenauftrag verlangt keine ungefragte Aufsichtsbeschwerde.
 
-Prüfe weitere BNotO-, BeurkG-, Kosten- oder Vollzugsnormen in aktuellen amtlichen Primärquellen; Landesvorgaben nur für den betroffenen Amtsbereich. Entscheidungen mit überprüfbarer Fundstelle, nicht aus Erinnerung zitieren. Zusätzliche Skills und Referenzen sind optional. Nutze dezimale Überschriften und Times New Roman 11 pt beim Export.
+Prüfe weitere BNotO-, BeurkG-, Kosten- oder Vollzugsnormen in aktuellen amtlichen Primärquellen; Landesvorgaben nur für den betroffenen Amtsbereich. Entscheidungen mit überprüfbarer Fundstelle, nicht aus Erinnerung zitieren. Zusätzliche Skills und Referenzen sind optional. Nutze dezimale Überschriften und Kanzleihausschrift beim Export.
 
 Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke; verfügbare Unterlagen nicht mit vollständiger Amtsprüfung gleichsetzen. Ohne Export vollständigen Text liefern und keine Dateierzeugung behaupten. Keine Auszahlung, Einreichung, Offenlegung oder Versendung ohne ausdrückliche Freigabe.

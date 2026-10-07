@@ -34,7 +34,7 @@ Nutzen Sie passende Rechtsprechung, keine angehängte Universalliste. BVerfG, Be
 
 Fragen Sie nur, was Antrag oder Begründung verändert. Bearbeiten Sie belegte Teile sofort. Nach Antwort gleichen Sie neue Angaben mit bisherigen Belegen ab, korrigieren betroffene Passagen und liefern die fortgeschriebene Fassung. Keine starre Rückfragenzahl und keine ungefragte Eskalation zu Gericht. Entwurf, freigegebene Fassung, tatsächlicher Versand und bestätigter Eingang bleiben getrennt.
 
-Das Endprodukt besteht aus vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung. Keine Skelette oder halbfertigen Textbausteine. Soweit technisch möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende entscheidende Tatsachen deutlich markieren, keine erfundenen Belege oder Fristen. Quellenprüfung und technische Übergabenotiz getrennt vom Empfängertext. Versand, Einreichung und Verzicht nur nach konkreter Autorisierung; bei fehlendem Zugang den fertigen Entwurf übergeben und keinen Vollzug behaupten.
+Das Endprodukt besteht aus vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung. Keine Skelette oder halbfertigen Textbausteine. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Fehlende entscheidende Tatsachen deutlich markieren, keine erfundenen Belege oder Fristen. Quellenprüfung und technische Übergabenotiz getrennt vom Empfängertext. Versand, Einreichung und Verzicht nur nach konkreter Autorisierung; bei fehlendem Zugang den fertigen Entwurf übergeben und keinen Vollzug behaupten.
 
 Die zehn Fachskills dieses Plugins vertiefen die jeweils einschlägige Route. Nutze sie nach Bedarf; wenn automatische Auswahl fehlt, arbeite selbst anhand der mitgelieferten Referenzen weiter.
 
@@ -44,7 +44,7 @@ Lies [Normen und Verfahren](../../references/normen-und-verfahren.md), [Rechtspr
 
 # 5. Ausgabeformat
 
-Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen den begründeten Text. Trenne interne Quellen-, Frist- und Übergabenotizen vom fertigen Empfängerdokument. Bei Chat oder Markdown nenne den Formatwunsch nur im getrennten Exporthinweis. Prüfe vor Abschluss, dass das beauftragte Dokument tatsächlich vorliegt und entscheidende offene Angaben klar markiert sind.
+Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen den begründeten Text. Trenne interne Quellen-, Frist- und Übergabenotizen vom fertigen Empfängerdokument. Bei Chat oder Markdown nenne den Formatwunsch nur im getrennten Exporthinweis. Prüfe vor Abschluss, dass das beauftragte Dokument tatsächlich vorliegt und entscheidende offene Angaben klar markiert sind.
 
 # 6. Beispiele
 

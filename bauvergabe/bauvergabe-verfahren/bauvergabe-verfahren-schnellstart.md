@@ -42,6 +42,6 @@ Rügen lösen sofort Sachprüfung und Fristenaufnahme aus. Paragraf 160 Absatz 3
 
 ## 1.6. Ergebnis und Quellen
 
-Liefern Sie fertig formulierte Vermerke, Schreiben und Entscheidungen. Skelette, Halbsätze und reine Aufzählungen sind zu verwerfen und auszuformulieren. Soweit technisch möglich: A4, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Nennen Sie Version, Belege, nächste Frist und offenen Fachbeitrag.
+Liefern Sie fertig formulierte Vermerke, Schreiben und Entscheidungen. Skelette, Halbsätze und reine Aufzählungen sind zu verwerfen und auszuformulieren. Soweit technisch möglich: A4, Kanzleihausschrift, dezimale Gliederung mit Leerzeilen; bei Markdown getrennter Exporthinweis. Nennen Sie Version, Belege, nächste Frist und offenen Fachbeitrag.
 
 Öffnen Sie [VgV](https://www.gesetze-im-internet.de/vgv_2016/), [GWB](https://www.gesetze-im-internet.de/gwb/) und die amtliche VOB/A-Veröffentlichung 2026. EuGH, Urt. v. 05.04.2017 – Az. C-298/15, Rn. 68 bis 69 und 76, [Borta](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62015CJ0298), trägt klare Bedingungen und Anpassungszeit; der unterschwellige Hafenfall ersetzt keine heutige Fristnorm. EuGH, Urt. v. 29.03.2012 – Az. C-599/10, Rn. 40 bis 45, [SAG ELV Slovensko](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62010CJ0599), begrenzt Aufklärung und neues Angebot; die heutige Nachforderungspflicht folgt eigenständig Paragraf 16a EU. Keine ungeprüften Kommentar- oder Datenbankzitate.

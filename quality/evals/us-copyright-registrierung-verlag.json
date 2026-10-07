@@ -41,9 +41,10 @@
       "Fourth Estate in beide Zeitachsen integriert",
       "Section 411(a) von effective date und Dreimonatsregel unterschieden",
       "Ablehnungs- und Sonderfälle sowie Fortbestand früherer Ansprüche ausdrücklich begrenzt",
-      "Neue Übersetzung, alter Text und fremde Illustrationen steuern Claim-Felder; nachgereichter Vertrag wirkt nur in seinem belegten Umfang."
+      "Neue Übersetzung, alter Text und fremde Illustrationen steuern Claim-Felder; nachgereichter Vertrag wirkt nur in seinem belegten Umfang.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "916cc1e7d223299ea880b4f22c3298a4150b072244d641c427a81d03738e6431"
+    "sha256": "4b74be1525bea0f2f9593dd468dafd739766f66133e8dec0e7ceafc0107f97b1"
   },
   "selection": {
     "positive": [
@@ -97,9 +98,10 @@
       "Section 411(a) von effective date und Dreimonatsregel unterschieden",
       "Ablehnungs- und Sonderfälle sowie Fortbestand früherer Ansprüche ausdrücklich begrenzt",
       "Alte und neue Werkbeiträge, Übertragungsurkunde und tatsächliche Ausgabe bestimmen Claim und Deposit; historische Circular 14 ausdrücklich von Compendium-Praxis getrennt.",
-      "Office-Action-Frist aus dem konkreten Schreiben, Nachreichung und Zertifikat führen zu geänderter Antwort und getrennter Bewertung von Sections 410(d), 411(a) und 412."
+      "Office-Action-Frist aus dem konkreten Schreiben, Nachreichung und Zertifikat führen zu geänderter Antwort und getrennter Bewertung von Sections 410(d), 411(a) und 412.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3a3ac5148cd1bf26a655b190ec47f330a9d069ba962f30a6924497fc780d0e2d"
+    "sha256": "1884cb43d73017e0472adf71267303d3f0f522a08a0c10e3c19cddbab3db048e"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

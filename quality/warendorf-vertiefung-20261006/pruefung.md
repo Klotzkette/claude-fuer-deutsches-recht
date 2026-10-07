@@ -28,7 +28,7 @@ Die Basiswerte wurden unabhängig abgeglichen: 2. November als bedingter Anlauf 
 
 ## 1.4. Formate und Sichtprüfung
 
-Alle vier neuen DOCX wurden über den kanonischen `render_docx.py` gerendert und vollständig seitenweise geprüft. Die Schrift ist Times New Roman mit 11 Punkt; dezimale Überschriften erhalten einen Leerabsatz. E-Mails haben vollständige Absender-, Empfänger-, Datums-, Nachrichten- und Transportheader. Neue Kontaktadressen verwenden reservierte `.example`-Domains mit entsprechendem Hinweis und Prüfmarker im README.
+Alle vier neuen DOCX wurden über den kanonischen `render_docx.py` gerendert und vollständig seitenweise geprüft. Die Schrift ist Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; dezimale Überschriften erhalten einen Leerabsatz. E-Mails haben vollständige Absender-, Empfänger-, Datums-, Nachrichten- und Transportheader. Neue Kontaktadressen verwenden reservierte `.example`-Domains mit entsprechendem Hinweis und Prüfmarker im README.
 
 Alle sechs neuen Tabellenblätter und sämtliche 21 Seiten ihrer finalen Einzel-Lesefassungen einschließlich der zehn neuen Belege wurden visuell geprüft. Die Tabellen nutzen A4 quer und wiederholen ihre Kopfzeilen. Ergebnis- und Quellenspalten der ersten beiden Mappen sind durch eine Leerspalte getrennt. Nach der Sichtprüfung wurden Zeilenhöhen und Zahlenabstände korrigiert; die betroffenen Fassungen wurden erneut gerendert.
 

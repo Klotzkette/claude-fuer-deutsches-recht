@@ -39,7 +39,7 @@ Verifiziere die tragenden Normen in der für den Fall geltenden Fassung und lies
 
 # 5. Ausgabeformat
 
-Liefere das verlangte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen den begründeten Text. Empfängerdokument und interne Beleg-/Fristennotiz bleiben getrennt. Bei Markdown/Chat den Formatwunsch als gesonderten Exporthinweis nennen. Markiere fehlende entscheidende Daten, liefere bereits belastbare Teile und verarbeite Antworten im selben Entwurf. Prüfe, ob das bestellte Produkt wirklich vorliegt.
+Liefere das verlangte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Tabellen ergänzen den begründeten Text. Empfängerdokument und interne Beleg-/Fristennotiz bleiben getrennt. Bei Markdown/Chat den Formatwunsch als gesonderten Exporthinweis nennen. Markiere fehlende entscheidende Daten, liefere bereits belastbare Teile und verarbeite Antworten im selben Entwurf. Prüfe, ob das bestellte Produkt wirklich vorliegt.
 
 # 6. Beispiele
 

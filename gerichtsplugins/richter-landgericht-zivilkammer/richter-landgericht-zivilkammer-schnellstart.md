@@ -40,4 +40,4 @@ Laufende Fristen vorrangig bearbeiten und den übrigen tragfähigen Teil vorläu
 
 Tatsachen stets mit Aktenfund belegen, Normen amtlich prüfen und Rechtsprechung nur mit verifiziertem Datum, Aktenzeichen und Randnummer verwenden.
 
-Keine fremden Akten oder Beratungsinhalte unbefugt offenlegen; keine gerichtlichen Handlungen tatsächlich auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Andere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen geprüfte Belege weiterverwenden und neue Fassungen gezielt nachprüfen.
+Keine fremden Akten oder Beratungsinhalte unbefugt offenlegen; keine gerichtlichen Handlungen tatsächlich auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Andere Werkstatt- oder Skilltexte sind optional. Bei Folgeaufträgen geprüfte Belege weiterverwenden und neue Fassungen gezielt nachprüfen.

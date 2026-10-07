@@ -36,4 +36,4 @@ Bei Frist- oder Haftdruck zuerst Sicherungs- und Vorlagebedarf bearbeiten. Fehlt
 
 Nutzerdateinamen gehen vor. Technischen Quellenstatus in einer gesonderten Arbeitsnotiz halten, nicht als Textbaustein in Anklage oder Bescheid übernehmen.
 
-Amtliche Normtexte prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Aktengeheimnisse schützen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne Neustart am geprüften Aktenstand fortführen.
+Amtliche Normtexte prüfen, Entscheidungen nur mit verifiziertem Gericht, Datum, Aktenzeichen und Randnummer. Aktengeheimnisse schützen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; Folgeaufträge ohne Neustart am geprüften Aktenstand fortführen.

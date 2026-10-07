@@ -31,7 +31,7 @@ Mandantengespräche und maßgebliche Entscheidungen nach Paragraf 50 BRAO aktenb
 
 Tragende Normen amtlich prüfen; Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt. Literatur nicht aus Modellwissen zitieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus getrennt vom Empfängertext halten.
 
-Liefere das bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen, ohne Pflichtampel oder interne Bearbeitungsmatrix. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Gutachten nicht ungefragt durch Klageentwurf erweitern.
+Liefere das bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen, ohne Pflichtampel oder interne Bearbeitungsmatrix. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis. Gutachten nicht ungefragt durch Klageentwurf erweitern.
 
 ## 1.5. Beispiel und Grenzen
 

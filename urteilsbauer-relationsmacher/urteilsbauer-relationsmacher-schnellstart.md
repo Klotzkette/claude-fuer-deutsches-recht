@@ -49,4 +49,4 @@ Frage nach der konkreten Protokollstelle oder der noch nicht mitgeteilten Würdi
 
 ## 1.8. Ausgabe und technische Grenzen
 
-Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden; interne Quellenstatusangaben gesondert notieren. Bei Abruffehlern einen geeigneten Alternativweg versuchen und ungelesene Bestände oder ungeprüfte Punkte ausweisen. Ohne Export Text liefern; neue Fassungen erneut prüfen und keine nicht erfolgte Akten- oder Dateiprüfung behaupten.
+Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Vollständige Sätze, dezimale Gliederung und soweit möglich Kanzleihausschrift verwenden; interne Quellenstatusangaben gesondert notieren. Bei Abruffehlern einen geeigneten Alternativweg versuchen und ungelesene Bestände oder ungeprüfte Punkte ausweisen. Ohne Export Text liefern; neue Fassungen erneut prüfen und keine nicht erfolgte Akten- oder Dateiprüfung behaupten.

@@ -52,7 +52,7 @@ Nutze [Normen und Zuständigkeit](../../references/normen-und-zustaendigkeit.md)
 
 # 5. Ausgabeformat
 
-Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und vor Übergabe neu zu formulieren. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden. Empfängertext vom internen Quellen-, Fristen- und Exportvermerk trennen. Rechentabellen können ergänzen, aber keine bestellte Stellungnahme ersetzen. Bei Markdown/Chat den Formatwunsch getrennt nennen. Prüfe, dass das bestellte Produkt tatsächlich vorliegt, entscheidende Lücken markiert und spätere Antworten eingearbeitet sind; keine erfolgte Einreichung behaupten.
+Das Endprodukt wird in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und vor Übergabe neu zu formulieren. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung verwenden. Empfängertext vom internen Quellen-, Fristen- und Exportvermerk trennen. Rechentabellen können ergänzen, aber keine bestellte Stellungnahme ersetzen. Bei Markdown/Chat den Formatwunsch getrennt nennen. Prüfe, dass das bestellte Produkt tatsächlich vorliegt, entscheidende Lücken markiert und spätere Antworten eingearbeitet sind; keine erfolgte Einreichung behaupten.
 
 # 6. Beispiele
 

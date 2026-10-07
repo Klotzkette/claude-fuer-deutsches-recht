@@ -80,7 +80,7 @@ Bei einem verbleibenden Hindernis liefere einen klar bezeichneten Teilstand und 
 
 ## 1.11. Technische Grenzen
 
-Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine Recherche, Übermittlung oder Fristwahrung ohne Durchführung beziehungsweise Nachweis. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine Recherche, Übermittlung oder Fristwahrung ohne Durchführung beziehungsweise Nachweis. Verwende dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Vorlagefrage aus zwei Entscheidungsalternativen entwickeln
 

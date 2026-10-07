@@ -20,9 +20,10 @@
     "changes": [
       "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "01cd6730162904e1b6f4a235fd698d88701b5145503066a4aa603a0e6fb314a7"
+    "sha256": "5541b011d5bd073af688e574f6b5c9a4db9ac9031d00a0d6d4514a4026b28b6a"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -30,9 +31,10 @@
     "changes": [
       "Werkstatt von sachfremden Gutachtenmatrizen befreit; tatsächliche Briefaussage und passende Antwort, korrigierte Warnworterklärungen.",
       "Strafbefehl als wesentliche Unterlage; eigene Zusammenfassung nicht als amtliche Übersetzung ausgeben. Grenze: Kein allgemeines Zertifizierungsurteil zur Leichten Sprache; nationale Fristwirkung eigenständig prüfen.",
-      "Bedingte Zahlungszusagen, Rollen und Pronomen, Anhörung gegen Entscheidung, beantragte gegen bewilligte Fristverlängerung sowie semantisch deckungsgleiche Sprachfassungen mit vollständigen Briefen verbunden."
+      "Bedingte Zahlungszusagen, Rollen und Pronomen, Anhörung gegen Entscheidung, beantragte gegen bewilligte Fristverlängerung sowie semantisch deckungsgleiche Sprachfassungen mit vollständigen Briefen verbunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ee5aab56d9772f12ab7cfb5ea35f70e1750e2afe8f167d5386296cce2d0e0fdb"
+    "sha256": "0826f45190a0b5f5736460f00e2482e0069aeb09ec67d58b1069ded336ef60b8"
   },
   "selection": {
     "positive": [

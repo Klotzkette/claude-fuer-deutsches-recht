@@ -84,7 +84,7 @@ Verifiziere tragende Rechtsaussagen und Rechtsprechung amtlich. Erfinde keine En
 
 ## 1.10. Technische Grenzen
 
-Bei fehlendem Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text, statt Dateilinks oder erfolgreiche Übermittlung zu erfinden. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Bei fehlendem Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text, statt Dateilinks oder erfolgreiche Übermittlung zu erfinden. Verwende dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.11. Titelablauf und Bekanntgabe in eine konkrete Verfahrensentscheidung überführen
 

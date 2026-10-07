@@ -90,9 +90,10 @@
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
       "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
-      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
+      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c5d52c75889264377326eb4769dff4dbf855282e4f4f492e02e30bfb735fa770",
+    "sha256": "53e288168e05f6a013ac4855e7dd621acbf9e31db02d15e36680d77dd1d862f1",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -107,9 +108,10 @@
       "Neue Einkommens- und Unterhaltsbelege verändern Tagessatzbewertung und Begründung; bestrittene Täterschaft bleibt eigener Angriffspunkt. Ein anderer Zustellnachweis verändert Frist und Folgeschritte.",
       "Zahlungswunsch, bewusste Einspruchsbeschränkung, Tagessatzanzahl und Zahlungserleichterung trennen; zustimmungsabhängigen Beschlussweg von fortbestehender Ladung unterscheiden; Wiedereinsetzung und Nebenfolgen fallbezogen fortschreiben.",
       "Quellenabgleich 25.09.2026: Haftart im Fall 2 BvR 1351/23 anhand der Randnummern 42 und 48 als philippinische Abschiebehaft präzisiert. Weitere Workflowbewertungen nicht erneut bestätigt.",
-      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert."
+      "01.10.2026: 12 Qs 43/26 zur Grenze nachträglicher Berichtigung integriert; im zugehörigen Zulässigkeitsskill Haft-/Zuständigkeitsbehauptungen, Sanktionskatalog, §-408-Entscheidungswege und pauschale Nichtigkeit anhand amtlicher Normen korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ae8bf5dd95ed6568ac39e1ec039777e8d80c108d43768368b243e5b5bb42c6bd",
+    "sha256": "e2101e0264e3cc45414c61286c4b1ec6289a2dc955d84931628d6e3ab333e9a7",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

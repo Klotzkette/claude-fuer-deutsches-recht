@@ -102,9 +102,10 @@
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
       "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8346fc277562405bdd422e7ab40c1447cba6474281dbee6d0a224c67a4502da9"
+    "sha256": "2c12b62bea4b164a5d9010a8d21eb85693db20e25ea78afc0fb7db1acd709b24"
   },
   "selection": {
     "positive": [
@@ -254,9 +255,10 @@
       "Zehnprozentregel, taggenaue Zeitfenster, getrennte AI/II/PI/II und eigenständige Indizienwürdigung statt automatischer Insolvenzampel.",
       "Rangrücktritt, Fortbestehensprognose mit Drittmitteln und eigenständigen Überschuldungsstatus differenziert; 12/24-Monatshorizonte abgegrenzt.",
       "Vorhandene Rückfragen-/Beleg-/Fortschreibungslogik erhalten; OCR-Saldenkontrolle ergänzt.",
-      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38"
+      "Gezielter amtlicher Rechtsprechungsabgleich 30.09.2026: BGH, Urteil vom 12.03.2026 – IX ZR 18/25, Rn. 24–32, 36–38",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "73c14a4e0c598860c56f15630dbfd8c1a0679686e6288dc48f20dae3c262f6cb"
+    "sha256": "baf2cd0c49699c875787549863a754c5102dc9301acf28a7a98f5d3445333ac6"
   },
   "prompt_editorial_review": {
     "date": "2026-09-28",

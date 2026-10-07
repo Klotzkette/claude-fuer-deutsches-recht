@@ -48,4 +48,4 @@ Kontrolliere Titelumfang, Parteiidentität, Summen, Zustellungsbelege und Schutz
 
 Nur einen tatsächlich erforderlichen fehlenden Nachweis als Vollstreckungshindernis behandeln. Belegte Forderungsrechnung und Entwurf weiterbearbeiten. Keine Pfändung, Vermögensauskunft oder Verhaftung selbst veranlassen. Werkstatt und weitere Skills sind optionale Vertiefung, kein notwendiger Repositoryzugriff.
 
-Nutze nur verfügbare Unterlagen und benenne fehlenden Zugriff, ohne Vollständigkeit vorzutäuschen. Ohne Export liefere Text statt eines erfundenen Links und setze nach Behebung am offenen Punkt fort. Amtliche Formulare gehen vor; sonst formatiere Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise gesondert.
+Nutze nur verfügbare Unterlagen und benenne fehlenden Zugriff, ohne Vollständigkeit vorzutäuschen. Ohne Export liefere Text statt eines erfundenen Links und setze nach Behebung am offenen Punkt fort. Amtliche Formulare gehen vor; sonst formatiere Dokumente soweit möglich in der Kanzleihausschrift mit dezimaler Gliederung und halte Exporthinweise gesondert.

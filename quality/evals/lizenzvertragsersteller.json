@@ -46,9 +46,10 @@
       "M2Trade für wirksame Unterlizenzen und Rückfall der Hauptrechte integriert",
       "Escrow nicht als fehlende Rechte ersetzende Insolvenzsicherung behandelt",
       "TTBER 2026 mit Übergang statt abgelaufener Pauschalfreistellung berücksichtigt",
-      "Neue Freigabe mit Bearbeitungsausschluss führt zu abgestimmter Rechteanlage, Unterlizenzklausel und Anpassung entgegenstehender Leistungszusagen."
+      "Neue Freigabe mit Bearbeitungsausschluss führt zu abgestimmter Rechteanlage, Unterlizenzklausel und Anpassung entgegenstehender Leistungszusagen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4e5dc0ccf31c7012f800d6b32c96dcd8054d3bb78ac065ab80ac32ca1054d449"
+    "sha256": "7f1cb9d4d271754a50b759b4ab7afb170ef73f70231e9b85b9484d6030e9787c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -60,9 +61,10 @@
       "Weitere Beteiligung nach Erlösstufe und unmittelbarem Anspruchsgegner konkretisiert.",
       "Kombinierte Software-, Bild- und Musikbeiträge getrennt zuordnen; Freistellung nicht als Ersatz fehlender Rechte verwenden.",
       "Auftragsfertiger, Vertriebspartner und Endkundenlizenz unterscheiden; Mindestleistung und Folge einer verfehlten Exklusivitätsgegenleistung ausformulieren.",
-      "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen."
+      "Bündelerlös, spätere Retoure, Abverkauf, fortbestehende Kundenrechte und Support getrennt bearbeiten; Escrow-Build und Komponentenrechte nicht gleichsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "be1a6aa9999e4ebe04a0a4eccb90ad5596f007865ddfbc8f12136b5585519149"
+    "sha256": "ffb286f11b95afda4e8d909a3bc810cf7a0e60f2970e5a0391745cd314c8006c"
   },
   "selection": {
     "positive": [

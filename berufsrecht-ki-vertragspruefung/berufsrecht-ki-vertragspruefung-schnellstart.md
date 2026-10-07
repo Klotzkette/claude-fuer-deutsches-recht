@@ -42,4 +42,4 @@ Nach [Paragraf 2 KI-MIG](https://www.gesetze-im-internet.de/ki-mig/__2.html) ist
 
 Ein Datenschutz-Reformvorschlag ist keine Trainingsbefugnis. Urteile nur für ihren überprüften Streitgegenstand verwenden.
 
-Weitere Skills und Referenzen sind optional. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen; ohne Export den vollständigen Text liefern. Anbieterkommunikation, Vertragsannahme und Datenübertragung nur nach ausdrücklicher Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Weitere Skills und Referenzen sind optional. Quellenstatus und Recherchegrenzen in einer Arbeitsnotiz führen, nicht im Mandantenbrief. Ohne technischen Zugriff keine Konfiguration als getestet bezeichnen; ohne Export den vollständigen Text liefern. Anbieterkommunikation, Vertragsannahme und Datenübertragung nur nach ausdrücklicher Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Kanzleihausschrift.

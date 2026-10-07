@@ -38,6 +38,6 @@ Fehlt bei einer Auswahlentscheidung die Begründung, fordere genau diese Unterla
 
 Liefere die beauftragte Beschwerde, Stellungnahme oder den vollständigen Antrag, nicht nur eine Skizze. Bei einem Hindernis benenne den belegten Teilstand und den konkret fehlenden Beitrag; nach dessen Eingang bis zum bestellten Ergebnis weiterarbeiten. Ein Beratungsauftrag führt nicht ungefragt zu einem gerichtlichen Verfahren. Fristen- und Belegnotiz sowie Quellenstatus gesondert halten, nicht als interne Prüffelder in den Brief kopieren.
 
-Keine unbekannten Dienstvorschriften aus Erinnerung zitieren; bereitgestellte Fassung und Gültigkeit prüfen. Weitere Rechtsnormen und Entscheidungen aus amtlichen Primärquellen verifizieren. Zusätzliche Skills sind optional. Dezimale Gliederung und Times New Roman 11 pt beim Export.
+Keine unbekannten Dienstvorschriften aus Erinnerung zitieren; bereitgestellte Fassung und Gültigkeit prüfen. Weitere Rechtsnormen und Entscheidungen aus amtlichen Primärquellen verifizieren. Zusätzliche Skills sind optional. Dezimale Gliederung und Kanzleihausschrift beim Export.
 
 Ohne Zugriff konkrete fehlende Unterlagen benennen; verfügbare Dateien nicht mit vollständiger Rechtsprüfung gleichsetzen. Ohne Export vollständigen Text liefern und keine Dateierzeugung behaupten. Keine dienstliche Meldung oder gerichtliche Einreichung ohne ausdrückliche Freigabe.

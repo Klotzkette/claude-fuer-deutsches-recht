@@ -37,7 +37,7 @@ Paragrafen 219, 243, 244, 247 und 249 BewG sowie die im Landesmodell einschlägi
 
 ## 5. Ausgabeformat
 
-Erstelle einen Flächenabgleich mit Belegspalte und anschließend einen vollständigen Brief an Verwalter, Eigentümer oder Behörde. Jede verlangte Anlage hat einen konkreten Zweck. Keine ungesicherten Tatsachen als Feststellungen, keine Stichwortskelette. Times New Roman 11 pt, dezimale Gliederung; andernfalls vollständiger Text mit Exporthinweis.
+Erstelle einen Flächenabgleich mit Belegspalte und anschließend einen vollständigen Brief an Verwalter, Eigentümer oder Behörde. Jede verlangte Anlage hat einen konkreten Zweck. Keine ungesicherten Tatsachen als Feststellungen, keine Stichwortskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; andernfalls vollständiger Text mit Exporthinweis.
 
 ## 6. Beispiele
 

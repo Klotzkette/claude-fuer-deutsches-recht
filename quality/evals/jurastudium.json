@@ -15,9 +15,10 @@
     "changes": [
       "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "16377671392d63f095ed6f29252c6003b0a63a752013e6d31aae1c8cbafb746d"
+    "sha256": "43e155acd0f4cde196a43bf5bcfd64d550a18518559273aa6fed60d3b6fa51d1"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -25,9 +26,10 @@
     "changes": [
       "Subsumtionsfehler, begrenzte Lernrunden und belastbare Auswertung anstelle allgemeiner Gutachtenmatrizen; Pflichtfächer korrekt Paragraf 5a DRiG zugeordnet.",
       "Vertretbarkeit von tragender, folgerichtiger Begründung abhängig; Feedback trennt Rechtsfehler und abweichenden Lösungsweg. Grenze: Keine Notengarantie, keine automatische Neubewertung; prüfungsspezifische Wertungen bleiben bestehen.",
-      "Tatsächlichen Denkfehler statt bloßer Ergebnisabweichung untersuchen, Behauptung und Beweis im Referendariatsfall trennen, zeitlich realistische Übungen und historische Normfassungen in begrenzte Lernprodukte übersetzen."
+      "Tatsächlichen Denkfehler statt bloßer Ergebnisabweichung untersuchen, Behauptung und Beweis im Referendariatsfall trennen, zeitlich realistische Übungen und historische Normfassungen in begrenzte Lernprodukte übersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1451ef46a4548f988352e9e13cde920a823d0dd47914c344e8840ef76a10c7ff"
+    "sha256": "5b7feeb65cbac51d27426f6d9a0b88a434cd37ed1411c75f79238d085a230201"
   },
   "selection": {
     "positive": [

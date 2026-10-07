@@ -35,7 +35,7 @@ Tragende Normen und Rechtsprechung amtlich prüfen. Keine Kommentar-, Handbuch- 
 
 Liefere die beauftragte Planung und vollständig ausformulierte Erläuterung, keine Pflichtkombination aus Kurzbild, Matrix und Maßnahmenliste. Bei einem Hindernis den belastbaren Teil mit genau benanntem fehlendem Nachweis ausgeben und nach Antwort fortsetzen. Ein Gutachtenauftrag führt nicht ungefragt zur Antragserstellung.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` möglich. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung formatieren, bei Markdown einen getrennten Exporthinweis geben. Zahlung, Versand oder Einreichung bedürfen ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor; ohne Vorgabe ist `ergebnis.md` möglich. Texte beim Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung formatieren, bei Markdown einen getrennten Exporthinweis geben. Zahlung, Versand oder Einreichung bedürfen ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel und technische Grenzen
 

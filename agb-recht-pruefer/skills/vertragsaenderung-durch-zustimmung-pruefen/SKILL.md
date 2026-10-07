@@ -29,7 +29,7 @@ Alt- und Neufassung, bestehende Änderungsklausel, Vertragstyp, Kundengruppe, Ä
 
 ## 5. Ausgabeformat
 
-Begründeter Änderungsvermerk, Belegmatrix und ausformuliertes Angebot mit Reaktionsweg, Wirksamkeitstag und offenen Freigaben. Nur bei Auftrag eine Entscheidungsvorlage oder interne Weisung ergänzen. Vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen. Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
+Begründeter Änderungsvermerk, Belegmatrix und ausformuliertes Angebot mit Reaktionsweg, Wirksamkeitstag und offenen Freigaben. Nur bei Auftrag eine Entscheidungsvorlage oder interne Weisung ergänzen. Vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 

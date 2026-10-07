@@ -31,7 +31,7 @@ Bei Berufung auf den [Berliner Bericht](../../references/berliner-kommissionsber
 
 ## 5. Ausgabeformat
 
-Vollständig begründete Forderungsaufstellung oder Prüfstellungnahme mit prüfbaren Rechenwegen; optional native Tabelle mit getrennten Eingaben, Formeln und offenen Positionen. Begleitbrief mit konkretem Zahlungs- oder Aufklärungsbegehren. Times New Roman 11 pt, dezimale Gliederung; Rundung und Annahmen offenlegen, Original-CSV erhalten.
+Vollständig begründete Forderungsaufstellung oder Prüfstellungnahme mit prüfbaren Rechenwegen; optional native Tabelle mit getrennten Eingaben, Formeln und offenen Positionen. Begleitbrief mit konkretem Zahlungs- oder Aufklärungsbegehren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Rundung und Annahmen offenlegen, Original-CSV erhalten.
 
 ## 6. Beispiele
 

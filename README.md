@@ -170,7 +170,7 @@ Für den Einsatz ohne Plugin-Installation gibt es ausführliche Werkstatt-Prompt
 
 ### Formatstandard für erzeugte Dokumente
 
-Alle Skills, Werkstatt-Prompts und Schnellstart-Prompts sind darauf ausgerichtet, verwertbare Endprodukte nicht nur inhaltlich, sondern auch formal sauber auszugeben. Für Schriftsätze, Klagen, Klageerwiderungen, Repliken, Dupliken, Anträge, Memos, Vermerke, Verträge, Beschlussentwürfe, Verfügungen und Mandantenbriefe gilt deshalb als Standard: **Times New Roman, Schriftgröße 11 pt, vollständig ausformulierte Sätze und ausschließlich dezimale Gliederung** (`1`, `1.1`, `1.1.1`). Wenn ein amtliches Formular, ein Gerichtslayout, ein Mandantentemplate oder ein Tabellenformat davon abweicht, soll der Prompt die Abweichung ausdrücklich benennen.
+Alle Skills, Werkstatt-Prompts und Schnellstart-Prompts sind darauf ausgerichtet, verwertbare Endprodukte nicht nur inhaltlich, sondern auch formal sauber auszugeben. Für Schriftsätze, Klagen, Klageerwiderungen, Repliken, Dupliken, Anträge, Memos, Vermerke, Verträge, Beschlussentwürfe, Verfügungen und Mandantenbriefe gilt deshalb als Standard: **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, vollständig ausformulierte Sätze und ausschließlich dezimale Gliederung** (`1`, `1.1`, `1.1.1`). Wenn ein amtliches Formular, ein Gerichtslayout, ein Mandantentemplate oder ein Tabellenformat davon abweicht, soll der Prompt die Abweichung ausdrücklich benennen.
 
 Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sortierte Liste: **[Klotzkettes Juristische Promptliste](./PROMPTLISTE.md)** — alle Angaben ohne Gewähr, mit großem Disclaimer auf der Seite. Workflow-Eingangs-Skills, generische Router und ausgesprochen historisch-exotische Inhalte (Preußisches Landrecht, Römisches Recht, Kanonisches Recht, Weltraumrecht) bleiben dort bewusst ausgespart.
 
@@ -182,7 +182,7 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | **Skills (SKILL.md)** | 22826: [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 462 zentral / 465 gesamt |
 | **Fachanwalts-Profile** | 24 |
-| **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Plugin-Version / Arbeitsstand** | `v445.34.0` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -332,7 +332,7 @@ Die [Bauvergabe-Reihe](./bauvergabe/README.md) bündelt fünf eigenständige Plu
 >
 > This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
 
-> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-inkasso-zahlungsklage-modefuchs.zip)
+> **ModeFuchs: eine Akte für Forderungsprüfung und Cowork-Bearbeitung.** Die [Inkasso-Zahlungsklage ModeFuchs](./testakten/inkasso-zahlungsklage-modefuchs/README.md) verbindet 28 unveränderte Original-PDFs mit drei daraus abgeleiteten Scan-PDFs, einem Einlieferungsbeleg-Foto, elf nativen E-Mails mit Anhängen, zwei Bildschirmfotos, einem Excel-Forderungskonto und einer bearbeitbaren Klagearbeitsfassung. Belegordnung, Forderungsabgleich und Anlagenzuordnung erfolgen anhand dieses gemeinsamen Fallbestands. Direkt-Download: [`testakte-inkasso-zahlungsklage-modefuchs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.34.0/testakte-inkasso-zahlungsklage-modefuchs.zip)
 
 Die folgende Tabelle enthält alle installierbaren Plugins einzeln und alphabetisch sortiert. Auch Plugins in den Sammelordnern [`gerichtsplugins/`](./gerichtsplugins/) und [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/) erscheinen mit ihrem eigenen Namen und tatsächlichen Pfad. Thematische Einstiegsknoten stehen zusätzlich unter [`plugin-gruppen/`](./plugin-gruppen/); die vollständigen Downloadwege finden sich im [Asset-Index](./ASSET_INDEX.md).
 

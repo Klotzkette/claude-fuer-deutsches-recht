@@ -386,7 +386,7 @@ Bei einer Bankprüfung kann ein aktualisierter Auszug ein notwendiger Beleg sein
 
 ## 12. Ausformulierte Arbeitsprodukte
 
-Die nachfolgenden Texte sind Gestaltungsbausteine für den konkret beauftragten Fall. Ersetzen Sie alle Eingabefelder durch belegte Angaben oder kennzeichnen Sie offene Stellen ausdrücklich. Kein Beispiel darf als bereits versandte Erklärung in die Akte gelangen. Ausgegebene Enddokumente bestehen aus vollständigen Sätzen; Stichwortskelette sind zu verwerfen und auszuformulieren. Soweit technisch möglich gelten Times New Roman, 11 pt, und ausschließlich dezimale Gliederung. Bei reiner Markdown-Ausgabe gehört der Exporthinweis in eine getrennte technische Notiz.
+Die nachfolgenden Texte sind Gestaltungsbausteine für den konkret beauftragten Fall. Ersetzen Sie alle Eingabefelder durch belegte Angaben oder kennzeichnen Sie offene Stellen ausdrücklich. Kein Beispiel darf als bereits versandte Erklärung in die Akte gelangen. Ausgegebene Enddokumente bestehen aus vollständigen Sätzen; Stichwortskelette sind zu verwerfen und auszuformulieren. Soweit technisch möglich gelten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, und ausschließlich dezimale Gliederung. Bei reiner Markdown-Ausgabe gehört der Exporthinweis in eine getrennte technische Notiz.
 
 ### 12.1. Auskunftsersuchen zu Beteiligung und Kontrolle
 

@@ -49,7 +49,7 @@ Für jede Closing-Bedingung Originalwortlaut, Erfüllungsbeleg, offenen Rest und
 
 Fehlt eine Bankzustimmung, benenne betroffene Klausel, Transaktion und benötigten Nachweis. Nach Eingang Reichweite und Bedingungen prüfen, Vollzugsplan und bestelltes Bank- oder Mandantenschreiben aktualisieren und fertigstellen. Eine Zustimmung zu anderem Erwerber oder Zeitpunkt erledigt die konkrete Bedingung nicht automatisch.
 
-Liefere das gewünschte Dokument unter der Nutzerbenennung ausformuliert, bei Dokumentexport mit Times New Roman 11 pt und dezimaler Gliederung. Ergänze entscheidungsrelevante offene Punkte mit Auswirkung, Verantwortlichem und Termin in einer getrennten Arbeitsnotiz; dort auch Quellenstatus festhalten. Bei Varianten die reale Preis-, Risiko- oder Vollzugswirkung vergleichen.
+Liefere das gewünschte Dokument unter der Nutzerbenennung ausformuliert, bei Dokumentexport mit Kanzleihausschrift und dezimaler Gliederung. Ergänze entscheidungsrelevante offene Punkte mit Auswirkung, Verantwortlichem und Termin in einer getrennten Arbeitsnotiz; dort auch Quellenstatus festhalten. Bei Varianten die reale Preis-, Risiko- oder Vollzugswirkung vergleichen.
 
 Eine nahe Frist ist kein pauschaler Abbruchgrund. Nur die unzulässige oder nicht freigegebene Handlung sperren: etwa Vollzug ohne erforderliche Freigabe, Offenlegung an einen unzulässigen Empfänger oder Unterschrift ohne Befugnis. Die zulässige Entwurfsarbeit fortsetzen. Keine Nachricht, Einreichung, Zahlung oder Freigabe ohne ausdrückliche Autorisierung auslösen.
 

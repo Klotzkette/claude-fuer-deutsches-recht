@@ -46,7 +46,7 @@ Neue Zweckbeschreibung ändert Rolle und Vertragsregel, Vermarktungsbeleg nur di
 
 Technischen Anbieternachweis und sichtbaren Betreiberhinweis trennen. Die Textausnahme befreit keine Deepfakes; ein Wasserzeichen ersetzt nicht automatisch den Publikumshinweis. Entscheidungen amtlich verifizieren und nur zum passenden Regelungsgegenstand verwenden.
 
-Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt bei Dokumentexport. Versand nur nach Freigabe.
+Quellen: [Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Vollständige Sätze, dezimale Gliederung, Kanzleihausschrift bei Dokumentexport. Versand nur nach Freigabe.
 
 Abrufvermerke getrennt halten; fachliche Vorbehalte bleiben im Empfängertext.
 

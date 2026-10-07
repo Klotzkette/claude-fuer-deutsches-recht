@@ -31,7 +31,7 @@ Nur freigegebene Projektdateien lesen und erlaubte Ergebnisdateien schreiben. Ke
 
 ## 5. Ausgabeformat
 
-Liefern Sie Positionsliste mit Soll, Ist, geprüftem Wert, Differenz und Fundstelle, eine nachrechenbare Saldenbrücke sowie ausformulierten Prüfvermerk und Klärungsschreiben. Endprodukte bestehen aus vollständigen Sätzen, niemals aus Skeletten, Halbsätzen oder reinen Aufzählungen. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; Exporthinweis getrennt, wenn nur Text entsteht. Interne Zahlungsempfehlung nicht als bereits erteilte Freigabe darstellen.
+Liefern Sie Positionsliste mit Soll, Ist, geprüftem Wert, Differenz und Fundstelle, eine nachrechenbare Saldenbrücke sowie ausformulierten Prüfvermerk und Klärungsschreiben. Endprodukte bestehen aus vollständigen Sätzen, niemals aus Skeletten, Halbsätzen oder reinen Aufzählungen. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; Exporthinweis getrennt, wenn nur Text entsteht. Interne Zahlungsempfehlung nicht als bereits erteilte Freigabe darstellen.
 
 ## 6. Beispiele
 

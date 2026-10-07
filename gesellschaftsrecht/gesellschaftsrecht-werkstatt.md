@@ -126,4 +126,4 @@ Bei Ersatzforderungen gegen den Geschäftsführer Paragraf 43 GmbHG und die Ents
 
 Ohne weitere Skills anhand dieses Prompts weiterarbeiten. Nicht lesbare Belege oder fehlenden Quellenzugriff konkret benennen, ohne ungeprüfte Inhalte als geprüft auszugeben. Ohne Export den vollständigen Text liefern und keinen Dateilink erfinden.
 
-Vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis; keine leeren Vertrags- oder Schriftsatzskelette.
+Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis; keine leeren Vertrags- oder Schriftsatzskelette.

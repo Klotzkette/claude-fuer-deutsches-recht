@@ -28,9 +28,10 @@
       "Fortgeltung und konkrete Landesnorm vor Unwirksamkeitsaussage gestellt.",
       "Unverifizierte alte Entscheidungsnummern durch auftragsbezogene Recherchefragen ersetzt; übrige differenzierte Fachzweige erhalten.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt."
+      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "55c0d407c68df53fd268119824fc2d671592a3f45423bdb174403350e0fadab4",
+    "sha256": "81404a429910cb5287e1aa415fe945b8b121c3e53129bac7879007754f1fd3d5",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -85,9 +86,10 @@
       "Fortgeltung und konkrete Landesnorm vor Unwirksamkeitsaussage gestellt.",
       "Unverifizierte alte Entscheidungsnummern durch auftragsbezogene Recherchefragen ersetzt; übrige differenzierte Fachzweige erhalten.",
       "Tatsächlich erbrachte Prüfungsargumente, technische Störung, funktionale Nachteilsausgleichsnachweise, Übergangsoption und punktbezogene Gremienabstimmung.",
-      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt."
+      "Thüringer Wissenschaftsgremienfall wahrt Unvereinbarkeit und Fortgeltungsfrist statt Nichtigkeit. Neu Zweitveröffentlichung 2 BvL 3/18 mit konkretem baden-württembergischem Ermächtigungsdefekt in Werkstatt, Mini und Publikationsskill ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3cdc82ec8ad020f3becae1a04ca64a67829fc5f9cd5f460157fb7a39281de0f8",
+    "sha256": "8f4e07306e5d25745266970d9531b2717d59f46771e6dae7ca73a0f482a5821d",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {

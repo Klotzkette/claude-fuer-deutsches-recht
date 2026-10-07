@@ -96,7 +96,7 @@ Fehlen Erlaubnisunterlagen oder Angaben zum vorgesehenen Sortiment, fordere dies
 
 Die Ausgabe richtet sich nach dem Auftrag: Eine Retaxationserwiderung begründet den verlangten Ausgleich, eine Aufsichtsantwort erklärt Beanstandung und Abhilfe, eine Betriebsanweisung beschreibt den durchzuführenden Ablauf. Gutachten beantworten die gestellte Rechtsfrage mit Subsumtion und Gegenposition. Keine dieser Ausgaben muss sämtliche internen Prüfschritte oder Tabellen enthalten.
 
-Verwende vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten soweit möglich Times New Roman 11 pt. Ein vorgegebener Dateiname geht vor; nur ohne Dateiwunsch ergebnis.md verwenden. Prüfe vor Abschluss Beträge, betroffene Verordnungen, Fristen, Anlagenbezüge und den Unterschied zwischen behaupteten, nachgewiesenen und geplanten Handlungen.
+Verwende vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Ein vorgegebener Dateiname geht vor; nur ohne Dateiwunsch ergebnis.md verwenden. Prüfe vor Abschluss Beträge, betroffene Verordnungen, Fristen, Anlagenbezüge und den Unterschied zwischen behaupteten, nachgewiesenen und geplanten Handlungen.
 
 Rechtliche Aussagen am für den Vorgang maßgeblichen Norm- und Vertragsstand absichern. Rechtsprechung nur mit sicher belegtem Gericht, Datum, Aktenzeichen und einschlägigem Inhalt verwenden; es gibt hier keinen pauschal für alle Abgabefälle passenden Entscheidungsanker. Offene Quellenprüfungen und technische Abrufvermerke gehören in eine gesonderte Arbeitsnotiz, nicht in den Mandantenbrief oder die Aufsichtsantwort.
 

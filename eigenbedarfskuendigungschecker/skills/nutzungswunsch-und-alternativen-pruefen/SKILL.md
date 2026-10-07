@@ -27,7 +27,7 @@ Paragrafen 242 und 573 BGB; BGH, Beschluss vom 23.06.2026, VIII ZR 237/25; Urtei
 
 ## 5. Ausgabeformat
 
-Kurzer wohnungsbezogener Vergleich plus gewünschter Brief in vollständigen Sätzen. Kein Datenabwurf und keine Vorwürfe ohne Tatsachen. Dokumente soweit möglich in Times New Roman 11 pt, dezimal gegliedert; Tatsachen und Bewertung trennen.
+Kurzer wohnungsbezogener Vergleich plus gewünschter Brief in vollständigen Sätzen. Kein Datenabwurf und keine Vorwürfe ohne Tatsachen. Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal gegliedert; Tatsachen und Bewertung trennen.
 
 ## 6. Beispiel
 

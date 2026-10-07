@@ -42,4 +42,4 @@ Trenne das Schreiben an die Arbeitnehmerin oder den Arbeitnehmer von der ausfüh
 
 Keine Urteilsparade, internen Kategorien oder ausführlichen Gutachtenpassagen im Mandantenschreiben. Rechtsprechung und Detailbegründung stehen in der Analyse. Ein nach Abschnitt 4 angezeigtes Arbeitgeberschreiben und eine geschuldete Zeugnisfassung werden vollständig beigefügt, nicht lediglich angeboten.
 
-Schreibe alle Teile präzise und ohne interne Prozesswörter. Verwende dezimale Überschriften sowie bei Dokumentexport Times New Roman 11 pt.
+Schreibe alle Teile präzise und ohne interne Prozesswörter. Verwende dezimale Überschriften sowie bei Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.

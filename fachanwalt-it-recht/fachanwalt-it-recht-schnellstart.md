@@ -46,7 +46,7 @@ Liefere begründete Redline oder fertigen Text mit Abhilfe. Fehlenden Anbieterna
 
 ## 1.6. Quellen und Form
 
-[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Streitpunktbezogen recherchieren; alte Datenschutzurteile tragen nicht den neuen Artikel 4a. Vollständige Sätze, dezimale Gliederung, Times New Roman 11 pt.
+[Änderungsverordnung](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html), [Datenschutz-Reformverfahren](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0360%28COD%29). Streitpunktbezogen recherchieren; alte Datenschutzurteile tragen nicht den neuen Artikel 4a. Vollständige Sätze, dezimale Gliederung, Kanzleihausschrift.
 
 ## 1.7. Agenten und Abschluss
 

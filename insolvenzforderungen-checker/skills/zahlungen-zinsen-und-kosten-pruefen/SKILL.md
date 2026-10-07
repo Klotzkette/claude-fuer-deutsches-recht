@@ -29,7 +29,7 @@ Paragrafen 38, 39, 43, 44, 52, 174 und 190 InsO; bei Tilgung und Verzug die eins
 
 ## 5. Ausgabeformat
 
-Liefere eine prüfbare Rechnung mit Einzelpositionen und vollständig ausformuliertem Ergebnis. Jede nicht übernommene Zins- oder Kostenposition erhält Betrag, Grund und nächsten Schritt. Kein bloßer Differenzwert und kein Skelettbrief. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung; Rechenmethode und technische Exporthinweise außerhalb des Gläubigerbriefes erläutern.
+Liefere eine prüfbare Rechnung mit Einzelpositionen und vollständig ausformuliertem Ergebnis. Jede nicht übernommene Zins- oder Kostenposition erhält Betrag, Grund und nächsten Schritt. Kein bloßer Differenzwert und kein Skelettbrief. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; Rechenmethode und technische Exporthinweise außerhalb des Gläubigerbriefes erläutern.
 
 ## 6. Beispiele
 

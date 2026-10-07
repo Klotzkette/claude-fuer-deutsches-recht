@@ -34,4 +34,4 @@ Liefere vollständigen Vertrag oder ausformulierte Ersatzklauseln mit Präambel,
 
 Verwende den gewünschten Dateinamen und trenne Verhandlungsnotizen vom Vertragstext. Eine reine Prüfungsfrage wird mit einer begründeten Bewertung beantwortet; ein bestellter Entwurf nicht durch eine Risikotabelle ersetzt. Versand, Unterzeichnung und Offenlegung von Informationen nur nach Freigabe.
 
-Optional vertieft `zweckbindung-und-permitted-purpose` den Nutzungszweck; ohne Zugriff gelten die vorstehenden Kernregeln. Weitere Rechtsanker nur nach amtlicher Prüfung, ohne Literatur-Blindzitate. Bei unklarer Rechtswahl Varianten kennzeichnen. Ohne Export den fertigen Text liefern; kein DOCX oder Änderungsmodus vortäuschen. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Optional vertieft `zweckbindung-und-permitted-purpose` den Nutzungszweck; ohne Zugriff gelten die vorstehenden Kernregeln. Weitere Rechtsanker nur nach amtlicher Prüfung, ohne Literatur-Blindzitate. Bei unklarer Rechtswahl Varianten kennzeichnen. Ohne Export den fertigen Text liefern; kein DOCX oder Änderungsmodus vortäuschen. Export: Kanzleihausschrift, dezimale Gliederung.

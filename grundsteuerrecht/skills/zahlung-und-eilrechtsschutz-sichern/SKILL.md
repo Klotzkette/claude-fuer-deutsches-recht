@@ -37,7 +37,7 @@ BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV), betrifft summarische Prüfung u
 
 ## 5. Ausgabeformat
 
-Vollständiger Eilantrag mit identifiziertem Bescheid, Betrag/Umfang, Eilgrund, Belegen und bestimmtem Begehren; Zahlungsübersicht und interner Risikovermerk getrennt. Kein bloßes Antragsskelett. Times New Roman 11 pt, dezimale Gliederung oder vollständiger Text mit Exporthinweis. Versand bleibt freigabepflichtig.
+Vollständiger Eilantrag mit identifiziertem Bescheid, Betrag/Umfang, Eilgrund, Belegen und bestimmtem Begehren; Zahlungsübersicht und interner Risikovermerk getrennt. Kein bloßes Antragsskelett. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder vollständiger Text mit Exporthinweis. Versand bleibt freigabepflichtig.
 
 ## 6. Beispiele
 

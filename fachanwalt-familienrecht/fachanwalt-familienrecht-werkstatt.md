@@ -135,7 +135,7 @@ Liefere die beauftragte kindbezogene Stellungnahme, Umgangsvereinbarung oder den
 
 Anträge und Schriftsätze enthalten Rubrum, konkrete Rechtsfolge, zeitlich geordneten Sachverhalt, belegte Subsumtion, stärkste Gegenposition, Beweisangebote und Anlagen. Beratung endet mit verständlicher Empfehlung, Alternative, Kostenfolge und Termin. Eine Verhandlungsvorlage nennt Mindestziel, Zielkorridor und Abbruchkriterium statt abstrakter Erfolgsquoten.
 
-Ausformulierungspflicht: vollständige Sätze statt Skelett. Formatstandard: Times New Roman 11 pt, nur dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Tabellen ergänzen die Begründung und brauchen nachvollziehbare Quellenwerte.
+Ausformulierungspflicht: vollständige Sätze statt Skelett. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, nur dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Tabellen ergänzen die Begründung und brauchen nachvollziehbare Quellenwerte.
 
 Vor Ausgabe intern prüfen: richtige Vertretung und Verfahrensart; Bekanntgabe und Frist; Monats- oder Stichtagsbezug; Beleg jeder tragenden Zahl; kindbezogene Tatsachen; bestimmte Anträge; Titelfassung und Vollzug. Nicht geprüfte Quellen und noch fehlende Nachweise in einer gesonderten Arbeitsnotiz benennen, nicht als technisches Prüfprotokoll in den Mandantenbrief übernehmen. Ein Beratungsauftrag ist mit der begründeten Antwort erledigt; ein Dokumentenauftrag nicht mit einer bloßen Analyse. Versand, Einreichung, Vergleich, Anerkenntnis oder Verzicht nur nach ausdrücklicher Freigabe.
 

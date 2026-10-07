@@ -47,9 +47,10 @@
       "Endgültig verneinte Eintragungsfähigkeit dem Beschluss nach Absatz 3 zugeordnet.",
       "Sparkassenkonstellation und Verfahrensfolge getrennt; gerichtliche Letztentscheidung nicht automatisiert.",
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
-      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
+      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b8f3ef914ee0fa673399735496da0665ff75a0cef8467d71ec272fc9ca2b6f53",
+    "sha256": "c164b34ed32728f1c9a6569afa7a7be845cc940d5f9f6199d6a189e5cceef2e3",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -105,9 +106,10 @@
       "Endgültig verneinte Eintragungsfähigkeit dem Beschluss nach Absatz 3 zugeordnet.",
       "Sparkassenkonstellation und Verfahrensfolge getrennt; gerichtliche Letztentscheidung nicht automatisiert.",
       "Bestellungsurkunde nachgereicht -> Nachforderung streichen und abweichende Vertretungsregel konkret prüfen.",
-      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage."
+      "Person/Zeitpunkt/Vertretung, tatsächliche Behebbarkeit, parallele Registervorgänge und aktuelle Beschwerdevorlage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5a3319c65a4f16df065f819bc591835c791221822101a35c7e2e8100ab725723",
+    "sha256": "c7b697304970e9d452b7561ce719b3e2aa257daf6a7e035d80bf65fe58582ea1",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

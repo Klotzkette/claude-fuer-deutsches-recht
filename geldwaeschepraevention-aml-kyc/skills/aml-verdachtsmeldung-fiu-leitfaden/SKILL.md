@@ -37,7 +37,7 @@ Registrierung nach GwG Paragraf 45, befugten Einreicher und verfügbaren Meldewe
 
 ## 5. Ausgabeformat
 
-Ausformulierter interner Prüfvermerk und separat gekennzeichneter Meldeentwurf mit strukturierten Daten und Anlagenliste. Times New Roman 11 pt, dezimale Gliederung. Abgabe erst als erfolgt bezeichnen, wenn der Übermittlungsnachweis vorliegt.
+Ausformulierter interner Prüfvermerk und separat gekennzeichneter Meldeentwurf mit strukturierten Daten und Anlagenliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Abgabe erst als erfolgt bezeichnen, wenn der Übermittlungsnachweis vorliegt.
 
 ## 6. Beispiele
 

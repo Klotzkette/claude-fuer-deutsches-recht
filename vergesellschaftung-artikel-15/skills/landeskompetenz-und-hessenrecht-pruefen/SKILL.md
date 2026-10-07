@@ -39,7 +39,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenstand](../../re
 
 # 5. Ausgabeformat
 
-Ausformulierter Vermerk mit Sachverhalt, Frage, Kurzantwort, rechtlicher Bewertung und belastbarer Handlungsempfehlung. Gegenauffassungen werden am Fall gewürdigt. Keine Halbsätze, Skelette oder bloße Normtabelle als Endprodukt. Times New Roman 11 pt, dezimale Gliederung; Export- und Zugriffshinweise getrennt. Noch nicht geprüfte historische Gesetze oder Titel ausdrücklich benennen, nicht mit einer abschließenden Freigabe überdecken.
+Ausformulierter Vermerk mit Sachverhalt, Frage, Kurzantwort, rechtlicher Bewertung und belastbarer Handlungsempfehlung. Gegenauffassungen werden am Fall gewürdigt. Keine Halbsätze, Skelette oder bloße Normtabelle als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Export- und Zugriffshinweise getrennt. Noch nicht geprüfte historische Gesetze oder Titel ausdrücklich benennen, nicht mit einer abschließenden Freigabe überdecken.
 
 # 6. Beispiele
 

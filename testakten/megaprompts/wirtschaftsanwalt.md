@@ -67,7 +67,7 @@ Paragrafen 271a, 308 und 310 BGB sind im dokumentierten Umfang amtlich gelesen. 
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -127,7 +127,7 @@ Normen Paragrafen 15a, 15b und 17 bis 19 InsO sowie Paragraf 1 StaRUG sind amtli
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -185,7 +185,7 @@ Paragraf 377 Absatz 4 HGB ist als gelesene Einzelnorm verifiziert. Nicht zugäng
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -243,7 +243,7 @@ Paragrafen 779 und 397 BGB bilden die konkreten Normanker; die Wahl einer Beding
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -301,7 +301,7 @@ Die Paragrafen 46 bis 48 und 51a GmbHG wurden im amtlichen Gesamttext gelesen, o
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -359,7 +359,7 @@ Für komplexen Sonderkündigungsschutz das vorhandene Arbeitsrechtsplugin geziel
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -431,7 +431,7 @@ BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24, begrenzt den konkreten Zugangsnachw
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -487,7 +487,7 @@ Die gelesenen Paragrafen 271a, 308 und 310 BGB sind bei langen Zahlungs- oder Pr
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -545,7 +545,7 @@ Paragraf 253 ZPO und Paragraf 23 GVG wurden als amtliche Einzelnormen gelesen. D
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 
@@ -603,7 +603,7 @@ Das amtliche deutsche DSGVO-Veröffentlichungs-PDF wurde zugänglich gelesen, di
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten; ein solches Ergebnis verwerfen und neu ausformulieren. Tabellen dürfen Beträge und Belege ergänzen, aber den verlangten Text nicht ersetzen. Notwendige Platzhalter klar kennzeichnen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown einen getrennten Exporthinweis geben. Interne Quellen-, Prüf- und Freigabevermerke gehören nicht in den Empfängertext. Keine nicht erzeugte Datei, Unterschrift, Zustellung oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

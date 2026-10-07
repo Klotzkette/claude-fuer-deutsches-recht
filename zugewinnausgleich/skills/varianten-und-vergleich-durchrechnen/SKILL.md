@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere eine kurze Empfehlung mit vollständiger Variantenrechnung oder einen vollständig ausformulierten Vergleichsentwurf. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Tabellen zeigen konkrete Beträge und Änderungen, keine generische Pflichtmatrix. Rechtsrisiken getrennt vom adressierten Angebot erläutern.
+Liefere eine kurze Empfehlung mit vollständiger Variantenrechnung oder einen vollständig ausformulierten Vergleichsentwurf. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Tabellen zeigen konkrete Beträge und Änderungen, keine generische Pflichtmatrix. Rechtsrisiken getrennt vom adressierten Angebot erläutern.
 
 ## 6. Beispiele
 

@@ -42,9 +42,10 @@
       "BVerwG 9 B 6.14 gegen Anspruch auf unveränderte günstige Anbindung, zugleich Abwägungspflicht.",
       "Vertrags- und gesetzliche Kostenmassen nicht aus Rechnungsabsender oder pauschalem Kreuzungsbegriff ableiten.",
       "Gezielte Nachforderung von Widmung/Aufmaß, Fortsetzung und vollständige Endfassung erhalten.",
-      "Zwei konkrete Antwortbeispiele führen zu Ersatzbegehren beziehungsweise geänderter Kostenklausel; beide 7500-Grenzen eingehalten."
+      "Zwei konkrete Antwortbeispiele führen zu Ersatzbegehren beziehungsweise geänderter Kostenklausel; beide 7500-Grenzen eingehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ed1177a42f50424261a034d3871d035fb2a712d3e947eefe452641897123597d",
+    "sha256": "05a095c895ea9e69cae835e50ab9f880bff1fdce02e009b482fe9e2e2a7d64d5",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -57,9 +58,10 @@
       "Vertrags- und gesetzliche Kostenmassen nicht aus Rechnungsabsender oder pauschalem Kreuzungsbegriff ableiten.",
       "Gezielte Nachforderung von Widmung/Aufmaß, Fortsetzung und vollständige Endfassung erhalten.",
       "Betriebsfortführungsnachweis statt Umsatzautomatismus; Ersatz vor Geld im Anwendungsbereich des Paragrafen 8a Absatz 4.",
-      "Geänderte Pläne verändern konkrete Einwendungen, gemischte Rechnungen die Kostenmasse und nicht nur die Summe; Fristauslöser und Freigaben getrennt."
+      "Geänderte Pläne verändern konkrete Einwendungen, gemischte Rechnungen die Kostenmasse und nicht nur die Summe; Fristauslöser und Freigaben getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "cfc562d30be0fde4166e5ecc6d1d28b94637cf82e0e573d0b3ec074caf565c5e",
+    "sha256": "bbf94c930acc6e1264a84b80acd3fc75167c1078319d0a6830d916b3bc4da5c6",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

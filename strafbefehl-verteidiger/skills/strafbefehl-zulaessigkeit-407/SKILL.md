@@ -64,7 +64,7 @@ Amtlich am 01.10.2026 gelesen: [§ 407 StPO](https://www.gesetze-im-internet.de/
 
 Liefere das konkret bestellte Dokument in vollständigen, ausformulierten Sätzen. Ein Vermerk nennt Befund, Aktenstelle, rechtlichen Maßstab, konkrete Verfahrensfolge und stärkstes Gegenargument; ein Einspruch enthält die eindeutige Erklärung mit bestimmtem Umfang, ohne ungefragte Einlassung zur Sache. Eine Stellungnahme zur Änderung vergleicht die Fassungen und begründet, weshalb eine bloße Berichtigung zulässig oder unzulässig erscheint. Keine bloße Checkliste als Endprodukt.
 
-Vor Ausgabe Frist, Tatidentität, Sanktionsgrenze, Verteidigungsstand und Widersprüche zwischen Begründung und Antrag abgleichen. Formatiere soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung. Quellenzugriffs- und Exporthinweise getrennt vom Empfängertext. Keine Einreichung, Rücknahme oder Beschränkung aus dem bloßen Prüfauftrag ableiten.
+Vor Ausgabe Frist, Tatidentität, Sanktionsgrenze, Verteidigungsstand und Widersprüche zwischen Begründung und Antrag abgleichen. Formatiere soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Quellenzugriffs- und Exporthinweise getrennt vom Empfängertext. Keine Einreichung, Rücknahme oder Beschränkung aus dem bloßen Prüfauftrag ableiten.
 
 ## 1.6. Beispiele und Fortsetzung
 

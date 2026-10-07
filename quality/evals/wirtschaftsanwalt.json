@@ -133,9 +133,10 @@
     "changes": [
       "Gezielte Engpassbearbeitung ohne Nachbarplugin.",
       "Unternehmer-AGB, Gesellschaftsrolle und enge Liquiditätswarnung statt Einzelmandatkopie.",
-      "Quellenzugriff und externe Freigaben ausdrücklich begrenzt."
+      "Quellenzugriff und externe Freigaben ausdrücklich begrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+    "sha256": "874eca8d6c373923a4f1f06f86f40a677e504b9e68b8393382744e7f18320944",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -146,9 +147,10 @@
       "Leistung, Zahlung, Personalübergabe, Beschluss, Datenexport und Liquidität über dieselbe Unternehmensentscheidung verknüpft.",
       "Objektive Insolvenzvoraussetzungen, 24-/12-Monatsprognosen und unverzügliche Antragspflicht mit Höchstfristen unterschieden.",
       "Stimmverbote nicht auf sämtliche eigenen Organfragen erweitert; Quellenanker mit enger Reichweite.",
-      "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke."
+      "Ein H1, dezimale H2-Hauptkapitel, vollständige Endprodukte und getrennte interne Vermerke.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b031bad40bdee894db75aacddd52af3b9553610369f3cf238e684cefef4318ea",
+    "sha256": "195032eafae0360d3c344b9c07a8522b8ed2e21cde52bc7c26f8a61293b9ee6c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -160,12 +162,13 @@
     "changes": [
       "Drei Startmodi und Fortsetzung im selben Entwurf konkretisiert.",
       "Rollen-, Vertretungs- und Liquiditätsgrenzen konsistent.",
-      "Kein elfter Skill, keine erzwungene Ladung aller Fachwege."
+      "Kein elfter Skill, keine erzwungene Ladung aller Fachwege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md",
-    "prompt_sha256": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
+    "prompt_sha256": "b464dba483eff09d6d32ed2808fed9a5c5b81614592968e74af72ad098894ea8",
     "skill_path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
-    "skill_sha256": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871"
+    "skill_sha256": "41f4b1c39ba4c5bb0fe2a2c842ccf7c429dedbf1cc276d236922ad97ae491fee"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -580,7 +583,7 @@
   "skill_reviews": [
     {
       "skill_path": "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md",
-      "sha256": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
+      "sha256": "41f4b1c39ba4c5bb0fe2a2c842ccf7c429dedbf1cc276d236922ad97ae491fee",
       "case_id": "lieferfortfuehrung-mit-lohnreserve",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -592,11 +595,14 @@
         "Erstellt werden begründete Entscheidung und vollständiger Antwortentwurf mit bedingter Verhandlungslösung statt bloßer Themenauswahl; keine neue Mandatsaufnahme.",
         "Keine sichere Insolvenzfeststellung oder Entwarnung aus den begrenzten Angaben, kein Versand oder persönliches Geschäftsführermandat wird behauptet."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md",
-      "sha256": "71ddf140c560627e5bcd08dca9c5f095e66186ece232722fa7ebb71e79224633",
+      "sha256": "1c3f2406ba20da69b1d5c2f74ac4593869f435eeb1e8b52f1d04df1a456894bd",
       "case_id": "abrufprognose-ohne-mindestabnahme",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -607,11 +613,14 @@
         "Verbindlichkeit setzt Bestätigung von Menge und Liefertermin voraus; bereits bestätigte Abrufe bleiben bestehen.",
         "Der Nachtrag nennt Ausgangsvertrag, Nummer 3 und Beginn 01.11.2026 und regelt unveränderte Preise sowie Fortgeltung des Übrigen in vollständiger Sprache."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md",
-      "sha256": "08c8ef0a995b4249818f91f8bf968c8e5f5c6504fc56d0fb10ac19164b06698c",
+      "sha256": "97e2741317f36e068aade323a0be6e887a1ab621c5cc417f2dcf04f1bf32556f",
       "case_id": "gegenforderung-nicht-automatisch-abziehen",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -622,11 +631,14 @@
         "Die behaupteten 5000 EUR werden als ungeprüfte Gegenforderung behandelt; weder Erlöschen noch erklärte Aufrechnung werden fingiert.",
         "Der vollständige Antwortentwurf erhält die weitere Lieferbeziehung und grenzt den Vorbehalt ab; er erzeugt keine unautorisierte Anerkenntnis- oder Aufrechnungserklärung."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md",
-      "sha256": "4715af71310b3a70aed91fe43d854ed51520306849e19e345c6f2eb425a88791",
+      "sha256": "131645edf6ec222fd70235e071cd0f6a1f93e21e4d58921709c5ed7c5d5674a1",
       "case_id": "lohnkuerzung-nur-aenderungsangebot",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -637,11 +649,14 @@
         "3600 EUR, Beginn und Ende sowie automatische Rückkehr zu 4000 EUR ab 01.02.2027 sind im operativen Text eindeutig geregelt.",
         "Unveränderte Arbeitszeit und übrige Bedingungen bleiben erhalten; keine erfundene Gegenleistung, Kündigung oder bereits erklärte Zustimmung."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md",
-      "sha256": "5396c55d61b5f30106f85db16206211d15185bba911b666a7c461a15ab8754ff",
+      "sha256": "1576545ed0f6b7e8ff53fd5ac6a075c0a090d7ded0c69340e660a47cf9671393",
       "case_id": "innenvorbehalt-und-aussenbindung",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -652,11 +667,14 @@
         "Der Beschlussvorschlag betrifft konkrete Durchführung des Vertrags und enthält keine ungefragte persönliche Entlastung oder Anspruchserledigung.",
         "Gesellschaft als Mandantin bleibt von persönlicher Organverteidigung getrennt; Entlastung und mögliche Stimmverbote nach Paragraf 47 Absatz 4 werden nicht pauschal auf alle eigenen Organfragen verallgemeinert."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md",
-      "sha256": "186b1dd935eb5ba2389c1a11f22adc2c54c89e328f0b9139439a7b5c7a051c2f",
+      "sha256": "9afe76c22f3e2cf2ff49977b0ea817b4d65f2c4c74f7b95f60da732aa8aee310",
       "case_id": "exportpruefung-vor-loeschfreigabe",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -668,11 +686,14 @@
         "Keine Löschfreigabe allein wegen CSV-Versand; Rückgabe, erforderliche Kopienlöschung und gesetzliche Aufbewahrung unter Artikel 28 Absatz 3 werden abgestimmt.",
         "Kein Datenversand, Kontenzugriff oder tatsächlich erteilter Löschauftrag wird behauptet."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md",
-      "sha256": "e5b2fdc771ea4b9f636ef4fa95d52f39f1d69b2a807a397f613aaa485470f49e",
+      "sha256": "ef474f0c4dbfa1c518ea58048c170f853f46d575487df4d82acc49601b5004d6",
       "case_id": "zahlungs-und-prueffrist-b2b",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -683,11 +704,14 @@
         "Paragrafen 271a, 307 und 310 werden mit Zahlungs- und Überprüfungsfrist verknüpft; kein pauschaler 60-Tage-Freibrief.",
         "Beide Ersatzregeln sind vollständig und haben klare Fristauslöser; neue Bedingungen werden nicht als rückwirkende Heilung bestehender Verträge bezeichnet."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md",
-      "sha256": "6061d04acc352915240a4ebd0602e5e4b14febd3746ed67348588f399ea12627",
+      "sha256": "15e99c027cc863035c76cd9d4ae8b80c88765a82328a8e241e3bcfc412e811dc",
       "case_id": "verlust-ist-kein-insolvenztest",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -699,11 +723,14 @@
         "Paragraf 15a wird als ohne schuldhaftes Zögern mit Höchstfristen von drei beziehungsweise sechs Wochen behandelt, nicht als sechs Wochen freie Zeit ab Beratungsdatum.",
         "Warnschreiben und konkreter sofortiger Daten- und Prüfbedarf liegen vor; weder persönliche Haftungsfreigabe noch pauschale Zahlungsfreigabe nach Paragraf 15b noch automatischer Insolvenzantrag."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md",
-      "sha256": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500",
+      "sha256": "2c455103ef899f26db330edf807dbfc58e408ae794552829b3a662ccd3577a03",
       "case_id": "ratenvergleich-ohne-organentlastung",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -714,11 +741,14 @@
         "Nachfrist und Ausfallmechanik verhindern doppelte Forderungen; nach einer gezahlten Rate bleiben aus dem Ausgangsbetrag höchstens 20000 EUR, nicht 24000 EUR plus Vergleichssumme.",
         "Erledigung beschränkt sich auf den bezeichneten Lieferstreit; keine persönliche Organentlastung, ungefragte Nebenforderung oder automatische Vollstreckbarkeit."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "skill_path": "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md",
-      "sha256": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
+      "sha256": "43670136e083f11e35053a55a2b39ee75d273457a3fdee5a87fbc8bb8582bfba",
       "case_id": "teilzahlung-im-klageentwurf",
       "reviewed_on": "2026-09-23",
       "method": "desk_review",
@@ -730,28 +760,31 @@
         "Fehlende K3 wird nicht als beigefügt bezeichnet; vorhandene K1 und K2 stützen den Vortrag und die konkrete Nachweislücke wird getrennt benannt.",
         "Vollständiger Entwurf statt bloßer Analyse, keine behauptete Einreichung oder Fristwahrung."
       ],
-      "runtime_status": "not_run"
+      "runtime_status": "not_run",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     }
   ],
   "artifact_hashes": {
     "wirtschaftsanwalt/.claude-plugin/plugin.json": "ec8efa79f34deb05d54b5777a9a4520d7b9c70e97e46f9486fc1ff89332ab7d2",
     "wirtschaftsanwalt/.codex-plugin/plugin.json": "e826deb5a178864003700cdc76fb37f16213cddcfffd9fc10e55b39b27aac6a4",
     "wirtschaftsanwalt/README.md": "bad7d3a61540eb6032c28eb1f48636554c77d46ed49527c5ad3e55558da3f200",
-    "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md": "6f8f2fae69f16b523b8bd8e0bf3aea7f12c69b38a6650ce83af0d1d10cc73b94",
-    "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md": "00c120fb39f6f80ff1c3ef4b096c74abcaa0cc32db63a510e26f8391a6004dd6",
+    "wirtschaftsanwalt/wirtschaftsanwalt-hauptproblem.md": "b464dba483eff09d6d32ed2808fed9a5c5b81614592968e74af72ad098894ea8",
+    "wirtschaftsanwalt/wirtschaftsanwalt-schnellstart.md": "874eca8d6c373923a4f1f06f86f40a677e504b9e68b8393382744e7f18320944",
     "wirtschaftsanwalt/wirtschaftsanwalt-werkstatt.md": "c7e88d2a0c52b93d45aa74bed399f0eaf0ab32ada88aac126df92bc9d9652113",
     "wirtschaftsanwalt/references/fachquellen.md": "fb7430126186d54e7b33ad02d0f4634abf20adacea14fa84bb09b3c6f831a1a4",
     "wirtschaftsanwalt/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
-    "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md": "71ddf140c560627e5bcd08dca9c5f095e66186ece232722fa7ebb71e79224633",
-    "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md": "186b1dd935eb5ba2389c1a11f22adc2c54c89e328f0b9139439a7b5c7a051c2f",
-    "wirtschaftsanwalt/skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md": "5396c55d61b5f30106f85db16206211d15185bba911b666a7c461a15ab8754ff",
-    "wirtschaftsanwalt/skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md": "e5b2fdc771ea4b9f636ef4fa95d52f39f1d69b2a807a397f613aaa485470f49e",
-    "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md": "08c8ef0a995b4249818f91f8bf968c8e5f5c6504fc56d0fb10ac19164b06698c",
-    "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md": "6061d04acc352915240a4ebd0602e5e4b14febd3746ed67348588f399ea12627",
-    "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md": "4715af71310b3a70aed91fe43d854ed51520306849e19e345c6f2eb425a88791",
-    "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "e6c436438e442d25f6c69eb3ff11b84005b8afced8fdfaf4519ba9446d222871",
-    "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md": "b2b7a0e093e63d957d9cb3901402cfb1348c2d98c7b431894c9e3bd6c5b3bb5e",
-    "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md": "4f5a21a511b34d2082d2565e5cf043346e4c8b43d7a9ebd9d0f878aebe218500"
+    "wirtschaftsanwalt/skills/betriebsvertrag-pruefen-und-nachtrag-erstellen/SKILL.md": "1c3f2406ba20da69b1d5c2f74ac4593869f435eeb1e8b52f1d04df1a456894bd",
+    "wirtschaftsanwalt/skills/dienstleisterwechsel-und-datenzugriff-sichern/SKILL.md": "9afe76c22f3e2cf2ff49977b0ea817b4d65f2c4c74f7b95f60da732aa8aee310",
+    "wirtschaftsanwalt/skills/gesellschafterkonflikt-und-vertretung-bearbeiten/SKILL.md": "1576545ed0f6b7e8ff53fd5ac6a075c0a090d7ded0c69340e660a47cf9671393",
+    "wirtschaftsanwalt/skills/kaufmaennische-agb-pruefen-und-neufassen/SKILL.md": "ef474f0c4dbfa1c518ea58048c170f853f46d575487df4d82acc49601b5004d6",
+    "wirtschaftsanwalt/skills/lieferforderung-und-maengeleinwand-bearbeiten/SKILL.md": "97e2741317f36e068aade323a0be6e887a1ab621c5cc417f2dcf04f1bf32556f",
+    "wirtschaftsanwalt/skills/liquiditaetsrisiken-und-fristenwarnung-bearbeiten/SKILL.md": "15e99c027cc863035c76cd9d4ae8b80c88765a82328a8e241e3bcfc412e811dc",
+    "wirtschaftsanwalt/skills/personalmassnahme-pruefen-und-dokumentieren/SKILL.md": "131645edf6ec222fd70235e071cd0f6a1f93e21e4d58921709c5ed7c5d5674a1",
+    "wirtschaftsanwalt/skills/unternehmensmandat-bis-zum-dokument-bearbeiten/SKILL.md": "41f4b1c39ba4c5bb0fe2a2c842ccf7c429dedbf1cc276d236922ad97ae491fee",
+    "wirtschaftsanwalt/skills/unternehmensstreit-gerichtlich-vorbereiten/SKILL.md": "43670136e083f11e35053a55a2b39ee75d273457a3fdee5a87fbc8bb8582bfba",
+    "wirtschaftsanwalt/skills/unternehmensvergleich-und-erfuellung-gestalten/SKILL.md": "2c455103ef899f26db330edf807dbfc58e408ae794552829b3a662ccd3577a03"
   },
   "source_link_audit_2026_10_01": {
     "checked_on": "2026-10-01",

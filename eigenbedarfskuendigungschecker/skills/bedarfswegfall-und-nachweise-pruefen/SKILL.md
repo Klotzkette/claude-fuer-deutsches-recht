@@ -27,7 +27,7 @@ Paragrafen 242, 280 und 573 BGB; BGH, Urteil vom 29.03.2017, VIII ZR 44/16, zur 
 
 ## 5. Ausgabeformat
 
-Belegchronologie und vollständig ausformulierte Sachverhaltsanfrage, Mitteilung oder begründete Forderung. Keine Vorwurfsliste als Endprodukt. Times New Roman 11 pt und dezimale Gliederung, soweit möglich; belegte Tatsachen und Verdacht deutlich trennen.
+Belegchronologie und vollständig ausformulierte Sachverhaltsanfrage, Mitteilung oder begründete Forderung. Keine Vorwurfsliste als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit möglich; belegte Tatsachen und Verdacht deutlich trennen.
 
 ## 6. Beispiel
 

@@ -29,7 +29,7 @@ Prüfen Sie den gewählten Vertragstyp, gegebenenfalls Paragrafen 705 folgende B
 
 ## 5. Ausgabeformat
 
-Liefern Sie die Kooperationsvereinbarung und notwendige Ergebniszuordnung vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe zu ersetzen. Soweit möglich verwenden Sie Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Rechtsformfragen und Exporthinweise stehen getrennt vom Empfängertext.
+Liefern Sie die Kooperationsvereinbarung und notwendige Ergebniszuordnung vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe zu ersetzen. Soweit möglich verwenden Sie Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Rechtsformfragen und Exporthinweise stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 

@@ -30,7 +30,7 @@ EuGH, Urteil vom 27.02.2025, C-203/22, ECLI:EU:C:2025:117, Tenor 1 und 2: nachvo
 
 ## 5. Ausgabeformat
 
-Liefere das beauftragte Dokument in vollständigen Sätzen: Entscheidung, ausführbare Kontrollregel oder Betroffenenantwort. Keine bloße Risikomatrix und keine Textskelette. Formatstandard Times New Roman 11 pt, dezimale Gliederung. Offene Fakten und Quellenstatus getrennt erläutern; Meldung, Versand und Produktivänderung nur nach Auftrag.
+Liefere das beauftragte Dokument in vollständigen Sätzen: Entscheidung, ausführbare Kontrollregel oder Betroffenenantwort. Keine bloße Risikomatrix und keine Textskelette. Formatstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offene Fakten und Quellenstatus getrennt erläutern; Meldung, Versand und Produktivänderung nur nach Auftrag.
 
 ## 6. Beispiele
 

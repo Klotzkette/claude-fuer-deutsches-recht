@@ -696,9 +696,10 @@
       "Kommunales Eigentum von Amtshaftung trennen, kein pauschales Mitverschulden beim Gebäudesturz.",
       "§10 HaftPflG mit 300.000 EUR, Grundstücksausnahme und §12-Konkurrenzprüfung; kein Deckungslimit daraus.",
       "Gespannanker 2026 nur bei passender Konstellation; §17 StVG nicht aus bloßer Schadenmehrheit ableiten.",
-      "Kürzung auf 7.471 UTF-8-Bytes ohne Auslagerung in notwendige Zusatzdateien; drei direkte amtliche Entscheidungen bleiben enthalten."
+      "Kürzung auf 7.471 UTF-8-Bytes ohne Auslagerung in notwendige Zusatzdateien; drei direkte amtliche Entscheidungen bleiben enthalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e17172e67c50447cdc284d8b034f16ad604ee1df634d9d968d87c20520819c95"
+    "sha256": "7710638935a1e76037af1de49d8f9fcea372cd0bb07be75969144ea3163da69c"
   },
   "workshop_review": {
     "method": "author_desk_review",
@@ -713,9 +714,10 @@
       "AKHA-Kontext ohne fiktive Mitgliedschaft oder Bedingungen; echte Rückversicherung unter §209 VVG gesondert.",
       "Vorführaufträge sind optionale Beispiele und kein vorgeschriebener vollständiger Vortrag.",
       "Abschnitt 1.39: kommunaler Klinikfall, BGH VI ZR 186/08 Rn. 18–21 und VI ZR 377/17 Rn. 14, § 1643 Abs. 5 BGB sowie getrennte Lasten- und Zahlungsrechnung.",
-      "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen."
+      "Abschnitt 1.40: Fahrzeug, Glatteis, privatrechtliches Bad, fehlerhafter Antrag, Bauversagung, kommunale Kanalbeschädigung, aktive Baumpflege und Schlagloch; elf konkrete amtliche Quellen und überprüfte bayerische Normen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "20b15a830e2e234ce03a4c529a56bfd5a97218194ea3749221cde8c55a8fa7b3"
+    "sha256": "8bc911029d462abfc08ff5c9926e8e3290d377ef6daa1a01d6ca08b5615635fa"
   },
   "focus_review": {
     "method": "desk_review",
@@ -726,13 +728,14 @@
       "Funktionale Amtsträgerzuordnung und Gebäudeausschluss beim Rohrbruch nicht aus kommunalem Namen beziehungsweise Keller-Schadenort ableiten.",
       "Eigene Anspruchskarte je Geschädigten; Haftungsquote, Deckungslimit, Selbstbehalt und Reserve getrennt.",
       "Gezielte Rückfragen und Fortschreibung bei neuen Belegen; keine wiederholte Aufnahme und kein automatischer Prozessauftrag.",
-      "7.479 UTF-8-Bytes, identisches TXT und ein H1; konkrete Endprodukte statt Analyseabschluss."
+      "7.479 UTF-8-Bytes, identisches TXT und ein H1; konkrete Endprodukte statt Analyseabschluss.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+    "sha256": "1619c8c7258f8c3ad4a790aa9efcc2428914bc76a791290fa8946094c39850cd",
     "prompt_path": "kommunale-haftpflicht/kommunale-haftpflicht-hauptproblem.md",
-    "prompt_sha256": "f4951023b3c5744485c640c12b48fa474ef54f044518b6394881154fdbc4d02f",
+    "prompt_sha256": "1619c8c7258f8c3ad4a790aa9efcc2428914bc76a791290fa8946094c39850cd",
     "skill_path": "kommunale-haftpflicht/skills/kommunalen-haftpflichtfall-bearbeiten/SKILL.md",
-    "skill_sha256": "e3938ba5d80abae5286f4d6c405d0b3d7acd37e7761c64dc7089ac9a1af910b8",
+    "skill_sha256": "85e3c151adafa96b11489a17007e3bbe61062a685bfd74882eb8f835d3f628eb",
     "reviewer": "author"
   },
   "prompt_editorial_review": {

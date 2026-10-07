@@ -51,7 +51,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere vollständige, ausformulierte Sätze und Rechentabellen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung, bei Textausgabe mit getrenntem Exporthinweis. Verlinke nur erzeugte und geprüfte Dateien. Trenne interne Kontrolle vom Empfängertext.
+Liefere vollständige, ausformulierte Sätze und Rechentabellen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung, bei Textausgabe mit getrenntem Exporthinweis. Verlinke nur erzeugte und geprüfte Dateien. Trenne interne Kontrolle vom Empfängertext.
 
 ## 6. Beispiele
 

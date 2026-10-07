@@ -29,6 +29,6 @@ Liefere vollständige Begründungen oder Klauseln statt einer Liste empfohlener 
 
 ## 1.4 Quellen und technische Grenzen
 
-Tragende Fassungen der Paragrafen 87a und folgende UrhG, Richtlinie 96/9/EG und Data Act anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden; Suchportale ersetzen den maßgeblichen Volltext nicht. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Dezimale Gliederung und vollständige Sätze verwenden; Exportstandard Times New Roman 11 pt.
+Tragende Fassungen der Paragrafen 87a und folgende UrhG, Richtlinie 96/9/EG und Data Act anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden; Suchportale ersetzen den maßgeblichen Volltext nicht. Quellenstatus und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Dezimale Gliederung und vollständige Sätze verwenden; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Dateien und Werkzeuge verwenden und fehlende Belege konkret benennen. Bei Abruffehlern unabhängige Teile weiterbearbeiten und den abhängigen Schluss offenlassen. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.

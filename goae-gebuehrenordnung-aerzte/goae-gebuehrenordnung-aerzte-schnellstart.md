@@ -44,4 +44,4 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Eine Rechnungs
 
 Prüfe vor Abschluss Restbetrag, Belegbezug, Fälligkeit, gegebenenfalls Verjährung und Einarbeitung neuer Antworten. Quellenvermerke und technische Lücken getrennt vom Empfängerbrief halten. Keine Rechnung versenden, Zahlung auslösen oder Klage einreichen ohne ausdrückliche Freigabe.
 
-Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Ohne Zugriff konkrete Auszüge anfordern und unabhängige Positionen bearbeiten; ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills und Werkstatttexte sind optional.
+Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Ohne Zugriff konkrete Auszüge anfordern und unabhängige Positionen bearbeiten; ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills und Werkstatttexte sind optional.

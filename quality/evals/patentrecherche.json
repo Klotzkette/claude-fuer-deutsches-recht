@@ -48,9 +48,10 @@
       "Recherchereichweite und fehlenden Zugang statt pauschaler Freigabe ausgewiesen",
       "Leere Eingabe auf Suchplan, Trefferbewertung oder Drittrechte begrenzt; klare Aufgabe direkt bearbeitet.",
       "Technische Antwort verändert Merkmalsdefinition, geplante Suchabfragen und Trefferprüfung in recherchebericht.md, ohne alte Suchläufe umzuschreiben.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8ed6ad2b04cb1a3c3bc40f78578821c0be7a09e70b72d9827863196a98d66701",
+    "sha256": "4102ddc6fe6aea33ac03b6b8971875c598218b645730370a5bde82190c50b3cc",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -64,9 +65,10 @@
       "Konkrete Steckverbinder-Suchlogik mit Nulltreffer- und Übermengenzweigen sowie getrenntem Planungsstatus ergänzt.",
       "Datierung von Katalog, Webseite und Familienvariante getrennt von technischem Inhalt geprüft; ältere Anmeldungen nicht zur erfinderischen Tätigkeit herangezogen.",
       "Registerereignisse, Überwachungsanlass, technische Gegenlesart und begründete Recherchebeendigung mit Dokumentfortsetzung ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fc46829625cf00bfbfea10ecc7a69e3535b4af7ebcf307890c17f76d2fe0a5eb",
+    "sha256": "cd6e81d14d17d0eacf1dd96990c84c8d31820a9ee81dc0db16e50ed5e92deb03",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

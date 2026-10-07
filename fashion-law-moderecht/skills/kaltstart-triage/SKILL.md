@@ -37,4 +37,4 @@ Kaltstart für Modeunternehmen, Kanzlei oder Rechtsabteilung.
 
 Verwende den gewünschten Dateinamen und liefere den vollständigen Brief, Vertragstext oder das begründete Gutachten. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Tabellen unterstützen die Begründung, ersetzen aber keine ausformulierten Sätze.
 
-Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis. Ohne Dateifunktion vollständigen Text liefern. Keine Veröffentlichung, Abmahnung, Rückrufaktion oder Einreichung ohne ausdrückliche Freigabe.
+Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis. Ohne Dateifunktion vollständigen Text liefern. Keine Veröffentlichung, Abmahnung, Rückrufaktion oder Einreichung ohne ausdrückliche Freigabe.

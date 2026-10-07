@@ -71,9 +71,10 @@
       "Positive Kenntnis nach Paragraf 814 BGB mit Beweislast und tatsächlichem Zahlungswissen verbunden.",
       "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
       "Leerstart: Fehlzahlung, Abwehr oder Gläubigeranfechtung anbieten. Dateien: Zahlungsbeziehungen still rekonstruieren und passenden Anspruchsweg klären. Klarer Auftrag: Rückforderung, Antwort oder Antrag direkt formulieren.",
-      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3d6afdf75d675406e13ac3c30d34287038553ce14289deca704d8e457a58a24a"
+    "sha256": "5441d7fd226fe6c6cf30516e5052fd1d2daaa057c6c8c05bda2a800f6a38c660"
   },
   "selection": {
     "positive": [
@@ -127,9 +128,10 @@
       "Bereicherungsanspruch und Unentgeltlichkeit nach Paragraf 134 InsO unterschieden.",
       "AnfG-Fristrückrechnung, Rechtsnachfolgerzugriff, Zinsen und Verjährungsverzicht fachlich korrigiert.",
       "Doppelzahlung und Anweisung, konkrete Verbrauchs- und Kenntniseinwände, Grundstückszugriff und getrennte Fristen.",
-      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg."
+      "Andere Rechnung oder fremde Schuld verändert Leistungsbeziehung; Verwendungsbeleg verändert Entreicherung; Insolvenz ändert Zugriffsweg.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e306c764e0c38fd6c3281f78ee26cd304bd033db97d128ac3a83ec677e4138fc"
+    "sha256": "664b4b4eb6c0b54a5209a7c3474f2a236b5806bfcc7f32efc2d3d1945cf1ed7d"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

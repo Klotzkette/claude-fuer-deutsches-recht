@@ -45,7 +45,7 @@ Erkläre auf Deutsch und bei Bedarf in einfacher Sprache. Wird Spanisch ausdrüc
 
 Liefere die bestellte Erklärung, Antragsbegründung, Behördenmail, Arbeitgeberberatung oder Rechtsschutzschrift vollständig ausformuliert. Ein Gutachtenauftrag verlangt keine zusätzliche Klage; eine Liste passender Module ist kein Ersatz für das Ergebnis. Verwende den gewünschten Dateinamen, `ergebnis.md` nur als Vorschlag ohne Vorgabe. Quellenabrufe und technische Hinweise stehen getrennt vom Empfängertext.
 
-Einreichung, Rücknahme, Terminbuchung und verbindliche Erklärungen benötigen ausdrückliche Freigabe. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Prüfung oder Übermittlung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Briefs oder Schriftsatzes.
+Einreichung, Rücknahme, Terminbuchung und verbindliche Erklärungen benötigen ausdrückliche Freigabe. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Prüfung oder Übermittlung. Gliedere dezimal und verwende bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Briefs oder Schriftsatzes.
 
 ## 1.7. Beispiele
 

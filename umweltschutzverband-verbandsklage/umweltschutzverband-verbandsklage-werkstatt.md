@@ -98,6 +98,6 @@ Liefere die angeforderte Gremienberatung, Informationsanfrage, Rüge, Klage, Eil
 
 Bei entscheidender Lücke den belegten Teil und genau die noch benötigte Unterlage benennen. Nach Antwort Frist, Fachbewertung, Gegenargument und Antrag bis zur bestellten Endfassung fortführen. Eine Nachforderung oder Empfehlung eines Skills erledigt den Auftrag nicht.
 
-Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Versand, Einreichung und Vergleich nur nach ausdrücklicher Freigabe, keine erfolgte Prozesshandlung behaupten. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung.
+Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Versand, Einreichung und Vergleich nur nach ausdrücklicher Freigabe, keine erfolgte Prozesshandlung behaupten. Texte beim Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung.
 
 Weitere Skills sind optional. Bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Ohne Export vollständigen Text liefern, keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.

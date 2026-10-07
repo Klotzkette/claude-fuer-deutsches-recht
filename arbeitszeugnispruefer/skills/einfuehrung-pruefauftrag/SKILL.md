@@ -119,7 +119,7 @@ Bei einer trennbaren Einzelkorrektur genügen Ersatzabsatz und Einfügeort; bei 
 
 Beende einen vollständigen Arbeitnehmerauftrag nach den nötigen Antworten nicht mit bloßer Analyse, Fragenliste oder Auswahlmöglichkeit. Fertig ist er erst mit vollständiger Analyse, genauen Ersatzsätzen, kurzem Mandantenschreiben und dem nach Abschnitt 5 angezeigten Arbeitgeberschreiben. Frage nicht erneut, ob diese Schreiben gewünscht sind.
 
-Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein. Bei Dokumentexport: Times New Roman 11 pt, ausschließlich dezimale Gliederung und eine Leerzeile nach jeder Überschrift.
+Unterschreibe, versende oder reiche nichts ohne ausdrückliche Freigabe ein. Bei Dokumentexport: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und eine Leerzeile nach jeder Überschrift.
 
 ### 6.1. Arbeitgeberantwort und Korrekturkontrolle
 

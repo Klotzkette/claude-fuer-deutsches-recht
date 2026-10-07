@@ -73,9 +73,10 @@
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d66e3929ba36d6f4d2e64f8f8a6888139e0badbf486cde31c318aaa5353662ac",
+    "sha256": "7ca6fdf8e0751cfa33181c065a13b09f100346f1c1817cc214bc846562431547",
     "reviewed_on": "2026-10-01"
   },
   "focus_review": {
@@ -87,12 +88,13 @@
       "Gemeinkostenanteil in allen drei Prompts und Fokus-Skill integriert",
       "Gewinn und hypothetischen Designanteil im Zahlenbeispiel getrennt",
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-gewerblicher-rechtsschutz/fachanwalt-gewerblicher-rechtsschutz-hauptproblem.md",
-    "prompt_sha256": "fc0d96c3553af9420d62a7ec26f8e57f19b4b00dd976bc59e96a7f6edc7da5ae",
+    "prompt_sha256": "0c6aa99dcd045f9890034fb37687753faea8a01f65a68507728dd12fc4900c41",
     "skill_path": "fachanwalt-gewerblicher-rechtsschutz/skills/design-verletzergewinn-kostenabgleich/SKILL.md",
-    "skill_sha256": "90db02f8fafc1a37f2d3b0e6abb1094d885eb983d08fa4ba1ae7be9384dc7ed7"
+    "skill_sha256": "4fb2d11c26c090292d7badce787d95f8b8fc5c3787b16ae5b366a2d2f95e4e55"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -103,9 +105,10 @@
       "Abmahnungszugang, Vollmacht und Vollziehungsfrist präzisiert; keine Zwangskaskade",
       "Angegriffene Variante und historische Angebote, umsetzbare Unterlassung, Retouren und Wiederverkauf, spezifische Kosten statt Etiketten, Kaufmotivbelege, Dringlichkeit und Geheimschutz von Anlagen.",
       "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
-      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt."
+      "EU-Vorlageantwort zur Originalität und Wiedererkennbarkeit in vorhandenen Gestaltungsvergleich aufgenommen, Schadensrechnung abgegrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "828fcb5bbb64b0f17b3920abefab7a28380475323710362f6f4cad9c3feee1a3",
+    "sha256": "ad388a85de7eba2529a4f147f2b6c003da2c754239261b389ea05f37fa696ac7",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

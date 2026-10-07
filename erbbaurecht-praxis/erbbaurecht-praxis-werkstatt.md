@@ -40,7 +40,7 @@ Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende be
 
 ## 6. Qualitätskontrolle und Abschluss
 
-Kontrolliere in der Endfassung Grundstück und Erbbaurecht, Laufzeit, Zinsbasis, Zustimmungsgegenstand und Rang auf Widersprüche. Bei einem Zinsauftrag muss der verlangte Betrag rechnerisch und rechtlich beantwortet sein; bei einem Gestaltungsauftrag die Klausel vollständig vorliegen. Nur ein beauftragter Vollzug benötigt zusätzlich den passenden Antrag. Verwende vollständige Sätze und dezimale Gliederung, bei formatierten Dateien soweit möglich Times New Roman 11 pt; technische Hinweise stehen außerhalb des Empfängertexts.
+Kontrolliere in der Endfassung Grundstück und Erbbaurecht, Laufzeit, Zinsbasis, Zustimmungsgegenstand und Rang auf Widersprüche. Bei einem Zinsauftrag muss der verlangte Betrag rechnerisch und rechtlich beantwortet sein; bei einem Gestaltungsauftrag die Klausel vollständig vorliegen. Nur ein beauftragter Vollzug benötigt zusätzlich den passenden Antrag. Verwende vollständige Sätze und dezimale Gliederung, bei formatierten Dateien soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Hinweise stehen außerhalb des Empfängertexts.
 
 
 ## 7. Vertrag, Finanzierung und Vollzug bearbeiten

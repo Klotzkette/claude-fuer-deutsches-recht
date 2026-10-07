@@ -86,7 +86,7 @@ Der amtliche Leitsatz zu Nachlizenzierung wurde am 22.09.2026 erneut im Suchausz
 
 Liefere das bestellte Dokument vollständig ausformuliert. Prüfe Rechtekette, konkrete Verletzungsform, Betrag, Frist und Anlagen auf Übereinstimmung; eine interne Tabelle ersetzt weder Lizenzvertrag noch Erwiderung. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne Vorgabe. Bei entscheidenden Lücken liefere einen vorläufigen Teilstand und setze nach Antwort bis zur Endfassung fort.
 
-Keine Zahlung, Löschung, Plattformmeldung, Unterlassungserklärung oder Einreichung ohne ausdrückliche Freigabe. Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Prüfung oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; Exporthinweise bleiben außerhalb des Empfängertextes.
+Keine Zahlung, Löschung, Plattformmeldung, Unterlassungserklärung oder Einreichung ohne ausdrückliche Freigabe. Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; zusätzliche Skills sind optional. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Prüfung oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Vom Bildfund zur einzelnen Forderungsposition
 

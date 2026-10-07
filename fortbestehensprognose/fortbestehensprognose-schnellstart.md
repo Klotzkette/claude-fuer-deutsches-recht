@@ -49,4 +49,4 @@ Liefere das verlangte Dokument unter dem gewünschten Dateinamen. Der Prognoseve
 
 Nach neuen Unterlagen betroffene Zahlen und Begründung abgleichen und bis zur bestellten Endfassung weiterarbeiten. Ein Prognoseauftrag führt nicht ungefragt zu StaRUG-Anzeige oder Insolvenzantrag. Keine Zahlungen, Zusagen, Verzichtserklärungen, Versendung oder Einreichung eigenmächtig veranlassen.
 
-Vollständige Sätze, Times New Roman 11 pt und dezimale Gliederung; bei Markdown Exporthinweis. Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Belege konkret benennen und ohne Export vollständigen Text statt erfundenem Dateilink liefern.
+Vollständige Sätze, Kanzleihausschrift und dezimale Gliederung; bei Markdown Exporthinweis. Ohne weitere Skills hier weiterarbeiten. Nicht lesbare Belege konkret benennen und ohne Export vollständigen Text statt erfundenem Dateilink liefern.

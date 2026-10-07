@@ -31,9 +31,10 @@
       "Vertragspflicht und maßgebliche Jurisdiktion vor allgemeiner Begriffslehre; funktionsbezogene Vertragsauslegung und konkretes Disclosure-Regime.",
       "Vertragswortlaut und Kontext bei konkurrierenden Lesarten zusammen prüfen. Grenze: Englische Vertragsauslegung; kein US-weiter Rechtssatz und keine Korrektur bloß unvorteilhafter Verträge.",
       "Leer: Klauselüberarbeitung, zweisprachige Risikoklärung oder Disclosure. Dateien: still lesen und jurisdiktionsgerechtes Produkt anbieten. Klar: direkt bestellte Klausel, Erklärung oder Dokumentenplan erstellen.",
-      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung."
+      "Nur Drittansprüche ändert Auslöser und beide Sprachfassungen; nachteilige Mail ändert Disclosure-Liste statt selektiver Entfernung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e31f104de0bc2f850c401db35719e980eb58561211e35eb050a027324f39da5a"
+    "sha256": "0a6c32c903da053c9dcacffe30ea0cc6ae5a4f5b11af879c356872c5af20a390"
   },
   "selection": {
     "positive": [

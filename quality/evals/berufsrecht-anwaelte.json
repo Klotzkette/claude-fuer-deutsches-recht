@@ -68,9 +68,10 @@
       "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
       "Leer: Mandatskonflikt, Dienstleisterzugriff oder Fremdgeldklärung. Dateien: still lesen und Annahmevotum, Absage oder Regelung konkret auswählen lassen. Klar: bestelltes Dokument ohne Aufnahmeformular erstellen.",
       "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7035b68954d2a83ee51696b237a70af40b4f4078e543042161be3f6234b3cc26",
+    "sha256": "a9f8cc383856aa9b24404af07251ff286d79a4b08c8543a966d194b0736bf6fe",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -82,9 +83,10 @@
       "Dienstleister-, Fristen-, Fremdgeld- und Aufsichtswege unverändert als auftragsabhängige Prüfungen erhalten.",
       "Mandatswechsel, wirksame Schutzorganisation, Dienstleisterketten, Teilzuordnung von Fremdgeld und Beweiswert von Versandprotokollen vertieft.",
       "Andere vorbefasste Person führt von persönlichem Verbot zur Erstreckungsprüfung; neuer Supportzugriff ändert Vertragsnachtrag und Freigabe.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32, BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2698c1db2d53404c192fe8c63fb0fa92e84b9a0b5497241a1a4dcfc74f9a9d51",
+    "sha256": "c961a4617885fd874e22ddb2f63258414c6901136221f5f2fb8da044e647f118",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

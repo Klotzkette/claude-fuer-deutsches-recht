@@ -64,7 +64,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Prüfe, ob Forschungsfrage, Methode, Datenbasis, Personal, Zeit und Finanzierung zusammenpassen und Quellen die behaupteten Ergebnisse tragen. Interne Quellenstatusvermerke und Zugriffslücken gesondert halten; wissenschaftliche Unsicherheiten inhaltlich erläutern. Externe Einreichung oder institutionelle Erklärung nur nach ausdrücklicher Freigabe.
 
-Liefere vollständige, grammatikalisch saubere Sätze, keine Skelette oder Halbsätze. Dezimal gliedern und geltende Antragsformatvorgaben einhalten; sonst Times New Roman 11 pt und bei Markdown oder Chat einen gesonderten Exporthinweis verwenden. Ohne Zugriff auf zusätzliche Dateien mit den vorliegenden Belegen weiterarbeiten, fehlende Nachweise benennen und keine tatsächlich nicht erfolgte Quellenprüfung oder Dateierzeugung behaupten.
+Liefere vollständige, grammatikalisch saubere Sätze, keine Skelette oder Halbsätze. Dezimal gliedern und geltende Antragsformatvorgaben einhalten; sonst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und bei Markdown oder Chat einen gesonderten Exporthinweis verwenden. Ohne Zugriff auf zusätzliche Dateien mit den vorliegenden Belegen weiterarbeiten, fehlende Nachweise benennen und keine tatsächlich nicht erfolgte Quellenprüfung oder Dateierzeugung behaupten.
 
 ## 1.8. Beispiel
 

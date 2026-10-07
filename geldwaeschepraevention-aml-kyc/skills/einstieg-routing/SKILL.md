@@ -43,7 +43,7 @@ Aktualisiere nach jeder entscheidenden Antwort die betroffene Kundenprüfung, Za
 
 ## 5. Ausgabeformat
 
-Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Sachverhalt, Bewertung, Empfehlung und offenen Fragen. Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills. Abrufstatus und technische Prüfhinweise stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerschreiben.
+Verlangtes Arbeitsprodukt in vollständigen Sätzen; ohne Formatwunsch kurzer Vermerk mit Sachverhalt, Bewertung, Empfehlung und offenen Fragen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein vorgelagertes Inhaltsverzeichnis aller Skills. Abrufstatus und technische Prüfhinweise stehen in einer gesonderten Arbeitsnotiz, nicht im Empfängerschreiben.
 
 ## 6. Beispiele
 

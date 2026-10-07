@@ -196,7 +196,7 @@ Konkret zu prüfen:
 - Normen und Rechtsprechung nach `references/quellenhygiene.md` und `references/zitierweise.md` behandeln.
 - Einen passenden Spezialskill optional nutzen; sein Aufruf oder seine Benennung ersetzt nicht die Bearbeitung. Kein weiterer Dateizugriff ist Voraussetzung für die Fortsetzung mit den vorliegenden Angaben.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
-- Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Vollständige Sätze und dezimale Gliederung; für formatierte Dokumente Times New Roman 11 pt, sonst entsprechender Exporthinweis. Versand, Abtretung oder Klageeinreichung nicht eigenmächtig veranlassen.
+- Interne Quellen- und Zugriffshinweise getrennt vom Empfängertext halten. Vollständige Sätze und dezimale Gliederung; für formatierte Dokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst entsprechender Exporthinweis. Versand, Abtretung oder Klageeinreichung nicht eigenmächtig veranlassen.
 
 ---
 

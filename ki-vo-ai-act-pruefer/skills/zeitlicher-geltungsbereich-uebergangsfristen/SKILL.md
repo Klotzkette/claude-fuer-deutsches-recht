@@ -36,7 +36,7 @@ Jede Zeile endet mit Pflicht, Adressat, belegtem Ereignis, Normfassung, gesetzli
 
 ## 5. Ausgabeformat
 
-Kalender mit vollständig ausformuliertem Begleitvermerk: Was ist jetzt zu tun, was wird vorbereitet, welche Unsicherheit bleibt offen? Keine erfundene Tagesfrist bei fehlendem Ereignisdatum. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exportstandard nennen. Keine Einreichung oder Abschaltung ohne Freigabe.
+Kalender mit vollständig ausformuliertem Begleitvermerk: Was ist jetzt zu tun, was wird vorbereitet, welche Unsicherheit bleibt offen? Keine erfundene Tagesfrist bei fehlendem Ereignisdatum. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exportstandard nennen. Keine Einreichung oder Abschaltung ohne Freigabe.
 
 ## 6. Beispiele
 

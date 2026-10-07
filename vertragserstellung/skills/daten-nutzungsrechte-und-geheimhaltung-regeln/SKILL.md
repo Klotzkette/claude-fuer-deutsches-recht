@@ -49,7 +49,7 @@ Regle Exportformat, Frist, Ansprechpartner, verschlüsselte Übergabe und überp
 
 ## 5. Ausgabeformat
 
-Liefere konkrete Klauseln, nötigenfalls eine vollständige kurze Anlage zur Auftragsverarbeitung, und getrennte Rechtsketten- oder Zugriffsblocker. Ausformulierungspflicht: vollständige Sätze; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Fehlende technische Angaben markieren, nicht durch erfundene Maßnahmen ersetzen. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung und Leerzeilen. Quellen- und Exporthinweise außerhalb des operativen Vertragstextes.
+Liefere konkrete Klauseln, nötigenfalls eine vollständige kurze Anlage zur Auftragsverarbeitung, und getrennte Rechtsketten- oder Zugriffsblocker. Ausformulierungspflicht: vollständige Sätze; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Fehlende technische Angaben markieren, nicht durch erfundene Maßnahmen ersetzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung und Leerzeilen. Quellen- und Exporthinweise außerhalb des operativen Vertragstextes.
 
 ## 6. Beispiele
 

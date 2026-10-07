@@ -27,7 +27,7 @@ Paragrafen 3, 7, 12 bis 16 und 22 AGG. BAG 29.01.2026, 8 AZR 49/25 hilft bei Kau
 
 ## 5. Ausgabeformat
 
-Ausformulierter Beschwerdebrief, Anhörung oder Ergebnisbescheid mit konkreten nächsten Schritten. Interne Beweisbewertung getrennt. Keine Stichwortskelette. Times New Roman 11 pt, dezimale Gliederung. Keine eigenmächtige Sanktion oder Veröffentlichung.
+Ausformulierter Beschwerdebrief, Anhörung oder Ergebnisbescheid mit konkreten nächsten Schritten. Interne Beweisbewertung getrennt. Keine Stichwortskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine eigenmächtige Sanktion oder Veröffentlichung.
 
 ## 6. Beispiel
 

@@ -94,7 +94,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## Output-Template — Prüfergebnis
 
-Das Schema dient der internen Kontrolle, nicht als Pflichtformular. Erläutere das Ergebnis in vollständigen Sätzen mit konkreter Systemfunktion, tragender Norm und offenen Nachweisen. Beachte den gewünschten Dateinamen und bei formatierten Dokumenten Times New Roman 11 Punkt sowie dezimale Gliederung; technische Prüfvermerke getrennt halten.
+Das Schema dient der internen Kontrolle, nicht als Pflichtformular. Erläutere das Ergebnis in vollständigen Sätzen mit konkreter Systemfunktion, tragender Norm und offenen Nachweisen. Beachte den gewünschten Dateinamen und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt sowie dezimale Gliederung; technische Prüfvermerke getrennt halten.
 **Adressat:** Prüfer / Rechtsberater — Tonfall: strukturiert-rechtlich
 ```
 PRUEFERGEBNIS — TRIAGE KI VO VORPRUEFUNG

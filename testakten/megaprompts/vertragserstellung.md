@@ -69,7 +69,7 @@ Regle Exportformat, Frist, Ansprechpartner, verschlüsselte Übergabe und überp
 
 ## 5. Ausgabeformat
 
-Liefere konkrete Klauseln, nötigenfalls eine vollständige kurze Anlage zur Auftragsverarbeitung, und getrennte Rechtsketten- oder Zugriffsblocker. Ausformulierungspflicht: vollständige Sätze; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Fehlende technische Angaben markieren, nicht durch erfundene Maßnahmen ersetzen. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung und Leerzeilen. Quellen- und Exporthinweise außerhalb des operativen Vertragstextes.
+Liefere konkrete Klauseln, nötigenfalls eine vollständige kurze Anlage zur Auftragsverarbeitung, und getrennte Rechtsketten- oder Zugriffsblocker. Ausformulierungspflicht: vollständige Sätze; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Fehlende technische Angaben markieren, nicht durch erfundene Maßnahmen ersetzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung und Leerzeilen. Quellen- und Exporthinweise außerhalb des operativen Vertragstextes.
 
 ## 6. Beispiele
 
@@ -139,7 +139,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen Vertrag und getrennt davon nur die entscheidenden offenen Punkte oder eine kurze Änderungsnotiz. Ausformulierungspflicht: Jeder operative Abschnitt besteht aus vollständigen Sätzen mit bestimmter Pflicht oder Rechtsfolge. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei Skelettcharakter neu ausformulieren. Keine Quellenprotokolle im Vertrag erzwingen. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown den Exporthinweis außerhalb des Vertragstextes geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben.
+Liefere den vollständigen Vertrag und getrennt davon nur die entscheidenden offenen Punkte oder eine kurze Änderungsnotiz. Ausformulierungspflicht: Jeder operative Abschnitt besteht aus vollständigen Sätzen mit bestimmter Pflicht oder Rechtsfolge. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei Skelettcharakter neu ausformulieren. Keine Quellenprotokolle im Vertrag erzwingen. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown den Exporthinweis außerhalb des Vertragstextes geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben.
 
 ## 6. Beispiele
 
@@ -199,7 +199,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Laufzeit- und Abwicklungsklauseln, bei entsprechendem Auftrag einen ausgearbeiteten Nachtrag oder ein Beendigungsschreiben. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fristrechnung, Quellen und Exporthinweis getrennt vom Empfängertext. Status „Entwurf“ nicht mit tatsächlich zugegangener Erklärung verwechseln.
+Liefere vollständige Laufzeit- und Abwicklungsklauseln, bei entsprechendem Auftrag einen ausgearbeiteten Nachtrag oder ein Beendigungsschreiben. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fristrechnung, Quellen und Exporthinweis getrennt vom Empfängertext. Status „Entwurf“ nicht mit tatsächlich zugegangener Erklärung verwechseln.
 
 ## 6. Beispiele
 
@@ -259,7 +259,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere zusammenhängende ausformulierte Ersatzregelungen und eine kurze separate Risikobegründung. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen; Exporthinweis getrennt. Ein Klauseltext enthält keine erfundenen bestätigenden Urteilszitate. Offene Risikowerte als Platzhalter und konkreten Freigabepunkt bezeichnen.
+Liefere zusammenhängende ausformulierte Ersatzregelungen und eine kurze separate Risikobegründung. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen; Exporthinweis getrennt. Ein Klauseltext enthält keine erfundenen bestätigenden Urteilszitate. Offene Risikowerte als Platzhalter und konkreten Freigabepunkt bezeichnen.
 
 ## 6. Beispiele
 
@@ -315,7 +315,7 @@ Stimme Abnahme und Zahlungsmeilensteine, Mitwirkung und Termine, Prüfparameter 
 
 ## 5. Ausgabeformat
 
-Liefere ausformulierte Leistungsklauseln und nötige Anlage einschließlich Mitwirkung, Messung und Folgen. Technische Tabellen dürfen vollständige Pflichten ergänzen, nicht ersetzen. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen, Exporthinweis getrennt. Quellen- und Machbarkeitsvorbehalte gehören in eine kurze interne Notiz, nicht als kommentierter Materialdump in den Vertrag.
+Liefere ausformulierte Leistungsklauseln und nötige Anlage einschließlich Mitwirkung, Messung und Folgen. Technische Tabellen dürfen vollständige Pflichten ergänzen, nicht ersetzen. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen, Exporthinweis getrennt. Quellen- und Machbarkeitsvorbehalte gehören in eine kurze interne Notiz, nicht als kommentierter Materialdump in den Vertrag.
 
 ## 6. Beispiele
 
@@ -373,7 +373,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Vertragsfassung, gegebenenfalls ausformulierte Verhandlungsantwort und eine getrennte kurze Abschlussnotiz. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Im Vertrag keine internen Prüffelder, Quellenprotokolle oder technischen Exporthinweise. Platzhalter vor Bezeichnung als unterschriftsfertig auf entscheidende Lücken kontrollieren.
+Liefere vollständige Vertragsfassung, gegebenenfalls ausformulierte Verhandlungsantwort und eine getrennte kurze Abschlussnotiz. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Im Vertrag keine internen Prüffelder, Quellenprotokolle oder technischen Exporthinweise. Platzhalter vor Bezeichnung als unterschriftsfertig auf entscheidende Lücken kontrollieren.
 
 ## 6. Beispiele
 
@@ -433,7 +433,7 @@ Nach bestätigter Zusatzvergütung Betrag, Raten und Referenzen gemeinsam aktual
 
 ## 5. Ausgabeformat
 
-Ein vollständiger Nachtrag enthält Parteien, präzisen Ausgangsbezug, operative Änderung, Beginn, Fortgeltung und passende Unterzeichnungsfelder. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fehlende Angaben als lesbare Platzhalter, nicht als ausgelassene Rechtsfolgen. Quellen, Änderungsbegründung und Exporthinweis getrennt.
+Ein vollständiger Nachtrag enthält Parteien, präzisen Ausgangsbezug, operative Änderung, Beginn, Fortgeltung und passende Unterzeichnungsfelder. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Fehlende Angaben als lesbare Platzhalter, nicht als ausgelassene Rechtsfolgen. Quellen, Änderungsbegründung und Exporthinweis getrennt.
 
 ## 6. Beispiele
 
@@ -491,7 +491,7 @@ Nach geänderter Menge Preis und Raten neu rechnen; nach neuer Sicherheit keine 
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Vergütungs- und Zahlungsklauseln sowie nur die tatsächlich beauftragte Sicherheitsregel. Eine Rechentabelle ergänzt die Verpflichtung in Sätzen. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Formatierte Dokumente in Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Rechenkontrolle, Quellen und Exporthinweise getrennt vom operativen Vertragstext.
+Liefere vollständige Vergütungs- und Zahlungsklauseln sowie nur die tatsächlich beauftragte Sicherheitsregel. Eine Rechentabelle ergänzt die Verpflichtung in Sätzen. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Rechenkontrolle, Quellen und Exporthinweise getrennt vom operativen Vertragstext.
 
 ## 6. Beispiele
 
@@ -549,7 +549,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Bereinigungstext oder die konsistente Vollfassung; eine Synopse dient nur als Zusatz. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Nummeriere dezimal mit Leerzeilen, verwende soweit technisch möglich Times New Roman 11 pt. Quellen und Auslegungsunsicherheit außerhalb der operativen Klauseln erklären. Exporthinweis bei Markdown getrennt halten.
+Liefere einen ausformulierten Bereinigungstext oder die konsistente Vollfassung; eine Synopse dient nur als Zusatz. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Nummeriere dezimal mit Leerzeilen, verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Quellen und Auslegungsunsicherheit außerhalb der operativen Klauseln erklären. Exporthinweis bei Markdown getrennt halten.
 
 ## 6. Beispiele
 
@@ -605,7 +605,7 @@ Nach neuem Vertretungsnachweis ändere Parteiblock, Signaturfelder und Freigabev
 
 ## 5. Ausgabeformat
 
-Ergebnis ist ein ausformulierter Vertragsanfang, ein vollständiges kurzes Eckpunktedokument oder eine konkrete Anfrage, ergänzt um getrennte Abschlussblocker. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Jeder Vorbehalt regelt, was vor seiner Erfüllung gilt. Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; Markdown mit gesondertem Exporthinweis. Rechtsquellen und Prüfstatus außerhalb operativer Vereinbarungen erläutern.
+Ergebnis ist ein ausformulierter Vertragsanfang, ein vollständiges kurzes Eckpunktedokument oder eine konkrete Anfrage, ergänzt um getrennte Abschlussblocker. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Jeder Vorbehalt regelt, was vor seiner Erfüllung gilt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; Markdown mit gesondertem Exporthinweis. Rechtsquellen und Prüfstatus außerhalb operativer Vereinbarungen erläutern.
 
 ## 6. Beispiele
 

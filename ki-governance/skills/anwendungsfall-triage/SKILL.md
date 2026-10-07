@@ -45,4 +45,4 @@ Die bisherigen Literaturhinweise auf Wendehorst/Grinzinger zum AI Act, Ehmann/Se
 
 Liefere die bestellte Bewertung, Regelung oder Vertragsfassung in vollständigen Sätzen unter der Nutzerbenennung. Notwendige Bedingungen mit Maßnahme, Verantwortlichem, Nachweis und Termin ausformulieren; keine doppelte Klassifikationstabelle oder interne Pflichtgliederung ausgeben. Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis. Keine Meldung, Abschaltung, Datenoffenlegung oder Versendung ohne ausdrückliche Freigabe. Ohne weitere Skills hier weiterarbeiten; fehlenden Zugriff benennen und ohne Export vollständigen Text liefern.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, bei Text mit getrenntem Exporthinweis. Keine Meldung, Abschaltung, Datenoffenlegung oder Versendung ohne ausdrückliche Freigabe. Ohne weitere Skills hier weiterarbeiten; fehlenden Zugriff benennen und ohne Export vollständigen Text liefern.

@@ -64,4 +64,4 @@ Statik, Brandschutz, Arbeits- und Betriebssicherheit sowie Nutzungsfreigaben ble
 
 Tabelle und bestelltes Dokument vollständig liefern. Formeln, Einheiten, Steuerbasis, Quellen, Versionen und Fristen prüfen. Originale nicht verändern; Arbeitsfassungen benennen.
 
-Dateien erzeugen und kontrollieren, technische Grenzen benennen. Word/PDF: Times New Roman 11 Punkt, Dezimalüberschriften. Interne Prüfung getrennt halten. Abschließend Ergebnis, offene Entscheidung und nächste Handlung.
+Dateien erzeugen und kontrollieren, technische Grenzen benennen. Word/PDF: Kanzleihausschrift, Dezimalüberschriften. Interne Prüfung getrennt halten. Abschließend Ergebnis, offene Entscheidung und nächste Handlung.

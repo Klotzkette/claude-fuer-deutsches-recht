@@ -25,14 +25,15 @@
     }
   ],
   "mini_review": {
-    "sha256": "3254a6c8a0a23cf4f89d5f506cf0d1847806741eaf4899cc0aa5e89f83f12fb6",
+    "sha256": "feeb757740c9faf8ca90291e2e2b4d78fb6a73e405319c35c684e48fdda36b19",
     "verdict": "revised",
     "reason": "Die Prüfung trennt jetzt den vorherigen Beschluss des zuständigen Gremiums vom Einverständnis des Vorsitzenden und leitet daraus eine konkrete Freigabeprüfung ab. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
       "II ZR 24/17 bei geänderter Investition und informeller Vorsitzendenzustimmung operativ eingebunden.",
       "Zuständigkeitsverletzung, Schaden und hypothetische rechtmäßige Zustimmung getrennt; Eilfall nicht pauschal verneint.",
       "Leerstart: Investitionsvotum, Informationsverlangen oder Protokoll anbieten. Dateien: Vorstandsvorlage still lesen und passendes Organprodukt klären. Klarer Auftrag: Votum oder Beschluss ohne neue Organaufnahme erstellen.",
-      "Bedingte Finanzierung verändert Beschlussreife; Kostenänderung führt zu erneuter Vorlage; bestätigte Gegenstimme ändert Protokoll."
+      "Bedingte Finanzierung verändert Beschlussreife; Kostenänderung führt zu erneuter Vorlage; bestätigte Gegenstimme ändert Protokoll.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
@@ -42,9 +43,10 @@
       "II ZR 24/17 bei geänderter Investition und informeller Vorsitzendenzustimmung operativ eingebunden.",
       "Zuständigkeitsverletzung, Schaden und hypothetische rechtmäßige Zustimmung getrennt; Eilfall nicht pauschal verneint.",
       "Finanzierungsbedingungen, geänderte Geschäfte, tatsächliche Beschlussdokumentation und getrennte Angebots- und Organfristen.",
-      "Bedingte Finanzierung verändert Beschlussreife; Kostenänderung führt zu erneuter Vorlage; bestätigte Gegenstimme ändert Protokoll."
+      "Bedingte Finanzierung verändert Beschlussreife; Kostenänderung führt zu erneuter Vorlage; bestätigte Gegenstimme ändert Protokoll.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "14a90f5f2561cb8e88dd6f53d4da30d7ae891efbb6634a5a7d13aab74362fd22"
+    "sha256": "6768f391e55af3199fcfd56207d28d4dcbcb209d89d927e3f2898e271f9f1a9a"
   },
   "selection": {
     "positive": [

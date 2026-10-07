@@ -37,7 +37,7 @@ Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. 
 
 Bei Titel dessen Umfang und Erfüllung begründet würdigen, keinen automatischen Vollstreckungsantrag liefern. Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Brieftext.
 
-Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
+Ausformulierungspflicht: vollständige Sätze, keine Skelette. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Nur tatsächlich erzeugte Dateien verlinken.
 
 ## 1.5. Beispiele
 

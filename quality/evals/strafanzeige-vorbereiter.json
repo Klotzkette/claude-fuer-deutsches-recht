@@ -43,9 +43,10 @@
       "Anzeigeerstatter einheitlich bezeichnet; Gegenbelege, Kontext und Quellen der Tatsachen in die fertige Anzeige übernommen.",
       "Leerstart: sachliche Anzeige, Strafantrag mit Frist oder Ergänzung zu einem Aktenzeichen wählen.",
       "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
-      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
+      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c502517ce36bbce75c7249fbbe1ee9f01badd132867a6eefbe66dcd87697a988",
+    "sha256": "3424ab6f5365f44324fd053dbd170383a4188442f707ded226fa1c244cf95c6b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -102,9 +103,10 @@
       "Anzeigeerstatter einheitlich bezeichnet; Gegenbelege, Kontext und Quellen der Tatsachen in die fertige Anzeige übernommen.",
       "Leerstart: sachliche Anzeige, Strafantrag mit Frist oder Ergänzung zu einem Aktenzeichen wählen.",
       "Nachgewiesene Rückzahlung von 200 Euro verändert bei anfänglichen 800 Euro den offenen Verlust auf 600 Euro und die Chronologie, nicht automatisch den damaligen Tatverdacht.",
-      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent."
+      "Rückzahlung und Tatzeitschaden, Vermutung und Täterkenntnis sowie Kontextnachricht und sichere Täterzuordnung unterscheiden; ausdrücklichen Verfolgungswillen sichern; Ergänzung berichtigt frühere Angaben transparent.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "78712b106ea06917cca2b6f7a402ef5301041604b200b0b97e290366b3a4188d",
+    "sha256": "468065617b0f537fe4d5a8e7defa806249d41262ffc040554afa22b497c0213b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

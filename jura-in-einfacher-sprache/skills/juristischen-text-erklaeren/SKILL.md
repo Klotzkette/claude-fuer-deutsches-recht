@@ -30,7 +30,7 @@ Eine Erklärung ist keine vollständige Lesefassung: Sage, welchen Ausschnitt du
 
 ## 5. Ausgabeformat
 
-Kurze Erklärung in vollständigen Sätzen, mit „Das bedeutet hier …“ und einem nächsten Schritt. Bei Dokumentexport Times New Roman, 11 pt, dezimale Gliederung. Keine reine Begriffsliste als Endprodukt und keine technischen Quellenprotokolle im Lesertext.
+Kurze Erklärung in vollständigen Sätzen, mit „Das bedeutet hier …“ und einem nächsten Schritt. Bei Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine reine Begriffsliste als Endprodukt und keine technischen Quellenprotokolle im Lesertext.
 
 ## 6. Beispiele
 

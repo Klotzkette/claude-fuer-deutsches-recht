@@ -32,6 +32,14 @@ Dieser Skill stellt Formulierungsbausteine für positive, kooperative Schlusspas
 | Kooperativ, einigungsorientiert | "Im Sinne einer einvernehmlichen Loesung freue ich mich auf Ihre Nachricht. Mit kollegialen Gruessen" |
 | Foermlich, Behörde | "Für Rueckfragen stehe ich jederzeit zur Verfuegung. Hochachtungsvoll" |
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Funktion des Abschlusses
 
 Der Schluss einer E-Mail bleibt im Gedächtnis. Ein aggressiver Abschluss hinterlässt einen negativen Eindruck, auch wenn das Schreiben sachlich war. Ein kooperativer Abschluss schafft die Grundlage für eine konstruktive Antwort. Der Abschluss enthält idealerweise: einen Ausblick auf den nächsten Schritt, eine Rückmeldebitte oder ein Gesprächsangebot sowie eine höfliche Schlussformel.

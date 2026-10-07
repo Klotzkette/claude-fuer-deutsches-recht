@@ -1,6 +1,6 @@
 # versammlungsrecht
 
-**56 Skills** · Stand `v445.33.1`
+**56 Skills** · Stand `v445.34.0`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../versammlungsrecht/README.md) · [Download-Index](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 

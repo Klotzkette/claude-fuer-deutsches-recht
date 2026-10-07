@@ -53,9 +53,10 @@
       "DATEV-Übertragungsanspruch, Vertragsleistung und Einreden getrennt.",
       "Alle bestehenden Fachgebiete und Fortsetzungswege erhalten.",
       "Leer: Herausgabe, Fristenübergabe oder Erklärungsfehler. Dateien: still lesen und Übergabebrief oder Mandanteninformation anbieten. Klar: bestellte Bewertung oder Nachricht ohne allgemeine Mandatsübersicht erstellen.",
-      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief."
+      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7174315356b20975de7fd9eb0743905e566cd6f5c96f98b740f8ef81ce40d328"
+    "sha256": "05cbb22ef506d347318531e9ac70fb271814c5684c0d957d90662794a7e79704"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -66,9 +67,10 @@
       "DATEV-Übertragungsanspruch, Vertragsleistung und Einreden getrennt.",
       "Alle bestehenden Fachgebiete und Fortsetzungswege erhalten.",
       "Datenkategorien, Teilherausgabe, Gebührenzuordnung, Bekanntgabefrist, Fehlerzeitraum und getrennte Aufbewahrung ausgearbeitet.",
-      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief."
+      "Zahlungsbeleg ändert Saldo und Zurückhaltung; Übernahme ab Oktober verlangt genaue Zuordnung der offenen Vorjahreserklärung im Übergabebrief.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "97343f6beaab43660c313b170c7f6a02614c9997e79783ed1a9d112085e8d7ff"
+    "sha256": "07f2d48b0a5418dcd663726ca2ee95d1a4bb8e406427a85c02598127e2836bce"
   },
   "selection": {
     "positive": [

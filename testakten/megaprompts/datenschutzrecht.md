@@ -752,7 +752,7 @@ Artikel 5, 12, 17 bis 19 und 28 [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/6
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Betroffenenantwort oder interne Löschanweisung mit Datenumfang, Verantwortlichem, Frist und Nachweis. Keine bloße Konzeptskizze, keine Halbsätze. Times New Roman 11 pt, dezimale Gliederung. Technische Lücken getrennt dokumentieren; keine ausgeführte Löschung oder Speicherung behaupten.
+Vollständig ausformulierte Betroffenenantwort oder interne Löschanweisung mit Datenumfang, Verantwortlichem, Frist und Nachweis. Keine bloße Konzeptskizze, keine Halbsätze. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Technische Lücken getrennt dokumentieren; keine ausgeführte Löschung oder Speicherung behaupten.
 
 ## 6. Beispiele
 
@@ -795,7 +795,7 @@ Für eine Freigabe technische Nachweise und konkrete Befugnisse abgleichen. Die 
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
+Vollständig ausformulierter Freigabe- oder Beanstandungsvermerk mit sechs Spalten: Funktion, Rolle, Rechtsregime, Tatbestand, Nachweis, nächste Maßnahme. Bei Beschaffung konkrete Vertragsänderung, bei Vorfall adressierte Meldung, bei risikobehafteter Nutzung begründete Freigabesperre formulieren. Keine pauschale Konformitätsbescheinigung ohne belastbare Nachweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine automatische Einreichung.
 
 ## 6. Beispiele
 

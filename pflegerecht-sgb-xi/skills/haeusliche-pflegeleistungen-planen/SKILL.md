@@ -33,7 +33,7 @@ Amtliche Volltexte und Terminvorschauen getrennt in [Rechtsstand und Quellen](..
 
 ## 5. Ausgabeformat
 
-Monat | benötigte Hilfe | Leistung | Kassenanteil | Eigenanteil | Rechnungsbeleg. Danach ausformuliertes Antragsschreiben und kurze Erklärung für den Versicherten, keine bloße Informationssammlung. Dokumente soweit möglich Times New Roman 11 pt, dezimale Gliederung; Rechnung und Annahmen getrennt vom versandfähigen Text.
+Monat | benötigte Hilfe | Leistung | Kassenanteil | Eigenanteil | Rechnungsbeleg. Danach ausformuliertes Antragsschreiben und kurze Erklärung für den Versicherten, keine bloße Informationssammlung. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Rechnung und Annahmen getrennt vom versandfähigen Text.
 
 ## 6. Beispiele
 

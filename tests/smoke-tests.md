@@ -127,7 +127,7 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Schritt 2 — Konvolut bauen:** `python3 werkzeuge/build_anlagenkonvolut.py --eingang <ordner> --ausgang <ziel> --praefix K`.
 
-**Erwarteter Output:** `Anlagenkonvolut.pdf` mit Lesezeichen pro Anlage, Stempel **Anlage K 7** in Arial 12 pt oben rechts auf Seite 1 jeder Anlage, `Anlagenverzeichnis.md` und `Anlagenverzeichnis.pdf`.
+**Erwarteter Output:** `Anlagenkonvolut.pdf` mit Lesezeichen pro Anlage, Stempel **Anlage K 7** in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt oben rechts auf Seite 1 jeder Anlage, `Anlagenverzeichnis.md` und `Anlagenverzeichnis.pdf`.
 
 **Abbruchkriterium:** Stempel überlappt mit Seiteninhalt **oder** Lesezeichen springen auf die falsche Anlage **oder** Anlagenverzeichnis listet nicht alle Anlagen.
 

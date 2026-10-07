@@ -48,7 +48,7 @@ Beachte die lokal mitgelieferte [Zitierweise](https://github.com/Klotzkette/clau
 
 ## 5. Ausgabeformat
 
-Liefere zuerst den verlangten Entwurf, sonst ein Fallblatt mit Ereignis, Parteien, akutem Handlungsbedarf und verantwortlichem nächsten Schritt. Beleglücken stehen bei der betroffenen Aussage. Schreiben sind in vollständigen Sätzen auszuformulieren; keine Halbsätze oder leeren Textgerüste als Endprodukt. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Ohne Export liefere Text statt eines erfundenen Downloads.
+Liefere zuerst den verlangten Entwurf, sonst ein Fallblatt mit Ereignis, Parteien, akutem Handlungsbedarf und verantwortlichem nächsten Schritt. Beleglücken stehen bei der betroffenen Aussage. Schreiben sind in vollständigen Sätzen auszuformulieren; keine Halbsätze oder leeren Textgerüste als Endprodukt. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Ohne Export liefere Text statt eines erfundenen Downloads.
 
 ## 6. Beispiel
 
@@ -85,7 +85,7 @@ Letztes Schreiben, bestätigte Tatsachen, konkreter Prüfstand, Empfänger, Vert
 
 ## 5. Ausgabeformat
 
-Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
+Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
 
 ## 6. Beispiel
 
@@ -123,7 +123,7 @@ Police und Nachträge, versicherte Rechtsträger und Tätigkeit, Ereignisdatum, 
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Schadenanzeige und kurze Deckungsabfrage; daneben Fristentabelle und fehlende Vertragsseiten. Keine ungeprüfte Freigabe und kein tatsächlicher Versand. Times New Roman 11 pt soweit möglich, dezimale Gliederung; ohne Dateiwerkzeuge verwendbaren Nachrichtentext liefern.
+Vollständig ausformulierte Schadenanzeige und kurze Deckungsabfrage; daneben Fristentabelle und fehlende Vertragsseiten. Keine ungeprüfte Freigabe und kein tatsächlicher Versand. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung; ohne Dateiwerkzeuge verwendbaren Nachrichtentext liefern.
 
 ## 6. Beispiel
 
@@ -186,7 +186,7 @@ Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe pr�
 
 ## 5. Ausgabeformat
 
-Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsrechnung, Aufklärungsbedarf, Reservegrund und Freigabe; getrennt davon einen vollständig formulierten Außenbrief. Keine internen Überlegungen versehentlich als Anlage mitsenden. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export verwendbaren Text liefern.
+Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsrechnung, Aufklärungsbedarf, Reservegrund und Freigabe; getrennt davon einen vollständig formulierten Außenbrief. Keine internen Überlegungen versehentlich als Anlage mitsenden. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export verwendbaren Text liefern.
 
 ## 6. Beispiel
 
@@ -223,7 +223,7 @@ Leistungsaufstellung mit Zeitraum und Leistungsart, Versicherungsdaten, Entgeltf
 
 ## 5. Ausgabeformat
 
-Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
+Gläubigertabelle „Position / Zeitraum / Leistung / Rechtsübergang / Empfänger / Zahlungsstand“ und ein vollständig ausformulierter Antwortentwurf. Keine abschließende Regressquote ohne Daten. Format soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Fehlende Unterlagen blockieren nur die betroffene Position.
 
 ## 6. Beispiel
 
@@ -261,7 +261,7 @@ Aktuelle Positionsrechnung, Haftungsvermerk, Deckungsstand, Vergleichsmandat, be
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Vergleich oder Zahlungs-/Ablehnungsbrief; daneben interne Freigabe mit offenen Sperren und eine Abschlussliste mit tatsächlichen Erledigungsnachweisen. Keine Klauselskelette. Soweit möglich Times New Roman 11 pt, dezimale Gliederung. Ohne Export Text liefern; ein fehlender Zahlungsnachweis darf nicht durch „erledigt“ ersetzt werden.
+Vollständig ausformulierter Vergleich oder Zahlungs-/Ablehnungsbrief; daneben interne Freigabe mit offenen Sperren und eine Abschlussliste mit tatsächlichen Erledigungsnachweisen. Keine Klauselskelette. Soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Export Text liefern; ein fehlender Zahlungsnachweis darf nicht durch „erledigt“ ersetzt werden.
 
 ## 6. Beispiel
 
@@ -300,7 +300,7 @@ Forderung, Kauf- und Zahlungsbelege, Alter und Zustand der Sache, Reparaturausku
 
 ## 5. Ausgabeformat
 
-Positionsrechnung mit Einheiten, Belegen, Vorzahlungen und offener Differenz sowie ein ausformuliertes Ergebnis mit begründetem Nachforderungsbedarf. Keine erfundene gerichtliche Betragsgarantie. Schreiben in vollständigen Sätzen, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Bei fehlendem Tabellenexport die Rechnung im Text mit Rechenweg liefern.
+Positionsrechnung mit Einheiten, Belegen, Vorzahlungen und offener Differenz sowie ein ausformuliertes Ergebnis mit begründetem Nachforderungsbedarf. Keine erfundene gerichtliche Betragsgarantie. Schreiben in vollständigen Sätzen, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Bei fehlendem Tabellenexport die Rechnung im Text mit Rechenweg liefern.
 
 ## 6. Beispiel
 
@@ -339,7 +339,7 @@ Nutze Ereignisbericht, Vertrag oder Fahrschein, beteiligte Rechtsträger, Betrie
 
 ## 5. Ausgabeformat
 
-Begründeter Haftungsvermerk mit einer Tabelle „Anspruch / Voraussetzung / Beleg / Beweislast / Einwendung / Folge“. Der entscheidende Begründungstext steht in vollständigen Sätzen, nicht in einem Stichwortgerüst. Format soweit möglich Times New Roman 11 pt, ausschließlich dezimal. Eine offene Quellenprüfung sperrt die rechtliche Freigabe des betroffenen Punkts, nicht den gesamten Tatsachenentwurf.
+Begründeter Haftungsvermerk mit einer Tabelle „Anspruch / Voraussetzung / Beleg / Beweislast / Einwendung / Folge“. Der entscheidende Begründungstext steht in vollständigen Sätzen, nicht in einem Stichwortgerüst. Format soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal. Eine offene Quellenprüfung sperrt die rechtliche Freigabe des betroffenen Punkts, nicht den gesamten Tatsachenentwurf.
 
 ## 6. Beispiel
 
@@ -377,7 +377,7 @@ Benötigt werden Ereigniszeit mit Zeitzone, Ort, Fahrzeug oder Produkt, bekannte
 
 ## 5. Ausgabeformat
 
-Eine versandfertig ausformulierte Sicherungsanforderung mit Adressat, Ereignis, exakt bezeichnetem Material und erbetener Rückmeldung; daneben die Chronologie mit Quelle und Unsicherheit. Keine leeren Listen als Endprodukt. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export Text liefern; bei fehlendem Lesewerkzeug die einzelne unlesbare Datei benennen und den Rest bearbeiten.
+Eine versandfertig ausformulierte Sicherungsanforderung mit Adressat, Ereignis, exakt bezeichnetem Material und erbetener Rückmeldung; daneben die Chronologie mit Quelle und Unsicherheit. Keine leeren Listen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export Text liefern; bei fehlendem Lesewerkzeug die einzelne unlesbare Datei benennen und den Rest bearbeiten.
 
 ## 6. Beispiel
 
@@ -440,7 +440,7 @@ Eigentum, Leasing, Reparaturermächtigung, Abtretung und Kaskovorleistung prüfe
 
 ## 5. Ausgabeformat
 
-Liefere einen begründeten Vermerk mit getrennten Spalten „Anordnung und Kosten“, „Ausführung und Schaden“ und „Deckung und Rückgriff“, danach das tatsächlich benötigte Schreiben an Geschädigten, Versicherer, Auftraggeber oder Sachverständigen. Konkrete Schadenpositionen, Belegbedarf und Empfänger ausformulieren. Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei fehlendem Export Text statt eines erfundenen PDF.
+Liefere einen begründeten Vermerk mit getrennten Spalten „Anordnung und Kosten“, „Ausführung und Schaden“ und „Deckung und Rückgriff“, danach das tatsächlich benötigte Schreiben an Geschädigten, Versicherer, Auftraggeber oder Sachverständigen. Konkrete Schadenpositionen, Belegbedarf und Empfänger ausformulieren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei fehlendem Export Text statt eines erfundenen PDF.
 
 ## 6. Beispiel
 

@@ -89,7 +89,7 @@ Bei einem Hindernis belegte Teile vorläufig liefern und den konkret benötigten
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne ungelesene oder unzugängliche Unterlagen; verfügbare Dateien belegen keine rechtliche Vollständigkeit. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine nicht erfolgte Akten- oder Quellenprüfung behaupten. Dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt verwenden, bei Markdown mit Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne ungelesene oder unzugängliche Unterlagen; verfügbare Dateien belegen keine rechtliche Vollständigkeit. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine nicht erfolgte Akten- oder Quellenprüfung behaupten. Dezimale Gliederung mit Leerzeilen und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden, bei Markdown mit Exporthinweis.
 
 ## 1.10. Pachtfläche und Vertragsänderung zusammenführen
 

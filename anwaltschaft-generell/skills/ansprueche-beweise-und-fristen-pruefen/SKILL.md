@@ -39,7 +39,7 @@ Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Vermerk oder verwendbaren Dokumentabschnitt mit Ergebnis, entscheidender Subsumtion und konkreter Folge. Ausformulierungspflicht: vollständige Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Eine kleine Frist- oder Beweistabelle darf ergänzen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Unsicherheit über ein Datum nicht im Fließtext verstecken.
+Liefere einen ausformulierten Vermerk oder verwendbaren Dokumentabschnitt mit Ergebnis, entscheidender Subsumtion und konkreter Folge. Ausformulierungspflicht: vollständige Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Eine kleine Frist- oder Beweistabelle darf ergänzen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Unsicherheit über ein Datum nicht im Fließtext verstecken.
 
 ## 6. Beispiele
 

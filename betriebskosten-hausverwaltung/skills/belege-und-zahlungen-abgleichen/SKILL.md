@@ -37,7 +37,7 @@ Wende die [Zitierweise](../../references/zitierweise.md) an. Prüfe Paragrafen 5
 
 ## 5. Ausgabeformat
 
-Liefere das Belegregister mit Kontrollsummen und die entscheidenden Abweichungen in vollständigen, ausformulierten Sätzen. Ein beauftragtes Anforderungsschreiben ist auszuformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente nutzen soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe nenne das nur im getrennten Exporthinweis. Verlinke nur tatsächlich erzeugte Dateien.
+Liefere das Belegregister mit Kontrollsummen und die entscheidenden Abweichungen in vollständigen, ausformulierten Sätzen. Ein beauftragtes Anforderungsschreiben ist auszuformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente nutzen soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe nenne das nur im getrennten Exporthinweis. Verlinke nur tatsächlich erzeugte Dateien.
 
 ## 6. Beispiele
 

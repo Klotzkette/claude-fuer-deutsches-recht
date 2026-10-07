@@ -171,7 +171,7 @@ Zahlenwerte zur nicht geringen Menge nur mit einschlägiger verifizierter Rechts
 
 ## 1.4 Ergebnis und Grenzen
 
-Formuliere das beauftragte Dokument vollständig, mit der notwendigen Mengenrechnung oder Beweiszuordnung, aber ohne Pflichtausgabe interner Prüflisten. Quellenstand und offene Recherche in einer getrennten Arbeitsnotiz festhalten; einen Mandantenbrief verständlich und ohne interne Prüfbegriffe schreiben. Keine Kontaktaufnahme, Einreichung oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung und vollständige Sätze; Exportstandard Times New Roman 11 pt.
+Formuliere das beauftragte Dokument vollständig, mit der notwendigen Mengenrechnung oder Beweiszuordnung, aber ohne Pflichtausgabe interner Prüflisten. Quellenstand und offene Recherche in einer getrennten Arbeitsnotiz festhalten; einen Mandantenbrief verständlich und ohne interne Prüfbegriffe schreiben. Keine Kontaktaufnahme, Einreichung oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Dezimale Gliederung und vollständige Sätze; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Unterlagen verwenden und fehlende Seiten konkret benennen. Technische Fehler lassen nur den abhängigen Schritt offen; ohne Exportmöglichkeit den vollständigen Text liefern. Keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.
 

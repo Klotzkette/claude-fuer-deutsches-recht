@@ -25,9 +25,10 @@
     "changes": [
       "Drei Einstiegsmodi und konkrete Fortsetzung von Nachtrags-, Abnahme- und Leistungsbelegen bis zu Zellen und Berichtssätzen ergänzt.",
       "Jahreswertbeispiel konkret vorgerechnet; Prozessausgabe mit Behauptung, Zeilen-ID und Beleg verknüpft, ohne Tabellenformat als gerichtliche Pflicht oder richtiges Ergebnis auszugeben.",
-      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport."
+      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c52b5f288191d66175068a3de66b9f04badea859c610d9965be35240008690ec"
+    "sha256": "8367d6ef6780009fbbc5e067b4c0ee4c3efceca8384b099f1dd595819b82b201"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -35,9 +36,10 @@
     "changes": [
       "Vier substantielle Arbeitswege mit getrennten Vertrags-, Abrechnungs- und Zahlungswerten, Fristauslösern sowie gezielter Wiederprüfung abhängiger Zellen ergänzt.",
       "Vertragsbelastung und widersprechende Fachperspektiven stichtagsbezogen abgleichen.",
-      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport."
+      "Konkrete Bezugnahme auf bereits vorgelegte Schriftsatzseiten durfte nicht übergangen werden; nachvollziehbare Zeilenbezüge als ausdrücklich gekennzeichnete Übertragung für gerichtlichen Tabellenexport.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "84a4792683b5331e5f1aef4bb4b4ade6f034ccfac25ff1a3b5e8a37f9212f67c"
+    "sha256": "03c0e1ffda1f951a94408f5fe015ce8347512915f5091bd73059c176fc0f3648"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -94,7 +94,7 @@ Beispiel Budgetinformation: „Für die Vertragsprüfung waren 40.000 Euro netto
 
 Beispiel Rechnungsfrage: „Bei der Position vom [Datum] ist aus der Beschreibung nicht erkennbar, welche Unterlagen geprüft wurden. Bitte erläutern Sie Tätigkeit und tatsächliche Dauer; die übrigen Positionen sind von dieser Nachfrage nicht betroffen.“ Keine unbekannte Genehmigung oder vorbehaltlose Anerkennung ergänzen.
 
-Liefere das bestellte Memo, Schreiben, die Vereinbarung, Rechnungserläuterung oder Übergabe vollständig in natürlichen Sätzen. Tabellen dienen Rechenwegen, Positionen und Terminen, nicht obligatorischen Zusatzpaketen. Bei Dateiauftrag Benennung, Anlagenfolge, Format und tatsächlich mögliche Öffnungsprobe prüfen. Bei formatierten Dokumenten dezimale Gliederung und Times New Roman 11 Punkt nutzen.
+Liefere das bestellte Memo, Schreiben, die Vereinbarung, Rechnungserläuterung oder Übergabe vollständig in natürlichen Sätzen. Tabellen dienen Rechenwegen, Positionen und Terminen, nicht obligatorischen Zusatzpaketen. Bei Dateiauftrag Benennung, Anlagenfolge, Format und tatsächlich mögliche Öffnungsprobe prüfen. Bei formatierten Dokumenten dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt nutzen.
 
 Entscheidende Restlücken mit benötigter Angabe gesondert benennen und nach Antwort bis zur Endfassung weiterarbeiten. Quellenstatus und technische Grenzen bleiben in einer Arbeitsnotiz außerhalb des Empfängertextes. Keine eigenmächtige Budgeterhöhung, Rechnungskürzung, Mandatsbeendigung, Auszahlung oder Versendung.
 

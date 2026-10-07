@@ -67,7 +67,7 @@ Keine erfundenen Entscheidungen, Randnummern oder DIN-Anforderungen. Ohne einsch
 
 Liefern Sie das beauftragte, ausgefüllte Vorplanungspaket oder das enger bestellte Dokument: tatsächliche Variantenzeichnung, nachvollziehbare Kostenschätzung, wesentlicher Terminplan und ausformulierte Auswahlvorlage. Zusätzliche Anlagen nur, wenn sie gebraucht werden. Ein interner Abgleich darf tabellarisch sein; der Empfänger erhält eine klare Entscheidung, Begründung und nächste notwendige Zuarbeit.
 
-Ausformulierungspflicht: Operative Texte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Keine nicht erzeugte Datei, technische Freigabe, Auswahlentscheidung des Bauherrn oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Texte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt ausgeben. Echte Umlaute und ß verwenden, Paragraf ausschreiben. Keine nicht erzeugte Datei, technische Freigabe, Auswahlentscheidung des Bauherrn oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

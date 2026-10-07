@@ -58,9 +58,10 @@
       "Nicht verwendete Entscheidungsnummern durch konkrete Forschungsfragen ersetzt",
       "Drei Einstiege für Produktvergleich, Bescheidserwiderung oder Lizenz; keine Startübersicht bei klarem Auftrag.",
       "Nachgereichte Lichtschranke verändert nur die betroffene Produktversion in verletzungsvermerk.md; ursprüngliche Offenbarung verändert Anspruch und Erwiderung gemeinsam.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bc69ce940af872ddff915eaa987f09cae02de0e7c02fd4f88c8628ff76d82e3d",
+    "sha256": "d7e7e05e1b98da2169bafdc48e33cbd7a1b89d884d089330c3b249ab541581c6",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -74,9 +75,10 @@
       "Neue Entwicklung von ursprünglicher Offenbarung getrennt; Beschränkung, Argumentation und Hilfsanträge am tatsächlichen Bescheideinwand ausgerichtet.",
       "EPA-Einspruchsbeginn und Gebühr, nationale Nichtigkeitssperre sowie eigenständige Grenzen nach Artikel 123 EPÜ ergänzt.",
       "Produktversion, Versuchsfrage und Gegenbefunde sowie Lizenzereignis, Retouren und Rechteänderung bis zur konkreten Dokumentfassung ausgearbeitet.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 09.06.2026 – X ZR 35/24, Referenzkontur, Rn. 19–28 und 79–86. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6e96e9b3d3924356a0d21b1192b825896857abb9e29f8c12838cd1a4fba7df08",
+    "sha256": "9c08f362530c49b9f94f709ee07101d29b2ba57aa2b5a9f1c3951e165e2e5709",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

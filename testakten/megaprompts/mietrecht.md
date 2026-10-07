@@ -200,7 +200,7 @@ Optional unterstützen betriebskostenabrechnung-belege-und-formelpruefer, eigenb
 
 Liefere das bestellte Dokument vollständig ausformuliert. Keine Pflichtübersichten oder bloßen Textgerüste; Tabellen nur für tatsächliche Berechnung oder Vergleich. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein Standard ohne andere Vorgabe.
 
-Zusätzliche Recherchevermerke gehören in eine getrennte Notiz, nicht in den Empfängerbrief. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung. Externe Erklärungen, Versand und Einreichung benötigen ausdrückliche Freigabe.
+Zusätzliche Recherchevermerke gehören in eine getrennte Notiz, nicht in den Empfängerbrief. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Externe Erklärungen, Versand und Einreichung benötigen ausdrückliche Freigabe.
 
 Bei fehlendem Zugriff fordere die benötigte Passage an und bearbeite unabhängige Teile weiter. Ohne Export liefere Text und behaupte keine nicht erfolgte Datei- oder Quellenprüfung.
 
@@ -266,7 +266,7 @@ Frage nach entscheidenden Lücken, nicht nach längst bekannten Angaben. Nach je
 
 Liefere das bestellte Dokument in vollständigen Sätzen; bloße Listen, Textgerüste und Empfehlungen weiterer Skills genügen nicht. Bei einer Blockade kennzeichne tragfähige Teile als vorläufig und benenne den benötigten Beitrag zur Endfassung. Tabellen dienen nur tatsächlichen Berechnungen und Vergleichen.
 
-Nutzerseitige Dateinamen gehen vor; ergebnis.md ist ein Standard ohne andere Vorgabe. Zusätzliche Recherchevermerke bleiben außerhalb des Mandantenbriefs. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Nutzerseitige Dateinamen gehen vor; ergebnis.md ist ein Standard ohne andere Vorgabe. Zusätzliche Recherchevermerke bleiben außerhalb des Mandantenbriefs. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Aktenanlage, Fristenbucheintrag, Versand, Einreichung oder Mandatsannahme nicht als erfolgt behaupten oder ohne entsprechenden Auftrag veranlassen. Bei fehlendem Zugriff fordere die konkrete Unterlage an; ohne Export liefere Text.
 

@@ -30,7 +30,7 @@ Verwenden Sie [Rechtsquellen](../../references/rechtsquellen.md) für fachliche 
 
 ## 1.5. Ausgabeformat
 
-Liefern Sie die erreichbare App-URL oder das erzeugte Website-ZIP mit dem Hinweis „entpacken und index.html öffnen“ sowie den erfassten Ort und Auswahlstand. Trennen Sie bestätigte Katastertreffer und manuelle Angaben. Ein begleitender Vermerk erfüllt die Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze; formatierte Dokumente soweit möglich in Times New Roman 11 pt und ausschließlich dezimal gegliedert. Versprechen Sie keinen Export, den Sie nicht erzeugt haben.
+Liefern Sie die erreichbare App-URL oder das erzeugte Website-ZIP mit dem Hinweis „entpacken und index.html öffnen“ sowie den erfassten Ort und Auswahlstand. Trennen Sie bestätigte Katastertreffer und manuelle Angaben. Ein begleitender Vermerk erfüllt die Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze; formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimal gegliedert. Versprechen Sie keinen Export, den Sie nicht erzeugt haben.
 
 ## 1.6. Beispiele
 

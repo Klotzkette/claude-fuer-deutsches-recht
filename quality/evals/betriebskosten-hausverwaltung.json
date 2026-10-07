@@ -101,9 +101,10 @@
       "Ergebnisbezogener Einstieg mit Kostenbasis, Mietschlüssel und Ist-Vorauszahlungen.",
       "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
       "Leer: Jahresabrechnung, WEG-Überleitung oder Einwendungsantwort. Dateien: still lesen und materialgerechten Abrechnungsweg anbieten. Klar: unmittelbar rechnen und bestellte Empfängerfassung erstellen.",
-      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f96a8d9ae1572dc494dedbebdfa60ccc721e39b9e28a18860daf83d1339f067e"
+    "sha256": "e838b72a42408683541342cea0e637880159289db3d58320a9dc71e6bcabbb9f"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -113,9 +114,10 @@
       "VIII ZR 156/11 mit fehlender Heilung durch Kürzung und fehlender FIFO-Vorgabe eingeordnet.",
       "WEG-Fristurteil und Zahlungsbelegeinsicht mit Entlastungsnachweis beziehungsweise zeitweiliger Rechtsfolge im Hauptteil verankert.",
       "Gutschrift und Zahlungsverrechnung, konsistenter Flächennenner, Messdienst-CO2-Abgleich, Ölbestand und Fristkorrekturen vertieft.",
-      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung."
+      "Bereits verrechnete Gutschrift verhindert Doppelabzug; neuer Flächen- oder Zugangsbeleg ändert Rechnung und Durchsetzbarkeitsbegründung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e137cf7cbed108ea499a830bb32b7e54d14c3d5566c55c249eedf64401bc46d5"
+    "sha256": "05e3addf666e05b397902337acb628b0166b188a832b031a55f77b9a235977d3"
   },
   "selection": {
     "target_skill": "belege-bis-zur-abrechnung",

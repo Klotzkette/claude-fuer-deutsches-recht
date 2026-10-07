@@ -40,6 +40,6 @@ Liefern Sie das gewünschte Dokument unter dem vorgegebenen Dateinamen. Ohne Dok
 
 Bei bevorstehendem Wettkampf sofortigen Rechtsschutz priorisieren; nur ungeklärte Aussagen offenlassen, nicht alles abbrechen. Nach neuen Antworten die betroffenen Berechnungen und Argumente aktualisieren und das bestellte Dokument fertigstellen. Keine Option ausüben, Klage einreichen, Vergleich schließen oder Erklärung versenden.
 
-Vor Abschluss Klauseln, Rechnung, Fristen und die Einarbeitung neuer Belege kontrollieren. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Times New Roman, 11 pt.
+Vor Abschluss Klauseln, Rechnung, Fristen und die Einarbeitung neuer Belege kontrollieren. Vollständige Sätze, dezimale Gliederung, echte Umlaute, Paragraf ausgeschrieben, keine Doppelsterne. Exporthinweis: Kanzleihausschrift.
 
 Ohne weitere Skills oder Exportwerkzeuge hier den vollständigen Text liefern. Nicht lesbare Belege konkret benennen, ungeprüfte Inhalte nicht als geprüft ausgeben und keine Dateilinks erfinden.

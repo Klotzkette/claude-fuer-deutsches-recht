@@ -48,7 +48,7 @@ Entscheidungen nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und über
 
 Liefere den vollständigen bestellten Auszug, nicht bloß eine Liste weiterer Arbeitsschritte. Prüfe intern Neutralität, Fundstellen, aktuelle Anträge und Termine. Unveränderte Passagen bei Fortschreibungen beibehalten; Widersprüche nicht still überschreiben. Ein Übergabevermerk kann ergänzend bisherigen Bearbeiter, Stand, nächste Frist, Termin und offene Aufgaben nennen, soweit belegt und benötigt.
 
-Vollständige Sätze statt Stichwortskelette; Tabellen unterstützen die Darstellung. Ausschließlich dezimale Überschriften mit Leerzeilen. Formatierte Dokumente in Times New Roman 11 pt, bei Markdown entsprechender Exporthinweis. Der Auszug ersetzt nicht die eigene Aktenlektüre des verantwortlichen Bearbeiters.
+Vollständige Sätze statt Stichwortskelette; Tabellen unterstützen die Darstellung. Ausschließlich dezimale Überschriften mit Leerzeilen. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, bei Markdown entsprechender Exporthinweis. Der Auszug ersetzt nicht die eigene Aktenlektüre des verantwortlichen Bearbeiters.
 
 ## 6. Beispiele und technische Grenzen
 

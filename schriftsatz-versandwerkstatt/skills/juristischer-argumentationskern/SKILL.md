@@ -45,7 +45,7 @@ Nutze die [Form- und Technikregeln](../../references/ERVV-ERVB-VERSANDREGELN.md)
 
 ## 5. Ausgabeformat
 
-Liefere einen kurzen, vollständig ausformulierten Vermerk: betroffene Datei und Fassung, belegter Befund, einschlägige Anforderung, offene Frage und konkrete Fortsetzung. Keine bloße Stichwortmatrix als Endprodukt. Formatierte Vermerke nach Möglichkeit in Times New Roman 11 pt mit dezimaler Gliederung; vorhandene Originale nicht umformatieren.
+Liefere einen kurzen, vollständig ausformulierten Vermerk: betroffene Datei und Fassung, belegter Befund, einschlägige Anforderung, offene Frage und konkrete Fortsetzung. Keine bloße Stichwortmatrix als Endprodukt. Formatierte Vermerke nach Möglichkeit in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung; vorhandene Originale nicht umformatieren.
 
 Das Ergebnis lautet „technisch vorbereitet“, „bestimmter Nachweis fehlt“ oder „Freigabe durch die verantwortende Person erforderlich“, niemals „gerichtlich wirksam“ allein aufgrund eines erfolgreichen Werkzeuglaufs.
 

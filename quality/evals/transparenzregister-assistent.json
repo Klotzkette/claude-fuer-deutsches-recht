@@ -576,29 +576,32 @@
     "verdict": "revised",
     "reason": "Eigenständige kompakte Registerbearbeitung mit aktuellen begrenzten Ankern.",
     "changes": [
-      "Kontrollprüfung, Daten, Zeit, PEP, Einsicht, Unstimmigkeit und Freigabe aufeinander abgestimmt."
+      "Kontrollprüfung, Daten, Zeit, PEP, Einsicht, Unstimmigkeit und Freigabe aufeinander abgestimmt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "feb63fce1c870968f0d9353f578648abf5e64b2a726dd3626017b073ef5803cc"
+    "sha256": "acde0fa3ec5f0b9ad5f6c249a79ee2e6d1e4d95b54bcc6687722b408ec3f85fa"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Große eigenständige Werkstatt mit fortlaufender Workflowlogik und vollständigen Dokumentbausteinen.",
     "changes": [
-      "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert."
+      "Kontrollbezogene Verzweigungen, konkrete Rückfragen und gesonderte externe Freigaben ausformuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "62239b798ceabd65c03a85e7d877ce0c004e8240f66d29e103be705d700132eb"
+    "sha256": "506a70286c803368781e024ea1888ffcc5167cae70eaf915e3f741bd64eaf62c"
   },
   "focus_review": {
     "verdict": "revised",
     "reason": "Ein klar abgegrenztes Hauptproblem: ungeklärte Kontrolle bei dringender Meldung.",
     "changes": [
-      "Varianten, Tatsachenklärung und sofort nutzbare Arbeitsergebnisse mit kontrolliertem Übergang zum Versand."
+      "Varianten, Tatsachenklärung und sofort nutzbare Arbeitsergebnisse mit kontrolliertem Übergang zum Versand.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-01",
     "prompt_path": "transparenzregister-assistent/transparenzregister-assistent-hauptproblem.md",
     "skill_path": "transparenzregister-assistent/skills/hauptproblem-unklare-kontrolle-loesen/SKILL.md",
-    "prompt_sha256": "2fae2d4fd6b80d316b51798e8072b325b6a2e596fe09085ef9fe017abfdb852b",
-    "skill_sha256": "1eef2875c9d71f7dd15566de8ad025a4442be44a8c92e6f4d4b6f08bf6bbb473"
+    "prompt_sha256": "73235808ffc88d578fd3bcac3878aeacc774a5202fd410b02df7381b450adc56",
+    "skill_sha256": "9ba1b917bb3eef00ec11c099e74552e023cdd872c438baa36aa12e81d703aadc"
   }
 }

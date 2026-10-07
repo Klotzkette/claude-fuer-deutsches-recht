@@ -236,17 +236,19 @@
     "reason": "Den überarbeiteten Mini-Prompt nach dem ersten echten NDA-Praxistest erneut vollständig gelesen. Der im Lauf fehlende BGH-Vertragsstrafenanker VII ZR 308/16 steht jetzt mit Datum, Primär-URL, Rn. 14–23 und begrenzter Übertragung ausdrücklich im Mini. Versionsverbund, Regelabdeckung, Zähler, Ungewissheit und vollständige Ergebnisse bleiben erhalten. Dies ist eine Desk-Review der Korrektur, keine rückwirkende Bestätigung des früheren Modelllaufs.",
     "changes": [
       "Konkreten BGH-Anker für die B2B-AGB-Vertragsstrafe ergänzt; Gutscheinfall und fehlende allgemeine NDA-Eurogrenze ausdrücklich unterschieden.",
-      "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen."
+      "Einleitung und Schluss verdichtet; vollständige Quellen- und Workflowanforderungen beim erneuten Lesen abgeglichen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "90ce54ac79cc213d76f55d909e8744e41d04ca561dcd2f28fb6dc2fb0c586fdd"
+    "sha256": "300c9b4247bddb41af2e4e3c050f20c95967fe1a11f28a776100a2239816ccdf"
   },
   "workshop_review": {
     "verdict": "retained",
     "reason": "Den neu erstellten Werkstatt-Prompt vollständig am finalen Text gegengelesen: geschlossener Ablauf vom tatsächlichen Material über jede Regel und Rechtsprüfung bis zu Bericht, vollständiger Neufassung, Folgeantwort und neuer Vertragsversion. Individuelle Desk-Review, kein Modelltest.",
     "changes": [
-      "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert."
+      "Überschriftenhierarchie auf genau einen Dokumenttitel und dezimale Kapitel/Unterkapitel berichtigt; sämtlicher Fachtext nachweislich unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1241488e23cfdd6051d107d07af916c2d6f688cb1aa7034dc9a716899db2ff8b"
+    "sha256": "66a5f07713f02e983e4c77f57c0543f6c741afe2be15ce418271b0eb2c1c258f"
   },
   "focus_review": {
     "method": "desk_review",
@@ -254,12 +256,13 @@
     "verdict": "retained",
     "reason": "Hauptproblem-Prompt und orchestrierender Hauptskill vollständig gegengelesen. Auswahl, Versionsdisziplin, Regelvollständigkeit, konkrete Fallanker, Rückfragen und fertige Arbeitsergebnisse sind verbunden; keine selbsttätige Vertragsfreigabe.",
     "changes": [
-      "06.10.2026: Themenfund im Hauptskill deutsch als Gefunden/Nicht gefunden/Nicht prüfbar bezeichnet; die bestehenden technischen Statuswerte und ihre Auswertung bleiben in der verlinkten Prüflogik und Engine unverändert. Eng begrenzte redaktionelle Prüfung, kein neuer Modelllauf."
+      "06.10.2026: Themenfund im Hauptskill deutsch als Gefunden/Nicht gefunden/Nicht prüfbar bezeichnet; die bestehenden technischen Statuswerte und ihre Auswertung bleiben in der verlinkten Prüflogik und Engine unverändert. Eng begrenzte redaktionelle Prüfung, kein neuer Modelllauf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "playbook-pruefer/playbook-pruefer-hauptproblem.md",
     "skill_path": "playbook-pruefer/skills/playbook-pruefung-durchfuehren/SKILL.md",
-    "prompt_sha256": "860a1be71f404f30e90605d3bd963766a7d72ab669700fe3a50ca7cc73478dba",
-    "skill_sha256": "d47943bb0df518ccfd5786a78d0563b0771f15bf884bf80874a7f427f8142339"
+    "prompt_sha256": "7e0a35ce1601dc132650ff34cb5fd68b8aa621742dfedd967f47d8a53d2c0fd6",
+    "skill_sha256": "820d59f9889bb6651187edf332d14457cc3779718a5af333181ee33cb90353d2"
   },
   "prompt_editorial_review": {
     "date": "2026-10-02",

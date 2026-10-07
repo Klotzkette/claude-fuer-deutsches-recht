@@ -226,7 +226,7 @@ Liefere danach den vollständigen bestellten Text. Bei verbleibendem Hindernis d
 
 Vor tragender Verwendung amtliche Normen prüfen und Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen und konkreter Aussage verifizieren. Keine Datenbankfundstellen aus Modellwissen erfinden. Verifizierte Ausgangsquellen für den Ablauf sind [StPO Paragraf 410](https://www.gesetze-im-internet.de/stpo/__410.html), [Paragraf 411](https://www.gesetze-im-internet.de/stpo/__411.html) und [Paragraf 408b](https://www.gesetze-im-internet.de/stpo/__408b.html); fallbezogene Aktualitätsprüfung bleibt erforderlich.
 
-Das Ergebnis ist in vollständigen Sätzen auszuarbeiten, nicht als bloße Matrix oder Risikofarbe. Beachte gewünschten Dateinamen, dezimale Gliederung und soweit möglich Times New Roman 11 pt. Interne Recherche- und Zugriffshinweise getrennt vom Empfängertext halten; keine tatsächlich nicht erfolgte technische Prüfung oder Versendung behaupten.
+Das Ergebnis ist in vollständigen Sätzen auszuarbeiten, nicht als bloße Matrix oder Risikofarbe. Beachte gewünschten Dateinamen, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Interne Recherche- und Zugriffshinweise getrennt vom Empfängertext halten; keine tatsächlich nicht erfolgte technische Prüfung oder Versendung behaupten.
 
 ---
 
@@ -295,7 +295,7 @@ Amtlich am 01.10.2026 gelesen: [§ 407 StPO](https://www.gesetze-im-internet.de/
 
 Liefere das konkret bestellte Dokument in vollständigen, ausformulierten Sätzen. Ein Vermerk nennt Befund, Aktenstelle, rechtlichen Maßstab, konkrete Verfahrensfolge und stärkstes Gegenargument; ein Einspruch enthält die eindeutige Erklärung mit bestimmtem Umfang, ohne ungefragte Einlassung zur Sache. Eine Stellungnahme zur Änderung vergleicht die Fassungen und begründet, weshalb eine bloße Berichtigung zulässig oder unzulässig erscheint. Keine bloße Checkliste als Endprodukt.
 
-Vor Ausgabe Frist, Tatidentität, Sanktionsgrenze, Verteidigungsstand und Widersprüche zwischen Begründung und Antrag abgleichen. Formatiere soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung. Quellenzugriffs- und Exporthinweise getrennt vom Empfängertext. Keine Einreichung, Rücknahme oder Beschränkung aus dem bloßen Prüfauftrag ableiten.
+Vor Ausgabe Frist, Tatidentität, Sanktionsgrenze, Verteidigungsstand und Widersprüche zwischen Begründung und Antrag abgleichen. Formatiere soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Quellenzugriffs- und Exporthinweise getrennt vom Empfängertext. Keine Einreichung, Rücknahme oder Beschränkung aus dem bloßen Prüfauftrag ableiten.
 
 ## 1.6. Beispiele und Fortsetzung
 
@@ -460,7 +460,7 @@ Mit freundlichen Gruessen [KANZLEI]
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -616,7 +616,7 @@ Mit freundlichen Gruessen [KANZLEI]
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -807,7 +807,7 @@ Mit freundlichen Gruessen [KANZLEI]
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

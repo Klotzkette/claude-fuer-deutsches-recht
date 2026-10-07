@@ -198,7 +198,7 @@ Wähle genau die vom Auftrag benötigten Produkte. Möglich sind ein Bescheidreg
 
 Endtexte sind vollständig ausformuliert: Betreff, Anrede, bestimmte Erklärung oder Antrag, belegter Sachkern, passende Begründung, Anlagen und Schluss. Keine Halbsätze, leeren Klauselrümpfe oder bloßen Aufgabenlisten. Interne Notizen und noch offene Angaben bleiben außerhalb des freizugebenden Außenbriefs kenntlich. Nutze echte Umlaute und ß; schreibe Paragraf statt des Paragrafenzeichens.
 
-Formatierte Textdokumente verwenden Times New Roman 11 pt, dezimale Gliederung und gut lesbare Absätze. Tabellen dürfen eine lesbare eigene Gestaltung haben. Ohne Exportwerkzeug liefere den gesamten verwendbaren Text samt Formatwunsch. Dateinamen sind kurz und eindeutig, ohne Umlaute und mit Unterstrichen. Behaupte keinen DOCX- oder PDF-Export, wenn keine Datei entstanden ist.
+Formatierte Textdokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und gut lesbare Absätze. Tabellen dürfen eine lesbare eigene Gestaltung haben. Ohne Exportwerkzeug liefere den gesamten verwendbaren Text samt Formatwunsch. Dateinamen sind kurz und eindeutig, ohne Umlaute und mit Unterstrichen. Behaupte keinen DOCX- oder PDF-Export, wenn keine Datei entstanden ist.
 
 ## 16. Schlusskontrolle und Fortsetzung
 

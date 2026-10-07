@@ -39,7 +39,7 @@ Bei Verweis auf den [Berliner Bericht](../../references/berliner-kommissionsberi
 
 # 5. Ausgabeformat
 
-Adressierte, vollständig ausformulierte Stellungnahme mit Bezug, begründeter Position, konkreten Änderungsanträgen und richtig bezeichneten Anlagen. Keine Stichwortrede, Halbsätze oder Lehrbuchsammlung als Endprodukt. Times New Roman 11 pt, dezimale Gliederung. Recherche- und Exportvermerke bleiben außerhalb des abgabefähigen Textes. Unterschriftszeile aus bestätigter Mandatsrolle, keine erfundene Unterzeichnung.
+Adressierte, vollständig ausformulierte Stellungnahme mit Bezug, begründeter Position, konkreten Änderungsanträgen und richtig bezeichneten Anlagen. Keine Stichwortrede, Halbsätze oder Lehrbuchsammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Recherche- und Exportvermerke bleiben außerhalb des abgabefähigen Textes. Unterschriftszeile aus bestätigter Mandatsrolle, keine erfundene Unterzeichnung.
 
 # 6. Beispiele
 

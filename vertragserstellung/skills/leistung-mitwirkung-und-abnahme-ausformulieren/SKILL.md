@@ -45,7 +45,7 @@ Stimme Abnahme und Zahlungsmeilensteine, Mitwirkung und Termine, Prüfparameter 
 
 ## 5. Ausgabeformat
 
-Liefere ausformulierte Leistungsklauseln und nötige Anlage einschließlich Mitwirkung, Messung und Folgen. Technische Tabellen dürfen vollständige Pflichten ergänzen, nicht ersetzen. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen, Exporthinweis getrennt. Quellen- und Machbarkeitsvorbehalte gehören in eine kurze interne Notiz, nicht als kommentierter Materialdump in den Vertrag.
+Liefere ausformulierte Leistungsklauseln und nötige Anlage einschließlich Mitwirkung, Messung und Folgen. Technische Tabellen dürfen vollständige Pflichten ergänzen, nicht ersetzen. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, dezimale Gliederung mit Leerzeilen, Exporthinweis getrennt. Quellen- und Machbarkeitsvorbehalte gehören in eine kurze interne Notiz, nicht als kommentierter Materialdump in den Vertrag.
 
 ## 6. Beispiele
 

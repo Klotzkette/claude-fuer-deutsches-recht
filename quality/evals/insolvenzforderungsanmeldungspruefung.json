@@ -30,9 +30,10 @@
     "changes": [
       "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
       "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c33872eb861582d87fce7186ddbd2564b7c094fb92a94e189e8561f9f5738fad"
+    "sha256": "0726ddc5b7d6f0d138ee8956f9d8e834a6d82b7ec6fb7176f8e19bc99865aaa6"
   },
   "selection": {
     "positive": [
@@ -84,9 +85,10 @@
     "changes": [
       "Formale Wirksamkeit nicht mehr pauschal an vollständigen Anspruchsbeweis geknüpft.",
       "Heilung nicht als rückwirkende Beseitigung jeder Prozessvoraussetzung behandelt; Nachprüfung und Kostenfolgen getrennt.",
-      "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis."
+      "Dubletten und Factorrolle, Tilgungszuordnung, eröffnungübergreifender Vertrag, Deliktsattribut und gesonderter Verteilungsnachweis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fdc920bd74feeaa0f45960ad90802934346edf9e174f6ae73e86dbb62147c32f"
+    "sha256": "93ca3943160b37714cccaead6ae517f2dafaef243669f51e055cec414294fdf0"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

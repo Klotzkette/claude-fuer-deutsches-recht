@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Vergleich mit tatsächlich vereinbarten Rechtsfolgen in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechenvarianten und Freigabegrenzen getrennt vom Vertragstext. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Bankverbindung ist ein markierter Platzhalter, fehlende Einigung über Forderungserlass eine offen zu entscheidende Rechtsfrage.
+Ausformulierungspflicht: vollständiger Vergleich mit tatsächlich vereinbarten Rechtsfolgen in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechenvarianten und Freigabegrenzen getrennt vom Vertragstext. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Bankverbindung ist ein markierter Platzhalter, fehlende Einigung über Forderungserlass eine offen zu entscheidende Rechtsfrage.
 
 ## 6. Beispiele
 

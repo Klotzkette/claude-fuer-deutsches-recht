@@ -31,7 +31,7 @@ Lies die [Quellenkarten](../../references/rechtsprechung-und-rechtsstand.md) fü
 
 ## 5. Ausgabeformat
 
-Liefere das bestellte Arbeitsergebnis in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht verbietet Skelette, Halbsätze und bloße Aufzählungsauswürfe als Endprodukt; erkennbare Entwurfsfelder nur für tatsächlich fehlende Angaben. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Interne Prüfung, offene Tatsachen und Quellenvermerk vom Empfängertext trennen. Keine nicht erfolgte Datei-, Prüf- oder Versandhandlung behaupten. Neue Antworten führen gezielt zur Weiterbearbeitung bis zum beauftragten Ergebnis. Externe Erklärungen nur in konkret autorisiertem Umfang.
+Liefere das bestellte Arbeitsergebnis in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht verbietet Skelette, Halbsätze und bloße Aufzählungsauswürfe als Endprodukt; erkennbare Entwurfsfelder nur für tatsächlich fehlende Angaben. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Interne Prüfung, offene Tatsachen und Quellenvermerk vom Empfängertext trennen. Keine nicht erfolgte Datei-, Prüf- oder Versandhandlung behaupten. Neue Antworten führen gezielt zur Weiterbearbeitung bis zum beauftragten Ergebnis. Externe Erklärungen nur in konkret autorisiertem Umfang.
 
 ## 6. Beispiele
 

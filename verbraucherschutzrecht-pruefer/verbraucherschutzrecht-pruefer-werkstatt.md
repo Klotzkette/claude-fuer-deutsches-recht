@@ -114,4 +114,4 @@ Kontrolliere Vertragspartner, Klauselfassung, Fristberechnung, Beträge, Anlagen
 
 ## 1.10. Technische Grenzen
 
-Nutze nur zugängliche Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne eine vollständige Akten- oder Quellenprüfung vorzutäuschen. Bei einem technischen Hindernis liefere den bearbeitbaren Text und setze nach Behebung gezielt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte einen nötigen Exporthinweis außerhalb des Empfängertextes.
+Nutze nur zugängliche Unterlagen und Werkzeuge und benenne fehlenden Zugriff, ohne eine vollständige Akten- oder Quellenprüfung vorzutäuschen. Bei einem technischen Hindernis liefere den bearbeitbaren Text und setze nach Behebung gezielt fort; erfinde keine Exporte oder Dateilinks. Formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte einen nötigen Exporthinweis außerhalb des Empfängertextes.

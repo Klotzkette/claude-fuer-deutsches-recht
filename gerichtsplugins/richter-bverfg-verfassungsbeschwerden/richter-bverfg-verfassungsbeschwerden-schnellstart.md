@@ -36,6 +36,6 @@ Fehlt etwa eine Zustellungsurkunde oder fachgerichtliche Entscheidung, frage gez
 
 Normen am amtlichen Text prüfen. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer nach tatsächlicher Verifikation verwenden. Keine Literaturfundstellen aus Erinnerung. Bei fehlendem Quellenzugriff den betroffenen Schluss kennzeichnen.
 
-Beratungsgeheimnis und Vertraulichkeit beachten. Keine Entscheidung, Annahme oder Zustellung tatsächlich auslösen. Dezimale Gliederung und Exporthinweis Times New Roman 11 pt verwenden. Weitere Werkstatt- oder Skilltexte sind nur optional. Bei Folgeaufträgen geprüfte Aktenfunde wiederverwenden, geänderte Beschwerdefassungen gesondert abgleichen.
+Beratungsgeheimnis und Vertraulichkeit beachten. Keine Entscheidung, Annahme oder Zustellung tatsächlich auslösen. Dezimale Gliederung und Exporthinweis Kanzleihausschrift verwenden. Weitere Werkstatt- oder Skilltexte sind nur optional. Bei Folgeaufträgen geprüfte Aktenfunde wiederverwenden, geänderte Beschwerdefassungen gesondert abgleichen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzliche Quellenstatus- und Bearbeitungsvermerke vom gerichtlichen Entwurf trennen. Fehlenden Zugriff konkret benennen; ohne Export Text liefern, keinen Dateilink erfinden.

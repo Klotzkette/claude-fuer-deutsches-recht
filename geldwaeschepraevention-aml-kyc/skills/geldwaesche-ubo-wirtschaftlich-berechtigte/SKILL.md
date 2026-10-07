@@ -37,7 +37,7 @@ Nur bei Umstellungsauftrag zusätzlich Verordnung (EU) 2024/1624 Artikel 51 bis 
 
 ## 5. Ausgabeformat
 
-Begründeter Eigentümervermerk mit nachvollziehbarer Kette und einer gezielten Nachforderung je offener Kontrollstufe. Vollständige Sätze, Times New Roman 11 pt, dezimale Gliederung. Keine alleinige Namensliste ohne Herleitung.
+Begründeter Eigentümervermerk mit nachvollziehbarer Kette und einer gezielten Nachforderung je offener Kontrollstufe. Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine alleinige Namensliste ohne Herleitung.
 
 ## 6. Beispiele
 

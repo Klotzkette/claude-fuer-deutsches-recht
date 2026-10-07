@@ -15,9 +15,10 @@
     "changes": [
       "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
       "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fba89d8a732b996848924f9e6e2d822e17bebf35209b36e7c478efa9484ae5b3"
+    "sha256": "59acad4fc7b3ccfc1b80c7253dbe14fc24703cd0a21859472768d81e5b9c063c"
   },
   "selection": {
     "positive": [
@@ -69,9 +70,10 @@
     "changes": [
       "Historische Regel, belegte Anwendungspraxis und heutige Aufarbeitung getrennt zum Ausgangspunkt gemacht.",
       "Norm, Rechtfertigung und tatsächliche Handhabung beim staatlichen Unrecht getrennt prüfen. Grenze: Keine pauschale Rückwirkung heutiger Moralvorstellungen.",
-      "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original."
+      "Diplomatische und normalisierte Lesung, Datierung und Geltungsraum, Normtext gegenüber Prozessbehauptung und Anwendungspraxis, Gegenbeispiel gegen absolute These sowie begrenzte Aussage ohne Original.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b50081d14c51786b9b9c6f6cf8464c91bc98fccea4125b1b3509d53f69b63ef3"
+    "sha256": "c548efabb94712e43a913d0e5ea99a28eb6f9e70ac223cd0bba56cfec096750b"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

@@ -52,9 +52,10 @@
       "Aktuelle Paragrafen 2, 4, 6 und 7 UmwRG konkretisiert; keine Gleichsetzung verspäteten Vortrags mit unzulässiger Klage.",
       "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
       "Leere Eingabe, stille Dateisichtung und klaren Auftrag ausdrücklich getrennt; Brutstättenbefund verändert Rüge und räumlichen Sicherungsbedarf.",
-      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
+      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "03512869a01077641c73650c1a77bcf63ad921823283833e159ad3978926ee4f",
+    "sha256": "10e9ab638cc187d6223a67b1664a40e16927fff87a5fe8b8297d4f833e5d7196",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -117,9 +118,10 @@
       "Vorhandene materialbezogene Fortsetzung, Fachzweige, Eilberatung und vollständige Endfassung erhalten.",
       "Neuen Tatsachenvortrag anhand rechtzeitiger Passage abgleichen; Aktenlücke, Flächenauslassung und ungünstiges Gutachtenergebnis unterscheiden.",
       "Nachgeholte Beteiligung, Änderungsbescheid und Monitoring in konkret geänderte Rügen, Anträge oder Nebenbestimmungen überführen; Paragrafen 4 und 6 UmwRG aktuell erneut geöffnet.",
-      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt."
+      "Alter §-6-Anker unterscheidet verspätete Tatsachen und bloße Vertiefung. Neuer 7 C 5.25 stellt nicht umweltbezogene Angriffslinien ausdrücklich unter dieselbe gerichtliche Frist; Spezialskill und beide Promptfassungen konsistent ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9a95f188efc53ddac74028e831bf5b0bd3c30ac089d033c09d2a4152b02b1ff6",
+    "sha256": "865c2d87dd9536af72c694d56683b987c6b195c1920bbff1219a3d84e5d8a4f1",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

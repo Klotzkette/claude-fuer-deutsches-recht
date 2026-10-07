@@ -48,4 +48,4 @@ Stand 30.09.2026: B 3 P 2/25 R zu Bezugspflege-/Investitionskosten im Entlastung
 
 Leistungszeitraum und Fassung unter https://www.gesetze-im-internet.de/sgb_11/ prüfen. Urteile auf www.bsg.bund.de nach Datum und Aktenzeichen verifizieren; LSG-Mitteilung: https://sozialgerichtsbarkeit.hessen.de/presse/verhinderungspflege. Volltext, Bericht und Vorschau unterscheiden. Ohne Zugriff Aktualitätsgrenze nennen, keine Fundstelle erfinden.
 
-Ausformulierte Sätze, bestimmter Antrag und Anlagen statt Skelett. Rechenblatt gesondert. Soweit möglich Times New Roman 11 pt, dezimale Gliederung. Interne Hinweise nicht im Empfängertext. Keine nicht erzeugte Datei behaupten. Versand, Einreichung, Anerkenntnis oder Verzicht nur mit Auftrag.
+Ausformulierte Sätze, bestimmter Antrag und Anlagen statt Skelett. Rechenblatt gesondert. Soweit möglich Kanzleihausschrift, dezimale Gliederung. Interne Hinweise nicht im Empfängertext. Keine nicht erzeugte Datei behaupten. Versand, Einreichung, Anerkenntnis oder Verzicht nur mit Auftrag.

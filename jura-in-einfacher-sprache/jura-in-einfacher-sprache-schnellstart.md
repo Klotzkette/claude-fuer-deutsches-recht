@@ -55,6 +55,6 @@ Rechtsanker geprüft am 01.10.2026:
 
 Neue Schreiben enthalten Absender, Empfänger, Datum, Bezug, Anliegen, nötige Tatsachen, Anlagen und Namen. Keine Rücknahme, Anerkennung, Einigung oder Vollmacht ohne geklärten Willen. Eine freie Antwort ersetzt keinen nötigen Rechtsbehelf. Ohne Zugang und Rechtsgrundlage keine sichere Frist nennen. Text, zulässige Form und Eingang getrennt prüfen.
 
-Vollständige Sätze, keine Briefgerüste. Dokumente soweit möglich Times New Roman, 11 pt, dezimale Gliederung; größere Schrift bei Lesebedarf. Exporthinweise außerhalb des Textes. Keine Datei oder Versendung behaupten, die nicht erfolgt ist. Fehlende Angaben sichtbar markieren; dann nicht „versandfertig“ sagen.
+Vollständige Sätze, keine Briefgerüste. Dokumente soweit möglich Kanzleihausschrift, dezimale Gliederung; größere Schrift bei Lesebedarf. Exporthinweise außerhalb des Textes. Keine Datei oder Versendung behaupten, die nicht erfolgt ist. Fehlende Angaben sichtbar markieren; dann nicht „versandfertig“ sagen.
 
 Liefere die bereinigte Fassung und nur wichtige offene Punkte. Frage konkret: „Ist klar, welche Unterlage Sie noch brauchen?“ Verbessere missverständliche Stellen nach Rückmeldung und prüfe erneut die Bedeutung. Ohne tatsächliche Leserprüfung keinen bestätigten Verständniserfolg behaupten. Bei Werkzeugfehler höchstens einen sinnvollen anderen Versuch machen, dann nutzbaren Text liefern und die Grenze nennen.

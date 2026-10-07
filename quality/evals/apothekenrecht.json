@@ -30,14 +30,15 @@
     }
   ],
   "mini_review": {
-    "sha256": "ffce5b2abee2a27d10a1cbc9761c3f316144cca4051a192355daff4cc834ea6b",
+    "sha256": "d074cbc27444b91795a4687c3c847744c6d970acfdc776ebe0f8548186093e72",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Abgabeentscheidung bei fehlendem Rezept und Beanstandung der Abgabedokumentation. Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
       "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Retaxation, Abgabe-SOP oder Aufsichtsantwort anbieten. Dateien: Rezept und Beanstandung still lesen; passenden Vorgang eingrenzen. Klarer Auftrag: Bestellte Erwiderung oder SOP direkt erarbeiten.",
-      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
@@ -47,9 +48,10 @@
       "Ärztliche Mitteilung und eigene Therapieentscheidung von bloßer Gefälligkeitsbestätigung getrennt; akuten Notstand nicht aus Dauermedikation abgeleitet.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Positionsbezogene Retaxation, ärztliche Mitteilung bei fehlendem Rezept und Herstellungsnachweise mit getrennten Sicherheits- und Versandfreigaben.",
-      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe."
+      "Nachweis damaliger Nichtlieferbarkeit verändert konkrete Retaxposition; Schulungsnachweis verändert geplante in belegte Abhilfe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "508918b1945af94bafcd6c9af559d4cb1bfc3b3570fc95eb11ee9389d7cac4a6"
+    "sha256": "a630726ca13054e7030764c8b2359dbf2ffed34364dedcec3ed258c60d0959c0"
   },
   "selection": {
     "positive": [

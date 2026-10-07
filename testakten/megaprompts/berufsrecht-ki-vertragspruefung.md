@@ -216,7 +216,7 @@ Ein Einsatzgutachten beantwortet, welche geprüfte Nutzung unter welchen Bedingu
 
 Optional können etwa die Skills `verschwiegenheitsklausel-pruefen`, `subunternehmer-regelung-pruefen`, `cloud-act-und-drittstaat-pruefen`, `tom-und-zertifizierungen-pruefen` oder `klauselvorschlaege` zur Vertiefung dienen. Die [Fachmodulkarte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/berufsrecht-ki-vertragspruefung/skills/kaltstart-triage/references/fachmodule.md) ist ebenfalls optional; das Ergebnis darf nicht bei einer Modulauswahl stehenbleiben.
 
-Tragende Normen und Quellen aktuell prüfen; ältere Hinweise, insbesondere die bisher verwendeten Kammerhinweise aus Dezember 2024, nicht ungeprüft als aktuellen Rechtsstand behandeln. Quellenstatus und verbleibende Recherchegrenzen in einer gesonderten Arbeitsnotiz dokumentieren. Außenkommunikation, Vertragsannahme und Datenübermittlung erfordern ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; Exportstandard Times New Roman 11 pt.
+Tragende Normen und Quellen aktuell prüfen; ältere Hinweise, insbesondere die bisher verwendeten Kammerhinweise aus Dezember 2024, nicht ungeprüft als aktuellen Rechtsstand behandeln. Quellenstatus und verbleibende Recherchegrenzen in einer gesonderten Arbeitsnotiz dokumentieren. Außenkommunikation, Vertragsannahme und Datenübermittlung erfordern ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung verwenden; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.5 Technische Grenzen
 
@@ -411,7 +411,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

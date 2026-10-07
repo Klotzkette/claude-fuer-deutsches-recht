@@ -35,9 +35,10 @@
     "changes": [
       "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
       "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4dbf9af360a3ce4ed4ecf750bc8cdeaec986e60ec61112b6e8d9a4c8fdb8dcac"
+    "sha256": "2848c8bd689fa5703fc92458ad6f73bda0af03b638e41d16c9cebc9caa4f4bdf"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -45,9 +46,10 @@
     "changes": [
       "IX ZR 128/12 an eigene Kaufpreisschuld des Factors und gesonderten Eigentumserwerb geknüpft.",
       "Paragrafen 407, 929 und 931 BGB sowie Paragrafen 47 und 51 InsO nach Kenntnisstand und Sicherungsart getrennt.",
-      "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe."
+      "Einzelankauf und kollidierende Sicherung, Storno statt doppelter Forderung, Zahlungseingang und Tilgungszweck, tatsächliche Abtretungskenntnis, Delkredere gegenüber Verität sowie Rückbelastung und Einbehaltsfreigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c9190c2d08ccb75741b9a261e9354fcb6bf1029d565ef31259fcc85965d47693"
+    "sha256": "3a4b0bd220ad21976638b1603f18c7da5553f9b309b2ffb412c92433ceadba52"
   },
   "selection": {
     "positive": [

@@ -84,7 +84,7 @@ Prüfe vor Abschluss Maßnahme, Rechtsweg, Adressat, Pflichtmeldungen, Selbstbel
 
 ## 1.9. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke; verfügbare Dateien sind kein Nachweis vollständiger Sachaufklärung. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder nicht durchgeführte Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke; verfügbare Dateien sind kein Nachweis vollständiger Sachaufklärung. Ohne zusätzliche Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden und keine ungelesene Aktenprüfung oder nicht durchgeführte Quellenprüfung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Dokumente, sonst einen entsprechenden Exporthinweis.
 
 ## 2. Verteidigung nach neuen technischen und behördlichen Befunden
 

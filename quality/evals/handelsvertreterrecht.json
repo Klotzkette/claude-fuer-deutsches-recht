@@ -46,9 +46,10 @@
       "VIII ZR 100/05 auf zeitbezogenen Datenbestand und tatsächliche Abrechnungseinigung bezogen.",
       "Paragraf 88 HGB nicht länger als offener möglicher Anspruch; Zweiwochenfrist ausdrücklich verworfen.",
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "219d4e3dfbe31cc8f327a97d9ba7abde2684bebda7209b613c85567329d592c2"
+    "sha256": "08a5ddeb2132188a808790db79be972f33acec27e0356895d155dfbf6a844df2"
   },
   "selection": {
     "positive": [
@@ -101,9 +102,10 @@
       "VIII ZR 100/05 auf zeitbezogenen Datenbestand und tatsächliche Abrechnungseinigung bezogen.",
       "Paragraf 88 HGB nicht länger als offener möglicher Anspruch; Zweiwochenfrist ausdrücklich verworfen.",
       "Ausgleichstatbestand, Jahresausschlussfrist und Versicherungsvertretergrenze konkretisiert.",
-      "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung."
+      "Stornoketten ohne Doppelzählung, Onlinekunden und Bezirkszuordnung, tatsächliches Vertragsende, Ausgleichsvorteile und begrenzte Abgeltung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d2c4c4f0fb9eb7a5ec4889b5b8ef6207c86e8153959ad5e87980e9b9fcb7ed65"
+    "sha256": "47380fcae2f336030fbeb10266e6a6e13c5b728410fb8f0cff3cb4f95d905aef"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

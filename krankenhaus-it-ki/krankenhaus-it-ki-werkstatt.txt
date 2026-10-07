@@ -667,7 +667,7 @@ Prüfen Sie anschließend, ob Zweck, Gesellschaft, Produktversion, Datenarten un
 
 Prüfen Sie Quellen, Datum und Anwendungszeitpunkt. Trennen Sie geltende Pflicht, später anwendbare Pflicht, fachlich vorgeschlagene Maßnahme und noch offenes Ergebnis. Ein Quellenverzeichnis allein repariert keine unzutreffende Aussage im Text. Jede tragende Aussage muss von ihrem konkreten Nachweis gedeckt sein.
 
-Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen sind für Belege, Vergleiche und Maßnahmenregister sinnvoll; die rechtliche Begründung und angeordnete Regelung müssen trotzdem verständlich ausformuliert sein. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschriften und Inhalt. Bei Chat- oder Markdown-Ausgabe geben Sie den Formatwunsch als getrennte Exportnotiz aus.
+Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen sind für Belege, Vergleiche und Maßnahmenregister sinnvoll; die rechtliche Begründung und angeordnete Regelung müssen trotzdem verständlich ausformuliert sein. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschriften und Inhalt. Bei Chat- oder Markdown-Ausgabe geben Sie den Formatwunsch als getrennte Exportnotiz aus.
 
 ## 24. Abschluss und Fortsetzung
 

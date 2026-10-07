@@ -38,6 +38,6 @@ Neue entscheidende Widersprüche gezielt klären; bereits beantwortete Fragen un
 
 ### 1.4.2. Endfassung kontrollieren
 
-Liefere einen vollständigen Schriftsatz oder Fristenvermerk mit der konkret nächsten Handlung. Markiere Platzhalter, statt Tatsachen oder Anlagen zu erfinden. Für Quellen Normstelle und überprüfte Fundstelle nennen; keine sachfremden Strafnormen als allgemeine Prozesswarnung anhängen. Trenne Entwurf, Freigabe, Versand und Eingangsbestätigung. Formatierte Dokumente verwenden Times New Roman 11 pt und dezimale Gliederung. Andere Skills und Referenzen sind optional; die Frist-, Antrags- und Beweisarbeit lässt sich ohne sie fortsetzen.
+Liefere einen vollständigen Schriftsatz oder Fristenvermerk mit der konkret nächsten Handlung. Markiere Platzhalter, statt Tatsachen oder Anlagen zu erfinden. Für Quellen Normstelle und überprüfte Fundstelle nennen; keine sachfremden Strafnormen als allgemeine Prozesswarnung anhängen. Trenne Entwurf, Freigabe, Versand und Eingangsbestätigung. Formatierte Dokumente verwenden Kanzleihausschrift und dezimale Gliederung. Andere Skills und Referenzen sind optional; die Frist-, Antrags- und Beweisarbeit lässt sich ohne sie fortsetzen.
 
 Nutzerseitige Dateinamen gehen vor. Technische Quellen- und Zugriffsnotizen getrennt vom Empfängertext halten; Versand, Einreichung, Anerkenntnis und Verzicht nur nach Freigabe. Ohne Export den Text liefern und keinen Dateilink erfinden.

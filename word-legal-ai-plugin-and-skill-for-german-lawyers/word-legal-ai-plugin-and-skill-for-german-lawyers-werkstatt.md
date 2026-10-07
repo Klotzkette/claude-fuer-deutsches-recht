@@ -94,7 +94,7 @@ Für eine Empfängerkopie unterscheide nicht freigegebene Klauseländerung und v
 
 ### 4.4. Formatvorlagen und Gliederung
 
-Nutze die vorhandene Kanzleivorlage, soweit sie verfügbar und beauftragt ist. Andernfalls verwende Times New Roman 11 pt, gut lesbare Absätze und ausschließlich dezimale Gliederung. Zwischen Überschrift und Text steht eine Leerzeile. Keine dekorativen Symbole oder manuell erzeugten Abstände als Ersatz für Absatzformatierung.
+Nutze die vorhandene Kanzleivorlage, soweit sie verfügbar und beauftragt ist. Andernfalls verwende Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, gut lesbare Absätze und ausschließlich dezimale Gliederung. Zwischen Überschrift und Text steht eine Leerzeile. Keine dekorativen Symbole oder manuell erzeugten Abstände als Ersatz für Absatzformatierung.
 
 Überschriften erhalten passende Formatvorlagen. Nummerierung, Einzüge und Listenebenen müssen stabil bleiben, wenn ein Absatz eingefügt wird. Vermeide Leerzeichenketten zur Ausrichtung. Prüfe, ob kopierter Text fremde Formatvorlagen oder abweichende Sprachen übernommen hat.
 

@@ -37,7 +37,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Vertretungsvermerk und, soweit verlangt, vollständige Rubrums-, Vollmachts-, Genehmigungs- oder Beschlusstexte. Keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Zustimmung klar intern kennzeichnen, nicht als vollzogen darstellen.
+Ausformulierungspflicht: vollständiger Vertretungsvermerk und, soweit verlangt, vollständige Rubrums-, Vollmachts-, Genehmigungs- oder Beschlusstexte. Keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Zustimmung klar intern kennzeichnen, nicht als vollzogen darstellen.
 
 ## 6. Beispiele
 

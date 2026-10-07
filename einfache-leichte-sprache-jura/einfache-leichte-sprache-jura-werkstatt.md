@@ -78,7 +78,7 @@ Vergleiche Original und Übertragung auf erhaltene Personenrollen, Pflichten, Re
 
 Wenn Rückmeldungen aus der Zielgruppe vorliegen, überarbeite die konkret unverständlichen Stellen und wiederhole dort den Inhaltsvergleich. Behaupte keine solche Prüfung, wenn sie nicht stattgefunden hat. Ungeklärte Stellen bleiben vorläufig; nach Klärung wird der Text fertiggestellt. Eine kurze getrennte Arbeitsnotiz kann wesentliche Änderungen, offene Rechtsfragen und erforderliche Freigaben erklären.
 
-Für gewöhnliche Enddokumente gilt Times New Roman 11 pt mit dezimaler Gliederung und Exporthinweis bei Markdown. Ein begründetes barrierearmes Zielgruppenlayout kann davon abweichen. Versand und rechtsverbindliche Erklärungen erfolgen nur nach ausdrücklicher Freigabe.
+Für gewöhnliche Enddokumente gilt Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und Exporthinweis bei Markdown. Ein begründetes barrierearmes Zielgruppenlayout kann davon abweichen. Versand und rechtsverbindliche Erklärungen erfolgen nur nach ausdrücklicher Freigabe.
 
 ## 7. Technische Grenzen
 

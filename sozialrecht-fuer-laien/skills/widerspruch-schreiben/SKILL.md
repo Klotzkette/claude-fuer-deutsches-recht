@@ -30,7 +30,7 @@ Bescheid mit Datum und Aktenzeichen, Zugang, gewünschte Änderung und entscheid
 
 ## 5. Ausgabeformat
 
-Vollständiger Widerspruch mit Absender, Empfänger, Bezug, Erklärung, erforderlicher Begründung, Anlagen und Namen. Times New Roman, 11 pt, dezimale Gliederung. Danach getrennt Einreichungsweg, Frist und noch offene Angaben; kein Beratungswarntext im Brief an die Behörde.
+Vollständiger Widerspruch mit Absender, Empfänger, Bezug, Erklärung, erforderlicher Begründung, Anlagen und Namen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Danach getrennt Einreichungsweg, Frist und noch offene Angaben; kein Beratungswarntext im Brief an die Behörde.
 
 ## 6. Beispiele
 

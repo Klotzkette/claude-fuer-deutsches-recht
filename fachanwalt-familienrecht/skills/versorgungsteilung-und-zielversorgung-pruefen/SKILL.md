@@ -27,7 +27,7 @@ Die [geprüften Rechtsanker](../../references/rechtsanker-2026-09-05.md) enthalt
 
 ## 5. Ausgabeformat
 
-Entscheidungsvorlage mit Teilungsgrund, Rechenvergleich, Wahlfrist, Einverständnisnachweis und ausformuliertem Tenorvorschlag. Ausformulierungspflicht und Formatstandard: vollständige Sätze, keine Skelettanträge, Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis. Eine selbstständige Mandantenentscheidung über Wahl oder Vergleich nicht vorwegnehmen.
+Entscheidungsvorlage mit Teilungsgrund, Rechenvergleich, Wahlfrist, Einverständnisnachweis und ausformuliertem Tenorvorschlag. Ausformulierungspflicht und Formatstandard: vollständige Sätze, keine Skelettanträge, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown Exporthinweis. Eine selbstständige Mandantenentscheidung über Wahl oder Vergleich nicht vorwegnehmen.
 
 ## 6. Beispiele
 

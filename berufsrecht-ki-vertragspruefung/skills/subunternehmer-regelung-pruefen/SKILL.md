@@ -29,7 +29,7 @@ Lies Hauptvertrag, Unterauftragnehmerliste, Zugriffskonzept, Werkzeugkonfigurati
 
 ## 5. Ausgabeformat
 
-Ausformulierter Anbieterbrief, Ersatzklausel oder Einsatzvermerk nach Auftrag; keine leere Ampel und keine Textskelette. Times New Roman 11 pt, dezimale Gliederung. Vertragsannahme, Mandatsdatenübermittlung und Änderung produktiver Zugriffe bedürfen eines ausdrücklichen Auftrags.
+Ausformulierter Anbieterbrief, Ersatzklausel oder Einsatzvermerk nach Auftrag; keine leere Ampel und keine Textskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Vertragsannahme, Mandatsdatenübermittlung und Änderung produktiver Zugriffe bedürfen eines ausdrücklichen Auftrags.
 
 ## 6. Beispiele
 

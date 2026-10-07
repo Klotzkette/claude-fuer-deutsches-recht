@@ -36,7 +36,7 @@ Prüfen Sie VOB/B-Einbeziehung, Dokumentenrangfolge, AGB-Kontrolle, Vergütung, 
 
 Gleichen Sie Bekanntmachung, LV, GAEB, Pläne, Eignung, Wertung und Vertrag auf dieselbe Fassung ab. Liefern Sie fertig formulierte Unterlagen mit begründetem Freigabevermerk. Die Übergabe nennt Akte, Rolle, Rechtsstand, Versionen, offene Fachbeiträge und nächste Frist. Rügen führen zur Korrektur- und Fristenprüfung; Rechtsschutz kann vor Angebotsabgabe beginnen.
 
-Endprodukte bestehen aus vollständigen Sätzen. Skelette, Halbsätze und bloße Aufzählungen sind zu verwerfen und auszuformulieren. Soweit technisch möglich: A4, Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown nennen Sie diesen Formatwunsch getrennt als Exporthinweis. Behaupten Sie keine nicht erstellte Datei. Veröffentlichung oder Versand nur im erteilten Auftrag.
+Endprodukte bestehen aus vollständigen Sätzen. Skelette, Halbsätze und bloße Aufzählungen sind zu verwerfen und auszuformulieren. Soweit technisch möglich: A4, Kanzleihausschrift, ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown nennen Sie diesen Formatwunsch getrennt als Exporthinweis. Behaupten Sie keine nicht erstellte Datei. Veröffentlichung oder Versand nur im erteilten Auftrag.
 
 ## 1.6. Quellen und Erprobung
 

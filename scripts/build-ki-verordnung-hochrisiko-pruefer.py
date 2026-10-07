@@ -8,6 +8,7 @@ from datetime import datetime
 from email.message import EmailMessage
 from email.policy import SMTP
 from email.utils import format_datetime
+import sys
 from pathlib import Path
 from xml.sax.saxutils import escape
 
@@ -20,6 +21,13 @@ from reportlab.lib.enums import TA_LEFT
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.platypus import PageBreak, Paragraph, SimpleDocTemplate, Spacer
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hausstil  # noqa: E402
+
+HAUSSTIL = hausstil.lade_hausstil()
+SCHRIFT = HAUSSTIL.schrift
+GRUNDGROESSE = hausstil.groesse_in_punkt(HAUSSTIL)
 
 ROOT = Path(__file__).resolve().parents[1]
 FIXTURE = ROOT / "scripts/fixtures/ki-verordnung-hochrisiko-pruefer/case.json"
@@ -37,9 +45,9 @@ def write_docx(record, reference, target):
     section.page_width, section.page_height = Cm(21), Cm(29.7)
     section.top_margin = section.bottom_margin = Cm(2.0)
     section.left_margin = section.right_margin = Cm(2.2)
-    for name, size in (("Normal", 11), ("Title", 18), ("Heading 1", 13)):
+    for name, size in (("Normal", GRUNDGROESSE), ("Title", 18), ("Heading 1", 13)):
         style = doc.styles[name]
-        style.font.name = "Times New Roman"
+        style.font.name = SCHRIFT
         style.font.size = Pt(size)
         style.font.color.rgb = RGBColor(0, 0, 0)
         fonts = style.element.get_or_add_rPr().rFonts
@@ -47,7 +55,7 @@ def write_docx(record, reference, target):
             if "theme" in attribute.lower():
                 del fonts.attrib[attribute]
         for attribute in ("ascii", "hAnsi", "eastAsia", "cs"):
-            fonts.set(qn(f"w:{attribute}"), "Times New Roman")
+            fonts.set(qn(f"w:{attribute}"), SCHRIFT)
         style.paragraph_format.space_after = Pt(8)
         style.paragraph_format.line_spacing = 1.08
         for border in style.element.xpath(".//w:pBdr"):

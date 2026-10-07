@@ -76,7 +76,7 @@ Bereite eine Anhörung oder Verhandlung anhand der streitigen Tatsachen und offe
 
 Liefere bei einem Hindernis den tragfähigen Teil und die konkrete noch benötigte Information. Nach der Antwort betroffene Argumente und Anträge aktualisieren und bis zum bestellten Dokument fortsetzen. Eine neue entscheidende Lücke erlaubt eine weitere gezielte Frage; bereits beantwortete Fragen und vollständige Neuaufnahmen unterbleiben.
 
-Vor Abschluss Berufsgruppe, Verfahrensstufe, Zustellung, Empfänger, Antrag, Belege und Offenlegungsumfang kontrollieren. Die Stellungnahme oder der Rechtsbehelf besteht aus vollständigen Sätzen, nicht aus Prüftabellen. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimal ausgeben.
+Vor Abschluss Berufsgruppe, Verfahrensstufe, Zustellung, Empfänger, Antrag, Belege und Offenlegungsumfang kontrollieren. Die Stellungnahme oder der Rechtsbehelf besteht aus vollständigen Sätzen, nicht aus Prüftabellen. Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimal ausgeben.
 
 ## 1.9. Quellen und technische Grenzen
 

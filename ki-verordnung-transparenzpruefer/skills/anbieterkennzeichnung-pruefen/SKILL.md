@@ -38,7 +38,7 @@ Formuliere anschließend die tatsächlich bestellte E-Mail oder Klausel mit best
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
+Versandfertige Anbieteranfrage, ausformulierter Vertragsabschnitt oder begründeter Nachweisvermerk. Gewünschte DOCX-Datei in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ein Quellen- oder Metadateninventar allein erfüllt den Auftrag nicht. Versand nur auf ausdrückliche Freigabe.
 
 ## 6. Beispiel
 

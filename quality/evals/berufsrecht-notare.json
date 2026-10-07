@@ -52,9 +52,10 @@
       "Deklaratorische Klausel und begrenztes Scheidungsmandat beseitigen den Zusammenhang nicht.",
       "Disziplinarfolge, Mitwirkungsverbot und Urkundenwirksamkeit getrennt.",
       "Leer: Mitwirkung, Terminsvorbereitung oder Verwahrung klären. Dateien: still lesen und Amtsvermerk oder Beteiligtennachricht anbieten. Klar: direkt bestelltes Amtsdokument ausarbeiten.",
-      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung."
+      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "453a8d002a3d61697c67cf237bfa95af0e6df6868c58c95f56de0440976c68c6"
+    "sha256": "a3eee07b17125352fbfe57c0f676f0609cf0fea6a362deb248dc014326cb621b"
   },
   "selection": {
     "positive": [
@@ -108,9 +109,10 @@
       "Deklaratorische Klausel und begrenztes Scheidungsmandat beseitigen den Zusammenhang nicht.",
       "Disziplinarfolge, Mitwirkungsverbot und Urkundenwirksamkeit getrennt.",
       "Verbrauchervorbereitung, Vorberatungsumfang, Vollmachtsreichweite, Genehmigungszuordnung und widersprüchliche Verwahrungsbedingungen vertieft.",
-      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung."
+      "Nachgewiesener früherer Entwurfsversand führt zum Fassungsvergleich und geänderter Terminmitteilung; neue Weisung ändert Vollzugsvermerk erst nach Bedingungsprüfung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e8827e61a589507c03b8400f0db54fc565fc98aea56f07968dee9283caf8dd10"
+    "sha256": "b3c9b5fe090ec559264e3fb93a6eceda8d3d49124ac9d6588577217120eb28c3"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

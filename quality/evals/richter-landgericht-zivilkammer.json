@@ -76,9 +76,10 @@
       "Generische Tabellen und parteiliche Vergleichsvorgaben durch vollständige Kammerarbeit ersetzt; korrigierte Schlussrechnung, Zeugenzulassung und Übergangsrecht konkret behandelt; bisherige Aufgabenbereiche erhalten.",
       "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
-      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4e20c6b89bc3242a4f185d8c27f200820e96abf0810dfcdfa7ef0312cf457e12",
+    "sha256": "c89f9a58e66f2cd449399b1cc9184cdb2ba2b95c63b22c4e10334574faf4775e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -90,9 +91,10 @@
       "Beweis zur korrigierten Schlussrechnung nicht vom vorgängigen Nachweis des Grunds des Vortragswechsels abhängig machen.",
       "Gesonderte Leistungsklage auf materiellen Kostenersatz bei Wegfall vor Rechtshängigkeit und Rücknahme ausdrücklich vom Kostenantrag abgegrenzt; Ereignis, Zustellung, materielle Grundlage und bereits entschiedene oder erstattete Kosten prüfen.",
       "Früherer Hinweis -> Zulassung neuen Beweismittels und folgenden Beweisbeschluss ändern; Zahlung -> Anträge und Kostenweg aktualisieren.",
-      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf."
+      "Positionsbezogene Rechnungsänderung, Zulassung versus Beweiswürdigung, Zahlung vor Rechtshängigkeit und vollständiger Kammerentwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4152e8b9fc98c317b1fe7152040ef0681e5d14f21d41de5a3565871bc15920aa",
+    "sha256": "28f785e1394ad465ea02d3e3971c2dd921107560e2c152dfe5ebd9ab8c58dbae",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

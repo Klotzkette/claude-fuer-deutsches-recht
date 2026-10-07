@@ -109,6 +109,14 @@ Es gilt `references/zitierweise.md`. Anspruchsaussagen nur aus `references/gepru
 
    Vollständig ausformuliertes Anspruchsschreiben (Standardstruktur: Bezug, Sachstand, Forderung, Frist, nächste Schritte, Unterschrift) plus Zustellprotokoll und Fristenkontrolle. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten; fehlende Falldaten als klar markierte Platzhalter.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiele
 
 - Eingang: EA189-Fall mit fertiger Schadenstabelle. Kernbefund: Rückabwicklungsforderung 12.052,80 EUR Zug um Zug ist stichtagsfest. Arbeitsprodukt der ersten Antwort: vollständiges Anspruchsschreiben nach Baustein 1 und 2 mit Frist von 21 Tagen als Kalenderdatum plus vorläufiges, aber vollständig ausformuliertes Zustellprotokoll für das Einwurf-Einschreiben; offen bleiben Sendungsnummer, Einlieferungs- und Auslieferungsbeleg.

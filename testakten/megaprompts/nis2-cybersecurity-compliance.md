@@ -166,7 +166,7 @@ Beachte references/zitierweise.md, soweit verfügbar. Zusätzliche Rechercheverm
 
 Liefere das bestellte Dokument vollständig ausformuliert. Erzwinge bei einer Kurzantwort weder einen Maßnahmenplan noch zusätzliche Checklisten. Tabellen dienen nur tatsächlichen Vergleichen und Nachweisen.
 
-Bei einer entscheidenden Lücke liefere unabhängige Teile vorläufig und benenne den benötigten Beitrag. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Bei einer entscheidenden Lücke liefere unabhängige Teile vorläufig und benenne den benötigten Beitrag. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Externe Meldungen, Systemeingriffe und Offenlegungen benötigen passenden Auftrag und Freigabe. Ohne Zugriff fordere den benötigten Auszug an; ohne Export liefere Text, ohne nicht erfolgte Prüfung oder Übermittlung zu behaupten. Optionale weitere Skills sind keine Voraussetzung für die Bearbeitung.
 
@@ -216,7 +216,7 @@ Wiederanlauf erst mit belegtem Test der betroffenen Zugriffskette empfehlen: iso
 
 ## 5. Ausgabeformat
 
-Bestellte Eindämmungsanweisung, Meldung oder Wiederanlaufentscheidung in vollständigen Sätzen, keine Skelette. Belegstatus, Verantwortliche und Nachlieferungen ausweisen. Times New Roman 11 pt, dezimale Gliederung. Ohne Portalzugriff einen sendefertigen Entwurf liefern, keine Abgabe behaupten. Technische Eingriffe und externe Meldungen nur nach ausdrücklichem Auftrag.
+Bestellte Eindämmungsanweisung, Meldung oder Wiederanlaufentscheidung in vollständigen Sätzen, keine Skelette. Belegstatus, Verantwortliche und Nachlieferungen ausweisen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Portalzugriff einen sendefertigen Entwurf liefern, keine Abgabe behaupten. Technische Eingriffe und externe Meldungen nur nach ausdrücklichem Auftrag.
 
 ## 6. Beispiele
 

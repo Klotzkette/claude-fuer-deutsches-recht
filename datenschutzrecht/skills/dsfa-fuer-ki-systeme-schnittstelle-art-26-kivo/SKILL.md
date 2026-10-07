@@ -40,7 +40,7 @@ Artikel 22, 30, 35 und 36 der Datenschutz-Grundverordnung; Artikel 4, 4a, 26, 27
 
 ## 5. Ausgabeformat
 
-Ausformulierter integrierter Vermerk mit getrennten Ergebnissen für Datenschutz und Grundrechte, einer gemeinsamen Tatsachengrundlage und konkret zugeordneten Maßnahmen. Keine doppelte Textproduktion. Times New Roman 11 pt, dezimale Gliederung. Ungeklärtes Restrisiko offenhalten, aber bereits tragfähige Abschnitte liefern.
+Ausformulierter integrierter Vermerk mit getrennten Ergebnissen für Datenschutz und Grundrechte, einer gemeinsamen Tatsachengrundlage und konkret zugeordneten Maßnahmen. Keine doppelte Textproduktion. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ungeklärtes Restrisiko offenhalten, aber bereits tragfähige Abschnitte liefern.
 
 ## 6. Beispiele
 

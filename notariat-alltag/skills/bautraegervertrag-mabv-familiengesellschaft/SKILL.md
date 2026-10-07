@@ -51,7 +51,7 @@ Die Auflassung selbst darf nach [BGB Paragraf 925 Absatz 2](https://www.gesetze-
 
 ## 5. Ausgabeformat
 
-Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
+Vollständig formulierter Kaufvertragsentwurf zur notariellen Prüfung, Anlagenverzeichnis mit Versionsstand und getrenntes Nachforderungsschreiben. Keine erfundenen Genehmigungen oder bloßen Klauselrümpfe. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ein Zahlplan enthält Betrag, Rechenbasis, Bautenstand und zusätzliche Fälligkeitsbedingungen.
 
 ## 6. Beispiel
 

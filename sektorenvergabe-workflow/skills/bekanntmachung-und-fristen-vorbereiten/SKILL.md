@@ -30,7 +30,7 @@ Paragrafen 10a, 13 bis 16 und 35 bis 42 SektVO; Durchführungsverordnung (EU) 20
 
 ## 5. Ausgabeformat und Übergabe
 
-Erstelle vollständige Bekanntmachungstexte, strukturierte Feldliste, Terminblatt und Freigabecheck. Times New Roman 11 pt, dezimale Gliederung für Textdokumente. Übergib an `teilnahmeantraege-und-angebote-pruefen` die veröffentlichten Fassungen, tatsächlich bestätigten Termine, Portalwege und Nachforderungsregel. Bei neuen Fragen kann direkt `bieterfragen-ruegen-und-aenderungen-bearbeiten` übernehmen. „Entwurf“, „übermittelt“ und „veröffentlicht“ bleiben getrennte Zustände.
+Erstelle vollständige Bekanntmachungstexte, strukturierte Feldliste, Terminblatt und Freigabecheck. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung für Textdokumente. Übergib an `teilnahmeantraege-und-angebote-pruefen` die veröffentlichten Fassungen, tatsächlich bestätigten Termine, Portalwege und Nachforderungsregel. Bei neuen Fragen kann direkt `bieterfragen-ruegen-und-aenderungen-bearbeiten` übernehmen. „Entwurf“, „übermittelt“ und „veröffentlicht“ bleiben getrennte Zustände.
 
 ## 6. Beispiel
 

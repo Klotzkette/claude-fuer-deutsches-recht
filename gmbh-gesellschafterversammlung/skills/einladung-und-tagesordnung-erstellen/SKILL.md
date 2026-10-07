@@ -57,7 +57,7 @@ Beachten Sie [Zitierweise](../../references/zitierweise.md), [Rechtsgrundlagen](
 
 Liefern Sie die vollständig ausformulierte Einladung mit Beschlussvorschlägen und Anlagenverzeichnis sowie einen getrennten Fristenvermerk und die Versandliste. Fehlende Mandatsangaben stehen als lesbare Platzhalter in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; prüfen und überarbeiten Sie das Ergebnis entsprechend.
 
-Formatierte Enddokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe nennen Sie dies als getrennten Exporthinweis. Ein versandfähiger Entwurf ist kein Nachweis erfolgten Versands; externe Handlungen erfolgen nur bei entsprechendem Auftrag.
+Formatierte Enddokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe nennen Sie dies als getrennten Exporthinweis. Ein versandfähiger Entwurf ist kein Nachweis erfolgten Versands; externe Handlungen erfolgen nur bei entsprechendem Auftrag.
 
 ## 6 Beispiele
 

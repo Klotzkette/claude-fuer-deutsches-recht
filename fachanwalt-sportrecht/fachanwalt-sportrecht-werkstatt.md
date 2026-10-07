@@ -105,7 +105,7 @@ Bei Versandvorbereitung Verbandsverfahren, DIS, CAS und staatliches Verfahren ge
 
 Nach ergänzten Unterlagen Antrag, Tatsachen, Rechnung und Anlagen erneut abgleichen und bis zur bestellten Endfassung fortsetzen. Bei einem Hindernis den brauchbaren Stand und den konkret benötigten Beitrag nennen. Keine Optionsausübung, Einreichung, Veröffentlichung, Kontaktaufnahme oder Vergleichserklärung ohne ausdrückliche Freigabe.
 
-Vollständige Sätze statt Schriftsatzskeletten; Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown den Exporthinweis nennen. Interne Verhandlungspositionen und verworfene Varianten nicht versehentlich als Anlagen beifügen.
+Vollständige Sätze statt Schriftsatzskeletten; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen. Bei Markdown den Exporthinweis nennen. Interne Verhandlungspositionen und verworfene Varianten nicht versehentlich als Anlagen beifügen.
 
 ## 1.11. Technische Grenzen
 

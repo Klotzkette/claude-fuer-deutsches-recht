@@ -72,9 +72,10 @@
       "Artikel 82 von Sanktion getrennt; Schaden und Kausalität bleiben nachzuweisen.",
       "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8ea9086b52a06f82c35454fac6e0bf4953a0dd7cef9f78ee28fe4d9d84241f46"
+    "sha256": "77fdbeeb0286c692d01609f98fb5fbbbc3584176b8a75d005e17fd886ac9d08d"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -85,9 +86,10 @@
       "Dokumentenbasierte Nachfragen, gestufte Meldung und ausformulierte Empfängerdokumente erhalten.",
       "Informationspflichten bei Direkt- und Dritterhebung ohne Antrag einschließlich Zeitpunkt, Zweckänderung und Ausnahmen wieder aufgenommen.",
       "Systembezogene Auskunftssuche, Drittbelange und verständliche Kopie; Vorfallkenntnis und Nachmeldung trotz Loglücken; Cloud-Eigennutzung, Unterauftragnehmer, Backups und Transferklauseln mit begrenzter Startfreigabe.",
-      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien."
+      "Am 30.09.2026 fallbezogene Rechtsprechungsanker 2026 ergänzt; begrenzte Aktualisierung, kein vollständiger Neuabgleich aller Teilmaterien.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "54bb5088d4b78c1c9b83680c91a20034755299109d0c9bbb236337755179ddf4"
+    "sha256": "c34d494babc2227954ae95b1cbaac54ab6e621ba64980151fe9c6ccd33a70b38"
   },
   "selection": {
     "positive": [

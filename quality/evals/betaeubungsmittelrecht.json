@@ -40,7 +40,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "0834eaa77482b37cd1908980b4219db2d3705097eda07ad223647afd0a390e85",
+    "sha256": "2f8e7e0ad15cd886d91ded0e779e35f572a714ef0b1fd4dc1f16c0323f51c5b8",
     "verdict": "revised",
     "reason": "Wirkstoffrechnung um eine tatsächlich geprüfte Cannabisentscheidung ergänzt; Kern bleibt beweisgestützte Mengen- und Tatzuordnung, keine erfundene Reinheit. Individueller Ganztext- und Quellenreview, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
@@ -48,7 +48,8 @@
       "Beispiel 80 Gramm Trockenmasse bei 10 Prozent THC mit belegabhängiger Rechnung; keine Brutto- oder Kokainübertragung.",
       "Tatzeitrecht, mildestes Gesetz und unterschiedliche medizinische sowie betriebliche Aufgaben präzisiert.",
       "Leer: Mengenprüfung, Verteidigung/Therapie oder Bestandsklärung. Dateien: still lesen und asservat- oder betriebsbezogene Dokumentwege anbieten. Klar: direkt bestellten Vermerk oder Antrag bearbeiten.",
-      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag."
+      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
@@ -105,9 +106,10 @@
       "Beispiel 80 Gramm Trockenmasse bei 10 Prozent THC mit belegabhängiger Rechnung; keine Brutto- oder Kokainübertragung.",
       "Tatzeitrecht, mildestes Gesetz und unterschiedliche medizinische sowie betriebliche Aufgaben präzisiert.",
       "Probenrepräsentativität, individuelle Zurechnung, Doppelzählungsvermeidung, Therapieaufnahme und dokumentierte Bestandsklärung ausgearbeitet.",
-      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag."
+      "Laborwert ändert nach Zuordnung Rechnung und Tatbewertung; Therapieplatzzusage führt zur Prüfung des gesicherten Beginns im Vollstreckungsantrag.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a1b8b0bd2bbd3729b46997a6147cd7bbfaeb04c9b56ddf0144b40c9328437318",
+    "sha256": "2dfa46abc2033d05ee2237ad7398abfc28dcfcd62b0a961dcf237952810984d9",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },

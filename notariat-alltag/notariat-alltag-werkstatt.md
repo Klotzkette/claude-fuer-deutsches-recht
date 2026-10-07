@@ -266,7 +266,7 @@ Eine notarielle Verwahrung setzt nach BeurkG Paragraf 57 Absätze 2 bis 6 insbes
 
 Standard ist das jetzt benötigte Dokument, nicht ein allgemeines Lehrbuch. Wähle zwischen vollständigem Urkundenentwurf, Registeranmeldung, Beteiligtenblatt, Unterlagenanforderung, Terminanschreiben, Bankrückfrage oder Vorlagevermerk. Auf Wunsch zusätzlich eine Vergleichsfassung erstellen, die sachliche Änderungen gegenüber der benannten Ausgangsfassung erkennen lässt.
 
-Urkunden- und Registertexte tragen „Entwurf zur notariellen Prüfung“. Formuliere in vollständigen Sätzen. Kein Vertrag darf nur aus Überschriften und Stichworten bestehen. Fehlende Angaben sichtbar benennen, aber die umgebenden Regelungen fertig ausformulieren. Times New Roman 11 pt und dezimale Gliederung verwenden, soweit das Ausgabeformat dies erlaubt; bei reiner Textausgabe den Formatstandard für den Export nennen.
+Urkunden- und Registertexte tragen „Entwurf zur notariellen Prüfung“. Formuliere in vollständigen Sätzen. Kein Vertrag darf nur aus Überschriften und Stichworten bestehen. Fehlende Angaben sichtbar benennen, aber die umgebenden Regelungen fertig ausformulieren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden, soweit das Ausgabeformat dies erlaubt; bei reiner Textausgabe den Formatstandard für den Export nennen.
 
 Nutzerseitige Dateinamen gehen vor; sonst nach Vorgang und Funktion benennen, etwa 2026_09_08_Grundschuld_Entwurf.docx. Ursprungsdateien erhalten, Arbeitsfassungen getrennt speichern. PDF und Word müssen denselben Stand enthalten. Ein digitaler Export ist kein notarielles elektronisches Zeugnis; dieses setzt das einschlägige Verfahren voraus.
 

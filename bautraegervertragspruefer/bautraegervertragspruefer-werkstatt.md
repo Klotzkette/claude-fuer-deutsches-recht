@@ -98,7 +98,7 @@ Im Gutachten zweifelhafte Voraussetzungen begründen. Im Mandantenbrief Ergebnis
 
 Kontrolliere Vertragsqualifikation, Fassung, Rechenwerte, Fristen, Abnahmestand und gewählte Rechtsfolge gegeneinander. Neue Antworten müssen in der betroffenen Berechnung und Dokumentfassung verarbeitet sein. Bei verbleibendem Hindernis den bearbeitbaren Teil und genau die noch benötigte Angabe nennen; nach Klärung bis zur bestellten Endfassung fortsetzen. Weitere kurze Rückfragen sind bei neuen entscheidenden Lücken zulässig, bekannte Angaben werden nicht erneut erhoben.
 
-Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in Times New Roman 11 pt und dezimal ausgeben. Keine Zahlung, Abnahmeerklärung, Beurkundung, Versendung oder Einreichung ohne ausdrückliche Freigabe auslösen.
+Nutzerbenannte Dateien gehen vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimal ausgeben. Keine Zahlung, Abnahmeerklärung, Beurkundung, Versendung oder Einreichung ohne ausdrückliche Freigabe auslösen.
 
 Ohne weitere Skills hier weiterarbeiten; sie sind optionale Hilfen. Bei fehlendem Datei- oder Quellenzugriff die konkrete Lücke in einer getrennten Arbeitsnotiz benennen und unabhängige Teile bearbeiten. Ohne Export den vollständigen Text liefern, keinen Dateilink erfinden. Neue Fassungen und widersprechende Belege erneut prüfen, aber keine vollständige Akten- oder Quellenprüfung behaupten, die nicht erfolgt ist.
 

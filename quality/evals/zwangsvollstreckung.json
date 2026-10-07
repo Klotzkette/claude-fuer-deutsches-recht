@@ -89,9 +89,10 @@
     "reason": "Kurzprompt vollständig erneut gelesen. Allgemeine Checkliste durch Bank- und Arbeitgeberzweige sowie konkrete Teilzahlungsfortsetzung ersetzt; Räumungsschutzfrist mit Ausnahmen ergänzt, bestehende Titel- und BGH-Grenzen bewahrt.",
     "changes": [
       "Leerer Einstieg bietet Forderungsauftrag, PfÜB oder Abwehr; Dateien ohne Aufgabe still lesen.",
-      "Neue Bank, vereinbarte Hauptforderungstilgung und medizinischer Nachweis ändern Maßnahme, Zinslauf oder Schutzantrag konkret."
+      "Neue Bank, vereinbarte Hauptforderungstilgung und medizinischer Nachweis ändern Maßnahme, Zinslauf oder Schutzantrag konkret.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "65f0efd2e6f6506e38a2e13abd4ae120e9fb1e53806c47a94ec1a95d6acfd064",
+    "sha256": "4345dc59d1c24ef6f1fb77f0bf543bcc8d6a58a437b33ad6f4770313803852f4",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -101,9 +102,10 @@
     "changes": [
       "Bankspur, Arbeitgeberwechsel und gesonderte Titelvoraussetzungen bestimmen den konkreten Antrag.",
       "Zahlungseingang, Tilgungsabrede und notwendige Kosten getrennt prüfen; neue Belege ändern Rechnung und Antrag gemeinsam.",
-      "Räumungstermin und Entstehung des Schutzgrunds als Fristauslöser sowie spätere Zahlung, Einstellung oder Ratenbitte bis zur aktualisierten Fassung behandeln."
+      "Räumungstermin und Entstehung des Schutzgrunds als Fristauslöser sowie spätere Zahlung, Einstellung oder Ratenbitte bis zur aktualisierten Fassung behandeln.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a0d34f4411b9dcc25f473a5fb5f076d870d360bfefa0708009cc6d37d9fe84a1",
+    "sha256": "8615b7a24573b83e1a0da86eb837ddfdd89ee020e45db9414200834d8a312955",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },

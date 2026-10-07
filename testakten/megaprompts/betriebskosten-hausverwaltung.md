@@ -63,7 +63,7 @@ Nutze die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere Abrechnung und gegebenenfalls Anpassungserklärung in vollständigen, ausformulierten Sätzen mit prüfbaren Tabellen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht ein gesonderter Exporthinweis außerhalb des Briefs. Es werden nur tatsächlich erzeugte Dateien verlinkt.
+Liefere Abrechnung und gegebenenfalls Anpassungserklärung in vollständigen, ausformulierten Sätzen mit prüfbaren Tabellen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht ein gesonderter Exporthinweis außerhalb des Briefs. Es werden nur tatsächlich erzeugte Dateien verlinkt.
 
 ## 6. Beispiele
 
@@ -123,7 +123,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere vollständige, ausformulierte Sätze und Rechentabellen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung, bei Textausgabe mit getrenntem Exporthinweis. Verlinke nur erzeugte und geprüfte Dateien. Trenne interne Kontrolle vom Empfängertext.
+Liefere vollständige, ausformulierte Sätze und Rechentabellen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung, bei Textausgabe mit getrenntem Exporthinweis. Verlinke nur erzeugte und geprüfte Dateien. Trenne interne Kontrolle vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -171,7 +171,7 @@ Beachte die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 ## 5. Ausgabeformat
 
-Liefere den adressatengerechten Brief und erforderlichenfalls eine korrigierte Rechentabelle in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind verboten. Nutze soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Technische Quellenprotokolle und Exporthinweise bei Textausgabe bleiben getrennt. Behaupte keine tatsächlich nicht erzeugten Anhänge.
+Liefere den adressatengerechten Brief und erforderlichenfalls eine korrigierte Rechentabelle in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind verboten. Nutze soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Technische Quellenprotokolle und Exporthinweise bei Textausgabe bleiben getrennt. Behaupte keine tatsächlich nicht erzeugten Anhänge.
 
 ## 6. Beispiele
 
@@ -217,7 +217,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere die abgegrenzten Kostenzeilen, die erforderliche Korrektur und gegebenenfalls den gesonderten Arbeitskostenausweis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Exporthinweis getrennt. Behaupte keine nicht erstellte Bescheinigung oder Datei.
+Liefere die abgegrenzten Kostenzeilen, die erforderliche Korrektur und gegebenenfalls den gesonderten Arbeitskostenausweis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Exporthinweis getrennt. Behaupte keine nicht erstellte Bescheinigung oder Datei.
 
 ## 6. Beispiele
 
@@ -263,7 +263,7 @@ Nutze die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere die Gegenüberstellung von Rechnung, Abzug und umlagefähigem Rest mit ausformulierter Begründung. Briefe und Vermerke bestehen aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Nutze soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Trenne bei Textausgabe den Exporthinweis vom Empfängertext und behaupte keine nicht erzeugten Exporte.
+Liefere die Gegenüberstellung von Rechnung, Abzug und umlagefähigem Rest mit ausformulierter Begründung. Briefe und Vermerke bestehen aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Nutze soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Trenne bei Textausgabe den Exporthinweis vom Empfängertext und behaupte keine nicht erzeugten Exporte.
 
 ## 6. Beispiele
 
@@ -313,7 +313,7 @@ Nutze die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere eine Liefer- und Verbrauchstabelle mit begründeter Stufe und bezifferter Überleitung oder den ausformulierten Erstattungsbrief. Endprodukte stehen in vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ein Exporthinweis gehört bei Textausgabe nicht in den Brief. Behaupte keine nicht erstellte Datei.
+Liefere eine Liefer- und Verbrauchstabelle mit begründeter Stufe und bezifferter Überleitung oder den ausformulierten Erstattungsbrief. Endprodukte stehen in vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ein Exporthinweis gehört bei Textausgabe nicht in den Brief. Behaupte keine nicht erstellte Datei.
 
 ## 6. Beispiele
 
@@ -363,7 +363,7 @@ Prüfe anhand der [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsc
 
 ## 5. Ausgabeformat
 
-Liefere die nachvollziehbare WEG-zu-Miet-Überleitung und die bestellte Abrechnung in vollständigen, ausformulierten Sätzen mit Rechentabelle. Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Halte technische Exporthinweise bei Textausgabe außerhalb des Empfängertexts; verlinke keine nicht erzeugten Exporte.
+Liefere die nachvollziehbare WEG-zu-Miet-Überleitung und die bestellte Abrechnung in vollständigen, ausformulierten Sätzen mit Rechentabelle. Skelette, Halbsätze und reine Aufzählungen sind verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Halte technische Exporthinweise bei Textausgabe außerhalb des Empfängertexts; verlinke keine nicht erzeugten Exporte.
 
 ## 6. Beispiele
 
@@ -409,7 +409,7 @@ Wende die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere das Belegregister mit Kontrollsummen und die entscheidenden Abweichungen in vollständigen, ausformulierten Sätzen. Ein beauftragtes Anforderungsschreiben ist auszuformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente nutzen soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe nenne das nur im getrennten Exporthinweis. Verlinke nur tatsächlich erzeugte Dateien.
+Liefere das Belegregister mit Kontrollsummen und die entscheidenden Abweichungen in vollständigen, ausformulierten Sätzen. Ein beauftragtes Anforderungsschreiben ist auszuformulieren; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Formatierte Dokumente nutzen soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe nenne das nur im getrennten Exporthinweis. Verlinke nur tatsächlich erzeugte Dateien.
 
 ## 6. Beispiele
 
@@ -457,7 +457,7 @@ Lies die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere Bestandsrechnung, bewertete Verbrauchsschichten, getrennte Kostenpoole und Nutzerrechnung mit ausformuliertem Ergebnis. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen genügen nicht. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Formatwunsch getrennt als Exporthinweis. Gib keine nicht erzeugte Tabellen- oder PDF-Datei vor.
+Liefere Bestandsrechnung, bewertete Verbrauchsschichten, getrennte Kostenpoole und Nutzerrechnung mit ausformuliertem Ergebnis. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungen genügen nicht. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe steht der Formatwunsch getrennt als Exporthinweis. Gib keine nicht erzeugte Tabellen- oder PDF-Datei vor.
 
 ## 6. Beispiele
 
@@ -503,7 +503,7 @@ Beachte die [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-re
 
 ## 5. Ausgabeformat
 
-Liefere Schlüssel, Herkunft, Formel, Einzelanteile und Kontrollsumme mit vollständigen, ausformulierten Erläuterungen. Ein Ergebnis nur aus Halbsätzen, Skeletten oder reinen Aufzählungen ist unzulässig. Verwende soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe trenne den Exporthinweis ab; verlinke nur wirklich erzeugte Dateien.
+Liefere Schlüssel, Herkunft, Formel, Einzelanteile und Kontrollsumme mit vollständigen, ausformulierten Erläuterungen. Ein Ergebnis nur aus Halbsätzen, Skeletten oder reinen Aufzählungen ist unzulässig. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Textausgabe trenne den Exporthinweis ab; verlinke nur wirklich erzeugte Dateien.
 
 ## 6. Beispiele
 

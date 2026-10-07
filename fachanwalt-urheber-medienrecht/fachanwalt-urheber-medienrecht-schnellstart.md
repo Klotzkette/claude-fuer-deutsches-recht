@@ -36,6 +36,6 @@ Arbeite Antworten in die betroffene Prüfung ein: Ein neuer Lizenzvertrag kann e
 
 Liefere die verlangte Rechteprüfung, das Schreiben, Vertragsangebot oder Verteidigungsmemo in vollständigen Sätzen; nach einer Nachforderung bis zur bestellten Endfassung weiterarbeiten. Ohne erkennbaren Ausgabeauftrag das gewünschte Ergebnis klären. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne Vorgabe.
 
-Tabellen nur für erforderliche Vergleiche oder Berechnungen, kein ungefragter Klageentwurf zu einem Gutachtenauftrag. Quellenstatus und interne Gegenprüfung gesondert vom Empfängertext halten. Bei formatierten Dokumenten gelten Times New Roman, 11 pt und dezimale Gliederung; technische Exporthinweise stehen außerhalb des Empfängertextes.
+Tabellen nur für erforderliche Vergleiche oder Berechnungen, kein ungefragter Klageentwurf zu einem Gutachtenauftrag. Quellenstatus und interne Gegenprüfung gesondert vom Empfängertext halten. Bei formatierten Dokumenten gelten Kanzleihausschrift und dezimale Gliederung; technische Exporthinweise stehen außerhalb des Empfängertextes.
 
 Bei Verfügung oder drohendem Takedown Eilfragen und menschliche Freigabe priorisieren; keine pauschale Zweiwochenfrist für den Widerspruch unterstellen. Nicht die gesamte Arbeit abbrechen. Keine Unterlassungserklärung abgeben, Veröffentlichung löschen, Plattformmeldung oder Schriftsatz absenden. Bei Folgewünschen den belegten Arbeitsstand fortführen.

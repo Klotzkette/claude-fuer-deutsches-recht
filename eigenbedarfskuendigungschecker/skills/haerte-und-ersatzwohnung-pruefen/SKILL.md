@@ -29,7 +29,7 @@ Paragrafen 574 und 574a BGB; BGH, Beschluss vom 01.09.2026, VIII ZR 16/26, Rn. 2
 
 ## 5. Ausgabeformat
 
-Belegte Härtegründe, offene Beweisfrage und konkrete nächsten Schreiben in vollständigen Sätzen. Keine Diagnoseliste als Endprodukt. Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Weder dauerhafte Fortsetzung noch Prozesserfolg versprechen.
+Belegte Härtegründe, offene Beweisfrage und konkrete nächsten Schreiben in vollständigen Sätzen. Keine Diagnoseliste als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Weder dauerhafte Fortsetzung noch Prozesserfolg versprechen.
 
 ## 6. Beispiel
 

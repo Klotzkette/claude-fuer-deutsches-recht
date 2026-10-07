@@ -33,7 +33,7 @@ Artikel 43, 47 bis 49, Anhang VI, Anhang VIII sowie Artikel 111/113 anhand amtli
 
 ## 5 Ausgabeformat
 
-Vollständig ausformuliertes Anbieteranschreiben oder Vertragsnachtrag, erforderlichenfalls mit gesondertem internen Prüfvermerk. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Native Dokumente in Times New Roman 11 pt mit dezimalen Überschriften und Leerzeilen; sonst separaten Exporthinweis geben. Die Anforderung muss Gegenstand, Umfang, Empfänger und Frist erkennen lassen. Nicht selbst registrieren, unterzeichnen oder absenden.
+Vollständig ausformuliertes Anbieteranschreiben oder Vertragsnachtrag, erforderlichenfalls mit gesondertem internen Prüfvermerk. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Native Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimalen Überschriften und Leerzeilen; sonst separaten Exporthinweis geben. Die Anforderung muss Gegenstand, Umfang, Empfänger und Frist erkennen lassen. Nicht selbst registrieren, unterzeichnen oder absenden.
 
 ## 6 Beispiele
 

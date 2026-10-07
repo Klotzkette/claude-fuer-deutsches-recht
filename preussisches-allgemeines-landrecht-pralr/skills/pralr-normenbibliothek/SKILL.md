@@ -42,7 +42,7 @@ Für die vorhandenen Normkarten den [Bereichsindex](references/index.md) öffnen
 
 ## 5. Ausgabeformat
 
-Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
+Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
 
 ## 6. Beispiel
 

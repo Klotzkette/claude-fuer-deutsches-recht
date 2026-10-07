@@ -91,7 +91,7 @@ Verifiziere tragende Normen und Quellen. Quellenstatus, fehlende Anlagen und Ver
 
 ## 1.12. Technische Grenzen
 
-Nutze verfügbare Unterlagen und benenne eine unlesbare oder fehlende Seite konkret, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Brieftext und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Amtliche Formulare gehen vor, sonst formatiere Enddokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise gesondert.
+Nutze verfügbare Unterlagen und benenne eine unlesbare oder fehlende Seite konkret, ohne vollständige Prüfung vorzutäuschen. Bei technischem Hindernis liefere den bearbeitbaren Brieftext und setze nach Behebung am offenen Punkt fort; erfinde keine Exporte oder Dateilinks. Amtliche Formulare gehen vor, sonst formatiere Enddokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung und halte Exporthinweise gesondert.
 
 ## 2. Aus der nächsten Antwort den richtigen Brief machen
 

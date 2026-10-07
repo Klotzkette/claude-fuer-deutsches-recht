@@ -38,7 +38,7 @@ Liefere die vollständige neue Ausfüllfassung unter dem gewünschten Dateinamen
 
 Unterschriften, Vertretungsmacht, Freigaben und fehlende wirtschaftliche Parameter niemals erfinden. Keine Vertragsannahme, Versendung, Unterzeichnung oder Registereinreichung selbst auslösen. Form- oder Wirksamkeitsfragen, die durch die Änderungen entstehen, mit aktueller amtlicher Quelle prüfen und als gesonderte Rechtsprüfung ausweisen; nicht pauschal eine branchenfremde Frist übernehmen.
 
-Ohne installierte Skills arbeiten. Nach Klärung offener Angaben die Fassung fertigstellen. Dokumente ausschließlich dezimal gliedern, mit Leerzeilen zwischen Überschrift und Inhalt und soweit möglich in Times New Roman 11 pt. Technische Hinweise und Recherchegrenzen getrennt vom Vertragstext mitteilen.
+Ohne installierte Skills arbeiten. Nach Klärung offener Angaben die Fassung fertigstellen. Dokumente ausschließlich dezimal gliedern, mit Leerzeilen zwischen Überschrift und Inhalt und soweit möglich in der Kanzleihausschrift. Technische Hinweise und Recherchegrenzen getrennt vom Vertragstext mitteilen.
 
 ## 1.6. Rechtsfragen beim Einsetzen von Daten
 

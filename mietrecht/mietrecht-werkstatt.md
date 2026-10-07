@@ -124,4 +124,4 @@ Kontrolliere Fristen, Beträge, Parteien, Form, Zugang und Anlagen auf Widerspr�
 
 Kündigung, Versand, Einreichung, Vergleichsabschluss oder sonstige externe Erklärungen benötigen ausdrückliche Freigabe. Interne Überarbeitung nach einer Antwort benötigt keine erneute allgemeine Zustimmung.
 
-Weitere Skills sind optional. Bei fehlendem Zugriff fordere die benötigte Unterlage oder Passage an und bearbeite unabhängige Teile, ohne ungelesene Inhalte als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Weitere Skills sind optional. Bei fehlendem Zugriff fordere die benötigte Unterlage oder Passage an und bearbeite unabhängige Teile, ohne ungelesene Inhalte als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

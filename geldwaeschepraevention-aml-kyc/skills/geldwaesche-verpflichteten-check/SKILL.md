@@ -33,7 +33,7 @@ Berufsträger, Beschäftigungsform, Berufsausübungsgesellschaft und Niederlassu
 
 ## 5. Ausgabeformat
 
-Ausformulierter Pflichtenspiegel: „Für die Tätigkeit … ist … nach … verpflichtet. Ausgelöst sind …; noch nicht belegt ist …“. Tabelle mit Person, Tätigkeit, Norm, Pflicht und Aufsicht. Times New Roman 11 pt, dezimale Gliederung. Kein allgemeines Gütesiegel „GwG-konform“.
+Ausformulierter Pflichtenspiegel: „Für die Tätigkeit … ist … nach … verpflichtet. Ausgelöst sind …; noch nicht belegt ist …“. Tabelle mit Person, Tätigkeit, Norm, Pflicht und Aufsicht. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein allgemeines Gütesiegel „GwG-konform“.
 
 ## 6. Beispiele
 

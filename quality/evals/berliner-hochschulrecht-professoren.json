@@ -637,9 +637,10 @@
       "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
       "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
       "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
-      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "80086bc3a9dddf69a2364a7d000060a0b7e178fc3d37b25bbcadad6eee7fb969"
+    "sha256": "0a325ad00c2d259764c741af689585d384e47b61238d518c24ea5ba4e314e770"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -648,9 +649,10 @@
       "Normänderungen 2026 nach Gegenstand und Übergang differenziert.",
       "Zielgerichtete Fortsetzung bis zum vollständigen Produkt.",
       "Status, Zusage, Wissenschaftsfreiheit und Verfahren getrennt.",
-      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert."
+      "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "62bba69ba6a4824d8d6248e6f2002e435e914d033b8d3a5351b06aec3ed95ebd"
+    "sha256": "8c1a40c7c0770c08cb862abcb35cd329b24e084cb20eadd180aeed30f39dbc90"
   },
   "focus_review": {
     "verdict": "revised",
@@ -659,13 +661,14 @@
       "Zehn Fachrouten integriert.",
       "Konkrete Zuständigkeit, Frist und Beleglage statt Einheitsablauf.",
       "Überschriften auf genau eine H1 und hierarchisch fortlaufende Dezimalgliederung vereinheitlicht; Fließtext unverändert.",
-      "Hauptskill verwendet mitgelieferte Fachreferenzen; keine Abhängigkeit von getrennt herunterladbarer Werkstatt."
+      "Hauptskill verwendet mitgelieferte Fachreferenzen; keine Abhängigkeit von getrennt herunterladbarer Werkstatt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-hochschulrecht-professoren/berliner-hochschulrecht-professoren-hauptproblem.md",
     "skill_path": "berliner-hochschulrecht-professoren/skills/professur-mandat-zum-ergebnis-fuehren/SKILL.md",
-    "prompt_sha256": "490c96cb6bccdda70f5136fc3c0681941d58590deadce5c2389ccf009047a149",
-    "skill_sha256": "e100ca41ee98e3613ea56089af70925a00bc8667ab8891c7c79cada98f4e2322"
+    "prompt_sha256": "377bc17d3838e2747a78871743dceb12d33db4cc9207cb3bd915a64ba8d7d32b",
+    "skill_sha256": "12e92c56c635a8aa1d5665bf14305c32858c946adba78bf7e963d07a7168e6e5"
   }
 }

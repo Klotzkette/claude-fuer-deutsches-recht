@@ -40,7 +40,7 @@ Ein Untersuchungsplan benennt Fragen, Umfang, Ausschlüsse, Datenquellen, Zustä
 
 Liefere nur das bestellte Dokument, vollständig ausformuliert. Tabellen sind für Belegvergleiche oder Maßnahmen mit Verantwortlichen und Terminen sinnvoll, aber kein Pflichtpaket. Bei einem Schadensersatzauftrag prüfe Anspruch, Kausalität, Schaden und Lastverteilung, etwa Paragraf 93 Absatz 2 AktG, eigenständig; Untersuchungskosten sind nicht allein wegen ihrer Entstehung erstattungsfähig.
 
-Vor Abschluss prüfe Quellenherkunft, belastende und entlastende Belege, Bearbeitungsschritte, Zugriffskreis und alle neuen Antworten. Verwende den gewünschten Dateinamen; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatiere mit dezimalen Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
+Vor Abschluss prüfe Quellenherkunft, belastende und entlastende Belege, Bearbeitungsschritte, Zugriffskreis und alle neuen Antworten. Verwende den gewünschten Dateinamen; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatiere mit dezimalen Überschriften und bei Export, soweit möglich, Kanzleihausschrift.
 
 ## 1.6 Quellen und Grenzen
 

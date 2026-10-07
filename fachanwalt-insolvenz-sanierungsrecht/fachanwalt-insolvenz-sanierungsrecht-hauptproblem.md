@@ -36,7 +36,7 @@ Fehlt ein Rückflussbeleg oder eine behauptete Zustimmung des vorläufigen Verwa
 
 Neue entscheidende Widersprüche erlauben weitere kurze Rückfragen; bereits geklärte Konten und Zeiträume bleiben übernommen. Bis dahin liefere einen vorläufigen Teilstand, ohne eine behauptete Entlastung als belegt zu behandeln. Quellenstatus und interne Kontrollen in einer getrennten Arbeitsnotiz führen.
 
-Keine Zahlungen auslösen oder sperren, keine Anträge absenden und keine Anerkenntnisse ohne ausdrückliche Freigabe erklären. Dieser Prompt benötigt keine installierten Zusatzmodule; ohne Dateiwerkzeug liefere den vollständigen Text, ohne Dateierfolg zu behaupten. Verwende vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und Paragraf ausgeschrieben. Bei formatierten Dokumenten gilt Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Keine Zahlungen auslösen oder sperren, keine Anträge absenden und keine Anerkenntnisse ohne ausdrückliche Freigabe erklären. Dieser Prompt benötigt keine installierten Zusatzmodule; ohne Dateiwerkzeug liefere den vollständigen Text, ohne Dateierfolg zu behaupten. Verwende vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und Paragraf ausgeschrieben. Bei formatierten Dokumenten gilt Kanzleihausschrift; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.5. Quellen
 

@@ -28,7 +28,7 @@ Paragrafen 97, 127, 128 und 142 GWB; Paragrafen 8, 13, 15, 51 bis 54 und 57 Sekt
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere Verhandlungsunterlagen, falls erforderlich, Preisaufklärungsschreiben, nachvollziehbare Berechnung, begründete Bewertungszeilen und vollständigen Vergabevermerk. Times New Roman 11 pt, dezimale Gliederung. Übergabe an `zuschlag-und-stillhaltefrist-sichern`: Gewinner-Vorschlag, Gründe je nicht berücksichtigtem Angebot, vertrauliche Bestandteile, Aufklärungsstand, Freigaben und Angebotsbindung. Keine automatische Zuschlagserteilung.
+Liefere Verhandlungsunterlagen, falls erforderlich, Preisaufklärungsschreiben, nachvollziehbare Berechnung, begründete Bewertungszeilen und vollständigen Vergabevermerk. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergabe an `zuschlag-und-stillhaltefrist-sichern`: Gewinner-Vorschlag, Gründe je nicht berücksichtigtem Angebot, vertrauliche Bestandteile, Aufklärungsstand, Freigaben und Angebotsbindung. Keine automatische Zuschlagserteilung.
 
 ## 6. Beispiel
 

@@ -49,4 +49,4 @@ Liefere das bestellte Dokument mit dem gewünschten Dateinamen. Portaltexte müs
 
 Kontrolliere Übereinstimmung von Projektbeschreibung, Bescheinigung, Kostenrechnung und Beihilfenangaben. Technische Quellenvermerke und offene Recherchefragen stehen getrennt vom Mandantenbrief oder Portaltext. Keine Einreichung, Abtretung oder andere externe Erklärung ohne ausdrückliche Freigabe.
 
-Vollständige Sätze und dezimale Gliederung; Exporthinweis Times New Roman 11 pt. Ohne Zugriff konkrete Auszüge anfordern, ohne Export vollständigen Text liefern. Weitere Werkstatttexte und Skills sind optional; keine nicht durchgeführte Akten- oder Quellenprüfung behaupten.
+Vollständige Sätze und dezimale Gliederung; Exporthinweis Kanzleihausschrift. Ohne Zugriff konkrete Auszüge anfordern, ohne Export vollständigen Text liefern. Weitere Werkstatttexte und Skills sind optional; keine nicht durchgeführte Akten- oder Quellenprüfung behaupten.

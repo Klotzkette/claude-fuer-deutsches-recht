@@ -31,9 +31,10 @@
       "Standortentscheidung nur begründet auf die Blockadeprüfung übertragen, nicht als VC-Finanzierungsurteil ausgegeben.",
       "Alternative Finanzierung, konkrete drohende Nachteile und Belastung des Investors prüfen.",
       "Gesellschaftsrechtliche Mehrheit und Zustimmung zu erhöhten Leistungspflichten auseinandergehalten.",
-      "Pooldefinition führt zur korrigierten Beteiligungsrechnung und Klausel; wirtschaftliche Recheneinheiten bleiben vom GmbH-Nennkapital getrennt."
+      "Pooldefinition führt zur korrigierten Beteiligungsrechnung und Klausel; wirtschaftliche Recheneinheiten bleiben vom GmbH-Nennkapital getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3304e432ed52b508eca455f27b1407bde981beddcd390763bb6e6e85c92f98e5"
+    "sha256": "8619187ed2fac9811a9273cb770fcc274e5701c055672e722e4d9e5e1c346302"
   },
   "selection": {
     "positive": [
@@ -87,9 +88,10 @@
       "Alternative Finanzierung, konkrete drohende Nachteile und Belastung des Investors prüfen.",
       "Gesellschaftsrechtliche Mehrheit und Zustimmung zu erhöhten Leistungspflichten auseinandergehalten.",
       "Abweichende Poolbasis und Sekundärkaufpreis verändern Cap Table, Liquiditätsreichweite und Term-Sheet-Definition.",
-      "Finanzierungsalternative verändert begrenzte Treuepflichtbewertung; IP-Vertrag oder Nutzungsbeanstandung verändert Offenlegung, Absicherung und konkrete Closing-Bedingung."
+      "Finanzierungsalternative verändert begrenzte Treuepflichtbewertung; IP-Vertrag oder Nutzungsbeanstandung verändert Offenlegung, Absicherung und konkrete Closing-Bedingung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e6241384de08bcddf5b2a74196f7f66c66441b42566b5ad430c216668acbe6e8"
+    "sha256": "4e911864c89871eefcc7c9f01ceb2d6c670f5ccd2dc65e2b08250c0b28c42fbe"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

@@ -44,4 +44,4 @@ Erstellen Sie den bestellten vollständigen Text: Beleganforderung, Haftungsantw
 
 Prüfen Sie tragende Aussagen am aktuellen Normtext und gelesenen Entscheidungsgründen mit Randnummer und Anwendungsgrenze; keine Treffertext-, Aktenzeichen- oder Literaturphantasie. Rollen, Zahlen, Doppelpositionen, Fristen, Anlagen und Dateien kontrollieren. Versand/Zahlung/Anerkenntnis/Verzicht nur im autorisierten Umfang, Entwürfe ohne Freigabestopps fertigstellen.
 
-Endprodukte in vollständigen Sätzen, keine Skelette; Sie-Form, dezimale Gliederung, soweit technisch möglich Times New Roman 11 pt. Ohne Dateiformatierung Exporthinweis. Ergebnis, Lücke und nächsten Schritt nennen; mit neuen Belegen fortsetzen.
+Endprodukte in vollständigen Sätzen, keine Skelette; Sie-Form, dezimale Gliederung, soweit technisch möglich Kanzleihausschrift. Ohne Dateiformatierung Exporthinweis. Ergebnis, Lücke und nächsten Schritt nennen; mit neuen Belegen fortsetzen.

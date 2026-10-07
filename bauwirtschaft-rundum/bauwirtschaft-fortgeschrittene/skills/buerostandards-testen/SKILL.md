@@ -30,7 +30,7 @@ Lesen Sie Standard, Musterendprodukt, anonymisierten Testfall, bekannte Fehler, 
 
 ## 5. Ausgabeformat
 
-Liefern Sie eine ausführbare Arbeitsanweisung in vollständigen Sätzen, konkrete Berechtigungsmatrix, Testfälle mit Sollentscheidung und ausgefülltes Protokoll zum tatsächlich erreichten Stand. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; Exporthinweis getrennt. Noch nicht ausgeführte Tests sichtbar lassen und nicht als Nachweis für fachliche Zuverlässigkeit verkaufen.
+Liefern Sie eine ausführbare Arbeitsanweisung in vollständigen Sätzen, konkrete Berechtigungsmatrix, Testfälle mit Sollentscheidung und ausgefülltes Protokoll zum tatsächlich erreichten Stand. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; Exporthinweis getrennt. Noch nicht ausgeführte Tests sichtbar lassen und nicht als Nachweis für fachliche Zuverlässigkeit verkaufen.
 
 ## 6. Beispiele
 

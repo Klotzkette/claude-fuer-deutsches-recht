@@ -30,9 +30,10 @@
     "changes": [
       "VG Berlin 8 K 7/23 mit technischen Arbeiten, Zeit und Ressourcen statt obligatorischem Gantt-Diagramm verknüpft.",
       "Artikel 2 Nummern 84 bis 86 AGVO von Frascati-Leitlinien abgegrenzt; aktuelle Kostenstaffeln nach Paragraf 3 FZulG berücksichtigt.",
-      "BSFZ-Projekttext, Nachforderung oder Kostenrechnung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "BSFZ-Projekttext, Nachforderung oder Kostenrechnung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d6fa84cf5193dfdfda4f2cc62ad3c933ec8660ec3c6598c5ce7abfc997b0d3b5"
+    "sha256": "970528f0d3b58f0ccd25759f2528c2c9a1ace3b115a717444ac15ac9406eb548"
   },
   "selection": {
     "positive": [
@@ -84,9 +85,10 @@
     "changes": [
       "VG Berlin 8 K 7/23 mit technischen Arbeiten, Zeit und Ressourcen statt obligatorischem Gantt-Diagramm verknüpft.",
       "Artikel 2 Nummern 84 bis 86 AGVO von Frascati-Leitlinien abgegrenzt; aktuelle Kostenstaffeln nach Paragraf 3 FZulG berücksichtigt.",
-      "Technische Ungewissheit, ursprüngliche Planung versus Rekonstruktion, Ressourcenbezug, Stundenabweichung und zweistufige Rechtsbehelfsbearbeitung konkretisiert."
+      "Technische Ungewissheit, ursprüngliche Planung versus Rekonstruktion, Ressourcenbezug, Stundenabweichung und zweistufige Rechtsbehelfsbearbeitung konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b9d63960b3f13953f697265717aabf1211646c947f2da51dc2b1abca5020e427"
+    "sha256": "8d17ee6505326ddd45a4b00f164fa9b42188ca2db2519f4423fa05fd0069e2d6"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

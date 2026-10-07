@@ -35,7 +35,7 @@ Prüfe Artikel 6 Absätze 3 und 4, Artikel 49 Absatz 2, Anhang VIII Abschnitt B 
 
 ## 5 Ausgabeformat
 
-Liefere eine unterschriftsreife Begründung mit Produktversion, Funktionsumfang, Tatsachengrundlage, Subsumtion und Änderungsanlass oder ein versandfertiges ablehnendes Anbieteranschreiben. Keine bloße Aufzählung und keine Bestätigung nicht geprüfter Tests. Vollständig ausformulierte Sätze sind Pflicht; Skelette und Halbsätze sind als Endprodukt verboten. Times New Roman 11 pt, ausschließlich dezimale Überschriften mit Leerzeilen. Ohne native Ausgabe einen getrennten Exporthinweis geben. Tatsächlich fehlende Unterzeichnerangaben ausdrücklich markieren, keine Signatur nachahmen.
+Liefere eine unterschriftsreife Begründung mit Produktversion, Funktionsumfang, Tatsachengrundlage, Subsumtion und Änderungsanlass oder ein versandfertiges ablehnendes Anbieteranschreiben. Keine bloße Aufzählung und keine Bestätigung nicht geprüfter Tests. Vollständig ausformulierte Sätze sind Pflicht; Skelette und Halbsätze sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Überschriften mit Leerzeilen. Ohne native Ausgabe einen getrennten Exporthinweis geben. Tatsächlich fehlende Unterzeichnerangaben ausdrücklich markieren, keine Signatur nachahmen.
 
 ## 6 Beispiele
 

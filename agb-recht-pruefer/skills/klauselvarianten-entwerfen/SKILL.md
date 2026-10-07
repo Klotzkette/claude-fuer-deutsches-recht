@@ -31,7 +31,7 @@ Regelungsziel, Vertragsart, Verwender, Kundengruppe, bestehende Fassung, wirtsch
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Klausel, knappe rechtliche Begründung und gegebenenfalls eine echte Rückfallfassung liefern; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Platzhalter konkret kennzeichnen. Times New Roman 11 pt, dezimale Gliederung und Leerzeilen verwenden; bei Markdown Exporthinweis aufnehmen.
+Vollständig ausformulierte Klausel, knappe rechtliche Begründung und gegebenenfalls eine echte Rückfallfassung liefern; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Platzhalter konkret kennzeichnen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen verwenden; bei Markdown Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

@@ -33,7 +33,7 @@ Bis zur notwendigen Klärung den konkreten Vorgang nicht als freigegeben bezeich
 
 ## 5. Ausgabeformat
 
-Ausformulierter Trefferentscheid mit überprüften Identifikatoren, Rechtsakt, Kontrollbeziehung, Entscheidungsträger und Wiedervorlage. Times New Roman 11 pt, dezimale Gliederung. Keine „grüne“ Gesamtfreigabe bei ungeprüfter Kontrollstruktur.
+Ausformulierter Trefferentscheid mit überprüften Identifikatoren, Rechtsakt, Kontrollbeziehung, Entscheidungsträger und Wiedervorlage. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine „grüne“ Gesamtfreigabe bei ungeprüfter Kontrollstruktur.
 
 ## 6. Beispiele
 

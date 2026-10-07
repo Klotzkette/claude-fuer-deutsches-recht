@@ -41,9 +41,10 @@
       "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
       "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
       "Leerstart: Einladung, Leitungsskript oder Beschlussmängelprüfung anbieten. Dateien: Satzung und Versammlungsunterlagen still lesen; passende zwei bis drei Produkte klären. Klarer Auftrag: Gewähltes HV-Dokument unmittelbar ausarbeiten.",
-      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a1cf4eb076dc5993784e49cccc974d7165bf843967ba3c67f991376583e7a4d9"
+    "sha256": "7360d23f26b80c07b3dfc24ee8b398fad29c7e45397b9f946e76c0bbde509593"
   },
   "selection": {
     "positive": [
@@ -96,9 +97,10 @@
       "Nachweis eines Aktionärs am Satzungswortlaut und an der Verwahrbescheinigung prüfen.",
       "Börsennotierte und nicht börsennotierte AG sowie historische Präsenz-HV unterscheiden; virtuelle Rechte bleiben eigenständig.",
       "Satzung zur Einladung, streitiger Teilnahmenachweis, störungsabhängige Ansagen, Verschuldensbelege und Monatsfrist der Anfechtung.",
-      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme."
+      "Abgelaufene Ermächtigung sperrt virtuellen Einladungstext; wiederhergestellte Videoanträge führen zu dokumentierter Wiederaufnahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f45ff7c9ac92538263b3fe04ffbb3254a5482aa7bb4b9abb6f66b45b8d1a2411"
+    "sha256": "380a8b42ac0cac3bcd8b2e13a0436b5df1acecd1cda0e4791bb79dbd506813cc"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

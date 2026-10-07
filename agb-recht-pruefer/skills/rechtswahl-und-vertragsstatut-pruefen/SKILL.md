@@ -29,7 +29,7 @@ Vertragsart, Abschlussdatum, Parteien und Niederlassungen, gewöhnlicher Aufenth
 
 ## 5. Ausgabeformat
 
-Begründeter Statutsvermerk mit Anknüpfungstatsachen, gewähltem Recht, zwingendem Schutz, verbleibender Unsicherheit und ausformulierter Klausel. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
+Begründeter Statutsvermerk mit Anknüpfungstatsachen, gewähltem Recht, zwingendem Schutz, verbleibender Unsicherheit und ausformulierter Klausel. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 

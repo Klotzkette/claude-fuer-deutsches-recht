@@ -32,9 +32,10 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Leerstart: Vertrags-/Abrechnungskorrektur, Zeiterfassung mit Beteiligung oder Beschwerdebearbeitung wählen.",
       "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
-      "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln."
+      "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "84af1bf6da1e6d242fccf253fef6b90964a49b89bcd69838bd0f701cfc3ddad3",
+    "sha256": "419fc6bbed649c680607476c422c8df45d41aec53a9ce51624173eb43bbfd0aa",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -90,9 +91,10 @@
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Leerstart: Vertrags-/Abrechnungskorrektur, Zeiterfassung mit Beteiligung oder Beschwerdebearbeitung wählen.",
       "Nachweislich abgeschaltete Screenshots verändern die Rollout-Vorlage nur für die verbleibenden Funktionen; neue Zeitbuchung verändert Monatskorrektur und Mitarbeiterschreiben.",
-      "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln."
+      "Technische Konfiguration und Anbieterversprechen, Bruttoanspruch und tatsächliche Auszahlung sowie Beschwerde, Schutzmaßnahme und Sanktion trennen; Austrittsorganisation nicht als wirksame Kündigung behandeln.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2cc9efba6db7c50f41f934f74c9ece468e5ed9912dc5bbb9cc7668416acb98b9",
+    "sha256": "0bc554b0feb856476a256bdcf5ecc22eda29fbdece8174c26a3d8391f9be680c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

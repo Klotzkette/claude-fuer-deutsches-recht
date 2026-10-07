@@ -44,7 +44,7 @@ Quelle: [Paragraf 80 VwGO](https://www.gesetze-im-internet.de/vwgo/__80.html).
 
 Ordne Kooperationsstand, Eingangsbelege und mögliche offene Verfahren nachvollziehbar. Bei Fotos und Filmen Herstellung und Veröffentlichung unterscheiden; Paragraf 23 KunstUrhG einschließlich Absatz 2 fallbezogen prüfen. Paragraf 201 StGB betrifft nichtöffentlich gesprochene Worte. Teilnehmer- und Ordnerdaten nicht unnötig erfassen oder verbreiten.
 
-Liefere das bestellte Dokument vollständig ausformuliert, nicht lediglich eine interne Gefahren- oder Fristentabelle. Im Ergebnis müssen Route, Zeiten, behauptete Gefahr und vorgeschlagene Alternative zusammenpassen. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden.
+Liefere das bestellte Dokument vollständig ausformuliert, nicht lediglich eine interne Gefahren- oder Fristentabelle. Im Ergebnis müssen Route, Zeiten, behauptete Gefahr und vorgeschlagene Alternative zusammenpassen. Nutzerdateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Dezimale Gliederung und soweit möglich Kanzleihausschrift verwenden.
 
 ## 1.6. Quellen und technische Grenzen
 

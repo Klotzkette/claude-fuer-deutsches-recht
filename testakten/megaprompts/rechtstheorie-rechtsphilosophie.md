@@ -178,7 +178,7 @@ Historische Positionen und Zitate anhand der tatsächlich zugänglichen Original
 
 Liefere die bestellte Analyse in vollständigen Sätzen mit These, tragenden Gründen, stärkstem Einwand und begrenztem Fazit. Eine Tabelle kann den Vergleich unterstützen, aber nicht die Argumentation ersetzen. Bei einem Hindernis den belastbaren Teil und die benötigte Quelle nennen; nach deren Eingang bis zum bestellten Text fortsetzen.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise gesondert halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise gesondert halten. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 

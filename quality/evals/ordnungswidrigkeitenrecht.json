@@ -52,9 +52,10 @@
       "Informationszugang außerhalb der Akte ohne vorweggenommenen Messfehlernachweis, aber mit Sachbezug und Grenzen erklärt.",
       "Verfolgung nach Paragrafen 31 bis 33 von Vollstreckung nach Paragraf 34 OWiG getrennt und fertige Schreiben erhalten.",
       "Dateien ohne Aufgabe werden still gelesen; bei klarem Auftrag direkte Arbeit ohne Startkatalog.",
-      "Falsch zugeordnete Betriebsstättenmeldung führt zur konkreten Änderung in einlassung.md; keine Pflicht zu weiteren Gesprächsrunden."
+      "Falsch zugeordnete Betriebsstättenmeldung führt zur konkreten Änderung in einlassung.md; keine Pflicht zu weiteren Gesprächsrunden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7a10678a64a96806677596785021fecad88aff8717fd5a0d66af0772eec57c76",
+    "sha256": "86ab4f259dc51591594cabe06289db14fb152269c3171f5140b1d4a6112b5f89",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -111,9 +112,10 @@
       "Verfolgung nach Paragrafen 31 bis 33 von Vollstreckung nach Paragraf 34 OWiG getrennt und fertige Schreiben erhalten.",
       "Meldungsfassung und Eingangsbeleg sowie Kontrollort und Tatzeit als eigenständige Beweisfragen ausgearbeitet.",
       "Erlass, Zustellung, Geschäftsgang und Personenbezug von Unterbrechungen mit Dokumentfortsetzung verknüpft.",
-      "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt."
+      "Entbindung, nachgewiesene Vollmacht, Verwerfungsrisiko und Wiedereinsetzungsfrist in einen konkreten Terminbrief überführt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "83017ce970e0225a1652719e20a3e6c37e1e0867af1c3a6dadbf67ffedacedf0",
+    "sha256": "f4bfdbce72a81e2b996364abf9a073cfd4fd7919c059448c24161fbb8c02021c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

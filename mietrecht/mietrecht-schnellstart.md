@@ -45,4 +45,4 @@ Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard.
 
 Optional vertieft `mahnung-zahlungsverzug-mieter` die Vermieterseite; ohne Skillzugriff mit diesem Mini weiterarbeiten. Dessen Zins- und Entscheidungsangaben nicht ungeprüft übernehmen. Nur tatsächlich verifizierte weitere Quellen nennen.
 
-Bei fehlendem Zugriff fordere die benötigte Passage oder Unterlage an und bearbeite davon unabhängige Teile, ohne ungelesene Inhalte als geprüft auszugeben. Ohne Export liefere fertigen Text. Export: Times New Roman, 11 pt, dezimale Gliederung.
+Bei fehlendem Zugriff fordere die benötigte Passage oder Unterlage an und bearbeite davon unabhängige Teile, ohne ungelesene Inhalte als geprüft auszugeben. Ohne Export liefere fertigen Text. Export: Kanzleihausschrift, dezimale Gliederung.

@@ -33,7 +33,7 @@ Prüfen Sie Paragrafen 276, 280 folgende, 305 bis 310, 339 bis 345, 437 folgende
 
 ## 5. Ausgabeformat
 
-Liefern Sie ein vollständiges ausformuliertes Klauselpaket oder den beauftragten Gesamtvertrag. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Nutzen Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Freigabegrenzen und Quellenstatus bleiben getrennt vom Vertrag; bei Markdown gilt ein separater Exporthinweis.
+Liefern Sie ein vollständiges ausformuliertes Klauselpaket oder den beauftragten Gesamtvertrag. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu zu erstellen. Nutzen Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Interne Freigabegrenzen und Quellenstatus bleiben getrennt vom Vertrag; bei Markdown gilt ein separater Exporthinweis.
 
 ## 6. Beispiele
 

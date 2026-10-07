@@ -47,7 +47,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Vertragsfassung, gegebenenfalls ausformulierte Verhandlungsantwort und eine getrennte kurze Abschlussnotiz. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Im Vertrag keine internen Prüffelder, Quellenprotokolle oder technischen Exporthinweise. Platzhalter vor Bezeichnung als unterschriftsfertig auf entscheidende Lücken kontrollieren.
+Liefere vollständige Vertragsfassung, gegebenenfalls ausformulierte Verhandlungsantwort und eine getrennte kurze Abschlussnotiz. Ausformulierungspflicht: Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Im Vertrag keine internen Prüffelder, Quellenprotokolle oder technischen Exporthinweise. Platzhalter vor Bezeichnung als unterschriftsfertig auf entscheidende Lücken kontrollieren.
 
 ## 6. Beispiele
 

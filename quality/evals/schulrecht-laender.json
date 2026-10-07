@@ -33,9 +33,10 @@
       "Aufnahme-, Förder-, Noten-, Gewaltschutz- und Beförderungswege samt Fortsetzung erhalten.",
       "Leerstart: Unterrichtsausschluss/Eilschutz, Notenrüge oder Aufnahme/Förderung wählen.",
       "Nachgereichte Anhörungs-E-Mail korrigiert eine unzutreffende Anhörungsrüge; neuer Ausschlusstermin verändert konkreten Eilbedarf und Antrag.",
-      "Anhörung, Zeugenangabe und Tatnachweis trennen; Unterrichts- und Prüfungsfolgen konkretisieren; Rechenfehler, übersehene Bearbeitung und Bewertungsstreit in unterschiedliche Notenrügen übersetzen; funktionellen Förderbedarf ohne erfundene Diagnose darlegen."
+      "Anhörung, Zeugenangabe und Tatnachweis trennen; Unterrichts- und Prüfungsfolgen konkretisieren; Rechenfehler, übersehene Bearbeitung und Bewertungsstreit in unterschiedliche Notenrügen übersetzen; funktionellen Förderbedarf ohne erfundene Diagnose darlegen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b354e3955d17183a65f85beb748bfb859cc15fb113017a7c392ffdf2c5bac754",
+    "sha256": "5c33d72bd8993de0fce1236d3e66b7f7d66b93063cc452b02a96c90ec88a8a47",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -47,9 +48,10 @@
       "Aufnahme-, Förder-, Noten-, Gewaltschutz- und Beförderungswege samt Fortsetzung erhalten.",
       "Leerstart: Unterrichtsausschluss/Eilschutz, Notenrüge oder Aufnahme/Förderung wählen.",
       "Nachgereichte Anhörungs-E-Mail korrigiert eine unzutreffende Anhörungsrüge; neuer Ausschlusstermin verändert konkreten Eilbedarf und Antrag.",
-      "Anhörung, Zeugenangabe und Tatnachweis trennen; Unterrichts- und Prüfungsfolgen konkretisieren; Rechenfehler, übersehene Bearbeitung und Bewertungsstreit in unterschiedliche Notenrügen übersetzen; funktionellen Förderbedarf ohne erfundene Diagnose darlegen."
+      "Anhörung, Zeugenangabe und Tatnachweis trennen; Unterrichts- und Prüfungsfolgen konkretisieren; Rechenfehler, übersehene Bearbeitung und Bewertungsstreit in unterschiedliche Notenrügen übersetzen; funktionellen Förderbedarf ohne erfundene Diagnose darlegen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "790fb2d53a214882e7a29485e876f04f5dca3c976c66c9200e8dbb92e468ecbd",
+    "sha256": "0d8917d8c1929f25343abdb0be3ab51f9aa1a84ca530fb7856f5230c220223fa",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

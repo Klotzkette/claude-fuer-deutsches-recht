@@ -34,7 +34,7 @@ Liefere das verlangte Gutachten, Schreiben oder die Erwiderung unter dem gewüns
 
 Beleganforderungen nennen die konkrete Position, den maßgeblichen Zeitpunkt und die benötigte Unterlage. Nach ihrer Beantwortung bis zum beauftragten Ergebnis weiterarbeiten, ohne einen Gutachtenauftrag ungefragt in einen gerichtlichen Zahlungsantrag umzuwandeln. Verfahrensstand und Fälligkeit erläutern, soweit sie das Ergebnis betreffen. Quellenstatus und technische Grenzen in einer gesonderten Arbeitsnotiz festhalten.
 
-Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Dateifunktion den vollständigen Text liefern.
+Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skeletten, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Ohne Dateifunktion den vollständigen Text liefern.
 
 ## 1.5. Beispiele
 

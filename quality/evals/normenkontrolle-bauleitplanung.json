@@ -52,9 +52,10 @@
       "Paragraf 13b anhand BVerwG 4 CN 3.22 ersetzt, Paragraf 215a nicht als neuer Beschleunigungsweg 2026 dargestellt.",
       "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
       "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
-      "Dateien ohne Aufgabe still lesen, klare Aufträge direkt bearbeiten; Gegenbeleg aus der Abwägung ändert den vorhandenen Rügetext."
+      "Dateien ohne Aufgabe still lesen, klare Aufträge direkt bearbeiten; Gegenbeleg aus der Abwägung ändert den vorhandenen Rügetext.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "382c8b4c64c95a0ae2ad26debc0c2289a539fa7e67e5ef07009806bc58a05080"
+    "sha256": "5d22db1f7b8471f88befcd704e8446926567e624c0bbe85d207958934a29a4f7"
   },
   "selection": {
     "positive": [
@@ -109,9 +110,10 @@
       "Ungeprüfte fünf Altfundstellen entfernt; an ihrer Stelle konkreter Rügetext und Antrag auf Unwirksamerklärung.",
       "Bestehende zwei Fristen, dokumentbezogene Rückfragen, Fortsetzung und auftragsbegrenzte Fertigstellung erhalten.",
       "Planstände und ergänzendes Verfahren, Plannachbar gegenüber unmittelbar betroffenem Eigentümer sowie mehrere Antragsteller unterschieden.",
-      "Vorhandene Einwendungen, gegenläufige Abwägungsbelege, abweichende Gutachtenvarianten und konkreter Vollzug in Rüge- und Antragstext überführt."
+      "Vorhandene Einwendungen, gegenläufige Abwägungsbelege, abweichende Gutachtenvarianten und konkreter Vollzug in Rüge- und Antragstext überführt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a018c6c1e7d31e41e0acbe9e372a9ff16c26e82a4ca5c4d73325fcae2d6c7d20"
+    "sha256": "4b14ffa4627aa13f38abfaa237a57e35cbee9be7d90f5b5d72033167dace983d"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

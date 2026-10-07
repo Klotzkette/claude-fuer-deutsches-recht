@@ -43,7 +43,7 @@ Prüfstand 2. Oktober 2026. Maßgeblich sind [BGB](https://www.gesetze-im-intern
 
 ## 5. Ausgabeformat
 
-Liefere die bestellten Klauseln oder Vertragsänderungen in vollständigen, ausformulierten Sätzen, keine Klauselskelette. Eine getrennte Verhandlungsnotiz erklärt Ausgangsposition, Alternative und nicht gedeckte Risiken. Formatstandard: Times New Roman 11 pt, dezimale Gliederung. Ohne Export vollständigen Text liefern. Keine Unterzeichnung, Datenfreigabe oder technische Änderung ohne Auftrag.
+Liefere die bestellten Klauseln oder Vertragsänderungen in vollständigen, ausformulierten Sätzen, keine Klauselskelette. Eine getrennte Verhandlungsnotiz erklärt Ausgangsposition, Alternative und nicht gedeckte Risiken. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Export vollständigen Text liefern. Keine Unterzeichnung, Datenfreigabe oder technische Änderung ohne Auftrag.
 
 ## 6. Beispiele
 

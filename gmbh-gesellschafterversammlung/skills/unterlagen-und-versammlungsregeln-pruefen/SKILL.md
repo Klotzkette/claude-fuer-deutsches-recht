@@ -55,7 +55,7 @@ Beachten Sie [Zitierweise](../../references/zitierweise.md). Belegen Sie tragend
 
 Liefern Sie einen vollständig ausformulierten Verfahrensvermerk mit kurzer Entscheidung zur weiteren Vorbereitung, nachvollziehbarer Regelübersicht und konkreten offenen Fragen. Tabellen dürfen Fundstellen und Daten verdichten; sie ersetzen die begründete Anwendung auf den Auftrag nicht. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Verwerfen und überarbeiten Sie ein solches Ergebnis vor der Ausgabe.
 
-Formatierte Enddokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe steht ein getrennter Exporthinweis außerhalb des Empfängertextes. Behaupten Sie keine erzeugte Datei oder Formatierung, die tatsächlich fehlt.
+Formatierte Enddokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe steht ein getrennter Exporthinweis außerhalb des Empfängertextes. Behaupten Sie keine erzeugte Datei oder Formatierung, die tatsächlich fehlt.
 
 ## 6 Beispiele
 

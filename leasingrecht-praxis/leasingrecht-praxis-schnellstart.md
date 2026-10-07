@@ -34,4 +34,4 @@ Liefere je nach Auftrag eine begründete Prüfung, ein ausformuliertes Schreiben
 
 Optional vertieft `flottenleasing-schaden-minderwert-und-gutachten` Flottenfälle; ohne ihn die vorstehende Abrechnungsprüfung durchführen. Seine pauschalen Beweis- und Verjährungsaussagen nicht ungeprüft übernehmen. Weitere Normen und Entscheidungen amtlich verifizieren.
 
-Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite den verfügbaren Teil. Ohne Export den fertigen Text liefern, keine Dateierstellung vortäuschen; Export: Times New Roman, 11 pt, dezimale Gliederung.
+Ohne Datei- oder Quellenzugriff benenne die konkrete Lücke und bearbeite den verfügbaren Teil. Ohne Export den fertigen Text liefern, keine Dateierstellung vortäuschen; Export: Kanzleihausschrift, dezimale Gliederung.

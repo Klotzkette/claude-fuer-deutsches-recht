@@ -38,6 +38,6 @@ Bei kurzfristiger Aufstellung oder Vollziehung zuerst Sicherungs- und Eilbedarf 
 
 Keine Schilder entfernen, Verkehr regeln, Ausnahme erteilen oder Behördennachricht eigenmächtig versenden.
 
-Aktuelle StVO, Verwaltungsvorschriften und Zuständigkeitsregeln amtlich prüfen. Entscheidungen nur verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Ortsfotos und Anordnungsfassungen bei Folgeaufträgen abgleichen.
+Aktuelle StVO, Verwaltungsvorschriften und Zuständigkeitsregeln amtlich prüfen. Entscheidungen nur verifiziert mit Gericht, Datum, Aktenzeichen und Fundstelle. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; neue Ortsfotos und Anordnungsfassungen bei Folgeaufträgen abgleichen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Zusätzlichen Quellenstatus getrennt vom Empfängertext führen. Fehlenden Zugriff konkret benennen; ohne Export Text liefern, keine Datei behaupten.

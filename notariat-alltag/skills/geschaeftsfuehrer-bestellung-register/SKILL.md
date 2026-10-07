@@ -37,7 +37,7 @@ GmbHG Paragrafen 6, 35, 38, 39, 46 und 78; HGB Paragraf 12; BGB Paragraf 181. [A
 
 ## 5. Ausgabeformat
 
-Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
+Beschlussentwurf, Anmeldeentwurf, Nachweise und Vorlagevermerk in vollständigen Sätzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Kennzeichnung als Entwurf zur notariellen Prüfung. Keine Halbsatzvorlagen, vorausgefüllten Unterschriften oder behaupteten Registereinträge.
 
 ## 6. Beispiel
 

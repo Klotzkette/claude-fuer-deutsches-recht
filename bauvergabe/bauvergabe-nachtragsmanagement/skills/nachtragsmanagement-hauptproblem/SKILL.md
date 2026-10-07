@@ -48,7 +48,7 @@ EuGH, Urt. v. 07.09.2016 – Az. C-549/14 (Finn Frogne), [amtlicher Volltext](ht
 
 Beginnen Sie das Mandantenergebnis mit einer konkreten Empfehlung und ihrer tragenden Begründung. Fügen Sie das beauftragte Enddokument bei. Eine interne Notiz erklärt Beleglage, Betragsspanne, Rechtsstand und offene Punkte; technische Recherchevermerke gehören nicht in das versandfertige Schreiben.
 
-Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
+Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
 
 ## 6. Beispiele
 

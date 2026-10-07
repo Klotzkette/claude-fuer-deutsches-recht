@@ -9,9 +9,10 @@
       "Gegenstand, Gesetzesstand und Mandatsrolle vor der Rechtsfolge bestimmen.",
       "Landesgrundrechte, historischer Artikel 41 und aktuelle Rechtsschutzwege ausdrücklich getrennt.",
       "Kein fachfremder Reformexkurs; Betriebsübergang bleibt fallbezogen.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "444957bfeb86f961081dbdea1fce5014b369263a70c269cac3a4f679cd6b56bc"
+    "sha256": "290e91cdf999be163c894f09f1f11152e0d68cca8124ec5bdd4b9a495355ad84"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -20,9 +21,10 @@
       "Eigenständige Behandlung von Anteilen, Gemeinwirtschaft, Kompetenz und Landesverfassung.",
       "Anlagen- und Eigenkapitalbewertung sowie Finanzierungsbedingungen auseinandergehalten.",
       "Nach Antworten konkrete Gesetzes-, Beratungs- oder Stellungnahmefassung fertigstellen.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ff7a2e6c4e66dac44fae87847b0b7676433994aa8af6123e38453928626a819e"
+    "sha256": "799a9c66d9a57580961dd82a1f1111e596bfccc04e9e2f19112a5a53e7ddb9a9"
   },
   "selection": {
     "target_skill": "vergesellschaftungsvorhaben-einordnen",

@@ -398,18 +398,20 @@
     "reason": "Eigenständige fünf Sprachwege einschließlich Rückübertragung mit Bedeutungsschutz.",
     "changes": [
       "Form, Modalität, Fristen und Aussageart ausdrücklich erhalten.",
-      "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert."
+      "Rückübertragung, fehlendes Original und Zahlenbezüge auch im kompakten Prompt abgesichert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1d41884347a5d85f27ed43630096ad37e128cb832600987d30ca271b1c3b703d"
+    "sha256": "cef622493eab9fa47d052b4cf7c4b451ceab4687a022cc1141a4c4bb7ed97bed"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Ausführliche originale Anleitung für verständliche rechtliche Kommunikation.",
     "changes": [
       "Mehrdeutigkeit, Rückfragen, Übersetzungsgrenzen und unabhängige Endprüfung.",
-      "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern."
+      "Rückübertragung, parallele Fassungen, auffindbare Angaben und Aufgabenprüfung mit tatsächlichen Lesern.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ac1c63ca315b00435316dd504923e6fec7bb5f2970cea73c57588a84bcbee883"
+    "sha256": "008bd2e08152ba3a8873e67a6b6d61d7dfcb056069e66b2502afe64a6ca2fca6"
   },
   "source_audit_2026_10_01": {
     "checked_on": "2026-10-01",

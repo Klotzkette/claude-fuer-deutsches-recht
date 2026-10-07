@@ -44,5 +44,5 @@ Beantworte unabhängige Fragen vorläufig und vervollständige nach der Klärung
 ## Qualitätsanker
 
 - Normen am einschlägigen Geltungsstand und Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle sichern; `references/quellenhygiene.md` und `references/zitierweise.md` sind optionale Vertiefungen.
-- Spezialskills nur bei Bedarf verwenden. Das fertige Memo wird vollständig ausformuliert, unter dem gewünschten Dateinamen und bei formatiertem Export in Times New Roman 11 Punkt mit dezimaler Gliederung geliefert. Technische Arbeitsnotizen bleiben getrennt.
+- Spezialskills nur bei Bedarf verwenden. Das fertige Memo wird vollständig ausformuliert, unter dem gewünschten Dateinamen und bei formatiertem Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung geliefert. Technische Arbeitsnotizen bleiben getrennt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.

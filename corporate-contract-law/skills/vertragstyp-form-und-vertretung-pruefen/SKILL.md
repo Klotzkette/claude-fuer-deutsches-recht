@@ -29,7 +29,7 @@ Prüfen Sie insbesondere Paragrafen 125 bis 127, 164 bis 181, 311b, 631, 650 und
 
 ## 5. Ausgabeformat
 
-Liefern Sie das beauftragte Dokument und erforderliche Form- oder Vertretungshinweise getrennt, jeweils in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown folgt ein getrennter Exporthinweis. Bezeichnen Sie einen noch beurkundungsbedürftigen Text nicht als privat unterschriftsreife Endfassung.
+Liefern Sie das beauftragte Dokument und erforderliche Form- oder Vertretungshinweise getrennt, jeweils in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Schreiben Sie „Paragraf“ aus; bei Markdown folgt ein getrennter Exporthinweis. Bezeichnen Sie einen noch beurkundungsbedürftigen Text nicht als privat unterschriftsreife Endfassung.
 
 ## 6. Beispiele
 

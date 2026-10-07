@@ -35,7 +35,7 @@ Amtliche Register und Normtexte sowie amtliche Entscheidungsdatenbanken nutzen; 
 
 Liefere die bestellte Beratung, Anmeldung oder den Schriftsatz in vollständigen Sätzen. Bei einem Hindernis den belegten Teil und den genau benötigten Beitrag benennen, nach dessen Eingang bis zur Endfassung weiterarbeiten. Keine ungefragte Klage und keine Pflichtausgabe einer farbigen Risikomatrix.
 
-Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Externe Meldung, Versand oder Einreichung nur mit Freigabe.
+Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis. Externe Meldung, Versand oder Einreichung nur mit Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 

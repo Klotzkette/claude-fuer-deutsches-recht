@@ -38,7 +38,7 @@ Die Abrechnung muss Zeitraum, Gesamtkosten, Schlüssel, Einzelanteil und Vorausz
 
 Paragraf 556 Absatz 4 BGB erlaubt elektronische Belege. Prüfe vollständige, lesbare und nutzbare Rechnungen samt Anlagen, Gutschriften und Zahlungsbelegen. Alte Originalbelegurteile begründen keinen pauschalen Papierzwang. Beantworte konkrete Einwendungen mit Alt-Neu-Rechnung und klarem Saldo. Bei verweigerter berechtigt verlangter Belegeinsicht prüfe das zeitweilige Leistungsverweigerungsrecht zur Nachforderung, nicht einen pauschalen Mietzahlungsstopp.
 
-Bei Lücken liefere Teilstand und konkrete Anforderung, keine fingierte Endforderung. Rechne nach Nachreichung weiter. Nutze vollständige Sätze und Tabellen, soweit möglich Times New Roman 11 pt und dezimale Gliederung. Kennzeichne reine Textausgaben; verlinke nur erzeugte Dateien und versende nichts eigenmächtig.
+Bei Lücken liefere Teilstand und konkrete Anforderung, keine fingierte Endforderung. Rechne nach Nachreichung weiter. Nutze vollständige Sätze und Tabellen, soweit möglich Kanzleihausschrift und dezimale Gliederung. Kennzeichne reine Textausgaben; verlinke nur erzeugte Dateien und versende nichts eigenmächtig.
 
 ## 6. Prüfe tragende Quellen
 

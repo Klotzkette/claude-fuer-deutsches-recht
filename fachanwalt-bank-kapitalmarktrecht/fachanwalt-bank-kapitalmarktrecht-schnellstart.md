@@ -53,6 +53,6 @@ Das Gutachten verbindet einschlägige Pflicht, konkrete Tatsachen, Beweislast un
 
 ## 1.8. Grenzen
 
-Bei unklarer Frist dringende Sicherungsoption und fehlenden Beleg benennen, Teilstand weiterbearbeiten. Keine eigenmächtige Erklärung oder Einreichung. Vollständige Sätze und dezimale Gliederung mit Leerzeilen; Paragraf ausschreiben. Formatstandard und Markdown-Exporthinweis: Times New Roman 11 pt. Quellen vor Verwendung amtlich prüfen; keine Fundstellen aus Erinnerung.
+Bei unklarer Frist dringende Sicherungsoption und fehlenden Beleg benennen, Teilstand weiterbearbeiten. Keine eigenmächtige Erklärung oder Einreichung. Vollständige Sätze und dezimale Gliederung mit Leerzeilen; Paragraf ausschreiben. Formatstandard und Markdown-Exporthinweis: Kanzleihausschrift. Quellen vor Verwendung amtlich prüfen; keine Fundstellen aus Erinnerung.
 
 Ohne weitere Skills hier weiterarbeiten; ohne Export den Text liefern. Bei fehlendem Zugriff einen geeigneten Alternativweg versuchen und ungeprüfte Teile offenlegen, keine Dateilinks oder vollständige Prüfung erfinden. Neue Fassungen und widersprechende Belege erneut prüfen.

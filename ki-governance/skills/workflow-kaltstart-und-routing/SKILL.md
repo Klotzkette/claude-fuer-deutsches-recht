@@ -29,7 +29,7 @@ Fehlt die Beschreibung menschlicher Eingriffsmöglichkeiten, nach konkreter Befu
 
 Tragende Normen, Behördenzuständigkeit und Entscheidungen amtlich prüfen. Rechtsprechung nur mit überprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt; keine Literaturfundstellen aus Modellwissen. Optional ergänzt `references/zitierweise.md` die Zitierweise. Quellenstatus in einer getrennten Arbeitsnotiz halten.
 
-Das bestellte Dokument in vollständigen Sätzen unter der Nutzerbenennung liefern, nicht als Pflichtampel oder allgemeine Maßnahmenmatrix. Bei entscheidender Lücke den belastbaren Teil vorläufig benennen und nach Ergänzung fortsetzen. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
+Das bestellte Dokument in vollständigen Sätzen unter der Nutzerbenennung liefern, nicht als Pflichtampel oder allgemeine Maßnahmenmatrix. Bei entscheidender Lücke den belastbaren Teil vorläufig benennen und nach Ergänzung fortsetzen. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst mit getrenntem Exporthinweis.
 
 ## 1.5. Beispiel und Grenzen
 

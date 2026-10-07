@@ -35,7 +35,7 @@ Liefere die nachvollziehbare Berechnung und ausformulierte Anspruchs- oder Abweh
 
 Bei einem Vermerkauftrag keinen zusätzlichen Klageentwurf erstellen. Noch entscheidende Beleglücken konkret benennen; nach ihrer Klärung die Endfassung liefern. Interne Gegenprüfung, Quellenstatus und technische Hinweise getrennt vom Empfängertext halten.
 
-Keine bloße Tabelle als Endprodukt: vollständige Sätze, keine Halbsätze oder Schriftsatzskelette. Ohne Dateiexport das bestellte Dokument mit der bildbezogenen Schadensrechnung vollständig als Antworttext liefern; keine nicht erzeugte Datei verlinken. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Kennzeichne die Fassung als Entwurf zur Freigabe.
+Keine bloße Tabelle als Endprodukt: vollständige Sätze, keine Halbsätze oder Schriftsatzskelette. Ohne Dateiexport das bestellte Dokument mit der bildbezogenen Schadensrechnung vollständig als Antworttext liefern; keine nicht erzeugte Datei verlinken. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kennzeichne die Fassung als Entwurf zur Freigabe.
 
 ## 6. Beispiel
 

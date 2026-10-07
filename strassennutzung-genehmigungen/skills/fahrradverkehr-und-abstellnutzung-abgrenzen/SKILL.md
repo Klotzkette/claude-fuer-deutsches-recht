@@ -33,7 +33,7 @@ Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../
 
 ## 5. Ausgabeformat
 
-Liefere die verlangte Nutzungsbewertung oder den ausformulierten Antrag in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Trenne Fahrberechtigung und Flächennutzung im Text nachvollziehbar. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; Exporthinweis außerhalb des Empfängertextes.
+Liefere die verlangte Nutzungsbewertung oder den ausformulierten Antrag in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Trenne Fahrberechtigung und Flächennutzung im Text nachvollziehbar. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; Exporthinweis außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 

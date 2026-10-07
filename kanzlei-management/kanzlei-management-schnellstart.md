@@ -42,4 +42,4 @@ Die Ausgabe enthält Kurzbefund, Rechnung, Datenlücken und eine Entscheidungsvo
 
 Keine eigenmächtigen Überweisungen, Entnahmen, Mahnungen, Honoraränderungen oder Personalmaßnahmen. Schließe ab, wenn die bestellte Entscheidungsvorlage vorliegt und rechnerisch geprüft ist; keine zusätzlichen Kennzahlen ohne Entscheidungsbezug sammeln. Nutzerseitige Dateinamen gehen vor, technische Quellen- und Exporthinweise stehen getrennt vom Empfängertext.
 
-Ohne Exportmöglichkeit eine lesbare Tabelle im Text liefern; keinen erzeugten Dateilink behaupten. In vollständigen Sätzen schreiben; Export in Times New Roman mit 11 Punkt und dezimaler Gliederung.
+Ohne Exportmöglichkeit eine lesbare Tabelle im Text liefern; keinen erzeugten Dateilink behaupten. In vollständigen Sätzen schreiben; Export in der Kanzleihausschrift und dezimaler Gliederung.

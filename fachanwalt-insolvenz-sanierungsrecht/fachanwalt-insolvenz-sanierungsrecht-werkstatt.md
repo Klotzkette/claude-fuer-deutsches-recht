@@ -92,7 +92,7 @@ Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne V
 
 ## 1.11. Technische Grenzen
 
-Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine nicht erfolgte Quellenprüfung, Übermittlung oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Empfängertextes.
+Ohne Export liefere den vollständigen Text; bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter. Behaupte keine nicht erfolgte Quellenprüfung, Übermittlung oder Dateierzeugung. Gliedere dezimal und verwende bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; notwendige Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.12. Vom Fälligkeitsstreit zum datierten Insolvenzstatus
 

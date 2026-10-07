@@ -28,7 +28,7 @@ Entwurf, Anlassschreiben, Belege, geplanter Versandweg und Frist. Ohne Originalu
 
 ## 5. Ausgabeformat
 
-Ausformulierte, kurze Endfassung in Times New Roman, 11 pt, dezimal gegliedert. Getrennt höchstens drei vorrangige Prüfpunkte und der Hinweis: „Das ist ein Experiment und keine Rechtsberatung. Bitte prüfen Sie die Angaben vor dem Absenden.“ Die Empfängerfassung enthält keine technischen Prüfvermerke.
+Ausformulierte, kurze Endfassung in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal gegliedert. Getrennt höchstens drei vorrangige Prüfpunkte und der Hinweis: „Das ist ein Experiment und keine Rechtsberatung. Bitte prüfen Sie die Angaben vor dem Absenden.“ Die Empfängerfassung enthält keine technischen Prüfvermerke.
 
 ## 6. Beispiele
 

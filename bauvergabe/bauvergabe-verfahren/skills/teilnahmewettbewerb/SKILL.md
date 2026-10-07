@@ -43,7 +43,7 @@ Dieser Anker belegt nur die bezeichnete Aussage, nicht sämtliche Normen des Ski
 
 Liefern Sie Auswahlvermerk, begründete Bewerberentscheidungen, fertige Aufforderungen und eine Nachweisliste der noch zulässigen Ergänzungen.
 
-Das Endprodukt wird vollständig in grammatikalisch sauberen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ein solches Ergebnis ist vor Übergabe zu verwerfen und auszuformulieren. Tabellen dienen nur dem nachvollziehbaren Vergleich und ersetzen die rechtliche Begründung nicht. Formatierte Enddokumente verwenden, soweit technisch möglich, A4, Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown oder Chat folgt ein getrennter Exporthinweis; tatsächlich nicht erzeugte DOCX-/PDF-Dateien werden nicht behauptet.
+Das Endprodukt wird vollständig in grammatikalisch sauberen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; ein solches Ergebnis ist vor Übergabe zu verwerfen und auszuformulieren. Tabellen dienen nur dem nachvollziehbaren Vergleich und ersetzen die rechtliche Begründung nicht. Formatierte Enddokumente verwenden, soweit technisch möglich, A4, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown oder Chat folgt ein getrennter Exporthinweis; tatsächlich nicht erzeugte DOCX-/PDF-Dateien werden nicht behauptet.
 
 Trennen Sie Empfängertext und internen Prüfvermerk. Kontrollieren Sie ausdrücklich, ob das bestellte Arbeitsprodukt vorliegt und ob die stärkste fallbezogene Gegenposition sowie ihre Belege geprüft wurden.
 

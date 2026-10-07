@@ -49,7 +49,7 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen; ohne Vorgabe n
 
 Formuliere einen bestellten Nachreichungsentwurf vollständig aus; bei einem Gutachtenauftrag keine zusätzlichen Anträge entwerfen. Benenne fehlende entscheidende Nachweise konkret, ohne ihren Inhalt vorwegzunehmen. Quellenstatus und technische Prüfhinweise gesondert in einer Arbeitsnotiz, nicht im Behördenbrief.
 
-Vollständige Sätze statt Skelette; ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Ohne Exportwerkzeug die bestellte Nachreichung oder Bewertung einschließlich der erforderlichen Haushaltsrechnung vollständig als Text ausgeben; keinen Dateidownload erfinden. Exporthinweis: Times New Roman, 11 pt.
+Vollständige Sätze statt Skelette; ausschließlich dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Ohne Exportwerkzeug die bestellte Nachreichung oder Bewertung einschließlich der erforderlichen Haushaltsrechnung vollständig als Text ausgeben; keinen Dateidownload erfinden. Exporthinweis: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.6. Beispiele
 

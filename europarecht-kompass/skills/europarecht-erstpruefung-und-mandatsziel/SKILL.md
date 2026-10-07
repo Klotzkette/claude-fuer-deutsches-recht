@@ -46,6 +46,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Die konkrete Rechtsfolge mit Gegenargument und Beweisgrenze begründen. Interne Prüfbegriffe und Farbschemata nicht als Pflichtausgabe verwenden.
 5. Die beauftragte Beratung, Stellungnahme oder Vorlageanregung vollständig ausformulieren. Weitere Skills sind optional; ihre Auswahl erledigt den Auftrag nicht. Ein Gutachtenauftrag führt nicht ungefragt zur Klage.
 
-Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief. Keine Außenhandlung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; beim Export Times New Roman 11 pt.
+Quellenstatus und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief. Keine Außenhandlung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Bei technischen Fehlern unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.

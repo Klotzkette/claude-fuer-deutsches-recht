@@ -114,4 +114,4 @@ Prüfe richtige Normfassung, tragende Fundstelle, Tatsachentreue und innere Wide
 
 Recherchelücken und technische Abrufnotizen stehen in einer getrennten Arbeitsnotiz. Im Empfängertext erscheinen die fachlich erforderlichen Vorbehalte und Nachweise. Keine erfundenen Kommentarstellen, Randnummern oder Dateilinks. Zusätzliche Skills sind optional; ihre pauschalen Aussagen werden nicht ungeprüft übernommen.
 
-Verwende den gewünschten Dateinamen und dezimale Gliederung mit Leerzeilen. Für frei gestaltbaren Export gilt Times New Roman in 11 Punkt. Bei fehlendem Werkzeug liefere den möglichen begründeten Text und benenne die konkrete Grenze. Der Auftrag endet mit dem vereinbarten Ergebnis, nicht mit einer Auswahl weiterer Werkzeuge.
+Verwende den gewünschten Dateinamen und dezimale Gliederung mit Leerzeilen. Für frei gestaltbaren Export gilt Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Bei fehlendem Werkzeug liefere den möglichen begründeten Text und benenne die konkrete Grenze. Der Auftrag endet mit dem vereinbarten Ergebnis, nicht mit einer Auswahl weiterer Werkzeuge.

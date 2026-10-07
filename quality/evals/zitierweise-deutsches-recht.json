@@ -29,9 +29,10 @@
     "reason": "Kurzprompt vollständig erneut gelesen. Drei Dokumentwege, sachliche Korrektur nach nachgereichter Passage und historische Auflagenzuordnung konkretisiert; vorhandene Quellen- und EuGH-Grenzen erhalten.",
     "changes": [
       "Fußnotenkorrektur, Gutachtenbelegprüfung und historischer Literaturapparat als konkrete Einstiegswege.",
-      "Abwägungsanforderung statt pauschaler Zulässigkeit, historische Palandt-Auflage und Folgekorrekturen an Kurzbelegen ausgearbeitet."
+      "Abwägungsanforderung statt pauschaler Zulässigkeit, historische Palandt-Auflage und Folgekorrekturen an Kurzbelegen ausgearbeitet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d10b621db603890c1aa404f8f2852d236bb6767e3513685ddb789c0fc056456f",
+    "sha256": "680e0b8741a9f07cdbf69c8c010e543e894601cecc405ccdc11c1492f55fd38a",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -41,9 +42,10 @@
     "changes": [
       "Tragende Begründung von referierter Vorinstanz und Zurückverweisung trennen; gegenteilige Einschränkungen in den Satz einarbeiten.",
       "Historische Ausgabe erhalten und aktuellen Nachweis nur für aktuelle Aussagen verlangen.",
-      "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen."
+      "Nachgelieferte Passage verändert Text und alle Kurzbelege; Quellenprotokoll und Empfängertext bis zur konsistenten Fassung führen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3686d078c03225584d116cfd77cee90c2f4434590adb54b50cc135bd907579a3",
+    "sha256": "645374501ed8cf2eee23c8e1ad37d54ac4b75df19a7c57ae780cd2c84e065e4b",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },

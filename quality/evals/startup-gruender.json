@@ -88,9 +88,10 @@
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
       "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
-      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "578ecdf6cce860ca6d12efe41ab78d164c45e2e85655d7450f76e79daadee4e7",
+    "sha256": "f767ad96f58213bb815f50d7d171ebeb3bf5be494862edcb6c57f67b5fe1bbc9",
     "reviewed_on": "2026-10-01",
     "follow_up_note": "Fortsetzungshinweis nach Finanzierungszusage ergänzt und Zeichenumfang sowie identische Textfassung geprüft. Die rechtlichen Aussagen der Quellenprüfung vom 30.09.2026 bleiben unverändert."
   },
@@ -101,9 +102,10 @@
       "Satzung und SHA DE/EN aus vorhandenen Fakten erstellen; nur entscheidende Lücken gezielt abfragen.",
       "Gesellschaftsphase, nominelle Beteiligung, rechtliche Kontrolle und Finanzierungspläne strikt nach Belegen bearbeiten.",
       "Formpflichten, Minderheitsstatus, Leaver-Rechtsprechung und Vollzugsnachweise mit konkreten Grenzen verwenden.",
-      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt."
+      "Nachprüfung 30.09.2026: II ZR 71/24: Randnummernbereich 67–68 berichtigt auf 67; amtliche Fassung endet bei Randnummer 67. Inhaltlich Gesamtwürdigung, Abfindung und Ausübung getrennt bestätigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ef596d5525b092351368dd658a5bd486c6744b5ce5868e4bb93a3692708be87e",
+    "sha256": "60f48b397514b5a596545f0d1ba7c6705d2b78d510dcc018b0d88028b36d2e38",
     "reviewed_on": "2026-09-30"
   },
   "prompt_editorial_review": {

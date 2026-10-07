@@ -56,9 +56,10 @@
       "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert."
+      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fdc60222f42843d9d6a0c794c08454291014c39f9dddc8c1b42bc9adf8d89122"
+    "sha256": "d93d1ee6b2aeed34a795597b64a7e62c763958b8160d80c4ff66591181a2a51a"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -67,9 +68,10 @@
       "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
       "Stundungsanfrage gegenüber wirksamer Vereinbarung, bedingte Finanzierung, fällige Schulden, Höchstfristen ohne freie Wartezeit, tatsächlicher Gegenwert, Rückflüsse, Zustimmungsumfang und empfängerbezogene Kenntnis bei Anfechtung.",
-      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert."
+      "Tatsächliche Drittmittel und vollstreckte titulierte Schulden in Statusprüfung aufgenommen; vorhandenen Liquiditätsstatus-Skill verlinkt und präzisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b50204cde4c61141aa67cceba687cf387d2c2f83403a4895be2f6bd0800e4c49"
+    "sha256": "b321640662fdded1693eb958ece8a2d785eae14bdab37f2800242d8f3ca82410"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -79,12 +81,13 @@
     "changes": [
       "Amtliches Urteil II ZR 319/15 vom 04.07.2017 statt des gleich nummerierten PKH-Beschlusses verwendet.",
       "In allen drei Prompts und Fokus-Skill alte Paragraf-64-Rechtsprechung von Paragraf 15b InsO abgegrenzt; Dienstleistungen nicht pauschal als Masseausgleich behandelt.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-insolvenz-sanierungsrecht/fachanwalt-insolvenz-sanierungsrecht-hauptproblem.md",
-    "prompt_sha256": "feb14c56a8e8d74fc8c64f2f3aefe396f818c91ea2ed7338be22e4584eff32a1",
+    "prompt_sha256": "f7fbcfe04bffb3de5eaec8ddaf7501100098cacb17456ad37858e18d3910ec1f",
     "skill_path": "fachanwalt-insolvenz-sanierungsrecht/skills/organhaftung-zahlungen-masseabgleich/SKILL.md",
-    "skill_sha256": "1b634778a13babc484437f464b55ebae4193b7f4514276b67e898228eaf35ba2"
+    "skill_sha256": "8b2f625911f40b61a57b11a8db1ccc52a8b46ad4aa87a1e7f0803eb7ba1d56e7"
   },
   "selection": {
     "positive": [

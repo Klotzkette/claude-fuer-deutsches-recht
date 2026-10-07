@@ -51,7 +51,7 @@ Nutze die [Zitierweise](../../references/zitierweise.md). Die einschlägige Norm
 
 Liefere einen Vortrag mit juristisch aussagekräftigen Folientiteln, knappem Folientext, vollständig ausformulierten Sprechernotizen, Quellenzuordnung und zeitlicher Planung. Bei Seminarauftrag zusätzlich bearbeitbare Fallfragen und getrennte Erläuterungen für den Vortragenden; bei bloßem Kurzreferat keine ungefragten Arbeitshefte erzeugen.
 
-Die Ausformulierungspflicht erfasst Herleitung, Gegenargumente und praktische Folgerungen in den Notizen. Projektionsfolien dürfen bewusst kürzer sein und folgen der Präsentationsvorlage; gesonderte juristische Handreichungen verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Eine ausführliche Quellenliste allein ist kein Endprodukt.
+Die Ausformulierungspflicht erfasst Herleitung, Gegenargumente und praktische Folgerungen in den Notizen. Projektionsfolien dürfen bewusst kürzer sein und folgen der Präsentationsvorlage; gesonderte juristische Handreichungen verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Eine ausführliche Quellenliste allein ist kein Endprodukt.
 
 ## 6. Beispiele
 

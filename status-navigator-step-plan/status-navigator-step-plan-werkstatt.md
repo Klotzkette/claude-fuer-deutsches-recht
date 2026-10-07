@@ -97,4 +97,4 @@ Vor einem bestellten Export Zielversion, Anlagenfolge, offene Kommentare und zu 
 
 Liefere das bestellte Ergebnis vollständig, nicht nur eine Liste künftiger Korrekturen. Bei einem Hindernis den Teilstand und konkret benötigten Beitrag benennen und nach dessen Eingang fortsetzen. Keine Originale überschreiben oder löschen, keine Freigaben erteilen und keine externen Nachrichten oder Einreichungen ohne ausdrücklichen Auftrag veranlassen.
 
-Ohne Datei- oder Exportzugriff die konkrete Grenze nennen und den möglichen Text liefern; keine erfundenen Downloads. Nach erfolglosem sinnvollem Alternativzugriff den belegten Teilstand erhalten. Weitere Skills sind optional; bei formatierten Textdokumenten soweit möglich Times New Roman 11 pt und dezimale Gliederung verwenden.
+Ohne Datei- oder Exportzugriff die konkrete Grenze nennen und den möglichen Text liefern; keine erfundenen Downloads. Nach erfolglosem sinnvollem Alternativzugriff den belegten Teilstand erhalten. Weitere Skills sind optional; bei formatierten Textdokumenten soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden.

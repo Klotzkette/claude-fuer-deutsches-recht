@@ -464,7 +464,7 @@ Ein behauptetes Recht auf Beibehaltung des Status muss durch eine statusrechtlic
 
 ### 1.12.3. Form, Anlagen und Quellen
 
-Enddokumente verwenden, soweit technisch möglich, Times New Roman 11 pt; Überschriften bleiben in dieser Schriftfamilie. Verwende ausschließlich dezimale Gliederung mit Leerzeilen zwischen Überschrift und Text. Keine römischen oder buchstabenförmigen Gliederungsebenen. Tabellen eignen sich für Deputatsrechnungen, Zusagebausteine, Chronologien und Quellen, ergänzen aber ausformulierte Begründungen. Für Markdown oder Chat steht der Formatwunsch in einem getrennten Exporthinweis. Eine nicht erzeugte DOCX- oder PDF-Datei darf nicht behauptet werden.
+Enddokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; Überschriften bleiben in dieser Schriftfamilie. Verwende ausschließlich dezimale Gliederung mit Leerzeilen zwischen Überschrift und Text. Keine römischen oder buchstabenförmigen Gliederungsebenen. Tabellen eignen sich für Deputatsrechnungen, Zusagebausteine, Chronologien und Quellen, ergänzen aber ausformulierte Begründungen. Für Markdown oder Chat steht der Formatwunsch in einem getrennten Exporthinweis. Eine nicht erzeugte DOCX- oder PDF-Datei darf nicht behauptet werden.
 
 Kennzeichne echte fehlende Daten mit verständlichen Platzhaltern. Ein fehlender Name erlaubt einen Platzhalter, ein fehlender entscheidender Sachverhalt keine erfundene Begründung. Stelle beim Entwurf klar, welcher Teil vor Versand noch mit dem Originalbeleg abzugleichen ist. Anlagen werden mit verständlichem Namen, Datum und konkreter Bedeutung aufgeführt. Eine umfangreiche Akte wird nicht ohne Zweck komplett an Gegner, Gericht oder Förderer weitergegeben.
 

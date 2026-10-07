@@ -61,9 +61,10 @@
       "C-807/21 in Tatbestands- und Verschuldensprüfung eingebaut.",
       "Nicht neu verifiziertes C-683/21 aus dem Prompt entfernt; Pflichtmeldung und freiwillige Einlassung bleiben getrennt.",
       "Leer: Bußgeld, Abhilfeanordnung oder Pannenmeldung mit Verteidigung. Dateien: still lesen und maßnahmengerechte Dokumentwege anbieten. Klar: direkt bestellten Rechtsbehelf oder Verteidigungstext erstellen.",
-      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
+      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e48d64a889fa140adf09a4b3550da7ac08cafb47612e8db4d906fc16f0fe1e38"
+    "sha256": "936101bd172a86e8724eb67be9d3fabf2bc1b55d4fa9983de3caddf66b7451d7"
   },
   "selection": {
     "positive": [
@@ -123,9 +124,10 @@
       "C-807/21 in Tatbestands- und Verschuldensprüfung eingebaut.",
       "Nicht neu verifiziertes C-683/21 aus dem Prompt entfernt; Pflichtmeldung und freiwillige Einlassung bleiben getrennt.",
       "Getrennte Maßnahmen, Zustellung, forensische Erkenntnisstände, konkrete Warnungen, Verschulden und konsistente Bemessungsargumente vertieft.",
-      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen."
+      "Neue Löschungsanordnung verlangt getrennten Weg; neue Logs ändern Befund und Meldung erst nach Prüfung ihrer Erfassungsgrenzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d159912cfa3a9c8cb2f5c61589b40388331961c37b63505b0b63915aa55469f5"
+    "sha256": "5c98fe218acf8e18628088839f95304f8dd19c4a83e284610bd7d0883948b20e"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

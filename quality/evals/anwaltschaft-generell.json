@@ -79,9 +79,10 @@
     "reason": "Neu verfassten Schnellstart redaktionell geprüft: drei Eingangsmodi, konkrete Normgrenzen, zwei verifizierte Entscheidungen und fortgesetzte Dokumentproduktion. Keine Live-Mandatsausführung.",
     "changes": [
       "Kompakte eigenständige Bearbeitung ohne Pluginreferenzen mit einem Fachweg und gemeinsamem Aktenstand.",
-      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt."
+      "Paragraf 377 HGB, besondere Prozessformfiktion und aktuelle Zuständigkeitsgrenze ausdrücklich abgegrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "sha256": "1e539a650d1c620fea18344c94da6dc2024d243d7c076900adc799395f545035",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -92,9 +93,10 @@
       "Vertragsfassung, AGB-Rechtsfolge, Mängelrechte, Zahlungsrechnung, Arbeit, Datenzugang, Vertretung, Vergleich und Prozessschrift bis zum konkreten Dokument ausgebaut.",
       "Fortsetzung nach Teilzahlung, Zugangsnachweis, Verhandlungsantwort und Datenexport konkretisiert.",
       "Quellenstatus unterscheidet gelesenen Volltext, Suchanker, Pressemitteilung und gesperrten Normabruf.",
-      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden."
+      "Gegenprüfung: Zeugen vom Hörensagen nicht pauschal ausschließen; Wahrnehmungsgrundlage und Beweiswürdigung unterscheiden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0d3beeafee65149dd82ec3c18434f3acaee0de103f4e7e10c188389eeb0af7c4",
+    "sha256": "be04a0fb8b3c9e39579a26e928934d07aa080d1843fd35279edfa4b614359408",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -105,12 +107,13 @@
     "reason": "Hauptproblem-Prompt und ausführenden Hauptskill gegengelesen: gleicher Mandatsfokus, drei Eingänge, Beweis und Rechnung, ein Fachweg, Dokument und Fortsetzung. Kompakttext auf Byte- und Zeichengrenze geprüft; kein elfter Skill oder Wrapper, kein Live-Test.",
     "changes": [
       "Hauptproblem auf denselben ausführenden Mandatsablauf begrenzt; kein zusätzlicher Spezialauftrag.",
-      "Normgrenzen zu Handelskauf, Arbeitsform und Zuständigkeit sowie ehrlicher Quellenstatus synchronisiert."
+      "Normgrenzen zu Handelskauf, Arbeitsform und Zuständigkeit sowie ehrlicher Quellenstatus synchronisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md",
-    "prompt_sha256": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
+    "prompt_sha256": "a4b101973ee1abb068ac3dbef48489043e4695bad5ef1476e0d73410850c346f",
     "skill_path": "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md",
-    "skill_sha256": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4"
+    "skill_sha256": "54f7723611f8d74305ffc0f173fb59376bdd562d35acbe66f0d69442a2476fe4"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",
@@ -496,18 +499,18 @@
     }
   ],
   "artifact_hashes": {
-    "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md": "91218fca77b252acae824d7a276999660b6805b9933c9c7930391351f51d8756",
+    "anwaltschaft-generell/anwaltschaft-generell-schnellstart.md": "1e539a650d1c620fea18344c94da6dc2024d243d7c076900adc799395f545035",
     "anwaltschaft-generell/anwaltschaft-generell-werkstatt.md": "3868d738b2becdeef000584d67dd78f1fbcf08f33e928ddbbc060dff32caf509",
-    "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md": "695720408a58aec3c2626385201a2d3f7b8c41f2997c41a7a7c2b1e67d3056ee",
-    "anwaltschaft-generell/skills/agb-im-geschaeftsverkehr-pruefen/SKILL.md": "5a57be0d6d018eefa2b403d18364c7c7148b1c9708440d60de57fa9d304bba5f",
-    "anwaltschaft-generell/skills/ansprueche-beweise-und-fristen-pruefen/SKILL.md": "8a455cf91ef60b7ffcf35bf8ae24b51b1a75f5f7c02100decd8a01b352917840",
-    "anwaltschaft-generell/skills/arbeitsverhaeltnis-aendern-oder-beenden/SKILL.md": "132b5a63cbb76bbc4474b3344ceedd1186c748f8400d4fb1ddc25a654e1ecc1d",
-    "anwaltschaft-generell/skills/datenschutzanfrage-und-dienstleister-pruefen/SKILL.md": "b83cf1da2dce5eac7d925c44ffb266ba6bc4ba588140e7d184a214714db92f92",
-    "anwaltschaft-generell/skills/gesellschaft-und-vertretung-klaeren/SKILL.md": "18a89cb3b2b5a41edfff35db4d5bb8f987271eca6d05eecf087b14bda39b8dbb",
-    "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md": "c28f65ab7bc1b03a40ee915758eacc0f63b027572ae6213bb0688fff71aba2f4",
-    "anwaltschaft-generell/skills/schriftsatz-und-anlagen-fertigstellen/SKILL.md": "65aedae378ea949bd9cd2e7f457ba634468a12596dd2f91af1f51510906ede59",
-    "anwaltschaft-generell/skills/vergleich-und-abwicklung-vereinbaren/SKILL.md": "df3c2d7721287c343d58033e8d88e326c36261f4d22cd7d055c71d75d7622807",
-    "anwaltschaft-generell/skills/vertrag-pruefen-und-aendern/SKILL.md": "5a2474db3f9fa619c6792bb505a6d4961cb808e7423582fac8d90260b3d2086c",
-    "anwaltschaft-generell/skills/zahlung-maengel-und-verzug-bearbeiten/SKILL.md": "9650e760e560dc4bdd8df12458429756ba04d131d6b3da2c36b059f42d720ec3"
+    "anwaltschaft-generell/anwaltschaft-generell-hauptproblem.md": "a4b101973ee1abb068ac3dbef48489043e4695bad5ef1476e0d73410850c346f",
+    "anwaltschaft-generell/skills/agb-im-geschaeftsverkehr-pruefen/SKILL.md": "b2a431b2b8b333473da04fcbaef87d59fb1180ed8778369a10455498c9e7e73c",
+    "anwaltschaft-generell/skills/ansprueche-beweise-und-fristen-pruefen/SKILL.md": "5c9f6966f9cb307ecfdf25a8c88a2001f6edd309e2f3c3ee900746d88c4e48ba",
+    "anwaltschaft-generell/skills/arbeitsverhaeltnis-aendern-oder-beenden/SKILL.md": "cde25ed8b7030f032ba593fbaf9aaf231ebbf2ecb6154f1d6e7d15dca35eaa40",
+    "anwaltschaft-generell/skills/datenschutzanfrage-und-dienstleister-pruefen/SKILL.md": "701ac4225512bfb11bb01eb1a2a3e44a9dbdb62f765dee0fae23346bec321ac9",
+    "anwaltschaft-generell/skills/gesellschaft-und-vertretung-klaeren/SKILL.md": "ed901ffccfde0a221e4f712dfeff0e23da2394b588136fec28ae698aa8420976",
+    "anwaltschaft-generell/skills/mandat-bis-zum-schreiben-bearbeiten/SKILL.md": "54f7723611f8d74305ffc0f173fb59376bdd562d35acbe66f0d69442a2476fe4",
+    "anwaltschaft-generell/skills/schriftsatz-und-anlagen-fertigstellen/SKILL.md": "491058b4c328ca2bf2c595cc36d0c6f4de4ff2f9d13e259ffeeb02af07667edd",
+    "anwaltschaft-generell/skills/vergleich-und-abwicklung-vereinbaren/SKILL.md": "7c9004f971ac498a733cac4689492f6c4681a60e216322c2238d671c8423ae48",
+    "anwaltschaft-generell/skills/vertrag-pruefen-und-aendern/SKILL.md": "34163de26b878679c3487cd538d59b81cf5d7248912abf8e4129ecee3bb162ec",
+    "anwaltschaft-generell/skills/zahlung-maengel-und-verzug-bearbeiten/SKILL.md": "9ebe6fc3ade42cb10081b730b751de5aeb157fe18fe83af711d96faf1c2a7050"
   }
 }

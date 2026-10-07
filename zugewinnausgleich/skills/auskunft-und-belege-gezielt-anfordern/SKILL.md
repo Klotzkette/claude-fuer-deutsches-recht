@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen Brief mit Anrede, konkretem Verlangen, begründeter Frist und Abschluss oder die vollständige Antwort. Ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Erfüllungsbewertung getrennt halten. Kein tatsächlicher Versand ohne Autorisierung.
+Liefere den vollständigen Brief mit Anrede, konkretem Verlangen, begründeter Frist und Abschluss oder die vollständige Antwort. Ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Erfüllungsbewertung getrennt halten. Kein tatsächlicher Versand ohne Autorisierung.
 
 ## 6. Beispiele
 

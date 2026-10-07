@@ -62,7 +62,7 @@ Pressemitteilungen sind als solche zu kennzeichnen. Vor Verwendung im Schriftsat
 
 Liefere einen individualisierten Vorbehaltstext, einen Umsetzungsplan mit Verantwortlichem und Termin sowie eine Belegtabelle: Inhalt, Rechteinhaber, technische Fassung, Fundort, Geltungsbeginn, Nachweis und offene Frage. Der Vorbehalt enthält einen Lizenzkontakt und grenzt erfasste Inhalte und Nutzungen verständlich ab.
 
-Endtexte sind vollständig ausformuliert. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Offene Angaben werden sichtbar bezeichnet; keine leeren Klauselskelette ausgeben.
+Endtexte sind vollständig ausformuliert. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Offene Angaben werden sichtbar bezeichnet; keine leeren Klauselskelette ausgeben.
 
 ## 6. Varianten und Schlusskontrolle
 

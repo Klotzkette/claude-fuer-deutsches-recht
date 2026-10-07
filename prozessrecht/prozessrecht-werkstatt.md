@@ -88,7 +88,7 @@ Liefere das bestellte Dokument vollständig ausformuliert unter dem gewünschten
 
 Prüfe vor Abschluss Anträge, Beträge, Zinsen, Beweisangebote, Anlagen und Fristen sowie alle nachgereichten Angaben. Bei gerichtlichen Entwürfen zusätzlich Gehör, Tenor und Nebenentscheidungen kontrollieren. Ein vorläufiger Teilstand beendet die Bearbeitung nicht, wenn die nötige Ergänzung anschließend vorliegt.
 
-Formatierte Dokumente in Times New Roman 11 Punkt und dezimaler Gliederung erstellen. Versand, Einreichung und sonstige externe Handlungen bedürfen der Freigabe; Entwurf und Eingangsbestätigung getrennt halten.
+Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung erstellen. Versand, Einreichung und sonstige externe Handlungen bedürfen der Freigabe; Entwurf und Eingangsbestätigung getrennt halten.
 
 ## 1.8. Technische Grenzen
 

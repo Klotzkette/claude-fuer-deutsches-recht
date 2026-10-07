@@ -27,7 +27,7 @@ Lies vollständigen angegriffenen Verwaltungsakt, Belehrung, Zustellungsnachweis
 
 ## 5. Ausgabeformat
 
-Vollständiger Hauptsacheantrag mit Beteiligten, Bescheidbezeichnung, Antrag, Begründung und Anlagen; bei Bedarf getrennt vollständig formulierter Eilantrag. Interner Einreichungsvermerk mit Stelle, Weg, Fristberechnung und offenem Zustellungsbeleg. DOCX/PDF in Times New Roman 11 pt mit dezimalen Überschriften. Keine Einreichung behaupten, solange kein Nachweis vorliegt.
+Vollständiger Hauptsacheantrag mit Beteiligten, Bescheidbezeichnung, Antrag, Begründung und Anlagen; bei Bedarf getrennt vollständig formulierter Eilantrag. Interner Einreichungsvermerk mit Stelle, Weg, Fristberechnung und offenem Zustellungsbeleg. DOCX/PDF in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimalen Überschriften. Keine Einreichung behaupten, solange kein Nachweis vorliegt.
 
 ## 6. Beispiele
 

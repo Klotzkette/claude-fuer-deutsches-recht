@@ -54,7 +54,7 @@ Vor Zahlung Anspruchsinhaber, Konto, Vorleistungen, Abtretungen und Freigabe pr�
 
 ## 5. Ausgabeformat
 
-Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsrechnung, Aufklärungsbedarf, Reservegrund und Freigabe; getrennt davon einen vollständig formulierten Außenbrief. Keine internen Überlegungen versehentlich als Anlage mitsenden. Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export verwendbaren Text liefern.
+Liefere eine interne Regulierungsvorlage mit Deckungsstand, Haftung, Positionsrechnung, Aufklärungsbedarf, Reservegrund und Freigabe; getrennt davon einen vollständig formulierten Außenbrief. Keine internen Überlegungen versehentlich als Anlage mitsenden. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Ohne Export verwendbaren Text liefern.
 
 ## 6. Beispiel
 

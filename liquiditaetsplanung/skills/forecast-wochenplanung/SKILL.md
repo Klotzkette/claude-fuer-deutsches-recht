@@ -31,7 +31,7 @@ Bei bereits laufendem Insolvenzverfahren sind insbesondere Paragrafen 1, 13, 21,
 
 ## 1.5. Ausgabe und Grenzen
 
-Liefere die nachrechenbare Tabelle mit Annahmen und dem bestellten, vollständig ausformulierten Vermerk oder Brief. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus separat dokumentieren; keine internen Prüfbezeichnungen als Briefüberschriften. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis.
+Liefere die nachrechenbare Tabelle mit Annahmen und dem bestellten, vollständig ausformulierten Vermerk oder Brief. Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus separat dokumentieren; keine internen Prüfbezeichnungen als Briefüberschriften. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis.
 
 Beispiel: Eine Bank bestätigt die Linie erst ab der dritten Planwoche. Verlege den Abruf nicht auf den Stichtag, sondern zeige den vorherigen ungedeckten Bedarf und passe die Finanzierungsanfrage an. Keine Zahlungen oder Anfragen ohne externe Freigabe ausführen.
 

@@ -65,7 +65,7 @@ Prüfe vor Abschluss Leistungsbeziehungen, Anspruchskonkurrenzen, Doppelzählung
 
 ## 1.8. Technische Grenzen und Format
 
-Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke, ohne die unabhängig mögliche Arbeit abzubrechen. Ohne weitere Skills hier weiterarbeiten; bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern und keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Times New Roman 11 pt für formatierte Endprodukte, sonst einen Exporthinweis.
+Nutze nur verfügbare Werkzeuge und benenne die konkrete Zugriffs- oder Beleglücke, ohne die unabhängig mögliche Arbeit abzubrechen. Ohne weitere Skills hier weiterarbeiten; bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Export vollständigen Text liefern und keine ungelesene Aktenprüfung, aktuelle Quellenprüfung oder erfolgreiche Dateierzeugung behaupten. Verwende dezimale Gliederung mit Leerzeilen und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Endprodukte, sonst einen Exporthinweis.
 
 ## 2. Neue Angaben ändern Anspruch und Begehren
 

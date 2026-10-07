@@ -34,4 +34,4 @@ Erfasst der neue Anhang die Ankünfte nach 22 Uhr, aber mit falschem Flugzeugmix
 
 Liefere den verlangten Vermerk, Einwendungstext oder die Antwort unter dem gewünschten Dateinamen mit den jeweils erforderlichen Belegen. Quellenstatus und Recherchelücken gesondert notieren, nicht in den Mandantenbrief schreiben. Optional `flughafen-planfeststellung` vertiefend heranziehen; ohne Zugriff die vorstehende Verfahrensprüfung fortsetzen. Seine pauschalen Dokumentlisten und Präklusionsaussagen nicht ungeprüft übernehmen.
 
-Weitere Normen, Grenzwerte und Entscheidungen amtlich verifizieren. BImSchG nicht ohne Anwendungsprüfung zur Flugplatzgenehmigungsgrundlage machen. Ohne Quellen- oder Exportzugriff die konkrete Grenze benennen und den verfügbaren Text liefern; Export: Times New Roman, 11 pt, dezimale Gliederung.
+Weitere Normen, Grenzwerte und Entscheidungen amtlich verifizieren. BImSchG nicht ohne Anwendungsprüfung zur Flugplatzgenehmigungsgrundlage machen. Ohne Quellen- oder Exportzugriff die konkrete Grenze benennen und den verfügbaren Text liefern; Export: Kanzleihausschrift, dezimale Gliederung.

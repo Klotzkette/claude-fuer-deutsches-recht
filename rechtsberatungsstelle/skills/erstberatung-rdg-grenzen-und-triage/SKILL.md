@@ -31,7 +31,7 @@ Liegt die Sache außerhalb der Befugnis oder Kompetenz, erläutere konkret, welc
 
 Prüfe tragende Normen und Entscheidungen in amtlichen Quellen. Die optionalen Hinweise in `references/zitierweise.md` können die Zitierweise ergänzen. Nicht verifizierte Fundstellen nicht als gesichert ausgeben.
 
-Liefere den beauftragten Beratungsvermerk oder Brief in vollständigen Sätzen, nicht nur eine Bewertungsskala oder Liste weiterer Skills. Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden nach Möglichkeit Times New Roman 11 pt und dezimale Gliederung. Interne Quellen-, Freigabe- und Bearbeitungshinweise stehen getrennt vom Empfängertext.
+Liefere den beauftragten Beratungsvermerk oder Brief in vollständigen Sätzen, nicht nur eine Bewertungsskala oder Liste weiterer Skills. Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden nach Möglichkeit Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Interne Quellen-, Freigabe- und Bearbeitungshinweise stehen getrennt vom Empfängertext.
 
 ## 1.5 Beispiel und Grenzen
 

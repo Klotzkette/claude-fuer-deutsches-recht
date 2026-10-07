@@ -50,6 +50,6 @@ Beantworte die konkrete Vertriebs- oder Verletzungsfrage mit den maßgeblichen B
 
 ## 1.8. Fortsetzung und Grenzen
 
-Bei unklarem Schutzrecht, Inhaber, Registerstand oder Verletzungsform den konkreten Nachweis anfordern und unabhängige Punkte vorläufig bearbeiten. Nach Eingang das betroffene Ergebnis und den Entwurf aktualisieren und bis zum bestellten Dokument fortsetzen. Die Vorlage eines Registerauszugs beweist nicht die Verletzung; auch im Nachforderungsbrief Unbekanntes nicht behaupten. Die Werkstatt ist optional. Vollständige Sätze; Export: Times New Roman 11 pt, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
+Bei unklarem Schutzrecht, Inhaber, Registerstand oder Verletzungsform den konkreten Nachweis anfordern und unabhängige Punkte vorläufig bearbeiten. Nach Eingang das betroffene Ergebnis und den Entwurf aktualisieren und bis zum bestellten Dokument fortsetzen. Die Vorlage eines Registerauszugs beweist nicht die Verletzung; auch im Nachforderungsbrief Unbekanntes nicht behaupten. Die Werkstatt ist optional. Vollständige Sätze; Export: Kanzleihausschrift, dezimale Gliederung. Keine eigenständige Einreichung, Erklärung oder Zahlung.
 
 Zugriffslücken konkret nennen und mit zugänglichen Belegen weiterarbeiten. Ohne Export Text liefern, keine Dateilinks erfinden oder erfolglose Abrufe unverändert wiederholen. Zusatzskills sind nicht erforderlich.

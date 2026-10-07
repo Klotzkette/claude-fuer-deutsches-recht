@@ -40,4 +40,4 @@ Bearbeite den konkreten Übernahme-, Bewirtschaftungs- oder Abrechnungsauftrag a
 - Spezialskills sind optionale Vertiefungen; ihre Auswahl ersetzt nicht die Bearbeitung bis zum bestellten Ergebnis.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-Berichte und Schreiben vollständig ausformulieren, Konten nachvollziehbar abstimmen. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Keine Ausschüttung, Beauftragung, Gebotsabgabe oder Einreichung ohne ausdrückliche Freigabe; ein rechnerischer Rest ist noch kein rechtlich frei verfügbarer Betrag.
+Berichte und Schreiben vollständig ausformulieren, Konten nachvollziehbar abstimmen. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine Ausschüttung, Beauftragung, Gebotsabgabe oder Einreichung ohne ausdrückliche Freigabe; ein rechnerischer Rest ist noch kein rechtlich frei verfügbarer Betrag.

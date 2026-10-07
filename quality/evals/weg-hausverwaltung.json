@@ -211,9 +211,10 @@
     "changes": [
       "Belege, Bankbewegungen, Sollvorschüsse, Istzahlungen, Rücklage und Abrechnungsspitze bis zur Einzelabrechnung und Eigentümerantwort verknüpft.",
       "WEG-Zahlung, mietrechtliche Umlage, Schadenersatz und Versicherungszahlung getrennt; Diebstahl, Kamera und Bettwanzen mit konkreten Fortsetzungswegen.",
-      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet."
+      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "20241654132c93e9abc78f0dcab83216431211b0d00797d1eb8eeea91896cb25",
+    "sha256": "ee0ed069019d762070f65369a59fa600756ba5538b05a16349765435378aa4d6",
     "reviewed_on": "2026-10-02"
   },
   "workshop_review": {
@@ -222,9 +223,10 @@
     "changes": [
       "Belege, Bankbewegungen, Sollvorschüsse, Istzahlungen, Rücklage und Abrechnungsspitze bis zur Einzelabrechnung und Eigentümerantwort verknüpft.",
       "WEG-Zahlung, mietrechtliche Umlage, Schadenersatz und Versicherungszahlung getrennt; Diebstahl, Kamera und Bettwanzen mit konkreten Fortsetzungswegen.",
-      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet."
+      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a09a0d010a66cdd0b1b32110360593cd90f2246807cb78839b539ec3a9e47282",
+    "sha256": "91331346ecfeda33279bdd6c01303f9fd9d11e0889593af8944132a28005daff",
     "reviewed_on": "2026-10-02"
   },
   "selection": {
@@ -596,12 +598,13 @@
     "changes": [
       "Belege, Bankbewegungen, Sollvorschüsse, Istzahlungen, Rücklage und Abrechnungsspitze bis zur Einzelabrechnung und Eigentümerantwort verknüpft.",
       "WEG-Zahlung, mietrechtliche Umlage, Schadenersatz und Versicherungszahlung getrennt; Diebstahl, Kamera und Bettwanzen mit konkreten Fortsetzungswegen.",
-      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet."
+      "Amtliche BGH-Anker von 2026 für Kostenschlüssel, Angebotsgrundlage und Wirtschaftlichkeitsrügen ergänzt; Belegeinsicht und CO2-Übergangsrecht zeitlich eingeordnet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "weg-hausverwaltung/weg-hausverwaltung-hauptproblem.md",
-    "prompt_sha256": "0cdb1ea35d5c1bfd2e0b5e44cef5a43bd028f40b38606d08784561aaaf76900e",
+    "prompt_sha256": "d788f10b1f10078be9b3a962ecd7aa6e85399e861a0ea2edf25ebcee53bfedde",
     "skill_path": "weg-hausverwaltung/skills/wirtschaftsplan-jahresabrechnung-28-weg/SKILL.md",
-    "skill_sha256": "eeb1daabefd6868c179627c82a87d12266e179691a1ea38a498ee4ad12c3c614"
+    "skill_sha256": "2a887a0641c786d87e8bd9956008b52406066e44cc5bc4e455972ad4e55844aa"
   },
   "source_audit_2026_10_02": {
     "path": "quality/source-audits/weg-hausverwaltung-2026-10-02",

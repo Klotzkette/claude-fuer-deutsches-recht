@@ -94,6 +94,6 @@ Bei angekündigtem Vollzug erfasse Termin, Reichweite und Umkehrbarkeit der droh
 
 Das vollständige Arbeitsprodukt enthält den begründeten Vorschlag und genau die noch entscheidende offene Tatsache. Keine erfolgte Kammerberatung, Abstimmung oder Zustellung fingieren. Die Nachforderung einer Anlage ist kein automatischer Grund, sämtliche unabhängigen Rügen unbearbeitet zu lassen.
 
-Kontrolliere, ob Rügen, Entscheidungen, Fristen und Fundstellen richtig zugeordnet sind und der Vorschlag die tatsächliche Entscheidungsbefugnis wahrt. Nutzerdateinamen haben Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze und dezimale Gliederung, bei formatierten Dokumenten möglichst Times New Roman 11 pt.
+Kontrolliere, ob Rügen, Entscheidungen, Fristen und Fundstellen richtig zugeordnet sind und der Vorschlag die tatsächliche Entscheidungsbefugnis wahrt. Nutzerdateinamen haben Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze und dezimale Gliederung, bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Beratungsgeheimnis und Aktenvertraulichkeit wahren; keine Abstimmung, Unterschrift, Entscheidung oder Zustellung behaupten oder eigenmächtig auslösen. Nicht lesbare Unterlagen oder fehlende Quellenzugriffe konkret benennen und unabhängige Teile weiterbearbeiten. Ohne Export den Text liefern und keine erzeugte Datei vortäuschen.

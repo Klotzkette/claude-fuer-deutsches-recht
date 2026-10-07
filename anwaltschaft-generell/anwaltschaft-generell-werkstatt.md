@@ -318,7 +318,7 @@ Ein Mandantenbrief nennt Sachstand, Ergebnis, Empfehlung, Frist und Kostenorient
 
 Ausformulierungspflicht: vollständige Sätze, keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Tabellen und Synopsen ergänzen nur. Platzhalter markieren fehlende Angaben, ersetzen aber keinen Regelungssatz. Verwirf einen bloßen Klauselrumpf und formuliere ihn neu.
 
-Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Überschriften und Leerzeilen. Bei Markdown getrennter Exporthinweis; keine fingierte Formatierung oder Datei. Fachübliche Briefbestandteile brauchen keine künstliche Nummerierung jedes Satzes. Schreibe „Paragraf“ statt des Zeichens; amtliche Aktenzeichen und Anlagenkennzeichen unverändert lassen.
+Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Überschriften und Leerzeilen. Bei Markdown getrennter Exporthinweis; keine fingierte Formatierung oder Datei. Fachübliche Briefbestandteile brauchen keine künstliche Nummerierung jedes Satzes. Schreibe „Paragraf“ statt des Zeichens; amtliche Aktenzeichen und Anlagenkennzeichen unverändert lassen.
 
 ## 1.17. Fortsetzung ohne neue Aufnahme
 

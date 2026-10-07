@@ -65,7 +65,7 @@ Vor dem Schriftsatz dem amtlichen Volltext und aktuellen Folgeentscheidungen nac
 
 ## 5. Ausgabeformat
 
-Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung.
+Liefere eine begründete Chancen-Risiken-Entscheidung, Anspruchs- und Beweismatrix und den konkret beauftragten Entwurf. Endprodukte bestehen aus vollständigen Sätzen; keine bloßen Klauselskelette oder Stichwortausgaben. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 Die stärkste Gegenposition wird ausdrücklich verarbeitet: fehlende Rechte, nicht nachgewiesene Handlung, rechtmäßiger Zugang, verspäteter Vorbehalt, Forschungsschranke, unerhebliche Datenbankentnahme, fehlendes Verschulden, unbelegter Schaden, Unbestimmtheit oder Verjährung.
 

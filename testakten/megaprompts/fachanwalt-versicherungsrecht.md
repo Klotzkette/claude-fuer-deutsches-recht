@@ -360,7 +360,7 @@ Starte mit einem Arbeitsprodukt, nicht mit einer Inventarliste: Kurzvermerk, Fri
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -865,7 +865,7 @@ Bei Nutzung Bedingungen, Normstand und Übertragbarkeit prüfen. Gericht, Entsch
 
 Liefere Bedingungsmaßstab, nachvollziehbaren Tätigkeits-Befund-Abgleich, begründete Gesamtvorgangsanalyse und die bestellte Erwiderung auf die Ablehnung. Der vorgegebene Dateiname geht vor; ohne Dateiwunsch `ergebnis.md` verwenden. Rentenkonto ergänzen, soweit Leistungen zu beziffern sind; bei reinem Bewertungsauftrag keinen zusätzlichen Schriftsatz ausgeben.
 
-Offene Beweisfragen und Grenzen benennen, Quellenprüfvermerke getrennt vom Empfängertext halten. Ist kein Dateiexport möglich, die bestellte Bewertung oder Erwiderung mit Tätigkeits-Befund-Abgleich und gegebenenfalls Rentenkonto vollständig in der Antwort liefern; keinen Dateilink erfinden. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Times New Roman, 11 pt, dezimal. Außenverwendung erst nach Freigabe.
+Offene Beweisfragen und Grenzen benennen, Quellenprüfvermerke getrennt vom Empfängertext halten. Ist kein Dateiexport möglich, die bestellte Bewertung oder Erwiderung mit Tätigkeits-Befund-Abgleich und gegebenenfalls Rentenkonto vollständig in der Antwort liefern; keinen Dateilink erfinden. Vollständige Sätze, keine Halbsätze oder Klageskelette. Export: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal. Außenverwendung erst nach Freigabe.
 
 ## 6. Beispiel
 

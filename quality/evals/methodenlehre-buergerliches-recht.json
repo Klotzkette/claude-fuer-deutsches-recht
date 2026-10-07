@@ -51,9 +51,10 @@
       "Werkstatt vollständig vom generischen Ausbildungsgerüst gelöst; Vertragsauslegung, Gesetzesauslegung, Beweisfrage und Rechtsfortbildung eigenständig bearbeitbar. Falsche Sittenwidrigkeits-/Anfechtungs- und pauschale Immissionsbeispiele entfernt.",
       "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
-      "Verhandlungs-E-Mail und spätere AGB-Einordnung verändern abhängige Begründung und Schluss im benannten Dokumentpfad."
+      "Verhandlungs-E-Mail und spätere AGB-Einordnung verändern abhängige Begründung und Schluss im benannten Dokumentpfad.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4a021a5e354813ef40a2cec8d427f57b39a1b1b71c449bf6e987dac084c8ae02"
+    "sha256": "4d27ea78ff5dbf8726172a86c57b3eb9cd8c7c25ad1831a980ea7004cb5978f3"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -63,9 +64,10 @@
       "Gemeinsame Falschbezeichnung und einseitige Fehlvorstellung beim Grundstückskauf unterscheiden. Grenze: Besichtigung einer scheinbaren Einheit beweist regelmäßig keinen Mitverkauf fremden Grunds; keine generelle Überwindung der Form.",
       "Gesetzesmodell gegen vorgeschlagene richterliche Entscheidungsregel abgleichen. Grenze: Keine allgemeine Widerlegung einer philosophischen Theorie; keine aktuelle Unterhaltsberechnung.",
       "Interne Vorstellung, gemeinsame Verständigung, Vertragsänderung und bloße spätere Praxis mit konkreten Belegen auseinandergehalten.",
-      "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert."
+      "Verworfene Entwurfsbegründung von geltender Norm getrennt; Analogie als Entscheidungsregel mit Gegenfall und negativem Ergebnis ausformuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0b8f16cce3dd15917211e04f0255d3c9f8fe4d0207437bd5712f72976ba60129"
+    "sha256": "bb714aed687857d2b8fe37ddb6bbc79c7b917b1faa79f95f18417b5098fc87d6"
   },
   "selection": {
     "positive": [

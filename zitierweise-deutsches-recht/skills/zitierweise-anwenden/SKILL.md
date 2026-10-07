@@ -133,7 +133,7 @@ Die vorhandene `references/zitierweise.md` kann optional vertiefen. Ohne Zugriff
 
 ## Fortsetzung und Ergebnis
 
-Fehlt eine Randnummer oder Auflagenangabe, fordere den betreffenden Auszug an. Nach Eingang das Zitat und seine Unterstützung für die konkrete Aussage prüfen; neue entscheidende Widersprüche gezielt klären. Den bereits prüfbaren Text vorläufig bearbeiten und nach Klärung die bestellte Fassung fertigstellen. Prüfvermerke und offene Quellenfragen getrennt vom Empfängertext führen. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Ausformulierte Texte bestehen aus vollständigen Sätzen und verwenden dezimale Gliederung sowie bei formatierter Ausgabe soweit möglich Times New Roman 11 pt.
+Fehlt eine Randnummer oder Auflagenangabe, fordere den betreffenden Auszug an. Nach Eingang das Zitat und seine Unterstützung für die konkrete Aussage prüfen; neue entscheidende Widersprüche gezielt klären. Den bereits prüfbaren Text vorläufig bearbeiten und nach Klärung die bestellte Fassung fertigstellen. Prüfvermerke und offene Quellenfragen getrennt vom Empfängertext führen. Nutzerdateinamen gehen vor; `ergebnis.md` nur ohne Vorgabe. Ausformulierte Texte bestehen aus vollständigen Sätzen und verwenden dezimale Gliederung sowie bei formatierter Ausgabe soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## Verknüpfung mit anderen Plugins
 

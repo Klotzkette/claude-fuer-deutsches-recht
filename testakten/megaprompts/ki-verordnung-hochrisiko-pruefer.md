@@ -52,7 +52,7 @@ Den aktuellen amtlichen Wortlaut des einschlägigen Untertatbestands und gegeben
 
 ## 5 Ausgabeformat
 
-Vollständig ausformulierter Einstufungsvermerk mit Sachverhalt, Frage, Kurzantwort, Subsumtion, Ergebnis, offenen Punkten und Quellen. Soweit nötig ein getrenntes, verwendbares Anbieteranschreiben erstellen. Skelette, Halbsätze und reine Listen sind als Endprodukt verboten. Times New Roman 11 pt, dezimale Überschriften mit Leerzeilen; ohne native Ausgabe separaten Exporthinweis geben. Keine automatischen Registrierungen oder Meldungen veranlassen. Das Ergebnis darf begründet außerhalb des Hochrisikoregimes liegen, muss dann aber verbleibende Prüfungen konkret abgrenzen.
+Vollständig ausformulierter Einstufungsvermerk mit Sachverhalt, Frage, Kurzantwort, Subsumtion, Ergebnis, offenen Punkten und Quellen. Soweit nötig ein getrenntes, verwendbares Anbieteranschreiben erstellen. Skelette, Halbsätze und reine Listen sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften mit Leerzeilen; ohne native Ausgabe separaten Exporthinweis geben. Keine automatischen Registrierungen oder Meldungen veranlassen. Das Ergebnis darf begründet außerhalb des Hochrisikoregimes liegen, muss dann aber verbleibende Prüfungen konkret abgrenzen.
 
 ## 6 Beispiele
 
@@ -100,7 +100,7 @@ Artikel 26, ergänzend Artikel 14 und 111/113 in geltender Fassung amtlich prüf
 
 ## 5 Ausgabeformat
 
-Die Betriebsanweisung enthält Geltungsbereich, Arbeitsablauf, Verantwortung, Störungsweg und Inkraftsetzung in vollständigen, ausformulierten Sätzen. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; ohne native Ausgabe getrennten Exporthinweis geben. Fehlende Namen als klar bezeichnete Freigabelücke behandeln. Ein interner Begleitvermerk erläutert Rechtsstand und belegte Abweichungen, nicht der Beschäftigtentext. Nichts versenden oder verbindlich in Kraft setzen.
+Die Betriebsanweisung enthält Geltungsbereich, Arbeitsablauf, Verantwortung, Störungsweg und Inkraftsetzung in vollständigen, ausformulierten Sätzen. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; ohne native Ausgabe getrennten Exporthinweis geben. Fehlende Namen als klar bezeichnete Freigabelücke behandeln. Ein interner Begleitvermerk erläutert Rechtsstand und belegte Abweichungen, nicht der Beschäftigtentext. Nichts versenden oder verbindlich in Kraft setzen.
 
 ## 6 Beispiele
 
@@ -142,7 +142,7 @@ Artikel 3 Nummer 49, Artikel 26 Absatz 5, Artikel 73 und Artikel 111/113 aktuell
 
 ## 5 Ausgabeformat
 
-Vollständig ausformulierter interner Vorfallvermerk mit nachvollziehbarer Kenntnis- und Fristberechnung, begründetem Ergebnis und konkreten Maßnahmen. Falls beauftragt oder erforderlich, getrennten Informations- oder Meldeentwurf mit Tatsachen, Auswirkungen, Maßnahmen und offenen Ermittlungen liefern. Keine Skelette, Halbsätze oder reine Stichwortsammlung als Endprodukt. Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; sonst gesonderter Exporthinweis. Unverifizierte Zuständigkeit sperrt die Behauptung einer versandfertigen Behördenmeldung, nicht den bearbeitbaren internen Vermerk.
+Vollständig ausformulierter interner Vorfallvermerk mit nachvollziehbarer Kenntnis- und Fristberechnung, begründetem Ergebnis und konkreten Maßnahmen. Falls beauftragt oder erforderlich, getrennten Informations- oder Meldeentwurf mit Tatsachen, Auswirkungen, Maßnahmen und offenen Ermittlungen liefern. Keine Skelette, Halbsätze oder reine Stichwortsammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; sonst gesonderter Exporthinweis. Unverifizierte Zuständigkeit sperrt die Behauptung einer versandfertigen Behördenmeldung, nicht den bearbeitbaren internen Vermerk.
 
 ## 6 Beispiele
 
@@ -184,7 +184,7 @@ Amtlichen Ausgangs- und Änderungsrechtsakt einschließlich Amtsblatt und Inkraf
 
 ## 5 Ausgabeformat
 
-Die Entscheidungsvorlage wird in vollständigen, ausformulierten Sätzen mit konkret begründeter Empfehlung und separatem Quellenvermerk geliefert. Skelette, Halbsätze und reine Informationssammlungen sind kein Endprodukt. Native Fassung in Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen; sonst Formatwunsch getrennt mitteilen. Bei neuen Angaben die bestehende Entscheidung gezielt fortschreiben und den geänderten Geltungsumfang klarstellen. Keine Installation, Registrierung, Übermittlung oder rechtsgeschäftliche Freigabe selbst ausführen.
+Die Entscheidungsvorlage wird in vollständigen, ausformulierten Sätzen mit konkret begründeter Empfehlung und separatem Quellenvermerk geliefert. Skelette, Halbsätze und reine Informationssammlungen sind kein Endprodukt. Native Fassung in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen; sonst Formatwunsch getrennt mitteilen. Bei neuen Angaben die bestehende Entscheidung gezielt fortschreiben und den geänderten Geltungsumfang klarstellen. Keine Installation, Registrierung, Übermittlung oder rechtsgeschäftliche Freigabe selbst ausführen.
 
 ## 6 Beispiele
 
@@ -226,7 +226,7 @@ Artikel 43, 47 bis 49, Anhang VI, Anhang VIII sowie Artikel 111/113 anhand amtli
 
 ## 5 Ausgabeformat
 
-Vollständig ausformuliertes Anbieteranschreiben oder Vertragsnachtrag, erforderlichenfalls mit gesondertem internen Prüfvermerk. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Native Dokumente in Times New Roman 11 pt mit dezimalen Überschriften und Leerzeilen; sonst separaten Exporthinweis geben. Die Anforderung muss Gegenstand, Umfang, Empfänger und Frist erkennen lassen. Nicht selbst registrieren, unterzeichnen oder absenden.
+Vollständig ausformuliertes Anbieteranschreiben oder Vertragsnachtrag, erforderlichenfalls mit gesondertem internen Prüfvermerk. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Native Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimalen Überschriften und Leerzeilen; sonst separaten Exporthinweis geben. Die Anforderung muss Gegenstand, Umfang, Empfänger und Frist erkennen lassen. Nicht selbst registrieren, unterzeichnen oder absenden.
 
 ## 6 Beispiele
 
@@ -270,7 +270,7 @@ Artikel 3, 6 und 25 sowie der aktuelle Änderungsstand sind über [Rechtsstand u
 
 ## 5 Ausgabeformat
 
-Liefere einen begründeten Rollenvermerk und die bestellte, direkt verwendbare interne Weisung oder Lieferantenkorrespondenz. Tatsachen, offene Fragen und Rechtsfolgen stehen im richtigen Empfängerdokument, nicht in einem unkommentierten Logdump. Das Endprodukt besteht aus vollständig ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Exporthinweis getrennt vom Empfängertext geben. Kein Versand, keine Meldung und keine produktive Systemänderung ohne Auftrag.
+Liefere einen begründeten Rollenvermerk und die bestellte, direkt verwendbare interne Weisung oder Lieferantenkorrespondenz. Tatsachen, offene Fragen und Rechtsfolgen stehen im richtigen Empfängerdokument, nicht in einem unkommentierten Logdump. Das Endprodukt besteht aus vollständig ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Exporthinweis getrennt vom Empfängertext geben. Kein Versand, keine Meldung und keine produktive Systemänderung ohne Auftrag.
 
 ## 6 Beispiele
 
@@ -314,7 +314,7 @@ Nutze [Rechtsstand und Quellen](https://github.com/Klotzkette/claude-fuer-deutsc
 
 ## 5 Ausgabeformat
 
-Liefere den bestellten Einstufungsvermerk mit Systemabgrenzung, Tatbestandsprüfung, Gegenargument, Ergebnis, zeitlichem Pflichtbeginn und konkreter Konsequenz für die Einführung. Vollständig ausformulierte Sätze und vollständige Begründung sind erforderlich; Stichwortskelette, Halbsätze oder bloße Ampeln sind kein Endprodukt. Native Dokumente: Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Textausgabe ein getrennter Exporthinweis.
+Liefere den bestellten Einstufungsvermerk mit Systemabgrenzung, Tatbestandsprüfung, Gegenargument, Ergebnis, zeitlichem Pflichtbeginn und konkreter Konsequenz für die Einführung. Vollständig ausformulierte Sätze und vollständige Begründung sind erforderlich; Stichwortskelette, Halbsätze oder bloße Ampeln sind kein Endprodukt. Native Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen; bei Textausgabe ein getrennter Exporthinweis.
 
 ## 6 Beispiele
 
@@ -358,7 +358,7 @@ Prüfe Artikel 6 Absätze 3 und 4, Artikel 49 Absatz 2, Anhang VIII Abschnitt B 
 
 ## 5 Ausgabeformat
 
-Liefere eine unterschriftsreife Begründung mit Produktversion, Funktionsumfang, Tatsachengrundlage, Subsumtion und Änderungsanlass oder ein versandfertiges ablehnendes Anbieteranschreiben. Keine bloße Aufzählung und keine Bestätigung nicht geprüfter Tests. Vollständig ausformulierte Sätze sind Pflicht; Skelette und Halbsätze sind als Endprodukt verboten. Times New Roman 11 pt, ausschließlich dezimale Überschriften mit Leerzeilen. Ohne native Ausgabe einen getrennten Exporthinweis geben. Tatsächlich fehlende Unterzeichnerangaben ausdrücklich markieren, keine Signatur nachahmen.
+Liefere eine unterschriftsreife Begründung mit Produktversion, Funktionsumfang, Tatsachengrundlage, Subsumtion und Änderungsanlass oder ein versandfertiges ablehnendes Anbieteranschreiben. Keine bloße Aufzählung und keine Bestätigung nicht geprüfter Tests. Vollständig ausformulierte Sätze sind Pflicht; Skelette und Halbsätze sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Überschriften mit Leerzeilen. Ohne native Ausgabe einen getrennten Exporthinweis geben. Tatsächlich fehlende Unterzeichnerangaben ausdrücklich markieren, keine Signatur nachahmen.
 
 ## 6 Beispiele
 
@@ -402,7 +402,7 @@ Prüfe Artikel 3 Nummern 1, 3, 4 und 12 sowie Artikel 6 und 25 anhand der [amtli
 
 ## 5 Ausgabeformat
 
-Liefere eine ausformulierte, versionsbezogene Systembeschreibung und, soweit beauftragt, ein versandfertiges Auskunftsschreiben mit konkreten Dokumenten und Zeitraum. Keine reine Faktenliste, keine leeren Klauselrümpfe. Formatiere native Dokumente in Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen nach Überschriften. Bei reinem Textausgang steht der Formatwunsch getrennt vom Empfängertext. Keine Übermittlung ohne ausdrückliche Freigabe.
+Liefere eine ausformulierte, versionsbezogene Systembeschreibung und, soweit beauftragt, ein versandfertiges Auskunftsschreiben mit konkreten Dokumenten und Zeitraum. Keine reine Faktenliste, keine leeren Klauselrümpfe. Formatiere native Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen nach Überschriften. Bei reinem Textausgang steht der Formatwunsch getrennt vom Empfängertext. Keine Übermittlung ohne ausdrückliche Freigabe.
 
 ## 6 Beispiele
 

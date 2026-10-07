@@ -118,6 +118,6 @@ Rechtsbehelf, Bekanntmachung, Zustellung und weitere Verfahrensschritte für die
 
 Bei einem Hindernis den belegten Teil und die konkrete erforderliche Aufklärung liefern. Nach Eingang die betroffene Rechnung oder Würdigung aktualisieren und bis zum bestellten vollständigen Dokument fortsetzen. Andere vorbereitende Skills sind optional, kein zwingender Durchlauf vor der Ausformulierung.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten; rechtliche Nachweise stehen an der sachlich passenden Stelle. Texte beim Export in Times New Roman 11 Punkt und dezimaler Gliederung, bei Markdown mit Exporthinweis. Erlass, Zustellung und Veröffentlichung nur durch die zuständigen Personen nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Technische Quellenstatus getrennt vom Entscheidungstext halten; rechtliche Nachweise stehen an der sachlich passenden Stelle. Texte beim Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, bei Markdown mit Exporthinweis. Erlass, Zustellung und Veröffentlichung nur durch die zuständigen Personen nach ausdrücklicher Freigabe.
 
 Bei fehlendem Akten- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke nennen. Zugängliche Teile weiterbearbeiten, keine vollständige Prüfung oder Dateierzeugung behaupten.

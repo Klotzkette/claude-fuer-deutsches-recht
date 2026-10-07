@@ -31,9 +31,10 @@
       "Influencer I auf bezahlten Beitrag statt pauschal auf jede Verlinkung bezogen",
       "Paragraf 5a Absatz 4 UWG nach heutiger Fassung berücksichtigt",
       "DSA-Artikel und Lizenzreichweite konkretisiert; redundante Ablauftexte gestrafft",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c701a5d07fc0b239d60491e8b64e2d1ca888f8b8893d37016d0002d72d0b5903"
+    "sha256": "5009ef302fbe3b377a024f3091c0e8540729a71c68eafb5f2c58ca176bc8abed"
   },
   "selection": {
     "positive": [

@@ -27,9 +27,10 @@
       "Keine pauschale Nachschusspflicht aus der Treuepflicht; sachverhaltsbezogene Zumutbarkeit und Alternativen eingefordert.",
       "Rechtsformbezogene Normen an Stimmrechts-, Minderheits- und Haftungsfragen angebunden.",
       "Schlusslektüre: Überschriften benennen Mitgliedschafts- und Organpflicht sowie Zustimmungserfordernis, Alternativen und Rechtsfolge statt interner Arbeitsbegriffe.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "efe651c325a654ed9862154dd30503f7a01f92359f7b91bef2d47380539cce01"
+    "sha256": "76a954fabd7b2cc1bbf20b9239d1a43b0b818a46f5f0a4b9afc125159d98ada5"
   },
   "selection": {
     "positive": [

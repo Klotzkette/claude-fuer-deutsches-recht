@@ -73,9 +73,10 @@
       "E-Mail-Zugang und Makler-Anwendungsbereich durch amtliche Entscheidungsanker konkretisiert.",
       "Leerstart: Form und Zugang, Nachtragskorrektur oder Signatur-/Fassungsabgleich wählen.",
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
-      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
+      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0c73f2f650caa4898ea5f7207190ee7303d6a2e0b73f57b3b5951b9f119307b2",
+    "sha256": "176f9c7b5471a1dca3325dba050933abba68a2e8bb0f2bee3090a37192df195a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -88,9 +89,10 @@
       "E-Mail-Zugang und Makler-Anwendungsbereich durch amtliche Entscheidungsanker konkretisiert.",
       "Leerstart: Form und Zugang, Nachtragskorrektur oder Signatur-/Fassungsabgleich wählen.",
       "Eine abweichende signierte Preisfassung verändert den Formbefund und den neu zu vereinbarenden Nachtrag; ein Zustellbeleg verändert nur die belegte Zugangszuordnung.",
-      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen."
+      "Signatur- und Inhaltsgleichheit getrennt prüfen; keine rückwirkende Heilung durch spätere Papierfassung unterstellen; Formfiktion nach Paragraf 130e ZPO mit konkret eingereichter und zugestellter Fassung verknüpfen; interne Freigaberegel und Vertragsform trennen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e93b3b55ae777154c7780922ea22e57cf3818a88839cb2aae95137b8645eddd0",
+    "sha256": "92e3c667bb7ef074d9306448efecb99959dd2701711619fa33c8dc3cb43ad513",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

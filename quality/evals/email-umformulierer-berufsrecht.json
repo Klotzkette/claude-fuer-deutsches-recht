@@ -36,9 +36,10 @@
       "BVerfG-Kontextmaßstab an tatsächlichen Tonkorrekturauftrag gebunden.",
       "Paragrafen 12 und 25 BORA gegenstandsbezogen konkretisiert.",
       "Zitierapparat und Abwägung bei Bedarf nur in separate Änderungsnotiz.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "65a7561f9db4fef70cb3939561884438f1773f1a5d61c1727a9fb1fab4e0a8f4"
+    "sha256": "a634fcaab6a70b2dadaca68e9f0bd3d257ed5119c628ac0138ce6067f5724a78"
   },
   "selection": {
     "positive": [
@@ -91,9 +92,10 @@
       "BVerfG-Kontextmaßstab an tatsächlichen Tonkorrekturauftrag gebunden.",
       "Paragrafen 12 und 25 BORA gegenstandsbezogen konkretisiert.",
       "Zitierapparat und Abwägung bei Bedarf nur in separate Änderungsnotiz.",
-      "Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme."
+      "Eingangstext gegenüber eigener Erklärung, unbeabsichtigtes Anerkenntnis und Vergleich, konkrete Nachweise, Vertraulichkeit, Vertretungslage sowie Entschuldigung ohne erfundene Haftungsübernahme.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b842447b9d180ee79db7937147c47d02ae47d492d4a3cc21e2d7132bfc169f3a"
+    "sha256": "049510bdddfc16c9e93282bfb7e42d5c25a793c19bd1f53ebf0655facba95750"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

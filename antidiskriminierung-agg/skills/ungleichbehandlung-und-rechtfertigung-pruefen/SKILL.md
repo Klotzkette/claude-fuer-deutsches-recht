@@ -26,7 +26,7 @@ BAG 29.01.2026, 8 AZR 49/25: konkrete berufliche Anforderungen und belegte Konfl
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Prüfvermerk mit enger Empfehlung und erforderlichen Nachweisen; auf Auftrag eine überarbeitete Regel. Keine reine Schlagwortliste. Times New Roman 11 pt, dezimale Gliederung. Offene Rechtsfragen nicht als sichere Freigabe darstellen.
+Vollständig ausformulierter Prüfvermerk mit enger Empfehlung und erforderlichen Nachweisen; auf Auftrag eine überarbeitete Regel. Keine reine Schlagwortliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offene Rechtsfragen nicht als sichere Freigabe darstellen.
 
 ## 6. Beispiel
 

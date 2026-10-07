@@ -42,7 +42,7 @@ Die folgenden optionalen Materialien sind bewahrte frühere Arbeitsentwürfe, ke
 
 ## 5. Ausgabeformat
 
-Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
+Das verlangte Arbeitsprodukt in vollständigen, ausformulierten Sätzen liefern; keine Skelette, Halbsätze oder reine Stichwortausgabe. Gesicherten Textbefund, historische Bewertung, Gegenbefund und offene Quelle erkennbar trennen. Tabellen nur für echte Vergleiche oder Belege verwenden. Formatierte Dokumente: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis nennen.
 
 Nach neuen Quellen am bestehenden Entwurf bis zur bestellten Analyse oder Lehrunterlage weiterarbeiten. Ein heutiger Schriftsatz ist nur bei entsprechender Anschlussfrage zu erstellen. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist ein möglicher Standard ohne andere Vorgabe.
 

@@ -31,9 +31,10 @@
       "Artikel 6 Absatz 3 Nummer 1 Buchstabe a und Absatz 5 BayDSchG in geltender Fassung konkret angewendet",
       "BVerfG-Zumutbarkeitsmaßstab mit Nutzung, Veräußerbarkeit, realer Entlastung und rechtzeitigem Ausgleich verbunden",
       "Bestehende Boden-, Steuer-, Welterbe- und Brandenburg-Routen erhalten; interne Überschriften und Rückfall-Checkliste beseitigt",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2ce865e232359e34604b5d85e537ba77174bd4010edb5ff365d3144c04aa9f6a"
+    "sha256": "baf5d8473146144de00b87cf7e8fe2dba1762a13161370f66a545e606202552b"
   },
   "selection": {
     "positive": [

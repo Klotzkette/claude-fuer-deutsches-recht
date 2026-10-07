@@ -32,9 +32,10 @@
       "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
       "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
       "Leerstart: Güterklassifizierung, Sanktionen oder Zollrechtsbehelf anbieten. Dateien: Transaktionsunterlagen still lesen und konkreten Prüfweg klären. Klarer Auftrag: Transaktionsbezogenen Vermerk, Antrag oder Einspruch direkt erstellen.",
-      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f09d22dddcb2009abb092c0802691f81113d9445c1309074d6b7f78484a84f35"
+    "sha256": "f2746008a0009ed6a7167030052d78dfc1a50a24822613df6559dd7ad7e956a9"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -44,9 +45,10 @@
       "Afrasiabi an Kontrolle des Zwischenempfängers und Nutzungspotenzial gebunden, historische Reichweite offengelegt",
       "Zoll, CBAM, Meldung und Transporthaftung getrennt erhalten",
       "Versionsbezogene Softwareklassifizierung, Namensverwechslung versus Kontrolle, Zollbescheid und Monatsfrist mit begrenzter Vollzugsfreigabe.",
-      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung."
+      "Neuer Softwareparameter verändert Listenabgleich und Antrag; Kontrollbeleg verändert Bereitstellungsprüfung; Warenkorrektur ändert Abgabenrechnung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e674704fbc78e73e21f387018988bbece34c65a21e4e29fd06975859e694b9ea"
+    "sha256": "56892c5e31848473527a474da3031cf881fedc19e99c00fd5fd636ad64a48dc1"
   },
   "selection": {
     "positive": [

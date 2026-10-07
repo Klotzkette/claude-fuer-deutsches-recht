@@ -41,7 +41,7 @@ Verbindlich ist die [Zitierweise](../../references/zitierweise.md). [Fachquellen
 
 Liefere ausgefüllten Vergabefahrplan, nachvollziehbare Wertschätzung und ausformulierte Losentscheidung. Ungeklärtes Regime wird als konkrete Freigabevoraussetzung kenntlich, nicht als angeblich bereits rechtssicheres Verfahren.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

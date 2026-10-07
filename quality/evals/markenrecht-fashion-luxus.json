@@ -46,9 +46,10 @@
       "Copad in Lizenzbruch und Erschöpfungsprüfung integriert",
       "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
       "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
-      "Drei Eingangsmodi, konkreter Dokumentpfad und Gegenmeldung zu Echtheit gegenüber Erschöpfung ergänzt."
+      "Drei Eingangsmodi, konkreter Dokumentpfad und Gegenmeldung zu Echtheit gegenüber Erschöpfung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "594975fc2d26c7e461798e86513dbb7a5bac7a8823c3fe23eec96e10c9215b3c"
+    "sha256": "6f43d81de5b588826fa86ebd932266410b3c0b09ec67e26a5aa1c212b4a5221a"
   },
   "selection": {
     "positive": [
@@ -102,9 +103,10 @@
       "Paragraf 30 Absatz 2 MarkenG von allgemeinen Vertriebsauflagen getrennt",
       "Prestigeschaden nicht aus Discountvertrieb allein abgeleitet",
       "Ungünstige Benutzungsbelege, stückbezogene Herkunftszuordnung und Korrektur widerlegter Plattformvorwürfe ergänzt.",
-      "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt."
+      "Qualitätskontrolle und Restbestandsabverkauf in konkrete Lizenzregelungen übersetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ec6447b28e87a5ddf0e7bc2c572dcd3b3759d43adfa3b58db8a651f4016854ab"
+    "sha256": "938b6e6c3434c24a665ad63451159e1fc1aa7e4ccc7f1db04f96016634c47fa7"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

@@ -53,7 +53,7 @@ Rechtsprechung nur ergänzen, wenn Gericht, Datum, Aktenzeichen und eine frei pr
 
 Liefere den bestellten Prüfvermerk, die Wirtschaftlichkeitsuntersuchung, den Bescheidentwurf oder die ausdrücklich gewünschte Übersicht. Ein Prüfauftrag verlangt keine ungefragte Klage oder Kassenanordnung. Rechenanlagen ergänzen die vollständige Begründung; technische Grenzen und Quellenstatus stehen getrennt vom Empfängertext.
 
-Dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Mittelbindung, Zahlung oder Bescheidversendung eigenmächtig veranlassen.
+Dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Mittelbindung, Zahlung oder Bescheidversendung eigenmächtig veranlassen.
 
 ## Red Flags
 

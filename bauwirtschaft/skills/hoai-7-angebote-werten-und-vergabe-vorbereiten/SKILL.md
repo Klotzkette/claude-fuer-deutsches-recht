@@ -61,7 +61,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Nutzen Sie die [phas
 
 Liefern Sie den ausgefüllten, nachrechenbaren Preisspiegel und das angeforderte Schreiben beziehungsweise die Entscheidungsvorlage samt Vertragszusammenstellung. Kein verpflichtendes Mammutpaket bei engem Teilauftrag. Empfängertext und internen Prüfvermerk trennen. Nachvollziehbare Tabellen ergänzen die ausformulierte Empfehlung.
 
-Ausformulierungspflicht: Endprodukte enthalten vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind keine Endfassung. Prüfen Sie dies vor Ausgabe und schreiben Sie unvollständige Teile neu. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen nach Überschriften, echte Umlaute und ß, Paragraf ausgeschrieben. Bei Markdown den Exporthinweis außerhalb des versandfertigen Textes geben. Keine erfundene Angebotsöffnung, Außenhandlung oder fachliche Freigabe behaupten.
+Ausformulierungspflicht: Endprodukte enthalten vollständige, ausformulierte Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind keine Endfassung. Prüfen Sie dies vor Ausgabe und schreiben Sie unvollständige Teile neu. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen nach Überschriften, echte Umlaute und ß, Paragraf ausgeschrieben. Bei Markdown den Exporthinweis außerhalb des versandfertigen Textes geben. Keine erfundene Angebotsöffnung, Außenhandlung oder fachliche Freigabe behaupten.
 
 ## 6. Beispiele
 

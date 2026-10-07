@@ -25,9 +25,10 @@
     "changes": [
       "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
       "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
-      "Vergleichsroute bei leerem Einstieg und stille Sichtung bei Dateien; Berater- und Backupantwort am vorhandenen Entwurf umgesetzt."
+      "Vergleichsroute bei leerem Einstieg und stille Sichtung bei Dateien; Berater- und Backupantwort am vorhandenen Entwurf umgesetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "303014cbcab904cf89cde44be7ea77d918260dd261d175f3d8c86975f1dba8e8"
+    "sha256": "b3d405de3f1bf0a1cf3b7d583bf3ce30d66753a20a13204763990505534ec52b"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -36,9 +37,10 @@
       "Sachfremde Vertriebs-, Rücktritts- und Prozessnormen entfernt; NDA-spezifische Nutzungs- und Schutzregeln eingeordnet.",
       "Arbeitsrechtlichen Geheimhaltungsanker mit Grenze zum Unternehmens-NDA belegt; gezielte Änderung und Archivkopienfall erhalten.",
       "Sollvergleich gegenüber Versionsvergleich, Anlagenrangfolge, uneinheitliche Altstandards und gegenläufige Zugriffsinteressen ergänzt.",
-      "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet."
+      "Technische Tests, Erinnerungswissen, wiederhergestellte Backups und gestufte Vorfallinformation als konkrete Klauselentscheidungen mit Abschlusskriterium ausgestaltet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0411d0e5dab6acf505d20c9d8fe08f5b08680ce87273f059088da18b81c8fdf2"
+    "sha256": "66375f3fc47ed183a2b6f8b74c6b416d5e48269c604e57134c286cd586b7a382"
   },
   "selection": {
     "positive": [

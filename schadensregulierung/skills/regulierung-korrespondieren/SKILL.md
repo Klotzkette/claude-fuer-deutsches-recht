@@ -28,7 +28,7 @@ Letztes Schreiben, bestätigte Tatsachen, konkreter Prüfstand, Empfänger, Vert
 
 ## 5. Ausgabeformat
 
-Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
+Adressat, Datum, eigene und fremde Vorgangsnummer, aussagekräftiger Betreff, Anrede, verständlicher Text, konkrete nächste Schritte, Anlagen und Unterschriftszeile. Vollständige Sätze statt einer Bausteinliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich und dezimale Gliederung nur soweit der Brief sie benötigt. Interne Freigabehinweise außerhalb des versandfertigen Textes halten; kein erfundener Dateilink.
 
 ## 6. Beispiel
 

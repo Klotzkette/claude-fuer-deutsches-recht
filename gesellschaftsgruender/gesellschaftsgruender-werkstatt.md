@@ -112,4 +112,4 @@ Prüfe Beträge, Mehrheiten, Vertretung, Form und Einarbeitung neuer Antworten. 
 
 ## 1.11. Technische Grenzen
 
-Ohne Zugriff konkrete Auszüge anfordern und unabhängige Teile weiterbearbeiten; ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills sind optional, nicht Voraussetzung zur Fortsetzung. Formatierte Dokumente in Times New Roman 11 pt mit dezimaler Gliederung, sonst Exporthinweis; nicht erfolgte Prüfungen offen benennen.
+Ohne Zugriff konkrete Auszüge anfordern und unabhängige Teile weiterbearbeiten; ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills sind optional, nicht Voraussetzung zur Fortsetzung. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung, sonst Exporthinweis; nicht erfolgte Prüfungen offen benennen.

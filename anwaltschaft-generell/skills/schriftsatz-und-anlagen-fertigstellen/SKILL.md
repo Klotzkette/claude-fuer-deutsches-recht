@@ -39,7 +39,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiger Schriftsatz mit Rubrum, Anträgen, tragendem Sachverhalt, rechtlicher Begründung und konkreten Beweisangeboten; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Ein Anlagenverzeichnis ergänzt den Text. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen. Bei Markdown separater Exporthinweis. Fehlende entscheidende Angaben und Freigabeprüfung stehen außerhalb der Empfängerfassung; keine fiktive Einreichungsbestätigung.
+Ausformulierungspflicht: vollständiger Schriftsatz mit Rubrum, Anträgen, tragendem Sachverhalt, rechtlicher Begründung und konkreten Beweisangeboten; keine Skelette, Halbsätze und reinen Aufzählungs-Auswürfe. Ein Anlagenverzeichnis ergänzt den Text. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen. Bei Markdown separater Exporthinweis. Fehlende entscheidende Angaben und Freigabeprüfung stehen außerhalb der Empfängerfassung; keine fiktive Einreichungsbestätigung.
 
 ## 6. Beispiele
 

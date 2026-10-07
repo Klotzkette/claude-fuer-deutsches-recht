@@ -300,7 +300,7 @@ Mit freundlichen Grüßen
 
 Bei Nachrang Tatbestand, einschlägige Ausnahme und besonderen Aufruf erläutern. Ohne Aufruf nicht gerade die Nachranganmeldung verlangen. Bei Sicherheit bestimmte Vertrags- und Gegenstandszuordnung statt „sämtlicher Bankunterlagen“ anfordern. Bei Verspätung den Prüfweg ohne Ausschlussbehauptung erklären. Bei tituliertem Bestreiten richtige Verfolgungslast prüfen.
 
-Technische Exporthinweise und Rechercheprotokolle gehören nicht in den Empfängertext. Entwurfsstatus und noch fehlende Freigabe in der Übergabenotiz festhalten. Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung; eine reine Textausgabe nicht als bereits formatiertes PDF bezeichnen.
+Technische Exporthinweise und Rechercheprotokolle gehören nicht in den Empfängertext. Entwurfsstatus und noch fehlende Freigabe in der Übergabenotiz festhalten. Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; eine reine Textausgabe nicht als bereits formatiertes PDF bezeichnen.
 
 ## 1.14. Elektronische Übergabe kontrollieren
 

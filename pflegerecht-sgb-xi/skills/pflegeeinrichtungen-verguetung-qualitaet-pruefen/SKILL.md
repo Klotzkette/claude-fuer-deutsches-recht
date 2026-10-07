@@ -32,7 +32,7 @@ Einrichtungsart, Bundesland, Streitzeitraum, Versorgungsvertrag, Landesrahmenver
 
 ## 5. Ausgabeformat
 
-Positionsbezogener Abgleich und vollständig ausformulierte Stellungnahme. Verantwortlicher, Umsetzungstermin und Nachweis nur für tatsächlich beschlossene Abhilfen nennen; kein Anerkenntnis aus einer bloßen Maßnahmenliste ableiten. Times New Roman 11 pt soweit möglich und dezimale Gliederung, keine Stichwortskelette als Endprodukt.
+Positionsbezogener Abgleich und vollständig ausformulierte Stellungnahme. Verantwortlicher, Umsetzungstermin und Nachweis nur für tatsächlich beschlossene Abhilfen nennen; kein Anerkenntnis aus einer bloßen Maßnahmenliste ableiten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich und dezimale Gliederung, keine Stichwortskelette als Endprodukt.
 
 ## 6. Beispiele
 

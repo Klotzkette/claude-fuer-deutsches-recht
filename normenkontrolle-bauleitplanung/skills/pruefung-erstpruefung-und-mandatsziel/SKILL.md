@@ -37,7 +37,7 @@ Tragende Normen und Entscheidungen amtlich prüfen; `references/zitierweise.md` 
 
 Liefere das verlangte Dokument vollständig ausformuliert. Bei einem Hindernis den belastbaren Teil und den benötigten nächsten Beitrag benennen; nach dessen Eingang weiterarbeiten, nicht bei einer Lückenliste stehenbleiben. Ein Gutachtenauftrag verlangt keinen ungefragten Antrag.
 
-Nutzerdateinamen gehen vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand oder Einreichung nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Quellenstatus und technische Hinweise getrennt vom Empfängertext dokumentieren. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis. Versand oder Einreichung nur nach ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel und optionale Vertiefung
 

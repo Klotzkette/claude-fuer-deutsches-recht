@@ -28,7 +28,7 @@ Vorhandene Fassungen beider Dokumente, Anlagenverzeichnis, relevante Pläne sowi
 
 ## 5. Ausgabeformat
 
-Abgleichsvermerk mit Prüfbereich und kurzem Ergebnis; Tabelle: Konflikt-ID, Gegenstand, Fundstelle Beschreibung, Fundstelle LV, Unterschied, Folge, konkrete Klärungsfrage. Anschließend fertige Klärungsnachricht. Ausformulierungspflicht: verständliche vollständige Sätze auch für Feststellungen und Fragen; keine Skelette, Halbsätze oder reine Aufzählungen als Endprodukt. Formatstandard: soweit möglich Times New Roman 11 pt und dezimale Gliederung; Markdown erhält einen getrennten Exporthinweis. Ein umfangreiches Quellenregister darf im internen Anhang bleiben.
+Abgleichsvermerk mit Prüfbereich und kurzem Ergebnis; Tabelle: Konflikt-ID, Gegenstand, Fundstelle Beschreibung, Fundstelle LV, Unterschied, Folge, konkrete Klärungsfrage. Anschließend fertige Klärungsnachricht. Ausformulierungspflicht: verständliche vollständige Sätze auch für Feststellungen und Fragen; keine Skelette, Halbsätze oder reine Aufzählungen als Endprodukt. Formatstandard: soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; Markdown erhält einen getrennten Exporthinweis. Ein umfangreiches Quellenregister darf im internen Anhang bleiben.
 
 ## 6. Beispiele
 

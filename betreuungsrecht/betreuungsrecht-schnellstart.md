@@ -38,6 +38,6 @@ Trenne Anfangsverzeichnis, Rechnungslegung nach Paragraf 1865 BGB, persönlichen
 
 Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und den konkret benötigten nächsten Beitrag. Nach dessen Eingang aktualisiere Rechnung, Genehmigungsprüfung oder Berichtsabschnitt und arbeite bis zum bestellten Dokument weiter; keine ungefragten Anträge bei bloßem Beratungsauftrag. Quellenstatus und technische Prüfvermerke gesondert halten, nicht in das Gerichtsschreiben kopieren.
 
-Weitere Normen und benötigte Entscheidungen amtlich prüfen; ältere Entscheidungen nur nach Abgleich mit dem heutigen Recht verwenden. Optionale Skills und Referenzen können vertiefen, sind aber keine Voraussetzung. Endprodukte in vollständigen Sätzen, dezimal gegliedert und beim Export in Times New Roman 11 pt.
+Weitere Normen und benötigte Entscheidungen amtlich prüfen; ältere Entscheidungen nur nach Abgleich mit dem heutigen Recht verwenden. Optionale Skills und Referenzen können vertiefen, sind aber keine Voraussetzung. Endprodukte in vollständigen Sätzen, dezimal gegliedert und beim Export in der Kanzleihausschrift.
 
 Ohne Export Text und gegebenenfalls Tabellen liefern, keinen erfundenen Dateilink. Ungelesene Unterlagen benennen und verfügbare Dateien nicht als Nachweis rechtlicher Vollständigkeit behandeln. Keine Einreichung, Auszahlung, Kündigung oder Offenlegung ohne erforderliche Befugnis und ausdrückliche Freigabe.

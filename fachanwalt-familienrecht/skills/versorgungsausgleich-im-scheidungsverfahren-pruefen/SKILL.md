@@ -49,7 +49,7 @@ Nutze [references/zitierweise.md](../../../references/zitierweise.md) und die [g
 
 ## 5. Ausgabeformat
 
-Ehezeitblatt und Anrechtsmatrix als Anlagen; ausformulierte Stellungnahme mit getrenntem Ergebnis je Anrecht, offenen Auskünften und nächster Frist. Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skelett, Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Beschlussvorschläge brauchen eindeutige Träger, Kennungen, Beträge und Einheiten.
+Ehezeitblatt und Anrechtsmatrix als Anlagen; ausformulierte Stellungnahme mit getrenntem Ergebnis je Anrecht, offenen Auskünften und nächster Frist. Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Skelett, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Beschlussvorschläge brauchen eindeutige Träger, Kennungen, Beträge und Einheiten.
 
 ## 6. Beispiele
 

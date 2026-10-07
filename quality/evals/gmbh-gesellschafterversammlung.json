@@ -301,9 +301,10 @@
     "changes": [
       "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
       "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
-      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ddf7abc1ba74864e321fa006f438c4a495974e37f21e3c9f69b62e9476c1e6f3"
+    "sha256": "81a4258f4a79dd739a3a4b0c824f82e1e51efeb0322d91bbd0910cde9e583693"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -311,8 +312,9 @@
     "changes": [
       "Gezielte Rückfragen und vollständige Dokumente aus dem vorhandenen Stand.",
       "Aktuelle Textform im Umlauf, getrennte Ladung juristischer Personen und keine pauschale Postlaufannahme.",
-      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen."
+      "Feststellungskompetenz, Stimmverbot, exakte Rechenvarianten und notarielle Form eigenständig prüfen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b125377b17d3a72271c8b2091417a42306e74fba7ab4b59e4ba5b3d358037f7e"
+    "sha256": "7fe638efd80fb54b5d4d49590933fe837f5bb9ea5161055975a6593e107e9f79"
   }
 }

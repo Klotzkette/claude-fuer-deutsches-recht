@@ -34,4 +34,4 @@ Nach Eingang der Akte gleiche die Vorwürfe mit der bisherigen Einlassung ab. Fe
 
 Eine gesonderte Begleitnotiz nennt Fristsicherung, stärkstes Gegenargument, fehlende Belege und Quellenstatus; diese internen Hinweise nicht in den Empfängerschriftsatz kopieren. Weitere Rechtsnormen und Entscheidungen nur aus geprüften amtlichen Quellen verwenden; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfter Fundstelle.
 
-Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Spezialskills sind optional. Ohne Export den Text liefern, ohne Aktenzugriff keine vollständige Prüfung behaupten. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Times New Roman 11 pt beim Export.
+Der gewünschte Dateiname geht vor; `ergebnis.md` ist nur ein Standard ohne andere Vorgabe. Spezialskills sind optional. Ohne Export den Text liefern, ohne Aktenzugriff keine vollständige Prüfung behaupten. Keine Einreichung ohne Freigabe. Dezimale Gliederung, vollständige Sätze und Kanzleihausschrift beim Export.

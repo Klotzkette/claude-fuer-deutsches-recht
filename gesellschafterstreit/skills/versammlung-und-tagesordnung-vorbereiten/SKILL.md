@@ -31,7 +31,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Tragende Aussagen be
 
 Liefere die vollständige Einladung beziehungsweise das Ergänzungsverlangen mit präzisen TOP und ausformulierten Beschlussvorschlägen. Trenne internen Ablauf-/Fristenvermerk und den versandfertigen Empfängertext. Noch nicht erfolgte Abstimmungen oder Zugänge bleiben als künftig beziehungsweise offen gekennzeichnet.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
 
 ## 6. Beispiele
 

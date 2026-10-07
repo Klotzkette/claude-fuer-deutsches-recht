@@ -37,7 +37,7 @@ Vorhandene freigegebene Unterlagen, gewünschter Empfänger und Arbeitsauftrag. 
 
 ## 5. Ausgabeformat
 
-Zuerst das bestellte Arbeitsprodukt in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht gilt auch bei Tabellen: Einträge müssen verständliche Feststellungen sein; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Danach eine getrennte kurze Prüfanmerkung mit offenen entscheidenden Punkten und nächstem Verantwortlichen. Formatstandard: soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung. Bei Markdown nur getrennten Exporthinweis geben; keine nicht erzeugte Datei behaupten.
+Zuerst das bestellte Arbeitsprodukt in vollständigen, ausformulierten Sätzen. Die Ausformulierungspflicht gilt auch bei Tabellen: Einträge müssen verständliche Feststellungen sein; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Danach eine getrennte kurze Prüfanmerkung mit offenen entscheidenden Punkten und nächstem Verantwortlichen. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung. Bei Markdown nur getrennten Exporthinweis geben; keine nicht erzeugte Datei behaupten.
 
 ## 6. Beispiele
 

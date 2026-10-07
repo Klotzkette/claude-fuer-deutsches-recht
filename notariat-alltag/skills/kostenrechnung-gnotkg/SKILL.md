@@ -41,7 +41,7 @@ Bei einer Gesetzesänderung richtet sich die notarielle Kostenberechnung nach [G
 
 ## 5. Ausgabeformat
 
-Rechenfähige Kostenberechnung mit vollständigem Anschreiben zur notariellen Prüfung; notwendige Zahlen dürfen tabellarisch stehen. Times New Roman 11 pt, dezimale Gliederung. Offenlassen einer fehlenden Wertgrundlage ist besser als eine scheinbar fertige, unbelegte Rechnung.
+Rechenfähige Kostenberechnung mit vollständigem Anschreiben zur notariellen Prüfung; notwendige Zahlen dürfen tabellarisch stehen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offenlassen einer fehlenden Wertgrundlage ist besser als eine scheinbar fertige, unbelegte Rechnung.
 
 ## 6. Beispiel
 

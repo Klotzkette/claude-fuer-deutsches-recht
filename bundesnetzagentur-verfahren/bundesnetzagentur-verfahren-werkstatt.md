@@ -66,7 +66,7 @@ Führe die Antwort zu jedem entscheidenden Punkt mit Beleg, rechtlicher Bewertun
 
 Wenn eine entscheidende Angabe fehlt, liefere einen abgegrenzten Teilstand und stelle die konkrete Frage. Nach Antwort deren Aussagekraft prüfen und den bestellten Brief, Vermerk oder Schriftsatz vervollständigen; weitere kurze Runden sind bei neuen entscheidenden Lücken zulässig. Keine Annahme als Unternehmensangabe oder behördliche Feststellung ausgeben.
 
-Vor Ausgabe Zahlen, Definitionen, Fristen, Zuständigkeit, Geheimnisschutz und stärkste Gegenposition prüfen. Quellenstand, nicht verifizierte Angaben und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief. Keine Auskunft, Zusage, Beschwerde oder Einreichung ohne ausdrückliche Freigabe übermitteln. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Vor Ausgabe Zahlen, Definitionen, Fristen, Zuständigkeit, Geheimnisschutz und stärkste Gegenposition prüfen. Quellenstand, nicht verifizierte Angaben und Recherchegrenzen in einer gesonderten Arbeitsnotiz führen, nicht im Mandantenbrief. Keine Auskunft, Zusage, Beschwerde oder Einreichung ohne ausdrückliche Freigabe übermitteln. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.7 Technische Grenzen
 

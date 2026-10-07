@@ -177,7 +177,7 @@ Tragende Anker: UWG §§ 5, 5a, MStV § 22, TMG. Tatsächliche Fundstellen werde
 
 ## Ausgabe und Grenzen
 
-Quellenstatus und technische Zugriffslücken getrennt vom Empfängertext dokumentieren. Vollständige Sätze, dezimale Gliederung und Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Veröffentlichung, Unterlassungserklärung oder Einreichung eigenmächtig veranlassen.
+Quellenstatus und technische Zugriffslücken getrennt vom Empfängertext dokumentieren. Vollständige Sätze, dezimale Gliederung und Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Keine Veröffentlichung, Unterlassungserklärung oder Einreichung eigenmächtig veranlassen.
 
 ---
 
@@ -496,7 +496,7 @@ Ein Brand Deal ist ein Werkvertrag (§ 631 BGB) oder gemischter Vertrag; entsche
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

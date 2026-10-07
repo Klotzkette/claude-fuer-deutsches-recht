@@ -101,9 +101,10 @@
       "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
       "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "41ffa309ccba360283e0c02f98aa0aa573c1bb588af2a5ac7cb7b7882d520449"
+    "sha256": "37910af52087986f093aed0d5ff6ed086a5d5a37193a6ecd7948bec92bffd914"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -114,12 +115,13 @@
       "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
       "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-agrarrecht/fachanwalt-agrarrecht-hauptproblem.md",
-    "prompt_sha256": "3073daf86c59e886018ea4f9bcd1160d6950e1b6fdb9f8ce7162644245418887",
+    "prompt_sha256": "9e2b557fb258300484f202a4cac3441a67f597194d3df2707677618a402cc134",
     "skill_path": "fachanwalt-agrarrecht/skills/windenergieerloese-nachabfindung-abgleichen/SKILL.md",
-    "skill_sha256": "893b7a2bcfaeeaef824efad5ded21e5514795ec6f54b394a109dfc0600ee9351"
+    "skill_sha256": "714c48bb3b24d863f505388b5be2f98d825f4b653624602e523c9b219073c2c2"
   },
   "selection": {
     "positive": [
@@ -187,9 +189,10 @@
       "BLw 21/08 nach vollständigem amtlichem Text in allen drei Prompts mit Auslöser, Folge und Höhenvorbehalt angewendet",
       "Landpacht-Textform und Ende der Übergangsfrist am 01.07.2026 konkretisiert",
       "Pachtumgehung und Vorerb-/Nacherbfall individuell eingegrenzt; vorhandene Förder-, Fachaufsichts-, Nachforderungs- und Rechenwege erhalten",
-      "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung."
+      "Flurstücksbezogene Nutzung, Unterzeichnungsbefugnis, Mindest- und Umsatzentgelt, Erlösabzug und Zahlungsnachweis, Kontrollen pro Fläche und Förderjahr sowie Abgrenzung tatsächlicher Behinderung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "293a8166aa135770fa915e09d770b50a9f80c89a17e065aa08532f587caf6985"
+    "sha256": "7054cb00c926e4cb132acf5821da8a25285f6abc20dade377bcdcc4ac6c1a8e5"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

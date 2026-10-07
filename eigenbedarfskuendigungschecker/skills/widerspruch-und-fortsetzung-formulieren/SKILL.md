@@ -27,7 +27,7 @@ Paragrafen 126b, 568 Absatz 2 und 574 bis 574b BGB; BGH, Beschluss vom 01.09.202
 
 ## 5. Ausgabeformat
 
-Vollständiger Brief mit Absender, Empfänger, Wohnung, Bezug, konkretem Verlangen, Begründung und Anlagen. Keine Skelettformulierung. Soweit möglich Times New Roman 11 pt und dezimale Gliederung. Versandweg und Zugangsnachweis separat erläutern; nicht selbst senden.
+Vollständiger Brief mit Absender, Empfänger, Wohnung, Bezug, konkretem Verlangen, Begründung und Anlagen. Keine Skelettformulierung. Soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Versandweg und Zugangsnachweis separat erläutern; nicht selbst senden.
 
 ## 6. Beispiel
 

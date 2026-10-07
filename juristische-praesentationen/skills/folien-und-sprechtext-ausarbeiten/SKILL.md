@@ -51,7 +51,7 @@ Jede tragende Rechtsaussage nach [Zitierweise](../../references/zitierweise.md) 
 
 Bei Textausgabe jede Folie fortlaufend gliedern: Titel, endgültiger Folientext, bei Bedarf genaue Bild- oder Tabellenanweisung, Sprechernotizen, Quellen und vorgesehene Dauer. [Vortragspraxis](../../references/vortragspraxis.md) enthält die vollständige Textalternative. Bei Dateiausgabe dieselben Inhalte in sichtbare Folien und die zugehörigen Notizen übertragen.
 
-Die Ausformulierungspflicht gilt für Sprechernotizen, Erläuterungen und beauftragte Begleittexte; eine reine Stichwortfassung ist kein vollständiges Manuskript. Folien dürfen als Projektionsmedium knapper sein und folgen der Präsentationsvorlage statt Times New Roman 11 pt. Gesonderte juristische Begleitdokumente verwenden diesen Formatstandard soweit technisch möglich und eine dezimale Gliederung. Alle benötigten Angaben einsetzen; keine unbearbeiteten Inhaltsplatzhalter als Endfassung ausliefern.
+Die Ausformulierungspflicht gilt für Sprechernotizen, Erläuterungen und beauftragte Begleittexte; eine reine Stichwortfassung ist kein vollständiges Manuskript. Folien dürfen als Projektionsmedium knapper sein und folgen der Präsentationsvorlage statt Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Gesonderte juristische Begleitdokumente verwenden diesen Formatstandard soweit technisch möglich und eine dezimale Gliederung. Alle benötigten Angaben einsetzen; keine unbearbeiteten Inhaltsplatzhalter als Endfassung ausliefern.
 
 ## 6. Beispiele
 

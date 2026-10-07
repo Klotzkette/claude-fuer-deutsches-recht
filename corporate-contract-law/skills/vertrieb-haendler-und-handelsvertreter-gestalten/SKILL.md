@@ -31,7 +31,7 @@ Nutzen Sie HGB und Artikel 101 AEUV sowie Verordnung (EU) 2022/720 in aktueller 
 
 ## 5. Ausgabeformat
 
-Liefern Sie den bestellten Vertriebsvertrag in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Verwenden Sie soweit möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Halten Sie Quellenstatus und kartellrechtliche Prüfvorbehalte getrennt vom Empfängertext; bei Markdown gilt ein separater Exporthinweis.
+Liefern Sie den bestellten Vertriebsvertrag in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und neu auszuarbeiten. Verwenden Sie soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Halten Sie Quellenstatus und kartellrechtliche Prüfvorbehalte getrennt vom Empfängertext; bei Markdown gilt ein separater Exporthinweis.
 
 ## 6. Beispiele
 

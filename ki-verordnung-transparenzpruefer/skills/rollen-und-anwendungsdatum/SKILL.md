@@ -34,7 +34,7 @@ Nutze [Rechtsstand](../../references/rechtsstand-artikel-50.md), Abschnitte 1 un
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
+Liefere das beauftragte Rollenmemorandum als vollständigen, argumentierenden Text, bei gewünschtem Dateiexport DOCX, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, klare Abstände. Eine kleine Tabelle darf Akteur, Funktion, Norm, Zeitpunkt und Beleg zusammenführen; sie ersetzt die Begründung nicht. Fehlende Belege führen zu benannten Bedingungen, nicht zu einer behaupteten Gesamtfreigabe.
 
 ## 6. Beispiel
 

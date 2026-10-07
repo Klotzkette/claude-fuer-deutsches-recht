@@ -27,7 +27,7 @@ Prüfen Sie die [Rechtsquellen](../../references/rechtsquellen.md) und aktuelle 
 
 ## 1.5. Ausgabeformat
 
-Liefern Sie vier echte DOCX-Dateien und ein ZIP mit denselben Dokumenten, soweit tatsächlich erzeugt. Die Ausformulierungspflicht gilt für jeden Entwurf: vollständige, prägnante Sätze; keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Verwenden Sie soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Kennzeichnen Sie fehlende Tatsachen mit lesbaren Platzhaltern. Nennen Sie den Entwurfsstatus und offene Prüfpunkte getrennt von den Empfängertexten. Es erfolgt kein automatischer Versand.
+Liefern Sie vier echte DOCX-Dateien und ein ZIP mit denselben Dokumenten, soweit tatsächlich erzeugt. Die Ausformulierungspflicht gilt für jeden Entwurf: vollständige, prägnante Sätze; keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Verwenden Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Kennzeichnen Sie fehlende Tatsachen mit lesbaren Platzhaltern. Nennen Sie den Entwurfsstatus und offene Prüfpunkte getrennt von den Empfängertexten. Es erfolgt kein automatischer Versand.
 
 ## 1.6. Beispiele
 

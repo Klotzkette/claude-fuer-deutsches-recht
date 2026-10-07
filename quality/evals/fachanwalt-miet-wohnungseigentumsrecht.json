@@ -131,9 +131,10 @@
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "VIII ZR 50/23 konkret ergänzt; Beschlussklage nach V ZR 43/22 harmonisiert. Zwei-/Dreiwochenfehler, additive Begründungsfrist, falsche Absatzzuordnung, Vertretungs- und Streitwertfehler im betroffenen WEG-Skill korrigiert.",
-      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt."
+      "Mietpreisbremse 2026 bestätigt; WEG-Beschlusskompetenz trotz delegierter Erhaltung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1e7966d6b00355b7e54a839dca0b78e1fa236868b781268acd9b44a28bdc96d5",
+    "sha256": "e0f0d60d1aeccd1190f64e1e66a6aecc6fc0de87421a4c8eede0f8bd77786696",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -146,12 +147,13 @@
       "VIII ZR 81/19 nach Abnutzung, Beweislast und Teilbarkeit angewandt.",
       "Alte nicht neu geprüfte Urteile ausdrücklich zu Recherchehinweisen herabgestuft.",
       "Paragraf 578 und Übergang bis einschließlich 1. Januar 2026 sowie Paragraf 130e ZPO differenziert.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-miet-wohnungseigentumsrecht/fachanwalt-miet-wohnungseigentumsrecht-hauptproblem.md",
-    "prompt_sha256": "b48c1af8874ce23bb8574387e5d9c158256b435690342f247bc0588e5ad6c4a4",
+    "prompt_sha256": "64eb68912398cbe5787ea6029f1d1f426a00412a12949157b3da030f8b72b9c6",
     "skill_path": "fachanwalt-miet-wohnungseigentumsrecht/skills/modernisierung-rechnungsabgleich-erhaltungsanteil/SKILL.md",
-    "skill_sha256": "5f61cba4c94fd531b9e57baefb0abf6201b38bbc244b17a3bdca99d9d2eeeab1"
+    "skill_sha256": "3351e509832b84177d4473cdc8a8d1b92a53a074f73ae927fc3ead050e456a32"
   },
   "selection": {
     "positive": [

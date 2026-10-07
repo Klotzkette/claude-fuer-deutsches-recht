@@ -29,6 +29,6 @@ Eine Nachforderung darf einen ungeklärten Eigentumswechsel nicht als Tatsache d
 
 Tragende historische und aktuelle Normfassungen sowie Übergangsrecht anhand amtlicher Quellen prüfen. Entscheidungen nur mit überprüftem Inhalt und Fundstelle verwenden. Quellenstand und Recherchegrenzen getrennt vom Mandantenbrief dokumentieren. Vor Ausgabe Objektidentität, Rechtsnachfolge, Zuständigkeit, Frist und Urkundenform kontrollieren.
 
-Archivbestellungen, Anträge, Erklärungen und Grundbuchvollzug nur nach ausdrücklicher Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Archivbestellungen, Anträge, Erklärungen und Grundbuchvollzug nur nach ausdrücklicher Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Unterlagen und Werkzeuge verwenden und unlesbare Teile konkret nachfordern. Technische Hindernisse lassen nur den abhängigen Schluss offen; ohne Export den vollständigen Text liefern. Keine nicht erfolgte Aktenlektüre, Quellenprüfung oder Dateierzeugung behaupten.

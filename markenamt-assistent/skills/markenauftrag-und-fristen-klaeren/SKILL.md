@@ -37,7 +37,7 @@ Rechtsstand der geprüften Ausgangsquellen: 01.10.2026. §§ 42, 64, 66, 91, 95a
 
 Die Ausformulierungspflicht ist verbindlich: vollständige grammatikalisch saubere Sätze, keine Skelette, Halbsätze oder bloßen Aufzählungen als Endprodukt. Prüfe vor Ausgabe den Formatstandard und arbeite unvollständige Fassungen aus.
 
-Fristenblatt, Rollenvermerk und priorisierter Arbeitsauftrag mit sofort verwendbarem Antwortentwurf. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
+Fristenblatt, Rollenvermerk und priorisierter Arbeitsauftrag mit sofort verwendbarem Antwortentwurf. Liefere vollständig ausformulierte Dokumente, konkrete Anlagenverweise und eine kurze Liste noch fehlender Angaben. Formale Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen. Halte Tatsachen, rechtliche Bewertung und Handlungsempfehlung auseinander; markiere Entwürfe als Entwürfe.
 
 ## 6. Anwendung und Abgrenzung
 

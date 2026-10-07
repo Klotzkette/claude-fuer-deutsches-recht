@@ -32,7 +32,7 @@ Zweckbestimmung, tatsächliche Verwendung, betroffene Personen, Einfluss auf Ent
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Freigabe-, Änderungs- oder Einstellungsvermerk. Eine kurze Tabelle ergänzt ihn: Funktion, Tatbestandsmerkmal, Beleg, Gegenargument, Datum, Konsequenz. Kein Häkchenformular als Ersatz der Begründung. Times New Roman 11 pt und dezimale Gliederung; ohne Export vollständigen Text liefern. Meldung, Veröffentlichung oder technische Abschaltung nur nach gesonderter Freigabe ausführen.
+Liefere einen ausformulierten Freigabe-, Änderungs- oder Einstellungsvermerk. Eine kurze Tabelle ergänzt ihn: Funktion, Tatbestandsmerkmal, Beleg, Gegenargument, Datum, Konsequenz. Kein Häkchenformular als Ersatz der Begründung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; ohne Export vollständigen Text liefern. Meldung, Veröffentlichung oder technische Abschaltung nur nach gesonderter Freigabe ausführen.
 
 ## 6. Beispiele
 

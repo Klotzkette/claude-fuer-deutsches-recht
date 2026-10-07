@@ -87,7 +87,7 @@ Vor Abschluss prüfen, ob Rechtsträger beziehungsweise Organisation, Auftraggeb
 
 Fortsetzungsbeispiel: Der nachgereichte Vertrag belegt, dass die Agentur nicht unmittelbar vom Verband, sondern von dessen Hauptagentur beauftragt wurde. Ändere im vereinbarten Pfad, etwa `register/aenderungsentwurf.md`, die betroffenen Auftraggeber- und Einsatzangaben und in einem beauftragten `register/aktualisierungsplan.md` den konkreten Änderungsanlass. Prüfe nur die nun offene Zuordnung weiterer Beteiligter; bereits belegte Geschäftsjahreszahlen und Kontaktdaten bleiben Arbeitsgrundlage. Ohne Dateizugriff gib die aktualisierten Feldtexte aus. Abschluss ist der vollständige prüfbare Entwurf; eine neue Startaufnahme oder ein nicht beauftragter Portalvorgang folgt daraus nicht.
 
-Vollständig ausformuliert unter dem gewünschten Dateinamen liefern. Eine vorbereitete Eintragung ist keine erfolgte Registrierung; Portalveröffentlichung nur nach inhaltlicher und handlungsbezogener Freigabe. Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt und dezimale Gliederung.
+Vollständig ausformuliert unter dem gewünschten Dateinamen liefern. Eine vorbereitete Eintragung ist keine erfolgte Registrierung; Portalveröffentlichung nur nach inhaltlicher und handlungsbezogener Freigabe. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 1.9. Technische Grenzen
 

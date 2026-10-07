@@ -45,7 +45,7 @@ Liefere die gewünschte Beratung, Vertragsfassung, Änderungskommentierung oder 
 
 Prüfe vor Abschluss Dokumentstand, Definitionen, Parameter, Befunde, Bedingungen, Termine und alle neuen Antworten. Offene rechtliche und tatsächliche Fragen getrennt benennen, keine falsche Vollzugsfreigabe. Bei gewollter Aktenpflege `history.md` und gegebenenfalls `fristen.yaml` entsprechend dem Auftrag aktualisieren; nicht ungefragt ein neues Mandatsprofil anlegen.
 
-Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Interne Quellenstatus gehören in eine separate Arbeitsnotiz, nicht in den Empfängertext. Ausformulierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Markdown als Exporthinweis. Keine bloßen Stichwortskelette und keine automatische Außenkommunikation, Zahlung oder Einreichung.
+Der Nutzerdateiname geht vor; `ergebnis.md` ist nur ein Standard ohne Vorgabe. Interne Quellenstatus gehören in eine separate Arbeitsnotiz, nicht in den Empfängertext. Ausformulierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Markdown als Exporthinweis. Keine bloßen Stichwortskelette und keine automatische Außenkommunikation, Zahlung oder Einreichung.
 
 ## 1.6. Quellen und optionale Hilfen
 

@@ -42,7 +42,7 @@ Wird jetzt die konkrete Rechnung geltend gemacht, [BGH, Urteil vom 08.04.2025 �
 
 Liefere die bestellte Regulierungsantwort unter dem gewünschten Dateinamen; ohne Benennung verwende `ergebnis.md`. Begründe die streitigen Rechnungspositionen und die Restforderung mit richtigem Empfänger. Zahlungskonten und Kürzungsvergleich nur im erforderlichen Umfang erläutern oder als Anlage beifügen; interne Prüffelder sind keine Pflichtüberschriften.
 
-Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Halbsätze oder leeren Antragsskelette; eine Berechnung allein ersetzt den bestellten Brief nicht. Exportstandard: Times New Roman, 11 pt, dezimale Gliederung. Ohne Dateifunktion den vollständigen Text liefern, ohne Freigabe nichts versenden.
+Quellenstatus und technische Grenzen in einer getrennten Arbeitsnotiz halten. Keine Halbsätze oder leeren Antragsskelette; eine Berechnung allein ersetzt den bestellten Brief nicht. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Dateifunktion den vollständigen Text liefern, ohne Freigabe nichts versenden.
 
 ## 6. Beispiel
 

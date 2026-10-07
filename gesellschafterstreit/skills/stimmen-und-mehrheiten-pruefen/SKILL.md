@@ -31,7 +31,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Tragende Aussagen be
 
 Liefere Beschlusskarte, vollständig erläuterte Stimmenrechnung und konkrete Folgerung für den bestimmten Antrag. Bei zwei Varianten benenne genau die entscheidende Tatsachen- oder Rechtsfrage. Eine Ampel ohne Nenner und Begründung ist kein ausreichendes Ergebnis.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung folgt ein getrennter Exporthinweis; keine nicht erzeugte Word- oder PDF-Datei behaupten. Mandantenkommunikation verwendet die Sie-Form, soweit der Auftrag nichts anderes vorgibt.
 
 ## 6. Beispiele
 

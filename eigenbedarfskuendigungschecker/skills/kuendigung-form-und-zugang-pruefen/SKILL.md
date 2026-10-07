@@ -27,7 +27,7 @@ Paragrafen 126, 126a, 130, 174, 568, 573 Absatz 3 und 574b BGB. Rechtsprechung n
 
 ## 5. Ausgabeformat
 
-Bezeichnete Erklärung, festgestellter Mangel, Beleg und konkrete Folge; anschließend gewünschtes Antwort- oder Kündigungsschreiben in vollständigen Sätzen. Keine Skelettfassung. Times New Roman 11 pt, dezimal gegliedert, soweit möglich. Versand und Unterschrift bleiben beim Berechtigten.
+Bezeichnete Erklärung, festgestellter Mangel, Beleg und konkrete Folge; anschließend gewünschtes Antwort- oder Kündigungsschreiben in vollständigen Sätzen. Keine Skelettfassung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal gegliedert, soweit möglich. Versand und Unterschrift bleiben beim Berechtigten.
 
 ## 6. Beispiel
 

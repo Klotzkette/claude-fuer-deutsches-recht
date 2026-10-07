@@ -41,7 +41,7 @@ Für die ThürKHG-Endkonsolidierung besteht der in der Rechtsquellenreferenz bez
 
 Ein klauselscharfer Prüfvermerk, ausformulierte Ersatzklauseln und auf Wunsch ein fertiger Lieferantenbrief. Jede Beanstandung nennt Fundstelle im Vertragsdokument, praktische Folge, Änderung und benötigten Beleg. Kein ausschließliches Ampelblatt ohne Handlungstext.
 
-**Ausformulierungspflicht und Formatstandard:** Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; erforderliche fehlende Angaben als klare Platzhalter kennzeichnen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Formatwunsch in einem getrennten Exporthinweis nennen; keine nicht erzeugte Datei behaupten. Dokumententext und interne Prüfnotizen trennen.
+**Ausformulierungspflicht und Formatstandard:** Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; erforderliche fehlende Angaben als klare Platzhalter kennzeichnen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Formatwunsch in einem getrennten Exporthinweis nennen; keine nicht erzeugte Datei behaupten. Dokumententext und interne Prüfnotizen trennen.
 
 ## 6. Beispiel
 

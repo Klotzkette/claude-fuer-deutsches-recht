@@ -49,7 +49,7 @@ Verbindlich ist die [Zitierweise](../../references/zitierweise.md). Nutze den zu
 
 Liefere einen nutzbaren Projektarbeitsstand mit den bereits ausgeführten Berechnungen und dem konkret bestellten Dokument. Kein verpflichtendes Gesamtpaket bei einem engen Auftrag. Projektberichte dürfen den angeforderten Vertrags- oder Tabellentext nicht ersetzen.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

@@ -44,7 +44,7 @@ Systemalter von Inhaltsalter trennen: Randnummer 154 nimmt vor dem 2. August 202
 
 ## 5. Ausgabeformat
 
-Liefere ausformulierte, kanalgeeignete Hinweistexte plus kurzen Vermerk: Pflichtadressat, Absatz, Platzierung, Zeitpunkt und Ausnahme. Technische Kennzeichnung und sichtbarer Hinweis bleiben getrennte Nachweise. Times New Roman 11 pt bei Dokumentexport, dezimale Gliederung.
+Liefere ausformulierte, kanalgeeignete Hinweistexte plus kurzen Vermerk: Pflichtadressat, Absatz, Platzierung, Zeitpunkt und Ausnahme. Technische Kennzeichnung und sichtbarer Hinweis bleiben getrennte Nachweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt bei Dokumentexport, dezimale Gliederung.
 
 ## 6. Beispiele
 

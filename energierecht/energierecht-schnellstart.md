@@ -38,4 +38,4 @@ Offene Angaben nur bei der abhängigen Aussage markieren, belegte Teile weiterbe
 
 ## 1.6. Zugriff und Freigabe
 
-Werkstatt und weitere Skills sind optional. Nur verfügbare Unterlagen und Werkzeuge verwenden; bei Zugriffsfehlern einen geeigneten Alternativweg versuchen und verbleibende Recherchegrenzen konkret nennen. Ohne Export den vollständigen Text liefern, keinen Dateilink oder eine nicht erfolgte Prüfung erfinden. Keine Kündigung, Zahlung, Schaltung, Einreichung oder Kontaktaufnahme ohne Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Werkstatt und weitere Skills sind optional. Nur verfügbare Unterlagen und Werkzeuge verwenden; bei Zugriffsfehlern einen geeigneten Alternativweg versuchen und verbleibende Recherchegrenzen konkret nennen. Ohne Export den vollständigen Text liefern, keinen Dateilink oder eine nicht erfolgte Prüfung erfinden. Keine Kündigung, Zahlung, Schaltung, Einreichung oder Kontaktaufnahme ohne Freigabe. Vollständige Sätze, dezimale Gliederung; Exportstandard Kanzleihausschrift.

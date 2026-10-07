@@ -667,31 +667,34 @@
     "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
     "changes": [
       "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
-      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "766b566e8aa3d2405f0b3bfae2c23764324c483999ce481992028b669da5e1b1"
+    "sha256": "4bd0b5f4883d7b687b55e23452138d112a87ba4c40f8a253b22148ae16ddf3f4"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
     "changes": [
       "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
-      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f3e5a4eb382ebb48a8c379fbc8995e2a781d766550455b660563157c827de04b"
+    "sha256": "7e916b148ac3054fd02abd2a4ccf7e2a1dad10d78da5d0a119ce81b7f9931606"
   },
   "focus_review": {
     "verdict": "revised",
     "reason": "Eigenständiger Grundbuchablauf mit konkreten Verfahrensgrenzen und fortgesetzter Dokumentproduktion.",
     "changes": [
       "Zwei amtlich geprüfte Entscheidungen aus 2026 und drei spezifische ältere Anker.",
-      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege."
+      "Wiederfund nach Kraftloserklärung, Erbberichtigung und Gläubigerkette als eigenständige Wege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-01",
     "prompt_path": "grundbuchamt-assistent/grundbuchamt-assistent-hauptproblem.md",
     "skill_path": "grundbuchamt-assistent/skills/grundbuchvorgang-zum-ergebnis-fuehren/SKILL.md",
-    "prompt_sha256": "c0c91561f566b5bccd96ab6a6e8ce8c0a2664ad98b7b11e9044afa6f008b524b",
-    "skill_sha256": "ee9b3f3e93da18c5693a5c07957d5ab65e5b092953cd4600a023528fa8a574a1"
+    "prompt_sha256": "13f10d24490fef6b353c9dcaa6f6e13e4bc06c4f09493a606911fa6a102249f8",
+    "skill_sha256": "99385e11b24b090fe14cd12e85c025a776169541c0c4e8f98487ab9820c00baa"
   }
 }

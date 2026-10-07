@@ -488,9 +488,10 @@
       "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
       "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
       "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
-      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "74fa8d3110b2022137b641a767f7ac1ac30e6da7306ca64a73a8bd6db4067377"
+    "sha256": "4450ac6bdf5d6e9e6a85fcb0b704ed37e65e1f489419fb6f992770112b4d0dab"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -499,9 +500,10 @@
       "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
       "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
       "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
-      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "83fcce41a2dc5697ee5596ac271d2d7d3f4976f011b0dde4de983dfbbbeeab83"
+    "sha256": "bed35c31d924ba190ba385263de866540ada1be68884605d59466f3234a33089"
   },
   "focus_review": {
     "verdict": "revised",
@@ -510,14 +512,15 @@
       "Konkrete Fragen, vollständige Produkte und begrenzte Portalhandlungen statt generischer Prüfung.",
       "§53 Abs.4–5 MarkenG konkret: Verteidigungswiderspruch binnen zwei Monaten, sonst Löschung; bei Verfall danach einmonatige Fortsetzungsgebühr des Antragstellers.",
       "§159 Abs.1 MarkenG knüpft an Eintragung vor14.01.2019 an; 2018 angemeldet/2021 eingetragen bleibt taggenau (§47 Abs.1).",
-      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen."
+      "OBI-Orange Rn.14–15: alter Löschungsantrag und §158 Abs.8; aktuellen Heilungsstichtag §50 Abs.2 Satz2 nicht durch späteres Entscheidungsdatum ersetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+    "sha256": "546434d49281046627eda371c2409d6cb15b89a3a9072cd2af34a9bceb6f0e02",
     "method": "desk_review",
     "reviewed_on": "2026-10-01",
     "prompt_path": "markenamt-assistent/markenamt-assistent-hauptproblem.md",
-    "prompt_sha256": "6ad45461c76695255fcad127f4b96be2eaecc4de2d384acd3d5d2fbee7cf97fc",
+    "prompt_sha256": "546434d49281046627eda371c2409d6cb15b89a3a9072cd2af34a9bceb6f0e02",
     "skill_path": "markenamt-assistent/skills/marke-sichern-trotz-offener-rechte/SKILL.md",
-    "skill_sha256": "ae91b85e616f721f1f18a1c1847064a87d7c8b1bcc297b84ebaf5614bc6dc5f2"
+    "skill_sha256": "74c20580e1558c4fc3559e33f85a578eaa113e88aa170162bbb1963cc15b21d1"
   }
 }

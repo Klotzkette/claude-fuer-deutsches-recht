@@ -48,9 +48,10 @@
       "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
       "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "34c19d464690db6f9af39c6a42561c85dae56a06dc434ea037dbd38061283053",
+    "sha256": "1b71138f2321959d6c5e5a9c7d23334c07ba0d905e3dbe17511ba80d949c71a0",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -61,9 +62,10 @@
       "Budgetschätzung, Obergrenze, Vergütungsanspruch und Kostenfreigabe getrennt.",
       "Zwölf Fachthemen und Abschluss, Beispiele, Fortsetzung und technische Grenzen erhalten.",
       "Zusatzauftrag von Preisänderung getrennt, Budgetgrenzen in echte Leistungsalternativen übersetzt, positionsbezogene Honoraraufklärung und bestätigte Fristübernahme bei Kanzleiwechsel.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 30.04.2026 – IX ZR 154/24, Rn. 19–33, BGH, Urteil vom 19.02.2026 – IX ZR 226/22, Rn. 8–20 und 23–32. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f59bf8cfa5c06b024aa287720d30084d4d49dc771c46d2ea7bf0883210e79663",
+    "sha256": "68bba537edf4c56ea74edf14ac5bfc6d6f528c0efcbcb7d2634b4a212dbcc82a",
     "reviewed_on": "2026-10-01"
   },
   "selection": {

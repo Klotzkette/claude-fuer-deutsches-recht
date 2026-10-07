@@ -51,7 +51,7 @@ Belegtreue folgt aus der konkreten Originalquelle, nicht aus der optischen Quali
 
 Liefere pro Zusammenhang eine lesbare Darstellung mit Titel, Beschriftungen, gegebenenfalls Legende, Quellenzeile und ausformulierter Erläuterung. Ein internes Zuordnungsblatt hält Original und Bearbeitung fest. Zahlenwerk und Einzelbelege gehören als prüfbare Begleitunterlagen dazu, soweit für den Auftrag nötig; keine unlesbaren Tabellenwände erzeugen.
 
-Die Ausformulierungspflicht gilt für die erklärenden Notizen und ein bestelltes Begleitmemorandum. Grafische Beschriftungen dürfen medienspezifisch knapp sein. Folien verwenden die Präsentationsvorlage; gesonderte juristische Erläuterungen folgen, soweit technisch möglich, Times New Roman 11 pt und dezimaler Gliederung. Eine nur beschriebene Darstellung nie als fertig gerendertes Bild ausgeben.
+Die Ausformulierungspflicht gilt für die erklärenden Notizen und ein bestelltes Begleitmemorandum. Grafische Beschriftungen dürfen medienspezifisch knapp sein. Folien verwenden die Präsentationsvorlage; gesonderte juristische Erläuterungen folgen, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung. Eine nur beschriebene Darstellung nie als fertig gerendertes Bild ausgeben.
 
 ## 6. Beispiele
 

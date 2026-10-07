@@ -128,7 +128,7 @@ Liefere das bestellte Dokument in vollständigen Sätzen unter dem gewünschten 
 
 Bei einer entscheidenden Lücke den erreichten Teilstand als vorläufig benennen und den benötigten Beitrag konkret beschreiben. Nach Antwort betroffene Bewertung oder Rechnung fortführen und die Endfassung erstellen. Weitere gezielte Runden sind bei neuen entscheidenden Fragen zulässig, bereits beantwortete Fragen nicht wiederholen.
 
-Mandantenbriefe enthalten verständliche Begründung und Empfehlung, keine technischen Prüfprotokolle. Bei Dokumentexport Times New Roman 11 pt und dezimale Gliederung verwenden. Kontaktaufnahme, Antragseinreichung, Gremienentscheidung und sonstige Außenhandlungen nur nach ausdrücklicher Freigabe.
+Mandantenbriefe enthalten verständliche Begründung und Empfehlung, keine technischen Prüfprotokolle. Bei Dokumentexport Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden. Kontaktaufnahme, Antragseinreichung, Gremienentscheidung und sonstige Außenhandlungen nur nach ausdrücklicher Freigabe.
 
 ## 1.8. Technische Grenzen
 

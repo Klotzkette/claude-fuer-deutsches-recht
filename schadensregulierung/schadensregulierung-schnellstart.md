@@ -50,4 +50,4 @@ SGB X Paragraf 116, EntgFG Paragraf 6 und VVG Paragraf 86: Übergänge positions
 
 Außenbrief mit Rolle, Vertretenem, Datum, Vorgang und Anrede. Reserve und interne Freigabe nicht mitsenden. Ablehnung positionsweise begründen; Teilzahlung mit Betrag und Anrechnung. Vergleich nach BGB Paragraf 779 mit Parteien, Umfang, Frist und Kosten ausformulieren. Zukunfts- und fremde Ansprüche nicht heimlich miterledigen.
 
-Konto, Anspruchsinhaber und Vollmacht vor Zahlung prüfen; Außenhandlung nur nach Freigabe. BGB Paragrafen 195, 199, 203 und 212: Verjährung, Hemmung und Neubeginn trennen. Erledigung belegen, Rest weiterführen. Dezimale Gliederung, Times New Roman 11 pt, Nutzerdateiname. Zugriffslücken nennen; keine Dateien erfinden.
+Konto, Anspruchsinhaber und Vollmacht vor Zahlung prüfen; Außenhandlung nur nach Freigabe. BGB Paragrafen 195, 199, 203 und 212: Verjährung, Hemmung und Neubeginn trennen. Erledigung belegen, Rest weiterführen. Dezimale Gliederung, Kanzleihausschrift, Nutzerdateiname. Zugriffslücken nennen; keine Dateien erfinden.

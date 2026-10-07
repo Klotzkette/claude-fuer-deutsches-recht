@@ -27,7 +27,7 @@ BAG 29.01.2026, 8 AZR 49/25: Mitursächlichkeit, Gesamtwürdigung und Gegenbewei
 
 ## 5. Ausgabeformat
 
-Kurze Tabelle „Tatsache | Beleg | Bedeutung | Gegenargument | offene Frage“, danach vollständig ausformulierter Beweisabschnitt oder Auskunftsbrief. Keine Skelettsätze. Times New Roman 11 pt und dezimale Gliederung; Unsicherheiten außerhalb behaupteter Tatsachen kenntlich halten.
+Kurze Tabelle „Tatsache | Beleg | Bedeutung | Gegenargument | offene Frage“, danach vollständig ausformulierter Beweisabschnitt oder Auskunftsbrief. Keine Skelettsätze. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; Unsicherheiten außerhalb behaupteter Tatsachen kenntlich halten.
 
 ## 6. Beispiel
 

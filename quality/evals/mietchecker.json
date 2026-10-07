@@ -443,16 +443,18 @@
     "verdict": "revised",
     "reason": "Konkrete örtliche Mietprüfung mit Folgebrief.",
     "changes": [
-      "Normen, vier begrenzte Entscheidungsanker und beide lokalen Methoden aufgenommen."
+      "Normen, vier begrenzte Entscheidungsanker und beide lokalen Methoden aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3fe2ec53d957e3bb63015053a301c1da115bc83596a913ef160f5cf28d8f9aff"
+    "sha256": "9fd7aac51f8f4b261eec4c57ca7b7bf0880ce154e525fa9a7c6e6c0a88465391"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Durchgehende individuelle Mietworkflow-Werkstatt.",
     "changes": [
-      "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert."
+      "Bestandsaufnahme, örtliche Berechnung, Rechtsfolge und Fortsetzung nach Belegeingang ausformuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bec9c8241200da7587a0057cfa20eb33a976d69a5d0d413af3739300e0a6db0d"
+    "sha256": "e9de4f9ef82a986229285d96087993d0853603e1a93760bcb5a5a102bff6d2cc"
   }
 }

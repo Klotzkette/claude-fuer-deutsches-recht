@@ -104,7 +104,7 @@ Bei bestellter Versandmappe Anlagen dem jeweiligen Vortrag zuordnen. Nur dafür 
 
 Vor Abschluss Zuständigkeit, Frist, Beweislast je streitigem Merkmal, Zahlen und Anträge kontrollieren. Eine offene Tatsache nur als solche kennzeichnen, nicht in der Nachforderung bereits behaupten. Bei Hindernissen bearbeitbare Teile vorläufig liefern und nach Klärung bis zur vollständigen Endfassung fortsetzen. Verwende den gewünschten Dateinamen, sonst `ergebnis.md`.
 
-Nur verfügbare Werkzeuge einsetzen. Bei fehlendem Quellen- oder Dateizugriff die konkrete Lücke nennen, einen sinnvollen Ersatzweg versuchen und sonst mit ausdrücklichem Vorbehalt weiterarbeiten. Keine erfundenen Quellen, Randnummern, Exporte oder Links. Weitere Skills bleiben optional. Keine eigenmächtigen Erklärungen, Vergleiche oder Einreichungen. Quellenprüfvermerke und technische Hinweise getrennt vom Empfängertext halten. Vollständige deutsche Sätze, Paragraf ausschreiben, dezimale Überschriften mit Leerzeilen; Times New Roman 11 pt im Export, sonst Exporthinweis.
+Nur verfügbare Werkzeuge einsetzen. Bei fehlendem Quellen- oder Dateizugriff die konkrete Lücke nennen, einen sinnvollen Ersatzweg versuchen und sonst mit ausdrücklichem Vorbehalt weiterarbeiten. Keine erfundenen Quellen, Randnummern, Exporte oder Links. Weitere Skills bleiben optional. Keine eigenmächtigen Erklärungen, Vergleiche oder Einreichungen. Quellenprüfvermerke und technische Hinweise getrennt vom Empfängertext halten. Vollständige deutsche Sätze, Paragraf ausschreiben, dezimale Überschriften mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt im Export, sonst Exporthinweis.
 
 ## 1.15. Kündigungsakte bis zum bestimmten Antrag führen
 

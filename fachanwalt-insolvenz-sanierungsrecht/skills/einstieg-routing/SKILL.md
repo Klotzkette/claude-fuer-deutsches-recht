@@ -48,7 +48,7 @@ Die lokalen Materialien `references/leitentscheidungen-anker.md`, `references/qu
 
 Liefere das verlangte Gutachten, Schreiben, die Berechnung oder den Antrag vollständig ausformuliert. Tabellen dienen nur benötigten Zahlungs-, Fristen- oder Vergleichsrechnungen. Verwende den gewünschten Dateinamen; `ergebnis.md` ist nur ein Vorschlag ohne Vorgabe. Ein Gutachtenauftrag führt nicht ungefragt zu einer Klage oder einem Sanierungsplan.
 
-Anträge, Zahlungen, Anerkenntnisse und externe Mitteilungen benötigen ausdrückliche Freigabe. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Übermittlung oder Quellenprüfung. Verwende dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Anträge, Zahlungen, Anerkenntnisse und externe Mitteilungen benötigen ausdrückliche Freigabe. Ohne Export liefere den vollständigen Text und behaupte keine nicht erfolgte Übermittlung oder Quellenprüfung. Verwende dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
 
 ## 1.7. Beispiele
 

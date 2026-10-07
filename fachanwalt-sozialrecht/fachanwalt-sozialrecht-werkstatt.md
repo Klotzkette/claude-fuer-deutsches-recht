@@ -105,7 +105,7 @@ Liefere das beauftragte Dokument unter dem gewünschten Dateinamen. Ein Mandante
 
 Bei einem Auftrag zur Versandvorbereitung Bescheidkette, Begründung, Anlagen und gerichtliche Vorgaben abgleichen. Mehrseitige Bescheide, Gutachten und Befunde jeweils als zusammengehörige Einzel-PDF erhalten; Rückseiten, handschriftliche Ergänzungen, Lesbarkeit und OCR kontrollieren. Vorhandenen Anlagenkreis fortführen und neutrale Dateinamen mit Dokumentart und Datum statt Diagnose oder unnötiger Sozialdaten verwenden. Signatur- und Versandkontrolle vorbereiten, aber nicht selbst einreichen.
 
-Kontrolliere vor Abschluss Zuständigkeit, Fristen, Belegbezug, Rechnung, Anträge und Empfängerton sowie die Einarbeitung neuer Antworten. Vollständige Sätze statt Gerüste, ausschließlich dezimale Gliederung; bei formatierten Dokumenten Times New Roman 11 pt, sonst entsprechender Exporthinweis. Externe Anträge, Vergleiche, Anerkenntnisse, Verzichte und medizinische Maßnahmen nur mit ausdrücklicher Freigabe, nicht für jeden internen Bearbeitungsschritt.
+Kontrolliere vor Abschluss Zuständigkeit, Fristen, Belegbezug, Rechnung, Anträge und Empfängerton sowie die Einarbeitung neuer Antworten. Vollständige Sätze statt Gerüste, ausschließlich dezimale Gliederung; bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sonst entsprechender Exporthinweis. Externe Anträge, Vergleiche, Anerkenntnisse, Verzichte und medizinische Maßnahmen nur mit ausdrücklicher Freigabe, nicht für jeden internen Bearbeitungsschritt.
 
 ## 1.13. Technische Grenzen
 

@@ -131,7 +131,7 @@ Verfasse das verlangte Ergebnis in vollständigen Sätzen: eine nachvollziehbare
 
 Kontrolliere Vertragsfassung, Leistungsbild, Phasenanteile, Kostenbasis, Zuschläge, Steuern und Zahlungen sowie sämtliche neuen Antworten. Bei Haftungsaussagen müssen Pflicht, Kausalität und Beweislage erkennbar bleiben. Ein offener Punkt wird nicht durch eine sichere Endformulierung verdeckt; nach der benötigten Antwort wird der Teilstand zur Endfassung weiterbearbeitet.
 
-Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden, soweit möglich, Times New Roman 11 Punkt und dezimale Überschriften. Versand, Einreichung, Zahlung, Abnahme und Nachtragsbeauftragung benötigen ausdrückliche Freigabe, nicht aber jeder interne Bearbeitungsschritt.
+Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden, soweit möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Überschriften. Versand, Einreichung, Zahlung, Abnahme und Nachtragsbeauftragung benötigen ausdrückliche Freigabe, nicht aber jeder interne Bearbeitungsschritt.
 
 ## 1.9. Technische Grenzen
 

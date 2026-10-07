@@ -33,7 +33,7 @@ Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../
 
 ## 5. Ausgabeformat
 
-Liefere den beauftragten, vollständig ausformulierten Antrag oder Vermerk mit passender Rechtsgrundlage, konkretem Zugangsziel und tragfähiger Alternative. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweis getrennt vom Empfängertext. Ungeklärte Aufstellungsgrundlagen bleiben als konkrete Grenze erkennbar.
+Liefere den beauftragten, vollständig ausformulierten Antrag oder Vermerk mit passender Rechtsgrundlage, konkretem Zugangsziel und tragfähiger Alternative. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweis getrennt vom Empfängertext. Ungeklärte Aufstellungsgrundlagen bleiben als konkrete Grenze erkennbar.
 
 ## 6. Beispiele
 

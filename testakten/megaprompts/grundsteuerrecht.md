@@ -63,7 +63,7 @@ Paragrafen 108, 110, 122, 122a, 347, 350, 351, 355, 356 und 357 AO zeitbezogen p
 
 Liefere das bestellte Schreiben vollständig mit Anrede, bestimmtem Antrag und Anlagenbezug, sofern ein Brief beauftragt ist. Bei bloßer Bescheid- und Fristenprüfung begründe deren Ergebnis, ohne ungefragt einen Rechtsbehelf zu entwerfen. Ein Bescheidregister mit Quelle, Regelung, Zugang, Frist und zuständiger Stelle unterstützt bei mehreren Verwaltungsakten die Übersicht.
 
-Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Verwende für exportierte Dokumente Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
+Keine bloßen Skelette; Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Verwende für exportierte Dokumente Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Ohne Exportwerkzeug liefere den vollständigen Text und diesen Formatwunsch.
 
 ## 6. Beispiele
 
@@ -109,7 +109,7 @@ Amtliche Volltexte und amtlicher Verfahrensstatus in [Fachquellen](https://githu
 
 ## 5. Ausgabeformat
 
-Liefere den gewählten vollständigen Klage- oder Ruhensantrag und getrennt die kurze Entscheidungsvorlage zum Vorgehen. Antrag, Beteiligte und Anlagen müssen zusammenpassen. Keine Halbsätze oder Skelette. Times New Roman 11 pt, dezimale Gliederung oder Exporthinweis. Vor Einreichung sind Vertretung, Signaturweg und aktueller Quellenstand zu bestätigen.
+Liefere den gewählten vollständigen Klage- oder Ruhensantrag und getrennt die kurze Entscheidungsvorlage zum Vorgehen. Antrag, Beteiligte und Anlagen müssen zusammenpassen. Keine Halbsätze oder Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder Exporthinweis. Vor Einreichung sind Vertretung, Signaturweg und aktueller Quellenstand zu bestätigen.
 
 ## 6. Beispiele
 
@@ -155,7 +155,7 @@ BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV): einzelfallbezogene Öffnung bei
 
 ## 5. Ausgabeformat
 
-Lieferung: Schwellenrechnung, Nachweislücken und vollständiger Gutachteranfrage- oder Behördenentwurf mit belegtem Sachverhalt. Ausformulierte Sätze, keine Musterlösung ohne Beweise. Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis. Ein nicht beschafftes Gutachten bleibt ausdrücklich offen.
+Lieferung: Schwellenrechnung, Nachweislücken und vollständiger Gutachteranfrage- oder Behördenentwurf mit belegtem Sachverhalt. Ausformulierte Sätze, keine Musterlösung ohne Beweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis. Ein nicht beschafftes Gutachten bleibt ausdrücklich offen.
 
 ## 6. Beispiele
 
@@ -201,7 +201,7 @@ Paragrafen 129, 172, 173, 173a, 175, 181, 182, 184, 351, 355 und 357 AO; Paragra
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Behördenbrief mit Anrede, identifizierten Bescheiden, bestimmtem Begehren, kurzer belegter Begründung, Anlagen und Schluss. Interne Zulässigkeitsrisiken stehen getrennt vom Versandtext. Keine Halbsätze oder Skelette. Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
+Vollständig ausformulierter Behördenbrief mit Anrede, identifizierten Bescheiden, bestimmtem Begehren, kurzer belegter Begründung, Anlagen und Schluss. Interne Zulässigkeitsrisiken stehen getrennt vom Versandtext. Keine Halbsätze oder Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
 
 ## 6. Beispiele
 
@@ -247,7 +247,7 @@ Paragrafen 219, 243, 244, 247 und 249 BewG sowie die im Landesmodell einschlägi
 
 ## 5. Ausgabeformat
 
-Erstelle einen Flächenabgleich mit Belegspalte und anschließend einen vollständigen Brief an Verwalter, Eigentümer oder Behörde. Jede verlangte Anlage hat einen konkreten Zweck. Keine ungesicherten Tatsachen als Feststellungen, keine Stichwortskelette. Times New Roman 11 pt, dezimale Gliederung; andernfalls vollständiger Text mit Exporthinweis.
+Erstelle einen Flächenabgleich mit Belegspalte und anschließend einen vollständigen Brief an Verwalter, Eigentümer oder Behörde. Jede verlangte Anlage hat einen konkreten Zweck. Keine ungesicherten Tatsachen als Feststellungen, keine Stichwortskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; andernfalls vollständiger Text mit Exporthinweis.
 
 ## 6. Beispiele
 
@@ -293,7 +293,7 @@ BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV), betrifft summarische Prüfung u
 
 ## 5. Ausgabeformat
 
-Vollständiger Eilantrag mit identifiziertem Bescheid, Betrag/Umfang, Eilgrund, Belegen und bestimmtem Begehren; Zahlungsübersicht und interner Risikovermerk getrennt. Kein bloßes Antragsskelett. Times New Roman 11 pt, dezimale Gliederung oder vollständiger Text mit Exporthinweis. Versand bleibt freigabepflichtig.
+Vollständiger Eilantrag mit identifiziertem Bescheid, Betrag/Umfang, Eilgrund, Belegen und bestimmtem Begehren; Zahlungsübersicht und interner Risikovermerk getrennt. Kein bloßes Antragsskelett. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder vollständiger Text mit Exporthinweis. Versand bleibt freigabepflichtig.
 
 ## 6. Beispiele
 
@@ -339,7 +339,7 @@ Paragrafen 230, 247 und 249 bis 257 BewG sowie Anlagen 36 bis 41 nur soweit eins
 
 ## 5. Ausgabeformat
 
-Liefere eine nachrechenbare Tabelle und einen ausformulierten Befund mit Änderungsbedarf und gesonderter Beleglücke. Nicht nur „prüfen“, sondern die Rechnung tatsächlich ausführen. Kein Skelett. Times New Roman 11 pt und dezimale Gliederung bei Textdokumenten; Tabellen dürfen für Lesbarkeit abweichen. Ohne Tabellenexport genügt eine vollständige Tabelle im Text.
+Liefere eine nachrechenbare Tabelle und einen ausformulierten Befund mit Änderungsbedarf und gesonderter Beleglücke. Nicht nur „prüfen“, sondern die Rechnung tatsächlich ausführen. Kein Skelett. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei Textdokumenten; Tabellen dürfen für Lesbarkeit abweichen. Ohne Tabellenexport genügt eine vollständige Tabelle im Text.
 
 ## 6. Beispiele
 
@@ -385,7 +385,7 @@ Paragrafen 175, 182, 184 und 365 AO, Paragraf 68 FGO sowie der einschlägige kom
 
 ## 5. Ausgabeformat
 
-Ausformulierter Mandantenbrief mit Anrede, nachvollziehbarem Ergebnis, Zahlungsstand, verbleibender Handlung und Schluss; dazu eine kompakte interne Abschlusskontrolle. Vollständige Sätze statt bloßer Skelette. Times New Roman 11 pt und dezimale Gliederung bei formatierten Texten; ohne Exportwerkzeug vollständiger Text mit Formatwunsch.
+Ausformulierter Mandantenbrief mit Anrede, nachvollziehbarem Ergebnis, Zahlungsstand, verbleibender Handlung und Schluss; dazu eine kompakte interne Abschlusskontrolle. Vollständige Sätze statt bloßer Skelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei formatierten Texten; ohne Exportwerkzeug vollständiger Text mit Formatwunsch.
 
 ## 6. Beispiele
 
@@ -431,7 +431,7 @@ Paragrafen 182 und 184 AO, Paragrafen 13 bis 15, 25 und 28 GrStG sowie einschlä
 
 ## 5. Ausgabeformat
 
-Liefere Rechenabgleich mit Originalwert, Quelle/Seite, Rohprodukt, abweichendem Bescheidwert und betroffener Stufe. Ergänze das vollständige Überprüfungs- oder Änderungsschreiben mit bestimmtem Ziel. Keine Skelette; Times New Roman 11 pt und dezimale Gliederung bei Textausgabe oder entsprechendem Exporthinweis. Rechenergebnis ist keine Zahlungsfreigabe.
+Liefere Rechenabgleich mit Originalwert, Quelle/Seite, Rohprodukt, abweichendem Bescheidwert und betroffener Stufe. Ergänze das vollständige Überprüfungs- oder Änderungsschreiben mit bestimmtem Ziel. Keine Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung bei Textausgabe oder entsprechendem Exporthinweis. Rechenergebnis ist keine Zahlungsfreigabe.
 
 ## 6. Beispiele
 
@@ -477,7 +477,7 @@ Verwende [Fachquellen](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere einen knappen, ausformulierten Zuständigkeits- und Normenvermerk mit Tabelle: Parameter, Lage/Jahr, anwendbare Quelle, gesichert/offen. Schließe mit dem daraus folgenden konkreten Arbeitsweg. Vollständige Sätze statt Skelette; Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
+Liefere einen knappen, ausformulierten Zuständigkeits- und Normenvermerk mit Tabelle: Parameter, Lage/Jahr, anwendbare Quelle, gesichert/offen. Schließe mit dem daraus folgenden konkreten Arbeitsweg. Vollständige Sätze statt Skelette; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis.
 
 ## 6. Beispiele
 

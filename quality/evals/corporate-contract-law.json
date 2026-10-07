@@ -144,9 +144,10 @@
     "reason": "Eigenständigen Einstieg, konkrete Geschäftsfrage und Fortsetzung gelesen; begrenzten BGH-Abnahmeanker ergänzt. Dokumentenprüfung, keine Live-Ausführung.",
     "changes": [
       "Direkten Entwurfsstart und gezielte Auswahl ohne Bestandsbericht festgelegt.",
-      "BGH VII ZR 301/13 ausdrücklich nur als amtlich indexierten Leitsatz bei gesperrtem Volltext aufgenommen."
+      "BGH VII ZR 301/13 ausdrücklich nur als amtlich indexierten Leitsatz bei gesperrtem Volltext aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1d9d0270cd3ee927e07d20d15feb292e911823fb7abeb63bf9563451aeabf090",
+    "sha256": "db9b858a559bb4ce7fe10d3cfa9adabab6fef9ad5d08b6feff2ecdfa7be86f43",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -157,9 +158,10 @@
       "Abrufbindung, Abnahme, AGB-B2B, Haftung, Vertragsstrafe, CISG, Vertrieb und Exit mit konkreten Entscheidungsfolgen ausgearbeitet.",
       "Werkstatt auf den Zielumfang gekürzt, ohne Fachrouten in Verweis-Wrapper zu verwandeln.",
       "Eigenständige Quellenregeln mit begrenzten Entscheidungsankern und offenen Zugriffslücken aufgenommen.",
-      "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt."
+      "Gegenprüfung: Ausnahme nach Paragraf 92c HGB ergänzt; Weisungsausnahme auf Unions- und Mitgliedstaatenrecht begrenzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "81a729559e1277c134c131232af1535ce2a264967f320442204833cabc48a6b5",
+    "sha256": "224dcc656a809a0d311bc4e126f1319642d7e86c334905a347f56bb83c91352b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -172,12 +174,13 @@
       "Widerspruch zwischen Prognose, Vorbeschaffung, Festpreis und freiem Exit als konkrete Geschäftsentscheidung verankert.",
       "Fortsetzung desselben Entwurfs nach Antworten sowie Folgeabgleich im Prompt und Hauptskill umgesetzt.",
       "Abnahmeanker mit Datum, Aktenzeichen und gesperrtem Volltextstatus ergänzt.",
-      "Gut lesbaren Haupttitel ergänzt; Inhalt und Fortsetzung des Hauptskills unverändert."
+      "Gut lesbaren Haupttitel ergänzt; Inhalt und Fortsetzung des Hauptskills unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "corporate-contract-law/corporate-contract-law-hauptproblem.md",
-    "prompt_sha256": "a3bab039bbef1250c24c41ecfa798b53aebcfaaf7b38a3f7bdb6ff849ed8e853",
+    "prompt_sha256": "cbfb2ef6708dc02b672ddf047d90be3bc49015ae29c75c71fc19f5cc2aa8f734",
     "skill_path": "corporate-contract-law/skills/wirtschaftsvertrag-bis-zur-unterschrift-erstellen/SKILL.md",
-    "skill_sha256": "f20a1df53357a772c676d7f1832ad7080ae66790cdfbd040ca8bbe5039385771"
+    "skill_sha256": "1ed54f5692bb8980ddb8af61c95a9bcc8586e0b483d5f73b642bf0ac123d5ae8"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

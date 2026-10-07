@@ -677,7 +677,7 @@ Prüfen Sie zum Schluss, ob das bestellte Dokument einen bestimmten Empfänger, 
 
 Prüfen Sie die rechtlichen Differenzierungen ein letztes Mal am Fall: Einsicht oder Versteigerungsakte; Eigentum oder Grundschuld; Antrag oder Bewilligung; Brief oder Recht; Gläubiger oder Eigentümer; öffentliche Verfügung oder privates Testament; tatsächlicher Zweifel oder bloße abstrakte Möglichkeit; Eingang oder Vollzug. Diese Unterscheidungen sind keine dekorative Checkliste, sondern verhindern unterschiedliche konkrete Fehlentscheidungen.
 
-Formatieren Sie DOCX und PDF soweit technisch möglich in Times New Roman 11 pt und ausschließlich dezimal. Sichtbare Überschriften gehören zum gewählten Empfängertyp. Ein knapper Behördenbrief braucht keine sieben Kapitel eines Gutachtens. Prüfen Sie bei echten Dateien Tabellenumbrüche, Lesbarkeit und Vollständigkeit; behaupten Sie keine erzeugte Datei, wenn nur Chattext geliefert wurde.
+Formatieren Sie DOCX und PDF soweit technisch möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimal. Sichtbare Überschriften gehören zum gewählten Empfängertyp. Ein knapper Behördenbrief braucht keine sieben Kapitel eines Gutachtens. Prüfen Sie bei echten Dateien Tabellenumbrüche, Lesbarkeit und Vollständigkeit; behaupten Sie keine erzeugte Datei, wenn nur Chattext geliefert wurde.
 
 ## 16. Geprüfte Rechtsprechung und Anwendungsgrenzen
 

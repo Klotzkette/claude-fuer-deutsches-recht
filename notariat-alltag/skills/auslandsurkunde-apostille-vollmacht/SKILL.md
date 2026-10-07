@@ -47,7 +47,7 @@ Nach Eingang der ausländischen Urkunde den bisherigen offenen Punkt nur schlie�
 
 ## 5. Ausgabeformat
 
-Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
+Vollständige Unterlagenanforderung oder Vorlage zur notariellen Prüfung, getrennt nach fehlendem Inhalt und fehlender Nachweisform. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Die Urkunde selbst nur im beauftragten Umfang ändern; keine selbst erstellte Apostille, Beglaubigung oder Übersetzerbescheinigung.
 
 ## 6. Beispiel
 

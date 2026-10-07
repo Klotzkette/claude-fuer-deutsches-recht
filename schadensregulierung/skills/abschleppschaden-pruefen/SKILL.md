@@ -54,7 +54,7 @@ Eigentum, Leasing, Reparaturermächtigung, Abtretung und Kaskovorleistung prüfe
 
 ## 5. Ausgabeformat
 
-Liefere einen begründeten Vermerk mit getrennten Spalten „Anordnung und Kosten“, „Ausführung und Schaden“ und „Deckung und Rückgriff“, danach das tatsächlich benötigte Schreiben an Geschädigten, Versicherer, Auftraggeber oder Sachverständigen. Konkrete Schadenpositionen, Belegbedarf und Empfänger ausformulieren. Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei fehlendem Export Text statt eines erfundenen PDF.
+Liefere einen begründeten Vermerk mit getrennten Spalten „Anordnung und Kosten“, „Ausführung und Schaden“ und „Deckung und Rückgriff“, danach das tatsächlich benötigte Schreiben an Geschädigten, Versicherer, Auftraggeber oder Sachverständigen. Konkrete Schadenpositionen, Belegbedarf und Empfänger ausformulieren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung; bei fehlendem Export Text statt eines erfundenen PDF.
 
 ## 6. Beispiel
 

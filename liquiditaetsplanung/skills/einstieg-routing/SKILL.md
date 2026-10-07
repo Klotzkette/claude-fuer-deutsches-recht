@@ -48,7 +48,7 @@ Diese vorhandenen Skills sind nur Hilfsmittel bei einer konkreten Fachfrage. Ohn
 
 Normen und Rechtsprechung nach den bei Zugriff verfügbaren Hinweisen in `references/quellenhygiene.md` und `references/zitierweise.md` prüfen. Fehlende Quelle oder Datenbasis nicht durch eine vermeintlich sichere Schwelle ersetzen. Quellenstatus und technische Hinweise getrennt vom Empfängertext halten.
 
-Liefere die bestellte Tabelle und ausformulierte Beratung, keine bloße Auswahl weiterer Skills. Ohne Dateiwunsch ist `ergebnis.md` möglich; Nutzerbenennungen gehen vor. Formatierte Texte verwenden Times New Roman 11 Punkt und dezimale Gliederung, bei Textausgabe als Exporthinweis. Externe Zahlungen, Nachrichten und Einreichungen nur nach Freigabe.
+Liefere die bestellte Tabelle und ausformulierte Beratung, keine bloße Auswahl weiterer Skills. Ohne Dateiwunsch ist `ergebnis.md` möglich; Nutzerbenennungen gehen vor. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, bei Textausgabe als Exporthinweis. Externe Zahlungen, Nachrichten und Einreichungen nur nach Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 

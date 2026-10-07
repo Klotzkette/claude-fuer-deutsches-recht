@@ -123,6 +123,6 @@ Bei streitiger Aktenbeiziehung oder Akteneinsicht recherchiere anhand des konkre
 
 Prüfe zum Abschluss Bescheidfassung, Antrag, Bekanntgabe, Gehör, Beweisergebnis, Berechnung und Tenor. Halte offene Tatsachen und Rechtsfragen unterscheidbar. Technische Zugriffshinweise und interne Recherchevermerke gehören gesondert an den Auftraggeber, nicht als Pflichtkapitel in die Entscheidungsgründe.
 
-Beachte den gewünschten Dateinamen; ohne andere Vorgabe ist `ergebnis.md` möglich. Formatiere vollständige Sätze und dezimale Gliederung, bei formatiertem Export soweit möglich Times New Roman 11 pt. Weitere Skills und Referenzen sind optionale Unterstützung, kein Grund für eine erneute Aufnahme.
+Beachte den gewünschten Dateinamen; ohne andere Vorgabe ist `ergebnis.md` möglich. Formatiere vollständige Sätze und dezimale Gliederung, bei formatiertem Export soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Weitere Skills und Referenzen sind optionale Unterstützung, kein Grund für eine erneute Aufnahme.
 
 Nutze nur verfügbare Werkzeuge und wahre Steuer- und Aktengeheimnis. Bei fehlendem Export liefere den Text; bei fehlendem Zugriff benenne die konkret betroffene Prüfung und bearbeite unabhängige Teile weiter. Nach Eingang fehlender Unterlagen setze am erreichten Stand fort, ohne nicht durchgeführte Prüfungen oder Verfahrenshandlungen zu behaupten.

@@ -38,6 +38,6 @@ Stellen Sie einen unklaren Zahlungszweck nicht stillschweigend als Tilgung gerad
 
 Liefern Sie die bestellte Regulierungsantwort unter dem gewünschten Dateinamen; nur ohne Dateiwunsch verwenden Sie `ergebnis.md`. Erläutern Sie die positionsgenaue Kürzungsprüfung und nachvollziehbare Restforderung; die getrennten Zahlungskonten können als Anlage folgen. Empfänger und gegebenenfalls Zug-um-Zug-Leistung müssen zum Ergebnis passen. Eine bloße Berechnung ersetzt die ausformulierte Antwort nicht.
 
-Kennzeichnen Sie einen vorläufigen Stand und die konkret noch benötigten Belege, ohne Annahmen als Tatsachen in das Schreiben zu übernehmen. Quellenstatus und nicht prüfbare Angaben gehören in eine getrennte Arbeitsnotiz. Vollständige Sätze, keine Skelette; Export: Times New Roman, 11 pt, dezimale Gliederung.
+Kennzeichnen Sie einen vorläufigen Stand und die konkret noch benötigten Belege, ohne Annahmen als Tatsachen in das Schreiben zu übernehmen. Quellenstatus und nicht prüfbare Angaben gehören in eine getrennte Arbeitsnotiz. Vollständige Sätze, keine Skelette; Export: Kanzleihausschrift, dezimale Gliederung.
 
 Dieser Auftrag benötigt keine weiteren installierten Inhalte. Ohne Datei- oder Quellenzugriff benennen Sie den konkret nicht prüfbaren Beleg; ohne Export liefern Sie den vollständigen Text und keinen erfundenen Dateilink.

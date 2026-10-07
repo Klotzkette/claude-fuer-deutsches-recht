@@ -28,7 +28,7 @@ Was fehlt jetzt? Bis wann tritt welcher Nachteil ein? Welcher Bescheid, Antrag o
 
 ## 5. Ausgabeformat
 
-Ausformulierter Eilantrag mit Beteiligten, vorläufigem Begehren, Dringlichkeit, Anspruch und Belegen. Times New Roman, 11 pt, dezimale Gliederung. Getrennt Hinweise zu Einreichung und noch ungesicherten Angaben. Keine falsche Versandbestätigung.
+Ausformulierter Eilantrag mit Beteiligten, vorläufigem Begehren, Dringlichkeit, Anspruch und Belegen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Getrennt Hinweise zu Einreichung und noch ungesicherten Angaben. Keine falsche Versandbestätigung.
 
 ## 6. Beispiele
 

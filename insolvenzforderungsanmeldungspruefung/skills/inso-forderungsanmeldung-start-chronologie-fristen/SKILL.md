@@ -59,7 +59,7 @@ Das bestellte Ergebnis vollständig ausformulieren: Anmeldung, Mängelschreiben,
 
 Bei entscheidendem Hindernis den belastbaren Teil vorläufig liefern und konkret benötigte Angaben nennen. Nach Antwort dort fortsetzen; weitere gezielte Runden sind zulässig. Keine Annahmen als Tatsachen in ein Nachforderungsschreiben übernehmen und keinen Klageentwurf ohne Prozessauftrag liefern.
 
-Nutzerdateinamen beachten. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst getrennten Exporthinweis geben. Anmeldung, Bestreiten, Anerkennung, Einreichung, Tabellenimport und Zahlung nur nach ausdrücklicher Freigabe auslösen.
+Nutzerdateinamen beachten. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst getrennten Exporthinweis geben. Anmeldung, Bestreiten, Anerkennung, Einreichung, Tabellenimport und Zahlung nur nach ausdrücklicher Freigabe auslösen.
 
 ## 1.6. Optionale Fachmodule
 

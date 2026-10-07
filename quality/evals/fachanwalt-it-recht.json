@@ -72,9 +72,10 @@
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2f09d869688f66122e763d788844d58e257c2a7fdf42db77789e1dc857be847e"
+    "sha256": "64ae819484cae1d2a3d39670883ceaa6dca31ba3d5b0a7a6fbe5c0d5e21cc98f"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -84,12 +85,13 @@
     "changes": [
       "Abnahmestadium und Ausnahme eines Abrechnungsverhältnisses konkretisiert.",
       "Amtlichen Volltext statt bloßem Suchhinweis als Entscheidungsquelle verwendet.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-it-recht/fachanwalt-it-recht-hauptproblem.md",
-    "prompt_sha256": "aad81e03bd0237f7253a3dfd4f985c87f107c95fa7345ea22c8eb8ce064b7c87",
+    "prompt_sha256": "9003926a01e8f2f2c979c36dbe2465bcdd48a0145ee45d46a5e37ec4bb6378ae",
     "skill_path": "fachanwalt-it-recht/skills/erp-abnahme-nachtraege-belegabgleich/SKILL.md",
-    "skill_sha256": "7df98b6c2d867b83ac5c7b78226c2dfe2bf88ab8c450e877c405d912f0fb4162"
+    "skill_sha256": "adfe44a32b6c09b21ce6a7cf57c9a47b2c71f80f04a148f50655d5b93f67cc74"
   },
   "selection": {
     "positive": [
@@ -194,9 +196,10 @@
       "Hauptproblem und zugeordneter Fokus-Skill in Aussage und Quellenbasis abgeglichen.",
       "Lose nicht verifizierte Softwareentscheidungen aus der Werkstatt entfernt.",
       "Testumgebung und Migration, kaufmännische gegenüber technischer Freigabe, Abnahmefiktion und bekannte Mängel, gemessene Cloud-Verfügbarkeit, Exportumfang, Trainingsnutzung sowie Vorfallkenntnis gegenüber bloßer Linksperre.",
-      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten."
+      "Zwei einschlägige 2025-BGH-Entscheidungen zu Code/Daten und Cloudabgaben ergänzt. Frische 2026-Recherche erbrachte für diese konkret bearbeiteten Vertragsfragen keinen geeigneteren belegten 2026-Anker; angekündigte Termine sind keine Urteile. Mini sprachlich verdichtet, Schritte und vorhandene Regulierungsregeln erhalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "cb22e15c6a2d6a66f27b01fedfc86f2bb0115217f5ded8c68e73bf06cfdb1901"
+    "sha256": "e97c352d20bc93680475d9df9e305c53dfab08d1e434882620e6a208d61952f9"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

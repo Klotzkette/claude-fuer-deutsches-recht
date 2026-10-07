@@ -41,9 +41,10 @@
       "Paragrafen 1375 und 1384 BGB mit XII ZB 558/23 in den Vermögensabgleich integriert.",
       "Erforderlicher Hinweis und rechtliches Gehör statt pauschaler Amtsermittlung oder automatischer Illoyalitätsfeststellung.",
       "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
-      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "98deea6193bbf3ac6cbb7eee180b21522dd4b0081284e3c1b6d2db638ccde834",
+    "sha256": "7dc67099b072a49f8633041347b09e6dfae6ab8f5fe19504ffa735e6b24e3605",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -55,9 +56,10 @@
       "Neutrale Hinweise nach Paragraf 139 ZPO mit Paragraf 113 FamFG verbunden.",
       "Ungeprüfte Aktenzeichen entfernt; europäische Zuständigkeitsprüfung auf genaue Artikel verwiesen.",
       "Neuer Übergabevorfall -> Schutz- und Anhörungsplan ändern; Zahlungszuordnung -> Unterhaltsmonate und Tenor berichtigen.",
-      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege."
+      "Ausführbare Umgangsregelung, Schutzlage, monatliche Unterhaltszuordnung und stichtagsbezogene Vermögensbelege.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "880f5e947598b66bbbba0cb8d75d9563b02daa67e37bcb96112f2a5d2473aca8",
+    "sha256": "1628a0c9ee558fef39bd5ef3a46138821318ba482a590fcd775bb186ef05b527",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

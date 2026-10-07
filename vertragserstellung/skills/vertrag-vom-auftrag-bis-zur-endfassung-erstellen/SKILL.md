@@ -59,7 +59,7 @@ Verwende [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen Vertrag und getrennt davon nur die entscheidenden offenen Punkte oder eine kurze Änderungsnotiz. Ausformulierungspflicht: Jeder operative Abschnitt besteht aus vollständigen Sätzen mit bestimmter Pflicht oder Rechtsfolge. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei Skelettcharakter neu ausformulieren. Keine Quellenprotokolle im Vertrag erzwingen. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown den Exporthinweis außerhalb des Vertragstextes geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben.
+Liefere den vollständigen Vertrag und getrennt davon nur die entscheidenden offenen Punkte oder eine kurze Änderungsnotiz. Ausformulierungspflicht: Jeder operative Abschnitt besteht aus vollständigen Sätzen mit bestimmter Pflicht oder Rechtsfolge. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; bei Skelettcharakter neu ausformulieren. Keine Quellenprotokolle im Vertrag erzwingen. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Bei Markdown den Exporthinweis außerhalb des Vertragstextes geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben.
 
 ## 6. Beispiele
 

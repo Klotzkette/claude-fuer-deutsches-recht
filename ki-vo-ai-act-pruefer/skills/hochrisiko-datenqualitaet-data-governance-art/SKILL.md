@@ -30,7 +30,7 @@ Lies Datenkatalog, Modellzweck, Gruppenmerkmale, Erhebungsquellen, Nutzungsrecht
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Datenfreigabevermerk mit Tabelle: Datenkategorie, Bias-Frage, Alternative, Unerlässlichkeit, Zugriff, Löschereignis, Beleg und verbleibende Sperre. Technische Lücken konkret benennen. Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine Datenübermittlung oder Freigabe ohne Auftrag.
+Vollständig ausformulierter Datenfreigabevermerk mit Tabelle: Datenkategorie, Bias-Frage, Alternative, Unerlässlichkeit, Zugriff, Löschereignis, Beleg und verbleibende Sperre. Technische Lücken konkret benennen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Textausgabe Exporthinweis. Keine Datenübermittlung oder Freigabe ohne Auftrag.
 
 ## 6. Beispiele
 

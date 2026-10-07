@@ -28,7 +28,7 @@ Paragrafen 122 bis 128, 132 und 142 GWB; Paragrafen 34, 46, 47, 52 und 53 SektVO
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere getrennt Teilnahmebedingungen, Bewertungstabelle samt Berechnungsbeispiel und ausformulierten Vertragsentwurf. Jede Vertragsbestimmung enthält eine verständliche Rechtsfolge, keine bloße Überschrift. Times New Roman 11 pt, dezimale Gliederung. Übergabe an `unterlagen-und-preisblatt-abgleichen`: Kriterienfassung, Gewichtung, Verhandlungsgrenzen, Nachforderungsregel, Vertrag und noch offene Freigaben.
+Liefere getrennt Teilnahmebedingungen, Bewertungstabelle samt Berechnungsbeispiel und ausformulierten Vertragsentwurf. Jede Vertragsbestimmung enthält eine verständliche Rechtsfolge, keine bloße Überschrift. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Übergabe an `unterlagen-und-preisblatt-abgleichen`: Kriterienfassung, Gewichtung, Verhandlungsgrenzen, Nachforderungsregel, Vertrag und noch offene Freigaben.
 
 ## 6. Beispiel
 

@@ -23,6 +23,13 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.shared import Cm, Pt, RGBColor
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import hausstil  # noqa: E402
+
+HAUSSTIL = hausstil.lade_hausstil()
+SCHRIFT = HAUSSTIL.schrift
+GRUNDGROESSE = hausstil.groesse_in_punkt(HAUSSTIL)
+
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "bauwirtschaft"
 SOURCE = PLUGIN / "references/werkstatt"
@@ -75,7 +82,7 @@ def add_text(paragraph, text):
         link = OxmlElement("w:hyperlink"); link.set(qn("r:id"), relation)
         run = OxmlElement("w:r"); props = OxmlElement("w:rPr")
         fonts = OxmlElement("w:rFonts")
-        fonts.set(qn("w:ascii"), "Times New Roman"); fonts.set(qn("w:hAnsi"), "Times New Roman")
+        fonts.set(qn("w:ascii"), SCHRIFT); fonts.set(qn("w:hAnsi"), SCHRIFT)
         props.append(fonts)
         color = OxmlElement("w:color"); color.set(qn("w:val"), "17365D"); props.append(color)
         underline = OxmlElement("w:u"); underline.set(qn("w:val"), "single"); props.append(underline)
@@ -94,7 +101,7 @@ def word(items):
     section.header_distance = Cm(.65); section.footer_distance = Cm(.65)
     for style in doc.styles:
         if style.type == 1:
-            style.font.name = "Times New Roman"; style.font.size = Pt(11)
+            style.font.name = SCHRIFT; style.font.size = Pt(GRUNDGROESSE)
             style.font.color.rgb = RGBColor(0, 0, 0)
             style.paragraph_format.line_spacing = 1.07
             style.paragraph_format.space_after = Pt(6)
@@ -103,7 +110,7 @@ def word(items):
             for key in list(fonts.attrib):
                 if key.endswith("Theme"): del fonts.attrib[key]
             for key in ("ascii", "hAnsi", "eastAsia", "cs"):
-                fonts.set(qn("w:" + key), "Times New Roman")
+                fonts.set(qn("w:" + key), SCHRIFT)
             for border in style.element.xpath("./w:pPr/w:pBdr"):
                 border.getparent().remove(border)
     for name, size, before, after in (("Title", 16, 0, 6), ("Heading 1", 14, 0, 8), ("Heading 2", 11, 6, 5)):

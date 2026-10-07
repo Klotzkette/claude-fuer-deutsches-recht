@@ -48,6 +48,6 @@ Tragende Normen in [Bundesrecht](https://www.gesetze-im-internet.de/) und [DSGVO
 
 [BAG, Urteil vom 30.01.2025, Az. 2 AZR 68/24](https://www.bundesarbeitsgericht.de/entscheidung/2-azr-68-24/), Randnummern 15 bis 21, amtlich gelesen: Einlieferungsbeleg plus Sendungsstatus genügte dort nicht für den Anscheinsbeweis des Zugangs. Kein generelles Einschreibenverbot. Andere Entscheidungen nur nach eigener Verifikation mit enger Aussagegrenze zitieren.
 
-Endprodukte vollständig ausformulieren; keine Skelette, Halbsätze oder reinen Aufzählungen. Dezimale Überschriften mit Leerzeilen, soweit möglich Times New Roman 11 pt. Exporthinweis getrennt halten.
+Endprodukte vollständig ausformulieren; keine Skelette, Halbsätze oder reinen Aufzählungen. Dezimale Überschriften mit Leerzeilen, soweit möglich Kanzleihausschrift. Exporthinweis getrennt halten.
 
 Nach einer Antwort korrigieren Sie Tatsachen, Rechnung, Frist und betroffene Klauseln im gleichen Entwurf; keine erneute Aufnahme. Bei neuer entscheidender Lücke gezielt weiterfragen, unabhängige Teile fertigstellen. Interne Risiken und Quellenstatus getrennt vom Empfängertext ausgeben. Kein Versand, Einreichen, Anerkenntnis, Verzicht oder Abschluss ohne ausdrückliche Freigabe der konkreten Handlung.

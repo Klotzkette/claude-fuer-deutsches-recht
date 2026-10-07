@@ -26,9 +26,10 @@
       "V ZR 77/22 auf späte wesentliche Datenraumoffenlegung angewandt und auf seinen Immobilienkontext begrenzt.",
       "Altice mit niedrigen Vetoschwellen, Werterhaltung und tatsächlichem Kontrollbezug erläutert.",
       "Unbestätigten Randverweis entfernt; alle vorhandenen Preis-, DD-, Regulatory- und Vollzugswege erhalten.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2be80c48e24a9a03c497b286b55707c6a49fd635f46d1f847ec661c86f32758c"
+    "sha256": "261f7f07391656a64e48acc050c0fd6169584ee46b3204e01e9418f040ecbf93"
   },
   "selection": {
     "positive": [
@@ -81,9 +82,10 @@
       "V ZR 77/22 auf späte wesentliche Datenraumoffenlegung angewandt und auf seinen Immobilienkontext begrenzt.",
       "Altice mit niedrigen Vetoschwellen, Werterhaltung und tatsächlichem Kontrollbezug erläutert.",
       "Unbestätigten Randverweis entfernt; alle vorhandenen Preis-, DD-, Regulatory- und Vollzugswege erhalten.",
-      "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis."
+      "Kenntnis und Offenlegung, Garantie/Freistellung, Doppelzählung in Debt und Working Capital, eingeschränkte Bankzustimmung und tatsächlicher Vollzugsnachweis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "24771dcc5ef031010f7e88483a792d40557d7f1e70741651f7510641706413c8"
+    "sha256": "c6fc470082feb47c7b4ef74a1789a5999c0131b6963a8768e0f33d41dd845e8e"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

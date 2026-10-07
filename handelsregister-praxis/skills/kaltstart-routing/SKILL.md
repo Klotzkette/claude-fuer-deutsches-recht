@@ -30,7 +30,7 @@ Ergänze GmbHG, AktG, UmwG, HRV und sonstiges einschlägiges Recht nur nach dem 
 
 Liefere die bestellte Stellungnahme, Nachreichungsantwort, Verlängerungsbitte oder Beschwerde vollständig ausformuliert. Eine Vollzugsübersicht ist nur nötig, wenn mehrere voneinander abhängige Schritte zu koordinieren sind; sie nennt Dokument, verantwortliche Person, Form, Frist und Erledigungsbeleg. Fehlende Anlagen dürfen nicht als beigefügt, beantragte Fristverlängerungen nicht als bewilligt und Eintragungen nicht ohne Nachweis als vollzogen bezeichnet werden.
 
-Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden, soweit technisch möglich, Times New Roman 11 Punkt und dezimale Gliederung; reine Gliederungen oder Satzfragmente sind keine Endfassung. Einreichung, Kontaktaufnahme und rechtsgeschäftliche Erklärung erfolgen nur nach ausdrücklicher Freigabe.
+Nutzerseitige Dateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; reine Gliederungen oder Satzfragmente sind keine Endfassung. Einreichung, Kontaktaufnahme und rechtsgeschäftliche Erklärung erfolgen nur nach ausdrücklicher Freigabe.
 
 ## 1.6 Beispiel
 

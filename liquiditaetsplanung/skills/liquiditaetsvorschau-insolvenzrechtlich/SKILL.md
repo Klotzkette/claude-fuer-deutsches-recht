@@ -53,7 +53,7 @@ Zitiere die [amtlichen Volltexte](../../references/rechtsprechung/INDEX.md) mit 
 
 Liefere den beauftragten Status oder die Bilanz mit Einzelposten-/Beleganlage und ausformulierter Subsumtion: Ergebnis, Methode, Tatsachen, Gegenargumente, offene Punkte und konkrete Folgerung. Tabelle und optionales Padlet dienen der Rechnung; die operative Ampel ist keine rechtliche Entscheidung. Für einen gerichtlichen Auftrag vollständigen Vortrag und passende Beweisangebote erstellen; für Beratung einen verständlichen Vermerk. Kein Memo ungefragt anstelle des verlangten Plans liefern.
 
-Vollständige Sätze statt Skelette, Times New Roman 11 pt für formatierte Texte, ausschließlich dezimale Gliederung. Ungeklärte Tatsachen kenntlich machen, nicht mit Platzhalterrechnungen als erwiesen behandeln. Externe Einreichung und Zahlung nicht ohne Auftrag ausführen.
+Vollständige Sätze statt Skelette, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Texte, ausschließlich dezimale Gliederung. Ungeklärte Tatsachen kenntlich machen, nicht mit Platzhalterrechnungen als erwiesen behandeln. Externe Einreichung und Zahlung nicht ohne Auftrag ausführen.
 
 ## 1.6. Beispiele
 

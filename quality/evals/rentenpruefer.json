@@ -51,9 +51,10 @@
       "Persönliche Entgeltpunkte enthalten den Zugangsfaktor; keine erneute Multiplikation.",
       "B 13 R 19/14 R trennt Feststellung von Zeitart und Umfang von späterer Bewertung; anfechtbaren Bescheid bestimmen.",
       "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
-      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "74eac3c7aa19729180893acca7877d7b03d2340795f628b8328ec36b9ad23798",
+    "sha256": "749cc3c4158920157a98377f673df137ad8b5dc41c15667f2374d0155f6bb246",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -65,9 +66,10 @@
       "Rentenformel nach Paragrafen 64 und 66 SGB VI explizit gegen Doppelabschlag gesichert.",
       "Unverifizierte alte Syndikusurteile entfernt; aktueller Beschäftigungsbezug bleibt Prüfauftrag.",
       "Neuer Zielmonat -> Wartezeitfenster und Faktoren neu prüfen; Beitragsbescheinigung -> nur zusätzliche Monate beantragen.",
-      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung."
+      "Überlappende Monate, differenzierte 35-/45-Jahresprüfung, Brutto-/Zahlbetrag und funktionale medizinische Ergänzung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b0e5b45f14fe5a4fb06d81f85f07e429139cb963218a27e465abe9a4497adda9",
+    "sha256": "a00116c430b43d27e26fb502cbd6d05dc12fd1e6b76d8a63b689eefebf42ceea",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

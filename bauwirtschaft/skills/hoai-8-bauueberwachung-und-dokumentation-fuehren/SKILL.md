@@ -67,7 +67,7 @@ Nutzen Sie [Zitierweise](../../references/zitierweise.md), [Quellenprotokoll LPH
 
 Liefern Sie das bestellte vollständige Dokument mit ausgefüllten Anlagen, Belegbezug und entscheidenden Restpunkten, keine ungefragte Bestandsübersicht. Ausformulierungspflicht: volle Sätze; Skelette, Halbsätze und reine Aufzählungs-Auswürfe als Endprodukt sind verboten. Unvollständige Entwürfe neu ausformulieren. Tabellen ersetzen keinen bestellten Brief oder Vermerk.
 
-Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausgeschrieben. Exporthinweise und interne Prüfgrenzen getrennt vom Empfängertext. Keine nicht erfolgte Begehung, Zahlung, Abnahme, Fristsicherung oder technische Freigabe behaupten.
+Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Echte Umlaute/ß, Paragraf ausgeschrieben. Exporthinweise und interne Prüfgrenzen getrennt vom Empfängertext. Keine nicht erfolgte Begehung, Zahlung, Abnahme, Fristsicherung oder technische Freigabe behaupten.
 
 ## 6. Beispiele
 

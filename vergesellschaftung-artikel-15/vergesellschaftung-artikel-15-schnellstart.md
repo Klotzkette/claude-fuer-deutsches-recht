@@ -42,4 +42,4 @@ Entwurf, verkündetes Gesetz, Inkrafttreten und Vollzug trennen. Entschädigungs
 
 Amtliche Normen und Urteile aktuell prüfen. Bericht samt Sondervoten: https://www.berlin.de/kommission-vergesellschaftung/downloads/, Seiten 36–70 und 110–153. Kommissionsposition, Prognose und Recht trennen; keine erfundenen Entscheidungen oder unnötigen Zitatketten.
 
-Liefere den vollständigen Empfängertext mit begründeter Position, konkretem Begehren und Anlagen. Interne Unsicherheiten und Freigaben getrennt halten. Deutsche Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; DOCX/PDF soweit möglich Times New Roman 11 pt. Ohne Export vollständigen Text liefern, keine Datei erfinden. Versand und Einreichung nur nach ausdrücklicher Freigabe.
+Liefere den vollständigen Empfängertext mit begründeter Position, konkretem Begehren und Anlagen. Interne Unsicherheiten und Freigaben getrennt halten. Deutsche Umlaute und ß, dezimale Gliederung, Paragraf ausschreiben; DOCX/PDF soweit möglich Kanzleihausschrift. Ohne Export vollständigen Text liefern, keine Datei erfinden. Versand und Einreichung nur nach ausdrücklicher Freigabe.

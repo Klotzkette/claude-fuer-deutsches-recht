@@ -39,7 +39,7 @@ Nutze den [Berliner Bericht](../../references/berliner-kommissionsbericht.md) zu
 
 # 5. Ausgabeformat
 
-Liefergegenstand sind vollständig ausformulierte Organisationsbestimmungen mit adressatengerechter Begründung und gegebenenfalls Entscheidungsvorlage zu tatsächlich offenen Gestaltungsfragen. Keine bloßen Kontrollkästchen, Halbsätze oder Klauselskelette. Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar; getrennte Exportnotiz andernfalls. Das Ergebnis bleibt intern, bis eine externe Vorlage ausdrücklich freigegeben wird.
+Liefergegenstand sind vollständig ausformulierte Organisationsbestimmungen mit adressatengerechter Begründung und gegebenenfalls Entscheidungsvorlage zu tatsächlich offenen Gestaltungsfragen. Keine bloßen Kontrollkästchen, Halbsätze oder Klauselskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit formatierbar; getrennte Exportnotiz andernfalls. Das Ergebnis bleibt intern, bis eine externe Vorlage ausdrücklich freigegeben wird.
 
 # 6. Beispiele
 

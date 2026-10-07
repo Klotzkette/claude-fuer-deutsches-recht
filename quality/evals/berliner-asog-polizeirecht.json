@@ -808,12 +808,13 @@
     "changes": [
       "Aktuellen ZustV-Gesamtkatalog und Spezialrechtswege getrennt eingeordnet.",
       "Datenzweck, Empfänger, heutige Kostenabsätze und konkrete Verfahrensstände differenziert.",
-      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch."
+      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-schnellstart.md",
-    "sha256": "7f823b062280e7f8dfdbcfd52a4d960c287cdfde8949d4411a5324eb32bcdb08"
+    "sha256": "8ea3eefcacd892e983020da16d8fe3c9df5d74049651e4ddffe438030dc79177"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -821,12 +822,13 @@
     "changes": [
       "Aktuellen ZustV-Gesamtkatalog und Spezialrechtswege getrennt eingeordnet.",
       "Datenzweck, Empfänger, heutige Kostenabsätze und konkrete Verfahrensstände differenziert.",
-      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch."
+      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-werkstatt.md",
-    "sha256": "b6dce7f60d82b8f023c72f8b6512f2aecad634b72a76d18d9ae4d417833d0249"
+    "sha256": "4136723ba3133a8b2a0f87094434f3b95e35a1f083a07aa4f50a785d43c47259"
   },
   "focus_review": {
     "verdict": "revised",
@@ -834,14 +836,15 @@
     "changes": [
       "Aktuellen ZustV-Gesamtkatalog und Spezialrechtswege getrennt eingeordnet.",
       "Datenzweck, Empfänger, heutige Kostenabsätze und konkrete Verfahrensstände differenziert.",
-      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch."
+      "Genau eine H1 und dezimale Unterhierarchie; MD und TXT identisch.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "method": "desk_review",
     "reviewed_on": "2026-10-02",
     "prompt_path": "berliner-asog-polizeirecht/berliner-asog-polizeirecht-hauptproblem.md",
-    "sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
+    "sha256": "fcd3806a44053666b521c6628ff3b115cc53abec74e9960df0b145a97752a8d6",
     "skill_path": "berliner-asog-polizeirecht/skills/asog-mandat-zum-ergebnis/SKILL.md",
-    "prompt_sha256": "713fb897f484c73be3b6a0e3473f70cd14ac6b313e38ff9bde434730883016ad",
-    "skill_sha256": "43afdfc4a33b73f3c1cd5284b69de55806b7f999e35173deae464e034c1ecba6"
+    "prompt_sha256": "fcd3806a44053666b521c6628ff3b115cc53abec74e9960df0b145a97752a8d6",
+    "skill_sha256": "bc25cf98a7185102bbfd9b1c62971b11c781fb32bf04d1f731c6e556bb59909f"
   }
 }

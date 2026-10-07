@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere ein abgestimmtes Bestandsverzeichnis mit Rechenwegen und ausformulierter Ergebnisbewertung. Das Endprodukt besteht aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Geheimnisse gehören nicht in Anlagen oder öffentliche Recherchen.
+Liefere ein abgestimmtes Bestandsverzeichnis mit Rechenwegen und ausformulierter Ergebnisbewertung. Das Endprodukt besteht aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Geheimnisse gehören nicht in Anlagen oder öffentliche Recherchen.
 
 ## 6. Beispiele
 

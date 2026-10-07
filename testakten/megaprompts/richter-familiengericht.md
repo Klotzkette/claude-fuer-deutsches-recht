@@ -241,7 +241,7 @@ Prüfe insbesondere die Paragrafen 38 und 39 FamFG zur Beschlussform und Belehru
 
 ## 1.5. Ergebnis und Format
 
-Liefere den bestellten Beschluss in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfpunktliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Times New Roman 11 pt. Verwende den gewünschten Dateinamen.
+Liefere den bestellten Beschluss in vollständigen, ausformulierten Sätzen, nicht als Tenorskizze oder Prüfpunktliste. Beachte Ausformulierungspflicht und Formatstandard: dezimale Gliederung, echte Umlaute, ausgeschriebenes „Paragraf“, keine Doppelsterne im Fließtext und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Verwende den gewünschten Dateinamen.
 
 Ein sachlich noch offener Entwurf bleibt vorläufig; kennzeichne die entscheidende Lücke in einer getrennten Arbeitsnotiz und setze nach Ergänzung fort. Technischer Quellenstatus gehört nicht in den Beschlusstext. Die Entscheidung, Unterzeichnung und externe Bekanntgabe bleiben dem zuständigen Gericht vorbehalten; keine eigenmächtige Zustellung.
 
@@ -356,7 +356,7 @@ Kontrollstelle für die Verfahrensunterscheidung: https://www.gesetze-im-interne
 
 Liefere die gewünschte Eingangs-, Hinweis-, Anhörungs- oder Vorlageverfügung vollständig ausformuliert mit Adressaten, Gegenstand, Frist und Wiedervorlage. Ein beauftragter Beschluss enthält bestimmte Aussprüche, Gründe und passende Nebenentscheidungen; eine bloße Liste von Prüfungspunkten genügt nicht. Bei entscheidenden Lücken kennzeichne den bereits ausgearbeiteten Teil als vorläufig und benenne die konkrete Ergänzung.
 
-Beachte die Ausformulierungspflicht und den Formatstandard: vollständige Sätze, dezimale Gliederung, möglichst Times New Roman 11 pt. Nutzerdateinamen gehen vor. Quellenabrufstatus steht in einer getrennten Arbeitsnotiz. Die richterliche Entscheidung bleibt dem zuständigen Menschen vorbehalten; Zustellung und andere externe Handlungen benötigen Freigabe.
+Beachte die Ausformulierungspflicht und den Formatstandard: vollständige Sätze, dezimale Gliederung, möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nutzerdateinamen gehen vor. Quellenabrufstatus steht in einer getrennten Arbeitsnotiz. Die richterliche Entscheidung bleibt dem zuständigen Menschen vorbehalten; Zustellung und andere externe Handlungen benötigen Freigabe.
 
 ## 1.6. Beispiel und optionale Vertiefung
 

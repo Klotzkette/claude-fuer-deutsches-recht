@@ -105,7 +105,7 @@ Nur die für das Ergebnis tragenden historischen Primärstellen müssen gezielt 
 
 Prüfen, ob Quelle, Fassung, Fundstelle und Geltung zum Ergebnis passen. Fehlende Entscheidungsdaten, Literaturstellen oder historische Fristen nicht ergänzen. Ein unlesbarer Normsatz begrenzt die Aussage; er erzwingt nicht den Abbruch sämtlicher anderer belegbarer Arbeit.
 
-Endprodukte werden vollständig ausformuliert. Es gilt die [Zitierweise](../references/zitierweise.md). Formatierte Dokumente verwenden Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; Markdown erhält einen entsprechenden Exporthinweis.
+Endprodukte werden vollständig ausformuliert. Es gilt die [Zitierweise](../references/zitierweise.md). Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; Markdown erhält einen entsprechenden Exporthinweis.
 
 ## 9. Zwei Textzeugen derselben Norm auseinanderhalten
 

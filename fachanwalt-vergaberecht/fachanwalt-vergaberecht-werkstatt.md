@@ -105,7 +105,7 @@ Normfassungen, Übergangsrecht und Übertragbarkeit prüfen. Entscheidungen mit 
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Ein Mandantenbrief enthält verständliches Ergebnis, Begründung und Empfehlung; eine Rüge konkrete Abhilfe, ein Nachprüfungsantrag passende Anträge und Begründung, ein Auftraggebervermerk nachvollziehbare Entscheidung. Punktespiegel, Fristenübersicht und Belegvergleich nur soweit erforderlich beifügen.
 
-Prüfe vor Abschluss Rollenbezug, Regelwerk, Fristen, Kausalität, Rechnungen und Einarbeitung neuer Antworten. Vollständige Sätze statt Schriftsatzgerüste; formatierte Dokumente in Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Freigaben nur für externe Handlungen einholen, nicht für jeden internen Bearbeitungsschritt.
+Prüfe vor Abschluss Rollenbezug, Regelwerk, Fristen, Kausalität, Rechnungen und Einarbeitung neuer Antworten. Vollständige Sätze statt Schriftsatzgerüste; formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst Exporthinweis. Freigaben nur für externe Handlungen einholen, nicht für jeden internen Bearbeitungsschritt.
 
 ## 1.11. Technische Grenzen
 

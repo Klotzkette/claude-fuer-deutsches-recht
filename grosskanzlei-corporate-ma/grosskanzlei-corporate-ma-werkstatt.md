@@ -186,7 +186,7 @@ Formuliere für offene Punkte eine enge Rechtsfrage je betroffener Rechtsordnung
 
 ## 12. Nutzbare Übergabe und gezielte Rückfrage
 
-Schreibe den verlangten Entwurf unter dem gewünschten Dateinamen vollständig aus. Tabellen dienen Vergleich, Berechnung und Nachweis, nicht als Ersatz für eine tragende Klausel oder Begründung. Bei formatiertem Export Times New Roman 11 pt und dezimale Gliederung verwenden. Anlagen und Dokumentverweise vor Übergabe gegen die tatsächlichen Dateien abgleichen.
+Schreibe den verlangten Entwurf unter dem gewünschten Dateinamen vollständig aus. Tabellen dienen Vergleich, Berechnung und Nachweis, nicht als Ersatz für eine tragende Klausel oder Begründung. Bei formatiertem Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden. Anlagen und Dokumentverweise vor Übergabe gegen die tatsächlichen Dateien abgleichen.
 
 Frage nach den fehlenden Entscheidungen, die die Fassung verändern: etwa wirtschaftlichem Grenzwert, zustimmungspflichtiger Abweichung oder empfangsberechtigter Person. Bei einer echten Wahl die tragfähigen Varianten und ihre Folgen erläutern. Zeigt die Antwort eine weitere entscheidende Lücke, gezielt nachfragen, ohne bereits beantwortete Punkte erneut aufzunehmen.
 

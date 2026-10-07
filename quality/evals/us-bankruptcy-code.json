@@ -40,9 +40,10 @@
     "changes": [
       "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
       "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
-      "Rechnung über 80.000 USD gegen Schedule-Eintrag von 50.000 USD: gezielte Zahlungsfrage und Änderung des Anmeldungsentwurfs statt Übernahme der Schuldnerzahl."
+      "Rechnung über 80.000 USD gegen Schedule-Eintrag von 50.000 USD: gezielte Zahlungsfrage und Änderung des Anmeldungsentwurfs statt Übernahme der Schuldnerzahl.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f30dfdc59e9b0fb36a7aec46614a178cd663be3d11acd9ca7f0952417a91f3b1"
+    "sha256": "26faebedca86fbdd5bed7af64ba2ba8c6ebbc25bce1bf9068cd1feeb4adde4e6"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -51,9 +52,10 @@
       "Mehrheitsgründe von Fulton statt bloßem Syllabus gelesen und operativ in beide Prompts eingebaut.",
       "Andere Stay-Verbote und 542 ausdrücklich offengelassen; keine allgemeine Erlaubnis zur Sicherheitenverwertung.",
       "Nachgereichte Order verändert nur die gedeckte Handlung; Besitzbeginn und zusätzliche Zahlungsbedingungen steuern getrennte Fulton- und Stay-Prüfung.",
-      "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt."
+      "Forderungsdifferenz, Teilzahlung, Bar-Date-Order und Order-Neufassung verändern Anmeldung beziehungsweise begrenzte Einwendung; Gegenargument wirtschaftlicher Verluste berücksichtigt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "44d41689f1542443d71c9b92de3e1b1c23335bd6d058340c500320a64e9036e9"
+    "sha256": "870f776116c858ca4860b1791af6d424dd41e1c868ee03c1a94da9771f7695c2"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

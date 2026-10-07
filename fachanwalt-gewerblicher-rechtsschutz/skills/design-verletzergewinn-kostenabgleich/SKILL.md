@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md), soweit verfügbar; der Arb
 
 Erstelle Anspruchsrahmen, Mengenabgleich, Kostenentscheidungen, nachvollziehbare Herleitung des Betrags und Zurechnungsszenarien. Den bestellten Forderungs- oder Erwiderungstext ausformulieren; ein reiner Berechnungsauftrag verlangt keinen zusätzlichen Schriftsatz. Ein vorgegebener Dateiname ist maßgeblich, andernfalls `ergebnis.md` verwenden.
 
-Tabellen ergänzen die Begründung, ersetzen sie nicht. Quellenprüfvermerke getrennt vom Außenentwurf halten. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis.
+Tabellen ergänzen die Begründung, ersetzen sie nicht. Quellenprüfvermerke getrennt vom Außenentwurf halten. Das Endprodukt besteht aus vollständigen Sätzen, nicht aus Skeletten oder Halbsätzen. Ausschließlich dezimale Überschriften; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt bei formatiertem Export, sonst ausdrücklicher Exporthinweis.
 
 Bei einem Hindernis den vorläufigen Stand und benötigten Beitrag nennen, nach Eingang bis zur Endfassung fortsetzen. Ist kein Dateiexport möglich, den bestellten Forderungs- oder Erwiderungstext mit der erforderlichen Mengen-, Kosten- und Gewinnrechnung vollständig in der Antwort ausgeben; keinen Download behaupten.
 

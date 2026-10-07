@@ -36,9 +36,10 @@
       "Werkstatt vollständig als NDA-Workflow neu gegliedert; doppelte abstrakte Verhandlungs- und Vollzugsraster entfernt.",
       "Schutzmaßnahmen, Untersuchung von Mustern, Ausnahmen, Archivkopien, Haftung und Verletzungsnachweis konkret verbunden.",
       "Nachfragen führen zur ausformulierten Vereinbarung; Auslandsrecht, Mitarbeiterklauseln und unbestellte Lizenzgestaltung begrenzt.",
-      "Dateien ohne Aufgabe werden still gelesen; klare Aufträge führen direkt zu Klauseln, Folgeantworten ändern den vorhandenen Dokumentpfad."
+      "Dateien ohne Aufgabe werden still gelesen; klare Aufträge führen direkt zu Klauseln, Folgeantworten ändern den vorhandenen Dokumentpfad.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "553665f926e6e0ecf50007e2ad0e813f2122b6bfa999b6022722ab2eef8c9ff4"
+    "sha256": "0c88c5f3aa51b78b4dfe7ba92077657c315a4b442763fdb763c3893078f4a035"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -48,9 +49,10 @@
       "Schutzmaßnahmen, Untersuchung von Mustern, Ausnahmen, Archivkopien, Haftung und Verletzungsnachweis konkret verbunden.",
       "Nachfragen führen zur ausformulierten Vereinbarung; Auslandsrecht, Mitarbeiterklauseln und unbestellte Lizenzgestaltung begrenzt.",
       "Frühere Offenlegung, mündliche Nachbestätigung, öffentliche Teilinformationen und belegte Vorkenntnis unterschieden.",
-      "Zweckwechsel, Testprotokolle, externer KI-Dienst, Beraterarchive und Abruf gegenüber Weitergabeverdacht in konkrete Klausel- oder Schreibenänderungen überführt."
+      "Zweckwechsel, Testprotokolle, externer KI-Dienst, Beraterarchive und Abruf gegenüber Weitergabeverdacht in konkrete Klausel- oder Schreibenänderungen überführt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7bf7cecfa11e4120827e5b7b7ee6a043feb91622832f6ebf74b6cc4b76509793"
+    "sha256": "0f35106de73d6e8238f1c7015c84e638388ee127343b193e77d275b30f0f7716"
   },
   "selection": {
     "positive": [

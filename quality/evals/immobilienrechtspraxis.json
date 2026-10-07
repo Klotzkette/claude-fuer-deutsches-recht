@@ -26,9 +26,10 @@
       "V ZR 77/22 mit Uploadzeit, Hinweis, Prüfungsumfang, Rechtsfolge und Grenzen in beide Prompts eingearbeitet.",
       "WEG-Nachschuss von Mieterkosten getrennt; Zahlung, Vormerkung und Eigentumswechsel sowie nominale Grundschuld und Ablöse rechnerisch auseinandergehalten.",
       "Alle bisherigen zwölf Sachthemen einschließlich AVV, Sachverhaltsermittlung und geschützter Muster erhalten; Doppelvorspann und interne Standardraster entfernt.",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1d1739630312dc119bfac695e2878598963d6a3b849e1296f735740450f344e7"
+    "sha256": "df9aef01310d39bd9a577609028733e083d71913d88be716d3930c3756152567"
   },
   "workshop_review": {
     "verdict": "revised",

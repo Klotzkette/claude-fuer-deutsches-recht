@@ -57,9 +57,10 @@
       "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
       "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
       "Drei fachliche Einstiegswege und sofortige Bearbeitung klarer Aufträge ergänzt; doppelte Remissionsabzüge und stillschweigende Erweiterung von Audio-Rechten verhindert.",
-      "Rabattbewertung ausdrücklich als internen Vermerk statt technischer Verkaufssperre gefasst."
+      "Rabattbewertung ausdrücklich als internen Vermerk statt technischer Verkaufssperre gefasst.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "000dee288aa184e3ce41694ef1c9ac4f7160770980d2e985493aa74195e049a4",
+    "sha256": "0355db68f1977b9e9e97b4b3244e2376c37487eba30e5007033551e6fc57be62",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -154,9 +155,10 @@
       "Beweis und Kennzeichnung statt pauschaler Remissionsfreigabe",
       "Gemischte Mengen und Erlösrechnung mit Nachforderung und fertigem Vermerk verbunden",
       "Formatnachtrag bei Vorlizenzkonflikt, Honorarfortsetzung nach geklärter Remission und vier Zustandsgruppen für Rücksendungen ausgearbeitet.",
-      "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen."
+      "Veröffentlichungsnachweis und Zeitpunkt der Preisaufhebung sowie damaligen Angebotsstand bei Abmahnung in die Dokumentarbeit aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e01f6627761c3ad42d86861ace3bc2201552f0e887a7bd2206aa7d6301538f63",
+    "sha256": "bd4e679fc08f5792533fb38ac946623dfe7b1ccdff8f17cbd336cbf9012b0364",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

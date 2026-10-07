@@ -43,7 +43,7 @@ EuGH, Urteil vom 05.06.2018 - Az. C-210/16, ECLI:EU:C:2018:388, Wirtschaftsakade
 
 ## 5. Ausgabeformat
 
-Ausformulierter Rollenvermerk, Nachforderung oder Vereinbarung nach Auftrag. Ergänzend eine knappe Tabelle: Verarbeitung, Rechtsträger, Entscheidung, Rolle, Beleg und Konsequenz. Vollständige Sätze statt Skeletten, Times New Roman 11 pt, dezimale Gliederung. Keine Datenübertragung oder verbindliche Freigabe ohne Auftrag.
+Ausformulierter Rollenvermerk, Nachforderung oder Vereinbarung nach Auftrag. Ergänzend eine knappe Tabelle: Verarbeitung, Rechtsträger, Entscheidung, Rolle, Beleg und Konsequenz. Vollständige Sätze statt Skeletten, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Datenübertragung oder verbindliche Freigabe ohne Auftrag.
 
 ## 6. Beispiele
 

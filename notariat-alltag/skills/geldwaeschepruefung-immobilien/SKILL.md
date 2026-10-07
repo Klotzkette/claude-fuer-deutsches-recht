@@ -43,7 +43,7 @@ Ein nachgereichter Kontoauszug kann den Zahlungsnachweis vervollständigen, bese
 
 ## 5. Ausgabeformat
 
-Konkrete Nachforderung in vollständigen Sätzen; getrennt davon interner Prüfvermerk zur notariellen Prüfung. Times New Roman 11 pt und dezimale Gliederung. Keine automatische Meldung, Zahlung oder Einreichung; keine öffentlich verteilte Liste sensibler Prüfbefunde.
+Konkrete Nachforderung in vollständigen Sätzen; getrennt davon interner Prüfvermerk zur notariellen Prüfung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Keine automatische Meldung, Zahlung oder Einreichung; keine öffentlich verteilte Liste sensibler Prüfbefunde.
 
 ## 6. Beispiel
 

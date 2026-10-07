@@ -58,9 +58,10 @@
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
       "Fachlichen Standalone-Einstieg ergänzt und Lieferverzögerung anhand Leistungsbedarf, zugegangener Fristsetzung und Gegenbelegen bis zum Brief geführt.",
-      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "70b1f57200a4537d5627fee0f37da44ebe5971126ca1a2a30451950fbdb923ca",
+    "sha256": "86a224dc2471e8545caf70b15bc9e373f227cb989a6cf3dd028f4de0ecd68b8d",
     "reviewed_on": "2026-09-30"
   },
   "selection": {
@@ -115,9 +116,10 @@
       "E-Mail-Zugang in Kündigungs- und Verlängerungsworkflow eingebunden; Gegenbeweise und Anwendungsgrenzen erhalten.",
       "Gewerbemiet-Textform zeitlich präzisiert; Nachfragen führen weiterhin zur vollständigen bestellten Fassung.",
       "Konkrete Dialoge zu Datenimport, Nachfrist, Teilbelieferung und E-Mail-Zugang ergänzt; Antworten ändern zusammenhängende Klauseln, Erklärung, Beweisbewertung und Kostenrechnung.",
-      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt."
+      "Zweiter Durchgang 30.09.2026: Auslegung bereits erklärter Rückabwicklung anhand VIII ZR 37/24 mit getrennter Prüfung des Rücktrittsgrundes ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "87c0638dd1e79b2bc7ebb7d0244fd40d8acafa956953adf10a293a390130b27e",
+    "sha256": "5a37b80d746ff6d256e0549393a833d39058e8f95c0970a941a5c8ec77a4f247",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {

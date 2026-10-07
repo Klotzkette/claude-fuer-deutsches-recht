@@ -45,7 +45,7 @@ Nutze [references/zitierweise.md](../../../references/zitierweise.md) und die fa
 
 ## 5. Ausgabeformat
 
-Zuerst die konkrete Maßnahme, danach Mandatsumfang, Fristgrundlage, größtes Risiko und fehlender Kernbeleg. Für Briefe, Vermerke und Anträge gilt die Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis aufnehmen.
+Zuerst die konkrete Maßnahme, danach Mandatsumfang, Fristgrundlage, größtes Risiko und fehlender Kernbeleg. Für Briefe, Vermerke und Anträge gilt die Ausformulierungspflicht: vollständige Sätze, keine Skelette oder Halbsätze. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

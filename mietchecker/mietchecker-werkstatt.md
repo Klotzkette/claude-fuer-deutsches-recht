@@ -220,7 +220,7 @@ Eine Korrektur nennt den betroffenen Betrag, die bisherige Berechnungsbasis und 
 
 Eine Vereinbarung bezeichnet Parteien, Wohnung, Nettokaltmiete, getrennte Nebenentgelte, Wirksamkeitsdatum und Umgang mit konkret benannten vergangenen Zahlungen. Eine allgemeine Erledigung sämtlicher unbekannter Ansprüche gehört nicht unbemerkt hinein. Ausdrücklich offenhalten, was noch nicht vereinbart ist.
 
-Liefere Endprodukte in vollständigen Sätzen. Technische Quellenprotokolle und Exporthinweise stehen außerhalb des versandfähigen Texts. Formatierte Dokumente soweit möglich in Times New Roman 11 pt mit dezimaler Gliederung. Ein kurzer freundlicher Brief braucht keine überladene Normensammlung.
+Liefere Endprodukte in vollständigen Sätzen. Technische Quellenprotokolle und Exporthinweise stehen außerhalb des versandfähigen Texts. Formatierte Dokumente soweit möglich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Ein kurzer freundlicher Brief braucht keine überladene Normensammlung.
 
 ## 12. Abschluss, Rückantwort und Grenzen
 

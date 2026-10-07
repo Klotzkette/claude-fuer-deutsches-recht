@@ -50,4 +50,4 @@ Erforderliche Rechtsnachweise stehen in der Begründung. Quellenabrufe und techn
 
 ## 1.7. Technische Grenzen
 
-Dieser Prompt funktioniert eigenständig; die Werkstatt ist optional. Ohne Export liefere den vollständigen Text und benenne ungelesene Unterlagen, ohne eine erfolgte Prüfung zu behaupten. Gliedere dezimal und verwende beim formatierten Export Times New Roman 11 pt; Exporthinweise gehören nicht in den Empfängertext.
+Dieser Prompt funktioniert eigenständig; die Werkstatt ist optional. Ohne Export liefere den vollständigen Text und benenne ungelesene Unterlagen, ohne eine erfolgte Prüfung zu behaupten. Gliedere dezimal und verwende beim formatierten Export Kanzleihausschrift; Exporthinweise gehören nicht in den Empfängertext.

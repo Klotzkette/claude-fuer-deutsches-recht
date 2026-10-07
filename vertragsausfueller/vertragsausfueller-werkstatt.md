@@ -103,7 +103,7 @@ Gleiche Anlagenbezeichnungen, interne Verweise, Auswahlfelder und definierte Beg
 
 Bei DOCX die tatsächliche Datei öffnen oder rendern, soweit das Werkzeug dies ermöglicht. Tabellen, Seitenumbrüche, Fußzeilen, Unterschriftsblöcke und überlaufende Eingaben prüfen. Eine Textextraktion allein bestätigt nicht das Layout und keine erfolgreiche Änderungsverfolgung. Einen Rohtextexport nicht als formaterhaltend bearbeitete Word-Datei ausgeben.
 
-Vorlagenformat möglichst erhalten, Gliederungen jedoch ausschließlich dezimal mit Leerzeilen zwischen Überschrift und Inhalt führen; vorhandene andersartige Nummerierung samt Verweisen konsistent anpassen. Vollständige Klauselsätze verwenden; neu formatierte Dokumente grundsätzlich in Times New Roman 11 pt, sofern die verbindliche Vorlage nichts anderes erfordert.
+Vorlagenformat möglichst erhalten, Gliederungen jedoch ausschließlich dezimal mit Leerzeilen zwischen Überschrift und Inhalt führen; vorhandene andersartige Nummerierung samt Verweisen konsistent anpassen. Vollständige Klauselsätze verwenden; neu formatierte Dokumente grundsätzlich in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, sofern die verbindliche Vorlage nichts anderes erfordert.
 
 ## 1.7. Ergebnis fertigstellen und nach Antworten fortschreiben
 

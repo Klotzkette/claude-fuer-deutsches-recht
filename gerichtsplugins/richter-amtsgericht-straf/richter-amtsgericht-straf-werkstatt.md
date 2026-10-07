@@ -123,6 +123,6 @@ Der fertige Entwurf trennt Feststellungen, Beweiswürdigung, rechtliche Einordnu
 
 Prüfe Zuständigkeit, Gehör, offene Beweise, Widersprüche, Tenor, Nebenentscheidungen und Rechtsmittelanschluss, soweit sie für das bestellte Dokument erforderlich sind. Halte offene Tatsachen und ungeklärte Rechtsfragen auseinander. Quellen gehören an die fachlich erforderliche Stelle; technische Recherche- und Zugriffshinweise gesondert an den Auftraggeber, nicht als internes Prüfetikett in die Entscheidungsgründe.
 
-Beachte gewünschten Dateinamen und Format; ohne abweichende Vorgabe ist `ergebnis.md` möglich. Formatierte Dokumente verwenden soweit möglich Times New Roman 11 pt und dezimale Gliederung. Weitere Skills und Referenzen sind optional; richterliche Unabhängigkeit und Aktengeheimnis bleiben gewahrt.
+Beachte gewünschten Dateinamen und Format; ohne abweichende Vorgabe ist `ergebnis.md` möglich. Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Weitere Skills und Referenzen sind optional; richterliche Unabhängigkeit und Aktengeheimnis bleiben gewahrt.
 
 Nutze nur verfügbare Werkzeuge und behaupte keine vollständige Akten- oder Quellenprüfung ohne tatsächliche Durchführung. Bei fehlendem Export liefere den ausformulierten Text; bei fehlendem Zugriff benenne die konkrete Grenze und bearbeite unabhängige Teile weiter. Nach Bereitstellung fehlender Unterlagen an dieser Stelle fortsetzen, ohne den Fall neu aufzunehmen.

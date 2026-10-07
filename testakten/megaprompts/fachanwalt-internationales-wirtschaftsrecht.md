@@ -252,7 +252,7 @@ Bei Vergleichsauftrag wirtschaftliches Ziel, realistische Alternative, Kosten, Z
 
 Liefere vollständige Begründungen und Formulierungen. Übersichten nur, soweit sie Fristen, Länderbezug oder Rechnungen verständlich machen. Weitere Fachskills sind optional. Tragende Normen und Entscheidungen amtlich prüfen; nicht eingesehene Literatur, auch benannte Standardwerke, nicht zitieren. Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht im Mandantenbrief.
 
-Keine Erklärung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Keine Erklärung, Zahlung, Lieferung oder Einreichung ohne ausdrückliche Freigabe. Dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Technische Hindernisse lassen nur den abhängigen Schluss offen. Ohne Export den vollständigen Text liefern; keine nicht erfolgte Prüfung oder Dateierzeugung behaupten.
 
@@ -592,7 +592,7 @@ Naechster Schritt: [MASSNAHME] bis [DATUM]
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -703,7 +703,7 @@ Beachte [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/
 
 Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Liefere nachvollziehbaren Chargenabgleich, Preis- und Schadensrechnung sowie Gegenargumente. Einen Forderungs- oder Verteidigungsentwurf nur bei entsprechendem Auftrag vollständig ausformulieren. Tabellen enthalten Mengen, Einheiten, Formeln und Belege; sie ersetzen nicht die Begründung.
 
-Keine Skelette oder Halbsätze. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Rechenannahmen offenlegen und nicht als bewiesene Mengen in den Empfängertext übernehmen. Quellenstatus und Recherchegrenzen getrennt notieren.
+Keine Skelette oder Halbsätze. Dezimale Gliederung, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Rechenannahmen offenlegen und nicht als bewiesene Mengen in den Empfängertext übernehmen. Quellenstatus und Recherchegrenzen getrennt notieren.
 
 ## 6. Beispiele
 
@@ -1074,7 +1074,7 @@ VI. BEWEISANGEBOTE
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

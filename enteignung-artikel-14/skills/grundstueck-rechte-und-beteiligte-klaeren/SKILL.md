@@ -26,7 +26,7 @@ Nutze BauGB 92, 97, 106, 108 und 113 im [Quellenregister](../../references/recht
 
 ## 5. Ausgabeformat
 
-Belegtes Rechteverzeichnis mit Person, Rechtsposition, Fläche, Quelle und erforderlicher Beteiligung; dazu die vollständig formulierten notwendigen Anschreiben. Keine bloße offene Aufgabenliste als Endprodukt. Times New Roman 11 pt, dezimale Gliederung, Tabellen mit lesbaren Spalten. Keine Registeränderung oder Offenlegung ohne Freigabe.
+Belegtes Rechteverzeichnis mit Person, Rechtsposition, Fläche, Quelle und erforderlicher Beteiligung; dazu die vollständig formulierten notwendigen Anschreiben. Keine bloße offene Aufgabenliste als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Tabellen mit lesbaren Spalten. Keine Registeränderung oder Offenlegung ohne Freigabe.
 
 ## 6. Beispiele
 

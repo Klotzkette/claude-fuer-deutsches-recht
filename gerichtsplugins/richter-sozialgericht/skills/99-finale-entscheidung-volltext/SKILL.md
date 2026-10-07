@@ -37,7 +37,7 @@ Kosten nach dem einschlägigen Regime prüfen: Paragraf 193 SGG gilt nicht unter
 
 Tragende Normen und Entscheidungen amtlich verifizieren; optional ergänzt `references/zitierweise.md` die Zitierweise. Zusätzliche Recherche- und Bearbeitungsvermerke getrennt vom gerichtlichen Text führen.
 
-Liefere vollständige Sätze mit echten Umlauten, ausgeschriebenem Paragraf und dezimaler Gliederung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Nutzerdateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung.
+Liefere vollständige Sätze mit echten Umlauten, ausgeschriebenem Paragraf und dezimaler Gliederung. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nutzerdateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung.
 
 Kontrolliere Bescheiddaten, Leistungszeiträume, Beträge und Übereinstimmung von Tenor und Gründen. Noch entscheidungserhebliche Lücken verhindern die Kennzeichnung als unterschriftsreife Endfassung, nicht die Bearbeitung der übrigen Teile.
 

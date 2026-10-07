@@ -31,7 +31,7 @@ BGH, Urt. v. 21.11.2019 – Az. VII ZR 10/19, [amtlicher Volltext](https://www.b
 
 Erstellen Sie eine Nachtragskalkulation mit Netto-, Umsatzsteuer- und Bruttosumme, Abzugspositionen, separaten Zeitkosten und einem erläuterten Unsicherheitsbetrag. Der zu versendende Angebotstext benennt Leistung, Preisbasis und offene Mengen.
 
-Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
+Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
 
 ## 6. Beispiele
 

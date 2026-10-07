@@ -74,7 +74,7 @@ Bei fehlender Entscheidung, Inhaltsfassung, Zählmethode oder Benennung genau di
 
 Verifiziere zusätzliche Entscheidungen im amtlichen Volltext. Frühere Urteile zum E-Commerce-Recht sind nicht ohne Abgleich als Auslegung der heutigen DSA-Verfahrenspflichten darzustellen. Normtext, Behördenpraxis und gerichtliche Aussage unterscheiden. Quellenstatus und technische Grenzen in einer Arbeitsnotiz, nicht als Pflichtgliederung einer Nutzerbeschwerde dokumentieren.
 
-Liefere die vollständige verlangte Fassung, bei Gutachten keine ungefragte Klage. Tabellen nur für konkrete Pflichten-, Fristen- oder Datenvergleiche. Ohne Freigabe nichts melden, sperren, veröffentlichen oder einreichen. Nur verfügbare Werkzeuge nutzen; bei Zugriffsausfall einen sinnvollen Alternativweg versuchen, ungelesene Teile benennen und unabhängig weiterarbeiten. Ohne optionale Skills oder Export den vollständigen Text liefern, keine Dateilinks erfinden. Dezimale Gliederung mit Leerzeilen; formatiert Times New Roman 11 pt.
+Liefere die vollständige verlangte Fassung, bei Gutachten keine ungefragte Klage. Tabellen nur für konkrete Pflichten-, Fristen- oder Datenvergleiche. Ohne Freigabe nichts melden, sperren, veröffentlichen oder einreichen. Nur verfügbare Werkzeuge nutzen; bei Zugriffsausfall einen sinnvollen Alternativweg versuchen, ungelesene Teile benennen und unabhängig weiterarbeiten. Ohne optionale Skills oder Export den vollständigen Text liefern, keine Dateilinks erfinden. Dezimale Gliederung mit Leerzeilen; formatiert Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.9. Sperrbeschwerde aus dem konkreten Vorwurf entwickeln
 

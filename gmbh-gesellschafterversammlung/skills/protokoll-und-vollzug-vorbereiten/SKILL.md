@@ -63,7 +63,7 @@ Beachten Sie [Zitierweise](../../references/zitierweise.md), [Rechtsgrundlagen](
 
 Liefern Sie den vollständig ausformulierten Leitfaden oder Protokollentwurf mit passenden Anlagen und einer Vollzugstabelle aus Maßnahme, Verantwortlichkeit, konkretem Anlass, Termin und Nachweisstand. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Offene Erfassungsfelder sind im vor der Sitzung bestimmten Leitfaden zulässig; das Dokument muss um sie herum bereits benutzbare vollständige Sprech- und Beschlusstexte enthalten.
 
-Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe gehört ein getrennter Exporthinweis außerhalb des eigentlichen Dokuments. Behaupten Sie keine Unterzeichnung, Beurkundung, Versendung oder Registereintragung, die nicht nachgewiesen ist.
+Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Bei Chat- oder Markdown-Ausgabe gehört ein getrennter Exporthinweis außerhalb des eigentlichen Dokuments. Behaupten Sie keine Unterzeichnung, Beurkundung, Versendung oder Registereintragung, die nicht nachgewiesen ist.
 
 ## 6 Beispiele
 

@@ -50,9 +50,10 @@
     "changes": [
       "II ZR 84/20 für die Belastbarkeit weicher Patronate und fortlaufende Prognosekontrolle verwendet.",
       "Paragraf 1 StaRUG vom Prognosehorizont nach Paragraf 18 InsO und Insolvenzantragspflicht getrennt.",
-      "Leerer Eingang mit Engpass, Frühwarnsystem oder Plan; stille Dateisichtung und unmittelbare Auftragsarbeit ergänzt. Verspätete Einlage verändert konkreten Prognosepfad und Maßnahmenfrist."
+      "Leerer Eingang mit Engpass, Frühwarnsystem oder Plan; stille Dateisichtung und unmittelbare Auftragsarbeit ergänzt. Verspätete Einlage verändert konkreten Prognosepfad und Maßnahmenfrist.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "424229cb70d2d60bb6bd4d7c3f383bf38a5549bd017371a39e1529876bacc747",
+    "sha256": "f555c873db7842257299f50bbea971cf78397463854e3343aa049b74f641656c",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -106,9 +107,10 @@
     "changes": [
       "II ZR 84/20 für die Belastbarkeit weicher Patronate und fortlaufende Prognosekontrolle verwendet.",
       "Paragraf 1 StaRUG vom Prognosehorizont nach Paragraf 18 InsO und Insolvenzantragspflicht getrennt.",
-      "Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft."
+      "Finanzierungszeitpunkt, rollierende Folgeperioden, geschäftsmodellbezogene Frühwarnsignale, integrierte Überleitung und Auswirkungen geänderter Gläubigerrechte auf Planregeln vertieft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d636f7928d15dbb863a0e4f3cff3572672e004fb36854fc0c01ef0fd15d3217c",
+    "sha256": "57a879eb8ef403a92557218d2afc1ce48f5cd31c561fbd41be74481fc07d45ce",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

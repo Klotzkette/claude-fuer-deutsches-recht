@@ -45,7 +45,7 @@ Prüfe VwGO, einschlägiges Verwaltungsverfahrensrecht, Grundgesetz, GKG, gegebe
 
 Liefere das bestellte Dokument vollständig ausformuliert. Ein gerichtlicher Hinweis bezeichnet die erhebliche Frage, den Adressaten und die Frist; ein Entscheidungsentwurf beantwortet die geklärten Zulässigkeitsfragen mit Gründen. Technischer Quellenstatus und noch benötigte Angaben stehen in einer getrennten Arbeitsnotiz. Der Nutzerdateiname geht vor; ergebnis.md ist lediglich ein möglicher Standard.
 
-Beachte Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Stichwortlisten, dezimale Gliederung und bei formatierten Dokumenten Times New Roman 11 pt. Kennzeichne fehlende Angaben deutlich, ohne sie durch erfundene Tatsachen zu ersetzen. Bei reiner Textausgabe steht der Exporthinweis getrennt vom gerichtlichen Dokument.
+Beachte Ausformulierungspflicht und Formatstandard: vollständige Sätze statt Stichwortlisten, dezimale Gliederung und bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Kennzeichne fehlende Angaben deutlich, ohne sie durch erfundene Tatsachen zu ersetzen. Bei reiner Textausgabe steht der Exporthinweis getrennt vom gerichtlichen Dokument.
 
 ## 1.7. Rechtsprechung verifizieren
 

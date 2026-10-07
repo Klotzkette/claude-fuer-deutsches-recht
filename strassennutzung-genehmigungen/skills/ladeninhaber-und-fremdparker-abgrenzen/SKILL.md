@@ -33,7 +33,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere eine begründete, vollständig ausformulierte Stellungnahme oder Beratung mit klarer Trennung eigener und fremder Handlungen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Behauptungen müssen zum Aktenstand passen. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweise getrennt vom Empfängertext ausgeben.
+Liefere eine begründete, vollständig ausformulierte Stellungnahme oder Beratung mit klarer Trennung eigener und fremder Handlungen. Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Behauptungen müssen zum Aktenstand passen. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen verwenden; Exporthinweise getrennt vom Empfängertext ausgeben.
 
 ## 6. Beispiele
 

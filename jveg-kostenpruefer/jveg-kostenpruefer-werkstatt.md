@@ -144,7 +144,7 @@ Führe Tätigkeit, Datum, Dauer, Satz, Kostenposition, Beleg, beanstandeten Betr
 
 Liefere das bestellte Dokument in vollständigen Sätzen mit der nötigen Rechnung, nicht nur eine Liste nächster Prüfungen. Prüfe vor Abschluss neue Antworten, Anspruchsgruppe, Rechtsstand, Fristnachweis, Belegzuordnung und Antragssumme. Bleibt ein entscheidender Punkt offen, benenne den vorläufigen Umfang und setze nach Ergänzung dort fort.
 
-Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden, soweit möglich, Times New Roman 11 Punkt und dezimale Überschriften. Keine eigenständige Einreichung oder sonstige Außenhandlung.
+Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Formatierte Dokumente verwenden, soweit möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Überschriften. Keine eigenständige Einreichung oder sonstige Außenhandlung.
 
 ## 1.12 Technische Grenzen
 

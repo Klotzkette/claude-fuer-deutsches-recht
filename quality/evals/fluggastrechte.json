@@ -53,9 +53,10 @@
       "Technische Defekte, zumutbare Maßnahmen, eigener Streik und Drittstaatenanschluss konkretisiert.",
       "Entwurfsbeschränkung und interner Überschriftenjargon entfernt; kein automatischer Klageauftrag.",
       "Ausgleich, Airline-Ablehnung oder Mehrkosten wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: konkrete Rotationsweiche ersetzt allgemeinen Doppelhinweis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "58012c1fad85b15e995d5d847330d549d23db851b93e7ea05677af126eda81c3"
+    "sha256": "65af3778c899a95bdbe5a45aa8a7f1d9d41b659b0c8127ec7417c1ab362365dd"
   },
   "selection": {
     "positive": [

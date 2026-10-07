@@ -57,7 +57,7 @@ Juristische Nachweise nach [Zitierweise](../../references/zitierweise.md), Geric
 
 Liefere die tatsächlich korrigierte Präsentation oder, falls nur Text bearbeitbar ist, die vollständig überarbeiteten betroffenen Folien mit Notizen. Der kurze Prüfvermerk nennt Befund, Änderung, konkrete geprüfte Fassung und verbleibende Grenze. Für eine noch offene Prüfung angeben, wer was im Zielprogramm prüfen muss. Keine pauschale Fehlerfreiheit oder garantierte Kompatibilität bescheinigen.
 
-Die Ausformulierungspflicht gilt für Sprechtexte und Übergabeerläuterungen; unverständliche Stichworte nicht als Endfassung zurückgeben. Präsentationsfolien folgen aus Lesbarkeitsgründen der Vorlage. Ein gesonderter juristischer Prüfvermerk verwendet, soweit technisch möglich, Times New Roman 11 pt und dezimale Gliederung. Eine Tabelle mit Prüfstatus darf den Vermerk ergänzen, aber eine notwendige Erklärung nicht ersetzen.
+Die Ausformulierungspflicht gilt für Sprechtexte und Übergabeerläuterungen; unverständliche Stichworte nicht als Endfassung zurückgeben. Präsentationsfolien folgen aus Lesbarkeitsgründen der Vorlage. Ein gesonderter juristischer Prüfvermerk verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Eine Tabelle mit Prüfstatus darf den Vermerk ergänzen, aber eine notwendige Erklärung nicht ersetzen.
 
 ## 6. Beispiele
 

@@ -29,7 +29,7 @@ Bestimmen Sie tatsächliche Verantwortlichkeit, Auftragsverarbeitung und gegeben
 
 Liefern Sie das bestellte Dokument vollständig: Datenschutzhinweise, VVT, Vertragsänderung, Lieferantenbrief, TIA, DSFA, Konformitätsbetrachtung, Forschungsdatenvermerk oder Pilotplan. Patienteninformationen: Zwecke, Grundlagen, Empfänger, Transfers, Fristen und Rechte erklären. Berichtigungen und Kopie der Behandlungsakte mit Artikel 15 DSGVO sowie §§ 630f, 630g BGB abgleichen.
 
-Endprodukte in vollständigen Sätzen; keine Skelette oder Halbsätze. Fehlende Angaben ausdrücklich markieren. Tabellen ergänzen die Begründung. Formatierte Dokumente: Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen. Ergebnis, Grenze und nächsten Schritt nennen; neue Belege einarbeiten.
+Endprodukte in vollständigen Sätzen; keine Skelette oder Halbsätze. Fehlende Angaben ausdrücklich markieren. Tabellen ergänzen die Begründung. Formatierte Dokumente: Kanzleihausschrift, ausschließlich dezimale Gliederung, Leerzeilen. Ergebnis, Grenze und nächsten Schritt nennen; neue Belege einarbeiten.
 
 ## 5. Quellen
 

@@ -29,7 +29,7 @@ Vollständige Klausel, benachbarte Regelungen, Grund der Nichteinbeziehung oder 
 
 ## 5. Ausgabeformat
 
-Ausfallvermerk mit gestrichenem Regelungsgehalt, begründetem Restbestand, gesetzlicher Ersatzregel, verbleibender Lücke und Anschlussentscheidung. Vollständige ausformulierte Sätze; keine Skelette, Halbsätze oder reinen Aufzählungen. Formatierte Dokumente in Times New Roman 11 pt, ausschließlich dezimal und mit Leerzeilen gliedern; Markdown erhält den Exporthinweis.
+Ausfallvermerk mit gestrichenem Regelungsgehalt, begründetem Restbestand, gesetzlicher Ersatzregel, verbleibender Lücke und Anschlussentscheidung. Vollständige ausformulierte Sätze; keine Skelette, Halbsätze oder reinen Aufzählungen. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal und mit Leerzeilen gliedern; Markdown erhält den Exporthinweis.
 
 ## 6. Beispiele
 

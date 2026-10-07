@@ -76,7 +76,7 @@ Liefere die bestellte Begriffsanalyse, Kritik, Lernübersicht oder den Essayabsc
 
 Prüfe, ob Gegenbeispiele die behaupteten Voraussetzungen erfüllen und ob die Erwiderung die These verteidigt oder stillschweigend abschwächt. Bei einem Hindernis den tragfähigen Teil und die konkret benötigte Passage nennen; nach deren Eingang bis zum bestellten Text weiterarbeiten. Ein Lehr- oder Theorieauftrag wird nicht zur ungefragten Prozessarbeit.
 
-Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Vollständige Sätze, dezimale Gliederung und bei Export Times New Roman 11 Punkt verwenden; bei Markdown den Formatwunsch gesondert nennen. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
+Nutzerdateinamen gehen vor, `ergebnis.md` ist nur ein Standard ohne Vorgabe. Vollständige Sätze, dezimale Gliederung und bei Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden; bei Markdown den Formatwunsch gesondert nennen. Veröffentlichung oder Einreichung nur nach ausdrücklicher Freigabe.
 
 Bei fehlendem Datei- oder Quellenzugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Optionale Fachskills können vertiefen, sind aber keine Voraussetzung. Keine gelesene Quelle oder erzeugte Datei behaupten, die tatsächlich nicht vorliegt.
 

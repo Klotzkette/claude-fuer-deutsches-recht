@@ -26,7 +26,7 @@ BAG, Urteil vom 23.10.2025, 8 AZR 269/24: Wer Stundenlohn aus Monatsgehalt ablei
 
 ## 5. Ausgabeformat
 
-Prüfbare Berechnungstabelle plus vollständig ausformuliertes Auskunfts- oder Forderungsschreiben. Fehlende Werte als offen markieren, nicht mit null rechnen. Keine Skelettfassung; Times New Roman 11 pt und dezimale Gliederung.
+Prüfbare Berechnungstabelle plus vollständig ausformuliertes Auskunfts- oder Forderungsschreiben. Fehlende Werte als offen markieren, nicht mit null rechnen. Keine Skelettfassung; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## 6. Beispiel
 

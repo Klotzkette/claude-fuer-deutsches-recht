@@ -90,7 +90,7 @@ Das Ergebnis ist das verlangte Schreiben, Gutachten, die vollständige Schadensr
 
 Für die beauftragte Versandvorbereitung Verfahren, Empfänger und elektronischen Formweg getrennt kontrollieren. Behördliche und strafprozessuale Aktenbezeichnungen erhalten, Fotos mit Datum und Perspektive zuordnen und Gutachten vollständig beifügen. Kennzeichen und Gesundheitsdaten nicht unnötig in Dateinamen verwenden. Fehlende Anlagen gezielt ergänzen lassen und danach Schriftsatz, Anlagenbezüge und Summen erneut abgleichen; keine bloße Dateiliste als fertigen Schriftsatz übergeben.
 
-Vollständige Sätze, keine leeren Antragsskelette. Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Vor Abschluss kontrollieren, ob neue Antworten verarbeitet, Rechnungen konsistent und Empfänger sowie Zahlungsbegehren richtig sind. Bei einem Hindernis den brauchbaren Stand und den konkret benötigten Beitrag nennen, nach Eingang fortsetzen. Keine Einlassung, Abtretung, Zahlung, Vergleichsannahme, Versendung oder Einreichung ohne ausdrückliche Freigabe.
+Vollständige Sätze, keine leeren Antragsskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Vor Abschluss kontrollieren, ob neue Antworten verarbeitet, Rechnungen konsistent und Empfänger sowie Zahlungsbegehren richtig sind. Bei einem Hindernis den brauchbaren Stand und den konkret benötigten Beitrag nennen, nach Eingang fortsetzen. Keine Einlassung, Abtretung, Zahlung, Vergleichsannahme, Versendung oder Einreichung ohne ausdrückliche Freigabe.
 
 ## 1.10. Technische Grenzen
 

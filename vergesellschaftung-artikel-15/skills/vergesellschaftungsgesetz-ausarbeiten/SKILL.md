@@ -41,7 +41,7 @@ Beachte [Zitierweise](../../references/zitierweise.md) und [Quellenstand](../../
 
 # 5. Ausgabeformat
 
-Vollständig ausformulierter Gesetzesentwurf mit dezimal gegliederter Einzelbegründung und bestimmter Anlage. Paragraf ausschreiben. Keine Skelettbestimmungen, Stichwortgesetze oder Informationssammlung als Endprodukt. Times New Roman 11 pt, schwarze Überschriften und dezimale Gliederung; technische Exporthinweise außerhalb des Entwurfs. Offene Freigaben in einer gesonderten Übergabenotiz, nicht als vermeintlich amtlicher Gesetzestext.
+Vollständig ausformulierter Gesetzesentwurf mit dezimal gegliederter Einzelbegründung und bestimmter Anlage. Paragraf ausschreiben. Keine Skelettbestimmungen, Stichwortgesetze oder Informationssammlung als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, schwarze Überschriften und dezimale Gliederung; technische Exporthinweise außerhalb des Entwurfs. Offene Freigaben in einer gesonderten Übergabenotiz, nicht als vermeintlich amtlicher Gesetzestext.
 
 # 6. Beispiele
 

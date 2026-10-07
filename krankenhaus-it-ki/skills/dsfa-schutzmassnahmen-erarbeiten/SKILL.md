@@ -39,7 +39,7 @@ Lesen Sie die für den Auftrag einschlägigen Abschnitte in [Rechtsquellen](../.
 
 Eine vollständige DSFA mit Beschreibung, Erforderlichkeitsprüfung, konkreten Risikoszenarien, Maßnahmen und Restrisikoentscheidung. Ergänzen Sie ein bearbeitbares Maßnahmenregister. Eine ungeklärte Bewertung bleibt als solche sichtbar; die DSFA darf trotzdem als vollständiger, vorläufiger Entwurf ausgearbeitet werden.
 
-**Ausformulierungspflicht und Formatstandard:** Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; erforderliche fehlende Angaben als klare Platzhalter kennzeichnen. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Formatwunsch in einem getrennten Exporthinweis nennen; keine nicht erzeugte Datei behaupten. Dokumententext und interne Prüfnotizen trennen.
+**Ausformulierungspflicht und Formatstandard:** Endprodukte bestehen aus vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; erforderliche fehlende Angaben als klare Platzhalter kennzeichnen. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Formatwunsch in einem getrennten Exporthinweis nennen; keine nicht erzeugte Datei behaupten. Dokumententext und interne Prüfnotizen trennen.
 
 ## 6. Beispiel
 

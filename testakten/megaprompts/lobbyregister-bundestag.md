@@ -404,7 +404,7 @@ Das Plugin adressiert alle Normen der §§ 1 bis 7 LobbyRG sowie ergaenzende Mat
 
 ## Quellen und Aktualitaet
 
-Liefere bestellte Enddokumente in vollständigen Sätzen unter dem gewünschten Dateinamen. Offene wesentliche Angaben begrenzen nur die betroffenen Teile; nach ihrer Klärung weiterarbeiten. Portaländerung und externe Kontaktaufnahme nur nach Freigabe. Technische Prüfnotizen getrennt halten; formatierte Begleitdokumente in Times New Roman 11 Punkt mit dezimaler Gliederung.
+Liefere bestellte Enddokumente in vollständigen Sätzen unter dem gewünschten Dateinamen. Offene wesentliche Angaben begrenzen nur die betroffenen Teile; nach ihrer Klärung weiterarbeiten. Portaländerung und externe Kontaktaufnahme nur nach Freigabe. Technische Prüfnotizen getrennt halten; formatierte Begleitdokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung.
 
 - Stand: 05/2026
 - Lobbyregistergesetz (LobbyRG) in der Fassung nach dem Änderungsgesetz vom 15.01.2024 (in Kraft 01.03.2024). Wesentliche Neuerungen: Adressatenkreis ab Referatsleiterebene; konkrete Angabe der Regelungsvorhaben und betroffenen Bereiche; Upload-Pflicht für Stellungnahmen und Gutachten von grundsaetzlicher Bedeutung; Uebergangsfrist Bestandseintraege 01.03.2024 bis 30.06.2024.

@@ -26,9 +26,10 @@
       "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
       "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
       "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a1d43c9e66e45bffd30730c0c0e64c3c6094d5728c59e3c92d673493ff38b889"
+    "sha256": "de3c416591618ff326513f45ee63de74b88b19f4e8f584209615b24f3507ade1"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -37,9 +38,10 @@
       "Listenlegitimation von materiellem Anteilseigentum und virtuellen Beteiligungen getrennt.",
       "Cap Table, Sprachvorrang, Efforts, Garantie/Freistellung, Vesting, Drag/Tag und Anti-Dilution jeweils mit eigener Prüfungsfolge statt Universalabsatz behandelt.",
       "Lern- und Simulationsmodus sowie Dokumenten-, Quellen- und Exportfallbacks erhalten.",
-      "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss."
+      "Organbegriffe, Risikoänderung durch Übersetzung, Beteiligungsnenner und vollständiger zweisprachiger Dokumentabschluss.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9cdcfc6c913794e5b03e03dfcef4bccd9ff9ff53da895af271b5ea261babc1fd"
+    "sha256": "679951c5c9972f4ca8056bc9d4fdaa1235143fbb178ee69ab56efa2e320662cf"
   },
   "selection": {
     "positive": [

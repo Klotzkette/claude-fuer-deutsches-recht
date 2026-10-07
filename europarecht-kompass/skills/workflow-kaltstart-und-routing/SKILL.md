@@ -44,4 +44,4 @@ Liefere das bestellte Dokument in vollständigen Sätzen. Normvergleiche oder Be
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
-Dezimale Gliederung verwenden; Exportstandard Times New Roman 11 pt. Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile genau benennen. Bei technischen Fehlern unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.
+Dezimale Gliederung verwenden; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile genau benennen. Bei technischen Fehlern unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.

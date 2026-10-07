@@ -15,9 +15,10 @@
     "changes": [
       "Den bereits konkreten E-Mail-Einstieg erhalten; Verzögerung der Absage und offene Honoraranfrage als sachliche Verzweigungen ergänzt, ohne Rechtsgutachten in die Antwort zu zwingen.",
       "Erkannter Wunsch nach Honorarauskunft vor Mandatsübernahme muss vor Vertragsschluss beantwortet werden. Grenze: Keine allgemeine Unwirksamkeit eines Mandats ohne Honorarvereinbarung; kein pauschaler Preis.",
-      "Leere Eingabe, bloße Korrespondenz und klaren Antwortauftrag trennen; eine Kanzleiabsage ersetzt den vorläufigen Terminabsatz und unnötige Nachforderungen."
+      "Leere Eingabe, bloße Korrespondenz und klaren Antwortauftrag trennen; eine Kanzleiabsage ersetzt den vorläufigen Terminabsatz und unnötige Nachforderungen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f386f9a7458914e3233efac815e3f276d9e29712f319ddf1139a7663ee0ffeb9"
+    "sha256": "2ed63fa507d246c41257cb4c54e1e0987bc67c313a1c0919846ce455b9cdef8e"
   },
   "selection": {
     "positive": [
@@ -72,9 +73,10 @@
       "Tatsächlichen Eingang und rechtliche Anlagenprüfung trennen; zitierte ältere Zusagen ihrem Absender und Datum zuordnen.",
       "Angehörigenanfrage ohne belegte Befugnis neutral beantworten; gemeinsame Anfrage nicht als abgeschlossene Konfliktprüfung behandeln.",
       "Frist morgen bleibt berichtete Dringlichkeit; entschiedene Nichtannahme klar ausformulieren und interne Weiterleitung nicht vortäuschen.",
-      "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen."
+      "Unbrauchbaren Kontaktweg und ausdrückliche Preisgrenze gezielt intern klären; neue Kanzleientscheidung bis zur vollständigen Antwortdatei umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5817906168acaa5f9b61784e510074ac4441e5e710129ba53564a7273f038702"
+    "sha256": "a371e19ea97c0e059227a5118142d029718f981c53fa24ec655e2aa76b43e874"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

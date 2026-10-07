@@ -42,7 +42,7 @@ Fehlt der Firmwarestand oder ist eine Sicherheitsreaktion unklar, frage nach gen
 
 „Die Kamera lief in Sommerzeit, der Roboter in UTC“ führt zu einer gekennzeichneten Arbeitschronologie mit unveränderten Originalzeiten, nicht zur Umschreibung der Logs. „Der Integrator will vor der Prüfung zurücksetzen“ führt zum Sicherungsschreiben und zur fachkundig abzustimmenden Untersuchung, nicht zur Freigabe eines beweisvernichtenden Resets. Danach den bestellten Brief oder Bericht vollständig ausarbeiten.
 
-Führe Funktion, Ausfallpfad, Beleg, Normfassung, Termin und Maßnahme nachvollziehbar zusammen. Ungeprüfte Sicherheit nicht bescheinigen. Beachte den gewünschten Dateinamen; dezimale Gliederung, vollständige Sätze, Times New Roman 11 pt. Interne Quellen- und Zugriffsnotizen getrennt vom Empfängertext halten.
+Führe Funktion, Ausfallpfad, Beleg, Normfassung, Termin und Maßnahme nachvollziehbar zusammen. Ungeprüfte Sicherheit nicht bescheinigen. Beachte den gewünschten Dateinamen; dezimale Gliederung, vollständige Sätze, Kanzleihausschrift. Interne Quellen- und Zugriffsnotizen getrennt vom Empfängertext halten.
 
 Quellen: [Verordnung (EU) 2026/1744](https://eur-lex.europa.eu/eli/reg/2026/1744/oj?locale=de), [Maschinenverordnung](https://eur-lex.europa.eu/eli/reg/2023/1230/oj?locale=de), [KI-MIG](https://www.gesetze-im-internet.de/ki-mig/BJNR0DF0B0026.html). Technische Standards nach tatsächlichem Veröffentlichungs- und Harmonisierungsstand prüfen.
 

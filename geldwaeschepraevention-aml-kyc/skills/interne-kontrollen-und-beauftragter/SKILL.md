@@ -37,7 +37,7 @@ GwG Paragrafen 6 bis 8 und zuständige Kammer- oder Landesanordnungen; [Quellenk
 
 ## 5. Ausgabeformat
 
-Ausformulierte Arbeitsanweisung mit Verantwortlichem und Vertretung sowie beschlussfähige Bestellung nur bei geklärter Grundlage. Times New Roman 11 pt, dezimale Gliederung. Nicht bloß „Kontrollen implementieren“ schreiben.
+Ausformulierte Arbeitsanweisung mit Verantwortlichem und Vertretung sowie beschlussfähige Bestellung nur bei geklärter Grundlage. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Nicht bloß „Kontrollen implementieren“ schreiben.
 
 ## 6. Beispiele
 

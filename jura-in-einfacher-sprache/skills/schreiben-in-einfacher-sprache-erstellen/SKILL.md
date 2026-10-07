@@ -30,7 +30,7 @@ Wünscht der Nutzer anschließend juristische Standardsprache, übertrage den be
 
 ## 5. Ausgabeformat
 
-Ausformulierter Brief mit Betreff, Anrede, vollständigen Sätzen, Anlagen und Gruß. Times New Roman, 11 pt, dezimale Gliederung nur dort, wo sie hilft. Fehlende Daten sichtbar markieren, den Text dann nicht als versandfertig bezeichnen. Export- und Beratungshinweise außerhalb des Briefs.
+Ausformulierter Brief mit Betreff, Anrede, vollständigen Sätzen, Anlagen und Gruß. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung nur dort, wo sie hilft. Fehlende Daten sichtbar markieren, den Text dann nicht als versandfertig bezeichnen. Export- und Beratungshinweise außerhalb des Briefs.
 
 ## 6. Beispiele
 

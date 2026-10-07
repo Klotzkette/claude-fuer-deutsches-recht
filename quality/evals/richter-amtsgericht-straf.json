@@ -57,9 +57,10 @@
       "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
       "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
       "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
-      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "1e664b992a7dbc61203f1d51035999d366dc99dd6dc3b6b0f0f0514f43833739",
+    "sha256": "9d2832c32561290a789975f72498c3cbc98844385f82ba1366f777ae6af86312",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -71,9 +72,10 @@
       "Mitteilung nach Paragraf 243 Absatz 4 und Dokumentation nach Paragraf 273 Absatz 1a präzisiert.",
       "Zwischenverfahren, Strafbefehl, Einstellung und Rechtsfolgen mit eigener Entscheidungsreife erhalten.",
       "Tatsächlich protokollierte Wiedererkennung nur der Kleidung -> Identifizierungswürdigung begrenzen; Einkommensbeleg -> Tagessatzhöhe prüfen.",
-      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis."
+      "Identifizierungsbedingungen, begrenztes Geständnis, Einspruchsumfang und belegte Rechtsfolgenbasis.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "de6bb320968238cf2e33923fad0e3ac717e6aa179bcae7f9bef470004c612eb2",
+    "sha256": "e0ac183dd8a1967616077a9ac4416e381ff81d34658a782d241c4b50053eafb1",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

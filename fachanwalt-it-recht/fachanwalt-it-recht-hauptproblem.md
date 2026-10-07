@@ -34,7 +34,7 @@ Fehler mit Version, Datenbasis, Reproduktionsschritten sowie Soll und Ist beschr
 
 Annahmen nicht als Tatsachen in das Schreiben übernehmen; Quellenstatus und noch offene Prüfungen getrennt notieren. Ohne Freigabe nichts versenden oder einreichen.
 
-Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Times New Roman 11 pt für formatierten Export; bei Markdown entsprechender Exporthinweis.
+Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften, Paragraf ausschreiben. Kanzleihausschrift für formatierten Export; bei Markdown entsprechender Exporthinweis.
 
 ## 1.5. Quellen
 

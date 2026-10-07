@@ -37,9 +37,10 @@
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "06214c247f3b817bc5862dfe4ffc7339173b5f899d444f1898e046ee50e0926c",
+    "sha256": "2f0194fba1dbd545f4aa00aaf9497db029b01a35dd020e0170f833ce01766d71",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -94,9 +95,10 @@
       "Textilkennzeichnung und vegane Materialbehauptung von Klimawirkung getrennt",
       "Anwendungswechsel 2026 als eigenständige Rechtsstandsfrage behandelt",
       "Varianten- und Chargenzuordnung, begrenzter Zertifikatsnachweis, Werbeaussage und Veröffentlichungsdatum, Vorserie gegenüber Verkaufsausführung, Geheimnisnachweis sowie getrennte Kampagnenrechte, Produktion und Abverkauf.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "288b9380dfa1b414515ae6ec3b221622e7cc388906c5d54f025558d16b65a9bf",
+    "sha256": "7d73b91c9afe1fd638011d1b135d420a7b86472bdcd2df5c3855cf38970cc861",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {

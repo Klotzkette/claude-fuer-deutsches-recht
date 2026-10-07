@@ -31,7 +31,7 @@ Neue Berichtigung gezielt gegen die bisherige Matrix vergleichen und nur betroff
 
 ## 5. Ausgabeformat
 
-Liefern Sie versionsfeste Kriterienmatrix, begründete Referenzauswahl und vollständig ausformulierten Bewerbungs- oder Konzeptentwurf. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, ausschließlich dezimale Gliederung. Amtliche Portalformate gehen begründet vor; fehlende Angaben gezielt markieren, Exporthinweis und interne Testvermerke vom Empfängertext trennen.
+Liefern Sie versionsfeste Kriterienmatrix, begründete Referenzauswahl und vollständig ausformulierten Bewerbungs- oder Konzeptentwurf. Skelette, Halbsätze und reine Aufzählungen sind als Endprodukt verboten. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, ausschließlich dezimale Gliederung. Amtliche Portalformate gehen begründet vor; fehlende Angaben gezielt markieren, Exporthinweis und interne Testvermerke vom Empfängertext trennen.
 
 ## 6. Beispiele
 

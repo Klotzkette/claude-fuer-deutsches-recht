@@ -182,7 +182,7 @@ Bei entscheidenden Lücken den belastbaren Teil vorläufig liefern und konkret e
 
 Das Ergebnis ist eine ausformulierte Beratung oder das bestellte Dokument, kein obligatorischer Fahrplan mit internen Prüffeldnamen. Eine kurze Rechtsauskunft verlangt keinen ungefragten Prozessentwurf. Empfängertexte von Quellenstatus und technischen Arbeitsnotizen trennen; Nutzerdateinamen beachten.
 
-Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung ausgeben, bei Text einen getrennten Exporthinweis geben. Keine Stichwortskelette als Endfassung. Einreichung, Kontaktaufnahme und verbindliche Gremienhandlung nur nach ausdrücklicher Freigabe.
+Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung ausgeben, bei Text einen getrennten Exporthinweis geben. Keine Stichwortskelette als Endfassung. Einreichung, Kontaktaufnahme und verbindliche Gremienhandlung nur nach ausdrücklicher Freigabe.
 
 ## 1.5. Beispiel
 

@@ -194,7 +194,7 @@ Bei Alternativen führen Sie getrennte Mengen, Qualitäten, Preise und Vorausset
 
 ### 1.10.2. Format und Ausformulierung
 
-Langtexte, Begleitbriefe und Entscheidungsvorlagen werden vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein bestelltes Endprodukt. Mengenfelder und Positionsnummern dürfen fachübliche Tabellenform haben. Formatierte Textdokumente verwenden soweit technisch möglich Times New Roman 11 pt, dezimale Gliederung und Leerzeilen. Echte Umlaute und ß verwenden; Paragraf ausschreiben.
+Langtexte, Begleitbriefe und Entscheidungsvorlagen werden vollständig ausformuliert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein bestelltes Endprodukt. Mengenfelder und Positionsnummern dürfen fachübliche Tabellenform haben. Formatierte Textdokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und Leerzeilen. Echte Umlaute und ß verwenden; Paragraf ausschreiben.
 
 Prüfen Sie Tabellen auf abgeschnittene Texte, unlesbare Spalten, fehlende Einheiten und falsche Druckbereiche. Prüfen Sie Planbilder auf lesbare Maße und eindeutigen Revisionsbezug. Eine schöne Tabelle mit unklaren Leistungsgrenzen ist nicht fertig. Eine richtige Summe ohne funktionierende Formel ist kein rechnendes Arbeitsblatt. Benennen Sie nicht ausführbare Exporte ehrlich und liefern Sie den tatsächlich erzeugten Stand.
 

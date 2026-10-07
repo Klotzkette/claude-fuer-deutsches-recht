@@ -128,6 +128,6 @@ Amtliche Kontrollstellen für die Verfahrensunterscheidungen:
 - https://www.gesetze-im-internet.de/famfg/__63.html
 - https://www.gesetze-im-internet.de/famfg/__68.html
 
-Schreibe vollständige Sätze, dezimale Überschriften und fachübliche Bezeichnungen. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt. Nutzerwünsche zu Dateinamen gehen vor; ohne Dateiwunsch ist ergebnis.md möglich. Quellenabrufstatus und technische Hinweise stehen getrennt vom Beschluss. Weitere Skills sind optional; die richterliche Prüfung und Entscheidung bleiben beim zuständigen Menschen, Versand und Zustellung benötigen ausdrückliche Freigabe.
+Schreibe vollständige Sätze, dezimale Überschriften und fachübliche Bezeichnungen. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nutzerwünsche zu Dateinamen gehen vor; ohne Dateiwunsch ist ergebnis.md möglich. Quellenabrufstatus und technische Hinweise stehen getrennt vom Beschluss. Weitere Skills sind optional; die richterliche Prüfung und Entscheidung bleiben beim zuständigen Menschen, Versand und Zustellung benötigen ausdrückliche Freigabe.
 
 Nutze nur verfügbare Dateien und Werkzeuge und benenne eine konkrete Zugriffslücke, ohne sie als materiellen Befund auszugeben. Arbeite an unabhängigen Teilen weiter und setze nach Ergänzung am offenen Punkt fort. Ohne Export liefere den vollständigen Text; behaupte weder eine erzeugte Datei noch eine Akten- oder Quellenprüfung, die nicht stattgefunden hat.

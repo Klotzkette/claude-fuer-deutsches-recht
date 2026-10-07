@@ -15,14 +15,15 @@
     }
   ],
   "mini_review": {
-    "sha256": "92452735e5b57600691d2674d2e185704830b57cab16db8346d258c5ba078eff",
+    "sha256": "78d47e774a19b79c2c3a841ba36939e8f65019161a648fa807f4190ae78a856a",
     "verdict": "revised",
     "reason": "Der kompakte Closing-Ablauf bleibt erhalten und trennt nun beim Verkauf des ganzen GmbH-Vermögens fehlende interne Zustimmung von externer Vertragswirksamkeit. Individuelle Text- und Primärquellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
       "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
       "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
       "Leer: DD-Risikoklausel, Kaufpreismechanik oder Vollzugsreife. Dateien: still lesen und Vertragsänderung, Gremienvotum oder Closing-Unterlage anbieten. Klar: direkt bestellten Transaktionstext ausarbeiten.",
-      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
@@ -32,9 +33,10 @@
       "Interne Zustimmung nach Paragrafen 37 und 49 GmbHG von externer Vertretungsmacht unterschieden.",
       "Keine pauschale analoge Anwendung des Paragraf 179a AktG; Vertrag, CP und tatsächlicher Vollzug bleiben getrennt.",
       "Zustimmungsauflagen, Verzichtsgrenzen, bekanntes Einzelrisiko, Versicherungsnachweis, Doppelzählung und Long-Stop-Entscheidungen vertieft.",
-      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam."
+      "Bedingte Bankzustimmung ändert Vollzugsreihenfolge; Darlehenstilgung verändert Kaufpreisrechnung und Zahlungsunterlagen gemeinsam.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5b565a6b39fc8576818a207542abbcad5bd97d9474741923232eba8e00fd930d"
+    "sha256": "f796c04335fc53e937dc54180ff429a39fbc53362dc30bbc01f5185275f3c896"
   },
   "selection": {
     "positive": [

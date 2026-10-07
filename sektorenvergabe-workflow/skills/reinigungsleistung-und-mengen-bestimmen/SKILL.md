@@ -28,7 +28,7 @@ Paragraf 121 GWB in Verbindung mit Paragraf 142 GWB; Paragrafen 28 bis 32 SektVO
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere eine ausformulierte Leistungsbeschreibung, ein bearbeitbares Leistungsverzeichnis und ein getrenntes Mengenbuch mit Quellen. Bei Tabellenexport nutze stabile Positionsnummern und getrennte Zahlen-/Einheitenfelder. Keine fiktiven Mengen einsetzen. Times New Roman 11 pt und dezimale Gliederung für Texte. Übergib dem Skill `eignung-wertung-und-vertrag-gestalten` die Leistungsfassung, Preispositionen, Qualitätsmaßstäbe, offenen Betriebsentscheidungen und den benötigten Fertigstellungstermin.
+Liefere eine ausformulierte Leistungsbeschreibung, ein bearbeitbares Leistungsverzeichnis und ein getrenntes Mengenbuch mit Quellen. Bei Tabellenexport nutze stabile Positionsnummern und getrennte Zahlen-/Einheitenfelder. Keine fiktiven Mengen einsetzen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung für Texte. Übergib dem Skill `eignung-wertung-und-vertrag-gestalten` die Leistungsfassung, Preispositionen, Qualitätsmaßstäbe, offenen Betriebsentscheidungen und den benötigten Fertigstellungstermin.
 
 ## 6. Beispiel
 

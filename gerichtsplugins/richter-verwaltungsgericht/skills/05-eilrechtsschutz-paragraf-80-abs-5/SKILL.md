@@ -76,7 +76,7 @@ Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung
 Die aufschiebende Wirkung der [Klage/des Widerspruchs] gegen [genaue Bezeichnung des Verwaltungsakts] vom [Datum] wird hinsichtlich [Regelungsteil] wiederhergestellt.
 ```
 
-Das Endprodukt verwendet, soweit technisch möglich, Times New Roman in 11 Punkt und ausschließlich dezimale Gliederung.
+Das Endprodukt verwendet, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung.
 
 ## 8. Quellen
 

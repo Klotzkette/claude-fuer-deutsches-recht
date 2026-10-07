@@ -15,7 +15,7 @@ Nach Antwort die Entscheidung in der Empfängerkopie umsetzen und davon betroffe
 
 ## 1.2. Struktur korrigieren
 
-Verwende Kanzleivorlage und Formatvorlagen für Überschriften, Fließtext und Tabellen. Ohne andere Vorgabe Times New Roman 11 pt. Gliederung ausschließlich dezimal; Nummerierung darf bei eingefügten Absätzen nicht abbrechen.
+Verwende Kanzleivorlage und Formatvorlagen für Überschriften, Fließtext und Tabellen. Ohne andere Vorgabe Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Gliederung ausschließlich dezimal; Nummerierung darf bei eingefügten Absätzen nicht abbrechen.
 
 Aktualisiere Inhaltsverzeichnis, Feldverweise und Anlagenbezüge nach Umstellungen. Prüfe auch manuell geschriebene Verweise: Die Aktualisierung eines Felds ändert nicht automatisch eine daneben eingetippte alte Abschnittsnummer.
 

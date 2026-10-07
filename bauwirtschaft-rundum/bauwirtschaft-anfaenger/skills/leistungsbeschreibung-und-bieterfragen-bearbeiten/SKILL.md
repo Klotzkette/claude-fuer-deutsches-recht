@@ -29,7 +29,7 @@ Zuerst Leistungsbeschreibung, Verfahrensdaten, veröffentlichte Fassungen, Frage
 
 ## 5. Ausgabeformat
 
-Je Auftrag Vorprüfvermerk oder Fragenregister mit fertigen Antworten; bei Änderungen zusätzlich Berichtigungsentwurf. Ausformulierungspflicht: vollständige Sätze, keine Halbsätze, Skelette oder bloßen Listen als Endprodukt. Tabellen dienen nur der Zuordnung. Formatstandard: soweit möglich Times New Roman 11 pt, dezimale Gliederung; bei Markdown separater Exporthinweis. Interne Rechtsprüfung und vertrauliche Originalfrage nicht in die allgemeine Bieterinformation übernehmen.
+Je Auftrag Vorprüfvermerk oder Fragenregister mit fertigen Antworten; bei Änderungen zusätzlich Berichtigungsentwurf. Ausformulierungspflicht: vollständige Sätze, keine Halbsätze, Skelette oder bloßen Listen als Endprodukt. Tabellen dienen nur der Zuordnung. Formatstandard: soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; bei Markdown separater Exporthinweis. Interne Rechtsprüfung und vertrauliche Originalfrage nicht in die allgemeine Bieterinformation übernehmen.
 
 ## 6. Beispiele
 

@@ -46,7 +46,7 @@ Lies vollständigen angegriffenen Verwaltungsakt, Belehrung, Zustellungsnachweis
 
 ## 5. Ausgabeformat
 
-Vollständiger Hauptsacheantrag mit Beteiligten, Bescheidbezeichnung, Antrag, Begründung und Anlagen; bei Bedarf getrennt vollständig formulierter Eilantrag. Interner Einreichungsvermerk mit Stelle, Weg, Fristberechnung und offenem Zustellungsbeleg. DOCX/PDF in Times New Roman 11 pt mit dezimalen Überschriften. Keine Einreichung behaupten, solange kein Nachweis vorliegt.
+Vollständiger Hauptsacheantrag mit Beteiligten, Bescheidbezeichnung, Antrag, Begründung und Anlagen; bei Bedarf getrennt vollständig formulierter Eilantrag. Interner Einreichungsvermerk mit Stelle, Weg, Fristberechnung und offenem Zustellungsbeleg. DOCX/PDF in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimalen Überschriften. Keine Einreichung behaupten, solange kein Nachweis vorliegt.
 
 ## 6. Beispiele
 
@@ -81,7 +81,7 @@ Prüfe BauGB 87 und 110 anhand der [Rechtsgrundlagen](https://github.com/Klotzke
 
 ## 5. Ausgabeformat
 
-Vollständiges Angebot oder Gegenangebot mit Adressat, Grundstück, genauem Vertragsgegenstand, Einzelbeträgen, Bedingungen, Antwortweg und Schluss. Gesonderter kurzer Verhandlungsvermerk mit Vollmacht und offenen Punkten. Native Fassung in Times New Roman 11 pt, dezimale Überschriften. Abschluss, Versand und Verzicht erst nach Freigabe.
+Vollständiges Angebot oder Gegenangebot mit Adressat, Grundstück, genauem Vertragsgegenstand, Einzelbeträgen, Bedingungen, Antwortweg und Schluss. Gesonderter kurzer Verhandlungsvermerk mit Vollmacht und offenen Punkten. Native Fassung in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften. Abschluss, Versand und Verzicht erst nach Freigabe.
 
 ## 6. Beispiele
 
@@ -116,7 +116,7 @@ Lies gesonderten Antrag oder Beschluss, Bauzeitenplan, Förderbedingungen, Besit
 
 ## 5. Ausgabeformat
 
-Eigenständiger, unterschriftsreifer Antrag oder eine vollständige Erwiderung mit bestimmter Fläche, beantragtem Zeitpunkt, Beweismitteln und gesonderten Schutzanträgen. Eilrechtsschutz bei Bedarf als eigenes Dokument, nicht als Randbemerkung. Times New Roman 11 pt, dezimale Gliederung. Keine Freigabe zur Grundstücksräumung unterstellen.
+Eigenständiger, unterschriftsreifer Antrag oder eine vollständige Erwiderung mit bestimmter Fläche, beantragtem Zeitpunkt, Beweismitteln und gesonderten Schutzanträgen. Eilrechtsschutz bei Bedarf als eigenes Dokument, nicht als Randbemerkung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine Freigabe zur Grundstücksräumung unterstellen.
 
 ## 6. Beispiele
 
@@ -154,7 +154,7 @@ Nutze [Rechtsgrundlagen](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 
 ## 5. Ausgabeformat
 
-Vollständiger Mandantenbrief mit Betreff, Grundstück, dokumentiertem Stand, verständlicher Einordnung, konkretem Vorschlag und gezielter Unterlagenanforderung. Zustellungs- und Freigabehinweise separat. DOCX/PDF in Times New Roman 11 pt und dezimaler Gliederung; ohne Exportmöglichkeit vollständigen Text liefern. Nichts versenden oder Originale verändern.
+Vollständiger Mandantenbrief mit Betreff, Grundstück, dokumentiertem Stand, verständlicher Einordnung, konkretem Vorschlag und gezielter Unterlagenanforderung. Zustellungs- und Freigabehinweise separat. DOCX/PDF in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung; ohne Exportmöglichkeit vollständigen Text liefern. Nichts versenden oder Originale verändern.
 
 ## 6. Beispiele
 
@@ -194,7 +194,7 @@ Bei Berufung auf den [Berliner Bericht](https://github.com/Klotzkette/claude-fue
 
 ## 5. Ausgabeformat
 
-Vollständig begründete Forderungsaufstellung oder Prüfstellungnahme mit prüfbaren Rechenwegen; optional native Tabelle mit getrennten Eingaben, Formeln und offenen Positionen. Begleitbrief mit konkretem Zahlungs- oder Aufklärungsbegehren. Times New Roman 11 pt, dezimale Gliederung; Rundung und Annahmen offenlegen, Original-CSV erhalten.
+Vollständig begründete Forderungsaufstellung oder Prüfstellungnahme mit prüfbaren Rechenwegen; optional native Tabelle mit getrennten Eingaben, Formeln und offenen Positionen. Begleitbrief mit konkretem Zahlungs- oder Aufklärungsbegehren. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; Rundung und Annahmen offenlegen, Original-CSV erhalten.
 
 ## 6. Beispiele
 
@@ -229,7 +229,7 @@ Nutze BauGB 92, 97, 106, 108 und 113 im [Quellenregister](https://github.com/Klo
 
 ## 5. Ausgabeformat
 
-Belegtes Rechteverzeichnis mit Person, Rechtsposition, Fläche, Quelle und erforderlicher Beteiligung; dazu die vollständig formulierten notwendigen Anschreiben. Keine bloße offene Aufgabenliste als Endprodukt. Times New Roman 11 pt, dezimale Gliederung, Tabellen mit lesbaren Spalten. Keine Registeränderung oder Offenlegung ohne Freigabe.
+Belegtes Rechteverzeichnis mit Person, Rechtsposition, Fläche, Quelle und erforderlicher Beteiligung; dazu die vollständig formulierten notwendigen Anschreiben. Keine bloße offene Aufgabenliste als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Tabellen mit lesbaren Spalten. Keine Registeränderung oder Offenlegung ohne Freigabe.
 
 ## 6. Beispiele
 
@@ -264,7 +264,7 @@ BauGB 112, 113 und 117 im [Quellenregister](https://github.com/Klotzkette/claude
 
 ## 5. Ausgabeformat
 
-Vollständiges Vollzugsanschreiben oder Beanstandung mit präzisem Verfügungssatzbezug, Belegen und begehrter Handlung. Kurzer interner Status zu Rechtsbehelfsfrist und Zahlungsnachweis getrennt. Times New Roman 11 pt, dezimale Überschriften; keine scheinamtliche Unterschrift erzeugen.
+Vollständiges Vollzugsanschreiben oder Beanstandung mit präzisem Verfügungssatzbezug, Belegen und begehrter Handlung. Kurzer interner Status zu Rechtsbehelfsfrist und Zahlungsnachweis getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften; keine scheinamtliche Unterschrift erzeugen.
 
 ## 6. Beispiele
 
@@ -303,7 +303,7 @@ Die [Berliner Debatte](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Eine vollständige Stellungnahme mit Empfänger, Aktenzeichen, Antrag oder Änderungsbegehren, nachvollziehbarem Variantenvergleich und Anlagenbezug. Eine kompakte Vergleichstabelle darf die Begründung unterstützen, aber nicht ersetzen. Unsichere technische Annahmen separat ausweisen. Times New Roman 11 pt, dezimale Gliederung; keine ungefragte Einreichung.
+Eine vollständige Stellungnahme mit Empfänger, Aktenzeichen, Antrag oder Änderungsbegehren, nachvollziehbarem Variantenvergleich und Anlagenbezug. Eine kompakte Vergleichstabelle darf die Begründung unterstützen, aber nicht ersetzen. Unsichere technische Annahmen separat ausweisen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine ungefragte Einreichung.
 
 ## 6. Beispiele
 
@@ -338,7 +338,7 @@ BauGB 104 bis 108, 110 und 112 anhand der [Rechtsgrundlagen](https://github.com/
 
 ## 5. Ausgabeformat
 
-Versandfähiges Einwendungsschreiben mit Empfänger, Aktenzeichen, konkretem Antrag, Tatsachen, rechtlicher Begründung und Anlagen. Getrennte interne Terminnotiz nur soweit benötigt. Times New Roman 11 pt, dezimale Gliederung. Kein Versand, keine Unterschrift und keine Vollmacht vortäuschen.
+Versandfähiges Einwendungsschreiben mit Empfänger, Aktenzeichen, konkretem Antrag, Tatsachen, rechtlicher Begründung und Anlagen. Getrennte interne Terminnotiz nur soweit benötigt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein Versand, keine Unterschrift und keine Vollmacht vortäuschen.
 
 ## 6. Beispiele
 

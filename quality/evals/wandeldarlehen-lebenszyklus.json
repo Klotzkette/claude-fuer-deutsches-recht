@@ -66,9 +66,10 @@
       "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
       "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
       "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
-      "Antwort zur Pooldefinition führt zu geändertem Cap-Preis, Anteilszahl und Quote; neuer Rundenzufluss zuerst auf Bedeutung für das Wandelereignis geprüft."
+      "Antwort zur Pooldefinition führt zu geändertem Cap-Preis, Anteilszahl und Quote; neuer Rundenzufluss zuerst auf Bedeutung für das Wandelereignis geprüft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2a81dbb4cc50e15f136e5156ae845eadf2f5c42911a1d9ff3bf71f4315fac13b"
+    "sha256": "4bcca374bdc0baafd922b0de582caf0f88826643f66681682a922f4777ccda71"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -77,9 +78,10 @@
       "Rangrücktritt nach Inhalt und Auszahlungslage, nicht nach Überschrift oder pauschalem Darlehensstatus geprüft.",
       "BGB Paragrafen 812 und 814 sowie InsO Paragrafen 134 und 143 als unterschiedliche Rückforderungswege mit Grenzen aufgenommen.",
       "Historische Rangfolge des Falles von aktueller InsO getrennt; Trigger-, Rechen-, Notar- und Mehrdarlehensrouten erhalten.",
-      "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG."
+      "Konkrete Runden-, Pool- und Bruchteilsfälle ergänzt; Forderungsgegenstand, Teilzahlungen und offene Werthaltigkeit bestimmen Beschluss- und Notariatsentwurf nach Paragrafen 55 bis 57 GmbHG.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "180e4d2f9799dfbb0d8508e95d7a080bb2f0d1d8232f1bf07e2100d24c674d15"
+    "sha256": "d98815c4bf637934db8a3265b54c35822eb0616b394fb3e2f9e5b9c01e0b668b"
   },
   "selection": {
     "positive": [

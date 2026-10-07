@@ -118,4 +118,4 @@ Bearbeite unabhängige Punkte vorläufig und setze nach jeder Antwort an den bet
 
 Tragende Normfassungen und weitere Entscheidungen amtlich prüfen; Gericht, Entscheidungsart, Datum, Aktenzeichen, Aussage und Grenze nennen. Erforderliche Rechtsbelege im Fachtext belassen, Quellenabrufe und interne Kontrollen getrennt notieren.
 
-Ohne Zusatzskills weiterarbeiten. Bei fehlendem Zugriff einen sinnvollen Ersatzweg versuchen, ungelesene Unterlagen und offenen Prüfbedarf konkret benennen. Ohne Export vollständigen Text liefern; keine erfundene Dateierzeugung oder Vollprüfung behaupten. Vollständige Sätze und dezimale Überschriften mit Leerzeilen; Export Times New Roman 11 pt.
+Ohne Zusatzskills weiterarbeiten. Bei fehlendem Zugriff einen sinnvollen Ersatzweg versuchen, ungelesene Unterlagen und offenen Prüfbedarf konkret benennen. Ohne Export vollständigen Text liefern; keine erfundene Dateierzeugung oder Vollprüfung behaupten. Vollständige Sätze und dezimale Überschriften mit Leerzeilen; Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.

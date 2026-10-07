@@ -43,7 +43,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere historischen Nettoansatz, Indexrechnung und begründete Beweiswürdigung mit Fundstellen. Das Endprodukt enthält vollständige, ausformulierte Sätze; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Nachweisnotiz und versandfähige Erwiderung trennen.
+Liefere historischen Nettoansatz, Indexrechnung und begründete Beweiswürdigung mit Fundstellen. Das Endprodukt enthält vollständige, ausformulierte Sätze; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Nachweisnotiz und versandfähige Erwiderung trennen.
 
 ## 6. Beispiele
 

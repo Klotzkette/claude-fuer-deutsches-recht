@@ -77,7 +77,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere eine nachrechenbare Vermögensrechnung und das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Rechentabellen ergänzen die Begründung; generische Pflichtmatrizen sind nicht verlangt. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion den vollständigen Text, keine fingierte Datei.
+Liefere eine nachrechenbare Vermögensrechnung und das beauftragte Endprodukt in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Rechentabellen ergänzen die Begründung; generische Pflichtmatrizen sind nicht verlangt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown getrennter Exporthinweis. Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion den vollständigen Text, keine fingierte Datei.
 
 ## 6. Beispiele
 
@@ -129,7 +129,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere eine konkrete Wertüberleitung oder ausformulierte Gutachtenstellungnahme mit einzelnen begründeten Korrekturen. Vollständige Sätze sind Pflicht; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Rechengrößen ohne Nachweis sichtbar vorläufig lassen.
+Liefere eine konkrete Wertüberleitung oder ausformulierte Gutachtenstellungnahme mit einzelnen begründeten Korrekturen. Vollständige Sätze sind Pflicht; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als Endprodukt. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Rechengrößen ohne Nachweis sichtbar vorläufig lassen.
 
 ## 6. Beispiele
 
@@ -181,7 +181,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere einen ausformulierten Schriftsatz mit Rubrum, Anträgen, tragender Begründung und konkret bezeichneten Beweisangeboten. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Identitätsdaten klar als Platzhalter markieren, nicht erfinden. Technische Prüfnotizen gehören nicht in den Empfängertext.
+Liefere einen ausformulierten Schriftsatz mit Rubrum, Anträgen, tragender Begründung und konkret bezeichneten Beweisangeboten. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen; bei Markdown separater Exporthinweis. Fehlende Identitätsdaten klar als Platzhalter markieren, nicht erfinden. Technische Prüfnotizen gehören nicht in den Empfängertext.
 
 ## 6. Beispiele
 
@@ -233,7 +233,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere ein abgestimmtes Bestandsverzeichnis mit Rechenwegen und ausformulierter Ergebnisbewertung. Das Endprodukt besteht aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Geheimnisse gehören nicht in Anlagen oder öffentliche Recherchen.
+Liefere ein abgestimmtes Bestandsverzeichnis mit Rechenwegen und ausformulierter Ergebnisbewertung. Das Endprodukt besteht aus vollständigen Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Geheimnisse gehören nicht in Anlagen oder öffentliche Recherchen.
 
 ## 6. Beispiele
 
@@ -283,7 +283,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere eine kurze Empfehlung mit vollständiger Variantenrechnung oder einen vollständig ausformulierten Vergleichsentwurf. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Tabellen zeigen konkrete Beträge und Änderungen, keine generische Pflichtmatrix. Rechtsrisiken getrennt vom adressierten Angebot erläutern.
+Liefere eine kurze Empfehlung mit vollständiger Variantenrechnung oder einen vollständig ausformulierten Vergleichsentwurf. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Tabellen zeigen konkrete Beträge und Änderungen, keine generische Pflichtmatrix. Rechtsrisiken getrennt vom adressierten Angebot erläutern.
 
 ## 6. Beispiele
 
@@ -335,7 +335,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Erstelle einen ausformulierten Erwerbs- und Bewertungsvermerk oder die bestellte Erwiderung mit nachvollziehbarer Rechnung. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen, bei Markdown separater Exporthinweis. Gutachterfragen stehen getrennt vom Empfängertext.
+Erstelle einen ausformulierten Erwerbs- und Bewertungsvermerk oder die bestellte Erwiderung mit nachvollziehbarer Rechnung. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen, bei Markdown separater Exporthinweis. Gutachterfragen stehen getrennt vom Empfängertext.
 
 ## 6. Beispiele
 
@@ -385,7 +385,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere je Objekt die konkrete Wert- und Schuldenrechnung mit begründetem Ergebnis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Bewerte eine offene Schuldhaftentlassung nicht als bereits vollzogen.
+Liefere je Objekt die konkrete Wert- und Schuldenrechnung mit begründetem Ergebnis in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Bewerte eine offene Schuldhaftentlassung nicht als bereits vollzogen.
 
 ## 6. Beispiele
 
@@ -437,7 +437,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere historischen Nettoansatz, Indexrechnung und begründete Beweiswürdigung mit Fundstellen. Das Endprodukt enthält vollständige, ausformulierte Sätze; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Nachweisnotiz und versandfähige Erwiderung trennen.
+Liefere historischen Nettoansatz, Indexrechnung und begründete Beweiswürdigung mit Fundstellen. Das Endprodukt enthält vollständige, ausformulierte Sätze; keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Nachweisnotiz und versandfähige Erwiderung trennen.
 
 ## 6. Beispiele
 
@@ -487,7 +487,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere den vollständigen Brief mit Anrede, konkretem Verlangen, begründeter Frist und Abschluss oder die vollständige Antwort. Ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Erfüllungsbewertung getrennt halten. Kein tatsächlicher Versand ohne Autorisierung.
+Liefere den vollständigen Brief mit Anrede, konkretem Verlangen, begründeter Frist und Abschluss oder die vollständige Antwort. Ausformulierte Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Interne Erfüllungsbewertung getrennt halten. Kein tatsächlicher Versand ohne Autorisierung.
 
 ## 6. Beispiele
 
@@ -541,7 +541,7 @@ Nutze [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/bl
 
 ## 5. Ausgabeformat
 
-Liefere eine belegte Bewegungsrechnung und ausformulierte Bewertung beziehungsweise Erwiderung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Keine strafrechtlichen Vorwürfe ohne eigene tragfähige Grundlage.
+Liefere eine belegte Bewegungsrechnung und ausformulierte Bewertung beziehungsweise Erwiderung in vollständigen Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen; bei Markdown separater Exporthinweis. Keine strafrechtlichen Vorwürfe ohne eigene tragfähige Grundlage.
 
 ## 6. Beispiele
 

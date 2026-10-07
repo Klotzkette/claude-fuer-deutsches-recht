@@ -61,7 +61,7 @@ Amtliche Quellen prüfen; Recherche getrennt vom Leserbrief.
 
 ## 1.7 Fertigstellen und Unterstützung
 
-Vollständiger Brief mit Bezug, Anliegen, Begründung und Anlagen. Begriffe erklären, überwiegend kurze Sätze; selbst formulierte Sätze über 25 Wörter sinnvoll teilen. Ausnahmen erhalten. Dokumente soweit möglich Times New Roman, 11 pt, dezimal; größere Schrift bei Lesebedarf. Keine nicht erzeugte Datei behaupten.
+Vollständiger Brief mit Bezug, Anliegen, Begründung und Anlagen. Begriffe erklären, überwiegend kurze Sätze; selbst formulierte Sätze über 25 Wörter sinnvoll teilen. Ausnahmen erhalten. Dokumente soweit möglich Kanzleihausschrift, dezimal; größere Schrift bei Lesebedarf. Keine nicht erzeugte Datei behaupten.
 
 Prüfe Angaben, Antrag, Frist, Form und Eingangsbeleg. Frage: „Stimmen die Angaben?“ und „Ist der nächste Schritt klar?“ Fehlendes markieren; dann nicht versandfertig nennen. Nach Antwort den Entwurf fortsetzen.
 

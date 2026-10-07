@@ -53,7 +53,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "ea939307690054c3294f043f1c80ebbe74f123db9dbee19fd4dd804c5c68e0f4",
+    "sha256": "90743f7a3774c4c7db256f11a0563f65fefca2d28743fac13cba816784ad1ab9",
     "verdict": "revised",
     "reason": "Schnellstart vollständig individuell gelesen und überarbeitet: Tätigkeitsbild, Einzelbewertungen und Gesamtformel im konkreten Zeugnis abgleichen. Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus. Redaktionelle Quellenprüfung, kein Live-Modelltest. Individuelle Anschlussprüfung am 23.09.2026: fachbezogene Startmodi und konkrete Fortsetzung im kompakten Stand kontrolliert.",
     "changes": [
@@ -61,7 +61,8 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Schlusslektüre: Aussagegehalt und Berichtigungsbedarf vorangestellt; farbliche Orientierung ausschließlich auf Nutzerwunsch.",
       "Leerstart: Aussageanalyse, Fassungsvergleich oder Änderungsvorschläge anbieten. Dateien: Zeugnis still im Zusammenhang lesen, noch keinen Notenbericht ausgeben. Klarer Auftrag: Analyse oder ausdrücklich bestellten Brief direkt liefern.",
-      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "selection": {
@@ -115,9 +116,10 @@
       "Durchschnittliche Gesamtleistung trotz freundlicher Schlussformel nicht aufgewertet; Darlegung für bessere Note und Gesamtlesart statt Geheimcodeautomatismus.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Wissen versus Gesamtleistung, Eigenanteil an Erfolgen, Führung versus Vertretung und Fassungsstatus statt Geheimcodeautomatismus.",
-      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur."
+      "Belegte Zielerreichung verändert nur getragene Leistungswertung; kurze Vertretung führt zu zeitlich begrenzter Tätigkeitskorrektur.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c2011062bbb83667f26baf97643780199294bd892c38b07940162170d743d7a2"
+    "sha256": "670c8d03f8b6d4e6f0e6cacb75553ce67b7a690698f172098d9dfbf8d8366c73"
   },
   "prompt_workflow_review": {
     "date": "2026-09-23",

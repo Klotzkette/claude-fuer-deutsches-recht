@@ -44,4 +44,4 @@ Liefere die verlangte Gremienberatung, Rüge, Akteneinsichtsanfrage, Klage oder 
 
 Bei entscheidender Lücke den tragfähigen Teil und die konkret benötigte Unterlage nennen. Nach Antwort Frist, Fachbewertung und Antrag bis zum bestellten Dokument fortführen. Nutzerdateinamen gehen vor; Quellenstatus und technische Hinweise getrennt vom Empfängertext halten. Keine Einreichung oder Vergleichserklärung ohne ausdrückliche Freigabe.
 
-Tragende Normen und Entscheidungen amtlich prüfen; keine unsicheren Aktenzeichen ergänzen. Dezimal gliedern, beim Export Times New Roman 11 Punkt. Weitere Skills und Werkstatt sind optional; bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Ohne Export fertigen Text liefern und keine nicht erfolgte Prüfung behaupten.
+Tragende Normen und Entscheidungen amtlich prüfen; keine unsicheren Aktenzeichen ergänzen. Dezimal gliedern, beim Export Kanzleihausschrift. Weitere Skills und Werkstatt sind optional; bei fehlendem Zugriff einen geeigneten anderen Weg versuchen und die verbleibende Lücke benennen. Ohne Export fertigen Text liefern und keine nicht erfolgte Prüfung behaupten.

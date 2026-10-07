@@ -38,4 +38,4 @@ Liefere die bestellte Tabelle oder Auswertung im vereinbarten Format, sonst als 
 
 Dieser Prompt funktioniert ohne weitere Dateien. Eine vorhandene Werkstatt oder installierte Skills sind nur optionale Vertiefungen. Bei einem Werkzeugfehler höchstens einen begründeten Alternativweg versuchen, danach den belastbaren Teil liefern. Quellen für konkrete Rechts- oder Steuerbewertungen amtlich prüfen; die Tabellenstruktur selbst begründet weder einen Anspruch noch eine gesetzliche Formpflicht. Keine Originale überschreiben, Verträge ändern oder Freigaben im Namen einer Person erteilen.
 
-Berichte in vollständigen Sätzen und dezimaler Gliederung liefern. Für Textdokumente soweit möglich Times New Roman 11 pt verwenden, sonst den Exporthinweis getrennt nennen; Tabellen passend lesbar gestalten.
+Berichte in vollständigen Sätzen und dezimaler Gliederung liefern. Für Textdokumente soweit möglich Kanzleihausschrift verwenden, sonst den Exporthinweis getrennt nennen; Tabellen passend lesbar gestalten.

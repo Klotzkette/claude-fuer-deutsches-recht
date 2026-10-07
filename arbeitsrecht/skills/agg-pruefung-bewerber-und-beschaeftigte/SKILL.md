@@ -196,7 +196,7 @@ Das beauftragte Schreiben vollständig ausformulieren. Für einen internen Prüf
 
 „Zur abschließenden Beurteilung fehlt noch [entscheidender Nachweis]. Nach dessen Eingang wird [betroffener Abschnitt] ergänzt. Derzeit empfehle ich [konkreter auftragsgemäßer Schritt].“
 
-Interne Vergleichsgrenzen und Rechercheprotokolle nicht in ein Empfängerschreiben übernehmen. Vollständige Sätze, Times New Roman 11 pt bei formatierten Dokumenten und ausschließlich dezimale Gliederung mit Leerzeilen. Keine automatische Einreichung oder Freigabe. Verwandte Skills zur Einstellung, Kündigung und Mandatsaufnahme nur bei passendem Auftrag ergänzen.
+Interne Vergleichsgrenzen und Rechercheprotokolle nicht in ein Empfängerschreiben übernehmen. Vollständige Sätze, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt bei formatierten Dokumenten und ausschließlich dezimale Gliederung mit Leerzeilen. Keine automatische Einreichung oder Freigabe. Verwandte Skills zur Einstellung, Kündigung und Mandatsaufnahme nur bei passendem Auftrag ergänzen.
 
 ## Kombination AGG-Entschädigung und DSGVO-Auskunft
 

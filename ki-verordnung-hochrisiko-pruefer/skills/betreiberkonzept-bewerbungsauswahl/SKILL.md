@@ -39,7 +39,7 @@ Artikel 26, ergänzend Artikel 14 und 111/113 in geltender Fassung amtlich prüf
 
 ## 5 Ausgabeformat
 
-Die Betriebsanweisung enthält Geltungsbereich, Arbeitsablauf, Verantwortung, Störungsweg und Inkraftsetzung in vollständigen, ausformulierten Sätzen. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; ohne native Ausgabe getrennten Exporthinweis geben. Fehlende Namen als klar bezeichnete Freigabelücke behandeln. Ein interner Begleitvermerk erläutert Rechtsstand und belegte Abweichungen, nicht der Beschäftigtentext. Nichts versenden oder verbindlich in Kraft setzen.
+Die Betriebsanweisung enthält Geltungsbereich, Arbeitsablauf, Verantwortung, Störungsweg und Inkraftsetzung in vollständigen, ausformulierten Sätzen. Keine Skelette, Halbsätze oder reinen Aufzählungen als Endprodukt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; ohne native Ausgabe getrennten Exporthinweis geben. Fehlende Namen als klar bezeichnete Freigabelücke behandeln. Ein interner Begleitvermerk erläutert Rechtsstand und belegte Abweichungen, nicht der Beschäftigtentext. Nichts versenden oder verbindlich in Kraft setzen.
 
 ## 6 Beispiele
 

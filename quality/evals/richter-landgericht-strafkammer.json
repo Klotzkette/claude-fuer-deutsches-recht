@@ -57,9 +57,10 @@
       "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
       "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
       "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
-      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "06d740967d6ca9b7724dbd1c97f6dc2d7608958df8d5c12d879a4b5f4d8f35af",
+    "sha256": "dc27bcc3a63af295cf583a957e1ce275eb78815497bad65cbc40e541351de699",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -71,9 +72,10 @@
       "Schöffen informieren und beteiligen, Vorsitzendenhandeln nicht mit Kammerentscheidung gleichsetzen.",
       "Geständnis durch tatsächlich erhobenen Hauptverhandlungsbeweis prüfen; keine nachträgliche Fiktion fehlender Einführung.",
       "Dienstplan nur Einteilung -> tatsächliche Anwesenheit aufklären; erfolglose Verständigung -> Mitteilungsinhalt prüfen.",
-      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf."
+      "Tatkomplexe und Beweisursprung, belastbares Alibi, erfolglose Gespräche und vollstreckte Vorstrafe im Entwurf.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0dff10c3c4703539b66997829f9dac60c9c68d0e8769ed549007ceae7231651d",
+    "sha256": "4f4f3c417f5333a6159dd2ad7dd4cae2285f5ce0abfad0325ed666de99fa1c1e",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

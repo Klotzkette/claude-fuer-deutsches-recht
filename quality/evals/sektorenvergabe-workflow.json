@@ -476,16 +476,18 @@
     "verdict": "revised",
     "reason": "Kompakter vollständiger Beschaffungs- und Verfahrensablauf statt generischer Checkliste.",
     "changes": [
-      "Reinigungsmengen, Normen, sechs Entscheidungsanker, Fristen und Rückwege eigenständig formuliert."
+      "Reinigungsmengen, Normen, sechs Entscheidungsanker, Fristen und Rückwege eigenständig formuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bedca77b568cf621fc51c75c85d7bbdf8ce6cc7b2e16caf0ffca3341905c904e"
+    "sha256": "ee26159400e9f07a3ed1e1516c13a56a97a7703e5362dea780203dd3c77f0f2d"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Unterlagenerstellung und Verfahrensführung anhand konkreter Reinigungsrisiken verbunden.",
     "changes": [
-      "Leistungs-, Mengen-, Wertungs- und Fristarbeit bis zu vollständigen Dokumenten und rechtmäßiger Fortsetzung vertieft."
+      "Leistungs-, Mengen-, Wertungs- und Fristarbeit bis zu vollständigen Dokumenten und rechtmäßiger Fortsetzung vertieft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f6e13d0983ffeaf2efd6f0a309061e46c2369cd87f23891734843bfcc180f12f"
+    "sha256": "2dd0e3afd139962d3c0fb4b896b8b58d6939e3e0fe04686afbc873353041f80d"
   }
 }

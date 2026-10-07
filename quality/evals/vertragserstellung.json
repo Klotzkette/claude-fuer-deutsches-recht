@@ -86,9 +86,10 @@
     "reason": "Eigenstaendigen Entwurfsweg vollstaendig redaktionell gelesen und auf 7391 UTF-8-Bytes sowie 7281 Zeichen gekuerzt. Keine Live-Ausfuehrung.",
     "changes": [
       "Drei Eingangsmodi, konkrete Rueckfragen und Fortsetzung derselben Fassung erhalten.",
-      "Abnahme, kaufmaennische Ruege, B2B-AGB und Handlungsschranke mit praezisen Grenzen formuliert."
+      "Abnahme, kaufmaennische Ruege, B2B-AGB und Handlungsschranke mit praezisen Grenzen formuliert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4011e29943ab0a7130b15b8b8f862bdfa9f9bc229240ad6958b7b9adedd15bbd"
+    "sha256": "eb632d17f9b1a9800ee2efe06bf640354a480551a31f717d84c5fd952f8b1c31"
   },
   "workshop_review": {
     "reviewed_on": "2026-09-23",
@@ -98,9 +99,10 @@
     "changes": [
       "Leistung, Mitwirkung, Preis, Haftung, Exit, Daten, Rangfolge, Nachtrag und Verhandlung eigenstaendig verbunden.",
       "Konkrete Fortsetzung fuer Wartungszusage und zusaetzliches Geraet ausformuliert.",
-      "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt."
+      "Amtlichen Normtext, indexierte Leitsaetze und gesperrte Volltexte unterschieden; BMF-Ausgabe als datierte Zusatzquelle vermerkt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "43dbc9158b1a9a5e4faaedd81e732a9d8fa75c226d2cf0b10db3acac93fe11dc"
+    "sha256": "8788b27ceb348e56bb05ccd96c452e6e242dd6d0ac2b9c4c7ec1bda4b5431dd7"
   },
   "focus_review": {
     "reviewed_on": "2026-09-23",
@@ -109,12 +111,13 @@
     "reason": "Hauptproblem und selbst ausfuehrenden Hauptskill auf denselben Einzelgeschaeftsauftrag, Bindungskollision, Folgeaenderungen und Ergebnisabschluss gegengelesen. Keine Live-Ausfuehrung.",
     "changes": [
       "Hauptskill produziert den Vertrag selbst und verlinkt neun Geschwisterskills nur fuer konkrete Fachfragen.",
-      "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill."
+      "Hauptproblem bleibt eigenstaendig und unter 7500 UTF-8-Bytes sowie Zeichen; kein elfter Skill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "vertragserstellung/vertragserstellung-hauptproblem.md",
-    "prompt_sha256": "118079f3ff8271e16142bb2794865bbefaa83b487e6779e56b3dd97bbbd5ef64",
+    "prompt_sha256": "311a4ce53b165c9063b6b646b104408ebccc139e023f2a924a797ba7dd69a6e2",
     "skill_path": "vertragserstellung/skills/vertrag-vom-auftrag-bis-zur-endfassung-erstellen/SKILL.md",
-    "skill_sha256": "f7f2a4190e453ad19883b1d32876c99651519b114ff1aacb1ed46096e779081e"
+    "skill_sha256": "250b1ed5913084b9c4908911b06ac669d968fb14616be0f5eb92034c541306aa"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

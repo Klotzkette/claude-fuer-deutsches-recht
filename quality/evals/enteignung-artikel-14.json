@@ -181,9 +181,10 @@
       "Behördennorm104 von Eingriffsgrundlage getrennt.",
       "Hannover-Konzentration und unterschiedliche Einreichungsstellen ausdrücklich aufgenommen.",
       "Nur enteignungsbezogene Inhalte; kein fachfremder Gesetzgebungsabschnitt.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "46f1baf671153c48afccaebaaeb40713d9cfdb8c2d4a257bf9a4953613257c9d",
+    "sha256": "8e7134303274e3979f6fa174dff58dc01dbceca11be6fcf15497ab2e56b1bb57",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },
@@ -194,9 +195,10 @@
       "Leerer Einstieg, Ordner ohne Auftrag und klare Aufträge unterschiedlich behandelt.",
       "Rechtsverlust, andere Nachteile, Nebenrechte und Kosten getrennt.",
       "112/113/117 sowie eigenständigen Besitzschutz präzisiert.",
-      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt."
+      "Berliner Kommissionsargumente und Gegenpositionen fallbezogen integriert; Artikel 14/15, Tatsachenprognose und Rechtsstand getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6688d7961c9c275dbf313096fd2a8045403d9e2365108c8040d410e937c34fcd",
+    "sha256": "525b6f124c7148e550b8fd47cdbf5857ac320e43d595bfe2fb9644f696324c52",
     "reviewed_on": "2026-09-28",
     "method": "desk_review"
   },

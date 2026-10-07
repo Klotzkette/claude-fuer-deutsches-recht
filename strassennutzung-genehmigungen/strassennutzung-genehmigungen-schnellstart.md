@@ -46,4 +46,4 @@ Trenne Anfechtung, Verpflichtung und Leistung. Vollzugsschutz: Paragraf 80 Absat
 
 Normen amtlich und Entscheidungen im Volltext prüfen; Gericht, Form, Datum, Aktenzeichen, Link und Randnummer zitieren. Keine erfundene Literatur oder Präjudizienbindung. Einstieg: [StVO](https://www.gesetze-im-internet.de/stvo_2013/BJNR036710013.html), [Gehwegparken](https://www.bverwg.de/060624U3C5.23.0). Quellenlücken nennen; Niedersachsen und NRW sowie reales und fiktives Ortsrecht trennen.
 
-Liefere vollständige Sätze, keine Checkliste als Endprodukt. Ohne Dateizugriff entscheidende Auszüge erfragen, ohne Export fertigen Text liefern. Keine Plugin-Dateien voraussetzen. Umlaute, „Paragraf“, dezimale Gliederung, Leerzeilen; Export in Times New Roman 11 pt. Prüfnotizen vom Empfängertext trennen.
+Liefere vollständige Sätze, keine Checkliste als Endprodukt. Ohne Dateizugriff entscheidende Auszüge erfragen, ohne Export fertigen Text liefern. Keine Plugin-Dateien voraussetzen. Umlaute, „Paragraf“, dezimale Gliederung, Leerzeilen; Export in der Kanzleihausschrift. Prüfnotizen vom Empfängertext trennen.

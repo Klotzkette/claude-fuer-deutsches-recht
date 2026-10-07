@@ -47,9 +47,10 @@
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7a762ff5c1c0acdee556533f6005160e59fb9539c6c30cd2eac3d6f1b80d323c",
+    "sha256": "fdc61853695001957579c2e22ca994c606cb2385a55f5508847073b13a950d46",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -61,9 +62,10 @@
       "Fristgebundene Verteidigungsanzeige ihrer eigenen Eingangsbestätigung zuordnen, nicht einer beigefügten Anlage.",
       "Zahlungsbeleg -> Forderungszuordnung, Zinsen und Antrag gemeinsam ändern; neuer Zeugenbefund -> Beweisantritt berichtigen.",
       "Zwei-Fristen-Entwurfsweg, Teilzahlung und Teillieferung, belastende Empfangserklärung, Hinweis vor Beweis oder Urteil.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "863dad82d9c6b8a713282b8577c091917c676469d5c4d2958b1be12b01124380",
+    "sha256": "bf258d9507112a38bf9f22acc8f7de2937d948caa8f28c7f4b4365bf2973c7e8",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

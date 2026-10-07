@@ -65,9 +65,10 @@
     "changes": [
       "Eigene Gewissensgrenze, Antrag und Diensttermine statt fachfremder Gefahren- und Statusprognosen.",
       "Neunmonats-Sollfrist, Vorrang, Antragswirkung, Anhörung, verkürzte Fristen und Aktenführung konkretisiert; persönliche Redaktion ohne erfundene Erlebnisse erhalten.",
-      "Leerstart mit eigener Begründung, Antragsweg oder Behörden-/Dienstschreiben; stille Dateisichtung und gezielte Fortsetzung nach persönlicher Datumsklärung ergänzt."
+      "Leerstart mit eigener Begründung, Antragsweg oder Behörden-/Dienstschreiben; stille Dateisichtung und gezielte Fortsetzung nach persönlicher Datumsklärung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c43ca62bcbef2fc01884cdf1493b137942694731fe563ac826ff100345c253e0",
+    "sha256": "479d9c40bbb4611aa010da6362c5f7b12e6e3e45a7e54fc60e74ce682762f82a",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -77,9 +78,10 @@
     "changes": [
       "Werkstatt von Beamten-, Versammlungs- und Migrationsbausteinen bereinigt; alle zwölf KDV-Themen fachbezogen zusammengeführt.",
       "Neunmonats-Sollfrist, Vorrang, Antragswirkung, Anhörung, verkürzte Fristen und Aktenführung konkretisiert; persönliche Redaktion ohne erfundene Erlebnisse erhalten.",
-      "Sprachliche Unklarheit von fehlendem persönlichen Inhalt getrennt; politische Begleitmotive, allmählicher Wandel, konkrete Behördenzweifel, fremde Stellungnahmen und tatsächlicher Weiterleitungsstand vertieft."
+      "Sprachliche Unklarheit von fehlendem persönlichen Inhalt getrennt; politische Begleitmotive, allmählicher Wandel, konkrete Behördenzweifel, fremde Stellungnahmen und tatsächlicher Weiterleitungsstand vertieft.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "428957e437772cf21052fe381f4b7ec7c593dbcbbb41588755b38f5aeaa64c71",
+    "sha256": "87fe4fa7686c87da2493254c21c4b7ddff34c5cbfcf0c035f273950ffc77a1a0",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -44,7 +44,7 @@ Es gelten [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere den verlangten Bewertungsabschnitt zuerst, vollständig ausformuliert und grammatikalisch sauber. Formelkataloge, Halbsätze und reine Aufzählungsskelette sind keine Endprodukte. Beleg- oder Mängelmatrix getrennt anfügen; bei fehlenden Daten eine konkrete Lücke statt einer erfundenen Wertung. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; Zeugnisabschnitte bleiben Fließtext. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
+Liefere den verlangten Bewertungsabschnitt zuerst, vollständig ausformuliert und grammatikalisch sauber. Formelkataloge, Halbsätze und reine Aufzählungsskelette sind keine Endprodukte. Beleg- oder Mängelmatrix getrennt anfügen; bei fehlenden Daten eine konkrete Lücke statt einer erfundenen Wertung. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; Zeugnisabschnitte bleiben Fließtext. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
 
 ## 6. Beispiele
 
@@ -81,7 +81,7 @@ Es gelten [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere den Abschluss und Unterschriftsblock oder die vollständig finalisierte Fassung nach Auftrag. Alle inhaltlichen Passagen stehen in vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Freigabepunkte wie Signatur und Einwilligung stehen getrennt vom Zeugnis. Soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Chat oder Markdown gesonderter Exporthinweis. Keine elektronische Signatur oder Erteilung behaupten, die nicht tatsächlich erfolgt ist.
+Liefere den Abschluss und Unterschriftsblock oder die vollständig finalisierte Fassung nach Auftrag. Alle inhaltlichen Passagen stehen in vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Freigabepunkte wie Signatur und Einwilligung stehen getrennt vom Zeugnis. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Chat oder Markdown gesonderter Exporthinweis. Keine elektronische Signatur oder Erteilung behaupten, die nicht tatsächlich erfolgt ist.
 
 ## 6. Beispiele
 
@@ -119,7 +119,7 @@ Es gelten [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-rech
 
 ## 5. Ausgabeformat
 
-Liefere zuerst den ausformulierten Zeugnisentwurf in vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Belegmatrix und offene Punkte folgen getrennt; keine erfundenen Tatsachen im vermeintlich unterschriftsreifen Text. Formatstandard: soweit technisch möglich Times New Roman 11 pt; Gliederungen ausschließlich dezimal mit Leerzeilen. Das Zeugnis selbst bleibt geschäftsüblicher Fließtext, ohne juristische Prüfüberschriften. Bei Markdown oder Chat folgt ein gesonderter Exporthinweis.
+Liefere zuerst den ausformulierten Zeugnisentwurf in vollständigen, grammatikalisch sauberen Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt. Belegmatrix und offene Punkte folgen getrennt; keine erfundenen Tatsachen im vermeintlich unterschriftsreifen Text. Formatstandard: soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; Gliederungen ausschließlich dezimal mit Leerzeilen. Das Zeugnis selbst bleibt geschäftsüblicher Fließtext, ohne juristische Prüfüberschriften. Bei Markdown oder Chat folgt ein gesonderter Exporthinweis.
 
 ## 6. Beispiele
 
@@ -157,7 +157,7 @@ Verwende [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht
 
 ## 5. Ausgabeformat
 
-Liefere je nach Auftrag bereinigtes Zeugnis, begründete Änderungsmatrix oder vollständig ausformuliertes Schreiben, Antrag oder Vergleich. Skelette, Halbsätze und reine Stichwortsammlungen sind als Endprodukt verboten. In der Matrix stehen Wortlaut, Problem, Rechtsanker, Aktenfund, Gegenposition, Ersatzfassung und Risiko; nicht jeder Stilvorschlag wird als Anspruch präsentiert. Soweit technisch möglich Times New Roman 11 pt; ausschließlich dezimale Gliederung mit Leerzeilen. Zeugnisse bleiben Fließtext; bei Chat oder Markdown gesonderter Exporthinweis.
+Liefere je nach Auftrag bereinigtes Zeugnis, begründete Änderungsmatrix oder vollständig ausformuliertes Schreiben, Antrag oder Vergleich. Skelette, Halbsätze und reine Stichwortsammlungen sind als Endprodukt verboten. In der Matrix stehen Wortlaut, Problem, Rechtsanker, Aktenfund, Gegenposition, Ersatzfassung und Risiko; nicht jeder Stilvorschlag wird als Anspruch präsentiert. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; ausschließlich dezimale Gliederung mit Leerzeilen. Zeugnisse bleiben Fließtext; bei Chat oder Markdown gesonderter Exporthinweis.
 
 ## 6. Beispiele
 
@@ -193,7 +193,7 @@ Lies [Zitierweise](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blo
 
 ## 5. Ausgabeformat
 
-Liefere ein vollständiges Zeugnis in ausformulierten Sätzen; kein Skelett, keine Halbsätze und kein Bewertungsraster als Endprodukt. Trenne Statusvermerk, Beleglücken und optionale Schlussfassung vom Zeugnis. Soweit technisch möglich Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Markdown oder Chat den Formatwunsch außerhalb des Zeugnisses als Exporthinweis angeben.
+Liefere ein vollständiges Zeugnis in ausformulierten Sätzen; kein Skelett, keine Halbsätze und kein Bewertungsraster als Endprodukt. Trenne Statusvermerk, Beleglücken und optionale Schlussfassung vom Zeugnis. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; nur dezimale Gliederung mit Leerzeilen, Zeugnistext als Fließtext. Bei Markdown oder Chat den Formatwunsch außerhalb des Zeugnisses als Exporthinweis angeben.
 
 ## 6. Beispiele
 

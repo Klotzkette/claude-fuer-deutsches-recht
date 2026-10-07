@@ -51,7 +51,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und den einschlägigen Teil
 
 ## 5. Ausgabeformat
 
-Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Tabellen ergänzen Rechnung oder Beweiszuordnung, ersetzen aber nicht die juristische Begründung und den Empfängertext. Markiere notwendige Platzhalter ausdrücklich; ungesicherte Tatsachen bleiben konditional. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown steht der Exporthinweis getrennt vom Dokument. Keine nicht erzeugte Datei oder tatsächlichen Versand behaupten. Abschließend nur entscheidende offene Punkte und die konkrete Freigabehandlung getrennt nennen.
+Das Endprodukt wird vollständig in ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten. Tabellen ergänzen Rechnung oder Beweiszuordnung, ersetzen aber nicht die juristische Begründung und den Empfängertext. Markiere notwendige Platzhalter ausdrücklich; ungesicherte Tatsachen bleiben konditional. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Überschrift und Inhalt. Bei Markdown steht der Exporthinweis getrennt vom Dokument. Keine nicht erzeugte Datei oder tatsächlichen Versand behaupten. Abschließend nur entscheidende offene Punkte und die konkrete Freigabehandlung getrennt nennen.
 
 ## 6. Beispiele
 

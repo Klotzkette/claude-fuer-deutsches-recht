@@ -43,7 +43,7 @@ Es gilt die [Zitierweise](../../../references/zitierweise.md). Tragende Normfass
 
 Liefere je nach Auftrag die begründete Beratung, eine gezielte Unterlagenanforderung oder den vollständigen Mandantenbrief. Fristenübersicht und Urkundenvergleich nur ergänzen, soweit sie zum Verständnis oder zur Kontrolle erforderlich sind. Keine Erbquote als gesichert ausgeben, solange Status oder Verfügungslage entscheidend offen sind. Quellenstatus und offene Recherche in einer gesonderten Arbeitsnotiz führen, nicht im Brieftext. Ausschlagung, Anfechtung, Antragstellung oder andere Außenhandlungen nicht eigenmächtig vornehmen; ein Beratungsauftrag ist kein Auftrag zur Abgabe einer Erklärung.
 
-Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
+Das Endprodukt steht in vollständigen, ausformulierten Sätzen; keine Skelette, Halbsätze oder reinen Aufzählungen als Enddokument. Tabellen unterstützen die Begründung. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen zwischen Gliederungsebenen. Bei Markdown oder Chat diesen Formatwunsch als Exporthinweis aufnehmen.
 
 ## 6. Beispiele
 

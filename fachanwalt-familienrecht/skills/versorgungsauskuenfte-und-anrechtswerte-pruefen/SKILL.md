@@ -27,7 +27,7 @@ Paragrafen 5 und 47 VersAusglG sowie Paragraf 220 FamFG nach den [geprüften Rec
 
 ## 5. Ausgabeformat
 
-Prüffähige Tabelle mit unveränderten Ausgangswerten, eigener Kontrolle, Differenz und Beleg. Dazu eine ausformulierte Stellungnahme oder Nachforderung. Ausformulierungspflicht: keine bloße Stichwortsammlung als Endprodukt. Formatstandard: Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; Tabellen dürfen aus Lesbarkeitsgründen ein abweichendes Tabellenlayout erhalten. Bei Markdown Exporthinweis.
+Prüffähige Tabelle mit unveränderten Ausgangswerten, eigener Kontrolle, Differenz und Beleg. Dazu eine ausformulierte Stellungnahme oder Nachforderung. Ausformulierungspflicht: keine bloße Stichwortsammlung als Endprodukt. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung mit Leerzeilen; Tabellen dürfen aus Lesbarkeitsgründen ein abweichendes Tabellenlayout erhalten. Bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 

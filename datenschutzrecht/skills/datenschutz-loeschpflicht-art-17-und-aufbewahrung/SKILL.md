@@ -43,7 +43,7 @@ Artikel 5, 12, 17 bis 19 und 28 [DSGVO](https://eur-lex.europa.eu/eli/reg/2016/6
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Betroffenenantwort oder interne Löschanweisung mit Datenumfang, Verantwortlichem, Frist und Nachweis. Keine bloße Konzeptskizze, keine Halbsätze. Times New Roman 11 pt, dezimale Gliederung. Technische Lücken getrennt dokumentieren; keine ausgeführte Löschung oder Speicherung behaupten.
+Vollständig ausformulierte Betroffenenantwort oder interne Löschanweisung mit Datenumfang, Verantwortlichem, Frist und Nachweis. Keine bloße Konzeptskizze, keine Halbsätze. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Technische Lücken getrennt dokumentieren; keine ausgeführte Löschung oder Speicherung behaupten.
 
 ## 6. Beispiele
 

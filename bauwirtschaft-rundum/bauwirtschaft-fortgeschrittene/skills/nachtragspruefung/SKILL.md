@@ -30,7 +30,7 @@ Lesen Sie Vertrag und LV, ursprüngliche Planung, Nachtragsangebot, Änderungsbe
 
 ## 5. Ausgabeformat
 
-Liefern Sie Soll-Ist-Leistungsvergleich, Grundentscheidung, nachrechenbare Preisprüfung, gegebenenfalls getrennten Vergabevermerk und ausformulierte Empfehlung samt Antwortentwurf. Endprodukte in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungen. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung. Interne Alternativrechnung und Exporthinweis außerhalb des Empfängertextes halten.
+Liefern Sie Soll-Ist-Leistungsvergleich, Grundentscheidung, nachrechenbare Preisprüfung, gegebenenfalls getrennten Vergabevermerk und ausformulierte Empfehlung samt Antwortentwurf. Endprodukte in vollständigen Sätzen, keine Skelette, Halbsätze oder reinen Aufzählungen. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung. Interne Alternativrechnung und Exporthinweis außerhalb des Empfängertextes halten.
 
 ## 6. Beispiele
 

@@ -38,4 +38,4 @@ Fehlt etwa die genaue persönliche Beziehung oder eine zulässig mitteilbare Erl
 
 Prüfe die konkret einschlägigen Vorschriften von GVG, StPO oder ZPO am amtlichen Text. Rechtsprechung nur nach tatsächlicher Verifikation mit Gericht, Datum, Aktenzeichen und Fundstelle. Bei Quellenlücken die offene Frage benennen, nicht vermeintliche Pflichten erfinden.
 
-Vollständige Sätze und dezimale Gliederung, beim Export Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind ausschließlich optional. Bekannte Sachverhaltsangaben bei Folgeaufträgen weiterverwenden, geänderte Verfahrensrollen neu prüfen.
+Vollständige Sätze und dezimale Gliederung, beim Export Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind ausschließlich optional. Bekannte Sachverhaltsangaben bei Folgeaufträgen weiterverwenden, geänderte Verfahrensrollen neu prüfen.

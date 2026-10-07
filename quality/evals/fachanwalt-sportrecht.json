@@ -62,9 +62,10 @@
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a71ad71358c87b2dcceb6ca1cd7f3e01326a76c037f3b500704ace10eca22686",
+    "sha256": "cf7c6cb3f22b89b9b2fede6ece496784da03e70de264c0a0a24dada615d0d3a8",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -76,12 +77,13 @@
     "changes": [
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-sportrecht/fachanwalt-sportrecht-hauptproblem.md",
-    "prompt_sha256": "2e51074e32113d67441bf40dce28da9dc5a9f4ae46ba2f4d14d4f0ea85e8c07d",
+    "prompt_sha256": "b3ca24c1c22f8fb2d0c16f04a71d939ebb59993386fef3a33b74e998f9bad4aa",
     "skill_path": "fachanwalt-sportrecht/skills/spielereinsaetze-optionsschwelle-praemienbeweis/SKILL.md",
-    "skill_sha256": "c81af676ffe956eecbbf4f86f46e4b8de3a07e18fc651bf619713f2b213109eb"
+    "skill_sha256": "a455172b9b6eb7627d53400ea50f27af518e18adb6f5ea96a06bc2c3803686ef"
   },
   "selection": {
     "positive": [
@@ -142,9 +144,10 @@
       "Sportlich begründete Nichtaufstellung von treuwidriger Verhinderung unterschieden; Hauptproblem verlangt konkrete Motive statt allein Budgetindizien.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Vertragliche Einsatzdefinition und korrigierte Statistik, sportliche Gegenursache, Optionsausübung gegenüber Schwelle, Befristungsrechtsschutz, konkrete Verbandsregeln, Probenkette und kampagnenbezogene Sponsorenleistung.",
-      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert."
+      "Zwei EuGH-Urteile 2025/2026 mit Volltext statt nur Ankündigung/Suchverweis; unzulässige Pauschalbehauptung von Schiedsspruch-Endgültigkeit in beiden vorhandenen CAS-Fassungen korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ebaa2985325c05e066f2dfcb3953fa4b0e0fe20956eddffa133a596b9df34fb0",
+    "sha256": "278496a1061b33648ed6d959aa4c6deceb41e1a742b348a0a9336e3b21b9d7ed",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },

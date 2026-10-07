@@ -384,7 +384,7 @@ Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsfüh
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->
@@ -909,7 +909,7 @@ Bei Verwendung zeitlich maßgebliche Rechtslage prüfen. Gericht, Entscheidungsf
 
 Erstelle die bestellte Entscheidungsvorlage mit OP-Überleitung, Titelprüfung, Anfangsstatus, Dreiwochenrechnung und gegebenenfalls Gegenrechnung. Verwende den gewünschten Dateinamen; ohne Vorgabe `ergebnis.md`. Benenne den konkreten Handlungsbedarf, ohne ungefragt einen Insolvenzantrag zu entwerfen.
 
-Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Ohne Dateiexport die Entscheidungsvorlage mit OP-Überleitung und Dreiwochenrechnung vollständig in der Antwort ausgeben; keinen Download einer nicht erzeugten Datei anbieten. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Exportstandard: Times New Roman, 11 pt, dezimal. Datenstand und Grenzen der Beurteilung nennen.
+Vollständige Sätze, keine Gutachtenskelette; jede Zahl mit Quelle und Stichtag. Ohne Dateiexport die Entscheidungsvorlage mit OP-Überleitung und Dreiwochenrechnung vollständig in der Antwort ausgeben; keinen Download einer nicht erzeugten Datei anbieten. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Exportstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimal. Datenstand und Grenzen der Beurteilung nennen.
 
 ## 6. Beispiel
 
@@ -1150,7 +1150,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 <!-- BEGIN ausformulierungspflicht (autogen) -->
 > **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
 >
-> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, ist **Times New Roman 11 pt** als Grundschrift zu verwenden. Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
 >
 > **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
 <!-- END ausformulierungspflicht (autogen) -->

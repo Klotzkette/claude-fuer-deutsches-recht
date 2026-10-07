@@ -67,9 +67,10 @@
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert."
+      "Bank-Werkstatt und Fokus enthielten beide Anker schon zutreffend; frischer Quellenabgleich, Mini/Hauptproblem um die begrenzte DSGVO-Kausalitätsaussage ergänzt, Nachforderung konkretisiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "65402c34852275202261d2be644b801968aaf3687aba41e14f6908b38d8b21a6"
+    "sha256": "d299ac7ea871e2bef3742e1949afa4da7fbfd96be4cc09556a976aecc79fa5ef"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -80,12 +81,13 @@
       "XI ZR 91/14 in alle drei Prompts als Beweisprüfung eingebunden; alte Entscheidungsnummern ohne überprüfte Aussage als Recherchefragen behandelt.",
       "Hauptproblem unterscheidet Freigabeanzeige, Gerätebindung, Rückfluss und Gegenanspruch; XI ZR 71/25 auf Kausalität begrenzt.",
       "Fundierten anwaltlichen Rat nicht mit gerichtlicher Entscheidungsbefugnis verwechselt; nur Außenhandlungen freigabeabhängig.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-bank-kapitalmarktrecht/fachanwalt-bank-kapitalmarktrecht-hauptproblem.md",
-    "prompt_sha256": "6c9996f317277bbd156a3d9a7382d9839548e7261215e26ea560517ae6302a95",
+    "prompt_sha256": "40044fb228ef3accc6f8e6276a36a1f156aad955b0123b7afdaf9c2647c35814",
     "skill_path": "fachanwalt-bank-kapitalmarktrecht/skills/onlineueberweisungen-autorisierung-beweiskette/SKILL.md",
-    "skill_sha256": "afa68e73eba422b8613016d4f4cc65515db2d1509fa57820eba50001b6a18c81"
+    "skill_sha256": "1d1240e0de2d5ae0bf6f23f8c95fe934ac76760d12877f24d3ca7015ca1760ca"
   },
   "selection": {
     "positive": [

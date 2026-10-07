@@ -32,9 +32,10 @@
       "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
       "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
       "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
-      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt."
+      "Kurzes Fachdialogbeispiel mit entscheidender Frage und konkreter Änderung des bestellten Dokuments ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "235251a6cf34c7101fbb9dccf0226f00ed0f809f00ce18816a12cc1c22c355d5"
+    "sha256": "cddea5d47b92d3b4bb94552111b1638ad71672324a6c46130df8dc31cdaad0b4"
   },
   "selection": {
     "positive": [
@@ -87,9 +88,10 @@
       "Aktueller Paragraf 43a Absatz 7 BRAO in beiden Prompts.",
       "2 StR 588/18 mit Aufhebungsgrund und Kompensationsgrenzen angewendet.",
       "Keine Strafbarkeitsdiagnose aus negativem Saldo oder Verrechnung mit unbestätigtem WIP.",
-      "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung."
+      "Abstimmung von Bank und Fremdgeld, durchgerechnete Maßnahmen-/Entnahmeentscheidung, Perioden- und Gemeinkostenabgrenzung, ausführbare Vertretungsanweisung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4e2f56debd2a7faf0a415e908421d18979d5bd161a655983ff3fac16fdcc04ff"
+    "sha256": "7948fb5e85a88c92bab1de820236ca21be6605212bb59a09efd17108b7ee8b85"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

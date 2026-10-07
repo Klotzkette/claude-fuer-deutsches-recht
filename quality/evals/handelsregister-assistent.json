@@ -123,33 +123,36 @@
     "reason": "Eigenständiger kurzer Workflow mit drei verifizierten2026-Ankern und Befugnis-/Zugangsfrage. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
     "changes": [
       "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
-      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5112dcbe7a21eeef2ec59a3725232803de4bd83607df77e76bebdc3e0d941f71"
+    "sha256": "60c4e34554dd88a88d01d1c5af7075f5dacc994fb296c9a38924a64fe1016dd2"
   },
   "workshop_review": {
     "verdict": "revised",
     "reason": "Große eigenständige Werkstatt mit konkreter Registerlandkarte, zwei Auslandsnachweiswegen und acht ausformulierten Mustern. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
     "changes": [
       "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
-      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7f13500c862b2eb6bf97ae71b1af81723a6dab50c43a7e4d348660dee93bb02c"
+    "sha256": "b38096fc7c74860594bee0debcb3a0d51dd7e37e3461170cac0bd3d79d6f7e65"
   },
   "focus_review": {
     "verdict": "revised",
     "reason": "Schwerpunkt auf stockenden Vorgang und dessen tatsächlichen Engpass. Individuelle Text-/Quellenprüfung; kein Live-Modell- oder Portaltest.",
     "changes": [
       "Fachliche Abhängigkeiten, konkrete Nachweise und fortlaufende Anschlussfragen statt bloßer Checkliste.",
-      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt."
+      "Anmeldung, Gesellschafterliste, Auslandsvertretung und öffentliche Daten getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
+    "sha256": "23dcd7f42b72a94b05e79367b92866f274cc6fedfca431bd207cd5c177bb283a",
     "method": "desk_review",
     "reviewed_on": "2026-10-01",
     "prompt_path": "handelsregister-assistent/handelsregister-assistent-hauptproblem.md",
-    "prompt_sha256": "482ebef2b001588c222001c55a4f964b0b0df3c3cfeaabb398f133a5feb4662d",
+    "prompt_sha256": "23dcd7f42b72a94b05e79367b92866f274cc6fedfca431bd207cd5c177bb283a",
     "skill_path": "handelsregister-assistent/skills/hauptproblem-registervorgang-zum-vollzug/SKILL.md",
-    "skill_sha256": "5198cb8d6b7e8cfa3d2fabb203af165729ee1e5df22ccbe4edf48cb0a4a4d158"
+    "skill_sha256": "d4177e3ae033ff9a932ee69a2d562fdbb6642f32b6c1368639622c7ca0b5e7ee"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

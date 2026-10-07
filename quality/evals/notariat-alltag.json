@@ -214,9 +214,10 @@
     "changes": [
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
-      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "7a4bf7e8bed35d23d3eda3d894fcef1ccce316c32a1d2ba29a1798358003c020"
+    "sha256": "be1ed2ca84e09b6ebbbb7bd0fc0d09811d0e63717895eaa4c974cae2d3c68449"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -224,9 +225,10 @@
     "changes": [
       "Formsonderfälle und Einreichungsfolge konkretisiert.",
       "Bank-, Register-, Familien- und Vorsorgeantworten in die gesamte betroffene Vorlage weiterführen.",
-      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele."
+      "Mini deckt alle Fachbereiche innerhalb 7500 UTF-8-Bytes und Zeichen ab; Werkstatt enthält vollständige Anschreiben und abgegrenzte Klauselbeispiele.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "0c2f8ee1445c1dc0cda4e70b4161a9950a5cc18a574e456a23f7832f9532f1a5"
+    "sha256": "2d6b77d7e61f3538677b3ac9e62742fa9a16822b980d4374cf8170d6e0be1345"
   },
   "selection": {
     "positive": [
@@ -881,143 +883,203 @@
   "individual_skill_review": [
     {
       "path": "notariat-alltag/skills/auslandsurkunde-apostille-vollmacht/SKILL.md",
-      "sha256": "34ba814e369f73da00051ba2aab1dbf91c29ff30bc2e4ea44ebb5dc8f7dd4bf7",
+      "sha256": "90e7a1395d1a89ec4a1e094d16a71a59c66269f587235a9ac0ef038fe457ee4e",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/bautraegervertrag-mabv-familiengesellschaft/SKILL.md",
-      "sha256": "01b1fbbfe86d135c0441c09dbb38d1ce0db20dad89eb9e0897bcb4c54c1e4c34",
+      "sha256": "dd38fe4bbdd49dbfdebba6086c6b68eda640bd0d66d347c36e91e7418f688b9b",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/beteiligte-identitaet-vertretung/SKILL.md",
-      "sha256": "de6e89faee74d9718a8fc089859af7d9ce1e8e3425cd4ac844e7f171ff58b7b6",
+      "sha256": "82049ac3a837a1bca3276b1e3db0999fc12d408a94e37697c4626a27627fc846",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/ehevertrag-scheidungsfolgenvereinbarung/SKILL.md",
-      "sha256": "2869d098732fcfdadf71bbac6ff95269d2e55d360221b3355b8a860590fdc1e1",
+      "sha256": "3b228c00090a4e50c8efefeb5dc2d2ea94ae896b2098f5119533c1a945b3cf48",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/formweg-beurkundung-beglaubigung/SKILL.md",
-      "sha256": "d04e56aa91346c464b5e5a1e1516d83eb8e9271f003157aa968520b87a649be3",
+      "sha256": "dab6bce3d77402e4d722060a57ff67621a88bc1ff8c8d6ae5a57fa083b38ca01",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/geldwaeschepruefung-immobilien/SKILL.md",
-      "sha256": "4498071912da2661c1b483a3f7d461e8df5e70a4d31455e6cb9da6a7bc95a369",
+      "sha256": "97eb37f996c5a6a955775754c7de02baf18907be1a43b2ed82b034b58e9f77d2",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/geschaeftsfuehrer-bestellung-register/SKILL.md",
-      "sha256": "29ca8987e81816f2d82d943f5aaf6aaec439f7c8c1399a956879aed00c2225ac",
+      "sha256": "af55de5e3ee101dfc0a131b7ccefd1556f6e353f2fe33859cf6331b6a25a3636",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/gmbh-anteile-uebertragen-verpfaenden/SKILL.md",
-      "sha256": "caf6e8fb5b11f252217d4385aabfadca34e45b7e8a878b5340a6e991710a5fa1",
+      "sha256": "122a1a84fadcd65ee633ef95103228ce2650e242a703ef05f43e76cab251a88d",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/gmbh-gruendung-gesellschafterliste/SKILL.md",
-      "sha256": "0fc4a90dd03e27989008ad3c9fb8889b082a1f75870d24d45c4ccb6d398f9627",
+      "sha256": "78c1cd302e858dd9ee85f7d178aa7f677ff22f5da72b7c21772dd2ba3ea53af0",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/grundbuchantrag-rangstelle-notarielle/SKILL.md",
-      "sha256": "312a488bd18068ee51a1027daeb99107f2e266ca068afc7028917eb06744a924",
+      "sha256": "5b1ba65ced8c6236eb045bd0f6fde1af725977c5da87a73837b76b0fef1ce20a",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/grundschuld-buchgrundschuld-treuhand/SKILL.md",
-      "sha256": "0465ef81d6457b2ac0463bdd797701c600c21e2bc6253ed6356d04c5f3782df7",
+      "sha256": "64a8f86bcbaaae0ab97d21031ee04ea54402f05b28a80bf1c38fc156ce0745ca",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/kaltstart-triage/SKILL.md",
-      "sha256": "eb7d41abffbc29b9808d104182dec5a340ad6655ef08ce42e1df63bc7b139cb4",
+      "sha256": "f294c73530da443cc3274ee363ae78f8ce54f16112b54f64aa945375150ba34d",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/kapitalerhoehung-beschluss-register/SKILL.md",
-      "sha256": "7a2ab445b9d55c4fbdb71272f002367e8ba891b91fbce6ade15c110fa4eb1513",
+      "sha256": "e4c41e53c496e1dae6c2b5abb62751bb3f6b5526a7dd1ebb3f7e283000718f8c",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/kostenrechnung-gnotkg/SKILL.md",
-      "sha256": "917376b04493fe2df485b4897d84b3caa65a069677028f55388766f35e73cd72",
+      "sha256": "81867e1e00da57c73359aa4d45e1b28fc4c22c4996b9bcf6daa55aa44fc93247",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/nachlassauseinandersetzung-grundbuch/SKILL.md",
-      "sha256": "96b623343d0e0ba56b265ee507293ef7d300d3e7cb2eec725a591628265ee944",
+      "sha256": "9a08b164a8c5542dfd474587133506d5b246c7399ce8f6f7b2c4e31126936c6e",
       "verdict": "retained",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/umwandlung-verschmelzung-kapitalerhoehung/SKILL.md",
-      "sha256": "ab738d8d4fa53141d1f6282f4f275bdcffdf8235413dd659a480efedeb54d05f",
+      "sha256": "e10fcd049d931175631764b2757ea1a003cb8576342fd3991cb3411e2efab40d",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/urkundenentwurf-aendern-abgleichen/SKILL.md",
-      "sha256": "3eebad7e1ecad5ae9074e3b156eed8e3021c845e981cd63adb8ee87195ba0bea",
+      "sha256": "d7794558a74a55e35beb1a8ca1187515de50bb0554e721271f2f2c2d2566092a",
       "verdict": "retained",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/urkundenmappe-zur-freigabe/SKILL.md",
-      "sha256": "dff92004ebd1fcb226879a8d0ce69af78d7b505828b4093a9b66e0dd8fae0fe3",
+      "sha256": "80052ea861f067a0ecb2ae2ac2f6fcd1d4a9c37e863d29db8489c1465f787e24",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/vollzug-fristen-wiedervorlage/SKILL.md",
-      "sha256": "b584d1a65b56e90793b335f989622b95927e38f330579d00cae655ad74371dab",
+      "sha256": "a96bed6167597645d9ff214f1a0465f6fd6688d7a22534dd5a49ebd01f6326ca",
       "verdict": "retained",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     },
     {
       "path": "notariat-alltag/skills/vorsorgevollmacht/SKILL.md",
-      "sha256": "75fd5f99c383eb36290c460e594380c2921cbcd807318a9cc32c5aa600e6f8d0",
+      "sha256": "f1a45adde4fb0aa865bdebfc8d48a5010782fdade5ffbb649fb4d892473516de",
       "verdict": "revised",
       "method": "desk_review",
-      "reviewed_on": "2026-09-25"
+      "reviewed_on": "2026-09-25",
+      "changes": [
+        "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
+      ]
     }
   ],
   "source_audit_2026_09_30_zweiter_durchgang": {

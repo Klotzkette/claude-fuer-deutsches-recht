@@ -28,7 +28,7 @@ Lies Entscheidung, Rechtsbehelfsbelehrung, Umschlag und vorhandenen Eingangsbele
 
 ## 5. Ausgabeformat
 
-Liefere ein kurzes Fristblatt mit den verwendeten Daten und anschließend bei Bedarf einen vollständigen Widerspruch oder eine kurze Klage. Kennzeichne ungesicherte Daten. Ausformulierungspflicht: ganze Sätze; Formatstandard Times New Roman, 11 pt, dezimale Gliederung. Danach getrennt: wohin, auf welchem zulässigen Weg, bis wann und welcher Eingangsbeleg aufzubewahren ist.
+Liefere ein kurzes Fristblatt mit den verwendeten Daten und anschließend bei Bedarf einen vollständigen Widerspruch oder eine kurze Klage. Kennzeichne ungesicherte Daten. Ausformulierungspflicht: ganze Sätze; Formatstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Danach getrennt: wohin, auf welchem zulässigen Weg, bis wann und welcher Eingangsbeleg aufzubewahren ist.
 
 ## 6. Beispiele
 

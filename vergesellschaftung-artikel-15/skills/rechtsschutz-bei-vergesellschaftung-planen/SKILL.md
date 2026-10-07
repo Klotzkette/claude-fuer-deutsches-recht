@@ -43,7 +43,7 @@ Ein Kommissionsbericht ist keine anfechtbare Übertragung. Das Berliner Rahmenge
 
 # 5. Ausgabeformat
 
-Liefere die bestellte ausformulierte Rechtswegberatung oder Antragsschrift mit bestimmtem Begehren, belegter Zulässigkeit, fallbezogener Begründung und Anlagen. Ein interner Fristenvermerk bleibt getrennt. Vollständige Sätze statt Skelett, Halbsätzen oder bloßer Rechtswegetabelle; Times New Roman 11 pt, dezimale Gliederung, andernfalls separater Exporthinweis. Offene maßgebliche Belege dürfen nicht durch eine vorgetäuschte Einreichungsreife verdeckt werden.
+Liefere die bestellte ausformulierte Rechtswegberatung oder Antragsschrift mit bestimmtem Begehren, belegter Zulässigkeit, fallbezogener Begründung und Anlagen. Ein interner Fristenvermerk bleibt getrennt. Vollständige Sätze statt Skelett, Halbsätzen oder bloßer Rechtswegetabelle; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, andernfalls separater Exporthinweis. Offene maßgebliche Belege dürfen nicht durch eine vorgetäuschte Einreichungsreife verdeckt werden.
 
 # 6. Beispiele
 

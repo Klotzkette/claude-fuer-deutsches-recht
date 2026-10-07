@@ -33,7 +33,7 @@ Tragende Normen und Entscheidungen anhand amtlicher Quellen prüfen; die Zitierw
 
 Liefere je nach Auftrag die Bescheidanalyse, den Widerspruch, den Eilantragsentwurf, den PKV-Leistungsbrief, die Befundanforderung oder eine verständliche Beratung. Nicht alle Dokumente gleichzeitig erzeugen. Bei einem Hindernis den belegten Teil vorläufig ausarbeiten und die benötigte Antwort benennen; danach Anspruch, Rechnung und Text bis zur bestellten Endfassung fortführen.
 
-Das Endprodukt besteht aus vollständig ausformulierten Sätzen, nicht aus einer Gliederung oder Stichwortsammlung. Nutzerbenennung geht vor; ohne Dateiwunsch ist `ergebnis.md` möglich. Quellenstatus und offene technische Fragen stehen gesondert, nicht im Empfängerbrief. Formatierte Dokumente verwenden Times New Roman 11 Punkt und dezimale Gliederung; bei Markdown den Formatwunsch als Exporthinweis angeben. Versand, Einreichung oder rechtsgeschäftliche Erklärung nur nach ausdrücklicher Freigabe.
+Das Endprodukt besteht aus vollständig ausformulierten Sätzen, nicht aus einer Gliederung oder Stichwortsammlung. Nutzerbenennung geht vor; ohne Dateiwunsch ist `ergebnis.md` möglich. Quellenstatus und offene technische Fragen stehen gesondert, nicht im Empfängerbrief. Formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown den Formatwunsch als Exporthinweis angeben. Versand, Einreichung oder rechtsgeschäftliche Erklärung nur nach ausdrücklicher Freigabe.
 
 ## 1.6. Beispiel und Zugriff
 

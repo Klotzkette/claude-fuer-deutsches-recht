@@ -36,7 +36,7 @@ Innerhalb des Dokuments konsequent dieselbe Form verwenden: vierstelliges Jahr, 
 
 Mehrere Entscheidungen nach Gerichtsebene und innerhalb derselben Ebene nach Datum absteigend oder begründet nach Relevanz ordnen. Die gewählte Reihenfolge ist keine Aussage über universelle Bindungswirkung. Nur Belege aufnehmen, die zur konkreten Aussage beitragen.
 
-Endtexte vollständig ausformulieren, dezimal mit Leerzeilen gliedern und bei formatierter Ausgabe Times New Roman 11 pt verwenden. Bei Textausgabe den Formatwunsch getrennt nennen.
+Endtexte vollständig ausformulieren, dezimal mit Leerzeilen gliedern und bei formatierter Ausgabe Kanzleihausschrift verwenden. Bei Textausgabe den Formatwunsch getrennt nennen.
 
 Fehlt der konkrete Kommentarauszug oder die gemeinte Entscheidungsfassung, frage nach genau dieser Quelle. Nach Eingang Metadaten und Aussagebezug abgleichen, das betroffene Zitat korrigieren und die bestellte Textfassung abschließen. Neue entscheidende Widersprüche dürfen weitere kurze Rückfragen erfordern; eine schon geklärte Quellenzuordnung nicht erneut abfragen.
 

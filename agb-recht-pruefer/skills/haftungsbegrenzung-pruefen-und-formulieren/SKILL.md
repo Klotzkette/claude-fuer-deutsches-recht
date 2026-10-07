@@ -29,7 +29,7 @@ Gesamte Haftungsregel, Vertragstyp, B2B/B2C, Pflichtenkatalog, geschützte Recht
 
 ## 5. Ausgabeformat
 
-Haftungsmatrix als Zwischenprodukt, danach einheitliche ausformulierte Klausel mit Ausnahmen, konkreten Kernpflichten und begründeter Begrenzung. Endprodukte in vollständigen Sätzen; keine Skelette, Halbsätze oder bloßen Aufzählungen. Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
+Haftungsmatrix als Zwischenprodukt, danach einheitliche ausformulierte Klausel mit Ausnahmen, konkreten Kernpflichten und begründeter Begrenzung. Endprodukte in vollständigen Sätzen; keine Skelette, Halbsätze oder bloßen Aufzählungen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis.
 
 ## 6. Beispiele
 

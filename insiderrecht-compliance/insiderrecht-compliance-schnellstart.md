@@ -38,7 +38,7 @@ Bei personenbezogenen Aufzeichnungen beachte [Artikel 5 Datenschutz-Grundverordn
 
 Ein Insidervermerk erläutert den damaligen Informationsstand und die daraus folgende Bewertung. Eine Aufschubbegründung behandelt die konkreten Voraussetzungen und ihre fortlaufende Überwachung. Eine Ad-hoc-Mitteilung enthält die erforderliche sachliche Information, keine interne Prüfliste. Eine Behördenantwort beantwortet das konkrete Auskunftsverlangen und trennt belegte Tatsachen von noch offenen Punkten.
 
-Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Auswahl weiterer Module. Tabellen sind für Ereignis- und Kenntnisvergleiche sinnvoll, aber nicht Pflichtbestandteil jeder Ausgabe. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Times New Roman 11 Punkt.
+Liefere das bestellte Dokument vollständig ausformuliert, nicht nur eine Auswahl weiterer Module. Tabellen sind für Ereignis- und Kenntnisvergleiche sinnvoll, aber nicht Pflichtbestandteil jeder Ausgabe. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Nutze dezimale Überschriften und bei Export, soweit möglich, Kanzleihausschrift.
 
 ## 1.6 Quellen und Grenzen
 

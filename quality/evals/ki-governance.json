@@ -45,9 +45,10 @@
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
-      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt."
+      "Vier eigenständige Eingabemodi und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2597cfb1cf8c1bb45cd2376d05e977576d529c0a7b70b6032a70b54c79288617"
+    "sha256": "5c673129d52b8f437d2a3f43463918f2fc5a326dd9240745243f9375b7a5d39e"
   },
   "selection": {
     "positive": [
@@ -135,9 +136,10 @@
     "changes": [
       "C-634/21 an maßgeblichen Entscheidungseinfluss geknüpft.",
       "Neue KI-VO-Regeln nicht als Gegenstand des älteren DSGVO-Urteils dargestellt.",
-      "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung."
+      "Tatsächliche Entscheidungspunkte, drei unterschiedliche Aufsichtslücken, Chronologie ohne Auditstillstand und versions-/datenbezogene Beschlussfassung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "fd29e85a5e2f6b918d7f008b0007dbbad8593a2cef712773c5378ce69498d057"
+    "sha256": "8d82def5139cfedd180be65d47a59c65005081999def61f91b92ffcf89f0305e"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

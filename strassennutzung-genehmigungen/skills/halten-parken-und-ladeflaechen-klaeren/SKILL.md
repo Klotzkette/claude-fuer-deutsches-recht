@@ -33,7 +33,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Quellenregister](../..
 
 ## 5. Ausgabeformat
 
-Liefere das bestellte Schreiben oder eine verständliche, ausformulierte Nutzungsbewertung mit erlaubtem Verhalten und rechtmäßiger Alternative. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Verwende soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Der Exporthinweis gehört getrennt neben das Dokument, nicht in die Fahrerinformation.
+Liefere das bestellte Schreiben oder eine verständliche, ausformulierte Nutzungsbewertung mit erlaubtem Verhalten und rechtmäßiger Alternative. Vollständige Sätze sind Pflicht; Skelette, Halbsätze und reine Aufzählungsausgaben sind als Endprodukt verboten. Verwende soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen. Der Exporthinweis gehört getrennt neben das Dokument, nicht in die Fahrerinformation.
 
 ## 6. Beispiele
 

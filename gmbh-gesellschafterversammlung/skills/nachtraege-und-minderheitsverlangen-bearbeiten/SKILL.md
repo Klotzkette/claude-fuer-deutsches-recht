@@ -55,7 +55,7 @@ Nutzen Sie [Rechtsgrundlagen](../../references/rechtsgrundlagen.md), die einschl
 
 Liefern Sie den zum Auftrag passenden, vollständig ausformulierten Verlangenstext oder das Ergänzungsschreiben beziehungsweise die neue Einladung. Fügen Sie die konsolidierte Tagesordnung und einen getrennten Vermerk zu Fristen und noch erforderlichen Nachweisen hinzu. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten; überarbeiten Sie ein solches Ergebnis vor der Ausgabe.
 
-Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung. In Chat oder Markdown geben Sie den Formatwunsch nur als getrennten Exporthinweis an. Versenden Sie das Schreiben nicht ohne entsprechenden Auftrag.
+Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. In Chat oder Markdown geben Sie den Formatwunsch nur als getrennten Exporthinweis an. Versenden Sie das Schreiben nicht ohne entsprechenden Auftrag.
 
 ## 6 Beispiele
 

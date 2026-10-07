@@ -32,7 +32,7 @@ Heimvertrag mit Entgeltblättern, Pflegegrad, Einzugsdatum, frühere vollstation
 
 ## 5. Ausgabeformat
 
-Rechnung | zulässige Grundlage | Kassenleistung | Zuschlag | verbleibender Anteil | Differenz. Danach vollständiges Korrekturschreiben mit Zeitraum und Nachweisen. Ausformulierte Sätze statt Skeletten; Times New Roman 11 pt soweit möglich, dezimale Gliederung. Zahlungsstopp oder Anerkenntnis nicht eigenmächtig erklären.
+Rechnung | zulässige Grundlage | Kassenleistung | Zuschlag | verbleibender Anteil | Differenz. Danach vollständiges Korrekturschreiben mit Zeitraum und Nachweisen. Ausformulierte Sätze statt Skeletten; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung. Zahlungsstopp oder Anerkenntnis nicht eigenmächtig erklären.
 
 ## 6. Beispiele
 

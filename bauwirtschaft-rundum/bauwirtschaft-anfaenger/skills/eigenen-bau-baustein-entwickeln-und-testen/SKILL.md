@@ -30,7 +30,7 @@ Vorhandener Arbeitsauftrag, eigener brauchbarer Entwurf, Bürostandard und freig
 
 ## 5. Ausgabeformat
 
-Fertiger Baustein mit sechs Abschnitten, Testkarten und ehrlichem Prüfvermerk. Ausformulierungspflicht: Die Arbeitsanweisung und verlangten Endprodukte bestehen aus vollständigen Sätzen; keine Halbsätze, Skelette oder bloßen Listen. Formatstandard: soweit möglich Times New Roman 11 pt und dezimale Gliederung; bei Markdown separater Exporthinweis. Der Prüfvermerk nennt „redaktionell geprüft“, „Test geplant“ oder den belegten Lauf, nicht pauschal „getestet“.
+Fertiger Baustein mit sechs Abschnitten, Testkarten und ehrlichem Prüfvermerk. Ausformulierungspflicht: Die Arbeitsanweisung und verlangten Endprodukte bestehen aus vollständigen Sätzen; keine Halbsätze, Skelette oder bloßen Listen. Formatstandard: soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; bei Markdown separater Exporthinweis. Der Prüfvermerk nennt „redaktionell geprüft“, „Test geplant“ oder den belegten Lauf, nicht pauschal „getestet“.
 
 ## 6. Beispiele
 

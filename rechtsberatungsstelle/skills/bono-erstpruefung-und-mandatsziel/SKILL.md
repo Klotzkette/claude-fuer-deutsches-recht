@@ -31,7 +31,7 @@ Setze anschließend die Beratung bis zum bestellten Ergebnis fort. Ergibt sich a
 
 Verifiziere tragende Normen und Rechtsprechung in amtlichen Quellen; Entscheidungen mit Gericht, Datum, Aktenzeichen und überprüfbarer Fundstelle belegen. Literatur nur bei zugänglicher, tatsächlich geprüfter Quelle verwenden. `references/zitierweise.md` ist eine optionale Ergänzung.
 
-Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
+Schreibe das gewünschte Dokument in vollständigen Sätzen und adressatengerechter Sprache. Nutzerseitige Dateinamen haben Vorrang; `ergebnis.md` ist nur eine Ausweichbezeichnung. Formatierte Dokumente verwenden möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Quellenstatus, interne Anleitung und verbleibende Nachweise gehören in eine getrennte Arbeitsnotiz, nicht in den versandfähigen Brief.
 
 ## 1.5 Beispiel und Verantwortungsgrenzen
 

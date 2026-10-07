@@ -45,7 +45,7 @@ Für jeden Zeitraum Originaltabelle und zuständige OLG-Leitlinien verwenden. [G
 
 ## 5. Ausgabeformat
 
-Monatsrechnung je Berechtigtem, Rückstand und Zahlungen, Abweichung zur Gegenrechnung, stärkstes Gegenargument und das jetzt passende Schreiben oder der bestimmte Antrag. Ausformulierungspflicht: vollständige Sätze für Ergebnis und Außenkommunikation, keine Skelette. Formatstandard: Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Formeln und Belegtabellen ergänzen den Text.
+Monatsrechnung je Berechtigtem, Rückstand und Zahlungen, Abweichung zur Gegenrechnung, stärkstes Gegenargument und das jetzt passende Schreiben oder der bestimmte Antrag. Ausformulierungspflicht: vollständige Sätze für Ergebnis und Außenkommunikation, keine Skelette. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung mit Leerzeilen; bei Markdown Exporthinweis. Formeln und Belegtabellen ergänzen den Text.
 
 ## 6. Beispiele
 

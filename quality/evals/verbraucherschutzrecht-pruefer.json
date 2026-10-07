@@ -63,9 +63,10 @@
       "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
       "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
-      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
+      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4602c4b74bb2cb4d28301bdd2b8cb16e818fb77230f7896f093b01fbd8692b77",
+    "sha256": "32007c991b26d369da04dc1a526915b71cc8b6dd4becd994b86d020215fbe44d",
     "reviewed_on": "2026-09-30"
   },
   "workshop_review": {
@@ -77,9 +78,10 @@
       "Sofatutor C-565/22 mit Preisaufklärung, bindendem Vertrag, einmaligem beziehungsweise neuem Widerruf und ausdrücklicher Grenze zu Paragraf 327r in beide Prompts eingefügt.",
       "Paragraf 327r aktuell vollständig gelesen; Änderungsklausel von zusätzlichem Beendigungsrecht, späterem Fristbeginn und unveränderter Alternative unterschieden.",
       "Paragraf 356a samt zweistufiger Funktion und Bestätigung vom Kündigungsbutton getrennt; aktuelle Paragraf-356-Absätze geprüft, Nachweisfortsetzung und vollständiger Erklärungsentwurf bewahrt.",
-      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt."
+      "Zweiter Durchgang 30.09.2026: Gescheiterten Widerruf und mögliche Rücktrittserklärung nach VIII ZR 37/24 fallbezogen getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8a3ab1c76f26bcdf553ccc33a6e2ed5f1a09e6c50b5369a09bc8590c314bc188",
+    "sha256": "c52720f39be588bb96f41e2d886b2c4f748f5381fca80a37153420754af718f5",
     "reviewed_on": "2026-09-30"
   },
   "prompt_workflow_review": {

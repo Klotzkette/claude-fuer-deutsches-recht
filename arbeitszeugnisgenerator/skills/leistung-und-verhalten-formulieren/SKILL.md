@@ -29,7 +29,7 @@ Es gelten [Zitierweise](../../../references/zitierweise.md) und die [Rechtsprüf
 
 ## 5. Ausgabeformat
 
-Liefere den verlangten Bewertungsabschnitt zuerst, vollständig ausformuliert und grammatikalisch sauber. Formelkataloge, Halbsätze und reine Aufzählungsskelette sind keine Endprodukte. Beleg- oder Mängelmatrix getrennt anfügen; bei fehlenden Daten eine konkrete Lücke statt einer erfundenen Wertung. Soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; Zeugnisabschnitte bleiben Fließtext. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
+Liefere den verlangten Bewertungsabschnitt zuerst, vollständig ausformuliert und grammatikalisch sauber. Formelkataloge, Halbsätze und reine Aufzählungsskelette sind keine Endprodukte. Beleg- oder Mängelmatrix getrennt anfügen; bei fehlenden Daten eine konkrete Lücke statt einer erfundenen Wertung. Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen; Zeugnisabschnitte bleiben Fließtext. Bei Chat oder Markdown einen gesonderten Exporthinweis geben.
 
 ## 6. Beispiele
 

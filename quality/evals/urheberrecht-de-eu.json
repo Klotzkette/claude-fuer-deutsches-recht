@@ -47,9 +47,10 @@
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
       "Redaktionelle Antwort verändert Freigabevermerk oder Lizenzanfrage; neuer Vertragsbeleg verändert nur tatsächlich gedeckte Nutzung und Forderungen.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "8fb3e13068eb60672b941b2e1284072188da5b25f27fb1c39260cacde9297ed3",
+    "sha256": "cf75ec86aeefae6697b52dd55150559c1c2243ccefc809037c038df8ef43c961",
     "reviewed_on": "2026-10-01"
   },
   "workshop_review": {
@@ -60,9 +61,10 @@
       "Schrankenprüfung von Rechtsinhaberschaft und Namensnennung getrennt",
       "Allgemeine Fallliste entfernt und gerichtsfeste Begründung des verlangten Dokuments gestärkt",
       "Briefing und Nachtrag steuern Lizenzergänzung; geänderte Analyse steuert fassungsbezogene Freigabe; Screenshot, Nutzungsdauer und Lizenznachweis steuern Abmahnungsantwort und Geldberechnung.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 02.07.2026 – I ZR 96/22, USM Haller II, Rn. 23–32 und 60–63, EuGH, Urteil vom 14.04.2026 – C-590/23, Pelham. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6e506530964559bbb1568f3b7a57ce519f87feb55404dac722b0812c971eeb3c",
+    "sha256": "ee2c9b056624157dab88e0b8011be0d8b1c5e188b9811d191e912659286af956",
     "reviewed_on": "2026-10-01"
   },
   "prompt_workflow_review": {

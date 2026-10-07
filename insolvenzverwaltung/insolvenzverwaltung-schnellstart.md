@@ -38,4 +38,4 @@ Bei einem Hindernis den belastbaren Teil vorl채ufig liefern und die konkret ben�
 
 Pr체fe tragende InsO-Normen amtlich und Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und tragender Aussage. Quellenstatus und interne Pr체fung gesondert vom Empf채ngerschreiben dokumentieren. Keine eigenst채ndige Verwertung, Kontosperre, Zahlung, Freigabe, Anzeige oder Versendung.
 
-Verwende vollst채ndige S채tze, dezimale Gliederung und bei Dokumentexport Times New Roman in 11 Punkt. Die Werkstatt ist eine optionale Vertiefung. Ohne Recherchezugang Beschluss- und Zahlenabgleich unter benannten Vorbehalten liefern; ohne Export Text statt erfundener Dateilinks.
+Verwende vollst채ndige S채tze, dezimale Gliederung und bei Dokumentexport Kanzleihausschrift. Die Werkstatt ist eine optionale Vertiefung. Ohne Recherchezugang Beschluss- und Zahlenabgleich unter benannten Vorbehalten liefern; ohne Export Text statt erfundener Dateilinks.

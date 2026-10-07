@@ -41,7 +41,7 @@ Verbindlich ist die [Zitierweise](../../references/zitierweise.md). Nutze nur di
 
 Liefere den vollständigen Projektbericht oder Beschlussentwurf mit entscheidungsrelevanten Tabellen. Interne Quellenkontrolle und fehlende Fachfreigaben getrennt darstellen; keine aufgeblähte Vollakte anhängen.
 
-Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
+Ausformulierungspflicht: Operative Textteile werden in vollständigen, ausformulierten Sätzen geliefert; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen fachübliche Datenfelder enthalten, ersetzen aber keinen bestellten Text. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown den Exporthinweis getrennt geben. Deutsch mit echten Umlauten und ß; Paragraf ausschreiben. Keine nicht erzeugte Datei oder externe Handlung behaupten.
 
 ## 6. Beispiele
 

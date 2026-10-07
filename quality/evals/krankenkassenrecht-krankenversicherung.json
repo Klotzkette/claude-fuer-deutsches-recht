@@ -55,9 +55,10 @@
     "changes": [
       "LASIK-Anker begrenzt den bloßen Verweis auf Brille; konkrete Tarif- und Befundprüfung bleibt nötig.",
       "GKV-Fristablauf mit Vorfestlegung, Gutgläubigkeit und Kosten verknüpft; reine Quotenfälle ohne unnötige Medizinrunde.",
-      "Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt."
+      "Drei tatsächliche Versicherungswege als Leerstart, stille Dateisichtung und direkter Arbeitsbeginn ergänzt; Tarifantwort unmittelbar in Restforderung und bestehendem Pfad umgesetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "363ae2c47ad39f57751b6bcc62487b43b171cdcaf45ab17f76b0206a6cbdcc4c",
+    "sha256": "f983d8549b7bd575c72c7f92ef19952855cebe96f7b73765c29b49bcf21df3d7",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -144,9 +145,10 @@
       "Beschaffungszeitachse umfasst Vertrag, Zahlung, Terminbindung und subjektive Vorfestlegung.",
       "Tatsächlicher Zugang der MD-Unterrichtung von heutiger elektronischer Fristverlängerungsregel unterschieden.",
       "Medizinische Notwendigkeit, Tarifgrenzen und Leistungsumfang getrennt; spezielle Versicherungs- und Nachforderungswege erhalten.",
-      "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut."
+      "Vorbehandlungs-Auskunft nach Paragraf 192 Absatz 8 VVG, konkrete AU-Lücken, Beschaffungsbindung, Teilrechnungen und ungünstige medizinische Befunde in den jeweiligen Dokumentenweg eingebaut.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "2ce0a814d95ea0b0d032bf2b90a35f62f8bffb6eb0c031a60b9b391eae89cb57",
+    "sha256": "b0d58f6b2e54855b02e854240897e9ed05076f23b5bc00f83ed4b0deb9cbb5d8",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

@@ -36,9 +36,10 @@
       "Demonstrationsschrank mit abweichendem Stand der Technik verbunden",
       "Verfahrensausschluss und Schutzbereich in den Kernablauf eingefügt",
       "Doppelte Ablaufbeschreibung und interne Überschriften präzisiert",
-      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Anspruchsfassung, Abzweigung oder Vorveröffentlichung wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "d78064466c53d7dc0f6df430647255c52b574830a4a2aeccc99719647919a43d"
+    "sha256": "f60062727e70c8e1da1ab35490701aefe504ae250a5ba20118d85f9b139ee488"
   },
   "selection": {
     "positive": [

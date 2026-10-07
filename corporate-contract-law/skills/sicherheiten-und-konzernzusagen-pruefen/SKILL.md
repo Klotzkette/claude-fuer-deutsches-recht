@@ -29,7 +29,7 @@ Prüfen Sie Paragrafen 765 bis 777 BGB, Paragraf 350 HGB und einschlägiges Gese
 
 ## 5. Ausgabeformat
 
-Liefern Sie die beauftragte Sicherungsvereinbarung oder eine begründete konkrete Änderung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Nutzen Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Form- und Befugnisvorbehalte sowie Markdown-Exporthinweise stehen außerhalb des Empfängertextes.
+Liefern Sie die beauftragte Sicherungsvereinbarung oder eine begründete konkrete Änderung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind verboten und neu auszuarbeiten. Nutzen Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung mit Leerzeilen und ausgeschriebenen „Paragraf“. Form- und Befugnisvorbehalte sowie Markdown-Exporthinweise stehen außerhalb des Empfängertextes.
 
 ## 6. Beispiele
 

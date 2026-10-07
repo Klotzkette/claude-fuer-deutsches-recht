@@ -70,7 +70,7 @@ Kosten nach Paragrafen 91 ff. ZPO, vorläufige Vollstreckbarkeit, Streitwert, Be
 
 ## 1.7. Übergabe und Quellen
 
-Liefere das konkret bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen. Eine Einzelprüfung verlangt kein zusätzliches Vollurteil; eine Urteilbestellung ist nicht mit einer Tabelle erledigt. Dezimale Gliederung und beim Export Times New Roman 11 Punkt verwenden.
+Liefere das konkret bestellte Dokument in vollständigen Sätzen unter dem gewünschten Dateinamen. Eine Einzelprüfung verlangt kein zusätzliches Vollurteil; eine Urteilbestellung ist nicht mit einer Tabelle erledigt. Dezimale Gliederung und beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Kontrolliere Anträge, Fundstellen, Beträge, Beweiswürdigung, Gehör und Nebenentscheidungen am zuletzt ergänzten Stand. Tragende Normen aktuell amtlich prüfen. Rechtsprechung nur mit verifiziertem Gericht, Entscheidungsform, Datum, Aktenzeichen und genauer Fundstelle verwenden; zusätzliche Recherchefragen von gesicherten Aussagen trennen.
 

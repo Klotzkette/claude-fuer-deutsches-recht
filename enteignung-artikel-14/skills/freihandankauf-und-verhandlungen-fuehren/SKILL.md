@@ -26,7 +26,7 @@ Prüfe BauGB 87 und 110 anhand der [Rechtsgrundlagen](../../references/rechtsgru
 
 ## 5. Ausgabeformat
 
-Vollständiges Angebot oder Gegenangebot mit Adressat, Grundstück, genauem Vertragsgegenstand, Einzelbeträgen, Bedingungen, Antwortweg und Schluss. Gesonderter kurzer Verhandlungsvermerk mit Vollmacht und offenen Punkten. Native Fassung in Times New Roman 11 pt, dezimale Überschriften. Abschluss, Versand und Verzicht erst nach Freigabe.
+Vollständiges Angebot oder Gegenangebot mit Adressat, Grundstück, genauem Vertragsgegenstand, Einzelbeträgen, Bedingungen, Antwortweg und Schluss. Gesonderter kurzer Verhandlungsvermerk mit Vollmacht und offenen Punkten. Native Fassung in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften. Abschluss, Versand und Verzicht erst nach Freigabe.
 
 ## 6. Beispiele
 

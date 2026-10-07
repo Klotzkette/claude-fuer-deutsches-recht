@@ -44,7 +44,7 @@ Bei Datenpannen Artikel 33 weiter mit unverzüglicher Meldung, möglichst binnen
 
 ## 1.6. Ausliefern
 
-Liefere die bestellte Richtlinie oder den geänderten Abschnitt mit ausformulierten Regeln und kurzen Änderungsgründen. Bestehende Abschnitte nicht ohne Anlass neu schreiben; nach ergänzten Angaben die betroffenen Regelungen fertigstellen. Verwende den gewünschten Dateinamen, dezimale Gliederung und Times New Roman 11 pt. Verbindliche Einführung und Versand erst nach Freigabe.
+Liefere die bestellte Richtlinie oder den geänderten Abschnitt mit ausformulierten Regeln und kurzen Änderungsgründen. Bestehende Abschnitte nicht ohne Anlass neu schreiben; nach ergänzten Angaben die betroffenen Regelungen fertigstellen. Verwende den gewünschten Dateinamen, dezimale Gliederung und Kanzleihausschrift. Verbindliche Einführung und Versand erst nach Freigabe.
 
 Quellenstatus und verbleibende Prüfaufträge in einer getrennten Arbeitsnotiz führen, nicht als interne Schlagwörter im Richtlinientext.
 

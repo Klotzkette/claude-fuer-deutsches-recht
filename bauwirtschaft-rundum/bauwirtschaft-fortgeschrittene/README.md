@@ -91,7 +91,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 Eight focused skills support advanced construction-project work: one coordinating entry point, five technical, commercial and legal case workflows, targeted plan updates, and testing of office standards with bounded file access. The package produces review notes, calculations and complete drafts. It does not independently award contracts, release payments, submit bids or monitor mailboxes. Human approval is required for external actions.
 
-Version 445.33.1. Author: Klotzkette. The source review is dated 6 October 2026 and limited to the cited provisions and decision passages. No live model testing is claimed.
+Version 445.34.0. Author: Klotzkette. The source review is dated 6 October 2026 and limited to the cited provisions and decision passages. No live model testing is claimed.
 
 <!-- decimal-anchor --> <a id="einstieg"></a>
 
@@ -130,7 +130,7 @@ VOB/B wird nur bei nachgewiesener wirksamer Einbeziehung angewandt. Unbekannte S
 
 Das Plugin enthält keine Konnektoren, Hintergrunddienste oder breit angelegte Eigenautomatisierung. Nur freigegebene Projektdateien und Ergebnisziele sind zulässig. Originale und konkurrierende Bearbeitungen bleiben erhalten. Wiederkehrende Arbeit erfordert einen separat beauftragten und tatsächlich vorhandenen Mechanismus mit klarer Reichweite und Abschaltung. Ein Register allein überwacht keine Fristen.
 
-Externe Handlungen benötigen konkrete Zustimmung. Interne Bearbeitung führt dagegen ohne unnötige Freigabeschleifen zum bestellten Dokument. Endprodukte werden vollständig ausformuliert; Formatstandard ist Times New Roman 11 pt, soweit technisch möglich, mit dezimaler Gliederung und getrenntem Exporthinweis bei Textausgabe.
+Externe Handlungen benötigen konkrete Zustimmung. Interne Bearbeitung führt dagegen ohne unnötige Freigabeschleifen zum bestellten Dokument. Endprodukte werden vollständig ausformuliert; Formatstandard ist Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, mit dezimaler Gliederung und getrenntem Exporthinweis bei Textausgabe.
 
 <!-- decimal-anchor --> <a id="qualität-und-übungsfälle"></a>
 

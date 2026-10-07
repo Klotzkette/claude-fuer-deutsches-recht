@@ -122,6 +122,6 @@ Bei Vollzugsauftrag Wirkung nach Paragraf 254 InsO beziehungsweise Paragraf 67 S
 
 Liefere das bestellte Modul, die Vergleichsrechnung, Abstimmungsauswertung oder den vollständigen Plan. Tabellen unterstützen die ausformulierte Begründung; leere Kapitel und Listen späterer Arbeitsschritte sind kein Endergebnis. Bei einem Hindernis belegbare Teile und die konkret benötigte Ergänzung nennen; nach Antwort bis zur Endfassung fortsetzen.
 
-Kontrolliere Summen, Quoten, Stimmrechtsnenner, Fristen, Fassungen, Finanzierungsbedingungen und alle neuen Antworten. Nutzerdateinamen und bestehende Formeln erhalten; ohne Vorgabe ist `ergebnis.md` möglich. Vollständige Sätze, dezimale Gliederung und beim Export Times New Roman 11 pt verwenden.
+Kontrolliere Summen, Quoten, Stimmrechtsnenner, Fristen, Fassungen, Finanzierungsbedingungen und alle neuen Antworten. Nutzerdateinamen und bestehende Formeln erhalten; ohne Vorgabe ist `ergebnis.md` möglich. Vollständige Sätze, dezimale Gliederung und beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 Weitere Skills sind optional. Bei fehlendem Akten-, Quellen- oder Exportzugriff einen geeigneten Alternativweg versuchen, Lücken gesondert nennen und belastbaren Text samt Rechnung liefern. Keine vollständige Prüfung, Dateierzeugung, Bestätigung oder Einreichung behaupten, die nicht erfolgt ist. Für weitere tragende Rechtsfragen aktuelle amtliche Normen und passende Volltexte prüfen; die einzelne Planentscheidung bestätigt nicht sämtliche Sanierungsfragen.

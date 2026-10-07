@@ -30,7 +30,7 @@ Die [Berliner Debatte](../../references/berliner-kommissionsbericht.md) über ei
 
 ## 5. Ausgabeformat
 
-Eine vollständige Stellungnahme mit Empfänger, Aktenzeichen, Antrag oder Änderungsbegehren, nachvollziehbarem Variantenvergleich und Anlagenbezug. Eine kompakte Vergleichstabelle darf die Begründung unterstützen, aber nicht ersetzen. Unsichere technische Annahmen separat ausweisen. Times New Roman 11 pt, dezimale Gliederung; keine ungefragte Einreichung.
+Eine vollständige Stellungnahme mit Empfänger, Aktenzeichen, Antrag oder Änderungsbegehren, nachvollziehbarem Variantenvergleich und Anlagenbezug. Eine kompakte Vergleichstabelle darf die Begründung unterstützen, aber nicht ersetzen. Unsichere technische Annahmen separat ausweisen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine ungefragte Einreichung.
 
 ## 6. Beispiele
 

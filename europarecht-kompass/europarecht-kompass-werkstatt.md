@@ -64,7 +64,7 @@ Ein Gutachten erklärt die konkrete nationale Rechtsfolge und die tragenden Vora
 
 Nach neuem Material die betroffene Argumentation, gegebenenfalls Schadensrechnung und den Entwurf aktualisieren. Bei geklärten Voraussetzungen nicht bloß einen weiteren Skill empfehlen, sondern die bestellte Fassung fertigstellen. Tabellen nur für echte Normvergleiche oder Berechnungen verwenden.
 
-Vor Ausgabe Anwendungsbereich, Normwirkung, Rechtfertigung, Zuständigkeit, Frist und stärkste Gegenposition prüfen. Keine Einreichung, Notifikation, Behördenkommunikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Times New Roman 11 pt.
+Vor Ausgabe Anwendungsbereich, Normwirkung, Rechtfertigung, Zuständigkeit, Frist und stärkste Gegenposition prüfen. Keine Einreichung, Notifikation, Behördenkommunikation oder sonstige Außenhandlung ohne ausdrückliche Freigabe. Vollständige Sätze und dezimale Gliederung; Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.7 Technische Grenzen
 

@@ -20,9 +20,10 @@
     "changes": [
       "C-561/19 mit Ausnahmegründen und Begründungspflicht eingefügt.",
       "Ungeprüfte dekorative Entscheidungslisten durch gezielte Rechercheaufträge ersetzt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f36dd01fa6ca8bda00f40bb738b9d2b017637be0f047bc710831babb9176a138"
+    "sha256": "51ea7e157a9f45027f997a397029eb2c4e87936623d874a9d9cfdfd4813e7032"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -30,9 +31,10 @@
     "changes": [
       "C-561/19 mit Ausnahmegründen und Begründungspflicht eingefügt.",
       "Ungeprüfte dekorative Entscheidungslisten durch gezielte Rechercheaufträge ersetzt.",
-      "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden."
+      "Zwei mögliche nationale Ergebnisse als Relevanzprobe, Partei gegenüber vorlegendem Gericht, bindender Unionsakt gegenüber Durchführung, Rechtsfehler gegenüber Tatsachenrüge und konkret drohender Eilschaden.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "ddabb9ece04a1df9bcb8cd85d7ef98bd15683fb0c61b7060ef81e175d8cce95e"
+    "sha256": "3fa3aa3ff1a8bb6c1e28d253dcbfda9ffbd2e85316b643de65057ddee060c9f0"
   },
   "selection": {
     "positive": [

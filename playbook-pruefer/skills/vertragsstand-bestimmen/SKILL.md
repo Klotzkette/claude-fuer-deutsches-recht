@@ -30,7 +30,7 @@ Es gilt die [Zitierweise](../../references/zitierweise.md). Vertragsbefunde bele
 
 Liefere ein knappes Dokumentregister mit begründeter Zuordnung und einen ausformulierten Prüfstandsvermerk. Bei zwei Alternativen benenne zwei getrennte Läufe oder einen ausdrücklich getrennten Vergleich; konstruiere keine Mischfassung.
 
-Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
+Die Ausformulierungspflicht gilt ausdrücklich: Endprodukte bestehen aus vollständigen, prägnanten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt unzulässig. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne echte Dateiformatierung steht dieser Wunsch in einem getrennten Exporthinweis. Eine nicht erzeugte Word- oder PDF-Datei wird nicht behauptet.
 
 ## 6. Beispiele
 

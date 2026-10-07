@@ -36,9 +36,10 @@
       "Silhouette in die Erschöpfungsprüfung eingebaut",
       "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
       "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e59b9965a4e770fe76ad74deae0e3a99039b05d2695390c121e996e58a61215a"
+    "sha256": "22820129108ed049661a8f908e125ffbbf52e0f521702a40d65f06020544d6c9"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -48,9 +49,10 @@
       "Vollziehung und Ordnungsmittel von automatischen Sanktionen getrennt",
       "Mehrfache allgemeine Abläufe durch konkrete Vertrags-, Plattform- und Belegfragen ersetzt",
       "Gegnerische Beweismittel durch bedingte Vorlage- und Besichtigungsprüfung wieder in den Arbeitsablauf aufgenommen.",
-      "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte."
+      "Chargenbezogene Erschöpfung, verdeckte Produktmerkmale, Reichweite von Unterlassung und Nutzungsrechten sowie Freigabe externer Schritte.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "162e187d7d0694e87fde6effff46a0009dfa600b28ec4a9edcb3fa6c09e9a46c"
+    "sha256": "e93fdb8d36cd46a3bc4691e17847632dc7ffcbbaccb365c3d07c9104eca1f439"
   },
   "selection": {
     "positive": [

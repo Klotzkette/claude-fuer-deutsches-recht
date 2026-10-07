@@ -31,7 +31,7 @@ Keine automatische Beobachtung von Projektplattformen. Ein neuer Lauf braucht be
 
 ## 5. Ausgabeformat
 
-Liefern Sie fortgeschriebene Planliste, begrenzten Änderungsnachweis, Folgeprüfung und ausformulierte Mitteilung. Vollständige Sätze sind für Endprodukte Pflicht; keine Skelette, Halbsätze oder reinen Aufzählungen. Tabellen dürfen Registerfelder abbilden. Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; getrennten Exporthinweis bei Textausgabe geben. Nicht behaupten, eine native Plandatei verändert zu haben, wenn nur ein Änderungsentwurf erstellt wurde.
+Liefern Sie fortgeschriebene Planliste, begrenzten Änderungsnachweis, Folgeprüfung und ausformulierte Mitteilung. Vollständige Sätze sind für Endprodukte Pflicht; keine Skelette, Halbsätze oder reinen Aufzählungen. Tabellen dürfen Registerfelder abbilden. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, und dezimale Gliederung; getrennten Exporthinweis bei Textausgabe geben. Nicht behaupten, eine native Plandatei verändert zu haben, wenn nur ein Änderungsentwurf erstellt wurde.
 
 ## 6. Beispiele
 

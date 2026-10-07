@@ -38,4 +38,4 @@ Liefern Sie den bestellten Vermerk oder das vollständig ausformulierte Schreibe
 
 Bei fehlenden entscheidenden Nachweisen den belastbaren Teil vorläufig liefern und die konkrete Nachforderung benennen, ohne unbewiesene Nutzungen zu behaupten. Nach Eingang der Antwort die betroffenen Beträge und Argumente aktualisieren und das bestellte Dokument fertigschreiben. Ein Vermerkauftrag rechtfertigt keinen ungefragten Klageentwurf.
 
-Der Entwurf bedarf vor Außenverwendung der Freigabe. Ohne Exportmöglichkeit das bestellte Dokument samt bildbezogener Schadensrechnung vollständig in der Antwort ausgeben; keinen Dateidownload erfinden. Bei formatierten Dokumenten gelten Times New Roman, 11 pt und dezimale Überschriften; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Der Entwurf bedarf vor Außenverwendung der Freigabe. Ohne Exportmöglichkeit das bestellte Dokument samt bildbezogener Schadensrechnung vollständig in der Antwort ausgeben; keinen Dateidownload erfinden. Bei formatierten Dokumenten gelten Kanzleihausschrift und dezimale Überschriften; technische Exporthinweise bleiben außerhalb des Empfängertextes.

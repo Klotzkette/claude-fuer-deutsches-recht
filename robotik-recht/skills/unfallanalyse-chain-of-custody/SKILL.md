@@ -37,7 +37,7 @@ Fehlt ein Logabschnitt oder weichen Kamera- und Gerätezeit voneinander ab, frag
 
 Liefere den bestellten Sicherungsvermerk, Ereignisbericht oder Behördenentwurf in vollständigen Sätzen. Dokumentiere die tatsächlich belegte Beweiskette und ihre Lücken; eine vorläufige Chronologie darf nicht als abgeschlossene Ursachenfeststellung erscheinen. Setze nach Klärung bis zum bestellten Text fort, statt stets mit einer Fragenliste oder Skill-Empfehlung zu enden.
 
-Weitere Fachskills sind optional. Beachte gewünschten Dateinamen und soweit möglich Times New Roman 11 pt mit dezimaler Gliederung; interne Recherche- und Zugriffshinweise getrennt vom Empfängertext halten. Rückruf, Betriebsänderung, Datenübermittlung und Versand benötigen ausdrückliche Freigabe.
+Weitere Fachskills sind optional. Beachte gewünschten Dateinamen und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung; interne Recherche- und Zugriffshinweise getrennt vom Empfängertext halten. Rückruf, Betriebsänderung, Datenübermittlung und Versand benötigen ausdrückliche Freigabe.
 
 ## Normen & Rechtsprechung
 

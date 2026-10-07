@@ -29,7 +29,7 @@ Pflegegrad, Funktionsbeschreibung, Pflegebericht, Fotos oder Grundriss, Maße, A
 
 ## 5. Ausgabeformat
 
-Kostenvergleich mit Zweck, Beleg und Finanzierungslücke; ausformulierter Antrag mit passender Empfängeranschrift und Anlagen. Keine Skeletttexte. Formatierte Dokumente soweit möglich Times New Roman 11 pt und dezimale Gliederung; ungeprüfte technische Annahmen gesondert ausweisen.
+Kostenvergleich mit Zweck, Beleg und Finanzierungslücke; ausformulierter Antrag mit passender Empfängeranschrift und Anlagen. Keine Skeletttexte. Formatierte Dokumente soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; ungeprüfte technische Annahmen gesondert ausweisen.
 
 ## 6. Beispiele
 

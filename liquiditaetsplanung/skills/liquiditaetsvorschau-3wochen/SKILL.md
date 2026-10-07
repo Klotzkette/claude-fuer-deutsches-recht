@@ -47,7 +47,7 @@ Maßgeblich sind § 17 und § 15a InsO sowie die amtlich belegten Entscheidungen
 
 Liefere den verlangten Plan mit belegten Eingaben, Formeln, Status-/Bilanzblock, Datenlücken und begründetem Ergebnis. Excel-Vorlage: `assets/excel/Liquiditaetsplan-Wochenbasis.xlsx`; zusätzliches HTML oder Markdown nur entsprechend Auftrag. Nutze die ausdrücklich getrennten Statusfelder; leite sie nicht pauschal aus KW-Summen ab. Vorlagen dürfen zur korrekten zeitlichen Abgrenzung ergänzt werden. Keine Datei behaupten, die nicht erstellt wurde.
 
-Ein bestellter Vermerk wird vollständig ausformuliert, nicht als Stichwortskelett geliefert. Formatierte Texte verwenden Times New Roman 11 pt und dezimale Gliederung; Tabellen bleiben zahlenorientiert. Interne Quellen-/Techniknotizen vom Empfängertext trennen. Versand, Zahlungen oder Einreichung erfordern einen entsprechenden Auftrag.
+Ein bestellter Vermerk wird vollständig ausformuliert, nicht als Stichwortskelett geliefert. Formatierte Texte verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; Tabellen bleiben zahlenorientiert. Interne Quellen-/Techniknotizen vom Empfängertext trennen. Versand, Zahlungen oder Einreichung erfordern einen entsprechenden Auftrag.
 
 ## 1.6. Beispiel und Kontrolle
 

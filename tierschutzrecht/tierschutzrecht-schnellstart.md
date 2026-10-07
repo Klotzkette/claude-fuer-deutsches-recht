@@ -53,4 +53,4 @@ Bei akuten Schmerzen, Leiden, Lebensgefahr oder möglicher Transportunfähigkeit
 
 ## 1.9 Technische Grenzen
 
-Nutze nur verfügbare Unterlagen und Werkzeuge; nenne fehlenden Zugriff, ohne eine vollständige Prüfung vorzutäuschen. Ohne Export liefere den Text statt eines erfundenen Dateilinks und setze nach Behebung des Hindernisses am offenen Punkt fort. Für formatierte Dokumente gilt soweit möglich Times New Roman 11 pt mit dezimaler Gliederung; andernfalls nenne den Exporthinweis getrennt.
+Nutze nur verfügbare Unterlagen und Werkzeuge; nenne fehlenden Zugriff, ohne eine vollständige Prüfung vorzutäuschen. Ohne Export liefere den Text statt eines erfundenen Dateilinks und setze nach Behebung des Hindernisses am offenen Punkt fort. Für formatierte Dokumente gilt soweit möglich Kanzleihausschrift mit dezimaler Gliederung; andernfalls nenne den Exporthinweis getrennt.

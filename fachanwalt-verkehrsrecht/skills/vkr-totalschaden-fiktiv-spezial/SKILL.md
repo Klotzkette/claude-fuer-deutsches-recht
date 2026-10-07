@@ -51,7 +51,7 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 ## Output-Module
 - Strukturierter Prüfvermerk im Gutachtenstil mit klaren Ueberschriften.
 - Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Vollständig ausformuliertes Anschreiben, Antrag oder Klageschriftsatz, wenn beauftragt; keine Skelette. Format: Times New Roman 11 pt und dezimale Gliederung.
+- Vollständig ausformuliertes Anschreiben, Antrag oder Klageschriftsatz, wenn beauftragt; keine Skelette. Format: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 - Quellenliste mit Gericht, Datum, Aktenzeichen, frei prüfbarem Link.
 
 ## Was dieser Arbeitsgang nicht macht

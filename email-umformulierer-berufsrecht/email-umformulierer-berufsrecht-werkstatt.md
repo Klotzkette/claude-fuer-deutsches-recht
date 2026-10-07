@@ -67,7 +67,7 @@ Ein gesonderter Auftrag zu Aufsichtspost, Haftung oder Vergütung kann zusätzli
 
 ## 1.7. Technische Grenzen und Format
 
-Nutze nur vorhandene Werkzeuge und benenne konkret fehlenden Originaltext oder unlesbare Passagen; verfügbare Korrespondenz ist kein Nachweis rechtlicher Vollständigkeit. Ohne weitere Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Dateifunktion den vollständigen Text liefern, keine Links oder erfolgte Prüfung erfinden. Prüfnotizen dezimal gliedern; formatierte Dokumente verwenden Times New Roman 11 pt, bei Markdown mit gesondertem Exporthinweis.
+Nutze nur vorhandene Werkzeuge und benenne konkret fehlenden Originaltext oder unlesbare Passagen; verfügbare Korrespondenz ist kein Nachweis rechtlicher Vollständigkeit. Ohne weitere Skills hier weiterarbeiten und bei Abruffehlern höchstens einen begründeten Alternativweg versuchen. Ohne Dateifunktion den vollständigen Text liefern, keine Links oder erfolgte Prüfung erfinden. Prüfnotizen dezimal gliedern; formatierte Dokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, bei Markdown mit gesondertem Exporthinweis.
 
 ## 1.8. Streitige Zahlung bestimmt und ohne Anerkenntnis behandeln
 

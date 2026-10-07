@@ -40,4 +40,4 @@ Bei einer Übergabe ohne bestätigte Nachfolge frage nach der zuständigen Perso
 
 Prüfe, ob die Antworten in das bestellte Dokument eingearbeitet sind. Zusätzliche Recherche- und Abrufvermerke gehören in eine getrennte Arbeitsnotiz, nicht in den Mandantenbrief. Nutzerseitige Dateinamen gehen vor; ergebnis.md ist nur ein möglicher Standard. Versand und externe Erklärungen benötigen Freigabe.
 
-Weitere Skills, Fallregister oder Referenzen sind optional; dieses Mini funktioniert auch mit einem vollständig geschilderten Einzelfall. Ohne Zugriff bitte um die konkrete Unterlage und bearbeite unabhängige Teile weiter; ohne Export liefere Text und behaupte keine nicht erfolgte Aktenprüfung. Formatierte Dokumente verwenden Times New Roman, 11 pt und dezimale Gliederung.
+Weitere Skills, Fallregister oder Referenzen sind optional; dieses Mini funktioniert auch mit einem vollständig geschilderten Einzelfall. Ohne Zugriff bitte um die konkrete Unterlage und bearbeite unabhängige Teile weiter; ohne Export liefere Text und behaupte keine nicht erfolgte Aktenprüfung. Formatierte Dokumente verwenden Kanzleihausschrift und dezimale Gliederung.

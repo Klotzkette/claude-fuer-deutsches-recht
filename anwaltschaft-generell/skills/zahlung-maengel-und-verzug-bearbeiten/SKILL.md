@@ -41,7 +41,7 @@ Nutze [Zitierweise](../../references/zitierweise.md) und [Fachquellen](../../ref
 
 ## 5. Ausgabeformat
 
-Ausformulierungspflicht: vollständiges Schreiben in vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechnung als ergänzende Tabelle, streitige Abzüge ausdrücklich getrennt. Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen; bei Markdown separater Exporthinweis. Technische Rechenannahmen nicht in einen angeblich versandfertigen Text einschmuggeln.
+Ausformulierungspflicht: vollständiges Schreiben in vollständigen Sätzen mit konkretem Begehren und nachvollziehbarer Begründung; keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe. Rechnung als ergänzende Tabelle, streitige Abzüge ausdrücklich getrennt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung, Leerzeilen; bei Markdown separater Exporthinweis. Technische Rechenannahmen nicht in einen angeblich versandfertigen Text einschmuggeln.
 
 ## 6. Beispiele
 

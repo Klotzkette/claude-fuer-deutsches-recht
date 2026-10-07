@@ -32,7 +32,7 @@ Kranken- und Pflegeversicherungsnachweis, Status und Zeitraum, Beitragsbescheide
 
 ## 5. Ausgabeformat
 
-Monat | Einnahme | Grenze | Satz mit Quelle | Zu- oder Abschlag | Soll | Ist | Differenz. Ausformulierter Korrekturantrag statt bloßer Fehlerliste. Times New Roman 11 pt soweit möglich, dezimale Gliederung, vollständige Sätze; Rechentabelle als Anlage.
+Monat | Einnahme | Grenze | Satz mit Quelle | Zu- oder Abschlag | Soll | Ist | Differenz. Ausformulierter Korrekturantrag statt bloßer Fehlerliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit möglich, dezimale Gliederung, vollständige Sätze; Rechentabelle als Anlage.
 
 ## 6. Beispiele
 

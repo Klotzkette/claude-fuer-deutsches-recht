@@ -28,7 +28,7 @@ Prüfe tragende Normen, Behördenpraxis und Formulare amtlich und in der passend
 
 Liefere das bestellte Memo, den Brief, Vertragstext oder Schriftsatz in vollständigen Sätzen. Tabellen sind bei echten Markt-, Beleg- oder Variantenvergleichen sinnvoll, aber keine Pflichtausgabe. Eine reine Bewertung wird nicht ohne Auftrag zu Klage, Zusage oder Kronzeugenmeldung erweitert.
 
-Prüfe Fristen, Zuständigkeit, Beweislast, Zahlen und alle neuen Antworten vor Abschluss. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Times New Roman 11 Punkt und dezimale Gliederung; Recherchegrenzen stehen in einer getrennten Arbeitsnotiz.
+Prüfe Fristen, Zuständigkeit, Beweislast, Zahlen und alle neuen Antworten vor Abschluss. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; Recherchegrenzen stehen in einer getrennten Arbeitsnotiz.
 
 ## 1.6 Beispiel und Grenzen
 

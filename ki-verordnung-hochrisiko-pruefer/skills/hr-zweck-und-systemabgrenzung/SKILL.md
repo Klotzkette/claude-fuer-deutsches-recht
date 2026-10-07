@@ -35,7 +35,7 @@ Prüfe Artikel 3 Nummern 1, 3, 4 und 12 sowie Artikel 6 und 25 anhand der [amtli
 
 ## 5 Ausgabeformat
 
-Liefere eine ausformulierte, versionsbezogene Systembeschreibung und, soweit beauftragt, ein versandfertiges Auskunftsschreiben mit konkreten Dokumenten und Zeitraum. Keine reine Faktenliste, keine leeren Klauselrümpfe. Formatiere native Dokumente in Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen nach Überschriften. Bei reinem Textausgang steht der Formatwunsch getrennt vom Empfängertext. Keine Übermittlung ohne ausdrückliche Freigabe.
+Liefere eine ausformulierte, versionsbezogene Systembeschreibung und, soweit beauftragt, ein versandfertiges Auskunftsschreiben mit konkreten Dokumenten und Zeitraum. Keine reine Faktenliste, keine leeren Klauselrümpfe. Formatiere native Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimal mit Leerzeilen nach Überschriften. Bei reinem Textausgang steht der Formatwunsch getrennt vom Empfängertext. Keine Übermittlung ohne ausdrückliche Freigabe.
 
 ## 6 Beispiele
 

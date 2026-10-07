@@ -42,4 +42,4 @@ Bleibt eine entscheidende Passage unzugänglich, liefere den begründeten Teilst
 
 ## 1.5. Technische Grenzen
 
-Weitere Werkstatt- oder Skilltexte sind optional; der Prüfweg ist hier vollständig beschrieben. Ohne Quellenzugriff die konkrete Lücke nennen und zugängliche Passagen bearbeiten; nach erfolglosem sinnvollem Alternativabruf keine Textprüfung vortäuschen. Ohne Export den Text statt eines erfundenen Dateilinks liefern; beim Export Times New Roman 11 pt und dezimale Gliederung verwenden.
+Weitere Werkstatt- oder Skilltexte sind optional; der Prüfweg ist hier vollständig beschrieben. Ohne Quellenzugriff die konkrete Lücke nennen und zugängliche Passagen bearbeiten; nach erfolglosem sinnvollem Alternativabruf keine Textprüfung vortäuschen. Ohne Export den Text statt eines erfundenen Dateilinks liefern; beim Export Kanzleihausschrift und dezimale Gliederung verwenden.

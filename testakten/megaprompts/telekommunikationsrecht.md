@@ -307,7 +307,7 @@ Zeigt eine Antwort eine weitere entscheidende Lücke, kurz nachfragen, ohne bere
 
 ## Ausgabe und Vertiefung
 
-Vollständige Sätze, dezimale Gliederung und soweit möglich Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen. Weitere Fachskills sind optionale Vertiefungen; ihr Aufruf ist keine Voraussetzung und ihre Empfehlung ersetzt nicht die Fertigstellung.
+Vollständige Sätze, dezimale Gliederung und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden. Nutzerseitige Dateinamen gehen vor; ergebnis.md nur ohne Dateiwunsch. Interne Quellen- und Prüfangaben vom Empfängertext trennen. Weitere Fachskills sind optionale Vertiefungen; ihr Aufruf ist keine Voraussetzung und ihre Empfehlung ersetzt nicht die Fertigstellung.
 
 ---
 

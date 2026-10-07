@@ -55,6 +55,6 @@ Im Lohnfall fehlende Abrechnung, Zahlung oder Leistungsbescheide anfordern. Nach
 
 ## 1.8. Grenzen und Arbeitsmittel
 
-Droht Fristablauf, sofort fristbezogenen Entwurf und fehlenden Beleg benennen; nicht wegen einer starren Drei-Arbeitstage-Schwelle die Bearbeitung einstellen. Keine eigenmächtige Einreichung oder Erklärung. Vollständige Sätze, Paragraf ausgeschrieben, dezimale Gliederung mit Leerzeilen. Formatstandard und Markdown-Exporthinweis: Times New Roman 11 pt.
+Droht Fristablauf, sofort fristbezogenen Entwurf und fehlenden Beleg benennen; nicht wegen einer starren Drei-Arbeitstage-Schwelle die Bearbeitung einstellen. Keine eigenmächtige Einreichung oder Erklärung. Vollständige Sätze, Paragraf ausgeschrieben, dezimale Gliederung mit Leerzeilen. Formatstandard und Markdown-Exporthinweis: Kanzleihausschrift.
 
 Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Zugriff benennen und bei technischem Fehler einen sinnvollen Alternativweg versuchen, sonst den bearbeitbaren Stand sichern. Ohne Export Text liefern, keinen Dateilink erfinden oder ungeprüfte Teile als freigegeben ausweisen.

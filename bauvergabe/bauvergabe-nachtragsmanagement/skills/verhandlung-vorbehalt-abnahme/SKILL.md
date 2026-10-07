@@ -31,7 +31,7 @@ EuGH, Urt. v. 07.09.2016 – Az. C-549/14 (Finn Frogne), [amtlicher Volltext](ht
 
 Liefern Sie die ausformulierte Vereinbarung und eine getrennte Verhandlungsnotiz mit Reichweite des Nachgebens. Vermeiden Sie leere Klauselrümpfe; konkrete offene Daten erscheinen als lesbare Platzhalter.
 
-Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
+Das Endprodukt besteht aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Tabellen unterstützen die Rechnung oder den Belegvergleich, ersetzen aber keine begründete Entscheidung. Formatierte Dokumente verwenden, soweit technisch möglich, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei Markdown steht der Exporthinweis getrennt vom versandfertigen Empfängertext. Versand, Einreichung, Anerkenntnis und Verzicht erfolgen nur im erteilten Auftrag.
 
 ## 6. Beispiele
 

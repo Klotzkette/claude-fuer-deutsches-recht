@@ -12,4 +12,4 @@ Prüfe amtliche Normfassung, Übergangsvorschriften und Entscheidungsinhalt zum 
 
 ## 1.3. Endfassung
 
-Ausgehende Dokumente enthalten nur für den Empfänger bestimmte Tatsachen und Argumente. Interne Zweifel, Verhandlungsuntergrenzen und Freigabehinweise gehören in einen getrennten Begleitvermerk. Vor Export Aktenzeichen, Grundstück, Partei, Betrag, Beweismittel und Antrag abgleichen. Times New Roman 11 pt, dezimale Überschriften, Leerzeile zwischen Absätzen, sprechende ASCII-Dateinamen. Originaldateien unverändert erhalten; Export und Versand sind getrennte Schritte.
+Ausgehende Dokumente enthalten nur für den Empfänger bestimmte Tatsachen und Argumente. Interne Zweifel, Verhandlungsuntergrenzen und Freigabehinweise gehören in einen getrennten Begleitvermerk. Vor Export Aktenzeichen, Grundstück, Partei, Betrag, Beweismittel und Antrag abgleichen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften, Leerzeile zwischen Absätzen, sprechende ASCII-Dateinamen. Originaldateien unverändert erhalten; Export und Versand sind getrennte Schritte.

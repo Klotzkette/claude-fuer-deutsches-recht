@@ -57,9 +57,10 @@
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
       "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e8abe0ff5a61f1ddd99deb9b1eabce72f48bf687c327569dc75855d05e4e36a4",
+    "sha256": "c5ea18e44825ba96e3bd71edde7224115cc2e5bf4d155b5ccca87993a67f2279",
     "reviewed_on": "2026-10-01"
   },
   "selection": {
@@ -114,9 +115,10 @@
       "Eingang, Formprüfung und behauptete Fristversäumung getrennt.",
       "Paragraf 407a Absatz 3 ZPO zutreffend zugeordnet; keine allgemeine KI-Kennzeichnungspflicht erfunden.",
       "Fristdruck bei widersprüchlichen Empfangsangaben, tatsächliche Vertretungsübernahme, versandte gegen freigegebene Fassung, konkrete Mandantenentscheidung sowie Honorar, Fremdgeld und Abschlussreste als ausführbare Dokumentwege vertieft.",
-      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen."
+      "Fachspezifische 2026-Anker ergänzt: BGH, Urteil vom 11.03.2026 – I ZR 106/25, Rn. 19–24, BGH, Beschluss vom 30.07.2026 – I ZB 85/25, Rn. 14–26 und 33–44. Aussagegrenzen und erforderliche Tatsachen in bestehende Arbeitsfolge aufgenommen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "40c0e2d6bbdfd882f3db8977bbc1782d389965343aae02845b736aba0099f818",
+    "sha256": "967c5afe9fa6f5aa0dfba1506e547b5359b07512d258307e89f54889fb19b834",
     "reviewed_on": "2026-10-01"
   },
   "prompt_editorial_review": {

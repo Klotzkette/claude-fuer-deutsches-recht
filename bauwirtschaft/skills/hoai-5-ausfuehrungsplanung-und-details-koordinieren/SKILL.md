@@ -67,7 +67,7 @@ Keine DIN-Anforderungen, Tabellen oder Bemessungsregeln aus Erinnerung rekonstru
 
 Liefern Sie das ausgearbeitete Detail-/Koordinationspaket mit konkreter Zeichnung oder Planergänzung, nachvollziehbarer Maßrechnung, beantworteter Koordinationskorrespondenz sowie revidiertem Plan- und Versandindex. Die Reichweite der Bearbeitung und noch benötigte Fachentscheidung stehen in einer knappen Übergabe, nicht als versteckte pauschale Ausführungsfreigabe im Plankopf.
 
-Ausformulierungspflicht: Bestellte Schreiben, Detailbeschreibungen und Vermerke bestehen aus vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Technische Maßfelder bleiben fachübliche Daten. Formatstandard: Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausgeschrieben. Pläne verwenden lesbare technische Beschriftung und nennen Darstellungsmaßstab; keine nicht erzeugte CAD-Datei, Berechnung oder Freigabe behaupten.
+Ausformulierungspflicht: Bestellte Schreiben, Detailbeschreibungen und Vermerke bestehen aus vollständigen, ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind kein Endprodukt. Technische Maßfelder bleiben fachübliche Daten. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, soweit technisch möglich, dezimale Gliederung mit Leerzeilen, echte Umlaute und ß, Paragraf ausgeschrieben. Pläne verwenden lesbare technische Beschriftung und nennen Darstellungsmaßstab; keine nicht erzeugte CAD-Datei, Berechnung oder Freigabe behaupten.
 
 ## 6. Beispiele
 

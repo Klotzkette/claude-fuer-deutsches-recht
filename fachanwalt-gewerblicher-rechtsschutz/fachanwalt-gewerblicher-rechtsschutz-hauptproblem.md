@@ -30,7 +30,7 @@ Kontrolliere Summen, Retouren und Doppelansätze; neue Angaben erfordern eine er
 
 Nach Eingang einer fehlenden Gutschrift die zugehörige Verkaufszeile und Kostenbehandlung abgleichen, Gewinn und Zurechnungsszenarien aktualisieren und den bestellten Text fertigschreiben. Zeigt sich eine doppelt erfasste Retoure oder eine abweichende Artikelnummer, gezielt nachfassen, ohne beantwortete Fragen zu wiederholen. Bei einem Hindernis den bearbeitbaren Stand und die benötigte Ergänzung nennen und nach Eingang fortsetzen. Eine Nachforderung darf ungeklärte Verkäufe oder Kosten nicht als bewiesen voraussetzen.
 
-Nutze vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und ausgeschriebenes Wort Paragraf. Keine bloßen Skelette. Formatierter Export: Times New Roman 11 pt; bei Markdown diesen Exporthinweis aufnehmen.
+Nutze vollständige Sätze, echte Umlaute und ß, dezimale Überschriften und ausgeschriebenes Wort Paragraf. Keine bloßen Skelette. Formatierter Export: Kanzleihausschrift; bei Markdown diesen Exporthinweis aufnehmen.
 
 ## 1.5. Quellen prüfen
 

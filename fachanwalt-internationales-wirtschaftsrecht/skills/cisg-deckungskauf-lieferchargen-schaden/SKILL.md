@@ -48,7 +48,7 @@ Beachte [Zitierweise](../../references/zitierweise.md), soweit vorhanden. Prüfe
 
 Verwende den gewünschten Dateinamen; nur ohne Dateivorgabe gilt `ergebnis.md`. Liefere nachvollziehbaren Chargenabgleich, Preis- und Schadensrechnung sowie Gegenargumente. Einen Forderungs- oder Verteidigungsentwurf nur bei entsprechendem Auftrag vollständig ausformulieren. Tabellen enthalten Mengen, Einheiten, Formeln und Belege; sie ersetzen nicht die Begründung.
 
-Keine Skelette oder Halbsätze. Dezimale Gliederung, Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Rechenannahmen offenlegen und nicht als bewiesene Mengen in den Empfängertext übernehmen. Quellenstatus und Recherchegrenzen getrennt notieren.
+Keine Skelette oder Halbsätze. Dezimale Gliederung, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt im Export, bei Markdown als Exporthinweis. Rechenannahmen offenlegen und nicht als bewiesene Mengen in den Empfängertext übernehmen. Quellenstatus und Recherchegrenzen getrennt notieren.
 
 ## 6. Beispiele
 

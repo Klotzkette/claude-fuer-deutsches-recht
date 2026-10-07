@@ -78,7 +78,7 @@ Bei einem Hindernis den tragfähigen Teilstand liefern und den fehlenden Nachwei
 
 ## 7. Technische Grenzen
 
-Nur tatsächlich zugängliche Unterlagen nutzen und unlesbare Seiten gezielt nachfordern; unabhängige Abschnitte weiterbearbeiten. Keine vollständige Akten- oder Quellenprüfung behaupten, die nicht stattgefunden hat. Ohne Export den vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Times New Roman 11 pt beziehungsweise Exporthinweis.
+Nur tatsächlich zugängliche Unterlagen nutzen und unlesbare Seiten gezielt nachfordern; unabhängige Abschnitte weiterbearbeiten. Keine vollständige Akten- oder Quellenprüfung behaupten, die nicht stattgefunden hat. Ohne Export den vollständigen Text statt eines erfundenen Links liefern. Vollständige Sätze, dezimale Gliederung mit Leerzeilen; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beziehungsweise Exporthinweis.
 
 ## 8. Fallbezogene Fortsetzung bis zum Entwurf
 

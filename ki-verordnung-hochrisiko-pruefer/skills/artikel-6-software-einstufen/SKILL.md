@@ -33,7 +33,7 @@ Den aktuellen amtlichen Wortlaut des einschlägigen Untertatbestands und gegeben
 
 ## 5 Ausgabeformat
 
-Vollständig ausformulierter Einstufungsvermerk mit Sachverhalt, Frage, Kurzantwort, Subsumtion, Ergebnis, offenen Punkten und Quellen. Soweit nötig ein getrenntes, verwendbares Anbieteranschreiben erstellen. Skelette, Halbsätze und reine Listen sind als Endprodukt verboten. Times New Roman 11 pt, dezimale Überschriften mit Leerzeilen; ohne native Ausgabe separaten Exporthinweis geben. Keine automatischen Registrierungen oder Meldungen veranlassen. Das Ergebnis darf begründet außerhalb des Hochrisikoregimes liegen, muss dann aber verbleibende Prüfungen konkret abgrenzen.
+Vollständig ausformulierter Einstufungsvermerk mit Sachverhalt, Frage, Kurzantwort, Subsumtion, Ergebnis, offenen Punkten und Quellen. Soweit nötig ein getrenntes, verwendbares Anbieteranschreiben erstellen. Skelette, Halbsätze und reine Listen sind als Endprodukt verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften mit Leerzeilen; ohne native Ausgabe separaten Exporthinweis geben. Keine automatischen Registrierungen oder Meldungen veranlassen. Das Ergebnis darf begründet außerhalb des Hochrisikoregimes liegen, muss dann aber verbleibende Prüfungen konkret abgrenzen.
 
 ## 6 Beispiele
 

@@ -45,4 +45,4 @@ Liefere das bestellte Dokument unter dem gewünschten Dateinamen. Ein Beratungsb
 
 Prüfe vor Abschluss Beträge, Mehrheiten, Form, Vertretung und Einarbeitung neuer Antworten. Recherchevermerke und technische Grenzen getrennt vom Empfängertext halten. Keine Einreichung, Erklärung, Beschlussfassung oder Zahlung eigenmächtig veranlassen; interne Überarbeitungen benötigen keine neue Freigabe.
 
-Vollständige Sätze, dezimale Gliederung; Exporthinweis Times New Roman 11 pt. Ohne Zugriff konkrete Auszüge anfordern, ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills und Werkstatttexte sind optional, nicht Voraussetzung dieses Prompts.
+Vollständige Sätze, dezimale Gliederung; Exporthinweis Kanzleihausschrift. Ohne Zugriff konkrete Auszüge anfordern, ohne Export vollständigen Text statt erfundener Links liefern. Weitere Skills und Werkstatttexte sind optional, nicht Voraussetzung dieses Prompts.

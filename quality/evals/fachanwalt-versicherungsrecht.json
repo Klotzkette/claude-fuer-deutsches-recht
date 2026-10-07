@@ -63,9 +63,10 @@
       "Kernfall mit operativem Entscheidungsanker, gezielten Nachfragen und Fortsetzung zum vollständigen angeforderten Dokument.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt.",
-      "PKV-Kalkulationsbeweis 2026 direkt verlinkt und in PKV-Skill ergänzt; konkreter Reparaturausschluss im Mini und Gebäudeskill."
+      "PKV-Kalkulationsbeweis 2026 direkt verlinkt und in PKV-Skill ergänzt; konkreter Reparaturausschluss im Mini und Gebäudeskill.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "f8224d9ad81d30dc723fb036fe06b8a98b83cad91e6084d39e03d8c442645654",
+    "sha256": "d80c932c984ff25f037a772a527f048493df6f35d6fe0b40fde5158a177d3b01",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -77,12 +78,13 @@
     "changes": [
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-versicherungsrecht/fachanwalt-versicherungsrecht-hauptproblem.md",
-    "prompt_sha256": "af863f9b895d56af7917f29d52b7c9a2bf1648b7fb7e2c65e64d6e4b5ab5a80d",
+    "prompt_sha256": "a7329666e07c6788b10f30b15a2f4e3be62b334c9eb2f26ac05e5dc7679d51d2",
     "skill_path": "fachanwalt-versicherungsrecht/skills/bu-praegende-taetigkeiten-befundabgleich/SKILL.md",
-    "skill_sha256": "b5589b4b95633e129ad16295c77df7d47b34fbaa73536b073d4dc4a11c401c06"
+    "skill_sha256": "d9d83f2449b26d9108e26d5f696cda6d901ad5bea62dc731d2af9a08531c7b51"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -91,9 +93,10 @@
       "Werkstatt nach Deckung, Obliegenheit, Berufsunfähigkeit und Regress neu gegliedert; Hauptproblem verbindet untrennbare Teilhandlungen mit konkretem Arbeitsergebnis.",
       "Vorhandene Fachzweige, Beispiele und Zugriffsalternativen erhalten; schwache Rechtsprechungshinweise entfernt oder auf belegte Reichweite begrenzt.",
       "Nachtragsgeltung und konkrete Gesundheitsfrage, damalige Kenntnis statt späterer Diagnose, Kausalitätsgegenbeweis, tatsächliche Arbeitsketten, bedingte Rentenrechnung, Sachschadenposition und zugangsbezogene Verjährungshemmung.",
-      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt."
+      "Zweiter Durchgang 30.09.2026: PKV-Kalkulation und Beitragslimitierung nach IV ZR 41/25 getrennt; Werkstatt zusätzlich um die begrenzte Ausschlussprüfung nach IV ZR 259/25 ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "bf4315755be5dd64905aea6c997fe8cd13c3de7b57b29e2b8fc19de99462f4d9",
+    "sha256": "316534d45a0b60968bb268f7648c8b26952da35a16832a41b11884c4f5b4f7c3",
     "reviewed_on": "2026-09-30"
   },
   "selection": {

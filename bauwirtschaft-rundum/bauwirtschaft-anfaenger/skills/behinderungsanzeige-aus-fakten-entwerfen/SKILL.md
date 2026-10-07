@@ -29,7 +29,7 @@ Vorhandenes Diktat/Transkript, Tagesbericht, Terminplan, Vertrag und Korresponde
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Anzeige- oder Klärungsbrief, danach getrennte interne Notiz über Belege, ungeklärte Ursache/Dauer und Versandprüfung. Ausformulierungspflicht: vollständige Sätze, keine Halbsätze, Skelette oder reine Stichwortlisten. Formatstandard: Times New Roman 11 pt soweit technisch möglich; dezimale Gliederung, bei kurzem Brief auch ohne Zwischenüberschriften. Markdown erhält einen gesonderten Exporthinweis. Platzhalter ersetzen nur fehlende Daten, nicht die Formulierung der Wirkungskette.
+Vollständig ausformulierter Anzeige- oder Klärungsbrief, danach getrennte interne Notiz über Belege, ungeklärte Ursache/Dauer und Versandprüfung. Ausformulierungspflicht: vollständige Sätze, keine Halbsätze, Skelette oder reine Stichwortlisten. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich; dezimale Gliederung, bei kurzem Brief auch ohne Zwischenüberschriften. Markdown erhält einen gesonderten Exporthinweis. Platzhalter ersetzen nur fehlende Daten, nicht die Formulierung der Wirkungskette.
 
 ## 6. Beispiele
 

@@ -47,7 +47,7 @@ Nach geänderter Menge Preis und Raten neu rechnen; nach neuer Sicherheit keine 
 
 ## 5. Ausgabeformat
 
-Liefere vollständige Vergütungs- und Zahlungsklauseln sowie nur die tatsächlich beauftragte Sicherheitsregel. Eine Rechentabelle ergänzt die Verpflichtung in Sätzen. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Formatierte Dokumente in Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Rechenkontrolle, Quellen und Exporthinweise getrennt vom operativen Vertragstext.
+Liefere vollständige Vergütungs- und Zahlungsklauseln sowie nur die tatsächlich beauftragte Sicherheitsregel. Eine Rechentabelle ergänzt die Verpflichtung in Sätzen. Ausformulierungspflicht: keine Skelette, Halbsätze oder reinen Aufzählungs-Auswürfe als Endprodukt. Formatierte Dokumente in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen. Rechenkontrolle, Quellen und Exporthinweise getrennt vom operativen Vertragstext.
 
 ## 6. Beispiele
 

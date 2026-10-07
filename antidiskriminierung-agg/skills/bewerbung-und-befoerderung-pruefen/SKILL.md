@@ -26,7 +26,7 @@ BAG 29.06.2017, 8 AZR 402/15 und BAG 23.11.2017, 8 AZR 372/16 gemeinsam anwenden
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Bewerberbrief, Arbeitgeberantwort oder korrigiertes Anforderungsprofil mit getrenntem Prüfvermerk. Keine unbelegte Auswahlrangliste. Times New Roman 11 pt, dezimale Gliederung; keine bloßen Stichworte als Endprodukt.
+Vollständig ausformulierter Bewerberbrief, Arbeitgeberantwort oder korrigiertes Anforderungsprofil mit getrenntem Prüfvermerk. Keine unbelegte Auswahlrangliste. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung; keine bloßen Stichworte als Endprodukt.
 
 ## 6. Beispiel
 

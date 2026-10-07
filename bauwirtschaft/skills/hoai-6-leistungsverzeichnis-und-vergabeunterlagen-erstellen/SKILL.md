@@ -69,7 +69,7 @@ DIN-/ATV-Texte nur bereitgestellt oder lizenziert verifiziert verwenden. Keine e
 
 Liefern Sie ein vollständiges ungepreistes Langtext-LV, die getrennte Planer-Bepreisung, belegte Mengenermittlung, Kostenüberleitung, Vergabeterminplan und ein verwendbares Anlagenverzeichnis im beauftragten Umfang. Begleitbrief und Entscheidungsvorlage sind ausformuliert. Interne Preisquellen, Rechtsrecherche und verbleibende Freigabepunkte gehören in die interne Übergabe, nicht ungeprüft in den Bieterdatensatz.
 
-Ausformulierungspflicht: Keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als bestelltes Endprodukt. Fachübliche Mengenfelder sind zulässig; Langtexte müssen den Gegenstand tatsächlich beschreiben. Formatstandard: Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute/ß, Paragraf ausgeschrieben. Keine behauptete technische Freigabe, Veröffentlichung oder externe Handlung.
+Ausformulierungspflicht: Keine Skelette, Halbsätze oder reine Aufzählungs-Auswürfe als bestelltes Endprodukt. Fachübliche Mengenfelder sind zulässig; Langtexte müssen den Gegenstand tatsächlich beschreiben. Formatstandard: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt soweit technisch möglich, ausschließlich dezimale Gliederung mit Leerzeilen, echte Umlaute/ß, Paragraf ausgeschrieben. Keine behauptete technische Freigabe, Veröffentlichung oder externe Handlung.
 
 ## 6. Beispiele
 

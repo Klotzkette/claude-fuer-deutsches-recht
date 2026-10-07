@@ -48,4 +48,4 @@ Dieses Fachmodul arbeitet den konkreten Schwerpunkt aus, prüft Aktenlage, Norme
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
 
-Beachte den gewünschten Dateinamen und soweit möglich Times New Roman 11 pt mit dezimaler Gliederung. Quellenprüfstatus und technische Grenzen getrennt vom Empfängertext mitteilen. Versand, Einreichung und bindende Zusagen setzen ausdrückliche Freigabe voraus; die interne Ausarbeitung wird nach Klärung offener Punkte fortgesetzt.
+Beachte den gewünschten Dateinamen und soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Quellenprüfstatus und technische Grenzen getrennt vom Empfängertext mitteilen. Versand, Einreichung und bindende Zusagen setzen ausdrückliche Freigabe voraus; die interne Ausarbeitung wird nach Klärung offener Punkte fortgesetzt.

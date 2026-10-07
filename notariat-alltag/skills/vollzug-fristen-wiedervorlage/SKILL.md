@@ -41,7 +41,7 @@ Je nach Vorgang [GBO Paragraf 18](https://www.gesetze-im-internet.de/gbo/__18.ht
 
 ## 5. Ausgabeformat
 
-Das bestellte Nachforderungsschreiben, die Abschlussmitteilung oder der Vorlagevermerk steht vollständig ausformuliert im Vordergrund. Eine knappe interne Wiedervorlage ergänzt ihn nur bei Bedarf. Times New Roman 11 pt und dezimale Gliederung; keine fingierte Zahlung, Eintragung oder Freigabe.
+Das bestellte Nachforderungsschreiben, die Abschlussmitteilung oder der Vorlagevermerk steht vollständig ausformuliert im Vordergrund. Eine knappe interne Wiedervorlage ergänzt ihn nur bei Bedarf. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung; keine fingierte Zahlung, Eintragung oder Freigabe.
 
 ## 6. Beispiel
 

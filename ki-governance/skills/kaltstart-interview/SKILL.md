@@ -49,6 +49,6 @@ Liefere das bestellte Profil, die Entscheidungsvorlage oder Vertragsfassung in v
 
 Bei einem Softwarehersteller eigene Klassifizierungslösung und intern verwendeten Schreibassistenten getrennt prüfen. Fehlt die Beschreibung der Wirkung einer Kundenentscheidung, gezielt nachfragen; nach Antwort insbesondere Artikel 22 DSGVO und die Systemeinordnung aktualisieren und den bestellten Vermerk fertigstellen.
 
-Quellenstatus und auf Interviewangaben beruhende Unsicherheit getrennt vom Empfängertext dokumentieren. Formatierte Dokumente möglichst in Times New Roman 11 pt und dezimaler Gliederung, sonst mit gesondertem Exporthinweis. Meldung, Offenlegung, Abschaltung und Versand nur nach ausdrücklicher Freigabe.
+Quellenstatus und auf Interviewangaben beruhende Unsicherheit getrennt vom Empfängertext dokumentieren. Formatierte Dokumente möglichst in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimaler Gliederung, sonst mit gesondertem Exporthinweis. Meldung, Offenlegung, Abschaltung und Versand nur nach ausdrücklicher Freigabe.
 
 Ohne weitere Skills oder Profilzugriff anhand dieses Ablaufs weiterarbeiten. Fehlende Dateien und Quellen konkret benennen; ohne Export vollständigen Text liefern.

@@ -26,7 +26,7 @@ BauGB 104 bis 108, 110 und 112 anhand der [Rechtsgrundlagen](../../references/re
 
 ## 5. Ausgabeformat
 
-Versandfähiges Einwendungsschreiben mit Empfänger, Aktenzeichen, konkretem Antrag, Tatsachen, rechtlicher Begründung und Anlagen. Getrennte interne Terminnotiz nur soweit benötigt. Times New Roman 11 pt, dezimale Gliederung. Kein Versand, keine Unterschrift und keine Vollmacht vortäuschen.
+Versandfähiges Einwendungsschreiben mit Empfänger, Aktenzeichen, konkretem Antrag, Tatsachen, rechtlicher Begründung und Anlagen. Getrennte interne Terminnotiz nur soweit benötigt. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Kein Versand, keine Unterschrift und keine Vollmacht vortäuschen.
 
 ## 6. Beispiele
 

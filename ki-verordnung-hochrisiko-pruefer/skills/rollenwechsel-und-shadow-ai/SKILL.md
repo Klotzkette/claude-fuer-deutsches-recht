@@ -35,7 +35,7 @@ Artikel 3, 6 und 25 sowie der aktuelle Änderungsstand sind über [Rechtsstand u
 
 ## 5 Ausgabeformat
 
-Liefere einen begründeten Rollenvermerk und die bestellte, direkt verwendbare interne Weisung oder Lieferantenkorrespondenz. Tatsachen, offene Fragen und Rechtsfolgen stehen im richtigen Empfängerdokument, nicht in einem unkommentierten Logdump. Das Endprodukt besteht aus vollständig ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Exporthinweis getrennt vom Empfängertext geben. Kein Versand, keine Meldung und keine produktive Systemänderung ohne Auftrag.
+Liefere einen begründeten Rollenvermerk und die bestellte, direkt verwendbare interne Weisung oder Lieferantenkorrespondenz. Tatsachen, offene Fragen und Rechtsfolgen stehen im richtigen Empfängerdokument, nicht in einem unkommentierten Logdump. Das Endprodukt besteht aus vollständig ausformulierten Sätzen; Skelette, Halbsätze und reine Aufzählungen sind verboten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung mit Leerzeilen. Bei reiner Textausgabe den Exporthinweis getrennt vom Empfängertext geben. Kein Versand, keine Meldung und keine produktive Systemänderung ohne Auftrag.
 
 ## 6 Beispiele
 

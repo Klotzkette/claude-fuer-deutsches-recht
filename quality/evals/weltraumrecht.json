@@ -35,9 +35,10 @@
     "changes": [
       "Leere Eingabe führt zu Behördenschreiben, Startvertragsänderung oder Haftungsvermerk; Dateien ohne Aufgabe werden still gelesen.",
       "Startplatzwechsel und Ersatzstart oder Rückzahlung verändern Staatenprüfung, Klauseln und Anlagen.",
-      "Allgemeine Wiederholungen gekürzt; Eutelsat, Staatenrollen und besondere Missionsabgrenzungen erhalten."
+      "Allgemeine Wiederholungen gekürzt; Eutelsat, Staatenrollen und besondere Missionsabgrenzungen erhalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5a86866d7c210cd684a39ab968ee23e917189909218d5f3d7d0f6f88f134ba23",
+    "sha256": "b1c98b7bcbacc3cc9dcecfd621fbbce0e088a7e2a2a299002e5609d3b23f7c27",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },
@@ -47,9 +48,10 @@
     "changes": [
       "Konfigurationswechsel bis zum geänderten Behördenschreiben und zur Vertragsanlage ausgearbeitet.",
       "Verzögerungsursache, belastende Mitwirkungstatsachen und wirtschaftliche Wahl zwischen Ersatzstart und Rückzahlung verknüpft.",
-      "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg."
+      "Warnungs- und Manöverdaten ändern Verschuldensvortrag; Artikel X und XI steuern Fristen und Anspruchsweg.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "92375761ce2c8d3da9d68ea5a11aa0b39637222ac3454b2feec41d2eef19644a",
+    "sha256": "ff6b9459e554794dd6a859f58c4d8254dfd7c0989389d2e33cdd92cb126f4c14",
     "method": "desk_review",
     "reviewed_on": "2026-09-23"
   },

@@ -59,4 +59,4 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## Ausgabe und Grenzen
 
-Vollständige Sätze und dezimale Gliederung verwenden; Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Keine Beschlussfassung, Einreichung, Erklärung oder Zahlung eigenmächtig veranlassen.
+Vollständige Sätze und dezimale Gliederung verwenden; Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt beim Export, sonst entsprechender Exporthinweis. Quellenstatus und technische Grenzen getrennt vom Empfängertext dokumentieren. Keine Beschlussfassung, Einreichung, Erklärung oder Zahlung eigenmächtig veranlassen.

@@ -129,7 +129,7 @@
     }
   ],
   "mini_review": {
-    "sha256": "de026bb29a09b5edd84d7c0e32c9b648e77bfc9d958a420c1ba875dc501436c6",
+    "sha256": "a0819b97f9ce3b385b349e3afbb9033e4a33b66e05f4dfee3e255915a3b96a18",
     "verdict": "revised",
     "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
     "changes": [
@@ -142,11 +142,12 @@
       "Belegreichweite nach Zeitraum, persönlichem Anteil und Bewertungsmerkmal; getrennte Abwehr einer Abwertung und weitergehende Aufwertung.",
       "Abhilfeziel und Formulierungsvorschlag getrennt; gleichwertige Korrektur und tatsächlich erteiltes Zeugnis kontrollieren.",
       "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
-      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen."
+      "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "workshop_review": {
-    "sha256": "4c9b0cf46627bfdd113a98f1041ee3bc8c82c10b76a9fff8712f962723f5fe0d",
+    "sha256": "7207fb12ea9d28b3abc57f62848a0046082ad950998173ec84021027215883b9",
     "verdict": "revised",
     "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
     "changes": [
@@ -164,7 +165,8 @@
       "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
       "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
       "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
-      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen."
+      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ]
   },
   "selection": {

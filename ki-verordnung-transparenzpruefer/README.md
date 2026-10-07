@@ -62,7 +62,7 @@ Jede Akte ist getrennt als lesbares Gesamt-PDF, ZIP mit Originaldateien und ZIP 
 
 | Akte | Gesamt-PDF | Originaldateien | Einzel-PDFs |
 | --- | --- | --- | --- |
-| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
+| [digitale Systeme Kommunikation einer Mainzer Kanzlei](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/README.md) | [Gesamt-PDF](../testakten/ki-transparenz-kanzlei-kommunikation-mainz/gesamt-pdf/ki-transparenz-kanzlei-kommunikation-mainz_gesamt.pdf) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.34.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz.zip) | [`testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.34.0/testakte-ki-transparenz-kanzlei-kommunikation-mainz-einzelpdfs.zip) |
 
 [Alle Testakten und Fachzuordnungen](../testakten/README.md)
 <!-- END direkt-loslegen (autogen) -->
@@ -94,7 +94,7 @@ English: All eight skills and both standalone prompts incorporate the final Comm
 
 „Lies meinen Projektordner und erstelle eine Veröffentlichungsempfehlung für den Artikel mit Bild und Chat“ ist ein passender Start. Sind nur Dateien vorhanden, wird erst das gewünschte Ergebnis geklärt. Eine gezielte Frage zur Telefonbegrüßung löst kein vollständiges Kanzleiaudit aus. Nachgereichte Unterlagen werden im bestehenden Ergebnis verarbeitet. Veröffentlichungen, Versand und Systemeinstellungen werden nicht stillschweigend ausgeführt.
 
-DOCX-Endfassungen verwenden Times New Roman 11 pt und dezimale Gliederung. Gesetz, unverbindliche Leitlinien, freiwilliger Kodex und bloße Reformvorschläge bleiben getrennt. Der seit Juli 2026 geltende AI Omnibus ist keine allgemeine Verschiebung der Transparenzpflichten. Die Anbieterfrist für technische Markierung ersetzt keine Betreiberprüfung. Ein menschlich geprüfter Text ist kein Freibrief für Deepfakes.
+DOCX-Endfassungen verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung. Gesetz, unverbindliche Leitlinien, freiwilliger Kodex und bloße Reformvorschläge bleiben getrennt. Der seit Juli 2026 geltende AI Omnibus ist keine allgemeine Verschiebung der Transparenzpflichten. Die Anbieterfrist für technische Markierung ersetzt keine Betreiberprüfung. Ein menschlich geprüfter Text ist kein Freibrief für Deepfakes.
 
 ## 4. Fallakte und Qualität
 

@@ -29,7 +29,7 @@ Paragrafen 155 bis 160, 163 bis 165, 168, 169, 171 bis 173, 176, 178 und 187 GWB
 
 ## 5. Ausgabeformat und Übergabe
 
-Liefere ausformulierte Stellungnahme bzw. Schriftsatzentwurf, Anlagenverzeichnis, Geheimhaltungsfassung und eine kurze gesonderte Handlungsnotiz. Times New Roman 11 pt, dezimale Gliederung. Unterzeichnung, Vertretung und elektronischer Einreichungsweg werden konkret geprüft, keine automatische Einreichung. Übergib an `sektorenvergabe-steuern` und gegebenenfalls `zuschlag-und-stillhaltefrist-sichern`: Entscheidungstenor, Bekanntgabe/Zustellung, Rechtsstand, laufende Fristen, Sperren und den genau zulässigen nächsten Schritt.
+Liefere ausformulierte Stellungnahme bzw. Schriftsatzentwurf, Anlagenverzeichnis, Geheimhaltungsfassung und eine kurze gesonderte Handlungsnotiz. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Unterzeichnung, Vertretung und elektronischer Einreichungsweg werden konkret geprüft, keine automatische Einreichung. Übergib an `sektorenvergabe-steuern` und gegebenenfalls `zuschlag-und-stillhaltefrist-sichern`: Entscheidungstenor, Bekanntgabe/Zustellung, Rechtsstand, laufende Fristen, Sperren und den genau zulässigen nächsten Schritt.
 
 ## 6. Beispiel
 

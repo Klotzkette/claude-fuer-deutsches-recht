@@ -27,7 +27,7 @@ Paragrafen 546, 574a und 779 BGB; Paragrafen 721 und 765a ZPO. BGH, Beschluss vo
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Brief oder Vereinbarungsentwurf mit konkreten Pflichten, Daten und Bedingungen. Keine Stichwortvereinbarung. Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Interne Risikohinweise nicht in den Empfängertext mischen.
+Vollständig ausformulierter Brief oder Vereinbarungsentwurf mit konkreten Pflichten, Daten und Bedingungen. Keine Stichwortvereinbarung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung, soweit möglich. Interne Risikohinweise nicht in den Empfängertext mischen.
 
 ## 6. Beispiel
 

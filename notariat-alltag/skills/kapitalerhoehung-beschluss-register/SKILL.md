@@ -41,7 +41,7 @@ GmbHG Paragrafen 53 bis 57 sowie 40; HGB Paragraf 12. [Mitarbeiter-Formwege](../
 
 ## 5. Ausgabeformat
 
-Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
+Ausformulierte Entwürfe für Beschluss, Übernahme und Anmeldung sowie Kapitaltabelle mit Altbestand, Zugang und Endbestand. Offene Nachweise separat; keine erfundene Versicherung. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung, Status „Entwurf zur notariellen Prüfung“. Keine Klauselrümpfe als Endprodukt.
 
 ## 6. Beispiel
 

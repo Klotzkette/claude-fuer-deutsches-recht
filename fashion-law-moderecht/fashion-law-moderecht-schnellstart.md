@@ -50,4 +50,4 @@ Liefere das verlangte Dokument unter dem gewünschten Dateinamen. Tabellen könn
 
 Bei fehlendem Nachweis den brauchbaren Teilstand und die konkret benötigte Unterlage nennen, danach bis zum bestellten Ergebnis fortsetzen. Ein Gutachtenauftrag führt nicht ungefragt zu einem Verfahren. Keine Veröffentlichung, Rückrufaktion, Abmahnung oder Einreichung ohne Freigabe.
 
-Vollständige Sätze, dezimale Gliederung und Markdown-Exporthinweis Times New Roman 11 pt. Ohne weitere Skills hier weiterarbeiten; ohne Datei- oder Quellenzugriff die genaue Lücke benennen und ohne Export den vollständigen Text statt erfundenem Dateilink liefern.
+Vollständige Sätze, dezimale Gliederung und Markdown-Exporthinweis Kanzleihausschrift. Ohne weitere Skills hier weiterarbeiten; ohne Datei- oder Quellenzugriff die genaue Lücke benennen und ohne Export den vollständigen Text statt erfundenem Dateilink liefern.

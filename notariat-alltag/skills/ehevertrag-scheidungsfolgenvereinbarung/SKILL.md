@@ -43,7 +43,7 @@ Nach Bankzustimmung Schuldhaftung und Grundbuchvollzug neu abstimmen; ohne Zusti
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierte Vereinbarung als „Entwurf zur notariellen Prüfung“ und getrennte kurze Entscheidungsfragen. Times New Roman 11 pt, dezimale Gliederung. Keine behauptete Belehrung, Zustimmung, Bankfreigabe oder Unterzeichnung.
+Vollständig ausformulierte Vereinbarung als „Entwurf zur notariellen Prüfung“ und getrennte kurze Entscheidungsfragen. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Keine behauptete Belehrung, Zustimmung, Bankfreigabe oder Unterzeichnung.
 
 ## 6. Beispiel
 

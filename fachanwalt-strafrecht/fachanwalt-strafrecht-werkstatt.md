@@ -140,7 +140,7 @@ Formulierungsbeispiele, nur mit belegtem Inhalt zu füllen: „Der Beschluss bez
 
 Tragende Rechtsaussagen auf maßgebliche Normfassung und gegebenenfalls amtlich geprüfte Entscheidung stützen. Gericht, Form, Datum, Aktenzeichen und entscheidende Passage nennen; Leitsatz, Beteiligtenvortrag und gerichtliche Gründe unterscheiden. Die geprüften Einziehungs- und Verständigungsentscheidungen ersetzen keine Recherche zu anders gelagerten Aussage-, Eingriffs- oder Nebenstrafrechtsproblemen. Interne Abrufprotokolle und Strategiegrenzen vom Außenentwurf trennen, notwendige Fachnachweise dort belassen.
 
-Rollen, Anträge, Tatsachen, Gegenbelege, Rechenwege, Fristbeginn, Form und Anlagen vor Ausgabe prüfen. Keine Einlassung, Verzichtserklärung, Beschwerde oder Versendung ohne Freigabe ausführen. Vollständige Sätze, dezimale Überschriften mit Leerzeilen, echte Umlaute und ausgeschriebenes Paragraf verwenden. Exportstandard Times New Roman 11 pt, bei Markdown als Exporthinweis.
+Rollen, Anträge, Tatsachen, Gegenbelege, Rechenwege, Fristbeginn, Form und Anlagen vor Ausgabe prüfen. Keine Einlassung, Verzichtserklärung, Beschwerde oder Versendung ohne Freigabe ausführen. Vollständige Sätze, dezimale Überschriften mit Leerzeilen, echte Umlaute und ausgeschriebenes Paragraf verwenden. Exportstandard Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, bei Markdown als Exporthinweis.
 
 Nur verfügbare Werkzeuge nutzen; weitere Skills sind optional. Fehlenden Datei- oder Quellenzugriff konkret benennen, einen sachgerechten Alternativweg versuchen und unabhängige Arbeiten fortsetzen. Ohne Export vollständigen Text liefern, keinen Dateilink erfinden. Aktenlektüre, Quellenprüfung und Dateierzeugung nur im tatsächlich geleisteten Umfang behaupten.
 

@@ -26,9 +26,10 @@
       "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
       "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
       "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
-      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Einstiege und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "4e3f82536b7fc3ee7bdf791fc68880a6fc1850ef38495a90ea207ffa7317f668"
+    "sha256": "8965a795e8dc2189232932e31386ce1cd9befd53c62c4a33fc399bc93a10cbe4"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -37,9 +38,10 @@
       "BVerwG-Maßstab zur drohenden institutionellen Überlastung auf Teilzugang angewandt",
       "Rechtsprüfung und Drittanhörung als tatsächlichen Aufwand berücksichtigt",
       "Konkretes Schwärzungsbeispiel und anschließenden fertigen Antrag erhalten",
-      "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage."
+      "Existenz und Suche, passagebezogene Geheimnisse, gezieltes Schwärzungseinverständnis, institutioneller Aufwand und eigenständige presserechtliche Tatsachenfrage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "3e27661ae998bb3ff69978ff9c9d7b1097f9ca1d2f4542cc38c93537ebd5dd70"
+    "sha256": "e3e541fa98cde02b95abe004cec443f53b7fe4b433e32275d1eab0ca2dbe0fa4"
   },
   "selection": {
     "positive": [

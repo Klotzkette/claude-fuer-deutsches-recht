@@ -36,9 +36,10 @@
       "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
       "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
-      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "358d6e1b2a0c635b3f0cbd86a5a93c583702b630f4b547e9e1431ca79bffb5d7",
+    "sha256": "e254d1e6aef1e3c3d69430ae3f0f24c3901425d68a184e7c562872619d1e8309",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -49,9 +50,10 @@
       "VI ZR 107/08 auf konstruktive Robotersicherheit übertragen und als Airbag-Ausgangsfall begrenzt.",
       "Paragraf 3 BetrSichV für betriebliche Gefährdungsbeurteilung und Aktualisierung ergänzt.",
       "UTC-Antwort -> gekennzeichnete Arbeitschronologie ändern; Resetwunsch -> Sicherungsschreiben und fachkundige Untersuchung abstimmen.",
-      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung."
+      "Gefahrenabwehr versus Beweiserhalt, Versionskausalität, überprüfbare Abnahmekriterien und fachkundige Wiederfreigabe nach Gefährdungsbeurteilung.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "dd9d72ac70c3711aeeafa733a145112dddaef415e917c6c31386b60683d20529",
+    "sha256": "6039cb05cbf4b9cd391fc5d0a9755e43c323a4d81efc5cc89100d34c2d3c729b",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

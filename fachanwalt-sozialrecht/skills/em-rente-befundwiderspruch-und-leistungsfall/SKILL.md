@@ -47,7 +47,7 @@ BSG, Urteil vom 11.12.2019, B 13 R 7/18 R, [amtlicher Volltext](https://www.bsg.
 
 Liefere das bestellte Dokument unter dem gewünschten Dateinamen; `ergebnis.md` gilt nur ohne Dateivorgabe. Füge Befundchronologie, Gegenüberstellung widersprüchlicher Aussagen, alternative Beitragsfenster und Gutachterfragen bei, soweit sie für den Auftrag erforderlich sind. Ein Mandantenbrief erläutert Ergebnis und Empfehlung; zusätzliche Recherchebelege und Quellenlücken stehen in einer getrennten Arbeitsnotiz.
 
-Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Times New Roman, 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
+Keine bloße Diagnosenliste oder Schriftsatzskelette. Vollständige Sätze, dezimale Gliederung, Paragraf ausgeschrieben, keine Doppelsterne im Fließtext. Exporthinweis: Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Fehlen Datei- oder Exportwerkzeuge, arbeite mit bereitgestellten Auszügen und liefere den vollständigen Text; benenne deren Aussagegrenzen, ohne fehlende Tatsachen zu ergänzen.
 
 ## 1.6. Beispiele
 

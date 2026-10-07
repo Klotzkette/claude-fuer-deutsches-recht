@@ -69,9 +69,10 @@
       "Jahresbericht nach Paragraf 1863 und Rechnungslegung nach Paragraf 1865 BGB getrennt; Dokumentenstart und Fortsetzung erhalten.",
       "Leer: Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht. Dateien: still lesen und passendes Betreuungsdokument anbieten. Klar: direkt bestelltes Schreiben oder Verzeichnis erstellen.",
       "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Beteiligungs- und Rechtsmittelgrenze im Mini."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Beteiligungs- und Rechtsmittelgrenze im Mini.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "41259f85a308650e8dcece276bd18d73a9467f914c5ec875ffb25bbff35715fa",
+    "sha256": "e7f0259274f76f82b1b58959e3aa6dd6d01df6fb150d78becef3b86d7d2538fc",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },
@@ -128,9 +129,10 @@
       "Unverifizierte BGH-Aktenzeichen entfernt; detaillierte Alltags- und Berichtswege beibehalten.",
       "Wohnungsanzeige und Genehmigung, Beschlussumfang, Interessenkonflikt, Kontenabgleich und wiedererlangte Selbstbesorgung vertieft.",
       "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Anhörungsteilnahme und Beschwerdeumfang."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Anhörungsteilnahme und Beschwerdeumfang.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "27d4d268cf763a531474367777da3df5d5b619f37637dff9c5fa6b73499127be",
+    "sha256": "0d3eeea4dc2918d6aa52a2027699221d27245a9817453f346d7773caa2f09318",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },

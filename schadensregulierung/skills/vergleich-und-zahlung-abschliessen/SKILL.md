@@ -29,7 +29,7 @@ Aktuelle Positionsrechnung, Haftungsvermerk, Deckungsstand, Vergleichsmandat, be
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Vergleich oder Zahlungs-/Ablehnungsbrief; daneben interne Freigabe mit offenen Sperren und eine Abschlussliste mit tatsächlichen Erledigungsnachweisen. Keine Klauselskelette. Soweit möglich Times New Roman 11 pt, dezimale Gliederung. Ohne Export Text liefern; ein fehlender Zahlungsnachweis darf nicht durch „erledigt“ ersetzt werden.
+Vollständig ausformulierter Vergleich oder Zahlungs-/Ablehnungsbrief; daneben interne Freigabe mit offenen Sperren und eine Abschlussliste mit tatsächlichen Erledigungsnachweisen. Keine Klauselskelette. Soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Ohne Export Text liefern; ein fehlender Zahlungsnachweis darf nicht durch „erledigt“ ersetzt werden.
 
 ## 6. Beispiel
 

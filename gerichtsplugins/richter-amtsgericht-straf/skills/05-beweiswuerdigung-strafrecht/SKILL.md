@@ -30,7 +30,7 @@ StGB, StPO, GVG, JGG, OWiG, BZRG, RVG
 
 ## Output
 
-Klares Votum je Tatbestandsmerkmal: zur Überzeugung des Gerichts erwiesen oder nicht, mit tragender Erwägung und der prozessualen Folge (Schuldspruch, Teilfreispruch, Freispruch). Die Beweiswürdigung wird in vollständig ausformulierten, rational nachprüfbaren Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Times New Roman 11 pt und dezimale Gliederung.
+Klares Votum je Tatbestandsmerkmal: zur Überzeugung des Gerichts erwiesen oder nicht, mit tragender Erwägung und der prozessualen Folge (Schuldspruch, Teilfreispruch, Freispruch). Die Beweiswürdigung wird in vollständig ausformulierten, rational nachprüfbaren Sätzen geliefert, nicht als Stichwortskelett; Markdown-Ausgaben tragen den Exporthinweis Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.
 
 ## Anker-Rechtsprechung
 

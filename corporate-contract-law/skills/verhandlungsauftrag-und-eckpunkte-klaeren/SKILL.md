@@ -29,7 +29,7 @@ Prüfen Sie bei Bindungsfragen Paragrafen 145 bis 154, 241 Absatz 2 und 311 Absa
 
 ## 5. Ausgabeformat
 
-Liefern Sie das bestellte Eckpunktepapier oder die Verhandlungsanweisung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Verwenden Sie soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Bei Markdown steht der Exporthinweis außerhalb des Empfängertextes. Offene Entscheidungen werden konkret benannt, nicht durch fiktive Zustimmungen geschlossen.
+Liefern Sie das bestellte Eckpunktepapier oder die Verhandlungsanweisung in vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten und vor Ausgabe neu zu formulieren. Verwenden Sie soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung, Leerzeilen und ausgeschriebenen „Paragraf“. Bei Markdown steht der Exporthinweis außerhalb des Empfängertextes. Offene Entscheidungen werden konkret benannt, nicht durch fiktive Zustimmungen geschlossen.
 
 ## 6. Beispiele
 

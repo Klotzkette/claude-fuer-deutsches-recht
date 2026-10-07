@@ -42,4 +42,4 @@ Liefere das verlangte Dokument mit der notwendigen Begründung und gegebenenfall
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
 
-Vollständige Sätze und dezimale Gliederung; beim Export Times New Roman 11 pt. Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Bei technischen Hindernissen unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.
+Vollständige Sätze und dezimale Gliederung; beim Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Nur zugängliche Unterlagen und Werkzeuge verwenden und fehlende Teile konkret benennen. Bei technischen Hindernissen unabhängige Teile weiterbearbeiten; ohne Export den vollständigen Text liefern und keine nicht erfolgte Prüfung behaupten.

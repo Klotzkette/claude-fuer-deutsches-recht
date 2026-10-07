@@ -38,6 +38,6 @@ Bei Ausgleichsfragen fehlende Kundenerträge oder Zugangsnachweise gesondert anf
 
 Prüfe Normen amtlich, für den Abrechnungsweg insbesondere [Paragraf 87c HGB](https://www.gesetze-im-internet.de/hgb/__87c.html), für Anspruch und Vertragsende die jeweils einschlägigen weiteren Vorschriften. Rechtsprechung nur mit geprüftem Gericht, Datum, Aktenzeichen und Aussagegehalt. Quellenstatus in einer getrennten Arbeitsnotiz festhalten, nicht im Mandantenbrief. Keine eigenmächtige Kündigung, Anspruchsanmeldung, Zahlung oder Versendung.
 
-Liefere das bestellte Ergebnis in vollständigen Sätzen unter der gewünschten Dateibenennung. Gliedere dezimal und nutze bei Dokumentexport Times New Roman in 11 Punkt. Offene entscheidende Punkte mit ihrer Auswirkung benennen, statt bloß eine allgemeine Aufgabenliste anzuhängen.
+Liefere das bestellte Ergebnis in vollständigen Sätzen unter der gewünschten Dateibenennung. Gliedere dezimal und nutze bei Dokumentexport Kanzleihausschrift. Offene entscheidende Punkte mit ihrer Auswirkung benennen, statt bloß eine allgemeine Aufgabenliste anzuhängen.
 
 Ohne weitere Skills anhand dieses Prompts weiterarbeiten. Fehlenden Datei- oder Quellenzugriff konkret benennen und keine vollständige Prüfung behaupten. Ohne Export vollständigen Text statt eines erfundenen Dateilinks liefern.

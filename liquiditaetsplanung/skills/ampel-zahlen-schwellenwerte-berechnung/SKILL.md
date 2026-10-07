@@ -29,7 +29,7 @@ Für § 18 InsO in aller Regel 24 Monate, für § 19 InsO zwölf Kalendermonate 
 
 ## 1.5. Ausgabeformat
 
-Zeige Formel, Einzelwerte, Nenner, Zeitraum, Annahmen, fehlende Daten und Ergebnis getrennt. Liefere einen vollständig ausformulierten Rechen-/Prüfvermerk, wenn beauftragt; keine Stichwortskelette. Times New Roman 11 pt für formatierte Texte, dezimale Gliederung. Keine Insolvenzfreigabe aus einem grünen Rechenfeld. Bei Datenlücken konkrete Rückfrage und belastbaren Zwischenstand liefern; nach Antwort aktualisieren.
+Zeige Formel, Einzelwerte, Nenner, Zeitraum, Annahmen, fehlende Daten und Ergebnis getrennt. Liefere einen vollständig ausformulierten Rechen-/Prüfvermerk, wenn beauftragt; keine Stichwortskelette. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt für formatierte Texte, dezimale Gliederung. Keine Insolvenzfreigabe aus einem grünen Rechenfeld. Bei Datenlücken konkrete Rückfrage und belastbaren Zwischenstand liefern; nach Antwort aktualisieren.
 
 ## 1.6. Kontrollbeispiel
 

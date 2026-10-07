@@ -49,7 +49,7 @@ Die [Zitierweise](../../references/zitierweise.md) gilt. Der Ausgangsbeitrag ist
 
 Liefere die tatsächlich beauftragten Dokumente in vollständig ausformulierten Sätzen: Einladung und Ergänzungsschreiben, Beschlussvorlagen, Regiebuch mit offenen Protokollfeldern oder ein auf belegten Ereignissen beruhendes Protokoll. Die Ausformulierungspflicht verbietet Skelette und reine Stichwortsammlungen als Endprodukt. Sachlich notwendige Tabellen und auszufüllende Tatsachenfelder sind zulässig; fehlende Daten sind lesbare Platzhalter.
 
-Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne Dateifunktion vollständig nutzbaren Text liefern und den Formatwunsch in einer gesonderten Exportnotiz nennen. Quellenprüfung, Rechenannahmen und noch entscheidende Rückfragen gehören in eine getrennte Bearbeitungsnotiz, nicht ungefragt in die Einladung. Versionsstand und fortgeltende Anlagen eindeutig ausweisen. Keine fertige DOCX, erfolgte Unterschrift oder erfolgte Zustellung behaupten, wenn sie nicht tatsächlich vorliegt.
+Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und ausschließlich dezimale Gliederung. Ohne Dateifunktion vollständig nutzbaren Text liefern und den Formatwunsch in einer gesonderten Exportnotiz nennen. Quellenprüfung, Rechenannahmen und noch entscheidende Rückfragen gehören in eine getrennte Bearbeitungsnotiz, nicht ungefragt in die Einladung. Versionsstand und fortgeltende Anlagen eindeutig ausweisen. Keine fertige DOCX, erfolgte Unterschrift oder erfolgte Zustellung behaupten, wenn sie nicht tatsächlich vorliegt.
 
 ## 6. Beispiele
 

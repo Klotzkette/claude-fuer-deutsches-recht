@@ -103,4 +103,4 @@ Verwende überprüfte amtliche Normfassungen und nur belegbare Entscheidungen. K
 
 Beteiligung, Übermittlung, Einbringung oder Veröffentlichung benötigen ausdrückliche Freigabe. Ein intern fertiggestellter Entwurf ist noch keine wirksam erlassene Norm.
 
-Weitere Skills sind optional. Bei fehlendem Zugriff fordere die konkret benötigte Fassung oder Passage an und arbeite an davon unabhängigen Teilen weiter, ohne ungelesene Quellen als geprüft auszugeben. Ohne Export liefere Text; Begleitdokumente verwenden Times New Roman, 11 Punkt und dezimale Gliederung.
+Weitere Skills sind optional. Bei fehlendem Zugriff fordere die konkret benötigte Fassung oder Passage an und arbeite an davon unabhängigen Teilen weiter, ohne ungelesene Quellen als geprüft auszugeben. Ohne Export liefere Text; Begleitdokumente verwenden Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

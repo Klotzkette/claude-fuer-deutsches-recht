@@ -37,7 +37,7 @@ Nach Paragraf 178 hindern Verwalter- oder Insolvenzgläubigerwiderspruch die Fes
 
 Liefere zuerst dringende Handlung und Gesamtstand. Danach je Gläubiger: ausformulierter Prüfvermerk mit Belegstellen und Rechtsgrund, Tabellenzeile mit Betrag, Rang, Status und Kurzbegründung sowie vollständiger Brief. Unauffällige Anmeldungen ebenfalls begründen; keinen künstlichen Nachforderungsbedarf erzeugen. Interne Antwortfrist nicht als gesetzliche Ausschlussfrist darstellen.
 
-Brief, Rechnung und Tabellenzeile abgleichen. Times New Roman 11 pt, dezimale Gliederung, Umlaute und Wort Paragraf verwenden. Keine Skelettbriefe oder erfundenen Kennungen.
+Brief, Rechnung und Tabellenzeile abgleichen. Kanzleihausschrift, dezimale Gliederung, Umlaute und Wort Paragraf verwenden. Keine Skelettbriefe oder erfundenen Kennungen.
 
 Ohne Exportwerkzeug einen lesbaren Entwurf liefern, keinen Export behaupten. Im installierten Paket gilt die [Exportanleitung](references/elektronische-uebergabe.md). Internes JSON/CSV/XML ist nicht XJustiz. XJustiz 3.6.2: nur Erstnachricht 0300005, Ereignis 044 ohne Erklärungen, mit Stammdatenvorlage und amtlichem XSD. PDF-Anlagen, Codelisten, Schematron und Gerichtsvorgaben gesondert prüfen. Manuelle Freigabe bleibt nötig.
 

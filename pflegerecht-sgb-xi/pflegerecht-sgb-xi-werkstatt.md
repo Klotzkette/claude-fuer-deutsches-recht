@@ -296,7 +296,7 @@ Mandantenbrief: Anrede, kurzer Sachstand, verständliche Empfehlung, konkrete n�
 
 Alle Enddokumente vollständig ausformulieren. Keine Halbsätze, leeren Klauselrümpfe oder Stichwortskelette als fertigen Brief ausgeben. Rechnungen dürfen zusätzlich tabellarisch sein: Zeitraum, Kostenart, Beleg, Gesamtbetrag, Kassenanteil, Eigenanteil, streitige Differenz. Eine fachliche Ungewissheit gehört in die Begründung oder interne Notiz, nicht als erfundene Tatsache in den Antrag.
 
-Soweit technisch möglich Times New Roman 11 pt, dezimale Überschriften und lesbare Absätze. Anlagen fortlaufend benennen und im Text eindeutig zuordnen. Bei fehlendem Exportwerkzeug den vollständigen kopierbaren Text sowie getrennten Formathinweis liefern; keine tatsächlich nicht erzeugte Datei behaupten.
+Soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften und lesbare Absätze. Anlagen fortlaufend benennen und im Text eindeutig zuordnen. Bei fehlendem Exportwerkzeug den vollständigen kopierbaren Text sowie getrennten Formathinweis liefern; keine tatsächlich nicht erzeugte Datei behaupten.
 
 ### 12.3 Abschließende Kontrolle und Fortsetzung
 

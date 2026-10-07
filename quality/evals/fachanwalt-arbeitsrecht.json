@@ -143,9 +143,10 @@
       "Generischen Kernauftrag samt wiederholter Rollenbeschreibung nach dem fachlichen Einstieg entfernt.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
       "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
-      "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt."
+      "Zwei aktuelle 2026-Anker im Mini vollständig verlinkt; vorhandene Werkstatt-/Annahmeverzugsanker frisch nachgeprüft, Teilzeitrechnung im Entgeltskill ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "c6cdee2b09de72275ac1189dc0e0ea952a81d2086fb7789798c6957cec41ed1d",
+    "sha256": "521a2569c898184694ba91fb0bdd674ddf0636ff1509d9f70fd84bd10c4dede0",
     "reviewed_on": "2026-10-01",
     "method": "desk_review"
   },
@@ -158,12 +159,13 @@
       "Werkstatt nach konkreten Anspruchs- und Verfahrenslagen neu gefasst; Hauptproblem trennt Freistellung vor Vertragsende von Zwischenverdienst nach Entlassung.",
       "Konkreten Einstieg und Anwendung samt Grenzen des Entscheidungsankers im Hauptproblem ergänzt; zugeordneten Skill unverändert gelassen.",
       "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
-      "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert."
+      "25.09.2026: Zitierdatum des Fokus-Skills für 5 AZR 347/21 anhand amtlicher Metadaten auf 09.02.2022 korrigiert; Anspruchs- und Berechnungsmethode unverändert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-arbeitsrecht/fachanwalt-arbeitsrecht-hauptproblem.md",
-    "prompt_sha256": "050dedb1b76e97dce77052749e9d9c1f0e49a551b3153b0d1bbcd1d28693db4e",
+    "prompt_sha256": "8909f54e3ea6ea696d45ecf89dcda1649a7aaf59c0c2c5b020798e5c695fd73a",
     "skill_path": "fachanwalt-arbeitsrecht/skills/annahmeverzugslohn-zeitraeume-und-anrechnung/SKILL.md",
-    "skill_sha256": "d5d857ca9d91a2d19589243edb189b6c3addebacad653d770395138695f4d6a5"
+    "skill_sha256": "e0f2d4d8865dbed7130cb83668476c4f0dbc7f598ea2148fe1be70a7d3967fe0"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -176,9 +178,10 @@
       "Ermächtigungsnachweis einzelner GmbH-Aufsichtsratsmitglieder nach 2 AZR 130/25 einschließlich Satzung, Kenntnisgabe und unverzüglicher Zurückweisung konkretisiert.",
       "Jede weitere Kündigung mit eigener Frist, Beteiligungsnachweise, periodenbezogene Arbeitsfähigkeit und Freistellung, Zwischenverdienst und Sozialleistungsübergang sowie Arbeitszeit- und Bonusklauseln.",
       "25.09.2026: Vier amtlich nachgelesene Anker zu Abbedingung, Gesamtberechnung, Auskunft und sekundärer Darlegung in die eigenständige Werkstatt aufgenommen; Datum 5 AZR 347/21 auf 09.02.2022 korrigiert. 5 AZR 37/25 bleibt ausdrücklich Pressemitteilung, ohne Randnummern.",
-      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert."
+      "30.09.2026: Teilzeit-Zuschläge und AGG-Verdienstausfallschaden anhand konkreter BAG-Entscheidungen 2026 ergänzt; Indizienbeweis im Fachskill korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "a5d1d61fd3e525c38d2c45678fb35f479f79d310a35456519b722532a3499428"
+    "sha256": "383b47655576038359b06aa32a4e138f4a79cb8376f7a8c4251a1268f33308fb"
   },
   "selection": {
     "positive": [

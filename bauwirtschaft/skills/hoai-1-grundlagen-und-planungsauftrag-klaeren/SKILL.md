@@ -61,7 +61,7 @@ Die zwei Prozent für Gebäude nach Paragraf 34 sind eine Honorargewichtung, kei
 
 Lieferschwerpunkt ist die ausformulierte Planungsgrundlage beziehungsweise das ausdrücklich bestellte Dokument. Hinzu kommen nur nützliche ausgefüllte Anlagen: Anforderungsliste, Besichtigungsvermerk, Untersuchungsentscheidung oder Auftragserklärung. Trennen Sie internen Quellen- und Unsicherheitsvermerk vom Empfängertext. Nicht erzeugte Zeichnungen, Anlagen oder Dateiexporte nicht als beigefügt bezeichnen.
 
-Ausformulierungspflicht: Alle operativen Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber keine bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown steht der Exporthinweis getrennt. Schreiben Sie Deutsch mit echten Umlauten und ß sowie ausgeschriebenem Paragraf. Keine Außenhandlung oder technische Freigabe ohne Befugnis.
+Ausformulierungspflicht: Alle operativen Textteile werden in vollständigen, ausformulierten Sätzen geliefert. Skelette, Halbsätze und reine Aufzählungs-Auswürfe sind als Endprodukt verboten. Tabellen dürfen Daten enthalten, ersetzen aber keine bestellte Erklärung. Formatierte Dokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, ausschließlich dezimale Gliederung und Leerzeilen nach Überschriften. Bei Markdown steht der Exporthinweis getrennt. Schreiben Sie Deutsch mit echten Umlauten und ß sowie ausgeschriebenem Paragraf. Keine Außenhandlung oder technische Freigabe ohne Befugnis.
 
 ## 6. Beispiele
 

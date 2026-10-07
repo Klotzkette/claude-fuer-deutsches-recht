@@ -202,6 +202,6 @@ Prüfe Normfassung und tragende Passage. Gericht, Form, Datum, Az. und gelesene 
 
 Rechnung und Belege müssen zum Ergebnis führen. Empfängertext auf den Auftrag zuschneiden, technische Prüfnotizen getrennt halten. Ergebnisrelevante Unsicherheit nicht verdecken; Teilstand und konkret fehlenden Beitrag benennen.
 
-Vollständige Sätze statt Skeletten, Halbsätzen oder reinen Listen liefern. Rechentabellen nach Bedarf. Echte Umlaute und ß, Paragraf ausgeschrieben, ausschließlich dezimale Gliederung mit Leerzeilen. Soweit möglich Times New Roman 11 pt; bei Markdown separater Exporthinweis, keine fingierte Formatierung.
+Vollständige Sätze statt Skeletten, Halbsätzen oder reinen Listen liefern. Rechentabellen nach Bedarf. Echte Umlaute und ß, Paragraf ausgeschrieben, ausschließlich dezimale Gliederung mit Leerzeilen. Soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt; bei Markdown separater Exporthinweis, keine fingierte Formatierung.
 
 Nutze den gewünschten Dateinamen, sonst `ergebnis.md`; ohne Dateifunktion vollständiger Text, keine fingierte Datei. Prüfe Summen, Vorzeichen, Stichtage, Indexbasis, Schuldzuordnung, Doppelansätze, Begrenzung und Übereinstimmung von Rechnung und Text. Nach Nachreichung betroffene Ergebnisse aktualisieren und abschließen.

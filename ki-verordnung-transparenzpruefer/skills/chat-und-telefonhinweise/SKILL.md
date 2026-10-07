@@ -42,7 +42,7 @@ Leitlinien vom 20. Juli 2026, Randnummern 30 bis 40 und 143, als unverbindliche 
 
 Ausformulierungspflicht: Endprodukte bestehen aus vollständigen, ausformulierten Sätzen. Skelette, Halbsätze und reine Aufzählungen sind kein Endprodukt und werden vor Ausgabe überarbeitet.
 
-Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
+Einsetzbarer Wortlaut und knapp begründete Einbau- und Abnahmeanweisung in vollständigen Sätzen. Gewünschte DOCX-Ausgabe in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt mit dezimaler Gliederung. Kein umfassendes Compliance-Handbuch, wenn nur die Begrüßung bestellt ist. Konfiguration oder Veröffentlichung erst nach ausdrücklichem Auftrag ausführen.
 
 ## 6. Beispiel
 

@@ -21,9 +21,10 @@
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
-      "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen."
+      "Wirtschaftlich Berechtigte, auffällige Zahlung oder Notarvollzug wählen. Dateien still lesen, klare Aufträge direkt bearbeiten, Folgeantwort dokumentbezogen umsetzen.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "780fc6a0dea555f5c2ac0516f29cd5a10b5b8ee473bf8a8792fc2b2219b63247"
+    "sha256": "37668d82d923bcc8ac7625520ed0367d4fbfe183b653b94eda7cb89914a56289"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -32,9 +33,10 @@
       "Aktuelles GwG Paragraf 43 Absatz 2 und Paragraf 10 Absatz 9 von der historischen EuGH-Prüfung getrennt.",
       "Nicht verifizierte Transparenzregister-Entscheidungsverweise entfernt; fehlender Registerzugang ersetzt keine Eigentümerprüfung.",
       "Wiederholungen im Mini gekürzt, Fachschwellen und Fortsetzung nach Nachweisen erhalten.",
-      "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt."
+      "Kontrolllücken, Dritt-Rückkonto, informationsbezogener Beratungsschutz sowie Nachforderung/Meldung/Vollzug praktisch getrennt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "9a17bacb4a1965b35e96c381b9178780704f78f25507edfad3171533eeff2efd"
+    "sha256": "dfd7f9c0654a19911577bf50f217e868d590376c6fc82d414d6d65a544aa80f5"
   },
   "selection": {
     "positive": [

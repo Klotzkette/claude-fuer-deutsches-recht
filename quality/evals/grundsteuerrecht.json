@@ -41,9 +41,10 @@
       "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
-      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt."
+      "Eigenständige Starts und fachbezogene Antwortfortsetzung ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "21726e9b7270872aa82a18f616bd81719d33ecffb2915f48f06ff7647e1f9c3b"
+    "sha256": "d9dbde826ee259e45dfdfa2a961399ad404bc83ea83961a13e836396af4c5db8"
   },
   "selection": {
     "positive": [
@@ -96,9 +97,10 @@
       "II R 3/25 an einen konkreten Ermittlungs- oder Methodenfehler des Bodenrichtwerts gebunden statt pauschaler Verfassungsrüge.",
       "II B 78/23 und II R 26/24 mit Verfahrensstufe, Gebäudesubstanz und Modellgrenzen erklärt.",
       "Amtlichen Stand anhängiger Verfassungsbeschwerden geprüft und nicht als erfolgreiche Entscheidung dargestellt.",
-      "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag."
+      "Flächengrößen und richtige Bescheidstufe, Stichtagsbezug eines Kaufpreises, Zahlungszuordnung, begrenzte Aussetzung und unterschriftsreifer Antrag.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "15c01429aa9f81d91515ee438ebe9dc1926a73a0c5aa66916a609dca38460f33"
+    "sha256": "a0b200202ecb5a0a5ae68be2e6f910a77607ec09432a5919cb257af0e86798d7"
   },
   "prompt_editorial_review": {
     "date": "2026-09-22",

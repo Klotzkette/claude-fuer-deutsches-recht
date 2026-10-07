@@ -37,7 +37,7 @@ BFH, Beschluss vom 27.05.2024, II B 78/23 (AdV): einzelfallbezogene Öffnung bei
 
 ## 5. Ausgabeformat
 
-Lieferung: Schwellenrechnung, Nachweislücken und vollständiger Gutachteranfrage- oder Behördenentwurf mit belegtem Sachverhalt. Ausformulierte Sätze, keine Musterlösung ohne Beweise. Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis. Ein nicht beschafftes Gutachten bleibt ausdrücklich offen.
+Lieferung: Schwellenrechnung, Nachweislücken und vollständiger Gutachteranfrage- oder Behördenentwurf mit belegtem Sachverhalt. Ausformulierte Sätze, keine Musterlösung ohne Beweise. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung oder entsprechender Exporthinweis. Ein nicht beschafftes Gutachten bleibt ausdrücklich offen.
 
 ## 6. Beispiele
 

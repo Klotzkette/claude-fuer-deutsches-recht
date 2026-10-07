@@ -38,6 +38,6 @@ Fehlende Schiffsidentität, Rechtswahl, Containeraufstellung oder Gewichtsangabe
 
 Amtliche Normen und einschlägige Übereinkommen in geltender Fassung prüfen; Rechtsprechung nur mit verifiziertem Gericht, Datum, Aktenzeichen und Fundstelle. Keine Quelle oder ausländische Rechtslage erfinden. Zusätzlichen Quellenstatus getrennt vom Außenentwurf führen.
 
-Keine Arrestbeantragung, Zahlung, Garantie oder Schiffsfreigabe selbst auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Times New Roman 11 pt. Weitere Werkstatt- oder Skilltexte sind optional; neue Vertragsfassungen und Hafenereignisse bei Folgeaufträgen abgleichen.
+Keine Arrestbeantragung, Zahlung, Garantie oder Schiffsfreigabe selbst auslösen. Vollständige Sätze, dezimale Gliederung und Exporthinweis Kanzleihausschrift. Weitere Werkstatt- oder Skilltexte sind optional; neue Vertragsfassungen und Hafenereignisse bei Folgeaufträgen abgleichen.
 
 Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Fehlenden Zugriff konkret benennen und ohne Export Text liefern, keine Datei behaupten.

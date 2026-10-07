@@ -72,9 +72,10 @@
       "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
       "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt."
+      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "452c0214ad81d6bcd7ee691459a11de38ec29ad3500fa64989cde670ae318eba"
+    "sha256": "41703aaa37b5d66ccf1450d2e13a6713125039b8c14354bdd7fa203fc49736ab"
   },
   "focus_review": {
     "reviewed_on": "2026-10-01",
@@ -85,12 +86,13 @@
       "OLG Hamm 2 U 132/18 amtlich erneut gelesen; gerichtliche Gründe von Parteibehauptungen unterschieden",
       "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
       "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-internationales-wirtschaftsrecht/fachanwalt-internationales-wirtschaftsrecht-hauptproblem.md",
-    "prompt_sha256": "a7e296f1d92038d5e000d41db132a542106c51848c8932d6231a2396eed5e2a8",
+    "prompt_sha256": "aac6d7d39f7ed15b086adf60a5eb2d58184f1a9a395e2d5448ae75ec206db3a8",
     "skill_path": "fachanwalt-internationales-wirtschaftsrecht/skills/cisg-deckungskauf-lieferchargen-schaden/SKILL.md",
-    "skill_sha256": "8a39f486186213cd8ef7c6d59736ba24cb4b448ecdcb8dd753aef4ab5b2f0df5"
+    "skill_sha256": "111c1324493c5b9b10b46b0412defdb3f1b5d90c642c054290d68897a15054e7"
   },
   "selection": {
     "positive": [
@@ -152,9 +154,10 @@
       "Ausnahme vom zeitlich nachfolgenden Deckungskauf nur bei Aufhebungsrecht und endgültiger Erfüllungsverweigerung",
       "Übermengen, Marktvergleich und Einwand nach Artikel 77 operativ mit Belegen verbunden; keine zusätzlichen Dokumente bei reinem Rechenauftrag",
       "Tatsächlich übermittelte AGB und Forumklausel, internationale Zustellung, chargenbezogener Deckungskauf, geretteter Gewinn, Währung und Nebenkosten sowie Empfänger- und Genehmigungsbedingungen im Vergleich.",
-      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt."
+      "Asymmetrische Klauseln konditioniert statt pauschal wirksam; Schiedsspruchanerkennung von Zugriff auf Staatsvermögen getrennt. Im bearbeiteten Zuständigkeitsskill falsche allgemeine Dreijahresfrist aus NYÜ ArtikelV entfernt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "48793d7605a46a0f9fed172d307fd06b3220ffa0c329e3132586c9e979a31b41"
+    "sha256": "475d4b2d190c2388ad58be81d00d5b1fab82c02b9f56a80e7976229c2161b2e1"
   },
   "prompt_editorial_review": {
     "date": "2026-10-01",

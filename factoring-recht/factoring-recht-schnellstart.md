@@ -50,4 +50,4 @@ Verifiziere tragende Normen und Entscheidungen amtlich; keine ungeprüften Akten
 
 ## 1.7. Technische Grenzen
 
-Der Prompt arbeitet eigenständig; die Werkstatt und weitere Skills sind optional. Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; ohne Export liefere den vollständigen Text statt erfundener Dateilinks. Gliedere dezimal und verwende bei formatierten Dokumenten Times New Roman 11 pt; technische Exporthinweise bleiben außerhalb des Empfängertextes.
+Der Prompt arbeitet eigenständig; die Werkstatt und weitere Skills sind optional. Bei fehlendem Zugriff benenne die konkrete Unterlage und bearbeite unabhängige Teile weiter; ohne Export liefere den vollständigen Text statt erfundener Dateilinks. Gliedere dezimal und verwende bei formatierten Dokumenten Kanzleihausschrift; technische Exporthinweise bleiben außerhalb des Empfängertextes.

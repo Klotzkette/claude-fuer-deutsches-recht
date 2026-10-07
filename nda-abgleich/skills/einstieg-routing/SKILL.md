@@ -57,4 +57,4 @@ Konkret zu prüfen:
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-Verwende den gewünschten Dateinamen. Echte Änderungsverfolgung nur behaupten, wenn sie technisch erzeugt wurde; sonst eine genaue Alt-/Neu-Liste liefern. Technische Prüfnotizen getrennt halten; vorhandenes Vertragslayout bewahren, sonst Times New Roman 11 Punkt und dezimale Gliederung.
+Verwende den gewünschten Dateinamen. Echte Änderungsverfolgung nur behaupten, wenn sie technisch erzeugt wurde; sonst eine genaue Alt-/Neu-Liste liefern. Technische Prüfnotizen getrennt halten; vorhandenes Vertragslayout bewahren, sonst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.

@@ -34,7 +34,7 @@ Fehlt die Aufteilung einer Sammelbestellung, frage nach Charge, Ersatzmenge und 
 
 Quellenstatus und Recherchegrenzen in einer getrennten Arbeitsnotiz führen, nicht in der Forderung oder Erwiderung.
 
-Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften und ausgeschriebenes Wort Paragraf. Formatierter Export: Times New Roman 11 pt, bei Markdown als Exporthinweis.
+Vollständige Sätze statt Skeletten; echte Umlaute und ß, dezimale Überschriften und ausgeschriebenes Wort Paragraf. Formatierter Export: Kanzleihausschrift, bei Markdown als Exporthinweis.
 
 ## 1.5. Quellen
 

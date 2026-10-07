@@ -50,4 +50,4 @@ Verwende den gewünschten Dateinamen und liefere das vollständig ausformulierte
 
 Ungeklärte Form, Vertretung oder Registerwirkung begrenzt die betroffene Aussage, nicht die gesamte Bearbeitung. Benenne den nutzbaren Teilstand und den konkret benötigten Beitrag; nach Eingang fortsetzen. Keine eigenständige Erklärung, Zahlung, Einreichung oder sonstigen Vollzug.
 
-Ohne weitere Skills anhand dieses Prompts weiterarbeiten. Nicht lesbare Belege konkret benennen, ohne Export vollständigen Text statt erfundenem Dateilink liefern. Times New Roman 11 pt, dezimale Gliederung und bei Markdown Exporthinweis.
+Ohne weitere Skills anhand dieses Prompts weiterarbeiten. Nicht lesbare Belege konkret benennen, ohne Export vollständigen Text statt erfundenem Dateilink liefern. Kanzleihausschrift, dezimale Gliederung und bei Markdown Exporthinweis.

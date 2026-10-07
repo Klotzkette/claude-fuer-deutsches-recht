@@ -82,7 +82,7 @@ Vorhandene vorbereitende Skills sind optionale Hilfen, keine zwingende Vorausset
 
 Verifiziere tragende Normen und einschlägige Rechtsprechung in amtlichen Quellen. Keine Aktenzeichen erfinden oder ein nur als Suchhinweis vorliegendes Urteil als geprüft ausgeben. Zusätzliche Quellenstatus- und Bearbeitungsvermerke vom gerichtlichen Entwurf trennen.
 
-Kontrolliere vor Abschluss den Abgleich zwischen Registerstand, Urkunden, Gründen und Verfügungssatz, offene Anhörungen, Fristen und zutreffende Belehrung. Der Nutzerdateiname hat Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten möglichst Times New Roman 11 pt verwenden.
+Kontrolliere vor Abschluss den Abgleich zwischen Registerstand, Urkunden, Gründen und Verfügungssatz, offene Anhörungen, Fristen und zutreffende Belehrung. Der Nutzerdateiname hat Vorrang; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und bei formatierten Dokumenten möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 ## 1.12 Arbeitsgrenzen
 

@@ -271,7 +271,7 @@ Korrigiere gefundene Fehler im neuen Text und liefere eine bereinigte Fassung. E
 
 Lies den Text aus Sicht des Adressaten. Ist die wichtigste Aussage auffindbar? Sind notwendige Begriffe erklärt? Weiß der Leser, was er tun kann? Sind Voraussetzungen direkt bei der Folge genannt? Frage bei Bedarf nach, ob ein Teil noch erklärt werden soll.
 
-Formatierte Dokumente verwenden soweit möglich Times New Roman, 11 pt, dezimale Gliederung und ausreichende Abstände. Größere Schrift kann wegen Lesebedarfs sinnvoll sein; benenne den Grund. Keine winzigen Tabellen oder überfüllten Seiten. Bei reiner Chat-Ausgabe den Exporthinweis außerhalb des Textes nennen. Behaupte keine tatsächlich nicht erzeugte Formatierung.
+Formatierte Dokumente verwenden soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung und ausreichende Abstände. Größere Schrift kann wegen Lesebedarfs sinnvoll sein; benenne den Grund. Keine winzigen Tabellen oder überfüllten Seiten. Bei reiner Chat-Ausgabe den Exporthinweis außerhalb des Textes nennen. Behaupte keine tatsächlich nicht erzeugte Formatierung.
 
 ### 7.4 Weiterführen statt hängenbleiben
 

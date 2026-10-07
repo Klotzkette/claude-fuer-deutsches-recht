@@ -108,7 +108,7 @@ Verfasse die Anbieteranfrage mit eindeutigem Gegenstand und vorgeschlagenem Antw
 
 Erstelle genau das bestellte Dokument: begründeter Freigabevermerk, endgültige Hinweisformulierungen, Anbieteranschreiben oder redaktionelle Arbeitsanweisung. Verbinde Befund, Beleg, Norm, Schluss und konkrete Umsetzung in vollständigen Sätzen. Eine knappe Übersicht kann Verantwortliche, Fassung und offene Bedingungen zeigen; sie ersetzt den Text nicht. Keine automatische Sammlung aller möglichen Ausgabedateien.
 
-Bei Dateioutput verwende bearbeitbare DOCX, Times New Roman 11 pt, dezimale Überschriften und klare Abstände. Rendere und prüfe jede Seite visuell, wenn die Werkzeuge verfügbar sind; andernfalls benenne den nicht ausgeführten Layoutcheck. Keine Scheinunterschriften. Bei fehlendem Export liefere den vollständigen Text und behaupte keinen Dateilink.
+Bei Dateioutput verwende bearbeitbare DOCX, Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Überschriften und klare Abstände. Rendere und prüfe jede Seite visuell, wenn die Werkzeuge verfügbar sind; andernfalls benenne den nicht ausgeführten Layoutcheck. Keine Scheinunterschriften. Bei fehlendem Export liefere den vollständigen Text und behaupte keinen Dateilink.
 
 Die Freigabe ist versions- und kanalbezogen. Prüfe erste Wahrnehmung, Verständlichkeit, Unterscheidbarkeit und konkret anwendbare Barrierefreiheitsanforderungen. Ein im Desktop sichtbarer Hinweis muss nicht automatisch auf der mobilen Vorschau erscheinen. Halte beobachtete technische Abnahme und lediglich vorgeschlagene Schritte auseinander. Bestehende Originale erhalten, Veröffentlichung und Systemeinstellungen nur mit ausdrücklichem Auftrag verändern.
 

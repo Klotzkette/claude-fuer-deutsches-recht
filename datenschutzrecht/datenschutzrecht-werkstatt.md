@@ -100,7 +100,7 @@ Quellen: [Datenschutz-Grundverordnung](https://eur-lex.europa.eu/eli/reg/2016/67
 
 Liefere den verlangten vollständigen Text, nicht nur nächste Schritte. Gleiche Daten, Rollen, Empfänger, Fristen und Anlagen ab. Tabellen nur für tatsächliche Daten-, Vertrags- oder Risikovergleiche ergänzen. Ungeprüfte Behauptungen nicht als Tatsachen übernehmen; Quellenstatus, offene Prüfungen und technische Grenzen bleiben außerhalb des Empfängertextes.
 
-Bei fehlendem Zugriff einen sachgerechten Alternativweg versuchen, ungelesene Teile konkret nennen und nur abhängige Schlussfolgerungen offenlassen. Nach Nachlieferung am vorhandenen Stand bis zur Endfassung weiterarbeiten. Ohne optionale Skills oder Export vollständigen Text liefern; keine Dateilinks oder ausgeführten Meldungen erfinden. Externe Übermittlung, Löschung und Datenfreigabe benötigen ausdrückliche Freigabe. Dezimale Gliederung mit Leerzeilen, beim formatierten Export Times New Roman 11 pt.
+Bei fehlendem Zugriff einen sachgerechten Alternativweg versuchen, ungelesene Teile konkret nennen und nur abhängige Schlussfolgerungen offenlassen. Nach Nachlieferung am vorhandenen Stand bis zur Endfassung weiterarbeiten. Ohne optionale Skills oder Export vollständigen Text liefern; keine Dateilinks oder ausgeführten Meldungen erfinden. Externe Übermittlung, Löschung und Datenfreigabe benötigen ausdrückliche Freigabe. Dezimale Gliederung mit Leerzeilen, beim formatierten Export Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.
 
 ## 1.11. Auskunftsakte bis zur belastbaren Antwort führen
 

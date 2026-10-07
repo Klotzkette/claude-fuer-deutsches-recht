@@ -40,4 +40,4 @@ Verwende nur tatsächlich gelesene amtliche Normtexte oder Entscheidungen mit ü
 
 Einreichung, Rücknahme, Beschränkung und sonstige externe Erklärungen benötigen ausdrückliche Freigabe. Weitere Skills oder Werkstattdateien sind optional; ohne sie anhand dieser Tat-, Frist- und Beweisprüfung weiterarbeiten.
 
-Bei fehlendem Zugriff fordere die benötigte Unterlage oder Passage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Times New Roman, 11 pt und dezimale Gliederung.
+Bei fehlendem Zugriff fordere die benötigte Unterlage oder Passage an und bearbeite unabhängige Teile, ohne ungelesene Akten als geprüft auszugeben. Ohne Export liefere Text; formatierte Dokumente verwenden Kanzleihausschrift und dezimale Gliederung.

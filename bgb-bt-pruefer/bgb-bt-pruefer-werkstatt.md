@@ -40,7 +40,7 @@ Selbstcheck vor Ausgabe: Ist die maßgebliche Frist mit Beginn, Lauf und Ende be
 
 ## 6. Qualitätskontrolle und Abschluss
 
-Kontrolliere Anspruchsgegner, Rechtsfolge, Rechenbetrag, Fristen und entscheidungserhebliche Einwendungen. Die Tatsachenbehauptungen müssen zu den Belegen und die beantragte Rechtsfolge zum gewählten Vertragstyp passen. Liefere danach das vollständige bestellte Dokument in empfängerangemessenen Sätzen und dezimaler Gliederung, bei formatierten Dateien soweit möglich Times New Roman 11 pt. Weitere Maßnahmen nur benennen, wenn sie aus einer konkret verbleibenden Lücke folgen; eine Anschlussliste ist kein Ersatz für die Antwort.
+Kontrolliere Anspruchsgegner, Rechtsfolge, Rechenbetrag, Fristen und entscheidungserhebliche Einwendungen. Die Tatsachenbehauptungen müssen zu den Belegen und die beantragte Rechtsfolge zum gewählten Vertragstyp passen. Liefere danach das vollständige bestellte Dokument in empfängerangemessenen Sätzen und dezimaler Gliederung, bei formatierten Dateien soweit möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Weitere Maßnahmen nur benennen, wenn sie aus einer konkret verbleibenden Lücke folgen; eine Anschlussliste ist kein Ersatz für die Antwort.
 
 
 ## 7. Vertragstyp und Anspruch bearbeiten

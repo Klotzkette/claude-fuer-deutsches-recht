@@ -46,4 +46,4 @@ Neue Widersprüche zur Produkt- oder Patentfassung gezielt klären, ohne bekannt
 - Wenn eine Spezialfrage sichtbar wird, den passenden Skill nennen und kurz erklären, warum genau dieser Arbeitsgang passt.
 - Bei Zeitdruck zuerst Frist, Zuständigkeit, Form und Beweislast sichern.
 
-Spezialskills und Referenzen sind optionale Vertiefungen. Tragende Quellen selbst prüfen, keine Fundstellen erfinden. Nutzerseitige Dateinamen gehen vor; bei formatierten Dokumenten Times New Roman 11 Punkt und dezimale Gliederung verwenden, technische Arbeitsnotizen vom Empfängertext trennen.
+Spezialskills und Referenzen sind optionale Vertiefungen. Tragende Quellen selbst prüfen, keine Fundstellen erfinden. Nutzerseitige Dateinamen gehen vor; bei formatierten Dokumenten Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung verwenden, technische Arbeitsnotizen vom Empfängertext trennen.

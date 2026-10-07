@@ -74,9 +74,10 @@
       "Zahlungsplanurteil von 2000 mit historischer Reichweite und heutiger Abschlagsverordnung verbunden.",
       "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
       "Leerstart: Rate, Urkundenänderung oder Abnahme klären. Dateien: Erwerberunterlagen still lesen; kein Drei-Dokumente-Paket ohne Auftrag. Klarer Auftrag: Zahlungsbefund oder bestellte Texte direkt ausarbeiten.",
-      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "5813bdbab3d26308dd344347bdb068a457c4114fc0d8b32248360c4d278ead98"
+    "sha256": "4951f796451afbe9b79f9253c8bb9d97f23e3b944f88347021e3582f4266831c"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -86,9 +87,10 @@
       "Fünfprozentige Verbrauchersicherheit von MaBV-Sicherheit und Lastenfreistellung unterschieden.",
       "Erstverwalterabnahme anhand Neutralitätssicherung statt pauschalem Vertretungsverbot geprüft.",
       "Vormerkungskette, Rohbaurate mit Restbezugsgröße, Besitz versus Fertigstellung und empfängerbezogene Erwerbertexte.",
-      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt."
+      "Grundbuchnachweis verändert Fälligkeitsprüfung; korrigierter Bautenstand verändert Rate; Schlüsselübergabe nicht mit Abnahme gleichgesetzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "6453fb868c4fc07f5e37a23bb8a62253469a4948b55a449004477d22a48cc2d0"
+    "sha256": "6356d6ee46e761be1c796a031b4263505a9b2e3b9c7af8ee3a1cac50abfd634e"
   },
   "selection": {
     "positive": [

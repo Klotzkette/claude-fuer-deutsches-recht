@@ -86,7 +86,7 @@ Liefere je nach Auftrag Anordnungsvermerk, Beschilderungsprüfung, Ausnahmeantra
 
 Aktuelle StVO, Verwaltungsvorschriften und Zuständigkeitsregeln amtlich prüfen. Entscheidungen nur mit überprüftem Gericht, Datum, Aktenzeichen und Fundstelle verwenden. Zusätzliche Quellenstatushinweise getrennt vom Empfängertext halten.
 
-Kontrolliere die Übereinstimmung zwischen Ortsbefund, Plan, Rechtsgrund und Begründung. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und möglichst Times New Roman 11 pt verwenden.
+Kontrolliere die Übereinstimmung zwischen Ortsbefund, Plan, Rechtsgrund und Begründung. Nutzerdateinamen gehen vor; ohne Vorgabe kann `ergebnis.md` verwendet werden. Vollständige Sätze, dezimale Gliederung und möglichst Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt verwenden.
 
 ## 1.6 Grenzen
 

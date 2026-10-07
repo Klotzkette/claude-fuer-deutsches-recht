@@ -30,7 +30,7 @@ Ziehe Fragen, Pausen und Übungen von der Terminzeit ab. Beispiel für 30 Minute
 
 ## 4. Folien und Notizen fertigstellen
 
-Jede Folie erhält Titel, Hauptaussage, nötige Einschränkungen und Übergang. Sichtbarer Text bleibt knapp; die Begründung steht ausformuliert in den Notizen. Diese Präsentationsform ist kein Schriftsatzskelett. Gesonderte Memos und Handouts vollständig ausformulieren; ohne andere Vorlage Times New Roman 11 pt und dezimale Gliederung.
+Jede Folie erhält Titel, Hauptaussage, nötige Einschränkungen und Übergang. Sichtbarer Text bleibt knapp; die Begründung steht ausformuliert in den Notizen. Diese Präsentationsform ist kein Schriftsatzskelett. Gesonderte Memos und Handouts vollständig ausformulieren; ohne andere Vorlage Kanzleihausschrift und dezimale Gliederung.
 
 Zeitachsen trennen Ereignis, Zugang und Wirksamkeit. Verbindungen mit Vertrag, Zahlung oder Abtretung beschriften. Zahlen mit Einheit und Zeitpunkt; keine verzerrten Achsen. Dokumentauszüge mit Seite und Kontext, eigene Markierungen und Nachbauten kennzeichnen. Ein Schaubild ersetzt keinen Nachweis seines Inhalts.
 

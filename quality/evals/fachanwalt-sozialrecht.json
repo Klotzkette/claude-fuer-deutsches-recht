@@ -111,9 +111,10 @@
       "B 13 R 7/18 R, Randnummern 30 bis 40 und 49 bis 50: konkrete Funktionen und Wechselwirkungen statt Diagnosezahl.",
       "Rechtsfolge der Tätigkeitsbenennung und Grenze der Zurückverweisung erläutert; andere Sozialleistungswege beibehalten.",
       "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
-      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "df7acfd25ba3e8ad60f391f8e48b57257676f0b67349050f17cf0571e5c91f8a",
+    "sha256": "4002e1b359a3da692c67a404ca4bb34056d6912ca3ceb8801ff235dd75f06fba",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },
@@ -125,12 +126,13 @@
     "changes": [
       "Einstieg auf Widerspruch zwischen Reha, Behandler und Gutachten zugespitzt.",
       "In Prompt und Skill Randnummern korrigiert und konkrete Prüfung üblicher leichter Tätigkeiten ergänzt.",
-      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten."
+      "Eigenständige Startmodi und konkrete Antwort-zu-Dokument-Fortsetzung im Fokusprompt ergänzt; kohärenten Fokus-Skill beibehalten.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "fachanwalt-sozialrecht/fachanwalt-sozialrecht-hauptproblem.md",
-    "prompt_sha256": "a0073428150ef2185eed14c4218bb1c2e0b66036a3a1aafadf8c4be9d38cc3f2",
+    "prompt_sha256": "d2455a43f3262e9a4d798977c39198ee5d10a7030f3bc7759278f8cd0f3101c6",
     "skill_path": "fachanwalt-sozialrecht/skills/em-rente-befundwiderspruch-und-leistungsfall/SKILL.md",
-    "skill_sha256": "c8c8b7fdab9308309a99b33bd7ffafd8827406046b555bd5cb4e2174c0f38aa9"
+    "skill_sha256": "4736610a696144a7360da96fcea1fd2f4472ea955ccc58e37bd3690edc1512dd"
   },
   "selection": {
     "positive": [
@@ -192,9 +194,10 @@
       "BVerfG 1 BvR 569/05 konkret mit aktuellen Mitteln, Folgenabwägung und Grenzen verbunden.",
       "Paragrafen 32 und 65a SGB II amtlich geprüft; Wohngeld-Ausschlussnorm von Berechnungsgrundlagen getrennt und ungeprüfte Fallliste entfernt.",
       "Bescheidketten und Leistungsperioden, Aufhebung gegenüber Erstattung, medizinische Leistungszeit und Beitragsfenster, konkrete Tätigkeitsanforderung, aktuelle Notlage und getrennte Auslands-Widerspruchsfrist.",
-      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert."
+      "30.09.2026: Gesetzlich bestimmte Monatsfristen für Wiedereinsetzung und statthafte PKH-Beschwerde präzisiert; PKH-Kostendeckung und Vertretungswege fachlich korrigiert.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b7937946ce9d30c0c2f3d1f5e6dddbdb3b7764d93833b10ced0c756acee64ce3",
+    "sha256": "0c7c2397439807e7168ead8600332b18a137486a88af29762bb1acf45d014553",
     "reviewed_on": "2026-09-23",
     "method": "desk_review"
   },

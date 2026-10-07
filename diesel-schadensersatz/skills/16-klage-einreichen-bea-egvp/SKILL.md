@@ -115,6 +115,14 @@ Es gelten `references/zitierweise.md`, `references/bea-versandfertig.md` und der
 
    Einreichungsvermerk mit Empfänger, Aktenzeichen/Neueingang, Verantwortung, Signaturweg, bestätigter Dateiliste, Versandzeitpunkt, Eingangsstatus, Originalbeleg-/Attestierungsreferenzen, Vorschuss und Zustellung. `EINGEREICHT` nur nach positiv kontrolliertem Originalbeleg und gültiger Connector-Attestierung. Vor Versand `NICHT_EINGEREICHT`; nach Versuch ohne diese Beweiskette `EINGANG_UNGEKLAERT`.
 
+<!-- BEGIN ausformulierungspflicht (autogen) -->
+> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie `[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.
+>
+> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt** als Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil" in der CLAUDE.md der Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser Formatwunsch als Exporthinweis aufgenommen.
+>
+> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.
+<!-- END ausformulierungspflicht (autogen) -->
+
 ## Beispiele
 
 - Eingang: Klage mit neun Anlagen, Skill-21-Bericht grün. Erste Antwort: Gate-Befund und vollständiger Vermerk mit Dateiliste; Versandzeitpunkt und Eingang bleiben offen. Erst Originalbeleg mit allen zehn Dateien plus gültige, hashgebundene Connector-Attestierung setzen `EINGEREICHT` und eröffnen die Vorschussspur.

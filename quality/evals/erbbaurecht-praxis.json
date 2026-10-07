@@ -41,9 +41,10 @@
       "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
       "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
       "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
-      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt."
+      "Fachliche Leer-/Datei-/Auftragsstarts und gezielte Fortsetzung ohne Materialdump oder künstliche Fragerunde ergänzt.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "b16bcd34f66ed9c057ec49973f6c4f01911b8f24782e0bebf80cce87a2da77cc"
+    "sha256": "4214340a6fb39431719371b28207357cba8e9672c1d78e404b825482f6ccb3e6"
   },
   "selection": {
     "positive": [
@@ -96,9 +97,10 @@
       "V ZR 110/09 auf unausgeschöpfte Erhöhung und unveränderten Vertragsmaßstab angewandt.",
       "Paragraf 11 ErbbauRG einschließlich Ausschluss bedingter dinglicher Übertragung präzisiert.",
       "Kernroute und Pflichtnormen durch Erbbaurechtsinhalt, Zustimmung und Nachweis ersetzt.",
-      "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe."
+      "Vertragliche Indexreihen und Bezugszeitpunkte, gemischte Nutzung, Veräußerungs- gegenüber Belastungszustimmung, Heimfall gegenüber Zeitablauf, Entschädigung und gesonderte Beurkundungs-/Registerfreigabe.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "257d5ed854413fb683bda7edc4b44c7b23e8ba7d32b056cc916a88ca0a86b321"
+    "sha256": "51e7c45426c0aceb70c6d0103160478f327764ee42ae6692c4f9e831dc3c7565"
   },
   "prompt_editorial_review": {
     "date": "2026-09-23",

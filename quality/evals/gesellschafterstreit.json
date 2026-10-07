@@ -480,9 +480,10 @@
     "verdict": "revised",
     "reason": "Endgültigen Mini vollständig neu gelesen. Die beiden konkreten Erstlaufbefunde werden durch ausdrückliche Fallgruppen- und Stichtagsregeln adressiert; die sonstigen Mandats-, Beleg-, Quellen- und Produktregeln bleiben erhalten. Dies ist die Desk-Review der geänderten Fassung. Die davon getrennte abgeschlossene Modellnachprobe ist unter regression_review_status ausschließlich für ihren begrenzten Prüfbereich dokumentiert.",
     "changes": [
-      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03"
+    "sha256": "4e69756c666fe7815b39f9b7af917a698c6de67cd2d2d789d317fb64c104f0c5"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -491,9 +492,10 @@
       "GS-04 trennt nun den grundsätzlichen Ausschluss der eigenen Geltendmachung von Ansprüchen gegen Fremdgeschäftsführer von der zusätzlichen Subsidiarität einer Gesellschafterklage (BGH II ZR 85/23, Rn. 11/14). MD/TXT identisch fortgeschrieben.",
       "GS-14/GS-15: BGH II ZR 167/07 Rn. 28–31 und II ZR 166/07 Rn. 11 amtlich verifiziert, mit Fallgrenze in Workflow und Quellenabschnitt ergänzt.",
       "§ 1.21 präzisiert die bereits vorhandene Trennung von Bewertung, Zinsbeginn, Wirkung und Fälligkeit anhand ausdrücklicher Satzungsregeln.",
-      "06.10.2026: Eng begrenzte Zitierklarstellung nach erneutem Lesen des amtlichen Volltexts von II ZR 91/21. Urteil vom 08.11.2022 und Berichtigungsbeschluss vom 31.01.2023 stehen getrennt; die Berichtigung betrifft in Rn. 40 allein GmbHG/BeurkG. Sachliche Anker und übriger Workshop unverändert; keine neue vollständige Modellprüfung behauptet."
+      "06.10.2026: Eng begrenzte Zitierklarstellung nach erneutem Lesen des amtlichen Volltexts von II ZR 91/21. Urteil vom 08.11.2022 und Berichtigungsbeschluss vom 31.01.2023 stehen getrennt; die Berichtigung betrifft in Rn. 40 allein GmbHG/BeurkG. Sachliche Anker und übriger Workshop unverändert; keine neue vollständige Modellprüfung behauptet.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
-    "sha256": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6"
+    "sha256": "b949965de74578239c00703d145153fabe8305186ee61097e10cec17ff451c78"
   },
   "focus_review": {
     "method": "desk_review",
@@ -501,12 +503,13 @@
     "verdict": "revised",
     "reason": "Endgültigen Hauptproblem-Prompt vollständig neu gelesen; die konkrete gemeinsame Pflichtverletzung und Satzungsstichtagsregel wurden ohne pauschale Stimmsperre oder unbelegte Stichtagsannahme ergänzt. Hauptskill unverändert. Desk-Review, kein behaupteter Modellnachtest.",
     "changes": [
-      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage.",
+      "2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen (scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert."
     ],
     "prompt_path": "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
     "skill_path": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
-    "prompt_sha256": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
-    "skill_sha256": "a1f1c08f7dd622ece40bf37c5ac7da65075439eb51cb6b34b428beac6e4618cb"
+    "prompt_sha256": "f41f5528c8e718b6b7425bc9c62c5fdfc20a75a4910c7727e920db3fabc5de75",
+    "skill_sha256": "3fb1c2cc9902d4e62f2eabaf017029f568a83291c795d7a28a71d02c2f6c6ee0"
   },
   "prompt_editorial_review": {
     "date": "2026-10-02",
@@ -1177,20 +1180,20 @@
     }
   },
   "reviewed_file_hashes": {
-    "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03",
-    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6",
-    "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
-    "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "7cf3304b26b8c4cf6832298ff2a7d5566cabc8ce00a3a7220c367e2d6b0410c0",
-    "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "405a13fecba38854e5f5629350dedb401256989598be0a34e5791b517d45b8d6",
-    "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md": "3990cc0a11c4e7fed69a318adc732161642902f22695deeb8b05a40e3edb0b75",
-    "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md": "b5aa31221c4683e466bed9f04a89251dd855ed5905a7f889eadc65c2c6daa104",
-    "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md": "593021c13f460ee896d62382f94fed4e7f3f6af6bbe874237b926d41a82a8242",
-    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "a1f1c08f7dd622ece40bf37c5ac7da65075439eb51cb6b34b428beac6e4618cb",
-    "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md": "31b7530720ddb92eed030f3c4b5d92e11c4185f5a1b0ac4c6fd618a9e9bd7205",
-    "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md": "c18d705d72a1184bc2af40573b665e325ec8933f5f235303c466ffbbbca6f8e0",
-    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "c5ce65592a618cdec5aa348f3a183d5172fbf868a7fd4c90d8b0b8c029fb83d0",
-    "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md": "611fccb44c236428bbb3f6f0d9d21f477b564030ba49b986e5ab48cf009c9c07",
-    "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "e9f45549055794a9924e637d8224b51f983edc86d22ff8ccec8a060f05afa037",
+    "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "4e69756c666fe7815b39f9b7af917a698c6de67cd2d2d789d317fb64c104f0c5",
+    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "b949965de74578239c00703d145153fabe8305186ee61097e10cec17ff451c78",
+    "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "f41f5528c8e718b6b7425bc9c62c5fdfc20a75a4910c7727e920db3fabc5de75",
+    "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "1144ed6a4a6b4786e02941bb91175a954712bb7b60b5aca3e83f2387c195d96f",
+    "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "f7e0ad181a9cb3e30997cc32ca7086d02e0a3872a58be9611bb1c42f70b83a77",
+    "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md": "e7da4402233b22ef30dfaedf00772cb4ad204e941df0a1646730fe3f6594335d",
+    "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md": "dd022e4e175997305bd438f367f7fabcad35c20e32f3e56c22d38d5b4e976d5d",
+    "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md": "e82295888899c90cab8a608bb6593748a6ce3d95b90b8aa7fcdcee926a94a614",
+    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "3fb1c2cc9902d4e62f2eabaf017029f568a83291c795d7a28a71d02c2f6c6ee0",
+    "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md": "24a89b3cff5a7ee33cd2a267a424eeecbf41b6e6a4b53f77b8263f12239004ae",
+    "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md": "c5049469bca65fa93b862b7dfe33d9217635ee51742b5bee7cb5f0a14c728210",
+    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "4c5d2712158eead6ef577163779fb136c871b7fe6ecd1c86d975871a8c8b8617",
+    "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md": "74d27990b0f855bd21e68e6e63d541636c42447529c9ffe4d45cc1ac5c7e60e4",
+    "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "aef169e47073a3ca9e769a3acc17588cf3fa0964ff8393169754d66e9db757e9",
     "gesellschafterstreit/references/beschlusslogik.md": "326694ac990fe856fab3992d33493890ea86552bad29c5a30a1d2233304bb215",
     "gesellschafterstreit/references/finanzierung-und-wettbewerb.md": "30fe953e8cb5d581dc6d41381c44441c303ed1f6f754bcf56786639118d39f00",
     "gesellschafterstreit/references/rechtsprechungsanker.md": "764ee82506ea90d93924e43a273b8abfcdbcc4cfa49b82169acf30cae7cfa62e",

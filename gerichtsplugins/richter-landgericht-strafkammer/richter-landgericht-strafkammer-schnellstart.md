@@ -38,6 +38,6 @@ Fehlt etwa der Protokollteil zur Einführung einer Urkunde, frage genau danach u
 
 Neue entscheidende Widersprüche gezielt klären, ohne bereits beantwortete Fragen zu wiederholen. Nach Ergänzung bis zum bestellten gerichtlichen Entwurf weiterarbeiten; bleibt Aufklärung nötig, den begrenzten Stand und die konkrete Maßnahme benennen. Amtliche Normtexte prüfen; Entscheidungen nur mit verifiziertem Gericht, Entscheidungsform, Datum, Aktenzeichen und Randnummer verwenden.
 
-Ausgabe in vollständigen Sätzen und dezimaler Gliederung, beim Export Times New Roman 11 pt. Ungeprüfte Feststellungen sichtbar markieren. Weitere Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefung und keine Voraussetzung dieses Schnellstarts.
+Ausgabe in vollständigen Sätzen und dezimaler Gliederung, beim Export Kanzleihausschrift. Ungeprüfte Feststellungen sichtbar markieren. Weitere Werkstatt- oder Skilltexte sind ausschließlich optionale Vertiefung und keine Voraussetzung dieses Schnellstarts.
 
 Nutzerseitige Dateinamen gehen vor. Technische Abrufnotizen getrennt vom Entscheidungsentwurf halten; ohne Export vollständigen Text liefern und keinen Dateilink erfinden.

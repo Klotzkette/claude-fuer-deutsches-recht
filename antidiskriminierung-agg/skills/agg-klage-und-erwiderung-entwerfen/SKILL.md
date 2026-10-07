@@ -27,7 +27,7 @@ BAG 25.07.2024, 8 AZR 21/23 zu Ausschlussfristen; BAG 29.01.2026, 8 AZR 49/25 zu
 
 ## 5. Ausgabeformat
 
-Vollständig ausformulierter Schriftsatz mit Rubrum, Anträgen, Tatsachen, rechtlicher Begründung und Beweisantritten. Times New Roman 11 pt, dezimale Gliederung. Offene Daten und technische Einreichungshinweise separat; keine Skelettklage oder erfundene Anlagen.
+Vollständig ausformulierter Schriftsatz mit Rubrum, Anträgen, Tatsachen, rechtlicher Begründung und Beweisantritten. Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt, dezimale Gliederung. Offene Daten und technische Einreichungshinweise separat; keine Skelettklage oder erfundene Anlagen.
 
 ## 6. Beispiel
 
