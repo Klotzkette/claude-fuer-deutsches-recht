@@ -12,7 +12,7 @@ from pathlib import Path
 UA = 'Mozilla/5.0 (normcheck ki-native-kanzlei; +https://github.com/Klotzkette/claude-fuer-deutsches-recht)'
 
 
-def fetch(url, timeout=25):
+def fetch(url, timeout=20):
     req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'de'})
     err = None
     for attempt in range(2):
@@ -74,43 +74,52 @@ def needle_view(text, needles, limit=9000):
     return ('\n'.join(keep) if keep else text)[:limit]
 
 
+def check_entry(e):
+    url = e['url']
+    status, raw, cs = fetch(url)
+    source = 'amtlich'
+    if status != 200 and fallback_url(url):
+        url = fallback_url(url)
+        status, raw, cs = fetch(url)
+        source = 'SEKUNDÄRQUELLE dejure.org'
+    digest = hashlib.sha256(raw).hexdigest()[:16]
+    head = f'\n## {e["id"]}\n\nURL: {url}\nQuelle: {source}\nStatus: {status} sha256:{digest}\n'
+    if status != 200:
+        return False, head + 'FEHLER: ' + raw.decode(errors='replace')[:300] + '\n'
+    if url.endswith('.pdf'):
+        body = sections(pdf_text(raw), e.get('sections', []), '§')
+    else:
+        text = html_text(raw, cs)
+        if e.get('articles'):
+            body = sections(text, e['articles'], 'Artikel')
+        elif e.get('needles'):
+            body = needle_view(text, e['needles'])
+        else:
+            body = text[:9000]
+    return True, head + '\n```text\n' + body + '\n```\n'
+
+
 def main():
+    from concurrent.futures import ThreadPoolExecutor
     cfg = json.loads(Path(sys.argv[1]).read_text(encoding='utf-8'))
     out = Path(sys.argv[2]) if len(sys.argv) > 2 else None
-    parts = [f'# Normcheck KI-native Kanzlei\n\nAbruf: {datetime.now(timezone.utc).isoformat(timespec="seconds")}\n']
-    failures = 0
-    for e in cfg['entries']:
-        url = e['url']
-        status, raw, cs = fetch(url)
-        source = 'amtlich'
-        if status != 200 and fallback_url(url):
-            url = fallback_url(url)
-            status, raw, cs = fetch(url)
-            source = 'SEKUNDÄRQUELLE dejure.org'
-        digest = hashlib.sha256(raw).hexdigest()[:16]
-        head = f'\n## {e["id"]}\n\nURL: {url}\nQuelle: {source}\nStatus: {status} sha256:{digest}\n'
-        if status != 200:
-            failures += 1
-            part = head + 'FEHLER: ' + raw.decode(errors='replace')[:300] + '\n'
-            parts.append(part); print(part, flush=True)
-            continue
-        if e['url'].endswith('.pdf'):
-            text = pdf_text(raw)
-            body = sections(text, e.get('sections', []), '§')
-        else:
-            text = html_text(raw, cs)
-            if e.get('articles'):
-                body = sections(text, e['articles'], 'Artikel')
-            elif e.get('needles'):
-                body = needle_view(text, e['needles'])
-            else:
-                body = text[:9000]
-        part = head + '\n```text\n' + body + '\n```\n'
-        parts.append(part); print(part, flush=True)
-    report = ''.join(parts)
+    entries = cfg['entries']
+    parts = [None] * len(entries)
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = {pool.submit(check_entry, e): i for i, e in enumerate(entries)}
+        for fut in futures:
+            i = futures[fut]
+            try:
+                ok, part = fut.result(timeout=240)
+            except Exception as exc:  # noqa: BLE001
+                ok, part = False, f'\n## {entries[i]["id"]}\n\nFEHLER: {exc}\n'
+            parts[i] = (ok, part)
+            print(part, flush=True)
+    failures = sum(1 for ok, _ in parts if not ok)
+    report = f'# Normcheck KI-native Kanzlei\n\nAbruf: {datetime.now(timezone.utc).isoformat(timespec="seconds")}\n' + ''.join(p for _, p in parts)
     if out:
         out.write_text(report, encoding='utf-8')
-    print(f'\nAbgerufen: {len(cfg["entries"]) - failures}, Fehler: {failures}')
+    print(f'\nAbgerufen: {len(entries) - failures}, Fehler: {failures}', flush=True)
     return 0
 
 

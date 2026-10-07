@@ -24,8 +24,13 @@ jobs:
       - uses: actions/checkout@v5
       - name: PDF-Leser
         run: python3 -m pip install pypdf
+      - name: Erreichbarkeit der Quellen
+        run: |
+          for u in https://www.gesetze-im-internet.de/rvg/__13.html https://dejure.org/gesetze/RVG/13.html https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/033-BORA_Stand_01.12.2025.pdf https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0593; do
+            curl -sS -o /dev/null -A "Mozilla/5.0" --max-time 20 -w "%{http_code} %{time_total}s $u\n" "$u" || echo "FEHLER $u"
+          done
       - name: Normtexte abrufen
-        run: python3 scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
+        run: python3 -u scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
       - uses: actions/upload-artifact@v7
         with:
           name: ki-native-kanzlei-normcheck
