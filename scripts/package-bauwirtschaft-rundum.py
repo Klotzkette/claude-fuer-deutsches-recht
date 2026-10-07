@@ -14,6 +14,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 from testakte_disclaimer import NOTICE_BYTES, NOTICE_FILENAME
 from testakte_einzelpdf_common import document_arcname_pairs
 from testakte_zip_common import working_dump_archive_pairs
+from bau_rundum_excel import RELEASE, specifications
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "bauwirtschaft-rundum/seminarfaelle.json"
@@ -47,7 +48,7 @@ def build(destination):
     native_validator = module("validate-testakten-release-zips")
     pdf_validator = module("validate-testakten-einzelpdf-zips")
     plugin_validator = module("validate-release-zips")
-    report = {"version": version, "plugins": [], "cases": [], "scope": "Zwei Pakete und zehn Akten; keine bestehenden Sammelarchive neu gebaut."}
+    report = {"version": version, "release": RELEASE, "plugins": [], "cases": [], "scope": "Zwei Pakete und zehn Akten; keine bestehenden Sammelarchive neu gebaut."}
     assets = []
     for plugin in catalog["plugins"]:
         name = plugin["name"]
@@ -97,6 +98,16 @@ def build(destination):
             shutil.copyfile(pdf, target)
             assets.extend([native, separate, target])
             report["cases"].append({"slug": folder.name, "originals": len(native_paths), "individual_pdfs": len(expected), "overall_pages": len(PdfReader(pdf).pages), "formats": sorted({p.suffix.lower() for p in native_paths}), "native_files_byte_identical": True})
+    excel_bundle = destination / "bauwirtschaft-excel-arbeitsmappen.zip"
+    with zipfile.ZipFile(excel_bundle, "w", zipfile.ZIP_DEFLATED) as archive:
+        archive.writestr(NOTICE_FILENAME, NOTICE_BYTES + b"\n\nZehn Arbeitsmappen aus den Bauwirtschafts-Praxisakten.\n")
+        for spec in specifications():
+            target = destination / f"{spec['slug']}.xlsx"
+            shutil.copyfile(ROOT / "testakten" / spec["slug"] / spec["filename"], target)
+            assets.append(target)
+            originals.write_file(archive, target, target.name)
+        check_flat(archive)
+    assets.append(excel_bundle)
     hashes = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(assets)}
     report["assets"] = hashes
     report_file = ROOT / "quality/bauwirtschaft-rundum/pakete.json"

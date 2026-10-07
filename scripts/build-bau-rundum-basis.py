@@ -338,6 +338,8 @@ def write_email(folder, slug, item, attachments):
 
 
 def write_meta(folder, slug, case, originals):
+    from bau_rundum_excel import extra_originals
+    originals = sorted(set(originals) | set(extra_originals(slug)))
     intro = f'''<!-- decimal-headings -->
 # 1. {case['titel']}
 
@@ -359,8 +361,8 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/{slug}_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-{slug}.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-{slug}-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-{slug}.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-{slug}-einzelpdfs.zip) |
 
 ## 1.3. Originalunterlagen
 
@@ -430,7 +432,7 @@ def build(slug, new_only=False):
     prior_hashes = {
         p.name: hashlib.sha256(p.read_bytes()).hexdigest()
         for p in folder.iterdir()
-        if new_only and p.is_file() and p.suffix in {'.docx', '.pdf', '.eml', '.csv', '.txt', '.png'}
+        if new_only and p.is_file() and p.suffix in {'.docx', '.pdf', '.eml', '.csv', '.txt', '.png', '.xlsx'}
     }
 
     def should_write(path):

@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-baugrund-verden_gesamt.pdf`](gesamt-pdf/bau-rundum-baugrund-verden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-baugrund-verden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-baugrund-verden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-baugrund-verden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-baugrund-verden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-baugrund-verden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-baugrund-verden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-baugrund-verden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-baugrund-verden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -52,14 +52,14 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/bau-rundum-baugrund-verden_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-baugrund-verden.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-baugrund-verden-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-baugrund-verden.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-baugrund-verden-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="originalunterlagen"></a>
 
 ## 1.4. Originalunterlagen
 
-17 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
+18 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -84,9 +84,22 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | [15_Maschinenblatt_02.docx](15_Maschinenblatt_02.docx) | DOCX |
 | [16_Wasser_Folgeablesungen.csv](16_Wasser_Folgeablesungen.csv) | CSV |
 | [17_Hagedorn_Messreihe.eml](17_Hagedorn_Messreihe.eml) | EML |
+| [18_Aufschluss_Hoehen_Kennwertregister.xlsx](18_Aufschluss_Hoehen_Kennwertregister.xlsx) | XLSX |
 
 <!-- decimal-anchor --> <a id="erzeugung-und-qualitätssicherung"></a>
 
 ## 1.5. Erzeugung und Qualitätssicherung
 
 Die Texte stehen individuell verfasst in `scripts/bau_rundum_basis_daten.py`. `scripts/build-bau-rundum-basis.py` rendert ausschließlich diese fünf Originalakten. Technische und rechtliche Aussagen sind innerhalb der jeweiligen Projektunterlagen zu prüfen; die Akte enthält keine allgemeine Normsammlung oder technische Bemessungsfreigabe. Die Rubrik dient nur der internen Auswertung.
+
+<!-- BEGIN excel-unterlagen -->
+
+<!-- decimal-anchor --> <a id="excel-arbeitsmappe"></a>
+
+## 1.6. Excel-Arbeitsmappe
+
+[Gerätehalle Weidenmaß Verden](18_Aufschluss_Hoehen_Kennwertregister.xlsx) enthält 73 Datenzeilen auf 3 Tabellenblättern: Schichten, Höhenbuch, Kennwerte. Filter, Formeln und eingefrorene Kopfzeilen unterstützen den Belegabgleich. Die Arbeitsmappe liegt auch im Originalformat-ZIP; ihre Tabellen sind in den beiden PDF-Fassungen enthalten. Die Zahlenwerke sind Arbeitsstände der jeweiligen Projektbeteiligten und nicht ungeprüft zu übernehmen.
+
+[Excel-Datei direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bau-rundum-baugrund-verden.xlsx).
+
+<!-- END excel-unterlagen -->

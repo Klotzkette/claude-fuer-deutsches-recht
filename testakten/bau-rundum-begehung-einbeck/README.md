@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-begehung-einbeck_gesamt.pdf`](gesamt-pdf/bau-rundum-begehung-einbeck_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-begehung-einbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-begehung-einbeck.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-begehung-einbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-begehung-einbeck.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -52,14 +52,14 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | Fassung | Datei |
 | --- | --- |
 | Gesamt-PDF | [Gesamt-PDF](gesamt-pdf/bau-rundum-begehung-einbeck_gesamt.pdf) |
-| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-begehung-einbeck.zip) |
-| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip) |
+| Originalformat-ZIP | [Originaldateien](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-begehung-einbeck.zip) |
+| Einzel-PDF-ZIP | [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-begehung-einbeck-einzelpdfs.zip) |
 
 <!-- decimal-anchor --> <a id="originalunterlagen"></a>
 
 ## 1.4. Originalunterlagen
 
-19 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
+20 eigenständige Originaldateien; E-Mail-Anhänge sind bytegleiche Kopien bereits aufgeführter Originale und werden nicht zusätzlich gezählt.
 
 > Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
 >
@@ -86,9 +86,22 @@ Das Gesamt-PDF dient zum Lesen und Ausdrucken. Das Originalformat-ZIP enthält d
 | [17_Materialbeleg_Fenstertreu.pdf](17_Materialbeleg_Fenstertreu.pdf) | PDF |
 | [18_Serviceblatt_L14.docx](18_Serviceblatt_L14.docx) | DOCX |
 | [19_Voss_Einsatzunterlagen.eml](19_Voss_Einsatzunterlagen.eml) | EML |
+| [20_Begehungsdaten_Material_Termine.xlsx](20_Begehungsdaten_Material_Termine.xlsx) | XLSX |
 
 <!-- decimal-anchor --> <a id="erzeugung-und-qualitätssicherung"></a>
 
 ## 1.5. Erzeugung und Qualitätssicherung
 
 Die Texte stehen individuell verfasst in `scripts/bau_rundum_basis_daten.py`. `scripts/build-bau-rundum-basis.py` rendert ausschließlich diese fünf Originalakten. Technische und rechtliche Aussagen sind innerhalb der jeweiligen Projektunterlagen zu prüfen; die Akte enthält keine allgemeine Normsammlung oder technische Bemessungsfreigabe. Die Rubrik dient nur der internen Auswertung.
+
+<!-- BEGIN excel-unterlagen -->
+
+<!-- decimal-anchor --> <a id="excel-arbeitsmappe"></a>
+
+## 1.6. Excel-Arbeitsmappe
+
+[Kieselgarten Einbeck](20_Begehungsdaten_Material_Termine.xlsx) enthält 60 Datenzeilen auf 3 Tabellenblättern: Messwerte, Material, Zugang. Filter, Formeln und eingefrorene Kopfzeilen unterstützen den Belegabgleich. Die Arbeitsmappe liegt auch im Originalformat-ZIP; ihre Tabellen sind in den beiden PDF-Fassungen enthalten. Die Zahlenwerke sind Arbeitsstände der jeweiligen Projektbeteiligten und nicht ungeprüft zu übernehmen.
+
+[Excel-Datei direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bau-rundum-begehung-einbeck.xlsx).
+
+<!-- END excel-unterlagen -->

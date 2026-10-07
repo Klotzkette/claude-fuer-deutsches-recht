@@ -39,6 +39,7 @@ jobs:
       - name: Installationsgrenzen und Fallbestand
         run: |
           python scripts/test-bauwirtschaft-rundum.py
+          python scripts/test-bau-rundum-excel.py
           python scripts/test-prompt-profile-app-boundary.py
           node scripts/validate-plugin-structure.mjs
           node scripts/validate-marketplace-import.mjs

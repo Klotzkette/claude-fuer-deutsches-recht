@@ -44,14 +44,28 @@ This test case file was generated with AI and is an experiment. Use at your own 
 | Fortgeschrittene 4 | [Bauzeit-Claim in Minden](../testakten/bau-rundum-bauzeit-claim-minden/README.md) | Terminpläne, Tagesaufzeichnungen, Kranmiete, Gerätestunden und Kolonnenfreigabe für eine belegte Störungschronologie. |
 | Fortgeschrittene 5 | [Nachtrag in Northeim](../testakten/bau-rundum-nachtrag-northeim/README.md) | Leistungsänderung, Kalkulation, Lagerbestände, bedingte Rücknahmeauskunft und Kolonneneinsatz für die Nachtragsprüfung. |
 
-## 1.4 Fachliche Kontrolle
+## 1.4 Mit den Excel-Unterlagen arbeiten
+
+Jede der zehn Akten enthält zusätzlich eine größere, bearbeitbare Excel-Arbeitsmappe. Die Tabellen bilden das jeweilige Projekt ab: etwa Aufmaße, Materialbestände, Personalbindungen, Gerätestunden, Zahlungen und Angebotspositionen. Es sind Arbeitsstände der Beteiligten, keine vorgeprüften Ergebnisse. Einzelne Angaben können von anderen Belegen abweichen. Die Arbeitsmappen enthalten keine Auflösung dieser Abweichungen.
+
+Für einen Tabellen-Workshop zunächst die unveränderte Datei öffnen und eine Arbeitskopie anlegen. Beispielsweise lautet der Auftrag: „Gleichen Sie die Mengen, Zeiträume und Belegnummern miteinander ab. Begründen Sie jeden Hinweis mit einer konkreten Zelle und dem zugehörigen Beleg. Ändern Sie noch keine Werte.“ Anschließend die übrigen Unterlagen derselben Akte hinzunehmen. Der Vergleich soll auch ergeben, welche Aussagen sich aus der Excel-Datei allein gerade nicht belegen lassen.
+
+Diese Testakte wurde mit KI generiert und ist ein Experiment. Benutzung auf eigene Verantwortung und eigene Gefahr.
+
+This test case file was generated with AI and is an experiment. Use at your own responsibility and risk.
+
+[Alle zehn Excel-Arbeitsmappen als flaches ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bauwirtschaft-excel-arbeitsmappen.zip). Die einzelnen Dateien sind auch auf den oben verlinkten Fallseiten erreichbar. Die Gesamt- und Einzel-PDFs enthalten dieselben Tabellen als Lesefassung; zum Nachrechnen die Excel-Dateien verwenden.
+
+## 1.5 Fachliche Kontrolle
 
 Das Protokoll ersetzt keine technische Abnahme, die Gutachtenauswertung keine geotechnische Bemessung und der Preisspiegel keine Zuschlagsentscheidung. Vertragsgrundlage, Vertragsfassung und Verfahrensbeginn bestimmen, welche Regelungen anzuwenden sind. Bei Bauvergaben und Planungsvergaben gelten nicht automatisch dieselben Vorschriften. Jede tragende Feststellung muss zu einer tatsächlich lesbaren Unterlage oder überprüften Quelle zurückführen.
 
 Die Seminarankündigungen geben die Lernziele vor; sie werden nicht als Rechtsquelle oder Nachweis einer Produktzertifizierung behandelt. Anbieter-, Datenschutz- und Nutzungsfragen erläutert der [Repository-Leitfaden](../README.md). Vertrauliche echte Projektunterlagen nur in dafür freigegebene Systeme geben.
 
-## 1.5 English guide
+## 1.6 English guide
 
 This folder groups two separately installable construction-industry plugins: beginner and advanced. Each provides eight task skills, a standalone workshop prompt, a compact prompt and five practice files. The beginner course develops evidence-based documents; the advanced course connects invoice review, procurement and change management with explicit human approval points. The grouping folder is not another plugin.
 
 Use one package and one case at a time. Download formats are explained on the linked case pages. Tool access, file export and scheduled execution depend on the actual host environment; no cross-client live certification is claimed. Engineering judgement, procurement decisions and external communications remain with the responsible professional.
+
+Each case also includes an editable Excel workbook with detailed project records. Treat it as a working document: compare quantities, dates and supporting evidence before relying on its figures. No answer key is included in the distributed files. Use the spreadsheet edition for calculations and the PDF editions for reading.

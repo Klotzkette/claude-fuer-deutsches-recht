@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-abschlagsrechnung-lemgo_gesamt.pdf`](gesamt-pdf/bau-rundum-abschlagsrechnung-lemgo_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-abschlagsrechnung-lemgo.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-abschlagsrechnung-lemgo.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-abschlagsrechnung-lemgo-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Kumulative Rohbaurechnung mit fortgeschriebenen Mengen, zwei unterschiedlich beh
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-abschlagsrechnung-lemgo`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+22 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -77,6 +77,7 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 19 | [19_Werkstattmeldung_Anschlussplatten.pdf](19_Werkstattmeldung_Anschlussplatten.pdf) | 29.07.2026 | Anschlussplatten für die Stützen ST291 |
 | 20 | [20_Arbeitsbericht_Sockelnacharbeit.docx](20_Arbeitsbericht_Sockelnacharbeit.docx) | 04.08.2026 | Arbeitsbericht westliche Türschwelle |
 | 21 | [21_Geraetenachweise_N02.eml](21_Geraetenachweise_N02.eml) | 04.08.2026 | QB-26: Geräteblatt P17 und Ablesungen ZS-4 |
+| 22 | [22_Leistungsbuch_Zahlungen_Wasserhaltung.xlsx](22_Leistungsbuch_Zahlungen_Wasserhaltung.xlsx) | 04.08.2026 | Quartiershaus Brake: Leistungs- und Zahlungsbuch |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
@@ -89,4 +90,16 @@ Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlic
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.3.
+
+<!-- BEGIN excel-unterlagen -->
+
+<!-- decimal-anchor --> <a id="excel-arbeitsmappe"></a>
+
+## 1.6. Excel-Arbeitsmappe
+
+[Quartiershaus Brake: Leistungs- und Zahlungsbuch](22_Leistungsbuch_Zahlungen_Wasserhaltung.xlsx) enthält 64 Datenzeilen auf 3 Tabellenblättern: Leistungsbuch, Zahlungsverlauf, Wasserhaltung. Filter, Formeln und eingefrorene Kopfzeilen unterstützen den Belegabgleich. Die Arbeitsmappe liegt auch im Originalformat-ZIP; ihre Tabellen sind in den beiden PDF-Fassungen enthalten. Die Zahlenwerke sind Arbeitsstände der jeweiligen Projektbeteiligten und nicht ungeprüft zu übernehmen.
+
+[Excel-Datei direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bau-rundum-abschlagsrechnung-lemgo.xlsx).
+
+<!-- END excel-unterlagen -->

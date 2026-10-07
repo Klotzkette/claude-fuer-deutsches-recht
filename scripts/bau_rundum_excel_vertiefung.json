@@ -1,0 +1,5468 @@
+[
+  {
+    "slug": "bau-rundum-abschlagsrechnung-lemgo",
+    "filename": "22_Leistungsbuch_Zahlungen_Wasserhaltung.xlsx",
+    "title": "Quartiershaus Brake: Leistungs- und Zahlungsbuch",
+    "subtitle": "QB-26/R01. Fortschreibungsregister Weserbogen Bau, Stand 04.08.2026.",
+    "author": "Maren Beck, Weserbogen Bau GmbH",
+    "date": "2026-08-04",
+    "sheets": [
+      {
+        "name": "Leistungsbuch",
+        "title": "Rohbau Werkflügel: Mengen und Preisstände",
+        "subtitle": "Neues Register aus 02_Leistungsverzeichnis.pdf, 04_Abschlagsrechnung_1.pdf, 05_Abschlagsrechnung_2.pdf und 11_Abschlagsrechnung_3.xlsx. Rechnungsstände jeweils kumulativ.",
+        "columns": [
+          {
+            "label": "Position",
+            "width": 15,
+            "type": "text"
+          },
+          {
+            "label": "Leistungsstand",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Leistung",
+            "width": 28,
+            "type": "text"
+          },
+          {
+            "label": "Einheit",
+            "width": 11,
+            "type": "text"
+          },
+          {
+            "label": "Menge",
+            "width": 13,
+            "type": "number"
+          },
+          {
+            "label": "EP netto EUR",
+            "width": 17,
+            "type": "money"
+          },
+          {
+            "label": "Betrag netto EUR",
+            "width": 19,
+            "type": "money"
+          },
+          {
+            "label": "Stand / Beleg",
+            "width": 17,
+            "type": "text"
+          },
+          {
+            "label": "Unterlage",
+            "width": 36,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "01.010",
+            "2026-04-17",
+            "Baustelleneinrichtung",
+            "psch",
+            1,
+            12500,
+            "=ROUND(E9*F9,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "02.010",
+            "2026-04-17",
+            "Bodenplatte Beton",
+            "m³",
+            120,
+            185,
+            "=ROUND(E10*F10,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "02.020",
+            "2026-04-17",
+            "Bewehrung",
+            "t",
+            18,
+            1450,
+            "=ROUND(E11*F11,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "03.010",
+            "2026-04-17",
+            "Mauerwerk",
+            "m²",
+            420,
+            92,
+            "=ROUND(E12*F12,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "03.020",
+            "2026-04-17",
+            "Wandschalung",
+            "m²",
+            260,
+            42,
+            "=ROUND(E13*F13,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "04.010",
+            "2026-04-17",
+            "Deckenbeton",
+            "m³",
+            85,
+            198,
+            "=ROUND(E14*F14,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "04.020",
+            "2026-04-17",
+            "Abdichtung Sockel",
+            "m²",
+            150,
+            37,
+            "=ROUND(E15*F15,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "05.010",
+            "2026-04-17",
+            "Stahlstützen montiert",
+            "St",
+            8,
+            1745,
+            "=ROUND(E16*F16,2)",
+            "LV R01",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "01.010",
+            "2026-05-31",
+            "Baustelleneinrichtung",
+            "psch",
+            1,
+            12500,
+            "=ROUND(E17*F17,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "02.010",
+            "2026-05-31",
+            "Bodenplatte Beton",
+            "m³",
+            40,
+            185,
+            "=ROUND(E18*F18,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "02.020",
+            "2026-05-31",
+            "Bewehrung",
+            "t",
+            6,
+            1450,
+            "=ROUND(E19*F19,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "03.010",
+            "2026-05-31",
+            "Mauerwerk",
+            "m²",
+            90,
+            92,
+            "=ROUND(E20*F20,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "03.020",
+            "2026-05-31",
+            "Wandschalung",
+            "m²",
+            60,
+            42,
+            "=ROUND(E21*F21,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "04.010",
+            "2026-05-31",
+            "Deckenbeton",
+            "m³",
+            0,
+            198,
+            "=ROUND(E22*F22,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "04.020",
+            "2026-05-31",
+            "Abdichtung Sockel",
+            "m²",
+            0,
+            37,
+            "=ROUND(E23*F23,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "05.010",
+            "2026-05-31",
+            "Stahlstützen montiert",
+            "St",
+            0,
+            1745,
+            "=ROUND(E24*F24,2)",
+            "WB-26051",
+            "04_Abschlagsrechnung_1.pdf"
+          ],
+          [
+            "01.010",
+            "2026-06-30",
+            "Baustelleneinrichtung",
+            "psch",
+            1,
+            12500,
+            "=ROUND(E25*F25,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "02.010",
+            "2026-06-30",
+            "Bodenplatte Beton",
+            "m³",
+            90,
+            185,
+            "=ROUND(E26*F26,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "02.020",
+            "2026-06-30",
+            "Bewehrung",
+            "t",
+            13,
+            1450,
+            "=ROUND(E27*F27,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "03.010",
+            "2026-06-30",
+            "Mauerwerk",
+            "m²",
+            240,
+            92,
+            "=ROUND(E28*F28,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "03.020",
+            "2026-06-30",
+            "Wandschalung",
+            "m²",
+            160,
+            42,
+            "=ROUND(E29*F29,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "04.010",
+            "2026-06-30",
+            "Deckenbeton",
+            "m³",
+            35,
+            198,
+            "=ROUND(E30*F30,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "04.020",
+            "2026-06-30",
+            "Abdichtung Sockel",
+            "m²",
+            50,
+            37,
+            "=ROUND(E31*F31,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "05.010",
+            "2026-06-30",
+            "Stahlstützen montiert",
+            "St",
+            4,
+            1745,
+            "=ROUND(E32*F32,2)",
+            "WB-26079",
+            "05_Abschlagsrechnung_2.pdf"
+          ],
+          [
+            "01.010",
+            "2026-07-31",
+            "Baustelleneinrichtung",
+            "psch",
+            1,
+            12500,
+            "=ROUND(E33*F33,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "02.010",
+            "2026-07-31",
+            "Bodenplatte Beton",
+            "m³",
+            118.5,
+            185,
+            "=ROUND(E34*F34,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "02.020",
+            "2026-07-31",
+            "Bewehrung",
+            "t",
+            18.2,
+            1450,
+            "=ROUND(E35*F35,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "03.010",
+            "2026-07-31",
+            "Mauerwerk",
+            "m²",
+            402,
+            92,
+            "=ROUND(E36*F36,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "03.020",
+            "2026-07-31",
+            "Wandschalung",
+            "m²",
+            248,
+            42,
+            "=ROUND(E37*F37,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "04.010",
+            "2026-07-31",
+            "Deckenbeton",
+            "m³",
+            82,
+            198,
+            "=ROUND(E38*F38,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "04.020",
+            "2026-07-31",
+            "Abdichtung Sockel",
+            "m²",
+            142,
+            37,
+            "=ROUND(E39*F39,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "05.010",
+            "2026-07-31",
+            "Stahlstützen montiert",
+            "St",
+            8,
+            1745,
+            "=ROUND(E40*F40,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "N01.010",
+            "2026-07-31",
+            "Unterfangung",
+            "m",
+            18,
+            210,
+            "=ROUND(E41*F41,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ],
+          [
+            "N02.010",
+            "2026-07-31",
+            "Pumpenhaltung",
+            "Tag",
+            12,
+            340,
+            "=ROUND(E42*F42,2)",
+            "WB-26098",
+            "11_Abschlagsrechnung_3.xlsx"
+          ]
+        ],
+        "totals": []
+      },
+      {
+        "name": "Zahlungsverlauf",
+        "title": "Rechnungen und tatsächliche Auszahlungen",
+        "subtitle": "Neues Buchungsregister aus 06_Kreditorenbewegungen.csv und 14_Zahlungsmitteilung.docx. Bruttobeträge; Rechnung und Zahlung nach Beleg getrennt.",
+        "columns": [
+          {
+            "label": "Datum",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Vorgang",
+            "width": 25,
+            "type": "text"
+          },
+          {
+            "label": "Beleg",
+            "width": 16,
+            "type": "text"
+          },
+          {
+            "label": "Rechnung kum. EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "Sicherheit kum. EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "Auszahlung EUR",
+            "width": 19,
+            "type": "money"
+          },
+          {
+            "label": "Vorgangsbetrag EUR",
+            "width": 21,
+            "type": "money"
+          },
+          {
+            "label": "Referenz",
+            "width": 35,
+            "type": "text"
+          },
+          {
+            "label": "Buchungstext",
+            "width": 34,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-05-31",
+            "1. Rechnung",
+            "WB-26051",
+            "=ROUND(SUM('Leistungsbuch'!G17:G24)*1.19,2)",
+            "=ROUND(D9*0.05,2)",
+            null,
+            "=D9-E9",
+            "04_Abschlagsrechnung_1.pdf",
+            "Anforderung"
+          ],
+          [
+            "2026-06-02",
+            "Rechnungseingang",
+            "K1001",
+            null,
+            null,
+            null,
+            null,
+            "WB-26051",
+            "06_Kreditorenbewegungen.csv"
+          ],
+          [
+            "2026-06-22",
+            "Auszahlung",
+            "K1034",
+            null,
+            null,
+            44541.7,
+            null,
+            "Z260622-11",
+            "WB-26051"
+          ],
+          [
+            "2026-06-30",
+            "2. Rechnung",
+            "WB-26079",
+            "=ROUND(SUM('Leistungsbuch'!G25:G32)*1.19,2)",
+            "=ROUND(D12*0.05,2)",
+            null,
+            "=ROUND(D12-E12-SUM(F9:F11),2)",
+            "05_Abschlagsrechnung_2.pdf",
+            "Anforderung"
+          ],
+          [
+            "2026-07-02",
+            "Zuwachs gebucht",
+            "K1077",
+            null,
+            null,
+            null,
+            "=D12-D9",
+            "WB-26079",
+            "06_Kreditorenbewegungen.csv"
+          ],
+          [
+            "2026-07-20",
+            "Zahlungslauf mitgeteilt",
+            "WB-26079",
+            null,
+            null,
+            null,
+            48097.38,
+            "14_Zahlungsmitteilung.docx",
+            "erste Teilzahlung angewiesen"
+          ],
+          [
+            "2026-07-21",
+            "Auszahlung",
+            "K1091",
+            null,
+            null,
+            48097.38,
+            null,
+            "Z260721-08",
+            "WB-26079"
+          ],
+          [
+            "2026-07-29",
+            "Auszahlung",
+            "K1103",
+            null,
+            null,
+            8000,
+            null,
+            "Z260721-08",
+            "WB-26079"
+          ],
+          [
+            "2026-07-29",
+            "Sockelbetrag offen",
+            "K1104",
+            null,
+            null,
+            null,
+            4000,
+            "06_Kreditorenbewegungen.csv",
+            "nicht ausgezahlt"
+          ],
+          [
+            "2026-08-03",
+            "3. Rechnung",
+            "WB-26098",
+            "=ROUND(SUM('Leistungsbuch'!G33:G42)*1.19,2)",
+            "=ROUND(D18*0.05,2)",
+            null,
+            "=ROUND(D18-E18-SUM(F9:F20),2)",
+            "11_Abschlagsrechnung_3.xlsx",
+            "Anforderung laut Rechnung"
+          ],
+          [
+            "2026-08-03",
+            "Rechnung per E-Mail",
+            "WB-26098",
+            null,
+            null,
+            null,
+            null,
+            "12_Rechnungseingang.eml",
+            "09:14 Uhr, AM-07 beigefügt"
+          ],
+          [
+            "2026-08-04",
+            "Zahlungsstand",
+            "QB-26",
+            null,
+            null,
+            null,
+            "=SUM(F9:F20)",
+            "15_Buchhaltung_Rueckfrage.eml",
+            "drei verbuchte Auszahlungen"
+          ]
+        ],
+        "totals": [
+          5
+        ]
+      },
+      {
+        "name": "Wasserhaltung",
+        "title": "P17 und Zwischenzähler Süd",
+        "subtitle": "Neues Gerätekostenregister aus WB-N02, 17_Einsatzbericht_Wasserhaltung.docx und 18_Zwischenzaehler_Sued.csv. Tagesansätze laut Auftragnehmer; ZS-4 mit mehreren Verbrauchern.",
+        "columns": [
+          {
+            "label": "Datum",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Gerät",
+            "width": 12,
+            "type": "text"
+          },
+          {
+            "label": "Eintrag",
+            "width": 36,
+            "type": "text"
+          },
+          {
+            "label": "Angebotstage",
+            "width": 15,
+            "type": "number"
+          },
+          {
+            "label": "Tagessatz EUR",
+            "width": 18,
+            "type": "money"
+          },
+          {
+            "label": "Ansatz netto EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "ZS-4 kWh",
+            "width": 15,
+            "type": "number"
+          },
+          {
+            "label": "Bezug / Verbraucher",
+            "width": 32,
+            "type": "text"
+          },
+          {
+            "label": "Nachweis",
+            "width": 40,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-07-06",
+            "P17",
+            "Aufstellung 10:30 Uhr",
+            1,
+            340,
+            "=ROUND(D9*E9,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-07",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D10*E10,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-08",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D11*E11,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-09",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D12*E12,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-10",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D13*E13,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-11",
+            "P17",
+            "Schwimmerschalter angeschlossen",
+            1,
+            340,
+            "=ROUND(D14*E14,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-12",
+            "P17",
+            "Schwimmerschalter angeschlossen",
+            1,
+            340,
+            "=ROUND(D15*E15,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-13",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D16*E16,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-14",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D17*E17,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-15",
+            "P17",
+            "Umsetzung Grabensohle",
+            1,
+            340,
+            "=ROUND(D18*E18,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-16",
+            "P17",
+            "Wasserstand und Schlauch kontrolliert",
+            1,
+            340,
+            "=ROUND(D19*E19,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-17",
+            "P17",
+            "kein Kontrollvermerk",
+            1,
+            340,
+            "=ROUND(D20*E20,2)",
+            null,
+            "WB-N02",
+            "17_Einsatzbericht_Wasserhaltung.docx"
+          ],
+          [
+            "2026-07-06",
+            "ZS-4",
+            "10:20 Uhr, Arndt",
+            null,
+            null,
+            null,
+            120,
+            "P17; Arbeitsleuchte",
+            "18_Zwischenzaehler_Sued.csv"
+          ],
+          [
+            "2026-07-10",
+            "ZS-4",
+            "16:15 Uhr, Arndt",
+            null,
+            null,
+            null,
+            138.6,
+            "P17; Arbeitsleuchte",
+            "18_Zwischenzaehler_Sued.csv"
+          ],
+          [
+            "2026-07-13",
+            "ZS-4",
+            "07:05 Uhr, Arndt",
+            null,
+            null,
+            null,
+            149.1,
+            "P17; Arbeitsleuchte",
+            "18_Zwischenzaehler_Sued.csv"
+          ],
+          [
+            "2026-07-15",
+            "ZS-4",
+            "15:40 Uhr, Brandt",
+            null,
+            null,
+            null,
+            155.8,
+            "P17; Arbeitsleuchte; Bohrhammer",
+            "18_Zwischenzaehler_Sued.csv"
+          ],
+          [
+            "2026-07-16",
+            "ZS-4",
+            "16:00 Uhr, Arndt",
+            null,
+            null,
+            null,
+            160.8,
+            "P17; Arbeitsleuchte",
+            "18_Zwischenzaehler_Sued.csv"
+          ],
+          [
+            "2026-07-18",
+            "ZS-4",
+            "08:05 Uhr, Arndt",
+            null,
+            null,
+            null,
+            166.2,
+            "vor Abklemmen P17",
+            "18_Zwischenzaehler_Sued.csv"
+          ]
+        ],
+        "totals": [
+          3,
+          5
+        ]
+      }
+    ],
+    "intentional": [
+      {
+        "sheet": "Zahlungsverlauf",
+        "cell": "H16",
+        "actual": "Z260721-08",
+        "expected": "Z260729-03",
+        "reason": "Die Referenz der Zahlung vom 21.07. wurde in die Buchung vom 29.07. übernommen. Betrag, Datum und tatsächlich gezahlte Gesamtsumme bleiben unverändert.",
+        "source": "06_Kreditorenbewegungen.csv, K1103"
+      },
+      {
+        "sheet": "Wasserhaltung",
+        "cell": "G24",
+        "actual": 155.8,
+        "expected": 155.4,
+        "reason": "Die Ablesung vom 15.07. wurde um 0,4 kWh höher übertragen. ZS-4 ist kein reiner Pumpenlaufzeitnachweis.",
+        "source": "18_Zwischenzaehler_Sued.csv, 2026-07-15 15:40"
+      }
+    ],
+    "controls": [
+      {
+        "sheet": "Leistungsbuch",
+        "cell": "A9",
+        "value": "01.010"
+      },
+      {
+        "sheet": "Zahlungsverlauf",
+        "cell": "F5",
+        "value": 100639.08
+      },
+      {
+        "sheet": "Zahlungsverlauf",
+        "cell": "E18",
+        "value": 9015.59
+      },
+      {
+        "sheet": "Zahlungsverlauf",
+        "cell": "G18",
+        "value": 70657.11
+      },
+      {
+        "sheet": "Wasserhaltung",
+        "cell": "F5",
+        "value": 4080
+      }
+    ],
+    "mutation": {
+      "sheet": "Leistungsbuch",
+      "cell": "E40",
+      "value": 6,
+      "outputSheet": "Zahlungsverlauf",
+      "outputCell": "G18",
+      "expected": 66711.67
+    }
+  },
+  {
+    "slug": "bau-rundum-vgv-bewerbung-hameln",
+    "filename": "22_Referenzen_Personaleinsatz_Terminregister.xlsx",
+    "title": "Lernhaus Am Werder: Büro- und Bewerbungsregister",
+    "subtitle": "SW-2026-18. Faltwerk Architektur, interner Stand 05.10.2026.",
+    "author": "Anna Finke, Faltwerk Architektur PartG",
+    "date": "2026-10-05",
+    "sheets": [
+      {
+        "name": "Referenzleistungen",
+        "title": "Referenzen nach Leistungsphasen",
+        "subtitle": "Neues Register aus 04_Referenzarchiv.csv, HG-19, SB-22, 07_Kruse_Referenzzuordnung.eml und 17_ARGE_Leistungsabgrenzung.docx. KG 300/400 je Projekt einmal; ARGE-Honoraranteil gesondert.",
+        "columns": [
+          {
+            "label": "Kennung",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Projekt",
+            "width": 30,
+            "type": "text"
+          },
+          {
+            "label": "Phase",
+            "width": 10,
+            "type": "number",
+            "format": "0"
+          },
+          {
+            "label": "Leistungserbringer",
+            "width": 24,
+            "type": "text"
+          },
+          {
+            "label": "Leistungsbereich",
+            "width": 29,
+            "type": "text"
+          },
+          {
+            "label": "Stand",
+            "width": 19,
+            "type": "text"
+          },
+          {
+            "label": "Abschluss Phase 8",
+            "width": 19,
+            "type": "date"
+          },
+          {
+            "label": "Projektkosten netto EUR",
+            "width": 23,
+            "type": "money"
+          },
+          {
+            "label": "Honorar Faltwerk",
+            "width": 20,
+            "type": "percent"
+          }
+        ],
+        "rows": [
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            3,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            6200000,
+            null
+          ],
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            4,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            5,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            6,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            7,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-19",
+            "Campus Hofgarten",
+            8,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            "2024-08-30",
+            null,
+            null
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            3,
+            "Baukontur",
+            "Gesamtobjekt",
+            "abgeschlossen",
+            null,
+            4400000,
+            0.4
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            4,
+            "Baukontur",
+            "Gesamtobjekt",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            5,
+            "Faltwerk / Baukontur",
+            "Innenausbau / Außenhülle",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            6,
+            "Faltwerk / Baukontur",
+            "Innenausbau / Außenhülle",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            7,
+            "Faltwerk / Baukontur",
+            "Innenausbau / Außenhülle",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-22",
+            "Stadtteilhaus Südbogen",
+            8,
+            "Faltwerk / Baukontur",
+            "Innenausbau / Außenhülle",
+            "abgeschlossen",
+            "2025-11-14",
+            null,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            3,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            5900000,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            4,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            5,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            6,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            7,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-11",
+            "Lernzentrum Nordtor",
+            8,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            "2021-12-18",
+            null,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            3,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "beauftragt",
+            null,
+            7100000,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            4,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "beauftragt",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            5,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "in Bearbeitung",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            6,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "vorgesehen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            7,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "vorgesehen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-28",
+            "Schule Riedhof",
+            8,
+            "Faltwerk",
+            "Auftragsstand Phase 5",
+            "vorgesehen",
+            "2027-06-30",
+            null,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            3,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            5200000,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            4,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            5,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            6,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            7,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-16",
+            "Verwaltungsbau Lindenhof",
+            8,
+            "Faltwerk",
+            "Objektplanung",
+            "abgeschlossen",
+            "2023-03-03",
+            null,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            3,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            null,
+            3600000,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            4,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            5,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            6,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            7,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            null,
+            null,
+            null
+          ],
+          [
+            "FW-07",
+            "Sporthalle Wiesenrain",
+            8,
+            "Feldmaß",
+            "Lena Kruse, Vorbüro",
+            "abgeschlossen",
+            "2022-07-22",
+            null,
+            null
+          ]
+        ],
+        "totals": []
+      },
+      {
+        "name": "Teamkapazität",
+        "title": "Durchschnittliche Wochenstunden je Monat",
+        "subtitle": "10_Personaleinsatz.xlsx, unveränderter Dispositionsstand 30.09.2026. Urlaub bereits enthalten. Lernhaus intern reserviert; Riedhof-Vertretung am 12.01. noch nicht verteilt.",
+        "columns": [
+          {
+            "label": "Person",
+            "width": 22,
+            "type": "text"
+          },
+          {
+            "label": "Monat",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Dispositionsstand",
+            "width": 18,
+            "type": "date"
+          },
+          {
+            "label": "Verfügbar h/W",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Bestand h/W",
+            "width": 17,
+            "type": "number"
+          },
+          {
+            "label": "Büro h/W",
+            "width": 14,
+            "type": "number"
+          },
+          {
+            "label": "Lernhaus h/W",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Rest h/W",
+            "width": 15,
+            "type": "number"
+          },
+          {
+            "label": "Quelle",
+            "width": 31,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "Lena Kruse",
+            "2027-01-01",
+            "2026-09-30",
+            32,
+            26,
+            6,
+            16,
+            "=D9-SUM(E9:G9)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Lena Kruse",
+            "2027-02-01",
+            "2026-09-30",
+            40,
+            24,
+            6,
+            16,
+            "=D10-SUM(E10:G10)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Lena Kruse",
+            "2027-03-01",
+            "2026-09-30",
+            40,
+            20,
+            6,
+            16,
+            "=D11-SUM(E11:G11)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Mehmet Aydin",
+            "2027-01-01",
+            "2026-09-30",
+            32,
+            18,
+            2,
+            12,
+            "=D12-SUM(E12:G12)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Mehmet Aydin",
+            "2027-02-01",
+            "2026-09-30",
+            32,
+            18,
+            2,
+            12,
+            "=D13-SUM(E13:G13)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Mehmet Aydin",
+            "2027-03-01",
+            "2026-09-30",
+            32,
+            14,
+            2,
+            12,
+            "=D14-SUM(E14:G14)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Clara Weiß",
+            "2027-01-01",
+            "2026-09-30",
+            40,
+            24,
+            2,
+            16,
+            "=D15-SUM(E15:G15)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Clara Weiß",
+            "2027-02-01",
+            "2026-09-30",
+            40,
+            20,
+            2,
+            16,
+            "=D16-SUM(E16:G16)",
+            "10_Personaleinsatz.xlsx"
+          ],
+          [
+            "Clara Weiß",
+            "2027-03-01",
+            "2026-09-30",
+            40,
+            16,
+            2,
+            16,
+            "=D17-SUM(E17:G17)",
+            "10_Personaleinsatz.xlsx"
+          ]
+        ],
+        "totals": []
+      },
+      {
+        "name": "Terminbindungen",
+        "title": "Bewerbung, Versicherung und Personaltermine",
+        "subtitle": "Neues Terminregister aus den genannten Unterlagen. Künftige Termine nach Mitteilung; keine Einreichung oder Beauftragung verbucht.",
+        "columns": [
+          {
+            "label": "Datum",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Uhrzeit",
+            "width": 12,
+            "type": "text"
+          },
+          {
+            "label": "Vorgang",
+            "width": 35,
+            "type": "text"
+          },
+          {
+            "label": "Beteiligte",
+            "width": 29,
+            "type": "text"
+          },
+          {
+            "label": "Bezug",
+            "width": 18,
+            "type": "text"
+          },
+          {
+            "label": "Mitgeteilter Stand",
+            "width": 32,
+            "type": "text"
+          },
+          {
+            "label": "Unterlage",
+            "width": 42,
+            "type": "text"
+          },
+          {
+            "label": "Vermerk",
+            "width": 36,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-09-07",
+            null,
+            "Bekanntmachung",
+            "Schulbauverband",
+            "SW-2026-18",
+            "veröffentlicht",
+            "01_Bekanntmachungsdaten.pdf",
+            "Objektplanung Lernhaus"
+          ],
+          [
+            "2026-09-23",
+            null,
+            "Bestehende Versicherung",
+            "Sina Vogt",
+            "HW-FA-2086",
+            "3 Mio. / 1 Mio. EUR",
+            "08_Versicherungsbestaetigung.pdf",
+            "jeweils zweifach pro Jahr"
+          ],
+          [
+            "2026-09-25",
+            "12:00",
+            "Bewerbungsschluss bestätigt",
+            "Eva Brüning",
+            "2026-10-09",
+            "unverändert",
+            "13_Antwort_Vergabestelle.eml",
+            "genau zwei Referenzen"
+          ],
+          [
+            "2026-09-30",
+            null,
+            "Konzeptstand 0.3",
+            "Clara Weiß",
+            "Lernhaus",
+            "intern, nicht freigegeben",
+            "12_Konzeptstand_Buero.docx",
+            "für spätere Angebotsphase"
+          ],
+          [
+            "2026-10-01",
+            null,
+            "Projektbeschreibung eingegangen",
+            "Sina Vogt",
+            "HW-FA-2086",
+            "Tätigkeitsumfang noch offen",
+            "19_Versicherer_Risikofragen.pdf",
+            "Schadstoffplanung ungeklärt"
+          ],
+          [
+            "2026-10-02",
+            "11:00",
+            "Arbeitszeitgespräch",
+            "Anna Finke / Mehmet Aydin",
+            "Personal",
+            "32 h/W unverändert",
+            "20_Personalgespraech_Aydin.docx",
+            "kein Änderungsvertrag"
+          ],
+          [
+            "2026-10-05",
+            "08:12",
+            "Riedhof-Vertretung",
+            "Mehmet Aydin",
+            "RH-28",
+            "sieben Stunden benannt",
+            "21_Aydin_Terminbindung.eml",
+            "Vorbereitung, Fahrt und Termin"
+          ],
+          [
+            "2026-10-06",
+            "13:00",
+            "Tätigkeitsbeschreibung benötigt",
+            "Sina Vogt",
+            "HW-FA-2086",
+            "Bearbeitungsfrist benannt",
+            "19_Versicherer_Risikofragen.pdf",
+            "unterschriebene Beschreibung"
+          ],
+          [
+            "2026-10-07",
+            null,
+            "Zeichnungsstelle",
+            "Hansewinkel",
+            "HW-FA-2086",
+            "Bearbeitungsfenster",
+            "19_Versicherer_Risikofragen.pdf",
+            "Erhöhung noch nicht bestätigt"
+          ],
+          [
+            "2026-10-09",
+            "12:00",
+            "Teilnahmeantrag",
+            "Faltwerk",
+            "SW-2026-18",
+            "veröffentlichte Abgabefrist",
+            "01_Bekanntmachungsdaten.pdf",
+            "Freigabe / Upload noch offen"
+          ],
+          [
+            "2026-10-16",
+            null,
+            "Vereinbarung Moderation",
+            "Frauke Bendel",
+            "Lernhaus",
+            "Reservierung unter Vorbehalt",
+            "11_Bendel_Kapazitaet.eml",
+            "Februar und März je 8 h/W"
+          ],
+          [
+            "2027-01-04",
+            null,
+            "Urlaubsbeginn",
+            "Lena Kruse",
+            "Personal",
+            "bestätigt",
+            "09_Teamprofile.docx",
+            "Januarkapazität bereits angepasst"
+          ],
+          [
+            "2027-01-08",
+            null,
+            "Unterlagen Vertretung",
+            "Mehmet Aydin",
+            "RH-28",
+            "Termin benannt",
+            "18_Riedhof_Abstimmung_Januar.pdf",
+            "Werkstattdetails"
+          ],
+          [
+            "2027-01-12",
+            null,
+            "Planungsabstimmung Riedhof",
+            "Mehmet Aydin",
+            "RH-28",
+            "Vertretung vorgesehen",
+            "18_Riedhof_Abstimmung_Januar.pdf",
+            "Kruse im Urlaub"
+          ],
+          [
+            "2027-01-15",
+            null,
+            "Urlaubsende",
+            "Lena Kruse",
+            "Personal",
+            "bestätigt",
+            "09_Teamprofile.docx",
+            "keine durchgehende Aydin-Vertretung"
+          ],
+          [
+            "2027-01-19",
+            "09:00",
+            "Planungsgespräch bis 13:00",
+            "Lena Kruse",
+            "RH-28",
+            "abgestimmt",
+            "18_Riedhof_Abstimmung_Januar.pdf",
+            "Freigabe Werkstattdetails"
+          ],
+          [
+            "2027-01-26",
+            "09:00",
+            "Planungsgespräch bis 13:00",
+            "Lena Kruse",
+            "RH-28",
+            "abgestimmt",
+            "18_Riedhof_Abstimmung_Januar.pdf",
+            "Versand Ende Januar vorgesehen"
+          ],
+          [
+            "2027-03-01",
+            null,
+            "Arbeitszeiterhöhung denkbar",
+            "Mehmet Aydin",
+            "Personal",
+            "nicht vereinbart",
+            "20_Personalgespraech_Aydin.docx",
+            "bis Juni erwogen"
+          ]
+        ],
+        "totals": []
+      }
+    ],
+    "intentional": [
+      {
+        "sheet": "Referenzleistungen",
+        "cell": "G26",
+        "actual": "2021-12-18",
+        "expected": "2020-12-18",
+        "reason": "Beim Abschluss der Phase 8 für FW-11 wurde das Jahr um eins verschoben. Der ursprüngliche Archivstand nennt 2020.",
+        "source": "04_Referenzarchiv.csv, FW-11, Archivkarte N11"
+      },
+      {
+        "sheet": "Terminbindungen",
+        "cell": "B16",
+        "actual": "13:00",
+        "expected": "12:00",
+        "reason": "Das Bearbeitungsfenster des Versicherers wurde eine Stunde zu spät übertragen.",
+        "source": "19_Versicherer_Risikofragen.pdf, Abschnitt 3"
+      }
+    ],
+    "controls": [
+      {
+        "sheet": "Referenzleistungen",
+        "cell": "H9",
+        "value": 6200000
+      },
+      {
+        "sheet": "Referenzleistungen",
+        "cell": "H15",
+        "value": 4400000
+      },
+      {
+        "sheet": "Referenzleistungen",
+        "cell": "I15",
+        "value": 0.4
+      },
+      {
+        "sheet": "Teamkapazität",
+        "cell": "H9",
+        "value": -16
+      },
+      {
+        "sheet": "Teamkapazität",
+        "cell": "H12",
+        "value": 0
+      },
+      {
+        "sheet": "Teamkapazität",
+        "cell": "H14",
+        "value": 4
+      }
+    ],
+    "mutation": {
+      "sheet": "Teamkapazität",
+      "cell": "G9",
+      "value": 8,
+      "outputSheet": "Teamkapazität",
+      "outputCell": "H9",
+      "expected": -8
+    }
+  },
+  {
+    "slug": "bau-rundum-angebotspruefung-goslar",
+    "filename": "22_Fassadenregister_Elemente_Preisdaten.xlsx",
+    "title": "Bildungsforum Oker: Fassaden- und Angebotsregister",
+    "subtitle": "ZBH-26-31 / F03. Kantenraum, vertrauliche Arbeitskopie vom 06.10.2026.",
+    "author": "Sabine Kern, Kantenraum Ingenieure GmbH",
+    "date": "2026-10-06",
+    "sheets": [
+      {
+        "name": "Fensterelemente",
+        "title": "F1: Geometrisches Elementregister",
+        "subtitle": "Neues internes Zählregister aus 17_Elementabmessungen_F1.docx: 98 Elemente. Laufnummern innerhalb der vier Maßgruppen; keine neuen Montageorte oder Aufmaßwerte.",
+        "columns": [
+          {
+            "label": "Registerkennung",
+            "width": 19,
+            "type": "text"
+          },
+          {
+            "label": "Maßgruppe",
+            "width": 14,
+            "type": "text"
+          },
+          {
+            "label": "Anzahl",
+            "width": 11,
+            "type": "number",
+            "format": "0"
+          },
+          {
+            "label": "Breite m",
+            "width": 13,
+            "type": "number"
+          },
+          {
+            "label": "Höhe m",
+            "width": 13,
+            "type": "number"
+          },
+          {
+            "label": "Teilung",
+            "width": 29,
+            "type": "text"
+          },
+          {
+            "label": "Fläche m²",
+            "width": 15,
+            "type": "number"
+          },
+          {
+            "label": "Beleg",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Planstand",
+            "width": 15,
+            "type": "date"
+          }
+        ],
+        "rows": [
+          [
+            "F1-01-001",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C9*D9*E9,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-002",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C10*D10*E10,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-003",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C11*D11*E11,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-004",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C12*D12*E12,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-005",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C13*D13*E13,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-006",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C14*D14*E14,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-007",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C15*D15*E15,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-008",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C16*D16*E16,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-009",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C17*D17*E17,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-010",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C18*D18*E18,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-011",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C19*D19*E19,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-012",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C20*D20*E20,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-013",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C21*D21*E21,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-014",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C22*D22*E22,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-015",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C23*D23*E23,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-016",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C24*D24*E24,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-017",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C25*D25*E25,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-018",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C26*D26*E26,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-019",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C27*D27*E27,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-020",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C28*D28*E28,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-021",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C29*D29*E29,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-022",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C30*D30*E30,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-023",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C31*D31*E31,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-024",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C32*D32*E32,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-025",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C33*D33*E33,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-026",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C34*D34*E34,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-027",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C35*D35*E35,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-028",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C36*D36*E36,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-029",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C37*D37*E37,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-030",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C38*D38*E38,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-031",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C39*D39*E39,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-032",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C40*D40*E40,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-033",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C41*D41*E41,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-034",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C42*D42*E42,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-035",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C43*D43*E43,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-036",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C44*D44*E44,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-037",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C45*D45*E45,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-038",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C46*D46*E46,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-039",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C47*D47*E47,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-01-040",
+            "F1-01",
+            1,
+            1.2,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C48*D48*E48,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-001",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C49*D49*E49,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-002",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C50*D50*E50,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-003",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C51*D51*E51,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-004",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C52*D52*E52,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-005",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C53*D53*E53,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-006",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C54*D54*E54,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-007",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C55*D55*E55,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-008",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C56*D56*E56,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-009",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C57*D57*E57,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-010",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C58*D58*E58,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-011",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C59*D59*E59,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-012",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C60*D60*E60,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-013",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C61*D61*E61,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-014",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C62*D62*E62,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-015",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C63*D63*E63,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-016",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C64*D64*E64,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-017",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C65*D65*E65,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-018",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C66*D66*E66,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-019",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C67*D67*E67,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-020",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C68*D68*E68,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-021",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C69*D69*E69,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-022",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C70*D70*E70,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-023",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C71*D71*E71,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-02-023",
+            "F1-02",
+            1,
+            1.5,
+            2,
+            "Teilung gemäß Planstand",
+            "=ROUND(C72*D72*E72,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-001",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C73*D73*E73,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-002",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C74*D74*E74,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-003",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C75*D75*E75,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-004",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C76*D76*E76,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-005",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C77*D77*E77,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-006",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C78*D78*E78,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-007",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C79*D79*E79,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-008",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C80*D80*E80,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-009",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C81*D81*E81,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-010",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C82*D82*E82,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-011",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C83*D83*E83,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-012",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C84*D84*E84,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-013",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C85*D85*E85,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-014",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C86*D86*E86,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-015",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C87*D87*E87,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-016",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C88*D88*E88,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-017",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C89*D89*E89,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-03-018",
+            "F1-03",
+            1,
+            2,
+            2,
+            "oberer Flügel fest",
+            "=ROUND(C90*D90*E90,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-001",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C91*D91*E91,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-002",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C92*D92*E92,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-003",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C93*D93*E93,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-004",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C94*D94*E94,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-005",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C95*D95*E95,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-006",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C96*D96*E96,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-007",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C97*D97*E97,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-008",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C98*D98*E98,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-009",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C99*D99*E99,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-010",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C100*D100*E100,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-011",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C101*D101*E101,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-012",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C102*D102*E102,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-013",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C103*D103*E103,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-014",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C104*D104*E104,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-015",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C105*D105*E105,2)",
+            "JB-06",
+            "2026-09-04"
+          ],
+          [
+            "F1-04-016",
+            "F1-04",
+            1,
+            1,
+            1.5,
+            "Teilung gemäß Planstand",
+            "=ROUND(C106*D106*E106,2)",
+            "JB-06",
+            "2026-09-04"
+          ]
+        ],
+        "totals": [
+          2,
+          6
+        ]
+      },
+      {
+        "name": "Positionspreise",
+        "title": "Positionspreise der drei Hauptangebote",
+        "subtitle": "08_Preisdaten_Export.csv und Angebote 05 bis 07. Eingetragener Gesamtpreis und Rechenbetrag getrennt; Rautenbau-Skonto nicht als unbedingter Nachlass geführt.",
+        "columns": [
+          {
+            "label": "Bieter",
+            "width": 19,
+            "type": "text"
+          },
+          {
+            "label": "Position",
+            "width": 14,
+            "type": "text"
+          },
+          {
+            "label": "Einheit",
+            "width": 11,
+            "type": "text"
+          },
+          {
+            "label": "Menge",
+            "width": 13,
+            "type": "number"
+          },
+          {
+            "label": "EP netto EUR",
+            "width": 18,
+            "type": "money"
+          },
+          {
+            "label": "GP eingetragen EUR",
+            "width": 21,
+            "type": "money"
+          },
+          {
+            "label": "Menge × EP EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "Nachlass",
+            "width": 14,
+            "type": "percent"
+          },
+          {
+            "label": "Rechenbetrag EUR",
+            "width": 21,
+            "type": "money"
+          }
+        ],
+        "rows": [
+          [
+            "Rautenbau",
+            "01.010",
+            "m²",
+            240,
+            315,
+            75600,
+            "=ROUND(D9*E9,2)",
+            0,
+            "=ROUND(G9*(1-H9),2)"
+          ],
+          [
+            "Rautenbau",
+            "01.020",
+            "St",
+            18,
+            1900,
+            34200,
+            "=ROUND(D10*E10,2)",
+            0,
+            "=ROUND(G10*(1-H10),2)"
+          ],
+          [
+            "Rautenbau",
+            "02.010",
+            "m²",
+            120,
+            680,
+            81600,
+            "=ROUND(D11*E11,2)",
+            0,
+            "=ROUND(G11*(1-H11),2)"
+          ],
+          [
+            "Rautenbau",
+            "02.020",
+            "St",
+            60,
+            820,
+            49200,
+            "=ROUND(D12*E12,2)",
+            0,
+            "=ROUND(G12*(1-H12),2)"
+          ],
+          [
+            "Rautenbau",
+            "03.010",
+            "St",
+            24,
+            1450,
+            34800,
+            "=ROUND(D13*E13,2)",
+            0,
+            "=ROUND(G13*(1-H13),2)"
+          ],
+          [
+            "Rautenbau",
+            "04.010",
+            "psch",
+            1,
+            9800,
+            9800,
+            "=ROUND(D14*E14,2)",
+            0,
+            "=ROUND(G14*(1-H14),2)"
+          ],
+          [
+            "Rautenbau",
+            "04.020",
+            "St",
+            16,
+            2150,
+            34400,
+            "=ROUND(D15*E15,2)",
+            0,
+            "=ROUND(G15*(1-H15),2)"
+          ],
+          [
+            "Rautenbau",
+            "04.030",
+            "m",
+            80,
+            165,
+            13200,
+            "=ROUND(D16*E16,2)",
+            0,
+            "=ROUND(G16*(1-H16),2)"
+          ],
+          [
+            "Okerfenster",
+            "01.010",
+            "m²",
+            240,
+            302,
+            72480,
+            "=ROUND(D17*E17,2)",
+            0,
+            "=ROUND(G17*(1-H17),2)"
+          ],
+          [
+            "Okerfenster",
+            "01.020",
+            "St",
+            18,
+            1840,
+            33120,
+            "=ROUND(D18*E18,2)",
+            0,
+            "=ROUND(G18*(1-H18),2)"
+          ],
+          [
+            "Okerfenster",
+            "02.010",
+            "m²",
+            120,
+            645,
+            77400,
+            "=ROUND(D19*E19,2)",
+            0,
+            "=ROUND(G19*(1-H19),2)"
+          ],
+          [
+            "Okerfenster",
+            "02.020",
+            "St",
+            60,
+            805,
+            48300,
+            "=ROUND(D20*E20,2)",
+            0,
+            "=ROUND(G20*(1-H20),2)"
+          ],
+          [
+            "Okerfenster",
+            "03.010",
+            "St",
+            24,
+            1430,
+            34320,
+            "=ROUND(D21*E21,2)",
+            0,
+            "=ROUND(G21*(1-H21),2)"
+          ],
+          [
+            "Okerfenster",
+            "04.010",
+            "psch",
+            1,
+            11500,
+            11500,
+            "=ROUND(D22*E22,2)",
+            0,
+            "=ROUND(G22*(1-H22),2)"
+          ],
+          [
+            "Okerfenster",
+            "04.020",
+            "St",
+            16,
+            2200,
+            35200,
+            "=ROUND(D23*E23,2)",
+            0,
+            "=ROUND(G23*(1-H23),2)"
+          ],
+          [
+            "Okerfenster",
+            "04.030",
+            "m",
+            80,
+            160,
+            12800,
+            "=ROUND(D24*E24,2)",
+            0,
+            "=ROUND(G24*(1-H24),2)"
+          ],
+          [
+            "Bergglas",
+            "01.010",
+            "m²",
+            240,
+            328,
+            78720,
+            "=ROUND(D25*E25,2)",
+            0.02,
+            "=ROUND(G25*(1-H25),2)"
+          ],
+          [
+            "Bergglas",
+            "01.020",
+            "St",
+            18,
+            1810,
+            32580,
+            "=ROUND(D26*E26,2)",
+            0.02,
+            "=ROUND(G26*(1-H26),2)"
+          ],
+          [
+            "Bergglas",
+            "02.010",
+            "m²",
+            120,
+            670,
+            80400,
+            "=ROUND(D27*E27,2)",
+            0.02,
+            "=ROUND(G27*(1-H27),2)"
+          ],
+          [
+            "Bergglas",
+            "02.020",
+            "St",
+            60,
+            790,
+            47400,
+            "=ROUND(D28*E28,2)",
+            0.02,
+            "=ROUND(G28*(1-H28),2)"
+          ],
+          [
+            "Bergglas",
+            "03.010",
+            "St",
+            24,
+            1510,
+            36240,
+            "=ROUND(D29*E29,2)",
+            0.02,
+            "=ROUND(G29*(1-H29),2)"
+          ],
+          [
+            "Bergglas",
+            "04.010",
+            "psch",
+            1,
+            8700,
+            8700,
+            "=ROUND(D30*E30,2)",
+            0.02,
+            "=ROUND(G30*(1-H30),2)"
+          ],
+          [
+            "Bergglas",
+            "04.020",
+            "St",
+            16,
+            2090,
+            33000,
+            "=ROUND(D31*E31,2)",
+            0.02,
+            "=ROUND(G31*(1-H31),2)"
+          ],
+          [
+            "Bergglas",
+            "04.030",
+            "m",
+            80,
+            155,
+            12400,
+            "=ROUND(D32*E32,2)",
+            0.02,
+            "=ROUND(G32*(1-H32),2)"
+          ]
+        ],
+        "totals": []
+      },
+      {
+        "name": "Verfahrensjournal",
+        "title": "Eingang, Zugriff und Terminbindungen",
+        "subtitle": "Neues internes Journal aus den aufgeführten Unterlagen. Bietertermine und Mitteilungen sind nach Urheber erfasst; Versandfreigaben gesondert.",
+        "columns": [
+          {
+            "label": "Datum",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Uhrzeit",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Vorgang",
+            "width": 33,
+            "type": "text"
+          },
+          {
+            "label": "Beteiligte",
+            "width": 28,
+            "type": "text"
+          },
+          {
+            "label": "Objekt / Bezug",
+            "width": 32,
+            "type": "text"
+          },
+          {
+            "label": "Status",
+            "width": 29,
+            "type": "text"
+          },
+          {
+            "label": "Quelle",
+            "width": 43,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-09-07",
+            null,
+            "Bereitstellung",
+            "Miriam Ehlers",
+            "F03 / Ausgabe 1",
+            "bekanntgemacht",
+            "01_Verfahrensbedingungen.docx"
+          ],
+          [
+            "2026-09-22",
+            "13:00",
+            "Antwort Steuerung",
+            "Miriam Ehlers",
+            "02.020",
+            "gleichzeitig veröffentlicht",
+            "03_Bieterantwort_Steuerung.eml"
+          ],
+          [
+            "2026-10-02",
+            "14:12",
+            "Angebotseingang",
+            "Rautenbau",
+            "Hauptangebot",
+            "verschlüsselt",
+            "04_Oeffnungsniederschrift.pdf"
+          ],
+          [
+            "2026-10-05",
+            "09:41",
+            "Angebotseingang",
+            "Okerfenster",
+            "Hauptangebot",
+            "verschlüsselt",
+            "04_Oeffnungsniederschrift.pdf"
+          ],
+          [
+            "2026-10-05",
+            "09:58",
+            "Angebotseingang",
+            "Bergglas",
+            "Hauptangebot",
+            "verschlüsselt",
+            "04_Oeffnungsniederschrift.pdf"
+          ],
+          [
+            "2026-10-05",
+            "09:59:59",
+            "Inhaltszugriff",
+            "System",
+            "drei Container",
+            "gesperrt",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-05",
+            "10:03:12",
+            "Gemeinsame Öffnung",
+            "Ehlers / Schütz",
+            "drei Container",
+            "ausgeführt",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-05",
+            "10:21:09",
+            "Export Hauptangebote",
+            "David Schütz",
+            "05 / 06 / 07",
+            "geschützter Arbeitsordner",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-05",
+            "12:44",
+            "E1 und Profil",
+            "Enno Voss",
+            "OV78 / G3",
+            "E1 nicht beigefügt",
+            "11_Okerfenster_Erlaeuterung.eml"
+          ],
+          [
+            "2026-10-05",
+            "14:05:18",
+            "Produktblatt gelesen",
+            "Jonas Blume",
+            "OV78",
+            "zugelassen",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-05",
+            "14:11:42",
+            "Preisdaten heruntergeladen",
+            "Sabine Kern",
+            "08_Preisdaten_Export.csv",
+            "Arbeitskopie",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-05",
+            "15:32",
+            "Auskunft verlangt",
+            "Nora Baumeister",
+            "fremde Preis- und Produktblätter",
+            "Bieterforderung",
+            "12_Rautenbau_Auskunftsverlangen.eml"
+          ],
+          [
+            "2026-10-06",
+            "08:46:03",
+            "Bergglas-Angebot angefragt",
+            "Carsten Möller",
+            "07_Angebot_Bergglas.pdf",
+            "Zugriff abgewiesen",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-06",
+            "09:12:24",
+            "Versandfreigabe abgefragt",
+            "Miriam Ehlers",
+            "externer Versand",
+            "keine Freigabe vorhanden",
+            "18_Zugriffsjournal_Pruefraum.csv"
+          ],
+          [
+            "2026-10-06",
+            "11:37",
+            "Nordlicht-Schreiben eingegangen",
+            "Enno Voss",
+            "24 Rauchabzüge",
+            "keine unterschriebene N2",
+            "21_Okerfenster_Nordlicht.eml"
+          ],
+          [
+            "2026-10-07",
+            null,
+            "Antwort von Bieter erbeten",
+            "Nora Baumeister",
+            "Auskunftsanfrage",
+            "Termin laut Bieter",
+            "12_Rautenbau_Auskunftsverlangen.eml"
+          ],
+          [
+            "2026-10-08",
+            null,
+            "Technischer Bearbeitungsstand",
+            "Jonas Blume / Sabine Kern",
+            "F03",
+            "erste Fundstellen vorgesehen",
+            "13_Vertraulichkeit_Projektgruppe.docx"
+          ],
+          [
+            "2026-12-03",
+            null,
+            "Ende Bindefrist",
+            "Vergabestelle",
+            "drei Hauptangebote",
+            "Frist laut Bedingungen",
+            "01_Verfahrensbedingungen.docx"
+          ],
+          [
+            "2026-12-07",
+            null,
+            "Aufmaß vor Ort",
+            "Fassadenlos F03",
+            "Bildungsforum Oker",
+            "ab diesem Tag möglich",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2027-04-19",
+            null,
+            "Kolonne Nordlicht",
+            "Sven Martens",
+            "Rauchabzugsmontage",
+            "unter Zugangsvorbehalt",
+            "19_Nordlicht_Kapazitaetsvorbehalt.pdf"
+          ]
+        ],
+        "totals": []
+      }
+    ],
+    "intentional": [
+      {
+        "sheet": "Fensterelemente",
+        "cell": "A72",
+        "actual": "F1-02-023",
+        "expected": "F1-02-024",
+        "reason": "Die letzte interne Laufnummer der Gruppe F1-02 wiederholt die vorletzte. Die 24 zugehörigen Elemente und sämtliche Flächen bleiben unverändert.",
+        "source": "Neues internes Zählregister, fortlaufende Kennungen je Maßgruppe; 17_Elementabmessungen_F1.docx, F1-02 mit 24 Stück"
+      },
+      {
+        "sheet": "Verfahrensjournal",
+        "cell": "A26",
+        "actual": "2026-12-03",
+        "expected": "2026-12-04",
+        "reason": "Die Bindefrist wurde um einen Tag verkürzt übertragen.",
+        "source": "01_Verfahrensbedingungen.docx, Abschnitt 2; 05_Angebot_Rautenbau.pdf und 07_Angebot_Bergglas.pdf"
+      }
+    ],
+    "controls": [
+      {
+        "sheet": "Fensterelemente",
+        "cell": "C5",
+        "value": 98
+      },
+      {
+        "sheet": "Fensterelemente",
+        "cell": "G5",
+        "value": 240
+      },
+      {
+        "sheet": "Positionspreise",
+        "cell": "B9",
+        "value": "01.010"
+      },
+      {
+        "sheet": "Positionspreise",
+        "cell": "G31",
+        "value": 33440
+      },
+      {
+        "sheet": "Positionspreise",
+        "cell": "I31",
+        "value": 32771.2
+      },
+      {
+        "sheet": "Positionspreise",
+        "cell": "F31",
+        "value": 33000
+      }
+    ],
+    "mutation": {
+      "sheet": "Fensterelemente",
+      "cell": "D9",
+      "value": 1.3,
+      "outputSheet": "Fensterelemente",
+      "outputCell": "G5",
+      "expected": 240.15
+    }
+  },
+  {
+    "slug": "bau-rundum-bauzeit-claim-minden",
+    "filename": "22_Bauablauf_Kranmiete_Tagesdisposition.xlsx",
+    "title": "Hochwasserlager Wesertor: Ablauf und Ressourcen",
+    "subtitle": "HW-26. Baucontrolling Porta Hallenbau, Stand 15.06.2026.",
+    "author": "Jana Brüggemann, Porta Hallenbau GmbH",
+    "date": "2026-06-15",
+    "sheets": [
+      {
+        "name": "Bauablauf",
+        "title": "Vertragsablauf und gemeldete Isttermine",
+        "subtitle": "Neues Ablaufregister aus 02_Vertragsablauf.xlsx und 03_Isttermine.csv. Dauern als Kalenderbelegung, einschließlich Erhärtung; Vorgänger aus Vertragsablauf.",
+        "columns": [
+          {
+            "label": "Vorgang",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Leistung",
+            "width": 30,
+            "type": "text"
+          },
+          {
+            "label": "Sollbeginn",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Sollende",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Istbeginn",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Istende",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Soll Kalendertage",
+            "width": 20,
+            "type": "number"
+          },
+          {
+            "label": "Ist Kalendertage",
+            "width": 20,
+            "type": "number"
+          },
+          {
+            "label": "Vorgänger",
+            "width": 14,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "V01",
+            "Einrichtung",
+            "2026-03-02",
+            "2026-03-02",
+            "2026-03-02",
+            "2026-03-02",
+            "=D9-C9+1",
+            "=F9-E9+1",
+            null
+          ],
+          [
+            "V02",
+            "Aushub",
+            "2026-03-03",
+            "2026-03-06",
+            "2026-03-03",
+            "2026-03-10",
+            "=D10-C10+1",
+            "=F10-E10+1",
+            "V01"
+          ],
+          [
+            "V03",
+            "Fundamente",
+            "2026-03-09",
+            "2026-03-13",
+            "2026-03-11",
+            "2026-03-30",
+            "=D11-C11+1",
+            "=F11-E11+1",
+            "V02"
+          ],
+          [
+            "V04",
+            "Bodenplatte",
+            "2026-03-16",
+            "2026-03-20",
+            "2026-03-19",
+            "2026-03-31",
+            "=D12-C12+1",
+            "=F12-E12+1",
+            "V03"
+          ],
+          [
+            "V05",
+            "Wände",
+            "2026-03-23",
+            "2026-03-31",
+            "2026-03-27",
+            "2026-04-14",
+            "=D13-C13+1",
+            "=F13-E13+1",
+            "V04"
+          ],
+          [
+            "V06",
+            "Decke",
+            "2026-04-01",
+            "2026-04-10",
+            "2026-04-15",
+            "2026-04-28",
+            "=D14-C14+1",
+            "=F14-E14+1",
+            "V05"
+          ],
+          [
+            "V07",
+            "Erhärtung",
+            "2026-04-11",
+            "2026-04-17",
+            "2026-04-29",
+            "2026-05-05",
+            "=D15-C15+1",
+            "=F15-E15+1",
+            "V06"
+          ],
+          [
+            "V08",
+            "Dachunterkonstruktion",
+            "2026-04-20",
+            "2026-04-24",
+            "2026-05-06",
+            "2026-05-13",
+            "=D16-C16+1",
+            "=F16-E16+1",
+            "V07"
+          ],
+          [
+            "V09",
+            "Abdichtung",
+            "2026-04-27",
+            "2026-04-30",
+            "2026-05-15",
+            "2026-05-22",
+            "=D17-C17+1",
+            "=F17-E17+1",
+            "V08"
+          ],
+          [
+            "V10",
+            "Fassadenanker",
+            "2026-05-04",
+            "2026-05-08",
+            "2026-05-26",
+            "2026-06-02",
+            "=D18-C18+1",
+            "=F18-E18+1",
+            "V09"
+          ],
+          [
+            "V11",
+            "Räumen und Kontrolle",
+            "2026-05-11",
+            "2026-05-13",
+            "2026-06-03",
+            "2026-06-05",
+            "=D19-C19+1",
+            "=F19-E19+1",
+            "V10"
+          ],
+          [
+            "V12",
+            "Übergabe",
+            "2026-05-15",
+            "2026-05-15",
+            "2026-06-08",
+            "2026-06-08",
+            "=D20-C20+1",
+            "=F20-E20+1",
+            "V11"
+          ]
+        ],
+        "totals": []
+      },
+      {
+        "name": "Kranmiete März",
+        "title": "MK-44: Miettage und belegte Hubzeiten",
+        "subtitle": "17_Mietrechnung_Mobilkran.pdf: 22 Miettage im März. Hubzeiten nur aus den sechs Kartenzeilen in 18_Geraetestunden_MK44.csv; keine vollständige Betriebsstundenerfassung.",
+        "columns": [
+          {
+            "label": "Miettag",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Gerät",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Mietbeleg",
+            "width": 17,
+            "type": "text"
+          },
+          {
+            "label": "Berechnete Tage",
+            "width": 19,
+            "type": "number"
+          },
+          {
+            "label": "Tagessatz netto EUR",
+            "width": 22,
+            "type": "money"
+          },
+          {
+            "label": "Miete netto EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "Belegte Hubstunden",
+            "width": 21,
+            "type": "number"
+          },
+          {
+            "label": "Karteneintrag",
+            "width": 38,
+            "type": "text"
+          },
+          {
+            "label": "Stundenbeleg",
+            "width": 37,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-03-02",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D9*E9,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-03",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D10*E10,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-04",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D11*E11,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-05",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D12*E12,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-06",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D13*E13,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-09",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D14*E14,2)",
+            0,
+            "kein Hub vermerkt",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-10",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D15*E15,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-11",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D16*E16,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-12",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D17*E17,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-13",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D18*E18,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-16",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D19*E19,2)",
+            4,
+            "Schalung umgesetzt",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-17",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D20*E20,2)",
+            3.5,
+            "Bewehrung und Material umgesetzt",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-18",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D21*E21,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-19",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D22*E22,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-20",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D23*E23,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-23",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D24*E24,2)",
+            5,
+            "Schalung und Betonierhilfen",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-24",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D25*E25,2)",
+            4.5,
+            "Plattentakt bedient",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-25",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D26*E26,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-26",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D27*E27,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-27",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D28*E28,2)",
+            null,
+            null,
+            null
+          ],
+          [
+            "2026-03-30",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D29*E29,2)",
+            2,
+            "Fundamentergänzung",
+            "18_Geraetestunden_MK44.csv"
+          ],
+          [
+            "2026-03-31",
+            "MK-44",
+            "KM-260331",
+            1,
+            420,
+            "=ROUND(D30*E30,2)",
+            null,
+            null,
+            null
+          ]
+        ],
+        "totals": [
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "name": "Tagesdisposition",
+        "title": "Personal, Wetter und Bautagesmeldungen",
+        "subtitle": "Neues Tagesregister: 10_Personalstunden.csv an elf Tagen, 09_Wettermessungen.csv an zehn Tagen. Tagesnotizen aus 08_Bautagebuch.txt, WB-1203 und Istablauf. Summen nur aus belegten Stunden.",
+        "columns": [
+          {
+            "label": "Datum",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Soll Fachkräfte",
+            "width": 19,
+            "type": "number"
+          },
+          {
+            "label": "Ist Fachkräfte",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Regelstunden",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Zusatzstunden",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Regen mm/24 h",
+            "width": 19,
+            "type": "number"
+          },
+          {
+            "label": "Personalbeleg",
+            "width": 31,
+            "type": "text"
+          },
+          {
+            "label": "Wetterbeleg",
+            "width": 31,
+            "type": "text"
+          },
+          {
+            "label": "Tagesnotiz",
+            "width": 43,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-03-02",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Einrichtung abgeschlossen"
+          ],
+          [
+            "2026-03-03",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Aushub begonnen"
+          ],
+          [
+            "2026-03-04",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Aushubphase laut Istablauf"
+          ],
+          [
+            "2026-03-05",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Aushubphase laut Istablauf"
+          ],
+          [
+            "2026-03-06",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Aushubphase laut Istablauf"
+          ],
+          [
+            "2026-03-09",
+            6,
+            4,
+            32,
+            0,
+            0,
+            "10_Personalstunden.csv",
+            "09_Wettermessungen.csv",
+            "F17 Süd fehlt; Norden Aushub"
+          ],
+          [
+            "2026-03-10",
+            6,
+            4,
+            32,
+            0,
+            2,
+            "10_Personalstunden.csv",
+            "09_Wettermessungen.csv",
+            "Aushub Nord fertig; F17B 16:20"
+          ],
+          [
+            "2026-03-11",
+            6,
+            3,
+            24,
+            0,
+            18,
+            "10_Personalstunden.csv",
+            "09_Wettermessungen.csv",
+            "F17B 06:48 abgerufen; Westbeginn"
+          ],
+          [
+            "2026-03-12",
+            6,
+            3,
+            24,
+            0,
+            26,
+            "09_Wettermessungen.csv",
+            "09_Wettermessungen.csv",
+            "Betonabruf 07:40 abgesagt"
+          ],
+          [
+            "2026-03-13",
+            6,
+            3,
+            24,
+            0,
+            12,
+            "10_Personalstunden.csv",
+            "09_Wettermessungen.csv",
+            "Schalung Nord; Abschaltung entfällt"
+          ],
+          [
+            "2026-03-16",
+            6,
+            6,
+            48,
+            0,
+            1,
+            "10_Personalstunden.csv",
+            "09_Wettermessungen.csv",
+            "Süd gesperrt; Schalung West"
+          ],
+          [
+            "2026-03-17",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Nordbewehrung und Umlagerung"
+          ],
+          [
+            "2026-03-18",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Fundamente West fertig"
+          ],
+          [
+            "2026-03-19",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Bodenplatte Nord begonnen"
+          ],
+          [
+            "2026-03-20",
+            null,
+            null,
+            null,
+            null,
+            0,
+            null,
+            "09_Wettermessungen.csv",
+            "F17C 11:05; Süd bleibt gesperrt"
+          ],
+          [
+            "2026-03-23",
+            null,
+            null,
+            null,
+            null,
+            0,
+            null,
+            "09_Wettermessungen.csv",
+            "Bodenplatte Nord"
+          ],
+          [
+            "2026-03-24",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Bodenplatte Mitte"
+          ],
+          [
+            "2026-03-25",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Letzter Plattenteil Nord fertig"
+          ],
+          [
+            "2026-03-26",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Wandbeginn Nord"
+          ],
+          [
+            "2026-03-27",
+            null,
+            null,
+            null,
+            null,
+            2,
+            null,
+            "09_Wettermessungen.csv",
+            "Anruf Freischaltung 09:20"
+          ],
+          [
+            "2026-03-30",
+            null,
+            null,
+            null,
+            null,
+            0,
+            null,
+            "09_Wettermessungen.csv",
+            "Fundamentergänzung Süd"
+          ],
+          [
+            "2026-03-31",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Südlicher Plattenrand geschlossen"
+          ],
+          [
+            "2026-04-22",
+            6,
+            8,
+            64,
+            24,
+            null,
+            "10_Personalstunden.csv",
+            null,
+            "Deckenschichten, acht Fachkräfte"
+          ],
+          [
+            "2026-04-23",
+            6,
+            8,
+            64,
+            32,
+            null,
+            "10_Personalstunden.csv",
+            null,
+            "Zusätzliche Schicht"
+          ],
+          [
+            "2026-04-24",
+            6,
+            8,
+            64,
+            32,
+            null,
+            "10_Personalstunden.csv",
+            null,
+            "Deckenschichten fortgesetzt"
+          ],
+          [
+            "2026-04-27",
+            6,
+            8,
+            64,
+            32,
+            null,
+            "10_Personalstunden.csv",
+            null,
+            "Deckenschichten fortgesetzt"
+          ],
+          [
+            "2026-04-28",
+            6,
+            8,
+            64,
+            24,
+            null,
+            "10_Personalstunden.csv",
+            null,
+            "Deckenbetonage abgeschlossen"
+          ]
+        ],
+        "totals": [
+          3,
+          4
+        ]
+      }
+    ],
+    "intentional": [
+      {
+        "sheet": "Bauablauf",
+        "cell": "E13",
+        "actual": "2026-03-27",
+        "expected": "2026-03-26",
+        "reason": "Der tatsächliche Wandbeginn wurde einen Kalendertag zu spät übertragen; die berechnete Istbelegung verkürzt sich entsprechend.",
+        "source": "03_Isttermine.csv, V05; 08_Bautagebuch.txt, 26.03."
+      },
+      {
+        "sheet": "Tagesdisposition",
+        "cell": "G17",
+        "actual": "09_Wettermessungen.csv",
+        "expected": "10_Personalstunden.csv",
+        "reason": "Der Personalwert vom 12.03. ist der Wetterdatei statt dem Stundenexport zugeordnet. Die Zahlen des Tages bleiben unverändert.",
+        "source": "10_Personalstunden.csv, 2026-03-12"
+      }
+    ],
+    "controls": [
+      {
+        "sheet": "Kranmiete März",
+        "cell": "D5",
+        "value": 22
+      },
+      {
+        "sheet": "Kranmiete März",
+        "cell": "F5",
+        "value": 9240
+      },
+      {
+        "sheet": "Kranmiete März",
+        "cell": "G5",
+        "value": 19
+      },
+      {
+        "sheet": "Tagesdisposition",
+        "cell": "D5",
+        "value": 504
+      },
+      {
+        "sheet": "Tagesdisposition",
+        "cell": "E5",
+        "value": 144
+      },
+      {
+        "sheet": "Bauablauf",
+        "cell": "G11",
+        "value": 5
+      }
+    ],
+    "mutation": {
+      "sheet": "Kranmiete März",
+      "cell": "E9",
+      "value": 430,
+      "outputSheet": "Kranmiete März",
+      "outputCell": "F5",
+      "expected": 9250
+    }
+  },
+  {
+    "slug": "bau-rundum-nachtrag-northeim",
+    "filename": "22_Trassen_Lager_und_Preisregister_N03.xlsx",
+    "title": "Rettungszentrum Leinetor: Trassen, Lager und Preise",
+    "subtitle": "RL-26 / T02. Rhume Tiefbau, Stand 25.09.2026. N03 nicht freigegeben.",
+    "author": "Uwe Brinkmann, Rhume Tiefbau GmbH",
+    "date": "2026-09-25",
+    "sheets": [
+      {
+        "name": "Trassenstationen",
+        "title": "Entwässerungsachsen nach Bestandsaufnahme",
+        "subtitle": "Neues Stationsregister aus 06_Aufmass_Leitungsachsen.csv. Rechnerische 10-m-Teilung innerhalb der vier Achsen; kein zusätzliches Feldaufmaß. Stationierung je Abschnitt ab null.",
+        "columns": [
+          {
+            "label": "Registerkennung",
+            "width": 19,
+            "type": "text"
+          },
+          {
+            "label": "Abschnitt",
+            "width": 14,
+            "type": "text"
+          },
+          {
+            "label": "Anfang Achse",
+            "width": 22,
+            "type": "text"
+          },
+          {
+            "label": "Ende Achse",
+            "width": 22,
+            "type": "text"
+          },
+          {
+            "label": "Station von m",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Station bis m",
+            "width": 18,
+            "type": "number"
+          },
+          {
+            "label": "Teillänge m",
+            "width": 17,
+            "type": "number"
+          },
+          {
+            "label": "DN laut LV",
+            "width": 15,
+            "type": "number",
+            "format": "0"
+          },
+          {
+            "label": "Planungsstand",
+            "width": 38,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "N1-01",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            0,
+            10,
+            "=F9-E9",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-02",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            10,
+            20,
+            "=F10-E10",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-03",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            20,
+            30,
+            "=F11-E11",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-04",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            30,
+            40,
+            "=F12-E12",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-05",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            40,
+            50,
+            "=F13-E13",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-06",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            50,
+            60,
+            "=F14-E14",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-07",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            60,
+            70,
+            "=F15-E15",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-08",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            70,
+            80,
+            "=F16-E16",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "N1-09",
+            "N1",
+            "Schacht N1",
+            "Schacht N2",
+            80,
+            86,
+            "=F17-E17",
+            150,
+            "Nordzugang unverändert gewünscht"
+          ],
+          [
+            "S1-01",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            0,
+            10,
+            "=F18-E18",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-02",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            10,
+            20,
+            "=F19-E19",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-03",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            20,
+            30,
+            "=F20-E20",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-04",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            30,
+            40,
+            "=F21-E21",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-05",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            40,
+            50,
+            "=F22-E22",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-06",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            50,
+            60,
+            "=F23-E23",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S1-07",
+            "S1",
+            "Schacht N2",
+            "Schacht S2",
+            60,
+            64,
+            "=F24-E24",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-01",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            0,
+            10,
+            "=F25-E25",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-02",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            10,
+            20,
+            "=F26-E26",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-03",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            20,
+            30,
+            "=F27-E27",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-04",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            30,
+            40,
+            "=F28-E28",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-05",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            40,
+            50,
+            "=F29-E29",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-06",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            50,
+            60,
+            "=F30-E30",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-07",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            60,
+            70,
+            "=F31-E31",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "S2-08",
+            "S2",
+            "Schacht S2",
+            "Schacht S4",
+            70,
+            72,
+            "=F32-E32",
+            150,
+            "DN200 in technischer Klärung"
+          ],
+          [
+            "N2-01",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            0,
+            10,
+            "=F33-E33",
+            150,
+            "DN150-Stutzen E1"
+          ],
+          [
+            "N2-02",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            10,
+            20,
+            "=F34-E34",
+            150,
+            "DN150-Stutzen E1"
+          ],
+          [
+            "N2-03",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            20,
+            30,
+            "=F35-E35",
+            150,
+            "DN150-Stutzen E1"
+          ],
+          [
+            "N2-04",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            30,
+            40,
+            "=F36-E36",
+            150,
+            "DN150-Stutzen E1"
+          ],
+          [
+            "N2-05",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            40,
+            50,
+            "=F37-E37",
+            150,
+            "DN150-Stutzen E1"
+          ],
+          [
+            "N2-06",
+            "N2",
+            "Schacht S4",
+            "Einleitung E1",
+            50,
+            58,
+            "=F38-E38",
+            150,
+            "DN150-Stutzen E1"
+          ]
+        ],
+        "totals": [
+          6
+        ]
+      },
+      {
+        "name": "Rohrlager",
+        "title": "DN150: Lagerbestand und Rücknahmeauskunft",
+        "subtitle": "18_Lagerbestaende_DN150.csv und 19_Ruecknahmeauskunft_Rohrkontor.pdf. Bestand Lager Ost; Rücknahmebeträge unter Eingangsvorbehalt, bislang keine Gutschrift.",
+        "columns": [
+          {
+            "label": "Kennung",
+            "width": 14,
+            "type": "text"
+          },
+          {
+            "label": "Zustand",
+            "width": 47,
+            "type": "text"
+          },
+          {
+            "label": "Bestand m",
+            "width": 15,
+            "type": "number"
+          },
+          {
+            "label": "Material EUR/m",
+            "width": 19,
+            "type": "money"
+          },
+          {
+            "label": "Materialwert EUR",
+            "width": 21,
+            "type": "money"
+          },
+          {
+            "label": "Bearbeitung",
+            "width": 16,
+            "type": "percent"
+          },
+          {
+            "label": "Rücknahmeangebot EUR",
+            "width": 24,
+            "type": "money"
+          },
+          {
+            "label": "Rücknahmestand",
+            "width": 38,
+            "type": "text"
+          },
+          {
+            "label": "Aufnahme",
+            "width": 15,
+            "type": "date"
+          }
+        ],
+        "rows": [
+          [
+            "B01",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C9*D9,2)",
+            0.1,
+            "=ROUND(E9*(1-F9),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "B02",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C10*D10,2)",
+            0.1,
+            "=ROUND(E10*(1-F10),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "B03",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C11*D11,2)",
+            0.1,
+            "=ROUND(E11*(1-F11),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "B04",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C12*D12,2)",
+            0.1,
+            "=ROUND(E12*(1-F12),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "B05",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C13*D13,2)",
+            0.1,
+            "=ROUND(E13*(1-F13),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "B05",
+            "Bund geschlossen",
+            40,
+            "='Preisregister'!F16",
+            "=ROUND(C14*D14,2)",
+            0.1,
+            "=ROUND(E14*(1-F14),2)",
+            "nach unbeschädigtem Lagereingang",
+            "2026-09-24"
+          ],
+          [
+            "O01",
+            "geöffnet; ungekürzt; zwei Muffen verschmutzt",
+            48,
+            "='Preisregister'!F16",
+            "=ROUND(C15*D15,2)",
+            null,
+            null,
+            "Rücknahmepreis offen",
+            "2026-09-24"
+          ],
+          [
+            "Z01",
+            "zugeschnitten; nicht verlegt",
+            12,
+            "='Preisregister'!F16",
+            "=ROUND(C16*D16,2)",
+            null,
+            null,
+            "Rücknahmepreis offen",
+            "2026-09-24"
+          ]
+        ],
+        "totals": [
+          2,
+          4,
+          6
+        ]
+      },
+      {
+        "name": "Preisregister",
+        "title": "Vertrag, Preisermittlung und Angebot N03",
+        "subtitle": "Neues Preisregister aus den genannten Originalen. Meterkalkulation und Gesamtbeträge getrennt bezeichnet. Angebot N03 für 280 m; Lieferpreise ohne Sonderübergang E1.",
+        "columns": [
+          {
+            "label": "Preisstand",
+            "width": 15,
+            "type": "date"
+          },
+          {
+            "label": "Kalkulation",
+            "width": 18,
+            "type": "text"
+          },
+          {
+            "label": "Bestandteil",
+            "width": 43,
+            "type": "text"
+          },
+          {
+            "label": "Einheit",
+            "width": 13,
+            "type": "text"
+          },
+          {
+            "label": "Menge / Ansatz",
+            "width": 19,
+            "type": "number"
+          },
+          {
+            "label": "Satz / Basis EUR",
+            "width": 21,
+            "type": "money"
+          },
+          {
+            "label": "Zuschlag",
+            "width": 15,
+            "type": "percent"
+          },
+          {
+            "label": "Wert EUR",
+            "width": 20,
+            "type": "money"
+          },
+          {
+            "label": "Beleg",
+            "width": 39,
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "2026-07-17",
+            "LV T02",
+            "01.010 Rohr DN150 einschließlich Bettung",
+            "m",
+            300,
+            84.71,
+            null,
+            "=ROUND(E9*F9,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "LV T02",
+            "01.020 Kontrollschacht",
+            "St",
+            6,
+            1250,
+            null,
+            "=ROUND(E10*F10,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "LV T02",
+            "02.010 Aushub Leitungsgraben",
+            "m³",
+            210,
+            24.5,
+            null,
+            "=ROUND(E11*F11,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "LV T02",
+            "02.020 Bodenabfuhr",
+            "t",
+            180,
+            19,
+            null,
+            "=ROUND(E12*F12,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "LV T02",
+            "03.010 Pflaster wiederherstellen",
+            "m²",
+            190,
+            48,
+            null,
+            "=ROUND(E13*F13,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "LV T02",
+            "04.010 Einrichtung und Verkehrssicherung",
+            "psch",
+            1,
+            6200,
+            null,
+            "=ROUND(E14*F14,2)",
+            "02_Leistungsverzeichnis.pdf"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Lohn",
+            "h/m",
+            0.6,
+            38,
+            null,
+            "=ROUND(E15*F15,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Rohrmaterial DN150",
+            "m/m",
+            1,
+            34,
+            null,
+            "=ROUND(E16*F16,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Kleingerät",
+            "h/m",
+            0.2,
+            48,
+            null,
+            "=ROUND(E17*F17,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Transport",
+            "psch/m",
+            1,
+            6,
+            null,
+            "=ROUND(E18*F18,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Zuschlag auf Einzelkosten",
+            "je m",
+            null,
+            "=SUM(H15:H18)",
+            0.17,
+            "=ROUND(F19*G19,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-07-17",
+            "DN150 je m",
+            "Einheitspreis",
+            "m",
+            1,
+            "=SUM(H15:H19)",
+            null,
+            "=ROUND(E20*F20,2)",
+            "03_Urkalkulation_Rohr.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Lohn",
+            "h/m",
+            0.85,
+            42,
+            null,
+            "=ROUND(E21*F21,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Rohrmaterial DN200",
+            "m/m",
+            1,
+            49.5,
+            null,
+            "=ROUND(E22*F22,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Gerät",
+            "h/m",
+            0.3,
+            52,
+            null,
+            "=ROUND(E23*F23,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Transport",
+            "psch/m",
+            1,
+            8.5,
+            null,
+            "=ROUND(E24*F24,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Zuschlag auf Einzelkosten",
+            "je m",
+            null,
+            "=SUM(H21:H24)",
+            0.18,
+            "=ROUND(F25*G25,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "DN200 je m",
+            "Einheitspreis",
+            "m",
+            1,
+            "=SUM(H21:H25)",
+            null,
+            "=ROUND(E26*F26,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Rohr DN200",
+            "m",
+            "='Trassenstationen'!G5",
+            "=H26",
+            null,
+            "=ROUND(E27*F27,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Entfall DN150",
+            "m",
+            "=-'Trassenstationen'!G5",
+            "=H20",
+            null,
+            "=ROUND(E28*F28,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Neue Einrichtung",
+            "psch",
+            1,
+            1850,
+            null,
+            "=ROUND(E29*F29,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Wartezeit 22. bis 25.09.",
+            "Tag",
+            4,
+            640,
+            null,
+            "=ROUND(E30*F30,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-22",
+            "RK-26221",
+            "DN200 bei Abruf 280 m",
+            "m",
+            280,
+            49.5,
+            null,
+            "=ROUND(E31*F31,2)",
+            "07_Lieferangebot_DN200.pdf"
+          ],
+          [
+            "2026-09-22",
+            "RK-26221",
+            "DN200 bei Abruf 136 m",
+            "m",
+            136,
+            52.5,
+            null,
+            "=ROUND(E32*F32,2)",
+            "07_Lieferangebot_DN200.pdf"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Mehrforderung netto",
+            "gesamt",
+            null,
+            null,
+            null,
+            "=SUM(H27:H30)",
+            "09_Begleitschreiben_N03.docx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Umsatzsteuer",
+            "gesamt",
+            null,
+            "=H33",
+            0.19,
+            "=ROUND(F34*G34,2)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ],
+          [
+            "2026-09-23",
+            "N03 gesamt",
+            "Mehrforderung brutto",
+            "gesamt",
+            null,
+            null,
+            null,
+            "=SUM(H33:H34)",
+            "08_Nachtragsangebot_N03.xlsx"
+          ]
+        ],
+        "totals": []
+      }
+    ],
+    "intentional": [
+      {
+        "sheet": "Rohrlager",
+        "cell": "A14",
+        "actual": "B05",
+        "expected": "B06",
+        "reason": "Die Kennung des sechsten geschlossenen Bundes wiederholt B05. Länge und Materialwert werden nicht verändert.",
+        "source": "18_Lagerbestaende_DN150.csv, B06; 17_Bestandsaufnahme_Rohrlager.docx"
+      },
+      {
+        "sheet": "Preisregister",
+        "cell": "F32",
+        "actual": 52.5,
+        "expected": 52,
+        "reason": "Beim gesonderten Lieferabruf über 136 m wurden 0,50 EUR je Meter zusätzlich übertragen. Die N03-Kalkulation für 280 m bleibt bei 49,50 EUR Materialpreis.",
+        "source": "07_Lieferangebot_DN200.pdf, Abschnitt 1; 21_Lieferbindung_und_Ruecknahme.eml"
+      }
+    ],
+    "controls": [
+      {
+        "sheet": "Trassenstationen",
+        "cell": "G5",
+        "value": 280
+      },
+      {
+        "sheet": "Rohrlager",
+        "cell": "C5",
+        "value": 300
+      },
+      {
+        "sheet": "Rohrlager",
+        "cell": "E5",
+        "value": 10200
+      },
+      {
+        "sheet": "Rohrlager",
+        "cell": "G5",
+        "value": 7344
+      },
+      {
+        "sheet": "Preisregister",
+        "cell": "H20",
+        "value": 84.71
+      },
+      {
+        "sheet": "Preisregister",
+        "cell": "H26",
+        "value": 128.97
+      },
+      {
+        "sheet": "Preisregister",
+        "cell": "H33",
+        "value": 16802.8
+      },
+      {
+        "sheet": "Preisregister",
+        "cell": "H35",
+        "value": 19995.33
+      }
+    ],
+    "mutation": {
+      "sheet": "Preisregister",
+      "cell": "F22",
+      "value": 50.5,
+      "outputSheet": "Preisregister",
+      "outputCell": "H33",
+      "expected": 17133.2
+    }
+  }
+]

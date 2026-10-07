@@ -278,7 +278,10 @@ def make_drawing(path,p):
 
 def metadata(folder,c):
     import yaml
+    from bau_rundum_excel import specifications
+    supplements = [s for s in specifications() if s['slug'] == c['slug']]
     inventory='\n'.join(f"| {i:02} | [{p['file']}]({p['file']}) | {dd(p['date'])} | {p['title']} |" for i,p in enumerate(c['pieces'],1))
+    inventory += ''.join(f"\n| {i:02} | [{s['filename']}]({s['filename']}) | {s['date']} | {s['title']} |" for i,s in enumerate(supplements,len(c['pieces'])+1))
     warning='> '+NOTICE.replace('\n\n','\n>\n> ')
     readme=f'''<!-- decimal-headings -->
 # 1. {c['title']}
@@ -289,7 +292,7 @@ def metadata(folder,c):
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `{c['slug']}`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-{len(c['pieces'])} eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+{len(c['pieces']) + len(supplements)} eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 ## 1.2. Herkunft
 
@@ -313,7 +316,7 @@ Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlic
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.3.
 '''
     if not (folder/'README.md').exists():
         (folder/'README.md').write_text(readme,encoding='utf-8')
@@ -374,7 +377,9 @@ def check(c):
     readme=(folder/'README.md').read_text(encoding='utf-8')
     assert all(f']({p.name})' in readme for p in additions)
     exported=[p for p in folder.rglob('*') if include_in_working_dump(p,folder)]
-    assert set(exported)==set(originals), (set(exported)-set(originals),set(originals)-set(exported))
+    from bau_rundum_excel import extra_originals
+    expected = set(originals) | {folder / name for name in extra_originals(c['slug'])}
+    assert set(exported)==expected, (set(exported)-expected,expected-set(exported))
     for p,path in zip(c['pieces'],originals):
         assert path.is_file() and path.stat().st_size>0
         counts[path.suffix]+=1

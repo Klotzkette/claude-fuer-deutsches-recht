@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-nachtrag-northeim_gesamt.pdf`](gesamt-pdf/bau-rundum-nachtrag-northeim_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-nachtrag-northeim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-nachtrag-northeim.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-nachtrag-northeim.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-nachtrag-northeim.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-nachtrag-northeim-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Angebot für eine geänderte Rohrdimension mit unklarer Reichweite einer Baustel
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-nachtrag-northeim`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+22 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -77,6 +77,7 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 19 | [19_Ruecknahmeauskunft_Rohrkontor.pdf](19_Ruecknahmeauskunft_Rohrkontor.pdf) | 25.09.2026 | Rücknahmeauskunft zur vorhandenen DN150 Ware |
 | 20 | [20_Tagesbericht_Kolonne_September.docx](20_Tagesbericht_Kolonne_September.docx) | 25.09.2026 | Kolonneneinsatz vom 22 bis 25 September |
 | 21 | [21_Lieferbindung_und_Ruecknahme.eml](21_Lieferbindung_und_Ruecknahme.eml) | 25.09.2026 | RK-26221: Rücknahmeauskunft und Bindung bis Montag |
+| 22 | [22_Trassen_Lager_und_Preisregister_N03.xlsx](22_Trassen_Lager_und_Preisregister_N03.xlsx) | 25.09.2026 | Rettungszentrum Leinetor: Trassen, Lager und Preise |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
@@ -89,4 +90,16 @@ Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlic
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.3.
+
+<!-- BEGIN excel-unterlagen -->
+
+<!-- decimal-anchor --> <a id="excel-arbeitsmappe"></a>
+
+## 1.6. Excel-Arbeitsmappe
+
+[Rettungszentrum Leinetor: Trassen, Lager und Preise](22_Trassen_Lager_und_Preisregister_N03.xlsx) enthält 65 Datenzeilen auf 3 Tabellenblättern: Trassenstationen, Rohrlager, Preisregister. Filter, Formeln und eingefrorene Kopfzeilen unterstützen den Belegabgleich. Die Arbeitsmappe liegt auch im Originalformat-ZIP; ihre Tabellen sind in den beiden PDF-Fassungen enthalten. Die Zahlenwerke sind Arbeitsstände der jeweiligen Projektbeteiligten und nicht ungeprüft zu übernehmen.
+
+[Excel-Datei direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bau-rundum-nachtrag-northeim.xlsx).
+
+<!-- END excel-unterlagen -->

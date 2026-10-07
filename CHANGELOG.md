@@ -1,3 +1,19 @@
+# bauwirtschaft-rundum-v445.33.3 - Zehn fallbezogene Excel-Arbeitsmappen
+
+## 1. Tabellen als Arbeitsunterlagen
+
+Jede der zehn Bauwirtschafts-Akten erhält eine größere Excel-Arbeitsmappe mit individuell zusammengestellten Projektdaten. Aussagekräftige Tabellenblätter, Filter, eingefrorene Kopfzeilen, Zahlenformate und nachvollziehbare Formeln unterstützen den Belegabgleich. Wenige gezielt gesetzte Abweichungen bleiben als Prüfstoff erhalten; die ausgelieferten Dateien enthalten keine Lösungshinweise.
+
+## 2. Berechnung und Ausgabe
+
+Ein eigener Regressionstest prüft Zellinhalte, Formeln, Zahlenbezüge, sichtbare Tabellen und die Übernahme aller Textfelder in die PDF-Fassung. Native Neuberechnung und veränderte Eingabewerte werden gesondert kontrolliert. Excel-Dateien, flache Einzel-PDF-ZIPs, Originalformat-ZIPs und Gesamt-PDFs stammen aus demselben Aktenbestand.
+
+Die Umlautprüfung erkennt nun auch TXT-Belegnamen als technische Dateinamen. Benachbarte Prosa bleibt unverändert geprüft; ein Regressionstest sichert beide Fälle ab.
+
+## 3. Direkter Zugriff
+
+Die zehn Arbeitsmappen sind einzeln und in einem flachen Sammel-ZIP herunterladbar. Fallseiten und Aktenverzeichnisse führen auf das neue Teilrelease. Bestehende Originalbelege, Skills, Prompts und die Marketplace-Version bleiben unverändert.
+
 # bauwirtschaft-rundum-v445.33.2 - Praxisakten mit zusätzlichen Originalbelegen
 
 ## 1. Bestehende Fälle vertieft

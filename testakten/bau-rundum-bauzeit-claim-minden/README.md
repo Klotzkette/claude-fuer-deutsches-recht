@@ -19,8 +19,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/bau-rundum-bauzeit-claim-minden_gesamt.pdf`](gesamt-pdf/bau-rundum-bauzeit-claim-minden_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bauzeit-claim-minden.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.2/testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-bauzeit-claim-minden.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/testakte-bau-rundum-bauzeit-claim-minden-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -36,7 +36,7 @@ Bauzeitforderung mit vereinbartem Ablauf, tatsächlichen Vorgängen, zwei überl
 
 Plugin: `bauwirtschaft-fortgeschrittene`. Fallkennung: `bau-rundum-bauzeit-claim-minden`.
 Genau ein Ablauf aus Insert 2 des bereitgestellten Seminar-Inserts ist dieser Akte zugeordnet.
-21 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
+22 eigenständige Originalunterlagen. Die zentralen drei Downloadformate werden durch den Paketbau ergänzt.
 
 <!-- decimal-anchor --> <a id="herkunft"></a>
 
@@ -77,6 +77,7 @@ Personen, Unternehmen, Behördenorganisationen, Adressen und Projektvorgänge si
 | 19 | [19_Betonabruf_12_Maerz.docx](19_Betonabruf_12_Maerz.docx) | 12.03.2026 | Telefonvermerk zur Betonbestellung Westfundamente |
 | 20 | [20_Kolonnenfreigabe_PW18.docx](20_Kolonnenfreigabe_PW18.docx) | 13.03.2026 | Freigabe der beiden Fachkräfte aus Auftrag PW18 |
 | 21 | [21_Fricke_Geraeteunterlagen.eml](21_Fricke_Geraeteunterlagen.eml) | 15.06.2026 | HW-26: Mietrechnung und Auszug der Hubzeiten |
+| 22 | [22_Bauablauf_Kranmiete_Tagesdisposition.xlsx](22_Bauablauf_Kranmiete_Tagesdisposition.xlsx) | 15.06.2026 | Hochwasserlager Wesertor: Ablauf und Ressourcen |
 
 <!-- decimal-anchor --> <a id="reproduktion-und-grenzen"></a>
 
@@ -89,4 +90,16 @@ Das Datenskript `scripts/bau_rundum_vertiefung_daten.py` enthält ausschließlic
 Die interne `rubric.yaml` gehört nicht zu den Arbeitsunterlagen. Technische Prüfdateien liegen außerhalb des Repositorys.
 Forderungen und Erklärungen sind Stimmen der Beteiligten, keine rechtlichen Ergebnisse. Es werden keine Live-Modelltests oder abgeschlossenen rechtlichen Quellenprüfungen behauptet. Die rechtliche Quellenprüfung bleibt Aufgabe der bearbeitenden Plugin-Agenten.
 
-Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.2.
+Autor: Klotzkette <39582916+Klotzkette@users.noreply.github.com>. Zugeordneter Pluginstand: 445.33.1. Akten-Begleitrelease: bauwirtschaft-rundum-v445.33.3.
+
+<!-- BEGIN excel-unterlagen -->
+
+<!-- decimal-anchor --> <a id="excel-arbeitsmappe"></a>
+
+## 1.6. Excel-Arbeitsmappe
+
+[Hochwasserlager Wesertor: Ablauf und Ressourcen](22_Bauablauf_Kranmiete_Tagesdisposition.xlsx) enthält 61 Datenzeilen auf 3 Tabellenblättern: Bauablauf, Kranmiete März, Tagesdisposition. Filter, Formeln und eingefrorene Kopfzeilen unterstützen den Belegabgleich. Die Arbeitsmappe liegt auch im Originalformat-ZIP; ihre Tabellen sind in den beiden PDF-Fassungen enthalten. Die Zahlenwerke sind Arbeitsstände der jeweiligen Projektbeteiligten und nicht ungeprüft zu übernehmen.
+
+[Excel-Datei direkt herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bau-rundum-bauzeit-claim-minden.xlsx).
+
+<!-- END excel-unterlagen -->
