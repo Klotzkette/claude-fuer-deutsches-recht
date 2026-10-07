@@ -1,0 +1,32 @@
+name: KI-native Kanzlei Normcheck
+
+# Ruft die amtlichen Normtexte ab, auf die sich die Skills der KI-nativen Kanzlei stützen,
+# und legt den gelesenen Wortlaut als Protokoll und Artefakt ab. Keine Änderung am Repository.
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'claude/ki-native-kanzlei-**'
+    paths:
+      - 'scripts/data/ki-native-kanzlei-normcheck.json'
+      - 'scripts/ki-native-kanzlei-normcheck.py'
+      - '.github/workflows/ki-native-kanzlei-normcheck.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  normcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: PDF-Werkzeuge
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends poppler-utils
+      - name: Normtexte abrufen
+        run: python3 scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
+      - uses: actions/upload-artifact@v7
+        with:
+          name: ki-native-kanzlei-normcheck
+          path: normcheck.md
+          retention-days: 30

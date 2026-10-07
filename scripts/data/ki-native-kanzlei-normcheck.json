@@ -1,0 +1,514 @@
+{
+ "schema_version": 1,
+ "checked_for": "ki-native-kanzlei",
+ "entries": [
+  {
+   "id": "RVG §3a",
+   "url": "https://www.gesetze-im-internet.de/rvg/__3a.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §4",
+   "url": "https://www.gesetze-im-internet.de/rvg/__4.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §4a",
+   "url": "https://www.gesetze-im-internet.de/rvg/__4a.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §4b",
+   "url": "https://www.gesetze-im-internet.de/rvg/__4b.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §8",
+   "url": "https://www.gesetze-im-internet.de/rvg/__8.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §13",
+   "url": "https://www.gesetze-im-internet.de/rvg/__13.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §14",
+   "url": "https://www.gesetze-im-internet.de/rvg/__14.html",
+   "needles": null
+  },
+  {
+   "id": "RVG §34",
+   "url": "https://www.gesetze-im-internet.de/rvg/__34.html",
+   "needles": null
+  },
+  {
+   "id": "RVG VV Teil 7",
+   "url": "https://www.gesetze-im-internet.de/rvg/anlage_1.html",
+   "needles": [
+    "7000",
+    "7001",
+    "7002",
+    "7003",
+    "7008"
+   ]
+  },
+  {
+   "id": "BRAO §43a",
+   "url": "https://www.gesetze-im-internet.de/brao/__43a.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §43e",
+   "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §44",
+   "url": "https://www.gesetze-im-internet.de/brao/__44.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §45",
+   "url": "https://www.gesetze-im-internet.de/brao/__45.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §46",
+   "url": "https://www.gesetze-im-internet.de/brao/__46.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §49b",
+   "url": "https://www.gesetze-im-internet.de/brao/__49b.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §50",
+   "url": "https://www.gesetze-im-internet.de/brao/__50.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §51",
+   "url": "https://www.gesetze-im-internet.de/brao/__51.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §52",
+   "url": "https://www.gesetze-im-internet.de/brao/__52.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §53",
+   "url": "https://www.gesetze-im-internet.de/brao/__53.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §56",
+   "url": "https://www.gesetze-im-internet.de/brao/__56.html",
+   "needles": null
+  },
+  {
+   "id": "BRAO §59o",
+   "url": "https://www.gesetze-im-internet.de/brao/__59o.html",
+   "needles": null
+  },
+  {
+   "id": "StGB §203",
+   "url": "https://www.gesetze-im-internet.de/stgb/__203.html",
+   "needles": null
+  },
+  {
+   "id": "StGB §261",
+   "url": "https://www.gesetze-im-internet.de/stgb/__261.html",
+   "needles": [
+    "Absatz 8",
+    "\\(8\\)",
+    "Strafverteidiger",
+    "Leichtfertig",
+    "\\(1\\)",
+    "\\(6\\)"
+   ]
+  },
+  {
+   "id": "ZPO §80",
+   "url": "https://www.gesetze-im-internet.de/zpo/__80.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §81",
+   "url": "https://www.gesetze-im-internet.de/zpo/__81.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §83",
+   "url": "https://www.gesetze-im-internet.de/zpo/__83.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §88",
+   "url": "https://www.gesetze-im-internet.de/zpo/__88.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §104",
+   "url": "https://www.gesetze-im-internet.de/zpo/__104.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §130a",
+   "url": "https://www.gesetze-im-internet.de/zpo/__130a.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §130d",
+   "url": "https://www.gesetze-im-internet.de/zpo/__130d.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §131",
+   "url": "https://www.gesetze-im-internet.de/zpo/__131.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §133",
+   "url": "https://www.gesetze-im-internet.de/zpo/__133.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §511",
+   "url": "https://www.gesetze-im-internet.de/zpo/__511.html",
+   "needles": null
+  },
+  {
+   "id": "ZPO §544",
+   "url": "https://www.gesetze-im-internet.de/zpo/__544.html",
+   "needles": null
+  },
+  {
+   "id": "EGZPO §7",
+   "url": "https://www.gesetze-im-internet.de/egzpo/__7.html",
+   "needles": null
+  },
+  {
+   "id": "GVG §23",
+   "url": "https://www.gesetze-im-internet.de/gvg/__23.html",
+   "needles": null
+  },
+  {
+   "id": "GVG §71",
+   "url": "https://www.gesetze-im-internet.de/gvg/__71.html",
+   "needles": null
+  },
+  {
+   "id": "ArbGG §12a",
+   "url": "https://www.gesetze-im-internet.de/arbgg/__12a.html",
+   "needles": null
+  },
+  {
+   "id": "ArbGG §46",
+   "url": "https://www.gesetze-im-internet.de/arbgg/__46.html",
+   "needles": null
+  },
+  {
+   "id": "KSchG §4",
+   "url": "https://www.gesetze-im-internet.de/kschg/__4.html",
+   "needles": null
+  },
+  {
+   "id": "VwGO §55d",
+   "url": "https://www.gesetze-im-internet.de/vwgo/__55d.html",
+   "needles": null
+  },
+  {
+   "id": "VwGO §60",
+   "url": "https://www.gesetze-im-internet.de/vwgo/__60.html",
+   "needles": null
+  },
+  {
+   "id": "FGO §56",
+   "url": "https://www.gesetze-im-internet.de/fgo/__56.html",
+   "needles": null
+  },
+  {
+   "id": "VwVfG §41",
+   "url": "https://www.gesetze-im-internet.de/vwvfg/__41.html",
+   "needles": null
+  },
+  {
+   "id": "GKG §66",
+   "url": "https://www.gesetze-im-internet.de/gkg_2004/__66.html",
+   "needles": null
+  },
+  {
+   "id": "BVerfGG §31",
+   "url": "https://www.gesetze-im-internet.de/bverfgg/__31.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §177",
+   "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §179",
+   "url": "https://www.gesetze-im-internet.de/bgb/__179.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §195",
+   "url": "https://www.gesetze-im-internet.de/bgb/__195.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §199",
+   "url": "https://www.gesetze-im-internet.de/bgb/__199.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §202",
+   "url": "https://www.gesetze-im-internet.de/bgb/__202.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §286",
+   "url": "https://www.gesetze-im-internet.de/bgb/__286.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §288",
+   "url": "https://www.gesetze-im-internet.de/bgb/__288.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §308",
+   "url": "https://www.gesetze-im-internet.de/bgb/__308.html",
+   "needles": [
+    "1a",
+    "1b",
+    "Nr. 1",
+    "1\\."
+   ]
+  },
+  {
+   "id": "BGB §309",
+   "url": "https://www.gesetze-im-internet.de/bgb/__309.html",
+   "needles": [
+    "Haftungsausschluss",
+    "Laufzeit",
+    "Mängel",
+    "Erleichterung",
+    "Form von Anzeigen",
+    "Vertragsstrafe",
+    "Pauschalierung"
+   ]
+  },
+  {
+   "id": "BGB §310",
+   "url": "https://www.gesetze-im-internet.de/bgb/__310.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §312j",
+   "url": "https://www.gesetze-im-internet.de/bgb/__312j.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §355",
+   "url": "https://www.gesetze-im-internet.de/bgb/__355.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §356",
+   "url": "https://www.gesetze-im-internet.de/bgb/__356.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §357a",
+   "url": "https://www.gesetze-im-internet.de/bgb/__357a.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §476",
+   "url": "https://www.gesetze-im-internet.de/bgb/__476.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §580a",
+   "url": "https://www.gesetze-im-internet.de/bgb/__580a.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §621",
+   "url": "https://www.gesetze-im-internet.de/bgb/__621.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §622",
+   "url": "https://www.gesetze-im-internet.de/bgb/__622.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §627",
+   "url": "https://www.gesetze-im-internet.de/bgb/__627.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §648",
+   "url": "https://www.gesetze-im-internet.de/bgb/__648.html",
+   "needles": null
+  },
+  {
+   "id": "BGB §671",
+   "url": "https://www.gesetze-im-internet.de/bgb/__671.html",
+   "needles": null
+  },
+  {
+   "id": "HGB §348",
+   "url": "https://www.gesetze-im-internet.de/hgb/__348.html",
+   "needles": null
+  },
+  {
+   "id": "UStG §13",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__13.html",
+   "needles": null
+  },
+  {
+   "id": "UStG §14a",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__14a.html",
+   "needles": null
+  },
+  {
+   "id": "UStG §14b",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__14b.html",
+   "needles": null
+  },
+  {
+   "id": "UStG §19",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__19.html",
+   "needles": null
+  },
+  {
+   "id": "UStG §20",
+   "url": "https://www.gesetze-im-internet.de/ustg_1980/__20.html",
+   "needles": null
+  },
+  {
+   "id": "AO §147",
+   "url": "https://www.gesetze-im-internet.de/ao_1977/__147.html",
+   "needles": null
+  },
+  {
+   "id": "EStG §11",
+   "url": "https://www.gesetze-im-internet.de/estg/__11.html",
+   "needles": null
+  },
+  {
+   "id": "InsO §130",
+   "url": "https://www.gesetze-im-internet.de/inso/__130.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §2",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__2.html",
+   "needles": [
+    "10\\.",
+    "Rechtsanwälte"
+   ]
+  },
+  {
+   "id": "GwG §8",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__8.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §10",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__10.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §11",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__11.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §12",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__12.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §16a",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__16a.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §23",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__23.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §43",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__43.html",
+   "needles": null
+  },
+  {
+   "id": "GwG §56",
+   "url": "https://www.gesetze-im-internet.de/gwg_2017/__56.html",
+   "needles": [
+    "\\(1\\)",
+    "\\(2\\)",
+    "\\(3\\)",
+    "Euro"
+   ]
+  },
+  {
+   "id": "DL-InfoV §2",
+   "url": "https://www.gesetze-im-internet.de/dlinfov/__2.html",
+   "needles": null
+  },
+  {
+   "id": "DL-InfoV §4",
+   "url": "https://www.gesetze-im-internet.de/dlinfov/__4.html",
+   "needles": null
+  },
+  {
+   "id": "ERVV §5",
+   "url": "https://www.gesetze-im-internet.de/ervv/__5.html",
+   "needles": null
+  },
+  {
+   "id": "ERVV §2",
+   "url": "https://www.gesetze-im-internet.de/ervv/__2.html",
+   "needles": null
+  },
+  {
+   "id": "BORA 2025-12-01",
+   "url": "https://www.brak.de/fileadmin/02_fuer_anwaelte/berufsrecht/033-BORA_Stand_01.12.2025.pdf",
+   "sections": [
+    "2",
+    "3",
+    "4",
+    "11",
+    "17"
+   ]
+  },
+  {
+   "id": "Rom I",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32008R0593",
+   "articles": [
+    "3",
+    "6"
+   ]
+  },
+  {
+   "id": "Brüssel Ia",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32012R1215",
+   "articles": [
+    "17",
+    "18",
+    "19",
+    "25"
+   ]
+  }
+ ]
+}
