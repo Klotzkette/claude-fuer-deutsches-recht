@@ -78,7 +78,8 @@ def make_doc():
     doc.automaticstyles.addElement(italic)
 
     # Header-Stile
-    for lvl, sz in [(1, 16), (2, 13), (3, 11.5)]:
+    # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+    for lvl, sz in [(1, GRUNDGROESSE + 5), (2, GRUNDGROESSE + 2), (3, GRUNDGROESSE + 0.5)]:
         s = Style(name=f'H{lvl}', family='paragraph', parentstylename='Default')
         s.addElement(TextProperties(fontname=SCHRIFT, fontsize=f'{sz}pt',
                                     fontweight='bold'))
@@ -89,7 +90,7 @@ def make_doc():
     # Center + Bold
     center_bold = Style(name='CenterBold', family='paragraph', parentstylename='Default')
     center_bold.addElement(TextProperties(fontname=SCHRIFT,
-                                           fontsize='12pt', fontweight='bold'))
+                                           fontsize=f'{GRUNDGROESSE + 1}pt', fontweight='bold'))
     center_bold.addElement(ParagraphProperties(textalign='center', marginbottom='0.2cm'))
     doc.automaticstyles.addElement(center_bold)
 

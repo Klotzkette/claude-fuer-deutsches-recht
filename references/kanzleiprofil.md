@@ -1,10 +1,10 @@
 # Kanzleiprofil und Hausstil
 
-Die Schrift eines Enddokuments ist eine Eigenschaft der Kanzlei, nicht dieses Repositorys. Deshalb nennt kein Skill, Prompt oder Referenztext in diesem Repository eine konkrete Hausschrift. Stattdessen gilt überall dieselbe Formulierung: „Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt". Der neutrale Standard dahinter steht an genau einer Stelle, in `hausstil.json` im Repository-Root.
+Die Schrift eines Enddokuments ist eine Eigenschaft der Kanzlei, nicht dieses Repositorys. Deshalb nennt kein Skill, Prompt oder Referenztext in diesem Repository eine konkrete Hausschrift. Stattdessen gilt überall dieselbe Formulierung: „Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt“. Der neutrale Standard dahinter steht an genau einer Stelle, in `hausstil.json` im Repository-Root.
 
 ## 1 Kanzleiprofil anlegen
 
-Jede Kanzlei setzt ihre Hausschrift in ihrer eigenen `CLAUDE.md`, in der Regel in der benutzerweiten Datei `~/.claude/CLAUDE.md`, die Claude Code in jeder Sitzung lädt. Der Abschnitt heißt „Kanzleiprofil" und hat Vorrang vor dem neutralen Standard:
+Jede Kanzlei setzt ihre Hausschrift in ihrer eigenen `CLAUDE.md`, in der Regel in der benutzerweiten Datei `~/.claude/CLAUDE.md`, die Claude Code in jeder Sitzung lädt. Der Abschnitt heißt „Kanzleiprofil“ und hat Vorrang vor dem neutralen Standard:
 
 ```markdown
 ## Kanzleiprofil ([Name der Kanzlei])
@@ -20,7 +20,8 @@ Mehr ist nicht nötig. Alle Skills lesen die Hausschrift aus diesem Abschnitt; d
 Der neutrale Standard wird ausschließlich in `hausstil.json` geändert. Danach werden die Texte einmal nachgezogen:
 
 ```bash
-python3 scripts/inject-ausformulierungspflicht.py        # Formatblock in den Skills
+python3 scripts/inject-ausformulierungspflicht.py        # Formatblock in Skills und References (jedes Markerpaar)
+python3 scripts/generate-megaprompt.py                   # Vollprüfungen unter testakten/megaprompts aus den SKILL.md neu bauen
 python3 scripts/apply-hausstil.py                        # Freitext in Skills, Prompts, References, Eval-Rubriken
 python3 scripts/refresh-pruefhashes-nach-hausstil.py     # Prüfhashes in quality/evals nachziehen, nur für rein mechanische Änderungen
 python3 scripts/audit-hausstil.py                        # meldet jede Schriftnennung außerhalb der Phrase und der Ausnahmen
@@ -28,7 +29,7 @@ python3 scripts/audit-hausstil.py                        # meldet jede Schriftne
 
 `apply-hausstil.py --check` und `refresh-pruefhashes-nach-hausstil.py --check` zeigen die anstehenden Änderungen, ohne zu schreiben. Alle Skripte sind idempotent.
 
-Die Prüfprofile unter `quality/evals` halten SHA-256-Hashes der geprüften Prompts und Skills fest; `quality-lab.py audit` und der Werkstatt-Generator brechen ab, wenn ein Hash nicht mehr zur Datei passt. Das Nachzieh-Skript vergleicht jede geprüfte Datei mit ihrem Stand im letzten Commit und aktualisiert den Hash nur, wenn sich die Datei allein durch die Hausstil-Phrase und den Formatblock unterscheidet; der Prüfvermerk bekommt dann einen datierten Eintrag in seiner Änderungsliste. Fachlich geänderte Dateien und Hashes, die schon vorher nicht passten, bleiben stehen und werden mit Pfad gemeldet. Deshalb läuft das Skript vor dem Commit, solange der letzte Commit noch den geprüften Stand enthält.
+Die Prüfprofile unter `quality/evals` halten SHA-256-Hashes der geprüften Prompts und Skills fest; `quality-lab.py audit` und der Werkstatt-Generator brechen ab, wenn ein Hash nicht mehr zur Datei passt. Das Nachzieh-Skript vergleicht jede geprüfte Datei mit ihrem Stand im letzten Commit und aktualisiert den Hash nur, wenn sich die Datei allein durch die Hausstil-Phrase und den Formatblock unterscheidet; der Prüfvermerk bekommt dann einen datierten Eintrag in seiner Änderungsliste. Fachlich geänderte Dateien und Hashes, die schon vorher nicht passten, bleiben stehen und werden mit Pfad gemeldet. Als Formatblock zählt nur der Block, den `inject-ausformulierungspflicht.py` gerade erzeugt; ein Markerpaar mit anderem Inhalt gilt als fachliche Änderung. Ein Profil wird nur geschrieben, wenn es in der kanonischen JSON-Form von `quality_lab.save` steht (Einrückung 2, Schlüsselfolge wie gelesen); ein von Hand kompakt geschriebenes Profil bleibt stehen und wird gemeldet, damit im Diff erkennbar bleibt, dass sich nur Hashes geändert haben. Deshalb läuft das Skript vor dem Commit, solange der letzte Commit noch den geprüften Stand enthält.
 
 ## 3 Ausnahmen
 

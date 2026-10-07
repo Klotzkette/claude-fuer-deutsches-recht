@@ -113,7 +113,7 @@ The scope covers supply, framework, project, service, distribution and cooperati
 
 Arbeitsprodukte werden auf Deutsch erstellt, auf Auftrag auch auf Englisch oder zweisprachig. Sie enthalten vollständige Sätze und ausschließlich dezimale Überschriften. Formatierte Enddokumente verwenden soweit technisch möglich Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt. Bei Markdown bleibt der Exporthinweis getrennt vom Vertrag.
 
-Deliverables are German by default; English or bilingual drafting is available when instructed. Contract clauses are fully written, with decimal headings and Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt where actual document formatting is supported. Markdown carries a separate export note.
+Deliverables are German by default; English or bilingual drafting is available when instructed. Contract clauses are fully written, with decimal headings and, where actual document formatting is supported, the house font of the firm profile (German rule: „Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt“). Markdown carries a separate export note.
 
 <!-- decimal-anchor --> <a id="zwanzig-routen--twenty-routes"></a>
 

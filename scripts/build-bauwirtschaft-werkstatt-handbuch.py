@@ -113,7 +113,9 @@ def word(items):
                 fonts.set(qn("w:" + key), SCHRIFT)
             for border in style.element.xpath("./w:pPr/w:pBdr"):
                 border.getparent().remove(border)
-    for name, size, before, after in (("Title", 16, 0, 6), ("Heading 1", 14, 0, 8), ("Heading 2", 11, 6, 5)):
+    # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+    ueberschriften = (("Title", GRUNDGROESSE + 5, 0, 6), ("Heading 1", GRUNDGROESSE + 3, 0, 8), ("Heading 2", GRUNDGROESSE, 6, 5))
+    for name, size, before, after in ueberschriften:
         style = doc.styles[name]; style.font.size = Pt(size); style.font.bold = True
         style.paragraph_format.space_before = Pt(before); style.paragraph_format.space_after = Pt(after)
         style.paragraph_format.keep_with_next = True

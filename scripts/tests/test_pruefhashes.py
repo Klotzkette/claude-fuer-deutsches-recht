@@ -16,13 +16,24 @@ V11 Ehrlich beim Rest: Hashes, die schon im letzten Commit nicht zur Datei passt
    mit Status 1, wenn etwas anstehen wuerde. Die Prompts liegen im Plugin-Ordner laut Marketplace;
    ein Profil ohne Marketplace-Plugin wird gemeldet und uebersprungen.
 
-Als gleichwertig begruendete Mutanten (mutmut 3, 07.10.2026): decode("utf-8") gegen decode() ohne
-Codec-Angabe oder "UTF-8" (Standardcodec bzw. Alias).
+Vor dem Lauf festgelegt (Nachbesserung nach Code-Review am 07.10.2026): Als Formatblock im
+Arbeitsstand gilt nur der Block, den hausstil.formatblock erzeugt; ein Markerpaar mit anderem
+Inhalt ist Fachinhalt (V8 "automatisch erzeugter Formatblock"). Ein Profil, das nicht in der
+kanonischen JSON-Form von quality_lab.save steht, wuerde durch das Schreiben umformatiert; es
+bleibt deshalb stehen und jede nachziehbare Stelle wird gemeldet (V10 vor V8; vom Auftraggeber
+zu bestaetigen, siehe Bericht).
+
+Als gleichwertig begruendete Mutanten (mutmut 3, 07.10.2026): decode("utf-8") und encode("utf-8")
+gegen die Form ohne Codec-Angabe oder mit "UTF-8" (Standardcodec bzw. Alias). Die Kommandozeile
+refresh-pruefhashes-nach-hausstil.py traegt einen Bindestrich im Dateinamen und wird hier ueber
+importlib geladen; mutmut kann ihr keine Tests zuordnen und meldet ihre Mutanten als "no tests".
+Sie hat deshalb keinen gemessenen Mutationswert, nur die Zeilenabdeckung der Dateitests.
 """
 from __future__ import annotations
 
 import importlib.util
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -41,10 +52,8 @@ sys.modules["hausstil"] = hs
 sys.modules["pruefhashes"] = pruefhashes
 import test_hausstil as th  # noqa: E402  (Generatoren und Testprofil wiederverwenden)
 
-ALTER_BLOCK = ("<!-- BEGIN ausformulierungspflicht (autogen) -->\n> Alter Blocktext mit Times New Roman 11 pt.\n"
-               "<!-- END ausformulierungspflicht (autogen) -->\n")
-NEUER_BLOCK = ("<!-- BEGIN ausformulierungspflicht (autogen) -->\n> Neuer Blocktext mit der "
-               + hs.kanonische_phrase(th.STIL_A) + ".\n<!-- END ausformulierungspflicht (autogen) -->\n")
+ALTER_BLOCK = (hs.MARKER_BEGIN + "\n> Alter Blocktext mit Times New Roman 11 pt.\n" + hs.MARKER_END + "\n")
+NEUER_BLOCK = hs.formatblock(th.STIL_A) + "\n"
 VERMERK = ("2026-10-07: Hausschrift-Phrase und Formatblock mechanisch nachgezogen "
            "(scripts/apply-hausstil.py, scripts/inject-ausformulierungspflicht.py); Fachinhalt unverändert.")
 
@@ -101,6 +110,18 @@ def test_v8_jede_inhaltliche_aenderung_ist_nicht_mechanisch(zeilen, zusatz, posi
     assert not pruefhashes.nur_mechanisch_geaendert(alt.encode("utf-8"), neu.encode("utf-8"), th.STIL_A)
 
 
+@given(zeilen=th.dokument(), fremdtext=st.lists(st.sampled_from(th.WOERTER), min_size=1, max_size=5),
+       position=st.integers(min_value=0, max_value=20))
+def test_v8_markerpaar_mit_fremdem_inhalt_ist_fachinhalt(zeilen, fremdtext, position):
+    """Contract: V8 (nur der erzeugte Formatblock ist mechanisch; ein von Hand gesetztes Markerpaar
+    mit anderem Text darf keinen frischen Hash bekommen)"""
+    alt = th.als_text(zeilen)
+    neu_inhalt = hs.ersetze_schriftangaben(alt, th.STIL_A)
+    fremder_block = hs.MARKER_BEGIN + "\n> " + " ".join(fremdtext) + "\n" + hs.MARKER_END + "\n"
+    neu = mit_block(neu_inhalt.split("\n"), fremder_block, position)
+    assert not pruefhashes.nur_mechanisch_geaendert(alt.encode("utf-8"), neu.encode("utf-8"), th.STIL_A)
+
+
 def test_v8_binaerdateien_sind_nie_mechanisch_geaendert():
     """Contract: V8"""
     assert not pruefhashes.nur_mechanisch_geaendert(b"\xff\xfe\x00PDF", b"\xff\xfe\x00PDF\x01", th.STIL_A)
@@ -127,7 +148,9 @@ def lege_repo_mit_profilen_an(wurzel: Path) -> None:
         "bekannte_schriftnamen": list(th.NAMEN), "fremdvorgaben": [], "ausnahmen": [],
     }))
     schreibe(wurzel / ".claude-plugin" / "marketplace.json", json.dumps({"plugins": [
-        {"name": "plug", "source": "./plug"}, {"name": "tief", "source": "./nest/tief"}]}))
+        {"name": "plug", "source": "./plug"}, {"name": "tief", "source": "./nest/tief"},
+        {"name": "flach", "source": "./flach"}]}))
+    schreibe(wurzel / "flach" / "flach-schnellstart.md", "Flach in Times New Roman 11 pt.\n")
     schreibe(wurzel / "plug" / "plug-schnellstart.md", "Export in Times New Roman 11 pt.\n")
     schreibe(wurzel / "plug" / "plug-werkstatt.md", "Werkstatt in Times New Roman 11 pt.\n")
     schreibe(wurzel / "plug" / "plug-hauptproblem.md", "Hauptproblem in Times New Roman 11 pt.\n")
@@ -156,8 +179,13 @@ def lege_repo_mit_profilen_an(wurzel: Path) -> None:
     tief = {"schema_version": 1, "plugin": "tief", "reviewed_on": "2026-09-01",
             "mini_review": {"verdict": "retained", "reason": "Tief.", "changes": [],
                             "sha256": digest(wurzel / "nest" / "tief" / "tief-schnellstart.md")}}
-    # kompakt geschrieben: ein Profil ohne Aktualisierung darf nicht umformatiert werden (V10)
-    schreibe(wurzel / "quality" / "evals" / "tief.json", json.dumps(tief, ensure_ascii=False))
+    schreibe(wurzel / "quality" / "evals" / "tief.json", json.dumps(tief, ensure_ascii=False, indent=2) + "\n")
+    flach = {"schema_version": 1, "plugin": "flach", "reviewed_on": "2026-09-01",
+             "mini_review": {"verdict": "retained", "reason": "Flach.", "changes": [],
+                             "sha256": digest(wurzel / "flach" / "flach-schnellstart.md")},
+             "artifact_hashes": {"flach/flach-schnellstart.md": digest(wurzel / "flach" / "flach-schnellstart.md")}}
+    # kompakt geschrieben: ein solches Profil darf weder ohne noch mit Aktualisierung umformatiert werden (V10)
+    schreibe(wurzel / "quality" / "evals" / "flach.json", json.dumps(flach, ensure_ascii=False))
     # verwaist: Plugin steht nicht im Marketplace, der Prompt-Ordner ist unbekannt (V11); es wird
     # alphabetisch vor den anderen Profilen gelesen, damit das Ueberspringen nicht den Lauf beendet
     schreibe(wurzel / "quality" / "evals" / "a-waise.json", json.dumps(
@@ -189,7 +217,7 @@ def test_v8_bis_v11_auf_dateiebene(tmp_path, capsys):
     assert "plug.json: plug/skills/verschollen/SKILL.md: Datei fehlt" in ausgabe
     assert "a-waise.json: Profil ohne Marketplace-Plugin, übersprungen" in ausgabe
     assert "plug.json: plug/plug-schnellstart.md\n" in ausgabe
-    assert ausgabe.strip().endswith("anstehend=5 unveraendert=1 gemeldet=3")
+    assert ausgabe.strip().endswith("anstehend=5 unveraendert=3 gemeldet=3")
 
     assert kommandozeile.main(["--repo", str(tmp_path), "--datum", "2026-10-07"]) == 0
     capsys.readouterr()
@@ -213,7 +241,7 @@ def test_v8_bis_v11_auf_dateiebene(tmp_path, capsys):
     nach_erstem_lauf = profil_pfad.read_text(encoding="utf-8")
     assert kommandozeile.main(["--repo", str(tmp_path), "--datum", "2026-10-08"]) == 0
     assert profil_pfad.read_text(encoding="utf-8") == nach_erstem_lauf
-    assert capsys.readouterr().out.strip().endswith("aktualisiert=0 unveraendert=6 gemeldet=3")
+    assert capsys.readouterr().out.strip().endswith("aktualisiert=0 unveraendert=8 gemeldet=3")
     assert (tmp_path / "quality" / "evals" / "a-waise.json").read_text(encoding="utf-8").count("2" * 64) == 1
 
 
@@ -235,10 +263,35 @@ def test_v11_fachliche_aenderung_bleibt_stehen_und_wird_gemeldet(tmp_path, capsy
     assert lade_kommandozeile().main(["--repo", str(tmp_path), "--datum", "2026-10-07"]) == 0
     ausgabe = capsys.readouterr().out
     assert "plug.json: plug/plug-schnellstart.md: fachlich geändert, neue Prüfung nötig" in ausgabe
-    assert ausgabe.strip().endswith("aktualisiert=0 unveraendert=4 gemeldet=5")
+    assert ausgabe.strip().endswith("aktualisiert=0 unveraendert=6 gemeldet=5")
     profil = json.loads((tmp_path / "quality" / "evals" / "plug.json").read_text(encoding="utf-8"))
     assert profil["mini_review"]["changes"] == []
     assert profil["mini_review"]["sha256"] != digest(tmp_path / "plug" / "plug-schnellstart.md")
+
+
+def test_v10_nicht_kanonisches_profil_bleibt_byteidentisch_und_wird_gemeldet(tmp_path, capsys):
+    """Contract: V10, V11 (das Schreiben wuerde ein kompakt geschriebenes Profil umformatieren; es
+    bleibt stehen, jede nachziehbare Stelle wird mit Profil und Pfad gemeldet, --check meldet nichts an)"""
+    lege_repo_mit_profilen_an(tmp_path)
+    schreibe(tmp_path / "flach" / "flach-schnellstart.md", "Flach in der Kanzleihausschrift.\n")
+    flach_pfad = tmp_path / "quality" / "evals" / "flach.json"
+    vorher = flach_pfad.read_bytes()
+    meldung = "flach.json: flach/flach-schnellstart.md: Profil nicht in kanonischer JSON-Form"
+    kommandozeile = lade_kommandozeile()
+    assert kommandozeile.main(["--repo", str(tmp_path), "--check", "--datum", "2026-10-07"]) == 0
+    assert capsys.readouterr().out.count(meldung) == 2
+    assert kommandozeile.main(["--repo", str(tmp_path), "--datum", "2026-10-07"]) == 0
+    ausgabe = capsys.readouterr().out
+    assert ausgabe.count(meldung) == 2
+    assert ausgabe.strip().endswith("aktualisiert=0 unveraendert=6 gemeldet=5")
+    assert flach_pfad.read_bytes() == vorher
+    # normalisiert ist das Profil nachziehbar, an beiden Stellen
+    pruefhashes.lab.save(flach_pfad, pruefhashes.lab.load(flach_pfad))
+    assert kommandozeile.main(["--repo", str(tmp_path), "--datum", "2026-10-07"]) == 0
+    assert capsys.readouterr().out.count("flach.json: flach/flach-schnellstart.md\n") == 2
+    profil = json.loads(flach_pfad.read_text(encoding="utf-8"))
+    assert profil["mini_review"]["sha256"] == digest(tmp_path / "flach" / "flach-schnellstart.md")
+    assert profil["artifact_hashes"]["flach/flach-schnellstart.md"] == profil["mini_review"]["sha256"]
 
 
 def test_v11_datei_ohne_stand_im_letzten_commit_bleibt_stehen(tmp_path, capsys):
@@ -277,6 +330,46 @@ def test_hashstellen_erfasst_alle_bekannten_formen():
     assert [s.vermerk is None for s in stellen] == [False] * 6 + [True] * 4
     eigener_pfad = pruefhashes.hashstellen({"plugin": "p", "mini_review": {"sha256": "a", "path": "x/y.md"}}, "p")
     assert eigener_pfad[0].ziel == "x/y.md"
+
+
+# Hashes in den echten Profilen, die keinen geprueften Repo-Text bezeichnen: Belege, Quellen, Protokolle.
+KEINE_PRUEFHASHES = (
+    ".sources[", ".prompt_editorial_review.", ".source_link_audit_", ".regression_review_status.",
+    ".case_review.layout_update.", ".case_review.source_sha256", ".source_audit_review.",
+    ".local_source_provenance[",
+)
+HEX64 = re.compile(r"^[0-9a-f]{64}$")
+
+
+def hashpfade(objekt, pfad: str = "") -> list[tuple[str, dict, str]]:
+    """Jeder 64-stellige Hex-String im Profil mit seinem Schluesselpfad (Listenindizes als [])."""
+    gefunden = []
+    if isinstance(objekt, dict):
+        for schluessel, wert in objekt.items():
+            if isinstance(wert, str) and HEX64.match(wert):
+                gefunden.append((f"{pfad}.{schluessel}", objekt, schluessel))
+            gefunden.extend(hashpfade(wert, f"{pfad}.{schluessel}"))
+    elif isinstance(objekt, list):
+        for wert in objekt:
+            gefunden.extend(hashpfade(wert, f"{pfad}[]"))
+    return gefunden
+
+
+def test_v8_hashstellen_deckt_jeden_dateihash_der_echten_profile():
+    """Contract: V8 (eine neue Hashform im Schema von quality_lab darf nicht stumm uebergangen werden;
+    jeder Hash ausserhalb der bekannten Beleg- und Protokollfelder muss eine Hashstelle sein)"""
+    profile = sorted((SKRIPTE.parent / "quality" / "evals").glob("*.json"))
+    assert profile, "keine Profile gefunden"
+    nicht_gedeckt = []
+    for profil_pfad in profile:
+        profil = pruefhashes.lab.load(profil_pfad)
+        gedeckt = {(id(stelle.traeger), stelle.schluessel) for stelle in pruefhashes.hashstellen(profil, "ordner")}
+        for schluesselpfad, traeger, schluessel in hashpfade(profil):
+            if schluesselpfad.startswith(KEINE_PRUEFHASHES):
+                continue
+            if (id(traeger), schluessel) not in gedeckt:
+                nicht_gedeckt.append(f"{profil_pfad.name}: {schluesselpfad}")
+    assert nicht_gedeckt == []
 
 
 if __name__ == "__main__":

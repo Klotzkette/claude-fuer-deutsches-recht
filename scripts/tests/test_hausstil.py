@@ -26,13 +26,21 @@ V12 (vom Auftraggeber am 07.10.2026 bestaetigt) Schnellstart- und
 Spezifikation vor dem ersten Lauf: Schriftangaben ohne Groesse ("Times New Roman oder Arial")
 werden nicht ersetzt, sondern gemeldet (Docstring von ersetze_schriftangaben). V4 wird deshalb
 auf Dokumenten ohne solche Angaben und ohne Fremdvorgaben geprueft; V6 prueft, dass genau diese
-Zeilen gemeldet werden.
+Zeilen gemeldet werden. Ebenso vor dem Lauf festgelegt (Nachbesserung nach Code-Review am
+07.10.2026, Vertrag unveraendert): Name und Groesse muessen auf einer Zeile stehen, eine ueber
+den Zeilenumbruch verteilte Angabe gilt als Angabe ohne Groesse (V5: Zeilenzahl bleibt); eine
+Phrase mit Betonung im Inneren ("ohne Profil **Arial 11 pt**") ist keine kanonische Phrase, wird
+nicht noch einmal ersetzt und vom Validator gemeldet; eine Datei, die kein UTF-8 ist, wird von
+apply gemeldet und uebersprungen, der Validator liest sie trotzdem; Zeilenenden (CRLF) bleiben.
 
 Als gleichwertig begruendete Mutanten (mutmut 3, Lauf vom 07.10.2026): encoding "utf-8" gegen "UTF-8"
 oder None beim Lesen und Dekodieren (Codec-Alias; None nimmt die Systemlocale, die hier UTF-8 ist und
 im Test nicht umgeschaltet wird) sowie der Fuelltext in finde_verstoesse, mit dem Phrase und
 Fremdvorgaben ueberdeckt werden: jeder Fuelltext ohne Zeilenumbruch und ohne Schriftnamen verhaelt
-sich gleich, weil nur Zeilennummern und Schriftnamen zaehlen.
+sich gleich, weil nur Zeilennummern und Schriftnamen zaehlen. Die Kommandozeilen apply-hausstil.py,
+audit-hausstil.py und inject-ausformulierungspflicht.py tragen Bindestriche im Dateinamen und werden
+hier ueber importlib geladen; mutmut kann ihnen keine Tests zuordnen und meldet ihre Mutanten als
+"no tests". Sie haben keinen gemessenen Mutationswert, nur die Zeilenabdeckung der Dateitests.
 """
 from __future__ import annotations
 
@@ -152,7 +160,17 @@ def nackte_nennung(draw) -> Segment:
     return Segment(form.format(name), "nackt")
 
 
-ALLE_SEGMENTE = st.one_of(prosa(), freie_angabe(), kanonisch(), fremdvorgabe(), nackte_nennung())
+@st.composite
+def phrase_mit_betonung_innen(draw) -> Segment:
+    """Keine kanonische Phrase: die Betonung steht hinter "ohne Profil". Fuer apply unantastbar,
+    fuer den Validator eine nackte Nennung."""
+    name = draw(st.sampled_from(NAMEN))
+    sterne = draw(st.sampled_from(["*", "**"]))
+    return Segment(f"{hs.PHRASE_ANFANG}{sterne}{name} {draw(groessenangabe())}{sterne}", "nackt")
+
+
+ALLE_SEGMENTE = st.one_of(prosa(), freie_angabe(), kanonisch(), fremdvorgabe(), nackte_nennung(),
+                          phrase_mit_betonung_innen())
 NUR_ERSETZBARE_SEGMENTE = st.one_of(prosa(), freie_angabe(), kanonisch())
 
 
@@ -167,16 +185,19 @@ def als_text(zeilen: list[list[Segment]]) -> str:
 
 
 NAMEN_ALTERNATION = "|".join(re.escape(name) for name in sorted(NAMEN, key=len, reverse=True))
-SCHRIFTANGABE = re.compile(
-    r"(?:in der |in )?(?:"
-    + re.escape(hs.PHRASE_ANFANG) + r"(?:" + NAMEN_ALTERNATION + r") \d{1,2} ?(?:pt|Punkt)\b"
-    + r"|(?:" + NAMEN_ALTERNATION + r"),?\s+(?:in |mit )?(?:Schriftgröße )?\d{1,2} ?(?:pt|Punkt)\b)"
+ANGABE = (
+    r"(?:" + re.escape(hs.PHRASE_ANFANG) + r"(?:" + NAMEN_ALTERNATION + r") \d{1,2} ?(?:pt|Punkt)\b"
+    + r"|(?:" + NAMEN_ALTERNATION + r"),?[ \t]+(?:in |mit )?(?:Schriftgröße )?\d{1,2} ?(?:pt|Punkt)\b)"
 )
+SCHRIFTANGABE = re.compile(ANGABE)
+# Das "in" vor einer Angabe gehoert zur Angabe (V5: es darf zu "in der" werden), auch wenn eine
+# Markdown-Betonung dazwischensteht. Die Sternchen selbst bleiben im Text und muessen erhalten bleiben.
+IN_VOR_ANGABE = re.compile(r"\bin (?:der )?(?=\*{0,2}" + ANGABE + r")")
 
 
 def ohne_schriftangaben(text: str) -> str:
-    """Erhaltungssatz: der Text ohne jede Schriftangabe mit Groesse."""
-    return SCHRIFTANGABE.sub("", text)
+    """Erhaltungssatz: der Text ohne jede Schriftangabe mit Groesse und ohne das "in" davor."""
+    return SCHRIFTANGABE.sub("", IN_VOR_ANGABE.sub("", text))
 
 
 # --- V2 -------------------------------------------------------------------------------------
@@ -232,8 +253,6 @@ def test_v5_json_bleibt_gueltig_und_traegt_denselben_text(zeilen, ascii_sicher):
     rohdatei = json.dumps({"rubrik": text}, ensure_ascii=ascii_sicher)
     ersetzt = hs.ersetze_schriftangaben(rohdatei, STIL_A)
     geladen = json.loads(ersetzt)
-    if ascii_sicher:
-        return
     assert geladen["rubrik"] == hs.ersetze_schriftangaben(text, STIL_A)
     nackt_vorhanden = any(segment.art == "nackt" for zeile in zeilen for segment in zeile)
     assert bool(hs.finde_verstoesse(ersetzt, STIL_A)) == nackt_vorhanden
@@ -249,8 +268,29 @@ def test_v5_in_vor_schriftangabe_wird_in_der(zeilen, stelle):
     if not treffer:
         return
     position = treffer[stelle % len(treffer)]
-    davor = nachher[max(0, position - 7):position]
-    assert not davor.endswith(" in "), "ein nacktes 'in' direkt vor der Phrase darf nicht stehen bleiben"
+    davor = nachher[max(0, position - 7):position].rstrip("*")
+    assert not davor.endswith(" in "), "ein nacktes 'in' vor der Phrase darf nicht stehen bleiben, auch nicht vor '**'"
+
+
+@given(zeilen=dokument())
+def test_v5_jede_freie_angabe_wird_genau_eine_phrase(zeilen):
+    """Contract: V5, V3 (eine Angabe hinter "ohne Profil" ist Teil einer Phrase und wird nicht verdoppelt)"""
+    vorher = als_text(zeilen)
+    nachher = hs.ersetze_schriftangaben(vorher, STIL_A)
+    phrase = hs.kanonische_phrase(STIL_A)
+    freie = sum(segment.art == "frei" for zeile in zeilen for segment in zeile)
+    kanonische = sum(segment.art == "kanonisch" for zeile in zeilen for segment in zeile)
+    assert nachher.count(phrase) == freie + kanonische
+    assert nachher.count(hs.PHRASE_ANFANG) == vorher.count(hs.PHRASE_ANFANG) + freie
+
+
+@given(name=st.sampled_from(NAMEN), groesse=groessenangabe(), komma=st.booleans(), davor=prosa(), danach=prosa())
+def test_v5_umbruch_zwischen_name_und_groesse_bleibt(name, groesse, komma, davor, danach):
+    """Contract: V5 (Zeilenzahl bleibt: Name und Groesse auf zwei Zeilen werden nicht zusammengezogen),
+    V6 (die Namenszeile wird gemeldet)"""
+    text = f"{davor.text} {name}{',' if komma else ''}\n{groesse} {danach.text}"
+    assert hs.ersetze_schriftangaben(text, STIL_A) == text
+    assert [nummer for nummer, _ in hs.finde_verstoesse(text, STIL_A)] == [1]
 
 
 GEBUNDENE_BUILDER = (
@@ -268,10 +308,12 @@ def test_v1_gebundene_builder_lesen_den_standard_aus_hausstil_json(builder):
     assert hs.finde_verstoesse(quelle, hs.lade_hausstil(SKRIPTE.parent / "hausstil.json")) == []
 
 
-@given(zahl=st.integers(min_value=6, max_value=30))
-def test_v1_grundgroesse_kommt_als_zahl_aus_der_quelle(zahl):
-    """Contract: V1"""
-    assert hs.groesse_in_punkt(replace(STIL_A, groesse=f"{zahl} pt")) == zahl
+@given(zahl=st.integers(min_value=6, max_value=30), halb=st.booleans())
+def test_v1_grundgroesse_kommt_als_zahl_aus_der_quelle(zahl, halb):
+    """Contract: V1 (ganze Groessen kommen als int, damit QA-Protokolle 11 und nicht 11.0 aufzeichnen)"""
+    ganz = hs.groesse_in_punkt(replace(STIL_A, groesse=f"{zahl} pt"))
+    assert ganz == zahl and isinstance(ganz, int)
+    assert hs.groesse_in_punkt(replace(STIL_A, groesse=f"{zahl}.5 pt")) == zahl + 0.5
     # Die Fehlermeldung nennt die falsche Einheit, damit der Befund in hausstil.json auffindbar ist.
     with pytest.raises(ValueError, match="px"):
         hs.groesse_in_punkt(replace(STIL_A, groesse=f"{zahl} px"))
@@ -388,6 +430,8 @@ def lege_testrepo_an(wurzel: Path) -> None:
     (wurzel / "plugin" / "werkzeuge").mkdir(parents=True)
     (wurzel / "plugin" / "werkzeuge" / "render.py").write_text('SCHRIFT = "Arial"\n', encoding="utf-8")
     (wurzel / "bild.png").write_bytes(b"\x89PNG Times New Roman")
+    (wurzel / "crlf.md").write_bytes(b"Zeile eins in Arial 12 pt.\r\nZeile zwei.\r\n")
+    (wurzel / "latin1.md").write_bytes("Notiz ohne Schrift \xe4\n".encode("latin-1"))
     subprocess.run(["git", "-C", str(wurzel), "add", "-A"], check=True)
     (wurzel / "neu.md").write_text("Unversioniert, aber nicht ignoriert: Garamond 12 pt.\n", encoding="utf-8")
 
@@ -402,6 +446,7 @@ def test_kommandozeilen_wenden_an_pruefen_und_melden(tmp_path, capsys):
     assert anwenden.main(["--repo", str(tmp_path), "--check"]) == 1
     ausgabe = capsys.readouterr().out
     assert "frei.md" in ausgabe and "neu.md" in ausgabe and "x-schnellstart.md" in ausgabe
+    assert "latin1.md: keine UTF-8-Datei, übersprungen" in ausgabe
     assert "schon.md" not in ausgabe
     assert (tmp_path / "frei.md").read_text(encoding="utf-8").startswith("Export in Times New Roman")
 
@@ -409,6 +454,9 @@ def test_kommandozeilen_wenden_an_pruefen_und_melden(tmp_path, capsys):
     assert (tmp_path / "frei.md").read_text(encoding="utf-8") == (
         "Export in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt und dezimale Gliederung.\n")
     assert (tmp_path / "x-schnellstart.md").read_text(encoding="utf-8") == "Kurz: Export in der Kanzleihausschrift.\n"
+    assert (tmp_path / "crlf.md").read_bytes() == (
+        b"Zeile eins in der Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt.\r\nZeile zwei.\r\n")
+    assert (tmp_path / "latin1.md").read_bytes() == "Notiz ohne Schrift \xe4\n".encode("latin-1")
     assert (tmp_path / "x-schnellstart.txt").read_bytes() == (tmp_path / "x-schnellstart.md").read_bytes()
     assert (tmp_path / "x-hauptproblem.md").read_bytes() == (tmp_path / "x-schnellstart.md").read_bytes()
     assert (tmp_path / "scripts" / "build.py").read_text(encoding="utf-8") == 'SCHRIFT = "Times New Roman"\n'
@@ -421,10 +469,12 @@ def test_kommandozeilen_wenden_an_pruefen_und_melden(tmp_path, capsys):
         "verstoesse=0 phrase='Hausschrift laut Kanzleiprofil, ohne Profil Times New Roman 11 pt'")
 
     (tmp_path / "streuner.md").write_text("Zeile eins.\nHier steht Raleway ohne Profil.\n", encoding="utf-8")
+    (tmp_path / "streuner-latin1.md").write_bytes("Arial \xe4\n".encode("latin-1"))
     (tmp_path / "CLAUDE.md").write_text("Regel ohne Phrase.\n", encoding="utf-8")
     assert pruefen.main(["--repo", str(tmp_path)]) == 1
     ausgabe = capsys.readouterr().out
     assert "streuner.md:2: Hier steht Raleway ohne Profil." in ausgabe
+    assert "streuner-latin1.md:1: Arial" in ausgabe
     assert "CLAUDE.md: kanonische Phrase fehlt" in ausgabe
 
 
@@ -438,8 +488,43 @@ def test_repo_textdateien_liefert_nur_textdateien_mit_endung(tmp_path):
     """Contract: V6 (Binaerdateien und fremde Endungen bleiben aussen vor)"""
     lege_testrepo_an(tmp_path)
     dateien = hs.repo_textdateien(tmp_path, (".md",))
-    assert dateien == ["CLAUDE.md", "frei.md", "neu.md", "schon.md", "x-hauptproblem.md", "x-schnellstart.md"]
+    assert dateien == ["CLAUDE.md", "crlf.md", "frei.md", "latin1.md", "neu.md", "schon.md",
+                       "x-hauptproblem.md", "x-schnellstart.md"]
     assert "bild.png" not in hs.repo_textdateien(tmp_path, hs.ENDUNGEN_PRUEFEN)
+
+
+# --- Injektor (V1) --------------------------------------------------------------------------
+
+ALTER_MARKERBLOCK = (hs.MARKER_BEGIN + "\n> Alter Hinweis mit Times New Roman 11 pt.\n" + hs.MARKER_END)
+
+
+def test_v1_injektor_hebt_jedes_markerpaar_auf_den_block_aus_hausstil_json(tmp_path):
+    """Contract: V1 (der Block entsteht aus hausstil.json; jedes Markerpaar in jeder Markdown-Datei
+    traegt dieselbe Fassung, auch in References mit mehreren Paaren; neu eingefuegt nur in SKILL.md)"""
+    injektor = lade_kommandozeile("inject-ausformulierungspflicht.py")
+    injektor.REPO = tmp_path
+    skill = tmp_path / "plug" / "skills" / "vertrag-entwerfen" / "SKILL.md"
+    skill.parent.mkdir(parents=True)
+    skill.write_text('---\nname: vertrag-entwerfen\ndescription: "Entwirft einen Vertrag"\n---\n'
+                     "## Ausgabeformat\n\nText.\n", encoding="utf-8")
+    referenz = skill.parent / "references" / "vertiefung.md"
+    referenz.parent.mkdir()
+    referenz.write_text("# A\n\n" + ALTER_MARKERBLOCK + "\n\n# B\n\n" + ALTER_MARKERBLOCK + "\n", encoding="utf-8")
+    notiz = tmp_path / "plug" / "notiz.md"
+    notiz.write_text("Keine Marker, keine Skill-Datei.\n", encoding="utf-8")
+    changelog = tmp_path / "CHANGELOG.md"
+    changelog.write_text("# v1\n\n" + ALTER_MARKERBLOCK + "\n", encoding="utf-8")
+
+    injektor.main()
+
+    block = hs.formatblock(hs.lade_hausstil())
+    assert block == injektor.BLOCK
+    assert skill.read_text(encoding="utf-8").count(block) == 1
+    assert referenz.read_text(encoding="utf-8") == "# A\n\n" + block + "\n\n# B\n\n" + block + "\n"
+    assert notiz.read_text(encoding="utf-8") == "Keine Marker, keine Skill-Datei.\n"
+    assert changelog.read_text(encoding="utf-8") == "# v1\n\n" + ALTER_MARKERBLOCK + "\n"
+    assert "„Kanzleiprofil“" in block and '„Kanzleiprofil"' not in block
+    assert hs.finde_verstoesse(skill.read_text(encoding="utf-8"), hs.lade_hausstil()) == []
 
 
 if __name__ == "__main__":

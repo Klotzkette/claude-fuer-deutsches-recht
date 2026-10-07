@@ -5,8 +5,13 @@ Der neutrale Standard steht allein in hausstil.json. Texte im Repository nennen
 eine Schrift nur in der kanonischen Phrase
     "Hausschrift laut Kanzleiprofil, ohne Profil <Schrift> <Groesse>"
 oder an einer in hausstil.json eingetragenen Ausnahme. Dieses Modul liefert die
-Phrase, ersetzt freie Schriftangaben durch die Phrase und findet Verstoesse.
-Die Kommandozeilen stehen in apply-hausstil.py und audit-hausstil.py.
+Phrase und den Formatblock der Skills, ersetzt freie Schriftangaben durch die
+Phrase und findet Verstoesse. Die Kommandozeilen stehen in apply-hausstil.py,
+audit-hausstil.py und inject-ausformulierungspflicht.py.
+
+Die Ersetzung ist fuer deutsche Texte gebaut ("in Arial 11 pt" wird "in der
+Hausschrift ..."). Der seltene englische Text nennt die Phrase als zitierten
+Begriff; dann schreibt apply nichts um und audit meldet nichts.
 """
 from __future__ import annotations
 
@@ -35,6 +40,16 @@ KURZFORM_ENDUNGEN = ("-schnellstart.md", "-schnellstart.txt", "-hauptproblem.md"
 # Zeilenumbruch als die zwei Zeichen Backslash und n; das n davor ist ein Wortzeichen, deshalb
 # wuerde \b dort keinen Wortanfang sehen und "\nArial" bliebe unerkannt.
 WORTANFANG = r"(?:(?<!\w)|(?<=\\[nt]))"
+GROESSE = r"\d{1,2} ?(?:pt|Punkt)\b"
+# JSON mit ensure_ascii schreibt "Schriftgröße" als Schriftgröße; beide Schreibweisen zaehlen.
+SCHRIFTGROESSE_WORT = r"(?:Schriftgröße |Schriftgr\\u00f6\\u00dfe )"
+# Markdown-Betonung zwischen "in" und der Schriftangabe: "in **Arial 11 pt**".
+BETONUNG = r"\*{1,2}"
+# Eine Angabe direkt hinter "ohne Profil", hoechstens mit Betonung dazwischen, gehoert zu einer Phrase.
+HINTER_OHNE_PROFIL = re.compile(r"ohne Profil \*{0,2}$")
+# Der Hinweisblock in Skills und References steht zwischen diesen Markern; der Injektor besitzt ihn.
+MARKER_BEGIN = "<!-- BEGIN ausformulierungspflicht (autogen) -->"
+MARKER_END = "<!-- END ausformulierungspflicht (autogen) -->"
 
 
 @dataclass(frozen=True)
@@ -68,11 +83,17 @@ def kanonische_phrase(hausstil: Hausstil) -> str:
     return f"{PHRASE_ANFANG}{hausstil.schrift} {hausstil.groesse}"
 
 
-def groesse_in_punkt(hausstil: Hausstil) -> float:
-    """Liefert die Grundgroesse als Zahl, z. B. "11 pt" -> 11.0; Builder setzen damit Pt(...)."""
+def groesse_in_punkt(hausstil: Hausstil) -> int | float:
+    """Liefert die Grundgroesse als Zahl; Builder setzen damit Pt(...).
+
+    "11 pt" ergibt die ganze Zahl 11 und nicht 11.0, damit QA-Protokolle, die die Zahl
+    aufzeichnen, byteidentisch bleiben; "10.5 pt" ergibt 10.5.
+    """
     zahl, einheit = hausstil.groesse.split()
     if einheit != "pt":
         raise ValueError(f"Schriftgroesse in hausstil.json muss in pt stehen, nicht in {einheit!r}")
+    if zahl.isdigit():
+        return int(zahl)
     return float(zahl)
 
 
@@ -83,6 +104,32 @@ def kurzform(text: str, hausstil: Hausstil) -> str:
 
 def formatsatz(hausstil: Hausstil) -> str:
     return f"{kanonische_phrase(hausstil)}, ausschließlich {hausstil.gliederung}e Gliederung"
+
+
+def formatblock(hausstil: Hausstil) -> str:
+    """Der Hinweisblock, den inject-ausformulierungspflicht.py in Skills und References setzt.
+
+    Er ist der einzige Text zwischen den Markern, den pruefhashes als mechanisch anerkennt.
+    """
+    phrase = kanonische_phrase(hausstil)
+    return (
+        f"{MARKER_BEGIN}\n"
+        "> **Ausformulierungspflicht und Formatstandard.** Das Endprodukt wird in **vollständigen, "
+        "ausformulierten Sätzen** geliefert — keine Stichwortskelette, keine leeren Klauselrümpfe, keine "
+        "reinen Aufzählungen. Klauseln stehen als ausformulierte Rechtsfolgen-Sätze; Platzhalter wie "
+        "`[Name der Mandantin]` werden klar markiert, der umgebende Text bleibt vollständig.\n"
+        ">\n"
+        "> **Schriftbild:** Wenn ein Schriftsatz, Vertrag, Memo, Beschluss, Vermerk oder sonstiges "
+        f"Enddokument als DOCX, PDF oder formatierter Text ausgegeben wird, wird die **{phrase}** als "
+        "Grundschrift verwendet; das Kanzleiprofil ist der Abschnitt „Kanzleiprofil“ in der CLAUDE.md der "
+        "Kanzlei (siehe `references/kanzleiprofil.md`). Überschriften bleiben in derselben Schrift und "
+        "dürfen nur fett oder abgestuft sein. Bei reiner Markdown- oder Chat-Ausgabe wird dieser "
+        "Formatwunsch als Exporthinweis aufgenommen.\n"
+        ">\n"
+        "> **Nummerierung:** Gliederung ausschließlich dezimal (`1`, `1.1`, `1.1.1` und so weiter). "
+        "Keine römischen Ziffern, keine Buchstaben- oder Mischgliederung.\n"
+        f"{MARKER_END}"
+    )
 
 
 def ist_ausgenommen(pfad: str, hausstil: Hausstil) -> bool:
@@ -129,30 +176,42 @@ def _demaskiere_fremdvorgaben(text: str, hausstil: Hausstil) -> str:
     return text
 
 
+def _steht_hinter_ohne_profil(treffer: re.Match) -> bool:
+    """Wahr, wenn die Angabe Teil einer schon vorhandenen Phrase ist, etwa mit Betonung dazwischen:
+    "ohne Profil **Arial 11 pt**". Sie darf dann nicht noch einmal zur Phrase werden."""
+    davor = treffer.string[:treffer.start()]
+    return HINTER_OHNE_PROFIL.search(davor) is not None
+
+
 def ersetze_schriftangaben(text: str, hausstil: Hausstil) -> str:
     """Bringt jede Schriftangabe mit Groesse auf die kanonische Phrase.
 
     Erfasst werden: eine schon vorhandene kanonische Phrase mit beliebiger
     Schrift (damit ein geaenderter Standard durchschlaegt) sowie freie Angaben
     wie "Times New Roman 11 pt", "Times New Roman, Schriftgroesse 11 pt",
-    "Times New Roman mit 11 Punkt". Steht davor "in ", wird "in der " daraus.
+    "Times New Roman mit 11 Punkt", auch in JSON mit ASCII-Escapes. Steht davor
+    "in " oder "in **", wird "in der " beziehungsweise "in der **" daraus.
+    Name und Groesse muessen auf derselben Zeile stehen; die Zeilenzahl bleibt.
     Angaben ohne Groesse bleiben stehen; sie meldet der Validator.
     """
     phrase = kanonische_phrase(hausstil)
     namen = _schriftnamen_alternation(hausstil)
     text = _maskiere_fremdvorgaben(text, hausstil)
 
-    alte_phrase = re.compile(re.escape(PHRASE_ANFANG) + r"(?:" + namen + r") \d{1,2} ?(?:pt|Punkt)\b")
+    alte_phrase = re.compile(re.escape(PHRASE_ANFANG) + r"(?:" + namen + r") " + GROESSE)
     text = alte_phrase.sub(phrase, text)
 
     freie_angabe = re.compile(
-        r"(?<!ohne Profil )(?P<in>" + WORTANFANG + r"in )?" + WORTANFANG
-        + r"(?:" + namen + r"),?\s+(?:in |mit )?(?:Schriftgröße )?\d{1,2} ?(?:pt|Punkt)\b"
+        r"(?P<in>" + WORTANFANG + r"in (?P<betonung>" + BETONUNG + r")?)?" + WORTANFANG
+        + r"(?:" + namen + r"),?[ \t]+(?:in |mit )?" + SCHRIFTGROESSE_WORT + r"?" + GROESSE
     )
 
     def ersatz(treffer: re.Match) -> str:
+        if _steht_hinter_ohne_profil(treffer):
+            return treffer.group(0)
         if treffer.group("in"):
-            return "in der " + phrase
+            betonung = treffer.group("betonung") or ""
+            return "in der " + betonung + phrase
         return phrase
 
     text = freie_angabe.sub(ersatz, text)

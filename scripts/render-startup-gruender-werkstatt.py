@@ -81,7 +81,8 @@ def build_docx(text: str, path: Path):
     normal.paragraph_format.line_spacing = 1.5
     normal.paragraph_format.space_after = Pt(8)
     normal.paragraph_format.widow_control = True
-    for name, size in [('Title', 20), ('Heading 1', 14)]:
+    # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+    for name, size in [('Title', GRUNDGROESSE + 9), ('Heading 1', GRUNDGROESSE + 3)]:
         style = d.styles[name]
         style.font.name = SCHRIFT
         style.font.size = Pt(size)

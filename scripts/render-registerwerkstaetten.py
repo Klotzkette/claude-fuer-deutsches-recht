@@ -22,7 +22,8 @@ def clean(s):return re.sub(r'\*\*([^*]+)\*\*|`([^`]+)`',lambda m:m[1] or m[2],s)
 def build(text,target,title,author='Registerwerkstätten',date=DATE):
  d=Document();s=d.sections[0];s.page_width=Cm(21);s.page_height=Cm(29.7)
  s.left_margin=s.right_margin=Cm(2.4);s.top_margin=s.bottom_margin=Cm(2.2);s.header_distance=s.footer_distance=Cm(1.2)
- for name,size in [('Normal',GRUNDGROESSE),('Title',20),('Heading 1',14),('Heading 2',12),('Heading 3',11)]:
+ # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+ for name,size in [('Normal',GRUNDGROESSE),('Title',GRUNDGROESSE+9),('Heading 1',GRUNDGROESSE+3),('Heading 2',GRUNDGROESSE+1),('Heading 3',GRUNDGROESSE)]:
   st=d.styles[name];st.font.name=SCHRIFT;st.font.size=Pt(size);st.font.color.rgb=RGBColor(0,0,0)
   st.paragraph_format.line_spacing=1.5 if name=='Normal' else 1.15;st.paragraph_format.space_after=Pt(8)
   st.paragraph_format.widow_control=True

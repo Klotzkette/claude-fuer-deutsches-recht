@@ -45,7 +45,8 @@ def write_docx(record, reference, target):
     section.page_width, section.page_height = Cm(21), Cm(29.7)
     section.top_margin = section.bottom_margin = Cm(2.0)
     section.left_margin = section.right_margin = Cm(2.2)
-    for name, size in (("Normal", GRUNDGROESSE), ("Title", 18), ("Heading 1", 13)):
+    # Ueberschriften folgen der Grundgroesse, damit sie nie kleiner als der Fliesstext werden.
+    for name, size in (("Normal", GRUNDGROESSE), ("Title", GRUNDGROESSE + 7), ("Heading 1", GRUNDGROESSE + 2)):
         style = doc.styles[name]
         style.font.name = SCHRIFT
         style.font.size = Pt(size)
