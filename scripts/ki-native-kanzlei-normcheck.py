@@ -5,7 +5,7 @@ Läuft in GitHub Actions, weil dort die amtlichen Seiten erreichbar sind. Ausgab
 Abrufstatus, Abrufzeit, SHA-256 der Rohdaten und Wortlaut (vollständig oder nach Suchbegriffen
 gefiltert). Kein Urteil über die Richtigkeit der Skills; das bleibt der redaktionellen Prüfung.
 """
-import hashlib, html, json, re, subprocess, sys, tempfile, time, urllib.request
+import hashlib, html, json, re, sys, time, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -42,9 +42,9 @@ def html_text(raw, charset):
 
 
 def pdf_text(raw):
-    with tempfile.NamedTemporaryFile(suffix='.pdf') as f:
-        f.write(raw); f.flush()
-        return subprocess.run(['pdftotext', '-layout', f.name, '-'], capture_output=True, text=True).stdout
+    import io
+    from pypdf import PdfReader
+    return '\n'.join((page.extract_text() or '') for page in PdfReader(io.BytesIO(raw)).pages)
 
 
 def sections(text, numbers, word):

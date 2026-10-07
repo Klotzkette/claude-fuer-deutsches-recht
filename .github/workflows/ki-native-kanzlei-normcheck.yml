@@ -21,8 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - name: PDF-Werkzeuge
-        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends poppler-utils
+      - name: PDF-Leser
+        run: python3 -m pip install pypdf
       - name: Normtexte abrufen
         run: python3 scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
       - uses: actions/upload-artifact@v7
