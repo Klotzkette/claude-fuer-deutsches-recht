@@ -190,18 +190,17 @@
     {
       "nr": 6,
       "titel": "Prompts",
-      "beschreibung": "Prüfe Werkstatt-Kapitel 29 und Mini-Abschnitt 7 gegen die Referenz Mandatslauf; der Hauptproblem-Prompt erhält einen Satz zum Mandatslauf nur, wenn die 7.500-Byte-Grenze es zulässt. Prompt-Hashes im Prüfprofil nachziehen."
+      "beschreibung": "Prüfe Werkstatt-Kapitel 29 und 30 sowie Mini-Abschnitt 7 gegen die Referenzen Mandatslauf und Kanzleialltag; der Hauptproblem-Prompt erhält einen Satz zum Mandatslauf nur, wenn die 7.500-Byte-Grenze es zulässt. Prompt-Hashes im Prüfprofil nachziehen."
     },
     {
       "nr": 7,
       "titel": "Lesefassungen und Release",
-      "beschreibung": "PDFs mit Times New Roman neu setzen (scripts/build-ki-native-kanzlei-handbuch.py, Standardschrift), umfang.json übernehmen, Komponentenrelease ki-native-kanzlei-v445.33.6 mit Plugin-ZIP, portablem ZIP, Handbuch-PDF, Einzel-PDF-ZIP und checksums-sha256.txt veröffentlichen."
+      "beschreibung": "Version auf 445.33.8 anheben (Manifeste, Marketplace, Tests, README, Indizes, Changelog), PDFs neu setzen (scripts/build-ki-native-kanzlei-handbuch.py; Times New Roman, wo installiert, sonst Liberation Serif mit Hinweis), umfang.json übernehmen und das Komponentenrelease über den Workflow ki-native-kanzlei-release.yml per manuellem Start mit Eingabe tag=ki-native-kanzlei-v445.33.8 veröffentlichen; der Workflow legt den Tag selbst an."
     }
   ],
   "pruefbefehle": [
     "python3 scripts/test-ki-native-kanzlei-source.py",
     "python3 scripts/test-ki-native-kanzlei-lauf.py  # 18 Tests einschließlich cockpit",
-    "python3 scripts/test-ki-native-kanzlei-lauf.py",
     "python3 scripts/test-ki-native-kanzlei-fristen.py",
     "python3 scripts/test-si-native-kanzlei.py",
     "python3 scripts/test-si-native-kanzlei-exporte.py",
@@ -219,7 +218,7 @@
     "Kein Skill enthält mehr eine Normaussage mit Zahlenwert, die nicht am amtlichen Volltext gelesen wurde; die Marker 'am Volltext zu prüfen' sind aufgelöst oder die Aussage ist gestrichen.",
     "Alle Übergaben zwischen Skills sind paarweise konsistent; die Matrix in der Mandatslauf-Referenz ist vollständig.",
     "Alle Prüfbefehle laufen grün; der PDF-Build hat keine fehlenden Glyphen und alle Seiten liegen innerhalb der Seite.",
-    "Die drei Probeläufe aus Auftrag 4 enden an einem offenen Gate mit benannter Person und benennen das nächste Produkt.",
+    "Die drei Probeläufe aus Auftrag 5 enden an einem offenen Gate mit benannter Person und benennen das nächste Produkt.",
     "Kein Beispiel lässt eine Maschine ein Gate freigeben; keine Fristangabe in einem Mandantenbrief ohne Fristobjekt mit Status eingetragen oder ausdrücklichen Vorläufigkeitsvermerk.",
     "Die Komponentenfassung ist in Manifesten, Marketplace, Tests, README, Indizes und Changelog identisch."
   ],
@@ -232,5 +231,5 @@
     "Der Helfer mandatslauf.py ordnet jedes Gate einem festen Skill zu; öffnet ein anderer Skill ein Gate (zum Beispiel G3 durch mandantenkommunikation), verweist next auf den festen Skill. Prüfen, ob eine Zuordnung je geöffnetem Gate sinnvoller ist; nur mit Tests ändern.",
     "Befehle im Ordner commands sind für Claude Cowork und Claude Code gedacht; ob ein Codex- oder ChatGPT-Import sie anzeigt, hängt von der Umgebung ab."
   ],
-  "ausgabeformat_der_runde": "Pro Skill ein Abschlussbericht mit Wortzahl vorher und nachher, geprüften URLs mit Datum, Korrekturen, Selbsttest; danach ein Gesamtbericht in quality/ki-native-kanzlei/README.md als neuer Abschnitt 8 'Glättungsrunde Codex' mit Datum, Prüfbefehlen und Ergebnis."
+  "ausgabeformat_der_runde": "Pro Skill ein Abschlussbericht mit Wortzahl vorher und nachher, geprüften URLs mit Datum, Korrekturen, Selbsttest; danach ein Gesamtbericht in quality/ki-native-kanzlei/README.md als neuer Abschnitt 10 'Glättungsrunde Codex' mit Datum, Prüfbefehlen und Ergebnis."
 }
