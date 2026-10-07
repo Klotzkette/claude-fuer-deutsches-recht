@@ -102,5 +102,32 @@ class LaufTests(unittest.TestCase):
         self.assertEqual(run('phase', '--akte', self.akte, '--phase', 'akte', '--grund', 'a\x00b')[0], 2)
 
 
+class CockpitTests(unittest.TestCase):
+    def test_cockpit_orders_by_urgency(self):
+        with tempfile.TemporaryDirectory() as root:
+            for name, gate in (('M-1', None), ('M-2', 'G3'), ('M-3', 'G2')):
+                akte = str(Path(root) / name)
+                run('init', '--akte', akte, '--matter-id', name, '--stufe', '2')
+                if gate:
+                    run('gate', '--akte', akte, '--gate', gate, '--aktion', 'oeffnen', '--bezug', 'x')
+            (Path(root) / 'M-4/00_Mandat').mkdir(parents=True)
+            (Path(root) / 'M-4/00_Mandat/mandatslauf.json').write_text('kaputt')
+            code, out, _ = run('cockpit', '--kanzlei', root)
+            self.assertEqual(code, 0)
+            rows = json.loads(out)['mandate']
+            self.assertEqual([r['akte'] for r in rows], ['M-4', 'M-3', 'M-2', 'M-1'])
+            self.assertEqual(rows[1]['next_skill'], 'fristen-berechnen-ueberwachen')
+            self.assertFalse(json.loads(out)['external_action_allowed'])
+
+    def test_cockpit_markdown(self):
+        with tempfile.TemporaryDirectory() as root:
+            run('init', '--akte', str(Path(root) / 'M-9'), '--matter-id', 'M-9', '--stufe', '1')
+            code, out, _ = run('cockpit', '--kanzlei', root, '--format', 'md')
+            self.assertEqual(code, 0); self.assertIn('| M-9 | eingang | keine | 0 | ki-kanzlei-steuern |', out)
+
+    def test_cockpit_missing_root(self):
+        self.assertEqual(run('cockpit', '--kanzlei', '/nicht/vorhanden')[0], 2)
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

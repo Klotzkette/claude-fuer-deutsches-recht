@@ -1,6 +1,6 @@
 # KI-native Kanzlei
 
-**18 ausführliche Skills · je 15–17 A4-Seiten · insgesamt 284 Seiten** · Stand `v445.33.6`
+**18 ausführliche Skills · je 15–17 A4-Seiten · insgesamt 284 Seiten** · Stand `v445.33.7`
 
 [Plugin und Downloads](../ki-native-kanzlei/README.md) · [Skill-Gesamtübersicht](../SKILLS.md)
 
@@ -37,6 +37,6 @@ Hauptproblem: [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsc
 
 ## 3. Lesefassungen und Umfang
 
-[Alle Skills als Handbuch-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-einzelpdfs.zip) · [Tatsächlicher Seitenumfang](../quality/ki-native-kanzlei/umfang.json)
+[Alle Skills als Handbuch-PDF](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-einzelpdfs.zip) · [Tatsächlicher Seitenumfang](../quality/ki-native-kanzlei/umfang.json)
 
 Einzeldownloads können die im Skill genannten Referenzen und Werkzeuge benötigen. Installierbare Pakete enthalten die Hilfsdateien; die drei eigenständigen Prompts und die PDF-Lesefassungen stehen separat bereit.

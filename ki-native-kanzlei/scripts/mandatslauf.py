@@ -198,6 +198,49 @@ def cmd_next(a):
                       'external_action_allowed': False, 'open_gates': [g for g, v in data['gates'].items() if v.get('status') == 'offen']}, ensure_ascii=False, indent=2))
 
 
+def cockpit(root, max_depth=3):
+    """Alle Mandatsläufe unterhalb eines Kanzleiordners einsammeln und nach Dringlichkeit ordnen."""
+    root = Path(root)
+    if not root.is_dir():
+        raise LaufError('Kanzleiordner nicht vorhanden')
+    rows = []
+    for path in sorted(root.rglob('mandatslauf.json')):
+        rel = path.relative_to(root)
+        if path.parent.name != '00_Mandat' or len(rel.parts) - 2 > max_depth:
+            continue
+        try:
+            data = json.loads(path.read_text(encoding='utf-8'))
+            if data.get('schema_version') != 1:
+                raise ValueError('Schema')
+        except Exception:
+            rows.append({'akte': str(rel.parent.parent), 'fehler': 'Mandatslauf nicht lesbar'})
+            continue
+        open_gates = sorted(g for g, v in data.get('gates', {}).items() if v.get('status') == 'offen')
+        skill, reason = recommend(data)
+        rank = 0 if 'G2' in open_gates else 1 if open_gates else 2 if data.get('open_questions') else 3
+        rows.append({'akte': str(rel.parent.parent), 'matter_id': data.get('matter_id'), 'phase': data.get('phase'),
+                     'side_runs': data.get('side_runs', []), 'autonomy_level': data.get('autonomy_level'),
+                     'open_gates': open_gates, 'open_questions': len(data.get('open_questions', [])),
+                     'next_skill': skill, 'reason': reason, 'updated': data.get('updated'), 'rank': rank})
+    rows.sort(key=lambda r: (r.get('rank', -1), r.get('updated') or ''))
+    return rows
+
+
+def cmd_cockpit(a):
+    rows = cockpit(a.kanzlei)
+    if a.format == 'md':
+        print('| Akte | Phase | Offene Gates | Offene Fragen | Nächster Skill |')
+        print('| --- | --- | --- | --- | --- |')
+        for r in rows:
+            if 'fehler' in r:
+                print(f"| {r['akte']} | Fehler | {r['fehler']} | | |")
+                continue
+            phase = r['phase'] + (' + ' + ', '.join(r['side_runs']) if r['side_runs'] else '')
+            print(f"| {r['akte']} | {phase} | {', '.join(r['open_gates']) or 'keine'} | {r['open_questions']} | {r['next_skill']} |")
+    else:
+        print(json.dumps({'mandate': rows, 'external_action_allowed': False}, ensure_ascii=False, indent=2))
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__)
     sub = ap.add_subparsers(dest='cmd', required=True)
@@ -210,9 +253,10 @@ def main(argv=None):
     p = sub.add_parser('question'); common(p); p.add_argument('--text', required=True); p.add_argument('--erledigt', action='store_true')
     p = sub.add_parser('status'); common(p)
     p = sub.add_parser('next'); common(p)
+    p = sub.add_parser('cockpit'); p.add_argument('--kanzlei', required=True); p.add_argument('--format', choices=['json', 'md'], default='json')
     a = ap.parse_args(argv)
     try:
-        handler = {'init': cmd_init, 'phase': cmd_phase, 'product': cmd_product, 'gate': cmd_gate, 'question': cmd_question, 'status': cmd_status, 'next': cmd_next}[a.cmd]
+        handler = {'init': cmd_init, 'phase': cmd_phase, 'product': cmd_product, 'gate': cmd_gate, 'question': cmd_question, 'status': cmd_status, 'next': cmd_next, 'cockpit': cmd_cockpit}[a.cmd]
         result = handler(a)
         if result is not None:
             print(json.dumps({'matter_id': result['matter_id'], 'phase': result['phase'], 'revision': result['revision'], 'open_gates': [g for g, v in result['gates'].items() if v.get('status') == 'offen']}, ensure_ascii=False))

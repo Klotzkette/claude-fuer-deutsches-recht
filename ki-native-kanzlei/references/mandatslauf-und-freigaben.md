@@ -73,9 +73,10 @@ python3 "<Pluginordner>/scripts/mandatslauf.py" gate --akte "/Mandate/M-26-104" 
 python3 "<Pluginordner>/scripts/mandatslauf.py" gate --akte "/Mandate/M-26-104" --gate G3 --aktion freigeben --person "RAin Dr. Ahrens" --bezug "Klage_v04.docx"
 python3 "<Pluginordner>/scripts/mandatslauf.py" status --akte "/Mandate/M-26-104"
 python3 "<Pluginordner>/scripts/mandatslauf.py" next --akte "/Mandate/M-26-104"
+python3 "<Pluginordner>/scripts/mandatslauf.py" cockpit --kanzlei "/Mandate" --format md
 ```
 
-`freigeben` verlangt eine namentlich bezeichnete Person; Bezeichnungen wie „KI“, „Agent“, „System“ oder „automatisch“ werden abgewiesen. `init` verweigert das Überschreiben eines vorhandenen Laufs. Jede Änderung erhöht die Revision und wird in der Historie mit Zeitstempel festgehalten; die Datei wird atomar geschrieben. Der Helfer schreibt keinen Kalender, versendet nichts und bucht nichts; er dokumentiert.
+`freigeben` verlangt eine namentlich bezeichnete Person; Bezeichnungen wie „KI“, „Agent“, „System“ oder „automatisch“ werden abgewiesen. `init` verweigert das Überschreiben eines vorhandenen Laufs. Jede Änderung erhöht die Revision und wird in der Historie mit Zeitstempel festgehalten; die Datei wird atomar geschrieben. `cockpit` liest alle Mandatsläufe unterhalb eines Kanzleiordners und ordnet sie nach Dringlichkeit; das ist die Grundlage des Tagesstarts in der [Kanzleialltag-Referenz](kanzleialltag-workflows.md). Der Helfer schreibt keinen Kalender, versendet nichts und bucht nichts; er dokumentiert.
 
 ## 1.8. Was agentisch bedeutet und was nicht
 

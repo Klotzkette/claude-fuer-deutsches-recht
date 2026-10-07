@@ -1,3 +1,17 @@
+# ki-native-kanzlei-v445.33.7 - Kanzleialltag in Claude Cowork und ChatGPT
+
+## 1. Der Kanzleialltag als Arbeitsabläufe
+
+Neue Referenz „Kanzleialltag“ mit vierzehn Abläufen einer KI-nativen deutschen Kanzlei: Tagesstart, neue Anfrage bis zur Annahme, Posteingang, Fristsache, Schriftsatz bis zur Einreichung, Vertragsprojekt, Mandantenkommunikation, Zeiten am Tagesende, Wochenabschluss, Monatsabrechnung und Zahlungen, Übergabe und externe Dienste, Mandatsende, Freigaben und Einführung in der Kanzlei. Jeder Ablauf nennt Auslöser, Freigabestufe, die Kette aus Skills, Produkten und Gates sowie die Stoppregel.
+
+## 2. Befehle, Cockpit und Einrichtung
+
+Fünfzehn Befehle für Claude Cowork und Claude Code starten die Abläufe direkt (`/kanzlei-tagesstart`, `/mandat-neu`, `/posteingang`, `/frist`, `/schriftsatz`, `/vertrag`, `/mandantenbrief`, `/zeit`, `/kanzlei-wochenabschluss`, `/rechnung`, `/zahlung`, `/uebergabe`, `/mandat-status`, `/mandat-ende`, `/freigabe`). Der Helfer `mandatslauf.py` erhält den Befehl `cockpit`, der alle Mandatsläufe eines Kanzleiordners nach Dringlichkeit ordnet; drei zusätzliche Tests. Eine Anleitung beschreibt die Einrichtung in Claude Cowork, Claude Code, ChatGPT-Projekten und Codex. Werkstatt-Prompt Kapitel 30 und Mini-Prompt beschreiben den Tagesablauf.
+
+## 3. Amtliche Normtexte und Veröffentlichung
+
+Ein Workflow `KI-native Kanzlei Normcheck` ruft die amtlichen Normtexte ab, auf die sich die Skills stützen; die bisher als „am Volltext zu prüfen“ markierten Angaben wurden an diesen Texten nachgeprüft und berichtigt, bestätigt oder gestrichen. Ein zweiter Workflow baut und veröffentlicht das Komponentenrelease mit Plugin-ZIP, portablem ZIP, Skill-Handbuch und Einzel-PDFs.
+
 # ki-native-kanzlei-v445.33.6 - Mandatslauf, Freigabestufen und agentische Abstimmung
 
 ## 1. Agentische Schicht

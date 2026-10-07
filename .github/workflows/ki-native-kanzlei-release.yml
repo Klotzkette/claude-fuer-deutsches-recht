@@ -1,0 +1,68 @@
+name: KI-native Kanzlei Komponentenrelease
+
+# Baut Plugin-ZIP, portables ZIP, Skill-Handbuch und Einzel-PDFs der KI-nativen Kanzlei
+# und veröffentlicht sie unter dem Komponententag. Das allgemeine Gesamtrelease bleibt unberührt;
+# das Release wird nicht als "latest" markiert.
+
+on:
+  push:
+    tags:
+      - 'ki-native-kanzlei-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Komponententag, z. B. ki-native-kanzlei-v445.33.7'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Python-Abhängigkeiten und Schrift
+        run: |
+          python3 -m pip install reportlab pypdf PyYAML
+          mkdir -p "$RUNNER_TEMP/fonts"
+          curl -fsSL https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz -o "$RUNNER_TEMP/lib.tgz" || true
+          if [ -s "$RUNNER_TEMP/lib.tgz" ]; then tar -xzf "$RUNNER_TEMP/lib.tgz" -C "$RUNNER_TEMP/fonts" --strip-components=1; fi
+          if [ ! -f "$RUNNER_TEMP/fonts/LiberationSerif-Regular.ttf" ] && ! fc-list | grep -q LiberationSerif-Regular; then
+            timeout 600 sudo apt-get install -y --no-install-recommends fonts-liberation2 || timeout 600 sudo apt-get install -y --no-install-recommends fonts-liberation
+          fi
+          ls "$RUNNER_TEMP/fonts" || true
+      - name: Version gegen Tag prüfen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('ki-native-kanzlei/plugin.json'))['version'])")
+          test "ki-native-kanzlei-v$VERSION" = "$TAG" || { echo "Tag $TAG passt nicht zu Version $VERSION"; exit 1; }
+      - name: Tests der Hilfsprogramme
+        run: |
+          python3 scripts/test-ki-native-kanzlei-lauf.py
+          python3 scripts/test-ki-native-kanzlei-fristen.py
+      - name: Lesefassungen setzen
+        run: |
+          if [ -f "$RUNNER_TEMP/fonts/LiberationSerif-Regular.ttf" ]; then FONTDIR="$RUNNER_TEMP/fonts"; else FONTDIR=$(dirname "$(fc-list | grep -m1 'LiberationSerif-Regular' | cut -d: -f1)"); fi
+          echo "Schriftordner: $FONTDIR"
+          python3 scripts/build-ki-native-kanzlei-handbuch.py --out "$RUNNER_TEMP/pdf" --font-dir "$FONTDIR" --font-family liberation-serif
+          cat "$RUNNER_TEMP/pdf/umfang.json"
+      - name: Pakete bauen
+        run: python3 scripts/build-ki-native-kanzlei-release.py --dist "$RUNNER_TEMP/dist" --pdf-dir "$RUNNER_TEMP/pdf"
+      - name: Releasetext aus dem Changelog
+        run: |
+          awk -v t="# $TAG" 'index($0,t)==1{f=1;next} /^# /{if(f)exit} f' CHANGELOG.md > "$RUNNER_TEMP/notes.md"
+          printf '\n[README, Skills, Prompts und Testakten](https://github.com/%s/blob/main/ki-native-kanzlei/README.md) · [Prüfnachweise](https://github.com/%s/blob/main/quality/ki-native-kanzlei/README.md)\n\nEigenes Komponentenrelease. Das allgemeine Gesamtrelease und die Latest-Zuordnung bleiben unverändert. Die Lesefassungen sind mit Liberation Serif 11 pt gesetzt.\n' "$GITHUB_REPOSITORY" "$GITHUB_REPOSITORY" >> "$RUNNER_TEMP/notes.md"
+          cat "$RUNNER_TEMP/notes.md"
+      - name: Veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            gh release create "$TAG" --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false --verify-tag
+          fi
+          gh release upload "$TAG" "$RUNNER_TEMP"/dist/* --clobber
+          gh release view "$TAG" --json assets --jq '.assets[] | "\(.name) \(.size)"'

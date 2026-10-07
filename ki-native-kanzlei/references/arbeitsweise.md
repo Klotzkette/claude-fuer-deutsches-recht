@@ -53,3 +53,8 @@ Die Beispiele der Skills enthalten jeweils ausformulierte Endprodukte und ein Ne
 ## 1.9. Mandatslauf und Freigabestufen
 
 Je Mandat wird ein [Mandatslauf](mandatslauf-und-freigaben.md) geführt: Phase, führende Fassungen mit Pfad und Hash, offene Gates und offene Fragen. Mit Dateizugriff schreibt ihn `scripts/mandatslauf.py` nach `00_Mandat/mandatslauf.json`; ohne Dateizugriff steht derselbe Stand als Textblock im Übergabevermerk. Die Kanzlei setzt eine Freigabestufe von 0 (nur Entwurf) bis 3 (Versandvorbereitung); innerhalb der Stufe arbeitet die Maschine ohne Rückfrage weiter und stößt den Nachbarskill an. Versand, Einreichung, Kalenderbestätigung, Rechnungsausgabe, Auszahlung, Dienstleisterzugang, Meldung und Löschung sind die Gates G1 bis G8; die Maschine öffnet sie und bereitet das Produkt vor, freigeben darf nur eine namentlich bezeichnete Person. Ein offenes Fristgate geht jeder Sacharbeit vor.
+
+## 1.10. Kanzleialltag, Befehle und Umgebungen
+
+Die wiederkehrenden Abläufe einer Kanzlei (Tagesstart, neue Anfrage, Posteingang, Fristsache, Schriftsatz, Vertragsprojekt, Mandantenbrief, Zeiten, Wochenabschluss, Abrechnung, Zahlungen, Übergabe, Mandatsende, Freigabe) beschreibt die [Kanzleialltag-Referenz](kanzleialltag-workflows.md). In Claude Cowork und Claude Code starten die Befehle im Ordner `commands` diese Abläufe; `mandatslauf.py cockpit` ordnet alle Mandate eines Kanzleiordners nach Dringlichkeit. In ChatGPT übernehmen ein Projekt mit dem Mini-Prompt als Anweisung und ein Statusblock je Antwort dieselbe Funktion. Die Einrichtung beschreibt [ChatGPT und Claude Cowork einrichten](chatgpt-und-cowork-einrichtung.md).
+

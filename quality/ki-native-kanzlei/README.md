@@ -1,6 +1,6 @@
 # KI-native Kanzlei: Prüfung der Veredelung und der agentischen Schicht
 
-Stand: 7. Oktober 2026. Komponentenfassung `445.33.6`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+Stand: 7. Oktober 2026. Komponentenfassung `445.33.7`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
 
 ## 1. Gegenstand und Umfang
 
@@ -40,7 +40,7 @@ Der Builder vergleicht den geordneten Text aller Absätze und Tabellenzellen mit
 
 ## 5. Zwei unabhängige Modell-Probeläufe der Vorfassung
 
-Die beiden Probeläufe stammen aus der Vorfassung 445.33.4 und wurden für die veredelte Fassung 445.33.6 nicht wiederholt; sie betreffen den damals unveränderten Mini-Prompt und den damaligen Stand des Berufsrechtsskills. Zwei Instanzen ohne vorausgehende Unterhaltung erhielten jeweils den konkreten Auftrag und nur den zu prüfenden Mini-Prompt beziehungsweise Berufsrechtsskill sowie dessen Referenzen. Sie sollten die Fälle tatsächlich bearbeiten, durften Rechtsquellen und Werkzeuge benutzen und erhielten keine Bewertungskriterien, fremden Ergebnisse oder QA-Dateien. Die Hauptinstanz hat anschließend die vollständig vorliegenden Ergebnisse und Werkzeugprotokolle beurteilt.
+Die beiden Probeläufe stammen aus der Vorfassung 445.33.4 und wurden für die veredelte Fassung 445.33.7 nicht wiederholt; sie betreffen den damals unveränderten Mini-Prompt und den damaligen Stand des Berufsrechtsskills. Zwei Instanzen ohne vorausgehende Unterhaltung erhielten jeweils den konkreten Auftrag und nur den zu prüfenden Mini-Prompt beziehungsweise Berufsrechtsskill sowie dessen Referenzen. Sie sollten die Fälle tatsächlich bearbeiten, durften Rechtsquellen und Werkzeuge benutzen und erhielten keine Bewertungskriterien, fremden Ergebnisse oder QA-Dateien. Die Hauptinstanz hat anschließend die vollständig vorliegenden Ergebnisse und Werkzeugprotokolle beurteilt.
 
 ### 5.1. Frist nach Versäumnisurteil in Berlin
 

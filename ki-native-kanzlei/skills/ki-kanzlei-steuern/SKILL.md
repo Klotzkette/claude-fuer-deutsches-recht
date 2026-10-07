@@ -165,6 +165,8 @@ Prüfe bei einem komplexeren Auftrag den Zusammenhang der Produkte: Mandantenemp
 
 ### 3.14. Agentischer Lauf und Freigabestufe
 
+Über mehrere Mandate hinweg ordnet `mandatslauf.py cockpit --kanzlei <Kanzleiordner>` alle Läufe nach offenem Fristgate, anderen offenen Gates und offenen Fragen; die wiederkehrenden Abläufe vom Tagesstart bis zum Mandatsende stehen in der [Kanzleialltag-Referenz](../../references/kanzleialltag-workflows.md) und werden in Claude Cowork mit den Befehlen des Plugins gestartet.
+
 Der Mandatslauf nach [Mandatslauf und Freigaben](../../references/mandatslauf-und-freigaben.md), geführt mit [`mandatslauf.py`](../../scripts/mandatslauf.py), bestimmt die Reihenfolge der Fachskills. Dieser Skill verantwortet die Phase `eingang`; sie endet mit dem zugeordneten Auftrag und der erkannten Startsituation, Produkt `auftrag`. Danach setzt er die Hauptphase des bestellten Produkts und führt einen Fristauslöser mit `phase --phase frist --nebenlauf` neben der Sacharbeit. Die Querschnittsskills erhalten keinen Nebenlauf, weil `--nebenlauf` nur Phasennamen kennt; sie tragen sich über ihr Gate (G6 Dienstleister, G7 Meldung) und `question` ein.
 
 | Stufe | Dieser Skill tut ohne Rückfrage |

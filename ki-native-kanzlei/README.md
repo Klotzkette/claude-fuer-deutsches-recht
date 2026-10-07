@@ -4,15 +4,15 @@ Eine Kanzlei, die KI mitdenken lässt und ihre Arbeit im Griff behält: Mandat a
 
 ## 0. Downloads und Verwendung
 
-Stand: **v445.33.6**, Rechtsquellen geprüft am **7. Oktober 2026**.
+Stand: **v445.33.7**, Rechtsquellen geprüft am **7. Oktober 2026**.
 
-Die Komponentenfassung 445.33.6 veredelt alle achtzehn Skills derselben Pluginbezeichnung. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
+Die Komponentenfassung 445.33.7 ergänzt den Kanzleialltag: fünfzehn Befehle für Claude Cowork, ein Kanzlei-Cockpit über alle Mandate, Anleitungen für ChatGPT und Cowork sowie am amtlichen Text nachgeprüfte Normangaben. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei.zip) |
-| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-portable.zip) |
-| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.6/ki-native-kanzlei-skills-einzelpdfs.zip) |
+| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei.zip) |
+| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-portable.zip) |
+| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
 | Hauptproblem-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
@@ -32,6 +32,8 @@ Ein kleiner Einzelauftrag funktioniert ebenso:
 Ein Fristauftrag beginnt mit dem Beleg, nicht mit dem Datum des Schreibens:
 
 > Hier ist das Versäumnisurteil mit Zustellungsurkunde. Berechne die Einspruchsfrist für Berlin, erstelle den Rechenvermerk und sage mir, welche Eintragung ich im Kalender vornehmen muss. Keine Einreichung.
+
+Den ganzen Kanzleialltag führen fünfzehn Befehle für Claude Cowork und Claude Code: `/kanzlei-tagesstart` ordnet morgens alle Mandate nach Dringlichkeit (offene Fristfreigaben zuerst), sichtet den Posteingang und liefert den Tagesbericht; `/mandat-neu`, `/posteingang`, `/frist`, `/schriftsatz`, `/vertrag`, `/mandantenbrief`, `/zeit`, `/kanzlei-wochenabschluss`, `/rechnung`, `/zahlung`, `/uebergabe`, `/mandat-status` und `/mandat-ende` führen die einzelnen Abläufe; mit `/freigabe` trägt eine namentlich benannte Person ihre Freigabe ein. Die Abläufe beschreibt die [Kanzleialltag-Referenz](references/kanzleialltag-workflows.md), die Einrichtung in Cowork und ChatGPT [eine eigene Anleitung](references/chatgpt-und-cowork-einrichtung.md). In ChatGPT übernimmt ein Projekt mit dem Mini-Prompt als Anweisung dieselbe Rolle; die Befehle werden dort als Satzanfang verwendet.
 
 Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die komplette Honorarvereinbarung neu ab noch erfindet es Zeiten, wenn eine Antwort fehlt.
 
