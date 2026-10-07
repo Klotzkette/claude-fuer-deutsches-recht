@@ -104,9 +104,19 @@ def main():
     cfg = json.loads(Path(sys.argv[1]).read_text(encoding='utf-8'))
     out = Path(sys.argv[2]) if len(sys.argv) > 2 else None
     entries = cfg['entries']
+    import os
+    only = Path(os.environ.get('NORMCHECK_ONLY_FILE', '-'))
+    if only.is_file():
+        wanted = {l.strip() for l in only.read_text(encoding='utf-8').splitlines() if l.strip()}
+        entries = [e for e in entries if e['id'] in wanted]
+    workers = int(os.environ.get('NORMCHECK_WORKERS', '8'))
+    pause = float(os.environ.get('NORMCHECK_PAUSE', '0'))
     parts = [None] * len(entries)
-    with ThreadPoolExecutor(max_workers=8) as pool:
-        futures = {pool.submit(check_entry, e): i for i, e in enumerate(entries)}
+    def slow(e):
+        time.sleep(pause)
+        return check_entry(e)
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(slow, e): i for i, e in enumerate(entries)}
         for fut in futures:
             i = futures[fut]
             try:

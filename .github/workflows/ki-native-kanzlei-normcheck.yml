@@ -11,6 +11,7 @@ on:
     paths:
       - 'scripts/data/ki-native-kanzlei-normcheck.json'
       - 'scripts/ki-native-kanzlei-normcheck.py'
+      - 'scripts/data/ki-native-kanzlei-normcheck-nachlauf.txt'
       - '.github/workflows/ki-native-kanzlei-normcheck.yml'
 
 permissions:
@@ -30,7 +31,11 @@ jobs:
             curl -sS -o /dev/null -A "Mozilla/5.0" --max-time 20 -w "%{http_code} %{time_total}s $u\n" "$u" || echo "FEHLER $u"
           done
       - name: Normtexte abrufen
-        run: python3 -u scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
+        run: |
+          if [ -f scripts/data/ki-native-kanzlei-normcheck-nachlauf.txt ]; then
+            export NORMCHECK_ONLY_FILE=scripts/data/ki-native-kanzlei-normcheck-nachlauf.txt NORMCHECK_WORKERS=2 NORMCHECK_PAUSE=4
+          fi
+          python3 -u scripts/ki-native-kanzlei-normcheck.py scripts/data/ki-native-kanzlei-normcheck.json normcheck.md
       - uses: actions/upload-artifact@v7
         with:
           name: ki-native-kanzlei-normcheck
@@ -40,7 +45,7 @@ jobs:
         if: github.event_name == 'push' && startsWith(github.ref_name, 'claude/ki-native-kanzlei-')
         run: |
           mkdir -p quality/ki-native-kanzlei/normcheck
-          cp normcheck.md quality/ki-native-kanzlei/normcheck/normcheck-$(date -u +%Y-%m-%d).md
+          cp normcheck.md quality/ki-native-kanzlei/normcheck/normcheck-$(date -u +%Y-%m-%d-%H%M).md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add quality/ki-native-kanzlei/normcheck
