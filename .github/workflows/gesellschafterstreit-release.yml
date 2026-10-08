@@ -31,12 +31,14 @@ jobs:
           python3 -m pip install -r requirements.txt
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2 fonts-croscore fonts-crosextra-carlito
-          mkdir -p "$HOME/.config/fontconfig/conf.d"
-          cp scripts/data/gesellschafterstreit-fontconfig.conf "$HOME/.config/fontconfig/conf.d/99-gesellschafterstreit.conf"
+          # Der Office-Renderer verwendet ein isoliertes HOME. Die Zuordnung
+          # muss deshalb auch ohne benutzerspezifische Konfiguration greifen.
+          sudo install -m 0644 scripts/data/gesellschafterstreit-fontconfig.conf /etc/fonts/conf.d/99-gesellschafterstreit.conf
           fc-cache -f
           fc-match Arial
           fc-match 'Times New Roman'
           fc-match Calibri
+          fc-match Carlito
       - name: Version und Quellen prüfen
         run: |
           VERSION=$(python3 -c "import json;print(json.load(open('gesellschafterstreit/.claude-plugin/plugin.json'))['version'])")
