@@ -1,0 +1,14 @@
+Skill-Dateien: 23158
+ueber_360: 16
+
+Beispiele:
+
+## ueber_360
+- rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/33-dokumentenmix-ocr-sichten/SKILL.md: Verbindlicher Default-Start für neuen Fall, Projektordner, Aktenordner, Upload-Bundle und gemischten Neuzugang. Aktiviert bei kurzen Aufträgen wie neuer Fall, Ordner prüfen oder Akte fertig machen. Fragt nie nach einer S
+- rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/39-beweisangebot-anlagenplan/SKILL.md: Beweisangebote und fortlaufenden Anlagenplan für Klage, Replik und Verteidigung erzeugen. Ordnet jede erhebliche Tatsache einem zulässigen Beweismittel, Beweislast, Original, K- oder B-Nummer, Dateiversion und Beschaffun
+- schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md: Verbindlicher Autostart der fachlich neutralen beA-Schriftsatzwerkstatt. Aktiviert bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln. Inventarisiert unverändert, übernimmt sicher er
+- schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md: Sperrt die richtige, bereits fachlich freigegebene Schriftsatzfassung vor PDF-Konvertierung. Verwenden bei mehreren DOCX-, ODT- oder PDF-Versionen, Änderungsverfolgung, Kommentaren, Platzhaltern, verstecktem Text oder un
+- schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md: Ordnet vorhandene Anlagen technisch zum fertigen Schriftsatz, setzt eine bestehende K- oder B-Nummerierung fort und bereitet die sichtbare Kennzeichnung rechts oben vor. Verwenden bei Klage, Erwiderung, Replik oder weite
+- schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md: Erzeugt aus einem fertigen Schriftsatz und gemischten Anlagen separate gerichtstaugliche PDF-Arbeitskopien. Verwenden für DOCX, ODT, XLSX, CSV, EML, MSG, JPEG, PNG, TIFF, Scan und vorhandene PDF. Behandelt Office-Layout,
+- schriftsatzwerkstatt-bea/skills/05-pdf-qualitaet-pruefen/SKILL.md: Prüft jede erzeugte Schriftsatz- und Anlagen-PDF visuell und technisch vor beA. Verwenden nach Office-, E-Mail-, Bild- oder Scan-Konvertierung sowie bei fremden Bestands-PDFs. Kontrolliert Seitenzahl, Zuschnitt, Leserich
+- schriftsatzwerkstatt-bea/skills/06-dateinamen-manifest-erzeugen/SKILL.md: Benennt geprüfte Schriftsatz- und Anlagen-PDFs kurz, sprechend und beA-tauglich und erzeugt das interne Versandmanifest. Verwenden nach PDF-Prüfung oder zur Bereinigung langer, kryptischer, umlaut- oder leerzeichenhaltig

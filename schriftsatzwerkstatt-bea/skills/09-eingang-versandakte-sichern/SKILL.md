@@ -1,6 +1,6 @@
 ---
 name: 09-eingang-versandakte-sichern
-description: 'Sichert nach dem realen beA-Versand den überprüfbaren Eingang und den unveränderbaren Versandstand. Verwenden mit gesendeter Nachricht, Exportprotokoll oder automatisierter Eingangsbestätigung. Prüft Gericht, Aktenzeichen, Zeitstempel, Dateiliste, Fehlermeldungen und Hashstand, erstellt den Eingangsvermerk und bereitet DMS-Ablage sowie Wiedervorlage vor. Ein bloßer Status gesendet wird nicht als Gerichtseingang behandelt.'
+description: "Nach realem beA-Versand mit Nachricht, Exportprotokoll oder Eingangsbestätigung: prüft Gericht, Aktenzeichen, Zeitstempel, Dateiliste, Fehler und Hashstand. Sichert Versandfassung, erstellt Eingangsvermerk und bereitet DMS-Ablage sowie Wiedervorlage vor. Der Status gesendet allein belegt keinen Gerichtseingang."
 ---
 
 # Eingang prüfen und Versandakte sichern

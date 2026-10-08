@@ -1,6 +1,6 @@
 ---
 name: 02-schriftsatzversion-festlegen
-description: 'Sperrt die richtige, bereits fachlich freigegebene Schriftsatzfassung vor PDF-Konvertierung. Verwenden bei mehreren DOCX-, ODT- oder PDF-Versionen, Änderungsverfolgung, Kommentaren, Platzhaltern, verstecktem Text oder unklarem Unterschriftsblock. Prüft nur Version und technische Vollständigkeit, verändert keine juristischen Inhalte und liefert eine eindeutige Quellen- und Renderfassung.'
+description: "Bei mehreren DOCX-, ODT- oder PDF-Fassungen, Kommentaren, Änderungen, Platzhaltern oder unklarem Unterschriftsblock: bestimmt die fachlich freigegebene Schriftsatzversion vor der PDF-Konvertierung. Prüft Version und technische Vollständigkeit ohne juristische Inhaltsänderung; liefert Quellen- und Renderfassung."
 ---
 
 # Schriftsatzversion festlegen

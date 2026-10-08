@@ -1,6 +1,6 @@
 ---
 name: 33-dokumentenmix-ocr-sichten
-description: "Verbindlicher Default-Start für neuen Fall, Projektordner, Aktenordner, Upload-Bundle und gemischten Neuzugang. Aktiviert bei kurzen Aufträgen wie neuer Fall, Ordner prüfen oder Akte fertig machen. Fragt nie nach einer Skillauswahl, sichert zuerst Fristen, zeigt die einheitliche Sofortkarte und arbeitet danach automatisch in priorisierten Stapeln bis zu Startkarte oder Änderungskarte weiter."
+description: "Bei neuem Immobilienfall, Aktenordner, Upload-Bundle oder gemischtem Neuzugang: startet ohne Skillauswahl, sichert zuerst Fristen und zeigt die Sofortkarte. Sichtet den Bestand in priorisierten Stapeln und liefert eine Startkarte oder bei laufender Akte eine Änderungskarte mit Lücken und nächster Aktion."
 ---
 
 # Dokumentenmix und OCR-Intake

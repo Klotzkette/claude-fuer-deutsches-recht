@@ -1,6 +1,6 @@
 ---
 name: vertiefung-ruege-vor-zuschlag
-description: "Vergaberechtliche Rüge nach Paragraf 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstöße erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: Paragraf 160 Abs. 3 GWB (Rügerobliegenheit als Präklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstöße bis Angebotsabgabe, sonstige Verstöße 10 Kalendertage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung)."
+description: "Bei erkanntem Vergabeverstoß vor Zuschlag: prüft aus Bietersicht Rügeobliegenheit, Kenntnis, Erkennbarkeit in Bekanntmachung oder Unterlagen und einschlägige Fristen. Liefert eine begründete Rüge mit Belegen, Abhilfeverlangen und dokumentierter Reaktion des Auftraggebers als Grundlage des nächsten Rechtsschutzschritts."
 ---
 
 # Rüge vor Zuschlag

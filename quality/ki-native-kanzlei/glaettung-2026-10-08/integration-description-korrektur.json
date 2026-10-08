@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-08",
+  "changes": [
+    {
+      "path": "rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/33-dokumentenmix-ocr-sichten/SKILL.md",
+      "before_chars": 394,
+      "after_chars": 305,
+      "before": "Verbindlicher Default-Start für neuen Fall, Projektordner, Aktenordner, Upload-Bundle und gemischten Neuzugang. Aktiviert bei kurzen Aufträgen wie neuer Fall, Ordner prüfen oder Akte fertig machen. Fragt nie nach einer Skillauswahl, sichert zuerst Fristen, zeigt die einheitliche Sofortkarte und arbeitet danach automatisch in priorisierten Stapeln bis zu Startkarte oder Änderungskarte weiter.",
+      "after": "Bei neuem Immobilienfall, Aktenordner, Upload-Bundle oder gemischtem Neuzugang: startet ohne Skillauswahl, sichert zuerst Fristen und zeigt die Sofortkarte. Sichtet den Bestand in priorisierten Stapeln und liefert eine Startkarte oder bei laufender Akte eine Änderungskarte mit Lücken und nächster Aktion.",
+      "old_sha256": "243ecc0c42069b5c65cccc14ab1ddeb6634a68b29109cd4d195df4a66ac15faf",
+      "new_sha256": "960fd8e6a893f5aafc5489d26293dc53a5c4ef1129f8dd57bf484d77f3c14950",
+      "body_unchanged": true
+    },
+    {
+      "path": "rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/39-beweisangebot-anlagenplan/SKILL.md",
+      "before_chars": 371,
+      "after_chars": 271,
+      "before": "Beweisangebote und fortlaufenden Anlagenplan für Klage, Replik und Verteidigung erzeugen. Ordnet jede erhebliche Tatsache einem zulässigen Beweismittel, Beweislast, Original, K- oder B-Nummer, Dateiversion und Beschaffungsstatus zu. Nutzen vor Schriftsatzfinalisierung oder beA-Paket. Output Beweismatrix, Anlagenmanifest und stabile Übergabe an die Dokumentenproduktion.",
+      "after": "Vor Klage, Replik, Verteidigung oder beA-Paket: ordnet erhebliche Tatsachen Beweismitteln, Beweislast, Originalen und fortlaufenden K- oder B-Nummern zu. Prüft Version und Beschaffungsstatus. Liefert Beweismatrix, Anlagenmanifest und Übergabe an die Dokumentenproduktion.",
+      "old_sha256": "093d344f304a32d1fa4b45b54655c27613ba2641c70fd8ab0d1df6f23b48bcdc",
+      "new_sha256": "1e63d3450ada16ba78c0471c7210f7a595e9065c00b1e3bfd1c46c5183c40254",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md",
+      "before_chars": 375,
+      "after_chars": 319,
+      "before": "Verbindlicher Autostart der fachlich neutralen beA-Schriftsatzwerkstatt. Aktiviert bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln. Inventarisiert unverändert, übernimmt sicher erkennbare Angaben, fragt nur offene Pflichtdaten gebündelt ab und führt automatisch durch Version, Anlagen, PDF, Dateinamen, Signatur, Freigabe und Eingang.",
+      "after": "Bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln: startet die technische Werkstatt ohne juristische Inhaltsänderung. Inventarisiert Originale, klärt fehlende Pflichtdaten und führt durch Version, Anlagen, PDF, Namen und Signatur bis zum Paket mit Freigabe- und Eingangskontrolle.",
+      "old_sha256": "b76875fddf918ad4c9064a45d3e9413040af93301a5527c29fd2d00e4bfbdd7c",
+      "new_sha256": "2e4f5b85a4b8d71465231c1a9307ae8b65b8e1aab021bc64cc82c5f7605ce905",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md",
+      "before_chars": 389,
+      "after_chars": 312,
+      "before": "Sperrt die richtige, bereits fachlich freigegebene Schriftsatzfassung vor PDF-Konvertierung. Verwenden bei mehreren DOCX-, ODT- oder PDF-Versionen, Änderungsverfolgung, Kommentaren, Platzhaltern, verstecktem Text oder unklarem Unterschriftsblock. Prüft nur Version und technische Vollständigkeit, verändert keine juristischen Inhalte und liefert eine eindeutige Quellen- und Renderfassung.",
+      "after": "Bei mehreren DOCX-, ODT- oder PDF-Fassungen, Kommentaren, Änderungen, Platzhaltern oder unklarem Unterschriftsblock: bestimmt die fachlich freigegebene Schriftsatzversion vor der PDF-Konvertierung. Prüft Version und technische Vollständigkeit ohne juristische Inhaltsänderung; liefert Quellen- und Renderfassung.",
+      "old_sha256": "bfb6e26c1fd962de880f15c8c39192869dfc283781bd9ca1f818c6bc6474aec7",
+      "new_sha256": "435e4f5b53df919d40d3852ecc065407c96688e525197fdc59ad0f640d30a0fe",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md",
+      "before_chars": 383,
+      "after_chars": 313,
+      "before": "Ordnet vorhandene Anlagen technisch zum fertigen Schriftsatz, setzt eine bestehende K- oder B-Nummerierung fort und bereitet die sichtbare Kennzeichnung rechts oben vor. Verwenden bei Klage, Erwiderung, Replik oder weiterem Schriftsatz mit gemischten Belegen. Prüft Anlagenzitate, Dubletten, Seitenfolge und fehlende Dateien, ohne Beweiswert oder juristischen Inhalt neu zu bewerten.",
+      "after": "Bei fertigem Schriftsatz mit gemischten Belegen: ordnet Anlagen technisch zu, führt vorhandene K- oder B-Nummern fort und bereitet die Kennzeichnung rechts oben vor. Prüft Zitate, Dubletten, Seitenfolge und fehlende Dateien. Liefert einen Anlagenplan ohne neue Bewertung des Beweiswerts oder juristischen Inhalts.",
+      "old_sha256": "7f3c40e924776d3abc41bbc90acd7d547acf41918ea75583755aa361cc813ede",
+      "new_sha256": "96a58b8f150cd99c9836dc4a266a68da2c0f24d9e1101383a40758de5b4ae503",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md",
+      "before_chars": 389,
+      "after_chars": 295,
+      "before": "Erzeugt aus einem fertigen Schriftsatz und gemischten Anlagen separate gerichtstaugliche PDF-Arbeitskopien. Verwenden für DOCX, ODT, XLSX, CSV, EML, MSG, JPEG, PNG, TIFF, Scan und vorhandene PDF. Behandelt Office-Layout, Tabellen-Druckbereiche, E-Mail-Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Originale bleiben unverändert; Dateiendungen werden niemals nur umbenannt.",
+      "after": "Bei fertigem Schriftsatz und Anlagen aus Office, Tabellen, E-Mails, Bildern, Scans oder PDF: erzeugt separate PDF-Arbeitskopien. Behandelt Layout, Druckbereiche, Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Erhält Originale unverändert; Keine bloße Umbenennung der Dateiendung.",
+      "old_sha256": "cd0d59ae754432b8a0eff25efe57065fcce3fd9673af65fc4a2bef67fb2b666f",
+      "new_sha256": "1df2ddbc889173835f42f9ee3fd76ed459d83bc909779c76bd1805dd92212f57",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/05-pdf-qualitaet-pruefen/SKILL.md",
+      "before_chars": 420,
+      "after_chars": 304,
+      "before": "Prüft jede erzeugte Schriftsatz- und Anlagen-PDF visuell und technisch vor beA. Verwenden nach Office-, E-Mail-, Bild- oder Scan-Konvertierung sowie bei fremden Bestands-PDFs. Kontrolliert Seitenzahl, Zuschnitt, Leserichtung, Schriften, Tabellen, Bilder, Leerseiten, OCR, Druckbarkeit, Passwortschutz, Verschlüsselung, Skripte, eingebettete Objekte und sichtbare Anlagenkennzeichnung. Liefert Seitenprotokoll und Stopps.",
+      "after": "Nach Konvertierung oder bei vorhandenen Schriftsatz- und Anlagen-PDFs: prüft Seiten visuell und technisch vor beA. Kontrolliert Vollständigkeit, Layout, Schriften, Tabellen, Bilder, OCR, Druckbarkeit, Schutzfunktionen, aktive Inhalte und Anlagenkennzeichnung. Liefert Seitenprotokoll und konkrete Stopps.",
+      "old_sha256": "f499bdf0ba4054ecb63b1d66f716155ec5fd507cca6f73e7fa6be6ad04fddd04",
+      "new_sha256": "00c08ab3164a023a5897251aba8676f7339c1c624209a74936111afe7c0d5efb",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/06-dateinamen-manifest-erzeugen/SKILL.md",
+      "before_chars": 403,
+      "after_chars": 295,
+      "before": "Benennt geprüfte Schriftsatz- und Anlagen-PDFs kurz, sprechend und beA-tauglich und erzeugt das interne Versandmanifest. Verwenden nach PDF-Prüfung oder zur Bereinigung langer, kryptischer, umlaut- oder leerzeichenhaltiger Dateinamen. Erzwingt den strengeren Standard mit höchstens 80 Zeichen einschließlich Endung, ASCII, ae-oe-ue-ss, Unterstrichen, logischer Reihenfolge und genau einem Punkt vor pdf.",
+      "after": "Nach PDF-Prüfung oder bei langen, kryptischen oder ungeeigneten Dateinamen: benennt Schriftsatz und Anlagen kurz und sprechend. Verwendet den internen 80-Zeichen-Standard einschließlich Endung mit ASCII und genau einem Punkt vor pdf. Liefert geordnete Dateinamen und das interne Versandmanifest.",
+      "old_sha256": "bcb81ee215a38f578170be5cb0fc1f3ac7d70f05045adae92ece5858dbbdfaab",
+      "new_sha256": "3c3abe9d783f345d070f03cbc92b46dcfae84f8225cbfe912755c89af9b88f6b",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/07-signatur-versandweg-pruefen/SKILL.md",
+      "before_chars": 423,
+      "after_chars": 317,
+      "before": "Prüft den formalen Signatur- und Übermittlungsweg eines fertigen beA-Schriftsatzes. Verwenden vor Versand, bei einfacher Signatur, qeS, Vertretung, Mitarbeiterzugang oder unklarer versendender Person. Erfasst verantwortliche Person und tatsächlichen Versender, verlangt bei einfacher Signatur deren Identität, prüft Namenszug und qeS-Bezug zur finalen PDF und stoppt bei Abweichung. Anlagen benötigen keine eigene Signatur.",
+      "after": "Vor beA-Versand bei einfacher Signatur, qeS, Vertretung oder Mitarbeiterzugang: prüft verantwortliche Person, tatsächlichen Versender, Berechtigung und Signaturbezug zur finalen PDF. Kontrolliert bei einfacher Signatur den persönlichen Versand durch die verantwortliche Person. Liefert Prüfmatrix und konkrete Stopps.",
+      "old_sha256": "6a7bb761a3243d31b7f9a0165448563394e96c8ef40ff9144dd56b8f199a3028",
+      "new_sha256": "9836c6f6590f95fd9f2cf64dbaae8cf0a7edb23495d56e0c7c3f2df2f8d22bd1",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/08-bea-paket-freigeben/SKILL.md",
+      "before_chars": 420,
+      "after_chars": 311,
+      "before": "Führt den finalen Preflight für ein vollständig konvertiertes beA-Upload-Paket durch. Verwenden unmittelbar vor der Übergabe an den tatsächlichen Versender. Gleicht PDFs, Anlagenfolge, Manifest, Hashes, Dateinamen, Gericht, Aktenzeichen, Frist, Signaturweg, Dateizahl und Gesamtgröße ab. Erstellt Freigabekarte und Versandauftrag, versendet aber nicht selbst und setzt ohne reale benannte Person niemals auf freigegeben.",
+      "after": "Unmittelbar vor Übergabe eines konvertierten beA-Pakets an den Versender: gleicht PDFs, Anlagenfolge, Manifest, Hashes, Dateinamen, Gericht, Aktenzeichen, Frist, Signaturweg, Dateizahl und Größe ab. Liefert Freigabekarte und Versandauftrag. Versendet nicht selbst; Freigabe nur durch eine reale benannte Person.",
+      "old_sha256": "02e2394fe5b8c0b72b2f22c5f8f3a9fcfead53e2ef0845cce43513b7aa7bf67b",
+      "new_sha256": "d2aeb080d33bc472f8068bc5e06c08b0fa1ee04f14395669247db80266934db8",
+      "body_unchanged": true
+    },
+    {
+      "path": "schriftsatzwerkstatt-bea/skills/09-eingang-versandakte-sichern/SKILL.md",
+      "before_chars": 425,
+      "after_chars": 312,
+      "before": "Sichert nach dem realen beA-Versand den überprüfbaren Eingang und den unveränderbaren Versandstand. Verwenden mit gesendeter Nachricht, Exportprotokoll oder automatisierter Eingangsbestätigung. Prüft Gericht, Aktenzeichen, Zeitstempel, Dateiliste, Fehlermeldungen und Hashstand, erstellt den Eingangsvermerk und bereitet DMS-Ablage sowie Wiedervorlage vor. Ein bloßer Status gesendet wird nicht als Gerichtseingang behandelt.",
+      "after": "Nach realem beA-Versand mit Nachricht, Exportprotokoll oder Eingangsbestätigung: prüft Gericht, Aktenzeichen, Zeitstempel, Dateiliste, Fehler und Hashstand. Sichert Versandfassung, erstellt Eingangsvermerk und bereitet DMS-Ablage sowie Wiedervorlage vor. Der Status gesendet allein belegt keinen Gerichtseingang.",
+      "old_sha256": "5b93b19257adffa51d48a63302ff9c3964de436cb8775788ec8645abec419733",
+      "new_sha256": "0005fe7df61450ca467944b303682a326fc3dc76e6675237d38642b63b24cae9",
+      "body_unchanged": true
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vergaberechtliche-pruefung-anwaltlich/SKILL.md",
+      "before_chars": 388,
+      "after_chars": 307,
+      "before": "Führt die vergaberechtliche Vollprüfung ausschließlich aus Sicht des Bieters oder Bewerbers. Einsetzen ab Bekanntmachung vor Angebotsabgabe bei Ausschluss Rüge Nichtabhilfe Nachprüfung Beschwerde oder Vertragsproblem. Prüft Regime Unterlagen Eignung Format Angebot Qualitätsvorsprung Preisaufklärung Fristen Zuschlagschance und Beweis. Liefert Abgabefreigabe Rüge Antrag oder Chancenmemo.",
+      "after": "Vergaberechtliche Vollprüfung für Bieter oder Bewerber ab Bekanntmachung, vor Abgabe, bei Ausschluss, Rüge, Nachprüfung, Beschwerde oder Vertragsproblem. Prüft Regime, Unterlagen, Eignung, Angebotsformat, Qualität, Preisaufklärung, Fristen und Beweise. Liefert Abgabefreigabe, Rüge, Antrag oder Chancenmemo.",
+      "old_sha256": "362805a62246715d9391a940dab9becc8132607c6c832ec98bfc1efb686ff7d0",
+      "new_sha256": "e8297a160f9863ef811302bffab7d0f8fed05747b56ed8aa32632ba1c025b43b",
+      "body_unchanged": true
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vertiefung-eignungspruefung/SKILL.md",
+      "before_chars": 397,
+      "after_chars": 307,
+      "before": "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: Paragraf 122 GWB (Eignungskriterien), Paragrafen 123 und 124 GWB (Ausschlussgründe), Paragraf 125 GWB (Selbstreinigung), Paragraf 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklärung EEE, Selbstreinigung.",
+      "after": "Bei Ausschluss eines Bieters oder vorzubereitendem Eignungsnachweis: prüft bekannt gemachte Eignungskriterien, Befähigung, Zuverlässigkeit, finanzielle und technische Leistungsfähigkeit, EEE und Selbstreinigung. Liefert eine Eignungsbewertung mit Nachweislücken und konkreten Einwänden gegen den Ausschluss.",
+      "old_sha256": "d52ecdf8ef87dd3c87a9a3b83f4880ad992725a6c5b74708d7899cd711c90d09",
+      "new_sha256": "7888a6bf4cabd2149b77e25bdfa5f61819b8dc76c29ffb06e1b2084b6100c1be",
+      "body_unchanged": true
+    },
+    {
+      "path": "vergaberecht-werkstatt/bieter-unternehmen/skills/vertiefung-ruege-vor-zuschlag/SKILL.md",
+      "before_chars": 418,
+      "after_chars": 320,
+      "before": "Vergaberechtliche Rüge nach Paragraf 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstöße erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: Paragraf 160 Abs. 3 GWB (Rügerobliegenheit als Präklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstöße bis Angebotsabgabe, sonstige Verstöße 10 Kalendertage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung).",
+      "after": "Bei erkanntem Vergabeverstoß vor Zuschlag: prüft aus Bietersicht Rügeobliegenheit, Kenntnis, Erkennbarkeit in Bekanntmachung oder Unterlagen und einschlägige Fristen. Liefert eine begründete Rüge mit Belegen, Abhilfeverlangen und dokumentierter Reaktion des Auftraggebers als Grundlage des nächsten Rechtsschutzschritts.",
+      "old_sha256": "0c96842fe5447669e8e75335db73ce4b16a9adf2cff12baaf47034d8686cff4d",
+      "new_sha256": "6e8c9198677f04595814b6af5a35115247aca54956d63a0b7fbee8cef6af3786",
+      "body_unchanged": true
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/05-bekanntmachung-erstellen/SKILL.md",
+      "before_chars": 383,
+      "after_chars": 321,
+      "before": "Auftragsbekanntmachung, Berichtigung oder Portalveröffentlichung für TED und eForms (oberhalb) oder Bekanntmachungsplattform des Bundes bzw Landesportal und DVAL (unterhalb) vorbereiten. Reihenfolge nach Paragraf 40 VgV erst EU dann national. Pflichtinhalt, Fristen, CPV, Unterlagenlinks und Uploadfreigabe prüfen. Output Bekanntmachungstext, Feldliste und Veröffentlichungsnachweis.",
+      "after": "Bei Auftragsbekanntmachung, Berichtigung oder Portalveröffentlichung: bereitet TED/eForms oder die einschlägige nationale Plattform vor. Prüft Veröffentlichungsreihenfolge, Pflichtangaben, Fristen, CPV, Unterlagenlinks und Uploadfreigabe. Liefert Bekanntmachungstext, Feldliste und nach tatsächlichem Upload den Nachweis.",
+      "old_sha256": "2ef21ebc1750e8c4e27966accd138c65c7e0abcf8edea673af1608b4e2fa233a",
+      "new_sha256": "9a7bb5a308c55cde7dd21d9f2acf6581cb4f5710b82664e2dbb5fb60606d8785",
+      "body_unchanged": true
+    },
+    {
+      "path": "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergaberechtliche-pruefung-anwaltlich/SKILL.md",
+      "before_chars": 390,
+      "after_chars": 324,
+      "before": "Führt die vergaberechtliche Vollprüfung ausschließlich aus Sicht der Vergabestelle. Einsetzen vor Verfahrensfreigabe vor Zuschlag bei Rüge oder Nachprüfung und vor Vertragsänderung. Prüft Regime Bedarf Verfahren Unterlagen Eignung Nachforderung Wertung Niedrigpreis Rechtsschutz und Vergabeakte. Liefert Freigabeampel Entscheidungsvermerk Maßnahmenliste und verteidigungsfähiges Aktenpaket.",
+      "after": "Vergaberechtliche Vollprüfung für die Vergabestelle vor Verfahrensfreigabe, Zuschlag oder Vertragsänderung sowie bei Rüge oder Nachprüfung. Prüft Regime, Bedarf, Verfahren, Unterlagen, Eignung, Nachforderung, Wertung, Niedrigpreis und Rechtsschutz. Liefert Freigabeampel, Entscheidungsvermerk, Maßnahmenliste und Aktenpaket.",
+      "old_sha256": "228e76c61cba4c7b6ea0bda731f0cb018a1ab62d71279ac960fe98f8b3ff7b0e",
+      "new_sha256": "e822cd1fd195c1e4c9091772c4e5a7909d56e2a8b385e78312383dba78594fba",
+      "body_unchanged": true
+    }
+  ],
+  "updated_hash_profiles": [],
+  "scope": "Nur description-Zeilen; Textkörper, Quellen, Testakten, Skripte und Versionen unverändert."
+}

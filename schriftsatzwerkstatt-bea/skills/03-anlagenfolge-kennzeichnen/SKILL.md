@@ -1,6 +1,6 @@
 ---
 name: 03-anlagenfolge-kennzeichnen
-description: 'Ordnet vorhandene Anlagen technisch zum fertigen Schriftsatz, setzt eine bestehende K- oder B-Nummerierung fort und bereitet die sichtbare Kennzeichnung rechts oben vor. Verwenden bei Klage, Erwiderung, Replik oder weiterem Schriftsatz mit gemischten Belegen. Prüft Anlagenzitate, Dubletten, Seitenfolge und fehlende Dateien, ohne Beweiswert oder juristischen Inhalt neu zu bewerten.'
+description: "Bei fertigem Schriftsatz mit gemischten Belegen: ordnet Anlagen technisch zu, führt vorhandene K- oder B-Nummern fort und bereitet die Kennzeichnung rechts oben vor. Prüft Zitate, Dubletten, Seitenfolge und fehlende Dateien. Liefert einen Anlagenplan ohne neue Bewertung des Beweiswerts oder juristischen Inhalts."
 ---
 
 # Anlagenfolge ordnen und kennzeichnen

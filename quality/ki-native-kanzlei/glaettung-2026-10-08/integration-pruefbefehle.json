@@ -1,0 +1,50 @@
+[
+  {
+    "command": "scripts/test-ki-native-kanzlei-source.py",
+    "exit": 0,
+    "seconds": 0.1,
+    "tail": "{\"skills\": 18, \"prompt_limits\": {\"schnellstart\": {\"utf8_bytes\": 7457, \"words\": 836}, \"hauptproblem\": {\"utf8_bytes\": 7479, \"words\": 834}, \"werkstatt\": {\"utf8_bytes\": 108029, \"words\": 12594}}, \"pages_total\": 291, \"all_checks\": \"passed\"}\n"
+  },
+  {
+    "command": "scripts/audit-skill-activation.py",
+    "exit": 1,
+    "seconds": 2.0,
+    "tail": " verstecktem Text oder un\n- schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md: Ordnet vorhandene Anlagen technisch zum fertigen Schriftsatz, setzt eine bestehende K- oder B-Nummerierung fort und bereitet die sichtbare Kennzeichnung rechts oben vor. Verwenden bei Klage, Erwiderung, Replik oder weite\n- schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md: Erzeugt aus einem fertigen Schriftsatz und gemischten Anlagen separate gerichtstaugliche PDF-Arbeitskopien. Verwenden für DOCX, ODT, XLSX, CSV, EML, MSG, JPEG, PNG, TIFF, Scan und vorhandene PDF. Behandelt Office-Layout,\n- schriftsatzwerkstatt-bea/skills/05-pdf-qualitaet-pruefen/SKILL.md: Prüft jede erzeugte Schriftsatz- und Anlagen-PDF visuell und technisch vor beA. Verwenden nach Office-, E-Mail-, Bild- oder Scan-Konvertierung sowie bei fremden Bestands-PDFs. Kontrolliert Seitenzahl, Zuschnitt, Leserich\n- schriftsatzwerkstatt-bea/skills/06-dateinamen-manifest-erzeugen/SKILL.md: Benennt geprüfte Schriftsatz- und Anlagen-PDFs kurz, sprechend und beA-tauglich und erzeugt das interne Versandmanifest. Verwenden nach PDF-Prüfung oder zur Bereinigung langer, kryptischer, umlaut- oder leerzeichenhaltig\n"
+  },
+  {
+    "command": "scripts/validate-yaml-frontmatter.py",
+    "exit": 0,
+    "seconds": 1.4,
+    "tail": "validate-yaml-frontmatter: 0 Fehler, 0 Warnungen\nOK\n"
+  },
+  {
+    "command": "scripts/test-marketplace-import.py",
+    "exit": 0,
+    "seconds": 1.3,
+    "tail": "test_abweichung_zum_claude_manifest_wird_gemeldet (__main__.CodexManifestAbgleich.test_abweichung_zum_claude_manifest_wird_gemeldet) ... ok\ntest_codex_manifest_bleibt_optional_und_passende_version_besteht (__main__.CodexManifestAbgleich.test_codex_manifest_bleibt_optional_und_passende_version_besteht) ... ok\ntest_komponentenversion_braucht_exakten_pin_und_identische_manifeste (__main__.CodexManifestAbgleich.test_komponentenversion_braucht_exakten_pin_und_identische_manifeste) ... ok\ntest_unlesbares_oder_nicht_objektfoermiges_manifest_scheitert (__main__.CodexManifestAbgleich.test_unlesbares_oder_nicht_objektfoermiges_manifest_scheitert) ... ok\ntest_veraltete_version_falscher_name_und_fehlende_felder_scheitern (__main__.CodexManifestAbgleich.test_veraltete_version_falscher_name_und_fehlende_felder_scheitern) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 1.282s\n\nOK\n"
+  },
+  {
+    "command": "scripts/validate-markdown-structure.py",
+    "exit": 0,
+    "seconds": 4.9,
+    "tail": "validate-markdown-structure OK (28117 Dateien)\n"
+  },
+  {
+    "command": "scripts/quality-lab.py audit",
+    "exit": 0,
+    "seconds": 0.3,
+    "tail": "290 Pluginprofile vollständig; Ergebnisbewertung separat, noch kein Modell-Pass.\n"
+  },
+  {
+    "command": "scripts/validate-plugin-structure.mjs",
+    "exit": 0,
+    "seconds": 4.9,
+    "tail": "validate-plugin-structure OK\n"
+  },
+  {
+    "command": "scripts/test-ki-native-kanzlei-pakete.py /tmp/kk/dist-integ",
+    "exit": 0,
+    "seconds": 4.1,
+    "tail": "{\"scope\": \"KI-Komponentenrelease; zentrale Paket-/Downloadprüffunktionen unverändert\", \"skills\": 18, \"plugin_and_portable_source_identical\": true, \"prompts_separate\": true, \"handbook_pages\": 291, \"preserved_originals\": 240, \"baseline\": \"si-native-kanzlei-v445.33.3\"}\n"
+  }
+]

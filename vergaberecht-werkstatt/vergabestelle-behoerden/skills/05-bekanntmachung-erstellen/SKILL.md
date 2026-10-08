@@ -1,6 +1,6 @@
 ---
 name: 05-bekanntmachung-erstellen
-description: "Auftragsbekanntmachung, Berichtigung oder Portalveröffentlichung für TED und eForms (oberhalb) oder Bekanntmachungsplattform des Bundes bzw Landesportal und DVAL (unterhalb) vorbereiten. Reihenfolge nach Paragraf 40 VgV erst EU dann national. Pflichtinhalt, Fristen, CPV, Unterlagenlinks und Uploadfreigabe prüfen. Output Bekanntmachungstext, Feldliste und Veröffentlichungsnachweis."
+description: "Bei Auftragsbekanntmachung, Berichtigung oder Portalveröffentlichung: bereitet TED/eForms oder die einschlägige nationale Plattform vor. Prüft Veröffentlichungsreihenfolge, Pflichtangaben, Fristen, CPV, Unterlagenlinks und Uploadfreigabe. Liefert Bekanntmachungstext, Feldliste und nach tatsächlichem Upload den Nachweis."
 ---
 
 # Bekanntmachung erstellen

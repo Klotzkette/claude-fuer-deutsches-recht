@@ -1,6 +1,6 @@
 ---
 name: 01-bea-ordner-annahme
-description: 'Verbindlicher Autostart der fachlich neutralen beA-Schriftsatzwerkstatt. Aktiviert bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln. Inventarisiert unverändert, übernimmt sicher erkennbare Angaben, fragt nur offene Pflichtdaten gebündelt ab und führt automatisch durch Version, Anlagen, PDF, Dateinamen, Signatur, Freigabe und Eingang.'
+description: "Bei Ordner beA-fertig, Schriftsatz versandfertig oder Dateien in Gerichts-PDFs umwandeln: startet die technische Werkstatt ohne juristische Inhaltsänderung. Inventarisiert Originale, klärt fehlende Pflichtdaten und führt durch Version, Anlagen, PDF, Namen und Signatur bis zum Paket mit Freigabe- und Eingangskontrolle."
 ---
 
 # beA-Ordner annehmen und Werkstatt starten

@@ -1,6 +1,6 @@
 ---
 name: 04-dateien-in-pdf-umwandeln
-description: 'Erzeugt aus einem fertigen Schriftsatz und gemischten Anlagen separate gerichtstaugliche PDF-Arbeitskopien. Verwenden für DOCX, ODT, XLSX, CSV, EML, MSG, JPEG, PNG, TIFF, Scan und vorhandene PDF. Behandelt Office-Layout, Tabellen-Druckbereiche, E-Mail-Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Originale bleiben unverändert; Dateiendungen werden niemals nur umbenannt.'
+description: "Bei fertigem Schriftsatz und Anlagen aus Office, Tabellen, E-Mails, Bildern, Scans oder PDF: erzeugt separate PDF-Arbeitskopien. Behandelt Layout, Druckbereiche, Kopfzeilen, Bildausrichtung, OCR und Anhänge formatspezifisch. Erhält Originale unverändert; Keine bloße Umbenennung der Dateiendung."
 ---
 
 # Dateien in einzelne PDFs umwandeln

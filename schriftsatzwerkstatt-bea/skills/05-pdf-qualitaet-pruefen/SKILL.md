@@ -1,6 +1,6 @@
 ---
 name: 05-pdf-qualitaet-pruefen
-description: 'Prüft jede erzeugte Schriftsatz- und Anlagen-PDF visuell und technisch vor beA. Verwenden nach Office-, E-Mail-, Bild- oder Scan-Konvertierung sowie bei fremden Bestands-PDFs. Kontrolliert Seitenzahl, Zuschnitt, Leserichtung, Schriften, Tabellen, Bilder, Leerseiten, OCR, Druckbarkeit, Passwortschutz, Verschlüsselung, Skripte, eingebettete Objekte und sichtbare Anlagenkennzeichnung. Liefert Seitenprotokoll und Stopps.'
+description: "Nach Konvertierung oder bei vorhandenen Schriftsatz- und Anlagen-PDFs: prüft Seiten visuell und technisch vor beA. Kontrolliert Vollständigkeit, Layout, Schriften, Tabellen, Bilder, OCR, Druckbarkeit, Schutzfunktionen, aktive Inhalte und Anlagenkennzeichnung. Liefert Seitenprotokoll und konkrete Stopps."
 ---
 
 # PDF-Qualität und Vollständigkeit prüfen

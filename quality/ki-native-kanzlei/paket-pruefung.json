@@ -249,10 +249,10 @@
     "testakten/si-kanzlei-verwaltungsrecht/10_Mandats_und_Honorarvermerk.docx"
   ],
   "assets": {
-    "checksums-sha256.txt": "ebd9f716173015aa2f10e451a28493a7a3a68527a8b10eb428fa70b10fde7df1",
-    "ki-native-kanzlei-portable.zip": "8338a630235b17cb78f71cf9be639070a5d95ae7af73249352b16438e4d5a526",
+    "checksums-sha256.txt": "7efd32e97d882f19667c9ab9a8f8df2088eb19a50aa746e6e413c20e1d4fc12c",
+    "ki-native-kanzlei-portable.zip": "b13c0989ac6cbcdda2e77d5ba229a6ddae4bbb6c9b5bd0f8b418482bccec00cf",
     "ki-native-kanzlei-skills-einzelpdfs.zip": "922afda7a071d50947b42133d1e637f25f826e5d16cac7ee1c634cc11bb350ac",
     "ki-native-kanzlei-skills-handbuch.pdf": "67c05f303384297a706affa34fc215d30affeabd93bfe5576ff17a6ce56f02f6",
-    "ki-native-kanzlei.zip": "72a7f64525407fc82dec5da80c7403d70466529bb13e7ac6364ddff8bbaf607a"
+    "ki-native-kanzlei.zip": "0e1b97ce54008bede4a46b1699a37573b11e8fdaa285efe280897894837d30b8"
   }
 }

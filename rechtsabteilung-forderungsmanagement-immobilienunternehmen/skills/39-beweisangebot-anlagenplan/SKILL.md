@@ -1,6 +1,6 @@
 ---
 name: 39-beweisangebot-anlagenplan
-description: "Beweisangebote und fortlaufenden Anlagenplan für Klage, Replik und Verteidigung erzeugen. Ordnet jede erhebliche Tatsache einem zulässigen Beweismittel, Beweislast, Original, K- oder B-Nummer, Dateiversion und Beschaffungsstatus zu. Nutzen vor Schriftsatzfinalisierung oder beA-Paket. Output Beweismatrix, Anlagenmanifest und stabile Übergabe an die Dokumentenproduktion."
+description: "Vor Klage, Replik, Verteidigung oder beA-Paket: ordnet erhebliche Tatsachen Beweismitteln, Beweislast, Originalen und fortlaufenden K- oder B-Nummern zu. Prüft Version und Beschaffungsstatus. Liefert Beweismatrix, Anlagenmanifest und Übergabe an die Dokumentenproduktion."
 ---
 
 # Beweisangebot und gerichtsfester Anlagenplan

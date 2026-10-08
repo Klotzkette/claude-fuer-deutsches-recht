@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-pruefung-anwaltlich
-description: "Führt die vergaberechtliche Vollprüfung ausschließlich aus Sicht des Bieters oder Bewerbers. Einsetzen ab Bekanntmachung vor Angebotsabgabe bei Ausschluss Rüge Nichtabhilfe Nachprüfung Beschwerde oder Vertragsproblem. Prüft Regime Unterlagen Eignung Format Angebot Qualitätsvorsprung Preisaufklärung Fristen Zuschlagschance und Beweis. Liefert Abgabefreigabe Rüge Antrag oder Chancenmemo."
+description: "Vergaberechtliche Vollprüfung für Bieter oder Bewerber ab Bekanntmachung, vor Abgabe, bei Ausschluss, Rüge, Nachprüfung, Beschwerde oder Vertragsproblem. Prüft Regime, Unterlagen, Eignung, Angebotsformat, Qualität, Preisaufklärung, Fristen und Beweise. Liefert Abgabefreigabe, Rüge, Antrag oder Chancenmemo."
 ---
 
 # Vergaberechtliche Vollprüfung des Bieters

@@ -1,6 +1,6 @@
 ---
 name: 08-bea-paket-freigeben
-description: 'Führt den finalen Preflight für ein vollständig konvertiertes beA-Upload-Paket durch. Verwenden unmittelbar vor der Übergabe an den tatsächlichen Versender. Gleicht PDFs, Anlagenfolge, Manifest, Hashes, Dateinamen, Gericht, Aktenzeichen, Frist, Signaturweg, Dateizahl und Gesamtgröße ab. Erstellt Freigabekarte und Versandauftrag, versendet aber nicht selbst und setzt ohne reale benannte Person niemals auf freigegeben.'
+description: "Unmittelbar vor Übergabe eines konvertierten beA-Pakets an den Versender: gleicht PDFs, Anlagenfolge, Manifest, Hashes, Dateinamen, Gericht, Aktenzeichen, Frist, Signaturweg, Dateizahl und Größe ab. Liefert Freigabekarte und Versandauftrag. Versendet nicht selbst; Freigabe nur durch eine reale benannte Person."
 ---
 
 # beA-Paket prüfen und zur Übergabe vorbereiten

@@ -1,6 +1,6 @@
 ---
 name: 07-signatur-versandweg-pruefen
-description: 'Prüft den formalen Signatur- und Übermittlungsweg eines fertigen beA-Schriftsatzes. Verwenden vor Versand, bei einfacher Signatur, qeS, Vertretung, Mitarbeiterzugang oder unklarer versendender Person. Erfasst verantwortliche Person und tatsächlichen Versender, verlangt bei einfacher Signatur deren Identität, prüft Namenszug und qeS-Bezug zur finalen PDF und stoppt bei Abweichung. Anlagen benötigen keine eigene Signatur.'
+description: "Vor beA-Versand bei einfacher Signatur, qeS, Vertretung oder Mitarbeiterzugang: prüft verantwortliche Person, tatsächlichen Versender, Berechtigung und Signaturbezug zur finalen PDF. Kontrolliert bei einfacher Signatur den persönlichen Versand durch die verantwortliche Person. Liefert Prüfmatrix und konkrete Stopps."
 ---
 
 # Signatur und tatsächlichen Versandweg prüfen

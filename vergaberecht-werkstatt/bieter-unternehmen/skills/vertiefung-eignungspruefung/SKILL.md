@@ -1,6 +1,6 @@
 ---
 name: vertiefung-eignungspruefung
-description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: Paragraf 122 GWB (Eignungskriterien), Paragrafen 123 und 124 GWB (Ausschlussgründe), Paragraf 125 GWB (Selbstreinigung), Paragraf 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklärung EEE, Selbstreinigung."
+description: "Bei Ausschluss eines Bieters oder vorzubereitendem Eignungsnachweis: prüft bekannt gemachte Eignungskriterien, Befähigung, Zuverlässigkeit, finanzielle und technische Leistungsfähigkeit, EEE und Selbstreinigung. Liefert eine Eignungsbewertung mit Nachweislücken und konkreten Einwänden gegen den Ausschluss."
 ---
 
 # Eignungsprüfung

@@ -1,6 +1,6 @@
 ---
 name: 06-dateinamen-manifest-erzeugen
-description: 'Benennt geprüfte Schriftsatz- und Anlagen-PDFs kurz, sprechend und beA-tauglich und erzeugt das interne Versandmanifest. Verwenden nach PDF-Prüfung oder zur Bereinigung langer, kryptischer, umlaut- oder leerzeichenhaltiger Dateinamen. Erzwingt den strengeren Standard mit höchstens 80 Zeichen einschließlich Endung, ASCII, ae-oe-ue-ss, Unterstrichen, logischer Reihenfolge und genau einem Punkt vor pdf.'
+description: "Nach PDF-Prüfung oder bei langen, kryptischen oder ungeeigneten Dateinamen: benennt Schriftsatz und Anlagen kurz und sprechend. Verwendet den internen 80-Zeichen-Standard einschließlich Endung mit ASCII und genau einem Punkt vor pdf. Liefert geordnete Dateinamen und das interne Versandmanifest."
 ---
 
 # Dateinamen und Versandmanifest erzeugen

@@ -1,6 +1,6 @@
 ---
 name: vergaberechtliche-pruefung-anwaltlich
-description: "Führt die vergaberechtliche Vollprüfung ausschließlich aus Sicht der Vergabestelle. Einsetzen vor Verfahrensfreigabe vor Zuschlag bei Rüge oder Nachprüfung und vor Vertragsänderung. Prüft Regime Bedarf Verfahren Unterlagen Eignung Nachforderung Wertung Niedrigpreis Rechtsschutz und Vergabeakte. Liefert Freigabeampel Entscheidungsvermerk Maßnahmenliste und verteidigungsfähiges Aktenpaket."
+description: "Vergaberechtliche Vollprüfung für die Vergabestelle vor Verfahrensfreigabe, Zuschlag oder Vertragsänderung sowie bei Rüge oder Nachprüfung. Prüft Regime, Bedarf, Verfahren, Unterlagen, Eignung, Nachforderung, Wertung, Niedrigpreis und Rechtsschutz. Liefert Freigabeampel, Entscheidungsvermerk, Maßnahmenliste und Aktenpaket."
 ---
 
 # Vergaberechtliche Vollprüfung der Vergabestelle
