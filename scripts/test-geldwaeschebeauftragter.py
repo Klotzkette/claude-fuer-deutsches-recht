@@ -87,6 +87,12 @@ def normalized(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def normalized_pdf_passage(text):
+    # LibreOffice darf ein Aktenzeichen nach einem Bindestrich umbrechen.
+    # Nur den dabei extrahierten Leerraum glätten; alle Textzeichen behalten.
+    return normalized(re.sub(r"(?<=\w)-\s+(?=\w)", "-", text))
+
+
 @lru_cache(maxsize=None)
 def source_text(path):
     if path.suffix == ".pdf":
@@ -112,6 +118,15 @@ def release_copies():
 
 
 class GeldwaeschebeauftragterTest(unittest.TestCase):
+    def test_pdf_passage_normalization_preserves_identifiers(self):
+        expected = "Vorgang NF-2026-0915: Kaufpreis 580.000,00 EUR."
+        for wrapped in ("NF-\n2026-0915", "NF- \n2026-0915", "NF- 2026-0915"):
+            self.assertEqual(normalized_pdf_passage(expected.replace("NF-2026-0915", wrapped)), expected)
+        for changed in ("NF-2026-0916", "NF2026-0915", "NF-2026-095", "NF-2026--0915"):
+            self.assertNotEqual(normalized_pdf_passage(expected.replace("NF-2026-0915", changed)), expected)
+        self.assertEqual(normalized_pdf_passage("Kaufpreis - 580.000,00 EUR"), "Kaufpreis - 580.000,00 EUR")
+        self.assertEqual(normalized_pdf_passage("580.000,00 EUR"), "580.000,00 EUR")
+
     def test_canonical_inventory_and_original_formats(self):
         self.assertEqual(DATA["schema_version"], 1)
         self.assertTrue(DATA["fictional"])
@@ -371,7 +386,7 @@ class GeldwaeschebeauftragterTest(unittest.TestCase):
                     elif source.suffix == ".docx":
                         original = next(d for d in case["documents"] if d["path"] == source.relative_to(directory).as_posix())
                         for passage in [original["title"], *original["paragraphs"]]:
-                            self.assertIn(normalized(passage.lower()), normalized(text), f"{name}: Word-Inhalt fehlt")
+                            self.assertIn(normalized_pdf_passage(passage.lower()), normalized_pdf_passage(text), f"{name}: Word-Inhalt fehlt")
                     else:
                         self.assertTrue(source.name.split("_", 1)[0].lower() in text, f"{name}: Quellen-ID fehlt")
         with zipfile.ZipFile(DIST / "geldwaeschebeauftragter.zip") as archive:
