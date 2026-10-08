@@ -55,7 +55,7 @@ description: "Für DBA-Quellensteuer-Atlas: ordnet Norm, Beweislast und Gegenarg
 - **Ansaessigkeitsbescheinigung fehlt** oder veraltet (gilt regelmaessig nur für ein Jahr).
 - **Falsches BZSt-Formular** oder Bezeichnung — Antrag wird zurueckgewiesen.
 - **MTRL- vs. DBA-Wahl nicht begruendet** — Prüfer fragt: warum nicht die guenstigere Variante?
-- **Software-Lizenz vs. Software-Verkauf** falsch qualifiziert — Art. 12 vs. Art. 7.
+- **Software nach Bezeichnung statt nach Rechteumfang qualifiziert** — Art. 12 nur bei umfassenden Verwertungsrechten (Vervielfältigung, Bearbeitung, Verbreitung); bestimmungsgemäßer Gebrauch, auch bei Individualsoftware oder Anpassungen, fällt unter Art. 7 (BMF-Schreiben vom 27.10.2017, BStBl 2017 I S. 1448, Rz. 3 f., 12; OECD-MK Art. 12 Tz. 14, 14.2, 14.4).
 
 ## Dokumenten-Checkliste pro Antrag
 
