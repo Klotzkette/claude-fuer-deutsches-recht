@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
   "plugins": {
+    "kanzlei-website-redaktion": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "bieter-unternehmen": {
       "standalone": ["werkstatt", "schnellstart"],
       "formats": ["md"],

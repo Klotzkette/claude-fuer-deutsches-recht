@@ -1538,6 +1538,16 @@
       }
     },
     {
+      "name": "kanzlei-website-redaktion",
+      "source": "./kanzlei-website-redaktion",
+      "description": "Kanzlei-Website mit zehn Skills betreiben: Blog, Rechtsprechungsnews, Teamprofile, Fotos, Kontakte und Quellenbeobachtung. Mit Vorschau, Artikel-50-Pruefung, konkreten Freigaben und kontrollierter Veroeffentlichung.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "kartellrecht-marktabgrenzung-pruefung",
       "source": "./kartellrecht-marktabgrenzung-pruefung",
       "description": "Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.",

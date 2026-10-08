@@ -1,6 +1,8 @@
 {
   "schema_version": 1,
   "assets": {
+    "kanzlei-website-redaktion.zip": "kanzlei-website-redaktion-v1.0.0",
+    "kanzlei-website-redaktion-portable.zip": "kanzlei-website-redaktion-v1.0.0",
     "arbeitszeugnispruefer.zip": "arbeitszeugnispruefer-v445.34.0",
     "betreuungsrecht.zip": "betreuungsrecht-v445.33.3",
     "testakte-betreuung-adelheid-pfister-dreijahresabrechnung.zip": "betreuungsrecht-v445.33.3",

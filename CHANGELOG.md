@@ -1,3 +1,11 @@
+# kanzlei-website-redaktion-v1.0.0 - 2026-10-08
+
+Zehn neue Skills führen konkrete Website-Aufträge vom Material bis zu Entwurf, Vorschau und kontrollierter Veröffentlichung. Blogbeiträge, aktuelle Gerichtsentscheidungen, Teamprofile, Lebensläufe, Fotos, Leistungen und Kontakte haben eigene Arbeitsabläufe. Quellenbeobachtung verwendet nur tatsächlich verfügbare Zugänge und ausdrücklich begrenzte Zeitpläne.
+
+Werkstatt und Mini sind eigenständige Markdown-Downloads. Die interne Starter-Datei bildet drei Partner, zehn angestellte Anwälte, fünf Mitarbeiter, Seitenzuständigkeiten und Redaktionsaufträge ab; es wird keine neue Testakte angelegt. Artikel 50 Absatz 4 Unterabsatz 2 wird von Anbieterkennzeichnung und Deepfake-Pflichten getrennt. Die menschliche Kontrolle, redaktionelle Verantwortung und konkrete Veröffentlichungsfreigabe werden nicht gleichgesetzt.
+
+Die lokale Gegenprüfung bindet Freigaben an Inhalt, Ziel, Medien und Transparenzeinordnung. Regressionstests erfassen geänderte Fassungen, fehlende Prüfung, falsche Datentypen und eine vom Text unabhängige Medienoffenlegung. Sie ersetzen weder eine juristische Prüfung noch einen Live-Test in einem Redaktionssystem. Eigenes Komponentenrelease, ohne Änderung der bestehenden Gesamtrelease-Zuordnung.
+
 # geldwaeschebeauftragter-v445.34.0 – 2026-10-08
 
 ## 1. Alltag von Unternehmen, Kanzlei und Notariat

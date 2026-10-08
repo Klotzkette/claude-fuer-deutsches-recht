@@ -1,0 +1,15 @@
+{
+  "publication": {
+    "request_id": "WEB-2026-001",
+    "target_url": "https://hfb-kanzlei.example/aktuelles/neuer-beitrag",
+    "base_revision": "NOCH-ZU-ERMITTELN",
+    "body": "Hier wird die tatsächlich geprüfte öffentliche Fassung eingesetzt.",
+    "media": [],
+    "text_disclosure": "",
+    "media_disclosure": ""
+  },
+  "checks": {"sources": false, "personal_data": false, "rights": false, "preview": false},
+  "transparency": {"generated_text": true, "public_interest": true, "deepfake": false, "reason": "Rechtsbeitrag; Einordnung vor Veröffentlichung fachlich prüfen."},
+  "human_review": {"reviewer": "", "at": "", "scope": "", "editorial_responsible": "", "content_hash": ""},
+  "release": {"approved": false, "by": "", "at": "", "content_hash": "", "allow_unreviewed_publication": false}
+}

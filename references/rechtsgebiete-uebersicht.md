@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 291 Plugins, 23172 Skills.
+Stand v445.33.1: 292 Plugins, 23182 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -161,6 +161,7 @@ Stand v445.33.1: 291 Plugins, 23172 Skills.
 | [`kanzlei-builder-hub`](../kanzlei-builder-hub/) | Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung. | `445.33.1` | 60 |
 | [`kanzlei-management`](../kanzlei-management/) | Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards. | `445.33.1` | 101 |
 | [`kanzlei-mandant-lifecycle`](../kanzlei-mandant-lifecycle/) | Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance. | `445.33.1` | 116 |
+| [`kanzlei-website-redaktion`](../kanzlei-website-redaktion/) | Kanzlei-Website mit zehn Skills betreiben: Blog, Rechtsprechungsnews, Teamprofile, Fotos, Kontakte und Quellenbeobachtung. Mit Vorschau, Artikel-50-Prüfung, konkreten Freigaben und kontrollierter Veröffentlichung. | `1.0.0` | 10 |
 | [`kartellrecht-marktabgrenzung-pruefung`](../kartellrecht-marktabgrenzung-pruefung/) | Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. | `445.33.1` | 181 |
 | [`ki-governance`](../ki-governance/) | EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie. | `445.33.1` | 60 |
 | [`ki-native-kanzlei`](../ki-native-kanzlei/) | Kanzleistart und Mandatsbetrieb mit 20 Skills: Organisation, Posteingang, Fristen, Facharbeit, Honorar und Rechnung. Kontrollierter Computerlauf mit begrenzten Kontorechten, Freigaben und beA-Nachweisen. Prototyp mit 24 kurzen Fachanwaltsakten. | `445.34.0` | 20 |
