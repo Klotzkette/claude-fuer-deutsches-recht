@@ -1,0 +1,9 @@
+test_abweichung_zum_claude_manifest_wird_gemeldet (__main__.CodexManifestAbgleich.test_abweichung_zum_claude_manifest_wird_gemeldet) ... ok
+test_codex_manifest_bleibt_optional_und_passende_version_besteht (__main__.CodexManifestAbgleich.test_codex_manifest_bleibt_optional_und_passende_version_besteht) ... ok
+test_unlesbares_oder_nicht_objektfoermiges_manifest_scheitert (__main__.CodexManifestAbgleich.test_unlesbares_oder_nicht_objektfoermiges_manifest_scheitert) ... ok
+test_veraltete_version_falscher_name_und_fehlende_felder_scheitern (__main__.CodexManifestAbgleich.test_veraltete_version_falscher_name_und_fehlende_felder_scheitern) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 1.128s
+
+OK

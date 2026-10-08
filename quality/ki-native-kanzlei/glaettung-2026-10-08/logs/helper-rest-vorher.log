@@ -1,0 +1,112 @@
+test_cockpit_markdown (__main__.CockpitTests.test_cockpit_markdown) ... ok
+test_cockpit_missing_root (__main__.CockpitTests.test_cockpit_missing_root) ... ok
+test_cockpit_orders_by_urgency (__main__.CockpitTests.test_cockpit_orders_by_urgency) ... ok
+test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) ...
+  test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run=None) ... ERROR
+  test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run=42) ... ERROR
+  test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run={}) ... ERROR
+  test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run='urlaub') ... FAIL
+test_markdown_keeps_four_column_limit (__main__.CockpitTests.test_markdown_keeps_four_column_limit) ... ok
+test_partial_json_does_not_hide_other_mandates (__main__.CockpitTests.test_partial_json_does_not_hide_other_mandates) ... ok
+test_changed_product_cannot_inherit_review (__main__.LaufTests.test_changed_product_cannot_inherit_review) ... ok
+test_closing_requires_decided_gates (__main__.LaufTests.test_closing_requires_decided_gates) ... ok
+test_control_characters_rejected (__main__.LaufTests.test_control_characters_rejected) ... ok
+test_denied_closing_gate_blocks_closure (__main__.LaufTests.test_denied_closing_gate_blocks_closure) ... ok
+test_gate_cannot_be_released_unopened (__main__.LaufTests.test_gate_cannot_be_released_unopened) ... ok
+test_gate_needs_named_person (__main__.LaufTests.test_gate_needs_named_person) ... ok
+test_gate_release_rejects_unregistered_file_change (__main__.LaufTests.test_gate_release_rejects_unregistered_file_change) ... ok
+test_gate_reset_after_release (__main__.LaufTests.test_gate_reset_after_release) ... ok
+test_gate_routes_to_registered_product_skill (__main__.LaufTests.test_gate_routes_to_registered_product_skill) ... ok
+test_init_refuses_overwrite (__main__.LaufTests.test_init_refuses_overwrite) ... ok
+test_init_rejects_bad_level (__main__.LaufTests.test_init_rejects_bad_level) ... ok
+test_named_product_approval_keeps_exact_reviewed_hash (__main__.LaufTests.test_named_product_approval_keeps_exact_reviewed_hash) ... ok
+test_next_follows_phase_without_gates (__main__.LaufTests.test_next_follows_phase_without_gates) ... ok
+test_next_prefers_open_deadline_gate (__main__.LaufTests.test_next_prefers_open_deadline_gate) ... ok
+test_open_gate_preserves_named_responsible (__main__.LaufTests.test_open_gate_preserves_named_responsible) ... ok
+test_phase_and_side_run (__main__.LaufTests.test_phase_and_side_run) ... ok
+test_product_hash_and_replacement (__main__.LaufTests.test_product_hash_and_replacement) ... ok
+test_product_release_requires_named_person (__main__.LaufTests.test_product_release_requires_named_person) ... ok
+test_product_requires_file_and_relative_path (__main__.LaufTests.test_product_requires_file_and_relative_path) ... ok
+test_questions_and_history (__main__.LaufTests.test_questions_and_history) ... ok
+test_registered_change_reopens_bound_gate (__main__.LaufTests.test_registered_change_reopens_bound_gate) ... ok
+test_release_requires_review_first (__main__.LaufTests.test_release_requires_review_first) ... ok
+test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions (__main__.LaufTests.test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions) ... FAIL
+test_unknown_phase (__main__.LaufTests.test_unknown_phase) ... ok
+
+======================================================================
+ERROR: test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run=None)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 234, in test_invalid_side_run_does_not_hide_other_mandates_in_markdown
+    code, out, _ = run('cockpit', '--kanzlei', root, '--format', 'md')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 14, in run
+    code = M.main(list(argv))
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 315, in main
+    result = handler(a)
+             ^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 293, in cmd_cockpit
+    phase = r['phase'] + (' + ' + ', '.join(r['side_runs']) if r['side_runs'] else '')
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 0: expected str instance, NoneType found
+
+======================================================================
+ERROR: test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run=42)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 234, in test_invalid_side_run_does_not_hide_other_mandates_in_markdown
+    code, out, _ = run('cockpit', '--kanzlei', root, '--format', 'md')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 14, in run
+    code = M.main(list(argv))
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 315, in main
+    result = handler(a)
+             ^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 293, in cmd_cockpit
+    phase = r['phase'] + (' + ' + ', '.join(r['side_runs']) if r['side_runs'] else '')
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 0: expected str instance, int found
+
+======================================================================
+ERROR: test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run={})
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 234, in test_invalid_side_run_does_not_hide_other_mandates_in_markdown
+    code, out, _ = run('cockpit', '--kanzlei', root, '--format', 'md')
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 14, in run
+    code = M.main(list(argv))
+           ^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 315, in main
+    result = handler(a)
+             ^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 293, in cmd_cockpit
+    phase = r['phase'] + (' + ' + ', '.join(r['side_runs']) if r['side_runs'] else '')
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: sequence item 0: expected str instance, dict found
+
+======================================================================
+FAIL: test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) (side_run='urlaub')
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 236, in test_invalid_side_run_does_not_hide_other_mandates_in_markdown
+    self.assertIn('| M-1 | Fehler | Mandatslauf nicht lesbar | |', out)
+AssertionError: '| M-1 | Fehler | Mandatslauf nicht lesbar | |' not found in '| Akte | Phase | Offene Gates und Fragen | Nächster Skill |\n| --- | --- | --- | --- |\n| M-1 | eingang + urlaub | Gates: keine; Fragen: 0 | ki-kanzlei-steuern |\n| M-2 | eingang | Gates: keine; Fragen: 0 | ki-kanzlei-steuern |\n'
+
+======================================================================
+FAIL: test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions (__main__.LaufTests.test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 130, in test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions
+    self.assertEqual(result['next_skill'], 'mandantenkommunikation')
+AssertionError: 'schriftsaetze-entwerfen' != 'mandantenkommunikation'
+- schriftsaetze-entwerfen
++ mandantenkommunikation
+
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.077s
+
+FAILED (failures=2, errors=3)

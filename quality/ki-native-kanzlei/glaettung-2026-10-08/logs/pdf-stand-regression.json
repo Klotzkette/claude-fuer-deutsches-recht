@@ -1,0 +1,11 @@
+{
+  "expected": "Stand: 8. Oktober 2026",
+  "before_footer": [
+    "Stand: 7. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen"
+  ],
+  "after_footer": [
+    "Stand: 8. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen"
+  ],
+  "before_passed": false,
+  "after_passed": true
+}

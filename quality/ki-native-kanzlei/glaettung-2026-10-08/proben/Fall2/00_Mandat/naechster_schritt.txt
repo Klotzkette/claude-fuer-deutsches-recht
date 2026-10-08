@@ -1,0 +1,12 @@
+{
+  "next_skill": "honorar-budget-vereinbaren",
+  "reason": "Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten",
+  "autonomy_level": 2,
+  "next_product": "honorarstand",
+  "responsible": "RA Bertram Brecht",
+  "external_action_allowed": false,
+  "open_gates": [
+    "G1",
+    "G3"
+  ]
+}

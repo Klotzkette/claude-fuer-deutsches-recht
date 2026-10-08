@@ -1,0 +1,1138 @@
+{
+  "date": "2026-10-08",
+  "method": "Tatsächliche lokale Helferaufrufe mit ausdrücklich fiktiven Eingaben; keine Host-UI-Tests, kein externer Vollzug.",
+  "scratch_path": "/tmp/kk338/kanzlei",
+  "calls": [
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--matter-id",
+        "VU-BERLIN",
+        "--stufe",
+        "2"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--data",
+        "/tmp/kk338/kanzlei/VU-BERLIN/eingabe-mandat.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"VU-BERLIN\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--phase",
+        "sacharbeit",
+        "--grund",
+        "Einspruch intern vorbereiten"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--phase",
+        "frist",
+        "--grund",
+        "Fiktive Zustellung am 20.03.2026",
+        "--nebenlauf"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/fristen.py",
+      "arguments": [
+        "--data",
+        "/tmp/kk338/kanzlei/VU-BERLIN/frist-profil.json",
+        "--out",
+        "/tmp/kk338/kanzlei/VU-BERLIN/rechnung-frist"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"VU-BERLIN\",\n  \"legal_rule\": \"§339 Abs.1 ZPO; §§187 Abs.1,188 Abs.2 BGB; §222 Abs.1 und2 ZPO\",\n  \"rule_source\": \"https://www.gesetze-im-internet.de/zpo/__222.html\",\n  \"trigger_source\": \"Fiktiver Prüflauf: wirksame Zustellung am20.03.2026 ausdrücklich vorgegeben\",\n  \"calendar_place\": \"Berlin\",\n  \"calendar_source\": \"https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/artikel.1435639.php; Datumsabgleich amtliche BVV-Jahresübersicht Lichtenberg 2026; geprüft 07.10.2026\",\n  \"calendar_verified_by_input\": true,\n  \"status\": \"Kalenderrechnung aus vorgegebenem Rechtsprofil; rechtliche Endkontrolle bleibt erforderlich\",\n  \"calendar_written\": false,\n  \"reminder_created\": false,\n  \"begin\": \"2026-03-21\",\n  \"unadjusted_end\": \"2026-04-03\",\n  \"end\": \"2026-04-07\",\n  \"end_boundary\": \"Ablauf dieses Tages (24:00), soweit das vorgegebene Rechtsprofil dies trägt\",\n  \"shifted_days\": [\n    {\n      \"date\": \"2026-04-03\",\n      \"reason\": \"Karfreitag\"\n    },\n    {\n      \"date\": \"2026-04-04\",\n      \"reason\": \"Samstag\"\n    },\n    {\n      \"date\": \"2026-04-05\",\n      \"reason\": \"Sonntag\"\n    },\n    {\n      \"date\": \"2026-04-06\",\n      \"reason\": \"Ostermontag\"\n    }\n  ],\n  \"steps\": [\n    \"Rechtsprofil: §339 Abs.1 ZPO; §§187 Abs.1,188 Abs.2 BGB; §222 Abs.1 und2 ZPO; Quelle: https://www.gesetze-im-internet.de/zpo/__222.html\",\n    \"Auslöserbeleg: Fiktiver Prüflauf: wirksame Zustellung am20.03.2026 ausdrücklich vorgegeben\",\n    \"Kalenderort: Berlin; Quelle: https://www.berlin.de/sen/inneres/buerger-und-staat/verfassungs-und-verwaltungsrecht/artikel.1435639.php; Datumsabgleich amtliche BVV-Jahresübersicht Lichtenberg 2026; geprüft 07.10.2026\",\n    \"event: Auslösertag 2026-03-20; rechnerischer erster Tag 2026-03-21\",\n    \"Endverschiebung aufgrund §222 Abs.2 ZPO, im Demonstrationsprofil ausdrücklich gewählt: 4 Tag(e)\"\n  ],\n  \"input_sha256\": \"c42827b2f81fbf1102407a94807991d3849eb29efaf07197f9a41616f658300b\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--id",
+        "rechenvermerk-vu",
+        "--pfad",
+        "rechnung-frist/fristenvermerk.md",
+        "--skill",
+        "fristen-berechnen-ueberwachen",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--gate",
+        "G2",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RA Bertram Brecht",
+        "--bezug",
+        "rechenvermerk-vu"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": [\"G2\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--id",
+        "einspruch",
+        "--pfad",
+        "01_Bearbeitung/einspruch.md",
+        "--skill",
+        "schriftsaetze-entwerfen",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 6, \"open_gates\": [\"G2\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "question",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN",
+        "--text",
+        "Kalenderzugriff und Rücklesebeleg fehlen; RA Bertram Brecht muss G2 bestätigen. Honorargrundlage und tatsächliche Minuten offen."
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VU-BERLIN\", \"phase\": \"sacharbeit\", \"revision\": 7, \"open_gates\": [\"G2\"]}\n",
+      "stderr": ""
+    },
+    {
+      "command": "/freigabe",
+      "matter": "VU-BERLIN",
+      "input": "Bitte tragen Sie die Frist ein.",
+      "result": "Kein gate freigeben ausgeführt: Eintrag und Rücklesung nicht belegt. G2 bleibt offen."
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--matter-id",
+        "VERTRAG-ERWEITERUNG",
+        "--stufe",
+        "2"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--data",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG/eingabe-mandat.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"VERTRAG-ERWEITERUNG\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--phase",
+        "sacharbeit",
+        "--grund",
+        "Lizenzvertrag prüfen"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "terms",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--data",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG/eingabe-terms-HV-1.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Honorargrundlage gespeichert\", \"matter_id\": \"VERTRAG-ERWEITERUNG\", \"journal_revision\": 2, \"complete\": true, \"known_gross_eur\": \"0.00\", \"open_items\": [], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--id",
+        "vertragspruefung",
+        "--pfad",
+        "01_Bearbeitung/vertragspruefung.md",
+        "--skill",
+        "vertraege-agb-pruefen",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--id",
+        "honorarstand",
+        "--pfad",
+        "01_Bearbeitung/honorarstand.md",
+        "--skill",
+        "honorar-budget-vereinbaren",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--gate",
+        "G1",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RAin Ada Ahrens",
+        "--bezug",
+        "honorarstand"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": [\"G1\"]}\n",
+      "stderr": ""
+    },
+    {
+      "fixture": "Ausdrücklich vorgegebene fiktive Erklärung RAin Ada Ahrens: Parteien haben die vorliegende Ergänzung bestätigt; ich gebe G1 für genau die registrierte Fassung frei. Keine echte Mandatsfreigabe."
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--gate",
+        "G1",
+        "--aktion",
+        "freigeben",
+        "--person",
+        "RAin Ada Ahrens",
+        "--bezug",
+        "honorarstand",
+        "--notiz",
+        "Ausschließlich simulierte Erklärung aus vorgegebener Prüflauffixture"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 6, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "terms",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--data",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG/eingabe-terms-HV-2.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Honorargrundlage gespeichert\", \"matter_id\": \"VERTRAG-ERWEITERUNG\", \"journal_revision\": 3, \"complete\": true, \"known_gross_eur\": \"0.00\", \"open_items\": [], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "time",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--data",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG/eingabe-time-Z-1.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Buchung gespeichert; Entwurf fortgeschrieben\", \"matter_id\": \"VERTRAG-ERWEITERUNG\", \"journal_revision\": 4, \"complete\": true, \"known_gross_eur\": \"216.58\", \"open_items\": [], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "draft",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Aktueller Journalstand\", \"matter_id\": \"VERTRAG-ERWEITERUNG\", \"journal_revision\": 4, \"complete\": true, \"known_gross_eur\": \"216.58\", \"open_items\": [], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--id",
+        "rechnung",
+        "--pfad",
+        "02_Honorar/rechnungsentwurf.md",
+        "--skill",
+        "abrechnung-e-rechnung"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 7, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--gate",
+        "G4",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RAin Ada Ahrens",
+        "--bezug",
+        "rechnung"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"sacharbeit\", \"revision\": 8, \"open_gates\": [\"G4\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG",
+        "--phase",
+        "abrechnung",
+        "--grund",
+        "Interner Rechnungsentwurf liegt vor; keine Ausgabe"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"VERTRAG-ERWEITERUNG\", \"phase\": \"abrechnung\", \"revision\": 9, \"open_gates\": [\"G4\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--matter-id",
+        "MANDATSENDE-FREMDGELD",
+        "--stufe",
+        "2"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--data",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD/eingabe-mandat.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"MANDATSENDE-FREMDGELD\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--phase",
+        "zahlung",
+        "--grund",
+        "Fremdgeld abgleichen, Abschluss vorbereiten"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 2, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "payment",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--data",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD/eingabe-payment-P-1.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Buchung gespeichert; Entwurf fortgeschrieben\", \"matter_id\": \"MANDATSENDE-FREMDGELD\", \"journal_revision\": 2, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--id",
+        "zahlungsstand",
+        "--pfad",
+        "01_Bearbeitung/zahlungsstand.md",
+        "--skill",
+        "zahlungen-buchhaltung",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 3, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--id",
+        "abschlussbrief",
+        "--pfad",
+        "01_Bearbeitung/abschlussbrief.md",
+        "--skill",
+        "mandat-abschliessen",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 4, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--id",
+        "aufbewahrungsvermerk",
+        "--pfad",
+        "01_Bearbeitung/aufbewahrungsvermerk.md",
+        "--skill",
+        "mandat-abschliessen",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 5, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--gate",
+        "G5",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RA Emil Eberhardt",
+        "--bezug",
+        "zahlungsstand"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 6, \"open_gates\": [\"G5\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--gate",
+        "G8",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RA Emil Eberhardt",
+        "--bezug",
+        "aufbewahrungsvermerk"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"MANDATSENDE-FREMDGELD\", \"phase\": \"zahlung\", \"revision\": 7, \"open_gates\": [\"G5\", \"G8\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD",
+        "--phase",
+        "abschluss",
+        "--grund",
+        "Versuch trotz offener Gates"
+      ],
+      "exit_code": 2,
+      "stdout": "",
+      "stderr": "FEHLER: Abschluss erst nach Entscheidung über G4, G5, G8\n"
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--matter-id",
+        "CLOUD-PARTNERWECHSEL",
+        "--stufe",
+        "2"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--data",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL/eingabe-mandat.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--phase",
+        "sacharbeit",
+        "--grund",
+        "Herausgabe und Dienstleisterzugang prüfen"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--id",
+        "uebergabevermerk",
+        "--pfad",
+        "01_Bearbeitung/uebergabevermerk.md",
+        "--skill",
+        "workflow-uebergabe",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--gate",
+        "G6",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RAin Ada Ahrens",
+        "--bezug",
+        "uebergabevermerk"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": [\"G6\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "question",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL",
+        "--text",
+        "Vertretungsmacht, Vertragsübernahme, Unterauftragnehmer und Auslandsschutz belegen."
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"CLOUD-PARTNERWECHSEL\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": [\"G6\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--matter-id",
+        "HONORAR-REICHWEITE",
+        "--stufe",
+        "2"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"HONORAR-REICHWEITE\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/kanzlei.py",
+      "arguments": [
+        "init",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--data",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE/eingabe-mandat.json"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"HONORAR-REICHWEITE\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "phase",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--phase",
+        "sacharbeit",
+        "--grund",
+        "Mehrumfang und Schweigeklausel prüfen"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"HONORAR-REICHWEITE\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "product",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--id",
+        "honorarstand",
+        "--pfad",
+        "01_Bearbeitung/honorarstand.md",
+        "--skill",
+        "honorar-budget-vereinbaren",
+        "--zustand",
+        "geprueft"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"HONORAR-REICHWEITE\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "gate",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--gate",
+        "G1",
+        "--aktion",
+        "oeffnen",
+        "--person",
+        "RA Bertram Brecht",
+        "--bezug",
+        "honorarstand"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"HONORAR-REICHWEITE\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": [\"G1\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "question",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE",
+        "--text",
+        "Annahme der Honorarergänzung, Umfang, Auslagen und etwaiger Deckel offen."
+      ],
+      "exit_code": 0,
+      "stdout": "{\"matter_id\": \"HONORAR-REICHWEITE\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": [\"G1\"]}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "status",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"VU-BERLIN\",\n  \"autonomy_level\": 2,\n  \"phase\": \"sacharbeit\",\n  \"side_runs\": [\n    \"frist\"\n  ],\n  \"products\": {\n    \"einspruch\": {\n      \"path\": \"01_Bearbeitung/einspruch.md\",\n      \"sha256\": \"8f001f842c729d139014053ea861dc059d728f0271f40c342fc342dc573a1d09\",\n      \"skill\": \"schriftsaetze-entwerfen\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:05+00:00\"\n    },\n    \"rechenvermerk-vu\": {\n      \"path\": \"rechnung-frist/fristenvermerk.md\",\n      \"sha256\": \"81b758e71ac4db8de87d096ce5568ce4a6aedc7e58c53aa0f3798a9989156125\",\n      \"skill\": \"fristen-berechnen-ueberwachen\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:05+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G2\": {\n      \"opened_at\": \"2026-10-08T06:00:05+00:00\",\n      \"product_id\": \"rechenvermerk-vu\",\n      \"product_sha256\": \"81b758e71ac4db8de87d096ce5568ce4a6aedc7e58c53aa0f3798a9989156125\",\n      \"reference\": \"rechenvermerk-vu\",\n      \"responsible\": \"RA Bertram Brecht\",\n      \"skill\": \"fristen-berechnen-ueberwachen\",\n      \"status\": \"offen\"\n    }\n  },\n  \"open_questions\": [\n    \"Kalenderzugriff und Rücklesebeleg fehlen; RA Bertram Brecht muss G2 bestätigen. Honorargrundlage und tatsächliche Minuten offen.\"\n  ],\n  \"revision\": 7,\n  \"updated\": \"2026-10-08T06:00:05+00:00\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "next",
+        "--akte",
+        "/tmp/kk338/kanzlei/VU-BERLIN"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"next_skill\": \"fristen-berechnen-ueberwachen\",\n  \"reason\": \"Gate G2 offen: Fristeintrag vorrangig bestätigen lassen; unabhängige Sacharbeit bleibt möglich\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"rechenvermerk-vu\",\n  \"responsible\": \"RA Bertram Brecht\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G2\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "status",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"VERTRAG-ERWEITERUNG\",\n  \"autonomy_level\": 2,\n  \"phase\": \"abrechnung\",\n  \"side_runs\": [],\n  \"products\": {\n    \"honorarstand\": {\n      \"path\": \"01_Bearbeitung/honorarstand.md\",\n      \"sha256\": \"807df39aa3708e7fc967c857825e3d48beeb2d9b9347a0e19e460936009c1973\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:05+00:00\"\n    },\n    \"rechnung\": {\n      \"path\": \"02_Honorar/rechnungsentwurf.md\",\n      \"sha256\": \"01e30b4b7e5d5a73f023913f77c9775ffc9fd0596c2d6d47c52ffa05d04b47d4\",\n      \"skill\": \"abrechnung-e-rechnung\",\n      \"state\": \"entwurf\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    },\n    \"vertragspruefung\": {\n      \"path\": \"01_Bearbeitung/vertragspruefung.md\",\n      \"sha256\": \"fd4636085600b79cf55027a2c38ac385bcad6317a7d97e0865f09892d83e37b2\",\n      \"skill\": \"vertraege-agb-pruefen\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:05+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G1\": {\n      \"at\": \"2026-10-08T06:00:05+00:00\",\n      \"by\": \"RAin Ada Ahrens\",\n      \"note\": \"Ausschließlich simulierte Erklärung aus vorgegebener Prüflauffixture\",\n      \"opened_at\": \"2026-10-08T06:00:05+00:00\",\n      \"product_id\": \"honorarstand\",\n      \"product_sha256\": \"807df39aa3708e7fc967c857825e3d48beeb2d9b9347a0e19e460936009c1973\",\n      \"reference\": \"honorarstand\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"status\": \"freigegeben\"\n    },\n    \"G4\": {\n      \"opened_at\": \"2026-10-08T06:00:06+00:00\",\n      \"product_id\": \"rechnung\",\n      \"product_sha256\": \"01e30b4b7e5d5a73f023913f77c9775ffc9fd0596c2d6d47c52ffa05d04b47d4\",\n      \"reference\": \"rechnung\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"abrechnung-e-rechnung\",\n      \"status\": \"offen\"\n    }\n  },\n  \"open_questions\": [],\n  \"revision\": 9,\n  \"updated\": \"2026-10-08T06:00:06+00:00\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "next",
+        "--akte",
+        "/tmp/kk338/kanzlei/VERTRAG-ERWEITERUNG"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"next_skill\": \"abrechnung-e-rechnung\",\n  \"reason\": \"Gate G4 (Rechnungsausgabe) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"rechnung\",\n  \"responsible\": \"RAin Ada Ahrens\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G4\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "status",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"MANDATSENDE-FREMDGELD\",\n  \"autonomy_level\": 2,\n  \"phase\": \"zahlung\",\n  \"side_runs\": [],\n  \"products\": {\n    \"abschlussbrief\": {\n      \"path\": \"01_Bearbeitung/abschlussbrief.md\",\n      \"sha256\": \"20783291db0da6f7220135921002a1f53e4071a6b564f29e422d5b1c4c04dd47\",\n      \"skill\": \"mandat-abschliessen\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    },\n    \"aufbewahrungsvermerk\": {\n      \"path\": \"01_Bearbeitung/aufbewahrungsvermerk.md\",\n      \"sha256\": \"1e6fcfb15880386fdba6155d4a129e99cc739c08e4a62b2c5260117651bea3e8\",\n      \"skill\": \"mandat-abschliessen\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    },\n    \"zahlungsstand\": {\n      \"path\": \"01_Bearbeitung/zahlungsstand.md\",\n      \"sha256\": \"3d7295a4f9b82c3bacb5e1ba1406e863df4dff36584dafb0db2ff7ab5c84cbcd\",\n      \"skill\": \"zahlungen-buchhaltung\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G5\": {\n      \"opened_at\": \"2026-10-08T06:00:06+00:00\",\n      \"product_id\": \"zahlungsstand\",\n      \"product_sha256\": \"3d7295a4f9b82c3bacb5e1ba1406e863df4dff36584dafb0db2ff7ab5c84cbcd\",\n      \"reference\": \"zahlungsstand\",\n      \"responsible\": \"RA Emil Eberhardt\",\n      \"skill\": \"zahlungen-buchhaltung\",\n      \"status\": \"offen\"\n    },\n    \"G8\": {\n      \"opened_at\": \"2026-10-08T06:00:06+00:00\",\n      \"product_id\": \"aufbewahrungsvermerk\",\n      \"product_sha256\": \"1e6fcfb15880386fdba6155d4a129e99cc739c08e4a62b2c5260117651bea3e8\",\n      \"reference\": \"aufbewahrungsvermerk\",\n      \"responsible\": \"RA Emil Eberhardt\",\n      \"skill\": \"mandat-abschliessen\",\n      \"status\": \"offen\"\n    }\n  },\n  \"open_questions\": [],\n  \"revision\": 7,\n  \"updated\": \"2026-10-08T06:00:06+00:00\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "next",
+        "--akte",
+        "/tmp/kk338/kanzlei/MANDATSENDE-FREMDGELD"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"next_skill\": \"zahlungen-buchhaltung\",\n  \"reason\": \"Gate G5 (Zahlung und Fremdgeld) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"zahlungsstand\",\n  \"responsible\": \"RA Emil Eberhardt\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G5\",\n    \"G8\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "status",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"CLOUD-PARTNERWECHSEL\",\n  \"autonomy_level\": 2,\n  \"phase\": \"sacharbeit\",\n  \"side_runs\": [],\n  \"products\": {\n    \"uebergabevermerk\": {\n      \"path\": \"01_Bearbeitung/uebergabevermerk.md\",\n      \"sha256\": \"32ee35ca094fc9d594309cbed96f2d92a74e94fc6dbf5f4cb41eef7281f88fa3\",\n      \"skill\": \"workflow-uebergabe\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G6\": {\n      \"opened_at\": \"2026-10-08T06:00:06+00:00\",\n      \"product_id\": \"uebergabevermerk\",\n      \"product_sha256\": \"32ee35ca094fc9d594309cbed96f2d92a74e94fc6dbf5f4cb41eef7281f88fa3\",\n      \"reference\": \"uebergabevermerk\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"workflow-uebergabe\",\n      \"status\": \"offen\"\n    }\n  },\n  \"open_questions\": [\n    \"Vertretungsmacht, Vertragsübernahme, Unterauftragnehmer und Auslandsschutz belegen.\"\n  ],\n  \"revision\": 5,\n  \"updated\": \"2026-10-08T06:00:06+00:00\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "next",
+        "--akte",
+        "/tmp/kk338/kanzlei/CLOUD-PARTNERWECHSEL"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"next_skill\": \"workflow-uebergabe\",\n  \"reason\": \"Gate G6 (Dienstleister) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"uebergabevermerk\",\n  \"responsible\": \"RAin Ada Ahrens\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G6\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "status",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"matter_id\": \"HONORAR-REICHWEITE\",\n  \"autonomy_level\": 2,\n  \"phase\": \"sacharbeit\",\n  \"side_runs\": [],\n  \"products\": {\n    \"honorarstand\": {\n      \"path\": \"01_Bearbeitung/honorarstand.md\",\n      \"sha256\": \"e019ef44306653aea2d6cbcd5c70678c1b7bc3c5914fca8ade6373cca3c3e2ed\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"state\": \"geprueft\",\n      \"updated\": \"2026-10-08T06:00:06+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G1\": {\n      \"opened_at\": \"2026-10-08T06:00:06+00:00\",\n      \"product_id\": \"honorarstand\",\n      \"product_sha256\": \"e019ef44306653aea2d6cbcd5c70678c1b7bc3c5914fca8ade6373cca3c3e2ed\",\n      \"reference\": \"honorarstand\",\n      \"responsible\": \"RA Bertram Brecht\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"status\": \"offen\"\n    }\n  },\n  \"open_questions\": [\n    \"Annahme der Honorarergänzung, Umfang, Auslagen und etwaiger Deckel offen.\"\n  ],\n  \"revision\": 5,\n  \"updated\": \"2026-10-08T06:00:07+00:00\"\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "next",
+        "--akte",
+        "/tmp/kk338/kanzlei/HONORAR-REICHWEITE"
+      ],
+      "exit_code": 0,
+      "stdout": "{\n  \"next_skill\": \"honorar-budget-vereinbaren\",\n  \"reason\": \"Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"honorarstand\",\n  \"responsible\": \"RA Bertram Brecht\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G1\"\n  ]\n}\n",
+      "stderr": ""
+    },
+    {
+      "tool": "ki-native-kanzlei/scripts/mandatslauf.py",
+      "arguments": [
+        "cockpit",
+        "--kanzlei",
+        "/tmp/kk338/kanzlei",
+        "--format",
+        "md"
+      ],
+      "exit_code": 0,
+      "stdout": "| Akte | Phase | Offene Gates und Fragen | Nächster Skill |\n| --- | --- | --- | --- |\n| VU-BERLIN | sacharbeit + frist | Gates: G2; Fragen: 1 | fristen-berechnen-ueberwachen |\n| CLOUD-PARTNERWECHSEL | sacharbeit | Gates: G6; Fragen: 1 | workflow-uebergabe |\n| MANDATSENDE-FREMDGELD | zahlung | Gates: G5, G8; Fragen: 0 | zahlungen-buchhaltung |\n| VERTRAG-ERWEITERUNG | abrechnung | Gates: G4; Fragen: 0 | abrechnung-e-rechnung |\n| HONORAR-REICHWEITE | sacharbeit | Gates: G1; Fragen: 1 | honorar-budget-vereinbaren |\n",
+      "stderr": ""
+    }
+  ],
+  "final_states": [
+    {
+      "matter": "VU-BERLIN",
+      "state": {
+        "matter_id": "VU-BERLIN",
+        "autonomy_level": 2,
+        "phase": "sacharbeit",
+        "side_runs": [
+          "frist"
+        ],
+        "products": {
+          "einspruch": {
+            "path": "01_Bearbeitung/einspruch.md",
+            "sha256": "8f001f842c729d139014053ea861dc059d728f0271f40c342fc342dc573a1d09",
+            "skill": "schriftsaetze-entwerfen",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:05+00:00"
+          },
+          "rechenvermerk-vu": {
+            "path": "rechnung-frist/fristenvermerk.md",
+            "sha256": "81b758e71ac4db8de87d096ce5568ce4a6aedc7e58c53aa0f3798a9989156125",
+            "skill": "fristen-berechnen-ueberwachen",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:05+00:00"
+          }
+        },
+        "gates": {
+          "G2": {
+            "opened_at": "2026-10-08T06:00:05+00:00",
+            "product_id": "rechenvermerk-vu",
+            "product_sha256": "81b758e71ac4db8de87d096ce5568ce4a6aedc7e58c53aa0f3798a9989156125",
+            "reference": "rechenvermerk-vu",
+            "responsible": "RA Bertram Brecht",
+            "skill": "fristen-berechnen-ueberwachen",
+            "status": "offen"
+          }
+        },
+        "open_questions": [
+          "Kalenderzugriff und Rücklesebeleg fehlen; RA Bertram Brecht muss G2 bestätigen. Honorargrundlage und tatsächliche Minuten offen."
+        ],
+        "revision": 7,
+        "updated": "2026-10-08T06:00:05+00:00"
+      },
+      "next": {
+        "next_skill": "fristen-berechnen-ueberwachen",
+        "reason": "Gate G2 offen: Fristeintrag vorrangig bestätigen lassen; unabhängige Sacharbeit bleibt möglich",
+        "autonomy_level": 2,
+        "next_product": "rechenvermerk-vu",
+        "responsible": "RA Bertram Brecht",
+        "external_action_allowed": false,
+        "open_gates": [
+          "G2"
+        ]
+      }
+    },
+    {
+      "matter": "VERTRAG-ERWEITERUNG",
+      "state": {
+        "matter_id": "VERTRAG-ERWEITERUNG",
+        "autonomy_level": 2,
+        "phase": "abrechnung",
+        "side_runs": [],
+        "products": {
+          "honorarstand": {
+            "path": "01_Bearbeitung/honorarstand.md",
+            "sha256": "807df39aa3708e7fc967c857825e3d48beeb2d9b9347a0e19e460936009c1973",
+            "skill": "honorar-budget-vereinbaren",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:05+00:00"
+          },
+          "rechnung": {
+            "path": "02_Honorar/rechnungsentwurf.md",
+            "sha256": "01e30b4b7e5d5a73f023913f77c9775ffc9fd0596c2d6d47c52ffa05d04b47d4",
+            "skill": "abrechnung-e-rechnung",
+            "state": "entwurf",
+            "updated": "2026-10-08T06:00:06+00:00"
+          },
+          "vertragspruefung": {
+            "path": "01_Bearbeitung/vertragspruefung.md",
+            "sha256": "fd4636085600b79cf55027a2c38ac385bcad6317a7d97e0865f09892d83e37b2",
+            "skill": "vertraege-agb-pruefen",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:05+00:00"
+          }
+        },
+        "gates": {
+          "G1": {
+            "at": "2026-10-08T06:00:05+00:00",
+            "by": "RAin Ada Ahrens",
+            "note": "Ausschließlich simulierte Erklärung aus vorgegebener Prüflauffixture",
+            "opened_at": "2026-10-08T06:00:05+00:00",
+            "product_id": "honorarstand",
+            "product_sha256": "807df39aa3708e7fc967c857825e3d48beeb2d9b9347a0e19e460936009c1973",
+            "reference": "honorarstand",
+            "responsible": "RAin Ada Ahrens",
+            "skill": "honorar-budget-vereinbaren",
+            "status": "freigegeben"
+          },
+          "G4": {
+            "opened_at": "2026-10-08T06:00:06+00:00",
+            "product_id": "rechnung",
+            "product_sha256": "01e30b4b7e5d5a73f023913f77c9775ffc9fd0596c2d6d47c52ffa05d04b47d4",
+            "reference": "rechnung",
+            "responsible": "RAin Ada Ahrens",
+            "skill": "abrechnung-e-rechnung",
+            "status": "offen"
+          }
+        },
+        "open_questions": [],
+        "revision": 9,
+        "updated": "2026-10-08T06:00:06+00:00"
+      },
+      "next": {
+        "next_skill": "abrechnung-e-rechnung",
+        "reason": "Gate G4 (Rechnungsausgabe) wartet auf Freigabe; Produkt dafür bereithalten",
+        "autonomy_level": 2,
+        "next_product": "rechnung",
+        "responsible": "RAin Ada Ahrens",
+        "external_action_allowed": false,
+        "open_gates": [
+          "G4"
+        ]
+      }
+    },
+    {
+      "matter": "MANDATSENDE-FREMDGELD",
+      "state": {
+        "matter_id": "MANDATSENDE-FREMDGELD",
+        "autonomy_level": 2,
+        "phase": "zahlung",
+        "side_runs": [],
+        "products": {
+          "abschlussbrief": {
+            "path": "01_Bearbeitung/abschlussbrief.md",
+            "sha256": "20783291db0da6f7220135921002a1f53e4071a6b564f29e422d5b1c4c04dd47",
+            "skill": "mandat-abschliessen",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:06+00:00"
+          },
+          "aufbewahrungsvermerk": {
+            "path": "01_Bearbeitung/aufbewahrungsvermerk.md",
+            "sha256": "1e6fcfb15880386fdba6155d4a129e99cc739c08e4a62b2c5260117651bea3e8",
+            "skill": "mandat-abschliessen",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:06+00:00"
+          },
+          "zahlungsstand": {
+            "path": "01_Bearbeitung/zahlungsstand.md",
+            "sha256": "3d7295a4f9b82c3bacb5e1ba1406e863df4dff36584dafb0db2ff7ab5c84cbcd",
+            "skill": "zahlungen-buchhaltung",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:06+00:00"
+          }
+        },
+        "gates": {
+          "G5": {
+            "opened_at": "2026-10-08T06:00:06+00:00",
+            "product_id": "zahlungsstand",
+            "product_sha256": "3d7295a4f9b82c3bacb5e1ba1406e863df4dff36584dafb0db2ff7ab5c84cbcd",
+            "reference": "zahlungsstand",
+            "responsible": "RA Emil Eberhardt",
+            "skill": "zahlungen-buchhaltung",
+            "status": "offen"
+          },
+          "G8": {
+            "opened_at": "2026-10-08T06:00:06+00:00",
+            "product_id": "aufbewahrungsvermerk",
+            "product_sha256": "1e6fcfb15880386fdba6155d4a129e99cc739c08e4a62b2c5260117651bea3e8",
+            "reference": "aufbewahrungsvermerk",
+            "responsible": "RA Emil Eberhardt",
+            "skill": "mandat-abschliessen",
+            "status": "offen"
+          }
+        },
+        "open_questions": [],
+        "revision": 7,
+        "updated": "2026-10-08T06:00:06+00:00"
+      },
+      "next": {
+        "next_skill": "zahlungen-buchhaltung",
+        "reason": "Gate G5 (Zahlung und Fremdgeld) wartet auf Freigabe; Produkt dafür bereithalten",
+        "autonomy_level": 2,
+        "next_product": "zahlungsstand",
+        "responsible": "RA Emil Eberhardt",
+        "external_action_allowed": false,
+        "open_gates": [
+          "G5",
+          "G8"
+        ]
+      }
+    },
+    {
+      "matter": "CLOUD-PARTNERWECHSEL",
+      "state": {
+        "matter_id": "CLOUD-PARTNERWECHSEL",
+        "autonomy_level": 2,
+        "phase": "sacharbeit",
+        "side_runs": [],
+        "products": {
+          "uebergabevermerk": {
+            "path": "01_Bearbeitung/uebergabevermerk.md",
+            "sha256": "32ee35ca094fc9d594309cbed96f2d92a74e94fc6dbf5f4cb41eef7281f88fa3",
+            "skill": "workflow-uebergabe",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:06+00:00"
+          }
+        },
+        "gates": {
+          "G6": {
+            "opened_at": "2026-10-08T06:00:06+00:00",
+            "product_id": "uebergabevermerk",
+            "product_sha256": "32ee35ca094fc9d594309cbed96f2d92a74e94fc6dbf5f4cb41eef7281f88fa3",
+            "reference": "uebergabevermerk",
+            "responsible": "RAin Ada Ahrens",
+            "skill": "workflow-uebergabe",
+            "status": "offen"
+          }
+        },
+        "open_questions": [
+          "Vertretungsmacht, Vertragsübernahme, Unterauftragnehmer und Auslandsschutz belegen."
+        ],
+        "revision": 5,
+        "updated": "2026-10-08T06:00:06+00:00"
+      },
+      "next": {
+        "next_skill": "workflow-uebergabe",
+        "reason": "Gate G6 (Dienstleister) wartet auf Freigabe; Produkt dafür bereithalten",
+        "autonomy_level": 2,
+        "next_product": "uebergabevermerk",
+        "responsible": "RAin Ada Ahrens",
+        "external_action_allowed": false,
+        "open_gates": [
+          "G6"
+        ]
+      }
+    },
+    {
+      "matter": "HONORAR-REICHWEITE",
+      "state": {
+        "matter_id": "HONORAR-REICHWEITE",
+        "autonomy_level": 2,
+        "phase": "sacharbeit",
+        "side_runs": [],
+        "products": {
+          "honorarstand": {
+            "path": "01_Bearbeitung/honorarstand.md",
+            "sha256": "e019ef44306653aea2d6cbcd5c70678c1b7bc3c5914fca8ade6373cca3c3e2ed",
+            "skill": "honorar-budget-vereinbaren",
+            "state": "geprueft",
+            "updated": "2026-10-08T06:00:06+00:00"
+          }
+        },
+        "gates": {
+          "G1": {
+            "opened_at": "2026-10-08T06:00:06+00:00",
+            "product_id": "honorarstand",
+            "product_sha256": "e019ef44306653aea2d6cbcd5c70678c1b7bc3c5914fca8ade6373cca3c3e2ed",
+            "reference": "honorarstand",
+            "responsible": "RA Bertram Brecht",
+            "skill": "honorar-budget-vereinbaren",
+            "status": "offen"
+          }
+        },
+        "open_questions": [
+          "Annahme der Honorarergänzung, Umfang, Auslagen und etwaiger Deckel offen."
+        ],
+        "revision": 5,
+        "updated": "2026-10-08T06:00:07+00:00"
+      },
+      "next": {
+        "next_skill": "honorar-budget-vereinbaren",
+        "reason": "Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten",
+        "autonomy_level": 2,
+        "next_product": "honorarstand",
+        "responsible": "RA Bertram Brecht",
+        "external_action_allowed": false,
+        "open_gates": [
+          "G1"
+        ]
+      }
+    }
+  ]
+}

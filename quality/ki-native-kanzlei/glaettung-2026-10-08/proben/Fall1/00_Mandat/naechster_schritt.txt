@@ -1,0 +1,13 @@
+{
+  "next_skill": "anwaltsberufsrecht-pruefen",
+  "reason": "Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten",
+  "autonomy_level": 2,
+  "next_product": "berufsrechtsvermerk",
+  "responsible": "RAin Ada Ahrens",
+  "external_action_allowed": false,
+  "open_gates": [
+    "G1",
+    "G3",
+    "G6"
+  ]
+}

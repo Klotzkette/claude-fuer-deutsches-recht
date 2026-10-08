@@ -1,0 +1,742 @@
+{
+  "results": [
+    {
+      "skill": "abrechnung-e-rechnung",
+      "words": 6736,
+      "sha256": "ba7d2b239cfaa5f81e5fc3d17e8e19f0338aa083f02c26afe4c101797a572cc7",
+      "description_chars": 315,
+      "local_links": 26,
+      "table_rows": 33,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-14",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "akte-fristen-anlegen",
+      "words": 6533,
+      "sha256": "fb6622f58823eaed85487931776b263c9a254800a36305188d8ae3b749f76a58",
+      "description_chars": 359,
+      "local_links": 28,
+      "table_rows": 33,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [],
+      "errors": []
+    },
+    {
+      "skill": "anwaltsberufsrecht-pruefen",
+      "words": 6743,
+      "sha256": "5550e77d74cbe43023f059f4d248834cf8cac7cf546b0272743d41971346bee8",
+      "description_chars": 347,
+      "local_links": 25,
+      "table_rows": 32,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [],
+      "errors": []
+    },
+    {
+      "skill": "bea-anlagen-vorbereiten",
+      "words": 6560,
+      "sha256": "222a0a436650c8db8181e4c8b8bc175121b5db67c9e17c1e4f8d16ee4752488b",
+      "description_chars": 357,
+      "local_links": 26,
+      "table_rows": 21,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-08-31",
+          "stated": "Montag",
+          "actual": "Montag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "fristen-berechnen-ueberwachen",
+      "words": 6976,
+      "sha256": "349d0a6d3bead9409b3a3ce6340e3956c4f82d8354463c82061e9f7e16daf4eb",
+      "description_chars": 355,
+      "local_links": 18,
+      "table_rows": 38,
+      "max_table_columns": 4,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-26",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-11-24",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-11-02",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-28",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-19",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-11-24",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "geldwaesche-pruefen",
+      "words": 6741,
+      "sha256": "1ddfe92448241633de1ccad94fcbecec1119c83c62ce7ed525e5df87e888e784",
+      "description_chars": 320,
+      "local_links": 20,
+      "table_rows": 23,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-09",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-08",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-10-16",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-06",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-23",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-12",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-03",
+          "stated": "Samstag",
+          "actual": "Samstag"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-08",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "honorar-budget-vereinbaren",
+      "words": 6789,
+      "sha256": "ba24fbae20602084ba25a33e7c307875079a347a4720d4929efed9f62011ab97",
+      "description_chars": 301,
+      "local_links": 16,
+      "table_rows": 30,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-14",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "ki-kanzlei-steuern",
+      "words": 6552,
+      "sha256": "f92341b2e14e036c240d03fe74091deaa096359b97d33fc9904e576b0fb55e0b",
+      "description_chars": 358,
+      "local_links": 56,
+      "table_rows": 51,
+      "max_table_columns": 4,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-09-25",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-06",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-26",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-26",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-14",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-16",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-26",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-09-29",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "mandantenkommunikation",
+      "words": 6491,
+      "sha256": "6108db1ae39d2479c1f381f7159fb3e80eb656f902170bb7480d99dc27d13232",
+      "description_chars": 355,
+      "local_links": 27,
+      "table_rows": 33,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-09",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-11-13",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-11-04",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-06",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-16",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-13",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-11-13",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-12-14",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-11-13",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-12-14",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-11-04",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-09-17",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-10-09",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-11-13",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-11-04",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "mandat-abschliessen",
+      "words": 6709,
+      "sha256": "50c9e2ed9cd62c874998f31c534d36e2cda94a4141cf8c5776d5cb2760bda8f9",
+      "description_chars": 296,
+      "local_links": 22,
+      "table_rows": 37,
+      "max_table_columns": 4,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-09-25",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-09-30",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-01",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-09-30",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-11-16",
+          "stated": "Montag",
+          "actual": "Montag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "mandatsannahme-interessenkollision",
+      "words": 6712,
+      "sha256": "6904e347837a4fbb212a641984535c1328737909b4116de681f69062e996324b",
+      "description_chars": 347,
+      "local_links": 23,
+      "table_rows": 26,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [],
+      "errors": []
+    },
+    {
+      "skill": "recht-recherchieren",
+      "words": 6420,
+      "sha256": "ba703c1f9f62c486fc8f4a0e9a8a3bfe070f8b74e397975144546f08086cbfaa",
+      "description_chars": 360,
+      "local_links": 31,
+      "table_rows": 40,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-03-23",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-09-15",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-09-28",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-06-22",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-04-30",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "schriftsaetze-entwerfen",
+      "words": 6743,
+      "sha256": "33a9b02f6d439bb8e92f3672a7ade3c1e5b3020542ee9d3b82246bd67f2a1995",
+      "description_chars": 341,
+      "local_links": 26,
+      "table_rows": 32,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-03-12",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-06-08",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-06-15",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-07-15",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-08-12",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "vertraege-agb-pruefen",
+      "words": 6778,
+      "sha256": "55c32e0bc4a330495d5236da6b57ab58782ec0145a858e8593e4b6ea48aceea2",
+      "description_chars": 324,
+      "local_links": 18,
+      "table_rows": 27,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-16",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-19",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-23",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-23",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-19",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-20",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-20",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "vertraege-gestalten",
+      "words": 6646,
+      "sha256": "f6ef96b76e8b1ca46ad7fa94e1849d7c2b91fae457a124b265e4cbede7efcb8e",
+      "description_chars": 359,
+      "local_links": 23,
+      "table_rows": 29,
+      "max_table_columns": 4,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-14",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-14",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-12-01",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-10-30",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "workflow-uebergabe",
+      "words": 6562,
+      "sha256": "9e9a042f2cd8ee75374580c40e1b7a423880310914470f61feb20af0edfe40dc",
+      "description_chars": 359,
+      "local_links": 29,
+      "table_rows": 27,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-08",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-10-07",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-08",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-10-08",
+          "stated": "Donnerstag",
+          "actual": "Donnerstag"
+        },
+        {
+          "date": "2026-10-09",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "zahlungen-buchhaltung",
+      "words": 6791,
+      "sha256": "692439758bd36a28356a451c3ee7bc2aa7026f19f6ba1299f19d6ebfea28c622",
+      "description_chars": 302,
+      "local_links": 27,
+      "table_rows": 34,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-05",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-21",
+          "stated": "Mittwoch",
+          "actual": "Mittwoch"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-09",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-10-02",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        },
+        {
+          "date": "2026-09-15",
+          "stated": "Dienstag",
+          "actual": "Dienstag"
+        },
+        {
+          "date": "2026-08-31",
+          "stated": "Montag",
+          "actual": "Montag"
+        },
+        {
+          "date": "2026-10-23",
+          "stated": "Freitag",
+          "actual": "Freitag"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "skill": "zeiten-erfassen",
+      "words": 6514,
+      "sha256": "d558c5f0b2c888f1e7442982b56ecf5a7e21dc09707636f84e4f6445026209a7",
+      "description_chars": 357,
+      "local_links": 19,
+      "table_rows": 34,
+      "max_table_columns": 3,
+      "date_weekday_pairs": [],
+      "errors": []
+    }
+  ],
+  "errors": []
+}

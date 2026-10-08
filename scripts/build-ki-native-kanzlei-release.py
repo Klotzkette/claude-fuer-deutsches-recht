@@ -27,7 +27,7 @@ def main():
         assert hashlib.sha256((args.pdf_dir/r['pdf']).read_bytes()).hexdigest()==r['pdf_sha256']
     hand=args.pdf_dir/'ki-native-kanzlei-skills-handbuch.pdf';assert hashlib.sha256(hand.read_bytes()).hexdigest()==report['handbook_sha256'];(args.dist/hand.name).write_bytes(hand.read_bytes())
     with zipfile.ZipFile(args.dist/'ki-native-kanzlei-skills-einzelpdfs.zip','w') as z:
-        put(z,'KI-native Kanzlei\n18 ausführliche Skills als A4-PDFs; Stand 07.10.2026.\nQuellen, Anwendungsgrenzen und Workflow stehen in jedem Skill.\nKeine Testakte und kein installierbares Plugin.\nDie Markdown-Quellen und installierbaren Pakete finden Sie unter:\nhttps://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-native-kanzlei\n'.encode(),'README.txt')
+        put(z,'KI-native Kanzlei\n18 ausführliche Skills als A4-PDFs; Stand 08.10.2026.\nQuellen, Anwendungsgrenzen und Workflow stehen in jedem Skill.\nKeine Testakte und kein installierbares Plugin.\nDie Markdown-Quellen und installierbaren Pakete finden Sie unter:\nhttps://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-native-kanzlei\n'.encode(),'README.txt')
         for r in report['skills']:put(z,(args.pdf_dir/r['pdf']).read_bytes(),r['pdf'])
         put(z,(args.pdf_dir/'umfang.json').read_bytes(),'umfang.json')
     sums=''.join(f'{hashlib.sha256(p.read_bytes()).hexdigest()}  {p.name}\n' for p in sorted(args.dist.iterdir()))

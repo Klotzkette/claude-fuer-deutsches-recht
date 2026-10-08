@@ -4,15 +4,15 @@ Eine Kanzlei, die KI mitdenken lässt und ihre Arbeit im Griff behält: Mandat a
 
 ## 0. Downloads und Verwendung
 
-Stand: **v445.33.7**, Rechtsquellen geprüft am **7. Oktober 2026**.
+Stand: **v445.33.8**, Rechtsquellen geprüft am **8. Oktober 2026**.
 
-Die Komponentenfassung 445.33.7 ergänzt den Kanzleialltag: fünfzehn Befehle für Claude Cowork, ein Kanzlei-Cockpit über alle Mandate, Anleitungen für ChatGPT und Cowork sowie am amtlichen Text nachgeprüfte Normangaben. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
+Die Komponentenfassung 445.33.8 berichtigt Norm- und Übergangsrechtsangaben anhand gelesener amtlicher Volltexte, vereinheitlicht die Übergaben der achtzehn Skills und bindet Freigaben an konkrete Produktfassungen. Fünfzehn Befehle und drei Prompts führen denselben Mandatslauf; lokale Helferproben und Textmodusprüfungen sind im Qualitätsbericht getrennt dokumentiert. Für eine bestehende Installation das aktuelle Paket importieren und die alte Fassung nicht parallel aktivieren. Bereits veröffentlichte Testakten bleiben erhalten.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
-| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei.zip) |
-| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-portable.zip) |
-| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.7/ki-native-kanzlei-skills-einzelpdfs.zip) |
+| Claude/Codex – Plugin mit 18 ausführlichen Skills | [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.8/ki-native-kanzlei.zip) |
+| Portables Agent-Plugins-Paket | [Portables ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.8/ki-native-kanzlei-portable.zip) |
+| Alle Skills als durchsuchbares Handbuch | [PDF herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.8/ki-native-kanzlei-skills-handbuch.pdf) · [Einzel-PDFs im ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/ki-native-kanzlei-v445.33.8/ki-native-kanzlei-skills-einzelpdfs.zip) |
 | Großer Werkstatt-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-werkstatt.txt) |
 | Mini-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-schnellstart.txt) |
 | Hauptproblem-Prompt | [MD herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md) · [TXT herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/ki-native-kanzlei-hauptproblem.txt) |
@@ -60,7 +60,7 @@ Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die 
 | `zahlungen-buchhaltung` | Zahlungseingänge, Vorschüsse, Drittzahlungen oder Fremdgeld zugeordnet werden. | Belegte Geldflüsse und Buchungsvorschlag ohne ungeprüfte Verrechnung. |
 | `mandat-abschliessen` | Ein Mandat oder eine Auftragsphase endet. | Abschlussbrief, Restpflichten, Schlussrechnung, Herausgabe, Aufbewahrung. |
 
-**Alle 18 Skills umfassen jeweils 15 bis 17 tatsächliche A4-Seiten, zusammen 284 Seiten** (rund 118.800 Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen.
+**Alle 18 Skills umfassen jeweils 15 bis 18 tatsächliche A4-Seiten, zusammen 291 Seiten** (119.996 Wörter). Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten der Lesefassung bei 11 pt; die verwendete Schrift ist dort ausgewiesen. Das Komponentenrelease verwendet Liberation Serif 11 pt; zusätzlich wurde lokal mit Times New Roman 11 pt gesetzt. Beide Fassungen haben 291 Seiten.
 
 Seit der Komponentenfassung 445.33.6 verbindet ein [Mandatslauf](references/mandatslauf-und-freigaben.md) die Skills zu einem durchlaufenden Vorgang: zehn Phasen vom Eingang bis zum Abschluss, ein Produktregister mit führender Fassung und Hash, acht Freigabegates (Annahme, Fristeintrag, Versand und Einreichung, Rechnungsausgabe, Zahlung und Fremdgeld, Dienstleister, Meldung, Abschluss und Löschung) und vier Freigabestufen von 0 (nur Entwurf) bis 3 (Versandvorbereitung). Innerhalb der gesetzten Stufe arbeitet das Plugin selbständig weiter und stößt den Nachbarskill an; jede Handlung mit Außenwirkung bleibt an eine namentlich dokumentierte menschliche Freigabe gebunden. Der Helfer `scripts/mandatslauf.py` führt den Lauf als Datei im Mandatsordner und schlägt mit `next` den nächsten Skill vor. Jeder Skill beschreibt in einem eigenen Unterabschnitt, was er auf welcher Stufe ohne Rückfrage tut, welches Gate er öffnet und wo er stehen bleibt.
 
@@ -68,7 +68,7 @@ Jeder Skill ist gleich aufgebaut: Auslöser und Abgrenzung zu den Nachbarskills,
 
 ## 3. Werkstatt, Mini und Hauptproblem
 
-Die Werkstatt führt ausführlich durch den ganzen Ablauf, einschließlich konkreter Dialoge. Der Mini-Prompt ist der kompakte Einstieg. Der Hauptproblem-Prompt konzentriert sich auf das Zusammenspiel von Sacharbeit, Honorarumfang, tatsächlicher Zeit und Rechnungsentwurf. Alle drei funktionieren als eigenständige Texte; die jeweilige TXT-Fassung ist mit der Markdown-Fassung identisch. Die drei Prompts sind in dieser Komponentenfassung unverändert.
+Die Werkstatt führt ausführlich durch den ganzen Ablauf, einschließlich konkreter Dialoge. Der Mini-Prompt ist der kompakte Einstieg. Der Hauptproblem-Prompt konzentriert sich auf das Zusammenspiel von Sacharbeit, Honorarumfang, tatsächlicher Zeit und Rechnungsentwurf. Alle drei funktionieren als eigenständige Texte; die jeweilige TXT-Fassung ist mit der Markdown-Fassung identisch. Die drei Prompts sind mit Mandatslauf, Produktkennungen, Stufen und Freigaben abgeglichen. Mini und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes.
 
 In Claude und Codex können die installierten Skills und lokalen Skripte eingesetzt werden. In ChatGPT werden die eigenständigen Prompts mit den dort verfügbaren Dateien und Funktionen verwendet. Kein Prompt schafft automatisch einen dauerhaften Dateizugriff oder einen Hintergrunddienst.
 
@@ -88,7 +88,7 @@ Die bisherigen Akten bleiben mit ihren ursprünglichen technischen Fallkennzeich
 
 ## 6. Quellen und Ausführung
 
-Quellenstand: 7. Oktober 2026. Enthalten sind unter anderem die BGH-Urteile vom 19. Februar 2026 zur Reichweite der Honorarvereinbarung und zu Zeitaufstellungen, der BGH-Beschluss vom 4. März 2026 zur Nachvollziehbarkeit von Friständerungen, das BGH-Urteil vom 15. Januar 2026 zu Handakten beim Sozietätswechsel, aktuelle Rechnungs- und Aufbewahrungsvorgaben, ERVB/beA-Regeln und die anlassbezogene GwG-Prüfung. Normaussagen der Skills sind am amtlichen Text geprüft; Entscheidungen werden nur mit tatsächlich gelesenem Volltext und Randnummer zitiert, Literatur nur aus bereitgestellten Quellen. Die [Arbeitsweise](references/arbeitsweise.md) beschreibt Honoraranschluss, Dateistand und konkrete Grenzen; die [Prüfnachweise](../quality/ki-native-kanzlei/README.md) dokumentieren Quellenabgleich, Tests und Lesefassungen.
+Quellenstand: 8. Oktober 2026. Enthalten sind unter anderem die BGH-Urteile vom 19. Februar 2026 zur Reichweite der Honorarvereinbarung und zu Zeitaufstellungen, der BGH-Beschluss vom 4. März 2026 zur Nachvollziehbarkeit von Friständerungen, das BGH-Urteil vom 15. Januar 2026 zu Handakten beim Sozietätswechsel, aktuelle Rechnungs- und Aufbewahrungsvorgaben, ERVB/beA-Regeln und die anlassbezogene GwG-Prüfung. Normaussagen der Skills sind am amtlichen Text geprüft; Entscheidungen werden nur mit tatsächlich gelesenem Volltext und Randnummer zitiert, Literatur nur aus bereitgestellten Quellen. Die [Arbeitsweise](references/arbeitsweise.md) beschreibt Honoraranschluss, Dateistand und konkrete Grenzen; die [Prüfnachweise](../quality/ki-native-kanzlei/README.md) dokumentieren Quellenabgleich, Tests und Lesefassungen.
 
 Eine vorbereitete Anlage ist noch keine Einreichung. Ein Rechnungsentwurf ist noch keine ausgegebene Rechnung. Eine E-Rechnung wird nur mit tatsächlich erzeugter Datei und passender Validierung als technisch geprüft bezeichnet. Externe Handlungen erfolgen nur mit entsprechendem Auftrag; normale beauftragte Dateiarbeit kann unmittelbar erledigt werden.
 

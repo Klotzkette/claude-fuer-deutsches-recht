@@ -1,0 +1,198 @@
+{
+  "autonomy_level": 2,
+  "gates": {
+    "G1": {
+      "opened_at": "2026-10-08T06:17:33+00:00",
+      "product_id": "berufsrechtsvermerk",
+      "product_sha256": "72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309",
+      "reference": "berufsrechtsvermerk",
+      "responsible": "RAin Ada Ahrens",
+      "skill": "anwaltsberufsrecht-pruefen",
+      "status": "offen"
+    },
+    "G2": {
+      "at": "2026-10-08T06:17:33+00:00",
+      "note": "Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt.",
+      "status": "nicht_erforderlich"
+    },
+    "G3": {
+      "opened_at": "2026-10-08T06:17:33+00:00",
+      "product_id": "mandantenbrief",
+      "product_sha256": "9fb03ba93008220e38ec8c5e728d388c77a314f0ede7cf7ad4ad05c79ababb24",
+      "reference": "mandantenbrief",
+      "responsible": "RAin Ada Ahrens",
+      "skill": "mandantenkommunikation",
+      "status": "offen"
+    },
+    "G4": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe.",
+      "status": "nicht_erforderlich"
+    },
+    "G5": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Keine Zahlung, Verrechnung oder Auszahlung beauftragt.",
+      "status": "nicht_erforderlich"
+    },
+    "G6": {
+      "opened_at": "2026-10-08T06:17:33+00:00",
+      "product_id": "berufsrechtsvermerk",
+      "product_sha256": "72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309",
+      "reference": "berufsrechtsvermerk",
+      "responsible": "RAin Ada Ahrens",
+      "skill": "anwaltsberufsrecht-pruefen",
+      "status": "offen"
+    },
+    "G7": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Kein konkreter Meldeanlass bekannt.",
+      "status": "nicht_erforderlich"
+    },
+    "G8": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt.",
+      "status": "nicht_erforderlich"
+    }
+  },
+  "history": [
+    {
+      "action": "init",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "Freigabestufe 2",
+      "revision": 1
+    },
+    {
+      "action": "phase",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "sacharbeit: Prüfvermerk und ausformulierter Entwurf im ausdrücklich beauftragten internen Probelauf erstellt.",
+      "revision": 2
+    },
+    {
+      "action": "product",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "berufsrechtsvermerk entwurf 01_Bearbeitung/Pruefvermerk.md 72505b08c133",
+      "revision": 3
+    },
+    {
+      "action": "product",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "mandantenbrief entwurf 01_Bearbeitung/Antwortschreiben.md 9fb03ba93008",
+      "revision": 4
+    },
+    {
+      "action": "nebenlauf",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "kommunikation: Antwortentwurf und Berechtigungsprüfung offen.",
+      "revision": 5
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "G1 offen",
+      "revision": 6
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "G3 offen",
+      "revision": 7
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "G6 offen",
+      "revision": 8
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:33+00:00",
+      "detail": "G2 nicht_erforderlich",
+      "revision": 9
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G4 nicht_erforderlich",
+      "revision": 10
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G5 nicht_erforderlich",
+      "revision": 11
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G7 nicht_erforderlich",
+      "revision": 12
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G8 nicht_erforderlich",
+      "revision": 13
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Wie lautet die verifizierte Erklärung der vertretungsberechtigten GmbH zu Übergang, Empfänger und Umfang; liegt die Empfangsvollmacht vor?",
+      "revision": 14
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Welche Fristen und unentbehrlichen Unterlagen ergeben sich aus Originalakte und führendem Kalender?",
+      "revision": 15
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Wer ist Cloudvertragspartner; welche Unterauftragnehmer, Zugriffsorte, Geheimnisschutzverträge und Drittlandmechanismen sind belegt?",
+      "revision": 16
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Ist die offene Honorarnote der GmbH geschuldet, fällig und nach den Umständen zurückbehaltungsfähig?",
+      "revision": 17
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?",
+      "revision": 18
+    }
+  ],
+  "matter_id": "FACH-1-20261008",
+  "open_questions": [
+    "Wie lautet die verifizierte Erklärung der vertretungsberechtigten GmbH zu Übergang, Empfänger und Umfang; liegt die Empfangsvollmacht vor?",
+    "Welche Fristen und unentbehrlichen Unterlagen ergeben sich aus Originalakte und führendem Kalender?",
+    "Wer ist Cloudvertragspartner; welche Unterauftragnehmer, Zugriffsorte, Geheimnisschutzverträge und Drittlandmechanismen sind belegt?",
+    "Ist die offene Honorarnote der GmbH geschuldet, fällig und nach den Umständen zurückbehaltungsfähig?",
+    "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?"
+  ],
+  "phase": "sacharbeit",
+  "products": {
+    "berufsrechtsvermerk": {
+      "path": "01_Bearbeitung/Pruefvermerk.md",
+      "sha256": "72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309",
+      "skill": "anwaltsberufsrecht-pruefen",
+      "state": "entwurf",
+      "updated": "2026-10-08T06:17:33+00:00"
+    },
+    "mandantenbrief": {
+      "path": "01_Bearbeitung/Antwortschreiben.md",
+      "sha256": "9fb03ba93008220e38ec8c5e728d388c77a314f0ede7cf7ad4ad05c79ababb24",
+      "skill": "mandantenkommunikation",
+      "state": "entwurf",
+      "updated": "2026-10-08T06:17:33+00:00"
+    }
+  },
+  "revision": 18,
+  "schema_version": 1,
+  "side_runs": [
+    "kommunikation"
+  ],
+  "updated": "2026-10-08T06:17:34+00:00"
+}

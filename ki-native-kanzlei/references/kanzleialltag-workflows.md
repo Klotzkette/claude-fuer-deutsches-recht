@@ -4,19 +4,19 @@
 
 Die achtzehn Skills beschreiben, wie ein einzelnes Produkt richtig entsteht. Diese Referenz beschreibt, wie eine Kanzlei damit einen ganzen Arbeitstag, eine Woche und einen Monat führt. Jeder Ablauf nennt den Auslöser, die Freigabestufe, die Kette aus Skills, Produkten und Gates, den Satz, mit dem die Anwältin oder der Anwalt den Ablauf startet, und den Punkt, an dem die Maschine stehen bleibt. Grundlage sind der [Mandatslauf mit Freigabestufen](mandatslauf-und-freigaben.md) und die [gemeinsame Arbeitsweise](arbeitsweise.md).
 
-Die Abläufe funktionieren in drei Umgebungen. In Claude Cowork und Claude Code ist das Plugin installiert; die Befehle im Ordner `commands` starten die Abläufe direkt, und die Helfer schreiben in den freigegebenen Mandatsordner. In Codex gilt dasselbe, soweit die Umgebung Plugins und Dateizugriff bereitstellt. In ChatGPT arbeiten die eigenständigen Prompts in einem Projekt; Mandatslauf, Zeitstand und Fristobjekte stehen dort als Textblock am Ende jeder Antwort und werden beim nächsten Schritt wieder eingelesen. Die Einrichtung beschreibt [ChatGPT und Claude Cowork einrichten](chatgpt-und-cowork-einrichtung.md).
+Die Abläufe funktionieren in drei Umgebungen. In Claude Cowork und Claude Code stehen nach unterstütztem Pluginimport die Befehle aus `commands` zur Verfügung; ihre Anzeige und gegebenenfalls ein Plugin-Präfix hängen vom Host ab. Ohne Befehlsmenü wird derselbe Auftrag als Text gestartet. Helfer schreiben nur bei vorhandenem Dateizugriff in den freigegebenen Mandatsordner. In Codex gilt dasselbe, soweit die Umgebung Plugins und Dateizugriff bereitstellt. In ChatGPT arbeiten die eigenständigen Prompts in einem Projekt; Mandatslauf, Zeitstand und Fristobjekte stehen dort als Textblock am Ende jeder Antwort und werden beim nächsten Schritt wieder eingelesen. Die Einrichtung beschreibt [ChatGPT und Claude Cowork einrichten](chatgpt-und-cowork-einrichtung.md).
 
 ## 1.2. Grundregeln für jeden Ablauf
 
-Jeder Ablauf beginnt mit dem Lesen des vorhandenen Stands: Mandatslauf, führende Fassungen, offene Gates, offene Fragen, Honorarstand und Zeitstand. Er endet mit einer Statusmeldung in drei Sätzen: was jetzt als führende Fassung vorliegt, welches Gate auf wen wartet und welche Frage offen ist. Ein offenes Fristgate G2 geht jedem anderen Schritt vor. Kein Ablauf sendet, reicht ein, zahlt aus, gibt eine Rechnung aus, bestätigt einen Kalendereintrag, meldet oder löscht; diese Handlungen sind Gates und werden von einer namentlich benannten Person freigegeben. Tatsächliche Arbeitszeit wird erst nach Angabe der Person gebucht.
+Jeder Ablauf beginnt mit dem Lesen des vorhandenen Stands: Mandatslauf, führende Fassungen, offene Gates, offene Fragen, Honorarstand und Zeitstand. Er endet mit dem fortgeschriebenen Statusblock aus Abschnitt 1.11 der Mandatslauf-Referenz. Ein offenes Fristgate G2 hat Vorrang; unabhängige interne Arbeit bleibt möglich. Kein Ablauf sendet, reicht ein, zahlt aus, gibt eine Rechnung aus, bestätigt einen Kalendereintrag, meldet oder löscht; diese Handlungen sind Gates und werden von einer namentlich benannten Person freigegeben. Tatsächliche Arbeitszeit wird erst nach Angabe der Person gebucht.
 
 ## 1.3. Tagesstart
 
-Auslöser: Beginn des Arbeitstags. Befehl in Cowork: `/kanzlei-tagesstart`. Freigabestufe: mindestens 1.
+Auslöser: Beginn des Arbeitstags. Befehl in Cowork: `/kanzlei-tagesstart`. Freigabestufe: 0 für reine Leseübersicht, 1 für interne Dateien, 2 für neue Register- und Fristobjekte.
 
 Die Maschine liest mit `mandatslauf.py cockpit --kanzlei <Kanzleiordner> --format md` alle Mandatsläufe und ordnet sie: zuerst Mandate mit offenem Fristgate G2, dann Mandate mit anderen offenen Gates, dann Mandate mit offenen Fragen, zuletzt ruhende Mandate. Sie sichtet den Posteingangsordner der Kanzlei, ordnet jede neue Datei einer Akte zu oder kennzeichnet sie als nicht zuordenbar und erkennt Fristauslöser wie Zustellungen, Bescheide, gerichtliche Verfügungen und Kündigungen. Für jeden Fristauslöser legt sie über `akte-fristen-anlegen` ein Fristobjekt an und übergibt es an `fristen-berechnen-ueberwachen`, das den Rechenvermerk erzeugt und G2 öffnet.
 
-Ergebnis ist ein Tagesbericht mit drei Teilen: Fristen, die heute eine Freigabe brauchen, mit Rechenvermerk und verantwortlicher Person; Gates, die auf eine Entscheidung warten, mit dem vorbereiteten Produkt; Mandate mit offenen Fragen und dem jeweils nächsten Skill. Die Maschine trägt keinen Kalendereintrag ein und schreibt keine Mandantenmail. Sie bleibt stehen, wenn ein Dokument keiner Akte sicher zugeordnet werden kann.
+Ergebnis ist ein Tagesbericht mit drei Teilen: Fristen, die heute eine Freigabe brauchen, mit Rechenvermerk und verantwortlicher Person; Gates, die auf eine Entscheidung warten, mit dem vorbereiteten Produkt; Mandate mit offenen Fragen und dem jeweils nächsten Skill. Der Tagesstart allein erteilt keinen Auftrag zum Versand. Die Maschine stellt unzuordenbare Dokumente mit gezielter Rückfrage zurück und bearbeitet die übrigen Akten weiter. Die Cockpit-Gruppierung ersetzt keine Sortierung nach tatsächlichen Fristenden; dafür sind die Fristobjekte auszuwerten.
 
 ## 1.4. Neue Anfrage bis zur Annahme
 
@@ -36,13 +36,13 @@ Die Maschine sichert das Original unverändert, trägt es ins Dokumentregister e
 
 Auslöser: Zustellung eines Urteils, Beschlusses, Bescheids, Strafbefehls oder Mahnbescheids, Zugang einer Kündigung, vertragliche Frist. Befehl: `/frist`. Freigabestufe: 2.
 
-Der Fristenskill bestimmt Rechtsbehelf, Rechtsregime, Auslöser und Zugang, rechnet mit `fristen.py` aus einem geprüften Profil, erstellt den Rechenvermerk mit regulärem und verschobenem Ende und öffnet G2 mit dem Vermerk als Bezug. Die fristverantwortliche Person trägt die Frist im führenden Kalender ein, liest sie zurück und gibt G2 mit `/freigabe` frei. Erst danach darf ein Mandantenbrief das Fristende nennen. Bei unklarem Zugang rechnet die Maschine beide Varianten und hebt das früheste Risiko hervor; sie entscheidet die Zugangsfrage nicht.
+Der Fristenskill bestimmt Rechtsbehelf, Rechtsregime, Auslöser und Zugang, rechnet mit `fristen.py` aus einem geprüften Profil, erstellt den Rechenvermerk mit regulärem und verschobenem Ende und öffnet G2 mit dem Vermerk als Bezug. Die fristverantwortliche Person trägt die Frist im führenden Kalender ein, liest sie zurück und gibt G2 mit `/freigabe` frei. Ohne belegte Eintragung darf ein Mandantenbrief das berechnete Ende nur ausdrücklich vorläufig und mit dem Hinweis auf den noch ausstehenden Kalendereintrag nennen. Bei unklarem Zugang rechnet die Maschine beide Varianten und hebt das früheste Risiko hervor; sie entscheidet die Zugangsfrage nicht.
 
 ## 1.7. Schriftsatz bis zur Einreichung
 
 Auslöser: Klageauftrag, Erwiderungsfrist, Rechtsmittelbegründung, Eilantrag. Befehl: `/schriftsatz`. Freigabestufe: 2 oder 3.
 
-Kette: Fristgate G2 freigegeben oder ausdrücklich nicht erforderlich, `recht-recherchieren` für die tragenden Rechtsfragen, `schriftsaetze-entwerfen` für den vollständigen Text mit Anträgen, Sachvortrag, Beweisantritten und Anlagenbezug, Durchgang durch den Fehlerkatalog des Skills, `bea-anlagen-vorbereiten` für das Versandpaket mit `build_anlagenkonvolut.py` und Preflight-Bericht, Gate G3 mit dem Hash des Versandmanifests. Nach der Freigabe signiert und versendet die Kanzlei selbst; die Maschine trägt danach die gerichtliche Eingangsbestätigung nach und erledigt das Fristobjekt erst auf ihrer Grundlage. Parallel fragt `zeiten-erfassen` die tatsächlichen Minuten ab.
+Kette: Fristgate G2 vorrangig klären; ein offenes G2 hindert den unabhängigen Schriftsatzentwurf nicht. Dann `recht-recherchieren` für die tragenden Rechtsfragen, `schriftsaetze-entwerfen` für den vollständigen Text mit Anträgen, Sachvortrag, Beweisantritten und Anlagenbezug, Durchgang durch den Fehlerkatalog des Skills, ab Stufe 3 `bea-anlagen-vorbereiten` für das Versandpaket mit `build_anlagenkonvolut.py` und Preflight-Bericht, Gate G3 mit der registrierten Produktkennung `versandpaket`, deren Datei das Manifest ist. Auf Stufe 2 bleibt das ausgabefertige Paket als nächstes Produkt vorgemerkt; der vollständige Schriftsatzentwurf wird bereits erstellt. Nach der Freigabe signiert und versendet die Kanzlei selbst; die Maschine trägt danach die gerichtliche Eingangsbestätigung nach und erledigt das Fristobjekt erst auf ihrer Grundlage. Parallel fragt `zeiten-erfassen` die tatsächlichen Minuten ab.
 
 ## 1.8. Vertragsprojekt
 
@@ -54,7 +54,7 @@ Prüfung: `vertraege-agb-pruefen` liefert Befunde mit Rechtsfolge, vollständige
 
 Auslöser: Sachstand, Vergleichsangebot, gerichtlicher Hinweis, Rechtsmittelfrage. Befehl: `/mandantenbrief`. Freigabestufe: 2 oder 3.
 
-Der Brief nennt Ergebnis, Empfehlung, Frist aus einem eingetragenen Fristobjekt, Kostenwirkung und nächsten Schritt; interne Quellenprotokolle bleiben in einem getrennten Vermerk. Bei zwei oder mehr vertretbaren Wegen entsteht eine Entscheidungsvorlage mit klarer Empfehlung. Der Versand ist G3. Erhält die Kanzlei die Entscheidung, trägt die Maschine sie als erledigte offene Frage ein und stößt den folgenden Skill an.
+Der Brief nennt Ergebnis, Empfehlung, Frist aus einem eingetragenen Fristobjekt oder ausdrücklich vorläufig berechnete, noch nicht eingetragene Frist, Kostenwirkung und nächsten Schritt; interne Quellenprotokolle bleiben in einem getrennten Vermerk. Bei zwei oder mehr vertretbaren Wegen entsteht eine Entscheidungsvorlage mit klarer Empfehlung. Der Versand ist G3. Erhält die Kanzlei die Entscheidung, trägt die Maschine sie als erledigte offene Frage ein und stößt den folgenden Skill an.
 
 ## 1.10. Zeiten am Tagesende
 
@@ -66,29 +66,29 @@ Die Maschine listet die Produkte, an denen heute gearbeitet wurde, mit dem jewei
 
 Auslöser: Freitagnachmittag. Befehl: `/kanzlei-wochenabschluss`. Freigabestufe: 2.
 
-Die Maschine zeigt je Mandat offene Zeitfragen, Budgetauslastung gegen Schätzung oder Deckel, offene Gates älter als drei Arbeitstage, Fristobjekte der nächsten zwei Wochen mit Vorfristen und Mandate ohne Bewegung seit 30 Tagen. Sie schlägt für jedes Mandat den nächsten Schritt vor und erstellt keine Mandantenkommunikation ohne Auftrag.
+Die Maschine zeigt je Mandat offene Zeitfragen, Budgetauslastung gegen Schätzung oder Deckel, offene Gates älter als drei Arbeitstage, Fristobjekte der nächsten zwei Wochen mit Vorfristen und Mandate ohne Bewegung seit 30 Tagen. Diese Zeiträume sind änderbare organisatorische Vorschläge, keine gesetzlichen Fristen. Für „Arbeitstag“ gilt der dokumentierte Kanzleikalender; fehlt er, wird keine scheinbar genaue Überfälligkeit ausgewiesen. Die Maschine schlägt je Mandat den nächsten Schritt vor und erstellt keine Mandantenkommunikation ohne Auftrag.
 
 ## 1.12. Monatsabrechnung und Zahlungen
 
 Auslöser: Monatsende oder Leistungsabschnitt. Befehle: `/rechnung`, `/zahlung`. Freigabestufe: 2 oder 3.
 
-`abrechnung-e-rechnung` erstellt aus Honorarstand und Zeitstand den Rechnungsentwurf mit Berechnung nach § 10 RVG, bestimmt Leistungsempfänger und Rechnungsformat und erzeugt bei Bedarf mit `xrechnung.py` einen XML-Entwurf; G4 wird mit dem Hash des Entwurfs geöffnet. Nach der Freigabe trägt die Kanzlei Nummer, Mitteilung und Fälligkeit ein. Eingehende Zahlungen ordnet `zahlungen-buchhaltung` mit Tilgungsbestimmung zu; Fremdgeld bleibt getrennt; jede Auszahlung, Verrechnung oder Weiterleitung ist G5.
+`abrechnung-e-rechnung` erstellt aus Honorarstand und Zeitstand den Rechnungsentwurf mit Berechnung nach § 10 RVG, bestimmt Leistungsempfänger und Rechnungsformat und führt auf Stufe 2 einen internen Entwurf. Ab Stufe 3 entsteht bei Bedarf mit `xrechnung.py` das ausgabefertige XML-Paket; G4 bindet die registrierte `rechnung` beziehungsweise ein Manifest aller Rechnungsdateien. Die endgültige Nummer muss vor der Freigabe Bestandteil der geprüften Fassung sein. Nach tatsächlicher Ausgabe werden Mitteilungs- und Zugangsnachweise nachgetragen; eine Inhaltsänderung erfordert eine neue Prüfung und Freigabe. Eingehende Zahlungen ordnet `zahlungen-buchhaltung` mit Tilgungsbestimmung zu; Fremdgeld bleibt getrennt; jede Auszahlung, Verrechnung oder Weiterleitung ist G5.
 
 ## 1.13. Übergabe, Vertretung und externe Dienste
 
 Auslöser: Urlaub, Krankheit, Sozietätswechsel, Einsatz eines externen Dienstes oder KI-Dienstes. Befehl: `/uebergabe`. Freigabestufe: 2 oder 3.
 
-`workflow-uebergabe` erstellt den Übergabevermerk mit führenden Fassungen und Hash, Fristobjekten, Honorarstand, Zeitstand, offenen Gates und offenen Fragen. Die Fristsicherung bleibt bei der übergebenden Person, bis die Übernahme bestätigt ist. Sollen Mandatsdaten einen externen Dienst erreichen, prüft `anwaltsberufsrecht-pruefen` Erforderlichkeit, Vertrag nach § 43e BRAO, Datenschutz und Einwilligung; die Übermittlung ist G6.
+`workflow-uebergabe` erstellt den Übergabevermerk mit führenden Fassungen und Hash, Fristobjekten, Honorarstand, Zeitstand, offenen Gates und offenen Fragen. Die Fristsicherung bleibt bei der übergebenden Person, bis die Übernahme bestätigt ist. Sollen Mandatsdaten einen externen Dienst erreichen, prüft `anwaltsberufsrecht-pruefen` Erforderlichkeit, Vertrag nach § 43e BRAO, Datenschutz und eine im Einzelfall erforderliche Einwilligung; die Übermittlung ist G6.
 
 ## 1.14. Mandatsende
 
 Auslöser: Erledigung, Kündigung, Mandatswechsel. Befehl: `/mandat-ende`. Freigabestufe: 2 oder 3.
 
-`mandat-abschliessen` prüft verbleibende Fristobjekte, Schlussrechnung (G4), Fremdgeldausgleich (G5), Herausgabe der Handakte und die Aufbewahrung je Dokumentart; der Abschlussbrief ist G3, die Löschentscheidung G8. Der Helfer lässt die Phase abschluss erst zu, wenn über G4, G5 und G8 entschieden ist. Anonymisierte Erkenntnisse für die Wissenssammlung werden nur mit Grenze und Quellenstand übernommen.
+`mandat-abschliessen` prüft verbleibende Fristobjekte, Schlussrechnung (G4), Fremdgeldausgleich (G5), Herausgabe der Handakte und die Aufbewahrung je Dokumentart; der Abschlussbrief ist G3, die Löschentscheidung G8. Der Helfer lässt die Phase abschluss erst zu, wenn G4, G5 und G8 jeweils freigegeben oder begründet nicht erforderlich sind. Eine Ablehnung blockiert den Phasenwechsel. Interne Abschlussvorbereitung bleibt vorher möglich; ein offenes Versandgate wird dadurch nicht erledigt. Anonymisierte Erkenntnisse für die Wissenssammlung werden nur mit Grenze und Quellenstand übernommen.
 
 ## 1.15. Freigaben durch die Kanzlei
 
-Befehl: `/freigabe`. Die Person, die freigibt, nennt Gate, ihren Namen und die freigegebene Fassung. Die Maschine trägt die Freigabe mit `mandatslauf.py gate --aktion freigeben --person … --bezug …` ein, prüft den Hash der Fassung gegen das Produktregister und nennt, was nachzutragen ist. Sie gibt nie selbst frei und übernimmt keinen Namen aus einem Dokument oder einer E-Mail als Freigabe.
+Befehl: `/freigabe`. Die Person, die freigibt, nennt Gate, ihren Namen und die freigegebene Fassung. Die Maschine kontrolliert zunächst die tatsächlich erklärte Freigabe und den aktuellen Datei- und Registerhash. Erst danach dokumentiert sie mit `python3 "<Pluginordner>/scripts/mandatslauf.py" gate --akte "<Akte>" --gate G3 --aktion freigeben --person "<bestätigter Name>" --bezug "<Produktkennung>"` die Entscheidung und nennt die fehlenden Vollzugsnachweise. G2 darf nur einen schon ausgeführten und rückgelesenen Kalendereintrag dokumentieren; „Sie dürfen eintragen“ ist noch kein Eintragungsnachweis. Sie gibt nie selbst frei und übernimmt keinen Namen aus einem Dokument oder einer E-Mail als Freigabe.
 
 ## 1.16. Einführung in der Kanzlei
 

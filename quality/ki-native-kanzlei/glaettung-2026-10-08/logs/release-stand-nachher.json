@@ -1,0 +1,5 @@
+{
+  "expected": "Stand 08.10.2026",
+  "actual": "KI-native Kanzlei\n18 ausführliche Skills als A4-PDFs; Stand 08.10.2026.\nQuellen, Anwendungsgrenzen und Workflow stehen in jedem Skill.\nKeine Testakte und kein installierbares Plugin.\nDie Markdown-Quellen und installierbaren Pakete finden Sie unter:\nhttps://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-native-kanzlei\n",
+  "passed": true
+}

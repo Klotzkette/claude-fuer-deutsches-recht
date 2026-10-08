@@ -1,0 +1,5 @@
+# 1. PDF-Sichtprüfung vom 08.10.2026
+
+Die Release-Projektion mit Liberation Serif 11 pt wurde aus den abschließend geprüften Quellen gesetzt. Tatsächlich gerendert und einzeln angesehen wurden Abrechnung Seiten 1 und 16, Fristen Seiten 1, 5 und 17 sowie Kanzleisteuerung Seiten 1, 5 und 18. Überschriften, Normzeichen, Fließtext, Vier-Spalten-Tabelle, Schlussabschnitte sowie Kopf und Fuß sind lesbar, ohne sichtbare Überlagerungen oder abgeschnittene Zeilen. Kurze Schlussseiten entstehen durch den normalen Absatz-/Überschriftenumbruch; es wurden keine Seiten künstlich aufgefüllt.
+
+Beide Sätze – lokal Times New Roman und als Release-Projektion Liberation Serif 2.1.5 – enthalten jeweils 291 Seiten. Sämtliche Seitentexte der Einzel-PDFs stimmen mit den entsprechenden Handbuchseiten überein. Der Builder bestätigt jeden Absatz und jede Tabellenzelle in Quellreihenfolge. Alle Wortgeometrien liegen innerhalb der Seite. Die zwei Geometrie- und Umfangsberichte benennen die tatsächlich verwendete Schrift getrennt. Die öffentliche Komponentenfassung verwendet gemäß Release-Workflow Liberation Serif; der aktuelle zentrale umfang.json gehört zu genau dieser Projektion.

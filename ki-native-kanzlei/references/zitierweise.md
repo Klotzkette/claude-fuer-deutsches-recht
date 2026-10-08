@@ -1,163 +1,29 @@
-# Deutsche juristische Zitierweise und Quellenprüfung (v4.1)
+# 1. Zitierweise und gelesene Quellen der KI-nativen Kanzlei
 
-> Diese Datei ist die zentrale Referenz für alle Skills, Agenten und Cookbooks in diesem Repository. Sie ersetzt die frühere kommentar- und aufsatzfreundliche Fassung.
->
-> **Leitlinie:** Keine Blindzitate. Das Repository soll anwaltliche Arbeit unterstützen, nicht Fundstellen erfinden. Rechtsprechung darf zitiert werden, wenn sie mit Gericht, Entscheidungsform, Datum, Aktenzeichen und einer prüfbaren Quelle abgesichert ist. Literatur wird nur verwendet, wenn sie vom Nutzer bereitgestellt wurde oder über einen lizenzierten Live-Zugriff wirklich vorliegt.
+## 1.1. Norm und Anwendung
 
-## 1. Harte Sperren
+Jede tragende Aussage wird aus dem für den Sachverhalt maßgeblichen amtlichen Normtext entwickelt. Zahlenwerte, Fristen, Schwellen, Formvorgaben und Absatzangaben werden am geöffneten Wortlaut geprüft; Übergangsrecht gehört dazu. Primärzugänge sind gesetze-im-internet.de und EUR-Lex, für Landesrecht das jeweilige amtliche Landesportal. BORA und FAO werden in der amtlichen Veröffentlichung der BRAK gelesen. Eine Suchvorschau oder ein Datenbankspiegel ist ein Auffindehinweis, kein gelesener amtlicher Volltext.
 
-Diese Regeln sind verbindlich:
+Der Quellenvermerk nennt Norm, Fassung, URL, Lesedatum und konkret gelesenen Abschnitt. Abrufstatus 200 allein beweist keinen Normtext: Weiterleitung, Suchmaske und Fehlermeldung werden ausgeschieden. Ein Auszug trägt nur den tatsächlich gelesenen Regelungsgehalt. Bei blockiertem Zugang wird die amtliche Quelle über den dokumentierten Normcheck beschafft; bleibt der Wortlaut ungelesen, darf die Behauptung nicht als bestätigt ausgegeben werden. Im Endprodukt wird die ungesicherte Aussage gestrichen oder eine konkrete offene Rechtsfrage benannt.
 
-1. **Kein BeckRS aus dem Modell heraus.** `BeckRS 2024, 12345` darf nur übernommen werden, wenn der Nutzer die Fundstelle selbst liefert oder ein lizenzierter Live-Zugriff sie verifiziert. Sonst weglassen.
-2. **Keine Kommentar-Blindzitate.** Keine Rn. aus Grüneberg, MüKo, BeckOK, Staudinger, Erman, ErfK, Schaub, HWK, Maunz/Dürig, BeckOGK usw. erfinden.
-3. **Keine Aufsatz-Blindzitate.** Keine NJW-, NZA-, ZIP-, GRUR-, MMR-, ZD-, DStR- oder sonstigen Aufsatzfundstellen behaupten, wenn der konkrete Beitrag nicht vorliegt.
-4. **Kein aktueller Palandt/Pahlen.** Der frühere Palandt heißt seit der 81. Auflage 2022 Grüneberg. Historische Palandt-Zitate nur verwenden, wenn genau diese Altauflage vom Nutzer bereitgestellt wurde. `Pahlen` ist kein Ersatz. In neu erzeugten Arbeitsergebnissen wird nicht mehr auf `Palandt` umgestellt, nur weil Alttexte das so vormachen.
-5. **Keine Rechtsprechung ohne Mindestdaten.** Gericht, Entscheidungsform, Datum und Aktenzeichen sind Pflicht. Fehlt eines davon, nicht als gesichertes Zitat ausgeben.
-6. **Keine Datenbanknummer als Ersatz für Prüfung.** BeckRS, juris, openJur, dejure oder sonstige Datenbankhinweise ersetzen nicht Datum und Aktenzeichen.
-7. **Keine erfundenen Parallelfundstellen.** NJW, NZA, ZIP, GRUR usw. nur als Parallelfundstelle nennen, wenn sie sicher bekannt oder verifiziert ist.
+Schreibweise im Fließtext: `§ 4a Abs. 1 Nr. 3 RVG`, `Art. 9 Abs. 2 Buchst. f DSGVO`. Satz, Nummer und Buchstabe nur angeben, wenn die Untergliederung tatsächlich gelesen wurde. Wörtliche Auszüge als Zitat kennzeichnen, sonst den Regelungsgehalt in eigenen Worten wiedergeben. Der bloße Satz „Rechtslage geprüft“ genügt nicht.
 
-## 2. Rechtsprechung: Mindeststandard
+## 1.2. Rechtsprechung nur mit Volltext und Pinpoint
 
-**Schema:**
+Ein Entscheidungsanker wird erst verwendet, wenn sein amtlicher Volltext geöffnet und die angeführte Randnummer tatsächlich gelesen wurde. Verwendet werden die amtlichen Angebote von BGH, BAG, BVerwG, BFH, BSG, BVerfG, Curia und EUR-Lex. Ein Aktenzeichen aus dem Gedächtnis, ein Suchtreffer oder die bloße Entscheidungsliste genügt nicht. Ist keine Randnummer vorhanden, wird die konkret gelesene Seite bezeichnet. Kein Pinpoint wird geschätzt.
 
-`<Gericht>, <Entscheidungsform> v. <Datum> - Az. <Aktenzeichen>, <Fundstelle oder freie Quelle> Rn. <Randnummer>.`
+Einheitliches Muster: `BGH, Urt. v. TT.MM.JJJJ – Az. <Aktenzeichen>, Rn. <gelesene Nummern>`, anschließend der amtliche Link. Für Beschlüsse gilt `Beschl. v.`. Gericht, Entscheidungsform, Datum und Aktenzeichen werden am Dokumentkopf abgeglichen. Eine URL kann das Jahr des Aktenzeichens statt des Entscheidungsjahrs enthalten; deshalb entscheidet der gelesene Kopf, nicht der Dateipfad.
 
-`Az.` steht direkt vor dem Aktenzeichen. Wenn eine zitierfähige Randnummer vorhanden ist, wird auf `Rn.` verwiesen. Wenn nur Seiten verfügbar sind, nur dann Seiten verwenden.
+Jeder Anker enthält zwei Felder: **Trägt** benennt die konkrete Aussage und deren Voraussetzungen; **Trägt nicht** begrenzt Übertragung, Rechtsfolge und Reichweite. Unterschiedliche Verfahrensordnungen werden nicht still gleichgesetzt. Eine Entscheidung aus einem Verbraucherfall ist kein pauschaler Beleg für sämtliche Unternehmerverträge. Eine Organisationsentscheidung zur Fristenkontrolle berechnet keine einzelne Einspruchsfrist.
 
-**Vor Ausgabe prüfen:**
+## 1.3. Keine Ersatzfundstellen
 
-- Gericht und Spruchkörper plausibel?
-- Entscheidungsform vorhanden: Urt., Beschl., Vorlagebeschl., Hinweisbeschl.?
-- Datum im Format `TT.MM.JJJJ`?
-- Aktenzeichen vollständig und typgerecht?
-- Freie oder amtliche Quelle vorhanden?
-- Randnummer/Seite aus der Quelle übernommen, nicht geraten?
-- Thema der Entscheidung passt zur Aussage?
+In diesem Plugin werden keine Kommentar-, Handbuch- oder Aufsatzfundstellen verwendet. BeckRS-, juris- oder Zeitschriftennummern ersetzen den amtlichen Volltext nicht. Sekundärquellen können eine Suche lenken; sie tragen hier keinen als verifiziert bezeichneten Entscheidungsanker. Keine aus Modellwissen ergänzte Parallelfundstelle und keine vermeintlich passende Randnummer.
 
-## 3. Kostenlose und amtliche Quellen
+Keine Präjudizienbindungsargumente verwenden. Die Subsumtion wird aus der einschlägigen Norm und dem belegten Sachverhalt entwickelt; ein Fall wird nicht allein wegen eines Gerichtszitats als entschieden behandelt. Gesetzliche Sonderwirkungen einer Entscheidung sind, soweit für den konkreten Auftrag nötig, gesondert am Normtext zu prüfen.
 
-Bevorzugt werden frei zugängliche Primärquellen:
+## 1.4. Quellen im Produkt und im Prüfvermerk
 
-- Bundesverfassungsgericht: `bundesverfassungsgericht.de`
-- Bundesgerichtshof: `bundesgerichtshof.de`
-- Bundesarbeitsgericht: `bundesarbeitsgericht.de`
-- Bundesverwaltungsgericht: `bverwg.de`
-- Bundesfinanzhof: `bfh.bund.de`
-- Bundessozialgericht: `bsg.bund.de`
-- Gerichtshof der Europäischen Union: `curia.europa.eu`
-- Europäischer Gerichtshof für Menschenrechte: `hudoc.echr.coe.int`
-- Sozialgerichtsbarkeit der Länder: `sozialgerichtsbarkeit.de`
-- Landesrechtsprechungsdatenbanken, soweit amtlich oder gerichtsnah
+Schriftsätze und Rechtsvermerke erhalten die notwendigen Belege bei der tragenden Aussage. Mandantenbriefe bleiben verständlich ausformuliert in der Sie-Form; technische Abrufprotokolle, Dateihashes und lange Quellenprüfungen gehören in den internen Vermerk. Eine interne Fundstellenliste wird nicht ungeprüft zum Empfängertext.
 
-Frei zugängliche Sekundärdatenbanken wie openJur oder dejure können als Such- und Auffindehilfe dienen. Sie sind nützlich, aber nicht dasselbe wie eine amtliche Primärquelle. Wenn keine amtliche Quelle verfügbar ist, deutlich machen, worauf die Verifikation beruht.
-
-## 4. Umgang mit BeckRS, juris und Datenbankzitaten
-
-`BeckRS` und `juris` sind keine frei verifizierbaren Universalquellen. Sie dürfen nicht aus Sprachmodellwissen generiert werden.
-
-**Wenn eine bestehende Fundstelle im Altbestand auftaucht:**
-
-1. Gericht, Datum und Aktenzeichen herausziehen.
-2. Freie Originalquelle suchen.
-3. Wenn gefunden: BeckRS entfernen oder nur als vom Nutzer gelieferte Parallelfundstelle kennzeichnen.
-4. Wenn nicht gefunden: Zitat als `nicht frei verifiziert` markieren oder ganz entfernen.
-
-**Formulierung bei fehlender Verifikation:**
-
-`Diese Entscheidung ist im verfügbaren Material nicht frei verifiziert. Vor Verwendung in Schriftsatz, Gutachten oder Mandantenmemo bitte Originalquelle anhand von Gericht, Datum und Aktenzeichen prüfen.`
-
-## 5. Literatur nur mit echter Quelle
-
-Kommentare, Handbücher, Monographien und Aufsätze bleiben in der deutschen Praxis wichtig. Dieses Repository darf sie aber nicht blind zitieren.
-
-**Zulässig ist Literatur nur, wenn:**
-
-- der Nutzer den Auszug, Scan, Link oder Datenbankexport bereitstellt,
-- ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt besteht,
-- oder es nur um einen neutralen Recherchehinweis ohne Fundstellenbehauptung geht.
-
-**Unzulässig ist:**
-
-- aus dem Modell eine Randnummer zu Grüneberg, MüKo, BeckOK, Staudinger usw. zu erzeugen,
-- eine Auflage oder Edition zu behaupten, ohne sie geprüft zu haben,
-- einen Aufsatz mit Jahrgang/Seite zu zitieren, wenn der Beitrag nicht vorliegt.
-- ein Rechercheergebnis so zu formulieren, als sei ein Kommentar- oder Aufsatzzitat bereits geprüft, obwohl nur eine Erinnerungs- oder Modellwissensspur besteht.
-
-**Zulässiger Recherchehinweis:**
-
-`Literatur nur prüfen, wenn Zugriff besteht: aktueller BGB-Kommentar zu Paragraf 126 BGB; arbeitsrechtlicher Kommentar zu Paragraf 109 GewO. Keine Fundstelle ohne Verifikation ausgeben.`
-
-## 6. Gesetze, Materialien und Behördenquellen
-
-Gesetze und amtliche Materialien sind bevorzugte Quellen.
-
-- Normen: `Paragraf 433 Absatz 1 Satz 1 BGB`; `Artikel 101 Absatz 1 Satz 2 GG`.
-- Mehrere Normen: `Paragrafen 280 Absatz 1, 281 Absatz 1 und Absatz 2 BGB`.
-- Gesetzgebungsmaterialien: Herausgeber, Drucksachennummer, Datum oder Wahlperiode, Pinpoint und Link.
-- Behördenmaterialien: Behörde, Titel, Stand/Datum, Abschnitt/Randnummer und Link.
-
-Amtliche Startpunkte:
-
-- Bundesrecht: `gesetze-im-internet.de`
-- Bundestagsdrucksachen: `dserver.bundestag.de`
-- EU-Recht: `eur-lex.europa.eu`
-- Behörden: jeweilige amtliche Domain, etwa `bafin.de`, `bsi.bund.de`, `bfdi.bund.de`, `bundesnetzagentur.de`.
-
-## 7. Reihenfolge mehrerer Rechtsprechungsbelege
-
-Bei mehreren Entscheidungen zuerst nach Gerichtsebene sortieren, danach nach Relevanz oder chronologisch absteigend. Die gewählte Ordnung muss im Dokument konsistent sein.
-
-Gerichtsebene:
-
-1. BVerfG
-2. EuGH und EGMR, soweit unions- oder konventionsrechtlich tragend
-3. BGH, BAG, BSG, BFH, BVerwG
-4. OLG, LAG, LSG, FG, OVG, VGH
-5. LG, ArbG, SG, VG
-6. AG
-
-## 8. Ausgabeformate
-
-**Sicher verifiziertes Zitat:**
-
-`BGH, Urt. v. TT.MM.JJJJ - Az. ... , [amtliche/freie Quelle] Rn. ... .`
-
-**Noch nicht frei verifiziert:**
-
-`[Rechtsprechung prüfen: Gericht, Entscheidung v. TT.MM.JJJJ - Az. ...; freie Quelle noch nicht gefunden.]`
-
-**Literatur nur als Nutzerquelle:**
-
-`[Nutzerquelle: Auszug aus ..., vom Nutzer bereitgestellt, dort Rn. ...]`
-
-**BeckRS im Alttext:**
-
-`[BeckRS-Fundstelle entfernt: vor Verwendung freie Quelle zu Gericht, Datum und Aktenzeichen prüfen.]`
-
-## 9. Checkliste vor jeder juristischen Ausgabe
-
-- [ ] Keine BeckRS-Nummer generiert?
-- [ ] Keine Kommentar- oder Aufsatzfundstelle ohne Nutzerquelle oder lizenzierten Live-Zugriff?
-- [ ] Keine Palandt-/Pahlen-Aktualzitate?
-- [ ] Rechtsprechung mit Gericht, Entscheidungsform, Datum und Aktenzeichen?
-- [ ] Freie/amtliche Quelle oder klarer Prüfvermerk?
-- [ ] Randnummer/Seite nur aus Quelle übernommen?
-- [ ] Thema der Entscheidung passt zur rechtlichen Aussage?
-- [ ] Gesetzesstand und Übergangsvorschriften geprüft?
-- [ ] Offene Unsicherheit ausdrücklich markiert?
-
-## 10. Skill-Hardening gegen Scheinpräzision
-
-Jeder Skill, der juristische Aussagen ausgibt, trennt drei Ebenen:
-
-1. **Gesichert:** Normtext, Nutzerdokument, amtliche/freie Quelle oder dokumentierter Livezugriff.
-2. **Plausibel, aber zu prüfen:** bekannte Linie oder Arbeitshypothese ohne gerade geöffneten Volltext.
-3. **Nicht verwenden:** Datenbanknummer, Kommentar-Randnummer, Aufsatzfundstelle oder Parallelfundstelle aus bloßem Modellwissen.
-
-Wenn eine Entscheidung, Fundstelle oder Behördenpraxis nicht gerade geprüft wurde, ist die Ausgabe als Prüfpunkt zu formulieren. Das ist kein Makel, sondern saubere anwaltliche Arbeitsweise.
-
-## 11. Kurzregel für Skills
-
-Wenn ein Skill juristische Quellen ausgibt, gilt:
-
-`Norm zuerst. Dann verifizierte Rechtsprechung. Literatur nur bei bereitgestellter oder live verifizierter Quelle. Keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate.`
+Vor Fertigstellung werden Entscheidungsdaten, Pinpoint, Aussage, Gegenposition und Übertragungsgrenze nochmals gegeneinander gelesen. Später geänderter Normstand oder neue Tatsachen lösen nur die betroffenen Rechtsfragen neu aus; der Prüfstand bleibt mit Datum erkennbar. Freigabe und fachliche Quellenprüfung sind getrennte Nachweise.

@@ -1,0 +1,774 @@
+[
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "init",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--data",
+      "/tmp/kk338-unabhaengig-fach/Fall1/Eingaben/mandat.json"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"FACH-1-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "init",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--matter-id",
+      "FACH-1-20261008",
+      "--stufe",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "phase",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--phase",
+      "sacharbeit",
+      "--grund",
+      "Prüfvermerk und ausformulierter Entwurf im ausdrücklich beauftragten internen Probelauf erstellt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "product",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--id",
+      "berufsrechtsvermerk",
+      "--pfad",
+      "01_Bearbeitung/Pruefvermerk.md",
+      "--skill",
+      "anwaltsberufsrecht-pruefen",
+      "--zustand",
+      "entwurf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "product",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--id",
+      "mandantenbrief",
+      "--pfad",
+      "01_Bearbeitung/Antwortschreiben.md",
+      "--skill",
+      "mandantenkommunikation",
+      "--zustand",
+      "entwurf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "phase",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--phase",
+      "kommunikation",
+      "--grund",
+      "Antwortentwurf und Berechtigungsprüfung offen.",
+      "--nebenlauf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G1",
+      "--aktion",
+      "oeffnen",
+      "--person",
+      "RAin Ada Ahrens",
+      "--bezug",
+      "berufsrechtsvermerk",
+      "--notiz",
+      "Übergang, Vollmacht und Mandantenentscheidung ungeklärt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 6, \"open_gates\": [\"G1\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G3",
+      "--aktion",
+      "oeffnen",
+      "--person",
+      "RAin Ada Ahrens",
+      "--bezug",
+      "mandantenbrief",
+      "--notiz",
+      "Es besteht kein Versandauftrag; Entwurf zur fachlichen Durchsicht."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 7, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G6",
+      "--aktion",
+      "oeffnen",
+      "--person",
+      "RAin Ada Ahrens",
+      "--bezug",
+      "berufsrechtsvermerk",
+      "--notiz",
+      "Cloudvertrag, Empfängerrollen, Drittlandsupport und Unterauftragnehmer ungeklärt; kein Upload."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 8, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G2",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RAin Ada Ahrens",
+      "--notiz",
+      "Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 9, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G4",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RAin Ada Ahrens",
+      "--notiz",
+      "Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 10, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G5",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RAin Ada Ahrens",
+      "--notiz",
+      "Keine Zahlung, Verrechnung oder Auszahlung beauftragt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 11, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G7",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RAin Ada Ahrens",
+      "--notiz",
+      "Kein konkreter Meldeanlass bekannt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 12, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--gate",
+      "G8",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RAin Ada Ahrens",
+      "--notiz",
+      "Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 13, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--text",
+      "Wie lautet die verifizierte Erklärung der vertretungsberechtigten GmbH zu Übergang, Empfänger und Umfang; liegt die Empfangsvollmacht vor?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 14, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--text",
+      "Welche Fristen und unentbehrlichen Unterlagen ergeben sich aus Originalakte und führendem Kalender?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 15, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--text",
+      "Wer ist Cloudvertragspartner; welche Unterauftragnehmer, Zugriffsorte, Geheimnisschutzverträge und Drittlandmechanismen sind belegt?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 16, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--text",
+      "Ist die offene Honorarnote der GmbH geschuldet, fällig und nach den Umständen zurückbehaltungsfähig?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 17, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1",
+      "--text",
+      "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-1-20261008\", \"phase\": \"sacharbeit\", \"revision\": 18, \"open_gates\": [\"G1\", \"G3\", \"G6\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "draft",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Aktueller Journalstand\", \"matter_id\": \"FACH-1-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "status",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Aktueller Journalstand\", \"matter_id\": \"FACH-1-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "status",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1"
+    ],
+    "returncode": 0,
+    "stdout": "{\n  \"matter_id\": \"FACH-1-20261008\",\n  \"autonomy_level\": 2,\n  \"phase\": \"sacharbeit\",\n  \"side_runs\": [\n    \"kommunikation\"\n  ],\n  \"products\": {\n    \"berufsrechtsvermerk\": {\n      \"path\": \"01_Bearbeitung/Pruefvermerk.md\",\n      \"sha256\": \"72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309\",\n      \"skill\": \"anwaltsberufsrecht-pruefen\",\n      \"state\": \"entwurf\",\n      \"updated\": \"2026-10-08T06:17:33+00:00\"\n    },\n    \"mandantenbrief\": {\n      \"path\": \"01_Bearbeitung/Antwortschreiben.md\",\n      \"sha256\": \"9fb03ba93008220e38ec8c5e728d388c77a314f0ede7cf7ad4ad05c79ababb24\",\n      \"skill\": \"mandantenkommunikation\",\n      \"state\": \"entwurf\",\n      \"updated\": \"2026-10-08T06:17:33+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G1\": {\n      \"opened_at\": \"2026-10-08T06:17:33+00:00\",\n      \"product_id\": \"berufsrechtsvermerk\",\n      \"product_sha256\": \"72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309\",\n      \"reference\": \"berufsrechtsvermerk\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"anwaltsberufsrecht-pruefen\",\n      \"status\": \"offen\"\n    },\n    \"G2\": {\n      \"at\": \"2026-10-08T06:17:33+00:00\",\n      \"note\": \"Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G3\": {\n      \"opened_at\": \"2026-10-08T06:17:33+00:00\",\n      \"product_id\": \"mandantenbrief\",\n      \"product_sha256\": \"9fb03ba93008220e38ec8c5e728d388c77a314f0ede7cf7ad4ad05c79ababb24\",\n      \"reference\": \"mandantenbrief\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"mandantenkommunikation\",\n      \"status\": \"offen\"\n    },\n    \"G4\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G5\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Keine Zahlung, Verrechnung oder Auszahlung beauftragt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G6\": {\n      \"opened_at\": \"2026-10-08T06:17:33+00:00\",\n      \"product_id\": \"berufsrechtsvermerk\",\n      \"product_sha256\": \"72505b08c1333c4e7634eb7a4b1a147a11490ae1663c29efb64d8b46e88e2309\",\n      \"reference\": \"berufsrechtsvermerk\",\n      \"responsible\": \"RAin Ada Ahrens\",\n      \"skill\": \"anwaltsberufsrecht-pruefen\",\n      \"status\": \"offen\"\n    },\n    \"G7\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Kein konkreter Meldeanlass bekannt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G8\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt.\",\n      \"status\": \"nicht_erforderlich\"\n    }\n  },\n  \"open_questions\": [\n    \"Wie lautet die verifizierte Erklärung der vertretungsberechtigten GmbH zu Übergang, Empfänger und Umfang; liegt die Empfangsvollmacht vor?\",\n    \"Welche Fristen und unentbehrlichen Unterlagen ergeben sich aus Originalakte und führendem Kalender?\",\n    \"Wer ist Cloudvertragspartner; welche Unterauftragnehmer, Zugriffsorte, Geheimnisschutzverträge und Drittlandmechanismen sind belegt?\",\n    \"Ist die offene Honorarnote der GmbH geschuldet, fällig und nach den Umständen zurückbehaltungsfähig?\",\n    \"Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?\"\n  ],\n  \"revision\": 18,\n  \"updated\": \"2026-10-08T06:17:34+00:00\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "next",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall1"
+    ],
+    "returncode": 0,
+    "stdout": "{\n  \"next_skill\": \"anwaltsberufsrecht-pruefen\",\n  \"reason\": \"Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"berufsrechtsvermerk\",\n  \"responsible\": \"RAin Ada Ahrens\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G1\",\n    \"G3\",\n    \"G6\"\n  ]\n}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "init",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--data",
+      "/tmp/kk338-unabhaengig-fach/Fall2/Eingaben/mandat.json"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Mandat angelegt\", \"matter_id\": \"FACH-2-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "init",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--matter-id",
+      "FACH-2-20261008",
+      "--stufe",
+      "2"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"eingang\", \"revision\": 1, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "phase",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--phase",
+      "sacharbeit",
+      "--grund",
+      "Prüfvermerk und ausformulierter Entwurf im ausdrücklich beauftragten internen Probelauf erstellt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 2, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "product",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--id",
+      "honorarstand",
+      "--pfad",
+      "01_Bearbeitung/Pruefvermerk.md",
+      "--skill",
+      "honorar-budget-vereinbaren",
+      "--zustand",
+      "entwurf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 3, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "product",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--id",
+      "vertrag",
+      "--pfad",
+      "01_Bearbeitung/Honorarergaenzung.md",
+      "--skill",
+      "honorar-budget-vereinbaren",
+      "--zustand",
+      "entwurf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 4, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "phase",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--phase",
+      "abrechnung",
+      "--grund",
+      "Honorarergänzung ausgearbeitet; Parteienannahme offen.",
+      "--nebenlauf"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 5, \"open_gates\": []}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G1",
+      "--aktion",
+      "oeffnen",
+      "--person",
+      "RA Bertram Brecht",
+      "--bezug",
+      "honorarstand",
+      "--notiz",
+      "Auftragserweiterung und Honorarannahme noch zu bestätigen."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 6, \"open_gates\": [\"G1\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G3",
+      "--aktion",
+      "oeffnen",
+      "--person",
+      "RA Bertram Brecht",
+      "--bezug",
+      "vertrag",
+      "--notiz",
+      "Es besteht kein Versandauftrag; Entwurf zur fachlichen Durchsicht."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 7, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G2",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 8, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G4",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 9, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G5",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Keine Zahlung, Verrechnung oder Auszahlung beauftragt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 10, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G7",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Kein konkreter Meldeanlass bekannt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 11, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G8",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 12, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "gate",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--gate",
+      "G6",
+      "--aktion",
+      "nicht-erforderlich",
+      "--person",
+      "RA Bertram Brecht",
+      "--notiz",
+      "Für diesen internen Entwurf ist kein externer Aktenzugang beauftragt."
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 13, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--text",
+      "Wie lauten vollständige Ursprungsvereinbarung, Lizenzgegenstand, Vertragspartner und Vertretungsdaten?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 14, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--text",
+      "Wurde die Monatsklausel als AGB gestellt oder tatsächlich ausgehandelt?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 15, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--text",
+      "Wann haben beide Parteien welche endgültige Nachtragsfassung in Textform angenommen?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 16, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--text",
+      "Welche Leistungen sind vor Annahme bereits erbracht und welche gesetzliche Gebührenbasis greift hierfür?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 17, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "question",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2",
+      "--text",
+      "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?"
+    ],
+    "returncode": 0,
+    "stdout": "{\"matter_id\": \"FACH-2-20261008\", \"phase\": \"sacharbeit\", \"revision\": 18, \"open_gates\": [\"G1\", \"G3\"]}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "draft",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Aktueller Journalstand\", \"matter_id\": \"FACH-2-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/kanzlei.py",
+      "status",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2"
+    ],
+    "returncode": 0,
+    "stdout": "{\"message\": \"Aktueller Journalstand\", \"matter_id\": \"FACH-2-20261008\", \"journal_revision\": 1, \"complete\": false, \"known_gross_eur\": \"0.00\", \"open_items\": [\"Honorargrundlage fehlt\"], \"invoice_ready\": false}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "status",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2"
+    ],
+    "returncode": 0,
+    "stdout": "{\n  \"matter_id\": \"FACH-2-20261008\",\n  \"autonomy_level\": 2,\n  \"phase\": \"sacharbeit\",\n  \"side_runs\": [\n    \"abrechnung\"\n  ],\n  \"products\": {\n    \"honorarstand\": {\n      \"path\": \"01_Bearbeitung/Pruefvermerk.md\",\n      \"sha256\": \"ded2b6e5b4e5ede481877ed6f6eacd92551cf037166afd6f9f539be238c671dd\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"state\": \"entwurf\",\n      \"updated\": \"2026-10-08T06:17:34+00:00\"\n    },\n    \"vertrag\": {\n      \"path\": \"01_Bearbeitung/Honorarergaenzung.md\",\n      \"sha256\": \"c6244e2a23ec1edba6bba942e83bebe6bc770c76823a2673b1dba8324f674a0e\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"state\": \"entwurf\",\n      \"updated\": \"2026-10-08T06:17:34+00:00\"\n    }\n  },\n  \"gates\": {\n    \"G1\": {\n      \"opened_at\": \"2026-10-08T06:17:34+00:00\",\n      \"product_id\": \"honorarstand\",\n      \"product_sha256\": \"ded2b6e5b4e5ede481877ed6f6eacd92551cf037166afd6f9f539be238c671dd\",\n      \"reference\": \"honorarstand\",\n      \"responsible\": \"RA Bertram Brecht\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"status\": \"offen\"\n    },\n    \"G2\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G3\": {\n      \"opened_at\": \"2026-10-08T06:17:34+00:00\",\n      \"product_id\": \"vertrag\",\n      \"product_sha256\": \"c6244e2a23ec1edba6bba942e83bebe6bc770c76823a2673b1dba8324f674a0e\",\n      \"reference\": \"vertrag\",\n      \"responsible\": \"RA Bertram Brecht\",\n      \"skill\": \"honorar-budget-vereinbaren\",\n      \"status\": \"offen\"\n    },\n    \"G4\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G5\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Keine Zahlung, Verrechnung oder Auszahlung beauftragt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G6\": {\n      \"at\": \"2026-10-08T06:17:35+00:00\",\n      \"note\": \"Für diesen internen Entwurf ist kein externer Aktenzugang beauftragt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G7\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Kein konkreter Meldeanlass bekannt.\",\n      \"status\": \"nicht_erforderlich\"\n    },\n    \"G8\": {\n      \"at\": \"2026-10-08T06:17:34+00:00\",\n      \"note\": \"Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt.\",\n      \"status\": \"nicht_erforderlich\"\n    }\n  },\n  \"open_questions\": [\n    \"Wie lauten vollständige Ursprungsvereinbarung, Lizenzgegenstand, Vertragspartner und Vertretungsdaten?\",\n    \"Wurde die Monatsklausel als AGB gestellt oder tatsächlich ausgehandelt?\",\n    \"Wann haben beide Parteien welche endgültige Nachtragsfassung in Textform angenommen?\",\n    \"Welche Leistungen sind vor Annahme bereits erbracht und welche gesetzliche Gebührenbasis greift hierfür?\",\n    \"Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?\"\n  ],\n  \"revision\": 18,\n  \"updated\": \"2026-10-08T06:17:35+00:00\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "argv": [
+      "python3",
+      "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py",
+      "next",
+      "--akte",
+      "/tmp/kk338-unabhaengig-fach/Fall2"
+    ],
+    "returncode": 0,
+    "stdout": "{\n  \"next_skill\": \"honorar-budget-vereinbaren\",\n  \"reason\": \"Gate G1 (Annahme) wartet auf Freigabe; Produkt dafür bereithalten\",\n  \"autonomy_level\": 2,\n  \"next_product\": \"honorarstand\",\n  \"responsible\": \"RA Bertram Brecht\",\n  \"external_action_allowed\": false,\n  \"open_gates\": [\n    \"G1\",\n    \"G3\"\n  ]\n}\n",
+    "stderr": ""
+  }
+]

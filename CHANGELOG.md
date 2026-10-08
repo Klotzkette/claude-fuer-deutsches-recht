@@ -1,3 +1,11 @@
+# ki-native-kanzlei-v445.33.8 - Amtliche Normprüfung und konsistente Mandatsläufe
+
+Die achtzehn Skills wurden anhand gelesener amtlicher Norm- und Entscheidungsquellen geglättet. Berichtigt sind insbesondere Fristen, Übergangsrecht, Vergütungs- und Steuerangaben, Geldwäschepflichten sowie einzelne Form- und Absatzverweise. Die Testakten bleiben unverändert.
+
+Übergaben verwenden einheitliche Produktkennungen und dokumentierte Rückgaben. Befehle, Werkstatt, Mini und Hauptproblem führen Phase, Friststatus, Honorar, Zeit, konkrete Fassung, zuständige Person und nächste Produkte zusammen. Interne Rechnungsentwürfe auf Stufe 2 und ausgabefertige Pakete auf Stufe 3 sind getrennt; unabhängige Sacharbeit bleibt bei offenen Fristfragen möglich.
+
+Nachgewiesene Helferfehler sind durch Regressionstests abgesichert: keine Freigabe einer veränderten Fassung, kein Abschluss nach abgelehntem Gate, Erhalt der Zuständigkeit und produktbezogene Weiterleitung. Die lokalen Probeläufe enden an konkret benannten offenen Gates. Neue PDF-Lesefassungen, Paketprüfung und Quellenberichte gehören zum Komponentenrelease. Die Release-PDFs verwenden mangels Times New Roman auf dem Runner Liberation Serif; lokale Times-New-Roman-Lesefassungen werden getrennt nachgewiesen.
+
 # ki-native-kanzlei-v445.33.7 - Kanzleialltag in Claude Cowork und ChatGPT
 
 ## 1. Der Kanzleialltag als Arbeitsabläufe

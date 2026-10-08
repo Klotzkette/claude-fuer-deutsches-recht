@@ -1,0 +1,194 @@
+{
+  "autonomy_level": 2,
+  "gates": {
+    "G1": {
+      "opened_at": "2026-10-08T06:17:34+00:00",
+      "product_id": "honorarstand",
+      "product_sha256": "ded2b6e5b4e5ede481877ed6f6eacd92551cf037166afd6f9f539be238c671dd",
+      "reference": "honorarstand",
+      "responsible": "RA Bertram Brecht",
+      "skill": "honorar-budget-vereinbaren",
+      "status": "offen"
+    },
+    "G2": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Es liegt kein konkreter Fristauslöser oder Rechenvermerk vor; Restfristenprüfung als offene Frage geführt.",
+      "status": "nicht_erforderlich"
+    },
+    "G3": {
+      "opened_at": "2026-10-08T06:17:34+00:00",
+      "product_id": "vertrag",
+      "product_sha256": "c6244e2a23ec1edba6bba942e83bebe6bc770c76823a2673b1dba8324f674a0e",
+      "reference": "vertrag",
+      "responsible": "RA Bertram Brecht",
+      "skill": "honorar-budget-vereinbaren",
+      "status": "offen"
+    },
+    "G4": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Kein ausgabefähiger Rechnungsbetrag und kein Auftrag zur Rechnungsausgabe.",
+      "status": "nicht_erforderlich"
+    },
+    "G5": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Keine Zahlung, Verrechnung oder Auszahlung beauftragt.",
+      "status": "nicht_erforderlich"
+    },
+    "G6": {
+      "at": "2026-10-08T06:17:35+00:00",
+      "note": "Für diesen internen Entwurf ist kein externer Aktenzugang beauftragt.",
+      "status": "nicht_erforderlich"
+    },
+    "G7": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Kein konkreter Meldeanlass bekannt.",
+      "status": "nicht_erforderlich"
+    },
+    "G8": {
+      "at": "2026-10-08T06:17:34+00:00",
+      "note": "Mandatsende und Löschung sind nicht beauftragt und nicht festgestellt.",
+      "status": "nicht_erforderlich"
+    }
+  },
+  "history": [
+    {
+      "action": "init",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "Freigabestufe 2",
+      "revision": 1
+    },
+    {
+      "action": "phase",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "sacharbeit: Prüfvermerk und ausformulierter Entwurf im ausdrücklich beauftragten internen Probelauf erstellt.",
+      "revision": 2
+    },
+    {
+      "action": "product",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "honorarstand entwurf 01_Bearbeitung/Pruefvermerk.md ded2b6e5b4e5",
+      "revision": 3
+    },
+    {
+      "action": "product",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "vertrag entwurf 01_Bearbeitung/Honorarergaenzung.md c6244e2a23ec",
+      "revision": 4
+    },
+    {
+      "action": "nebenlauf",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "abrechnung: Honorarergänzung ausgearbeitet; Parteienannahme offen.",
+      "revision": 5
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G1 offen",
+      "revision": 6
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G3 offen",
+      "revision": 7
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G2 nicht_erforderlich",
+      "revision": 8
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G4 nicht_erforderlich",
+      "revision": 9
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G5 nicht_erforderlich",
+      "revision": 10
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G7 nicht_erforderlich",
+      "revision": 11
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:34+00:00",
+      "detail": "G8 nicht_erforderlich",
+      "revision": 12
+    },
+    {
+      "action": "gate",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "G6 nicht_erforderlich",
+      "revision": 13
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "Wie lauten vollständige Ursprungsvereinbarung, Lizenzgegenstand, Vertragspartner und Vertretungsdaten?",
+      "revision": 14
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "Wurde die Monatsklausel als AGB gestellt oder tatsächlich ausgehandelt?",
+      "revision": 15
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "Wann haben beide Parteien welche endgültige Nachtragsfassung in Textform angenommen?",
+      "revision": 16
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "Welche Leistungen sind vor Annahme bereits erbracht und welche gesetzliche Gebührenbasis greift hierfür?",
+      "revision": 17
+    },
+    {
+      "action": "question",
+      "at": "2026-10-08T06:17:35+00:00",
+      "detail": "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?",
+      "revision": 18
+    }
+  ],
+  "matter_id": "FACH-2-20261008",
+  "open_questions": [
+    "Wie lauten vollständige Ursprungsvereinbarung, Lizenzgegenstand, Vertragspartner und Vertretungsdaten?",
+    "Wurde die Monatsklausel als AGB gestellt oder tatsächlich ausgehandelt?",
+    "Wann haben beide Parteien welche endgültige Nachtragsfassung in Textform angenommen?",
+    "Welche Leistungen sind vor Annahme bereits erbracht und welche gesetzliche Gebührenbasis greift hierfür?",
+    "Welche Honorargrundlage gilt für diese konkrete Prüfung; welche tatsächlichen anwaltlichen Minuten, Leistungsdaten und Abrechenbarkeit sind bestätigt?"
+  ],
+  "phase": "sacharbeit",
+  "products": {
+    "honorarstand": {
+      "path": "01_Bearbeitung/Pruefvermerk.md",
+      "sha256": "ded2b6e5b4e5ede481877ed6f6eacd92551cf037166afd6f9f539be238c671dd",
+      "skill": "honorar-budget-vereinbaren",
+      "state": "entwurf",
+      "updated": "2026-10-08T06:17:34+00:00"
+    },
+    "vertrag": {
+      "path": "01_Bearbeitung/Honorarergaenzung.md",
+      "sha256": "c6244e2a23ec1edba6bba942e83bebe6bc770c76823a2673b1dba8324f674a0e",
+      "skill": "honorar-budget-vereinbaren",
+      "state": "entwurf",
+      "updated": "2026-10-08T06:17:34+00:00"
+    }
+  },
+  "revision": 18,
+  "schema_version": 1,
+  "side_runs": [
+    "abrechnung"
+  ],
+  "updated": "2026-10-08T06:17:35+00:00"
+}

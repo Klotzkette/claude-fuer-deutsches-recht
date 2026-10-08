@@ -1,6 +1,8 @@
 # KI-native Kanzlei: Prüfung der Veredelung und der agentischen Schicht
 
-Stand: 7. Oktober 2026. Komponentenfassung `445.33.7`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+Stand: 8. Oktober 2026. Komponentenfassung `445.33.8`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+
+**Aktuelle Prüfung: Abschnitt 10.** Die Abschnitte 1 bis 9 dokumentieren frühere Runden mit ihren damaligen Quellenlücken, Testzahlen und Seitenständen. Sie werden als Historie erhalten; ihre offenen Befunde werden im Nachtrag zu 445.33.8 behandelt.
 
 ## 1. Gegenstand und Umfang
 
@@ -95,3 +97,84 @@ Weil die Sitzungsumgebung amtliche Gesetzesseiten nicht erreicht, ruft der Workf
 Alle bisher mit Prüfvermerk versehenen Normaussagen wurden zusätzlich über die Websuche gegen amtliche Einzelnormseiten und Spiegel abgeglichen. Der [Befundbericht](normcheck/normbefunde-websuche-2026-10-07.md) zählt 85 bestätigte, 12 berichtigte und 5 nicht ermittelbare Aussagen und nennt je Skill Zeile, alten und neuen Satzteil. Alle 100 Änderungen wurden in 17 Skills übernommen; der Vermerk „am Volltext zu prüfen“ blieb nur dort, wo der Wert nicht ermittelbar war. Die wichtigsten Berichtigungen betreffen § 4a RVG (geltende Fassung „bei verständiger Betrachtung … abgehalten“ statt der bis 30.09.2021 geltenden wirtschaftlichen Verhältnisse; Pflichtangaben nach Absatz 3), § 4b RVG (Reichweite), § 53 BRAO (keine Anzeigepflicht gegenüber der Kammer mehr), § 8 Absatz 2 und 4 GwG (Kopien, Fristbeginn mit Jahresschluss, Vernichtung spätestens nach zehn Jahren), § 43 Absatz 4 GwG, § 4 BORA (kein allgemeines Einbehaltsrecht), §§ 2 bis 4 DL-InfoV, Nr. 7000 VV RVG, § 309 Nummer 8 Buchstabe b Doppelbuchstabe ff BGB und § 5 ERVV. Bestätigt und nun ohne Vorbehalt verwendet werden unter anderem § 13 Absatz 3 RVG (15 Euro), § 8 Absatz 1 RVG, § 4a Absatz 1 RVG (2.000 Euro), §§ 44, 52 und 53 BRAO, § 511 Absatz 2 Nummer 1 ZPO (1.000 Euro), § 544 Absatz 2 Nummer 1 ZPO (25.000 Euro) mit § 47 EGZPO, § 23 Nummer 1 GVG (10.000 Euro seit 01.01.2026) mit § 44 EGGVG, § 66 GKG (300 Euro), § 147 AO und § 14b UStG (acht Jahre) mit Art. 97 § 19a EGAO, § 10 Absatz 3 GwG (15.000 Euro), § 16a GwG und die BORA-Vorschriften §§ 3, 4, 11 und 17.
 
 Grenzen: Der Websuche-Abgleich stützt sich auf Suchtreffer-Auszüge; eine amtliche Seite wurde dabei nicht vollständig geöffnet. Nicht ermittelbar blieben § 476 Absatz 1 BGB (negative Beschaffenheitsvereinbarung), § 45 BRAO ab Absatz 2, die Doppelbuchstabenzuordnung in § 2 Absatz 1 Nummer 10 GwG und die Fristentabelle im Fristenskill. Rechtsprechung wurde in dieser Runde nicht neu aufgenommen.
+
+## 10. Glättungsrunde Codex
+
+Stand: 08.10.2026. Komponentenfassung 445.33.8. Bearbeitet wurden alle 18 Skills, drei Promptpaare, die acht benannten Referenzen und fünfzehn Befehle. Die 24 Testakten mit 240 Originaldateien bleiben unverändert. Die neue Runde ersetzt die Quellenvorbehalte der Abschnitte 2, 7 und 9 für die nun bearbeiteten Aussagen; die alten Berichte bleiben als nachvollziehbare Historie erhalten.
+
+### 10.1. Amtlicher Normabgleich und Rechtsprechung
+
+Die einschlägigen amtlichen Gesetzes- und Entscheidungstexte wurden erneut abgerufen und in den jeweiligen Absätzen beziehungsweise Randnummern gelesen. Die 18 Einzelberichte nennen URL, Lesedatum, gelesenen Umfang, Korrektur und Selbsttest. Sie unterscheiden tatsächliche Lektüre von Abruf und Suchtreffer. Entscheidungsanker behalten „Trägt“ und „Trägt nicht“; Kommentar-, Handbuch- und Aufsatzbelege wurden ausgeschlossen. Es wurden keine Entscheidungen aus Modellwissen ergänzt.
+
+Der [Nachtrag zum Normbefund](normcheck/normbefunde-websuche-2026-10-07.md#9-nachtrag-gelesene-amtliche-volltexte-vom-08102026) dokumentiert insbesondere die zwölf berichtigten Normbereiche, § 356 und § 356a BGB, die Übergänge in EGZPO, EGGVG, GKG und EGAO sowie die vollständigen Fassungen von § 45 BRAO, § 476 BGB und § 2 Absatz 1 Nummer 10 GwG. Die Fristenübersicht wurde zeilenweise gegen die einschlägigen Normen geprüft. Die Anlagentabelle des RVG und Teil 7 VV RVG wurden gelesen; das Gebührenbeispiel nutzt nun den belegten Tabellenwert statt eines Ersatzwerts.
+
+Der erste breite Actions-Nachlauf erreichte das Runner-Zeitlimit. Der [gezielte Nachlauf](normcheck/normcheck-2026-10-08-0613.md) erreichte alle 22 Zieltexte amtlich. Seine Ausschnittgrenzen werden im Nachtrag offengelegt; die zusätzlichen direkten Volltextlektüren schließen die für den Prüfauftrag relevanten Auslassungen. Die früheren 85 Suchtreffer-Bestätigungen werden nicht rückwirkend als Volltextprüfung bezeichnet.
+
+Konkrete Korrekturen betreffen unter anderem RVG-Erfolgshonorar und Formfolgen, Mindest-/Tabellengebühren, die Trennung von Fälligkeit und Einforderbarkeit, E-Rechnungsübermittlung im Übergangszeitraum, Aufbewahrungsbeginn nach Dokumentkategorie und besonderen Übergängen, BGB-Verbraucher- und AGB-Ausnahmen, GwG-Identifizierung und PEP-Nachwirkung sowie differenzierte Rechtsmittel- und Wiedereinsetzungsfristen. Der Quellenstand ist fallbezogen am tatsächlichen Bearbeitungstag weiterzuführen; er verspricht keine automatische Beobachtung künftiger Änderungen.
+
+### 10.2. Abschlussbericht je Skill
+
+Körperwortzahlen ohne YAML-Frontmatter, Vergleich mit dem Ausgangsstand 445.33.7. Insgesamt 119.996 Wörter; jeder Skill hält den verlangten Korridor ein, der Fristenskill die gesonderte Obergrenze von 7.000. Die Berichte enthalten zusätzlich den abschließenden SHA-256.
+
+| Skill | Vorher | Nachher | Quellen, Korrekturen und Selbsttest |
+| --- | --- | --- | --- |
+| `abrechnung-e-rechnung` | 6.498 | 6.736 | [Einzelbericht](glaettung-2026-10-08/skills/abrechnung-e-rechnung.md) |
+| `akte-fristen-anlegen` | 6.563 | 6.533 | [Einzelbericht](glaettung-2026-10-08/skills/akte-fristen-anlegen.md) |
+| `anwaltsberufsrecht-pruefen` | 6.643 | 6.743 | [Einzelbericht](glaettung-2026-10-08/skills/anwaltsberufsrecht-pruefen.md) |
+| `bea-anlagen-vorbereiten` | 6.537 | 6.560 | [Einzelbericht](glaettung-2026-10-08/skills/bea-anlagen-vorbereiten.md) |
+| `fristen-berechnen-ueberwachen` | 6.995 | 6.976 | [Einzelbericht](glaettung-2026-10-08/skills/fristen-berechnen-ueberwachen.md) |
+| `geldwaesche-pruefen` | 6.645 | 6.741 | [Einzelbericht](glaettung-2026-10-08/skills/geldwaesche-pruefen.md) |
+| `honorar-budget-vereinbaren` | 6.647 | 6.789 | [Einzelbericht](glaettung-2026-10-08/skills/honorar-budget-vereinbaren.md) |
+| `ki-kanzlei-steuern` | 6.475 | 6.552 | [Einzelbericht](glaettung-2026-10-08/skills/ki-kanzlei-steuern.md) |
+| `mandantenkommunikation` | 6.452 | 6.491 | [Einzelbericht](glaettung-2026-10-08/skills/mandantenkommunikation.md) |
+| `mandat-abschliessen` | 6.648 | 6.709 | [Einzelbericht](glaettung-2026-10-08/skills/mandat-abschliessen.md) |
+| `mandatsannahme-interessenkollision` | 6.648 | 6.712 | [Einzelbericht](glaettung-2026-10-08/skills/mandatsannahme-interessenkollision.md) |
+| `recht-recherchieren` | 6.521 | 6.420 | [Einzelbericht](glaettung-2026-10-08/skills/recht-recherchieren.md) |
+| `schriftsaetze-entwerfen` | 6.547 | 6.743 | [Einzelbericht](glaettung-2026-10-08/skills/schriftsaetze-entwerfen.md) |
+| `vertraege-agb-pruefen` | 6.699 | 6.778 | [Einzelbericht](glaettung-2026-10-08/skills/vertraege-agb-pruefen.md) |
+| `vertraege-gestalten` | 6.598 | 6.646 | [Einzelbericht](glaettung-2026-10-08/skills/vertraege-gestalten.md) |
+| `workflow-uebergabe` | 6.469 | 6.562 | [Einzelbericht](glaettung-2026-10-08/skills/workflow-uebergabe.md) |
+| `zahlungen-buchhaltung` | 6.716 | 6.791 | [Einzelbericht](glaettung-2026-10-08/skills/zahlungen-buchhaltung.md) |
+| `zeiten-erfassen` | 6.482 | 6.514 | [Einzelbericht](glaettung-2026-10-08/skills/zeiten-erfassen.md) |
+
+### 10.3. Mandatslauf, Übergaben und Prompts
+
+Die [Zuordnungsmatrix](../../ki-native-kanzlei/references/mandatslauf-und-freigaben.md) enthält alle achtzehn Skills mit Phase, Gate und Produktkennung sowie 126 gerichtete Übergaben mit Eingangsprodukt und Rückgabe. Dokumentarbeit, fachliche Prüfung, tatsächliche menschliche Erklärung und externer Vollzug bleiben getrennt. Fristeintragungsauftrag ist kein Kalendernachweis; das offene G2 blockiert unabhängige Arbeit nicht. G4 umfasst die endgültige Rechnungsnummer. Ein abgelegter Name ist keine Freigabe.
+
+Werkstatt-Kapitel 29 und 30, Mini-Abschnitt 7, Hauptproblem-Prompt, Befehle und Referenzen verwenden denselben Statuskern. Mini: 7457 UTF-8-Bytes; Hauptproblem: 7479 UTF-8-Bytes; Werkstatt: 12594 Wörter. Alle MD-/TXT-Paare sind byteidentisch und die vier verlangten Hashfelder im Prüfprofil aktualisiert. Ein vollständiger Textstatus ersetzt mangels Dateizugriffs keine behauptete Speicherung.
+
+### 10.4. Tatsächlich ausgeführte Probeläufe
+
+Die Hauptinstanz führte fünf fiktive Mandate auf Stufe 2 in einem Scratch-Kanzleiordner durch: die drei Alltagssituationen und zusätzlich Cloud-Aktenübergabe und Honorarreichweite. Das [Helferprotokoll](glaettung-2026-10-08/probelauf-protokoll.json) enthält 58 Aufruf-/Prüfeinträge, darunter die erwartete Verweigerung eines verfrühten Abschlusses. Das Szenario einer ausdrücklich vorgegebenen menschlichen Freigabe ist als fiktive Eingabe gekennzeichnet; sie wurde nicht vom Modell erzeugt.
+
+| Mandat | Offenes Gate | Nächstes Produkt | Benannte Verantwortung |
+| --- | --- | --- | --- |
+| Versäumnisurteil Berlin | G2 | `rechenvermerk-vu` | RA Bertram Brecht |
+| Vertragsprüfung mit Auftragserweiterung | G4 | `rechnung` | RAin Ada Ahrens |
+| Mandatsende mit Fremdgeld | G5/G8 | `zahlungsstand` | RA Emil Eberhardt |
+| Partnerausscheiden und Cloud | G6 | `uebergabevermerk` | RAin Ada Ahrens |
+| Stundenhonorar-Reichweite | G1 | `honorarstand` | RA Bertram Brecht |
+
+Zusätzlich bearbeiteten zwei frische Modellinstanzen ohne QA-Rubrik oder fremde Ergebnisse die drei Alltagssituationen im Textmodus und die beiden Fachfälle mit tatsächlichem Helferzugriff. Der Fachlauf erzeugte vier ausformulierte Arbeitsprodukte und 46 erfolgreiche Helferaufrufe; die offenen Freigaben und fehlenden Tatsachen blieben sichtbar. Der Textlauf erstellte sieben aufeinander aufbauende Antworten. [Ergebnisse, unveränderte Lesekopien und Bewertung](glaettung-2026-10-08/proben/README.md).
+
+Die erste Textantwort zur Rechnung hatte fünf Spalten; die Abschlussantwort bezeichnete die Phase trotz offener Gates als Abschluss. Beide Befunde wurden ausdrücklich nachgeschärft und in einem getrennt ausgewiesenen Nachtest behoben. Die ursprünglichen Ergebnisse bleiben erhalten. Es handelt sich um beobachtete lokale Helfer-/Modellanwendungen, nicht um einen Test der nativen Cowork- oder ChatGPT-Oberflächen und nicht um eine Erfolgsquote für alle zehn Szenarien des Prüfprofils.
+
+### 10.5. Durch Tests begründete Skriptkorrekturen
+
+Die ursprünglichen 18 Mandatslauftests waren grün. Zunächst fehlschlagende neue Tests belegten verloren gehende Gate-Verantwortliche, festes statt produktbezogenes Routing, Freigabe trotz geänderter Fassung, fehlende namentliche Produktfreigabe, unzureichende erneute Öffnung bei Änderungen, Abschluss trotz Ablehnung und die unvollständige Isolation beschädigter Cockpitdaten. Die Korrekturen behalten Produkt- und Entscheidungshistorie, binden registrierte Produkte an Hash und Fachskill und lassen abgelehnte Abschlussgates blockieren. Zwei anschließende Regressionen sichern den Skillwechsel bei unverändertem Hash und ungültige Nebenlaufdaten. Nun bestehen 30 Tests. [Vorher-/Nachher-Logs](glaettung-2026-10-08/logs/).
+
+Der PDF-Fuß und die Paket-README trugen im ersten tatsächlichen Build noch den 07.10.2026. Erst nach diesem nachgewiesenen Fehler wurden die beiden Datumsangaben in den Buildern berichtigt. Weitere produktive Helfer wurden nicht verändert. Der Mandatslauf bleibt ein lokales Journal, kein Authentifizierungs- oder Berechtigungssystem und kein Beleg einer tatsächlich ausgeführten Außenhandlung.
+
+### 10.6. Lesefassungen und technische Abnahme
+
+Alle 18 Skills wurden zweimal tatsächlich als A4 gesetzt: lokal mit Times New Roman 11 pt und als Release-Projektion mit Liberation Serif 2.1.5, ebenfalls 11 pt. Beide Sätze umfassen je Skill 15 bis 18 Seiten und insgesamt 291 Seiten. Der zentrale [Umfangsnachweis](umfang.json) gehört zur Release-Projektion; der separate [Times-New-Roman-Nachweis](glaettung-2026-10-08/umfang-tnr.json) kennzeichnet die lokale Fassung. Das Release verwendet die im Workflow ausdrücklich festgelegte Liberation Serif, weil dort Times New Roman nicht bereitgestellt wird.
+
+Der Builder fand alle gerenderten Quellabsätze und Tabellenzellen in unveränderter Reihenfolge wieder. In beiden Sätzen liegen sämtliche Wortgeometrien innerhalb der Seite; das Handbuch stimmt seitenweise mit den Einzel-PDFs überein. Acht gerenderte Seiten wurden tatsächlich angesehen. [Sichtprüfung](glaettung-2026-10-08/pdf-sichtpruefung.md), [TNR-Geometrie](glaettung-2026-10-08/pdf-geometrie-tnr.json), [Release-Geometrie](glaettung-2026-10-08/pdf-geometrie-liberation.json).
+
+Die vollständigen Befehle und Rückgabecodes stehen im [Prüfprotokoll](glaettung-2026-10-08/pruefbefehle.json). Ausgeführt wurden Quellenprüfung, 30 Lauf-, 18 Fristen-, 19 Journal- und 16 Exporttests, Skillaktivierungs-Audit, YAML-, Markdown- und Pluginstrukturprüfung, Marketplace-Importtests, Quality-Lab-Audit sowie Handbuch-, Release- und Paketbuild. Die Paketprüfung vergleicht auch alle 240 Testaktenoriginale mit dem unveränderten Ausgangstag. Build und Umfang unterscheiden die beiden Schriftfassungen ausdrücklich.
+
+### 10.7. Veröffentlichung und verbleibende Ausführungsgrenzen
+
+Die Manifeste, Marketplace-Eintrag, Komponententests, README-Verweise, Indizes und Downloadziele führen einheitlich 445.33.8. Das allgemeine Repository-Release bleibt davon unabhängig. Die Veröffentlichung erfolgt über den vorgesehenen manuellen Komponentenworkflow mit `tag=ki-native-kanzlei-v445.33.8`; er setzt den Tag auf den geprüften Commit.
+
+Keine produktiven Mandantenakten, beA-Nachrichten, Kalender, Bankkonten oder Rechnungsausgaben wurden angesprochen. Slash-Befehle und Werkzeuge hängen vom konkreten Host ab. Menschliche Zuständigkeit, fachliche Prüfung, tatsächliche Freigabe und Vollzugsnachweis bleiben erforderlich, soweit der konkrete Schritt sie verlangt.

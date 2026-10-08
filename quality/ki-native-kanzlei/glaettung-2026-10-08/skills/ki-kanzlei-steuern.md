@@ -1,0 +1,75 @@
+# Prüfbericht: ki-kanzlei-steuern
+
+## 1. Umfang und Wortzählung
+
+Geändert wurden ausschließlich der Skill [ki-kanzlei-steuern](../../../../ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md) und dieser Bericht. Der Körper zählt 6475 Wörter vor und 6552 Wörter nach der Bearbeitung; gezählt wurden durch Leerraum getrennte Wörter nach dem YAML-Frontmatter. Die Beschreibung enthält 358 Zeichen ohne YAML-Anführungszeichen. Es bleiben genau die sechs vorgegebenen Hauptabschnitte.
+
+## 2. Konkrete Änderungen
+
+- G1 an das registrierte Annahmeprodukt statt an den bloßen Aufnahmeauftrag gebunden; Maschinenfreigaben durch namentliche fachliche Abnahme ersetzt. Produkt- und Gatebezug folgen den kanonischen Kennungen.
+- Stufe 2 erlaubt interne Rechnungsentwürfe und Zeitjournale; ausgabefertige Versand-, Rechnungs- und XML-Pakete setzen Stufe 3 voraus. Die Steuerung benennt next_product und responsible; G2 priorisiert Fristsicherung und unterbricht unabhängige Sacharbeit nicht.
+- § 3a RVG um Auftragserteilungs- und Beratungsvereinbarungsausnahme präzisiert. UStG-Übergang einschließlich der Umsatzgrenze und Papier-/Elektronikunterscheidung berichtigt; Nummernvergabe, Berechnung und tatsächliche Mitteilung getrennt.
+- Kündigungsschutzbeispiel leitet die Erfolgsaussicht nicht mehr aus einem fehlenden Kündigungsgrund im Schreiben oder fehlendem Betriebsratsvermerk ab. G2 verlangt tatsächliche Kalendereintragung und Rücklesung; G3 folgt dem Versandpaket.
+- Mandatsende enthält keinen pauschalen Ausschluss weiterer Fristverantwortung. Rechtsprechungsanker bleiben mit gelesener Randnummer und Trägt/Trägt nicht erhalten; repetitive Abnahmesätze zu zusammenhängender Prosa verdichtet.
+
+## 3. Amtliche Norm- und Techniklektüre
+
+Die amtlichen Volltexte wurden am 08.10.2026 geöffnet und die unten bezeichneten Stellen gelesen. Suchtreffer, amtliche Leitsätze allein und Sekundärtexte sind keine Belege. Anfangs gescheiterte Netzabrufe wurden seriell wiederholt; die später erfolgreich geöffneten Volltexte tragen die Prüfung. Die Beurteilung gilt für den dokumentierten Normstand und ersetzt bei einer späteren Fallbearbeitung nicht den erneuten Fassungsabgleich.
+
+| Amtliche Quelle | Tatsächlich gelesene Fundstelle | Ergebnis |
+| --- | --- | --- |
+| [BRAO 43A](https://www.gesetze-im-internet.de/brao/__43a.html) | Absätze 1–7, insbesondere Absatz 2 und Kollisionsregeln; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BRAO 43E](https://www.gesetze-im-internet.de/brao/__43e.html) | Absätze 1–8 vollständig; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BRAO 49B](https://www.gesetze-im-internet.de/brao/__49b.html) | Absätze 1–5; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BRAO 50](https://www.gesetze-im-internet.de/brao/__50.html) | Absätze 1–5; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [RVG 3A](https://www.gesetze-im-internet.de/rvg/__3a.html) | Absatz 1 Sätze 1–4 und Absätze 2–4; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [RVG 10](https://www.gesetze-im-internet.de/rvg/__10.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [RVG 34](https://www.gesetze-im-internet.de/rvg/__34.html) | Absätze 1 und 2; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [RVG 60](https://www.gesetze-im-internet.de/rvg/__60.html) | Absätze 1 und 2; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [RVG 8](https://www.gesetze-im-internet.de/rvg/__8.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BGB 628](https://www.gesetze-im-internet.de/bgb/__628.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [ZPO 87](https://www.gesetze-im-internet.de/zpo/__87.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [USTG_1980 14](https://www.gesetze-im-internet.de/ustg_1980/__14.html) | Absätze 1–6, insbesondere Formate und Ausnahmen in Absatz 2; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [USTG_1980 27](https://www.gesetze-im-internet.de/ustg_1980/__27.html) | Absatz 38 Nummern 1–3; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [ZPO 222](https://www.gesetze-im-internet.de/zpo/__222.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BGB 187](https://www.gesetze-im-internet.de/bgb/__187.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BGB 188](https://www.gesetze-im-internet.de/bgb/__188.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [BGB 193](https://www.gesetze-im-internet.de/bgb/__193.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [ZPO 130A](https://www.gesetze-im-internet.de/zpo/__130a.html) | Absätze 1–6 vollständig; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [ZPO 130D](https://www.gesetze-im-internet.de/zpo/__130d.html) | Sätze 1–3 vollständig; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [GWG_2017 2](https://www.gesetze-im-internet.de/gwg_2017/__2.html) | Absatz 1 Nummer 10 Buchstaben a–e; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [GWG_2017 10](https://www.gesetze-im-internet.de/gwg_2017/__10.html) | Absätze 1–3, Sorgfaltspflichten und Anlass; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [KSCHG 4](https://www.gesetze-im-internet.de/kschg/__4.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [ARBGG 12A](https://www.gesetze-im-internet.de/arbgg/__12a.html) | Vollständige Einzelnorm einschließlich der im Skill genannten Absätze; gelesen 08.10.2026. | Zahlen, Form und Reichweite mit der überarbeiteten Fassung abgeglichen. |
+| [Amtlicher Volltext](https://www.gesetze-im-internet.de/ao_1977/__147.html) | Absatz 3; unterschiedliche Fristen statt pauschaler sechsjähriger Aufbewahrung; gelesen 08.10.2026. | Im Skill verwendete Aussage eingegrenzt beziehungsweise bestätigt. |
+| [Amtlicher Volltext](https://www.gesetze-im-internet.de/hgb/__257.html) | Absatz 4; Aufbewahrungsarten getrennt; gelesen 08.10.2026. | Im Skill verwendete Aussage eingegrenzt beziehungsweise bestätigt. |
+| [Amtlicher Volltext](https://www.gesetze-im-internet.de/bverfgg/__31.html) | Absätze 1 und 2; gelesen 08.10.2026. | Im Skill verwendete Aussage eingegrenzt beziehungsweise bestätigt. |
+
+## 4. Rechtsprechungsanker und Übertragungsgrenzen
+
+Die folgenden 8 Anker wurden anhand des amtlichen Volltexts geprüft. Die angegebenen Randnummern wurden gelesen; „Trägt“ und „Trägt nicht“ bleiben im Skill erhalten. Abruf- und Lesedatum dieser Prüfung: 08.10.2026.
+
+**BGH, Urt. v. 19.02.2026 – Az. IX ZR 226/22, amtlicher Volltext, Rn. 8–18 und 23–32.** Trägt: Vertragsauslegung und Textformprüfung einer Vergütungsvereinbarung sind zu trennen; der Anwendungsbereich muss textförmig erkennbar sein; eine Anerkenntnisfiktion für nicht binnen eines Monats beanstandete Zeiten ist auch im unternehmerischen Verkehr unwirksam. Trägt nicht: eine automatische Erstreckung auf neue Aufträge oder die Gesamtunwirksamkeit wegen eines fehlerhaften Kostenerstattungshinweises. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2022/IX_ZR_226-22.pdf?__blob=publicationFile&v=1).
+**BGH, Urt. v. 12.09.2024 – Az. IX ZR 65/23, amtlicher Volltext im Curia-Archiv, Rn. 20–35, 37 und 51.** Trägt: Das Fehlen einer Kostenschätzung oder regelmäßiger Zwischenaufstellungen macht eine formularmäßige Zeithonorarabrede nicht für sich allein unwirksam; Transparenz, Benachteiligung, Rechtsfolge und Zeitnachweis sind getrennt zu prüfen. Trägt nicht: ein Verbot von Stundensatzklauseln oder einen Freibrief für unbestimmte Abrechnung. [Volltext](https://curia.europa.eu/site/upload/docs/application/pdf/2025-04/ix_zr__65-23_2025-04-16_15-06-53_148.pdf).
+**BGH, Urt. v. 13.02.2020 – Az. IX ZR 140/19, amtlicher Volltext, Rn. 27–35.** Trägt: Die formularmäßige Abrechnung jedes angefangenen Viertelstundenintervalls benachteiligt jedenfalls Verbraucher unangemessen; tatsächliche Zeit ist zu erfassen. Trägt nicht: ein Verbot jedes Zeithonorars oder eine Aussage über jede Taktklausel gegenüber Unternehmern. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2019/IX_ZR_140-19.pdf?__blob=publicationFile&v=1).
+**BGH, Urt. v. 10.12.2015 – Az. IX ZR 272/14, amtlicher Volltext, Rn. 6–14.** Trägt: Die anwaltliche Darlegung günstiger tatsächlicher und rechtlicher Gesichtspunkte wird durch die gerichtliche Rechtsprüfung nicht entbehrlich; eigenständige Anspruchswege sind eigenständig zu begründen. Trägt nicht: eine Pflicht zur Recherche aller denkbaren Lebenssachverhalte außerhalb des Auftrags. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2014/IX_ZR_272-14.pdf?__blob=publicationFile&v=1).
+**BGH, Beschl. v. 04.03.2026 – Az. XII ZB 338/24, amtlicher Volltext, Rn. 10–17, besonders Rn. 11–13.** Trägt: Fristenorganisation muss Änderungen und Streichungen nachvollziehbar und kontrollierbar halten; die Auswahl des elektronischen Systems ist daran auszurichten. Trägt nicht: ein Verbot elektronischer Kalender oder eine Entschuldigung jedes Softwarefehlers. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2024/XII_ZB_338-24.pdf?__blob=publicationFile&v=1).
+**BGH, Beschl. v. 21.03.2023 – Az. VIII ZB 80/22, amtlicher Volltext, Rn. 20–35, besonders Rn. 25–33.** Trägt: Die Ausgangskontrolle umfasst den Bezug der Eingangsbestätigung auf die richtige, vollständig übermittelte Datei; eine frei vergebene Anhangsbezeichnung ersetzt den Dateinamen nicht. Trägt nicht: dass ein geeigneter Dateiname den richtigen Inhalt belegt. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2022/VIII_ZB__80-22.pdf?__blob=publicationFile&v=1).
+**BVerwG, Beschl. v. 16.05.2025 – Az. 5 B 8.25, amtlicher Volltext, Rn. 3–5.** Trägt: Zur anwaltlichen Ausgangskontrolle gehört die automatisierte Eingangsbestätigung des Gerichts; ein erfolgreiches Signaturprotokoll belegt weder Versand noch Eingang. Trägt nicht: eine unmittelbare Aussage für Arbeits-, Sozial-, Finanz- oder Strafverfahren; die Entscheidung betrifft § 55a VwGO. [Volltext](https://www.bverwg.de/160525B5B8.25.0).
+**BGH, Urt. v. 15.01.2026 – Az. IX ZR 188/24, amtlicher Volltext, Rn. 15–19.** Trägt: Der Handaktenanspruch folgt im entschiedenen Sozietätswechsel aus § 667 BGB, § 50 BRAO und der festgestellten Vertragsübernahme; vollständige mandatsbezogene Handakten sind herauszugeben. Trägt nicht: einen allgemeinen Anspruch jedes ausscheidenden Berufsträgers auf beliebige Mandatsdaten oder ein Verbot begründeter Zurückbehaltungsrechte. [Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_188-24.pdf?__blob=publicationFile&v=1).
+
+## 5. Übergaben und Selbsttest
+
+Alle ausgehenden Nachbarskill-Verweise wurden auf vorhandene Dateien und ihren Produktanschluss geprüft. Die Übergabe nennt führende Fassung mit Pfad und Hash, Honorarstand, Zeitstand, Fristobjekt, offene Gates und offene Fragen. Endgültiger Friststatus verlangt tatsächliche Kalendereintragung und Rücklesung. Fachliche Abnahme und Freigabe werden benannten Personen zugeordnet; eine Maschinenmeldung ersetzt sie nicht.
+
+Die statische Prüfung bestand: Körper im Zielkorridor, Name und Beschreibung als einzige Frontmatter-Felder, Beschreibung höchstens 360 Zeichen, exakt sechs Hauptabschnitte, alle lokalen Markdown-Verweise vorhanden, keine Tabelle über vier Spalten, keine verbotenen Pfeile/Häkchen/Ungleichheitszeichen und kein Restmarker „am Volltext zu prüfen“. Python datetime hat 13 im Text angegebene Wochentag-Datum-Paare ohne Abweichung bestätigt. Ausformulierungspflicht und Exportformat Times New Roman, 11 pt bleiben enthalten.
+
+Die CLI-Übergabebeispiele wurden gegen die tatsächliche Hilfe von mandatslauf.py und den Helfercode abgeglichen. Insbesondere sind --bezug als registrierte Produktkennung und --person als menschliche Verantwortung belegt. Die funktionalen Helfer-Probeläufe führt die übergreifende Bearbeitung gesondert aus; dieser Bericht behauptet keinen Versand, keinen Kalendereintrag und keinen Rechnungslauf.
+
+Die geprüfte Skillfassung besitzt SHA-256 `f92341b2e14e036c240d03fe74091deaa096359b97d33fc9904e576b0fb55e0b`.
+
+## 6. Abschließende Redaktion und Selbsttest am 08.10.2026
+
+Die Endfassung umfasst 6552 Körperwörter ohne YAML; die Beschreibung hat 358 Zeichen. Endfassungs-Hash SHA-256: `f92341b2e14e036c240d03fe74091deaa096359b97d33fc9904e576b0fb55e0b`. Die oben genannten Ausgangswortzahlen bleiben unverändert; die Endwortzahl enthält die anschließende formale Zitiervereinheitlichung. Es wurden keine Entscheidungen oder Randnummern ergänzt. Gerichtszitate verwenden einheitlich Urt. v. beziehungsweise Beschl. v. und Az.; ihre bereits gelesenen Pinpoints und die Grenzen Trägt/Trägt nicht bleiben erhalten.
+
+Der abschließende automatische Selbsttest bestätigt genau die sechs Hauptabschnitte, zwei Frontmatterfelder, den Wortkorridor, die Beschreibungsvorgaben, Leerzeilen nach Überschriften und dezimale Untergliederung. Alle 56 relativen Linkvorkommen haben vorhandene Ziele. Die Tabellen besitzen höchstens 4 Spalten. Verbotene Glyphen, ungelöste Volltextmarker und Literaturfundstellen wurden nicht gefunden. 13 unmittelbar verknüpfte ausgeschriebene Wochentage mit vollständigem numerischem oder ausgeschriebenem Datum wurden mit Python datetime geprüft; keine Abweichung. Weitere, nur aus Kontext ergänzbare Kalenderfolgen behalten die oben dokumentierte Fachprüfung.

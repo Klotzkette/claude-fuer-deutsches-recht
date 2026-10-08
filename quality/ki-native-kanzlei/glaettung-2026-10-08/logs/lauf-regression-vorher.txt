@@ -1,0 +1,131 @@
+test_cockpit_markdown (__main__.CockpitTests.test_cockpit_markdown) ... ok
+test_cockpit_missing_root (__main__.CockpitTests.test_cockpit_missing_root) ... ok
+test_cockpit_orders_by_urgency (__main__.CockpitTests.test_cockpit_orders_by_urgency) ... ok
+test_markdown_keeps_four_column_limit (__main__.CockpitTests.test_markdown_keeps_four_column_limit) ... FAIL
+test_partial_json_does_not_hide_other_mandates (__main__.CockpitTests.test_partial_json_does_not_hide_other_mandates) ... ERROR
+test_changed_product_cannot_inherit_review (__main__.LaufTests.test_changed_product_cannot_inherit_review) ... FAIL
+test_closing_requires_decided_gates (__main__.LaufTests.test_closing_requires_decided_gates) ... ok
+test_control_characters_rejected (__main__.LaufTests.test_control_characters_rejected) ... ok
+test_denied_closing_gate_blocks_closure (__main__.LaufTests.test_denied_closing_gate_blocks_closure) ... FAIL
+test_gate_cannot_be_released_unopened (__main__.LaufTests.test_gate_cannot_be_released_unopened) ... ok
+test_gate_needs_named_person (__main__.LaufTests.test_gate_needs_named_person) ... ok
+test_gate_release_rejects_unregistered_file_change (__main__.LaufTests.test_gate_release_rejects_unregistered_file_change) ... FAIL
+test_gate_reset_after_release (__main__.LaufTests.test_gate_reset_after_release) ... ok
+test_gate_routes_to_registered_product_skill (__main__.LaufTests.test_gate_routes_to_registered_product_skill) ... FAIL
+test_init_refuses_overwrite (__main__.LaufTests.test_init_refuses_overwrite) ... ok
+test_init_rejects_bad_level (__main__.LaufTests.test_init_rejects_bad_level) ... ok
+test_next_follows_phase_without_gates (__main__.LaufTests.test_next_follows_phase_without_gates) ... ok
+test_next_prefers_open_deadline_gate (__main__.LaufTests.test_next_prefers_open_deadline_gate) ... ok
+test_open_gate_preserves_named_responsible (__main__.LaufTests.test_open_gate_preserves_named_responsible) ... FAIL
+test_phase_and_side_run (__main__.LaufTests.test_phase_and_side_run) ... ok
+test_product_hash_and_replacement (__main__.LaufTests.test_product_hash_and_replacement) ... ok
+test_product_release_requires_named_person (__main__.LaufTests.test_product_release_requires_named_person) ... FAIL
+test_product_requires_file_and_relative_path (__main__.LaufTests.test_product_requires_file_and_relative_path) ... ok
+test_questions_and_history (__main__.LaufTests.test_questions_and_history) ... ok
+test_registered_change_reopens_bound_gate (__main__.LaufTests.test_registered_change_reopens_bound_gate) ... FAIL
+test_release_requires_review_first (__main__.LaufTests.test_release_requires_review_first) ... ok
+test_unknown_phase (__main__.LaufTests.test_unknown_phase) ... ok
+
+======================================================================
+ERROR: test_partial_json_does_not_hide_other_mandates (__main__.CockpitTests.test_partial_json_does_not_hide_other_mandates)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 182, in test_partial_json_does_not_hide_other_mandates
+    code, out, _ = run('cockpit', '--kanzlei', root)
+                   ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 14, in run
+    code = M.main(list(argv))
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 260, in main
+    result = handler(a)
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 230, in cmd_cockpit
+    rows = cockpit(a.kanzlei)
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 219, in cockpit
+    skill, reason = recommend(data)
+                    ~~~~~~~~~^^^^^^
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/ki-native-kanzlei/scripts/mandatslauf.py", line 175, in recommend
+    gates = data['gates']
+            ~~~~^^^^^^^^^
+KeyError: 'gates'
+
+======================================================================
+FAIL: test_markdown_keeps_four_column_limit (__main__.CockpitTests.test_markdown_keeps_four_column_limit)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 193, in test_markdown_keeps_four_column_limit
+    self.assertLessEqual(len(out.splitlines()[0].split('|')) - 2, 4)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 5 not less than or equal to 4
+
+======================================================================
+FAIL: test_changed_product_cannot_inherit_review (__main__.LaufTests.test_changed_product_cannot_inherit_review)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 121, in test_changed_product_cannot_inherit_review
+    self.assertEqual(run('product', '--akte', self.akte, '--id', 'klage', '--pfad', '01_Bearbeitung/Klage_v04.docx', '--skill', 's', '--zustand', 'freigegeben')[0], 2)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0 != 2
+
+======================================================================
+FAIL: test_denied_closing_gate_blocks_closure (__main__.LaufTests.test_denied_closing_gate_blocks_closure)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 146, in test_denied_closing_gate_blocks_closure
+    self.assertEqual(run('phase', '--akte', self.akte, '--phase', 'abschluss', '--grund', 'Ende')[0], 2)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0 != 2
+
+======================================================================
+FAIL: test_gate_release_rejects_unregistered_file_change (__main__.LaufTests.test_gate_release_rejects_unregistered_file_change)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 131, in test_gate_release_rejects_unregistered_file_change
+    self.assertEqual(run('gate', '--akte', self.akte, '--gate', 'G3', '--aktion', 'freigeben', '--person', 'RAin Ada Ahrens', '--bezug', 'klage')[0], 2)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0 != 2
+
+======================================================================
+FAIL: test_gate_routes_to_registered_product_skill (__main__.LaufTests.test_gate_routes_to_registered_product_skill)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 114, in test_gate_routes_to_registered_product_skill
+    self.assertEqual(result['next_skill'], 'mandantenkommunikation')
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'bea-anlagen-vorbereiten' != 'mandantenkommunikation'
+- bea-anlagen-vorbereiten
++ mandantenkommunikation
+
+
+======================================================================
+FAIL: test_open_gate_preserves_named_responsible (__main__.LaufTests.test_open_gate_preserves_named_responsible)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 107, in test_open_gate_preserves_named_responsible
+    self.assertEqual(self.state()['gates']['G3'].get('responsible'), 'RAin Ada Ahrens')
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: None != 'RAin Ada Ahrens'
+
+======================================================================
+FAIL: test_product_release_requires_named_person (__main__.LaufTests.test_product_release_requires_named_person)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 125, in test_product_release_requires_named_person
+    self.assertEqual(run('product', '--akte', self.akte, '--id', 'klage', '--pfad', '01_Bearbeitung/Klage_v04.docx', '--skill', 's', '--zustand', 'freigegeben')[0], 2)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 0 != 2
+
+======================================================================
+FAIL: test_registered_change_reopens_bound_gate (__main__.LaufTests.test_registered_change_reopens_bound_gate)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/klotzkette/Desktop/Codex Projects/legal-work/ki-kanzlei-glaettung-20261008/scripts/test-ki-native-kanzlei-lauf.py", line 139, in test_registered_change_reopens_bound_gate
+    self.assertEqual(self.state()['gates']['G3']['status'], 'offen')
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'freigegeben' != 'offen'
+- freigegeben
++ offen
+
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.160s
+
+FAILED (failures=8, errors=1)
