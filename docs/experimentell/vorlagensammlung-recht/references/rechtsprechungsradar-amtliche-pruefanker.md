@@ -61,9 +61,11 @@ Besonders praxisrelevant sind die neuen Prüfanker zur Vergleichsbefristung ([BA
   InfoCuria:
   <https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=de&num=C-741%2F21>
 - BGH, Urteil vom 15. November 2006, XII ZR 120/04:
-  Internet-System-Vertrag und werkvertragliche Einordnung. Amtlicher
+  Zeitlich begrenzte Softwareüberlassung im ASP-Vertrag und mietrechtliche
+  Einordnung nach Paragraf 535 BGB; kein Werkvertragsanker für die Erstellung
+  einer Internetpräsenz. Amtlicher
   Volltext:
-  <https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR_120-04.pdf?__blob=publicationFile&v=1>
+  <https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=38367>
 
 ## Verfassungs-, Verwaltungs- und Migrationsrecht
 

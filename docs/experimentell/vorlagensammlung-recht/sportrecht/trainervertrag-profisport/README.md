@@ -56,3 +56,7 @@ Arbeits- oder freie Dienststellung, Lizenzanforderung, Team, Saison, Vertragsbeg
 - [Spielervertrag für Profisportler (Fußball-Lizenzspieler; befristeter Arbeitsvertrag)](../spielervertrag-profisportler/) — für die parallele arbeitsrechtliche Kaderstruktur.
 - [Aufhebungsvereinbarung zum Spielervertrag (vorzeitige Vertragsbeendigung im Profisport)](../aufhebungsvereinbarung-spielervertrag/) — als Ausgangspunkt für eine sportbezogene Aufhebung.
 - [Sponsoringvertrag (Verein/Sportler — Sponsor)](../sponsoringvertrag/) — für etwaige Medien- und Sponsorpflichten des Trainers.
+
+## 1. Freistellung, geprüft am 9. Oktober 2026
+
+[BAG, 25. März 2026, 5 AZR 108/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/) beanstandet ein voraussetzungsloses formularmäßiges Freistellungsrecht nach Kündigung. Das ist keine besondere Trainerentscheidung; ihre AGB-rechtlichen Maßstäbe sind bei einem Trainer im Arbeitsverhältnis zu beachten. Die bloße Neubesetzung der Trainerstelle ersetzt keine Interessenabwägung. Beschäftigungsanspruch, Vergütung und Prämien getrennt prüfen. Urlaub nur durch ausdrücklich bezeichnete, unwiderrufliche Freistellung bei gesicherter Urlaubsvergütung anrechnen; [BAG, 10. Februar 2015, 9 AZR 455/13](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-455-13/).

@@ -98,8 +98,8 @@ Die gesetzliche Erbfolge ergibt sich wie folgt:
 [Darstellung der gesetzlichen Erbfolge, z. B. „Als Kind des Erblassers bin ich Erbe der ersten Ordnung (§ 1924 BGB). Weitere Abkömmlinge existieren nicht. Der Ehegatte erbt neben mir zu 1/2 (§ 1931 Abs. 1, § 1371 Abs. 1 BGB) / ist vorverstorben / hat ausgeschlagen."]
 
 **Beantragte Erbquote(n):**
-- [Name des Antragstellers]: [Bruchteil]
-- [Name weiterer Miterben]: [Bruchteil]
+- Antragsteller: [Name des Antragstellers], Erbteil: [Bruchteil]
+- Weiterer Miterbe: [Name weiterer Miterben], Erbteil: [Bruchteil]
 
 ---
 

@@ -88,3 +88,9 @@ Diese Vorlage ist ein Experiment — unverbindlich, keine Rechtsberatung. Nieman
 - Bundesarbeitsgericht, Urteil vom 25. März 2026 — 5 AZR 108/25: Eine vom Arbeitgeber vorformulierte Klausel, die ihm nach jeder Kündigung bis zum Ablauf der Kündigungsfrist ein voraussetzungsloses Freistellungsrecht einräumt, benachteiligt den Arbeitnehmer unangemessen und ist nach § 307 Abs. 1 Satz 1 BGB unwirksam. Quelle: [BAG 5 AZR 108/25](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-108-25/).
 
 Freistellungsklauseln müssen daher Anlass, Interessenabwägung, Widerruflichkeit oder Unwiderruflichkeit, Urlaubsanrechnung und Fortzahlung der Vergütung bestimmen. Ein pauschales einseitiges Freistellungsrecht für jeden Kündigungsfall sollte nicht als Standardklausel verwendet werden.
+
+## 1. Urlaubsanrechnung und Aufbewahrung, geprüft am 9. Oktober 2026
+
+[BAG, 10. Februar 2015, 9 AZR 455/13](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-455-13/) verlangt für die Urlaubserfüllung eine eindeutige Freistellung und gesicherte Urlaubsvergütung; widerrufliche Freistellung reicht nicht. [BAG, 12. Februar 2025, 5 AZR 127/24](https://www.bundesarbeitsgericht.de/entscheidung/5-azr-127-24/) betrifft die unterlassene Aufnahme einer neuen Tätigkeit während der Kündigungsfrist bei arbeitgeberseitiger Freistellung. Die Aussage ist nicht pauschal auf Zeiten nach Beendigung zu übertragen.
+
+Die Aufbewahrung in Anlage 1 ist nach Dokumentarten getrennt: [Paragraf 147 AO](https://www.gesetze-im-internet.de/ao_1977/__147.html) sieht insbesondere zehn, acht und sechs Jahre vor. Eine zehnjährige steuerrechtliche Aufbewahrung der gesamten Personalakte folgt daraus nicht.

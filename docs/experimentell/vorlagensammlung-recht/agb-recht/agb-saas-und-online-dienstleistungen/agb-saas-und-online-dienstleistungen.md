@@ -32,19 +32,23 @@ Weitere Hinweise und ausführliche Praxis-Erläuterungen in der README dieser Vo
 
 2.2 Abweichende Geschäftsbedingungen der Vertragspartnerseite gelten nur, wenn die Verwenderin ihnen ausdrücklich zustimmt. Schweigen, Leistungserbringung oder Vertragsdurchführung gelten nicht als Zustimmung zu fremden Bedingungen.
 
-2.3 Geschuldet ist die im Leistungsplan beschriebene Funktionalität; bloße Werbeaussagen, Roadmaps und Beta-Funktionen werden nur Vertragsinhalt, wenn sie ausdrücklich zugesagt sind.
+2.3 Geschuldet sind die vereinbarten Funktionen und Eigenschaften. Bei Verbraucherverträgen über digitale Produkte bleiben zusätzlich die gesetzlichen objektiven Anforderungen, die Bedeutung öffentlicher Äußerungen und die Aktualisierungspflichten maßgeblich. Eine Abweichung von objektiven Anforderungen setzt die Voraussetzungen des Paragrafen 327h BGB voraus und kann nicht pauschal durch diese AGB vereinbart werden.
 
 2.4 Vor Vertragsschluss kann die Kundenseite Tarif, Nutzer- und Verbrauchsgrenzen, Verfügbarkeit, Supportzeiten, Laufzeit, Datenexport, Unterauftragnehmer und erforderliche technische Umgebung prüfen und speichern.
 
+2.5 Bei einem widerruflichen Verbrauchervertrag erhalten Sie die Widerrufsbelehrung gesondert. Für den Abschluss über unsere Online-Benutzeroberfläche steht während der Widerrufsfrist unter [Adresse und Position] die Funktion „Vertrag widerrufen“ bereit. Nach Angabe oder Bestätigung von Name, Vertrag beziehungsweise Vertragsteil und elektronischem Kontaktweg senden Sie die Erklärung mit „Widerruf bestätigen“. Unverzüglich folgt eine Eingangsbestätigung auf dauerhaftem Datenträger mit Inhalt, Datum und Uhrzeit. Maßgeblich für die Fristwahrung ist die rechtzeitige Absendung über die Funktion nach Paragraf 356a Absatz 5 BGB; andere gesetzliche Widerrufswege bleiben offen.
+
+2.6 Für Verbraucherverträge im Anwendungsbereich des Paragrafen 312k BGB besteht unabhängig davon unter [Adresse] eine gesonderte Kündigungsfunktion. Ein Widerruf, eine laufzeitbezogene Kündigung und eine Beendigung wegen Produktänderung sind unterschiedliche Erklärungen. Eine bloße Klausel ersetzt weder die technische Bereitstellung noch die Prüfung der jeweils erforderlichen Informations- und Bestätigungsseite.
+
 ### 3. Abonnement, nutzungsabhängige Entgelte und Abrechnung
 
-3.1 Der Tarif umfasst [Anzahl Nutzerkonten], [Speicherumfang], [API-Aufrufe je Abrechnungsperiode], [Supportstufe] und [weitere Leistungsgrenze]. Das Grundentgelt beträgt [Abonnementpreis in EUR] je [Monat / Jahr] zuzüglich gesetzlicher Umsatzsteuer.
+3.1 Der Tarif umfasst [Anzahl Nutzerkonten], [Speicherumfang], [API-Aufrufe je Abrechnungsperiode], [Supportstufe] und [weitere Leistungsgrenze]. Das Grundentgelt beträgt [Gesamtpreis in EUR einschließlich Umsatzsteuer] je [Monat / Jahr]. Nur bei einem ausschließlich an Unternehmer gerichteten Angebot kann stattdessen ein ausdrücklich gekennzeichneter Nettopreis zuzüglich gesetzlicher Umsatzsteuer verwendet werden.
 
 3.2 Nutzungsabhängige Entgelte entstehen nur für messbare Einheiten, deren Zählweise, Abrechnungszeitraum und Preis vor Nutzung festgelegt sind. Das Kundenkonto zeigt den aktuellen Verbrauch oder ermöglicht einen prüffähigen Export.
 
 3.3 Rechnungen sind innerhalb von [Zahlungsfrist in Tagen] nach Zugang zahlbar. Eine Kontosperre wegen Zahlungsverzugs setzt eine Mahnung, eine angemessene Nachfrist und einen Hinweis auf die bevorstehende Sperre voraus, soweit kein schwerwiegender Missbrauch vorliegt.
 
-3.4 Preisänderungen für eine Verlängerungsperiode werden mit Änderungsgrund, neuem Preis und Wirksamkeitsdatum mindestens [Ankündigungsfrist] vorher angekündigt. Die Kundin oder der Kunde kann bis zum Änderungszeitpunkt kündigen, wenn die Änderung nicht ausschließlich auf einer von ihr oder ihm veranlassten Tarifänderung beruht.
+3.4 Eine Änderung des vereinbarten Preises setzt eine ausdrückliche Einigung voraus. Die Anbieterin übersendet ein Angebot mit neuem Preis, betroffenen Leistungen und Wirksamkeitsdatum. Schweigen oder weitere Nutzung ersetzen keine Zustimmung. Ohne Einigung gilt der bisherige Preis weiter; gesetzliche und wirksam vereinbarte Kündigungsrechte bleiben unberührt.
 
 ### 4. Bereitstellung, Verfügbarkeit und Änderungsmanagement
 
@@ -58,7 +62,7 @@ Weitere Hinweise und ausführliche Praxis-Erläuterungen in der README dieser Vo
 
 ### 5. Softwaremängel, Servicegutschrift und Datenherausgabe
 
-5.1 Ein Mangel liegt vor, wenn eine zugesagte Funktion reproduzierbar von Leistungsbeschreibung, Dokumentation oder vereinbartem Service-Level abweicht. Roadmap-, Preview- und Beta-Funktionen sind nur geschuldet, wenn sie ausdrücklich in den Tarif aufgenommen wurden.
+5.1 Die Mängelbeurteilung richtet sich nach dem geschuldeten Leistungsumfang und dem einschlägigen gesetzlichen Vertragstyp. Bei Verbraucherverträgen über digitale Produkte müssen die subjektiven und objektiven Anforderungen sowie die Integrationsanforderungen nach Paragraf 327e BGB und die Aktualisierungspflichten nach Paragraf 327f BGB erfüllt sein. Gesetzliche Rechte werden weder auf ausdrücklich zugesagte Funktionen noch auf reproduzierbare Fehler beschränkt.
 
 5.2 Die Kundin oder der Kunde meldet Fehler mit Mandant, Nutzerrolle, Zeitpunkt, Arbeitsschritten, Fehlermeldung und verfügbaren Protokollen. Die Anbieterin darf zunächst einen zumutbaren Workaround bereitstellen, muss die dauerhafte Abhilfe aber innerhalb der dem Schweregrad entsprechenden Frist verfolgen.
 
@@ -90,7 +94,7 @@ Weitere Hinweise und ausführliche Praxis-Erläuterungen in der README dieser Vo
 
 8.1 Die Anbieterin schuldet eine Verfügbarkeit des Dienstes von [vereinbarte Verfügbarkeit in Prozent je Abrechnungsmonat]. In die Berechnung fließen angekündigte Wartungsfenster, höhere Gewalt und Ausfälle außerhalb ihres Verantwortungsbereichs nicht ein, soweit diese Ausnahmen im Leistungsplan transparent beschrieben sind.
 
-8.2 Die Anbieterin darf Funktionen, Sicherheitsarchitektur und Schnittstellen mit angemessener Vorankündigung ändern, solange sie den vertraglich geschuldeten Leistungskern nicht entwertet.
+8.2 Änderungen digitaler Produkte gegenüber Verbrauchern richten sich nach Paragraf 327r BGB. Über die Vertragserhaltung hinausgehende Änderungen setzen einen vertraglich vorgesehenen triftigen Grund [konkreten Grund eintragen], Kostenfreiheit und klare Information voraus. Bei mehr als unerheblicher Beeinträchtigung sind Vorabinformation auf dauerhaftem Datenträger und das gesetzliche Beendigungsrecht zu beachten, soweit nicht die gesetzliche Ausnahme für die unveränderte Weiternutzung greift. Zwingende Rechte werden nicht durch eine allgemeine Funktionsänderungsklausel ersetzt.
 
 8.3 Kundendaten bleiben der Kundin oder dem Kunden zugeordnet; Export, Löschung und Herausgabe nach Vertragsende werden in einem klaren Zeitraum beschrieben.
 

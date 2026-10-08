@@ -36,7 +36,7 @@ Verfahrensbevollmächtigte: [Kanzlei, Anschrift, beA, Az.]
 
 1.1 Namens und in Vollmacht der Schuldnerin wird beantragt, über das Vermögen der Schuldnerin das Insolvenzverfahren zu eröffnen.
 
-1.2 Zugleich wird beantragt, Eigenverwaltung anzuordnen und im Eröffnungsverfahren vorläufige Eigenverwaltung nach § 270b InsO anzuordnen.
+1.2 Zugleich wird beantragt, bei Eröffnung Eigenverwaltung nach den Paragrafen 270 und 270f InsO anzuordnen und im Eröffnungsverfahren einen vorläufigen Sachwalter nach Paragraf 270b InsO zu bestellen.
 
 1.3 Als vorläufiger Sachwalter wird [Name, Kanzlei, Anschrift] vorgeschlagen. Die Unabhängigkeitserklärung, Sachkundeangaben und Erreichbarkeit sind als Anlage 2 beigefügt.
 
@@ -154,7 +154,7 @@ Leitsatz: Die Darstellung dokumentiert je Verhandlungspartner den erreichten Sta
 
 7.3.4 Mit [Betriebsrat oder Belegschaft] wird der Stand zu [Personalmaßnahmen, Insolvenzgeld-Kommunikation, Interessenausgleich] dokumentiert.
 
-7.3.5 Schriftliche Zusagen werden mit [Erklärender, Datum, Form] belegt; mündliche Aussagen werden als unverbindlich gekennzeichnet.
+7.3.5 Zusagen werden mit Erklärendem, Datum, Inhalt, Form, Bindungswillen und Auszahlungsvoraussetzungen belegt. Bei mündlichen Erklärungen werden Gesprächsvermerk und Bestätigung angefordert; die fehlende Schriftform allein bedeutet nicht stets fehlende Bindung. Eine unverbindliche Erwartung wird nicht als zugesagte Finanzierung ausgewiesen.
 
 7.4 Ansatz zu Anlage 7: Vorkehrungen zur Erfüllung insolvenzrechtlicher Pflichten (§ 270a Abs. 1 Nr. 4 InsO)
 

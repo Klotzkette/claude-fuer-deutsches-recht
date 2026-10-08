@@ -96,6 +96,8 @@ Weitere Hinweise und ausführliche Praxis-Erläuterungen in der README dieser Vo
 
 8.4 Das Widerrufsrecht wird nur dort ausgeschlossen, wo ein gesetzlicher Ausnahmetatbestand des § 312g Abs. 2 BGB greift, etwa bei entsiegelten Hygieneartikeln oder bei nach Kundenspezifikation angefertigten Waren; ein pauschaler Ausschluss erfolgt nicht.
 
+8.5 Für über unsere Online-Benutzeroberfläche geschlossene Fernabsatzverträge steht während der Widerrufsfrist unter [Adresse und Position der Funktion] die hervorgehobene Funktion „Vertrag widerrufen“ bereit. Dort können Sie Ihren Namen, den betroffenen Vertrag oder Vertragsteil und den elektronischen Kontaktweg für die Bestätigung angeben oder bestätigen. Mit „Widerruf bestätigen“ übermitteln Sie Ihre Erklärung. Sie erhalten unverzüglich eine Eingangsbestätigung auf einem dauerhaften Datenträger mit Inhalt, Datum und Uhrzeit. Die rechtzeitige Absendung über diese Funktion wahrt die Widerrufsfrist nach Paragraf 356a Absatz 5 BGB. Andere gesetzlich zulässige Widerrufswege bleiben möglich.
+
 ### 9. Anwendbares Recht und Streitbeilegung
 
 9.1 Diese Bedingungen sind für die Verwendung in Deutschland nach deutschem Recht formuliert.

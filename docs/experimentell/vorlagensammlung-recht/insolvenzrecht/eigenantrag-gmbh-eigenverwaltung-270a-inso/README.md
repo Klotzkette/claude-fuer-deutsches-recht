@@ -20,7 +20,7 @@ Lizenz: Apache-2.0 OR MIT.
 ## Einschlägige Normen
 
 - InsO § 13 Abs. 1 (Eröffnungsantrag und Gläubigerverzeichnis), § 15a (Antragspflicht), § 15b (Zahlungen bei Insolvenzreife), § 17 bis § 19 (Eröffnungsgründe)
-- InsO § 270 (Eigenverwaltung), § 270a Abs. 1 (Eigenverwaltungsplanung), § 270a Abs. 2 (Erklärungen), § 270b (vorläufige Eigenverwaltung), § 270c (vorläufiger Sachwalter), § 270e und § 272 (Aufhebung)
+- InsO § 270 (Eigenverwaltung), § 270a Abs. 1 (Eigenverwaltungsplanung), § 270a Abs. 2 (Erklärungen), § 270b (vorläufige Eigenverwaltung), Paragraf 270c (weitere Anordnungen), Paragraf 270f (Eigenverwaltung bei Eröffnung), § 270e und § 272 (Aufhebung)
 - HGB §§ 325 bis 328 (Offenlegung von Rechnungslegungsunterlagen als § 270a-Abs.-2-Erklärung)
 
 ## Anwendungsbereich
@@ -41,7 +41,7 @@ Der Mustertext bildet § 270a InsO vollständig als Antragsarchitektur ab. Jeder
 
 Eigenverwaltung ist kein Etikett, sondern ein belastbares Steuerungsmodell. Die Geschäftsleitung muss zeigen, dass sie insolvenzrechtliche Pflichten erfüllen kann: tägliche Liquidität, Zahlungsfreigabe, Masseschutz, Beraterrollen, Reporting, Arbeitnehmerkommunikation und Gläubigerkontakte.
 
-Fristen und Beweisführung: § 270b Abs. 1 InsO setzt eine vollständige und schlüssige Eigenverwaltungsplanung voraus. Bei behebbaren Mängeln kann das Gericht die vorläufige Eigenverwaltung einstweilen anordnen und eine Nachbesserungsfrist setzen, die 20 Tage nicht übersteigt (§ 270b Abs. 2 InsO). Diese Frist ist keine Planungsreserve; die wesentlichen Unterlagen müssen bei Antragstellung stehen.
+Fristen und Beweisführung: § 270b Abs. 1 InsO setzt eine vollständige und schlüssige Eigenverwaltungsplanung voraus. Bei behebbaren Mängeln kann das Gericht die vorläufige Eigenverwaltung einstweilen anordnen und eine Nachbesserungsfrist setzen, die 20 Tage nicht übersteigt (Paragraf 270b Absatz 1 Satz 2 InsO). Diese Frist ist keine Planungsreserve; die wesentlichen Unterlagen müssen bei Antragstellung stehen.
 
 Amtliche Quellen:
 
@@ -54,7 +54,7 @@ Amtliche Quellen:
 
 Reihenfolge der Erstellung: Am Anfang steht der sechsmonatige Finanzplan (Abschnitt 7.1 der Vorlage), weil ohne gesicherte Durchfinanzierung weder Konzept noch Kostenvergleich tragen. Danach werden Konzept, Verhandlungsstand, Vorkehrungen und Vergleichsrechnung ausgearbeitet und erst zum Schluss der Antragstext geschrieben. Die Erklärungen nach § 270a Abs. 2 InsO (Anlage 10) werden am Tag der Einreichung auf den letzten Stand gebracht, weil bereits ein einzelner neuer Beitragsrückstand die gerichtliche Bewertung verändern kann.
 
-Typische gerichtliche Beanstandungen und Antwortlinie: Erstens ein Finanzplan ohne belastbare Finanzierungsquellen — Antwortlinie ist die Nachreichung von Kreditzusagen, Gesellschaftererklärungen und Bankbestätigungen innerhalb der Nachbesserungsfrist des § 270b Abs. 2 InsO statt bloßer Plausibilitätsbehauptungen. Zweitens Rückstände bei Löhnen, Steuern oder Sozialversicherung — Antwortlinie ist die vollständige Offenlegung nach § 270a Abs. 2 Nr. 1 InsO mit Darlegung, wie die Rückstände im Verfahren behandelt werden und warum Gläubigernachteile nicht zu erwarten sind. Drittens ein Sachwaltervorschlag ohne erkennbare Unabhängigkeit — Antwortlinie ist die Vorlage der Unabhängigkeitserklärung und der Abstimmung mit den wesentlichen Gläubigern, nicht das Beharren auf der Person.
+Typische gerichtliche Beanstandungen und Antwortlinie: Erstens ein Finanzplan ohne belastbare Finanzierungsquellen — Antwortlinie ist die Nachreichung von Kreditzusagen, Gesellschaftererklärungen und Bankbestätigungen innerhalb der Nachbesserungsfrist nach Paragraf 270b Absatz 1 Satz 2 InsO statt bloßer Plausibilitätsbehauptungen. Zweitens Rückstände bei Löhnen, Steuern oder Sozialversicherung — Antwortlinie ist die vollständige Offenlegung nach § 270a Abs. 2 Nr. 1 InsO mit Darlegung, wie die Rückstände im Verfahren behandelt werden und warum Gläubigernachteile nicht zu erwarten sind. Drittens ein Sachwaltervorschlag ohne erkennbare Unabhängigkeit — Antwortlinie ist die Vorlage der Unabhängigkeitserklärung und der Abstimmung mit den wesentlichen Gläubigern, nicht das Beharren auf der Person.
 
 Häufige Fehler: Der Kostenvergleich nach § 270a Abs. 1 Nr. 5 InsO wird als Nebensache behandelt, obwohl seine Unvollständigkeit die gesamte Planung unschlüssig machen kann. Das Rechnungswesen wird erst nach Antragstellung auf den Stichtagsschnitt umgestellt, sodass Masseverbindlichkeiten und Insolvenzforderungen vermischt werden. Die Geschäftsführung verwechselt die Eigenverwaltung mit einem Moratorium und verschiebt die Antragstellung über die Fristen des § 15a InsO hinaus.
 
@@ -65,4 +65,3 @@ Häufige Fehler: Der Kostenvergleich nach § 270a Abs. 1 Nr. 5 InsO wird als Neb
 - [Antrag einer GmbH auf Schutzschirmverfahren nach § 270d InsO](../schutzschirmverfahren-gmbh-270d-inso/) — Schutzschirmvariante bei nur drohender Zahlungsunfähigkeit oder Überschuldung mit Bescheinigung nach § 270d Abs. 1 InsO.
 - [Dokumentation der Fortführungsprognose (§ 19 Abs. 2 InsO) — Arbeitsvorlage der Geschäftsführung](../fortfuehrungsprognose-dokumentation-19-inso/) — Dokumentation der Fortführungsprognose für die Überschuldungsprüfung nach § 19 InsO.
 - [Insolvenzplan — darstellender und gestaltender Teil (§§ 217 ff. InsO)](../insolvenzplan-darstellender-und-gestaltender-teil/) — Insolvenzplan als typisches Zielinstrument der Eigenverwaltung.
-

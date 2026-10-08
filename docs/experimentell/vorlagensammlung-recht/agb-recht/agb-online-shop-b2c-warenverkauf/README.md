@@ -79,3 +79,7 @@ Vor Freischaltung sind Zielmärkte, Warensortiment, Unternehmeridentität, Liefe
 ## Lizenz
 
 Apache-2.0 OR MIT.
+
+## 1. Elektronischer Widerruf, geprüft am 9. Oktober 2026
+
+Seit dem 19. Juni 2026 ist bei einschlägigen Online-Fernabsatzverträgen die [Widerrufsfunktion nach Paragraf 356a BGB](https://www.gesetze-im-internet.de/bgb/__356a.html) bereitzustellen. Abschnitt 8.5 beschreibt ihren Ablauf. Die Funktion muss technisch vorhanden, während der Frist zugänglich und mit einer unverzüglichen Bestätigung verbunden sein. Widerrufsbelehrung und Formular allein ersetzen sie nicht. Bestehende sonstige Widerrufswege dürfen nicht ausgeschlossen werden. [Mitteilung der Bundesregierung zum Inkrafttreten](https://www.bundesregierung.de/breg-de/suche/besserer-verbraucherschutz-2382536).

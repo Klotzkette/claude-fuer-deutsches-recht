@@ -74,3 +74,9 @@ Häufige Fehler bei dieser Vorlage: rückwirkende Zielvereinbarung ohne Motivati
 ## Warnung
 
 Diese Vorlage ist ein Experiment — unverbindlich, keine Rechtsberatung. Niemand haftet für ihre Verwendung. Nutzung ausschließlich auf eigene Gefahr.
+
+## 1. Zielmitteilung, geprüft am 9. Oktober 2026
+
+[BAG, 22. April 2026, 10 AZR 28/25](https://www.bundesarbeitsgericht.de/entscheidung/10-azr-28-25/) unterscheidet intern festgelegte Unternehmensziele von der rechtzeitigen Mitteilung an den Arbeitnehmer. Unternehmensbezogene Ziele müssen ihre Motivationsfunktion erfüllen können; interne Kenntnis der Geschäftsleitung genügt nicht. Eine reine Gewinnbeteiligung ohne Zielvorgabe ist gesondert einzuordnen.
+
+Die Alternative in Abschnitt 2.4 darf nur anstelle einer Zielvereinbarung gewählt werden, wenn eine einseitige Vorgabe vereinbart werden soll. Sie ist kein nachträgliches Ersatzrecht bei gescheiterten Verhandlungen. Mitteilung, Gewichtung und Berechnungsparameter mit Zugangsnachweis sichern. Nach Ablauf der Periode kann eine fehlende Zielvorgabe nicht durch rückwirkende Zielsetzung geheilt werden. Schadensersatz und eine noch mögliche Billigkeitskontrolle sind verschiedene Anspruchswege.

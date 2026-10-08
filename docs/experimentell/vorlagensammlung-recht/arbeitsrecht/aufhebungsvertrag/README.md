@@ -46,7 +46,7 @@ Fristen und Form: Der Aufhebungsvertrag ist nur mit beidseitiger eigenhändiger 
 
 ## Praxisfallen
 
-- Die Urlaubsanrechnung setzt eine unwiderrufliche Freistellung mit eindeutiger zeitlicher Festlegung des Urlaubs und Fortzahlung der Vergütung voraus; bei nur widerruflicher Freistellung wird der Urlaubsanspruch nicht erfüllt und ist bei Beendigung nach 7. Abs. 4 BUrlG abzugelten.
+- Die Urlaubsanrechnung setzt eine unwiderrufliche Freistellung mit eindeutiger zeitlicher Festlegung des Urlaubs und Fortzahlung der Vergütung voraus; bei nur widerruflicher Freistellung wird der Urlaubsanspruch nicht erfüllt und ist bei Beendigung nach Paragraf 7 Absatz 4 BUrlG abzugelten.
 - Ein gesetzlicher Anspruch auf eine Dankes- und Wunschformel besteht nach der BAG-Rechtsprechung nicht — gerade deshalb gehört die ausdrückliche Regelung in den Aufhebungsvertrag. Das Zeugnis muss wahr und wohlwollend zugleich sein; eine vereinbarte Note bindet den Arbeitgeber vertraglich.
 - Bei Führungskräften werden Bonus, Long-Term-Incentives, Dienstwagen, betriebliche Altersversorgung, Directors-and-Officers-Versicherung, Organstellung und nachvertragliche Wettbewerbsverbote häufig übersehen. Diese Punkte müssen vor Unterzeichnung anhand der Planwerke und Organunterlagen geprüft werden.
 - Eine Sprinterklausel ist wirtschaftlich nur brauchbar, wenn klar geregelt ist, welcher Anteil ersparter Vergütung in die Abfindung fließt und wann die Erhöhung fällig wird.

@@ -45,15 +45,15 @@ Namens und in Vollmacht der Schuldnerin (Vollmacht anbei, Anlage 1, Position 1) 
 
 1. Über das Vermögen der Schuldnerin wird das **Insolvenzverfahren eröffnet** (§ 13 InsO).
 
-2. Die **Eigenverwaltung wird angeordnet** (§§ 270, 270b InsO).
+2. Mit Eröffnung wird die Eigenverwaltung nach den Paragrafen 270 und 270f InsO angeordnet.
 
-3. Für das Eröffnungsverfahren wird **vorläufige Eigenverwaltung** nach § 270c InsO angeordnet und ein **vorläufiger Sachwalter** bestellt (§ 21 Abs. 2 Satz 1 Nr. 1a InsO).
+3. Für das Eröffnungsverfahren wird durch Bestellung eines vorläufigen Sachwalters die vorläufige Eigenverwaltung nach Paragraf 270b InsO angeordnet. Zusätzlich benötigte Anordnungen nach Paragraf 270c InsO werden mit ihrem konkreten Gegenstand gesondert beantragt.
 
 4. Als **vorläufige(r) Sachwalter(in)** wird vorgeschlagen: **[Name, Kanzlei, Anschrift]** (Sachkundenachweis und Unabhängigkeitserklärung anbei, Anlage 1, Position 2).
 
 5. *[Alternativbaustein — Vollstreckungseinstellung:]* Bis zur Entscheidung über den Eröffnungsantrag wird angeregt, die Zwangsvollstreckung gegen die Schuldnerin nach § 21 Abs. 2 Satz 1 Nr. 3 InsO einstweilen einzustellen.
 
-6. *[Alternativbaustein — Insolvenzplan:]* Die Schuldnerin beabsichtigt, einen Insolvenzplan nach §§ 217 ff. InsO einzureichen; auf den beigefügten Planvorentwurf (Anlage 1, Position 7) wird Bezug genommen.
+6. *[Alternativbaustein — Insolvenzplan:]* Die Schuldnerin beabsichtigt, einen Insolvenzplan nach §§ 217 ff. InsO einzureichen; auf den beigefügten Planvorentwurf (Anlage 1, Position 6) wird Bezug genommen.
 
 #### Begründung
 
@@ -63,13 +63,13 @@ Die Schuldnerin ist [zahlungsunfähig (§ 17 InsO) / drohend zahlungsunfähig (�
 
 - **Zahlungsunfähigkeit (§ 17 InsO):** [Darstellung der Liquiditätslücke; fällige, nicht beglichene Verbindlichkeiten gegenüber Anzahl Gläubigern über Betrag EUR seit Datum; Liquiditätslücke von mehr als 10 % der fälligen Verbindlichkeiten und voraussichtlich nicht kurzfristig behebbar.]
 - **Drohende Zahlungsunfähigkeit (§ 18 InsO):** [Darstellung der Finanzplanung; mit überwiegender Wahrscheinlichkeit werden fällige Verbindlichkeiten in Höhe von Betrag EUR ab Datum nicht erfüllt werden können.]
-- **Überschuldung (§ 19 InsO):** [Darstellung des Überschuldungsstatus: negatives Eigenkapital in Höhe von Betrag EUR laut Fortführungsbilanz zum Datum; Fortführungsprognose negativ, weil Tatsachen.]
+- Überschuldung (Paragraf 19 InsO): [Fortführung für die nächsten zwölf Monate nicht überwiegend wahrscheinlich, weil konkrete Finanzierungs- und Geschäftsannahmen; Vermögen zu den danach maßgeblichen Liquidationswerten Betrag EUR, einzubeziehende Verbindlichkeiten Betrag EUR, Deckungsfehlbetrag Betrag EUR; nachrangige Ansprüche nur bei erfüllten gesetzlichen Voraussetzungen ausnehmen.] Ein handelsbilanzieller Fehlbetrag ersetzt weder die Fortbestehensprognose noch den insolvenzrechtlichen Status.
 
 Zum Nachweis werden vorgelegt: [z. B. BWA zum Datum (Anlage 1, Position 3), Liquiditätsplanung (Anlage 1, Position 4), Jahresabschluss zum Datum (Anlage 1, Position 5)].
 
 ##### 2. Eigenverwaltungsplanungsbericht (§ 270a Abs. 1 InsO)
 
-Der Eigenverwaltungsplanungsbericht ist als Anlage 1, Position 6 beigefügt. Er enthält:
+Die Eigenverwaltungsplanung ist als Anlage 2 beigefügt. Sie enthält:
 
 1. **Darstellung des Unternehmens:** [Geschäftsmodell, Struktur, Größe, Mitarbeiterzahl, Umsatz letzter abgeschlossener Geschäftsjahre].
 
@@ -77,11 +77,11 @@ Der Eigenverwaltungsplanungsbericht ist als Anlage 1, Position 6 beigefügt. Er 
 
 3. **Sanierungskonzept / Restrukturierungsziel:** [Beschreibung des Sanierungsziels: Betriebsfortführung, Insolvenzplan, übertragende Sanierung oder geordnete Abwicklung; Zeithorizont].
 
-4. **Finanzierungskonzept (§ 270a Abs. 1 Nr. 1 InsO):** [Darstellung der Massefinanzierung für die ersten Anzahl Monate: verfügbare Mittel Betrag, Massekreditrahmen Betrag (Anlage 1, Position 4a), Avalkredite, Eigenkapitalzusagen].
+4. Finanzierungskonzept (Paragraf 270a Absatz 1 Nummer 1 InsO): [Finanzierung des gewöhnlichen Geschäftsbetriebs und der Verfahrenskosten für sechs Monate ab Antragstellung; verfügbare Mittel, verbindliche Kreditrahmen, Auszahlungsvoraussetzungen und Eigenkapitalzusagen]. Die Finanzierungsnachweise sind als Anlage 1, Position 4 beigefügt.
 
-5. **Erklärung zur Masseunterdeckung:** Die Schuldnerin erklärt, dass keine Umstände bekannt sind, die erwarten lassen, dass die Eigenverwaltung zu Nachteilen für die Gläubiger führen wird (§ 270b Abs. 2 InsO). Insbesondere: Es besteht keine strafrechtliche Ermittlung gegen die Organe wegen Insolvenzdelikten; keine verdeckten Vermögensverlagerungen; die Buchführung ist ordnungsgemäß geführt worden.
+5. Besondere Umstände nach Paragraf 270b Absatz 2 InsO: [Finanzierungsunterdeckung, wesentliche Mehrkosten, Zahlungsrückstände, Vollstreckungs- oder Verwertungssperren und Offenlegungsverstöße jeweils konkret offenlegen oder ihr Nichtvorliegen nach Prüfung erklären]. Soweit solche Umstände bestehen, wird die Bereitschaft und Fähigkeit zur gläubigerorientierten Geschäftsführung durch [konkrete organisatorische und finanzielle Maßnahmen, Verantwortliche und Nachweise] belegt. Eine pauschale Versicherung fehlender Gläubigernachteile genügt dafür nicht.
 
-6. **Gläubigerbenachrichtigung (§ 270a Abs. 1 Nr. 3 InsO):** Die wesentlichen Gläubiger wurden über die beabsichtigte Insolvenzantragstellung und den Eigenantrag mit Eigenverwaltungsantrag am [Datum] in Kenntnis gesetzt (Benachrichtigungsdokumentation anbei, Anlage 1, Position 6a).
+6. Verhandlungsstand (Paragraf 270a Absatz 1 Nummer 3 InsO): [Gespräche mit Gläubigern, Beteiligten und Dritten, Gegenstand, Datum, verbindliche Zusage, Ablehnung oder noch offener Punkt]. Die Darstellung in Anlage 2, Abschnitt 3 ersetzt nicht erforderliche Zustimmungen; eine bloße Mitteilung über die bevorstehende Antragstellung ersetzt umgekehrt keine Darstellung des Verhandlungsstands.
 
 7. **Vollständige Eigenverwaltungsplanung und Pflichterklärungen:** Die Eigenverwaltungsplanung mit den fünf Bestandteilen des § 270a Abs. 1 InsO ist nach den Ansätzen der Anlage 2 ausgearbeitet; die Erklärungen nach § 270a Abs. 2 InsO sind als Anlage 3 beigefügt.
 
@@ -93,11 +93,11 @@ Als vorläufige(r) Sachwalter(in) wird vorgeschlagen: **[Name, Kanzlei]**. Die P
 
 Beigefügt sind:
 
-- **Gläubigerverzeichnis** (Anlage 1, Position 8) mit Namen, Anschriften und Forderungsbeträgen der bekannten Gläubiger,
-- **Vermögensübersicht** (Anlage 1, Position 9) mit einer Darstellung der Vermögenswerte und Verbindlichkeiten zum [Datum],
-- **Finanzplan** (Anlage 1, Position 4) für die ersten [Anzahl] Monate nach Antragstellung.
+- **Gläubigerverzeichnis** (Anlage 1, Position 7) mit Namen, Anschriften und Forderungsbeträgen der bekannten Gläubiger,
+- **Vermögensübersicht** (Anlage 1, Position 8) mit einer Darstellung der Vermögenswerte und Verbindlichkeiten zum [Datum],
+- Finanzplan (Anlage 2, Abschnitt 1) für sechs Monate ab Antragstellung mit Finanzierungsnachweisen (Anlage 1, Position 4).
 
-*[Alternativbaustein — unvollständige Verzeichnisse:]* Die Verzeichnisse können zum jetzigen Zeitpunkt noch nicht vollständig vorgelegt werden. Die Schuldnerin verpflichtet sich zur Nachreichung innerhalb von [Anzahl] Werktagen nach Antragstellung (§ 13 Abs. 3 InsO analog).
+[Nur bei tatsächlich unvollständigem Antrag:] Noch fehlen [genau bezeichnete Angaben oder Unterlagen]. Wir bitten um gerichtliche Bestimmung einer Frist zur Behebung dieser Mängel nach Paragraf 13 Absatz 3 InsO; die Nachreichung ist bis [konkretes Datum] vorgesehen. Damit wird weder eine selbst gesetzte Nachfrist noch eine Verlängerung der Antragspflichten nach Paragraf 15a InsO beansprucht.
 
 ##### 5. Verfahrenshinweise
 
@@ -107,7 +107,7 @@ Beigefügt sind:
 
 3. Um Mitteilung des Aktenzeichens und des Sachstands wird gebeten.
 
-4. Sollte das Gericht die Eigenverwaltungsplanung für unvollständig oder mangelhaft halten, wird um einen Hinweis nach § 270b Abs. 2 InsO gebeten; die Schuldnerin wird behebbare Mängel innerhalb der gerichtlich gesetzten Nachbesserungsfrist, die 20 Tage nicht überschreiten soll, beseitigen.
+4. Bei behebbaren Planungsmängeln wird um Prüfung einer einstweiligen Anordnung nach Paragraf 270b Absatz 1 Satz 2 InsO gebeten. Die Schuldnerin wird die Mängel innerhalb einer hierfür gerichtlich gesetzten Frist von höchstens 20 Tagen beseitigen. Auf diese Möglichkeit wird die rechtzeitige Stellung des Eröffnungsantrags nicht verschoben.
 
 [Unterschrift]
 Rechtsanwalt / Rechtsanwältin [Name]
@@ -118,13 +118,28 @@ Rechtsanwalt / Rechtsanwältin [Name]
 
 | Anlage | Bezeichnung |
 | --- | --- |
-| Anlage 1 | Vollmacht und Vertretungsnachweis |
+| Anlage 1 | Begleitunterlagen mit dem nachstehenden Positionsverzeichnis |
 | Anlage 2 | Eigenverwaltungsplanung nach § 270a Abs. 1 InsO (Anlagen-Ansätze) |
 | Anlage 3 | Erklärungen nach § 270a Abs. 2 InsO (Erklärungsgerüst) |
 
+### Anlage 1. Begleitunterlagen
+
+| Position | Unterlage |
+| --- | --- |
+| 1 | Vollmacht und Vertretungsnachweis |
+| 2 | Sachkunde- und Unabhängigkeitsnachweis des vorgeschlagenen Sachwalters |
+| 3 | BWA und aktuelle betriebswirtschaftliche Unterlagen |
+| 4 | Liquiditätsstatus und Belege zu den Finanzierungsquellen der Anlage 2 |
+| 5 | Jahresabschluss und gegebenenfalls Überschuldungsstatus |
+| 6 | Insolvenzplanvorentwurf, sofern vorhanden |
+| 7 | Gläubigerverzeichnis mit den gesondert auszuweisenden Forderungen und Richtigkeits- und Vollständigkeitserklärung nach Paragraf 13 Absatz 1 InsO |
+| 8 | Vermögensübersicht |
+
+Die vollständige Eigenverwaltungsplanung wird einheitlich als Anlage 2 geführt.
+
 ### Anlage 2 — Eigenverwaltungsplanung nach § 270a Abs. 1 InsO (Anlagen-Ansätze)
 
-Diese Anlage formuliert die Eigenverwaltungsplanung aus, die in der Begründung als Anlage 1, Position 6 bezeichnet ist. Jeder der fünf Bestandteile des § 270a Abs. 1 InsO wird als eigener Ansatz ausgearbeitet und von der Geschäftsleitung datiert freigegeben.
+Diese Anlage enthält die fünf Bestandteile der Eigenverwaltungsplanung nach Paragraf 270a Absatz 1 InsO. Jeder Bestandteil wird ausgearbeitet und von der Geschäftsleitung datiert freigegeben; die Finanzierungsbelege sind in Anlage 1, Position 4 nachgewiesen.
 
 1. Finanzplan über sechs Monate (§ 270a Abs. 1 Nr. 1 InsO)
 

@@ -86,3 +86,9 @@ Die Kündigungsstrecke muss technisch und textlich vom Retention-Marketing getre
 ## Lizenz
 
 Apache-2.0 OR MIT.
+
+## 1. Verbraucherfassung, geprüft am 9. Oktober 2026
+
+Die [elektronische Widerrufsfunktion nach Paragraf 356a BGB](https://www.gesetze-im-internet.de/bgb/__356a.html) und die [Kündigungsfunktion nach Paragraf 312k BGB](https://www.gesetze-im-internet.de/bgb/__312k.html) sind getrennte Abläufe. Abschnitt 2.5 ersetzt weder die gesonderte Widerrufsbelehrung noch eine funktionierende Oberfläche. Gesamtpreise, Zugangsnachweise und Bestätigung auf dauerhaftem Datenträger vor Veröffentlichung praktisch prüfen.
+
+[Paragraf 327e BGB](https://www.gesetze-im-internet.de/bgb/__327e.html) erfasst auch objektive Anforderungen an digitale Produkte. Abweichungen verlangen die gesonderten Voraussetzungen des [Paragrafen 327h BGB](https://www.gesetze-im-internet.de/bgb/__327h.html); allgemeine AGB genügen nicht. [Paragraf 327r BGB](https://www.gesetze-im-internet.de/bgb/__327r.html) begrenzt Änderungen während dauerhafter Bereitstellung. Diese Regeln nicht pauschal als unmittelbar geltendes B2B-Recht ausgeben. Die Preisänderungsklausel setzt nun eine ausdrückliche Einigung voraus.

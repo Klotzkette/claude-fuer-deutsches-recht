@@ -82,7 +82,7 @@ Der Bearbeitungsstand ist [Entwurf / Verhandlung / Unterzeichnung / Vollzug], Da
 
 7.2 Die Abrechnung erfolgt [monatlich nachträglich / jährlich im Voraus / gemischt nach Anlage 4]. Rechnungen sind binnen [Anzahl] Kalendertagen nach Zugang zahlbar.
 
-7.3 Preisänderungen sind frühestens nach Ablauf von [Anzahl] Monaten zulässig und müssen der Kundin [Anzahl] Monate vor Wirksamwerden in Textform mitgeteilt werden. Übersteigt die Erhöhung [Prozentsatz] Prozent innerhalb von zwölf Monaten, darf die Kundin zum Wirksamwerden der Erhöhung außerordentlich kündigen.
+7.3 Preisänderungen bedürfen einer ausdrücklichen Vereinbarung der Parteien. Ein Änderungsangebot nennt den neuen Preis, die betroffene Leistung und den frühesten Wirksamkeitszeitpunkt. Schweigen, weitere Nutzung oder das Ausbleiben einer Kündigung gelten nicht als Annahme. Ohne Einigung bleibt der vereinbarte Preis bis zur wirksamen Vertragsbeendigung maßgeblich; bestehende Kündigungsrechte bleiben unberührt.
 
 ### 8. Laufzeit, Kündigung und Exit
 

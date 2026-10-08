@@ -23,7 +23,7 @@ Lizenz: Apache-2.0 OR MIT.
 - § 7 Abs. 3 BUrlG — Befristung auf das Kalenderjahr und Übertragungszeitraum; Verfall nur nach erfüllter Aufforderungs- und Hinweisobliegenheit des Arbeitgebers (Rechtsprechungslinie von EuGH und BAG — in der Vorlage als Suchanker hinterlegt).
 - § 11 Abs. 1 Satz 1 BUrlG — Referenzzeitraum von dreizehn Wochen für den Tageswert; Überstundenvergütung bleibt außer Betracht.
 - § 208 Abs. 1 SGB IX (Sozialgesetzbuch Neuntes Buch) — Zusatzurlaub schwerbehinderter Menschen von fünf Arbeitstagen bei Fünftagewoche.
-- §§ 286 Abs. 1, 288 Abs. 1 BGB — Verzug und Verzugszinsen von fünf Prozentpunkten über dem Basiszinssatz; §§ 195, 199 BGB — Verjährung mit hinausgeschobenem Beginn bei unterlassener Belehrung.
+- Paragrafen 286 Absatz 1 und 288 Absatz 1 BGB für Verzug und Zinsen; Paragrafen 195 und 199 BGB für die Geldforderung auf Abgeltung, deren Verjährung grundsätzlich mit Schluss des Beendigungsjahres beginnt.
 - § 2 Abs. 1 Nr. 3 Buchst. a, § 46 Abs. 2 ArbGG — Zuständigkeit und Verfahren vor dem Arbeitsgericht.
 
 ## Anwendungsbereich
@@ -44,9 +44,9 @@ Fristen und Form: Die Urlaubsabgeltung ist eine reine Geldforderung und unterlie
 
 Vorgehensreihenfolge: Unmittelbar nach der Beendigung die Ausschlussfrist notieren und die Abgeltung beziffert in Textform geltend machen — der Abgeltungsanspruch ist reine Geldforderung, wird mit Beendigung sofort fällig und verfällt nach gewöhnlichen Verfallklauseln. Dann die offenen Tage jahrgangsweise nach dem Rechenschema in Anlage 1 der Vorlage aufbauen und dabei für jedes Jahr die Hinweisobliegenheiten der Arbeitgeberseite abfragen: Ohne Aufforderung und Verfallhinweis sind auch Alt-Ansprüche weder verfallen noch verjährt — das ist der größte Hebel der Klage.
 
-Typische Einwände der Arbeitgeberseite und Antwortlinien: (1) „Der Urlaub ist am 31. März verfallen" — Verfall nach § 7 Abs. 3 BUrlG setzt erfüllte Aufforderungs- und Hinweisobliegenheiten voraus; deren Fehlen hält die Ansprüche offen. (2) „Alt-Ansprüche sind verjährt" — die Verjährung beginnt erst mit dem Schluss des Jahres, in dem ordnungsgemäß belehrt wurde. (3) „Mit der Freistellung ist der Urlaub gewährt" — nur eine unwiderrufliche Freistellung unter eindeutiger Urlaubsanrechnung und Vergütungszusage erfüllt den Anspruch. (4) „Überstundenvergütung zählt nicht mit — und die Zulagen auch nicht" — Überstunden bleiben tatsächlich außen vor, dauerhafte Zulagen und Provisionen sind dagegen einzubeziehen (§ 11 Abs. 1 BUrlG). (5) „Bei Krankheit kein Urlaub" — Urlaubsansprüche entstehen auch bei Langzeiterkrankung; sie erlöschen erst fünfzehn Monate nach Ablauf des Urlaubsjahres.
+Typische Einwände getrennt bearbeiten: Urlaubsbestand, Verfall und Hinweise betreffen den Naturalanspruch vor Beendigung. Die Abgeltungsforderung verjährt dagegen grundsätzlich ab Schluss des Beendigungsjahres auch ohne vorherige Urlaubsbelehrung (BAG, 31. Januar 2023, 9 AZR 456/20). Bei Langzeiterkrankung vollständig erkrankte Jahre von Jahren mit vorheriger Arbeitsfähigkeit unterscheiden (BAG, 20. Dezember 2022, 9 AZR 245/19). Eine Urlaubsanrechnung durch widerrufliche Freistellung reicht nicht. Tageswert und Ausschlussfristen sind unabhängig davon zu belegen.
 
-Vergleichskorridor: Die Abgeltung wird in Beendigungsvergleichen häufig in die Gesamtabfindung eingerechnet oder gegen die Bestätigung der Urlaubsgewährung während der Freistellung getauscht; wegen der klaren Rechenbarkeit ist der Verhandlungsspielraum klein — gestritten wird faktisch über die Zahl der offenen Tage und die Obliegenheitserfüllung. Suchanker: „BAG Urlaub Verfall Mitwirkungsobliegenheiten Aufforderung Hinweis", „BAG Verjährung Urlaubsanspruch Beginn Belehrung", „BAG Urlaubsabgeltung Ausschlussfrist reine Geldforderung".
+Vergleich: Eine bloße Bestätigung tatsächlich nicht genommenen Urlaubs darf keinen Verzicht auf gesetzlichen Mindesturlaub im noch bestehenden Arbeitsverhältnis verdecken, auch nicht bei bis zum vereinbarten Ende fortdauernder Krankheit (BAG, 3. Juni 2025, 9 AZR 104/24). Ein bereits nach rechtlicher Beendigung entstandener Geldanspruch ist davon zu unterscheiden. Abfindung, Urlaubsgewährung und Abgeltung im Vergleich jeweils gesondert beziffern und zeitlich zuordnen.
 
 Häufige Fehler bei dieser Vorlage: Versäumen der Ausschlussfrist im Vertrauen auf die urlaubsrechtliche Unverfallbarkeit — die schützt den Anspruch im laufenden Arbeitsverhältnis, nicht die fällige Abgeltung; Berechnung mit Überstundenvergütung oder ohne dauerhafte Zulagen; falsche Zwölftelung bei Ausscheiden in der zweiten Jahreshälfte trotz vollen gesetzlichen Anspruchs; Übernahme der arbeitgeberseitigen Urlaubskonten ohne Prüfung der Hinweisobliegenheiten; vergessene Trennung von gesetzlichem Mindest- und vertraglichem Mehrurlaub mit abweichenden Verfallregeln.
 
@@ -60,3 +60,9 @@ Häufige Fehler bei dieser Vorlage: Versäumen der Ausschlussfrist im Vertrauen 
 
 ## Warnung
 Diese Vorlage ist ein Experiment — unverbindlich, keine Rechtsberatung. Niemand haftet für ihre Verwendung. Nutzung ausschließlich auf eigene Gefahr.
+
+## 1. Geprüfte Quellen am 9. Oktober 2026
+
+- [BAG, 31. Januar 2023, 9 AZR 456/20](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-456-20/): Verjährung des Abgeltungsanspruchs, nicht des Naturalurlaubs.
+- [BAG, 20. Dezember 2022, 9 AZR 245/19](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-245-19/): Verfall bei Langzeiterkrankung und Bedeutung vorheriger Mitwirkungsobliegenheiten.
+- [BAG, 3. Juni 2025, 9 AZR 104/24](https://www.bundesarbeitsgericht.de/entscheidung/9-azr-104-24/): Grenzen einer Urlaubsregelung im Prozessvergleich vor Vertragsende.

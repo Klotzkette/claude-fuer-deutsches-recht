@@ -1,6 +1,6 @@
 # Vorlagensammlung Recht
 
-Separate experimentelle Kopie, Stand v4.91.0 vom 11. August 2026. Die Vorlagen sind keine Plugins und werden nicht über einen Marketplace installiert. Die Vorlagen wurden übernommen; lediglich zwei leere Listenziffern wurden entfernt und die zugehörigen Downloadfassungen neu erstellt. Die Navigation und Komplettdownloads beziehen sich auf diese öffentliche Kopie. Herkunft und Übernahmeumfang stehen in [IMPORT.json](IMPORT.json). Keine erneute fachliche Rechtsstandsprüfung anlässlich der Übernahme.
+Separate experimentelle Kopie, Stand v4.92.0 vom 9. Oktober 2026. Die Vorlagen sind keine Plugins und werden nicht über einen Marketplace installiert. Diese Fassung korrigiert konkrete Rechts- und Quellenfehler insbesondere im Arbeits-, Bank-, Miet-, Insolvenz- und IT-Vertragsrecht. Der [Prüfbericht mit Quellen und Umfang](references/rechtsstandsabgleich-2026-10-09.md) trennt die gezielte fachliche Überarbeitung von den technischen Prüfungen über den vollständigen Bestand. Nicht alle 1094 Vorlagen wurden in dieser Runde einzeln und abschließend rechtlich geprüft. Herkunft und unveränderter ursprünglicher Importstand stehen in [IMPORT.json](IMPORT.json).
 
 Eine offene Sammlung von Vertrags-, Formular- und Schreibvorlagen zum deutschen Recht — jede Hauptvorlage liegt parallel als OpenDocument (`.odt`) und als Markdown (`.md`) vor. Die ODT-Datei ist die sofort bearbeitbare Arbeitsfassung, die Markdown-Datei ist die robuste, prüfbare Quellenfassung für Versionierung, Qualitätssicherung und weitere Bearbeitung.
 
@@ -97,7 +97,7 @@ beschreibt, wie veraltete Normbezüge, Formanforderungen, Übergangsregeln und
 Rechtsprechungsanker gezielt geprüft werden, ohne gute Vorlagen durch
 mechanische Ersetzungen zu verschlechtern.
 
-Der [Rechtsprechungsaudit 2026](references/rechtsprechungsaudit-2026.md) dokumentiert den vollständigen Abgleich aller 954 Hauptvorlagen und 113 Sondervorlagen mit der bis zum 9. August 2026 amtlich veröffentlichten, unmittelbar einschlägigen Rechtsprechung. Er nennt die tatsächlich eingepflegten Entscheidungen, ihre Vorlagenwirkung und die bewusst unverändert gebliebenen Bestände.
+Der aus dem Quellbestand übernommene [Rechtsprechungsaudit vom August 2026](references/rechtsprechungsaudit-2026.md) beschreibt den damaligen Bestand von 954 Hauptvorlagen und 113 Sondervorlagen. Er ist ein historischer Bericht und keine Bestätigung des heutigen Gesamtbestands. Der [Abgleich vom 9. Oktober 2026](references/rechtsstandsabgleich-2026-10-09.md) dokumentiert neu gefundene Fehler, konkrete Korrekturen und die Grenzen der erneuten Prüfung.
 
 ## Rechtsgebiete und Dokumenttypen
 

@@ -62,3 +62,9 @@ Häufige Fehler bei dieser Vorlage: falsche Fallgruppenwahl, die zur falschen Da
 - [Klage auf rückständige Arbeitsvergütung (§ 611a Abs. 2 BGB, §§ 2, 46 ArbGG)](../klage-arbeitsvergutung/) — allgemeine Vergütungsklage für feste Entgeltbestandteile.
 - [Aufhebungsvertrag (§ 623 BGB)](../aufhebungsvertrag/) — Beendigungsvereinbarung, in der offene Boni zeitanteilig geregelt werden sollten.
 - [Kündigungsschutzklage zum Arbeitsgericht (§ 4 KSchG)](../kuendigungsschutzklage/) — Parallelverfahren, dessen Ausgang für Stichtags- und Verzugsfragen vorgreiflich sein kann.
+
+## 1. Anspruchsweiche, geprüft am 9. Oktober 2026
+
+[BAG, 22. April 2026, 10 AZR 28/25](https://www.bundesarbeitsgericht.de/entscheidung/10-azr-28-25/) erfasst auch nicht rechtzeitig mitgeteilte Unternehmensziele. Im Vortrag daher nicht nur die interne Festlegung, sondern Inhalt und Zugang der Mitteilung darlegen. Bei endgültig ausgefallener Motivationsfunktion kommen Schadensersatz nach den Paragrafen 280 Absatz 1 und 3, 283 BGB sowie die Schätzung nach Paragraf 252 BGB und Paragraf 287 ZPO in Betracht. Eine nachträgliche Festlegung abgelaufener Ziele durch das Gericht stellt die Anreizfunktion nicht wieder her.
+
+Hundertprozentige Zielerreichung ist ein Ausgangspunkt der Schadensschätzung bei prognostisch erreichbaren Zielen, kein unwiderlegbarer Zahlungsautomatismus. Abweichende Umstände, Vertretenmüssen und ein nach dem jeweiligen Pflichtenprogramm überhaupt möglicher Mitverschuldensbeitrag sind getrennt zu behandeln. Eine reine Gewinnbeteiligung oder die nachträgliche Bemessung eines Ermessensbonus folgt nicht ungeprüft denselben Regeln.

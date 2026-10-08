@@ -66,7 +66,7 @@ Namens und in Vollmacht der Antragstellerin / des Antragstellers [bzw.: Ich] bea
 
 3. **Bedürftigkeit (§§ 114 Abs. 1, 115 ZPO).** Die Antragstellerin / Der Antragsteller kann die Kosten der Prozessführung nach den persönlichen und wirtschaftlichen Verhältnissen nicht, nur zum Teil oder nur in Raten aufbringen. Die vollständig ausgefüllte **Erklärung über die persönlichen und wirtschaftlichen Verhältnisse auf dem amtlichen Vordruck** (§ 117 Abs. 2–4 ZPO) ist nebst Belegen beigefügt. Zusammengefasst: monatliches Nettoeinkommen [Betrag in EUR]; Wohnkosten [Betrag in EUR]; Unterhaltspflichten gegenüber [Anzahl] Personen; verwertbares Vermögen [ist nicht vorhanden / besteht nur in Schonvermögen (§ 115 Abs. 3 ZPO i. V. m. § 90 SGB XII)].
 
-4. **Beiordnung (§ 121 ZPO).** Die Beiordnung ist geboten, weil [die Vertretung durch einen Anwalt gesetzlich vorgeschrieben ist (§ 78 Abs. 1 ZPO; § 121 Abs. 1 ZPO) / wegen der Schwierigkeit der Sach- und Rechtslage anwaltliche Vertretung erforderlich erscheint und die Gegenpartei anwaltlich vertreten ist (§ 121 Abs. 2 ZPO)].
+4. Beiordnung (Paragraf 121 ZPO). Die Beiordnung wird beantragt, weil [anwaltliche Vertretung gesetzlich vorgeschrieben ist / anwaltliche Vertretung wegen der konkret beschriebenen Schwierigkeit der Sach- oder Rechtslage erforderlich erscheint / die Gegenpartei durch einen Rechtsanwalt vertreten ist]. Bei fehlendem Anwaltszwang sind Erforderlichkeit und gegnerische anwaltliche Vertretung alternative, nicht kumulative Voraussetzungen nach Paragraf 121 Absatz 2 ZPO. Der gewählte Rechtsanwalt ist zur Vertretung bereit.
 
 2.3 Glaubhaftmachung und Beweisangebote
 

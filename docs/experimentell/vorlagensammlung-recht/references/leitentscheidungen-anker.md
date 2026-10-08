@@ -1,7 +1,8 @@
 # Leitentscheidungs-Anker
 
 Diese Liste ist ein Such-Gerüst, kein Zitatpool. Sie enthält nur Entscheidungen,
-für die hier ein amtlicher oder primärer Volltext verlinkt ist. Die Kurzangabe
+für die hier eine amtliche Quelle verlinkt ist. Pressemitteilungen sind als solche
+gekennzeichnet und ersetzen keinen Volltext. Die Kurzangabe
 beschreibt ausschließlich den in der Quelle belegten Prüfungsgegenstand; sie
 ersetzt weder die Lektüre der Entscheidung noch die Prüfung ihrer aktuellen
 Fortgeltung und ihrer Übertragbarkeit auf den Einzelfall.
@@ -23,7 +24,7 @@ Fortgeltung und ihrer Übertragbarkeit auf den Einzelfall.
 - [EuGH, Urteil vom 4. Mai 2023 — C-300/21, Österreichische Post](https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=de&num=C-300%2F21) — Voraussetzungen des immateriellen Schadensersatzes nach Art. 82 DSGVO.
 - [EuGH, Urteil vom 16. Juli 2020 — C-311/18, Schrems II](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0311) — Drittlandtransfers, Standardvertragsklauseln und erforderliche ergänzende Schutzmaßnahmen.
 - [EuGH, Urteil vom 3. Juli 2012 — C-128/11, UsedSoft](https://infocuria.curia.europa.eu/tabs/redirect/juris/documents.jsf?num=C-128%2F11) — Erschöpfung des Verbreitungsrechts bei auf Dauer überlassenen Softwarekopien.
-- [BGH, Urteil vom 15. November 2006 — XII ZR 120/04](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR_120-04.pdf?__blob=publicationFile&v=1) — werkvertragliche Einordnung eines Internet-System-Vertrags.
+- [BGH, Urteil vom 15. November 2006, XII ZR 120/04](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=38367) betrifft die zeitlich begrenzte Softwareüberlassung im ASP-Vertrag und deren mietrechtliche Einordnung. Die Entscheidung ist kein Beleg für die werkvertragliche Einordnung der Erstellung einer Internetpräsenz; laufende Gebrauchsüberlassung und gesondert beauftragter Herstellungserfolg sind zu unterscheiden.
 
 ## Familien-, Vorsorge- und Erbrecht
 

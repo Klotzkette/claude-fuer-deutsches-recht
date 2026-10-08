@@ -50,15 +50,17 @@ Namens und in Vollmacht der Klagepartei erheben wir Klage und werden beantragen,
 
 #### 1. Anträge
 
-1. Die Beklagten werden als Gesamtschuldner verurteilt, die im [Geschoss] des Anwesens [Straße Hausnummer, PLZ Ort] gelegene Wohnung Nr. [Wohnungsnummer], bestehend aus [Anzahl] Zimmern, Küche, Bad/WC, [Flur, Balkon, Kellerraum Nr., Stellplatz Nr., **zu räumen und geräumt an die Klagepartei herauszugeben**.]
+1. Die Beklagten werden verurteilt, die im [Geschoss] des Anwesens [Straße Hausnummer, PLZ Ort] gelegene Wohnung Nr. [Wohnungsnummer], bestehend aus [Anzahl] Zimmern, Küche, Bad/WC sowie [Flur, Balkon und gegebenenfalls konkret bezeichnete Nebenräume], zu räumen und geräumt an die Klagepartei herauszugeben.
 
 2. Die Beklagten werden als Gesamtschuldner verurteilt, an die Klagepartei **[Betrag in EUR]** nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz aus [Teilbetrag] € seit dem [Datum], aus [Teilbetrag] € seit dem [Datum] und aus [Teilbetrag] € seit dem [Datum] zu zahlen (rückständige Miete für die Monate [Monat/Jahr] bis [Monat/Jahr]).
 
-3. Die Beklagten werden als Gesamtschuldner verurteilt, an die Klagepartei ab dem [Datum der Beendigung des Mietverhältnisses] bis zur vollständigen Räumung und Herausgabe der unter Ziffer 1 bezeichneten Wohnung eine monatliche **Nutzungsentschädigung** in Höhe von [Betrag in EUR] (§ 546a Abs. 1 BGB), fällig jeweils im Voraus bis zum dritten Werktag eines Monats, nebst Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz ab jeweiliger Fälligkeit zu zahlen.
+3. Die Beklagten werden als Gesamtschuldner verurteilt, an die Klagepartei für die Vorenthaltung der unter Ziffer 1 bezeichneten Wohnung ab dem [Datum] bis zur Rückgabe eine monatliche Nutzungsentschädigung in Höhe von [Betrag in EUR], für angefangene Monate zeitanteilig, zu zahlen. Für bereits entstandene Teilbeträge werden Zinsen in Höhe von fünf Prozentpunkten über dem Basiszinssatz aus [Betrag] seit [Tag nach nachgewiesenem Verzugsbeginn oder Rechtshängigkeit] verlangt. [Künftige Leistung nur bei belegten Voraussetzungen nach Ziffer 2.2 Nummer 3 beantragen; Zeitraum und Beträge dürfen sich nicht mit Antrag 2 überschneiden.]
 
 4. Die Beklagten tragen die Kosten des Rechtsstreits.
 
-5. Das Urteil ist — hinsichtlich Ziffer 1 ggf. gegen Sicherheitsleistung (§ 708 Nr. 7, § 709 ZPO) — vorläufig vollstreckbar.
+5. Das Urteil ist nach Maßgabe der gesetzlichen Bestimmungen vorläufig vollstreckbar.
+
+[Bearbeitungshinweis, nicht miteinreichen: Der Räumungsausspruch fällt grundsätzlich unter Paragraf 708 Nummer 7 ZPO, also Vollstreckbarkeit ohne Sicherheitsleistung. Eine Abwendungsbefugnis nach Paragraf 711 ZPO und deren Ausnahme nach Paragraf 713 ZPO sind gesondert zu prüfen. Für verbundene Zahlungsansprüche die passende Vollstreckbarkeitsregel eigenständig bestimmen.]
 
 **Vorsorglich** wird beantragt, eine etwaige Räumungsfrist nach § 721 ZPO **nicht** oder allenfalls kurz zu bemessen, da [Begründung, z. B. fortlaufende Auflaufschäden, keine Zahlungen seit Datum.]
 
@@ -86,16 +88,18 @@ Die Beklagten haben die Wohnung trotz Aufforderung mit Fristsetzung zum [Datum] 
 
 1. **Räumung und Herausgabe (§ 546 Abs. 1, § 985 BGB).** Das Mietverhältnis ist durch die fristlose Kündigung vom [Datum] beendet. Der Kündigungsgrund des § 543 Abs. 2 Satz 1 Nr. 3 lit. [a/b] BGB liegt vor: Die Beklagten befanden sich im Zeitpunkt des Zugangs der Kündigung [für zwei aufeinander folgende Termine mit der Entrichtung der Miete oder eines nicht unerheblichen Teils der Miete / über einen Zeitraum, der sich über mehr als zwei Termine erstreckt, mit einem Betrag in Höhe von zwei Monatsmieten] in Verzug. Der Rückstand betrug [Betrag in EUR] und überstieg damit [eine Monatsmiete (§ 569 Abs. 3 Nr. 1 BGB) / zwei Monatsmieten]. Einer Abmahnung bedurfte es nicht (§ 543 Abs. 3 Satz 2 Nr. 3 BGB). Die Kündigung wahrt Schriftform (§ 568 Abs. 1 BGB) und enthält die Gründe (§ 569 Abs. 4 BGB). Hilfsweise hat die ordentliche Kündigung das Mietverhältnis spätestens zum [Datum] beendet (§ 573 Abs. 2 Nr. 1, § 573c Abs. 1 BGB); die nicht unerhebliche Pflichtverletzung liegt im aufgelaufenen Zahlungsrückstand. Seit Beendigung sind die Beklagten zur Rückgabe verpflichtet (§ 546 Abs. 1 BGB); daneben folgt der Herausgabeanspruch aus dem Eigentum der Klagepartei (§ 985 BGB), da den Beklagten kein Recht zum Besitz mehr zusteht (§ 986 BGB).
 
+[Alternative zu Nummer 1 bei Eigenbedarf; Zahlungsrückstandsbegründung dann nicht unverändert übernehmen: Das Mietverhältnis endete durch die ordentliche Kündigung vom Datum zum Datum. Die Klagepartei benötigt die Wohnung für Name, Verwandtschafts- oder Haushaltsverhältnis und konkret dargelegten Nutzungswunsch. Das berechtigte Interesse nach Paragraf 573 Absatz 2 Nummer 2 BGB und die Gründe nach Absatz 3 sind im Kündigungsschreiben bezeichnet. Schriftform, Zugang und Kündigungsfrist sind durch Anlagen belegt. Einen Härtewiderspruch nach Paragrafen 574 bis 574b BGB behandeln wir anhand der konkret geltend gemachten Umstände und Beweismittel wie folgt: Tatsachenvortrag, Stellungnahme und gegebenenfalls Beweisantritt.]
+
 2. **Rückständige Miete (Antrag zu 2).** Der Anspruch folgt aus § 535 Abs. 2 BGB in Verbindung mit dem Mietvertrag. Die Fälligkeit ergibt sich aus § 556b Abs. 1 BGB; Verzug trat ohne Mahnung ein (§ 286 Abs. 2 Nr. 1 BGB). Die Zinsen folgen aus §§ 288 Abs. 1, 286 BGB.
 
-3. **Nutzungsentschädigung (Antrag zu 3).** Für die Zeit der Vorenthaltung nach Beendigung des Mietverhältnisses schulden die Beklagten Nutzungsentschädigung mindestens in Höhe der vereinbarten Miete (§ 546a Abs. 1 Alt. 1 BGB). Der Antrag auf künftig fällig werdende Beträge ist nach § 259 ZPO zulässig, da die Beklagten die Räumung ernsthaft verweigern; jedenfalls ist die wiederkehrende Leistung nach § 258 ZPO einklagbar.
+3. Nutzungsentschädigung (Antrag zu 3). Für die Vorenthaltung nach Beendigung wird Paragraf 546a Absatz 1 BGB herangezogen. Für künftige Beträge wird die Besorgnis nicht rechtzeitiger Leistung nach Paragraf 259 ZPO durch [konkrete Zahlungsverweigerung, Rückstände und weitere Tatsachen] begründet. Die bloße Weigerung auszuziehen belegt nicht stets zugleich eine künftige Zahlungsverweigerung. Fehlt diese Grundlage, den Antrag auf bereits entstandene und bezifferte Beträge beschränken.
 
 4. **Zuständigkeit.** Das angerufene Amtsgericht ist ausschließlich zuständig (§ 29a Abs. 1 ZPO, § 23 Nr. 2a GVG).
 
 2.3 Beweisangebote
 
 - Grundbuchauszug (Anlage 1); Mietvertrag vom [Datum] (Anlage 2)
-- Kündigungsschreiben vom [Datum] nebst Zugangsnachweis (Anlagen 3, K 4)
+- Kündigungsschreiben vom [Datum] nebst Zugangsnachweis (Anlagen 3 und 4)
 - Kontoauszüge / Mietkonto-Aufstellung zum Zahlungsrückstand (Anlage 7)
 - Zeugnis [Name, Anschrift der Hausverwaltung / des Boten]
 - Parteivernehmung der Klagepartei, hilfsweise Anhörung nach § 141 ZPO

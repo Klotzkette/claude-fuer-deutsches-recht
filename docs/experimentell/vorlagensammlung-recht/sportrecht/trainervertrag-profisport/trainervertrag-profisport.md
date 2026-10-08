@@ -85,9 +85,9 @@ Trainerlizenz: [Lizenzstufe, Lizenznummer, gültig bis Datum]
 
 #### 4. Freistellung
 
-1. Der Verein ist berechtigt, den Trainer jederzeit von der Verpflichtung zur Arbeitsleistung **freizustellen**, wenn ein sachlicher Grund vorliegt (insbesondere sportlich begründeter Trainerwechsel, nachhaltige Störung des Vertrauensverhältnisses zur Mannschaft).
+1. Eine einseitige Freistellung setzt konkrete überwiegende schutzwürdige Interessen des Vereins voraus, die unter Berücksichtigung des Beschäftigungsinteresses des Trainers eine weitere vertragsgemäße Tätigkeit unzumutbar machen. Ein Trainerwechsel oder die Kündigung allein begründen kein voraussetzungsloses Freistellungsrecht. Der Verein teilt Grund, Dauer und Reichweite der Freistellung mit und prüft zuvor eine zumutbare vertragsgemäße Weiterbeschäftigung.
 
-2. Während der Freistellung wird das Grundgehalt nach 3. Abs. 1 fortgezahlt (§ 615 BGB). Erfolgsabhängige Prämien nach 3. Abs. 2 stehen dem Trainer für Zeiträume nach Beginn der Freistellung [nicht zu / in folgender Höhe zu: Regelung.]
+2. Während der Freistellung bleibt die vertragsgemäße Vergütung geschuldet. Bereits erdiente Prämien entfallen nicht. Bei noch offenen variablen Vergütungsbestandteilen sind Bezugszeitraum, Erfolgsbedingungen und die durch die Freistellung vereitelte Verdienstmöglichkeit gesondert abzurechnen; ein pauschaler Prämienausschluss wird nicht vereinbart. Urlaub wird ausschließlich durch eine gesonderte unwiderrufliche Freistellung für bezeichnete Arbeitstage mit vorbehaltloser Zusage des Urlaubsentgelts gewährt.
 
 3. Anderweitiger Verdienst, den der Trainer während der Freistellung durch eine neue Traineranstellung erzielt, wird auf die fortgezahlte Vergütung angerechnet (§ 615 Satz 2 BGB). Der Trainer informiert den Verein unverzüglich über die Aufnahme einer neuen Tätigkeit.
 

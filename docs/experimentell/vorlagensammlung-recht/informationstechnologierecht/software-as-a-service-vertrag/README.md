@@ -18,13 +18,13 @@ Lizenz: Apache-2.0 OR MIT.
 
 ## Anwendungsbereich
 
-Diese Vorlage dient einem IT-Vertrag mit Projekt-, Betriebs-, Lizenz-, Support-, Cloud-, API- oder Exit-Bezug. Sie passt, wenn technische Leistung, Service Level, Mitwirkung, Abnahme, Mängel, Sicherheit, Datenschutz und Exit konkret verhandelt werden.
+Diese Vorlage betrifft die zeitweise Nutzung einer bereitgestellten Software im B2B-Verhältnis. Nach BGH, Urteil vom 15. November 2006, XII ZR 120/04, ist die zentrale Gebrauchsüberlassung eines ASP-Vertrags mietrechtlich einzuordnen. Daraus folgt keine Einordnung jedes gemischten IT-Vertrags als Mietvertrag; eigenständige Entwicklungs- und Migrationsleistungen separat prüfen. [Amtlicher Entscheidungsvolltext](https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&nr=38367).
 
 ## Einschlägige Normen
 
-- §§ 631, 640 BGB für werkvertragliche Projekt-, Migrations-, Entwicklungs- und Abnahmepflichten.
-- §§ 611, 611a, 675 BGB, wenn Beratung, Betrieb, Support oder laufende Dienste im Vordergrund stehen.
-- §§ 327 ff. BGB bei digitalen Produkten gegenüber Verbrauchern; bei B2B als Prüfanker für Update-, Bereitstellungs- und Mängelmechanik.
+- Paragrafen 535 und 536 ff. BGB für die entgeltliche, zeitweise Nutzung bereitgestellter Standardsoftware; Paragrafen 631 und 640 BGB nur für gesondert geschuldete Herstellungserfolge, etwa eine definierte Entwicklung oder Migration.
+- Paragrafen 611 und 675 BGB für selbständige Beratungs- oder Unterstützungsleistungen ohne geschuldeten Erfolg. Paragraf 611a BGB betrifft Arbeitsverträge und ist keine allgemeine SaaS-Vertragsgrundlage.
+- Paragrafen 327 ff. BGB gelten im einschlägigen Verbrauchervertrag, nicht unmittelbar für diesen B2B-Vertrag. Gesetzliche oder vertraglich vereinbarte Mängel- und Aktualisierungspflichten im B2B-Verhältnis eigenständig bestimmen.
 - §§ 280, 281, 286, 307 BGB zu Pflichtverletzung, Nacherfüllung, Verzug und AGB-Kontrolle.
 - Art. 28, Art. 32, Art. 33 DSGVO, wenn Betrieb, Hosting, Support oder Migration personenbezogene Daten betrifft.
 

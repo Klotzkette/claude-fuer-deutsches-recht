@@ -49,13 +49,13 @@ Diese Hinweise standen zuvor im Mustertext und sind nicht Bestandteil des zu unt
 
 - (Achtung: Ohne beigefügte Vollmachtsurkunde kann der Mieter die Kündigung nach § 174 BGB unverzüglich zurückweisen.)
 
-Fristen- und Beweisführung: Die Vorlage muss Zugang, Fristbeginn und Beleglage nach dem konkreten miet- oder wohnungseigentumsrechtlichen Instrument führen. Bei Wohnraummiete sind Kündigungs-, Schonfrist-, Mieterhöhungs-, Betriebskosten- und Modernisierungsfristen gesondert zu kalendieren; bei Wohnungseigentum sind Beschlussdatum, Verkündung, Zustellung, Anfechtungsfrist und Begründungsfrist getrennte Prüfpunkte. Live-Rechercheanker: „BGH Wohnraummiete Schonfristzahlung § 569 Abs. 3 Nr. 2“, „BGH Mieterhöhung Zustimmungsklage § 558b“, „BGH WEG Beschlussanfechtung § 45 WEG“.
+Fristen und Nachweise: Eigenbedarf bei Erklärung der Kündigung konkretisieren, Zugang an sämtliche Mieter sichern, Kündigungsfrist nach Paragraf 573c BGB und eine mögliche Sperrfrist nach Paragraf 577a BGB getrennt berechnen. Über Widerspruchsrecht, Form und Frist nach den Paragrafen 568 Absatz 2 und 574b BGB informieren. Bei gesundheitlichem Widerspruch Atteste und konkrete Umzugsfolgen einholen, ohne Diagnosen oder einen gutachterlichen Befund zu erfinden.
 
 ## Rechtsprechungsstand 2026
 
-- Bundesgerichtshof, Urteil vom 28. Januar 2026 — VIII ZR 228/23: § 553 Abs. 1 Satz 1 BGB vermittelt keinen Anspruch auf eine gewinnorientierte Untervermietung, die über den Ausgleich der wohnungsbezogenen Aufwendungen hinausgeht. Eine unerlaubte gewinnbringende Untervermietung kann eine schuldhafte Pflichtverletzung im Sinne von § 573 Abs. 1, Abs. 2 Nr. 1 BGB begründen. Quelle: [BGH VIII ZR 228/23](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2026/2026024.html).
+- BGH, Beschluss vom 1. September 2026, VIII ZR 16/26: Bei substantiiert vorgetragenen, bestrittenen schweren gesundheitlichen Folgen eines Umzugs ist für den Härtewiderspruch nach Paragraf 574 BGB regelmäßig sachverständige Aufklärung erforderlich. Eine erhebliche Verschlechterung kann genügen; absolute Räumungsunfähigkeit oder Suizidgefahr sind nicht die einzigen Härtefälle. Quelle: [Entscheidungsvolltext, bereitgestellt beim BFW](https://www.bfw-newsroom.de/wp-content/uploads/2026/09/260901_BGH_Urteil_VIII_ZR_16_26.pdf).
 
-Die Kündigungsbegründung muss Hauptmiete, umlagefähige Aufwendungen, Untermietzins, Umfang der Überlassung, fehlende Erlaubnis und vorausgegangene Abmahnung oder Entbehrlichkeit konkret darstellen. Nicht jeder Kostenaufschlag ist Gewinn; die Berechnung gehört deshalb als nachvollziehbare Anlage in die Akte.
+Für die Kündigung sind Bedarfsperson, Nutzungswunsch und zeitlicher Zusammenhang darzulegen. Ein Härtewiderspruch ist getrennt anhand der Gesundheitsunterlagen, der Umzugsfolgen und der Ersatzwohnungssuche zu prüfen. Paragraf 574 BGB ist nicht auf die außergewöhnliche Vollstreckungshärte des Paragrafen 765a ZPO zu reduzieren. Die Entscheidung führt zur weiteren Aufklärung, nicht automatisch zur Fortsetzung jedes Mietverhältnisses.
 
 ## Taktische Hinweise
 

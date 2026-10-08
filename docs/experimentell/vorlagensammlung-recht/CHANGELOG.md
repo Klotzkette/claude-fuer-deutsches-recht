@@ -3,6 +3,28 @@
 Alle nennenswerten Änderungen an dieser Vorlagensammlung werden hier
 dokumentiert. Versionsschema nach Semantic Versioning.
 
+## v4.92.0 - Fachliche Korrekturen und aktualisierte Arbeitsfassungen (2026-10-09)
+
+### 1. Konkrete Korrekturen
+
+- Arbeitsverträge, Trainervertrag und gerichtlicher Vergleich: Freistellung, Urlaubserfüllung und Grenzen des Urlaubsverzichts getrennt; aktuelle Entscheidungen des Bundesarbeitsgerichts eingebunden.
+- Bonusgestaltung und Bonusklage: Zielvereinbarung, einseitige Vorgabe, interne Unternehmensziele, Mitteilung und endgültig ausgefallene Motivationsfunktion unterschieden; BAG 10 AZR 28/25 berücksichtigt.
+- Urlaubsabgeltung: Verjährung des Zahlungsanspruchs ab Beendigung nicht mehr mit der Verjährung von Naturalurlaub vermischt; Langzeiterkrankung differenziert.
+- Kontoentgelte: BGH XI ZR 45/24 zum Saldoanerkenntnis und Verjährungsbeginn eingearbeitet; Kündigungsentgeltverbot und Voraussetzungen der Schlichtungshemmung korrigiert.
+- Eigenverwaltung: Eröffnungsstadium, vorläufiges Verfahren, Nachbesserung nach Paragraf 270b Absatz 1 Satz 2 InsO, Finanzierungsplanung und Anlagenverweise berichtigt.
+- Eigenbedarf: BGH VIII ZR 16/26 zur gesundheitlichen Härte eingeordnet; unpassenden Untervermietungsanker entfernt und pauschale Vollstreckungsprognose gestrichen.
+- SaaS und Onlinehandel: Softwareüberlassung und Werkleistung getrennt, Preisänderungen an ausdrückliche Einigung gebunden, Verbraucherrechte und elektronische Widerrufsfunktion ergänzt.
+- Prozesskostenhilfe: alternative Beiordnungsvoraussetzungen richtig abgebildet. Erbscheinsantrag: versehentliche Markdown-Linkdefinitionen beseitigt.
+- Räumungsklage: Vollstreckbarkeit und künftige Zahlungsanträge berichtigt; Eigenbedarfsalternative ergänzt. Gerichtlicher Vergleich: vollziehbare Leistungs-, Kosten- und Widerrufsklauseln statt Arbeitsanweisungen; Sperrzeit und Ruhen getrennt.
+
+### 2. Prüfbarkeit und Downloads
+
+14 ODT-Arbeitsfassungen und ihre Einzel-ZIPs neu gebaut; vier vollständige Downloadpakete mit Versionsmanifest und Prüfsummen neu erstellt. Neun Regressionstests sichern konkrete Fehlerkorrekturen einschließlich ihres Erscheinens in den ODT-Dateien. Der getrennte Sammlungscharakter ohne Marketplace-Einbindung bleibt unverändert.
+
+### 3. Prüfgrenze
+
+Der Bestand umfasst unverändert 981 Hauptvorlagen und 113 gerichtsleitende Vorlagen. Die technischen Bestandsprüfungen erfassen alle; die fachliche Überarbeitung ist gezielt und nicht mit einer abschließenden Einzelprüfung sämtlicher Vorlagen gleichzusetzen. Details und Primärquellen: [Prüfbericht](references/rechtsstandsabgleich-2026-10-09.md).
+
 ## v4.91.0 — Zweisprachiger KI-Hinweis in jeder ODT-Erstseitenfußzeile (2026-08-11)
 
 **Stand:** 981 validierte Hauptvorlagen in 41 Themenordnern, 113 gerichtsleitende Sondervorlagen und 983 versionierte ODT-Dokumente. Jede paginierte Arbeitsfassung kennzeichnet ihren experimentellen Entstehungszusammenhang jetzt sichtbar, einheitlich und dauerhaft.

@@ -68,7 +68,9 @@ Zur Erstattung des Gesamtbetrags von **[Betrag in EUR]** auf das Konto IBAN [IBA
 
 Nach fruchtlosem Fristablauf befinden Sie sich in Verzug (§ 286 Abs. 1 BGB); ich behalte mir die gerichtliche Geltendmachung einschließlich Verzugszinsen (§ 288 Abs. 1 BGB) und vorgerichtlicher Rechtsverfolgungskosten ausdrücklich vor.
 
-Zur Verjährung weise ich darauf hin, dass die Rückforderungsansprüche der regelmäßigen Verjährung von drei Jahren unterliegen (§ 195 BGB), die erst mit dem Schluss des Jahres beginnt, in dem der Anspruch entstanden ist und ich von den anspruchsbegründenden Umständen Kenntnis erlangt habe oder ohne grobe Fahrlässigkeit hätte erlangen müssen (§ 199 Abs. 1 Nr. 1 und 2 BGB). Ob die Verjährung für Entgelte aus fingierten Zustimmungen bereits vor der höchstrichterlichen Klärung der Zustimmungsfiktion beginnen konnte, ist umstritten [noch zu klären: Verjährungsbeginn bei unsicherer Rechtslage — Zumutbarkeit der Klageerhebung; Rückforderungszeitraum im konkreten Fall danach bemessen]. Vorsorglich mache ich die Ansprüche für den gesamten noch offenen Zeitraum geltend.
+Die Verjährung wurde für jede Rückforderungsposition nach den Paragrafen 195 und 199 Absatz 1 BGB gesondert geprüft. Bei Entgelten, die in einen Rechnungsabschluss eingestellt wurden, ist für die Anspruchsentstehung das jeweilige Saldoanerkenntnis maßgeblich, nicht schon die einzelne Kontobelastung. Die erforderliche Tatsachenkenntnis ergibt sich aus [Änderungsangebot, Rechnungsabschluss und Zugangsdaten]. Der Beginn wird nicht allein deshalb bis zum Jahr 2021 verschoben, weil der Bundesgerichtshof die Unwirksamkeit der Änderungsklausel erst damals geklärt hat (BGH, Urteil vom 3. Juni 2025, XI ZR 45/24).
+
+Für die geltend gemachten Positionen ergibt sich folgende Fristenlage: [Saldoanerkenntnis und Kenntnisjahr je Rechnungsabschluss, daraus berechnetes Fristende, gegebenenfalls konkrete Hemmung mit Datum und Nachweis]. Dieses Aufforderungsschreiben bewirkt für sich genommen keine Hemmung. [Verjährte Positionen entfernen oder einen tatsächlich tragfähigen Hemmungs- beziehungsweise Neubeginnstatbestand angeben.]
 
 #### 3. Auskunft und Entgeltaufstellung
 
@@ -79,7 +81,7 @@ Soweit mir einzelne Belastungen nicht mehr vorliegen, fordere ich Sie auf, mir b
 Dieser Widerspruch ist **keine Kündigung**. Ich bitte um Fortführung des Kontos zu den zuletzt wirksam vereinbarten Bedingungen. Sollten Sie das Vertragsverhältnis Ihrerseits kündigen wollen, weise ich auf die Anforderungen an Form, Frist und — beim Basiskonto — die engen Kündigungsgründe (§§ 42 ff. ZKG) hin.
 
 *(Alternativbaustein — Kündigung des Kontos durch den Kontoinhaber, statt Abschnitt 4:)*
-Vorsorglich kündige ich den Zahlungsdiensterahmenvertrag über das oben bezeichnete Konto gemäß § 675h Abs. 1 BGB **zum [Datum]**. Ein etwaiges Guthaben überweisen Sie bitte auf das Konto IBAN [IBAN] bei der [Name des Instituts]. Laufende Lastschriften und Daueraufträge habe ich umgestellt / werde ich bis zum Kündigungstermin umstellen. Für die Kündigung dürfen Sie kein Entgelt berechnen (§ 675h Abs. 2 Satz 1 BGB).
+Vorsorglich kündige ich den Zahlungsdiensterahmenvertrag über das oben bezeichnete Konto gemäß Paragraf 675h Absatz 1 BGB zum [Datum]. Ein etwaiges Guthaben überweisen Sie bitte auf das Konto IBAN [IBAN] bei der [Name des Instituts]. Laufende Lastschriften und Daueraufträge habe ich umgestellt / werde ich bis zum Kündigungstermin umstellen. Für die Kündigung dürfen Sie kein Entgelt berechnen (Paragraf 675h Absatz 4 BGB).
 
 #### 5. Erklärung zur Beweissicherung
 
@@ -126,7 +128,7 @@ Ich fordere Sie **letztmalig** auf, den genannten Betrag bis zum
 
 **[Datum — z. B. zehn Tage]**
 
-zu erstatten. Nach fruchtlosem Fristablauf werde ich ohne weitere Ankündigung die Schlichtungsstelle [zuständige Ombudsstelle des Instituts] anrufen oder Klage erheben; die dadurch entstehenden weiteren Kosten gehen zu Ihren Lasten. Ich weise darauf hin, dass bereits der Eingang meines Schlichtungsantrags bei der Verbraucherschlichtungsstelle die Verjährung hemmt (§ 204 Abs. 1 Nr. 4 BGB).
+zu erstatten. Nach fruchtlosem Fristablauf werde ich die Schlichtungsstelle [zuständige Ombudsstelle des Instituts] anrufen oder Klage erheben. Die Erstattung erforderlicher weiterer Kosten mache ich nach den gesetzlichen Voraussetzungen geltend. Für eine Hemmung nach Paragraf 204 Absatz 1 Nummer 4 BGB muss der den Anspruch konkret bezeichnende Antrag der Gegenseite bekannt gegeben werden; auf seinen Eingang bei der Streitbeilegungsstelle wirkt die Hemmung nur bei demnächst erfolgender Bekanntgabe zurück. Die Zuständigkeit und Anerkennung der Stelle sowie gegebenenfalls das erforderliche Einvernehmen werden vor Antragstellung geprüft.
 
 ---
 

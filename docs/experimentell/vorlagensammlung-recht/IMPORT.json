@@ -11,9 +11,14 @@
     "Public navigation and download URLs point to this separate copy.",
     "Complete offline bundles are rebuilt from the copied files.",
     "The source README identifies this snapshot and its limits.",
-    "Two empty list items in handelsvertretervertrag-international were removed; its ODT and Markdown ZIP were regenerated without changing legal clauses."
+    "Two empty list items in handelsvertretervertrag-international were removed; its ODT and Markdown ZIP were regenerated without changing legal clauses.",
+    "Copy revision v4.92.0 corrects documented legal issues and rebuilds the affected working documents and all download bundles."
   ],
   "excluded_from_copy": ["Git history and repository-local credentials"],
   "marketplace_integration": false,
-  "legal_content_revised": false
+  "legal_content_revised": true,
+  "copy_version": "v4.92.0",
+  "review_date": "2026-10-09",
+  "review_report": "references/rechtsstandsabgleich-2026-10-09.md",
+  "all_templates_individually_legally_revalidated": false
 }
