@@ -336,6 +336,12 @@
       "formats": ["md", "txt"],
       "megaprompt": false,
       "hand_curated": true
+    },
+    "geldwaeschebeauftragter": {
+      "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
+      "formats": ["md", "txt"],
+      "megaprompt": false,
+      "hand_curated": true
     }
   }
 }

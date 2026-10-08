@@ -1088,6 +1088,16 @@
       }
     },
     {
+      "name": "geldwaeschebeauftragter",
+      "version": "445.34.0",
+      "description": "Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung.",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      },
+      "source": "./geldwaeschebeauftragter"
+    },
+    {
       "name": "geldwaeschepraevention-aml-kyc",
       "source": "./geldwaeschepraevention-aml-kyc",
       "description": "Geldwaeschepruefung in Kanzlei, Unternehmen und Notariat: 20 Fachablaeufe fuer Verpflichtetenstatus, KYC, UBO, Immobilienzahlungen, FIU-Meldung, Kontrollen und EU-Umstellung. Geltendes Recht 2026 und Pflichten ab 2027 bleiben getrennt.",

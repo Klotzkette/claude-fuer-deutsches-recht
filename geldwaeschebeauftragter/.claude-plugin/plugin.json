@@ -1,0 +1,20 @@
+{
+  "name": "geldwaeschebeauftragter",
+  "version": "445.34.0",
+  "description": "Geldwäschebeauftragte im Unternehmen, in Anwaltskanzlei und Notariat: zehn Fachabläufe und ein Hauptproblem-Skill für Organisation, KYC, Kontrolle, Immobilien, FIU, Vertraulichkeit, Aufsicht und Nachverfolgung.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "geldwaeschebeauftragter",
+    "gwg",
+    "kyc",
+    "fiu",
+    "notariat",
+    "immobilien",
+    "compliance"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "datum": "2026-10-08",
+  "bereich": "Organisation,KYC,wirtschaftlichBerechtigte,PEP/Sanktionen",
+  "quellen": [
+    {
+      "id": "GwG-1",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__1.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.3,5,9-15: Erhebung/Überprüfung, verbundene Handlungen, Güter, PEP und Führungsebene",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-1.html",
+      "sha256": "0307d2614bca1137772fd06ed67b9930f4bc2369826ec46e8f3b64ada7242c70"
+    },
+    {
+      "id": "GwG-2",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__2.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1 einschließlich Nr.10,14,16: persönliche und tätigkeitsbezogene Verpflichtung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-2.html",
+      "sha256": "d2dc444346936194b585aa711502cbc512696d3b20f7c3e7354a1ef435198e18"
+    },
+    {
+      "id": "GwG-3",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-4: natürliche Person, mehr als25Prozent, Kontrolle, Fiktion, Stiftungen und Veranlassung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-3.html",
+      "sha256": "9d694d1259fe6f0a0fd8cd570e84b4e21dc7c5918e1f8693871c354a92bd4c01"
+    },
+    {
+      "id": "GwG-4",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__4.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-5: Risikomanagement, Leitungsgenehmigung, besondere Schwellen",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-4.html",
+      "sha256": "764d241d6a78c7d404c890b21cdc821ccbbc37de1eac689efd8ef0533e237d94"
+    },
+    {
+      "id": "GwG-5",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__5.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-4: Risikoanalyse und begrenzte Dokumentationsbefreiung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-5.html",
+      "sha256": "e5d59386c86090fd887a24749364eedcb0fd5cee3e8fb33a6b79aed2ab0b4350"
+    },
+    {
+      "id": "GwG-6",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__6.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-3,5-7,9: Sicherungsmaßnahmen, Angestellte, Übertragung und Verantwortung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-6.html",
+      "sha256": "66dbb38acf749e4cb9862d5c2ebcb361c2cf90a26af414f974211281b5845ccf"
+    },
+    {
+      "id": "GwG-7",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__7.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-7: Bestellung, Anzeige, Befugnisse, Weisungsfreiheit für Meldung/FIU-Auskunft",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-7.html",
+      "sha256": "58c806cc9a8660f090967db5d544743cb498fae17e18b14cdd34ce97ff7eac85"
+    },
+    {
+      "id": "GwG-10",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__10.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-3a,6,6a,8a,9: Sorgfaltspflichten, Schwellen, Ausnahmen und notarielle Ablehnung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-10.html",
+      "sha256": "399c7c5e9bf57fa9c338ec7b4dbf25a6ad470a54904e98a4ae5f93b0cd767996"
+    },
+    {
+      "id": "GwG-11",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__11.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-7: Zeitpunkt, Angaben, eigene Erhebung, Mitwirkung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-11.html",
+      "sha256": "b84851fb7de55ea1906ac710a944f5bbade5bd99cdabe863605519061b625fcb"
+    },
+    {
+      "id": "GwG-12",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__12.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-4: Identitätsnachweise, Registererleichterung, Notarpflichten",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-12.html",
+      "sha256": "623cf99b83546265f624872f8c3030310337113025881a8ff89340be1bf3a411"
+    },
+    {
+      "id": "GwG-14",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__14.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-3: vereinfachte Pflichten",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-14.html",
+      "sha256": "f36e8b9b0cd2ed7459b87a788cce21ec0f0a0f788ae734310ed9ec7722f35e3f"
+    },
+    {
+      "id": "GwG-15",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__15.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-6,9: verstärkte Pflichten, PEP-Mindestdauer, Länder und Transaktionsrisiken",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-15.html",
+      "sha256": "642ce013a7c667b0a842b6f41f446479f388b36d67214e324928957419c462ab"
+    },
+    {
+      "id": "GwG-23a",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23a.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Abs.1-6: Unstimmigkeit und gesondertes Registerverfahren",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-23a.html",
+      "sha256": "9e264295b07bd3f39337646f99c28b4030f1155030e543af3b3ec99e2f4027af"
+    },
+    {
+      "id": "GwG-50",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__50.html",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
+      "gelesen": "Zuständigkeit vollständig, besonders Nr.3,5,9",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-50.html",
+      "sha256": "023136ed936a45947e3b74d46640aa948c9966d2aae97e9749331a603f592843"
+    },
+    {
+      "id": "62024CJ0084",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
+      "gelesen": "EuGH12.03.2026 C-84/24: Rn79-112; verwendet86-93,96-97,112",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62024CJ0084.html",
+      "sha256": "aa7def5ef6a5391fbc121bd7461303fd4f2e0c1970f67c26a6c3f8a5c4e4e31b"
+    },
+    {
+      "id": "62023CJ0483",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0483",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
+      "gelesen": "EuGH21.05.2026 C-483/23: Rn55-81; verwendet69-73",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62023CJ0483.html",
+      "sha256": "f78b129d0d4a413b0c96aebae3ed175b165193aa08a63b485b897551d711cfd5"
+    },
+    {
+      "id": "62020CJ0562",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0562",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
+      "gelesen": "EuGH17.11.2022 C-562/20: verwendetRn61-64,78,82-91",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0562.html",
+      "sha256": "1a811ad3993e02ae22b91fc2f8fa798cd892362e5aeee130ac4c7abe5bbaf2a2"
+    },
+    {
+      "id": "62020CJ0037",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0037",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passage gelesen",
+      "gelesen": "EuGH22.11.2022 C-37/20,C-601/20: verwendetRn40-44,74,83-88",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0037.html",
+      "sha256": "b428c2878193bcc64a6dd8e043920a953993b00e6bfcdba3eae59e916b29e9cc"
+    },
+    {
+      "id": "32024R1624",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu",
+      "abrufdatum": "2026-10-08",
+      "status": "amtlicher Volltext geöffnet und bezeichnete Passage gelesen",
+      "gelesen": "Art.90 Geltungsbeginn10.07.2027 und Sondergruppe10.07.2029",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/32024R1624.html",
+      "sha256": "8a7196656c8a45c7d731f5c8a306333d7df172da9fe7e5d3b4a964337f30841b"
+    },
+    {
+      "id": "Bundesbank-FAQ-2026-06",
+      "url": "https://www.bundesbank.de/resource/blob/886614/2b05428bd2dc7fbd4a8ceec17b1ba003/472B63F073F071307366337C94F8C870/faq-finanzsanktionen-data.pdf",
+      "abrufdatum": "2026-10-08",
+      "status": "amtliche Behördeninformation, Verwaltungssicht; PDF geöffnet",
+      "gelesen": "Seite2,7-14 insbesondere Zuständigkeit und Abgrenzung zuGwG; keinErsatzderkonkretenSanktionsverordnung",
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/bundesbank-finanzsanktionen-juni2026.pdf",
+      "sha256": "db22a835fda4b5e80639be62278a2a53a4363850d12be22f5478efeb766f4db8"
+    }
+  ],
+  "grenzen": [
+    "ListekonkreterPersonenundLänderimAnwendungsfallaktuellzuprüfen",
+    "LokaleAufsichtsanordnungenfallbezogenkeinegenerellenGrenzwertebehauptet",
+    "KeineVollprüfungjedesAMLRechtsakts",
+    "RechtsprechungsstandistAbrufstand,keinAnspruchaufVollständigkeitaller2026Entscheidungen"
+  ]
+}

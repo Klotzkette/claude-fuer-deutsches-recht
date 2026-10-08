@@ -1,0 +1,215 @@
+{
+  "stand": "2026-10-08",
+  "quellen": [
+    {
+      "id": "gwg-6",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__6.html",
+      "gelesen": "Absätze 1, 2, 5 bis 7",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 11635,
+      "sha256": "66dbb38acf749e4cb9862d5c2ebcb361c2cf90a26af414f974211281b5845ccf",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-7",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__7.html",
+      "gelesen": "Absätze 1 und 3 bis 7",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 7609,
+      "sha256": "58c806cc9a8660f090967db5d544743cb498fae17e18b14cdd34ce97ff7eac85",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-8",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__8.html",
+      "gelesen": "Absätze 1 bis 5",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 10838,
+      "sha256": "f9b1fa000cca743cd220bd666584cde4c3bbba8c87ca86e766b67d416c23ef64",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-10",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__10.html",
+      "gelesen": "Absätze 1 und 9",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 17669,
+      "sha256": "399c7c5e9bf57fa9c338ec7b4dbf25a6ad470a54904e98a4ae5f93b0cd767996",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-16a",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__16a.html",
+      "gelesen": "Absätze 1 bis 5",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 8928,
+      "sha256": "f50731c9a5cbd4ec6eeecbb13103a3bba986f02962c0bb3f501b5fa112df5f53",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-43",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__43.html",
+      "gelesen": "Absätze 1 bis 6",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 7865,
+      "sha256": "2b1ada5a9621dda40328361a583a61760fd93e8b8a7e88c29aa813f48ec9d449",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-45",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__45.html",
+      "gelesen": "Absätze 1 bis 5",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 4978,
+      "sha256": "b434cbe979dd6c146b9204c4223b9de901b825012732a2046696b877838f7b38",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-46",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__46.html",
+      "gelesen": "Absätze 1 und 2",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 5182,
+      "sha256": "a01206cab94bbaf28634bb62f560efdfb5eb5b4020a1fbc206a2c3f02e64a459",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-47",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__47.html",
+      "gelesen": "Absätze 1 bis 6",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 11830,
+      "sha256": "53f763763a2fbfdb1933f9fb65d71bf4cb51870fd6df5be16aa2a5a0142274ca",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-50",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__50.html",
+      "gelesen": "Nummern 1 bis 9",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 9295,
+      "sha256": "023136ed936a45947e3b74d46640aa948c9966d2aae97e9749331a603f592843",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-51",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__51.html",
+      "gelesen": "Insbesondere Absätze 1 bis 3, 5, 8 und 11",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 20864,
+      "sha256": "eca6a9f878264937a4fedf12c4c8aeb5177c412965b169e95239f31c0ab2fefe",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwg-52",
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__52.html",
+      "gelesen": "Absätze 1 bis 7",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 8066,
+      "sha256": "74513e8d10bda1176dac94710bb0ac2387834ccf8dcbcc12b72486baa25c3978",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "immobilien",
+      "url": "https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html",
+      "gelesen": "Volltext §§ 1 bis 8, Stand 15.01.2025",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 29564,
+      "sha256": "a179057cc18a95cc01429c0866cab8c6f6db1b33164402a4d25e2a763fe6b0dd",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwgmeldv-2",
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__2.html",
+      "gelesen": "Vollständige Einzelnorm",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 4951,
+      "sha256": "00f87610e6171f5a6f17bb9dc8175637aee7e797dcaa399d01240f65a729cfad",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwgmeldv-3",
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__3.html",
+      "gelesen": "Vollständige Einzelnorm",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 8128,
+      "sha256": "cc28dafa395072082c9e93b3fe607e3a6516c0dc280b13b678816412571ba8e6",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwgmeldv-4",
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__4.html",
+      "gelesen": "Vollständige Einzelnorm",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 3849,
+      "sha256": "9cc695f94a8ba3858e4be76e492cc255410da572b845d1ca8381a98595720a5b",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwgmeldv-5",
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__5.html",
+      "gelesen": "Vollständige Einzelnorm",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 3590,
+      "sha256": "3426032bc12a8a52094e3347d017058e4806aad30801abd878b232d649bddd6f",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "gwgmeldv-anlage",
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/anlage.html",
+      "gelesen": "Vollständige Anlage zu § 3 Absatz 3",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 12356,
+      "sha256": "ee0f93317f8699a5d878423a0912c33956b4f1c60806ec5c7b6829c9c7efda86",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "eugh-694",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694",
+      "gelesen": "Rubrum; Randnummern 21 bis 41 und 49 bis 66",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 114487,
+      "sha256": "fb5383ec4b4b2f692788f9d506c1c83164fd82330e4b9a89084da6b755548dac",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "eugh-305",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62005CJ0305",
+      "gelesen": "Rubrum; Randnummern 20 bis 37",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 56270,
+      "sha256": "334128bd8a87ab01fce75d37879232a36b19a653b76316dd0c1f68b87fd8d749",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    },
+    {
+      "id": "bnotk-portal",
+      "url": "https://onlinehilfe.bnotk.de/einrichtungen/notarnet/xnotar/wichtige-versionsinformationen/versionsinformationen-modul-geldwaeschebekaempfung/versionsinformationen-meldeportal.html",
+      "gelesen": "Versionsinformationen 25.02., 25.03. und 06.05.2026",
+      "abgerufen_am": "2026-10-08",
+      "status": 200,
+      "bytes": 280958,
+      "sha256": "d002cd0927348e67b307e2cfd78d00be9f3aa46769f4b5563edbe176af26193e",
+      "abrufart": "Amtlicher Volltext direkt; Fundstellen zusätzlich manuell gelesen"
+    }
+  ]
+}

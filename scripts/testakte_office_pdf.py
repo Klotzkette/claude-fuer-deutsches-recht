@@ -21,6 +21,7 @@ from pathlib import Path
 from pypdf import PdfReader, PdfWriter
 from office_process import run_office
 from registerakten_print_profile import print_overrides
+from aml_fallregister_pdf import render as render_aml_fallregister
 
 
 OFFICE_EXTS = {"docx", "odt", "xlsx"}
@@ -149,7 +150,8 @@ def normalize_pdf(data: bytes, title: str) -> bytes:
 def render_office_batch(paths: list[Path]) -> dict[Path, bytes]:
     """Konvertiert mehrere Office-Dateien in einem isolierten Office-Lauf.
 
-    Ein leerer Rückgabewert bedeutet, dass LibreOffice nicht installiert ist.
+    Die drei AML-Fallregister werden ohne Schrumpfung separat gerendert. Für
+    übrige Dateien bedeutet ein leerer Rückgabewert, dass LibreOffice fehlt.
     Fehlende Ausgaben einzelner defekter Dateien bleiben ebenfalls aus der
     Abbildung heraus; der aufrufende Builder verwendet dann seinen strengen
     Parser-Fallback und meldet einen nachvollziehbaren Dokumentfehler.
@@ -161,11 +163,22 @@ def render_office_batch(paths: list[Path]) -> dict[Path, bytes]:
     ]
     if not candidates:
         return {}
+    rendered: dict[Path, bytes] = {}
+    remaining = []
+    for path in candidates:
+        try:
+            special_pdf = render_aml_fallregister(path)
+        except ValueError as exc:
+            raise OfficeRenderError(f"{path.name}: {exc}") from exc
+        if special_pdf is None:
+            remaining.append(path)
+        else:
+            rendered[path] = special_pdf
+    candidates = remaining
     binary = office_binary()
     if not binary:
-        return {}
+        return rendered
 
-    rendered: dict[Path, bytes] = {}
     for start in range(0, len(candidates), OFFICE_BATCH_SIZE):
         rendered.update(_render_office_group(candidates[start:start + OFFICE_BATCH_SIZE], binary))
     return rendered
@@ -224,5 +237,5 @@ def _render_office_group(candidates: list[Path], binary: str) -> dict[Path, byte
 
 
 def render_office(path: Path) -> bytes | None:
-    """Konvertiert eine Office-Datei; ohne Office-Programm wird None geliefert."""
+    """Konvertiert eine Office-Datei; nur AML-Register benötigen kein Office."""
     return render_office_batch([path]).get(path)

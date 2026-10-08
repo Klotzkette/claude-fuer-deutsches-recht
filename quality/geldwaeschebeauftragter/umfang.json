@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-08",
+  "font": "Times New Roman",
+  "skills": [
+    {
+      "skill": "aufsichtspruefung-maengel-beheben",
+      "title": "Aufsichtsprüfung vorbereiten und Mängel beheben",
+      "source": "geldwaeschebeauftragter/skills/aufsichtspruefung-maengel-beheben/SKILL.md",
+      "source_sha256": "8decdcc7363525bd564e5c1242a098d50a48d1d07a3e0c31e61d815c48311845",
+      "words": 1404,
+      "utf8_bytes": 12638,
+      "pages": 4,
+      "pdf": "aufsichtspruefung-maengel-beheben.pdf",
+      "pdf_sha256": "6fad7d4f18249e422e71a849e0f2cf61ac44164d73a9c1f472a44e5fb11c45ec",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "dokumentation-kontrollen-schulung",
+      "title": "Dokumentation, Kontrollen und Schulung",
+      "source": "geldwaeschebeauftragter/skills/dokumentation-kontrollen-schulung/SKILL.md",
+      "source_sha256": "5be52b6fb7b861324a6297fccee9ddd1632039a421d7ea63d7da2e23384e82a6",
+      "words": 1387,
+      "utf8_bytes": 12367,
+      "pages": 4,
+      "pdf": "dokumentation-kontrollen-schulung.pdf",
+      "pdf_sha256": "14504da98d7a84d6bffc8d11268a5851d89de9b4bcfb186c2e33f57ef49c9c47",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "geldwaescheproblem-loesen",
+      "title": "Geldwäscheproblem lösen und den Vorgang weiterführen",
+      "source": "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md",
+      "source_sha256": "e60cc0371c12b1d31986361028ecac662f7cd895b64b81a0b81a7a8948199b70",
+      "words": 1776,
+      "utf8_bytes": 16488,
+      "pages": 5,
+      "pdf": "geldwaescheproblem-loesen.pdf",
+      "pdf_sha256": "99fb803a1e1181a6c72f472087218eb2a85391773e6ca0130f3674adf862f15f",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "identifizierung-kyc-durchfuehren",
+      "title": "Identifizierung und KYC durchführen",
+      "source": "geldwaeschebeauftragter/skills/identifizierung-kyc-durchfuehren/SKILL.md",
+      "source_sha256": "6b0400b04d6d7282b91518b51522eafa8bc69a9fc5e77266fc88684458ed59c0",
+      "words": 1473,
+      "utf8_bytes": 13159,
+      "pages": 4,
+      "pdf": "identifizierung-kyc-durchfuehren.pdf",
+      "pdf_sha256": "bd2a150d6febfdf3258704dea2d72445ecb297e2c6f7c5edaf47783553f1e841",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "immobilientransaktionen-pruefen",
+      "title": "Immobilientransaktionen prüfen",
+      "source": "geldwaeschebeauftragter/skills/immobilientransaktionen-pruefen/SKILL.md",
+      "source_sha256": "598315f789cd2ecc255461dce74ddbc04ab72ec638e2a7cfdaa2bb388abc0139",
+      "words": 1375,
+      "utf8_bytes": 12357,
+      "pages": 4,
+      "pdf": "immobilientransaktionen-pruefen.pdf",
+      "pdf_sha256": "9c6837bd05f9aa7a79b827ee5942c863254f347a07eb37444e4451448ab40212",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "notarielle-vorgaenge-pruefen",
+      "title": "Notarielle Vorgänge prüfen",
+      "source": "geldwaeschebeauftragter/skills/notarielle-vorgaenge-pruefen/SKILL.md",
+      "source_sha256": "e237e9847efb3e8bf114f87cf2f7589e5398b5375781dbb1d4aaa9e06a4b77b4",
+      "words": 1375,
+      "utf8_bytes": 12284,
+      "pages": 4,
+      "pdf": "notarielle-vorgaenge-pruefen.pdf",
+      "pdf_sha256": "ff0a7684138be51edb04f1fc827c7cd5007e4c202b708629a2f25dc830049d3b",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "pep-sanktionen-risiken-pruefen",
+      "title": "PEP, Sanktionen und besondere Risiken prüfen",
+      "source": "geldwaeschebeauftragter/skills/pep-sanktionen-risiken-pruefen/SKILL.md",
+      "source_sha256": "96da92c31a0553b211433b9068cfc707ef33ebbc92bbe4d7ec43b736f5315948",
+      "words": 1440,
+      "utf8_bytes": 13094,
+      "pages": 4,
+      "pdf": "pep-sanktionen-risiken-pruefen.pdf",
+      "pdf_sha256": "bce0de23af2825fd424327eba360a5b0498fb80f14a4ee6705a5ebea90c335cd",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "risikoanalyse-massnahmen-planen",
+      "title": "Risikoanalyse und Maßnahmen planen",
+      "source": "geldwaeschebeauftragter/skills/risikoanalyse-massnahmen-planen/SKILL.md",
+      "source_sha256": "1246df2691f7d41453b34be10dccf1371b20604c01d86d813555530c54aa282e",
+      "words": 1421,
+      "utf8_bytes": 13055,
+      "pages": 4,
+      "pdf": "risikoanalyse-massnahmen-planen.pdf",
+      "pdf_sha256": "374bfec9aaf60fa5bab507f8ef8c87b14a3bb43c9be5139fd7d2490a93c16a0a",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "verdachtsfaelle-meldungen-steuern",
+      "title": "Verdachtsfälle und Meldungen steuern",
+      "source": "geldwaeschebeauftragter/skills/verdachtsfaelle-meldungen-steuern/SKILL.md",
+      "source_sha256": "eaa7a556d495ca2c40adf3d9340c7d44dcb17d64b5268c9faf74fed8195442e0",
+      "words": 1501,
+      "utf8_bytes": 13077,
+      "pages": 4,
+      "pdf": "verdachtsfaelle-meldungen-steuern.pdf",
+      "pdf_sha256": "5183f89d51754881e6451f77c72c6d5fbe6f9458586995c68c7f666c9ad800a2",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "verpflichtung-organisation-klaeren",
+      "title": "Verpflichtung und Organisation klären",
+      "source": "geldwaeschebeauftragter/skills/verpflichtung-organisation-klaeren/SKILL.md",
+      "source_sha256": "0e447e7a4aa60b2de8c2e3de63e186eb6a040e4acc381b47d755be423edb5020",
+      "words": 1348,
+      "utf8_bytes": 12111,
+      "pages": 4,
+      "pdf": "verpflichtung-organisation-klaeren.pdf",
+      "pdf_sha256": "ad5ce996ad8fe04eb3f3ebf68fdd5ec1a3c86a6b494525282de1aec2adfb9087",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "wirtschaftlich-berechtigte-klaeren",
+      "title": "Wirtschaftlich Berechtigte klären",
+      "source": "geldwaeschebeauftragter/skills/wirtschaftlich-berechtigte-klaeren/SKILL.md",
+      "source_sha256": "4ecdd0f544ec81fd3d24bef9b279cf90cdce7bf97f928c0a94d543d36db91c77",
+      "words": 1355,
+      "utf8_bytes": 12185,
+      "pages": 4,
+      "pdf": "wirtschaftlich-berechtigte-klaeren.pdf",
+      "pdf_sha256": "376de9a2a376d1904371e7d181103f1688f8ec3919d43225f54bd500ecf3fb16",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    }
+  ],
+  "skill_count": 11,
+  "handbook_pages": 45,
+  "workshop": {
+    "skill": "geldwaeschebeauftragter",
+    "title": "Geldwäschebeauftragter – Werkstatt für Unternehmen, Kanzlei und Notariat",
+    "source": "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",
+    "source_sha256": "57a22bcd02124dc77ccbbb5238f7e5b7e10ce515532636b0dc132b5da09a05ab",
+    "words": 4866,
+    "utf8_bytes": 42205,
+    "pages": 11,
+    "pdf": "geldwaeschebeauftragter-werkstatt-lesefassung.pdf",
+    "pdf_sha256": "7619331a33d2c12bc84ebeca91c7b6939f4e4adeb7c76f6374a27ae63d872d6d",
+    "body_text_coverage": "all rendered source text segments present in source order"
+  }
+}

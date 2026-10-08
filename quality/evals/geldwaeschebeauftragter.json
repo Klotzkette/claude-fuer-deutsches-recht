@@ -1,0 +1,472 @@
+{
+  "schema_version": 1,
+  "plugin": "geldwaeschebeauftragter",
+  "reviewed_on": "2026-10-08",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__1.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.3,5,9-15: Erhebung/Überprüfung, verbundene Handlungen, Güter, PEP und Führungsebene"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__2.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1 einschließlich Nr.10,14,16: persönliche und tätigkeitsbezogene Verpflichtung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__3.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-4: natürliche Person, mehr als25Prozent, Kontrolle, Fiktion, Stiftungen und Veranlassung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__4.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-5: Risikomanagement, Leitungsgenehmigung, besondere Schwellen"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__5.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-4: Risikoanalyse und begrenzte Dokumentationsbefreiung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__6.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1, 2, 5 bis 7"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__7.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 und 3 bis 7"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__10.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 und 9"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__11.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-7: Zeitpunkt, Angaben, eigene Erhebung, Mitwirkung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__12.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-4: Identitätsnachweise, Registererleichterung, Notarpflichten"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__14.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-3: vereinfachte Pflichten"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__15.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-6,9: verstärkte Pflichten, PEP-Mindestdauer, Länder und Transaktionsrisiken"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__23a.html",
+      "checked_on": "2026-10-08",
+      "supports": "Abs.1-6: Unstimmigkeit und gesondertes Registerverfahren"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__50.html",
+      "checked_on": "2026-10-08",
+      "supports": "Nummern 1 bis 9"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084",
+      "checked_on": "2026-10-08",
+      "supports": "EuGH12.03.2026 C-84/24: Rn79-112; verwendet86-93,96-97,112"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62023CJ0483",
+      "checked_on": "2026-10-08",
+      "supports": "EuGH21.05.2026 C-483/23: Rn55-81; verwendet69-73"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0562",
+      "checked_on": "2026-10-08",
+      "supports": "EuGH17.11.2022 C-562/20: verwendetRn61-64,78,82-91"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0037",
+      "checked_on": "2026-10-08",
+      "supports": "EuGH22.11.2022 C-37/20,C-601/20: verwendetRn40-44,74,83-88"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1624/oj/deu",
+      "checked_on": "2026-10-08",
+      "supports": "Art.90 Geltungsbeginn10.07.2027 und Sondergruppe10.07.2029"
+    },
+    {
+      "url": "https://www.bundesbank.de/resource/blob/886614/2b05428bd2dc7fbd4a8ceec17b1ba003/472B63F073F071307366337C94F8C870/faq-finanzsanktionen-data.pdf",
+      "checked_on": "2026-10-08",
+      "supports": "Seite2,7-14 insbesondere Zuständigkeit und Abgrenzung zuGwG; keinErsatzderkonkretenSanktionsverordnung"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__8.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 5"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__16a.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 5"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__43.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 6"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__45.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 5"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__46.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 und 2"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__47.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 6"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__51.html",
+      "checked_on": "2026-10-08",
+      "supports": "Insbesondere Absätze 1 bis 3, 5, 8 und 11"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwg_2017/__52.html",
+      "checked_on": "2026-10-08",
+      "supports": "Absätze 1 bis 7"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/imgwgmeldv/BJNR196500020.html",
+      "checked_on": "2026-10-08",
+      "supports": "Volltext §§ 1 bis 8, Stand 15.01.2025"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__2.html",
+      "checked_on": "2026-10-08",
+      "supports": "Vollständige Einzelnorm"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__3.html",
+      "checked_on": "2026-10-08",
+      "supports": "Vollständige Einzelnorm"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__4.html",
+      "checked_on": "2026-10-08",
+      "supports": "Vollständige Einzelnorm"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/__5.html",
+      "checked_on": "2026-10-08",
+      "supports": "Vollständige Einzelnorm"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwgmeldv/anlage.html",
+      "checked_on": "2026-10-08",
+      "supports": "Vollständige Anlage zu § 3 Absatz 3"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694",
+      "checked_on": "2026-10-08",
+      "supports": "Rubrum; Randnummern 21 bis 41 und 49 bis 66"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62005CJ0305",
+      "checked_on": "2026-10-08",
+      "supports": "Rubrum; Randnummern 20 bis 37"
+    },
+    {
+      "url": "https://onlinehilfe.bnotk.de/einrichtungen/notarnet/xnotar/wichtige-versionsinformationen/versionsinformationen-modul-geldwaeschebekaempfung/versionsinformationen-meldeportal.html",
+      "checked_on": "2026-10-08",
+      "supports": "Versionsinformationen 25.02., 25.03. und 06.05.2026"
+    }
+  ],
+  "selection": {
+    "target_skill": "geldwaescheproblem-loesen",
+    "positive": [
+      "Ich bin Geldwäschebeauftragte eines Werkzeughändlers. Prüfen Sie die geteilten Barzahlungen und erstellen Sie Zahlungsübersicht, Entscheidungsvermerk und Nachforderung.",
+      "Prüfen Sie unseren notariellen Grundstücksvorgang mit widersprüchlicher Quittung, Drittzahlung und gewünschter Eigentumsumschreibung."
+    ],
+    "negative": [
+      "Entwerfen Sie die technisch vollständige Lüftungsplanung eines Krankenhauses.",
+      "Berechnen Sie die regelmäßige Verjährung einer gewöhnlichen Kaufpreisforderung ohne Geldwäschebezug."
+    ]
+  },
+  "mini_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen.",
+    "changes": [
+      "Unternehmen, Anwaltskanzlei und Notariat getrennt.",
+      "Zahlungsnachweis, Verdachtsmeldung und Vollzugsaufschub getrennt.",
+      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto."
+    ],
+    "sha256": "ce9d62f9f61748779c40241a7ef21dca13023f71b70cd2457cc663f92043c477"
+  },
+  "workshop_review": {
+    "verdict": "revised",
+    "reason": "Eigenständiger Workflow mit konkreter Verpflichtetenrolle, Belegstatus, Entscheidung und fertigem Arbeitsprodukt; amtliche Normen und Entscheidungsgrenzen gegengelesen.",
+    "changes": [
+      "Unternehmen, Anwaltskanzlei und Notariat getrennt.",
+      "Zahlungsnachweis, Verdachtsmeldung und Vollzugsaufschub getrennt.",
+      "Unabhängiger Meldeweg des Geldwäschebeauftragten ohne Geschäftsleitungsveto."
+    ],
+    "sha256": "57a22bcd02124dc77ccbbb5238f7e5b7e10ce515532636b0dc132b5da09a05ab"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-08",
+    "verdict": "revised",
+    "reason": "Hauptproblem führt den konkreten Vorgang vom Eingang bis zum belegten Abschluss und übergibt benannte Produkte.",
+    "changes": [
+      "Geschützter Beratungsinhalt und Rückausnahmen ausdrücklich erfasst.",
+      "Kein erfundener Portalzugang oder Versandnachweis."
+    ],
+    "prompt_path": "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md",
+    "skill_path": "geldwaeschebeauftragter/skills/geldwaescheproblem-loesen/SKILL.md",
+    "prompt_sha256": "adb3550d88fc11ad3ab791b511f4493d4f0ef10ab49c0522bf8baa585a6f0c4d",
+    "skill_sha256": "e60cc0371c12b1d31986361028ecac662f7cd895b64b81a0b81a7a8948199b70"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-08",
+    "opening_change": "Konkreten Arbeitsauftrag ausführen; nur bei offener Zielwahl kurze Auswahl zwischen Organisation, Fallprüfung und Meldeentscheidung.",
+    "norms": [
+      "§§ 2–8, 10–16a, 43–47 und 50–52 GwG",
+      "GwGMeldV-Immobilien und GwGMeldV",
+      "AMLR Artikel 90"
+    ],
+    "remaining_limits": [
+      "Kein Live-Portaltest; keine reale Meldung oder externe Kommunikation.",
+      "Anwendungsprobe ist ein dokumentierter einzelner Modelllauf, kein statistischer Leistungsvergleich."
+    ],
+    "files": [
+      "geldwaeschebeauftragter/geldwaeschebeauftragter-schnellstart.md",
+      "geldwaeschebeauftragter/geldwaeschebeauftragter-werkstatt.md",
+      "geldwaeschebeauftragter/geldwaeschebeauftragter-hauptproblem.md"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 12.03.2026, C-84/24, Rn. 79–112",
+        "application": "Konkrete Kontrolle und widerlegbare Vermutung im untersuchten Sanktionsregime.",
+        "limit": "Kein Ersatz der GwG-Definition und keine Übertragung auf alle Sanktionsregime.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62024CJ0084"
+      },
+      {
+        "citation": "EuGH, Urteil vom 08.12.2022, C-694/20, Rn. 27–34, 59–66",
+        "application": "Geschützte anwaltliche Kommunikation einschließlich Beratungsidentität sachgerecht einordnen.",
+        "limit": "DAC6-Kontext; keine pauschale Befreiung von § 43 GwG.",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:62020CJ0694"
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "method": "desk_review",
+    "date": "2026-10-08",
+    "opening_modes": [
+      "Tagesübersicht für Geldwäschebeauftragte",
+      "Konkrete Transaktionsprüfung",
+      "Organisations- oder Aufsichtsauftrag"
+    ],
+    "continuation": "Fallkennung, Belegstatus, führende Fassung, offene Entscheidung und nächste Person fortführen; keine erneute Vollaufnahme bei jeder Rückfrage.",
+    "enrichment": "Neue Zahlungs- oder Beteiligtenunterlagen nur in die betroffenen Feststellungen und Folgedokumente übernehmen.",
+    "limits": "Technische Versandautorisierung darf die fachlich weisungsfreie Meldeentscheidung nicht zu einem Geschäftsleitungsveto umformen."
+  },
+  "cases": [
+    {
+      "id": "aml-unternehmen-werkzeughandel-erfurt",
+      "request": "Ich bin Leni Riemenschneider, Geldwäschebeauftragte des Werkzeughändlers Werkraum Thüringen. Bearbeiten Sie am 08.10.2026 den Maschinenverkauf anhand sämtlicher Aktenstücke. Klären Sie die getrennten Barzahlungen und den noch angekündigten Restbetrag, die Beteiligten und Vertretung. Erstellen Sie Zahlungsabgleich, begründeten Entscheidungsvermerk und ein vollständig ausformuliertes Nachforderungsschreiben. Versenden Sie nichts.",
+      "target_skill": "geldwaescheproblem-loesen",
+      "input_files": [
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P01_Auftragsbestaetigung.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P02_Kassenbeleg_0510.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P03_Kassenbeleg_0610.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P04_Gesellschaftsdaten_Kunde.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P05_Identifizierungsnotiz.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P06_Altdrehbank_Verkauf.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P07_Auslieferungszettel.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/01_Belege/U-P08_Kassenabgleich.pdf",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/02_Arbeitsunterlagen/U-D01_Arbeitsauftrag.docx",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/02_Arbeitsunterlagen/U-D02_Entwurf_Rueckfrage.docx",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/02_Arbeitsunterlagen/U-D03_Telefonnotiz.docx",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/02_Arbeitsunterlagen/U-D04_Betriebsablauf.docx",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E01_2026-09-30.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E02_2026-10-02.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E03_2026-10-05.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E04_2026-10-06.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E05_2026-10-06.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E06_2026-10-07.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E07_2026-10-07.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E08_2026-10-07.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E09_2026-10-07.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E10_2026-10-08.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E11_2026-10-08.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/03_E-Mails/U-E12_2026-10-08.eml",
+        "testakten/aml-unternehmen-werkzeughandel-erfurt/04_Tabellen/Fallregister.xlsx"
+      ],
+      "deliverables": [
+        "Entscheidungsvermerk.txt",
+        "Zahlungsabgleich.csv",
+        "Schreiben.txt"
+      ],
+      "criteria": [
+        {
+          "id": "fall-1-1",
+          "text": "Die beiden 6.500-Euro-Kassenbelege als zusammenhängende 13.000-Euro-Barzahlungen desselben Kaufvertrags prüfen; 26.000 Euro nur als angekündigten Rest ausweisen.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Zahlungsabgleich.csv"
+          ]
+        },
+        {
+          "id": "fall-1-2",
+          "text": "Verpflichtetenrolle, Sorgfaltsschwellen und schwellenunabhängige Verdachtsmeldung unterscheiden; keine automatische Strafschuld aus Barzahlung.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        },
+        {
+          "id": "fall-1-3",
+          "text": "Vertretungs- und Mittelherkunftslücken mit Belegbezug benennen und gezielt nachfordern, ohne interne Meldeentscheidung offenzulegen.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aml-kanzlei-grundstueck-berlin",
+      "request": "Ich bin Dr. Samira Seidel und prüfe den Berliner Grundstückskauf für die Kanzlei. Werten Sie sämtliche Unterlagen zum Stand 08.10.2026 aus. Ermitteln Sie das Beteiligtenbild einschließlich Holding, Registerabweichung und PEP-Hinweis; trennen Sie Kaufpreisdeckung von erfolgter Zahlung und geschützte Beratung von Transaktionswissen. Erstellen Sie begründeten Prüfvermerk, Zahlungsübersicht und fertiges Mandantenanschreiben ohne Offenlegung interner Meldeüberlegungen. Versenden Sie nichts.",
+      "target_skill": "geldwaescheproblem-loesen",
+      "input_files": [
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P01_Kaufvertragsauszug.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P02_Beteiligung_Hofbogen.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P03_Holding_Uebersicht.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P04_Registerstand_Nachbildung.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P05_Finanzierungsindikation.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P06_Eigenmittelnotiz.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P07_Amtstraegerhinweis.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/01_Belege/K-P08_Beratungsnotiz_beschraenkt.pdf",
+        "testakten/aml-kanzlei-grundstueck-berlin/02_Arbeitsunterlagen/K-D01_Arbeitsauftrag.docx",
+        "testakten/aml-kanzlei-grundstueck-berlin/02_Arbeitsunterlagen/K-D02_Entwurf_Unterlagenanforderung.docx",
+        "testakten/aml-kanzlei-grundstueck-berlin/02_Arbeitsunterlagen/K-D03_Telefonnotiz.docx",
+        "testakten/aml-kanzlei-grundstueck-berlin/02_Arbeitsunterlagen/K-D04_Mandatsumfang.docx",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E01_2026-09-22.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E02_2026-09-30.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E03_2026-10-01.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E04_2026-10-02.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E05_2026-10-02.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E06_2026-10-05.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E07_2026-10-06.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E08_2026-10-06.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E09_2026-10-07.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E10_2026-10-07.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E11_2026-10-07.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/03_E-Mails/K-E12_2026-10-08.eml",
+        "testakten/aml-kanzlei-grundstueck-berlin/04_Tabellen/Fallregister.xlsx"
+      ],
+      "deliverables": [
+        "Entscheidungsvermerk.txt",
+        "Zahlungsabgleich.csv",
+        "Schreiben.txt"
+      ],
+      "criteria": [
+        {
+          "id": "fall-2-1",
+          "text": "Direkte und mittelbare Kontrolle prüfen, nicht nur 60 Prozent mal 60 Prozent rechnen; Registerabweichung und PEP-Identität gezielt klären.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Zahlungsabgleich.csv"
+          ]
+        },
+        {
+          "id": "fall-2-2",
+          "text": "850.000, 330.000 und 100.000 Euro als bedingte beziehungsweise angekündigte Finanzierung ausweisen; keine Zahlungseingänge erfinden.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        },
+        {
+          "id": "fall-2-3",
+          "text": "Die gesonderte Beratungsnotiz K-P08 nach Informationsherkunft und § 43 Absatz 2 einschließlich Rückausnahmen behandeln; kein pauschales Kanzleiprivileg.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aml-notariat-kaufpreis-wuerzburg",
+      "request": "Ich bin Dr. Friederike Feulner, die beurkundende Notarin im Würzburger Grundstücksfall. Prüfen Sie am 08.10.2026 sämtliche Aktenstücke, insbesondere Zahlungsnachweise, Quittung und Drittzahlung. Kann ich heute die Eigentumsumschreibung beantragen? Erstellen Sie einen begründeten Entscheidungsvermerk, Zahlungsabgleich und ein vollständig formuliertes notwendiges Nachforderungsschreiben. Versenden Sie nichts.",
+      "target_skill": "geldwaescheproblem-loesen",
+      "input_files": [
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P01_Kaufvertrag_Auszug.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P02_Faelligkeitsmitteilung.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P03_Bankbeleg_Mutter.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P04_Bankbeleg_Darlehen.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P05_Quittungskopie.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P06_Brief_Verkaeufer.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P07_Erklaerung_Kaeuferin.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/01_Belege/N-P08_Telefonnotizen.pdf",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/02_Arbeitsunterlagen/N-D01_Arbeitsauftrag.docx",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/02_Arbeitsunterlagen/N-D02_Entwurf_Nachforderung.docx",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/02_Arbeitsunterlagen/N-D03_Telefonnotiz.docx",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/02_Arbeitsunterlagen/N-D04_Entwurf_Erklaerung_Mutter.docx",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E01_2026-09-25.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E02_2026-10-01.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E03_2026-10-02.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E04_2026-10-05.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E05_2026-10-06.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E06_2026-10-06.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E07_2026-10-07.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E08_2026-10-07.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E09_2026-10-07.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E10_2026-10-08.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E11_2026-10-08.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/03_E-Mails/N-E12_2026-10-08.eml",
+        "testakten/aml-notariat-kaufpreis-wuerzburg/04_Tabellen/Fallregister.xlsx"
+      ],
+      "deliverables": [
+        "Entscheidungsvermerk.txt",
+        "Zahlungsabgleich.csv",
+        "Schreiben.txt"
+      ],
+      "criteria": [
+        {
+          "id": "fall-3-1",
+          "text": "580.000 Euro Vertragssoll von 560.000 Euro belegten Bankabgängen und 20.000 Euro widersprüchlicher Behauptung trennen; Bankabgang nicht mit bestätigtem Empfängereingang gleichsetzen.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Zahlungsabgleich.csv"
+          ]
+        },
+        {
+          "id": "fall-3-2",
+          "text": "§ 16a Nachweis- und Vollzugsprüfung getrennt von GwGMeldV-Immobilien/Meldeentscheidung; derzeitige Lücken und notwendige Schritte konkret benennen, keine fingierte laufende Meldefrist.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        },
+        {
+          "id": "fall-3-3",
+          "text": "Verkäufer und Käuferin zur Quittung und Zahlung sachlich ansprechen; Drittzahlerin und Verwandtschaft klären, keine voreilige Meldung nur wegen Drittzahlung und keine Offenlegung geschützter interner Überlegungen.",
+          "deliverables": [
+            "Entscheidungsvermerk.txt",
+            "Schreiben.txt"
+          ]
+        }
+      ]
+    }
+  ]
+}

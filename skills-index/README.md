@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 23161 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23172 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -140,6 +140,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 ### G
 
 - [gebrauchsmusterrecht](./gebrauchsmusterrecht.md) (51 Skills)
+- [geldwaeschebeauftragter](./geldwaeschebeauftragter.md) (11 Skills)
 - [geldwaeschepraevention-aml-kyc](./geldwaeschepraevention-aml-kyc.md) (20 Skills)
 - [gesellschafterstreit](./gesellschafterstreit.md) (11 Skills)
 - [gesellschaftsgruender](./gesellschaftsgruender.md) (114 Skills)

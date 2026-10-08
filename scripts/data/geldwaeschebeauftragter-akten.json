@@ -1,0 +1,1684 @@
+{
+  "schema_version": 1,
+  "reference_date": "2026-10-08",
+  "fictional": true,
+  "currency": "EUR",
+  "instructions": "Beträge und Beteiligungen sind Aktenangaben, keine Musterlösung. Belegte Zahlungen, Behauptungen und Planwerte bleiben getrennt. Keine echten Kontonummern oder Zahlungszugänge. Alle Kontakte und Vorgänge sind fiktiv.",
+  "cases": [
+    {
+      "slug": "aml-unternehmen-werkzeughandel-erfurt",
+      "title": "Erfurt Eine Maschine und zwei Umschläge",
+      "reference_date": "2026-10-08",
+      "role": "Interne Geldwäschekoordination eines gewöhnlichen Güterhändlers",
+      "contacts": [
+        {
+          "id": "u_leni",
+          "name": "Leni Riemenschneider",
+          "role": "Compliance und interne Geldwäschekoordination",
+          "organisation": "Werkraum Thüringen GmbH",
+          "email": "leni.riemenschneider@werkraum-thueringen.example",
+          "address": "Schlosserbogen 14, 99099 Erfurt"
+        },
+        {
+          "id": "u_bodo",
+          "name": "Bodo Krauß",
+          "role": "Vertrieb",
+          "organisation": "Werkraum Thüringen GmbH",
+          "email": "bodo.krauss@werkraum-thueringen.example",
+          "address": "Schlosserbogen 14, 99099 Erfurt"
+        },
+        {
+          "id": "u_nora",
+          "name": "Nora Yilmaz",
+          "role": "Buchhaltung",
+          "organisation": "Werkraum Thüringen GmbH",
+          "email": "nora.yilmaz@werkraum-thueringen.example",
+          "address": "Schlosserbogen 14, 99099 Erfurt"
+        },
+        {
+          "id": "u_gf",
+          "name": "Ottmar Pflaum",
+          "role": "Geschäftsführer",
+          "organisation": "Werkraum Thüringen GmbH",
+          "email": "ottmar.pflaum@werkraum-thueringen.example",
+          "address": "Schlosserbogen 14, 99099 Erfurt"
+        },
+        {
+          "id": "u_kunde",
+          "name": "Cem Rosenkranz",
+          "role": "Geschäftsführer des Kunden",
+          "organisation": "Rosenkranz Metallbau GmbH",
+          "email": "cem.rosenkranz@rosenkranz-metall.example",
+          "address": "Ambossgarten 6, 99427 Weimar"
+        },
+        {
+          "id": "u_fahrer",
+          "name": "Severin Dörfler",
+          "role": "Werkstattmeister und Abholer",
+          "organisation": "Rosenkranz Metallbau GmbH",
+          "email": "severin.doerfler@rosenkranz-metall.example",
+          "address": "Ambossgarten 6, 99427 Weimar"
+        },
+        {
+          "id": "u_steuer",
+          "name": "Ines Haberkorn",
+          "role": "Steuerbüro des Kunden",
+          "organisation": "Haberkorn Steuerberatung",
+          "email": "ines@haberkorn-steuer.example",
+          "address": "Friedenswinkel 3, 99423 Weimar"
+        }
+      ],
+      "transactions": [
+        {
+          "id": "U-T01",
+          "date": "2026-10-01",
+          "amount_eur": 39000,
+          "status": "vereinbarter Gesamtpreis",
+          "payer": "Rosenkranz Metallbau GmbH",
+          "payee": "Werkraum Thüringen GmbH",
+          "evidence_id": "U-P01",
+          "allocation": "Einmaliger Gesamtpreis für eine gebrauchte CNC-Fräsmaschine; keine Zahlung."
+        },
+        {
+          "id": "U-T02",
+          "date": "2026-10-05",
+          "amount_eur": 6500,
+          "status": "belegt durch Kassenbeleg",
+          "payer": "Severin Dörfler für Rosenkranz Metallbau GmbH",
+          "payee": "Werkraum Thüringen GmbH",
+          "evidence_id": "U-P02",
+          "allocation": "Erste Barteilzahlung auf U-T01."
+        },
+        {
+          "id": "U-T03",
+          "date": "2026-10-06",
+          "amount_eur": 6500,
+          "status": "belegt durch Kassenbeleg",
+          "payer": "Severin Dörfler für Rosenkranz Metallbau GmbH",
+          "payee": "Werkraum Thüringen GmbH",
+          "evidence_id": "U-P03",
+          "allocation": "Zweite Barteilzahlung auf dieselbe Maschine U-T01."
+        },
+        {
+          "id": "U-T04",
+          "date": "2026-10-09",
+          "amount_eur": 26000,
+          "status": "angekündigt noch nicht gebucht",
+          "payer": "Rosenkranz Metallbau GmbH",
+          "payee": "Werkraum Thüringen GmbH",
+          "evidence_id": "U-E10",
+          "allocation": "Angekündigte Restzahlung; zum Aktenstichtag nicht vorhanden."
+        }
+      ],
+      "ownership": [
+        {
+          "owner": "Cem Rosenkranz",
+          "company": "Rosenkranz Metallbau GmbH",
+          "percent": 60,
+          "evidence_id": "U-P04",
+          "qualification": "Kundenkopie; noch kein eigenständiger Registerabruf."
+        },
+        {
+          "owner": "Jutta Rosenkranz",
+          "company": "Rosenkranz Metallbau GmbH",
+          "percent": 40,
+          "evidence_id": "U-P04",
+          "qualification": "Kundenkopie; keine weiteren Kontrollrechte übermittelt."
+        }
+      ],
+      "chronology": [
+        {
+          "date": "2026-10-01",
+          "event": "Auftrag über eine gebrauchte CNC-Fräsmaschine wird erteilt.",
+          "evidence_id": "U-P01"
+        },
+        {
+          "date": "2026-10-05",
+          "event": "Erste Barteilzahlung von 6500 EUR wird angenommen.",
+          "evidence_id": "U-P02"
+        },
+        {
+          "date": "2026-10-06",
+          "event": "Weitere 6500 EUR bar werden zum selben Auftrag angenommen.",
+          "evidence_id": "U-P03"
+        },
+        {
+          "date": "2026-10-07",
+          "event": "Leni erkennt die gemeinsame Auftragsnummer; Abholervollmacht und Mittelherkunft werden angefragt.",
+          "evidence_id": "U-E07"
+        },
+        {
+          "date": "2026-10-08",
+          "event": "Kunde erläutert Altmaschinenverkauf; Beleg und Vertretererklärung liegen nur teilweise vor.",
+          "evidence_id": "U-P06"
+        }
+      ],
+      "questions": [
+        "Wer darf die Maschine für den Kunden abholen und wer hat die Barzahlungen veranlasst?",
+        "Was belegt der angekündigte Verkauf der alten Drehbank tatsächlich?",
+        "Welche Identifizierung wurde schon vorgenommen und was fehlt?",
+        "Welche interne Entscheidung ist vor der Auslieferung dokumentiert?"
+      ],
+      "documents": [
+        {
+          "id": "U-P01",
+          "path": "01_Belege/U-P01_Auftragsbestaetigung.pdf",
+          "title": "Auftrag WT 261001 17",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH, Schlosserbogen 14, 99099 Erfurt. An Rosenkranz Metallbau GmbH, Ambossgarten 6, 99427 Weimar. Erfurt, 01.10.2026. Ansprechpartner im Vertrieb ist Bodo Krauß.",
+            "Sehr geehrter Herr Rosenkranz, wir bestätigen Ihren Auftrag über die gebrauchte CNC-Fräsmaschine Modell WKM 420, Baujahr 2018, Inventarkennung WT-420-118. Der vereinbarte Gesamtpreis beträgt 39.000,00 EUR einschließlich Umsatzsteuer. Die Maschine wird mit Schraubstock, Kühlmittelanlage und der vorhandenen Bedienungsdokumentation geliefert. Der Preis umfasst die Verladung auf ein geeignetes, von Ihnen gestelltes Fahrzeug.",
+            "Als gewünschter Abholtermin ist der 09.10.2026 zwischen 10:00 und 12:00 Uhr vorgemerkt. Die Auslieferung setzt die vollständige Zahlung und die Freigabe durch unsere Auftragsbearbeitung voraus. Eine Terminreservierung bestätigt weder den Zahlungseingang noch die Berechtigung einer bestimmten abholenden Person.",
+            "Sie haben angegeben, dass ein Teilbetrag bei uns eingezahlt und der Rest überwiesen werden soll. Eine Aufteilung auf mehrere Kaufgegenstände wurde nicht vereinbart. Bitte nennen Sie bei sämtlichen Zahlungen ausschließlich die Auftragsnummer WT-261001-17. Die Kontoverbindung wird über den vereinbarten sicheren Firmenkanal übermittelt und ist in dieser Fallunterlage nicht enthalten.",
+            "Mit freundlichen Grüßen, Bodo Krauß, Vertrieb. Rückbestätigung des Kunden vom 02.10.2026: Wir nehmen das Angebot an. Abholen soll unser Meister Severin Dörfler. Cem Rosenkranz."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Position",
+              "Preisbestandteil",
+              "Betrag EUR"
+            ],
+            [
+              "1",
+              "Nettopreis",
+              "32.773,11"
+            ],
+            [
+              "2",
+              "Umsatzsteuer 19 Prozent",
+              "6.226,89"
+            ],
+            [
+              "3",
+              "Gesamtpreis",
+              "39.000,00"
+            ]
+          ]
+        },
+        {
+          "id": "U-P02",
+          "path": "01_Belege/U-P02_Kassenbeleg_0510.pdf",
+          "title": "Kassenbeleg K 26 1005 08",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH. Kasse Werkstattverkauf. Erfurt, 05.10.2026, 14:18 Uhr. Kassenführerin: Nora Yilmaz.",
+            "Wir haben 6.500,00 EUR in bar als erste Teilzahlung auf den Auftrag WT-261001-17 erhalten. Als Einzahler erschien Severin Dörfler. Er erklärte, für die Rosenkranz Metallbau GmbH zu zahlen. Das Geld wurde gezählt; eine Banküberweisung ist nicht Gegenstand dieses Belegs.",
+            "Nach dieser Zahlung verbleiben aus dem Gesamtpreis von 39.000,00 EUR rechnerisch 32.500,00 EUR. Dieser Stand bezieht sich ausschließlich auf den Zeitpunkt dieses Belegs. Die Zahlungsannahme ist keine Bestätigung einer Auslieferungsfreigabe.",
+            "Handschriftlicher Kassenvermerk: Herr Dörfler trägt Arbeitskleidung mit dem Firmennamen und zeigt den Abholschein auf seinem Telefon. Ein Ausweisdokument wurde an der Kasse nicht kopiert. Eine Vertretungsvollmacht befindet sich nicht bei diesem Beleg.",
+            "Zeichnung in der Fallunterlage: Nora Yilmaz. Die Unterschrift wird als Text wiedergegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-P03",
+          "path": "01_Belege/U-P03_Kassenbeleg_0610.pdf",
+          "title": "Kassenbeleg K 26 1006 03",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH. Kasse Werkstattverkauf. Erfurt, 06.10.2026, 09:07 Uhr. Kassenführerin: Nora Yilmaz.",
+            "Wir haben weitere 6.500,00 EUR in bar von Severin Dörfler für den Auftrag WT-261001-17 erhalten. Er legte einen zweiten Umschlag auf den Tresen und sagte: Das ist der Rest aus der alten Drehbank. Eine zweite Maschine oder ein weiterer Kaufvertrag wurde nicht genannt.",
+            "Zusammen mit dem Kassenbeleg K-26-1005-08 sind damit 13.000,00 EUR bar auf denselben Auftrag angenommen worden. Der rechnerische Restbetrag beträgt 26.000,00 EUR. Ein späterer Überweisungseingang ist in diesem Kassenbestand nicht enthalten.",
+            "Nora Yilmaz vermerkt am 07.10.2026: Beide Umschläge wurden auf dieselbe Debitorennummer RM-044 gebucht. Ich habe die Zahlungen erst bei der Abstimmung am nächsten Morgen zusammen gesehen. Die Auftragsnummer ist auf beiden Originalbelegen identisch. Eine Aufteilung in zwei Rechnungen wurde von uns nicht vorgenommen."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-P04",
+          "path": "01_Belege/U-P04_Gesellschaftsdaten_Kunde.pdf",
+          "title": "Gesellschaftsdaten aus den Kundenunterlagen",
+          "paragraphs": [
+            "Fiktive Fallunterlage ohne amtliche Beglaubigung. Diese Seite bildet eine vom Kunden übersandte Datenübersicht ab; sie ist kein Registerauszug und enthält weder Siegel noch eine amtliche Abrufbestätigung.",
+            "Rosenkranz Metallbau GmbH, Geschäftsanschrift Ambossgarten 6, 99427 Weimar. Tätigkeit nach der Kundenübersicht: Metallbau, Vorrichtungsbau und Reparaturen. Als Geschäftsführer wird Cem Rosenkranz genannt. Die Übersicht trägt das Datum 22.09.2026 und wurde mit der E-Mail U-E02 versandt.",
+            "Die beigefügte Gesellschafterübersicht nennt Cem Rosenkranz mit 60 Prozent und Jutta Rosenkranz mit 40 Prozent. Weitere Gesellschaften oder Treuhandabreden werden in diesem Dokument nicht erwähnt. Ein allgemeines Vertretungsrecht des Werkstattmeisters Severin Dörfler geht aus der Übersicht nicht hervor.",
+            "Am Rand steht die Notiz von Leni Riemenschneider vom 07.10.2026: Die Kundenkopie ist vollständig lesbar. Ihr Inhalt wurde noch nicht mit einer aktuellen unabhängigen Quelle abgeglichen. Ein Foto eines Mitarbeiterausweises ersetzt diesen Abgleich nicht."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Person",
+              "Funktion oder Anteil",
+              "Quelle"
+            ],
+            [
+              "Cem Rosenkranz",
+              "Geschäftsführer und 60 Prozent",
+              "Kundenübersicht 22.09.2026"
+            ],
+            [
+              "Jutta Rosenkranz",
+              "40 Prozent",
+              "Kundenübersicht 22.09.2026"
+            ],
+            [
+              "Severin Dörfler",
+              "Werkstattmeister",
+              "E-Mail des Geschäftsführers"
+            ]
+          ]
+        },
+        {
+          "id": "U-P05",
+          "path": "01_Belege/U-P05_Identifizierungsnotiz.pdf",
+          "title": "Notiz zur Person des Abholers",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH. Interner Vorgang WT-261001-17. Erfasst von Bodo Krauß am 07.10.2026 um 11:40 Uhr.",
+            "Severin Dörfler hat bei der Besichtigung seinen Namen genannt und sich als Werkstattmeister vorgestellt. Ich kenne ihn von zwei Wartungsterminen, kenne aber seine privaten Personalien nicht. Im CRM habe ich bislang nur die Firmenanschrift und die dienstliche E-Mail-Adresse gespeichert.",
+            "Am 06.10.2026 schickte Herr Dörfler mir ein unscharfes Foto einer Karte. Der Nachname war lesbar, das Ablaufdatum nicht. Ich habe die Datei nicht in die allgemeine Verkaufsakte kopiert, weil unklar war, ob sie als Nachweis geeignet ist und wer sie sehen muss. Ein geprüftes Identifizierungsprotokoll ist daraus bislang nicht entstanden.",
+            "Der Abholschein auf seinem Telefon enthält eine maschinell eingefügte Namenszeile von Herrn Rosenkranz, jedoch keine eigenhändige Unterschrift. Ob Herr Dörfler nur abholen oder auch Zahlungen und Erklärungen für die Gesellschaft vornehmen darf, ist aus dem Schein nicht eindeutig zu erkennen.",
+            "Erreichbarkeit: severin.doerfler@rosenkranz-metall.example. Ein Vor-Ort-Termin zur Klärung wurde vorgeschlagen, aber noch nicht vereinbart. Bodo Krauß."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-P06",
+          "path": "01_Belege/U-P06_Altdrehbank_Verkauf.pdf",
+          "title": "Privatschriftlicher Beleg zum Verkauf der alten Drehbank",
+          "paragraphs": [
+            "Kopie aus den Kundenunterlagen. Verkäuferin: Rosenkranz Metallbau GmbH, Ambossgarten 6, 99427 Weimar. Käufer: Ernst Götz, Werkstatt Götz, Werkzeugpfad 3, 99310 Arnstadt. Datum 29.09.2026.",
+            "Die Parteien halten fest, dass die gebrauchte Drehbank RM-D18 einschließlich Zubehör für insgesamt 13.000,00 EUR verkauft wird. Der Käufer hat nach dem vorgedruckten Text bei Abholung bar zu bezahlen. In der übermittelten Kopie ist das Feld Geld erhalten nicht angekreuzt; darunter steht eine schwer lesbare Namenszeile.",
+            "Als Abholung ist handschriftlich der 02.10.2026 eingetragen. Ein Foto zeigt die Drehbank auf einem Anhänger, lässt jedoch weder das Kennzeichen noch den Tag der Aufnahme erkennen. Eine Quittung des Käufers, eine Kassenbuchung der Rosenkranz Metallbau GmbH oder ein Bankbeleg sind dieser Kopie nicht beigefügt.",
+            "Cem Rosenkranz erläutert in seiner E-Mail, dass Herr Götz den Preis vollständig bar bezahlt habe und das Geld bis zur Weiterfahrt in zwei betrieblichen Kassenumschlägen lag. Diese Erläuterung ist eine Angabe des Kunden. Der vorliegende Beleg allein bestätigt nicht, ob oder wann Bargeld tatsächlich übergeben wurde."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-P07",
+          "path": "01_Belege/U-P07_Auslieferungszettel.pdf",
+          "title": "Auslieferungszettel für die Werkstatt",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH. Interner Ausdruck vom 07.10.2026, 16:20 Uhr. Maschine WT-420-118, Auftrag WT-261001-17, Kunde Rosenkranz Metallbau GmbH.",
+            "Bodo Krauß hat die Verladung am 09.10.2026 für 10:30 Uhr reserviert. Die Maschine ist technisch vorbereitet und gegen Umkippen zu sichern. Der Kunde hat einen Tieflader angekündigt. Der Fahrername wurde noch nicht bestätigt; Severin Dörfler soll die Übernahme begleiten.",
+            "Die Werkstatt bestätigt nur die technische Bereitstellung. Das Feld Kaufmännische Freigabe ist im Ausdruck leer. Darunter steht eine Notiz von Ottmar Pflaum: Bitte mit Leni abstimmen, bevor der Gabelstapler losfährt. Der Kunde braucht die Maschine am Montag, aber wir müssen den Vorgang vollständig haben.",
+            "Eine Stornierungsgebühr des Transporteurs ist nicht belegt. Bodo nennt telefonisch 480 EUR für eine Leerfahrt, kennt aber die Buchungsbedingungen nicht. Diese Angabe ist daher kein bestätigter Anspruch gegen Werkraum Thüringen GmbH."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-P08",
+          "path": "01_Belege/U-P08_Kassenabgleich.pdf",
+          "title": "Abgleich der Kassenbelege am 08 Oktober",
+          "paragraphs": [
+            "Erstellt von Nora Yilmaz, Buchhaltung, am 08.10.2026 um 08:35 Uhr. Die Prüfung betrifft ausschließlich die verbuchten Zahlungsvorgänge und trifft keine rechtliche Bewertung.",
+            "Die Summe beider Kassenbelege beträgt 13.000,00 EUR. Das Konto des Kunden weist derzeit einen offenen Posten von 26.000,00 EUR aus. Die in U-E10 angekündigte Restüberweisung ist bis zu unserem Buchungsstand um 08:30 Uhr nicht eingegangen.",
+            "Beide Barzahlungen sind derselben Rechnung und derselben Maschine zugeordnet. Es gibt weder eine zweite Rechnung noch eine Gutschrift. Ein Rücktausch in Bargeld, eine Weiterleitung an eine dritte Person oder eine Rückzahlung wurden weder vorgenommen noch vom Kunden verlangt.",
+            "Die vorliegende Übersicht ist kein vollständiger Kontoauszug. Sie zeigt die auftragsbezogenen Buchungspositionen aus dem Debitorenkonto. Eine Zahlungsanweisung oder Bankverbindung enthält sie nicht."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Datum",
+              "Beleg",
+              "Zuordnung",
+              "Betrag EUR"
+            ],
+            [
+              "05.10.2026",
+              "K-26-1005-08",
+              "Barzahlung WT-261001-17",
+              "6.500,00"
+            ],
+            [
+              "06.10.2026",
+              "K-26-1006-03",
+              "Barzahlung WT-261001-17",
+              "6.500,00"
+            ],
+            [
+              "08.10.2026",
+              "Saldo",
+              "Bisher bezahlt",
+              "13.000,00"
+            ],
+            [
+              "08.10.2026",
+              "Saldo",
+              "Noch offen",
+              "26.000,00"
+            ]
+          ]
+        },
+        {
+          "id": "U-D01",
+          "path": "02_Arbeitsunterlagen/U-D01_Arbeitsauftrag.docx",
+          "title": "Arbeitsauftrag für Leni Riemenschneider",
+          "paragraphs": [
+            "Erfurt, 08.10.2026. Ottmar Pflaum bittet die interne Geldwäschekoordination, den Auftrag WT-261001-17 vor der für morgen reservierten Auslieferung aufzubereiten. Das Unternehmen handelt mit Werkzeugmaschinen; es betreibt keinen Finanzdienst und keine Zahlungsabwicklung für Dritte.",
+            "1 Arbeitsumfang",
+            "Bitte stellen Sie den Auftrag, die beiden Kassenbelege, die Vertretung des Kunden und die noch fehlenden Angaben in einer überprüfbaren Übersicht zusammen. Halten Sie den tatsächlich erreichten Identifizierungsstand fest. Die bloße Ablage einer Kundenkopie darf nicht als abgeschlossene Prüfung bezeichnet werden.",
+            "2 Erwartetes Ergebnis",
+            "Ich benötige eine begründete interne Entscheidungsvorlage, einen ausformulierten Entwurf für die gezielte Nachfrage beim Kunden und eine kurze Nachricht an den Vertrieb zum weiteren Ablauf. Eine Verdachtsmeldung, Kundenbeschuldigung oder Kontaktaufnahme mit Behörden ist mit diesem Auftrag nicht freigegeben.",
+            "3 Zuständigkeit",
+            "Leni Riemenschneider bereitet die Unterlagen vor. Ottmar Pflaum entscheidet namentlich über interne Folgeschritte im Rahmen seiner Zuständigkeit; gesetzlich eigenständige Pflichten der handelnden Personen bleiben gesondert zu prüfen. Bis zur dokumentierten Entscheidung bleibt die kaufmännische Auslieferungsfreigabe offen."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-D02",
+          "path": "02_Arbeitsunterlagen/U-D02_Entwurf_Rueckfrage.docx",
+          "title": "Entwurf der Rückfrage an den Kunden",
+          "paragraphs": [
+            "Werkraum Thüringen GmbH, Schlosserbogen 14, 99099 Erfurt. An Herrn Cem Rosenkranz, Rosenkranz Metallbau GmbH, Ambossgarten 6, 99427 Weimar. Erfurt, 08.10.2026.",
+            "Sehr geehrter Herr Rosenkranz, für Ihren Auftrag WT-261001-17 liegen uns zwei Barzahlungen von jeweils 6.500,00 EUR vor. Wir ordnen beide Zahlungen derselben Maschine zu. Vor Abschluss unserer Bearbeitung benötigen wir noch die Bestätigung, in welchem Umfang Herr Severin Dörfler für Ihre Gesellschaft handeln und die Maschine übernehmen darf.",
+            "Bitte übersenden Sie eine aktuelle, von Ihnen stammende Erklärung zur Bevollmächtigung sowie die noch fehlenden Gesellschafts- und Beteiligungsangaben. Für die Identifizierung stimmen wir mit Ihnen einen geeigneten Übermittlungs- oder Vorlagetermin ab. Bitte senden Sie keine ungeschützten Ausweiskopien an einen allgemeinen Verteiler.",
+            "Den Verkauf Ihrer alten Drehbank haben Sie bereits erläutert. Bitte ergänzen Sie den vorhandenen Kaufbeleg um die Dokumentation des Zahlungseingangs und dessen Zuordnung zur Gesellschaft. Eine kurze Erklärung zur Übergabe der beiden Umschläge hilft uns, den Vorgang vollständig nachzuvollziehen. Wir bitten um Rückmeldung bis heute 15:00 Uhr; dies ist unsere organisatorische Rückmeldebitte für die morgige Terminplanung.",
+            "Die Reservierung des Abholtermins bleibt von der abschließenden Bearbeitung und dem vollständigen Zahlungseingang abhängig. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, Leni Riemenschneider. Dieser Entwurf ist noch nicht zum Versand freigegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-D03",
+          "path": "02_Arbeitsunterlagen/U-D03_Telefonnotiz.docx",
+          "title": "Telefonnotiz vom 8. Oktober 2026",
+          "paragraphs": [
+            "Telefonnotiz von Nora Yilmaz, 08.10.2026, 08:35 bis 08:43 Uhr. Gespräch mit Bodo Krauß und anschließend kurzer Rückruf bei Cem Rosenkranz. Auftrag WT-261001-17.",
+            "Bodo fragte, ob er dem Kunden die Verladung für morgen um 10 Uhr verbindlich zusagen könne. Der Transporteur habe nur bis heute Mittag Geduld. Ich habe ihm gesagt, dass in der Kasse zweimal 6.500,00 EUR für diesen Auftrag eingetragen sind. Einen Bankeingang für den Rest habe ich bei meinem letzten Abruf um 08:20 Uhr nicht gesehen. Der Abrufausdruck liegt noch bei mir.",
+            "Herr Rosenkranz erklärte am Telefon, er werde den restlichen Betrag von 26.000,00 EUR heute vom Firmenkonto überweisen. Er könne den Ausführungsbeleg danach schicken. Die beiden Umschläge stammten nach seiner Aussage aus dem Verkauf der alten Drehbank. Er habe einen Kaufvertrag, aber der Käufer habe ihm keine gesonderte Bestätigung geschickt. Ich habe ihn gebeten, die vorhandenen Unterlagen zusammenzustellen.",
+            "Zur Abholung sagte Herr Rosenkranz, Severin Dörfler fahre ohnehin mit dem gemieteten Anhänger vorbei. Ob Dörfler bereits eine Vollmacht dabeihabe, wusste er nicht sicher. Er wolle dies bis Mittag mit ihm besprechen. Bodo möchte Rückmeldung unter seiner Durchwahl, bevor er den Transporteur zurückruft. Keine Verladung zugesagt."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "U-D04",
+          "path": "02_Arbeitsunterlagen/U-D04_Betriebsablauf.docx",
+          "title": "Abstimmung zwischen Vertrieb Kasse und Werkstatt",
+          "paragraphs": [
+            "Besprechungsnotiz vom 08.10.2026 um 08:50 Uhr. Teilnehmerinnen und Teilnehmer sind Leni Riemenschneider, Nora Yilmaz, Bodo Krauß und Ottmar Pflaum. Die Notiz hält eine organisatorische Zwischenregelung fest.",
+            "1 Zahlungsinformationen",
+            "Die Kasse meldet weitere Zahlungseingänge zu WT-261001-17 unmittelbar an Leni und die Buchhaltung. Sie verändert die Buchungen der bereits angenommenen Zahlungen nicht nachträglich. Korrekturen erhalten einen eigenen nachvollziehbaren Vermerk.",
+            "2 Kundenkontakt",
+            "Bodo bündelt technische Rückfragen zur Maschine. Angaben zur Identifizierung und Vertretung gehen an Leni; sie bleiben außerhalb der allgemeinen Werkstattablage. Bodo sagt weder eine rechtliche Freigabe zu noch bezeichnet er den Kunden als verdächtig. Er erklärt lediglich, dass die kaufmännische Bearbeitung noch läuft.",
+            "3 Morgenplanung",
+            "Die Werkstatt hält die Maschine bereit, verlässt sich für die Auslieferung aber auf eine ausdrückliche dokumentierte Freigabe. Ohne diese Freigabe wird nicht verladen. Wenn der Transporttermin geändert werden muss, informiert Bodo den Kunden rechtzeitig. Kosten einer Umbuchung werden erst bewertet, wenn die zugrunde liegende Buchung vorliegt."
+          ],
+          "origin": "Geschäftsunterlage"
+        }
+      ],
+      "emails": [
+        {
+          "id": "U-E01",
+          "path": "03_E-Mails/U-E01_2026-09-30.eml",
+          "date": "2026-09-30",
+          "time": "10:22",
+          "sender": "u_kunde",
+          "recipients": [
+            "u_bodo"
+          ],
+          "subject": "Fräsmaschine für unsere neue Serie",
+          "body": "Sehr geehrter Herr Krauß, wir würden die WKM 420 gern nehmen. Uns ist die Verladung wichtig; unser Meister Severin Dörfler kommt mit einem Transporteur. Wir haben die alte Drehbank verkauft und wollen einen Teil des Erlöses direkt einsetzen. Den Rest überweist unsere Buchhaltung. Bitte reservieren Sie die Abholung am 9. Oktober. Für den Montag danach haben wir die erste Serie versprochen. Ich möchte keine zweite Maschine bestellen, es geht nur um das besichtigte Stück. Freundliche Grüße, Cem Rosenkranz.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E02",
+          "path": "03_E-Mails/U-E02_2026-10-02.eml",
+          "date": "2026-10-02",
+          "time": "08:41",
+          "sender": "u_kunde",
+          "recipients": [
+            "u_bodo"
+          ],
+          "subject": "Bestellung und Gesellschaftsdaten",
+          "body": "Sehr geehrter Herr Krauß, die Auftragsbestätigung passt. Die Daten unserer Gesellschaft habe ich beigefügt. Meine Frau hält die übrigen 40 Prozent; bei uns gibt es keine Holding darüber. Severin kümmert sich praktisch um die Abholung, ich bin nächste Woche oft auf Baustellen. Wenn Sie eine besondere Erklärung von mir brauchen, schicken Sie sie bitte direkt an mich. Ich habe ihm noch keine schriftliche Generalvollmacht gegeben. Mit freundlichen Grüßen, Cem Rosenkranz.",
+          "attachments": [
+            "U-P04"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "U-E03",
+          "path": "03_E-Mails/U-E03_2026-10-05.eml",
+          "date": "2026-10-05",
+          "time": "14:42",
+          "sender": "u_nora",
+          "recipients": [
+            "u_bodo"
+          ],
+          "subject": "Erster Umschlag zum Auftrag",
+          "body": "Hallo Bodo, Herr Dörfler hat 6.500 Euro eingezahlt. Der Kassenbeleg ist angehängt. Er sagte, morgen komme noch ein Betrag aus derselben Kasse dazu. Ich habe das nicht als weiteren Auftrag verstanden. Bitte gib Leni Bescheid, falls es dafür Unterlagen gibt. Den Restbetrag habe ich auf dem Beleg ausgewiesen. Morgen bin ich bis neun allein an der Kasse; ich möchte dann nicht zwischen Kundenschlange und Telefon entscheiden müssen, welche Nachweise fehlen. Viele Grüße, Nora.",
+          "attachments": [
+            "U-P02"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "U-E04",
+          "path": "03_E-Mails/U-E04_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "09:19",
+          "sender": "u_nora",
+          "recipients": [
+            "u_bodo"
+          ],
+          "subject": "Zweiter Umschlag ist da",
+          "body": "Hallo Bodo, heute kamen noch einmal 6.500 Euro von Herrn Dörfler, wieder für WT-261001-17. Jetzt stehen 13.000 Euro als Barzahlung in der Buchhaltung. Herr Dörfler fragte, ob ich zwei kleinere Rechnungen ausstellen kann, weil er zwei Umschläge habe. Ich habe ihm gesagt, dass wir nur den einen Kaufvertrag haben, und nichts umgestellt. Er meinte danach, dann solle es eben auf dieselbe Rechnung. Bitte kläre mit Leni, wie wir weiter vorgehen. Nora.",
+          "attachments": [
+            "U-P03"
+          ],
+          "reply_to": "U-E03"
+        },
+        {
+          "id": "U-E05",
+          "path": "03_E-Mails/U-E05_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "16:08",
+          "sender": "u_bodo",
+          "recipients": [
+            "u_leni"
+          ],
+          "subject": "Kurzer Blick vor Freitag",
+          "body": "Hallo Leni, ich habe einen Kunden, der schon 13.000 Euro in zwei Raten bar angezahlt hat. Nora hat mich auf den Zusammenhang hingewiesen. Mir ist wichtig, dass wir es sauber klären; zugleich ist der Tieflader für Freitag angekündigt. Herr Rosenkranz wirkt auf mich wie ein normaler Werkstattkunde, aber das ersetzt Deine Prüfung natürlich nicht. Kannst Du mir sagen, welche Unterlagen ich konkret nachfordern soll? Die Maschine ist seit heute leergeräumt und geprüft. Bodo.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E06",
+          "path": "03_E-Mails/U-E06_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "08:12",
+          "sender": "u_fahrer",
+          "recipients": [
+            "u_bodo"
+          ],
+          "subject": "Ausweisfoto und Abholung",
+          "body": "Guten Morgen, das Foto auf dem Telefon ist leider unscharf. Ich kann mein Dokument beim nächsten Besuch im Original zeigen. Eine Generalvollmacht habe ich nicht; der Chef hatte mich gebeten, das Geld hinzubringen und die Maschine abzuholen. Ich darf nicht eigenständig neue Maschinen bestellen. Dass ich zwei Rechnungen erwähnt habe, war wegen der Umschläge, nicht wegen zweier Maschinen. Bitte sagen Sie, ob Cem etwas unterschreiben muss. Grüße, Severin Dörfler.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E07",
+          "path": "03_E-Mails/U-E07_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "09:33",
+          "sender": "u_leni",
+          "recipients": [
+            "u_kunde"
+          ],
+          "subject": "Unterlagen zum Auftrag WT 261001 17",
+          "body": "Sehr geehrter Herr Rosenkranz, wir führen die Unterlagen zu Ihren beiden Teilzahlungen zusammen. Bitte erläutern Sie, woher das Geld stammt und in welchem Umfang Herr Dörfler für Ihre Gesellschaft tätig werden darf. Wenn Sie bereits einen Beleg zum Verkauf der Altmaschine haben, senden Sie uns diesen bitte. Wir möchten die vorhandenen Erklärungen vollständig zuordnen und vermeiden, dass Sie dieselben Angaben mehrfach machen müssen. Für personenbezogene Nachweise vereinbaren wir eine geeignete Übermittlung. Mit freundlichen Grüßen, Leni Riemenschneider.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E08",
+          "path": "03_E-Mails/U-E08_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "13:48",
+          "sender": "u_kunde",
+          "recipients": [
+            "u_leni"
+          ],
+          "subject": "Altmaschine und die beiden Umschläge",
+          "body": "Sehr geehrte Frau Riemenschneider, den Beleg zur alten Drehbank füge ich bei. Herr Götz hat sie abgeholt und bar bezahlt. Ein Umschlag lag im Büro, den anderen hatte meine Frau in den Tresor gelegt. Severin hat deshalb an zwei Tagen Geld gebracht. Ich habe nicht daran gedacht, dass das bei Ihnen Fragen auslöst. Die Empfangszeile auf der Kopie ist schlecht; ich suche das Original. Severin darf abholen, aber keinen anderen Vertrag mit Ihnen schließen. Freundliche Grüße, Cem Rosenkranz.",
+          "attachments": [
+            "U-P06"
+          ],
+          "reply_to": "U-E07"
+        },
+        {
+          "id": "U-E09",
+          "path": "03_E-Mails/U-E09_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "16:04",
+          "sender": "u_steuer",
+          "recipients": [
+            "u_kunde"
+          ],
+          "subject": "Kassenbuch zum Altmaschinenverkauf",
+          "body": "Sehr geehrter Herr Rosenkranz, ich habe Ihre Nachricht gesehen. Den Verkauf der alten Drehbank haben wir aus Ihrer Monatsmappe als Vorgang übernommen, aber den Oktoberkassenabschluss noch nicht erhalten. Deshalb kann ich heute keinen geprüften Bargeldbestand bestätigen. Bitte reichen Sie den Originalbeleg und die zugehörige Kassenbuchseite nach. Wenn Frau Riemenschneider Unterlagen von uns erhalten soll, nennen Sie bitte den Umfang Ihrer Freigabe. Ich schicke Ihre gesamte Buchführung nicht an den Maschinenhändler. Freundliche Grüße, Ines Haberkorn.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E10",
+          "path": "03_E-Mails/U-E10_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "07:56",
+          "sender": "u_kunde",
+          "recipients": [
+            "u_bodo",
+            "u_leni"
+          ],
+          "subject": "Restüberweisung und Freitag",
+          "body": "Guten Morgen, die Überweisung über 26.000 Euro wollen wir morgen früh auslösen. Heute fehlt noch die zweite Freigabe unserer Bankanwendung. Bitte behandeln Sie diese Nachricht noch nicht als Zahlungsbeleg. Ich lasse Ihnen die Bestätigung zukommen, sobald sie vorhanden ist. Kann der Transporteur seinen Platz um 10:30 Uhr vorsorglich behalten? Ich bin heute ab 13 Uhr für Ihre Rückfragen erreichbar. Viele Grüße, Cem Rosenkranz.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "U-E11",
+          "path": "03_E-Mails/U-E11_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "08:39",
+          "sender": "u_nora",
+          "recipients": [
+            "u_leni"
+          ],
+          "subject": "Buchungsstand für Deine Übersicht",
+          "body": "Hallo Leni, bis 08:30 Uhr sind nur die zwei Barzahlungen gebucht. Den Abgleich habe ich angehängt. Bitte zähle die 39.000 Euro aus dem Auftrag nicht zusätzlich zu den Zahlungen, sonst sieht es nach einem viel höheren Umsatz aus. Wenn morgen eine Überweisung kommt, sage ich sofort Bescheid. Einen Auftrag zur Rückzahlung habe ich nicht. Die Umschläge sind längst in der normalen Kassenabrechnung erfasst. Nora.",
+          "attachments": [
+            "U-P08"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "U-E12",
+          "path": "03_E-Mails/U-E12_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "09:06",
+          "sender": "u_gf",
+          "recipients": [
+            "u_leni"
+          ],
+          "subject": "Bitte Entscheidungsvorlage fertigstellen",
+          "body": "Guten Morgen Leni, bitte bereite den Vorgang gemäß dem beigefügten Arbeitsauftrag auf. Der Vertrieb soll eine verlässliche nächste Handlung bekommen. Ich möchte weder aus Zeitdruck ausliefern noch ohne Tatsachen eine Anschuldigung in die Welt setzen. Kennzeichne, welche Angaben belegt sind, was nur erklärt wurde und wer noch entscheiden muss. Für ein Gespräch mit Dir halte ich heute 14:30 Uhr frei. Grüße, Ottmar.",
+          "attachments": [
+            "U-D01"
+          ],
+          "reply_to": null
+        }
+      ],
+      "workbook_path": "04_Tabellen/Fallregister.xlsx"
+    },
+    {
+      "slug": "aml-kanzlei-grundstueck-berlin",
+      "title": "Berlin Die Käuferin hinter der Hofgesellschaft",
+      "reference_date": "2026-10-08",
+      "role": "Geldwäscheverantwortliche in einer mit der Transaktionsbegleitung beauftragten Rechtsanwaltskanzlei",
+      "contacts": [
+        {
+          "id": "k_samira",
+          "name": "Dr. Samira Seidel",
+          "role": "Rechtsanwältin und Geldwäschebeauftragte",
+          "organisation": "Seidel Kern Rechtsanwälte",
+          "email": "samira.seidel@seidel-kern.example",
+          "address": "Papiermühlenplatz 8, 10997 Berlin"
+        },
+        {
+          "id": "k_kern",
+          "name": "Korbinian Kern",
+          "role": "Rechtsanwalt und Mandatspartner",
+          "organisation": "Seidel Kern Rechtsanwälte",
+          "email": "korbinian.kern@seidel-kern.example",
+          "address": "Papiermühlenplatz 8, 10997 Berlin"
+        },
+        {
+          "id": "k_liv",
+          "name": "Liv Morgenroth",
+          "role": "Geschäftsführerin",
+          "organisation": "Hofbogen Immobilien GmbH",
+          "email": "liv.morgenroth@hofbogen.example",
+          "address": "Hofbogen 17, 10997 Berlin"
+        },
+        {
+          "id": "k_tanja",
+          "name": "Tanja Klee",
+          "role": "Assistenz der Käuferin",
+          "organisation": "Hofbogen Immobilien GmbH",
+          "email": "tanja.klee@hofbogen.example",
+          "address": "Hofbogen 17, 10997 Berlin"
+        },
+        {
+          "id": "k_roque",
+          "name": "Rafael Luz",
+          "role": "Bevollmächtigter der Holding",
+          "organisation": "Atelier Horizonte Lda",
+          "email": "rafael.luz@horizonte-holding.example",
+          "address": "Rua da Oficina 28, 1100-421 Lisboa, Portugal"
+        },
+        {
+          "id": "k_verkaeufer",
+          "name": "Kunigunde Töpfer",
+          "role": "Verkäuferin",
+          "organisation": "Privat",
+          "email": "kunigunde.toepfer@hofpost.example",
+          "address": "Kranichbogen 9, 12555 Berlin"
+        },
+        {
+          "id": "k_notar",
+          "name": "Dr. Arvid Beck",
+          "role": "Notar des Kaufvertrags",
+          "organisation": "Notariat Beck",
+          "email": "post@notariat-beck.example",
+          "address": "Buchbinderplatz 11, 10179 Berlin"
+        }
+      ],
+      "transactions": [
+        {
+          "id": "K-T01",
+          "date": "2026-09-29",
+          "amount_eur": 1280000,
+          "status": "Kaufpreis im Entwurf",
+          "payer": "Hofbogen Immobilien GmbH",
+          "payee": "Kunigunde Töpfer",
+          "evidence_id": "K-P01",
+          "allocation": "Noch keine Fälligkeit oder Zahlung bestätigt."
+        },
+        {
+          "id": "K-T02",
+          "date": "2026-10-02",
+          "amount_eur": 850000,
+          "status": "Finanzierungszusage mit Bedingungen",
+          "payer": "Modellbank Stadtbogen",
+          "payee": "Hofbogen Immobilien GmbH",
+          "evidence_id": "K-P05",
+          "allocation": "Darlehen; Valutierung nicht belegt."
+        },
+        {
+          "id": "K-T03",
+          "date": "2026-10-02",
+          "amount_eur": 330000,
+          "status": "Eigenmittel angekündigt",
+          "payer": "Atelier Horizonte Lda",
+          "payee": "Hofbogen Immobilien GmbH",
+          "evidence_id": "K-P06",
+          "allocation": "Gesellschafterdarlehen angekündigt; Herkunft nicht durch Kontobewegung belegt."
+        },
+        {
+          "id": "K-T04",
+          "date": "2026-10-02",
+          "amount_eur": 100000,
+          "status": "Eigenmittel angekündigt",
+          "payer": "Liv Morgenroth",
+          "payee": "Hofbogen Immobilien GmbH",
+          "evidence_id": "K-E05",
+          "allocation": "Privates Darlehen; Auszahlung nicht belegt."
+        }
+      ],
+      "ownership": [
+        {
+          "owner": "Atelier Horizonte Lda",
+          "company": "Hofbogen Immobilien GmbH",
+          "percent": 60,
+          "evidence_id": "K-P02",
+          "qualification": "Aktuelle Beteiligung laut Gesellschafterübersicht vom 01.09.2026."
+        },
+        {
+          "owner": "Liv Morgenroth",
+          "company": "Hofbogen Immobilien GmbH",
+          "percent": 40,
+          "evidence_id": "K-P02",
+          "qualification": "Direkte Beteiligung; keine abweichenden Sonderrechte bekannt."
+        },
+        {
+          "owner": "Leonor Vale",
+          "company": "Atelier Horizonte Lda",
+          "percent": 60,
+          "evidence_id": "K-P03",
+          "qualification": "Abweichend vom deutschen Transparenzregisterabruf; fiktive EU-Amtsträgerin laut offengelegtem Hinweis."
+        },
+        {
+          "owner": "Nuno Vale",
+          "company": "Atelier Horizonte Lda",
+          "percent": 40,
+          "evidence_id": "K-P03",
+          "qualification": "Bruder von Leonor Vale; Identität und Kontrollrechte noch zu verifizieren."
+        }
+      ],
+      "chronology": [
+        {
+          "date": "2026-09-22",
+          "event": "Transaktionsbegleitung einschließlich Prüfung des Kaufvertrags und Organisation der Unterlagen angefragt.",
+          "evidence_id": "K-E01"
+        },
+        {
+          "date": "2026-09-29",
+          "event": "Kaufvertragsentwurf über 1.28 Mio. EUR geht ein.",
+          "evidence_id": "K-P01"
+        },
+        {
+          "date": "2026-10-01",
+          "event": "Registerabruf nennt noch Rafael Luz; neue Holdingübersicht nennt Leonor und Nuno Vale.",
+          "evidence_id": "K-P04"
+        },
+        {
+          "date": "2026-10-06",
+          "event": "Amtsträgerhinweis wird von Rafael Luz übermittelt; Namensgleichheit und Amt sind noch nicht unabhängig geprüft.",
+          "evidence_id": "K-P07"
+        },
+        {
+          "date": "2026-10-07",
+          "event": "Getrennte vertrauliche Rechtsberatungsnotiz gelangt in den abgeschotteten Bereich der Akte.",
+          "evidence_id": "K-P08"
+        }
+      ],
+      "questions": [
+        "Welche wirtschaftlich Berechtigten ergeben sich nach Prüfung der gesamten Kette und zusätzlicher Kontrolle?",
+        "Wie sind der Registerstand und die neuere Gesellschafterübersicht zeitlich zu erklären?",
+        "Welcher Amtsträgerbezug ist nachweisbar und welche zusätzlichen Tatsachen fehlen?",
+        "Welche Information stammt aus der Transaktionsorganisation und welche ausschließlich aus vertraulicher Rechtsberatung?",
+        "Wie unterscheiden sich Kaufpreisdeckung und Herkunft der Eigenmittel?"
+      ],
+      "documents": [
+        {
+          "id": "K-P01",
+          "path": "01_Belege/K-P01_Kaufvertragsauszug.pdf",
+          "title": "Arbeitskopie zum Kauf des Hofgrundstücks",
+          "paragraphs": [
+            "Fiktive Vertragsunterlage aus dem Mandanteneingang. Entwurfsstand 29.09.2026. Verkäuferin: Kunigunde Töpfer. Käuferin: Hofbogen Immobilien GmbH, vertreten durch Liv Morgenroth. Objekt: Wohn- und Gewerbehof, Werkhofbogen 21, 12059 Berlin. Die Anschrift und sämtliche Beteiligten sind für die Fallbearbeitung erfunden.",
+            "Der Kaufgegenstand besteht aus dem bebauten Hofgrundstück mit sechs vermieteten Wohnungen, einer Tischlerwerkstatt und zwei Lagerflächen. Der vereinbarte Kaufpreis im Entwurf beträgt 1.280.000,00 EUR. Die Käuferin will den Bestand zunächst weitervermieten und später die leerstehende Lagerfläche umbauen.",
+            "Der Entwurf sieht vor, dass die Verkäuferin nach Vorliegen der vereinbarten Voraussetzungen eine Fälligkeitsmitteilung erhält und die Käuferin den Kaufpreis anschließend per Banküberweisung zahlt. Eine bereits geleistete Anzahlung ist im Entwurf nicht festgehalten. Kontodaten wurden aus der Arbeitskopie entfernt.",
+            "Die Kanzlei soll den Entwurf prüfen, Änderungen mit der Gegenseite abstimmen und die Unterlagen für das Notariat zusammenstellen. Sie ist nicht mit der Verwahrung oder Weiterleitung des Kaufpreises beauftragt. Eine Beurkundung ist für den 15.10.2026 angefragt, aber noch nicht abschließend bestätigt.",
+            "Randnotiz von Korbinian Kern: Mietverträge liegen unvollständig vor. Das betrifft die Vertragsprüfung; es erklärt nicht die Beteiligungsänderung und ersetzt keine Angaben zur Finanzierung."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-P02",
+          "path": "01_Belege/K-P02_Beteiligung_Hofbogen.pdf",
+          "title": "Gesellschafterübersicht der Hofbogen Immobilien GmbH",
+          "paragraphs": [
+            "Fiktive Fallunterlage ohne amtliches Siegel. Die Übersicht wurde von Liv Morgenroth am 01.09.2026 unterzeichnet und am 30.09.2026 an die Kanzlei geschickt. Ein Registerabruf ist damit nicht nachgebildet.",
+            "Das Stammkapital der Hofbogen Immobilien GmbH beträgt nach der vorgelegten Übersicht 25.000,00 EUR. Die Atelier Horizonte Lda hält 60 Prozent, Liv Morgenroth 40 Prozent. Liv Morgenroth wird als alleinige Geschäftsführerin bezeichnet. Für die Vertretung der Holding handelt nach der Mandantenangabe Rafael Luz.",
+            "Gesonderte Stimmrechte, Treuhandabreden, Vetorechte oder Absprachen über die Ausübung von Gesellschafterrechten werden nicht erläutert. Der Begleittext der Mandantin sagt nur, dass sich am Berliner Unternehmen selbst nichts geändert habe. Diese Aussage lässt offen, ob sich die Eigentümer der Holding geändert haben.",
+            "Die Anschrift der Hofbogen Immobilien GmbH lautet Hofbogen 17, 10997 Berlin. Der Geschäftszweck ist nach der Selbstauskunft der Erwerb und die Verwaltung eigenen Immobilienvermögens. Die Gesellschaft hat nach eigener Angabe bisher ein kleineres Wohnhaus verwaltet."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Gesellschafter",
+              "Anteil",
+              "Angabe zum Stand"
+            ],
+            [
+              "Atelier Horizonte Lda",
+              "60 Prozent",
+              "01.09.2026"
+            ],
+            [
+              "Liv Morgenroth",
+              "40 Prozent",
+              "01.09.2026"
+            ]
+          ]
+        },
+        {
+          "id": "K-P03",
+          "path": "01_Belege/K-P03_Holding_Uebersicht.pdf",
+          "title": "Eigentümerangaben zur Atelier Horizonte Lda",
+          "paragraphs": [
+            "Fiktive Fallunterlage. Deutschsprachige Erläuterung des Mandantenkontakts Rafael Luz vom 05.10.2026; kein beglaubigter ausländischer Registerauszug und keine geprüfte Übersetzung.",
+            "Die Atelier Horizonte Lda hat ihren Sitz nach den übermittelten Angaben in Lisboa, Portugal, Rua da Oficina 28. Seit dem 20.08.2026 hält Leonor Vale 60 Prozent und ihr Bruder Nuno Vale 40 Prozent. Rafael Luz erklärt, er habe seine früheren Anteile vollständig übertragen und handele seitdem nur noch auf Vollmachtsbasis.",
+            "Das übermittelte Diagramm zeigt unter der Holding die Hofbogen Immobilien GmbH mit einem Anteil von 60 Prozent. Die übrigen 40 Prozent der Hofbogen Immobilien GmbH hält Liv Morgenroth unmittelbar. Ob die Vollmacht von Rafael Luz aktuell ist und welche Geschäfte sie umfasst, ist dem Diagramm nicht zu entnehmen.",
+            "Rafael Luz hat in einer Fußnote ergänzt, dass es nach seiner Kenntnis keine Treuhand gebe. Ein Gesellschaftsvertrag der Holding und die Übertragungsunterlagen sind nicht beigefügt. Die Übersicht ist eine aktuelle Erklärung, deren wesentliche Angaben unabhängig abzugleichen sind."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Ebene",
+              "Person oder Gesellschaft",
+              "Anteil",
+              "Stand"
+            ],
+            [
+              "Holding",
+              "Leonor Vale",
+              "60 Prozent",
+              "20.08.2026"
+            ],
+            [
+              "Holding",
+              "Nuno Vale",
+              "40 Prozent",
+              "20.08.2026"
+            ],
+            [
+              "Käuferin",
+              "Atelier Horizonte Lda",
+              "60 Prozent",
+              "01.09.2026"
+            ],
+            [
+              "Käuferin",
+              "Liv Morgenroth",
+              "40 Prozent",
+              "01.09.2026"
+            ]
+          ]
+        },
+        {
+          "id": "K-P04",
+          "path": "01_Belege/K-P04_Registerstand_Nachbildung.pdf",
+          "title": "Übertragener Stand des Transparenzregisterabrufs",
+          "paragraphs": [
+            "Fiktive Fallunterlage ohne amtliche Beglaubigung. Die Seite ist eine didaktische Nachbildung der für die Fallbearbeitung relevanten Datenfelder und kein echter Registerauszug. Es wird kein amtliches Siegel verwendet.",
+            "Interne Abrufnotiz von Tanja Klee vom 01.10.2026 um 09:12 Uhr zur Hofbogen Immobilien GmbH. Als wirtschaftlich berechtigte Personen sind im nachgebildeten Stand Liv Morgenroth und Rafael Luz genannt. Als Datum der letzten Änderung ist der 12.03.2025 angegeben.",
+            "Die Kanzlei hat die Originalquelle dieses Abrufs noch nicht selbst geöffnet. Die übermittelte Kopie enthält keine neuere Berichtigung und keine Aussage darüber, ob eine Meldung zur Änderung auf Ebene der Holding bereits eingereicht wurde.",
+            "Der Vergleich mit K-P03 zeigt unterschiedliche Personen und unterschiedliche Zeitstände. Die Abweichung ist zunächst als Aktenbefund festzuhalten. Ob die Kopie vollständig ist, welche Beteiligungsrechte aktuell bestehen und wie mit einer festgestellten Unstimmigkeit umzugehen ist, bleibt Gegenstand der weiteren Bearbeitung."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-P05",
+          "path": "01_Belege/K-P05_Finanzierungsindikation.pdf",
+          "title": "Finanzierungsindikation der Modellbank Stadtbogen",
+          "paragraphs": [
+            "Fiktive Bankenunterlage. An Hofbogen Immobilien GmbH, zu Händen Liv Morgenroth. Berlin, 02.10.2026. Betreff: Erwerb Werkhofbogen 21.",
+            "Wir können vorbehaltlich abschließender Kreditentscheidung, Objektbewertung und vollständiger Unterlagen ein Darlehen in Höhe von 850.000,00 EUR in Aussicht stellen. Die Indikation ist noch keine Auszahlungsbestätigung. Insbesondere müssen die Eigenmittel von 430.000,00 EUR und die Kaufnebenkosten anderweitig gedeckt sein.",
+            "Die Auszahlung ist erst nach Erfüllung der im späteren Darlehensvertrag genannten Voraussetzungen möglich. Dieser Brief nennt weder ein verbindliches Auszahlungsdatum noch einen bereits eingerichteten Zahlungsauftrag. Er darf nicht als Kontoauszug oder Nachweis einer Kaufpreiszahlung verwendet werden.",
+            "Bitte reichen Sie die aktuelle Gesellschafterstruktur und die Unterlagen zu den vorgesehenen Gesellschafterdarlehen nach. Die hier behandelte Finanzierung wird nicht über ein Konto der beratenden Kanzlei abgewickelt. Eine Bankverbindung ist in dieser Fallunterlage bewusst nicht enthalten."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-P06",
+          "path": "01_Belege/K-P06_Eigenmittelnotiz.pdf",
+          "title": "Finanzierungsplan der Käuferin",
+          "paragraphs": [
+            "Erstellt von Liv Morgenroth am 02.10.2026. Die Aufstellung betrifft ausschließlich den Kaufpreis von 1.280.000,00 EUR; Erwerbsnebenkosten sind gesondert zu kalkulieren.",
+            "Die Modellbank soll 850.000,00 EUR finanzieren. Die Holding Atelier Horizonte Lda soll 330.000,00 EUR als Gesellschafterdarlehen bereitstellen. Ich selbst werde weitere 100.000,00 EUR darlehensweise zuführen. Damit ergibt sich rechnerisch der Kaufpreis. Das bedeutet nicht, dass die Beträge bereits auf dem Käuferkonto stehen.",
+            "Rafael Luz hat zur Herkunft der Holdingmittel erläutert, dass die Gesellschaft im Frühjahr Beteiligungserlöse erzielt habe. Ein Kontoauszug, ein Verkaufsvertrag und der Zuflussnachweis liegen der Käuferin derzeit noch nicht vollständig vor. Liv Morgenroth will ihre Mittel aus Ersparnissen und dem Verkauf eines Wertpapierdepots entnehmen.",
+            "Die Holding soll unmittelbar an die Käufergesellschaft zahlen, nicht an die Kanzlei. Falls der Zeitplan nicht hält, muss die Finanzierung neu abgestimmt werden. Eine vorläufige Überweisung über ein Privatkonto von Tanja Klee ist weder beauftragt noch vorgesehen."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Baustein",
+              "Betrag EUR",
+              "Aktenstand"
+            ],
+            [
+              "Bankdarlehen",
+              "850.000,00",
+              "Bedingte Indikation"
+            ],
+            [
+              "Holdingdarlehen",
+              "330.000,00",
+              "Angekündigt"
+            ],
+            [
+              "Darlehen Liv Morgenroth",
+              "100.000,00",
+              "Angekündigt"
+            ],
+            [
+              "Kaufpreisdeckung rechnerisch",
+              "1.280.000,00",
+              "Keine Zahlungsbestätigung"
+            ]
+          ]
+        },
+        {
+          "id": "K-P07",
+          "path": "01_Belege/K-P07_Amtstraegerhinweis.pdf",
+          "title": "Offengelegter Hinweis zu Leonor Vale",
+          "paragraphs": [
+            "Fiktive Fallunterlage. Die Person und das beschriebene Amt sind erfunden. Diese Seite bildet einen im Mandat eingegangenen Hinweis ab, keine amtliche Personenrecherche und keine abgeschlossene PEP-Prüfung.",
+            "Rafael Luz erklärt am 06.10.2026: Leonor Vale ist seit Juni 2024 Mitglied der Regierung eines anderen EU-Mitgliedstaats, hier Portugal, und leitet ein Ministerium. Die Beteiligung an der Holding bestand nach seinen Angaben schon vor der Übernahme des Regierungsamts. Nuno Vale ist ihr Bruder.",
+            "Der Hinweis ist mit einem Textausschnitt einer angeblichen Ministeriumsbiografie übersandt worden. Ein überprüfbarer Abrufnachweis fehlt. Die Kanzlei muss Identität, Amt, Amtsdauer und die Beziehungen der Beteiligten eigenständig klären; eine Namensähnlichkeit allein genügt dafür nicht.",
+            "Rafael Luz bittet um diskrete Bearbeitung, erklärt sich aber grundsätzlich zu ergänzenden Unterlagen bereit. In den vorhandenen Dokumenten findet sich kein konkreter Hinweis auf eine staatliche Gegenleistung im Zusammenhang mit dem Berliner Grundstück. Aus dem Amtsträgerhinweis allein folgt keine Bewertung der Mittel als unrechtmäßig."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-P08",
+          "path": "01_Belege/K-P08_Beratungsnotiz_beschraenkt.pdf",
+          "title": "Vertrauliche Notiz aus der gesonderten Rechtsberatung",
+          "paragraphs": [
+            "Zugriffsbeschränkte Mandatsnotiz von Korbinian Kern, 07.10.2026. Herkunft: vertrauliches Gespräch mit Liv Morgenroth zur Einschätzung ihrer eigenen Rechtslage. Diese Notiz ist nicht Teil der vom Mandanten zur Weiterleitung bestimmten Transaktionsunterlagen.",
+            "Frau Morgenroth fragte, welche Risiken sich für sie daraus ergeben könnten, wenn Angaben zur früheren Eigentümerstruktur länger unverändert geblieben seien. Sie habe die Änderungen in Portugal nicht selbst vorbereitet. Rafael habe im September gesagt, sein Name könne vorläufig stehen bleiben, bis die Unterlagen vollständig seien. Ob sich diese Aussage auf eine interne Liste oder einen amtlichen Eintrag bezog, konnte sie nicht sicher wiedergeben.",
+            "Frau Morgenroth fragte ausdrücklich nach Beratung, wie sie ihre Position klären und mögliche eigene Fehler korrigieren könne. Sie beauftragte keine Verschleierung, keine falsche Erklärung und keine Zahlung. Ich habe in diesem Gespräch keine Erklärung gegenüber einem Register oder einer Behörde abgegeben.",
+            "Der Wortlaut ist meine zeitnahe Gesprächsnotiz. Die Mandantin hat ihn nicht als Tatsachenerklärung zur Weitergabe freigegeben. Vor jeder weiteren Nutzung ist zu prüfen, welche Information aus welcher Beratungs- oder Transaktionsquelle stammt. Inhalt und Herkunft dürfen nicht ohne gesonderte rechtliche Prüfung in eine allgemeine Meldungsvorlage kopiert werden."
+          ],
+          "origin": "Vertrauliche Rechtsberatung gesondert zugriffsbeschränkt"
+        },
+        {
+          "id": "K-D01",
+          "path": "02_Arbeitsunterlagen/K-D01_Arbeitsauftrag.docx",
+          "title": "Auftrag zur Aufbereitung des Hofbogen Mandats",
+          "paragraphs": [
+            "Berlin, 08.10.2026. Korbinian Kern an Dr. Samira Seidel. Wir begleiten die Hofbogen Immobilien GmbH bei ihrem Grundstückserwerb. Bitte prüfen Sie anhand des konkreten Tätigkeitsumfangs, welche geldwäscherechtlichen Pflichten in diesem Mandat ausgelöst werden und welche Unterlagen dazu fehlen.",
+            "1 Mandatsgrenzen",
+            "Der Auftrag umfasst die Prüfung und Verhandlung des Kaufvertrags sowie die Zusammenstellung von Unterlagen für das Notariat. Geldverwahrung, Kontoführung und Zahlungsweiterleitung sind nicht beauftragt. Eine daneben geführte vertrauliche Rechtsberatung ist in K-P08 separat dokumentiert.",
+            "2 Erwartete Arbeitsprodukte",
+            "Bitte erstellen Sie eine Beteiligungskette, eine Gegenüberstellung der unterschiedlichen Registerstände und eine Finanzierungsübersicht mit Belegstatus. Formulieren Sie die nächsten gezielten Rückfragen sowie einen internen Prüfvermerk zu den offenen Entscheidungen. Stellen Sie keine Meldung als bereits geboten dar, bevor Herkunft, Tatbestand und berufsbezogene Grenzen geprüft sind.",
+            "3 Weiteres Vorgehen",
+            "Die Beurkundung ist für den 15.10.2026 angefragt. Das Notariat erhält nur abgestimmte Unterlagen. Samira Seidel und Korbinian Kern besprechen den Stand am 09.10.2026. Versand, Registerhandlung oder behördliche Mitteilung sind in diesem Arbeitsauftrag nicht freigegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-D02",
+          "path": "02_Arbeitsunterlagen/K-D02_Entwurf_Unterlagenanforderung.docx",
+          "title": "Entwurf einer Unterlagenanforderung",
+          "paragraphs": [
+            "Seidel Kern Rechtsanwälte, Papiermühlenplatz 8, 10997 Berlin. An Hofbogen Immobilien GmbH, Frau Liv Morgenroth, Hofbogen 17, 10997 Berlin. Berlin, 08.10.2026.",
+            "Sehr geehrte Frau Morgenroth, für die weitere Begleitung des Erwerbs benötigen wir eine konsistente Dokumentation der aktuellen Beteiligungsverhältnisse. Die Übersicht vom 5. Oktober nennt andere Personen auf Ebene der Holding als der uns übersandte frühere Registerstand. Bitte senden Sie uns die Unterlagen, aus denen Zeitpunkt und Inhalt der Beteiligungsänderung hervorgehen, sowie den aktuellen Vertretungsnachweis von Herrn Luz.",
+            "Bitte teilen Sie außerdem mit, ob neben den Anteilen besondere Stimm-, Kontroll- oder Treuhandabreden bestehen. Den offengelegten Amtsträgerhinweis werden wir anhand belastbarer Angaben prüfen. Hierzu benötigen wir die genaue Identität und die Funktion der betreffenden Person sowie den zeitlichen Bezug; eine ungeprüfte Suchtrefferkopie allein reicht für unsere Dokumentation nicht aus.",
+            "Die Finanzierung ist rechnerisch beschrieben, aber die Herkunft der Eigenmittel noch nicht hinreichend belegt. Bitte reichen Sie die Unterlagen zum vorgesehenen Holdingdarlehen und zu Ihrer eigenen Mittelbereitstellung ein. Kontobelege sollten nur die für den konkreten Nachweis erforderlichen Informationen enthalten und über den vereinbarten geschützten Kanal übermittelt werden.",
+            "Wir bitten um Rückmeldung bis zum 12.10.2026, damit wir den weiteren Terminplan mit Ihnen abstimmen können. Diese organisatorische Bitte ersetzt keine gesonderte Prüfung rechtlich maßgeblicher Fristen. Mit freundlichen Grüßen, Dr. Samira Seidel, Rechtsanwältin. Entwurf ohne Versandfreigabe."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-D03",
+          "path": "02_Arbeitsunterlagen/K-D03_Telefonnotiz.docx",
+          "title": "Telefonnotiz vom 8. Oktober 2026",
+          "paragraphs": [
+            "Telefonnotiz von Tanja Klee, 08.10.2026, 09:10 Uhr. Gespräch mit Rafael Luz zur Unterlagenübersendung an Seidel Kern Rechtsanwälte. Die Gesprächsnotiz wurde an Liv Morgenroth weitergeleitet.",
+            "Herr Luz sagte, er habe am Montag die Holdingübersicht verschickt. Darin stünden Leonor Vale mit 60 Prozent und Nuno Vale mit 40 Prozent. Warum der ältere deutsche Registerauszug noch ihn selbst nenne, könne er aus dem Stegreif nicht beantworten. Er wolle die Unterlagen zur damaligen Meldung in Lissabon anfordern und die zeitliche Abfolge mit der Geschäftsführung besprechen.",
+            "Zu seiner eigenen Vollmacht sagte er, dass eine unterschriebene Fassung vorhanden sein müsse. In seinem heutigen Reiseordner liege nur ein Scan ohne die letzte Seite. Er werde das Büro um die vollständige Fassung bitten. Nuno Vale sei diese Woche unterwegs; eine Rückmeldung könne deshalb bis Montag dauern.",
+            "Liv teilte mir anschließend mit, dass die 100.000,00 EUR von ihr selbst noch nicht überwiesen seien. Die 330.000,00 EUR der Holding sollten ebenfalls erst nach Abstimmung mit der Kanzlei bereitgestellt werden. Von der Bank liege nach ihrem Kenntnisstand eine Zusage, aber noch kein Auszahlungsbeleg vor. Ich soll die fehlenden Dateien in einer einzigen Nachricht bündeln und keine neue Summe in den Kaufvertragsentwurf eintragen."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "K-D04",
+          "path": "02_Arbeitsunterlagen/K-D04_Mandatsumfang.docx",
+          "title": "Vereinbarter Umfang der Transaktionsbegleitung",
+          "paragraphs": [
+            "Entwurfsfassung zur Abstimmung zwischen Seidel Kern Rechtsanwälte und der Hofbogen Immobilien GmbH, 08.10.2026.",
+            "1 Vertragsarbeit",
+            "Die Kanzlei prüft den übermittelten Kaufvertragsentwurf zum Grundstück Werkhofbogen 21 und formuliert die mit der Mandantin abgestimmten Änderungswünsche. Sie wertet die vorgelegten Miet- und Objektunterlagen aus und weist auf für die Entscheidung wesentliche Lücken hin. Eine technische Untersuchung des Gebäudes ist nicht umfasst.",
+            "2 Kommunikation",
+            "Die Kanzlei bereitet die Korrespondenz mit Verkäuferin und Notariat vor. Die Mandantin benennt Liv Morgenroth als Ansprechpartnerin für geschäftliche Entscheidungen. Eine Weitergabe vertraulicher Beratungsinhalte wird durch die allgemeine Kommunikationsbeauftragung nicht pauschal angeordnet.",
+            "3 Zahlungsabwicklung",
+            "Die Kanzlei nimmt keine Kaufpreisgelder entgegen und richtet für diesen Erwerb kein Anderkonto ein. Die Mandantin organisiert die Finanzierung und zahlt über die dafür vereinbarten Bankwege. Die Prüfung von Unterlagen durch die Kanzlei bestätigt weder den Eingang noch die rechtmäßige Herkunft eines Geldbetrags.",
+            "4 Unterlagen und Fortgang",
+            "Die Mandantin stellt aktuelle Identitäts-, Vertretungs- und Beteiligungsunterlagen sowie auf begründete Nachfrage die benötigten Finanzierungsbelege bereit. Falls entscheidende Angaben fehlen, stimmt die Kanzlei den weiteren Bearbeitungsstand mit ihr ab. Dieses Papier ist ein ausformulierter Abstimmungsentwurf und noch keine abschließend unterzeichnete Mandatsvereinbarung."
+          ],
+          "origin": "Geschäftsunterlage"
+        }
+      ],
+      "emails": [
+        {
+          "id": "K-E01",
+          "path": "03_E-Mails/K-E01_2026-09-22.eml",
+          "date": "2026-09-22",
+          "time": "10:05",
+          "sender": "k_liv",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Kauf des Hofs in Neukölln",
+          "body": "Sehr geehrter Herr Kern, wir wollen den Hof in der Werkhofbogen 21 erwerben. Bitte prüfen Sie den Kaufvertrag und verhandeln Sie die offenen Punkte mit Frau Töpfer beziehungsweise dem Notariat. Wir brauchen auch Hilfe dabei, die richtigen Unterlagen zusammenzustellen. Es geht also nicht nur um eine unverbindliche erste Einschätzung. Zahlungen möchten wir selbst über unsere Bank abwickeln. Ein Konto Ihrer Kanzlei brauchen wir dafür nicht. Freundliche Grüße, Liv Morgenroth.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E02",
+          "path": "03_E-Mails/K-E02_2026-09-30.eml",
+          "date": "2026-09-30",
+          "time": "09:34",
+          "sender": "k_tanja",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Beteiligungsübersicht und Vertrag",
+          "body": "Sehr geehrter Herr Kern, anbei die aktuelle Übersicht unserer GmbH und der Kaufvertragsentwurf. Die Holding steht mit 60 Prozent drin, Frau Morgenroth mit 40 Prozent. Herr Luz ist weiterhin unser Ansprechpartner in Portugal. Seine eigene Beteiligung hat sich wohl verändert; ich kenne die Einzelheiten nicht und möchte hierzu nichts Falsches bestätigen. Fragen dazu am besten direkt an ihn. Der Notartermin am 15. Oktober ist bislang nur angefragt. Viele Grüße, Tanja Klee.",
+          "attachments": [
+            "K-P01",
+            "K-P02"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "K-E03",
+          "path": "03_E-Mails/K-E03_2026-10-01.eml",
+          "date": "2026-10-01",
+          "time": "09:17",
+          "sender": "k_tanja",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Kopie vom Registerstand",
+          "body": "Sehr geehrte Frau Dr. Seidel, ich habe Ihnen den Stand angehängt, den wir im Büro für das Transparenzregister abgelegt haben. Darin stehen noch Frau Morgenroth und Herr Luz. Ich weiß nicht, ob Rafael die Änderungen in Portugal bereits weitergegeben hat. Bitte nehmen Sie die Kopie nicht als Bestätigung, dass seit März 2025 alles unverändert ist. Ich versuche parallel, die neueren Unterlagen zu bekommen. Freundliche Grüße, Tanja Klee.",
+          "attachments": [
+            "K-P04"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "K-E04",
+          "path": "03_E-Mails/K-E04_2026-10-02.eml",
+          "date": "2026-10-02",
+          "time": "14:06",
+          "sender": "k_liv",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Die Bank sagt grundsätzlich ja",
+          "body": "Sehr geehrter Herr Kern, die Bankindikation ist da. 850.000 Euro wären möglich, vorbehaltlich der dort genannten Bedingungen. Die übrigen 430.000 Euro stellen die Holding und ich zur Verfügung. Anbei der Plan und der Bankbrief. Das Geld ist noch nicht ausgezahlt. Ich möchte nur vermeiden, dass wir im Kaufvertrag etwas zusagen, das zeitlich nicht klappt. Bitte sagen Sie mir, welche zusätzlichen Belege Sie brauchen. Mit freundlichen Grüßen, Liv Morgenroth.",
+          "attachments": [
+            "K-P05",
+            "K-P06"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "K-E05",
+          "path": "03_E-Mails/K-E05_2026-10-02.eml",
+          "date": "2026-10-02",
+          "time": "17:19",
+          "sender": "k_liv",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Meine 100000 Euro",
+          "body": "Sehr geehrte Frau Dr. Seidel, meine 100.000 Euro kommen aus langjährigen Ersparnissen und dem Verkauf von Wertpapieren. Ich habe noch keine Zahlung an die Verkäuferin oder die Käufergesellschaft ausgelöst. Die Depotabrechnung kann ich Ihnen über den sicheren Zugang zur Verfügung stellen. Bitte teilen Sie mir mit, welche Seiten Sie benötigen; auf dem Monatsauszug stehen auch private Zahlungen meiner Familie. Ich will nicht unnötig alles an den großen Verteiler senden. Freundliche Grüße, Liv Morgenroth.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E06",
+          "path": "03_E-Mails/K-E06_2026-10-05.eml",
+          "date": "2026-10-05",
+          "time": "11:28",
+          "sender": "k_roque",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Eigentümer der Holding seit August",
+          "body": "Sehr geehrte Frau Dr. Seidel, ich habe meine Anteile im August übertragen. Leonor Vale hält jetzt 60 Prozent, ihr Bruder Nuno 40 Prozent. Ich betreue die Gesellschaft nur noch aufgrund einer Vollmacht. Das Diagramm finden Sie anbei; den Gesellschaftsvertrag und die Übertragungsunterlagen muss ich aus unserem Archiv beschaffen. Dass im deutschen Register noch mein Name steht, war mir bis zu Ihrer Nachfrage nicht klar. Ich möchte den Stand richtigstellen lassen, aber zuvor die Angaben abstimmen. Mit freundlichen Grüßen, Rafael Luz.",
+          "attachments": [
+            "K-P03"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "K-E07",
+          "path": "03_E-Mails/K-E07_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "08:45",
+          "sender": "k_roque",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Hinweis zur Funktion von Frau Vale",
+          "body": "Sehr geehrte Frau Dr. Seidel, Frau Vale hat ein Regierungsamt. Ich lege die Beschreibung bei, die wir intern dazu verwenden. Bitte prüfen Sie die genauen Daten, statt sich allein auf meinen Text zu verlassen. Die Gesellschaft bestand schon vorher. Nach meiner Kenntnis stammt das vorgesehene Geld aus einem Beteiligungsverkauf, nicht aus einer öffentlichen Vergabe. Die Nachweise dazu reiche ich nach. Wegen des Amtes möchte die Familie einen kleinen Empfängerkreis; ich verstehe, dass dies notwendige Prüfungen nicht ersetzt. Rafael Luz.",
+          "attachments": [
+            "K-P07"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "K-E08",
+          "path": "03_E-Mails/K-E08_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "15:12",
+          "sender": "k_verkaeufer",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Termin und Kaufpreis",
+          "body": "Sehr geehrter Herr Kern, ich habe für den 15. Oktober meine Tochter zur Begleitung organisiert. Bitte sagen Sie möglichst bald, ob der Termin zustande kommt. Die Werkstatt fragt bereits wegen des künftigen Vermieters nach. Einen Preisnachlass wegen Verzögerungen habe ich nicht zugesagt. Für eine kurze Erklärung, welche Unterlagen zum Vertrag noch fehlen, bin ich offen. Private Verhältnisse Ihrer Mandantin muss ich dafür nicht kennen. Mit freundlichen Grüßen, Kunigunde Töpfer.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E09",
+          "path": "03_E-Mails/K-E09_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "09:03",
+          "sender": "k_liv",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Bitte vertrauliches Beratungsgespräch",
+          "body": "Sehr geehrter Herr Kern, ich möchte getrennt vom allgemeinen Kaufvertragsverteiler über meine eigene Lage sprechen. Es geht um den älteren Registereintrag und darum, was ich bisher wusste. Bitte nehmen Sie Tanja und Rafael nicht in Kopie. Ich möchte wissen, wie ich mögliche Fehler richtig aufarbeite. Dieses Gespräch soll nicht als Information für die Verkäuferin oder das Notariat protokolliert werden. Heute um 11 Uhr könnte ich telefonieren. Mit freundlichen Grüßen, Liv Morgenroth.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E10",
+          "path": "03_E-Mails/K-E10_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "12:20",
+          "sender": "k_kern",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Getrennte Beratungsnotiz im geschützten Bereich",
+          "body": "Liebe Samira, ich habe das Gespräch mit Frau Morgenroth in K-P08 dokumentiert. Die Datei liegt im eingeschränkten Teil der Akte, nicht im Notarversand. Bitte beachte die Herkunft, wenn Du den gesamten Vorgang prüfst. Die Frage, welche Informationen aus welchen Quellen verwendet werden dürfen oder müssen, soll ausdrücklich Teil Deiner rechtlichen Prüfung sein. Ich erwarte daraus keine automatische Standardmeldung. Für die Transaktionsunterlagen haben wir ohnehin noch mehrere unabhängige Lücken. Korbinian.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E11",
+          "path": "03_E-Mails/K-E11_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "16:31",
+          "sender": "k_notar",
+          "recipients": [
+            "k_kern"
+          ],
+          "subject": "Unterlagen und vorläufiger Termin",
+          "body": "Sehr geehrter Herr Rechtsanwalt Kern, der 15.10.2026 ist derzeit vorgemerkt. Bitte übermitteln Sie uns die abgestimmte Vertragsfassung und die erforderlichen aktuellen Angaben zur Käuferin. Wenn eine wesentliche Klärung noch aussteht, sagen Sie dies bitte frühzeitig. Wir übernehmen keine Erklärung aus einer alten Kopie allein deshalb, weil sie schon im Mandantenordner liegt. Über den Umfang Ihrer internen Beratung benötige ich keine pauschale Aktenkopie. Mit freundlichen Grüßen, Dr. Arvid Beck.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "K-E12",
+          "path": "03_E-Mails/K-E12_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "08:36",
+          "sender": "k_kern",
+          "recipients": [
+            "k_samira"
+          ],
+          "subject": "Aufbereitung für morgen",
+          "body": "Liebe Samira, anbei der Arbeitsauftrag. Bitte bereite eine klare Beteiligungskette und die nächsten Rückfragen vor. Der Finanzierungssaldo allein genügt nicht: Wir müssen sehen, ob es sich um angekündigte Mittel oder bereits belegte Zuflüsse handelt. Halte die vertrauliche Beratungsquelle getrennt. Ich habe morgen 09:30 Uhr für unsere Entscheidung über den weiteren Fortgang reserviert. Bis dahin versenden wir keinen gesamten Aktenexport. Korbinian.",
+          "attachments": [
+            "K-D01"
+          ],
+          "reply_to": null
+        }
+      ],
+      "workbook_path": "04_Tabellen/Fallregister.xlsx"
+    },
+    {
+      "slug": "aml-notariat-kaufpreis-wuerzburg",
+      "title": "Würzburg Die Quittung in der Keksdose",
+      "reference_date": "2026-10-08",
+      "role": "Notarin mit zuständiger Sachbearbeitung für Kaufpreisnachweise und Geldwäscheprüfung",
+      "contacts": [
+        {
+          "id": "n_notarin",
+          "name": "Dr. Friederike Feulner",
+          "role": "Notarin",
+          "organisation": "Notariat Feulner",
+          "email": "friederike.feulner@notariat-feulner.example",
+          "address": "Rebengarten 12, 97070 Würzburg"
+        },
+        {
+          "id": "n_sach",
+          "name": "Noah Birkner",
+          "role": "Notarfachangestellter",
+          "organisation": "Notariat Feulner",
+          "email": "noah.birkner@notariat-feulner.example",
+          "address": "Rebengarten 12, 97070 Würzburg"
+        },
+        {
+          "id": "n_kauf",
+          "name": "Malika Rottmann",
+          "role": "Käuferin",
+          "organisation": "Privat",
+          "email": "malika.rottmann@abendpost.example",
+          "address": "Ziegelhof 6, 97084 Würzburg"
+        },
+        {
+          "id": "n_ver",
+          "name": "Alfons Schramm",
+          "role": "Verkäufer",
+          "organisation": "Privat",
+          "email": "alfons.schramm@abendpost.example",
+          "address": "Lindenstiege 4, 97082 Würzburg"
+        },
+        {
+          "id": "n_eltern",
+          "name": "Roswitha Rottmann",
+          "role": "Mutter der Käuferin",
+          "organisation": "Privat",
+          "email": "roswitha.rottmann@abendpost.example",
+          "address": "Hirtenbogen 18, 97318 Kitzingen"
+        },
+        {
+          "id": "n_bank",
+          "name": "Dagmar Merz",
+          "role": "Sachbearbeitung Immobilienfinanzierung",
+          "organisation": "Modellbank Mainwinkel",
+          "email": "dagmar.merz@mainwinkel-bank.example",
+          "address": "Uferbogen 2, 97070 Würzburg"
+        },
+        {
+          "id": "n_makler",
+          "name": "Burkhard Hopf",
+          "role": "Makler",
+          "organisation": "Mainbogen Immobilien",
+          "email": "burkhard.hopf@mainbogen-immobilien.example",
+          "address": "Marktgarten 5, 97070 Würzburg"
+        }
+      ],
+      "transactions": [
+        {
+          "id": "N-T01",
+          "date": "2026-09-15",
+          "amount_eur": 580000,
+          "status": "beurkundeter Kaufpreis laut Fallunterlage",
+          "payer": "Malika Rottmann",
+          "payee": "Alfons Schramm",
+          "evidence_id": "N-P01",
+          "allocation": "Gesamtkaufpreis; keine eigene Zahlung."
+        },
+        {
+          "id": "N-T02",
+          "date": "2026-09-30",
+          "amount_eur": 450000,
+          "status": "Bankabgang bestätigt Eingang noch nicht bestätigt",
+          "payer": "Modellbank Mainwinkel für Malika Rottmann",
+          "payee": "Alfons Schramm",
+          "evidence_id": "N-P04",
+          "allocation": "Darlehensauszahlung; Buchungsbestätigung der zahlenden Bank."
+        },
+        {
+          "id": "N-T03",
+          "date": "2026-09-30",
+          "amount_eur": 110000,
+          "status": "Bankabgang bestätigt Eingang noch nicht bestätigt",
+          "payer": "Roswitha Rottmann",
+          "payee": "Alfons Schramm",
+          "evidence_id": "N-P03",
+          "allocation": "Drittzahlung; behauptete Schenkung an Tochter."
+        },
+        {
+          "id": "N-T04",
+          "date": "2026-09-10",
+          "amount_eur": 20000,
+          "status": "Barzahlung nur widersprüchlich behauptet",
+          "payer": "Malika Rottmann",
+          "payee": "Alfons Schramm",
+          "evidence_id": "N-P05",
+          "allocation": "Quittungskopie; Käuferin bezeichnet sie als Entwurf, Verkäufer als Zahlungsbeleg."
+        }
+      ],
+      "ownership": [
+        {
+          "owner": "Malika Rottmann",
+          "company": "Erworbenes Grundstück",
+          "percent": 100,
+          "evidence_id": "N-P01",
+          "qualification": "Alleinerwerb nach Vertragsunterlage; Mutter soll kein Eigentum erhalten."
+        }
+      ],
+      "chronology": [
+        {
+          "date": "2026-09-10",
+          "event": "Das Datum steht auf einer später übermittelten Quittungskopie; tatsächlicher Geldfluss streitig.",
+          "evidence_id": "N-P05"
+        },
+        {
+          "date": "2026-09-15",
+          "event": "Kaufvertrag über Wohn- und Geschäftshaus wird laut Fallunterlage beurkundet.",
+          "evidence_id": "N-P01"
+        },
+        {
+          "date": "2026-09-25",
+          "event": "Fälligkeitsmitteilung wird versandt.",
+          "evidence_id": "N-P02"
+        },
+        {
+          "date": "2026-09-30",
+          "event": "Bankabgang vom Konto der Mutter über 110.000 EUR dokumentiert.",
+          "evidence_id": "N-P03"
+        },
+        {
+          "date": "2026-09-30",
+          "event": "Darlehensauszahlung über 450.000 EUR als Bankabgang dokumentiert.",
+          "evidence_id": "N-P04"
+        },
+        {
+          "date": "2026-10-06",
+          "event": "Verkäufer verlangt Umschreibung und legt eine Quittungskopie über 20000 EUR vor.",
+          "evidence_id": "N-E05"
+        },
+        {
+          "date": "2026-10-07",
+          "event": "Käuferin bekräftigt ihren Widerspruch gegen eine Barzahlung.",
+          "evidence_id": "N-E08"
+        },
+        {
+          "date": "2026-10-08",
+          "event": "Mutter kündigt Unterlagen zur Herkunft ihrer Drittzahlung an.",
+          "evidence_id": "N-E11"
+        }
+      ],
+      "questions": [
+        "Welche Kaufpreisanteile sind durch geeignete Nachweise belegt und welche lediglich behauptet?",
+        "Ist die Quittung ein unterschriebener Zahlungsbeleg, ein Entwurf oder eine sonstige Erklärung?",
+        "Welcher Bezug besteht zwischen der Drittzahlerin und der Käuferin und wie ist die Mittelherkunft dokumentiert?",
+        "Welche weiteren Nachweise sind vor einer nächsten notariellen Verfahrenshandlung nötig?",
+        "Wie gehen die Bearbeitenden mit Druck auf Umschreibung um, ohne einen ungeklärten Sachverhalt als erwiesen zu behandeln?"
+      ],
+      "documents": [
+        {
+          "id": "N-P01",
+          "path": "01_Belege/N-P01_Kaufvertrag_Auszug.pdf",
+          "title": "Kaufvertrag zum Haus in der Lindenstiege",
+          "paragraphs": [
+            "Fiktive notarielle Fallunterlage ohne Siegel, Unterschriftsnachbildung oder Beglaubigungsvermerk. Auszug für die Aktenübung, Vorgang NF-2026-0915. Als Beurkundungstag wird der 15.09.2026 geführt.",
+            "Verkäufer ist Alfons Schramm, Lindenstiege 4, 97082 Würzburg. Käuferin ist Malika Rottmann, Ziegelhof 6, 97084 Würzburg. Gegenstand ist ein Wohn- und Geschäftshaus, Lindenstiege 4, mit einer Wohnung über einem vermieteten Laden. Die Käuferin erwirbt allein; ein Miteigentum ihrer Mutter ist nicht vereinbart.",
+            "Der Kaufpreis beträgt 580.000,00 EUR. Die Parteien vereinbaren im Fallvertrag eine Zahlung über Bankwege nach der Fälligkeitsmitteilung. Eine vorherige Baranzahlung ist im Vertrag nicht aufgeführt. Die Käuferin hat der Notarin erklärt, dass sie einen Teil des Preises über ein Darlehen und einen Teil aus familiären Mitteln aufbringen will.",
+            "Der Verkäufer soll den Zahlungseingang unter Beifügung geeigneter Unterlagen bestätigen. Die für den Vollzug zuständige Notarin entscheidet über die weiteren Schritte erst auf Grundlage der erforderlichen Unterlagen. Eine bloße telefonische Mitteilung des Maklers wird im Vertrag nicht als Zahlungsnachweis bezeichnet.",
+            "Die Vertragsunterlage enthält keine echte Bankverbindung und keine Grundbuchdaten eines tatsächlich identifizierbaren Objekts. Einzelne weitere Vertragsbestimmungen sind für die begrenzte Aktenaufgabe nicht wiedergegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P02",
+          "path": "01_Belege/N-P02_Faelligkeitsmitteilung.pdf",
+          "title": "Mitteilung zum weiteren Zahlungsablauf",
+          "paragraphs": [
+            "Notariat Feulner, Rebengarten 12, 97070 Würzburg. An Frau Malika Rottmann. Würzburg, 25.09.2026. Vorgang NF-2026-0915.",
+            "Sehr geehrte Frau Rottmann, nach dem für diese Fallakte dokumentierten Bearbeitungsstand können Sie nun die im Vertrag vorgesehene Kaufpreiszahlung veranlassen. Der Kaufpreis beträgt 580.000,00 EUR. Bitte verwenden Sie den mit den Vertragsparteien vereinbarten Bankweg und beachten Sie die Einzelheiten des Vertrags.",
+            "Bitte reichen Sie nach der Zahlung die dafür geeigneten Unterlagen ein. Wenn Zahlungen durch eine andere Person erfolgen, muss sich aus den Unterlagen nachvollziehbar ergeben, für wen und auf welchen Vertrag gezahlt wird. Eine bloße Summe in einer E-Mail ersetzt die zugehörigen Zahlungsbelege nicht.",
+            "Bei abweichenden Zahlungsabsprachen oder widersprüchlichen Bestätigungen informieren Sie uns bitte vor weiteren Dispositionen. Das Notariat wird den Stand prüfen und mitteilen, welche Unterlagen noch benötigt werden. Dieser Brief bestätigt noch keinen Zahlungseingang beim Verkäufer.",
+            "Mit freundlichen Grüßen, Dr. Friederike Feulner, Notarin. Die Unterschrift ist in der fiktiven Fallunterlage ausschließlich als Namenszeile wiedergegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P03",
+          "path": "01_Belege/N-P03_Bankbeleg_Mutter.pdf",
+          "title": "Buchungsbestätigung zur Zahlung von Roswitha Rottmann",
+          "paragraphs": [
+            "Fiktive Bankunterlage ohne gültige Kontonummer oder Zahlungsfunktion. Übergeben von Roswitha Rottmann am 02.10.2026. Kontokennung der Absenderin: DEMO-ROSWITHA-01.",
+            "Die Modellbank bestätigt in dieser Fallunterlage einen gebuchten Überweisungsabgang von 110.000,00 EUR am 30.09.2026. Auftraggeberin ist Roswitha Rottmann; als Empfänger ist Alfons Schramm bezeichnet. Der Verwendungszweck lautet: Für Malika Rottmann Kauf Lindenstiege NF-2026-0915.",
+            "Der Beleg dokumentiert den Abgang auf dem Konto der Auftraggeberin. Er enthält keine unabhängig vom Verkäufer bestätigte Eingangsbuchung. Die vorgelagerte Herkunft des Guthabens ist auf dieser Einzelbuchung nicht erkennbar.",
+            "Randvermerk von Roswitha Rottmann: Das Geld ist für Malika bestimmt. Ich möchte dafür keinen Anteil am Haus und keine Rückzahlung. Den Kontoauszug zu meinem fälligen Sparbrief suche ich heraus. Die Bezeichnung Schenkung wurde von mir in der E-Mail ergänzt; sie steht nicht im Bankverwendungszweck."
+          ],
+          "origin": "Geschäftsunterlage",
+          "table": [
+            [
+              "Buchungstag",
+              "Auftraggeberin",
+              "Betrag EUR"
+            ],
+            [
+              "30.09.2026",
+              "Roswitha Rottmann",
+              "110.000,00"
+            ]
+          ]
+        },
+        {
+          "id": "N-P04",
+          "path": "01_Belege/N-P04_Bankbeleg_Darlehen.pdf",
+          "title": "Auszahlungsbestätigung der finanzierenden Bank",
+          "paragraphs": [
+            "Fiktive Bankunterlage. Modellbank Mainwinkel, Uferbogen 2, 97070 Würzburg. Ansprechpartnerin Dagmar Merz. Ausgestellt am 01.10.2026.",
+            "Wir bestätigen für die Fallbearbeitung, dass am 30.09.2026 ein Darlehensbetrag von 450.000,00 EUR auf Weisung unserer Kundin Malika Rottmann an den im Kaufvertrag genannten Verkäufer Alfons Schramm angewiesen und auf dem Darlehenskonto als Auszahlung gebucht wurde. Vertragsbezug: NF-2026-0915, Haus Lindenstiege 4.",
+            "Diese Bestätigung enthält keine Empfängerkontoauskunft. Sie dokumentiert den bei uns gebuchten Abgang. Ob der Verkäufer den Betrag vollständig erhalten hat und ob weitere Zahlungen erfolgt sind, geht daraus nicht hervor.",
+            "Eine zusätzliche Auszahlung von 20.000,00 EUR ist aus diesem Darlehen nicht gebucht. Bitte richten Sie weitere Rückfragen unter Angabe des Vorgangs an dagmar.merz@mainwinkel-bank.example. Kontodaten und Zugangsdaten sind in der Fallunterlage nicht enthalten."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P05",
+          "path": "01_Belege/N-P05_Quittungskopie.pdf",
+          "title": "Quittungskopie über einen angeblichen Teilbetrag",
+          "paragraphs": [
+            "Fiktive Belegnachbildung ohne echte Unterschrift. Die Kopie wurde am 06.10.2026 von Alfons Schramm übersandt. Als Datum im Text steht der 10.09.2026.",
+            "Wiedergegebener Belegtext: Hiermit bestätige ich, Alfons Schramm, 20.000 Euro von Frau Malika Rottmann als Teil des Kaufpreises für mein Haus erhalten zu haben. Rest laut Notarvertrag. Darunter steht der gedruckte Name Alfons Schramm. Rechts daneben befindet sich ein unleserlicher kurzer Schriftzug.",
+            "Am oberen Rand ist handschriftlich Entwurf notiert. Das Wort ist auf dem Smartphonefoto abgeschnitten, aber noch teilweise lesbar. Das Original wurde dem Notariat nicht vorgelegt. Die Kopie zeigt keine Auskunft darüber, ob der Text vor oder nach einem tatsächlichen Zahlungsvorgang unterschrieben wurde.",
+            "Vermerk von Noah Birkner: Verkäufer bezeichnet die Kopie als Quittung. Käuferin bestreitet die Geldübergabe und spricht von einem unbenutzten Formular. Beide Angaben werden getrennt protokolliert. Die Akte enthält derzeit keine unabhängige Bestätigung einer Barübergabe und keine Auflösung des Widerspruchs."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P06",
+          "path": "01_Belege/N-P06_Brief_Verkaeufer.pdf",
+          "title": "Brief von Alfons Schramm an das Notariat",
+          "paragraphs": [
+            "Alfons Schramm, Lindenstiege 4, 97082 Würzburg. An Notariat Feulner, Rebengarten 12, 97070 Würzburg. Würzburg, 06.10.2026.",
+            "Sehr geehrte Frau Dr. Feulner, für mich ist der Kaufpreis erledigt. Die 450.000 Euro der Bank und die 110.000 Euro von Frau Rottmanns Mutter habe ich in meiner Bankanwendung gesehen. Die fehlenden 20.000 Euro hatten wir doch vorher in bar besprochen. Die Quittung habe ich in einer Keksdose bei den alten Schlüsseln gefunden und fotografiert.",
+            "Ich kann im Moment nicht sicher sagen, ob ich das Geld am 10. oder am 12. September erhalten habe. Auf dem Zettel steht der 10. September. Meine Schwester war am Wochenende im Haus, aber sie hat nach meiner Erinnerung nicht im Zimmer gesessen. Ich möchte sie dazu jetzt nicht unnötig beunruhigen.",
+            "Bitte sorgen Sie für die Umschreibung. Ich brauche die Sache abgeschlossen, weil ich Ende Oktober umziehe. Einen Kontoauszug mit den beiden Eingängen kann ich ausdrucken; bislang habe ich nur die Ansicht auf dem Telefon. Falls Sie den Ausdruck benötigen, schreiben Sie mir genau, welcher Zeitraum genügt.",
+            "Mit freundlichen Grüßen, Alfons Schramm. In der Fallunterlage wird die Unterschrift als Namenszeile wiedergegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P07",
+          "path": "01_Belege/N-P07_Erklaerung_Kaeuferin.pdf",
+          "title": "Erklärung von Malika Rottmann zum Zahlungsstand",
+          "paragraphs": [
+            "Malika Rottmann, Ziegelhof 6, 97084 Würzburg. An Notariat Feulner. Würzburg, 07.10.2026.",
+            "Sehr geehrte Frau Dr. Feulner, ich habe Herrn Schramm keine 20.000 Euro in bar übergeben. Vor der Beurkundung war kurz davon die Rede, eine Anzahlung zu leisten. Herr Hopf hatte ein Formular vorbereitet. Ich habe aber kein Bargeld mitgebracht und dachte, dass die Angelegenheit damit erledigt sei.",
+            "Von meiner Bank sind 450.000 Euro ausgezahlt worden. Meine Mutter hat 110.000 Euro direkt an Herrn Schramm überwiesen. Weitere 20.000 Euro habe ich auf meinem eigenen Konto zurückgelegt. Diese habe ich noch nicht überwiesen, weil Herr Schramm am Telefon sagte, er wolle dazu erst mit Ihnen sprechen. Bitte teilen Sie mir den abgestimmten weiteren Ablauf mit.",
+            "Die Nachricht des Verkäufers, er habe den vollen Preis erhalten, verstehe ich nicht. Vielleicht hat er den vorbereiteten Zettel für eine tatsächlich ausgeführte Zahlung gehalten. Ich möchte das klären, bevor eine unrichtige Bestätigung in der Akte bleibt. Meine Mutter soll kein Eigentum am Haus erhalten; sie unterstützt mich mit dem genannten Betrag.",
+            "Mit freundlichen Grüßen, Malika Rottmann. Eine echte Unterschrift wird in dieser Fallunterlage nicht nachgebildet."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-P08",
+          "path": "01_Belege/N-P08_Telefonnotizen.pdf",
+          "title": "Telefonnotizen aus dem Notariat",
+          "paragraphs": [
+            "Noah Birkner, Notariat Feulner. Notizen vom 07.10.2026. Die Angaben geben Gesprächsinhalte wieder; sie belegen keine Zahlung.",
+            "09:10 Uhr, Gespräch mit Burkhard Hopf: Herr Hopf erklärt, das Quittungsformular im September selbst vorbereitet zu haben. Er weiß nicht, ob später Geld übergeben wurde. Er war beim Ausfüllen der gedruckten Angaben anwesend, bei einer Bargeldübergabe nach eigener Aussage nicht. Er bittet um schnellen Vollzug, weil seine Rechnung noch offen sei.",
+            "11:35 Uhr, Gespräch mit Roswitha Rottmann: Frau Rottmann bestätigt die Überweisung von 110.000,00 EUR und erklärt, das Geld solle ihrer Tochter ohne Rückzahlungsanspruch zugutekommen. Es stamme aus einem ausgelaufenen Sparbrief und Ersparnissen. Die Unterlagen seien in einem Ordner in Kitzingen; sie könne diese morgen heraussuchen.",
+            "14:05 Uhr, interner Rückruf bei Dr. Feulner: Die Notarin bittet um eine vollständige Gegenüberstellung der Belege. Es erfolgt heute keine Vollzugsentscheidung allein auf Grundlage des Makleranrufs. Die zuständigen rechtlichen Prüfungen werden nicht durch eine rein rechnerische Kaufpreisübersicht ersetzt."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-D01",
+          "path": "02_Arbeitsunterlagen/N-D01_Arbeitsauftrag.docx",
+          "title": "Arbeitsauftrag zur Klärung der Kaufpreisbelege",
+          "paragraphs": [
+            "Notariat Feulner, 08.10.2026. Dr. Friederike Feulner an Noah Birkner. Bitte bereiten Sie den Vorgang NF-2026-0915 anhand sämtlicher eingegangener Belege für meine Entscheidung auf.",
+            "1 Zahlen und Belege",
+            "Der Kaufpreis beträgt 580.000,00 EUR. Zwei Unterlagen dokumentieren Bankabgänge von 450.000,00 EUR und 110.000,00 EUR. Die weitere behauptete Barzahlung von 20.000,00 EUR ist streitig. Bitte erfassen Sie für jeden Betrag, was der jeweilige Beleg tatsächlich bestätigt, und vermischen Sie weder Konten noch Zahlungsstadien.",
+            "2 Widersprüche",
+            "Stellen Sie die abweichenden Erklärungen des Verkäufers, der Käuferin und des Maklers gegenüber. Die Quittungskopie ist als Kopie mit teilweise sichtbarem Entwurfvermerk zu behandeln. Die Erklärung der Mutter ist getrennt von den Belegen zur Herkunft und zum Geldfluss aufzunehmen.",
+            "3 Arbeitsprodukte",
+            "Ich benötige eine Belegmatrix, einen ausformulierten Nachforderungsentwurf und einen Vermerk über die offenen Tatsachen und rechtlichen Fragen. Eine finale Vollzugsfreigabe, Registereinreichung oder externe Meldung ist damit nicht erteilt. Über weitere Handlungen entscheide ich nach Prüfung der Unterlagen in meiner Zuständigkeit."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-D02",
+          "path": "02_Arbeitsunterlagen/N-D02_Entwurf_Nachforderung.docx",
+          "title": "Entwurf der Nachforderung an den Verkäufer",
+          "paragraphs": [
+            "Notariat Feulner, Rebengarten 12, 97070 Würzburg. An Herrn Alfons Schramm, Lindenstiege 4, 97082 Würzburg. Würzburg, 08.10.2026. Vorgang NF-2026-0915.",
+            "Sehr geehrter Herr Schramm, zu Ihrer Mitteilung über den vollständigen Kaufpreiseingang bestehen noch offene Fragen. Bitte reichen Sie zunächst einen geeigneten Nachweis der beiden von Ihnen genannten Bankeingänge über 450.000,00 EUR und 110.000,00 EUR ein. Nicht benötigte andere Umsätze können Sie in einer Kopie abdecken, solange Kontoinhaber, maßgebliche Buchungen und die Zuordnung lesbar bleiben.",
+            "Die übermittelte Quittungskopie über 20.000,00 EUR weist einen teilweise sichtbaren Entwurfvermerk auf. Frau Rottmann bestreitet eine Barzahlung. Bitte erläutern Sie deshalb, wann und unter welchen Umständen der Beleg erstellt wurde, wer den Schriftzug angebracht hat und auf welche eigene Wahrnehmung Sie Ihre Angabe zur Geldübergabe stützen. Bitte bewahren Sie das Original unverändert auf und legen Sie es dem Notariat nach Terminabsprache vor.",
+            "Wir stellen diese Fragen zur Klärung des tatsächlichen Ablaufs. Aus dem Widerspruch wird nicht vorweggenommen, dass eine bestimmte Person unrichtige Angaben gemacht hat. Eine weitere Verfahrensentscheidung kann erst auf Grundlage der erforderlichen und geprüften Unterlagen erfolgen.",
+            "Bitte melden Sie sich bis zum 12.10.2026 zur Abstimmung der Vorlage. Diese organisatorische Rückmeldebitte ist keine Aussage über gesetzliche Fristen. Mit freundlichen Grüßen, Dr. Friederike Feulner, Notarin. Entwurf ohne Versandfreigabe."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-D03",
+          "path": "02_Arbeitsunterlagen/N-D03_Telefonnotiz.docx",
+          "title": "Telefonnotiz vom 8. Oktober 2026",
+          "paragraphs": [
+            "Telefonnotiz von Noah Birkner, 08.10.2026, 08:40 bis 08:52 Uhr. Getrennte Rückrufe von Alfons Schramm und Malika Rottmann zum Kauf der Lindenstiege. Weitergabe an Dr. Friederike Feulner.",
+            "Herr Schramm sagte erneut, er wolle die Umschreibung jetzt erledigt sehen. Er habe den Zettel über 20.000,00 EUR in einer Keksdose bei alten Schlüsseln gefunden. Auf Nachfrage konnte er nicht sicher sagen, an welchem Tag Geld übergeben worden sei und wer dabei gewesen sei. Einen Kontoauszug zum Eingang der beiden Banküberweisungen könne er frühestens morgen nach seinem Banktermin bringen. Er habe die beiden Gutschriften in seiner Bankanwendung gesehen, aber bislang keinen Auszug vorgelegt.",
+            "Frau Rottmann erklärte in ihrem Rückruf, sie habe Herrn Schramm keine 20.000,00 EUR bar gegeben. Der Zettel sei damals für einen denkbaren Termin vorbereitet worden, der dann nicht stattgefunden habe. Das Geld liege noch auf ihrem Konto. Sie wolle heute nichts doppelt bezahlen und bitte um Klärung mit Herrn Schramm. Einen aktuellen Kontoauszug habe sie angekündigt, aber im Gespräch noch nicht geschickt.",
+            "Zur Überweisung ihrer Mutter sagte Frau Rottmann, die Mutter habe ihr mit 110.000,00 EUR helfen wollen. Sie habe keinen Rückzahlungsplan vereinbart. Die Mutter suche die Sparbriefunterlagen heraus. Ein Termin für die Vorlage sei noch nicht abgesprochen. Ich habe weder einen Termin für die Eigentumsumschreibung bestätigt noch eine Zahlungsbestätigung abgegeben."
+          ],
+          "origin": "Geschäftsunterlage"
+        },
+        {
+          "id": "N-D04",
+          "path": "02_Arbeitsunterlagen/N-D04_Entwurf_Erklaerung_Mutter.docx",
+          "title": "Entwurf einer Erklärung zur Zahlung der Mutter",
+          "paragraphs": [
+            "Roswitha Rottmann, Hirtenbogen 18, 97318 Kitzingen. An Notariat Feulner, Rebengarten 12, 97070 Würzburg. Entwurf auf Grundlage des Telefonats vom 07.10.2026; von Roswitha Rottmann noch zu prüfen und zu bestätigen.",
+            "Sehr geehrte Frau Dr. Feulner, ich habe am 30.09.2026 110.000,00 EUR von meinem eigenen Konto an Herrn Alfons Schramm überwiesen. Die Zahlung war für meine Tochter Malika Rottmann und ihren Erwerb des Hauses in der Lindenstiege bestimmt. Den Bankbeleg habe ich Ihnen bereits zur Verfügung gestellt.",
+            "Ich möchte meine Tochter mit diesem Betrag unterstützen. Nach meiner Erklärung soll sie mir das Geld nicht zurückzahlen. Ich soll im Gegenzug weder einen Eigentumsanteil noch ein Wohnrecht erhalten. Es ist kein Geld einer anderen Person, das ich nur auf deren Bitte weitergeleitet hätte.",
+            "Nach meiner Erinnerung stammt das Guthaben aus meinem fällig gewordenen Sparbrief und weiteren Ersparnissen. Die entsprechenden Konto- und Sparbriefunterlagen werde ich gesondert vorlegen. Diese Erklärung selbst ersetzt jene Belege nicht. Wenn eine Angabe nicht mit meinen Unterlagen übereinstimmt, werde ich sie vor Bestätigung dieses Entwurfs berichtigen.",
+            "Mit freundlichen Grüßen, Roswitha Rottmann. Der Text ist nicht unterzeichnet und darf nicht als bereits abgegebene abschließende Erklärung der Absenderin behandelt werden."
+          ],
+          "origin": "Geschäftsunterlage"
+        }
+      ],
+      "emails": [
+        {
+          "id": "N-E01",
+          "path": "03_E-Mails/N-E01_2026-09-25.eml",
+          "date": "2026-09-25",
+          "time": "10:14",
+          "sender": "n_sach",
+          "recipients": [
+            "n_kauf"
+          ],
+          "subject": "Vorgang NF 2026 0915 Zahlungsunterlagen",
+          "body": "Sehr geehrte Frau Rottmann, anbei die Mitteilung zum weiteren Zahlungsablauf. Bitte reichen Sie nach Ausführung geeignete Unterlagen ein. Wenn Ihre Mutter direkt einen Teilbetrag zahlen soll, nennen Sie bitte den Bezug zu Ihrem Vertrag und die Beteiligten eindeutig. Für Rückfragen bin ich heute bis 15 Uhr erreichbar. Bitte übersenden Sie keine Zugangsdaten zu Ihrer Bankanwendung. Mit freundlichen Grüßen, Noah Birkner.",
+          "attachments": [
+            "N-P02"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "N-E02",
+          "path": "03_E-Mails/N-E02_2026-10-01.eml",
+          "date": "2026-10-01",
+          "time": "09:41",
+          "sender": "n_bank",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Auszahlung von 450000 Euro",
+          "body": "Sehr geehrter Herr Birkner, die Auszahlung wurde am 30. September gebucht. Die Bestätigung liegt bei. Wir bestätigen damit unseren eigenen Buchungsstand und keinen Empfängerkontoauszug. Weitere 20.000 Euro sind aus diesem Darlehen nicht abgeflossen. Wenn Ihre Frage den Eingang beim Verkäufer betrifft, benötigen Sie einen dazu geeigneten Nachweis. Freundliche Grüße, Dagmar Merz, Modellbank Mainwinkel.",
+          "attachments": [
+            "N-P04"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "N-E03",
+          "path": "03_E-Mails/N-E03_2026-10-02.eml",
+          "date": "2026-10-02",
+          "time": "12:26",
+          "sender": "n_eltern",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Mein Anteil für Malika",
+          "body": "Sehr geehrter Herr Birkner, ich habe die 110.000 Euro direkt an Herrn Schramm geschickt. Meine Tochter musste dann nicht erst auf eine Weiterüberweisung von mir warten. Das Geld ist von mir für sie, ich möchte dafür nichts am Haus. Den Bankbeleg habe ich angehängt. Falls Sie den Hintergrund genauer benötigen, erkläre ich ihn gern. Ich bin am Wochenende unterwegs und ab Montag wieder bei meinen Ordnern. Freundliche Grüße, Roswitha Rottmann.",
+          "attachments": [
+            "N-P03"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "N-E04",
+          "path": "03_E-Mails/N-E04_2026-10-05.eml",
+          "date": "2026-10-05",
+          "time": "08:54",
+          "sender": "n_makler",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Können wir die Umschreibung anstoßen",
+          "body": "Sehr geehrter Herr Birkner, nach Aussage von Herrn Schramm ist alles bezahlt. Er möchte vor seinem Umzug Ende Oktober abschließen. Meine Rechnung ist ebenfalls noch offen, deshalb wäre ein zügiger Vollzug hilfreich. Bitte sagen Sie, was Sie noch brauchen. Ich habe selbst keine Kontoauszüge des Verkäufers gesehen und kann den Eingang nicht aus eigener Kenntnis bestätigen. Ich gebe lediglich seine Nachricht weiter. Mit freundlichen Grüßen, Burkhard Hopf.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "N-E05",
+          "path": "03_E-Mails/N-E05_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "10:18",
+          "sender": "n_ver",
+          "recipients": [
+            "n_notarin"
+          ],
+          "subject": "Quittung wiedergefunden",
+          "body": "Sehr geehrte Frau Dr. Feulner, ich habe den Zettel gefunden, von dem ich gesprochen hatte. Er lag in der Keksdose bei den Ersatzschlüsseln. Das Foto und meinen Brief füge ich bei. Für mich sind es damit die 580.000 Euro. Bitte erledigen Sie den letzten Schritt. Ich verstehe, dass Sie Belege brauchen, aber die Sache zieht sich. Den Kontoauszug kann ich morgen ausdrucken, wenn Sie ihn zusätzlich brauchen. Mit freundlichen Grüßen, Alfons Schramm.",
+          "attachments": [
+            "N-P05",
+            "N-P06"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "N-E06",
+          "path": "03_E-Mails/N-E06_2026-10-06.eml",
+          "date": "2026-10-06",
+          "time": "14:52",
+          "sender": "n_kauf",
+          "recipients": [
+            "n_notarin"
+          ],
+          "subject": "Es gab keine Barübergabe",
+          "body": "Sehr geehrte Frau Dr. Feulner, Herr Schramm sagte mir am Telefon, er habe Ihnen eine Quittung geschickt. Ich bin irritiert. Ich habe keine 20.000 Euro bar bezahlt. Vor dem Notartermin war einmal eine Anzahlung im Gespräch, die dann nicht gemacht wurde. Ich möchte das in Ruhe richtigstellen und sende Ihnen morgen eine schriftliche Erklärung. Bitte verlassen Sie sich nicht auf eine von mir nicht bestätigte Zahlungsangabe. Freundliche Grüße, Malika Rottmann.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "N-E07",
+          "path": "03_E-Mails/N-E07_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "09:32",
+          "sender": "n_makler",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Zu Ihrem Anruf wegen des Formulars",
+          "body": "Sehr geehrter Herr Birkner, ja, ich hatte den Text für eine mögliche Anzahlung vorbereitet. Herr Schramm wollte dafür einen Zettel. Ich habe Namen, Betrag und Datum eingetragen. Ob die Zahlung danach tatsächlich erfolgte und wer den kurzen Schriftzug gesetzt hat, weiß ich nicht. Ich war nicht bei einer Geldübergabe dabei. Bitte führen Sie mich nicht als Zeugen für eine Zahlung. Ich kann nur sagen, woher der Vordruck kam. Freundliche Grüße, Burkhard Hopf.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "N-E08",
+          "path": "03_E-Mails/N-E08_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "10:47",
+          "sender": "n_kauf",
+          "recipients": [
+            "n_notarin"
+          ],
+          "subject": "Meine Erklärung und die offenen 20000 Euro",
+          "body": "Sehr geehrte Frau Dr. Feulner, meine schriftliche Erklärung liegt bei. Die 20.000 Euro habe ich noch auf meinem Konto, nicht in bar zu Hause. Bevor ich sie überweise, möchte ich den Widerspruch mit Herrn Schramm geklärt wissen und den vertraglichen Zahlungsweg bestätigt haben. Bitte behandeln Sie diese Nachricht nicht als Zahlungsbeleg. Die Bankunterlage und die Überweisung meiner Mutter betreffen nur 560.000 Euro zusammen. Mit freundlichen Grüßen, Malika Rottmann.",
+          "attachments": [
+            "N-P07"
+          ],
+          "reply_to": "N-E06"
+        },
+        {
+          "id": "N-E09",
+          "path": "03_E-Mails/N-E09_2026-10-07.eml",
+          "date": "2026-10-07",
+          "time": "16:22",
+          "sender": "n_ver",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Ich prüfe das Datum noch einmal",
+          "body": "Sehr geehrter Herr Birkner, Ihre Nachfrage zum Wort Entwurf hat mich stutzig gemacht. Ich habe den Zettel damals nicht selbst vorbereitet. Beim Datum bin ich mir nicht mehr sicher. Bitte unterstellen Sie mir nicht, ich wolle etwas erfinden; ich habe viele Papiere und war überzeugt, dass der Beleg die Anzahlung betrifft. Ich werde den Originalzettel und meinen Kalender heraussuchen. Meine Schwester kann zum Geld nichts Sicheres sagen. Mit freundlichen Grüßen, Alfons Schramm.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "N-E10",
+          "path": "03_E-Mails/N-E10_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "07:50",
+          "sender": "n_notarin",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Bitte Vorgang heute strukturiert aufbereiten",
+          "body": "Guten Morgen Herr Birkner, anbei der Arbeitsauftrag für die weitere Bearbeitung. Bitte rechnen Sie die Summe nicht einfach auf vollständig bezahlt hoch, solange der Status der einzelnen Positionen offen ist. Ich möchte die unterschiedliche Quellenlage sehen. Der Maklerdruck ist keine Vollzugsfreigabe. Legen Sie mir die Nachforderungsentwürfe vor; wir besprechen den Vorgang heute um 14 Uhr. Mit freundlichen Grüßen, Dr. Friederike Feulner.",
+          "attachments": [
+            "N-D01"
+          ],
+          "reply_to": null
+        },
+        {
+          "id": "N-E11",
+          "path": "03_E-Mails/N-E11_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "08:16",
+          "sender": "n_eltern",
+          "recipients": [
+            "n_sach"
+          ],
+          "subject": "Sparbrief und Erklärung",
+          "body": "Sehr geehrter Herr Birkner, ich habe den Ordner gefunden. Ein Teil meines Guthabens kam aus einem Sparbrief, der im August fällig wurde. Ich kann Ihnen die Unterlagen über den vereinbarten sicheren Weg schicken. Bitte senden Sie mir Ihren Entwurf meiner Erklärung zuerst zur Prüfung; ich möchte nichts bestätigen, was ich nicht genau gelesen habe. Meine Tochter schuldet mir die 110.000 Euro nicht zurück und ich bekomme dafür keinen Anteil am Haus. Freundliche Grüße, Roswitha Rottmann.",
+          "attachments": [],
+          "reply_to": null
+        },
+        {
+          "id": "N-E12",
+          "path": "03_E-Mails/N-E12_2026-10-08.eml",
+          "date": "2026-10-08",
+          "time": "09:02",
+          "sender": "n_sach",
+          "recipients": [
+            "n_notarin"
+          ],
+          "subject": "Unterlagenstand vor unserer Besprechung",
+          "body": "Sehr geehrte Frau Dr. Feulner, die Erklärungen stehen noch gegeneinander. Der Verkäufer sucht das Original, die Käuferin bestreitet die Barzahlung, und der Makler bestätigt nur die Vorbereitung des Formulars. Die Mutter hat Herkunftsunterlagen angekündigt. Ich habe die Telefonnotizen beigefügt und die beiden Bankabgänge getrennt von der streitigen Position erfasst. Ein Empfängerkontoauszug liegt noch nicht vor. Eine abschließende Entscheidung habe ich nicht als getroffen vermerkt. Mit freundlichen Grüßen, Noah Birkner.",
+          "attachments": [
+            "N-P08"
+          ],
+          "reply_to": null
+        }
+      ],
+      "workbook_path": "04_Tabellen/Fallregister.xlsx"
+    }
+  ]
+}
