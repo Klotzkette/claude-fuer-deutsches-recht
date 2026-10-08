@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-10-29 09:20:00,Vergabeplattform,extern.upload,Unterlagenpaket geöffnet,01_sachverhalt_auftragnehmerinsolvenz.docx,nachbearbeitet,c45f3641d3ae9fb6,Sachverhalt: Auftragnehmerinsolvenz und geplanter Eintritt des Erwerbers
+2026-10-30 09:18:00,Vergabeplattform,jurist.vergaberecht,Bieterkommunikation exportiert,01_sachverhalt_auftragnehmerinsolvenz.docx,nachbearbeitet,22c17ff8edcad48d,Sachverhalt: Auftragnehmerinsolvenz und geplanter Eintritt des Erwerbers
+2026-10-30 09:52:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,03_erwerber_fortfuehrungsantrag.docx,OK,ae0a5716f938592d,Erwerberin: Fortführungs- und Eignungspaket
+2026-10-31 09:51:00,E-Mail-Gateway,zv.postfach,Hashwert für Anlage notiert,03_erwerber_fortfuehrungsantrag.docx,OK,e6e38376ee4c5409,Erwerberin: Fortführungs- und Eignungspaket
+2026-11-02 09:31:00,DMS,fachamt,Dokument in DMS abgelegt,02_vergabestelle_pruefvermerk_132_gwb.docx,OK,4c25ab3cb8822302,Vergabestelle: Prüfvermerk § 132 GWB
+2026-11-02 11:18:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,08_fallvarianten_insolvenzplan_assetdeal.docx,OK,3c43aaadc2838088,"Fallvarianten: Insolvenzplan, Asset Deal und Interimslösung"
+2026-11-03 09:34:00,DMS,fachamt,Aktenvermerk finalisiert,02_vergabestelle_pruefvermerk_132_gwb.docx,OK,5614dddf8728820a,Vergabestelle: Prüfvermerk § 132 GWB
+2026-11-03 10:05:00,AVA/ERP,s.mueller,Metadaten auf Plattform geprüft,04_konkurrentenruege_dataportus.docx,OK,ec1bc9e77d115f75,Konkurrentenrüge DataPortus GmbH
+2026-11-04 11:34:00,AVA/ERP,zv.postfach,PDF-Vorschau erzeugt,09_asset_deal_uebertragungsverzeichnis.docx,OK,990c7b5bd8f0538a,Übertragene Betriebsmittel und Vertragspflichten für die Fortführung der
+2026-11-06 11:52:00,Fristenkalender,extern.upload,Freigabe durch Vier-Augen-Prüfung erfasst,10_eignungs_und_kontinuitaetsmatrix.docx,OK,96b95135f814c9da,Prüfung der NordSys Betriebserwerber GmbH nach § 132 Abs. 2 Satz 1 Nr. 4
+2026-11-09 12:09:00,Vergabeplattform,extern.upload,Unterlagenpaket geöffnet,11_markt_und_interimspruefung.docx,nachbearbeitet,fef30e13d779c0b6,"Betriebsrisiko, Marktverfügbarkeit und eng befristete Interimssicherung"
+2026-11-10 10:26:00,Fristenkalender,extern.upload,Uploadpaket erneut validiert,05_nachpruefungsantrag_vk_dataportus.docx,OK,992f0c82e8b7b3e1,Nachprüfungsantrag DataPortus GmbH
+2026-11-13 10:44:00,Vergabeplattform,s.mueller,Bieterkommunikation exportiert,06_beiladungsantrag_erwerber_vk.docx,nachbearbeitet,6afa6f0a87f192e5,Beiladungs- und Zurückweisungsantrag der Erwerberin
+2026-11-16 11:02:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,07_stellungnahme_vergabestelle_vk.docx,OK,e4d444b16f3fd078,Stellungnahme der Vergabestelle vor der Vergabekammer
+2026-11-18 12:19:00,DMS,zv.postfach,Dokument in DMS abgelegt,12_freigabevermerk_auftragnehmerwechsel.docx,OK,36f8cc9da674834f,Entscheidungsvorlage zum Auftragnehmerwechsel auf NordSys Betriebserwerb
+2026-11-27 12:42:00,E-Mail-Gateway,jurist.vergaberecht,Frist in Kalender übertragen,13_beschluss_vk_auftragnehmerwechsel.docx,OK,0682ec49af1f42c9,Beschluss zum insolvenzbedingten Auftragnehmerwechsel
+2026-12-15 12:54:00,AVA/ERP,s.mueller,Metadaten auf Plattform geprüft,14_eintrittsvereinbarung_uebergabe_monitoring.docx,OK,fb7139f344d183b1,"Eintritt, Übergabe und Monitoring"
+2026-12-16 13:18:00,Fristenkalender,jurist.vergaberecht,Uploadpaket erneut validiert,15_closing_personal_lizenztransfer.docx,OK,9c6b4196ab5da94c,"Closing-Nachweis für Betriebsmittel, Personal, Rechte und Sicherheiten"

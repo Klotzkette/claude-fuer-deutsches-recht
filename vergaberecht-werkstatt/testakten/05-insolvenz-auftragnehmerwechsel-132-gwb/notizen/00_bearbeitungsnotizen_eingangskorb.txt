@@ -1,0 +1,21 @@
+Lose Bearbeitungsnotizen
+Akte: HB-IT-SERVICE-2026
+Stand: 16.12.2026 / nicht zur Versendung bestimmt
+
+Telefon / Flur / Rückruf:
+- 16.12.2026 09:35 Fachamt: Mengenansatz noch einmal gegen Altvertrag prüfen.
+- Portal zeigt zwei fast gleich benannte Dateien; nur die zuletzt freigegebene Fassung verwenden.
+- Beim Upload darauf achten: Preisblatt und Konzeptanlage getrennt lassen, keine Sammel-PDF.
+
+Noch offen / klebt am Aktenrand:
+- Sachverhalt: Auftragnehmerinsolvenz und geplanter Eintritt des Erwerbers - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+! Vergabestelle: Prüfvermerk § 132 GWB - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+- Erwerberin: Fortführungs- und Eignungspaket - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+- Konkurrentenrüge DataPortus GmbH - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+! Nachprüfungsantrag DataPortus GmbH - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+- Beiladungs- und Zurückweisungsantrag der Erwerberin - Quercheck, ob Anlage im ZIP und im Einzel-PDF identisch ist.
+
+Schmierzettel:
+Frist nicht aus Bauchgefühl rechnen. Eingang, Nichtabhilfe, Stillhaltefrist und Uploadzeit getrennt notieren.
+Bei Wertung: erst Mindestanforderungen, dann Preisformel, dann Qualität/Tempo/Servicelevel. Nicht reflexhaft billigstes Angebot nehmen.
+Bei Rüge/VK: Originalnachricht, Exportzeit und Plattform-Quittung zusammenhalten.

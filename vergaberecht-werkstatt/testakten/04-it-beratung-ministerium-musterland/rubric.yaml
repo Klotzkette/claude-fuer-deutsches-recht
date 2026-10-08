@@ -1,0 +1,60 @@
+name: "IT-Beratung Ministerium Musterland"
+plugin: "bieter-unternehmen"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/04-it-beratung-ministerium-musterland_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens sechs fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 6
+  - id: r04-einzel-pdfs
+    check_type: file_count
+    description: "Mindestens sechs Einzel-PDFs vorhanden"
+    glob: "einzel-pdf/*.pdf"
+    min: 6
+  - id: r05-bietergemeinschaft
+    check_type: regex_match
+    description: "Bietergemeinschaft und Verantwortlichkeit sind geregelt"
+    path: "02_bietergemeinschaftsvertrag_auszug.md"
+    pattern: "Bietergemeinschaft|Gesamtschuld"
+  - id: r06-sitzkriterium
+    check_type: text_contains
+    description: "Rüge greift das Sitzkriterium konkret an"
+    path: "03_ruegeschreiben_sitzkriterium.md"
+    contains: "Sitz"
+  - id: r07-eignungsmatrix
+    check_type: regex_match
+    description: "Teilnahmeantrag dokumentiert Eignung oder Eignungsleihe"
+    path: "04_teilnahmeantrag_eignungsmatrix.md"
+    pattern: "Eignung|Eignungsleihe"
+  - id: r08-olg
+    check_type: regex_match
+    description: "Beschwerdeskizze enthält Rechtsmittelziel und Antrag"
+    path: "06_rechtsmittel_und_kostenvermerk.md"
+    pattern: "Beschwerde|Antrag"
+  - id: r09-reaktionssimulation
+    check_type: file_exists
+    description: "Einheitliche Reaktionssimulation mit Einzelwertungen ist vorhanden"
+    path: "13_reaktionssimulation_einzelwertung.md"
+  - id: r10-fristgebundene-fundstelle
+    check_type: text_contains
+    description: "Konsens berücksichtigt nur eine schon fristgebunden vorhandene Fundstelle"
+    path: "13_reaktionssimulation_einzelwertung.md"
+    contains: "Die Konsensrunde durfte diese fristgebundene Fundstelle berücksichtigen."
+  - id: r11-gesamtqualitaet
+    check_type: regex_match
+    description: "Schnellste Erstreaktion führt nicht automatisch zum besten Gesamtergebnis"
+    path: "13_reaktionssimulation_einzelwertung.md"
+    pattern: 'sechsminütige Erstreaktion[\s\S]{0,120}nicht automatisch zum besten Gesamtergebnis'
+  - id: r12-fachreview
+    check_type: human_review
+    description: "Eignungsleihe, Auswahlkriterium und Bietergemeinschaft abstimmen"
+    note: "Verfügbarkeitsnachweise, Auswahlstufe und zulässige Änderungen des Bewerberverbunds manuell prüfen."

@@ -1,0 +1,212 @@
+name: Release Plugin ZIPs
+
+# In der verschachtelten Kopie inert. Der Root-Wrapper verwendet
+# working-directory: vergaberecht-werkstatt und scripts/build-release-assets.py.
+
+# Baut bei jedem Tag oder bei manueller Auslösung die Plugin-ZIPs
+# für alle Marktrollen und hängt sie an den GitHub Release. Claude Desktop und
+# Cowork laden das ZIP als eigenes Plugin; Claude Code installiert über den Marketplace.
+
+on:
+  push:
+    tags:
+      - 'vergaberecht-werkstatt-v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Komponenten-Tag, z. B. vergaberecht-werkstatt-v445.33.1. Leer = nur lokaler Build.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    if: ${{ false }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Systemwerkzeuge installieren
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ripgrep
+
+      - name: Python-Abhängigkeiten installieren
+        run: |
+          python3 -m pip install --upgrade pip
+          python3 -m pip install -r requirements-dev.txt
+
+      - name: Generierte Inhalte auf Frische prüfen
+        run: |
+          python3 scripts/sync-references.py --check
+          python3 scripts/generate-skills-md.py
+          python3 scripts/generate-skills-overview.py
+          python3 scripts/generate-megaprompt.py
+          python3 scripts/generate-unified-mini-prompts.py
+          git diff --exit-code
+
+      - name: Konsolidierte Qualitätsprüfung
+        run: python3 scripts/run-smoke-tests.py --quick --fail-fast
+
+      - name: Plugin-ZIPs bauen
+        run: |
+          rm -rf dist
+          mkdir -p dist
+          python3 scripts/build-plugin-release-zips.py dist
+          ls -la dist/
+
+      - name: Plugin-ZIPs validieren
+        run: python3 scripts/validate-release-zips.py
+
+      - name: Testakten-ZIPs bauen
+        run: |
+          python3 scripts/validate-testakten-echtformate.py
+          python3 scripts/build-testakten-release-zips.py dist
+
+      - name: Testakten-ZIPs validieren
+        run: python3 scripts/validate-testakten-release-zips.py dist
+
+      - name: Skill-Markdown-Bundles bauen
+        run: python3 scripts/build-skills-markdown-bundles.py dist
+
+      - name: Unified Mini Prompts als Release-Assets bereitstellen
+        run: |
+          for mp in unified-mini-prompts/*.md; do
+            name="$(basename "$mp")"
+            if [ "$name" = "README.md" ]; then
+              continue
+            fi
+            plugin="${name%.md}"
+            cp "$mp" "dist/${plugin}-unified-mini-prompt.md"
+          done
+
+      - name: Arbeits- und Kurzprompts als Release-Assets bereitstellen
+        run: |
+          for mp in vergaberecht-arbeitsprompt-*.md vergaberecht-kurzprompt-*.md; do
+            test -f "$mp" || continue
+            cp "$mp" "dist/${mp}"
+          done
+          for mp in testakten/megaprompts/*.md; do
+            test -f "$mp" || continue
+            name="$(basename "$mp")"
+            cp "$mp" "dist/werkstattprompt-${name}"
+          done
+
+      - name: Sammel-Plugin-ZIP (alle-plugins-megazip.zip) bauen
+        run: |
+          mkdir -p dist/plugin-megazip
+          node - <<'NODE'
+          const fs = require('node:fs');
+          const path = require('node:path');
+          const marketplace = JSON.parse(fs.readFileSync('.claude-plugin/marketplace.json', 'utf8'));
+          for (const plugin of marketplace.plugins) {
+            const zipName = `${plugin.name}.zip`;
+            const src = path.join('dist', zipName);
+            const dst = path.join('dist', 'plugin-megazip', zipName);
+            fs.copyFileSync(src, dst);
+          }
+          NODE
+          python3 scripts/reproducible_zip.py dist/alle-plugins-megazip.zip dist/plugin-megazip --exclude '**/.DS_Store'
+          rm -rf dist/plugin-megazip
+          test -s dist/alle-plugins-megazip.zip
+
+      - name: Komplettpaket (alles-komplettpaket.zip) bauen
+        run: |
+          mkdir -p dist/komplettpaket
+          cp testakten/README.txt dist/komplettpaket/README.txt
+          # Alle Release-Assets reinkopieren ausser dem Komplettpaket selbst
+          (cd dist && for f in *.zip *.md *.pdf marketplace.json; do
+            test -f "$f" || continue
+            case "$f" in
+              alles-komplettpaket.zip) continue ;;
+            esac
+            cp "$f" "komplettpaket/$f"
+          done)
+          # Top-Level Uebersichten und Referenzen mit reinpacken
+          mkdir -p dist/komplettpaket/repo-uebersichten
+          for f in README.md SKILLS.md vergaberecht-arbeitsprompt-vergabestelle.md vergaberecht-arbeitsprompt-bieter.md \
+                   vergaberecht-arbeitsprompt-konkurrenten.md vergaberecht-kurzprompt-vergabestelle.md \
+                   vergaberecht-kurzprompt-bieter.md vergaberecht-kurzprompt-konkurrenten.md \
+                   LICENSE LICENSE-MIT LICENSE-APACHE NOTICE; do
+            test -f "$f" && cp "$f" "dist/komplettpaket/repo-uebersichten/$f" || true
+          done
+          test -d skills-index && cp -r skills-index "dist/komplettpaket/repo-uebersichten/" || true
+          test -d references && cp -r references "dist/komplettpaket/repo-uebersichten/" || true
+          mkdir -p dist/komplettpaket/repo-uebersichten/werkstattprompts
+          cp testakten/megaprompts/*.md dist/komplettpaket/repo-uebersichten/werkstattprompts/
+          test "$(find dist/komplettpaket/repo-uebersichten/werkstattprompts -maxdepth 1 -type f -name '*.md' | wc -l | tr -d ' ')" = "3"
+          python3 scripts/reproducible_zip.py dist/alles-komplettpaket.zip dist/komplettpaket --exclude '**/.DS_Store'
+          rm -rf dist/komplettpaket
+          test -s dist/alles-komplettpaket.zip
+
+      - name: Release-Artefakte anzeigen
+        run: |
+          ls -la dist/
+
+      - name: Checksums erstellen
+        run: |
+          (
+            cd dist
+            rm -f checksums-sha256.txt
+            for f in *; do
+              test -f "$f" || continue
+              test "$f" != "checksums-sha256.txt" || continue
+              printf '%s\n' "$f"
+            done | sort | while IFS= read -r f; do
+              shasum -a 256 "$f"
+            done > checksums-sha256.txt
+          )
+          test -s dist/checksums-sha256.txt
+          cat dist/checksums-sha256.txt
+
+      - name: Release-Pakete final validieren
+        run: |
+          python3 scripts/validate-release-zips.py dist
+          python3 scripts/validate-testakten-release-zips.py dist
+
+      - name: Release anlegen und Assets hochladen
+        if: startsWith(github.ref, 'refs/tags/') || (github.event_name == 'workflow_dispatch' && github.event.inputs.tag != '')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ github.event.inputs.tag }}
+        run: |
+          if [ -z "$TAG" ]; then
+            TAG="${GITHUB_REF##refs/tags/}"
+          fi
+          [[ "$TAG" =~ ^vergaberecht-werkstatt-v[0-9]+\.[0-9]+\.[0-9]+$ ]] || exit 1
+          gh release create "$TAG" \
+            --title "$TAG" \
+            --notes "Plugin-ZIPs für vergaberecht-werkstatt $TAG" \
+            dist/*.zip \
+            dist/*.pdf \
+            dist/*-unified-mini-prompt.md \
+            dist/vergaberecht-arbeitsprompt-*.md \
+            dist/vergaberecht-kurzprompt-*.md \
+            dist/marketplace.json \
+            dist/checksums-sha256.txt || \
+          gh release upload "$TAG" \
+            dist/*.zip \
+            dist/*.pdf \
+            dist/*-unified-mini-prompt.md \
+            dist/vergaberecht-arbeitsprompt-*.md \
+            dist/vergaberecht-kurzprompt-*.md \
+            dist/marketplace.json \
+            dist/checksums-sha256.txt --clobber
+
+      - name: Release-Assets nach Upload validieren
+        if: startsWith(github.ref, 'refs/tags/') || (github.event_name == 'workflow_dispatch' && github.event.inputs.tag != '')
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ github.event.inputs.tag }}
+        run: |
+          if [ -z "$TAG" ]; then
+            TAG="${GITHUB_REF##refs/tags/}"
+          fi
+          [[ "$TAG" =~ ^vergaberecht-werkstatt-v[0-9]+\.[0-9]+\.[0-9]+$ ]] || exit 1
+          python3 scripts/validate-release-assets.py dist "$TAG" --repo "$GITHUB_REPOSITORY"

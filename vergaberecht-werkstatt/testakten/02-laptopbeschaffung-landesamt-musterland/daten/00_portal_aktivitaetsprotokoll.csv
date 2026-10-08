@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-04-22 09:12:00,Vergabeplattform,jurist.vergaberecht,Unterlagenpaket geöffnet,01_bedarfsvermerk_markterkundung.docx,nachbearbeitet,3682aa5b8b207bd3,Bedarfsvermerk Rahmenvertrag mobile Endgeräte
+2026-04-23 09:16:00,Fristenkalender,zv.postfach,Uploadpaket erneut validiert,01_bedarfsvermerk_markterkundung.docx,OK,6bf65ae86f0edf9c,Bedarfsvermerk Rahmenvertrag mobile Endgeräte
+2026-05-03 09:33:00,DMS,s.mueller,Dokument in DMS abgelegt,02_leistungsbeschreibung_produktneutral.docx,OK,9f8b851c8043f198,Produktneutrale Leistungsbeschreibung mobile Endgeräte
+2026-05-04 09:37:00,Vergabeplattform,jurist.vergaberecht,Bieterkommunikation exportiert,02_leistungsbeschreibung_produktneutral.docx,nachbearbeitet,9ed41347d159cb48,Produktneutrale Leistungsbeschreibung mobile Endgeräte
+2026-05-10 09:49:00,E-Mail-Gateway,jurist.vergaberecht,Frist in Kalender übertragen,03_bekanntmachung_und_formblatt_angebot.docx,OK,1000aded0adf5c85,Bekanntmachungs- und Angebotsdaten Laptoprahmenvertrag
+2026-05-11 09:46:00,DMS,extern.upload,Aktenvermerk finalisiert,03_bekanntmachung_und_formblatt_angebot.docx,OK,c5cd5e0010f1fedc,Bekanntmachungs- und Angebotsdaten Laptoprahmenvertrag
+2026-05-18 10:04:00,AVA/ERP,fachamt,Metadaten auf Plattform geprüft,04_bieterfrage_markenbezug.eml,OK,1669bb627bb03653,"Bieterfrage zu Markenbezug, Dockingstandard und Gleichwertigkeit"
+2026-05-19 10:03:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,04_bieterfrage_markenbezug.eml,OK,e5232468792c6ce6,"Bieterfrage zu Markenbezug, Dockingstandard und Gleichwertigkeit"
+2026-07-02 10:26:00,Fristenkalender,fachamt,Uploadpaket erneut validiert,05_pruefvermerk_angebote_wertung.docx,OK,3377318e103b87aa,Prüfvermerk Angebotswertung Laptoprahmenvertrag
+2026-07-07 10:39:00,Vergabeplattform,jurist.vergaberecht,Bieterkommunikation exportiert,06_informationsschreiben_134_gwb.eml,nachbearbeitet,a41b5615711ee7e4,Informationsschreiben nach § 134 GWB
+2026-07-09 11:01:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,07_ruege_servicewertung.eml,OK,7167dae75cb2201e,Rüge der TechLine Systeme GmbH
+2026-07-13 11:13:00,E-Mail-Gateway,extern.upload,Hashwert für Anlage notiert,08_nichtabhilfe_servicewertung.docx,OK,54f3d600528f3657,Nichtabhilfe zur Rüge der TechLine Systeme GmbH
+2026-07-16 11:31:00,AVA/ERP,s.mueller,PDF-Vorschau erzeugt,09_nachpruefungsantrag_servicewertung.docx,OK,4469484e36a32583,Nachprüfungsantrag wegen nicht nachvollziehbarer Servicewertung
+2026-07-20 11:51:00,Fristenkalender,jurist.vergaberecht,Freigabe durch Vier-Augen-Prüfung erfasst,10_abhilfe_neuwertung_vermerk.docx,OK,21faaf8cb50b1a49,Vermerk zur Teilabhilfe und erneuten Servicewertung
+2026-07-21 12:53:00,AVA/ERP,extern.upload,Metadaten auf Plattform geprüft,14_servicefall_testprotokoll.docx,OK,f6281fa811f71593,"Testprotokoll zu Reaktionszeit, Ersatzgerät und Flächenabdeckung"
+2026-07-22 12:03:00,Vergabeplattform,s.mueller,Unterlagenpaket geöffnet,11_neuwertungsmatrix_zuschlagsentscheidung.docx,nachbearbeitet,f0aa38beab1e5bbf,Erneute Servicewertung und neue Zuschlagsentscheidung
+2026-07-23 12:26:00,DMS,s.mueller,Dokument in DMS abgelegt,12_informationsschreiben_134_norddevice.eml,OK,88ed76f37e1fa624,Information über die neue Zuschlagsentscheidung
+2026-07-31 12:38:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,13_kostenbeschluss_vk_erledigung.docx,OK,7e483864222d7703,Kostenentscheidung nach übereinstimmender Erledigung

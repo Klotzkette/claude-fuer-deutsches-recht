@@ -73,6 +73,7 @@ def build(destination):
     pairs = [(ROOT / relative, relative) for relative in sorted(set(listing)) if relative]
     archive(destination / "alles-komplettpaket.zip", pairs, notice=True)
     shutil.copyfile(COMPONENT / "source-import.json", destination / "source-import.json")
+    run("validate-release-zips.py", destination)
     subprocess.run([sys.executable, str(ROOT / "scripts/test-vergaberecht-import.py"),
                     "--dist", str(destination)], cwd=ROOT, check=True, timeout=300)
     hashes = {p.name: hashlib.sha256(p.read_bytes()).hexdigest()

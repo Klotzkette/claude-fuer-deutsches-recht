@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-07-22 09:12:00,Vergabeplattform,fachamt,Unterlagenpaket geöffnet,01_bekanntmachung_und_ausgangslage.docx,nachbearbeitet,c1946ffe7bc87ef0,Prüfnotiz Bekanntmachung und Ausgangslage
+2026-07-23 09:15:00,DMS,zv.postfach,Aktenvermerk finalisiert,01_bekanntmachung_und_ausgangslage.docx,OK,48849157bdc3f668,Prüfnotiz Bekanntmachung und Ausgangslage
+2026-07-29 09:34:00,DMS,jurist.vergaberecht,Dokument in DMS abgelegt,02_vergabeunterlagen_wertungsmatrix_pruefung.docx,OK,6ae915a3eca12b12,Prüfung Vergabeunterlagen und Wertungsmatrix
+2026-07-30 09:37:00,E-Mail-Gateway,s.mueller,Hashwert für Anlage notiert,02_vergabeunterlagen_wertungsmatrix_pruefung.docx,OK,2607f91e75670c92,Prüfung Vergabeunterlagen und Wertungsmatrix
+2026-09-12 09:49:00,E-Mail-Gateway,extern.upload,Frist in Kalender übertragen,03_134_schreiben_auswertung.eml,OK,d39d23bf59596e25,Auswertung Informationsschreiben nach § 134 GWB
+2026-09-15 10:07:00,AVA/ERP,fachamt,Metadaten auf Plattform geprüft,04_ruegeschreiben_konkurrent.eml,OK,070b2d30aed17b4d,Rüge gegen beabsichtigten Zuschlag an CloudNord AG
+2026-09-17 10:21:00,Fristenkalender,zv.postfach,Uploadpaket erneut validiert,05_nichtabhilfe_vergabestelle.eml,OK,2e448da3d15e1714,Nichtabhilfe zur Rüge vom 15.09.2026
+2026-09-19 10:45:00,Vergabeplattform,extern.upload,Bieterkommunikation exportiert,06_nachpruefungsantrag_vk.docx,nachbearbeitet,11b95b486e1e5c94,Nachprüfungsantrag
+2026-09-19 10:55:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,07_eilantrag_akteneinsicht.docx,OK,65c3bd02988797e6,Eilantrag und Akteneinsicht
+2026-09-24 11:29:00,AVA/ERP,extern.upload,PDF-Vorschau erzeugt,09_akteneinsichtsverfuegung_vk.docx,OK,e291deb7a5efa4dd,Umfang der Akteneinsicht im Nachprüfungsverfahren Rechenzentrumsbetrieb
+2026-09-26 11:46:00,Fristenkalender,fachamt,Freigabe durch Vier-Augen-Prüfung erfasst,10_geschwaerzter_wertungsvermerk_auszug.docx,OK,e73aabe41fde359b,Auszug aus der Wertung ZK-3 Ausfallsicherheit
+2026-09-28 13:28:00,Vergabeplattform,s.mueller,Bieterkommunikation exportiert,16_failovertest_monitoringlog.docx,nachbearbeitet,4ffc6da1c7c51ae9,"Failover-Test, Monitoringdaten und Abweichungsprotokoll"
+2026-09-30 12:03:00,Vergabeplattform,jurist.vergaberecht,Unterlagenpaket geöffnet,11_technisches_gutachten_zweitstandort.docx,nachbearbeitet,2153d51e688965c2,Technische Einordnung der zweiten Betriebsstätte und Wiederanlaufzusage
+2026-09-30 12:26:00,DMS,jurist.vergaberecht,Dokument in DMS abgelegt,12_beschluss_vk_wertung_rechenzentrum.docx,OK,82337d257a887064,Beschluss zur Eignungs- und Wertungsentscheidung
+2026-10-02 11:14:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,08_olg_beschwerdebriefing.docx,OK,4345eaf7a59f2fbf,OLG-Beschwerdebriefing
+2026-10-06 12:39:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,13_sofortige_beschwerde_olg.docx,OK,59aa1b4bb4ee7460,Sofortige Beschwerde gegen den Beschluss VK W 23-48/26
+2026-10-09 12:55:00,AVA/ERP,jurist.vergaberecht,Metadaten auf Plattform geprüft,14_beschwerdeerwiderung_vergabestelle.docx,OK,3afcf905857fcea7,Beschwerdeerwiderung des Musterkreises
+2026-10-16 13:17:00,Fristenkalender,zv.postfach,Uploadpaket erneut validiert,15_beschluss_olg_neuwertung.docx,OK,5d93389f50cf1c5e,Beschluss des Vergabesenats

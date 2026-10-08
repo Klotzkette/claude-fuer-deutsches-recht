@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-07-04 09:12:00,Vergabeplattform,fachamt,Unterlagenpaket geöffnet,01_teilnahmewettbewerb_pruefnotiz.docx,nachbearbeitet,db04fd090a13c534,Prüfnotiz Teilnahmewettbewerb Cybersicherheitsberatung
+2026-07-05 09:15:00,AVA/ERP,fachamt,Metadaten auf Plattform geprüft,01_teilnahmewettbewerb_pruefnotiz.docx,OK,d5dc000665963716,Prüfnotiz Teilnahmewettbewerb Cybersicherheitsberatung
+2026-07-06 09:29:00,DMS,s.mueller,Dokument in DMS abgelegt,02_bietergemeinschaftsvertrag_auszug.docx,OK,540d04d266ed5598,Auszug Bietergemeinschaftsvertrag Cybersicherheitsberatung
+2026-07-07 09:30:00,Fristenkalender,s.mueller,Uploadpaket erneut validiert,02_bietergemeinschaftsvertrag_auszug.docx,OK,22516feefd4af9c0,Auszug Bietergemeinschaftsvertrag Cybersicherheitsberatung
+2026-07-10 09:50:00,E-Mail-Gateway,s.mueller,Frist in Kalender übertragen,03_ruegeschreiben_sitzkriterium.eml,OK,bdca99a76124ac7f,Rüge gegen Sitz- und Distanzkriterium
+2026-07-11 09:54:00,Vergabeplattform,fachamt,Bieterkommunikation exportiert,03_ruegeschreiben_sitzkriterium.eml,nachbearbeitet,aa1a8840933b154f,Rüge gegen Sitz- und Distanzkriterium
+2026-07-25 10:25:00,Fristenkalender,s.mueller,Uploadpaket erneut validiert,05_nachpruefungsantrag_auswahlkriterium.docx,OK,3488feca7272481d,Nachprüfungsantrag gegen diskriminierendes Sitzkriterium
+2026-07-26 10:27:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,05_nachpruefungsantrag_auswahlkriterium.docx,OK,64f8912bef14ebed,Nachprüfungsantrag gegen diskriminierendes Sitzkriterium
+2026-07-28 10:09:00,AVA/ERP,jurist.vergaberecht,Metadaten auf Plattform geprüft,04_teilnahmeantrag_eignungsmatrix.docx,OK,052b2235dae99725,Teilnahmeantrag Bietergemeinschaft Cybersicherheitsberatung
+2026-07-29 10:05:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,04_teilnahmeantrag_eignungsmatrix.docx,OK,2701022560535af0,Teilnahmeantrag Bietergemeinschaft Cybersicherheitsberatung
+2026-08-06 10:40:00,Vergabeplattform,extern.upload,Bieterkommunikation exportiert,06_rechtsmittel_und_kostenvermerk.docx,nachbearbeitet,be86cdeac5d9d65c,Rechtsmittel- und Kostenvermerk
+2026-08-12 11:01:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,07_beschluss_vk_sitzkriterium.docx,OK,bb326bc331f1a746,Beschluss zum Sitzkriterium im Teilnahmewettbewerb MID-STRAT-2026-07
+2026-08-20 11:14:00,E-Mail-Gateway,extern.upload,Hashwert für Anlage notiert,08_sofortige_beschwerde_bietergemeinschaft.docx,OK,e43e0a61eb65ec3b,Sofortige Beschwerde gegen den Beschluss VK ML 12-31/26
+2026-08-28 11:30:00,AVA/ERP,extern.upload,PDF-Vorschau erzeugt,09_olg_erwiderung_vergabestelle.docx,OK,7ea5e5a991f1919c,Erwiderung auf die sofortige Beschwerde der Bietergemeinschaft Beratung
+2026-09-03 11:52:00,Fristenkalender,fachamt,Freigabe durch Vier-Augen-Prüfung erfasst,10_gerichtlicher_vergleich_teilnahmewettbewerb.docx,OK,5ac48e5c8d7a1825,Vergleich im Beschwerdeverfahren MID-STRAT-2026-07
+2026-09-04 12:02:00,Vergabeplattform,zv.postfach,Unterlagenpaket geöffnet,11_umsetzungsvermerk_vergleich.docx,nachbearbeitet,e96b629da782cb53,Umsetzung des gerichtlichen Vergleichs
+2026-09-07 12:21:00,DMS,jurist.vergaberecht,Dokument in DMS abgelegt,12_auswahlmatrix_reaktionsleistung.docx,OK,544900fe21029c5d,Auswahl- und Wertungsmatrix Reaktionsleistung
+2026-09-15 12:39:00,E-Mail-Gateway,fachamt,Frist in Kalender übertragen,13_reaktionssimulation_einzelwertung.docx,OK,bfbba253fe0d0a15,Reaktionssimulation und Konsenswertung der Beratungsteams

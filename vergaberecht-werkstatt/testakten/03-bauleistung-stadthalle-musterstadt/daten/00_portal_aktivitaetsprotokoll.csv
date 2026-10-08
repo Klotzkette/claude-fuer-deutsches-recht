@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-06-17 09:19:00,Vergabeplattform,jurist.vergaberecht,Unterlagenpaket geöffnet,01_bekanntmachung_pruefnotiz.docx,nachbearbeitet,4c34068770970006,Erstprüfung TED-Bekanntmachung Sanierung Stadthalle
+2026-06-18 09:20:00,AVA/ERP,fachamt,Metadaten auf Plattform geprüft,01_bekanntmachung_pruefnotiz.docx,OK,f7f5c90841b26a16,Erstprüfung TED-Bekanntmachung Sanierung Stadthalle
+2026-06-18 09:34:00,DMS,extern.upload,Dokument in DMS abgelegt,02_vergabeunterlagen_pruefbericht.docx,OK,168b91b2f70779df,Prüfbericht Vergabeunterlagen Stadthalle Musterstadt
+2026-06-19 09:34:00,Fristenkalender,s.mueller,Uploadpaket erneut validiert,02_vergabeunterlagen_pruefbericht.docx,OK,5e2bf19789e465a4,Prüfbericht Vergabeunterlagen Stadthalle Musterstadt
+2026-06-20 09:51:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,03_ruegeschreiben_markenbezug.eml,OK,4e0ae8227cb622da,Rüge wegen produktbezogener Leistungsbeschreibung Dachfenster
+2026-06-21 09:53:00,Vergabeplattform,fachamt,Bieterkommunikation exportiert,03_ruegeschreiben_markenbezug.eml,nachbearbeitet,25fd078e026662e9,Rüge wegen produktbezogener Leistungsbeschreibung Dachfenster
+2026-06-25 10:10:00,AVA/ERP,zv.postfach,Metadaten auf Plattform geprüft,04_nichtabhilfe_vergabestelle.docx,OK,3fdd00bf7b4cf320,Nichtabhilfe zur Rüge Dachfenster Stadthalle
+2026-06-26 10:05:00,DMS,extern.upload,Aktenvermerk finalisiert,04_nichtabhilfe_vergabestelle.docx,OK,e8777e006f9eafd6,Nichtabhilfe zur Rüge Dachfenster Stadthalle
+2026-07-03 10:21:00,Fristenkalender,jurist.vergaberecht,Uploadpaket erneut validiert,05_nachpruefungsantrag_vk.docx,OK,3732fa171514b1b7,Nachprüfungsantrag Sanierung Stadthalle Musterstadt
+2026-07-04 10:20:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,05_nachpruefungsantrag_vk.docx,OK,76a33a981203ded5,Nachprüfungsantrag Sanierung Stadthalle Musterstadt
+2026-07-09 11:00:00,DMS,jurist.vergaberecht,Aktenvermerk finalisiert,07_stellungnahme_vergabestelle_vk.docx,OK,9e9243f62febbed5,Stellungnahme zum Nachprüfungsantrag Dachsanierung Stadthalle
+2026-07-12 11:18:00,E-Mail-Gateway,jurist.vergaberecht,Hashwert für Anlage notiert,08_gleichwertigkeitsmatrix_sachverstaendigenvermerk.docx,OK,6cc993e13773acfb,Gleichwertigkeitsmatrix Dachfenstersysteme Position 03.02.140
+2026-07-14 10:39:00,Vergabeplattform,fachamt,Bieterkommunikation exportiert,06_angebotsabgabe_checkliste.docx,nachbearbeitet,bca8a35a5cb9b3ac,Formcheck Angebotsabgabe Stadthalle
+2026-07-16 11:32:00,AVA/ERP,fachamt,PDF-Vorschau erzeugt,09_protokoll_muendliche_verhandlung_vk.docx,OK,8350c2d7204ba7ec,Protokoll der mündlichen Verhandlung
+2026-07-20 11:46:00,Fristenkalender,s.mueller,Freigabe durch Vier-Augen-Prüfung erfasst,10_beschluss_vk_rueckversetzung.docx,OK,319a766acf628f31,Beschluss Dachsanierung Stadthalle Musterstadt
+2026-07-23 12:04:00,Vergabeplattform,zv.postfach,Unterlagenpaket geöffnet,11_umsetzungsvermerk_rueckversetzung.docx,nachbearbeitet,b43486b4d0d07425,Umsetzung der Rückversetzung
+2026-07-24 12:27:00,DMS,fachamt,Dokument in DMS abgelegt,12_aenderungsbekanntmachung_lv_freigabe.eml,OK,78b2c9c168aaaf9d,Bieterinformation zur berichtigten Dachfensterposition
+2026-07-29 12:44:00,E-Mail-Gateway,fachamt,Frist in Kalender übertragen,13_bestandsaufmass_kalkulationsprotokoll.docx,OK,d4bebedeafd34fda,Gemeinsames Bestandsaufmaß der berichtigten Leistungspositionen

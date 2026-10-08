@@ -1,0 +1,79 @@
+name: "IT-Sicherheitsvergabe Landeshauptstadt Schwerin"
+plugin: "rollenverbund"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens 22 fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 22
+  - id: r04-landesvergabekammer
+    check_type: text_contains
+    description: "Kommunale Vergabe ist der Landesvergabekammer zugeordnet"
+    path: "README.md"
+    contains: "Vergabekammern des Landes Mecklenburg-Vorpommern"
+  - id: r05-ruegefrist
+    check_type: regex_match
+    description: "Rüge trennt die Zehn-Kalendertage-Frist von Nummer 4"
+    path: "07_ruege_cybershield_160_gwb.md"
+    pattern: '(10|Zehn)[- ]Kalendertag'
+  - id: r06-nichtabhilfe
+    check_type: regex_match
+    description: "Nichtabhilfe weist auf die Frist aus Nummer 4 hin"
+    path: "08_ruege_nichtabhilfeschreiben.md"
+    pattern: '15[- ]Kalendertag'
+  - id: r07-nachpruefung
+    check_type: regex_match
+    description: "Nachprüfungsantrag enthält konkrete Anträge"
+    path: "09_nachpruefungsantrag_vk_mv.md"
+    pattern: "beantragt|Antr[aä]ge"
+  - id: r08-bsig-stand
+    check_type: regex_match
+    description: "BSIG-Analyse verwendet den Rechtsstand 2026"
+    path: "21_bsi_it_sig2_kritis_analyse.md"
+    pattern: '§§?\s*(28|30|31|32|33|39|41)'
+  - id: r09-kammerkosten
+    check_type: regex_match
+    description: "Kostenmemo verankert die Kammergebühr in Paragraf 182 GWB"
+    path: "22_kostenrechnung_verfahren.md"
+    pattern: '§\s*182\s+(Abs\.\s*2\s+)?GWB'
+  - id: r10-beschwerdestreitwert
+    check_type: regex_match
+    description: "Kostenmemo verankert den Beschwerdestreitwert in Paragraf 50 GKG"
+    path: "22_kostenrechnung_verfahren.md"
+    pattern: '§\s*50\s+Abs\.\s*2\s+GKG'
+  - id: r11-referenzprotokoll
+    check_type: file_exists
+    description: "Referenzbestätigungen und Rückrufprotokoll sind vorhanden"
+    path: "29_referenzbestaetigungen_rueckrufprotokoll.md"
+  - id: r12-referenzmassstab
+    check_type: regex_match
+    description: "ÖPNV-Bezug wird nicht nachträglich zur Mindestanforderung erhoben"
+    path: "29_referenzbestaetigungen_rueckrufprotokoll.md"
+    pattern: 'ÖPNV-Sektor[\s\S]{0,140}nicht als ausdrückliche Mindestanforderung[\s\S]{0,140}nicht nachträglich'
+  - id: r13-einzelwertungen
+    check_type: file_exists
+    description: "Einzelwertungen und Konsensprotokoll der Neuwertung sind vorhanden"
+    path: "30_einzelwertungen_konsensprotokoll.md"
+  - id: r14-spaete-zusage
+    check_type: regex_match
+    description: "Spätere Reaktionszusage der Zuschlagsprätendentin bleibt unberücksichtigt"
+    path: "30_einzelwertungen_konsensprotokoll.md"
+    pattern: 'spätere 15-Minuten-Zusage von ProtectIT[\s\S]{0,160}nicht berücksichtigt'
+  - id: r15-rangstabilitaet
+    check_type: regex_match
+    description: "Rangfolge wird gegen eine kleine fachliche Punktabweichung geprüft"
+    path: "30_einzelwertungen_konsensprotokoll.md"
+    pattern: 'Rangfolge bleibt[\s\S]{0,120}0\.5 Punkten[\s\S]{0,120}unverändert'
+  - id: r16-fachreview
+    check_type: human_review
+    description: "Zuständigkeit, Rechtsstand und Kostenrisiko manuell prüfen"
+    note: "Vergabekammer, Beschwerdegericht, BSIG-Fassung und Streitwertgrundlage vor Freigabe live verifizieren."

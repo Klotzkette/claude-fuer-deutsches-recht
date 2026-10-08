@@ -1,0 +1,60 @@
+name: "Konkurrentenrechtsschutz Rechenzentrum Musterkreis"
+plugin: "konkurrenten-rechtsschutz"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/06-konkurrentenrechtsschutz-rechenzentrum-musterkreis_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens acht fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 8
+  - id: r04-informationsschreiben
+    check_type: regex_match
+    description: "Informationsschreiben wird nach Paragraf 134 GWB ausgewertet"
+    path: "03_134_schreiben_auswertung.md"
+    pattern: '§\s*134\s+GWB'
+  - id: r05-ruege
+    check_type: regex_match
+    description: "Rüge bezeichnet Wertungs- oder Eignungsfehler konkret"
+    path: "04_ruegeschreiben_konkurrent.md"
+    pattern: "Wertung|Eignung|Referenz"
+  - id: r06-nichtabhilfe
+    check_type: text_contains
+    description: "Nichtabhilfe ist dokumentiert"
+    path: "05_nichtabhilfe_vergabestelle.md"
+    contains: "Nichtabhilfe"
+  - id: r07-akteneinsicht
+    check_type: regex_match
+    description: "Akteneinsicht und Geschäftsgeheimnisse werden austariert"
+    path: "07_eilantrag_akteneinsicht.md"
+    pattern: 'Akteneinsicht[\s\S]{0,1200}Gesch[aä]ftsgeheim'
+  - id: r08-olg
+    check_type: regex_match
+    description: "OLG-Briefing behandelt sofortige Beschwerde"
+    path: "08_olg_beschwerdebriefing.md"
+    pattern: "sofortige Beschwerde|Beschwerde"
+  - id: r09-failovertest
+    check_type: file_exists
+    description: "Failover-Test und Monitoringauszug sind als Beweisstück vorhanden"
+    path: "16_failovertest_monitoringlog.md"
+  - id: r10-carrier-indiz
+    check_type: regex_match
+    description: "Späte Carrier-Bestellung wird als objektives Indiz und nicht als Gewissheit eingeordnet"
+    path: "16_failovertest_monitoringlog.md"
+    pattern: 'Carrier-Auftrag mit Datum 24\.08\.2026[\s\S]{0,180}objektives Indiz[\s\S]{0,180}Angebotsfrist am 20\.08\.2026[\s\S]{0,1800}beweist nicht für sich allein'
+  - id: r11-stichtagspruefung
+    check_type: regex_match
+    description: "Testbefund und fristgebundener Angebotsinhalt werden getrennt gewürdigt"
+    path: "16_failovertest_monitoringlog.md"
+    pattern: 'beweist nicht für sich allein[\s\S]{0,300}fristgebundenen Angebotsinhalt'
+  - id: r12-fachreview
+    check_type: human_review
+    description: "Fristen, Antragsbefugnis und Zuschlagschance manuell prüfen"
+    note: "Kenntnis, Rügezugang, Nichtabhilfe, Stillhaltefrist und drohenden Schaden anhand der Belege abgleichen."

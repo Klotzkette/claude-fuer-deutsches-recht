@@ -1,0 +1,6 @@
+*.docx binary
+*.eml text eol=crlf
+*.pdf binary
+*.pptx binary
+*.xlsx binary
+*.zip binary

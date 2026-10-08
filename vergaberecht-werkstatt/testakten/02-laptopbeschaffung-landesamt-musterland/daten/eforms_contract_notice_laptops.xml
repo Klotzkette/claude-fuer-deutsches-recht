@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContractNotice xmlns="urn:example:eforms:vergaberecht-werkstatt">
+  <ProcedureIdentifier>LAD-IT-2026-044</ProcedureIdentifier>
+  <Buyer>Landesamt für Digitalisierung Musterland</Buyer>
+  <Title>Rahmenvertrag mobile Endgeräte 2026</Title>
+  <ProcedureType>open</ProcedureType>
+  <CPV>30213100-6</CPV>
+  <EstimatedValue currency="EUR">1520000</EstimatedValue>
+  <TenderDeadline>2026-06-21T12:00:00+02:00</TenderDeadline>
+  <SubmissionFormat>electronic</SubmissionFormat>
+  <AwardCriteria>
+    <Criterion name="Preis" weight="60" />
+    <Criterion name="Servicequalität" weight="30" />
+    <Criterion name="Energieeffizienz" weight="10" />
+  </AwardCriteria>
+</ContractNotice>

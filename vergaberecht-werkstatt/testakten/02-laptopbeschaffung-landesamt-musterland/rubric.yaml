@@ -1,0 +1,60 @@
+name: "Laptopbeschaffung Landesamt Musterland"
+plugin: "vergabestelle-behoerden"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/02-laptopbeschaffung-landesamt-musterland_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens sechs fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 6
+  - id: r04-einzel-pdfs
+    check_type: file_count
+    description: "Mindestens sechs Einzel-PDFs vorhanden"
+    glob: "einzel-pdf/*.pdf"
+    min: 6
+  - id: r05-produktneutralitaet
+    check_type: regex_match
+    description: "Leistungsbeschreibung wahrt Produktneutralität"
+    path: "02_leistungsbeschreibung_produktneutral.md"
+    pattern: "gleichwertig|produktneutral"
+  - id: r06-markenfrage
+    check_type: text_contains
+    description: "Markenbezug wird in der Bieterkommunikation behandelt"
+    path: "04_bieterfrage_markenbezug.md"
+    contains: "Marke"
+  - id: r07-wertung
+    check_type: regex_match
+    description: "Wertung trennt Preis und Qualität"
+    path: "05_pruefvermerk_angebote_wertung.md"
+    pattern: 'Preis[\s\S]{0,500}Qualit[aä]t|Qualit[aä]t[\s\S]{0,500}Preis'
+  - id: r08-stillhalteinformation
+    check_type: regex_match
+    description: "Informationsschreiben verankert Paragraf 134 GWB"
+    path: "06_informationsschreiben_134_gwb.md"
+    pattern: '§\s*134\s+GWB'
+  - id: r09-serviceprotokoll
+    check_type: file_exists
+    description: "Reproduzierbares Servicefallprotokoll ist vorhanden"
+    path: "14_servicefall_testprotokoll.md"
+  - id: r10-angebotsfreeze
+    check_type: regex_match
+    description: "Spätere Aufklärung schafft keine neue Leistungszusage"
+    path: "14_servicefall_testprotokoll.md"
+    pattern: 'spätere Aufklärungen[\s\S]{0,120}keine neue Zusage gewertet'
+  - id: r11-bestangebot
+    check_type: regex_match
+    description: "Rang eins beruht auf belastbarer Servicequalität und nicht auf dem niedrigsten Preis"
+    path: "14_servicefall_testprotokoll.md"
+    pattern: 'TechLine Systeme GmbH \| 56\.80 \| 24\.50 \| 8\.70 \| 90\.00 \| 1[\s\S]{0,500}nicht darauf[\s\S]{0,120}niedrigsten Preis[\s\S]{0,260}Qualitätsvorteile'
+  - id: r12-fachreview
+    check_type: human_review
+    description: "Mindestanforderungen und Gleichwertigkeitsnachweise manuell prüfen"
+    note: "Technische Muss-Kriterien, Umweltzeichen und Servicewertung auf verdeckte Leitfabrikate prüfen."

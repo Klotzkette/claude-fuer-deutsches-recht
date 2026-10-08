@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContractNotice xmlns="urn:example:eforms:vergaberecht-werkstatt" notice-id="2026-S-151-456789">
+  <Procedure id="MK-IT-2026-RZ-044">
+    <Title>Rechenzentrumsbetrieb Musterkreis</Title>
+    <Buyer>Musterkreis IT-Service</Buyer>
+    <ProcedureType>OpenProcedure</ProcedureType>
+    <AwardCriterion id="ZK-3" weight="25">Ausfallsicherheit und Wiederanlauf</AwardCriterion>
+    <ReviewBody>Vergabekammer Westfalen</ReviewBody>
+  </Procedure>
+  <ChangeNotice date="2026-08-05">
+    <ChangedField>Portalantwort zu Notfallhandbuch</ChangedField>
+    <Comment>Keine Fristverlängerung veröffentlicht</Comment>
+  </ChangeNotice>
+</ContractNotice>

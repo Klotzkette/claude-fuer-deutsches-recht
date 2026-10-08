@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2022-04-01 10:24:00,Fristenkalender,s.mueller,Uploadpaket erneut validiert,05_referenzliste_cybershield.docx,OK,e89b37a978a7fe89,Referenzliste CyberShield Defense GmbH (drei KRITIS-Nachweise)
+2026-02-27 09:20:00,Vergabeplattform,jurist.vergaberecht,Unterlagenpaket geöffnet,01_ausschreibungsbekanntmachung_ted.docx,nachbearbeitet,7b4aedf2cceebcf9,Ausschreibungsbekanntmachung TED (Auszug)
+2026-02-27 09:36:00,DMS,fachamt,Dokument in DMS abgelegt,02_vergabeunterlagen_leistungsbeschreibung.docx,OK,7f3ab16adc4e77fe,Vergabeunterlagen: Leistungsbeschreibung SOC + ISB-Beratung
+2026-02-27 09:53:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,03_eignungsanforderungen_kriterienkatalog.docx,OK,adc85c6f74bb6e12,Eignungsanforderungen und Kriterienkatalog
+2026-03-31 10:05:00,AVA/ERP,extern.upload,Metadaten auf Plattform geprüft,04_angebot_cybershield_zusammenfassung.docx,OK,1a6ab19d19da8178,Angebotszusammenfassung CyberShield Defense GmbH
+2026-04-14 10:45:00,Vergabeplattform,zv.postfach,Bieterkommunikation exportiert,06_ausschlussschreiben_vergabestelle.eml,nachbearbeitet,6d218de2731923fb,Ausschlussschreiben der Vergabestelle
+2026-04-17 11:02:00,DMS,extern.upload,Aktenvermerk finalisiert,07_ruege_cybershield_160_gwb.eml,OK,bfd156d1880f81ab,Rüge nach § 160 Abs. 3 GWB
+2026-04-22 11:11:00,E-Mail-Gateway,zv.postfach,Hashwert für Anlage notiert,08_ruege_nichtabhilfeschreiben.eml,OK,27db645c828edaab,Nichtabhilfe der Vergabestelle
+2026-04-24 11:31:00,AVA/ERP,extern.upload,PDF-Vorschau erzeugt,09_nachpruefungsantrag_vk_mv.docx,OK,0d558a7b37fa1ea6,Nachprüfungsantrag bei der Vergabekammer Mecklenburg-Vorpommern
+2026-04-30 12:22:00,DMS,extern.upload,Dokument in DMS abgelegt,12_beiladungsbeschluss_vk.docx,OK,6d3d1ce410a42288,Beiladungsbeschluss Vergabekammer
+2026-05-05 11:53:00,Fristenkalender,zv.postfach,Freigabe durch Vier-Augen-Prüfung erfasst,10_stellungnahme_vergabestelle_vk.docx,OK,09ca87b811fff003,Stellungnahme Vergabestelle an Vergabekammer
+2026-05-12 12:10:00,Vergabeplattform,jurist.vergaberecht,Unterlagenpaket geöffnet,11_erwiderung_cybershield_vk.docx,nachbearbeitet,f2d0c9c28d4c565f,Erwiderung CyberShield auf Vergabestellen-Stellungnahme
+2026-05-14 12:41:00,E-Mail-Gateway,zv.postfach,Frist in Kalender übertragen,13_aufklaerungsanfragen_vk.eml,OK,b3c0ab2adef69067,Aufklärungsanfragen der Vergabekammer
+2026-06-04 12:59:00,AVA/ERP,jurist.vergaberecht,Metadaten auf Plattform geprüft,14_aufklaerungsprotokoll_protokoll_termin.docx,OK,c3b5d7038f793ba4,Protokoll Aufklärungstermin Vergabekammer (04.06.2026)
+2026-06-09 13:11:00,Fristenkalender,jurist.vergaberecht,Uploadpaket erneut validiert,15_vergleichsvorschlag_vergabestelle.docx,OK,a39548cde4818b82,Vergleichsvorschlag der Vergabestelle
+2026-06-13 13:28:00,Vergabeplattform,zv.postfach,Bieterkommunikation exportiert,16_vergleichsannahme_ablehnung_cybershield.eml,nachbearbeitet,181e1a6ac2213a80,Ablehnung des Vergleichsvorschlags durch CyberShield
+2026-06-25 13:46:00,DMS,s.mueller,Aktenvermerk finalisiert,17_beschluss_vk_mv.docx,OK,9e3fe9c557c9cfc3,Beschluss der Vergabekammer Mecklenburg-Vorpommern
+2026-07-09 14:09:00,E-Mail-Gateway,fachamt,Hashwert für Anlage notiert,18_sofortige_beschwerde_olg_rostock.docx,OK,134021801362fe5c,Sofortige Beschwerde zum Oberlandesgericht Rostock

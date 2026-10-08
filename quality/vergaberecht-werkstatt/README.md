@@ -21,3 +21,7 @@ Das optionale Entwicklungsskript `llm-judge-eval.py` übermittelt ausdrücklich 
 `scripts/test-vergaberecht-import.py` prüft Rollenpfade, Bestand, Promptgrenzen und Downloadziele. Mit `--dist` prüft es zusätzlich Installationsgrenzen, flache Fallaktenarchive und die vollständige Bereitstellung der auf den Komponenten-READMEs verlinkten Assets. `scripts/package-vergaberecht-werkstatt.py` ruft die Komponenten-Builder auf und erstellt erst nach den Archivprüfungen die SHA-256-Prüfsummen.
 
 Die bestehenden Struktur-, YAML-, Navigations-, Fachstand- und Smoke-Prüfungen der Werkstatt werden weiter ausgeführt. Die drei Rollen erhalten eigene redaktionelle Evaluationsprofile im Qualitätslabor. Vorbereitete Fälle stehen ausdrücklich auf `not_run`; eine Live-Prüfung in fremden Clients wird damit nicht behauptet. Die Übernahmeprüfung ist insbesondere keine neue Vollprüfung sämtlicher Rechtsbehauptungen der Ausgangskopie.
+
+## 1.5. Abgegrenzter Restbefund
+
+Der zusätzliche globale Prompt-Sprachscan meldet sechs bereits vorhandene Produktnennungen in den drei Prompts der anderen Kanzlei-Komponente. Die importierten Vergaberollen verursachen nach dem redaktionellen Abgleich keine entsprechenden Meldungen. Die bestehenden Kanzleiprompts werden für diesen Kopierauftrag nicht umgeschrieben. Struktur-, Marketplace-Import- und YAML-Prüfung bestehen auch mit diesem abgegrenzten sprachlichen Restbefund; ein vollständig grüner globaler Sprachscan wird nicht behauptet.

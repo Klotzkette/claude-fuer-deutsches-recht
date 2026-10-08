@@ -1,0 +1,8 @@
+Frist,Auslöser,Datum,Rechtsfolge,Status
+Angebotsfrist,Bekanntmachung,20.08.2026 12:00,Ende Angebotsabgabe,abgelaufen
+Informationsschreiben,§ 134 GWB,12.09.2026 10:18,Beginn Stillhaltefrist,ausgelöst
+Stillhaltefrist,elektronische Versendung,22.09.2026 24:00,Zuschlag frühestens danach,rot
+Rüge,Kenntnis 12.09.2026,15.09.2026,Rüge binnen 10 Kalendertagen,erledigt
+Nichtabhilfe,Schreiben 17.09.2026,17.09.2026,Beginn 15-Tage-Frist,ausgelöst
+VK-Antrag,Nichtabhilfe,19.09.2026,Nachprüfung eingeleitet,erledigt
+OLG-Beschwerde,VK-Beschluss,offen,zwei Wochen ab Zustellung,überwachen

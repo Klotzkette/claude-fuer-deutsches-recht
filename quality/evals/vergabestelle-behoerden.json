@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "plugin": "vergabestelle-behoerden",
+  "reviewed_on": "2026-10-08",
+  "review_method": "desk_review",
+  "runtime_status": "not_run",
+  "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Portal- oder Behoerdenlaeufe. Drei eigenstaendige kuenstliche Eingaben ohne Mandantendaten oder Rubrikdateien. Keine globale Rechtspruefung oder behoerdliche Freigabe.",
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Original-Mini und kanonischer Schnellstart fuehren von Aktenlage und Frist zum konkreten Behoerdenoutput. Die Trennung von vorab festgelegter Bestwertungsmatrix, spaeterer Wertung und Rechtsschutzantwort passt zur Auftraggeberrolle. In diesem Auftrag unveraendert beibehalten; keine reale Vergabehandlung oder Modellleistung nachgewiesen.",
+    "changes": [],
+    "sha256": "d13161a823ab6c75494971cffd236150675ceef514e3a9dc1efe4b4b376c60d1"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Bedarf, Kriterien, Wertungsvermerk und Kammerakte. Die Fachskills verlangen Preisaufklaerung statt Prozent-Automatismus und eine begruendete Schwaerzungsliste statt pauschaler Geheimhaltung. Beibehalten als Textbefund, nicht als bestaetigte Verfahrens- oder Rechtskonformitaet.",
+    "changes": [],
+    "sha256": "907a53b32a97d7b97e9e6df692ce0d83c52f3bca2c38451f27debdad1d44b6be"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_change": "Beibehalten: Entscheidungssatz, Frist/Sperre und tragende Aktenbelege vor der Langbegruendung. Der Matrixfall beginnt ausdruecklich vor Bekanntmachung; der Preisfall nach Angebotseingang; der Einsichtsfall in der Nachpruefung. Diese Phasen duerfen nicht durch nachtraegliche Anpassung von Kriterien an einen Wunschbieter vermischt werden.",
+    "norms": [
+      "Paragraf 127 Absaetze 1, 3 bis 5 GWB: wirtschaftlichstes Angebot, Auftragsbezug und vorherige Bekanntgabe der Wertung; amtlichen Normtext geprueft.",
+      "Paragraf 60 Absaetze 1 bis 4 VgV: Aufklaerungsanlass, Pruefung der Erklaerung und differenzierte Ablehnungsfolgen; amtlichen Normtext geprueft.",
+      "Paragraf 165 GWB: Akteneinsicht und Geheimschutz im Kammerverfahren; amtlichen Normtext geprueft.",
+      "Paragraf 8 VgV ist Dokumentationsbezug der Werkstatt; keine gesonderte vollstaendige Pruefung der Aufbewahrungs- oder Sonderregeln."
+    ],
+    "remaining_limits": [
+      "Keine Client- oder Modelllaeufe; Kriterien sind zukuenftige Ergebnisanforderungen, keine bereits erzielten Bewertungen.",
+      "Keine Gesamtverifikation von Landesrecht, Schwellenwerten, Uebergangsrecht oder allen Rechtsprechungsankern der Rollenprompts.",
+      "Die Formulierung Bestangebot durchsetzen darf nur kriterientreue Wertung bezeichnen. Der geplante Matrixfall prueft deshalb Vorabfestlegung und verbietet nachtraegliche Anpassung an einzelne Anbieter.",
+      "Quellenpruefung zu Antea beschraenkt sich auf die amtliche Gerichtspressemitteilung; BGH X ZB 10/16 auf amtlich indexierte Leitsaetze. Keine Urteilsvolltextpruefung behauptet.",
+      "Eine vollstaendige Kammerfassung und eine geschuetzte Beteiligtenfassung sind verschiedene Artefakte. Ihre tatsaechliche Erzeugung, technische Schwaerzung und Uebermittlung wurden nicht ausgefuehrt."
+    ],
+    "files": [
+      "vergaberecht-werkstatt/unified-mini-prompts/vergabestelle-behoerden.md",
+      "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-vergabestelle.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-schnellstart.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/vergabestelle-behoerden-werkstatt.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/vergabe-os-master-orchestrator/SKILL.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/10-zuschlagsmatrix-aufbauen/SKILL.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/14-aufklaerung-unangemessen-niedrige-preise/SKILL.md",
+      "vergaberecht-werkstatt/vergabestelle-behoerden/skills/26-akteneinsicht-vergabekammer/SKILL.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtlicher Leitsatz a.",
+        "application": "Der Preisabstand im kuenstlichen Fall begruendet zusammen mit der Schaetzung einen konkreten Aufklaerungsbedarf, nicht einen automatischen Ausschluss.",
+        "limit": "Nur amtliche Leitsaetze im Suchindex gelesen; direkter BGH-Volltextabruf scheiterte mit HTTP 403. Keine feste gesetzliche Prozentschwelle oder vollstaendige Uebertragung auf heutige Sonderregime behauptet.",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9"
+      },
+      {
+        "citation": "EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.",
+        "application": "Die Behoerde begruendet Geheimhaltungsbedarf je Aktenteil und erhaelt den streiterheblichen wesentlichen Informationsgehalt fuer den Rechtsschutz.",
+        "limit": "Nur amtliche Pressezusammenfassung, nicht bindend und kein gepruefter Urteilsvolltext. Die Kammerentscheidung ueber konkrete Akteneinsicht wird nicht vorweggenommen.",
+        "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/"
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_modes": [
+      "Bedarfsakte vor Bekanntmachung: veroeffentlichungsfaehige Kriterien und Bewertungsleitfaden aus dem Beschaffungsnutzen ableiten, Eignung getrennt halten.",
+      "Angebot mit auffaelligem Preis: Anlass dokumentieren, gezielt aufklaeren und Antwort pruefen, statt unmittelbar auszuschliessen.",
+      "Kammerakte mit Einsichtsantrag: relevante Aktenteile, konkrete Schutzinteressen und getrennte Fassungen mit Freigabeweg erfassen.",
+      "Mehrteiliger Portal-/DMS-Export: zuerst Fristen, Sperren und fuehrende Quellen inventarisieren; eine verantwortliche naechste Behoerdenhandlung benennen."
+    ],
+    "continuation": "Neue Fachbereichsfreigabe aktualisiert die Kriterienversion vor Bekanntmachung, nicht rueckwirkend die Wertung. Eine Preisantwort fuehrt den bestehenden Aufklaerungsvermerk mit Belegstatus fort; eine Kammerverfuegung aktualisiert die Schwaerzungsmatrix. Checkpoints und Quellenkennungen bleiben erhalten.",
+    "enrichment": "Nachladen nur mit Entscheidungskonsequenz: Bedarfsbeleg fuer ein Qualitaetskriterium, Kostenbeleg fuer die Preisplausibilitaet oder konkreter Schutzgrund fuer eine Schwaerzung. Aktuelle Normen und Entscheidungen werden auf das festgestellte Regime bezogen; Datenquellen, Stichtag und Fachfreigabe bleiben sichtbar.",
+    "limits": "Desk-Review der schriftlichen Arbeitswege, kein Tool- oder Behoerdenlauf. Keine Veroeffentlichung, Zuschlagserteilung, Aktenuebermittlung oder autonomer Push. Rechtliche, fachliche und technische Freigabe bleiben getrennt; ein Textentwurf bestaetigt keine sichere PDF-Schwaerzung."
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Bestwertungsmatrix mit Auftragsbezug, ueberpruefbaren Kriterien und vorab bekannt gegebener Gewichtung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__60.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Aufklaerung vor Ablehnungsentscheidung und getrennte Rechtsfolgen in Absatz 3; kein gesetzlicher pauschaler 20-Prozent-Ausschluss."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__165.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Akteneinsicht mit Geheimschutzgrenzen, nicht pauschale Verweigerung des gesamten Wertungsvermerks."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlich indexierter Leitsatz a zum Aufklaerungsanlass; kein erfolgreich gelesener direkter Volltext."
+    },
+    {
+      "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
+      "checked_on": "2026-10-08",
+      "supports": "Gerichtspressemitteilung zu Antea gelesen; begrenzter Abwaegungsanker fuer die geplante Schwaerzungsmatrix."
+    }
+  ],
+  "selection": {
+    "target_skill": "vergabe-os-master-orchestrator",
+    "positive": [
+      "Wir sind die Vergabestelle. Ordne Bedarf, Unterlagen und Fristen und bereite die naechste interne Entscheidung vor.",
+      "Pruefe unsere Wertungsakte mit Preisaufklaerung und Akteneinsichtsantrag und fuehre sie zu einer Kammerstellungnahme."
+    ],
+    "negative": [
+      "Wir sind ein Unternehmen und wollen unser eigenes Angebot mit Preisblatt und Konzept abgeben.",
+      "Wir vertreten einen unterlegenen Bieter und wollen den Zuschlag der Behoerde mit einem Nachpruefungsantrag angreifen."
+    ]
+  },
+  "cases": [
+    {
+      "id": "wertungsmatrix-vor-bekanntmachung",
+      "target_skill": "10-zuschlagsmatrix-aufbauen",
+      "request": "Kuenstliche Testeingabe: Wir bereiten einen VgV-Dienstleistungsauftrag vor, es gibt weder Bekanntmachung noch echte Angebote. Der Fachbereich benoetigt kurze Wiederherstellungszeiten und eine nachweisbare Ausfallreserve. Entwurf: 40 Preispunkte nach 40 mal niedrigster Preis geteilt durch Angebotspreis, 60 Qualitaetspunkte. Rein modellierte Szenarien A, B und C haben Preise von 100000, 120000 und 110000 EUR sowie angenommene Qualitaetspunkte von 20, 55 und 45. Erstelle einen begruendeten Kriterien- und Bewertungsentwurf samt rechnerischem Stresstest. Kriterien duerfen nicht auf einen gewuenschten Anbieter zugeschnitten werden.",
+      "input_files": [],
+      "deliverables": ["wertungsmatrix.md", "bestwertungsnotiz.md"],
+      "criteria": [
+        {"id": "W01", "text": "Entwickelt auftragsbezogene pruefbare Qualitaetsstufen und Nachweise mit insgesamt 60 Punkten; trennt Eignungsanforderungen von Angebotswertung und macht offene fachliche Festlegungen kenntlich.", "deliverables": ["wertungsmatrix.md"]},
+        {"id": "W02", "text": "Rechnet die vorgegebenen Szenarien nachvollziehbar auf 60, etwa 88,33 und etwa 81,36 Gesamtpunkte; kennzeichnet Preise und Qualitaet als Modellannahmen, nicht als reale Angebote.", "deliverables": ["bestwertungsnotiz.md"]},
+        {"id": "W03", "text": "Begruendet Gewichtung und Nutzen vor Veroeffentlichung und verlangt fachliche Freigabe. Keine spaetere Anpassung an eingegangene Angebote, verdeckten Zusatzpunkte oder Behauptung, Bekanntmachung beziehungsweise Zuschlag seien erfolgt.", "deliverables": ["wertungsmatrix.md", "bestwertungsnotiz.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "unterpreis-aufklaeren-statt-prozentautomatik",
+      "target_skill": "14-aufklaerung-unangemessen-niedrige-preise",
+      "request": "Kuenstliche Testeingabe: Nach Angebotsoeffnung eines VgV-Dienstleistungsauftrags liegen fuer denselben Leistungsumfang 720000 und 1000000 EUR netto vor, die dokumentierte Schaetzung betraegt 980000 EUR. Das guenstigste Angebot behauptet besonders effiziente Personalplanung, liefert aber keine Kostenaufteilung; Sozialabgaben- und Lohnannahmen sind nicht belegt. Eine Aufklaerung wurde noch nicht versandt. Ein Kollege verlangt sofortigen Ausschluss wegen mehr als 20 Prozent Abstand. Erstelle eine konkrete Aufklaerungsanfrage und einen internen Pruefvermerk mit noch offener Entscheidung. Die Behoerde darf keine fehlenden Angaben als bewiesenen Gesetzesverstoss behandeln.",
+      "input_files": [],
+      "deliverables": ["aufklaerungsanfrage.md", "preispruefvermerk.md"],
+      "criteria": [
+        {"id": "U01", "text": "Berechnet 28 Prozent Abstand zum naechsthoeheren Angebot und etwa 26,53 Prozent zur Schaetzung mit richtigem Bezugswert; begruendet den Pruefanlass ohne starre gesetzliche 20-Prozent-Regel.", "deliverables": ["preispruefvermerk.md"]},
+        {"id": "U02", "text": "Fragt leistungsbezogen nach Personalstunden, Kosten, Effizienzbelegen und gesetzlichen Lohn-/Sozialpflichten; erfindet keine Standardfrist, Antwort, Kalkulation oder nachtraegliche Preisveraenderung.", "deliverables": ["aufklaerungsanfrage.md"]},
+        {"id": "U03", "text": "Laesst die Entscheidung bis zur Aufklaerung offen und unterscheidet Soll-Ablehnung bei nicht zufriedenstellender Erklaerung von zwingender Ablehnung bei festgestellter Missachtung der Pflichten aus Paragraf 128 Absatz 1 GWB. Dokumentiert Freigabe und naechsten Pruefschritt ohne Versandbehauptung.", "deliverables": ["preispruefvermerk.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "kammerakte-mit-getrennten-schutzfassungen",
+      "target_skill": "26-akteneinsicht-vergabekammer",
+      "request": "Kuenstliche Testeingabe: Im Nachpruefungsverfahren verlangt der unterlegene Bieter Einsicht in die Begruendung der Qualitaetswertung. Das Aktenverzeichnis nennt veroeffentlichte Kriterien, begruendete Punktvergabe, interne Stundensaetze des Zuschlagskandidaten sowie personenbezogene Einzelgehaelter und private Kontaktdaten. Konkrete personenbezogene Werte sind dieser Eingabe nicht beigefuegt. Der Fachbereich will den ganzen Vermerk als geheim markieren. Erstelle eine Schwaerzungsmatrix und eine Stellungnahme an die Kammer mit einem Vorschlag fuer getrennte Fassungen. Uebermittle keine Akte und behaupte keine technisch ausgefuehrte Schwaerzung.",
+      "input_files": [],
+      "deliverables": ["schwaerzungsmatrix.md", "kammerstellungnahme.md"],
+      "criteria": [
+        {"id": "S01", "text": "Prueft je Aktenteil Beweisrelevanz, konkretes Schutzinteresse und mildere Alternative; lehnt die pauschale Geheimmarkierung aller Kriterien und Wertungsgruende ab, ohne Gehaelter oder Kontaktdaten zu erfinden.", "deliverables": ["schwaerzungsmatrix.md"]},
+        {"id": "S02", "text": "Plant getrennt die erforderliche vollstaendige Kammerfassung und die begruendet geschuetzte Beteiligtenfassung; behaelt einen streiterheblichen wesentlichen Informationsgehalt und ueberlaesst die konkrete Einsichtsentscheidung der Kammer.", "deliverables": ["schwaerzungsmatrix.md", "kammerstellungnahme.md"]},
+        {"id": "S03", "text": "Stellungnahme verbindet Paragraf 165 GWB und den begrenzten Antea-Abwaegungsanker mit den konkreten Aktentypen. Behauptet weder sichere technische Schwaerzung noch Upload oder Versand und benennt die notwendige Freigabe.", "deliverables": ["kammerstellungnahme.md"]}
+      ],
+      "runtime_status": "not_run"
+    }
+  ]
+}
