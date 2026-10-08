@@ -1,0 +1,9 @@
+PyYAML>=6.0,<7
+jsonschema>=4.0,<5
+openpyxl>=3.1,<4
+pypdf>=5,<7
+python-docx>=1.1,<2
+reportlab>=4,<5
+Pillow>=10,<13
+python-pptx>=1,<2
+markdown-it-py>=3,<5

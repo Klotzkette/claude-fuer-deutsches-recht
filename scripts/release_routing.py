@@ -86,6 +86,17 @@ def plugin_asset_url(slug: str, *, root: Path = ROOT) -> str:
     return scoped_asset_url(asset, root=root) or f"{RELEASE_BASE}/latest/download/{asset}"
 
 
+def validate_plugin_version(plugin: dict, version: str, *, root: Path = ROOT) -> None:
+    """Abweichende Paketversionen nur mit exakt zugeordnetem Komponentenrelease."""
+    candidate = validate_version(plugin.get("version"))
+    if candidate == validate_version(version):
+        return
+    asset = f"{plugin['name']}.zip"
+    url = scoped_asset_url(asset, root=root)
+    if not url or not url.endswith(f"-v{candidate}/{asset}"):
+        raise ValueError(f"{plugin['name']}: Version {candidate} ohne passendes Komponentenrelease")
+
+
 def case_asset_url(slug: str, suffix: str = "", *, version: str | None = None,
                    root: Path = ROOT, config: Path = CONFIG) -> str:
     if suffix not in ("", "-einzelpdfs"):

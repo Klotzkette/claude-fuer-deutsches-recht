@@ -6,7 +6,7 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
-from release_routing import rewrite_case_asset_urls
+from release_routing import rewrite_case_asset_urls, validate_plugin_version, validate_version
 
 from readme_display import display_plugin_description
 from testakte_zip_common import working_dump_flat_pairs
@@ -72,13 +72,19 @@ def inventory_counts(plugins: list[dict]) -> dict[str, int]:
         for child in (REPO / "testakten").iterdir()
         if child.is_dir() and child.name not in SKIP_TESTAKTEN
     )
+    procurement = REPO / "vergaberecht-werkstatt/testakten"
+    separate_testakten = sum(
+        1 for child in procurement.iterdir()
+        if child.is_dir() and child.name not in SKIP_TESTAKTEN
+    ) if procurement.is_dir() else 0
     return {
         "plugins": len(plugins),
         "skills": skills,
         "werkstatt": werkstatt,
         "schnellstart": schnellstart,
         "central_testakten": central_testakten,
-        "testakten": central_testakten + pluginlocal_testakten,
+        "testakten": central_testakten + pluginlocal_testakten + separate_testakten,
+        "separate_testakten": separate_testakten,
     }
 
 
@@ -100,7 +106,7 @@ def build_directory(plugins: list[dict]) -> str:
             f"| **Werkstatt-Prompts** | {counts['werkstatt']} | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |",
             "| HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |",
             f"| **Schnellstart-/Mini-Prompts** | {counts['schnellstart']} | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |",
-            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |",
+            f"| **Testakten** | {counts['central_testakten']} zentral / {counts['testakten']} gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und {counts['separate_testakten']} Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |",
             "",
             f"Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz {counts['skills']} Skills benutzbar bleibt.",
             "",
@@ -215,12 +221,9 @@ def main() -> int:
     counts = inventory_counts(plugins)
     updated = update_summary_counts(updated, counts)
     updated = re.sub(r"(\| \*\*Skills \(SKILL\.md\)\*\* \| )\d+", lambda m: m[1] + str(counts["skills"]), updated)
-    versions = {plugin.get("version") for plugin in plugins}
-    if len(versions) != 1 or not isinstance(next(iter(versions)), str):
-        raise RuntimeError("Uneinheitliche Marketplace-Versionen")
-    version = next(iter(versions))
-    if version != marketplace["version"]:
-        raise RuntimeError("Plugin-Versionen weichen von der Marketplace-Version ab")
+    version = validate_version(marketplace["version"])
+    for plugin in plugins:
+        validate_plugin_version(plugin, version, root=REPO)
     updated = re.sub(r"(\| \*\*Plugin-Version / Arbeitsstand\*\* \| `)v\d+\.\d+\.\d+", lambda m: m[1] + "v" + version, updated)
     testakten = update_testakten_version(TESTAKTEN_README.read_text(encoding="utf-8"), version, counts["central_testakten"])
     updated = rewrite_case_asset_urls(updated, version=marketplace["version"])

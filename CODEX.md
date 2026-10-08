@@ -74,8 +74,11 @@ bleiben — auch wenn sie nur einmal oder unregelmaessig laufen:
    - `python3 scripts/validate-yaml-frontmatter.py`
    - `node scripts/validate-plugin-structure.mjs`
    - `python3 scripts/validate-testakten-gesamt-pdf.py`
-7. Versions-Bumps konsistent durchziehen: alle 232 `plugin.json` und
-   `.claude-plugin/marketplace.json` muessen dieselbe Version tragen.
+7. Versions-Bumps konsistent durchziehen: reguläre Plugins folgen der
+   Marketplace-Version. Eine eigenständige Komponentenversion ist nur zulässig,
+   wenn das eigene Plugin-ZIP in `scripts/scoped-release-assets.json` exakt auf
+   diese Version zeigt. Marketplace-Eintrag, Plugin-Manifest und gegebenenfalls
+   Codex-Manifest müssen auch dann dieselbe Paketversion tragen.
 8. Tags `vN.0.0` triggern `.github/workflows/release-plugin-zips.yml`.
    Ein zweites Tag mit gleicher Versionsnummer muss vorher geloescht
    werden (`git push origin :refs/tags/vN.0.0`).

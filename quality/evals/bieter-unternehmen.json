@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "plugin": "bieter-unternehmen",
+  "reviewed_on": "2026-10-08",
+  "review_method": "desk_review",
+  "runtime_status": "not_run",
+  "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Portal- oder Mandantenlaeufe. Die drei kuenstlichen Eingaben sind eigenstaendige Testszenarien, keine Ergebnisse aus den importierten Testakten. Keine globale Rechtspruefung des Rollenbestands.",
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Der kanonische Schnellstart wurde mit dem Original-Mini abgeglichen. Einstieg ueber Angebotslage, Abgabefrist, veroeffentlichte Kriterien und Formatweg ist bieterspezifisch. Die Fuenf-Zeilen-Lage und hoechstens drei nachgelagerte Blockerfragen erlauben einen ersten Arbeitsstand ohne Skillwahl. In diesem Auftrag keine Prompt-Aenderung; keine Laufpruefung.",
+    "changes": [],
+    "sha256": "1a579bcf9791d17a17b56b2dfd40953aeb85f8512789e9da528ad845232c4610"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt verbinden Punktebruecke, Kostenbeleg, Angebotsfreeze und Rechtsschutzreserve. Die gelesenen Fachskills begrenzen Qualitaetsargumente auf die veroeffentlichte Matrix und verlangen feste Abgabedateien statt veraenderlicher Links. Redaktionell beibehalten; native Dateiintegritaet, Fristberechnung und Toolausfuehrung sind damit nicht getestet.",
+    "changes": [],
+    "sha256": "5fcea18bafd9d2705f3c469046bc7178fecc861734953a2c6a9d3721ce033251"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_change": "Beibehalten, nicht neu umgeschrieben: vom konkreten Angebot zu Frist, Format und naechster Bieterdatei. Der Orchestrator ist fuer Ordner und Mehrfachlagen vorgesehen; Punktebruecke, Abgabestand und Preisaufklaerung erhalten jeweils einen eigenen Fachweg statt eines allgemeinen Vergabegutachtens.",
+    "norms": [
+      "Paragraf 127 Absaetze 1, 4 und 5 GWB: wirtschaftlichstes Angebot, ueberpruefbare auftragsbezogene Kriterien und vorherige Bekanntgabe; amtlichen Normtext geprueft.",
+      "Paragraf 60 Absaetze 1 bis 4 VgV: Preisaufklaerung und abgestufte Ablehnungsfolgen; amtlichen Normtext geprueft.",
+      "Paragraf 53 VgV und konkrete Portalvorgaben sind Bezugspunkte des Formatpfads; hier keine gesonderte Volltext- oder Portalpruefung."
+    ],
+    "remaining_limits": [
+      "Keine Client- oder Modelllaeufe; alle Faelle und Kriterien sind geplant, nicht bestanden.",
+      "Der umfangreiche Rechtsprechungsbestand, Sonderregime und Uebergangsrecht 2026 wurden nicht insgesamt verifiziert.",
+      "Der Original-/Kanonikabgleich zeigte nummerierte Ueberschriften und plattformneutrales Skill-Routing; kein Nachweis einer verbesserten Modellleistung.",
+      "Mini und Orchestrator verwenden teils Angebot beziehungsweise Abgabe als Startfeld. Die Sachanforderungen sind vereinbar, ein exaktes UI-Ausgabeformat ist nicht laufgetestet.",
+      "Vollstaendige Texte ohne erfundene Daten koennen bei fehlenden Belegen nur vorlaeufige Entwuerfe sein. Hashes, Upload und Empfang sind nur mit tatsaechlichen Dateien und Systemnachweisen bestaetigbar."
+    ],
+    "files": [
+      "vergaberecht-werkstatt/unified-mini-prompts/bieter-unternehmen.md",
+      "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-bieter.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-schnellstart.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/bieter-unternehmen-werkstatt.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/skills/vergabe-os-master-orchestrator/SKILL.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/skills/qualitaetsvorsprung-nachweisen/SKILL.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/skills/angebot-in-vorgegebenem-format-erstellen/SKILL.md",
+      "vergaberecht-werkstatt/bieter-unternehmen/skills/18-aufklaerung-niedriges-angebot-paragraf-60/SKILL.md"
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Beschluss vom 31.01.2017, X ZB 10/16, Notaerztliche Dienstleistungen, amtliche Leitsaetze a bis c.",
+        "application": "Die Preisantwort muss die Kalkulation belegbar erklaeren und vertrauliche Teile gesondert behandeln. Ein auffaelliger Abstand kann eine Pruefung ausloesen, ist aber kein fertiger Ausschlussnachweis.",
+        "limit": "Amtliche Leitsaetze ueber den Suchindex gelesen; direkter BGH-PDF-Abruf mit HTTP 403 gescheitert. Keine Volltext- oder Randnummernverifikation. Aktuelle Rechtsfolgen separat an Paragraf 60 VgV abgeglichen.",
+        "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9"
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ungeordnete Vergabeunterlagen: zuerst Angebotsfrist, Pflichtdateien und groesste Ausschlussluecke inventarisieren, dann hoechstens drei Fachskills.",
+      "Hoeherer eigener Preis: unmittelbar die bekannt gemachte Matrix mit belegter Qualitaet und einer rechnerischen Punktebruecke verbinden.",
+      "Abgabe vor dem Freeze: Leitdatei, Version, feste Uploads und Quittung abgleichen; unbekannte Hashes und fehlende Native-Dateien offenlassen.",
+      "Preisaufklaerung: Kostenbruecke und Nachweise auf den unveraenderten Angebotspreis beziehen, externe Antwort von internen Belegluecken trennen."
+    ],
+    "continuation": "Neue Referenz, Dateiversion oder Portalquittung aktualisiert den betroffenen Matrix- oder Manifestposten. Unveraenderte gehashte Dateien werden nach dem Checkpoint nicht erneut ausgewertet; neue Belege ersetzen nur die dadurch geklaerte Annahme. Ohne Originaldatei wird kein Hash als gemessen ausgegeben.",
+    "enrichment": "Nur fuer entscheidende Punkte nachladen: Kriterienfundstelle und Angebotsbeleg fuer den Qualitaetsvorsprung, Lohn- oder Lieferantenbeleg fuer den niedrigen Preis, Original und Serverquittung fuer den Abgabestand. Externe Quellen bekommen Status und Reichweitengrenze; ERP-/HR-Zugriff bleibt zunaechst lesend.",
+    "limits": "Ablauf aus den Texten nachvollzogen, nicht ausgefuehrt. Keine Einreichung, Freigabe, Systemverbindung oder Formatkonvertierung behauptet. Fehlende Werkzeuge oder Belege verhindern die betreffende Abgabebestaetigung, nicht einen gekennzeichneten Arbeitsentwurf."
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__127.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Kriterienbindung und bekannt gegebene Gewichtung tragen den Punktebrueckenfall, nicht frei erfundene Qualitaetsboni."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/vgv_2016/__60.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Aufklaerung, Nachweise und Unterscheidung zwischen Soll-Ablehnung bei unzureichender Erklaerung und zwingender Ablehnung bei festgestelltem Verstoss gegen Paragraf 128 Absatz 1 GWB."
+    },
+    {
+      "url": "https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Art=en&Blank=1.pdf&Datum=2017-1&Gericht=bgh&anz=272&nr=77591&pos=9",
+      "checked_on": "2026-10-08",
+      "supports": "Nur amtliche, im Suchindex zugaengliche Leitsaetze zu Aufklaerungsanlass und Geheimnisabwaegung; direkter Volltextabruf gescheitert."
+    }
+  ],
+  "selection": {
+    "target_skill": "vergabe-os-master-orchestrator",
+    "positive": [
+      "Wir wollen anbieten. Ordne den Vergabeordner, sichere Pflichtformate und Abgabefrist und bereite den naechsten Angebotsteil vor.",
+      "Unser Angebot ist teurer; pruefe Qualitaetsbelege, Preisaufklaerung und den noch offenen Uploadstand gemeinsam."
+    ],
+    "negative": [
+      "Wir sind die Vergabestelle und wollen vor Bekanntmachung Zuschlagskriterien entwerfen.",
+      "Ich vertrete einen unterlegenen Konkurrenten und brauche ausschliesslich einen Eilrechtsschutzplan gegen den Zuschlag."
+    ]
+  },
+  "cases": [
+    {
+      "id": "qualitaetsvorsprung-nur-innerhalb-der-matrix",
+      "target_skill": "qualitaetsvorsprung-nachweisen",
+      "request": "Kuenstliche Testeingabe: Wir erstellen ein Angebot fuer einen VgV-Dienstleistungsauftrag. Die veroeffentlichte Matrix vergibt 50 Preispunkte nach 50 mal niedrigster Preis geteilt durch Angebotspreis und 50 Qualitaetspunkte. Fuer eine interne Simulation sind 800000 EUR mit 25 Qualitaetspunkten und unser Preis von 1000000 EUR mit 45 Punkten angesetzt. Unsere 45 Punkte sind nur eine noch zu belegende Selbsteinschaetzung. Lebenszykluskosten sind kein weiteres Kriterium. Erstelle eine Punktebruecke und einen Konzeptentwurf mit offenen Nachweisen; versprich keinen Zuschlag.",
+      "input_files": [],
+      "deliverables": ["punktebruecke.md", "konzeptentwurf.md"],
+      "criteria": [
+        {"id": "Q01", "text": "Berechnet im vorgegebenen Szenario 50 plus 25 gleich 75 und 40 plus 45 gleich 85 Punkte; kennzeichnet die Qualitaetsannahmen als Simulation und nicht als bekannte Fremdwertung.", "deliverables": ["punktebruecke.md"]},
+        {"id": "Q02", "text": "Ordnet jede beanspruchte Qualitaetsstufe einem veroeffentlichten Kriterium und einem erforderlichen Angebotsbeleg zu; erfindet weder Unterkriterien noch einen Lebenszykluskostenbonus oder vorhandene Referenzen.", "deliverables": ["punktebruecke.md", "konzeptentwurf.md"]},
+        {"id": "Q03", "text": "Liefert einen nutzbaren vorlaeufigen Konzepttext und interne Beleganforderungen; zeigt die Empfindlichkeit gegen geringere eigene Qualitaetspunkte, statt den simulierten Vorsprung als garantierten Zuschlag darzustellen.", "deliverables": ["konzeptentwurf.md", "punktebruecke.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "freeze-und-quittung-ohne-originaldateien",
+      "target_skill": "angebot-in-vorgegebenem-format-erstellen",
+      "request": "Kuenstliche Testeingabe: Das Portal verlangt ein unveraendert strukturiertes XLSX-Preisblatt, ein unterschriebenes PDF und eine native GAEB-Angebotsdatei. Unser uebermittelter Inventartext nennt Preisblatt v3, Konzept als veraenderlichen Cloud-Link und GAEB v2. Die vorliegende textliche Quittung nennt nur Preisblatt v2 und ein PDF; Serverzeit und Hashes fehlen. Binaerdateien und Portalzugriff stehen nicht zur Verfuegung. Die Abgabefrist ist heute 14 Uhr, aktuelle Serverzeit unbekannt. Erstelle ein Freeze-Manifest und eine interne Freigabenotiz mit konkreten Nachforderungen. Lade nichts hoch.",
+      "input_files": [],
+      "deliverables": ["freeze-manifest.csv", "freigabenotiz.md"],
+      "criteria": [
+        {"id": "F01", "text": "Manifest unterscheidet gefordertes Format, lokalen Inventarstand und quittierten Stand; weist Preisblatt v3 gegen v2, fehlenden GAEB-Empfang und den nicht eingefrorenen Konzeptlink als offene Punkte aus.", "deliverables": ["freeze-manifest.csv"]},
+        {"id": "F02", "text": "Erfindet keine Hashes, Signaturpruefung, nativen Dateien oder erfolgreiche Formatvalidierung; verlangt Originale und bewahrt als Pruefvorgabe Blattstruktur, Formeln, Positionen und Mengen.", "deliverables": ["freeze-manifest.csv", "freigabenotiz.md"]},
+        {"id": "F03", "text": "Verweigert eine vorbehaltlose Abgabefreigabe, benennt den sofortigen Serverzeit-/Quittungsabgleich und verantwortliche Pruefschritte. Behauptet weder Upload noch fristgerechten Eingang aus der unvollstaendigen Quittung.", "deliverables": ["freigabenotiz.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "preisaufklaerung-mit-offener-lohnbelegluecke",
+      "target_skill": "18-aufklaerung-niedriges-angebot-paragraf-60",
+      "request": "Kuenstliche Testeingabe: Die Vergabestelle verlangt nach Paragraf 60 VgV Erklaerung unseres unveraenderlichen Gesamtpreises von 720000 EUR netto. Unsere interne Kostenbruecke nennt Personal einschliesslich behaupteter Sozialabgaben 500000 EUR, Material 90000 EUR, Gemeinkosten 60000 EUR sowie Risiko und Gewinn 70000 EUR. Der Sozialabgabennachweis fehlt. Der Vertrieb nennt zusaetzlich 40000 EUR Einkaufsrabatt, hat aber weder Zusage noch nachvollziehbare Zuordnung zur bereits vorgelegten Materialposition. Erstelle einen vorlaeufigen Antwortentwurf und eine interne Beleglueckenliste. Keine tatsaechlichen Lohn- oder Lieferantenbelege sind beigefuegt.",
+      "input_files": [],
+      "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"],
+      "criteria": [
+        {"id": "P01", "text": "Fuehrt die vier Kostenbloecke rechnerisch auf 720000 EUR zurueck und behandelt den unbelegten Rabatt nicht als zusaetzlich nachgewiesene Ersparnis oder neuen Angebotspreis.", "deliverables": ["preisantwort-entwurf.md"]},
+        {"id": "P02", "text": "Fordert gezielt Sozialabgaben- und Rabattbelege mit Zuordnung zur Kalkulation an; kennzeichnet die Erklaerung als vorlaeufig und bestaetigt weder Rechtskonformitaet noch Auskoemmlichkeit ohne Nachweise.", "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"]},
+        {"id": "P03", "text": "Trennt interne Unsicherheiten und vertrauliche Kalkulationsanlagen vom Empfaengertext; unterscheidet unzureichende Aufklaerung von nachgewiesener Missachtung gesetzlicher Pflichten, ohne Ausschluss oder Versand als erfolgt zu behaupten.", "deliverables": ["preisantwort-entwurf.md", "belegluecken.md"]}
+      ],
+      "runtime_status": "not_run"
+    }
+  ]
+}

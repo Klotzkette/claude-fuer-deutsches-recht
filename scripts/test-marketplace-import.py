@@ -86,6 +86,34 @@ class CodexManifestAbgleich(unittest.TestCase):
                 self.assertEqual(result.returncode, 1)
                 self.assertIn('.codex-plugin/plugin.json:', result.stderr)
 
+    def test_komponentenversion_braucht_exakten_pin_und_identische_manifeste(self):
+        version = '1.2.7'
+        marketplace_path = self.root / '.claude-plugin/marketplace.json'
+        marketplace = json.loads(marketplace_path.read_text())
+        marketplace['plugins'][0]['version'] = version
+        self.schreiben(marketplace_path, json.dumps(marketplace))
+        manifest = json.loads(self.claude.read_text())
+        manifest['version'] = version
+        self.schreiben(self.claude, json.dumps(manifest))
+        self.schreiben(self.codex, json.dumps({'name': SLUG, 'version': version}))
+        readme = self.plugin / 'README.md'
+        self.schreiben(readme, readme.read_text().replace(VERSION, version))
+        config = self.root / 'scripts/scoped-release-assets.json'
+        for assets, expected in [
+            ({}, 1),
+            ({SLUG + '.zip': 'paket-v1.2.6'}, 1),
+            ({'anderes-plugin.zip': 'paket-v1.2.7'}, 1),
+            ({SLUG + '.zip': 'paket-v1.2.7'}, 0),
+        ]:
+            with self.subTest(assets=assets):
+                self.schreiben(config, json.dumps({'schema_version': 1, 'assets': assets}))
+                result = self.pruefen()
+                self.assertEqual(result.returncode, expected, result.stdout + result.stderr)
+        self.schreiben(self.codex, json.dumps({'name': SLUG, 'version': VERSION}))
+        result = self.pruefen()
+        self.assertEqual(result.returncode, 1)
+        self.assertIn('.codex-plugin/plugin.json: Version', result.stderr)
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)

@@ -147,6 +147,26 @@ class RepositoryRoutingTests(unittest.TestCase):
 
 
 class RoutingTests(Fixture):
+    def test_component_version_requires_its_own_exact_asset_pin(self):
+        plugin = {"name": "fixture-plugin", "version": VERSION}
+        R.validate_plugin_version(plugin, VERSION, root=self.root)
+        plugin["version"] = "777.2.9"
+        config = self.root / "scripts/scoped-release-assets.json"
+        config.parent.mkdir(parents=True, exist_ok=True)
+        for assets, valid in (
+            ({}, False),
+            ({"other.zip": "component-v777.2.9"}, False),
+            ({"fixture-plugin.zip": "component-v777.2.8"}, False),
+            ({"fixture-plugin.zip": "component-v777.2.9"}, True),
+        ):
+            config.write_text(json.dumps({"schema_version": 1, "assets": assets}))
+            with self.subTest(assets=assets):
+                if valid:
+                    R.validate_plugin_version(plugin, VERSION, root=self.root)
+                else:
+                    with self.assertRaises(ValueError):
+                        R.validate_plugin_version(plugin, VERSION, root=self.root)
+
     def setUp(self):
         super().setUp()
         # Die Generatoren importieren eigene Aliase; die echten Helfer lesen die Fixture.

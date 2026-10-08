@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContractNotice xmlns="urn:example:eforms:vergaberecht-werkstatt">
+  <ProcedureIdentifier>VS-2026-RE-014</ProcedureIdentifier>
+  <Buyer>Stadt Musterstadt - Zentrale Vergabestelle</Buyer>
+  <Title>Unterhalts- und Glasreinigung Grundschulen</Title>
+  <ProcedureType>open</ProcedureType>
+  <CPV>90919300-5</CPV>
+  <EstimatedValue currency="EUR">2700000</EstimatedValue>
+  <TenderDeadline>2026-07-29T12:00:00+02:00</TenderDeadline>
+  <AwardCriteria>
+    <Criterion name="Preis" weight="70" />
+    <Criterion name="Personalkonzept und Vertretung" weight="15" />
+    <Criterion name="Qualitätssicherung" weight="10" />
+    <Criterion name="Nachhaltigkeit" weight="5" />
+  </AwardCriteria>
+</ContractNotice>

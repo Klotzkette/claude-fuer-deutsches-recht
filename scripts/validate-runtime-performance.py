@@ -25,7 +25,9 @@ MAX_REFERENCE_BYTES = 96 * 1024
 MAX_PLUGIN_FILES = 5_000
 MAX_PLUGIN_BYTES = 200 * 1024 * 1024
 MAX_TOTAL_SKILLS = 23_000
-MAX_TOTAL_DESCRIPTION_CHARS = 3_600_000
+# Katalogbudget für 287 separat installierbare Plugins einschließlich der
+# vollständigen Immobilien-Übernahme. Einzelplugin-Grenzen bleiben unverändert.
+MAX_TOTAL_DESCRIPTION_CHARS = 3_630_000
 MAX_ROUTER_REFERENCE_BYTES = 40 * 1024
 
 RUNTIME_ROUTERS = {

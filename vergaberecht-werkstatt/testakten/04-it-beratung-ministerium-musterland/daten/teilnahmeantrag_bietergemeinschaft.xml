@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Application xmlns="urn:example:eforms:vergaberecht-werkstatt" procedure="MID-STRAT-2026-07">
+  <CandidateGroup leader="Beratung Mustertal GmbH">
+    <Member role="Federführung">Beratung Mustertal GmbH</Member>
+    <Member role="Incident Response">Beratung Norddeutschland GmbH</Member>
+  </CandidateGroup>
+  <Declarations>
+    <Declaration legalBasis="§§ 123 und 124 GWB" status="submitted" />
+    <Declaration legalBasis="§ 47 VgV" status="not-used" note="Bietergemeinschaft statt Eignungsleihe" />
+  </Declarations>
+  <References count="5" />
+</Application>

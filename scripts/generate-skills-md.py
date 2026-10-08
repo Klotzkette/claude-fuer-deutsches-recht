@@ -364,7 +364,8 @@ def main() -> int:
     # 2) Detailseiten pro Plugin
     SKILLS_INDEX_DIR.mkdir(exist_ok=True)
     # Alte Detailseiten loeschen, falls Plugins entfernt wurden
-    current_names = {name for name, _ in plugins} | {"README"}
+    # Die veröffentlichte Weiterleitungsseite hält alte Direktlinks funktionsfähig.
+    current_names = {name for name, _ in plugins} | {"README", "si-native-kanzlei"}
     for old in SKILLS_INDEX_DIR.glob("*.md"):
         if old.stem not in current_names:
             old.unlink()

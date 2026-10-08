@@ -1,0 +1,8 @@
+Station,Datum,Akteur,Status,Nächster Schritt
+Ausschluss CyberShield,14.04.2026,Vergabestelle,erfolgt,Rügefrist überwachen
+Rüge CyberShield,17.04.2026,Bieter,eingereicht,Nichtabhilfe prüfen
+Nichtabhilfe,22.04.2026,Vergabestelle,versandt,15-Tage-Frist startet
+Nachprüfungsantrag,24.04.2026,CyberShield,VK anhängig,Akteneinsicht und Stellungnahme
+VK-Termin,04.06.2026,Vergabekammer,terminiert,Vergleichsoption vorbereiten
+VK-Beschluss,18.06.2026,Vergabekammer,erlassen,OLG-Frist prüfen
+Sofortige Beschwerde,30.06.2026,CyberShield,Entwurf,Beschwerdebegründung finalisieren

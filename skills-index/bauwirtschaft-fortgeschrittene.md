@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`bauwirtschaft-fortgeschrittene-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/bauwirtschaft-fortgeschrittene-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`bauwirtschaft-fortgeschrittene-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=bauwirtschaft-rundum/bauwirtschaft-fortgeschrittene/bauwirtschaft-fortgeschrittene-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [bauwirtschaft-fortgeschrittene.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.1/bauwirtschaft-fortgeschrittene.zip) |
+| **Plugin (installierbar)** | ZIP | [bauwirtschaft-fortgeschrittene.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/bauwirtschaft-rundum-v445.33.3/bauwirtschaft-fortgeschrittene.zip) |
 
 ## So benutzt man einen Skill
 

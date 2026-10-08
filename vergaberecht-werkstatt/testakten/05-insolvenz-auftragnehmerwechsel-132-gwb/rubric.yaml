@@ -1,0 +1,65 @@
+name: "Insolvenzbedingter Auftragnehmerwechsel"
+plugin: "rollenverbund"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/05-insolvenz-auftragnehmerwechsel-132-gwb_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens acht fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 8
+  - id: r04-gesetzesanker
+    check_type: regex_match
+    description: "Prüfvermerk nennt Paragraf 132 Absatz 2 Satz 1 Nummer 4 Buchstabe b GWB"
+    path: "02_vergabestelle_pruefvermerk_132_gwb.md"
+    pattern: '§\s*132\s+Abs\.\s*2[\s\S]{0,120}(Nr\.|Nummer)\s*4[\s\S]{0,80}(b|Buchstabe b)'
+  - id: r05-eignungsrecheck
+    check_type: regex_match
+    description: "Eignung des Rechtsnachfolgers wird erneut geprüft"
+    path: "03_erwerber_fortfuehrungsantrag.md"
+    pattern: "Eignung|Eignungsanforder"
+  - id: r06-konkurrentenangriff
+    check_type: regex_match
+    description: "Konkurrentenrüge verlangt eine konkrete Abhilfe"
+    path: "04_konkurrentenruege_dataportus.md"
+    pattern: "Abhilfe|Neuausschreibung|untersagen"
+  - id: r07-vk-antrag
+    check_type: regex_match
+    description: "Nachprüfungsantrag enthält ein Rechtsschutzziel"
+    path: "05_nachpruefungsantrag_vk_dataportus.md"
+    pattern: "beantragt|Antr[aä]ge"
+  - id: r08-varianten
+    check_type: regex_match
+    description: "Insolvenzplan, Asset Deal und Share Deal werden abgegrenzt"
+    path: "08_fallvarianten_insolvenzplan_assetdeal.md"
+    pattern: 'Insolvenzplan[\s\S]{0,1200}Asset[ -]Deal[\s\S]{0,1200}Share[ -]Deal'
+  - id: r09-closing
+    check_type: file_exists
+    description: "Closing-Nachweis zu Personal, Lizenzen und Betriebsmitteln ist vorhanden"
+    path: "15_closing_personal_lizenztransfer.md"
+  - id: r10-drittzustimmung
+    check_type: regex_match
+    description: "Erforderliche Lizenzzustimmung wird nicht durch eine Absichtserklärung ersetzt"
+    path: "15_closing_personal_lizenztransfer.md"
+    pattern: 'Zustimmung zu DB-Pro[\s\S]{0,180}nicht durch eine bloße Absichtserklärung ersetzt'
+  - id: r11-wirtschaftliche-eignung
+    check_type: regex_match
+    description: "Fehlender historischer Umsatz löst eine dokumentierte Gleichwertigkeitsprüfung aus"
+    path: "15_closing_personal_lizenztransfer.md"
+    pattern: 'gesonderte Gleichwertigkeitsprüfung der wirtschaftlichen Leistungsfähigkeit dokumentiert[\s\S]{0,260}keinen historischen Jahresumsatz[\s\S]{0,220}Liquiditätsplan[\s\S]{0,220}gemeinsam geprüft[\s\S]{0,160}weder gestrichen'
+  - id: r12-vertragsidentitaet
+    check_type: regex_match
+    description: "Leistung, Preis und Laufzeit bleiben beim Auftragnehmerwechsel unverändert"
+    path: "15_closing_personal_lizenztransfer.md"
+    pattern: 'Leistungsumfang[\s\S]{0,180}unverändert[\s\S]{0,180}Vergütung[\s\S]{0,180}unverändert[\s\S]{0,180}Laufzeit[\s\S]{0,180}unverändert'
+  - id: r13-fachreview
+    check_type: human_review
+    description: "Identität, Eignung und Vertragskontinuität manuell prüfen"
+    note: "Rechtsnachfolge, sonstige wesentliche Änderungen und insolvenzrechtliche Erwerbskette belegen."

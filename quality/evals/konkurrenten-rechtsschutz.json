@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "plugin": "konkurrenten-rechtsschutz",
+  "reviewed_on": "2026-10-08",
+  "review_method": "desk_review",
+  "runtime_status": "not_run",
+  "limits": "Individuelle redaktionelle und statische Ablaufpruefung, keine Client-, Modell-, Kammer- oder Mandantenlaeufe. Alle Fallangaben sind kuenstlich und in den Arbeitsauftraegen enthalten; keine importierte Musterloesung oder Rubrik als Eingabe. Keine globale Rechtspruefung.",
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Original-Mini und kanonischer Schnellstart setzen bei Angriffsziel, roter Frist, Beleg und eigener Zuschlagschance an. Der gesonderte Eilpfad und Herkunftszonen fuer Systembelege sind fuer Konkurrenten geeignet. Beibehalten im begrenzten Desk-Review; keine erprobte Fristsicherung oder erfolgreiche Rechtsbehelfseinlegung behauptet.",
+    "changes": [],
+    "sha256": "6d9df6a934855ccc13d0f3e11583e760686d10dd5ee43335f86db39d72f13335"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Original-Arbeitsprompt und kanonische Werkstatt trennen Zulassung, Angriffskern, Akteneinsicht, Beweiskette und Eilrechtsschutz. Die Fachskills begrenzen den Zuschlagsstopp auf den richtigen Verfahrensakt und unterscheiden Tatsachen, Indizien und Einsichtsluecken. Keine Textaenderung und kein Test einer realen Zustellung oder Kammerreaktion.",
+    "changes": [],
+    "sha256": "b5e5875c240c962cda5c06ace4e1d9ccd1b2eec18222bf6a4ad712bf02b69502"
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_change": "Beibehalten: aus einem Verdacht zuerst eine konkrete Angriffslinie mit eigener Betroffenheit, Belegstatus und bestimmter Abhilfe bilden. Drohender Zuschlag fuehrt unmittelbar zum Eilpfad, nicht erst zu einer umfassenden Wertungskritik. Akteneinsicht dient einem benannten Beweisziel und nicht unbegrenzter Konkurrenzrecherche.",
+    "norms": [
+      "Paragraf 169 Absaetze 1 bis 3 GWB: Unterrichtung durch die Vergabekammer, Gestattungsgegenwehr und sonstige vorlaeufige Massnahmen; amtlichen Normtext geprueft.",
+      "Paragraf 165 GWB: Akteneinsicht und Schutz entgegenstehender Interessen; amtlichen Normtext geprueft.",
+      "Paragrafen 134, 160, 172, 173 und 187 GWB sind gesonderte Fristen- und Regimepruefpunkte der Prompts; hier keine vollstaendige Uebergangs- oder Fristenpruefung."
+    ],
+    "remaining_limits": [
+      "Keine Client- oder Modelllaeufe; Zustellung, Zuschlagsverbot, Akteneinsicht und Antragserfolg wurden nicht praktisch erprobt.",
+      "Antea wurde anhand der amtlich veroeffentlichten Gerichtspressemitteilung verifiziert, nicht anhand eines vollstaendig geprueften Urteilstexts. Keine Randnummernbehauptung.",
+      "Keine Gesamtpruefung der zahlreichen Entscheidungen, Sonderregime oder Uebergangsregeln im importierten Rollenbestand.",
+      "Der Mini-Start nennt Rechtsweiche, die Orchestrator-Tabelle Beweis als viertes Feld. Beide Inhalte sind erforderlich; eine einheitliche wortgetreue Startmaske ist nicht nachgewiesen.",
+      "Ohne Originale, Zugangsbelege und verifizierte Verfahrensdaten bleiben Hashes, Fristbeginn und behauptete Manipulation offen. Ein Screenshot ersetzt keine gesicherte Systemhistorie."
+    ],
+    "files": [
+      "vergaberecht-werkstatt/unified-mini-prompts/konkurrenten-rechtsschutz.md",
+      "vergaberecht-werkstatt/vergaberecht-arbeitsprompt-konkurrenten.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-schnellstart.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/konkurrenten-rechtsschutz-werkstatt.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/konkurrenzrechtsschutz-orchestrator/SKILL.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/eilantrag-zuschlagssperre-169/SKILL.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/akteneinsicht-schwaerzung-belegmatrix/SKILL.md",
+      "vergaberecht-werkstatt/konkurrenten-rechtsschutz/skills/beweisstrategie-und-portalnachweise/SKILL.md"
+    ],
+    "decisions": [
+      {
+        "citation": "EuGH, Urteil vom 17.11.2022, C-54/21, Antea Polska; Gerichtspressemitteilung Nr. 186/22.",
+        "application": "Im Schwaerzungsfall wird die streiterhebliche Wertungsbegruendung gezielt verlangt, bei geschuetzten Einzelheiten mit nichtvertraulichem wesentlichem Inhalt als Alternative.",
+        "limit": "Die gelesene Gerichtspressemitteilung ist nicht bindend und keine Volltextpruefung. Kein Anspruch auf ungeschwaerzte Gesamtangebote und kein automatischer Erfolg des deutschen Nachpruefungsantrags daraus.",
+        "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/"
+      }
+    ]
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-08",
+    "method": "desk_review",
+    "opening_modes": [
+      "Ordner mit Informationsschreiben und Nichtabhilfe: frueheste belegbare Frist sowie Antragsbefugnis zuerst, dann staerkste Angriffslinie.",
+      "Drohender Zuschlag bei bestaetigtem Antragseingang: Unterrichtung des Auftraggebers durch die Kammer gesondert klaeren und einen konkreten Eilplan liefern.",
+      "Geschwaerzte Wertungsakte: benoetigte Passage, Beweisziel, Geheimhaltungsgrund und mildere Offenlegung in einer Matrix verknuepfen.",
+      "Widerspruechliche Portalversionen: Herkunft, Original, Transformation und Gegenhypothese sichern, bevor eine Manipulation behauptet wird."
+    ],
+    "continuation": "Ein neuer Kammernachweis aktualisiert den Sperrstatus, eine ungeschwaerzte Passage nur die zugehoerige Angriffslinie. Vorhandene Belegkennungen und Checkpoints bleiben bestehen; aus neuem Material folgt keine ungepruefte Wiederholung aller Vorwuerfe. Frist- und Zustellungsstatus werden nicht aus alten Annahmen fortgeschrieben.",
+    "enrichment": "Quellenzugang und Herkunftszone vor jeder inhaltlichen Verwertung pruefen. Fehlende Wertungsgruende werden als Einsichtsziel formuliert, unbefugte Fremdexporte nicht beschafft. Tragende Entscheidungen werden mit Status und Uebertragungsgrenze nachgeladen, nicht als blosse Fundstellenliste.",
+    "limits": "Nur redaktionell nachvollzogener Workflow. Keine elektronische Einreichung, Kontaktaufnahme, externe Beweissicherung oder laufende Fristueberwachung. Konkrete Rechtsbehelfe benoetigen menschliche Freigabe und verifizierte Zugangs- sowie Regimedaten."
+  },
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__169.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Paragraf 169 Absatz 1 knuepft an die Unterrichtung des Auftraggebers durch die Kammer an; blosse Ruege oder Antragseingang belegen diese nicht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gwb/__165.html",
+      "checked_on": "2026-10-08",
+      "supports": "Amtlichen Normtext gelesen: Akteneinsicht und Grenzen zum Schutz wichtiger Gruende, insbesondere Geheimschutz."
+    },
+    {
+      "url": "https://curia.europa.eu/jcms/jcms/p1_3865069/fr/",
+      "checked_on": "2026-10-08",
+      "supports": "Amtliche Gerichtspressemitteilung gelesen: Vertraulichkeit gegen Transparenz und wirksamen Rechtsschutz abwaegen. Reichweite auf diese Zusammenfassung begrenzt."
+    }
+  ],
+  "selection": {
+    "target_skill": "konkurrenzrechtsschutz-orchestrator",
+    "positive": [
+      "Wir sind unterlegener Bieter. Ordne Informationsschreiben, Nichtabhilfe und Portalbelege und sichere den naechsten Rechtsschutzschritt.",
+      "Die Wertungsgruende sind geschwaerzt und der Zuschlag steht bevor. Pruefe Beweisziel, Akteneinsicht und Eilweg zusammen."
+    ],
+    "negative": [
+      "Wir wollen vor der Angebotsfrist unser eigenes Preisblatt und Qualitaetskonzept abgabefaehig machen.",
+      "Wir handeln als Vergabestelle und brauchen eine neutrale Wertungsmatrix fuer die Bekanntmachung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "antragseingang-ist-keine-kammerunterrichtung",
+      "target_skill": "eilantrag-zuschlagssperre-169",
+      "request": "Kuenstliche Testeingabe: Wir vertreten den unterlegenen Bieter eines im September 2026 begonnenen VgV-Verfahrens. Ruege und Nichtabhilfe sind dokumentiert; die Zulassungspruefung des vorbereiteten Nachpruefungsantrags ist noch nicht abgeschlossen. Die Vergabestelle kuendigt nach ihrer Berechnung den Zuschlag morgen um 10 Uhr an. Heute um 09:10 Uhr bestaetigt die Vergabekammer nur den Eingang unseres Antrags. Es gibt keinen Nachweis ihrer Unterrichtung des Auftraggebers. Das Team meint, bereits die Ruege habe den Zuschlag gestoppt. Erstelle einen priorisierten Eilplan und einen nicht versandten Entwurf an die Kammer; unbekannte Zugangs- und Fristdaten bleiben offen.",
+      "input_files": [],
+      "deliverables": ["eilplan.md", "kammer-entwurf.md"],
+      "criteria": [
+        {"id": "E01", "text": "Unterscheidet Ruege, Antragseingang und Kammerunterrichtung nach Paragraf 169 Absatz 1; behauptet aus den ersten beiden keinen bereits nachgewiesenen Zuschlagsstopp. Sonstige Sperren werden separat geprueft.", "deliverables": ["eilplan.md", "kammer-entwurf.md"]},
+        {"id": "E02", "text": "Priorisiert sofortige Klaerung und Dokumentation der Unterrichtung sowie fehlende Zulassungs- und Stillhaltebelege; uebernimmt den angekuendigten Zuschlagszeitpunkt nicht als eigenstaendig validierte Fristberechnung.", "deliverables": ["eilplan.md"]},
+        {"id": "E03", "text": "Formuliert ein verwendbares, sachverhaltsgebundenes Eilersuchen ohne erfundene Zustellung. Verwechselt die Gegenwehr gegen eine Gestattung nach Absatz 2 nicht mit einem eigenen Gestattungsantrag des Konkurrenten und behauptet keinen Versand.", "deliverables": ["kammer-entwurf.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "akteneinsicht-mit-streitrelevantem-mindestinhalt",
+      "target_skill": "akteneinsicht-schwaerzung-belegmatrix",
+      "request": "Kuenstliche Testeingabe: Unser zulaessiges Angebot liegt vier Gesamtpunkte hinter dem Zuschlagskandidaten. Streitpunkt ist die Bewertung der Ausfallreserve. In der ueberlassenen Akte sind sowohl die bewertete Reserve als auch saemtliche Begruendungssaetze vollstaendig geschwaerzt. Nach dem Aktenverzeichnis enthalten dieselben Seiten daneben individuelle Gehaltsdaten und technische Sicherheitsdetails. Wir kennen keine Namen, Gehaelter oder technischen Einzelheiten. Erstelle einen gezielten Akteneinsichtsantrag und eine Belegmatrix fuer die moegliche Replik, statt das gesamte Konkurrenzangebot ungeschwaerzt zu verlangen.",
+      "input_files": [],
+      "deliverables": ["akteneinsicht-entwurf.md", "belegmatrix.md"],
+      "criteria": [
+        {"id": "A01", "text": "Bindet Einsicht an die Ausfallreserve, Bewertungsgruende und die moegliche Ueberwindung des Vier-Punkte-Abstands; erfindet keine unbekannte Punkteverteilung oder sichere eigene Zuschlagschance.", "deliverables": ["akteneinsicht-entwurf.md", "belegmatrix.md"]},
+        {"id": "A02", "text": "Trennt streiterhebliche Wertungsinformationen von individuellen Gehalts- und Sicherheitsdetails und bietet Teilschwaerzung oder eine aussagekraeftige nichtvertrauliche Zusammenfassung an.", "deliverables": ["akteneinsicht-entwurf.md"]},
+        {"id": "A03", "text": "Matrix ordnet jeder benoetigten Information Beweisziel, Geheimschutzgegenargument und bedingten Replikschritt zu. Antea wird als begrenzter Abwaegungsanker und nicht als automatischer Anspruch auf alle Originalangebote verwendet.", "deliverables": ["belegmatrix.md"]}
+      ],
+      "runtime_status": "not_run"
+    },
+    {
+      "id": "portalversionen-und-unbefugter-fremdexport",
+      "target_skill": "beweisstrategie-und-portalnachweise",
+      "request": "Kuenstliche Testeingabe: Unser Team berichtet von einer lokal gespeicherten Unterlagenfassung A und einer derzeit im Portal sichtbaren Fassung B mit anderer Leistungsmenge. Vorhanden ist nur ein textlich beschriebenes Bildschirmfoto mit lokaler Uhrzeit; Originaldateien, Serverprotokoll und Aenderungsmitteilung fehlen. Ein unbekannter Absender bietet einen nicht autorisierten Export aus dem System des Konkurrenten an. Wir vermuten eine nachtraegliche Manipulation. Erstelle ein Beweissicherungsmanifest und einen vorsichtigen Entwurf zur Klaerung der Versionsabweichung. Es gibt keinen Systemzugriff und keine Einwilligung zum Fremdexport.",
+      "input_files": [],
+      "deliverables": ["beweissicherungsmanifest.md", "klaerungsentwurf.md"],
+      "criteria": [
+        {"id": "B01", "text": "Unterscheidet eigenen Bestand, oeffentlich zugaengliche Portalquelle und unbefugten Fremdexport. Verlangt keinen Zugriff auf das fremde System und stuetzt den Angriff nicht auf das angebotene Material.", "deliverables": ["beweissicherungsmanifest.md"]},
+        {"id": "B02", "text": "Manifest kennzeichnet fehlende Originale, Hashes, Serverzeiten und Transformationen; plant getrennte Original-/Arbeitskopien und Gegenhypothesen wie zulaessige Berichtigung oder veralteter lokaler Stand.", "deliverables": ["beweissicherungsmanifest.md"]},
+        {"id": "B03", "text": "Der Entwurf benennt Versionsabweichung und benoetigte Aenderungsnachweise ohne eine bewiesene Manipulation, vollzogene Sicherung oder erfundene Frist zu behaupten; ein naechster befugter Beschaffungsschritt ist konkret.", "deliverables": ["klaerungsentwurf.md"]}
+      ],
+      "runtime_status": "not_run"
+    }
+  ]
+}

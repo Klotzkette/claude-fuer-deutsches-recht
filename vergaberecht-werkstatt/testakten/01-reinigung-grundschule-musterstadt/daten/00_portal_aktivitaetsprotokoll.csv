@@ -1,0 +1,19 @@
+Zeitstempel,System,Nutzer,Vorgang,Dokument,Status,SHA256,Bemerkung
+2026-06-04 09:17:00,Vergabeplattform,extern.upload,Unterlagenpaket geöffnet,01_bedarfsvermerk_markterkundung.docx,nachbearbeitet,417ffc798d61d5cc,Bedarfsvermerk Unterhalts- und Glasreinigung Grundschulen
+2026-06-05 09:19:00,Fristenkalender,extern.upload,Uploadpaket erneut validiert,01_bedarfsvermerk_markterkundung.docx,OK,ae25725f4bd4b972,Bedarfsvermerk Unterhalts- und Glasreinigung Grundschulen
+2026-06-06 09:30:00,DMS,fachamt,Dokument in DMS abgelegt,02_auftragswert_schaetzung.docx,OK,653c69ec362c522f,Auftragswertschätzung und Schwellenwertprüfung
+2026-06-07 09:31:00,Vergabeplattform,zv.postfach,Bieterkommunikation exportiert,02_auftragswert_schaetzung.docx,nachbearbeitet,a7e70e73f7222ab9,Auftragswertschätzung und Schwellenwertprüfung
+2026-06-18 09:50:00,E-Mail-Gateway,s.mueller,Frist in Kalender übertragen,03_bekanntmachung_eforms_auszug.docx,OK,156a350a01d4ad40,eForms-Auszug Auftragsbekanntmachung Reinigungsschulen
+2026-06-18 10:11:00,AVA/ERP,s.mueller,Metadaten auf Plattform geprüft,04_leistungsbeschreibung_lv.docx,OK,2086206121fc07aa,Leistungsbeschreibung Unterhalts- und Glasreinigung
+2026-06-19 09:46:00,DMS,fachamt,Aktenvermerk finalisiert,03_bekanntmachung_eforms_auszug.docx,OK,6fce9065418b4bd6,eForms-Auszug Auftragsbekanntmachung Reinigungsschulen
+2026-06-19 10:04:00,E-Mail-Gateway,fachamt,Hashwert für Anlage notiert,04_leistungsbeschreibung_lv.docx,OK,359f538d5785259b,Leistungsbeschreibung Unterhalts- und Glasreinigung
+2026-06-25 10:24:00,Fristenkalender,jurist.vergaberecht,Uploadpaket erneut validiert,05_bieterfrage_ruege_antwort.eml,OK,63390ab09c633671,Bieterfrage zu Referenzen und Tariftreue
+2026-08-12 10:38:00,Vergabeplattform,fachamt,Bieterkommunikation exportiert,06_wertungsmatrix_vergabevermerk.docx,nachbearbeitet,41fcbeb604536b08,Wertungsmatrix und Zuschlagsvorschlag Reinigungsschulen
+2026-08-13 10:55:00,DMS,extern.upload,Aktenvermerk finalisiert,07_informationsschreiben_134_gwb.eml,OK,c70584bcbd835e96,Information über die beabsichtigte Zuschlagserteilung
+2026-08-17 11:15:00,E-Mail-Gateway,s.mueller,Hashwert für Anlage notiert,08_ruege_wertungsdokumentation.eml,OK,bba5500c3dbac547,Rüge der StadtGlanz Service GmbH
+2026-08-20 11:33:00,AVA/ERP,fachamt,PDF-Vorschau erzeugt,09_nichtabhilfe_wertungsruege.docx,OK,a5bd7fea022d419d,Entscheidung über die Rüge vom 17.08.2026
+2026-08-21 11:45:00,Fristenkalender,extern.upload,Freigabe durch Vier-Augen-Prüfung erfasst,10_nachpruefungsantrag_wertung.docx,OK,bbcbaff379f32c9d,Nachprüfungsantrag
+2026-08-21 12:10:00,Vergabeplattform,zv.postfach,Unterlagenpaket geöffnet,11_verfuegung_vk_aktenvorlage.docx,nachbearbeitet,7eb7460dcf4f429b,Verfahrensleitende Verfügung
+2026-08-25 12:59:00,AVA/ERP,s.mueller,Metadaten auf Plattform geprüft,14_objektbegehung_personalbedarfsrechnung.docx,OK,86c2ae2bd6e39d5e,Objektaufnahme und Plausibilisierung der Reinigungsstunden
+2026-08-28 12:24:00,DMS,s.mueller,Dokument in DMS abgelegt,12_stellungnahme_vergabestelle_vk.docx,OK,36d5b41d04445ca8,Stellungnahme der Stadt Musterstadt
+2026-09-15 12:40:00,E-Mail-Gateway,fachamt,Frist in Kalender übertragen,13_beschluss_vk_neuwertung.docx,OK,710ddf7a7a4f95d6,Beschluss zur Wertung der Reinigungskonzepte

@@ -1,0 +1,13 @@
+.DS_Store
+*.skill
+/protokolle/
+protokolle/
+/outputs/
+outputs/
+/.claude/
+__pycache__/
+*.pyc
+/dist/
+.venv/
+
+testakten/**/*.zip

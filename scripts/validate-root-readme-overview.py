@@ -57,13 +57,19 @@ def count_values(marketplace: dict) -> dict[str, int | str]:
             if child.is_dir() and child.name not in SKIP_TESTAKTEN
         ]
 
+    separate = REPO / "vergaberecht-werkstatt/testakten"
+    separate_testakten = [
+        child for child in separate.iterdir()
+        if child.is_dir() and child.name not in SKIP_TESTAKTEN
+    ] if separate.is_dir() else []
+
     return {
         "plugins": len(plugins),
         "skills": len(skill_files),
         "werkstatt": werkstatt,
         "schnellstart": schnellstart,
         "central_testakten": len(central_testakten),
-        "testakten": len(central_testakten) + len(pluginlocal_testakten),
+        "testakten": len(central_testakten) + len(pluginlocal_testakten) + len(separate_testakten),
         "version": f"v{marketplace['version']}",
     }
 

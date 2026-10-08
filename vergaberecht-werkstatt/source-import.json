@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "component": "vergaberecht-werkstatt",
+  "release": "vergaberecht-werkstatt-v445.33.1",
+  "imported_on": "2026-10-08",
+  "source_repository": "Klotzkette/vergaberecht-werkstatt",
+  "source_commit": "b0bd885bb25dcf50a238c29be6ae43794ddc6e91",
+  "source_version": "2.19.0",
+  "license": "Apache-2.0 OR MIT",
+  "publication": "Separate working-tree copy authorized by the repository owner; no source Git history or credentials included.",
+  "plugins": ["bieter-unternehmen", "konkurrenten-rechtsschutz", "vergabestelle-behoerden"],
+  "cases": [
+    "01-reinigung-grundschule-musterstadt",
+    "02-laptopbeschaffung-landesamt-musterland",
+    "03-bauleistung-stadthalle-musterstadt",
+    "04-it-beratung-ministerium-musterland",
+    "05-insolvenz-auftragnehmerwechsel-132-gwb",
+    "06-konkurrentenrechtsschutz-rechenzentrum-musterkreis",
+    "it-sig-2-vergabe-landeshauptstadt-schwerin-nachpruefung"
+  ],
+  "renamed_skill": {
+    "from": "vergaberechtliche-pruefung-anwaltlich-megaprompt",
+    "to": "vergaberechtliche-pruefung-anwaltlich",
+    "reason": "The skill is an independent legal workflow, not an installed standalone prompt."
+  }
+}

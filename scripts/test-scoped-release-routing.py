@@ -30,5 +30,16 @@ class ScopedRouting(unittest.TestCase):
         self.pins.unlink()
         self.assertIn('/latest/download/',R.plugin_asset_url('new-plugin',root=self.root))
         self.assertIn('/download/akten-v777.1.0/',R.case_asset_url('case-one',root=self.root,config=self.config))
+    def test_component_version_requires_exact_pin(self):
+        entry = {'name': 'new-plugin', 'version': '777.1.0'}
+        self.assertIsNone(R.validate_plugin_version(entry, '777.0.0', root=self.root))
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version({**entry, 'version': '777.1.1'}, '777.0.0', root=self.root)
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version({**entry, 'name': 'other-plugin'}, '777.0.0', root=self.root)
+    def test_global_version_and_invalid_version(self):
+        self.assertIsNone(R.validate_plugin_version({'name': 'old-plugin', 'version': '777.1.0'}, '777.1.0', root=self.root))
+        with self.assertRaises(ValueError):
+            R.validate_plugin_version({'name': 'old-plugin', 'version': '777.1'}, '777.1.0', root=self.root)
 
 if __name__=='__main__':unittest.main()

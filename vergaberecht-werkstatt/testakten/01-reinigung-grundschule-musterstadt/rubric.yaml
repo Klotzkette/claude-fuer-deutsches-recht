@@ -1,0 +1,75 @@
+name: "Reinigungsdienstleistung Grundschule Musterstadt"
+plugin: "vergabestelle-behoerden"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/01-reinigung-grundschule-musterstadt_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens sechs fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 6
+  - id: r04-einzel-pdfs
+    check_type: file_count
+    description: "Mindestens sechs Einzel-PDFs vorhanden"
+    glob: "einzel-pdf/*.pdf"
+    min: 6
+  - id: r05-auftragswert
+    check_type: text_contains
+    description: "Optionen fließen in die Auftragswertschätzung ein"
+    path: "02_auftragswert_schaetzung.md"
+    contains: "Option"
+  - id: r06-qualitaetswertung
+    check_type: regex_match
+    description: "Qualität wird neben dem Preis gewertet"
+    path: "06_wertungsmatrix_vergabevermerk.md"
+    pattern: "Qualit[aä]t"
+  - id: r07-bieterkommunikation
+    check_type: text_contains
+    description: "Bieterfrage und Antwort sind als Vorgang dokumentiert"
+    path: "05_bieterfrage_ruege_antwort.md"
+    contains: "Bieter"
+  - id: r08-verfahrensakte
+    check_type: regex_match
+    description: "Vergabevermerk enthält einen Normenanker"
+    path: "06_wertungsmatrix_vergabevermerk.md"
+    pattern: '§\s*[0-9]+'
+  - id: r09-preisformel
+    check_type: text_contains
+    description: "Preiswertung dokumentiert eine reproduzierbare Formel"
+    path: "06_wertungsmatrix_vergabevermerk.md"
+    contains: "Preisformel: niedrigster Angebotspreis geteilt durch den jeweiligen Angebotspreis"
+  - id: r10-preispunkte
+    check_type: text_contains
+    description: "Das nicht billigste Angebot erhält nicht die volle Preis-Punktzahl"
+    path: "06_wertungsmatrix_vergabevermerk.md"
+    contains: "2.612.000 EUR | 68.20"
+  - id: r11-objektbegehung
+    check_type: file_exists
+    description: "Objektbegehung und Personalbedarfsrechnung sind als Beweisstück vorhanden"
+    path: "14_objektbegehung_personalbedarfsrechnung.md"
+  - id: r12-formelfehler
+    check_type: regex_match
+    description: "Formelfehler und seine vergaberechtliche Auswirkung werden getrennt bewertet"
+    path: "14_objektbegehung_personalbedarfsrechnung.md"
+    pattern: 'Zelle F38[\s\S]{0,220}470 Stunden[\s\S]{0,260}Schwellenwert'
+  - id: r13-zielwert
+    check_type: regex_match
+    description: "Zielwert und verbindliche Zusage werden bei der Neuwertung unterschieden"
+    path: "14_objektbegehung_personalbedarfsrechnung.md"
+    pattern: 'nicht verbindlichen Zwei-Stunden-Zielwert[\s\S]{0,120}garantierte Höchstfrist[\s\S]{0,320}Neuwertung zu bereinigen'
+  - id: r14-springer
+    check_type: regex_match
+    description: "Nicht veröffentlichte Mindestzahl von Springerkräften wird aus der Wertung entfernt"
+    path: "14_objektbegehung_personalbedarfsrechnung.md"
+    pattern: 'fünften Springers abgewertet,[\s\S]{0,180}weder Leistungsbeschreibung noch Bewertungsleitfaden eine Mindestzahl nennen[\s\S]{0,120}Neuwertung zu bereinigen'
+  - id: r15-fachreview
+    check_type: human_review
+    description: "Leistungsbeschreibung und Wertungslogik auf Widersprüche prüfen"
+    note: "Mengen, Reinigungsfrequenzen, Preisformel und Qualitätsleitfaden manuell gegeneinander lesen."

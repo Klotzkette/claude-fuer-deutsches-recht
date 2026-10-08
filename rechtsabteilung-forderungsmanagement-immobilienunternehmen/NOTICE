@@ -1,0 +1,18 @@
+Klotzkette German Legal Skills
+Copyright 2026 Klotzkette
+
+Dieses Produkt enthält Software, die bei Klotzkette entwickelt wurde.
+
+Inspiriert von und adaptiert nach Anthropics "claude-for-legal"
+(https://github.com/anthropics/claude-for-legal), ursprünglich
+veröffentlicht unter der MIT License, Copyright Anthropic.
+
+Diese Adaption ist auf das deutsche Recht und die deutsche
+Kanzleipraxis zugeschnitten und wird doppellizenziert unter
+
+  Apache License, Version 2.0     (siehe LICENSE-APACHE)
+                ODER
+  MIT License                     (siehe LICENSE-MIT)
+
+nach Wahl der Nutzerin / des Nutzers, veröffentlicht unter dem
+SPDX-Bezeichner `Apache-2.0 OR MIT`.

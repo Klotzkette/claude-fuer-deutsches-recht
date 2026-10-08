@@ -1,0 +1,109 @@
+name: Vergaberecht-Werkstatt prüfen und veröffentlichen
+
+on:
+  pull_request:
+    paths:
+      - 'vergaberecht-werkstatt/**'
+      - 'scripts/*vergaberecht-import*'
+      - 'scripts/package-vergaberecht-werkstatt.py'
+      - '.github/workflows/vergaberecht-werkstatt.yml'
+  push:
+    tags: ['vergaberecht-werkstatt-v*']
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Vorhandener Komponententag auf main'
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vergaberecht-${{ github.event.inputs.tag || github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  packages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.inputs.tag || github.ref }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Abhängigkeiten
+        run: python -m pip install -r vergaberecht-werkstatt/requirements-dev.txt
+      - name: Marketplace und Struktur
+        run: |
+          python scripts/test-marketplace-import.py
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python scripts/validate-yaml-frontmatter.py
+          python scripts/test-vergaberecht-import.py
+      - name: Fachpakete und Regressionen
+        working-directory: vergaberecht-werkstatt
+        run: |
+          node scripts/validate-plugin-structure.mjs
+          python scripts/validate-yaml-frontmatter.py
+          python scripts/validate-skill-discovery.py
+          python scripts/sync-references.py --check
+          python scripts/validate-rechtsstand-2026.py
+          python scripts/validate-system-integration.py
+          python scripts/validate-doc-links.py
+          python scripts/validate-navigation.py
+          python scripts/run-smoke-tests.py --quick
+      - name: Release-Pakete bauen
+        run: python scripts/package-vergaberecht-werkstatt.py "$RUNNER_TEMP/vergaberecht-release"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vergaberecht-werkstatt
+          path: ${{ runner.temp }}/vergaberecht-release/*
+          if-no-files-found: error
+
+  publish:
+    needs: packages
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    env:
+      TAG: ${{ github.event.inputs.tag || github.ref_name }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: ${{ github.event.inputs.tag || github.ref }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: vergaberecht-werkstatt
+          path: ${{ runner.temp }}/vergaberecht-release
+      - name: Tag und main-Zugehörigkeit prüfen
+        run: |
+          EXPECTED=$(python -c "import json; print(json.load(open('vergaberecht-werkstatt/source-import.json'))['release'])")
+          test "$TAG" = "$EXPECTED"
+          git fetch origin main --tags
+          test "$(git rev-parse HEAD)" = "$(git rev-parse "$TAG^{commit}")"
+          git merge-base --is-ancestor HEAD origin/main
+      - name: Vollständiges Komponentenrelease veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo 'Release existiert bereits; keine veröffentlichten Dateien überschreiben.'
+            exit 1
+          fi
+          gh release create "$TAG" --verify-tag --draft --latest=false \
+            --title "Vergaberecht-Werkstatt ${TAG#vergaberecht-werkstatt-}" \
+            --notes-file docs/releases/vergaberecht-werkstatt-v445.33.1.md
+          gh release upload "$TAG" "$RUNNER_TEMP"/vergaberecht-release/*
+          EXPECTED=$(find "$RUNNER_TEMP/vergaberecht-release" -maxdepth 1 -type f | wc -l)
+          ACTUAL=$(gh release view "$TAG" --json assets --jq '.assets | length')
+          test "$EXPECTED" -eq "$ACTUAL"
+          gh release edit "$TAG" --draft=false --latest=false

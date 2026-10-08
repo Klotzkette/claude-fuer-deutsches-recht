@@ -488,6 +488,16 @@
       }
     },
     {
+      "name": "bieter-unternehmen",
+      "source": "./vergaberecht-werkstatt/bieter-unternehmen",
+      "description": "Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "buerokratieversteher-entbuerokratisierer",
       "source": "./buerokratieversteher-entbuerokratisierer",
       "description": "Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-, Familien- oder Kommunalverfahren verstehen und vorsichtig bearbeiten wollen.",
@@ -1608,6 +1618,16 @@
       }
     },
     {
+      "name": "konkurrenten-rechtsschutz",
+      "source": "./vergaberecht-werkstatt/konkurrenten-rechtsschutz",
+      "description": "Konkurrenten legen Unterlagen, Informationsschreiben oder Portalbelege ab und starten ohne Skillwahl. Das Plugin sichert Rüge- und Zuschlagsfristen, Angriff, Beweiskette, Akteneinsicht, VK, OLG und Kosten.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "krankenhaus-it-ki",
       "source": "./krankenhaus-it-ki",
       "description": "Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte.",
@@ -2008,6 +2028,68 @@
       }
     },
     {
+      "name": "rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "source": "./rechtsabteilung-forderungsmanagement-immobilienunternehmen",
+      "description": "Rechtsabteilung Forderungsmanagement Immobilienunternehmen: 50 Arbeitswege für Mietkonto, Kündigung, Mieterhöhung, Klage, Verteidigung, Kosten und Vollstreckung. Ordnerstart für Fachangestellte mit Quellen-, Rollen- und Freigabeprüfung.",
+      "version": "445.33.1",
+      "category": "german-law",
+      "tags": [
+        "forderungsmanagement",
+        "immobilien",
+        "mietrueckstand",
+        "raeumungsklage",
+        "mieterhoehung",
+        "renofa",
+        "rechtsfachwirt",
+        "sap-intake",
+        "aktenintake",
+        "dokumentenmix",
+        "zahlungsklage",
+        "klageerwiderung",
+        "replik",
+        "fristenkontrolle",
+        "beweisplan",
+        "datenschutz",
+        "kostenfestsetzung",
+        "vollstreckung",
+        "betriebskosten",
+        "hausverwaltung",
+        "vermieter",
+        "mietspiegel",
+        "berlin",
+        "sap-akte",
+        "konzernrechtsabteilung",
+        "docuweb",
+        "datev",
+        "dms",
+        "xml",
+        "mcp",
+        "schnittstellen",
+        "skill-routing",
+        "startlogik",
+        "skill-auswahlmatrix",
+        "negativtrigger",
+        "akten-router",
+        "kaltstart",
+        "delta-fortschreibung",
+        "aenderungskarte",
+        "freigabekarte",
+        "vier-augen-prinzip",
+        "gerichtspaket",
+        "bea",
+        "ebo",
+        "sofortkarte",
+        "fristenscan",
+        "ervv",
+        "smoke-tests",
+        "usability",
+        "workflow-menue",
+        "bgb-558",
+        "bgb-543",
+        "bgb-569"
+      ]
+    },
+    {
       "name": "rechtsberatungsstelle",
       "source": "./rechtsberatungsstelle",
       "description": "Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.",
@@ -2246,6 +2328,32 @@
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"
       }
+    },
+    {
+      "name": "schriftsatzwerkstatt-bea",
+      "source": "./schriftsatzwerkstatt-bea",
+      "description": "Technische Versandwerkstatt der Immobilien-Rechtsabteilung: neun Schritte vom fachlich fertigen Ordner zu Einzel-PDFs, Anlagenfolge, Signaturentscheidung und geprüftem Übergabepaket. Keine Inhaltsprüfung und kein eigener Versand.",
+      "version": "445.33.1",
+      "category": "productivity",
+      "tags": [
+        "bea",
+        "ervv",
+        "ervb",
+        "schriftsatz",
+        "dokumentenproduktion",
+        "pdf",
+        "anlagen",
+        "anlagenstempel",
+        "dateinamen",
+        "ocr",
+        "qualitaetskontrolle",
+        "signatur",
+        "versandpaket",
+        "eingangsbestaetigung",
+        "renofa",
+        "rechtsfachwirt",
+        "cowork"
+      ]
     },
     {
       "name": "schulrecht-laender",
@@ -2641,6 +2749,16 @@
       "name": "verfassungsrecht",
       "source": "./verfassungsrecht",
       "description": "Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "vergabestelle-behoerden",
+      "source": "./vergaberecht-werkstatt/vergabestelle-behoerden",
+      "description": "Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.",
       "version": "445.33.1",
       "author": {
         "name": "Klotzkette",

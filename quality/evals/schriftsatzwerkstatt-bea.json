@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "plugin": "schriftsatzwerkstatt-bea",
+  "reviewed_on": "2026-10-07",
+  "sources": [],
+  "selection": {
+    "target_skill": "01-bea-ordner-annahme",
+    "positive": ["Mache diesen fachlich fertigen Schriftsatzordner der Immobilien-Rechtsabteilung beA-fertig.", "Konvertiere unsere freigegebene Replik samt gemischten Anlagen und erstelle das technische Übergabepaket."],
+    "negative": ["Prüfe erst, ob die Räumungsklage rechtlich begründet ist.", "Ändere eigenständig den Zahlungsantrag und reiche ihn sofort bei Gericht ein."]
+  },
+  "cases": [{
+    "id": "replik-mit-gesperrter-anlagenfolge",
+    "target_skill": "01-bea-ordner-annahme",
+    "request": "Die Rechtsabteilung hat eine Replik fachlich freigegeben. Im Ordner liegen DOCX, XLSX, JPEG und eine E-Mail mit Anlagen. K1 bis K6 wurden bereits eingereicht, zwei DOCX-Fassungen heißen final. Ein Mitarbeiter soll versenden; der Schriftsatz trägt nur den Namen der Anwältin. Bereite das Paket vor, ohne den Inhalt zu verändern oder tatsächlich zu versenden.",
+    "input_files": [], "deliverables": ["versandvorbereitung.md"],
+    "criteria": [
+      {"id": "C01", "text": "Klärt die tatsächlich freigegebene Hauptfassung; verändert keine Originaldatei und nummeriert bereits eingereichte K1 bis K6 nicht um.", "deliverables": ["versandvorbereitung.md"]},
+      {"id": "C02", "text": "Erzeugt nur mit vorhandenen Werkzeugen geprüfte PDF-Arbeitskopien, ansonsten eine konkrete Lückenliste. Neue Anlagen beginnen bei K7 und verwenden eindeutige ASCII-Namen.", "deliverables": ["versandvorbereitung.md"]},
+      {"id": "C03", "text": "Markiert abweichende verantwortliche und tatsächlich versendende Person bei nur einfacher Signatur als ungeklärt; behauptet keine qeS oder Freigabe und keinen Versand.", "deliverables": ["versandvorbereitung.md"]}
+    ]
+  }],
+  "prompt_workflow_review": {
+    "date": "2026-10-07", "method": "desk_review",
+    "opening_modes": ["Fachlich fertigen Ordner annehmen.", "Bereits erzeugtes Paket erneut technisch prüfen.", "Nach realem Versand die Eingangsbestätigung abgleichen."],
+    "continuation": "Neue Fassung oder Anlage hebt die betroffene technische Freigabe auf; Originale und bereits eingereichte Anlagenfolge bleiben erhalten.",
+    "enrichment": "Alle neun Skills, vier technischen Referenzen, sechs Vorlagen und der Paketvalidator aus dem Quellprojekt übernommen.",
+    "limits": "Kein fachrechtlicher Review, kein realer beA-Zugriff, keine kryptografische Signaturprüfung und kein beobachteter Modelllauf."
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GAEB_DA_XML phase="X84" version="3.3" xmlns="urn:example:gaeb:vergaberecht-werkstatt">
+  <Award procedure="HB-STH-2026-019" key="HB-STH-2026-019-X83" />
+  <Bidder>Hochbau Mustermann GmbH</Bidder>
+  <Offer id="HM-2026-BAU-018" submitted="2026-07-15T10:22:00+02:00">
+    <Item no="03.02.140" unitPrice="1180.00" totalPrice="28320.00" currency="EUR" />
+    <Item no="04.01.020" unitPrice="86.50" totalPrice="58820.00" currency="EUR" />
+  </Offer>
+</GAEB_DA_XML>

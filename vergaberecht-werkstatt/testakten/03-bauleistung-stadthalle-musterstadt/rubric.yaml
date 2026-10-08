@@ -1,0 +1,60 @@
+name: "Bauleistung Stadthalle Musterstadt"
+plugin: "bieter-unternehmen"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Fallbeschreibung vorhanden"
+    path: "README.md"
+  - id: r02-gesamt-pdf
+    check_type: file_exists
+    description: "Lesefassung als Gesamt-PDF vorhanden"
+    path: "gesamt-pdf/03-bauleistung-stadthalle-musterstadt_gesamt.pdf"
+  - id: r03-aktenumfang
+    check_type: file_count
+    description: "Mindestens sechs fallbezogene Aktenstücke vorhanden"
+    glob: "[0-9][0-9]_*.md"
+    min: 6
+  - id: r04-gaeb
+    check_type: file_count
+    description: "Mindestens eine GAEB-Datei für das Leistungsverzeichnis vorhanden"
+    glob: "gaeb/*"
+    min: 1
+  - id: r05-markenruege
+    check_type: regex_match
+    description: "Rüge benennt den unzulässigen Markenbezug konkret"
+    path: "03_ruegeschreiben_markenbezug.md"
+    pattern: "Marke|gleichwertig|Produktneutral"
+  - id: r06-ruegenorm
+    check_type: regex_match
+    description: "Rüge ordnet den Zugang Paragraf 160 Absatz 3 GWB zu"
+    path: "03_ruegeschreiben_markenbezug.md"
+    pattern: '§\s*160\s+Abs\.\s*3'
+  - id: r07-nichtabhilfe
+    check_type: text_contains
+    description: "Nichtabhilfe ist als eigener Fristauslöser dokumentiert"
+    path: "04_nichtabhilfe_vergabestelle.md"
+    contains: "Nichtabhilfe"
+  - id: r08-nachpruefung
+    check_type: regex_match
+    description: "Nachprüfungsantrag enthält einen konkreten Antrag"
+    path: "05_nachpruefungsantrag_vk.md"
+    pattern: "Antr[aä]ge|beantragt"
+  - id: r09-bestandsaufmass
+    check_type: file_exists
+    description: "Bestandsaufmaß und Kalkulationsprotokoll sind vorhanden"
+    path: "13_bestandsaufmass_kalkulationsprotokoll.md"
+  - id: r10-formatwiderspruch
+    check_type: regex_match
+    description: "Widerspruch zwischen PDF-Leistungsverzeichnis und GAEB wird konkret offengelegt"
+    path: "13_bestandsaufmass_kalkulationsprotokoll.md"
+    pattern: 'PDF-LV Version 04[\s\S]{0,100}5 Metern[\s\S]{0,100}GAEB-X83-Datei 7\.5 Meter'
+  - id: r11-berichtigung
+    check_type: regex_match
+    description: "Berichtigung vereinheitlicht Menge und besteht den Rücklesetest"
+    path: "13_bestandsaufmass_kalkulationsprotokoll.md"
+    pattern: 'Berichtigung 04a[\s\S]{0,100}7\.5 Meter[\s\S]{0,1600}LV_Stadthalle_04a\.x83[\s\S]{0,160}Import AVA-Bau 11\.4[\s\S]{0,120}Positionen und Mengen vollständig'
+  - id: r12-fachreview
+    check_type: human_review
+    description: "Fristenkette von Kenntnis bis Nachprüfungsantrag prüfen"
+    note: "Nummern 1 bis 4 des Paragrafen 160 Absatz 3 GWB getrennt und mit Zugangsnachweisen prüfen."

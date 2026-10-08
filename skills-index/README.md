@@ -2,7 +2,7 @@
 
 Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v445.33.1`.
 
-Die Aufteilung verhindert, dass eine einzige Seite alle 22844 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
+Die Aufteilung verhindert, dass eine einzige Seite alle 23158 Skillzeilen rendern muss. Die Detailseiten bleiben dadurch schnell und einzeln verlinkbar.
 
 English: Each plugin has one lightweight detail page containing its complete skill list, descriptions and direct Markdown downloads. Open a plugin page to choose a skill; links labelled `Download MD` save the file instead of opening a source preview.
 
@@ -65,6 +65,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [betriebskosten-hausverwaltung](./betriebskosten-hausverwaltung.md) (10 Skills)
 - [bgb-at-pruefer](./bgb-at-pruefer.md) (96 Skills)
 - [bgb-bt-pruefer](./bgb-bt-pruefer.md) (109 Skills)
+- [bieter-unternehmen](./bieter-unternehmen.md) (113 Skills)
 - [buerokratieversteher-entbuerokratisierer](./buerokratieversteher-entbuerokratisierer.md) (101 Skills)
 - [bundesnetzagentur-verfahren](./bundesnetzagentur-verfahren.md) (222 Skills)
 - [bundeswehrrecht-wehrrecht](./bundeswehrrecht-wehrrecht.md) (107 Skills)
@@ -204,6 +205,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [ki-vo-ai-act-pruefer](./ki-vo-ai-act-pruefer.md) (123 Skills)
 - [kommunale-haftpflicht](./kommunale-haftpflicht.md) (10 Skills)
 - [kommunalrecht-laender](./kommunalrecht-laender.md) (177 Skills)
+- [konkurrenten-rechtsschutz](./konkurrenten-rechtsschutz.md) (20 Skills)
 - [krankenhaus-it-ki](./krankenhaus-it-ki.md) (11 Skills)
 - [krankenhausrecht](./krankenhausrecht.md) (69 Skills)
 - [krankenkassenrecht-krankenversicherung](./krankenkassenrecht-krankenversicherung.md) (162 Skills)
@@ -262,6 +264,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 
 ### R
 
+- [rechtsabteilung-forderungsmanagement-immobilienunternehmen](./rechtsabteilung-forderungsmanagement-immobilienunternehmen.md) (50 Skills)
 - [rechtsberatungsstelle](./rechtsberatungsstelle.md) (60 Skills)
 - [rechtstheorie-rechtsphilosophie](./rechtstheorie-rechtsphilosophie.md) (66 Skills)
 - [regulatorisches-recht](./regulatorisches-recht.md) (59 Skills)
@@ -289,6 +292,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [schoeffen-handelsrichter-praxis](./schoeffen-handelsrichter-praxis.md) (82 Skills)
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (60 Skills)
 - [schriftsatz-versandwerkstatt](./schriftsatz-versandwerkstatt.md) (10 Skills)
+- [schriftsatzwerkstatt-bea](./schriftsatzwerkstatt-bea.md) (9 Skills)
 - [schulrecht-laender](./schulrecht-laender.md) (101 Skills)
 - [seerecht-schifffahrtsrecht](./seerecht-schifffahrtsrecht.md) (239 Skills)
 - [sektorenvergabe-workflow](./sektorenvergabe-workflow.md) (11 Skills)
@@ -338,6 +342,7 @@ Alphabetisch sortiert: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F
 - [verbraucherschutzverband-durchsetzung](./verbraucherschutzverband-durchsetzung.md) (122 Skills)
 - [vereinsrecht-vereinsmanager](./vereinsrecht-vereinsmanager.md) (59 Skills)
 - [verfassungsrecht](./verfassungsrecht.md) (69 Skills)
+- [vergabestelle-behoerden](./vergabestelle-behoerden.md) (122 Skills)
 - [vergesellschaftung-artikel-15](./vergesellschaftung-artikel-15.md) (9 Skills)
 - [verhaeltnismaessigkeitspruefer](./verhaeltnismaessigkeitspruefer.md) (86 Skills)
 - [verkehr-infrastrukturrecht](./verkehr-infrastrukturrecht.md) (60 Skills)
