@@ -1,0 +1,11 @@
+Funkwerk / interner Supportkanal
+Export: 6. Oktober 2026, 09:40 Uhr
+
+05.10.2026 17:08 Tassilo: Beim Fall Morgenstern bitte noch keine Pauschale abziehen. Hedwig hat das angehalten.
+05.10.2026 17:11 Jona: Die Eingangsbestätigung für Retouren verschickt das System noch mit „wir prüfen Ihren Antrag“. Soll ich das auch in die Liste nehmen?
+05.10.2026 17:14 Tassilo: Ja. Die Kundin hat jetzt schon zweimal angerufen. Sie glaubt, sie brauche erst unsere Erlaubnis.
+05.10.2026 17:18 Hedwig: Bitte vollständige Nachrichten sichern. Kein Screenshot mit nur dem letzten Satz.
+06.10.2026 08:52 Jona: Bei F2-H stimmt die Lieferzeit auf der Seite nicht. Bestand null, Lieferdatum vom Hersteller fehlt.
+06.10.2026 09:06 Tassilo: Die 82 F2 im Lager sind gezählt. Davon vier Rückläufer gesondert markiert, nicht im frei verkäuflichen Bestand.
+06.10.2026 09:15 Hedwig: Dann sind es 78 frei verfügbare? Bitte in der Warenwirtschaft berichtigen, CSV ist noch der gestrige Stand.
+06.10.2026 09:19 Tassilo: Genau. Ich habe die vier nicht wieder als Neuware eingebucht.

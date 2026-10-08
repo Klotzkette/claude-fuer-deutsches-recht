@@ -1,3 +1,13 @@
+# agb-werkstatt-v1.0.0 - 2026-10-09
+
+Die neue AGB-Werkstatt ergänzt den bestehenden Prüfer unverändert um zehn Fachskills und einen Hauptproblemlöser. Sie führt konkrete Geschäftsunterlagen über gezielte Rückfragen zu vollständigen Verkaufs-, Reparatur-, Handels-, Bank- oder Darlehensbedingungen und den dazugehörigen Einführungs- und Kundentexten.
+
+Werkstatt, Schnellstart und Hauptproblem stehen eigenständig als Markdown bereit. Die beiden kompakten Fassungen bleiben jeweils unter 7500 Zeichen und Bytes; die ausführliche Werkstatt behandelt konkrete Verzweigungen, Quellenprüfung und dokumentierte Freigabe. Bankentgelte, Änderungszustimmung, Kreditinformationen und die elektronische Widerrufsfunktion werden getrennt geprüft. Quellenkarten nennen ausdrücklich Aussage, Übertragungsgrenze und tatsächlich erreichten Abrufstatus.
+
+Drei neue Mandatsakten bilden einen Berliner Sensor-Webshop, eine Leipziger Fahrradwerkstatt und einen Nürnberger Tierbedarfshandel ab. Insgesamt 36 Originalstücke umfassen neun Word-Dateien, neun PDF-Belege, neun vollständige E-Mails mit bytegleichen Anhängen und neun CSV-/Textdateien. Jede Akte erhält Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP ohne Markdown. Die bilingualen Warnhinweise stehen auf den Downloadseiten und in den ZIP-README-Dateien, nicht in den PDF-Aktenstücken.
+
+Eigenes Komponentenrelease mit drei Manifestformaten und separaten Akten; die älteren allgemeinen Sammelarchive werden nicht als bereits aktualisiert ausgegeben. Struktur- und Paketprüfungen ersetzen weder anwaltliche Endprüfung noch einen Live-Test in sämtlichen Oberflächen.
+
 # kanzlei-website-redaktion-v1.0.0 - 2026-10-08
 
 Zehn neue Skills führen konkrete Website-Aufträge vom Material bis zu Entwurf, Vorschau und kontrollierter Veröffentlichung. Blogbeiträge, aktuelle Gerichtsentscheidungen, Teamprofile, Lebensläufe, Fotos, Leistungen und Kontakte haben eigene Arbeitsabläufe. Quellenbeobachtung verwendet nur tatsächlich verfügbare Zugänge und ausdrücklich begrenzte Zeitpläne.

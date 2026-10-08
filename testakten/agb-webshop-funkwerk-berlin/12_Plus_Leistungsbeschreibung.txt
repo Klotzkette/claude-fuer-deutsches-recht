@@ -1,0 +1,8 @@
+Funkwerk Plus / Produktteam
+Stand 1. Oktober 2026 · Freigegeben für interne Abstimmung durch Hedwig Funkenflug
+
+Der Dienst speichert Messwerte für zwölf Monate. Ohne Plus zeigt die App die letzten sieben Tage. Plus kostet 4,90 Euro je angefangenem Vertragsmonat und wird im Kundenkonto bestellt. Abgerechnet wird immer am Kalendertag des Beginns. Bei Beginn am 31. eines Monats wird in kürzeren Monaten am letzten Tag abgerechnet.
+
+Der Dienst kann im Konto mit Wirkung zum Ende des laufenden Vertragsmonats beendet werden. Ein neues Gerät ist dafür nicht nötig. Bis zur Beendigung kann ein CSV-Export heruntergeladen werden. Danach bleiben bereits selbst exportierte Dateien beim Kunden, im Kundenkonto wird die längere Historie nach sieben Tagen nicht mehr angeboten.
+
+Der Kundendienst hat noch keinen einheitlichen Text für einen Ausfall. Im August war der Verlauf zweimal je etwa drei Stunden nicht erreichbar. Die Gerätemessung lief weiter. Es wurde keine Gutschrift versprochen. Zu einer Preisänderung ist noch nichts beschlossen. Bitte nicht mit den Verkaufsbedingungen für Hardware vermischen.

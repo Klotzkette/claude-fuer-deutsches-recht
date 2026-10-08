@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agb-werkstatt",
+  "version": "1.0.0",
+  "description": "AGB fuer Shop, Werkstatt, Handel, Banken und Darlehen entwerfen und pruefen. Zehn Fachskills und ein Hauptskill verbinden aktuelle Quellen, Interessenlage, vollstaendige Klauseln und konkrete Einfuehrung.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "AGB-Werkstatt",
+        "shortDescription": "Passende AGB entwerfen und einführen",
+        "longDescription": "AGB fuer Shop, Werkstatt, Handel, Banken und Darlehen entwerfen und pruefen. Zehn Fachskills und ein Hauptskill verbinden aktuelle Quellen, Interessenlage, vollstaendige Klauseln und konkrete Einfuehrung.",
+        "developerName": "Klotzkette",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Lies meine Geschäftsunterlagen. Entwirf passende AGB und die zugehörigen Kundeninformationen. Kläre Kundenkreis, Vertriebsweg und Interessenlage nur, soweit sie fehlen. Prüfe aktuelle Normen und Rechtsprechung; führe nach Rückfragen bis zur vollständigen Fassung und konkreten Einführung weiter."
+      }
+    }
+  }
+}

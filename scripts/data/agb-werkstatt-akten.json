@@ -1,0 +1,830 @@
+{
+  "schema_version": 1,
+  "cases": [
+    {
+      "slug": "agb-webshop-funkwerk-berlin",
+      "title": "Funkwerk: AGB für einen Webshop",
+      "summary": "Ein Berliner Händler vertreibt Sensoren mit App und einen optionalen Cloud-Dienst. Geschäftsleitung, Support und Shopagentur haben unterschiedliche Vorstellungen vom Vertragsschluss und den künftigen Bedingungen.",
+      "contacts": [
+        {
+          "id": "client",
+          "name": "Hedwig Funkenflug",
+          "email": "hedwig@funkwerk-handel.example",
+          "role": "Geschäftsführer",
+          "organisation": "Funkwerk Handel GmbH",
+          "address": "Lerchenbogen 18, 12059 Berlin"
+        },
+        {
+          "id": "lawyer",
+          "name": "Dr. Kunibert Rehberg",
+          "email": "rehberg@kanzlei-rehberg.example",
+          "role": "Rechtsanwalt",
+          "organisation": "Rehberg Vertragsrecht",
+          "address": "Spreehof 7, 10179 Berlin"
+        },
+        {
+          "id": "agency",
+          "name": "Jona Blitz",
+          "email": "jona@klickkante.example",
+          "role": "Projektleiter Shopentwicklung",
+          "organisation": "Klickkante Digital",
+          "address": "Werkhof 3, 10997 Berlin"
+        },
+        {
+          "id": "customer",
+          "name": "Ottilie Morgenstern",
+          "email": "o.morgenstern@kundenpost.example",
+          "role": "Kunde, Bestellung FW-260918-147",
+          "organisation": "Privatanschrift",
+          "address": "Birkengasse 22, 14467 Potsdam"
+        }
+      ],
+      "documents": [
+        {
+          "id": "FW01",
+          "path": "01_Geschaeftsmodell.docx",
+          "title": "Funkwerk Handel GmbH | Gesprächsnotiz",
+          "paragraphs": [
+            "Geschäftsführung · Lerchenbogen 18 · 12059 Berlin\nAn Dr. Kunibert Rehberg, Rechtsanwalt\nBerlin, 2. Oktober 2026 · Besprechung 09:15 bis 10:05 Uhr\nBetreff: Neue Verkaufsbedingungen und Relaunch zum 2. November 2026",
+            "Teilnehmer waren Hedwig Funkenflug, Jona Blitz und der Leiter des Kundendienstes, Tassilo Abendroth. Das Sortiment besteht aus Raumklimasensoren, Steckdosen und Ersatzteilen. Im Shop wird nur an private Endkunden mit Lieferanschrift in Deutschland verkauft. Firmen bestellen bisher per gesondertem Angebot; diese Bestellungen sollen zunächst nicht in den neuen Shop.",
+            "Der Sensor Fühler F2 kostet 89 Euro einschließlich Umsatzsteuer. Ohne App zeigt er Temperatur und Feuchtigkeit am Gerät. Messverläufe und Warnungen gibt es nur in der kostenlosen App. Unsere Produktseite verspricht vier Jahre App-Betrieb ab Kauf. Dafür haben wir beim Hersteller eine Zusage bis Ende 2030, aber keine auf jedes spätere Kaufdatum angepasste Zusage. Tassilo soll dazu nochmals nachfragen.",
+            "Optional gibt es Funkwerk Plus für 4,90 Euro monatlich. Damit werden Messwerte zwölf Monate gespeichert. Kunden können das Abo im Kundenkonto beenden; bisher läuft es danach bis zum Ende des bereits bezahlten Monats. Das Gerät bleibt ohne Plus nutzbar. Ein Kauf ist ohne Registrierung möglich, für Plus wird ein Kundenkonto benötigt.",
+            "Wir möchten möglichst wenige Rücksendestreitigkeiten, aber keine Zusagen, die unser kleines Lager nicht erfüllen kann. Lagerware wird werktags binnen zwei Tagen versandt. Bei Nachbestellungen zeigt das System derzeit trotzdem dieselbe Lieferzeit. Der Relaunch soll diesen Punkt ändern. Welche endgültige Angabe technisch zuverlässig ist, muss Jona bestätigen.",
+            "Die Bestellmail geht sofort heraus. Kreditkartenzahlungen werden schon dabei eingezogen. Im Büro sprechen wir dennoch davon, den Auftrag erst bei Versand anzunehmen. Jona meint, die Formulierung in der Mail sei seit 2023 unverändert. Der alte AGB-Text liegt anbei.",
+            "Für die erste Fassung wünschen wir ausgewogene Bedingungen, mit einem einfachen Eigentumsvorbehalt bei Rechnungskauf. Konto- und Kreditbedingungen eines Zahlungsanbieters sollen nicht unter unserem Namen erscheinen. Kontakt für Rückfragen ist Hedwig; technische Fragen kann Jona direkt beantworten.\nNotiert von Tassilo Abendroth, 2. Oktober 2026, 11:20 Uhr"
+          ]
+        },
+        {
+          "id": "FW02",
+          "path": "02_Alte_Verkaufsbedingungen.docx",
+          "title": "Funkwerk | Verkaufsbedingungen, Stand Mai 2023",
+          "paragraphs": [
+            "Funkwerk Handel GmbH · Lerchenbogen 18 · 12059 Berlin\nservice@funkwerk-handel.example\nAblage: CMS / Rechtliches / produktiv-alt",
+            "1 Geltungsbereich\nDiese Bedingungen gelten für Bestellungen in unserem Onlineshop. Sie gelten auch für alle späteren Geschäfte. Änderungen teilen wir per E-Mail mit; widerspricht der Kunde nicht innerhalb von sieben Tagen, gelten die neuen Bedingungen als vereinbart.",
+            "2 Vertrag und Zahlung\nDie Darstellung im Shop ist unverbindlich. Mit der Bestellung gibt der Kunde ein Angebot ab. Wir nehmen dieses mit Versand an. Die unmittelbar versandte Bestellbestätigung bestätigt den Kauf. Die Kreditkarte wird nach Bestellung belastet. Alternativ kann im Bestellformular ein Lastschriftmandat erteilt werden. Rechnungen sind innerhalb von zehn Tagen ohne Abzug zu zahlen.",
+            "3 Lieferung\nWir liefern innerhalb von zwei Werktagen. Bei Lieferproblemen des Herstellers sind wir nicht an die Lieferzeit gebunden. Wir dürfen ein gleichwertiges Ersatzgerät senden. Die Ware bleibt bis zur vollständigen Bezahlung unser Eigentum.",
+            "4 Rückgabe\nDer Kunde kann Ware binnen 14 Tagen zurückgeben. Die Rücksendung muss vorher angemeldet werden und in unbeschädigter Originalverpackung erfolgen. Geräte mit eingerichteter App sind von der Rückgabe ausgeschlossen. Für die Prüfung geöffneter Ware berechnen wir 15 Euro.",
+            "5 Funktion und Mängel\nDie App ist eine kostenlose Zusatzleistung des Herstellers und kann jederzeit geändert oder eingestellt werden. Für Softwarefehler sind wir nicht zuständig. Mängel sind innerhalb von sieben Tagen schriftlich zu melden. Danach gilt die Lieferung als genehmigt. Im Übrigen gelten die gesetzlichen Bestimmungen.",
+            "6 Funkwerk Plus\nDer Preis beträgt 4,90 Euro monatlich. Wir können ihn bei steigenden Betriebskosten anpassen. Ein Widerspruch gegen die Änderung gilt als Kündigung. Die Kündigung kann im Kundenkonto vorgenommen werden.",
+            "7 Haftung\nWir haften nicht für Schäden durch unsere Geräte oder die App. Die Haftung ist in jedem Fall auf den Kaufpreis beschränkt. Für den Verlust von Messdaten übernehmen wir keine Verantwortung.",
+            "8 Schlussbestimmungen\nEs gilt deutsches Recht. Gerichtsstand ist Berlin. Sollte eine Regelung unwirksam sein, gilt die wirtschaftlich nächstkommende zulässige Regelung.\nInterne Dateibezeichnung: agb_shop_2023_final2"
+          ]
+        },
+        {
+          "id": "FW03",
+          "path": "03_Rechnung_FW147.pdf",
+          "title": "Funkwerk Handel GmbH | Rechnung",
+          "paragraphs": [
+            "Lerchenbogen 18 · 12059 Berlin\nRechnungsstelle: buchhaltung@funkwerk-handel.example\nAn Ottilie Morgenstern · Birkengasse 22 · 14467 Potsdam",
+            "Rechnung FW-R-2026-147 · Bestellung FW-260918-147\nRechnungsdatum und Versanddatum: 18. September 2026\nLieferanschrift entspricht der Rechnungsanschrift.",
+            "Vielen Dank für Ihren Einkauf. Berechnet werden zwei Raumklimasensoren Fühler F2 und eine Steckdose Schaltpunkt S1. Die Versendung erfolgte als ein Paket. Die in der Rechnung ausgewiesenen Preise sind Endpreise einschließlich 19 Prozent Umsatzsteuer.",
+            "Nettobetrag 184,03 Euro · Umsatzsteuer 34,97 Euro · Gesamtbetrag 219,00 Euro.\nBezahlt am 18. September 2026 über die im Shop verwendete Kreditkarte; es ist keine erneute Überweisung erforderlich.",
+            "Die Seriennummern der Sensoren lauten F2-260901-0182 und F2-260901-0183. Für Rückfragen halten Sie bitte die Bestellnummer bereit. Ihre gesetzlich bestehenden Rechte werden durch die freiwillige telefonische Einrichtungsunterstützung nicht eingeschränkt.",
+            "Versandbearbeitung: Tassilo Abendroth · Versandfreigabe 18. September 2026, 14:42 Uhr.\nKontakt für Lieferprobleme: service@funkwerk-handel.example\nDiese Rechnung wurde elektronisch erstellt."
+          ],
+          "table": [
+            [
+              "Artikel",
+              "Menge",
+              "Bruttopreis"
+            ],
+            [
+              "Fühler F2",
+              "2",
+              "178,00 Euro"
+            ],
+            [
+              "Schaltpunkt S1",
+              "1",
+              "35,10 Euro"
+            ],
+            [
+              "Versand",
+              "1",
+              "5,90 Euro"
+            ],
+            [
+              "Gesamt",
+              "",
+              "219,00 Euro"
+            ]
+          ]
+        },
+        {
+          "id": "FW04",
+          "path": "04_Shopagentur_Ablauf.pdf",
+          "title": "Klickkante Digital | Bestellablauf",
+          "paragraphs": [
+            "Werkhof 3 · 10997 Berlin · jona@klickkante.example\nAn Hedwig Funkenflug, Funkwerk Handel GmbH\nBerlin, 5. Oktober 2026 · Projekt KK-FW-61",
+            "Sehr geehrte Frau Funkenflug,\nwie besprochen übersende ich den derzeitigen Ablauf aus dem produktiven Shop, nicht aus der neuen Vorschau. Die letzte Schaltfläche heißt „Bestellung abschließen“. Unmittelbar darüber erscheinen Waren, Versandkosten und Gesamtpreis. Das Kontrollkästchen für die AGB ist nicht vorausgewählt.",
+            "Nach Betätigung wird die Kreditkarte belastet und eine Mail mit dem Satz „Vielen Dank, Ihr Kauf ist bestätigt“ verschickt. Die Lagerprüfung findet anschließend statt. Bei nicht vorhandener Ware schreibt der Support am nächsten Vormittag. Für solche Fälle enthält das System noch keine eigene Bestätigungsvorlage.",
+            "Das Kundenkonto besitzt für Funkwerk Plus den Menüpunkt „Vertrag beenden“. Gastkäufer gelangen nur über einen Link in der Mail zur Retourenanmeldung. Dort werden Bestellnummer, Postleitzahl und ein Rückgabegrund verlangt. Eine gesonderte Funktion mit einem zweiten Bestätigungsschritt für einen Widerruf wurde noch nicht beauftragt.",
+            "Bitte geben Sie uns die endgültigen Wortlaute und den gewünschten Annahmezeitpunkt. Wir können zuerst eine Vorschau schalten, ohne die produktive Seite zu ändern. Lieferzeit und Bestand lassen sich je Artikel pflegen. Eine automatische Unterscheidung zwischen Abonnement und Einzelkauf ist bereits vorhanden.",
+            "Die Umsetzung muss bis 23. Oktober freigegeben sein, wenn der Relaunch am 2. November erfolgen soll. Bitte prüfen Sie auch die englische Fehlermeldung beim Kartendienst; sie stammt vom Dienstleister und lässt sich nicht in unserem CMS ändern.\nMit freundlichen Grüßen\nJona Blitz · Projektleiter"
+          ]
+        },
+        {
+          "id": "FW05",
+          "path": "05_Hersteller_App_Zusage.pdf",
+          "title": "Nordlicht Gerätevertrieb | Produktinformation F2",
+          "paragraphs": [
+            "Nordlicht Gerätevertrieb GmbH · Hafenring 36 · 24143 Kiel\nProduktbetreuung: Anselm Kiesel · an.kiesel@nordlicht-geraete.example\nAn Funkwerk Handel GmbH · Hedwig Funkenflug\nKiel, 30. September 2026 · Bezug: Anfrage vom 29. September",
+            "Sehr geehrte Frau Funkenflug,\nfür die Geräteserie F2 stellen wir die App-Anbindung nach heutiger Planung mindestens bis zum 31. Dezember 2030 bereit. Diese Aussage betrifft die derzeit angebotenen Geräte und die unterstützten Betriebssystemversionen. Die aktuelle Kompatibilitätsliste wird mit jedem größeren App-Update fortgeschrieben.",
+            "Die Raumtemperatur und Luftfeuchtigkeit werden auch ohne Verbindung am Gerät angezeigt. Die Auswertung längerer Verläufe und die Warnmeldungen auf dem Telefon benötigen die App und eine Internetverbindung. Das von Ihnen unter eigenem Namen vertriebene Speicherabonnement Funkwerk Plus betreiben nicht wir.",
+            "Bei Sicherheitsmeldungen stellen wir Ihnen eine Händlerinformation zur Verfügung. Die Kunden müssen über notwendige Updates und deren Installation unterrichtet werden. Im September wurden noch keine F2-Geräte wegen eines Sicherheitsproblems zurückgerufen. Zwei Meldungen zu Verbindungsabbrüchen unter einer neuen Telefonversion werden derzeit untersucht.",
+            "Eine vierjährige Laufzeit ab jedem einzelnen Verkauf wurde in unserer bisherigen Händlervereinbarung nicht festgelegt. Bitte teilen Sie uns Ihre geplanten Stückzahlen für 2027 mit, damit wir die gewünschte Erweiterung wirtschaftlich prüfen können. Bis dahin bitten wir, diese zusätzliche Zusage nicht als von uns bestätigt darzustellen.",
+            "Mit freundlichen Grüßen\nAnselm Kiesel · Produktbetreuung\nAnlage: keine · Wiedervorlage im Vertrieb am 14. Oktober 2026"
+          ]
+        },
+        {
+          "id": "FW06",
+          "path": "06_Telefonvermerk.docx",
+          "title": "Rehberg Vertragsrecht | Telefonvermerk",
+          "paragraphs": [
+            "Spreehof 7 · 10179 Berlin\nMandat R-2026-214 · Gespräch vom 6. Oktober 2026, 16:05 bis 16:19 Uhr\nGesprächspartner: Hedwig Funkenflug und Dr. Kunibert Rehberg",
+            "Frau Funkenflug ruft aus dem Lager an. Eine Kundin habe zwei Sensoren ausgepackt, aber nur einen eingerichtet. Das Lager wolle für beide die Prüfpauschale abziehen. Frau Funkenflug möchte das bis zur Klärung nicht freigeben. Sie bittet darum, aus diesem Vorgang keine allgemeine Rückrufaktion abzuleiten.",
+            "Der Rechnungskauf wird nur Stammkunden nach manueller Freigabe angeboten. Für Neukunden gibt es Karte oder Vorkasse. Die AGB nennen noch ein Lastschriftverfahren, das technisch seit März abgeschaltet ist. Die bisherige Shopdatei soll deshalb nicht nur sprachlich überarbeitet werden.",
+            "Der Plus-Dienst hat 214 aktive Nutzer. Es wurde seit Beginn kein Preis erhöht. Die Geschäftsführung möchte im nächsten Jahr auf 5,40 Euro gehen, hat aber noch keinen Beschluss und keine Kostenaufstellung. Der neue Entwurf soll diese Erhöhung nicht schon als vereinbart behandeln.",
+            "Zur Interessenlage sagt Frau Funkenflug: „Ich will keine Seiten mit Drohungen. Unsere Kunden sollen verstehen, was sie kaufen. Aber wenn jemand nach zwei Jahren sein Telefon wechselt, können wir auch nicht einfach jede neue Funktion versprechen.“ Die App-Zusage des Herstellers reicht sie heute nach.",
+            "Vereinbart: Zunächst Verbraucher-Shop und Plus bearbeiten; gesonderte Firmenangebote bleiben vorerst außerhalb des Auftrags. Jona darf technische Rückfragen beantworten, aber keine juristische Endfassung freigeben. Freigabe durch Frau Funkenflug nach Rücksprache mit dem Vertrieb.\nVermerk geschlossen 16:31 Uhr · Dr. Kunibert Rehberg"
+          ]
+        }
+      ],
+      "emails": [
+        {
+          "id": "FWE01",
+          "path": "07_Mandat.eml",
+          "sender": "client",
+          "recipients": [
+            "lawyer"
+          ],
+          "date": "2026-10-02",
+          "time": "11:43:00",
+          "subject": "FW / neue AGB und die Mails im Shop",
+          "attachments": [
+            "FW01",
+            "FW02"
+          ],
+          "body": "Sehr geehrter Herr Dr. Rehberg,\n\nanbei die Gesprächsnotiz und die alte Datei, die Jona gerade aus dem Shop geholt hat. Bitte machen Sie uns daraus vernünftige Bedingungen und sagen Sie auch, welche Texte wir daneben brauchen. Ich möchte nicht, dass wir schöne AGB veröffentlichen und dann in der Bestellmail etwas anderes erklären.\n\nDie Bedingungen sollen fair sein. Bei Rechnungskauf möchten wir abgesichert bleiben. Unser Kundendienst braucht außerdem einen Text, den er bei Rückfragen zur App verwenden kann. Bitte keine fertige Zusage für Österreich: Das ist nur eine Idee, kein beschlossener Versandweg.\n\nWenn noch eine Entscheidung fehlt, fragen Sie mich bitte direkt. Jona ist bei den Abläufen sicherer als ich. Eine neue Fassung bitte noch nicht auf die Website stellen.\n\nFreundliche Grüße\nHedwig Funkenflug"
+        },
+        {
+          "id": "FWE02",
+          "path": "08_Kundin_Rechnung_Anhang.eml",
+          "sender": "customer",
+          "recipients": [
+            "client"
+          ],
+          "date": "2026-09-29",
+          "time": "19:18:00",
+          "subject": "FW-260918-147 / Rücksendung beider Sensoren",
+          "attachments": [
+            "FW03"
+          ],
+          "body": "Guten Abend,\n\nich möchte die zwei Sensoren aus meiner Bestellung zurückgeben. Die Steckdose behalte ich. Geliefert wurde am 21. September. Einen Sensor habe ich am 22. September mit meinem Telefon verbunden, beim zweiten nur den Karton geöffnet. Mit den Warnungen komme ich nicht zurecht; ich hatte mir das anders vorgestellt.\n\nDas Rückgabeformular verlangt einen Grund. Dort steht außerdem, ein eingerichtetes Gerät werde nicht angenommen. Am Telefon hieß es heute, ich könne die Sachen trotzdem schicken, müsse aber je 15 Euro abziehen lassen. Soll ich wirklich selbst weniger als den Rechnungsbetrag eintragen? Die Rechnung hängt zur Zuordnung an.\n\nBitte bestätigen Sie mir, wohin ich das Paket schicken soll und welchen Betrag ich für die beiden Sensoren zurückbekomme. Die Kartons habe ich noch, ein kleiner Aufkleber ist eingerissen.\n\nViele Grüße\nOttilie Morgenstern"
+        },
+        {
+          "id": "FWE03",
+          "path": "09_Agentur_Rueckfrage.eml",
+          "sender": "agency",
+          "recipients": [
+            "client",
+            "lawyer"
+          ],
+          "date": "2026-10-05",
+          "time": "15:32:00",
+          "subject": "KK-FW-61 / Ablauf und Freigabe",
+          "attachments": [
+            "FW04"
+          ],
+          "body": "Guten Tag zusammen,\n\nhier ist die Beschreibung des tatsächlichen Ablaufs. Ich habe sie heute mit einer internen Vorschau abgeglichen. Beim Gastkauf gibt es derzeit keinen Login und das soll so bleiben. Wir können eine neue Widerrufsstrecke einbauen, brauchen aber die Felder und Texte. Der Retourengrund ist momentan Pflicht; das war ein alter Wunsch des Lagers.\n\nFür den Annahmezeitpunkt bitte ich um eine klare Entscheidung. Wenn die Zahlung erst beim Versand eingezogen werden soll, muss ich den Zahlungsanbieter umstellen; nur die Mail zu ändern reicht dafür nicht. Der Anbieter hält Reservierungen höchstens sieben Tage.\n\nDie Vorschau bleibt bis zur ausdrücklichen Freigabe nicht öffentlich. Den Produkttext mit vier Jahren Betrieb ab Kauf kann ich ändern, sobald Hedwig dazu etwas sagt.\n\nBeste Grüße\nJona"
+        }
+      ],
+      "raw": [
+        {
+          "path": "10_Sortiment.csv",
+          "rows": [
+            [
+              "Artikel",
+              "Bezeichnung",
+              "Bruttopreis_EUR",
+              "Lagerbestand",
+              "Lieferhinweis",
+              "Quelle"
+            ],
+            [
+              "F2",
+              "Fühler F2",
+              "89,00",
+              "82",
+              "Zwei Werktage",
+              "Produktblatt September"
+            ],
+            [
+              "S1",
+              "Schaltpunkt S1",
+              "35,10",
+              "43",
+              "Zwei Werktage",
+              "Preisliste September"
+            ],
+            [
+              "F2-H",
+              "Wandhalter F2",
+              "12,90",
+              "0",
+              "Nachbestellung offen",
+              "Lager 05.10.2026"
+            ],
+            [
+              "BAT",
+              "Batteriesatz",
+              "6,90",
+              "160",
+              "Zwei Werktage",
+              "Lager 05.10.2026"
+            ],
+            [
+              "PLUS",
+              "Funkwerk Plus monatlich",
+              "4,90",
+              "nicht anwendbar",
+              "Konto erforderlich",
+              "Dienstbeschreibung"
+            ],
+            [
+              "VERS",
+              "Versand je Bestellung",
+              "5,90",
+              "nicht anwendbar",
+              "Deutschland",
+              "Preisliste September"
+            ]
+          ]
+        },
+        {
+          "path": "11_Support_Chat.txt",
+          "text": "Funkwerk / interner Supportkanal\nExport: 6. Oktober 2026, 09:40 Uhr\n\n05.10.2026 17:08 Tassilo: Beim Fall Morgenstern bitte noch keine Pauschale abziehen. Hedwig hat das angehalten.\n05.10.2026 17:11 Jona: Die Eingangsbestätigung für Retouren verschickt das System noch mit „wir prüfen Ihren Antrag“. Soll ich das auch in die Liste nehmen?\n05.10.2026 17:14 Tassilo: Ja. Die Kundin hat jetzt schon zweimal angerufen. Sie glaubt, sie brauche erst unsere Erlaubnis.\n05.10.2026 17:18 Hedwig: Bitte vollständige Nachrichten sichern. Kein Screenshot mit nur dem letzten Satz.\n06.10.2026 08:52 Jona: Bei F2-H stimmt die Lieferzeit auf der Seite nicht. Bestand null, Lieferdatum vom Hersteller fehlt.\n06.10.2026 09:06 Tassilo: Die 82 F2 im Lager sind gezählt. Davon vier Rückläufer gesondert markiert, nicht im frei verkäuflichen Bestand.\n06.10.2026 09:15 Hedwig: Dann sind es 78 frei verfügbare? Bitte in der Warenwirtschaft berichtigen, CSV ist noch der gestrige Stand.\n06.10.2026 09:19 Tassilo: Genau. Ich habe die vier nicht wieder als Neuware eingebucht.\n"
+        },
+        {
+          "path": "12_Plus_Leistungsbeschreibung.txt",
+          "text": "Funkwerk Plus / Produktteam\nStand 1. Oktober 2026 · Freigegeben für interne Abstimmung durch Hedwig Funkenflug\n\nDer Dienst speichert Messwerte für zwölf Monate. Ohne Plus zeigt die App die letzten sieben Tage. Plus kostet 4,90 Euro je angefangenem Vertragsmonat und wird im Kundenkonto bestellt. Abgerechnet wird immer am Kalendertag des Beginns. Bei Beginn am 31. eines Monats wird in kürzeren Monaten am letzten Tag abgerechnet.\n\nDer Dienst kann im Konto mit Wirkung zum Ende des laufenden Vertragsmonats beendet werden. Ein neues Gerät ist dafür nicht nötig. Bis zur Beendigung kann ein CSV-Export heruntergeladen werden. Danach bleiben bereits selbst exportierte Dateien beim Kunden, im Kundenkonto wird die längere Historie nach sieben Tagen nicht mehr angeboten.\n\nDer Kundendienst hat noch keinen einheitlichen Text für einen Ausfall. Im August war der Verlauf zweimal je etwa drei Stunden nicht erreichbar. Die Gerätemessung lief weiter. Es wurde keine Gutschrift versprochen. Zu einer Preisänderung ist noch nichts beschlossen. Bitte nicht mit den Verkaufsbedingungen für Hardware vermischen.\n"
+        }
+      ]
+    },
+    {
+      "slug": "agb-fahrradwerkstatt-kettenglueck-leipzig",
+      "title": "Kettenglück: AGB für die Fahrradwerkstatt",
+      "summary": "Eine Leipziger Fahrradwerkstatt möchte ihre Auftragsannahme vereinheitlichen. Online-Termine, Diagnosekosten, zusätzliche Reparaturen und nicht abgeholte Leasingräder sind in den Unterlagen unterschiedlich behandelt.",
+      "contacts": [
+        {
+          "id": "client",
+          "name": "Kunibert Kettenglück",
+          "email": "kunibert@radstube-kettenglueck.example",
+          "role": "Inhaber",
+          "organisation": "Radstube Kettenglück",
+          "address": "Fahrradhof 8, 04229 Leipzig"
+        },
+        {
+          "id": "lawyer",
+          "name": "Adelheid Straßner",
+          "email": "strassner@kanzlei-strassner.example",
+          "role": "Rechtsanwalt",
+          "organisation": "Straßner Vertragsrecht",
+          "address": "Gartenbogen 12, 04109 Leipzig"
+        },
+        {
+          "id": "customer",
+          "name": "Bastian Flitz",
+          "email": "bastian@kundenbrief.example",
+          "role": "Kunde, Auftrag RK-286",
+          "organisation": "Privatanschrift",
+          "address": "Lindenhof 4, 04229 Leipzig"
+        },
+        {
+          "id": "staff",
+          "name": "Ottokar Speiche",
+          "email": "werkstatt@radstube-kettenglueck.example",
+          "role": "Werkstattleiter",
+          "organisation": "Radstube Kettenglück",
+          "address": "Fahrradhof 8, 04229 Leipzig"
+        }
+      ],
+      "documents": [
+        {
+          "id": "RK01",
+          "path": "01_Betriebsbesprechung.docx",
+          "title": "Radstube Kettenglück | Betriebsbesprechung",
+          "paragraphs": [
+            "Fahrradhof 8 · 04229 Leipzig · werkstatt@radstube-kettenglueck.example\n6. Oktober 2026, 07:30 bis 08:10 Uhr\nTeilnehmer: Kunibert Kettenglück, Ottokar Speiche, Sieglinde Brückner",
+            "Die Werkstatt hat fünf Beschäftigte und nimmt montags bis freitags Reparaturen an. Samstags werden nur Räder ausgegeben und Zubehör verkauft. Die meisten Kunden bringen das Rad ohne schriftlichen Auftrag. Sieglinde schreibt die Angaben auf einen Durchschlag, den der Kunde erhält. Online kann ein Termin mit dem Text „Werkstattplatz reservieren“ gewählt werden.",
+            "Für die Fehlersuche bei E-Bikes berechnen wir 39 Euro. Manchmal wird dieser Betrag auf die Reparatur angerechnet, manchmal nicht. Ottokar möchte eine klare Regel, weil sonst der Abholschalter diskutiert. Ein normaler Kostenvoranschlag ohne technische Diagnose wurde bisher nicht berechnet.",
+            "Bei Zusatzarbeiten fragt der Monteur per Telefon oder Nachricht nach. Im September gab es zwei Fälle ohne Antwort; die Räder wurden trotzdem fertiggestellt, weil die Bühne frei werden musste. Kunibert möchte, dass künftig nachvollziehbar feststeht, bis zu welchem Betrag gearbeitet werden darf. Kleine Sicherheitsmängel sollen jedenfalls mitgeteilt werden.",
+            "Für nicht abgeholte Räder gibt es zwölf Stellplätze. Nach etwa zwei Wochen wird angerufen. Einen einheitlichen Text mit Frist gibt es nicht. Auf dem alten Aushang stehen fünf Euro Lagergeld täglich und ein Verkauf nach vier Wochen. Tatsächlich wurde noch kein Rad verkauft. Zwei abgestellte Räder gehören laut Kunde einem Leasingunternehmen.",
+            "Die neuen Bedingungen sollen unsere Leistung vernünftig absichern und trotzdem freundlich bleiben. Weder ein Diagnoseauftrag noch eine Reparatur über 300 Euro soll in einem Terminbutton versteckt sein. Frau Straßner soll einen Annahmeschein, eine Zusatzfreigabe und den Abholtext mitbearbeiten.",
+            "Notiert von Sieglinde Brückner. Kunibert bestätigt um 08:18 Uhr: Die Aushangfassung wird bis zur Besprechung nicht nachgedruckt. Der Betrieb arbeitet regulär weiter, strittige Nachberechnungen entscheidet der Inhaber persönlich."
+          ]
+        },
+        {
+          "id": "RK02",
+          "path": "02_Aushang_alt.docx",
+          "title": "Radstube Kettenglück | Werkstattbedingungen",
+          "paragraphs": [
+            "Fahrradhof 8 · 04229 Leipzig\nAushang am Annahmeschalter, zuletzt ersetzt im Juni 2022",
+            "1 Auftrag\nMit der Abgabe des Fahrrads genehmigt der Kunde alle zur Verkehrssicherheit erforderlichen Arbeiten. Kostenschätzungen sind unverbindlich. Ein Diagnoseentgelt von 39 Euro fällt in jedem Fall an.",
+            "2 Fertigstellung\nGenannte Fertigstellungstermine sind unverbindlich. Nach unserer Nachricht ist das Rad binnen drei Tagen abzuholen. Mit Ablauf dieser Frist gilt die Arbeit als abgenommen und die Rechnung als anerkannt.",
+            "3 Zahlung\nZahlung erfolgt bei Abholung. Eine Aufrechnung ist nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen zulässig. Auch bei behaupteten Mängeln ist die gesamte Rechnung zuerst zu zahlen.",
+            "4 Aufbewahrung\nAb dem vierten Tag nach Fertigstellung berechnen wir fünf Euro je Kalendertag. Nach vier Wochen dürfen wir das Fahrrad auf Rechnung des Kunden verkaufen. Das gilt auch, wenn der Kunde nur Leasingnehmer ist.",
+            "5 Mängel und Haftung\nBeanstandungen sind binnen sieben Tagen zu melden. Für Schäden an mitgebrachten Akkus, Zubehör oder Gepäck wird nicht gehaftet. Unsere Haftung ist auf den Auftragswert beschränkt. Bei Probefahrten trägt der Kunde das Risiko.",
+            "6 Online-Termine\nOnline gebuchte Termine sind verbindlich. Bei Nichterscheinen werden 39 Euro berechnet. Mit der Buchung verzichtet der Kunde auf alle Widerrufsrechte, damit wir sofort anfangen können.",
+            "7 Sonstiges\nMündliche Nebenabreden gelten nicht. Änderungen bedürfen der Schriftform. Gerichtsstand ist Leipzig. Unwirksame Bestimmungen werden durch zulässige Bestimmungen gleichen wirtschaftlichen Inhalts ersetzt.\nAblagevermerk: Ausdruck aus alter Kassensoftware, Datei nicht mehr bearbeitbar."
+          ]
+        },
+        {
+          "id": "RK03",
+          "path": "03_Annahmeschein_RK286.pdf",
+          "title": "Radstube Kettenglück | Reparaturauftrag RK-286",
+          "paragraphs": [
+            "Fahrradhof 8 · 04229 Leipzig\nAnnahme: Sieglinde Brückner · 22. September 2026, 08:24 Uhr\nKunde: Bastian Flitz · Lindenhof 4 · 04229 Leipzig",
+            "Fahrrad: Trekkingrad Stadtspur, dunkelgrün, Rahmennummer ST-19-04682. Übergeben wurden das Rad, ein Schlüssel zum Ringschloss und die abnehmbare Frontleuchte. Keine Packtaschen. Sichtbar waren Kratzer am linken Bremshebel und ein angeschlagener hinterer Reflektor.",
+            "Auftrag des Kunden: Hinterradbremse schleift, Kette springt unter Last. Bitte prüfen und instand setzen. Freigabe bis insgesamt 180 Euro einschließlich Material und Umsatzsteuer. Bei höherem Betrag Rückruf vor weiterer Arbeit.",
+            "Gewünschte Fertigstellung: 25. September, weil das Rad für den Arbeitsweg gebraucht wird. Sieglinde hat zugesagt, dass die Werkstatt spätestens am 24. September eine Rückmeldung gibt. Ein Ersatzrad wurde nicht bestellt.",
+            "Kontakt bevorzugt per Nachricht, tagsüber keine längeren Telefonate. Kunde erklärte, Eigentümer zu sein. Einverständnis mit einer kurzen Probefahrt nach Reparatur ist auf dem Durchschlag handschriftlich bestätigt.",
+            "Unterschrift Kunde: Bastian Flitz\nEntgegengenommen: Sieglinde Brückner\nRückseitenhinweis: Bedingungen hängen links neben dem Annahmeschalter. Der Durchschlag für den Kunden enthält nur diese Vorderseite.",
+            "Monteursnotiz vom 23. September, 11:40 Uhr: Kette und Kassette stark verschlissen. Bremsbeläge hinten ersetzen. Ottokar soll wegen Mehrpreis anrufen. Rad bleibt auf Stellplatz 6."
+          ]
+        },
+        {
+          "id": "RK04",
+          "path": "04_Rechnung_RK286.pdf",
+          "title": "Radstube Kettenglück | Rechnung RK-2026-286",
+          "paragraphs": [
+            "Fahrradhof 8 · 04229 Leipzig · rechnung@radstube-kettenglueck.example\nAn Bastian Flitz · Lindenhof 4 · 04229 Leipzig\nRechnungsdatum: 25. September 2026 · Auftrag RK-286",
+            "Sehr geehrter Herr Flitz,\nwir haben die Hinterradbremse instand gesetzt, die Kette und Kassette erneuert und das Rad nachjustiert. Bei der Probefahrt von etwa einem Kilometer trat das Springen der Kette nicht mehr auf. Die ausgebauten Teile liegen bei Abholung zur Ansicht bereit.",
+            "Die Positionen sind einschließlich 19 Prozent Umsatzsteuer angegeben. Gesamt netto 260,50 Euro, Umsatzsteuer 49,50 Euro, Rechnungsbetrag 310,00 Euro. Bisher wurde keine Anzahlung geleistet.",
+            "Bitte holen Sie das Rad nach Rücksprache zu unseren Öffnungszeiten ab. Die Werkstatt ist werktags bis 18 Uhr geöffnet; samstags erfolgt die Ausgabe bis 13 Uhr. Für Rückfragen nennen Sie bitte die Auftragsnummer.",
+            "Bearbeitet von Ottokar Speiche, Rechnung ausgestellt von Sieglinde Brückner.\nZahlung bei Abholung möglich per Karte oder bar. Eine telefonische Kartenzahlung wird nicht angeboten.\nMit freundlichen Grüßen\nKunibert Kettenglück"
+          ],
+          "table": [
+            [
+              "Position",
+              "Menge",
+              "Brutto"
+            ],
+            [
+              "Arbeitszeit",
+              "2 Stunden",
+              "150,00 Euro"
+            ],
+            [
+              "Kette",
+              "1",
+              "45,00 Euro"
+            ],
+            [
+              "Kassette",
+              "1",
+              "75,00 Euro"
+            ],
+            [
+              "Bremsbeläge",
+              "1 Satz",
+              "28,00 Euro"
+            ],
+            [
+              "Kleinteile",
+              "1",
+              "12,00 Euro"
+            ],
+            [
+              "Gesamt",
+              "",
+              "310,00 Euro"
+            ]
+          ]
+        },
+        {
+          "id": "RK05",
+          "path": "05_Terminportal_Beschreibung.pdf",
+          "title": "Radstube | Online-Terminbestätigung",
+          "paragraphs": [
+            "Radstube Kettenglück · Fahrradhof 8 · 04229 Leipzig\nPortalstand: 1. Oktober 2026 · Auszug für Sieglinde Brückner",
+            "Der Kunde wählt Fahrradtyp und Termin. Es gibt drei Auswahlfelder: Inspektion, Reparatur oder Diagnose E-Bike. Das Freitextfeld heißt „Was ist passiert?“. Preise stehen auf dieser Seite nicht. Ein Link führt zur Preisliste, ein zweiter zum alten Aushang.",
+            "Der letzte Button lautet „Werkstattplatz reservieren“. Danach erscheint: „Ihr Termin ist gebucht. Den konkreten Reparaturauftrag besprechen wir vor Ort.“ Die E-Mail wiederholt Datum und Uhrzeit und fordert dazu auf, den Akkuschlüssel mitzubringen. Eine Zahlung oder Kartenreservierung findet nicht statt.",
+            "Im internen Kalender wird der Termin als „Auftrag“ bezeichnet. Diese Bezeichnung sieht der Kunde nicht. Der Monteur darf vor der Annahme keine Ersatzteile kostenpflichtig bestellen. Hat der Kunde das Rad am Abend vorher abgestellt, findet das Annahmegespräch am nächsten Morgen statt.",
+            "Auf Wunsch des Inhabers soll später eine gesonderte Diagnosebuchung mit festem Preis möglich werden. Dafür gibt es bislang weder einen anderen Button noch besondere Erklärungen. Bitte die geplante Funktion bei der aktuellen Dokumentation nicht als bereits vorhanden behandeln.",
+            "Aufgenommen von Sieglinde Brückner am 1. Oktober 2026, 14:20 Uhr. Der Ausdruck wurde mit zwei abgeschlossenen Septemberbuchungen abgeglichen. Beide enthielten nur Termin und Fahrradtyp."
+          ]
+        },
+        {
+          "id": "RK06",
+          "path": "06_Leasingrad_Vermerk.docx",
+          "title": "Radstube | Abholnotiz zum Rad L-44",
+          "paragraphs": [
+            "Interne Ablage Annahme · 5. Oktober 2026, 16:10 Uhr\nAuftrag RK-301 · Kunde: Gernot Windrad, Mühlgasse 9, 04229 Leipzig\nBearbeiter: Sieglinde Brückner",
+            "Das graue Lastenrad steht seit dem 18. September fertig im Hinterraum. Die Rechnung beträgt 96 Euro. Gernot Windrad hat am 19. September telefonisch gesagt, er liege im Krankenhaus und könne es frühestens Anfang Oktober abholen lassen. Seine Nachbarin hätte einen Schlüssel, aber noch keine schriftliche Vollmacht.",
+            "Heute fragte Ottokar, ob wir nach dem Aushang bereits Lagergeld berechnen. Auf dem Annahmeschein steht keine besondere Abholfrist. Die Nachricht vom 18. September lautet nur: „Rad ist fertig, melden Sie sich bitte.“ Ein Zugangsnachweis für eine weitere Nachricht liegt nicht vor.",
+            "Der Kunde bezeichnete das Rad bei Annahme als Dienstrad. Im Rahmen klebt eine Kennzeichnung der MobilLeasing Süd GmbH. Ein Kaufbeleg des Kunden liegt nicht vor. Kunibert möchte vor einer weiteren Nachricht wissen, ob wir den Arbeitgeber oder die Leasinggesellschaft überhaupt anschreiben sollen.",
+            "Vorerst keine Verwertung, keine Herausgabe an die Nachbarin ohne bestätigte Vollmacht. Das Rad ist abgeschlossen, Akkuschlüssel und Ladegerät liegen im beschrifteten Umschlag. Die Stellfläche wird dokumentiert, weil der Gang zur zweiten Hebebühne frei bleiben muss.",
+            "Sieglinde hat für den 7. Oktober einen Rückruf vorgemerkt. Es wurde weder ein Lagerbetrag zugesagt noch eine Schuld anerkannt. Dieser Vermerk hält den Gesprächsstand fest; eine Endentscheidung des Inhabers steht aus."
+          ]
+        }
+      ],
+      "emails": [
+        {
+          "id": "RKE01",
+          "path": "07_Auftrag_an_Kanzlei.eml",
+          "sender": "client",
+          "recipients": [
+            "lawyer"
+          ],
+          "date": "2026-10-06",
+          "time": "09:05:00",
+          "subject": "Radstube / bitte neue Werkstattbedingungen",
+          "attachments": [
+            "RK01",
+            "RK02"
+          ],
+          "body": "Sehr geehrte Frau Straßner,\n\nanbei unser Aushang und die Notiz von heute Morgen. Wir brauchen bitte nicht nur neue Bedingungen, sondern auch einen Annahmeschein, den die Kollegen wirklich benutzen. Vor allem die Zusatzarbeiten müssen besser laufen. Sonst stehe ich am Freitag mit dem Kunden an der Kasse und keiner weiß, wer was zugesagt hat.\n\nIch möchte freundlich bleiben, aber auch nicht auf bereits bestellten Teilen sitzen bleiben. Für bezahlte Diagnose und späteren Auftrag hätte ich gern eine klare Regel. Wenn wir die 39 Euro anrechnen sollen, kann ich das wirtschaftlich machen; dann aber überall gleich.\n\nDie Online-Termine sind momentan nur Reservierungen. Eine kostenpflichtige Buchung kommt vielleicht später. Bitte diese beiden Dinge auseinanderhalten. Den Kundenfall Flitz leite ich Ihnen separat weiter.\n\nMit freundlichen Grüßen\nKunibert Kettenglück"
+        },
+        {
+          "id": "RKE02",
+          "path": "08_Kunde_Rechnung.eml",
+          "sender": "customer",
+          "recipients": [
+            "client"
+          ],
+          "date": "2026-09-25",
+          "time": "18:22:00",
+          "subject": "RK-286 / 310 Euro statt 180 Euro",
+          "attachments": [
+            "RK04"
+          ],
+          "body": "Guten Abend Herr Kettenglück,\n\nich habe gerade die Rechnung gesehen. Auf meinem Zettel stehen höchstens 180 Euro. Ich hatte auf die Nachricht vom Mittwoch geantwortet, dass ich erst wissen möchte, was zwingend gemacht werden muss. Eine Zustimmung zu 310 Euro war das nicht.\n\nIch brauche das Rad am Montag. Bitte sagen Sie mir, was genau ausgetauscht wurde und ob ich die alten Teile sehen kann. Bezahlen möchte ich die beauftragte Arbeit, aber nicht einfach alles, nur weil das Rad jetzt schon fertig ist. Am Telefon sagte Ihr Mitarbeiter, ich müsse erst die volle Summe zahlen und könne mich danach beschweren.\n\nDie Rechnung habe ich noch einmal angehängt, damit wir über denselben Stand sprechen. Ich komme morgen kurz nach zwölf vorbei, wenn wir das vorher klären können.\n\nFreundliche Grüße\nBastian Flitz"
+        },
+        {
+          "id": "RKE03",
+          "path": "09_Werkstattleiter_Rueckmeldung.eml",
+          "sender": "staff",
+          "recipients": [
+            "client",
+            "lawyer"
+          ],
+          "date": "2026-10-06",
+          "time": "12:16:00",
+          "subject": "RK-286 / Freigabe und unser Ablauf",
+          "attachments": [
+            "RK03",
+            "RK05"
+          ],
+          "body": "Guten Tag,\n\nhier sind Annahmeschein und Portalbeschreibung. Bei Flitz habe ich die 310 Euro um 11:52 Uhr geschickt. Die Antwort um 12:07 Uhr war eine Frage. Ich habe danach angerufen, aber niemanden erreicht. Das Rad wurde am Nachmittag trotzdem fertig, weil der Monteur die Kassette schon offen hatte. Eine weitere Freigabe finde ich nicht.\n\nFür die Zukunft brauche ich ein Feld, das jeder Monteur sieht: bis zu welchem Betrag dürfen wir arbeiten und was tun wir, wenn keine Antwort kommt? Nur ein längerer Aushang hilft mir dabei nicht. Wir können Nachrichten am Auftrag speichern, müssen aber den Kollegen sagen, welche Bestätigung reicht.\n\nBei einem Rad eines Lieferdienstes war es anders: Dort hat der Disponent die Freigabe gegeben. Auch dafür wäre eine Zeile sinnvoll, wer überhaupt zustimmen darf.\n\nViele Grüße\nOttokar Speiche"
+        }
+      ],
+      "raw": [
+        {
+          "path": "10_Preisliste.csv",
+          "rows": [
+            [
+              "Leistung",
+              "Einheit",
+              "Bruttopreis_EUR",
+              "Stand",
+              "Anmerkung"
+            ],
+            [
+              "Werkstattarbeit",
+              "Stunde",
+              "75,00",
+              "01.09.2026",
+              "Abrechnung nach Zeit"
+            ],
+            [
+              "E-Bike-Diagnose",
+              "Auftrag",
+              "39,00",
+              "01.09.2026",
+              "Anrechnung bislang uneinheitlich"
+            ],
+            [
+              "Inspektion ohne Teile",
+              "Rad",
+              "89,00",
+              "01.09.2026",
+              "Zusatzbedarf gesondert"
+            ],
+            [
+              "Kette RK-286",
+              "Stück",
+              "45,00",
+              "25.09.2026",
+              "Rechnung RK-2026-286"
+            ],
+            [
+              "Kassette RK-286",
+              "Stück",
+              "75,00",
+              "25.09.2026",
+              "Rechnung RK-2026-286"
+            ],
+            [
+              "Bremsbeläge RK-286",
+              "Satz",
+              "28,00",
+              "25.09.2026",
+              "Rechnung RK-2026-286"
+            ],
+            [
+              "Kleinteile RK-286",
+              "Auftrag",
+              "12,00",
+              "25.09.2026",
+              "Rechnung RK-2026-286"
+            ]
+          ]
+        },
+        {
+          "path": "11_Nachrichten_RK286.txt",
+          "text": "Nachrichtenverlauf Auftrag RK-286\nExport vom Werkstatttelefon · 6. Oktober 2026, 10:15 Uhr\n\n23.09.2026 11:52 Radstube: Guten Tag Herr Flitz, Kette und Kassette sind zusätzlich verschlissen. Zusammen mit Bremse wären es insgesamt 310 Euro. Dürfen wir das so machen? Gruß Ottokar.\n23.09.2026 12:07 Bastian: Uff, das ist deutlich mehr. Was davon muss unbedingt jetzt gemacht werden? Können Sie mich nach 17 Uhr anrufen?\n23.09.2026 12:09 Radstube: Ich versuche es später. Das Rad steht gerade auf der Bühne.\n23.09.2026 17:24 Bastian: Bin jetzt erreichbar.\n24.09.2026 08:43 Radstube: Guten Morgen, gestern nicht geschafft. Ich spreche heute mit dem Chef.\n25.09.2026 15:11 Radstube: Ihr Rad ist fertig. Rechnung kommt per E-Mail. Abholung heute bis 18 Uhr oder morgen bis 13 Uhr.\n25.09.2026 15:34 Bastian: Was wurde jetzt gemacht? Ich hatte noch nichts zusätzlich zugesagt.\n25.09.2026 16:02 Radstube: Bitte rufen Sie Kunibert an. Ich bin heute in der Werkstatt und komme nicht ans Telefon.\n"
+        },
+        {
+          "path": "12_Abholkalender.txt",
+          "text": "Radstube Kettenglück / Annahmebuch\nAuszug 18. September bis 6. Oktober 2026\n\n18.09., 16:30: RK-301, Lastenrad L-44 fertig, 96 Euro. Nachricht an Gernot Windrad geschickt.\n19.09., 10:05: Windrad im Krankenhaus, Nachbarin eventuell später. Schlüssel bleibt hier. Keine Abholvollmacht vorhanden.\n25.09., 15:10: RK-286 fertig, Rechnung 310 Euro. Bastian Flitz will zuerst Mehrarbeit klären.\n26.09., 12:20: Flitz kommt, alte Kette und Kassette gezeigt. Kunibert nicht im Haus. Rad bleibt nach Gespräch bis Montag hier, keine Lagerkosten angekündigt.\n28.09., 09:15: Kunibert bespricht RK-286 persönlich. Zahlung und Übergabe noch nicht im Kassenexport verbucht; Sieglinde soll den Beleg suchen.\n05.10., 16:10: L-44 weiterhin im Hinterraum. Kennzeichnung MobilLeasing Süd am Rahmen gesehen.\n06.10., 08:18: Neuer Aushang erst nach Rückmeldung aus der Kanzlei. Bis dahin Zusatzfreigaben vollständig im Auftrag ablegen.\n"
+        }
+      ]
+    },
+    {
+      "slug": "agb-tierbedarf-pfotenproviant-nuernberg",
+      "title": "Pfotenproviant: AGB für Laden und Onlinehandel",
+      "summary": "Ein Nürnberger Tierbedarfshändler verkauft Futter und Zubehör an Verbraucher und kleinere Wiederverkäufer. Ladenumtausch, Onlinebestellung, Futtersendungen und Sicherungswünsche müssen aufeinander abgestimmt werden.",
+      "contacts": [
+        {
+          "id": "client",
+          "name": "Ottilie Pfotenreich",
+          "email": "ottilie@pfotenproviant.example",
+          "role": "Geschäftsführer",
+          "organisation": "Pfotenproviant Handel GmbH",
+          "address": "Kräutergasse 27, 90403 Nürnberg"
+        },
+        {
+          "id": "lawyer",
+          "name": "Anselm Falkenroth",
+          "email": "falkenroth@kanzlei-falkenroth.example",
+          "role": "Rechtsanwalt",
+          "organisation": "Falkenroth Vertragsrecht",
+          "address": "Torhof 6, 90402 Nürnberg"
+        },
+        {
+          "id": "supplier",
+          "name": "Tassilo Futterbach",
+          "email": "t.futterbach@waldnapf.example",
+          "role": "Vertrieb",
+          "organisation": "Waldnapf Großhandel GmbH",
+          "address": "Lagerbogen 11, 91058 Erlangen"
+        },
+        {
+          "id": "customer",
+          "name": "Adelgunde Sternsprung",
+          "email": "a.sternsprung@postfach-kunde.example",
+          "role": "Kunde",
+          "organisation": "Privatanschrift",
+          "address": "Wiesenhof 14, 90409 Nürnberg"
+        }
+      ],
+      "documents": [
+        {
+          "id": "PP01",
+          "path": "01_Vertriebsbesprechung.docx",
+          "title": "Pfotenproviant Handel GmbH | Vertriebsbesprechung",
+          "paragraphs": [
+            "Kräutergasse 27 · 90403 Nürnberg · service@pfotenproviant.example\n6. Oktober 2026, 10:00 Uhr · Teilnehmer Ottilie Pfotenreich, Rüdiger Leinenstern, Mila Konfetti\nBetreff: Laden, Webshop und Händlerbestellungen",
+            "Der Betrieb verkauft Trockenfutter, Dosenfutter, Spielzeug, Leinen und Schlafplätze. Lebende Tiere werden nicht verkauft. Im Laden arbeiten sechs Beschäftigte, Versand und Lager sitzen im gleichen Gebäude. Online werden Privatkunden in Deutschland beliefert. Acht kleinere Fachgeschäfte bestellen per E-Mail zu Nettopreisen und mit 30 Tagen Zahlungsziel.",
+            "Im Shop gibt es zwei Wege: sofort bezahlen und abholen oder unverbindlich zurücklegen lassen. Die Bestätigungen sehen fast gleich aus. An der Kasse wird deshalb auch bei schon bezahlten Onlinebestellungen von einem normalen Ladenkauf gesprochen. Mila möchte zwei deutlich unterschiedliche Bestätigungstexte.",
+            "Bei Ladenkäufen nehmen wir unbenutztes Zubehör binnen 30 Tagen gegen Gutschein zurück. Für Futter wird das nicht angeboten. Ein Aushang sagt verkürzt „Kein Umtausch bei Futter“. Kunden verstehen darunter zum Teil auch beschädigte Dosen. Das Team benötigt eine knappe, richtige Erklärung für Reklamationen.",
+            "Ein Futtersparpaket soll ab November alle vier Wochen versandt werden. Preis geplant 42 Euro je Paket einschließlich Umsatzsteuer; jederzeit zum nächsten Versand abbestellbar, spätestens drei Tage vorher. Noch unklar ist, ob ein Dauerkauf vereinbart wird oder jeder Versand einen neuen Vertrag bildet. Bisher wird es nicht verkauft.",
+            "Bei Händlern möchten wir die gelieferten Waren bis zur Zahlung abgesichert haben. Ein Händler hat angekündigt, seine Kundenforderungen an eine Bank abzutreten. Waldnapf liefert uns seinerseits unter verlängertem Eigentumsvorbehalt. Die Kanzlei soll hierzu die Vertragskette sehen, bevor ein Text beschlossen wird.",
+            "Gewünschte Ausrichtung: im Privatkundengeschäft ausgewogen und verständlich, im Händlergeschäft möglichst wirksam abgesichert. Keine öffentliche Änderung vor Freigabe durch Ottilie. Vertragsbedingungen und Kassentexte sollen getrennt bleiben.\nProtokoll: Rüdiger Leinenstern, 6. Oktober 2026, 11:12 Uhr"
+          ]
+        },
+        {
+          "id": "PP02",
+          "path": "02_Entwurf_Vertrieb.docx",
+          "title": "Pfotenproviant | Entwurf Verkaufsbedingungen",
+          "paragraphs": [
+            "Interne Fassung von Rüdiger Leinenstern, 29. September 2026\nNoch nicht an Kunden ausgegeben",
+            "1 Geltung\nDiese Verkaufsbedingungen gelten für Laden, Webshop und Großhandel. Jeder Besteller bestätigt, die Ware eigenverantwortlich zu prüfen. Mit der Bestellung wird unser jeweils aktueller Internettext auch für frühere Bestellungen verbindlich.",
+            "2 Vertrag und Lieferung\nMit Eingang einer Bestellung ist der Kauf bestätigt. Bei fehlendem Bestand können wir eine andere Sorte gleicher Preisklasse liefern. Alle Preise enthalten Umsatzsteuer, sofern auf der Händlerpreisliste nichts anderes angegeben ist.",
+            "3 Futter und Hygiene\nFutter, Spielzeug und Schlafplätze sind aus Hygienegründen generell von Rückgabe und Reklamation ausgeschlossen. Andere Ware nehmen wir innerhalb von 14 Tagen nur mit Originalbon und ungeöffneter Verpackung zurück. Für gravierte Anhänger ist jede Haftung ausgeschlossen.",
+            "4 Eigentum und Sicherung\nAlle gelieferten Waren bleiben bis zur Zahlung sämtlicher gegenwärtiger und künftiger Forderungen unser Eigentum. Der Käufer tritt uns schon jetzt sämtliche Forderungen gegen seine Kunden ab. Auf Verlangen darf unser Personal Geschäftsräume betreten und Ware abholen. Eine Freigabe erfolgt nach unserem Ermessen.",
+            "5 Mängel\nDer Käufer muss jede Lieferung innerhalb von drei Tagen prüfen und Mängel schriftlich melden. Erfolgt das nicht, ist die Lieferung genehmigt. Schadensersatz leisten wir höchstens bis zum Kaufpreis. Für Schäden an Tieren wird nicht gehaftet.",
+            "6 Futtersparpaket\nDer Preis kann bei höheren Lieferkosten angepasst werden. Über neue Preise informieren wir in der Versandmail. Ohne Widerspruch binnen 24 Stunden wird das nächste Paket verschickt.",
+            "7 Abschluss\nEs gilt deutsches Recht; Gerichtsstand Nürnberg für alle Kunden. Unwirksame Bestimmungen werden durch wirksame Bestimmungen ersetzt.\nRüdigers Randnotiz: Bitte prüfen lassen. Ich habe Lieferantenbedingungen und einen alten Onlinetext zusammengeführt; für Kunden dürfte das kürzer werden."
+          ]
+        },
+        {
+          "id": "PP03",
+          "path": "03_Rechnung_PP441.pdf",
+          "title": "Pfotenproviant Handel GmbH | Rechnung PP-2026-441",
+          "paragraphs": [
+            "Kräutergasse 27 · 90403 Nürnberg · buchhaltung@pfotenproviant.example\nAn Adelgunde Sternsprung · Wiesenhof 14 · 90409 Nürnberg\nBestellung PP-260921-441 · Rechnung vom 21. September 2026",
+            "Die Bestellung wurde online bezahlt und am 22. September 2026 um 17:42 Uhr im Laden abgeholt. Der Abholbeleg trägt das Kürzel MK. Bestellt waren zwei Säcke Trockenfutter und eine Leine. Das Futter stammt aus Charge WN-260811-B mit Mindesthaltbarkeitsdatum 11. August 2027.",
+            "Futter: 64,00 Euro brutto, darin 4,19 Euro Umsatzsteuer zu 7 Prozent. Leine: 29,00 Euro brutto, darin 4,63 Euro Umsatzsteuer zu 19 Prozent. Gesamt netto 84,18 Euro, Umsatzsteuer 8,82 Euro, Endbetrag 93,00 Euro.",
+            "Der Betrag ist durch Kartenzahlung vollständig beglichen. Eine erneute Zahlung ist nicht erforderlich. Bei Rückfragen nennen Sie bitte die Bestellnummer. Für das Futter werden die verschlossenen Originalgebinde und die Chargenangaben zur Zuordnung benötigt; eine Reklamation kann auch ohne Kassenbesuch gemeldet werden.",
+            "Ausgegeben durch Mila Konfetti · Rechnung erstellt durch Rüdiger Leinenstern.\nPfotenproviant Handel GmbH · Geschäftsführung Ottilie Pfotenreich\nKontakt: service@pfotenproviant.example"
+          ],
+          "table": [
+            [
+              "Artikel",
+              "Menge",
+              "Brutto"
+            ],
+            [
+              "Waldnapf Trockenfutter 6 kg",
+              "2 Säcke",
+              "64,00 Euro"
+            ],
+            [
+              "Leine Nordpfad 2 m",
+              "1",
+              "29,00 Euro"
+            ],
+            [
+              "Abholung",
+              "1",
+              "0,00 Euro"
+            ],
+            [
+              "Gesamt",
+              "",
+              "93,00 Euro"
+            ]
+          ]
+        },
+        {
+          "id": "PP04",
+          "path": "04_Lieferantenbedingungen.pdf",
+          "title": "Waldnapf Großhandel GmbH | Lieferangebot",
+          "paragraphs": [
+            "Lagerbogen 11 · 91058 Erlangen · t.futterbach@waldnapf.example\nAn Pfotenproviant Handel GmbH · Ottilie Pfotenreich\nErlangen, 24. September 2026 · Angebot WN-2026-118",
+            "Sehr geehrte Frau Pfotenreich,\nwir bieten 120 Säcke Trockenfutter zu je sechs Kilogramm zum Nettostückpreis von 21 Euro an. Der Nettowarenwert beträgt 2520 Euro, zuzüglich 176,40 Euro Umsatzsteuer zu 7 Prozent. Gesamtbetrag 2696,40 Euro. Lieferung in zwei gleich großen Chargen am 12. und 26. Oktober, jeweils nach Abrufbestätigung.",
+            "Zahlbar sind die jeweiligen Teilrechnungen innerhalb von 30 Tagen. Die Ware bleibt bis zur Zahlung der zugeordneten Rechnung unser Eigentum. Der Weiterverkauf im ordentlichen Geschäftsgang ist gestattet. Die daraus entstehenden Forderungen werden in Höhe des jeweiligen Rechnungsbetrags im Voraus an uns abgetreten; der Käufer bleibt bis zum Widerruf aus sachlichem Grund zum Einzug ermächtigt.",
+            "Wir haben von Ihnen noch keine Angaben erhalten, ob für Warenlager und Kundenforderungen bereits Sicherheiten zugunsten einer Bank bestehen. Bitte teilen Sie uns dies vor Annahme des Angebots mit. Bei Übersicherung werden nicht benötigte Sicherheiten nach Abstimmung freigegeben. Einzelheiten sollen im schriftlichen Rahmenvertrag festgehalten werden.",
+            "Die Ware wird mit Chargennummer und Mindesthaltbarkeitsdatum geliefert. Beschädigte Paletten sind bei Anlieferung zu fotografieren; verdeckte Schäden teilen Sie bitte nach Entdeckung unter Angabe der Charge mit. Kühlung ist für dieses Produkt nicht erforderlich, trockene Lagerung jedoch schon.",
+            "Dieses Angebot ersetzt noch keinen unterschriebenen Rahmenvertrag. Eine Freigabe zur Verwendung unserer Texte gegenüber Privatkunden ist damit nicht verbunden.\nMit freundlichen Grüßen\nTassilo Futterbach · Vertrieb"
+          ]
+        },
+        {
+          "id": "PP05",
+          "path": "05_Haendleranfrage.docx",
+          "title": "Napf & Nische | Anfrage Wiederverkauf",
+          "paragraphs": [
+            "Napf & Nische e.K. · Talbogen 5 · 90762 Fürth\nInhaber: Gernot Wolkenbunt · gernot@napf-nische.example\nAn Pfotenproviant Handel GmbH\nFürth, 1. Oktober 2026 · Anfrage NN-2026-17",
+            "Sehr geehrte Frau Pfotenreich,\nwir möchten ab November einen Teil unseres Sortiments bei Ihnen beziehen: monatlich etwa 80 Säcke Futter, 30 Leinen und wechselnde Spielzeugartikel. Die Ware verkaufen wir in unserem Laden und über eine kleine Bestellseite an Endkunden weiter.",
+            "Wir benötigen 30 Tage Zahlungsziel. Die Kundenforderungen aus unserem Onlinegeschäft sind einer Bank als Sicherheit zugesagt. Den Vertrag kann ich nachreichen; ich weiß nicht, ob er auch Ladenumsätze oder Barzahlungen erfasst. Unser Steuerberater hat nur gesagt, wir sollten neue Sicherungsabreden nicht einfach unterschreiben.",
+            "Bitte schicken Sie getrennte Preise für Futter und Zubehör. Im letzten Entwurf stand, alle Preise enthielten Umsatzsteuer; die Händlerliste weist aber Nettopreise aus. Wir brauchen für die Buchhaltung klare Rechnungen und eine nachvollziehbare Behandlung von Gutschriften.",
+            "Unverkaufte Saisonartikel möchten wir nach Weihnachten teilweise zurückgeben können. Das ist ein Wunsch für die Verhandlung, keine bisherige Vereinbarung. Geöffnetes Futter werden wir nicht an Sie zurückschicken, bei einer schadhaften Charge brauchen wir allerdings einen Ansprechpartner.",
+            "Wenn wir uns grundsätzlich einigen, kann ich am 15. Oktober in Nürnberg vorbeikommen. Bitte die Kontaktdaten meines Buchhalters erst nach meiner Freigabe in Ihre Kundenliste übernehmen.\nMit freundlichen Grüßen\nGernot Wolkenbunt"
+          ]
+        },
+        {
+          "id": "PP06",
+          "path": "06_Kassenablauf.pdf",
+          "title": "Pfotenproviant | Kassen- und Abholablauf",
+          "paragraphs": [
+            "Kräutergasse 27 · 90403 Nürnberg\nAufgenommen durch Mila Konfetti am 5. Oktober 2026, 08:40 Uhr\nFür die Besprechung mit Ottilie Pfotenreich und der Kanzlei",
+            "Bei einer unverbindlichen Reservierung wird keine Zahlung ausgelöst. Die Ware liegt bis zum Ende des folgenden Werktags zurück. Erst im Laden entscheidet der Kunde über den Kauf. Die Reservierungsmail enthält den Satz „Wir haben Ihre Ware für Sie zurückgelegt“.",
+            "Bei der zweiten Variante zahlt der Kunde online. Die Mail sagt „Ihr Kauf ist abgeschlossen, Abholung ab morgen möglich“. Der Kassenplatz scannt nur noch den Abholcode. Wir drucken keinen neuen Kaufbeleg, sondern auf Wunsch die bereits erzeugte Rechnung aus.",
+            "Die Kollegen sehen in beiden Fällen in der Abholliste nur Name und Artikel. Deshalb wird bei Rückfragen häufig gesagt, Abholkäufe seien grundsätzlich Ladenkäufe. Für die Zukunft wünschen wir ein gut sichtbares Merkmal, ob schon ein bezahlter Kauf oder nur eine Reservierung vorliegt.",
+            "Am Eingang steht „Zubehör tauschen wir binnen 30 Tagen gegen Gutschein um“. Auf dem Bon stehen 14 Tage und Originalverpackung. Für Reklamationen beschädigter Dosen gibt es noch keinen einheitlichen Ablauf. Der Kunde soll die Dose nicht in den Laden tragen müssen, wenn eine aussagekräftige Aufnahme von Charge und Schaden genügt.",
+            "An der Kasse hängen außerdem Hinweise zur geplanten Gravur von Anhängern. Tatsächlich wird die Gravur erst nach einer vom Kunden bestätigten Schreibweise beauftragt. Eine Freigabe für die Bestellung im Shop fehlt noch.\nMila Konfetti · Kassenleitung"
+          ]
+        }
+      ],
+      "emails": [
+        {
+          "id": "PPE01",
+          "path": "07_Mandat_Pfotenproviant.eml",
+          "sender": "client",
+          "recipients": [
+            "lawyer"
+          ],
+          "date": "2026-10-06",
+          "time": "12:05:00",
+          "subject": "PP / AGB Laden und Shop, bitte getrennte Händlerfassung",
+          "attachments": [
+            "PP01",
+            "PP02"
+          ],
+          "body": "Sehr geehrter Herr Falkenroth,\n\nanbei unser Gesprächsstand und Rüdigers Entwurf. Bitte machen Sie uns Bedingungen, die wir wirklich benutzen können. Privatkunden sollen weder abgeschreckt werden noch glauben, wir nähmen jede halb verbrauchte Packung zurück. Bei Geschäftskunden möchten wir Zahlung und Ware ordentlich absichern.\n\nDie geplanten Sparpakete sind noch nicht gestartet. Ich brauche dazu eine Entscheidungsvorlage und anschließend passende Texte, aber bitte nicht so formulieren, als hätten unsere jetzigen Kunden schon ein Abo. Die Händlerbestellungen laufen per E-Mail, nicht über den Privatkundenshop.\n\nBitte sehen Sie sich auch den Abholablauf an. Ich vermute, dass unser Kassenpersonal zwei unterschiedliche Vorgänge gleich behandelt. Das Lieferangebot von Waldnapf leite ich separat weiter. Veröffentlichung erst nach meiner Freigabe.\n\nFreundliche Grüße\nOttilie Pfotenreich"
+        },
+        {
+          "id": "PPE02",
+          "path": "08_Kundin_Rueckgabe.eml",
+          "sender": "customer",
+          "recipients": [
+            "client"
+          ],
+          "date": "2026-09-28",
+          "time": "18:37:00",
+          "subject": "PP-260921-441 / Futter und Leine",
+          "attachments": [
+            "PP03"
+          ],
+          "body": "Guten Abend,\n\nich habe online bezahlt und die Ware am 22. September abgeholt. Einen Futtersack habe ich geöffnet, der andere ist noch versiegelt. Mein Hund verträgt die Sorte offenbar nicht gut. Die Leine ist unbenutzt und liegt noch mit Anhänger hier.\n\nIm Laden wurde mir gesagt, bei Abholung gäbe es grundsätzlich keine Rückgabe und für Tierartikel ohnehin nicht. Am Eingang steht aber 30 Tage für Zubehör. Ich möchte bitte wissen, was für meine Onlinebestellung gilt. Ich schicke Ihnen die Rechnung nochmals mit.\n\nAußerdem war eine Dose aus einem anderen Einkauf eingedrückt. Davon sende ich bei Bedarf ein Foto; bitte nicht mit diesen zwei Säcken verwechseln. Mir geht es hier erst einmal um die Bestellung 441 und darum, dass ich nicht dreimal in den Laden fahren muss.\n\nViele Grüße\nAdelgunde Sternsprung"
+        },
+        {
+          "id": "PPE03",
+          "path": "09_Lieferangebot_Anhang.eml",
+          "sender": "supplier",
+          "recipients": [
+            "client"
+          ],
+          "date": "2026-09-24",
+          "time": "14:08:00",
+          "subject": "WN-2026-118 / Konditionen und Rahmenvertrag",
+          "attachments": [
+            "PP04"
+          ],
+          "body": "Sehr geehrte Frau Pfotenreich,\n\nanbei das konkrete Angebot mit den beiden Lieferterminen. Bei jeweils 60 Säcken ergibt sich je Lieferung ein Nettobetrag von 1260 Euro zuzüglich 88,20 Euro Umsatzsteuer, insgesamt 1348,20 Euro. Beide Lieferungen zusammen entsprechen dem Betrag im Angebot.\n\nBitte sagen Sie uns vor Annahme, ob eine Bank bereits Sicherheiten am Lager oder an Weiterverkaufsforderungen hat. Unsere Buchhaltung möchte nicht erst nach einer offenen Rechnung davon erfahren. Die Zahlung kann pro Lieferung laufen; eine Vorauszahlung ist hier nicht vorgesehen.\n\nFür Ihre Privatkunden brauchen Sie eigene Bedingungen. Unsere Klauseln sind für Händler geschrieben. Bei Fragen zur Charge oder Lagerung sprechen Sie gern direkt mit mir.\n\nMit freundlichen Grüßen\nTassilo Futterbach"
+        }
+      ],
+      "raw": [
+        {
+          "path": "10_Sortiment_Kanaele.csv",
+          "rows": [
+            [
+              "Artikel",
+              "Produkt",
+              "Bruttopreis_EUR",
+              "Umsatzsteuer_Prozent",
+              "Kanal",
+              "Besonderheit"
+            ],
+            [
+              "WN6",
+              "Trockenfutter 6 kg",
+              "32,00",
+              "7",
+              "Laden und online",
+              "Versiegelter Sack"
+            ],
+            [
+              "DO4",
+              "Dosenfutter 400 g",
+              "2,40",
+              "7",
+              "Laden und online",
+              "Charge auf Boden"
+            ],
+            [
+              "LN2",
+              "Leine Nordpfad",
+              "29,00",
+              "19",
+              "Laden und online",
+              "Zubehör"
+            ],
+            [
+              "SP1",
+              "Spielring",
+              "9,90",
+              "19",
+              "Laden und online",
+              "Serienware"
+            ],
+            [
+              "AN1",
+              "Anhänger mit Gravur",
+              "18,90",
+              "19",
+              "Laden",
+              "Schreibweise bestätigen"
+            ],
+            [
+              "PL1",
+              "Schlafplatz",
+              "79,00",
+              "19",
+              "Laden und online",
+              "Waschbarer Bezug"
+            ],
+            [
+              "ABO",
+              "Futtersparpaket",
+              "42,00",
+              "7",
+              "Geplant",
+              "Noch nicht im Verkauf"
+            ]
+          ]
+        },
+        {
+          "path": "11_Kassenchat.txt",
+          "text": "Pfotenproviant / Team Kasse\nAuszug vom 6. Oktober 2026, 13:00 Uhr\n\n28.09.2026 09:14 Mila: Frau Sternsprung war wegen einer online bezahlten Abholung da. Bitte nicht noch einmal pauschal „Ladenkauf“ sagen, ich kläre das mit Ottilie.\n28.09.2026 09:18 Rüdiger: Der Bontext mit 14 Tagen ist noch vom alten System. Am Eingang stehen 30. Ich habe nichts Neues beschlossen.\n28.09.2026 09:21 Ottilie: Bitte beide Texte fotografieren und nicht nur einen ersetzen. Wir brauchen die Entscheidung für Ladenumtausch und Online-Rückgabe getrennt.\n05.10.2026 08:57 Mila: Ablauf aufgeschrieben. Reservierung und bezahlte Abholung sehen in unserer Liste identisch aus.\n05.10.2026 09:03 Rüdiger: Bei Händlern steht in der Liste netto. Mein Entwurf sagt überall brutto, das muss noch durchgesehen werden.\n06.10.2026 12:42 Ottilie: Unterlagen sind beim Anwalt. Kein Abo in den Shop stellen, bevor die Bedingungen und die Kündigung geklärt sind.\n"
+        },
+        {
+          "path": "12_Telefonnotiz_Haendler.txt",
+          "text": "Pfotenproviant / Telefonnotiz\n2. Oktober 2026, 11:47 bis 11:58 Uhr\nRüdiger Leinenstern mit Gernot Wolkenbunt, Napf & Nische\n\nHerr Wolkenbunt ruft aus dem Lieferwagen an. Er hat die Händleranfrage unterschrieben geschickt, aber den Bankvertrag noch nicht gefunden. Die Finanzierung läuft auf seinen Einzelbetrieb. Er meint, alle Forderungen seien erfasst, ist sich aber bei Bargeschäften nicht sicher. Er will seinen Buchhalter fragen.\n\nDie geplante Bestellung im November ist noch unverbindlich. Herr Wolkenbunt hat nicht zugesagt, Saisonware ohne Rückgabemöglichkeit abzunehmen. Wir haben umgekehrt keine Rücknahme nach Weihnachten versprochen. Beide wollen vor einem ersten größeren Auftrag einen kurzen Rahmenvertrag.\n\nRüdiger erläutert, dass 30 Tage Zahlungsziel grundsätzlich besprochen werden können. Über verlängerten Eigentumsvorbehalt und Vorausabtretung wurde noch keine Vereinbarung getroffen. Die bisher versandte Preisliste trägt den Stand 15. September 2026 und enthält Nettopreise. Eine unterschriebene Annahme des Entwurfs liegt nicht vor.\n\nRückruf nach Eingang der Bankunterlagen. Keine Lieferung auf diese Telefonnotiz ausgelöst.\n"
+        }
+      ]
+    }
+  ]
+}

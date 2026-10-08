@@ -1,6 +1,14 @@
 {
   "schema_version": 1,
   "assets": {
+    "agb-werkstatt.zip": "agb-werkstatt-v1.0.0",
+    "agb-werkstatt-portable.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-webshop-funkwerk-berlin.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-webshop-funkwerk-berlin-einzelpdfs.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-fahrradwerkstatt-kettenglueck-leipzig.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-fahrradwerkstatt-kettenglueck-leipzig-einzelpdfs.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-tierbedarf-pfotenproviant-nuernberg.zip": "agb-werkstatt-v1.0.0",
+    "testakte-agb-tierbedarf-pfotenproviant-nuernberg-einzelpdfs.zip": "agb-werkstatt-v1.0.0",
     "kanzlei-website-redaktion.zip": "kanzlei-website-redaktion-v1.0.0",
     "kanzlei-website-redaktion-portable.zip": "kanzlei-website-redaktion-v1.0.0",
     "arbeitszeugnispruefer.zip": "arbeitszeugnispruefer-v445.34.0",
