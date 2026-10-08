@@ -56,7 +56,7 @@ Deutsche Vergueterschuldner (Kapitalgesellschaften, Auftraggeber, Lizenznehmer) 
 
 ### Verfahren
 
-1. **Freistellungsbescheinigung (§ 50c Abs. 2 EStG)**: vor der Zahlung. Geltungsdauer bis zu drei Jahre. Vergueterschuldner darf reduziert einbehalten.
+1. **Freistellungsbescheinigung (§ 50c Abs. 2 EStG)**: vor der Zahlung. Geltungsdauer höchstens fünf Jahre (§ 50c Abs. 2 Satz 4 EStG). Vergueterschuldner darf reduziert einbehalten.
 2. **Erstattung (§ 50c Abs. 3 EStG)**: nach Einbehalt; rueckwirkend. Frist vier Jahre nach Ablauf des Kalenderjahres der Steuerentstehung.
 3. **Datenuebermittlungs-Verfahren (DAV)** bei Banken/Wertpapierdienstleistern.
 4. **Eilverfahren** bei nachweislichen Steuern: in der Regel nicht — Standardbearbeitungsdauer 6 bis 24 Monate.
@@ -157,7 +157,7 @@ Die konkreten Formularnummern ändern sich periodisch; **stets über das BZSt-On
 
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 |---|---|---|---|
-| Freistellungsbescheinigung vorab (§ 50c Abs. 2 EStG) vs. Erstattung (§ 50c Abs. 3 EStG) | vor Zahlung; bis zu 3 Jahre Geltung; reduzierter Einbehalt | nach Einbehalt; 4 Jahre Frist | bei regelmäßigen Zahlungen Pfad A; bei einmaligen Zahlungen Pfad B |
+| Freistellungsbescheinigung vorab (§ 50c Abs. 2 EStG) vs. Erstattung (§ 50c Abs. 3 EStG) | vor Zahlung; höchstens 5 Jahre Geltung (§ 50c Abs. 2 Satz 4 EStG); reduzierter Einbehalt | nach Einbehalt; 4 Jahre Frist | bei regelmäßigen Zahlungen Pfad A; bei einmaligen Zahlungen Pfad B |
 | MTRL (§ 43b EStG) vs. DBA-Erstattung | EU-MTRL 0 Prozent bei 10 Prozent Beteiligung, 12 Monate | DBA-Hoechstsatz 5/15 Prozent | MTRL vorrangig — antragsfaehig beim BZSt parallel |
 | Substanz aufbauen vs. Briefkasten-Holding | Personal, Buero, Geschäftstaetigkeit, Investitionsentscheidungen | Briefkasten / Treuhandverwaltung | bei wesentlichen Erstattungsvolumina Substanz |
 | Einspruch vs. Klage | Verwaltungsverfahren beim BZSt, dann FG Koeln | Direkt Klage bei FG Koeln nach Einspruchsablehnung | erst Einspruch, dann Klage — sonst Unzulaessigkeit |
