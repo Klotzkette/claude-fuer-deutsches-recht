@@ -30,7 +30,13 @@ jobs:
         run: |
           python3 -m pip install -r requirements.txt
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2 fonts-croscore fonts-crosextra-carlito
+          mkdir -p "$HOME/.config/fontconfig/conf.d"
+          cp scripts/data/gesellschafterstreit-fontconfig.conf "$HOME/.config/fontconfig/conf.d/99-gesellschafterstreit.conf"
+          fc-cache -f
+          fc-match Arial
+          fc-match 'Times New Roman'
+          fc-match Calibri
       - name: Version und Quellen prüfen
         run: |
           VERSION=$(python3 -c "import json;print(json.load(open('gesellschafterstreit/.claude-plugin/plugin.json'))['version'])")
@@ -46,6 +52,14 @@ jobs:
           # Beide Testakten-ZIP-Varianten entstehen mit den zentralen Buildern.
           python3 scripts/build-gesellschafterstreit-release.py "$RUNNER_TEMP/gesellschafterstreit-dist"
           python3 scripts/test-gesellschafterstreit-update.py --dist "$RUNNER_TEMP/gesellschafterstreit-dist"
+      - name: Fehlgeschlagenen PDF-Bau zur Sichtprüfung sichern
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gesellschafterstreit-pdf-diagnose
+          path: ${{ runner.temp }}/gesellschafterstreit-dist
+          if-no-files-found: ignore
+          retention-days: 7
       - name: Release veröffentlichen
         env:
           GH_TOKEN: ${{ github.token }}
