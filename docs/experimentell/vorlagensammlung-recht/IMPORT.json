@@ -1,0 +1,19 @@
+{
+  "source_repository": "https://github.com/Klotzkette/vorlagensammlung-recht",
+  "source_commit": "55d1750657fbb09b1b322bd3b26df8d3e1f4e35d",
+  "source_version": "v4.91.0",
+  "copied_on": "2026-10-08",
+  "source_files": 5274,
+  "main_templates": 981,
+  "court_templates": 113,
+  "license": "Apache-2.0 OR MIT",
+  "changes": [
+    "Public navigation and download URLs point to this separate copy.",
+    "Complete offline bundles are rebuilt from the copied files.",
+    "The source README identifies this snapshot and its limits.",
+    "Two empty list items in handelsvertretervertrag-international were removed; its ODT and Markdown ZIP were regenerated without changing legal clauses."
+  ],
+  "excluded_from_copy": ["Git history and repository-local credentials"],
+  "marketplace_integration": false,
+  "legal_content_revised": false
+}

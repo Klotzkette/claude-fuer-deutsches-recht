@@ -1,0 +1,55 @@
+# 1. Vertragliche Vorlagen — Allgemeines und Bereichsübergreifendes
+
+Diese Rechtsgebietsansicht bündelt die Vorlagen aus `Allgemeines und Bereichsübergreifendes` innerhalb der Sammlung `1. Vertragliche Vorlagen`.
+
+Die Links führen auf die kanonischen Vorlagenordner. Dort liegen README, Markdown, Markdown-ZIP, ODT und Rubric.
+
+Zurück zu [1. Vertragliche Vorlagen](../).
+
+## Vorlagen
+
+- [Abtretungsvereinbarung für Geldforderungen (§§ 398 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/abtretungsvereinbarung-forderung/)
+- [Allgemeine Anwaltliche Vollmacht](../../../allgemeines-und-bereichsuebergreifendes/vollmacht-allgemein/)
+- [Auftrag zum Klavierstimmen](../../../allgemeines-und-bereichsuebergreifendes/klavierstimmauftrag/)
+- [Auftragsvertrag über ein Gemälde oder Portrait](../../../allgemeines-und-bereichsuebergreifendes/auftragsvertrag-gemaelde-portrait/)
+- [Auftragsvertrag über eine Portraitbüste](../../../allgemeines-und-bereichsuebergreifendes/auftragsvertrag-portraetbueste/)
+- [Beschränkte persönliche Dienstbarkeit als Leitungsrecht (§ 1090 BGB, § 1092 Abs. 2 BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/beschraenkte-persoenliche-dienstbarkeit-leitungsrecht/)
+- [Bestellung einer Grunddienstbarkeit als Geh-, Fahr- und Leitungsrecht (§ 1018 BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/grunddienstbarkeit-wege-und-leitungsrecht/)
+- [Bestellung einer Reallast zur Sicherung von Versorgungs- und Pflegeleistungen (Altenteil/Leibgeding, § 1105 BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/reallast-versorgungsleistungen-altenteil/)
+- [Bestellung eines dinglichen Vorkaufsrechts an einem Grundstück (§§ 1094–1104 BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/dingliches-vorkaufsrecht-bestellung/)
+- [Bestellung eines Wohnungsrechts als beschränkte persönliche Dienstbarkeit (§ 1093 BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/wohnungsrecht-bestellung-notariell/)
+- [Catering- und Eventdienstleistungsvertrag](../../../allgemeines-und-bereichsuebergreifendes/catering-und-eventdienstleistungsvertrag/)
+- [Deklaratorisches Schuldanerkenntnis (§ 781 BGB)](../../../allgemeines-und-bereichsuebergreifendes/schuldanerkenntnis-deklaratorisch/)
+- [Garantie- und Freistellungsvereinbarung B2B](../../../allgemeines-und-bereichsuebergreifendes/garantie-und-freistellungsvereinbarung-b2b/)
+- [Generalvollmacht (umfassende rechtsgeschäftliche Vertretungsmacht)](../../../allgemeines-und-bereichsuebergreifendes/generalvollmacht/)
+- [Gewerblicher Reinigungsdienstleistungsvertrag](../../../allgemeines-und-bereichsuebergreifendes/reinigungsdienstleistungsvertrag-gewerbe/)
+- [Haftungsausschluss Erklärung](../../../allgemeines-und-bereichsuebergreifendes/haftungsausschluss-erklaerung/)
+- [Harte Patronatserklärung (§§ 311 Abs. 1, 280, 765 BGB)](../../../allgemeines-und-bereichsuebergreifendes/patronatserklaerung-hart/)
+- [Kaufvertrag über bewegliche Sachen (§§ 433 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/kaufvertrag-bewegliche-sachen/)
+- [Konstitutives (abstraktes) Schuldanerkenntnis (§ 781 BGB)](../../../allgemeines-und-bereichsuebergreifendes/schuldanerkenntnis-konstitutiv/)
+- [Leihvertrag (§§ 598–606 BGB)](../../../allgemeines-und-bereichsuebergreifendes/leihvertrag-bgb/)
+- [Maklervertrag über Immobilien (§§ 652 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/maklervertrag-immobilien/)
+- [Mandatsvereinbarung mit separater Honorarvereinbarung, Haftungsbegrenzung und Datenschutz / Client Engagement Agreement](../../../allgemeines-und-bereichsuebergreifendes/mandatsvereinbarung-honorar-haftung-datenschutz-zweisprachig/)
+- [Mandatsvertrag mit Vergütungsvereinbarung (§ 3a RVG)](../../../allgemeines-und-bereichsuebergreifendes/mandatsvertrag-anwaltsvergutung/)
+- [Nachbarrechtsvereinbarung über Grenzbebauung und Grenzeinrichtungen (§§ 912 ff., 921, 922 BGB)](../../../allgemeines-und-bereichsuebergreifendes/nachbarrechtsvereinbarung-grenzbebauung/)
+- [Nießbrauchsbestellung an einem Grundstück (§§ 1030 ff. BGB, § 873 BGB)](../../../allgemeines-und-bereichsuebergreifendes/niessbrauchsbestellung-grundstueck-notariell/)
+- [Patronatserklärung — harte und weiche Variante (§§ 241 Abs. 1, 311 Abs. 1 BGB)](../../../allgemeines-und-bereichsuebergreifendes/patronatserklaerung-hart-weich/)
+- [Projektmanagementvertrag im Mittelstand](../../../allgemeines-und-bereichsuebergreifendes/projektmanagementvertrag-mittelstand/)
+- [Ratenzahlungs- und Stundungsvereinbarung mit Verfallklausel (§§ 271, 286, 288, 367 BGB)](../../../allgemeines-und-bereichsuebergreifendes/ratenzahlungsvereinbarung-verfallklausel/)
+- [Schenkungsvertrag (§§ 516 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/schenkungsvertrag/)
+- [Schenkungsvertrag (§§ 516, 518 BGB, notarielle Beurkundung)](../../../allgemeines-und-bereichsuebergreifendes/schenkungsvertrag-notariell/)
+- [SelbstSchuldnerischer Bürgschaftsvertrag](../../../allgemeines-und-bereichsuebergreifendes/buergschaftsvertrag-selbstschuldnerisch/)
+- [Sicherheitsdienstvertrag für Veranstaltungen](../../../allgemeines-und-bereichsuebergreifendes/sicherheitsdienstvertrag-veranstaltung/)
+- [Stundungsvereinbarung für Geldforderungen (§§ 271, 205, 286 BGB)](../../../allgemeines-und-bereichsuebergreifendes/stundungsvereinbarung/)
+- [Vergleichsvereinbarung (außergerichtlicher Vergleich, § 779 BGB)](../../../allgemeines-und-bereichsuebergreifendes/vergleichsvereinbarung/)
+- [Vergleichsvorschlag außergerichtlich und im Prozess](../../../allgemeines-und-bereichsuebergreifendes/vergleichsvorschlag-prozess-und-aussergerichtlich/)
+- [Verschwiegenheitsvereinbarung (NDA) zwischen Unternehmen](../../../allgemeines-und-bereichsuebergreifendes/verschwiegenheitsvereinbarung-nda/)
+- [Vertrag über Schuldübernahme und Schuldbeitritt (§§ 414 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/schulduebernahme-und-schuldbeitritt/)
+- [Verwahrungsvertrag (§§ 688 ff. BGB)](../../../allgemeines-und-bereichsuebergreifendes/verwahrungsvertrag/)
+- [Vollmacht Kanzlei und Vertretung zweisprachig](../../../allgemeines-und-bereichsuebergreifendes/vollmacht-kanzlei-und-vertretung-zweisprachig/)
+- [Vorvertrag über den Abschluss eines Hauptvertrags (§§ 145 ff., 311 Abs. 1 BGB)](../../../allgemeines-und-bereichsuebergreifendes/vorvertrag-hauptvertrag/)
+- [Wartungsvertrag für Gebäudetechnik](../../../allgemeines-und-bereichsuebergreifendes/wartungsvertrag-gebaeudetechnik/)
+- [Werklieferungsvertrag über die Herstellung und Lieferung beweglicher Sachen (§ 650 BGB)](../../../allgemeines-und-bereichsuebergreifendes/werklieferungsvertrag/)
+- [Werkvertrag für Dienstleistungen mit Abnahme und Leistungsbeschreibung](../../../allgemeines-und-bereichsuebergreifendes/werkvertrag-dienstleistungen-abnahme/)
+- [Werkvertrag über die Reparatur eines Klaviers](../../../allgemeines-und-bereichsuebergreifendes/klavier-reparatur-werkvertrag/)
+- [Werkvertrag über Malerarbeiten in einer Wohnung](../../../allgemeines-und-bereichsuebergreifendes/malerarbeiten-wohnung-werkvertrag/)

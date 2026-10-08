@@ -1,0 +1,77 @@
+# Arbeitsrecht
+
+Arbeitsverträge, Kündigung, Betriebsrat, Vergütung, Zeugnisse, arbeitsgerichtliche Klagen und Personalprozesse.
+
+**Navigation:** [Startseite](../) · [Direktdownloads dieses Bereichs](../DOWNLOADS.md#haupt-arbeitsrecht) · [Alle Downloads](../DOWNLOADS.md#schnellzugriff) · [Nach Dokumenttyp](../kategorien/) · [Arbeitsabläufe](../WORKFLOWS.md) · [Gesamtes Repository als ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/raw/main/docs/experimentell/vorlagensammlung-recht/dist/vorlagensammlung-recht-gesamt.zip)
+
+## Aufbau
+
+Jede Vorlage in diesem Themenbereich liegt in einem eigenen Unterordner und enthält:
+
+- eine bearbeitbare Markdown-Fassung mit sprechendem Dateinamen identisch zum Vorlagenordner, etwa `<vorlagen-slug>.md`; generische Namen wie `vertrag.md`, `text.md`, `antrag.md`, `vorlage.md` oder `skill.md` sind unzulässig;
+- eine gleichnamige editierbare ODT-Bürofassung;
+- eine README mit Anwendungsbereich, Downloadlinks, Normen- und Quellenankern;
+- eine `rubric.yaml` für die automatisierte Qualitätsprüfung.
+
+Alle Vorlagen verwenden die verbindliche Dezimalgliederung `1`, `1.1`, `1.1.1` und lassen zwischen Gliederungspunkt und Inhalt eine Leerzeile.
+
+## Zwingende Formfalle bei Befristungen nach § 14 Abs. 4 TzBfG
+
+Eine Befristungsabrede muss vor Arbeitsaufnahme schriftlich vereinbart sein. Sicher ist die eigenhändige Unterzeichnung beider Parteien auf Papier. Elektronisch genügt nur die qualifizierte elektronische Signatur beider Parteien nach § 126a BGB. E-Mail, Scan, eingescannte Unterschrift, bloße PDF-Signatur, Portalbestätigung, einfache elektronische Signatur, fortgeschrittene elektronische Signatur und einfache DocuSign-/eSign-Lösungen reichen nicht aus. Maßgeblich ist nicht der Name des Signaturtools, sondern die tatsächliche qualifizierte Signaturqualität und der Zugang der formwirksamen Befristungsabrede vor Arbeitsbeginn.
+
+Rechtsfolge eines Formverstoßes: Die Befristung ist unwirksam; der Arbeitsvertrag gilt nach § 16 Satz 1 TzBfG als auf unbestimmte Zeit geschlossen. Die Arbeitnehmerseite muss die Unwirksamkeit grundsätzlich innerhalb der Dreiwochenfrist des § 17 TzBfG durch Befristungskontrollklage geltend machen. Arbeitsgericht Berlin, Urteil vom 28. September 2021 — 36 Ca 15296/20, Landesarbeitsgericht Berlin-Brandenburg, Urteil vom 16. März 2022 — 23 Sa 1133/21, und Arbeitsgericht Gera, Urteil vom 7. März 2024 — 2 Ca 936/23, sind in den READMEs der Vorlagen `befristeter-arbeitsvertrag-tzbfg`, `entfristungsklage-17-tzbfg` und `arbeitsvertrag-unbefristet` ausgewertet.
+
+## Vorlagen in diesem Bereich
+
+| Vorlage | Inhalt |
+|---|---|
+| [Abmahnung im Arbeitsverhältnis](abmahnung/) | Abmahnung im Arbeitsverhältnis — Abmahnungsschreiben des Arbeitgebers wegen Verletzung arbeitsvertraglicher Pflichten mit Rüge-, Warn- und Dokumentationsfunktion. |
+| [Anhörung der Arbeitnehmerin oder des Arbeitnehmers vor Verdachtskündigung](anhoerung-verdachtskuendigung-arbeitnehmer/) | Anhörung der Arbeitnehmerin oder des Arbeitnehmers vor Verdachtskündigung — Strukturierter Anhörungsbogen vor einer Verdachtskündigung mit konkretem Vorwurf, Beweismitteln, Stellungnahmefrist und Dokumentation der Entlastungsmöglichkeiten. |
+| [Anspruchsschreiben Betriebsrente nach BetrAVG](anspruchsschreiben-betriebsrente-betravg/) | Anspruchsschreiben Betriebsrente nach BetrAVG — Außergerichtliche Geltendmachung von Zahlung, Nachzahlung, Korrektur oder Anpassung einer Betriebsrente mit Versorgungszusage, Unverfallbarkeit, Berechnungstabelle und Beleganforderung. |
+| [Antrag auf Einsetzung einer Einigungsstelle (§ 76 BetrVG)](antrag-einigungsstelle-76-betrvg/) | Antrag auf Einsetzung einer Einigungsstelle (§ 76 BetrVG) — Arbeitsgerichtlicher Beschlussantrag zur Einsetzung einer Einigungsstelle mit Regelungsgegenstand, Besetzungsvorschlag, Vorverhandlung und offensichtlicher Unzuständigkeit als Prüfpunkt. |
+| [Antrag auf einstweilige Verfügung auf Beschäftigung](antrag-einstweilige-verfuegung-beschaeftigung/) | Antrag auf einstweilige Verfügung auf Beschäftigung — Arbeitsgerichtlicher Eilantrag auf tatsächliche Beschäftigung bei Freistellung, Kündigung oder vertragswidriger Nichtbeschäftigung. |
+| [Antrag auf einstweilige Verfügung im betriebsverfassungsrechtlichen Beschlussverfahren](antrag-einstweilige-verfuegung-betriebsrat/) | Antrag auf einstweilige Verfügung im betriebsverfassungsrechtlichen Beschlussverfahren — Eilantrag des Betriebsrats zur Sicherung von Beteiligungs-, Unterlassungs- oder Mitbestimmungsrechten. |
+| [Antrag auf Elternzeit und Teilzeit während der Elternzeit](antrag-elternzeit-teilzeit-beeg/) | Antrag auf Elternzeit und Teilzeit während der Elternzeit — Schreiben zur verbindlichen Anmeldung von Elternzeit und Verringerung der Arbeitszeit mit Zeitraum, Verteilung, Arbeitgeberreaktion, Zustimmungsfiktion und Planungsdaten. |
+| [Antrag im Beschlussverfahren zur personellen Einzelmaßnahme (§ 99 BetrVG)](beschlussverfahren-betriebsrat-99-betrvg/) | Antrag im Beschlussverfahren zur personellen Einzelmaßnahme (§ 99 BetrVG) — Zustimmungsersetzung, Zustimmungsfiktion oder Aufhebung einer Einstellung, Eingruppierung, Umgruppierung oder Versetzung. |
+| [Arbeitnehmerüberlassungsvertrag nach AÜG](arbeitnehmerueberlassungsvertrag-aueg/) | Arbeitnehmerüberlassungsvertrag nach AÜG — Rahmenvertrag zwischen Verleiher und Entleiher mit Erlaubnisprüfung, Konkretisierung, Equal-Pay-Kontrolle und Einsatzdokumentation. |
+| [Aufhebungsvertrag (§ 623 BGB)](aufhebungsvertrag/) | Aufhebungsvertrag (§ 623 BGB) — Einvernehmliche Beendigung eines Arbeitsverhältnisses mit Abfindung, Freistellung, Zeugnis und Erledigungsklausel — Gebot fairen Verhandelns beachten. |
+| [Auskunft zur betrieblichen Altersversorgung nach BetrAVG](auskunft-betriebliche-altersversorgung-betravg/) | Auskunft zur betrieblichen Altersversorgung nach BetrAVG — Auskunftsverlangen zu Durchführungsweg, Versorgungszusage, Anwartschaft, Unverfallbarkeit, Rentenbeginn, Hinterbliebenenleistung und Anpassungsprüfung. |
+| [Befristeter Arbeitsvertrag (TzBfG)](befristeter-arbeitsvertrag-tzbfg/) | Befristeter Arbeitsvertrag (TzBfG) — Mustervertrag für die Begründung eines befristeten Arbeitsverhältnisses mit § 14-Abs. 4-TzBfG-Formkontrolle, Papierunterzeichnung oder qualifizierter elektronischer Signatur, § 16-TzBfG-Rechtsfolge und Signaturprüfanlage. |
+| [Betriebsratsanhörung vor Kündigung](betriebsratsanhoerung-kuendigung/) | Betriebsratsanhörung vor Kündigung — Anhörungsschreiben an den Betriebsrat mit Personaldaten, Kündigungsart, Kündigungsgründen und Anlagenverzeichnis. |
+| [Betriebsratsbeschluss und Sitzungsniederschrift](betriebsratsbeschluss-protokoll/) | Betriebsratsbeschluss und Sitzungsniederschrift — Beschluss- und Protokollvorlage für Betriebsratssitzungen mit ordnungsgemäßer Ladung, Beschlussfähigkeit, Stimmenverhältnis und Anlagen. |
+| [Betriebsratsbeschluss zur Beauftragung einer Rechtsanwältin](betriebsrat-beauftragung-rechtsanwalt/) | Betriebsratsbeschluss zur Beauftragung einer Rechtsanwältin — Beschlussvorlage für die rechtssichere Beauftragung anwaltlicher Beratung oder Vertretung durch den Betriebsrat mit Kosten- und Gegenstandsbeschreibung. |
+| [Betriebsvereinbarung zum Einsatz von KI-Systemen](betriebsvereinbarung-ki-systeme/) | Betriebsvereinbarung zum Einsatz von KI-Systemen — Betriebsverfassungsrechtliche Vereinbarung über Systemregister, Freigabe, Datenschutz, menschliche Kontrolle, Schulung und Grenzen KI-gestützter Leistungs- oder Verhaltensauswertung. |
+| [Betriebsvereinbarung zur Arbeitszeiterfassung](betriebsvereinbarung-arbeitszeiterfassung/) | Betriebsvereinbarung zur Arbeitszeiterfassung — Betriebsverfassungsrechtliche Vereinbarung über Beginn, Ende, Pausen, Korrekturen, Arbeitszeitkonto, Datenschutz, Auswertungsgrenzen und Systemänderungen. |
+| [Betriebsvereinbarung – Mustertext](betriebsvereinbarung-mustertext/) | Betriebsvereinbarung – Mustertext — Themenoffener Rahmentext für den Abschluss einer Betriebsvereinbarung nach §§ 77, 87, 88 BetrVG. |
+| [Brückenteilzeit-Vereinbarung nach § 9a TzBfG](brueckenteilzeit-vereinbarung-tzbfg/) | Brückenteilzeit-Vereinbarung nach § 9a TzBfG — Vereinbarung über zeitlich begrenzte Verringerung der Arbeitszeit mit Rückkehrmechanik, Vertretung, Dokumentation und Entgeltfolgen. |
+| [Eckpunktepapier Interessenausgleich und Sozialplan](sozialplan-eckpunkte/) | Eckpunktepapier Interessenausgleich und Sozialplan — Verhandlungsgerüst für Betriebsänderung, Interessenausgleich und Sozialplan mit Auswahlkriterien und Abfindungsformel. |
+| [Einladung zur Betriebsratssitzung mit Tagesordnung](betriebsrat-einladung-tagesordnung/) | Einladung zur Betriebsratssitzung mit Tagesordnung — Einladung des Betriebsratsvorsitzes mit Tagesordnung, Ersatzmitgliedprüfung, Video-/Telefonteilnahme und Beschlussfähigkeitskontrolle. |
+| [Einsatzvereinbarung Leiharbeit mit AÜG-Kontrollblatt](einsatzvereinbarung-leiharbeit-aueg/) | Einsatzvereinbarung Leiharbeit mit AÜG-Kontrollblatt — Einzeleinsatzvereinbarung für Leiharbeit mit Arbeitsplatzbeschreibung, Arbeitszeit, Arbeitsschutz, Unterrichtung und Fristenkontrolle. |
+| [Entfristungsklage / Befristungskontrollklage (§ 17 TzBfG, § 14 TzBfG)](entfristungsklage-17-tzbfg/) | Entfristungsklage / Befristungskontrollklage (§ 17 TzBfG, § 14 TzBfG) — Befristungskontrollklage gegen die Beendigung eines befristeten Arbeitsvertrags mit Dreiwochenfrist, § 16-TzBfG-Rechtsfolge, Schriftformkontrolle, sachgrundloser Befristung, Sachgrundprüfung, Vertragskettenblatt, Primärurkunden-Anlagen und Weiterbeschäftigungsantrag. |
+| [Klage auf Annahmeverzugslohn nach Kündigung (§ 615 BGB)](klage-annahmeverzugslohn-kuendigung/) | Klage auf Annahmeverzugslohn nach Kündigung — Zahlungsklage nach § 615 BGB mit monatsweiser Bruttoberechnung, Arbeitsangebot, Anrechnung von Sozialleistungen und Zwischenverdienst sowie Abwehr des Einwands böswillig unterlassenen Erwerbs. |
+| [Klage auf Betriebsrente gegen Arbeitgeber oder Versorgungsträger](klage-betriebsrente-arbeitgeber-betravg/) | Klage auf Betriebsrente gegen Arbeitgeber oder Versorgungsträger — Arbeitsgerichtliche Klage auf laufende Betriebsrente, Rückstände, Neuberechnung, Anpassung oder Auskunft zur betrieblichen Altersversorgung. |
+| [Klage auf Bonuszahlung aus Zielvereinbarung](klage-bonuszahlung-zielvereinbarung/) | Klage auf Bonuszahlung aus Zielvereinbarung — Zahlungsklage für variable Vergütung mit Zielvereinbarung, verspäteter Zielvorgabe, Zielerreichungsberechnung, Schadensersatzvariante und Offenlegung der Berechnungsgrundlagen. |
+| [Klage auf Herausgabe von Arbeitspapieren und Abrechnungsunterlagen](klage-herausgabe-arbeitspapiere/) | Klage auf Herausgabe von Arbeitspapieren und Abrechnungsunterlagen — Arbeitsgerichtliche Klage auf Entgeltabrechnungen, Arbeitsbescheinigung, Sozialversicherungsmeldungen, Lohnsteuerbescheinigung und weitere Arbeitspapiere. |
+| [Klage auf Nachteilsausgleich nach § 113 BetrVG](klage-nachteilsausgleich-113-betrvg/) | Klage auf Nachteilsausgleich nach § 113 BetrVG — Arbeitsgerichtliche Zahlungsklage bei Betriebsänderung ohne Interessenausgleich oder bei Abweichung vom Interessenausgleich mit Betriebsänderung, Nachteil und Anspruchshöhe. |
+| [Klage auf rückständige Arbeitsvergütung (§ 611a Abs. 2 BGB, §§ 2, 46 ArbGG)](klage-arbeitsvergutung/) | Klage auf rückständige Arbeitsvergütung (§ 611a Abs. 2 BGB, §§ 2, 46 ArbGG) — Zahlungsklage auf rückständiges Arbeitsentgelt vor dem Arbeitsgericht — mit Überstunden-Darlegung, Variante Annahmeverzugslohn (§ 615 BGB) und Prüfschema für Ausschlussfristen. |
+| [Klage auf Urlaubsabgeltung (§ 7 Abs. 4 BUrlG)](klage-urlaubsabgeltung/) | Klage auf Urlaubsabgeltung (§ 7 Abs. 4 BUrlG) — Zahlungsklage auf Abgeltung offener Urlaubsansprüche nach Beendigung mit Urlaubsjahr, Verfallprüfung, Hinweisobliegenheiten, Krankheit und Ausschlussfrist. |
+| [Klage auf Zeugnisberichtigung](klage-zeugnisberichtigung/) | Klage auf Zeugnisberichtigung (§ 109 GewO) — Klage auf Erteilung oder Korrektur eines qualifizierten Arbeitszeugnisses mit konkretem Wunschtext und Begründung der beanstandeten Passagen. |
+| [Kündigung des Arbeitsverhältnisses (Arbeitgeber)](kuendigung-arbeitsverhaeltnis/) | Kündigung des Arbeitsverhältnisses (Arbeitgeber) — Schriftliche ordentliche oder außerordentliche Kündigung durch den Arbeitgeber mit allen formellen Wirksamkeitsvoraussetzungen. |
+| [Kündigungsschutzklage zum Arbeitsgericht (§ 4 KSchG)](kuendigungsschutzklage/) | Kündigungsschutzklage zum Arbeitsgericht (§ 4 KSchG) — Klageschrift auf Feststellung der Unwirksamkeit einer arbeitgeberseitigen Kündigung — Dreiwochenfrist des § 4 KSchG zwingend beachten. |
+| [Leitvorlage Arbeitsrechtliche Compliance-Prüfung](leitvorlage-arbeitsrechtliche-compliance-pruefung-zweisprachig/) | Leitvorlage Arbeitsrechtliche Compliance-Prüfung — Große zweisprachige Leitvorlage für eine strukturierte arbeitsrechtliche Bestandsaufnahme im Unternehmen. |
+| [Protokoll für Personalgespräch und arbeitsrechtliche Anhörung](personalgespraech-protokoll/) | Protokoll für Personalgespräch und arbeitsrechtliche Anhörung — Strukturiertes Protokoll für Personalgespräche, Anhörungen vor Abmahnung oder Kündigung und Dokumentation von Reaktionen. |
+| [Qualifiziertes Arbeitszeugnis mit Notenvarianten 1 bis 6](arbeitszeugnis-qualifiziert-notenvarianten/) | Ausführliches Muster eines qualifizierten Arbeitszeugnisses nach § 109 GewO, das jede Schulnote von eins bis sechs in vollständig ausformulierten Fassungen vorhält und mit Klammer-Hinweisen zeigt, welcher Satz für welche Note ein- oder auszubauen ist. |
+| [Teilzeitverlangen nach TzBfG](teilzeitverlangen-tzbfg/) | Teilzeitverlangen nach TzBfG — Schreiben der Arbeitnehmerin oder des Arbeitnehmers zur Verringerung der Arbeitszeit mit Fristen-, Verteilungs- und Ablehnungskontrolle. |
+| [Unbefristeter Arbeitsvertrag (§ 611a BGB, NachwG, AGG)](arbeitsvertrag-unbefristet/) | Unbefristeter Arbeitsvertrag (§ 611a BGB, NachwG, AGG) — Standardarbeitsvertrag für ein unbefristetes Vollzeitarbeitsverhältnis nach NachwG-Reform 2022 und AGG, inkl. AGG-Novelle-Hinweis 2026 und Warnspur für spätere Befristungsabreden nach § 14 Abs. 4 TzBfG. |
+| [Vereinbarung über Homeoffice und mobile Arbeit](homeoffice-und-mobile-arbeit-vereinbarung/) | Vereinbarung über Homeoffice und mobile Arbeit — Arbeitsvertragliche Zusatzvereinbarung für Homeoffice, mobile Arbeit, Arbeitszeit, Datenschutz, Arbeitsschutz und Widerruf. |
+| [Zeugnisberichtigungsverlangen (§ 109 GewO)](zeugnisberichtigungsverlangen/) | Zeugnisberichtigungsverlangen (§ 109 GewO) — Außergerichtliche Aufforderung an den Arbeitgeber zur Erteilung oder Berichtigung eines qualifizierten Arbeitszeugnisses. |
+| [Zielvereinbarung und Bonusregelung](zielvereinbarung-bonus/) | Zielvereinbarung und Bonusregelung — Muster für jährliche Zielvereinbarung mit objektiven Zielen, Gewichtung, Stichtagen und Auszahlungsmechanik. |
+| [Zwischenzeugnis – Anforderungsschreiben](zwischenzeugnis-anforderung/) | Zwischenzeugnis – Anforderungsschreiben — Musterschreiben zur förmlichen Anforderung eines qualifizierten Zwischenzeugnisses während eines laufenden Arbeitsverhältnisses. |
+
+## Rechtliche Hinweise
+
+Jede Vorlage dieses Bereichs ist ein unverbindlicher Anregungsbeitrag. Volltext der Hinweise: [DISCLAIMER](../DISCLAIMER.md) und [RECHTLICHE HINWEISE](../RECHTLICHE-HINWEISE.md).
+
+## Lizenz
+
+Apache-2.0 OR MIT — siehe [LICENSE APACHE](../LICENSE-APACHE) und [LICENSE MIT](../LICENSE-MIT).

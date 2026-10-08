@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+runs/ci.json
+
+# Lokale Finder-Dubletten, die nicht Teil der Vorlagensammlung sind.
+* 2.md
+* 2.odt
+* 2.yaml

@@ -1,0 +1,164 @@
+# Auto-generierte Baseline-Rubric für arbeitsrecht/entfristungsklage-17-tzbfg.
+# Fachspezifische Pass/Fail-Checks bei Bedarf ergänzen.
+
+name: "Entfristungsklage / Befristungskontrollklage (§ 17 TzBfG, § 14 TzBfG)"
+plugin: "vorlagen-kanzlei"
+typ: "schriftsatz"
+
+checks:
+  # --- Strukturhygiene ---
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "entfristungsklage-17-tzbfg.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "entfristungsklage-17-tzbfg.odt"
+
+  # --- Pflicht-Vorspruch (Haftungs- und Berufsrechts-Layer) ---
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "MIT"
+
+  # --- Umlaut-Hygiene (keine ASCII-Ersatzschreibung) ---
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern (für/über/gemäß/große usw.)"
+    path: "entfristungsklage-17-tzbfg.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  # --- Platzhalter-Disziplin (keine erfundenen Namen) ---
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen wie Max/Erika Mustermann im Vorlagentext"
+    path: "entfristungsklage-17-tzbfg.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  # --- Schriftsatz-spezifisch ---
+  - id: r16-anrede-gericht-oder-behoerde
+    check_type: regex_match
+    description: "Anrede an Gericht/Behörde oder Aktenzeichen-Block vorhanden"
+    path: "entfristungsklage-17-tzbfg.md"
+    pattern: '(?i)(Gericht|Behörde|Geschäftszeichen|Aktenzeichen|Az\.|gez\.|Vollmacht)'
+
+  - id: r17-antrag-oder-begehren
+    check_type: regex_match
+    description: "Antrag/Begehren-Block ausgewiesen"
+    path: "entfristungsklage-17-tzbfg.md"
+    pattern: '(?i)(Anträge|Antrag|wird beantragt|beantrag(t|e|en)|erhebe.{0,40}Klage|Klage erhoben|lege.{0,40}(Einspruch|Widerspruch).{0,40}ein|erstatte.{0,40}(Strafanzeige|Anzeige)|Rüge|widerspreche|widerspruch|wird gebeten|wird angezeigt|Begehren|fordern.{0,40}auf|Aufforderung|setze.{0,40}Frist|Zahlung.{0,40}Frist|melde.{0,40}Ansprüche|machen.{0,40}geltend|mache.{0,40}geltend|erkläre.{0,40}(die\s+)?Ausschlagung|schlage.{0,40}aus\b|ausschlage|weise.{0,40}zurück|verlange|fordere|abmahnen|Abmahnung|Schadensersatz)'
+
+  - id: r18-tzbfg-dreiwochenfrist
+    check_type: text_contains
+    description: "§ 17 TzBfG und Dreiwochenfrist sind ausdrücklich enthalten"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "dreiwöchige Klagefrist"
+
+  - id: r19-tzbfg-rechtsfolge-16
+    check_type: text_contains
+    description: "§ 16 TzBfG-Rechtsfolge des unbefristeten Arbeitsverhältnisses ist enthalten"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "§ 16 Satz 1 TzBfG"
+
+  - id: r20-tzbfg-befristungsgruende-14
+    check_type: text_contains
+    description: "§ 14 TzBfG-Prüfung ist enthalten"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "§ 14 Abs. 2 TzBfG"
+
+  - id: r21-vertragsketten-fristenkontrolle
+    check_type: text_contains
+    description: "Vertragsketten- und Fristenkontrollblatt ist als Anlage vorhanden"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "Vertragsketten- und Fristenkontrollblatt"
+
+  - id: r22-primaerurkunden-vertragskette
+    check_type: text_contains
+    description: "Vorverträge und Nachträge werden als Primärurkunden verlangt"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "Primärurkunden"
+
+  - id: r23-frist-satz-3-tzbfg
+    check_type: text_contains
+    description: "Eigene Dreiwochenfrist nach § 17 Satz 3 TzBfG ist im Kontrollblatt enthalten"
+    path: "entfristungsklage-17-tzbfg.md"
+    contains: "Ende der Dreiwochenfrist nach § 17 Satz 3 TzBfG"
+
+  # --- Quellenhygiene ---
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "entfristungsklage-17-tzbfg.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+  # --- Anwaltliche Endprüfung (human_review, blockiert Auto-Merge nicht) ---
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung bundesgerichtshof.de / bundesarbeitsgericht.de / bundesverfassungsgericht.de / bundesverwaltungsgericht.de / bundessozialgericht.de prüfen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "Vorlage ist Gerüst, kein fertiges Mandatsprodukt — vor Außenwirkung freigeben lassen."

@@ -1,0 +1,92 @@
+# Procedural Order Nr. 1 für Schiedsverfahren
+
+---
+
+Kurz-Hinweis: Diese Vorlage ist unverbindlich, ein experimenteller Text und keine Rechtsberatung. Nutzung nur auf eigene Gewähr, eigene Gefahr und ohne Gewähr. Die ausführlichen Hinweise zu § 43a Abs. 2 BRAO, § 203 StGB, DSGVO sowie Apache-2.0 OR MIT stehen in der README dieser Vorlage.
+
+---
+
+## Vorlage
+
+[WARNHINWEIS — nicht Dokumentbestandteil, nicht mitverwenden]
+
+Diese Vorlage ersetzt nicht die anwaltliche Eigenleistung. Sie liefert das Gerüst, nicht den Fall. Der Anwender bringt den Sachverhalt, die Beweismittel, die taktische Entscheidung und die Verantwortung; die Vorlage bringt Struktur, Sprache und die unbedingt zu prüfenden Stellen. Wer nur Platzhalter füllt, ohne den eigenen Sachverhalt zu durchdenken, hat noch kein verwendbares Dokument, sondern einen Entwurf.
+
+Weitere Hinweise und ausführliche Praxis-Erläuterungen in der README dieser Vorlage.
+
+### Rubrum, Beteiligte und Bearbeitungsstand
+
+**Schiedsverfahren, Verfahrenskalender und Tribunal**
+
+### 1. Gegenstand
+
+1.1 Diese erste Verfahrensanordnung legt für das Schiedsverfahren Sprache, Zustellwege, Schriftsatzkalender, Beweisregeln, Vertraulichkeit und die Organisation der mündlichen Verhandlung verbindlich fest.
+
+### Protokolldaten
+
+Das Datum ist [Datum]. Ort oder Videokonferenz: [Ort oder Videokonferenz]. Teilnehmende: [Teilnehmende]. Leitung: [Leitung]. Protokollführung: [Protokollführung].
+
+### Tagesordnung
+
+1. Feststellung der ordnungsgemäßen Ladung und Teilnahme
+
+2. Sachstandsbericht
+
+3. Beratung der Beschluss- oder Handlungspunkte
+
+4. Aufgaben, Fristen und Anlagen
+
+### Feststellungen
+
+Das Gremium oder die Beteiligten stellen fest:
+
+- Verfahrenssprache
+- Schriftsatzkalender
+- Dokumentenproduktion
+- Zeugen und Sachverständige
+- elektronische Zustellung
+
+### Beschlüsse und Maßnahmen
+
+| TOP | Beschluss / Maßnahme | Stimmen / Verantwortlich | Frist |
+| --- | --- | --- | --- |
+| [TOP] | [Beschlusswortlaut oder Maßnahme] | [Stimmen / Person] | [Datum] |
+| [TOP] | [Beschlusswortlaut oder Maßnahme] | [Stimmen / Person] | [Datum] |
+
+### Anlagen
+
+- Anlage 1: [Einladung / Tagesordnung]
+- Anlage 2: [Unterlagen / Präsentation]
+- Anlage 3: [Nachweise / Fotos / Liste]
+
+### Unterzeichnung
+
+[Ort], [Datum]
+
+______________________________
+[Leitung]
+
+______________________________
+[Protokollführung]
+
+### Schluss, Freigabe und Verwendung
+
+**Freigebende Person / Stelle:** [Name, Funktion, Organisation]
+
+[Ort], den [Datum]
+
+_____________________________
+[Unterschrift oder Freigabevermerk, Name, Funktion]
+
+**Verwendung und Ablage:** [Adressat / Akte / Projekt], [Fassung], [Datum].
+
+## Anlagen
+
+| Anlage | Bezeichnung |
+| --- | --- |
+| Anlage 1 | Anlagenverzeichnis und Nachweisübersicht |
+| Anlage 2 | Nachweis- und Belegverzeichnis |
+| Anlage 3 | Nachweis- und Belegverzeichnis |
+---
+
+Lizenz: Apache-2.0 OR MIT.

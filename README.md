@@ -988,3 +988,5 @@ For a practice case, choose one format: the combined PDF for reading, the indivi
 All five complete indexes are alphabetically sorted and provide a short description for every plugin, skill, workshop prompt, quick-start prompt or practice file. Start with the [five A-to-Z indexes](#alle-vollständigen-listen-von-a-bis-z), the [plugin catalogue](#was-ist-drin), the [complete skill index](./SKILLS.md), the [workshop and quick-start index](./docs/werkstatt-und-schnellstart-coverage.md), the [practice-file index](./testakten/README.md), or the [latest release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest).
 
 The material is experimental and does not replace legal advice. Every output must be checked by a qualified human against current statutes, official materials and independently verifiable court decisions. Do not upload confidential client data unless the technical setup, professional duties and data-protection framework permit it.
+
+Daneben gibt es eine separate [experimentelle Vorlagensammlung](./docs/experimentell/vorlagensammlung-recht/README.md), ohne Plugin- oder Marketplace-Einbindung.

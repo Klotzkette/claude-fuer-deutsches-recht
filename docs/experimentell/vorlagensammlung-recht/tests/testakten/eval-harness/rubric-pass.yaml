@@ -1,0 +1,42 @@
+name: Eval-Harness-Testakte
+checks:
+  - id: t01-datei
+    check_type: file_exists
+    description: Musterdatei ist vorhanden
+    path: muster.md
+  - id: t02-text
+    check_type: text_contains
+    description: Eindeutiger Prüfbegriff ist vorhanden
+    path: muster.md
+    contains: Vollständigkeitskontrolle
+  - id: t03-regex
+    check_type: regex_match
+    description: Sprechender Platzhalter ist vorhanden
+    path: muster.md
+    pattern: '\[Aktenzeichen der Testakte\]'
+  - id: t04-regex-abwesend
+    check_type: regex_absent
+    description: Verbotener Testbegriff ist nicht vorhanden
+    path: muster.md
+    pattern: 'unbeabsichtigter Blindflug'
+  - id: t05-dateianzahl
+    check_type: file_count
+    description: Testakte enthält ihre vier Nutzdateien
+    glob: '*.*'
+    min: 4
+  - id: t06-yaml
+    check_type: yaml_field_equals
+    description: Verschachteltes YAML-Feld besitzt den erwarteten Wert
+    path: metadaten.yaml
+    field: prüfung.stufe
+    equals: 2
+  - id: t07-json
+    check_type: json_field_equals
+    description: Verschachteltes JSON-Feld besitzt den erwarteten Wert
+    path: daten.json
+    field: prüfung.freigegeben
+    equals: true
+  - id: t08-manuell
+    check_type: human_review
+    description: Menschliche Sichtprüfung bleibt als übersprungener Check sichtbar
+    note: Diese Prüfung wird absichtlich nicht automatisch entschieden.

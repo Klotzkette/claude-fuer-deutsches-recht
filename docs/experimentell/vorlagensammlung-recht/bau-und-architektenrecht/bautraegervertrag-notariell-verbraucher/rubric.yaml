@@ -1,0 +1,168 @@
+# Fachspezifische Rubric für bau-und-architektenrecht/bautraegervertrag-notariell-verbraucher.
+
+name: "Notarieller Bauträgervertrag für Verbraucher"
+plugin: "vorlagen-kanzlei"
+typ: "vertrag"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "bautraegervertrag-notariell-verbraucher.odt"
+
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "MIT"
+
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  - id: r16-parteien-block
+    check_type: regex_match
+    description: "Parteien-Block vorhanden"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    pattern: '(?i)(Bauträger|Erwerberseite|Beteiligte|Vertragsgegenstand)'
+
+  - id: r17-keine-klausel-paragrafen
+    check_type: regex_absent
+    description: "Keine Klauselüberschriften mit §-Nummer"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    pattern: '(?m)^#{2,4}\s+§\s*\d+\s'
+
+  - id: r18-650u-bautraegervertrag
+    check_type: text_contains
+    description: "§ 650u BGB als Bauträgervertragsnorm enthalten"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "§ 650u BGB"
+
+  - id: r19-650m-sicherheit
+    check_type: text_contains
+    description: "§ 650m-BGB-Sicherheit ausdrücklich enthalten"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "5 Prozent"
+
+  - id: r20-mabv-faelligkeit
+    check_type: text_contains
+    description: "MaBV-Fälligkeit ausdrücklich enthalten"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "§ 3 MaBV"
+
+  - id: r20a-309-nr-15-warnung
+    check_type: text_contains
+    description: "Warnung zu § 309 Nr. 15 BGB im README enthalten"
+    path: "README.md"
+    contains: "§ 309 Nr. 15 BGB"
+
+  - id: r21-vormerkungsschutz
+    check_type: text_contains
+    description: "Vormerkungsschutz gegen bloße Verzugsmeldung enthalten"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "nicht allein deshalb erfolgen"
+
+  - id: r22-unabhaengiger-sachverstaendiger
+    check_type: text_contains
+    description: "Unabhängige Sachverständigenregelung enthalten"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "unabhängige sachverständige Person"
+
+  - id: r23-abnahme-getrennt
+    check_type: text_contains
+    description: "Sondereigentum und Gemeinschaftseigentum werden getrennt abgenommen"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "Sondereigentum und Gemeinschaftseigentum werden getrennt abgenommen"
+
+  - id: r24-anlagen-inline
+    check_type: text_contains
+    description: "Ausgearbeiteter Anlagenblock vorhanden"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    contains: "## Anlagen"
+
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "bautraegervertrag-notariell-verbraucher.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung bundesgerichtshof.de und amtliche Quellen prüfen; konkrete Aktenzeichen erst nach Live-Verifikation übernehmen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "Vorlage ist Gerüst, kein fertiges Mandatsprodukt — vor Beurkundung anwaltlich, notariell und technisch freigeben lassen."

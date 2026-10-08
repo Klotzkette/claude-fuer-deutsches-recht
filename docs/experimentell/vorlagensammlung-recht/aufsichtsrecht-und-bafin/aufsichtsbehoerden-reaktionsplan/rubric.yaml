@@ -1,0 +1,122 @@
+# Auto-generierte Baseline-Rubric für aufsichtsrecht-und-bafin/aufsichtsbehoerden-reaktionsplan.
+# Fachspezifische Pass/Fail-Checks bei Bedarf ergänzen.
+
+name: "Reaktionsplan für Anfragen europäischer Aufsichtsbehörden und BaFin"
+plugin: "vorlagen-kanzlei"
+typ: "sonstiges"
+
+checks:
+  # --- Strukturhygiene ---
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "aufsichtsbehoerden-reaktionsplan.odt"
+
+  # --- Pflicht-Vorspruch (Haftungs- und Berufsrechts-Layer) ---
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    contains: "MIT"
+
+  # --- Umlaut-Hygiene (keine ASCII-Ersatzschreibung) ---
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern (für/über/gemäß/große usw.)"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  # --- Platzhalter-Disziplin (keine erfundenen Namen) ---
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen wie Max/Erika Mustermann im Vorlagentext"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  # --- Sonstige Vorlage: Basisstruktur ---
+  - id: r16-abschnittsgliederung
+    check_type: regex_match
+    description: "Mindestens eine Markdown-H2-Überschrift vorhanden"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    pattern: '(?ms)^##\s+.+$'
+
+  # --- Quellenhygiene ---
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "aufsichtsbehoerden-reaktionsplan.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+  # --- Anwaltliche Endprüfung (human_review, blockiert Auto-Merge nicht) ---
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung bundesgerichtshof.de / bundesarbeitsgericht.de / bundesverfassungsgericht.de / bundesverwaltungsgericht.de / bundessozialgericht.de prüfen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "Vorlage ist Gerüst, kein fertiges Mandatsprodukt — vor Außenwirkung freigeben lassen."

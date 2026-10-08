@@ -1,0 +1,128 @@
+# Auto-generierte Baseline-Rubric für handels-und-gesellschaftsrecht/geschaftsanteilskaufvertrag.
+# Fachspezifische Pass/Fail-Checks bei Bedarf ergänzen.
+
+name: "GmbH-Geschäftsanteilskaufvertrag (Share Deal)"
+plugin: "vorlagen-kanzlei"
+typ: "vertrag"
+
+checks:
+  # --- Strukturhygiene ---
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "geschaftsanteilskaufvertrag.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "geschaftsanteilskaufvertrag.odt"
+
+  # --- Pflicht-Vorspruch (Haftungs- und Berufsrechts-Layer) ---
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "geschaftsanteilskaufvertrag.md"
+    contains: "MIT"
+
+  # --- Umlaut-Hygiene (keine ASCII-Ersatzschreibung) ---
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern (für/über/gemäß/große usw.)"
+    path: "geschaftsanteilskaufvertrag.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  # --- Platzhalter-Disziplin (keine erfundenen Namen) ---
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen wie Max/Erika Mustermann im Vorlagentext"
+    path: "geschaftsanteilskaufvertrag.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  # --- Vertrags-spezifisch ---
+  - id: r16-parteien-block
+    check_type: regex_match
+    description: "Parteien-Block (zwischen / und) vorhanden"
+    path: "geschaftsanteilskaufvertrag.md"
+    pattern: '(?i)(zwischen|Vertragsparteien|Parteien|Auftraggeber|Auftragnehmer|Verkäufer|Käufer|Vermieter|Mieter|Lizenzgeber|Lizenznehmer|Beteiligte|Arbeitgeber|Arbeitnehmer|Darlehensgeber|Darlehensnehmer|Erblasser|Sponsor|Verein|Berater|Spieler|Frachtführer|Absender|Empfänger|Gesellschafter|bevollmächtige|Vollmachtgeber|Bevollmächtigt|Mandant|Vollmacht)'
+
+  - id: r17-dezimal-oder-keine-klausel-nummerierung
+    check_type: regex_absent
+    description: "Keine Klauselüberschriften mit §-Nummer (§ als Normzitat ja, als Klausel-Nr. nein)"
+    path: "geschaftsanteilskaufvertrag.md"
+    pattern: '(?m)^#{2,4}\s+§\s*\d+\s'
+
+  # --- Quellenhygiene ---
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "geschaftsanteilskaufvertrag.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+  # --- Anwaltliche Endprüfung (human_review, blockiert Auto-Merge nicht) ---
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung bundesgerichtshof.de / bundesarbeitsgericht.de / bundesverfassungsgericht.de / bundesverwaltungsgericht.de / bundessozialgericht.de prüfen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "Vorlage ist Gerüst, kein fertiges Mandatsprodukt — vor Außenwirkung freigeben lassen."

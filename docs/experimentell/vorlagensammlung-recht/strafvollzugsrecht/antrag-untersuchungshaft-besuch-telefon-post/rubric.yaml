@@ -1,0 +1,154 @@
+# Auto-generierte Baseline-Rubric für strafvollzugsrecht/antrag-untersuchungshaft-besuch-telefon-post.
+# Fachspezifische Pass/Fail-Checks bei Bedarf ergänzen.
+
+name: "Antrag Untersuchungshaft Besuch Telefon Post"
+plugin: "vorlagen-kanzlei"
+typ: "schriftsatz"
+
+checks:
+  # --- Strukturhygiene ---
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.odt"
+
+  # --- Pflicht-Kurz-Hinweis (Haftungs- und Berufsrechts-Layer) ---
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "MIT"
+
+  # --- Umlaut-Hygiene (keine ASCII-Ersatzschreibung) ---
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern (für/über/gemäß/große usw.)"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  # --- Platzhalter-Disziplin (keine erfundenen Namen) ---
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen wie Max/Erika Mustermann im Vorlagentext"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  # --- Schriftsatz-spezifisch ---
+  - id: r16-anrede-gericht-oder-behoerde
+    check_type: regex_match
+    description: "Anrede an Gericht/Behörde oder Aktenzeichen-Block vorhanden"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '(?i)(Gericht|Behörde|Geschäftszeichen|Aktenzeichen|Az\.|gez\.|Vollmacht)'
+
+  - id: r17-antrag-oder-begehren
+    check_type: regex_match
+    description: "Antrag/Begehren-Block ausgewiesen"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '(?i)(Anträge|Antrag|wird beantragt|beantrag(t|e|en)|erhebe.{0,40}Klage|Klage erhoben|lege.{0,40}(Einspruch|Widerspruch).{0,40}ein|erstatte.{0,40}(Strafanzeige|Anzeige)|Rüge|widerspreche|widerspruch|wird gebeten|wird angezeigt|Begehren|fordern.{0,40}auf|Aufforderung|setze.{0,40}Frist|Zahlung.{0,40}Frist|melde.{0,40}Ansprüche|machen.{0,40}geltend|mache.{0,40}geltend|erkläre.{0,40}(die\s+)?Ausschlagung|schlage.{0,40}aus\b|ausschlage|weise.{0,40}zurück|verlange|fordere|abmahnen|Abmahnung|Schadensersatz)'
+
+  # --- Fachspezifische Untersuchungshaft-Checks ---
+  - id: r20-rechtsschutzweichen
+    check_type: regex_match
+    description: "Gerichtliche Beschränkung, behördliche Maßnahme und Nichtbescheidung sind getrennte Varianten"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '(?s)§ 119 Abs\. 5 Satz 1 StPO.{0,700}§ 119a Abs\. 1 Satz 1 StPO.{0,700}§ 119a Abs\. 1 Satz 2 StPO'
+
+  - id: r21-drei-wochen
+    check_type: text_contains
+    description: "Behördliche Nichtbescheidung knüpft an die Drei-Wochen-Schwelle an"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "seit mehr als drei Wochen nicht entschieden worden"
+
+  - id: r22-verteidigerverkehr
+    check_type: regex_match
+    description: "Verteidigerverkehr bildet Grundregel und besondere Gegenstandskontrolle getrennt ab"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '(?s)schriftliche und mündliche Verkehr mit der Verteidigung.{0,120}§§ 148 Abs\. 1, 119 Abs\. 4 Satz 1 StPO.{0,500}§ 148 Abs\. 2 StPO'
+
+  - id: r23-zustaendigkeit
+    check_type: text_contains
+    description: "Zuständigkeit wird nach Verfahrensstadium gemäß § 126 StPO verzweigt"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    contains: "Zuständig ist nach § 126 Abs. 1 und 2 StPO"
+
+  # --- Quellenhygiene ---
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "antrag-untersuchungshaft-besuch-telefon-post.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+
+  # --- Anwaltliche Endprüfung (human_review, blockiert Auto-Merge nicht) ---
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung bundesgerichtshof.de / bundesarbeitsgericht.de / bundesverfassungsgericht.de / bundesverwaltungsgericht.de / bundessozialgericht.de prüfen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "Vorlage ist Gerüst, kein fertiges Mandatsprodukt — vor Außenwirkung freigeben lassen."

@@ -1,0 +1,17 @@
+name: Eval-Harness Vorlagen
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  eval:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v6
+
+      - name: Vollständigen Qualitätsgate ausführen
+        run: python3 scripts/check-all.py --ci

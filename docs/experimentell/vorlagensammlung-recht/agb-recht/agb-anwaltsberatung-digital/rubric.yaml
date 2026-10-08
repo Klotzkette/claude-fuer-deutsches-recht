@@ -1,0 +1,144 @@
+# Fachspezifische Rubric für agb-recht/agb-anwaltsberatung-digital.
+
+name: "AGB Digitale Anwaltsberatung"
+plugin: "vorlagen-kanzlei"
+typ: "text"
+
+checks:
+  - id: r01-readme
+    check_type: file_exists
+    description: "Vorlagen-README vorhanden"
+    path: "README.md"
+
+  - id: r02-markdown-quelle
+    check_type: file_exists
+    description: "Markdown-Quelle der Vorlage vorhanden"
+    path: "agb-anwaltsberatung-digital.md"
+
+  - id: r03-odt-endformat
+    check_type: file_exists
+    description: "ODT-Endformat vorhanden"
+    path: "agb-anwaltsberatung-digital.odt"
+
+  - id: r04-vorspruch-unverbindlich
+    check_type: text_contains
+    description: "Vorspruch enthält 'unverbindlich'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "unverbindlich"
+
+  - id: r05-vorspruch-experimenteller-text
+    check_type: text_contains
+    description: "Vorspruch enthält 'experimenteller Text'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "experimenteller Text"
+
+  - id: r06-vorspruch-keine-rechtsberatung
+    check_type: text_contains
+    description: "Vorspruch enthält 'keine Rechtsberatung'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "keine Rechtsberatung"
+
+  - id: r07-vorspruch-eigene-gewaehr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gewähr'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "eigene Gewähr"
+
+  - id: r08-vorspruch-eigene-gefahr
+    check_type: text_contains
+    description: "Vorspruch enthält 'eigene Gefahr'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "eigene Gefahr"
+
+  - id: r09-vorspruch-brao-43a
+    check_type: text_contains
+    description: "Vorspruch enthält '43a'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "43a"
+
+  - id: r10-vorspruch-stgb-203
+    check_type: text_contains
+    description: "Vorspruch enthält '203'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "203"
+
+  - id: r11-vorspruch-dsgvo
+    check_type: text_contains
+    description: "Vorspruch enthält 'DSGVO'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "DSGVO"
+
+  - id: r12-vorspruch-apache-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'Apache-2.0'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "Apache-2.0"
+
+  - id: r13-vorspruch-mit-lizenz
+    check_type: text_contains
+    description: "Vorspruch enthält 'MIT'"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "MIT"
+
+  - id: r14-umlaut-hygiene
+    check_type: regex_absent
+    description: "Keine ASCII-Ersatzschreibung in typischen Wörtern"
+    path: "agb-anwaltsberatung-digital.md"
+    pattern: '\b(fuer|ueber|gemaess|maessig|aenderung|beduerf|moeglich|natuerl|grosse|grossen|massgeblich|ausschliesslich|verstaerkt|hae(ufig|ngt|tte)|persoenlich|oeffentlich|aussergerichtlich|veroeffentlich)\b'
+
+  - id: r15-keine-erfundenen-namen
+    check_type: regex_absent
+    description: "Keine erfundenen Klar-Namen"
+    path: "agb-anwaltsberatung-digital.md"
+    pattern: '\b(Max|Erika)\s+Mustermann\b'
+
+  - id: r16-parteien-block
+    check_type: regex_match
+    description: "Rubrum- und Beteiligtenkopf vorhanden"
+    path: "agb-anwaltsberatung-digital.md"
+    pattern: '(?i)(Rubrum|Verwenderin|Vertragspartner|Betreiberin|Auftraggeber|Kundin|Mandantin)'
+
+  - id: r17-keine-klausel-paragrafen
+    check_type: regex_absent
+    description: "Keine Klauselüberschriften mit §-Nummer"
+    path: "agb-anwaltsberatung-digital.md"
+    pattern: '(?m)^#{2,4}\s+§\s*\d+\s'
+
+  - id: r18-agb-309
+    check_type: text_contains
+    description: "§ 309 BGB als AGB-Prüfanker enthalten"
+    path: "README.md"
+    contains: "§ 309 BGB"
+
+  - id: r19-agb-305c
+    check_type: text_contains
+    description: "§ 305c BGB als Überraschungsschutz enthalten"
+    path: "README.md"
+    contains: "§ 305c BGB"
+
+  - id: r20-rom-i
+    check_type: text_contains
+    description: "Rom-I-Rechtswahlwarnung enthalten"
+    path: "README.md"
+    contains: "Art. 6 Rom I"
+
+  - id: r21-individualvereinbarung
+    check_type: text_contains
+    description: "Vorrang der Individualvereinbarung enthalten"
+    path: "agb-anwaltsberatung-digital.md"
+    contains: "Individualvereinbarungen gehen diesen Bedingungen vor"
+
+  - id: r80-rechtsprechungshygiene
+    check_type: regex_absent
+    description: "Keine missverständliche Rechtsprechungs-Verifikation ohne Direktnachweis"
+    path: "agb-anwaltsberatung-digital.md"
+    pattern: '(Rechtsprechung\s*\(verifiziert\)|BGHZ\s+vorgesehen|Az\.\s+nach\s+offiziellem\s+Verzeichnis|keine\s+aktuellen\s+.+\s+verifiziert)'
+  - id: r90-az-live-verifiziert
+    check_type: human_review
+    description: "Alle Az. live in amtlichen Quellen verifiziert"
+    note: "Vor Mandatsverwendung amtliche Quellen prüfen; konkrete Aktenzeichen erst nach Live-Verifikation übernehmen."
+
+  - id: r91-endpruefung-anwalt
+    check_type: human_review
+    description: "Endprüfung durch zugelassene Berufsträgerin"
+    note: "AGB sind besonders kontrollanfällig und vor Veröffentlichung fachkundig freizugeben."
