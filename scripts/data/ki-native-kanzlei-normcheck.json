@@ -519,6 +519,31 @@
     "19",
     "25"
    ]
+  },
+  {
+   "id": "BGB §356a",
+   "url": "https://www.gesetze-im-internet.de/bgb/__356a.html",
+   "needles": null
+  },
+  {
+   "id": "DL-InfoV §3",
+   "url": "https://www.gesetze-im-internet.de/dlinfov/__3.html",
+   "needles": null
+  },
+  {
+   "id": "EGGVG §44",
+   "url": "https://www.gesetze-im-internet.de/gvgeg/__44.html",
+   "needles": null
+  },
+  {
+   "id": "GKG §72",
+   "url": "https://www.gesetze-im-internet.de/gkg_2004/__72.html",
+   "needles": null
+  },
+  {
+   "id": "EGAO Art.97 §19a",
+   "url": "https://www.gesetze-im-internet.de/aoeg_1977/art_97__19a.html",
+   "needles": null
   }
  ]
 }
