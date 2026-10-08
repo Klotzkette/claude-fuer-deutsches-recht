@@ -38,7 +38,10 @@ jobs:
         with:
           node-version: '22'
       - name: Abhängigkeiten
-        run: python -m pip install -r vergaberecht-werkstatt/requirements-dev.txt
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ripgrep
+          python -m pip install -r vergaberecht-werkstatt/requirements-dev.txt
       - name: Marketplace und Struktur
         run: |
           python scripts/test-marketplace-import.py
