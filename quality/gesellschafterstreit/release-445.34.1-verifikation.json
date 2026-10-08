@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-08T22:46:30.719857+00:00",
+  "release": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/gesellschafterstreit-v445.34.1",
+  "tag": "gesellschafterstreit-v445.34.1",
+  "release_commit": "b36b89529606800db00a01e5401ee4d19819f294",
+  "published_at": "2026-10-08T22:44:51Z",
+  "workflow_run": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/actions/runs/37855136076",
+  "unauthenticated_downloads": 19,
+  "matching_checksums": 18,
+  "component_tests": {
+    "command": "python3 scripts/test-gesellschafterstreit-update.py --dist /tmp/gs-public-downloads-445341",
+    "passed": 10,
+    "failed": 0
+  },
+  "linux_project_account_pdf": {
+    "archive": "testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip",
+    "filename": "19_Projektkonto.pdf",
+    "pages": 1,
+    "minimum_font_pt": 10.005999565124512,
+    "visual_review": "09.10.2026: vollständig sichtbar, lesbar, kein Text außerhalb der Seite",
+    "sha256": "0a543736a145491bebce5fb057e8d6b717a929ef045b60421ec2e83bb3e39b8d"
+  },
+  "assets": [
+    {
+      "name": "checksums-sha256.txt",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/checksums-sha256.txt",
+      "bytes": 2063,
+      "sha256": "c45fdf8965f56666fe99e34f99189394d43b789f2446d66fe9c6a5282e2b76cb"
+    },
+    {
+      "name": "gesellschafterstreit-hauptproblem.md",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-hauptproblem.md",
+      "bytes": 7487,
+      "sha256": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30"
+    },
+    {
+      "name": "gesellschafterstreit-hauptproblem.txt",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-hauptproblem.txt",
+      "bytes": 7487,
+      "sha256": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30"
+    },
+    {
+      "name": "gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf",
+      "bytes": 1415339,
+      "sha256": "068e3f6c549808f10fa64d319ecc03b930f06ef5cd53d57d1b681b5dbf71df0d"
+    },
+    {
+      "name": "gesellschafterstreit-schnellstart.md",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-schnellstart.md",
+      "bytes": 7215,
+      "sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7"
+    },
+    {
+      "name": "gesellschafterstreit-schnellstart.txt",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-schnellstart.txt",
+      "bytes": 7215,
+      "sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7"
+    },
+    {
+      "name": "gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf",
+      "bytes": 1224515,
+      "sha256": "97e433530b67a3fc3ddb7e712950a9aa15161e15542349bea006d339e2eca609"
+    },
+    {
+      "name": "gesellschafterstreit-skills-handbuch.pdf",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-skills-handbuch.pdf",
+      "bytes": 986318,
+      "sha256": "8960a4cf8907524b09e2d7fcf4c70477bee017a42938df89fa6149ca75249797"
+    },
+    {
+      "name": "gesellschafterstreit-werkstatt-lesefassung.pdf",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-werkstatt-lesefassung.pdf",
+      "bytes": 173894,
+      "sha256": "c1a3157472c00fd8b9de7f0e7b5d02530f98b3b05aa241d33f2d9f7a6dd64f2f"
+    },
+    {
+      "name": "gesellschafterstreit-werkstatt.md",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-werkstatt.md",
+      "bytes": 103227,
+      "sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a"
+    },
+    {
+      "name": "gesellschafterstreit-werkstatt.txt",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-werkstatt.txt",
+      "bytes": 103227,
+      "sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a"
+    },
+    {
+      "name": "gesellschafterstreit-zink-und-zunder_gesamt.pdf",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit-zink-und-zunder_gesamt.pdf",
+      "bytes": 1599189,
+      "sha256": "dd3254218e62fe6a1033d1ac6e7b2a4c478e82900f96b7a103f5e8accd5e040b"
+    },
+    {
+      "name": "gesellschafterstreit.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/gesellschafterstreit.zip",
+      "bytes": 72951,
+      "sha256": "6a198be2887ac406c57a3080f8342fd6c047414b565d5e39d9c9f104ff4ebe00"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip",
+      "bytes": 1237159,
+      "sha256": "7c3e8a9652027744a6c19fced23c01c48044dbf3e0537b6aa114117e7cb890f2"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-klageerwiderung-berlin.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip",
+      "bytes": 3338949,
+      "sha256": "3b66c7b123cb1288c8101e13b3ccc9444473ba5d7fe23951632674fdd918d274"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip",
+      "bytes": 1059161,
+      "sha256": "b4fcb498aa491de9d1f2cd53f996cb0a619f0448fc22985e3c8f228a692b6c5e"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip",
+      "bytes": 2853635,
+      "sha256": "a30725c72cd2741d7c97787351c0bf0e4c635b50cf33dfa81a2b7b036e9e50ef"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip",
+      "bytes": 1356841,
+      "sha256": "3ae2c37b254a9d6138ecf976e53055f0a84a9199cb9539e2a7079c33cb03b9a5"
+    },
+    {
+      "name": "testakte-gesellschafterstreit-zink-und-zunder.zip",
+      "url": "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-zink-und-zunder.zip",
+      "bytes": 3548129,
+      "sha256": "be4846b242774e1a68ca22d787744d5973e53bc3cd3501467fb8a4b9a250dc74"
+    }
+  ]
+}
