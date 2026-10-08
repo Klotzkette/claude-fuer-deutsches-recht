@@ -1,8 +1,8 @@
 # KI-native Kanzlei: Prüfung der Veredelung und der agentischen Schicht
 
-Stand: 8. Oktober 2026. Komponentenfassung `445.33.8`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+Stand: 8. Oktober 2026. Komponentenfassung `445.33.9`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
 
-**Aktuelle Prüfung: Abschnitt 10.** Die Abschnitte 1 bis 9 dokumentieren frühere Runden mit ihren damaligen Quellenlücken, Testzahlen und Seitenständen. Sie werden als Historie erhalten; ihre offenen Befunde werden im Nachtrag zu 445.33.8 behandelt.
+**Aktuelle Prüfung: Abschnitt 11.** Die Abschnitte 1 bis 10 dokumentieren frühere Runden mit ihren damaligen Quellenlücken, Testzahlen und Seitenständen. Sie bleiben als Historie erhalten. Die Computerlauf-Erweiterung wird separat bewertet; unveränderte frühere Rechtsquellen werden nicht als erneute Lektüre ausgegeben.
 
 ## 1. Gegenstand und Umfang
 
@@ -184,3 +184,52 @@ Keine produktiven Mandantenakten, beA-Nachrichten, Kalender, Bankkonten oder Rec
 Vor dem Merge wurden die parallel veröffentlichten Erweiterungen aus #528, #529 und die Prüfinfrastruktur aus #530 integriert. Ihre Quellenarchive, Testakten und Fachtexte bleiben erhalten. Der globale Aktivierungs-Audit meldete dabei 16 bereits mit diesen Importen hinzugekommene Beschreibungen über 360 Zeichen. Ausschließlich deren description-Zeilen wurden auf 271 bis 324 Zeichen gestrafft und die betroffenen Anzeigezeilen synchronisiert; alle Textkörper sind byteidentisch. [Vorher-/Nachher-Nachweis](glaettung-2026-10-08/integration-description-korrektur.json). Diese begrenzte Integrationskorrektur ändert keine rechtliche Aussage und keinen Skill-Ablauf der Nachbarplugins. Die ursprünglichen fehlgeschlagenen Integrationsprüfungen und die abschließende Wiederholung werden getrennt dokumentiert.
 
 Die [abschließende Integrationsprüfung](glaettung-2026-10-08/integration-final-pruefbefehle.json) ist grün. Zusätzlich wurden 34 Release-Routing-Tests und die Vergabe-Importprüfung ausgeführt; letztere kennzeichnet drei ohne externe Buildartefakte nicht ausgeführte Zusatzprüfungen ausdrücklich als übersprungen. Die Kanzlei-Paketprüfung einschließlich der 240 Originale lief vollständig.
+
+## 11. Computerlauf, Postfächer und kontrollierter beA-Ablauf (445.33.9)
+
+### 11.1. Umfang und tatsächliche Fähigkeiten
+
+Stand: 08.10.2026. Die 18 Skills bleiben erhalten; Steuerung und beA wurden überarbeitet. Werkstatt, Mini und Hauptproblem führen denselben Arbeitsfluss von Eingang und Akte über Frist/Sachprodukt bis zu konkreter menschlicher Entscheidung, erlaubter Ausführung und Nachweiskontrolle. Die 17 Befehle enthalten jetzt `/computerlauf` und `/bea`. Der lokale Helfer dokumentiert Sitzungsgrenzen, gebundene Versandfassungen und einzelne Versuche. Er enthält keinen eigenen Mail- oder beA-Transport und authentifiziert keine Freigabeperson. Reale Ausführung hängt von tatsächlich vorhandenen und erlaubten Hostwerkzeugen ab. Keine Appfreischaltung wird durch das Plugin behauptet.
+
+Die README warnt vor tatsächlicher Außenwirkung, Geheimnisoffenbarung und PIN-/Tokenkompromittierung. Die geöffnete Herstellerwarnung gegen sensible juristische Computersteuerung ist ausdrücklich enthalten. Der persönliche beA-Schlussakt wird nicht als Agentenklick ausgegeben; jedes eEB bleibt im Prototyp persönlich. Geheimnisse werden nicht durch das Plugin gespeichert oder ausgelesen. Ein Journal ist eine kooperative Organisationshilfe, keine manipulationssichere Schutzgrenze gegen einen Agenten mit denselben Dateirechten.
+
+### 11.2. Quellen, Texte und Lesefassungen
+
+[Abschlussberichte der Skills](agentisch-2026-10-08/skillberichte.md) · [32 gelesene beA-Primärquellen](agentisch-2026-10-08/bea-quellen.md) · [Herstellerquellen](../../ki-native-kanzlei/references/computersteuerung-und-postfaecher.md#19-geprüfte-herstellerquellen-und-grenzen).
+
+Die beiden geänderten Skills umfassen 6.514 und 6.736 Körperwörter; insgesamt enthalten die 18 Skills 120.134 Wörter. Die Kurzprompts haben 7.472 beziehungsweise 7.493 UTF-8-Bytes, die Werkstatt 121.006 Bytes. Die drei MD/TXT-Paare sind byteidentisch; ihre Hashes stehen im Prüfprofil. Alle Skillstrukturen, lokalen Links, Beschreibungslängen, Tabellenbreiten und unmittelbar angegebenen Wochentage wurden erneut geprüft. Die übrigen sechzehn Skills blieben byteidentisch zur Ausgangsfassung.
+
+Beide Schriftvarianten haben 292 tatsächliche A4-Seiten. Release: Liberation Serif 11 pt; zusätzlich lokal Times New Roman 11 pt. [Sichtprüfung](agentisch-2026-10-08/pdf-sichtpruefung.md) und [Geometrie-/Zusammenfügungsprüfung](agentisch-2026-10-08/pdf-pruefung.json) dokumentieren Umfang und Aussagegrenzen. Die 240 Originalstücke der 24 Testakten wurden nicht bearbeitet.
+
+### 11.3. Tatsächlich ausgeführte Prüfungen
+
+Die Protokolle der folgenden Befehle liegen im [Prüfverzeichnis](agentisch-2026-10-08/logs/). Die neuen Computerlauf-Tests betreffen unter anderem Konten-/Bereichsgrenzen, Manipulation von Dateien oder Freigabebeleg, Parallelstarts, abgebrochene Reservierungen, Sitzungswechsel, doppelte Nachrichten, Timeouts und persönlichen beA-Versand.
+
+```text
+python3 scripts/test-ki-native-kanzlei-computerlauf.py
+python3 scripts/test-ki-native-kanzlei-source.py
+python3 scripts/test-ki-native-kanzlei-lauf.py
+python3 scripts/test-ki-native-kanzlei-fristen.py
+python3 scripts/test-si-native-kanzlei.py
+python3 scripts/test-si-native-kanzlei-exporte.py
+python3 scripts/audit-skill-activation.py
+python3 scripts/validate-yaml-frontmatter.py
+node scripts/validate-plugin-structure.mjs
+python3 scripts/test-marketplace-import.py
+python3 scripts/validate-markdown-structure.py
+python3 scripts/quality-lab.py audit
+python3 scripts/build-ki-native-kanzlei-handbuch.py --out /tmp/kk339/pdf --font-dir /tmp/kk338/liberation --font-family liberation-serif
+python3 scripts/build-ki-native-kanzlei-handbuch.py --out /tmp/kk339/pdf-tnr
+```
+
+Der Katalog enthält 13 definierte Szenarien mit 52 Kriterien. Ein vorhandener Katalog ist kein beobachteter Modelltest. Konkrete neue Anwendungsproben und Paketnachweise werden im folgenden Unterabschnitt getrennt dokumentiert.
+
+### 11.4. Ergebnisse und Aussagegrenzen
+
+Alle oben genannten Prüfungen sind bestanden: 35 neue Computerlauf-Tests, 30 Mandatslauf-, 18 Fristen-, 19 Journal-, 16 Export- und 5 Marketplace-Tests. Der globale Aktivierungsaudit erfasst 23.158 Skills; die Strukturvalidierung meldet keine YAML-Fehler oder Warnungen und der Qualitätsaudit 290 vollständige Pluginprofile. Diese globalen Strukturprüfungen sind keine erneute fachliche Rechtsprüfung aller übrigen Plugins.
+
+Die [reproduzierbare Offline-Demo](agentisch-2026-10-08/computerlauf.md) durchlief 22 Schritte mit den drei erwarteten Sperren. Eine [unabhängige Anwendung](agentisch-2026-10-08/anwendungsprobe-bewertung.md) lieferte die angeforderten Arbeitsprodukte und hielt persönliche beA-Handlung, eEB, unklare Sendung und echte Freigabe getrennt. Ergebnisse, Rohdateien und Lese-/Werkzeugprotokoll sind beigefügt; keine behauptete Erfolgsquote über nicht ausgeführte Szenarien.
+
+Zusätzlich wurden `build-ki-native-kanzlei-release.py --dist /tmp/kk339/dist --pdf-dir /tmp/kk339/pdf` und `test-ki-native-kanzlei-pakete.py /tmp/kk339/dist` ausgeführt. Beide Installationspakete sind quellidentisch, Promptdownloads separat; die PDF-Hashes stimmen. Alle 240 Originaldateien stimmen mit dem ursprünglichen Fallakten-Tag überein. [Paketbericht](paket-pruefung.json).
+
+Es gab keinen produktiven Postfachzugriff, keine echte Einreichung, keinen Kalender-Schreibtest und keine produktive Rechnungsausgabe. Ein eingebauter universeller Transport und ein sicherer Geheimnisspeicher sind nicht Bestandteil dieser Fassung. Das Journal lässt sich bei entsprechenden Schreibrechten verändern und ist keine technisch erzwungene Sicherheitsgrenze. Die Warnungen und die Abhängigkeit von tatsächlichen Hostrechten gehören deshalb zum freigegebenen Funktionsumfang.

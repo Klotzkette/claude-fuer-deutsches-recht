@@ -1,0 +1,134 @@
+{
+  "session_id": "S-20261008-FW",
+  "revision": 1,
+  "saved_at": "2026-10-08T10:50:21+02:00",
+  "mode": "Simulation",
+  "stage": 3,
+  "expires_at": "2026-10-08T17:00:00+02:00",
+  "responsible_person": "Rechtsanwältin Freya Wolkenstein",
+  "allowed_account": "kanzlei@example.invalid",
+  "matters": [
+    "M-26-118",
+    "M-26-117"
+  ],
+  "observed_external_ui": null,
+  "products": [
+    {
+      "id": "01_Mandantenantwort_v01",
+      "path": "<Probeordner>/M-26-118/01_Mandantenantwort_v01.md",
+      "sha256": "a3da56a20834bfb4cbc925eda4c0fbdc45334b485b2912f653a4486656e67a32",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "02_Versandansicht_Mandantenantwort_v01",
+      "path": "<Probeordner>/M-26-118/02_Versandansicht_Mandantenantwort_v01.md",
+      "sha256": "c55dd8d13dfb94086d7132342b368a73f59f4deca8d9af40f8cfaa955b816f08",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "03_Gerichtseingang_eEB_Frist_v01",
+      "path": "<Probeordner>/M-26-118/03_Gerichtseingang_eEB_Frist_v01.md",
+      "sha256": "8fcfb490246a5d2bf9baad16649edbb81fc67412727a285fb1cc7b81ae597b95",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "04_Persoenlicher_beA_Versand_v01",
+      "path": "<Probeordner>/M-26-118/04_Persoenlicher_beA_Versand_v01.md",
+      "sha256": "87e5f87e262fbdf5eec0fdb719dc105b0b363934ae5afb2ef6922286e3c98b85",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "01_Timeout_Abgleich_v01",
+      "path": "<Probeordner>/M-26-117/01_Timeout_Abgleich_v01.md",
+      "sha256": "960ab2047e1a01e8743eb893c376fb07d67a3ab29a110186c5d91958b64f0f1f",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "05_Honorar_Zeit_Rechnungsentwurfsstand_v01",
+      "path": "<Probeordner>/M-26-118/05_Honorar_Zeit_Rechnungsentwurfsstand_v01.md",
+      "sha256": "60c15192ac7f07a1ecb5a43284baf867a8d4a914d52b57f9a4e8f4fc8f234553",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "Quellen_und_Werkzeugstand",
+      "path": "<Probeordner>/Quellen_und_Werkzeugstand.md",
+      "sha256": "6254cc7173ad3efd175b0ba74bf310630be042858ee6c1092e25632452ff8c6c",
+      "state": "entwurf",
+      "human_approved": false
+    },
+    {
+      "id": "offene_zeitfragen",
+      "path": "<Probeordner>/M-26-118/offene_zeitfragen.json",
+      "sha256": "664472f72b23193b3d05410fb1ac33d016573c2ae5ce068373623f65c01465b9",
+      "state": "entwurf",
+      "human_approved": false
+    }
+  ],
+  "external_actions_executed": [],
+  "reported_prior_action": {
+    "reference": "ALT-M26117-OUTLOOK-1",
+    "original_action_id": null,
+    "matter_id": "M-26-117",
+    "prior_specific_approval": "laut Nutzerauftrag erteilt; unverändert erhalten",
+    "reported_attempts": 1,
+    "outcome": "Ausgang unklar",
+    "repeated": false,
+    "source": "Nutzerauftrag, keine eigenständige Beobachtung"
+  },
+  "actions": [
+    {
+      "id": "S-20261008-FW-M26118-A01",
+      "kind": "Mandantenantwort",
+      "manifest": "M-26-118/02_Versandansicht_Mandantenantwort_v01.md",
+      "state": "Empfängeradresse und konkrete Entscheidung offen",
+      "attempts": 0
+    },
+    {
+      "id": "S-20261008-FW-M26118-A02",
+      "kind": "eEB",
+      "state": "Ursprungsnachricht und Empfangstatsachen fehlen; keine Erklärung",
+      "attempts": 0
+    },
+    {
+      "id": "S-20261008-FW-M26118-A03",
+      "kind": "beA Schriftsatz",
+      "state": "Persönlicher Sendeschritt und konkrete Enddateien fehlen",
+      "attempts": 0
+    }
+  ],
+  "deadline": {
+    "id": "F-M26118-E2",
+    "state": "erfasst_vorlaeufig_nicht_berechnet",
+    "source": "Nutzer berichtet Benachrichtigung",
+    "due_at": null,
+    "calendar_entry": false,
+    "responsible_person": "Freya Wolkenstein"
+  },
+  "phase": "kommunikation",
+  "parallel_phases": [
+    "eingang",
+    "frist",
+    "versandvorbereitung",
+    "abrechnung"
+  ],
+  "gates": {
+    "G1": "Keine neue Mandatsaufnahme verlangt; historische Annahmenachweise nicht vorgelegt.",
+    "G2": "M-26-118 offen; Originalauslöser und Fristprüfung fehlen.",
+    "G3": "M-26-118 A01/A02/A03 offen; M-26-117 frühere konkrete Freigabe laut Auftrag erhalten, Ausgang unklar.",
+    "G4": "Noch nicht entscheidungsreif; keine Rechnungsausgabe.",
+    "G5": "Nicht erforderlich für den Auftrag; keine Geldbewegung.",
+    "G6": "Kein neuer realer Dienstleisterzugang oder echte Mandatsdaten in dieser Simulation freigegeben.",
+    "G7": "Nicht ausgelöst; keine Meldung beauftragt.",
+    "G8": "Nicht ausgelöst; kein Mandatsabschluss oder Löschen beauftragt."
+  },
+  "confirmed_human_minutes": null,
+  "background_monitoring_started": false,
+  "next_skill": "bea-anlagen-vorbereiten → fristen-berechnen-ueberwachen",
+  "next_product": "eingang-2 nach vollständigem fiktivem Export; anschließend Rechenvermerk oder begründeter Nichtfristbefund"
+}

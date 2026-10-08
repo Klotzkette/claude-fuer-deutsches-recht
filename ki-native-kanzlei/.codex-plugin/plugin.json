@@ -1,7 +1,7 @@
 {
   "name": "ki-native-kanzlei",
-  "version": "445.33.8",
-  "description": "KI-native Kanzlei: achtzehn vertiefte Skills für Mandat, Fristenrechnung, Anwaltsberufsrecht, Honorar, Zeit, Vertrags- und Schriftsatzarbeit, beA und E-Rechnung. Mit 24 kurzen Fachanwaltsakten.",
+  "version": "445.33.9",
+  "description": "KI-native Kanzlei: 18 vertiefte Skills mit durchgehenden Abläufen für Mandat, Fristen, Berufsrecht, Honorar und Rechnung. Computerlauf-Prototyp für kontrollierte Postfacharbeit einschließlich beA-Empfang und Versand. Mit 24 kurzen Fachanwaltsakten.",
   "author": {
     "name": "Klotzkette",
     "email": "39582916+Klotzkette@users.noreply.github.com"
@@ -10,10 +10,10 @@
   "interface": {
     "displayName": "KI-native Kanzlei",
     "shortDescription": "Mandat, Fristen, Recht und Rechnung",
-    "longDescription": "KI-native Kanzlei: achtzehn vertiefte Skills für Mandat, Fristenrechnung, Anwaltsberufsrecht, Honorar, Zeit, Vertrags- und Schriftsatzarbeit, beA und E-Rechnung. Mit 24 kurzen Fachanwaltsakten.",
+    "longDescription": "KI-native Kanzlei: 18 vertiefte Skills mit durchgehenden Abläufen für Mandat, Fristen, Berufsrecht, Honorar und Rechnung. Computerlauf-Prototyp für kontrollierte Postfacharbeit einschließlich beA-Empfang und Versand. Mit 24 kurzen Fachanwaltsakten.",
     "developerName": "Klotzkette",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Bearbeite mein Mandat und führe Honorargrundlage, tatsächliche Zeit sowie den Rechnungsentwurf mit. Frage nach dem jetzt gewünschten Arbeitsschritt und nach fehlenden Zeit- oder Honorarangaben."
+    "defaultPrompt": "Führe mein Mandat als zusammenhängenden Ablauf mit Honorar, tatsächlicher Zeit und Rechnungsentwurf. Starte Computersteuerung nur nach ausdrücklich begrenztem Sitzungsauftrag, zunächst als Simulation. Frage nur nach fehlenden entscheidenden Angaben und konkreten Außenfreigaben."
   }
 }

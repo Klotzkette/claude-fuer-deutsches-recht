@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-08",
+  "reports": [
+    {
+      "variant": "pdf",
+      "pages": 292,
+      "font": "Liberation Serif (metrisch kompatibel zu Times New Roman)",
+      "pages_checked": 292,
+      "handbook_matches_single_pdfs": true,
+      "all_text_within_page": true
+    },
+    {
+      "variant": "pdf-tnr",
+      "pages": 292,
+      "font": "Times New Roman",
+      "pages_checked": 292,
+      "handbook_matches_single_pdfs": true,
+      "all_text_within_page": true
+    }
+  ],
+  "errors": [],
+  "visual_samples": [
+    "bea-anlagen-vorbereiten S.1",
+    "bea-anlagen-vorbereiten S.5",
+    "bea-anlagen-vorbereiten S.10",
+    "bea-anlagen-vorbereiten S.16",
+    "ki-kanzlei-steuern S.1",
+    "ki-kanzlei-steuern S.5",
+    "ki-kanzlei-steuern S.10",
+    "ki-kanzlei-steuern S.18"
+  ]
+}

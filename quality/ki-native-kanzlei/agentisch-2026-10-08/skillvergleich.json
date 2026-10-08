@@ -1,0 +1,128 @@
+[
+  {
+    "skill": "abrechnung-e-rechnung",
+    "before": 6736,
+    "after": 6736,
+    "changed": false,
+    "sha256": "ba7d2b239cfaa5f81e5fc3d17e8e19f0338aa083f02c26afe4c101797a572cc7"
+  },
+  {
+    "skill": "akte-fristen-anlegen",
+    "before": 6533,
+    "after": 6533,
+    "changed": false,
+    "sha256": "fb6622f58823eaed85487931776b263c9a254800a36305188d8ae3b749f76a58"
+  },
+  {
+    "skill": "anwaltsberufsrecht-pruefen",
+    "before": 6743,
+    "after": 6743,
+    "changed": false,
+    "sha256": "5550e77d74cbe43023f059f4d248834cf8cac7cf546b0272743d41971346bee8"
+  },
+  {
+    "skill": "bea-anlagen-vorbereiten",
+    "before": 6560,
+    "after": 6514,
+    "changed": true,
+    "sha256": "a2d7bf1d6bbc7813a80c4d931074fc5b159b4db476dc676ec2c96f9f54f35568"
+  },
+  {
+    "skill": "fristen-berechnen-ueberwachen",
+    "before": 6976,
+    "after": 6976,
+    "changed": false,
+    "sha256": "349d0a6d3bead9409b3a3ce6340e3956c4f82d8354463c82061e9f7e16daf4eb"
+  },
+  {
+    "skill": "geldwaesche-pruefen",
+    "before": 6741,
+    "after": 6741,
+    "changed": false,
+    "sha256": "1ddfe92448241633de1ccad94fcbecec1119c83c62ce7ed525e5df87e888e784"
+  },
+  {
+    "skill": "honorar-budget-vereinbaren",
+    "before": 6789,
+    "after": 6789,
+    "changed": false,
+    "sha256": "ba24fbae20602084ba25a33e7c307875079a347a4720d4929efed9f62011ab97"
+  },
+  {
+    "skill": "ki-kanzlei-steuern",
+    "before": 6552,
+    "after": 6736,
+    "changed": true,
+    "sha256": "79fb06e5a74b83aa0596c5eac69468b876d30e7fe56ce3d8fccb037fd16892bb"
+  },
+  {
+    "skill": "mandantenkommunikation",
+    "before": 6491,
+    "after": 6491,
+    "changed": false,
+    "sha256": "6108db1ae39d2479c1f381f7159fb3e80eb656f902170bb7480d99dc27d13232"
+  },
+  {
+    "skill": "mandat-abschliessen",
+    "before": 6709,
+    "after": 6709,
+    "changed": false,
+    "sha256": "50c9e2ed9cd62c874998f31c534d36e2cda94a4141cf8c5776d5cb2760bda8f9"
+  },
+  {
+    "skill": "mandatsannahme-interessenkollision",
+    "before": 6712,
+    "after": 6712,
+    "changed": false,
+    "sha256": "6904e347837a4fbb212a641984535c1328737909b4116de681f69062e996324b"
+  },
+  {
+    "skill": "recht-recherchieren",
+    "before": 6420,
+    "after": 6420,
+    "changed": false,
+    "sha256": "ba703c1f9f62c486fc8f4a0e9a8a3bfe070f8b74e397975144546f08086cbfaa"
+  },
+  {
+    "skill": "schriftsaetze-entwerfen",
+    "before": 6743,
+    "after": 6743,
+    "changed": false,
+    "sha256": "33a9b02f6d439bb8e92f3672a7ade3c1e5b3020542ee9d3b82246bd67f2a1995"
+  },
+  {
+    "skill": "vertraege-agb-pruefen",
+    "before": 6778,
+    "after": 6778,
+    "changed": false,
+    "sha256": "55c32e0bc4a330495d5236da6b57ab58782ec0145a858e8593e4b6ea48aceea2"
+  },
+  {
+    "skill": "vertraege-gestalten",
+    "before": 6646,
+    "after": 6646,
+    "changed": false,
+    "sha256": "f6ef96b76e8b1ca46ad7fa94e1849d7c2b91fae457a124b265e4cbede7efcb8e"
+  },
+  {
+    "skill": "workflow-uebergabe",
+    "before": 6562,
+    "after": 6562,
+    "changed": false,
+    "sha256": "9e9a042f2cd8ee75374580c40e1b7a423880310914470f61feb20af0edfe40dc"
+  },
+  {
+    "skill": "zahlungen-buchhaltung",
+    "before": 6791,
+    "after": 6791,
+    "changed": false,
+    "sha256": "692439758bd36a28356a451c3ee7bc2aa7026f19f6ba1299f19d6ebfea28c622"
+  },
+  {
+    "skill": "zeiten-erfassen",
+    "before": 6514,
+    "after": 6514,
+    "changed": false,
+    "sha256": "d558c5f0b2c888f1e7442982b56ecf5a7e21dc09707636f84e4f6445026209a7"
+  }
+]

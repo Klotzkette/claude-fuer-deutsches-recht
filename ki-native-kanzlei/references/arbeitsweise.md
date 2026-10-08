@@ -58,3 +58,11 @@ Je Mandat wird ein [Mandatslauf](mandatslauf-und-freigaben.md) geführt: Phase, 
 
 Die wiederkehrenden Abläufe einer Kanzlei (Tagesstart, neue Anfrage, Posteingang, Fristsache, Schriftsatz, Vertragsprojekt, Mandantenbrief, Zeiten, Wochenabschluss, Abrechnung, Zahlungen, Übergabe, Mandatsende, Freigabe) beschreibt die [Kanzleialltag-Referenz](kanzleialltag-workflows.md). In Claude Cowork und Claude Code starten die Befehle im Ordner `commands` diese Abläufe; `mandatslauf.py cockpit` ordnet alle Mandate eines Kanzleiordners nach Dringlichkeit. In ChatGPT übernehmen ein Projekt mit dem Mini-Prompt als Anweisung und ein Statusblock je Antwort dieselbe Funktion. Die Einrichtung beschreibt [ChatGPT und Claude Cowork einrichten](chatgpt-und-cowork-einrichtung.md).
 
+
+## 1.11. Ausführung im freigegebenen Computerlauf
+
+Die Stufen 0 bis 3 bestimmen weiterhin die interne Arbeitstiefe. Ein [Computerlauf](computersteuerung-und-postfaecher.md) ist eine zusätzliche, ausdrücklich gewählte Sitzung mit eigenen Grenzen für Anwendungen, Konten, Mandate, erlaubte Aktionen und Dauer. Die lokale [CLI](computerlauf-cli.md) dokumentiert diesen Rahmen; sie schaltet keine Anwendung frei und ersetzt keine Rechteprüfung.
+
+Ein vorhandenes, vom Host erlaubtes Werkzeug darf nach konkretem Auftrag und erforderlicher menschlicher Freigabe tatsächlich verwendet werden. „Versand vorbereiten“ und „Versand ausführen“ bleiben getrennte Aufträge. Der Ausdruck „vollständig agentisch“ erweitert weder den Auftrag noch das Recht zur persönlichen Signatur oder zum persönlichen beA-Versand. Soweit ein Schritt menschlich auszuführen ist, bleibt nur dieser Teil stehen; unabhängige Aktenarbeit geht weiter. Der beA-Skill führt [Empfang, eEB und Versand](bea-versand-empfang.md) getrennt.
+
+Jede ausgeführte Außenhandlung erhält einen tatsächlichen Ergebnisnachweis. Unklarer Ausgang bleibt unklar; es erfolgt kein automatischer zweiter Sendeversuch. Sitzung, führende Fassung, menschliche Freigabe, tatsächlicher Vollzug und offene Nachweise sind auch bei einem Hostwechsel zu übergeben. Die übernehmende Umgebung bestätigt ihre eigenen Fähigkeiten und Berechtigungen neu; ein Textstatus erteilt ihr keinen Zugriff.

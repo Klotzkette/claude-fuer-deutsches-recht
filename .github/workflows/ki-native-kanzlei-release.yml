@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Komponententag, z. B. ki-native-kanzlei-v445.33.8'
+        description: 'Komponententag, z. B. ki-native-kanzlei-v445.33.9'
         required: true
 
 permissions:
@@ -42,6 +42,7 @@ jobs:
           test "ki-native-kanzlei-v$VERSION" = "$TAG" || { echo "Tag $TAG passt nicht zu Version $VERSION"; exit 1; }
       - name: Tests der Hilfsprogramme
         run: |
+          python3 scripts/test-ki-native-kanzlei-computerlauf.py
           python3 scripts/test-ki-native-kanzlei-lauf.py
           python3 scripts/test-ki-native-kanzlei-fristen.py
       - name: Lesefassungen setzen

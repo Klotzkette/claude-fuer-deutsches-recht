@@ -1,0 +1,65 @@
+{
+  "notice": "Lesekopie: ausschließlich absolute lokale Pfade neutralisiert und Markdown-Quelllinks relativiert. Das Produktregister enthält weiterhin die Hashes der unveränderten Originalausgabe. Originalausgabe.zip enthält sämtliche Rohdateien. Keine fachliche Antwort nachgebessert.",
+  "files": [
+    {
+      "path": "M-26-117/01_Timeout_Abgleich_v01.md",
+      "original_sha256": "960ab2047e1a01e8743eb893c376fb07d67a3ab29a110186c5d91958b64f0f1f",
+      "reading_copy_sha256": "50622382de08c6f93ce666eb8324b21ef32602d8c54d7700d657b35a825e2418"
+    },
+    {
+      "path": "M-26-118/01_Mandantenantwort_v01.md",
+      "original_sha256": "a3da56a20834bfb4cbc925eda4c0fbdc45334b485b2912f653a4486656e67a32",
+      "reading_copy_sha256": "a3da56a20834bfb4cbc925eda4c0fbdc45334b485b2912f653a4486656e67a32"
+    },
+    {
+      "path": "M-26-118/02_Versandansicht_Mandantenantwort_v01.md",
+      "original_sha256": "c55dd8d13dfb94086d7132342b368a73f59f4deca8d9af40f8cfaa955b816f08",
+      "reading_copy_sha256": "881566be70d876ec7798d6c015f3183ab03bf7c3e569af2f353815f4a2f95b50"
+    },
+    {
+      "path": "M-26-118/03_Gerichtseingang_eEB_Frist_v01.md",
+      "original_sha256": "8fcfb490246a5d2bf9baad16649edbb81fc67412727a285fb1cc7b81ae597b95",
+      "reading_copy_sha256": "8fcfb490246a5d2bf9baad16649edbb81fc67412727a285fb1cc7b81ae597b95"
+    },
+    {
+      "path": "M-26-118/04_Persoenlicher_beA_Versand_v01.md",
+      "original_sha256": "87e5f87e262fbdf5eec0fdb719dc105b0b363934ae5afb2ef6922286e3c98b85",
+      "reading_copy_sha256": "ce5f35f913f832b81d30c49d74e42842700a41f1026e790dce1983238a0469ad"
+    },
+    {
+      "path": "M-26-118/05_Honorar_Zeit_Rechnungsentwurfsstand_v01.md",
+      "original_sha256": "60c15192ac7f07a1ecb5a43284baf867a8d4a914d52b57f9a4e8f4fc8f234553",
+      "reading_copy_sha256": "60c15192ac7f07a1ecb5a43284baf867a8d4a914d52b57f9a4e8f4fc8f234553"
+    },
+    {
+      "path": "M-26-118/offene_zeitfragen.json",
+      "original_sha256": "664472f72b23193b3d05410fb1ac33d016573c2ae5ce068373623f65c01465b9",
+      "reading_copy_sha256": "664472f72b23193b3d05410fb1ac33d016573c2ae5ce068373623f65c01465b9"
+    },
+    {
+      "path": "Produktregister_und_Status.json",
+      "original_sha256": "fc63ed3cb2b62f8a1e9782ac510e090eb2ec4c431eecaeb0a55aa0742d46db6b",
+      "reading_copy_sha256": "7cffdf874b26bca257c1728e678482f0c27507866dd4543e120780fa0728d8f3"
+    },
+    {
+      "path": "Quellen_und_Werkzeugstand.md",
+      "original_sha256": "6254cc7173ad3efd175b0ba74bf310630be042858ee6c1092e25632452ff8c6c",
+      "reading_copy_sha256": "c00845c07d9dd76086eca91b8315feb3339060b3d0244153c4d8133f9e24c7be"
+    },
+    {
+      "path": "README.md",
+      "original_sha256": "3f67db12a1634ac3a0d6cd5ae47d889f3a7dc76c553959a35d9c05efb072e4c7",
+      "reading_copy_sha256": "c75a94f56358549b358b887c4049adc9c4f57f8502939979e6180344a30dff4b"
+    },
+    {
+      "path": "Status_und_Fortsetzung.md",
+      "original_sha256": "8e1218cfad7ce938e0cd1d7cdeb0c10c5415c8da785afadc0f2fb68372c83159",
+      "reading_copy_sha256": "8e1218cfad7ce938e0cd1d7cdeb0c10c5415c8da785afadc0f2fb68372c83159"
+    },
+    {
+      "path": "lese-und-werkzeugprotokoll.jsonl",
+      "original_sha256": "7c4d1b5f5059e434725a4fd103e798213c60269b30f9910676df17831cc4cf46",
+      "reading_copy_sha256": "95602366dd6eaf43514a282b82b571891bd266dd3f7acbc9d1be4f4633e615f3"
+    }
+  ]
+}

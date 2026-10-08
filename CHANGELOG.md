@@ -1,3 +1,11 @@
+# ki-native-kanzlei-v445.33.9 - 2026-10-08
+
+Die KI-native Kanzlei führt Posteingang, Fristsachen, Sacharbeit, konkrete Versandfreigabe, tatsächlichen Nachweis und Abrechnung als zusammenhängenden Computerlauf. Die 18 Skills bleiben erhalten; der beA-Skill umfasst jetzt Empfang, eEB-Behandlung und kontrollierten Versand mit getrennten Rollen- und Signaturwegen. `/computerlauf` und `/bea` ergänzen die bisherigen Befehle. Werkstatt, Mini und Hauptproblem führen denselben Ablauf.
+
+Ein lokaler Helfer dokumentiert begrenzte Sitzungen, unveränderte Versandfassungen, menschliche Freigaben und einzelne Versuche. Er enthält keinen Transport und verwaltet keine Zugangsdaten. Tatsächliche Ausführung braucht ein vorhandenes, erlaubtes Hostwerkzeug. Unklarer Versandstatus sperrt eine blinde Wiederholung; ein erforderlicher persönlicher beA-Schlussakt bleibt beim Menschen. Die README warnt prominent vor dem Prototypbetrieb, echten Außenwirkungen und kompromittierten PINs; aktuelle Herstellergrenzen und amtliche beA-Quellen sind dokumentiert.
+
+Prüfungen und Grenzen der Simulation stehen im Komponenten-Qualitätsbericht. Alle 24 bestehenden Testakten bleiben unverändert.
+
 # ki-native-kanzlei-v445.33.8 - Amtliche Normprüfung und konsistente Mandatsläufe
 
 Die achtzehn Skills wurden anhand gelesener amtlicher Norm- und Entscheidungsquellen geglättet. Berichtigt sind insbesondere Fristen, Übergangsrecht, Vergütungs- und Steuerangaben, Geldwäschepflichten sowie einzelne Form- und Absatzverweise. Die Testakten bleiben unverändert.

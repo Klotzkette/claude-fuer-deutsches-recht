@@ -41,14 +41,14 @@
     },
     {
       "skill": "bea-anlagen-vorbereiten",
-      "title": "Hauptdokument und Anlagen für die beA-Einreichung vorbereiten",
+      "title": "beA-Empfang, Anlagen und kontrollierten Versand durchführen",
       "source": "ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md",
-      "source_sha256": "222a0a436650c8db8181e4c8b8bc175121b5db67c9e17c1e4f8d16ee4752488b",
-      "words": 6560,
-      "utf8_bytes": 54579,
-      "pages": 15,
+      "source_sha256": "a2d7bf1d6bbc7813a80c4d931074fc5b159b4db476dc676ec2c96f9f54f35568",
+      "words": 6514,
+      "utf8_bytes": 55298,
+      "pages": 16,
       "pdf": "bea-anlagen-vorbereiten.pdf",
-      "pdf_sha256": "0ec43d090838e728b5841448d25da6f4361cc41a133ab8f4e00db8ab053423e7",
+      "pdf_sha256": "a7527f9f76b0e85b3831925ac0ed471446aaf6376e9bc85e327acc5fd7e46aa4",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -91,12 +91,12 @@
       "skill": "ki-kanzlei-steuern",
       "title": "KI-native Kanzlei: das Mandat vom Auftrag bis zum Ergebnis führen",
       "source": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
-      "source_sha256": "f92341b2e14e036c240d03fe74091deaa096359b97d33fc9904e576b0fb55e0b",
-      "words": 6552,
-      "utf8_bytes": 56812,
+      "source_sha256": "79fb06e5a74b83aa0596c5eac69468b876d30e7fe56ce3d8fccb037fd16892bb",
+      "words": 6736,
+      "utf8_bytes": 58861,
       "pages": 18,
       "pdf": "ki-kanzlei-steuern.pdf",
-      "pdf_sha256": "5e0345be9a16fccf8c12a86e1e76e46db79811cee7765661341ba5d4c440f3d8",
+      "pdf_sha256": "c6d8734479e8a5d53e6df7e5cc357239e1544455b9f21960de73a155831ad4f0",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -221,8 +221,8 @@
     }
   ],
   "skill_count": 18,
-  "total_skill_pages": 291,
-  "handbook_sha256": "67c05f303384297a706affa34fc215d30affeabd93bfe5576ff17a6ce56f02f6",
-  "handbook_pages": 291,
+  "total_skill_pages": 292,
+  "handbook_sha256": "d6088bf022eff34717384c26026311a441471af2471be3f2d2a0d6d0d3ee7797",
+  "handbook_pages": 292,
   "measurement": "Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern."
 }

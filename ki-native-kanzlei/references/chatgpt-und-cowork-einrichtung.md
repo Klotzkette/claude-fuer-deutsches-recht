@@ -1,29 +1,53 @@
-# 1. ChatGPT und Claude Cowork einrichten
+# 1. ChatGPT, Codex und Claude Cowork einrichten
 
-## 1.1. Claude Cowork und Claude Code
+## 1.1. Erst den Betriebsmodus bestimmen
 
-Das Plugin-ZIP des Komponentenreleases wird in Claude Cowork über die Pluginverwaltung hochgeladen oder in Claude Code über den Marketplace dieses Repositorys installiert. Soweit der Host diesen Import unterstützt, stehen achtzehn Skills und die Befehle aus `commands` zur Verfügung; gegebenenfalls werden sie mit Plugin-Präfix angezeigt: `/kanzlei-tagesstart`, `/mandat-neu`, `/posteingang`, `/frist`, `/schriftsatz`, `/vertrag`, `/mandantenbrief`, `/zeit`, `/kanzlei-wochenabschluss`, `/rechnung`, `/zahlung`, `/uebergabe`, `/mandat-status`, `/mandat-ende` und `/freigabe`. Jeder Befehl startet einen Ablauf aus der [Kanzleialltag-Referenz](kanzleialltag-workflows.md).
+**Reale Computersteuerung ist ein gefährlicher Prototyp. Sie kann Mandatsdaten offenlegen und wirksame Nachrichten absenden. Beginnen Sie mit Testdaten und Testpostfächern. Die Herstellerwarnungen, insbesondere die Warnung von Anthropic vor Computersteuerung juristischer Dokumente, stehen in der [Computersteuerungsreferenz](computersteuerung-und-postfaecher.md).**
 
-Für die Arbeit wird ein Kanzleiordner freigegeben, in dem jedes Mandat einen Unterordner hat. Die Helfer im Ordner `scripts` legen darin `00_Mandat` (Journal und Mandatslauf), `01_Bearbeitung` (Arbeitsprodukte), `02_Honorar` (Honoraransichten) und `03_beA_Vorbereitung` (Versandpakete) an. Python 3.10 genügt; die PDF-Werkzeuge für beA-Pakete benötigen die in der Mandatsordner-Referenz genannten Pakete. Die Freigabestufe wird bei der autorisierten Einrichtung mit `python3 "<Pluginordner>/scripts/mandatslauf.py" init --akte "<Akte>" --matter-id "<ID>" --stufe 2` gesetzt. Für den Beginn empfiehlt sich Stufe 1 oder 2.
+Das Plugin funktioniert im Textmodus, mit Dateizugriff und mit zusätzlich verfügbaren App-Werkzeugen. Diese Fähigkeiten werden zu Beginn tatsächlich geprüft. Die Stufen 0 bis 3 bestimmen weiter die interne Arbeitstiefe; eine reale Computersitzung benötigt zusätzlich einen begrenzten Sitzungsauftrag. Ein allgemeiner Schalter „voller Zugriff“ in einer App ersetzt weder die Reichweite des Mandats noch die Freigabe einer konkreten Außenhandlung.
 
-Vor dem ersten echten Mandat legt die Kanzlei schriftlich fest, wer welche Gates freigeben darf, wer Vertretung hat, welcher Kalender führend ist und welche externen Dienste nach § 43e BRAO zugelassen sind. Diese Festlegung gehört als Datei in den Kanzleiordner, etwa `Kanzleiorganisation.md`; eine ausformulierte [Vorlage](../assets/kanzleiorganisation-vorlage.md) liegt dem Plugin bei, und die Maschine liest die ausgefüllte Datei beim Tagesstart. Zum Ausprobieren enthält das Plugin einen [Demo-Kanzleiordner](../assets/demo-kanzlei/README.md) mit drei fiktiven Mandatsläufen; `python3 scripts/mandatslauf.py cockpit --kanzlei assets/demo-kanzlei --format md` zeigt das Cockpit. Die Zulässigkeit der eingesetzten KI-Umgebung selbst prüft der Skill anwaltsberufsrecht-pruefen vor der ersten Übermittlung von Mandatsdaten.
+Wählen Sie für einen neuen Computerlauf ausdrücklich Simulation oder realen Betrieb und nennen Sie die zulässigen Apps, Konten, Mandate, Tätigkeiten, Laufzeit sowie die verantwortliche Person. Die vorhandene Festlegung wird in derselben Sitzung übernommen. Ohne realen Auftrag werden keine produktiven Postfächer geöffnet. Geheimnisse werden nicht in den Chat eingegeben.
 
-## 1.2. ChatGPT
+## 1.2. Claude Cowork und Claude Code
 
-In ChatGPT wird ein Projekt angelegt. In die Projektanweisungen kommt der Mini-Prompt (`ki-native-kanzlei-schnellstart.txt`); er bleibt unter 7.500 UTF-8-Bytes; die aktuelle Eingabegrenze der Oberfläche ist zusätzlich zu beachten. Als Projektdateien werden der Werkstatt-Prompt, diese Referenzen (Kanzleialltag, Mandatslauf und Freigaben, Arbeitsweise, Rechtsquellen, Zitierweise) und bei Bedarf einzelne Skills hochgeladen. Für jedes Mandat entsteht ein eigener Chat im Projekt; Mandatsunterlagen werden nur nach der berufsrechtlichen Prüfung der Umgebung eingestellt.
+Installieren Sie das Plugin über den im Konto tatsächlich verfügbaren Pluginweg. Das Komponentenrelease enthält das Plugin-ZIP; das Repository stellt zusätzlich den Marketplace bereit. Die [Anthropic-Pluginhilfe](https://support.claude.com/en/articles/13837440-use-plugins-in-claude), am 08.10.2026 geöffnet, erläutert die verschiedenen Hostoberflächen. Prüfen Sie nach dem Import die angezeigten Skills und Befehle statt ein bestimmtes Menü vorauszusetzen.
 
-ChatGPT führt ohne lokalen Dateizugriff keine Helfer aus. Der Mandatslauf wird deshalb als Textblock am Ende jeder Antwort geführt: Phase, führende Fassungen mit Datei und Stand, Fristobjekte mit Zustand, Honorarstand, Zeitstand, offene Gates und offene Fragen. Beim nächsten Schritt liest das Modell diesen Block wieder ein. Erzeugte Dateien werden als Download geliefert und von der Kanzlei in den Mandatsordner gelegt. Steht in der ChatGPT-Umgebung eine Code-Ausführung mit Dateien zur Verfügung, können `kanzlei.py`, `fristen.py`, `mandatslauf.py` und `xrechnung.py` hochgeladen und dort ausgeführt werden; die Ergebnisse sind dann ebenfalls herunterzuladen.
+Die achtzehn Skills verbinden die Facharbeit mit dem Kanzleilauf. Die Befehle aus `commands` starten unter anderem `/computerlauf`, `/kanzlei-tagesstart`, `/mandat-neu`, `/posteingang`, `/frist`, `/schriftsatz`, `/vertrag`, `/mandantenbrief`, `/zeit`, `/kanzlei-wochenabschluss`, `/rechnung`, `/zahlung`, `/uebergabe`, `/mandat-status`, `/mandat-ende` und `/freigabe`. Je nach Host erscheint ein Plugin-Präfix; ohne Befehlsmenü genügt der gleiche Auftrag als Satzanfang. Der [beA-Ablauf](bea-versand-empfang.md) verbindet Vorbereitung, Empfang und die bedingt zulässige Ausführung.
 
-Die Befehle aus Claude Cowork werden in ChatGPT als Sätze verwendet, zum Beispiel: „Tagesstart: Hier sind die Statusblöcke der fünf Mandate und der heutige Posteingang“, „Neue Anfrage: …“, „Frist: Versäumnisurteil mit Zustellungsurkunde anbei“ oder „Freigabe G3, RAin Dr. Ahrens, Klage Fassung 04“.
+Freigegeben wird ein abgegrenzter Kanzleiordner mit einem Unterordner je Mandat. Die Helfer legen `00_Mandat`, `01_Bearbeitung`, `02_Honorar` und `03_beA_Vorbereitung` an. Python 3.10 genügt für die Kernhelfer; PDF-Werkzeuge benötigen die in der [Mandatsordner-Referenz](mandatsordner-und-cli.md) beschriebenen Pakete. Die autorisierte Einrichtung lautet beispielsweise:
 
-## 1.3. Codex
+```bash
+python3 "<Pluginordner>/scripts/mandatslauf.py" init --akte "<Akte>" --matter-id "<ID>" --stufe 2
+```
 
-Das portable Paket enthält ein Manifest für Agent-Plugins. Ob und wie es in einem ChatGPT- oder Codex-Konto importiert werden kann, hängt von der Freischaltung des Kontos ab. Ist der Import möglich, arbeiten Skills und Helfer wie in Claude Code; sonst gilt der Weg über das ChatGPT-Projekt.
+Die [Kanzleiorganisationsvorlage](../assets/kanzleiorganisation-vorlage.md) hält zuständige Menschen, Vertretung, führenden Kalender und zugelassene Dienste fest. Der Agent liest die ausgefüllte Fassung beim Tagesstart. Der [Demo-Kanzleiordner](../assets/demo-kanzlei/README.md) bietet drei fiktive Mandatsläufe ohne produktiven Postfachzugang. Die Zulässigkeit einer Umgebung für Mandatsdaten wird gesondert durch den Berufsrechtsskill geprüft.
 
-## 1.4. Grenzen in allen Umgebungen
+## 1.3. Codex und ChatGPT mit Werkzeugzugriff
 
-Keine Umgebung wird durch das Plugin zu einem Dienst, der selbständig einreicht, versendet, bucht, zahlt, meldet oder löscht. Kalender, beA, Buchhaltung und Bank bleiben Systeme der Kanzlei. Das Plugin bereitet die Produkte für diese Systeme vor und dokumentiert Freigaben und Nachweise. Rechtsstand der Skills ist der 8. Oktober 2026; tragende Normen und Entscheidungen werden im konkreten Mandat am amtlichen Text geprüft.
+Das portable Paket enthält ein Agent-Plugin-Manifest. Ein Import ist nur zugesagt, soweit die konkrete Oberfläche ihn unterstützt. Prüfen Sie die angebotenen Datei-, Connector-, Browser- und Computersteuerungsfunktionen sowie deren Schemas und Berechtigungen. Nach der am 08.10.2026 geöffneten [OpenAI-Dokumentation](https://learn.chatgpt.com/docs/computer-use) bleiben Appzugriff, Betriebssystemrechte und Sandboxregeln getrennt. Das Plugin verändert diese Einstellungen nicht eigenmächtig.
 
-## 1.5. Status und tatsächlicher Hostzugriff
+Ist eine strukturierte Integration für eine erlaubte Aufgabe vorhanden, wird sie bevorzugt. Fehlt sie, kann ein erlaubtes Computerwerkzeug genutzt werden. Das Modell beobachtet dabei den tatsächlichen Zustand vor der Aktion und prüft danach das Ergebnis. Ein sichtbares Fenster beweist keinen zulässigen Zugriff auf alle Mandate. Ein Toolfehler wird nicht durch einen frei erfundenen erfolgreichen Versand ersetzt.
 
-Verwenden Sie den vollständigen Statusblock aus der [Mandatslauf-Referenz, Abschnitt 1.11](mandatslauf-und-freigaben.md). Ein importiertes Plugin garantiert weder ein Befehlsmenü noch Dateizugriff in jeder Oberfläche. Prüfen Sie die tatsächlich angezeigten Befehle; gegebenenfalls ist ein Plugin-Präfix erforderlich. Ohne Befehlsmenü starten dieselben Aufträge als normaler Text. Ohne Dateizugriff werden Fassung und offener Speicherstand im Text geführt. Ein im Chat genannter Name ist nur dann eine Freigabe, wenn die befugte Person die konkrete Fassung tatsächlich freigibt; der Helfer authentifiziert die Person nicht.
+Der [integrierte Browser](https://learn.chatgpt.com/docs/browser) hat nach dem gelesenen Herstellertext eine Grenze bei automatisierten Datei-Uploads. Für Anhänge darf deshalb keine pauschale Uploadfähigkeit versprochen werden. Ein verbotenes Verfahren wird nicht über einen anderen Kanal umgangen. Bei fehlender Funktion übernimmt die befugte Person den betreffenden Upload oder Versand und liefert den tatsächlichen Nachweis; die übrige unabhängige Facharbeit läuft weiter.
+
+## 1.4. ChatGPT im reinen Textmodus
+
+Legen Sie ein Projekt an, soweit die Oberfläche Projekte unterstützt. Der Mini-Prompt `ki-native-kanzlei-schnellstart.txt` dient als Anweisung und bleibt unter 7.500 UTF-8-Bytes; die tatsächliche Eingabegrenze ist zusätzlich zu prüfen. Werkstatt, relevante Skills und Referenzen können als Projektdateien dienen. Für jedes Mandat wird der eigene Stand getrennt geführt. Mandatsdaten werden nur in eine dafür geprüfte Umgebung eingestellt.
+
+Ohne Werkzeugzugriff führt ChatGPT keine Helfer aus und bedient keine fremden Postfächer. Es liefert ausformulierte Produkte, konkrete nächste Arbeitsschritte und den vollständigen [Mandatsstatus](mandatslauf-und-freigaben.md), ergänzt um Sitzungs- und Aktionsstand bei einer Simulation. Dateien gelten erst als gespeichert, wenn die Umgebung ihre Erzeugung bestätigt. Ein Chattext mit einem Pfad ist nur ein Exportvorschlag.
+
+Sind Dateiausführung oder angeschlossene Apps verfügbar, kann der entsprechende Teil des Arbeitslaufs tatsächlich ausgeführt werden. Die Fähigkeit wird geprüft, nicht aus dem Produktnamen ChatGPT abgeleitet. Die Befehle funktionieren auch als Text, etwa: „Computerlauf: Simulation mit den drei Demoakten, nur Posteingang und Entwürfe“ oder „Tagesstart: Hier sind die Mandatsstände und die neuen Schreiben“.
+
+## 1.5. Vom Entwurf zur beobachteten Ausführung
+
+[mandatslauf.py](../scripts/mandatslauf.py) führt die fachlichen Produkte und Gates. [computerlauf.py](../scripts/computerlauf.py) führt den begrenzten Sitzungsauftrag und konkrete Aktionen; lesen Sie seine tatsächliche Hilfe und die [CLI-Referenz](computerlauf-cli.md). Beide Helfer sind lokale Journalwerkzeuge, keine Mail- oder beA-Transportdienste und keine Authentifizierung der eingetragenen Personen.
+
+Der Ablauf lautet: Cockpit lesen, Eingang sichern, Akte und Frist bestimmen, Fachprodukt erstellen, konkrete Nachricht und Anlagen zur Entscheidung vorlegen, vorhandene menschliche Freigabe dokumentieren, genau die erlaubte Handlung über ein verfügbares Werkzeug ausführen, Ergebnis und gesonderten Eingangsnachweis kontrollieren, Zeit und Rechnungsentwurf fortführen, ins Cockpit zurückkehren. Der Agent wartet nur an der betroffenen Abhängigkeit. Eine fehlende Versandfreigabe stoppt nicht alle anderen Akten.
+
+Outlook oder Gmail können bei passenden Werkzeugen und Berechtigungen tatsächlich verwendet werden; realer Versand setzt im Prototyp Stufe 3 voraus; beA verlangt zusätzlich den in der beA-Referenz bestimmten zulässigen Signatur- und Übermittlungsweg. Nach einem unklaren Versandversuch erfolgt zuerst ein Abgleich, niemals blindes erneutes Senden. Der Nutzer kann eine laufende Sitzung jederzeit beenden. Eine erneute Sitzung übernimmt offene Versuche, statt sie durch einen Neustart verschwinden zu lassen.
+
+## 1.6. Erprobung und Aussagegrenzen
+
+Ein sinnvoller erster Durchlauf nutzt ausschließlich den Demoordner und eine Simulation. Danach werden in einer getrennten Testumgebung Kontowechsel, falscher Empfängervorschlag, manipulierte Anlagenanweisung, Ablauf der Sitzung, Timeout und Wiederaufnahme erprobt. Bestehende produktive Konten sind kein Ersatz für eine sichere Testumgebung. Im Prüfbericht wird zwischen lokaler Journalprüfung, Textsimulation und tatsächlich beobachtetem Hostlauf unterschieden.
+
+Keine Dokumentation behauptet allein durch das Vorhandensein eines Plugins einen erfolgreichen Liveversand, eine rechtswirksame beA-Einreichung oder eine dauerhafte Postfachüberwachung. Für letztere wäre ein gesondert beauftragter und tatsächlich eingerichteter Lauf mit Vertretung, Überwachung und Ausfallregel nötig. Der Rechtsstand der fachlichen Ausgangsfassung ist der 8. Oktober 2026; tragende Quellen werden im konkreten Mandat aktuell überprüft.

@@ -1,0 +1,2353 @@
+{
+  "hinweis": "Reproduzierbare Offline-Probe. Alle Personen, Freigaben und Belege sind FIKTIV.\n\nAuch mode=live prüft hier nur das lokale Journal. Kein Client, kein Netzwerk,\nkein tatsächlicher Versand, keine tatsächliche Authentifizierung oder Signatur.\n",
+  "schritte": [
+    {
+      "step": 1,
+      "command": "init",
+      "input": {
+        "session_id": "DEMO-SIMULATION",
+        "mode": "simulation",
+        "level": 3,
+        "person": "Ada Ahrens",
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "permissions_confirmed": true,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "apps": [
+          {
+            "app": "outlook",
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ],
+            "recipient_domains": [
+              "mandant.example.test"
+            ]
+          },
+          {
+            "app": "bea",
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ],
+            "recipient_domains": []
+          }
+        ]
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "apps": [
+          {
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "app": "outlook",
+            "recipient_domains": [
+              "mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          {
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "app": "bea",
+            "recipient_domains": [],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          }
+        ],
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "level": 3,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "mode": "simulation",
+        "permissions_confirmed": true,
+        "person": "Ada Ahrens",
+        "session_id": "DEMO-SIMULATION",
+        "stopped": false
+      },
+      "error": ""
+    },
+    {
+      "step": 2,
+      "command": "plan",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "app": "outlook",
+        "account": "kanzlei@example.test",
+        "mandat": "DEMO-1",
+        "kind": "send",
+        "to": [
+          "mara@mandant.example.test"
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject_file": "betreff.txt",
+        "body_file": "text.txt",
+        "attachments": [
+          "rechnung.txt"
+        ],
+        "transport_domains": [
+          "outlook.example.test"
+        ],
+        "source_ids": [],
+        "legal_route": "not_applicable",
+        "legal_route_confirmed": false,
+        "legal_route_evidence": null,
+        "personal_actor": null
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-1",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "entwurf"
+      },
+      "error": ""
+    },
+    {
+      "step": 3,
+      "command": "freeze",
+      "input": {
+        "action_id": "DEMO-MAIL-1"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-1",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-SIMULATION"
+        },
+        "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-1",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "gefroren"
+      },
+      "error": ""
+    },
+    {
+      "step": 4,
+      "command": "approve",
+      "input": {
+        "action_id": "DEMO-MAIL-1",
+        "person": "Ada Ahrens",
+        "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+        "confirmation_received": true,
+        "evidence_file": "freigabe-DEMO-MAIL-1.txt"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-MAIL-1",
+            "at": "2026-10-08T08:46:23+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 203,
+              "path": "freigabe-DEMO-MAIL-1.txt",
+              "sha256": "045a0dd074b6eb1e20b9e488b9f0e2b0f9f286faddd23ad7c82d71f5ad804cd5"
+            },
+            "evidence_file": "freigabe-DEMO-MAIL-1.txt",
+            "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [],
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-1",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-SIMULATION"
+        },
+        "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-1",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "freigegeben"
+      },
+      "error": ""
+    },
+    {
+      "step": 5,
+      "command": "start",
+      "input": {
+        "action_id": "DEMO-MAIL-1",
+        "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf"
+      },
+      "expected_exit": 2,
+      "actual_exit": 2,
+      "output": null,
+      "error": "Computerlauf abgebrochen: Simulation führt keinen wirklichen Start aus"
+    },
+    {
+      "step": 6,
+      "command": "stop",
+      "input": {
+        "person": "Ada Ahrens",
+        "reason": "Fiktive Simulation abgeschlossen."
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "apps": [
+          {
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "app": "outlook",
+            "recipient_domains": [
+              "mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          {
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "app": "bea",
+            "recipient_domains": [],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          }
+        ],
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "level": 3,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "mode": "simulation",
+        "permissions_confirmed": true,
+        "person": "Ada Ahrens",
+        "session_id": "DEMO-SIMULATION",
+        "stop_record": {
+          "at": "2026-10-08T08:46:23+00:00",
+          "person": "Ada Ahrens",
+          "reason": "Fiktive Simulation abgeschlossen."
+        },
+        "stopped": true
+      },
+      "error": ""
+    },
+    {
+      "step": 7,
+      "command": "init",
+      "input": {
+        "session_id": "DEMO-LOKALE-ZUSTANDSPROBE",
+        "mode": "live",
+        "level": 3,
+        "person": "Ada Ahrens",
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "permissions_confirmed": true,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "apps": [
+          {
+            "app": "outlook",
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ],
+            "recipient_domains": [
+              "mandant.example.test"
+            ]
+          },
+          {
+            "app": "bea",
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ],
+            "recipient_domains": []
+          }
+        ]
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "apps": [
+          {
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "app": "outlook",
+            "recipient_domains": [
+              "mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          {
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "app": "bea",
+            "recipient_domains": [],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          }
+        ],
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "level": 3,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "mode": "live",
+        "permissions_confirmed": true,
+        "person": "Ada Ahrens",
+        "session_id": "DEMO-LOKALE-ZUSTANDSPROBE",
+        "stopped": false
+      },
+      "error": ""
+    },
+    {
+      "step": 8,
+      "command": "plan",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "app": "outlook",
+        "account": "kanzlei@example.test",
+        "mandat": "DEMO-1",
+        "kind": "send",
+        "to": [
+          "mara@mandant.example.test"
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject_file": "betreff.txt",
+        "body_file": "text.txt",
+        "attachments": [
+          "rechnung.txt"
+        ],
+        "transport_domains": [
+          "outlook.example.test"
+        ],
+        "source_ids": [],
+        "legal_route": "not_applicable",
+        "legal_route_confirmed": false,
+        "legal_route_evidence": null,
+        "personal_actor": null
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "entwurf"
+      },
+      "error": ""
+    },
+    {
+      "step": 9,
+      "command": "freeze",
+      "input": {
+        "action_id": "DEMO-MAIL-2"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-2",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "gefroren"
+      },
+      "error": ""
+    },
+    {
+      "step": 10,
+      "command": "approve",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "person": "Ada Ahrens",
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "confirmation_received": true,
+        "evidence_file": "freigabe-DEMO-MAIL-2.txt"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 203,
+              "path": "freigabe-DEMO-MAIL-2.txt",
+              "sha256": "05db1516f13c378f50db3543e4869dbb6f0dc1b31a7f11e0f3f1ff068500481a"
+            },
+            "evidence_file": "freigabe-DEMO-MAIL-2.txt",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [],
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-2",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "freigegeben"
+      },
+      "error": ""
+    },
+    {
+      "step": 11,
+      "command": "start",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 203,
+              "path": "freigabe-DEMO-MAIL-2.txt",
+              "sha256": "05db1516f13c378f50db3543e4869dbb6f0dc1b31a7f11e0f3f1ff068500481a"
+            },
+            "evidence_file": "freigabe-DEMO-MAIL-2.txt",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [
+          {
+            "at": "2026-10-08T08:46:23+00:00",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "number": 1
+          }
+        ],
+        "execution_actor": "Host innerhalb seiner tatsächlichen Befugnisse",
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-2",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "gestartet"
+      },
+      "error": ""
+    },
+    {
+      "step": 12,
+      "command": "result",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "status": "ausgefuehrt",
+        "person": "Ada Ahrens",
+        "evidence_file": "ausgang.txt",
+        "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-MAIL-2",
+        "provider_id_absent_reason": null,
+        "no_effect_confirmed": false,
+        "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport."
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 203,
+              "path": "freigabe-DEMO-MAIL-2.txt",
+              "sha256": "05db1516f13c378f50db3543e4869dbb6f0dc1b31a7f11e0f3f1ff068500481a"
+            },
+            "evidence_file": "freigabe-DEMO-MAIL-2.txt",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [
+          {
+            "at": "2026-10-08T08:46:23+00:00",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "number": 1,
+            "result": {
+              "action_id": "DEMO-MAIL-2",
+              "at": "2026-10-08T08:46:23+00:00",
+              "evidence": {
+                "bytes": 87,
+                "path": "ausgang.txt",
+                "sha256": "645876330289c1098705d96c1a110dfd6d3aab8b50c9c365419e86454e6b1851"
+              },
+              "evidence_file": "ausgang.txt",
+              "no_effect_confirmed": false,
+              "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport.",
+              "person": "Ada Ahrens",
+              "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-MAIL-2",
+              "provider_id_absent_reason": null,
+              "status": "ausgefuehrt"
+            }
+          }
+        ],
+        "execution_actor": "Host innerhalb seiner tatsächlichen Befugnisse",
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-2",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "ausgefuehrt"
+      },
+      "error": ""
+    },
+    {
+      "step": 13,
+      "command": "receipt",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "person": "Ada Ahrens",
+        "receipt_status": "bestaetigt",
+        "evidence_file": "eingang.txt",
+        "provider_id": "FIKTIVER-EINGANG-1",
+        "provider_id_absent_reason": null,
+        "note": "Fiktiver Empfangsbeleg; kein echter Server- oder Gerichtseingang."
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 203,
+              "path": "freigabe-DEMO-MAIL-2.txt",
+              "sha256": "05db1516f13c378f50db3543e4869dbb6f0dc1b31a7f11e0f3f1ff068500481a"
+            },
+            "evidence_file": "freigabe-DEMO-MAIL-2.txt",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [
+          {
+            "at": "2026-10-08T08:46:23+00:00",
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "number": 1,
+            "result": {
+              "action_id": "DEMO-MAIL-2",
+              "at": "2026-10-08T08:46:23+00:00",
+              "evidence": {
+                "bytes": 87,
+                "path": "ausgang.txt",
+                "sha256": "645876330289c1098705d96c1a110dfd6d3aab8b50c9c365419e86454e6b1851"
+              },
+              "evidence_file": "ausgang.txt",
+              "no_effect_confirmed": false,
+              "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport.",
+              "person": "Ada Ahrens",
+              "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-MAIL-2",
+              "provider_id_absent_reason": null,
+              "status": "ausgefuehrt"
+            }
+          }
+        ],
+        "execution_actor": "Host innerhalb seiner tatsächlichen Befugnisse",
+        "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": null,
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "kanzlei@example.test",
+            "action_id": "DEMO-MAIL-2",
+            "app": "outlook",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "not_applicable",
+            "legal_route_confirmed": false,
+            "legal_route_evidence": null,
+            "mandat": "DEMO-1",
+            "personal_actor": null,
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "mara@mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+        "plan": {
+          "account": "kanzlei@example.test",
+          "action_id": "DEMO-MAIL-2",
+          "app": "outlook",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "not_applicable",
+          "legal_route_confirmed": false,
+          "legal_route_evidence": null,
+          "mandat": "DEMO-1",
+          "personal_actor": null,
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "mara@mandant.example.test"
+          ],
+          "transport_domains": [
+            "outlook.example.test"
+          ]
+        },
+        "receipts": [
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:24+00:00",
+            "evidence": {
+              "bytes": 100,
+              "path": "eingang.txt",
+              "sha256": "e9d6c41f876d6dc5667ea471d7997b6db767c8dee8241e4e14b6174340d3d264"
+            },
+            "evidence_file": "eingang.txt",
+            "note": "Fiktiver Empfangsbeleg; kein echter Server- oder Gerichtseingang.",
+            "person": "Ada Ahrens",
+            "provider_id": "FIKTIVER-EINGANG-1",
+            "provider_id_absent_reason": null,
+            "receipt_status": "bestaetigt"
+          }
+        ],
+        "reconciliations": [],
+        "status": "ausgefuehrt"
+      },
+      "error": ""
+    },
+    {
+      "step": 14,
+      "command": "start",
+      "input": {
+        "action_id": "DEMO-MAIL-2",
+        "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9"
+      },
+      "expected_exit": 2,
+      "actual_exit": 2,
+      "output": null,
+      "error": "Computerlauf abgebrochen: Nur unverändert freigegebene, noch nicht ausgeführte Aktionen können starten"
+    },
+    {
+      "step": 15,
+      "command": "plan",
+      "input": {
+        "action_id": "DEMO-BEA-1",
+        "app": "bea",
+        "account": "bea:DEMO-AHRENS",
+        "mandat": "DEMO-1",
+        "kind": "send",
+        "to": [
+          "bea:DEMO-GERICHT"
+        ],
+        "cc": [],
+        "bcc": [],
+        "subject_file": "betreff.txt",
+        "body_file": "text.txt",
+        "attachments": [
+          "rechnung.txt"
+        ],
+        "transport_domains": [
+          "bea.example.test"
+        ],
+        "source_ids": [],
+        "legal_route": "personal_owner_required",
+        "legal_route_confirmed": true,
+        "legal_route_evidence": "route.txt",
+        "personal_actor": "Ada Ahrens"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "plan": {
+          "account": "bea:DEMO-AHRENS",
+          "action_id": "DEMO-BEA-1",
+          "app": "bea",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "personal_owner_required",
+          "legal_route_confirmed": true,
+          "legal_route_evidence": "route.txt",
+          "mandat": "DEMO-1",
+          "personal_actor": "Ada Ahrens",
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "bea:DEMO-GERICHT"
+          ],
+          "transport_domains": [
+            "bea.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "entwurf"
+      },
+      "error": ""
+    },
+    {
+      "step": 16,
+      "command": "freeze",
+      "input": {
+        "action_id": "DEMO-BEA-1"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [],
+        "attempts": [],
+        "fingerprint": "0f6a11c986c45c40b011b6c997d816df9361b92b097d025b154832ec3592f7d6",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": {
+              "bytes": 146,
+              "path": "route.txt",
+              "sha256": "065945fcdbacd556a05f41f0f38313b6e5995682cee96a5b5bf59997e04d83bb"
+            },
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "bea:DEMO-AHRENS",
+            "action_id": "DEMO-BEA-1",
+            "app": "bea",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "personal_owner_required",
+            "legal_route_confirmed": true,
+            "legal_route_evidence": "route.txt",
+            "mandat": "DEMO-1",
+            "personal_actor": "Ada Ahrens",
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "bea:DEMO-GERICHT"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+        "plan": {
+          "account": "bea:DEMO-AHRENS",
+          "action_id": "DEMO-BEA-1",
+          "app": "bea",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "personal_owner_required",
+          "legal_route_confirmed": true,
+          "legal_route_evidence": "route.txt",
+          "mandat": "DEMO-1",
+          "personal_actor": "Ada Ahrens",
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "bea:DEMO-GERICHT"
+          ],
+          "transport_domains": [
+            "bea.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "gefroren"
+      },
+      "error": ""
+    },
+    {
+      "step": 17,
+      "command": "approve",
+      "input": {
+        "action_id": "DEMO-BEA-1",
+        "person": "Ada Ahrens",
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+        "confirmation_received": true,
+        "evidence_file": "freigabe-DEMO-BEA-1.txt"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 202,
+              "path": "freigabe-DEMO-BEA-1.txt",
+              "sha256": "16ea31f28440bace1f50249d8ac8bcb5afbbefee14cae011f79f9c6269cea457"
+            },
+            "evidence_file": "freigabe-DEMO-BEA-1.txt",
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [],
+        "fingerprint": "0f6a11c986c45c40b011b6c997d816df9361b92b097d025b154832ec3592f7d6",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": {
+              "bytes": 146,
+              "path": "route.txt",
+              "sha256": "065945fcdbacd556a05f41f0f38313b6e5995682cee96a5b5bf59997e04d83bb"
+            },
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "bea:DEMO-AHRENS",
+            "action_id": "DEMO-BEA-1",
+            "app": "bea",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "personal_owner_required",
+            "legal_route_confirmed": true,
+            "legal_route_evidence": "route.txt",
+            "mandat": "DEMO-1",
+            "personal_actor": "Ada Ahrens",
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "bea:DEMO-GERICHT"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+        "plan": {
+          "account": "bea:DEMO-AHRENS",
+          "action_id": "DEMO-BEA-1",
+          "app": "bea",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "personal_owner_required",
+          "legal_route_confirmed": true,
+          "legal_route_evidence": "route.txt",
+          "mandat": "DEMO-1",
+          "personal_actor": "Ada Ahrens",
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "bea:DEMO-GERICHT"
+          ],
+          "transport_domains": [
+            "bea.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "freigegeben"
+      },
+      "error": ""
+    },
+    {
+      "step": 18,
+      "command": "start",
+      "input": {
+        "action_id": "DEMO-BEA-1",
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad"
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 202,
+              "path": "freigabe-DEMO-BEA-1.txt",
+              "sha256": "16ea31f28440bace1f50249d8ac8bcb5afbbefee14cae011f79f9c6269cea457"
+            },
+            "evidence_file": "freigabe-DEMO-BEA-1.txt",
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [
+          {
+            "at": "2026-10-08T08:46:24+00:00",
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "number": 1
+          }
+        ],
+        "execution_actor": "Ada Ahrens",
+        "fingerprint": "0f6a11c986c45c40b011b6c997d816df9361b92b097d025b154832ec3592f7d6",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": {
+              "bytes": 146,
+              "path": "route.txt",
+              "sha256": "065945fcdbacd556a05f41f0f38313b6e5995682cee96a5b5bf59997e04d83bb"
+            },
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "bea:DEMO-AHRENS",
+            "action_id": "DEMO-BEA-1",
+            "app": "bea",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "personal_owner_required",
+            "legal_route_confirmed": true,
+            "legal_route_evidence": "route.txt",
+            "mandat": "DEMO-1",
+            "personal_actor": "Ada Ahrens",
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "bea:DEMO-GERICHT"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+        "plan": {
+          "account": "bea:DEMO-AHRENS",
+          "action_id": "DEMO-BEA-1",
+          "app": "bea",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "personal_owner_required",
+          "legal_route_confirmed": true,
+          "legal_route_evidence": "route.txt",
+          "mandat": "DEMO-1",
+          "personal_actor": "Ada Ahrens",
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "bea:DEMO-GERICHT"
+          ],
+          "transport_domains": [
+            "bea.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "wartet_auf_mensch"
+      },
+      "error": ""
+    },
+    {
+      "step": 19,
+      "command": "result",
+      "input": {
+        "action_id": "DEMO-BEA-1",
+        "status": "ausgefuehrt",
+        "person": "Bertram Brecht",
+        "evidence_file": "ausgang.txt",
+        "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-BEA-1",
+        "provider_id_absent_reason": null,
+        "no_effect_confirmed": false,
+        "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport."
+      },
+      "expected_exit": 2,
+      "actual_exit": 2,
+      "output": null,
+      "error": "Computerlauf abgebrochen: Persönliche beA-Aktion muss durch die benannte Person ausgeführt und bestätigt sein"
+    },
+    {
+      "step": 20,
+      "command": "result",
+      "input": {
+        "action_id": "DEMO-BEA-1",
+        "status": "ausgefuehrt",
+        "person": "Ada Ahrens",
+        "evidence_file": "ausgang.txt",
+        "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-BEA-1",
+        "provider_id_absent_reason": null,
+        "no_effect_confirmed": false,
+        "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport."
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "approvals": [
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "confirmation_received": true,
+            "evidence": {
+              "bytes": 202,
+              "path": "freigabe-DEMO-BEA-1.txt",
+              "sha256": "16ea31f28440bace1f50249d8ac8bcb5afbbefee14cae011f79f9c6269cea457"
+            },
+            "evidence_file": "freigabe-DEMO-BEA-1.txt",
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "person": "Ada Ahrens"
+          }
+        ],
+        "attempts": [
+          {
+            "at": "2026-10-08T08:46:24+00:00",
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "number": 1,
+            "result": {
+              "action_id": "DEMO-BEA-1",
+              "at": "2026-10-08T08:46:24+00:00",
+              "evidence": {
+                "bytes": 87,
+                "path": "ausgang.txt",
+                "sha256": "645876330289c1098705d96c1a110dfd6d3aab8b50c9c365419e86454e6b1851"
+              },
+              "evidence_file": "ausgang.txt",
+              "no_effect_confirmed": false,
+              "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport.",
+              "person": "Ada Ahrens",
+              "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-BEA-1",
+              "provider_id_absent_reason": null,
+              "status": "ausgefuehrt"
+            }
+          }
+        ],
+        "execution_actor": "Ada Ahrens",
+        "fingerprint": "0f6a11c986c45c40b011b6c997d816df9361b92b097d025b154832ec3592f7d6",
+        "manifest": {
+          "files": {
+            "attachments": [
+              {
+                "bytes": 74,
+                "path": "rechnung.txt",
+                "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+              }
+            ],
+            "body_file": {
+              "bytes": 102,
+              "path": "text.txt",
+              "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+            },
+            "legal_route_evidence": {
+              "bytes": 146,
+              "path": "route.txt",
+              "sha256": "065945fcdbacd556a05f41f0f38313b6e5995682cee96a5b5bf59997e04d83bb"
+            },
+            "subject_file": {
+              "bytes": 47,
+              "path": "betreff.txt",
+              "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+            }
+          },
+          "mandate_path": "DEMO-1",
+          "plan": {
+            "account": "bea:DEMO-AHRENS",
+            "action_id": "DEMO-BEA-1",
+            "app": "bea",
+            "attachments": [
+              "rechnung.txt"
+            ],
+            "bcc": [],
+            "body_file": "text.txt",
+            "cc": [],
+            "kind": "send",
+            "legal_route": "personal_owner_required",
+            "legal_route_confirmed": true,
+            "legal_route_evidence": "route.txt",
+            "mandat": "DEMO-1",
+            "personal_actor": "Ada Ahrens",
+            "source_ids": [],
+            "subject_file": "betreff.txt",
+            "to": [
+              "bea:DEMO-GERICHT"
+            ],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          },
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+        },
+        "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+        "plan": {
+          "account": "bea:DEMO-AHRENS",
+          "action_id": "DEMO-BEA-1",
+          "app": "bea",
+          "attachments": [
+            "rechnung.txt"
+          ],
+          "bcc": [],
+          "body_file": "text.txt",
+          "cc": [],
+          "kind": "send",
+          "legal_route": "personal_owner_required",
+          "legal_route_confirmed": true,
+          "legal_route_evidence": "route.txt",
+          "mandat": "DEMO-1",
+          "personal_actor": "Ada Ahrens",
+          "source_ids": [],
+          "subject_file": "betreff.txt",
+          "to": [
+            "bea:DEMO-GERICHT"
+          ],
+          "transport_domains": [
+            "bea.example.test"
+          ]
+        },
+        "receipts": [],
+        "reconciliations": [],
+        "status": "ausgefuehrt"
+      },
+      "error": ""
+    },
+    {
+      "step": 21,
+      "command": "stop",
+      "input": {
+        "person": "Ada Ahrens",
+        "reason": "Fiktive Offline-Probe beendet; keine Konten geöffnet."
+      },
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "apps": [
+          {
+            "account": "kanzlei@example.test",
+            "actions": [
+              "send"
+            ],
+            "app": "outlook",
+            "recipient_domains": [
+              "mandant.example.test"
+            ],
+            "transport_domains": [
+              "outlook.example.test"
+            ]
+          },
+          {
+            "account": "bea:DEMO-AHRENS",
+            "actions": [
+              "send",
+              "eeb"
+            ],
+            "app": "bea",
+            "recipient_domains": [],
+            "transport_domains": [
+              "bea.example.test"
+            ]
+          }
+        ],
+        "expires": "2026-10-08T09:46:23.530346+00:00",
+        "level": 3,
+        "mandates": {
+          "DEMO-1": "DEMO-1"
+        },
+        "mode": "live",
+        "permissions_confirmed": true,
+        "person": "Ada Ahrens",
+        "session_id": "DEMO-LOKALE-ZUSTANDSPROBE",
+        "stop_record": {
+          "at": "2026-10-08T08:46:24+00:00",
+          "person": "Ada Ahrens",
+          "reason": "Fiktive Offline-Probe beendet; keine Konten geöffnet."
+        },
+        "stopped": true
+      },
+      "error": ""
+    },
+    {
+      "step": 22,
+      "command": "status",
+      "input": {},
+      "expected_exit": 0,
+      "actual_exit": 0,
+      "output": {
+        "actions": {
+          "DEMO-BEA-1": {
+            "approvals": [
+              {
+                "action_id": "DEMO-BEA-1",
+                "at": "2026-10-08T08:46:24+00:00",
+                "confirmation_received": true,
+                "evidence": {
+                  "bytes": 202,
+                  "path": "freigabe-DEMO-BEA-1.txt",
+                  "sha256": "16ea31f28440bace1f50249d8ac8bcb5afbbefee14cae011f79f9c6269cea457"
+                },
+                "evidence_file": "freigabe-DEMO-BEA-1.txt",
+                "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+                "person": "Ada Ahrens"
+              }
+            ],
+            "attempts": [
+              {
+                "at": "2026-10-08T08:46:24+00:00",
+                "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+                "number": 1,
+                "result": {
+                  "action_id": "DEMO-BEA-1",
+                  "at": "2026-10-08T08:46:24+00:00",
+                  "evidence": {
+                    "bytes": 87,
+                    "path": "ausgang.txt",
+                    "sha256": "645876330289c1098705d96c1a110dfd6d3aab8b50c9c365419e86454e6b1851"
+                  },
+                  "evidence_file": "ausgang.txt",
+                  "no_effect_confirmed": false,
+                  "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport.",
+                  "person": "Ada Ahrens",
+                  "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-BEA-1",
+                  "provider_id_absent_reason": null,
+                  "status": "ausgefuehrt"
+                }
+              }
+            ],
+            "execution_actor": "Ada Ahrens",
+            "fingerprint": "0f6a11c986c45c40b011b6c997d816df9361b92b097d025b154832ec3592f7d6",
+            "manifest": {
+              "files": {
+                "attachments": [
+                  {
+                    "bytes": 74,
+                    "path": "rechnung.txt",
+                    "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+                  }
+                ],
+                "body_file": {
+                  "bytes": 102,
+                  "path": "text.txt",
+                  "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+                },
+                "legal_route_evidence": {
+                  "bytes": 146,
+                  "path": "route.txt",
+                  "sha256": "065945fcdbacd556a05f41f0f38313b6e5995682cee96a5b5bf59997e04d83bb"
+                },
+                "subject_file": {
+                  "bytes": 47,
+                  "path": "betreff.txt",
+                  "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+                }
+              },
+              "mandate_path": "DEMO-1",
+              "plan": {
+                "account": "bea:DEMO-AHRENS",
+                "action_id": "DEMO-BEA-1",
+                "app": "bea",
+                "attachments": [
+                  "rechnung.txt"
+                ],
+                "bcc": [],
+                "body_file": "text.txt",
+                "cc": [],
+                "kind": "send",
+                "legal_route": "personal_owner_required",
+                "legal_route_confirmed": true,
+                "legal_route_evidence": "route.txt",
+                "mandat": "DEMO-1",
+                "personal_actor": "Ada Ahrens",
+                "source_ids": [],
+                "subject_file": "betreff.txt",
+                "to": [
+                  "bea:DEMO-GERICHT"
+                ],
+                "transport_domains": [
+                  "bea.example.test"
+                ]
+              },
+              "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+            },
+            "manifest_sha256": "39bc0c28349586cb62ad169bad1b86fb8a2ca27d8232cd7efa1752afafefedad",
+            "plan": {
+              "account": "bea:DEMO-AHRENS",
+              "action_id": "DEMO-BEA-1",
+              "app": "bea",
+              "attachments": [
+                "rechnung.txt"
+              ],
+              "bcc": [],
+              "body_file": "text.txt",
+              "cc": [],
+              "kind": "send",
+              "legal_route": "personal_owner_required",
+              "legal_route_confirmed": true,
+              "legal_route_evidence": "route.txt",
+              "mandat": "DEMO-1",
+              "personal_actor": "Ada Ahrens",
+              "source_ids": [],
+              "subject_file": "betreff.txt",
+              "to": [
+                "bea:DEMO-GERICHT"
+              ],
+              "transport_domains": [
+                "bea.example.test"
+              ]
+            },
+            "receipts": [],
+            "reconciliations": [],
+            "status": "ausgefuehrt"
+          },
+          "DEMO-MAIL-1": {
+            "approvals": [
+              {
+                "action_id": "DEMO-MAIL-1",
+                "at": "2026-10-08T08:46:23+00:00",
+                "confirmation_received": true,
+                "evidence": {
+                  "bytes": 203,
+                  "path": "freigabe-DEMO-MAIL-1.txt",
+                  "sha256": "045a0dd074b6eb1e20b9e488b9f0e2b0f9f286faddd23ad7c82d71f5ad804cd5"
+                },
+                "evidence_file": "freigabe-DEMO-MAIL-1.txt",
+                "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+                "person": "Ada Ahrens"
+              }
+            ],
+            "attempts": [],
+            "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+            "manifest": {
+              "files": {
+                "attachments": [
+                  {
+                    "bytes": 74,
+                    "path": "rechnung.txt",
+                    "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+                  }
+                ],
+                "body_file": {
+                  "bytes": 102,
+                  "path": "text.txt",
+                  "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+                },
+                "legal_route_evidence": null,
+                "subject_file": {
+                  "bytes": 47,
+                  "path": "betreff.txt",
+                  "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+                }
+              },
+              "mandate_path": "DEMO-1",
+              "plan": {
+                "account": "kanzlei@example.test",
+                "action_id": "DEMO-MAIL-1",
+                "app": "outlook",
+                "attachments": [
+                  "rechnung.txt"
+                ],
+                "bcc": [],
+                "body_file": "text.txt",
+                "cc": [],
+                "kind": "send",
+                "legal_route": "not_applicable",
+                "legal_route_confirmed": false,
+                "legal_route_evidence": null,
+                "mandat": "DEMO-1",
+                "personal_actor": null,
+                "source_ids": [],
+                "subject_file": "betreff.txt",
+                "to": [
+                  "mara@mandant.example.test"
+                ],
+                "transport_domains": [
+                  "outlook.example.test"
+                ]
+              },
+              "session_id": "DEMO-SIMULATION"
+            },
+            "manifest_sha256": "6eb382b8176cb3c2bcaa48d5ee0fe7c36a52249c6291668381a5c94e8ba571cf",
+            "plan": {
+              "account": "kanzlei@example.test",
+              "action_id": "DEMO-MAIL-1",
+              "app": "outlook",
+              "attachments": [
+                "rechnung.txt"
+              ],
+              "bcc": [],
+              "body_file": "text.txt",
+              "cc": [],
+              "kind": "send",
+              "legal_route": "not_applicable",
+              "legal_route_confirmed": false,
+              "legal_route_evidence": null,
+              "mandat": "DEMO-1",
+              "personal_actor": null,
+              "source_ids": [],
+              "subject_file": "betreff.txt",
+              "to": [
+                "mara@mandant.example.test"
+              ],
+              "transport_domains": [
+                "outlook.example.test"
+              ]
+            },
+            "receipts": [],
+            "reconciliations": [],
+            "status": "freigegeben"
+          },
+          "DEMO-MAIL-2": {
+            "approvals": [
+              {
+                "action_id": "DEMO-MAIL-2",
+                "at": "2026-10-08T08:46:23+00:00",
+                "confirmation_received": true,
+                "evidence": {
+                  "bytes": 203,
+                  "path": "freigabe-DEMO-MAIL-2.txt",
+                  "sha256": "05db1516f13c378f50db3543e4869dbb6f0dc1b31a7f11e0f3f1ff068500481a"
+                },
+                "evidence_file": "freigabe-DEMO-MAIL-2.txt",
+                "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+                "person": "Ada Ahrens"
+              }
+            ],
+            "attempts": [
+              {
+                "at": "2026-10-08T08:46:23+00:00",
+                "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+                "number": 1,
+                "result": {
+                  "action_id": "DEMO-MAIL-2",
+                  "at": "2026-10-08T08:46:23+00:00",
+                  "evidence": {
+                    "bytes": 87,
+                    "path": "ausgang.txt",
+                    "sha256": "645876330289c1098705d96c1a110dfd6d3aab8b50c9c365419e86454e6b1851"
+                  },
+                  "evidence_file": "ausgang.txt",
+                  "no_effect_confirmed": false,
+                  "note": "Nur fiktives Ergebnis der Offline-Zustandsprobe; kein wirklicher Transport.",
+                  "person": "Ada Ahrens",
+                  "provider_id": "FIKTIV-NICHT-VERBUNDEN-DEMO-MAIL-2",
+                  "provider_id_absent_reason": null,
+                  "status": "ausgefuehrt"
+                }
+              }
+            ],
+            "execution_actor": "Host innerhalb seiner tatsächlichen Befugnisse",
+            "fingerprint": "785eb0c8b5d8d0e8d9c7d4f48e6f9ca874f818e148a38f389e4c636d7f74e289",
+            "manifest": {
+              "files": {
+                "attachments": [
+                  {
+                    "bytes": 74,
+                    "path": "rechnung.txt",
+                    "sha256": "b06af4b072a203b78bde9f641ba8ec34ee0f19188b31d9c54fe5510b7fee06ef"
+                  }
+                ],
+                "body_file": {
+                  "bytes": 102,
+                  "path": "text.txt",
+                  "sha256": "008a1aef1dfb0d612552f81f216e08b52d9ecde9b2f108f0c013c7bff8906e72"
+                },
+                "legal_route_evidence": null,
+                "subject_file": {
+                  "bytes": 47,
+                  "path": "betreff.txt",
+                  "sha256": "37f6944872f21cc0faeaf34c7170edb2bfcbc7c1450de3994bb20ba72e606457"
+                }
+              },
+              "mandate_path": "DEMO-1",
+              "plan": {
+                "account": "kanzlei@example.test",
+                "action_id": "DEMO-MAIL-2",
+                "app": "outlook",
+                "attachments": [
+                  "rechnung.txt"
+                ],
+                "bcc": [],
+                "body_file": "text.txt",
+                "cc": [],
+                "kind": "send",
+                "legal_route": "not_applicable",
+                "legal_route_confirmed": false,
+                "legal_route_evidence": null,
+                "mandat": "DEMO-1",
+                "personal_actor": null,
+                "source_ids": [],
+                "subject_file": "betreff.txt",
+                "to": [
+                  "mara@mandant.example.test"
+                ],
+                "transport_domains": [
+                  "outlook.example.test"
+                ]
+              },
+              "session_id": "DEMO-LOKALE-ZUSTANDSPROBE"
+            },
+            "manifest_sha256": "68239a088638004e6097cae2c599373b40c025224fd85706d441ade2172b94e9",
+            "plan": {
+              "account": "kanzlei@example.test",
+              "action_id": "DEMO-MAIL-2",
+              "app": "outlook",
+              "attachments": [
+                "rechnung.txt"
+              ],
+              "bcc": [],
+              "body_file": "text.txt",
+              "cc": [],
+              "kind": "send",
+              "legal_route": "not_applicable",
+              "legal_route_confirmed": false,
+              "legal_route_evidence": null,
+              "mandat": "DEMO-1",
+              "personal_actor": null,
+              "source_ids": [],
+              "subject_file": "betreff.txt",
+              "to": [
+                "mara@mandant.example.test"
+              ],
+              "transport_domains": [
+                "outlook.example.test"
+              ]
+            },
+            "receipts": [
+              {
+                "action_id": "DEMO-MAIL-2",
+                "at": "2026-10-08T08:46:24+00:00",
+                "evidence": {
+                  "bytes": 100,
+                  "path": "eingang.txt",
+                  "sha256": "e9d6c41f876d6dc5667ea471d7997b6db767c8dee8241e4e14b6174340d3d264"
+                },
+                "evidence_file": "eingang.txt",
+                "note": "Fiktiver Empfangsbeleg; kein echter Server- oder Gerichtseingang.",
+                "person": "Ada Ahrens",
+                "provider_id": "FIKTIVER-EINGANG-1",
+                "provider_id_absent_reason": null,
+                "receipt_status": "bestaetigt"
+              }
+            ],
+            "reconciliations": [],
+            "status": "ausgefuehrt"
+          }
+        },
+        "history": [
+          {
+            "action_id": null,
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "init"
+          },
+          {
+            "action_id": "DEMO-MAIL-1",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "plan"
+          },
+          {
+            "action_id": "DEMO-MAIL-1",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "freeze"
+          },
+          {
+            "action_id": "DEMO-MAIL-1",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "approve"
+          },
+          {
+            "action_id": null,
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "stop"
+          },
+          {
+            "action_id": null,
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "init"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "plan"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "freeze"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "approve"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "start"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:23+00:00",
+            "operation": "result"
+          },
+          {
+            "action_id": "DEMO-MAIL-2",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "receipt"
+          },
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "plan"
+          },
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "freeze"
+          },
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "approve"
+          },
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "start"
+          },
+          {
+            "action_id": "DEMO-BEA-1",
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "result"
+          },
+          {
+            "action_id": null,
+            "at": "2026-10-08T08:46:24+00:00",
+            "operation": "stop"
+          }
+        ],
+        "previous_sessions": [
+          {
+            "apps": [
+              {
+                "account": "kanzlei@example.test",
+                "actions": [
+                  "send"
+                ],
+                "app": "outlook",
+                "recipient_domains": [
+                  "mandant.example.test"
+                ],
+                "transport_domains": [
+                  "outlook.example.test"
+                ]
+              },
+              {
+                "account": "bea:DEMO-AHRENS",
+                "actions": [
+                  "send",
+                  "eeb"
+                ],
+                "app": "bea",
+                "recipient_domains": [],
+                "transport_domains": [
+                  "bea.example.test"
+                ]
+              }
+            ],
+            "expires": "2026-10-08T09:46:23.530346+00:00",
+            "level": 3,
+            "mandates": {
+              "DEMO-1": "DEMO-1"
+            },
+            "mode": "simulation",
+            "permissions_confirmed": true,
+            "person": "Ada Ahrens",
+            "session_id": "DEMO-SIMULATION",
+            "stop_record": {
+              "at": "2026-10-08T08:46:23+00:00",
+              "person": "Ada Ahrens",
+              "reason": "Fiktive Simulation abgeschlossen."
+            },
+            "stopped": true
+          }
+        ],
+        "schema_version": 1,
+        "session": {
+          "apps": [
+            {
+              "account": "kanzlei@example.test",
+              "actions": [
+                "send"
+              ],
+              "app": "outlook",
+              "recipient_domains": [
+                "mandant.example.test"
+              ],
+              "transport_domains": [
+                "outlook.example.test"
+              ]
+            },
+            {
+              "account": "bea:DEMO-AHRENS",
+              "actions": [
+                "send",
+                "eeb"
+              ],
+              "app": "bea",
+              "recipient_domains": [],
+              "transport_domains": [
+                "bea.example.test"
+              ]
+            }
+          ],
+          "expires": "2026-10-08T09:46:23.530346+00:00",
+          "level": 3,
+          "mandates": {
+            "DEMO-1": "DEMO-1"
+          },
+          "mode": "live",
+          "permissions_confirmed": true,
+          "person": "Ada Ahrens",
+          "session_id": "DEMO-LOKALE-ZUSTANDSPROBE",
+          "stop_record": {
+            "at": "2026-10-08T08:46:24+00:00",
+            "person": "Ada Ahrens",
+            "reason": "Fiktive Offline-Probe beendet; keine Konten geöffnet."
+          },
+          "stopped": true
+        }
+      },
+      "error": ""
+    }
+  ]
+}

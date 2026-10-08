@@ -36,7 +36,7 @@ Die Kanzlei legt je Mandat eine Freigabestufe fest. Sie bestimmt, was die Maschi
 | 2 | Journal und Register | Bestätigte Zeiten, Honorarabschnitte, Auslagen und belegte Zahlungen intern erfassen; Rechnungsentwurf fortschreiben, Fristobjekte und Rechenvermerke führen, Mandatslauf aktualisieren |
 | 3 | Versandvorbereitung | Ausgabefertige Versand- und Rechnungspakete einschließlich XML vorbereiten; menschliche Ausgabeentscheidung bleibt erforderlich |
 
-Interne Übergabevermerke und das Anstoßen eines Nachbarskills sind schon auf der für dessen Arbeit ausreichenden Stufe zulässig. Die Stufen sind ein vereinbarter Arbeitsumfang, keine gesetzliche Erlaubnis und keine technische Zugriffssperre des Helfers. Stufe 3 ist die Obergrenze des Plugins. Es gibt keine Stufe, in der die Maschine selbst einreicht, versendet, auszahlt, eine Rechnung ausgibt, einen Kalendereintrag als bestätigt kennzeichnet, eine Verdachtsmeldung abgibt oder Daten löscht. Diese Handlungen bleiben Freigabegates.
+Interne Übergabevermerke und das Anstoßen eines Nachbarskills sind schon auf der für dessen Arbeit ausreichenden Stufe zulässig. Die Stufen sind ein vereinbarter Arbeitsumfang, keine gesetzliche Erlaubnis und keine technische Zugriffssperre des Helfers. Stufe 3 ist die Obergrenze der internen Arbeitstiefe. Keine Stufe erteilt eine pauschale Vollmacht für Einreichung, Versand, Auszahlung, Rechnungsausgabe, Kalenderbestätigung, Meldung oder Löschung. Diese Handlungen bleiben Freigabegates. Ein zusätzlich ausdrücklich beauftragter Computerlauf kann nach konkreter menschlicher Entscheidung die zulässigen delegierbaren Schritte ausführen; erforderliche persönliche Schlussakte und die Nachweiskontrolle bleiben bestehen (Abschnitt 1.13).
 
 ## 1.4. Freigabegates
 
@@ -263,3 +263,20 @@ Offene Fragen: <gezielt>; nächster Skill: <Name>; nächstes Produkt: <Kennung>.
 G4 muss die vollständige zur Ausgabe bestimmte Rechnung einschließlich endgültiger Nummer umfassen. Nummernvorschläge bleiben Entwurf. Ändert die Kanzlei anschließend Nummer, Betrag, Empfänger oder Inhalt, muss sie die neue Fassung erneut prüfen und freigeben. Bei mehreren Dateien bindet das registrierte Manifest ihre Einzelhashes; vor Freigabe sind diese erneut abzugleichen. Der Helfer prüft nicht selbst den Inhalt eines Manifests.
 
 Die Phase `abschluss` setzt für G4, G5 und G8 jeweils `freigegeben` oder begründet `nicht_erforderlich` voraus. `abgelehnt` genügt nicht. Dies gilt ebenso für den Textstatus ohne Helfer. Die Vorbereitung des Abschlusses erfolgt vorher als interne Arbeit in der bisherigen Phase, bei offener Fremdgeldabwicklung beispielsweise `zahlung`; „Abschlussprüfung“ ist eine Tätigkeitsbeschreibung, keine zusätzliche technische Phase. Offene G3 oder andere Restpflichten bleiben im Status sichtbar; das Phasenetikett bestätigt keine Erledigung dieser Pflichten.
+
+## 1.13. Computerlauf und konkrete Ausführung
+
+Der [Computerlauf](computersteuerung-und-postfaecher.md) ergänzt den Mandatslauf um eine befristete Sitzung und einzelne Werkzeugaktionen. Die Freigabestufen bleiben unverändert; es gibt keine Stufe 4 mit pauschaler Außenwirkung. Der Sitzungsauftrag nennt erlaubte Anwendungen, Konten, Mandate und Tätigkeiten. Der Computerlauf-Helfer verlangt für den Start von Versand oder eEB zusätzlich Stufe 3; Stufe 2 trägt bereits die interne Vorbereitung und das Journal. G3 beziehungsweise das andere einschlägige Gate enthält weiterhin die fachliche menschliche Entscheidung; zusätzlich bindet das Aktionsmanifest die technische Ausführung an Konto, Empfänger, Inhalt und Dateifassungen. Der [lokale Helfer](computerlauf-cli.md) dokumentiert, authentifiziert aber keine Person und führt selbst keinen Transport aus.
+
+| Produktkennung | Inhalt und Eigentümer | Anschluss | Rückgabe |
+| --- | --- | --- | --- |
+| `computerlauf` | Sitzung und Grenzen, Hauptskill | Alle innerhalb des Rahmens nötigen Skills | Status, noch ausführbarer Schritt, Stopgrund |
+| `eingang-<id>` | Unveränderter Eingang mit Herkunft und Anlagen, beA-Skill oder Aktenanlage | Fristenskill und sachlich zuständiger Skill | Dokumentregister, Fristobjekt, nächstes Fachprodukt |
+| `versandauftrag-<id>` | Konkrete Empfänger, Inhalt, Dateihashes und Freigaben, versendender Fachskill | beA-Skill oder freigegebener Mailablauf | Versuch und tatsächlicher Nachweis oder ungeklärter Ausgang |
+| `bea-versuch-<id>` | Zeitpunkt, Fassung und Ergebnis eines beA-Übermittlungsversuchs, beA-Skill | Ausgangskontrolle und Abgleich | Belegter Eingang oder ungeklärter Ausgang; keine automatische Wiederholung |
+| `versandnachweis-<id>` | Beleg der tatsächlichen Übermittlung, ausführender Ablauf | Aktenanlage und gegebenenfalls Fristenskill | Zuordnung und überprüfter Stand; keine bloß behauptete Erledigung |
+| `eeb-<id>` | Empfangssachverhalt und separate Erklärung, beA-Skill | Zuständige natürliche Person und zulässiger Übermittlungsweg | Entscheidungs-, Übermittlungs- und Fristbezug getrennt |
+
+Diese Kennungen ergänzen die 126 fachlichen Übergaben, ohne deren bestehende Produkte umzubenennen. `versandpaket` bleibt das Anlagenmanifest; `versandauftrag-<id>` ergänzt den konkreten Ausführungsauftrag. `mandatslauf.py` prüft nicht selbst das Computerlauf-Journal oder das tatsächliche Postfach. Die ausführende Instanz muss daher beide Stände und den tatsächlichen Beleg zusammenführen.
+
+Der Statusblock erhält bei aktivem Computerlauf zusätzlich: Sitzungskennung, Simulation oder Echtmodus, Ablaufzeit, zugelassenes Konto, aktuelle Aktionskennung, Manifestfassung, tatsächliche Freigabe und Ausgang. Ein unklarer Versandversuch bleibt sichtbar, auch wenn G3 freigegeben ist. Bei Stopp endet jede weitere beauftragte Computeraktion; bereits erfolgte oder laufende Außenwirkungen sind dadurch nicht rückgängig gemacht. Ein neuer Host benötigt eine neue Prüfung seiner tatsächlichen Fähigkeiten und Berechtigungen.

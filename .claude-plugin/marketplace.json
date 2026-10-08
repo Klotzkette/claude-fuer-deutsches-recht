@@ -1549,8 +1549,8 @@
     },
     {
       "name": "ki-native-kanzlei",
-      "version": "445.33.8",
-      "description": "KI-native Kanzlei: achtzehn vertiefte Skills für Mandat, Fristenrechnung, Anwaltsberufsrecht, Honorar, Zeit, Vertrags- und Schriftsatzarbeit, beA und E-Rechnung. Mit 24 kurzen Fachanwaltsakten.",
+      "version": "445.33.9",
+      "description": "KI-native Kanzlei: 18 vertiefte Skills mit durchgehenden Abläufen für Mandat, Fristen, Berufsrecht, Honorar und Rechnung. Computerlauf-Prototyp für kontrollierte Postfacharbeit einschließlich beA-Empfang und Versand. Mit 24 kurzen Fachanwaltsakten.",
       "author": {
         "name": "Klotzkette",
         "email": "39582916+Klotzkette@users.noreply.github.com"

@@ -1,0 +1,20 @@
+{
+  "matter_id": "M-26-118",
+  "state": "offene_erfassungsfragen_keine_zeitbuchung",
+  "minutes": null,
+  "confirmed": false,
+  "person": null,
+  "work_date": null,
+  "billable": null,
+  "terms": {
+    "model": "flat",
+    "amount_net_eur": "500.00",
+    "source": "Nutzerauftrag",
+    "scope": "Beauftragter Umfang der Simulation M-26-118",
+    "vat_rate": null
+  },
+  "narrative_proposal": "Prüfung der Sachstandsanfrage und Formulierung der Antwort; Vorbereitung der gerichtlichen Eingangs- und Fristklärung sowie der persönlichen beA-Versandübernahme.",
+  "question": "Welche Person hat welche dieser Tätigkeiten an welchem Tag mit wie vielen tatsächlichen Minuten ausgeführt, und welcher Beleg bestätigt dies?",
+  "time_booking_executed": false,
+  "additional_time_fee_eur": "0.00"
+}

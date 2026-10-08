@@ -17,8 +17,8 @@
     },
     {
       "skill": "bea-anlagen-vorbereiten",
-      "sha256": "222a0a436650c8db8181e4c8b8bc175121b5db67c9e17c1e4f8d16ee4752488b",
-      "words_without_frontmatter": 6560
+      "sha256": "a2d7bf1d6bbc7813a80c4d931074fc5b159b4db476dc676ec2c96f9f54f35568",
+      "words_without_frontmatter": 6514
     },
     {
       "skill": "fristen-berechnen-ueberwachen",
@@ -37,8 +37,8 @@
     },
     {
       "skill": "ki-kanzlei-steuern",
-      "sha256": "f92341b2e14e036c240d03fe74091deaa096359b97d33fc9904e576b0fb55e0b",
-      "words_without_frontmatter": 6552
+      "sha256": "79fb06e5a74b83aa0596c5eac69468b876d30e7fe56ce3d8fccb037fd16892bb",
+      "words_without_frontmatter": 6736
     },
     {
       "skill": "mandantenkommunikation",
@@ -93,19 +93,19 @@
   ],
   "prompts": {
     "schnellstart": {
-      "utf8_bytes": 7457,
-      "words": 836
+      "utf8_bytes": 7472,
+      "words": 826
     },
     "hauptproblem": {
-      "utf8_bytes": 7479,
-      "words": 834
+      "utf8_bytes": 7493,
+      "words": 827
     },
     "werkstatt": {
-      "utf8_bytes": 108029,
-      "words": 12594
+      "utf8_bytes": 121006,
+      "words": 14117
     }
   },
-  "cases_in_profile": 10,
-  "criteria_in_profile": 40,
+  "cases_in_profile": 13,
+  "criteria_in_profile": 52,
   "all_checks": "passed"
 }
