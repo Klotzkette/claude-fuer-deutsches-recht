@@ -9,7 +9,7 @@ Das Plugin bewertet weder Anspruch noch Antrag, Fristberechnung, Beweiswürdigun
 1. Lege den finalen Schriftsatz und alle Anlagen in einen gemeinsamen Projektordner. Typische Quellen sind DOC/DOCX, ODT/RTF, XLS/XLSX/ODS/CSV, EML/MSG, PDF, JPEG/PNG/TIFF/HEIC sowie zuverlässig renderbare Präsentationen.
 2. Lade das Plugin und den Projektordner in Cowork.
 3. Schreibe: `Mache diesen Ordner beA-fertig. Verändere den juristischen Inhalt nicht und frage nur nach Angaben, die du nicht sicher aus den Dateien entnehmen kannst.`
-4. Das Plugin startet mit [`01-bea-ordner-annahme`](./skills/01-bea-ordner-annahme/SKILL.md) und führt die übrigen Schritte selbst. Eine manuelle Skillauswahl ist nicht nötig.
+4. Das Plugin startet mit [`01-bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) und führt die übrigen Schritte selbst. Eine manuelle Skillauswahl ist nicht nötig.
 
 Die Werkstatt zeigt zuerst eine Paketkarte mit Paket-ID, erkanntem Hauptschriftsatz, Quellenzahl, frühester Frist, Parteirolle, Anlagenstand, Ampel und genau einer nächsten Arbeitsaktion. Sicher erkennbare Angaben übernimmt sie mit Quelle. Nur offene Pflichtangaben fragt sie gebündelt nach, insbesondere Hauptdatei, Parteirolle, vorhandener Anlagenfolge, Gericht/Aktenzeichen, verantwortlicher Person und tatsächlichem Versender. Wer diese Angaben schon kennt, kann sie direkt im Startsatz ergänzen. Die Werkstatt verändert niemals die Quellen im Eingangsordner.
 
@@ -84,15 +84,15 @@ Bei einer eingebetteten PAdES-Signatur bleibt der Upload eine PDF. Bei einer abg
 
 | Nr. | Skill | Ergebnis |
 |---:|---|---|
-| 01 | [`bea-ordner-annahme`](./skills/01-bea-ordner-annahme/SKILL.md) | Autostart, Quelleninventar, Rückfragen und Werkstattplan |
-| 02 | [`schriftsatzversion-festlegen`](./skills/02-schriftsatzversion-festlegen/SKILL.md) | gesperrte Hauptfassung ohne Kommentare oder unklare Entwurfsstände |
-| 03 | [`anlagenfolge-kennzeichnen`](./skills/03-anlagenfolge-kennzeichnen/SKILL.md) | fortlaufende K-/B-Folge, Zitierabgleich und Anlagenkennzeichnung |
-| 04 | [`dateien-in-pdf-umwandeln`](./skills/04-dateien-in-pdf-umwandeln/SKILL.md) | separate PDF-Arbeitskopien aus Office, E-Mail, Bild und Scan |
-| 05 | [`pdf-qualitaet-pruefen`](./skills/05-pdf-qualitaet-pruefen/SKILL.md) | visuelle Seitenprüfung, OCR-, Schutz- und Vollständigkeitsstatus |
-| 06 | [`dateinamen-manifest-erzeugen`](./skills/06-dateinamen-manifest-erzeugen/SKILL.md) | ASCII-Zielnamen, Reihenfolge, Hash- und Versandmanifest |
-| 07 | [`signatur-versandweg-pruefen`](./skills/07-signatur-versandweg-pruefen/SKILL.md) | dokumentierte qeS-/einfache-Signatur-Entscheidung und Versenderidentität |
-| 08 | [`bea-paket-freigeben`](./skills/08-bea-paket-freigeben/SKILL.md) | Preflight, Upload-Ordner, Freigabekarte und Versandauftrag |
-| 09 | [`eingang-versandakte-sichern`](./skills/09-eingang-versandakte-sichern/SKILL.md) | Eingangsprüfung, Hashstand, DMS-Ablage und Wiedervorlage |
+| 01 | [`bea-ordner-annahme`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/01-bea-ordner-annahme/SKILL.md) | Autostart, Quelleninventar, Rückfragen und Werkstattplan |
+| 02 | [`schriftsatzversion-festlegen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/02-schriftsatzversion-festlegen/SKILL.md) | gesperrte Hauptfassung ohne Kommentare oder unklare Entwurfsstände |
+| 03 | [`anlagenfolge-kennzeichnen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/03-anlagenfolge-kennzeichnen/SKILL.md) | fortlaufende K-/B-Folge, Zitierabgleich und Anlagenkennzeichnung |
+| 04 | [`dateien-in-pdf-umwandeln`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/04-dateien-in-pdf-umwandeln/SKILL.md) | separate PDF-Arbeitskopien aus Office, E-Mail, Bild und Scan |
+| 05 | [`pdf-qualitaet-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/05-pdf-qualitaet-pruefen/SKILL.md) | visuelle Seitenprüfung, OCR-, Schutz- und Vollständigkeitsstatus |
+| 06 | [`dateinamen-manifest-erzeugen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/06-dateinamen-manifest-erzeugen/SKILL.md) | ASCII-Zielnamen, Reihenfolge, Hash- und Versandmanifest |
+| 07 | [`signatur-versandweg-pruefen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/07-signatur-versandweg-pruefen/SKILL.md) | dokumentierte qeS-/einfache-Signatur-Entscheidung und Versenderidentität |
+| 08 | [`bea-paket-freigeben`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/08-bea-paket-freigeben/SKILL.md) | Preflight, Upload-Ordner, Freigabekarte und Versandauftrag |
+| 09 | [`eingang-versandakte-sichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/09-eingang-versandakte-sichern/SKILL.md) | Eingangsprüfung, Hashstand, DMS-Ablage und Wiedervorlage |
 
 ## Schnellbefehle
 
@@ -163,3 +163,8 @@ English: Complete list of all 9 skills in this plugin. Both links in each row do
 | [`09-eingang-versandakte-sichern`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/09-eingang-versandakte-sichern/SKILL.md) | 'Sichert nach dem realen beA-Versand den überprüfbaren Eingang und den unveränderbaren Versandstand. Verwenden mit gesendeter Nachricht, Exportprotokoll oder automatisierter Eingangsbestätigung. Prüft Gericht, Aktenzeichen, Zeitstempel,... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=schriftsatzwerkstatt-bea/skills/09-eingang-versandakte-sichern/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+
+## Verzeichnisse der Rechtssammlung
+
+[Startseite](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/schriftsatzwerkstatt-bea.md) · [Downloads](../ASSET_INDEX.md) · [Weitere Testakten](../testakten/README.md) · [Plugin-Dateien](.)

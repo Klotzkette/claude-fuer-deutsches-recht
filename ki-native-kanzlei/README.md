@@ -78,7 +78,7 @@ Der optionale [lokale Mandatshelfer](references/mandatsordner-und-cli.md) verwal
 
 Eine Festpreisakte kann Zeit für die Nachkalkulation enthalten, ohne dass dadurch die Forderung steigt. Bei Stundenhonorar werden keine hypothetischen Stunden für die Zeitersparnis durch KI erfunden. Gebührenmodell und Budget werden kurz vorgehalten; zusätzliche Aufgaben bleiben gegen den vereinbarten Umfang prüfbar.
 
-Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [Mandatslauf-Helfer](references/mandatslauf-und-freigaben.md) dokumentiert Phase, führende Fassungen, Gates und Freigaben je Mandat; er weist Freigaben durch „KI“, „Agent“ oder „System“ ab und verlangt eine benannte Person. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist keine Einreichung.
+Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [Mandatslauf-Helfer](references/mandatslauf-und-freigaben.md) dokumentiert Phase, führende Fassungen, Gates und Freigaben je Mandat; er weist Freigaben durch „KI“, „Agent“ oder „System“ ab und verlangt eine benannte Person. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist keine Einreichung.
 
 ## 5. Kleine Fälle für alle Fachanwaltschaften
 
@@ -166,3 +166,8 @@ English: Complete list of all 18 skills in this plugin. Both links in each row d
 | [`zeiten-erfassen`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/zeiten-erfassen/SKILL.md) | Verwenden, wenn tatsächliche menschliche Arbeitszeit mit Datum, Person, Minuten und Narrativ gespeichert, einem Honorarabschnitt zugeordnet, storniert oder korrigiert werden soll oder eine Zeitaufstellung als Rechnungsanlage gebraucht wi... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/zeiten-erfassen/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+
+## Verzeichnisse der Rechtssammlung
+
+[Startseite](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/ki-native-kanzlei.md) · [Downloads](../ASSET_INDEX.md) · [Weitere Testakten](../testakten/README.md) · [Plugin-Dateien](.)

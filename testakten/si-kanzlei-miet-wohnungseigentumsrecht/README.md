@@ -47,3 +47,6 @@ Alle Personen, Unternehmen, Dokumente, Kontaktdaten und Sachverhalte sind erfund
 <!-- reserved-example-contacts -->
 
 Die Akte ist ein kurzer Einstieg in Mandatsaufnahme, fachliche Dokumentbearbeitung, Zeiterfassung und Honorarsteuerung. Fehlende Originale werden ausdrücklich als fehlend behandelt. Es werden keine tatsächlichen Konten angelegt, Nachrichten versandt oder behördlichen Vorgänge eröffnet. Die Rechtsquellen stehen im [Plugin](../../ki-native-kanzlei/references/rechtsquellen.md); zusätzliche fallbezogene Normen sind in den Entwürfen genannt und vor praktischer Verwendung aktuell zu prüfen.
+
+
+[Alle Testakten](../README.md) · [Startseite](../../README.md) · [Downloadverzeichnis](../../ASSET_INDEX.md)

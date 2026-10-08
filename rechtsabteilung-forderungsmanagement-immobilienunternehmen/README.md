@@ -15,8 +15,8 @@ Keine Skillnummer nötig. Bereits beantwortete Fragen werden übernommen. Bei ei
 | Gewünschtes Ergebnis | Richtiger Einstieg |
 |---|---|
 | Juristischen Fall bearbeiten | [Plugin mit 50 Skills](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
-| Vollworkflow ohne Plugin nutzen | [Werkstatt lesen](./rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) · [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
-| Kompakte Einzelprompt-Variante | [Schnellstart lesen](./rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) · [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
+| Vollworkflow ohne Plugin nutzen | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
+| Kompakte Einzelprompt-Variante | [Markdown herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | Fertige Schriftsätze nur technisch vorbereiten | [Getrennte beA-Werkstatt](../schriftsatzwerkstatt-bea/README.md) |
 | Vollkopie, Herkunft und Akten auswählen | [Projektübersicht](../projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) |
 | Einzelnen Fachschritt nachschlagen | [50 Skills](#alle-skills-im-überblick) |
@@ -335,3 +335,8 @@ English: Complete list of all 50 skills in this plugin. Both links in each row d
 | [`50-vollstreckungsakte-monitoring`](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/50-vollstreckungsakte-monitoring/SKILL.md) | Vollstreckungsakte nach Titelgewinn führen und bei neuer Zahlung, Rate, GV-Rücklauf, Pfändung oder Insolvenzmeldung als Delta fortschreiben. Fristen, Tilgung, Kosten und Verjährung überwachen. Output Änderungskarte, Monitoring und nächst... | [MD herunterladen / Download MD](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/skills/50-vollstreckungsakte-monitoring/SKILL.md) |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->
+
+
+## Verzeichnisse der Rechtssammlung
+
+[Startseite](../README.md) · [Alle Skills](../SKILLS.md) · [Skills dieses Plugins](../skills-index/rechtsabteilung-forderungsmanagement-immobilienunternehmen.md) · [Downloads](../ASSET_INDEX.md) · [Weitere Testakten](../testakten/README.md) · [Plugin-Dateien](.)

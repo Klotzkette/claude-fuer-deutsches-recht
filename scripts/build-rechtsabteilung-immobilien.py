@@ -247,6 +247,12 @@ def build_packages(dist: Path) -> None:
         start = f"# {TITLE}\n\n[Projekt, Vollkopie und Testakten](./projekte/{PLUGIN}/README.md)\n\nDieses Archiv enthält nur das Immobilienprojekt, nicht die gesamte Rechtssammlung.\n"
         write_member(archive, "README.md", start.encode())
         write_member(archive, "ASSET_INDEX.md", start.encode())
+        write_member(archive, "SKILLS.md", start.encode())
+        for name in (PLUGIN, COMPANION):
+            index = ROOT / "skills-index" / f"{name}.md"
+            write_member(archive, f"skills-index/{name}.md", index.read_bytes())
+        cases_index = f"# Testakten\n\n[Zehn Immobilienakten](../projekte/{PLUGIN}/TESTAKTEN.md)\n"
+        write_member(archive, "testakten/README.md", cases_index.encode())
         install = (
             start
             + f"\n## Installation\n\nFür den Fachprozess das Plugin `{PLUGIN}` verwenden; für die technische Endfertigung `{COMPANION}`. Die jeweiligen installierbaren ZIPs werden separat angeboten. Alternativ einen der beiden Markdown-Prompts aus dem Fachplugin-Verzeichnis öffnen und mit dem Aktenordner bereitstellen. Das Gesamtprojekt-ZIP nicht als zusätzliches Plugin importieren.\n"
