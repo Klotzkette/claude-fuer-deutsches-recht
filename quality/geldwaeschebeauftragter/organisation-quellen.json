@@ -8,8 +8,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.3,5,9-15: Erhebung/Überprüfung, verbundene Handlungen, Güter, PEP und Führungsebene",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-1.html",
-      "sha256": "0307d2614bca1137772fd06ed67b9930f4bc2369826ec46e8f3b64ada7242c70"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-1.html.gz",
+      "sha256": "0307d2614bca1137772fd06ed67b9930f4bc2369826ec46e8f3b64ada7242c70",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "6e79bbd537295914975e03d45f236fcdc749471bdd197a7907820ace6d10e6dc"
     },
     {
       "id": "GwG-2",
@@ -17,8 +19,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1 einschließlich Nr.10,14,16: persönliche und tätigkeitsbezogene Verpflichtung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-2.html",
-      "sha256": "d2dc444346936194b585aa711502cbc512696d3b20f7c3e7354a1ef435198e18"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-2.html.gz",
+      "sha256": "d2dc444346936194b585aa711502cbc512696d3b20f7c3e7354a1ef435198e18",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "e9bc64d3160b985a828b5158bd9274d17ef2a1df3388bac2d5a653b74dffa7a7"
     },
     {
       "id": "GwG-3",
@@ -26,8 +30,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-4: natürliche Person, mehr als25Prozent, Kontrolle, Fiktion, Stiftungen und Veranlassung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-3.html",
-      "sha256": "9d694d1259fe6f0a0fd8cd570e84b4e21dc7c5918e1f8693871c354a92bd4c01"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-3.html.gz",
+      "sha256": "9d694d1259fe6f0a0fd8cd570e84b4e21dc7c5918e1f8693871c354a92bd4c01",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "fba5399beb4a1903ae0fbdb6432c48984bbfaf8cfb7540b554435b22295137a6"
     },
     {
       "id": "GwG-4",
@@ -35,8 +41,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-5: Risikomanagement, Leitungsgenehmigung, besondere Schwellen",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-4.html",
-      "sha256": "764d241d6a78c7d404c890b21cdc821ccbbc37de1eac689efd8ef0533e237d94"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-4.html.gz",
+      "sha256": "764d241d6a78c7d404c890b21cdc821ccbbc37de1eac689efd8ef0533e237d94",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "fc5942a0f9df0613a2ac23397feb46a688bc3221c8916f5789300351e0a6ee1f"
     },
     {
       "id": "GwG-5",
@@ -44,8 +52,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-4: Risikoanalyse und begrenzte Dokumentationsbefreiung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-5.html",
-      "sha256": "e5d59386c86090fd887a24749364eedcb0fd5cee3e8fb33a6b79aed2ab0b4350"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-5.html.gz",
+      "sha256": "e5d59386c86090fd887a24749364eedcb0fd5cee3e8fb33a6b79aed2ab0b4350",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "8cf33aa3f8d3af40c1d2f13988be6507103d79d93c26aa60f40076ade88f92d0"
     },
     {
       "id": "GwG-6",
@@ -53,8 +63,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-3,5-7,9: Sicherungsmaßnahmen, Angestellte, Übertragung und Verantwortung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-6.html",
-      "sha256": "66dbb38acf749e4cb9862d5c2ebcb361c2cf90a26af414f974211281b5845ccf"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-6.html.gz",
+      "sha256": "66dbb38acf749e4cb9862d5c2ebcb361c2cf90a26af414f974211281b5845ccf",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "6204e2f2221399270ce81961d9a074799f9395299fef318b4a88625d87b39e16"
     },
     {
       "id": "GwG-7",
@@ -62,8 +74,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-7: Bestellung, Anzeige, Befugnisse, Weisungsfreiheit für Meldung/FIU-Auskunft",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-7.html",
-      "sha256": "58c806cc9a8660f090967db5d544743cb498fae17e18b14cdd34ce97ff7eac85"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-7.html.gz",
+      "sha256": "58c806cc9a8660f090967db5d544743cb498fae17e18b14cdd34ce97ff7eac85",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "355150ff06b9617e864d7430c0812d16824c1e4afa139322d2529d5fdc1c9a13"
     },
     {
       "id": "GwG-10",
@@ -71,8 +85,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-3a,6,6a,8a,9: Sorgfaltspflichten, Schwellen, Ausnahmen und notarielle Ablehnung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-10.html",
-      "sha256": "399c7c5e9bf57fa9c338ec7b4dbf25a6ad470a54904e98a4ae5f93b0cd767996"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-10.html.gz",
+      "sha256": "399c7c5e9bf57fa9c338ec7b4dbf25a6ad470a54904e98a4ae5f93b0cd767996",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "04ef2c83a562defade00b3ff25cc090fa4aaaad3a9b1fb1bfc18d40081d0c465"
     },
     {
       "id": "GwG-11",
@@ -80,8 +96,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-7: Zeitpunkt, Angaben, eigene Erhebung, Mitwirkung",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-11.html",
-      "sha256": "b84851fb7de55ea1906ac710a944f5bbade5bd99cdabe863605519061b625fcb"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-11.html.gz",
+      "sha256": "b84851fb7de55ea1906ac710a944f5bbade5bd99cdabe863605519061b625fcb",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "3019ed5456a60028fd0e6379ab4ee092108fc06d254df4b7fc8560751e3dc8f1"
     },
     {
       "id": "GwG-12",
@@ -89,8 +107,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-4: Identitätsnachweise, Registererleichterung, Notarpflichten",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-12.html",
-      "sha256": "623cf99b83546265f624872f8c3030310337113025881a8ff89340be1bf3a411"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-12.html.gz",
+      "sha256": "623cf99b83546265f624872f8c3030310337113025881a8ff89340be1bf3a411",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "b227b19cd35bf5634ce5a105b16ca0ac2768870f108bca6967dd4dff744b589f"
     },
     {
       "id": "GwG-14",
@@ -98,8 +118,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-3: vereinfachte Pflichten",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-14.html",
-      "sha256": "f36e8b9b0cd2ed7459b87a788cce21ec0f0a0f788ae734310ed9ec7722f35e3f"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-14.html.gz",
+      "sha256": "f36e8b9b0cd2ed7459b87a788cce21ec0f0a0f788ae734310ed9ec7722f35e3f",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "9952b5243c235eb69eafc8a5a337eb2ec1704805326ceb93904f6c8d3902fe30"
     },
     {
       "id": "GwG-15",
@@ -107,8 +129,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-6,9: verstärkte Pflichten, PEP-Mindestdauer, Länder und Transaktionsrisiken",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-15.html",
-      "sha256": "642ce013a7c667b0a842b6f41f446479f388b36d67214e324928957419c462ab"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-15.html.gz",
+      "sha256": "642ce013a7c667b0a842b6f41f446479f388b36d67214e324928957419c462ab",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "72cd0de7620b103a9bcaed1534bfdb8911093e1d7ad0d71860cbbe97cc72719e"
     },
     {
       "id": "GwG-23a",
@@ -116,8 +140,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Abs.1-6: Unstimmigkeit und gesondertes Registerverfahren",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-23a.html",
-      "sha256": "9e264295b07bd3f39337646f99c28b4030f1155030e543af3b3ec99e2f4027af"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-23a.html.gz",
+      "sha256": "9e264295b07bd3f39337646f99c28b4030f1155030e543af3b3ec99e2f4027af",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "226987acc0e6f47422d4b6d9b280ec4986b43e7ca622bfb4bce3413df10d7d43"
     },
     {
       "id": "GwG-50",
@@ -125,8 +151,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passagen gelesen",
       "gelesen": "Zuständigkeit vollständig, besonders Nr.3,5,9",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-50.html",
-      "sha256": "023136ed936a45947e3b74d46640aa948c9966d2aae97e9749331a603f592843"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/gwg-50.html.gz",
+      "sha256": "023136ed936a45947e3b74d46640aa948c9966d2aae97e9749331a603f592843",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "20143a3d378a95abc37906e498c8ccd53822b939a20a814701dd22ab41453474"
     },
     {
       "id": "62024CJ0084",
@@ -134,8 +162,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
       "gelesen": "EuGH12.03.2026 C-84/24: Rn79-112; verwendet86-93,96-97,112",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62024CJ0084.html",
-      "sha256": "aa7def5ef6a5391fbc121bd7461303fd4f2e0c1970f67c26a6c3f8a5c4e4e31b"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62024CJ0084.html.gz",
+      "sha256": "aa7def5ef6a5391fbc121bd7461303fd4f2e0c1970f67c26a6c3f8a5c4e4e31b",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "ec47249fb30c9681d7ce55f947761826dcd578d4629caefd483526216d8efd6c"
     },
     {
       "id": "62023CJ0483",
@@ -143,8 +173,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
       "gelesen": "EuGH21.05.2026 C-483/23: Rn55-81; verwendet69-73",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62023CJ0483.html",
-      "sha256": "f78b129d0d4a413b0c96aebae3ed175b165193aa08a63b485b897551d711cfd5"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62023CJ0483.html.gz",
+      "sha256": "f78b129d0d4a413b0c96aebae3ed175b165193aa08a63b485b897551d711cfd5",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "f0782d3a57c3ea8e7ec566fe154fe4e3235be79adb9403536160cf4e87780cf3"
     },
     {
       "id": "62020CJ0562",
@@ -152,8 +184,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher deutscher Volltext direkt abgerufen und Randnummern gelesen",
       "gelesen": "EuGH17.11.2022 C-562/20: verwendetRn61-64,78,82-91",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0562.html",
-      "sha256": "1a811ad3993e02ae22b91fc2f8fa798cd892362e5aeee130ac4c7abe5bbaf2a2"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0562.html.gz",
+      "sha256": "1a811ad3993e02ae22b91fc2f8fa798cd892362e5aeee130ac4c7abe5bbaf2a2",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "36ac7da85598947fe8d57247c82a972061352df9a6b22f8ad4d700915cd3fcb0"
     },
     {
       "id": "62020CJ0037",
@@ -161,8 +195,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passage gelesen",
       "gelesen": "EuGH22.11.2022 C-37/20,C-601/20: verwendetRn40-44,74,83-88",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0037.html",
-      "sha256": "b428c2878193bcc64a6dd8e043920a953993b00e6bfcdba3eae59e916b29e9cc"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/62020CJ0037.html.gz",
+      "sha256": "b428c2878193bcc64a6dd8e043920a953993b00e6bfcdba3eae59e916b29e9cc",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "4aae5f5172d833472dabbf9c6bfbdb5251b350c0a71599363d71c105a58e1540"
     },
     {
       "id": "32024R1624",
@@ -170,8 +206,10 @@
       "abrufdatum": "2026-10-08",
       "status": "amtlicher Volltext geöffnet und bezeichnete Passage gelesen",
       "gelesen": "Art.90 Geltungsbeginn10.07.2027 und Sondergruppe10.07.2029",
-      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/32024R1624.html",
-      "sha256": "8a7196656c8a45c7d731f5c8a306333d7df172da9fe7e5d3b4a964337f30841b"
+      "datei": "quality/geldwaeschebeauftragter/quellen/organisation/32024R1624.html.gz",
+      "sha256": "8a7196656c8a45c7d731f5c8a306333d7df172da9fe7e5d3b4a964337f30841b",
+      "kompression": "gzip; sha256 bezieht sich auf den unveränderten entpackten HTTP-Inhalt",
+      "sha256_archiv": "63365f49b81eee08cd2c20355c69632a08587044c41987338965816814aa59c7"
     },
     {
       "id": "Bundesbank-FAQ-2026-06",
