@@ -1,3 +1,7 @@
+# betreuungsrecht-v445.33.3 - 2026-10-08
+
+Die Dreijahresakte heißt auf Nutzerwunsch jetzt Adelheid Pfister. Familiennamen, Kontaktangaben, Unterlagen, Skillbeispiel, Werkstatt und aktuelle Downloadpfade sind entsprechend angepasst. Sachverhalt, Buchungen und Rechtsprüfung bleiben unverändert. Frühere Veröffentlichungen bleiben als historische Fassungen erhalten.
+
 # betreuungsrecht-v445.33.2 - 2026-10-08
 
 Der neue Skill `unterlagen-auswerten-abrechnung-anschreiben` und die eigenständige Unterlagen-Werkstatt führen von Altbelegen zu Excel-Abrechnung, Kontenabstimmung und ausformulierten Anschreiben. Umbuchungen, Bargeld, ungeklärte Vertragsgrundlagen und mögliche Rückforderungen bleiben getrennt. Die Excel-Vorlage macht offene Angaben und Differenzen sichtbar.

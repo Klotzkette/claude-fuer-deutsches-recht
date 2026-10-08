@@ -60,3 +60,7 @@ Die Anweisungen des Skills waren für die gewählte Probe ausreichend. Es war ke
 Die Original-Arbeitsprodukte liegen zusätzlich unter `/tmp/betreuung-probe/`. Die hier verlinkten Kopien sind Qualitätsnachweise außerhalb der Testakte und ihrer ZIP-Dateien. Antwortdatum 22.10.2026 ist ein organisatorisch gewählter Termin, keine behauptete gesetzliche Ausschlussfrist. Entwürfe und Anlagenliste bedeuten keinen Versand oder bereits zusammengestellte Versandmappe.
 
 Nicht getestet: vollständige 36-Monats-Auswertung, XLSX-Erzeugung und Formeldynamik, Druckgestaltung, Live-Connectoren, gerichtliche Einreichung, laufender Postfachzugriff, Kündigung oder Rücklastschrift, Rechtsbehelfs-/Verjährungsberechnung und aktuelle amtliche Rechtsprechungsprüfung. Für die hier gewählten reinen Sachverhaltsnachfragen wurden keine konkreten zusätzlichen Norm- oder Urteilsbehauptungen benötigt und daher keine ungeprüften Rechtsquellen ergänzt. Die Probe bestätigt die fachliche Anwendbarkeit in diesem Ausschnitt, keine allgemeine Vollständigkeit oder Plattformkompatibilität.
+
+## 1.7 Redaktioneller Nachtrag 445.33.3
+
+Die verlinkten Ergebnisdateien wurden auf den Familiennamen Pfister und die aktuellen Aktenpfade umgestellt. Zahlen, fachliche Aussagen und Umfang der damaligen Probe sind unverändert. Der oben genannte Hash dokumentiert weiterhin den tatsächlich eingesetzten Skill von 445.33.2; die redaktionell angepasste Fassung hat einen neuen Hash im Prüfprofil. Dieser Nachtrag behauptet keine erneute Agentenprobe oder Quellenprüfung.

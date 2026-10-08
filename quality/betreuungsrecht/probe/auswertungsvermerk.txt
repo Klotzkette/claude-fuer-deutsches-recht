@@ -1,4 +1,4 @@
-Auswertungsvermerk – Adelheid Pimpernell
+Auswertungsvermerk – Adelheid Pfister
 Unabhängige Agentenprobe | Stand 08.10.2026 | Entwurf, keine Außenhandlung
 
 1. Umfang und Vertretung
@@ -25,9 +25,9 @@ Die Bankabgänge ohne interne Transfers zerfallen in 1.778,68 Zahlungen an Dritt
 
 B0551: GIRO_2024-05.pdf S. 1, 16.05.2024, −4.200,00 an Ruprecht, „Fenster / Rechnung W-24051 vorgestreckt“. B0552: GIRO_2024-06.pdf S. 1, 07.06.2024, +600,00, „Rest Fenster zurück“. Bruttoabfluss 4.200,00, Erstattung 600,00, verbleibender Abfluss 3.600,00.
 
-W-24051.pdf S. 1 vom 10.05.2024 nennt Ruprecht als Auftraggeber und Leistungsempfänger, Kastanienwinkel 6, Bernau, Rechnungsbetrag 3.600,00. Die Rechnung enthält die Angabe „am 13.05.2024 durch Herrn Pimpernell bezahlt“ und den handschriftlich wiedergegebenen Hinweis „Mama übernimmt die Fenster wie besprochen“; ein gesonderter Kontonachweis seiner Handwerkerzahlung liegt in dieser Probe nicht vor. Keine Reparatur an Adelheids Mietwohnung und kein zweiter zusätzlicher Abfluss von 3.600,00 aus ihrem Konto.
+W-24051.pdf S. 1 vom 10.05.2024 nennt Ruprecht als Auftraggeber und Leistungsempfänger, Kastanienwinkel 6, Bernau, Rechnungsbetrag 3.600,00. Die Rechnung enthält die Angabe „am 13.05.2024 durch Herrn Pfister bezahlt“ und den handschriftlich wiedergegebenen Hinweis „Mama übernimmt die Fenster wie besprochen“; ein gesonderter Kontonachweis seiner Handwerkerzahlung liegt in dieser Probe nicht vor. Keine Reparatur an Adelheids Mietwohnung und kein zweiter zusätzlicher Abfluss von 3.600,00 aus ihrem Konto.
 
-EML 04 vom 09.05.2024, Message-ID pimpernell-2024-05-09-04@postfach.example, bittet um 4.200,00, verspricht 600,00 zurück und lässt Rückzahlung/Geschenk offen. EML 05 vom 17.05. behauptet ein telefonisches Geschenk; EML 06 vom 08.06. bestätigt den Rest. Die Rechnung als Anhang von EML 05 ist bytegleich mit W-24051.pdf und wird nicht doppelt erfasst. Junas Notiz vom 11.06.2024, Adelheids Gespräch vom 02.10.2026 und Ruprechts Stellungnahme vom 04.10.2026 lassen unterschiedliche Erinnerungen erkennen. Befund: Zahlungen und Verwendung plausibel belegt, Rechtsgrund der verbleibenden 3.600,00 streitig/ungeklärt; kein feststehender Schaden und kein feststehender Rückforderungsbetrag. Gegenhypothese einer gewollten Unterstützung der Enkel ernst nehmen.
+EML 04 vom 09.05.2024, Message-ID pfister-2024-05-09-04@postfach.example, bittet um 4.200,00, verspricht 600,00 zurück und lässt Rückzahlung/Geschenk offen. EML 05 vom 17.05. behauptet ein telefonisches Geschenk; EML 06 vom 08.06. bestätigt den Rest. Die Rechnung als Anhang von EML 05 ist bytegleich mit W-24051.pdf und wird nicht doppelt erfasst. Junas Notiz vom 11.06.2024, Adelheids Gespräch vom 02.10.2026 und Ruprechts Stellungnahme vom 04.10.2026 lassen unterschiedliche Erinnerungen erkennen. Befund: Zahlungen und Verwendung plausibel belegt, Rechtsgrund der verbleibenden 3.600,00 streitig/ungeklärt; kein feststehender Schaden und kein feststehender Rückforderungsbetrag. Gegenhypothese einer gewollten Unterstützung der Enkel ernst nehmen.
 
 Nächster Schritt: Adelheid am 09.10. ohne vorgegebene Antwort erneut anhören; Ruprechts für 20.10.2026 angebotene, auf die Vorgänge beschränkte Belege abwarten und seine damalige konkrete Absprache klären. Transporterdarlehen und Maihilfe 2026 sind eigenständige Vorgänge, hier nicht vollständig geprüft und nicht in eine Fensterforderung einbezogen.
 
@@ -53,7 +53,7 @@ Maßnahme: beigefügter Nachfragebrief verlangt Bestell-/Bestätigungsunterlagen
 
 4. Fertigstand, Lücken und Versandkontrolle
 
-Erstellt: dieser Vermerk, september-buchungen.csv als Cent-genauer Quellenindex, zwei vollständige Nachfragebriefe. Für diese begrenzte Probe waren TXT-Dateien ausdrücklich ausreichend; keine XLSX-Datei und keine Formel-/Druckprüfung behauptet. Wertstellung fehlt in den gelesenen Auszügen als eigenes Feld und wurde nicht erfunden. Maßgebliche Belegpfade liegen unter testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung; Originale unverändert.
+Erstellt: dieser Vermerk, september-buchungen.csv als Cent-genauer Quellenindex, zwei vollständige Nachfragebriefe. Für diese begrenzte Probe waren TXT-Dateien ausdrücklich ausreichend; keine XLSX-Datei und keine Formel-/Druckprüfung behauptet. Wertstellung fehlt in den gelesenen Auszügen als eigenes Feld und wurde nicht erfunden. Maßgebliche Belegpfade liegen unter testakten/betreuung-adelheid-pfister-dreijahresabrechnung; Originale unverändert.
 
 Offen bleiben insbesondere Kassenbestand/Verwendung von 850,00, Unterschriftsoriginal der Helferabrede, Gerätequittungen und Restgeld, Jahrespaketabgrenzung, damaliger Wille zu Geschenken, vollständiger LebensKompass-Abschluss und Legitimation für Vertragsunterlagen. Antwortfristen in Briefen sind organisatorisch gewählte Termine, keine behaupteten gesetzlichen Ausschlussfristen. Die Briefe enthalten keine zwingenden Anspruchsbehauptungen. Für die in dieser Probe gewählten sachlichen Nachfragen wurde keine zusätzliche Rechtsbehauptung aus Norm oder Urteil ergänzt; amtliche Rechtsprüfung konkreter Gestaltungsrechte bleibt ein gesonderter nächster Schritt.
 

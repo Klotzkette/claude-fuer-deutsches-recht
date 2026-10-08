@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Komponententag, zum Beispiel betreuungsrecht-v445.33.2
+        description: Komponententag, zum Beispiel betreuungsrecht-v445.33.3
         required: true
 
 permissions:
@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TAG: ${{ inputs.tag }}
-      CASE: betreuung-adelheid-pimpernell-dreijahresabrechnung
+      CASE: betreuung-adelheid-pfister-dreijahresabrechnung
     steps:
       - uses: actions/checkout@v5
         with:
@@ -53,7 +53,7 @@ jobs:
             echo "Release existiert bereits; keine veröffentlichten Dateien überschreiben."
             exit 1
           fi
-          gh release create "$TAG" --target "$GITHUB_SHA" --draft --title "Betreuungsrecht ${TAG#betreuungsrecht-}" --notes-file docs/releases/betreuungsrecht-v445.33.2.md --latest=false
+          gh release create "$TAG" --target "$GITHUB_SHA" --draft --title "Betreuungsrecht ${TAG#betreuungsrecht-}" --notes-file docs/releases/betreuungsrecht-v445.33.3.md --latest=false
           gh release upload "$TAG" "$RUNNER_TEMP"/betreuung-dist/*
           python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/betreuung-dist"
           gh release edit "$TAG" --draft=false --latest=false

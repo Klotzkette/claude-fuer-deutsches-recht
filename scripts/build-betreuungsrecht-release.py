@@ -13,7 +13,7 @@ from prompt_profiles import PROMPT_SUFFIXES
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "betreuungsrecht"
-CASE = "betreuung-adelheid-pimpernell-dreijahresabrechnung"
+CASE = "betreuung-adelheid-pfister-dreijahresabrechnung"
 
 
 def module(filename):

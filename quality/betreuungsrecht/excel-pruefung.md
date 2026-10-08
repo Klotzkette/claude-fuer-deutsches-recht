@@ -2,15 +2,15 @@
 
 Stand: 08.10.2026.
 
-Die drei Arbeitsmappen wurden mit `@oai/artifact-tool` im gebündelten Node-Laufzeitsystem erzeugt. Der reproduzierbare Builder ist `scripts/build-betreuung-unterlagen-workbooks.mjs`. Er liest die kanonischen Falldaten aus `scripts/data/betreuung-pimpernell.json`; die generische Vorlage enthält keine Falllösung und keine beibehaltenen Testeingaben.
+Die drei Arbeitsmappen wurden mit `@oai/artifact-tool` im gebündelten Node-Laufzeitsystem erzeugt. Der reproduzierbare Builder ist `scripts/build-betreuung-unterlagen-workbooks.mjs`. Er liest die kanonischen Falldaten aus `scripts/data/betreuung-pfister.json`; die generische Vorlage enthält keine Falllösung und keine beibehaltenen Testeingaben.
 
 ## 1.1. Gelieferte Arbeitsmappen
 
 | Arbeitsmappe | Inhalt | Abgrenzung |
 |---|---|---|
 | `betreuungsrecht/templates/unterlagen-abrechnung.xlsx` | Sechs Blätter: Abrechnung, Konten, Buchungen, Belege, Rückfragen und Anleitung. | Fallneutrale Arbeitsvorlage mit 1.500 Buchungszeilen, 20 Konten, 300 Belegen und 100 Rückfragen. |
-| `testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung/06_Tabellen/Bankexport_2023-10_bis_2026-09.xlsx` | 584 Bankbuchungen sowie 72 Monatskontenabgleiche für Giro- und Sparkonto. | Bankseitige Zahlungsdaten mit Originaltext, Datum, Betrag und Quellenzuordnung; keine rechtliche Verdachtslösung. |
-| `testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung/06_Tabellen/Haushaltsnotizen_Adelheid_2026-10-02.xlsx` | 14 Haushaltspositionen aus Gespräch und erster Sichtung. | Bewusst offene Erinnerungen und fehlender Bargeldbestand; kein vollständiger Haushaltsabschluss. Der Dateiname verweist auf das Gespräch, die Zusammenstellung trägt den Stand 08.10.2026. |
+| `testakten/betreuung-adelheid-pfister-dreijahresabrechnung/06_Tabellen/Bankexport_2023-10_bis_2026-09.xlsx` | 584 Bankbuchungen sowie 72 Monatskontenabgleiche für Giro- und Sparkonto. | Bankseitige Zahlungsdaten mit Originaltext, Datum, Betrag und Quellenzuordnung; keine rechtliche Verdachtslösung. |
+| `testakten/betreuung-adelheid-pfister-dreijahresabrechnung/06_Tabellen/Haushaltsnotizen_Adelheid_2026-10-02.xlsx` | 14 Haushaltspositionen aus Gespräch und erster Sichtung. | Bewusst offene Erinnerungen und fehlender Bargeldbestand; kein vollständiger Haushaltsabschluss. Der Dateiname verweist auf das Gespräch, die Zusammenstellung trägt den Stand 08.10.2026. |
 
 ## 1.2. Fachliche Rechenlogik
 

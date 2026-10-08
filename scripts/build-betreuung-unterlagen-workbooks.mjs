@@ -7,8 +7,8 @@ import assert from 'node:assert/strict';
 import { Workbook, SpreadsheetFile } from '@oai/artifact-tool';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const CASE = path.join(ROOT, 'testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung');
-const PREVIEW = process.env.BETREUUNG_EXCEL_PREVIEW || '/tmp/betreuung-pimpernell-excel';
+const CASE = path.join(ROOT, 'testakten/betreuung-adelheid-pfister-dreijahresabrechnung');
+const PREVIEW = process.env.BETREUUNG_EXCEL_PREVIEW || '/tmp/betreuung-pfister-excel';
 const CAPACITY = 1500;
 const LAST = CAPACITY + 6;
 const MONEY = '#,##0.00;[Red](#,##0.00);0.00';
@@ -211,7 +211,7 @@ async function testTemplate(t) {
 async function bankBook(data) {
   const wb=Workbook.create(), sum=sheet(wb,'Kontensalden','I',84), tx=sheet(wb,'Bankbuchungen','J',data.transactions.length+6), how=sheet(wb,'Lesehinweise','B',26);
   sum.tabColor=C.navy;tx.tabColor='#D8CDBB';
-  title(sum,'Kontenübersicht Adelheid Pimpernell','01.10.2023 bis 30.09.2026. Beträge in EUR. Monatswerte umfassen sämtliche Bankbewegungen.','I');
+  title(sum,'Kontenübersicht Adelheid Pfister','01.10.2023 bis 30.09.2026. Beträge in EUR. Monatswerte umfassen sämtliche Bankbewegungen.','I');
   widths(sum,[18,18,21,21,21,22,24,22,46]);
   table(sum,'A6:I78','Monatssalden',['Monat','Konto-ID','Anfang EUR','Gutschriften EUR','Belastungen EUR','Ende gerechnet EUR','Ende laut Auszug EUR','Differenz EUR','Kontoauszug']);
   const rows=[], formule=[], rowsTx=data.transactions;
@@ -238,7 +238,7 @@ async function bankBook(data) {
   tx.getRange(`C7:C${rowsTx.length+6}`).setNumberFormat('yyyy-mm-dd');tx.getRange(`G7:G${rowsTx.length+6}`).setNumberFormat('yyyy-mm-dd');money(tx,`F7:F${rowsTx.length+6}`);
   tx.getRange(`D7:E${rowsTx.length+6}`).format.wrapText=true;tx.getRange(`A7:J${rowsTx.length+6}`).format.rowHeight=35;
   title(how,'Lesehinweise zum Kontenexport','Auszug aus den vorgelegten Kontenunterlagen.','B');widths(how,[34,120]);
-  how.getRange('A6:B13').values=[['1. Inhaberin','Adelheid Pimpernell'],['2. Zeitraum','Die Datei umfasst Buchungstage vom 01.10.2023 bis einschließlich 30.09.2026.'],['3. Konten',data.accounts.map(a=>`${a.id}: ${a.name}`).join('; ')],['4. Vorzeichen','Positive Beträge sind Bankgutschriften, negative Beträge Bankbelastungen.'],['5. Monatsrechnung','Anfang plus Gutschriften minus Belastungen ergibt den rechnerischen Endsaldo. Die Differenz vergleicht ihn mit dem ausgewiesenen Monatsende.'],['6. Aussagegrenze','Eine Bankbelastung zeigt den Geldabfluss. Ihr Verwendungszweck beweist nicht ohne Weiteres die tatsächliche Gegenleistung.'],['7. Eigene Konten','Überträge zwischen eigenen Konten erscheinen auf beiden Konten. Die Summe der Gutschriften ist deshalb keine bereinigte Einnahmensumme.'],['8. Quellen','Die Kontoauszugs-Spalte benennt die zugehörige Unterlage. Beleg-IDs sind Verknüpfungshinweise, keine rechtliche Bewertung.']];
+  how.getRange('A6:B13').values=[['1. Inhaberin','Adelheid Pfister'],['2. Zeitraum','Die Datei umfasst Buchungstage vom 01.10.2023 bis einschließlich 30.09.2026.'],['3. Konten',data.accounts.map(a=>`${a.id}: ${a.name}`).join('; ')],['4. Vorzeichen','Positive Beträge sind Bankgutschriften, negative Beträge Bankbelastungen.'],['5. Monatsrechnung','Anfang plus Gutschriften minus Belastungen ergibt den rechnerischen Endsaldo. Die Differenz vergleicht ihn mit dem ausgewiesenen Monatsende.'],['6. Aussagegrenze','Eine Bankbelastung zeigt den Geldabfluss. Ihr Verwendungszweck beweist nicht ohne Weiteres die tatsächliche Gegenleistung.'],['7. Eigene Konten','Überträge zwischen eigenen Konten erscheinen auf beiden Konten. Die Summe der Gutschriften ist deshalb keine bereinigte Einnahmensumme.'],['8. Quellen','Die Kontoauszugs-Spalte benennt die zugehörige Unterlage. Beleg-IDs sind Verknüpfungshinweise, keine rechtliche Bewertung.']];
   how.getRange('A6:B13').format.wrapText=true;how.getRange('A6:B13').format.rowHeight=50;
   wb.recalculate();
   for(let rr=7;rr<=6+rows.length;rr++)assert.equal(sum.getRange(`H${rr}`).values[0][0],0,`Saldozeile ${rr}`);
@@ -251,9 +251,9 @@ async function householdBook(data) {
   const wb=Workbook.create(), s=sheet(wb,'Haushaltsnotizen','G',32);
   const notes=data.household_sheet_rows??data.household_notes;
   if(!Array.isArray(notes)||notes.length===0) throw new Error('household_notes fehlen im canonical JSON; keine unabhängigen Falldaten erfinden.');
-  title(s,'Haushaltsnotizen nach dem Erstgespräch','Adelheid Pimpernell. Zusammenstellung von Dr. Maja Winterfeld, Stand 08.10.2026.','G');widths(s,[28,24,20,19,48,36,32]);
+  title(s,'Haushaltsnotizen nach dem Erstgespräch','Adelheid Pfister. Zusammenstellung von Dr. Maja Winterfeld, Stand 08.10.2026.','G');widths(s,[28,24,20,19,48,36,32]);
   table(s,`A6:G${6+notes.length}`,'Haushaltsnotizen',['Position','Anbieter / Empfänger','Betrag EUR','Rhythmus','Notiz aus Gespräch / Sichtung','Unterlage / Rückfrage','Notiert von']);
-  const rows=notes.map(n=>[n.item??n.position,n.party??n.provider,n.amount_cents==null?null:n.amount_cents/100,n.frequency??n.rhythm,n.note??n.memory,n.source??n.question,n.author??'Adelheid Pimpernell']);
+  const rows=notes.map(n=>[n.item??n.position,n.party??n.provider,n.amount_cents==null?null:n.amount_cents/100,n.frequency??n.rhythm,n.note??n.memory,n.source??n.question,n.author??'Adelheid Pfister']);
   s.getRange(`A7:G${6+rows.length}`).values=rows;s.getRange(`A7:G${6+rows.length}`).format.wrapText=true;s.getRange(`A7:G${6+rows.length}`).format.rowHeight=69;money(s,`C7:C${6+rows.length}`);
   s.getRange(`A${9+rows.length}`).values=[['Leere Beträge sind noch ungeklärt. Bitte nicht als 0 EUR lesen.']];
   await save(wb,path.join(CASE,'06_Tabellen/Haushaltsnotizen_Adelheid_2026-10-02.xlsx'),[['Haushaltsnotizen',`A1:G${10+rows.length}`]],'haushalt');
@@ -264,7 +264,7 @@ const template=makeTemplate();
 await testTemplate(template);
 await save(template.wb,path.join(ROOT,'betreuungsrecht/templates/unterlagen-abrechnung.xlsx'),[['Abrechnung','A1:H36'],['Konten','A1:K13'],['Buchungen','A1:O12'],['Belege','A1:H13'],['Rückfragen','A1:L12'],['Anleitung','A1:B20']],'vorlage');
 if(!process.argv.includes('--template-only')){
-  const data=JSON.parse(await fs.readFile(path.join(ROOT,'scripts/data/betreuung-pimpernell.json'),'utf8'));
+  const data=JSON.parse(await fs.readFile(path.join(ROOT,'scripts/data/betreuung-pfister.json'),'utf8'));
   await bankBook(data);await householdBook(data);
 }
 await fs.writeFile(path.join(PREVIEW,'pruefung.json'),JSON.stringify(reports,null,2)+'\n');

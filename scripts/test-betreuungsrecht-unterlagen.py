@@ -19,9 +19,9 @@ from testakte_disclaimer import NOTICE_DE, NOTICE_EN, NOTICE_BYTES
 
 ROOT = Path(__file__).resolve().parents[1]
 PLUGIN = ROOT / "betreuungsrecht"
-SLUG = "betreuung-adelheid-pimpernell-dreijahresabrechnung"
+SLUG = "betreuung-adelheid-pfister-dreijahresabrechnung"
 CASE = ROOT / "testakten" / SLUG
-DATA = json.loads((ROOT / "scripts/data/betreuung-pimpernell.json").read_text())
+DATA = json.loads((ROOT / "scripts/data/betreuung-pfister.json").read_text())
 DIST = None
 
 

@@ -235,7 +235,12 @@
     "scope": "Neuer Unterlagen-Auswerter und eigenständige Unterlagen-Werkstatt; gezielte Routing- und Normkorrekturen. Keine Vollprüfung sämtlicher bestehender Spezialskills.",
     "report": "quality/betreuungsrecht/README.md",
     "source_report": "quality/betreuungsrecht/unterlagen-quellen-2026-10-08.md",
-    "skill_sha256": "b4eba03e578fceab891e1851c681379d83d1c3812be49ac09e8fe4699dc0265f",
-    "prompt_sha256": "36af919dfe0b6958ef63fff4d18066587a423557202aa08d8a858dd656571c2f"
+    "skill_sha256": "bc2c28e060126f866dc7fc71d557204e0d3245a45c06a741692bca7110b72317",
+    "prompt_sha256": "214497c725e03cba2a1e92d1fda72a6d147c8b8ce0c8692de6ef5f9eb1e3ff19",
+    "editorial_update": {
+      "date": "2026-10-08",
+      "version": "445.33.3",
+      "scope": "Reine Namensumstellung auf Adelheid Pfister einschließlich Familie und Aktenpfaden. Keine erneute juristische Quellenprüfung oder unabhängige Anwendungsprobe; Zahlen, Sachverhalt und Methodik unverändert."
+    }
   }
 }

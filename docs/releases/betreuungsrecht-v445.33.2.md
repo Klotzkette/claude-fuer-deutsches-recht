@@ -6,7 +6,7 @@ Die neue Akte Adelheid Pimpernell umfasst drei Jahre vor Übernahme der Betreuun
 
 ## 1. Einstieg
 
-[Plugin und Anleitung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/README.md) · [Eigenständiger Werkstatt-Prompt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md) · [Neue Testakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung/README.md) · [Prüfbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/betreuungsrecht/README.md).
+[Plugin und Anleitung](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/README.md) · [Eigenständiger Werkstatt-Prompt](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md) · [Neue Testakte](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/betreuungsrecht-v445.33.2/testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung/README.md) · [Prüfbericht](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/quality/betreuungsrecht/README.md).
 
 ## 2. Dateien
 
