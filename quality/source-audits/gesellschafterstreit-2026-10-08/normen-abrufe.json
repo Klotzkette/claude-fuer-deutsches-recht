@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+    "status": "gespeichert",
+    "sha256": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+    "bytes": 224303
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__99.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/aktg-__99.html.gz",
+    "status": "gespeichert",
+    "sha256": "a7fee8617d658ad874289b3f65a9857f274902b86d68d1a6b83d995dc97c3658",
+    "bytes": 5732
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/aktg-__132.html.gz",
+    "status": "gespeichert",
+    "sha256": "789494b270211085cb364b20403b4ce9a1ea3e56647778c8944b99d07f4b00db",
+    "bytes": 5437
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__162.html.gz",
+    "status": "gespeichert",
+    "sha256": "15c09655fcdc1d8df65e023422f23dd95af0de6c42fa07eddf2e9e83f5f2a84d",
+    "bytes": 3760
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__164.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__164.html.gz",
+    "status": "gespeichert",
+    "sha256": "fb1cfc902a12d3f291fa743bbcd71df24bec5db6261759332603b337bc5b3406",
+    "bytes": 4126
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__177.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__177.html.gz",
+    "status": "gespeichert",
+    "sha256": "0c86c993cf40c24277943768a2456b4a61d5c7fa1596d90222cbc0e40ac1bafb",
+    "bytes": 4062
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__181.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__181.html.gz",
+    "status": "gespeichert",
+    "sha256": "1e2ad09bab25550ef6d65583036e65d56f794f6d05c9971ea8734e4a7dc92ce1",
+    "bytes": 3661
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__242.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__242.html.gz",
+    "status": "gespeichert",
+    "sha256": "7266216454228c0d5730af7b13306d640ca4b1e484dcf2f2493282c686d8da10",
+    "bytes": 3506
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/bgb-__626.html.gz",
+    "status": "gespeichert",
+    "sha256": "756230bb8c390f271caa4a6775e8828577db430f7d3f973fd6660055ea2d5016",
+    "bytes": 4271
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__138.html.gz",
+    "status": "gespeichert",
+    "sha256": "9eba33019b9b4941d3755de7501240fa0603643e059ebe51dda5c5058b87569f",
+    "bytes": 4097
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__142.html.gz",
+    "status": "gespeichert",
+    "sha256": "d77d302f902e83592ac7344ebc6436f09936485e649768d88deccd9012eeb9d5",
+    "bytes": 4884
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__167.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__167.html.gz",
+    "status": "gespeichert",
+    "sha256": "05f3d2010d402ae0b4d10ed8b1481deffc9145a7927e42c5a3e78fa6d09b3e9b",
+    "bytes": 3662
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__253.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__253.html.gz",
+    "status": "gespeichert",
+    "sha256": "e7cd53700fffb1dc3bd80dcbd2714c363fdd37997025622f1ae3d08e7cb2ccfb",
+    "bytes": 5679
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__254.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__254.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__256.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__256.html.gz",
+    "status": "gespeichert",
+    "sha256": "aabeff80e0113b4c56a34fdf1796b24ce42bb8598aa3c3bc5763c4a0e042c5fb",
+    "bytes": 4187
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__273a.html.gz",
+    "status": "gespeichert",
+    "sha256": "ce327b0000b0481c348553c8e57e1c7f3c2869dd936732859c91c5248ad902a7",
+    "bytes": 3736
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__294.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__294.html.gz",
+    "status": "gespeichert",
+    "sha256": "8df92d94fb466cf1bd14e2c2da04dd60fd3ffd6313f41918fbaff232f8613f8a",
+    "bytes": 3608
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__929.html.gz",
+    "status": "gespeichert",
+    "sha256": "24e8968a61df88a02122cca5537bf12b4b38253908f70b6f32f036a57b4aca31",
+    "bytes": 4303
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__935.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__935.html.gz",
+    "status": "gespeichert",
+    "sha256": "3f944952743f0b584c520efae0cef28f19efcf6f1c02b5b43749eeb2e679acc4",
+    "bytes": 3651
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__936.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__936.html.gz",
+    "status": "gespeichert",
+    "sha256": "bf425bfa55b17a17af81f443860d651fd45d4d48297c176bfefcdece816e3da8",
+    "bytes": 3632
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__940.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__940.html.gz",
+    "status": "gespeichert",
+    "sha256": "34636da5eed8bdbf398e9c1303946c2750ac02810cc626998c9ef73c25470e2f",
+    "bytes": 3761
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__945.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__945.html.gz",
+    "status": "gespeichert",
+    "sha256": "91b0372685d7f96031816160153242fceddaca1ef66360a9ed2ce49f63547e6d",
+    "bytes": 3871
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__15a.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__15a.html.gz",
+    "status": "gespeichert",
+    "sha256": "5bea1fdb44d7f22dc33524130ebf8ceed43923bf4fc8e36cf7718262f34c6ac6",
+    "bytes": 6265
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__15b.html.gz",
+    "status": "gespeichert",
+    "sha256": "eaf77757ffd2bf752106df47ec424e4e4a336456e401e49c09048ec640252200",
+    "bytes": 8100
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__17.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__17.html.gz",
+    "status": "gespeichert",
+    "sha256": "de31f0953b616e2d1e9231a7171882e81237e2b1c54e306c98763ad1dbe98425",
+    "bytes": 3687
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__19.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__19.html.gz",
+    "status": "gespeichert",
+    "sha256": "4267129ec4b97ba5e9891bba428407f992349ac2d355d8dd4477257110e24452",
+    "bytes": 4953
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__39.html.gz",
+    "status": "gespeichert",
+    "sha256": "07a2de8f6fdb0ce27c0f6224dba96ec35c2ebd1e6be5b4c6e8eb13847deb2ac1",
+    "bytes": 6544
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/inso/__135.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/inso-__135.html.gz",
+    "status": "gespeichert",
+    "sha256": "01926bae5b57ee83d8c08d9453c6d322b182fd24f1719d2a6ac6f6d9580b6c0b",
+    "bytes": 5542
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__2.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__2.html.gz",
+    "status": "gespeichert",
+    "sha256": "bc73c74861893709246a68f13a75ca06de32b799d0d26f7d39adef96f126c73d",
+    "bytes": 5515
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__3.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__3.html.gz",
+    "status": "gespeichert",
+    "sha256": "418a18b1b23ff195ac2bdfb14ca66c664f70b5ff4985af257733ed5f57eaf097",
+    "bytes": 4735
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__4.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__4.html.gz",
+    "status": "gespeichert",
+    "sha256": "919422def5dcc1c4164f312ef7431a3ac259eae70f1e5bfb525d0879a2d31c4d",
+    "bytes": 5682
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__5.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__5.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__6.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__6.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__16.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__16.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__17.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__17.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__18.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__18.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__19.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__19.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/__20.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-__20.html.gz",
+    "status": "fehlgeschlagen",
+    "fehler": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/geschgehg-BJNR046610019.html.gz",
+    "status": "gespeichert",
+    "sha256": "182bda1cbb0c3279f9416492b1ebc5376ce1ba63b52a9c66bc88626b34452a85",
+    "bytes": 51215
+  },
+  {
+    "url": "https://www.gesetze-im-internet.de/zpo/__254.html",
+    "abrufdatum": "2026-10-09",
+    "archiv": "originale/zpo-__254.html.gz",
+    "status": "gespeichert",
+    "sha256": "06817b250f9c7a403bba93ab06b735a5fea83d9a37fa865cfee33e515a34b929",
+    "bytes": 3827
+  }
+]

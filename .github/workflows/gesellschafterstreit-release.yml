@@ -1,0 +1,66 @@
+name: Gesellschafterstreit mit drei Testakten
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag gesellschafterstreit-v445.34.1
+        required: true
+        default: gesellschafterstreit-v445.34.1
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gesellschafterstreit-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      TAG: ${{ inputs.tag }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Abhängigkeiten
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2
+      - name: Version und Quellen prüfen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('gesellschafterstreit/.claude-plugin/plugin.json'))['version'])")
+          test "$VERSION" = "445.34.1"
+          test "gesellschafterstreit-v$VERSION" = "$TAG"
+          test -s "docs/releases/$TAG.md"
+          python3 scripts/test-gesellschafter-vorfuehrakten.py
+          python3 scripts/test-office-resilience.py
+          python3 scripts/test-gesellschafterstreit-update.py
+      - name: PDFs und Pakete
+        run: |
+          # Gesamtakten und Handbücher bleiben bytegleich zum geprüften Git-Stand.
+          # Beide Testakten-ZIP-Varianten entstehen mit den zentralen Buildern.
+          python3 scripts/build-gesellschafterstreit-release.py "$RUNNER_TEMP/gesellschafterstreit-dist"
+          python3 scripts/test-gesellschafterstreit-update.py --dist "$RUNNER_TEMP/gesellschafterstreit-dist"
+      - name: Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert bereits; keine veröffentlichten Dateien überschreiben."
+            exit 1
+          fi
+          if git show-ref --verify --quiet "refs/tags/$TAG"; then
+            echo "Tag existiert bereits; dieser Workflow erzeugt seinen Komponententag selbst."
+            exit 1
+          fi
+          RELEASE_SHA=$(git rev-parse HEAD)
+          gh release create "$TAG" --target "$RELEASE_SHA" --draft --title "Gesellschafterstreit ${TAG#gesellschafterstreit-}" --notes-file "docs/releases/$TAG.md" --latest=false
+          gh release upload "$TAG" "$RUNNER_TEMP"/gesellschafterstreit-dist/*
+          # Der vorhandene Prüfer akzeptiert beliebige Tags und Assetverzeichnisse.
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/gesellschafterstreit-dist"
+          gh release edit "$TAG" --draft=false --latest=false

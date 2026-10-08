@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-zink-und-zunder.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-zink-und-zunder.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-zink-und-zunder.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-zink-und-zunder.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-zink-und-zunder-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -91,3 +91,16 @@ Alle Personen, Unternehmen, Anschriften und Vorgänge sind fiktiv. Kontaktadress
 | [36_Samir_Hinweis_Ablage.eml](36_Samir_Hinweis_Ablage.eml) | Bitte die Ausgangsunterlagen getrennt lassen |
 | [37_Finanzuebersicht.xlsx](37_Finanzuebersicht.xlsx) | Septemberbanklauf, offene Posten, Bilanz und Darlehen |
 | [38_Stimmen_und_Kapital.xlsx](38_Stimmen_und_Kapital.xlsx) | Kapitalplanung, abgegebene Stimmen und Protokollrechnung |
+
+<!-- BEGIN gesellschafterstreit-nachtrag -->
+## 1.5 Vertiefung mit Nachtrag vom 8 Oktober 2026
+
+Der ursprüngliche Aktenstand vom 2. Oktober und die Kernunterlagen bleiben erhalten. Der zusätzliche Bestand führt denselben Fall bis zum 8. Oktober 2026 fort: sechs ausformulierte DOCX jeweils mit PDF-Lesefassung, sechs E-Mails mit echten Anhängen, eine Formelarbeitsmappe und ein ergänzender Chat.
+
+Für den kurzen Einstieg N07 und N01 mit dem bisherigen Septemberbanklauf vergleichen. Danach N02 neben das unveränderte Versammlungsprotokoll legen. N03 und N04 liefern gegensätzliche Grenzen der Konkurrenzbehauptung; N13 hält Zahlungen und bloße Bewertungswünsche auseinander.
+
+[Nachtrag und Dateiverzeichnis](Nachtrag_2026-10-08/README.md)
+
+Beim ursprünglichen Kurztermin genügen die Kernunterlagen. Für die Vertiefung werden widersprechende Erinnerungen, Zahlungsvorgänge und offene Verhandlungspositionen hinzugezogen. Die beiden Aktenstände sind ausdrücklich zu unterscheiden.
+
+<!-- END gesellschafterstreit-nachtrag -->

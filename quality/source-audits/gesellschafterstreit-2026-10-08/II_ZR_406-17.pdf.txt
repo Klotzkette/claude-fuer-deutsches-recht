@@ -1,0 +1,1326 @@
+               BUNDESGERICHTSHOF
+                    IM NAMEN DES VOLKES
+
+                                  URTEIL
+II ZR 406/17                                                 Verkündet am:
+                                                             2. Juli 2019
+                                                             Stoll
+                                                             Amtsinspektor
+                                                             als Urkundsbeamtin
+                                                             der Geschäftsstelle
+                              in dem Rechtsstreit
+
+
+Nachschlagewerk:       ja
+BGHZ:                  ja
+BGHR:                  ja
+
+
+
+GmbHG § 16 Abs. 1 Satz 1, § 52
+
+a) Wird einer GmbH nach Einziehung eines Geschäftsanteils durch eine einstweilige
+   Verfügung untersagt, eine neue Gesellschafterliste, die den von der Einziehung
+   Betroffenen nicht mehr als Gesellschafter ausweist, beim Amtsgericht zur Veröf-
+   fentlichung im Handelsregister einzureichen, ist die Gesellschaft nach Treu und
+   Glauben gehindert, sich auf die formelle Legitimationswirkung des § 16 Abs. 1
+   Satz 1 GmbHG zu berufen, wenn entgegen der gerichtlichen Anordnung eine ver-
+   änderte Gesellschafterliste zum Handelsregister eingereicht und im Registerord-
+   ner aufgenommen worden ist.
+
+b) Die Einrichtung eines Aufsichtsrats bei einer GmbH auf der Grundlage einer Öff-
+   nungsklausel im Gesellschaftsvertrag ist keine Satzungsänderung und ohne Be-
+   achtung der für eine Satzungsänderung geltenden Vorschriften zulässig, wenn die
+   Ermächtigung ausreichend bestimmt ist und der Einrichtungsbeschluss nicht ge-
+   gen das Gesetz oder die Satzung verstößt.
+
+
+BGH, Urteil vom 2. Juli 2019 - II ZR 406/17 - KG
+                                              LG Berlin
+
+
+
+ECLI:DE:BGH:2019:020719UIIZR406.17.0
+                                       -2-
+
+
+
+Der II. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+vom 4. Juni 2019 durch den Vorsitzenden Richter Prof. Dr. Drescher und die
+Richter Wöstmann, Born, Dr. Bernau und V. Sander
+
+
+für Recht erkannt:
+
+
+      Auf    die   Revision   der   Beklagten    wird   das   Urteil   des
+      23. Zivilsenats des Kammergerichts vom 9. November 2017 in
+      der Fassung des Ergänzungsurteils vom 29. Januar 2018 im
+      Urteilsausspruch II. aufgehoben.
+
+      Auf    die   Berufung   der   Beklagten    wird   das   Urteil   des
+      Landgerichts Berlin vom 25. Juni 2015 teilweise abgeändert
+      und die Klage abgewiesen, soweit der Kläger die Feststellung
+      der Nichtigkeit seiner Abberufung begehrt hat (Klageantrag 1.).
+      Im übrigen Umfang der Aufhebung wird die Sache zur neuen
+      Verhandlung und Entscheidung, auch über die Kosten des
+      Revisionsverfahrens, an das Berufungsgericht zurückverwie-
+      sen.
+
+      Der besondere Vertreter K.                T.       wird aus dem
+      Rechtsstreit gewiesen.
+
+
+
+
+                               Von Rechts wegen
+                                          -3-
+
+
+
+                                      Tatbestand:
+
+
+
+1         Die Beklagte ist eine GmbH. Mehrheitsgesellschafter war mit Geschäfts-
+    anteilen von mehr als 60 % des Stammkapitals F.              S.        , der dem
+    Rechtsstreit als Nebenintervenient zu 6 auf Seiten der Beklagten beigetreten
+    war. Die vom Kläger beherrschte Dr. J.         Vermögensverwaltung GmbH, die
+    dem Rechtsstreit als Nebenintervenientin zu 1 auf Seiten des Klägers beigetre-
+    ten ist, hielt Geschäftsanteile mit einem Nennwert von ca. 15 % des Stammka-
+    pitals. Die von Söhnen des F.               S.             beherrschte S.
+                                                   GmbH, die dem Rechtsstreit auf
+    Seiten der Beklagten als Nebenintervenientin zu 2 beigetreten war, hielt Ge-
+    schäftsanteile mit einem Nennwert von ca. 3 % des Stammkapitals der Beklag-
+    ten. Geschäftsführer der Beklagten waren jedenfalls bis 2014 der Kläger und
+    einer der Söhne des F.       S.         , W.          S.          .
+
+2         In § 9 des Gesellschaftsvertrags der Beklagten (im Folgenden: GV) ist
+    unter der Überschrift "Aufsichtsrat" Folgendes vereinbart:
+
+          "(1)    Die Gesellschafter können beschließen, dass die Ge-
+                  sellschaft einen aus drei oder sechs Mitgliedern beste-
+                  henden Aufsichtsrat erhält.
+
+            (2)   Auf den Aufsichtsrat finden § 52 Abs. 1 GmbHG und die
+                  dort genannten aktienrechtlichen Bestimmungen nur
+                  Anwendung, falls und soweit die Gesellschafter dies mit
+                  der Mehrheit der abgegebenen Stimmen beschließen.
+
+            (3)   Der Aufsichtsrat überwacht die Geschäftsführung. Die
+                  Gesellschafter können dem Aufsichtsrat durch Be-
+                  schluss weitere Aufgaben und Befugnisse zuweisen,
+                  insbesondere das Recht gewähren, Geschäftsführer zu
+                  bestellen und abzuberufen, Anstellungsverträge mit
+                  diesen abzuschließen, zu ändern und zu beendigen,
+                  Geschäftsführer zu ermächtigen, die Gesellschaft allein
+                                        -4-
+
+
+
+                 zu vertreten, eine Geschäftsordnung für die Geschäfts-
+                 führer festzulegen und diesen Weisungen zu erteilen.
+
+           (4)   Die Gesellschafter können jederzeit beschließen, dass
+                 durch Gesellschaftsbeschluss gemäß Absatz 2 für an-
+                 wendbar erklärte aktienrechtliche Bestimmungen keine
+                 Anwendung mehr finden oder dass dem Aufsichtsrat
+                 Aufgaben und Befugnisse, die ihm gemäß Absatz 3
+                 durch Gesellschafterbeschluss zugewiesen wurden,
+                 nicht weiter zustehen."
+
+
+
+3         Der Gesellschaftsvertrag der Beklagten enthält weitere, den Aufsichtsrat
+    betreffende Bestimmungen:
+
+          "§ 6   Geschäftsführer
+
+           […]
+
+
+
+           (2)   Die Geschäftsführer werden durch Gesellschafterbe-
+                 schluss oder, soweit der Aufsichtsrat durch Gesell-
+                 schafterbeschluss gemäß § 9 Abs. 3 ermächtigt ist,
+                 durch den Aufsichtsrat bestellt oder abberufen. ...
+
+           §7    Geschäftsführung
+
+           (1)   Die Geschäftsführer sind verpflichtet, die Geschäfte der
+                 Gesellschaft in Übereinstimmung mit dem Gesetz, die-
+                 sem Gesellschaftsvertrag ... sowie den Beschlüssen
+                 der Gesellschafter oder des Aufsichtsrates - soweit die-
+                 ser gemäß § 9 Abs. 3 zur Erteilung von Weisungen er-
+                 mächtigt ist - zu führen.
+
+           §8    Vertretung
+
+           (1)   Die Gesellschaft wird durch einen Geschäftsführer
+                 allein vertreten, wenn er alleiniger Geschäftsführer ist
+                 oder wenn die Gesellschafter ihn zur Alleinvertretungs-
+                 berechtigung ermächtigt haben. Die Gesellschafter oder
+                                         -5-
+
+
+
+                   der Aufsichtsrat, falls er gemäß § 9 Abs. 3 hierzu er-
+                   mächtigt ist, können für die Geschäftsführer eine Ge-
+                   schäftsordnung beschließen, die auch Abweichungen
+                   von den Bestimmungen dieses Absatzes vorsehen
+                   kann.
+
+           (2)     Die Gesellschafter können einen Geschäftsführer durch
+                   Gesellschafterbeschluss von den Beschränkungen des
+                   § 181 BGB befreien."
+
+
+
+4        Im Verlauf des Jahres 2014 kam es zu Meinungsverschiedenheiten zwi-
+    schen dem Kläger auf der einen sowie F.            S.           und W.
+    S.           auf der anderen Seite. Am 13. Oktober 2014 fand eine von
+    W.      S.            einberufene Gesellschafterversammlung statt mit unter
+    anderem folgenden Tagesordnungspunkten:
+
+         "TOP 2.1:       Beschlussfassung über die Errichtung eines aus
+                         drei Mitgliedern bestehenden Aufsichtsrats ge-
+                         mäß § 9 Absatz 3 der Satzung der Gesellschaft,
+                         welcher die Geschäftsführung überwacht und be-
+                         rät.
+
+           TOP 2.2:      Beschussfassung über die Zuweisung von Auf-
+                         gaben und Befugnissen an den Aufsichtsrat ge-
+                         mäß § 9 Absatz 3 der Satzung der Gesellschaft,
+                         insbesondere über die Einräumung folgender Be-
+                         fugnisse:
+
+                         a) Geschäftsführer zu bestellen und abzuberu-
+                            fen,
+
+                         b) Anstellungsverträge mit Geschäftsführern zu
+                            schließen, zu ändern und zu beendigen und
+                            diesen Befreiung von den Beschränkungen
+                            des § 181 BGB zu erteilen,
+
+                         c) Geschäftsführer zu ermächtigen, die Gesell-
+                            schaft allein zu vertreten,
+                                            -6-
+
+
+
+                         d) eine Geschäftsordnung für die Geschäftsfüh-
+                            rung zu erlassen, die auch die in § 8
+                            Absatz 1 Satz 2 der Satzung der Gesell-
+                            schaft angesprochenen Abweichungen und
+                            einen Katalog von Geschäftsführungsmaß-
+                            nahmen, welche der Zustimmung des Auf-
+                            sichtsrats bedürfen, vorsehen kann,
+
+                         e) den Geschäftsführern Weisungen zu erteilen,
+
+                         f)     einen nach (d) aufgestellten Katalog zustim-
+                                mungspflichtiger    Geschäftsführungsmaß-
+                                nahmen zu ergänzen oder abzuändern,
+
+                         g) eine Geschäftsordnung für den Aufsichtsrat
+                            selbst zu beschließen.
+
+            TOP 3:       Beschlussfassung über die Wahl von …."
+
+
+
+5         Die Beschlussvorschläge wurden mit einer Stimmenmehrheit von
+    63,318 % angenommen. Mit derselben Stimmenmehrheit wurden die ehemali-
+    gen Nebenintervenienten zu 3 bis 5 als Aufsichtsratsmitglieder bestellt. Der von
+    den Minderheitsgesellschaftern auf die Tagesordnung gesetzte Antrag,
+    W.        S.              als Geschäftsführer abzuberufen, wurde mit 63,318 %
+    der Stimmen abgelehnt. Das Zustandekommen der Beschlüsse bzw. die Ableh-
+    nung des Abberufungsantrags wurden jeweils vom Versammlungsleiter festge-
+    stellt. Über die gegen diese Beschlüsse von einem Minderheitsgesellschafter
+    der Beklagten erhobene Anfechtungs- und Beschlussfeststellungsklage wurde
+    bisher nicht entschieden.
+
+6         Am 7. Dezember 2014 beschloss der Aufsichtsrat einstimmig die Abberu-
+    fung des Klägers als Geschäftsführer der Beklagten und die sofortige Kündi-
+    gung seines Anstellungsvertrags aus wichtigem Grund. Vorsorglich wurde die
+    ordentliche Kündigung zum 30. Juni 2015 beschlossen. Am 21. Dezember 2014
+                                           -7-
+
+
+
+    wurde die Kündigung des Anstellungsvertrags des Klägers vom Aufsichtsrat
+    erneut beschlossen.
+
+7         Auf Gesellschafterversammlungen vom 6. Januar 2015 und 7. Januar
+    2015, zu denen der Kläger eingeladen hatte, wurde die Einziehung des Ge-
+    schäftsanteils von F.      S.                beschlossen. Gegen die Einziehungs-
+    beschlüsse sind beim Landgericht Berlin Klagen rechtshängig.
+
+8         Auf Antrag von F.           S.            untersagte das Landgericht Berlin
+    mit Beschlüssen vom 7. Januar 2015 und vom 8. Januar 2015 der Beklagten
+    und dem Kläger im Wege der einstweiligen Verfügung, aufgrund der Gesell-
+    schafterbeschlüsse vom 6. Januar 2015 und vom 7. Januar 2015 eine neue
+    Gesellschafterliste, welche F.         S.           nicht mehr als Gesellschafter
+    der Beklagten ausweist, beim Amtsgericht zur Veröffentlichung im Handelsre-
+    gister einzureichen. Soweit die Verfügungen gegen die Beklagte gerichtet wa-
+    ren, bestätigte sie das Landgericht nach auf den Kostenpunkt beschränkten
+    Widersprüchen der Beklagten mit Urteilen vom 20. Juli 2016 und 26. November
+    2015 im Kostenpunkt.
+
+9         Am 22. Januar 2015 reichte der die Gesellschafterversammlungen vom
+    6. und 7. Januar 2015 beurkundende Notar dennoch eine Gesellschafterliste
+    zum Handelsregister ein, die F.         S.            nicht mehr als Gesellschaf-
+    ter der Beklagten auswies. Diese Gesellschafterliste wurde am 6. August 2015
+    in den Registerordner aufgenommen. Auf Antrag von F.               S.
+    ordnete das Landgericht Berlin mit Beschluss vom 24. August 2015 an, dass
+    dieser Gesellschafterliste ein Widerspruch zugeordnet wurde. Am 1. September
+    2015 wurde eine von demselben Notar am 26. August 2015 erstellte Gesell-
+    schafterliste in das Handelsregister aufgenommen, die F.            S.
+    nicht mehr als Gesellschafter auswies und keinen Widerspruch enthielt.
+                                           -8-
+
+
+
+10          Der Kläger hat mit seiner Klage die Feststellung der Nichtigkeit der
+     Beschlüsse des Aufsichtsrats vom 7. Dezember 2014 und vom 21. Dezember
+     2014 über seine Abberufung (Klageantrag 1.) und die Kündigung seines Anstel-
+     lungsvertrags (Klageantrag 2.) begehrt. Das Landgericht hat der Klage stattge-
+     geben. Gegen das Urteil haben die Beklagte sowie die ehemaligen Nebeninter-
+     venienten zu 3 bis 5 Berufung eingelegt. Berufungsbegründungen sind inner-
+     halb der verlängerten Berufungsbegründungsfrist von der ehemaligen Nebenin-
+     tervenientin zu 2 und von den ehemaligen Nebenintervenienten zu 3 bis 5 ein-
+     gereicht worden.
+
+11          Am 6./7. August 2015 beschlossen die Gesellschafter der Beklagten im
+     Umlaufverfahren ohne Beteiligung von F.           S.          u.a. die Unwirk-
+     samkeit der Abberufung des Klägers als Geschäftsführer, vorsorglich seine
+     Wiederbestellung zum Geschäftsführer sowie die Abberufung des Geschäfts-
+     führers W.         S.       . Die Eintragung des Geschäftsführers W.
+     S.        wurde im Handelsregister gelöscht.
+
+12          Am 27. August 2015 wurden auf einer Gesellschafterversammlung der
+     Beklagten die Einziehung des Geschäftsanteils der Nebenintervenientin zu 2
+     sowie mehrere Änderungen des Gesellschaftsvertrags beschlossen. Die Be-
+     schlüsse über die Satzungsänderungen wurden von F.             S.          an-
+     gefochten.
+
+13          Mit Schriftsatz vom 27. August 2015 hat sich für die Beklagte, vertreten
+     durch den Kläger, Rechtsanwalt H.      gemeldet und die Rücknahme der Beru-
+     fung erklärt.
+
+14          Am 2. September 2015 gab das Landgericht Berlin auf Antrag des
+     F.         S.           der Beklagten auf, eine Gesellschafterliste, die diesen
+     weiterhin als Gesellschafter ausweist, zum Handelsregister einzureichen und
+                                            -9-
+
+
+
+     ihn einstweilen als Gesellschafter zu behandeln. Diese einstweilige Verfügung
+     hob das Berufungsgericht auf (KG, ZIP 2016, 1166).
+
+15         Am 26. April 2016 legten die ehemaligen Nebenintervenienten zu 3 bis 5
+     ihre Aufsichtsratsämter nieder.
+
+16         In   der    mündlichen   Verhandlung     vor   dem    Berufungsgericht   am
+     28. September 2017 hat Rechtsanwalt S.          unter Vorlage einer von dem im
+     Gerichtssaal anwesenden W.            S.             unterschriebenen Terminvoll-
+     macht beantragt, das Urteil des Landgerichts abzuändern und die Klage abzu-
+     weisen. Mit Telefax vom 10. Oktober 2017 hat Rechtsanwalt S.             die Kopie
+     einer ihm von dem Geschäftsführer W.                  S.         mit Datum vom
+     6. Oktober 2017 erteilten Prozessvollmacht eingereicht.
+
+17         Mit Schriftsatz vom 27. Oktober 2017 hat Rechtsanwalt H.          angezeigt,
+     dass er nunmehr auch von dem mit wiederum ohne Beteiligung von F.
+     S.         gefassten Umlaufbeschluss vom 12. Oktober 2017 nach § 46 Nr. 8
+     GmbHG bestimmten besonderen Vertreter der Beklagten, dem Prokuristen
+     K.           T.       , bevollmächtigt sei, und namens der Beklagten erklärt,
+     dass diese das angefochtene Urteil anerkenne, die Einlegung der Berufung
+     nicht genehmige und das Rechtsmittel vorsorglich nochmals zurücknehme.
+
+18         Das Berufungsgericht hat die Berufung der Beklagten zurückgewiesen
+     (Urteilsausspruch II.) und durch Zwischenurteil die Nebenintervention der
+     Streithelfer zu 2 bis 6 für unzulässig erklärt (Urteilsausspruch I.). Mit ihrer vom
+     Senat zugelassenen Revision begehrt die Beklagte, vertreten durch den Ge-
+     schäftsführer W.          S.          , weiterhin die Abweisung der Klage. Ver-
+     treten durch den besonderen Vertreter K.              T.      begehrt die Beklag-
+     te, sie des Rechtsmittels der Berufung für verlustig zu erklären, nachdem sie
+     ihre Berufung zurückgenommen habe.
+                                           - 10 -
+
+
+
+                                   Entscheidungsgründe:
+
+
+19         Die Revision der Beklagten, vertreten durch den Geschäftsführer
+     W.         S.            , hat Erfolg. Sie führt zur Aufhebung des Berufungsur-
+     teils, soweit es die Berufung der Beklagten zurückgewiesen hat, zur Abände-
+     rung des landgerichtlichen Urteils und zur Abweisung der Klage, soweit der
+     Kläger die Feststellung der Nichtigkeit seiner Abberufung begehrt, und im Übri-
+     gen zur Zurückverweisung der Sache an das Berufungsgericht.
+
+20         I. Das Berufungsgericht (KG, GmbHR 2018, 361) hat im Wesentlichen
+     ausgeführt:
+
+21         Die von der vom Kläger vertretenen Beklagten erklärte Berufungsrück-
+     nahme sei unwirksam, weil die Beklagte in diesem Prozess nicht vom Kläger
+     vertreten werden könne. Auch die erneute, nach der Berufungsverhandlung auf
+     Grund einer Vollmacht des als besonderer Vertreter bestellten Prokuristen
+     K.        T.           erklärte Berufungsrücknahme sei unbeachtlich. Der am
+     12. Oktober 2017 im Umlaufverfahren zu Stande gekommene Beschluss über
+     die Bestellung eines besonderen Prozessvertreters sei nichtig, weil F.
+     S.             an dem Beschlussverfahren nicht beteiligt worden sei. Das habe
+     zur Folge, dass Rechtsanwalt H.       vom besonderen Vertreter nicht wirksam
+     habe bevollmächtigt werden können.
+
+22         Die Berufung der Beklagten sei zulässig. Die möglicherweise vollmacht-
+     lose Einlegung der Berufung durch die Rechtsanwälte Sch.         & Partner sei
+     geheilt, weil die Beklagte, vertreten durch den vom Geschäftsführer W.
+     S.              bevollmächtigten Rechtsanwalt S.     , die Prozessführung ge-
+     nehmigt habe, indem dieser in der Berufungsverhandlung vom 28. September
+     2017 eine Änderung des angefochtenen Urteils und die Abweisung der Klage
+                                          - 11 -
+
+
+
+     beantragt habe. W.          S.           sei als Geschäftsführer der Beklagten
+     zu deren Vertretung in diesem Rechtsstreit berechtigt. Er sei weder in der Ge-
+     sellschafterversammlung vom 13. Oktober 2014 noch durch den Umlaufbe-
+     schluss vom 6./7. August 2015 wirksam abberufen worden. Der Umstand, dass
+     W.        S.           nicht mehr als Geschäftsführer im Handelsregister ein-
+     getragen sei, habe auf seine Organstellung keinen Einfluss.
+
+23         Die Berufung sei rechtzeitig begründet worden. Innerhalb der verlänger-
+     ten Berufungsbegründungsfrist hätten sowohl die Nebenintervenientin zu 2 als
+     auch die Nebenintervenienten zu 3 bis 5 den Anforderungen des § 520 Abs. 3
+     ZPO genügende Berufungsbegründungen eingereicht. Bis zur rechtskräftigen
+     Entscheidung über die Unzulässigkeit der Nebenintervention sei der Interve-
+     nient im Hauptverfahren zuzuziehen. Er könne für die unterstützte Hauptpartei
+     wirksam Prozesshandlungen vornehmen, solange er nicht rechtskräftig aus
+     dem Rechtsstreit verwiesen worden sei.
+
+24         Die Berufung sei zurückzuweisen. Das Landgericht habe auf die zulässi-
+     ge allgemeine Feststellungsklage hin im Ergebnis richtig entschieden, dass der
+     Kläger vom Aufsichtsrat der Beklagten nicht wirksam als Geschäftsführer abbe-
+     rufen und die Kündigung seines Anstellungsvertrags nicht wirksam beschlossen
+     worden sei.
+
+25         Zwar könne das Urteil des Landgerichts nicht mit der Begründung auf-
+     rechterhalten werden, der Kläger habe wegen der Treuebindung der Gesell-
+     schafter untereinander nur bei Vorliegen eines rechtfertigenden sachlichen
+     Grundes abberufen werden können, der nicht vorgelegen habe. Die Beschlüsse
+     des Aufsichtsrats der Beklagten vom 7. Dezember 2014 und vom 21. Dezember
+     2014 seien aber nichtig, weil der Aufsichtsrat nicht wirksam bestellt worden sei.
+     Auf die grundsätzliche Rechtsfrage, ob die durch eine Öffnungsklausel zugelas-
+                                         - 12 -
+
+
+
+     sene Errichtung eines Aufsichtsrats als beurkundungsbedürftige und eintra-
+     gungspflichtige Satzungsänderung anzusehen sei, komme es nicht an. Die Sat-
+     zung der Beklagten enthalte keine eindeutigen Vorgaben hinsichtlich der Kom-
+     petenzen des potentiellen Aufsichtsrats. Aus der in der Satzung der Beklagten
+     enthaltenen Öffnungsklausel sei nicht zu ersehen, ob der zukünftige Aufsichts-
+     rat drei oder sechs Mitglieder haben werde und ob er die Befugnisse nach § 52
+     Abs. 1 GmbHG haben werde oder, wenn nicht, welche anderen der in § 9
+     Abs. 3 der Satzung genannten Kompetenzen ihm zugewiesen werden würden.
+     Zudem liege die Besonderheit vor, dass die Gesellschafter einen von der Öff-
+     nungsklausel abweichenden Beschluss gefasst hätten, indem sie den Aufsichts-
+     rat ermächtigt hätten, den von ihnen zu bestellenden Geschäftsführern auch
+     Befreiung von den Beschränkungen des § 181 BGB zu erteilen, obwohl § 9
+     Abs. 3 der Satzung der Beklagten diese Befugnis nicht vorsehe.
+
+26         II. Diese Ausführungen halten rechtlicher Nachprüfung nicht stand, so-
+     weit das Berufungsgericht die Feststellung der Unwirksamkeit der angegriffenen
+     Aufsichtsratsbeschlüsse bestätigt hat. Die Öffnungsklausel in § 9 Abs. 3 des
+     Gesellschaftsvertrags der Beklagten ist ausreichend bestimmt. Ob die Gesell-
+     schafter der Beklagten den ihnen eingeräumten Gestaltungsspielraum über-
+     schritten haben, weil sie dem Aufsichtsrat die Kompetenz übertragen haben, die
+     Geschäftsführer von den Beschränkungen des § 181 BGB zu befreien, kann
+     dahinstehen, weil dies die Wirksamkeit der Beschlüsse über die Einrichtung des
+     Aufsichtsrats, die Wahl seiner Mitglieder sowie die Zuweisung der Überwa-
+     chungspflicht und der Personalkompetenz im Übrigen nicht berühren würde.
+
+27         1. Zutreffend hat das Berufungsgericht die von der Beklagten eingelegte
+     Berufung für zulässig erachtet, weil der von dem Geschäftsführer der Beklagten
+     W.      S.           bevollmächtigte Rechtsanwalt S.       die bisherige Pro-
+     zessführung einschließlich der Einlegung der Berufung genehmigt hat. Ob die
+                                           - 13 -
+
+
+
+     davor für die Beklagte aufgetretenen Rechtsanwälte Sch.           & Partner zum
+     Zeitpunkt der Berufungseinlegung von einem vertretungsberechtigten Organ
+     der Beklagten bevollmächtigt waren, bedarf daher keiner Entscheidung.
+
+28         a) Wird ein Rechtsmittel oder ein Rechtsbehelf durch einen vollmachtlo-
+     sen Vertreter eingelegt, so ist dieses als unzulässig zu verwerfen, wenn nicht
+     der Berechtigte zuvor die Verfahrenshandlung genehmigt. Genehmigt der Be-
+     rechtigte, wird dadurch der Verfahrensmangel der nicht ordnungsgemäßen Ver-
+     tretung von Anfang an geheilt (§ 89 Abs. 2 ZPO). Wegen ihrer Rückwirkung
+     braucht die Genehmigung nicht innerhalb der Frist erklärt zu werden, die für die
+     genehmigte Verfahrenshandlung gilt (Gemeinsamer Senat der obersten Ge-
+     richtshöfe des Bundes, Beschluss vom 17. April 1984 - GmS-OGB 2/83,
+     BGHZ 91, 111, 114 f.; BGH, Beschluss vom 10. Januar 1995 - X ZB 11/92,
+     BGHZ 128, 280, 283; Beschluss vom 14. Dezember 2017 - V ZB 35/17, Grund-
+     eigentum 2018, 397 Rn. 8 mwN).
+
+29         b) Rechtsanwalt S.        konnte die bisherigen Verfahrenshandlungen
+     wirksam genehmigen, weil der ihn bevollmächtigende W.               S.         im
+     Zeitpunkt der Bevollmächtigung vertretungsberechtigter Geschäftsführer der
+     Beklagten war, kein ihn in der Vertretung verdrängender besonderer Prozess-
+     vertreter bestellt wurde und die Beklagte nicht durch ihren Aufsichtsrat vertreten
+     werden musste.
+
+30         aa) W.         S.           ist im Prozess des Klägers gegen die Beklag-
+     te als Geschäftsführer zu deren Vertretung berufen. Nach § 46 Nr. 8 Alt. 2
+     GmbHG unterliegt die Vertretung der Gesellschaft in Prozessen, welche sie
+     gegen die Geschäftsführer zu führen hat, der Bestimmung der Gesellschafter-
+     versammlung. Die Vorschrift gilt sowohl für den Aktiv- als auch für den vorlie-
+     genden Passivprozess der Gesellschaft (vgl. BGH, Urteil vom 16. Dezember
+                                           - 14 -
+
+
+
+     1991 - II ZR 31/91, BGHZ 116, 353, 355; Urteil vom 6. März 2012 - II ZR 76/11,
+     ZIP 2012, 824 Rn. 12; Beschluss vom 22. März 2016 - II ZR 253/15, ZIP 2016,
+     2413 Rn. 9) sowie für Prozesse mit ausgeschiedenen Geschäftsführern (BGH,
+     Urteil vom 6. März 2012 - II ZR 76/11, ZIP 2012, 824 Rn. 12; Beschluss vom
+     22. März 2016 - II ZR 253/15, ZIP 2016, 2413 Rn. 9). Solange die Gesellschaf-
+     terversammlung von ihrer Befugnis nach § 46 Nr. 8 Alt. 2 GmbHG, einen be-
+     sonderen Vertreter zu bestellen, keinen Gebrauch macht, wird die GmbH nach
+     der Rechtsprechung des Bundesgerichtshofs vorbehaltlich einer die Vertre-
+     tungsbefugnis anders regelnden Satzungsbestimmung im Prozess mit ihren
+     gegenwärtigen oder ausgeschiedenen Geschäftsführern durch einen oder
+     mehrere bereits zuvor oder neu bestellte weitere Geschäftsführer vertreten;
+     eines entsprechenden, zumindest stillschweigend gefassten Beschlusses der
+     Gesellschafterversammlung bedarf es für die Fortdauer der Vertretungsbefug-
+     nis der anderen Geschäftsführer nicht (BGH, Urteil vom 26. Oktober 1981
+     - II ZR 72/81, WM 1981, 1353, 1354; Urteil vom 24. Februar 1992 - II ZR 79/91,
+     ZIP 1992, 760, 761; Urteil vom 24. Oktober 2005 - II ZR 55/04, ZIP 2005, 2255
+     Rn. 10; Urteil vom 6. März 2012 - II ZR 76/11, ZIP 2012, 824 Rn. 12; Beschluss
+     vom 2. Februar 2016 - II ZB 2/15, juris Rn. 13; Beschluss vom 22. März 2016
+     - II ZR 253/15, ZIP 2016, 2413 Rn. 10).
+
+31         bb) W.        S.            ist in der Gesellschafterversammlung vom
+     13. Oktober 2014 nicht wirksam als Geschäftsführer abberufen worden. Davon
+     ist auszugehen, obwohl die Frage, ob W.             S.         trotz 63,318777 %
+     Gegenstimmen wirksam abberufen worden ist, weil F.                S.           bei
+     dieser Abstimmung einem Stimmverbot unterlegen habe, Gegenstand eines
+     Beschlussmängelrechtsstreits ist. Ist in der Gesellschafterversammlung einer
+     GmbH das Zustandekommen eines bestimmten Beschlusses vom Versamm-
+     lungsleiter festgestellt worden, so ist der Beschluss mit dem festgestellten Inhalt
+     vorläufig verbindlich. Formelle oder materielle Mängel, die seine Anfechtbarkeit
+                                           - 15 -
+
+
+
+     begründen, wie hier das behauptete Stimmverbot des F.              S.        ,
+     können nur durch Erhebung der Anfechtungsklage geltend gemacht werden
+     (BGH, Urteil vom 21. März 1988 - II ZR 308/87, BGHZ 104, 66, 69; Urteil vom
+     3. Mai 1999 - II ZR 119/98, ZIP 1999, 1001, 1002; Urteil vom 11. Februar 2008
+     - II ZR 187/06, ZIP 2008, 757 Rn. 22; Urteil vom 21. Juni 2010 - II ZR 230/08,
+     ZIP 2010, 1640 Rn. 16). Das gilt auch, wenn der Versammlungsleiter festge-
+     stellt hat, dass ein Beschlussantrag abgelehnt worden ist (BGH, Urteil vom
+     21. März 1988 - II ZR 308/87, BGHZ 104, 66, 69). Der Versammlungsleiter der
+     Gesellschafterversammlung vom 13. Oktober 2014 hat die Ablehnung des Ab-
+     berufungsantrags festgestellt und über die dagegen erhobene Anfechtungs-
+     und positive Beschlussfeststellungsklage ist noch nicht entschieden.
+
+32         cc) W.         S.           wurde weder durch den im Umlaufverfahren
+     gefassten Gesellschafterbeschluss vom 6./7. August 2015 wirksam abberufen
+     noch wurde am 12. Oktober 2017 durch Umlaufbeschluss ein W.
+     S.         in der Vertretung verdrängender besonderer Prozessvertreter be-
+     stellt. Diese Beschlüsse sind nichtig, weil F.      S.          an den Umlauf-
+     beschlussverfahren nicht beteiligt worden ist. Das gilt ungeachtet des Um-
+     stands, dass F.           S.          im Zeitpunkt der Beschlussfassung nicht
+     mehr in der im Handelsregister aufgenommenen Gesellschafterliste der Beklag-
+     ten eingetragen war.
+
+33         (1) Die Nichtladung eines Gesellschafters ist ein Einberufungsmangel,
+     der nach der gefestigten Rechtsprechung des Bundesgerichtshofs entspre-
+     chend § 241 Nr. 1 AktG zur Nichtigkeit der in der Versammlung gefassten Ge-
+     sellschafterbeschlüsse führt (BGH, Urteil vom 14. Dezember 1961 - II ZR 97/59,
+     BGHZ 36, 207, 211; Urteil vom 17. Oktober 1988 - II ZR 18/88, ZIP 1989, 634,
+     636; Urteil vom 13. Februar 2006 - II ZR 200/04, ZIP 2006, 707 Rn. 9;
+     Beschluss vom 24. März 2016 - IX ZB 32/15, ZIP 2016, 817 Rn. 21). Das gilt für
+                                         - 16 -
+
+
+
+     die fehlende Beteiligung an Gesellschafterbeschlüssen, die im Umlaufverfahren
+     gefasst werden, in gleicher Weise. Nach § 48 Abs. 2 GmbHG bedarf es der Ab-
+     haltung einer Versammlung nicht, wenn sich sämtliche Gesellschafter in Text-
+     form mit der zu treffenden Bestimmung oder mit der schriftlichen Abgabe der
+     Stimmen einverstanden erklären. Wird einem Gesellschafter die Möglichkeit
+     einer solchen Einverständniserklärung nicht eingeräumt, so führt dies ebenso
+     wie die Nichtladung zu einer Gesellschafterversammlung zur Nichtigkeit des
+     gefassten Beschlusses (vgl. BGH, Urteil vom 16. Januar 2006 - II ZR 135/04,
+     ZIP 2006, 852 Rn. 10; Altmeppen in Roth/Altmeppen, GmbHG, 9. Aufl.,
+     Anh. § 47 Rn. 9; Zöllner/Noack in Baumbach/Hueck, GmbHG, 21. Aufl.,
+     Anh. § 47   Rn. 46;    Römermann   in   Michalski/Heidinger/Leible/J.   Schmidt,
+     GmbHG, 3. Aufl., Anh. § 47 Rn. 94 f.; MünchKommGmbHG/Wertenbruch,
+     3. Aufl., Anh. § 47 Rn. 45; Scholz/K. Schmidt, GmbHG, 11. Aufl., § 45 Rn. 65;
+     Raiser in Ulmer/Habersack/Löbbe, GmbHG, 2. Aufl., Anh. § 47 Rn. 43).
+
+34         (2) F.      S.           hätte an den Umlaufbeschlüssen beteiligt wer-
+     den müssen, obwohl er am 6./7. August 2015 und am 12. Oktober 2017 nicht
+     mehr als Gesellschafter in der im Handelsregister aufgenommenen Gesell-
+     schafterliste eingetragen war. Die Beklagte konnte sich gemäß § 242 BGB nicht
+     auf die Gesellschafterliste berufen, weil die Liste entgegen der gerichtlichen
+     Unterlassungsverfügung eingereicht wurde und die Beklagte nicht nach ihrer
+     Aufnahme im Handelsregister für eine Korrektur gesorgt hat. Wird einer GmbH
+     nach Einziehung eines Geschäftsanteils durch eine einstweilige Verfügung un-
+     tersagt, eine neue Gesellschafterliste, die den von der Einziehung Betroffenen
+     nicht mehr als Gesellschafter ausweist, beim Amtsgericht zur Aufnahme im
+     Handelsregister einzureichen, ist die Gesellschaft nach Treu und Glauben ge-
+     hindert, sich auf die formelle Legitimationswirkung des § 16 Abs. 1 Satz 1
+     GmbHG zu berufen, wenn entgegen der gerichtlichen Anordnung eine verän-
+                                         - 17 -
+
+
+
+     derte Gesellschafterliste zum Handelsregister eingereicht und im Registerord-
+     ner aufgenommen worden ist.
+
+35         (a) Ein Gesellschafter, der nicht in der im Handelsregister aufgenomme-
+     nen Gesellschafterliste eingetragen ist, muss grundsätzlich nach § 16 Abs. 1
+     Satz 1 GmbHG an einem Umlaufbeschlussverfahren nicht beteiligt werden.
+     Nach dieser Norm gilt im Verhältnis zur Gesellschaft im Fall einer Veränderung
+     in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligungen als
+     Inhaber eines Geschäftsanteils nur, wer als solcher in der im Handelsregister
+     aufgenommenen Gesellschafterliste eingetragen ist. Greift die Vermutung des
+     § 16 Abs. 1 Satz 1 GmbHG, stehen dem betreffenden Gesellschafter sämtliche
+     Mitgliedschaftsrechte, d.h. auch das Stimmrecht sowie das Recht auf Ladung
+     und Teilnahme zur Gesellschafterversammlung sowie auf Beteiligung an einem
+     Umlaufbeschlussverfahren, gegenüber der Gesellschaft zu, ohne dass es auf
+     seine wahre Berechtigung ankommt (vgl. BGH, Urteil vom 20. November 2018
+     - II ZR 12/17, ZIP 2019, 316 Rn. 23 mwN, z.V.b. in BGHZ). Umgekehrt entfaltet
+     § 16 Abs. 1 Satz 1 GmbHG eine negative Legitimationswirkung zu Lasten des
+     nach dem Einzug seines Geschäftsanteils nicht mehr in die Gesellschafterliste
+     eingetragenen Gesellschafters. Dies gilt ungeachtet der Wirksamkeit des Ein-
+     ziehungsbeschlusses. Der Gesellschafter kann ab dem Zeitpunkt der Aufnahme
+     einer ihn nicht mehr aufführenden Gesellschafterliste zum Handelsregister sei-
+     ne mitgliedschaftlichen Rechte nicht länger ausüben und muss daher auch an
+     Umlaufbeschlussverfahren nicht mehr beteiligt werden.
+
+36         (b) Die Beklagte muss sich nach Treu und Glauben aber so behandeln
+     lassen, als seien die F.       S.            nicht mehr als ihren Gesellschafter
+     ausweisenden Gesellschafterlisten nicht in den Handelsregisterordner aufge-
+     nommen worden (§ 242 BGB). Da ihr durch eine einstweilige Verfügung unter-
+     sagt wurde, eine neue Gesellschafterliste beim Amtsgericht zur Aufnahme im
+                                         - 18 -
+
+
+
+     Handelsregister einzureichen, ist sie nach Treu und Glauben gehindert, sich auf
+     die formelle Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG aufgrund der
+     dennoch eingereichten und im Handelsregister aufgenommenen Liste zu beru-
+     fen.
+
+
+37          (aa) Dem von einer möglicherweise fehlerhaften Einziehung Betroffenen
+     steht die Möglichkeit offen, sich gegen die Aufnahme einer ihn nicht mehr als
+     Gesellschafter ausweisenden Gesellschafterliste in das Handelsregister durch
+     die Erwirkung einer die Aufnahme untersagenden einstweiligen Verfügung ge-
+     gen die GmbH zu schützen.
+
+38          Der von einer möglicherweise fehlerhaften Einziehung betroffene Gesell-
+     schafter kann gegen den Einziehungsbeschluss zwar Klage erheben. Allein
+     damit kann er indes nicht verhindern, dass eine die Einziehung nachvollziehen-
+     de Gesellschafterliste zum Handelsregister eingereicht und im Registerordner
+     aufgenommen wird. Während der Dauer des Rechtsstreits könnten die übrigen
+     Gesellschafter das Unternehmen nach ihrem Belieben umgestalten. Aufgrund
+     der Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG blieben die von den
+     übrigen Gesellschaftern gefassten Beschlüsse auch dann wirksam, wenn der
+     Gesellschafter mit seiner Klage gegen den Einziehungsbeschluss Erfolg hätte
+     (vgl. BGH, Urteil vom 20. November 2018 - II ZR 12/17, ZIP 2019, 316
+     Rn. 25 ff., 45 mwN, z.V.b. in BGHZ; Bayer/Selentin, Festschrift 25 Jahre DNotI,
+     2018, S. 391, 394 f.; Kleindiek, GmbHR 2017, 815, 816; Lieder/Becker,
+     GmbHR 2019, 441, 445; Ulmer/Löbbe in Ulmer/Habersack/Löbbe, GmbHG,
+     2. Aufl., § 16 Rn. 85). Insbesondere wenn wie vorliegend der Anteil eines Mehr-
+     heitsgesellschafters eingezogen und dieser aus der Gesellschafterliste entfernt
+     wird, kommt es zu einem unmittelbaren Kontrollwechsel. Die veränderten
+     Machtverhältnisse ermöglichen weitreichende Geschäftsführungsentscheidun-
+     gen sowie die Fassung und Umsetzung satzungs- und strukturändernder Be-
+                                           - 19 -
+
+
+
+     schlüsse, die der Mehrheitsgesellschafter nach Abschluss des Hauptsachever-
+     fahrens entweder überhaupt nicht mehr oder nur mit unverhältnismäßigem Auf-
+     wand rückgängig machen kann (Lieder/Becker, GmbHR 2019, 505, 512;
+     Bayer/Selentin, Festschrift 25 Jahre DNotI, 2018, S. 391, 395). Die Legiti-
+     mationswirkung des § 16 Abs. 1 Satz 1 GmbHG entfällt auch nicht unter dem
+     Gesichtspunkt von Treu und Glauben schon dann, wenn sich nachträglich die
+     Einziehung als unwirksam und die nach der Einziehung eingereichte Gesell-
+     schafterliste daher als unrichtig darstellt (vgl. BGH, Urteil vom 20. November
+     2018 - II ZR 12/17, ZIP 2019, 316 Rn. 45, z.V.b. in BGHZ).
+
+39         Dem von einer möglicherweise fehlerhaften Einziehung seines Ge-
+     schäftsanteils betroffenen Gesellschafter muss daher ein effektives Mittel zur
+     Verfügung gestellt werden, seine Entrechtung in der Gesellschaft während der
+     Dauer des Rechtsstreits über die Einziehung zu verhindern bzw. seine streitige
+     materiell-rechtliche Gesellschafterstellung bis zur Klärung der Wirksamkeit der
+     Einziehung zu sichern. Begleitend zur Anfechtungs- oder Nichtigkeitsklage ge-
+     gen den Einziehungsbeschluss kann der Gesellschafter bei Vorliegen der
+     Voraussetzungen im Wege des einstweiligen Rechtsschutzes gegen die inso-
+     weit passivlegitimierte Gesellschaft das Verbot erwirken, eine neue Gesell-
+     schafterliste, in der er nicht mehr aufgeführt ist, bei dem Registergericht einzu-
+     reichen (vgl. BGH, Urteil vom 17. Dezember 2013 - II ZR 21/12, ZIP 2014, 216
+     Rn. 36, 39; Urteil vom 20. November 2018 - II ZR 12/17, ZIP 2019, 316 Rn. 36,
+     z.V.b. in BGHZ; Fischer, GmbHR 2018, 1257, 1260; Fluck, GmbHR 2017, 67,
+     70; Hoffmann/Rüppell, BB 2016, 1026, 1032; Kleindiek, GmbHR 2017, 815,
+     819, 822; Liebscher/Alles, ZIP 2015, 1, 7 f.; Lieder/Becker, GmbHR 2019, 505,
+     508 ff.; Wagner, GmbHR 2016, 463, 467; Werner, GmbHR 2019, 265, 270;
+     Wiegand-Schneider in Born/Ghassemi-Tabar/Gehle, MünchHdBGesR VII,
+     5. Aufl., § 39 Rn. 173; MünchKommZPO/Drescher, 5. Aufl., § 935 Rn. 48 mwN;
+                                           - 20 -
+
+
+
+     Bayer in Lutter/Hommelhoff, GmbHG, 19. Aufl., Anh. § 47 Rn. 74, 76; ableh-
+     nend KG, GmbHR 2016, 416).
+
+40             (bb) Wird einer GmbH nach Einziehung eines Geschäftsanteils durch
+     eine einstweilige Verfügung untersagt, eine neue Gesellschafterliste, die den
+     von der Einziehung Betroffenen nicht mehr als Gesellschafter ausweist, beim
+     Amtsgericht zur Veröffentlichung im Handelsregister einzureichen, ist die Ge-
+     sellschaft nach Treu und Glauben gehindert, sich auf die formelle Legiti-
+     mationswirkung des § 16 Abs. 1 Satz 1 GmbHG zu berufen, wenn entgegen der
+     gerichtlichen Anordnung eine veränderte Gesellschafterliste zum Handelsregis-
+     ter eingereicht und im Registerordner aufgenommen worden ist.
+
+41             Die formelle Legitimationswirkung gilt im Fall des Einzugs des Ge-
+     schäftsanteils eines Gesellschafters nicht ausnahmslos. Es ist in der Recht-
+     sprechung des Bundesgerichtshofs anerkannt, dass dem Gesellschafter die
+     Anfechtungsbefugnis für die Klage gegen seinen Ausschluss oder die Einzie-
+     hung seines Geschäftsanteils trotz sofortiger Wirksamkeit erhalten bleibt, um
+     der verfassungsrechtlich gebotenen Rechtsschutzmöglichkeit Geltung zu ver-
+     schaffen (BGH, Urteil vom 24. Januar 2012 - II ZR 109/11, BGHZ 192, 236
+     Rn. 24; Urteil vom 19. September 1977 - II ZR 11/76, NJW 1977, 2316 zur
+     GmbH; Urteil vom 22. März 2011 - II ZR 229/09, BGHZ 189, 32 Rn. 7 ff. zur
+     AG). Das gilt auch dann, wenn schon vor Erhebung der Anfechtungsklage eine
+     von der Gesellschaft eingereichte geänderte Gesellschafterliste, in der der be-
+     troffene Gesellschafter nicht mehr eingetragen ist, im Handelsregister aufge-
+     nommen worden ist (BGH, Beschluss vom 29. Januar 2019 - II ZR 234/18,
+     juris).
+
+42             Die formelle Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG steht
+     zudem unter dem Vorbehalt von Treu und Glauben (BGH, Urteil vom
+                                          - 21 -
+
+
+
+     20. November 2018 - II ZR 12/17, ZIP 2019, 316 Rn. 42 ff., 73, z.V.b. in BGHZ).
+     Nach Treu und Glauben kann sich die Gesellschaft auf die Legitimationswir-
+     kung einer Gesellschafterliste unter anderem dann nicht berufen, wenn sie
+     selbst durch unredliches Verhalten die Aufnahme der Gesellschafterliste im
+     Handelsregister herbeigeführt hat. Welche Anforderungen sich im konkreten
+     Fall aus Treu und Glauben ergeben, lässt sich nur unter Berücksichtigung der
+     Umstände des Einzelfalls entscheiden. In der höchstrichterlichen Rechtspre-
+     chung ist anerkannt, dass eine unzulässige Rechtsausübung unter anderem
+     dann vorliegen kann, wenn sich ein Berechtigter auf eine formale Rechtspositi-
+     on beruft, die er durch ein gesetz-, sitten- oder vertragswidriges Verhalten er-
+     langt hat. Deshalb kann die Geltendmachung vertraglicher Rechte unzulässig
+     sein, wenn der Vertragsschluss durch unredliches Verhalten herbeigeführt wor-
+     den ist (vgl. BGH, Urteil vom 6. Oktober 1971 - VIII ZR 165/69, BGHZ 57, 108,
+     111; Urteil vom 20. März 2013 - XII ZB 81/11, NJW 2013, 1676 Rn. 18; Urteil
+     vom 27. Februar 2018 - VI ZR 109/17, NJW 2018, 1756 Rn. 20). Ein solches
+     Verhalten der Gesellschaft liegt hinsichtlich einer Gesellschafterliste vor, wenn
+     es ihr durch eine gerichtliche Verfügung untersagt war, nach einem Einzie-
+     hungsbeschluss eine neue Gesellschafterliste einzureichen, in der der betroffe-
+     ne Gesellschafter nicht mehr als Gesellschafter eingetragen ist, und sie den-
+     noch eine geänderte Liste einreichen lässt oder eine dem gerichtlichen Verbot
+     zuwider aufgenommene Liste nicht korrigiert.
+
+43         Da effektiver Rechtsschutz des von einer möglicherweise fehlerhaften
+     Einziehung Betroffenen anders als durch eine einstweilige Verfügung nicht ge-
+     währleistet werden kann, darf sich die GmbH nach Treu und Glauben ihrem
+     Gesellschafter gegenüber nicht auf die formelle Legitimationswirkung einer ver-
+     botswidrig eingereichten Liste berufen. Die einstweilige Verfügung kann nur
+     dann ein effektives Mittel zum Schutz des von einer in ihrer Wirksamkeit unge-
+     klärten Einziehung betroffenen Gesellschafters sein, wenn sich die Gesellschaft
+                                          - 22 -
+
+
+
+     an das gegen sie ausgesprochene Verbot, eine den Gesellschafter nicht mehr
+     aufführende Gesellschafterliste einzureichen, hält bzw. nach verbotswidriger
+     Einreichung einer solchen Liste für die Korrektur durch ihren Geschäftsführer
+     sorgt. Bis zur Korrektur des verfügungswidrigen Zustands verhält sich die Ge-
+     sellschaft treuwidrig, wenn sie einen Gesellschafter unter Berufung auf eine
+     verbotswidrig eingereichte Gesellschafterliste von der Beschlussfassung aus-
+     schließt, den sie nach gerichtlicher Prüfung noch bis zum Abschluss des
+     Hauptverfahrens in der Gesellschafterliste führen müsste. Mit dem Erlass der
+     einstweiligen Verfügung hat eine gerichtliche Prüfung stattgefunden, ob die Ein-
+     ziehung vorläufig als wirksam zu behandeln ist. Das Gericht des vorläufigen
+     Rechtsschutzes ist davon ausgegangen, dass der Antragsteller weiterhin als
+     Inhaber des von der beabsichtigten Änderung der Gesellschafterliste betroffe-
+     nen Geschäftsanteils zu behandeln ist und die angestrebte Listenkorrektur da-
+     her vorläufig zu einer materiellen Unrichtigkeit der Gesellschafterliste führen
+     würde. Eine spätere Entscheidung im Hauptsacheverfahren ist nicht geeignet,
+     einen in der Zwischenzeit womöglich eintretenden Rechtsverlust des Gesell-
+     schafters zu korrigieren. Deshalb ist es der Gesellschaft zuzumuten, den Ge-
+     sellschafter bis zum Abschluss des Hauptsacheverfahrens, in dem dieser die
+     Feststellung der Unwirksamkeit des Einziehungsbeschlusses und damit die
+     Feststellung des Fortbestands seiner materiellen Gesellschafterstellung be-
+     gehrt, entsprechend dem Ergebnis der vorläufigen Rechtsprüfung zu behan-
+     deln, und sie darf dieses Ergebnis nicht dadurch unterlaufen, dass sie unter
+     Berufung auf eine dennoch eingereichte geänderte Gesellschaferliste Be-
+     schlüsse ohne seine Beteiligung fasst.
+
+44         Die Beklagte hat sich danach treuwidrig verhalten und kann sich nicht auf
+     das Fehlen des F.       S.           in der Gesellschafterliste berufen. Ihr war
+     mit Beschlüssen vom 7. Januar 2015 und vom 8. Januar 2015 untersagt wor-
+     den, aufgrund der Gesellschafterbeschlüsse vom 6. Januar 2015 und vom
+                                         - 23 -
+
+
+
+     7. Januar 2015 eine neue Gesellschafterliste, welche F.            S.
+     nicht mehr als Gesellschafter der Beklagten ausweist, beim Amtsgericht zur
+     Veröffentlichung im Handelsregister einzureichen. Dennoch wurden nach Ein-
+     reichung durch den die Einziehung beurkundenden Notar zwei die Einziehung
+     nachvollziehende Gesellschafterlisten in den Registerordner aufgenommen. Die
+     Beklagte konnte sich auch nicht nach der Entscheidung des Kammergerichts
+     vom 10. Dezember 2015 (GmbHR 2016, 416) gegenüber F.                S.
+     auf die formelle Legitimationswirkung der Gesellschafterliste berufen. Die Auf-
+     hebung bzw. die Ablehnung des Erlasses weiterer, gegen die Beklagte gerich-
+     teter einstweiliger Verfügungen hat auf die Wirksamkeit der die Einreichung ei-
+     ner geänderten Gesellschafterliste untersagender einstweiliger Verfügungen
+     keinen Einfluss und durfte von der Beklagten auch nicht so verstanden werden.
+
+45         (cc) Die Beklagte kann sich entgegen der Revisionserwiderung nicht da-
+     rauf berufen, dass der Notar und nicht der Kläger als Geschäftsführer die Liste
+     eingereicht und das Registergericht sie aufgenommen hat.
+
+46         (1) Hat ein Notar an der Veränderung nach § 40 Abs. 1 Satz 1 GmbHG
+     mitgewirkt, hat dieser nach § 40 Abs. 2 Satz 1 GmbHG nach Wirksamwerden
+     der Veränderung die Liste anstelle der Geschäftsführer der Gesellschaft zu un-
+     terschreiben und zum Handelsregister einzureichen. Die Pflicht zur Einreichung
+     einer die Änderung ausweisenden Gesellschafterliste ist danach von der Wirk-
+     samkeit der Veränderung abhängig und besteht dann nicht, wenn Zweifel an
+     der Wirksamkeit der Veränderung bestehen. Der Notar darf in diesem Fall eine
+     die Veränderung ausweisende Gesellschafterliste erst einreichen, wenn die
+     Zweifel an der Wirksamkeit ausgeräumt wurden (vgl. RegE eines Gesetzes zur
+     Modernisierung des GmbH-Rechts und zur Bekämpfung von Missbräuchen
+     [MoMiG], BT-Drucks. 16/6140 S. 44; MünchKommGmbHG/Heidinger, 3. Aufl.,
+     § 40 Rn. 215 mwN). Die Einziehung eines Geschäftsanteils wird nur dann be-
+                                          - 24 -
+
+
+
+     reits mit der Mitteilung des Einziehungsbeschlusses an den Gesellschafter
+     wirksam, wenn der Beschluss weder nichtig ist noch für nichtig erklärt wird
+     (BGH, Urteil vom 24. Januar 2012 - II ZR 109/11, BGHZ 192, 236 Rn. 8; Urteil
+     vom 20. November 2018 - II ZR 12/17, ZIP 2019, 316 Rn. 25, z.V.b. in BGHZ).
+
+47         (2) Ist im Vorgriff auf ein gerichtliches Verfahren, das die Klärung der
+     Wirksamkeit eines Einziehungsbeschlusses zum Gegenstand hat, eine einst-
+     weilige Verfügung ergangen, nach der aufgrund einer vorläufigen gerichtlichen
+     Beurteilung der Wirksamkeit des Einziehungsbeschlusses eine Änderung der
+     Gesellschafterliste zunächst zu unterbleiben hat, kann der Notar Zweifel an der
+     Wirksamkeit nicht durch eine eigene Beurteilung der Wirksamkeit oder unter
+     Hinweis auf die vorläufige Verbindlichkeit des Gesellschafterbeschlusses aus-
+     räumen, weil die materiellen Wirksamkeitsvoraussetzungen der Einziehung erst
+     im Gerichtsverfahren nach Erhebung der Beschlussmängelklage mit Wirkung
+     für und gegen jedermann endgültig geklärt werden (vgl. BGH, Urteil vom
+     17. Februar 1997 - II ZR 41/96, BGHZ 134, 364, 366).
+
+48         (3) Aus diesem Grund umfasst die Beachtung des gerichtlichen Verbots
+     der Einreichung einer neuen Liste auch die Verpflichtung der Gesellschaft, den
+     Notar von der Verbotsverfügung zu unterrichten, damit dieser nicht in Unkennt-
+     nis eine verbotswidrige Gesellschafterliste einreicht. Wird dennoch nach Zustel-
+     lung der einstweiligen Verfügung an die Gesellschaft eine verbotswidrige Liste
+     eingereicht und im Handelsregister aufgenommen, ist der Geschäftsführer nicht
+     nur befugt (BGH, Urteil vom 17. Dezember 2013 - II ZR 21/12, ZIP 2014, 216
+     Rn. 33), sondern auch verpflichtet, die gegen das Verbot eingereichte Gesell-
+     schafterliste zu korrigieren bzw. vom Notar korrigieren zu lassen und eine Ge-
+     sellschafterliste einzureichen, in der der eingezogene Geschäftsanteil enthalten
+     ist, um den Zustand wiederherzustellen, der mit der einstweiligen Verfügung
+     gegen die Gesellschaft gesichert werden sollte.
+                                          - 25 -
+
+
+
+49         dd) Zutreffend hat das Berufungsgericht dem Umstand, dass W.
+     S.         nicht mehr als Geschäftsführer im Handelsregister eingetragen ist,
+     für dessen Organstellung und der daraus folgenden Vertretungsmacht keine
+     Bedeutung beigemessen, weil die Eintragung zur Erlangung und Aufrechterhal-
+     tung der Organstellung nicht erforderlich ist (vgl. BGH, Beschluss vom 9. Mai
+     1960 - II ZB 3/60, WM 1960, 902; Urteil vom 12. März 2019 - II ZR 299/17, Urt.
+     Umdr. S. 13, z.V.b. in BGHZ).
+
+50         ee) Die Beklagte wurde im Berufungsverfahren auch nicht durch ihren
+     Aufsichtsrat vertreten, weil dieser nach Amtsniederlegung sämtlicher Mitglieder
+     funktionsunfähig geworden ist und die Beklagte jedenfalls danach von ihrem
+     Geschäftsführer W.      S.             vertreten wurde.
+
+51         Da die Beklagte einen Aufsichtsrat hatte, wird sie im Prozess mit einem
+     auch ehemaligen Geschäftsführer gemäß § 52 Abs. 1 GmbHG, § 112 AktG
+     durch den Aufsichtsrat vertreten. Das ist nach der Senatsrechtsprechung indes
+     - sofern der Aufsichtsrat nicht nach dem Mitbestimmungsgesetz gebildet wer-
+     den musste - dann anders, wenn in der Satzung etwas anderes geregelt oder
+     von der Gesellschafterversammlung etwas anderes beschlossen worden ist
+     (BGH, Urteil vom 5. März 1990 - II ZR 86/89, NJW-RR 1990, 739, 740; Urteil
+     vom 24. November 2003 - II ZR 127/01, ZIP 2004, 237; Beschluss vom 23. April
+     2007 - II ZR 149/06, DStR 2007, 1358 Rn. 7). Ob dies vorliegend der Fall ist,
+     bedarf keiner Entscheidung.
+
+
+52         Während des Berufungsverfahrens am 26. April 2016 haben sämtliche
+     Aufsichtsratsmitglieder ihre Ämter niedergelegt und die Beklagte hat danach
+     keine neuen Aufsichtsratsmitglieder bestellt. Es ist auch nicht ersichtlich, dass
+     der Wille bestand, neue Aufsichtsratsmitglieder zu bestellen, so dass dieser
+     funktionsunfähig geworden ist. Hat der Gesellschaftsvertrag einer GmbH be-
+                                          - 26 -
+
+
+
+     stimmte Befugnisse dem Aufsichtsrat übertragen, ist dieser aber funktionsunfä-
+     hig, dann ist die Gesellschafterversammlung in der Lage, insoweit die Rechte
+     des Aufsichtsrats wahrzunehmen (BGH, Urteil vom 24. Februar 1954
+     - II ZR 88/53, NJW 1954, 799, 800; MünchKommGmbHG/Spindler, 3. Aufl.,
+     § 52 Rn. 109; Scholz/U. H. Schneider, GmbHG, 11. Aufl., § 52 Rn. 12). Dies hat
+     die Gesellschafterversammlung der Klägerin auch getan, indem sie, wenn auch
+     unwirksam, einen besonderen Vertreter für diesen Prozess bestellt hat. Solange
+     die Gesellschafterversammlung von ihrer Befugnis nach § 46 Nr. 8 Alt. 2
+     GmbHG, einen besonderen Vertreter zu bestellen, keinen Gebrauch macht,
+     wird die GmbH im Prozess mit ihren gegenwärtigen oder ausgeschiedenen Ge-
+     schäftsführern durch einen oder mehrere bereits zuvor oder neu bestellte (wei-
+     tere) Geschäftsführer vertreten (vgl. BGH, Urteil vom 26. Oktober 1981
+     - II ZR 72/81, WM 1981, 1353, 1354; Urteil vom 24. Februar 1992 - II ZR 79/91,
+     ZIP 1992, 760, 761; Urteil vom 24. Oktober 2005 - II ZR 55/04, ZIP 2005, 2255
+     Rn. 10; Urteil vom 6. März 2012 - II ZR 76/11, ZIP 2012, 824 Rn. 12; Beschluss
+     vom 2. Februar 2016 - II ZB 2/15, juris Rn. 13; Beschluss vom 22. März 2016
+     - II ZR 253/15, ZIP 2016, 2413 Rn. 10). Nichts anderes gilt, wenn die Gesell-
+     schafterversammlung von ihrer Befugnis nach § 46 Nr. 8 Alt. 2 GmbHG, einen
+     besonderen Vertreter zu bestellen, in unwirksamer Weise Gebrauch macht.
+
+53         2. Ohne Rechtsfehler hat das Berufungsgericht die Berufungsbegrün-
+     dungsfrist als gewahrt angesehen, weil die Nebenintervenientin zu 2 und die
+     Nebenintervenienten zu 3 bis 5 innerhalb der verlängerten Berufungsbegrün-
+     dungsfrist den Anforderungen des § 520 Abs. 3 ZPO genügende Berufungsbe-
+     gründungen eingereicht haben und ein Widerspruch zur Hauptpartei nicht vor-
+     lag (vgl. § 67 Hs. 2 ZPO). Dass das Berufungsgericht zusammen mit der Ent-
+     scheidung in der Hauptsache die Nebenintervention der Streithelfer zu 2 bis 6
+     durch Zwischenurteil für unzulässig erklärt hat (§ 71 Abs. 1 ZPO), hat die Beru-
+     fung nicht unzulässig werden lassen. Denn ein Streithelfer hat bis zur rechts-
+                                           - 27 -
+
+
+
+     kräftigen Zurückweisung seines Beitritts gemäß § 71 Abs. 3 ZPO die Stellung
+     und die Befugnisse eines Nebenintervenienten (vgl. BGH, Urteil vom 9. März
+     1983 - IVa ZR 211/81, NJW 1983, 2378; Beschluss vom 10. Januar 2006
+     - VIII ZB 82/05, BGHZ 165, 358, 363; Beschluss vom 14. Mai 2013 - II ZB 1/11,
+     ZIP 2013, 1274 Rn. 19). Die von einem Nebenintervenienten bis zur Zurückwei-
+     sung seines Beitritts wirksam vorgenommenen Prozesshandlungen behalten
+     auch nach Rechtskraft der Zurückweisungsentscheidung ihre Wirksamkeit
+     (BGH, Beschluss vom 20. März 1985 - IVa ZB 1/85, VersR 1985, 551 mwN;
+     Beschluss vom 14. Mai 2013 - II ZB 1/11, ZIP 2013, 1274 Rn. 19).
+
+54         3. Zutreffend ist das Berufungsgericht davon ausgegangen, dass die Be-
+     rufung der Beklagten nicht wirksam zurückgenommen wurde.
+
+55         a) Die von der vom Kläger vertretenen Beklagten erklärte Berufungs-
+     rücknahme war unwirksam, weil die Beklagte in diesem Rechtsstreit nicht vom
+     Kläger vertreten werden kann. Im Rechtsstreit einer GmbH mit einem ihrer Ge-
+     schäftsführer kann dieser nicht gesetzlicher Vertreter der GmbH sein (vgl. BGH,
+     Urteil vom 24. Februar 1992 - II ZR 79/91, ZIP 1992, 760, 761; Urteil vom
+     11. Dezember 1995 - II ZR 220/94, ZIP 1996, 227, 228 mwN).
+
+56         b) Auch die erneute, nach der Berufungsverhandlung auf Grund einer
+     Vollmacht des als besonderer Vertreter bestellten Prokuristen K.
+     T.       erklärte Berufungsrücknahme kann keine Wirkung entfalten, weil die
+     Bestellung des besonderen Vertreters nichtig war (s.o. II. 1. b) cc)), so dass von
+     ihm abgegebene Prozesshandlungen unwirksam sind (BGH, Urteil vom
+     23. Oktober 2003 - IX ZR 324/01, NJW-RR 2004, 275, 276).
+
+57         4. Rechtsfehlerhaft hat das Berufungsgericht die Unwirksamkeit der an-
+     gegriffenen Aufsichtsratsbeschlüsse festgestellt. Die Beschlüsse des Aufsichts-
+     rats der Beklagten vom 7. Dezember 2014 und vom 21. Dezember 2014 sind
+                                          - 28 -
+
+
+
+     nicht deshalb nichtig, weil der Aufsichtsrat durch den Gesellschafterbeschluss
+     vom 13. Oktober 2014 nicht wirksam bestellt worden wäre. Die Einrichtung ei-
+     nes Aufsichtsrats bei einer GmbH auf der Grundlage einer Öffnungsklausel im
+     Gesellschaftsvertrag ist keine Satzungsänderung und ohne Beachtung der für
+     eine Satzungsänderung geltenden Vorschriften zulässig, wenn die Ermächti-
+     gung ausreichend bestimmt ist und der Einrichtungsbeschluss nicht gegen das
+     Gesetz oder die Satzung verstößt.
+
+58         a) Die allgemeine Feststellungsklage (§ 256 Abs. 1 ZPO) ist statthaft,
+     auch soweit sie sich gegen den Abberufungsbeschluss richtet. Der Fremdge-
+     schäftsführer einer GmbH kann mit der allgemeinen Feststellungsklage gegen
+     die Gesellschaft geltend machen, der Beschluss, mit dem er von der Gesell-
+     schafterversammlung abberufen wurde, sei nichtig (vgl. BGH, Urteil vom
+     11. Februar 2008 - II ZR 187/06, ZIP 2008, 757 Rn. 34). Dies gilt in gleicher
+     Weise für den durch den fakultativen Aufsichtsrat abberufenen Fremdgeschäfts-
+     führer (vgl. BGH, Urteil vom 13. Juni 1983 - II ZR 67/82, ZIP 1983, 1063, 1064;
+     MünchKommGmbHG/Stephan/Tieves, 3. Aufl., § 38 Rn. 134). Der Kläger wird
+     im Hinblick auf seine Klagebefugnis nicht deshalb einem Gesellschafter gleich-
+     gestellt, weil die von ihm beherrschte Dr. J.    Vermögensverwaltung GmbH
+     Gesellschafterin der Klägerin ist. Denn die Berechtigung zur Erhebung einer
+     Nichtigkeits- oder Anfechtungsklage steht nur dem nach § 16 Abs. 1 GmbHG zu
+     bestimmenden rechtlichen, nicht auch dem wirtschaftlichen Gesellschafter zu
+     (BGH, Urteil vom 26. Juni 2018 - II ZR 205/16, ZIP 2018, 1492 Rn. 20). Die all-
+     gemeine Feststellungsklage ist auch im Übrigen zulässig.
+
+59         b) Wenn es eine Öffnungsklausel im Gesellschaftsvertrag einer nicht
+     mitbestimmten GmbH zulässt, kann ein fakultativer Aufsichtsrat durch nicht
+     notariell beurkundeten Mehrheitsbeschluss ohne Eintragung des Beschlusses
+     in das Handelsregister eingerichtet werden.
+                                          - 29 -
+
+
+
+60          aa) Die Bildung eines fakultativen Aufsichtsrats in der nicht mitbestimm-
+     ten GmbH bedarf einer Regelung im Gesellschaftsvertrag. Ein einfacher Ge-
+     sellschafterbeschluss genügt nicht (Priester, NZG 2016, 774, 775; Wicke,
+     GmbHG, 3. Aufl., § 52 Rn. 3; Nießen in Gehrlein/Born/Simon, GmbHG, 4. Aufl.,
+     § 52 Rn. 17; Lutter/Hommelhoff in Lutter/Hommelhoff, GmbHG, 19. Aufl., § 52
+     Rn. 4; Giedinghagen in Michalski/Heidinger/Leible/J. Schmidt, GmbHG, 3. Aufl.,
+     § 52 Rn. 7; Scholz/U. H. Schneider, GmbHG, 11. Aufl., § 52 Rn. 2; Münch-
+     KommGmbHG/Spindler, 3. Aufl., § 52 Rn. 35). Ob eine die Einrichtung eines
+     Aufsichtsrats gestattende Öffnungsklausel im Gesellschaftsvertrag einer GmbH
+     ausreichende Beschlussgrundlage sein kann oder ob ein solcher Beschluss nur
+     unter Einhaltung der für eine Satzungsänderung gesetzlich vorgeschriebenen
+     Voraussetzungen gefasst werden darf, ist umstritten. Teilweise wird die Zuläs-
+     sigkeit der Einrichtung eines Aufsichtsrats durch einen nicht notariell beurkun-
+     deten Mehrheitsbeschluss und ohne Eintragung in das Handelsregister auf der
+     Grundlage einer Öffnungsklausel abgelehnt, weil durch einen solchen Be-
+     schluss ein dauerhaft von der Satzung abweichender rechtlicher Zustand be-
+     gründet würde. Ein solcher Beschluss sei daher ohne Einhaltung der für eine
+     Satzungsänderung geltenden Formvorschriften unwirksam. Eine Öffnungsklau-
+     sel in der Satzung ändere daran nichts, weil eine Ermächtigung zur Regelung
+     nicht schon die Regelung selbst sei. Die mit der Einrichtung eines Aufsichtsrats
+     verbundene materielle Änderung der Gesellschaftsverfassung sei offensichtlich.
+     Bis zu diesem Zeitpunkt bestehe eine GmbH ohne Aufsichtsrat, erst danach
+     eine mit Aufsichtsrat. Die Änderung der Gesellschaftsverfassung durch die Er-
+     richtung eines mit Organkompetenzen ausgestatteten Aufsichtsrats sei stets
+     eine materielle Satzungsänderung (vgl. KG, ZIP 2016, 673, 674; GmbHR 2018,
+     361; Schodder, EWiR 2018, 457, 458; Weiß, EWiR 2016, 267, 268; im Ergebnis
+     ebenso Heckschen/Heidinger, Die GmbH in der Gestaltungs- und Beratungs-
+     praxis, 4. Aufl., Kap 4 Rn. 746).
+                                          - 30 -
+
+
+
+61         Das Schrifttum geht hingegen überwiegend davon aus, dass die Bildung
+     eines fakultativen Aufsichtsrats in der nicht mitbestimmten GmbH zwar grund-
+     sätzlich einer Regelung im Gesellschaftsvertrag bedürfe. Allerdings sei es aus-
+     reichend, wenn eine Öffnungsklausel in der Satzung die Einrichtung eines fakul-
+     tativen Aufsichtsrats zulasse (vgl. Otto, GmbHR 2016, 19, 20 mwN auch aus
+     dem älteren Schrifttum; ders., GmbHR 2018, 367, 368; Priester, NZG 2016,
+     774, 775 ff.; Diekmann in MünchHdbGesR III, 5. Aufl., § 48 Rn. 15; Henssler in
+     Henssler/Strohn, GesR, 4. Aufl., § 52 GmbHG Rn. 3; BeckOK GmbHG/Jaeger,
+     38. Edition 1. Februar 2019, § 52 Rn. 6; Altmeppen in Roth/Altmeppen,
+     GmbHG, 9. Aufl., § 52 Rn. 1; Nießen in Gehrlein/Born/Simon, GmbHG, 4. Aufl.,
+     § 52 Rn. 17; Schnorbus in Rowedder/Schmidt-Leithoff, GmbHG, 6. Aufl., § 52
+     Rn. 8; Giedinghagen in Michalski/Heidinger/Leible/J. Schmidt, GmbHG, 3. Aufl.,
+     § 52 Rn. 7; MünchKommGmbHG/Spindler, 3. Aufl., § 52 Rn. 35; Heermann in
+     Ulmer/Habersack/Löbbe, GmbHG, 2. Aufl., § 52 Rn. 16, 25).
+
+62         bb) Die letztgenannte Auffassung ist richtig. Die Einrichtung eines Auf-
+     sichtsrats bei einer GmbH auf der Grundlage einer Öffnungsklausel im Gesell-
+     schaftsvertrag ist keine Satzungsänderung und ohne Beachtung der für eine
+     Satzungsänderung geltenden Vorschriften zulässig, wenn die Ermächtigung
+     ausreichend bestimmt ist und der Einrichtungsbeschluss nicht gegen das Ge-
+     setz oder die Satzung verstößt.
+
+63         (1) Die Einrichtung eines fakultativen Aufsichtsrats in einer GmbH auf der
+     Grundlage einer Öffnungsklausel ist in der Rechtsprechung des Bundesge-
+     richtshofs anerkannt. Bereits mit Urteil vom 13. Juni 1983 (II ZR 67/82,
+     ZIP 1983, 1063) hat der Bundesgerichtshof den auf der Grundlage einer Öff-
+     nungsklausel gebildeten Aufsichtsrat einer GmbH als funktionsfähiges Organ
+     der Gesellschaft angesehen. Mit Urteil vom 7. Juni 1993 ging er von einem auf-
+     grund einer Öffnungsklausel wirksam errichteten Aufsichtsrat aus und befand
+                                           - 31 -
+
+
+
+     lediglich die Verlängerung der laut Satzung dreijährigen Amtszeit durch einen
+     einfachen Gesellschafterbeschluss in Ermangelung einer Satzungsgrundlage
+     für nichtig (BGH, Urteil vom 7. Juni 1993 - II ZR 81/92, BGHZ 123, 15, 18 f.).
+
+64         (2) Die Gründer einer GmbH haben ein anerkennenswertes Interesse auf
+     eine flexible Satzungsgestaltung, dass sie zwar die erforderliche Satzungs-
+     grundlage für die Einrichtung eines Aufsichtsrats schaffen, sich aber noch nicht
+     festlegen wollen, ob und wann sie davon Gebrauch machen. Hierbei handelt es
+     sich um eine bei mittelständischen Unternehmen seit vielen Jahren weit verbrei-
+     tete Gestaltungspraxis (vgl. Otto, GmbHR 2016, 19, 20; Priester, NZG 2016,
+     774, 776). Die Einrichtung eines Aufsichtsrats bedeutet zwar einen signifikanten
+     Eingriff in die Binnenstruktur der Gesellschaft. Dies gilt vor allem dann, wenn
+     einem fakultativen Aufsichtsrat wie vorliegend die Bestellung und Abberufung
+     der Geschäftsführer übertragen wird, weil in der nicht mitbestimmten Gesell-
+     schaft die Bestellung und die Abberufung sowie die Anstellung und Kündigung
+     der Geschäftsführer zu den wesentlichen Aufgaben der Gesellschafter gehören
+     (§ 46 Nr. 5 GmbHG; BGH, Beschluss vom 6. März 1997 - II ZB 4/96,
+     BGHZ 135, 48, 53; Urteil vom 8. Januar 2019 - II ZR 364/18, ZIP 2019, 701
+     Rn. 33, z.V.b. in BGHZ; vgl. ferner BGH, Urteil vom 31. Mai 2011 - II ZR 109/10,
+     BGHZ 190, 45 Rn. 20). Indes findet die Veränderung der Binnenstruktur der
+     Gesellschaft nicht außerhalb des Gesellschaftsvertrags statt, sondern die Ge-
+     sellschafter nehmen den Struktureingriff in Gestalt einer entsprechenden Öff-
+     nungsklausel im Gesellschaftsvertrag bereits vorweg. Sie haben dadurch eine
+     Organisationsstruktur ihrer GmbH mit drei Organen, bestehend aus Gesell-
+     schaftern, Geschäftsführern und Aufsichtsrat, gesellschaftsvertraglich gebilligt.
+     Wird von dieser Ermächtigung Gebrauch gemacht, wird kein von der Satzung
+     abweichender rechtlicher Zustand begründet, der die Einhaltung der für eine
+     Satzungsänderung geltenden Formvorschriften erfordern würde. Stattdessen
+     handelt es sich bei der auf der Basis einer Öffnungsklausel vorgenommenen
+                                         - 32 -
+
+
+
+     Einrichtung eines Aufsichtsrats um die Herstellung des im Gesellschaftsvertrag
+     bereits angelegten Zustands. Der Beschluss bedarf daher vorbehaltlich strenge-
+     rer Anforderungen im Gesellschaftsvertrag keiner qualifizierten Stimmenmehr-
+     heit und keiner notariellen Beurkundung nach § 53 Abs. 2 GmbHG; zu seiner
+     Wirksamkeit ist die Eintragung in das Handelsregister nach § 54 Abs. 3 GmbHG
+     nicht erforderlich (vgl. Priester, NZG 2016, 774, 776; Henssler in Henssler/
+     Strohn, GesR, 4. Aufl., § 52 GmbHG Rn. 3; Nießen in Gehrlein/Born/Simon,
+     GmbHG, 4. Aufl., § 52 Rn. 17; Giedinghagen in Michalski/Heidinger/Leible/
+     J. Schmidt, GmbHG, 3. Aufl., § 52 Rn. 7).
+
+65         (3) Im Hinblick auf Transparenzdefizite vorgetragene Bedenken gegen
+     die Einrichtung eines Aufsichtsrats auf der Grundlage einer Öffnungsklausel
+     sind nicht durchgreifend (ebenso Priester, NZG 2016, 774, 776; Giedinghagen
+     in Michalski/Heidinger/Leible/J. Schmidt, GmbHG, 3. Aufl., § 52 Rn. 7; aA
+     Schodder, EWiR 2018, 457, 458; Weiß, EWiR 2016, 267, 268; Heckschen/
+     Heidinger, Die GmbH in der Gestaltungs- und Beratungspraxis, 4. Aufl., Kap 4
+     Rn. 746). Enthält ein Gesellschaftsvertrag eine Öffnungsklausel, lässt sich an-
+     hand des beim Handelsregister einsehbaren Gesellschaftsvertrags erfahren,
+     dass möglicherweise ein Aufsichtsrat besteht. Ein potenzieller Erwerber kann
+     zudem nachfragen, ob von der Öffnungsklausel Gebrauch gemacht wurde (vgl.
+     Priester, NZG 2016, 774, 776). Sofern die Gesellschaft einen Aufsichtsrat ge-
+     bildet und dieser einen Vorsitzenden hat, ist nach § 35a Abs. 1 Satz 1 GmbHG
+     auf allen Geschäftsbriefen der Vorsitzende des Aufsichtsrats mit dem Familien-
+     namen und mindestens einem ausgeschriebenen Vornamen anzugeben. Zu-
+     dem verpflichtet § 52 Abs. 3 Satz 2 GmbHG die Geschäftsführer, bei Bestellung
+     des Aufsichtsrats nach der Gründung unverzüglich eine Liste der Mitglieder des
+     Aufsichtsrats einzureichen. Das Registergericht hat nach § 10 HGB einen Hin-
+     weis darauf bekannt zu machen, dass die Liste zum Handelsregister eingereicht
+     worden ist.
+                                            - 33 -
+
+
+
+66         c) Entgegen der Auffassung des Berufungsgerichts ist die Öffnungsklau-
+     sel in § 9 Abs. 3 des Gesellschaftsvertrags der Beklagten ausreichend be-
+     stimmt. Ob die Gesellschafter der Beklagten bei Einrichtung des Aufsichtsrats
+     den ihnen in der Öffnungsklausel eingeräumten Gestaltungsspielraum über-
+     schritten und gegen eine bestehende Kompetenzzuweisung an die Gesellschaf-
+     terversammlung in der Satzung der Beklagten verstoßen haben, kann dahin-
+     stehen, weil dies die Wirksamkeit der Beschlüsse über die Einrichtung des Auf-
+     sichtsrats, die Wahl seiner Mitglieder und die Zuweisung der Überwachungs-
+     pflicht und der Personalkompetenz im Übrigen nicht berühren würde.
+
+67         aa) Die im Gesellschaftsvertrag der Beklagten vereinbarte Öffnungsklau-
+     sel ist ausreichend bestimmt. Sie regelt mit der Möglichkeit der Einrichtung ei-
+     nes Aufsichtsrats und der Übertragung der Überwachung der Geschäftsführung
+     auf diesen die wesentlichen Bestandteile einer Öffnungsklausel. Daneben ent-
+     hält der Gesellschaftsvertrag der Beklagten eine Auswahlmöglichkeit zur Anzahl
+     der Mitglieder des Aufsichtsrats sowie die Möglichkeit, die Personalkompetenz
+     und das Weisungsrecht als wesentliche Aufgaben der Gesellschafterversamm-
+     lung auf den Aufsichtsrat zu übertragen. Darüber hinaus hat der Gesellschafts-
+     vertrag in seinen Bestimmungen über die Geschäftsführer bereits Vorsorge für
+     den Fall getroffen, dass ein Aufsichtsrat eingerichtet wird.
+
+68         Eine die Gesellschafterversammlung zur Einrichtung eines Aufsichtsrats
+     ermächtigende Öffnungsklausel muss nicht jede Einzelheit regeln, sondern
+     kann die nähere Ausgestaltung den Gesellschaftern überlassen. Da es als
+     Grundlage für einen nicht den Anforderungen an eine Satzungsänderung unter-
+     liegenden Gesellschafterbeschluss über die Einrichtung eines Aufsichtsrats er-
+     forderlich ist, dass die Gesellschafter die wesentliche Strukturentscheidung im
+     Gesellschaftsvertrag treffen, ist es notwendig, aber auch ausreichend, wenn
+     neben der Grundsatzentscheidung über die Möglichkeit der Einrichtung eines
+                                         - 34 -
+
+
+
+     Aufsichtsrats die wesentliche Aufgabe des Aufsichtsrats, die Überwachungs-
+     funktion, eine Satzungsgrundlage hat und, sofern weitere Kompetenzen über-
+     tragen werden sollen, diese jedenfalls in den Grundzügen schon in der Satzung
+     aufgeführt sind (vgl. Henssler in Henssler/Strohn, GesR, 4. Aufl., § 52 GmbHG
+     Rn. 3; Nießen in Gehrlein/Born/Simon, GmbHG, 4. Aufl., § 52 Rn. 17; Priester,
+     NZG 2016, 774, 775; Altmeppen in Roth/Altmeppen, GmbHG, 9. Aufl., § 52
+     Rn. 1; MünchKommGmbHG/Spindler, 3. Aufl., § 52 Rn. 35).
+
+69         bb) Es kann dahinstehen, ob die Übertragung der Kompetenz zur Befrei-
+     ung der Geschäftsführer von den Beschränkungen des § 181 BGB auf den Auf-
+     sichtsrat gegen die Satzung der Beklagten verstößt, weil diese Kompetenz in
+     § 8 Abs. 2 GV ausdrücklich der Gesellschafterversammlung zugewiesen ist und
+     nicht, wie in anderen Bestimmungen des Gesellschaftsvertrags, ein Vorbehalt
+     zu Gunsten eines gemäß § 9 Abs. 3 GV ermächtigten Aufsichtsrats aufgenom-
+     men wurde. Denn die Nichtigkeit der Ermächtigung des Aufsichtsrats zur Be-
+     freiung der Geschäftsführer von den Beschränkungen des § 181 BGB würde
+     nicht zur Nichtigkeit der Beschlüsse über die Einrichtung des Aufsichtsrats der
+     Beklagten, die Wahl seiner Mitglieder und die Kompetenzzuweisung im Übrigen
+     führen.
+
+70         (1) Allerdings sind Satzungsdurchbrechungen, die einen von der Satzung
+     abweichenden rechtlichen Zustand begründen, ohne Einhaltung der für eine
+     Satzungsänderung geltenden Formvorschriften nichtig (vgl. BGH, Urteil vom
+     7. Juni 1993 - II ZR 81/92, BGHZ 123, 15, 19; Urteil vom 10. Mai 2016
+     - II ZR 342/14, BGHZ 210, 186 Rn. 17). Die Nichtigkeit des Beschlusses zu
+     TOP 2.2, mit dem dem Aufsichtsrat seine Kompetenzen zugewiesen wurde,
+     zieht nicht nach § 139 BGB die Nichtigkeit der Beschlüsse zu TOP 2.1, mit der
+     der Aufsichtsrat errichtet wurde und des Beschlusses zu TOP 3., mit der die
+     Mitglieder des Aufsichtsrats gewählt wurden nach sich. § 139 BGB findet auf
+                                        - 35 -
+
+
+
+     mehrere, rechtlich oder sachlich zusammenhängende Beschlüsse keine An-
+     wendung (vgl. BGH, Urteil vom 19. Mai 2015 - II ZR 176/14, BGHZ 205, 319
+     Rn. 31 zur AG).
+
+71         (2) Es bedarf keiner Entscheidung, ob und unter welchen Umständen die
+     Nichtigkeit eines Beschlusses Ausstrahlungswirkung in Bezug auf andere Be-
+     schlüsse entfalten kann (vgl. Scholz/K. Schmidt, GmbHG, 11. Aufl., § 45
+     Rn. 42; MünchKommGmbHG/Wertenbruch, 3. Aufl., Anh. § 47 Rn. 151; Raiser
+     in Ulmer/Habersack/Löbbe, GmbHG, 2. Aufl., Anh. § 47 Rn. 84). Denn die un-
+     terstellte Teilnichtigkeit des Beschlusses zu TOP 2.2 würde nicht zu dessen
+     Gesamtnichtigkeit führen. Werden in einem Beschluss mehrere Beschlussge-
+     genstände   zusammengefasst,    beurteilt   sich   die   Gesamtnichtigkeit   des
+     Beschlusses bei der Nichtigkeit eines Teils entsprechend § 139 BGB (vgl. BGH,
+     Urteil vom 25. Januar 1988 - II ZR 148/87, ZIP 1988, 432, 433; Urteil vom
+     19. Mai 2015 - II ZR 176/14, BGHZ 205, 319 Rn. 30, beide zur AG; Altmeppen
+     in Roth/Altmeppen, GmbHG, 9. Aufl., Anh. § 47 Rn. 34; Zöllner/Noack in
+     Baumbach/Hueck, GmbHG, 21. Aufl., Anh. § 47 Rn. 78; Teichmann in Gehrlein/
+     Born/Simon, GmbHG, 4. Aufl., Anh. § 47 Rn. 30; Scholz/K. Schmidt, GmbHG,
+     11. Aufl., § 45 Rn. 41; MünchKommGmbHG/Wertenbruch, 3. Aufl., Anh. § 47
+     Rn. 147; Raiser in Ulmer/Habersack/Löbbe, GmbHG, 2. Aufl., Anh. § 47
+     Rn. 83). Danach ist der ganze Beschluss nichtig, wenn nicht anzunehmen ist,
+     dass er auch ohne den nichtigen Teil gefasst worden wäre. Insoweit kommt es
+     auf den mutmaßlichen Willen der Gesellschafterversammlung an, der grund-
+     sätzlich durch Auslegung des Beschlusses zu ermitteln ist (BGH, Urteil vom
+     19. Mai 2015 - II ZR 176/14, BGHZ 205, 319 Rn. 30).
+
+72         Nach dem mutmaßlichen Willen der Gesellschafterversammlung der Be-
+     klagten ist anzunehmen, dass der am 13. Oktober 2014 gefasste, die Kompe-
+     tenzzuweisung an den Aufsichtsrat betreffende Beschluss, auch ohne die Über-
+                                           - 36 -
+
+
+
+     tragung der Ermächtigung zur Befreiung von den Beschränkungen des § 181
+     BGB auf den Aufsichtsrat gefasst worden wäre. Denn die Übertragung dieser
+     Ermächtigung ist lediglich ein nachrangiger Teilaspekt zu dem der Beschlussla-
+     ge zu entnehmende Willen der Gesellschafterversammlung, einen Aufsichtsrat
+     einzurichten, durch die Wahl seiner Mitglieder in Vollzug zu setzen und ihm die
+     Überwachungspflicht und die Personalkompetenz zuzuweisen. Die Gesellschaf-
+     terversammlung hätte die für die Funktionsfähigkeit des Aufsichtsrats notwendi-
+     ge Kompetenzzuweisung auch ohne den - unterstellt - nichtigen Teil der Über-
+     tragung der Befreiungsermächtigung beschlossen und nicht insgesamt davon
+     abgesehen, den Aufsichtsrat durch eine Aufgabenzuweisung arbeitsfähig zu
+     machen. Umstände, die eine andere Auslegung des Gesellschafterwillens be-
+     gründen könnten, sind nicht ersichtlich.
+
+73         d) Die Anfechtung der den Aufsichtsrat der Beklagten betreffenden Be-
+     schlüsse der Gesellschafterversammlung der Beklagten vom 13. Oktober 2014
+     hat auf die Abberufung des Klägers keine Auswirkung, solange über die An-
+     fechtungsklage nicht entschieden wurde. Ist in der Gesellschafterversammlung
+     einer GmbH das Zustandekommen eines bestimmten Beschlusses vom Ver-
+     sammlungsleiter festgestellt worden, so ist der Beschluss mit dem festgestellten
+     Inhalt vorläufig verbindlich (BGH, Urteil vom 21. März 1988 - II ZR 308/87,
+     BGHZ 104, 66; Urteil vom 3. Mai 1999 - II ZR 119/98, ZIP 1999, 1001, 1002;
+     Urteil vom 11. Februar 2008 - II ZR 187/06, ZIP 2008, 757 Rn. 22; Urteil vom
+     21. Juni 2010 - II ZR 230/08, ZIP 2010, 1640 Rn. 16) und bis zur Entscheidung
+     über die Beschlussanfechtungsklage als gültig zu behandeln (vgl. BGH, Urteil
+     vom 4. April 2014 - V ZR 167/13, ZMR 2015, 235 Rn. 6 f.; Urteil vom
+     26. Oktober 2018 - V ZR 328/17, NJW 2019, 1216 Rn. 24).
+
+74         III. Das Berufungsurteil ist nicht aus anderen Gründen richtig (§ 561
+     ZPO). Das Urteil kann nicht teilweise mit der Begründung des Landgerichts auf-
+                                           - 37 -
+
+
+
+     rechterhalten werden, der Kläger hätte wegen der Treuebindung der Gesell-
+     schafter untereinander nur bei Vorliegen eines rechtfertigenden sachlichen
+     Grundes abberufen werden können, der hier nicht vorgelegen habe.
+
+75           Ist im Gesellschaftsvertrag keine abweichende Bestimmung getroffen,
+     verbleibt es bei der Regelung des § 38 Abs. 1 GmbHG, wonach der Geschäfts-
+     führer einer GmbH jederzeit frei abrufbar ist. Es kann dahinstehen, inwieweit
+     und mit welchem Ergebnis Treuepflichten eine Abberufungsentscheidung be-
+     einflussen können. Denn der Kläger kann als Fremdgeschäftsführer gegen sei-
+     ne Abberufung die Verletzung gesellschafterlicher Treuepflichten nicht einwen-
+     den     (vgl.     MünchKommGmbHG/Stephan/Tieves,        3. Aufl.,   § 38   Rn. 12;
+     Scholz/U. H. Schneider/S. H. Schneider, GmbHG, 11. Aufl., § 38 Rn. 18).
+
+76           IV. Das Berufungsurteil ist daher im aus dem Tenor ersichtlichen Umfang
+     aufzuheben (§ 562 Abs. 1 ZPO).
+
+77           1. Soweit die Berufung der Beklagten gegen die Feststellung des Land-
+     gerichts, dass die Abberufung des Klägers nichtig sei, zurückgewiesen wurde,
+     kann der Senat in der Sache selbst entscheiden, da diese zur Endentscheidung
+     reif ist (§ 562 Abs. 1, § 563 Abs. 3 ZPO). Da der Gesellschaftsvertrag der Be-
+     klagten für die Abberufung ihrer Geschäftsführer keinen wichtigen Grund ver-
+     langt, ist der Rechtsstreit insoweit entscheidungsreif und die Klage auf Feststel-
+     lung der Nichtigkeit der Abberufung des Klägers abzuweisen. Die am
+     6./7. August 2015 im Umlaufverfahren gefassten Beschlüsse der Gesellschafter
+     über die Unwirksamkeit der Abberufung des Klägers als Geschäftsführer, bzw.
+     über dessen vorsorgliche Wiederbestellung zum Geschäftsführer sind unwirk-
+     sam, weil F.           S.        am Umlaufverfahren nicht beteiligt wurde (s.o.
+     II. 1. b) cc)).
+                                              - 38 -
+
+
+
+78          2. Im übrigen Umfang der Aufhebung ist die Sache an das Berufungsge-
+     richt zurückzuverweisen (§ 563 Abs. 1 Satz 1 und Abs. 3 ZPO), damit es die zur
+     Beurteilung der Wirksamkeit der Kündigungen des Anstellungsverhältnisses
+     des Klägers erforderlichen Feststellungen treffen kann. Ob die Kündigungen
+     des Anstellungsvertrags des Klägers wirksam sind, insbesondere ob ein wichti-
+     ger Grund vorlag, hat das Berufungsgericht, auf der Grundlage seiner Rechts-
+     auffassung folgerichtig, bisher nicht geprüft.
+
+79          3. Der besondere Vertreter K.                T.        ist aus dem Rechtsstreit
+     zu weisen, weil seine Bestellung nichtig war (s.o. II. 1. b) cc)) und er deshalb
+     nicht berechtigt ist, die Beklagte zu vertreten.
+
+80          Wenn die Legitimation einer als gesetzlicher Vertreter auftretenden Per-
+     son während des Rechtsstreits in Frage gestellt wird, so ist die nicht legitimierte
+     Person aus dem Rechtsstreit zu weisen. Das ist zwar im Gesetz nicht geregelt,
+     ergibt sich aber aus der Notwendigkeit, den nicht befugten Vertreter von weite-
+     ren Prozesshandlungen für die von ihm nicht vertretene Partei auszuschließen
+     (vgl. BFHE 99, 348; 112, 113; KG, NJW 1968, 1635 mwN; MünchKomm/ZPO/
+     Lindacher, 5. Aufl., § 52 Rn. 34; Zöller/Althammer, ZPO, 32. Aufl., § 56 Rn.
+     Rn. 13; Stein/Jonas/Jacoby, ZPO, 23. Aufl., § 56 Rn. 18). Da die Bestellung des
+     besonderen Vertreters K.            T.            nichtig war (s.o. II. 1. b) cc)), ist er
+     nicht berechtigt, die Beklagte zu vertreten. Da er jedoch in der Annahme einer
+     eigenen Vertretungsbefugnis im Prozess sowohl in der Berufungs- als auch in
+     der Revisionsinstanz tätig geworden ist, musste der Senat ihn aus dem Rechts-
+     streit weisen.
+
+81          Der von dem durch den nichtig bestellten besonderen Vertreter beauf-
+     tragten Prozessbevollmächtigten in der mündlichen Verhandlung vor dem Senat
+     gestellte Antrag auf Erlass eines Versäumnisurteils ist als Prozesshandlung
+                                   - 39 -
+
+
+
+unwirksam und war daher nicht zu bescheiden (vgl. BGH, Urteil vom
+23. Oktober 2003 - IX ZR 324/01, NJW-RR 2004, 275, 276).
+
+
+
+
+Drescher                           Wöstmann                      Born
+
+                  Bernau                             V. Sander
+
+
+
+
+Vorinstanzen:
+
+LG Berlin, Entscheidung vom 25.06.2015 - 104 O 93/14 -
+KG, Entscheidung vom 09.11.2017 - 23 U 67/15 -
+

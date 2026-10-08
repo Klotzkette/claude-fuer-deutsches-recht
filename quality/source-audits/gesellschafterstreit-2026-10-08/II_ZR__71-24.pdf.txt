@@ -1,0 +1,972 @@
+                 BUNDESGERICHTSHOF
+                        IM NAMEN DES VOLKES
+
+                                         URTEIL
+II ZR 71/24
+
+                                     in dem Rechtsstreit
+
+Nachschlagewerk:             ja
+BGHZ:                        ja
+BGHR:                        ja
+JNEU:                     nein
+
+
+
+
+BGB § 138 Aa
+
+a) In den Personengesellschaften und der GmbH sind gesellschaftsvertragliche Regelungen, die einem
+   Gesellschafter, einer Gruppe von Gesellschaftern oder der Gesellschaftermehrheit das Recht ein-
+   räumen, einen Mitgesellschafter ohne sachlichen Grund aus der Gesellschaft auszuschließen (freie
+   Hinauskündigungsklauseln), oder vergleichbare schuldrechtliche Regelungen grundsätzlich nach
+   § 138 Abs. 1 BGB nichtig, es sei denn, sie sind ausnahmsweise wegen besonderer Umstände sach-
+   lich gerechtfertigt. Maßgeblich ist insoweit eine tatbestandlich gebotene Gesamtbetrachtung sämtli-
+   cher Umstände und der beiderseits beteiligten Interessen im jeweiligen Einzelfall (Festhaltung BGH,
+   Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98, 101 f. - Managermodell; Urteil vom
+   7. Mai 2007 - II ZR 281/05, ZIP 2007, 1309 Rn. 19 f.).
+
+b) Eine Hinauskündigungsklausel ist sachlich gerechtfertigt, wenn einem Geschäftsführer die Gesell-
+   schafterstellung wegen seiner Geschäftsführerstellung und zu einem mit dieser Stellung verbunde-
+   nen Zweck, der mit der Beendigung seiner organ- oder dienstvertraglichen Bindung oder Tätigkeit
+   entfällt, eingeräumt wird und seiner mitgliedschaftlichen Beteiligung als Gesellschafter in Anbetracht
+   ihrer Ausgestaltung auch im Übrigen keine relevante eigenständige Bedeutung gegenüber seiner
+   Geschäftsführerstellung beizumessen ist. Das setzt nicht zwingend voraus, dass der Geschäftsfüh-
+   rer mit der Beteiligung kein oder nur ein geringes wirtschaftliches Risiko übernimmt.
+
+BGH, Urteil vom 10. Februar 2026 - II ZR 71/24 - OLG München
+                                                  LG Augsburg
+
+
+
+
+ECLI:DE:BGH:2026:100226UIIZR71.24.0
+                                          -2-
+
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung vom
+    10. Februar 2026 durch den Vorsitzenden Richter Born, den Richter Wöstmann,
+    die Richterin B. Grüneberg, den Richter Prof. Sander und den Richter Dr. v. Selle
+
+    für Recht erkannt:
+
+
+          Auf die Revision der Beklagten wird das Urteil des 14. Zivilsenats
+          des Oberlandesgerichts München vom 23. Mai 2024 aufgehoben.
+
+          Die Sache wird zur neuen Verhandlung und Entscheidung, auch
+          über die Kosten des Revisionsverfahrens, an das Berufungsgericht
+          zurückverwiesen.
+
+
+                                  Von Rechts wegen
+
+
+                                      Tatbestand:
+
+
+1         Die Beklagten zu 1 und 3 waren Kommanditisten, der Beklagte zu 2 ist
+    Kommanditist der P.            GmbH & Co. KG (im Folgenden: P.
+    KG). Deren einzige Komplementärin ist die P.                 Verwaltungsgesell-
+    schaft mbH (im Folgenden: P.            GmbH), deren einzige Gesellschafter
+    zwei Private Equity Fonds sind, die im streitgegenständlichen Zeitraum zusam-
+    men auch Mehrheitsgesellschafter der Beklagten zu 1 waren.
+
+
+2         Die P.         KG und die Beklagten waren im streitgegenständlichen
+    Zeitraum die einzigen Gesellschafter der P.      Group GmbH, die die einzige
+    Gesellschafterin der P.     Holding GmbH war. Diese bildet zusammen mit
+    mehreren Tochterunternehmen, u.a. der M. GmbH, eine auf LED-Beleuchtung
+    spezialisierte Unternehmensgruppe (im Folgenden: P.      Gruppe).
+                                             -3-
+
+
+
+3               Der Kläger wurde auf Grundlage eines Geschäftsführeranstellungsver-
+    trags vom 6. Oktober 2020 zum alleinigen Fremdgeschäftsführer der M. GmbH
+    bestellt.
+
+
+4               Die P.         KG wurde geschaffen, um den Managern der P.
+    Gruppe die Möglichkeit zu bieten, sich als deren Kommanditisten im Rahmen
+    eines Managementbeteiligungsprogramms (mittelbar) an der P.                Group
+    GmbH zu beteiligen. In Umsetzung dieses Programms wurden am 9. Dezember
+    2021 der Gesellschaftsvertrag der P.                  KG und ein Management
+    Investment Agreement Relating to P.        Group (im Folgenden: Management In-
+    vestment Agreement) geschlossen, mit dem insgesamt 873 Stammgeschäfts-
+    anteile an der P.           Group GmbH auf die P.            KG übertragen wur-
+    den, die seitdem mit 1,28 % am Stammkapital der P.            Group GmbH betei-
+    ligt ist.
+
+
+5               Ebenfalls am 9. Dezember 2021 trat der Kläger, neben anderen Mana-
+    gern, gemäß Nr. 9.1 des Management Investment Agreements der P.
+       KG als Kommanditist gegen Leistung einer Einlage in Höhe von 149.984,46 €
+    gemäß Nr. 6.1 des Management Investment Agreements bei. Mit seinem Beitritt
+    wurden         ihm   262    der   insgesamt    873    von   der   P.          KG
+    gehaltenen Stammgeschäftsanteile an der P.            Group GmbH im Nennwert
+    von 1 € auf dem Kapitalkonto II gutgeschrieben. Die Höhe seiner Einlage ent-
+    sprach vereinbarungsgemäß dem damaligen Verkehrswert der ihm zugewiese-
+    nen Stammgeschäftsanteile. Bei diesen Anteilen war keine Beteiligung an den
+    laufenden Gewinnen der P.           Group GmbH vorgesehen, sondern (erst) an
+    dem auf die P.              KG entfallenden Erlös bei Verkauf der von ihr gehal-
+    tenen Stammgeschäftsanteile im Rahmen eines Exits.
+
+
+6               Nr. 19 des Gesellschaftsvertrags der P.         KG enthält eine "Call
+    Option", nach der die Beteiligung eines Managers an der P.                KG im
+                                          -4-
+
+
+
+    Fall seines Ausscheidens aus der P.       Gruppe von den Beklagten erworben
+    werden kann. Umgesetzt wird dies durch ein bereits bei Vertragsschluss von den
+    Managern erklärtes Angebot an die Beklagten, die Kommanditbeteiligung an
+    jeden von ihnen entsprechend ihrer Beteiligungsquote an der P.            Group
+    GmbH zu verkaufen und abzutreten, und die Verpflichtung der Beklagten, dieses
+    Angebot nur anzunehmen, wenn ein "Call Event" gemäß Nr. 19.6 des Gesell-
+    schaftsvertrags der P.         KG vorliegt. Hierzu zählt auch der Fall, dass
+    "der Manager zu irgendeinem Zeitpunkt, gleichgültig aus welchem Rechtsgrund,
+    (i) nicht Geschäftsführer eines Mitglieds der Investee-Gruppe ist und nicht in
+    einem aktiven Arbeits- oder Dienstverhältnis steht (…), oder (ii) vom Arbeitgeber
+    der Investee-Gruppe unwiderruflich freigestellt ist", wobei zur Investee-Gruppe
+    die P.     Group GmbH und jede ihrer direkten oder indirekten Tochtergesell-
+    schaften gehört. Nach Nr. 20 des Gesellschaftsvertrags der P.                KG
+    hängt die Höhe des Kaufpreises von den Umständen der Optionsausübung ab.
+    Im Fall eines "Bad Leaver-Call Events" (Nr. 19.8 des Gesellschaftsvertrags der
+    P.          KG) erhält der Manager gemäß Nr. 20.4 des Gesellschaftsver-
+    trags der P.         KG den niedrigeren Wert von Verkehrswert und seinem
+    eigenen Investment; im Fall eines "Good Leaver-Call Events" (Nr. 19.10 des Ge-
+    sellschaftsvertrags der P.         KG) erhält er nach Ablauf von vier Jahren
+    ("Vesting Period") den vollen Verkehrswert, bei früherem Ausscheiden wird zwi-
+    schen "Vested Portion" und "Unvested Portion" differenziert (Nr. 20.2 und 20.3
+    des Gesellschaftsvertrags der P.       KG).
+
+
+7            Mit Gesellschafterbeschluss vom 6. September 2022 wurde der Kläger als
+    Geschäftsführer der M. GmbH ohne Angabe von Gründen abberufen, sein
+    Geschäftsführeranstellungsvertrag wurde mit Schreiben vom 30. August 2022
+    zum 28. Februar 2023 sowie vorsorglich nochmals mit Schreiben vom 8. Sep-
+    tember 2022 zum 31. März 2023 ordentlich fristgerecht ohne Angabe von Grün-
+    den gekündigt und er wurde unwiderruflich freigestellt.
+                                           -5-
+
+
+
+8           Mit Schreiben vom 14. Dezember 2022 übten die Beklagten die Call Op-
+     tion hinsichtlich der Kommanditbeteiligung des Klägers aus. Als "Abfindung"
+     ermittelten sie den Verkehrswert der Beteiligung mit 35.173,68 €, der an den Klä-
+     ger ausgezahlt wurde.
+
+
+9           Der Kläger hat Klage auf Feststellung erhoben, dass er weiterhin Kom-
+     manditist der P.         KG ist. Er ist der Auffassung, die in Nr. 19 des
+     Gesellschaftsvertrags der P.         KG vereinbarte Call Option sei als freie
+     Hinauskündigungsklausel sittenwidrig gemäß § 138 Abs. 1 BGB und damit nich-
+     tig.
+
+10          Das Landgericht hat der Klage stattgegeben. Die Berufung der Beklagten
+     ist erfolglos geblieben. Mit ihrer vom Senat zugelassenen Revision verfolgen die
+     Beklagten ihren Antrag auf Klageabweisung weiter.
+
+
+                              Entscheidungsgründe:
+
+
+
+11          Die Revision der Beklagten hat Erfolg. Sie führt zur Aufhebung des Beru-
+     fungsurteils und zur Zurückverweisung der Sache an das Berufungsgericht.
+
+
+12          I. Das Berufungsgericht (OLG München, Urteil vom 23. Mai 2024
+     - 14 U 5289/23 e, juris) hat, soweit für das Revisionsverfahren von Interesse, im
+     Wesentlichen ausgeführt:
+
+13          Nr. 19 des Gesellschaftsvertrags der P.           KG sei als eine freie
+     Hinauskündigungsklausel unter Anwendung der Maßstäbe des Bundesgerichts-
+     hofs sittenwidrig. Eine ausnahmsweise Rechtfertigung der Regelung komme
+     auch nach der Managementmodell-Rechtsprechung des Bundesgerichtshofs
+     nicht in Betracht.
+                                           -6-
+
+
+
+14          Zwar sei die Möglichkeit des Klägers, in der Gesellschafterversammlung
+     seine Vorstellungen gegen den Willen der Beklagten durchzusetzen, praktisch
+     ausgeschlossen gewesen. Auch habe seine gesellschaftsrechtliche Beteiligung
+     nach dem Unternehmenskonzept der Beklagten seiner stärkeren Bindung an das
+     Unternehmen, einer Motivationssteigerung und der Aufwertung seiner Stellung
+     dienen sollen und sei das Interesse der Beklagten nicht zu verkennen, mittels
+     Rückübertragung der Anteile einen Nachfolger des Klägers entsprechend betei-
+     ligen zu können. Gleichwohl stelle sich die Beteiligung des Klägers nicht nur als
+     Annex zu seiner Geschäftsführerstellung dar. Denn mangels Teilhabe am laufen-
+     den Gewinn der Gesellschaft fehle es am belohnenden Charakter der Beteili-
+     gung; überdies habe der Kläger alle Risiken eines Kommanditisten zu tragen
+     gehabt. Da er für den Erwerb der Beteiligung den Marktwert der Anteile habe
+     bezahlen müssen und bei Ausübung der Call Option bestenfalls den dann aktu-
+     ellen Marktwert habe erhalten sollen, habe das einzige Gewinnpotential für ihn
+     im Anstieg des Werts seiner Beteiligung bestanden, der aber nicht allein vom
+     Erfolg der von ihm geführten Gesellschaft abhängig gewesen sei. Die Beteiligung
+     des Klägers verliere daher nach seinem Ausscheiden anders als in gewöhnlichen
+     Managementmodellen nicht ihren rechtfertigenden Sinn.
+
+
+15          Der Umstand, dass dem Kläger die Beteiligung nur wegen seiner Mana-
+     gertätigkeit angeboten worden sei, rechtfertige es nicht, den Beklagten die Mög-
+     lichkeit einzuräumen, die Gesellschafterstellung nach Belieben zu beenden.
+     Auch die im Fall eines erfolgreichen Exits vorgesehenen erheblichen Vorteile
+     könnten dies nicht rechtfertigen. Schließlich gestatte auch das berechtigte Inter-
+     esse der Beklagten, den Kläger nur dann am späteren Verkaufserlös zu beteili-
+     gen, wenn er auch bis zu diesem Zeitpunkt als Manager für die Unternehmens-
+     gruppe tätig gewesen sei, es nicht, seine Belange völlig unberücksichtigt zu las-
+     sen.
+                                           -7-
+
+
+
+16         II. Diese Ausführungen halten einer rechtlichen Nachprüfung nicht stand.
+     Die Call Option in Nr. 19 des Gesellschaftsvertrags der P.           KG ist auf
+     Grundlage der vom Berufungsgericht getroffenen Feststellungen nicht als sitten-
+     widrig anzusehen.
+
+           1. Im Ausgangspunkt zutreffend hat das Berufungsgericht die Call Option
+17
+     in Nr. 19 des Gesellschaftsvertrags der P.            KG als freie Hinauskün-
+     digungsklausel angesehen.
+
+           Eine freie Hinauskündigungsklausel liegt vor, wenn die vertragliche Rege-
+18
+     lung einem Gesellschafter, einer Gruppe von Gesellschaftern oder der Gesell-
+     schaftermehrheit das Recht verleiht, einen Mitgesellschafter ohne sachlichen
+     Grund aus der Gesellschaft auszuschließen (vgl. BGH, Urteil vom 19. September
+     2005 - II ZR 173/04, BGHZ 164, 98, 101 - Managermodell; Urteil vom 19. Sep-
+     tember 2005 - II ZR 342/03, BGHZ 164, 107, 110 - Mitarbeitermodell; Urteil vom
+     7. Mai 2007 - II ZR 281/05, ZIP 2007, 1309 Rn. 19).
+
+           Das ist hier der Fall. Die Beklagten haben die Möglichkeit, den Kläger ohne
+19
+     sachlichen Grund aus der P.             KG auszuschließen, da sie ihn als
+     Mehrheitsgesellschafter der P.    Group GmbH jederzeit gemäß § 38 Abs. 1
+     GmbHG als Geschäftsführer abberufen, sein Anstellungsverhältnis ordentlich
+     kündigen und/oder ihn unwiderruflich freistellen und damit die Call Option gemäß
+     Nr. 19.6 des Gesellschaftsvertrags der P.      KG auslösen können.
+
+           2. Ebenfalls zutreffend ist das Berufungsgericht davon ausgegangen, dass
+20
+     solche Hinauskündigungsklauseln in gesellschaftsvertraglichen Regelungen bei
+     Personengesellschaften und der GmbH nach ständiger Rechtsprechung des Se-
+     nats gegen die guten Sitten verstoßen und daher grundsätzlich nach § 138 BGB
+     nichtig sind (BGH, Urteil vom 13. Juli 1981 - II ZR 56/80, BGHZ 81, 263, 268 f.;
+     Urteil vom 19. September 1988 - II ZR 329/87, BGHZ 105, 213, 216 f.; Urteil vom
+     9. Juli 1990 - II ZR 194/89, BGHZ 112, 103, 107 f.; Urteil vom 8. März 2004
+                                           -8-
+
+
+
+     - II ZR 165/02, ZIP 2004, 903, 904 f.; Urteil vom 14. März 2005 - II ZR 153/03,
+     ZIP 2005, 706, 707; Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164,
+     98, 101 - Managermodell; Urteil vom 19. September 2005 - II ZR 342/03, BGHZ
+     164, 107, 110 - Mitarbeitermodell; Urteil vom 19. März 2007 - II ZR 300/05, ZIP
+     2007, 862 Rn. 9; Urteil vom 7. Mai 2007 - II ZR 281/05, ZIP 2007, 1309 Rn. 19).
+     Tragende Erwägung hierfür ist, den von der Kündigung bedrohten Gesellschafter
+     zu schützen. Denn das freie Kündigungsrecht des anderen Teils kann von ihm
+     als Disziplinierungsmittel empfunden werden, so dass er aus Sorge, der Willkür
+     des ausschließungsberechtigten Gesellschafters ausgeliefert zu sein, nicht frei
+     von seinen Mitgliedschaftsrechten Gebrauch macht oder seinen Gesellschafter-
+     pflichten nicht nachkommt, sondern sich den Vorstellungen der anderen Seite
+     beugt ("Damoklesschwert").
+
+
+21         Dieser Grundsatz gilt allerdings, wie das Berufungsgericht ebenfalls nicht
+     verkannt hat, nicht ausnahmslos. Eine an keine Voraussetzungen geknüpfte Hin-
+     auskündigungsklausel oder eine vergleichbare schuldrechtliche Regelung ist
+     nach der Rechtsprechung des Senats wirksam, wenn sie wegen besonderer Um-
+     stände sachlich gerechtfertigt ist (st. Rspr., siehe zuletzt BGH, Urteil vom
+     19. September 2005 - II ZR 173/04, BGHZ 164, 98, 102 - Managermodell; Urteil
+     vom 19. September 2005 - II ZR 342/03, BGHZ 164, 107, 111 - Mitarbeitermodell;
+     Urteil vom 19. März 2007 - II ZR 300/05, ZIP 2007, 862 Rn. 9; Urteil vom 7. Mai
+     2007 - II ZR 281/05, ZIP 2007, 1309 Rn. 20).
+
+
+22         3. An dieser Rechtsprechung hält der Senat auch angesichts der daran
+     von einem Teil des Schrifttums geäußerten Kritik fest.
+
+
+23         a) Die überwiegende Meinung im Schrifttum geht ebenfalls davon aus,
+     dass freie Hinauskündigungsklauseln in Gesellschaftsverträgen einer Inhaltskon-
+     trolle nach § 138 BGB unterliegen und danach grundsätzlich nichtig sind (Münch-
+     KommBGB/Armbrüster, 10. Aufl., § 138 Rn. 136; Soergel/Baldringer, 14. Aufl.
+     BGB, § 138 Rn. 154; Staudinger/Fischinger, BGB, Neubearbeitung 2024, § 138
+                                      -9-
+
+
+
+Rn. 624; NK-BGB/Looschelders, 4. Aufl., § 138 Rn. 203; jurisPK-BGB/Nassall,
+10. Aufl., § 138 Rn. 153 ff.; Cöster, Minderheitenrechte in der Publikumsperso-
+nengesellschaft, 2021, S. 153; Mackensen in Eilers/Koffka/Mackensen/Paul/
+Josenhans, Private Equity, 4. Aufl., Kap. VI. Rn. 45 f.; Armbrüster, ZGR 2014,
+333, 356 ff.; Denga, ZGR 2021, 725, 751 f.; Gehrlein, NJW 2005, 1969, 1972;
+Heusel/M. Goette, DStR 2016, 1315, 1316; Lieder, DZWiR 2006, 63, 64 ff.; Mie-
+sen, RNotZ 2006, 522, 523 ff.; Nassall, NZG 2008, 851, 854 f.; speziell zur GbR:
+jurisPK-BGB/Bergmann, 10. Aufl., § 727 Rn. 10 ff.; J. Koch/Guntermann, Perso-
+nengesellschaftsrecht, § 727 BGB Rn.15; Heidel/Hanke, GbR, § 727 BGB
+Rn. 12; BeckOGK BGB/R. Koch, Stand 1.10.2025, § 727 Rn. 30 ff.; Erman/Lie-
+der, BGB, 17. Aufl., § 727 Rn. 11 ff.; MünchKommBGB/Schäfer, 9. Aufl., § 727
+Rn. 19; Servatius, GbR, 2. Aufl., § 727 BGB Rn. 35 ff.; Kilian in Henssler/Strohn,
+GesR, 6. Aufl., § 727 BGB Rn. 12 f.; speziell zu Personenhandelsgesellschaften:
+Schäfer in Großkomm. HGB, 6. Aufl., § 134 Rn. 62 ff.; Haas in Röhricht/Graf von
+Westphalen/Haas/Mock/Wöstmann, HGB, 6. Aufl., § 134 Rn. 24 ff.; NK-HGB/Hei-
+del, 4. Aufl., § 134 Rn. 63 ff.; J. Koch/Guntermann, Personengesellschaftsrecht,
+§ 134 HGB Rn. 13; Oetker/Kamanabrou, HGB, 8. Aufl., § 134 Rn. 46; BeckOGK
+HGB/Michel, Stand 1.11.2025, § 134 Rn. 75; Koller/Kindler/Drüen/Kindler, HGB,
+10. Aufl., § 140 Rn. 8; Hopt/Roth, HGB, 45. Aufl., § 134 Rn. 28; MünchKomm-
+HGB/Fleischer, 6. Aufl., § 134 Rn. 124 ff.; speziell zur GmbH: BeckOGK
+GmbHG/Born, Stand 1.10.2025, § 53 Rn. 325; Fleischer in Henssler/Strohn,
+GesR, 6. Aufl., § 34 GmbHG Rn. 27; Görner in Rowedder/Pentz, GmbHG,
+7. Aufl., § 34 Rn. 31 f.; Kersting in Noack/Servatius/Haas, GmbHG, 24. Aufl., § 34
+Rn. 10 f.; Klingsch in Saenger/Inhester, GmbHG, 5. Aufl., § 34 Rn. 35 ff.; Klein-
+diek in Lutter/Hommelhoff, GmbHG, 21. Aufl., § 34 Rn. 48; Sandhaus in Gehr-
+lein/Born/Simon, GmbHG, 6. Aufl., § 34 Rn. 21 f.; MünchKommGmbHG/Strohn/
+Fleischer, 5. Aufl., § 34 Rn. 59 f., 155 f.; Scholz/H. P. Westermann/Seibt,
+GmbHG, 13. Aufl., § 34 Rn. 25 ff.; Ulmer/Habersack in Habersack/Casper/Löbbe,
+GmbHG, 3. Aufl., § 34 Rn. 41a f.).
+                                          - 10 -
+
+
+
+24         Teile des Schrifttums halten dagegen eine Inhaltskontrolle von Hinauskün-
+     digungsklauseln nach § 138 BGB für einen nicht gebotenen, dogmatisch nicht
+     begründbaren Eingriff in die Privatautonomie; ausreichend und angemessen sei
+     vielmehr eine Prüfung der Wirksamkeit des Ausschlusses lediglich im Rahmen
+     einer einzelfallbezogenen Ausübungskontrolle nach § 242 BGB (Altmeppen,
+     GmbHG, 11. Aufl., § 34 Rn. 52; Lorz in Ebenroth/Boujong, HGB, 5. Aufl., § 134
+     Rn. 66; BeckOGK GmbHG/Tiling/Poelzig, Stand 1.10.2025, § 34 Rn. 81 ff.;
+     Binz/Sorg, Die GmbH & Co. KG im Handels- und Steuerrecht, 12. Aufl., § 6
+     Rn. 134 ff.; Heckschen/Stelmaszczyk in Heckschen/Heidinger, Die GmbH in der
+     Gestaltungs- und Beratungspraxis, 5. Aufl., Kap. 4 Rn. 608; Gärtner, Der unfrei-
+     willige Verlust der Gesellschafterstellung von Managern und Mitarbeitern, 2014,
+     S. 311 ff.; Hey, Freie Gestaltung in Gesellschaftsverträgen und ihre Schranken,
+     2004, S. 218 f.; Schmolke, Grenzen der Selbstbindung im Privatrecht, 2014,
+     S. 671 ff.; Benecke, ZIP 2005, 1437, 1440 ff.; Böttcher, NZG 2005, 992, 995;
+     Bütter/Tonner, MDR 2006, 61, 63 f.; Bunte, ZIP 1983, 8, 14 ff.; Drinkuth, NJW
+     2006, 410, 413; Heckschen/Dany, GmbHR 2025, 673 Rn. 49 ff.; Heckschen/Weit-
+     brecht, NZG 2021, 709, 715 ff.; Heckschen/Weitbrecht, NZG 2021, 757, 761 ff.;
+     Henssler, Festschrift Konzen, 2010, S. 267, 281 ff.; Kübler, Festschrift Sigle,
+     2000, S. 183, 199; Höfer, GmbHR 2019, 120, 123 f.; von Prittwitz, NZG 2025,
+     872 Rn. 17, 32 ff.; Schockenhoff, ZIP 2005, 1009, 1012 ff.; Verse, DStR 2007,
+     1822, 1825 ff.; Wiedemann, ZGR 1980, 147, 155; vgl. auch Grunewald, DStR
+     2004, 1750, 1751; sowie Grunewald, Festschrift Priester 2008, S. 123, 131 und
+     Grunewald, ZIP 2021, 433, 437).
+
+
+25         b) Die von Teilen des Schrifttums geübte Kritik gibt dem Senat keinen
+     Anlass zu einer Änderung seiner Rechtsprechung.
+
+
+26         aa) Der Gesetzgeber hat im Zuge der Reform des Personengesellschafts-
+     rechts im Jahr 2021 unter ausdrücklichem Verweis auf die vom Senat herausge-
+     arbeiteten Kriterien keinen Regelungsbedarf für Hinauskündigungsklauseln
+                                           - 11 -
+
+
+
+     gesehen. Nach der Gesetzesbegründung sollen die von der Rechtsprechung zur
+     Kontrolle solcher Klauseln entwickelten Maßstäbe weiterhin Anwendung finden
+     (RegE eines Gesetzes zur Modernisierung des Personengesellschaftsrechts,
+     BT-Drucks. 19/27635, S. 243 zu § 130 Abs. 1 HGB-E).
+
+           bb) Der von den Kritikern erhobene Einwand, das Damoklesschwert-Argu-
+27
+     ment umschreibe nur ein abstraktes Risiko unterhalb der Schwelle der Sittenwid-
+     rigkeit im Sinn von § 138 BGB, dessen Gewicht durch die in der Rechtsprechung
+     anerkannten Ausnahmen selbst widerlegt bzw. zumindest in Frage gestellt werde
+     und den mit dem generellen Sittenwidrigkeitsverdikt verbundenen erheblichen
+     Eingriff in die Vertragsfreiheit auch dogmatisch nicht rechtfertigen könne (so etwa
+     BeckOGK GmbHG/Tiling/Poelzig, Stand 1.10.2025, § 34 Rn. 81; Altmeppen,
+     GmbHG, 11. Aufl., § 34 Rn. 52; Benecke, ZIP 2005, 1437, 1439; Bunte, ZIP 1983,
+     8, 15; Grunewald, ZIP 2021, 433, 437; Heckschen/Weitbrecht, NZG 2021, 709,
+     715; Sosnitza, DStR 2006, 99, 103; Verse, DStR 2007, 1822, 1824 f.; vgl. auch
+     Schmolke, Grenzen der Selbstbindung im Privatrecht, 2014, S. 544 ff.), trifft nicht
+     zu.
+
+           (1) Ein Rechtsgeschäft ist nach § 138 Abs. 1 BGB nichtig, wenn es nach
+28
+     seinem aus der Zusammenfassung von Inhalt, Beweggrund und Zweck zu ent-
+     nehmenden Gesamtcharakter mit den guten Sitten nicht zu vereinbaren ist. Dabei
+     sind nicht nur der objektive Inhalt des Geschäfts, sondern auch die Umstände,
+     die zu seiner Vornahme geführt haben, und die von den Parteien verfolgten Ab-
+     sichten und Beweggründe zu berücksichtigen (vgl. etwa BGH, Urteil vom 10. Ok-
+     tober 1997 - V ZR 74/96, NJW-RR 1998, 590, 591; Urteil vom 19. Januar
+     2001 - V ZR 437/99, BGHZ 146, 298, 301; Urteil vom 4. Juni 2013 - VI ZR 288/12,
+     NJW-RR 2013, 1448 Rn. 14).
+
+29         (2) Eine freie Hinauskündigungsklausel enthält für sich genommen einen
+     schwerwiegenden, von der gesetzlichen Regelung abweichenden und die wirt-
+                                            - 12 -
+
+
+
+     schaftliche und persönliche Freiheit einschränkenden Eingriff in die Gesellschaf-
+     terstellung des betroffenen Gesellschafters, der der Gefahr einer Willkürherr-
+     schaft der Ausschlussberechtigten Vorschub leistet (vgl. BGH, Urteil vom
+     20. Januar 1977 - II ZR 217/75, BGHZ 68, 212, 215; Urteil vom 13. Juli 1981
+     - II ZR 56/80, BGHZ 81, 263, 266 f.). Bereits die Macht der Ausschlussberechtig-
+     ten, Mitgesellschafter nach ihrem Gutdünken auszuschließen, setzt die davon
+     Betroffenen grundsätzlich dem ihre Entscheidungsfreiheit beeinflussenden Druck
+     aus, der dazu führen kann, dass sie ihr Verhalten darauf einrichten und ihr Stimm-
+     verhalten womöglich nicht am Gesellschaftswohl, sondern dem Willen des Aus-
+     schlussberechtigten ausrichten (vgl. BGH, Urteil vom 19. September 1988
+     - II ZR 329/87, BGHZ 105, 213, 217).
+
+           (3) Dem danach gebotenen Schutz der Entscheidungsfreiheit des von der
+30
+     Hinauskündigungsklausel Betroffenen wird weder bereits mit dem Abfindungs-
+     schutz noch mit dem sonstigen Minderheitenschutz des Gesellschaftsrechts hin-
+     reichend Rechnung getragen (aA etwa Heckschen/Weitbrecht, NZG 2021, 709,
+     715; Verse, DStR 2007, 1822, 1826; BeckOGK GmbHG/Tiling/Poelzig, § 34
+     Rn 82; Altmeppen, GmbHG, 11. Aufl., § 34 Rn. 52).
+
+           (a) Der Verweis auf den Schutz einer angemessenen Abfindung verkennt,
+31
+     dass der betroffene Gesellschafter nicht nur vor Vermögensnachteilen zu schüt-
+     zen ist, sondern in der Wahrnehmung seiner Mitgliedschaftsrechte und damit in
+     seiner Gesellschafterstellung als solcher. Ein von der Möglichkeit eines willkürli-
+     chen Ausschlusses betroffener Gesellschafter wird auch dann in der Wahrneh-
+     mung seiner Gesellschafterrechte, konkret seiner Entscheidungsfreiheit nachtei-
+     lig betroffen, wenn sein jederzeit drohendes Ausscheiden finanziell angemessen
+     kompensiert würde (vgl. Goette, DStR 2005, 800, 801). Insoweit muss zwischen
+     der Wirksamkeit der Hinauskündigungsklausel und der der Abfindungsklausel
+     unterschieden werden (vgl. BGH, Urteil vom 19. September 2005 - II ZR 173/04,
+     BGHZ 164, 98, 104 - Managermodell mwN).
+                                           - 13 -
+
+
+
+32         Dagegen lässt sich nicht anführen, dass der einer Hinauskündigung ver-
+     gleichbare aktienrechtliche Squeeze-Out (§ 327a AktG) keines sachlichen Grun-
+     des bedürfe, sondern der Interessenausgleich zwischen verbleibenden und
+     scheidenden Gesellschaftern allein über die Angemessenheit der Abfindung
+     erfolge (Drinkuth, NJW 2006, 410, 411; vgl. auch Grunewald, DStR 2004, 1750,
+     1751). § 327a AktG enthält keinen auf die Zulässigkeit der voraussetzungslosen
+     Hinauskündigung übertragbaren allgemeinen Rechtsgedanken (vgl. BGH, Urteil
+     vom 16. März 2009 - II ZR 302/06, BGHZ 180, 154 Rn. 14 - Wertpapierdarlehen
+     mwN; BeckOGK GmbHG/Tiling/Poelzig, Stand 1.10.2025, § 34 Rn. 94; Ulmer/
+     Habersack in Habersack/Casper/Löbbe, GmbHG, 3. Aufl., § 34 Rn. 42; anders
+     Grunewald, DStR 2004, 1750, 1751; ferner Sosnitza in Michalski/Heidinger/
+     Leible/J. Schmidt, GmbHG, 4. Aufl., § 34 Rn. 42).
+
+           (b) Der Umstand, dass auch ein Minderheitsgesellschafter faktisch "fremd-
+33
+     bestimmt" sein mag, ändert nichts daran, dass eine freie Hinauskündigungsklau-
+     sel eine weitergehende Gefahr für die Gesellschafterstellung des davon betroffe-
+     nen Gesellschafters als solche begründet, der mit dem allgemeinen Schutz der
+     Minderheitenrechte nicht hinreichend begegnet werden kann. Insoweit geht es
+     nicht nur darum, dass ein Minderheitsgesellschafter evtl. nicht opponiert, weil er
+     mangels Stimmgewichts ohnehin nichts "zu gewinnen" hat und den Frieden in
+     der Gesellschaft nicht verlieren will (so Heckschen/Weitbrecht, NZG 2021, 709,
+     715), sondern weil er um seine Gesellschafterstellung an sich fürchten muss.
+
+           (4) Durch eine reine Ausübungskontrolle nach § 242 BGB kann dem
+34
+     Damoklesschwert-Gedanken nicht ausreichend Rechnung getragen werden.
+
+35         Zwar wäre eine Hinauskündigung, die als Sanktion für die Ausübung der
+     Gesellschafterrechte eingesetzt wird, als rechtsmissbräuchlich (§ 242 BGB)
+     anzusehen. Die die Anwendung des § 138 BGB rechtfertigende Schutzbedürftig-
+     keit des Gesellschafters hinsichtlich der Wahrung seiner Entscheidungsfreiheit
+     besteht aber unabhängig davon, ob er später tatsächlich hinausgekündigt wird
+                                             - 14 -
+
+
+
+     (vgl. Armbrüster, ZGR 2014, 333, 360). Gerade wenn sich die der Hinauskündi-
+     gungsklausel innewohnende Gefahr realisiert, d.h. der Gesellschafter sich wegen
+     der Gefahr seiner andernfalls befürchteten Hinauskündigung den Vorstellungen
+     der anderen Seite beugt, wird es zu keiner Kündigung kommen und damit auch
+     keine Ausübungskontrolle stattfinden (können). Es bedarf daher eines präven-
+     tiven Schutzes der gesellschafterlichen Entscheidungsfreiheit; die bloß nachträg-
+     liche Ausübungskontrolle reicht dafür nicht aus. Insoweit schließen sich die Kon-
+     trollinstrumente der § 138 BGB und § 242 BGB nicht aus, sondern ergänzen sich
+     gegenseitig (vgl. schon Grunewald, Der Ausschluss aus Gesellschaft und Verein,
+     1987, S. 148).
+
+           (5) Der Senat verkennt nicht, dass mit der Annahme von Sittenwidrigkeit
+36
+     ein erheblicher Eingriff in die Privatautonomie der Vertragsparteien verbunden
+     und bei der nach § 138 Abs. 1 BGB gebotenen Interessenabwägung das eben-
+     falls schützenswerte Interesse der Gesellschafter zu berücksichtigen ist, die
+     Zusammensetzung des Gesellschafterkreises zu steuern (vgl. Heckschen/Stel-
+     maszcyk in Heckschen/Heidinger, Die GmbH in der Gestaltungs- und Beratungs-
+     praxis, 5. Aufl., Kap. 4 Rn. 608; Heckschen/Weitbrecht, NZG 2021, 709, 217).
+     Dieses Interesse rechtfertigt es aber nicht, eine freie Hinauskündigungsklausel
+     mit ihren gravierenden Auswirkungen auf die mitgliedschaftsrechtliche Stellung
+     des betroffenen Gesellschafters generell für zulässig zu erachten und damit den
+     Kern seiner Gesellschafterstellung zur freien Disposition der ausschließungsbe-
+     rechtigten Gesellschafter zu stellen.
+
+37         Sollten besondere Umstände vorliegen, die eine andere Gewichtung der
+     beiderseits beteiligten Interessen gerechtfertigt erscheinen lassen, kann dem im
+     Rahmen der auch bei § 138 Abs. 1 BGB gebotenen Gesamtwürdigung hinrei-
+     chend Rechnung getragen werden (vgl. BGH, Urteil vom 8. März 2004
+     - II ZR 165/02, ZIP 2004, 903, 905). Damit wird nicht eine nach § 138 Abs. 1 BGB
+                                           - 15 -
+
+
+
+     tatbestandlich für sittenwidrig befundene Vereinbarung ausnahmsweise trotz Sit-
+     tenwidrigkeit für gerechtfertigt erklärt. Die Prüfung einer evtl. sachlichen Recht-
+     fertigung ist vielmehr Teil der bei § 138 Abs. 1 BGB bereits tatbestandlich gebo-
+     tenen Gesamtbetrachtung des Rechtsgeschäfts (vgl. Gärtner, Der unfreiwillige
+     Verlust der Gesellschafterstellung von ausgeschiedenen Managern und Mitarbei-
+     tern, 2014, S. 153).
+
+           So kann die von einer Hinauskündigungsklausel grundsätzlich ausge-
+38
+     hende Gefahr einer psychologischen Zwangslage etwa durch eine besondere
+     Vertragsgestaltung im Einzelfall (vgl. BGH, Urteil vom 19. September 1988
+     - II ZR 329/87, BGHZ 105, 213, 218), durch besondere persönliche Umstände
+     und besondere Ausgestaltung der Gesellschafterstellung (vgl. BGH, Urteil vom
+     9. Juli 1990 - II ZR 194/89, BGHZ 112, 103, 110 f.), durch den besonderen Zweck
+     des Ausschließungsrechts (vgl. BGH, Urteil vom 8. März 2004 - II ZR 165/02, ZIP
+     2004, 903, 905; Urteil vom 7. Mai 2007 - II ZR 281/05, ZIP 2007, 1309 Rn. 19 ff.)
+     oder durch eine nur untergeordnete Bedeutung der Gesellschafterstellung ge-
+     genüber einer anderen beruflichen Beziehung, aufgrund derer der Verlust der
+     Gesellschafterstellung angesichts ihrer Ausgestaltung und ihrem Zweck nicht
+     entscheidend ins Gewicht fällt (Annex; vgl. BGH, Urteil vom 14. März 2005
+     - II ZR 153/03, ZIP, 706 Rn. 12; Urteil vom 19. September 2005 - II ZR 173/04,
+     BGHZ 164, 98, 103 f. - Managermodell; Urteil vom 19. September 2005
+     - II ZR 342/03, BGHZ 164, 107, 111 f. - Mitarbeitermodell), bei einer Gesamtwür-
+     digung sachlich gerechtfertigt sein bzw. in der Gesamtabwägung zurückzutreten
+     haben.
+
+39         Keine Bedenken hatte der Senat auch gegen eine Satzungsklausel, nach
+     der in einer GmbH, in der alle Gesellschafter persönlich mitarbeiten, ein Ge-
+     schäftsanteil eingezogen werden kann, wenn der betroffene Gesellschafter nicht
+     mehr in dem Gesellschaftsunternehmen tätig ist (vgl. BGH, Urteil vom 20. Juni
+                                          - 16 -
+
+
+
+     1983 - II ZR 237/82, WM 1983, 965) oder einer Bestimmung im Gesellschafts-
+     vertrag, mit der der Testierfreiheit des Erblassers Rechnung getragen werden soll
+     (vgl. BGH, Urteil vom 19. März 2007 - II ZR 300/05, ZIP 2007, 862).
+
+           Im Hinblick auf die tatbestandlich gebotene Gesamtbetrachtung kann die
+40
+     Anwendung von § 138 BGB nicht in besonderen Fallgestaltungen, wie etwa
+     einem vorliegend zu beurteilenden Managementmodell, generell als entbehrlich
+     angesehen werden (aA Höfer, GmbHR 2019, 120, 123 f.). Zwar kann bei solchen
+     Modellen der Privatautonomie in besonderem Maße Rechnung getragen werden,
+     weil marktübliche und wirtschaftlich nachvollziehbare Gestaltungen grundsätzlich
+     einen gewichtigen Sachgrund darstellen. Die jeweilige Ausgestaltung der Beteili-
+     gung im Einzelfall kann aber auch hier dazu führen, dass auf den betroffenen
+     Gesellschafter unzulässiger Druck ausgeübt wird. Die vom Senat entwickelten
+     Grundsätze geben auch hier hinreichenden Spielraum, im Rahmen der Prüfung
+     einer sachlichen Rechtfertigung der jeweiligen Vertragsgestaltung Rechnung zu
+     tragen und wirtschaftliche Entwicklungen, wie etwa das vermehrte Aufkommen
+     von Start-up-Unternehmen, angemessen zu berücksichtigen.
+
+           cc) Der Einwand, eine an § 138 BGB ausgerichtete Inhaltskontrolle berge
+41
+     eine erhebliche Rechtsunsicherheit und ziehe Anwendungsdivergenzen in der
+     Rechtsprechung der Instanzgerichte nach sich (Fröhlich, Ausscheiden von Per-
+     sonengesellschaftern, 2020, S. 161; Heckschen/Stelmaszczyk in Heckschen/
+     Heidinger, Die GmbH in der Gestaltungs- und Beratungspraxis, 5. Aufl., Kap. 4
+     Rn. 608; Bunte, ZIP 1983, 7, 14; vgl. auch Gehrlein, NJW 2015, 1969, 1972), gibt
+     ebenfalls keinen Anlass zu einer anderen Beurteilung.
+
+42         Die Möglichkeit unterschiedlicher Sachverhaltsbewertungen bei der
+     Rechtsanwendung im Einzelfall ist Folge der Wertungsspielräume, die in sämtli-
+     chen unbestimmten Rechtsbegriffen der offenen Normen des Bürgerlichen
+     Rechts (§§ 138, 242, 826 BGB) angelegt sind. Dabei kann eine Einheitlichkeit
+     der Rechtsprechung bei § 138 BGB insofern eher gewährt werden, als die
+                                           - 17 -
+
+
+
+     Bewertung eines Verhaltens als sittenwidrig uneingeschränkt revisibel ist (vgl.
+     BGH, Urteil vom 2. Dezember 2025 - II ZR 114/24, ZIP 2026, 69 Rn. 23 mwN),
+     die Anwendung von § 242 BGB durch das Revisionsgericht dagegen nur einge-
+     schränkt überprüft werden kann (vgl. BGH, Urteil vom 9. November 2023
+     - VII ZR 241/22, ZIP 2024, 643 Rn. 37 mwN). Entsprechend würde durch eine
+     Verlagerung der Prüfung von einer Inhaltskontrolle nach § 138 BGB zu einer Aus-
+     übungskontrolle nach § 242 BGB der Einwand fehlender Rechtssicherheit nicht
+     beseitigt (Grunewald, Der Ausschluss aus Gesellschaft und Verein, 1987, S. 148;
+     Grunewald, DStR 2004, 1750, 1751). Dies gilt umso mehr, als unter den Befür-
+     wortern einer reinen Ausübungskontrolle umstritten ist, welche Maßstäbe hierbei
+     anzulegen sind (vgl. dazu BeckOGK GmbHG/Tiling/Poelzig, Stand 1.10.2025,
+     § 34 Rn. 83; Armbrüster, ZGR 2014, 333, 359; Benecke, ZIP 2005, 1437, 1441;
+     Drinkuth, NJW 2006, 410, 413; Verse, DStR 2007, 1822, 1827; Fröhlich, Aus-
+     scheiden von Personengesellschaftern, 2020, S. 186 ff.; Gärtner, Der unfreiwil-
+     lige Verlust der Gesellschafterstellung von Managern und Mitarbeitern, 2014,
+     S. 322 f.; Henssler, Festschrift Konzen, 2010, S. 267, 282 ff.; Hey, Freie Gestal-
+     tung in Gesellschaftsverträgen und ihre Schranken, 2004, S. 346; Kübler, Fest-
+     schrift Sigle, 2000, S. 183, 199; Schmolke, Grenzen der Selbstbindung im Privat-
+     recht, 2014, S. 677; Wiedemann, ZGR 1980, 147, 155).
+
+           dd) Auch unter verfassungsrechtlichen Gesichtspunkten bestehen keine
+43
+     Bedenken gegen die Rechtsprechung des Senats.
+
+44         Der Einwand, einer reinen Ausübungskontrolle sei als dem "verhältnismä-
+     ßigeren" Eingriff in die Privatautonomie der Vorzug gegenüber der Inhaltskon-
+     trolle nach § 138 BGB zu geben (vgl. Hey, Freie Gestaltung in Gesellschaftsver-
+     trägen und ihre Schranken, 2004, S. 218 f.), verfängt nicht. Zwar sind bei der
+     nach § 138 Abs. 1 BGB vorzunehmenden Interessenabwägung insbesondere die
+     verfassungsrechtlichen Wertungen und damit auch der insoweit geltende Ver-
+     hältnismäßigkeitsgrundsatz zu beachten (Drittwirkung der Grundrechte, vgl.
+                                          - 18 -
+
+
+
+     hierzu Limperg/Wollenschläger, DVBl. 2024, 929, 931). Eine bloße Ausübungs-
+     kontrolle wäre jedoch unter Verhältnismäßigkeitsgesichtspunkten nicht ausrei-
+     chend, weil sie den Schutz der Entscheidungsfreiheit des von der Hinauskündi-
+     gungsklausel betroffenen Gesellschafters und damit den Kern seiner Gesell-
+     schafterstellung nicht ebenso wirksam gewährleisten könnte wie eine Inhaltskon-
+     trolle. Wie oben ausgeführt, bedarf es nicht nur des Schutzes des Gesellschafters
+     vor vermögensmäßigen Nachteilen oder lediglich des gegenständlichen Erhalts
+     seiner Gesellschafterstellung im Sinn von Art. 14 GG (so aber Heckschen/Dany,
+     GmbHR 2025 Rn. 51 ff.), sondern der vorbeugenden Gewährleistung seiner
+     freien Ausübung der mit der Gesellschafterstellung verbundenen Mitgliedschafts-
+     rechte, unabhängig von bzw. bereits vor der tatsächlichen Ausübung des Kündi-
+     gungsrechts. Das kann eine erst nachträgliche Ausübungskontrolle nicht gleich-
+     ermaßen gewährleisten.
+
+           4. Rechtsfehlerhaft ist jedoch die Begründung, mit der das Berufungsge-
+45
+     richt die Hinauskündigungsregelung in Nr. 19 des Gesellschaftsvertrags der
+     P.        KG in Anwendung der Senatsrechtsprechung für sittenwidrig
+     befunden hat.
+
+           Die Qualifizierung eines Verhaltens als sittenwidrig ist eine Rechtsfrage,
+46
+     die der uneingeschränkten Kontrolle durch das Revisionsgericht unterliegt (st.
+     Rspr.; siehe etwa BGH, Urteil vom 20. November 2012 - VI ZR 268/11, ZIP 2013,
+     27 Rn. 25; Urteil vom 28. Juni 2016 - VI ZR 536/15, WM 2016, 1975 Rn. 15; Urteil
+     vom 25. Mai 2020 - VI ZR 252/19, BGHZ 225, 316 Rn. 14; Urteil vom 6. Dezember
+     2022 - II ZR 187/21, ZIP 2023, 355 Rn. 23; jeweils mwN).
+
+           a) Noch zutreffend hat das Berufungsgericht erkannt, dass eine Hinaus-
+47
+     kündigungsklausel im Rahmen eines Managementmodells, anders als teilweise
+     in Rechtsprechung und Literatur angenommen (vgl. etwa OLG München, NZG
+     2020, 903 Rn. 66; Haase/Dubiel, BB 2022, 1993, 1994; Krause/Uwase/Lasar, BB
+     2021, 1730, 1735; Nast, GmbHR 2020, 1188, 1189 f.; Schockenhoff, NZG 2018,
+                                           - 19 -
+
+
+
+     201, 203; wohl auch Wachter, EWiR 2020, 617, 618), nicht nur dann sachlich
+     gerechtfertigt sein kann, wenn sämtliche Kriterien erfüllt sind, auf die der Senat
+     in seiner Entscheidung vom 19. September 2005 (II ZR 173/04, BGHZ 164, 98,
+     Leitsatz 2 und 103 - Managermodell) für die sachliche Rechtfertigung der dorti-
+     gen Regelung abgestellt hat. Maßgeblich ist vielmehr eine Gesamtbetrachtung
+     sämtlicher Umstände des jeweiligen Einzelfalls, bei der die in der Senatsent-
+     scheidung genannten Kriterien einzubeziehen sind, aber keine zwingende Vor-
+     aussetzung darstellen (vgl. LG Duisburg, Urteil vom 18. Februar 2003
+     - 24 O 22/02, juris Rn. 65 ff.; LG Stuttgart, GmbHR 2019, 116, 119 f.; Heckschen/
+     Weitbrecht, NZG 2021, 757, 762; Höfer, GmbHR 2019, 120, 122 f.; Leuchten/
+     Swalve, NZG 2020, 1179, 1181). Welches Gewicht den einzelnen Kriterien bei
+     dieser Gesamtbetrachtung zukommt, hängt von der Ausgestaltung der Beteili-
+     gung im Übrigen ab. Entscheidend ist, ob die Gesellschafterstellung dem Mana-
+     ger bei Würdigung sämtlicher Umstände, etwa wegen seiner Geschäftsführer-
+     stellung, und zu einem mit dieser Stellung verbundenen Zweck eingeräumt
+     wurde, der mit der Beendigung seiner organ- oder dienstvertraglichen Bindung
+     oder Tätigkeit entfällt, und seiner mitgliedschaftlichen Beteiligung als Gesell-
+     schafter in Anbetracht ihrer Ausgestaltung auch im Übrigen keine eigenständige
+     Bedeutung gegenüber seiner Geschäftsführerstellung beizumessen ist.
+
+48          b) Das Berufungsgericht hat jedoch rechtsfehlerhaft angenommen, dass
+     die streitgegenständliche Hinauskündigungsklausel bei der gebotenen Gesamt-
+     würdigung wegen der Beteiligung des Klägers erst am Erlös einer Unterneh-
+     mensveräußerung und des von ihm übernommenen wirtschaftlichen Risikos
+     nicht sachlich gerechtfertigt sei.
+
+            aa) Nach den nicht angegriffenen Feststellungen des Berufungsgerichts
+49
+     wurde dem Kläger die streitgegenständliche Beteiligung nach dem Unterneh-
+     menskonzept der Beklagten infolge seiner Geschäftsführerstellung zu dem
+     Zweck eingeräumt, ihn als Geschäftsführer bzw. Manager der P.             Gruppe
+                                           - 20 -
+
+
+
+     stärker an das Unternehmen zu binden, seine Motivation zu steigern und even-
+     tuell auch seine Stellung als "geschäftsführender Gesellschafter" innerhalb des
+     Betriebs und nach außen aufzuwerten.
+
+            Das entspricht dem berechtigten Interesse eines Unternehmens und dem
+50
+     zentralen Anliegen eines Managementbeteiligungsprogramms, den Manager
+     durch Interessengleichlauf und Motivationssteigerung an das Unternehmen zu
+     binden (Mackensen in Eilers/Koffka/Mackensen/Paul/Josenhans, Private Equity,
+     4. Aufl., Kap. VI. Rn. 43). Endet dessen Organ- oder Anstellungsverhältnis, ist es
+     selbstverständlich, dass dieser die Beteiligung rechtfertigende Sinn - Bindung an
+     das Unternehmen, Motivationssteigerung und Belohnung für erfolgreichen Ein-
+     satz - entfällt. Nur durch die Rückübertragung wird der Gesellschaft zudem die
+     Möglichkeit eröffnet, den Nachfolger im Amt des Geschäftsführers in gleicher
+     Weise zu beteiligen und damit das Geschäftsmodell auf Dauer fortzuführen (vgl.
+     BGH, Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98, 103 - Ma-
+     nagermodell; speziell für Private Equity-Modelle Weitnauer, Handbuch Venture
+     Capital, 7. Aufl., Kap. E Rn. 224).
+
+51          (1) Diese Anreiz- und Bindungsfunktion ist, anders als das Berufungsge-
+     richt angenommen hat, nicht deswegen geringer zu gewichten, weil die Manager
+     nach Nr. 19 des Gesellschaftsvertrags nicht an den laufenden Gewinnen des
+     Unternehmens beteiligt werden sollten, sondern, wie typischer Weise bei Private-
+     Equitiy-Modellen, erst an dem Erlös bei der späteren Unternehmensveräußerung
+     (vgl. Gärtner, Der unfreiwillige Verlust der Gesellschafterstellung von Managern
+     und Mitarbeitern, 2014, S. 122 ff.; Schmolke, Grenzen der Selbstbindung im Pri-
+     vatrecht, 2014, S. 557; Böttcher, NZG 2005, 992, 995; Drinkuth, NJW 2006, 410,
+     413; Höfer, GmbHR 2019, 120, 123; Hohaus/Weber, NZG 2005, 961, 962 f.;
+     Hohaus, BB 2005, 1291, 1292; Hohaus/Weber, BB 2006, 2089, 2090;
+     Kästle/Heuterkes, NZG 2005, 289, 292; Leuchten/Swalve, NZG 2020, 1179,
+     1181; Miesen, RNotZ 2006, 522, 529; Müller-Bonanni/Link, Der Konzern 2006,
+                                           - 21 -
+
+
+
+     159, 160 f.; kritisch Nast, GmbHR 2020, 1188, 1189 f.). Zwar kann eine zukünf-
+     tige (Exit-)Erlösbeteiligung, anders als die Beteiligung am laufenden Gewinn,
+     nicht mit einer Tantiemezahlung verglichen werden, die eine laufende Belohnung
+     für die geleistete Arbeit darstellt und deren Wegfall bei Beendigung des zugrunde
+     liegenden Vertragsverhältnisses daher selbstverständlich ist (vgl. BGH, Urteil
+     vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98, 106 - Managermodell).
+     Die Anreiz- und Belohnungsfunktion einer Beteiligung (erst) an dem Erlös bei
+     einer Veräußerung des Unternehmens ist aber einer Bonuszahlung für den Fall
+     eines erfolgreichen Geschäftsabschlusses vergleichbar. Sie erklärt und rechtfer-
+     tigt sich insbesondere bei Private-Equity-Geschäftsmodellen aus der dem Mana-
+     ger bei Vertragsschluss bekannten Zielsetzung der Gesellschaftermehrheit, die
+     von Beginn an nicht auf eine dauerhafte Steigerung laufender Unternehmensge-
+     winne gerichtet ist, sondern auf eine Wertsteigerung des Unternehmens zur Er-
+     zielung eines möglichst hohen Veräußerungserlöses (vgl. Gärtner, Der unfreiwil-
+     lige Verlust der Gesellschafterstellung von Managern und Mitarbeitern, 2014,
+     S. 122 ff.; Drinkuth, NJW 2006, 410, 413; Hohaus/Weber, NZG 2005, 961, 962
+     f.; Hohaus/Weber, BB 2006, 2089, 2090; Kästle/Heuterkes, NZG 2005, 289, 292;
+     Sosnitza, DStR 2006, 99, 102 f.).
+
+
+52         Damit ist die Anreizstruktur bei einer Exit-Erlösbeteiligung auch nicht zwin-
+     gend risikoträchtiger als bei "konventionellen" Managementmodellen mit einer
+     Beteiligung am laufenden Gewinn des Unternehmens, da die Ertragslage der
+     Gesellschaft es auch bei einer laufenden Beteiligung bedingen kann, dass der
+     Manager keine oder nur geringe Ausschüttungen erhält. Auch in einem solchen
+     Fall entfällt die Rechtfertigung der Hinauskündigungsklausel nicht etwa nachträg-
+     lich, weil die erwartete Belohnung des Managers teilweise ausgeblieben ist (vgl.
+     Gärtner, Der unfreiwillige Verlust der Gesellschafterstellung von Managern und
+     Mitarbeitern, 2014, S. 122; Sosnitza, DStR 2006, 99, 102).
+                                          - 22 -
+
+
+
+53         (2) Der Annahme einer rechtfertigenden Anreizfunktion steht auch nicht
+     entgegen, dass der Wert der Beteiligung des Klägers bzw. sein Exit-Erlösanteil
+     nicht allein von dem Erfolg seiner eigenen Geschäftsführertätigkeit bei der M.
+     GmbH abhing, sondern gleichermaßen von dem der anderen Tochtergesell-
+     schaften der P.    Gruppe, weil auch dann noch für ihn der Anreiz bestand,
+     jedenfalls den eigenen bestmöglichen Beitrag zur Wertsteigerung des Unterneh-
+     mens zu leisten.
+
+
+54         bb) Anders als vom Berufungsgericht angenommen, kommt der mitglied-
+     schaftlichen Gesellschafterstellung des Klägers auch nicht wegen des von ihm
+     damit übernommenen wirtschaftlichen Risikos eine eigenständige Bedeutung
+     neben seiner Geschäftsführerstellung zu.
+
+
+55         Die sachliche Rechtfertigung einer Hinauskündigungsklausel im Rahmen
+     eines Managementmodells setzt nicht zwingend voraus, dass der Manager kein
+     oder nur ein geringes wirtschaftliches Risiko übernimmt (vgl. LG Stuttgart,
+     GmbHR 2019, 116, 119 f.; MünchHdbGesR IX/Cramer, 6. Aufl., § 34 Rn. 21 mit
+     Fn. 70; Böttcher, NZG 2005, 992, 995; Heckschen/Weitbrecht, NZG 2021, 757,
+     761 f.; Höfer, GmbHR 2019, 120, 122 f.; Müller-Bonanni/Link, Der Konzern 2006,
+     159,163 f.; im Ergebnis wohl auch Weitnauer, Handbuch Venture Capital, 7. Aufl.,
+     Kap. E Rn. 116, 224; Schockenhoff, NZG 2018, 201, 204 f.; aA OLG München,
+     NZG 2020, 903 Rn. 66; kritisch Nast, GmbHR 2020, 1188, 1189 f.).
+
+
+56         Zutreffend ist, dass der Kläger ein größeres wirtschaftliches Risiko über-
+     nommen hat als der Geschäftsführer in der Managementmodell-Entscheidung
+     des Senats (BGH, Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98).
+     Da er seine Beteiligung nicht zum Nenn-, sondern zum Verkehrswert erworben
+     hat und im Fall seines Ausscheidens aufgrund der vereinbarten Abfindungsklau-
+     sel ebenfalls maximal den Verkehrswert der Beteiligung erhält, trägt er nicht nur
+     das Insolvenzrisiko der Gesellschaft, sondern auch das Risiko einer negativen
+                                           - 23 -
+
+
+
+     Geschäftsentwicklung, weil der für den Rückkaufpreis maßgebliche aktuelle Ver-
+     kehrswert der Anteile, wie hier, auch niedriger sein kann als der von ihm geleis-
+     tete Einkaufspreis. Hinzu kommt, dass der Kläger mangels Beteiligung am lau-
+     fenden Gewinn der Gesellschaft auch zuvor noch keinen Ausgleich für die von
+     ihm als Gesellschafter eingebrachten Leistungen erhalten hat.
+
+
+57         Die vom Kläger damit übernommene Stellung eines Mitinvestors einer
+     Gesellschaft mit Gewinnthesaurierung und das damit verbundene unternehmeri-
+     sche Risiko reichen aber nicht aus, um seiner Beteiligung bei der gebotenen
+     Gesamtwürdigung konzeptionell ein eigenständiges Gewicht beizumessen (vgl.
+     LG Stuttgart, GmbHR 2019, 116, 119 f.; Heckschen/Weitbrecht, NZG 2021, 757,
+     761 f.; Höfer, GmbHR 2019, 120, 122 f.). Insoweit ist bei der gebotenen Gesamt-
+     würdigung zu berücksichtigen, dass der Wahrnehmung der gesellschafterlichen
+     Mitgliedschaftsrechte durch den Kläger nach der Gesamtkonzeption seiner Be-
+     teiligung, insbesondere im Hinblick auf die Anknüpfung der Beteiligung an seine
+     Geschäftsführerstellung, kein besonderes Gewicht zukam. Die Möglichkeit,
+     durch Ausübung seiner Mitgliedschaftsrechte als Kommanditist der P.
+        KG seine eigenen Vorstellungen eventuell auch gegen den Willen der
+     anderen Gesellschafter durchzusetzen oder effektiv Einfluss auf die Geschäfts-
+     führung der Gesellschaft zu nehmen, war für ihn nach den gesetzlichen und ver-
+     traglichen Regelungen praktisch ausgeschlossen. Die Revision weist zutreffend
+     darauf hin, dass Grundlagenentscheidungen nach Nr. 16.5 und Nr. 21.2 des Ge-
+     sellschaftsvertrags der P.          KG stets der Zustimmung der Komple-
+     mentärin sowie der Beklagten zu 1 und des Beklagten zu 2 bedurften. Erst recht
+     bestand für den Kläger keine Möglichkeit einer effektiven Einflussnahme auf die
+     operativ tätige P.      Group GmbH, an der die P.                 KG selbst nur
+     mit 1,28% und der Kläger somit mittelbar nur mit 0,38% beteiligt war. Dies gilt vor
+     dem Hintergrund, dass auch und gerade diese Form der Einbindung mit Über-
+     nahme eines unternehmerischen Risikos dem berechtigten Zweck der Gesell-
+     schaft dient, das Management dazu anzuhalten, schon im wohlverstandenen
+                                           - 24 -
+
+
+
+     eigenen Interesse keine unverantwortlich riskanten Geschäfte zu tätigen. Auch
+     der das Hinauskündigungsverbot tragende Damoklesschwert-Gedanke steht
+     dem nicht entgegen. Im Gegenteil: Wer ein wirtschaftliches Risiko trägt, wird trotz
+     des drohenden Verlusts der Gesellschafterstellung eher zu einer konfliktträchti-
+     gen Ausübung seiner Rechte neigen als ein Gesellschafter, der nicht in dem Aus-
+     maß im Risiko steht (vgl. Grunewald, ZIP 2021, 433, 436).
+
+
+58         Ob die dem Kläger im Fall seiner Hinauskündigung nach Nr. 20 des Ge-
+     sellschaftsvertrags der P.        KG zu zahlende Abfindung (bzw. der Kauf-
+     preis nach Ausübung der Call Option) unangemessen niedrig ist, weil ihm damit
+     unter Umständen selbst als Good Leaver nicht einmal eine angemessene Beloh-
+     nung für eine von ihm geleistete erfolgreiche Geschäftsführertätigkeit zustehen
+     könnte, ist für die Wirksamkeit der Hinauskündigungsklausel ohne Bedeutung,
+     sondern lediglich für die Wirksamkeit der Abfindungsklausel von Belang (vgl.
+     BGH, Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98, 104
+     - Managermodell mwN). Für die Wirksamkeit der Hinauskündigungsklausel ist
+     entscheidend, ob die damit grundsätzlich verbundene Gefahr für die freie Wahr-
+     nehmung der Mitgliedschaftsrechte und -pflichten durch den betroffenen Gesell-
+     schafter ausnahmsweise aufgrund der besonderen Umstände seiner Beteiligung
+     (ihrer Begründung, Ausgestaltung und/oder Funktion) sachlich gerechtfertigt ist.
+     Ist das der Fall, rechtfertigt das entgegen der Ansicht des Berufungsgerichts
+     auch, dass ihm mit der Hinauskündigungsklausel die Möglichkeit genommen
+     wird, über die Fortsetzung seiner Investition in die Gesellschaft mitzuentschei-
+     den. Ob ihm im Fall der Hinauskündigung eine angemessene Abfindung für seine
+     Investition gewährt wird, spielt für diese Beurteilung hingegen keine Rolle.
+
+
+59         cc) Keinen Anlass zu einer anderen Beurteilung gibt schließlich der Um-
+     stand, dass die Beklagten es, wie die Revisionserwiderung meint, durch die Wahl
+     des Zeitpunkts der Abberufung in der Hand hätten, bei einem absehbaren Exit
+                                            - 25 -
+
+
+
+     eine volle Beteiligung des Klägers zu torpedieren oder, wovon das Berufungsge-
+     richt ausgeht, seine Beteiligung an der Gesellschaft mit der Folge eines sofort
+     eintretenden erheblichen Verlusts sofort zu beenden. Dieser (Missbrauchs-)
+     Gefahr kann hinreichend und angemessen im Rahmen der anschließenden Aus-
+     übungskontrolle (über § 162 Abs. 2 BGB oder § 242 BGB) begegnet werden
+     (Höfer, GmbHR 2019, 120, 123).
+
+
+60             5. Die Entscheidung des Berufungsgerichts erweist sich auch nicht aus
+     anderen Gründen als richtig (§ 561 ZPO).
+
+61             a) Andere Umstände, aufgrund derer die vereinbarte Call Option als sit-
+     tenwidrig gemäß § 138 Abs. 1 BGB anzusehen sein könnte, sind nicht festge-
+     stellt.
+
+
+62             b) Der Einwand der Revisionserwiderung, Nr. 19 des Gesellschaftsver-
+     trags der P.           KG baue einen unzulässigen Druck auf den Geschäfts-
+     führer auf, seine Geschäftsführertätigkeit bis zum Vollzug eines Exits nicht zu
+     kündigen, weil er andernfalls die Früchte auch einer bis dahin erfolgreichen
+     Geschäftsführertätigkeit nicht ernten und es möglicherweise hinnehmen müsse,
+     seine Beteiligung wegen des zwischenzeitlich gesunkenen Verkehrswerts unter
+     dem von ihm gezahlten Einkaufspreis zurück zu übertragen, greift nicht durch.
+
+
+63             Es kann dahinstehen, ob dieser Einwand im Rahmen von § 138 BGB oder
+     bei Prüfung eines etwaigen Verstoßes gegen §§ 134, 622 Abs. 6 BGB zu würdi-
+     gen wäre (vgl. BGH, Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164,
+     98, 105 - Managermodell). Der Einwand greift jedenfalls in der Sache nicht durch,
+     weil dem damit geltend gemachten Druck, durch eine möglicherweise unange-
+     messene Abfindung von einer (Eigen-)Kündigung vor Vollzug des Exits abgehal-
+                                          - 26 -
+
+
+
+     ten zu werden, wie oben dargelegt, richtigerweise nicht durch eine Wirksamkeits-
+     prüfung der Hinauskündigungsklausel, sondern der damit verbundenen Abfin-
+     dungsregelung Rechnung zu tragen ist.
+
+
+64           c) Ohne Erfolg macht die Revisionserwiderung schließlich auch geltend,
+     die maßgeblichen Regelungen zur Hinauskündigungsklausel seien unklar und
+     missverständlich, weil sich der Kaufpreis bei Ausübung der Hinauskündigungs-
+     klausel je nach den Umständen der Optionsausübung unterschiedlich errechne,
+     die Voraussetzungen für eine Einordnung als Good Leaver oder als Bad Leaver
+     aber ebenso wie die konkrete Berechnung der Höhe des Kaufpreises in hohem
+     Maße unklar seien.
+
+
+65           Angesichts der grundsätzlich gebotenen Unterscheidung zwischen der
+     Wirksamkeit der Hinauskündigungs- und der Abfindungsklausel ist bereits zwei-
+     felhaft, ob eine (unterstellt) unklare Abfindungsregelung überhaupt zur Unwirk-
+     samkeit einer sachlich gerechtfertigten Hinauskündigungsklausel führen könnte.
+     Letztlich kommt es aber auch darauf nicht an, weil die hiesige Regelung in Nr. 19
+     des Gesellschaftsvertrags der P.              KG für einen unternehmerisch
+     erfahrenen Geschäftsführer, wie den anwaltlich beratenen Kläger, ausreichend
+     verständlich ist.
+
+
+66           III. Die Berufungsentscheidung ist danach aufzuheben (§ 562 Abs. 1
+     ZPO). Die Sache ist zur neuen Verhandlung und Entscheidung zurückzuverwei-
+     sen, weil sie noch nicht zur Endentscheidung reif ist (§ 563 Abs. 1 Satz 1 und 3
+     ZPO).
+
+67           Das Berufungsgericht hat, von seinem Standpunkt folgerichtig, nicht ge-
+     prüft, ob die Ausübung der Call Option durch die Beklagten im Einklang mit § 242
+     BGB erfolgt ist (vgl. dazu BGH, Urteil vom 8. März 2004 - II ZR 165/02, ZIP 2004,
+                                    - 27 -
+
+
+
+903, 905). Eine eigene Beurteilung ist dem Senat mangels ausreichender Fest-
+stellungen nicht möglich. Die Sache ist daher an das Berufungsgericht zurückzu-
+verweisen, damit dieses Gelegenheit erhält, die erforderlichen Feststellungen,
+eventuell nach ergänzendem Vortrag der Parteien, zu treffen und die gebotene
+Ausübungskontrolle nachzuholen.
+
+
+Born                                Wöstmann                     B. Grüneberg
+
+
+                Sander                             von Selle
+
+
+
+
+Vorinstanzen:
+LG Augsburg, Entscheidung vom 22.11.2023 - 1 HKO 761/23 -
+OLG München, Entscheidung vom 23.5.2024 - 14 U 5289/23 e -
+                                   - 28 -
+
+
+
+Verkündet am:
+
+10. Februar 2026
+
+Donabauer, Justizangestellte
+
+als Urkundsbeamtin der Geschäftsstelle
+

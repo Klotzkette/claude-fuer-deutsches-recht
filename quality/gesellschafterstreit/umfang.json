@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-09",
+  "source_dates": [
+    "2026-10-08",
+    "2026-10-09"
+  ],
+  "font": "Times New Roman",
+  "skills": [
+    {
+      "skill": "abberufung-und-anstellung-pruefen",
+      "title": "Abberufung und Anstellung getrennt prüfen",
+      "source": "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md",
+      "source_sha256": "f36508889cc158468d66caadeece01c9f5a4f162c368a1f17dda34701508b961",
+      "words": 543,
+      "utf8_bytes": 5526,
+      "pages": 2,
+      "pdf": "abberufung-und-anstellung-pruefen.pdf",
+      "pdf_sha256": "ae1296304ad2572ced69882bf9c9262240e40f2e4715684a645d7bc451860661",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "austritt-und-verkauf-verhandeln",
+      "title": "Verkauf und Vergleich verhandeln",
+      "source": "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md",
+      "source_sha256": "a6c2cb017ab37deae2e8a52518c429491f088569127cdef7cd2eb923ca58dcd4",
+      "words": 583,
+      "utf8_bytes": 5921,
+      "pages": 2,
+      "pdf": "austritt-und-verkauf-verhandeln.pdf",
+      "pdf_sha256": "513cd7906b59d5e5001a3ec0af484f52602f5dd2a5e157b79a2de8e921298b13",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "beschluesse-angreifen-und-sichern",
+      "title": "Beschlüsse angreifen und Vollzug sichern",
+      "source": "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md",
+      "source_sha256": "1dbc1cb5425e054f4a9d4494ba82d8d5bb6b074ab75ca23c80d5bc7f502ecb7e",
+      "words": 662,
+      "utf8_bytes": 6362,
+      "pages": 2,
+      "pdf": "beschluesse-angreifen-und-sichern.pdf",
+      "pdf_sha256": "1d93794827b038ef0405db7252365dc3d0a1e2d64cf48d9ce2371c9bc947509f",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "darlehen-und-vertretung-pruefen",
+      "title": "Darlehen und Vertretung prüfen",
+      "source": "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md",
+      "source_sha256": "d55a35d1efb3c43fc6e00f55e1ed7a0c0a6dff7f173e157f503993f845ba10fc",
+      "words": 607,
+      "utf8_bytes": 5890,
+      "pages": 2,
+      "pdf": "darlehen-und-vertretung-pruefen.pdf",
+      "pdf_sha256": "5a048a684f91a0925200b6b08e5cdee2af818b245bee00f22414eccc7a9c837a",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "einziehung-und-ausschluss-pruefen",
+      "title": "Einziehung und Ausschluss prüfen",
+      "source": "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md",
+      "source_sha256": "6789b7c9bf1b0d8c0e4b8c16124ee409fa6ceb0c8aed228239def1092113d481",
+      "words": 643,
+      "utf8_bytes": 6406,
+      "pages": 2,
+      "pdf": "einziehung-und-ausschluss-pruefen.pdf",
+      "pdf_sha256": "d18b677d08687b711bb7c3e2222f84acb0ccd93ccd764904f5c2e1fe2431723a",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "gesellschafterstreit-loesen",
+      "title": "Gesellschafterstreit geordnet lösen",
+      "source": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
+      "source_sha256": "a34243d57429b784ae2eee4bf68cb77caca7b7fe61304f4659149d2cfd8644fa",
+      "words": 648,
+      "utf8_bytes": 6977,
+      "pages": 2,
+      "pdf": "gesellschafterstreit-loesen.pdf",
+      "pdf_sha256": "7de6d9b1de650bf983aa41d63dde6ab13f86eaf0ae4793f6b0bb6f649ecd8e5c",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "kapitalerhoehung-und-bezugsrechte-pruefen",
+      "title": "Kapitalerhöhung und Bezugsrechte prüfen",
+      "source": "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md",
+      "source_sha256": "f7c61c17e8a5c7865b63e9c15b1731e56cec4df1cd6f92f80bf700250a83a419",
+      "words": 568,
+      "utf8_bytes": 5703,
+      "pages": 2,
+      "pdf": "kapitalerhoehung-und-bezugsrechte-pruefen.pdf",
+      "pdf_sha256": "725b22b80198c25aedc4f65a3029d47c6e4033894980f11d02c1d2e2cc651ded",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "stimmen-und-mehrheiten-pruefen",
+      "title": "Stimmen und Mehrheiten prüfen",
+      "source": "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md",
+      "source_sha256": "405b0bfc006a2ef0896fd91626473631407b714df707431d19ebe930e278b0a0",
+      "words": 613,
+      "utf8_bytes": 5722,
+      "pages": 2,
+      "pdf": "stimmen-und-mehrheiten-pruefen.pdf",
+      "pdf_sha256": "569497ea5b0e693e2a4fc83192481a42d5b20e4555934c5cb0f609d1595cb491",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "streitstand-und-fristen-klaeren",
+      "title": "Streitstand und Fristen klären",
+      "source": "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md",
+      "source_sha256": "46e76d25ea3205a34d9f8de0af8fb38bdd1b7530b7b03dfea11ca6c8bd5567a7",
+      "words": 548,
+      "utf8_bytes": 5328,
+      "pages": 2,
+      "pdf": "streitstand-und-fristen-klaeren.pdf",
+      "pdf_sha256": "6584a4d449a9a15ed8daf9e156284d0ba72ed183ff42fcfae77e35ad362f519c",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "versammlung-und-tagesordnung-vorbereiten",
+      "title": "Versammlung und Tagesordnung vorbereiten",
+      "source": "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md",
+      "source_sha256": "6a26a686c2a441f09654a2970e78e96e77ddbc4046c14a1e4ef9988c417f4b0f",
+      "words": 552,
+      "utf8_bytes": 5523,
+      "pages": 2,
+      "pdf": "versammlung-und-tagesordnung-vorbereiten.pdf",
+      "pdf_sha256": "186449d9e1e644953a071a4c76e89e8486ed624e7d1a4b9a8e4b39d6043555c4",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "wettbewerb-und-wissen-sichern",
+      "title": "Wettbewerb prüfen und Wissen sichern",
+      "source": "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md",
+      "source_sha256": "af5871faf92e41122bfd94c6c870ec874f8b05b00793c2fd214b74da40700f81",
+      "words": 589,
+      "utf8_bytes": 5878,
+      "pages": 2,
+      "pdf": "wettbewerb-und-wissen-sichern.pdf",
+      "pdf_sha256": "5c0ca0c84597ed745e622bcdc88a09da5af6daa85993ccc7456f4f75baaf121e",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    }
+  ],
+  "skill_count": 11,
+  "handbook_pages": 22,
+  "workshop": {
+    "skill": "gesellschafterstreit",
+    "title": "1. Gesellschafterstreit – Werkstatt",
+    "source": "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+    "source_sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a",
+    "words": 11510,
+    "utf8_bytes": 103227,
+    "pages": 27,
+    "pdf": "gesellschafterstreit-werkstatt-lesefassung.pdf",
+    "pdf_sha256": "c1a3157472c00fd8b9de7f0e7b5d02530f98b3b05aa241d33f2d9f7a6dd64f2f",
+    "body_text_coverage": "all rendered source text segments present in source order"
+  }
+}

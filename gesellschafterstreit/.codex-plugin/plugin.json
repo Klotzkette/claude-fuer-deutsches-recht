@@ -1,6 +1,6 @@
 {
   "name": "gesellschafterstreit",
-  "version": "445.33.1",
+  "version": "445.34.1",
   "description": "Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.",
   "author": {
     "name": "Klotzkette",
@@ -20,7 +20,7 @@
   "repository": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "interface": {
     "displayName": "Gesellschafterstreit",
-    "shortDescription": "Streit in GmbH und UG gezielt bearbeiten.",
+    "shortDescription": "Streit in GmbH und UG lösen",
     "longDescription": "Gesellschafterstreit in GmbH und UG bearbeiten: Stimmverbote, Kapitalerhöhung, Geschäftsführer, Wettbewerb, Darlehen, Einziehung und Rechtsschutz mit belegt begründeten Anträgen und Vergleich.",
     "developerName": "Klotzkette",
     "category": "Productivity",

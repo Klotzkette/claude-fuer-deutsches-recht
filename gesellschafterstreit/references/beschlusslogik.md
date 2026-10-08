@@ -47,3 +47,19 @@ Prüfe bei einer auf gemeinschaftliches Fehlverhalten gestützten Abberufung auc
 ## 1.8. Satzungsstichtage genau belegen
 
 Satzungszitate gehen einer freien Stichtagsannahme vor: Bewertungsstichtag, Zinsbeginn, Bekanntgabe und Wirksamkeitszeitpunkt mit dem jeweils einschlägigen Wortlaut belegen. Ein ausdrücklicher Bewertungsstichtag „Beschlusstag“ wird nicht durch einen späteren Protokollzugang ersetzt.
+
+## 1.9. Verfahrenserklärung und Sachstimme
+
+Bei Beschlüssen außerhalb einer Versammlung sind zwei Erklärungen auseinanderzuhalten: das notwendige Einverständnis mit der Verfahrensform und die Stimme zum sachlichen Antrag. Ein Stimmverbot wegen eines Geschäfts mit der Gesellschaft betrifft die Sachentscheidung; die betroffene Person darf nicht deshalb aus einem gesetzlich oder satzungsmäßig nötigen allseitigen Verfahrenseinverständnis entfernt werden. Erklärende Person, Rechtsträger, Vertretungsrolle und Form für jede Erklärung festhalten.
+
+Der aktuelle § 48 Abs. 2 GmbHG nennt Textform auch für die Stimmabgabe. GS-16, Rn. 21–28, betrifft dagegen die Auslegung einer besonderen Satzungsregel, die fernmündliches Einverständnis und fernmündliche Sachstimmen außerhalb einer Versammlung zuließ. Dann können auch mündliche oder konkludente Erklärungen erfasst sein. Die Entscheidung erlaubt keine formlose Mehrheitsentscheidung gegen einen übergangenen Gesellschafter. Die bloße Mitwirkung an einem Vertrag muss darauf untersucht werden, in welcher Rolle die Person handelte und welche Erklärung damit tatsächlich verbunden war.
+
+## 1.10. Mehrheitsrechnung mit Gegenprobe
+
+Bei 50 Ja, 25 Nein und 25 Enthaltungen sind unter dem gesetzlichen Nenner gültig abgegebener Stimmen 75 Stimmen maßgeblich; 50/75 erreicht keine Dreiviertelmehrheit. Besteht für die 25 Nein-Stimmen tatsächlich ein Stimmverbot, verbleiben 50/50, sofern kein weiteres Satzungsquorum entgegensteht. Eine bloß behauptete Stimmsperre darf diesen Wechsel nicht verdecken. Für Anwesenheitsquoren oder Mehrheiten des gesamten Stammkapitals ist separat zu rechnen.
+
+Genau 25 Prozent sind bei voller Abstimmung gegen 75 Prozent Ja keine Sperrminorität für ein Dreiviertelerfordernis. Ein Sonderrecht, höheres Satzungsquorum oder zusätzliches Zustimmungserfordernis kann das Ergebnis ändern. Die Zustimmung bei vermehrten gesellschaftsvertraglichen Leistungen nach § 53 Abs. 4 GmbHG lässt sich nicht durch eine günstige Prozentrechnung ersetzen.
+
+## 1.11. Mehrere Regelungsinstrumente
+
+Satzung, schuldrechtliche Gesellschaftervereinbarung und Geschäftsordnung haben unterschiedliche Bindungswirkung. Für jede Klausel Rechtsträger, Verpflichtete, zuständiges Organ, Änderungsmehrheit, Beitritt und Form feststellen. Eine vertragliche Stimmbindung ändert nicht für sich die satzungsmäßige Stimmgewichtung. Die Verletzung einer Nebenabrede macht einen Beschluss nicht ohne zusätzliche Begründung unwirksam. Ist ein Veto oder ein Leaver-Mechanismus nur in der Nebenabrede vereinbart, seine schuldrechtliche Durchsetzung, mögliche Treuepflichtfolgen und erforderliche notarielle Form eigenständig prüfen.

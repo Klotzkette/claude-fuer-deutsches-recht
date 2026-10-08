@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-09",
+  "total_pages": 160,
+  "cases": [
+    {
+      "path": "testakten/gesellschafterstreit-klageerwiderung-berlin/gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf",
+      "pages": 46,
+      "toc": 41,
+      "bad": [],
+      "empty": [],
+      "visual_pages": [
+        1,
+        2,
+        26,
+        44
+      ]
+    },
+    {
+      "path": "testakten/gesellschafterstreit-shareholder-agreement-muenchen/gesamt-pdf/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf",
+      "pages": 42,
+      "toc": 39,
+      "bad": [],
+      "empty": [],
+      "visual_pages": [
+        1,
+        2,
+        22,
+        40
+      ]
+    },
+    {
+      "path": "testakten/gesellschafterstreit-zink-und-zunder/gesamt-pdf/gesellschafterstreit-zink-und-zunder_gesamt.pdf",
+      "pages": 72,
+      "toc": 59,
+      "bad": [],
+      "empty": [],
+      "visual_pages": [
+        1,
+        2,
+        52,
+        70
+      ]
+    }
+  ],
+  "actually_viewed": [
+    "Berlin Gesamt-PDF Seite2 Register,44Excel",
+    "München Gesamt-PDF Seite22Brief,40Excel",
+    "Zink und Zunder Gesamt-PDF Seite52Brief,70Excel"
+  ],
+  "note": "visual_pages in den Einträgen bezeichnet erzeugte Vorschaubilder; actually_viewed bezeichnet tatsächlich zusätzlich von der Hauptprüfung geöffnete Bilder. Alle18Briefseiten und6Excel-Druckseiten wurden zuvor vom Aktenautor angesehen.",
+  "result": "Keine leeren Seiten oder Textspannen außerhalb der Seitengrenzen; ausgewählte Ansichten lesbar."
+}

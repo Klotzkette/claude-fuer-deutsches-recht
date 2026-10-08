@@ -99,6 +99,7 @@ def main() -> int:
         "Zusätzliche Komponenten: Die [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) veröffentlicht ihre drei Rollenpakete, Prompts und sieben Akten separat. Die folgenden allgemeinen Sammelarchive stammen aus dem letzten Gesamtrelease und enthalten diese Erweiterung noch nicht. Die Plugin-Einzelzeilen unten verweisen bereits auf die aktuellen Komponentendownloads.",
         "",
         "[Betreuungsrecht 445.33.3](./betreuungsrecht/README.md) ergänzt den Unterlagen-Auswerter, eine [eigenständige Unterlagen-Werkstatt](./betreuungsrecht/betreuungsrecht-unterlagen-werkstatt.md), eine [Excel-Vorlage](./betreuungsrecht/templates/unterlagen-abrechnung.xlsx) und die Dreijahresakte Adelheid Pfister. Auch diese Erweiterung wird als eigenes Komponentenrelease veröffentlicht und ist noch nicht in den älteren Sammelarchiven enthalten.",
+        "[Gesellschafterstreit 445.34.1](./gesellschafterstreit/README.md) vertieft elf Skills, drei Prompts und die drei bestehenden Testakten. Die aktualisierten Einzel-ZIPs und Lesefassungen stehen im eigenen Komponentenrelease; ältere Sammelarchive bleiben unverändert.",
         "[Geldwäschebeauftragter 445.34.0](./geldwaeschebeauftragter/README.md) ergänzt elf Skills, drei eigenständige Prompts und drei Akten für Unternehmen, Kanzlei und Notariat. Das eigene Komponentenrelease ist noch nicht in den älteren Sammelarchiven enthalten.",
         "",
         "",

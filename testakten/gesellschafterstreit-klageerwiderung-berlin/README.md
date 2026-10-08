@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-klageerwiderung-berlin_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -83,3 +83,16 @@ Personen, Unternehmen, Geschäftszeichen und Vorgänge sind erfunden. Die Kontak
 Berlin: A stage-lighting company needs a defence against a shareholder’s challenge to his removal as managing director. The records include the claim, court directions, service record, articles, minutes, invoice, delivery record and correspondence.
 
 The two cases are separate matters for one sixty-minute session. Each has a limited core reading set and additional evidence. No model defence or completed shareholders’ agreement is included.
+
+<!-- BEGIN gesellschafterstreit-nachtrag -->
+## 1.5 Vertiefung mit Nachtrag vom 8 Oktober 2026
+
+Der ursprüngliche Aktenstand vom 2. Oktober und die Kernunterlagen bleiben erhalten. Der zusätzliche Bestand führt denselben Fall bis zum 8. Oktober 2026 fort: sechs ausformulierte DOCX jeweils mit PDF-Lesefassung, sechs E-Mails mit echten Anhängen, eine Formelarbeitsmappe und ein ergänzender Chat.
+
+Beginnen Sie mit N07 und N01. Vergleichen Sie die neue Gerätezuordnung mit dem alten Wareneingang und der Behauptung in der Klage. Für den kurzen Termin genügt anschließend N13; N02 bis N06 dienen der Vertiefung.
+
+[Nachtrag und Dateiverzeichnis](Nachtrag_2026-10-08/README.md)
+
+Beim ursprünglichen Kurztermin genügen die Kernunterlagen. Für die Vertiefung werden widersprechende Erinnerungen, Zahlungsvorgänge und offene Verhandlungspositionen hinzugezogen. Die beiden Aktenstände sind ausdrücklich zu unterscheiden.
+
+<!-- END gesellschafterstreit-nachtrag -->
