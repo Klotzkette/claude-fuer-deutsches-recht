@@ -1,0 +1,21 @@
+ref;konto;datum;betrag_cent;gegenpartei;verwendungszweck;quelle;seite;transfer;zahlungsart;kategorie;pruefstatus
+B0532;GIRO;03.09.2026;-82000;Hausverwaltung Lindenblatt KG;Warmmiete Fliederbogen 17 / 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0533;GIRO;07.09.2026;-7900;Nordlicht Energie Berlin GmbH;Abschlag Kundennummer NE-48017 / 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0534;GIRO;08.09.2026;-4499;Sprechfink Telekom GmbH;Festnetz und Internet SP-118044 / 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0542;GIRO;09.09.2026;-2990;Glücksfenster Service GmbH;Teilnahmeservice GF-90335 / 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0577;GIRO;10.09.2026;-65000;Geldautomat Karow;Bargeldauszahlung Karte 0441, Terminal KA-03;GIRO_2026-09.pdf;1;;Bargeldabhebung;Verwendung offen;Kassenbestand/Verwendung offen
+B0543;GIRO;11.09.2026;-6990;LebensKompass Direkt GmbH;Digitalpaket LK-55771 / 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0535;GIRO;14.09.2026;-12650;Alltagshilfe Mohnblüte GmbH;Haushaltshilfe Rechnung MH-2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0536;GIRO;14.09.2026;-26295;Frischemarkt Karow;Kartenzahlung Lebensmittel, Belegserie FK 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0537;GIRO;15.09.2026;-2805;Apotheke Silberblatt;Zuzahlung und Pflegebedarf 2026-09;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0538;GIRO;18.09.2026;-20000;Geldautomat Karow;Bargeldauszahlung Karte 0441, Terminal KA-03;GIRO_2026-09.pdf;1;;Bargeldabhebung;Verwendung offen;Kassenbestand/Verwendung offen
+B0578;GIRO;18.09.2026;-8900;Glücksfenster Service GmbH;Gebühr Sonderziehung GF-90335;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0539;GIRO;21.09.2026;-4850;Tierladen Pfötchen;Futter und Streu für Kater Mürbchen;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0545;GIRO;21.09.2026;-1500;Kirchengemeinde Am Fliederbogen;Gemeindespende;GIRO_2026-09.pdf;1;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0546;GIRO;21.09.2026;-25000;Adelheid Pimpernell Sparen;Umbuchung auf eigenes Sparkonto;GIRO_2026-09.pdf;2;T-2026-09-21-250;Umbuchung;eigene Konten;Gegenbuchung belegt
+B0540;GIRO;22.09.2026;-1299;SofaKino Digital GmbH;Monatsabo SK-77380 / 2026-09;GIRO_2026-09.pdf;2;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0544;GIRO;24.09.2026;-14500;Egon Knusper;Pauschale Einkauf und Technik 2026-09;GIRO_2026-09.pdf;2;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0530;GIRO;28.09.2026;208000;Rentenstelle Nord;Altersrente 2026-09;GIRO_2026-09.pdf;2;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0531;GIRO;28.09.2026;48500;Rentenstelle Nord;Hinterbliebenenrente 2026-09;GIRO_2026-09.pdf;2;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0541;GIRO;28.09.2026;-690;Fensterbank Spree eG;Kontoführung 2026-09;GIRO_2026-09.pdf;2;;Kontobuchung;laut Verwendungszweck;Zahlung belegt, Rechtsgrund gesondert
+B0547;SPAR;21.09.2026;25000;Adelheid Pimpernell Giro;Umbuchung vom eigenen Girokonto;SPAR_2026-09.pdf;1;T-2026-09-21-250;Umbuchung;eigene Konten;Gegenbuchung belegt

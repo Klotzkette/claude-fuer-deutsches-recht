@@ -8,6 +8,8 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
+Neu im [Betreuungsrecht](./betreuungsrecht/README.md): Ein eigener Unterlagen-Auswerter und eine große separate Werkstatt führen zur Excel-Abrechnung und zu passenden Anschreiben. Die [Dreijahresakte Adelheid Pimpernell](./testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung/README.md) ergänzt die vorhandenen Betreuungsfälle. Die Erweiterung steht im [Komponentenrelease 445.33.2](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/betreuungsrecht-v445.33.2); ältere Sammelarchive enthalten sie noch nicht.
+
 Neu: Die [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) ist als getrennte Kopie mit drei Rollen-Plugins eingebunden: Vergabestelle, Bieter und Konkurrentenrechtsschutz. 255 Skills, eigenständige Werkstatt- und Mini-Prompts sowie sieben Fallakten bleiben zusammen in ihrem eigenen Verzeichnis. Die drei Rollen sind über denselben Marketplace einzeln installierbar. Downloads stehen im [eigenen Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/vergaberecht-werkstatt-v445.33.1); ältere allgemeine Sammelarchive enthalten diese Erweiterung noch nicht. Bestehende Vergabepakete bleiben erhalten.
 
 English: The separate [procurement workshop](./vergaberecht-werkstatt/README.md) contains three role-specific plugins, 255 skills, standalone prompts and seven practice files. Install one matching role through this marketplace or use the [component downloads](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/vergaberecht-werkstatt-v445.33.1). Older all-in-one archives do not yet include this addition. The complete copy retains its own source and licensing information.
@@ -143,13 +145,13 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
 | **Plugins** | 290 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 23158 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Skills** | 23159 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
 | **Werkstatt-Prompts** | 288 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
 | **Schnellstart-/Mini-Prompts** | 287 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 486 zentral / 496 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Testakten** | 487 zentral / 497 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23158 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23159 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -187,8 +189,8 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 290 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 23158: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 486 zentral / 496 gesamt |
+| **Skills (SKILL.md)** | 23159: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 487 zentral / 497 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |

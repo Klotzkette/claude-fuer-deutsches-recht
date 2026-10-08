@@ -69,9 +69,10 @@
       "Jahresbericht nach Paragraf 1863 und Rechnungslegung nach Paragraf 1865 BGB getrennt; Dokumentenstart und Fortsetzung erhalten.",
       "Leer: Wohnungsentscheidung, Vermögensverzeichnis oder Gerichtsbericht. Dateien: still lesen und passendes Betreuungsdokument anbieten. Klar: direkt bestelltes Schreiben oder Verzeichnis erstellen.",
       "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Beteiligungs- und Rechtsmittelgrenze im Mini."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Beteiligungs- und Rechtsmittelgrenze im Mini.",
+      "Ergänzung 08.10.2026: Altbeleg-Auswertung mit Kontenabstimmung, Belegfundstellen und Anschreiben; übrige historische Prüfungen wurden nicht erneut vollständig durchgeführt."
     ],
-    "sha256": "41259f85a308650e8dcece276bd18d73a9467f914c5ec875ffb25bbff35715fa",
+    "sha256": "01f1f9df001dee13061c5bca09bcca90df209f49d9101ab709ad73ce20c03ee6",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },
@@ -117,6 +118,38 @@
         }
       ],
       "target_skill": "vermoegensverzeichnis-start"
+    },
+    {
+      "id": "altkonto-umbuchung-bargeld",
+      "target_skill": "unterlagen-auswerten-abrechnung-anschreiben",
+      "request": "Ich übernehme heute die Vermögenssorge. Bereiten Sie vorläufig nur diese Angaben als Einnahmen-Ausgaben- und Bestandsübersicht auf; Originalbelege sind hier nicht angehängt. Die Vorperiode zeigt: Giro Anfang 1000 EUR, Spar Anfang 2000 EUR; Rente auf Giro 1000 EUR; Übertrag Giro an eigenes Spar 500 EUR, dort ebenfalls gebucht; Giro Barabhebung 200 EUR, Verwendung unbekannt; Giro Streaming 12 EUR, ausdrücklich gewünscht. Giro Ende 1288 EUR, Spar Ende 2500 EUR. Eine unbezahlte Helferrechnung über 300 EUR liegt zusätzlich vor. Bezeichnen Sie die Rechnung nicht als Bankzahlung. Erklären Sie mir, was die Zahlen beweisen und was vor Maßnahmen fehlt.",
+      "input_files": [],
+      "deliverables": [
+        "ergebnis.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Giro 1288 EUR und Spar 2500 EUR werden je Konto abgestimmt. Gesamtbestand 3788 EUR und Zuwachs 788 EUR. Der interne Transfer wird konsolidiert nicht als Einkommen oder Aufwand doppelt gezählt.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Externe Bankzuflüsse 1000 EUR und Bankabflüsse 212 EUR werden vom belegten Verbrauch getrennt. Die Verwendung der 200 EUR Bargeld bleibt offen; keine automatische Ausgaben- oder Missbrauchsfeststellung.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "300 EUR Rechnung stehen als ungeklärte oder offene Forderung gesondert und verändern den belegten Bankendsaldo nicht. Streaming wird nicht gegen den ausdrücklichen Wunsch gekündigt. Keine Originalbelege als selbst gelesen behaupten.",
+          "deliverables": [
+            "ergebnis.md"
+          ]
+        }
+      ]
     }
   ],
   "workshop_review": {
@@ -128,9 +161,10 @@
       "Unverifizierte BGH-Aktenzeichen entfernt; detaillierte Alltags- und Berichtswege beibehalten.",
       "Wohnungsanzeige und Genehmigung, Beschlussumfang, Interessenkonflikt, Kontenabgleich und wiedererlangte Selbstbesorgung vertieft.",
       "Rückkehrwunsch ändert Wohnungsentscheidung; früher Erbanfall verändert Stichtagsvermögen statt bloßer Zahlungstagszuordnung.",
-      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Anhörungsteilnahme und Beschwerdeumfang."
+      "Gezielter Rechtsprechungsabgleich 01.10.2026: 2026: Anhörungsteilnahme und Beschwerdeumfang.",
+      "Ergänzung 08.10.2026: Altbeleg-Auswertung mit Kontenabstimmung, Belegfundstellen und Anschreiben; übrige historische Prüfungen wurden nicht erneut vollständig durchgeführt."
     ],
-    "sha256": "27d4d268cf763a531474367777da3df5d5b619f37637dff9c5fa6b73499127be",
+    "sha256": "efe7e08e40c533e10d37dd2f56d03268eb77a8a86e9e59b7bb9a88557335126e",
     "reviewed_on": "2026-09-22",
     "method": "desk_review"
   },
@@ -195,5 +229,13 @@
       }
     ],
     "limits": "Keine erneute Volltextprüfung aller übernommenen Entscheidungen; keine Vollprüfung aller Normen und Nebenmaterien der Spezialskills."
+  },
+  "unterlagen_review": {
+    "date": "2026-10-08",
+    "scope": "Neuer Unterlagen-Auswerter und eigenständige Unterlagen-Werkstatt; gezielte Routing- und Normkorrekturen. Keine Vollprüfung sämtlicher bestehender Spezialskills.",
+    "report": "quality/betreuungsrecht/README.md",
+    "source_report": "quality/betreuungsrecht/unterlagen-quellen-2026-10-08.md",
+    "skill_sha256": "b4eba03e578fceab891e1851c681379d83d1c3812be49ac09e8fe4699dc0265f",
+    "prompt_sha256": "36af919dfe0b6958ef63fff4d18066587a423557202aa08d8a858dd656571c2f"
   }
 }

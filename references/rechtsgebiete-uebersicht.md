@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 290 Plugins, 23158 Skills.
+Stand v445.33.1: 290 Plugins, 23159 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -52,7 +52,7 @@ Stand v445.33.1: 290 Plugins, 23158 Skills.
 | [`berufsrecht-steuerberater`](../berufsrecht-steuerberater/) | Plugin für Steuerberaterrecht: StBerG, BOStB, Steuerberaterkammer, Vorbehaltsaufgaben, Werbung, Verschwiegenheit, Gebühren, Geldwäsche, Berufsgericht, Berufsausübungsgesellschaft und Haftungsprävention. | `445.33.1` | 205 |
 | [`berufsrecht-wirtschaftspruefer`](../berufsrecht-wirtschaftspruefer/) | Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken. | `445.33.1` | 233 |
 | [`betaeubungsmittelrecht`](../betaeubungsmittelrecht/) | Betäubungsmittelrecht-Plugin für BtMG, BtMVV, KCanG/MedCanG-Schnittstellen, Strafverfahren, Therapie, ärztliche Praxis, Apotheken und Compliance. | `445.33.1` | 126 |
-| [`betreuungsrecht`](../betreuungsrecht/) | Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB. | `445.33.1` | 117 |
+| [`betreuungsrecht`](../betreuungsrecht/) | Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB. | `445.33.2` | 118 |
 | [`betriebskosten-hausverwaltung`](../betriebskosten-hausverwaltung/) | Betriebskosten für Mietshaus und vermietete Eigentumswohnung: zehn Skills von Belegen, Kostenabgrenzung und Heizkosten bis zur nachrechenbaren Abrechnung oder zum Antwortbrief. | `445.33.1` | 10 |
 | [`bgb-at-pruefer`](../bgb-at-pruefer/) | Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht. | `445.33.1` | 96 |
 | [`bgb-bt-pruefer`](../bgb-bt-pruefer/) | Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung. | `445.33.1` | 109 |

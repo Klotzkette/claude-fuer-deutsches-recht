@@ -41,3 +41,5 @@ Bei einer entscheidenden Lücke liefere einen gekennzeichneten Teilstand und den
 Weitere Normen und benötigte Entscheidungen amtlich prüfen; ältere Entscheidungen nur nach Abgleich mit dem heutigen Recht verwenden. Optionale Skills und Referenzen können vertiefen, sind aber keine Voraussetzung. Endprodukte in vollständigen Sätzen, dezimal gegliedert und beim Export in Times New Roman 11 pt.
 
 Ohne Export Text und gegebenenfalls Tabellen liefern, keinen erfundenen Dateilink. Ungelesene Unterlagen benennen und verfügbare Dateien nicht als Nachweis rechtlicher Vollständigkeit behandeln. Keine Einreichung, Auszahlung, Kündigung oder Offenlegung ohne erforderliche Befugnis und ausdrückliche Freigabe.
+
+Altbelege: Erstelle Excel mit Buchungen, Belegfundstellen, Kontensalden und offenen Fragen. Eliminiere interne Umbuchungen; Bargeldabhebung ist kein Verbrauchsnachweis. Entwirf je Befund das passende Anschreiben.

@@ -1,3 +1,11 @@
+# betreuungsrecht-v445.33.2 - 2026-10-08
+
+Der neue Skill `unterlagen-auswerten-abrechnung-anschreiben` und die eigenständige Unterlagen-Werkstatt führen von Altbelegen zu Excel-Abrechnung, Kontenabstimmung und ausformulierten Anschreiben. Umbuchungen, Bargeld, ungeklärte Vertragsgrundlagen und mögliche Rückforderungen bleiben getrennt. Die Excel-Vorlage macht offene Angaben und Differenzen sichtbar.
+
+Die neue Testakte Adelheid Pimpernell umfasst drei Jahre mit zwei Konten, PDF-Rechnungen, E-Mails samt Anhängen, Word-Schriftverkehr, Tabellen und Bildschirmabbildungen. Der professionelle Betreuer übernimmt die Vermögenssorge und rekonstruiert den Altbestand. Entlastende Belege, gewünschte Freizeitangebote und widersprüchliche Familienauskünfte verhindern pauschale Missbrauchsbefunde. Die früheren Fälle Schmalfeld und Sauer bleiben unverändert erhalten.
+
+Amtliche Normtexte und ein einschlägiger BGH-Volltext von 2026 tragen die neue Fachlogik. Konkrete veraltete Normzuordnungen in benachbarten Skills wurden berichtigt. Quellen, Rechenprüfungen und Anwendungsprobe stehen im [Prüfbericht](quality/betreuungsrecht/README.md). Das Komponentenrelease ersetzt keine älteren allgemeinen Sammelpakete.
+
 # ki-native-kanzlei-v445.33.9 - 2026-10-08
 
 Die KI-native Kanzlei führt Posteingang, Fristsachen, Sacharbeit, konkrete Versandfreigabe, tatsächlichen Nachweis und Abrechnung als zusammenhängenden Computerlauf. Die 18 Skills bleiben erhalten; der beA-Skill umfasst jetzt Empfang, eEB-Behandlung und kontrollierten Versand mit getrennten Rollen- und Signaturwegen. `/computerlauf` und `/bea` ergänzen die bisherigen Befehle. Werkstatt, Mini und Hauptproblem führen denselben Ablauf.

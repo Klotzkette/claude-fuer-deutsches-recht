@@ -1,0 +1,60 @@
+Auswertungsvermerk – Adelheid Pimpernell
+Unabhängige Agentenprobe | Stand 08.10.2026 | Entwurf, keine Außenhandlung
+
+1. Umfang und Vertretung
+
+Geprüft ist September 2026 für Girokonto FS-G-0441 und Sparkonto FS-S-0987 sowie ausgewählte ältere Belege zu Fenstern/Ruprecht, Egon Knusper und LebensKompass. Dies ist keine vollständige Dreijahresrechnung. Die Bestellungsmitteilung vom 01.10.2026, S. 1, nennt Dr. Maja Winterfeld als berufliche Betreuerin ab 01.10.2026, mit Vermögenssorge, Wohnungsangelegenheiten und Vertretung gegenüber Sozialleistungsträgern und Versicherungen. Ein Einwilligungsvorbehalt ist nach dieser Mitteilung nicht angeordnet. Vorgelegt ist die Mitteilung, nicht die vollständige Beschlussausfertigung oder der gesondert ausgehändigte Betreuerausweis. Ein gerichtliches Rechnungsjahr ist dort nicht genannt. Der September gehört zur historischen Bestandsaufnahme vor Übernahme. Gelesen wurden übergebene EML-Dateien, kein laufendes Postfach wurde erschlossen.
+
+2. Nachgerechnete Saldenbrücke
+
+Alle Beträge in EUR. September vollständig für die zwei ausgewählten Konten: Giro 2 Seiten, 19 Buchungen; Spar 1 Seite, 1 Buchung. Grundlage sind die Original-PDFs unter 02_Konten, nicht der Bankexport.
+
+Giro: 17.892,10 Anfang + 2.565,00 Eingänge − 2.878,68 Ausgänge = 17.578,42 Ende. Ausgewiesenes Ende 17.578,42; Differenz 0,00.
+Spar: 23.557,50 Anfang + 250,00 Eingänge − 0,00 Ausgänge = 23.807,50 Ende. Ausgewiesenes Ende 23.807,50; Differenz 0,00.
+Zusammen: 41.449,60 Anfang + 2.815,00 sämtliche Eingänge − 2.878,68 sämtliche Ausgänge = 41.385,92 Ende; Veränderung −63,68.
+
+Transfer T-2026-09-21-250: B0546, Giro S. 2, 21.09.2026, −250,00, und B0547, Spar S. 1, gleicher Tag, +250,00, ausdrücklich eigene Konten derselben Inhaberin. Beide bleiben im Kontennachweis, beide entfallen bei der konsolidierten Darstellung externer Zahlungsbewegungen. Daraus: 41.449,60 + 2.565,00 Renteneingänge − 2.628,68 Bankabgänge ohne eigene Kontentransfers = 41.385,92. Die 250,00 sind weder zusätzliche Einnahme noch wirtschaftliche Ausgabe.
+
+Die August-Schlussbestände stimmen mit den September-Anfängen überein: GIRO_2026-08.pdf S. 1/2, 17.892,10; SPAR_2026-08.pdf S. 1, 23.557,50. Der September-Endbestand bildet den belegten Bankbestand unmittelbar vor der Übernahme; ohne weiteren Nachweis keine Aussage über Bewegungen am 01.10. selbst, Bargeld, Sachvermögen oder Forderungen. Oktober-Erklärungen verändern September nicht.
+
+Die Bankabgänge ohne interne Transfers zerfallen in 1.778,68 Zahlungen an Dritte und 850,00 Bargeldabhebungen. Die 1.778,68 sind bankbelegte Zahlungen, keine pauschale Bestätigung ihrer rechtlichen Berechtigung. Die 850,00 sind kein belegter Verbrauch: B0577, Giro S. 1, 10.09., 650,00; B0538, S. 1, 18.09., 200,00. Karten-/Terminalangabe identifiziert keine abhebende Person. Empfänger, tatsächliche Verwendung und Restbestand bleiben offen. Die Porzellandose wurde am 02.10. nicht gezählt (Gesprächsnotiz, letzter Absatz); eine spätere Zählung kann September nicht rückwirkend beweisen. Keine zusätzliche Buchung für aus diesen Abhebungen beglichene Barbelege erzeugen. Das Gesamtvermögen bleibt insoweit unvollständig.
+
+3. Belegketten und Entscheidungen
+
+3.1 Fenster in Ruprechts Haus
+
+B0551: GIRO_2024-05.pdf S. 1, 16.05.2024, −4.200,00 an Ruprecht, „Fenster / Rechnung W-24051 vorgestreckt“. B0552: GIRO_2024-06.pdf S. 1, 07.06.2024, +600,00, „Rest Fenster zurück“. Bruttoabfluss 4.200,00, Erstattung 600,00, verbleibender Abfluss 3.600,00.
+
+W-24051.pdf S. 1 vom 10.05.2024 nennt Ruprecht als Auftraggeber und Leistungsempfänger, Kastanienwinkel 6, Bernau, Rechnungsbetrag 3.600,00. Die Rechnung enthält die Angabe „am 13.05.2024 durch Herrn Pimpernell bezahlt“ und den handschriftlich wiedergegebenen Hinweis „Mama übernimmt die Fenster wie besprochen“; ein gesonderter Kontonachweis seiner Handwerkerzahlung liegt in dieser Probe nicht vor. Keine Reparatur an Adelheids Mietwohnung und kein zweiter zusätzlicher Abfluss von 3.600,00 aus ihrem Konto.
+
+EML 04 vom 09.05.2024, Message-ID pimpernell-2024-05-09-04@postfach.example, bittet um 4.200,00, verspricht 600,00 zurück und lässt Rückzahlung/Geschenk offen. EML 05 vom 17.05. behauptet ein telefonisches Geschenk; EML 06 vom 08.06. bestätigt den Rest. Die Rechnung als Anhang von EML 05 ist bytegleich mit W-24051.pdf und wird nicht doppelt erfasst. Junas Notiz vom 11.06.2024, Adelheids Gespräch vom 02.10.2026 und Ruprechts Stellungnahme vom 04.10.2026 lassen unterschiedliche Erinnerungen erkennen. Befund: Zahlungen und Verwendung plausibel belegt, Rechtsgrund der verbleibenden 3.600,00 streitig/ungeklärt; kein feststehender Schaden und kein feststehender Rückforderungsbetrag. Gegenhypothese einer gewollten Unterstützung der Enkel ernst nehmen.
+
+Nächster Schritt: Adelheid am 09.10. ohne vorgegebene Antwort erneut anhören; Ruprechts für 20.10.2026 angebotene, auf die Vorgänge beschränkte Belege abwarten und seine damalige konkrete Absprache klären. Transporterdarlehen und Maihilfe 2026 sind eigenständige Vorgänge, hier nicht vollständig geprüft und nicht in eine Fensterforderung einbezogen.
+
+3.2 Egon Knusper
+
+Monatspauschale: B0544, GIRO_2026-09.pdf S. 2, 24.09.2026, 145,00; EK-2026-09.pdf S. 1 vom 23.09.2026, 85,00 Einkaufsfahrten + 60,00 Telefon/Gerät/Schriftverkehr. Die Abrede vom 02.09.2024 sieht 145,00 monatlich vor, zusätzliche Waren nur gegen Beleg, Vorschussabrechnung und Rückgabe übrig gebliebenen Geldes. Keine Stundenaufstellung war vereinbart; deshalb deren Fehlen nicht allein zum Verstoß erklären. Die übergebene Abrede ist eine Büroabschrift ohne Unterschriftsbilder. EML 07 bestätigt den Inhalt. Septemberzahlung und Rechnung passen; tatsächliche Einzeltermine sind anhand des Küchenkalenders noch nicht geprüft. EK-Rechnung in EML 31 ist bytegleich, kein zweiter Belegbetrag.
+
+Weitere getrennte Vorgänge: B0563, GIRO_2025-08.pdf S. 1, 07.08.2025, 275,00 Druckervorschuss; B0572, GIRO_2026-04.pdf S. 1, 09.04.2026, 350,00 Ersatzhandy; B0576, GIRO_2026-08.pdf S. 1, 11.08.2026, 980,00 Jahrespaket; B0564, GIRO_2025-09.pdf S. 1, 16.09.2025, 2.200,00 „Dankeschön Unterstützung“. Diese vier Bankabgänge summieren sich zu 3.805,00, nicht zu einer nachgewiesenen Forderung. Darin sind 625,00 Geräte-Vorschüsse, 980,00 vorausbezahlte Zusatzhilfe und 2.200,00 mögliche Schenkung zu unterscheiden.
+
+EML 16, 23 und 31 sowie Übergabeprotokoll 06.10./Gerätenotiz 07.10.: Drucker benutzt, Kaufpreis/Quittung offen; Handy noch bei Egon wegen Datenübertragung, Adelheid wünscht Übergabe samt Kontakten. Jahrespaket soll neben der Pauschale bestehen; zusätzliche Leistungen und Zeitraum sind nicht nachvollziehbar abgegrenzt. EML 26 vom 12.08.2026 nennt nach Berichtigung des ursprünglichen Monatsfehlers drei Tage Postsortieren im Juli. Der zunächst gelesene Text hatte „im September“ genannt; die Probe identifizierte dies, der Aktenautor berichtigte es vor Veröffentlichung, und die EML wurde erneut gelesen. Auch mit Juli bleibt der Bezug früherer Hilfe zur Vorauszahlung für das kommende Jahr zu klären. Bei 2.200,00 behauptet Egon ein Geschenk (EML 17/31); Adelheid erinnert ein Dankeschön, stellt aber die Höhe infrage (Gespräch 02.10.). Keine damalige Willensfeststellung allein aus heutiger Erinnerung ableiten.
+
+Maßnahme: vollständiger neutraler Nachfragebrief liegt vor; Gerätepreis, Quittungen, Restgeld, tatsächliche Leistungen und Vereinbarung getrennt aufklären. Keine Zuordnung der September-Barabhebungen an Egon ohne Nachweis. Dienstags-Einkauf vorerst entsprechend Adelheids Wunsch weiterführen, Auslagen einzeln dokumentieren; keine Anzeige und keine pauschale Beendigung aus diesem Befund.
+
+3.3 SofaKino und LebensKompass
+
+SofaKino: B0540, GIRO_2026-09.pdf S. 2, 22.09.2026, 12,99, SK-77380. Gespräch 02.10. nennt ausdrücklich Behalten; Screenshot 03 zeigt Monatspaket 12,99, keine Zusatzpakete und letzte Wiedergabe am 25.09.2026. Behalten; kein Kündigungsentwurf. Der Screenshot-Kopf hat eine verkürzte Jahresangabe, daher nicht als selbständiger exakter Aufnahmedatumsnachweis behandelt.
+
+LebensKompass: B0543, GIRO_2026-09.pdf S. 1, 11.09.2026, 69,90, LK-55771. EML 10 vom 06.01.2025 nennt eine Bestellung am 03.01.2025 um 18:42 Uhr und die Bestätigung an Egons E-Mail. EML 11 beschreibt den kostenlosen Rentencheck und Unsicherheit, wer später etwas anklickte. Screenshot 01 zeigt 69,90, ein gesetztes Auswahlfeld und „Weiter zu meinen Informationen“, aber nicht den vollständigen Abschlussweg. Weder Kostenfreiheit noch wirksamer zahlungspflichtiger Abschluss noch Täuschung sind damit abschließend bewiesen. Screenshot 04 zeigt fehlenden Dokumentenzugriff, nicht die vollständige Kündigungsoberfläche.
+
+Doppelbelastung bereits ausgeräumt: B0566, GIRO_2025-11.pdf S. 1, 06.11.2025, −69,90 Nachbelastung Oktober; B0567, gleiche Seite, 21.11.2025, +69,90 Storno. Brutto 69,90, Erstattung 69,90, Rest aus diesem Doppelvorgang 0,00. Die reguläre Novemberbuchung B0383 bleibt daneben bestehen. EML 18/19 bestätigen Anlass und Korrektur; die Vertragsfrage bleibt offen. Keine erneute Forderung der bereits erstatteten 69,90.
+
+Maßnahme: beigefügter Nachfragebrief verlangt Bestell-/Bestätigungsunterlagen, Entgeltinformation, Bedingungen, Laufzeit, Nutzung und Mandat. Konkrete Vertragsbeendigung zunächst mit Adelheid am 09.10. besprechen. Keine Widerrufs-/Anfechtungs-/Rücktrittserklärung aus ungeklärtem Sachverhalt. Zahlungsdienstliche Handlungsmöglichkeiten und konkrete Fristen aktueller Abbuchungen zeitnah gesondert prüfen; diese Probe enthält keine Fristberechnung und keine Rückgabeanweisung. Glücksfenster ist im September als 29,90 (B0542) plus 89,00 (B0578) enthalten, gehört als eigener Anbieter in die Anschlussprüfung und darf nicht im LebensKompass-Brief aufgehen.
+
+4. Fertigstand, Lücken und Versandkontrolle
+
+Erstellt: dieser Vermerk, september-buchungen.csv als Cent-genauer Quellenindex, zwei vollständige Nachfragebriefe. Für diese begrenzte Probe waren TXT-Dateien ausdrücklich ausreichend; keine XLSX-Datei und keine Formel-/Druckprüfung behauptet. Wertstellung fehlt in den gelesenen Auszügen als eigenes Feld und wurde nicht erfunden. Maßgebliche Belegpfade liegen unter testakten/betreuung-adelheid-pimpernell-dreijahresabrechnung; Originale unverändert.
+
+Offen bleiben insbesondere Kassenbestand/Verwendung von 850,00, Unterschriftsoriginal der Helferabrede, Gerätequittungen und Restgeld, Jahrespaketabgrenzung, damaliger Wille zu Geschenken, vollständiger LebensKompass-Abschluss und Legitimation für Vertragsunterlagen. Antwortfristen in Briefen sind organisatorisch gewählte Termine, keine behaupteten gesetzlichen Ausschlussfristen. Die Briefe enthalten keine zwingenden Anspruchsbehauptungen. Für die in dieser Probe gewählten sachlichen Nachfragen wurde keine zusätzliche Rechtsbehauptung aus Norm oder Urteil ergänzt; amtliche Rechtsprüfung konkreter Gestaltungsrechte bleibt ein gesonderter nächster Schritt.
+
+Beide Briefe sind Entwürfe. Vor hypothetischem Versand: Betreuerausweis/geeigneten Vertretungsnachweis prüfen, Quellenadressen bestätigen, bezeichnete Anlagen als Kopien zusammenstellen, nicht benötigte Umsätze abdecken. Absenderanschrift ist im Übergabeprotokoll 06.10. belegt; Egons Adresse in Abrede, Rechnung und EML 31; LebensKompass-Adresse in EML 10/19, konsistent, aber keine Echtwelt-Verifikation der fiktiven .example-Daten. Keine vollständige Vermögensübersicht, Gesundheitsunterlagen oder fremde Umsätze beilegen. Nichts wurde versandt.

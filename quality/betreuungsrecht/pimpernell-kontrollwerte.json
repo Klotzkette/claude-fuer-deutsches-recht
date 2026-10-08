@@ -1,0 +1,210 @@
+{
+  "transaction_count": 584,
+  "opening_cents": 3230000,
+  "closing_cents": 4138592,
+  "external_in_cents": 9040340,
+  "external_out_cents": 8131748,
+  "internal_transfer_entries": 30,
+  "accounts": [
+    {
+      "id": "GIRO",
+      "name": "Girokonto Endziffern 0441",
+      "opening_balance_cents": 430000,
+      "opening_cents": 430000,
+      "account_reference": "FS-G-0441",
+      "closing_balance_cents": 1757842
+    },
+    {
+      "id": "SPAR",
+      "name": "Sparkonto Endziffern 0987",
+      "opening_balance_cents": 2800000,
+      "opening_cents": 2800000,
+      "account_reference": "FS-S-0987",
+      "closing_balance_cents": 2380750
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2023-10",
+      "in_cents": 238500,
+      "out_cents": 152638
+    },
+    {
+      "month": "2023-11",
+      "in_cents": 238500,
+      "out_cents": 160688
+    },
+    {
+      "month": "2023-12",
+      "in_cents": 247500,
+      "out_cents": 154638
+    },
+    {
+      "month": "2024-01",
+      "in_cents": 238500,
+      "out_cents": 153388
+    },
+    {
+      "month": "2024-02",
+      "in_cents": 238500,
+      "out_cents": 198638
+    },
+    {
+      "month": "2024-03",
+      "in_cents": 246900,
+      "out_cents": 155388
+    },
+    {
+      "month": "2024-04",
+      "in_cents": 238500,
+      "out_cents": 157128
+    },
+    {
+      "month": "2024-05",
+      "in_cents": 238500,
+      "out_cents": 577378
+    },
+    {
+      "month": "2024-06",
+      "in_cents": 298500,
+      "out_cents": 214128
+    },
+    {
+      "month": "2024-07",
+      "in_cents": 244500,
+      "out_cents": 176778
+    },
+    {
+      "month": "2024-08",
+      "in_cents": 244500,
+      "out_cents": 158128
+    },
+    {
+      "month": "2024-09",
+      "in_cents": 244500,
+      "out_cents": 174378
+    },
+    {
+      "month": "2024-10",
+      "in_cents": 244500,
+      "out_cents": 293128
+    },
+    {
+      "month": "2024-11",
+      "in_cents": 244500,
+      "out_cents": 173378
+    },
+    {
+      "month": "2024-12",
+      "in_cents": 254750,
+      "out_cents": 207128
+    },
+    {
+      "month": "2025-01",
+      "in_cents": 244500,
+      "out_cents": 240568
+    },
+    {
+      "month": "2025-02",
+      "in_cents": 244500,
+      "out_cents": 184018
+    },
+    {
+      "month": "2025-03",
+      "in_cents": 247700,
+      "out_cents": 185768
+    },
+    {
+      "month": "2025-04",
+      "in_cents": 289500,
+      "out_cents": 229518
+    },
+    {
+      "month": "2025-05",
+      "in_cents": 244500,
+      "out_cents": 265168
+    },
+    {
+      "month": "2025-06",
+      "in_cents": 244500,
+      "out_cents": 242018
+    },
+    {
+      "month": "2025-07",
+      "in_cents": 250500,
+      "out_cents": 185768
+    },
+    {
+      "month": "2025-08",
+      "in_cents": 250500,
+      "out_cents": 213518
+    },
+    {
+      "month": "2025-09",
+      "in_cents": 250500,
+      "out_cents": 407768
+    },
+    {
+      "month": "2025-10",
+      "in_cents": 250500,
+      "out_cents": 231518
+    },
+    {
+      "month": "2025-11",
+      "in_cents": 257490,
+      "out_cents": 193758
+    },
+    {
+      "month": "2025-12",
+      "in_cents": 262000,
+      "out_cents": 229518
+    },
+    {
+      "month": "2026-01",
+      "in_cents": 280500,
+      "out_cents": 187268
+    },
+    {
+      "month": "2026-02",
+      "in_cents": 0,
+      "out_cents": 242518
+    },
+    {
+      "month": "2026-03",
+      "in_cents": 501000,
+      "out_cents": 198568
+    },
+    {
+      "month": "2026-04",
+      "in_cents": 250500,
+      "out_cents": 223018
+    },
+    {
+      "month": "2026-05",
+      "in_cents": 250500,
+      "out_cents": 308268
+    },
+    {
+      "month": "2026-06",
+      "in_cents": 250500,
+      "out_cents": 253218
+    },
+    {
+      "month": "2026-07",
+      "in_cents": 256500,
+      "out_cents": 254968
+    },
+    {
+      "month": "2026-08",
+      "in_cents": 256500,
+      "out_cents": 285218
+    },
+    {
+      "month": "2026-09",
+      "in_cents": 256500,
+      "out_cents": 262868
+    }
+  ],
+  "missing_attachments": [],
+  "original_files": 205
+}

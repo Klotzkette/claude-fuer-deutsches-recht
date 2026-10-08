@@ -2,6 +2,10 @@
   "ausloeser": {
     "user-prompt-submit": [
       {
+        "match": "(?i)(unterlagen.{0,30}auswert|dreijahresabrechnung|einnahmen.{0,20}ausgaben|kontoabstimmung|saldierung|belegabgleich)",
+        "load_skill": "skills/unterlagen-auswerten-abrechnung-anschreiben"
+      },
+      {
         "match": "(?i)(jahresbericht|betreuungsbericht|§\\s*1863|berufsbetreuer|btog\\s+bericht)",
         "load_skill": "skills/jahresbericht-betreuungsgericht"
       },

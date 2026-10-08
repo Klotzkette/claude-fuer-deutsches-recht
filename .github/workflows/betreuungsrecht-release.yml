@@ -1,0 +1,59 @@
+name: Betreuungsrecht Unterlagen und Dreijahresakte
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Komponententag, zum Beispiel betreuungsrecht-v445.33.2
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: betreuungsrecht-${{ inputs.tag }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      TAG: ${{ inputs.tag }}
+      CASE: betreuung-adelheid-pimpernell-dreijahresabrechnung
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Abhängigkeiten
+        run: |
+          python3 -m pip install -r requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libreoffice-writer libreoffice-calc fonts-liberation2
+      - name: Version und Quellen prüfen
+        run: |
+          VERSION=$(python3 -c "import json;print(json.load(open('betreuungsrecht/.claude-plugin/plugin.json'))['version'])")
+          test "betreuungsrecht-v$VERSION" = "$TAG"
+          python3 scripts/test-betreuungsrecht-unterlagen.py
+          python3 scripts/validate-yaml-frontmatter.py
+          node scripts/validate-plugin-structure.mjs
+          python3 scripts/test-marketplace-import.py
+      - name: PDFs und Pakete
+        run: |
+          # Die visuell geprüfte Gesamtakte bleibt bytegleich zum Git-Stand.
+          test -s "testakten/$CASE/gesamt-pdf/${CASE}_gesamt.pdf"
+          python3 scripts/build-betreuungsrecht-release.py "$RUNNER_TEMP/betreuung-dist"
+          # Komponentenprüfung verwendet die unveränderten Kernprüfungen beider
+          # ZIP-Validatoren, ohne globale Sammelarchive zu behaupten.
+          python3 scripts/test-betreuungsrecht-unterlagen.py --dist "$RUNNER_TEMP/betreuung-dist"
+      - name: Release veröffentlichen
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release existiert bereits; keine veröffentlichten Dateien überschreiben."
+            exit 1
+          fi
+          gh release create "$TAG" --target "$GITHUB_SHA" --draft --title "Betreuungsrecht ${TAG#betreuungsrecht-}" --notes-file docs/releases/betreuungsrecht-v445.33.2.md --latest=false
+          gh release upload "$TAG" "$RUNNER_TEMP"/betreuung-dist/*
+          python3 scripts/verify-betreuungsrecht-release.py "$TAG" "$RUNNER_TEMP/betreuung-dist"
+          gh release edit "$TAG" --draft=false --latest=false
