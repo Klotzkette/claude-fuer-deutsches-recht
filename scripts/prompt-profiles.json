@@ -1,6 +1,24 @@
 {
   "schema_version": 1,
   "plugins": {
+    "bieter-unternehmen": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "konkurrenten-rechtsschutz": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
+    "vergabestelle-behoerden": {
+      "standalone": ["werkstatt", "schnellstart"],
+      "formats": ["md"],
+      "megaprompt": false,
+      "hand_curated": true
+    },
     "ki-native-kanzlei": {
       "standalone": ["werkstatt", "schnellstart", "hauptproblem"],
       "formats": ["md", "txt"],

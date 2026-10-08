@@ -8,6 +8,10 @@ Die Plugins dieser Sammlung lassen sich jetzt auch in ChatGPT und in der ChatGPT
 
 ## Über dieses Repository
 
+Neu: Die [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) ist als getrennte Kopie mit drei Rollen-Plugins eingebunden: Vergabestelle, Bieter und Konkurrentenrechtsschutz. 255 Skills, eigenständige Werkstatt- und Mini-Prompts sowie sieben Fallakten bleiben zusammen in ihrem eigenen Verzeichnis. Die drei Rollen sind über denselben Marketplace einzeln installierbar. Downloads stehen im [eigenen Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/vergaberecht-werkstatt-v445.33.1); ältere allgemeine Sammelarchive enthalten diese Erweiterung noch nicht. Bestehende Vergabepakete bleiben erhalten.
+
+English: The separate [procurement workshop](./vergaberecht-werkstatt/README.md) contains three role-specific plugins, 255 skills, standalone prompts and seven practice files. Install one matching role through this marketplace or use the [component downloads](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/vergaberecht-werkstatt-v445.33.1). Older all-in-one archives do not yet include this addition. The complete copy retains its own source and licensing information.
+
 Neu übernommen: [Rechtsabteilung Forderungsmanagement Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) führt Fachangestellte mit 50 Fachskills vom Aktenordner zum konkreten Arbeitsergebnis. Die vollständige Übernahme umfasst außerdem neun technische beA-Skills, zwei autarke Prompts und zehn Testakten mit 174 Aktenstücken. Der unveränderte Quellstand bleibt als Vollkopie erhalten; die nutzbare Fassung trägt den neuen Namen. Bestehende Inkasso- und Versandplugins werden nicht ersetzt. Die bisherigen Sammel-ZIPs enthalten diese Übernahme noch nicht.
 
 Neu: [KI-native Kanzlei](./ki-native-kanzlei/README.md) umfasst 17 ausführliche Fachskills und einen Hauptskill. Eigene Skills für Fristenberechnung und Anwaltsberufsrecht ergänzen Honorarabfragen, tatsächliche Zeiterfassung, Rechnungsentwürfe und XRechnung-Export. Dazu kommen 24 kurze Fachanwaltsakten mit je zehn Originalstücken. Die Downloads stehen im eigenen [Komponentenrelease](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/tag/ki-native-kanzlei-v445.33.7); vorhandene allgemeine Sammel-ZIPs enthalten diese Erweiterung noch nicht.
@@ -138,14 +142,14 @@ Die fünf vollständigen Register sind alphabetisch sortiert und werden bei jede
 
 | Bestand | Umfang | Kurzbeschreibung | Vollständige alphabetische Liste |
 | --- | ---: | --- | --- |
-| **Plugins** | 287 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
-| **Skills** | 22903 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
-| **Werkstatt-Prompts** | 285 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
+| **Plugins** | 290 | Installierbare Pakete für Rechtsgebiete und Arbeitsbereiche; jede Zeile beschreibt Zweck und fachlichen Zuschnitt. | [Plugin-Katalog mit Kurzbeschreibungen](#was-ist-drin) · [ZIPs und Einzeldateien](./ASSET_INDEX.md) |
+| **Skills** | 23158 | Eng abgegrenzte Arbeitsabläufe; die Detailseiten führen jeden Skill mit Kurzbeschreibung und einzelnem Markdown-Download auf. | [Skill-Gesamtübersicht](./SKILLS.md) · [Detailseiten je Plugin](./skills-index/) |
+| **Werkstatt-Prompts** | 288 | Ausführliche eigenständige Arbeitsmodi für komplexe Vorgänge; je Plugin mit Kurzbeschreibung und direktem Markdown-Download. | [Werkstatt-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) |
 | HOAI-Phasen-Werkstätten | 9 zusätzlich | Je ein eigener Phasenauftrag für Gebäude und Innenräume mit passendem Skill und eigener Akte. | [Leistungsphasen 1 bis 9](./docs/bauwirtschaft-hoai-phasen.md) |
-| **Schnellstart-/Mini-Prompts** | 284 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
-| **Testakten** | 486 zentral / 489 gesamt | Praxisnahe Dokumentensammlungen; jede Zeile skizziert den Fall, nennt passende Plugins und bietet drei Downloadformen. Drei weitere Akten liegen unmittelbar bei ihren Plugins. | [Zentrale Testakten mit Kurzbeschreibungen von A bis Z](./testakten/README.md#verfügbare-akten) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
+| **Schnellstart-/Mini-Prompts** | 287 | Kompakte eigenständige Einstiege für den Kernworkflow und ein erstes belastbares Arbeitsprodukt. | [Schnellstart-Prompts von A bis Z](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) |
+| **Testakten** | 486 zentral / 496 gesamt | Praxisnahe Dokumentensammlungen mit Kurzbeschreibung und drei Downloadformen; zusätzlich pluginlokale Akten und 7 Akten der getrennten Vergaberecht-Werkstatt. | [Zentrale Testakten von A bis Z](./testakten/README.md#verfügbare-akten) · [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/testakten/README.md) · [pluginlokale Akten über den Plugin-Katalog](#was-ist-drin) |
 
-Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 22903 Skills benutzbar bleibt.
+Sortierlogik: Plugins, Werkstatt- und Schnellstart-Prompts folgen dem Plugin-Slug; Skills sind zuerst nach Plugin und dort nach Skill-Slug sortiert; Testakten folgen dem Aktenordner. Die großen Bestände bleiben auf eigenen, schnell ladenden Registerseiten, damit der Haupt-README trotz 23158 Skills benutzbar bleibt.
 
 Plugin-Schnellwahl: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [Z](#z)
 <!-- END HAUPTVERZEICHNIS (auto-generated) -->
@@ -182,9 +186,9 @@ Für diesen Anwendungsfall gibt es eine kuratierte, nach Fachanwaltschaften sort
 
 | Kennzahl | Wert |
 |---|---|
-| **Plugins** | 287 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
-| **Skills (SKILL.md)** | 22903: [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 486 zentral / 489 gesamt |
+| **Plugins** | 290 (inkl. 15 Gerichts- und Staatsanwalts-Plugins im Sammelordner [`gerichtsplugins/`](./gerichtsplugins/) und 11 Insolvenz-Plugins im Sammelordner [`insolvenzrecht-plugins/`](./insolvenzrecht-plugins/)) |
+| **Skills (SKILL.md)** | 23158: [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 486 zentral / 496 gesamt |
 | **Fachanwalts-Profile** | 24 |
 | **Plugin-Version / Arbeitsstand** | `v445.33.1` — [latest Release auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
@@ -402,6 +406,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`betriebskosten-hausverwaltung`](./betriebskosten-hausverwaltung) | Betriebskosten für Mietshaus und vermietete Eigentumswohnung: zehn Skills von Belegen, Kostenabgrenzung und Heizkosten bis zur nachrechenbaren Abrechnung oder zum Antwortbrief. |
 | [`bgb-at-pruefer`](./bgb-at-pruefer) | Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, Anfechtung, Stellvertretung, Fristen, Verjährung und Routing für digitale Elemente, Update- und Reparaturrecht. |
 | [`bgb-bt-pruefer`](./bgb-bt-pruefer) | Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf einschließlich Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten und Right-to-Repair-Schnittstellen, außerdem Miete, Werk, Bürgschaft, GoA, Bereicherung, Delikt und Rückabwicklung. |
+| [`bieter-unternehmen`](./vergaberecht-werkstatt/bieter-unternehmen) | Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG. |
 | [`buerokratieversteher-entbuerokratisierer`](./buerokratieversteher-entbuerokratisierer) | Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-, Familien- oder Kommunalverfahren verstehen und vorsichtig bearbeiten wollen. |
 | [`bundesnetzagentur-verfahren`](./bundesnetzagentur-verfahren) | Großes Regulierungs-Plugin für anwaltliche Arbeit mit der Bundesnetzagentur in Energie, Telekommunikation, Post, Eisenbahn und Digital Services. |
 | [`bundeswehrrecht-wehrrecht`](./bundeswehrrecht-wehrrecht) | Super-Plugin für Soldatenrecht, Wehrbeschwerde, Disziplinarrecht, Wehrpflicht, Reservisten, Versorgung und Bundeswehrverwaltung. |
@@ -559,6 +564,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`ki-vo-ai-act-pruefer`](./ki-vo-ai-act-pruefer) | Mechanik-Workflow zur KI-VO (EU 2024/1689): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Diagnose, GPAI, Art. 43-Konformitätsbewertung, CE/EU-DB, Marktbeobachtung, Konformitäts-Evidence-Pack, KI-Kompetenz, Shadow-AI, Berufsrecht, Hochschul- und Behördenpraxis. |
 | [`kommunale-haftpflicht`](./kommunale-haftpflicht) | Kommunale Schäden belegt bearbeiten: Gebäude, Straßen, Winterdienst, Fahrzeuge, Bäder, Antrags- und Bauentscheidungen, Leitungen und Krankenhaus-Großschäden; Haftung, Schadenhöhe, Deckung und internen Ausgleich trennen. |
 | [`kommunalrecht-laender`](./kommunalrecht-laender) | Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht. |
+| [`konkurrenten-rechtsschutz`](./vergaberecht-werkstatt/konkurrenten-rechtsschutz) | Konkurrenten legen Unterlagen, Informationsschreiben oder Portalbelege ab und starten ohne Skillwahl. Das Plugin sichert Rüge- und Zuschlagsfristen, Angriff, Beweiskette, Akteneinsicht, VK, OLG und Kosten. |
 | [`krankenhaus-it-ki`](./krankenhaus-it-ki) | Krankenhaus-IT und KI: elf Skills für Datenschutz, Cloud, TIA, DSFA, Medizinprodukte, Forschung und sicheren Betrieb; mit eigenständigen Prompts und einer Thüringer Klinikakte. |
 | [`krankenhausrecht`](./krankenhausrecht) | Super-Plugin für deutsches Krankenhausrecht: Planung, Finanzierung, Entgelte, Reform, Qualität, MD-Prüfung, Klinikbetrieb und Rechtsstreit. |
 | [`krankenkassenrecht-krankenversicherung`](./krankenkassenrecht-krankenversicherung) | Plugin für GKV, PKV, Beihilfe-Schnittstellen und Krankenversicherungsrecht: Leistungen, Beiträge, Krankengeld, Hilfsmittel, Widerspruch, MD, Versicherungsvertrag und Kostenerstattung. |
@@ -715,6 +721,7 @@ Alphabetisch: [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · 
 | [`verbraucherschutzverband-durchsetzung`](./verbraucherschutzverband-durchsetzung) | Plugin für Verbraucherverbände: VDuG, UKlaG, UWG, Abhilfeklage, Musterfeststellung, Unterlassung, Register, Finanzierung, Vergleich und Kampagnenakte. |
 | [`vereinsrecht-vereinsmanager`](./vereinsrecht-vereinsmanager) | Vereinsrechts- und Vereinsmanagement-Plugin für eingetragene und nicht eingetragene Vereine: Gründung, Satzung, Mitgliederversammlung, Vorstand, Protokolle, Beschlüsse, Gemeinnützigkeit, Register, Haftung, Datenschutz, Finanzen, Veranstaltungen und Spezialvereine. |
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach Paragraf 13 BVerfGG, Verfassungsbeschwerde, Paragraf 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz. |
+| [`vergabestelle-behoerden`](./vergaberecht-werkstatt/vergabestelle-behoerden) | Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG. |
 | [`vergesellschaftung-artikel-15`](./vergesellschaftung-artikel-15) | Vergesellschaftung nach Artikel 15 GG: Gegenstände und Anteile, Landeskompetenz und Hessenrecht, gemeinwirtschaftliche Trägerschaft, Gesetzesentwurf, Entschädigung, Energienetze, Unionsrecht und Rechtsschutz aus der konkreten Akte bearbeiten. |
 | [`verhaeltnismaessigkeitspruefer`](./verhaeltnismaessigkeitspruefer) | 86 Skills zur Schranken-Schranke: BVerfG-Leitentscheidungen, Drittwirkung, Gleichheitsdogmatik, PrOVG-Kreuzberg, Südafrika/Kanada/EGMR/EuGH/USA und 12 europäische Ordnungen; mit Alexy, Schnellprüfung, Klausurschema, Streitstellen, Subsumtionshelfer und Visualisierung. |
 | [`verkehr-infrastrukturrecht`](./verkehr-infrastrukturrecht) | Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende. |

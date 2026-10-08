@@ -1,3 +1,17 @@
+# vergaberecht-werkstatt-v445.33.1 - Vergaberecht als getrennte Komponentenkopie
+
+## 1. Vollständige Übernahme
+
+Die Vergaberecht-Werkstatt aus Quellstand `b0bd885bb25dcf50a238c29be6ae43794ddc6e91` (Version 2.19.0) liegt separat unter `vergaberecht-werkstatt/`. Drei Rollen-Plugins mit 255 Skills, gemeinsame Fachquellen, eigenständige Prompts und sieben Fallakten sind übernommen. Die bestehenden Vergabe-Plugins und das Ursprungsrepository bleiben unberührt. Lizenz- und Herkunftsangaben bleiben erhalten; Git-Historie und Zugangsdaten werden nicht kopiert.
+
+## 2. Marketplace und Downloads
+
+Die drei verschachtelten Rollenpfade sind im öffentlichen Marketplace registriert. Werkstatt- und Mini-Downloads, Skill-Verzeichnisse und zentrale Übersichten führen zum jeweiligen Paket. Ein eigener Komponentenrelease mit Prüfsummen liefert Plugin-ZIPs, einzelne Markdown-Prompts, Gesamt-PDFs, flache Fallakten-ZIPs und das vollständige Quellpaket. Eigenständige Prompts und Akten gehören nicht in die Plugin-Installation. Die allgemeine Latest-Zuordnung bleibt unverändert.
+
+## 3. Prüfung
+
+Die Übernahme umfasst eine gesonderte Prüfung auf Veröffentlichungsrisiken sowie Struktur-, Import-, Navigations-, Archiv- und Regressionstests. Die technischen Prüfungen sind keine vollständige Neubewertung aller Rechtsquellen und keine behaupteten Live-Client-Tests. [Releaseumfang und Grenzen](./docs/releases/vergaberecht-werkstatt-v445.33.1.md).
+
 # Immobilienprojekt übernommen - 2026-10-07
 
 - Rechtsabteilung Forderungsmanagement Immobilienunternehmen: vollständiger Quellstand v5.27.1 mit 373 Dateien als unverändertes Archiv und SHA-256-Herkunftsverzeichnis erhalten; das Ursprungsrepository bleibt unverändert.

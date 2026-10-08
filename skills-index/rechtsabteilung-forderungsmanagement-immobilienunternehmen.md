@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=rechtsabteilung-forderungsmanagement-immobilienunternehmen/rechtsabteilung-forderungsmanagement-immobilienunternehmen-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
+| **Plugin (installierbar)** | ZIP | [rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/rechtsabteilung-immobilien-v445.33.1/rechtsabteilung-forderungsmanagement-immobilienunternehmen.zip) |
 
 ## So benutzt man einen Skill
 

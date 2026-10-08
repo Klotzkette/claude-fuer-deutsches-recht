@@ -96,6 +96,8 @@ def main() -> int:
         "",
         "Die [Rechtsabteilung Forderungsmanagement Immobilienunternehmen](./projekte/rechtsabteilung-forderungsmanagement-immobilienunternehmen/README.md) hat einen eigenen vollständigen Projektbestand mit 50 Fachskills, neun beA-Skills, zwei Prompts und zehn Akten. Sie ist in den älteren Sammel-Assets noch nicht enthalten; die Projektübersicht führt zu allen Einzeldateien und der Vollkopie.",
         "",
+        "Zusätzliche Komponenten: Die [Vergaberecht-Werkstatt](./vergaberecht-werkstatt/README.md) veröffentlicht ihre drei Rollenpakete, Prompts und sieben Akten separat. Die folgenden allgemeinen Sammelarchive stammen aus dem letzten Gesamtrelease und enthalten diese Erweiterung noch nicht. Die Plugin-Einzelzeilen unten verweisen bereits auf die aktuellen Komponentendownloads.",
+        "",
         "| Asset | Verwendung |",
         "| --- | --- |",
         f"| [`marketplace.json`]({RELEASE}/marketplace.json) | Marketplace-Manifest für alle Plugins. |",

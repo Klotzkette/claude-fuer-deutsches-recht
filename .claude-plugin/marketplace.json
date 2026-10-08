@@ -488,6 +488,16 @@
       }
     },
     {
+      "name": "bieter-unternehmen",
+      "source": "./vergaberecht-werkstatt/bieter-unternehmen",
+      "description": "Bieter legen Vergabeunterlagen, Unternehmensdaten oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen, Nachweise, Qualitätsvorsprung, Angebotsfreeze, Upload, Rüge, VK und OLG.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
       "name": "buerokratieversteher-entbuerokratisierer",
       "source": "./buerokratieversteher-entbuerokratisierer",
       "description": "Allgemeiner Bürokratieversteher und Entbürokratisierer für Laien, Menschen mit Deutsch als Zweitsprache und alle, die Bescheide, Anträge, Vorladungen, Behördenbriefe, Jugendamt-, Schul-, Bau-, Sozial-, Familien- oder Kommunalverfahren verstehen und vorsichtig bearbeiten wollen.",
@@ -1601,6 +1611,16 @@
       "name": "kommunalrecht-laender",
       "source": "./kommunalrecht-laender",
       "description": "Großes Kommunalrecht-Plugin für Gemeinden, Städte, Landkreise, Satzungen, Räte, Bürgerbegehren, Kommunalfinanzen, Aufsicht und Landesrecht.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "konkurrenten-rechtsschutz",
+      "source": "./vergaberecht-werkstatt/konkurrenten-rechtsschutz",
+      "description": "Konkurrenten legen Unterlagen, Informationsschreiben oder Portalbelege ab und starten ohne Skillwahl. Das Plugin sichert Rüge- und Zuschlagsfristen, Angriff, Beweiskette, Akteneinsicht, VK, OLG und Kosten.",
       "version": "445.33.1",
       "author": {
         "name": "Klotzkette",
@@ -2729,6 +2749,16 @@
       "name": "verfassungsrecht",
       "source": "./verfassungsrecht",
       "description": "Deutsches Verfassungsrecht: BVerfG-Recherche, Prozessarten-Navigator nach § 13 BVerfGG, Verfassungsbeschwerde, § 32-BVerfGG-Eilrechtsschutz, Organstreit, Bund-Länder-Streit, Parteienverfahren, Normenkontrolle, Grundrechte, EU-Grundrechte und Gesetzgebungskompetenz.",
+      "version": "445.33.1",
+      "author": {
+        "name": "Klotzkette",
+        "email": "39582916+Klotzkette@users.noreply.github.com"
+      }
+    },
+    {
+      "name": "vergabestelle-behoerden",
+      "source": "./vergaberecht-werkstatt/vergabestelle-behoerden",
+      "description": "Vergabestellen legen Ordner, ZIP oder Portalexport ab und starten ohne Skillwahl. Das Plugin sichert Fristen und Regime, baut Bestangebot, LV und Uploadpaket und verteidigt Rüge, VK und OLG.",
       "version": "445.33.1",
       "author": {
         "name": "Klotzkette",

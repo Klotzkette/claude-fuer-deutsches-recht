@@ -114,3 +114,9 @@ PDFs und Markdown-Seiten. Offline-Regression: `python3 scripts/test-public-downl
 ## 5. SI-native Kanzlei als Komponentenrelease
 
 `si-native-kanzlei-v445.33.3` veröffentlicht ausschließlich die neue Kanzlei-Erweiterung: Claude/Codex-Paket, portables Paket, 24 Originalformat-ZIPs, 24 Einzel-PDF-ZIPs sowie eine eigene Sammlung dieser 24 Akten. `scripts/scoped-release-assets.json` hält die direkten Routen fest. Das Komponentenrelease wird nicht als Latest gesetzt; die bestehenden allgemeinen Sammelpakete werden dadurch nicht ersetzt.
+
+## 6. Vergaberecht-Werkstatt als getrennte Kopie
+
+`vergaberecht-werkstatt-v445.33.1` veröffentlicht die drei Rollen-Plugins und sieben Akten aus `vergaberecht-werkstatt/`. Die Herkunft ist in `source-import.json` dokumentiert; das Ursprungsrepository bleibt unverändert. Der öffentliche Root-Marketplace verwendet die drei verschachtelten Pluginpfade. Die dortigen Quell-Workflows laufen nicht automatisch; zuständig ist ausschließlich `.github/workflows/vergaberecht-werkstatt.yml` im Hauptrepository.
+
+`python3 scripts/package-vergaberecht-werkstatt.py /tmp/vergaberecht-release` baut die getrennten Downloads. Das vollständige Quellarchiv enthält auch Dokumentation und Entwicklungsdateien; es ist kein installierbares Plugin-ZIP. Die drei eigentlichen Plugin-ZIPs enthalten weder Fallakten noch eigenständige Werkstatt- oder Mini-Prompts. Das Teilrelease erhält keine Latest-Zuordnung und überschreibt keine allgemeinen Sammelarchive.
