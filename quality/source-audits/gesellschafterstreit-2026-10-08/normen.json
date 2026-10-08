@@ -1,0 +1,206 @@
+{
+  "stand": "2026-10-09",
+  "hinweis": "Amtliche konsolidierte Texte; keine historische Fassung oder Änderungsverkündung aus dem aktuellen Kopf ableiten. Normen wurden am 08.10. durch den Rechercheagenten und für die Erweiterung am 09.10. erneut geöffnet; Archivabrufe hier am 09.10.",
+  "normen": [
+    {
+      "norm": "GmbHG §§ 15, 16, 34, 40",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Notarielle Anteilsabtretung und Verpflichtung; Listenlegitimation; Satzungsgrundlage und Erwerbszeitpunkt für Zwangseinziehung; Einreichungsverantwortung.",
+      "traegt_nicht": "Kein identischer Vollzugsweg für Einziehung, Abtretung und gerichtlichen Ausschluss; Liste beweist nicht allein materiellen Erwerb.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GmbHG §§ 30, 31, 35, 37",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Kapitalerhaltung mit Ausnahme bestimmter Darlehensrückgewähr; Gesamtvertretung als eigene Ebene; grundsätzlich fehlende Außenwirkung interner Beschränkungen.",
+      "traegt_nicht": "§30 Abs1 S3 beseitigt nicht Insolvenzrecht; §37 Abs2 heilt keine fehlende zweite Vertretung; besondere Gesellschaftergeschäfte nach GS-01 prüfen.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GmbHG §§ 38, 46, 47",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Ordentliche Abberufung lässt vertragliche Ansprüche unberührt; Organ-/Anspruchsverfolgungskompetenzen, Stimmgewicht, Textformvollmacht und gegenstandsbezogene Stimmverbote.",
+      "traegt_nicht": "Kein Stimmverbot bei jeder persönlichen Betroffenheit; keine automatische Beendigung der Anstellung.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GmbHG §§ 48, 50, 51",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Textform in §48 Abs2 auch für Sachstimmabgabe; Minderheitsverlangen ab zehn Prozent und bedingte Selbsthilfe; Einberufung und Ankündigung.",
+      "traegt_nicht": "Kein allgemeines Chat-/Schweigeeinverständnis; Selbsthilfe nicht ohne Voraussetzungen; abweichende Satzung und notarielle Form bleiben eigene Prüfungen.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GmbHG §§ 51a, 51b",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Individuelle Information; kumulative Verweigerungsvoraussetzungen plus Gesellschafterbeschluss; Verweisung allein auf §132 Abs1,3,4 AktG.",
+      "traegt_nicht": "Keine aus §132 Abs2 AktG importierte Zweiwochenfrist; Informationsverfahren ersetzt keine Anfechtung beliebiger Beschlüsse.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GmbHG §§ 53, 54, 55",
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "§53 Abs2 Dreiviertelmehrheit abgegebener Stimmen; Abs3 Beurkundung; Abs4 Zustimmung sämtlicher beteiligter Gesellschafter bei Leistungsvermehrung. §54 Abs3 Wirksamkeit mit Eintragung. §55 Abs1 notariell aufgenommene/beglaubigte Übernahme.",
+      "traegt_nicht": "Alte Absatznummern nicht übertragen; Kapitalerhöhungsmehrheit erzeugt nicht von sich aus neue Zahlungspflicht jedes Gesellschafters; nicht die überholte Ein-Anteil-Regel aus GS-13 anwenden.",
+      "archiv": "originale/gmbhg-BJNR004770892.html.gz",
+      "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "AktG §132 Abs1,3,4",
+      "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Ausschließliches LG am Sitz; Verfahrensverweisung und Beschwerdezulassung; ZPO-Vollstreckung.",
+      "traegt_nicht": "Abs2 wird durch §51b GmbHG nicht verwiesen; auch weitere Absätze nicht unterschiedslos übernehmen.",
+      "archiv": "originale/aktg-__132.html.gz",
+      "sha256_original": "789494b270211085cb364b20403b4ce9a1ea3e56647778c8944b99d07f4b00db",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "AktG §99 Abs1",
+      "url": "https://www.gesetze-im-internet.de/aktg/__99.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "FamFG gilt vorbehaltlich spezieller Regeln; durch §132 Abs3 weitervermittelt.",
+      "traegt_nicht": "Nicht alle Statusverfahrensvorschriften oder Wirkungen gegen jedermann unbesehen auf §51b übertragen.",
+      "archiv": "originale/aktg-__99.html.gz",
+      "sha256_original": "a7fee8617d658ad874289b3f65a9857f274902b86d68d1a6b83d995dc97c3658",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "BGB §626",
+      "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Wichtiger Grund mit Gesamtumständen/Interessenabwägung; Zweiwochenfrist ab Kenntnis des Kündigungsberechtigten.",
+      "traegt_nicht": "Keine GmbH-Beschlussklagefrist und kein stets identischer Fristbeginn ab erstem Verdacht.",
+      "archiv": "originale/bgb-__626.html.gz",
+      "sha256_original": "756230bb8c390f271caa4a6775e8828577db430f7d3f973fd6660055ea2d5016",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "BGB §§162,164,177,181,242",
+      "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Bedingungsmanipulation, Stellvertretung, Genehmigung, Insichgeschäft und Treu/Glauben werden als getrennte Tatbestände bearbeitet; Einzeloriginale der weiteren Normen im Abrufregister.",
+      "traegt_nicht": "Kein pauschales Heilen jeder Vertretungslücke durch interne Zustimmung oder §181-Befreiung.",
+      "archiv": "originale/bgb-__162.html.gz",
+      "sha256_original": "15c09655fcdc1d8df65e023422f23dd95af0de6c42fa07eddf2e9e83f5f2a84d",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §138",
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Wahrheitsgemäße vollständige Erklärung; Nichtwissen nur bei weder eigener Handlung noch eigener Wahrnehmung.",
+      "traegt_nicht": "Kein pauschales Bestreiten sämtlicher eigenen Vorgänge; keine erfundene Erkundigung.",
+      "archiv": "originale/zpo-__138.html.gz",
+      "sha256_original": "9eba33019b9b4941d3755de7501240fa0603643e059ebe51dda5c5058b87569f",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §142",
+      "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Gerichtliche Anordnung zur Vorlage bestimmter in Bezug genommener Urkunden/Unterlagen mit gesetzlichen Grenzen.",
+      "traegt_nicht": "Kein allgemeiner vorprozessualer Anspruch auf Offenlegung sämtlicher fremder Akten.",
+      "archiv": "originale/zpo-__142.html.gz",
+      "sha256_original": "d77d302f902e83592ac7344ebc6436f09936485e649768d88deccd9012eeb9d5",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §§253,254,256",
+      "url": "https://www.gesetze-im-internet.de/zpo/__254.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Bestimmte Anträge, gesetzliche Stufenverbindung und Feststellung rechtlicher Verhältnisse sind verschiedene Prozessformen; Einzeloriginale §253/256 archiviert.",
+      "traegt_nicht": "§254 begründet nicht selbst den materiellen Auskunftsanspruch; ungeklärte Tatsachen machen nicht jede Klage zur Stufenklage.",
+      "archiv": "originale/zpo-__254.html.gz",
+      "sha256_original": "06817b250f9c7a403bba93ab06b735a5fea83d9a37fa865cfee33e515a34b929",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §167",
+      "url": "https://www.gesetze-im-internet.de/zpo/__167.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Rückwirkung der demnächst erfolgenden Zustellung für bezeichnete Frist-/Verjährungswirkungen.",
+      "traegt_nicht": "Klageeingang ist nicht ohne Voraussetzungen bereits Klageerhebung oder erwiesene Fristwahrung.",
+      "archiv": "originale/zpo-__167.html.gz",
+      "sha256_original": "05f3d2010d402ae0b4d10ed8b1481deffc9145a7927e42c5a3e78fa6d09b3e9b",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §§294,929,935,936,940,945",
+      "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Glaubhaftmachung, konkrete Sicherung/Regelung, Monatsvollziehungsfrist bei einschlägigem inländischem Titel, entsprechende Arrestregeln und Schadensersatz.",
+      "traegt_nicht": "Erlass allein bedeutet nicht Vollziehung; keine Dringlichkeitsvermutung aus bloßem Gesellschafterstreit. Einzeloriginale aller genannten Normen archiviert.",
+      "archiv": "originale/zpo-__929.html.gz",
+      "sha256_original": "24e8968a61df88a02122cca5537bf12b4b38253908f70b6f32f036a57b4aca31",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "InsO §§15a,15b,17,19",
+      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Antragspflichten, Zahlungsfolgen und Insolvenzgründe müssen mit konkreten Fälligkeiten/Vermögensdaten gesondert geprüft werden. Einzeloriginale archiviert.",
+      "traegt_nicht": "Plan einer Kapitalerhöhung oder Fälligkeit eines Darlehens beseitigt Insolvenzreife nicht automatisch; Höchstfristen sind keine voraussetzungslose Warteerlaubnis.",
+      "archiv": "originale/inso-__15b.html.gz",
+      "sha256_original": "eaf77757ffd2bf752106df47ec424e4e4a336456e401e49c09048ec640252200",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "InsO §39",
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Nachrang §39 Abs1 Nr5 mit Ausnahmen, u.a. Abs4 Sanierung, Abs5 nicht geschäftsführende Kleinbeteiligung bis zehn Prozent und Förderbankregel Abs1 S2.",
+      "traegt_nicht": "Aktueller Prozentsatz allein beweist kein Privileg; Nachrang nicht mit zivilrechtlicher Nichtexistenz gleichsetzen.",
+      "archiv": "originale/inso-__39.html.gz",
+      "sha256_original": "07a2de8f6fdb0ce27c0f6224dba96ec35c2ebd1e6be5b4c6e8eb13847deb2ac1",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "InsO §135",
+      "url": "https://www.gesetze-im-internet.de/inso/__135.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Sicherung zehn Jahre, Befriedigung ein Jahr vor Antrag sowie danach; Abs2 Drittdarlehen mit Gesellschaftersicherheit, Abs4 Verweis auf §39 Abs4/5.",
+      "traegt_nicht": "Keine generelle Unanfechtbarkeit schneller Darlehensrückzahlung; Sicherheit und Befriedigung nicht verwechseln.",
+      "archiv": "originale/inso-__135.html.gz",
+      "sha256_original": "01926bae5b57ee83d8c08d9453c6d322b182fd24f1719d2a6ac6f6d9580b6c0b",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "GeschGehG §§2–6,16–20",
+      "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Konkretes Geheimnis, angemessene Maßnahmen, Erwerb/Nutzung/Ausnahmen; Geheimhaltung auf Antrag, Glaubhaftmachung/Kennzeichnung und Gehörsschutz mit Mindestzugang.",
+      "traegt_nicht": "Download allein beweist keine Nutzung; nicht jede Anlage ist ein Geheimnis; Gegenpartei darf nicht vollständig ausgeschlossen werden.",
+      "archiv": "originale/geschgehg-BJNR046610019.html.gz",
+      "sha256_original": "182bda1cbb0c3279f9416492b1ebc5376ce1ba63b52a9c66bc88626b34452a85",
+      "archivabruf": "2026-10-09"
+    },
+    {
+      "norm": "ZPO §273a",
+      "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
+      "geprueft_am": "2026-10-09",
+      "traegt": "Auf Antrag entsprechende §§16–20 GeschGehG für streitgegenständliche Informationen im ZPO-Verfahren.",
+      "traegt_nicht": "Unmittelbare Anwendbarkeit auf FamFG-Verfahren nach §51b durch geprüfte Normen nicht belegt.",
+      "archiv": "originale/zpo-__273a.html.gz",
+      "sha256_original": "ce327b0000b0481c348553c8e57e1c7f3c2869dd936732859c91c5248ad902a7",
+      "archivabruf": "2026-10-09"
+    }
+  ]
+}

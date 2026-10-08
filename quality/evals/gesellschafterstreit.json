@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "gesellschafterstreit",
-  "reviewed_on": "2026-10-02",
+  "reviewed_on": "2026-10-09",
   "selection": {
     "target_skill": "gesellschafterstreit-loesen",
     "positive": [
@@ -402,115 +402,311 @@
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2",
-      "checked_on": "2026-10-02",
-      "supports": "Liste und richtige Adressatin feststellen; Zugang für jede Gesellschaft getrennt belegen. Bei Geschäften mit verbundenen Unternehmen Vertretungsmacht, § 181 BGB und erforderliche gesellschaftsinterne Zustimmung getrennt prüfen. Grenze: Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge."
+      "checked_on": "2026-10-09",
+      "supports": "Auch eine materiell umstrittene, aber in der aufgenommenen Liste legitimierte Gesellschafterin ist zu laden. Die Ladung einer anderen Gesellschaft mit demselben Geschäftsführer genügt nicht. Der Ladungsmangel kann zur Nichtigkeit analog § 241 Nr. 1 AktG führen. Der Schutz des § 37 Abs. 2 GmbHG gilt nicht im Rechtsverkehr mit einer GmbH, die ein Gesellschafter als Alleingesellschafter und Geschäftsführer beherrscht. Die notwendige Zustimmung und eine spätere Genehmigung bleiben eigenständige Fragen.",
+      "limits": "Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "9a8579a94811872baebffa74cdcc5afc02909d61620714143540f7ea26ca6741"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Geldhingabe, Fremdschuldtilgung, Aufwandserstattung und eigenes Leistungsentgelt anhand der Belege auseinanderhalten. Entstehung, Fälligkeit, tatsächliche Rückzahlung und Insolvenzantragsdatum erfassen; bei Rückzahlung § 135 Abs. 1 Nr. 2 InsO prüfen. Grenze: Keine allgemeine Dreimonatsfreigrenze. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**."
+      "checked_on": "2026-10-09",
+      "supports": "Bei einem echten Gelddarlehen ist keine Mindestlaufzeit erforderlich. Tilgt ein Gesellschafter die Schuld der Gesellschaft gegenüber einem Dritten und erwirbt dadurch einen Rückzahlungsanspruch gegen die Gesellschaft, kann dies ohne zusätzliche Stundungsabrede darlehensgleich sein. Bei Forderungen aus eigenen Leistungen oder vergleichbarem Leistungsaustausch kommt es dagegen auf rechtliche oder tatsächliche Stundung und Finanzierungsfunktion an. Nicht jede kurze Überschreitung des Zahlungsziels genügt.",
+      "limits": "Keine allgemeine Dreimonatsfreigrenze: Bei Austauschforderungen indiziert ein Stehenlassen von mehr als drei Monaten regelmäßig die Finanzierungsfunktion; darunter bedarf es weiterer Indizien (Rn. 23). Für echtes Darlehen oder Fremdschuldtilgung gilt dieser Zeitraum nicht. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "db4d9a6d16820f69827963bc46134eb4815efc2f0bcb4a261b1eed6264dfb34b"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Kündigungsschreiben vollständig auslegen: Briefkopf, Text, Unterschrift, Funktionen, Beschluss und Ermächtigung. Organabberufung und Kündigung des Anstellungsvertrags bleiben verschiedene Maßnahmen. Grenze: Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre."
+      "checked_on": "2026-10-09",
+      "supports": "Soll eine Erklärung auf dem Briefpapier einer GmbH Rechtswirkungen für diese herbeiführen, spricht dies regelmäßig für eine Erklärung in ihrem Namen. Bei aus den Umständen erkennbarer Vertretung ist ein ausdrücklicher Zusatz „als Geschäftsführer“ nicht zwingend; § 164 Abs. 1 Satz 2 BGB ist zu beachten.",
+      "limits": "Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "5e82832978b80f22c876af1325a5ee53a11750949bbeb7329c211c8b97b66448"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Anspruchsinhaber, Prozessführungsbefugnis, Beschluss nach § 46 Nr. 8 GmbHG und Prozessvertretung trennen. Für jeden Vertreter die konkrete Interessenkollision erfassen. Grenze: Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen."
+      "checked_on": "2026-10-09",
+      "supports": "Ein Gesellschafter kann Gesellschaftsansprüche gegen einen Fremdgeschäftsführer grundsätzlich nicht im eigenen Namen geltend machen. Eine Gesellschafterklage ist zudem gegenüber der Rechtsverfolgung durch die zuständigen Gesellschaftsorgane grundsätzlich subsidiär. Der betroffene Geschäftsführer darf die Stimme einer Gesellschaftergesellschaft bei der Entscheidung über gegen ihn gerichtete Ansprüche und deren prozessuale Durchsetzung nicht ausüben. Eine konfliktfreie Vertretung der Gesellschaftergesellschaft ist gesondert zu prüfen. Das MoPeG hat die Subsidiarität nicht beseitigt.",
+      "limits": "Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "03b026d06bc27491e01ee9a44cf0de2fb6b8b6ba5289b3fb358b8c0905bd8cc8"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Aktuelle Organpflichten, nachvertragliches Verbot, Vergütungsregelung und gesetzlichen Geheimnisschutz getrennt bearbeiten. Konkrete Kunden-, Produkt- und Geheimnisinteressen sowie die tatsächlichen Konkurrenzhandlungen belegen. Grenze: Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis."
+      "checked_on": "2026-10-09",
+      "supports": "Ein nachvertragliches Wettbewerbsverbot muss nach Ort, Gegenstand und Zeit auf berechtigte Interessen begrenzt sein. Für GmbH-Geschäftsführer besteht keine automatische Pflicht zu einer Karenzentschädigung nach dem Arbeitnehmermodell. Der vereinbarte rückwirkende Entfall einer zugesagten Entschädigung bei Verstoß war im entschiedenen Fall nicht sittenwidrig.",
+      "limits": "Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. Nach Rn. 18 lässt sich ein nicht nur zeitlich überbreites Verbot nicht beliebig gerichtlich auf zulässige Kunden, Produkte oder Gebiete zurückschneiden; Rn. 19 betrifft zudem den möglichen Gesamtwegfall nach § 139 BGB. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "4850f4b8a6cc12600f1667158781b5c6aa3f31e9186b3b8f8c5e9a2c05bd69fe"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Ausschlussklage, satzungsmäßigen Ausschluss, Einziehung und Übertragung unterscheiden. Abfindungsbewertung, gebundenes Vermögen und belastbare Zahlungsfinanzierung gesondert vorlegen. Grenze: Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09."
+      "checked_on": "2026-10-09",
+      "supports": "Ein gerichtlicher Ausschluss ohne einschlägige Satzungsregel wird mit Rechtskraft des Gestaltungsurteils wirksam, nicht erst mit Zahlung der Abfindung. Ein wichtiger Grund und Verhältnismäßigkeit bleiben erforderlich. Steht bei Schluss der mündlichen Verhandlung fest, dass die Abfindung nur unter Verstoß gegen die Kapitalerhaltung gezahlt werden kann, scheidet der Ausschluss aus. Eine rechtlich verbindliche, aktivierungsfähige Finanzierungszusage kann bei der Vermögensprüfung erheblich sein.",
+      "limits": "Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "abded036e1fcc3c99fcfabe83fdc18f394af16328b30252c1171e1aed50ddc3a"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Für Gesellschaft und handelnde Person jeweils Anspruchsgrundlage, Pflichtenkreis, Rechtsverletzung und Antrag formulieren. Materielle Anteilseignerschaft von der formellen Legitimation nach § 16 Abs. 1 GmbHG trennen. Grenze: Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1."
+      "checked_on": "2026-10-09",
+      "supports": "Der Anspruch eines Gesellschafters auf Einreichung einer richtigen Liste richtet sich grundsätzlich gegen die Gesellschaft. Aus der organschaftlichen Pflicht des Geschäftsführers folgt nicht ohne Weiteres ein unmittelbarer Individualanspruch gegen ihn. Ein Gesellschafter-Geschäftsführer kann daneben durch gezielten eigennützigen Listenmissbrauch seine eigene mitgliedschaftliche Treuepflicht verletzen. Präventiver Rechtsschutz benötigt eine konkret drohende oder wiederholte Verletzung.",
+      "limits": "Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "8fdb07e0df6300d19db5b1e0bbe2437eb793f1d420a647e9f402a7b669c1a995"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Konkreten Antrag zum drohenden Listenakt, Tatsachen für Eilbedürftigkeit, Glaubhaftmachung und rechtzeitige Vollziehung vorbereiten. Eine erlassene Verfügung dem befassten Notar rechtzeitig bekannt machen. Grenze: Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse."
+      "checked_on": "2026-10-09",
+      "supports": "Eine verbindliche positive oder negative Beschlussfeststellung entfaltet zunächst Bindungswirkung und verlangt den passenden Beschlussmängelrechtsschutz. Die bloße Anfechtung einer Einziehung verhindert nicht automatisch einen Listenwechsel. Gegen drohenden Verlust der formellen Legitimation kommt eine einstweilige Verfügung gegen die Gesellschaft in Betracht. Wird eine Liste unter Verstoß gegen eine entsprechende gerichtliche Unterlassungsverfügung eingereicht, kann die Gesellschaft sich nach Treu und Glauben nicht auf den dadurch geschaffenen Ausschluss von Mitgliedschaftsrechten berufen.",
+      "limits": "Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "ff84d98ca6120558bf0d3e8960ed8553ee12dd6eaa737bc36794846270038142"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Auf den Beschlusszeitpunkt bezogene Unterlagen zum freien Vermögen, zur Abfindungsschuld und zu realisierter Finanzierung verlangen. Unternehmenswert und kapitalerhaltungsrechtliche Vermögensbindung mit unterschiedlichen Rechenwerken prüfen. Grenze: Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung."
+      "checked_on": "2026-10-09",
+      "supports": "Steht bereits bei der Beschlussfassung fest, dass die Abfindung nicht aus freiem Vermögen gezahlt werden kann, ist der Einziehungsbeschluss wegen Verstoßes gegen die Kapitalerhaltung nichtig. Nicht aufgelöste stille Reserven reichen für die kapitalerhaltungsrechtliche Prüfung nicht aus. Eine mögliche spätere Haftung der Mitgesellschafter heilt dieses anfängliche Hindernis nicht.",
+      "limits": "Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "3cf0434d1ae438bcc91556b614e5d8e8106528be4fc55827ed922f2f1335aa0a"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Für jeden TOP Organmaßnahme, Vertragsmaßnahme, behauptete Tatsachen, Belege, Gegenargumente und die Auswirkungen auf den Stimmennenner gesondert dokumentieren. § 38 GmbHG und § 626 BGB mit ihren unterschiedlichen Voraussetzungen prüfen. Grenze: Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen."
+      "checked_on": "2026-10-09",
+      "supports": "Bei gerichtlicher Überprüfung von Beschlüssen über Abberufung oder Kündigung aus wichtigem Grund kommt es auf den tatsächlich bestehenden wichtigen Grund im Beschlusszeitpunkt an. Ihn muss grundsätzlich derjenige darlegen und beweisen, der sich darauf beruft. Eine bloße Behauptung trägt die gerichtliche Entscheidung nicht. Bei ordentlicher Abberufung oder ordentlicher Kündigung des Anstellungsvertrags ist der Gesellschafter-Geschäftsführer nicht allein wegen seiner Betroffenheit stets vom Stimmrecht ausgeschlossen.",
+      "limits": "Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "d1a42e09da7e9e0c93ac236cbbf46c9cdc37a8331eadb43d8a8821601745dfab"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Bei streitiger Finanzierung oder Kapitalerhöhung Bedarf, Alternativen, Verhältnismäßigkeit und Minderheitenbelastung konkret prüfen. Eine rechtliche Stimmbindung aus Treuepflicht von einem gesetzlichen Stimmverbot und dessen Auswirkung auf den Nenner unterscheiden. Grenze: Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen."
+      "checked_on": "2026-10-09",
+      "supports": "Eine Zustimmungspflicht kann bestehen, wenn eine Maßnahme zur Erhaltung wesentlicher Werte oder zur Vermeidung erheblicher Verluste objektiv unabweisbar erforderlich und unter Berücksichtigung eigener schutzwürdiger Belange zumutbar ist. Wirtschaftliche Zweckmäßigkeit oder Vorteilhaftigkeit allein genügt nicht.",
+      "limits": "Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "4241bd47e2e997a6ec8c0ddc215502a87778d4e6b2d5cec6b0212eb87c941f23"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Abfindungsanspruch, Bewertungsregel, etwaige Begrenzung, nachgewiesene Schadensersatzansprüche und Aufrechnung getrennt prüfen. Bei Vorwürfen keine automatische Nullbewertung einsetzen. Grenze: Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung."
+      "checked_on": "2026-10-09",
+      "supports": "Eine Satzungsregel, die bei grober Pflichtverletzung ohne Weiteres jede Abfindung entfallen lässt, ist grundsätzlich sittenwidrig. Die vermögensrechtliche Beteiligung verliert nicht schon wegen Fehlverhaltens ihren gesamten Wert. Ein solcher vollständiger Ausschluss wird nicht allein durch seine Bezeichnung als Vertragsstrafe wirksam.",
+      "limits": "Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "84254f5f4b00a3ee82132bad6e6552e28921dae6e08baf4cbe66de2aa9212e34"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Kapitalerhöhung, Preis/Agio, Verwässerung, Zulassung, Bezugsrechtsausschluss und sachliche Rechtfertigung einzeln prüfen. Satzungsfristen, Beschlussfeststellung, Kenntnis und mögliche Rechtshandlungen sofort erfassen. Grenze: Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden."
+      "checked_on": "2026-10-09",
+      "supports": "Der Gesellschafter hat grundsätzlich eine seiner bisherigen Beteiligung entsprechende Bezugsmöglichkeit. Ein treuwidriger Ausschluss führt regelmäßig zur Anfechtbarkeit, nicht ohne Weiteres zur Nichtigkeit. GmbH-Beschlüsse müssen mit der nach den Umständen zumutbaren Beschleunigung angefochten werden; die Monatsfrist des § 246 Abs. 1 AktG ist ein wichtiger Leitmaßstab. Im entschiedenen Fall rechtfertigten weder die Feiertagszeit noch das Warten auf ein Protokoll die Verspätung.",
+      "limits": "Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "69824a4629f6e639a631259804c16bfeaf8cc52da8d0ed231d5eea7e5cd22b9e"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Für jeden Beteiligten Tatbeitrag, Kenntnis, Pflicht und Beleg erfassen. Bei einer gemeinsam veranlassten pflichtwidrigen Zahlung die Stimme des Mitwirkenden gesondert prüfen und die tragfähigen Varianten neu rechnen; bloße Empfängerstellung genügt nicht. Grenze: Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen."
+      "checked_on": "2026-10-09",
+      "supports": "Bei der Abberufung eines Geschäftsführers aus wichtigem Grund kann auch ein weiterer Gesellschafter vom Stimmrecht ausgeschlossen sein, wenn er dieselbe maßgebliche Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat. Die gemeinsame Handlung darf nicht nur für die Schwere des Vorwurfs, sondern muss auch für die Abstimmungsberechtigung geprüft werden.",
+      "limits": "Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "427c5934c2761c01fcaedb040af16aba62adaae68c4294d15b41e484bb2a6c93"
     },
     {
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1",
-      "checked_on": "2026-10-02",
-      "supports": "Aktive Mitwirkung an derselben Verletzung von wirtschaftlicher Zustimmung, bloßer Nähe, nachträglicher Billigung und unzureichender Überwachung unterscheiden. Die nachgewiesenen Beiträge und die jeweils verletzten Pflichten bestimmen die Fallgruppe. Grenze: Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht."
+      "checked_on": "2026-10-09",
+      "supports": "Ein Stimmverbot wegen gemeinschaftlicher Pflichtverletzung greift nicht allein deshalb, weil einer vorsätzlichen Kompetenzüberschreitung des Geschäftsführers ein andersartiges Aufsichtsversäumnis eines anderen Gesellschafters gegenübersteht. Gemeinsames Fehlverhalten ist konkret darzulegen.",
+      "limits": "Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "82f1c032f2bf5a7c0b0807b3872e0601a68269c003cf37a933f9d18513889b72"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-09",
+      "supports": "Eine Satzung, die fernmündliche Abstimmung außerhalb einer Versammlung nach fernmündlichem Einverständnis aller Gesellschafter erlaubt, lässt im Zweifel auch mündliche Erklärungen und schlüssiges Verhalten zu. Die gesellschaftsrechtliche Klausel ist objektiv anhand Wortlaut, Zweck und Zusammenhang auszulegen. Die Mitwirkung beider Gesellschafter an einer Grundschuldbestellung konnte ein Indiz für Verfahrenseinverständnis und Stimmabgabe sein.",
+      "limits": "Kein allgemeiner Vorrang mündlicher Absprachen vor § 48 GmbHG, kein Einverständnis durch bloßes Schweigen und keine abschließend festgestellte Genehmigung. Der BGH verwies zurück: konkrete Erklärungen und wirksame Bestellung des genehmigenden Geschäftsführers blieben aufzuklären. Die Grundschuld ersetzt weder Organbestellung noch Vertretungsmacht. Das Versäumnisurteil beruht auf Sachprüfung; eine spätere Rechtskraft oder Einspruchserledigung wird hier nicht behauptet.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "5c5c7d5908d7ee50a2eb6dac7414025ee0bc6bfca613c96cda033e8c3ecfb927"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-09",
+      "supports": "Die Feststellung der materiellen Gesellschafterstellung gegenüber der GmbH kann trotz Eintragung in die aufgenommene Gesellschafterliste nach § 256 Abs. 1 ZPO zulässig bleiben. Ernstliches Bestreiten durch die Gesellschaft begründet regelmäßig eine gegenwärtige Unsicherheit; die bloße Listenkorrektur beseitigt sie nicht notwendig. Das Urteil behandelt die materielle Stellung und die formelle Legitimation als verschiedene Rechtsfragen.",
+      "limits": "Keine abstrakte Feststellung ohne rechtliches Interesse, kein pauschales Urteil gegen alle Mitgesellschafter und keine allgemeine Registersperre. Die Rechtmäßigkeit des Anteilserwerbs war in der Revision nicht mehr angegriffen. Die Entscheidung nimmt die nötige Prüfung des konkreten Erwerbs oder Ausschlusses nicht ab.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2"
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-09",
+      "supports": "Freie Hinauskündigungsklauseln bleiben bei GmbH und Personengesellschaft grundsätzlich nach § 138 Abs. 1 BGB nichtig; besondere Umstände können sie innerhalb der Gesamtwürdigung sachlich rechtfertigen. Bei einem Managermodell ist maßgeblich, ob die Beteiligung dem Tätigkeitszweck dient und daneben keine relevante eigenständige Bedeutung besitzt. Eine Beteiligung zum Verkehrswert mit Verlustrisiko oder ausschließlich am späteren Verkaufserlös schließt die Rechtfertigung nicht zwingend aus.",
+      "limits": "Der konkrete Fall betraf eine KG als Managementbeteiligungsvehikel; der BGH nennt GmbH-Grundsätze ausdrücklich, überträgt aber nicht die KG-Prozessordnung auf die GmbH. Weder jede als „Bad Leaver“ bezeichnete Klausel noch ein bestimmter Preisabschlag ist gebilligt. Zur konkreten Ausübungskontrolle wurde zurückverwiesen. Zulässiges Ausscheiden bedeutet nicht automatisch wirksame Abfindungsklausel; eine angemessene Abfindung heilt umgekehrt keine unzulässige Hinauskündigung.",
+      "downloaded_on": "2026-10-08",
+      "original_sha256": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715"
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 15, 16, 34, 40: Notarielle Anteilsabtretung und Verpflichtung; Listenlegitimation; Satzungsgrundlage und Erwerbszeitpunkt für Zwangseinziehung; Einreichungsverantwortung.",
+      "limits": "Kein identischer Vollzugsweg für Einziehung, Abtretung und gerichtlichen Ausschluss; Liste beweist nicht allein materiellen Erwerb."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 30, 31, 35, 37: Kapitalerhaltung mit Ausnahme bestimmter Darlehensrückgewähr; Gesamtvertretung als eigene Ebene; grundsätzlich fehlende Außenwirkung interner Beschränkungen.",
+      "limits": "§30 Abs1 S3 beseitigt nicht Insolvenzrecht; §37 Abs2 heilt keine fehlende zweite Vertretung; besondere Gesellschaftergeschäfte nach GS-01 prüfen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 38, 46, 47: Ordentliche Abberufung lässt vertragliche Ansprüche unberührt; Organ-/Anspruchsverfolgungskompetenzen, Stimmgewicht, Textformvollmacht und gegenstandsbezogene Stimmverbote.",
+      "limits": "Kein Stimmverbot bei jeder persönlichen Betroffenheit; keine automatische Beendigung der Anstellung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 48, 50, 51: Textform in §48 Abs2 auch für Sachstimmabgabe; Minderheitsverlangen ab zehn Prozent und bedingte Selbsthilfe; Einberufung und Ankündigung.",
+      "limits": "Kein allgemeines Chat-/Schweigeeinverständnis; Selbsthilfe nicht ohne Voraussetzungen; abweichende Satzung und notarielle Form bleiben eigene Prüfungen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 51a, 51b: Individuelle Information; kumulative Verweigerungsvoraussetzungen plus Gesellschafterbeschluss; Verweisung allein auf §132 Abs1,3,4 AktG.",
+      "limits": "Keine aus §132 Abs2 AktG importierte Zweiwochenfrist; Informationsverfahren ersetzt keine Anfechtung beliebiger Beschlüsse."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/BJNR004770892.html",
+      "checked_on": "2026-10-09",
+      "supports": "GmbHG §§ 53, 54, 55: §53 Abs2 Dreiviertelmehrheit abgegebener Stimmen; Abs3 Beurkundung; Abs4 Zustimmung sämtlicher beteiligter Gesellschafter bei Leistungsvermehrung. §54 Abs3 Wirksamkeit mit Eintragung. §55 Abs1 notariell aufgenommene/beglaubigte Übernahme.",
+      "limits": "Alte Absatznummern nicht übertragen; Kapitalerhöhungsmehrheit erzeugt nicht von sich aus neue Zahlungspflicht jedes Gesellschafters; nicht die überholte Ein-Anteil-Regel aus GS-13 anwenden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__132.html",
+      "checked_on": "2026-10-09",
+      "supports": "AktG §132 Abs1,3,4: Ausschließliches LG am Sitz; Verfahrensverweisung und Beschwerdezulassung; ZPO-Vollstreckung.",
+      "limits": "Abs2 wird durch §51b GmbHG nicht verwiesen; auch weitere Absätze nicht unterschiedslos übernehmen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/aktg/__99.html",
+      "checked_on": "2026-10-09",
+      "supports": "AktG §99 Abs1: FamFG gilt vorbehaltlich spezieller Regeln; durch §132 Abs3 weitervermittelt.",
+      "limits": "Nicht alle Statusverfahrensvorschriften oder Wirkungen gegen jedermann unbesehen auf §51b übertragen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__626.html",
+      "checked_on": "2026-10-09",
+      "supports": "BGB §626: Wichtiger Grund mit Gesamtumständen/Interessenabwägung; Zweiwochenfrist ab Kenntnis des Kündigungsberechtigten.",
+      "limits": "Keine GmbH-Beschlussklagefrist und kein stets identischer Fristbeginn ab erstem Verdacht."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/bgb/__162.html",
+      "checked_on": "2026-10-09",
+      "supports": "BGB §§162,164,177,181,242: Bedingungsmanipulation, Stellvertretung, Genehmigung, Insichgeschäft und Treu/Glauben werden als getrennte Tatbestände bearbeitet; Einzeloriginale der weiteren Normen im Abrufregister.",
+      "limits": "Kein pauschales Heilen jeder Vertretungslücke durch interne Zustimmung oder §181-Befreiung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__138.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §138: Wahrheitsgemäße vollständige Erklärung; Nichtwissen nur bei weder eigener Handlung noch eigener Wahrnehmung.",
+      "limits": "Kein pauschales Bestreiten sämtlicher eigenen Vorgänge; keine erfundene Erkundigung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__142.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §142: Gerichtliche Anordnung zur Vorlage bestimmter in Bezug genommener Urkunden/Unterlagen mit gesetzlichen Grenzen.",
+      "limits": "Kein allgemeiner vorprozessualer Anspruch auf Offenlegung sämtlicher fremder Akten."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__254.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §§253,254,256: Bestimmte Anträge, gesetzliche Stufenverbindung und Feststellung rechtlicher Verhältnisse sind verschiedene Prozessformen; Einzeloriginale §253/256 archiviert.",
+      "limits": "§254 begründet nicht selbst den materiellen Auskunftsanspruch; ungeklärte Tatsachen machen nicht jede Klage zur Stufenklage."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__167.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §167: Rückwirkung der demnächst erfolgenden Zustellung für bezeichnete Frist-/Verjährungswirkungen.",
+      "limits": "Klageeingang ist nicht ohne Voraussetzungen bereits Klageerhebung oder erwiesene Fristwahrung."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__929.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §§294,929,935,936,940,945: Glaubhaftmachung, konkrete Sicherung/Regelung, Monatsvollziehungsfrist bei einschlägigem inländischem Titel, entsprechende Arrestregeln und Schadensersatz.",
+      "limits": "Erlass allein bedeutet nicht Vollziehung; keine Dringlichkeitsvermutung aus bloßem Gesellschafterstreit. Einzeloriginale aller genannten Normen archiviert."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__15b.html",
+      "checked_on": "2026-10-09",
+      "supports": "InsO §§15a,15b,17,19: Antragspflichten, Zahlungsfolgen und Insolvenzgründe müssen mit konkreten Fälligkeiten/Vermögensdaten gesondert geprüft werden. Einzeloriginale archiviert.",
+      "limits": "Plan einer Kapitalerhöhung oder Fälligkeit eines Darlehens beseitigt Insolvenzreife nicht automatisch; Höchstfristen sind keine voraussetzungslose Warteerlaubnis."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__39.html",
+      "checked_on": "2026-10-09",
+      "supports": "InsO §39: Nachrang §39 Abs1 Nr5 mit Ausnahmen, u.a. Abs4 Sanierung, Abs5 nicht geschäftsführende Kleinbeteiligung bis zehn Prozent und Förderbankregel Abs1 S2.",
+      "limits": "Aktueller Prozentsatz allein beweist kein Privileg; Nachrang nicht mit zivilrechtlicher Nichtexistenz gleichsetzen."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/inso/__135.html",
+      "checked_on": "2026-10-09",
+      "supports": "InsO §135: Sicherung zehn Jahre, Befriedigung ein Jahr vor Antrag sowie danach; Abs2 Drittdarlehen mit Gesellschaftersicherheit, Abs4 Verweis auf §39 Abs4/5.",
+      "limits": "Keine generelle Unanfechtbarkeit schneller Darlehensrückzahlung; Sicherheit und Befriedigung nicht verwechseln."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/geschgehg/BJNR046610019.html",
+      "checked_on": "2026-10-09",
+      "supports": "GeschGehG §§2–6,16–20: Konkretes Geheimnis, angemessene Maßnahmen, Erwerb/Nutzung/Ausnahmen; Geheimhaltung auf Antrag, Glaubhaftmachung/Kennzeichnung und Gehörsschutz mit Mindestzugang.",
+      "limits": "Download allein beweist keine Nutzung; nicht jede Anlage ist ein Geheimnis; Gegenpartei darf nicht vollständig ausgeschlossen werden."
+    },
+    {
+      "url": "https://www.gesetze-im-internet.de/zpo/__273a.html",
+      "checked_on": "2026-10-09",
+      "supports": "ZPO §273a: Auf Antrag entsprechende §§16–20 GeschGehG für streitgegenständliche Informationen im ZPO-Verfahren.",
+      "limits": "Unmittelbare Anwendbarkeit auf FamFG-Verfahren nach §51b durch geprüfte Normen nicht belegt."
     }
   ],
   "mini_review": {
     "verdict": "revised",
-    "reason": "Endgültigen Mini vollständig neu gelesen. Die beiden konkreten Erstlaufbefunde werden durch ausdrückliche Fallgruppen- und Stichtagsregeln adressiert; die sonstigen Mandats-, Beleg-, Quellen- und Produktregeln bleiben erhalten. Dies ist die Desk-Review der geänderten Fassung. Die davon getrennte abgeschlossene Modellnachprobe ist unter regression_review_status ausschließlich für ihren begrenzten Prüfbereich dokumentiert.",
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten.",
     "changes": [
-      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
+      "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
+      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist."
     ],
-    "sha256": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03"
+    "sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7"
   },
   "workshop_review": {
     "verdict": "revised",
-    "reason": "Werkstatt 1.1–1.31 vollständig zuvor gelesen; Änderungen in 1.9/1.21 und kompletter neu synchronisierter Ankerabschnitt mit 15 amtlichen Entscheidungen erneut gegengelesen. Gemeinschaftliche Pflichtverletzung und andersartiges Aufsichtsversäumnis konkret getrennt; ausdrückliche Satzungsstichtage nicht durch Mitteilung ersetzen. Desk-Review, kein Werkstatt-Modelllauf.",
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "reason": "Fachliche und redaktionelle Textprüfung der geänderten Fassung; tatsächliche Modellprobe getrennt dokumentiert. Historische Probe unverändert erhalten.",
     "changes": [
-      "GS-04 trennt nun den grundsätzlichen Ausschluss der eigenen Geltendmachung von Ansprüchen gegen Fremdgeschäftsführer von der zusätzlichen Subsidiarität einer Gesellschafterklage (BGH II ZR 85/23, Rn. 11/14). MD/TXT identisch fortgeschrieben.",
-      "GS-14/GS-15: BGH II ZR 167/07 Rn. 28–31 und II ZR 166/07 Rn. 11 amtlich verifiziert, mit Fallgrenze in Workflow und Quellenabschnitt ergänzt.",
-      "§ 1.21 präzisiert die bereits vorhandene Trennung von Bewertung, Zinsbeginn, Wirkung und Fälligkeit anhand ausdrücklicher Satzungsregeln.",
-      "06.10.2026: Eng begrenzte Zitierklarstellung nach erneutem Lesen des amtlichen Volltexts von II ZR 91/21. Urteil vom 08.11.2022 und Berichtigungsbeschluss vom 31.01.2023 stehen getrennt; die Berichtigung betrifft in Rn. 40 allein GmbHG/BeurkG. Sachliche Anker und übriger Workshop unverändert; keine neue vollständige Modellprüfung behauptet."
+      "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
+      "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
+      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist."
     ],
-    "sha256": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6"
+    "sha256": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a"
   },
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-02",
+    "reviewed_on": "2026-10-09",
     "verdict": "revised",
-    "reason": "Endgültigen Hauptproblem-Prompt vollständig neu gelesen; die konkrete gemeinsame Pflichtverletzung und Satzungsstichtagsregel wurden ohne pauschale Stimmsperre oder unbelegte Stichtagsannahme ergänzt. Hauptskill unverändert. Desk-Review, kein behaupteter Modellnachtest.",
+    "reason": "Hauptproblem vollständig neu gelesen und mit Hauptskill abgeglichen. Konkrete Konfliktbearbeitung mit aktuellen Ankern aus 2026, Produkt- und Fortsetzungslogik. Desk-Review; kein gesonderter Hauptproblem-Modelllauf.",
     "changes": [
-      "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      "Drei amtlich gelesene BGH-Anker aus 2026 mit konkreter Grenze. Beschlussform, Mitgliedschaft und Leaver getrennt.",
+      "Klageerwiderung mit eigener Wahrnehmung, konkretem Bestreiten und Beweismitteln; Regelungswerk mit verschiedenen Bindungs- und Vollzugsebenen.",
+      "BGH-Monatsmaßstab für GmbH-Anfechtung konkretisiert; keine Universalfrist."
     ],
     "prompt_path": "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
     "skill_path": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
-    "prompt_sha256": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
-    "skill_sha256": "a1f1c08f7dd622ece40bf37c5ac7da65075439eb51cb6b34b428beac6e4618cb"
+    "prompt_sha256": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30",
+    "skill_sha256": "a34243d57429b784ae2eee4bf68cb77caca7b7fe61304f4659149d2cfd8644fa"
   },
   "prompt_editorial_review": {
-    "date": "2026-10-02",
-    "opening_change": "Einstieg anhand des bereits vorliegenden Mandats und der originalen Streitakte; anschließend Beschlusskarten je TOP, eigener Nenner und konkreter Feststellungs-/Vollzugsstand. Einziehung, Organamt, Anstellung, Liste und Geldströme erhalten getrennte rechtliche Ergebnisse.",
+    "date": "2026-10-09",
+    "opening_change": "Mandatsbezogene Bearbeitung von Beschlussstreit, Klageerwiderung oder Regelungswerk; Rechtsprechungsanker nur mit konkreter Sachverhalts- und Übertragungsprüfung.",
     "norms": [
       "§ 5a GmbHG",
       "§ 15 GmbHG",
@@ -614,94 +810,112 @@
     ],
     "decisions": [
       {
-        "citation": "BGH, Urt. v. 05.05.2026 – Az. II ZR 2/25, Rn. 19–31 und 35–44",
+        "citation": "**BGH, Urt. v. 05.05.2026 – Az. II ZR 2/25**, berichtigt durch Beschl. v. 29.07.2026, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2), **Rn. 19–31 und 35–44**.",
         "application": "Liste und richtige Adressatin feststellen; Zugang für jede Gesellschaft getrennt belegen. Bei Geschäften mit verbundenen Unternehmen Vertretungsmacht, § 181 BGB und erforderliche gesellschaftsinterne Zustimmung getrennt prüfen.",
         "limit": "Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2"
       },
       {
-        "citation": "BGH, Urt. v. 10.07.2025 – Az. IX ZR 189/24, Rn. 6–28, insbesondere Rn. 9, 12–25",
+        "citation": "**BGH, Urt. v. 10.07.2025 – Az. IX ZR 189/24**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1), **Rn. 6–28, insbesondere Rn. 9, 12–25**.",
         "application": "Geldhingabe, Fremdschuldtilgung, Aufwandserstattung und eigenes Leistungsentgelt anhand der Belege auseinanderhalten. Entstehung, Fälligkeit, tatsächliche Rückzahlung und Insolvenzantragsdatum erfassen; bei Rückzahlung § 135 Abs. 1 Nr. 2 InsO prüfen.",
-        "limit": "Keine allgemeine Dreimonatsfreigrenze. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
+        "limit": "Keine allgemeine Dreimonatsfreigrenze: Bei Austauschforderungen indiziert ein Stehenlassen von mehr als drei Monaten regelmäßig die Finanzierungsfunktion; darunter bedarf es weiterer Indizien (Rn. 23). Für echtes Darlehen oder Fremdschuldtilgung gilt dieser Zeitraum nicht. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 18.03.2025 – Az. II ZR 77/24, Rn. 14–20, insbesondere Rn. 19",
+        "citation": "**BGH, Urt. v. 18.03.2025 – Az. II ZR 77/24**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1), **Rn. 14–20, insbesondere Rn. 19**.",
         "application": "Kündigungsschreiben vollständig auslegen: Briefkopf, Text, Unterschrift, Funktionen, Beschluss und Ermächtigung. Organabberufung und Kündigung des Anstellungsvertrags bleiben verschiedene Maßnahmen.",
         "limit": "Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 05.11.2024 – Az. II ZR 85/23, Rn. 11–25, insbesondere Rn. 17–24",
+        "citation": "**BGH, Urt. v. 05.11.2024 – Az. II ZR 85/23**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1), **Rn. 11–25, insbesondere Rn. 17–24**.",
         "application": "Anspruchsinhaber, Prozessführungsbefugnis, Beschluss nach § 46 Nr. 8 GmbHG und Prozessvertretung trennen. Für jeden Vertreter die konkrete Interessenkollision erfassen.",
         "limit": "Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 23.04.2024 – Az. II ZR 99/22, Rn. 10–19",
+        "citation": "**BGH, Urt. v. 23.04.2024 – Az. II ZR 99/22**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1), **Rn. 10–19**.",
         "application": "Aktuelle Organpflichten, nachvertragliches Verbot, Vergütungsregelung und gesetzlichen Geheimnisschutz getrennt bearbeiten. Konkrete Kunden-, Produkt- und Geheimnisinteressen sowie die tatsächlichen Konkurrenzhandlungen belegen.",
-        "limit": "Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
+        "limit": "Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. Nach Rn. 18 lässt sich ein nicht nur zeitlich überbreites Verbot nicht beliebig gerichtlich auf zulässige Kunden, Produkte oder Gebiete zurückschneiden; Rn. 19 betrifft zudem den möglichen Gesamtwegfall nach § 139 BGB. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Versäumnisurt. v. 11.07.2023 – Az. II ZR 116/21, Rn. 14–28 und 37–40",
+        "citation": "**BGH, Versäumnisurt. v. 11.07.2023 – Az. II ZR 116/21**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1), **Rn. 14–28 und 37–40**.",
         "application": "Ausschlussklage, satzungsmäßigen Ausschluss, Einziehung und Übertragung unterscheiden. Abfindungsbewertung, gebundenes Vermögen und belastbare Zahlungsfinanzierung gesondert vorlegen.",
         "limit": "Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21, Rn. 19–35 und 62–68",
+        "citation": "**BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1), **Rn. 19–35 und 62–68**.",
         "application": "Für Gesellschaft und handelnde Person jeweils Anspruchsgrundlage, Pflichtenkreis, Rechtsverletzung und Antrag formulieren. Materielle Anteilseignerschaft von der formellen Legitimation nach § 16 Abs. 1 GmbHG trennen.",
         "limit": "Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 02.07.2019 – Az. II ZR 406/17, Rn. 31–48, insbesondere Rn. 35–43 und 46–48",
+        "citation": "**BGH, Urt. v. 02.07.2019 – Az. II ZR 406/17**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1), **Rn. 31–48, insbesondere Rn. 35–43 und 46–48**.",
         "application": "Konkreten Antrag zum drohenden Listenakt, Tatsachen für Eilbedürftigkeit, Glaubhaftmachung und rechtzeitige Vollziehung vorbereiten. Eine erlassene Verfügung dem befassten Notar rechtzeitig bekannt machen.",
         "limit": "Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16, Rn. 13–17",
+        "citation": "**BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1), **Rn. 13–17**.",
         "application": "Auf den Beschlusszeitpunkt bezogene Unterlagen zum freien Vermögen, zur Abfindungsschuld und zu realisierter Finanzierung verlangen. Unternehmenswert und kapitalerhaltungsrechtliche Vermögensbindung mit unterschiedlichen Rechenwerken prüfen.",
         "limit": "Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 04.04.2017 – Az. II ZR 77/16, Rn. 9–17",
+        "citation": "**BGH, Urt. v. 04.04.2017 – Az. II ZR 77/16**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1), **Rn. 9–17**.",
         "application": "Für jeden TOP Organmaßnahme, Vertragsmaßnahme, behauptete Tatsachen, Belege, Gegenargumente und die Auswirkungen auf den Stimmennenner gesondert dokumentieren. § 38 GmbHG und § 626 BGB mit ihren unterschiedlichen Voraussetzungen prüfen.",
         "limit": "Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 12.04.2016 – Az. II ZR 275/14, Rn. 13–17",
+        "citation": "**BGH, Urt. v. 12.04.2016 – Az. II ZR 275/14**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1), **Rn. 13–17**.",
         "application": "Bei streitiger Finanzierung oder Kapitalerhöhung Bedarf, Alternativen, Verhältnismäßigkeit und Minderheitenbelastung konkret prüfen. Eine rechtliche Stimmbindung aus Treuepflicht von einem gesetzlichen Stimmverbot und dessen Auswirkung auf den Nenner unterscheiden.",
         "limit": "Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 29.04.2014 – Az. II ZR 216/13, Rn. 11–19",
+        "citation": "**BGH, Urt. v. 29.04.2014 – Az. II ZR 216/13**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1), **Rn. 11–19**.",
         "application": "Abfindungsanspruch, Bewertungsregel, etwaige Begrenzung, nachgewiesene Schadensersatzansprüche und Aufrechnung getrennt prüfen. Bei Vorwürfen keine automatische Nullbewertung einsetzen.",
         "limit": "Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03, gedruckte S. 7–11, Gründe II.1.a–b und II.3",
+        "citation": "**BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1), **gedruckte S. 7–11, Gründe II.1.a–b und II.3**. Der amtliche Originaltext enthält keine Randnummern; keine nachträglichen Datenbank-Randnummern erfinden.",
         "application": "Kapitalerhöhung, Preis/Agio, Verwässerung, Zulassung, Bezugsrechtsausschluss und sachliche Rechtfertigung einzeln prüfen. Satzungsfristen, Beschlussfeststellung, Kenntnis und mögliche Rechtshandlungen sofort erfassen.",
         "limit": "Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07, Rn. 28–31",
+        "citation": "**BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1), **Rn. 28–31**.",
         "application": "Für jeden Beteiligten Tatbeitrag, Kenntnis, Pflicht und Beleg erfassen. Bei einer gemeinsam veranlassten pflichtwidrigen Zahlung die Stimme des Mitwirkenden gesondert prüfen und die tragfähigen Varianten neu rechnen; bloße Empfängerstellung genügt nicht.",
         "limit": "Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1"
       },
       {
-        "citation": "BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07, Rn. 11",
+        "citation": "**BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1), **Rn. 11**.",
         "application": "Aktive Mitwirkung an derselben Verletzung von wirtschaftlicher Zustimmung, bloßer Nähe, nachträglicher Billigung und unzureichender Überwachung unterscheiden. Die nachgewiesenen Beiträge und die jeweils verletzten Pflichten bestimmen die Fallgruppe.",
         "limit": "Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.",
         "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "**BGH, Versäumnisurt. v. 16.06.2026 – Az. II ZR 13/25**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1), **Rn. 19–29**, insbesondere Rn. 21–26 und 28.",
+        "application": "Erst konkrete Satzung lesen; dann getrennt das Einverständnis sämtlicher Gesellschafter mit dem Verfahren und die Sachstimmen der für den Gegenstand Stimmberechtigten feststellen. Erklärende Person, jeweilige Vertretungsrolle und tatsächliches Verhalten belegen. Auch ein vom Sachstimmrecht ausgeschlossener Gesellschafter ist bei notwendigem allseitigem Verfahrenseinverständnis nicht einfach wegzulassen.",
+        "limit": "Kein allgemeiner Vorrang mündlicher Absprachen vor § 48 GmbHG, kein Einverständnis durch bloßes Schweigen und keine abschließend festgestellte Genehmigung. Der BGH verwies zurück: konkrete Erklärungen und wirksame Bestellung des genehmigenden Geschäftsführers blieben aufzuklären. Die Grundschuld ersetzt weder Organbestellung noch Vertretungsmacht. Das Versäumnisurteil beruht auf Sachprüfung; eine spätere Rechtskraft oder Einspruchserledigung wird hier nicht behauptet.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "**BGH, Urt. v. 21.04.2026 – Az. II ZR 50/25**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1), **Rn. 17–30**, insbesondere Rn. 18, 22–29.",
+        "application": "Nach Rückkehr in die Liste prüfen, ob der Mitgliedschaftsstreit weiterbesteht. Bestreiten, frühere Listenwechsel und konkrete Folgen belegen; Feststellung gegen die Gesellschaft beantragen. Anteil und Umfang hinreichend bestimmen; im Fall genügte die Feststellung der Beteiligung zu 75 Prozent, ohne dass bestimmte Anteile zugewiesen werden sollten.",
+        "limit": "Keine abstrakte Feststellung ohne rechtliches Interesse, kein pauschales Urteil gegen alle Mitgesellschafter und keine allgemeine Registersperre. Die Rechtmäßigkeit des Anteilserwerbs war in der Revision nicht mehr angegriffen. Die Entscheidung nimmt die nötige Prüfung des konkreten Erwerbs oder Ausschlusses nicht ab.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1"
+      },
+      {
+        "citation": "**BGH, Urt. v. 10.02.2026 – Az. II ZR 71/24**, [amtlicher Volltext](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1), **Rn. 17–22, 28–40 und 47–67**.",
+        "application": "Drei Prüfungen mit eigenen Tatsachen und Ergebnissen durchführen: Wirksamkeit des Ausscheidensmechanismus; Angemessenheit des Rückkaufpreises beziehungsweise der Abfindung; konkrete Optionsausübung, insbesondere manipulierter Abberufungszeitpunkt vor einem Verkauf nach § 162 Abs. 2 oder § 242 BGB. Beteiligungszweck, Einflussrechte, Kapitaleinsatz, Risiko, Erlöskonzept, Tätigkeitsbindung, Auslöser und Optionsfrist aus Originalverträgen erheben.",
+        "limit": "Der konkrete Fall betraf eine KG als Managementbeteiligungsvehikel; der BGH nennt GmbH-Grundsätze ausdrücklich, überträgt aber nicht die KG-Prozessordnung auf die GmbH. Weder jede als „Bad Leaver“ bezeichnete Klausel noch ein bestimmter Preisabschlag ist gebilligt. Zur konkreten Ausübungskontrolle wurde zurückverwiesen. Zulässiges Ausscheiden bedeutet nicht automatisch wirksame Abfindungsklausel; eine angemessene Abfindung heilt umgekehrt keine unzulässige Hinauskündigung.",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1"
       }
     ],
     "remaining_limits": [
@@ -713,7 +927,7 @@
   },
   "prompt_workflow_review": {
     "method": "desk_review",
-    "date": "2026-10-02",
+    "date": "2026-10-09",
     "opening_modes": [
       "Bereits abgehaltene Versammlung: Mandat, Satzung, tatsächliche Stimmen, Ergebnisfeststellung und drohenden Vollzug aus vorhandener Akte lesen; notwendige Entwürfe früh beginnen.",
       "Erst geplante Finanzierung: Kapitalbedarf, Ausgabeparameter, Bezugsrechte und Alternativen prüfen; Einladung/Beschlüsse vollständig vorbereiten und notarielle Schritte unterscheiden.",
@@ -721,7 +935,7 @@
     ],
     "continuation": "Neue Liste, Beiratsnachricht oder Finanzunterlage ändert nur die betroffenen Bewertungen samt Abhängigkeiten; Chronologie, Nenner, Vertretung, Risikobewertung und Entwürfe fortschreiben. Bereits belegte Rollen und Angaben nicht nochmals pauschal erheben.",
     "enrichment": "Aus dem internen Befund werden vollständige Empfängertexte, Beschlussvorschläge, gerichtliche Entwürfe oder ein abgestimmter Vergleich. Neue Fassungen gegen Mandat, Quellen, Rechenwerk, Fristen und Vollzugsschritte zurückprüfen.",
-    "limits": "Individuelle Desk-Review der tatsächlich gelesenen Texte. Ein separater erster Mini-Falllauf deckte zwei konkrete Ausführungslücken auf; sein Ergebnis bleibt 20 erfüllt/2 teilweise erfüllt. Die geänderte Mini-Fassung bestand anschließend eine gesonderte begrenzte Modellnachprobe zu Z4/Z5 und Abfindungsstichtagen. Das ist kein vollständiger zweiter Falllauf und keine pauschale Bestätigung späteren Modellverhaltens."
+    "limits": "Aktuelle Textprüfung; frühere Modellläufe bleiben historische begrenzte Nachweise. Neuer Berlin-Durchlauf gesondert, keine pauschale Bestätigung aller Modelle oder Anwendungsfälle."
   },
   "cases": [
     {
@@ -932,6 +1146,301 @@
             "beratung-mit-beschlussmatrix.docx",
             "beanstandung-und-unterlagenanforderung.docx",
             "gerichtliche-sicherung-entwurf.docx"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesellschafterstreit-klageerwiderung-berlin-nachtrag",
+      "request": "Berlin mit Nachtrag: Mandat der GmbH anhand zugestellter Klage und nachgereichter Belege bearbeiten. Vollständige Klageerwiderung und interne Frist-/Belegnotiz; keine Außenhandlung.",
+      "target_skill": "gesellschafterstreit-loesen",
+      "input_files": [
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/01_Mandat_Rabenstein.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/02_Klage_Seidel.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/03_Gerichtliche_Verfuegung.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/04_Zustellung_Posteingang.txt",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/05_Gesellschaftsvertrag_K1.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/06a_Gesellschafterliste_K2.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/06b_Registerabruf_K3.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/07_Einladung_K4.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/08_Niederschrift_K5.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/09_Geschaeftsordnung.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/10_Rechnung_SBS_K6.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/11_Nachrichten_K7.txt",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/12_Beanstandung_K8.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/13_Antwort_Seidel_K9.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/14_Wareneingang_Lindenhof.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/15_Zeuge_Brandt.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/16_Rechnungseingang.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/17_Bankprotokoll.csv",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/18_Telefonvermerk_Heller.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/19_Projektkonto.xlsx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N01_Ergaenzung_Brandt.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N01_Ergaenzung_Brandt.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N02_Betriebsbuch_Riedel.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N02_Betriebsbuch_Riedel.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N03_Seidel_Kalkulationsnachtrag.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N03_Seidel_Kalkulationsnachtrag.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N04_Heller_Post_und_Ablage.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N04_Heller_Post_und_Ablage.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N05_IT_Nachrichtenexport.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N05_IT_Nachrichtenexport.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N06_Rabenstein_Stellungnahme.docx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N06_Rabenstein_Stellungnahme.pdf",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N07_Brandt_Nachreichung.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N08_Riedel_Betriebsbuch.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N09_Gegenseite_Kalkulation.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N10_IT_Uebergabe.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N11_Kanzleibuero_Unterlagen.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N12_Rabenstein_Stand.eml",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N13_Belegabgleich_Lindenhof.xlsx",
+        "testakten/gesellschafterstreit-klageerwiderung-berlin/Nachtrag_2026-10-08/N14_Buerochat_08_Oktober.txt"
+      ],
+      "deliverables": [
+        "klageerwiderung.md",
+        "interne-notiz.md"
+      ],
+      "criteria": [
+        {
+          "id": "nachtrag-1",
+          "text": "Mandantin, Gericht, Parteien, Vertretung und Zustellung aus Originalen ermitteln; keine erfundenen Zustelldaten.",
+          "deliverables": [
+            "klageerwiderung.md",
+            "interne-notiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-2",
+          "text": "Jede erhebliche Klägerbehauptung beantworten, eigene Vorgänge nicht pauschal mit Nichtwissen bestreiten; konkrete Zeugenwahrnehmung von Hörensagen trennen.",
+          "deliverables": [
+            "klageerwiderung.md",
+            "interne-notiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-3",
+          "text": "Neue Angaben mit alter Brandt-Mail vergleichen, korrigierte Erinnerung kenntlich machen; Seriennummern, Ersatz-/Altgeräte, Kunde und Transport nicht vermischen.",
+          "deliverables": [
+            "klageerwiderung.md",
+            "interne-notiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-4",
+          "text": "Altbeleg 18.400 EUR erhalten; rechnerische Umsatzsteuerdifferenz von 0,01 EUR offenlegen. Differenz zum Angebot nicht automatisch als Schaden oder Rückzahlungsanspruch setzen.",
+          "deliverables": [
+            "klageerwiderung.md",
+            "interne-notiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-5",
+          "text": "Neue Belege mit stabilen Anlagenkennungen zuordnen; Subsumtion und Gegenargumente vollständig ausformulieren.",
+          "deliverables": [
+            "klageerwiderung.md",
+            "interne-notiz.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesellschafterstreit-shareholder-agreement-muenchen-nachtrag",
+      "request": "München mit Nachtrag: Regelungswerk nach Mandatsauftrag vollständig entwerfen, offene Verhandlungspunkte sichtbar halten, Notar- und Vollzugsschritte abgrenzen.",
+      "target_skill": "gesellschafterstreit-loesen",
+      "input_files": [
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/01_Mandat_Hildegard.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/02_Satzung_2021.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/03_Gesellschafterliste.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/04_Angebot_Investor.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/05_Eckpunkte_Vogl.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/06_Entwurf_Quirin.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/07_Hildegard_Rueckmeldung.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/08_Chat_Gruender.txt",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/09_Geschaeftsfuehrervertrag_Rottmayer.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/10_Entwicklungsbestand.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/11_Horn_Nutzungsrechte.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/12_Pruefstand_Bestellung.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/13_Bank_Rueckfrage.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/14_Auftragsbuch.csv",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/15_Telefonnotiz_Vogl.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/16_Notariat_Termin.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/17_Budgetnotiz_Ottmar.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/18_Beteiligungsrechnung.xlsx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N01_Gespraech_05_Oktober.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N01_Gespraech_05_Oktober.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N02_Quirin_Gegenentwurf.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N02_Quirin_Gegenentwurf.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N03_Ottmar_Zahlungsstand.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N03_Ottmar_Zahlungsstand.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N04_Horn_Zusatzangebot.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N04_Horn_Zusatzangebot.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N05_Notariat_Unterlagen.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N05_Notariat_Unterlagen.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N06_Vogl_Anmerkungen.docx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N06_Vogl_Anmerkungen.pdf",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N07_Ottmar_Protokoll.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N08_Hildegard_Entwurf.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N09_Vogl_Position.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N10_Horn_Angebot.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N11_Bank_Stand.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N12_Notariat_Nachforderung.eml",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N13_Kapital_und_Freigaben.xlsx",
+        "testakten/gesellschafterstreit-shareholder-agreement-muenchen/Nachtrag_2026-10-08/N14_Chat_Lager_und_Vertretung.txt"
+      ],
+      "deliverables": [
+        "gesellschaftervereinbarung.md",
+        "vollzugsnotiz.md"
+      ],
+      "criteria": [
+        {
+          "id": "nachtrag-1",
+          "text": "Parteien, konkrete Satzung und verhandeltes Investorenszenario lesen; fremde Pflichtübernahme nicht ohne Beitritt fingieren.",
+          "deliverables": [
+            "gesellschaftervereinbarung.md",
+            "vollzugsnotiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-2",
+          "text": "Kapital 31.250 EUR, Quoten 48/32/20 Prozent und Agio 193.750 EUR getrennt von tatsächlichem Zahlungseingang darstellen.",
+          "deliverables": [
+            "gesellschaftervereinbarung.md",
+            "vollzugsnotiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-3",
+          "text": "Mehrheitsnenner, Bezugsrechte, Deadlock, Vertretung und Beiratsrechte in zusammenpassende Klauseln überführen; schuldrechtliche Bindung ersetzt keine Satzungsänderung.",
+          "deliverables": [
+            "gesellschaftervereinbarung.md",
+            "vollzugsnotiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-4",
+          "text": "Leaver, Preis und Ausübung gesondert; Gründerrolle nicht ungeprüft als Managementmodell behandeln.",
+          "deliverables": [
+            "gesellschaftervereinbarung.md",
+            "vollzugsnotiz.md"
+          ]
+        },
+        {
+          "id": "nachtrag-5",
+          "text": "IP-Nachweise, Bankbedingungen und operative Verträge nicht als bereits erfüllt behandeln; offener Verhandlungsstand bleibt erkennbar.",
+          "deliverables": [
+            "gesellschaftervereinbarung.md",
+            "vollzugsnotiz.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gesellschafterstreit-zink-und-zunder-nachtrag",
+      "request": "Zink und Zunder mit Nachtrag: bisherigen persönlichen Auftrag Romys fortführen, neue Finanz-,IT-,Kunden- und Beiratsbelege abgleichen; vollständige erforderliche Schreiben und interne aktualisierte Beratung.",
+      "target_skill": "gesellschafterstreit-loesen",
+      "input_files": [
+        "testakten/gesellschafterstreit-zink-und-zunder/01_Mandatsauftrag_Romy.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/02_Gesellschaft_und_Personen.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/03_Satzung_Arbeitsabschrift_2023.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/04_Bestellung_und_Vertretung.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/05_Beiratsordnung.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/06_Darlehen_Romy_60000.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/07_Darlehen_Kunibert_40000.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/08_Beirat_Anfrage_Darlehen.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/09_Beirat_Zwischenantwort.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/10_Zahlungsnachweis_15_September.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/11_Steuerbuero_Rueckfragen.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/12_Finanzgespraech_Kapitalbedarf.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/13_Unverbindliches_Angebot_Hanna.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/14_Hanna_Angebotsversand.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/15_Romy_Garantien_und_Preis.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/16_Chat_Verkaeufergruppe.txt",
+        "testakten/gesellschafterstreit-zink-und-zunder/17_Fensterfuchs_Projektprofil.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/18_Kundenanfrage_Altbogen.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/19_CAD_Zugriffsprotokoll.txt",
+        "testakten/gesellschafterstreit-zink-und-zunder/20_IT_Vermerk_und_Rechte.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/21_Kunibert_Stellungnahme.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/22_Einladung_09_September.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/23_Einladung_Zugang.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/24_Romy_Ergaenzungsantrag.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/25_Tagesordnung_Nachtrag.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/26_Nachtrag_Zugang.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/27_Protokoll_25_September.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/28_Theklas_Mitschrift.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/29_Protokollversand_28_September.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/30_Romy_Zugang_und_Widerspruch.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/31_Beirat_Stand_30_September.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/32_Romys_Mandantennotiz.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/33_Genehmigung_Entwurf_ungezeichnet.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/34_Bueronotiz_Vollzugsstand.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/35_Rueckfrage_Abfindung.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/36_Samir_Hinweis_Ablage.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/37_Finanzuebersicht.xlsx",
+        "testakten/gesellschafterstreit-zink-und-zunder/38_Stimmen_und_Kapital.xlsx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N01_Gundula_Bank_und_OP.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N01_Gundula_Bank_und_OP.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N02_Thekla_Erinnerung.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N02_Thekla_Erinnerung.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N03_Milena_USB_Nachtrag.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N03_Milena_USB_Nachtrag.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N04_Marta_Gespraechsnotiz.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N04_Marta_Gespraechsnotiz.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N05_Hanna_Gespraech_06_Oktober.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N05_Hanna_Gespraech_06_Oktober.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N06_Samir_Bewertungsunterlagen.docx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N06_Samir_Bewertungsunterlagen.pdf",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N07_Gundula_Zahlen.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N08_Thekla_Ergaenzung.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N09_Kunibert_USB.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N10_Altbogen_Klarstellung.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N11_Hanna_Gespraech.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N12_Samir_Amtszeit.eml",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N13_Zahlungen_und_Abfindungsannahmen.xlsx",
+        "testakten/gesellschafterstreit-zink-und-zunder/Nachtrag_2026-10-08/N14_Chat_Termin_und_Betrieb.txt"
+      ],
+      "deliverables": [
+        "beratung.md",
+        "schreiben.md"
+      ],
+      "criteria": [
+        {
+          "id": "nachtrag-1",
+          "text": "Persönliches Mandat und Gesellschaftsansprüche trennen; den Nachtrag nicht auf frühere Kenntniszeitpunkte zurückdatieren.",
+          "deliverables": [
+            "beratung.md",
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "nachtrag-2",
+          "text": "Jeden Beschluss und seine Stimmverbote einzeln rechnen, Tatbeiträge und Gegenbelege berücksichtigen.",
+          "deliverables": [
+            "beratung.md",
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "nachtrag-3",
+          "text": "Bank 19.800 EUR, 51.800 EUR offene Posten davon 26.800 EUR fällig und 25.000 EUR später, Darlehensrest 70.000 EUR; neue Kapitalzusage über 80.000 EUR nicht als Zahlung buchen.",
+          "deliverables": [
+            "beratung.md",
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "nachtrag-4",
+          "text": "Bekannten Beirats-Ablagevermerk über Wiederbestellung vom 10.03.2026 berücksichtigen und zugrunde liegende Niederschrift gezielt anfordern; keine bloß behauptete Nichtbestellung.",
+          "deliverables": [
+            "beratung.md",
+            "schreiben.md"
+          ]
+        },
+        {
+          "id": "nachtrag-5",
+          "text": "IT-Zugriff nicht als bewiesene Nutzung behandeln; Verkaufsvorbehalte und ungeklärte Bewertung konkret bearbeiten.",
+          "deliverables": [
+            "beratung.md",
+            "schreiben.md"
           ]
         }
       ]
@@ -1177,26 +1686,26 @@
     }
   },
   "reviewed_file_hashes": {
-    "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03",
-    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6",
-    "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
-    "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "7cf3304b26b8c4cf6832298ff2a7d5566cabc8ce00a3a7220c367e2d6b0410c0",
-    "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "405a13fecba38854e5f5629350dedb401256989598be0a34e5791b517d45b8d6",
-    "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md": "3990cc0a11c4e7fed69a318adc732161642902f22695deeb8b05a40e3edb0b75",
-    "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md": "b5aa31221c4683e466bed9f04a89251dd855ed5905a7f889eadc65c2c6daa104",
-    "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md": "593021c13f460ee896d62382f94fed4e7f3f6af6bbe874237b926d41a82a8242",
-    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "a1f1c08f7dd622ece40bf37c5ac7da65075439eb51cb6b34b428beac6e4618cb",
-    "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md": "31b7530720ddb92eed030f3c4b5d92e11c4185f5a1b0ac4c6fd618a9e9bd7205",
-    "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md": "c18d705d72a1184bc2af40573b665e325ec8933f5f235303c466ffbbbca6f8e0",
-    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "c5ce65592a618cdec5aa348f3a183d5172fbf868a7fd4c90d8b0b8c029fb83d0",
-    "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md": "611fccb44c236428bbb3f6f0d9d21f477b564030ba49b986e5ab48cf009c9c07",
-    "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "e9f45549055794a9924e637d8224b51f983edc86d22ff8ccec8a060f05afa037",
-    "gesellschafterstreit/references/beschlusslogik.md": "326694ac990fe856fab3992d33493890ea86552bad29c5a30a1d2233304bb215",
-    "gesellschafterstreit/references/finanzierung-und-wettbewerb.md": "30fe953e8cb5d581dc6d41381c44441c303ed1f6f754bcf56786639118d39f00",
-    "gesellschafterstreit/references/rechtsprechungsanker.md": "764ee82506ea90d93924e43a273b8abfcdbcc4cfa49b82169acf30cae7cfa62e",
-    "gesellschafterstreit/references/verfahrenswahl.md": "be08b614f71db78c7fd7fd0495eff152a59b6347e0fd9d5e0df162f578e2793a",
+    "gesellschafterstreit/gesellschafterstreit-schnellstart.md": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7",
+    "gesellschafterstreit/gesellschafterstreit-werkstatt.md": "00f79fa4020d9264cb723e0b8f4ea9140b510f5ed58e77329f9f970551698c7a",
+    "gesellschafterstreit/gesellschafterstreit-hauptproblem.md": "019e888abd88b4806bfb6809daf100580b1e4a59f58c49336092a69d0f715a30",
+    "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md": "f36508889cc158468d66caadeece01c9f5a4f162c368a1f17dda34701508b961",
+    "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md": "a6c2cb017ab37deae2e8a52518c429491f088569127cdef7cd2eb923ca58dcd4",
+    "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md": "1dbc1cb5425e054f4a9d4494ba82d8d5bb6b074ab75ca23c80d5bc7f502ecb7e",
+    "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md": "d55a35d1efb3c43fc6e00f55e1ed7a0c0a6dff7f173e157f503993f845ba10fc",
+    "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md": "6789b7c9bf1b0d8c0e4b8c16124ee409fa6ceb0c8aed228239def1092113d481",
+    "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md": "a34243d57429b784ae2eee4bf68cb77caca7b7fe61304f4659149d2cfd8644fa",
+    "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md": "f7c61c17e8a5c7865b63e9c15b1731e56cec4df1cd6f92f80bf700250a83a419",
+    "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md": "405b0bfc006a2ef0896fd91626473631407b714df707431d19ebe930e278b0a0",
+    "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md": "46e76d25ea3205a34d9f8de0af8fb38bdd1b7530b7b03dfea11ca6c8bd5567a7",
+    "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md": "6a26a686c2a441f09654a2970e78e96e77ddbc4046c14a1e4ef9988c417f4b0f",
+    "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md": "af5871faf92e41122bfd94c6c870ec874f8b05b00793c2fd214b74da40700f81",
+    "gesellschafterstreit/references/beschlusslogik.md": "ef3472e5ba26a6f0ef34ba242670f0c3871639e0a262ebdf76b226c5eb9ddded",
+    "gesellschafterstreit/references/finanzierung-und-wettbewerb.md": "6028743d458804bdddc7b9c11f02baa12a7ef36b91f6602bf1da7e73a56799b2",
+    "gesellschafterstreit/references/rechtsprechungsanker.md": "f7ef184ee6b7e107dfc26b7743192dcea7ad11017aba693d1f29d8620ce361b2",
+    "gesellschafterstreit/references/verfahrenswahl.md": "4128c43ba69f89921b8374891790748b40cfb3ea472de730c73841684be682cb",
     "gesellschafterstreit/references/zitierweise.md": "134a0dd88187582587142f592497ca0d08f55a3d2b9b6dad8ccb91ea23ef7c9e",
-    "gesellschafterstreit/README.md": "31b12fddbb77341449e4ad31fb9303107aba6a3f3fb4ae320656f3fa8a2ebd15"
+    "gesellschafterstreit/README.md": "32083edca169c21bd4e4f7d82de5a88bbab826b5400b16fd891c5d3951120f6d"
   },
   "regression_review_status": {
     "date": "2026-10-02",
@@ -1264,10 +1773,292 @@
     }
   },
   "source_audit_review": {
-    "date": "2026-10-02",
-    "path": "quality/source-audits/gesellschafterstreit-2026-10-02/quellenbericht.md",
-    "sha256": "8f379e85f22b85801301122fd8b67c22ffddf1137b686fe748584f7aa20533f0",
-    "method": "desk_review",
-    "last_changes": "Leerzeile vor GS-14 aus der Rechtsprechungstabelle entfernt; Abschluss nennt unveränderte zentrale Zitierregeln und die gesonderte fachliche Beschlusslogik. Fachliche Aussagen unverändert."
+    "date": "2026-10-09",
+    "path": "quality/source-audits/gesellschafterstreit-2026-10-08/quellenbericht.md",
+    "sha256": "da699960a762131e58da76ded27d46698ad37a0916648c6c76a1d809a92ded15",
+    "method": "official_full_text_and_desk_review",
+    "last_changes": "18 Originalentscheidungen gelesen;15 Altanker mit identischen Originalhashes,3 neue Anker. Normen und Grenzen im Quellenbericht."
+  },
+  "review_history_2026_10_02": {
+    "mini_review": {
+      "verdict": "revised",
+      "reason": "Endgültigen Mini vollständig neu gelesen. Die beiden konkreten Erstlaufbefunde werden durch ausdrückliche Fallgruppen- und Stichtagsregeln adressiert; die sonstigen Mandats-, Beleg-, Quellen- und Produktregeln bleiben erhalten. Dies ist die Desk-Review der geänderten Fassung. Die davon getrennte abgeschlossene Modellnachprobe ist unter regression_review_status ausschließlich für ihren begrenzten Prüfbereich dokumentiert.",
+      "changes": [
+        "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      ],
+      "sha256": "74fbbba5fa52a949780417184fcb2d6d402f118c4ed141bc57e3f331ebe56f03"
+    },
+    "workshop_review": {
+      "verdict": "revised",
+      "reason": "Werkstatt 1.1–1.31 vollständig zuvor gelesen; Änderungen in 1.9/1.21 und kompletter neu synchronisierter Ankerabschnitt mit 15 amtlichen Entscheidungen erneut gegengelesen. Gemeinschaftliche Pflichtverletzung und andersartiges Aufsichtsversäumnis konkret getrennt; ausdrückliche Satzungsstichtage nicht durch Mitteilung ersetzen. Desk-Review, kein Werkstatt-Modelllauf.",
+      "changes": [
+        "GS-04 trennt nun den grundsätzlichen Ausschluss der eigenen Geltendmachung von Ansprüchen gegen Fremdgeschäftsführer von der zusätzlichen Subsidiarität einer Gesellschafterklage (BGH II ZR 85/23, Rn. 11/14). MD/TXT identisch fortgeschrieben.",
+        "GS-14/GS-15: BGH II ZR 167/07 Rn. 28–31 und II ZR 166/07 Rn. 11 amtlich verifiziert, mit Fallgrenze in Workflow und Quellenabschnitt ergänzt.",
+        "§ 1.21 präzisiert die bereits vorhandene Trennung von Bewertung, Zinsbeginn, Wirkung und Fälligkeit anhand ausdrücklicher Satzungsregeln.",
+        "06.10.2026: Eng begrenzte Zitierklarstellung nach erneutem Lesen des amtlichen Volltexts von II ZR 91/21. Urteil vom 08.11.2022 und Berichtigungsbeschluss vom 31.01.2023 stehen getrennt; die Berichtigung betrifft in Rn. 40 allein GmbHG/BeurkG. Sachliche Anker und übriger Workshop unverändert; keine neue vollständige Modellprüfung behauptet."
+      ],
+      "sha256": "e0036e9f694e61353379eb6cc3f68281523604e5494e161a6aee49bafce57dd6"
+    },
+    "focus_review": {
+      "method": "desk_review",
+      "reviewed_on": "2026-10-02",
+      "verdict": "revised",
+      "reason": "Endgültigen Hauptproblem-Prompt vollständig neu gelesen; die konkrete gemeinsame Pflichtverletzung und Satzungsstichtagsregel wurden ohne pauschale Stimmsperre oder unbelegte Stichtagsannahme ergänzt. Hauptskill unverändert. Desk-Review, kein behaupteter Modellnachtest.",
+      "changes": [
+        "Gemeinschaftliche konkrete Pflichtverletzung auch als mögliches Stimmverbot weiterer Beteiligter behandeln; andersartige Aufsichtsfehler abgrenzen. Bewertungs-/Zinsstichtag am Satzungswortlaut festhalten und von Mitteilung/Wirksamkeit/Fälligkeit trennen; bei fehlender Regel begründete Auslegung/gesetzliche Grundlage."
+      ],
+      "prompt_path": "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
+      "skill_path": "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
+      "prompt_sha256": "74a8d473dab882899b0916b3418b4478d1b834e78aafaa3b35a7fa8d9e8968d8",
+      "skill_sha256": "a1f1c08f7dd622ece40bf37c5ac7da65075439eb51cb6b34b428beac6e4618cb"
+    },
+    "prompt_editorial_review": {
+      "date": "2026-10-02",
+      "opening_change": "Einstieg anhand des bereits vorliegenden Mandats und der originalen Streitakte; anschließend Beschlusskarten je TOP, eigener Nenner und konkreter Feststellungs-/Vollzugsstand. Einziehung, Organamt, Anstellung, Liste und Geldströme erhalten getrennte rechtliche Ergebnisse.",
+      "norms": [
+        "§ 5a GmbHG",
+        "§ 15 GmbHG",
+        "§ 16 GmbHG",
+        "§ 26 GmbHG",
+        "§ 27 GmbHG",
+        "§ 28 GmbHG",
+        "§ 29 GmbHG",
+        "§ 30 GmbHG",
+        "§ 31 GmbHG",
+        "§ 33 GmbHG",
+        "§ 34 GmbHG",
+        "§ 35 GmbHG",
+        "§ 37 GmbHG",
+        "§ 38 GmbHG",
+        "§ 39 GmbHG",
+        "§ 40 GmbHG",
+        "§ 43 GmbHG",
+        "§ 45 GmbHG",
+        "§ 46 GmbHG",
+        "§ 47 GmbHG",
+        "§ 48 GmbHG",
+        "§ 49 GmbHG",
+        "§ 50 GmbHG",
+        "§ 51 GmbHG",
+        "§ 51a GmbHG",
+        "§ 51b GmbHG",
+        "§ 52 GmbHG",
+        "§ 53 GmbHG",
+        "§ 54 GmbHG",
+        "§ 55 GmbHG",
+        "§ 55a GmbHG",
+        "§ 56 GmbHG",
+        "§ 57 GmbHG",
+        "§ 58a GmbHG",
+        "§ 61 GmbHG",
+        "§ 133 BGB",
+        "§ 157 BGB",
+        "§ 181 BGB",
+        "§ 242 BGB",
+        "§ 488 BGB",
+        "§ 626 BGB",
+        "§ 256 ZPO",
+        "§ 253 ZPO",
+        "§ 294 ZPO",
+        "§ 935 ZPO",
+        "§ 940 ZPO",
+        "§ 936 ZPO",
+        "§ 929 ZPO",
+        "§ 945 ZPO",
+        "§ 15a InsO",
+        "§ 15b InsO",
+        "§ 17 InsO",
+        "§ 19 InsO",
+        "§ 39 InsO",
+        "§ 135 InsO",
+        "§ 143 InsO",
+        "§ 110 HGB",
+        "§ 112 HGB",
+        "§ 2 GeschGehG",
+        "§ 3 GeschGehG",
+        "§ 4 GeschGehG",
+        "§ 5 GeschGehG",
+        "§ 6 GeschGehG",
+        "§ 16 GeschGehG",
+        "§ 8 KStG",
+        "§ 17 EStG",
+        "§ 20 EStG",
+        "§ 7 ErbStG",
+        "§ 138 BGB",
+        "§ 307 BGB",
+        "§ 164 BGB",
+        "§ 132 AktG",
+        "§ 241 AktG",
+        "§ 243 AktG",
+        "§ 246 AktG",
+        "§ 249 AktG",
+        "§ 922 ZPO"
+      ],
+      "files": [
+        "gesellschafterstreit/gesellschafterstreit-schnellstart.md",
+        "gesellschafterstreit/gesellschafterstreit-werkstatt.md",
+        "gesellschafterstreit/gesellschafterstreit-hauptproblem.md",
+        "gesellschafterstreit/skills/abberufung-und-anstellung-pruefen/SKILL.md",
+        "gesellschafterstreit/skills/austritt-und-verkauf-verhandeln/SKILL.md",
+        "gesellschafterstreit/skills/beschluesse-angreifen-und-sichern/SKILL.md",
+        "gesellschafterstreit/skills/darlehen-und-vertretung-pruefen/SKILL.md",
+        "gesellschafterstreit/skills/einziehung-und-ausschluss-pruefen/SKILL.md",
+        "gesellschafterstreit/skills/gesellschafterstreit-loesen/SKILL.md",
+        "gesellschafterstreit/skills/kapitalerhoehung-und-bezugsrechte-pruefen/SKILL.md",
+        "gesellschafterstreit/skills/stimmen-und-mehrheiten-pruefen/SKILL.md",
+        "gesellschafterstreit/skills/streitstand-und-fristen-klaeren/SKILL.md",
+        "gesellschafterstreit/skills/versammlung-und-tagesordnung-vorbereiten/SKILL.md",
+        "gesellschafterstreit/skills/wettbewerb-und-wissen-sichern/SKILL.md",
+        "gesellschafterstreit/references/beschlusslogik.md",
+        "gesellschafterstreit/references/finanzierung-und-wettbewerb.md",
+        "gesellschafterstreit/references/rechtsprechungsanker.md",
+        "gesellschafterstreit/references/verfahrenswahl.md",
+        "gesellschafterstreit/references/zitierweise.md",
+        "gesellschafterstreit/README.md"
+      ],
+      "decisions": [
+        {
+          "citation": "BGH, Urt. v. 05.05.2026 – Az. II ZR 2/25, Rn. 19–31 und 35–44",
+          "application": "Liste und richtige Adressatin feststellen; Zugang für jede Gesellschaft getrennt belegen. Bei Geschäften mit verbundenen Unternehmen Vertretungsmacht, § 181 BGB und erforderliche gesellschaftsinterne Zustimmung getrennt prüfen.",
+          "limit": "Nicht jeder Beiratsvorbehalt beschränkt die Vertretungsmacht gegenüber außenstehenden Dritten. Die Treuepflicht kann auch Drittgeschäfte erfassen; sie erlaubt aber nicht allein wegen später verbesserter Liquidität, eine ursprünglich angemessene Erfolgsvergütung nachträglich zu kürzen. Der BGH hat die Sache zurückverwiesen; keine pauschale abschließende Unwirksamkeitsfeststellung für alle vergleichbaren Verträge.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2"
+        },
+        {
+          "citation": "BGH, Urt. v. 10.07.2025 – Az. IX ZR 189/24, Rn. 6–28, insbesondere Rn. 9, 12–25",
+          "application": "Geldhingabe, Fremdschuldtilgung, Aufwandserstattung und eigenes Leistungsentgelt anhand der Belege auseinanderhalten. Entstehung, Fälligkeit, tatsächliche Rückzahlung und Insolvenzantragsdatum erfassen; bei Rückzahlung § 135 Abs. 1 Nr. 2 InsO prüfen.",
+          "limit": "Keine allgemeine Dreimonatsfreigrenze. Aus § 30 Abs. 1 Satz 3 GmbHG folgt keine insolvenzrechtliche Freigabe. Beteiligungsprivilegien nach § 39 Abs. 4 und 5, § 135 Abs. 4 InsO gesondert prüfen. Die Normzeile des amtlichen Urteils nennt Nr. 1; die hier ausgewerteten Rückzahlungserwägungen betreffen ausdrücklich **Nr. 2**.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 18.03.2025 – Az. II ZR 77/24, Rn. 14–20, insbesondere Rn. 19",
+          "application": "Kündigungsschreiben vollständig auslegen: Briefkopf, Text, Unterschrift, Funktionen, Beschluss und Ermächtigung. Organabberufung und Kündigung des Anstellungsvertrags bleiben verschiedene Maßnahmen.",
+          "limit": "Briefpapier ersetzt keine fehlende Vertretungsmacht, erforderliche zweite Unterschrift, wirksame Ermächtigung, Kündigungsfrist oder Zugangsnachweis. Kein allgemeiner Formfreibrief und kein Beleg, dass die betreffende Kündigung aus jedem denkbaren Grund wirksam wäre.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 05.11.2024 – Az. II ZR 85/23, Rn. 11–25, insbesondere Rn. 17–24",
+          "application": "Anspruchsinhaber, Prozessführungsbefugnis, Beschluss nach § 46 Nr. 8 GmbHG und Prozessvertretung trennen. Für jeden Vertreter die konkrete Interessenkollision erfassen.",
+          "limit": "Die Entbehrlichkeit eines vorherigen Beschlusses im behandelten Zweipersonenfall ist keine allgemeine Befreiung für eine mehrgliedrige GmbH. Eine bloß mittelbare Beteiligung löst nicht nach diesem Urteil stets ein Stimmverbot aus; diese Frage ließ der BGH offen. Beschlussfeststellung und erforderliche Anfechtung eines negativen Beschlusses gesondert untersuchen.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 23.04.2024 – Az. II ZR 99/22, Rn. 10–19",
+          "application": "Aktuelle Organpflichten, nachvertragliches Verbot, Vergütungsregelung und gesetzlichen Geheimnisschutz getrennt bearbeiten. Konkrete Kunden-, Produkt- und Geheimnisinteressen sowie die tatsächlichen Konkurrenzhandlungen belegen.",
+          "limit": "Der AGB-Charakter war nicht festgestellt; eine umfassende Billigung solcher Formularbestimmungen nach § 307 BGB enthält das Urteil gerade nicht. Nicht auf Arbeitnehmer oder jedes beliebige Berufsverbot übertragen. §§ 2–5 GeschGehG haben eigene Voraussetzungen; eine Vertragsüberschrift schafft kein Geschäftsgeheimnis.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Versäumnisurt. v. 11.07.2023 – Az. II ZR 116/21, Rn. 14–28 und 37–40",
+          "application": "Ausschlussklage, satzungsmäßigen Ausschluss, Einziehung und Übertragung unterscheiden. Abfindungsbewertung, gebundenes Vermögen und belastbare Zahlungsfinanzierung gesondert vorlegen.",
+          "limit": "Das Urteil begründet keine automatische persönliche Abfindungsgarantie aller Mitgesellschafter. Eine solche Haftung knüpft an treuwidrige Fortsetzung ohne gebotene Maßnahmen an. Eine unverbindliche Zahlungsabsicht ersetzt keinen werthaltigen Anspruch. Sofortwirkung eines wirksamen Ausschlusses heilt keine anfängliche Kapitalerhaltungsverletzung; bei Einziehung gilt ergänzend GS-09.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21, Rn. 19–35 und 62–68",
+          "application": "Für Gesellschaft und handelnde Person jeweils Anspruchsgrundlage, Pflichtenkreis, Rechtsverletzung und Antrag formulieren. Materielle Anteilseignerschaft von der formellen Legitimation nach § 16 Abs. 1 GmbHG trennen.",
+          "limit": "Nicht jede objektiv falsche oder fahrlässig erstellte Liste begründet eine eigene Gesellschafterpflichtverletzung des Geschäftsführers. Ein Widerspruch nach § 16 Abs. 3 GmbHG beseitigt nicht automatisch die negative Legitimationswirkung nach Absatz 1.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 02.07.2019 – Az. II ZR 406/17, Rn. 31–48, insbesondere Rn. 35–43 und 46–48",
+          "application": "Konkreten Antrag zum drohenden Listenakt, Tatsachen für Eilbedürftigkeit, Glaubhaftmachung und rechtzeitige Vollziehung vorbereiten. Eine erlassene Verfügung dem befassten Notar rechtzeitig bekannt machen.",
+          "limit": "Keine allgemeine gesetzliche Registersperre durch Klageerhebung und kein beliebiges Ignorieren jeder bestrittenen Liste. § 40 Abs. 2 GmbHG und die konkrete Reichweite der gerichtlichen Anordnung beachten. Trotz Listenstreichung kann der Betroffene die gegen seinen Anteil gerichtete Einziehung gerichtlich angreifen; daraus folgt keine allgemeine Stimmberechtigung für alle weiteren Beschlüsse.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16, Rn. 13–17",
+          "application": "Auf den Beschlusszeitpunkt bezogene Unterlagen zum freien Vermögen, zur Abfindungsschuld und zu realisierter Finanzierung verlangen. Unternehmenswert und kapitalerhaltungsrechtliche Vermögensbindung mit unterschiedlichen Rechenwerken prüfen.",
+          "limit": "Eine erst später eintretende Zahlungssperre ist gesondert zu behandeln. Weder Unternehmenswert noch Liquidität allein beantworten die Bilanzfrage nach §§ 30, 34 Abs. 3 GmbHG. Nicht jede Ungewissheit über die endgültige Abfindungshöhe belegt schon die im Urteil verlangte feststehende Unterdeckung.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 04.04.2017 – Az. II ZR 77/16, Rn. 9–17",
+          "application": "Für jeden TOP Organmaßnahme, Vertragsmaßnahme, behauptete Tatsachen, Belege, Gegenargumente und die Auswirkungen auf den Stimmennenner gesondert dokumentieren. § 38 GmbHG und § 626 BGB mit ihren unterschiedlichen Voraussetzungen prüfen.",
+          "limit": "Die im Urteil erörterte Frage, nach welchem Maßstab der Versammlungsleiter in der Versammlung ein Stimmverbot vorläufig behandelt, wurde nicht abschließend entschieden. Nicht behaupten, der BGH lasse jedes unbewiesene Schlagwort „wichtiger Grund“ sofort die Stimme entfallen.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 12.04.2016 – Az. II ZR 275/14, Rn. 13–17",
+          "application": "Bei streitiger Finanzierung oder Kapitalerhöhung Bedarf, Alternativen, Verhältnismäßigkeit und Minderheitenbelastung konkret prüfen. Eine rechtliche Stimmbindung aus Treuepflicht von einem gesetzlichen Stimmverbot und dessen Auswirkung auf den Nenner unterscheiden.",
+          "limit": "Aus der Entscheidung folgt keine allgemeine Sanierungszustimmung und erst recht keine automatische Pflicht, neues Geld bereitzustellen. Eine eigene Leistungspflicht benötigt ihre gesonderte Grundlage; insbesondere §§ 26 und 53 Abs. 4 GmbHG beachten. Keine nachträgliche Ergebniszählung allein nach der Meinung, ein Nein sei „unvernünftig“ gewesen.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 29.04.2014 – Az. II ZR 216/13, Rn. 11–19",
+          "application": "Abfindungsanspruch, Bewertungsregel, etwaige Begrenzung, nachgewiesene Schadensersatzansprüche und Aufrechnung getrennt prüfen. Bei Vorwürfen keine automatische Nullbewertung einsetzen.",
+          "limit": "Die Entscheidung nennt eng umgrenzte Sonderkonstellationen, beispielsweise bestimmte ideelle Gesellschaftszwecke oder Beteiligungsmodelle ohne eigenen Kapitaleinsatz. Sie bestimmt weder eine universelle Mindestabfindung noch einen allgemein zulässigen Abschlagsprozentsatz. Auch ein niedrigerer, aber nicht auf null gesetzter Betrag benötigt eine eigenständige Prüfung.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03, gedruckte S. 7–11, Gründe II.1.a–b und II.3",
+          "application": "Kapitalerhöhung, Preis/Agio, Verwässerung, Zulassung, Bezugsrechtsausschluss und sachliche Rechtfertigung einzeln prüfen. Satzungsfristen, Beschlussfeststellung, Kenntnis und mögliche Rechtshandlungen sofort erfassen.",
+          "limit": "Keine pauschale gesetzliche Monatsfrist für sämtliche GmbH-Streitigkeiten und keine automatische Nichtigkeit bei jeder Verwässerung. Die auf S. 8 behandelten damaligen Regeln zur Übernahme nur eines neuen Geschäftsanteils sind historisch und dürfen nicht auf den heutigen § 55 GmbHG übertragen werden.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07, Rn. 28–31",
+          "application": "Für jeden Beteiligten Tatbeitrag, Kenntnis, Pflicht und Beleg erfassen. Bei einer gemeinsam veranlassten pflichtwidrigen Zahlung die Stimme des Mitwirkenden gesondert prüfen und die tragfähigen Varianten neu rechnen; bloße Empfängerstellung genügt nicht.",
+          "limit": "Das Revisionsurteil unterstellt den Klägervortrag zur gemeinschaftlichen Handlung für seine Prüfung; es ersetzt nicht deren Nachweis im konkreten Verfahren. Kein allgemeines Stimmverbot für Konfliktparteien oder sämtliche späteren TOP. Andersartige bloße Aufsichtsversäumnisse sind nach GS-15 abzugrenzen.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1"
+        },
+        {
+          "citation": "BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07, Rn. 11",
+          "application": "Aktive Mitwirkung an derselben Verletzung von wirtschaftlicher Zustimmung, bloßer Nähe, nachträglicher Billigung und unzureichender Überwachung unterscheiden. Die nachgewiesenen Beiträge und die jeweils verletzten Pflichten bestimmen die Fallgruppe.",
+          "limit": "Keine allgemeine Freistellung des Mitgesellschafters. Eine belegte gemeinsame Handlung kann nach GS-14 zum Stimmverbot führen; zwei gegenläufige Anträge oder ein gemeinsames Lager genügen dafür nicht.",
+          "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1"
+        }
+      ],
+      "remaining_limits": [
+        "Gezielte Primärquellenprüfung der angegebenen Normabschnitte und 15 BGH-Entscheidungen zum 02.10.2026; keine Vollständigkeitszusage für jede Rechtsfrage oder künftige Rechtsprechung.",
+        "Vollständige redaktionelle Desk-Review der elf Skills, drei Prompts und genannten Referenzen. Davon getrennter erster Mini-Anwendungslauf ergab 20 erfüllte und 2 teilweise erfüllte Kriterien; seine Ausgabe und Bewertung bleiben unverändert. Eine gezielte Nachprobe der geänderten Mini-Fassung bestand im begrenzten Bereich Z4/Z5-Stimmrecht/Beweisgrenzen und Bewertungs-/Zinsstichtage; kein zweiter vollständiger 22-Kriterien-Lauf.",
+        "Fallprüfung umfasst die 36 Originaltexte und sechs Tabellenblätter der zwei XLSX sowie den Textabgleich zu den nativen Dateien. PDF-/DOCX-Sichtprüfung, native Excel-Berechnung und veröffentlichte Downloads werden von anderen Prüfschritten gesondert dokumentiert."
+      ],
+      "reference_revision_review": "Technische Schlusskorrektur gegengelesen: Zitierweise ist bytegleich zur zentralen Referenz; die fachliche Stimmverbotsanwendung verbleibt in beschlusslogik §1.7, die unveränderte Stichtagsleseregel steht dort in §1.8. Keine Änderung der drei Prompts oder der Akten."
+    },
+    "prompt_workflow_review": {
+      "method": "desk_review",
+      "date": "2026-10-02",
+      "opening_modes": [
+        "Bereits abgehaltene Versammlung: Mandat, Satzung, tatsächliche Stimmen, Ergebnisfeststellung und drohenden Vollzug aus vorhandener Akte lesen; notwendige Entwürfe früh beginnen.",
+        "Erst geplante Finanzierung: Kapitalbedarf, Ausgabeparameter, Bezugsrechte und Alternativen prüfen; Einladung/Beschlüsse vollständig vorbereiten und notarielle Schritte unterscheiden.",
+        "Darlehens- oder Vergleichsfrage: Parteien, Zahlungen, Außenvertretung und internen Beiratsvorbehalt klären; konkrete Textlücken nachfordern, unabhängige Rechenschritte fertigstellen."
+      ],
+      "continuation": "Neue Liste, Beiratsnachricht oder Finanzunterlage ändert nur die betroffenen Bewertungen samt Abhängigkeiten; Chronologie, Nenner, Vertretung, Risikobewertung und Entwürfe fortschreiben. Bereits belegte Rollen und Angaben nicht nochmals pauschal erheben.",
+      "enrichment": "Aus dem internen Befund werden vollständige Empfängertexte, Beschlussvorschläge, gerichtliche Entwürfe oder ein abgestimmter Vergleich. Neue Fassungen gegen Mandat, Quellen, Rechenwerk, Fristen und Vollzugsschritte zurückprüfen.",
+      "limits": "Individuelle Desk-Review der tatsächlich gelesenen Texte. Ein separater erster Mini-Falllauf deckte zwei konkrete Ausführungslücken auf; sein Ergebnis bleibt 20 erfüllt/2 teilweise erfüllt. Die geänderte Mini-Fassung bestand anschließend eine gesonderte begrenzte Modellnachprobe zu Z4/Z5 und Abfindungsstichtagen. Das ist kein vollständiger zweiter Falllauf und keine pauschale Bestätigung späteren Modellverhaltens."
+    },
+    "source_audit_review": {
+      "date": "2026-10-02",
+      "path": "quality/source-audits/gesellschafterstreit-2026-10-02/quellenbericht.md",
+      "sha256": "8f379e85f22b85801301122fd8b67c22ffddf1137b686fe748584f7aa20533f0",
+      "method": "desk_review",
+      "last_changes": "Leerzeile vor GS-14 aus der Rechtsprechungstabelle entfernt; Abschluss nennt unveränderte zentrale Zitierregeln und die gesonderte fachliche Beschlusslogik. Fachliche Aussagen unverändert."
+    }
+  },
+  "revision_445_34_1": {
+    "date": "2026-10-09",
+    "previous_originals": 76,
+    "added_native_files": 60,
+    "expected_total": 136,
+    "legal_audit": "quality/source-audits/gesellschafterstreit-2026-10-08/quellenbericht.md",
+    "case_audit": "quality/gesellschafterstreit/akten-nachtrag.md",
+    "limits": "Keine Aussage zu tatsächlichem Prozessausgang. Historische Proben behalten ihre damaligen Hashes. Neue Kriterien sind Sollanforderungen, keine automatisch bestandenen Modelltests."
+  },
+  "application_probe_445_34_1": {
+    "date": "2026-10-09",
+    "case_date": "2026-10-08",
+    "method": "separate_agent_native_files_mini_prompt",
+    "case_id": "gesellschafterstreit-klageerwiderung-berlin-nachtrag",
+    "prompt_sha256": "49c559ddb08219101ce2fb2fd0b89cde81803b8ee0d47e3647e5884e661668c7",
+    "report": "quality/gesellschafterstreit/anwendungsprobe-berlin/Lese_und_Werkzeugbericht.md",
+    "products": {
+      "quality/gesellschafterstreit/anwendungsprobe-berlin/Klageerwiderung.md": "f2e51f57232831074ab32df211c75b409a6ac811c3af125c3333f176317e3a96",
+      "quality/gesellschafterstreit/anwendungsprobe-berlin/Interne_Notiz.md": "d55e578cca81dd52f916f518bec9e5781f332b4e82cef11a7b74d9674356416c",
+      "quality/gesellschafterstreit/anwendungsprobe-berlin/Exporthinweis.md": "955b8c16568a3dcb24d8f61e1aa8cf53572a40aaef24d33b1eacda7fa8270d40"
+    },
+    "assessment": "Aktuelle Einzelprobe: vollständige Erwiderung und interne Notiz geliefert. Fünf aktuelle Nachtragskriterien nach Lektüre durch Hauptprüfung erfüllt; keine automatische Aussage zu anderen Fällen/Modellen.",
+    "limits": "Keine native Client-UI, kein DOCX-/PDF-Export der Probe, keine Außenhandlung; offene Zeugenanschriften/Originalbelege/Freigaben bleiben kenntlich. Historische Zink-Probe mit22Kriterien nicht neu durchgeführt.",
+    "original_defence_sha256": "6641341dc74071e81fbe37aa693b720b229391636a2747d10035872ba5133759",
+    "archive_note": "quality/gesellschafterstreit/anwendungsprobe-berlin/Archivhinweis.md"
   }
 }

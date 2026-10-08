@@ -1,5 +1,7 @@
 # Claude – Deutsche rechtliche Fähigkeiten / German Legal Skills
 
+Erweitert: [Gesellschafterstreit](gesellschafterstreit/README.md) mit 18 verifizierten BGH-Ankern, vertieften Abläufen für Klageerwiderung und Vertragsgestaltung sowie zusätzlichen Belegen in allen drei Testakten. Die Fassung 445.34.1 wird als eigenes Komponentenrelease ausgeliefert.
+
 Neu: [Geldwäschebeauftragter](geldwaeschebeauftragter/README.md) mit zehn Fachskills, einem Hauptproblem-Skill, Werkstatt und Mini sowie drei Akten für Unternehmen, Anwaltskanzlei und Notariat. Die Komponente 445.34.0 wird separat ausgeliefert.
 
 [Plugins](#was-ist-drin) · [Skills](./SKILLS.md) · [Werkstatt-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#werkstatt-prompts) · [Mini-Prompts](./docs/werkstatt-und-schnellstart-coverage.md#schnellstart-prompts) · [Schwerpunkt-Prompts](./SCHWERPUNKTE.md) · [Qualitätslabor](./QUALITY.md) · [Testakten](./testakten/README.md) · [Installation](./INSTALLATION_EINFACH.md) · [ChatGPT und App](#chatgpt-und-die-chatgpt-app) · [English](#english-quick-guide)

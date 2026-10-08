@@ -1,0 +1,68 @@
+# 1. Quellenbericht zum Gesellschafterstreit
+
+## 1.1. Auftrag, Stichtag und belegter Umfang
+
+Recherche begonnen am 08.10.2026, fachlicher Abschluss am 09.10.2026 nach dem Tageswechsel in Europe/Berlin. Rechercheziel waren bis zum 08.10.2026 veröffentlichte einschlägige Entscheidungen. Die 15 bisherigen Anker wurden anhand neu geladener amtlicher BGH-PDFs kritisch nachgelesen; sämtliche Originalhashes stimmen mit dem Bericht vom 02.10.2026 überein. Drei weitere Entscheidungen von 2026 sind neu im Plugin. Sie werden nicht als erst seit dem 02.10.2026 ergangene oder veröffentlichte Rechtsprechung ausgegeben.
+
+Bestätigt sind **18 konkrete Entscheidungen in den unten bezeichneten Abschnitten**. Neuester ausgewerteter Sachentscheidungstermin ist der 16.06.2026; der Berichtigungsbeschluss zu II ZR 2/25 vom 29.07.2026 bleibt berücksichtigt. Eine vollständige Erfassung sämtlicher bis zum Stichtag veröffentlichten Gerichtsentscheidungen wird nicht behauptet. Für den besonderen KG-Managementfall GS-18 ist die Übertragung der materiellen Grundsätze von einer Übertragung des Prozessrechts getrennt.
+
+## 1.2. Tatsächliche Recherche und Zugriff
+
+Websuche wurde verwendet, unter anderem mit den Suchbegriffen `site.bundesgerichtshof.de 2026 "II ZR" Gesellschafter Beschluss`, `2025 2026 GmbH Einziehung Abfindung Stimmverbot`, den drei einzelnen Aktenzeichen II ZR 13/25, II ZR 50/25 und II ZR 71/24 sowie Suchen nach Gesellschafterentscheidungen im Juli/September 2026 und nach Bezugsrecht beziehungsweise Abfindung. Suchtreffer dienten nur dem Auffinden. Für Rechtsaussagen wurden die amtlichen Originale gelesen.
+
+Der Web-Öffnungsversuch der drei neuen BGH-PDFs scheiterte mit HTTP 403. Anschließend wurden die Dateien erfolgreich unmittelbar von derselben amtlichen Domain über `urllib` geladen und mit `pdftotext -layout` ausgelesen. Auch alle Altanker wurden direkt von bundesgerichtshof.de geladen. Der erfolglose Webabruf ist kein Volltextnachweis; der dokumentierte erfolgreiche Direktabruf und die gelesenen Randnummern sind der Nachweis. Die Texte sind in dieser Auditmappe als Leseextrakte, die unveränderten PDF-Bytes platzsparend als gzip gespeichert.
+
+Die Normprüfung erfolgte über geöffnete Einzelnormen und amtliche konsolidierte Gesamtausgaben von Gesetze im Internet. Einzelabrufe scheiterten teilweise durch Zeitüberschreitung; die erfolgreichen Gesamtausgaben sichern die betroffenen Normen. § 254 ZPO wurde zuerst erfolgreich im Web gelesen und nach einem fehlgeschlagenen Direktabruf erfolgreich nachgeladen. Für §§ 5–6 und 16–20 GeschGehG wurde zusätzlich die Gesamtausgabe erfolgreich geöffnet, gelesen und archiviert. Fehlversuche bleiben in `normen-abrufe.json` sichtbar. Der aktuelle Text des § 48 Abs. 2 GmbHG ist gesichert; das behauptete Inkrafttretensdatum der Textformänderung wurde mangels geöffneten amtlichen Verkündungsoriginals nicht als eigene neue Feststellung in den Plugintext aufgenommen.
+
+## 1.3. Rechtsprechungsinventar
+
+Die Spalte Prüfbereich bezeichnet tatsächlich gelesene Originalabschnitte. `rechtsprechung.json` enthält für jeden Anker die Aussage, Anwendung, Grenze, amtliche URL, Datum, Archivpfad und SHA-256. Die Hashes beziehen sich auf die **dekomprimierten Originalbytes**, nicht auf den Leseextrakt. Das Archivmanifest enthält zusätzlich die gzip-Hashes. Der Download erfolgte am 08.10.2026; die fachliche Gesamtkontrolle endete am 09.10.2026.
+
+| Anker | Amtlicher Volltext | Prüfbereich | Original-SHA-256 |
+| --- | --- | --- | --- |
+| GS-01 | [BGH, Urt. v. 05.05.2026 – Az. II ZR 2/25, berichtigt durch Beschl. v. 29.07.2026](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR___2-25A.pdf?__blob=publicationFile&v=2) | Rn. 19–31 und 35–44 | `9a8579a94811872baebffa74cdcc5afc02909d61620714143540f7ea26ca6741` |
+| GS-02 | [BGH, Urt. v. 10.07.2025 – Az. IX ZR 189/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2024/IX_ZR_189-24.pdf?__blob=publicationFile&v=1) | Rn. 6–28, insbesondere Rn. 9, 12–25 | `db4d9a6d16820f69827963bc46134eb4815efc2f0bcb4a261b1eed6264dfb34b` |
+| GS-03 | [BGH, Urt. v. 18.03.2025 – Az. II ZR 77/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__77-24.pdf?__blob=publicationFile&v=1) | Rn. 14–20, insbesondere Rn. 19 | `5e82832978b80f22c876af1325a5ee53a11750949bbeb7329c211c8b97b66448` |
+| GS-04 | [BGH, Urt. v. 05.11.2024 – Az. II ZR 85/23](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2023/II_ZR__85-23.pdf?__blob=publicationFile&v=1) | Rn. 11–25, insbesondere Rn. 17–24 | `03b026d06bc27491e01ee9a44cf0de2fb6b8b6ba5289b3fb358b8c0905bd8cc8` |
+| GS-05 | [BGH, Urt. v. 23.04.2024 – Az. II ZR 99/22](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2022/II_ZR__99-22.pdf?__blob=publicationFile&v=1) | Rn. 10–19 | `4850f4b8a6cc12600f1667158781b5c6aa3f31e9186b3b8f8c5e9a2c05bd69fe` |
+| GS-06 | [BGH, Versäumnisurt. v. 11.07.2023 – Az. II ZR 116/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR_116-21.pdf?__blob=publicationFile&v=1) | Rn. 14–28 und 37–40 | `abded036e1fcc3c99fcfabe83fdc18f394af16328b30252c1171e1aed50ddc3a` |
+| GS-07 | [BGH, Urt. v. 08.11.2022 – Az. II ZR 91/21](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2021/II_ZR__91-21.pdf?__blob=publicationFile&v=1) | Rn. 19–35 und 62–68 | `8fdb07e0df6300d19db5b1e0bbe2437eb793f1d420a647e9f402a7b669c1a995` |
+| GS-08 | [BGH, Urt. v. 02.07.2019 – Az. II ZR 406/17](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2017/II_ZR_406-17.pdf?__blob=publicationFile&v=1) | Rn. 31–48, insbesondere Rn. 35–43 und 46–48 | `ff84d98ca6120558bf0d3e8960ed8553ee12dd6eaa737bc36794846270038142` |
+| GS-09 | [BGH, Urt. v. 26.06.2018 – Az. II ZR 65/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__65-16.pdf?__blob=publicationFile&v=1) | Rn. 13–17 | `3cf0434d1ae438bcc91556b614e5d8e8106528be4fc55827ed922f2f1335aa0a` |
+| GS-10 | [BGH, Urt. v. 04.04.2017 – Az. II ZR 77/16](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2016/II_ZR__77-16.pdf?__blob=publicationFile&v=1) | Rn. 9–17 | `d1a42e09da7e9e0c93ac236cbbf46c9cdc37a8331eadb43d8a8821601745dfab` |
+| GS-11 | [BGH, Urt. v. 12.04.2016 – Az. II ZR 275/14](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2014/II_ZR_275-14.pdf?__blob=publicationFile&v=1) | Rn. 13–17 | `4241bd47e2e997a6ec8c0ddc215502a87778d4e6b2d5cec6b0212eb87c941f23` |
+| GS-12 | [BGH, Urt. v. 29.04.2014 – Az. II ZR 216/13](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2013/II_ZR_216-13.pdf?__blob=publicationFile&v=1) | Rn. 11–19 | `84254f5f4b00a3ee82132bad6e6552e28921dae6e08baf4cbe66de2aa9212e34` |
+| GS-13 | [BGH, Urt. v. 18.04.2005 – Az. II ZR 151/03](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZR_151-03.pdf?__blob=publicationFile&v=1) | gedruckte S. 7–11, Gründe II.1.a–b und II.3 | `69824a4629f6e639a631259804c16bfeaf8cc52da8d0ed231d5eea7e5cd22b9e` |
+| GS-14 | [BGH, Urt. v. 27.04.2009 – Az. II ZR 167/07](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_167-07.pdf?__blob=publicationFile&v=1) | Rn. 28–31 | `427c5934c2761c01fcaedb040af16aba62adaae68c4294d15b41e484bb2a6c93` |
+| GS-15 | [BGH, Beschl. v. 04.05.2009 – Az. II ZR 166/07](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZR_166-07.pdf?__blob=publicationFile&v=1) | Rn. 11 | `82f1c032f2bf5a7c0b0807b3872e0601a68269c003cf37a933f9d18513889b72` |
+| GS-16 | [BGH, Versäumnisurt. v. 16.06.2026 – Az. II ZR 13/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__13-25.pdf?__blob=publicationFile&v=1) | Rn. 19–29 | `5c5c7d5908d7ee50a2eb6dac7414025ee0bc6bfca613c96cda033e8c3ecfb927` |
+| GS-17 | [BGH, Urt. v. 21.04.2026 – Az. II ZR 50/25](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2025/II_ZR__50-25.pdf?__blob=publicationFile&v=1) | Rn. 17–30 | `88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2` |
+| GS-18 | [BGH, Urt. v. 10.02.2026 – Az. II ZR 71/24](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1) | Rn. 17–22, 28–40 und 47–67 | `eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715` |
+
+## 1.4. Neue und präzisierte Rechtsbefunde
+
+**Neu GS-16, II ZR 13/25:** Bei entsprechend offener Satzung kann eine Beschlussfassung außerhalb einer Versammlung mündlich oder konkludent erfolgen. Verfahrenseinverständnis aller, Sachstimme der Berechtigten und Vertretungsbefugnis sind drei verschiedene Prüfungen. Das Urteil erlaubt weder allgemeine Formfreiheit noch Schweigen als automatische Zustimmung. Zurückverweisung und die Form des sachgeprüften Versäumnisurteils sind ausdrücklich vermerkt.
+
+**Neu GS-17, II ZR 50/25:** Ein Streit über materielle Mitgliedschaft kann trotz positiver Liste mit Feststellung gegen die Gesellschaft fortbestehen. Ernstliches Bestreiten und gegenwärtige Unsicherheit belegen; Listenkorrektur nicht automatisch als volle Erledigung behandeln. Keine generelle Registersperre oder Wirkung gegen beliebige Nichtparteien behaupten.
+
+**Neu GS-18, II ZR 71/24:** Die Inhaltskontrolle freier Hinauskündigung bleibt erhalten. Managerbeteiligungen werden gesamtgewürdigt; höherer Kapitaleinsatz oder reine Beteiligung am späteren Verkaufserlös schließen Rechtfertigung nicht automatisch aus. Ausscheidensklausel, Abfindungsregel und konkrete Ausübung sind getrennt. Die konkrete Ausübung wurde zurückverwiesen, kein pauschaler Leaver- oder Preisfreibrief.
+
+**Bestätigt und operativ vertieft:** GS-01 trennt richtige Ladungsadressatin, Drittgeschäft und besondere Außenwirkung bei beherrschter Gesellschafter-GmbH; GS-02 unterscheidet unmittelbare Finanzierung von gestundeten Austauschforderungen; GS-04 grenzt Gesellschaftsklage, Subsidiarität und Vertreterkonflikte ab. Bei GS-05 ist die Grenze der gerichtlichen Reduktion überbreiter Wettbewerbsverbote ergänzt. GS-06/GS-09 trennen Wirksamkeit, anfängliche Kapitalunterdeckung, spätere Auszahlungssperre und bedingte persönliche Haftung; Unternehmenswert und freies Vermögen bleiben unterschiedliche Rechnungen. GS-07/GS-08 tragen getrennte Hauptsache- und Listenanträge. GS-10/GS-14/GS-15 verlangen konkrete wichtige Gründe und gemeinsame Tatbeiträge. GS-11 begründet keine allgemeine Sanierungsfinanzierungspflicht. GS-12 billigt keine pauschalen Abfindungsabschläge. GS-13 bleibt mit seiner alten Gesetzesfassung und Originalseiten statt erfundener Randnummern gekennzeichnet.
+
+Der bisherige Hinweis „keine universelle gesetzliche Monatsfrist“ wurde handlungsnäher gefasst: Die Monatsfrist ist für GmbH-Anfechtung regelmäßig der BGH-Maßstab; eng begrenzte Ausnahmen müssen konkret tragen. Die richtige Ausnahme darf nicht als Aufforderung zum Fristabwarten verstanden werden. Das war eine Präzisierung der Anwendung, keine neu aufgefundene Rechtsprechungsänderung.
+
+## 1.5. Normprüfung und Grenzen
+
+Das [Normenregister](normen.json) nennt 20 fachliche Gruppen mit Aussage und Grenze. Die tatsächlichen Transportergebnisse stehen im [Abrufregister](normen-abrufe.json). Besonders geprüft wurden § 53 GmbHG mit Mehrheit in Absatz 2, Notarform in Absatz 3 und Leistungsvermehrung in Absatz 4; der aktuelle § 48 Abs. 2 mit Textform; §§ 51a/b GmbHG samt Verweisung auf § 132 Abs. 1, 3, 4 und § 99 Abs. 1 AktG; §§ 30, 35, 37, 38, 46, 47, 54, 55 GmbHG; §§ 39, 135 InsO; § 138 ZPO und § 273a ZPO mit §§ 16–20 GeschGehG.
+
+Die Verweisung für § 51b führt zum Landgericht am Sitz und zum FamFG, nicht zur Zweiwochenfrist des § 132 Abs. 2 AktG. Die unmittelbare Anwendung von § 273a ZPO in diesem FamFG-Verfahren wurde nicht als gesichert behauptet. Bei Beschränkung nach § 19 Abs. 1 GeschGehG bleiben Mindestzugang und rechtliches Gehör bestehen. Satzungsinhalt, rechtliche Anwendung und Quellenwortlaut werden nicht vermischt.
+
+## 1.6. Nicht zu Rechtsankern erhobene Spuren
+
+Ein Suchtreffer zu KG 2 W 51/26 vom 07.09.2026 erschien bei der Recherche. Mangels im Lauf geöffneten amtlichen Volltextes wurde daraus kein bestätigter neuer Anker und keine feste gesellschaftsrechtliche Dringlichkeitsfrist abgeleitet. Dasselbe gilt für unspezifische Suchspuren zu Abfindungsfälligkeit oder Bezugsrecht aus Sekundärdarstellungen. Nicht untersuchte Fundstellen wurden nicht aus Modellwissen ergänzt. Ein Sekundärlink mit Urteilskopf ist kein amtlicher Volltextnachweis.
+
+Der amtliche Verkündungs-PDF-Abruf zum BEG IV über recht.bund.de scheiterte im Normen-Unterauftrag mit HTTP 403. Der konsolidierte gegenwärtige § 48-Text wurde erfolgreich gelesen; ein exaktes Änderungsinkrafttreten wurde daraus nicht rekonstruiert. Historische Fassungen müssen bei Altfällen weiterhin passend zum Ereignis geprüft werden.
+
+## 1.7. Weiterverwendung und Prüfspur
+
+Alle elf bestehenden Skills bleiben erhalten. Ihre fachlichen Abläufe wurden konkretisiert und mit definierten Übergaben verbunden; Abschnitte 1–6, Frontmatter, Ausformulierungspflicht und Formatstandard bleiben erhalten. [Fachbefund und konkrete Probeaufträge](fachbefund.md) beschreiben die Anwendungen. [Validierungsprotokoll](validierung.json) dokumentiert tatsächlich ausgeführte Struktur-, Link- und Archivkontrollen. Diese Kontrollen beweisen keine gerichtliche Erfolgswahrscheinlichkeit und ersetzen keine Prüfung einer späteren Mandatsakte.

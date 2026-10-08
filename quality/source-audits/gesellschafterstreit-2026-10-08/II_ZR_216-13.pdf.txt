@@ -1,0 +1,392 @@
+                 BUNDESGERICHTSHOF
+                       IM NAMEN DES VOLKES
+
+                                     Urteil
+II ZR 216/13
+                                                          Verkündet am:
+                                                          29. April 2014
+                                                          Vondrasek
+                                                          Justizangestellte
+                                                          als Urkundsbeamtin
+                                                          der Geschäftsstelle
+                                in dem Rechtsstreit
+
+Nachschlagewerk:           ja
+
+BGHZ:                      ja
+
+BGHR:                      ja
+
+
+
+BGB § 138 Abs.1 Bb, § 343; GmbHG § 34
+
+
+Eine Bestimmung in der Satzung einer GmbH, nach der im Fall einer (groben)
+Verletzung der Interessen der Gesellschaft oder der Pflichten des Gesellschafters
+keine Abfindung zu leisten ist, ist sittenwidrig und nicht grundsätzlich als
+Vertragsstrafe zulässig.
+
+
+
+
+BGH, Urteil vom 29. April 2014 - II ZR 216/13 - OLG Karlsruhe
+                                                 LG Baden-Baden
+                                         -2-
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 29. April 2014 durch den Vorsitzenden Richter Prof. Dr. Bergmann und die
+    Richterin Dr. Reichart sowie die Richter Dr. Drescher, Born und Sunder
+
+
+    für Recht erkannt:
+
+
+          Die Revision der Beklagten gegen das Urteil des 7. Zivilsenats
+          des Oberlandesgerichts Karlsruhe vom 17. Mai 2013 wird auf
+          ihre Kosten zurückgewiesen.
+
+
+
+                                  Von Rechts wegen
+
+
+
+
+                                     Tatbestand:
+
+
+
+1         Die Klägerin war Gesellschafterin der beklagten GmbH mit einem Anteil
+    von 49,6% und bis zur Niederlegung des Amts am 28. Juni 2010 auch
+    Geschäftsführerin. Die Gesellschafterversammlung der Beklagten stellte am
+    14. Dezember 2010 und erneut am 30. Dezember 2010 durch Beschluss fest,
+    dass in der Person der Klägerin wichtige Gründe vorlägen, die dazu
+    berechtigten, sie auszuschließen (TOP 1.1.), und beschloss ihren Ausschluss
+    nebst der Feststellung, dass nach § 10 Nr. 1 des Gesellschaftsvertrags kein
+    Abfindungsentgelt geschuldet sei, hilfsweise, dass das Abfindungsentgelt nur
+    nach Maßnahme eines Gerichtsurteils geschuldet sei, mit dem die im
+    Ausschluss des Abfindungsanspruchs liegende Vertragsstrafe herabgesetzt
+    werde (TOP 1.2.). Zum Vollzug der Ausschließung wurde die Einziehung ihres
+    Geschäftsanteils beschlossen, die ohne Rücksicht auf das Bestehen eines
+                                              -3-
+
+
+
+    Abfindungsanspruchs sofort wirksam sein sollte, sowie vorsorglich die
+    Schaffung einer Rücklage (TOP 1.4./1.5.).
+
+2         Der Gesellschaftsvertrag (im Folgenden: GV) enthält unter anderen
+    folgende Regelungen:
+
+          § 7 Einziehung und Ausschließung
+
+          1.
+          Der Geschäftsanteil eines Gesellschafters kann durch Beschluss der
+          Gesellschafterversammlung mit einfacher Mehrheit eingezogen werden
+          ohne Zustimmung des betroffenen Gesellschafters,
+
+          a) wenn in der Person des Gesellschafters ein wichtiger Grund vorliegt, der
+          seine Ausschließung aus der Gesellschaft rechtfertigen würde (§ 140 HGB)
+          ...
+
+          2.
+          Hat der Gesellschafter die Interessen der Gesellschaft grob verletzt, so
+          erfolgt die Einziehung ohne Entgelt. In allen anderen Fällen gegen Entgelt
+          (vgl. § 10 dieses Vertrages).
+
+          Sollte im Falle der Einziehung wegen grober Pflichtverletzung rechtlich ein
+          Entgelt zwingend vorgeschrieben sein, so ist dieses so niedrig wie möglich
+          zu bemessen.
+
+          § 10 Vergütung von Geschäftsanteilen
+
+          1.
+          Mit Ausnahme der Einziehung wegen grober Pflichtverletzung hat in den
+          Fällen der Übertragung, Einziehung oder des Erwerbs von
+          Geschäftsanteilen nach den §§ 7 - 9 dieses Vertrags der ausscheidende
+          Gesellschafter Anspruch auf Auszahlung eines Auseinanderset-
+          zungsguthabens. Die Höhe dieses Auseinandersetzungsguthabens
+          errechnet sich nach Maßgabe der jeweils geltenden steuerlichen
+          Vorschriften des Bewertungsgesetzes für die Anteilsbewertung von GmbH-
+          Anteilen …
+
+          2.
+          Das Auseinandersetzungsguthaben ist innerhalb von fünf Jahren beginnend
+          sechs Monate nach dem Zeitpunkt des Ausscheidens, in gleichen,
+          halbjährlich fälligen Raten auszubezahlen.
+
+3         Die Klägerin hat gegen die genannten Beschlüsse Anfechtungsklage
+    erhoben.
+                                           -4-
+
+
+
+4         Die Klage hatte vor dem Landgericht Erfolg. Auf die Berufung der
+    Beklagten hat das Berufungsgericht unter Abweisung der Klage im Übrigen
+    festgestellt, dass die Beschlüsse zu 1.2. nichtig seien, soweit sie die
+    Feststellungen enthalten, dass nach § 10 Nr. 1 des Gesellschaftsvertrages ein
+    Abfindungsentgelt   nicht     geschuldet   sei     bzw.      (hilfsweise)   dass   das
+    Abfindungsentgelt nur nach Maßgabe eines Gerichtsurteils geschuldet sei, mit
+    welchem die im Ausschluss des Abfindungsanspruchs liegende Vertragsstrafe
+    herabgesetzt   werde.   Dagegen      richtet    sich   die    vom     Berufungsgericht
+    zugelassene Revision der Beklagten.
+
+
+
+
+                                  Entscheidungsgründe:
+
+5         Die Revision der Beklagten hat keinen Erfolg. Über die Revision der
+    Beklagten ist, obwohl die Klägerin im Verhandlungstermin vor dem Senat nicht
+    vertreten war, durch streitiges Endurteil (unechtes Versäumnisurteil), nicht
+    durch Versäumnisurteil, zu entscheiden, da sich die Revision auf der Grundlage
+    des von dem Berufungsgericht festgestellten Sachverhalts als unbegründet
+    erweist (vgl. BGH, Urteil vom 16. April 2013 - II ZR 118/11, ZIP 2013, 1174
+    Rn. 5; Urteil vom 12. Juli 2011 - II ZR 28/10, BGHZ 190, 242 Rn. 6; Urteil vom
+    13. März 1997 - I ZR 215/94, NJW 1998, 156, 157; Urteil vom 10. Februar 1993
+    - XII ZR 239/91, NJW 1993, 1788).
+
+6         I. Das Berufungsgericht (OLG Karlsruhe, ZIP 2013, 1958) hat, soweit für
+    das Revisionsverfahren noch von Bedeutung, ausgeführt, der vollständige
+    Abfindungsausschluss        sei   wegen        Verstoßes      gegen     § 138      BGB
+    beziehungsweise § 241 Nr. 4 AktG unter dem Gesichtspunkt der sittenwidrigen
+    Knebelung von Anfang an nichtig. Der Klägerin würden ungerechtfertigterweise
+    erworbene Vermögenspositionen entzogen, ihre persönliche und wirtschaftliche
+    Freiheit werde erheblich beeinträchtigt, weil die Beschränkung, hier der
+                                                -5-
+
+
+
+    Ausschluss     der     Abfindung,        vollkommen       außer     Verhältnis     zu     den
+    Beschränkungen        stehe,     die   erforderlich     seien,     um   im    Interesse   der
+    verbleibenden Gesellschafter den Fortbestand der Gesellschaft und die
+    Fortführung des Unternehmens zu sichern. § 7 Nr. 2 GV könne auch nicht in ein
+    Vertragsstrafeversprechen in Form einer Verfallklausel umgedeutet werden.
+    Beide Rechtsinstitute verfolgten unterschiedliche Zwecke. Die Vertragsstrafe
+    diene als Druckmittel zur Erzwingung vertragsgerechten Verhaltens und setze
+    ein Verschulden des Vertragsstrafenschuldners voraus, die Einziehung sei
+    unabhängig von einem Verschulden des Gesellschafters möglich und diene
+    dazu, die Gesellschaft davor zu schützen, dass ihr Vermögen zur Unzeit durch
+    Abfindungsansprüche ausgehöhlt werde. Im Übrigen würde auch bei einer
+    Umdeutung die sittenwidrige Knebelung durch einen ungerechtfertigten Entzug
+    miterarbeiteter    Vermögenswerte         erhalten      bleiben.    Die      Umdeutung    für
+    schuldhafte Verstöße hätte außerdem die Wirkung einer geltungserhaltenden
+    Reduktion, die § 241 Nr. 4 AktG beziehungsweise § 138 BGB zuwiderlaufe.
+
+7          II. Das Urteil hält der revisionsrechtlichen Nachprüfung stand. Der
+    Beschluss     zu     TOP 1.2.,     der    feststellt,   dass     nach     § 10   Nr. 1    des
+    Gesellschaftsvertrags kein Abfindungsentgelt geschuldet sei, ist nach § 241
+    Nr. 4 AktG nichtig, weil der in der Satzung bestimmte Abfindungsausschluss
+    sittenwidrig und nichtig ist.
+
+8          1. Ein Beschluss, mit dem eine Feststellung getroffen wurde, ist mit der
+    Nichtigkeitsfeststellungsklage entsprechend § 249 AktG überprüfbar. In die
+    Kompetenz der Gesellschafterversammlung einer GmbH fallen grundsätzlich
+    auch satzungsauslegende Beschlüsse, mit denen über die Satzungskonformität
+    bestimmter Maßnahmen entschieden werden soll. Sie sind - wie sonstige
+    Gesellschafterbeschlüsse - auf Anfechtungs- oder Nichtigkeitsklage eines
+    Gesellschafters entsprechend §§ 246, 249 AktG gerichtlich überprüfbar (BGH,
+    Urteil vom 25. November 2002 - II ZR 69/01, ZIP 2003, 116, 118). Der
+                                             -6-
+
+
+
+     Beschluss zu TOP 1.2., in dem festgestellt wurde, dass entsprechend einer
+     Satzungsregelung kein Abfindungsentgelt geschuldet sei, hatte regelnden
+     Charakter und war nicht nur eine unverbindliche Meinungsäußerung. Damit
+     sollte darüber entschieden werden, ob die Klägerin ein Abfindungsentgelt
+     erhalten sollte oder ein Fall der groben Pflichtverletzung vorlag, der nach § 7
+     Abs. 2 GV den Ausschluss einer Abfindung zur Folge hatte.
+
+9           2. Der Gesellschafterbeschluss verstößt durch seinen Inhalt gegen die
+     guten Sitten und ist entsprechend § 241 Nr. 4 AktG nichtig.
+
+10          a) Der Beschluss knüpft zwar an eine Satzungsregelung, nämlich § 7
+     Nr. 2 GV, an. Da der Abfindungsausschluss in der Satzung aber inhaltlich
+     sittenwidrig und nichtig ist, findet der darauf beruhende Beschluss über den
+     konkreten Abfindungsausschluss nicht nur keine wirksame Grundlage in der
+     Satzung, sondern ist seinerseits inhaltlich sittenwidrig und nichtig.
+
+11          b) Der Abfindungsausschluss in § 7 Nr. 2 GV bei einer groben Verletzung
+     der Interessen der Gesellschaft ist sittenwidrig und damit nichtig. Eine
+     sittenwidrige Abfindungsklausel im Gesellschaftsvertrag ist entsprechend § 241
+     Nr. 4 AktG nichtig, weil sie inhaltlich gegen die guten Sitten verstößt (BGH,
+     Urteil vom 16. Dezember 1991 - II ZR 58/91, BGHZ 116, 359, 368). Das ist bei
+     dem in § 7 Abs. 2 GV vorgesehenen Ausschluss einer Abfindung bei grober
+     Interessenverletzung, die in § 10 Abs. 1 GV einer groben Pflichtverletzung
+     gleichgestellt wird, der Fall.
+
+12          aa) Das Recht eines Gesellschafters, bei Ausscheiden aus der
+     Gesellschaft     eine     Abfindung     zu    erhalten,    gehört       zu   seinen
+     Grundmitgliedsrechten (BGH, Urteil vom 27. September 2011 - II ZR 279/09,
+     ZIP 2011, 2357 Rn. 8). Ein gesellschaftsvertraglicher Abfindungsausschluss ist
+     grundsätzlich sittenwidrig im Sinn von § 138 Abs. 1 BGB und nur in
+     Ausnahmefällen zulässig (vgl. BGH, Urteil vom 2. Juni 1997 - II ZR 81/96,
+                                              -7-
+
+
+
+     BGHZ 135, 387, 390). Der Gesellschafter hat durch Kapitaleinsatz und ggf.
+     Mitarbeit   zu   dem    im    Wert     seines   Geschäftsanteils   repräsentierten
+     Gesellschaftsvermögen beigetragen. Die Gesellschafterstellung darf dann nicht
+     ohne Wertausgleich verloren gehen. Der Abfindungsausschluss kann für den
+     Gesellschafter, der Vermögen und Arbeitskraft in die Gesellschaft eingebracht
+     hat, existenzgefährdend sein und beeinträchtigt seine wirtschaftliche Freiheit.
+
+13          Ausnahmefälle, in denen eine Abfindung ausgeschlossen sein kann, sind
+     die Verfolgung eines ideellen Zwecks durch die Gesellschaft (BGH, Urteil vom
+     2. Juni 1997 - II ZR 81/96, BGHZ 135, 387, 390 [GbR]), Abfindungsklauseln auf
+     den Todesfall (BGH, Urteil vom 20. Dezember 1976 - II ZR 115/75, WM 1977,
+     192, 193; Urteil vom 14. Juli 1971 - III ZR 91/70, WM 1971, 1338 f. [GbR]; Urteil
+     vom 22. November 1956 - II ZR 222/55, BGHZ 22, 186, 194 f. [OHG]) oder auf
+     Zeit   abgeschlossene        Mitarbeiter-   oder    Managerbeteiligungen     ohne
+     Kapitaleinsatz (BGH, Urteil vom 19. September 2005 - II ZR 342/03, BGHZ 164,
+     107, 115 f.; Urteil vom 19. September 2005 - II ZR 173/04, BGHZ 164, 98, 104).
+     In diesen Ausnahmefällen besteht ein sachlicher Grund für den Ausschluss der
+     Abfindung darin, dass die ausscheidenden Gesellschafter kein Kapital
+     eingesetzt haben oder bei der Verfolgung eines ideellen Ziels von vorneherein
+     auf eine Vermehrung des eigenen Vermögens zugunsten des uneigennützigen
+     Zwecken gewidmeten Gesellschaftsvermögens verzichtet haben.
+
+14          Ob auch der Abfindungsausschluss bei der Einziehung wegen
+     pflichtwidrigen Verhaltens oder hier wegen eines Verstoßes gegen die
+     Treuepflicht zu diesen Ausnahmefällen zählt, ist umstritten. In der Literatur wird
+     ein solcher Abfindungsausschluss bei der Einziehung aus wichtigem Grund als
+     Vertragsstrafe   in   der Form       einer Verfallklausel   für zulässig erachtet
+     (Ulmer/Ulmer, GmbHG, § 34 Rn. 104 m.w.N.; Michalski/Sosnitza, GmbHG,
+     2. Aufl., § 34 Rn. 66; Sandhaus in Gehrlein/Ekkenga/Simon, GmbHG, § 34
+     Rn. 70; Bork/Schäfer/Thiessen, GmbHG, 2. Aufl., § 34 Rn. 82; Flume,
+                                          -8-
+
+
+
+     Allgemeiner Teil des Bürgerlichen Rechts, Band I Teil 1, 1977, S.180; Reuter,
+     Privatrechtliche Schranken der Perpetuierung von Unternehmen, 1973, S. 406;
+     Geßler, GmbHR 1984, 29, 35). Der Betroffene könne nach § 343 BGB die
+     Herabsetzung auf einen angemessenen Betrag bzw. (beim Ausschluss) die
+     Gewährung einer Teilabfindung wegen Unverhältnismäßigkeit der Verfallklausel
+     verlangen. Andere dagegen halten eine derartige Abfindungsbeschränkung für
+     unzulässig und lassen eine Abfindungsbeschränkung nur zu, wenn sie
+     erforderlich ist, um im Interesse der verbleibenden Gesellschafter den
+     Fortbestand der Gesellschaft und die Fortführung des Unternehmens zu sichern
+     (T. Fleischer in Henssler/Strohn, Gesellschaftsrecht, 2. Aufl., § 34 GmbHG
+     Rn. 19; Baumbach/Hueck/Fastrich, GmbHG, 20. Aufl., § 34 Rn. 34a; Görner in
+     Rowedder/Schmidt-Leithoff, GmbHG, 5. Aufl., § 34 Rn. 58; Scholz/Seibt,
+     GmbHG, 11. Aufl., Anh. § 34 Rn. 59; MünchKommGmbHG/Strohn, § 34
+     Rn. 222; Grunewald, Der Ausschluss aus Gesellschaft und Verein, 1987,
+     S. 159 f.; Röhricht, AcP 189 [1989], 386, 394; Behnke, NZG 1999, 112, 113). In
+     der Rechtsprechung wurde eine dem Wert der Beteiligung nicht voll
+     entsprechende Abfindung bei der Einziehung aus wichtigem Grund gelegentlich
+     als „eine Art Vertragsstrafe“ angesehen (BGH, Beschluss vom 29. September
+     1983 - III ZR 213/82, WM 1983, 1207, 1208; gegen einen Vertragsstrafen-
+     charakter der Abfindungsbegrenzung aber BGH, Urteil vom 19. September
+     1977 - II ZR 11/76, WM 1977, 1276, 1277 f.).
+
+15         bb) Eine Bestimmung in der Satzung einer GmbH, nach der im Fall einer
+     (groben) Verletzung der Interessen der Gesellschaft oder der Pflichten des
+     Gesellschafters keine Abfindung zu leisten ist, ist als Abfindungsausschluss
+     sittenwidrig und nicht grundsätzlich als Vertragsstrafe zulässig. Ein sachlicher
+     Grund dafür, eine Abfindung allein aufgrund einer (groben) Pflichtverletzung
+     auszuschließen, fehlt. Der Abfindungsausschluss führt insbesondere zu der
+     unangemessenen Rechtsfolge, dass dem Gesellschafter wegen einer - unter
+                                           -9-
+
+
+
+     Umständen - einzigen (groben) Pflichtverletzung der Wert seiner Mitarbeit und
+     seines Kapitaleinsatzes entschädigungslos entzogen werden kann.
+
+16           Eine Beschränkung oder ein Ausschluss der Abfindung soll in der Regel
+     dem Bestandsschutz der Gesellschaft dienen (BGH, Urteil vom 16. Dezember
+     1991 – II ZR 58/91, BGHZ 116, 359, 368) und hat keinen Vertragsstrafen-
+     charakter.   Auch    der   Abfindungsausschluss     im    Fall   einer   (groben)
+     Pflichtverletzung des Gesellschafters erfüllt üblicherweise nicht die Zwecke
+     einer    Vertragsstrafe.   Eine   Vertragsstrafe   soll   als    Druckmittel   zur
+     ordnungsgemäßen Leistung anhalten oder einen Schadensersatzanspruch
+     pauschalieren (BGH, Urteil vom 23. Juni 1988 - VII ZR 117/87, BGHZ 105, 24,
+     27; Urteil vom 18. November 1982 - VII ZR 305/81, BGHZ 85, 305, 312 f.; Urteil
+     vom 27. November 1974 - VIII ZR 9/73, BGHZ 63, 256, 259 f.). Als
+     Pauschalierung eines Schadensersatzanspruches ist eine Regelung mit
+     vollständigem Abfindungsausschluss zu undifferenziert, zumal wenn jeder
+     Bezug zu einem möglicherweise eingetretenen Schaden fehlt. Eine (grobe)
+     Pflichtverletzung des Gesellschafters führt auch nicht immer zu einem Schaden
+     der Gesellschaft.
+
+17           Ein vollständiger Abfindungsausschluss ist nicht besonders geeignet, um
+     den Gesellschafter zur Erfüllung seiner Pflichten anzuhalten. Dem betroffenen
+     Gesellschafter droht bei pflichtwidrigem Verhalten bereits der Verlust seiner
+     Stellung als Gesellschafter und damit der Verlust künftiger Einnahmen. Wenn
+     der Gesellschafter in der Gesellschaft tätig ist, ist mit dem Verlust der
+     Gesellschafterstellung auch der Verlust der regelmäßigen Einnahmequelle
+     verbunden. Der Ausschluss eines Abfindungsentgelts bietet dann darüber
+     hinaus keinen erheblichen zusätzlichen Anreiz für ein pflichtgemäßes
+     Verhalten. Da er an die Einziehung oder den Ausschluss anknüpft, dient er eher
+     der zusätzlichen Sanktionierung des in der Vergangenheit liegenden Verhaltens
+     als dazu, den Gesellschafter zur Erfüllung der Pflichten anzuhalten.
+                                              - 10 -
+
+
+
+18         Gegen die Einordnung eines Abfindungsausschlusses im Fall einer
+     (groben) Pflichtverletzung als Vertragsstrafe spricht auch, dass in jedem
+     Einzelfall die Verhältnismäßigkeit der „Strafe“ überprüft werden müsste, ohne
+     dass dafür praktisch handhabbare Maßstäbe bestehen. Der vollständige
+     Ausschluss ist - wie hier - jedenfalls dann unverhältnismäßig, wenn die
+     Gesellschaft durch das Verhalten des Gesellschafters nicht in Existenznot
+     geraten ist und den verbleibenden Gesellschaftern trotz der Pflichtverletzung
+     ein nicht unerheblicher Wert zuwächst. Ist die Gesellschaft in Existenznot
+     geraten, ist regelmäßig schon der Verkehrswert des Geschäftsanteils gering, so
+     dass es eines vollständigen Abfindungsausschlusses zur Rettung der
+     Gesellschaft nicht bedarf. Wenn der Gesellschafter, der ausgeschlossen
+     werden soll oder dessen Anteil zwangsweise eingezogen werden soll, die
+     Gesellschaft darüber hinaus durch sein Verhalten, das dem Ausschluss oder
+     der Einziehung zugrunde liegt, geschädigt hat, kann der Schaden konkret
+     berechnet    und    ihm    entgegengehalten       werden.   Die    Verwirkung    einer
+     Vertragsstrafe     setzt   schließlich     darüber    hinaus       Verschulden    des
+     Ausgeschlossenen voraus, das bei einer Pflichtverletzung oder einem groben
+     Verstoß gegen die Interessen der Gesellschaft nicht vorliegen muss.
+
+19         cc) § 7 Nr. 2 GV ist nicht dahin auszulegen, dass eine Vertrags-
+     strafenregelung für ein bestimmtes pflichtwidriges Verhalten getroffen ist, die
+     über den (sittenwidrigen) Ausschluss der Abfindung bei einer (groben)
+     Pflichtverletzung hinausgeht. Dafür könnte neben der Voraussetzung einer
+     groben Verletzung der Gesellschaftsinteressen für den Abfindungsausschluss
+     allenfalls die räumliche Trennung von der Abfindungsregelung in § 10 GV
+     sprechen, die mit dem Bezug auf die steuerlichen Bewertungsgesetze eine
+     weitere     Abfindungsbeschränkung        enthält.   Für    eine     pauschalierende
+     Schadensersatzregelung fehlt jeder Bezug zu einem Schaden. Eine besondere
+     Anreizfunktion zu einem pflichtgemäßen Verhalten fehlt der Regelung ebenfalls.
+                                            - 11 -
+
+
+
+     Mit der groben Verletzung der Interessen der Gesellschaft enthält sie eine
+     unbestimmte und ausfüllungsbedürftige Tatbestandsvoraussetzung, die sich
+     von der Pflichtverletzung, für die bereits der Ausschluss aus der Gesellschaft
+     droht, nur schwer unterscheiden lässt, so dass der Gesellschafter nicht sicher
+     einschätzen kann, in welchen Fällen er die „Strafe“ verwirkt. Ein Verschulden
+     setzt die Bestimmung für den Verfall der Abfindung nicht voraus.
+
+20         c) Damit entfällt auch, wie das Berufungsgericht zutreffend erkannt hat,
+     die   Grundlage    für    den   hilfsweise      gefassten   Beschluss,   dass   das
+     Abfindungsentgelt nur nach Maßgabe eines Gerichtsurteils geschuldet sein soll,
+     mit   welchem     die    im   Ausschluss     des   Abfindungsanspruchs     liegende
+     Vertragsstrafe herabgesetzt wird.
+
+
+
+
+     Bergmann                               Reichart                          Drescher
+
+                        Born                                     Sunder
+
+
+
+
+     Vorinstanzen:
+     LG Baden-Baden, Entscheidung vom 29.02.2012 - 5 O 14/11 KfH -
+     OLG Karlsruhe, Entscheidung vom 17.05.2013 - 7 U 57/12 -
+

@@ -1,0 +1,662 @@
+               BUNDESGERICHTSHOF
+                   IM NAMEN DES VOLKES
+
+                      VERSÄUMNISURTEIL
+II ZR 116/21                                                   Verkündet am:
+                                                               11. Juli 2023
+                                                               Stoll
+                                                               Justizamtsinspektorin
+                                                               als Urkundsbeamtin
+                                                               der Geschäftsstelle
+                             in dem Rechtsstreit
+
+Nachschlagewerk:      ja
+
+BGHZ:                 ja
+
+BGHR:                 ja
+
+
+
+ZPO § 51 Abs. 1; GmbHG § 30 Abs. 1 Satz 1
+
+
+a) Der Gesellschafter einer Zwei-Personen-GmbH kann unter den Voraussetzungen
+  der actio pro socio die Ausschließungsklage gegen den anderen Gesellschafter er-
+  heben.
+
+b) Wird ein Gesellschafter wegen Vorliegens eines wichtigen Grundes ohne statutari-
+  sche Regelung durch Urteil aus der GmbH ausgeschlossen, wird die Ausschließung
+  des betroffenen Gesellschafters bereits mit Rechtskraft des Urteils wirksam und ist
+  nicht durch die Leistung der Abfindung bedingt (Aufgabe von BGHZ 9, 157, 174).
+
+BGH, Versäumnisurteil vom 11. Juli 2023 - II ZR 116/21 - OLG München
+                                                          LG München I
+
+
+
+
+ECLI:DE:BGH:2023:110723UIIZR116.21.0
+                                            -2-
+
+
+
+    Der II. Zivilsenat des Bundesgerichtshofs hat auf die mündliche Verhandlung
+    vom 11. Juli 2023 durch den Vorsitzenden Richter Born, die Richter Wöstmann,
+    Dr. Bernau und Dr. von Selle sowie die Richterin Dr. C. Fischer
+
+
+    für Recht erkannt:
+
+
+               Auf die Revision des Klägers wird das Urteil des
+               7. Zivilsenats   des    Oberlandesgerichts   München   vom
+               16. Juni 2021 aufgehoben. Die Sache wird zur neuen Ver-
+               handlung und Entscheidung, auch über die Kosten des
+               Revisionsverfahrens, an das Berufungsgericht zurückver-
+               wiesen.
+
+
+
+                                      Von Rechts wegen
+
+
+
+
+                                        Tatbestand:
+
+
+
+1          Kläger und Beklagter sind Gesellschafter der Nebenintervenientin, einer
+    GmbH, und an dieser jeweils hälftig beteiligt. Die Satzung der Nebenintervenien-
+    tin enthält keine Regelung zum Ausschluss eines Gesellschafters oder zur Ein-
+    ziehung von Geschäftsanteilen. Das Stammkapital von 25.000 € haben die Ge-
+    sellschafter vollständig eingezahlt.
+
+2          Der Kläger hat beantragt, den Beklagten aus der Nebenintervenientin aus-
+    zuschließen und dessen Geschäftsanteil nach Wahl des Klägers entweder gegen
+    Zahlung einer Abfindung einzuziehen oder den Kläger für befugt zu erklären, die
+                                          -3-
+
+
+
+    Abtretung des Geschäftsanteils an sich, die Gesellschaft oder einen Dritten her-
+    beizuführen. Hilfsweise hat er beantragt, den Beklagten unter der Bedingung
+    auszuschließen, dass die Gesellschaft innerhalb eines Zeitraums von höchstens
+    sechs Monaten ab Rechtskraft des Urteils an den Beklagten eine im Ermessen
+    des Gerichts liegende Abfindung zu zahlen hat.
+
+3         Das Landgericht hat die Klage abgewiesen. Die hiergegen gerichtete Be-
+    rufung des Klägers und der Nebenintervenientin hat das Berufungsgericht zu-
+    rückgewiesen. Dagegen richtet sich die vom Berufungsgericht zugelassene Re-
+    vision des Klägers, mit der er seine Klageanträge weiterverfolgt.
+
+
+
+
+                                 Entscheidungsgründe:
+
+4         Die Revision des Klägers hat Erfolg. Sie führt zur Aufhebung des ange-
+    fochtenen Urteils und zur Zurückverweisung der Sache an das Berufungsgericht.
+    Die Entscheidung ergeht durch Versäumnisurteil, da der Beklagte in der mündli-
+    chen Verhandlung trotz rechtzeitiger Ladung zum Termin nicht ordnungsgemäß
+    vertreten war. Sie beruht aber inhaltlich auf einer Sachprüfung (vgl. BGH, Urteil
+    vom 4. April 1962 - V ZR 110/60, BGHZ 37, 79, 81).
+
+5         I. Das Berufungsgericht (OLG München, NZG 2021, 1213) hat seine Ent-
+    scheidung im Wesentlichen wie folgt begründet:
+
+6         Die Ausschließungsklage setze voraus, dass die Nebenintervenientin die
+    Abfindung des Beklagten aus ihrem freien, ungebundenen Vermögen zahlen
+    könne. Zwar sei nach der bisherigen Rechtsprechung des Bundesgerichtshofs
+    die nicht auf eine Satzungsregelung gestützte Ausschließung eines Gesellschaf-
+    ters auch dann möglich, wenn die Gesellschaft die Abfindung nicht aus freiem,
+    ungebundenem Vermögen zahlen könne, weil das Urteil dahingehend bedingt
+                                          -4-
+
+
+
+    werde, dass der ausgeschiedene Gesellschafter von der Gesellschaft den im
+    Ausschließungsurteil festzusetzenden Abfindungsbetrag binnen einer ebenfalls
+    im Urteil zu bestimmenden Frist ausbezahlt erhalte. Nachdem aber der Bundes-
+    gerichtshof im Fall einer durch Beschluss der Gesellschafter auf Grundlage einer
+    Satzungsregelung vorgenommenen Einziehung entschieden habe, dass die Ein-
+    ziehung bereits vor Zahlung des Abfindungsentgelts wirksam und vollziehbar
+    werde, sei die Übertragung dieser Rechtsprechung auf den Fall der Ausschlie-
+    ßung ohne statutarische Regelung angezeigt. Auch wenn das Wirksamwerden
+    des den Ausschluss aussprechenden Gestaltungsurteils damit nicht von der Zah-
+    lung der Abfindung an den auszuschließenden Gesellschafter abhänge, müsse
+    das Urteil jedoch die Kapitalerhaltungspflicht des § 30 Abs. 1 GmbHG berück-
+    sichtigen und sicherstellen, dass ein Ausschluss nur ausgesprochen werde,
+    wenn nicht schon bei Urteilserlass feststehe, dass die an den auszuschließenden
+    Gesellschafter zu zahlende Abfindung nicht aus dem freien Vermögen der Ge-
+    sellschaft aufgebracht werden könne. Von diesen Grundsätzen ausgehend
+    könne im vorliegenden Fall die Nebenintervenientin den nach dem Klägervortrag
+    dem
+    Beklagten zustehenden Abfindungsbetrag in Höhe von 2.839.456,65 € nicht aus
+    ihrem freien Vermögen zahlen, selbst wenn man die von ihr vorgetragenen kor-
+    rigierten Jahresergebnisse zugrunde lege. Die Zusage des Klägers, die Neben-
+    intervenientin mit dem zur Auszahlung der Abfindung notwendigen Betrag aus-
+    zustatten, sei nicht entscheidungserheblich, solange es in der Gesellschaft an
+    dem für die Abfindung erforderlichen Kapital fehle.
+
+7         II. Das Berufungsurteil hält in einem Punkt revisionsrechtlicher Nachprü-
+    fung nicht stand.
+
+8         1. Entgegen der Auffassung des Beklagten ist die Klage nicht mangels
+    Bestimmtheit des Klageantrags unzulässig, weil der Kläger im Hauptantrag zwei
+                                          -5-
+
+
+
+    Satzteile mit dem Wort "oder" verknüpft hat, wodurch unklar bleibe, in welchem
+    Verhältnis Ausschließung, Einziehung und Befugnis zur Abtretung des Ge-
+    schäftsanteils zueinander stünden. Bei der Auslegung des Klageantrags ist im
+    Zweifel wegen des verfassungsrechtlichen Anspruchs auf effektiven Rechts-
+    schutz und rechtliches Gehör das als gewollt anzusehen, was nach den Maßstä-
+    ben der Rechtsordnung vernünftig ist und der recht verstandenen Interessenlage
+    der erklärenden Partei entspricht (st. Rspr.; BGH, Urteil vom 3. August 2021
+    - II ZR 123/20, BGHZ 231, 17 Rn. 11 mwN). Im Wege gebotener Auslegung ist
+    danach dem Hauptantrag hinreichend zu entnehmen, dass der Kläger die Aus-
+    schließung des Beklagten aus der Nebenintervenientin beantragt und darüber
+    hinaus die Rechtsmacht über die Verwertung des Geschäftsanteils erlangen will,
+    die entweder durch Einziehung oder Abtretung erfolgen soll. Es mag grammati-
+    kalisch möglich sein, den Antrag so zu verstehen, dass der Kläger isoliert für
+    befugt erklärt werden soll, die Abtretung des Geschäftsanteils des Beklagten an
+    sich, die Gesellschaft oder einen Dritten herbeizuführen, wie der Beklagte meint.
+    Dies widerspräche jedoch erkennbar dem Interesse des Klägers, weil die Ver-
+    wertung des Geschäftsanteils die Ausschließung des Beklagten aus der Neben-
+    intervenientin voraussetzt. Ebenso wenig bestehen Unklarheiten in Bezug auf
+    das beanspruchte Wahlrecht des Klägers, das sich auf das Verhältnis von Ein-
+    ziehung zur Befugnis zur Abtretung des Geschäftsanteils bezieht und nicht, wie
+    vom Beklagten erwogen, auf die Zahlung einer Abfindung oder die Einräumung
+    der Befugnis.
+
+9         2. Der Kläger ist für die im eigenen Namen erhobene Ausschließungsklage
+    prozessführungsbefugt. Die Prozessführungsbefugnis ist eine Prozessvoraus-
+    setzung, die in jeder Lage des Verfahrens und auch in der Revisionsinstanz vor-
+    liegen muss (BGH, Urteil vom 19. Dezember 2017 - II ZR 255/16, ZIP 2018, 276
+    Rn. 9; Urteil vom 25. Januar 2022 - II ZR 50/20, BGHZ 232, 275 Rn. 8).
+                                            -6-
+
+
+
+
+10         a) Nach der Rechtsprechung des Bundesgerichtshofs ist die Ausschlie-
+     ßungsklage grundsätzlich von der GmbH zu erheben (BGH, Urteil vom 1. April
+     1953 - II ZR 235/52, BGHZ 9, 157, 177; Urteil vom 17. Februar 1955
+     - II ZR 316/53, BGHZ 16, 317, 322). Ob in einer Zwei-Personen-GmbH den Ge-
+     sellschaftern ein Klagerecht zur Ausschließung des jeweils anderen zusteht,
+     konnte der Bundesgerichtshof bisher offenlassen (BGH, Urteil vom 1. April 1953
+     - II ZR 235/52, BGHZ 9, 157, 177).
+
+11         aa) Überwiegend wird angenommen, dass in einer Zwei-Personen-GmbH
+     jeder Gesellschafter persönlich eine Ausschließungsklage gegen den Mitgesell-
+     schafter anstrengen kann (Ensthaler in Ensthaler/Füller/Schmidt, GmbHG,
+     2. Aufl., § 34 Rn. 26; Fleischer in Henssler/Strohn, GesR, 5. Aufl., § 34 GmbHG
+     Rn. 31; Görner in Rowedder/Pentz, GmbHG, 7. Aufl., § 34 Rn. 93; Kersting in
+     Noack/Servatius/Haas, GmbHG, 23. Aufl., Anhang nach § 34 Rn. 8a; Kleindiek
+     in Lutter/Hommelhoff, GmbHG, 21. Aufl., § 34 Rn. 124; Klingsch in Saenger/
+     Inhester, GmbHG, 4. Aufl., Anhang zu § 34 Rn. 16; Sandhaus in Gehrlein/
+     Born/Simon, GmbHG, 5. Aufl., § 34 Rn. 83; BeckOK GmbHG/Schindler,
+     Stand 1.9.2022, § 34 Rn. 144; Scholz/Seibt, GmbHG, 13. Aufl., Anhang § 34
+     Rn. 38; Sosnitza in Michalski/Heidinger/Leible/J. Schmidt, GmbHG, 4. Aufl., An-
+     hang § 34 Rn. 28; MünchKommGmbHG/Strohn, 4. Aufl., § 34 Rn. 176; Ulmer/
+     Habersack in Habersack/Casper/Löbbe, GmbHG, 3. Aufl., Anhang nach § 34
+     Rn. 33; Wicke, GmbHG, 4. Aufl., Anhang § 34 Rn. 5; Gehrlein, Ausschluss und
+     Abfindung von GmbH-Gesellschaftern, 1997, Rn. 228; MünchHdBGesR III/Kort,
+     6. Aufl., § 29 Rn. 44, 52; Reher, Die Zweipersonen-GmbH - Notwendigkeit eines
+     Sonderrechts?, 2003, 146 ff.; K. Schmidt, Gesellschaftsrecht, 4. Aufl., § 35 IV 2c,
+     S. 1062 f.; Soufleros, Ausschließung und Abfindung, 1983, S. 71 ff.; Taetzner/
+     Maul in Beck’sches Handbuch der GmbH, 6. Aufl., § 14 Rn. 100; Battke,
+                                              -7-
+
+
+
+     GmbHR 2008, 850, 854; Damrau-Schröter, NJW 1991, 1927, 1934; Eser,
+     DB 1985, 29, 31; Eser, DStR 1991, 747, 749; Oppenländer, DStR 1996, 922,
+     927 f.; Wolf, ZGR 1998, 92, 106 ff.; U. H. Schneider, Festschrift Kellermann,
+     1991, 403, 416 f.; weitergehend: Fischer, Festschrift Walter Schmidt, 1959, 117,
+     133 f.; Joost, ZGR 1984, 71, 100 ff.).
+
+12         Begründet wird die Prozessführungsbefugnis zum Teil mit Praktikabilitäts-
+     erwägungen (Kersting in Noack/Servatius/Haas, GmbHG, 23. Aufl., Anhang nach
+     § 34 Rn. 8a; Klingsch in Saenger/Inhester, GmbHG, 4. Aufl., Anhang zu § 34
+     Rn. 16; Battke, GmbHR 2008, 850, 854; Fischer, Festschrift Walter Schmidt,
+     1959, 117, 133 f.). Andere greifen die Grundsätze der actio pro socio bzw. deren
+     Rechtsgedanken auf (Ensthaler in Ensthaler/Füller/Schmidt, GmbHG, 2. Aufl.,
+     § 34 Rn. 26; MünchKommGmbHG/Strohn, 4. Aufl., § 34 Rn. 176; Ulmer/
+     Habersack in Habersack/Casper/Löbbe, GmbHG, 3. Aufl., Anhang nach § 34
+     Rn. 33; Sosnitza in Michalski/Heidinger/Leible/J. Schmidt, GmbHG, 4. Aufl., An-
+     hang § 34 Rn. 28; Reher, Die Zweipersonen-GmbH - Notwendigkeit eines Son-
+     derrechts?, 2003, 147 f.; K. Schmidt, Gesellschaftsrecht, 4. Aufl., § 35 IV 2c,
+     S. 1062; Eser, DStR 1991, 747, 749).
+
+13         bb) Nach anderer Auffassung besteht kein Bedürfnis für eine vom allge-
+     meinen Grundsatz abweichende unmittelbare Klagebefugnis des ausschlie-
+     ßungswilligen Gesellschafters bei einer Zwei-Personen-GmbH (OLG Nürnberg,
+     BB 1970, 1371; Balz, Die Beendigung der Mitgliedschaft in der GmbH, 1984,
+     S. 47; Goette/Goette, Die GmbH, 3. Aufl., § 6 Rn. 12; Ganßmüller, GmbHR 1956,
+     145, 148; Goette, DStR 2001, 533, 534; Seydel, GmbHR 1953, 149, 150). Da
+     über die Erhebung der Ausschließungsklage die Gesellschafterversammlung zu
+     befinden habe und der betroffene Gesellschafter nicht stimmberechtigt sei, be-
+                                             -8-
+
+
+
+     stehe ein praktisches Bedürfnis allenfalls dann, wenn der auszuschließende Ge-
+     sellschafter zugleich der einzige Geschäftsführer der GmbH sei (Goette,
+     DStR 2001, 533, 534).
+
+14          cc) Der Senat schließt sich der überwiegenden Meinung an. Der Gesell-
+     schafter einer Zwei-Personen-GmbH kann unter den Voraussetzungen der
+     actio pro socio die Ausschließungsklage erheben.
+
+15          (1) Nach der Rechtsprechung des Bundesgerichtshofs kann ein Gesell-
+     schafter einer GmbH berechtigt sein, einen Mitgesellschafter auf Leistung an die
+     Gesellschaft in Anspruch zu nehmen, was namentlich dann in Betracht kommt,
+     wenn dieser seine zwischen den Gesellschaftern bestehende Treuepflicht ver-
+     letzt und durch eine damit verbundene Schädigung des Vermögens der Gesell-
+     schaft mittelbar auch dasjenige des klagenden Gesellschafters geschädigt hat
+     (sog. actio pro socio, BGH, Urteil vom 5. Juni 1975 - II ZR 23/74, BGHZ 65, 15,
+     18 f.; Urteil vom 28. Juni 1982 - II ZR 199/81, ZIP 1982, 1203 f.; Urteil vom 14. Mai
+     1990 - II ZR 125/89, WM 1990, 1240, 1241; Urteil vom 29. November 2004
+     - II ZR 14/03, ZIP 2005, 320, 321; Urteil vom 22. Januar 2019 - II ZR 143/17,
+     ZIP 2019, 1008 Rn. 10). Die Befugnis wurzelt im Gesellschaftsverhältnis und ist
+     Ausfluss des Mitgliedschaftsrechts des Gesellschafters (st. Rspr.; BGH,
+     Beschluss vom 26. April 2010 - II ZR 69/09, ZIP 2010, 1232 Rn. 3; Urteil vom
+     19. Dezember 2017 - II ZR 255/16, ZIP 2018, 276 Rn. 11; Urteil vom 22. Januar
+     2019 - II ZR 143/17, ZIP 2019, 1008 Rn. 10; Urteil vom 25. Januar 2022
+     - II ZR 50/20, BGHZ 232, 275 Rn. 12).
+
+16          (2) Die Übertragung der Grundsätze der actio pro socio auf die Ausschlie-
+     ßungsklage ist gerechtfertigt. Das Recht auf Ausschließung eines Gesellschaf-
+     ters hat seinen materiellen Grund in der gesellschafterlichen Treuepflicht (BGH,
+     Urteil vom 1. April 1953 - II ZR 235/52, BGHZ 9, 157, 163; Urteil vom
+                                           -9-
+
+
+
+     20. September 1999 - II ZR 345/99, ZIP 1999, 1843, 1844 mwN). Die actio pro
+     socio soll die Gesellschafter auch vor Beeinträchtigungen durch eine unrechtmä-
+     ßige Einflussnahme auf die Geschäftsführung bei der Verfolgung von aus der
+     gesellschafterlichen Treuepflicht erwachsenden Ansprüchen schützen (vgl. BGH,
+     Urteil vom 8. November 2022 - II ZR 91/21, BGHZ 235, 57 Rn. 67). Diese Gefahr
+     besteht auch bei Ausschließungsklagen, weil der oft intensiv geführte Streit
+     zwischen den Gesellschaftern sich auf die Geschäftsführung der Gesellschaft
+     und damit auch auf die Durchsetzung einer gebotenen Ausschließung auswirkt.
+
+17         b) Der Prozessführungsbefugnis des Klägers nach diesen Grundsätzen
+     steht insbesondere nicht der Vorrang der inneren Zuständigkeitsordnung der Ge-
+     sellschaft entgegen.
+
+18         aa) Gegenüber der Gesellschafterklage besteht grundsätzlich ein Vorrang
+     der inneren Zuständigkeitsordnung der Gesellschaft, der jedoch entfällt, wenn
+     eine Klage der Gesellschaft undurchführbar, durch den Schädiger selbst vereitelt
+     worden oder infolge der Machtverhältnisse der Gesellschaft so erschwert ist,
+     dass es für den betroffenen Gesellschafter ein unzumutbarer Umweg wäre,
+     müsste er die Gesellschaft erst zu einer Klage zwingen (BGH, Urteil vom 5. Juni
+     1975 - II ZR 23/74, BGHZ 65, 15, 21; Urteil vom 28. Juni 1982 - II ZR 199/81,
+     ZIP 1982, 1203, 1204; Urteil vom 29. November 2004 - II ZR 14/03, ZIP 2005,
+     320, 321).
+
+19         bb) So liegt es hier. Im Zeitpunkt der Klageerhebung war die organschaft-
+     liche Vertretung der Nebenintervenientin Gegenstand mehrerer Gerichtsverfah-
+     ren, in denen u.a. über die Abberufung des Rechtsvorgängers des Beklagten als
+     Geschäftsführer sowie über die Bestellung neuer Geschäftsführer gestritten
+     wurde. Weil die Parteien sich nicht auf einen neuen Geschäftsführer einigen
+     konnten, bestellte das Amtsgericht - Registergericht - nach Klageerhebung im
+                                          - 10 -
+
+
+
+     vorliegenden Rechtsstreit einen Notgeschäftsführer mit einem vornehmlich auf
+     die Erstellung und Prüfung von Jahresabschlüssen sowie die Vertretung in Ge-
+     richtsprozessen beschränkten Aufgabenkreis. Beide Parteien haben hiergegen
+     Beschwerde eingelegt.
+
+20         3. Soweit der Senat bisher die Ausschließung eines Gesellschafters durch
+     Gestaltungsurteil an die Bedingung geknüpft hat, dass der betroffene Gesell-
+     schafter binnen einer im Urteil festzusetzenden angemessenen Frist den eben-
+     falls im Urteil zu bestimmenden Gegenwert für seinen Geschäftsanteil erhält
+     (sog. Bedingungslösung; vgl. BGH, Urteil vom 1. April 1953 - II ZR 235/52,
+     BGHZ 9, 157), hält er daran nicht mehr fest. Wird ein Gesellschafter wegen Vor-
+     liegens eines wichtigen Grundes ohne statutarische Regelung durch Urteil aus
+     der GmbH ausgeschlossen, wird die Ausschließung des betroffenen Gesellschaf-
+     ters bereits mit Rechtskraft des Urteils wirksam und ist nicht durch die Leistung
+     der Abfindung bedingt.
+
+21         a) Nach der neueren Rechtsprechung des Bundesgerichtshofs wird die
+     Einziehung des Geschäftsanteils bereits mit der Mitteilung eines entsprechenden
+     Beschlusses an den betroffenen Gesellschafter wirksam, wenn der Einziehungs-
+     beschluss weder nichtig ist noch für nichtig erklärt wird (BGH, Urteil vom
+     24. Januar 2012 - II ZR 109/11, BGHZ 192, 236 Rn. 13; Urteil vom 20. November
+     2018 - II ZR 12/17, BGHZ 220, 207 Rn. 25; Urteil vom 2. Juli 2019 - II ZR 406/17,
+     BGHZ 222, 323 Rn. 46). Der Gesellschafter, dessen Geschäftsanteil eingezogen
+     wird, muss allerdings davor geschützt werden, dass die verbleibenden Gesell-
+     schafter sich mit der Fortsetzung der Gesellschaft den wirtschaftlichen Wert sei-
+     nes Anteils aneignen und ihn aufgrund der gläubigerschützenden Kapitalerhal-
+     tungspflicht mit seinem Abfindungsanspruch leer ausgehen lassen. Die Gesell-
+     schafter haften daher dem ausgeschiedenen Gesellschafter anteilig auf Zahlung
+                                          - 11 -
+
+
+
+     der Abfindung, wenn die Fortsetzung der Gesellschaft unter Verzicht auf Maß-
+     nahmen zur Befriedigung des Abfindungsanspruchs des ausgeschiedenen Ge-
+     sellschafters als treuwidrig anzusehen ist (BGH, Urteil vom 24. Januar 2012
+     - II ZR 109/11, BGHZ 192, 236 Rn. 14, 21; Urteil vom 10. Mai 2016 - II ZR 342/14,
+     BGHZ 210, 186 Rn. 22 f.). Diese sog. Haftungslösung vermeidet die erheblichen
+     Nachteile der Schwebelage, die nach der Bedingungslösung entsteht (kritisch zur
+     Schwebelage bereits BGH, Urteil vom 30. Juni 2003 - II ZR 326/01, ZIP 2003,
+     1544, 1546). Dem ausgeschiedenen Gesellschafter bleiben während der Schwe-
+     bezeit seine mitgliedschaftlichen Rechte jedenfalls grundsätzlich erhalten, ob-
+     wohl es zumindest dann, wenn ein wichtiger Grund in seiner Person zur Einzie-
+     hung geführt hat, der Gesellschaft und den verbleibenden Gesellschaftern ge-
+     rade unzumutbar ist, dass er weiter in der Gesellschaft bleibt (BGH, Urteil vom
+     24. Januar 2012 - II ZR 109/11, BGHZ 192, 236 Rn. 15). Die Durchsetzung der
+     berechtigt betriebenen Einziehung kann sogar scheitern, weil der betroffene Ge-
+     sellschafter durch Wahrnehmung seiner grundsätzlich fortbestehenden Gesell-
+     schafterrechte die Auszahlung der Abfindung an ihn in dieser Schwebezeit ob-
+     struiert (Goette, Festschrift Lutter, 2001, S. 399, 405). Der ausgeschiedene Ge-
+     sellschafter wird seinerseits in seinem berechtigten Interesse am Erhalt seiner
+     Abfindung ausreichend durch die persönliche Haftung der Gesellschafter ge-
+     schützt (BGH, Urteil vom 24. Januar 2012 - II ZR 109/11, BGHZ 192, 236
+     Rn. 21 f.; Urteil vom 10. Mai 2016 - II ZR 342/14, BGHZ 210, 186 Rn. 22 ff.).
+
+22         b) Diese Erwägungen lassen sich auf die Ausschließung eines Gesell-
+     schafters ohne statutarische Regelung durch Klage übertragen (Altmeppen,
+     GmbHG, 11. Aufl., § 60 Rn. 99; Fleischer in Henssler/Strohn, GesR, 5. Aufl., § 34
+     GmbHG Rn. 31; Görner in Rowedder/Pentz, GmbHG, 7. Aufl., § 34 Rn. 92;
+     Kersting in Noack/Servatius/Haas, GmbHG, 23. Aufl., Anhang § 34 Rn. 14;
+     Kleindiek in Lutter/Hommelhoff, GmbHG, 21. Aufl., § 34 Rn. 132; Klingsch in
+     Saenger/Inhester, 4. Aufl., Anhang zu § 34 Rn. 16; Sosnitza in Michalski/
+                                               - 12 -
+
+
+
+     Heidinger/Leible/J. Schmidt, GmbHG, 4. Aufl., Anhang § 34 Rn. 31; Münch-
+     KommGmbHG/Strohn, 4. Aufl., § 34 Rn. 186; Anacker, Der Schutz des Abfin-
+     dungsinteresses des zwangsweise ausscheidenden GmbH-Gesellschafters,
+     2015,     S. 346 f.;   Goette/Goette,      Die      GmbH,   3. Aufl.,   §6   Rn. 49;
+     MünchHdBGesR III/Kort,        6. Aufl.,      § 29     Rn. 45;    MAH GmbH-Recht/
+     Römmermann/Passarge, 4. Aufl., § 14 Rn. 103; Witt in Gehrlein/Witt/Volmer,
+     GmbH-Recht in der Praxis, 4. Aufl., Kap. 3 Rn. 50; Bayer in Festschrift
+     Bergmann, 2018, S. 43, 60 f.; Schneider/Hoger, NJW 2013, 502, 504 f.; Staake,
+     LMK 2012, 330924; Strohn, Festschrift Bergmann, 2018, S. 729, 741 f.; Tröger,
+     VGR 2013, 23, 66 ff.; a.A. BeckOK GmbHG/Schindler, Stand 1.9.2022, § 34
+     Rn. 145.3; Scholz/Seibt, GmbHG, 13. Aufl., Anhang § 34 Rn. 46; Thiessen in
+     Bork/Schäfer, GmbHG, 5. Aufl., § 34 Rn. 63; Ulmer/Habersack in Habersack/
+     Casper/Löbbe, GmbHG, 3. Aufl., Anhang nach § 34 Rn. 37; Blath in Herrler, Ge-
+     sellschaftsrecht in der Notar- und Gestaltungspraxis, 2. Aufl., § 6 Rn. 1558; Lutz,
+     Der Gesellschafterstreit, 7. Aufl., Rn. 272b; Gehrlein, WM 2019, 1, 4; Klöckner,
+     GmbHR 2012, 1325, 1327; Trölitzsch, KSzW 2016, 55, 57; offen: Sandhaus in
+     Gehrlein/Born/Simon, 5. Aufl., § 34 Rn. 86 ff.; Wicke, GmbHG, 4. Aufl., Anhang
+     § 34 Rn. 6).
+
+23           aa) Die bei der Bedingungslösung nach Rechtskraft des Urteils entste-
+     hende Schwebelage ist den übrigen Gesellschaftern in besonderem Maße unzu-
+     mutbar, weil die Ausschließung, anders als die Einziehung, als äußerstes und
+     letztes Mittel stets nur zulässig ist, wenn in der Person oder dem Verhalten des
+     Gesellschafters ein wichtiger Grund vorliegt, mithin ein Verbleib des Gesellschaf-
+     ters in der Gesellschaft die gedeihliche Fortführung des Unternehmens in Frage
+     stellen würde oder aus sonstigen Gründen die Fortsetzung des Gesellschaftsver-
+     hältnisses mit ihm für die übrigen Gesellschafter unzumutbar wäre (BGH, Urteil
+     vom 1. April 1953 - II ZR 235/52, BGHZ 9, 157, 164; Urteil vom 17. Februar 1955
+     - II ZR 316/53, BGHZ 16, 317; Urteil vom 17. September 1964 - II ZR 136/62,
+                                          - 13 -
+
+
+
+     WM 1964, 1188, 1191; Urteil vom 9. März 1987 - II ZR 215/86, GmbHR 1987,
+     302; MünchKommGmbHG/Strohn, 4. Aufl., § 34 Rn. 134). Liegen diese Voraus-
+     setzungen vor, besteht, anders als etwa in Fällen einer einvernehmlichen Einzie-
+     hung (§ 34 Abs. 1 GmbHG), die erhöhte Gefahr, dass der Gesellschafter seine
+     verbliebenen Gesellschafterrechte nutzt, um die gestaltende Wirkung des Urteils
+     zu verzögern oder zu vereiteln.
+
+24         bb) Der Abfindungsanspruch des Gesellschafters wird auch bei einem mit
+     Rechtskraft des Ausschließungsurteils wirksamen Ausscheiden ausreichend ge-
+     sichert, nämlich zum einen durch das Gebot der Kapitalerhaltung und zum ande-
+     ren durch die persönliche Haftung der verbliebenen Gesellschafter ab dem Zeit-
+     punkt, in dem die Fortsetzung der Gesellschaft unter Verzicht auf Maßnahmen
+     zur Befriedigung des Abfindungsanspruchs des ausgeschiedenen Gesellschaf-
+     ters als treuwidrig anzusehen ist.
+
+25          (1) Das vorrangig gläubigerschützende Gebot der Kapitalerhaltung
+     schützt auch den Auszuschließenden davor, seine Mitgliedschaft zu verlieren,
+     wenn zum Zeitpunkt der letzten mündlichen Verhandlung feststeht, dass die Ab-
+     findung nicht ohne Verletzung von § 30 Abs. 1 GmbHG gezahlt werden kann (vgl.
+     BGH, Urteil vom 1. April 1953 - II ZR 235/52, BGHZ 9, 157, 175; Urteil vom
+     4. August 2020 - II ZR 171/19, ZIP 2020, 1757 Rn. 31 mwN; zur Einziehung:
+     MünchKommGmbHG/Strohn, 4. Aufl., § 34 Rn. 31).
+
+26          (a) Nach der Rechtsprechung des Bundesgerichtshofs gilt das Gebot der
+     Kapitalerhaltung auch dann, wenn die Gesellschaft einen Gesellschafter aus-
+     schließen will. Geschieht das durch Beschluss der Gesellschafterversammlung
+     aufgrund einer statutarischen Regelung, ist dieser entsprechend § 241 Nr. 3 AktG
+     wegen Verstoßes gegen § 30 Abs. 1 GmbHG nichtig, wenn bereits bei Be-
+     schlussfassung feststeht, dass die Abfindung nicht aus freiem Vermögen gezahlt
+                                          - 14 -
+
+
+
+     werden kann (BGH, Urteil vom 5. April 2011 - II ZR 263/08, ZIP 2011, 1104
+     Rn. 19; Urteil vom 4. August 2020 - II ZR 171/19, ZIP 2020, 1757 Rn. 31).
+
+27          (b) Diese Grundsätze gelten sinngemäß bei einer Ausschließung ohne
+     Satzungsregelung. Steht fest, dass die geschuldete Abfindung nicht gezahlt wer-
+     den kann, ist kein Grund dafür ersichtlich, warum sich ein Gesellschafter einer
+     Ausschließung unterwerfen soll (BGH, Urteil vom 5. April 2011 - II ZR 263/08,
+     ZIP 2011, 1104 Rn. 21). Dementsprechend kann auch ein die Ausschließung des
+     Gesellschafters aussprechendes Gestaltungsurteil nicht ergehen, wenn zum
+     Zeitpunkt der letzten mündlichen Verhandlung feststeht, dass die Abfindung nicht
+     ohne Verletzung von § 30 Abs. 1 GmbHG gezahlt werden kann (vgl. BGH, Urteil
+     vom 1. April 1953 - II ZR 235/52, BGHZ 9, 157, 175; Urteil vom 5. April 2011
+     - II ZR 263/08, ZIP 2011, 1104 Rn. 19; Urteil vom 4. August 2020 - II ZR 171/19,
+     ZIP 2020, 1757 Rn. 31 mwN).
+
+28          (2) Darüber hinaus haften die verbliebenen Gesellschafter nach Wirksam-
+     werden der Ausschließung persönlich für die Abfindung des ausgeschlossenen
+     Gesellschafters ab dem Zeitpunkt, in dem die Fortsetzung der Gesellschaft unter
+     Verzicht auf Maßnahmen zur Befriedigung des Abfindungsanspruchs des ausge-
+     schiedenen Gesellschafters als treuwidrig anzusehen ist (vgl. BGH, Urteil vom
+     10. Mai 2016 - II ZR 342/14, BGHZ 210, 186 Rn. 23). Durch diese Haftung wird
+     der Abfindungsanspruch zwar nicht in vollem Umfang gegen Veränderungen der
+     Vermögenslage der Gesellschaft geschützt; einen derartigen Schutz hätte der
+     nach der Bedingungslösung in der Gesellschaft verbleibende Gesellschafter im
+     Rahmen eines Liquidationsverfahrens aber ebenfalls nicht (BGH, Urteil vom
+     24. Januar 2012 - II ZR 109/11, BGHZ 192, 236 Rn. 22).
+
+29         cc) Die Ausschließung durch Beschluss ist ebenfalls nicht durch die Zah-
+     lung einer Abfindung bedingt.
+                                           - 15 -
+
+
+
+30         Hat ein rechtmäßiger Ausschließungsbeschluss der Gesellschafterver-
+     sammlung nach der Satzung der GmbH die Wirkung, dass der betroffene Gesell-
+     schafter seine Gesellschafterstellung mit sofortiger Wirkung verliert, tritt diese
+     Wirkung unabhängig von der Zahlung der dem Gesellschafter zustehenden Ab-
+     findung ein (vgl. BGH, Urteil vom 25. Januar 1960 - II ZR 22/59, BGHZ 32, 17,
+     23; Urteil vom 20. Juni 1983 - II ZR 237/82, NJW 1983, 2880, 2881; Urteil vom
+     30. Juni 2003 - II ZR 326/01, ZIP 2003, 1544, 1546; Beschluss vom 8. Dezember
+     2008 - II ZR 263/07, ZIP 2009, 314 Rn. 6; Urteil vom 5. April 2011 - II ZR 263/08,
+     ZIP 2011, 1104 Rn. 21; Urteil vom 4. August 2020 - II ZR 171/19, ZIP 2020, 1757
+     Rn. 26). Die Gesellschafterstellung des Betroffenen lebt nicht wieder auf, wenn
+     die Gesellschaft nicht in angemessener Frist die Einziehung des Geschäftsan-
+     teils beschließt oder seine Abtretung verlangt und nichts dazu tut, dass der Aus-
+     geschlossene den Gegenwert seines Geschäftsanteils erlangt (BGH, Urteil vom
+     25. Januar 1960 - II ZR 22/59, BGHZ 32, 17, 23; Beschluss vom 8. Dezember
+     2008 - II ZR 263/07, ZIP 2009, 314 Rn. 6; Urteil vom 4. August 2020
+     - II ZR 171/19, ZIP 2020, 1757 Rn. 26). Im Prozess über die Wirksamkeit des
+     Ausschließungsbeschlusses kommt es daher nicht darauf an, dass lediglich die
+     Ausschließung des Klägers beschlossen, nicht aber über seinen Geschäftsanteil
+     Beschluss gefasst worden ist, und welchen Wert dieser Geschäftsanteil hat (vgl.
+     BGH, Urteil vom 25. Januar 1960 - II ZR 22/59, BGHZ 32, 17, 23; Beschluss vom
+     8. Dezember 2008 - II ZR 263/07, ZIP 2009, 314 Rn. 6; Urteil vom 4. August 2020
+     - II ZR 171/19, ZIP 2020, 1757 Rn. 26).
+
+31         dd) Auch die fehlende antizipierte Zustimmung zum Ausschluss ohne sat-
+     zungsmäßige Regelung zwingt nicht zur Kopplung des Abfindungsanspruchs an
+     die Wirksamkeit der Ausschließung.
+                                          - 16 -
+
+
+
+32          (1) Die Satzung einer GmbH kann den Ausschluss regeln und für den Fall
+     des Ausschlusses eines Gesellschafters durch Gesellschafterbeschluss anord-
+     nen, dass der betroffene Gesellschafter seine Gesellschafterstellung mit soforti-
+     ger Wirkung verliert (BGH, Urteil vom 4. August 2020 - II ZR 171/19, ZIP 2020,
+     1757 Rn. 21 mwN). Zwar ist ein auf einer solchen Satzungsgrundlage auszu-
+     schließender Gesellschafter wegen seiner antizipierten Zustimmung grundsätz-
+     lich weniger schutzwürdig als ein Gesellschafter, der einer entsprechenden Sat-
+     zungsregelung nicht zugestimmt hat (vgl. BGH, Urteil vom 24. Januar 2011
+     - II ZR 109/11, BGHZ 192, 236 Rn. 16). Dem wird aber dadurch Rechnung ge-
+     tragen, dass letzterer nur durch Gestaltungsurteil aufgrund eines gerichtlichen
+     Verfahrens, das für den Ausschluss als besonders einschneidende Maßnahme
+     von vornherein klare Verhältnisse schaffen soll, aus der Gesellschaft ausge-
+     schlossen werden kann (BGH, Urteil vom 1. April 1953 - II ZR 235/52, BGHZ 9,
+     157, 166). Gleichzeitig gewährleistet das gerichtliche Verfahren damit gegenüber
+     der Ausschließung durch Gesellschafterbeschluss dem auszuschließenden Ge-
+     sellschafter besseren verfahrensrechtlichen Schutz vor einem unberechtigten
+     Ausscheiden aus der Gesellschaft. Will ein Gesellschafter sich gegen einen auf
+     einer Satzungsregelung beruhenden Ausschließungsbeschluss der Gesellschaf-
+     terversammlung wehren, muss er selbst Anfechtungs- oder Nichtigkeitsklage er-
+     heben und, ggf. im Wege des einstweiligen Rechtsschutzes, der Gesellschaft
+     verbieten lassen, eine neue Gesellschafterliste, in der er nicht mehr aufgeführt
+     ist, bei dem Registergericht einzureichen (vgl. BGH, Urteil vom 2. Juli 2019
+     - II ZR 406/17, BGHZ 222, 323 Rn. 39).
+
+33          (2) In Bezug auf die hiervon zu trennende Frage, ob die sofortige Wirk-
+     samkeit der Ausschließung von der Zahlung der Abfindung abhängt, ist die Inte-
+     ressenlage aber in beiden Fällen gleich. Dem lässt sich auch nicht entgegenhal-
+     ten, der Gesellschafter gebe mit der Unterwerfung unter eine satzungsmäßige
+     Regelung zu erkennen, für den Fall des Eintritts eines wichtigen Grundes dem
+                                            - 17 -
+
+
+
+     Fortsetzungsinteresse der Gesellschaft bzw. der übrigen Gesellschafter gegen-
+     über seinem Verbleib und seinem Interesse am sofortigen Erhalt der Abfindung
+     den Vorzug zu geben (so Pentz in Festschrift Ulmer, 2003, 451, 467). Zum einen
+     ist ein solcher - unterstellter - Wille in der Satzung nicht niedergelegt; zum ande-
+     ren kann ein Gesellschafter auch bei Fehlen einer satzungsmäßigen Ausschlie-
+     ßungsregelung angesichts des das Recht der Dauerschuldverhältnisse beherr-
+     schenden Grundsatzes, sich aus wichtigem Grund von diesem lösen zu können
+     (vgl. §§ 314, 626, 723 BGB, §§ 117, 127, 133, 140 HGB), nicht berechtigt darauf
+     vertrauen, in der Gesellschaft zu verbleiben, obwohl in seiner Person oder in sei-
+     nem Verhalten ein wichtiger Grund für seinen Ausschluss vorliegt (vgl. Goette,
+     DStR 2001, 533, 539; Strohn, Festschrift Bergmann, 2018, S. 729, 732 f.).
+
+34          4. Allerdings tragen die bisherigen Feststellungen des Berufungsgerichts
+     nicht die Annahme, die Abfindung des Beklagten könne nicht aus freiem Vermö-
+     gen der Nebenintervenientin gezahlt werden.
+
+35          a) Das Berufungsgericht ist unter Bezugnahme auf die landgerichtliche
+     Entscheidung (§ 540 Abs. 1 ZPO) davon ausgegangen, die Zusage des Klägers,
+     die Nebenintervenientin mit dem zur Auszahlung der Abfindung notwendigen Be-
+     trag auszustatten, sei nicht entscheidungserheblich, solange es in der Gesell-
+     schaft an dem für die Abfindung erforderlichen Kapital fehle. Ein im Zeitpunkt der
+     letzten mündlichen Verhandlung vorhandenes freies Vermögen der Nebeninter-
+     venientin zur Zahlung der vollständigen Abfindung habe es nicht feststellen kön-
+     nen.
+
+36          b) Diese Auffassung hält der rechtlichen Überprüfung nicht stand.
+
+37          aa) Für das im Gläubigerinteresse bestehende Auszahlungsverbot nach
+     § 30 Abs. 1 Satz 1 GmbHG gilt eine bilanzielle Betrachtungsweise. Auszahlun-
+                                          - 18 -
+
+
+
+     gen an (ausgeschiedene) Gesellschafter dürfen nicht zur Entstehung oder Ver-
+     tiefung einer Unterbilanz führen. Deren Vorliegen bestimmt sich nicht nach Ver-
+     kehrswerten, sondern nach den Buchwerten einer stichtagsbezogenen Handels-
+     bilanz; stille Reserven finden keine Berücksichtigung (BGH, Urteil vom
+     29. September 2008 - II ZR 234/07, ZIP 2008, 2217 Rn. 11; Urteil vom 5. April
+     2011 - II ZR 263/08, ZIP 2011, 1104 Rn. 17; Urteil vom 26. Juni 2018
+     - II ZR 65/16, ZIP 2018, 1540 Rn. 15; Urteil vom 26. Januar 2021 - II ZR 391/18,
+     ZIP 2021, 459 Rn. 32).
+
+38         bb) Hat der Gesellschafter einer GmbH mit der Gesellschaft vereinbart, sie
+     in der Weise auszustatten, dass die Zahlung der Abfindung an einen ausgeschie-
+     denen Gesellschafter nicht zur Entstehung einer Unterbilanz führt, kann nach all-
+     gemeinen Grundsätzen (§ 42 GmbHG, §§ 242 ff. HGB) eine Forderung in der
+     Handelsbilanz der Gesellschaft aktiviert werden.
+
+39          (1) Ein Gesellschafter kann sich causa societatis, über seine Verpflich-
+     tung zur Leistung seiner Einlage (§ 19 Abs. 1 GmbHG) hinausgehend, zur Er-
+     bringung weiterer Leistungen, etwa zu Sanierungszwecken in Form von Verlust-
+     anteilserhöhungen oder verlorenen Zuschüssen oder zu sonstigen freiwilligen fi-
+     nanziellen Zuwendungen, verpflichten. Diese Zusagen werden regelmäßig ohne
+     unmittelbare Gegenleistung im Rechtssinne, wohl aber vor dem Hintergrund ab-
+     gegeben, dass sich der Gesellschafter davon eine Stärkung der Gesellschaft und
+     damit mittelbar eine Verbesserung seiner durch die Mitgliedschaft vermittelten
+     Vermögenslage verspricht (BGH, Urteil vom 8. Mai 2006 - II ZR 94/05, ZIP 2006,
+     1199 Rn. 11 ff.). Dementsprechend begegnet es keinen Bedenken, wenn sich
+     ein Gesellschafter, ggf. auch erst im Rahmen eines Prozesses, gegenüber der
+     Gesellschaft dazu verpflichtet, sie so auszustatten, dass sie die Abfindungsfor-
+     derung eines ausscheidenden Gesellschafters ohne Verstoß gegen § 30 Abs. 1
+                                           - 19 -
+
+
+
+     Satz 1 GmbHG zahlen kann. Ein entsprechender Ausstattungsanspruch der Ge-
+     sellschaft gegen ihren Gesellschafter kann in ihrer Bilanz nach allgemeinen
+     Grundsätzen (§ 42 GmbHG, §§ 242 ff. HGB) aktiviert werden (vgl. MünchKomm-
+     GmbHG/Ekkenga,         4. Aufl.,   § 30   Rn. 105;     BeckOGK       BGB/Harnos,
+     Stand 1.5.2023, § 765 Rn. 668.2; Wittmann, GmbHR 2020, 191, 193 f.; vgl. zur
+     Überschuldungsbilanz: BGH, Urteil vom 20. September 2010 - II ZR 296/08,
+     BGHZ 187, 69 Rn. 17 f. - STAR 21; Urteil vom 13. Juli 2021 - II ZR 84/20,
+     BGHZ 230, 255 Rn. 74).
+
+40         (2) Das Berufungsgericht hat bisher keine Feststellungen dazu getroffen,
+     ob die Ausstattungszusage des Klägers eine in der Bilanz der Nebenintervenien-
+     tin im Zeitpunkt der Zahlung der Abfindung aktivierbare Forderung begründet.
+     Nach seinen Feststellungen hat der Kläger im Prozess erklärt, er werde der
+     Nebenintervenientin - sollte über eine anderweitig gerichtlich verfolgte und in der
+     Bilanz zu aktivierende Schadensersatzforderung gegen den früheren Geschäfts-
+     führer und Rechtsvorgänger des Beklagten noch nicht entschieden sein - den zur
+     Auszahlung der Abfindung notwendigen Betrag im Wege einer Einlage rechtzei-
+     tig zur Verfügung stellen. Soweit die Revisionserwiderung in diesem Zusammen-
+     hang einwendet, es handele sich um keine rechtsverbindliche Vereinbarung
+     zwischen Kläger und Nebenintervenientin, fehlt es an entsprechenden Feststel-
+     lungen des Berufungsgerichts zum Rechtsbindungswillen und Vertragsabschluss
+     nach §§ 145 ff. BGB.
+
+41         IV. Das Berufungsurteil ist danach aufzuheben (§ 562 Abs. 1 ZPO). Die
+     Sache ist, da der Rechtsstreit noch nicht zur Endentscheidung reif ist, an das
+     Berufungsgericht zurückzuverweisen (§ 563 Abs. 1 Satz 1, Abs. 3 ZPO), damit
+     dieses ergänzende Feststellungen zur Aktivierbarkeit einer Forderung aus der
+     Ausstattungszusage des Klägers in der Handelsbilanz der Nebenintervenientin
+                                         - 20 -
+
+
+
+     im Zeitpunkt der Zahlung der Abfindung und zu den weiteren Voraussetzungen
+     einer Ausschließung treffen kann.
+
+            V. Rechtsbehelfsbelehrung:
+
+42          Gegen dieses Versäumnisurteil kann die säumige Partei innerhalb einer
+     Notfrist von zwei Wochen, die mit der Zustellung des Versäumnisurteils beginnt,
+     schriftlich Einspruch durch eine von einer beim Bundesgerichtshof zugelassenen
+     Rechtsanwältin oder einem beim Bundesgerichtshof zugelassenen Rechtsanwalt
+     unterzeichnete Einspruchsschrift beim Bundesgerichtshof, Herrenstraße 45a,
+     76133 Karlsruhe (Postanschrift: 76125 Karlsruhe) einlegen.
+
+
+
+
+     Born                                Wöstmann                           Bernau
+
+                     von Selle                              C. Fischer
+
+
+
+
+     Vorinstanzen:
+     LG München I, Entscheidung vom 28.02.2019 - 16 HKO 10218/18 -
+     OLG München, Entscheidung vom 16.06.2021 - 7 U 1407/19 -
+

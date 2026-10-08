@@ -1,0 +1,352 @@
+[
+  {
+    "datei": "originale/II_ZR_116-21.pdf.gz",
+    "sha256_original": "abded036e1fcc3c99fcfabe83fdc18f394af16328b30252c1171e1aed50ddc3a",
+    "sha256_gzip": "f321845017d2154d637c63ab0e5426fa73faf7c9d703edadfd83266e89ef612d",
+    "original_bytes": 223442,
+    "gzip_bytes": 206667
+  },
+  {
+    "datei": "originale/II_ZR_151-03.pdf.gz",
+    "sha256_original": "69824a4629f6e639a631259804c16bfeaf8cc52da8d0ed231d5eea7e5cd22b9e",
+    "sha256_gzip": "d53c9f311860b55e0de47347b74b874cbf5b6c353938b240976b88c2c96b3ff3",
+    "original_bytes": 44035,
+    "gzip_bytes": 39925
+  },
+  {
+    "datei": "originale/II_ZR_166-07.pdf.gz",
+    "sha256_original": "82f1c032f2bf5a7c0b0807b3872e0601a68269c003cf37a933f9d18513889b72",
+    "sha256_gzip": "2883074cc11ea5fb30d63efc1884e33ec8e73d517ea92aac75a32d4c433128b8",
+    "original_bytes": 84846,
+    "gzip_bytes": 74971
+  },
+  {
+    "datei": "originale/II_ZR_167-07.pdf.gz",
+    "sha256_original": "427c5934c2761c01fcaedb040af16aba62adaae68c4294d15b41e484bb2a6c93",
+    "sha256_gzip": "f685d0d0b73872b78afa5e3b85d6dc991ec6e3e219ade37cbf4fa4974b06c1c5",
+    "original_bytes": 114920,
+    "gzip_bytes": 99719
+  },
+  {
+    "datei": "originale/II_ZR_216-13.pdf.gz",
+    "sha256_original": "84254f5f4b00a3ee82132bad6e6552e28921dae6e08baf4cbe66de2aa9212e34",
+    "sha256_gzip": "58115f2a118ea1f2f9663cecb8b7e2c81d39ee0ae4de93a2437845d7220ca886",
+    "original_bytes": 134546,
+    "gzip_bytes": 125881
+  },
+  {
+    "datei": "originale/II_ZR_275-14.pdf.gz",
+    "sha256_original": "4241bd47e2e997a6ec8c0ddc215502a87778d4e6b2d5cec6b0212eb87c941f23",
+    "sha256_gzip": "e1eaa9b75ad49731d2c2e9748069e51ff657b416248742454ea713003b044b97",
+    "original_bytes": 131754,
+    "gzip_bytes": 123154
+  },
+  {
+    "datei": "originale/II_ZR_406-17.pdf.gz",
+    "sha256_original": "ff84d98ca6120558bf0d3e8960ed8553ee12dd6eaa737bc36794846270038142",
+    "sha256_gzip": "e326c425ca470027977f16993d814bef04785918b5e1aae7bdada645dcb67ecb",
+    "original_bytes": 303653,
+    "gzip_bytes": 280703
+  },
+  {
+    "datei": "originale/II_ZR__13-25.pdf.gz",
+    "sha256_original": "5c5c7d5908d7ee50a2eb6dac7414025ee0bc6bfca613c96cda033e8c3ecfb927",
+    "sha256_gzip": "de39067e06067f2f649178b451b98f69a9d6aeb9e4ff758913d54280513bf293",
+    "original_bytes": 150397,
+    "gzip_bytes": 137452
+  },
+  {
+    "datei": "originale/II_ZR__50-25.pdf.gz",
+    "sha256_original": "88b2a5a3c77acc238dba4e80da9dda4aee47035aa1bb36ae4481bcaccf3ef0e2",
+    "sha256_gzip": "72baf3b6eae2ac93fdc1192de050579e5ca06a3586d83476c833f1adde2e0509",
+    "original_bytes": 147517,
+    "gzip_bytes": 134864
+  },
+  {
+    "datei": "originale/II_ZR__65-16.pdf.gz",
+    "sha256_original": "3cf0434d1ae438bcc91556b614e5d8e8106528be4fc55827ed922f2f1335aa0a",
+    "sha256_gzip": "ffd537cf44758c28c8760cde2eedac3c3ebe2f0a0c6e57d33777486d4184840c",
+    "original_bytes": 124933,
+    "gzip_bytes": 116689
+  },
+  {
+    "datei": "originale/II_ZR__71-24.pdf.gz",
+    "sha256_original": "eafff90a3d150d4cffeff039fb5f11710fe37e5ea7fc459e5e8639fc7e20a715",
+    "sha256_gzip": "ab7f41e4c5cbb9f0ecf814f2b1c36786cefd16562a3f1d1b8b3cd4e9fef9f6f6",
+    "original_bytes": 207694,
+    "gzip_bytes": 187874
+  },
+  {
+    "datei": "originale/II_ZR__77-16.pdf.gz",
+    "sha256_original": "d1a42e09da7e9e0c93ac236cbbf46c9cdc37a8331eadb43d8a8821601745dfab",
+    "sha256_gzip": "5760eed6944659d3c563215e45e837d38132660e881858a74a7bdb669c6d1804",
+    "original_bytes": 132348,
+    "gzip_bytes": 123357
+  },
+  {
+    "datei": "originale/II_ZR__77-24.pdf.gz",
+    "sha256_original": "5e82832978b80f22c876af1325a5ee53a11750949bbeb7329c211c8b97b66448",
+    "sha256_gzip": "bbdf1ec2d6cabd266a272e65cfa5e20301f3a6490d9e06afcde625310e30d94f",
+    "original_bytes": 246702,
+    "gzip_bytes": 235365
+  },
+  {
+    "datei": "originale/II_ZR__85-23.pdf.gz",
+    "sha256_original": "03b026d06bc27491e01ee9a44cf0de2fb6b8b6ba5289b3fb358b8c0905bd8cc8",
+    "sha256_gzip": "b76d52d0227d7a2e1f20afc61ac2a52b11aef2ce2daf4477250377bb39ff0f26",
+    "original_bytes": 258730,
+    "gzip_bytes": 246394
+  },
+  {
+    "datei": "originale/II_ZR__91-21.pdf.gz",
+    "sha256_original": "8fdb07e0df6300d19db5b1e0bbe2437eb793f1d420a647e9f402a7b669c1a995",
+    "sha256_gzip": "bfbfb5bd3cda6429bf3944c8d8df972b16936d88a984e9748bce42af02ca912c",
+    "original_bytes": 251657,
+    "gzip_bytes": 231741
+  },
+  {
+    "datei": "originale/II_ZR__99-22.pdf.gz",
+    "sha256_original": "4850f4b8a6cc12600f1667158781b5c6aa3f31e9186b3b8f8c5e9a2c05bd69fe",
+    "sha256_gzip": "7435c8a6f63470bbeaf46d7d4ae50a5dc667daa1dad1db145203c37656c2755d",
+    "original_bytes": 181705,
+    "gzip_bytes": 172940
+  },
+  {
+    "datei": "originale/II_ZR___2-25A.pdf.gz",
+    "sha256_original": "9a8579a94811872baebffa74cdcc5afc02909d61620714143540f7ea26ca6741",
+    "sha256_gzip": "814698951e6e4e2154155a94e8769d6c251c786f35effe319253d58d23571b5e",
+    "original_bytes": 197753,
+    "gzip_bytes": 180942
+  },
+  {
+    "datei": "originale/IX_ZR_189-24.pdf.gz",
+    "sha256_original": "db4d9a6d16820f69827963bc46134eb4815efc2f0bcb4a261b1eed6264dfb34b",
+    "sha256_gzip": "424700c50d9cd8749d8fb238f933edb8e1e84f78be704b271ef20126c72f9a99",
+    "original_bytes": 182755,
+    "gzip_bytes": 172705
+  },
+  {
+    "datei": "originale/aktg-__132.html.gz",
+    "sha256_original": "789494b270211085cb364b20403b4ce9a1ea3e56647778c8944b99d07f4b00db",
+    "sha256_gzip": "bd1b346e1417af162d27aee9d06743a2e9db2adc87375357c94a65511cf08fbf",
+    "original_bytes": 5437,
+    "gzip_bytes": 2175
+  },
+  {
+    "datei": "originale/aktg-__99.html.gz",
+    "sha256_original": "a7fee8617d658ad874289b3f65a9857f274902b86d68d1a6b83d995dc97c3658",
+    "sha256_gzip": "a7b59b24adb93b5d95195692508f17ae574c3c610f7b1eb68a5cce7d6d2c9f2d",
+    "original_bytes": 5732,
+    "gzip_bytes": 2278
+  },
+  {
+    "datei": "originale/bgb-__162.html.gz",
+    "sha256_original": "15c09655fcdc1d8df65e023422f23dd95af0de6c42fa07eddf2e9e83f5f2a84d",
+    "sha256_gzip": "eb92042da82b0bf357fac63b50b249f7838db6f2e659a1769eba984642a462a6",
+    "original_bytes": 3760,
+    "gzip_bytes": 1538
+  },
+  {
+    "datei": "originale/bgb-__164.html.gz",
+    "sha256_original": "fb1cfc902a12d3f291fa743bbcd71df24bec5db6261759332603b337bc5b3406",
+    "sha256_gzip": "5df1cc19b9ffbd8c2c2e20047bbf7fea88b65876d12a7abf7a28f5832955135e",
+    "original_bytes": 4126,
+    "gzip_bytes": 1711
+  },
+  {
+    "datei": "originale/bgb-__177.html.gz",
+    "sha256_original": "0c86c993cf40c24277943768a2456b4a61d5c7fa1596d90222cbc0e40ac1bafb",
+    "sha256_gzip": "42f76dbed58661eb591d77711b57c14ddd7fc6519c4ecbff233ce0c02e05a548",
+    "original_bytes": 4062,
+    "gzip_bytes": 1676
+  },
+  {
+    "datei": "originale/bgb-__181.html.gz",
+    "sha256_original": "1e2ad09bab25550ef6d65583036e65d56f794f6d05c9971ea8734e4a7dc92ce1",
+    "sha256_gzip": "2fd1ffde4d9263371a3b9ee6b09a553c189e253bdaa1e849a1bfc31cc3220b0a",
+    "original_bytes": 3661,
+    "gzip_bytes": 1536
+  },
+  {
+    "datei": "originale/bgb-__242.html.gz",
+    "sha256_original": "7266216454228c0d5730af7b13306d640ca4b1e484dcf2f2493282c686d8da10",
+    "sha256_gzip": "adbe26d075d96d45fdc076976b9203c670c0468eeeec178107a0ae9b20ea555b",
+    "original_bytes": 3506,
+    "gzip_bytes": 1469
+  },
+  {
+    "datei": "originale/bgb-__626.html.gz",
+    "sha256_original": "756230bb8c390f271caa4a6775e8828577db430f7d3f973fd6660055ea2d5016",
+    "sha256_gzip": "2b8526558aa74e1835fad82263ebd7e3a67d8fda959411a4ab7c40e76b8b5ac5",
+    "original_bytes": 4271,
+    "gzip_bytes": 1776
+  },
+  {
+    "datei": "originale/geschgehg-BJNR046610019.html.gz",
+    "sha256_original": "182bda1cbb0c3279f9416492b1ebc5376ce1ba63b52a9c66bc88626b34452a85",
+    "sha256_gzip": "7c212e2ba2148e65d0223a0b4b7659ba3770bfec7be2b6c3da827dd49801f2de",
+    "original_bytes": 51215,
+    "gzip_bytes": 10208
+  },
+  {
+    "datei": "originale/geschgehg-__2.html.gz",
+    "sha256_original": "bc73c74861893709246a68f13a75ca06de32b799d0d26f7d39adef96f126c73d",
+    "sha256_gzip": "7d113ee882136eac7b16920215b058d2829c915e8ee669a1889e3e0afcb7f930",
+    "original_bytes": 5515,
+    "gzip_bytes": 2052
+  },
+  {
+    "datei": "originale/geschgehg-__3.html.gz",
+    "sha256_original": "418a18b1b23ff195ac2bdfb14ca66c664f70b5ff4985af257733ed5f57eaf097",
+    "sha256_gzip": "b0ccde11132905c00025e96c16d5652f8152e8a5523a66d9ef011f7b5b5eccd3",
+    "original_bytes": 4735,
+    "gzip_bytes": 1869
+  },
+  {
+    "datei": "originale/geschgehg-__4.html.gz",
+    "sha256_original": "919422def5dcc1c4164f312ef7431a3ac259eae70f1e5bfb525d0879a2d31c4d",
+    "sha256_gzip": "7a21c8328551589ad8607855c713af42b2321cce0ed188d9144284006f72f9a7",
+    "original_bytes": 5682,
+    "gzip_bytes": 2101
+  },
+  {
+    "datei": "originale/gmbhg-BJNR004770892.html.gz",
+    "sha256_original": "1de71e07d94b3187f551e32d039a594ca0a6d7ec1525438331b583d39d867c2a",
+    "sha256_gzip": "004670d6cb4ecd0b8f0cc6ab494a646c1a432cbf06527706171ade5961d67611",
+    "original_bytes": 224303,
+    "gzip_bytes": 38810
+  },
+  {
+    "datei": "originale/inso-__135.html.gz",
+    "sha256_original": "01926bae5b57ee83d8c08d9453c6d322b182fd24f1719d2a6ac6f6d9580b6c0b",
+    "sha256_gzip": "5654a9724c4769fc16575b0d0ff3cdf70a2162a123f9fd0a2a24a146e7fd825a",
+    "original_bytes": 5542,
+    "gzip_bytes": 2152
+  },
+  {
+    "datei": "originale/inso-__15a.html.gz",
+    "sha256_original": "5bea1fdb44d7f22dc33524130ebf8ceed43923bf4fc8e36cf7718262f34c6ac6",
+    "sha256_gzip": "adec3d7e20d5420cbd886e4bb026c47c4555f1ee4e5d8b0d346cfa95cab4a7e8",
+    "original_bytes": 6265,
+    "gzip_bytes": 2347
+  },
+  {
+    "datei": "originale/inso-__15b.html.gz",
+    "sha256_original": "eaf77757ffd2bf752106df47ec424e4e4a336456e401e49c09048ec640252200",
+    "sha256_gzip": "b9685cf52530f8d2aeb35957683b62ece61e7ad0c1d0db51c02b76f26fa7890e",
+    "original_bytes": 8100,
+    "gzip_bytes": 2865
+  },
+  {
+    "datei": "originale/inso-__17.html.gz",
+    "sha256_original": "de31f0953b616e2d1e9231a7171882e81237e2b1c54e306c98763ad1dbe98425",
+    "sha256_gzip": "ae89adfffee969c71f9113c3c59e89c05e0554c611b63ee2f13b94f11d42bdc8",
+    "original_bytes": 3687,
+    "gzip_bytes": 1522
+  },
+  {
+    "datei": "originale/inso-__19.html.gz",
+    "sha256_original": "4267129ec4b97ba5e9891bba428407f992349ac2d355d8dd4477257110e24452",
+    "sha256_gzip": "ce32e9f698b8ae35a42c2ea34021ee5499c3a698d48bf39bb63844ce4682b16a",
+    "original_bytes": 4953,
+    "gzip_bytes": 2058
+  },
+  {
+    "datei": "originale/inso-__39.html.gz",
+    "sha256_original": "07a2de8f6fdb0ce27c0f6224dba96ec35c2ebd1e6be5b4c6e8eb13847deb2ac1",
+    "sha256_gzip": "52c3b1e525b6d21fe64293e1d67b1fe090e6837e628eff531bee0a0b7b96ef31",
+    "original_bytes": 6544,
+    "gzip_bytes": 2416
+  },
+  {
+    "datei": "originale/zpo-__138.html.gz",
+    "sha256_original": "9eba33019b9b4941d3755de7501240fa0603643e059ebe51dda5c5058b87569f",
+    "sha256_gzip": "b788870c238c5c42e2aa9955f14829cb3f801b0249a4d415ccd6c6de34db0047",
+    "original_bytes": 4097,
+    "gzip_bytes": 1691
+  },
+  {
+    "datei": "originale/zpo-__142.html.gz",
+    "sha256_original": "d77d302f902e83592ac7344ebc6436f09936485e649768d88deccd9012eeb9d5",
+    "sha256_gzip": "feb4b3edf0fe8f7556d33e67ca49c9965bded03127e19ccb725c5814f2d0bcf0",
+    "original_bytes": 4884,
+    "gzip_bytes": 2041
+  },
+  {
+    "datei": "originale/zpo-__167.html.gz",
+    "sha256_original": "05f3d2010d402ae0b4d10ed8b1481deffc9145a7927e42c5a3e78fa6d09b3e9b",
+    "sha256_gzip": "8e33b3ceb4c82d8c20200794d2663bd11b4a4cfd6d11fb5fb85e02a9215b2617",
+    "original_bytes": 3662,
+    "gzip_bytes": 1542
+  },
+  {
+    "datei": "originale/zpo-__253.html.gz",
+    "sha256_original": "e7cd53700fffb1dc3bd80dcbd2714c363fdd37997025622f1ae3d08e7cb2ccfb",
+    "sha256_gzip": "13ac20a5cf45627085605558cec3271e835dfac850cb9f905de5ff5ff9439744",
+    "original_bytes": 5679,
+    "gzip_bytes": 2116
+  },
+  {
+    "datei": "originale/zpo-__254.html.gz",
+    "sha256_original": "06817b250f9c7a403bba93ab06b735a5fea83d9a37fa865cfee33e515a34b929",
+    "sha256_gzip": "9e37b92420d19622a5ea8e11abf028d4ef85c553f12d18ed8a8d096390a4b1c4",
+    "original_bytes": 3827,
+    "gzip_bytes": 1604
+  },
+  {
+    "datei": "originale/zpo-__256.html.gz",
+    "sha256_original": "aabeff80e0113b4c56a34fdf1796b24ce42bb8598aa3c3bc5763c4a0e042c5fb",
+    "sha256_gzip": "66edda5fdfe82d5311b252f1c2763103e7620283c0baf7ab247358ae3fb43238",
+    "original_bytes": 4187,
+    "gzip_bytes": 1733
+  },
+  {
+    "datei": "originale/zpo-__273a.html.gz",
+    "sha256_original": "ce327b0000b0481c348553c8e57e1c7f3c2869dd936732859c91c5248ad902a7",
+    "sha256_gzip": "299176a1dbde8bbfcf8b5e12b603ed855b621016c3a02bd78f835de09f11f9ac",
+    "original_bytes": 3736,
+    "gzip_bytes": 1566
+  },
+  {
+    "datei": "originale/zpo-__294.html.gz",
+    "sha256_original": "8df92d94fb466cf1bd14e2c2da04dd60fd3ffd6313f41918fbaff232f8613f8a",
+    "sha256_gzip": "d2c8062a69e4428ca9188fd01698e4c76c73bf3561e6a434bdc661b54228602d",
+    "original_bytes": 3608,
+    "gzip_bytes": 1520
+  },
+  {
+    "datei": "originale/zpo-__929.html.gz",
+    "sha256_original": "24e8968a61df88a02122cca5537bf12b4b38253908f70b6f32f036a57b4aca31",
+    "sha256_gzip": "aba8c2b644d0114227d34bb4f3fd11adc2c237a8a4b1c6aa634ca4464b69870f",
+    "original_bytes": 4303,
+    "gzip_bytes": 1797
+  },
+  {
+    "datei": "originale/zpo-__935.html.gz",
+    "sha256_original": "3f944952743f0b584c520efae0cef28f19efcf6f1c02b5b43749eeb2e679acc4",
+    "sha256_gzip": "b6475aac077fe85f0d3fc18852eed55eb264d29cc6cf23bd13b15d048825913e",
+    "original_bytes": 3651,
+    "gzip_bytes": 1534
+  },
+  {
+    "datei": "originale/zpo-__936.html.gz",
+    "sha256_original": "bf425bfa55b17a17af81f443860d651fd45d4d48297c176bfefcdece816e3da8",
+    "sha256_gzip": "b46f52d42e7d907fda874103a65322d309c1829cfa16c60a91de934e6c492e1b",
+    "original_bytes": 3632,
+    "gzip_bytes": 1512
+  },
+  {
+    "datei": "originale/zpo-__940.html.gz",
+    "sha256_original": "34636da5eed8bdbf398e9c1303946c2750ac02810cc626998c9ef73c25470e2f",
+    "sha256_gzip": "559834e25ed9059a155ac897973a45fcf731754601245cb0d0713d39cfe70b0f",
+    "original_bytes": 3761,
+    "gzip_bytes": 1568
+  },
+  {
+    "datei": "originale/zpo-__945.html.gz",
+    "sha256_original": "91b0372685d7f96031816160153242fceddaca1ef66360a9ed2ce49f63547e6d",
+    "sha256_gzip": "f83ebf3e96f6407be8bee78eda4e4b6db2e6d921fa8e9642f792f8f59c11e4c5",
+    "original_bytes": 3871,
+    "gzip_bytes": 1647
+  }
+]

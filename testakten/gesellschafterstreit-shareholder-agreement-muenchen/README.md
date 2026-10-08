@@ -14,8 +14,8 @@ Dieses Aktenpaket gibt es in drei Formaten. Das Gesamt-PDF eignet sich zum Lesen
 | Was | Format | Quelle |
 | --- | --- | --- |
 | Gesamt-PDF (alles in einer Datei) | PDF | [`gesamt-pdf/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf`](gesamt-pdf/gesellschafterstreit-shareholder-agreement-muenchen_gesamt.pdf) |
-| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip) |
-| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/akten-v445.33.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip) |
+| Einzel-PDF-ZIP (jede Unterlage als eigene PDF) | ZIP | [testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/gesellschafterstreit-v445.34.1/testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip) |
 
 Die ZIP-Links laden den zur angegebenen Marketplace-Version gehörenden Akten-Begleitrelease. Das Gesamt-PDF ist auch im Akten-ZIP enthalten; für eine einheitliche Arbeitsfassung genügt deshalb dieses Archiv. Der hier verlinkte Repository-Stand kann zwischen Releases bereits neuer sein.
 
@@ -77,3 +77,16 @@ Personen, Unternehmen, Geschäftszeichen und Vorgänge sind erfunden. Die Kontak
 Munich: Two founders want to admit a new investor into a small equipment business. Conflicting proposals, existing articles, development records, budget evidence and bank correspondence support the drafting exercise.
 
 The two cases are separate matters for one sixty-minute session. Each has a limited core reading set and additional evidence. No model defence or completed shareholders’ agreement is included.
+
+<!-- BEGIN gesellschafterstreit-nachtrag -->
+## 1.5 Vertiefung mit Nachtrag vom 8 Oktober 2026
+
+Der ursprüngliche Aktenstand vom 2. Oktober und die Kernunterlagen bleiben erhalten. Der zusätzliche Bestand führt denselben Fall bis zum 8. Oktober 2026 fort: sechs ausformulierte DOCX jeweils mit PDF-Lesefassung, sechs E-Mails mit echten Anhängen, eine Formelarbeitsmappe und ein ergänzender Chat.
+
+Beginnen Sie mit N07 und dem Gesprächsprotokoll N01. N02 ist ein neuer, weiterhin ungezeichneter Gründerentwurf. Mit N13 lassen sich Kapital, Aufgeld und Mehrheitswünsche abgleichen; die übrigen Belege vertiefen konkrete Vertragsfragen.
+
+[Nachtrag und Dateiverzeichnis](Nachtrag_2026-10-08/README.md)
+
+Beim ursprünglichen Kurztermin genügen die Kernunterlagen. Für die Vertiefung werden widersprechende Erinnerungen, Zahlungsvorgänge und offene Verhandlungspositionen hinzugezogen. Die beiden Aktenstände sind ausdrücklich zu unterscheiden.
+
+<!-- END gesellschafterstreit-nachtrag -->
