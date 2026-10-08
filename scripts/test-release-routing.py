@@ -606,7 +606,8 @@ class WorkflowTests(unittest.TestCase):
         self.assertLess(text.index('test -s dist/alles-komplettpaket.zip'), text.index("scripts/stage-release-assets.py"))
         self.assertLess(text.index("scripts/stage-release-assets.py"), text.index("scripts/publish-release-assets.py"))
         self.assertIn("ref: ${{ github.event.inputs.tag || github.ref }}", text)
-        self.assertIn("      - 'v*'", text)
+        self.assertIn("      - 'v[0-9]*'", text)
+        self.assertNotIn("      - 'v*'", text)
         self.assertNotIn("      - 'akten-", text)
         self.assertLess(text.index("scripts/generate-root-plugin-catalog.py"), text.index("scripts/validate-testakten-readme-downloads.py"))
 

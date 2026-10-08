@@ -57,6 +57,12 @@ class ImportTests(unittest.TestCase):
         self.assertIn("- 'v[0-9]*'", workflow)
         self.assertNotIn("- 'v*'", workflow)
 
+    def test_smoke_test_dependencies_installed_before_execution(self):
+        workflow = (ROOT / ".github/workflows/vergaberecht-werkstatt.yml").read_text()
+        dependency = "sudo apt-get install -y --no-install-recommends ripgrep"
+        self.assertIn(dependency, workflow)
+        self.assertLess(workflow.index(dependency), workflow.index("python scripts/run-smoke-tests.py --quick"))
+
     def test_readme_public_links(self):
         for path in COMPONENT.rglob("README.md"):
             text = path.read_text(encoding="utf-8")
