@@ -12,7 +12,7 @@ Vom Kanzleistart zum laufenden Mandat: Organisation einrichten, Posteingänge zu
 
 Stand: **v445.34.0**, Rechtsquellen geprüft am **8. Oktober 2026**.
 
-Die Komponentenfassung 445.34.0 ergänzt zwei gezielte Skills für Kanzleigründung und Posteingangszuordnung. Die bisherigen achtzehn Skills bleiben erhalten. Neu sind der Probebetrieb vor dem ersten echten Mandat, die Festlegung führender Systeme, überprüfbare Wiederaufnahme nach Unterbrechungen sowie die Trennung mehrerer Mandate desselben Absenders. Computerzugang allein ersetzt keine Einsatzfreigabe. Bereits veröffentlichte Testakten bleiben unverändert.
+Das Plugin unterstützt die Organisation und Mandatsbearbeitung einer Kanzlei mit 20 aufeinander abgestimmten Arbeitsanleitungen, den Skills. Es hilft beim Einrichten der Kanzlei, beim Zuordnen der Post, bei Fristen, juristischen Entwürfen, Kommunikation und Abrechnung. Sie können einen einzelnen Auftrag bearbeiten oder mehrere Schritte eines Mandats verbinden. Gespeicherte Arbeitsstände ermöglichen die Fortsetzung nach einer Unterbrechung; vor einem erneuten Versand wird der tatsächliche Status geprüft. Computerzugang allein ersetzt keine Einsatzfreigabe.
 
 | Bestandteil | Direktdownload |
 | --- | --- |
@@ -28,6 +28,10 @@ Das portable Paket enthält denselben Pluginordner mit Agent-Plugins-1.0-Manifes
 [Alle 20 Skills mit Einzeldownloads](../skills-index/ki-native-kanzlei.md) · [Reproduzierbare Ausführung](references/mandatsordner-und-cli.md) · [Prüfnachweise](../quality/ki-native-kanzlei/README.md) · [Testakten auswählen](#7-die-24-kurzfälle)
 
 ## 1. Direkt anfangen
+
+1. Wählen Sie den Zugang: das Plugin in einer unterstützten Oberfläche installieren oder einen der eigenständigen Prompts aus der Downloadtabelle verwenden. Der Mini-Prompt eignet sich für den kompakten Einstieg, der Werkstatt-Prompt für die ausführliche Führung durch den Kanzleialltag.
+2. Stellen Sie einen ausgewählten Arbeitsordner oder die benötigten Dateien bereit. Beginnen Sie mit dem [Demo-Kanzleiordner](assets/demo-kanzlei/README.md) oder einer der [24 Testakten](#7-die-24-kurzfälle), nicht mit echten Postfächern oder Zugangsdaten.
+3. Benennen Sie das gewünschte Ergebnis, etwa eine Kanzleiorganisation, einen Mandantenbrief oder einen Rechnungsentwurf. Das Plugin liest die zugänglichen Unterlagen, übernimmt vorhandene Angaben und fragt gezielt nach fehlenden Entscheidungen. Ohne Dateizugriff fordert es die benötigten Dateien an, statt einen gelesenen Ordner vorzutäuschen.
 
 Für eine neu beginnende Kanzlei:
 
@@ -45,7 +49,20 @@ Ein Fristauftrag beginnt mit dem Beleg, nicht mit dem Datum des Schreibens:
 
 > Hier ist das Versäumnisurteil mit Zustellungsurkunde. Berechne die Einspruchsfrist für Berlin, erstelle den Rechenvermerk und sage mir, welche Eintragung ich im Kalender vornehmen muss. Keine Einreichung.
 
-Den ganzen Kanzleialltag führen achtzehn Befehle für Claude Cowork und Claude Code: `/kanzlei-starten` richtet eine neue Kanzlei ein; `/kanzlei-tagesstart` ordnet morgens alle Mandate nach Dringlichkeit (offene Fristfreigaben zuerst), sichtet den Posteingang und liefert den Tagesbericht; `/mandat-neu`, `/posteingang`, `/frist`, `/schriftsatz`, `/vertrag`, `/mandantenbrief`, `/zeit`, `/kanzlei-wochenabschluss`, `/rechnung`, `/zahlung`, `/uebergabe`, `/mandat-status` und `/mandat-ende` führen die einzelnen Abläufe; mit `/freigabe` wird die tatsächlich erklärte Freigabe einer namentlich benannten Person dokumentiert. `/computerlauf` führt eine ausdrücklich begrenzte Sitzung, `/bea` den Eingang und Versand im Anwaltspostfach. Die Abläufe beschreibt die [Kanzleialltag-Referenz](references/kanzleialltag-workflows.md), die Einrichtung in Cowork und ChatGPT [eine eigene Anleitung](references/chatgpt-und-cowork-einrichtung.md). In ChatGPT übernimmt ein Projekt mit dem Mini-Prompt als Anweisung dieselbe Rolle; die Befehle werden dort als Satzanfang verwendet. Für den Start liegen eine [Vorlage zur Kanzleiorganisation](assets/kanzleiorganisation-vorlage.md) (wer welche Freigabe erteilt, führender Kalender, zugelassene Dienste) und ein [Demo-Kanzleiordner](assets/demo-kanzlei/README.md) bei, an dem sich das Cockpit sofort ausprobieren lässt.
+Die Befehle sind kurze Einstiege in die jeweiligen Arbeitsabläufe. Sie müssen nicht alle Skills kennen oder nacheinander aufrufen:
+
+| Ihre Aufgabe | Einstieg |
+| --- | --- |
+| Kanzlei einrichten und Zuständigkeiten festlegen | `/kanzlei-starten` |
+| Tagesarbeit priorisieren oder die Woche abschließen | `/kanzlei-tagesstart`, `/kanzlei-wochenabschluss` |
+| Mandat annehmen, Post zuordnen und Fristen bearbeiten | `/mandat-neu`, `/posteingang`, `/frist` |
+| Schriftsatz, Vertrag oder Mandantenbrief ausarbeiten | `/schriftsatz`, `/vertrag`, `/mandantenbrief` |
+| Tatsächliche Zeit erfassen, Rechnung vorbereiten und Zahlungen zuordnen | `/zeit`, `/rechnung`, `/zahlung` |
+| Arbeitsstand prüfen, übergeben oder Mandat abschließen | `/mandat-status`, `/uebergabe`, `/mandat-ende` |
+| Eine konkrete menschliche Freigabe dokumentieren | `/freigabe` |
+| Eine begrenzte Computersitzung oder einen beA-Vorgang bearbeiten | `/computerlauf`, `/bea` |
+
+Die [Einrichtungsanleitung](references/chatgpt-und-cowork-einrichtung.md) erläutert die unterstützten Zugänge und ihre Voraussetzungen. Wo Slash-Befehle nicht verfügbar sind, formulieren Sie die Aufgabe als normalen Satz und verwenden einen eigenständigen Prompt mit den tatsächlich verfügbaren Dateien und Werkzeugen. Ein Prompt ersetzt keine fehlende Schnittstelle. Einzelheiten zu den Abläufen stehen in der [Kanzleialltag-Referenz](references/kanzleialltag-workflows.md). Mit der [Vorlage zur Kanzleiorganisation](assets/kanzleiorganisation-vorlage.md) halten Sie Verantwortliche, führenden Kalender und zugelassene Dienste fest.
 
 Das Plugin übernimmt vorhandene Antworten. Es fragt weder bei jedem Absatz die komplette Honorarvereinbarung neu ab noch erfindet es Zeiten, wenn eine Antwort fehlt.
 
@@ -66,7 +83,7 @@ Der [Computerlauf](references/computersteuerung-und-postfaecher.md) verbindet se
 5. Nach Freigabe mit dem zugelassenen Hostwerkzeug ausführen, soweit die konkrete Handlung delegierbar ist. Beim persönlichen beA-Versand mit einfacher Signatur übernimmt die verantwortliche Person den erforderlichen Schlussakt selbst. Ein zulässiger delegierter Versand setzt seinen eigenen nachgewiesenen Signatur- und Berechtigungsweg voraus.
 6. Versandversuch und tatsächlichen Übermittlungsnachweis getrennt erfassen, Unsicherheiten klären, Akte und Cockpit aktualisieren und bestätigte menschliche Zeit anschließen. Ein Timeout ist kein Beweis, dass nichts versendet wurde; vor jeder Wiederholung wird der tatsächliche Status abgeglichen.
 
-Der neue [Computerlauf-Helfer](references/computerlauf-cli.md) bindet Sitzungen, Aufträge, Dateihashes, Freigaben und Versuchsnachweise. **Er enthält keinen Outlook-, Gmail- oder beA-Transport und keine PIN-Verwaltung.** Die tatsächliche Bedienung erfolgt durch ein vom Host bereitgestelltes und erlaubtes Werkzeug. Ein fehlender oder verbotener Upload wird nicht durch einen heimlichen anderen Zugriff ersetzt. Ohne passende Werkzeuge liefert der Ablauf ein vollständiges Übergabepaket und weist den noch menschlich auszuführenden Schritt aus.
+Der [Computerlauf-Helfer](references/computerlauf-cli.md) dokumentiert den Sitzungsauftrag, die konkreten Dateifassungen, Freigaben und Ausführungsversuche. Er enthält keinen Outlook-, Gmail- oder beA-Transport und keine PIN-Verwaltung. Die tatsächliche Bedienung erfolgt durch ein vom Host bereitgestelltes und erlaubtes Werkzeug. Ein fehlender oder verbotener Upload wird nicht durch einen heimlichen anderen Zugriff ersetzt. Ohne passende Werkzeuge liefert der Ablauf ein vollständiges Übergabepaket und weist den noch menschlich auszuführenden Schritt aus.
 
 **Stoppen:** Sagen Sie „Computerlauf stoppen“ und beenden Sie bei Bedarf zusätzlich den Hostlauf beziehungsweise dessen Computerzugriff. Ein lokaler Journaleintrag kann eine bereits laufende Aktion in einer fremden Anwendung nicht zurückholen. Nach einem unklaren Versuch erst den tatsächlichen Versandstatus prüfen; nach einem neuen Login, Kontowechsel, fremden Fenster oder unerwarteten Anhang den betroffenen Schritt anhalten.
 
@@ -95,15 +112,23 @@ Der neue [Computerlauf-Helfer](references/computerlauf-cli.md) bindet Sitzungen,
 | `zahlungen-buchhaltung` | Zahlungseingänge, Vorschüsse, Drittzahlungen oder Fremdgeld zugeordnet werden. | Belegte Geldflüsse und Buchungsvorschlag ohne ungeprüfte Verrechnung. |
 | `mandat-abschliessen` | Ein Mandat oder eine Auftragsphase endet. | Abschlussbrief, Restpflichten, Schlussrechnung, Herausgabe, Aufbewahrung. |
 
-Die achtzehn bisherigen Fachskills bleiben ausführliche Arbeitsanleitungen; zwei konzentrierte Einstiegs- und Zuordnungsabläufe ergänzen sie. Nicht alle zwanzig Skills werden gleichzeitig geladen. Der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) zählt die tatsächlich gesetzten Seiten und dokumentiert Quellprüfsummen sowie Schrift. Das Komponentenrelease verwendet Liberation Serif 11 pt; der lokale Satz kann Times New Roman 11 pt verwenden und daher abweichende Seitenzahlen haben.
+Wählen Sie den Skill nach der Aufgabe, nicht nach der Reihenfolge der Tabelle. Für ein neues Büro beginnen Sie mit `kanzlei-gruenden-einrichten`, für eingegangene Unterlagen mit `posteingang-mandate-zuordnen`. Wenn mehrere Arbeitsschritte zusammengehören, führt `ki-kanzlei-steuern` durch das Mandat. Ein konkreter Vertrags- oder Schriftsatzauftrag kann unmittelbar beim passenden Fachskill beginnen. Nicht alle zwanzig Skills werden gleichzeitig geladen.
 
-Seit der Komponentenfassung 445.33.6 verbindet ein [Mandatslauf](references/mandatslauf-und-freigaben.md) die Skills zu einem durchlaufenden Vorgang: zehn Phasen vom Eingang bis zum Abschluss, ein Produktregister mit führender Fassung und Hash, acht Freigabegates (Annahme, Fristeintrag, Versand und Einreichung, Rechnungsausgabe, Zahlung und Fremdgeld, Dienstleister, Meldung, Abschluss und Löschung) und vier Freigabestufen von 0 (nur Entwurf) bis 3 (Versandvorbereitung). Innerhalb der gesetzten Stufe arbeitet das Plugin selbständig weiter und stößt den Nachbarskill an; jede Handlung mit Außenwirkung bleibt an eine namentlich dokumentierte menschliche Freigabe gebunden. Der Helfer `scripts/mandatslauf.py` führt den Lauf als Datei im Mandatsordner und schlägt mit `next` den nächsten Skill vor. Jeder Skill beschreibt in einem eigenen Unterabschnitt, was er auf welcher Stufe ohne Rückfrage tut, welches Gate er öffnet und wo er stehen bleibt.
+Der [Mandatslauf](references/mandatslauf-und-freigaben.md) verbindet die Skills vom Eingang bis zum Abschluss. Er hält fest, welche Dokumentfassung maßgeblich ist, was bereits erledigt wurde und welche Entscheidung als Nächstes ansteht. Innerhalb des erteilten Auftrags wird die Sacharbeit fortgesetzt; für Handlungen mit Außenwirkung ist eine konkrete, namentlich dokumentierte menschliche Freigabe erforderlich. Dazu gehören insbesondere Versand und Einreichung, Rechnungsausgabe, Zahlungen und Meldungen. Die vier Freigabestufen begrenzen den Arbeitsrahmen, ersetzen aber keine Einzelfreigabe. Der optionale Helfer `scripts/mandatslauf.py` speichert den Stand im Mandatsordner und schlägt mit `next` den nächsten Skill vor.
 
-Jeder Skill ist gleich aufgebaut: Auslöser und Abgrenzung zu den Nachbarskills, Eingabentabelle mit dem Vorgehen bei fehlenden Angaben, wörtlich ausformulierte Rückfragen in der richtigen Reihenfolge, der fachliche Ablauf mit konkret benannten und am amtlichen Text geprüften Normen, ein skillspezifischer Katalog typischer Fehler mit Gegenkontrolle, die Übergabe an die Nachbarskills, verifizierte Entscheidungsanker mit Anwendungsgrenzen, Abnahmekriterien sowie Beispiele mit vollständig ausformulierten Endprodukten und einem Negativbeispiel. Die [Arbeitsweise](references/arbeitsweise.md) erklärt, welcher Skill in welcher Startsituation zuerst greift.
+Die Skills erläutern jeweils die benötigten Unterlagen, gezielte Rückfragen, den fachlichen Ablauf, Rechtsquellen, typische Fehler und die Übergabe an den nächsten Arbeitsschritt. Das Ziel ist ein ausformuliertes Arbeitsergebnis mit klar erkennbaren offenen Punkten, nicht nur eine Zusammenfassung der Akte. Die [Arbeitsweise](references/arbeitsweise.md) beschreibt das Zusammenspiel; der [Umfangsnachweis](../quality/ki-native-kanzlei/umfang.json) dokumentiert die PDF-Fassungen und ihre Quellprüfsummen.
 
 ## 3. Werkstatt, Mini und Hauptproblem
 
-Die Werkstatt führt ausführlich durch den ganzen Ablauf, einschließlich konkreter Dialoge. Der Mini-Prompt ist der kompakte Einstieg. Der Hauptproblem-Prompt konzentriert sich auf das Zusammenspiel von Sacharbeit, Honorarumfang, tatsächlicher Zeit und Rechnungsentwurf. Alle drei funktionieren als eigenständige Texte; die jeweilige TXT-Fassung ist mit der Markdown-Fassung identisch. Die drei Prompts sind mit Mandatslauf, Produktkennungen, Stufen und Freigaben abgeglichen. Mini und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes.
+Die drei Prompts sind eigenständige Arbeitsanweisungen für die Verwendung ohne Plugininstallation:
+
+| Prompt | Wofür er sich eignet |
+| --- | --- |
+| Werkstatt-Prompt | Ausführliche Begleitung durch Kanzleiorganisation und Mandatsarbeit, einschließlich Rückfragen, Verzweigungen und Übergaben. |
+| Mini-Prompt | Kompakter Einstieg in einen konkreten Kanzleiauftrag. |
+| Hauptproblem-Prompt | Sacharbeit mit Honorarumfang, tatsächlich erfasster Zeit und Rechnungsentwurf verbinden. |
+
+Laden Sie die gewünschte Markdown- oder TXT-Datei aus der [Downloadtabelle](#0-downloads-und-verwendung) herunter und verwenden Sie deren Inhalt als Anweisung zusammen mit Ihrem Auftrag und den benötigten Unterlagen. MD und TXT enthalten jeweils denselben Text. Mini und Hauptproblem bleiben jeweils unter 7.500 UTF-8-Bytes. Alle drei berücksichtigen den Mandatsstand und die nötigen menschlichen Freigaben.
 
 In Claude und Codex können die installierten Skills und lokalen Skripte eingesetzt werden. In ChatGPT werden die eigenständigen Prompts mit den dort verfügbaren Dateien und Funktionen verwendet. Kein Prompt schafft automatisch einen dauerhaften Dateizugriff oder einen Hintergrunddienst.
 
@@ -113,13 +138,18 @@ Der optionale [lokale Mandatshelfer](references/mandatsordner-und-cli.md) verwal
 
 Eine Festpreisakte kann Zeit für die Nachkalkulation enthalten, ohne dass dadurch die Forderung steigt. Bei Stundenhonorar werden keine hypothetischen Stunden für die Zeitersparnis durch KI erfunden. Gebührenmodell und Budget werden kurz vorgehalten; zusätzliche Aufgaben bleiben gegen den vereinbarten Umfang prüfbar.
 
-Der zusätzliche [Fristenhelfer](references/fristen-rechenhilfe.md) führt die Kalenderrechnung aus einem zuvor rechtlich geprüften Profil aus und erzeugt einen nachvollziehbaren Rechenvermerk. Fehlende Rechtswahl, Zugangsklärung oder Feiertagsprüfung werden nicht durch ein scheinbar sicheres Enddatum ersetzt. Ein Vermerk ist noch kein Kalendereintrag. Der [Mandatslauf-Helfer](references/mandatslauf-und-freigaben.md) dokumentiert Phase, führende Fassungen, Gates und Freigaben je Mandat; er weist Freigaben durch „KI“, „Agent“ oder „System“ ab und verlangt eine benannte Person. Der [XRechnung-Export](references/mandatsordner-und-cli.md) erzeugt eine echte XML-Datei für den begrenzten Standardfall; die KoSIT-Prüfung bleibt ein eigener Schritt. Die [beA-Versandmappe](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md) entsteht aus dem konkreten Schriftsatz mit Preflight-Bericht; sie ist noch keine Einreichung. Der erweiterte beA-Ablauf führt anschließend durch Rollenprüfung, konkrete Freigabe, zulässige Übermittlung und Nachweissicherung.
+| Arbeitshilfe | Ergebnis und Grenze |
+| --- | --- |
+| [Fristenhelfer](references/fristen-rechenhilfe.md) | Berechnet anhand eines zuvor rechtlich geprüften Profils und erstellt einen Rechenvermerk. Zugang, anwendbares Recht und Feiertage müssen geklärt sein. Ein Vermerk ist noch kein Kalendereintrag. |
+| [Mandatslauf-Helfer](references/mandatslauf-und-freigaben.md) | Dokumentiert Bearbeitungsstand, maßgebliche Fassungen und Freigaben. Eine Freigabe muss von einer benannten Person stammen. |
+| [XRechnung-Export](references/mandatsordner-und-cli.md) | Erzeugt eine XML-Datei für den unterstützten Standardfall. Die KoSIT-Prüfung bleibt ein eigener Schritt. |
+| [beA-Versandmappe](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/bea-anlagen-vorbereiten/SKILL.md) | Bereitet Schriftsatz, Anlagen und technischen Prüfbericht vor. Erst Rollenprüfung, konkrete Freigabe, zulässige Übermittlung und Nachweissicherung schließen den Versandvorgang ab. |
 
 ## 5. Kleine Fälle für alle Fachanwaltschaften
 
 Zu jedem der 24 Fachgebiete der FAO gehört eine kleine Testakte mit genau zehn Originalstücken: vier E-Mails, eine erklärende Excel-Tabelle, drei PDFs und zwei Word-Dateien. Jede enthält einen konkreten, weiter auszufüllenden Dokumententwurf. So lassen sich Mandatsarbeit und Abrechnung in überschaubaren Fällen gemeinsam üben.
 
-Die bisherigen Akten bleiben mit ihren ursprünglichen technischen Fallkennzeichen `si-kanzlei-*` und Downloads erhalten. Die Fälle sind fiktiv und bilden keinen vollständigen Fachrechtskommentar. Die [Rechtsquellen](references/rechtsquellen.md) betreffen den Kanzleibetrieb und die fachliche Übergabe; für den konkreten fachlichen Entwurf werden dessen eigene Normen und aktuelle Rechtsprechung geprüft.
+Wählen Sie einen Fall aus der [Downloadtabelle](#7-die-24-kurzfälle), entpacken Sie das Originalformat-ZIP in einen eigenen Arbeitsordner und beauftragen Sie die Bearbeitung des dort enthaltenen Entwurfs. Gesamt-PDF und Einzel-PDFs dienen als Lesefassungen; für den Durchlauf mit E-Mails, Tabellen und bearbeitbaren Dokumenten verwenden Sie die Originalformate. Die Fälle sind fiktiv und bilden keinen vollständigen Fachrechtskommentar. Die [Rechtsquellen](references/rechtsquellen.md) betreffen den Kanzleibetrieb und die fachliche Übergabe; für den konkreten fachlichen Entwurf werden dessen eigene Normen und aktuelle Rechtsprechung geprüft.
 
 ## 6. Quellen und Ausführung
 
@@ -167,9 +197,6 @@ Jede Akte hat genau zehn Originalstücke: 4 EML, 1 XLSX, 3 PDF und 2 DOCX. Eine 
 | [Verkehrsrecht: Der Spiegel vor dem Bäcker](../testakten/si-kanzlei-verkehrsrecht/README.md) | Schadensersatzforderung | [Gesamt-PDF](../testakten/si-kanzlei-verkehrsrecht/gesamt-pdf/si-kanzlei-verkehrsrecht_gesamt.pdf) · [Originale](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-verkehrsrecht.zip) · [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-verkehrsrecht-einzelpdfs.zip) |
 | [Versicherungsrecht: Das Wasser unter der Spüle](../testakten/si-kanzlei-versicherungsrecht/README.md) | Einwendungen gegen die Leistungsablehnung | [Gesamt-PDF](../testakten/si-kanzlei-versicherungsrecht/gesamt-pdf/si-kanzlei-versicherungsrecht_gesamt.pdf) · [Originale](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-versicherungsrecht.zip) · [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-versicherungsrecht-einzelpdfs.zip) |
 | [Verwaltungsrecht: Der Tisch vor der Buchhandlung](../testakten/si-kanzlei-verwaltungsrecht/README.md) | Antrag auf erneute Entscheidung | [Gesamt-PDF](../testakten/si-kanzlei-verwaltungsrecht/gesamt-pdf/si-kanzlei-verwaltungsrecht_gesamt.pdf) · [Originale](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-verwaltungsrecht.zip) · [Einzel-PDFs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/si-native-kanzlei-v445.33.3/testakte-si-kanzlei-verwaltungsrecht-einzelpdfs.zip) |
-
-Die bisherigen allgemeinen Sammel-ZIPs enthalten dieses Komponentenrelease noch nicht. Bis zum nächsten Komplettrelease diese direkten Downloads nutzen.
-
 
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
