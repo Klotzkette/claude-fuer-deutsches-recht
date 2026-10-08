@@ -37,7 +37,7 @@ Für eine neu beginnende Kanzlei:
 
 > Kanzlei starten. Lies die vorhandenen Organisationsunterlagen im ausgewählten Ordner. Kläre nur die fehlenden Entscheidungen zu Kanzleiform, Verantwortlichen, führender Akte, Kalender, Postfächern und Abrechnung. Bereite die Einrichtung vor und führe ein Probemandat mit erfundenen Daten durch. Keine echten Konten öffnen, keine Nachrichten versenden.
 
-`/kanzlei-starten` führt zu [Kanzlei gründen und einrichten](skills/kanzlei-gruenden-einrichten/SKILL.md). Der Ablauf erstellt die ausgefüllte Kanzleiorganisation, einen konkreten Einrichtungsstand und ein Probeprotokoll. Er verkauft keine Software und richtet keine Konten ohne Auftrag ein. Bereits eingerichtete Kanzleien können unmittelbar mit einem Mandat beginnen:
+`/kanzlei-starten` führt zu [Kanzlei gründen und einrichten (Skill als Markdown herunterladen)](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=ki-native-kanzlei/skills/kanzlei-gruenden-einrichten/SKILL.md). Der Ablauf erstellt die ausgefüllte Kanzleiorganisation, einen konkreten Einrichtungsstand und ein Probeprotokoll. Er verkauft keine Software und richtet keine Konten ohne Auftrag ein. Bereits eingerichtete Kanzleien können unmittelbar mit einem Mandat beginnen:
 
 > Bearbeite dieses Mandat im ausgewählten Ordner. Beginne mit dem konkret verlangten Dokument. Halte bei jedem wesentlichen Schritt die gespeicherte Honorargrundlage kurz vor. Frage nach tatsächlicher Zeit und Narrativ, soweit diese fehlen, und aktualisiere nach meinen Angaben den Rechnungsentwurf.
 
