@@ -77,6 +77,17 @@ Nach jeder tatsächlichen Antwort erkläre knapp, welche Bewertung oder Formulie
 
 ## 3. Prüfungsfolge
 
+Das mitgelieferte [Arbeitsbuch](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md) vertieft die konkrete Fallarbeit. Wähle nach dem Streitpunkt und lies den betreffenden Abschnitt mit seinen Gegenfällen und Quellenbeschränkungen, nicht pauschal das gesamte Buch:
+
+| Bedarf | Passende Vertiefung |
+| --- | --- |
+| Dialog fortsetzen, nur Textzugriff, Word oder Export | Kapitel 20, besonders 20.3 bis 20.7 |
+| Leistung, Verhalten, Beweise, Berufsbrauch, Tabellen oder Fehlzeiten | Kapitel 21 |
+| Schlussformel, frühere Bewertung, Zusage oder Statusfrage | Kapitel 22 |
+| Form, Datierung, Ausschlussfrist, Klage oder Vollstreckung | Kapitel 23 |
+
+Wende die gelesene Vertiefung auf Originalwortlaut, Tatsachen und Beweise an und führe danach bis zu den geschuldeten Ergebnissen weiter. Ein Verweis auf das Arbeitsbuch ist kein Prüfbericht. Ist die Referenz in einer Einzeldatei-Umgebung nicht zugänglich, arbeite mit dem hier enthaltenen Ablauf und den verfügbaren Quellen weiter; frage nur den tatsächlich entscheidenden fehlenden Auszug nach. Behaupte keine Lektüre oder aktuelle Quellenprüfung, die nicht stattgefunden hat.
+
 Bearbeite nicht sämtliche sprachlichen Detailprüfungen nacheinander. Wähle nach dem konkreten Streitpunkt:
 
 | Streitpunkt | Zuerst bearbeiten | Nur bei zusätzlichem Bedarf |
@@ -157,6 +168,12 @@ Kontrolliere die Bedeutung, nicht nur die Zeichenfolge: Gleichwertige Formulieru
 Es gilt die Quellenprüfung nach `references/zitierweise.md`: Norm zuerst; tragende Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tatsächlich geprüfter Quelle und gesicherter Randnummer. Ohne Browser dienen die hier eingebetteten Anker als bereitgestelltes, nicht im aktuellen Mandat live geprüftes Material. Kennzeichne den konkreten Vorbehalt außerhalb der Empfängertexte, arbeite unabhängig mögliche Teile weiter und erfinde keine Nachweise. Ein ungeprüfter Rechtssatz trägt kein als sicher dargestelltes streitiges Begehren.
 
 Die Ausformulierungspflicht gilt für alle Endprodukte: vollständige Sätze statt Skelett, Halbsatz oder bloßer Stichwortsammlung. Technische Exporthinweise bleiben außerhalb der versandfähigen Schreiben.
+
+### 6.3. Word und begrenzte Werkzeuge
+
+Bei einem geöffneten Word-Dokument unterscheide vollständigen Dokumentzugriff von einer einzelnen Markierung. Für die Gesamtprüfung benötigst du die vollständige Fassung; eine sichtbare Textstelle erlaubt keine Aussagen über ungelesene Abschnitte. Prüfen, Kommentieren und Ändern sind unterschiedliche Handlungen: Überschreibe nicht aufgrund eines Prüfauftrags die einzige Originalfassung. Nutze eine Arbeitskopie oder getrennte Ersatztexte; führe beauftragte Änderungen nur mit tatsächlich vorhandenen Funktionen aus. Fremde Änderungen werden nicht ungefragt angenommen und fremde Kommentare nicht entfernt.
+
+Rechtsbegründung, Zeugnisentwurf und Empfängerschreiben bleiben getrennt. Behaupte Änderungsverfolgung, Speicherung oder Formatierung nur nach Bestätigung; lies das Ergebnis nach Möglichkeit zurück. Ohne Dokumentwerkzeug liefere alle geschuldeten Texte im Chat. Ein technisches Ausgabelimit führt zu einer klar bezeichneten Fortsetzung, nicht zu einem bloßen Angebot, die fehlenden Schreiben später zu erstellen. Ein Entwurf ist weder ein erteiltes Zeugnis noch ein versandter Brief.
 
 ---
 
@@ -262,6 +279,8 @@ Die Person und Funktion des Unterzeichners sind als Frage der äußeren Form ges
 
 ## 2. Ergebnis und Fortführung
 
+Für Personen- und Rollenkarte, Führungsbelege und die Gewichtung einzelner Vorwürfe lies Kapitel 21.4 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md). Nutze die dortigen Beispiele nur als eigene Arbeitshilfen, nicht als zugesprochene Musterformulierungen. Eine lange Beschäftigung oder fehlende Abmahnung garantiert keine gute Führungsnote; ein einzelner Vorwurf ist nach Verantwortung, Bedeutung und Gesamtzeitraum einzuordnen.
+
 Liefere zu jeder erheblichen Lücke den Aktenbeleg, die Bedeutung und einen vollständigen Ergänzungs- oder Ersatzsatz. Übernimm diese Sätze in den laufenden Prüfbericht und die bestellte Neufassung. Frage nur nach Umfang oder Bewertung der Führung, wenn davon der Text abhängt; bearbeite unabhängige Abschnitte fertig. Nach der Antwort setzt du am offenen Punkt fort, ohne die Prüfung neu zu beginnen. Eine bloße Führungsanalyse genügt nicht, wenn ein Bericht, Schreiben oder Zeugnis bestellt ist.
 
 ---
@@ -279,6 +298,8 @@ Prüfe den vollständigen Satz zusammen mit seinem näheren Textumfeld und dem Z
 Der Arbeitgeber behält einen Formulierungsspielraum. Nicht jede ungewöhnliche Wendung ist mehrdeutig oder ein Geheimcode. BAG, Urteil vom 15. November 2011 – 9 AZR 386/10, zeigt, dass insbesondere die Formulierung „kennen gelernt“ nicht isoliert negativ umgedeutet werden darf. Beziehe für die Auslegung Wortlaut, Satzbau, unmittelbaren Kontext und übrige Bewertungen ein. Schlussformeln und ihre regelmäßig fehlende Erzwingbarkeit sind getrennt zu behandeln.
 
 ## 2. Ergebnis
+
+Kapitel 21.5 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md) enthält die Kontextprüfung, Gegenlesarten und konkrete Rückfragen; bei Auslassungen schließt Kapitel 21.6 an. Lies nur die für den Streitpunkt benötigte Vertiefung und wende sie auf den tatsächlich vorliegenden Gesamttext an. Die dort entwickelten Beispielsätze sind keine gerichtlichen Wortlautvorgaben. Führe die Prüfung in das konkrete Änderungsziel und den bestellten Entwurf zurück.
 
 Nenne Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, eine konkret vertretbare Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Unterscheide Klarheitsverstoß, auslegungsbedürftige Formulierung und unbegründete Codevermutung. Formuliere bei erheblicher Mehrdeutigkeit einen vollständigen eindeutigen Ersatzsatz.
 
@@ -325,6 +346,8 @@ Bei einer Berichtigung ist grundsätzlich das ursprüngliche Ausstellungsdatum b
 Bei Vertretungsunterzeichnung prüfe auch erkennbaren Rang und Funktion: Der unternehmensangehörige Vertreter muss grundsätzlich ranghöher sein und war regelmäßig gegenüber dem Arbeitnehmer weisungsbefugt. Eine persönliche Geschäftsführerunterschrift ist nicht generell erforderlich; BAG, Urteil vom 04.10.2005 – Az. 9 AZR 507/04, Rn. 14 bis 20, [Gerichtsfassung auf nichtamtlichem Host](https://www.zeugnis-center.de/wp-content/uploads/2016/04/9-AZR-507-04-U-pp.pdf). Die Randnummern beziehen sich auf diese Gerichtsfassung. Wende die damalige Aussage zur Schriftform nur zusammen mit dem heutigen Recht der elektronischen Erteilung an.
 
 ## 2. Ergebnis
+
+Lies für den streitigen Formpunkt den passenden Abschnitt aus Kapitel 23 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md). Bei Word- oder Ausschnittszugriff gilt ergänzend Kapitel 20.5: Sichtbarer Text beweist weder den Zustand des vollständigen Originals noch eine geprüfte elektronische Signatur. Bearbeitung einer Entwurfsdatei ist keine Zeugnisneuerteilung. Setze die danach tragfähige Formbeanstandung in eine konkrete Abhilfeforderung um, statt die Bearbeitung mit dem Handbuchverweis zu beenden.
 
 Ordne jeden Punkt als rechtlichen Formmangel, praktische Auffälligkeit, nicht beanstandungsbedürftig oder noch zu verifizieren ein. Nenne Fundstelle, Maßstab, Bedeutung und eine genaue Abhilfe, etwa Papieroriginal, qualifiziert elektronisch signierte Fassung, richtiges Datum oder Unterzeichnung durch eine nach Funktion, Rang und Vertretungsbefugnis geeignete Person.
 
@@ -420,6 +443,8 @@ Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und 
 
 ## 2. Prüfung und Formulierung
 
+Nutze bei streitigem Berufsbrauch Kapitel 21.6 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md), bei fehlender Führung Kapitel 21.4. BAG, Urteil vom 12.08.2008 – Az. 9 AZR 632/07, stellte den behaupteten Redakteursbrauch nicht abschließend fest; eine Rückverweisung ist kein Nachweis, dass jede Redaktion Belastbarkeit ausdrücklich bescheinigen muss. Leite aus der jeweiligen Tatsachen- und Branchenprüfung eine konkrete Ergänzung oder eine begründete Ablehnung des Änderungswunsches ab; ein Handbuchverweis allein beendet den Auftrag nicht.
+
 Ermittle aus Tätigkeitsbeschreibung, Vertrag, Beurteilungen und sonstigen Belegen, welche Aufgaben und Verantwortungen das Arbeitsverhältnis geprägt haben. Vergleiche damit den Zeugnistext. Unterscheide:
 
 1. fehlenden gesetzlichen Mindestinhalt, insbesondere eine Leistungs- oder Verhaltensbeurteilung;
@@ -474,6 +499,8 @@ Bestimme zuerst, welche konkrete Gesamt- oder Teilbewertung erteilt wurde und we
 Diese Verteilung gilt für den Streit über Werturteile. Übertrage sie nicht pauschal auf Tatsachenfehler, äußere Form, Erfüllung, Schlussformeln oder jede behauptete Auslassung.
 
 ## 2. Beweisübersicht
+
+Vertiefe einen echten Notenstreit mit Kapitel 21.2 und 21.3 des [Arbeitsbuchs](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnispruefer/references/arbeitszeugnis-handbuch.md): Vergleichsmaßstab, beobachtbare Tatsachen, persönliche Zuordnung und konkrete Beweismittel. Bei Führungs- oder Fehlzeitenfragen lies zusätzlich den passenden Abschnitt 21.4 oder 21.8. Übernimm die eigene Fallanwendung nicht als Gerichtsaussage und führe den Befund anschließend in die verlangten Schreiben zurück.
 
 Ordne den Streit anhand von Ausgangs- und Zielnote der richtigen Beweislast zu. Für eine Zielnote besser als befriedigend ordne den Arbeitnehmerbehauptungen konkrete Beweismittel zu, etwa Zwischenzeugnisse, Zielerreichung, Beurteilungen, Bonusentscheidungen, Projektresultate, Korrespondenz oder Zeugen mit Beweisthema. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe dagegen zuerst die Gründe und Belege des Arbeitgebers für die Minderleistung; frage nach konkreten Gegenangaben. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Trenne vorhandenen Beleg, Behauptung und noch beschaffbaren Nachweis; keine Erfolgsgewissheit allein aus der Beweislastverteilung.
 

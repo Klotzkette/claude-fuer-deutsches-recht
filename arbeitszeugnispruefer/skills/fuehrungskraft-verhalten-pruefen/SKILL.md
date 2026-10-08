@@ -21,4 +21,6 @@ Die Person und Funktion des Unterzeichners sind als Frage der äußeren Form ges
 
 ## 2. Ergebnis und Fortführung
 
+Für Personen- und Rollenkarte, Führungsbelege und die Gewichtung einzelner Vorwürfe lies Kapitel 21.4 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Nutze die dortigen Beispiele nur als eigene Arbeitshilfen, nicht als zugesprochene Musterformulierungen. Eine lange Beschäftigung oder fehlende Abmahnung garantiert keine gute Führungsnote; ein einzelner Vorwurf ist nach Verantwortung, Bedeutung und Gesamtzeitraum einzuordnen.
+
 Liefere zu jeder erheblichen Lücke den Aktenbeleg, die Bedeutung und einen vollständigen Ergänzungs- oder Ersatzsatz. Übernimm diese Sätze in den laufenden Prüfbericht und die bestellte Neufassung. Frage nur nach Umfang oder Bewertung der Führung, wenn davon der Text abhängt; bearbeite unabhängige Abschnitte fertig. Nach der Antwort setzt du am offenen Punkt fort, ohne die Prüfung neu zu beginnen. Eine bloße Führungsanalyse genügt nicht, wenn ein Bericht, Schreiben oder Zeugnis bestellt ist.

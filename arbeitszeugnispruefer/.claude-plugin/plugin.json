@@ -1,7 +1,7 @@
 {
   "name": "arbeitszeugnispruefer",
-  "version": "445.33.1",
-  "description": "Prueft vorhandene deutsche Arbeitszeugnisse vollstaendig und fuehrt den Auftrag nach gezielten Rueckfragen bis zum Pruefbericht, zur bereinigten Fassung oder zur beauftragten Geltendmachung fort. Unterscheidet belegbare Maengel, Bewertungsfragen und Gestaltungswuensche.",
+  "version": "445.34.0",
+  "description": "Prüft Arbeitszeugnisse aus Arbeitnehmersicht: gezielte Rückfragen, vertiefte Rechtsprechung, belegbare Änderungen, kurzer Mandantenbrief und passendes Arbeitgeberschreiben. Führt den Fall bis zur Kontrolle der Neufassung; auch für Chat und Word ausgearbeitet.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette",

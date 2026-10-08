@@ -13,6 +13,8 @@ Positionsbezeichnung und Branchenübung sind nur Anhaltspunkte für weitere Sach
 
 ## 2. Ergebnis
 
+Lies für Aufgabenprofil und verständliche Individualisierung Kapitel 21.1 und 21.7 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Bei einem abweichenden Endzeugnis lies zusätzlich Kapitel 22 zur Zwischenzeugnisbindung; verlange nicht vorschnell neue Mehrleistungsbeweise für bereits verbindlich bewertete Zeiträume. Bei langer Unterbrechung ist Kapitel 21.8 einschlägig: Tätigkeitsdauer, Bewertungsgrundlage und zulässige Erwähnung des Grundes sind getrennte Fragen, ohne feste Prozentgrenze. Führe das Ergebnis in den konkreten Text zurück.
+
 Ordne Tätigkeiten nach tatsächlicher Bedeutung und zeitlichem Gewicht. Bei Beförderungen, Vertretungen oder wechselnden Befugnissen bilde die belegten Zeitabschnitte ab; die zuletzt erreichte Stellung gilt nicht rückwirkend für die gesamte Beschäftigung. Nenne für jede Änderung die konkrete Tatsache und den sie tragenden Aktenbeleg mit Fundstelle. Trenne die Übertragung einer Aufgabe von ihrer tatsächlichen Ausübung und ihrem Erfolg. Ein Organigramm kann die Stellung, ein Projektbericht den eigenen Beitrag belegen; keiner ersetzt ohne Prüfung den anderen.
 
 Erstelle einen vollständigen Tätigkeitsabschnitt, der Funktion, Kernaufgaben und gesicherte Verantwortung präzise abbildet, ohne werbliche Überhöhung oder unbelegte Abwertung. Erhalte zutreffende Tätigkeiten und füge keine neue Leistungsbehauptung ein, nur um eine sachliche Lücke zu schließen. Bei einer Arbeitgebergegenfassung kommt es auf denselben zutreffenden Inhalt an; bloß andere gleichwertige Wörter begründen keinen weiteren Änderungsbedarf.

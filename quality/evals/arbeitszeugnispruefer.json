@@ -146,7 +146,7 @@
     ]
   },
   "workshop_review": {
-    "sha256": "4c9b0cf46627bfdd113a98f1041ee3bc8c82c10b76a9fff8712f962723f5fe0d",
+    "sha256": "2b2e71f659f538ca9546ed88e61179fdec420ef8231f5c6af9179a908effed21",
     "verdict": "revised",
     "reason": "Erneut fachlich verfeinert: zeitlich und sachlich begrenzte Belege, zweistufige Notenkorrektur, differenzierter Zeugnisinhalt und Erteilungsverlangen, Ersatzvorschlag statt unbegründeter Wortlautbindung, vollständige Korrekturkontrolle und konsistente Briefe.",
     "changes": [
@@ -164,7 +164,9 @@
       "Einfaches Zeugnis, Ausbildungszeugnis und verweigerte Erteilung fallbezogen unterscheiden.",
       "Gleichartige Befunde bündeln und Analyse, Ersatztext sowie Empfängerbriefe auf identische Tatsachen und Begehren abgleichen.",
       "Datierung und Unterzeichnerrang mit transparent bezeichneten Altquellen; Zwischenzeugnisbindung nach Betriebsübergang und Übernahme eines Arbeitnehmerentwurfs.",
-      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen."
+      "Fundstellen zum Maßregelungsmotiv präzisiert; 2026er Vollstreckungsentscheidung unterscheidet nachvollziehbaren Vortrag und Beweis; Teilvollstreckung bleibt offen.",
+      "Am 08.10.2026 redaktionell geprüft: verständlicher Einstieg, vollständige Handbuchkapitel 20 bis 23 mit differenzierten Entscheidungsbefunden, Quellenstatus und eigenen Anwendungen; Verfahrensausgang 9 AZR 12/03 nach unabhängigem Gegencheck berichtigt.",
+      "Word-Anweisungen trennen Markierung, Volltext, Original, Arbeitskopie und bestätigte Bearbeitungsfunktionen. Die dokumentierten Dialogproben des großen Einzeldatei-Skills verwenden dasselbe Handbuch; kein Live-Word-Test und kein pauschales Bestehen der 19 redaktionellen Prüffälle behauptet."
     ]
   },
   "selection": {
@@ -178,6 +180,85 @@
     ]
   },
   "cases": [
+    {
+      "id": "handbuch-portabler-textchat-bis-zu-beiden-schreiben",
+      "request": "Bitte prüfen Sie mein Zeugnis vollständig in meinem Namen und schließen Sie die Prüfung ab. Ich bin Mira Lenz. Dieser Chat kann die vorgelegten Texte lesen, aber weder im Internet recherchieren noch Word-Dateien erzeugen. Vollständiger Zeugnistext: Arbeitszeugnis. Frau Mira Lenz war vom 1. April 2020 bis 30. September 2026 bei uns als Mitarbeiterin im Versand beschäftigt. Sie bearbeitete Bestellungen, prüfte Lieferantenrechnungen und stimmte Liefertermine mit unseren Lieferanten ab. Sie arbeitete sorgfältig und selbständig und erledigte ihre Aufgaben stets zu unserer vollen Zufriedenheit. Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Lieferanten war stets einwandfrei. Sie scheidet auf eigenen Wunsch aus. Wir danken ihr für die gute Zusammenarbeit und wünschen ihr weiterhin viel Erfolg und alles Gute. Berlin, 30. September 2026, eigenhändige Unterschrift Jana Wolf, Geschäftsführerin. Ich habe das Papieroriginal. Meine Tätigkeit war durchgehend Sachbearbeitung im Einkauf, nicht Versand. Der Arbeitgeber hat mir schriftlich bestätigt: Die Bezeichnung Versand ist ein Übertragungsfehler, Sie waren durchgehend im Einkauf tätig. Alle übrigen Angaben und Bewertungen stimmen, eine weitere Verbesserung wünsche ich nicht. Es gibt keinen Vergleich, keine Wortlautzusage und keine erkennbare dringende Frist. Die vollständige Arbeitgeberantwort besteht allein aus der zitierten Bestätigung. Eine Neufassung gibt es noch nicht. Anschriften und Versanddatum können als Platzhalter stehen. Bitte keine weiteren routinemäßigen Fragen.",
+      "input_files": [
+        "arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md"
+      ],
+      "deliverables": ["analyse-und-beide-schreiben.md"],
+      "target_skill": "einfuehrung-pruefauftrag",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Bearbeitet die belegte Tätigkeitskorrektur und erhält die richtige gute Bewertung; verlangt keinen neuen Beweis überdurchschnittlicher Leistung und beginnt keine erneute Aufnahme.",
+          "deliverables": ["analyse-und-beide-schreiben.md"]
+        },
+        {
+          "id": "C02",
+          "text": "Liefert die konkrete Ersatzpassage, eine verständliche kurze Erklärung und das vollständige Arbeitgeberanschreiben in Miras eigenem Namen; weder bloßer Handbuchverweis noch Angebot, die Schreiben erst später zu erstellen.",
+          "deliverables": ["analyse-und-beide-schreiben.md"]
+        },
+        {
+          "id": "C03",
+          "text": "Behauptet weder aktuelle Live-Verifikation noch erzeugte DOCX-Datei oder Word-Formatierung. Technische Grenzen stehen außerhalb der Empfängertexte; die fehlenden Werkzeuge verhindern nicht den sachlich tragfähigen Abschluss.",
+          "deliverables": ["analyse-und-beide-schreiben.md"]
+        }
+      ]
+    },
+    {
+      "id": "handbuch-word-markierung-ohne-gesamtzugriff",
+      "request": "Bitte prüfen Sie mein Arbeitszeugnis in Word vollständig und verbessern Sie es. Über die Schnittstelle ist derzeit ausschließlich die markierte Passage zugänglich: Sie unterstützte die Projektleitung bei organisatorischen Aufgaben. Ich sage: Ich habe die Projekte selbst geleitet. Weitere Dokumentteile, Kommentare, Änderungszustände und die Signatur sind nicht zugänglich. Das Werkzeug kann die Markierung direkt ersetzen, hat aber weder Änderungsverfolgung noch eine bestätigte Sicherungsfunktion. Es handelt sich um meine einzige Kopie des erteilten Zeugnisses. Bitte beginnen Sie mit der Prüfung.",
+      "input_files": [],
+      "deliverables": ["erste-antwort.md"],
+      "target_skill": "einfuehrung-pruefauftrag",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Fragt nach konkreten Projekten, Zeitraum, Befugnissen und Belegen sowie der vollständigen Fassung für die Gesamtprüfung. Aus der Markierung werden weder eine Gesamtnote noch fehlende übrige Inhalte oder ein Unterschriftsmangel abgeleitet.",
+          "deliverables": ["erste-antwort.md"]
+        },
+        {
+          "id": "C02",
+          "text": "Überschreibt die einzige Originalkopie nicht ungesichert. Bietet getrennte Ersatztexte oder Klärung einer Arbeitskopie an und behauptet keine Änderungsverfolgung oder Sicherung, die das Werkzeug nicht bestätigt.",
+          "deliverables": ["erste-antwort.md"]
+        },
+        {
+          "id": "C03",
+          "text": "Stellt sachbezogene Fragen, wartet auf die echte Antwort und erklärt die konkrete Fortsetzung. Erfindet keine Personal- oder Budgetverantwortung und behandelt eine künftige Textbearbeitung nicht als Zeugnisneuerteilung.",
+          "deliverables": ["erste-antwort.md"]
+        }
+      ]
+    },
+    {
+      "id": "handbuch-endzeugnisbindung-nicht-mit-zwischenzeugnis-verwechseln",
+      "request": "Ich vertrete eine Arbeitnehmerin. In ihrem am 30. September 2026 von der zuständigen Geschäftsführerin erteilten Endzeugnis stand: Ihr Verhalten gegenüber Vorgesetzten, Kollegen und Kunden war stets einwandfrei. Wir beanstandeten ausschließlich den falsch eingetragenen Geburtsort. Die neue Fassung korrigiert den Geburtsort, ersetzt aber den Verhaltenssatz durch: Ihr Verhalten war im Wesentlichen einwandfrei. Die Arbeitgeberantwort lautet: Bei der Überarbeitung haben wir die Bewertung neu abgewogen. Eine Absprache über eine bestimmte Bewertung existiert nicht; es geht nicht um ein Zwischenzeugnis. Frühere Beanstandungen des Verhaltens sind der Mandantin nicht bekannt. Weitere Erklärung zu Vorfällen oder neuen Erkenntnissen fehlt. Bitte begründen Sie den nächsten außergerichtlichen Schritt. Prüfen Sie insbesondere die verschiedenen Bindungs- und Maßregelungsansätze, ohne ein Motiv bereits als bewiesen darzustellen. Die Originalfassungen und der vollständige kurze Schriftwechsel sind mit den vorstehenden Angaben abschließend wiedergegeben. Anschriften und Versanddatum bleiben Platzhalter.",
+      "input_files": [],
+      "deliverables": ["pruefvermerk-und-schreiben.md"],
+      "target_skill": "einfuehrung-pruefauftrag",
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet Bindung an ein erteiltes Endzeugnis, Zwischenzeugnisbindung und Maßregelung. Wendet 9 AZR 248/07 nicht ohne Erklärung als identischen Endzeugnisfall an und leitet keine grenzenlose Wortlautgarantie her.",
+          "deliverables": ["pruefvermerk-und-schreiben.md"]
+        },
+        {
+          "id": "C02",
+          "text": "Prüft 9 AZR 352/04 mit seiner konkreten Reichweite: rechtlicher Bindungsansatz und Zurechnung, aber nicht die Behauptung, das Urteil sei allein hierauf gestützt. Erfindet keine Randnummer und unterscheidet diese Prüfung von der in 9 AZR 272/22 offengelassenen zusätzlichen Selbstbindung.",
+          "deliverables": ["pruefvermerk-und-schreiben.md"]
+        },
+        {
+          "id": "C03",
+          "text": "Erkennt die inhaltliche Abwertung und prüft Rechtsausübung, Nachteil und Motiv gesondert; zeitliche Folge ist kein fertiger Motivnachweis. Verlangt konkrete Abweichungsgründe statt pauschal sämtliche Leistung neu zu beweisen.",
+          "deliverables": ["pruefvermerk-und-schreiben.md"]
+        },
+        {
+          "id": "C04",
+          "text": "Führt zur verständlichen Mandantenempfehlung und einem sachlich begründeten außergerichtlichen Schreiben mit konkretem Wiederherstellungsziel. Kein automatischer Klage- oder Vollstreckungsantrag und keine Behauptung einer erfolgten Versendung.",
+          "deliverables": ["pruefvermerk-und-schreiben.md"]
+        }
+      ]
+    },
     {
       "id": "dialogstart-offener-leistungsbeleg",
       "request": "Ich möchte mein Arbeitszeugnis prüfen lassen. Anna Becker war von 2019 bis August 2026 als Product Managerin beschäftigt. Das Zeugnis nennt Produktplanung und Abstimmung mit Vertrieb, aber nicht die Leitung zweier Produkteinführungen. Es bewertet ihre Leistung mit stets zu unserer vollen Zufriedenheit und ihr Verhalten als stets einwandfrei. Anna meint, sie habe Ziele regelmäßig übertroffen und möchte eine sehr gute Note; konkrete Zielwerte oder Unterlagen hat sie noch nicht benannt. Bitte prüfen Sie das Zeugnis.",

@@ -15,6 +15,8 @@ Ein qualifiziertes Zeugnis muss Art und Dauer der Tätigkeit sowie Leistung und 
 
 ## 2. Prüfung und Formulierung
 
+Nutze bei streitigem Berufsbrauch Kapitel 21.6 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md), bei fehlender Führung Kapitel 21.4. BAG, Urteil vom 12.08.2008 – Az. 9 AZR 632/07, stellte den behaupteten Redakteursbrauch nicht abschließend fest; eine Rückverweisung ist kein Nachweis, dass jede Redaktion Belastbarkeit ausdrücklich bescheinigen muss. Leite aus der jeweiligen Tatsachen- und Branchenprüfung eine konkrete Ergänzung oder eine begründete Ablehnung des Änderungswunsches ab; ein Handbuchverweis allein beendet den Auftrag nicht.
+
 Ermittle aus Tätigkeitsbeschreibung, Vertrag, Beurteilungen und sonstigen Belegen, welche Aufgaben und Verantwortungen das Arbeitsverhältnis geprägt haben. Vergleiche damit den Zeugnistext. Unterscheide:
 
 1. fehlenden gesetzlichen Mindestinhalt, insbesondere eine Leistungs- oder Verhaltensbeurteilung;

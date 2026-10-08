@@ -13,6 +13,8 @@ Der Arbeitgeber behält einen Formulierungsspielraum. Nicht jede ungewöhnliche 
 
 ## 2. Ergebnis
 
+Kapitel 21.5 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md) enthält die Kontextprüfung, Gegenlesarten und konkrete Rückfragen; bei Auslassungen schließt Kapitel 21.6 an. Lies nur die für den Streitpunkt benötigte Vertiefung und wende sie auf den tatsächlich vorliegenden Gesamttext an. Die dort entwickelten Beispielsätze sind keine gerichtlichen Wortlautvorgaben. Führe die Prüfung in das konkrete Änderungsziel und den bestellten Entwurf zurück.
+
 Nenne Originalwortlaut und Fundstelle, naheliegende wörtliche Bedeutung, eine konkret vertretbare Nebenbedeutung, Kontext, Grad der Sicherheit und rechtliche Relevanz. Unterscheide Klarheitsverstoß, auslegungsbedürftige Formulierung und unbegründete Codevermutung. Formuliere bei erheblicher Mehrdeutigkeit einen vollständigen eindeutigen Ersatzsatz.
 
 ## 3. Fortführung des Auftrags

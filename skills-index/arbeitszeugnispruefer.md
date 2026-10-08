@@ -11,7 +11,7 @@
 | **Großer Prompt (Werkstatt)** | Markdown | [`arbeitszeugnispruefer-werkstatt.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-werkstatt.md) |
 | **Kleiner Prompt (Schnellstart)** | Markdown | [`arbeitszeugnispruefer-schnellstart.md` herunterladen](https://klotzkette.github.io/claude-fuer-deutsches-recht/download.html?path=arbeitszeugnispruefer/arbeitszeugnispruefer-schnellstart.md) |
 | **Alle Skills als Markdown** | ZIP | [alle-skills-markdown.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-skills-markdown.zip) |
-| **Plugin (installierbar)** | ZIP | [arbeitszeugnispruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnispruefer.zip) |
+| **Plugin (installierbar)** | ZIP | [arbeitszeugnispruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/download/arbeitszeugnispruefer-v445.34.0/arbeitszeugnispruefer.zip) |
 
 ## So benutzt man einen Skill
 

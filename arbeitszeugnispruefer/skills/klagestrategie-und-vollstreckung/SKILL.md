@@ -13,6 +13,8 @@ Der materielle Zeugnisanspruch folgt bei Arbeitnehmern aus Paragraf 109 GewO. Ei
 
 ## 2. Erkenntnisverfahren
 
+Für den gewählten Verfahrensweg lies den einschlägigen Abschnitt in Kapitel 23 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md); bei Auslegung einer Zeugniszusage oder Vorfassung außerdem Kapitel 22. Die Besprechungen trennen materiellen Anspruch, Bindung, Bestimmtheit und Vollstreckung. Wende diese Unterscheidungen auf den vollständigen Titel und die tatsächlichen Abweichungen an und erstelle anschließend das beauftragte Dokument. Eine Fundstellenliste oder ein Verweis auf weiteres Lesen ersetzt den Verfahrensvorschlag nicht.
+
 Formuliere das Berichtigungsziel so bestimmt, dass Streitgegenstand und verlangte Zeugnisfassung erkennbar sind. Verknüpfe jeden Antragsteil mit konkretem Originalwortlaut, begehrter Fassung, tragender Tatsache und Beweisangebot. Prüfe Rechtsweg, Parteien, Zuständigkeit, Schlüssigkeit, Ausschlussfristen und die Darlegungs- und Beweislast für jeden Streitpunkt gesondert.
 
 Für eine bessere Gesamtbewertung als befriedigend muss die Arbeitnehmerseite die sie tragenden Mehrleistungen darlegen und gegebenenfalls beweisen. Bei einer unterdurchschnittlichen Ausgangsnote 4 oder 5 und Zielnote 3 prüfe hingegen die Darlegungs- und Beweislast des Arbeitgebers für die Minderleistung. Fehlende Arbeitnehmer-Mehrleistungsbelege machen 4→3 nicht zur bloßen Bitte. Eine Stilpräferenz, schematische Personenreihenfolge oder freiwillige Schlussformel wird nicht als sicherer Klageanspruch dargestellt.

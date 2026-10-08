@@ -52,6 +52,17 @@ Nach jeder tatsächlichen Antwort erkläre knapp, welche Bewertung oder Formulie
 
 ## 3. Prüfungsfolge
 
+Das mitgelieferte [Arbeitsbuch](../../references/arbeitszeugnis-handbuch.md) vertieft die konkrete Fallarbeit. Wähle nach dem Streitpunkt und lies den betreffenden Abschnitt mit seinen Gegenfällen und Quellenbeschränkungen, nicht pauschal das gesamte Buch:
+
+| Bedarf | Passende Vertiefung |
+| --- | --- |
+| Dialog fortsetzen, nur Textzugriff, Word oder Export | Kapitel 20, besonders 20.3 bis 20.7 |
+| Leistung, Verhalten, Beweise, Berufsbrauch, Tabellen oder Fehlzeiten | Kapitel 21 |
+| Schlussformel, frühere Bewertung, Zusage oder Statusfrage | Kapitel 22 |
+| Form, Datierung, Ausschlussfrist, Klage oder Vollstreckung | Kapitel 23 |
+
+Wende die gelesene Vertiefung auf Originalwortlaut, Tatsachen und Beweise an und führe danach bis zu den geschuldeten Ergebnissen weiter. Ein Verweis auf das Arbeitsbuch ist kein Prüfbericht. Ist die Referenz in einer Einzeldatei-Umgebung nicht zugänglich, arbeite mit dem hier enthaltenen Ablauf und den verfügbaren Quellen weiter; frage nur den tatsächlich entscheidenden fehlenden Auszug nach. Behaupte keine Lektüre oder aktuelle Quellenprüfung, die nicht stattgefunden hat.
+
 Bearbeite nicht sämtliche sprachlichen Detailprüfungen nacheinander. Wähle nach dem konkreten Streitpunkt:
 
 | Streitpunkt | Zuerst bearbeiten | Nur bei zusätzlichem Bedarf |
@@ -132,3 +143,9 @@ Kontrolliere die Bedeutung, nicht nur die Zeichenfolge: Gleichwertige Formulieru
 Es gilt die Quellenprüfung nach `references/zitierweise.md`: Norm zuerst; tragende Entscheidungen mit Gericht, Entscheidungsform, Datum, Aktenzeichen, tatsächlich geprüfter Quelle und gesicherter Randnummer. Ohne Browser dienen die hier eingebetteten Anker als bereitgestelltes, nicht im aktuellen Mandat live geprüftes Material. Kennzeichne den konkreten Vorbehalt außerhalb der Empfängertexte, arbeite unabhängig mögliche Teile weiter und erfinde keine Nachweise. Ein ungeprüfter Rechtssatz trägt kein als sicher dargestelltes streitiges Begehren.
 
 Die Ausformulierungspflicht gilt für alle Endprodukte: vollständige Sätze statt Skelett, Halbsatz oder bloßer Stichwortsammlung. Technische Exporthinweise bleiben außerhalb der versandfähigen Schreiben.
+
+### 6.3. Word und begrenzte Werkzeuge
+
+Bei einem geöffneten Word-Dokument unterscheide vollständigen Dokumentzugriff von einer einzelnen Markierung. Für die Gesamtprüfung benötigst du die vollständige Fassung; eine sichtbare Textstelle erlaubt keine Aussagen über ungelesene Abschnitte. Prüfen, Kommentieren und Ändern sind unterschiedliche Handlungen: Überschreibe nicht aufgrund eines Prüfauftrags die einzige Originalfassung. Nutze eine Arbeitskopie oder getrennte Ersatztexte; führe beauftragte Änderungen nur mit tatsächlich vorhandenen Funktionen aus. Fremde Änderungen werden nicht ungefragt angenommen und fremde Kommentare nicht entfernt.
+
+Rechtsbegründung, Zeugnisentwurf und Empfängerschreiben bleiben getrennt. Behaupte Änderungsverfolgung, Speicherung oder Formatierung nur nach Bestätigung; lies das Ergebnis nach Möglichkeit zurück. Ohne Dokumentwerkzeug liefere alle geschuldeten Texte im Chat. Ein technisches Ausgabelimit führt zu einer klar bezeichneten Fortsetzung, nicht zu einem bloßen Angebot, die fehlenden Schreiben später zu erstellen. Ein Entwurf ist weder ein erteiltes Zeugnis noch ein versandter Brief.

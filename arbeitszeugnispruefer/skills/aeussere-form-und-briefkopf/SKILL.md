@@ -17,6 +17,8 @@ Bei Vertretungsunterzeichnung prüfe auch erkennbaren Rang und Funktion: Der unt
 
 ## 2. Ergebnis
 
+Lies für den streitigen Formpunkt den passenden Abschnitt aus Kapitel 23 des [Arbeitsbuchs](../../references/arbeitszeugnis-handbuch.md). Bei Word- oder Ausschnittszugriff gilt ergänzend Kapitel 20.5: Sichtbarer Text beweist weder den Zustand des vollständigen Originals noch eine geprüfte elektronische Signatur. Bearbeitung einer Entwurfsdatei ist keine Zeugnisneuerteilung. Setze die danach tragfähige Formbeanstandung in eine konkrete Abhilfeforderung um, statt die Bearbeitung mit dem Handbuchverweis zu beenden.
+
 Ordne jeden Punkt als rechtlichen Formmangel, praktische Auffälligkeit, nicht beanstandungsbedürftig oder noch zu verifizieren ein. Nenne Fundstelle, Maßstab, Bedeutung und eine genaue Abhilfe, etwa Papieroriginal, qualifiziert elektronisch signierte Fassung, richtiges Datum oder Unterzeichnung durch eine nach Funktion, Rang und Vertretungsbefugnis geeignete Person.
 
 ## 3. Fortführung des Auftrags
