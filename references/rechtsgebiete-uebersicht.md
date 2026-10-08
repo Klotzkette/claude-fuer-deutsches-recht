@@ -4,7 +4,7 @@ Vollständiger alphabetischer Katalog mit Kurzbeschreibung, Paketversion und Ski
 
 [Startseite](../README.md) · [Skills und Einzel-Downloads](../SKILLS.md) · [Werkstatt und Mini](../docs/werkstatt-und-schnellstart-coverage.md) · [Downloads](../ASSET_INDEX.md) · [Testakten](../testakten/README.md)
 
-Stand v445.33.1: 290 Plugins, 23159 Skills.
+Stand v445.33.1: 290 Plugins, 23161 Skills.
 
 | Plugin | Beschreibung | Version | Skills |
 | --- | --- | --- | ---: |
@@ -162,7 +162,7 @@ Stand v445.33.1: 290 Plugins, 23159 Skills.
 | [`kanzlei-mandant-lifecycle`](../kanzlei-mandant-lifecycle/) | Lifecycle-Plugin für Kanzlei, Mandant und Rechtsabteilung: Mandatsstart, OCG, Budget, Dashboard, Rechnung, Litigation, Erwartungsmanagement und Relationship-Governance. | `445.33.1` | 116 |
 | [`kartellrecht-marktabgrenzung-pruefung`](../kartellrecht-marktabgrenzung-pruefung/) | Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement. | `445.33.1` | 181 |
 | [`ki-governance`](../ki-governance/) | EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie. | `445.33.1` | 60 |
-| [`ki-native-kanzlei`](../ki-native-kanzlei/) | KI-native Kanzlei: 18 vertiefte Skills mit durchgehenden Abläufen für Mandat, Fristen, Berufsrecht, Honorar und Rechnung. Computerlauf-Prototyp für kontrollierte Postfacharbeit einschließlich beA-Empfang und Versand. Mit 24 kurzen Fachanwaltsakten. | `445.33.9` | 18 |
+| [`ki-native-kanzlei`](../ki-native-kanzlei/) | Kanzleistart und Mandatsbetrieb mit 20 Skills: Organisation, Posteingang, Fristen, Facharbeit, Honorar und Rechnung. Kontrollierter Computerlauf mit begrenzten Kontorechten, Freigaben und beA-Nachweisen. Prototyp mit 24 kurzen Fachanwaltsakten. | `445.34.0` | 20 |
 | [`ki-richtlinie-kanzleien`](../ki-richtlinie-kanzleien/) | Erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwälten und Syndikus-Anwälten. Beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen. | `445.33.1` | 60 |
 | [`ki-verordnung-hochrisiko-pruefer`](../ki-verordnung-hochrisiko-pruefer/) | Prüft Software nach Artikel 6 KI-Verordnung: Produktpfad, sämtliche Anhang-III-Bereiche, Ausnahmen, Profiling und Rollenwechsel. Erstellt Einstufungen, Anbieternachforderungen und Umsetzungsdokumente. Recruiting und eigenmächtige Chatbot-Nutzung bilden den vertieften Praxisfall. | `445.33.1` | 9 |
 | [`ki-verordnung-transparenzpruefer`](../ki-verordnung-transparenzpruefer/) | Artikel 50 KI-Verordnung praktisch prüfen: Rollen, Kanzleientwürfe, öffentliche Texte, redaktionelle Kontrolle, KI-Chat und Telefon, Deepfakes, technische Markierung und Biometrie. Mit verwendbaren Hinweisen, Anbieteranfragen und Freigabevermerken. | `445.33.1` | 8 |

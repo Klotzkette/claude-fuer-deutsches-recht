@@ -1,8 +1,8 @@
 # KI-native Kanzlei: Prüfung der Veredelung und der agentischen Schicht
 
-Stand: 8. Oktober 2026. Komponentenfassung `445.33.9`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
+Stand: 8. Oktober 2026. Komponentenfassung `445.34.0`. [Plugin und Downloads](../../ki-native-kanzlei/README.md).
 
-**Aktuelle Prüfung: Abschnitt 11.** Die Abschnitte 1 bis 10 dokumentieren frühere Runden mit ihren damaligen Quellenlücken, Testzahlen und Seitenständen. Sie bleiben als Historie erhalten. Die Computerlauf-Erweiterung wird separat bewertet; unveränderte frühere Rechtsquellen werden nicht als erneute Lektüre ausgegeben.
+Aktuelle Prüfung: [Kanzleistart und Posteingang](gruendungsstart-2026-10-08.md). Die folgenden Abschnitte dokumentieren frühere Runden mit ihren damaligen Quellenlücken, Testzahlen und Seitenständen. Sie bleiben als Historie erhalten; unveränderte frühere Rechtsquellen werden nicht als erneute Lektüre ausgegeben.
 
 ## 1. Gegenstand und Umfang
 

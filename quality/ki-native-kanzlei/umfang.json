@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "layout": "A4, Liberation Serif (metrisch kompatibel zu Times New Roman) 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill",
-  "font": "Liberation Serif (metrisch kompatibel zu Times New Roman)",
+  "layout": "A4, Times New Roman 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill",
+  "font": "Times New Roman",
   "skills": [
     {
       "skill": "abrechnung-e-rechnung",
@@ -12,7 +12,7 @@
       "utf8_bytes": 56605,
       "pages": 16,
       "pdf": "abrechnung-e-rechnung.pdf",
-      "pdf_sha256": "f176fff40f6850fd5723ad873d166426d299be431cfa4aa4c522a0ed693449dd",
+      "pdf_sha256": "28f66adf0f8b3ceead91e679b5beeac4f41e16031c7c12f4273800b70edbb5bd",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -24,7 +24,7 @@
       "utf8_bytes": 57061,
       "pages": 17,
       "pdf": "akte-fristen-anlegen.pdf",
-      "pdf_sha256": "4c1898a34a78f4d242b3f8afa80980b4ab432b941263258782940a5fbba694a1",
+      "pdf_sha256": "f11006c61d1681fe8b46b84094d755a95131aa48ff0d0d32f6b25d2015accd73",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -36,7 +36,7 @@
       "utf8_bytes": 58938,
       "pages": 17,
       "pdf": "anwaltsberufsrecht-pruefen.pdf",
-      "pdf_sha256": "84a5d8997f8c3bcc68cfe5e39aef0074d4af247e2b78c71af834319670c2df76",
+      "pdf_sha256": "9c59dc3703150d01bd638b5dd966375fff284336b3069d80932c7e4ca76991c0",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -48,7 +48,7 @@
       "utf8_bytes": 55298,
       "pages": 16,
       "pdf": "bea-anlagen-vorbereiten.pdf",
-      "pdf_sha256": "a7527f9f76b0e85b3831925ac0ed471446aaf6376e9bc85e327acc5fd7e46aa4",
+      "pdf_sha256": "9a3cd2ef46f867e75645d20a89701d798cdd7318063aadb7c643899354ec05cb",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -60,7 +60,7 @@
       "utf8_bytes": 54755,
       "pages": 17,
       "pdf": "fristen-berechnen-ueberwachen.pdf",
-      "pdf_sha256": "cb628153fecf9a269fab7da1042c21a03579e89b2e55e4b39ee069a9b62e8964",
+      "pdf_sha256": "d315d99dbdb560305fe4000419c2e906e5d765a05d0d91cd77ea01de49e240cf",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -72,7 +72,7 @@
       "utf8_bytes": 57207,
       "pages": 16,
       "pdf": "geldwaesche-pruefen.pdf",
-      "pdf_sha256": "c701e98ada95d3c847d78ac4e5c714afe91f6c5459285b2cc30967cc211269ac",
+      "pdf_sha256": "21d4c20e6652cd980d1fecf4e273fd53d9c19993f3770bad461ae823ee116b77",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -84,19 +84,31 @@
       "utf8_bytes": 56657,
       "pages": 17,
       "pdf": "honorar-budget-vereinbaren.pdf",
-      "pdf_sha256": "dcbb84702841d2bfaa3797d4ee45c626e828b7122e4bcca54ab5d79c208848ca",
+      "pdf_sha256": "f4814907da84cb16761973072b4ddea19fb034f1349cb0669c677435e483c232",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "kanzlei-gruenden-einrichten",
+      "title": "Kanzlei gründen und einrichten",
+      "source": "ki-native-kanzlei/skills/kanzlei-gruenden-einrichten/SKILL.md",
+      "source_sha256": "428e7a9d7e65696164eb05d87945104321c7b71b5c06774972171d6a9bda04f9",
+      "words": 1492,
+      "utf8_bytes": 14046,
+      "pages": 4,
+      "pdf": "kanzlei-gruenden-einrichten.pdf",
+      "pdf_sha256": "5ad7862e304e4ee61a6a063e998df07fb29df9b465500cc7e4a975835aaf264f",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
       "skill": "ki-kanzlei-steuern",
       "title": "KI-native Kanzlei: das Mandat vom Auftrag bis zum Ergebnis führen",
       "source": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
-      "source_sha256": "79fb06e5a74b83aa0596c5eac69468b876d30e7fe56ce3d8fccb037fd16892bb",
-      "words": 6736,
-      "utf8_bytes": 58861,
+      "source_sha256": "28f7748d30f4cba077fd96bc001b27e22104437fbe72d36212987e85c87f55d9",
+      "words": 6836,
+      "utf8_bytes": 59867,
       "pages": 18,
       "pdf": "ki-kanzlei-steuern.pdf",
-      "pdf_sha256": "c6d8734479e8a5d53e6df7e5cc357239e1544455b9f21960de73a155831ad4f0",
+      "pdf_sha256": "7503821b2ec207ebb31f9ea7e170c0a4efb27c7f5c9ed84ca5a565347917d4c7",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -108,7 +120,7 @@
       "utf8_bytes": 55230,
       "pages": 16,
       "pdf": "mandantenkommunikation.pdf",
-      "pdf_sha256": "fa8997d01cb662e4da5a778661b8d6f719777622936b8ee1eb6ec818cf5d5e41",
+      "pdf_sha256": "f110aa8ce35b78ef4e2b7626ba04df1add14954a289db96b0d625a04f53550cf",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -120,7 +132,7 @@
       "utf8_bytes": 56828,
       "pages": 16,
       "pdf": "mandat-abschliessen.pdf",
-      "pdf_sha256": "5ab193518737e969c586c005cc104bce2e7bab46829b3d395a83a424d0d99c1f",
+      "pdf_sha256": "ea45d158a2858c0a9206dbd895e01f564758c6bfdfdac88b60866b6b18ead164",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -132,7 +144,19 @@
       "utf8_bytes": 57236,
       "pages": 16,
       "pdf": "mandatsannahme-interessenkollision.pdf",
-      "pdf_sha256": "ebd40244df05bc51556034e75a327c4edc3beebb50a6e47d571eaf25c1dc9c9c",
+      "pdf_sha256": "07b6147d32a9a324f7967b8a864aff91c4deee70dc7e638a74fba44da8d89c47",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "posteingang-mandate-zuordnen",
+      "title": "Posteingang zu Mandaten bearbeiten",
+      "source": "ki-native-kanzlei/skills/posteingang-mandate-zuordnen/SKILL.md",
+      "source_sha256": "2a19191c85e87387283d5d895ce36be1f9eee30647b5c5f05c7da3b11a71afaf",
+      "words": 1569,
+      "utf8_bytes": 14056,
+      "pages": 4,
+      "pdf": "posteingang-mandate-zuordnen.pdf",
+      "pdf_sha256": "80bd49e72376434d394ddfee4c44ce6df1ac06508bb3512dd9bd1778ca505fb5",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -144,7 +168,7 @@
       "utf8_bytes": 55899,
       "pages": 16,
       "pdf": "recht-recherchieren.pdf",
-      "pdf_sha256": "ce4de2aa32fca2c8abebe6f4f88e400feef5c399070a17e771f9a378199ba572",
+      "pdf_sha256": "503dd06cc5b306ec457bc927031edfbd1052320d8cd958c14faf805e7bc9802f",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -156,7 +180,7 @@
       "utf8_bytes": 57625,
       "pages": 15,
       "pdf": "schriftsaetze-entwerfen.pdf",
-      "pdf_sha256": "f58ee2040d41b2947c1f3cdc465338a0a19efd1744001272cdae8ec95525ac12",
+      "pdf_sha256": "37938d7b0d820ab959c7b8949f426aee861ba5aa241dbd3e380dd0315f08b0b2",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -168,7 +192,7 @@
       "utf8_bytes": 58384,
       "pages": 15,
       "pdf": "vertraege-agb-pruefen.pdf",
-      "pdf_sha256": "9132df1cbc5dfd9560258a578ff207e1ea9aba067ea5e5f57b38d2e0afff29bc",
+      "pdf_sha256": "b2d9061a3d8a619e24ca61bfe872705da0f4a9867773264da3ff18fd13df25a4",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -180,7 +204,7 @@
       "utf8_bytes": 58933,
       "pages": 16,
       "pdf": "vertraege-gestalten.pdf",
-      "pdf_sha256": "cdd5f7be1115b6b90d4a09c7c8d1ffca4a9ced05574086d2e5c92b11fe11fd3f",
+      "pdf_sha256": "3cba49b904b64026dcfed5b282176cbeb3359f58cdf57a7f2d11f801ad0b1201",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -192,7 +216,7 @@
       "utf8_bytes": 55200,
       "pages": 16,
       "pdf": "workflow-uebergabe.pdf",
-      "pdf_sha256": "5b1eea1942a8bd69579436f08b46ad270bedf787afd5e39eed0c442a0261c6ef",
+      "pdf_sha256": "0889ab908436f3add52bdc166732c83c11077d5b18f15ad8a556d6fc80639418",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -204,7 +228,7 @@
       "utf8_bytes": 56838,
       "pages": 16,
       "pdf": "zahlungen-buchhaltung.pdf",
-      "pdf_sha256": "c96ca67c0934fe8ed6b97e1c7d2e0f978acc94aaa28622e028fd4eda0b647358",
+      "pdf_sha256": "0f549d1ccd708ec92d1252c8319862200da34c2e71727293b071dde59f688a49",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -216,13 +240,13 @@
       "utf8_bytes": 54521,
       "pages": 16,
       "pdf": "zeiten-erfassen.pdf",
-      "pdf_sha256": "dc4a69e21412e399a082fbd588f4cf1704ef591718632b3e0309c8ea3e17f46a",
+      "pdf_sha256": "a725e36e7b0f51be5218c4fd9778531bf47fbd5bdaf56df167ba7195a982bafc",
       "body_text_coverage": "all rendered source text segments present in source order"
     }
   ],
-  "skill_count": 18,
-  "total_skill_pages": 292,
-  "handbook_sha256": "d6088bf022eff34717384c26026311a441471af2471be3f2d2a0d6d0d3ee7797",
-  "handbook_pages": 292,
+  "skill_count": 20,
+  "total_skill_pages": 300,
+  "handbook_sha256": "77acc1935d40bd27f4f12920638f10cf92425a5f6ee039b341ec4594d830cd11",
+  "handbook_pages": 300,
   "measurement": "Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern."
 }

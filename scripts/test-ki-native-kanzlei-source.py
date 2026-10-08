@@ -9,7 +9,7 @@ from prompt_profiles import validate_files
 ROOT=Path(__file__).resolve().parents[1];PLUGIN=ROOT/'ki-native-kanzlei'
 
 def main():
-    skills=sorted((PLUGIN/'skills').glob('*/SKILL.md'));assert len(skills)==18
+    skills=sorted((PLUGIN/'skills').glob('*/SKILL.md'));assert len(skills)==20
     records=[]
     for p in skills:
         s=p.read_text();fm=re.match(r'^---\n(.*?)\n---\n',s,re.S);assert fm,p
@@ -31,12 +31,14 @@ def main():
     profile=json.loads((ROOT/'quality/evals/ki-native-kanzlei.json').read_text());validate_profile(profile,'ki-native-kanzlei',PLUGIN,ROOT)
     market=json.loads((ROOT/'.claude-plugin/marketplace.json').read_text())['plugins'];entries=[p for p in market if p['name']=='ki-native-kanzlei'];assert len(entries)==1 and entries[0]['source']=='./ki-native-kanzlei';assert not any(p['name']=='si-native-kanzlei' for p in market)
     for p in [PLUGIN/'plugin.json',PLUGIN/'.claude-plugin/plugin.json',PLUGIN/'.codex-plugin/plugin.json']:
-        d=json.loads(p.read_text());assert d['name']=='ki-native-kanzlei' and d['version']=='445.33.9'
+        d=json.loads(p.read_text());assert d['name']=='ki-native-kanzlei' and d['version']=='445.34.0'
     for name in ['README.md','SKILLS.md','ASSET_INDEX.md','SCHWERPUNKTE.md','QUALITY.md','skills-index/README.md','references/rechtsgebiete-uebersicht.md','docs/werkstatt-und-schnellstart-coverage.md']:
         s=(ROOT/name).read_text();assert 'ki-native-kanzlei' in s,name;assert 'si-native-kanzlei/README.md' not in s,name
-    report=json.loads((ROOT/'quality/ki-native-kanzlei/umfang.json').read_text());assert report['skill_count']==18
-    assert {r['skill']:r['source_sha256'] for r in report['skills']}=={r['skill']:r['sha256'] for r in records};assert min(r['pages'] for r in report['skills'])>=10
+    report=json.loads((ROOT/'quality/ki-native-kanzlei/umfang.json').read_text());assert report['skill_count']==20
+    assert {r['skill']:r['source_sha256'] for r in report['skills']}=={r['skill']:r['sha256'] for r in records}
+    focused={'kanzlei-gruenden-einrichten','posteingang-mandate-zuordnen'}
+    assert all(r['pages']>=(3 if r['skill'] in focused else 10) for r in report['skills'])
     result={'skills':records,'prompts':limits,'cases_in_profile':len(profile['cases']),'criteria_in_profile':sum(len(c['criteria']) for c in profile['cases']),'all_checks':'passed'}
     (ROOT/'quality/ki-native-kanzlei/struktur-pruefung.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
-    print(json.dumps({'skills':18,'prompt_limits':limits,'pages_total':report['handbook_pages'],'all_checks':'passed'},ensure_ascii=False))
+    print(json.dumps({'skills':20,'prompt_limits':limits,'pages_total':report['handbook_pages'],'all_checks':'passed'},ensure_ascii=False))
 if __name__=='__main__':main()

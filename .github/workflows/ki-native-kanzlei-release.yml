@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Komponententag, z. B. ki-native-kanzlei-v445.33.9'
+        description: 'Komponententag, z. B. ki-native-kanzlei-v445.34.0'
         required: true
 
 permissions:
@@ -20,12 +20,14 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
+    timeout-minutes: 25
     env:
       TAG: ${{ github.event.inputs.tag || github.ref_name }}
     steps:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          ref: ${{ github.event.inputs.tag || github.ref }}
       - name: Python-Abhängigkeiten und Schrift
         run: |
           python3 -m pip install reportlab pypdf PyYAML
@@ -40,8 +42,10 @@ jobs:
         run: |
           VERSION=$(python3 -c "import json;print(json.load(open('ki-native-kanzlei/plugin.json'))['version'])")
           test "ki-native-kanzlei-v$VERSION" = "$TAG" || { echo "Tag $TAG passt nicht zu Version $VERSION"; exit 1; }
+          git merge-base --is-ancestor HEAD origin/main
       - name: Tests der Hilfsprogramme
         run: |
+          python3 scripts/test-ki-native-kanzlei-start.py
           python3 scripts/test-ki-native-kanzlei-computerlauf.py
           python3 scripts/test-ki-native-kanzlei-lauf.py
           python3 scripts/test-ki-native-kanzlei-fristen.py
@@ -62,15 +66,15 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if ! gh release view "$TAG" >/dev/null 2>&1; then
-            # Bei manuellem Start ohne vorhandenen Tag legt die Veröffentlichung den Tag
-            # auf genau dem geprüften Commit dieses Laufs an.
-            if git ls-remote --exit-code --tags origin "refs/tags/$TAG" >/dev/null 2>&1; then
-              TAG_OPT="--verify-tag"
-            else
-              TAG_OPT="--target $GITHUB_SHA"
-            fi
-            gh release create "$TAG" --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false $TAG_OPT
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            test "$(gh release view "$TAG" --json isDraft --jq .isDraft)" = true || { echo "Öffentliches Release wird nicht überschrieben"; exit 1; }
+          else
+            gh release create "$TAG" --draft --verify-tag --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
           fi
           gh release upload "$TAG" "$RUNNER_TEMP"/dist/* --clobber
+          test "$(gh release view "$TAG" --json assets --jq '.assets | length')" = 5
+          mkdir -p "$RUNNER_TEMP/verify"
+          gh release download "$TAG" --dir "$RUNNER_TEMP/verify"
+          (cd "$RUNNER_TEMP/verify" && sha256sum --check checksums-sha256.txt)
+          gh release edit "$TAG" --draft=false --latest=false
           gh release view "$TAG" --json assets --jq '.assets[] | "\(.name) \(.size)"'

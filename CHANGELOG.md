@@ -1,3 +1,11 @@
+# ki-native-kanzlei-v445.34.0 - 2026-10-08
+
+Zwei neue Skills ergänzen die bestehenden achtzehn Kanzleifunktionen: `kanzlei-gruenden-einrichten` führt zur konkreten Organisation, führenden Systemen, Vertretung und einem überprüften Probemandat. `posteingang-mandate-zuordnen` sichert Originale, trennt gleiche Absender in verschiedenen Mandaten und hält unvollständige Postfachläufe fortsetzbar. Der neue Befehl `/kanzlei-starten`, Hauptskill, Werkstatt und kompakte Prompts verbinden diese Schritte mit Fristen, Fachprodukten, Honorar und Abrechnung.
+
+Die Organisationsvorlage unterscheidet interne Arbeitsstufen und gesondert freigegebene Außenhandlungen nun widerspruchsfrei. Voller Computerzugang bleibt keine pauschale Handlungsbefugnis; Herstellergrenzen, Geheimnisschutz, beA-Schlussakte und unklare Versandversuche bleiben ausdrücklich geregelt. Der Release-Workflow prüft den tatsächlich gewählten Tag und veröffentlicht erst nach vollständigem Paketupload samt Prüfsummenabgleich.
+
+Die 24 bestehenden Fallakten und ihre 240 Originalstücke bleiben unverändert. Neue Handbuch- und Einzel-PDFs, beide Installationspakete und Prüfsummen werden als eigenes Komponentenrelease ausgeliefert. Prüfprofil und technische Nachweise unterscheiden statische Anweisungsprüfung, Hilfsprogrammtests und nicht durchgeführte Live-Postfachtests.
+
 # betreuungsrecht-v445.33.3 - 2026-10-08
 
 Die Dreijahresakte heißt auf Nutzerwunsch jetzt Adelheid Pfister. Familiennamen, Kontaktangaben, Unterlagen, Skillbeispiel, Werkstatt und aktuelle Downloadpfade sind entsprechend angepasst. Sachverhalt, Buchungen und Rechtsprüfung bleiben unverändert. Frühere Veröffentlichungen bleiben als historische Fassungen erhalten.

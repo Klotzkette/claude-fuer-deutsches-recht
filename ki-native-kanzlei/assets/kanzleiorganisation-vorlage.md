@@ -8,7 +8,7 @@ Die Kanzlei [Name der Kanzlei, Rechtsform, Sitz] setzt das Plugin KI-native Kanz
 
 ## 1.2. Freigabestufen
 
-Neue Mandate beginnen auf Freigabestufe [1 oder 2]. Eine höhere Stufe setzt die sachbearbeitende Person je Mandat; Stufe 3 setzt voraus, dass [Name] die Versandpakete und Rechnungsentwürfe der ersten Mandate geprüft hat. Die Maschine sendet, reicht ein, zahlt, gibt Rechnungen aus, bestätigt Kalendereinträge, meldet oder löscht auf keiner Stufe.
+Neue Mandate beginnen auf Freigabestufe [1 oder 2]. Eine höhere Stufe setzt der sachbearbeitende Anwalt je Mandat; Stufe 3 bereitet ausgabefertige Pakete vor. Keine Stufe allein erlaubt Außenhandlungen. Ein konkret autorisierter E-Mail-Versand benötigt zusätzlich einen gültigen realen Sitzungsauftrag, ein erlaubtes Werkzeug und eine unveränderte menschlich freigegebene Nachricht. Persönlicher beA-Versand und eEB bleiben beim dafür berechtigten Menschen; weitere beA-Übermittlungswege werden gesondert geprüft. Zahlung, Rechnungsausgabe, Fristeintrag, Meldung und Löschung erhalten jeweils ihre eigene Freigabe und Ergebniskontrolle.
 
 ## 1.3. Wer welche Gates freigibt
 
@@ -19,7 +19,7 @@ Neue Mandate beginnen auf Freigabestufe [1 oder 2]. Eine höhere Stufe setzt die
 | G3 Versand und Einreichung | Sachbearbeitende Berufsträgerin oder sachbearbeitender Berufsträger | [Name] |
 | G4 Rechnungsausgabe | [Name] | [Name] |
 | G5 Zahlung und Fremdgeld | [Name], bei Fremdgeld zusätzlich [Name] | [Name] |
-| G6 Dienstleister | [Name] nach Prüfung nach § 43e BRAO | [Name] |
+| G6 Dienstleister | [Name] nach Prüfung nach Paragraf 43e BRAO | [Name] |
 | G7 Meldung | Persönlich verpflichtete Berufsträgerin oder persönlich verpflichteter Berufsträger | keine |
 | G8 Abschluss und Löschung | [Name] | [Name] |
 
@@ -31,7 +31,7 @@ Führend ist der Kalender [Name des Systems]. Fristen trägt [Name oder Stelle] 
 
 ## 1.5. Zugelassene Umgebungen und Dienste
 
-Zugelassen für Mandatsdaten sind [Umgebung, Anbieter, Vertragsgrundlage nach § 43e BRAO, Auftragsverarbeitung nach Art. 28 DSGVO, Serverstandort, Unterauftragnehmer]. Nicht zugelassen sind [Dienste]. Für einzelmandatsbezogene Dienste ist die Einwilligung der Mandantschaft einzuholen, soweit § 43e BRAO das verlangt. Neue Dienste werden vor dem Einsatz mit dem Skill anwaltsberufsrecht-pruefen geprüft.
+Zugelassen für den bezeichneten Datenumfang sind [Umgebung, Anbieter, Vertragsgrundlage nach Paragraf 43e BRAO, Datenschutzrolle, Verarbeitungsorte, Unterauftragnehmer, gegebenenfalls erforderliche Vereinbarungen]. Nicht zugelassen sind [Dienste]. Eine Herstellerwarnung oder Organisationssperre wird nicht durch diese Tabelle aufgehoben. Für einzelmandatsbezogene Dienste wird eine Einwilligung eingeholt, soweit Paragraf 43e BRAO das verlangt. Neue Dienste werden vor dem Einsatz mit dem Berufsrechtsskill geprüft. Dieser Text allein schaltet keinen Zugang frei.
 
 ## 1.6. Honorar und Zeit
 
@@ -40,3 +40,32 @@ Standardmodell bei neuen Mandaten ist [Zeithonorar mit Satz, Festpreis oder RVG]
 ## 1.7. Ordner
 
 Der Kanzleiordner ist [Pfad]. Jedes Mandat hat einen Unterordner mit dem Aktenzeichen. Neue Eingänge landen in [Pfad des Posteingangs]. Originale werden unverändert in [Unterordner] abgelegt.
+
+## 1.8. Führende Systeme und Abgleich
+
+| Datenart | Führendes System | Arbeitskopie und Rücklesung |
+| --- | --- | --- |
+| Mandats- und Kollisionsregister | [System und verantwortlicher Anwalt] | [zulässiger Export und Abgleich] |
+| Originalnachrichten und Anlagen | [Ablage] | [Quellenkennung, Sicherung, Zugriffsrechte] |
+| Dokumentfassungen | [System] | [Versionskennung und Freigabenachweis] |
+| Honorar und Rechnungsnummern | [System] | [Entwurf getrennt von ausgegebener Rechnung] |
+| Buchhaltung und Fremdgeld | [System und Zuständigkeit] | [keine automatische Verrechnung] |
+
+## 1.9. Konten und Computersitzungen
+
+| Konto oder App | Erlaubter Bereich und Tätigkeit | Verantwortlicher und Grenze |
+| --- | --- | --- |
+| [Gmail oder anderes Geschäftspostfach] | [Ordner, Zeitraum, Lesen oder Entwurf] | [Name, Ablaufzeit; Versand gesondert] |
+| [Outlook oder geteiltes Postfach] | [Konto, Absenderrecht, Mandate] | [Name; keine privaten Ordner] |
+| [beA mit nachgewiesener SAFE-ID] | [Empfang und Vorbereitung] | [Postfachinhaber; Schlussakt und eEB menschlich] |
+| [lokale Dateien] | [konkrete Ordner, Lesen oder interne Bearbeitung] | [Name; Originale unverändert] |
+
+Passwörter, PIN, Token, Zertifikate und Wiederherstellungscodes werden hier nicht gespeichert. Ohne bestätigte reale Sitzung werden nur bereitgestellte Dateien oder synthetische Daten verwendet. „Voller Zugriff“ ist keine Freigabe aller Konten oder unbekannter künftiger Nachrichten. Die tatsächlichen Rechte werden in den jeweiligen Systemen geprüft und begrenzt.
+
+## 1.10. Ausfall, Vertretung und Rückkehr
+
+Bei Ausfall von [System] übernimmt [Name, sicher hinterlegte Erreichbarkeit] die Eingangskontrolle und Fristensicherung über [zulässiger Ersatzweg]. Die letzte getestete Wiederherstellung einer Akte erfolgte am [Datum] in [isoliertes Ziel]; Nachweis: [Pfad]. Fehlt der Test, ist die Wiederherstellung nicht als gesichert bestätigt. Ein unklarer Versand wird abgeglichen und nicht blind wiederholt. Am Arbeitsende übernimmt [Name] offene Fristen und unklare Vorgänge.
+
+## 1.11. Tatsächliche Inbetriebnahme
+
+Der Probemandatslauf vom [Datum] wurde durch [Name] geprüft. Nachgewiesen sind [konkrete interne Schritte und Dateipfade]. Noch nicht geprüft sind [etwa echter Postfachzugriff, Versand, gerichtlicher Eingang]. Erlaubt ist vorerst [genau abgegrenzter Teilbetrieb]. Diese Festlegung ist keine Zulassungs-, Sicherheits- oder Rechtskonformitätsbescheinigung. Einmalige Ausführung bedeutet keine eingerichtete Dauerüberwachung.

@@ -36,9 +36,14 @@
       "words_without_frontmatter": 6789
     },
     {
+      "skill": "kanzlei-gruenden-einrichten",
+      "sha256": "428e7a9d7e65696164eb05d87945104321c7b71b5c06774972171d6a9bda04f9",
+      "words_without_frontmatter": 1492
+    },
+    {
       "skill": "ki-kanzlei-steuern",
-      "sha256": "79fb06e5a74b83aa0596c5eac69468b876d30e7fe56ce3d8fccb037fd16892bb",
-      "words_without_frontmatter": 6736
+      "sha256": "28f7748d30f4cba077fd96bc001b27e22104437fbe72d36212987e85c87f55d9",
+      "words_without_frontmatter": 6836
     },
     {
       "skill": "mandantenkommunikation",
@@ -54,6 +59,11 @@
       "skill": "mandatsannahme-interessenkollision",
       "sha256": "6904e347837a4fbb212a641984535c1328737909b4116de681f69062e996324b",
       "words_without_frontmatter": 6712
+    },
+    {
+      "skill": "posteingang-mandate-zuordnen",
+      "sha256": "2a19191c85e87387283d5d895ce36be1f9eee30647b5c5f05c7da3b11a71afaf",
+      "words_without_frontmatter": 1569
     },
     {
       "skill": "recht-recherchieren",
@@ -93,19 +103,19 @@
   ],
   "prompts": {
     "schnellstart": {
-      "utf8_bytes": 7472,
-      "words": 826
+      "utf8_bytes": 7419,
+      "words": 811
     },
     "hauptproblem": {
-      "utf8_bytes": 7493,
-      "words": 827
+      "utf8_bytes": 7497,
+      "words": 820
     },
     "werkstatt": {
-      "utf8_bytes": 121006,
-      "words": 14117
+      "utf8_bytes": 126144,
+      "words": 14710
     }
   },
-  "cases_in_profile": 13,
-  "criteria_in_profile": 52,
+  "cases_in_profile": 15,
+  "criteria_in_profile": 60,
   "all_checks": "passed"
 }

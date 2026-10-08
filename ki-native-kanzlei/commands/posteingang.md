@@ -3,7 +3,7 @@ description: "Freigegebene Eingänge aus Datei oder Postfach sichern, einer Akte
 argument-hint: "Akte und Dokument oder freigegebenes Konto mit Eingangszeitraum"
 ---
 
-Führe den Posteingangsablauf der [Kanzleialltag-Referenz](../references/kanzleialltag-workflows.md) und bei Appzugriff die [Computersteuerungsreferenz](../references/computersteuerung-und-postfaecher.md) aus. Bei beA gilt ergänzend der [beA-Ablauf](../references/bea-versand-empfang.md). Übernimm einen gültigen Sitzungsauftrag. Fehlt er, kläre für Postfachzugriff Modus, Konto, Umfang und Dauer; ohne realen Auftrag verwende nur bereitgestellte Dateien oder Testdaten.
+Führe [Posteingang zu Mandaten bearbeiten](../skills/posteingang-mandate-zuordnen/SKILL.md) und bei Appzugriff die [Computersteuerungsreferenz](../references/computersteuerung-und-postfaecher.md) aus. Bei beA gilt ergänzend der [beA-Ablauf](../references/bea-versand-empfang.md). Übernimm einen gültigen Sitzungsauftrag. Fehlt er, kläre für Postfachzugriff Modus, Konto, Umfang und Dauer; ohne realen Auftrag verwende nur bereitgestellte Dateien oder Testdaten. Erfasse Suchfilter, letzte vollständig bearbeitete Nachricht und offene Anhänge; unvollständige Suchergebnisse gelten nicht als vollständiger Eingangskorb.
 
 Eingabe: $ARGUMENTS
 

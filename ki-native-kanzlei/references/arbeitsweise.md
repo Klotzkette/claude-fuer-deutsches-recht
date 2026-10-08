@@ -59,7 +59,13 @@ Je Mandat wird ein [Mandatslauf](mandatslauf-und-freigaben.md) geführt: Phase, 
 Die wiederkehrenden Abläufe einer Kanzlei (Tagesstart, neue Anfrage, Posteingang, Fristsache, Schriftsatz, Vertragsprojekt, Mandantenbrief, Zeiten, Wochenabschluss, Abrechnung, Zahlungen, Übergabe, Mandatsende, Freigabe) beschreibt die [Kanzleialltag-Referenz](kanzleialltag-workflows.md). In Claude Cowork und Claude Code starten die Befehle im Ordner `commands` diese Abläufe; `mandatslauf.py cockpit` ordnet alle Mandate eines Kanzleiordners nach Dringlichkeit. In ChatGPT übernehmen ein Projekt mit dem Mini-Prompt als Anweisung und ein Statusblock je Antwort dieselbe Funktion. Die Einrichtung beschreibt [ChatGPT und Claude Cowork einrichten](chatgpt-und-cowork-einrichtung.md).
 
 
-## 1.11. Ausführung im freigegebenen Computerlauf
+## 1.11. Kanzleistart und neue Post
+
+Bei einer Neugründung beginnt [Kanzlei gründen und einrichten](../skills/kanzlei-gruenden-einrichten/SKILL.md) mit den vorhandenen Organisationsunterlagen. Der Befehl `/kanzlei-starten` erstellt daraus Zuständigkeiten, führende Systeme, einen begrenzten Zugriffsrahmen und ein Probeprotokoll. Eine zusätzliche lokale Datenbank ersetzt keine bestehende Kanzleisoftware und keinen führenden Fristenkalender. Die Freigabe für echte Mandatsdaten setzt die gesonderte Prüfung von Berufsrecht, Dienstleisterbedingungen und Schutzmaßnahmen voraus.
+
+[Posteingang zuordnen](../skills/posteingang-mandate-zuordnen/SKILL.md) übernimmt neue Nachrichten mit ihren Originalen und Anhängen. Nachricht, Anlage, Mandant und Mandat bleiben verschiedene Einheiten. Ein Suchergebnis ist kein Nachweis über das gesamte Postfach. Nach Unterbrechung werden letzte vollständig bearbeitete Nachricht, offene Anhänge und Suchgrenzen übernommen; unklare Zuordnungen werden nicht geraten.
+
+## 1.12. Ausführung im freigegebenen Computerlauf
 
 Die Stufen 0 bis 3 bestimmen weiterhin die interne Arbeitstiefe. Ein [Computerlauf](computersteuerung-und-postfaecher.md) ist eine zusätzliche, ausdrücklich gewählte Sitzung mit eigenen Grenzen für Anwendungen, Konten, Mandate, erlaubte Aktionen und Dauer. Die lokale [CLI](computerlauf-cli.md) dokumentiert diesen Rahmen; sie schaltet keine Anwendung frei und ersetzt keine Rechteprüfung.
 
