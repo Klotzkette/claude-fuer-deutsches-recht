@@ -19,6 +19,7 @@ Prüfstand: 9. Oktober 2026. Gegenstand sind die vier Befundklassen des Import- 
 - Neue Paketregressionen: neun Tests bestanden; darunter bytegleicher Wiederholungsbau, veraltete Skills, zusätzliche Dateien, Manifestfeld, Versionszuordnung, Schreibschutz, Lizenzmitnahme und Symlink-Abweisung.
 - Katalogbudget: fünf Tests bestanden. Die bisherige Basis von 287 Plugins, 23000 Skills und 3630000 Beschreibungszeichen bleibt bestehen. Für 296 Plugins ergeben sich proportional 23721 Skills und 3743832 Beschreibungszeichen. Tatsächlich vorhanden: 23238 und 3697127. Einzelplugin-, Dateigrößen- und Zeilengrenzen bleiben unverändert.
 - App-Integration: 16 Tests bestanden; Start- und Fortsetzungsregressionen: elf bestanden; Komponentenrouting: sechs bestanden.
+- Bauvergabe: zehn Tests bestanden; Immobilien-Rechtsabteilung und Versandwerkstatt: acht Tests bestanden. Beide Suiten prüfen Komponentenversionen gegen den jeweiligen Marketplace-Eintrag und dessen explizite Release-Zuordnung. Bereits auf main vorhandene Auswahlbeschreibungen bleiben durch eigene Dateihashes geschützt; die unveränderte ursprüngliche Lieferung bleibt zusätzlich erhalten.
 - Grundstücksrecherche: 109 Anwendungstests bestanden; ein ausdrücklich zu aktivierender Liveabruf nicht ausgeführt. Browserprüfungen laufen zusätzlich im bestehenden Anwendungsworkflow.
 - Hauptverzeichnis und Fachgebietsübersicht: Bestandszahlen, Sortierung und Paketversionen abgeglichen. Keine Änderungen an Testakten.
 

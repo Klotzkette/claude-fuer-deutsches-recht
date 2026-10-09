@@ -21,6 +21,7 @@ from bauvergabe_falldaten import CASES, PLUGINS, STAGES, total
 from bauvergabe_aktentexte import documents
 from prompt_profiles import validate_files
 from quality_lab import validate_profile
+from release_routing import validate_plugin_version
 from testakte_zip_common import working_dump_archive_pairs, preserves_directories
 from testakte_disclaimer import NOTICE_BYTES
 from testakte_einzelpdf_common import document_arcname_pairs
@@ -60,13 +61,14 @@ class Bauvergabe(unittest.TestCase):
         for slug in PLUGINS:
             with self.subTest(plugin=slug):
                 self.assertEqual(entries[slug]['source'],'./bauvergabe/'+slug)
+                validate_plugin_version(entries[slug], market['version'], root=ROOT)
                 p=ROOT/entries[slug]['source']
                 skills=list((p/'skills').glob('*/SKILL.md'))
                 self.assertEqual(len(skills),11)
                 for kind in ('.claude-plugin','.codex-plugin'):
                     m=json.loads((p/kind/'plugin.json').read_text())
                     self.assertEqual(m['name'],slug)
-                    self.assertEqual(m['version'],market['version'])
+                    self.assertEqual(m['version'],entries[slug]['version'])
                 self.assertEqual(validate_files(p,slug,ROOT),[])
                 profile=json.loads((ROOT/'quality/evals'/f'{slug}.json').read_text())
                 validate_profile(profile,slug,p,ROOT)

@@ -15,6 +15,7 @@ from urllib.parse import unquote, urlsplit
 from markdown_it import MarkdownIt
 from pypdf import PdfReader
 from testakte_disclaimer import NOTICE_BYTES
+from release_routing import validate_plugin_version
 
 ROOT = Path(__file__).resolve().parents[1]
 SPEC = importlib.util.spec_from_file_location(
@@ -23,6 +24,23 @@ SPEC = importlib.util.spec_from_file_location(
 BUILD = importlib.util.module_from_spec(SPEC)
 SPEC.loader.exec_module(BUILD)
 P, B, PROJECT = BUILD.PLUGIN, BUILD.COMPANION, BUILD.PROJECT
+
+# Bereits auf main geprüfte Importkorrektur und präzisierte Auswahlbeschreibungen.
+# Alle anderen Quelldateien müssen weiterhin dem unveränderten Original entsprechen.
+APPROVED_SKILL_HASHES = {
+    f"{P}/skills/06-fallziel-renofa-triage/SKILL.md": "1edb304ffa52184628ccf7990e5f5ca88c9d3de29b48c142cb348b644b95b66e",
+    f"{P}/skills/33-dokumentenmix-ocr-sichten/SKILL.md": "960fd8e6a893f5aafc5489d26293dc53a5c4ef1129f8dd57bf484d77f3c14950",
+    f"{P}/skills/39-beweisangebot-anlagenplan/SKILL.md": "1e63d3450ada16ba78c0471c7210f7a595e9065c00b1e3bfd1c46c5183c40254",
+    f"{B}/skills/01-bea-ordner-annahme/SKILL.md": "2e4f5b85a4b8d71465231c1a9307ae8b65b8e1aab021bc64cc82c5f7605ce905",
+    f"{B}/skills/02-schriftsatzversion-festlegen/SKILL.md": "435e4f5b53df919d40d3852ecc065407c96688e525197fdc59ad0f640d30a0fe",
+    f"{B}/skills/03-anlagenfolge-kennzeichnen/SKILL.md": "96a58b8f150cd99c9836dc4a266a68da2c0f24d9e1101383a40758de5b4ae503",
+    f"{B}/skills/04-dateien-in-pdf-umwandeln/SKILL.md": "1df2ddbc889173835f42f9ee3fd76ed459d83bc909779c76bd1805dd92212f57",
+    f"{B}/skills/05-pdf-qualitaet-pruefen/SKILL.md": "00c08ab3164a023a5897251aba8676f7339c1c624209a74936111afe7c0d5efb",
+    f"{B}/skills/06-dateinamen-manifest-erzeugen/SKILL.md": "3c3abe9d783f345d070f03cbc92b46dcfae84f8225cbfe912755c89af9b88f6b",
+    f"{B}/skills/07-signatur-versandweg-pruefen/SKILL.md": "9836c6f6590f95fd9f2cf64dbaae8cf0a7edb23495d56e0c7c3f2df2f8d22bd1",
+    f"{B}/skills/08-bea-paket-freigeben/SKILL.md": "d2aeb080d33bc472f8068bc5e06c08b0fa1ee04f14395669247db80266934db8",
+    f"{B}/skills/09-eingang-versandakte-sichern/SKILL.md": "0005fe7df61450ca467944b303682a326fc3dc76e6675237d38642b63b24cae9",
+}
 
 
 class ImportTests(unittest.TestCase):
@@ -57,8 +75,9 @@ class ImportTests(unittest.TestCase):
                     relative = item.filename.removeprefix(old + "/")
                     target = ROOT / new / relative
                     self.assertTrue(target.is_file(), relative)
-                    if relative == "skills/06-fallziel-renofa-triage/SKILL.md":
-                        self.assertIn("wird nicht unterstellt", target.read_text())
+                    expected = APPROVED_SKILL_HASHES.get(f"{new}/{relative}")
+                    if expected:
+                        self.assertEqual(hashlib.sha256(target.read_bytes()).hexdigest(), expected, relative)
                     else:
                         self.assertEqual(
                             target.read_bytes(), archive.read(item), relative
@@ -72,7 +91,8 @@ class ImportTests(unittest.TestCase):
                 (ROOT / name / ".claude-plugin/plugin.json").read_text()
             )
             self.assertEqual(manifest["name"], name)
-            self.assertEqual(manifest["version"], marketplace["version"])
+            self.assertEqual(manifest["version"], entries[name]["version"])
+            validate_plugin_version(entries[name], marketplace["version"], root=ROOT)
             self.assertEqual(entries[name]["source"], "./" + name)
             self.assertLessEqual(len(name), 64)
             self.assertLessEqual(len(manifest["description"]), 300)

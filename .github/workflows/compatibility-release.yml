@@ -24,6 +24,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: kompatibilitaet-${{ github.event.inputs.tag || github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   check:
     runs-on: ubuntu-latest
@@ -41,7 +45,7 @@ jobs:
           node-version: '22'
       - name: Prüfwerkzeuge installieren
         run: |
-          python3 -m pip install PyYAML jsonschema markdown-it-py -r grundstuecksrecherche/app/requirements.txt
+          python3 -m pip install PyYAML jsonschema markdown-it-py openpyxl pypdf reportlab -r grundstuecksrecherche/app/requirements.txt
           npm install --global @anthropic-ai/claude-code@2.1.168
       - name: Struktur, Katalog und Qualitätsprofile prüfen
         run: |
@@ -56,6 +60,9 @@ jobs:
           python3 scripts/test-runtime-performance.py
           python3 scripts/test-compatibility-release.py
           python3 scripts/test-scoped-release-routing.py
+          python3 scripts/test-bauvergabe.py
+          python3 scripts/test-rechtsabteilung-immobilien.py
+          python3 scripts/test-vergaberecht-import.py
           python3 scripts/test-app-only-integration.py
           python3 scripts/test-portable-starts.py
           python3 -m unittest discover -s grundstuecksrecherche/tests -p 'test_*.py'
