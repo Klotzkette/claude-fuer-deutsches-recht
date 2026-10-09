@@ -1,0 +1,157 @@
+name: Drohnenfriseur Berlin – Gesellschaftervereinbarung
+plugin: gesellschaftervereinbarung
+stand: '2026-10-09'
+description: Strukturprüfung der 22 Originaldateien und offene Kriterien für eine spätere Bearbeitung der Finanzierungsvereinbarung.
+pruefstatus: Die Dateiprüfungen bewerten ausschließlich den Bestand. Die fachliche Bewertung einer erzeugten Bearbeitung ist offen; eine neue juristische Prüfung oder Freigabe wird nicht behauptet.
+checks:
+- id: original-01-term-sheet
+  check_type: file_exists
+  description: Das bearbeitbare Term Sheet ist vorhanden.
+  path: 01_Term_Sheet_SkyFade.docx
+- id: original-02-ausfuellfassung
+  check_type: file_exists
+  description: Die fallbezogene Ausfüllfassung der Gesellschaftervereinbarung ist vorhanden.
+  path: 02_Gesellschaftervereinbarung_Ausfuellfassung.docx
+- id: original-03-gesellschaftsordner
+  check_type: file_exists
+  description: Der Auszug aus dem Gesellschaftsordner ist vorhanden.
+  path: 03_Gesellschaftsordner_Auszug.pdf
+- id: original-04-beteiligungsuebersicht
+  check_type: file_exists
+  description: Die Übersicht über die bestehenden Beteiligungen ist vorhanden.
+  path: 04_Beteiligungsuebersicht_Bestand.pdf
+- id: original-05-investitionsausschuss
+  check_type: file_exists
+  description: Die Unterlage des Investitionsausschusses von GHI ist vorhanden.
+  path: 05_Investitionsausschuss_GHI.pdf
+- id: original-06-entwicklungsvertrag
+  check_type: file_exists
+  description: Der Entwicklungsvertrag mit Pixelhagen ist vorhanden.
+  path: 06_Entwicklungsvertrag_Pixelhagen.pdf
+- id: original-07-sicherheitsbericht
+  check_type: file_exists
+  description: Der Sicherheitsbericht zum Modellversuch ist vorhanden.
+  path: 07_Sicherheitsbericht_Modellversuch.pdf
+- id: original-08-deckungsanfrage
+  check_type: file_exists
+  description: Die Antwort auf die Deckungsanfrage ist vorhanden.
+  path: 08_Deckungsanfrage_Antwort.pdf
+- id: original-09-standortangebot
+  check_type: file_exists
+  description: Das Standortangebot für den Pilotversuch ist vorhanden.
+  path: 09_Standortangebot_Pilot.pdf
+- id: original-10-gruenderrunde
+  check_type: file_exists
+  description: Das Protokoll der Gründerrunde ist vorhanden.
+  path: 10_Gruenderrunde_Protokoll.pdf
+- id: original-11-mandatsauftrag
+  check_type: file_exists
+  description: Die E-Mail mit dem Mandatsauftrag ist vorhanden.
+  path: 11_Mandatsauftrag.eml
+- id: original-12-investorrueckfragen
+  check_type: file_exists
+  description: Die E-Mail mit den Rückfragen des Investors ist vorhanden.
+  path: 12_Investor_Rueckfragen.eml
+- id: original-13-erloesmodell
+  check_type: file_exists
+  description: Die E-Mail zum Erlösmodell von JKL ist vorhanden.
+  path: 13_JKL_Erloesmodell.eml
+- id: original-14-notariat
+  check_type: file_exists
+  description: Die E-Mail des Notariats zur Vorbereitung ist vorhanden.
+  path: 14_Notariat_Vorbereitung.eml
+- id: original-15-pixelhagen-nachtrag
+  check_type: file_exists
+  description: Die E-Mail zum offenen Nachtrag mit Pixelhagen ist vorhanden.
+  path: 15_Pixelhagen_Nachtrag.eml
+- id: original-16-versicherungsvermittlung
+  check_type: file_exists
+  description: Die E-Mail der Versicherungsvermittlung ist vorhanden.
+  path: 16_Versicherungsvermittlung.eml
+- id: original-17-business-angel
+  check_type: file_exists
+  description: Die E-Mail des Business Angels ist vorhanden.
+  path: 17_Business_Angel.eml
+- id: original-18-gruenderchat
+  check_type: file_exists
+  description: Der Nachrichtenexport der beiden Gründer ist vorhanden.
+  path: 18_Gruenderchat.txt
+- id: original-19-einzahlungen
+  check_type: file_exists
+  description: Das Journal der historischen Einzahlungen ist vorhanden.
+  path: 19_Historische_Einzahlungen.csv
+- id: original-20-rechteverzeichnis
+  check_type: file_exists
+  description: Das Verzeichnis der technischen Bestandteile und Rechtebelege ist vorhanden.
+  path: 20_Rechteverzeichnis.csv
+- id: original-21-terminnotiz
+  check_type: file_exists
+  description: Die Mandats- und Terminnotiz ist vorhanden.
+  path: 21_Terminnotiz.txt
+- id: original-22-finanzierungsplan
+  check_type: file_exists
+  description: Die Arbeitsmappe zu Kapital, Tranchen und Budget ist vorhanden.
+  path: 22_Kapital_und_Finanzierungsplan.xlsx
+- id: fach-auftrag
+  check_type: human_review
+  description: >-
+    Klärt die Bearbeitung anhand von Mandatsauftrag, Gründerchat und Terminnotiz
+    die gemeinsame Beratung der beiden Gründer, ihre möglichen Interessengegensätze
+    und die noch offenen Vollmachten, ohne Gesellschaft oder Investoren als
+    mitbeauftragt anzusehen oder Unterlagen ungefragt weiterzuleiten?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-unterlagen
+  check_type: human_review
+  description: >-
+    Werden Term Sheet, Ausfüllfassung, Gesellschaftsunterlagen und Korrespondenz
+    zuerst abgeglichen, die bestehende GmbH von überholten Gründungsangaben
+    unterschieden und offene Verhandlungsentscheidungen gezielt nachgefragt?
+    Bleiben fünf Beiratssitze, ein möglicher unabhängiger Vorsitz, die verlangte
+    Verlängerung der Exklusivität und die Rechte des Business Angels als
+    abzustimmende Punkte sichtbar, während unabhängige Vertragsabschnitte
+    vollständig ausformuliert werden?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-kapital-und-tranchen
+  check_type: human_review
+  description: >-
+    Gleicht die Bearbeitung Bestandsbeteiligungen, historische Einzahlungen,
+    Arbeitsmappe und beide neuen Tranchen ab und trennt zugesagte Finanzierung,
+    tatsächliche Zahlung, Nennkapital, Aufgeld und Eintragung?
+    Werden die noch ausstehende erste Einzahlung, Bedingungen und Nachweise der
+    zweiten Tranche sowie Rangfolge, Wahl und Berechnungsbasis der Erlösvorrechte
+    anhand der unterschiedlichen Parteipositionen behandelt, ohne offene
+    Entscheidungen oder künftige Zahlungen als bereits feststehend anzusetzen?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-gruenderbindung
+  check_type: human_review
+  description: >-
+    Werden das konkret zu bindende Anteilspaket, bisherige Entwicklungsarbeit,
+    zeitliche Freigabe und besondere Lebenslagen der Gründer geklärt?
+    Prüft die Bearbeitung Anlass, Preis und Ausübung einer Erwerbsoption getrennt
+    und entwickelt sie ausformulierte verhandelbare Regelungen, ohne eine
+    ungeklärte Gründerentscheidung zu ersetzen oder fremde Beteiligungsmodelle
+    ungeprüft zu übertragen?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-rechte-und-meilensteine
+  check_type: human_review
+  description: >-
+    Werden Entwicklungsvertrag, Rechteverzeichnis und Pixelhagen-Nachtrag
+    abgeglichen und interne Nutzung, Nutzung im Kundenprodukt, Weitergabe,
+    vorbestehende Bibliothek und Rechte an Drittkomponenten unterschieden?
+    Bleiben fehlende Nachweise und Vereinbarungen konkret offen, und werden
+    technische Meilensteine mit Modellversuch, Versicherungsstand und
+    Standortangebot abgestimmt, ohne umfassende Rechte oder eine Freigabe
+    für den Personenbetrieb als bereits gesichert darzustellen?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
+- id: fach-notar-und-vollzug
+  check_type: human_review
+  description: >-
+    Bereitet die Bearbeitung einen konkreten Notarauftrag mit Parteien,
+    Vertretungsnachweisen, geltender Satzung, Gesellschafterliste, maßgeblichen
+    Anlagen und gelösten Varianten vor und behandelt sie die Formprüfung
+    einschließlich Übertragungs- und Rückerwerbsregelungen?
+    Werden die zweite Kapitalerhöhung, ihre Voraussetzungen und ihr Vollzug
+    eindeutig eingeordnet und Haupttext sowie Anlagen auf Widersprüche geprüft,
+    ohne Datenraum-PDFs als beurkundete Anlagen oder die offene Ausfüllfassung
+    als unterschriftsreife Endfassung auszugeben?
+  note: Offene Fachprüfung einer späteren Bearbeitung; kein automatisch bestandenes Ergebnis.
