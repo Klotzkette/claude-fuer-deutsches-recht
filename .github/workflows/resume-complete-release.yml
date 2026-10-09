@@ -1,0 +1,57 @@
+name: Geprüftes Gesamtrelease veröffentlichen
+
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: read
+  contents: write
+
+concurrency:
+  group: release-plugin-zips-v445.35.3
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          path: control
+          sparse-checkout: scripts
+
+      - name: Wiederaufnahme regressionsprüfen
+        run: python3 control/scripts/test-resume-complete-release.py
+
+      - name: Herkunft und erfolgreiche Paketprüfungen nachweisen
+        id: source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 control/scripts/resume-complete-release.py inspect
+
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ steps.source.outputs.sha }}
+          path: source
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /scripts/
+            /.claude-plugin/
+            /testakten/*/README.md
+
+      - name: Fertiges Build-Artefakt übernehmen
+        uses: actions/download-artifact@v4
+        with:
+          artifact-ids: ${{ steps.source.outputs.artifact_id }}
+          run-id: ${{ steps.source.outputs.run_id }}
+          github-token: ${{ github.token }}
+          path: saved
+          merge-multiple: true
+
+      - name: Jede Paketdatei gegen die gesicherten Prüfsummen prüfen
+        run: python3 control/scripts/resume-complete-release.py restore --artifact-root saved --source source --staging staging
+
+      - name: Unveränderte Pakete veröffentlichen und kontrollieren
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 control/scripts/resume-complete-release.py publish --source source --staging staging

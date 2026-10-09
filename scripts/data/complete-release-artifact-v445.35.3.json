@@ -1,0 +1,72 @@
+{
+  "source_commit": "f200d37cc89ca3c5b060c3fcb5bba4da015dba42",
+  "run_id": 37988454717,
+  "artifact_id": 11645799244,
+  "artifact_digest": "sha256:f5aad0762be928640c35edd384e58c59e29c971cc32a71f2a473d32facb23c9c",
+  "artifact_bytes": 4185788529,
+  "checksums": {
+    "dist/checksums-sha256.txt": {
+      "size": 164886,
+      "sha256": "b9efbdc31c88924dafd10f177006ee53c3e5bf94d84d5b94eb6858b4991cfc8d"
+    },
+    "release-staging/companion-2/checksums-sha256.txt": {
+      "size": 3711,
+      "sha256": "e85ac67c535fae165c7bebaec029cd7c3a8636990503c7569d4d623a68c32e0d"
+    },
+    "release-staging/companion/checksums-sha256.txt": {
+      "size": 131301,
+      "sha256": "dd9f89a9121ad849c9f47e9ac6d7a9378e697c917f1fa4d08a43ad75079a08b6"
+    },
+    "release-staging/main/checksums-sha256.txt": {
+      "size": 29874,
+      "sha256": "6890b9fdf216627ae42b7ce879b0a38cc5b13754e5d0acb55a33ef89e81ce2c5"
+    }
+  },
+  "group_assets_including_checksums": {
+    "main": 313,
+    "companion": 999,
+    "companion-2": 27
+  },
+  "dist_hashed_assets": 1336,
+  "repo": "Klotzkette/claude-fuer-deutsches-recht",
+  "tag": "v445.35.3",
+  "required_steps": [
+    "Set up job",
+    "Checkout",
+    "Unveränderlichen Quellstand bestimmen",
+    "Validator",
+    "Python-Abhängigkeiten installieren",
+    "Lokale Grundstücksrecherche prüfen",
+    "Versionsstände und Prüfprofile vor dem PDF-Build prüfen",
+    "Layoutgetreue Office-PDF-Konvertierung bereitstellen",
+    "YAML-Frontmatter validieren",
+    "Marketplace-Import validieren",
+    "Laufzeitbudgets der Plugins validieren",
+    "Qualitätslabor offline prüfen (keine Modellläufe)",
+    "Technischen Testaktenbestand prüfen (keine Modellbewertung)",
+    "Release- und PDF-Helfer testen",
+    "Skill-Aktivierungssignale prüfen",
+    "Geprüfte Gesamt-PDFs der Testakten validieren",
+    "Keine Markdown-Aktenstücke in Testakten validieren",
+    "CSV-Aktenstücke validieren",
+    "Geprüfte Werkstatt- und Schnellstart-Prompts validieren",
+    "Root- und Index-Übersichten gegen Marketplace validieren",
+    "Textquellen und vorhandene PDFs gegen den Tag prüfen",
+    "Liste aller Plugins aus marketplace.json lesen",
+    "ZIPs bauen",
+    "Release-ZIPs validieren",
+    "Portable Grundstücksrecherche ohne Vorgangsdaten bauen",
+    "Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)",
+    "Testakten-Release-ZIPs validieren",
+    "Einzel-PDF-ZIPs der Testakten bauen (jede Unterlage als eigene PDF)",
+    "Einzel-PDF-ZIPs validieren",
+    "Bauwirtschaftliche Originale und veröffentlichbare Akten abgleichen",
+    "Skill-Markdown-Bundles bauen (echte Downloads pro Plugin)",
+    "Prompt-Verpackung validieren",
+    "Pluginlokale Testakten-Bundles bauen",
+    "Sammel-ZIPs bauen",
+    "Checksums erzeugen",
+    "Fertige Assets nach Haupt- und Begleitrelease aufteilen",
+    "Tag bestimmen"
+  ]
+}

@@ -619,6 +619,102 @@ class PublicationTests(Fixture):
             self.publish()
         self.assertEqual(self.execute.call_count, 6)
 
+    def test_created_tag_waits_for_visibility_without_repeating_post(self):
+        for lost_response in (False, True):
+            with self.subTest(lost_response=lost_response):
+                self.gh = FakeGitHub()
+                created, hidden_reads = False, 0
+                def delayed(command):
+                    nonlocal created, hidden_reads
+                    result = self.gh.run(command)
+                    if "POST" in command:
+                        created = True
+                        return (subprocess.CompletedProcess(command, 1, "", "lost response")
+                                if lost_response else result)
+                    if created and command[:2] == ["gh", "api"] and "/git/ref/tags/" in command[2] and hidden_reads < 2:
+                        hidden_reads += 1
+                        return subprocess.CompletedProcess(command, 1, "", "gh: Not Found (HTTP 404)")
+                    return result
+                with patch.object(PUBLISH, "run", side_effect=delayed), patch("time.sleep") as sleep:
+                    PUBLISH.ensure_companion("owner/repo", TAG, f"v{VERSION}", SHA)
+                self.assertEqual(hidden_reads, 2)
+                self.assertEqual(sleep.call_count, 2)
+                self.assertTrue(all(0 < call.args[0] <= 60 for call in sleep.call_args_list))
+                self.assertEqual(sum("POST" in cmd for cmd in self.gh.commands), 1)
+                self.assertEqual(self.gh.refs[TAG], {"type": "commit", "sha": SHA})
+                self.assertTrue(self.gh.releases[TAG]["isDraft"])
+
+    def test_tag_creation_timeout_can_be_confirmed_without_repeating_post(self):
+        def timed_out(command):
+            result = self.gh.run(command)
+            if "POST" in command:
+                raise subprocess.TimeoutExpired(command, 300)
+            return result
+        with patch.object(PUBLISH, "run", side_effect=timed_out), patch("time.sleep") as sleep:
+            PUBLISH.ensure_companion("owner/repo", TAG, f"v{VERSION}", SHA)
+        self.assertEqual(sum("POST" in cmd for cmd in self.gh.commands), 1)
+        self.assertEqual(self.gh.refs[TAG]["sha"], SHA)
+        sleep.assert_not_called()
+
+    def test_created_tag_remaining_invisible_stops_after_five_reads(self):
+        created, reads = False, 0
+        def invisible(command):
+            nonlocal created, reads
+            result = self.gh.run(command)
+            if "POST" in command:
+                created = True
+            elif created and command[:2] == ["gh", "api"] and "/git/ref/tags/" in command[2]:
+                reads += 1
+                return subprocess.CompletedProcess(command, 1, "", "gh: Not Found (HTTP 404)")
+            return result
+        with patch.object(PUBLISH, "run", side_effect=invisible), patch("time.sleep") as sleep:
+            with self.assertRaisesRegex(RuntimeError, "after 5"):
+                PUBLISH.ensure_companion("owner/repo", TAG, f"v{VERSION}", SHA)
+        self.assertEqual(reads, 5)
+        self.assertEqual(sleep.call_count, 4)
+        self.assertFalse(self.gh.releases)
+        self.assertEqual(sum("POST" in cmd for cmd in self.gh.commands), 1)
+
+    def test_delayed_wrong_tag_commit_is_rejected_without_change(self):
+        created, reads = False, 0
+        def wrong_commit(command):
+            nonlocal created, reads
+            result = self.gh.run(command)
+            if "POST" in command:
+                created = True
+                self.gh.refs[TAG] = {"type": "commit", "sha": "d" * 40}
+            elif created and command[:2] == ["gh", "api"] and "/git/ref/tags/" in command[2]:
+                reads += 1
+                if reads == 1:
+                    return subprocess.CompletedProcess(command, 1, "", "gh: Not Found (HTTP 404)")
+            return result
+        with patch.object(PUBLISH, "run", side_effect=wrong_commit), patch("time.sleep") as sleep:
+            with self.assertRaisesRegex(ValueError, "not changed"):
+                PUBLISH.ensure_companion("owner/repo", TAG, f"v{VERSION}", SHA)
+        self.assertEqual(reads, 2)
+        sleep.assert_called_once()
+        self.assertEqual(self.gh.refs[TAG]["sha"], "d" * 40)
+        self.assertFalse(self.gh.releases)
+        self.assertEqual(sum("POST" in cmd for cmd in self.gh.commands), 1)
+        self.assertNotIn("DELETE", sum(self.gh.commands, []))
+        self.assertNotIn("--force", sum(self.gh.commands, []))
+
+    def test_post_creation_lookup_permission_error_is_not_visibility_retry(self):
+        created = False
+        def forbidden(command):
+            nonlocal created
+            result = self.gh.run(command)
+            if "POST" in command:
+                created = True
+            elif created and command[:2] == ["gh", "api"] and "/git/ref/tags/" in command[2]:
+                return subprocess.CompletedProcess(command, 1, "", "HTTP 403")
+            return result
+        with patch.object(PUBLISH, "run", side_effect=forbidden), patch("time.sleep") as sleep:
+            with self.assertRaisesRegex(RuntimeError, "HTTP 403"):
+                PUBLISH.ensure_companion("owner/repo", TAG, f"v{VERSION}", SHA)
+        sleep.assert_not_called()
+        self.assertFalse(self.gh.releases)
+
     def test_ensure_existing_companion_retry_does_not_change_latest(self):
         self.gh.refs[TAG] = {"type": "commit", "sha": SHA}
         for draft in (True, False):
