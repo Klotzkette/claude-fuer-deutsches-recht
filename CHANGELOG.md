@@ -6,7 +6,7 @@ Neun Plugins erhalten ein abgegrenztes Reparaturrelease. Die Grundstücksrecherc
 
 ## 2. Prüfungen und dauerhafte Sicherungen
 
-Alle 293 Plugins und der Marketplace bestehen die strikte Herstellerprüfung. Komponentenversionen und Downloadziele werden auch in der verschachtelten Vergaberecht-Werkstatt korrekt geprüft. Der Release-Bau kontrolliert Paketversion, Quellenbestand, Prüfsummen und Herkunft vom Hauptbranch; veröffentlichte Releases werden nicht überschrieben. Werkstatt-, Schnellstart- und Hauptproblemdateien bleiben außerhalb der installierbaren Pakete.
+Die Herstellerprüfung erfasst den Marketplace und nach Übernahme der zwischenzeitlich veröffentlichten Fachrunde alle 296 Plugins. Komponentenversionen und Downloadziele werden auch in der verschachtelten Vergaberecht-Werkstatt korrekt geprüft. Der Release-Bau kontrolliert Paketversion, Quellenbestand, Prüfsummen und Herkunft vom Hauptbranch; veröffentlichte Releases werden nicht überschrieben. Werkstatt-, Schnellstart- und Hauptproblemdateien bleiben außerhalb der installierbaren Pakete.
 
 Die AGB-Werkstatt und die Kanzlei-Website-Redaktion erhalten individuelle Qualitätsprofile mit jeweils drei fachbezogenen Prüffällen. Die Kataloggrenze wächst anhand der Pluginzahl bei unveränderter zulässiger Durchschnittsdichte; alle Einzelplugin-Grenzen bleiben bestehen. Das ist eine Korrektur der Prüflogik, keine behauptete Beschleunigung oder gemessene Modellqualität.
 

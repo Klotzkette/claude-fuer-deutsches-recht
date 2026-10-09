@@ -1,6 +1,6 @@
 # 1. Kompatibilitätsreparatur 445.35.1
 
-Prüfstand: 9. Oktober 2026. Gegenstand sind die vier Befundklassen des Import- und Paketabgleichs. Die fachlichen Skills, Prompttexte und Testakten werden nicht pauschal überarbeitet.
+Prüfstand: 9. Oktober 2026. Gegenstand sind die vier Befundklassen des Import- und Paketabgleichs. Die fachlichen Skills, Prompttexte und Testakten werden nicht pauschal überarbeitet. Die zwischenzeitlich auf main veröffentlichte Fachrunde aus PR 559 wurde vollständig übernommen; ihr Bestand wird mitgeprüft.
 
 ## 1.1. Reparaturen
 
@@ -13,11 +13,11 @@ Prüfstand: 9. Oktober 2026. Gegenstand sind die vier Befundklassen des Import- 
 
 ## 1.2. Technische Prüfungen
 
-- Marketplace und 293 Plugins: 294 strikte Herstellerprüfungen bestanden, Prüfprogrammversion 2.1.168.
-- Struktur, Marketplace-Import und YAML-Frontmatter: bestanden; 23203 Skills, keine Frontmatter-Fehler oder Warnungen.
-- Qualitätskatalog: 293 vollständige Einzelprofile einschließlich redaktioneller und Workflow-Prüfung. Das ist noch kein bestandener Modelllauf.
+- Marketplace und Plugin-Manifeste werden mit Prüfprogrammversion 2.1.168 strikt geprüft; nach Integration umfasst der Katalog 296 Plugins.
+- Struktur, Marketplace-Import und YAML-Frontmatter: bestanden; 23238 Skills, keine Frontmatter-Fehler oder Warnungen.
+- Qualitätskatalog: 296 vollständige Einzelprofile einschließlich redaktioneller und Workflow-Prüfung. Das ist noch kein bestandener Modelllauf.
 - Neue Paketregressionen: neun Tests bestanden; darunter bytegleicher Wiederholungsbau, veraltete Skills, zusätzliche Dateien, Manifestfeld, Versionszuordnung, Schreibschutz, Lizenzmitnahme und Symlink-Abweisung.
-- Katalogbudget: fünf Tests bestanden. Die bisherige Basis von 287 Plugins, 23000 Skills und 3630000 Beschreibungszeichen bleibt bestehen. Für 293 Plugins ergeben sich proportional 23480 Skills und 3705888 Beschreibungszeichen. Tatsächlich vorhanden: 23203 und 3690744. Einzelplugin-, Dateigrößen- und Zeilengrenzen bleiben unverändert.
+- Katalogbudget: fünf Tests bestanden. Die bisherige Basis von 287 Plugins, 23000 Skills und 3630000 Beschreibungszeichen bleibt bestehen. Für 296 Plugins ergeben sich proportional 23721 Skills und 3743832 Beschreibungszeichen. Tatsächlich vorhanden: 23238 und 3697127. Einzelplugin-, Dateigrößen- und Zeilengrenzen bleiben unverändert.
 - App-Integration: 16 Tests bestanden; Start- und Fortsetzungsregressionen: elf bestanden; Komponentenrouting: sechs bestanden.
 - Grundstücksrecherche: 109 Anwendungstests bestanden; ein ausdrücklich zu aktivierender Liveabruf nicht ausgeführt. Browserprüfungen laufen zusätzlich im bestehenden Anwendungsworkflow.
 - Hauptverzeichnis und Fachgebietsübersicht: Bestandszahlen, Sortierung und Paketversionen abgeglichen. Keine Änderungen an Testakten.

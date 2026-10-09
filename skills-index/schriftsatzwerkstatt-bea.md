@@ -1,6 +1,6 @@
 # schriftsatzwerkstatt-bea
 
-**9 Skills** · Stand `v445.33.1`
+**9 Skills** · Stand `v445.35.1`
 
 [Repository-Start](../README.md) · [Skill-Gesamtübersicht](../SKILLS.md) · [Plugin-README](../schriftsatzwerkstatt-bea/README.md) · [Download-Index](../ASSET_INDEX.md)
 
