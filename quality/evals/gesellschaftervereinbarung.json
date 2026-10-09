@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "plugin": "gesellschaftervereinbarung",
+  "reviewed_on": "2026-10-09",
+  "sources": [
+    {
+      "url": "https://www.gesetze-im-internet.de/gmbhg/__15.html",
+      "checked_on": "2026-10-09",
+      "supports": "Verpflichtung und Abtretung von GmbH-Anteilen formgerecht unterscheiden."
+    },
+    {
+      "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+      "checked_on": "2026-10-09",
+      "supports": "Amtliches PDF gelesen: Gesamtbetrachtung, Preis und Ausübung getrennt, keine pauschale Billigung von Gründer-Vesting."
+    }
+  ],
+  "selection": {
+    "target_skill": "vereinbarung-erstellen",
+    "positive": [
+      "Entwirf aus diesem Term Sheet die Gesellschaftervereinbarung für unsere GmbH.",
+      "Ändere unsere Beteiligungsvereinbarung für die zweite Finanzierungstranche."
+    ],
+    "negative": [
+      "Erstelle allgemeine Shopbedingungen.",
+      "Prüfe die Kündigung einer Mietwohnung."
+    ]
+  },
+  "cases": [
+    {
+      "id": "tranche-und-erloes",
+      "target_skill": "vereinbarung-erstellen",
+      "request": "GmbH mit 50000 EUR Kapital. GHI zahlt zunächst 4.5 Mio und später 3 Mio, JKL 1.5 Mio und 1 Mio. Ausgabebetrag 500 EUR je Ein-Euro-Anteil. Die zweite Tranche ist offen. GHI verlangt eineinhalbfach nicht teilnehmend. Erstelle Vertragsabschnitte und die richtige Kapitalanlage; Rangfolge gegenüber Altinvestoren fehlt.",
+      "input_files": [],
+      "deliverables": [
+        "vertrag.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Trennt Kapitalstände 50000, 62000 und 70000 sowie Zahlung und Eintragung.",
+          "deliverables": [
+            "vertrag.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Verwendet für GHI nach erster Einzahlung nur 6.75 Mio Präferenzsockel und fragt Rangfolge und Wahl statt eine Lösung zu erfinden.",
+          "deliverables": [
+            "vertrag.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständige Klauseln, keine bloße Tabelle, und setzt nach der Rangentscheidung fort.",
+          "deliverables": [
+            "vertrag.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gruender-und-manager",
+      "target_skill": "gruenderbindung-und-ausscheiden-regeln",
+      "request": "Eine Gründerin hat drei Jahre entwickelt und besitzt ein Viertel der GmbH. Der neue Investor will bei beliebiger Abberufung alle Anteile zum Nennwert kaufen und nennt II ZR 71/24 als Freigabe. Prüfe das und formuliere eine verhandelbare Alternative. Kapitaleinsatz und Bindungsumfang sind noch offen.",
+      "input_files": [],
+      "deliverables": [
+        "gruender.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Unterscheidet GmbH-Gründerstellung von dem KG-Managerbeteiligungsfall und behauptet keine allgemeine Freigabe.",
+          "deliverables": [
+            "gruender.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Trennt Anlass, Preis und Ausübung; fragt Kapitaleinsatz und konkrete gebundene Anteile nach.",
+          "deliverables": [
+            "gruender.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Erstellt eine vollständige bedingte Klausel und erhält die individuelle Entscheidung statt freien Ausschluss zu normalisieren.",
+          "deliverables": [
+            "gruender.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unterlagen-und-fortsetzung",
+      "target_skill": "vereinbarung-erstellen",
+      "request": "Auftrag, Satzung und Entwurf liegen im Ordner. Nur die Rangfolge der Erlöse fehlt. Der erste amtliche Abruf und eine Alternative scheitern. Später bestätigt der Mandant die Rangfolge. Es gibt keinen Dateiexport und keine Erlaubnis zur Weiterleitung. Führe bis zur bearbeitbaren Vertragsfassung fort.",
+      "input_files": [],
+      "deliverables": [
+        "fortsetzung.md"
+      ],
+      "criteria": [
+        {
+          "id": "C01",
+          "text": "Liest vorhandene Unterlagen ohne neues Vollinterview und beendet die erfolglose Recherche begrenzt.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C02",
+          "text": "Arbeitet unabhängige Klauseln weiter und integriert später die Rangfolge einschließlich abhängiger Rechenanlagen.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        },
+        {
+          "id": "C03",
+          "text": "Liefert vollständigen Text mit ehrlichem Quellenstatus ohne erfundene Downloads, Beurkundung oder Versand.",
+          "deliverables": [
+            "fortsetzung.md"
+          ]
+        }
+      ]
+    }
+  ],
+  "mini_review": {
+    "verdict": "retained",
+    "reason": "Individuelle GmbH-Finanzierungsfragen, Fortsetzung und vollständige Vertragsprodukte statt allgemeiner Analyse.",
+    "changes": [],
+    "sha256": "7da4111be0d11709c0b9f3cbbf65108141638682669c97d435bc7599758542b9"
+  },
+  "workshop_review": {
+    "verdict": "retained",
+    "reason": "Vierzehn Gestaltungsstationen mit konkreten Abzweigungen, Rechenkontrollen, Quellenbegrenzung und Notarauftrag.",
+    "changes": [],
+    "sha256": "e282d822200d12d1e59c70c0a4082677ab12c26a3c508898d495bccd9edf404b"
+  },
+  "focus_review": {
+    "method": "desk_review",
+    "reviewed_on": "2026-10-09",
+    "verdict": "retained",
+    "reason": "Hauptskill und eigenständiger Prompt führen denselben Kernauftrag bis zum vollständigen Vertrag.",
+    "changes": [],
+    "prompt_path": "gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md",
+    "skill_path": "gesellschaftervereinbarung/skills/vereinbarung-erstellen/SKILL.md",
+    "prompt_sha256": "6273a0e25726ac4293600be51d881f71e8e0a33403b04caa895a2cedbb71badc",
+    "skill_sha256": "bc4011e01cf9df965ad2a957b248da1603bea8d65e92e0edf8c05d9fc558fef6"
+  },
+  "prompt_workflow_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "opening_modes": [
+      "Leerer Start klärt Mandant und Art der Vereinbarung.",
+      "Unterlagenstart liest Auftrag und maßgebliche Vertragsfassungen zuerst.",
+      "Fortsetzung ändert nur neue Entscheidungen und abhängige Anlagen."
+    ],
+    "continuation": "Offene Rangfolge oder Vertretung blockiert nur abhängige Abschnitte, nicht den gesamten Entwurf.",
+    "enrichment": "Drei individuelle Prüffälle mit neun Kriterien zu Tranchen, Gründerbindung und Recherchehindernis.",
+    "limits": "Redaktionelle Prüfung, keine beobachteten Modellläufe in externen Clients und keine rechtliche Zertifizierung."
+  },
+  "prompt_editorial_review": {
+    "date": "2026-10-09",
+    "method": "desk_review",
+    "files": [
+      "gesellschaftervereinbarung/gesellschaftervereinbarung-werkstatt.md",
+      "gesellschaftervereinbarung/gesellschaftervereinbarung-schnellstart.md",
+      "gesellschaftervereinbarung/gesellschaftervereinbarung-hauptproblem.md"
+    ],
+    "opening_change": "Mandatsbezogene Erstellung oder Änderung einer GmbH-Vereinbarung statt abstrakter Methodeneinleitung.",
+    "norms": [
+      "Paragraf 15 GmbHG: Verpflichtung, Abtretung und Form.",
+      "Paragrafen 53 bis 57 GmbHG: Beschluss, Einzahlung, Anmeldung und Eintragung.",
+      "Paragrafen 138 und 242 BGB: Inhalts- und Ausübungskontrolle."
+    ],
+    "decisions": [
+      {
+        "citation": "BGH, Urteil vom 10. Februar 2026, II ZR 71/24",
+        "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2024/II_ZR__71-24.pdf?__blob=publicationFile&v=1",
+        "application": "Ausscheidensregel, Preis und Ausübung getrennt beurteilen.",
+        "limit": "KG-Managerbeteiligung, keine allgemeine Freigabe für GmbH-Gründer."
+      }
+    ],
+    "remaining_limits": [
+      "Weitere Normen und ältere Entscheidungen sind nach dem differenzierten Quellenregister im Einzelfall zu prüfen.",
+      "Ergebnisqualität muss in realen Modellläufen gesondert beurteilt werden."
+    ]
+  }
+}

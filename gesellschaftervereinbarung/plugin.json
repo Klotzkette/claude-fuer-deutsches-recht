@@ -1,0 +1,23 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gesellschaftervereinbarung",
+  "version": "1.0.0",
+  "description": "Gesellschaftervereinbarungen fuer GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.",
+  "author": {
+    "name": "Klotzkette",
+    "email": "39582916+Klotzkette@users.noreply.github.com"
+  },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Gesellschaftervereinbarung",
+        "shortDescription": "Beteiligung und Zusammenarbeit vertraglich gestalten",
+        "longDescription": "Gesellschaftervereinbarungen fuer GmbHs entwerfen, verhandeln und aendern. Zehn Fachskills und ein Hauptskill verbinden Kapital, Mitspracherechte, Anteilsverkauf, Gruenderbindung und notariellen Vollzug.",
+        "developerName": "Klotzkette",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Lies meinen Auftrag, das Term Sheet, die Satzung und den Vertragsentwurf. Kläre meine Rolle und nur die noch entscheidenden Punkte. Erstelle die passende Gesellschaftervereinbarung, rechne Kapital und Erlös nach und führe nach Rückfragen bis zur abgestimmten Fassung und zum Notarauftrag weiter."
+      }
+    }
+  }
+}
