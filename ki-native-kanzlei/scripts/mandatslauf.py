@@ -29,6 +29,18 @@ GATES = {
     'G5': ('Zahlung und Fremdgeld', 'zahlungen-buchhaltung'), 'G6': ('Dienstleister', 'workflow-uebergabe'),
     'G7': ('Meldung', 'geldwaesche-pruefen'), 'G8': ('Abschluss und Löschung', 'mandat-abschliessen'),
 }
+PRODUCT_SKILLS = {
+    'beweise': 'akte-chronologie-beweismittel',
+    'forderung': 'anspruch-berechnen-beziffern',
+    'dokument': 'dokumente-erstellen-formatieren',
+    'anlagen': 'anlagen-ordnen-abgleichen',
+    'erwiderung': 'schriftsatz-ueberarbeiten-erwidern',
+    'termin': 'gerichtstermin-vorbereiten-nachbereiten',
+    'vergleich': 'vergleich-verhandeln-formulieren',
+    'kosten': 'gerichtskosten-kostenerstattung',
+    'vollstreckung': 'titel-pruefen-vollstreckung-planen',
+    'vorlage': 'mandatswissen-vorlagen-pflegen',
+}
 GATE_STATES = {'offen', 'freigegeben', 'abgelehnt', 'nicht_erforderlich'}
 PRODUCT_STATES = {'entwurf', 'geprueft', 'freigegeben'}
 MACHINE_WORDS = re.compile(r'\b(ki|ai|agent|agentin|system|automatisch|bot|modell|claude|codex|gpt)\b', re.I)
@@ -254,7 +266,11 @@ def cmd_next(a):
     skill, reason = recommend(data)
     open_ids = [g for g in GATES if data['gates'].get(g, {}).get('status') == 'offen']
     gate = data['gates'][('G2' if 'G2' in open_ids else open_ids[0])] if open_ids else {}
+    product = getattr(a, 'produkt', None)
+    if product and not open_ids:
+        skill, reason = PRODUCT_SKILLS[product], 'Gewünschtes Arbeitsprodukt: ' + product
     print(json.dumps({'next_skill': skill, 'reason': reason, 'autonomy_level': data['autonomy_level'],
+                      'requested_product_skill': PRODUCT_SKILLS.get(product),
                       'next_product': gate.get('product_id') or gate.get('reference') or None,
                       'responsible': gate.get('responsible'),
                       'external_action_allowed': False, 'open_gates': [g for g, v in data['gates'].items() if v.get('status') == 'offen']}, ensure_ascii=False, indent=2))
@@ -313,7 +329,7 @@ def main(argv=None):
     p = sub.add_parser('gate'); common(p); p.add_argument('--gate', required=True); p.add_argument('--aktion', required=True, choices=['oeffnen', 'freigeben', 'ablehnen', 'nicht-erforderlich', 'zuruecksetzen']); p.add_argument('--person'); p.add_argument('--bezug'); p.add_argument('--notiz')
     p = sub.add_parser('question'); common(p); p.add_argument('--text', required=True); p.add_argument('--erledigt', action='store_true')
     p = sub.add_parser('status'); common(p)
-    p = sub.add_parser('next'); common(p)
+    p = sub.add_parser('next'); common(p); p.add_argument('--produkt', choices=sorted(PRODUCT_SKILLS))
     p = sub.add_parser('cockpit'); p.add_argument('--kanzlei', required=True); p.add_argument('--format', choices=['json', 'md'], default='json')
     a = ap.parse_args(argv)
     try:

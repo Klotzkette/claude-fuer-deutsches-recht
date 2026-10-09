@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "layout": "A4, Times New Roman 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill",
   "font": "Times New Roman",
   "skills": [
@@ -12,7 +12,19 @@
       "utf8_bytes": 56605,
       "pages": 16,
       "pdf": "abrechnung-e-rechnung.pdf",
-      "pdf_sha256": "28f66adf0f8b3ceead91e679b5beeac4f41e16031c7c12f4273800b70edbb5bd",
+      "pdf_sha256": "1e91b3e3ebcd90cf83fda085101b96a98a81f914cc8173a0ff0c7f97947b1061",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "akte-chronologie-beweismittel",
+      "title": "Tatsachen und Beweise aus der Mandatsakte aufbereiten",
+      "source": "ki-native-kanzlei/skills/akte-chronologie-beweismittel/SKILL.md",
+      "source_sha256": "e49e0737a8d6b2bb4fd084ff19ca6164d0fb9c9f3a9a7b1fa35979f033779f9f",
+      "words": 743,
+      "utf8_bytes": 6437,
+      "pages": 2,
+      "pdf": "akte-chronologie-beweismittel.pdf",
+      "pdf_sha256": "16518bf5e1d02cde2a67fb2a48309bdb57ce3917e9d33780142f14660e56c298",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -24,7 +36,31 @@
       "utf8_bytes": 57061,
       "pages": 17,
       "pdf": "akte-fristen-anlegen.pdf",
-      "pdf_sha256": "f11006c61d1681fe8b46b84094d755a95131aa48ff0d0d32f6b25d2015accd73",
+      "pdf_sha256": "d4839cbee23faa2092fb0170931ce3bbf959c59782eacd2ad2f38c3f758db21c",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "anlagen-ordnen-abgleichen",
+      "title": "Anlagen aus dem Schriftsatz heraus vollständig zusammenstellen",
+      "source": "ki-native-kanzlei/skills/anlagen-ordnen-abgleichen/SKILL.md",
+      "source_sha256": "b5da12f600ef8a317e3b2f78d29aada6e2edffda1c204fa5ce20208aaee24584",
+      "words": 704,
+      "utf8_bytes": 6099,
+      "pages": 2,
+      "pdf": "anlagen-ordnen-abgleichen.pdf",
+      "pdf_sha256": "338861c044d5088cc8e94fe21bccb1fd4c9dfb10acebd51e1b73c7f08b9611f3",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "anspruch-berechnen-beziffern",
+      "title": "Geldansprüche nachvollziehbar berechnen und beantragen",
+      "source": "ki-native-kanzlei/skills/anspruch-berechnen-beziffern/SKILL.md",
+      "source_sha256": "e6c307036cae31472c6140cd46fd97c54feaf8ca457720706606ac310008a737",
+      "words": 699,
+      "utf8_bytes": 6147,
+      "pages": 2,
+      "pdf": "anspruch-berechnen-beziffern.pdf",
+      "pdf_sha256": "b722233cce574a72b376f3c65d7715d558a43ed70e3fd5ba3a3553d35171cfa7",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -36,7 +72,7 @@
       "utf8_bytes": 58938,
       "pages": 17,
       "pdf": "anwaltsberufsrecht-pruefen.pdf",
-      "pdf_sha256": "9c59dc3703150d01bd638b5dd966375fff284336b3069d80932c7e4ca76991c0",
+      "pdf_sha256": "a93d4e3fd70f87c855f346e40275ec1d520192fe5764f26d1070eedd5a42a490",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -48,7 +84,19 @@
       "utf8_bytes": 55298,
       "pages": 16,
       "pdf": "bea-anlagen-vorbereiten.pdf",
-      "pdf_sha256": "9a3cd2ef46f867e75645d20a89701d798cdd7318063aadb7c643899354ec05cb",
+      "pdf_sha256": "4d5c17ae08c06c8e553536728a3eae475c7852c1a4684cc6d1fa2e0c2e754502",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "dokumente-erstellen-formatieren",
+      "title": "Anwaltliche Dokumente ausarbeiten und fertigsetzen",
+      "source": "ki-native-kanzlei/skills/dokumente-erstellen-formatieren/SKILL.md",
+      "source_sha256": "2acd7d996b09f98d59f110170f7fad7967a0d6bd0c04a2221d2d2f7da087166e",
+      "words": 706,
+      "utf8_bytes": 6514,
+      "pages": 2,
+      "pdf": "dokumente-erstellen-formatieren.pdf",
+      "pdf_sha256": "c7fe0aae08d9d4507273de8eeb1fb0ae0301fe948e03bd58e160080dabc7aafa",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -60,7 +108,7 @@
       "utf8_bytes": 54755,
       "pages": 17,
       "pdf": "fristen-berechnen-ueberwachen.pdf",
-      "pdf_sha256": "d315d99dbdb560305fe4000419c2e906e5d765a05d0d91cd77ea01de49e240cf",
+      "pdf_sha256": "e810c6357a6426917bec39df1f1c6390d8ca9ad43deb39f8b0a9d54fa865ff05",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -72,7 +120,31 @@
       "utf8_bytes": 57207,
       "pages": 16,
       "pdf": "geldwaesche-pruefen.pdf",
-      "pdf_sha256": "21d4c20e6652cd980d1fecf4e273fd53d9c19993f3770bad461ae823ee116b77",
+      "pdf_sha256": "254e15b9c29a25ef97b73e8dadb67e04b58b10a4a6150cccf0eb6e6e57abfe91",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "gerichtskosten-kostenerstattung",
+      "title": "Gerichtliche Kostenerstattung beziffern und beantragen",
+      "source": "ki-native-kanzlei/skills/gerichtskosten-kostenerstattung/SKILL.md",
+      "source_sha256": "bc7cad5307e6066199b214f7ef96f9b525ddfb8ce9f9ed1c794107a6d97c01fc",
+      "words": 618,
+      "utf8_bytes": 5773,
+      "pages": 2,
+      "pdf": "gerichtskosten-kostenerstattung.pdf",
+      "pdf_sha256": "8d52fcf57a029d5768506d2dc4f32d6ad109be002974a371701c6f157b8d909c",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "gerichtstermin-vorbereiten-nachbereiten",
+      "title": "Gerichtstermine vorbereiten und Ergebnisse weiterbearbeiten",
+      "source": "ki-native-kanzlei/skills/gerichtstermin-vorbereiten-nachbereiten/SKILL.md",
+      "source_sha256": "0b206d6fdd60b320729a4cf44496c25056d47fb9c6312ab971d3dfe43a225d23",
+      "words": 649,
+      "utf8_bytes": 5956,
+      "pages": 2,
+      "pdf": "gerichtstermin-vorbereiten-nachbereiten.pdf",
+      "pdf_sha256": "1eb5538cd54125fa5c77a6bde838ab17e2869f73de581ff48c67c6b903a0ef08",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -84,7 +156,7 @@
       "utf8_bytes": 56657,
       "pages": 17,
       "pdf": "honorar-budget-vereinbaren.pdf",
-      "pdf_sha256": "f4814907da84cb16761973072b4ddea19fb034f1349cb0669c677435e483c232",
+      "pdf_sha256": "79b167ca4db4018e15db01aa4f5e20bb80637eee1b91d7812a605ebb0b75552f",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -96,19 +168,19 @@
       "utf8_bytes": 14046,
       "pages": 4,
       "pdf": "kanzlei-gruenden-einrichten.pdf",
-      "pdf_sha256": "5ad7862e304e4ee61a6a063e998df07fb29df9b465500cc7e4a975835aaf264f",
+      "pdf_sha256": "0bf3ada777e8a2e86d0fc1192fd0dde053c2d6d5571ee967de0046f4b2e48165",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
       "skill": "ki-kanzlei-steuern",
       "title": "KI-native Kanzlei: das Mandat vom Auftrag bis zum Ergebnis führen",
       "source": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
-      "source_sha256": "28f7748d30f4cba077fd96bc001b27e22104437fbe72d36212987e85c87f55d9",
-      "words": 6836,
-      "utf8_bytes": 59867,
-      "pages": 18,
+      "source_sha256": "5f9d97ffab02ef4f85f9418ce2d87e0136242eaaae79e67711ef985fdf84c982",
+      "words": 7046,
+      "utf8_bytes": 62066,
+      "pages": 19,
       "pdf": "ki-kanzlei-steuern.pdf",
-      "pdf_sha256": "7503821b2ec207ebb31f9ea7e170c0a4efb27c7f5c9ed84ca5a565347917d4c7",
+      "pdf_sha256": "00449b4390852a36bcab3eede80da38474d898e47887c996c2c168f1f891dfe2",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -120,7 +192,7 @@
       "utf8_bytes": 55230,
       "pages": 16,
       "pdf": "mandantenkommunikation.pdf",
-      "pdf_sha256": "f110aa8ce35b78ef4e2b7626ba04df1add14954a289db96b0d625a04f53550cf",
+      "pdf_sha256": "1658731d0e2a914172b64bcee9c977462065d1fa16922d173e42b4812d9b9974",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -132,7 +204,7 @@
       "utf8_bytes": 56828,
       "pages": 16,
       "pdf": "mandat-abschliessen.pdf",
-      "pdf_sha256": "ea45d158a2858c0a9206dbd895e01f564758c6bfdfdac88b60866b6b18ead164",
+      "pdf_sha256": "3421b164cabc1222c5cbb08587cf0cb92ea560b9aaca542fa7b2fc434aafdfca",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -144,7 +216,19 @@
       "utf8_bytes": 57236,
       "pages": 16,
       "pdf": "mandatsannahme-interessenkollision.pdf",
-      "pdf_sha256": "07b6147d32a9a324f7967b8a864aff91c4deee70dc7e638a74fba44da8d89c47",
+      "pdf_sha256": "0302d8df07b0f9845992293d52dcf4fa1c9960e65ced1b6da57d3db33b6e5084",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "mandatswissen-vorlagen-pflegen",
+      "title": "Kanzleivorlagen aus geprüfter Arbeit pflegen",
+      "source": "ki-native-kanzlei/skills/mandatswissen-vorlagen-pflegen/SKILL.md",
+      "source_sha256": "601e5134a89fc189c7203ae928738c7cca57252e48cf8539288c77011ada8266",
+      "words": 674,
+      "utf8_bytes": 6200,
+      "pages": 2,
+      "pdf": "mandatswissen-vorlagen-pflegen.pdf",
+      "pdf_sha256": "aaf5de0d3235db1b67da520cb4e02a649cc8498da66755dc520e4a3b88ed45ab",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -156,7 +240,7 @@
       "utf8_bytes": 14056,
       "pages": 4,
       "pdf": "posteingang-mandate-zuordnen.pdf",
-      "pdf_sha256": "80bd49e72376434d394ddfee4c44ce6df1ac06508bb3512dd9bd1778ca505fb5",
+      "pdf_sha256": "149e0a0064a1365c8c934c7eabd43cf9f45ea22052a5978500ddebe89180f0ac",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -168,7 +252,7 @@
       "utf8_bytes": 55899,
       "pages": 16,
       "pdf": "recht-recherchieren.pdf",
-      "pdf_sha256": "503dd06cc5b306ec457bc927031edfbd1052320d8cd958c14faf805e7bc9802f",
+      "pdf_sha256": "4312dbbbb6d1f6a9aa6d0aba8ea7ea7dfe259d0b85b06bc10e081ff3429eb297",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -180,7 +264,43 @@
       "utf8_bytes": 57625,
       "pages": 15,
       "pdf": "schriftsaetze-entwerfen.pdf",
-      "pdf_sha256": "37938d7b0d820ab959c7b8949f426aee861ba5aa241dbd3e380dd0315f08b0b2",
+      "pdf_sha256": "e730469b0bd7f9bb175238043d4450d8c4d5140fd900a86c24cd4b408bd7be9a",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "schriftsatz-ueberarbeiten-erwidern",
+      "title": "Auf neuen Prozessstoff gezielt erwidern",
+      "source": "ki-native-kanzlei/skills/schriftsatz-ueberarbeiten-erwidern/SKILL.md",
+      "source_sha256": "189f72644f7143590c598cdb5fa49489ac228261a76d5dfee07aa7715ea4b8aa",
+      "words": 671,
+      "utf8_bytes": 6014,
+      "pages": 2,
+      "pdf": "schriftsatz-ueberarbeiten-erwidern.pdf",
+      "pdf_sha256": "c043e0b389b56b1efa9b5dbdfaaa35adc50557e085c93d037cafd66d51157102",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "titel-pruefen-vollstreckung-planen",
+      "title": "Aus einem Titel einen kontrollierten Vollstreckungsauftrag vorbereiten",
+      "source": "ki-native-kanzlei/skills/titel-pruefen-vollstreckung-planen/SKILL.md",
+      "source_sha256": "2c77a1fb52bd7508172c403b268073ee5e04eace04f41185211507db2cbe82e4",
+      "words": 669,
+      "utf8_bytes": 6116,
+      "pages": 2,
+      "pdf": "titel-pruefen-vollstreckung-planen.pdf",
+      "pdf_sha256": "05a377c849e27681bdcaa4be55f213d65d4b7e6e194f4248fa3351cd33fa9384",
+      "body_text_coverage": "all rendered source text segments present in source order"
+    },
+    {
+      "skill": "vergleich-verhandeln-formulieren",
+      "title": "Vergleiche vorbereiten und vollziehbar formulieren",
+      "source": "ki-native-kanzlei/skills/vergleich-verhandeln-formulieren/SKILL.md",
+      "source_sha256": "44d20f7f5b198f028ea52fab3ccbed9cc262ae8f16cf66918781fa0c8ca325db",
+      "words": 650,
+      "utf8_bytes": 6101,
+      "pages": 2,
+      "pdf": "vergleich-verhandeln-formulieren.pdf",
+      "pdf_sha256": "36e0c79aef50da4b86c4a82ebf940da2df9a3a98f1b129dda4cce0971cb6aed7",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -192,7 +312,7 @@
       "utf8_bytes": 58384,
       "pages": 15,
       "pdf": "vertraege-agb-pruefen.pdf",
-      "pdf_sha256": "b2d9061a3d8a619e24ca61bfe872705da0f4a9867773264da3ff18fd13df25a4",
+      "pdf_sha256": "84be26010b387e8c91c28ec5cbdbdf5f555c3a4e63dc7c107ffbedc291cfc553",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -204,7 +324,7 @@
       "utf8_bytes": 58933,
       "pages": 16,
       "pdf": "vertraege-gestalten.pdf",
-      "pdf_sha256": "3cba49b904b64026dcfed5b282176cbeb3359f58cdf57a7f2d11f801ad0b1201",
+      "pdf_sha256": "2930437b0cd6e65b11306ecc655387ef432ed52bc9618b92fd382a85ef0bba9e",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -216,7 +336,7 @@
       "utf8_bytes": 55200,
       "pages": 16,
       "pdf": "workflow-uebergabe.pdf",
-      "pdf_sha256": "0889ab908436f3add52bdc166732c83c11077d5b18f15ad8a556d6fc80639418",
+      "pdf_sha256": "771c676e897af098780fc66825a39e9ed70d7fc7e0e8ba6e8ede88d09e5c996b",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -228,7 +348,7 @@
       "utf8_bytes": 56838,
       "pages": 16,
       "pdf": "zahlungen-buchhaltung.pdf",
-      "pdf_sha256": "0f549d1ccd708ec92d1252c8319862200da34c2e71727293b071dde59f688a49",
+      "pdf_sha256": "88836a0aab25029f4f00eace061ff4d345a6927d5bbed6eb100ae3de32bb8d96",
       "body_text_coverage": "all rendered source text segments present in source order"
     },
     {
@@ -240,13 +360,13 @@
       "utf8_bytes": 54521,
       "pages": 16,
       "pdf": "zeiten-erfassen.pdf",
-      "pdf_sha256": "a725e36e7b0f51be5218c4fd9778531bf47fbd5bdaf56df167ba7195a982bafc",
+      "pdf_sha256": "a0566c24fa16a802c5e4a07bd5528ed4aa80d3982b42b68fe8226b30c5745bb7",
       "body_text_coverage": "all rendered source text segments present in source order"
     }
   ],
-  "skill_count": 20,
-  "total_skill_pages": 300,
-  "handbook_sha256": "77acc1935d40bd27f4f12920638f10cf92425a5f6ee039b341ec4594d830cd11",
-  "handbook_pages": 300,
+  "skill_count": 30,
+  "total_skill_pages": 321,
+  "handbook_sha256": "3c80242d6a530d3212ae336a3574505e7fbf5a6e9f4a46878444e7682e5acaf4",
+  "handbook_pages": 321,
   "measurement": "Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern."
 }

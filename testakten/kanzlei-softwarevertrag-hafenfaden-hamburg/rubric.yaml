@@ -1,0 +1,78 @@
+{
+  "name": "Hafenfaden und die drei Vertragsfassungen",
+  "plugin": "ki-native-kanzlei",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "bestand",
+      "check_type": "working_file_count",
+      "description": "Zehn native Originalunterlagen.",
+      "min": 10
+    },
+    {
+      "id": "original-1",
+      "check_type": "file_exists",
+      "description": "01_Mandantenauftrag.eml",
+      "path": "01_Mandantenauftrag.eml"
+    },
+    {
+      "id": "original-2",
+      "check_type": "file_exists",
+      "description": "02_Vertrag_Anbieter_V2.docx",
+      "path": "02_Vertrag_Anbieter_V2.docx"
+    },
+    {
+      "id": "original-3",
+      "check_type": "file_exists",
+      "description": "03_Anbieter_Aenderungen_V3.docx",
+      "path": "03_Anbieter_Aenderungen_V3.docx"
+    },
+    {
+      "id": "original-4",
+      "check_type": "file_exists",
+      "description": "04_Leistungsanlage_1b.docx",
+      "path": "04_Leistungsanlage_1b.docx"
+    },
+    {
+      "id": "original-5",
+      "check_type": "file_exists",
+      "description": "05_Einkaufsvermerk.docx",
+      "path": "05_Einkaufsvermerk.docx"
+    },
+    {
+      "id": "original-6",
+      "check_type": "file_exists",
+      "description": "06_Technik_Rueckfrage.eml",
+      "path": "06_Technik_Rueckfrage.eml"
+    },
+    {
+      "id": "original-7",
+      "check_type": "file_exists",
+      "description": "07_Projektchat.txt",
+      "path": "07_Projektchat.txt"
+    },
+    {
+      "id": "original-8",
+      "check_type": "file_exists",
+      "description": "08_Rollen_und_Standorte.csv",
+      "path": "08_Rollen_und_Standorte.csv"
+    },
+    {
+      "id": "original-9",
+      "check_type": "file_exists",
+      "description": "09_Anwaltliche_Eingangsbestaetigung.eml",
+      "path": "09_Anwaltliche_Eingangsbestaetigung.eml"
+    },
+    {
+      "id": "original-10",
+      "check_type": "file_exists",
+      "description": "10_Posteingangsvermerk.txt",
+      "path": "10_Posteingangsvermerk.txt"
+    },
+    {
+      "id": "mandatsarbeit",
+      "check_type": "human_review",
+      "description": "Belege, Behauptungen, fehlende Unterlagen und konkrete Freigaben werden auseinandergehalten; ein ausformuliertes Arbeitsprodukt entsteht."
+    }
+  ]
+}

@@ -6,9 +6,24 @@
       "words_without_frontmatter": 6736
     },
     {
+      "skill": "akte-chronologie-beweismittel",
+      "sha256": "e49e0737a8d6b2bb4fd084ff19ca6164d0fb9c9f3a9a7b1fa35979f033779f9f",
+      "words_without_frontmatter": 743
+    },
+    {
       "skill": "akte-fristen-anlegen",
       "sha256": "fb6622f58823eaed85487931776b263c9a254800a36305188d8ae3b749f76a58",
       "words_without_frontmatter": 6533
+    },
+    {
+      "skill": "anlagen-ordnen-abgleichen",
+      "sha256": "b5da12f600ef8a317e3b2f78d29aada6e2edffda1c204fa5ce20208aaee24584",
+      "words_without_frontmatter": 704
+    },
+    {
+      "skill": "anspruch-berechnen-beziffern",
+      "sha256": "e6c307036cae31472c6140cd46fd97c54feaf8ca457720706606ac310008a737",
+      "words_without_frontmatter": 699
     },
     {
       "skill": "anwaltsberufsrecht-pruefen",
@@ -21,6 +36,11 @@
       "words_without_frontmatter": 6514
     },
     {
+      "skill": "dokumente-erstellen-formatieren",
+      "sha256": "2acd7d996b09f98d59f110170f7fad7967a0d6bd0c04a2221d2d2f7da087166e",
+      "words_without_frontmatter": 706
+    },
+    {
       "skill": "fristen-berechnen-ueberwachen",
       "sha256": "349d0a6d3bead9409b3a3ce6340e3956c4f82d8354463c82061e9f7e16daf4eb",
       "words_without_frontmatter": 6976
@@ -29,6 +49,16 @@
       "skill": "geldwaesche-pruefen",
       "sha256": "1ddfe92448241633de1ccad94fcbecec1119c83c62ce7ed525e5df87e888e784",
       "words_without_frontmatter": 6741
+    },
+    {
+      "skill": "gerichtskosten-kostenerstattung",
+      "sha256": "bc7cad5307e6066199b214f7ef96f9b525ddfb8ce9f9ed1c794107a6d97c01fc",
+      "words_without_frontmatter": 618
+    },
+    {
+      "skill": "gerichtstermin-vorbereiten-nachbereiten",
+      "sha256": "0b206d6fdd60b320729a4cf44496c25056d47fb9c6312ab971d3dfe43a225d23",
+      "words_without_frontmatter": 649
     },
     {
       "skill": "honorar-budget-vereinbaren",
@@ -42,8 +72,8 @@
     },
     {
       "skill": "ki-kanzlei-steuern",
-      "sha256": "28f7748d30f4cba077fd96bc001b27e22104437fbe72d36212987e85c87f55d9",
-      "words_without_frontmatter": 6836
+      "sha256": "5f9d97ffab02ef4f85f9418ce2d87e0136242eaaae79e67711ef985fdf84c982",
+      "words_without_frontmatter": 7046
     },
     {
       "skill": "mandantenkommunikation",
@@ -61,6 +91,11 @@
       "words_without_frontmatter": 6712
     },
     {
+      "skill": "mandatswissen-vorlagen-pflegen",
+      "sha256": "601e5134a89fc189c7203ae928738c7cca57252e48cf8539288c77011ada8266",
+      "words_without_frontmatter": 674
+    },
+    {
       "skill": "posteingang-mandate-zuordnen",
       "sha256": "2a19191c85e87387283d5d895ce36be1f9eee30647b5c5f05c7da3b11a71afaf",
       "words_without_frontmatter": 1569
@@ -74,6 +109,21 @@
       "skill": "schriftsaetze-entwerfen",
       "sha256": "33a9b02f6d439bb8e92f3672a7ade3c1e5b3020542ee9d3b82246bd67f2a1995",
       "words_without_frontmatter": 6743
+    },
+    {
+      "skill": "schriftsatz-ueberarbeiten-erwidern",
+      "sha256": "189f72644f7143590c598cdb5fa49489ac228261a76d5dfee07aa7715ea4b8aa",
+      "words_without_frontmatter": 671
+    },
+    {
+      "skill": "titel-pruefen-vollstreckung-planen",
+      "sha256": "2c77a1fb52bd7508172c403b268073ee5e04eace04f41185211507db2cbe82e4",
+      "words_without_frontmatter": 669
+    },
+    {
+      "skill": "vergleich-verhandeln-formulieren",
+      "sha256": "44d20f7f5b198f028ea52fab3ccbed9cc262ae8f16cf66918781fa0c8ca325db",
+      "words_without_frontmatter": 650
     },
     {
       "skill": "vertraege-agb-pruefen",
@@ -103,16 +153,16 @@
   ],
   "prompts": {
     "schnellstart": {
-      "utf8_bytes": 7419,
-      "words": 811
+      "utf8_bytes": 7493,
+      "words": 824
     },
     "hauptproblem": {
-      "utf8_bytes": 7497,
-      "words": 820
+      "utf8_bytes": 7495,
+      "words": 824
     },
     "werkstatt": {
-      "utf8_bytes": 126144,
-      "words": 14710
+      "utf8_bytes": 135308,
+      "words": 15788
     }
   },
   "cases_in_profile": 15,

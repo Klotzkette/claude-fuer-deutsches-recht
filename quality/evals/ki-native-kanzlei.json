@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "plugin": "ki-native-kanzlei",
-  "reviewed_on": "2026-10-08",
+  "reviewed_on": "2026-10-09",
   "sources": [
     {
       "url": "https://www.gesetze-im-internet.de/brao/__43e.html",
@@ -107,6 +107,16 @@
       "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2024/VII_ZB__29-24.pdf?__blob=publicationFile&v=1",
       "checked_on": "2026-10-08",
       "supports": "Rn. 23–29 und 33–34: persönliches beA, abweichendes beBPo und natürliche Inhaltsverantwortung im dortigen automatisierten Verfahren; keine Billigung dieses KI-Prototyps."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/8-azb-25-25/",
+      "checked_on": "2026-10-09",
+      "supports": "Zeugnisvergleich: Bestimmtheit und Wahrheitseinwand getrennt, keine allgemeine materielle Nachprüfung von Geldtiteln."
+    },
+    {
+      "url": "https://www.bundesarbeitsgericht.de/entscheidung/2-azr-156-23/",
+      "checked_on": "2026-10-09",
+      "supports": "Vergleichsanfechtung: Kausalität und Zeitpunkt der behaupteten Täuschung."
     }
   ],
   "selection": {
@@ -729,9 +739,10 @@
       "Abschnitt 7 Mandatslauf und Freigabestufen: Phasen, führende Fassung mit Hash, Gates G1 bis G8 nur durch benannte Person freigegeben, Stufen 0 bis 3.",
       "Kanzleialltag: Tagesstart mit Cockpit über alle Mandatsläufe, offenes Fristgate vorrangig, unabhängige Sacharbeit bleibt möglich.",
       "Glättung 08.10.2026: Produktkennung, Statusblock, tatsächliche namentliche Freigabe und gleiche Abschlusssperre in Datei- und Textmodus.",
-      "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand."
+      "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand.",
+      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse."
     ],
-    "sha256": "d76e3c1da614dbc5c30424ad32d203099ebbe7b3fe31a1c931ffff4193f58995"
+    "sha256": "d3dd302f1c386fbde5675202bdf8d0eb7b84d11389518c20cf6ce8bcfc0beaab"
   },
   "workshop_review": {
     "verdict": "revised",
@@ -743,15 +754,16 @@
       "Kapitel 29 Mandatslauf, Freigabestufen und agentische Arbeit mit Beispiel Versäumnisurteil auf Stufe 2.",
       "Kapitel 30 Kanzleialltag mit Tagesstart, Posteingang, Wochenabschluss und Monatsabrechnung in Claude Cowork und ChatGPT.",
       "Glättung 08.10.2026: Produktkennung, Statusblock, tatsächliche namentliche Freigabe und gleiche Abschlusssperre in Datei- und Textmodus.",
-      "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand."
+      "Computerlauf 08.10.2026: ausdrücklicher Sitzungsauftrag, unveränderte konkrete Versandfreigabe, tatsächliches Hostwerkzeug, getrennte Nachweise und Stopp vor doppeltem oder persönlich auszuführendem Versand.",
+      "09.10.2026: konkrete Dokumentenproduktion und Folgeprodukte integriert; keine neuen Versandbefugnisse."
     ],
-    "sha256": "aa2effd1b3ca1e2bf72364827c77b33707b7f64ee282ed7e2f887d2e31696617"
+    "sha256": "b49a6a89467280b58de397596edd780776710e6244df0f96836aab784ef28292"
   },
   "focus_review": {
     "method": "desk_review",
-    "reviewed_on": "2026-10-08",
+    "reviewed_on": "2026-10-09",
     "verdict": "revised",
-    "reason": "20 aufeinander abgestimmte Skills verbinden Kanzleigründung und Eingangsbearbeitung mit konkreter Sacharbeit, Fristen, Berufsrecht, Honorar und Rechnungsentwurf. Bereits laufende Mandate starten keine erneute Einrichtung.",
+    "reason": "30 aufeinander abgestimmte Skills verbinden Kanzleigründung und Eingangsbearbeitung mit konkreter Sacharbeit, Fristen, Berufsrecht, Honorar und Rechnungsentwurf. Bereits laufende Mandate starten keine erneute Einrichtung.",
     "changes": [
       "Spezifische Routen statt allgemeiner Kanzleicheckliste; offene Tatsachen begrenzen nur abhängige Schritte.",
       "Keine behauptete Hintergrundautomatik, externe Buchung oder Einreichung ohne tatsächlichen Werkzeuglauf.",
@@ -760,8 +772,8 @@
     ],
     "prompt_path": "ki-native-kanzlei/ki-native-kanzlei-hauptproblem.md",
     "skill_path": "ki-native-kanzlei/skills/ki-kanzlei-steuern/SKILL.md",
-    "prompt_sha256": "9759655420a833e72f6a8b5ec62f7948ded1cd57dd909370bc695c93a3668f8e",
-    "skill_sha256": "28f7748d30f4cba077fd96bc001b27e22104437fbe72d36212987e85c87f55d9"
+    "prompt_sha256": "06cab7c33ec546afa41611436ac0bbd5e767dc21e5f9f6b2a0c2e114581ec9ef",
+    "skill_sha256": "5f9d97ffab02ef4f85f9418ce2d87e0136242eaaae79e67711ef985fdf84c982"
   },
   "prompt_editorial_review": {
     "date": "2026-10-08",

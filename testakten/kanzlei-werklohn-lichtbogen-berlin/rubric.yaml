@@ -1,0 +1,78 @@
+{
+  "name": "Lichtbogen und die letzte Rechnung",
+  "plugin": "ki-native-kanzlei",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "bestand",
+      "check_type": "working_file_count",
+      "description": "Zehn native Originalunterlagen.",
+      "min": 10
+    },
+    {
+      "id": "original-1",
+      "check_type": "file_exists",
+      "description": "01_Auftrag_Messestand.docx",
+      "path": "01_Auftrag_Messestand.docx"
+    },
+    {
+      "id": "original-2",
+      "check_type": "file_exists",
+      "description": "02_Rechnung_2026_041.pdf",
+      "path": "02_Rechnung_2026_041.pdf"
+    },
+    {
+      "id": "original-3",
+      "check_type": "file_exists",
+      "description": "03_Montagevermerk.docx",
+      "path": "03_Montagevermerk.docx"
+    },
+    {
+      "id": "original-4",
+      "check_type": "file_exists",
+      "description": "04_Gutschrift_2026_017.pdf",
+      "path": "04_Gutschrift_2026_017.pdf"
+    },
+    {
+      "id": "original-5",
+      "check_type": "file_exists",
+      "description": "05_Verfuegung_LG_Berlin_II.pdf",
+      "path": "05_Verfuegung_LG_Berlin_II.pdf"
+    },
+    {
+      "id": "original-6",
+      "check_type": "file_exists",
+      "description": "06_Mandantenauftrag.eml",
+      "path": "06_Mandantenauftrag.eml"
+    },
+    {
+      "id": "original-7",
+      "check_type": "file_exists",
+      "description": "07_Zahlungsvereinbarung.eml",
+      "path": "07_Zahlungsvereinbarung.eml"
+    },
+    {
+      "id": "original-8",
+      "check_type": "file_exists",
+      "description": "08_Gegnerischer_Vortrag.docx",
+      "path": "08_Gegnerischer_Vortrag.docx"
+    },
+    {
+      "id": "original-9",
+      "check_type": "file_exists",
+      "description": "09_Buchungsjournal.csv",
+      "path": "09_Buchungsjournal.csv"
+    },
+    {
+      "id": "original-10",
+      "check_type": "file_exists",
+      "description": "10_Telefonnotiz.txt",
+      "path": "10_Telefonnotiz.txt"
+    },
+    {
+      "id": "mandatsarbeit",
+      "check_type": "human_review",
+      "description": "Belege, Behauptungen, fehlende Unterlagen und konkrete Freigaben werden auseinandergehalten; ein ausformuliertes Arbeitsprodukt entsteht."
+    }
+  ]
+}

@@ -93,9 +93,9 @@
     "testakte-si-kanzlei-versicherungsrecht-einzelpdfs.zip": "si-native-kanzlei-v445.33.3",
     "testakte-si-kanzlei-verwaltungsrecht.zip": "si-native-kanzlei-v445.33.3",
     "testakte-si-kanzlei-verwaltungsrecht-einzelpdfs.zip": "si-native-kanzlei-v445.33.3",
-    "ki-native-kanzlei.zip": "ki-native-kanzlei-v445.34.0",
-    "ki-native-kanzlei-portable.zip": "ki-native-kanzlei-v445.34.0",
-    "ki-native-kanzlei-skills-einzelpdfs.zip": "ki-native-kanzlei-v445.34.0",
+    "ki-native-kanzlei.zip": "ki-native-kanzlei-v445.35.0",
+    "ki-native-kanzlei-portable.zip": "ki-native-kanzlei-v445.35.0",
+    "ki-native-kanzlei-skills-einzelpdfs.zip": "ki-native-kanzlei-v445.35.0",
     "bieter-unternehmen.zip": "vergaberecht-werkstatt-v445.33.1",
     "konkurrenten-rechtsschutz.zip": "vergaberecht-werkstatt-v445.33.1",
     "vergabestelle-behoerden.zip": "vergaberecht-werkstatt-v445.33.1",
@@ -126,6 +126,12 @@
     "testakte-gesellschafterstreit-klageerwiderung-berlin.zip": "gesellschafterstreit-v445.34.1",
     "testakte-gesellschafterstreit-klageerwiderung-berlin-einzelpdfs.zip": "gesellschafterstreit-v445.34.1",
     "testakte-gesellschafterstreit-shareholder-agreement-muenchen.zip": "gesellschafterstreit-v445.34.1",
-    "testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip": "gesellschafterstreit-v445.34.1"
+    "testakte-gesellschafterstreit-shareholder-agreement-muenchen-einzelpdfs.zip": "gesellschafterstreit-v445.34.1",
+    "testakte-kanzlei-werklohn-lichtbogen-berlin.zip": "ki-native-kanzlei-v445.35.0",
+    "testakte-kanzlei-werklohn-lichtbogen-berlin-einzelpdfs.zip": "ki-native-kanzlei-v445.35.0",
+    "testakte-kanzlei-softwarevertrag-hafenfaden-hamburg.zip": "ki-native-kanzlei-v445.35.0",
+    "testakte-kanzlei-softwarevertrag-hafenfaden-hamburg-einzelpdfs.zip": "ki-native-kanzlei-v445.35.0",
+    "testakte-kanzlei-titel-ratenzahlung-muenchen.zip": "ki-native-kanzlei-v445.35.0",
+    "testakte-kanzlei-titel-ratenzahlung-muenchen-einzelpdfs.zip": "ki-native-kanzlei-v445.35.0"
   }
 }

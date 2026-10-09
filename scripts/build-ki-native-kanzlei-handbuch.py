@@ -103,7 +103,7 @@ def render(source,target):
     def page(c,doc):
         c.saveState();c.setFont('TNR',9);c.setFillColor(HexColor('#52616a'))
         c.drawString(60,A4[1]-32,'KI-native Kanzlei | '+slug)
-        c.drawString(60,30,'Stand: 8. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen')
+        c.drawString(60,30,'Stand: 9. Oktober 2026 | Quellen jeweils am konkreten Fall prüfen')
         c.drawRightString(A4[0]-60,30,str(doc.page));c.restoreState()
     doc=SimpleDocTemplate(str(target),pagesize=A4,leftMargin=60,rightMargin=60,topMargin=53,bottomMargin=52,title=title,author='Klotzkette',subject='KI-native Kanzlei – ausführlicher Skill',invariant=1)
     doc.build(elements,onFirstPage=page,onLaterPages=page)
@@ -134,6 +134,6 @@ def main():
     for row in rows:writer.append(args.out/row['pdf'],outline_item=row['title'])
     writer.add_metadata({'/Title':'KI-native Kanzlei – Die ausführlichen Skills','/Author':'Klotzkette','/Subject':'Mandat, Berufsrecht, Fristen, Facharbeit und Abrechnung'})
     target=args.out/'ki-native-kanzlei-skills-handbuch.pdf';writer.write(target)
-    report={'date':'2026-10-08','layout':'A4, '+FONT_LABEL+' 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
+    report={'date':'2026-10-09','layout':'A4, '+FONT_LABEL+' 11 pt, Zeilenabstand 14.3 pt, Seitenrand etwa 21 mm; keine künstlichen Seitenumbrüche oder Deckblätter pro Skill','font':FONT_LABEL,'skills':rows,'skill_count':len(rows),'total_skill_pages':sum(x['pages'] for x in rows),'handbook_sha256':hashlib.sha256(target.read_bytes()).hexdigest(),'handbook_pages':len(PdfReader(target).pages),'measurement':'Tatsächlich erzeugte PDF-Seiten; keine geschätzte Umrechnung von Wörtern.'}
     (args.out/'umfang.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
 if __name__=='__main__':main()

@@ -21,7 +21,7 @@ Der Auftrag für einen Entwurf umfasst die reversiblen internen Arbeiten, nicht 
 
 ### 1.3. Auslöser, Abgrenzung und Nachbarskills
 
-Bei „Kanzlei neu aufbauen“ beginne mit [Kanzlei gründen und einrichten](../kanzlei-gruenden-einrichten/SKILL.md): Organisation, führende Systeme, erlaubte Konten, Probemandat und Vertretung. Bei einem Postfachstapel beginne mit [Posteingang zu Mandaten bearbeiten](../posteingang-mandate-zuordnen/SKILL.md): Originale, Zuordnung, Frist, konkretes Produkt und Fortsetzungsstand. Lade nur den benötigten Einstieg, nicht alle zwanzig Skills gleichzeitig. Bereits gespeicherte Gründungs- und Kontenangaben werden übernommen.
+Bei „Kanzlei neu aufbauen“ beginne mit [Kanzlei gründen und einrichten](../kanzlei-gruenden-einrichten/SKILL.md): Organisation, führende Systeme, erlaubte Konten, Probemandat und Vertretung. Bei einem Postfachstapel beginne mit [Posteingang zu Mandaten bearbeiten](../posteingang-mandate-zuordnen/SKILL.md): Originale, Zuordnung, Frist, konkretes Produkt und Fortsetzungsstand. Lade nur den benötigten Einstieg, nicht alle dreißig Skills gleichzeitig. Bereits gespeicherte Gründungs- und Kontenangaben werden übernommen.
 
 Bei neuer Anfrage, laufendem Mandat, Fristauslöser, Rechnungsbestellung oder Mandatsende bestimmt dieser Skill das nächste Produkt und verbindet die zuständigen Fachskills. Ein Computerlauf beginnt ebenfalls hier, damit Postfacharbeit, Fristen und Sacharbeit denselben Aktenstand verwenden.
 
@@ -70,7 +70,7 @@ Schreibe intern einen Satz, der Aufgabe, Umfang und Abnahmekriterium verbindet: 
 
 Trenne drei Entscheidungsebenen: Der Nutzer bestimmt Ziel und zulässige externe Handlung, die juristische Bearbeitung den tragfähigen Weg, die technische Bearbeitung die Umsetzung. Eine Konvertierung darf nicht unbemerkt den Antrag verändern, eine Budgetgrenze nicht als Zustimmung zum Rechtsverlust gelesen werden, ein erfolgreicher Prüflauf kein juristisches Risiko erledigen.
 
-### 3.2. Die zwanzig Skills gezielt verbinden
+### 3.2. Die dreißig Skills gezielt verbinden
 
 | Nr. | Skill | Auslöser erkennbar an | Konkreter Anschluss und Abnahme |
 |---|---|---|---|
@@ -94,8 +94,18 @@ Trenne drei Entscheidungsebenen: Der Nutzer bestimmt Ziel und zulässige externe
 | 18 | [Mandat abschließen](../mandat-abschliessen/SKILL.md) | Kündigung, Erfüllung, Rechtskraft oder Mandatswechsel ist eingetreten. | Ergebnis, Restpflichten, Herausgabe, Abrechnung und Aufbewahrung geregelt. |
 | 19 | [Kanzlei gründen und einrichten](../kanzlei-gruenden-einrichten/SKILL.md) | Neue Kanzlei oder Umstellung ihrer Arbeitsorganisation. | Führende Systeme, Zuständigkeiten, begrenzte Kontorechte und belegtes Probemandat. |
 | 20 | [Posteingang zu Mandaten bearbeiten](../posteingang-mandate-zuordnen/SKILL.md) | Mehrere Nachrichten, Anhänge oder Konten müssen zugeordnet werden. | Originale, eindeutige Mandatszuordnung, Fristübergabe und fortsetzbarer Eingangslauf. |
+| 21 | [Tatsachen und Beweise](../akte-chronologie-beweismittel/SKILL.md) | Widersprüchliche Akte oder fehlender Beweisantritt. | Belegbarer Vortrag mit Fundstelle und konkreter Nachforderung. |
+| 22 | [Geldanspruch beziffern](../anspruch-berechnen-beziffern/SKILL.md) | Rechnungen, Gutschriften, Zahlungen oder Zinsanträge. | Nachrechenbarer Forderungsstand und passende Anträge. |
+| 23 | [Dokumente fertigsetzen](../dokumente-erstellen-formatieren/SKILL.md) | Inhalt liegt vor; Word, PDF oder Reinfassung wird benötigt. | Editierbares Dokument, kontrollierte PDF, getrennter Prüfvermerk. |
+| 24 | [Anlagen abgleichen](../anlagen-ordnen-abgleichen/SKILL.md) | Anlagenverweise müssen mit Originalen übereinstimmen. | Geprüfte Zuordnung, eigene PDF je Anlage, offene Lücken. |
+| 25 | [Gezielt erwidern](../schriftsatz-ueberarbeiten-erwidern/SKILL.md) | Neuer Vortrag, gerichtlicher Hinweis oder Teilzahlung. | Angepasste Anträge, konkrete Erklärung und Folgefassung. |
+| 26 | [Gerichtstermin bearbeiten](../gerichtstermin-vorbereiten-nachbereiten/SKILL.md) | Ladung, Beweisbeschluss oder Terminsprotokoll. | Terminsmappe, Instruktion, Mandantenbericht und Fristübergabe. |
+| 27 | [Vergleich formulieren](../vergleich-verhandeln-formulieren/SKILL.md) | Konkretes Einigungsziel oder Gegenangebot. | Vollziehbarer Text, Kostenfolgen und echte Zustimmung. |
+| 28 | [Kostenerstattung beantragen](../gerichtskosten-kostenerstattung/SKILL.md) | Kostentenor oder gegnerische Kostenaufstellung. | Festsetzungsantrag oder bezifferte Einwendungen, nicht Mandantenrechnung. |
+| 29 | [Vollstreckung vorbereiten](../titel-pruefen-vollstreckung-planen/SKILL.md) | Titel und ausbleibende Erfüllung. | Voraussetzungen, Restforderung und konkreter Auftragsentwurf. |
+| 30 | [Kanzleivorlagen pflegen](../mandatswissen-vorlagen-pflegen/SKILL.md) | Freigegebene Arbeit soll wiederverwendbar werden. | Bereinigte Vorlage mit Anwendungsgrenzen und Quellenstand. |
 
-Die Tabelle ist eine Auswahlhilfe, kein Zwanzig-Schritte-Zwang; die tatsächliche Reihenfolge bestimmen Phase und offene Gates aus dem Mandatslauf nach Abschnitt 3.14, nicht die Nummer in der Tabelle. Wird ein Schriftsatz nur an einen belegten Zahlungseingang angepasst, genügen Schriftsatz, Mandantenkommunikation und Zeitanschluss; kommt eine neue Gesellschaft hinzu, werden Annahme, Kollision und Honorarreichweite erneut relevant.
+Die Tabelle ist eine Auswahlhilfe, kein verpflichtender Durchlauf. Die tatsächliche Reihenfolge bestimmen Auftrag, Phase und offene Gates, nicht die Nummer. Bei Zahlungseingang genügen Bezifferung, gezielte Erwiderung und betroffene Folgeprodukte; bei einer neuen Gesellschaft werden Annahme, Kollision und Honorarreichweite erneut relevant. Die [Produktübergabe](../../references/dokumentenproduktion-und-folgesachen.md) regelt die Grenzen: Eine Formatierung ändert keine Rechtsposition, eine Anlagenkontrolle gibt keinen Versand frei, Kostenerstattung ist keine Mandantenrechnung. `mandatslauf.py next --produkt dokument` wählt gezielt, ohne offene Gates zu überspringen.
 
 ### 3.3. Welcher Skill zuerst
 

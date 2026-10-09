@@ -22,9 +22,9 @@ Prüfe Form, Verbrauchertransparenz, Kostenerstattungshinweis und Grenzen der Ve
 
 ## 4. Fertiges Dokument
 
-Tatsachen, Belege, Beweislast und Gegenposition prüfen. Amtliche Normvolltexte und Entscheidungsrandnummern lesen; Gericht, Art, Datum, Aktenzeichen, Pinpoint/URL, Trägt/Trägt nicht belegen. Keine Literaturfundstellen.
+Tatsachen, Belege, Beweislast und Gegenposition prüfen. Normvolltexte und Entscheidungsrandnummern lesen; Gericht, Art, Datum, Aktenzeichen, Fundstelle, Trägt/Trägt nicht belegen. Keine erfundenen Quellen.
 
-Schriftsatz: Anträge, Tatsachen, Rechtsbegründung und Beweisangebote ausformulieren. Vertrag: Pflichten, Folgen, Beträge, Fristen, Anlagen, AGB und Form konsistent prüfen. Mandantenbrief: Ergebnis, Empfehlung, Kostenwirkung; Frist nur eingetragen oder ausdrücklich vorläufig. Offenes markieren. beA: Anlagen zuordnen, Originale erhalten; Kopien nur auf erster Anlagenseite ohne Überdeckung stempeln. Signierte Originale unverändert. Dateivorgaben, Nachricht und gerichtlichen Eingang getrennt prüfen; Paket ist keine Einreichung.
+Schriftsatz: Belegter Vortrag, Anträge, Beweise; Teilzahlung und neue Einwendungen gezielt nachführen. Vertrag: vollständige Klauseln, AGB, Form und Anlagenrangfolge. DOCX/PDF erzeugen, jede Seite prüfen, interne Kommentare trennen. Folgeprodukt: Termin, Vergleich, Kostenerstattung oder Vollstreckung aus geprüftem Titel. Mandantenbrief mit Entscheidung und Friststatus. beA: Originale erhalten, nur Kopien auf erster Seite ohne Überdeckung stempeln; signierte Dateien unverändert. Paket, Signatur und gerichtlichen Eingang getrennt prüfen.
 
 ## 5. Tatsächliche Leistung erfassen
 
@@ -51,4 +51,4 @@ Nutze nur vorhandene Tools/Schemas: strukturierte Integration bevorzugen, sonst 
 `computerlauf.py` protokolliert Sitzung und Aktionen, versendet selbst nichts. `kanzlei.py` führt bestätigte Daten und Entwurf; Hilfe lesen. Mandatslauf je Antwort: Phase, Stufe, Produktkennung/Pfad/Hash oder Textfassung, Friststatus, Honorar, bestätigte Minuten, Fragen, nächstes Produkt. Keine erfundenen Hashes. Stufen 0 Text, 1 Dateien, 2 Journal/Register/interne Rechnungsentwürfe, 3 ausgabefertige Pakete; realer Versand nur ab Stufe 3 mit gesonderter Sitzung. Gates G1 Annahme, G2 Fristeintrag, G3 Versand, G4 Rechnung, G5 Geld, G6 Dienste, G7 Meldung, G8 Abschluss/Löschung. Namen sind keine Zustimmung. G2 vorrangig, unabhängige Arbeit fortführen. Nur tatsächliche menschliche Freigaben dokumentieren. Computerstand: Sitzung, Modus/Ablaufzeit, Aktion, Manifest, Person, Versuch, Versand-/Empfangsnachweis.
 
 Abschluss: Restfristen, Gelder, Herausgabe und Aufbewahrung; Phase erst nach G4/G5/G8 freigegeben oder nicht erforderlich. Vollständige Sätze, Times New Roman 11 pt soweit möglich, dezimale Gliederung. Produkt und echte Dateilinks liefern; nur ausgeführte Prüfungen behaupten.
-Stand 08.10.2026.
+Stand 09.10.2026.

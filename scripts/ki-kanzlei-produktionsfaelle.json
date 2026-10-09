@@ -1,0 +1,462 @@
+[
+  {
+    "slug": "kanzlei-werklohn-lichtbogen-berlin",
+    "title": "Lichtbogen und die letzte Rechnung",
+    "matter": "B-26-184",
+    "summary": "Messestandbau in Berlin: Nachtrag, Abnahme, Gutschrift, Teilzahlung und eine laufende Klage. Der Aktenstand verbindet Beweisaufbereitung, Folgeschriftsatz, Anlagen und Terminsvorbereitung.",
+    "documents": [
+      {
+        "file": "01_Auftrag_Messestand.docx",
+        "sender": "Lichtbogen Messebau GmbH\nKranoldstraße 18, 12051 Berlin\nGeschäftsführer Anselm Bernried\nAuftragsbüro: auftrag@lichtbogen-messe.example",
+        "recipient": "Zinnober Veranstaltungen GmbH\nz. Hd. Gundula Falkenried\nBüro Berlin, Feurigstraße 36, 10827 Berlin",
+        "date": "Berlin, 12. März 2026",
+        "title": "Auftragsbestätigung Forum Stadttechnik",
+        "body": [
+          "Sehr geehrte Frau Falkenried, wir bestätigen Ihren Auftrag vom 10. März für den Messestand H4-17 beim Forum Stadttechnik. Die Veranstaltungsfläche beträgt 48 Quadratmeter. Der Aufbau erfolgt am 11. und 12. April; die gemeinsame Durchsicht ist für den 12. April um 16 Uhr vorgesehen. Der Stand muss am 13. April um 8 Uhr benutzbar sein. Abbau und Rücktransport sind am 15. April ab 19 Uhr vereinbart.",
+          "1. Leistungsumfang\nWir liefern das wiederverwendbare Wandsystem, zwei abschließbare Theken, eine Lagerkabine, zwölf Grafikflächen nach Ihrer Druckfreigabe sowie sechs LED-Spots einschließlich Verteilung. Die Elektroanschlüsse der Halle werden durch den Hallendienst gestellt und von Ihnen separat bezahlt. Verbrauchsmaterial und übliche Montagewerkzeuge sind in unserem Preis enthalten. Über Ihre Grafikfreigabe hinausgehende Motivänderungen bedürfen eines gesonderten Auftrags.",
+          "2. Vergütung\nDie Vergütung beträgt 11000 Euro netto. Hinzu kommen 2090 Euro Umsatzsteuer, insgesamt 13090 Euro. Zusätzliche Leistungen werden vor Ausführung durch Frau Falkenried oder Ihren ausdrücklich benannten Vertreter per E-Mail beauftragt. Für die später besprochenen zwei weiteren Leuchten einschließlich zusätzlicher Traverse bieten wir 1000 Euro netto an; diese Position ist noch nicht Bestandteil der vorstehenden Summe. Eine bloße Abstimmung des Montageteams über die Stellfläche gilt nicht als Preisfreigabe.",
+          "3. Durchsicht und Zahlung\nBei der gemeinsamen Durchsicht werden erkennbare Restarbeiten in einem Protokoll festgehalten. Ihre Ansprechpartnerin ist Frau Falkenried, unser Ansprechpartner vor Ort Korbinian Leutner. Die Rechnung ist vierzehn Tage nach Zugang und erfolgter Abnahme zahlbar. Bitte teilen Sie Einwendungen gegen eine Rechnung unter Nennung der jeweiligen Position mit. Eine Abtretung unserer Forderung ist derzeit nicht vereinbart. Zahlungen sollen nur auf die in der Originalrechnung ausgewiesene, telefonisch verifizierte Geschäftsverbindung erfolgen.",
+          "4. Zugang und Lagerung\nSie beschaffen rechtzeitig die Zufahrtsgenehmigung und bestätigen die Belastbarkeit der vorgesehenen Wandfläche. Unsere wiederverwendbaren Bauteile bleiben unser Eigentum. Für zurückgelassene Gegenstände Ihres Teams benötigen wir vor dem Abbau eine schriftliche Weisung; wir entsorgen keine Exponate eigenmächtig. Die Halle steht nach Ihrer Mitteilung ab 11. April um 7 Uhr zur Verfügung.",
+          "Bitte bestätigen Sie diese Auftragsfassung. Für Lichtbogen: Anselm Bernried. Für Zinnober: Gundula Falkenried, bestätigt am 13. März 2026 per E-Mail. Anlage: Ausstattungsplan H4-17, Stand 10. März. Der Plan befindet sich im Projektordner der Auftraggeberin; dieser Vertragskopie liegt er nicht bei."
+        ]
+      },
+      {
+        "file": "02_Rechnung_2026_041.pdf",
+        "sender": "Lichtbogen Messebau GmbH\nKranoldstraße 18, 12051 Berlin\nBuchhaltung: buchhaltung@lichtbogen-messe.example",
+        "recipient": "Zinnober Veranstaltungen GmbH\nFeurigstraße 36, 10827 Berlin",
+        "date": "Berlin, 16. April 2026",
+        "title": "Rechnung 2026 041",
+        "body": [
+          "Sehr geehrte Damen und Herren, wir berechnen den Aufbau, die Bereitstellung und den Abbau des Messestands H4-17 beim Forum Stadttechnik gemäß Auftragsbestätigung vom 12. März und der E-Mail vom 8. April.",
+          "Standbau und Ausstattung laut Auftragsbestätigung: 11000 Euro netto. Zusätzliche Traverse mit zwei LED-Spots: 1000 Euro netto. Nettosumme: 12000 Euro. Umsatzsteuer 19 Prozent: 2280 Euro. Rechnungsbetrag: 14280 Euro.",
+          "Der Leistungszeitraum war der 11. bis 15. April 2026. Die Standübergabe erfolgte am 12. April mit dem beigefügten Montagevermerk. Die Rechnungsdatei wurde am 16. April um 10:18 Uhr an rechnungen@zinnober-veranstaltungen.example übermittelt. Bitte verwenden Sie bei Zahlung die Rechnungsnummer 2026-041. Die Bankverbindung ist in der separat übermittelten Zahlungsanweisung hinterlegt; die vorliegende Aktenkopie enthält keine nutzbare Kontonummer.",
+          "Rückfragen bearbeitet unsere Buchhalterin Ottilie Kern. Bitte gleichen Sie nicht eigenständig einzelne Positionen mit früheren Angeboten ab, sondern benennen Sie uns die konkrete Abweichung. Wir übersenden erforderliche Leistungsunterlagen auf Anfrage. Mit freundlichen Grüßen, Ottilie Kern, Buchhaltung. Anlage: Montagevermerk vom 12. April."
+        ]
+      },
+      {
+        "file": "03_Montagevermerk.docx",
+        "sender": "Lichtbogen Messebau GmbH\nProjekt H4-17\nMontageleitung Korbinian Leutner",
+        "recipient": "Projektablage Forum Stadttechnik",
+        "date": "Berlin, 12. April 2026, 16:35 Uhr",
+        "title": "Standdurchsicht und Restarbeiten",
+        "body": [
+          "Anwesend waren Korbinian Leutner und Selma Riedinger für Lichtbogen sowie Gundula Falkenried für Zinnober. Der Hallenelektriker kam erst gegen 16:20 Uhr dazu. Wir konnten deshalb den Lichtkreis zunächst nicht gemeinsam einschalten. Die Theken waren montiert und ließen sich abschließen; die vier Schlüssel wurden Frau Falkenried übergeben.",
+          "Frau Falkenried beanstandete eine Falte an Grafikfläche G7 und den Abstand der Theke zur Lagerkabine. Selma hat G7 neu gespannt. Die Theke wurde etwa 20 Zentimeter versetzt. Danach sagte Frau Falkenried, dass der Stand für den nächsten Morgen so bleiben könne. Einen Vordruck wollte sie nicht unterschreiben, weil sie noch zu einem Termin musste. Die Prüfung der Beleuchtung habe ich nach ihrem Weggang zusammen mit dem Elektriker durchgeführt.",
+          "Auf dem Arbeitszettel habe ich sechs LED-Spots abgehakt. Die zwei zusätzlichen Leuchten an der rechten Traverse waren zunächst nicht auf unserem Wagen. Selma meint, sie habe sie später vom Fahrzeug geholt. In meinem eigenen Abschlussfoto ist die rechte Traverse nicht vollständig zu sehen. Frau Falkenried hat nach meiner Erinnerung nicht darüber gesprochen, welche Leuchten im Grundpreis enthalten sind. Bei Preisen sollte das Büro gefragt werden.",
+          "Am 13. April um 8:45 Uhr meldete die Standbetreuerin eine flackernde Leuchte. Ich war um 9:20 Uhr vor Ort und habe ein Anschlusskabel neu eingesetzt. Danach blieb das Licht bei der kurzen Kontrolle an. Die Nummer der betroffenen Leuchte habe ich nicht aufgeschrieben. Für den Rücktransport wurden am 15. April acht Leuchten im Lager erfasst. Ob alle acht während der gesamten Veranstaltung montiert waren, kann ich aus dem Rücktransportzettel allein nicht erkennen.",
+          "Nachtrag vom 17. April: Frau Falkenried rief mich um 11:47 Uhr an. Sie sprach von verlorenen Gesprächen am ersten Morgen und wollte wissen, wer die Reklamation bearbeitet. Ich habe sie an Herrn Bernried verwiesen. Keine Zusage zu Preisnachlass oder Schadensersatz. Korbinian Leutner."
+        ]
+      },
+      {
+        "file": "04_Gutschrift_2026_017.pdf",
+        "sender": "Lichtbogen Messebau GmbH\nBuchhaltung Ottilie Kern",
+        "recipient": "Zinnober Veranstaltungen GmbH\nFeurigstraße 36, 10827 Berlin",
+        "date": "Berlin, 8. Mai 2026",
+        "title": "Gutschrift zur Rechnung 2026 041",
+        "body": [
+          "Sehr geehrte Frau Falkenried, nach dem Gespräch mit Herrn Bernried vermindern wir die Rechnung 2026-041 um 1000 Euro netto zuzüglich 190 Euro Umsatzsteuer. Die Gutschrift beträgt 1190 Euro. Sie bezieht sich auf die Position zusätzliche Traverse mit zwei LED-Spots. Der verbleibende Rechnungsbetrag beträgt 13090 Euro.",
+          "Die Gutschrift erfolgt zur Bereinigung dieser Rechnungsposition. Eine Zahlung haben wir bis heute nicht erhalten. Die von Ihnen behaupteten weiteren Schäden sind nicht Bestandteil dieser Gutschrift. Bitte senden Sie uns die angeforderten Belege zu den von Ihnen genannten entgangenen Gesprächen. Der technische Montagebericht enthält hierzu keine Angaben.",
+          "Bitte zahlen Sie den verbleibenden Betrag bis zum 22. Mai 2026. Den Eingang dieser Gutschrift hat Ihr Rechnungsbüro heute um 14:02 Uhr bestätigt. Diese Gutschrift ersetzt nicht die ursprüngliche Rechnung; beide Dokumente sind zusammen aufzubewahren. Mit freundlichen Grüßen, Ottilie Kern."
+        ]
+      },
+      {
+        "file": "05_Verfuegung_LG_Berlin_II.pdf",
+        "sender": "Landgericht Berlin II\nZivilkammer 25\nGeschäftsstelle",
+        "recipient": "Rechtsanwalt Tassilo Werdenfels\nProzessbevollmächtigter der Lichtbogen Messebau GmbH",
+        "date": "Berlin, 25. September 2026",
+        "title": "Lichtbogen gegen Zinnober Aktenzeichen 25 O 184/26",
+        "body": [
+          "In dem Rechtsstreit wird der Klägerin der beigefügte Schriftsatz der Beklagten vom 23. September zur Stellungnahme binnen drei Wochen ab Zustellung übermittelt. Die Klägerin möge sich insbesondere zur behaupteten Zahlung vom 21. September erklären. Außerdem wird um Darlegung gebeten, wann die Leistung nach ihrer Auffassung abgenommen wurde und welche konkreten Wahrnehmungen die benannten Personen hierzu gemacht haben.",
+          "Der Termin zur Güteverhandlung und mündlichen Verhandlung bleibt auf den 5. November 2026, 10:30 Uhr, Sitzungssaal 207 bestimmt. Persönliches Erscheinen der gesetzlichen Vertreter beider Parteien wird angeordnet. Gegenwärtig ist keine Zeugenladung veranlasst. Die Parteien werden gebeten, bis zum Termin Möglichkeiten einer einvernehmlichen Erledigung zu erörtern.",
+          "Die mit der Klage vom 20. August eingereichten Anlagen K1 bis K4 verbleiben unverändert in der Akte: Auftragsbestätigung, Rechnung, Gutschrift und Mahnung. Neu einzureichende Unterlagen sind eindeutig zu bezeichnen. Die Geschäftsstelle kann keine inhaltlichen Auskünfte zum Rechtsstreit geben.",
+          "Für die Geschäftsstelle: Adelheid Reichenbach. Elektronische Zustellung an den Prozessbevollmächtigten; das gesonderte Empfangsbekenntnis weist den 25. September 2026 aus. Der Ausdruck gibt die übersandte Verfügung wieder, nicht einen Nachweis einer späteren Antwort der Klägerin."
+        ]
+      },
+      {
+        "file": "06_Mandantenauftrag.eml",
+        "from": "Anselm Bernried <anselm.bernried@lichtbogen-messe.example>",
+        "to": "Tassilo Werdenfels <t.werdenfels@kanzlei-werdenfels.example>",
+        "date": "2026-10-08T09:12:00+02:00",
+        "subject": "B-26-184 Gerichtspost und der Betrag auf dem Konto",
+        "body": "Guten Morgen Herr Werdenfels, bitte antworten Sie auf die Gerichtspost. Die 5000 Euro sind wirklich am 21. September eingegangen. Ottilie hat den Buchungsexport beigelegt. Wir hatten davor am Telefon ausdrücklich gesagt, dass diese Zahlung auf die verbliebene Hauptrechnung gehen soll, ohne Erledigung der restlichen Sache. Herr Plötz von Zinnober hat das in der Mail vom 18. September bestätigt.\n\nDie Rechnung über 14280 Euro liegt noch im Verkaufsordner, aber die Gutschrift haben wir natürlich gebucht. Bitte nehmen Sie nicht wieder die alte Rechnungssumme. Dass jetzt die ganze Beleuchtung schlecht gewesen sein soll, ärgert mich. Korbinian hat das Kabel am ersten Morgen gerichtet. Zum Auftrag für die zwei weiteren Leuchten finde ich die Mail gerade nicht. Frau Falkenried hatte am 8. April nur geschrieben, wir sollten die Ecke heller machen.\n\nIch möchte möglichst keinen langen Termin. Über eine Einigung würde ich reden, aber ich habe noch keinen Betrag zugesagt. Bitte schicken Sie mir die Antwort und eine verständliche Einschätzung, was für den Termin fehlt. Unterlagen dürfen zunächst nur intern verwendet werden. Viele Grüße, Anselm Bernried\nLichtbogen Messebau GmbH | Geschäftsführung | Kranoldstraße 18, Berlin"
+      },
+      {
+        "file": "07_Zahlungsvereinbarung.eml",
+        "from": "Balduin Plötz <b.ploetz@zinnober-veranstaltungen.example>",
+        "to": "Ottilie Kern <buchhaltung@lichtbogen-messe.example>",
+        "date": "2026-09-18T15:26:00+02:00",
+        "subject": "Rechnung 2026-041 Teilzahlung",
+        "body": "Guten Tag Frau Kern, wie eben mit Herrn Bernried besprochen überweisen wir am Montag 5000 Euro ausschließlich auf die Hauptforderung aus der Rechnung nach Ihrer Gutschrift. Wir sind uns einig, dass diese Zahlung zunächst nicht auf Zinsen und Kosten verrechnet wird. Damit ist keine Erklärung zum Restbetrag verbunden.\n\nDie beiden Veranstaltungstage waren für uns aufwendig. Die fehlenden Gespräche lassen sich schwer einzeln auflisten. Frau Falkenried stellt gerade ihre Notizen zusammen. Der Anwalt erhält diese Mail ebenfalls als Kopie. Wir möchten nicht, dass die Überweisung als vorbehaltlose Anerkennung aller geltend gemachten Ansprüche bezeichnet wird.\n\nFreundliche Grüße, Balduin Plötz, Finanzen\nZinnober Veranstaltungen GmbH\nFeurigstraße 36, 10827 Berlin\n\n> Frau Kern, 18.09.2026, 15:04 Uhr: Bitte bestätigen Sie zur Buchung die besprochene Zuordnung ausschließlich auf die Hauptforderung. Die übrigen Positionen bleiben gesondert."
+      },
+      {
+        "file": "08_Gegnerischer_Vortrag.docx",
+        "sender": "Rechtsanwalt Leander Tann\nProzessbevollmächtigter Zinnober Veranstaltungen GmbH\npost@kanzlei-tann.example",
+        "recipient": "Landgericht Berlin II\n25 O 184/26",
+        "date": "Berlin, 23. September 2026",
+        "title": "Stellungnahme der Beklagten",
+        "body": [
+          "Namens der Beklagten halten wir am Antrag auf Klageabweisung fest. Die Beklagte hat am 21. September 5000 Euro auf den nach Gutschrift verbliebenen Hauptbetrag gezahlt. Die Klägerin wird aufgefordert, dies bei ihren Anträgen zu berücksichtigen. Die Zahlung bedeutet keine Zustimmung zum übrigen Vortrag.",
+          "Die Beklagte bestreitet eine Abnahme am 12. April. Frau Falkenried musste die Halle verlassen, bevor die Beleuchtung geprüft werden konnte. Am nächsten Morgen flackerte eine Leuchte. Der Messestand war zwar im Übrigen benutzbar; die Beklagte hatte aber durch den technischen Einsatz zusätzlichen Aufwand. Sie behauptet einen weiteren Nachteil von 2400 Euro. Eine abschließende Belegaufstellung liegt noch nicht vor.",
+          "Die Klägerin möge den Auftrag über die zusätzlichen Leuchten vorlegen. Die Gutschrift beseitigt nach Auffassung der Beklagten nicht sämtliche Folgen der unzureichenden Beleuchtung. Beweis für den Ablauf der Durchsicht: Zeugnis der Gundula Falkenried, zu laden über die Beklagte. Frau Falkenried ist Projektleiterin, nicht Geschäftsführerin. Gesetzlicher Vertreter ist Balduin Plötz.",
+          "Für eine Verständigung ist die Beklagte grundsätzlich offen. Ein konkretes Angebot wird gegenwärtig nicht abgegeben. Leander Tann, Rechtsanwalt. Anlage B1: Überweisungsbestätigung vom 21. September über 5000 Euro."
+        ]
+      },
+      {
+        "file": "09_Buchungsjournal.csv",
+        "rows": [
+          [
+            "Datum",
+            "Beleg",
+            "Soll_EUR",
+            "Haben_EUR",
+            "Buchungstext"
+          ],
+          [
+            "2026-04-16",
+            "2026-041",
+            "14280.00",
+            "0.00",
+            "Messestand H4-17"
+          ],
+          [
+            "2026-05-08",
+            "G-2026-017",
+            "0.00",
+            "1190.00",
+            "Gutschrift Traverse"
+          ],
+          [
+            "2026-09-21",
+            "BANK-0921",
+            "0.00",
+            "5000.00",
+            "Hauptforderung laut Vereinbarung"
+          ],
+          [
+            "2026-10-08",
+            "ABSTIMMUNG",
+            "0.00",
+            "0.00",
+            "Keine weitere Zahlung gebucht"
+          ]
+        ]
+      },
+      {
+        "file": "10_Telefonnotiz.txt",
+        "body": "Kanzlei Werdenfels | B-26-184 | Telefonnotiz\n8. Oktober 2026, 11:47 bis 11:59 Uhr\nGespräch: Selma Riedinger mit Sekretariat Irmgard Seidel\n\nFrau Riedinger ruft aus der Straßenbahn an. Sie möchte nur sagen, dass acht Leuchten zurück ins Lager gekommen sind. Sie kann heute nicht mehr sagen, ob sie die zusätzlichen beiden selbst montiert hat oder ob der Hallenelektriker das gemacht hat. Den Preis hat sie mit Frau Falkenried nicht besprochen. Frau Riedinger ist am 5. November im Urlaub, aber tagsüber telefonisch erreichbar. Es wurde keine Aussage abgestimmt und kein Zeugentermin zugesagt.\n\nFrau Seidel bittet um die ursprünglichen Fotos, nicht um bearbeitete Bildausschnitte. Riedinger will am Abend im alten Diensthandy nachsehen. Noch kein Eingang. Rückrufnummer liegt im Mandatsstamm. Postausgang: keine Nachricht an Gericht oder Gegner. Notiert von Irmgard Seidel um 12:03 Uhr.\n"
+      }
+    ]
+  },
+  {
+    "slug": "kanzlei-softwarevertrag-hafenfaden-hamburg",
+    "title": "Hafenfaden und die drei Vertragsfassungen",
+    "matter": "H-26-073",
+    "summary": "Eine Hamburger Softwarebeschaffung mit abweichenden Vertragsfassungen, Leistungsanlage und vertraulicher Verhandlungsnotiz. Schwerpunkt sind Vertragsabgleich, saubere Reinfassung und sichere Dokumentenproduktion.",
+    "documents": [
+      {
+        "file": "01_Mandantenauftrag.eml",
+        "from": "Kunigunde Heller <k.heller@hafenfaden.example>",
+        "to": "Ottokar Drechsler <o.drechsler@kanzlei-drechsler.example>",
+        "date": "2026-10-07T08:41:00+02:00",
+        "subject": "H-26-073 Welche Fassung können wir unterschreiben?",
+        "body": "Guten Morgen Herr Drechsler, wir möchten die Lageranbindung von Perlwerk möglichst noch im November nutzen. Im Ordner liegen deren Entwurf 2, unser Rücklauf und die Fassung 3 von gestern. Bitte machen Sie daraus einen sauberen Vertrag mit Anlagen, den ich intern zur Unterschrift vorlegen kann. Ich habe noch nichts unterschrieben. Unsere E-Mail vom 1. Oktober war keine allgemeine Zustimmung, sondern sollte nur den Projektstart besprechen.\n\nDie 40 Nutzer stehen fest. Für den zweiten Standort fehlt noch die Freigabe. Die Lizenz soll deshalb zunächst nicht automatisch mitwachsen. Außerdem möchte ich wissen, ob die Schnittstelle zum alten Warenwirtschaftssystem tatsächlich im Preis enthalten ist. Im Vertriebsgespräch hieß es ja, im neuen Text steht etwas von gesondertem Angebot.\n\nUnser Einkaufsvermerk darf keinesfalls an Perlwerk gehen. Dort steht der Spielraum für die Haftung. Die Mitarbeiterdaten im beigefügten CSV sind nur interne Kontaktrollen, keine Benutzerkonten. Bitte erzeugen Sie eine editierbare Reinfassung, eine PDF und eine getrennte Erläuterung der noch offenen Punkte. Noch nicht an den Anbieter senden.\n\nFreundliche Grüße\nKunigunde Heller, Geschäftsführung\nHafenfaden Handelslogistik GmbH\nSchutenweg 14, 20457 Hamburg"
+      },
+      {
+        "file": "02_Vertrag_Anbieter_V2.docx",
+        "sender": "Perlwerk Systems GmbH\nVertragsmanagement | Hamburg\nvertrag@perlwerk.example",
+        "recipient": "Hafenfaden Handelslogistik GmbH\nSchutenweg 14, 20457 Hamburg",
+        "date": "Hamburg, 24. September 2026",
+        "title": "Nutzungsvertrag Lagerportal Fassung 2",
+        "body": [
+          "1. Vertragsparteien und Leistung\nPerlwerk Systems GmbH, vertreten durch Geschäftsführer Fridolin Auer, stellt Hafenfaden Handelslogistik GmbH das Lagerportal für 40 namentlich verwaltete Benutzer zur Verfügung. Der erste Standort ist das Lager Schutenweg. Die bestehende Warenwirtschaft bleibt führend für Bestände und Rechnungsstellung. Die Schnittstelle ist in Anlage 1 beschrieben. Die vertragsgegenständliche Nutzung beginnt am 1. November 2026.",
+          "2. Vergütung\nDie laufende Vergütung beträgt 24000 Euro netto pro Vertragsjahr. Die Einrichtung und einmalige Migration kosten 14800 Euro netto. Die Einrichtung wird zur Hälfte bei Auftrag und zur Hälfte nach dokumentiertem Funktionstest abgerechnet. Die laufende Vergütung ist monatlich mit 2000 Euro netto zum Monatsende fällig. Umsatzsteuer kommt in gesetzlicher Höhe hinzu. Zusätzliche Standorte und Benutzer bedürfen einer gesonderten Vereinbarung.",
+          "3. Funktionsprüfung\nVor Beginn der produktiven Nutzung werden Wareneingang, Umbuchung und Versand im Testsystem gemeinsam durchgeführt. Abweichungen werden mit Datum und Beispieldatensatz dokumentiert. Der Anbieter erhält Gelegenheit zur Korrektur. Die Nutzung einzelner Funktionen während des Probebetriebs gilt nicht als abschließende Bestätigung sämtlicher Funktionen. Welche rechtliche Bedeutung dem Funktionstest für die Einrichtung zukommt, ist in der abschließenden Vertragsfassung ausdrücklich zu regeln.",
+          "4. Betrieb und Unterstützung\nDer Support ist an Werktagen Montag bis Freitag zwischen 8 und 18 Uhr erreichbar. Eine Meldung, die sämtliche Lagerbuchungen verhindert, wird binnen zwei Stunden bestätigt. Eine Bestätigung ist noch keine zugesagte Behebung. Wartungsfenster werden mindestens fünf Werktage vorher angekündigt. Einzelheiten zur Verfügbarkeit und zur Wiederherstellung ergeben sich aus Anlage 2, die dem vorliegenden Entwurf noch nicht beigefügt ist.",
+          "5. Laufzeit und Daten\nDie Mindestlaufzeit beträgt zwölf Monate. Die weitere Laufzeit und die Kündigungsfrist sind noch zu vereinbaren. Bei Vertragsende werden die vom Kunden eingegebenen Geschäftsdaten in einem dokumentierten CSV-Export herausgegeben. Eine Aufbewahrungspflicht des Kunden wird hierdurch nicht ersetzt. Personenbezogene Benutzerinformationen werden nur im vereinbarten Umfang verarbeitet; die gesonderte Vereinbarung hierzu ist noch nicht abgeschlossen.",
+          "6. Haftung und Unterschriften\nDie Haftungsregelung bleibt der Schlussabstimmung vorbehalten. Der Kunde hat in seinem Rücklauf eine Beschränkung auf typische vorhersehbare Schäden unter Wahrung zwingender Haftung vorgeschlagen. Aus dieser Entwurfsfassung kann keine bereits getroffene Vereinbarung abgeleitet werden. Für Perlwerk: Fridolin Auer. Für Hafenfaden: Kunigunde Heller. Unterschriftsfelder sind unbesetzt. Anlagen: 1 Schnittstellenumfang, 2 Betriebsbedingungen. Beide Anlagen müssen mit dem Vertrag abgestimmt werden."
+        ]
+      },
+      {
+        "file": "03_Anbieter_Aenderungen_V3.docx",
+        "sender": "Perlwerk Systems GmbH\nFridolin Auer | Vertragsmanagement",
+        "recipient": "Hafenfaden Handelslogistik GmbH\nKunigunde Heller",
+        "date": "Hamburg, 6. Oktober 2026",
+        "title": "Änderungsfassung 3 zum Lagerportal",
+        "body": [
+          "Sehr geehrte Frau Heller, nach dem Gespräch mit Ihrem Einkauf schlagen wir die folgenden Änderungen gegenüber der Fassung 2 vor. Alle nicht genannten Teile sollen aus Fassung 2 übernommen werden. Dies ist kein unterschriebener Vertrag. Wir bitten um ausdrückliche Bestätigung der Änderungen zusammen mit den Anlagen.",
+          "1. Vergütung und Standorte\nDie Jahresvergütung bleibt bei 24000 Euro netto. Für jeden zusätzlich angeschlossenen Standort erhöht sie sich ab Freischaltung um 6000 Euro netto jährlich. Werden weitere Benutzer über die vereinbarten 40 hinaus angelegt, gilt die bei Freischaltung übermittelte Preisliste. Die Einrichtungskosten bleiben 14800 Euro netto. Individuelle Schnittstellenanpassungen an nicht dokumentierte Altsysteme werden nach gesondertem Angebot berechnet.",
+          "2. Laufzeit\nDie Mindestlaufzeit soll 24 Monate betragen. Der Vertrag verlängert sich anschließend jeweils um zwölf Monate, wenn er nicht drei Monate vor Ablauf gekündigt wird. Das Vertragsjahr beginnt mit produktiver Freischaltung, spätestens am 1. Dezember 2026. Verzögerungen, die auf fehlenden Kundendaten beruhen, sollen den Beginn der Vergütungspflicht nicht verschieben.",
+          "3. Technische Anlagen\nFür die Schnittstelle gilt die Leistungsübersicht 1b vom 5. Oktober. Unsere Betriebsbedingungen vom 2. Oktober sollen als Anlage 2 beigefügt werden. Im Fall von Widersprüchen sollen die Betriebsbedingungen vor der Leistungsübersicht gelten. Die bisherige Anlage 1 vom 24. September wird damit ersetzt. Eine abschließende Reihenfolge gegenüber dem Hauptvertrag ist noch nicht formuliert.",
+          "4. Haftung\nDer Anbieter schlägt eine betragsmäßige Begrenzung auf eine Jahresvergütung vor. Ihr Rechtsberater möge die Ausnahmen und die genaue Formulierung ergänzen. Ein vollständiger Ausschluss bei Datenverlust wird von uns nicht verlangt; wir benötigen aber eine Regelung zu den vereinbarten Sicherungspflichten des Kunden. Weitergehende Zusagen aus Verkaufsgesprächen sind aus unserer Sicht nicht getroffen worden.",
+          "Bitte beachten Sie, dass die im Projektteam versandte Datei mit dem Zusatz final nur den technischen Stand bezeichnet. Rechtsverbindliche Unterschriften liegen uns nicht vor. Mit freundlichen Grüßen, Fridolin Auer. Anlage 1b ist beigefügt; Anlage 2 folgt nach interner Freigabe."
+        ]
+      },
+      {
+        "file": "04_Leistungsanlage_1b.docx",
+        "sender": "Perlwerk Systems GmbH\nTechnische Projektleitung Marlene Klipp",
+        "recipient": "Projekt Lagerportal Hafenfaden",
+        "date": "Hamburg, 5. Oktober 2026",
+        "title": "Leistungsübersicht Schnittstelle 1b",
+        "body": [
+          "1. Eingehende Daten\nDie Warenwirtschaft sendet Artikelnummer, Lagerplatz, Menge und Zeitstempel als CSV. Der Import erfolgt alle fünfzehn Minuten. Die Datei muss UTF-8-kodiert sein. Artikelnummern mit führenden Nullen werden als Text verarbeitet. Eine erste Beispieldatei mit 250 Artikeln wurde am 29. September erfolgreich gelesen. Der Versuch enthielt noch keine Chargen- oder Seriennummern.",
+          "2. Ausgehende Daten\nDas Portal liefert bestätigte Wareneingänge und Umbuchungen zurück. Bei fehlerhaften Zeilen wird ein Fehlerbericht erzeugt; korrekte Zeilen derselben Datei sollen weiterverarbeitet werden. Eine Rückmeldung aus dem Altsystem über die endgültige Verbuchung ist derzeit nicht enthalten. Doppelte Übermittlung derselben Datei muss anhand einer eindeutigen Importkennung erkannt werden. Die Bildung dieser Kennung ist zwischen den Projektteams noch abzustimmen.",
+          "3. Nicht enthaltener Umfang\nEine unmittelbare Anbindung des zweiten Standorts, automatisierte Zollmeldungen und die Steuerung von Fördertechnik sind nicht Gegenstand dieser Übersicht. Für das Altsystem werden nur die oben genannten Felder unterstützt. Die im Verkaufsgespräch erwähnte Lagerwertberechnung wird weiterhin in der Warenwirtschaft ausgeführt. Das Portal zeigt Stückzahlen, keine verbindlichen bilanziellen Werte.",
+          "4. Probebetrieb\nVorgesehen sind zehn zusammenhängende Arbeitstage mit einem begrenzten Artikelbestand. Hafenfaden benennt zwei Ansprechpartner und protokolliert Abweichungen mit Importkennung und Uhrzeit. Perlwerk stellt eine erreichbare technische Ansprechperson. Bei abgebrochenen Importen bleiben Originaldateien erhalten. Es darf keine bereinigte Datei über dieselbe Importkennung erneut gebucht werden, ohne den vorherigen Stand abzugleichen.",
+          "Freigabestand: technischer Entwurf. Marlene Klipp, Projektleitung. Ein kaufmännischer Nachtrag oder eine Zustimmung zu Vertragslaufzeit und Haftung ist mit diesem Dokument nicht verbunden."
+        ]
+      },
+      {
+        "file": "05_Einkaufsvermerk.docx",
+        "sender": "Hafenfaden Handelslogistik GmbH\nEinkauf und Geschäftsführung\nNur interne Ablage",
+        "recipient": "Kunigunde Heller und Rechtsberater",
+        "date": "Hamburg, 7. Oktober 2026",
+        "title": "Verhandlungsnotiz Lagerportal",
+        "body": [
+          "Die operative Einführung ist erwünscht, aber die zusätzliche Mindestlaufzeit ist nicht intern freigegeben. Einkauf und Lagerleitung gingen bisher von zwölf Monaten aus. Der zweite Standort ist noch nicht beschlossen. Das Budget enthält 24000 Euro laufende Jahreskosten und 14800 Euro Einrichtung, jeweils netto. Für weitere Standorte besteht kein reserviertes Budget.",
+          "Der Einkauf würde eine höhere Haftungsgrenze als eine Jahresvergütung bevorzugen. Die Geschäftsführung hat eine interne Verhandlungsobergrenze für die Einrichtung von 16000 Euro netto genannt. Diese Zahl soll nicht nach außen gegeben werden. Eine Zusage, dass wir sämtliche Fehler des Altsystems selbst tragen, ist ebenfalls nicht freigegeben. Der bisherige Dienstleister liefert erst am 15. Oktober die vollständige Feldbeschreibung.",
+          "Die von Herrn Auer angesprochene Preisliste liegt nicht vor. Wir haben weder zusätzliche Benutzer angelegt noch eine Zustimmung zu automatisch wechselnden Preisen erteilt. Die Lagerleitung hat eine Liste der Rollen, nicht der Zugangsdaten, beigefügt. Das Passwortblatt gehört nicht in den Vertragsordner und wurde nicht übergeben.",
+          "Bitte bei einer Reinfassung auf einen einheitlichen Anlagenstand achten. Im Vertrieb wurde noch die Anlage vom September gezeigt. Wir möchten nicht versehentlich eine neue technische Ausnahme akzeptieren, nur weil die Datei als final bezeichnet wird. Nach der juristischen Bearbeitung entscheidet Frau Heller über die einzelnen offenen Punkte. Notiert von Sieglinde Fuchs, Einkauf. Noch keine externe Versendung."
+        ]
+      },
+      {
+        "file": "06_Technik_Rueckfrage.eml",
+        "from": "Marlene Klipp <m.klipp@perlwerk.example>",
+        "to": "Ludwig Österlein <l.oesterlein@hafenfaden.example>",
+        "date": "2026-10-06T16:18:00+02:00",
+        "subject": "Re: Importkennung und alte Artikelnummern",
+        "body": "Hallo Herr Österlein, die Artikelnummern mit führender Null bleiben erhalten. Bitte bestätigen Sie noch, ob Ihr Export pro Datei eine eindeutige Kennung enthält. Ohne diese Information kann unser Team den Wiederholungsfall nicht abschließend testen.\n\nZu den Chargen: Die bisherige Beispieldatei hatte keine solche Spalte. Das ist nicht dasselbe wie die Aussage, dass wir Chargen grundsätzlich nicht unterstützen. Wir müssen das Format sehen und prüfen, ob es innerhalb des vereinbarten Umfangs liegt. Bitte keine produktiven Personendaten oder Passwörter schicken.\n\nDie Datei mit dem Wort final ist unsere technische Versandfassung. Der Vertrag ist dadurch nicht unterschrieben. Anlage 2 befindet sich noch beim Vertragsmanagement.\n\nViele Grüße\nMarlene Klipp, technische Projektleitung\nPerlwerk Systems GmbH\n\n> Ludwig Österlein, 06.10.2026, 15:02 Uhr: Im Lager kursieren jetzt zwei Listen. Welche ist für unseren Funktionstest gemeint? Und bleibt die Null vor der Artikelnummer wirklich erhalten?"
+      },
+      {
+        "file": "07_Projektchat.txt",
+        "body": "Export Projektkanal Lagerportal | 6. Oktober 2026 | Zeitangaben MESZ\n09:10 Ludwig Österlein: Ich habe die CSV vom alten System jetzt im Projektordner. Keine echten Benutzerdaten dabei.\n09:14 Sieglinde Fuchs: Bitte noch nichts bei Perlwerk bestellen. Frau Heller ist bis zwölf im Termin.\n09:18 Marlene Klipp: Die Anlage 1b ist der technische Stand. Kaufmännisch kann ich keine Zusage geben.\n10:03 Ludwig Österlein: Im Entwurf stehen jetzt 24 Monate. Hatten wir nicht ein Jahr gesagt?\n10:06 Sieglinde Fuchs: Ja, unser Budget ist jährlich. Ich markiere das für den Anwalt.\n13:41 Kunigunde Heller: Bitte saubere Unterschriftsfassung erst nach Klärung. Den internen Einkaufszettel nicht an den Anbieter weiterleiten.\n13:44 Ludwig Österlein: Verstanden. Die Bezeichnung final nehme ich aus unserer internen Kopie raus, damit hier keiner unterschreibt.\nExport durch Sieglinde Fuchs, 7. Oktober 2026 um 08:10 Uhr. Weitere ältere Nachrichten sind nicht Bestandteil dieses Ausschnitts.\n"
+      },
+      {
+        "file": "08_Rollen_und_Standorte.csv",
+        "rows": [
+          [
+            "Standort",
+            "Rolle",
+            "Anzahl",
+            "Freigabe",
+            "Quelle"
+          ],
+          [
+            "Schutenweg",
+            "Wareneingang",
+            "12",
+            "erteilt",
+            "Besprechung 29.09.2026"
+          ],
+          [
+            "Schutenweg",
+            "Versand",
+            "18",
+            "erteilt",
+            "Besprechung 29.09.2026"
+          ],
+          [
+            "Schutenweg",
+            "Lagerleitung",
+            "6",
+            "erteilt",
+            "Besprechung 29.09.2026"
+          ],
+          [
+            "Schutenweg",
+            "Administration",
+            "4",
+            "erteilt",
+            "Besprechung 29.09.2026"
+          ],
+          [
+            "Zweiter Standort",
+            "Offen",
+            "0",
+            "ausstehend",
+            "Einkaufsvermerk 07.10.2026"
+          ]
+        ]
+      },
+      {
+        "file": "09_Anwaltliche_Eingangsbestaetigung.eml",
+        "from": "Ottokar Drechsler <o.drechsler@kanzlei-drechsler.example>",
+        "to": "Kunigunde Heller <k.heller@hafenfaden.example>",
+        "date": "2026-10-07T12:07:00+02:00",
+        "subject": "H-26-073 Unterlagen eingegangen",
+        "body": "Sehr geehrte Frau Heller, ich habe Ihre drei Textfassungen und die technische Anlage erhalten. Die angekündigte Anlage 2 und die zusätzliche Preisliste sind im Eingang nicht enthalten. Bitte leiten Sie beides weiter, sobald es vorliegt.\n\nWir bearbeiten zunächst eine interne Entwurfsfassung. Sie erhalten gesondert die offenen kaufmännischen Punkte. Eine Nachricht an Perlwerk ist bisher nicht beauftragt. Ihre interne Preisgrenze bleibt in unserer Handakte und wird nicht in den Vertragsentwurf übernommen. Für die Arbeit gilt der bereits vereinbarte Stundensatz von 240 Euro netto. Das vereinbarte Budget von 1800 Euro netto ist unverändert.\n\nBitte teilen Sie mir noch mit, ob die Geschäftsführung die zwölfmonatige Laufzeit verbindlich vorgeben möchte oder hierzu nur eine Verhandlungspräferenz besteht. Diese Frage muss nicht die Bearbeitung der übrigen Klauseln verzögern.\n\nMit freundlichen Grüßen\nOttokar Drechsler, Rechtsanwalt\nKanzlei Drechsler | Hamburg\npost@kanzlei-drechsler.example"
+      },
+      {
+        "file": "10_Posteingangsvermerk.txt",
+        "body": "Kanzlei Drechsler | H-26-073\n8. Oktober 2026, 17:05 Uhr | Irmgard Pohl\n\nEingangskontrolle: Fassung 2, Änderungsfassung 3, Anlage 1b, Einkaufsvermerk, Projektchat und Rollenliste liegen vor. Die Mandantin nannte telefonisch eine Datei Betriebsbedingungen_02_10.pdf. In ihrer Nachricht war diese Datei nicht angehängt. Eine Weiterleitung wurde für morgen angekündigt.\n\nDie Datei 03 ist keine unterschriebene Gesamtfassung, sondern enthält nur Änderungsvorschläge. Im vorgesehenen Unterschriftenordner liegt noch nichts. Keine Dokumente wurden an den Anbieter gesendet. Der Einkauf bat darum, die PDF später ohne Kommentare zu erhalten und die Änderungen in einem getrennten Vermerk zu erläutern. Es wurde keine endgültige Freigabe der Laufzeit erklärt.\n\nWiedervorlage am 9. Oktober zur Kontrolle des angekündigten Eingangs, keine gerichtliche Frist. Verantwortlich: Rechtsanwalt Drechsler.\n"
+      }
+    ]
+  },
+  {
+    "slug": "kanzlei-titel-ratenzahlung-muenchen",
+    "title": "Bergquell und der noch offene Titel",
+    "matter": "M-26-218",
+    "summary": "Darlehensrückzahlung zwischen zwei Münchner Unternehmen: Urteil, Teilzahlung, Sicherheitsfrage, Kostenerstattung und ein unklarer Kontohinweis. Die Akte verbindet Nachberechnung und kontrollierte Vollstreckungsvorbereitung.",
+    "documents": [
+      {
+        "file": "01_Urteil_LG_Muenchen_I.pdf",
+        "sender": "Landgericht München I\nZivilkammer 18",
+        "recipient": "Bergquell Technik GmbH gegen Isarkiesel Werkstätten GmbH",
+        "date": "München, 4. September 2026",
+        "title": "Urteil Aktenzeichen 18 O 3218/26",
+        "body": [
+          "Im Namen des Volkes. In dem Rechtsstreit der Bergquell Technik GmbH, vertreten durch Geschäftsführer Wunibald Aichinger, gegen die Isarkiesel Werkstätten GmbH, vertreten durch Geschäftsführerin Runa Waldhorn, ergeht aufgrund der mündlichen Verhandlung vom 14. August 2026 folgendes Urteil.",
+          "1. Die Beklagte wird verurteilt, an die Klägerin 18000 Euro nebst Zinsen in Höhe von fünf Prozentpunkten über dem jeweiligen Basiszinssatz seit dem 1. Juni 2026 zu zahlen. 2. Die Beklagte trägt die Kosten des Rechtsstreits. 3. Das Urteil ist gegen Sicherheitsleistung in Höhe von 110 Prozent des jeweils zu vollstreckenden Betrags vorläufig vollstreckbar.",
+          "Tatbestand\nDie Klägerin stellte der Beklagten aufgrund schriftlicher Vereinbarung vom 3. November 2025 ein kurzfristiges Darlehen von 18000 Euro zur Finanzierung von Werkstattausstattung zur Verfügung. Die Auszahlung erfolgte am 5. November 2025. Als Rückzahlungstermin vereinbarten die Parteien den 31. Mai 2026. Eine laufende Verzinsung des Darlehens war nicht vereinbart. Die Parteien sind sich über Auszahlung und Fälligkeit einig. Die Beklagte wandte ein, wegen verzögerter Zahlungen eines eigenen Kunden gegenwärtig nicht vollständig zahlen zu können.",
+          "Entscheidungsgründe\nDie Klage ist begründet. Die Beklagte schuldet den vereinbarten Rückzahlungsbetrag. Ein Leistungsverweigerungsrecht aufgrund eigener Liquiditätsschwierigkeiten besteht in der vorgetragenen Konstellation nicht. Der zuerkannte Zinsanspruch entspricht dem gestellten Antrag. Die Kostenentscheidung beruht auf Paragraf 91 ZPO; die Entscheidung über die vorläufige Vollstreckbarkeit auf Paragraf 709 ZPO.",
+          "Die Parteien waren durch Rechtsanwälte vertreten. Rechtsmittel richten sich nach den gesetzlichen Vorschriften. Gez. Dr. Mechthild Sandner, Richterin am Landgericht. Für die Richtigkeit der Abschrift: Roswitha Lenz, Urkundsbeamtin. Elektronische Abschrift; eine Vollstreckungsklausel ist diesem Ausdruck nicht beigefügt."
+        ]
+      },
+      {
+        "file": "02_Zustellungsvermerk.pdf",
+        "sender": "Kanzlei Eberwin Hartung\nMandat M-26-218\nPosteingang",
+        "recipient": "Handakte Bergquell Technik GmbH",
+        "date": "München, 10. September 2026",
+        "title": "Eingang und Empfangsbekenntnis zum Urteil",
+        "body": [
+          "Das Urteil vom 4. September 2026, Aktenzeichen 18 O 3218/26, ist am 10. September 2026 im elektronischen Postfach eingegangen. Rechtsanwalt Hartung hat das Dokument am selben Tag entgegengenommen und das Empfangsbekenntnis mit diesem Datum abgegeben. Die Nachrichtenkennung und das Übermittlungsprotokoll sind in der führenden elektronischen Gerichtsakte gespeichert.",
+          "Das empfangene PDF enthält auch die gerichtlichen Abschlussvermerke. Die in der Arbeitsmappe abgelegte Lesefassung gibt den Text wieder. Eine vollstreckbare Ausfertigung wurde noch nicht beantragt. Ein Rechtskraftzeugnis liegt nicht vor. Nach der telefonischen Auskunft der Gegenseite vom heutigen Tag wurde auch dort das Urteil am 10. September entgegengenommen; ein eigener Zustellungsbeleg der Gegenseite ist nicht beigefügt.",
+          "Zur Fristbearbeitung an Rechtsanwalt Hartung übergeben. Der Vermerk enthält keine Entscheidung, ob die Beklagte ein Rechtsmittel einlegen wird. Notiert von Walburga Kern, 10. September 2026, 15:22 Uhr. Es wurde kein Vollstreckungsauftrag versandt."
+        ]
+      },
+      {
+        "file": "03_Darlehensvereinbarung.docx",
+        "sender": "Bergquell Technik GmbH\nWerkstattbüro Sendling\nfinanzen@bergquell-technik.example",
+        "recipient": "Isarkiesel Werkstätten GmbH\nGeschäftsführerin Runa Waldhorn",
+        "date": "München, 3. November 2025",
+        "title": "Kurzfristiges Darlehen für Werkstattausstattung",
+        "body": [
+          "1. Betrag und Verwendung\nBergquell Technik GmbH stellt Isarkiesel Werkstätten GmbH 18000 Euro zur Verfügung. Die Auszahlung erfolgt auf das bekannte Geschäftskonto der Darlehensnehmerin. Das Darlehen dient der Beschaffung einer gebrauchten Fräsmaschine und der Einrichtung eines zusätzlichen Arbeitsplatzes. Eine laufende Verzinsung ist nicht vereinbart.",
+          "2. Rückzahlung\nDer vollständige Betrag wird am 31. Mai 2026 zur Rückzahlung fällig. Teilzahlungen vor Fälligkeit sind ohne zusätzliche Vergütung möglich. Eine Verlängerung muss gesondert vereinbart werden. Die Darlehensnehmerin informiert die Darlehensgeberin unverzüglich, wenn die Rückzahlung nach ihrer Einschätzung nicht termingerecht möglich ist. Eine bloße Information ändert die Fälligkeit nicht.",
+          "3. Sicherheiten\nDie Parteien bestellen keine Sicherheit an der Maschine. Eine persönliche Bürgschaft der Geschäftsführerin oder weiterer Gesellschafter ist nicht Bestandteil dieser Vereinbarung. Angaben zu den Geräten dienen allein der Beschreibung des Verwendungszwecks. Eigentumsnachweise und Seriennummern verbleiben bei der Darlehensnehmerin.",
+          "4. Kommunikation und Unterschriften\nAnsprechpartner sind Wunibald Aichinger und Runa Waldhorn. Eine Änderung der Bankverbindung wird vor Zahlung über die bereits bekannte Telefonnummer bestätigt. Für Bergquell unterzeichnet Wunibald Aichinger; für Isarkiesel unterzeichnet Runa Waldhorn. Beide Unterschriften sind auf der bei den Parteien verwahrten Papierfassung geleistet worden. Die vorliegende Abschrift wurde am 12. Juni 2026 durch das Sekretariat erstellt."
+        ]
+      },
+      {
+        "file": "04_Ratenanfrage.eml",
+        "from": "Runa Waldhorn <r.waldhorn@isarkiesel.example>",
+        "to": "Wunibald Aichinger <w.aichinger@bergquell-technik.example>",
+        "date": "2026-09-22T10:24:00+02:00",
+        "subject": "Urteil und Zahlung am Freitag",
+        "body": "Lieber Herr Aichinger, ich kann am Freitag 6000 Euro auf die Hauptforderung überweisen. Könnten wir den verbleibenden Betrag dann in vier Monaten zahlen? Bitte verstehen Sie die Zahlung noch nicht als Zustimmung zu einer Kostenabrechnung, die ich nicht kenne.\n\nUnser Kunde zahlt seit Juli verspätet. Die Werkstatt arbeitet weiter. Eine Insolvenz ist nicht beantragt, soweit ich aus meiner Verantwortung als Geschäftsführerin sagen kann. Ich möchte das nicht als Garantie für alle kommenden Monate verstanden wissen. Bitte sprechen Sie mit Ihrem Anwalt, bevor weitere Kosten entstehen.\n\nDie Zahlung soll ausschließlich die Hauptforderung reduzieren. Ich bitte um kurze Bestätigung dieser Zuordnung. Viele Grüße, Runa Waldhorn\nIsarkiesel Werkstätten GmbH\n\n> Wunibald Aichinger, 22.09.2026, 09:15 Uhr: Bitte machen Sie einen konkreten Vorschlag. Ich habe keine längere Stundung zugesagt."
+      },
+      {
+        "file": "05_Bestaetigung_Tilgung.eml",
+        "from": "Wunibald Aichinger <w.aichinger@bergquell-technik.example>",
+        "to": "Runa Waldhorn <r.waldhorn@isarkiesel.example>",
+        "date": "2026-09-23T08:52:00+02:00",
+        "subject": "Re: Urteil und Zahlung am Freitag",
+        "body": "Sehr geehrte Frau Waldhorn, wir sind damit einverstanden, dass die angekündigten 6000 Euro ausschließlich auf die Hauptforderung angerechnet werden. Damit ist weder ein Verzicht auf Zinsen oder Kosten noch eine Stundung des Restbetrags vereinbart. Über die vorgeschlagenen vier Monate entscheide ich nach Rücksprache.\n\nBitte geben Sie im Verwendungszweck Darlehen 03.11.2025 Hauptforderung an. Unsere Geschäftsverbindung hat sich nicht geändert. Herr Hartung erhält eine Kopie dieser Nachricht für seine Berechnung. Ich werde Ihnen nicht im Namen der Kanzlei bestätigen, dass eine Vollstreckung bereits vorbereitet oder zurückgenommen wurde.\n\nMit freundlichen Grüßen\nWunibald Aichinger\nGeschäftsführer Bergquell Technik GmbH"
+      },
+      {
+        "file": "06_Bankexport.csv",
+        "rows": [
+          [
+            "Buchungstag",
+            "Wertstellung",
+            "Beleg",
+            "Betrag_EUR",
+            "Zweck"
+          ],
+          [
+            "2025-11-05",
+            "2025-11-05",
+            "AUS-1105",
+            "-18000.00",
+            "Darlehensauszahlung an Isarkiesel"
+          ],
+          [
+            "2026-06-01",
+            "2026-06-01",
+            "KONTROLLE",
+            "0.00",
+            "Kein Rückzahlungseingang"
+          ],
+          [
+            "2026-09-25",
+            "2026-09-25",
+            "EIN-0925",
+            "6000.00",
+            "Darlehen 03.11.2025 Hauptforderung"
+          ],
+          [
+            "2026-10-08",
+            "2026-10-08",
+            "ABSTIMMUNG",
+            "0.00",
+            "Seit 25.09. keine weitere Zahlung"
+          ]
+        ]
+      },
+      {
+        "file": "07_Mandantenweisung.eml",
+        "from": "Wunibald Aichinger <w.aichinger@bergquell-technik.example>",
+        "to": "Eberwin Hartung <e.hartung@kanzlei-hartung.example>",
+        "date": "2026-10-08T14:36:00+02:00",
+        "subject": "M-26-218 Wie kommen wir an den Rest?",
+        "body": "Sehr geehrter Herr Hartung, bitte bereiten Sie jetzt vor, wie wir an den Rest kommen. Ich habe die 6000 Euro erhalten. Eine weitere Stundung habe ich noch nicht zugesagt. Im Ordner finden Sie die Mails dazu. Können Sie zugleich unsere Kosten beim Gericht geltend machen? Unser Steuerbüro bestätigt, dass wir die Vorsteuer aus Ihrer Rechnung für diesen Vorgang vollständig abziehen können.\n\nUnser Vertrieb hat eine Kontonummer aus einem alten Kontaktblatt gefunden. Da steht allerdings Runa Waldhorn, nicht Isarkiesel. Ich weiß nicht, ob das ein Privatkonto ist. Bitte klären Sie das, bevor irgendwo etwas rausgeht. Wir haben keine Bankbürgschaft und auch keinen Betrag für eine Sicherheitsleistung hinterlegt. Ich dachte, das Urteil würde allein reichen.\n\nBitte schicken Sie mir einen konkreten Vorschlag mit Kosten und dem nächsten Schritt. Noch keinen Auftrag an Gerichtsvollzieher oder Bank senden. Freundliche Grüße\nWunibald Aichinger, Bergquell Technik GmbH"
+      },
+      {
+        "file": "08_Kostenbelege.csv",
+        "rows": [
+          [
+            "Datum",
+            "Beleg",
+            "Betrag_EUR",
+            "Art",
+            "Anmerkung"
+          ],
+          [
+            "2026-06-12",
+            "VK-0612",
+            "600.00",
+            "Vorschuss Kanzlei netto",
+            "Kein gerichtlicher Festsetzungsbeschluss"
+          ],
+          [
+            "2026-06-12",
+            "UST-0612",
+            "114.00",
+            "Umsatzsteuer Vorschuss",
+            "Voller Vorsteuerabzug bestätigt"
+          ],
+          [
+            "2026-08-14",
+            "FAHRT-0814",
+            "8.40",
+            "Fahrkarte Gerichtstermin",
+            "Beleg in Papierhandakte"
+          ],
+          [
+            "2026-10-08",
+            "GERICHT",
+            "",
+            "Gerichtskostenvorschuss",
+            "Kassenbeleg beim Sekretariat angefordert"
+          ]
+        ]
+      },
+      {
+        "file": "09_Kanzleivermerk.docx",
+        "sender": "Kanzlei Eberwin Hartung\nMandat M-26-218\nSekretariat Walburga Kern",
+        "recipient": "Rechtsanwalt Hartung",
+        "date": "München, 8. Oktober 2026",
+        "title": "Unterlagenstand nach dem Urteil",
+        "body": [
+          "Das Urteil und der Zustellungsvermerk sind vorhanden. Der Auftrag zur Prozessführung wurde am 10. Juni 2026 erteilt. Ein gesonderter Vollstreckungsauftrag liegt nach der heutigen E-Mail noch nicht vor; verlangt ist zunächst eine Vorbereitung mit Kostenangabe. Die Vollmacht umfasst die Prozessführung. Eine ergänzende Weisung zu Ratenvereinbarungen ist nicht abgelegt.",
+          "Die Zahlung von 6000 Euro ist durch Bankexport und Bestätigung des Mandanten belegt. Die Tilgung auf die Hauptforderung wurde am 23. September vereinbart. Zinsberechnung und Kostenaufstellung sind noch nicht gefertigt. Eine endgültige Gebührenrechnung ist nicht abgelegt. Vorhanden ist die Vorschussrechnung über 600 Euro netto zuzüglich Umsatzsteuer.",
+          "Frau Waldhorn fragte telefonisch, ob sie direkt an die Kanzlei zahlen solle. Das Sekretariat hat keine neue Bankverbindung genannt und an den Rechtsanwalt verwiesen. Der Mandant wünscht vorher eine schriftliche Erklärung des weiteren Ablaufs. Die gefundene Kontonotiz stammt aus einem älteren Kontaktvorgang und ist nicht als Geschäftskonto bestätigt.",
+          "Für den Gerichtskostenvorschuss muss der Kassenbeleg aus der Papierhandakte beigezogen werden. Herr Hartung nahm den Verhandlungstermin am 14. August wahr; die Terminsnotiz ist in der führenden Akte. Eine Berufungsschrift oder Nachricht über eine Rechtsmitteleinlegung liegt am 8. Oktober um 16 Uhr nicht vor. Daraus wird im Sekretariat keine Aussage über Rechtskraft abgeleitet. Notiert von Walburga Kern."
+        ]
+      },
+      {
+        "file": "10_Kontaktnotiz.txt",
+        "body": "Vertrieb Bergquell | Übernommene Kontaktkarte\nStand der Karte: 12. Januar 2025\n\nRuna Waldhorn, Ansprechpartnerin Isarkiesel. Auf der Rückseite handschriftlich: Kontoinhaber R. Waldhorn, Bankverbindung nicht vollständig kopiert. Kein Firmenstempel, keine Zahlungsanweisung, keine Bestätigung durch Buchhaltung. Die Karte stammt von einem Treffen beim Werkstattverbund.\n\n8. Oktober 2026, 13:05 Uhr: Wendelin Moos sendet die Karte intern an Herrn Aichinger. Er schreibt dazu: Ich weiß nicht mehr, ob das damals für eine private Sammelbestellung oder für die Werkstatt war. Bitte nicht einfach verwenden.\n\nDie Karte wurde nur als Textabschrift weitergegeben. Die vollständige Kontonummer wurde nicht übernommen. Original liegt bei Wendelin Moos. Keine Weiterleitung an Bank oder Gericht.\n"
+      }
+    ]
+  }
+]

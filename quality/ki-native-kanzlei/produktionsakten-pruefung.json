@@ -1,0 +1,206 @@
+[
+  {
+    "case": "kanzlei-werklohn-lichtbogen-berlin",
+    "documents": [
+      {
+        "file": "01_Auftrag_Messestand.docx",
+        "pdf": "01_Auftrag_Messestand.pdf",
+        "pages": 1,
+        "sha256": "8910acb9b25db3b23faf5623ea5ee8cc7e47456097a92b16ca6de8f9d3c92c0b"
+      },
+      {
+        "file": "02_Rechnung_2026_041.pdf",
+        "pdf": "02_Rechnung_2026_041.pdf",
+        "pages": 1,
+        "sha256": "60bc9f17e2f3fd911d37d3fec3531b6dcf2e5244814c54bda953889609761733"
+      },
+      {
+        "file": "03_Montagevermerk.docx",
+        "pdf": "03_Montagevermerk.pdf",
+        "pages": 1,
+        "sha256": "5af57be46ee2278cb261e333d5c4f532f286e18ecbce5334d27bff2efa4ba81b"
+      },
+      {
+        "file": "04_Gutschrift_2026_017.pdf",
+        "pdf": "04_Gutschrift_2026_017.pdf",
+        "pages": 1,
+        "sha256": "0010e431513297cdf460dcaf24b0e00913c04e4b1ad572038445c691e6baaf03"
+      },
+      {
+        "file": "05_Verfuegung_LG_Berlin_II.pdf",
+        "pdf": "05_Verfuegung_LG_Berlin_II.pdf",
+        "pages": 1,
+        "sha256": "3320f79c6ac5bc7ed05025ee89c00b3b1c2b5eaed30b762d17be47357b65d5ee"
+      },
+      {
+        "file": "06_Mandantenauftrag.eml",
+        "pdf": "06_Mandantenauftrag.pdf",
+        "pages": 1,
+        "sha256": "38e9190627f6ce5249bf9c9d99e52e63068b680d4d9e2db6a9b3f18c03ed79e1"
+      },
+      {
+        "file": "07_Zahlungsvereinbarung.eml",
+        "pdf": "07_Zahlungsvereinbarung.pdf",
+        "pages": 1,
+        "sha256": "c7df86e6df110d8079bb245f3b6ebb784da94b0ec01df9725f8324b22ae41c49"
+      },
+      {
+        "file": "08_Gegnerischer_Vortrag.docx",
+        "pdf": "08_Gegnerischer_Vortrag.pdf",
+        "pages": 1,
+        "sha256": "624a6393c101e369b417c04e73236a782808fb2b03635432f290b72bbdd18505"
+      },
+      {
+        "file": "09_Buchungsjournal.csv",
+        "pdf": "09_Buchungsjournal.pdf",
+        "pages": 1,
+        "sha256": "5ca2d54c7ded553e8130108d6426e0842adc471328d4de39410bcbfce63bbf75"
+      },
+      {
+        "file": "10_Telefonnotiz.txt",
+        "pdf": "10_Telefonnotiz.pdf",
+        "pages": 1,
+        "sha256": "d0d00d9949ac4bdaf61fcf3edb0ae63827bdf312a2af21ef49ff918d5135f721"
+      }
+    ],
+    "total_pages": 16,
+    "source_to_both_pdf_forms": "passed",
+    "flat_archives_and_notices": "passed"
+  },
+  {
+    "case": "kanzlei-softwarevertrag-hafenfaden-hamburg",
+    "documents": [
+      {
+        "file": "01_Mandantenauftrag.eml",
+        "pdf": "01_Mandantenauftrag.pdf",
+        "pages": 1,
+        "sha256": "fc63756745432c94a56f8c053d79180cca3b410d71fd243efb7c40345666aa61"
+      },
+      {
+        "file": "02_Vertrag_Anbieter_V2.docx",
+        "pdf": "02_Vertrag_Anbieter_V2.pdf",
+        "pages": 2,
+        "sha256": "aa7f34815033882acd8bb5f6a235625f8d221c6bff163d02e8ab1e2008d5b170"
+      },
+      {
+        "file": "03_Anbieter_Aenderungen_V3.docx",
+        "pdf": "03_Anbieter_Aenderungen_V3.pdf",
+        "pages": 1,
+        "sha256": "9e50da23e266a43958bed1972344a4e7b557f27301839afd832f317fc1965a08"
+      },
+      {
+        "file": "04_Leistungsanlage_1b.docx",
+        "pdf": "04_Leistungsanlage_1b.pdf",
+        "pages": 1,
+        "sha256": "fb3a96c579a5418cbc72fc74e7b426707d6e126c2816ff1859b1b6900341de24"
+      },
+      {
+        "file": "05_Einkaufsvermerk.docx",
+        "pdf": "05_Einkaufsvermerk.pdf",
+        "pages": 1,
+        "sha256": "6651635110038c8b929050a68b0e7aa92fda02a0bafe56fc315d8373c9c9902e"
+      },
+      {
+        "file": "06_Technik_Rueckfrage.eml",
+        "pdf": "06_Technik_Rueckfrage.pdf",
+        "pages": 1,
+        "sha256": "72fa335d8e27e24431df60dde039d4733231069a7fe76c30217d1943a71bf616"
+      },
+      {
+        "file": "07_Projektchat.txt",
+        "pdf": "07_Projektchat.pdf",
+        "pages": 1,
+        "sha256": "1c7ec9d4245c85a1985e3468291ef1a6cdf050555a256fe5a3edd99fdcaa0b11"
+      },
+      {
+        "file": "08_Rollen_und_Standorte.csv",
+        "pdf": "08_Rollen_und_Standorte.pdf",
+        "pages": 1,
+        "sha256": "eedb2464856d6ec13b8f5b9276d261c39a69ce585438046f8ebc01d65c4e88fb"
+      },
+      {
+        "file": "09_Anwaltliche_Eingangsbestaetigung.eml",
+        "pdf": "09_Anwaltliche_Eingangsbestaetigung.pdf",
+        "pages": 1,
+        "sha256": "db504db7c981c8bf5391a5dd350bb8aa1572ce61632b542e6651612818fe6319"
+      },
+      {
+        "file": "10_Posteingangsvermerk.txt",
+        "pdf": "10_Posteingangsvermerk.pdf",
+        "pages": 1,
+        "sha256": "9b54ca2d82a248db3032c84eb4880b7facfde598bd58634998b8992a0c36b3b5"
+      }
+    ],
+    "total_pages": 15,
+    "source_to_both_pdf_forms": "passed",
+    "flat_archives_and_notices": "passed"
+  },
+  {
+    "case": "kanzlei-titel-ratenzahlung-muenchen",
+    "documents": [
+      {
+        "file": "01_Urteil_LG_Muenchen_I.pdf",
+        "pdf": "01_Urteil_LG_Muenchen_I.pdf",
+        "pages": 1,
+        "sha256": "cf4b0be3a13097a75e10cb1a5d57e8f0496c09631783cb15d9d2a6c8ee1023b1"
+      },
+      {
+        "file": "02_Zustellungsvermerk.pdf",
+        "pdf": "02_Zustellungsvermerk.pdf",
+        "pages": 1,
+        "sha256": "c5ec03da7635c6f78cf4ff02d603d2d41879471ddcf7a8f25e122fa15e8d268d"
+      },
+      {
+        "file": "03_Darlehensvereinbarung.docx",
+        "pdf": "03_Darlehensvereinbarung.pdf",
+        "pages": 1,
+        "sha256": "aae81692e5d023d3add1367eaa1460ff26a46e4caa08b8c6e708777a42c4fb7f"
+      },
+      {
+        "file": "04_Ratenanfrage.eml",
+        "pdf": "04_Ratenanfrage.pdf",
+        "pages": 1,
+        "sha256": "8aee7b710cd4a34e61276507d31ee837484ab848a57fd993b09d80b74b08f39a"
+      },
+      {
+        "file": "05_Bestaetigung_Tilgung.eml",
+        "pdf": "05_Bestaetigung_Tilgung.pdf",
+        "pages": 1,
+        "sha256": "2a1fa0cc07d20be68a4213e230870a016dc3a0f2773e2a23433360237dfa2b66"
+      },
+      {
+        "file": "06_Bankexport.csv",
+        "pdf": "06_Bankexport.pdf",
+        "pages": 1,
+        "sha256": "cc9444ebeb5d1e4551a2d75545f0bb9ce2e589f0642539177d0d995bd6312a3b"
+      },
+      {
+        "file": "07_Mandantenweisung.eml",
+        "pdf": "07_Mandantenweisung.pdf",
+        "pages": 1,
+        "sha256": "60b39dc6866f22aafc03679a3276dad0c9ca98ae0b589634cd0060f20e586e60"
+      },
+      {
+        "file": "08_Kostenbelege.csv",
+        "pdf": "08_Kostenbelege.pdf",
+        "pages": 1,
+        "sha256": "bef246f195c98431618106a355e5431bf1427160311eb34caa63f890de885f93"
+      },
+      {
+        "file": "09_Kanzleivermerk.docx",
+        "pdf": "09_Kanzleivermerk.pdf",
+        "pages": 1,
+        "sha256": "8164a3ca16d1d27556d1b97975c357dd5f54dc05bdedd4d8dbf9c0891c45582d"
+      },
+      {
+        "file": "10_Kontaktnotiz.txt",
+        "pdf": "10_Kontaktnotiz.pdf",
+        "pages": 1,
+        "sha256": "4f05952a214a90ad2f78d286f7cdf6768f7e53917d73d51777f717b8758905ca"
+      }
+    ],
+    "total_pages": 14,
+    "source_to_both_pdf_forms": "passed",
+    "flat_archives_and_notices": "passed"
+  }
+]

@@ -1,3 +1,11 @@
+# ki-native-kanzlei-v445.35.0 - 2026-10-09
+
+Zehn zusätzliche anwaltliche Skills erweitern den Bestand auf 30: Beweisaufbereitung, Forderungsberechnung, Dokumentenfertigung, Anlagenkontrolle, Erwiderung, Gerichtstermin, Vergleich, Kostenerstattung, Vollstreckung und Kanzleivorlagen. Hauptskill, Werkstatt, Mini und Hauptproblem verbinden diese Aufgaben mit den bestehenden Mandatsabläufen. Der neue Einstieg `/dokument` und die konkrete Produktwahl im Mandatslauf vermeiden wiederholte Gesamtaufnahme; offene Frist- und Freigabeentscheidungen behalten Vorrang.
+
+Drei zusätzliche Produktionsakten enthalten insgesamt 30 native Originalstücke. Berlin behandelt einen Werklohnprozess mit Gutschrift, Teilzahlung und streitigem Leistungsumfang; Hamburg einen Softwarevertrag mit abweichenden Fassungen und vertraulicher Einkaufsnotiz; München einen Titel mit Teilzahlung, Ratenanfrage und fehlenden Vollstreckungsnachweisen. Je Akte stehen Gesamt-PDF, flaches Einzel-PDF-ZIP und flaches Originalformat-ZIP bereit. Die 24 bisherigen Kurzfälle bleiben erhalten.
+
+Konkrete Normen und eingeordnete Entscheidungsanker unterstützen die neuen Workflows. Dokumentherstellung, Freigabe, Signatur, Versand und Zugang werden getrennt geprüft. Technische Tests, Paketabgleich und Sichtprüfung sind im Qualitätsbericht dokumentiert; ein Live-Betrieb in echten Postfächern oder bei Gerichten wird nicht behauptet. Eigenes Komponentenrelease, ohne Änderung des allgemeinen Gesamtreleases.
+
 # agb-werkstatt-v1.0.0 - 2026-10-09
 
 Die neue AGB-Werkstatt ergänzt den bestehenden Prüfer unverändert um zehn Fachskills und einen Hauptproblemlöser. Sie führt konkrete Geschäftsunterlagen über gezielte Rückfragen zu vollständigen Verkaufs-, Reparatur-, Handels-, Bank- oder Darlehensbedingungen und den dazugehörigen Einführungs- und Kundentexten.

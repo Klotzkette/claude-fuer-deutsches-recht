@@ -1,0 +1,78 @@
+{
+  "name": "Bergquell und der noch offene Titel",
+  "plugin": "ki-native-kanzlei",
+  "stand": "2026-10-09",
+  "checks": [
+    {
+      "id": "bestand",
+      "check_type": "working_file_count",
+      "description": "Zehn native Originalunterlagen.",
+      "min": 10
+    },
+    {
+      "id": "original-1",
+      "check_type": "file_exists",
+      "description": "01_Urteil_LG_Muenchen_I.pdf",
+      "path": "01_Urteil_LG_Muenchen_I.pdf"
+    },
+    {
+      "id": "original-2",
+      "check_type": "file_exists",
+      "description": "02_Zustellungsvermerk.pdf",
+      "path": "02_Zustellungsvermerk.pdf"
+    },
+    {
+      "id": "original-3",
+      "check_type": "file_exists",
+      "description": "03_Darlehensvereinbarung.docx",
+      "path": "03_Darlehensvereinbarung.docx"
+    },
+    {
+      "id": "original-4",
+      "check_type": "file_exists",
+      "description": "04_Ratenanfrage.eml",
+      "path": "04_Ratenanfrage.eml"
+    },
+    {
+      "id": "original-5",
+      "check_type": "file_exists",
+      "description": "05_Bestaetigung_Tilgung.eml",
+      "path": "05_Bestaetigung_Tilgung.eml"
+    },
+    {
+      "id": "original-6",
+      "check_type": "file_exists",
+      "description": "06_Bankexport.csv",
+      "path": "06_Bankexport.csv"
+    },
+    {
+      "id": "original-7",
+      "check_type": "file_exists",
+      "description": "07_Mandantenweisung.eml",
+      "path": "07_Mandantenweisung.eml"
+    },
+    {
+      "id": "original-8",
+      "check_type": "file_exists",
+      "description": "08_Kostenbelege.csv",
+      "path": "08_Kostenbelege.csv"
+    },
+    {
+      "id": "original-9",
+      "check_type": "file_exists",
+      "description": "09_Kanzleivermerk.docx",
+      "path": "09_Kanzleivermerk.docx"
+    },
+    {
+      "id": "original-10",
+      "check_type": "file_exists",
+      "description": "10_Kontaktnotiz.txt",
+      "path": "10_Kontaktnotiz.txt"
+    },
+    {
+      "id": "mandatsarbeit",
+      "check_type": "human_review",
+      "description": "Belege, Behauptungen, fehlende Unterlagen und konkrete Freigaben werden auseinandergehalten; ein ausformuliertes Arbeitsprodukt entsteht."
+    }
+  ]
+}

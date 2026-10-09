@@ -32,9 +32,9 @@ Rechnung aus bestätigter Basis, Leistung, RVG-Tatbeständen und Auslagen. Netto
 
 ## 5. Fachprodukte
 
-Tatsachen, Belege, Beweislast und Gegenposition prüfen. Amtliche Normvolltexte und zitierte Entscheidungsrandnummern lesen; Gericht, Art, Datum, Aktenzeichen, Pinpoint und URL belegen. Trägt/Trägt nicht prüfen; keine Literaturfundstellen.
+Tatsachen, Belege, Beweislast und Gegenposition prüfen. Normvolltexte und Entscheidungsrandnummern lesen; Gericht, Art, Datum, Aktenzeichen und Fundstelle belegen. Trägt/Trägt nicht prüfen; keine erfundenen Quellen.
 
-Schriftsatz: Anträge, Tatsachen, Begründung, Beweisantritte ausformulieren; Beträge, Zinsen, Anlagen abgleichen. Vertrag/AGB: Rolle, Leistung, Preis, Haftung, Laufzeit, Form; AGB/Individualabrede trennen. Vollständige Ersatzklausel samt Begründung. Mandantenbrief: Ergebnis, Empfehlung, Frist, Kosten; interne Notiz getrennt.
+Schriftsatz: Tatsachen mit Fundstellen, Beweislast und Anträgen verbinden; Teilzahlungen samt Zinsen nachführen. Vertrag: vollständige Klauseln und Anlagenrangfolge. Neuen Vortrag gezielt erwidern. Danach DOCX/PDF tatsächlich erzeugen, jede Seite prüfen, interne Notizen trennen. Folgeauftrag wählen: Termin, Vergleich, Kostenerstattung oder Vollstreckung; hierfür Kostentenor bzw. Titel, Klausel und Zustellung prüfen.
 
 beA: Hauptdokument lesen, Anlagen inhaltlich zuordnen, Nummern und Originale erhalten. PDF-Kopien kontrollieren, nur erste Anlagenseite ohne Überdeckung stempeln; signierte Originale unverändert. Aktuelle Dateivorgaben prüfen. Paket, Signatur, Versand und gerichtlicher Eingang sind getrennte Zustände. Agentenklick ist kein persönlicher Versand; Signatur-/Übermittlungsweg prüfen. eEB im Prototyp nur durch Menschen.
 
@@ -51,4 +51,4 @@ Vor Versand Outlook/Gmail/beA: Absender, To/CC/BCC, Betreff, vollständiger Text
 ## 7. Status und Gates
 
 `mandatslauf.py`, sonst Textstatus: Phase/Nebenläufe, Stufe, Produktkennung/Pfad/Hash oder Textfassung, Friststatus, Honorar, bestätigte Minuten, Fragen, nächster Skill/Produkt. Keine erfundenen Hashes. Stufen: 0 Text, 1 interne Dateien, 2 Journal/Register/interne Rechnungsentwürfe, 3 ausgabefertige Pakete; realer Versand nur ab 3. Gates: G1 Annahme, G2 Fristeintrag, G3 Versand, G4 Rechnung, G5 Geld, G6 Dienste, G7 Meldung, G8 Abschluss/Löschung. Benannte Menschen entscheiden über konkrete Fassungen; Namen sind keine Zustimmung. G2 vorrangig; Frist im Brief eingetragen oder ausdrücklich vorläufig. Produktänderungen erneuern Freigabeprüfung. Abschluss erst nach G4/G5/G8 freigegeben oder nicht erforderlich. Computerstand: Sitzung, Modus/Ablaufzeit, Aktionskennung, Manifest, Person, Versuch, Versand-/Empfangsnachweis.
-Stand 08.10.2026.
+Stand 09.10.2026.

@@ -30,7 +30,9 @@ jobs:
           ref: ${{ github.event.inputs.tag || github.ref }}
       - name: Python-Abhängigkeiten und Schrift
         run: |
-          python3 -m pip install reportlab pypdf PyYAML
+          python3 -m pip install reportlab pypdf PyYAML python-docx openpyxl
+          timeout 600 sudo apt-get update
+          timeout 600 sudo apt-get install -y --no-install-recommends libreoffice-writer fonts-liberation2
           mkdir -p "$RUNNER_TEMP/fonts"
           curl -fsSL https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz -o "$RUNNER_TEMP/lib.tgz" || true
           if [ -s "$RUNNER_TEMP/lib.tgz" ]; then tar -xzf "$RUNNER_TEMP/lib.tgz" -C "$RUNNER_TEMP/fonts" --strip-components=1; fi
@@ -49,6 +51,12 @@ jobs:
           python3 scripts/test-ki-native-kanzlei-computerlauf.py
           python3 scripts/test-ki-native-kanzlei-lauf.py
           python3 scripts/test-ki-native-kanzlei-fristen.py
+          python3 scripts/test-ki-kanzlei-produktionslauf.py
+          python3 scripts/test-si-native-kanzlei.py
+          python3 scripts/test-si-native-kanzlei-exporte.py
+          node scripts/validate-plugin-structure.mjs
+          node scripts/validate-marketplace-import.mjs
+          python3 scripts/validate-yaml-frontmatter.py
       - name: Lesefassungen setzen
         run: |
           if [ -f "$RUNNER_TEMP/fonts/LiberationSerif-Regular.ttf" ]; then FONTDIR="$RUNNER_TEMP/fonts"; else FONTDIR=$(dirname "$(fc-list | grep -m1 'LiberationSerif-Regular' | cut -d: -f1)"); fi
@@ -56,7 +64,12 @@ jobs:
           python3 scripts/build-ki-native-kanzlei-handbuch.py --out "$RUNNER_TEMP/pdf" --font-dir "$FONTDIR" --font-family liberation-serif
           cat "$RUNNER_TEMP/pdf/umfang.json"
       - name: Pakete bauen
-        run: python3 scripts/build-ki-native-kanzlei-release.py --dist "$RUNNER_TEMP/dist" --pdf-dir "$RUNNER_TEMP/pdf"
+        run: |
+          python3 scripts/build-ki-native-kanzlei-release.py --dist "$RUNNER_TEMP/dist" --pdf-dir "$RUNNER_TEMP/pdf"
+          python3 scripts/build-ki-kanzlei-produktionspakete.py --dist "$RUNNER_TEMP/dist"
+          cp "$RUNNER_TEMP/pdf/umfang.json" quality/ki-native-kanzlei/umfang.json
+          python3 scripts/test-ki-native-kanzlei-source.py
+          python3 scripts/test-ki-native-kanzlei-pakete.py "$RUNNER_TEMP/dist"
       - name: Releasetext aus dem Changelog
         run: |
           awk -v t="# $TAG" 'index($0,t)==1{f=1;next} /^# /{if(f)exit} f' CHANGELOG.md > "$RUNNER_TEMP/notes.md"
@@ -72,7 +85,7 @@ jobs:
             gh release create "$TAG" --draft --verify-tag --title "KI-native Kanzlei ${TAG#ki-native-kanzlei-}" --notes-file "$RUNNER_TEMP/notes.md" --latest=false
           fi
           gh release upload "$TAG" "$RUNNER_TEMP"/dist/* --clobber
-          test "$(gh release view "$TAG" --json assets --jq '.assets | length')" = 5
+          test "$(gh release view "$TAG" --json assets --jq '.assets | length')" = 14
           mkdir -p "$RUNNER_TEMP/verify"
           gh release download "$TAG" --dir "$RUNNER_TEMP/verify"
           (cd "$RUNNER_TEMP/verify" && sha256sum --check checksums-sha256.txt)

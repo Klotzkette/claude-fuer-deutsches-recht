@@ -1,0 +1,113 @@
+$ scripts/validate-plugin-structure.mjs
+validate-plugin-structure OK
+
+$ scripts/validate-marketplace-import.mjs
+Marketplace-Importprüfung: 293 Plugins, 23203 Skills, 293 README-Dateien
+OK
+
+$ scripts/validate-yaml-frontmatter.py
+validate-yaml-frontmatter: 0 Fehler, 0 Warnungen
+OK
+
+$ scripts/test-ki-native-kanzlei-source.py
+{"skills": 30, "prompt_limits": {"schnellstart": {"utf8_bytes": 7493, "words": 824}, "hauptproblem": {"utf8_bytes": 7495, "words": 824}, "werkstatt": {"utf8_bytes": 135308, "words": 15788}}, "pages_total": 321, "all_checks": "passed"}
+
+$ scripts/test-ki-kanzlei-produktionslauf.py
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.697s
+
+OK
+
+$ scripts/test-ki-native-kanzlei-start.py
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
+
+$ scripts/test-ki-native-kanzlei-computerlauf.py
+...................................
+----------------------------------------------------------------------
+Ran 35 tests in 0.247s
+
+OK
+
+$ scripts/test-ki-native-kanzlei-lauf.py
+test_cockpit_markdown (__main__.CockpitTests.test_cockpit_markdown) ... ok
+test_cockpit_missing_root (__main__.CockpitTests.test_cockpit_missing_root) ... ok
+test_cockpit_orders_by_urgency (__main__.CockpitTests.test_cockpit_orders_by_urgency) ... ok
+test_invalid_side_run_does_not_hide_other_mandates_in_markdown (__main__.CockpitTests.test_invalid_side_run_does_not_hide_other_mandates_in_markdown) ... ok
+test_markdown_keeps_four_column_limit (__main__.CockpitTests.test_markdown_keeps_four_column_limit) ... ok
+test_partial_json_does_not_hide_other_mandates (__main__.CockpitTests.test_partial_json_does_not_hide_other_mandates) ... ok
+test_changed_product_cannot_inherit_review (__main__.LaufTests.test_changed_product_cannot_inherit_review) ... ok
+test_closing_requires_decided_gates (__main__.LaufTests.test_closing_requires_decided_gates) ... ok
+test_control_characters_rejected (__main__.LaufTests.test_control_characters_rejected) ... ok
+test_denied_closing_gate_blocks_closure (__main__.LaufTests.test_denied_closing_gate_blocks_closure) ... ok
+test_gate_cannot_be_released_unopened (__main__.LaufTests.test_gate_cannot_be_released_unopened) ... ok
+test_gate_needs_named_person (__main__.LaufTests.test_gate_needs_named_person) ... ok
+test_gate_release_rejects_unregistered_file_change (__main__.LaufTests.test_gate_release_rejects_unregistered_file_change) ... ok
+test_gate_reset_after_release (__main__.LaufTests.test_gate_reset_after_release) ... ok
+test_gate_routes_to_registered_product_skill (__main__.LaufTests.test_gate_routes_to_registered_product_skill) ... ok
+test_init_refuses_overwrite (__main__.LaufTests.test_init_refuses_overwrite) ... ok
+test_init_rejects_bad_level (__main__.LaufTests.test_init_rejects_bad_level) ... ok
+test_named_product_approval_keeps_exact_reviewed_hash (__main__.LaufTests.test_named_product_approval_keeps_exact_reviewed_hash) ... ok
+test_next_follows_phase_without_gates (__main__.LaufTests.test_next_follows_phase_without_gates) ... ok
+test_next_prefers_open_deadline_gate (__main__.LaufTests.test_next_prefers_open_deadline_gate) ... ok
+test_open_gate_preserves_named_responsible (__main__.LaufTests.test_open_gate_preserves_named_responsible) ... ok
+test_phase_and_side_run (__main__.LaufTests.test_phase_and_side_run) ... ok
+test_product_hash_and_replacement (__main__.LaufTests.test_product_hash_and_replacement) ... ok
+test_product_release_requires_named_person (__main__.LaufTests.test_product_release_requires_named_person) ... ok
+test_product_requires_file_and_relative_path (__main__.LaufTests.test_product_requires_file_and_relative_path) ... ok
+test_questions_and_history (__main__.LaufTests.test_questions_and_history) ... ok
+test_registered_change_reopens_bound_gate (__main__.LaufTests.test_registered_change_reopens_bound_gate) ... ok
+test_release_requires_review_first (__main__.LaufTests.test_release_requires_review_first) ... ok
+test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions (__main__.LaufTests.test_same_hash_skill_change_updates_routing_and_preserves_gate_decisions) ... ok
+test_unknown_phase (__main__.LaufTests.test_unknown_phase) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.077s
+
+OK
+
+$ scripts/test-ki-native-kanzlei-fristen.py
+test_bad_amounts (__main__.CalendarTests.test_bad_amounts) ... ok
+test_bad_profile (__main__.CalendarTests.test_bad_profile) ... ok
+test_calendar_coverage_no_silent_rollover (__main__.CalendarTests.test_calendar_coverage_no_silent_rollover) ... ok
+test_calendar_rejects_unverified (__main__.CalendarTests.test_calendar_rejects_unverified) ... ok
+test_calendar_semantics (__main__.CalendarTests.test_calendar_semantics) ... ok
+test_cli_no_overwrite_and_readable_audit (__main__.CalendarTests.test_cli_no_overwrite_and_readable_audit) ... ok
+test_duplicate_holiday (__main__.CalendarTests.test_duplicate_holiday) ... ok
+test_fixed (__main__.CalendarTests.test_fixed) ... ok
+test_hours_ambiguous_requires_explicit_valid_offset (__main__.CalendarTests.test_hours_ambiguous_requires_explicit_valid_offset) ... ok
+test_hours_both_folds_valid (__main__.CalendarTests.test_hours_both_folds_valid) ... ok
+test_hours_dst_and_excluded_days (__main__.CalendarTests.test_hours_dst_and_excluded_days) ... ok
+test_input_immutable_and_hash_stable (__main__.CalendarTests.test_input_immutable_and_hash_stable) ... ok
+test_long_year_does_not_mean_365 (__main__.CalendarTests.test_long_year_does_not_mean_365) ... ok
+test_no_assumed_monday_shift (__main__.CalendarTests.test_no_assumed_monday_shift) ... ok
+test_rule_rejects_unverified (__main__.CalendarTests.test_rule_rejects_unverified) ... ok
+test_schema_boolean_not_version (__main__.CalendarTests.test_schema_boolean_not_version) ... ok
+test_unknown_rules_not_ignored (__main__.CalendarTests.test_unknown_rules_not_ignored) ... ok
+test_workdays_need_definition (__main__.CalendarTests.test_workdays_need_definition) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.047s
+
+OK
+
+$ scripts/test-si-native-kanzlei.py
+...................
+----------------------------------------------------------------------
+Ran 19 tests in 0.223s
+
+OK
+
+$ scripts/test-si-native-kanzlei-exporte.py
+................
+----------------------------------------------------------------------
+Ran 16 tests in 0.405s
+
+OK
+
+$ scripts/test-ki-native-kanzlei-pakete.py /tmp/ki-kanzlei-44535/dist
+{"scope": "KI-Komponentenrelease; zentrale Paket-/Downloadprüffunktionen unverändert", "skills": 30, "plugin_and_portable_source_identical": true, "prompts_separate": true, "handbook_pages": 321, "preserved_originals": 240, "baseline": "si-native-kanzlei-v445.33.3"}
